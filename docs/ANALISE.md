@@ -181,7 +181,7 @@ A pasta `ModProject_6b2SYs/` é o projeto de mod criado pelo editor do jogo (nam
 | Descoberta | O editor lista subpastas `ModProject_<soleID>` da raiz que tenham `ModProject/ModProject.cache`. O nome da pasta tem de bater com o `soleID`. |
 | `ModProject.cache` | JSON puro (`soleID`, `name`, `author`, `ver`, `excelEncrypt`…). |
 | `ModData.cache` | JSON puro com os dados das tabelas editadas no editor. |
-| `ModCode/` | Criado só quando a aba Code é aberta. Copia `Mod/modFQA/代码编写教程/ModMain`, troca `ModMain` por `MOD_<soleID>` em `RootNamespace`/`AssemblyName`, reescreve os `<HintPath>` com a pasta do jogo e copia `dll/Assembly-CSharp.dll`. O `obj/` que vem do modelo é lixo da máquina do desenvolvedor. |
+| `ModCode/` | Criado só quando a aba Code é aberta. Copia `Mod/modFQA/代码编写教程/ModMain`, troca `ModMain` por `MOD_<soleID>` em `RootNamespace`/`AssemblyName`, reescreve os `<HintPath>` com a pasta do jogo e copia `dll/Assembly-CSharp.dll`. O `obj/` que vem do modelo é lixo da máquina do desenvolvedor. Se `ModCode/` já existe, o editor não mexe nele: depois da troca para `$(GameDir)`, abrir a aba Code deixou o `.csproj` e a `dll/` intactos (hash igual). |
 | Exportação | `<jogo>/ModExportData/Mod_<soleID>/`: `ModAssets/` (cópia literal), `ModExcel/` (cifrado se `excelEncrypt`), `ModCode/dll/MOD_<soleID>.dll` (vem de `ModCode/ModMain/bin/Release`) e `ModExportData.cache`. |
 | Carga | `ConfMgr.Init` → `ModMgr.LoadAllMod` → `LoadMod(<pasta>/ModExportData.cache)`. O namespace vem do `.cache`, não do nome da pasta (ex.: `Mod_InstantDialog` contém `MOD_KIolfL.dll`). |
 | Arquivos do mod em runtime | `g.mod.GetModPathRoot("<soleID>")` devolve a raiz exportada; os arquivos de `ModAssets/` ficam em `<raiz>/ModAssets/`. |
