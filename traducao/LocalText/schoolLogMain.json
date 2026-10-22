@@ -1,0 +1,572 @@
+{
+ "schoolLogMain1001": {
+  "ch": "宗门花费{0}灵石，为藏经阁置换了一批崭新的秘籍。",
+  "en": "The sect used {0} Spirit Stones to replace a batch of manuals for the Manual Library.",
+  "pt": ""
+ },
+ "schoolLogMain101": {
+  "ch": "本月宗门共<color=#257400>招募</color>了<color=#745000>{0}</color>名新弟子。",
+  "en": "<color=#257400>New</color> Disciples this month: <color=#745000>{0}</color>",
+  "pt": ""
+ },
+ "schoolLogMain102": {
+  "ch": "本月共收集了<color=#745000>{0}</color>份<color=#257400>炼丹材料</color>。",
+  "en": "<color=#257400>Alchemy materials</color> collected this month: <color=#745000>{0}</color>",
+  "pt": ""
+ },
+ "schoolLogMain103": {
+  "ch": "本月共<color=#257400>成功炼制</color>了<color=#745000>{0}</color>颗丹药。",
+  "en": "Elixirs <color=#257400>successfully concocted</color> this month: <color=#745000>{0}</color>",
+  "pt": ""
+ },
+ "schoolLogMain104": {
+  "ch": "本月共<color=#257400>成功清理</color>了<color=#745000>{0}</color>个领地内的<color=#6F0000>怪物</color>。",
+  "en": "<color=#745000>{0}</color> <color=#6F0000>monsters</color> were <color=#257400>eliminated</color> from the sect territory this month",
+  "pt": ""
+ },
+ "schoolLogMain105": {
+  "ch": "本月共完成了<color=#745000>{0}</color>个驻守领地任务。",
+  "en": "Territory Garrison missions completed this month: <color=#745000>{0}</color>",
+  "pt": ""
+ },
+ "schoolLogMain106": {
+  "ch": "本月共<color=#257400>成功平定</color>了<color=#745000>{0}</color>个领地内的<color=#6F0000>叛乱</color>。",
+  "en": "<color=#745000>{0}</color> <color=#6F0000>rebellions</color> were <color=#257400>pacified</color> in the sect territory this month",
+  "pt": ""
+ },
+ "schoolLogMain107": {
+  "ch": "本月共<color=#257400>成功运送</color>了<color=#745000>{0}</color>批丹药至目的地，宗门获得了<color=#745000>{1}</color><color=#257400>灵石</color>。",
+  "en": "<color=#745000>{0}</color> batches of Elixirs were <color=#257400>successfully delivered</color> this month. Our sect earned <color=#745000>{1}</color><color=#257400> Spirit Stones</color>",
+  "pt": ""
+ },
+ "schoolLogMain108": {
+  "ch": "本月宗门共<color=#257400>成功扩张</color>了<color=#745000>{0}</color>格领地。",
+  "en": "Our sect <color=#257400>expanded</color> our territory by <color=#745000>{0}</color> spaces",
+  "pt": ""
+ },
+ "schoolLogMain109": {
+  "ch": "本月宗门弟子共<color=#257400>击杀</color>了<color=#745000>{0}</color>名<color=#6F0000>敌道弟子</color>，<color=#257400>宗门名誉</color>提升了<color=#745000>{1}</color>。",
+  "en": "Our Sect Disciples <color=#257400>killed</color> <color=#745000>{0}</color> <color=#6F0000>enemy Sect Disciple</color> this month. <color=#257400>Sect Prestige</color> +<color=#745000>{1}</color>.",
+  "pt": ""
+ },
+ "schoolLogMain110": {
+  "ch": "本月灵草园共收获了<color=#745000>{0}</color>份<color=#257400>炼丹材料</color>。",
+  "en": "<color=#257400>Alchemy materials</color> harvested from the Herb Garden this month: <color=#745000>{0}</color>",
+  "pt": ""
+ },
+ "schoolLogMain1101": {
+  "ch": "宗门花费{0}药材，为宗门聚宝仙楼置换了一批崭新的物品。",
+  "en": "The sect used {0} herbs to replace a batch of items with brand new ones for the sect's Treasure Pavilion.",
+  "pt": ""
+ },
+ "schoolLogMain1102": {
+  "ch": "宗门花费{0}矿材，为宗门聚宝仙楼置换了一批崭新的物品。",
+  "en": "The sect used {0} ores to replace a batch of items with brand new ones for the sect's Treasure Pavilion.",
+  "pt": ""
+ },
+ "schoolLogMain111": {
+  "ch": "本月共收集了<color=#E5AF24>{0}</color>份<color=#76EF77>矿石材料</color>。",
+  "en": "<color=#76EF77>Ores</color> collected this month: <color=#E5AF24>{0}</color>",
+  "pt": ""
+ },
+ "schoolLogMain112": {
+  "ch": "本月共<color=#76EF77>成功降服</color>了<color=#E5AF24>{0}</color>个领地内的<color=#6F0000>妖物</color>。",
+  "en": "<color=#E5AF24>{0}</color> <color=#6F0000>monsters</color> were <color=#76EF77>subdued</color> in the sect territory this month",
+  "pt": ""
+ },
+ "schoolLogMain1201": {
+  "ch": "在发展壮大的过程中，宗门难免受到有心之人暗中诟病。宗门的名誉下降了{0}。",
+  "en": "In the process of great development, the sect was inevitably plagued by quiet criticism. The prestige of the sect has fallen by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain1301": {
+  "ch": "在发展壮大的过程中，宗门弟子难免被外人蛊惑引诱。宗门的忠诚度下降了{0}。",
+  "en": "In the process of great development, the sect disciples were inevitably tempted and lured by outsiders. The sect loyalty has fallen by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain1401": {
+  "ch": "宗门领地需要大阵的庇护。为了覆盖全部领地，宗门大阵的耐久度下降了{0}。",
+  "en": "The sect territory requires the protection of an array. In order to cover the entire territory, the sect array's durability has fallen by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain1501": {
+  "ch": "在发展壮大的过程中，宗门难免遭到寻衅滋事、妖兽侵扰。宗门的安定度降低了{0}。",
+  "en": "In the process of great development, the sect was inevitably plagued by disputes and monster invasions. Sect stability has fallen by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain1601": {
+  "ch": "由于部分弟子对宗门不再忠诚、选择离开，宗门的人数减少了{0}。",
+  "en": "A number of disciple were no longer loyal to the sect and chose to leave. The sect population has declined by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain1701": {
+  "ch": "由于部分弟子在执行任务的过程中陨落，宗门的人口减少了{0}。",
+  "en": "A number of disciples were lost while carrying out their missions. The sect population has declined by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain1801": {
+  "ch": "{0}被提拔为{1}。",
+  "en": "{0} was promoted to {1}.",
+  "pt": ""
+ },
+ "schoolLogMain1901": {
+  "ch": "{0}被降职为{1}。",
+  "en": "{0} was demoted to {1}.",
+  "pt": ""
+ },
+ "schoolLogMain199": {
+  "ch": "本月共发布任务{0}个招募、{1}个搜集药材、{2}个炼制丹药、{3}个清理怪物、{4}个驻守领地、{5}个平定叛乱、{6}个运送丹药、{7}个扩张领地、{8}个击杀敌道、{9}个打理灵草园。",
+  "en": "Missions published this month: Recruit ({0}), Collecting Herbs ({1}), Elixir Concoction ({2}), Monster Sweep ({3}), Territory Garrison ({4}), Elixir Delivery ({5}), Territory Expansion ({6}), Pacifying Rebellions ({7}), Enemy Elimination ({8}), Tending Herb Garden ({9})",
+  "pt": ""
+ },
+ "schoolLogMain2001": {
+  "ch": "{0}晋升为{1}。",
+  "en": "{0} was promoted to {1}.",
+  "pt": ""
+ },
+ "schoolLogMain201": {
+  "ch": "<color=#257400>{0}-{1}</color>被<color=#6F0000>{2}-{3}</color>击败，<color=#6F0000>宗门名誉</color>下降了<color=#745000>{4}</color>。",
+  "en": "<color=#257400>{0}-{1}</color> was defeated by <color=#6F0000>{2}-{3}</color>. <color=#6F0000>Sect Prestige</color> decrease by <color=#745000>{4}</color>.",
+  "pt": ""
+ },
+ "schoolLogMain202": {
+  "ch": "本月共有<color=#745000>{0}</color>名弟子<color=#6F0000>不幸遇难</color>，<color=#745000>{1}</color>名弟子<color=#6F0000>离宗</color>。",
+  "en": "<color=#745000>{0}</color> members <color=#6F0000>died</color> this month. <color=#745000>{1}</color> members <color=#6F0000>left the sect</color>.",
+  "pt": ""
+ },
+ "schoolLogMain203": {
+  "ch": "<color=#257400>{0}</color>等级提升至<color=#745000>{1}</color>级。",
+  "en": "<color=#257400>{0}</color> leveled up to <color=#745000>{1}</color>",
+  "pt": ""
+ },
+ "schoolLogMain204": {
+  "ch": "宗门领地<color=#745000>{0}</color>被<color=#6F0000>{1}</color>侵占了。",
+  "en": "<color=#745000>{0}</color> (Sect Territory) was occupied by <color=#6F0000>{1}</color>",
+  "pt": ""
+ },
+ "schoolLogMain205": {
+  "ch": "宗门在天龙城举行了<color=#257400>{0}</color>，引得各方高人前来观赛，<color=#745000>宗门名誉</color>提升了<color=#745000>{1}</color>。",
+  "en": "Our Sect hosted <color=#257400>{0}</color> in Tianlong City and attracted many spectators. <color=#745000>Sect Prestige</color> increased by <color=#745000>{1}</color>.",
+  "pt": ""
+ },
+ "schoolLogMain206": {
+  "ch": "本月宗门共征得税收<color=#745000>{0}</color><color=#257400>灵石</color>，宗门当前共有<color=#257400>领地</color><color=#745000>{1}</color>格，领地内的<color=#6F0000>安定度</color>下降了<color=#745000>{2}</color>。",
+  "en": "Tax received this month: <color=#745000>{0}</color><color=#257400> Spirit Stones</color>. Total <color=#257400>territory size</color>: <color=#745000>{1}</color>. Territory <color=#6F0000>Stability</color> -<color=#745000>{2}</color>",
+  "pt": ""
+ },
+ "schoolLogMain207": {
+  "ch": "本月宗门共发放工资<color=#745000>{0}</color><color=#257400>灵石</color>，宗门当前共有<color=#745000>{1}</color>人。",
+  "en": "Wages paid this month: <color=#745000>{0}</color><color=#257400> Spirit Stones</color>. Total sect members: <color=#745000>{1}</color>",
+  "pt": ""
+ },
+ "schoolLogMain2101": {
+  "ch": "{0}降职为{1}。",
+  "en": "{0} was demoted to {1}.",
+  "pt": ""
+ },
+ "schoolLogMain2102": {
+  "ch": "因{0}长老晋升为{1}，职位降为{2}。",
+  "en": "Elder {0} was promoted to {2}, so you are demoted to {1}.",
+  "pt": ""
+ },
+ "schoolLogMain2103": {
+  "ch": "因{0}长老晋升为{1}，{2}职位降为{3}。",
+  "en": "Elder {0} was promoted to {1}, so {2} was demoted to {3}.",
+  "pt": ""
+ },
+ "schoolLogMain2201": {
+  "ch": "{0}获得宗门传承的认可，荣登{1}宗主之位。",
+  "en": "{0} was acknowledged by the Sect Tradition, and honored with the position of {1} Sect Leader.",
+  "pt": ""
+ },
+ "schoolLogMain2301": {
+  "ch": "因{0}长老陨落，{1}职位降为内门弟子。",
+  "en": "Because of {0} Elder's fall, you are demoted from {1} to Disciple.",
+  "pt": ""
+ },
+ "schoolLogMain2501": {
+  "ch": "{0}在{1}的入门小比中表现优异，成为{1}的外门弟子。",
+  "en": "{0} performed excellently in the beginner's competition at {1} and became an outer disciple of {1}.",
+  "pt": ""
+ },
+ "schoolLogMain2601": {
+  "ch": "{0}{1}在{2}中不幸阵亡，只剩<r>一丝元魂</r>！",
+  "en": "{0}{1} fell tragically in battle in {2}, and is on their <r>Last Breath</r>!",
+  "pt": ""
+ },
+ "schoolLogMain2602": {
+  "ch": "{0}{1}在{2}中不幸阵亡，只剩<r>一丝元魂</r>！",
+  "en": "{0}{1} fell tragically in battle in {2}, and is on their <r>Last Breath</r>!",
+  "pt": ""
+ },
+ "schoolLogMain2603": {
+  "ch": "{0}{1}遭到{2}的攻击，惨遭杀害只剩<r>一丝元魂</r>！",
+  "en": "{0}{1} was attacked by {2}, and is on their <r>Last Breath</r>!",
+  "pt": ""
+ },
+ "schoolLogMain2604": {
+  "ch": "{0}{1}<r>寿元耗尽</r>！",
+  "en": "{0}{1}'s <r>time was exhausted</r>!",
+  "pt": ""
+ },
+ "schoolLogMain2605": {
+  "ch": "{0}{1}<r>元魂消散</r>！",
+  "en": "{0}{1}'s <r>immortal soul dissipated</r>!",
+  "pt": ""
+ },
+ "schoolLogMain2606": {
+  "ch": "{0}{1}在{2}中全力对抗入侵，拼死守护宗门，却最终难以抵敌对方，不幸当场陨落！",
+  "en": "{0}{1} fought the invasion with all their might in {2} to defend the sect, but were defeated by the enemy in the end and fell in battle!",
+  "pt": ""
+ },
+ "schoolLogMain2607": {
+  "ch": "{0}{1}在{2}中，不幸陨落！",
+  "en": "{0}{1} fell in {2}!",
+  "pt": ""
+ },
+ "schoolLogMain2608": {
+  "ch": "{0}{1}在{2}中，不幸阵亡！",
+  "en": "{0}{1} fell in battle in {2}!",
+  "pt": ""
+ },
+ "schoolLogMain2609": {
+  "ch": "{0}{1}遭到{2}的攻击，惨遭杀害！",
+  "en": "{0}{1} were attacked by {2} and were brutally killed!",
+  "pt": ""
+ },
+ "schoolLogMain2610": {
+  "ch": "前往支援{0}的{1}{2}在{3}中，不幸陨落！",
+  "en": "The one to went to support {0}, {1}{2} fell in {3}!",
+  "pt": ""
+ },
+ "schoolLogMain2611": {
+  "ch": "前往支援{0}的{1}{2}在{3}中，不幸阵亡！",
+  "en": "The one to went to support {0}, {1}{2} were killed in {3}!",
+  "pt": ""
+ },
+ "schoolLogMain2612": {
+  "ch": "前往支援{0}的{1}{2}在{3}中，不幸阵亡只剩一丝元魂！",
+  "en": "The one to went to support {0}, {1}{2} were killed in {3}, with only a trace of their souls left!",
+  "pt": ""
+ },
+ "schoolLogMain2701": {
+  "ch": "宗门灵石不足，本月没有发放俸禄，弟子的忠诚度降低了{0}。",
+  "en": "The sect has not enough Spirit Stones. No wages were distributed this month, and the disciples' loyalty has fallen by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain2702": {
+  "ch": "宗门本月额外发放俸禄,消耗了灵石{0},弟子的忠诚度提高了{1}。",
+  "en": "The sect distributed extra wages this month, and it cost {0} Spirit Stones. The disciples' loyalty has increased by {1}.",
+  "pt": ""
+ },
+ "schoolLogMain2703": {
+  "ch": "宗门本月发放俸禄，花费了灵石{0}。",
+  "en": "The Sect spent {0} Spirit Stones to pay out wages this month.",
+  "pt": ""
+ },
+ "schoolLogMain2801": {
+  "ch": "{0}本月完成了{1}个任务，宗门{2}。",
+  "en": "{0} completed {1} Missions in this month. Sect {2}.",
+  "pt": ""
+ },
+ "schoolLogMain2901": {
+  "ch": "宗门花费{0}灵石，扩大了宗门的领地范围。",
+  "en": "The Sect spent {0} Spirit Stones and expanded the Sect's territory.",
+  "pt": ""
+ },
+ "schoolLogMain3001": {
+  "ch": "经过弟子们的辛勤劳作，我宗从{0}获得了{1}。",
+  "en": "Through the hard work of the Disciples, our Sect obtained {1} from {0}.",
+  "pt": ""
+ },
+ "schoolLogMain301": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的招募任务，招募了<color=#745000>{2}</color>名弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> recruitment mission and recruited <color=#745000>{2}</color> disciples.",
+  "pt": ""
+ },
+ "schoolLogMain302": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的收集药材任务，收集到<color=#745000>{2}</color>份材料，死亡了<color=#745000>{3}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> herb collection mission and collected <color=#745000>{2}</color> pieces of material, with <color=#745000>{3}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain303": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的炼制丹药任务，炼制了<color=#745000>{2}</color>颗丹药。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> pill refining mission and refined <color=#745000>{2}</color> pills.",
+  "pt": ""
+ },
+ "schoolLogMain304": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的清理怪物任务，清理了<color=#745000>{2}</color>个怪物，死亡了<color=#745000>{3}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> monster elimination mission and Defenseeated <color=#745000>{2}</color> monsters, with <color=#745000>{3}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain305": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的驻守领地任务，提升了<color=#745000>{2}</color>安定度，死亡了<color=#745000>{3}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> territory guarding mission and increased stability by <color=#745000>{2}</color>, with <color=#745000>{3}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain306": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的平定叛乱任务，平定了<color=#745000>{2}</color>个判乱，死亡了<color=#745000>{3}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> rebellion suppression mission and pacified <color=#745000>{2}</color> rebellions, with <color=#745000>{3}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain307": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的运送丹药任务，运送了<color=#745000>{2}</color>批丹药，宗门增加了<color=#745000>{3}</color>灵石，死亡了<color=#745000>{4}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> pill delivery mission and delivered <color=#745000>{2}</color> batches of pills, earning the sect <color=#745000>{3}</color> Spirit Stones, with <color=#745000>{4}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain308": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的扩张领地任务，扩张了<color=#745000>{2}</color>个格子，死亡了<color=#745000>{3}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> territory expansion mission and expanded <color=#745000>{2}</color> spaces, with <color=#745000>{3}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain309": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的击杀敌道任务，击杀了<color=#745000>{2}</color>名敌道弟子，死亡了<color=#745000>{3}</color>名外门弟子。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> enemy disciple killing mission and killed <color=#745000>{2}</color> enemy disciples, with <color=#745000>{3}</color> outer disciples dying.",
+  "pt": ""
+ },
+ "schoolLogMain310": {
+  "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的打理灵草园任务，产出了<color=#745000>{2}</color>份炼丹材料。",
+  "en": "<color=#745000>{0}</color> outer disciples accepted a level <color=#745000>{1}</color> spirit herb garden maintenance mission and produced <color=#745000>{2}</color> materials for pill refinement.",
+  "pt": ""
+ },
+ "schoolLogMain3101": {
+  "ch": "本月宗门税收收入灵石{0}。",
+  "en": "The Sect's tax revenue of {0} Spirit Stones this month.",
+  "pt": ""
+ },
+ "schoolLogMain3201": {
+  "ch": "我宗向{1}发动了进攻。为了取得胜利，我宗消耗了{3}灵石、{4}药材、{5}矿材来准备战时资源。",
+  "en": "Our Sect attacked {1}. To achieve victory, the Sect used {3} Spirit Stones, {4} Herbs, and {5} Ores to prepare for the battle.",
+  "pt": ""
+ },
+ "schoolLogMain3202": {
+  "ch": "我宗遭到了{0}的入侵。",
+  "en": "Our Sect was invaded by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain3203": {
+  "ch": "在攻打{1}的过程中，我宗资源耗尽，铩羽而归。",
+  "en": "During the attack on {1}, our Sect ran out of resources and return in defeat.",
+  "pt": ""
+ },
+ "schoolLogMain3204": {
+  "ch": "在攻打{1}的过程中，我宗宗主在与对方宗主对决之时不慎落败，我宗铩羽而归。",
+  "en": "During the attack on {1}, our Sect Leader was defeated in a fight with the opponent Sect Leader. Our Sect returned in defeat.",
+  "pt": ""
+ },
+ "schoolLogMain3205": {
+  "ch": "我宗一举击溃了{1}并取走了其宗门内的全部资源，共计斩获{3}灵石、{4}药材、{5}矿材，作为交换，我宗留其香火存续，并未将其抹灭。战后，宗主论功行赏，消耗{6}灵石、{7}药材、{8}矿材给参战弟子发放了奖励。",
+  "en": "Our Sect defeated {1} and took all the resources of the Sect, which amounted to a total of {3} Spirit Stones, {4} Herbs, and {5} Ores. In exchange, our Sect has kept their incense burning, and did not wipe them out. After the battle, the Sect Leader rewarded the Sect Disciples for their contributions, using {6} Spirit Stones, {7} Herbs, and {8} Ores.",
+  "pt": ""
+ },
+ "schoolLogMain3206": {
+  "ch": "我宗一举击溃了{1}并将其抹灭，从此，{1}在八荒山海中彻底消失，其领地变为了我宗的一处分舵。其宗门内所剩资源共计{3}灵石、{4}药材、{5}矿材。",
+  "en": "Our Sect defeated {1} and wiped it out. From then on, {1} completely disappeared from the world, and its territory became a branch of our Sect. The resources left in the Sect total {3} Spirit Stones, {4} Herbs, and {5} Ores.",
+  "pt": ""
+ },
+ "schoolLogMain3212": {
+  "ch": "我宗遭到了{0}的进攻，在众人的顽强抵抗下，{0}资源耗尽、狼狈撤离，我宗大获全胜。整场宗门防守战中，我宗共计消耗{3}灵石、{4}药材、{5}矿材。",
+  "en": "Our clan was attacked by {0}, and due to stubborn resistance, {0} resources were exhausted and they withdrew. Our Sect won a great victory. During the Sect's defensive battle, our Sect used {3} Spirit Stones, {4} Herbs, and {5} Ores.",
+  "pt": ""
+ },
+ "schoolLogMain3213": {
+  "ch": "我宗遭到了{0}的进攻，最后关头，我宗宗主大显神威，击败了对方宗主，成功守住了宗门。整场宗门防守战中，我宗共计消耗{3}灵石、{4}药材、{5}矿材。",
+  "en": "Our Sect was attacked by {0}, but at the last moment, our Sect Leader defeated the opponent Sect Leader, successfully defending the Sect. During the Sect's defensive battle, our Sect used {3} Spirit Stones, {4} Herbs, and {5} Ores.",
+  "pt": ""
+ },
+ "schoolLogMain3214": {
+  "ch": "我宗遭到了{0}的进攻，最后关头，我方宗主棋差一着，被对方宗主击败，宗门彻底沦陷。",
+  "en": "Our Sect was attacked by {0}, and at the last moment, our Sect Leader was defeated by the opponent Sect Leader, and our Sect was defeated.",
+  "pt": ""
+ },
+ "schoolLogMain3215": {
+  "ch": "我宗在抵御{1}进攻的战斗中大获全胜，所有参战弟子都获得了丰厚的战利品。",
+  "en": "Our Sect won the battle against {1}'s attack, and all the Disciples who fought in the battle received a large amount of battle loot.",
+  "pt": ""
+ },
+ "schoolLogMain3216": {
+  "ch": "我宗在抵御{1}进攻的战斗中惨败，宗门沦陷后被对方掠夺了大量资源，共计{3}灵石、{4}药材、{5}矿材。",
+  "en": "Our Sect was defeated in the battle against {1}'s attack, was plundered by the opponent, losing a large amount of resources totaling {3} Spirit Stones, {4} Herbs, and {5} Ores.",
+  "pt": ""
+ },
+ "schoolLogMain3221": {
+  "ch": "{0}未能如期进攻我宗，想必是天道护佑，使不知死活的{0}被他宗覆灭了。",
+  "en": "{0} failed to attack our clan as expected. It must be the protection of the Heavenly Path. The reckless {0} was destroyed by his Sect.",
+  "pt": ""
+ },
+ "schoolLogMain3222": {
+  "ch": "我宗横生变故，未能如期进攻{1}。",
+  "en": "Our Sect changed our minds and did not attack {1} as planned.",
+  "pt": ""
+ },
+ "schoolLogMain3301": {
+  "ch": "{0}{1}{2}被调派至{3}担任{4}。",
+  "en": "{0}{1}{2} was sent to {3} as {4}.",
+  "pt": ""
+ },
+ "schoolLogMain3311": {
+  "ch": "我宗一举击溃了{1}并留其香火存续，然而对方宗门内的资源已然所剩无几，我宗未有所获，也无法用所得资源给弟子发放奖励。",
+  "en": "Our Sect defeated {1} and left their incense alive, but there were few resources left in the opponent Sect, so our Sect was unable to reward Disciples.",
+  "pt": ""
+ },
+ "schoolLogMain3312": {
+  "ch": "我宗一举击溃了{1}并将其抹灭，从此，{1}在八荒山海中彻底消失，其领地变为了我宗的一处分舵。然而其宗门内的资源所剩无几，若想发展恐怕需要历经磨难。",
+  "en": "Our Sect defeated {1} and wiped it out. From then on, {1} completely disappeared from the world, and its territory became a branch of our Sect. However, there are very few resources left in the Sect, so if they will have a lot of hardship if they want to grow.",
+  "pt": ""
+ },
+ "schoolLogMain3313": {
+  "ch": "我宗在抵御{1}进攻的战斗中惨败，宗门沦陷后资源所剩无几，对方也没有什么可以掠夺的了。",
+  "en": "Our Sect was defeated in the battle against {1}'s attack, and with few resources left, there is nothing for the opponent to plunder.",
+  "pt": ""
+ },
+ "schoolLogMain3314": {
+  "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门增加了{2}名记名弟子。",
+  "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the number of Backup Disciples increased by {2}.",
+  "pt": ""
+ },
+ "schoolLogMain3315": {
+  "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门名誉增加了{2}。",
+  "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect Prestige increased by {2}.",
+  "pt": ""
+ },
+ "schoolLogMain3316": {
+  "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门安定度增加了{2}。",
+  "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect Stability increased by {2}.",
+  "pt": ""
+ },
+ "schoolLogMain3318": {
+  "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门灵石增加了{2}。",
+  "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect's Spirit Stones increased by {2}.",
+  "pt": ""
+ },
+ "schoolLogMain3319": {
+  "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门药材和矿材增加了{2}。",
+  "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect's Herbs and Ores increased by {2}.",
+  "pt": ""
+ },
+ "schoolLogMain3330": {
+  "ch": "",
+  "en": "Sect Leader {2} was threatened by a mysterious figure and forced to supply us with a considerable amount of Spirit Stones.",
+  "pt": ""
+ },
+ "schoolLogMain3331": {
+  "ch": "",
+  "en": "Sect Leader {2} was threatened by a mysterious figure and forced to supply us with a considerable amount of Ore.",
+  "pt": ""
+ },
+ "schoolLogMain3332": {
+  "ch": "",
+  "en": "Sect Leader {2} was threatened by a mysterious figure and forced to supply us with a considerable amount of Herbs.",
+  "pt": ""
+ },
+ "schoolLogMain401": {
+  "ch": "宗门举行了<color=#9A5703>{0}</color>，<color=#9A5703>{1}</color>名弟子在比赛中发挥出色，晋升为<color=#9A5703>{2}</color>！",
+  "en": "The Sect has organized a <color=#9A5703>{0}</color>, in which <color=#9A5703>{1}</color> disciples performed admirably in the competition, and have been promoted to <color=#9A5703>{2}</color>!",
+  "pt": ""
+ },
+ "schoolLogMain402": {
+  "ch": "宗门举行了<color=#9A5703>{0}</color>，非常遗憾，本次没有弟子晋升为<color=#9A5703>{1}</color>！",
+  "en": "The Sect has organized a <color=#9A5703>{0}</color>, but unfortunately, no disciples merited promotion to <color=#9A5703>{1}</color>!",
+  "pt": ""
+ },
+ "schoolLogMain501": {
+  "ch": "<color=#E5AF24>{0}</color>{1}在执行宗门任务的过程中，不幸身亡！",
+  "en": "<color=#E5AF24>{0}</color> {1} perished while on a Sect Mission!",
+  "pt": ""
+ },
+ "schoolLogMain502": {
+  "ch": "<color=#E5AF24>{0}</color>{1}因为对宗门心生不满，退出了宗门！",
+  "en": "<color=#E5AF24>{0}</color> {1} became dissatisfied with the Sect and decided to leave.",
+  "pt": ""
+ },
+ "schoolLogMain503": {
+  "ch": "<color=#E5AF24>{0}</color>{1}因为与同宗弟子不和，离开宗门！",
+  "en": "<color=#E5AF24>{0}</color> {1} had a falling out with other Disciples and left the Sect!",
+  "pt": ""
+ },
+ "schoolLogMain504": {
+  "ch": "<color=#E5AF24>{0}</color>{1}因为不愿遵从宗门门规的约束，愤然退出了宗门！",
+  "en": "<color=#E5AF24>{0}</color> {1} broke the Sect rules and was banished!",
+  "pt": ""
+ },
+ "schoolLogMain505": {
+  "ch": "<color=#E5AF24>{0}</color>{1}因为不服宗门对其安排的派遣，离开了宗门！",
+  "en": "<color=#E5AF24>{0}</color> {1} disobeyed the dispatch order and left the Sect!",
+  "pt": ""
+ },
+ "schoolLogMain506": {
+  "ch": "<color=#E5AF24>{0}</color>{1}在执行宗门任务的过程中，不幸陨落！",
+  "en": "<color=#E5AF24>{0}</color>{1} perished while on a Sect Mission!",
+  "pt": ""
+ },
+ "schoolLogMain507": {
+  "ch": "我宗已有大量记名弟子，已经无法接收更多的记名弟子了。",
+  "en": "My Sect has a large number of Backup Disciples and cannot accept any more.",
+  "pt": ""
+ },
+ "schoolLogMain508": {
+  "ch": "{0}{1}因宗门任人唯亲，感到晋升无望，离开了{2}。",
+  "en": "{0}{1} found the prospect of promotion bleak due to nepotism in the Sect and left {2}.",
+  "pt": ""
+ },
+ "schoolLogMain509": {
+  "ch": "{0}{1}因宗门弟子人数众多，感到晋升无望，离开了{2}。",
+  "en": "{0}{1} found the prospect of promotion bleak due to the overly large number of Disciples in the Sect and left {2}.",
+  "pt": ""
+ },
+ "schoolLogMain510": {
+  "ch": "{0}{1}因本宗弟子忠诚度低对宗门失望，离开了{2}。",
+  "en": "{0}{1} got disappointed in the Sect due to the Disciples' low Loyalty and left {2}.",
+  "pt": ""
+ },
+ "schoolLogMain511": {
+  "ch": "{0}{1}主动退出了{2}。",
+  "en": "{0} {1} quitted {2}.",
+  "pt": ""
+ },
+ "schoolLogMain601": {
+  "ch": "{0}因被贬为{1}后，心生不满，离开了{2}。",
+  "en": "{0} is disgruntled after being pushed down to {1}, and leaves {2}.",
+  "pt": ""
+ },
+ "schoolLogMain701": {
+  "ch": "{0}被{1}{2}逐出宗门。",
+  "en": "{0} is expelled from the Sect by {1}{2}.",
+  "pt": ""
+ },
+ "schoolLogMain801": {
+  "ch": "{0}掠夺了{1}{2}，宗门获得了{3}。",
+  "en": "{0} looted {1}{2} and the Sect obtained {3}.",
+  "pt": ""
+ },
+ "schoolLogMain802": {
+  "ch": "{0}掠夺了{1}{2}失败，{3}因此身受重伤。",
+  "en": "{0} loots {1}{2} but fails, and {3} is severely injured.",
+  "pt": ""
+ },
+ "schoolLogMain901": {
+  "ch": "{0}带领一众弟子进攻{1}的{2}。我宗成功击退了{1}的驻守弟子，占领了{2}。",
+  "en": "{0} led a group of disciples to attack {1}'s {2}. Our sect successfully repelled {1}'s garrisoned disciples and occupied {2}.",
+  "pt": ""
+ },
+ "schoolLogMain902": {
+  "ch": "{0}带领一众弟子进攻{1}的{2}。在与{1}驻守弟子交战时不敌对方，本次进攻失败。",
+  "en": "{0} led a group of disciples to attack {1}'s {2}. They were defeated in the fight with {1}'s garrisoned disciples and the attack failed.",
+  "pt": ""
+ },
+ "schoolLogMain903": {
+  "ch": "{0}进攻了我宗的{1}，我宗弟子奋力抵抗，成功击退了{0}的弟子。",
+  "en": "{0} attacked our sect's {1}. Our disciples fought hard and successfully repelled {0}'s disciples.",
+  "pt": ""
+ },
+ "schoolLogMain904": {
+  "ch": "{0}进攻了我宗的{1}，我宗弟子不敌对方，{1}被{0}占领了。",
+  "en": "{0} attacked our sect's {1}. Our disciples were no match for the enemy, and {1} was occupied by {0}.",
+  "pt": ""
+ },
+ "schoolLogMain905": {
+  "ch": "{0}带领一众弟子进攻{1}，成功占领了{1}。",
+  "en": "{0} led a group of disciples to attack {1} and successfully occupied {1}.",
+  "pt": ""
+ }
+}

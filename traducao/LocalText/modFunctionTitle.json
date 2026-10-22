@@ -1,0 +1,932 @@
+{
+ "modFunctionTitle_abClose": {
+  "ch": "增加角色1对角色2的亲密度",
+  "en": "Character 1's affinity toward Character 2",
+  "pt": ""
+ },
+ "modFunctionTitle_abCloseSet": {
+  "ch": "清除指定角色1对指定角色2的仇恨度，并将亲密度设置为指定值",
+  "en": "Clear character 1's Hatred against character 2, and set their Affinity value.",
+  "pt": ""
+ },
+ "modFunctionTitle_abilityPointAdd": {
+  "ch": "修改下一次论道获得的道点",
+  "en": "Modify Skill Points gained from next Debate",
+  "pt": ""
+ },
+ "modFunctionTitle_addAppellation": {
+  "ch": "指定角色增加道号",
+  "en": "Add Taoist Title to specified characters",
+  "pt": ""
+ },
+ "modFunctionTitle_addAttr": {
+  "ch": "增加人物属性",
+  "en": "Increase character stats",
+  "pt": ""
+ },
+ "modFunctionTitle_addClose": {
+  "ch": "增加角色1对角色2的仇恨度",
+  "en": "Increases Character 1's Hatred toward Character 2",
+  "pt": ""
+ },
+ "modFunctionTitle_addCurAttrPercent": {
+  "ch": "根据属性当前值的百分比，增加减少属性",
+  "en": "Increases or decreases stats by the current stats percentage",
+  "pt": ""
+ },
+ "modFunctionTitle_addExp": {
+  "ch": "增加人物经验",
+  "en": "Increase character EXP",
+  "pt": ""
+ },
+ "modFunctionTitle_addFeature": {
+  "ch": "添加一个后天气运到玩家身上",
+  "en": "Add a destiny (nurture) to the player",
+  "pt": ""
+ },
+ "modFunctionTitle_addGodEyeSkill": {
+  "ch": "增加昊天眼技能",
+  "en": "Add Eye of Providence Skill",
+  "pt": ""
+ },
+ "modFunctionTitle_addGridArrtRange": {
+  "ch": "随机增加周围范围内一个格子的数值",
+  "en": "Randomly increase the value of a tile nearby",
+  "pt": ""
+ },
+ "modFunctionTitle_addIntim": {
+  "ch": "ID为105的角色对玩家的好感度下降50",
+  "en": "Character 105's affinity with Player reduced by 50",
+  "pt": ""
+ },
+ "modFunctionTitle_addMastery": {
+  "ch": "增加装备着技能的熟练度",
+  "en": "Increase the proficiency of equipped skills",
+  "pt": ""
+ },
+ "modFunctionTitle_addNPCLuck": {
+  "ch": "添加指定后天气运到指定角色身上",
+  "en": "Adds the specified Destiny (Nurture) to the specified character",
+  "pt": ""
+ },
+ "modFunctionTitle_addPotmon": {
+  "ch": "添加一只壶妖",
+  "en": "Add an Imp",
+  "pt": ""
+ },
+ "modFunctionTitle_addTargetAttr": {
+  "ch": "增加指定角色的指定属性",
+  "en": "Increases the specified stat for the specified character",
+  "pt": ""
+ },
+ "modFunctionTitle_addTask": {
+  "ch": "领取一个任务",
+  "en": "Accept a mission",
+  "pt": ""
+ },
+ "modFunctionTitle_addWorldData": {
+  "ch": "增加存档中指定key的数据",
+  "en": "Add the specified key's data in the save file",
+  "pt": ""
+ },
+ "modFunctionTitle_areaDungeon": {
+  "ch": "在指定区域随机位置创建一个副本",
+  "en": "Create a dungeon at a random location in the specified region",
+  "pt": ""
+ },
+ "modFunctionTitle_areaEvent": {
+  "ch": "在区域2中ID为10的特殊地形中生成一个ID为15的大地图事件",
+  "en": "Generate a world map event with ID 15 in the special terrain with ID 10 in region 2",
+  "pt": ""
+ },
+ "modFunctionTitle_arrestNpcCondition": {
+  "ch": "获取ID为1001的NPC数据，并将其在这段剧情中设置为左单位",
+  "en": "Get the data of the NPC with ID 1001 and set it as the left unit in this plot",
+  "pt": ""
+ },
+ "modFunctionTitle_backToSchool": {
+  "ch": "传送回宗门",
+  "en": "Teleport to sect",
+  "pt": ""
+ },
+ "modFunctionTitle_battleExit": {
+  "ch": "结束副本战斗（只能在战斗中使用）",
+  "en": "End the dungeon battle (only available in battle)",
+  "pt": ""
+ },
+ "modFunctionTitle_battleFunction": {
+  "ch": "隐藏BOSS血条",
+  "en": "Hide boss health bar",
+  "pt": ""
+ },
+ "modFunctionTitle_battleFunctionList": {
+  "ch": "使用#BattleFunctionList表中1001的功能",
+  "en": "Use [function 1001] in [#BattleFunctionList]",
+  "pt": ""
+ },
+ "modFunctionTitle_battleSkillTrainUp": {
+  "ch": "增加角色装备中指定技能的经验或者等级",
+  "en": "Increase experience or level of the specified skill equipped by the character",
+  "pt": ""
+ },
+ "modFunctionTitle_blackFilter": {
+  "ch": "开启黑幕滤镜",
+  "en": "Turn on the black screen filter",
+  "pt": ""
+ },
+ "modFunctionTitle_callAppointedDrama": {
+  "ch": "调用ID6352101的剧情但剧情文本为上一次打开的剧情内容",
+  "en": "Call the plot ID 6352101, but the plot text is the content of the last opened plot",
+  "pt": ""
+ },
+ "modFunctionTitle_callDrama": {
+  "ch": "打开一个剧情ID（当选择了多个剧情ID时，根据剧情权重随机打开其中一个）",
+  "en": "Open a Plot ID (when multiple Plot IDs are selected, randomly launch one of them according to the Plot weight)",
+  "pt": ""
+ },
+ "modFunctionTitle_callDramaDelayTime": {
+  "ch": "延时打开剧情",
+  "en": "Launch plot after delay",
+  "pt": ""
+ },
+ "modFunctionTitle_callDramaRunEnd": {
+  "ch": "将剧情对话放入列表中，运转结束打开剧情（保证一定会打开）",
+  "en": "Put plot dialogue into the list, and the plot will open after the month ends",
+  "pt": ""
+ },
+ "modFunctionTitle_captureNPC": {
+  "ch": "抓取满足NPC条件表ID为10001，10004,10005的NPC组",
+  "en": "Extract the NPC group that matches the NPC condition table ID 10001, 10004, 10005",
+  "pt": ""
+ },
+ "modFunctionTitle_captureNpcConditionGroup": {
+  "ch": "抓取NPC条件表中条件组ID为100005的所有NPC，并根据其中的配置决定是否保存",
+  "en": "Extract all NPCs with condition group ID 100005 in the NPC condition table and decide whether to save them according to the configurations",
+  "pt": ""
+ },
+ "modFunctionTitle_changeFateFeatureLuck": {
+  "ch": "打开替换逆天改命界面，必定出现指定的逆天改命，可替换一次逆天改命",
+  "en": "When opening Rewrite Destiny replacing interface, the specified Rewrite Destiny is bound to appear for a replacement.",
+  "pt": ""
+ },
+ "modFunctionTitle_chatUpClose": {
+  "ch": "使玩家下次在与Npc闲聊时双方额外增加亲密度",
+  "en": "Make Player's next banter with NPC increase bonus affinity for both parties",
+  "pt": ""
+ },
+ "modFunctionTitle_clearAddFeature": {
+  "ch": "清理指定气运，并间隔一段时间后加回来",
+  "en": "Remove a specific destiny and add it again after a duration",
+  "pt": ""
+ },
+ "modFunctionTitle_clearEvent": {
+  "ch": "删除玩家当前脚底位置的大地图事件",
+  "en": "Delete the world map event under Player's feet",
+  "pt": ""
+ },
+ "modFunctionTitle_clearEventForceDel": {
+  "ch": "强制清除当前位置的大地图事件",
+  "en": "Force to delete the world map event at current location",
+  "pt": ""
+ },
+ "modFunctionTitle_clearEventID": {
+  "ch": "删除大地图中所有指定ID的事件，并在删除事件的位置创建一个新事件",
+  "en": "Delete all world map events with the specified ID and create new events where the old events are deleted",
+  "pt": ""
+ },
+ "modFunctionTitle_clearFeature": {
+  "ch": "清除玩家身上的一个后天气运",
+  "en": "Delete a destiny (nurture) on the player",
+  "pt": ""
+ },
+ "modFunctionTitle_clearFeatureGroup": {
+  "ch": "清除气运分组为401的所有气运",
+  "en": "Delete all destinies in group 401",
+  "pt": ""
+ },
+ "modFunctionTitle_clearInEventID": {
+  "ch": "删除玩家当前脚底位置的大地图事件",
+  "en": "Delete the world map event under Player's feet",
+  "pt": ""
+ },
+ "modFunctionTitle_clearNpcConditionSave": {
+  "ch": "清除（抓取NPC表）表中保存的NPC数据",
+  "en": "Delete (Extract NPC table) NPC data saved in the table",
+  "pt": ""
+ },
+ "modFunctionTitle_clearNpcConditionSaveGroup": {
+  "ch": "清除条件组100005中保存的NPC数据",
+  "en": "Delete saved NPC data in condition group 100005",
+  "pt": ""
+ },
+ "modFunctionTitle_clearTask": {
+  "ch": "不接取ID为10001的任务",
+  "en": "Don't accept the mission with ID 10001",
+  "pt": ""
+ },
+ "modFunctionTitle_clearWorldData": {
+  "ch": "清除存档中指定key的数据",
+  "en": "Delete the specified key's data in the save file",
+  "pt": ""
+ },
+ "modFunctionTitle_closeMapUI": {
+  "ch": "关闭大地图上所有UI",
+  "en": "Close all UI on the world map",
+  "pt": ""
+ },
+ "modFunctionTitle_closeUI": {
+  "ch": "关闭野外商店UI界面（每个界面的名称在后面的表【UI界面名称】中）",
+  "en": "Close world shop UI (See the table [UI Names] for the name of each UI)",
+  "pt": ""
+ },
+ "modFunctionTitle_createDungeon": {
+  "ch": "在玩家脚底创建一个副本",
+  "en": "Create a dungeon under Player's feet",
+  "pt": ""
+ },
+ "modFunctionTitle_createDungeonInRange": {
+  "ch": "在玩家周围随机位置创建一个副本",
+  "en": "Create a dungeon at a random location near Player",
+  "pt": ""
+ },
+ "modFunctionTitle_createEnemy": {
+  "ch": "在当前副本的场景内生成一个ID为30001的敌人，位置为20,12",
+  "en": "Create an enemy with ID 30001 in the current dungeon at (20,12)",
+  "pt": ""
+ },
+ "modFunctionTitle_createEvent": {
+  "ch": "创建一个大地图事件（事件是指大地图上可以互动的图标）",
+  "en": "Create a world map event (interactable icons on the world map)",
+  "pt": ""
+ },
+ "modFunctionTitle_createEventArea": {
+  "ch": "在指定区域随机位置创建一个大地图事件",
+  "en": "Create a world map event at a random location in a specified region",
+  "pt": ""
+ },
+ "modFunctionTitle_createEventAreaCondition": {
+  "ch": "在区域8随机创建一个101事件，并且满足条件",
+  "en": "Create a random [event 101] in region 8 and satisfy the condition",
+  "pt": ""
+ },
+ "modFunctionTitle_createEventInRange": {
+  "ch": "创建一个大地图事件，在玩家脚底范围内随机",
+  "en": "Create a world map event at a random location within Player's sight",
+  "pt": ""
+ },
+ "modFunctionTitle_createEventMapPoint": {
+  "ch": "在MapPosition表1001的位置5-10格范围内创建4201的事件",
+  "en": "Create event 4201 within 5-10 tiles from the position of [MapPosition] table 1001",
+  "pt": ""
+ },
+ "modFunctionTitle_createEventPoint": {
+  "ch": "在指定位置的指定棱形范围随机创建一个大地图事件",
+  "en": "Randomly create a world map event within a specified range of a specified location",
+  "pt": ""
+ },
+ "modFunctionTitle_createEventPointIngoreTree": {
+  "ch": "在指定位置的指定棱形范围随机创建一个大地图事件",
+  "en": "Randomly create a world map event within a specified range of a specified location",
+  "pt": ""
+ },
+ "modFunctionTitle_createNPC": {
+  "ch": "创建一个NPC到玩家脚底",
+  "en": "Create an NPC at the player's location",
+  "pt": ""
+ },
+ "modFunctionTitle_createWeather": {
+  "ch": "设置当前区域的天气",
+  "en": "Set the weather for the current region",
+  "pt": ""
+ },
+ "modFunctionTitle_curSchoolLuck": {
+  "ch": "指定角色宗门的所有NPC获得指定气运",
+  "en": "All NPCs in a specific character's sect gain certain Destiny",
+  "pt": ""
+ },
+ "modFunctionTitle_delEventfunction": {
+  "ch": "设置事件在删除时，执行一条命令",
+  "en": "Sets a command to be executed when the event is deleted",
+  "pt": ""
+ },
+ "modFunctionTitle_delItemID": {
+  "ch": "删除背包中指定道具的指定数量",
+  "en": "Delete a specified number of the specified item from the bag",
+  "pt": ""
+ },
+ "modFunctionTitle_delNPCLuck": {
+  "ch": "删除指定角色身上的后天气运",
+  "en": "Delete a selected character's destiny (nurture)",
+  "pt": ""
+ },
+ "modFunctionTitle_delTask": {
+  "ch": "删除一个任务",
+  "en": "Delete a mission",
+  "pt": ""
+ },
+ "modFunctionTitle_delTerr": {
+  "ch": "删除地图上所有3001的地形",
+  "en": "Delete all terrain 3001 on the map",
+  "pt": ""
+ },
+ "modFunctionTitle_delUnitLuck": {
+  "ch": "删除角色的气运",
+  "en": "Delete a character's destiny",
+  "pt": ""
+ },
+ "modFunctionTitle_die": {
+  "ch": "玩家立刻死亡",
+  "en": "Player dies immediately",
+  "pt": ""
+ },
+ "modFunctionTitle_dramaInfo1Attr": {
+  "ch": "增加夸父110体力",
+  "en": "Increase Kuafu's vitality by 110",
+  "pt": ""
+ },
+ "modFunctionTitle_dramaInfo1CostPause": {
+  "ch": "夸父的基础属性暂停消耗",
+  "en": "The base stats diminish of Kuafu pauses",
+  "pt": ""
+ },
+ "modFunctionTitle_dramaInfo1CostStart": {
+  "ch": "夸父的基础属性开始消耗",
+  "en": "The base stats diminish of Kuafu begins",
+  "pt": ""
+ },
+ "modFunctionTitle_dramaInfo1MoveNextPoint": {
+  "ch": "使夸父移动到下一个位置",
+  "en": "Move Kuafu to the next location",
+  "pt": ""
+ },
+ "modFunctionTitle_dramaPackageRoleUpgrade": {
+  "ch": "玩家直接突破境界，并获得指定逆天改命",
+  "en": "Player achieves instant Breakthrough and gains a certain Rewrite Destiny",
+  "pt": ""
+ },
+ "modFunctionTitle_dramaRewardItem": {
+  "ch": "产出道具到指定角色",
+  "en": "Obtain item to a certain character",
+  "pt": ""
+ },
+ "modFunctionTitle_finishNewSchoolTask": {
+  "ch": "完成最新接取的宗门任务",
+  "en": "Complete the last accepted Sect Mission",
+  "pt": ""
+ },
+ "modFunctionTitle_finishTask": {
+  "ch": "完成一个任务（任务可以不设置完成条件，手动调用命令来完成任务）",
+  "en": "Complete a mission (It's possible to not set completion conditions for a mission but manually call up the command to complete it)",
+  "pt": ""
+ },
+ "modFunctionTitle_flee": {
+  "ch": "将玩家随机移动到指定范围内的一个位置（逃跑）",
+  "en": "Move Player to a random location within a specified range (escape)",
+  "pt": ""
+ },
+ "modFunctionTitle_fleeNPC": {
+  "ch": "将指定角色随机移动到指定范围内的一个位置（逃跑）",
+  "en": "Moves the specified character to a random location within a specified range (escape)",
+  "pt": ""
+ },
+ "modFunctionTitle_forceTrains": {
+  "ch": "指定两个角色进行双修",
+  "en": "Two specified characters train together",
+  "pt": ""
+ },
+ "modFunctionTitle_fortuitousEventCD": {
+  "ch": "重新计算1001触发器的CD",
+  "en": "Recalculate the CD of trigger 1001",
+  "pt": ""
+ },
+ "modFunctionTitle_gainTaoistHeart": {
+  "ch": "指定角色获得道心",
+  "en": "Specify characters that obtain Taoist Mind",
+  "pt": ""
+ },
+ "modFunctionTitle_gainTaoistSeed": {
+  "ch": "指定角色获得道种",
+  "en": "Specify characters that obtain Taoist Seed",
+  "pt": ""
+ },
+ "modFunctionTitle_getAllBountyTask": {
+  "ch": "玩家接取悬赏榜中与NPC无关的全部任务（收集物品、消灭妖兽等），接取规则符合任务设置，如果有接取到任务，则弹出指定ID为123的对话，此时，玩家点击指定按钮ID为456的按钮后，直接完成通过该作用接到的任务，并获得任务奖励。",
+  "en": "Players receive all bounty board missions that don't involve NPCs (collecting items, slaying monsters, etc.). The mission acceptance rules need to match the mission settings. If there are missions to accept, a dialogue with the specified ID of 123 pops up. Then Player clicks on the button with the specified button ID of 456 to directly complete all the missions accepted through this function and gets the corresponding rewards.",
+  "pt": ""
+ },
+ "modFunctionTitle_getImmortal": {
+  "ch": "获得仙卡",
+  "en": "Obtain Heavenly Card",
+  "pt": ""
+ },
+ "modFunctionTitle_getSprite": {
+  "ch": "获得一个器灵",
+  "en": "Acquire an artifact spirit",
+  "pt": ""
+ },
+ "modFunctionTitle_getWell": {
+  "ch": "调用酒馆住宿功能，恢复角色所有状态",
+  "en": "Calls Tavern accommodation function to fully restore the character's status",
+  "pt": ""
+ },
+ "modFunctionTitle_gradePhaseUp": {
+  "ch": "指定角色突破当前瓶颈",
+  "en": "Specify characters that achieve breakthrough",
+  "pt": ""
+ },
+ "modFunctionTitle_group": {
+  "ch": "在GroupID为1001的所有Function中，选择符合条件的1条来执行",
+  "en": "Among all functions in GroupID 1001, select 1 that matches the condition to run",
+  "pt": ""
+ },
+ "modFunctionTitle_hideEvent": {
+  "ch": "隐藏指定ID的大地图事件",
+  "en": "Hide the world map event for the specified ID",
+  "pt": ""
+ },
+ "modFunctionTitle_hideUnit": {
+  "ch": "隐藏副本内所有ID为20016的怪物",
+  "en": "Hide all monsters with ID 20016",
+  "pt": ""
+ },
+ "modFunctionTitle_initTask": {
+  "ch": "将ID为10001的任务数据初始化",
+  "en": "Initialize the data of the mission with ID 10001",
+  "pt": ""
+ },
+ "modFunctionTitle_intoAreaDungeon": {
+  "ch": "当玩家在区域1或区域2时，进入ID为1001的副本，副本等级对应玩家境界",
+  "en": "When Player is in region 1 or region 2, enter the dungeon with ID 1001, its level corresponding to that of Player",
+  "pt": ""
+ },
+ "modFunctionTitle_intoDistrictDungeon": {
+  "ch": "进入当前所在区域的副本101，副本等级比区域副本基础等级低2级。这里需要传入玩家境界A，所处区域基础境界B，所处区域最大境界C。副本的基础等级为B~C中最接近A的境界（整数）所对应的等级",
+  "en": "Enter the dungeon 101 of the current region. The dungeon is 2 levels lower than the base regional level. Needs to import the Player' realm A, the base regional realm B, and the max regional realm C. The base level of the dungeon corresponds to either B or C, whichever is closer to A.",
+  "pt": ""
+ },
+ "modFunctionTitle_intoDungeon": {
+  "ch": "进入指定副本",
+  "en": "Enter the specified dungeon",
+  "pt": ""
+ },
+ "modFunctionTitle_itemQuantityTimes": {
+  "ch": "将背包中指定道具的数量更改为百分之多少",
+  "en": "Change the number of the specified item in your backpack to a percentage",
+  "pt": ""
+ },
+ "modFunctionTitle_itemSelect": {
+  "ch": "打开道具选择界面，选择道具，有分类选择（选择后会消耗掉）",
+  "en": "Open the item selection interface and select an item with classification (item will be consumed once selected)",
+  "pt": ""
+ },
+ "modFunctionTitle_itemSelectAll": {
+  "ch": "打开道具选择界面，选择道具（可以设置不消耗）",
+  "en": "Open the item selection interface and select an item (may set it to not consume the item)",
+  "pt": ""
+ },
+ "modFunctionTitle_itemSelectElement": {
+  "ch": "打开道具选择界面，选择秘籍（会消耗掉）",
+  "en": "Open the item selection interface and select a manual (it will be consumed)",
+  "pt": ""
+ },
+ "modFunctionTitle_itemSelectLevel": {
+  "ch": "打开道具选择界面，选择物品，有物品大分类和品质筛选（选择后会消耗掉）",
+  "en": "Opens the item selection interface and select an item with main category and rarity filter (Item will be consumed once selected)",
+  "pt": ""
+ },
+ "modFunctionTitle_itemSelectLevel2": {
+  "ch": "打开道具选择界面，显示所有物品大类为1和2，并且等级为5~6级的道具，让玩家选择3个，显示的提示文本为tipsText（物品大类可不填，无限制）",
+  "en": "Open the item selection interface, showing all the level 5 to 6 items in categories 1 and 2, so that Player can choose 3 from them. The displayed tip text is in [tipsText] (Item categories can be left empty as there's no restriction)",
+  "pt": ""
+ },
+ "modFunctionTitle_joinCurSchool": {
+  "ch": "设置指定角色加入玩家当前脚底位置的宗门",
+  "en": "Specify characters that join the Sect where the player's feet are on now.",
+  "pt": ""
+ },
+ "modFunctionTitle_joinSchool": {
+  "ch": "加入当前对话的宗门",
+  "en": "Join the current dialogue sect",
+  "pt": ""
+ },
+ "modFunctionTitle_killNPC": {
+  "ch": "抓取指定NPC，并将指定NPC杀死",
+  "en": "Extract and kill the specified NPC",
+  "pt": ""
+ },
+ "modFunctionTitle_killRole": {
+  "ch": "角色1杀死角色2",
+  "en": "Character 1 kills Character 2",
+  "pt": ""
+ },
+ "modFunctionTitle_learnSkill": {
+  "ch": "打开道具选择界面，选择一本秘籍后立即习得（需要达成学习秘籍的前提条件）",
+  "en": "Open the item selection interface, select a manual, and learn it immediately (need to meet the requirements for learning the manual)",
+  "pt": ""
+ },
+ "modFunctionTitle_lookUnit": {
+  "ch": "打开指定角色的属性UI",
+  "en": "Open the stats UI of the specified character",
+  "pt": ""
+ },
+ "modFunctionTitle_lootNpcSpecifiedItem": {
+  "ch": "将指定角色背包里指定数量的道具转移给玩家",
+  "en": "Transfer the specified number of items from the specified character's bag to Player",
+  "pt": ""
+ },
+ "modFunctionTitle_maintainArtifact": {
+  "ch": "回满玩家所拥有的全部法宝的耐久度",
+  "en": "Restore full durability for all Artifacts held by the player",
+  "pt": ""
+ },
+ "modFunctionTitle_mapCreateBuild": {
+  "ch": "创建一个传送阵到15,12，对应传送点5,5",
+  "en": "Create a portal to (15,12) that corresponds to the portal at (5,5)",
+  "pt": ""
+ },
+ "modFunctionTitle_mapCreateBuildInRange": {
+  "ch": "在大地图坐标一定范围内创建一个传送阵",
+  "en": "Creates a portal within a certain area around world map coordinates",
+  "pt": ""
+ },
+ "modFunctionTitle_mapCreateCmd": {
+  "ch": "创建地图命令，参考大地图区域配置表WorldCreateCmd",
+  "en": "When creating map commands, refer to the world map regional configuration table [WorldCreateCmd]",
+  "pt": ""
+ },
+ "modFunctionTitle_mapTransfer": {
+  "ch": "调用传送功能，打开小地图点击图标进行传送",
+  "en": "Call the teleport function. Open the Map and tap an icon to teleport",
+  "pt": ""
+ },
+ "modFunctionTitle_modifPlayerName": {
+  "ch": "修改玩家的名字",
+  "en": "Change player name",
+  "pt": ""
+ },
+ "modFunctionTitle_monthLog": {
+  "ch": "调用ID为1001的月结事件",
+  "en": "Call the monthly tally event with ID 1001",
+  "pt": ""
+ },
+ "modFunctionTitle_monthLostItem": {
+  "ch": "随机丢失玩家背包指定数量的道具",
+  "en": "Randomly remove a specified number of items from the player's bag",
+  "pt": ""
+ },
+ "modFunctionTitle_moveCam": {
+  "ch": "移动到地图表中配置的一个点",
+  "en": "Move to a point configured in the map sheet",
+  "pt": ""
+ },
+ "modFunctionTitle_moveLastPoint": {
+  "ch": "移动玩家到上一个位置",
+  "en": "Move Player to the previous location",
+  "pt": ""
+ },
+ "modFunctionTitle_moveToPosition": {
+  "ch": "将玩家移动到指定的地图位置",
+  "en": "Move Player to the specified map location",
+  "pt": ""
+ },
+ "modFunctionTitle_moveTownsSite": {
+  "ch": "获得一个当前区域中未解锁视野的城镇位置",
+  "en": "Acquire the location of a town that hasn't been discovered in the current region",
+  "pt": ""
+ },
+ "modFunctionTitle_notNextDialogue": {
+  "ch": "点击后不进入下一个对话",
+  "en": "Tap and not enter the next dialogue",
+  "pt": ""
+ },
+ "modFunctionTitle_npcAttack": {
+  "ch": "攻击NPC",
+  "en": "Attack NPC",
+  "pt": ""
+ },
+ "modFunctionTitle_npcAttackForce": {
+  "ch": "强行攻击NPC（无法逃跑）",
+  "en": "Force Attack on NPC (no escape)",
+  "pt": ""
+ },
+ "modFunctionTitle_npcDramaGive": {
+  "ch": "从世界上所有指定境界的NPC背包中，随机复制道具给玩家，直到达到总价值",
+  "en": "Randomly copy items from the bags of NPCs in all specified realms in the world to Player until reaching the total value",
+  "pt": ""
+ },
+ "modFunctionTitle_npcDungeonReward": {
+  "ch": "模拟产出一次指定区域中随机打一次副本获得的道具",
+  "en": "Simulate the items generated from clearing a random dungeon in the specified region",
+  "pt": ""
+ },
+ "modFunctionTitle_npcItem": {
+  "ch": "从NPC的背包选取指定价值的随机N个道具产出给玩家",
+  "en": "Randomly select N items of specified value from the NPC's bag and generate them for Player",
+  "pt": ""
+ },
+ "modFunctionTitle_npcMapPositionClose": {
+  "ch": "在ID为1001的位置10格范围内所有满足条件表中ID为1001条件的npc对玩家的仇恨度增加100至300点",
+  "en": "All NPCs that meet the ID 1001 condition within 10 tiles of the ID 1001 location in the condition table gain 100 to 300 hatred toward Player",
+  "pt": ""
+ },
+ "modFunctionTitle_npcRevive": {
+  "ch": "救助一丝元魂NPC",
+  "en": "Rescue NPC on Last Breath",
+  "pt": ""
+ },
+ "modFunctionTitle_openGuide": {
+  "ch": "打开ID为10101的引导",
+  "en": "Open the tutorial with ID 10101",
+  "pt": ""
+ },
+ "modFunctionTitle_openUI": {
+  "ch": "打开野外商店UI界面（每个界面的名称在后面的表【UI界面名称】中）",
+  "en": "Open world shop UI (See the table [UI Names] for the name of each UI)",
+  "pt": ""
+ },
+ "modFunctionTitle_openUIBuilding10005": {
+  "ch": "打开Building10005表中ID为162101的建筑数据",
+  "en": "Open the building data of ID 162101 in [Building10005 table]",
+  "pt": ""
+ },
+ "modFunctionTitle_openVillage": {
+  "ch": "打开双仪村",
+  "en": "Open Duality Village",
+  "pt": ""
+ },
+ "modFunctionTitle_pastFilter": {
+  "ch": "开启倒叙滤镜",
+  "en": "Turn on the flashback filter",
+  "pt": ""
+ },
+ "modFunctionTitle_pilferProbability": {
+  "ch": "使本月下一次偷窃的成功概率提高（被偷的人境界需要低于等于自己）",
+  "en": "Increase the success chance of the next stealing attempt this month (the realm of the target needs to be lower than the thief)",
+  "pt": ""
+ },
+ "modFunctionTitle_pillFormulaStudy": {
+  "ch": "立刻学会丹方",
+  "en": "Instant learn Elixir Recipes",
+  "pt": ""
+ },
+ "modFunctionTitle_pillFormulaStudyAll": {
+  "ch": "立刻学会所有可学习的 和 可升级的 丹宗丹方 超过玩家境界的不能学习",
+  "en": "Immediately learn all learnable and upgradeable Elixir Recipes from the alchemist's sect. Cannot learn recipes with a Realm higher than the player's",
+  "pt": ""
+ },
+ "modFunctionTitle_playBG": {
+  "ch": "播放背景音",
+  "en": "Play background sound",
+  "pt": ""
+ },
+ "modFunctionTitle_playMapEffect": {
+  "ch": "在当前格子播放特效xingtian",
+  "en": "Play the [xingtian] special effect in the current tile",
+  "pt": ""
+ },
+ "modFunctionTitle_positionEvent": {
+  "ch": "以角色位置为原点，偏移10,5的位置创建1001的事件",
+  "en": "Create a 1001 event with the character position as the origin, offset by 10,5",
+  "pt": ""
+ },
+ "modFunctionTitle_putTask": {
+  "ch": "提交一个任务",
+  "en": "Turn in a mission",
+  "pt": ""
+ },
+ "modFunctionTitle_regainAttr": {
+  "ch": "将当前体灵念值设置成上一次战斗前的值",
+  "en": "Set the current vitality, energy, and focus to the values before the last battle",
+  "pt": ""
+ },
+ "modFunctionTitle_releaseUnit": {
+  "ch": "放走熊，使用前确保熊已经死亡",
+  "en": "Release the bear and make sure the bear is dead before using it",
+  "pt": ""
+ },
+ "modFunctionTitle_removeFeature": {
+  "ch": "打开后天气运移除界面，玩家可以在其中选择一个进行移除",
+  "en": "Open the destiny (nurture) removal interface that allows Player to select and remove a destiny",
+  "pt": ""
+ },
+ "modFunctionTitle_replaceTrainAnime": {
+  "ch": "修改下一次双修的特效（必须使用AB功能把预制体放到Resources/Effect/UI）",
+  "en": "Modify the effect of next Dual Cultivation (Must put the prefabs into Resources/Effect/UI with AssetBundle)",
+  "pt": ""
+ },
+ "modFunctionTitle_returnLastReward": {
+  "ch": "失去最后一次获得的物品,并将物品归还给来源者（可结合stealTownNpcItem使用）",
+  "en": "Loses the last obtained item and returns it to its source (Can be used with stealTownNpcItem)",
+  "pt": ""
+ },
+ "modFunctionTitle_revive": {
+  "ch": "原地复活角色（只有在战斗中玩家死亡了才能使用）",
+  "en": "Revive the character on spot (only when Player has died in battle)",
+  "pt": ""
+ },
+ "modFunctionTitle_reward": {
+  "ch": "产出物品",
+  "en": "Generate item",
+  "pt": ""
+ },
+ "modFunctionTitle_rewardCount": {
+  "ch": "产出物品",
+  "en": "Generate item",
+  "pt": ""
+ },
+ "modFunctionTitle_rewardGridArrtRange": {
+  "ch": "产出玩家脚底格子内指定属性（修炼、挖矿等）",
+  "en": "Generate specified stats in the tile under Player's feet (cultivation, mining, etc.)",
+  "pt": ""
+ },
+ "modFunctionTitle_rewardNPCBegMercy": {
+  "ch": "调用求饶的封装，角色1向角色2求饶，直接产出角色2背包的道具给角色1",
+  "en": "Call the item bundle for begging mercy. When Character 1 begs Character 2 for mercy, directly generate the items in Character 2's bag to Character 1",
+  "pt": ""
+ },
+ "modFunctionTitle_rewardUnitArrt": {
+  "ch": "产出列表",
+  "en": "Generate list",
+  "pt": ""
+ },
+ "modFunctionTitle_roleSetRelation": {
+  "ch": "设置角色1和角色2的关系",
+  "en": "Set Character 1's relationship with Character 2",
+  "pt": ""
+ },
+ "modFunctionTitle_saveData": {
+  "ch": "保存当前存档",
+  "en": "Save the current game",
+  "pt": ""
+ },
+ "modFunctionTitle_schoolAttrModif": {
+  "ch": "增加宗门的属性",
+  "en": "Increase sect stats",
+  "pt": ""
+ },
+ "modFunctionTitle_schoolReputationAdd": {
+  "ch": "增加宗门的荣誉度",
+  "en": "Increase sect honor",
+  "pt": ""
+ },
+ "modFunctionTitle_setAttr": {
+  "ch": "设置指定属性为指定值",
+  "en": "Set a specified stat to a specified value",
+  "pt": ""
+ },
+ "modFunctionTitle_setBuild10002NPC": {
+  "ch": "将愚村中左侧的NPC替换为1001的NPC，点击后打开10001的剧情ID",
+  "en": "Replace the NPC on the left in Yukong Village with the NPC 1001. Click on it to open plot ID 10001",
+  "pt": ""
+ },
+ "modFunctionTitle_setDramaUnitData": {
+  "ch": "设置剧情左边、右边抓取的角色（NPC-A、NPC-B）",
+  "en": "Set plot left/right characters (NPC-A, NPC-B)",
+  "pt": ""
+ },
+ "modFunctionTitle_setEventDuration": {
+  "ch": "设置事件的剩余持续时间，并在该事件被删除时执行一条命令",
+  "en": "Sets the remaining time of an event and executes a command when the event is deleted",
+  "pt": ""
+ },
+ "modFunctionTitle_setEventObjData": {
+  "ch": "设置1001事件4，不追踪玩家",
+  "en": "Configure 1001 events 4, do not track Player",
+  "pt": ""
+ },
+ "modFunctionTitle_setNPCPoint": {
+  "ch": "移动NPC到地图表中配置的一个点",
+  "en": "Move the NPC to a point configured in the map sheet",
+  "pt": ""
+ },
+ "modFunctionTitle_setPoint": {
+  "ch": "设置玩家的位置",
+  "en": "Set Player's location",
+  "pt": ""
+ },
+ "modFunctionTitle_setPointInDecorateClassName": {
+  "ch": "随机移动到装饰分类为102的任意一格上",
+  "en": "Randomly move to any tile in the decoration classification of 102",
+  "pt": ""
+ },
+ "modFunctionTitle_setSchoolPost": {
+  "ch": "设置指定角色的宗门职位",
+  "en": "Set Sect position of the specified character",
+  "pt": ""
+ },
+ "modFunctionTitle_setTaskData": {
+  "ch": "将发布任务的NPC数据传到任务中",
+  "en": "Transfers the data of the mission giver NPC to the mission",
+  "pt": ""
+ },
+ "modFunctionTitle_setUnitAttr": {
+  "ch": "设置单位属性",
+  "en": "Set unit stats",
+  "pt": ""
+ },
+ "modFunctionTitle_setUnitGhost": {
+  "ch": "设置指定角色为一丝元魂",
+  "en": "Sets the specified character to Last Breath",
+  "pt": ""
+ },
+ "modFunctionTitle_setUnitPoint": {
+  "ch": "移动角色到指定位置",
+  "en": "Move character to a specific location",
+  "pt": ""
+ },
+ "modFunctionTitle_setUnitPropToUnit": {
+  "ch": "提取角色1的背包道具到角色2",
+  "en": "Extract items in Character 1's inventory to Character 2",
+  "pt": ""
+ },
+ "modFunctionTitle_setWorldData": {
+  "ch": "设置存档中指定key的数据",
+  "en": "Configure the specified key's data in the save file",
+  "pt": ""
+ },
+ "modFunctionTitle_showEvent": {
+  "ch": "显示指定ID的大地图事件",
+  "en": "Show the world map event with the specified ID",
+  "pt": ""
+ },
+ "modFunctionTitle_showTownSubBuild": {
+  "ch": "解锁城镇的建木",
+  "en": "Unlocks Town Tree Vault",
+  "pt": ""
+ },
+ "modFunctionTitle_sight": {
+  "ch": "永久显示以当前位置为中心的指定范围视野",
+  "en": "Permanently show the specific range of view centered on the current position",
+  "pt": ""
+ },
+ "modFunctionTitle_sound": {
+  "ch": "播放音效",
+  "en": "Play SFX",
+  "pt": ""
+ },
+ "modFunctionTitle_spriteClose": {
+  "ch": "增加器灵亲密度",
+  "en": "Increase artifact spirit affinity",
+  "pt": ""
+ },
+ "modFunctionTitle_stealTownNpcItem": {
+  "ch": "抓取NPC并获取身上一件单价最高的物品",
+  "en": "Extracts the NPC and obtains an item on them with the highest unit price",
+  "pt": ""
+ },
+ "modFunctionTitle_systemTips": {
+  "ch": "弹出一个提示UI",
+  "en": "Pop up a tip UI",
+  "pt": ""
+ },
+ "modFunctionTitle_threatenNPC": {
+  "ch": "玩家威胁B且成功",
+  "en": "Player threatens B and succeeds",
+  "pt": ""
+ },
+ "modFunctionTitle_townAuctionAddItem": {
+  "ch": "往指定区域的拍卖行中添加指定道具、秘籍",
+  "en": "Add specified items and manuals to the auction house of the specified region",
+  "pt": ""
+ },
+ "modFunctionTitle_transmitTaskTime": {
+  "ch": "将任务123的剩余持续时间传递给任务234",
+  "en": "Transfer the remaining time of mission 123 to mission 234",
+  "pt": ""
+ },
+ "modFunctionTitle_unitAddImmortalPoint": {
+  "ch": "角色增加仙力点",
+  "en": "Add Immortal Power Pts to character",
+  "pt": ""
+ },
+ "modFunctionTitle_unitExitSchool": {
+  "ch": "角色退出宗门",
+  "en": "Character leaves sect",
+  "pt": ""
+ },
+ "modFunctionTitle_unitJoinSchool": {
+  "ch": "角色1加入角色2的宗门",
+  "en": "Character 1 joins Character 2's Sect",
+  "pt": ""
+ },
+ "modFunctionTitle_unitLog": {
+  "ch": "记录单位B的日志",
+  "en": "Record unit B's log",
+  "pt": ""
+ },
+ "modFunctionTitle_unitRelationBreak": {
+  "ch": "角色1与角色2解除关系",
+  "en": "Character 1 cancels relationship with Character 2",
+  "pt": ""
+ },
+ "modFunctionTitle_useAssignBuild10005": {
+  "ch": "使WorldBuilding10005表中ID为162101的建筑被判断为已使用过",
+  "en": "Make the building with ID 162101 in the [WorldBuilding10005] considered used",
+  "pt": ""
+ },
+ "modFunctionTitle_useBuild10005": {
+  "ch": "使玩家当前位置的奇遇建筑被判断为使用过，只对Building10005生效",
+  "en": "Make the adventure building at Player's current location considered used, only effective for [Building10005]",
+  "pt": ""
+ }
+}

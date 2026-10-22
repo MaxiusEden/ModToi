@@ -1,0 +1,507 @@
+{
+ "common_bizi": {
+  "ch": "鼻子",
+  "en": "Nose ",
+  "pt": ""
+ },
+ "common_caozuoshibai": {
+  "ch": "本月时间不足",
+  "en": "Not enough days left in this month",
+  "pt": ""
+ },
+ "common_cundangsunhuai": {
+  "ch": "此存档已损坏",
+  "en": "This save is corrupted",
+  "pt": ""
+ },
+ "common_di": {
+  "ch": "第",
+  "en": "#",
+  "pt": ""
+ },
+ "common_dian": {
+  "ch": "、",
+  "en": ",",
+  "pt": ""
+ },
+ "common_dianjijixu": {
+  "ch": "点击继续......",
+  "en": "Click here to continue...",
+  "pt": ""
+ },
+ "common_diuqi": {
+  "ch": "是否丢弃{0}？",
+  "en": "Discard {0}?",
+  "pt": ""
+ },
+ "common_familyName": {
+  "ch": "姓",
+  "en": "Surname",
+  "pt": ""
+ },
+ "common_fen": {
+  "ch": "分",
+  "en": "min",
+  "pt": ""
+ },
+ "common_fou": {
+  "ch": "否",
+  "en": "No",
+  "pt": ""
+ },
+ "common_fuzhi": {
+  "ch": "复制",
+  "en": "Copy",
+  "pt": ""
+ },
+ "common_ganggang": {
+  "ch": "刚刚",
+  "en": "Just now",
+  "pt": ""
+ },
+ "common_ge": {
+  "ch": "个",
+  "en": "{#kong}",
+  "pt": ""
+ },
+ "common_gezibuzu": {
+  "ch": "学习技能数量达到上限，可遗忘技能或提升境界，获得更多的技能槽位。",
+  "en": "Max number of skills learned. Unlearn some skills or increase your Realm to have more skill slots.",
+  "pt": ""
+ },
+ "common_guanxi": {
+  "ch": "关系",
+  "en": "Relationship",
+  "pt": ""
+ },
+ "common_houbei": {
+  "ch": "后背",
+  "en": "Back ",
+  "pt": ""
+ },
+ "common_houfa": {
+  "ch": "后发",
+  "en": "Back Hair ",
+  "pt": ""
+ },
+ "common_jilu": {
+  "ch": "记录",
+  "en": "Record",
+  "pt": ""
+ },
+ "common_jineng": {
+  "ch": "技能",
+  "en": "Skills",
+  "pt": ""
+ },
+ "common_jinggao": {
+  "ch": "警告",
+  "en": "Warning",
+  "pt": ""
+ },
+ "common_jingjie": {
+  "ch": "境界",
+  "en": "Realm",
+  "pt": ""
+ },
+ "common_jingjiebuzu": {
+  "ch": "境界不足",
+  "en": "Realm too low",
+  "pt": ""
+ },
+ "common_kaishiyouxi": {
+  "ch": "开始游戏",
+  "en": "START GAME",
+  "pt": ""
+ },
+ "common_kuangxie": {
+  "ch": "狂邪",
+  "en": "Wicked",
+  "pt": ""
+ },
+ "common_lianshi": {
+  "ch": "脸饰",
+  "en": "Facial Feature ",
+  "pt": ""
+ },
+ "common_liji": {
+  "ch": "利己",
+  "en": "Selfish",
+  "pt": ""
+ },
+ "common_lingshibuzu": {
+  "ch": "灵石不足！",
+  "en": "Not enough Spirit Stones!",
+  "pt": ""
+ },
+ "common_maozi": {
+  "ch": "帽子",
+  "en": "Headwear ",
+  "pt": ""
+ },
+ "common_meili": {
+  "ch": "魅力",
+  "en": "Charm",
+  "pt": ""
+ },
+ "common_meimao": {
+  "ch": "眉毛",
+  "en": "Eyebrows ",
+  "pt": ""
+ },
+ "common_meixin": {
+  "ch": "眉心",
+  "en": "Glabella ",
+  "pt": ""
+ },
+ "common_miao": {
+  "ch": "秒",
+  "en": " s",
+  "pt": ""
+ },
+ "common_mo": {
+  "ch": "魔",
+  "en": "Demonic",
+  "pt": ""
+ },
+ "common_monstNan": {
+  "ch": "雄",
+  "en": "Male",
+  "pt": ""
+ },
+ "common_monstNv": {
+  "ch": "雌",
+  "en": "Female",
+  "pt": ""
+ },
+ "common_nan": {
+  "ch": "男",
+  "en": "Male",
+  "pt": ""
+ },
+ "common_neizaixingge": {
+  "ch": "内在性格",
+  "en": "Moral",
+  "pt": ""
+ },
+ "common_nian": {
+  "ch": "年",
+  "en": " Year",
+  "pt": ""
+ },
+ "common_nianling": {
+  "ch": "年龄",
+  "en": "Age",
+  "pt": ""
+ },
+ "common_nv": {
+  "ch": "女",
+  "en": "Female",
+  "pt": ""
+ },
+ "common_qianfa": {
+  "ch": "前发",
+  "en": "Front Hair ",
+  "pt": ""
+ },
+ "common_qita": {
+  "ch": "其它",
+  "en": "Other",
+  "pt": ""
+ },
+ "common_quanxuan": {
+  "ch": "全选",
+  "en": "Select All",
+  "pt": ""
+ },
+ "common_queding": {
+  "ch": "确定",
+  "en": "OK",
+  "pt": ""
+ },
+ "common_queding2": {
+  "ch": "确 定",
+  "en": "OK",
+  "pt": ""
+ },
+ "common_queren": {
+  "ch": "确认",
+  "en": "Confirm",
+  "pt": ""
+ },
+ "common_queshao": {
+  "ch": "缺少{0}！",
+  "en": "Missing: {0}!",
+  "pt": ""
+ },
+ "common_quxiao": {
+  "ch": "取消",
+  "en": "Cancel",
+  "pt": ""
+ },
+ "common_renlei": {
+  "ch": "人类",
+  "en": "Human",
+  "pt": ""
+ },
+ "common_ri": {
+  "ch": "日",
+  "en": "Day",
+  "pt": ""
+ },
+ "common_shenfen": {
+  "ch": "身份",
+  "en": "Position",
+  "pt": ""
+ },
+ "common_shenwang": {
+  "ch": "声望",
+  "en": "Reputation",
+  "pt": ""
+ },
+ "common_shi": {
+  "ch": "是",
+  "en": "Yes",
+  "pt": ""
+ },
+ "common_shouming": {
+  "ch": "寿命",
+  "en": "Lifespan",
+  "pt": ""
+ },
+ "common_shuliangweiling": {
+  "ch": "数量不能为0",
+  "en": "Quantity can't be 0",
+  "pt": ""
+ },
+ "common_shuxing": {
+  "ch": "属性",
+  "en": "Stats",
+  "pt": ""
+ },
+ "common_suzi1": {
+  "ch": "一",
+  "en": "一",
+  "pt": ""
+ },
+ "common_suzi10": {
+  "ch": "十",
+  "en": "十",
+  "pt": ""
+ },
+ "common_suzi2": {
+  "ch": "二",
+  "en": "二",
+  "pt": ""
+ },
+ "common_suzi3": {
+  "ch": "三",
+  "en": "三",
+  "pt": ""
+ },
+ "common_suzi4": {
+  "ch": "四",
+  "en": "四",
+  "pt": ""
+ },
+ "common_suzi5": {
+  "ch": "五",
+  "en": "五",
+  "pt": ""
+ },
+ "common_suzi6": {
+  "ch": "六",
+  "en": "六",
+  "pt": ""
+ },
+ "common_suzi7": {
+  "ch": "七",
+  "en": "七",
+  "pt": ""
+ },
+ "common_suzi8": {
+  "ch": "八",
+  "en": "八",
+  "pt": ""
+ },
+ "common_suzi9": {
+  "ch": "九",
+  "en": "九",
+  "pt": ""
+ },
+ "common_ta1": {
+  "ch": "他",
+  "en": "he",
+  "pt": ""
+ },
+ "common_ta2": {
+  "ch": "她",
+  "en": "she",
+  "pt": ""
+ },
+ "common_ta3": {
+  "ch": "他的",
+  "en": "his",
+  "pt": ""
+ },
+ "common_ta4": {
+  "ch": "她的",
+  "en": "her",
+  "pt": ""
+ },
+ "common_ta5": {
+  "ch": "他",
+  "en": "him",
+  "pt": ""
+ },
+ "common_ta6": {
+  "ch": "她",
+  "en": "her",
+  "pt": ""
+ },
+ "common_tian": {
+  "ch": "天",
+  "en": "d",
+  "pt": ""
+ },
+ "common_tianshubuzu": {
+  "ch": "本月时间不足",
+  "en": "Not enough days left in this month",
+  "pt": ""
+ },
+ "common_tiaoguobenyue": {
+  "ch": "本月天数不足，是否跳过本月。",
+  "en": "Skip the current month?",
+  "pt": ""
+ },
+ "common_tishi": {
+  "ch": "提示",
+  "en": "Notice",
+  "pt": ""
+ },
+ "common_tou": {
+  "ch": "脸型",
+  "en": "Face ",
+  "pt": ""
+ },
+ "common_tuichuyouxi": {
+  "ch": "你确定退出游戏吗？",
+  "en": "Quit the game?",
+  "pt": ""
+ },
+ "common_waimao": {
+  "ch": "外貌",
+  "en": "Aspect",
+  "pt": ""
+ },
+ "common_waizaixingge": {
+  "ch": "外在性格",
+  "en": "Attitude",
+  "pt": ""
+ },
+ "common_wo": {
+  "ch": "",
+  "en": "",
+  "pt": ""
+ },
+ "common_wu": {
+  "ch": "无",
+  "en": "N/A",
+  "pt": ""
+ },
+ "common_wupin": {
+  "ch": "物品",
+  "en": "Item",
+  "pt": ""
+ },
+ "common_xiaoshi": {
+  "ch": "时",
+  "en": "h",
+  "pt": ""
+ },
+ "common_xingbie": {
+  "ch": "性别",
+  "en": "Sex",
+  "pt": ""
+ },
+ "common_xingming": {
+  "ch": "姓名",
+  "en": "Name",
+  "pt": ""
+ },
+ "common_xuyao2": {
+  "ch": "需要",
+  "en": "Enable",
+  "pt": ""
+ },
+ "common_yanjing": {
+  "ch": "眼睛",
+  "en": "Eyes ",
+  "pt": ""
+ },
+ "common_yifu": {
+  "ch": "衣服",
+  "en": "Outfit ",
+  "pt": ""
+ },
+ "common_youlian": {
+  "ch": "右脸",
+  "en": "Right Face",
+  "pt": ""
+ },
+ "common_youshan": {
+  "ch": "友善",
+  "en": "Friendly",
+  "pt": ""
+ },
+ "common_yue": {
+  "ch": "月",
+  "en": " Month",
+  "pt": ""
+ },
+ "common_yuetishi": {
+  "ch": "个月前",
+  "en": "month(s) ago",
+  "pt": ""
+ },
+ "common_zheng": {
+  "ch": "正",
+  "en": "Righteous",
+  "pt": ""
+ },
+ "common_zhengzhi": {
+  "ch": "正直",
+  "en": "Steadfast",
+  "pt": ""
+ },
+ "common_zhizi": {
+  "ch": "资质",
+  "en": "Stat",
+  "pt": ""
+ },
+ "common_zhongyong": {
+  "ch": "中庸",
+  "en": "Middle Way",
+  "pt": ""
+ },
+ "common_zhongzu": {
+  "ch": "种族",
+  "en": "Race",
+  "pt": ""
+ },
+ "common_zongmen": {
+  "ch": "宗门",
+  "en": "Sect",
+  "pt": ""
+ },
+ "common_zuiba": {
+  "ch": "嘴巴",
+  "en": "Mouth ",
+  "pt": ""
+ },
+ "common_zuolian": {
+  "ch": "左脸",
+  "en": "Left Face",
+  "pt": ""
+ }
+}

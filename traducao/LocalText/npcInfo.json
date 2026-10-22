@@ -1,0 +1,597 @@
+{
+ "npcInfo_biaoji": {
+  "ch": "标记",
+  "en": "Mark",
+  "pt": ""
+ },
+ "npcInfo_bukejiaohu": {
+  "ch": "当前状态不可互动！",
+  "en": "Interaction is unavailable in your current state.",
+  "pt": ""
+ },
+ "npcInfo_caozhuotishi": {
+  "ch": "必须移动同一个位置进行操作",
+  "en": "Two people must be in the same space!",
+  "pt": ""
+ },
+ "npcInfo_chakanxiangqing": {
+  "ch": "查看详情",
+  "en": "View Details",
+  "pt": ""
+ },
+ "npcInfo_chongxinkaolv": {
+  "ch": "重新考虑",
+  "en": "Reconsider",
+  "pt": ""
+ },
+ "npcInfo_chouren": {
+  "ch": "仇人",
+  "en": "Enemy",
+  "pt": ""
+ },
+ "npcInfo_daoxinjiandingdu": {
+  "ch": "道心坚定度",
+  "en": "Taoist Mind Dedication",
+  "pt": ""
+ },
+ "npcInfo_daoxinposui": {
+  "ch": "道心破碎",
+  "en": "Taoist Mind Shattered",
+  "pt": ""
+ },
+ "npcInfo_dazhanglao": {
+  "ch": "大长老",
+  "en": "Grand Elder",
+  "pt": ""
+ },
+ "npcInfo_didi": {
+  "ch": "弟弟",
+  "en": "Younger Brother",
+  "pt": ""
+ },
+ "npcInfo_diren": {
+  "ch": "仇视",
+  "en": "Enemy",
+  "pt": ""
+ },
+ "npcInfo_douji": {
+  "ch": "斗鸡",
+  "en": "Cockfight Chicken",
+  "pt": ""
+ },
+ "npcInfo_duihua": {
+  "ch": "交谈",
+  "en": "Talk",
+  "pt": ""
+ },
+ "npcInfo_effectLevel1": {
+  "ch": "初生",
+  "en": "Birth",
+  "pt": ""
+ },
+ "npcInfo_effectLevel2": {
+  "ch": "凝华",
+  "en": "Essence",
+  "pt": ""
+ },
+ "npcInfo_effectLevel3": {
+  "ch": "结粹",
+  "en": "Perfection",
+  "pt": ""
+ },
+ "npcInfo_effectLevel_1": {
+  "ch": "动摇",
+  "en": "Shaken",
+  "pt": ""
+ },
+ "npcInfo_effectLevel_2": {
+  "ch": "倾颓",
+  "en": "Decay",
+  "pt": ""
+ },
+ "npcInfo_effectLevel_3": {
+  "ch": "消弭",
+  "en": "Disappeared",
+  "pt": ""
+ },
+ "npcInfo_erzi": {
+  "ch": "儿子",
+  "en": "Son",
+  "pt": ""
+ },
+ "npcInfo_fabaodaoju": {
+  "ch": "法宝道具",
+  "en": "Artifact",
+  "pt": ""
+ },
+ "npcInfo_fuchou": {
+  "ch": "复仇",
+  "en": "Revenge",
+  "pt": ""
+ },
+ "npcInfo_fujun": {
+  "ch": "丈夫",
+  "en": "Husband",
+  "pt": ""
+ },
+ "npcInfo_fumu": {
+  "ch": "父母",
+  "en": "Parent",
+  "pt": ""
+ },
+ "npcInfo_fuqi": {
+  "ch": "夫妻",
+  "en": "Spouse",
+  "pt": ""
+ },
+ "npcInfo_fuqin": {
+  "ch": "父亲",
+  "en": "Father",
+  "pt": ""
+ },
+ "npcInfo_gege": {
+  "ch": "哥哥",
+  "en": "Older Brother",
+  "pt": ""
+ },
+ "npcInfo_gongji": {
+  "ch": "攻击",
+  "en": "Attack",
+  "pt": ""
+ },
+ "npcInfo_guanxichenggong": {
+  "ch": "成功将{0}{1}关系！\n{2}和他的族人对你的亲密度提升了！",
+  "en": "Relationship formed with {0}: {1}!\n{2} and their people now have a higher Affinity with you!",
+  "pt": ""
+ },
+ "npcInfo_guanxiqueren": {
+  "ch": "确定向{0}请求{1}关系吗？",
+  "en": "Request to form {1} relationship with {0}?",
+  "pt": ""
+ },
+ "npcInfo_guanxitishi": {
+  "ch": "选择请求{0}的关系",
+  "en": "Select a {0}",
+  "pt": ""
+ },
+ "npcInfo_hunshi": {
+  "ch": "婚事",
+  "en": "Marriage",
+  "pt": ""
+ },
+ "npcInfo_jiaoyi": {
+  "ch": "交易",
+  "en": "Trade",
+  "pt": ""
+ },
+ "npcInfo_jiebiao": {
+  "ch": "劫镖",
+  "en": "Loot",
+  "pt": ""
+ },
+ "npcInfo_jiebiaoshibai": {
+  "ch": "背包已满不可劫镖",
+  "en": "Your Inventory is full. Looting unavailable.",
+  "pt": ""
+ },
+ "npcInfo_jieduan1": {
+  "ch": "一阶",
+  "en": "First Stage",
+  "pt": ""
+ },
+ "npcInfo_jieduan2": {
+  "ch": "二阶",
+  "en": "Second Stage",
+  "pt": ""
+ },
+ "npcInfo_jieduan3": {
+  "ch": "三阶",
+  "en": "Third Stage",
+  "pt": ""
+ },
+ "npcInfo_jiejie": {
+  "ch": "姐姐",
+  "en": "Older Sister",
+  "pt": ""
+ },
+ "npcInfo_jieyi": {
+  "ch": "结义",
+  "en": "Bond",
+  "pt": ""
+ },
+ "npcInfo_jieyuan": {
+  "ch": "结缘",
+  "en": "Partner",
+  "pt": ""
+ },
+ "npcInfo_jineng": {
+  "ch": "装备技能",
+  "en": "Skills equipped",
+  "pt": ""
+ },
+ "npcInfo_jinglibuzu": {
+  "ch": "精力不足",
+  "en": "Stamina too low",
+  "pt": ""
+ },
+ "npcInfo_jinjie": {
+  "ch": "进阶",
+  "en": "Progress",
+  "pt": ""
+ },
+ "npcInfo_juezhao": {
+  "ch": "绝技",
+  "en": "Special Skill",
+  "pt": ""
+ },
+ "npcInfo_kechuanshou": {
+  "ch": "可传授道种给其他人！",
+  "en": "Taoist Seed can be imparted to others!",
+  "pt": ""
+ },
+ "npcInfo_kongque": {
+  "ch": "空缺",
+  "en": "Vacant",
+  "pt": ""
+ },
+ "npcInfo_lundao": {
+  "ch": "论道",
+  "en": "Debate",
+  "pt": ""
+ },
+ "npcInfo_meimei": {
+  "ch": "妹妹",
+  "en": "Younger Sister",
+  "pt": ""
+ },
+ "npcInfo_mingyao": {
+  "ch": "冥妖",
+  "en": "Nether Demon",
+  "pt": ""
+ },
+ "npcInfo_moshengbeibao": {
+  "ch": "陌生人不可查看背包",
+  "en": "You can't inspect the Inventory of a Stranger.",
+  "pt": ""
+ },
+ "npcInfo_moshengcaozuo": {
+  "ch": "陌生人不可进行此行为",
+  "en": "Action not allowed. The target is a Stranger.",
+  "pt": ""
+ },
+ "npcInfo_moshengren": {
+  "ch": "陌生人",
+  "en": "Stranger",
+  "pt": ""
+ },
+ "npcInfo_muqin": {
+  "ch": "母亲",
+  "en": "Mother",
+  "pt": ""
+ },
+ "npcInfo_neizaixingge": {
+  "ch": "内在性格",
+  "en": "Internal",
+  "pt": ""
+ },
+ "npcInfo_niangzi": {
+  "ch": "妻子",
+  "en": "Wife",
+  "pt": ""
+ },
+ "npcInfo_nver": {
+  "ch": "女儿",
+  "en": "Daughter",
+  "pt": ""
+ },
+ "npcInfo_pengyou": {
+  "ch": "好友",
+  "en": "Friend",
+  "pt": ""
+ },
+ "npcInfo_posui": {
+  "ch": "破碎",
+  "en": "Shatter",
+  "pt": ""
+ },
+ "npcInfo_qiecuo": {
+  "ch": "切磋",
+  "en": "Spar",
+  "pt": ""
+ },
+ "npcInfo_qingjiao": {
+  "ch": "请教",
+  "en": "Learn",
+  "pt": ""
+ },
+ "npcInfo_qingjiaoTip": {
+  "ch": "需要一定的时间精进功法，暂时不可再向他人学习功法",
+  "en": "Learn Martial Arts from this person. After successful learning, you need some time to practice before the next learning.",
+  "pt": ""
+ },
+ "npcInfo_qingren": {
+  "ch": "道侣",
+  "en": "Partner",
+  "pt": ""
+ },
+ "npcInfo_qinzu": {
+  "ch": "亲族关系",
+  "en": "Family",
+  "pt": ""
+ },
+ "npcInfo_renji": {
+  "ch": "人际关系",
+  "en": "Social",
+  "pt": ""
+ },
+ "npcInfo_renshushangxian": {
+  "ch": "宗门人数已达上限！",
+  "en": "Sect population limit reached!",
+  "pt": ""
+ },
+ "npcInfo_renwudaoxin": {
+  "ch": "人物道心",
+  "en": "Taoist Mind",
+  "pt": ""
+ },
+ "npcInfo_renwuguanxi": {
+  "ch": "人物关系",
+  "en": "Relationship",
+  "pt": ""
+ },
+ "npcInfo_renwugushi": {
+  "ch": "人物故事",
+  "en": "Backstory",
+  "pt": ""
+ },
+ "npcInfo_renwujineng": {
+  "ch": "人物技能",
+  "en": "Skills",
+  "pt": ""
+ },
+ "npcInfo_renwushuxing": {
+  "ch": "人物属性",
+  "en": "Stats",
+  "pt": ""
+ },
+ "npcInfo_shenfa": {
+  "ch": "身法",
+  "en": "Motion Skill",
+  "pt": ""
+ },
+ "npcInfo_shifu": {
+  "ch": "师父",
+  "en": "Master",
+  "pt": ""
+ },
+ "npcInfo_shitu": {
+  "ch": "师徒",
+  "en": "Mentorship",
+  "pt": ""
+ },
+ "npcInfo_shuangxiu": {
+  "ch": "双修",
+  "en": "Dual Cultivation",
+  "pt": ""
+ },
+ "npcInfo_sishengzinv": {
+  "ch": "私生子女",
+  "en": "Illegitimate Child",
+  "pt": ""
+ },
+ "npcInfo_suoqu": {
+  "ch": "索取",
+  "en": "Request",
+  "pt": ""
+ },
+ "npcInfo_tanxin": {
+  "ch": "谈心",
+  "en": "Sincere Talk",
+  "pt": ""
+ },
+ "npcInfo_tiaojiannanxing": {
+  "ch": "对方必须是男性",
+  "en": "Target must be male",
+  "pt": ""
+ },
+ "npcInfo_tiaojiannianlingdi": {
+  "ch": "年龄必须比对方低{0}以上",
+  "en": "You must be at least {0} years younger than the target",
+  "pt": ""
+ },
+ "npcInfo_tiaojiannianlinggao": {
+  "ch": "年龄必须比对方高{0}以上",
+  "en": "You must be at least {0} years older than the target",
+  "pt": ""
+ },
+ "npcInfo_tiaojiannvxing": {
+  "ch": "对方必须是女性",
+  "en": "Target must be female",
+  "pt": ""
+ },
+ "npcInfo_tiaojianyixing": {
+  "ch": "对方必须是异性",
+  "en": "Target must be of the opposite gender",
+  "pt": ""
+ },
+ "npcInfo_touqie": {
+  "ch": "偷窃",
+  "en": "Theft",
+  "pt": ""
+ },
+ "npcInfo_touqieshibai": {
+  "ch": "一无所获",
+  "en": "Nothing found",
+  "pt": ""
+ },
+ "npcInfo_toushi": {
+  "ch": "偷师",
+  "en": "Observe",
+  "pt": ""
+ },
+ "npcInfo_tudi": {
+  "ch": "徒弟",
+  "en": "Apprentice",
+  "pt": ""
+ },
+ "npcInfo_waizaixingge": {
+  "ch": "外在性格",
+  "en": "External",
+  "pt": ""
+ },
+ "npcInfo_wuji": {
+  "ch": "武技",
+  "en": "Martial Skill",
+  "pt": ""
+ },
+ "npcInfo_wuxiaohao": {
+  "ch": "无消耗",
+  "en": "No cost",
+  "pt": ""
+ },
+ "npcInfo_xianjibuzu": {
+  "ch": "仙鸡不足3只，无法进行比试",
+  "en": "Unable to fight - Immortal Chickens less than 3.",
+  "pt": ""
+ },
+ "npcInfo_xiaohaojingli": {
+  "ch": "需要消耗{0}精力",
+  "en": "Stamina Cost: {0}",
+  "pt": ""
+ },
+ "npcInfo_xinfa": {
+  "ch": "装备心法",
+  "en": "Mind Skills equipped",
+  "pt": ""
+ },
+ "npcInfo_xingge": {
+  "ch": "性格",
+  "en": "Character Traits",
+  "pt": ""
+ },
+ "npcInfo_xiongdijiemei": {
+  "ch": "兄弟姐妹",
+  "en": "Sibling",
+  "pt": ""
+ },
+ "npcInfo_xueyi": {
+  "ch": "学艺",
+  "en": "Learn",
+  "pt": ""
+ },
+ "npcInfo_yaoyue": {
+  "ch": "邀约",
+  "en": "Invite",
+  "pt": ""
+ },
+ "npcInfo_yidi": {
+  "ch": "义弟",
+  "en": "Sworn Younger Brother",
+  "pt": ""
+ },
+ "npcInfo_yifu": {
+  "ch": "义父",
+  "en": "Adoptive Father",
+  "pt": ""
+ },
+ "npcInfo_yifumu": {
+  "ch": "义父母",
+  "en": "Adoptive Parent",
+  "pt": ""
+ },
+ "npcInfo_yige": {
+  "ch": "义母",
+  "en": "Adoptive Mother",
+  "pt": ""
+ },
+ "npcInfo_yijie": {
+  "ch": "义姐",
+  "en": "Sworn Older Sister",
+  "pt": ""
+ },
+ "npcInfo_yimei": {
+  "ch": "义妹",
+  "en": "Sworn Younger Sister",
+  "pt": ""
+ },
+ "npcInfo_yinv": {
+  "ch": "义女",
+  "en": "Adoptive Daughter",
+  "pt": ""
+ },
+ "npcInfo_yixiong": {
+  "ch": "义兄",
+  "en": "Sworn Older Brother",
+  "pt": ""
+ },
+ "npcInfo_yixiongdijiemei": {
+  "ch": "义兄弟姐妹",
+  "en": "Sworn Sibling",
+  "pt": ""
+ },
+ "npcInfo_yizi": {
+  "ch": "义子",
+  "en": "Adoptive Son",
+  "pt": ""
+ },
+ "npcInfo_yizinv": {
+  "ch": "义子女",
+  "en": "Adoptive Child",
+  "pt": ""
+ },
+ "npcInfo_yunhunxiaosan": {
+  "ch": "对方元魂已消散，只允许赠送东西给对方",
+  "en": "Target is dead. You can only send gifts to the target.",
+  "pt": ""
+ },
+ "npcInfo_yuwoxiangguan": {
+  "ch": "与我相关",
+  "en": "Concerning Me",
+  "pt": ""
+ },
+ "npcInfo_zengsong": {
+  "ch": "赠送",
+  "en": "Gift",
+  "pt": ""
+ },
+ "npcInfo_zhanglao": {
+  "ch": "长老",
+  "en": "Elder",
+  "pt": ""
+ },
+ "npcInfo_zhaona": {
+  "ch": "招纳",
+  "en": "Recruitment",
+  "pt": ""
+ },
+ "npcInfo_zhidian": {
+  "ch": "指点",
+  "en": "Teach",
+  "pt": ""
+ },
+ "npcInfo_zhidianTip": {
+  "ch": "需要一定的时间恢复功力，暂时不可再向他人传授功法",
+  "en": "Teach the person Martial Arts. After successful teaching, you need some time to restore power before the next teaching.",
+  "pt": ""
+ },
+ "npcInfo_zhidingnitian": {
+  "ch": "请为{0}在下次突破时，选择的逆天改命提供建议。",
+  "en": "For {0}, in the next Breakthrough, provide feedback for the selected Rewrite Destiny.",
+  "pt": ""
+ },
+ "npcInfo_ziji": {
+  "ch": "自己",
+  "en": "Self",
+  "pt": ""
+ },
+ "npcInfo_zinv": {
+  "ch": "子女",
+  "en": "Child",
+  "pt": ""
+ },
+ "npcInfo_zongzhu": {
+  "ch": "宗主",
+  "en": "Sect Leader",
+  "pt": ""
+ }
+}

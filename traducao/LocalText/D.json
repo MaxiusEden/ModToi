@@ -1,0 +1,1242 @@
+{
+ "D_battleInfo_dijiguan": {
+  "ch": "第{0}关",
+  "en": "Level {0}",
+  "pt": ""
+ },
+ "D_battleStart_biaoti": {
+  "ch": "胜利条件",
+  "en": "Victory Condition",
+  "pt": ""
+ },
+ "D_battleStart_nandu": {
+  "ch": "不归玄境：{0}",
+  "en": "Ground of No Return: {0}",
+  "pt": ""
+ },
+ "D_battleStart_shenglitiaojian": {
+  "ch": "通关20层",
+  "en": "Level 20 Cleared",
+  "pt": ""
+ },
+ "D_battleStore_chiyoudaoju": {
+  "ch": "持有道具",
+  "en": "Items owned",
+  "pt": ""
+ },
+ "D_battleStore_citiaoshuoming": {
+  "ch": "词条说明",
+  "en": "Affix Info",
+  "pt": ""
+ },
+ "D_battleStore_ciyao": {
+  "ch": "次要",
+  "en": "Minor",
+  "pt": ""
+ },
+ "D_battleStore_fanhuiyouxi": {
+  "ch": "回到游戏",
+  "en": "Resume",
+  "pt": ""
+ },
+ "D_battleStore_fanhuizhujiemian": {
+  "ch": "返回主界面",
+  "en": "Main Menu",
+  "pt": ""
+ },
+ "D_battleStore_jiesuo": {
+  "ch": "解锁",
+  "en": "Unlock",
+  "pt": ""
+ },
+ "D_battleStore_jineng": {
+  "ch": "我的技能",
+  "en": "My Skills",
+  "pt": ""
+ },
+ "D_battleStore_jinengcitiao": {
+  "ch": "技能词条",
+  "en": "Skill Affixes",
+  "pt": ""
+ },
+ "D_battleStore_jinengshuoming": {
+  "ch": "技能说明",
+  "en": "Skill Info",
+  "pt": ""
+ },
+ "D_battleStore_jueseshuxing": {
+  "ch": "角色属性",
+  "en": "Info",
+  "pt": ""
+ },
+ "D_battleStore_lengqueshijian": {
+  "ch": "冷却时间",
+  "en": "Cooldown",
+  "pt": ""
+ },
+ "D_battleStore_qiehuanshuxing": {
+  "ch": "切换",
+  "en": "Switch",
+  "pt": ""
+ },
+ "D_battleStore_shezhi": {
+  "ch": "设置",
+  "en": "Settings",
+  "pt": ""
+ },
+ "D_battleStore_suoding": {
+  "ch": "锁定",
+  "en": "Locked",
+  "pt": ""
+ },
+ "D_battleStore_xinfa": {
+  "ch": "我的心法",
+  "en": "My Mind Skills",
+  "pt": ""
+ },
+ "D_battleStore_xinfacitiao": {
+  "ch": "心法词条",
+  "en": "Mind Skill Affixes",
+  "pt": ""
+ },
+ "D_battleStore_xinyouxi": {
+  "ch": "新游戏",
+  "en": "New Game",
+  "pt": ""
+ },
+ "D_battleStore_yizhuangpei": {
+  "ch": "升级",
+  "en": "Upgrade",
+  "pt": ""
+ },
+ "D_battleStore_zhuyao": {
+  "ch": "主要",
+  "en": "Major",
+  "pt": ""
+ },
+ "D_beifenduqushibai": {
+  "ch": "备份文件读取失败，请重新开始！",
+  "en": "Unable to load the backup save file. Please play with a new save.",
+  "pt": ""
+ },
+ "D_boss_kuangbaoshengyushijian": {
+  "ch": "大妖兽将于{0}s后进入<r>狂暴状态</r>",
+  "en": "Mythical Beast will go <r>Berserk</r> after {0}s",
+  "pt": ""
+ },
+ "D_cundangsunhuaitishi": {
+  "ch": "当前存档已损坏，无法读取。是否读取最近一次备份的存档？",
+  "en": "Unable to load selected save file. Load the latest backup save file instead?",
+  "pt": ""
+ },
+ "D_diffPass": {
+  "ch": "已通过",
+  "en": "Cleared",
+  "pt": ""
+ },
+ "D_dlcMain_dangqianjuese": {
+  "ch": "当前角色",
+  "en": "Current Character",
+  "pt": ""
+ },
+ "D_dlcMain_wanfaming": {
+  "ch": "选择DLC角色",
+  "en": "Select DLC Character",
+  "pt": ""
+ },
+ "D_dlcMain_xuanzejuese": {
+  "ch": "请选择角色",
+  "en": "Select Character",
+  "pt": ""
+ },
+ "D_dlcMain_yongyoujineng": {
+  "ch": "技能",
+  "en": "Skills",
+  "pt": ""
+ },
+ "D_end_baojicishu": {
+  "ch": "暴击次数",
+  "en": "Crit Strikes Dealt",
+  "pt": ""
+ },
+ "D_end_baojizongshanghai": {
+  "ch": "暴击总伤害",
+  "en": "Total Crit Damage",
+  "pt": ""
+ },
+ "D_end_guanqiashu": {
+  "ch": "到达关卡",
+  "en": "Level Reached",
+  "pt": ""
+ },
+ "D_end_huifutili": {
+  "ch": "回复体力",
+  "en": "Vitality Restored",
+  "pt": ""
+ },
+ "D_end_jishaboss": {
+  "ch": "击杀大妖兽",
+  "en": "Bosses Killed",
+  "pt": ""
+ },
+ "D_end_jishaxiaoguai": {
+  "ch": "击杀小怪",
+  "en": "Minions Killed",
+  "pt": ""
+ },
+ "D_end_shanbicishu": {
+  "ch": "闪避次数",
+  "en": "Successful Dodges",
+  "pt": ""
+ },
+ "D_end_shoushangcishu": {
+  "ch": "受伤次数",
+  "en": "Hits Received",
+  "pt": ""
+ },
+ "D_end_shoushangzongshanghai": {
+  "ch": "受到总伤害",
+  "en": "Total Damage Taken",
+  "pt": ""
+ },
+ "D_end_zhandouhaoshi": {
+  "ch": "战斗耗时",
+  "en": "Battle Duration",
+  "pt": ""
+ },
+ "D_end_zongshanghai": {
+  "ch": "总伤害",
+  "en": "Total Damage",
+  "pt": ""
+ },
+ "D_end_zuigaoshanghai": {
+  "ch": "单次最高伤害",
+  "en": "Highest Single-hit",
+  "pt": ""
+ },
+ "D_jiesuoneirong": {
+  "ch": "解锁内容",
+  "en": "Unlocked",
+  "pt": ""
+ },
+ "D_playerInfoDesc_BXshuaxinsudu": {
+  "ch": "此属性可影响在战斗中刷新出罐子的概率。",
+  "en": "Indicates how frequently the breakable pots respawn in battles.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_GWdiaoluo": {
+  "ch": "战斗中敌人的掉落百分比。",
+  "en": "The percent of enemies' drops in battle.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_GWjinengweili": {
+  "ch": "战斗中敌人的伤害百分比。",
+  "en": "The percent of enemies' damage dealt in battle.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_GWshuaxinshulaing": {
+  "ch": "战斗中敌人的刷新数量百分比。",
+  "en": "The percent of respawned enemies' amount in battle.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_GWyidongsudu": {
+  "ch": "战斗中敌人的移动速度百分比。",
+  "en": "The percent of enemies' movement speed in battle.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNDDchuantoucishu": {
+  "ch": "角色的弹道穿透次数可受到此属性的加成。",
+  "en": "Indicates how many enemies your skill's projectile could pierce.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNDDjituijuli": {
+  "ch": "角色的击退距离可受到此属性的加成。",
+  "en": "Indicates your projectile's knock-back distance.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNDDshecheng": {
+  "ch": "角色的技能射程可受到此属性的加成。",
+  "en": "Indicates the farthest distance your skill's projectiles could reach.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNDDshuliang": {
+  "ch": "角色的弹道数量可受到此属性的加成。",
+  "en": "Indicates your skill's projectile amounts.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNDDsudu": {
+  "ch": "角色的弹道速度可受到此属性的加成。",
+  "en": "Indicates how fast your projectiles move.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNDDtanshecishu": {
+  "ch": "角色的弹道弹射次数可受到此属性的加成。",
+  "en": "Indicates how many times your skill's projectile could bounce among enemies.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNchixu": {
+  "ch": "角色的技能持续时间可受到此属性的加成。",
+  "en": "Indicates the effective time of your skills.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNfanwei": {
+  "ch": "角色的技能范围可受到此属性的加成。",
+  "en": "Indicates the radius of your skill's area of effect.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNxixue": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "D_playerInfoDesc_JNxixuebilv": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "D_playerInfoDesc_SDSXjiage": {
+  "ch": "此属性可影响商店中刷新道具的价格。",
+  "en": "Indicates the price to be paid in refreshing the store's list.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_SDjiage": {
+  "ch": "此属性可影响商店中出售的秘籍价格。",
+  "en": "Indicates the price of manuals you purchased in the store.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_SDshuaxincishu": {
+  "ch": "在商店中可免费刷新的次数。",
+  "en": "Indicates your free opportunities to refresh the store for another selection of items.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_ZHWchixu": {
+  "ch": "召唤物的持续时间可受到此百分比的加成。",
+  "en": "The bonus percent of the existing time for summoned units.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_ZHWgongsu": {
+  "ch": "召唤物的攻击速度可受到此百分比的加成。",
+  "en": "The bonus percent of the Attack Speed for summoned units.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_ZHWweili": {
+  "ch": "召唤物造成的伤害可受到此百分比的加成。",
+  "en": "The bonus percent of damage dealt by summoned units.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_baoji": {
+  "ch": "角色的暴击概率百分比。",
+  "en": "Indicates your chance to deal a critical strike.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_baojibeilv": {
+  "ch": "角色暴击时的伤害倍率百分比。",
+  "en": "The amplified percent of your Crit damage.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_daozizhi": {
+  "ch": "每1点刀法资质可使刀法伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Blade will +1 your Blade damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_enemyMaxhpfix": {
+  "ch": "战斗中敌人的最大体力百分比。",
+  "en": "The percent of enemies' max health points in battle.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_fangyu": {
+  "ch": "角色的防御力。",
+  "en": "Defense of your character.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_fengzizh": {
+  "ch": "每1点风灵根可使风属性伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Wind Root will +1 your Wind damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_gongji": {
+  "ch": "角色的攻击力。",
+  "en": "Attack of your character.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_gongjisudu": {
+  "ch": "角色使用在商店购买的技能的频率，此属性越高，技能的冷却时间越短。",
+  "en": "Indicates your frequency in casting skills that are acquired from the store. A higher Attack Speed will bring you a shorter skill cooldown.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_huozizhi": {
+  "ch": "每1点火灵根可使火属性伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Fire Root will +1 your Fire damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_jianzizhi": {
+  "ch": "每1点剑法资质可使剑法伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Sword will +1 your Sword damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_jingyanbeilv": {
+  "ch": "角色在击败敌人时获得修为的百分比。",
+  "en": "The percent of EXP gained from defeating enemies.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_jituijuli": {
+  "ch": "角色的击退距离可受到此属性的加成。",
+  "en": "Indicates your knock-back distance.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_kangxing": {
+  "ch": "角色的免伤能力，抗性越高，可免伤的百分比越高。",
+  "en": "Indicates your damage reduction. Higher Resistance will bring you a higher damage reduction percentage.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_kangxingcanshu": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "D_playerInfoDesc_leizizhi": {
+  "ch": "每1点雷灵根可使雷属性伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Lightning Root will +1 your Lightning damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_muzizhi": {
+  "ch": "每1点木灵根可使木属性伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Wood Root will +1 your Wood damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_qiangzizhi": {
+  "ch": "每1点枪法资质可使枪法伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Spear will +1 your Spear damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_quanzizhi": {
+  "ch": "每1点拳法资质可使拳法伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Fist will +1 your Fist damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_shanbi": {
+  "ch": "角色的闪避百分比，此属性上限为60%，超过上限的部分无效。",
+  "en": "Indicates your chance to evade an imminent attack. Capped at 60%.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_shiqufanwei": {
+  "ch": "角色拾取道具的最远距离。",
+  "en": "The maximum distance that allows your character to pick up items.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_shuizizhi": {
+  "ch": "每1点水灵根可使水属性伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Water Root will +1 your Water damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_tili": {
+  "ch": "角色的体力值，体力为0时游戏失败。",
+  "en": "Your character's health points. You'll lose the game when your Vitality drops to 0.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_tilihuifu": {
+  "ch": "角色在战斗中每秒可自动恢复的体力值。",
+  "en": "The amount of vitality automatically recovered per second during battle.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_tuzizhi": {
+  "ch": "每1点土灵根可使土属性伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Earth Root will +1 your Earth damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_weili": {
+  "ch": "角色的伤害加成百分比，角色造成的大部分伤害都可受到此百分比的加成（此加成对部分特殊伤害无效，如百分比体力伤害等）。",
+  "en": "The bonus percent of your character's damage. It applies to most types of damage you dealt, but is ineffective to some special damage types like percent damage to Vitality.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_xingyun": {
+  "ch": "此属性越高，角色在战斗及商店中出现高品质的道具概率越高。",
+  "en": "Indicates your character's chance to find high-quality items from the battlefield and the store.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_yidongsudu": {
+  "ch": "角色在战斗中的移动速度。",
+  "en": "Your character's movement speed during combat.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_zhangzizhi": {
+  "ch": "每1点掌法资质可使掌法伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Palm will +1 your Palm damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_zhizizhi": {
+  "ch": "每1点指法资质可使指法伤害+1，此属性上限为99，超过上限的部分无效。",
+  "en": "Every 1 Finger will +1 your Finger damage. Capped at 99.",
+  "pt": ""
+ },
+ "D_playerInfoDesc_zizhicashu": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "D_playerInfo_BXshuaxinsudu": {
+  "ch": "战斗内罐子刷新速度",
+  "en": "Pot Respawn Speed",
+  "pt": ""
+ },
+ "D_playerInfo_GWdiaoluo": {
+  "ch": "道具掉落率:",
+  "en": "Item Drop Rate:",
+  "pt": ""
+ },
+ "D_playerInfo_GWjinengweili": {
+  "ch": "敌人伤害:",
+  "en": "Enemy Damage:",
+  "pt": ""
+ },
+ "D_playerInfo_GWshuaxinshulaing": {
+  "ch": "敌人数量:",
+  "en": "Enemies:",
+  "pt": ""
+ },
+ "D_playerInfo_GWyidongsudu": {
+  "ch": "敌人移动速度:",
+  "en": "Enemy Agility:",
+  "pt": ""
+ },
+ "D_playerInfo_JNDDchuantoucishu": {
+  "ch": "弹道穿透次数:",
+  "en": "Projectile Penetrations:",
+  "pt": ""
+ },
+ "D_playerInfo_JNDDjituijuli": {
+  "ch": "弹道击退距离",
+  "en": "Projectile Knock-back",
+  "pt": ""
+ },
+ "D_playerInfo_JNDDshecheng": {
+  "ch": "弹道射程:",
+  "en": "Projectile Range:",
+  "pt": ""
+ },
+ "D_playerInfo_JNDDshuliang": {
+  "ch": "弹道数量加成:",
+  "en": "Projectile Amount Bonus:",
+  "pt": ""
+ },
+ "D_playerInfo_JNDDsudu": {
+  "ch": "弹道速度",
+  "en": "Projectile Speed",
+  "pt": ""
+ },
+ "D_playerInfo_JNDDtanshecishu": {
+  "ch": "弹道弹射次数:",
+  "en": "Projectile Bounces:",
+  "pt": ""
+ },
+ "D_playerInfo_JNchixu": {
+  "ch": "技能持续时间:",
+  "en": "Skill Duration:",
+  "pt": ""
+ },
+ "D_playerInfo_JNfanwei": {
+  "ch": "技能范围:",
+  "en": "Skill Radius:",
+  "pt": ""
+ },
+ "D_playerInfo_JNxixue": {
+  "ch": "吸血概率",
+  "en": "Leech Chance",
+  "pt": ""
+ },
+ "D_playerInfo_JNxixuebilv": {
+  "ch": "吸血比例",
+  "en": "Leech Rate",
+  "pt": ""
+ },
+ "D_playerInfo_SDSXjiage": {
+  "ch": "商店刷新价格",
+  "en": "Store Refresh Price",
+  "pt": ""
+ },
+ "D_playerInfo_SDjiage": {
+  "ch": "商店价格比例:",
+  "en": "Store Price Modifier:",
+  "pt": ""
+ },
+ "D_playerInfo_SDshuaxincishu": {
+  "ch": "商店免费刷新:",
+  "en": "Free Store Refreshes:",
+  "pt": ""
+ },
+ "D_playerInfo_ZHWchixu": {
+  "ch": "召唤物持续时间:",
+  "en": "Summoned Unit Duration:",
+  "pt": ""
+ },
+ "D_playerInfo_ZHWgongsu": {
+  "ch": "召唤物攻击速度",
+  "en": "Summoned Unit Attack Speed",
+  "pt": ""
+ },
+ "D_playerInfo_ZHWweili": {
+  "ch": "召唤物伤害加成:",
+  "en": "Summoned Unit Damage Bonus:",
+  "pt": ""
+ },
+ "D_playerInfo_baoji": {
+  "ch": "暴击概率",
+  "en": "Crit Chance",
+  "pt": ""
+ },
+ "D_playerInfo_baojibeilv": {
+  "ch": "暴击倍率",
+  "en": "Crit Rate",
+  "pt": ""
+ },
+ "D_playerInfo_daozizhi": {
+  "ch": "刀资质",
+  "en": "Blade",
+  "pt": ""
+ },
+ "D_playerInfo_enemyMaxhpfix": {
+  "ch": "敌人最大体力:",
+  "en": "Enemy Max Vitality:",
+  "pt": ""
+ },
+ "D_playerInfo_fangyu": {
+  "ch": "防御",
+  "en": "DEF",
+  "pt": ""
+ },
+ "D_playerInfo_fengzizh": {
+  "ch": "风灵根",
+  "en": "Wind Root",
+  "pt": ""
+ },
+ "D_playerInfo_gongji": {
+  "ch": "攻击",
+  "en": "ATK",
+  "pt": ""
+ },
+ "D_playerInfo_gongjisudu": {
+  "ch": "攻击速度",
+  "en": "Attack Speed",
+  "pt": ""
+ },
+ "D_playerInfo_huozizhi": {
+  "ch": "火灵根",
+  "en": "Fire Root",
+  "pt": ""
+ },
+ "D_playerInfo_jianzizhi": {
+  "ch": "剑资质",
+  "en": "Sword",
+  "pt": ""
+ },
+ "D_playerInfo_jingyanbeilv": {
+  "ch": "修为加成:",
+  "en": "EXP Bonus:",
+  "pt": ""
+ },
+ "D_playerInfo_jituijuli": {
+  "ch": "击退距离",
+  "en": "Knock-back Distance",
+  "pt": ""
+ },
+ "D_playerInfo_kangxing": {
+  "ch": "抗性",
+  "en": "Resistance",
+  "pt": ""
+ },
+ "D_playerInfo_kangxingcanshu": {
+  "ch": "抗性参数",
+  "en": "Resistance Modifier",
+  "pt": ""
+ },
+ "D_playerInfo_leizizhi": {
+  "ch": "雷灵根",
+  "en": "Lightning Root",
+  "pt": ""
+ },
+ "D_playerInfo_muzizhi": {
+  "ch": "木灵根",
+  "en": "Wood Root",
+  "pt": ""
+ },
+ "D_playerInfo_qiangzizhi": {
+  "ch": "枪资质",
+  "en": "Spear",
+  "pt": ""
+ },
+ "D_playerInfo_quanzizhi": {
+  "ch": "拳资质",
+  "en": "Fist",
+  "pt": ""
+ },
+ "D_playerInfo_shanbi": {
+  "ch": "闪避",
+  "en": "Dodge",
+  "pt": ""
+ },
+ "D_playerInfo_shiqufanwei": {
+  "ch": "拾取道具范围:",
+  "en": "Item Pick-up Radius:",
+  "pt": ""
+ },
+ "D_playerInfo_shuizizhi": {
+  "ch": "水灵根",
+  "en": "Water Root",
+  "pt": ""
+ },
+ "D_playerInfo_tili": {
+  "ch": "体力",
+  "en": "Vitality",
+  "pt": ""
+ },
+ "D_playerInfo_tilihuifu": {
+  "ch": "体力回复",
+  "en": "Vitality Restoration",
+  "pt": ""
+ },
+ "D_playerInfo_tilishangxian": {
+  "ch": "体力上限",
+  "en": "Max Vitality",
+  "pt": ""
+ },
+ "D_playerInfo_tuzizhi": {
+  "ch": "土灵根",
+  "en": "Earth Root",
+  "pt": ""
+ },
+ "D_playerInfo_weili": {
+  "ch": "伤害加成",
+  "en": "Damage Bonus",
+  "pt": ""
+ },
+ "D_playerInfo_xingyun": {
+  "ch": "幸运",
+  "en": "Luck",
+  "pt": ""
+ },
+ "D_playerInfo_yidongsudu": {
+  "ch": "移动速度",
+  "en": "Agility",
+  "pt": ""
+ },
+ "D_playerInfo_zhangzizhi": {
+  "ch": "掌资质",
+  "en": "Palm",
+  "pt": ""
+ },
+ "D_playerInfo_zhizizhi": {
+  "ch": "指资质",
+  "en": "Finger",
+  "pt": ""
+ },
+ "D_playerInfo_zizhicashu": {
+  "ch": "资质参数",
+  "en": "Stats Modifier",
+  "pt": ""
+ },
+ "D_record_jinengshanghai": {
+  "ch": "总伤害",
+  "en": "Total Damage",
+  "pt": ""
+ },
+ "D_record_zhaohuanwu": {
+  "ch": "召唤物",
+  "en": "Summoned Units",
+  "pt": ""
+ },
+ "D_role_grade_fullName1": {
+  "ch": "炼气前期",
+  "en": "Qi Refining Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName10": {
+  "ch": "金丹前期",
+  "en": "Golden Core Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName11": {
+  "ch": "金丹中期",
+  "en": "Golden Core Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName12": {
+  "ch": "金丹后期",
+  "en": "Golden Core Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName13": {
+  "ch": "具灵前期",
+  "en": "Origin Spirit Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName14": {
+  "ch": "具灵中期",
+  "en": "Origin Spirit Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName15": {
+  "ch": "具灵后期",
+  "en": "Origin Spirit Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName16": {
+  "ch": "元婴前期",
+  "en": "Nascent Soul Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName17": {
+  "ch": "元婴中期",
+  "en": "Nascent Soul Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName18": {
+  "ch": "元婴后期",
+  "en": "Nascent Soul Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName19": {
+  "ch": "化神前期",
+  "en": "Soul Formation Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName2": {
+  "ch": "炼气中期",
+  "en": "Qi Refining Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName20": {
+  "ch": "化神中期",
+  "en": "Soul Formation Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName21": {
+  "ch": "化神后期",
+  "en": "Soul Formation Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName22": {
+  "ch": "悟道前期",
+  "en": "Enlightenment Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName23": {
+  "ch": "悟道中期",
+  "en": "Enlightenment Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName24": {
+  "ch": "悟道后期",
+  "en": "Enlightenment Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName25": {
+  "ch": "羽化前期",
+  "en": "Reborn Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName26": {
+  "ch": "羽化中期",
+  "en": "Reborn Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName27": {
+  "ch": "羽化后期",
+  "en": "Reborn Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName28": {
+  "ch": "登仙前期",
+  "en": "Transcendent Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName29": {
+  "ch": "登仙中期",
+  "en": "Transcendent Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName3": {
+  "ch": "炼气后期",
+  "en": "Qi Refining Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName30": {
+  "ch": "登仙后期",
+  "en": "Transcendent Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName4": {
+  "ch": "筑基前期",
+  "en": "Foundation Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName5": {
+  "ch": "筑基中期",
+  "en": "Foundation Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName6": {
+  "ch": "筑基后期",
+  "en": "Foundation Late",
+  "pt": ""
+ },
+ "D_role_grade_fullName7": {
+  "ch": "结晶前期",
+  "en": "Qi Condensation Early",
+  "pt": ""
+ },
+ "D_role_grade_fullName8": {
+  "ch": "结晶中期",
+  "en": "Qi Condensation Middle",
+  "pt": ""
+ },
+ "D_role_grade_fullName9": {
+  "ch": "结晶后期",
+  "en": "Qi Condensation Late",
+  "pt": ""
+ },
+ "D_role_grade_name1": {
+  "ch": "炼气",
+  "en": "Qi Refining",
+  "pt": ""
+ },
+ "D_role_grade_name10": {
+  "ch": "金丹",
+  "en": "Golden Core",
+  "pt": ""
+ },
+ "D_role_grade_name11": {
+  "ch": "金丹",
+  "en": "Golden Core",
+  "pt": ""
+ },
+ "D_role_grade_name12": {
+  "ch": "金丹",
+  "en": "Golden Core",
+  "pt": ""
+ },
+ "D_role_grade_name13": {
+  "ch": "具灵",
+  "en": "Origin Spirit",
+  "pt": ""
+ },
+ "D_role_grade_name14": {
+  "ch": "具灵",
+  "en": "Origin Spirit",
+  "pt": ""
+ },
+ "D_role_grade_name15": {
+  "ch": "具灵",
+  "en": "Origin Spirit",
+  "pt": ""
+ },
+ "D_role_grade_name16": {
+  "ch": "元婴",
+  "en": "Nascent Soul",
+  "pt": ""
+ },
+ "D_role_grade_name17": {
+  "ch": "元婴",
+  "en": "Nascent Soul",
+  "pt": ""
+ },
+ "D_role_grade_name18": {
+  "ch": "元婴",
+  "en": "Nascent Soul",
+  "pt": ""
+ },
+ "D_role_grade_name19": {
+  "ch": "化神",
+  "en": "Soul Formation",
+  "pt": ""
+ },
+ "D_role_grade_name2": {
+  "ch": "炼气",
+  "en": "Qi Refining",
+  "pt": ""
+ },
+ "D_role_grade_name20": {
+  "ch": "化神",
+  "en": "Soul Formation",
+  "pt": ""
+ },
+ "D_role_grade_name21": {
+  "ch": "化神",
+  "en": "Soul Formation",
+  "pt": ""
+ },
+ "D_role_grade_name22": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "D_role_grade_name23": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "D_role_grade_name24": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "D_role_grade_name25": {
+  "ch": "羽化",
+  "en": "Reborn",
+  "pt": ""
+ },
+ "D_role_grade_name26": {
+  "ch": "羽化",
+  "en": "Reborn",
+  "pt": ""
+ },
+ "D_role_grade_name27": {
+  "ch": "羽化",
+  "en": "Reborn",
+  "pt": ""
+ },
+ "D_role_grade_name28": {
+  "ch": "登仙",
+  "en": "Transcendent",
+  "pt": ""
+ },
+ "D_role_grade_name29": {
+  "ch": "登仙",
+  "en": "Transcendent",
+  "pt": ""
+ },
+ "D_role_grade_name3": {
+  "ch": "炼气",
+  "en": "Qi Refining",
+  "pt": ""
+ },
+ "D_role_grade_name30": {
+  "ch": "登仙",
+  "en": "Transcendent",
+  "pt": ""
+ },
+ "D_role_grade_name4": {
+  "ch": "筑基",
+  "en": "Foundation",
+  "pt": ""
+ },
+ "D_role_grade_name5": {
+  "ch": "筑基",
+  "en": "Foundation",
+  "pt": ""
+ },
+ "D_role_grade_name6": {
+  "ch": "筑基",
+  "en": "Foundation",
+  "pt": ""
+ },
+ "D_role_grade_name7": {
+  "ch": "结晶",
+  "en": "Qi Condensation",
+  "pt": ""
+ },
+ "D_role_grade_name8": {
+  "ch": "结晶",
+  "en": "Qi Condensation",
+  "pt": ""
+ },
+ "D_role_grade_name9": {
+  "ch": "结晶",
+  "en": "Qi Condensation",
+  "pt": ""
+ },
+ "D_selAttr_xuanzeshuxing": {
+  "ch": "选择提升属性",
+  "en": "Attribute to Boost",
+  "pt": ""
+ },
+ "D_selFate_tupojingjie": {
+  "ch": "突破{0}",
+  "en": "{0}",
+  "pt": ""
+ },
+ "D_selFate_xuanzeqiyun": {
+  "ch": "选择逆天改命",
+  "en": "Rewrite Destiny",
+  "pt": ""
+ },
+ "D_selProp_lianhuadaoju": {
+  "ch": "出售",
+  "en": "Sell",
+  "pt": ""
+ },
+ "D_selProp_shouxiadaoju": {
+  "ch": "收下",
+  "en": "Collect",
+  "pt": ""
+ },
+ "D_selRole_jinengtishi": {
+  "ch": "按空格释放",
+  "en": "Press SPACE to cast",
+  "pt": ""
+ },
+ "D_selRole_kaishiyouxi": {
+  "ch": "开始游戏",
+  "en": "Start",
+  "pt": ""
+ },
+ "D_selRole_weijiesuo": {
+  "ch": "角色暂未解锁！",
+  "en": "You need to unlock the character first.",
+  "pt": ""
+ },
+ "D_selRole_wujinmoshi": {
+  "ch": "无尽模式",
+  "en": "Endless Mode",
+  "pt": ""
+ },
+ "D_selRole_xiantianqiyun": {
+  "ch": "先天气运",
+  "en": "Destiny (Nature)",
+  "pt": ""
+ },
+ "D_selRole_xuanzenandu": {
+  "ch": "选择难度",
+  "en": "Select Difficulty",
+  "pt": ""
+ },
+ "D_selRole_xuanzjuese": {
+  "ch": "选择角色",
+  "en": "Select Character",
+  "pt": ""
+ },
+ "D_selRole_zhudongjineng": {
+  "ch": "神通",
+  "en": "Skills",
+  "pt": ""
+ },
+ "D_selSkill_tishi": {
+  "ch": "请选择一个初始技能！",
+  "en": "Please select a skill.",
+  "pt": ""
+ },
+ "D_selSkill_title": {
+  "ch": "初始技能",
+  "en": "Initial Skill",
+  "pt": ""
+ },
+ "D_storePropName_10001": {
+  "ch": "劲",
+  "en": "Move",
+  "pt": ""
+ },
+ "D_storePropName_20001": {
+  "ch": "经",
+  "en": "Sutra",
+  "pt": ""
+ },
+ "D_storePropName_30001": {
+  "ch": "式",
+  "en": "Art",
+  "pt": ""
+ },
+ "D_storePropName_40001": {
+  "ch": "诀",
+  "en": "Guide",
+  "pt": ""
+ },
+ "D_storePropName_50001": {
+  "ch": "录",
+  "en": "Codex",
+  "pt": ""
+ },
+ "D_storePropName_60001": {
+  "ch": "秘卷",
+  "en": "Secret",
+  "pt": ""
+ },
+ "D_storePropName_70001": {
+  "ch": "神功",
+  "en": "Divine",
+  "pt": ""
+ },
+ "D_storePropName_80001": {
+  "ch": "大法",
+  "en": "Domain",
+  "pt": ""
+ },
+ "D_store_bossWarning": {
+  "ch": "大妖兽将于{0}关后来袭",
+  "en": "Mythical Beast Appears After {0} Levels",
+  "pt": ""
+ },
+ "D_store_chiyoulingshi": {
+  "ch": "持有灵石",
+  "en": "Spirit Stones:",
+  "pt": ""
+ },
+ "D_store_huodedaoju": {
+  "ch": "获得道具",
+  "en": "Items",
+  "pt": ""
+ },
+ "D_store_jinengshuliang": {
+  "ch": "技能数量达到上限，遗忘已拥有的技能后，可购买新技能",
+  "en": "You have learned too many skills. Unlearn a skill to purchase a new one.",
+  "pt": ""
+ },
+ "D_store_keyiwangjineng": {
+  "ch": "遗忘技能可返还部分灵石",
+  "en": "Unlearn a Skill may refund you some Spirit Stones",
+  "pt": ""
+ },
+ "D_store_lingshibuzu": {
+  "ch": "灵石不足",
+  "en": "Not enough Spirit Stones",
+  "pt": ""
+ },
+ "D_store_shuaxin": {
+  "ch": "刷新",
+  "en": "Refresh",
+  "pt": ""
+ },
+ "D_store_title": {
+  "ch": "无名界碑",
+  "en": "Cryptic Milestone",
+  "pt": ""
+ },
+ "D_store_wujineng": {
+  "ch": "未获得此技能，无法购买！",
+  "en": "Skill not acquired. Purchase unavailable.",
+  "pt": ""
+ },
+ "D_store_yiwang": {
+  "ch": "遗忘",
+  "en": "Unlearn",
+  "pt": ""
+ },
+ "D_store_yiwangtishi": {
+  "ch": "是否遗忘此技能？",
+  "en": "Unlearn the skill?",
+  "pt": ""
+ },
+ "D_store_zhandou": {
+  "ch": "战斗",
+  "en": "Fight",
+  "pt": ""
+ },
+ "D_tip1": {
+  "ch": "仅发挥{0}效果，现在该属性生效数值为{1}",
+  "en": "The attribute is {0} less effective. Now it will be calculated as {1}",
+  "pt": ""
+ },
+ "D_tip2": {
+  "ch": "可发挥{0}效果，现在该属性生效数值为{1}",
+  "en": "The attribute is {0} more effective. Now it will be calculated as {1}",
+  "pt": ""
+ },
+ "D_tip3": {
+  "ch": "上一轮战斗中未拾取的灵石，下次拾取灵石时，将会被消耗此处累计的灵石并获得双倍灵石。",
+  "en": "This is the amount of the Spirit Stones not picked in the previous battle. They will be consumed when you pick up Spirit Stones the next time and will double your amount of Spirit Stones picked.",
+  "pt": ""
+ },
+ "D_tip4": {
+  "ch": "商店会出售技能词条、心法词条\n角色可装备4个技能（特殊角色除外），每个技能的词条最多5个，已购买的技能可以回收\n角色装备心法数量无上限\n随着关卡的推进，商店出售的物品价格会提高\n消耗灵石刷新商店出售的物品，被锁定的道具不会被刷新\n随着刷新次数的增加，单次刷新的价格也会上涨\n锁定状态会持续存在，不会因为进入下一关而结束，需要手动取消锁定",
+  "en": "You may buy Skill Affixes and Mind Skill Affixes in the store.\nUnless playing with special characters, you may equip 4 Skills at the same time, each with 5 Affixes at most. You may Unlearn acquired skills.\nThere is no limit to the amount of equipped Mind Skills.\nThe price in the store will increase as you press onward.\nYou may pay Spirit Stones to refresh the store's inventory list. Locked items will be retained in every refresh.\nThe price for each refresh will also increase with the amount of refreshes made.\nLocked items need to be Unlocked manually. Clearing a level will not get them unlocked.",
+  "pt": ""
+ }
+}

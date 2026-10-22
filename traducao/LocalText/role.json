@@ -1,0 +1,1132 @@
+{
+ "role_attribute_desc_atk": {
+  "ch": "角色的攻击，影响角色在战斗中造成的伤害。",
+  "en": "Affects how much damage your character deals during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_basBlade": {
+  "ch": "刀法资质，需要达到要求的值才可学习对应的刀法技能，并且可以提升化解敌人刀法技能的概率。\n\n刀法资质可以通过使用刀灵果提升，刀灵果可在刀法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Blade stat to the required value to learn the corresponding Blade skill and increase your chance to neutralize your enemies' Blade skills.\n\nThe Blade stat can be increased by using Blade Fruit, which is redeemed in the Treasure Pavilion of Blade Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basEarth": {
+  "ch": "土灵根，需要达到要求的值才可学习对应的土属性技能，并且可以提升化解敌人土属性技能的概率。\n\n土灵根可以通过使用土灵果提升，土灵果可在土法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Earth Root stat to the required value to learn the corresponding Earth skill and increase your chance to neutralize your enemies' Earth skills.\n\nThe Earth Root stat can be increased by using Earth Fruit, which is redeemed in the Treasure Pavilion of Earth Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basEqp": {
+  "ch": "影响角色的炼器技能，资质越高，炼器的难度越低。",
+  "en": "The higher your Forge stat, the easier it is for you to forge Artifacts.",
+  "pt": ""
+ },
+ "role_attribute_desc_basFinger": {
+  "ch": "指法资质，需要达到要求的值才可学习对应的指法技能，并且可以提升化解敌人指法技能的概率。\n\n指法资质可以通过使用指灵果提升，指灵果可在指法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Finger stat to the required value to learn the corresponding Finger skill and increase your chance to neutralize your enemies' Finger skills.\n\nThe Finger stat can be increased by using Finger Fruit, which is redeemed in the Treasure Pavilion of Finger Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basFire": {
+  "ch": "火灵根，需要达到要求的值才可学习对应的火属性技能，并且可以提升化解敌人火属性技能的概率。\n\n火灵根可以通过使用火灵果提升，火灵果可在火法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Fire Root stat to the required value to learn the corresponding Fire skill and increase your chance to neutralize your enemies' Fire skills.\n\nThe Fire Root stat can be increased by using Fire Fruit, which is redeemed in the Treasure Pavilion of Fire Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basFist": {
+  "ch": "拳法资质，需要达到要求的值才可学习对应的拳法技能，并且可以提升化解敌人拳法技能的概率。\n\n拳法资质可以通过使用拳灵果提升，拳灵果可在拳法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Fist stat to the required value to learn the corresponding Fist skill and increase your chance to neutralize your enemies' Fist skills.\n\nThe Fist stat can be increased by using Fist Fruit, which is redeemed in the Treasure Pavilion of Fist Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basFroze": {
+  "ch": "水灵根，需要达到要求的值才可学习对应的水属性技能，并且可以提升化解敌人水属性技能的概率。\n\n水灵根可以通过使用水灵果提升，水灵果可在水法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Water Root stat to the required value to learn the corresponding Water skill and increase your chance to neutralize your enemies' Water skills.\n\nThe Water Root stat can be increased by using Water Fruit, which is redeemed in the Treasure Pavilion of Water Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basGeo": {
+  "ch": "风水资质，需要达到要求的值才可学习对应的风水技能。\n\n可以通过击败大地图中出现的血傀获得风水通论，使用通论后可提升此资质。",
+  "en": "Increase your Feng Shui stat to the required value to learn the corresponding Feng Shui skill.\n\nDefeat Blood Puppets on the world map to obtain Feng Shui Textbooks, which can be used to increase your Feng Shui stat.",
+  "pt": ""
+ },
+ "role_attribute_desc_basHerb": {
+  "ch": "药材资质，需要达到要求的值才可学习对应的药谱。\n\n可以通过击败大地图中出现的药灵获得药材通论，使用通论后可提升此资质。",
+  "en": "Increase your Herb stat to the required value to learn the corresponding Prescription.\n\nDefeat Mushroom Men on the world map to obtain Herb Textbooks, which can be used to increase your Herb stat.",
+  "pt": ""
+ },
+ "role_attribute_desc_basMine": {
+  "ch": "影响角色在进行挖矿时，发现高品质矿材的概率。",
+  "en": "Affects your character's chance of getting high-rarity Ores when mining.",
+  "pt": ""
+ },
+ "role_attribute_desc_basPalm": {
+  "ch": "掌法资质，需要达到要求的值才可学习对应的掌法技能，并且可以提升化解敌人掌法技能的概率。\n\n掌法资质可以通过使用掌灵果提升，掌灵果可在掌法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Palm stat to the required value to learn the corresponding Palm skill and increase your chance to neutralize your enemies' Palm skills.\n\nThe Palm stat can be increased by using Palm Fruit, which is redeemed in the Treasure Pavilion of Palm Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basPil": {
+  "ch": "炼丹资质，需要达到要求的值才可学习对应的丹方以及使用对应的丹炉，炼丹资质越高，炼丹的难度越低，且丹药的品质越好。\n\n可以通过击败大地图中出现的丹魔获得炼丹通论，使用通论后可提升此资质。",
+  "en": "Increase your Alchemy stat to the required value to learn the corresponding Elixir Recipe and use the corresponding Furnace. The higher your Alchemy stat, the easier it is for you to concoct better Elixirs.\n\nDefeat Alchemists on the world map to obtain Alchemy Textbooks, which can be used to increase your Alchemy stat.",
+  "pt": ""
+ },
+ "role_attribute_desc_basSpear": {
+  "ch": "枪法资质，需要达到要求的值才可学习对应的枪法技能，并且可以提升化解敌人枪法技能的概率。\n\n枪法资质可以通过使用枪灵果提升，枪灵果可在枪法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Spear stat to the required value to learn the corresponding Spear skill and increase your chance to neutralize your enemies' Spear skills.\n\nThe Spear stat can be increased by using Spear Fruit, which is redeemed in the Treasure Pavilion of Spear Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basSword": {
+  "ch": "剑法资质，需要达到要求的值才可学习对应的剑法技能，并且可以提升化解敌人剑法技能的概率。\n\n剑法资质可以通过使用剑灵果提升，剑灵果可在剑法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Sword stat to the required value to learn the corresponding Sword skill and increase your chance to neutralize your enemies' Sword skills.\n\nThe Sword stat can be increased by using Sword Fruit, which is redeemed in the Treasure Pavilion of Sword Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basSym": {
+  "ch": "影响角色在进行画符时，获得高品质符篆的概率。",
+  "en": "Affects your character's chance of getting high-rarity Charms when performing Talismans.",
+  "pt": ""
+ },
+ "role_attribute_desc_basThunder": {
+  "ch": "雷灵根，需要达到要求的值才可学习对应的雷属性技能，并且可以提升化解敌人雷属性技能的概率。\n\n雷灵根可以通过使用雷灵果提升，雷灵果可在雷法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Lightning Root stat to the required value to learn the corresponding Lightning skill and increase your chance to neutralize your enemies' Lightning skills.\n\nThe Lightning Root stat can be increased by using Lightning Fruit, which is redeemed in the Treasure Pavilion of Lightning Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basWind": {
+  "ch": "风灵根，需要达到要求的值才可学习对应的风属性技能，并且可以提升化解敌人风属性技能的概率。\n\n风灵根可以通过使用风灵果提升，风灵果可在风法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Wind Root stat to the required value to learn the corresponding Wind skill and increase your chance to neutralize your enemies' Wind skills.\n\nThe Wind Root stat can be increased by using Wind Fruit, which is redeemed in the Treasure Pavilion of Wind Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_basWood": {
+  "ch": "木灵根，需要达到要求的值才可学习对应的木属性技能，并且可以提升化解敌人木属性技能的概率。\n\n木灵根可以通过使用木灵果提升，木灵果可在木法宗门中的聚宝仙楼中兑换获得。",
+  "en": "Increase your Wood Root stat to the required value to learn the corresponding Wood skill and increase your chance to neutralize your enemies' Wood skills.\n\nThe Wood Root stat can be increased by using Wood Fruit, which is redeemed in the Treasure Pavilion of Wood Sects.",
+  "pt": ""
+ },
+ "role_attribute_desc_beauty": {
+  "ch": "魅力影响NPC对你的态度。",
+  "en": "Charm influences the overall perception NPCs have of you, shaping their attitudes and behaviors towards you",
+  "pt": ""
+ },
+ "role_attribute_desc_crit": {
+  "ch": "影响角色在战斗中造成暴击的概率。",
+  "en": "Affects your character's chance of landing a critical strike during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_critV": {
+  "ch": "影响角色在战斗中造成的暴击伤害倍数。",
+  "en": "Affects how much critical damage your character deals during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_def": {
+  "ch": "角色的防御，降低角色在战斗中受到的伤害。",
+  "en": "Affects how much damage your character takes during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_dp": {
+  "ch": "角色在战斗中释放领域技能时，需要消耗道力值。\n道力值每个月会自动少量恢复。",
+  "en": "Casting Field Skills during combat consumes Tao Power.\nTao Power recovers automatically by a small amount every month.",
+  "pt": ""
+ },
+ "role_attribute_desc_energy": {
+  "ch": "角色在进行一些行为时（如战斗），需要消耗精力，精力不足则无法进行。",
+  "en": "Your character consumes Stamina when taking certain actions (e.g., combat). Without enough Stamina, the actions won't be taken.",
+  "pt": ""
+ },
+ "role_attribute_desc_fsp": {
+  "ch": "影响角色在大地图中移动的效率，脚力越高，移动时所需的时间越少。",
+  "en": "Affects how quickly your character moves on the world map. The higher the Travel Speed, the less time needed to reach the destination.",
+  "pt": ""
+ },
+ "role_attribute_desc_guard": {
+  "ch": "降低角色在战斗中受到暴击的概率。",
+  "en": "Affects your character's chance of receiving a critical strike during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_guardV": {
+  "ch": "降低角色在战斗中受到的暴击伤害倍数。",
+  "en": "Affects how much critical damage your character takes during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_health": {
+  "ch": "健康过低时，会持续减少体力，当健康过低时，会获得负面气运。",
+  "en": "When Health is low, your character will lose Vitality over time and have a chance to receive negative Destinies.",
+  "pt": ""
+ },
+ "role_attribute_desc_hp": {
+  "ch": "体力是角色的生命值，在战斗中体力为0时，则会死亡。",
+  "en": "Vitality is the equivalent of your character's HP. Your character will die during battle if Vitality drops to 0.",
+  "pt": ""
+ },
+ "role_attribute_desc_life": {
+  "ch": "寿命是生存的基础条件，当寿命用尽时，角色死亡且无法复活。",
+  "en": "Lifespan determines how long your character can live. When Lifespan reaches its limit, your character will die and can't revive.",
+  "pt": ""
+ },
+ "role_attribute_desc_luck": {
+  "ch": "幸运影响角色在各种行动中的随机结果。",
+  "en": "Luck affects the results of your character's various actions.",
+  "pt": ""
+ },
+ "role_attribute_desc_mfr": {
+  "ch": "降低角色在战斗中受到的属性伤害。",
+  "en": "Affects how much Spiritual damage your character takes during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_mood": {
+  "ch": "心情影响角色的状态，当心情低落时，会有概率获得负面气运。使用兴趣类道具可以恢复心情。",
+  "en": "Mood affects your character's status. When Mood is low, your character will have a chance to receive negative Destinies. Use <b>Interest items</b> to recover Mood.",
+  "pt": ""
+ },
+ "role_attribute_desc_mp": {
+  "ch": "角色在战斗中施放技能时，需要消耗灵力值。",
+  "en": "Casting skills during combat consumes Energy.",
+  "pt": ""
+ },
+ "role_attribute_desc_msp": {
+  "ch": "角色在战斗中的移动速度。",
+  "en": "Affects your character's movement speed during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_pfr": {
+  "ch": "降低角色在战斗中受到的功法伤害。",
+  "en": "Affects how much Martial damage your character takes during combat.",
+  "pt": ""
+ },
+ "role_attribute_desc_reputation": {
+  "ch": "声望影响NPC对你的态度。",
+  "en": "Reputation influences the overall perception NPCs have of you, shaping their attitudes and behaviors towards you",
+  "pt": ""
+ },
+ "role_attribute_desc_soulPoint": {
+  "ch": "法宝需要足够的魂力，才能注入器灵。",
+  "en": "Artifact needs enough Spirit Power to infuse Artifact Spirit.",
+  "pt": ""
+ },
+ "role_attribute_desc_sp": {
+  "ch": "角色在战斗中使用道具时，需要消耗念力值。",
+  "en": "Using items during combat consumes Focus.",
+  "pt": ""
+ },
+ "role_attribute_desc_standDown": {
+  "ch": "影响魔道势力对角色的态度。",
+  "en": "This influences how the Demonic Path perceives and interacts with you",
+  "pt": ""
+ },
+ "role_attribute_desc_standUp": {
+  "ch": "影响正道势力对角色的态度。",
+  "en": "This influences how the Righteous Path perceives and interacts with you",
+  "pt": ""
+ },
+ "role_attribute_desc_talent": {
+  "ch": "悟性影响角色在修炼技能时的消耗及效率。",
+  "en": "Insight determines the cost and efficiency when your character upgrade skills.",
+  "pt": ""
+ },
+ "role_beauty_name1": {
+  "ch": "憎呕",
+  "en": "Abomination",
+  "pt": ""
+ },
+ "role_beauty_name10": {
+  "ch": "",
+  "en": "<color=#CE0000>Stunning</color>",
+  "pt": ""
+ },
+ "role_beauty_name11": {
+  "ch": "",
+  "en": "<color=#CE0000>Breathtaking</color>",
+  "pt": ""
+ },
+ "role_beauty_name12": {
+  "ch": "",
+  "en": "<color=#FF0000>神明</color>",
+  "pt": ""
+ },
+ "role_beauty_name13": {
+  "ch": "",
+  "en": "0",
+  "pt": ""
+ },
+ "role_beauty_name2": {
+  "ch": "丑陋",
+  "en": "Hideous",
+  "pt": ""
+ },
+ "role_beauty_name3": {
+  "ch": "怪异",
+  "en": "Ugly",
+  "pt": ""
+ },
+ "role_beauty_name4": {
+  "ch": "普通",
+  "en": "Average",
+  "pt": ""
+ },
+ "role_beauty_name5": {
+  "ch": "出众",
+  "en": "Ordinary",
+  "pt": ""
+ },
+ "role_beauty_name6": {
+  "ch": "超凡",
+  "en": "<color=#00BB00>Good-looking</color>",
+  "pt": ""
+ },
+ "role_beauty_name7": {
+  "ch": "仙姿",
+  "en": "<color=#00BB00>Pretty</color>",
+  "pt": ""
+ },
+ "role_beauty_name8": {
+  "ch": "",
+  "en": "<color=#0072E3>Graceful</color>",
+  "pt": ""
+ },
+ "role_beauty_name9": {
+  "ch": "",
+  "en": "<color=#0072E3>Beautiful</color>",
+  "pt": ""
+ },
+ "role_character_desc1": {
+  "ch": "为人大公无私，对朋友与宗门格外关注。",
+  "en": "Selfless and caring, especially towards friends and sect.",
+  "pt": ""
+ },
+ "role_character_desc10": {
+  "ch": "对子女、徒弟比较偏爱。",
+  "en": "Favors children and disciples.",
+  "pt": ""
+ },
+ "role_character_desc11": {
+  "ch": "重视独立，不愿合群，重视自我利益。",
+  "en": "Values independence, unwilling to conform and prioritizes self-interest.",
+  "pt": ""
+ },
+ "role_character_desc12": {
+  "ch": "爱护家庭，对父母子女，兄弟姐妹，配偶特别重视。",
+  "en": "Cares for family, especially parents, children, siblings, and spouse.",
+  "pt": ""
+ },
+ "role_character_desc13": {
+  "ch": "爱好名声，偏向正道。",
+  "en": "Values reputation and leans towards the Righteous Path.",
+  "pt": ""
+ },
+ "role_character_desc14": {
+  "ch": "重视权力，对自我，宗门比较关注，偏向魔道。",
+  "en": "Values power, prioritizes self and sect, leans towards the Demonic Path.",
+  "pt": ""
+ },
+ "role_character_desc15": {
+  "ch": "睚眦必报，重视自已，仇恨敌人。",
+  "en": "Seeks revenge, focuses on self and harbors hatred towards enemies.",
+  "pt": ""
+ },
+ "role_character_desc16": {
+  "ch": "为人任性不羁，在兴趣上会花更多时间。",
+  "en": "Willful and unrestrained, spends more time on personal interests.",
+  "pt": ""
+ },
+ "role_character_desc17": {
+  "ch": "天生情种，永远在追求爱情的路上。",
+  "en": "Naturally inclined towards love and constantly pursues it.",
+  "pt": ""
+ },
+ "role_character_desc18": {
+  "ch": "重视传承，尊师重教。",
+  "en": "Values inheritance and respects teachers and teachings.",
+  "pt": ""
+ },
+ "role_character_desc19": {
+  "ch": "对夫妻之情忠贞不渝。",
+  "en": "Loyal and unwavering in spousal love.",
+  "pt": ""
+ },
+ "role_character_desc2": {
+  "ch": "为人正直，对朋友与宗门比较关注，对仇人分外憎恨。",
+  "en": "Honest and caring towards friends and sects, with a strong hatred towards enemies.",
+  "pt": ""
+ },
+ "role_character_desc3": {
+  "ch": "为人仁善，对其它人都比较友好。",
+  "en": "Kind and benevolent, friendly towards others.",
+  "pt": ""
+ },
+ "role_character_desc4": {
+  "ch": "为人中庸，对所有人都是一样的。",
+  "en": "Moderate and fair, treats everyone the same.",
+  "pt": ""
+ },
+ "role_character_desc5": {
+  "ch": "为人狂妄邪门，行事风格诡异。",
+  "en": "Arrogant and mysterious in behavior.",
+  "pt": ""
+ },
+ "role_character_desc6": {
+  "ch": "以利已为最大出发点，对仇人不愿宽容。",
+  "en": "Self-interest is the top priority, unwilling to forgive enemies.",
+  "pt": ""
+ },
+ "role_character_desc7": {
+  "ch": "邪恶，唯已所欲，从来不管其它人的感受。",
+  "en": "Evil, only pursuing own desires, disregards others' feelings.",
+  "pt": ""
+ },
+ "role_character_desc8": {
+  "ch": "重视天伦之乐，爱父母、子女、师父、徒弟。",
+  "en": "Values family bonds, loves parents, children, master, and disciples.",
+  "pt": ""
+ },
+ "role_character_desc9": {
+  "ch": "重视义气，为朋友两肋插刀，维护宗门。",
+  "en": "Values loyalty and friendship, willing to sacrifice for friends and Defenseend the sect.",
+  "pt": ""
+ },
+ "role_character_name1": {
+  "ch": "无私",
+  "en": "Altruistic",
+  "pt": ""
+ },
+ "role_character_name10": {
+  "ch": "护短",
+  "en": "Protective",
+  "pt": ""
+ },
+ "role_character_name11": {
+  "ch": "孤僻",
+  "en": "Self-centered",
+  "pt": ""
+ },
+ "role_character_name12": {
+  "ch": "爱家",
+  "en": "Family-Oriented",
+  "pt": ""
+ },
+ "role_character_name13": {
+  "ch": "名声",
+  "en": "Glory Hound",
+  "pt": ""
+ },
+ "role_character_name14": {
+  "ch": "权力",
+  "en": "Power-hungry",
+  "pt": ""
+ },
+ "role_character_name15": {
+  "ch": "睚眦",
+  "en": "Vengeful",
+  "pt": ""
+ },
+ "role_character_name16": {
+  "ch": "任我",
+  "en": "Unrestricted",
+  "pt": ""
+ },
+ "role_character_name17": {
+  "ch": "情种",
+  "en": "Romantic",
+  "pt": ""
+ },
+ "role_character_name18": {
+  "ch": "传承",
+  "en": "Traditionalist ",
+  "pt": ""
+ },
+ "role_character_name19": {
+  "ch": "忠贞",
+  "en": "Devoted",
+  "pt": ""
+ },
+ "role_character_name2": {
+  "ch": "正直",
+  "en": "Steadfast",
+  "pt": ""
+ },
+ "role_character_name3": {
+  "ch": "仁善",
+  "en": "Gentle",
+  "pt": ""
+ },
+ "role_character_name4": {
+  "ch": "中庸",
+  "en": "Middle Way",
+  "pt": ""
+ },
+ "role_character_name5": {
+  "ch": "狂邪",
+  "en": "Wicked",
+  "pt": ""
+ },
+ "role_character_name6": {
+  "ch": "利已",
+  "en": "Selfish",
+  "pt": ""
+ },
+ "role_character_name7": {
+  "ch": "邪恶",
+  "en": "Evil",
+  "pt": ""
+ },
+ "role_character_name8": {
+  "ch": "天伦",
+  "en": "Caring",
+  "pt": ""
+ },
+ "role_character_name9": {
+  "ch": "义气",
+  "en": "Loyal",
+  "pt": ""
+ },
+ "role_grade_Desc12": {
+  "ch": "必要材料：三花丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Three Flower Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc13": {
+  "ch": "必要材料：云中丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Cloud Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc14": {
+  "ch": "必要材料：任意六道灵珠之一。灵珠的纯度越高，突破时的成功概率越高。可辅用玄微丹增加成功概率。",
+  "en": "Necessary materials: Any 1 of the 6 Qi Orbs. The higher the Qi Orb's Purity, the higher the success rate of your Breakthrough. You can also use Subtlety Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc15": {
+  "ch": "必要材料：任意六道灵珠之三。灵珠的纯度越高，突破时的成功概率越高。可辅用聚灵丹增加成功概率。",
+  "en": "Necessary materials: Any 3 of the 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Soul Gathering Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc16": {
+  "ch": "必要材料：所有六道灵珠。灵珠的纯度越高，突破时的成功概率越高。可辅用万河丹增加成功概率。",
+  "en": "Necessary materials: All 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Thousand River Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc19": {
+  "ch": "必要材料：化灵丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Spirit Transformation Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc22": {
+  "ch": "必要材料：结婴丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Nascent Soul Elixir (Mortal). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc23": {
+  "ch": "必要材料：地道之气。气息纯度越高，突破时的成功概率越高。可辅用破茧丹增加成功概率。",
+  "en": "Necessary materials: Earth Aura. The higher its Purity, the higher the success rate of your Breakthrough. You can also use Nascent Soul Elixirs (Earth) to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc24": {
+  "ch": "必要材料：天道之气。气息纯度越高，突破时的成功概率越高。可辅用六窍丹增加成功概率。",
+  "en": "Necessary materials: Heaven Aura. The higher its Purity, the higher the success rate of your Breakthrough. You can also use Nascent Soul Elixirs (Heaven) to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc27": {
+  "ch": "必要材料：化神丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Soul Reconstruction Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc30": {
+  "ch": "必要材料：悟道丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Enlightenment Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc31": {
+  "ch": "必要材料：任意六道灵斗气之一。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
+  "en": "Necessary materials: Any 1 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc32": {
+  "ch": "必要材料：任意六道灵斗气之三。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
+  "en": "Necessary materials: Any 3 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc33": {
+  "ch": "必要材料：所有六道灵斗气。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
+  "en": "Necessary materials: All 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc36": {
+  "ch": "必要材料：羽化丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Reborn Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc39": {
+  "ch": "必要材料：登仙丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Transcendent Elixir (Yellow). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc4": {
+  "ch": "必要材料：筑基丹。丹药品质越高，突破时的成功率越高。",
+  "en": "Necessary materials: Foundation Elixir (Mortal). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_Desc40": {
+  "ch": "必要材料：任意六道灵斗珠之一。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。",
+  "en": "Necessary materials: Any 1 of the 6 Condensed Qi Orbs. The higher the Condensed Qi Orb's Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc41": {
+  "ch": "必要材料：任意六道灵斗珠之三。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。",
+  "en": "Necessary materials: Any 3 of the 6 Condensed Qi Orbs. The higher the Condensed Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc42": {
+  "ch": "必要材料：所有六道灵斗珠。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。",
+  "en": "Necessary materials: All 6 Condensed Qi Orbs. The higher the Condensed Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc5": {
+  "ch": "必要材料：任意六道灵气之三。灵气的纯度越高，突破时的成功率越高。可辅用地坤丹增加成功概率。",
+  "en": "Necessary materials: Any 3 of the 6 Qi. The higher the Qi's Purity, the higher the success rate of your Breakthrough. You can also use Foundation Elixirs (Earth) to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc6": {
+  "ch": "必要材料：所有六道灵气。灵气的纯度越高，突破时的成功率越高。可辅用天乾丹增加成功概率。",
+  "en": "Necessary materials: All 6 Qi. The higher the Qi's Purity, the higher the success rate of your Breakthrough. You can also use Foundation Elixirs (Heaven) to increase your success rate.",
+  "pt": ""
+ },
+ "role_grade_Desc9": {
+  "ch": "必要材料：化晶丹。丹药品质越高，突破时的成功概率越高。",
+  "en": "Necessary materials: Qi Condensation Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": ""
+ },
+ "role_grade_grow_phase102": {
+  "ch": "登仙中期",
+  "en": "Transcendent Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase103": {
+  "ch": "登仙后期",
+  "en": "Transcendent Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase12": {
+  "ch": "炼气中期",
+  "en": "Qi Refining Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase13": {
+  "ch": "炼气后期",
+  "en": "Qi Refining Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase22": {
+  "ch": "筑基中期",
+  "en": "Foundation Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase23": {
+  "ch": "筑基后期",
+  "en": "Foundation Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase32": {
+  "ch": "结晶中期",
+  "en": "Qi Condensation Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase33": {
+  "ch": "结晶后期",
+  "en": "Qi Condensation Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase42": {
+  "ch": "金丹中期",
+  "en": "Golden Core Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase43": {
+  "ch": "金丹后期",
+  "en": "Golden Core Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase52": {
+  "ch": "具灵中期",
+  "en": "Origin Spirit Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase53": {
+  "ch": "具灵后期",
+  "en": "Origin Spirit Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase62": {
+  "ch": "元婴中期",
+  "en": "Nascent Soul Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase63": {
+  "ch": "元婴后期",
+  "en": "Nascent Soul Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase72": {
+  "ch": "化神中期",
+  "en": "Soul Formation Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase73": {
+  "ch": "化神后期",
+  "en": "Soul Formation Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase82": {
+  "ch": "悟道中期",
+  "en": "Enlightenment Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase83": {
+  "ch": "悟道后期",
+  "en": "Enlightenment Late",
+  "pt": ""
+ },
+ "role_grade_grow_phase92": {
+  "ch": "羽化中期",
+  "en": "Reborn Middle",
+  "pt": ""
+ },
+ "role_grade_grow_phase93": {
+  "ch": "羽化后期",
+  "en": "Reborn Late",
+  "pt": ""
+ },
+ "role_grade_grow_quality102": {
+  "ch": "黄道登仙",
+  "en": "Transcendent - Yellow",
+  "pt": ""
+ },
+ "role_grade_grow_quality103": {
+  "ch": "玄道登仙",
+  "en": "Transcendent - Dark",
+  "pt": ""
+ },
+ "role_grade_grow_quality104": {
+  "ch": "地道登仙",
+  "en": "Transcendent - Earth",
+  "pt": ""
+ },
+ "role_grade_grow_quality105": {
+  "ch": "登仙",
+  "en": "Transcendent",
+  "pt": ""
+ },
+ "role_grade_grow_quality21": {
+  "ch": "人道筑基",
+  "en": "Foundation - Mortal",
+  "pt": ""
+ },
+ "role_grade_grow_quality23": {
+  "ch": "地道筑基",
+  "en": "Foundation - Earth",
+  "pt": ""
+ },
+ "role_grade_grow_quality25": {
+  "ch": "天道筑基",
+  "en": "Foundation - Heaven",
+  "pt": ""
+ },
+ "role_grade_grow_quality30": {
+  "ch": "结晶",
+  "en": "Condensation",
+  "pt": ""
+ },
+ "role_grade_grow_quality41": {
+  "ch": "五品金丹",
+  "en": "G5 Golden Core",
+  "pt": ""
+ },
+ "role_grade_grow_quality42": {
+  "ch": "四品金丹",
+  "en": "G4 Golden Core",
+  "pt": ""
+ },
+ "role_grade_grow_quality43": {
+  "ch": "三品金丹",
+  "en": "G3 Golden Core",
+  "pt": ""
+ },
+ "role_grade_grow_quality44": {
+  "ch": "二品金丹",
+  "en": "G2 Golden Core",
+  "pt": ""
+ },
+ "role_grade_grow_quality45": {
+  "ch": "一品金丹",
+  "en": "G1 Golden Core",
+  "pt": ""
+ },
+ "role_grade_grow_quality50": {
+  "ch": "具灵",
+  "en": "Origin Spirit",
+  "pt": ""
+ },
+ "role_grade_grow_quality61": {
+  "ch": "人道元婴",
+  "en": "Nascent Soul - Mortal",
+  "pt": ""
+ },
+ "role_grade_grow_quality63": {
+  "ch": "地道元婴",
+  "en": "Nascent Soul - Earth",
+  "pt": ""
+ },
+ "role_grade_grow_quality65": {
+  "ch": "天道元婴",
+  "en": "Nascent Soul - Heaven",
+  "pt": ""
+ },
+ "role_grade_grow_quality70": {
+  "ch": "化神",
+  "en": "Soul Formation",
+  "pt": ""
+ },
+ "role_grade_grow_quality82": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "role_grade_grow_quality83": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "role_grade_grow_quality84": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "role_grade_grow_quality85": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "role_grade_grow_quality90": {
+  "ch": "羽化",
+  "en": "Reborn",
+  "pt": ""
+ },
+ "role_grade_name1": {
+  "ch": "炼气",
+  "en": "Qi Refining",
+  "pt": ""
+ },
+ "role_grade_name10": {
+  "ch": "登仙",
+  "en": "Transcendent",
+  "pt": ""
+ },
+ "role_grade_name2": {
+  "ch": "筑基",
+  "en": "Foundation",
+  "pt": ""
+ },
+ "role_grade_name3": {
+  "ch": "结晶",
+  "en": "Condensation",
+  "pt": ""
+ },
+ "role_grade_name4": {
+  "ch": "金丹",
+  "en": "Golden Core",
+  "pt": ""
+ },
+ "role_grade_name5": {
+  "ch": "具灵",
+  "en": "Origin Spirit",
+  "pt": ""
+ },
+ "role_grade_name6": {
+  "ch": "元婴",
+  "en": "Nascent Soul",
+  "pt": ""
+ },
+ "role_grade_name7": {
+  "ch": "化神",
+  "en": "Soul Formation",
+  "pt": ""
+ },
+ "role_grade_name8": {
+  "ch": "悟道",
+  "en": "Enlightenment",
+  "pt": ""
+ },
+ "role_grade_name9": {
+  "ch": "羽化",
+  "en": "Reborn",
+  "pt": ""
+ },
+ "role_grade_phase1": {
+  "ch": "初期",
+  "en": " Early",
+  "pt": ""
+ },
+ "role_grade_phase2": {
+  "ch": "中期",
+  "en": " Middle",
+  "pt": ""
+ },
+ "role_grade_phase3": {
+  "ch": "后期",
+  "en": " Late",
+  "pt": ""
+ },
+ "role_hobby_desc1101": {
+  "ch": "下雨时，心情会有所提升。",
+  "en": "Better Mood when it's rainy.",
+  "pt": ""
+ },
+ "role_hobby_desc1102": {
+  "ch": "天晴时，心情会有所提升。",
+  "en": "Better Mood when it's sunny.",
+  "pt": ""
+ },
+ "role_hobby_desc1103": {
+  "ch": "下雪时，心情会有所提升。",
+  "en": "Better Mood when it's snowy.",
+  "pt": ""
+ },
+ "role_hobby_desc1104": {
+  "ch": "打雷时，心情会有所提升。",
+  "en": "Better Mood when there's a thunderstorm.",
+  "pt": ""
+ },
+ "role_hobby_desc1105": {
+  "ch": "阴天时，心情会有所提升。",
+  "en": "Better Mood when it's cloudy.",
+  "pt": ""
+ },
+ "role_hobby_desc1201": {
+  "ch": "使用琴时，心情会有所提升。可以在个别城镇的坊市中购买到琴。",
+  "en": "Using the Qin can uplift your mood. You can purchase the Qin in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1202": {
+  "ch": "使用笛时，心情会有所提升。可以在个别城镇的坊市中购买到笛。",
+  "en": "Using the flute can uplift your mood. You can purchase the flute in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1203": {
+  "ch": "使用箫时，心情会有所提升。可以在个别城镇的坊市中购买到箫。",
+  "en": "Using the Xiao can uplift your mood. You can purchase the Xiao in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1204": {
+  "ch": "使用钟时，心情会有所提升。可以在个别城镇的坊市中购买到钟。",
+  "en": "Using the bell can uplift your mood. You can purchase the bell in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1205": {
+  "ch": "使用图册时，心情会有所提升。可以在个别城镇的坊市中购买到图册。",
+  "en": "Using the album can uplift your mood. You can purchase the album in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1206": {
+  "ch": "使用花草时，心情会有所提升。可以在个别城镇的坊市中购买到花草。",
+  "en": "Using flowers and plants can uplift your mood. You can purchase flowers and plants in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1207": {
+  "ch": "使用竹器时，心情会有所提升。可以在个别城镇的坊市中购买到竹器。",
+  "en": "Using bamboo crafts can uplift your mood. You can purchase bamboo crafts in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1208": {
+  "ch": "使用书籍时，心情会有所提升。可以在个别城镇的坊市中购买到书籍。",
+  "en": "Using books can uplift your mood. You can purchase books in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1209": {
+  "ch": "使用骨器时，心情会有所提升。可以在个别城镇的坊市中购买到骨器。",
+  "en": "Using bone crafts can uplift your mood. You can purchase bone crafts in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1210": {
+  "ch": "使用玉器时，心情会有所提升。可以在个别城镇的坊市中购买到玉器。",
+  "en": "Using jade crafts can uplift your mood. You can purchase jade crafts in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1211": {
+  "ch": "使用石器时，心情会有所提升。可以在个别城镇的坊市中购买到石器。",
+  "en": "Using stone crafts can uplift your mood. You can purchase stone crafts in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1212": {
+  "ch": "使用陶器时，心情会有所提升。可以在个别城镇的坊市中购买到陶器。",
+  "en": "Using ceramic crafts can uplift your mood. You can purchase ceramic crafts in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_desc1213": {
+  "ch": "使用饰品时，心情会有所提升。可以在个别城镇的坊市中购买到饰品。",
+  "en": "Using decorations can uplift your mood. You can purchase decorations in the marketplaces of different towns.",
+  "pt": ""
+ },
+ "role_hobby_name101": {
+  "ch": "雨天",
+  "en": "Rainy Day",
+  "pt": ""
+ },
+ "role_hobby_name102": {
+  "ch": "晴天",
+  "en": "Sunny Day",
+  "pt": ""
+ },
+ "role_hobby_name103": {
+  "ch": "雪天",
+  "en": "Snowy Day",
+  "pt": ""
+ },
+ "role_hobby_name104": {
+  "ch": "打雷",
+  "en": "Thunder",
+  "pt": ""
+ },
+ "role_hobby_name105": {
+  "ch": "阴天",
+  "en": "Cloudy Day",
+  "pt": ""
+ },
+ "role_hobby_name201": {
+  "ch": "琴",
+  "en": "Qin",
+  "pt": ""
+ },
+ "role_hobby_name202": {
+  "ch": "笛",
+  "en": "Flute",
+  "pt": ""
+ },
+ "role_hobby_name203": {
+  "ch": "箫",
+  "en": "Xiao",
+  "pt": ""
+ },
+ "role_hobby_name204": {
+  "ch": "钟",
+  "en": "Bell",
+  "pt": ""
+ },
+ "role_hobby_name205": {
+  "ch": "图册",
+  "en": "Album",
+  "pt": ""
+ },
+ "role_hobby_name206": {
+  "ch": "花草",
+  "en": "Flowers and Plants",
+  "pt": ""
+ },
+ "role_hobby_name207": {
+  "ch": "竹器",
+  "en": "Bamboo Crafts",
+  "pt": ""
+ },
+ "role_hobby_name208": {
+  "ch": "书籍",
+  "en": "Books",
+  "pt": ""
+ },
+ "role_hobby_name209": {
+  "ch": "骨器",
+  "en": "Bone Crafts",
+  "pt": ""
+ },
+ "role_hobby_name210": {
+  "ch": "玉器",
+  "en": "Jade Crafts",
+  "pt": ""
+ },
+ "role_hobby_name211": {
+  "ch": "石器",
+  "en": "Stone Crafts",
+  "pt": ""
+ },
+ "role_hobby_name212": {
+  "ch": "陶器",
+  "en": "Ceramic Crafts",
+  "pt": ""
+ },
+ "role_hobby_name213": {
+  "ch": "饰品",
+  "en": "Decorations",
+  "pt": ""
+ },
+ "role_jinglibuzu": {
+  "ch": "对方精力不足",
+  "en": "Target's Stamina is too low",
+  "pt": ""
+ },
+ "role_race_demon": {
+  "ch": "妖族",
+  "en": "Untamed",
+  "pt": ""
+ },
+ "role_race_herd": {
+  "ch": "冥妖",
+  "en": "Nether Demon",
+  "pt": ""
+ },
+ "role_race_human": {
+  "ch": "人族",
+  "en": "Human",
+  "pt": ""
+ },
+ "role_reputation_name1": {
+  "ch": "默默无闻",
+  "en": "Unknown Novice",
+  "pt": ""
+ },
+ "role_reputation_name10": {
+  "ch": "举世闻名",
+  "en": "Divine Paragon",
+  "pt": ""
+ },
+ "role_reputation_name11": {
+  "ch": "名垂青史",
+  "en": "Heavenly Sovereign",
+  "pt": ""
+ },
+ "role_reputation_name2": {
+  "ch": "初出茅庐",
+  "en": "Fledgling Amateur",
+  "pt": ""
+ },
+ "role_reputation_name3": {
+  "ch": "崭露头角",
+  "en": "Recognized Practitioner",
+  "pt": ""
+ },
+ "role_reputation_name4": {
+  "ch": "石破天惊",
+  "en": "Rising Star",
+  "pt": ""
+ },
+ "role_reputation_name5": {
+  "ch": "名震一时",
+  "en": "Prominent Cultivator",
+  "pt": ""
+ },
+ "role_reputation_name6": {
+  "ch": "闻名遐迩",
+  "en": "Famed Expert",
+  "pt": ""
+ },
+ "role_reputation_name7": {
+  "ch": "大名鼎鼎",
+  "en": "Renowned Master",
+  "pt": ""
+ },
+ "role_reputation_name8": {
+  "ch": "声名远扬",
+  "en": "Illustrious Authority",
+  "pt": ""
+ },
+ "role_reputation_name9": {
+  "ch": "名满天下",
+  "en": "Revered Sage",
+  "pt": ""
+ },
+ "role_sex_female": {
+  "ch": "女",
+  "en": "Female",
+  "pt": ""
+ },
+ "role_sex_male": {
+  "ch": "男",
+  "en": "Male",
+  "pt": ""
+ }
+}

@@ -1,0 +1,1717 @@
+{
+ "modEffectType1Desc_lockInitScore": {
+  "ch": "查看NPC背包使用的评分参数，评分越低，能查看的道具越多。",
+  "en": "View the bag use scoring parameters for NPC. The lower the score, the more items that can be viewed.",
+  "pt": ""
+ },
+ "modEffectType1Name_abilityExp": {
+  "ch": "心得",
+  "en": "Knowledge",
+  "pt": ""
+ },
+ "modEffectType1Name_abilityPoint": {
+  "ch": "道点",
+  "en": "Skill Point",
+  "pt": ""
+ },
+ "modEffectType1Name_atk": {
+  "ch": "攻击力",
+  "en": "ATK",
+  "pt": ""
+ },
+ "modEffectType1Name_basAllMax": {
+  "ch": "最高的一条战斗资质",
+  "en": "Highest Battle Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basAllMin": {
+  "ch": "最低的一条战斗资质",
+  "en": "Lowest Battle Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basArtAll": {
+  "ch": "所有技艺资质（炼器、炼丹、画符等）",
+  "en": "All Artisanship stats (Forge, Alchemy, Talismans, etc.)",
+  "pt": ""
+ },
+ "modEffectType1Name_basArtMax": {
+  "ch": "最高的一条技艺资质",
+  "en": "Highest Artisanship Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basArtMin": {
+  "ch": "最低的一条技艺资质",
+  "en": "Lowest Artisanship Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basBlade": {
+  "ch": "刀法资质",
+  "en": "Blade",
+  "pt": ""
+ },
+ "modEffectType1Name_basEarth": {
+  "ch": "土灵根",
+  "en": "Earth Root",
+  "pt": ""
+ },
+ "modEffectType1Name_basEqp": {
+  "ch": "炼器资质",
+  "en": "Forge Stat",
+  "pt": ""
+ },
+ "modEffectType1Name_basFinger": {
+  "ch": "指法资质",
+  "en": "Finger",
+  "pt": ""
+ },
+ "modEffectType1Name_basFire": {
+  "ch": "火灵根",
+  "en": "Fire Root",
+  "pt": ""
+ },
+ "modEffectType1Name_basFist": {
+  "ch": "拳法资质",
+  "en": "Fist",
+  "pt": ""
+ },
+ "modEffectType1Name_basFroze": {
+  "ch": "水灵根",
+  "en": "Water Root",
+  "pt": ""
+ },
+ "modEffectType1Name_basGeo": {
+  "ch": "风水资质",
+  "en": "Feng Shui Stat",
+  "pt": ""
+ },
+ "modEffectType1Name_basHerb": {
+  "ch": "药材资质",
+  "en": "Herb",
+  "pt": ""
+ },
+ "modEffectType1Name_basMgAll": {
+  "ch": "所有灵根",
+  "en": "All Spiritual Roots",
+  "pt": ""
+ },
+ "modEffectType1Name_basMgMax": {
+  "ch": "最高的一条灵根资质",
+  "en": "Highest Spiritual Root Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basMgMin": {
+  "ch": "最低的一条灵根资质",
+  "en": "Lowest Spiritual Root Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basMine": {
+  "ch": "矿材资质",
+  "en": "Ore",
+  "pt": ""
+ },
+ "modEffectType1Name_basPalm": {
+  "ch": "掌法资质",
+  "en": "Palm",
+  "pt": ""
+ },
+ "modEffectType1Name_basPil": {
+  "ch": "炼丹资质",
+  "en": "Alchemy Stat",
+  "pt": ""
+ },
+ "modEffectType1Name_basSpear": {
+  "ch": "枪法资质",
+  "en": "Spear",
+  "pt": ""
+ },
+ "modEffectType1Name_basSword": {
+  "ch": "剑法资质",
+  "en": "Sword",
+  "pt": ""
+ },
+ "modEffectType1Name_basSym": {
+  "ch": "画符资质",
+  "en": "Talismans",
+  "pt": ""
+ },
+ "modEffectType1Name_basThunder": {
+  "ch": "雷灵根",
+  "en": "Lightning Root",
+  "pt": ""
+ },
+ "modEffectType1Name_basWind": {
+  "ch": "风灵根",
+  "en": "Wind Root",
+  "pt": ""
+ },
+ "modEffectType1Name_basWood": {
+  "ch": "木灵根",
+  "en": "Wood Root",
+  "pt": ""
+ },
+ "modEffectType1Name_basWpAll": {
+  "ch": "所有武器资质",
+  "en": "All Weapon Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basWpMax": {
+  "ch": "最高的一条功法资质",
+  "en": "Highest Martial Arts Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_basWpMin": {
+  "ch": "最低的一条功法资质",
+  "en": "Lowest Martial Arts Stats",
+  "pt": ""
+ },
+ "modEffectType1Name_beauty": {
+  "ch": "魅力",
+  "en": "Charisma",
+  "pt": ""
+ },
+ "modEffectType1Name_bladeGrow": {
+  "ch": "刀法技能（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Blade Skill (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_closeStable": {
+  "ch": "亲密度变化速度",
+  "en": "Affinity Change Speed",
+  "pt": ""
+ },
+ "modEffectType1Name_crit": {
+  "ch": "会心",
+  "en": "Crit",
+  "pt": ""
+ },
+ "modEffectType1Name_critV": {
+  "ch": "会心倍率",
+  "en": "Crit Rate",
+  "pt": ""
+ },
+ "modEffectType1Name_def": {
+  "ch": "防御力",
+  "en": "DEF",
+  "pt": ""
+ },
+ "modEffectType1Name_dp": {
+  "ch": "道力",
+  "en": "Tao Power",
+  "pt": ""
+ },
+ "modEffectType1Name_dpMax": {
+  "ch": "最大道力",
+  "en": "Max Tao Power",
+  "pt": ""
+ },
+ "modEffectType1Name_earthGrow": {
+  "ch": "土属性功法（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Earth Martial Arts (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_energy": {
+  "ch": "精力",
+  "en": "Stamina",
+  "pt": ""
+ },
+ "modEffectType1Name_energyDownStable": {
+  "ch": "精力消耗提升倍率（百分比）",
+  "en": "Stamina cost increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_energyMax": {
+  "ch": "精力上限",
+  "en": "Max Stamina",
+  "pt": ""
+ },
+ "modEffectType1Name_energyUpStable": {
+  "ch": "精力增加提升倍率（百分比）",
+  "en": "Stamina addition increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_exp": {
+  "ch": "经验",
+  "en": "EXP",
+  "pt": ""
+ },
+ "modEffectType1Name_expGrow": {
+  "ch": "人物经验提升倍率（百分比）",
+  "en": "Character EXP increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_fingerGrow": {
+  "ch": "指法技能（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Finger Skill (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_fireGrow": {
+  "ch": "火属性功法（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Fire Martial Arts (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_fistGrow": {
+  "ch": "拳法技能（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Fist Skill (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_frozeGrow": {
+  "ch": "水属性功法（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Water Martial Arts (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_fsp": {
+  "ch": "脚力",
+  "en": "Travel Speed",
+  "pt": ""
+ },
+ "modEffectType1Name_guard": {
+  "ch": "护心",
+  "en": "Crit RES",
+  "pt": ""
+ },
+ "modEffectType1Name_guardV": {
+  "ch": "护心倍率",
+  "en": "Crit RES Rate",
+  "pt": ""
+ },
+ "modEffectType1Name_hateStable": {
+  "ch": "仇恨度变化速度",
+  "en": "Hatred Change Speed",
+  "pt": ""
+ },
+ "modEffectType1Name_health": {
+  "ch": "健康",
+  "en": "Health",
+  "pt": ""
+ },
+ "modEffectType1Name_healthDownStable": {
+  "ch": "健康降低速度倍率（百分比）",
+  "en": "Health decrease speed rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_healthMax": {
+  "ch": "健康上限",
+  "en": "Max Health",
+  "pt": ""
+ },
+ "modEffectType1Name_hp": {
+  "ch": "体力",
+  "en": "Vitality",
+  "pt": ""
+ },
+ "modEffectType1Name_hpMax": {
+  "ch": "最大体力",
+  "en": "Max Vitality",
+  "pt": ""
+ },
+ "modEffectType1Name_hpRes": {
+  "ch": "体力回复",
+  "en": "Vitality Recovery",
+  "pt": ""
+ },
+ "modEffectType1Name_life": {
+  "ch": "寿命（月）",
+  "en": "Lifespan (Months)",
+  "pt": ""
+ },
+ "modEffectType1Name_lockInitScore": {
+  "ch": "道具原始封印评分",
+  "en": "Item original seal score",
+  "pt": ""
+ },
+ "modEffectType1Name_luck": {
+  "ch": "幸运",
+  "en": "Luck",
+  "pt": ""
+ },
+ "modEffectType1Name_mfr": {
+  "ch": "魔法免伤",
+  "en": "Deviation RES",
+  "pt": ""
+ },
+ "modEffectType1Name_mood": {
+  "ch": "心情",
+  "en": "Mood",
+  "pt": ""
+ },
+ "modEffectType1Name_moodDownStable": {
+  "ch": "心情下降变化速度",
+  "en": "Mood Decrease Change Rate",
+  "pt": ""
+ },
+ "modEffectType1Name_moodMax": {
+  "ch": "心情上限",
+  "en": "Max Mood",
+  "pt": ""
+ },
+ "modEffectType1Name_moodUpStable": {
+  "ch": "心情上升变化速度",
+  "en": "Mood Increase Change Rate",
+  "pt": ""
+ },
+ "modEffectType1Name_mp": {
+  "ch": "灵力",
+  "en": "Energy",
+  "pt": ""
+ },
+ "modEffectType1Name_mpMax": {
+  "ch": "最大灵力",
+  "en": "Max Energy",
+  "pt": ""
+ },
+ "modEffectType1Name_msp": {
+  "ch": "移动速度",
+  "en": "Agility",
+  "pt": ""
+ },
+ "modEffectType1Name_palmGrow": {
+  "ch": "掌法技能（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Palm Skill (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_pfr": {
+  "ch": "物理免伤",
+  "en": "Physical RES",
+  "pt": ""
+ },
+ "modEffectType1Name_pillLayer": {
+  "ch": "装备丹药的最大叠加数量",
+  "en": "Max equipped Elixir stacks",
+  "pt": ""
+ },
+ "modEffectType1Name_propGridNum": {
+  "ch": "背包格子数量",
+  "en": "Bag slot quantity",
+  "pt": ""
+ },
+ "modEffectType1Name_reputation": {
+  "ch": "声望",
+  "en": "Reputation",
+  "pt": ""
+ },
+ "modEffectType1Name_sp": {
+  "ch": "念力",
+  "en": "Focus",
+  "pt": ""
+ },
+ "modEffectType1Name_spMax": {
+  "ch": "最大念力",
+  "en": "Max Focus",
+  "pt": ""
+ },
+ "modEffectType1Name_spRes": {
+  "ch": "念力回复",
+  "en": "Focus Recovery",
+  "pt": ""
+ },
+ "modEffectType1Name_spearGrow": {
+  "ch": "枪法技能（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Spear Skill (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_standDown": {
+  "ch": "魔道值",
+  "en": "Demonic Points",
+  "pt": ""
+ },
+ "modEffectType1Name_standUp": {
+  "ch": "正道值",
+  "en": "Righteous Points",
+  "pt": ""
+ },
+ "modEffectType1Name_stepGrow": {
+  "ch": "身法熟练提升倍率（百分比）",
+  "en": "Motion Skill familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_swordGrow": {
+  "ch": "剑法技能（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Sword Skill (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_talent": {
+  "ch": "悟性",
+  "en": "Insight",
+  "pt": ""
+ },
+ "modEffectType1Name_thunderGrow": {
+  "ch": "雷属性功法（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Lightning Martial Arts (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_townBuyDecline": {
+  "ch": "在城镇坊市中购买道具消耗的灵石倍率（百分比）",
+  "en": "Spirit Stone cost multiplier rate when buying items at markets (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_windGrow": {
+  "ch": "风属性功法（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Wind Martial Arts (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType1Name_woodGrow": {
+  "ch": "木属性功法（武技、绝技）的熟练提升倍率（百分比）",
+  "en": "Wood Martial Arts (Martial Skill, Special Skill) familiarity increase rate (Percentage)",
+  "pt": ""
+ },
+ "modEffectType2Name_beautyLock": {
+  "ch": "魅力",
+  "en": "Charisma",
+  "pt": ""
+ },
+ "modEffectType2Name_earthLock": {
+  "ch": "土灵根",
+  "en": "Earth Root",
+  "pt": ""
+ },
+ "modEffectType2Name_fingerLock": {
+  "ch": "指法资质",
+  "en": "Finger",
+  "pt": ""
+ },
+ "modEffectType2Name_fireLock": {
+  "ch": "火灵根",
+  "en": "Fire Root",
+  "pt": ""
+ },
+ "modEffectType2Name_fistLock": {
+  "ch": "拳法资质",
+  "en": "Fist",
+  "pt": ""
+ },
+ "modEffectType2Name_frozeLock": {
+  "ch": "水灵根",
+  "en": "Water Root",
+  "pt": ""
+ },
+ "modEffectType2Name_fspLock": {
+  "ch": "脚力",
+  "en": "Travel Speed",
+  "pt": ""
+ },
+ "modEffectType2Name_moodLock": {
+  "ch": "心情",
+  "en": "Mood",
+  "pt": ""
+ },
+ "modEffectType2Name_palmLock": {
+  "ch": "掌法资质",
+  "en": "Palm",
+  "pt": ""
+ },
+ "modEffectType2Name_sladeLock": {
+  "ch": "刀法资质",
+  "en": "Blade",
+  "pt": ""
+ },
+ "modEffectType2Name_spearLock": {
+  "ch": "枪法资质",
+  "en": "Spear",
+  "pt": ""
+ },
+ "modEffectType2Name_swordLock": {
+  "ch": "剑法资质",
+  "en": "Sword",
+  "pt": ""
+ },
+ "modEffectType2Name_talentLock": {
+  "ch": "悟性",
+  "en": "Insight",
+  "pt": ""
+ },
+ "modEffectType2Name_thunderLock": {
+  "ch": "雷灵根",
+  "en": "Lightning Root",
+  "pt": ""
+ },
+ "modEffectType2Name_windLock": {
+  "ch": "风灵根",
+  "en": "Wind Root",
+  "pt": ""
+ },
+ "modEffectType2Name_woodLock": {
+  "ch": "木灵根",
+  "en": "Wood Root",
+  "pt": ""
+ },
+ "modEffectType3Title_addFeature": {
+  "ch": "有概率获得指定的气运",
+  "en": "Probability of obtaining specified Destiny",
+  "pt": ""
+ },
+ "modEffectType3Title_attachAttrByArtifact": {
+  "ch": "每装备一个法宝，提升指定属性",
+  "en": "Every time an Artifact is equipped, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_attrEffect": {
+  "ch": "当指定属性达到指定的值时，提升指定的属性",
+  "en": "When specific Stats reach specific values, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_avertEncounterBattle": {
+  "ch": "使角色不会通过踩雷遇怪",
+  "en": "Enables the character to not encounter monsters when stepping on lightning",
+  "pt": ""
+ },
+ "modEffectType3Title_bannedFunc": {
+  "ch": "禁止进行指定的行为",
+  "en": "Forbids specified behavior",
+  "pt": ""
+ },
+ "modEffectType3Title_bannedItem": {
+  "ch": "禁止使用丹药（无论是战斗内还是战斗外）",
+  "en": "Forbids the use of Elixirs (Whether in or outside of battle)",
+  "pt": ""
+ },
+ "modEffectType3Title_battleLearnSkill": {
+  "ch": "与NPC进行切磋或战斗时，有概率习得对方的随机一个技能（包括身法、心法等，技能的境界不高于自身）",
+  "en": "When sparring or battling with NPCs, there is a chance of randomly obtaining a skill from the opponent. (Including Motion Skill, Mind Skill, and so on. The Skill Realm cannot be higher than your own.)",
+  "pt": ""
+ },
+ "modEffectType3Title_boutExhausted": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modEffectType3Title_breakActionGridGetExp": {
+  "ch": "在大地图格子修炼时，有概率打断，并触发一个剧情",
+  "en": "When cultivating on a world map tile, chance to be interrupted and trigger a plot.",
+  "pt": ""
+ },
+ "modEffectType3Title_breakActionGridMine": {
+  "ch": "在大地图格子采矿时，有概率打断，并触发一个剧情",
+  "en": "When mining on a world map tile, chance to be interrupted and trigger a plot.",
+  "pt": ""
+ },
+ "modEffectType3Title_captivity": {
+  "ch": "禁足，任何情况下都无法移动",
+  "en": "Restricted. Cannot move under any circumstances",
+  "pt": ""
+ },
+ "modEffectType3Title_changeAbility": {
+  "ch": "每间隔1个月，改变指定的属性",
+  "en": "Changes specified Stats at every 1 month interval",
+  "pt": ""
+ },
+ "modEffectType3Title_changeAttrCost": {
+  "ch": "在消耗体力、灵力、念力时，消耗的属性增加",
+  "en": "When using up Vitality. Energy, and Focus, the Stats Cost is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_clearFeature": {
+  "ch": "有概率移除指定的气运",
+  "en": "Probability of removing specified Destiny",
+  "pt": ""
+ },
+ "modEffectType3Title_createDungeon": {
+  "ch": "创建一个副本，创建的位置为离角色最近的一格位置",
+  "en": "Creates a dungeon. The location of the creation is the closest location grid to the character.",
+  "pt": ""
+ },
+ "modEffectType3Title_createNpc": {
+  "ch": "首次进入游戏时，创建一个指定NPC",
+  "en": "Create a specified NPC upon first entry into game",
+  "pt": ""
+ },
+ "modEffectType3Title_decorateInvalid": {
+  "ch": "无视特殊地形，使玩家可移动到特殊地形上",
+  "en": "Ignores special terrain and allows the player to move onto special terrain",
+  "pt": ""
+ },
+ "modEffectType3Title_die": {
+  "ch": "当这个气运被移除时，角色死亡",
+  "en": "When this Destiny is removed, the character dies",
+  "pt": ""
+ },
+ "modEffectType3Title_doubleReduceDaoxin": {
+  "ch": "羞辱天骄NPC时，NPC道心坚韧度下降数值变化百分比",
+  "en": "Heaven-chosen NPCs' Taoist Mind loss when Humiliated (in %)",
+  "pt": ""
+ },
+ "modEffectType3Title_drillClose": {
+  "ch": "切磋战斗胜利后，若对方是NPC，则NPC对你的好感提升",
+  "en": "After winning a Spar battle and the opponent is an NPC, the Affinity the NPC has for you increases",
+  "pt": ""
+ },
+ "modEffectType3Title_drillExp": {
+  "ch": "切磋战斗胜利后，若对方是NPC，额外增加心得",
+  "en": "After winning a spar battle, gain additional knowledge if the opponent was an NPC",
+  "pt": ""
+ },
+ "modEffectType3Title_dungeon": {
+  "ch": "进入一个指定副本",
+  "en": "Enter one specified dungeon",
+  "pt": ""
+ },
+ "modEffectType3Title_equipAbility": {
+  "ch": "每装备了一本心法（包括自身），提升指定属性",
+  "en": "Every Mind Skill equipped (Including yourself) increases specified Stats",
+  "pt": ""
+ },
+ "modEffectType3Title_equipSkill": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modEffectType3Title_escapeClose": {
+  "ch": "逃跑成功时，若对方是NPC，则NPC对你的好感提升",
+  "en": "When escape is successful and the opponent is an NPC, the Affinity the NPC has for you increases",
+  "pt": ""
+ },
+ "modEffectType3Title_escapeSucceed": {
+  "ch": "修改逃跑成功概率",
+  "en": "Change escape success probability",
+  "pt": ""
+ },
+ "modEffectType3Title_featureTime": {
+  "ch": "获得气运时，修改气运的持续时间",
+  "en": "Modify the duration of a destiny when it is obtained",
+  "pt": ""
+ },
+ "modEffectType3Title_forgetEffect": {
+  "ch": "每遗忘了一个技能，提升指定属性",
+  "en": "Every time a specific Skill is forgotten, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_giveCloseStable": {
+  "ch": "赠送道具给NPC被接受后亲密度变化速度提升",
+  "en": "Boosts Affinity Change Speed when NPCs accept gifts",
+  "pt": ""
+ },
+ "modEffectType3Title_gradeEffect": {
+  "ch": "当处于指定境界的指定期数时，提升指定属性",
+  "en": "When the specific Realm is in the specific period, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_graveLife": {
+  "ch": "挖坟时有概率修改减少的寿命值",
+  "en": "There is a chance change the decrease in Lifespan when tomb raiding",
+  "pt": ""
+ },
+ "modEffectType3Title_growForbid": {
+  "ch": "禁止进行突破行为",
+  "en": "Forbids Breakthrough actions",
+  "pt": ""
+ },
+ "modEffectType3Title_hide": {
+  "ch": "当效果存在时，隐匿角色，无法被其他NPC选中互动",
+  "en": "When the effect exists, the character is hidden and cannot be selected to be interacted with by other NPCs",
+  "pt": ""
+ },
+ "modEffectType3Title_immortal": {
+  "ch": "永生，角色在真正死亡时，会在复活时间内再次复活",
+  "en": "Live forever. The character will be revived again within the revival time when they experience true death.",
+  "pt": ""
+ },
+ "modEffectType3Title_immuneFeature": {
+  "ch": "免疫指定的气运",
+  "en": "Immunity to specified Destiny",
+  "pt": ""
+ },
+ "modEffectType3Title_increaseBasPil": {
+  "ch": "隐形提升炼丹资质，不改变玩家的炼丹数值，只有在进入炼丹时会提高炼丹资质数值",
+  "en": "Hiding increases Alchemy stats but does not change the player's Alchemy value. The Alchemy stats value only increases when Alchemy has been entered.",
+  "pt": ""
+ },
+ "modEffectType3Title_intoDungeon": {
+  "ch": "每次在进入副本时，获得一次战斗效果（副本的战斗效果）",
+  "en": "Obtain a battle effect upon every dungeon entry (Dungeon's battle effect)",
+  "pt": ""
+ },
+ "modEffectType3Title_intoDungeonOther": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "modEffectType3Title_item": {
+  "ch": "产出物品",
+  "en": "Generate item",
+  "pt": ""
+ },
+ "modEffectType3Title_killNpcEffect": {
+  "ch": "每次击杀NPC时，可提升指定属性",
+  "en": "Every time an NPC is killed, the specified Stat can be increased",
+  "pt": ""
+ },
+ "modEffectType3Title_killNpcReward": {
+  "ch": "角色击杀NPC时，有几率触发，获得产出表的物品",
+  "en": "Grants a chance to gain items on the spawn list when the character kills a NPC",
+  "pt": ""
+ },
+ "modEffectType3Title_killReduce": {
+  "ch": "每击杀指定的怪物，指定气运的持续时间增加",
+  "en": "Every time the specified monster is killed, the specified Destiny duration increases",
+  "pt": ""
+ },
+ "modEffectType3Title_learnEffect": {
+  "ch": "每学习了一本技能，提升指定属性",
+  "en": "Every time a specific Skill is learned, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_learnSkillCost": {
+  "ch": "学习秘籍每次指定的消耗减少",
+  "en": "Decreases specified Cost every time a Manual is learned",
+  "pt": ""
+ },
+ "modEffectType3Title_learnSkillExp": {
+  "ch": "修炼技能获得的经验增加",
+  "en": "EXP gained from Skill Cultivation increased",
+  "pt": ""
+ },
+ "modEffectType3Title_learnSkillUp": {
+  "ch": "在学习秘籍时, 有概率使秘籍的境界设置为玩家当前境界",
+  "en": "When learning a manual, there is a chance to set realm of the manual to the player's current realm",
+  "pt": ""
+ },
+ "modEffectType3Title_limitGradeExp": {
+  "ch": "限制角色在指定的境界",
+  "en": "Limits the character to a specified Realm",
+  "pt": ""
+ },
+ "modEffectType3Title_mapFoundMaterials": {
+  "ch": "每个月结束时有概率执行一条命令，执行后进入冷却",
+  "en": "Chance to execute a command at the end of every month. Enters cooldown after execution",
+  "pt": ""
+ },
+ "modEffectType3Title_mapSpecialSign": {
+  "ch": "将附近指定范围内的所有副本、事件、大地图资源标记在大地图上",
+  "en": "Marks all Dungeon, Story, and World Map resources within the specified range on the World Map",
+  "pt": ""
+ },
+ "modEffectType3Title_meetMonsterProb": {
+  "ch": "在四大区域以及特殊地形上的遇怪概率降低",
+  "en": "Lower probability of encountering monsters in the four major areas and special terrain",
+  "pt": ""
+ },
+ "modEffectType3Title_meetMonsterProbInArea": {
+  "ch": "在指定区域以及特殊地形上遇怪概率降低",
+  "en": "Lower probability of encountering monsters in specific areas and special terrain",
+  "pt": ""
+ },
+ "modEffectType3Title_moneyAdd": {
+  "ch": "每个月增加灵石",
+  "en": "Spirit Stones added monthly",
+  "pt": ""
+ },
+ "modEffectType3Title_moneyEffect": {
+  "ch": "当你拥有指定的灵石，提升指定属性",
+  "en": "When the specific Spirit Stone is in possession, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_moneyExp": {
+  "ch": "每次消耗灵石时，可获得经验",
+  "en": "EXP might be gained every time a Spirit Stone is used up",
+  "pt": ""
+ },
+ "modEffectType3Title_monthAttrAdd": {
+  "ch": "每个月增加指定属性数值",
+  "en": "Specified Stats value added monthly",
+  "pt": ""
+ },
+ "modEffectType3Title_monthFunction": {
+  "ch": "每个月结束时执行一条命令",
+  "en": "Executes a command at the end of every month",
+  "pt": ""
+ },
+ "modEffectType3Title_monthLockPoint": {
+  "ch": "每个月结束时还原位置到添加气运时的位置",
+  "en": "Every end of the month, returns the location to the location where Destiny was added",
+  "pt": ""
+ },
+ "modEffectType3Title_monthLostItem": {
+  "ch": "每月有概率丢失道具，只丢失有叠加数量的道具（不包括灵石）",
+  "en": "Monthly probability of losing items. Only lose items that are stacked (Spirit Stones excluded)",
+  "pt": ""
+ },
+ "modEffectType3Title_monthProbableReward": {
+  "ch": "每次过月有一定概率获得产出表的物品",
+  "en": "Grants a chance to gain items on the spawn list each month",
+  "pt": ""
+ },
+ "modEffectType3Title_noFax": {
+  "ch": "限制角色无法使用传送功能",
+  "en": "Restrict characters from using the teleport function.",
+  "pt": ""
+ },
+ "modEffectType3Title_notTopUpGrade": {
+  "ch": "使角色无法进行天道突破，但是突破后可选择的逆天改命必定出现最高级的（例如：不需要双灵共生，直接出四灵共生）",
+  "en": "The character will be unable to make Breakthroughs through the Heavenly Path, but the available Rewrite Destiny choices from Breakthroughs will always be of the highest level. (e.g.: Spirit Fusion III will be available with no need for Spirit Fusion I to appear first)",
+  "pt": ""
+ },
+ "modEffectType3Title_npcCloseStable": {
+  "ch": "改变其他单位对我的的亲密度、仇恨度，提升、下降的倍率",
+  "en": "Change other units' Affinity and Hatred toward me, increasing and decreasing rate",
+  "pt": ""
+ },
+ "modEffectType3Title_npcCommunicateClose": {
+  "ch": "与NPC进行交互结束后，有概率会令NPC对你的亲密度改变",
+  "en": "After interacting with an NPC, there is a probability the NPC's Affinity with you changes",
+  "pt": ""
+ },
+ "modEffectType3Title_npcConnectLimit": {
+  "ch": "改变角色在指定区域内，在月结时受到的最大互动次数",
+  "en": "Change the max interaction times of a character in a specified area at the end of the month",
+  "pt": ""
+ },
+ "modEffectType3Title_npcNotOperation": {
+  "ch": "禁止NPC信息UI上所有互动选项，针对NPC",
+  "en": "Forbids all interaction options on NPC information UI, targets NPC",
+  "pt": ""
+ },
+ "modEffectType3Title_output": {
+  "ch": "当这个气运被删除时，调用一次产出",
+  "en": "When this Destiny is deleted, calls output once",
+  "pt": ""
+ },
+ "modEffectType3Title_passRoom": {
+  "ch": "每次在通关一个房间时，获得一次战斗效果（副本的战斗效果）",
+  "en": "Obtain a battle effect one time each time a room is cleared (Dungeon's battle effect)",
+  "pt": ""
+ },
+ "modEffectType3Title_pilCount": {
+  "ch": "使通过炼丹产出的丹药数量增加",
+  "en": "The Elixir quantity produced through Alchemy is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_pilEnergy": {
+  "ch": "使炼丹所需要消耗的精力增加",
+  "en": "The Stamina Cost required in Alchemy is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_randomArtifactWithSprite": {
+  "ch": "产出一件法宝，并融合一个器灵到法宝上",
+  "en": "Produce an Artifact, and combine an Artifact Spirit to the Artifact",
+  "pt": ""
+ },
+ "modEffectType3Title_relationEffect": {
+  "ch": "每拥有指定关系的NPC，提升指定属性",
+  "en": "Every time the specific NPC relationship is gained, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_roleEffectAdd": {
+  "ch": "每月运转时，有概率为角色添加一个效果",
+  "en": "There is a chance to add an effect to the character when running every month",
+  "pt": ""
+ },
+ "modEffectType3Title_roleSight": {
+  "ch": "使角色提升视野范围",
+  "en": "Enables the character to increase field of view",
+  "pt": ""
+ },
+ "modEffectType3Title_schoolMoneyAdd": {
+  "ch": "每月宗门俸禄增加一定百分比",
+  "en": "Monthly Sect Wage will increase by a certain percentage",
+  "pt": ""
+ },
+ "modEffectType3Title_skillColorEffect": {
+  "ch": "每装备了指定技能，提升指定属性",
+  "en": "Every time a specific Skill is equipped, the specified Stat is increased",
+  "pt": ""
+ },
+ "modEffectType3Title_skillMgCondition": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "modEffectType3Title_skillWpCondition": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "modEffectType3Title_slayHide": {
+  "ch": "杀死NPC时，有概率不增加NPC良性关系对角色的仇恨度，触发后弹出剧情ID",
+  "en": "When killing an NPC, chance to not increase Hatred toward the character from characters who have a positive relationship with the NPC. Displays plot ID when triggered.",
+  "pt": ""
+ },
+ "modEffectType3Title_stealExpose": {
+  "ch": "修改偷东西被发现概率",
+  "en": "Change discovery probability of item stealing",
+  "pt": ""
+ },
+ "modEffectType3Title_stealSucceed": {
+  "ch": "修改偷东西成功概率",
+  "en": "Change success probability of stealing item",
+  "pt": ""
+ },
+ "modEffectType3Title_stopRunAI": {
+  "ch": "停止运转AI，针对NPC",
+  "en": "Stops running AI, targets NPC",
+  "pt": ""
+ },
+ "modEffectType3Title_talkAnswer": {
+  "ch": "与NPC进行交谈以及论道时，可以得知NPC期望的答案",
+  "en": "When performing Talk or Debate with NPCs, you can learn the answers they expect",
+  "pt": ""
+ },
+ "modEffectType3Title_taskReward": {
+  "ch": "所有任务奖励(包括灵石, 声望, 城主令, 贡献)提升",
+  "en": "Increase all mission rewards (Spirit Stones, Reputation, Mayor's Decrees, Contribution)",
+  "pt": ""
+ },
+ "modEffectType3Title_terrainMoveCost": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "modEffectType3Title_trainRestore": {
+  "ch": "每次在大地图修炼时，每获得一点经验，可回复指定值的体力、灵力、念力",
+  "en": "Every time you Cultivate on the map and every time you gain a point of EXP, you can recover specified values of Vitality, Energy, and Focus",
+  "pt": ""
+ },
+ "modEffectType3Title_trainsExp": {
+  "ch": "双修时，双方获得的修为提升",
+  "en": "Both parties have an increased gain in Dual Cultivation",
+  "pt": ""
+ },
+ "modEffectType3Title_trainsGive": {
+  "ch": "双修结束后，对方会对你执行一次赠送行为",
+  "en": "When Dual Cultivation ends, the other party will Gift you once",
+  "pt": ""
+ },
+ "modEffectType3Title_viewEnemy": {
+  "ch": "使角色可以在小地图中查看仇人的位置",
+  "en": "Enables the character to view enemy locations on the Region Map",
+  "pt": ""
+ },
+ "modEffectType3Title_viewItemCount": {
+  "ch": "可以额外查看npc背包中的道具",
+  "en": "Can also check the items in the NPC's bag",
+  "pt": ""
+ },
+ "modEffectType3_addFeature_value1Name": {
+  "ch": "获得气运概率",
+  "en": "Probability of obtaining Destiny",
+  "pt": ""
+ },
+ "modEffectType3_addFeature_value2Name": {
+  "ch": "获得的气运",
+  "en": "Obtained Destiny",
+  "pt": ""
+ },
+ "modEffectType3_attachAttrByArtifact_value1Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_attachAttrByArtifact_value3Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_attrEffect_value1Name": {
+  "ch": "指定的属性",
+  "en": "Specified Stats",
+  "pt": ""
+ },
+ "modEffectType3_attrEffect_value2Name": {
+  "ch": "属性达到最小值",
+  "en": "Stats reach minimum value",
+  "pt": ""
+ },
+ "modEffectType3_attrEffect_value3Name": {
+  "ch": "属性达到最大值",
+  "en": "Stats reach maximum value",
+  "pt": ""
+ },
+ "modEffectType3_attrEffect_value4Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_attrEffect_value5Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_battleLearnSkill_value1Name": {
+  "ch": "学习技能的概率百分比",
+  "en": "Probability percentage of learning skills",
+  "pt": ""
+ },
+ "modEffectType3_battleLearnSkill_value2Name": {
+  "ch": "内置CD（月）",
+  "en": "Internal CD (month)",
+  "pt": ""
+ },
+ "modEffectType3_breakActionGridGetExp_value1Name": {
+  "ch": "触发概率万分比",
+  "en": "Trigger chance (in ‱)",
+  "pt": ""
+ },
+ "modEffectType3_breakActionGridGetExp_value2Name": {
+  "ch": "打断后打开的剧情",
+  "en": "Plot launched after the pause",
+  "pt": ""
+ },
+ "modEffectType3_breakActionGridGetExp_value3Name": {
+  "ch": "触发间隔（月）",
+  "en": "Trigger interval (in months)",
+  "pt": ""
+ },
+ "modEffectType3_breakActionGridMine_value1Name": {
+  "ch": "触发概率万分比",
+  "en": "Trigger chance (in ‱)",
+  "pt": ""
+ },
+ "modEffectType3_breakActionGridMine_value2Name": {
+  "ch": "打断后打开的剧情",
+  "en": "Plot launched after the pause",
+  "pt": ""
+ },
+ "modEffectType3_breakActionGridMine_value3Name": {
+  "ch": "触发间隔（月）",
+  "en": "Trigger interval (in months)",
+  "pt": ""
+ },
+ "modEffectType3_changeAbility_value1Name": {
+  "ch": "间隔时间（月）",
+  "en": "Interval Time (months)",
+  "pt": ""
+ },
+ "modEffectType3_changeAbility_value2Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_changeAbility_value4Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_changeAttrCost_value3Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_clearFeature_value1Name": {
+  "ch": "移除气运概率",
+  "en": "Probability of removing Destiny",
+  "pt": ""
+ },
+ "modEffectType3_clearFeature_value2Name": {
+  "ch": "移除的气运",
+  "en": "Removed Destiny",
+  "pt": ""
+ },
+ "modEffectType3_createDungeon_value1Desc": {
+  "ch": "每5级对应一个境界（如5级，代表最难的练气期副本）",
+  "en": "Every 5 levels correspond to a Realm (e.g. Lv. 5 represents the most difficult training Dungeon)",
+  "pt": ""
+ },
+ "modEffectType3_createDungeon_value1Name": {
+  "ch": "创建的副本",
+  "en": "Dungeon Created",
+  "pt": ""
+ },
+ "modEffectType3_createDungeon_value2Name": {
+  "ch": "创建的副本等级（1-50级）",
+  "en": "Level of Dungeon created (Lv. 1–50)",
+  "pt": ""
+ },
+ "modEffectType3_createNpc_value1Name": {
+  "ch": "NPC编辑",
+  "en": "NPC Edit",
+  "pt": ""
+ },
+ "modEffectType3_doubleReduceDaoxin_value1Name": {
+  "ch": "数值变化百分比",
+  "en": "Stat change (in %)",
+  "pt": ""
+ },
+ "modEffectType3_drillClose_value1Name": {
+  "ch": "切磋战斗胜利后，好感度增加值",
+  "en": "Affinity increase value after Spar battle is won",
+  "pt": ""
+ },
+ "modEffectType3_drillClose_value2Name": {
+  "ch": "在亲密度增加后面额外显示的文本内容",
+  "en": "Additional text content displayed after increase in Affinity",
+  "pt": ""
+ },
+ "modEffectType3_drillExp_value1Name": {
+  "ch": "经验增加百分比",
+  "en": "EXP increase percentage",
+  "pt": ""
+ },
+ "modEffectType3_drillExp_value2Name": {
+  "ch": "经验变化后，提示文本",
+  "en": "After EXP changes, tip text",
+  "pt": ""
+ },
+ "modEffectType3_equipAbility_value1Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_equipAbility_value3Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_escapeClose_value1Name": {
+  "ch": "逃跑成功后，好感度增加值",
+  "en": "Affinity increase value after escape is successful",
+  "pt": ""
+ },
+ "modEffectType3_escapeClose_value2Name": {
+  "ch": "在逃跑结算前额外显示的文本内容",
+  "en": "Additional text content displayed before escape is final",
+  "pt": ""
+ },
+ "modEffectType3_escapeSucceed_value1Name": {
+  "ch": "强制修改的百分比",
+  "en": "Forced Change Percentage",
+  "pt": ""
+ },
+ "modEffectType3_escapeSucceed_value2Name": {
+  "ch": "在逃跑结算前额外显示的文本内容",
+  "en": "Additional text content displayed before escape is final",
+  "pt": ""
+ },
+ "modEffectType3_featureTime_value1Desc": {
+  "ch": "1-所有正面气运\n2-所有负面气运\n其他-指定的气运ID",
+  "en": "1- All positive destinies\n2- All negative destinies\nOthers- specified destiny ID",
+  "pt": ""
+ },
+ "modEffectType3_featureTime_value1Name": {
+  "ch": "修改的气运",
+  "en": "Destiny changed",
+  "pt": ""
+ },
+ "modEffectType3_featureTime_value2Name": {
+  "ch": "气运持续时间增加百分比",
+  "en": "Destiny duration percentage to increase",
+  "pt": ""
+ },
+ "modEffectType3_forgetEffect_value1Name": {
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "pt": ""
+ },
+ "modEffectType3_forgetEffect_value2Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_forgetEffect_value3Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_giveCloseStable_value3Name": {
+  "ch": "增加的值",
+  "en": "Value increased",
+  "pt": ""
+ },
+ "modEffectType3_gradeEffect_value3Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_gradeEffect_value4Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_graveLife_value2Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_graveLife_value3Name": {
+  "ch": "触发概率",
+  "en": "Trigger Probability",
+  "pt": ""
+ },
+ "modEffectType3_immortal_value1Name": {
+  "ch": "复活时间（月）",
+  "en": "Revival Time (months)",
+  "pt": ""
+ },
+ "modEffectType3_immuneFeature_value1Desc": {
+  "ch": "任何时候角色添加此气运时，都将添加失败。",
+  "en": "Whenever the character adds this Destiny, it will fail to be added.",
+  "pt": ""
+ },
+ "modEffectType3_immuneFeature_value1Name": {
+  "ch": "免疫的气运",
+  "en": "Destiny Immunity",
+  "pt": ""
+ },
+ "modEffectType3_increaseBasPil_value1Name": {
+  "ch": "提升的炼丹资质数值",
+  "en": "Increased Alchemy Value",
+  "pt": ""
+ },
+ "modEffectType3_item_value1Name": {
+  "ch": "产出配置",
+  "en": "Output Configuration",
+  "pt": ""
+ },
+ "modEffectType3_item_value2Name": {
+  "ch": "产出次数",
+  "en": "How many times to generate",
+  "pt": ""
+ },
+ "modEffectType3_killNpcEffect_value2Name": {
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "pt": ""
+ },
+ "modEffectType3_killNpcEffect_value3Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_killNpcEffect_value4Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_killNpcReward_value2Name": {
+  "ch": "触发概率百分比",
+  "en": "Trigger chance (in %)",
+  "pt": ""
+ },
+ "modEffectType3_killNpcReward_value4Name": {
+  "ch": "产出次数",
+  "en": "No. of spawns",
+  "pt": ""
+ },
+ "modEffectType3_killNpcReward_value5Name": {
+  "ch": "触发间隔（月）",
+  "en": "Trigger interval (in months)",
+  "pt": ""
+ },
+ "modEffectType3_killReduce_value1Name": {
+  "ch": "增加时间的气运",
+  "en": "Destiny time increase",
+  "pt": ""
+ },
+ "modEffectType3_killReduce_value2Name": {
+  "ch": "增加的气运持续时间（月）",
+  "en": "Destiny duration increase (month)",
+  "pt": ""
+ },
+ "modEffectType3_killReduce_value3Name": {
+  "ch": "击杀的怪物",
+  "en": "Killed Monsters",
+  "pt": ""
+ },
+ "modEffectType3_learnEffect_value1Name": {
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "pt": ""
+ },
+ "modEffectType3_learnEffect_value2Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_learnEffect_value3Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_learnSkillCost_value3Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_learnSkillExp_value2Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_learnSkillUp_value1Name": {
+  "ch": "触发概率百分比",
+  "en": "Trigger probability percentage",
+  "pt": ""
+ },
+ "modEffectType3_learnSkillUp_value2Name": {
+  "ch": "内置CD（月）",
+  "en": "Internal CD (month)",
+  "pt": ""
+ },
+ "modEffectType3_learnSkillUp_value3Name": {
+  "ch": "触发后，提示文本",
+  "en": "When triggered, tip text",
+  "pt": ""
+ },
+ "modEffectType3_limitGradeExp_value1Name": {
+  "ch": "限制到达的境界",
+  "en": "Realm that reached restriction",
+  "pt": ""
+ },
+ "modEffectType3_limitGradeExp_value2Name": {
+  "ch": "限制到达的期数",
+  "en": "Period that reached restriction",
+  "pt": ""
+ },
+ "modEffectType3_mapFoundMaterials_value1Name": {
+  "ch": "概率百分比",
+  "en": "Chance (in %)",
+  "pt": ""
+ },
+ "modEffectType3_mapFoundMaterials_value2Name": {
+  "ch": "冷却间隔时间（月）",
+  "en": "Cooldown Interval Time (months)",
+  "pt": ""
+ },
+ "modEffectType3_mapFoundMaterials_value3Name": {
+  "ch": "命令",
+  "en": "Command",
+  "pt": ""
+ },
+ "modEffectType3_mapSpecialSign_value1Name": {
+  "ch": "附件范围",
+  "en": "Attachment Range",
+  "pt": ""
+ },
+ "modEffectType3_meetMonsterProbInArea_value1Name": {
+  "ch": "遇怪的概率变成百分之几",
+  "en": "Probability of encountering a monster becomes",
+  "pt": ""
+ },
+ "modEffectType3_meetMonsterProbInArea_value2Name": {
+  "ch": "进入特殊区域，提示后面额外显示的文本内容",
+  "en": "Additional text content displayed after the Notice when entering a special area",
+  "pt": ""
+ },
+ "modEffectType3_meetMonsterProbInArea_value3Name": {
+  "ch": "指定区域",
+  "en": "Specified Area",
+  "pt": ""
+ },
+ "modEffectType3_meetMonsterProb_value1Name": {
+  "ch": "遇怪的概率变化值（百分比）",
+  "en": "Probability change value of encountering monsters (Percentage)",
+  "pt": ""
+ },
+ "modEffectType3_meetMonsterProb_value2Name": {
+  "ch": "进入特殊区域提示后面额外显示的文本内容",
+  "en": "Additional text content displayed after the Notice when entering a special area",
+  "pt": ""
+ },
+ "modEffectType3_moneyAdd_value1Name": {
+  "ch": "增加灵石万分比",
+  "en": "Increase Spirit Stone Per mille",
+  "pt": ""
+ },
+ "modEffectType3_moneyEffect_value1Name": {
+  "ch": "指定灵石数量",
+  "en": "Specified Spirit Stone Quantity",
+  "pt": ""
+ },
+ "modEffectType3_moneyEffect_value2Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_moneyEffect_value3Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_moneyExp_value1Name": {
+  "ch": "获得经验的百分比",
+  "en": "Gained EXP percentage",
+  "pt": ""
+ },
+ "modEffectType3_monthAttrAdd_value1Name": {
+  "ch": "增加的属性",
+  "en": "Stats Added",
+  "pt": ""
+ },
+ "modEffectType3_monthAttrAdd_value2Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_monthFunction_value1Name": {
+  "ch": "命令",
+  "en": "Command",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value1Desc": {
+  "ch": "每个道具每次最少丢失多少个",
+  "en": "Minimum number of lost items per item",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value1Name": {
+  "ch": "丢失概率百分比",
+  "en": "Loss probability percentage",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value2Desc": {
+  "ch": "每个道具每次最多丢失多少个",
+  "en": "Maximum number of lost items per item",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value2Name": {
+  "ch": "丢失件数最小值",
+  "en": "Minimum lost items",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value3Desc": {
+  "ch": "当道具是叠加的，最少丢失百分之多少",
+  "en": "Minimum percentage lost when the item is stackable",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value3Name": {
+  "ch": "丢失件数最大值",
+  "en": "Maximum lost items",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value4Desc": {
+  "ch": "当道具是叠加的，最多丢失百分之多少",
+  "en": "Maximum percentage lost when the item is stackable",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value4Name": {
+  "ch": "丢失叠加数量最小百分比",
+  "en": "Minimum percentage of lost stack quantity",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value5Name": {
+  "ch": "丢失叠加数量最大百分比",
+  "en": "Maximum percentage of lost stack quantity",
+  "pt": ""
+ },
+ "modEffectType3_monthLostItem_value8Name": {
+  "ch": "每个月有百分之多少的概率丢失道具",
+  "en": "Percentage of rate of lost items per month",
+  "pt": ""
+ },
+ "modEffectType3_monthProbableReward_value1Name": {
+  "ch": "触发概率百分比",
+  "en": "Trigger chance (in %)",
+  "pt": ""
+ },
+ "modEffectType3_monthProbableReward_value3Name": {
+  "ch": "产出次数",
+  "en": "No. of spawns",
+  "pt": ""
+ },
+ "modEffectType3_monthProbableReward_value4Name": {
+  "ch": "触发间隔（月）",
+  "en": "Trigger interval (in months)",
+  "pt": ""
+ },
+ "modEffectType3_notTopUpGrade_value1Name": {
+  "ch": "多少境界开始生效",
+  "en": "Minimum effective Realm",
+  "pt": ""
+ },
+ "modEffectType3_npcCloseStable_value2Name": {
+  "ch": "变化的百分比",
+  "en": "Percentage of change",
+  "pt": ""
+ },
+ "modEffectType3_npcCommunicateClose_value1Name": {
+  "ch": "亲密度变化的概率百分比",
+  "en": "Probability percentage of Affinity change",
+  "pt": ""
+ },
+ "modEffectType3_npcCommunicateClose_value2Name": {
+  "ch": "亲密度的增加值",
+  "en": "Affinity addition value",
+  "pt": ""
+ },
+ "modEffectType3_npcCommunicateClose_value3Name": {
+  "ch": "在亲密度增加后面额外显示的文本内容",
+  "en": "Additional text content displayed after increase in Affinity",
+  "pt": ""
+ },
+ "modEffectType3_npcConnectLimit_value1Name": {
+  "ch": "交互限制随机最小值",
+  "en": "Minimum random interaction limit",
+  "pt": ""
+ },
+ "modEffectType3_npcConnectLimit_value2Name": {
+  "ch": "交互限制随机最大值",
+  "en": "Maximum random interaction limit",
+  "pt": ""
+ },
+ "modEffectType3_npcConnectLimit_value3Name": {
+  "ch": "指定区域最小ID",
+  "en": "Minimum Specified Area ID",
+  "pt": ""
+ },
+ "modEffectType3_npcConnectLimit_value4Name": {
+  "ch": "指定区域最大ID",
+  "en": "Maximum Specified Area ID",
+  "pt": ""
+ },
+ "modEffectType3_output_value2Name": {
+  "ch": "产出的物品",
+  "en": "Item Produced",
+  "pt": ""
+ },
+ "modEffectType3_pilCount_value2Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_pilEnergy_value2Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modEffectType3_randomArtifactWithSprite_value1Name": {
+  "ch": "法宝",
+  "en": "Artifact",
+  "pt": ""
+ },
+ "modEffectType3_randomArtifactWithSprite_value2Name": {
+  "ch": "法宝初始属性百分比",
+  "en": "Artifact initial stats percentage",
+  "pt": ""
+ },
+ "modEffectType3_randomArtifactWithSprite_value3Name": {
+  "ch": "器灵随机最小品质（5-6稀有）",
+  "en": "Artifact Spirit random minimum rarity (5–6 Rare)",
+  "pt": ""
+ },
+ "modEffectType3_randomArtifactWithSprite_value4Name": {
+  "ch": "器灵随机最大品质（5-6稀有）",
+  "en": "Artifact Spirit random maximum rarity (5–6 Rare)",
+  "pt": ""
+ },
+ "modEffectType3_randomArtifactWithSprite_value5Name": {
+  "ch": "法宝境界",
+  "en": "Artifact Realm",
+  "pt": ""
+ },
+ "modEffectType3_relationEffect_value3Name": {
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "pt": ""
+ },
+ "modEffectType3_relationEffect_value4Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_relationEffect_value5Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_roleEffectAdd_value1Name": {
+  "ch": "施加概率",
+  "en": "Application Probability",
+  "pt": ""
+ },
+ "modEffectType3_roleSight_value1Name": {
+  "ch": "提升的视野范围",
+  "en": "Increased field of view",
+  "pt": ""
+ },
+ "modEffectType3_schoolMoneyAdd_value1Name": {
+  "ch": "俸禄增加百分比",
+  "en": "Wage increase (in %)",
+  "pt": ""
+ },
+ "modEffectType3_skillColorEffect_value1Name": {
+  "ch": "技能的最小颜色",
+  "en": "Minimum color of Skill",
+  "pt": ""
+ },
+ "modEffectType3_skillColorEffect_value2Name": {
+  "ch": "技能的最大颜色",
+  "en": "Maximum color of Skill",
+  "pt": ""
+ },
+ "modEffectType3_skillColorEffect_value3Name": {
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "pt": ""
+ },
+ "modEffectType3_skillColorEffect_value4Name": {
+  "ch": "提升的属性",
+  "en": "Stats to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_skillColorEffect_value5Name": {
+  "ch": "提升的数值",
+  "en": "Value to upgrade",
+  "pt": ""
+ },
+ "modEffectType3_slayHide_value1Name": {
+  "ch": "触发概率百分比",
+  "en": "Trigger chance (in %)",
+  "pt": ""
+ },
+ "modEffectType3_slayHide_value2Name": {
+  "ch": "打开的剧情",
+  "en": "Launched plot",
+  "pt": ""
+ },
+ "modEffectType3_stealExpose_value1Name": {
+  "ch": "强制修改的百分比",
+  "en": "Forced Change Percentage",
+  "pt": ""
+ },
+ "modEffectType3_stealExpose_value2Name": {
+  "ch": "在逃跑结算前额外显示的文本内容",
+  "en": "Additional text content displayed before escape is final",
+  "pt": ""
+ },
+ "modEffectType3_stealSucceed_value2Name": {
+  "ch": "强制修改的百分比",
+  "en": "Forced Change Percentage",
+  "pt": ""
+ },
+ "modEffectType3_stealSucceed_value3Name": {
+  "ch": "在偷取结算前额外显示的文本内容",
+  "en": "Additional text content displayed before stealing is final",
+  "pt": ""
+ },
+ "modEffectType3_taskReward_value1Name": {
+  "ch": "奖励增加百分比",
+  "en": "Reward increase percentage",
+  "pt": ""
+ },
+ "modEffectType3_trainRestore_value1Name": {
+  "ch": "每点经验回复的体力",
+  "en": "Vitality recovered for every point of EXP",
+  "pt": ""
+ },
+ "modEffectType3_trainRestore_value2Name": {
+  "ch": "每点经验回复的灵力",
+  "en": "Energy recovered for every point of EXP",
+  "pt": ""
+ },
+ "modEffectType3_trainRestore_value3Name": {
+  "ch": "每点经验回复的念力",
+  "en": "Focus recovered for every point of EXP",
+  "pt": ""
+ },
+ "modEffectType3_trainRestore_value4Name": {
+  "ch": "触发时UI提示文本",
+  "en": "Notice text when triggered",
+  "pt": ""
+ },
+ "modEffectType3_trainsExp_value1Name": {
+  "ch": "提升的经验百分比",
+  "en": "EXP Percentage increase",
+  "pt": ""
+ },
+ "modEffectType3_trainsExp_value2Name": {
+  "ch": "触发时UI提示文本",
+  "en": "Notice text when triggered",
+  "pt": ""
+ },
+ "modEffectType3_trainsGive_value1Name": {
+  "ch": "触发时UI提示文本",
+  "en": "Notice text when triggered",
+  "pt": ""
+ },
+ "modEffectType3_viewItemCount_value1Name": {
+  "ch": "额外查看道具数量（-1代表所有）",
+  "en": "Additional view of item quantity (-1 means all)",
+  "pt": ""
+ }
+}

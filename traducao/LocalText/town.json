@@ -1,0 +1,712 @@
+{
+ "town_baojia": {
+  "ch": "报价：",
+  "en": "Bid:",
+  "pt": ""
+ },
+ "town_baoming": {
+  "ch": "报名",
+  "en": "Sign Up",
+  "pt": ""
+ },
+ "town_baomingchenggong": {
+  "ch": "报名成功",
+  "en": "Signed up",
+  "pt": ""
+ },
+ "town_beibao": {
+  "ch": "我的背包",
+  "en": "Inventory",
+  "pt": ""
+ },
+ "town_building_paimaihang": {
+  "ch": "拍卖行",
+  "en": "Auction House",
+  "pt": ""
+ },
+ "town_building_wuqipu": {
+  "ch": "武器铺",
+  "en": "Weapon Shop",
+  "pt": ""
+ },
+ "town_building_yaopu": {
+  "ch": "药铺",
+  "en": "Apothecary",
+  "pt": ""
+ },
+ "town_building_yizhan": {
+  "ch": "驿站",
+  "en": "Stage Station",
+  "pt": ""
+ },
+ "town_bukejiequ": {
+  "ch": "{0}不可接取此任务！",
+  "en": "{0}不可接取此任务！",
+  "pt": ""
+ },
+ "town_cailiaobuzu": {
+  "ch": "材料不足！",
+  "en": "Not enough materials!",
+  "pt": ""
+ },
+ "town_canjiapaimaihui": {
+  "ch": "是否参加拍卖会？参加后中途退出将无法加入本次拍卖会",
+  "en": "Join this auction? You can't leave it before it's over, or you won't be able to return.",
+  "pt": ""
+ },
+ "town_canjiatishi": {
+  "ch": "是否花费{0}灵石参加{1}的拍卖会？",
+  "en": "Spend {0} Spirit Stones to join {1}'s auction?",
+  "pt": ""
+ },
+ "town_cankaodijia": {
+  "ch": "参考底价：",
+  "en": "  Recommended Price: ",
+  "pt": ""
+ },
+ "town_chakan": {
+  "ch": "查看拍卖品",
+  "en": "View Auctioned Items",
+  "pt": ""
+ },
+ "town_chujia": {
+  "ch": "出价",
+  "en": "Bid",
+  "pt": ""
+ },
+ "town_chujiabiao": {
+  "ch": "出价表：",
+  "en": "Bids:",
+  "pt": ""
+ },
+ "town_chujiatishi": {
+  "ch": "{0}出价{1}",
+  "en": "{0} made a bid of {1}",
+  "pt": ""
+ },
+ "town_chushou": {
+  "ch": "出售",
+  "en": "Sell",
+  "pt": ""
+ },
+ "town_chushouzangwu": {
+  "ch": "出售赃物",
+  "en": "Fence Stolen Items",
+  "pt": ""
+ },
+ "town_chuwukongjian": {
+  "ch": "储物空间",
+  "en": "Storage",
+  "pt": ""
+ },
+ "town_cunru": {
+  "ch": "存入",
+  "en": "Store",
+  "pt": ""
+ },
+ "town_cunrutishi": {
+  "ch": "你的背包中有新的书籍，将自动存入书库。",
+  "en": "New books in your Inventory will be automatically stored in the Library.",
+  "pt": ""
+ },
+ "town_cunruwancheng": {
+  "ch": "存入书籍完成！",
+  "en": "Books stored!",
+  "pt": ""
+ },
+ "town_dangqianbaojia": {
+  "ch": "当前报价：",
+  "en": "Current Bid:",
+  "pt": ""
+ },
+ "town_dianjichushou": {
+  "ch": "点击出售",
+  "en": "Click to sell",
+  "pt": ""
+ },
+ "town_dianjigoumai": {
+  "ch": "点击购买",
+  "en": "Click to buy",
+  "pt": ""
+ },
+ "town_dianjiquhui": {
+  "ch": "点击取回",
+  "en": "Click to Withdraw",
+  "pt": ""
+ },
+ "town_dijia": {
+  "ch": "底价：",
+  "en": "Reserve Price: ",
+  "pt": ""
+ },
+ "town_diuqi": {
+  "ch": "丢弃",
+  "en": "Discard",
+  "pt": ""
+ },
+ "town_duihuantishi": {
+  "ch": "是否花费{0}灵石兑换{1}？",
+  "en": "Exchange {0} Spirit Stones for {1}?",
+  "pt": ""
+ },
+ "town_fangshi": {
+  "ch": "坊市物品",
+  "en": "Market Items",
+  "pt": ""
+ },
+ "town_fenhao": {
+  "ch": "分号",
+  "en": "Branch",
+  "pt": ""
+ },
+ "town_ganxingqu": {
+  "ch": "请选择感兴趣的拍卖品，未选择的拍卖品开拍时将自动跳过",
+  "en": "Select the items you're interested in. Unselected items will be skipped during the auction.",
+  "pt": ""
+ },
+ "town_gongnengtishi": {
+  "ch": "商会每{0}进行一次拍卖会，{1}后开启下一次拍卖会。",
+  "en": "The auction is held once every {0}. The next auction will begin in {1}.",
+  "pt": ""
+ },
+ "town_goumai": {
+  "ch": "购买",
+  "en": "Buy",
+  "pt": ""
+ },
+ "town_goumaidanfang": {
+  "ch": "购买丹方：",
+  "en": "Buy Elixir Recipe:",
+  "pt": ""
+ },
+ "town_goumaidanfangtishi": {
+  "ch": "未学习此丹方，请先购买并学习此丹方。",
+  "en": "You haven't learned this Elixir Recipe. Please buy and learn it first.",
+  "pt": ""
+ },
+ "town_hecheng": {
+  "ch": "合成",
+  "en": "Combine",
+  "pt": ""
+ },
+ "town_hechengshibai": {
+  "ch": "合成失败！",
+  "en": "Failed to combine!",
+  "pt": ""
+ },
+ "town_hechengxiaohao": {
+  "ch": "合成消耗：",
+  "en": "Cost:",
+  "pt": ""
+ },
+ "town_heishi": {
+  "ch": "黑市交易",
+  "en": "Black Market Trade",
+  "pt": ""
+ },
+ "town_hejiutishi": {
+  "ch": "达到{0}才能在{1}喝酒！",
+  "en": "Reach {0} to drink in {1}!",
+  "pt": ""
+ },
+ "town_huafei": {
+  "ch": "灵石{0} 需要{1}天",
+  "en": "Cost: {0} Spirit Stones, Duration: {1}d",
+  "pt": ""
+ },
+ "town_huishou": {
+  "ch": "回收道具",
+  "en": "Sell Back",
+  "pt": ""
+ },
+ "town_huishoujiage": {
+  "ch": "回收总价：{0}灵石",
+  "en": "Total Price: {0} Spirit Stones",
+  "pt": ""
+ },
+ "town_jingpaichenggong": {
+  "ch": "竞拍成功",
+  "en": "Bid made",
+  "pt": ""
+ },
+ "town_jingpaishibai": {
+  "ch": "竞拍失败",
+  "en": "Failed to make a bid",
+  "pt": ""
+ },
+ "town_jingpaitishi": {
+  "ch": "准备开始竞拍{0}，请准备",
+  "en": "Bidding for {0} will begin soon. Get ready.",
+  "pt": ""
+ },
+ "town_jingpaitishi2": {
+  "ch": "不能和自己竞价",
+  "en": "You can't outbid yourself",
+  "pt": ""
+ },
+ "town_jingpaituicu": {
+  "ch": "是否离开拍卖会？离开后将无法参与本次拍卖会",
+  "en": "Leave the auction? You won't be able to return afterwards.",
+  "pt": ""
+ },
+ "town_jipai": {
+  "ch": "寄拍",
+  "en": "Put Up",
+  "pt": ""
+ },
+ "town_jipaichenggong": {
+  "ch": "寄拍成功",
+  "en": "This item has been put up for auction!",
+  "pt": ""
+ },
+ "town_jipaitishi": {
+  "ch": "确认寄拍{0}吗？\n底价{1}，确认后收取{2}灵石手续费",
+  "en": "Put up {0} for auction?\nReserve Price: {1}. {2} Spirit Stones will be paid as a fee once you confirm.",
+  "pt": ""
+ },
+ "town_kehecheng": {
+  "ch": "可合成",
+  "en": "Combine",
+  "pt": ""
+ },
+ "town_kejipai": {
+  "ch": "可寄拍以下境界道具：",
+  "en": "Only items of the following realms can be put up for the auction:",
+  "pt": ""
+ },
+ "town_kongjianyiman": {
+  "ch": "建木空间已满！",
+  "en": "Tree Vault is full!",
+  "pt": ""
+ },
+ "town_kuaisujingpai": {
+  "ch": "快速竞拍",
+  "en": "Quick Bid",
+  "pt": ""
+ },
+ "town_liandan": {
+  "ch": "炼丹",
+  "en": "Alchemy",
+  "pt": ""
+ },
+ "town_liandanquxiao": {
+  "ch": "取消炼制将返回材料，但会消耗丹炉耐久度，是否取消炼丹？",
+  "en": "If you cancel now, the materials will be returned, but the Furnace's Durability will drop. Cancel anyway?",
+  "pt": ""
+ },
+ "town_liandantishi": {
+  "ch": "此丹方的炼制过程复杂，工坊无法炼制！需要购买丹方后自己炼制！",
+  "en": "This Elixir is too complicated to be concocted in the Workshop. Please buy its recipe and concoct it yourself.",
+  "pt": ""
+ },
+ "town_lianqi": {
+  "ch": "炼器",
+  "en": "Refining",
+  "pt": ""
+ },
+ "town_lianzhi": {
+  "ch": "炼制",
+  "en": "Refining",
+  "pt": ""
+ },
+ "town_lianzhitishi": {
+  "ch": "确定花费{0}灵石炼制{1}吗？",
+  "en": "Spend {0} Spirit Stones to concoct {1}?",
+  "pt": ""
+ },
+ "town_lianzhixiaohao": {
+  "ch": "工坊炼制消耗：",
+  "en": "Workshop Cost:",
+  "pt": ""
+ },
+ "town_liupai": {
+  "ch": "流拍",
+  "en": "Bought-In",
+  "pt": ""
+ },
+ "town_liupaiwupin": {
+  "ch": "（流拍物品）",
+  "en": "(Bought-In Items)",
+  "pt": ""
+ },
+ "town_lundaotishi": {
+  "ch": "必须加入{0}的任意宗门，才能参加升仙大会！",
+  "en": "Join a sect ({0}) to participate in the Immortal Tournament!",
+  "pt": ""
+ },
+ "town_mijishuaxintishi": {
+  "ch": "距离下次刷新秘籍\n还有{0}个月",
+  "en": "Manuals will be refreshed in\n{0} month(s)",
+  "pt": ""
+ },
+ "town_mission10": {
+  "ch": "地级委托",
+  "en": "Advanced Mission",
+  "pt": ""
+ },
+ "town_mission11": {
+  "ch": "地级委托",
+  "en": "Advanced Mission",
+  "pt": ""
+ },
+ "town_mission12": {
+  "ch": "天级委托",
+  "en": "Expert Mission",
+  "pt": ""
+ },
+ "town_mission7": {
+  "ch": "黄级委托",
+  "en": "Novice Mission",
+  "pt": ""
+ },
+ "town_mission8": {
+  "ch": "玄级委托",
+  "en": "Intermediate Mission",
+  "pt": ""
+ },
+ "town_mission9": {
+  "ch": "玄级委托",
+  "en": "Intermediate Mission",
+  "pt": ""
+ },
+ "town_npctishi": {
+  "ch": "嘘......货呢？",
+  "en": "Where's the merchandise?",
+  "pt": ""
+ },
+ "town_paimaihangguanli": {
+  "ch": "拍卖行管理员",
+  "en": "Auction Clerk",
+  "pt": ""
+ },
+ "town_paimaihuijieshu": {
+  "ch": "拍卖会已结束",
+  "en": "This auction is over.",
+  "pt": ""
+ },
+ "town_paimaitishi": {
+  "ch": "下一次拍卖会在{0}后开始",
+  "en": "The next auction begins in {0}",
+  "pt": ""
+ },
+ "town_piliangjipai": {
+  "ch": "是否将背包中剩余{0}以相同数量批量拍卖",
+  "en": "Put up other owned {0} for auction in the same stack size?",
+  "pt": ""
+ },
+ "town_quchu": {
+  "ch": "取出",
+  "en": "Withdraw",
+  "pt": ""
+ },
+ "town_quhui": {
+  "ch": "取回",
+  "en": "Withdraw",
+  "pt": ""
+ },
+ "town_quhuiliupai": {
+  "ch": "是否取回所有流拍物品",
+  "en": "Withdraw all bought-in items?",
+  "pt": ""
+ },
+ "town_refine_name1": {
+  "ch": "火灵气",
+  "en": "Fire Qi",
+  "pt": ""
+ },
+ "town_refine_name10": {
+  "ch": "风灵珠",
+  "en": "Wind Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name11": {
+  "ch": "土灵珠",
+  "en": "Earth Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name12": {
+  "ch": "木灵珠",
+  "en": "Wood Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name13": {
+  "ch": "天道之气",
+  "en": "Heaven Aura",
+  "pt": ""
+ },
+ "town_refine_name14": {
+  "ch": "地道之气",
+  "en": "Earth Aura",
+  "pt": ""
+ },
+ "town_refine_name15": {
+  "ch": "火灵斗气",
+  "en": "Condensed Fire Qi",
+  "pt": ""
+ },
+ "town_refine_name16": {
+  "ch": "水灵斗气",
+  "en": "Condensed Water Qi",
+  "pt": ""
+ },
+ "town_refine_name17": {
+  "ch": "雷灵斗气",
+  "en": "Condensed Lightning Qi",
+  "pt": ""
+ },
+ "town_refine_name18": {
+  "ch": "风灵斗气",
+  "en": "Condensed Wind Qi",
+  "pt": ""
+ },
+ "town_refine_name19": {
+  "ch": "土灵斗气",
+  "en": "Condensed Earth Qi",
+  "pt": ""
+ },
+ "town_refine_name2": {
+  "ch": "水灵气",
+  "en": "Water Qi",
+  "pt": ""
+ },
+ "town_refine_name20": {
+  "ch": "木灵斗气",
+  "en": "Condensed Wood Qi",
+  "pt": ""
+ },
+ "town_refine_name21": {
+  "ch": "火灵斗珠",
+  "en": "Condensed Fire Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name22": {
+  "ch": "水灵斗珠",
+  "en": "Condensed Water Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name23": {
+  "ch": "雷灵斗珠",
+  "en": "Condensed Lightning Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name24": {
+  "ch": "风灵斗珠",
+  "en": "Condensed Wind Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name25": {
+  "ch": "土灵斗珠",
+  "en": "Condensed Earth Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name26": {
+  "ch": "木灵斗珠",
+  "en": "Condensed Wood Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name27": {
+  "ch": "中品魂石",
+  "en": "G2 Soul Stone",
+  "pt": ""
+ },
+ "town_refine_name28": {
+  "ch": "上品魂石",
+  "en": "G1 Soul Stone",
+  "pt": ""
+ },
+ "town_refine_name29": {
+  "ch": "中品魂晶",
+  "en": "G2 Soul Crystal",
+  "pt": ""
+ },
+ "town_refine_name3": {
+  "ch": "雷灵气",
+  "en": "Lightning Qi",
+  "pt": ""
+ },
+ "town_refine_name30": {
+  "ch": "上品魂晶",
+  "en": "G1 Soul Crystal",
+  "pt": ""
+ },
+ "town_refine_name31": {
+  "ch": "中品魂玉",
+  "en": "G2 Soul Jade",
+  "pt": ""
+ },
+ "town_refine_name32": {
+  "ch": "上品魂玉",
+  "en": "G1 Soul Jade",
+  "pt": ""
+ },
+ "town_refine_name33": {
+  "ch": "中品精魄之息",
+  "en": "G2 Soul Breath",
+  "pt": ""
+ },
+ "town_refine_name34": {
+  "ch": "上品精魄之息",
+  "en": "G1 Soul Breath",
+  "pt": ""
+ },
+ "town_refine_name35": {
+  "ch": "中品圣灵之息",
+  "en": "G2 Sacred Soul Breath",
+  "pt": ""
+ },
+ "town_refine_name36": {
+  "ch": "上品圣灵之息",
+  "en": "G1 Sacred Soul Breath",
+  "pt": ""
+ },
+ "town_refine_name4": {
+  "ch": "风灵气",
+  "en": "Wind Qi",
+  "pt": ""
+ },
+ "town_refine_name5": {
+  "ch": "土灵气",
+  "en": "Earth Qi",
+  "pt": ""
+ },
+ "town_refine_name6": {
+  "ch": "木灵气",
+  "en": "Wood Qi",
+  "pt": ""
+ },
+ "town_refine_name7": {
+  "ch": "火灵珠",
+  "en": "Fire Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name8": {
+  "ch": "水灵珠",
+  "en": "Water Qi Orb",
+  "pt": ""
+ },
+ "town_refine_name9": {
+  "ch": "雷灵珠",
+  "en": "Lightning Qi Orb",
+  "pt": ""
+ },
+ "town_renwutishi": {
+  "ch": "此任务不能同时接取多个！",
+  "en": "You can only accept one mission of this type at a time!",
+  "pt": ""
+ },
+ "town_shengwangyaoqiu": {
+  "ch": "声望达到{0}可兑换此层",
+  "en": "Requires {0} Reputation",
+  "pt": ""
+ },
+ "town_shoujia": {
+  "ch": "售价：",
+  "en": "Price: ",
+  "pt": ""
+ },
+ "town_shuaxinmiji": {
+  "ch": "是否花费{0}灵石刷新秘籍？",
+  "en": "Spend {0} Spirit Stones to refresh the Manuals?",
+  "pt": ""
+ },
+ "town_shuku": {
+  "ch": "书库",
+  "en": "Library",
+  "pt": ""
+ },
+ "town_shurudijia": {
+  "ch": "请输入竞拍总底价！",
+  "en": "Enter the total Reserve Price!",
+  "pt": ""
+ },
+ "town_tousu": {
+  "ch": "投宿",
+  "en": "Rest",
+  "pt": ""
+ },
+ "town_tuodongtishi": {
+  "ch": "到底了！",
+  "en": "You've reached the bottom.",
+  "pt": ""
+ },
+ "town_tuoshou": {
+  "ch": "脱手",
+  "en": "脱手",
+  "pt": ""
+ },
+ "town_wodebeibao": {
+  "ch": "我的背包",
+  "en": "Inventory",
+  "pt": ""
+ },
+ "town_xiangzidaoju": {
+  "ch": "箱子中的道具",
+  "en": "Items",
+  "pt": ""
+ },
+ "town_xiaohaocailiao": {
+  "ch": "消耗材料",
+  "en": "Cost",
+  "pt": ""
+ },
+ "town_xiuxi": {
+  "ch": "休息一下，可以恢复体力精力。",
+  "en": "Get some rest to recover your Vitality and Stamina.",
+  "pt": ""
+ },
+ "town_yicanjia": {
+  "ch": "已参加",
+  "en": "Joined",
+  "pt": ""
+ },
+ "town_yichushou": {
+  "ch": "已拍卖",
+  "en": "Sold",
+  "pt": ""
+ },
+ "town_yifushuaxintishi": {
+  "ch": "距离下次刷新衣服\n还有{0}个月",
+  "en": "Outfits will be refreshed in\n{0} month(s)",
+  "pt": ""
+ },
+ "town_yijipai": {
+  "ch": "已寄拍物品",
+  "en": "Auctioned Items",
+  "pt": ""
+ },
+ "town_yiliupai": {
+  "ch": "已流拍",
+  "en": "Not sold",
+  "pt": ""
+ },
+ "town_yongjintishi": {
+  "ch": "拍卖成功后，拍卖行按成交价收取{0}%的用佣金",
+  "en": "The Auction House charges a {0}% commission fee on successful sales.",
+  "pt": ""
+ },
+ "town_zangwu": {
+  "ch": "赃物",
+  "en": "Stolen Item",
+  "pt": ""
+ },
+ "town_zongdijia": {
+  "ch": "总底价：",
+  "en": "Total Reserve Price: ",
+  "pt": ""
+ },
+ "town_zonghao": {
+  "ch": "总号",
+  "en": "Headquarters",
+  "pt": ""
+ },
+ "town_zongjia": {
+  "ch": "总价：",
+  "en": "Total Price: ",
+  "pt": ""
+ },
+ "town_zuigaochujia": {
+  "ch": "当前最高出价：{0}",
+  "en": "Highest Bid: {0}",
+  "pt": ""
+ }
+}

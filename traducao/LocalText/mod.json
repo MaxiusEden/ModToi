@@ -1,0 +1,4697 @@
+{
+ "mod_banbenhao": {
+  "ch": "版本号：",
+  "en": "Patch number:",
+  "pt": ""
+ },
+ "mod_baocunbingtuichu": {
+  "ch": "保存",
+  "en": "Save",
+  "pt": ""
+ },
+ "mod_baocunchenggong": {
+  "ch": "保存成功！",
+  "en": "Saved!",
+  "pt": ""
+ },
+ "mod_baocuntishi": {
+  "ch": "是否<r>保存项目</r>在退出？",
+  "en": "<r>Save Project</r> before quitting?",
+  "pt": ""
+ },
+ "mod_baocunxiangmu": {
+  "ch": "保存项目[F12]",
+  "en": "Save Project [F12]",
+  "pt": ""
+ },
+ "mod_baohanmingganzi": {
+  "ch": "包含敏感字“{0}”，请重新输入！",
+  "en": "Contains sensitive words \"{0}\". Please re-enter!",
+  "pt": ""
+ },
+ "mod_beijingyin": {
+  "ch": "背景声音",
+  "en": "Background Sound",
+  "pt": ""
+ },
+ "mod_beizhu": {
+  "ch": "批注",
+  "en": "Comment",
+  "pt": ""
+ },
+ "mod_beizhuzhiyouui": {
+  "ch": "批注（仅在模组UI显示）",
+  "en": "Comment (Only displayed on Mod UI)",
+  "pt": ""
+ },
+ "mod_bendi1": {
+  "ch": "本地模组",
+  "en": "Local Mods",
+  "pt": ""
+ },
+ "mod_bendi10": {
+  "ch": "模组根目录",
+  "en": "Mod Root Directory",
+  "pt": ""
+ },
+ "mod_bendi11": {
+  "ch": "模组根目录存放着所有的模组，每一个的模组文件夹名字为“Mod_xxxxxx”，玩家下载模组后，复制到此目录。",
+  "en": "All mods are stored in the Mod Root Directory. The name of each mod folder is Mod_xxxxxx. Download the mod and copy it to this directory.",
+  "pt": ""
+ },
+ "mod_bendi12": {
+  "ch": "导入模组成功！",
+  "en": "Mod imported!",
+  "pt": ""
+ },
+ "mod_bendi13": {
+  "ch": "删除模组",
+  "en": "Delete mod",
+  "pt": ""
+ },
+ "mod_bendi14": {
+  "ch": "删除模组后不可恢复，确认删除？",
+  "en": "A deleted mod cannot be restored. Continue?",
+  "pt": ""
+ },
+ "mod_bendi15": {
+  "ch": "本地暂无模组",
+  "en": "No local mod",
+  "pt": ""
+ },
+ "mod_bendi16": {
+  "ch": "模组信息",
+  "en": "Mod Info",
+  "pt": ""
+ },
+ "mod_bendi2": {
+  "ch": "名称",
+  "en": "Name",
+  "pt": ""
+ },
+ "mod_bendi3": {
+  "ch": "描述",
+  "en": "Description",
+  "pt": ""
+ },
+ "mod_bendi4": {
+  "ch": "名称：",
+  "en": "Name:",
+  "pt": ""
+ },
+ "mod_bendi5": {
+  "ch": "描述：",
+  "en": "Description:",
+  "pt": ""
+ },
+ "mod_bendi6": {
+  "ch": "下载更多模组",
+  "en": "Download more mods",
+  "pt": ""
+ },
+ "mod_bendi7": {
+  "ch": "点击后打开第三方分享网站，下载其他玩家分享的模组。",
+  "en": "Click to open the third-party sharing website to download other players' mods.",
+  "pt": ""
+ },
+ "mod_bendi8": {
+  "ch": "导入模组数据",
+  "en": "Import mod data",
+  "pt": ""
+ },
+ "mod_bendi9": {
+  "ch": "选择下载好的模组文件“ModExportData.cache”。",
+  "en": "Select the downloaded mod file ModExportData.cache",
+  "pt": ""
+ },
+ "mod_bendimozu": {
+  "ch": "管理本地模组",
+  "en": "Manage Local Mods",
+  "pt": ""
+ },
+ "mod_bendimozu2": {
+  "ch": "本地模组根目录",
+  "en": "Local Mod Root Directory",
+  "pt": ""
+ },
+ "mod_bianji": {
+  "ch": "编辑",
+  "en": "Edit",
+  "pt": ""
+ },
+ "mod_bianjiwancheng": {
+  "ch": "编辑完成",
+  "en": "Edit Complete",
+  "pt": ""
+ },
+ "mod_bianxiedaima": {
+  "ch": "代码编写",
+  "en": "Write Code",
+  "pt": ""
+ },
+ "mod_bianxiedaima1": {
+  "ch": "打开代码目录",
+  "en": "Open code directory",
+  "pt": ""
+ },
+ "mod_bianxiedaima2": {
+  "ch": "打开教程目录",
+  "en": "Open tutorial directory",
+  "pt": ""
+ },
+ "mod_bianxiedaima3": {
+  "ch": "可以通过修改代码的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
+  "en": "Modify code to create your mod. Starters are recommended to read the tutorial first.",
+  "pt": ""
+ },
+ "mod_bianxiedaima4": {
+  "ch": "代码命名空间：",
+  "en": "Code naming space:",
+  "pt": ""
+ },
+ "mod_bianxiedaima5": {
+  "ch": "默认命名空间是模组的ID，除非与其他模组的命名空间冲突，一般不需要重新定义命名空间。\n\n如果你手动更改了模组代码的命名空间，需要同步修改此位置的命名空间，否则DLL将加载失败！！！",
+  "en": "The default naming space is the mod ID. You don't need to change it unless there is a clash with another mod.\n\nIf you have manually changed the naming space of the mod code, you need to change the naming space here in the same way, or DLL loading will fail!!!",
+  "pt": ""
+ },
+ "mod_biaoqian1": {
+  "ch": "BornLuck",
+  "en": "BornLuck",
+  "pt": ""
+ },
+ "mod_biaoqian2": {
+  "ch": "ChangeLifeLuck",
+  "en": "ChangeLifeLuck",
+  "pt": ""
+ },
+ "mod_biaoqian3": {
+  "ch": "Item",
+  "en": "Item",
+  "pt": ""
+ },
+ "mod_biaoqian4": {
+  "ch": "Fortuitous",
+  "en": "Fortuitous",
+  "pt": ""
+ },
+ "mod_biaoqian5": {
+  "ch": "Drama",
+  "en": "Drama",
+  "pt": ""
+ },
+ "mod_biaoqian6": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_biaoqian7": {
+  "ch": "Dress",
+  "en": "Dress",
+  "pt": ""
+ },
+ "mod_biaoqianid1": {
+  "ch": "Luck",
+  "en": "Luck",
+  "pt": ""
+ },
+ "mod_biaoqianid10": {
+  "ch": "English",
+  "en": "",
+  "pt": ""
+ },
+ "mod_biaoqianid2": {
+  "ch": "Drama",
+  "en": "Drama",
+  "pt": ""
+ },
+ "mod_biaoqianid3": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_biaoqianid4": {
+  "ch": "Battle",
+  "en": "Battle",
+  "pt": ""
+ },
+ "mod_biaoqianid5": {
+  "ch": "Function",
+  "en": "Function",
+  "pt": ""
+ },
+ "mod_biaoqianid6": {
+  "ch": "Item",
+  "en": "Item",
+  "pt": ""
+ },
+ "mod_biaoqianid7": {
+  "ch": "Beautify",
+  "en": "Beautify",
+  "pt": ""
+ },
+ "mod_biaoqianid8": {
+  "ch": "LargeIntegrated",
+  "en": "LargeIntegrated",
+  "pt": ""
+ },
+ "mod_biaoqianid9": {
+  "ch": "OpenSource",
+  "en": "OpenSource",
+  "pt": ""
+ },
+ "mod_biaoqianming1": {
+  "ch": "气运",
+  "en": "Destiny",
+  "pt": ""
+ },
+ "mod_biaoqianming10": {
+  "ch": "英语",
+  "en": "English",
+  "pt": ""
+ },
+ "mod_biaoqianming2": {
+  "ch": "剧情",
+  "en": "Plot",
+  "pt": ""
+ },
+ "mod_biaoqianming3": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_biaoqianming4": {
+  "ch": "战斗",
+  "en": "Battle",
+  "pt": ""
+ },
+ "mod_biaoqianming5": {
+  "ch": "功能",
+  "en": "Function",
+  "pt": ""
+ },
+ "mod_biaoqianming6": {
+  "ch": "道具",
+  "en": "Item",
+  "pt": ""
+ },
+ "mod_biaoqianming7": {
+  "ch": "美化",
+  "en": "Cosmetic",
+  "pt": ""
+ },
+ "mod_biaoqianming8": {
+  "ch": "大型综合",
+  "en": "Large Comprehensive",
+  "pt": ""
+ },
+ "mod_biaoqianming9": {
+  "ch": "开源",
+  "en": "Open Source",
+  "pt": ""
+ },
+ "mod_bubaochun": {
+  "ch": "不保存文本内容，直接退出？",
+  "en": "Leave without saving the text?",
+  "pt": ""
+ },
+ "mod_budakaijuqing": {
+  "ch": "不打开剧情",
+  "en": "Don't launch plot",
+  "pt": ""
+ },
+ "mod_bunengxuan0": {
+  "ch": "不能和0同时选择！",
+  "en": "Cannot be selected at the same time as 0!",
+  "pt": ""
+ },
+ "mod_buxuanzheshijian": {
+  "ch": "不选择事件点",
+  "en": "No story point selected",
+  "pt": ""
+ },
+ "mod_buzhuaqunpc": {
+  "ch": "不抓取NPC",
+  "en": "Don't extract NPC",
+  "pt": ""
+ },
+ "mod_cangbaotu1": {
+  "ch": "创建大地图事件",
+  "en": "Create World map event",
+  "pt": ""
+ },
+ "mod_cangbaotu2": {
+  "ch": "当使用藏宝图时，会在指定位置创建一个大地图事件。",
+  "en": "When an Artifact Map is used, a World map event is created in a specified location.",
+  "pt": ""
+ },
+ "mod_cangbaotu3": {
+  "ch": "大地图X坐标",
+  "en": "World map X coordinate",
+  "pt": ""
+ },
+ "mod_cangbaotu4": {
+  "ch": "大地图Y坐标",
+  "en": "World map Y coordinate",
+  "pt": ""
+ },
+ "mod_cangbaotu5": {
+  "ch": "随机半径",
+  "en": "Random Radius",
+  "pt": ""
+ },
+ "mod_cangbaotu6": {
+  "ch": "消耗道具",
+  "en": "Item Cost",
+  "pt": ""
+ },
+ "mod_cangbaotu7": {
+  "ch": "消耗道具数量",
+  "en": "Item Cost Quantity",
+  "pt": ""
+ },
+ "mod_caozuoshuoming": {
+  "ch": "Ctrl+C：复制数据\nCtrl+V：粘贴数据\nCtrl+D：新建数据并粘贴",
+  "en": "Ctrl+C: Copy data\nCtrl+V: Paste data\nCtrl+D: Create new data and paste",
+  "pt": ""
+ },
+ "mod_chanchubiaoti": {
+  "ch": "产出{0} x{1}",
+  "en": "Produce {0}×{1}",
+  "pt": ""
+ },
+ "mod_chanchumiaoshu": {
+  "ch": "当同时配置了多个产出时，根据每个产出的权重随机，产出其中的一条。\n\n提示：可以配置多条命令，产出多次道具。",
+  "en": "When multiple productions are set at the same time, one of them is produced based on the random importance of every production.\n\nTip: Multiple commands can be set to produce items multiple times.",
+  "pt": ""
+ },
+ "mod_chanchuquanzhong": {
+  "ch": "随机权重",
+  "en": "Random Importance",
+  "pt": ""
+ },
+ "mod_chanchuquanzhongshuoming": {
+  "ch": "当配置了多个产出时，权重越高，此物品产出的概率越高（同时配置多个产出时，只会随机产出其中一个）\n提示：可以配置多条命令，产出多次道具。\n\n例如：\n配置1设置不产出任何东西，随机权重90。\n配置2设置产出灵石888，随机权重10。\n则有百分之90概率不产出任何东西，百分之10概率产出灵石888。",
+  "en": "When multiple productions are set, the higher the importance, the greater the chance of this item being produced (When there are multiple productions set at the same time, one will be randomly produced)\nTip: Multiple commands can be set to produce items multiple times.\n\nFor example:\nConfiguration 1 is set to not produce any item with a random weight of 90.\nConfiguration 2 is set to produce 888 Spirit Stones with a random weight of 10.\nTherefore, it has 90% chance to produce no item and 10% chance to produce 888 Spirit Stones.",
+  "pt": ""
+ },
+ "mod_chanchushuoming1": {
+  "ch": "武技",
+  "en": "Martial Skill",
+  "pt": ""
+ },
+ "mod_chanchushuoming10": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchushuoming11": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchushuoming12": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchushuoming2": {
+  "ch": "绝技",
+  "en": "Special Skill",
+  "pt": ""
+ },
+ "mod_chanchushuoming3": {
+  "ch": "身法",
+  "en": "Motion Skill",
+  "pt": ""
+ },
+ "mod_chanchushuoming4": {
+  "ch": "心法",
+  "en": "Mind Skill",
+  "pt": ""
+ },
+ "mod_chanchushuoming5": {
+  "ch": "神通",
+  "en": "Ultimate Skill",
+  "pt": ""
+ },
+ "mod_chanchushuoming6": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchushuoming7": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchushuoming8": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchushuoming9": {
+  "ch": "有概率产出秘籍",
+  "en": "Chance to drop Manual",
+  "pt": ""
+ },
+ "mod_chanchutiaojian1": {
+  "ch": "产出条件",
+  "en": "Drop Condition",
+  "pt": ""
+ },
+ "mod_chanchutiaojian2": {
+  "ch": "当条件不达成时，此条产出不会产出物品。",
+  "en": "If the condition is not met, this entry does not drop any item.",
+  "pt": ""
+ },
+ "mod_chatudiushi": {
+  "ch": "此插图已删除，无法使用！",
+  "en": "This scene has been deleted and cannot be used!",
+  "pt": ""
+ },
+ "mod_chichuntishi": {
+  "ch": "图片宽高尺寸不正确！\n图片尺寸必须是：宽：{0} 高：{1}",
+  "en": "Picture dimensions incorrect!\nPicture dimensions must be: Width {0}, Height {1}",
+  "pt": ""
+ },
+ "mod_chichunyaoqiu": {
+  "ch": "图片标准尺寸：宽{0} 高{1}",
+  "en": "Image standard measurements: Width {0}, Height {1}",
+  "pt": ""
+ },
+ "mod_chixushijian": {
+  "ch": "持续时间：",
+  "en": "Duration:",
+  "pt": ""
+ },
+ "mod_chongtutishi": {
+  "ch": "如果没有出现多个模组之间的ID冲突，请勿更改ID，否则已经载入过此模组的存档会出现数据丢失的问题！！！",
+  "en": "If there is not ID conflict between multiple Mods, do not change the ID or there will be a data loss error in the archive where the Mod has been loaded!",
+  "pt": ""
+ },
+ "mod_chuancheng1": {
+  "ch": "传承副本",
+  "en": "Traditional Dungeon",
+  "pt": ""
+ },
+ "mod_chuancheng2": {
+  "ch": "挑战传承时，进入的副本，副本胜利，则挑战传承成功。",
+  "en": "The dungeon to enter when challenging Tradition. Dungeon victory means Tradition challenge victory.",
+  "pt": ""
+ },
+ "mod_chuangjianchenggong": {
+  "ch": "创建模组成功！",
+  "en": "Created a Mod Project!",
+  "pt": ""
+ },
+ "mod_chuangjianmozu": {
+  "ch": "创建模组项目",
+  "en": "Create a Mod Project",
+  "pt": ""
+ },
+ "mod_chuangjiannpc": {
+  "ch": "创建NPC",
+  "en": "Generate NPC",
+  "pt": ""
+ },
+ "mod_chuangjiannpc1": {
+  "ch": "初始年龄（多少岁）",
+  "en": "Initial Age (years old)",
+  "pt": ""
+ },
+ "mod_chuangjiannpc10": {
+  "ch": "自定义关系数量",
+  "en": "Customize Relationship Number",
+  "pt": ""
+ },
+ "mod_chuangjiannpc11": {
+  "ch": "我是“{0}”的谁？",
+  "en": "Who am I to \"{0}\"?",
+  "pt": ""
+ },
+ "mod_chuangjiannpc12": {
+  "ch": "可自定义此NPC的关系数量，设置此NPC是玩家的谁，或者设置此NPC是其他NPC的谁。",
+  "en": "You can customize the number of relationships for this NPC, set its status in regard to the player, or its status with other NPCs.",
+  "pt": ""
+ },
+ "mod_chuangjiannpc13": {
+  "ch": "是否是天骄",
+  "en": "Heaven-chosen or not",
+  "pt": ""
+ },
+ "mod_chuangjiannpc14": {
+  "ch": "创建NPC后，NPC是否默认为天骄。",
+  "en": "Whether a generated NPC is Heaven-chosen by default.",
+  "pt": ""
+ },
+ "mod_chuangjiannpc15": {
+  "ch": "是否永生",
+  "en": "Live forever or not",
+  "pt": ""
+ },
+ "mod_chuangjiannpc16": {
+  "ch": "如设置成永生，则NPC不会死亡。",
+  "en": "If set as Live Forever, the NPC will never die.",
+  "pt": ""
+ },
+ "mod_chuangjiannpc2": {
+  "ch": "姓",
+  "en": "Surname",
+  "pt": ""
+ },
+ "mod_chuangjiannpc3": {
+  "ch": "名",
+  "en": "Name",
+  "pt": ""
+ },
+ "mod_chuangjiannpc4": {
+  "ch": "先天气运",
+  "en": "Destiny (Nature)",
+  "pt": ""
+ },
+ "mod_chuangjiannpc5": {
+  "ch": "内在性格",
+  "en": "Internal Traits",
+  "pt": ""
+ },
+ "mod_chuangjiannpc6": {
+  "ch": "外在性格",
+  "en": "External Traits",
+  "pt": ""
+ },
+ "mod_chuangjiannpc7": {
+  "ch": "自定义男性模型",
+  "en": "Customize Male Appearance",
+  "pt": ""
+ },
+ "mod_chuangjiannpc8": {
+  "ch": "自定义女性模型",
+  "en": "Customize Female Appearance",
+  "pt": ""
+ },
+ "mod_chuangjiannpc9": {
+  "ch": "自定义属性",
+  "en": "Customize Stats",
+  "pt": ""
+ },
+ "mod_chuangjianqiyu": {
+  "ch": "创建奇遇",
+  "en": "Create Adventure",
+  "pt": ""
+ },
+ "mod_chuangjianqiyun": {
+  "ch": "创建气运",
+  "en": "Create Destiny",
+  "pt": ""
+ },
+ "mod_chuangjianshijian": {
+  "ch": "创建时间{0}",
+  "en": "Creation Time {0}",
+  "pt": ""
+ },
+ "mod_chufatiaojian": {
+  "ch": "触发条件：",
+  "en": "Trigger condition:",
+  "pt": ""
+ },
+ "mod_chungjiannpc": {
+  "ch": "创建NPC",
+  "en": "Generate NPC",
+  "pt": ""
+ },
+ "mod_chushiqinmidu": {
+  "ch": "双方初始亲密度（负数为仇恨度）",
+  "en": "Initial Affinity (Negative Affinity = Hatred)",
+  "pt": ""
+ },
+ "mod_chushishouming": {
+  "ch": "填0，使用根据境界初始化的寿命",
+  "en": "If set as 0, it will use the initial lifespan based on the Realm",
+  "pt": ""
+ },
+ "mod_dabaoxiangmu1": {
+  "ch": "打包项目给开发组",
+  "en": "Package the project and send to the developer",
+  "pt": ""
+ },
+ "mod_dabaoxiangmu2": {
+  "ch": "打包项目后可进行二次编辑，可用于报错时打包给开发组进行反馈或分享给其他玩家进行二次开发。",
+  "en": "After packaging the project, it can be re-edited. This way, it can be packaged when an error occurs to give feedback to its developer or shared to other players for further development.",
+  "pt": ""
+ },
+ "mod_dakaiwangye": {
+  "ch": "打开创意工坊网页版！",
+  "en": "Open Workshop browser version!",
+  "pt": ""
+ },
+ "mod_danfang": {
+  "ch": "丹方",
+  "en": "Elixir Recipe",
+  "pt": ""
+ },
+ "mod_danweic": {
+  "ch": "NPC-C",
+  "en": "NPC-C",
+  "pt": ""
+ },
+ "mod_danweic1": {
+  "ch": "某些条件会查找一个额外的NPC，查找成功后，会把NPC设置成C，用于后续条件使用。\n\n例如：bcRelationType条件：查找NPC-B指定关系列表是否有一个NPC和NPC-A是指定关系，如查找得到则设置此NPC为C。\n然后在后续条件则可使用NPC-C的判定。",
+  "en": "Some condition may search for an additional NPC and set the NPC found as C to be used for subsequent conditions.\n\nFor example: bcRelationType condition: Searches in NPC-B's specified relationship list for an NPC who has a specified relationship with NPC-A. If there is one, sets the NPC found as C.\nNPC-C will be available in subsequent conditions.",
+  "pt": ""
+ },
+ "mod_danweileixing": {
+  "ch": "指定角色类型",
+  "en": "Specify character type",
+  "pt": ""
+ },
+ "mod_danyao1": {
+  "ch": "丹药效果",
+  "en": "Elixir Effect",
+  "pt": ""
+ },
+ "mod_danyao2": {
+  "ch": "使用丹药后，对玩家施加的效果。",
+  "en": "Effect applied to the player after using the Elixir.",
+  "pt": ""
+ },
+ "mod_danyao4": {
+  "ch": "使用道具需求资质限制",
+  "en": "Stat requirement to use item",
+  "pt": ""
+ },
+ "mod_danyao5": {
+  "ch": "需要指定资质达到多少才能使用此道具",
+  "en": "Requires stats to reach a certain value to use the item",
+  "pt": ""
+ },
+ "mod_danyao6": {
+  "ch": "资质低于多少数值才能使用丹药",
+  "en": "Stats have to be below a certain value to use the Elixir",
+  "pt": ""
+ },
+ "mod_danyaokexiedaishuliang": {
+  "ch": "战斗可携带数量",
+  "en": "The max amount to be carried in battle",
+  "pt": ""
+ },
+ "mod_danyaozhuangbei": {
+  "ch": "是否可装备",
+  "en": "Equippable or not",
+  "pt": ""
+ },
+ "mod_danyaozhuangbeitishi": {
+  "ch": "只有增加体灵念的丹药，装备后在副本中才能生效。",
+  "en": "Only equipped elixirs that increase Vitality/Energy/Focus take effect in dungeons.",
+  "pt": ""
+ },
+ "mod_daochu": {
+  "ch": "选择保存的路径",
+  "en": "Choose a save path",
+  "pt": ""
+ },
+ "mod_daochuchenggong": {
+  "ch": "导出模组成功",
+  "en": "Exported Mod",
+  "pt": ""
+ },
+ "mod_daochugongcheng1": {
+  "ch": "导出工程",
+  "en": "Export Project",
+  "pt": ""
+ },
+ "mod_daochugongcheng2": {
+  "ch": "导出模组工程后可进行二次编辑，可用于报错时导出给开发组进行反馈或分享给其他玩家进行二次开发。",
+  "en": "After exporting the mod project, it can be re-edited. This way, it can be exported when an error occurs to give feedback to its developer or shared to other players for further development.",
+  "pt": ""
+ },
+ "mod_daochugongcheng4": {
+  "ch": "导出工程成功",
+  "en": "Project exported",
+  "pt": ""
+ },
+ "mod_daochumozu": {
+  "ch": "导出模组",
+  "en": "Export Mod",
+  "pt": ""
+ },
+ "mod_daochumulu": {
+  "ch": "选择导出的目录",
+  "en": "Select the directory to export to",
+  "pt": ""
+ },
+ "mod_daohao": {
+  "ch": "道号",
+  "en": "Taoist Title",
+  "pt": ""
+ },
+ "mod_daoju1": {
+  "ch": "道具",
+  "en": "Item",
+  "pt": ""
+ },
+ "mod_daoju2": {
+  "ch": "道具名称",
+  "en": "Item Name",
+  "pt": ""
+ },
+ "mod_daoju3": {
+  "ch": "所属UI大分类",
+  "en": "UI Main Category",
+  "pt": ""
+ },
+ "mod_daoju4": {
+  "ch": "一般用于UI显示和查找归类。",
+  "en": "Generally used for UI display and search classification",
+  "pt": ""
+ },
+ "mod_daoju5": {
+  "ch": "所属UI小分类",
+  "en": "UI Subcategory",
+  "pt": ""
+ },
+ "mod_daoju6": {
+  "ch": "一般用于UI显示和查找归类。",
+  "en": "Generally used for UI display and search classification",
+  "pt": ""
+ },
+ "mod_daoju7": {
+  "ch": "道具图标",
+  "en": "Item Icon",
+  "pt": ""
+ },
+ "mod_daoju8": {
+  "ch": "道具品质",
+  "en": "Item Rarity",
+  "pt": ""
+ },
+ "mod_daoju9": {
+  "ch": "道具说明",
+  "en": "Item Description",
+  "pt": ""
+ },
+ "mod_daojubiaozhunchicun": {
+  "ch": "道具图标的标准尺寸是60*60",
+  "en": "Standard size of the item icon is 60×60",
+  "pt": ""
+ },
+ "mod_daojuid": {
+  "ch": "道具ID",
+  "en": "Item ID",
+  "pt": ""
+ },
+ "mod_daojujiazhi": {
+  "ch": "道具出售价格（-1无法出售）",
+  "en": "Item sale price(-1 cannot be sold)",
+  "pt": ""
+ },
+ "mod_daojuleixing": {
+  "ch": "道具类型",
+  "en": "Item Type",
+  "pt": ""
+ },
+ "mod_daojushuliang1": {
+  "ch": "道具数量",
+  "en": "Item Quantity",
+  "pt": ""
+ },
+ "mod_daojushuliang2": {
+  "ch": "产出的道具数量",
+  "en": "Item quantity produced",
+  "pt": ""
+ },
+ "mod_daojutubiao": {
+  "ch": "道具图标",
+  "en": "Item Icon",
+  "pt": ""
+ },
+ "mod_daoruchengong": {
+  "ch": "导入成功",
+  "en": "Imported",
+  "pt": ""
+ },
+ "mod_daorumozhu": {
+  "ch": "导入模组",
+  "en": "Import Mod",
+  "pt": ""
+ },
+ "mod_daorushibai": {
+  "ch": "模组导入失败！\n模组名称：{0}\n错误：{1}表ID重复{2}",
+  "en": "Mod import failed!\nMod name: {0}\nError: {1} table ID duplicate {2}",
+  "pt": ""
+ },
+ "mod_daorushuju": {
+  "ch": "选择导入的数据",
+  "en": "Select Import Data",
+  "pt": ""
+ },
+ "mod_daorutishi1": {
+  "ch": "选择导出的模组数据文件夹“Mod_xxxxxx”",
+  "en": "Select mod data folder Mod_xxxxxx to export",
+  "pt": ""
+ },
+ "mod_daorutishi2": {
+  "ch": "请选择“导出的”模组数据文件夹“Mod_xxxxxx”",
+  "en": "Select mod data folder Mod_xxxxxx to export",
+  "pt": ""
+ },
+ "mod_daoxin": {
+  "ch": "道心",
+  "en": "Taoist Mind",
+  "pt": ""
+ },
+ "mod_daozhong": {
+  "ch": "道种",
+  "en": "Taoist Seed",
+  "pt": ""
+ },
+ "mod_dianjishuru": {
+  "ch": "点击编辑...",
+  "en": "Click Edit...",
+  "pt": ""
+ },
+ "mod_dianjishurutishi": {
+  "ch": "点击数值编辑，输入想要的属性值，最高资质会影响NPC的初始技能类型。",
+  "en": "Select the data you wish to edit, and insert the desired Stats. The highest Stats may affect NPCs' Starting Skills",
+  "pt": ""
+ },
+ "mod_dianjisuiji": {
+  "ch": "点击随机ID",
+  "en": "Click Random ID",
+  "pt": ""
+ },
+ "mod_dianzan": {
+  "ch": "评分",
+  "en": "Rating",
+  "pt": ""
+ },
+ "mod_dianzhanguoshao": {
+  "ch": "点赞过少",
+  "en": "Too few likes",
+  "pt": ""
+ },
+ "mod_dingyuechenggong1": {
+  "ch": "订阅成功！",
+  "en": "Subscription successful!",
+  "pt": ""
+ },
+ "mod_dingyuechenggong2": {
+  "ch": "请到“本地模组”手动启用此模组！",
+  "en": "Please navigate to \"Local Mods\" to manually activate this mod!",
+  "pt": ""
+ },
+ "mod_ditudian3": {
+  "ch": "查找的区域",
+  "en": "Region to search",
+  "pt": ""
+ },
+ "mod_ditudian4": {
+  "ch": "例如查找的是所有城镇，可以限制区域，只查找指定区域的城镇。",
+  "en": "E.g., if you want to search all the towns, you can add a restriction to only search towns in a specified region.",
+  "pt": ""
+ },
+ "mod_ditudian5": {
+  "ch": "大地图X坐标",
+  "en": "World map x coordinate",
+  "pt": ""
+ },
+ "mod_ditudian6": {
+  "ch": "大地图Y坐标",
+  "en": "World map y coordinate",
+  "pt": ""
+ },
+ "mod_dituweizhi": {
+  "ch": "大地图位置",
+  "en": "World Map Location",
+  "pt": ""
+ },
+ "mod_dituweizhishuoming": {
+  "ch": "大地图位置一般在任务，奇遇上会使用，如任务目标点（通过大地图位置功能，可以查找指定事件的位置）",
+  "en": "World map location is often used in missions and adventures, such as the mission target location (use the world map's location function to find the location of the specified event)",
+  "pt": ""
+ },
+ "mod_dituweizi": {
+  "ch": "大地图位置",
+  "en": "World Map Location",
+  "pt": ""
+ },
+ "mod_diushitishi1": {
+  "ch": "清理丢失提示",
+  "en": "Erase Warning",
+  "pt": ""
+ },
+ "mod_diushitishi2": {
+  "ch": "是否永久清理所有移除的模组提示，并进入游戏？",
+  "en": "Remove all deleted mod notices permanently and enter the game?",
+  "pt": ""
+ },
+ "mod_duoxuan": {
+  "ch": "（多选）",
+  "en": "(multi-select)",
+  "pt": ""
+ },
+ "mod_fabaoid": {
+  "ch": "法宝ID",
+  "en": "Artifact ID",
+  "pt": ""
+ },
+ "mod_fabaoshuxingda": {
+  "ch": "属性随机最大值（百分比）",
+  "en": "Random maximum Stats (Percentage)",
+  "pt": ""
+ },
+ "mod_fabaoshuxingmiaoshu": {
+  "ch": "每个境界的法宝都有标准属性（攻击、防御、体力等等属性）\n\n例如：创建的是炼气期法宝，炼气期标准攻击力是12，体力是120。\n\n假如属性随机最小最大值都填的是200，那么此炼气期的法宝实际属性，攻击力是24，体力是240。",
+  "en": "Artifacts of each Realm have their standard stats (ATK, DEF, Vitality, etc.)\n\nFor example, if you create a Qi Refining Artifact, its standard ATK is 12 and Vitality is 120.\n\nIf the minimum and maximum values for random stats are both 200, then the Artifact's actual ATK will be 24 and Vitality will be 240.",
+  "pt": ""
+ },
+ "mod_fabaoshuxingxiao": {
+  "ch": "属性随机最小值（百分比）",
+  "en": "Random minimum Stats (Percentage)",
+  "pt": ""
+ },
+ "mod_fanweisuiji": {
+  "ch": "在玩家多少范围内随机",
+  "en": "Randomize in approximate area around Player",
+  "pt": ""
+ },
+ "mod_fanweisuiji1": {
+  "ch": "例如填1：则NPC出生时在玩家脚底。填3：则NPC出生时在玩家周围3圈内随机一个位置。",
+  "en": "For example, if you fill in 1, the NPC spawns under the player's feet. If you fill in 3, the NPC spawns in a random location within 3 circumferences of the player.",
+  "pt": ""
+ },
+ "mod_faq1": {
+  "ch": "教程",
+  "en": "Tutorial",
+  "pt": ""
+ },
+ "mod_faq2": {
+  "ch": "打开",
+  "en": "Open",
+  "pt": ""
+ },
+ "mod_faq3": {
+  "ch": "教程列表",
+  "en": "Tutorial List",
+  "pt": ""
+ },
+ "mod_feiqibiaoji": {
+  "ch": "标记废弃",
+  "en": "Mark as invalid",
+  "pt": ""
+ },
+ "mod_feiqibiaojitishi": {
+  "ch": "当模组上线后，删除表有可能会导致载入过此模组的存档丢失数据（例如气运表，存档已经添加了这个气运，但是气运数据被删除了），可以标记为废弃，将会改变表的排序到最底下。",
+  "en": "When the Mod is online, deleting a table may cause data loss in a save that has been loaded with this Mod (E.g., if the Destiny table that has been loaded to a save is deleted, the Destiny data will be lost). You may mark the table as invalid instead. This will move it to the bottom of the line.",
+  "pt": ""
+ },
+ "mod_fenbianlvtishi": {
+  "ch": "16：9（常用分辨率1920*1080、960*540、480*270）",
+  "en": "16:9 (Common resolutions 1920×1080, 960×540, 480×270)",
+  "pt": ""
+ },
+ "mod_fenxiang": {
+  "ch": "导出模组",
+  "en": "Export Mod",
+  "pt": ""
+ },
+ "mod_fenxiang1": {
+  "ch": "导出模组",
+  "en": "Export Mod",
+  "pt": ""
+ },
+ "mod_fenxiang2": {
+  "ch": "分享给朋友",
+  "en": "Share to friend",
+  "pt": ""
+ },
+ "mod_fenxiang3": {
+  "ch": "1：点击“导出模组”，会生成模组文件。\n2：打开主界面的“本地模组”导入后模组才能生效。",
+  "en": "1. Click on Export Mod to generate the mod file.\n2. Open Local Mods in the main interface and import the mod to activate it.",
+  "pt": ""
+ },
+ "mod_fenxiang4": {
+  "ch": "导出模组后，打开主界面的“本地模组”导入后模组才能生效。\n\n分享的模组不可进行二次编辑，用于上传分享，其他玩家可导入模组游玩此模组。",
+  "en": "After exporting the mod, you need to open Local Mods in the main interface and import the mod to activate it.\n\nA shared mod cannot be re-edited. It can be uploaded to be shared to other players, who can import the mod to play it.",
+  "pt": ""
+ },
+ "mod_fenzu1": {
+  "ch": "移动分组",
+  "en": "Change group",
+  "pt": ""
+ },
+ "mod_fenzu10": {
+  "ch": "不能删除、修改默认分组！",
+  "en": "You cannot delete or modify the default group!",
+  "pt": ""
+ },
+ "mod_fenzu11": {
+  "ch": "您即将离开鬼谷八荒，去往第三方平台。",
+  "en": "You are about to leave Tale of Immortal and head for a third-party platform.",
+  "pt": ""
+ },
+ "mod_fenzu2": {
+  "ch": "当配置过多时，归类不同的分组，方便查阅。\n\n例如：有5大剧情，每个剧情几十条对话数据，则可新建5个分组归类剧情。",
+  "en": "When there are too many configurations, you may sort them into different groups for ease of reference.\n\nFor example: There are 5 major plots, and each plot consists of dozens of dialogue lines, so you may create 5 groups to sort the plots.",
+  "pt": ""
+ },
+ "mod_fenzu3": {
+  "ch": "+",
+  "en": "+",
+  "pt": ""
+ },
+ "mod_fenzu4": {
+  "ch": "默认分组",
+  "en": "Default group",
+  "pt": ""
+ },
+ "mod_fenzu5": {
+  "ch": "分组数据列表为空，分组已删除！",
+  "en": "The group is empty and has been deleted!",
+  "pt": ""
+ },
+ "mod_fenzu6": {
+  "ch": "创建新的分组",
+  "en": "Create new group",
+  "pt": ""
+ },
+ "mod_fenzu7": {
+  "ch": "存在相同名字的分组！",
+  "en": "There is already a group with this name!",
+  "pt": ""
+ },
+ "mod_fenzu8": {
+  "ch": "是否删除此分组？删除后，所有数据移动到默认分组。",
+  "en": "Delete this group? All data will be moved to the default group.",
+  "pt": ""
+ },
+ "mod_fenzu9": {
+  "ch": "修改分组名称",
+  "en": "Edit group name",
+  "pt": ""
+ },
+ "mod_fuben1": {
+  "ch": "副本名称",
+  "en": "Dungeon Name",
+  "pt": ""
+ },
+ "mod_fuben10": {
+  "ch": "精英怪物列表",
+  "en": "Elite Monster List",
+  "pt": ""
+ },
+ "mod_fuben11": {
+  "ch": "精英怪物每波创建数量",
+  "en": "Elite Monster Qty Per Wave",
+  "pt": ""
+ },
+ "mod_fuben12": {
+  "ch": "填-1，则创建列表里的全部怪物。\n\n例子1：怪物波数填3；怪物列表填10只怪物；每波创建数量填-1。\n则一个房间里生成3波怪物，每一波把怪物列表里的10只怪物创建出来，一个房间里总共30个怪物。\n\n例子2：怪物波数填3；怪物列表填10只怪物，每波创建数量填5。\n则一个房间里生成3波怪物，每一波在怪物列表里随机选择创建5个怪物，一个房间里总共15个怪物。",
+  "en": "Enter -1 to generate all the monsters in the list.\n\nExample 1: Monster Waves set as 3, 10 monsters in Monster List, Qty Per Wave set as -1.\nAs a result, 3 waves of monsters are generated in one room, and each wave consists of the 10 monsters in the Monster List, that is, 30 monsters in total in the room.\n\nExample 2: Monster Waves set as 3, 10 monsters in Monster List, Qty Per Wave set as 5.\nAs a result, 3 waves of monsters are generated in one room, and each wave consists of 5 random monsters from the Monster List, that is, 15 monsters in total in the room.",
+  "pt": ""
+ },
+ "mod_fuben13": {
+  "ch": "是否创建BOSS房间",
+  "en": "Create BOSS room?",
+  "pt": ""
+ },
+ "mod_fuben14": {
+  "ch": "如果选择创建BOSS房间，则会额外生成一个BOSS房间。\n\n提示：房间数量可以配置为0，设置创建BOSS房间，则只会有一个BOSS房间，没有普通房间。",
+  "en": "If you create a BOSS room, there will be an extra BOSS room.\n\nTip: Room qty can be set as 0. If you create a BOSS room, there will only be a BOSS room and no normal rooms.",
+  "pt": ""
+ },
+ "mod_fuben15": {
+  "ch": "BOSS怪物列表",
+  "en": "BOSS Monster List",
+  "pt": ""
+ },
+ "mod_fuben16": {
+  "ch": "创建BOSS时，会在怪物列表里根据配置的权重，随机选择创建一个BOSS。",
+  "en": "When generating a BOSS, a random BOSS is generated according to the weights set in the Monster List.",
+  "pt": ""
+ },
+ "mod_fuben17": {
+  "ch": "副本胜利后执行命令",
+  "en": "Execute command after dungeon victory",
+  "pt": ""
+ },
+ "mod_fuben18": {
+  "ch": "副本失败后执行命令",
+  "en": "Execute command after dungeon defeat",
+  "pt": ""
+ },
+ "mod_fuben19": {
+  "ch": "是否有战斗准备界面",
+  "en": "With or without battle preparation interface",
+  "pt": ""
+ },
+ "mod_fuben2": {
+  "ch": "副本场景",
+  "en": "Dungeon Scene",
+  "pt": ""
+ },
+ "mod_fuben20": {
+  "ch": "如果填是，则在大地图执行进入副本命令前，会打开战斗准备界面。\n\n如果填否，则在大地图执行进入副本命令后立刻进入副本。",
+  "en": "When set to Yes, battle preparation interface is opened before executing Enter Dungeon command on the world map.\n\nWhen set to No, you enter the dungeon immediately after executing Enter Dungeon command on the world map.",
+  "pt": ""
+ },
+ "mod_fuben21": {
+  "ch": "场景宽度",
+  "en": "Scene Width",
+  "pt": ""
+ },
+ "mod_fuben22": {
+  "ch": "场景高度",
+  "en": "Scene Height",
+  "pt": ""
+ },
+ "mod_fuben23": {
+  "ch": "标准场景一个屏幕的宽度，数值为40。\n\n注意：部分场景不可修改大小，如若进游戏发现场景显示异常，请不要修改场景宽高默认值。",
+  "en": "The width of the screen in a standard scene is 40.\n\nNote: This parameter is fixed for some scenes. If you find the scene not properly displayed in the game, don't try to change the default width and height of the scene.",
+  "pt": ""
+ },
+ "mod_fuben24": {
+  "ch": "标准场景一个屏幕的高度，数值为20。\n\n注意：部分场景不可修改大小，如若进游戏发现场景显示异常，请不要修改场景宽高默认值。",
+  "en": "The height of the screen in a standard scene is 20.\n\nNote: This parameter is fixed for some scenes. If you find the scene not properly displayed in the game, don't try to change the default width and height of the scene.",
+  "pt": ""
+ },
+ "mod_fuben25": {
+  "ch": "战斗时间限制（-1无限制）",
+  "en": "Battle Time Limit (-1 means no limit)",
+  "pt": ""
+ },
+ "mod_fuben26": {
+  "ch": "可结合胜利、失败条件使用。\n\n例如：配置副本时间限制30秒，胜利条件为，到达副本时间限制，则玩家在副本坚持到时间结束后则胜利。",
+  "en": "Can be used with victory or defeat conditions.\n\nFor example, if the dungeon time limit is set to 30 seconds, and the victory condition is dungeon time out, the player wins if the player survives until the dungeon timer runs out.",
+  "pt": ""
+ },
+ "mod_fuben27": {
+  "ch": "大地图副本图标",
+  "en": "World Map Dungeon Icon",
+  "pt": ""
+ },
+ "mod_fuben3": {
+  "ch": "部分场景不可自定义宽高。",
+  "en": "Width and height can not be customized in some scenes.",
+  "pt": ""
+ },
+ "mod_fuben4": {
+  "ch": "房间数量",
+  "en": "Room Qty",
+  "pt": ""
+ },
+ "mod_fuben5": {
+  "ch": "决定创建几个普通房间，如果设置创建BOSS房间，则会额外多出一个BOSS房间。\n\n提示：房间数量可以配置为0，设置创建BOSS房间，则只会有一个BOSS房间，没有普通房间。",
+  "en": "Decide how many normal rooms to create. If you create a BOSS room, there will be an extra BOSS room.\n\nTip: Room qty can be set as 0. If you create a BOSS room, there will only be a BOSS room and no normal rooms.",
+  "pt": ""
+ },
+ "mod_fuben6": {
+  "ch": "普通怪物波数",
+  "en": "Normal Monster Waves",
+  "pt": ""
+ },
+ "mod_fuben7": {
+  "ch": "普通怪物列表",
+  "en": "Normal Monster List",
+  "pt": ""
+ },
+ "mod_fuben8": {
+  "ch": "普通怪物每波创建数量",
+  "en": "Normal Monster Qty Per Wave",
+  "pt": ""
+ },
+ "mod_fuben9": {
+  "ch": "精英怪物波数",
+  "en": "Elite Monster Waves",
+  "pt": ""
+ },
+ "mod_fumianqiyun": {
+  "ch": "（负面）",
+  "en": "(Negative)",
+  "pt": ""
+ },
+ "mod_fuzhishuju": {
+  "ch": "复制数据",
+  "en": "Copy data",
+  "pt": ""
+ },
+ "mod_fuzhitishi": {
+  "ch": "注意：效果、命令、条件，是不可复制的，复制配置后这些数据会丢失！",
+  "en": "Note: Effects, commands, and conditions cannot be copied. Such data will be lost after copying the configuration!",
+  "pt": ""
+ },
+ "mod_gaojigongneng": {
+  "ch": "高级功能",
+  "en": "Advanced Functions",
+  "pt": ""
+ },
+ "mod_gaojipeizhi": {
+  "ch": "高级配置（可使用默认值）",
+  "en": "Advanced settings (Default values can be used)",
+  "pt": ""
+ },
+ "mod_gengduocaozuo": {
+  "ch": "更多",
+  "en": "More",
+  "pt": ""
+ },
+ "mod_gengxin": {
+  "ch": "更新",
+  "en": "Update",
+  "pt": ""
+ },
+ "mod_gengxinriqi": {
+  "ch": "更新日期：",
+  "en": "Update Date:",
+  "pt": ""
+ },
+ "mod_geyue": {
+  "ch": "{0}个月",
+  "en": "{0} month(s)",
+  "pt": ""
+ },
+ "mod_gongnengliebiao": {
+  "ch": "功能列表",
+  "en": "Function List",
+  "pt": ""
+ },
+ "mod_guaiwu1": {
+  "ch": "怪物名称",
+  "en": "Monster Name",
+  "pt": ""
+ },
+ "mod_guaiwu10": {
+  "ch": "权重越高，则创建出来的概率越高。\n\n例如：副本怪物列表有10个怪物，每波创建数量2，则每波都会在10个怪物里面随机选择两个怪物创建，权重越高越容易创建。\n\n提示：一般掉落稀有道具的怪物，可稍微降低出现权重。",
+  "en": "The higher the weight, the more likely this monster is generated.\n\nFor example: There are 10 monsters in the Dungeon Monster List, and Qty Per Wave is set as 2, then 2 monsters are randomly picked from the list to be generated every wave. The higher the weight of a monster, the more likely it is generated.\n\nTip: You are advised to set the weight of a monster that drops rare items slightly lower.",
+  "pt": ""
+ },
+ "mod_guaiwu11": {
+  "ch": "怪物列表",
+  "en": "Monster List",
+  "pt": ""
+ },
+ "mod_guaiwu12": {
+  "ch": "怪物",
+  "en": "Monster",
+  "pt": ""
+ },
+ "mod_guaiwu13": {
+  "ch": "指定属性缩放百分比",
+  "en": "Specified Stats Scale Ratio",
+  "pt": ""
+ },
+ "mod_guaiwu14": {
+  "ch": "可以缩放指定的属性。\n\n例如：可以把血量缩放10倍，则最终怪物血量会非常高。",
+  "en": "Scales up or down specified stats.\n\nFor example: If you scale up HP by x10, the monster will have a very high HP.",
+  "pt": ""
+ },
+ "mod_guaiwu15": {
+  "ch": "指定属性",
+  "en": "Specified Stats",
+  "pt": ""
+ },
+ "mod_guaiwu16": {
+  "ch": "属性缩放百分比",
+  "en": "Stats Scale",
+  "pt": ""
+ },
+ "mod_guaiwu17": {
+  "ch": "默认100（一倍），例如指定属性hp，缩放1000，则怪物最终的血量比正常的高10倍。",
+  "en": "100 (x1) by default. For example, if you set it to 1,000 and scale up HP, the monster's final HP will be 10 times the normal value.",
+  "pt": ""
+ },
+ "mod_guaiwu18": {
+  "ch": "怪物指定属性缩放",
+  "en": "Monster Specified Stats Scale",
+  "pt": ""
+ },
+ "mod_guaiwu19": {
+  "ch": "配置名称后，若怪物是BOSS，会在顶部显示BOSS名称。",
+  "en": "After setting a name, if the monster is a BOSS, its name will be displayed over its head.",
+  "pt": ""
+ },
+ "mod_guaiwu2": {
+  "ch": "怪物模型",
+  "en": "Monster Model",
+  "pt": ""
+ },
+ "mod_guaiwu20": {
+  "ch": "（固定大小的场景，不可修改场景宽高）",
+  "en": "(The width and height of a scene with a fixed size cannot be changed)",
+  "pt": ""
+ },
+ "mod_guaiwu21": {
+  "ch": "怪物模型包含了怪物技能，怪物模型和技能是绑定的。",
+  "en": "Monster Model includes monster skills. Each monster model has a fixed set of skills.",
+  "pt": ""
+ },
+ "mod_guaiwu22": {
+  "ch": "副本",
+  "en": "Dungeon",
+  "pt": ""
+ },
+ "mod_guaiwu23": {
+  "ch": "怪物",
+  "en": "Monster",
+  "pt": ""
+ },
+ "mod_guaiwu24": {
+  "ch": "（BOSS）",
+  "en": "(BOSS)",
+  "pt": ""
+ },
+ "mod_guaiwu25": {
+  "ch": "（精英）",
+  "en": "(Elite)",
+  "pt": ""
+ },
+ "mod_guaiwu26": {
+  "ch": "（普通）",
+  "en": "(Normal)",
+  "pt": ""
+ },
+ "mod_guaiwu27": {
+  "ch": "所有怪物",
+  "en": "All Monsters",
+  "pt": ""
+ },
+ "mod_guaiwu28": {
+  "ch": "普通怪物",
+  "en": "Normal Monsters",
+  "pt": ""
+ },
+ "mod_guaiwu29": {
+  "ch": "精英怪物",
+  "en": "Elite Monsters",
+  "pt": ""
+ },
+ "mod_guaiwu3": {
+  "ch": "整体属性百分比",
+  "en": "Overall Stats Percentage",
+  "pt": ""
+ },
+ "mod_guaiwu30": {
+  "ch": "BOSS怪物",
+  "en": "BOSS Monsters",
+  "pt": ""
+ },
+ "mod_guaiwu31": {
+  "ch": "预览",
+  "en": "Preview",
+  "pt": ""
+ },
+ "mod_guaiwu32": {
+  "ch": "场景背景音乐",
+  "en": "Scene Background Music",
+  "pt": ""
+ },
+ "mod_guaiwu33": {
+  "ch": "模型大小百分比",
+  "en": "Model Size Percentage",
+  "pt": ""
+ },
+ "mod_guaiwu34": {
+  "ch": "缩放怪物的模型大小。\n\n例如：把普通小怪的模型缩放值填200，那么小怪将放大2倍，可以当成BOSS使用。",
+  "en": "Scales up or down monster size.\n\nFor example: If you set normal monster size scale to 200, a normal monster will be 2 times larger and can be used as a BOSS.",
+  "pt": ""
+ },
+ "mod_guaiwu4": {
+  "ch": "默认100（一倍），例如填1000，则怪物是原来的十倍属性，进入炼气期副本，此怪物属性大约和结晶期一样。\n\n提示：如某个怪物会产出稀有物品，则可相应的提高一点属性百分比。",
+  "en": "100 (x1) by default. For example, if it is set as 1,000, monster stats will be tenfold. When entering a Qi Refining Realm dungeon, the monster stats will be roughly the same as the Qi Condensation Realm.\n\nTip: If a monster drops rare items, you are advised to slightly raise its stats percentage.",
+  "pt": ""
+ },
+ "mod_guaiwu5": {
+  "ch": "首次击杀后掉落的物品",
+  "en": "First Kill Item Drop",
+  "pt": ""
+ },
+ "mod_guaiwu6": {
+  "ch": "如果配置了首次击杀掉落，则第一次杀死此怪物会走首次掉落，不走普通掉落。",
+  "en": "If first kill drop is configured, killing the monster for the first time will trigger the first kill drop, not the normal drop.",
+  "pt": ""
+ },
+ "mod_guaiwu7": {
+  "ch": "击杀后掉落的物品",
+  "en": "Kill Item Drop",
+  "pt": ""
+ },
+ "mod_guaiwu8": {
+  "ch": "击杀怪物后，会产出什么东西。\n\n提示：可配置有概率掉落一些灵石。",
+  "en": "Item dropped by the monster when it's killed.\n\nTip: You may set a chance to drop some Spirit Stones.",
+  "pt": ""
+ },
+ "mod_guaiwu9": {
+  "ch": "出现权重",
+  "en": "Appearance Weight",
+  "pt": ""
+ },
+ "mod_haotianyanjineng": {
+  "ch": "昊天眼技能",
+  "en": "Eye of Providence Skill",
+  "pt": ""
+ },
+ "mod_huodong": {
+  "ch": "活动",
+  "en": "Activity",
+  "pt": ""
+ },
+ "mod_huodongneirong": {
+  "ch": "<align=center><size=30>鬼谷八荒MOD创作先锋赛</size></align>\n\n《鬼谷八荒》Steam创意工坊正式开启！ 为了回馈MOD创作者的努力，也为了丰富各位的游玩体验，鬼谷八荒将启动MOD创作先锋赛，将有多个赛区的高额奖金等你来赢！将自制MOD相关视频投稿到本次活动独家合作平台B站，并附上 #鬼谷八荒MOD先锋赛# 话题，还将有机会获得B站官方推荐、专项扶持奖金等多维激励。欢迎各位MOD创作者前来参与！\n\n1. 参与方式：\n　·截至7月3日24:00，上传自制MOD至Steam创意工坊，并标记上该MOD准备参赛的分区类型。\n　·同时邮件发送MOD文件至info@lightning.games，同时编辑标题为【鬼谷八荒MOD大赛第一期】+参赛分区+作品名称+参赛账号的Steam昵称；如果在发送邮件的过程中遇到问题，可以添加QQ：3328746784进行咨询。 \n　·烦请各位投稿作者保持邮件通讯畅通，以便建立及时有效的交流。\n\n2. 参赛资格：\n　·将模组移植入官方MOD编辑器框架中，并正确验证订阅后自动下载与更新的MOD方可参加。\n　·遵守模组编辑器的用户协议，MOD包中不包含违规内容方可参加。\n　·制作者需保证模组可以在游戏中正常运行方可参加。\n　·MOD创作者提前备好图片，同时在创意工坊中对MOD进行简单介绍，以便大家了解MOD。\n　·审核员会对MOD上传者的身份进行核实，如发现假用他人模组作为原创作品来参与比赛者将被直接取消比赛资格。\n\n3. 活动奖项：\n　·优秀MOD奖，由订阅数在分区中的排名决定奖项。每1个MOD只能参与1个参赛分区的评选。该分区为您在报名邮件中填写的参赛分区。\n　·工作室钟爱奖，将由工作室游玩评测选出。\n　·B站新星奖，由B站通过投稿的综合数据评选得出。\n　·MOD可在以上3种奖项中同时获奖。\n　3.1 优秀MOD奖评奖标准：\n　　·将按照参赛分区的订阅数作为主要指标。\n　　·我们将测评该MOD是否属于该参赛分区；是否存在违规拉票行为。分区错误或不符合赛道要求的MOD，将被归入正确分区并按照该分区数据排位；违规拉票者将被取消参赛资格；如发现假用他人模组作为原创作品来参与比赛者将被直接取消比赛资格。如有获奖排名内的MOD涉及以上情况，将对结果和处理原因进行公示。\n　　·7月17日12时，我们将合计所有参赛MOD的订阅数，同时进行上述裁定，并于7月29日公示最后的名单。\n　　·每个MOD只能选择一种分区进行上传评奖。\n　　3.1.1 优秀MOD评奖分区及奖池\n　　　·大型综合MOD\n　　　·参与本条赛道的MOD需要包含贯穿4个或以上境界的连续剧情任务，并同时包含【战斗】、【美化】、【功能】3条赛道中的1条或以上赛道内容。【道具\\\\气运\\\\人物\\\\短剧情】赛道作为剧情任务的一部分，不包括在可选的附加赛道内。同时，参与了本赛道的MOD的拆分内容不能再参与其他赛道的评比。\n　　　　i.一等奖（榜首）：18888元\n　　　　ii.二等奖（榜二）：8888元\n　　　　iii.三等奖（榜三）：3888元\n　　　·美化（地图美化，人物美化等内容）\n　　　　i.一等奖（榜首）：3888元\n　　　　ii.二等奖（榜二）：1888元\n　　　　iii.三等奖（榜三）：888元\n　　　·战斗（流派，技能，BOSS，副本等，只做逆天改命和气运请投道具气运人物赛道）\n　　　　i.一等奖（榜首）：3888元\n　　　　ii.二等奖（榜二）：1888元\n　　　　iii.三等奖（榜三）：888元\n　　　·功能（新的功能性地点、UI优化、体验优化等内容）\n　　　　i.一等奖（榜首）：1888元\n　　　　ii.二等奖（榜二）：888元\n　　　　iii.三等奖（榜三）：588元\n　　　　iv. 优秀奖（榜四、五）：388元\n　　　·道具\\\\气运\\\\人物\\\\短剧情（气运，逆天改命，坐骑，物品，NPC以及奇遇或流程较短的剧情任务等内容）\n　　　　i.一等奖（榜首）：888元\n　　　　ii.二等奖（榜二）：588元\n　　　　iii.三等奖（榜三）：388元\n　　　　iv.优秀奖（榜四、五）：188元\n　　3.1.2 工作室钟爱奖\n　　　·投稿到大赛中，并且在比赛期间订阅量超过1000后，将进入官方评测名单，工作室将从中挑选出10个工作室喜爱的MOD并分别给予其作者每人888元奖励和《鬼谷八荒》官方周边大礼包（礼包内容：抱枕，耳机，勋章）。\n　　3.1.3 B站新星-活动时间独立计算\n　　　·投稿时间：6月30日之前（含6月30日）\n　　　·数据计算时间：即日起至6月30日\n　　　·参加条件：\n　　　　·MOD作者：本人将自制MOD介绍视频投稿到B站，投稿过程中勾选“鬼谷八荒MOD先锋赛”话题。\n　　　　·玩家：投稿MOD相关视频，投稿过程中勾选“鬼谷八荒MOD先锋赛”话题。 \n　　　·B站官方将会为本次活动中的部分投稿视频提供专题页曝光，综合数据好的优秀MOD和投稿可以获得B站官方推荐和专项扶持奖金。（非MOD作者本人投稿也有资格获得本项奖励）\n　　　·活动结束后，将由B站官方挑选出5个综合数据和玩家反馈都好的优质MOD，由发行商向作者颁发1000元奖金，并有可能获得十万以上粉丝UP主的试玩推荐。\n\n4. 活动时间：\n　·投稿时间：7月3日24:00之前（含7月3日）\n　·优秀MOD奖数据计算时间： 7月17日12:00截止\n　·奖励公布时间：7月29日\n\n5. 奖励发放：\n　·收到并确认获奖MOD作者本人的收款信息或收获地址后的30个工作日内给获奖作者，非大陆作者如果无法成功接收转账，奖金将由等额的亚马逊消费券替代。\n\n本活动的最终解释权归鬼谷工作室所有\n",
+  "en": "<align=center><size=30>TOI Mod Contest S1</size></align>\n\n\n\nSteam Workshop for Tale of Immortal is now available! To reward the efforts of the mod creators and enrich the game content, we decided to hold a mod creation contest with multiple sections offering high rewards, welcome all the creators to join and show your excellent talents！\n\n1. Registration channel：\n　·Upload your original mod to TOI Workshop and mark it with the contest category, before July 3rd 24:00 CST.\n　·Package your mod into zip format and send it to [ info@lightning.games ] with a title: [TOI Mod Contest S1] Contest Category + Mod Name + The nickname of the Steam account you use to upload your mod. \n　·Please keep your email open so that we can contact you in time.\n\n2. Entry qualification：\n　·The mod should be in the official mod editor framework, which can be automatically downloaded and updated after being subscribed.\n　·Only mods that meet TOI community regulations can be registered and win awards.\n　·The mod can run normally in the game.\n　·The mod has a picture and text introduction to briefly show its functions and characteristics.\n　·The identity of the uploader will be verified by the moderator, and anyone found to have signed up for the contest using another creator's mod will be disqualified.\n\n3. Creator Award：\n　3.1 The criteria for Creator Award\n　　·The number of subscriptions will be the main criteria to score.\n　　·We will evaluate whether the mods belong to the registered categories. The mods that do not meet the requirements of the registered categories will be assigned to the correct categories.Canvassing in violation of community rules is prohibited and will be disqualified.The identity of the uploader will be verified by the moderator, and anyone found to have signed up for the contest using another creator's mod will be disqualified.If any mod in the award ranking is involved in the above situation, the results and reasons for handling will be publicized.\n　　·We will sum up the subscription count for all participating mods at 12:00 on July 17th CST, make the above decision, and announce the final list on July 29th CST.\n　　·Each mod can only be uploaded to one category and awarded once, and will be ranked and awarded in the category registered in the mail.\n\n　3.2 Categories and Prizes for Creator Award\n　　·Large Integrated\n　　·Mods that are registered for this category should include a series of quests that run through 4 or more echelons.\n　　·At the same time, they should also meet the requirements of one or more of the three categories: [Battle], [Beautify] and [Function].\n　　　*i.e. The category [Item, Destiny, Character, Short Story] is not in the additional category list.\n　　·Besides, all content in Mods that have been registered for this category can not be extracted, packed and registered for the other categories at the same time.\n　　　i.First Prize (Rank 1)：RMB18888\n　　　ii.Second Prize (Rank 2)：RMB8888\n　　　iii.Third Prize (Rank 3)：RMB3888\n　　·Beautify (Map Beautify, Character Beautify, etc)\n　　　i.First Prize (Rank 1)：RMB3888\n　　　ii.Second Prize (Rank 2)：RMB1888\n　　　iii.Third Prize (Rank 3)：RMB888\n　　·Battle (Skill, BOSS, Instance Zone, etc.The mods only work on destiny or rewrite destiny should be registered for [Item, Destiny, Character, Short Story])\n　　　i.First Prize (Rank 1)：RMB3888\n　　　ii.Second Prize (Rank 2)：RMB1888\n　　　iii.Third Prize (Rank 3)：RMB888\n　　·Function (New Functional Locations, UI Optimizations, Experience Optimizations, etc.)\n　　　i.First Prize (Rank 1)：RMB1888\n　　　ii.Second Prize (Rank 2)：RMB888\n　　　iii.Third Prize (Rank 3)：RMB588\n　　　iv.Honorable Prize (Rank 4-5)：RMB388\n　　·Item, Destiny, Character, Short story (Destiny, Rewrite Destiny, Mount, Item, NPC, Adventure or short story quest, etc.)\n　　　i.First Prize (Rank 1)：RMB888\n　　　ii.Second Prize (Rank 2)：RMB588\n　　　iii.Third Prize (Rank 3)：RMB388\n　　　iv.Honorable Prize (Rank 4-5)：RMB188\n\n　3.3. Studio Award：\n　　·The participating mods with more than 1000 subscriptions during the contest, will enter the official evaluation list, from which studio members will select 10 favourite mods. \n　　·Each creator of the select mods will be rewarded with RMB888 and TOI official peripheral gift packages including pillows, headphones and medals.\n　　　*The creators having received the Creator award can gain the Studio Award at the same time, as an extra.\n\n4. Time Schedule：\n　　·Submission time: before July 3rd 24:00 CST\n　　·Creator Award data calculation time: before July 17th 12:00 CST\n　　·Award announcement date: July 29th CST\n5. Prize delivery：\n　　·For creators living in Chinese mainland: \n　　·Will be delivered within 30 working days after receiving and confirming the payment information or receiving address of the awarded mod creator.\n　　　*Please note: If the creator does not have the appropriate bank card to accept the transfer, we will offer an Amazon card of the same amount, calculated at the exchange rate on July 29th CST.\n\n6. Contact us：\n　　·If you have any questions about the contest, please join our Discord server through the link below and post your questions on the LOOKING-FOR-HELP channel.\n　　·https://discord.gg/6KKh3v7V5e\n\nThe final interpretation of this contest belongs to the Tale of Immortal studio\n",
+  "pt": ""
+ },
+ "mod_huyao": {
+  "ch": "壶妖",
+  "en": "Imp",
+  "pt": ""
+ },
+ "mod_idchongtutishi": {
+  "ch": "注意：如果是ID冲突错误，冲突的ID如果无法在模组中找到，则此ID是导出模组时动态创建的，只需要重新导出模组即可！",
+  "en": "Note: If it is an ID conflict error, if the conflicting ID cannot be found in the Mod, the ID was created dynamically when the Mod was exported and you just need to re-export the Mod!",
+  "pt": ""
+ },
+ "mod_idfanwei": {
+  "ch": "此范围ID不可使用：-10001到100000000（一亿）",
+  "en": "The ID range is not available: -10001 to 100000000 (One hundred million)",
+  "pt": ""
+ },
+ "mod_idkefuzhi": {
+  "ch": "ID（可复制粘贴）",
+  "en": "ID (Can be copy-pasted)",
+  "pt": ""
+ },
+ "mod_idtishi": {
+  "ch": "ID是数据表里一项数据的唯一标识，当同一个表的ID重复时，将会导致ID冲突。\n\n多个模组之间的ID冲突时，需要模组作者手动修改ID。\n\nID会自动随机，当随机到重复ID时，导入模组会失败，需要作者重新随机ID。",
+  "en": "ID is a unique identifier of a data item in a data table. Duplicate IDs in the same table leads to ID conflict.\n\nIf there are ID conflicts between multiple Mods, the Mod author has to change the ID manually.\n\nIDs are randomized automatically, and when the duplicate ID is randomized, the imported Mod fails and the author has to randomize the ID again.",
+  "pt": ""
+ },
+ "mod_jiaruzongmentishi": {
+  "ch": "只有新增了小宗门，或者自定义了现有宗门，或者新增了普通宗门，才能让NPC加入宗门。",
+  "en": "You may have an NPC join a Sect only after you add a new Minor Sect, customize an existing Sect, or add a new Normal Sect.",
+  "pt": ""
+ },
+ "mod_jiazai1": {
+  "ch": "已取消加载！",
+  "en": "Unsubscribed!",
+  "pt": ""
+ },
+ "mod_jiazai2": {
+  "ch": "成功加载到游戏中！",
+  "en": "Successfully added to game!",
+  "pt": ""
+ },
+ "mod_jiazai3": {
+  "ch": "找不到本地模组文件，请确保已经下载完成，或尝试重新订阅！",
+  "en": "Unable to find local mod files. Please confirm that the download is complete, or try resubscribing!",
+  "pt": ""
+ },
+ "mod_jiazaichenggong": {
+  "ch": "加载模组成功！",
+  "en": "Loaded a Mod Project!",
+  "pt": ""
+ },
+ "mod_jiazaidaoyouxi": {
+  "ch": "加载到游戏中",
+  "en": "Loaded to the game",
+  "pt": ""
+ },
+ "mod_jiazaimozu": {
+  "ch": "加载模组项目",
+  "en": "Load a Mod Project",
+  "pt": ""
+ },
+ "mod_jiazaimozutishi": {
+  "ch": "此存档游玩过以下模组。",
+  "en": "This save has played the following mod.",
+  "pt": ""
+ },
+ "mod_jiazaitishi1": {
+  "ch": "是否加载到游戏中？",
+  "en": "Load into the game?",
+  "pt": ""
+ },
+ "mod_jiazaitishi2": {
+  "ch": "勾选后，模组将会加载进游戏中。",
+  "en": "After checking it, the mod will be loaded into the game.",
+  "pt": ""
+ },
+ "mod_jibenpeizhi": {
+  "ch": "基本配置",
+  "en": "Basic settings",
+  "pt": ""
+ },
+ "mod_jichugongneng": {
+  "ch": "基础功能",
+  "en": "Basic Functions",
+  "pt": ""
+ },
+ "mod_jiezhi_gezirongliang": {
+  "ch": "增加的背包格子容量",
+  "en": "Inventory slots added",
+  "pt": ""
+ },
+ "mod_jiezhi_xiaoguo": {
+  "ch": "戒指效果",
+  "en": "Ring Effect",
+  "pt": ""
+ },
+ "mod_jineng1": {
+  "ch": "找不到BattleSkillBase配置表，调试技能需要先配置好技能。\n\n请到主界面右下角点击“教程”按钮，然后打开“MOD模板例子”，复制“MOD模板例子\\\\技能配置例子\\\\ModProject\\\\ModExcel”文件夹到你工程中ModProject\\\\ModExcel。\n\n或者自己手动创建技能Excel配置。",
+  "en": "Cannot find BattleSkillBase Configuration Table.\n\nPlease click the \"Tutorial\" at the bottom right of the main interface and open \"MOD Template Examples\". Then, copy the folder \"MOD模板例子\\技能配置例子\\ModProject\\ModExcel\" and paste it to ModProject\\ModExcel.\n\nYou could also manually create a configuration for martial skills in Excel.",
+  "pt": ""
+ },
+ "mod_jineng10": {
+  "ch": "特效名（已复制到剪切板）：{0}",
+  "en": "Effect name (copied to the clipboard): {0}",
+  "pt": ""
+ },
+ "mod_jineng11": {
+  "ch": "（Z + ←：上一个特效）\n（Z + 空格：重复播放）\n（Ctrl + Z + ←：上一百个特效）",
+  "en": "(Z + ←: Previous Effect)\n(Z + Space: Replay)\n(Ctrl + Z + ←: Previous 100 Effects)",
+  "pt": ""
+ },
+ "mod_jineng12": {
+  "ch": "（Z + →：下一个特效）\n（Z + 空格：重复播放）\n（Ctrl + Z + →：下一百个特效）",
+  "en": "(Z + →: Next Effect)\n(Z + Space: Replay)\n(Ctrl + Z + →: Next 100 Effects)",
+  "pt": ""
+ },
+ "mod_jineng13": {
+  "ch": "技能特效预览，只能用于弹道表和光环表。",
+  "en": "Preview of skill effects. Available for projectile table and aura table only.",
+  "pt": ""
+ },
+ "mod_jineng14": {
+  "ch": "（X + ←：上一个特效）\n（X + 空格：重复播放）\n（Ctrl + X + ←：上一百个特效）",
+  "en": "(X + ←: Previous Effect)\n(X + Space: Replay)\n(Ctrl + X + ←: Previous 100 Effects)",
+  "pt": ""
+ },
+ "mod_jineng15": {
+  "ch": "（X + →：下一个特效）\n（X + 空格：重复播放）\n（Ctrl + X + →：下一百个特效）",
+  "en": "(X + →: Next Effect)\n(X + Space: Replay)\n(Ctrl + X + →: Next 100 Effects)",
+  "pt": ""
+ },
+ "mod_jineng16": {
+  "ch": "身体特效预览，只能用于效果表（填写Unit/XXXX）。",
+  "en": "Preview of body effects. Available for effects table only (fill in: Unit/XXXX).",
+  "pt": ""
+ },
+ "mod_jineng17": {
+  "ch": "技能特效",
+  "en": "Skill Effects",
+  "pt": ""
+ },
+ "mod_jineng18": {
+  "ch": "身体特效",
+  "en": "Body Effects",
+  "pt": ""
+ },
+ "mod_jineng19": {
+  "ch": "是否销毁上一个特效",
+  "en": "Destroy the previous effect?",
+  "pt": ""
+ },
+ "mod_jineng2": {
+  "ch": "调试的技能ID（BattleSkillBase表的ID）：",
+  "en": "Debugging Skill ID (from BattleSkillBase Table):",
+  "pt": ""
+ },
+ "mod_jineng20": {
+  "ch": "特效大小：",
+  "en": "Effect scale:",
+  "pt": ""
+ },
+ "mod_jineng21": {
+  "ch": "刷新配置成功！",
+  "en": "Refreshed Successfully!",
+  "pt": ""
+ },
+ "mod_jineng3": {
+  "ch": "调试技能",
+  "en": "Customized manual",
+  "pt": ""
+ },
+ "mod_jineng4": {
+  "ch": "进入副本调试",
+  "en": "Go to dungeon debugging",
+  "pt": ""
+ },
+ "mod_jineng5": {
+  "ch": "请输入技能ID",
+  "en": "Please enter skill ID",
+  "pt": ""
+ },
+ "mod_jineng6": {
+  "ch": "保证BattleSkillBase存在你指定的技能ID，可进入副本调试技能的弹道移动速度特效等等，修改Excel配置后可在副本中点击刷新配置，让配置在副本中立刻生效。",
+  "en": "Ensure the specified Skill ID is included in BattleSkillBase. You could test the skill's projectile movement speed and effects, etc., in a dungeon. If the configuration is changed in Excel, you could click Refresh Configuration in the dungeon to make it effective immediately.",
+  "pt": ""
+ },
+ "mod_jineng7": {
+  "ch": "BattleSkillAttack找不到ID：{0}",
+  "en": "BattleSkillAttack cannot find ID: {0}",
+  "pt": ""
+ },
+ "mod_jineng8": {
+  "ch": "刷新配置(F12)",
+  "en": "Refresh Configuration (F12)",
+  "pt": ""
+ },
+ "mod_jineng9": {
+  "ch": "修改ModProject\\\\ModExcel的配置后，点击刷新配置，可让在外部修改的配置立即生效。推荐游戏窗口化，可在游戏和配置表之间快速切换。",
+  "en": "After the configuration in ModProject\\ModExcel is changed, you can click Refresh Configuration to apply the external changes immediately. You may run the game in windowed mode to switch between the program and the configuration table.",
+  "pt": ""
+ },
+ "mod_jingjieid": {
+  "ch": "角色境界",
+  "en": "Character realm",
+  "pt": ""
+ },
+ "mod_jinyongtishi": {
+  "ch": "你禁用的模组包含代码，重启游戏后才能正常禁用。",
+  "en": "The mod you have disabled contains codes. It will only be disabled after restarting the game.",
+  "pt": ""
+ },
+ "mod_jixugenggai": {
+  "ch": "继续更改",
+  "en": "Continue change",
+  "pt": ""
+ },
+ "mod_jixujinru": {
+  "ch": "是否继续进入存档？",
+  "en": "Continue entering archive?",
+  "pt": ""
+ },
+ "mod_jiyishuji": {
+  "ch": "技艺书籍",
+  "en": "Artisanship Book",
+  "pt": ""
+ },
+ "mod_jueshetiaojian": {
+  "ch": "角色条件",
+  "en": "Character condition",
+  "pt": ""
+ },
+ "mod_jueshexiaoguo": {
+  "ch": "效果",
+  "en": "Effects",
+  "pt": ""
+ },
+ "mod_jueshexiaoguo2": {
+  "ch": "角色效果",
+  "en": "Character effect",
+  "pt": ""
+ },
+ "mod_juqing": {
+  "ch": "剧情",
+  "en": "Plot",
+  "pt": ""
+ },
+ "mod_juqing1": {
+  "ch": "剧情打开条件",
+  "en": "Plot opening requirements",
+  "pt": ""
+ },
+ "mod_juqing10": {
+  "ch": "跳转的下一个剧情",
+  "en": "Next Plot",
+  "pt": ""
+ },
+ "mod_juqing11": {
+  "ch": "此剧情跳转的下一个剧情是什么（可通过剧情选项按钮设置不同分支）",
+  "en": "The next Plot (you can use Plot options to set different Plot branches)",
+  "pt": ""
+ },
+ "mod_juqing12": {
+  "ch": "剧情选项按钮",
+  "en": "Plot Options",
+  "pt": ""
+ },
+ "mod_juqing13": {
+  "ch": "通过剧情选项，可以设置剧情的分支。（可留空，通过“下一个剧情”跳转剧情）",
+  "en": "Use Plot options to set the Plot branches. (You may leave it empty. Plot will be redirected with \"Next Plot\")",
+  "pt": ""
+ },
+ "mod_juqing14": {
+  "ch": "左边的角色",
+  "en": "Character - Left",
+  "pt": ""
+ },
+ "mod_juqing15": {
+  "ch": "右边的角色",
+  "en": "Character - Right",
+  "pt": ""
+ },
+ "mod_juqing16": {
+  "ch": "不显示角色",
+  "en": "Character not displayed",
+  "pt": ""
+ },
+ "mod_juqing17": {
+  "ch": "显示玩家",
+  "en": "Display player",
+  "pt": ""
+ },
+ "mod_juqing18": {
+  "ch": "剧情标题",
+  "en": "Plot Title",
+  "pt": ""
+ },
+ "mod_juqing19": {
+  "ch": "剧情插图",
+  "en": "Plot Illustration",
+  "pt": ""
+ },
+ "mod_juqing2": {
+  "ch": "当打开剧情时填入一个或者多个ID，首先排除条件不满足的剧情，然后根据权重随机打开其中一个剧情。",
+  "en": "Fill in one or many IDs when opening the Plot. First, exclude Plot that doesn't meet the requirements, then randomly open one of the Plot based on the importance.",
+  "pt": ""
+ },
+ "mod_juqing20": {
+  "ch": "左边的角色类型",
+  "en": "Character type - Left",
+  "pt": ""
+ },
+ "mod_juqing21": {
+  "ch": "右边的角色类型",
+  "en": "Character type - Right",
+  "pt": ""
+ },
+ "mod_juqing3": {
+  "ch": "剧情打开权重",
+  "en": "Plot opening weight",
+  "pt": ""
+ },
+ "mod_juqing4": {
+  "ch": "同时打开多个剧情时，根据权重随机打开其中一个剧情。",
+  "en": "Randomly opens one of the Plot based on importance when multiple Plot are open at the same time.",
+  "pt": ""
+ },
+ "mod_juqing5": {
+  "ch": "剧情文本内容",
+  "en": "Plot Text Content",
+  "pt": ""
+ },
+ "mod_juqing6": {
+  "ch": "剧情背景音乐",
+  "en": "Plot Background Music",
+  "pt": ""
+ },
+ "mod_juqing7": {
+  "ch": "打开剧情时切换背景音乐，剧情关闭后，会还原背景音乐。",
+  "en": "Switch the background music when opening Plot, and after the Plot is closed, restores background music.",
+  "pt": ""
+ },
+ "mod_juqing8": {
+  "ch": "剧情音效",
+  "en": "Plot SFX",
+  "pt": ""
+ },
+ "mod_juqing9": {
+  "ch": "打开剧情时播放的音效（如剧情文本的语音内容）",
+  "en": "SFX played when opening Plot (Like the Plot text voice content)",
+  "pt": ""
+ },
+ "mod_juqinganniu1": {
+  "ch": "选项按钮出现条件",
+  "en": "Option button appearance requirements",
+  "pt": ""
+ },
+ "mod_juqinganniu2": {
+  "ch": "按钮出现的条件，条件不满足的按钮则不会出现。",
+  "en": "Requirements for the button to appear. The button will not appear if the requirement is not met.",
+  "pt": ""
+ },
+ "mod_juqinganniu3": {
+  "ch": "选项按钮文本",
+  "en": "Text on the option button",
+  "pt": ""
+ },
+ "mod_juqinganniu4": {
+  "ch": "点击选项按钮需要消耗的道具",
+  "en": "Item cost for tapping on the option button",
+  "pt": ""
+ },
+ "mod_juqinganniu5": {
+  "ch": "点击选项按钮执行的命令",
+  "en": "Command executed after tapping on the option button",
+  "pt": ""
+ },
+ "mod_juqinganniu6": {
+  "ch": "点击选项按钮后跳转的下一个剧情",
+  "en": "Next Plot to go to after tapping on the option button",
+  "pt": ""
+ },
+ "mod_juqingleixing1": {
+  "ch": "剧情左边的立绘",
+  "en": "Left side of the full-body standing drawing of a character for Plot",
+  "pt": ""
+ },
+ "mod_juqingleixing2": {
+  "ch": "剧情右边的立绘",
+  "en": "Right side of the full-body standing drawing of a character for Plot",
+  "pt": ""
+ },
+ "mod_juqinglihui": {
+  "ch": "剧情立绘模型",
+  "en": "Plot full-body standing drawing model",
+  "pt": ""
+ },
+ "mod_juqingmingling1": {
+  "ch": "打开剧情执行命令",
+  "en": "Turn on plot execution command",
+  "pt": ""
+ },
+ "mod_juqingmingling2": {
+  "ch": "关闭剧情执行命令",
+  "en": "Turn off plot execution command",
+  "pt": ""
+ },
+ "mod_juqingnpc": {
+  "ch": "剧情NPC",
+  "en": "Plot NPC",
+  "pt": ""
+ },
+ "mod_juqingnpc1": {
+  "ch": "重置抓取的左边NPC（NPC-A）",
+  "en": "Reset the NPC to extract on the left (NPC-A)",
+  "pt": ""
+ },
+ "mod_juqingnpc2": {
+  "ch": "重置抓取的右边NPC（NPC-B）",
+  "en": "Reset the NPC to extract on the right (NPC-B)",
+  "pt": ""
+ },
+ "mod_juqingnpc3": {
+  "ch": "如果重置了抓取的NPC，则说话者会变成新的NPC。",
+  "en": "If the NPC to extract is reset, the speaker will become the new NPC.",
+  "pt": ""
+ },
+ "mod_juqingxuanxiang": {
+  "ch": "剧情选项",
+  "en": "Plot Options",
+  "pt": ""
+ },
+ "mod_kaijubeijingjieshou": {
+  "ch": "开局背景故事介绍",
+  "en": "Opening Backstory Introduction",
+  "pt": ""
+ },
+ "mod_kaiyuanmozutishi": {
+  "ch": "此模组是开源模组，点击打开模组目录，可以复制模组源工程ModProject文件夹到本地工作目录。",
+  "en": "This Mod is an open source Mod. Click to open the Mod directory to copy the Mod source project ModProject folder to the local working directory.",
+  "pt": ""
+ },
+ "mod_kuangcaijiyi": {
+  "ch": "矿材技艺",
+  "en": "Ore Artisanship",
+  "pt": ""
+ },
+ "mod_kuangjiatishi1": {
+  "ch": "模组框架未启动，是否启动模组框架？不启动模组框架，模组将无法正常运行。\n\n启动模组框架后，如遇到在某些电脑游戏EXE无法打开，则需要自己禁用模组框架，禁用模组框架需要手动打开游戏安装目录删除“version.dll”文件。",
+  "en": "Mod framework is disabled. Enable the framework now? Mods cannot function properly if the framework is disabled.\n\nAfter the framework is enabled, if the .exe file of the game cannot be opened, you may need to disable the framework manually. To do this, open the directory of the game and delete \"version.dll\".",
+  "pt": ""
+ },
+ "mod_kuangjiatishi2": {
+  "ch": "启用框架",
+  "en": "Enable framework",
+  "pt": ""
+ },
+ "mod_kuangjiatishi3": {
+  "ch": "下次在说",
+  "en": "Maybe next time",
+  "pt": ""
+ },
+ "mod_kuangjiatishi4": {
+  "ch": "打开模组框架成功，重启游戏后生效！",
+  "en": "Mod framework enabled. Please restart the game to make it effective.",
+  "pt": ""
+ },
+ "mod_kuangjiatishi5": {
+  "ch": "关闭游戏",
+  "en": "Close game",
+  "pt": ""
+ },
+ "mod_kuozhangpeizhi": {
+  "ch": "扩展配置",
+  "en": "Expand configurations",
+  "pt": ""
+ },
+ "mod_liebiao": {
+  "ch": "表",
+  "en": "Table",
+  "pt": ""
+ },
+ "mod_lihuichicun": {
+  "ch": "立绘标准尺寸，宽700 高900",
+  "en": "Standard measurements of the full-body standing drawing, width 700, height 900",
+  "pt": ""
+ },
+ "mod_lihuimingcheng": {
+  "ch": "立绘名称",
+  "en": "Full-body standing drawing name",
+  "pt": ""
+ },
+ "mod_lihuimoxing": {
+  "ch": "立绘模型",
+  "en": "Full-body standing drawing model",
+  "pt": ""
+ },
+ "mod_loading": {
+  "ch": "模组加载中...",
+  "en": "Loading mod...",
+  "pt": ""
+ },
+ "mod_lujingcuowu": {
+  "ch": "模组项目已损坏！",
+  "en": "Mod project corrupted!",
+  "pt": ""
+ },
+ "mod_miaoshu": {
+  "ch": "描述：",
+  "en": "Description:",
+  "pt": ""
+ },
+ "mod_miaosu": {
+  "ch": "模组描述",
+  "en": "Mod Description",
+  "pt": ""
+ },
+ "mod_mijiid": {
+  "ch": "秘籍ID",
+  "en": "Manual ID",
+  "pt": ""
+ },
+ "mod_mingcheng": {
+  "ch": "名称：",
+  "en": "Name:",
+  "pt": ""
+ },
+ "mod_minglingliebiao": {
+  "ch": "命令列表",
+  "en": "Command list",
+  "pt": ""
+ },
+ "mod_minglinglieboap": {
+  "ch": "命令列表",
+  "en": "Command list",
+  "pt": ""
+ },
+ "mod_minglingshuoming": {
+  "ch": "命令就是函数，可以通过命令打开剧情、创建大地图事件、增加属性、产出道具等功能。",
+  "en": "Commands are functions that can be used to launch plots, create world map events, increase stats, generate items, and run other functions.",
+  "pt": ""
+ },
+ "mod_mingzi": {
+  "ch": "模组名称",
+  "en": "Mod Name",
+  "pt": ""
+ },
+ "mod_modao": {
+  "ch": "魔道",
+  "en": "Demonic",
+  "pt": ""
+ },
+ "mod_mozu": {
+  "ch": "模组",
+  "en": "Mod",
+  "pt": ""
+ },
+ "mod_mozubianjiqi": {
+  "ch": "鬼谷八荒模组编辑器",
+  "en": "Tale of Immortal Mod Editor",
+  "pt": ""
+ },
+ "mod_mozugongneng": {
+  "ch": "模组功能",
+  "en": "Mod Functions",
+  "pt": ""
+ },
+ "mod_mozuguanli": {
+  "ch": "模组管理",
+  "en": "Mod Management",
+  "pt": ""
+ },
+ "mod_mozuid": {
+  "ch": "模组{0}",
+  "en": "Mod {0}",
+  "pt": ""
+ },
+ "mod_mozukaifa": {
+  "ch": "模组开发",
+  "en": "Mod Development",
+  "pt": ""
+ },
+ "mod_mozuleixing": {
+  "ch": "商店模组分类",
+  "en": "Store Mod Categories",
+  "pt": ""
+ },
+ "mod_mozuleixing1": {
+  "ch": "类型：",
+  "en": "Type:",
+  "pt": ""
+ },
+ "mod_mozuleixing2": {
+  "ch": "此模组是本地模组，删除后模组文件将会一起删除，是否删除？",
+  "en": "This is a local mod. After deleting it, the mod files will also be deleted. Delete it?",
+  "pt": ""
+ },
+ "mod_mozuleixing3": {
+  "ch": "此模组是创意工坊模组，取消订阅后可在模组商店重新订阅，是否取消订阅？",
+  "en": "This is a workshop mod. After unsubscribing to it, you may subscribe to it again in the Mod Store. Unsubscribe?",
+  "pt": ""
+ },
+ "mod_mozuleixing4": {
+  "ch": "模组目录：",
+  "en": "Mod Directory:",
+  "pt": ""
+ },
+ "mod_mozuleixingbiaoti1": {
+  "ch": "创意工坊模组",
+  "en": "Workshop Mods",
+  "pt": ""
+ },
+ "mod_mozuleixingbiaoti2": {
+  "ch": "本地模组",
+  "en": "Local Mods",
+  "pt": ""
+ },
+ "mod_mozunpc1": {
+  "ch": "创建的NPC",
+  "en": "Generated NPC",
+  "pt": ""
+ },
+ "mod_mozupaixu1": {
+  "ch": "最近热门",
+  "en": "Hot",
+  "pt": ""
+ },
+ "mod_mozupaixu2": {
+  "ch": "最多人玩",
+  "en": "Most Played",
+  "pt": ""
+ },
+ "mod_mozupaixu3": {
+  "ch": "最多订阅",
+  "en": "Most Subscribed",
+  "pt": ""
+ },
+ "mod_mozupaixu4": {
+  "ch": "最新创建",
+  "en": "Latest Creations",
+  "pt": ""
+ },
+ "mod_mozupaixu5": {
+  "ch": "最近更新",
+  "en": "Latest Updates",
+  "pt": ""
+ },
+ "mod_mozushangdian": {
+  "ch": "模组商店",
+  "en": "Mod Store",
+  "pt": ""
+ },
+ "mod_mozushangdian1": {
+  "ch": "模组商店",
+  "en": "Mod Store",
+  "pt": ""
+ },
+ "mod_mozushangdian2": {
+  "ch": "下载更多模组",
+  "en": "Download more mods",
+  "pt": ""
+ },
+ "mod_mozushangdian3": {
+  "ch": "社区",
+  "en": "Community",
+  "pt": ""
+ },
+ "mod_mozushangdian4": {
+  "ch": "交流与分享",
+  "en": "Interact & Share",
+  "pt": ""
+ },
+ "mod_mozushangdian5": {
+  "ch": "管理本地模组",
+  "en": "Manage Local Mods",
+  "pt": ""
+ },
+ "mod_mozushuju": {
+  "ch": "模组数据",
+  "en": "Mod data",
+  "pt": ""
+ },
+ "mod_mozutiaoshi": {
+  "ch": "模组制作过程中，不需要频繁导出导入模组数据，可以直接进入游戏调试此模组。",
+  "en": "You are not required to export or import mod data frequently for a mod in progress. Simply enter the game to tweak the mod.",
+  "pt": ""
+ },
+ "mod_neizhishuju": {
+  "ch": "游戏内置数据",
+  "en": "Game inbuilt data",
+  "pt": ""
+ },
+ "mod_npc": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_npc2": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_npc_bianjiwancheng": {
+  "ch": "编辑完成",
+  "en": "Edit Complete",
+  "pt": ""
+ },
+ "mod_npc_biaoti": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_npc_guanxi": {
+  "ch": "创建后与玩家的关系",
+  "en": "Player's relationship after creation",
+  "pt": ""
+ },
+ "mod_npc_jingjie": {
+  "ch": "初始境界",
+  "en": "Initial Realm",
+  "pt": ""
+ },
+ "mod_npc_mingzi": {
+  "ch": "名字（留空则随机）",
+  "en": "Name (Random if left blank)",
+  "pt": ""
+ },
+ "mod_npc_name": {
+  "ch": "名字：{0}，性别：{1}",
+  "en": "Name: {0}, Gender: {1}",
+  "pt": ""
+ },
+ "mod_npc_nanlihui": {
+  "ch": "男性立绘",
+  "en": "Male full-body standing up drawing",
+  "pt": ""
+ },
+ "mod_npc_nanlihuishuoming": {
+  "ch": "当创建的NPC性别是男性时，使用此立绘，留空则随机生成立绘。",
+  "en": "When the created NPC is male, use this full-body standing up drawing and leave it blank to randomly create a full-body standing up drawing.",
+  "pt": ""
+ },
+ "mod_npc_neizaixingge": {
+  "ch": "内在性格",
+  "en": "Internal Traits",
+  "pt": ""
+ },
+ "mod_npc_neizaixinggecuowu": {
+  "ch": "内在性格不可重复！",
+  "en": "Internal Traits cannot be duplicated!",
+  "pt": ""
+ },
+ "mod_npc_nvlihui": {
+  "ch": "女性立绘",
+  "en": "Female full-body standing up drawing",
+  "pt": ""
+ },
+ "mod_npc_nvlihuishuoming": {
+  "ch": "当创建的NPC性别是女性时，使用此立绘，留空则随机生成立绘。",
+  "en": "When the created NPC is female, use this full-body standing up drawing and leave it blank to randomly create a full-body standing up drawing.",
+  "pt": ""
+ },
+ "mod_npc_qinmidu": {
+  "ch": "创建后与玩家的初始亲密度",
+  "en": "Initial Affinity with player after creation",
+  "pt": ""
+ },
+ "mod_npc_shanchushuju": {
+  "ch": "删除数据",
+  "en": "Delete Data",
+  "pt": ""
+ },
+ "mod_npc_shanchutishi": {
+  "ch": "是否删除立绘数据？删除后创建NPC时随机生成立绘。",
+  "en": "Are you sure you want to delete full-body standing up drawing data? After deleting, the full-body standing up drawing will be randomized when creating an NPC.",
+  "pt": ""
+ },
+ "mod_npc_shezhilihui": {
+  "ch": "设置立绘",
+  "en": "Set full-body standing up drawing",
+  "pt": ""
+ },
+ "mod_npc_suiji": {
+  "ch": "随机",
+  "en": "Random",
+  "pt": ""
+ },
+ "mod_npc_waizaixingge1": {
+  "ch": "外在性格1",
+  "en": "External Traits 1",
+  "pt": ""
+ },
+ "mod_npc_waizaixingge2": {
+  "ch": "外在性格2",
+  "en": "External Traits 2",
+  "pt": ""
+ },
+ "mod_npc_waizaixinggecuowu": {
+  "ch": "外在性格不可重复！",
+  "en": "External Traits cannot be duplicated!",
+  "pt": ""
+ },
+ "mod_npc_xingbie": {
+  "ch": "性别",
+  "en": "Gender",
+  "pt": ""
+ },
+ "mod_npc_xinggeshuoming": {
+  "ch": "注意：性格不可重复，否则会引起错误！",
+  "en": "Note: Character Traits cannot be duplicated or it will cause an error!",
+  "pt": ""
+ },
+ "mod_npc_zidongbaocun": {
+  "ch": "自动保存",
+  "en": "Auto Save",
+  "pt": ""
+ },
+ "mod_npc_zuidajuli": {
+  "ch": "生成时距离玩家最大距离",
+  "en": "Maximum distance from player when created",
+  "pt": ""
+ },
+ "mod_npc_zuixiaojuli": {
+  "ch": "生成时距离玩家最小距离",
+  "en": "Minimum distance from player when created",
+  "pt": ""
+ },
+ "mod_npcfannao": {
+  "ch": "NPC烦恼",
+  "en": "NPC trouble",
+  "pt": ""
+ },
+ "mod_npcfannaoleixing": {
+  "ch": "NPC烦恼类型",
+  "en": "NPC trouble type",
+  "pt": ""
+ },
+ "mod_npcjingjie": {
+  "ch": "NPC初始境界",
+  "en": "NPC Initial Realm",
+  "pt": ""
+ },
+ "mod_npcjingjieshuoming": {
+  "ch": "决定了生成NPC时，NPC的境界",
+  "en": "Determines NPCs' Realm when they are generated",
+  "pt": ""
+ },
+ "mod_npcquyuweizhi": {
+  "ch": "NPC生成位置在什么区域",
+  "en": "Area of NPC spawning",
+  "pt": ""
+ },
+ "mod_npcquyuweizhishuoming": {
+  "ch": "决定了生成NPC时，NPC在什么区域的随机位置",
+  "en": "Determines the area of NPCs when they are generated",
+  "pt": ""
+ },
+ "mod_npcshouming": {
+  "ch": "寿命（年）",
+  "en": "Lifespan (Years)",
+  "pt": ""
+ },
+ "mod_paixu1": {
+  "ch": "最多订阅",
+  "en": "Most Subscribed",
+  "pt": ""
+ },
+ "mod_paixu2": {
+  "ch": "最多好评",
+  "en": "Most Highly Rated",
+  "pt": ""
+ },
+ "mod_paixu3": {
+  "ch": "最新创建",
+  "en": "Latest Creations",
+  "pt": ""
+ },
+ "mod_paixu4": {
+  "ch": "最多人赞",
+  "en": "Most Likes",
+  "pt": ""
+ },
+ "mod_paixubiaoti": {
+  "ch": "排序",
+  "en": "Sort",
+  "pt": ""
+ },
+ "mod_pingjiaguoshao": {
+  "ch": "评论过少",
+  "en": "Too few comments",
+  "pt": ""
+ },
+ "mod_preDrama": {
+  "ch": "预览剧情UI",
+  "en": "Preview Plot UI",
+  "pt": ""
+ },
+ "mod_putongzongmen1": {
+  "ch": "创建普通宗门",
+  "en": "Create a normal Sect",
+  "pt": ""
+ },
+ "mod_putongzongmen2": {
+  "ch": "普通宗门",
+  "en": "Normal Sect",
+  "pt": ""
+ },
+ "mod_putongzongmen3": {
+  "ch": "注意创建过多普通宗门的话，可能会导致地图位置不够，创建失败的情况。",
+  "en": "Note: Sect creation may fail if too many Sects have been created and there is not enough space on the map.",
+  "pt": ""
+ },
+ "mod_putongzongmen4": {
+  "ch": "宗门创建到什么区域。",
+  "en": "The area where the Sect is created.",
+  "pt": ""
+ },
+ "mod_qianzhitishi": {
+  "ch": "以下前置模组未订阅，是否订阅以下模组？",
+  "en": "You haven't subscribed to the prerequisite mods. Subscribe to them?",
+  "pt": ""
+ },
+ "mod_qilingid": {
+  "ch": "器灵",
+  "en": "Artifact Spirit",
+  "pt": ""
+ },
+ "mod_qiyiwenben1": {
+  "ch": "触发类型",
+  "en": "Trigger Type",
+  "pt": ""
+ },
+ "mod_qiyiwenben10": {
+  "ch": "当触发间隔大于0，奇遇触发后，需要间隔N个月才能继续触发。",
+  "en": "When the trigger interval is greater than 0, the Adventure will need to be triggered at an interval of N months before it can continue to be triggered.",
+  "pt": ""
+ },
+ "mod_qiyiwenben11": {
+  "ch": "共享间隔组",
+  "en": "Shared Interval Group",
+  "pt": ""
+ },
+ "mod_qiyiwenben12": {
+  "ch": "当两个奇遇共享间隔组一样，其中一个奇遇触发后，另一个奇遇也需要间隔N个月才能继续触发。",
+  "en": "When two Adventures share the same interval group, after one Adventure triggers, the other Adventure also needs an interval of N months to continue to be triggered.",
+  "pt": ""
+ },
+ "mod_qiyiwenben13": {
+  "ch": "抓取NPC-A",
+  "en": "Extract NPC-A",
+  "pt": ""
+ },
+ "mod_qiyiwenben14": {
+  "ch": "当设置抓取NPC时，那么必须成功抓取到NPC，才能触发奇遇（会传递NPC到剧情里）。\n\n例子1：抓取NPC后，使用对话剧情，可以和NPC互动进行对话。\n\n例子2：抓取NPC后，NPC会传递到剧情里，剧情按钮命令可以使用增加属性、添加气运之类的命令对NPC增加属性、施加气运。",
+  "en": "When NPC extracting has been configured, you have to successfully extract the NPC to trigger the Adventure.\n\nExample 1: After extracting the NPC, you can talk to the NPC.\n\nExample 2: After extracting the NPC, they will enter the Plot. You can use commands to increase their Stats, Destiny, etc.",
+  "pt": ""
+ },
+ "mod_qiyiwenben15": {
+  "ch": "抓取NPC-B",
+  "en": "Extract NPC-B",
+  "pt": ""
+ },
+ "mod_qiyiwenben16": {
+  "ch": "和抓取NPC-A是一样的功能，命令最多可以传递两个NPC过去，对话剧情显示最多也只支持两个NPC。",
+  "en": "The same function as extracting NPC-A. The command can pass up to two NPCs, and the Plot dialogue display can also only support up to two NPCs.",
+  "pt": ""
+ },
+ "mod_qiyiwenben17": {
+  "ch": "触发奇遇打开的剧情",
+  "en": "Plot launched by triggering Adventure",
+  "pt": ""
+ },
+ "mod_qiyiwenben18": {
+  "ch": "触发奇遇后，设置打开的剧情，才能弹出奇遇UI和玩家交互。",
+  "en": "After triggering Adventure, configure the Plot for Adventure UI to pop up.",
+  "pt": ""
+ },
+ "mod_qiyiwenben19": {
+  "ch": "触发奇遇执行的命令",
+  "en": "Commands executed after triggering an Adventure",
+  "pt": ""
+ },
+ "mod_qiyiwenben2": {
+  "ch": "不同的触发类型，可以控制奇遇的触发时机。",
+  "en": "Different trigger types can control the timing of the Adventure.",
+  "pt": ""
+ },
+ "mod_qiyiwenben20": {
+  "ch": "触发奇遇后，可以不打开剧情，只执行命令。",
+  "en": "After triggering an Adventure, you can execute commands without launching plot.",
+  "pt": ""
+ },
+ "mod_qiyiwenben3": {
+  "ch": "触发概率（万分比）",
+  "en": "Trigger Probability (Percentage)",
+  "pt": ""
+ },
+ "mod_qiyiwenben4": {
+  "ch": "每次触发条件时，有多少概率能触发奇遇。",
+  "en": "The probability of triggering Adventure when requirement is met.",
+  "pt": ""
+ },
+ "mod_qiyiwenben5": {
+  "ch": "奇遇触发条件",
+  "en": "Adventure trigger condition",
+  "pt": ""
+ },
+ "mod_qiyiwenben6": {
+  "ch": "可配置条件，需要达成条件，才能触发奇遇。",
+  "en": "Set requirements for triggering Adventure.",
+  "pt": ""
+ },
+ "mod_qiyiwenben7": {
+  "ch": "是否可以重复触发",
+  "en": "Can it be triggered repeatedly?",
+  "pt": ""
+ },
+ "mod_qiyiwenben8": {
+  "ch": "当设置不可重复触发时，本存档只能触发一次这个奇遇。",
+  "en": "When it is set to be non-repeatable, the file can only trigger this Adventure once.",
+  "pt": ""
+ },
+ "mod_qiyiwenben9": {
+  "ch": "触发间隔（月）",
+  "en": "Trigger Interval (Month)",
+  "pt": ""
+ },
+ "mod_qiyu": {
+  "ch": "奇遇",
+  "en": "Adventure",
+  "pt": ""
+ },
+ "mod_qiyuchatu": {
+  "ch": "奇遇插图",
+  "en": "Adventure Scene",
+  "pt": ""
+ },
+ "mod_qiyujuqingnpc1": {
+  "ch": "抓取的NPC",
+  "en": "Extracted NPC",
+  "pt": ""
+ },
+ "mod_qiyujuqingnpc2": {
+  "ch": "抓取的NPC",
+  "en": "Extracted NPC",
+  "pt": ""
+ },
+ "mod_qiyun": {
+  "ch": "气运",
+  "en": "Destiny",
+  "pt": ""
+ },
+ "mod_qiyun_chatu": {
+  "ch": "突破成功后出现的插图",
+  "en": "Scene that appears after Breakthrough is successful",
+  "pt": ""
+ },
+ "mod_qiyun_gushi": {
+  "ch": "突破成功后出现的故事说明",
+  "en": "Story description that appears after Breakthrough is successful",
+  "pt": ""
+ },
+ "mod_qiyun_jingjieshuoming": {
+  "ch": "需要达到什么境界才能随机出来",
+  "en": "Requires to reach a certain Realm to randomly appear",
+  "pt": ""
+ },
+ "mod_qiyun_jingjieshuoming2": {
+  "ch": "例如：选择了元婴，则此逆天改命需要玩家在达到元婴后进行突破，才能在突破结束时刷出此逆天改命。",
+  "en": "For example: Select Nascent Soul. Rewrite Destiny needs the player to reach Nascent Soul before Breakthrough, then when Breakthrough is complete, refresh this Rewrite Destiny.",
+  "pt": ""
+ },
+ "mod_qiyun_shengjizu": {
+  "ch": "升级组",
+  "en": "Upgrade Group",
+  "pt": ""
+ },
+ "mod_qiyun_shengjizushuoming": {
+  "ch": "如果两个逆天改命升级组ID一样，突破时必须拥有低级逆天改命，才能随机出高级气运（例如小、中、大李飞剑），左边气运列表中最下面的气运数据是最高级的，排序越往下越高级。",
+  "en": "If two Rewrite Destiny upgrade group IDs are the same, you have a low-level Rewrite Destiny when having a Breakthrough to randomly get a high-level Destiny (e.g. Jo's Flying Sword I, II, III). The bottom Destiny data in the Destiny list on the left is the highest level, and the farther down the list the greater the level.",
+  "pt": ""
+ },
+ "mod_qiyun_suijigailv": {
+  "ch": "突破随机出现概率（万分比）",
+  "en": "Breakthrough Random Appearance Probability (Percentage)",
+  "pt": ""
+ },
+ "mod_qiyunchixushijian": {
+  "ch": "持续时间，单位：月（-1无限）",
+  "en": "Duration, unit: Month (-1 means infinite)",
+  "pt": ""
+ },
+ "mod_qiyunmiaoshu": {
+  "ch": "气运描述",
+  "en": "Destiny Description",
+  "pt": ""
+ },
+ "mod_qiyunmingcheng": {
+  "ch": "气运名称",
+  "en": "Destiny Name",
+  "pt": ""
+ },
+ "mod_qiyunsuijigailv": {
+  "ch": "玩家开局随机出现概率（万分比）",
+  "en": "Opening Random Appearance Probability (‱)",
+  "pt": ""
+ },
+ "mod_qiyunsuijigailvshuoming": {
+  "ch": "填0则玩家开局永远刷不出来此气运",
+  "en": "0: player won't be able to get this Destiny at the beginning.",
+  "pt": ""
+ },
+ "mod_qiyunxiaoguo": {
+  "ch": "气运效果：",
+  "en": "Destiny Effect:",
+  "pt": ""
+ },
+ "mod_qiyushuoming": {
+  "ch": "可以通过奇遇来打开剧情、创建大地图事件等等功能",
+  "en": "You can use Adventure to launch plots or create world map events and run other functions",
+  "pt": ""
+ },
+ "mod_qiyuzhuaqunpc": {
+  "ch": "奇遇抓取的NPC",
+  "en": "NPC extracted by the adventure",
+  "pt": ""
+ },
+ "mod_quanbo": {
+  "ch": "全部",
+  "en": "All",
+  "pt": ""
+ },
+ "mod_queding": {
+  "ch": "确定",
+  "en": "Confirm",
+  "pt": ""
+ },
+ "mod_quxiaodingyue": {
+  "ch": "已取消订阅！",
+  "en": "Already unsubscribed!",
+  "pt": ""
+ },
+ "mod_renwu1": {
+  "ch": "任务",
+  "en": "Mission",
+  "pt": ""
+ },
+ "mod_renwu10": {
+  "ch": "任务目的地",
+  "en": "Mission Destination",
+  "pt": ""
+ },
+ "mod_renwu11": {
+  "ch": "设置目的地后，任务UI上可以跟踪任务路线。",
+  "en": "After setting the destination, the Mission route can be tracked on the Mission UI.",
+  "pt": ""
+ },
+ "mod_renwu2": {
+  "ch": "任务名称",
+  "en": "Mission Name",
+  "pt": ""
+ },
+ "mod_renwu3": {
+  "ch": "任务描述",
+  "en": "Mission Description",
+  "pt": ""
+ },
+ "mod_renwu4": {
+  "ch": "任务持续时间（月，-1无限时间）",
+  "en": "Mission Duration (month, -1 means infinite)",
+  "pt": ""
+ },
+ "mod_renwu5": {
+  "ch": "持续时间到达后，任务自动失败，并删除。",
+  "en": "When duration is up, the Mission is automatically failed and deleted.",
+  "pt": ""
+ },
+ "mod_renwu6": {
+  "ch": "任务完成后调用命令",
+  "en": "Call command after the Mission is complete",
+  "pt": ""
+ },
+ "mod_renwu7": {
+  "ch": "可以使用命令发放奖励、接取新任务、打开剧情等等功能。",
+  "en": "Can be used to command the distribution of rewards, accepting new Missions, opening up Plot, and other functions.",
+  "pt": ""
+ },
+ "mod_renwu8": {
+  "ch": "完成任务条件（打开了某个剧情）",
+  "en": "Mission completion requirements (Opened a certain Plot)",
+  "pt": ""
+ },
+ "mod_renwu9": {
+  "ch": "当打开了其中一个剧情时，任务将会自动完成，也可以不填入剧情，通过命令finishTask完成一个任务。",
+  "en": "When one of the Plots is opened, the Mission will be completed automatically. It is also possible to use the command finishTask to complete a Mission without filling in the Plot.",
+  "pt": ""
+ },
+ "mod_renwuid": {
+  "ch": "任务ID",
+  "en": "Mission ID",
+  "pt": ""
+ },
+ "mod_resmulu": {
+  "ch": "点击打开Res目录，推荐把额外预览图放到Res目录。",
+  "en": "Click to open the Res directory. It is recommended to put the additional preview image in the Res directory.",
+  "pt": ""
+ },
+ "mod_saixuanguanjianzi": {
+  "ch": "输入关键字筛选...",
+  "en": "Enter keywords to filter...",
+  "pt": ""
+ },
+ "mod_sanxiu": {
+  "ch": "散修",
+  "en": "Rogue Cultivator",
+  "pt": ""
+ },
+ "mod_shanchu": {
+  "ch": "删除(Del)",
+  "en": "Delete (Del)",
+  "pt": ""
+ },
+ "mod_shanchuchenggong": {
+  "ch": "删除成功！",
+  "en": "Deleted!",
+  "pt": ""
+ },
+ "mod_shanchuchengong": {
+  "ch": "删除成功！",
+  "en": "Deleted!",
+  "pt": ""
+ },
+ "mod_shanchujinggao": {
+  "ch": "如果模组已经上线，不推荐删除没有用的表，可以标记为废弃，如存档中存在模组制作的气运，但是气运配置被删除了，则会导致存档数据丢失。",
+  "en": "If the Mod has been launched, it is not recommended to delete useless tables. You can mark them as invalid. If there is a Mod-created Destiny in the archive but the Destiny setting has been deleted, it will lead to data loss in the archive.",
+  "pt": ""
+ },
+ "mod_shanchutishi": {
+  "ch": "删除某些表有可能会导致已经载入过此模组的存档丢失数据，是否继续删除？",
+  "en": "Deleting a table may cause data loss in a save that has been loaded with this Mod. Continue to Delete?",
+  "pt": ""
+ },
+ "mod_shanchutishi2": {
+  "ch": "为了避免误删除，请打开模组工程根目录手动删除源工程文件夹。",
+  "en": "To avoid deleting it by mistake, please open the mod project root directory to delete the source project folder manually.",
+  "pt": ""
+ },
+ "mod_shanchutupian": {
+  "ch": "是否删除资源：{0}",
+  "en": "Delete Resource: {0}?",
+  "pt": ""
+ },
+ "mod_shangchuan1": {
+  "ch": "可见状态",
+  "en": "Visible Status",
+  "pt": ""
+ },
+ "mod_shangchuan10": {
+  "ch": "预览图片尺寸必须是 宽200*高200",
+  "en": "Preview Image measurements must be 200 width × 200 height",
+  "pt": ""
+ },
+ "mod_shangchuan11": {
+  "ch": "本次更新说明",
+  "en": "Description of this update",
+  "pt": ""
+ },
+ "mod_shangchuan12": {
+  "ch": "模组标签",
+  "en": "Mod Tags",
+  "pt": ""
+ },
+ "mod_shangchuan13": {
+  "ch": "先天气运",
+  "en": "Destiny (Nature)",
+  "pt": ""
+ },
+ "mod_shangchuan14": {
+  "ch": "逆天改命",
+  "en": "Rewrite Destiny",
+  "pt": ""
+ },
+ "mod_shangchuan15": {
+  "ch": "道具",
+  "en": "Item",
+  "pt": ""
+ },
+ "mod_shangchuan16": {
+  "ch": "奇遇",
+  "en": "Adventure",
+  "pt": ""
+ },
+ "mod_shangchuan17": {
+  "ch": "剧情",
+  "en": "Plot",
+  "pt": ""
+ },
+ "mod_shangchuan18": {
+  "ch": "NPC",
+  "en": "NPC",
+  "pt": ""
+ },
+ "mod_shangchuan19": {
+  "ch": "立绘",
+  "en": "Full-body standing up drawing",
+  "pt": ""
+ },
+ "mod_shangchuan2": {
+  "ch": "仅自己可见",
+  "en": "Only Visible to Self",
+  "pt": ""
+ },
+ "mod_shangchuan20": {
+  "ch": "开始上传",
+  "en": "Start Upload",
+  "pt": ""
+ },
+ "mod_shangchuan21": {
+  "ch": "上传失败，请重试！",
+  "en": "Upload failed. Please try again.",
+  "pt": ""
+ },
+ "mod_shangchuan22": {
+  "ch": "上传成功！\n首次提交的模组请稍等几分钟才能在商店看见你的作品！",
+  "en": "Uploaded!",
+  "pt": ""
+ },
+ "mod_shangchuan23": {
+  "ch": "上传失败，请接受《创意工坊法律协议》后，在重新上传！",
+  "en": "Upload failed. Please agree to the Creative Workshop Legal Agreement before re-uploading!",
+  "pt": ""
+ },
+ "mod_shangchuan24": {
+  "ch": "模组上传工具",
+  "en": "Mod Upload Tool",
+  "pt": ""
+ },
+ "mod_shangchuan25": {
+  "ch": "{0}（进度{1}%）",
+  "en": "{0} (Progress {1}%)",
+  "pt": ""
+ },
+ "mod_shangchuan26": {
+  "ch": "请先设置预览图片！",
+  "en": "Please set the preview image first!",
+  "pt": ""
+ },
+ "mod_shangchuan27": {
+  "ch": "请输入更新内容！",
+  "en": "Please enter the update content!",
+  "pt": ""
+ },
+ "mod_shangchuan28": {
+  "ch": "没有设置标签，是否继续上传？",
+  "en": "No tags set. Continue upload?",
+  "pt": ""
+ },
+ "mod_shangchuan29": {
+  "ch": "工作根目录",
+  "en": "Work Root Directory",
+  "pt": ""
+ },
+ "mod_shangchuan3": {
+  "ch": "仅好友可见",
+  "en": "Only Visible to Friend",
+  "pt": ""
+ },
+ "mod_shangchuan30": {
+  "ch": "未设置项目工作目录，请选择一个文件夹作为项目的工作目录，所有模组工程将保存到此目录！",
+  "en": "No project directory set. Please select a folder as the project working directory. All Mod projects will be saved to this directory.",
+  "pt": ""
+ },
+ "mod_shangchuan31": {
+  "ch": "更改目录",
+  "en": "Change Directory",
+  "pt": ""
+ },
+ "mod_shangchuan4": {
+  "ch": "所有人可见",
+  "en": "Visible to Everyone",
+  "pt": ""
+ },
+ "mod_shangchuan5": {
+  "ch": "是否开源",
+  "en": "Open Source?",
+  "pt": ""
+ },
+ "mod_shangchuan6": {
+  "ch": "开源后，模组项目会一起上传到创意工坊，其他玩家下载模组后将包含源项目。",
+  "en": "After opening source, the Mod project will be uploaded to the Creative Workshop and other players who download the Mod will have the source project included.",
+  "pt": ""
+ },
+ "mod_shangchuan7": {
+  "ch": "不开源",
+  "en": "Not Open Source",
+  "pt": ""
+ },
+ "mod_shangchuan8": {
+  "ch": "开源",
+  "en": "Open Source",
+  "pt": ""
+ },
+ "mod_shangchuan9": {
+  "ch": "预览图片",
+  "en": "Preview Image",
+  "pt": ""
+ },
+ "mod_shangchuanchuangyi": {
+  "ch": "上传到创意工坊",
+  "en": "Upload to Creative Workshop",
+  "pt": ""
+ },
+ "mod_shangchuancuowu_15": {
+  "ch": "账号出现问题，请联系官方处理！",
+  "en": "Account error. Please contact game developer!",
+  "pt": ""
+ },
+ "mod_shangchuancuowu_16": {
+  "ch": "操作超时，请重试！",
+  "en": "Operation timeout. Please try again!",
+  "pt": ""
+ },
+ "mod_shangchuancuowu_17": {
+  "ch": "账号出现问题，请联系官方处理！",
+  "en": "Account error. Please contact game developer!",
+  "pt": ""
+ },
+ "mod_shangchuancuowu_2": {
+  "ch": "由于网络错误、文件占用等原因引起的常见错误，请多上传几次，如若还不行则重启游戏或重启电脑重新上传！",
+  "en": "If you run into errors due to network connection or file occupation, please try to upload it again. If it still fails, you could restart the game or reboot your computer and upload it again!",
+  "pt": ""
+ },
+ "mod_shangchuancuowu_3": {
+  "ch": "网络错误，请重试！",
+  "en": "Network error. Please try again!",
+  "pt": ""
+ },
+ "mod_shangchuanfenxiang": {
+  "ch": "上传分享模组",
+  "en": "Upload & Share Mod",
+  "pt": ""
+ },
+ "mod_shangchuanggongfangtishi": {
+  "ch": "上传到创意工坊后，其他玩家可以通过模组商店下载你的模组，你也可以在商店订阅自己的模组！",
+  "en": "After uploading to Workshop, other players may download your mods in Mod Store, and you may also subscribe to your own mods in the store!",
+  "pt": ""
+ },
+ "mod_shangchuangtishi": {
+  "ch": "请移动Unity3D资源项目的Library到模组以外的目录，或者直接删除Library，在重新上传模组。\n<r>一定不能直接重命名Library</r>\n\n由于Library是缓存文件夹，且数据过大，不需要上传Library到创意工坊上。",
+  "en": "Please move the Library of Unity3D resource projects to a directory outside the mod or delete the Library before uploading the mod again.\n<r>You should NOT rename Library directly.</r>\n\nSince Library is a cache folder and it is large in size, you don't need to upload Library to the workshop.",
+  "pt": ""
+ },
+ "mod_shangchuanmozu1": {
+  "ch": "导出模组",
+  "en": "Export Mod",
+  "pt": ""
+ },
+ "mod_shangchuanmozu2": {
+  "ch": "上传到创意工坊",
+  "en": "Upload to Creative Workshop",
+  "pt": ""
+ },
+ "mod_shangchuanzhong1": {
+  "ch": "正在处理配置数据",
+  "en": "Processing configuration data",
+  "pt": ""
+ },
+ "mod_shangchuanzhong2": {
+  "ch": "正在读取并处理内容文件",
+  "en": "Reading and processing content files",
+  "pt": ""
+ },
+ "mod_shangchuanzhong3": {
+  "ch": "正在将内容更改上传到 Steam",
+  "en": "Uploading content change to Steam",
+  "pt": ""
+ },
+ "mod_shangchuanzhong4": {
+  "ch": "正在上传新的预览文件图像",
+  "en": "Uploading new preview file images",
+  "pt": ""
+ },
+ "mod_shangchuanzhong5": {
+  "ch": "正在提交所有更改",
+  "en": "Committing all changes",
+  "pt": ""
+ },
+ "mod_shangdian1": {
+  "ch": "模组商店",
+  "en": "Mod Store",
+  "pt": ""
+ },
+ "mod_shangdian10": {
+  "ch": "第{0}/{1}页",
+  "en": "Page {0}/{1}",
+  "pt": ""
+ },
+ "mod_shangdian11": {
+  "ch": "正在下载{0}个...",
+  "en": "Downloading {0}...",
+  "pt": ""
+ },
+ "mod_shangdian12": {
+  "ch": "取消所有正在下载的模组",
+  "en": "Cancel all Mods being downloaded",
+  "pt": ""
+ },
+ "mod_shangdian13": {
+  "ch": "作者：",
+  "en": "Author:",
+  "pt": ""
+ },
+ "mod_shangdian14": {
+  "ch": "模组大小：",
+  "en": "Mod size:",
+  "pt": ""
+ },
+ "mod_shangdian15": {
+  "ch": "点赞该模组！",
+  "en": "Like this Mod!",
+  "pt": ""
+ },
+ "mod_shangdian16": {
+  "ch": "踩该模组！",
+  "en": "Downvote this Mod!",
+  "pt": ""
+ },
+ "mod_shangdian17": {
+  "ch": "订阅",
+  "en": "Subscribe",
+  "pt": ""
+ },
+ "mod_shangdian18": {
+  "ch": "取消订阅",
+  "en": "Unsubscribe",
+  "pt": ""
+ },
+ "mod_shangdian19": {
+  "ch": "标签：",
+  "en": "Tag:",
+  "pt": ""
+ },
+ "mod_shangdian2": {
+  "ch": "本地模组",
+  "en": "Local Mod",
+  "pt": ""
+ },
+ "mod_shangdian20": {
+  "ch": "订阅数：",
+  "en": "Subscriptions:",
+  "pt": ""
+ },
+ "mod_shangdian3": {
+  "ch": "名称",
+  "en": "Name",
+  "pt": ""
+ },
+ "mod_shangdian4": {
+  "ch": "标签",
+  "en": "Tag",
+  "pt": ""
+ },
+ "mod_shangdian5": {
+  "ch": "订阅数",
+  "en": "Subscriptions",
+  "pt": ""
+ },
+ "mod_shangdian6": {
+  "ch": "好评率",
+  "en": "Rating",
+  "pt": ""
+ },
+ "mod_shangdian7": {
+  "ch": "开源",
+  "en": "Open Source",
+  "pt": ""
+ },
+ "mod_shangdian8": {
+  "ch": "载入到游戏",
+  "en": "Load to Game",
+  "pt": ""
+ },
+ "mod_shangdian9": {
+  "ch": "刷新",
+  "en": "Refresh",
+  "pt": ""
+ },
+ "mod_shangyiye": {
+  "ch": "上一页",
+  "en": "Previous",
+  "pt": ""
+ },
+ "mod_shenfen": {
+  "ch": "身份：",
+  "en": "Position:",
+  "pt": ""
+ },
+ "mod_shengjitishi": {
+  "ch": "以下模组升级了版本，请注意备份存档（注意：如果模组删除了一些数据，游戏可能会引发各种错误！）",
+  "en": "The following Mod has an upgrade patch. Please be sure to backup the archive. (Note: If the Mod has deleted some data, the game may have various errors!)",
+  "pt": ""
+ },
+ "mod_shenglishuoming1": {
+  "ch": "击杀大妖兽。",
+  "en": "Kill Mythical Beast.",
+  "pt": ""
+ },
+ "mod_shenglishuoming2": {
+  "ch": "击杀所有怪物。",
+  "en": "Kill all monsters.",
+  "pt": ""
+ },
+ "mod_shenglishuoming3": {
+  "ch": "副本倒计时结束胜利。",
+  "en": "Victory upon dungeon time-up.",
+  "pt": ""
+ },
+ "mod_shenhun": {
+  "ch": "神魂",
+  "en": "Divine Soul",
+  "pt": ""
+ },
+ "mod_shenmizuzhi": {
+  "ch": "神秘组织",
+  "en": "Secret Order",
+  "pt": ""
+ },
+ "mod_shezhibiaoqiantishi": {
+  "ch": "没有设置标签！",
+  "en": "No tag!",
+  "pt": ""
+ },
+ "mod_shezhiguanxi": {
+  "ch": "关系目标",
+  "en": "Relationship Target",
+  "pt": ""
+ },
+ "mod_shezhiguanxitishi": {
+  "ch": "只需要其中一方设置关系，不需要两个NPC同时设置关系。",
+  "en": "You only need to tweak Relationship Settings for one party, not for both NPCs.",
+  "pt": ""
+ },
+ "mod_shifoudingyue": {
+  "ch": "是否订阅",
+  "en": "Subscribe?",
+  "pt": ""
+ },
+ "mod_shifougenggaiid": {
+  "ch": "是否更改ID？",
+  "en": "Change ID?",
+  "pt": ""
+ },
+ "mod_shijian1": {
+  "ch": "事件名称",
+  "en": "Event name",
+  "pt": ""
+ },
+ "mod_shijian10": {
+  "ch": "玩家移动到图标上，执行的命令",
+  "en": "The command to run when Player moves to the icon",
+  "pt": ""
+ },
+ "mod_shijian11": {
+  "ch": "抓取NPC失败时，移动到图标上打开的剧情",
+  "en": "Plot to launch when Player moves to the icon but the NPC extraction fails",
+  "pt": ""
+ },
+ "mod_shijian12": {
+  "ch": "同一个事件最大数量（0 无限数量）",
+  "en": "Max number of the same event (0 means unlimited)",
+  "pt": ""
+ },
+ "mod_shijian13": {
+  "ch": "事件在小地图显示的图标",
+  "en": "Icon displayed on the Map",
+  "pt": ""
+ },
+ "mod_shijian2": {
+  "ch": "大地图事件图标",
+  "en": "World map event icon",
+  "pt": ""
+ },
+ "mod_shijian3": {
+  "ch": "生成事件时执行的命令",
+  "en": "Command to run when generating the event",
+  "pt": ""
+ },
+ "mod_shijian4": {
+  "ch": "持续时间（月，-1 无限时间）",
+  "en": "Duration (month, -1 means infinite)",
+  "pt": ""
+ },
+ "mod_shijian5": {
+  "ch": "持续事件到达后，事件会自动删除。",
+  "en": "When the event expires, it is deleted automatically.",
+  "pt": ""
+ },
+ "mod_shijian6": {
+  "ch": "事件抓取的NPC（NPC-A）",
+  "en": "NPC extracted by the event (NPC-A)",
+  "pt": ""
+ },
+ "mod_shijian7": {
+  "ch": "事件抓取的NPC（NPC-B）",
+  "en": "NPC extracted by the event (NPC-B)",
+  "pt": ""
+ },
+ "mod_shijian8": {
+  "ch": "当设置抓取NPC时，那么必须成功抓取到NPC，走到图标上才能打开剧情（会传递NPC到剧情里）。\n\n例子1：抓取NPC后，使用对话剧情，可以和NPC互动进行对话。\n\n例子2：抓取NPC后，NPC会传递到剧情里，剧情按钮命令可以使用增加属性、添加气运之类的命令对NPC增加属性、施加气运。",
+  "en": "When NPC extracting has been configured, you have to successfully extract the NPC and move them to the icon to launch the Plot.\n\nExample 1: After extracting the NPC, you can talk to the NPC.\n\nExample 2: After extracting the NPC, they will enter the Plot. You can use commands to increase their Stats, Destiny, etc.",
+  "pt": ""
+ },
+ "mod_shijian9": {
+  "ch": "玩家移动到图标上，打开的剧情",
+  "en": "The plot to launch when Player moves to the icon",
+  "pt": ""
+ },
+ "mod_shijiansuoming": {
+  "ch": "大地图事件一般用于奇遇（类似玄冥之女、荒村），玩家可以走到事件上触发对话。",
+  "en": "World map events are often adventures (such as [Runaway Girl] and [Abandoned Village]). Player can move to the event location to trigger the dialogue.",
+  "pt": ""
+ },
+ "mod_shijiantubiaochichun": {
+  "ch": "只能添加占地一格的事件图标（一格地图，图片标准尺寸120*120）",
+  "en": "Only event icons that take one tile can be added (one tile on the map, image standard size 120*120)",
+  "pt": ""
+ },
+ "mod_shiyongxiaohao": {
+  "ch": "使用藏宝图时消耗的道具",
+  "en": "Item cost when using the Artifact Map",
+  "pt": ""
+ },
+ "mod_shuaxin": {
+  "ch": "刷新",
+  "en": "Refresh",
+  "pt": ""
+ },
+ "mod_shuaxinshuju": {
+  "ch": "刷新数据",
+  "en": "Refresh Data",
+  "pt": ""
+ },
+ "mod_shuaxinshujutishi": {
+  "ch": "如果模组项目编辑了新内容，需要点击“刷新数据”，才能使最新的模组内容应用到游戏中！",
+  "en": "If the Mod project is edited with new content, you need to click “Refresh Data” to have the latest Mod content applied to the game!",
+  "pt": ""
+ },
+ "mod_shuaxintishi": {
+  "ch": "当复制了模组源工程到工作目录时（注意目录结构），点击刷新UI显示出新工程。",
+  "en": "When the Mod source project is copied to the work root directory (Note the directory structure), click Refresh UI to display the new project.",
+  "pt": ""
+ },
+ "mod_shuji1": {
+  "ch": "书籍有几页",
+  "en": "How many pages the book has",
+  "pt": ""
+ },
+ "mod_shuji2": {
+  "ch": "第{0}页书籍内容",
+  "en": "Content on page number {0}",
+  "pt": ""
+ },
+ "mod_shulianduleixing": {
+  "ch": "熟练度类型",
+  "en": "Proficiency Type",
+  "pt": ""
+ },
+ "mod_shuxingleixing": {
+  "ch": "属性类型",
+  "en": "Elemental type",
+  "pt": ""
+ },
+ "mod_shuxingshanchutishi": {
+  "ch": "是否删除属性数据？删除后创建NPC时随机设置属性。",
+  "en": "Are you sure you want to delete Stat Data? NPC Stats will be randomized after deletion.",
+  "pt": ""
+ },
+ "mod_sortTips": {
+  "ch": "选中模组进行排序操作（按住Shift再点击可进行多选操作）\n按住Shift+方向键↑：选中的模组向上移动\n按住Shift+方向键↓：选中的模组向下移动\nCtrl+方向键↑：选中的模组置顶\nCtrl+方向键↓：选中的模组置底\n\n提示：多选模组后，点击勾选模组会一起生效",
+  "en": "Select mods to sort. Hold Shift and click to select multiple mods.\nPress Shift + ↑ to move the selected mod up.\nPress Shift + ↓ to move the selected mod down.\nPress Ctrl + ↑ to move the selected mod to the top.\nPress Ctrl + ↓ to move the selected mod to the bottom.\n\nTip: You may enable or disable multiple mods at one time by selecting and checking or unchecking them.",
+  "pt": ""
+ },
+ "mod_sousuo": {
+  "ch": "搜索",
+  "en": "Search",
+  "pt": ""
+ },
+ "mod_suiji": {
+  "ch": "随机",
+  "en": "Random",
+  "pt": ""
+ },
+ "mod_suoding": {
+  "ch": "锁定在",
+  "en": "Cap at",
+  "pt": ""
+ },
+ "mod_suodingshuzhi": {
+  "ch": "锁定的数值",
+  "en": "Locked Value",
+  "pt": ""
+ },
+ "mod_suoyoupeizhi": {
+  "ch": "所有通用配置",
+  "en": "All General Configuration",
+  "pt": ""
+ },
+ "mod_tianjiachenggong": {
+  "ch": "添加成功！",
+  "en": "Added!",
+  "pt": ""
+ },
+ "mod_tianjiashengying": {
+  "ch": "添加新的声音",
+  "en": "Add a new sound",
+  "pt": ""
+ },
+ "mod_tianjiashuju": {
+  "ch": "添加[{0}]",
+  "en": "Add [{0}]",
+  "pt": ""
+ },
+ "mod_tianjiatietu": {
+  "ch": "添加新的图片",
+  "en": "Add a new pic",
+  "pt": ""
+ },
+ "mod_tianjiatishi": {
+  "ch": "<size=26>载入了以下模组（导入模组可能会产生未知的错误和BUG，导致存档损坏，<b><u><size=30>请注意备份存档！</b></size></u>）</size>",
+  "en": "<size=26>Loaded the following Mods (Import Mods may cause unknown errors and bugs, and may corrupt the archive file. <b><u><size=30>So make sure to do a backup!</b></size></u>)</size>",
+  "pt": ""
+ },
+ "mod_tianjiaxinde": {
+  "ch": "编辑配置",
+  "en": "Edit Configuration",
+  "pt": ""
+ },
+ "mod_tianqiid": {
+  "ch": "大地图天气",
+  "en": "World map weather",
+  "pt": ""
+ },
+ "mod_tiaojian1": {
+  "ch": "任务ID",
+  "en": "Mission ID",
+  "pt": ""
+ },
+ "mod_tiaojian2": {
+  "ch": "过了多长时间（月）",
+  "en": "Time elapsed (months)",
+  "pt": ""
+ },
+ "mod_tiaojian3": {
+  "ch": "背包需要包含的道具",
+  "en": "Item required in bag",
+  "pt": ""
+ },
+ "mod_tiaojian4": {
+  "ch": "道具数量要求（大于等于）",
+  "en": "Quantity of items required (≥)",
+  "pt": ""
+ },
+ "mod_tiaojianliebiao": {
+  "ch": "条件列表",
+  "en": "Requirements List",
+  "pt": ""
+ },
+ "mod_tiaojiansuoming": {
+  "ch": "当条件没有指定角色类型选择的时候，判断的角色就是玩家。\n\n注意：条件默认是需要全部达成的，除非用了or条件功能。",
+  "en": "When a character type is not selected, the default value is Player.\n\nAttention: By default, all conditions must be accomplished unless you the [or] condition is used.",
+  "pt": ""
+ },
+ "mod_tiaokuan1": {
+  "ch": "《模组编辑器用户协议》",
+  "en": "Mod Editor User Agreement",
+  "pt": ""
+ },
+ "mod_tiaokuan2": {
+  "ch": "我已阅读并同意《模组编辑器用户协议》",
+  "en": "I have read and accepted the Mod Editor User Agreement",
+  "pt": ""
+ },
+ "mod_tiaokuan3": {
+  "ch": "确定",
+  "en": "OK",
+  "pt": ""
+ },
+ "mod_tiaokuan4": {
+  "ch": "请先同意用户协议！",
+  "en": "Please accept the user agreement first!",
+  "pt": ""
+ },
+ "mod_tiaokuan5": {
+  "ch": "　　尊敬的用户，欢迎您选择由鬼谷工作室研发，深圳雷霆信息技术有限公司发行的《鬼谷八荒》单机游戏，您现在正在使用的是《鬼谷八荒》模组编辑器，在您使用我们的服务前，请务必仔细阅读使用须知，当您使用我们提供的服务时，即代表您已同意使用须知的内容。\n\n　　1. 您清楚并明白模组编辑器不对非自身提供的其它内容的合法性负责。您不得在使用模组编辑器时，导入包括但不限于以下情形的内容：\n　　⑴反对中华人民共和国宪法所确定的基本原则的； \n　　⑵危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的； \n　　⑶损害国家荣誉和利益的； \n　　⑷煽动民族仇恨、民族歧视，破坏民族团结的； \n　　⑸破坏国家宗教政策，宣扬邪教和封建迷信的； \n　　⑹散布谣言，扰乱社会秩序，破坏社会稳定的； \n　　⑺散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的； \n　　⑻侮辱或者诽谤他人，侵害他人合法权益的； \n　　⑼宣扬、教唆使用外挂、私服、病毒、恶意代码、木马及其相关内容的； \n　　⑽侵犯他人知识产权或涉及第三方商业秘密及其他专有权利的； \n　　⑾散布任何贬损、诋毁、恶意攻击《鬼谷八荒》游戏软件、游戏服务、鬼谷工作室、关联公司、合作方及其员工的内容的； \n　　⑿含有中华人民共和国法律、行政法规、政策、上级主管部门下发通知中所禁止的其他内容的。\n一旦查实您有以上禁止行为，我们有权进行下架和/或封禁您的模组，而不需事先通知。\n\n　　2. 您清楚并理解，您需要对您在本模组编辑器内导入的内容（包括但不限于文本、图片、声音）负责，您承诺并保证导入的内容不存在任何侵犯其他人权利的情形。\n\n　　3. 您在模组编辑器内制作完成的作品中您原创的素材版权归您所有，如在任何网络平台进行分享，则意味着您已同意其他游戏用户可浏览、下载、使用该作品，范围可能会脱离您的预期和控制，您应充分意识到此类风险的存在。任何您不愿被他人获知的内容都不应在任何网络平台发布或传播。用户按照任何网络平台规则谨慎发布、传播、下载相关作品并自行承担相关责任，模组编辑器不对任何发生在任何网络平台的用户行为负责。\n\n　　4. 《鬼谷八荒》游戏内所有我方原创文件资源仅用于用户在《鬼谷八荒》游戏内部使用，不得用于任何商业用途的范围，用户应自觉遵守著作权法及其他相关法律的规定。未经模组编辑器许可，任何人不得盗链模组编辑器内提供的素材和图片；不得复制或仿造其他用户通过模组编辑器制作完成的作品，未经授权，不得将他人制作的包含《鬼谷八荒》游戏元素的模组传播或发布到其他未经原权利人授权的平台。\n\n\n<align=right>鬼谷工作室\n2022年05月11日</align>",
+  "en": "",
+  "pt": ""
+ },
+ "mod_tiaoshi1": {
+  "ch": "正在调试以下模组",
+  "en": "The following Mods are being debugged",
+  "pt": ""
+ },
+ "mod_tiaoshi2": {
+  "ch": "结束调试模组：",
+  "en": "End debugging Mod:",
+  "pt": ""
+ },
+ "mod_tiaoshi3": {
+  "ch": "进入游戏调试",
+  "en": "Go to game debugging",
+  "pt": ""
+ },
+ "mod_tiaoshi4": {
+  "ch": "路径：",
+  "en": "Path:",
+  "pt": ""
+ },
+ "mod_tiaoshinpc1": {
+  "ch": "调试是否创建NPC？",
+  "en": "Generate NPC for debugging?",
+  "pt": ""
+ },
+ "mod_tiaoshinpc2": {
+  "ch": "调试模组时，可以取消创建NPC选项，则创建新档时，不会创建普通NPC，极大的提高建档速度。",
+  "en": "When debugging the mod, you may turn off the option to create NPC so that no normal NPCs will be generated in the new save data, which will make the process much faster.",
+  "pt": ""
+ },
+ "mod_tiaoshishuoming": {
+  "ch": "模组制作过程中，不需要导出，可以直接进入游戏调试。\n\n<o>调试过程中按“Ctrl+F12”打开控制台查看打印</o>",
+  "en": "You don't need to export a mod in progress. Simply enter the game to tweak the mod.\n\n<o>Press Ctrl+F12 while debugging to open the console to check and print it.</o>",
+  "pt": ""
+ },
+ "mod_tiaoshitishi": {
+  "ch": "导入模组成功，请手动“新建存档”或“进入老存档”进行调试。",
+  "en": "Mod imported. Please \"Add a new save\" or \"Enter a previous save.\"",
+  "pt": ""
+ },
+ "mod_tishi1": {
+  "ch": "本地模组",
+  "en": "Local Mod",
+  "pt": ""
+ },
+ "mod_tishi2": {
+  "ch": "稍后再说",
+  "en": "Come back to this later",
+  "pt": ""
+ },
+ "mod_tongyongpeizhi1": {
+  "ch": "通用配置列表",
+  "en": "General Configuration List",
+  "pt": ""
+ },
+ "mod_tongyongpeizhi2": {
+  "ch": "包含了所有的通用配置，可以直接打开编辑。\n\n例如道具配置表，通过命令可以产出道具，那么可以直接在此处配置好道具，不需要点击到命令里添加道具。",
+  "en": "Contains all the general configurations. You can open and edit it directly.\n\nE.g., you can configure items on the item sheet directly to get them quickly. You don't have to put them into the command list to get them.",
+  "pt": ""
+ },
+ "mod_tongyongpeizhi3": {
+  "ch": "配置表",
+  "en": "Configuration Table",
+  "pt": ""
+ },
+ "mod_tuichu": {
+  "ch": "退出",
+  "en": "Quit",
+  "pt": ""
+ },
+ "mod_tupianchongfu": {
+  "ch": "文件名字重复，请修改文件名称！",
+  "en": "File name duplicated! Please change the file name!",
+  "pt": ""
+ },
+ "mod_tupianchongfutishi": {
+  "ch": "资源名称重复，是否覆盖？",
+  "en": "Resource name duplicated. Overwrite?",
+  "pt": ""
+ },
+ "mod_tupianguoda": {
+  "ch": "图片尺寸过大，图片宽高最大不能超过{0}x{1}！",
+  "en": "Picture size too large. Its width and height should not exceed {0}x{1}!",
+  "pt": ""
+ },
+ "mod_wanjia": {
+  "ch": "玩家",
+  "en": "Player",
+  "pt": ""
+ },
+ "mod_wanjiazishen": {
+  "ch": "0-玩家自身",
+  "en": "0- Player",
+  "pt": ""
+ },
+ "mod_weihuzhong": {
+  "ch": "维护中。",
+  "en": "In maintenance.",
+  "pt": ""
+ },
+ "mod_weihuzhong2": {
+  "ch": "fanbook社区优化中。",
+  "en": "Fanbook community under improvement.",
+  "pt": ""
+ },
+ "mod_weihuzhong3": {
+  "ch": "请等待官方通知。",
+  "en": "Please wait for official notice.",
+  "pt": ""
+ },
+ "mod_weijiazai": {
+  "ch": "（未加载）",
+  "en": "(Not Loaded)",
+  "pt": ""
+ },
+ "mod_weijiazaimozu": {
+  "ch": "<r>（模组未加载）</r>",
+  "en": "<r>(Mod not loaded)</r>",
+  "pt": ""
+ },
+ "mod_wenben": {
+  "ch": "文本内容",
+  "en": "Text content",
+  "pt": ""
+ },
+ "mod_wu": {
+  "ch": "无",
+  "en": "N/A",
+  "pt": ""
+ },
+ "mod_wushengying": {
+  "ch": "无声音",
+  "en": "No sound",
+  "pt": ""
+ },
+ "mod_wushuju": {
+  "ch": "<r>无数据</r>",
+  "en": "<r>No Data</r>",
+  "pt": ""
+ },
+ "mod_wushujumiaoshu": {
+  "ch": "<r>错误：无数据，请选择正确的数据！</r>",
+  "en": "<r>Error: No data. Please select the correct data!</r>",
+  "pt": ""
+ },
+ "mod_wuxue": {
+  "ch": "调试技能",
+  "en": "Customized manual",
+  "pt": ""
+ },
+ "mod_xiangmu1": {
+  "ch": "模组项目工程",
+  "en": "Mod Project Engineering",
+  "pt": ""
+ },
+ "mod_xiangmu2": {
+  "ch": "新建项目",
+  "en": "New Project",
+  "pt": ""
+ },
+ "mod_xiangmu3": {
+  "ch": "删除",
+  "en": "Delete",
+  "pt": ""
+ },
+ "mod_xiangmu4": {
+  "ch": "是否删除项目？删除后不可恢复！",
+  "en": "Delete project? It cannot be restored after deletion!",
+  "pt": ""
+ },
+ "mod_xiangmu5": {
+  "ch": "加载此模组到游戏中",
+  "en": "Load this Mod to the game",
+  "pt": ""
+ },
+ "mod_xiangmu6": {
+  "ch": "编辑",
+  "en": "Edit",
+  "pt": ""
+ },
+ "mod_xiangmu7": {
+  "ch": "成功加载模组到游戏中！",
+  "en": "Loaded Mod to the game!",
+  "pt": ""
+ },
+ "mod_xiangmu8": {
+  "ch": "加载模组失败！",
+  "en": "Mod load failed!",
+  "pt": ""
+ },
+ "mod_xiangmu9": {
+  "ch": "模组已从游戏中卸载！",
+  "en": "Mod has been removed from the game!",
+  "pt": ""
+ },
+ "mod_xiangmulujing": {
+  "ch": "模组工程目录：",
+  "en": "Mod Project List:",
+  "pt": ""
+ },
+ "mod_xiaoditutubiao": {
+  "ch": "小地图图标",
+  "en": "Map icon",
+  "pt": ""
+ },
+ "mod_xiaoditutubiao2": {
+  "ch": "当设置了小地图图标后，在小地图上会显示出事件位置。",
+  "en": "After selecting a Map icon, the event's location will be displayed on the map",
+  "pt": ""
+ },
+ "mod_xiaoguo": {
+  "ch": "角色效果",
+  "en": "Character effect",
+  "pt": ""
+ },
+ "mod_xiaozongmen1": {
+  "ch": "创建小宗门",
+  "en": "Create a Minor Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen10": {
+  "ch": "创建宗门需要的先天气运",
+  "en": "Destiny (Nature) required for creating a Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen11": {
+  "ch": "当玩家新建角色时，必须选择此先天气运才能正常创建小宗门。\n\n（例如选了“龙祖灵息”先天气运，则开局后才会创建“御龙山庄”）\n\n一般需要新建一个小宗门专用的定制先天气运。",
+  "en": "You need to choose this Destiny (Nature) when creating a new character to create Minor Sect in the future.\n\n(E.g., choose the Destiny (Nature) \"Elder Dragon Aura\" to create \"Dragon Mountain Hamlet\" in the game)\n\nNormally, you will need to create a Destiny (Nature) customized for the Sect.",
+  "pt": ""
+ },
+ "mod_xiaozongmen12": {
+  "ch": "拦截入宗条件",
+  "en": "Reject",
+  "pt": ""
+ },
+ "mod_xiaozongmen13": {
+  "ch": "如配置了拦截入宗条件，则条件达成时，点击申请入宗会弹出剧情。\n\n例如御龙山庄：拦截入宗条件是没有完成某个任务则不能申请加入宗门，配合奇遇触发方式，设置打开宗门UI时触发奇遇，进入剧情流程，完成指定任务后才能加入御龙山庄。",
+  "en": "If you have made rejection settings, a Plot will be launched when Sect rejection is triggered.\n\nE.g., Set a rejection trigger: Dragon Mountain Hamlet - reject characters that haven't completed a specified mission; set an Adventure trigger: Adventure will be triggered when characters tap the Sect UI to join the Sect. Then, a Plot will be launched and the characters may complete the specified mission to join Dragon Mountain Hamlet.",
+  "pt": ""
+ },
+ "mod_xiaozongmen14": {
+  "ch": "拦截条件达成时打开的剧情",
+  "en": "Plot launched when a character is rejected",
+  "pt": ""
+ },
+ "mod_xiaozongmen15": {
+  "ch": "如果配置了拦截入宗条件，当条件达成时，玩家点击申请入宗，会打开设置的剧情。",
+  "en": "If you have made rejection settings and rejection is triggered when the player applies to join the Sect, a preset Plot will be launched.",
+  "pt": ""
+ },
+ "mod_xiaozongmen16": {
+  "ch": "小宗门",
+  "en": "Minor Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen17": {
+  "ch": "入宗资质要求",
+  "en": "Required Stat",
+  "pt": ""
+ },
+ "mod_xiaozongmen18": {
+  "ch": "玩家的资质必须达到宗门的任意主修功法资质要求。",
+  "en": "The player must meet the requirement of any Main Martial Arts of the Sect.",
+  "pt": ""
+ },
+ "mod_xiaozongmen19": {
+  "ch": "入宗亲密度要求",
+  "en": "Required Affinity",
+  "pt": ""
+ },
+ "mod_xiaozongmen2": {
+  "ch": "定制普通宗门",
+  "en": "Customize a normal Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen20": {
+  "ch": "必须和此宗门的亲密度达到一定值或者资质要求达到才能加入此宗门。",
+  "en": "The player must meet the required Affinity and Stats of the Sect to join it.",
+  "pt": ""
+ },
+ "mod_xiaozongmen21": {
+  "ch": "入宗境界限制",
+  "en": "Realm Limit",
+  "pt": ""
+ },
+ "mod_xiaozongmen22": {
+  "ch": "当境界超过此值时，申请入宗会提示境界过高，拒绝你加入宗门。",
+  "en": "Players above this Realm cannot join the Sect.",
+  "pt": ""
+ },
+ "mod_xiaozongmen23": {
+  "ch": "初始灵石",
+  "en": "Initial Spirit Stones",
+  "pt": ""
+ },
+ "mod_xiaozongmen24": {
+  "ch": "宗门的初始灵石数量",
+  "en": "No. of Initial Spirit Stones of the Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen25": {
+  "ch": "初始药材",
+  "en": "Initial Herbs",
+  "pt": ""
+ },
+ "mod_xiaozongmen26": {
+  "ch": "宗门的初始药材数量",
+  "en": "No. of Initial Herbs of the Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen27": {
+  "ch": "初始矿材",
+  "en": "Initial Ores",
+  "pt": ""
+ },
+ "mod_xiaozongmen28": {
+  "ch": "宗门的初始矿材数量",
+  "en": "No. of Initial Ores of the Sect",
+  "pt": ""
+ },
+ "mod_xiaozongmen29": {
+  "ch": "初始是否有宗主",
+  "en": "Whether an initial Sect Leader exists",
+  "pt": ""
+ },
+ "mod_xiaozongmen3": {
+  "ch": "可自定义游戏里生成的普通宗门数据，不能新增普通宗门。",
+  "en": "You can customize the data of Normal Sects in the game. Cannot create new Normal Sects.",
+  "pt": ""
+ },
+ "mod_xiaozongmen30": {
+  "ch": "初始大长老数量",
+  "en": "No. of Initial Grand Elders",
+  "pt": ""
+ },
+ "mod_xiaozongmen31": {
+  "ch": "初始长老数量",
+  "en": "No. of Initial Elders",
+  "pt": ""
+ },
+ "mod_xiaozongmen32": {
+  "ch": "初始真传弟子数量",
+  "en": "No. of Initial True Disciples",
+  "pt": ""
+ },
+ "mod_xiaozongmen33": {
+  "ch": "初始内门弟子数量",
+  "en": "No. of Initial Inner Disciples",
+  "pt": ""
+ },
+ "mod_xiaozongmen34": {
+  "ch": "初始外门弟子数量",
+  "en": "No. of Initial Outer Disciples",
+  "pt": ""
+ },
+ "mod_xiaozongmen35": {
+  "ch": "初始记名弟子数量",
+  "en": "No. of Initial Backup Disciples",
+  "pt": ""
+ },
+ "mod_xiaozongmen36": {
+  "ch": "初始名誉",
+  "en": "Initial Prestige",
+  "pt": ""
+ },
+ "mod_xiaozongmen37": {
+  "ch": "宗门的初始名誉",
+  "en": "Initial Sect Prestige",
+  "pt": ""
+ },
+ "mod_xiaozongmen38": {
+  "ch": "初始领地范围",
+  "en": "Initial Territory",
+  "pt": ""
+ },
+ "mod_xiaozongmen39": {
+  "ch": "宗门的初始领地范围",
+  "en": "Initial Sect Territory",
+  "pt": ""
+ },
+ "mod_xiaozongmen4": {
+  "ch": "可以新增多个小宗门，根据玩家创建存档选择的先天气运来决定生成哪一个宗门，一个存档最多生成一个小宗门，并且位置一定在永宁州（游戏里的御龙山庄就是小宗门）",
+  "en": "You can create multiple Minor Sects. The Sect generated is determined by Destiny (Nature) chosen by the player when they create the save. A save can have only 1 Minor Sect and it will be located in Yong Ning. (Dragon Mountain Hamlet is the Minor Sect in the game.)",
+  "pt": ""
+ },
+ "mod_xiaozongmen40": {
+  "ch": "初始安定度",
+  "en": "Initial Stability",
+  "pt": ""
+ },
+ "mod_xiaozongmen41": {
+  "ch": "宗门的初始安定度",
+  "en": "Initial Sect Stability",
+  "pt": ""
+ },
+ "mod_xiaozongmen42": {
+  "ch": "初始繁荣度",
+  "en": "Initial Prosperity",
+  "pt": ""
+ },
+ "mod_xiaozongmen43": {
+  "ch": "宗门的初始繁荣度",
+  "en": "Initial Sect Prosperity",
+  "pt": ""
+ },
+ "mod_xiaozongmen44": {
+  "ch": "初始功法类型数量",
+  "en": "No. of Initial Martial Arts Types",
+  "pt": ""
+ },
+ "mod_xiaozongmen45": {
+  "ch": "宗门的初始功法类型数量",
+  "en": "No. of Initial Sect Martial Arts Type",
+  "pt": ""
+ },
+ "mod_xiaozongmen46": {
+  "ch": "初始弟子忠诚度",
+  "en": "Initial Disciple Loyalty",
+  "pt": ""
+ },
+ "mod_xiaozongmen47": {
+  "ch": "宗门的弟子初始忠诚度",
+  "en": "Initial Sect Disciple Loyalty",
+  "pt": ""
+ },
+ "mod_xiaozongmen48": {
+  "ch": "宗门宗旨1",
+  "en": "Sect Purpose 1",
+  "pt": ""
+ },
+ "mod_xiaozongmen49": {
+  "ch": "宗门宗旨2",
+  "en": "Sect Purpose 2",
+  "pt": ""
+ },
+ "mod_xiaozongmen5": {
+  "ch": "宗门名字",
+  "en": "Sect name",
+  "pt": ""
+ },
+ "mod_xiaozongmen50": {
+  "ch": "宗门门规1",
+  "en": "Sect Rules 1",
+  "pt": ""
+ },
+ "mod_xiaozongmen51": {
+  "ch": "宗门门规2",
+  "en": "Sect Rules 2",
+  "pt": ""
+ },
+ "mod_xiaozongmen6": {
+  "ch": "宗门特殊逆天改命",
+  "en": "Sect - Special Rewrite Destiny",
+  "pt": ""
+ },
+ "mod_xiaozongmen7": {
+  "ch": "只有加入了此宗门，在宗门的灵阁突破时才能出现特殊逆天改命。\n\n一般需要新建一个宗门专用的定制逆天改命。",
+  "en": "You need to join the Sect to trigger Special Rewrite Destiny upon Spirit Pavilion Breakthrough.\n\nNormally, you will need to create a Rewrite Destiny customized for the Sect.",
+  "pt": ""
+ },
+ "mod_xiaozongmen8": {
+  "ch": "宗门主修功法",
+  "en": "Sect's main Martial Arts",
+  "pt": ""
+ },
+ "mod_xiaozongmen9": {
+  "ch": "可自定义宗门的主修功法，一般只需要选择一种。（例如御龙山庄，则主修功法选择枪）",
+  "en": "Select the main Martial Arts for your Sect. (For example, the main Martial Arts of Dragon Mountain Hamlet is Spear.)",
+  "pt": ""
+ },
+ "mod_xiayiye": {
+  "ch": "下一页",
+  "en": "Next",
+  "pt": ""
+ },
+ "mod_xieyi1": {
+  "ch": "提交此模组即表明您同意了",
+  "en": "By submitting this Mod, you agree to the",
+  "pt": ""
+ },
+ "mod_xieyi2": {
+  "ch": "创意工坊服务条款",
+  "en": "Creative Workshop Terms of Service",
+  "pt": ""
+ },
+ "mod_xingbiebuyizhi": {
+  "ch": "性别不一致！",
+  "en": "Gender inconsistent!",
+  "pt": ""
+ },
+ "mod_xingquid": {
+  "ch": "兴趣",
+  "en": "Interests",
+  "pt": ""
+ },
+ "mod_xinzengshuju": {
+  "ch": "新建、编辑数据",
+  "en": "Add/edit data",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi1": {
+  "ch": "修改游戏配置",
+  "en": "Modify game config",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi2": {
+  "ch": "可以通过修改配置的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
+  "en": "Modify config to create your mod. Starters are recommended to read the tutorial first.",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi3": {
+  "ch": "当前配置ID：",
+  "en": "Current Config ID:",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi4": {
+  "ch": "重置ID",
+  "en": "Reset ID",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi5": {
+  "ch": "配置ID是所有配置的索引起点，除非遇到多模组冲突情况，否则无需改动。",
+  "en": "Config ID is the starting point for the index of all configs. You don't need to change it unless there is a clash with another mod.",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi6": {
+  "ch": "修改配置ID后，已加载过此模组的存档将会损坏，非必要情况，请勿重置配置ID！！！\n<r>是否重置ID？</r>",
+  "en": "After modifying config ID, saves that have loaded this mod will be corrupted. Don't reset config ID unless necessary!!!\n<r>Reset ID?</r>",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi7": {
+  "ch": "打开配置目录",
+  "en": "Open config directory",
+  "pt": ""
+ },
+ "mod_xiugaipeizhi8": {
+  "ch": "打开教程目录",
+  "en": "Open tutorial directory",
+  "pt": ""
+ },
+ "mod_xiugaipeizhibiaoti": {
+  "ch": "配置修改",
+  "en": "Modify Config",
+  "pt": ""
+ },
+ "mod_xiugaizhi": {
+  "ch": "修改的数值",
+  "en": "Changed Value",
+  "pt": ""
+ },
+ "mod_xiugaiziyuan1": {
+  "ch": "资源修改",
+  "en": "Modify Resources",
+  "pt": ""
+ },
+ "mod_xiugaiziyuan2": {
+  "ch": "打开教程目录",
+  "en": "Open tutorial directory",
+  "pt": ""
+ },
+ "mod_xiugaiziyuan3": {
+  "ch": "打开项目目录",
+  "en": "Open project directory",
+  "pt": ""
+ },
+ "mod_xiugaiziyuan4": {
+  "ch": "可以通过修改游戏资源的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
+  "en": "Modify game resources to create your mod. Starters are recommended to read the tutorial first.",
+  "pt": ""
+ },
+ "mod_xuanxiang1": {
+  "ch": "按钮出现条件",
+  "en": "Button appearance requirements",
+  "pt": ""
+ },
+ "mod_xuanxiang2": {
+  "ch": "当条件不满足时，按钮不会出现在剧情上。",
+  "en": "If requirements are not met, the button will not appear on the Plot.",
+  "pt": ""
+ },
+ "mod_xuanxiang3": {
+  "ch": "按钮文本内容",
+  "en": "Text on the button",
+  "pt": ""
+ },
+ "mod_xuanxiang4": {
+  "ch": "点击按钮后需要消耗的物品",
+  "en": "Item cost for tapping on the button",
+  "pt": ""
+ },
+ "mod_xuanxiang5": {
+  "ch": "点击按钮后执行的命令",
+  "en": "Command executed after tapping on the button",
+  "pt": ""
+ },
+ "mod_xuanxiang6": {
+  "ch": "点击按钮后跳转的下一个剧情",
+  "en": "Next Plot to go to after tapping on the button",
+  "pt": ""
+ },
+ "mod_xuanze": {
+  "ch": "选择",
+  "en": "Select",
+  "pt": ""
+ },
+ "mod_xuanzelujing": {
+  "ch": "选择存放模组项目路径",
+  "en": "Select path to store Mod project",
+  "pt": ""
+ },
+ "mod_yaocaijineng": {
+  "ch": "药材技艺",
+  "en": "Herb Artisanship",
+  "pt": ""
+ },
+ "mod_yasuochenggong": {
+  "ch": "导出“{0}”成功，需要到模组主界面的“本地模组”导入后模组才能生效。",
+  "en": "{0} exported. Import in Local Mods in mod main interface to activate it.",
+  "pt": ""
+ },
+ "mod_yeqian": {
+  "ch": "页签：",
+  "en": "Tab:",
+  "pt": ""
+ },
+ "mod_yichutishi": {
+  "ch": "<size=26>此存档使用过以下模组，但模组已被移除（注意：继续游戏可能会产生未知的错误和BUG！）</size>",
+  "en": "<size=26>The archive used the following Mod but the Mod has been removed (Note: Continuing the game may result in unexpected errors and bugs!)</size>",
+  "pt": ""
+ },
+ "mod_yidingyue": {
+  "ch": "已订阅",
+  "en": "Subscribed",
+  "pt": ""
+ },
+ "mod_yidingyuemnozu": {
+  "ch": "已订阅模组",
+  "en": "Subscribed Mods",
+  "pt": ""
+ },
+ "mod_yidongshang": {
+  "ch": "按“Ctrl+方向键↑”移动位置",
+  "en": "Press Ctrl + ↑ to move it",
+  "pt": ""
+ },
+ "mod_yidongxia": {
+  "ch": "按“Ctrl+方向键↓”移动位置",
+  "en": "Press Ctrl + ↓ to move it",
+  "pt": ""
+ },
+ "mod_yijiazai": {
+  "ch": "（已加载）",
+  "en": "(Loaded)",
+  "pt": ""
+ },
+ "mod_yijiazaimozu": {
+  "ch": "<g>（模组已加载）</g>",
+  "en": "<g>(Mod loaded)</g>",
+  "pt": ""
+ },
+ "mod_yinxiao": {
+  "ch": "音效",
+  "en": "SFX",
+  "pt": ""
+ },
+ "mod_yinxiaogeshi": {
+  "ch": "只能添加wav格式的声音",
+  "en": "Only wav format sounds can be added",
+  "pt": ""
+ },
+ "mod_yongjiu": {
+  "ch": "永久",
+  "en": "Permanent",
+  "pt": ""
+ },
+ "mod_yulan": {
+  "ch": "选择",
+  "en": "Select",
+  "pt": ""
+ },
+ "mod_yulanbiaoti1": {
+  "ch": "法宝",
+  "en": "Artifact",
+  "pt": ""
+ },
+ "mod_yulanbiaoti10": {
+  "ch": "武技",
+  "en": "Martial skill",
+  "pt": ""
+ },
+ "mod_yulanbiaoti11": {
+  "ch": "身法",
+  "en": "Motion skill",
+  "pt": ""
+ },
+ "mod_yulanbiaoti12": {
+  "ch": "大地图事件",
+  "en": "World map event",
+  "pt": ""
+ },
+ "mod_yulanbiaoti13": {
+  "ch": "性格",
+  "en": "Character traits",
+  "pt": ""
+ },
+ "mod_yulanbiaoti2": {
+  "ch": "怪物",
+  "en": "Monster",
+  "pt": ""
+ },
+ "mod_yulanbiaoti3": {
+  "ch": "副本",
+  "en": "Dungeon",
+  "pt": ""
+ },
+ "mod_yulanbiaoti4": {
+  "ch": "气运",
+  "en": "Destiny",
+  "pt": ""
+ },
+ "mod_yulanbiaoti5": {
+  "ch": "任务",
+  "en": "Mission",
+  "pt": ""
+ },
+ "mod_yulanbiaoti6": {
+  "ch": "大地图区域",
+  "en": "World map region",
+  "pt": ""
+ },
+ "mod_yulanbiaoti7": {
+  "ch": "道具",
+  "en": "Item",
+  "pt": ""
+ },
+ "mod_yulanbiaoti8": {
+  "ch": "剧情",
+  "en": "Plot",
+  "pt": ""
+ },
+ "mod_yulanbiaoti9": {
+  "ch": "心法",
+  "en": "Mind skill",
+  "pt": ""
+ },
+ "mod_yulantu1": {
+  "ch": "额外预览图（可选）",
+  "en": "Additional preview images (Optional)",
+  "pt": ""
+ },
+ "mod_yulantu2": {
+  "ch": "设置",
+  "en": "Settings",
+  "pt": ""
+ },
+ "mod_yulantu3": {
+  "ch": "（预览图{0}）：",
+  "en": "(Preview Image {0}):",
+  "pt": ""
+ },
+ "mod_yulantu4": {
+  "ch": "预览图{0}",
+  "en": "Preview Image {0}",
+  "pt": ""
+ },
+ "mod_yulantupianchichun": {
+  "ch": "（{0}）不能大于1MB！",
+  "en": "({0}) cannot be larger than 1MB!",
+  "pt": ""
+ },
+ "mod_yunxingkucuowutishi": {
+  "ch": "由于游戏安装路径存在中文或其他原因，模组加载器启动异常，部分MOD将无法使用，请查看游戏安装目录下的日志文件“MelonLoader\\\\Logs”。",
+  "en": "Errors occurred during Mod Loader launch. Some mods are unavailable now. A possible reason is there are Chinese characters in the game installation path. Please refer to the log file under the game installation directory \"MelonLoader\\Logs\".",
+  "pt": ""
+ },
+ "mod_zhantieshuju1": {
+  "ch": "粘贴数据",
+  "en": "Paste data",
+  "pt": ""
+ },
+ "mod_zhantieshuju2": {
+  "ch": "新建数据并粘贴",
+  "en": "Create new data and paste",
+  "pt": ""
+ },
+ "mod_zhengdao": {
+  "ch": "正道",
+  "en": "Righteous",
+  "pt": ""
+ },
+ "mod_zhengzaigengxin": {
+  "ch": "正在更新！",
+  "en": "Updating in progress!",
+  "pt": ""
+ },
+ "mod_zhengzaijiazai": {
+  "ch": "正在加载...",
+  "en": "Loading...",
+  "pt": ""
+ },
+ "mod_zhengzaixiazai": {
+  "ch": "正在下载...",
+  "en": "Downloading...",
+  "pt": ""
+ },
+ "mod_zhijietuichu": {
+  "ch": "不保存",
+  "en": "Do not save",
+  "pt": ""
+ },
+ "mod_zhiweirenshu": {
+  "ch": "注意：宗门职位是有人数上限的，同一个职位设置过多人数，则会导致部分NPC职位设置失败。\n\n宗主：最多1人。\n大长老：最多2人。\n长老：最多5人。\n真传：最多10人。\n内门、外门无人数限制。",
+  "en": "Note: There is a limit to the number of positions in the sect. Setting too many people in the same position will result in some NPC positions being unsuccessful.\n\nSect Leader: 1\nGrand Elder: 2\nElder: 5\nTrue Disciple: 10\nInner Disciples and Outer Disciples have no limit on the number of people.",
+  "pt": ""
+ },
+ "mod_zhiweishuoming": {
+  "ch": "0-无\n1-宗主\n2-大长老\n3-长老\n4-真传弟子\n5-内门弟子\n6-外门弟子",
+  "en": "0- None\n1- Sect Leader \n2- Grand Elder\n3- Elder\n4- True Disciple\n5- Inner Disciple\n6- Outer Disciple",
+  "pt": ""
+ },
+ "mod_zhizuomozu": {
+  "ch": "制作模组",
+  "en": "Create Mod",
+  "pt": ""
+ },
+ "mod_zhuaqunpc1": {
+  "ch": "NPC所在的区域",
+  "en": "NPC's current region",
+  "pt": ""
+ },
+ "mod_zhuaqunpc2": {
+  "ch": "NPC的境界要求",
+  "en": "NPC's realm requirement",
+  "pt": ""
+ },
+ "mod_zhuaqunpc4": {
+  "ch": "NPC必须处于此区域才能抓取成功。",
+  "en": "NPC must be in this region to be extracted successfully.",
+  "pt": ""
+ },
+ "mod_zhuaqunpc5": {
+  "ch": "NPC必须处于此境界才能抓取成功。",
+  "en": "NPC must be in this realm to be extracted successfully.",
+  "pt": ""
+ },
+ "mod_zhuaqunpc7": {
+  "ch": "抓取条件",
+  "en": "Extraction condition",
+  "pt": ""
+ },
+ "mod_zhuaqunpc8": {
+  "ch": "例子1：条件配置的是“指定两个角色的关系判定”，那么可以设置条件找到玩家的道侣。\n\n例子2：条件配置的是“指定角色的境界在什么范围”，那么可以设置条件找到登仙境的NPC。\n\n注意：条件里面“指定角色的XXX判定”命令，都是指抓取到的NPC，而不是指玩家。",
+  "en": "Example 1: If the condition is [specify the relationship between two characters], you can set up the requirement and search for a player's partner.\n\nExample 2: If the condition is [specify the character's realm], you can set up the requirement and search for Transcendent players.\n\nNote: [Specify character XXX determiner] refers to the NPCs you extract, not players.",
+  "pt": ""
+ },
+ "mod_zhuaqunpcmiaoshu": {
+  "ch": "可以抓取指定的NPC，一般用于奇遇、剧情中。\n例如：抓取玩家的仇人、抓取玩家的道侣等等。",
+  "en": "Extract specified NPC. Often used in adventures and plots.\nE.g.: Extract Player's enemies or partners.",
+  "pt": ""
+ },
+ "mod_zhuaqunpcpeizhi": {
+  "ch": "抓取NPC",
+  "en": "Extract NPC",
+  "pt": ""
+ },
+ "mod_zhuauqid": {
+  "ch": "抓取NPC",
+  "en": "Extract NPC",
+  "pt": ""
+ },
+ "mod_zhujiemian1": {
+  "ch": "本地模组",
+  "en": "Local Mods",
+  "pt": ""
+ },
+ "mod_zhujiemian2": {
+  "ch": "点击管理本地模组",
+  "en": "Click to manage local mods",
+  "pt": ""
+ },
+ "mod_zhujiemian3": {
+  "ch": "自定义模组",
+  "en": "Customize Mod",
+  "pt": ""
+ },
+ "mod_zhujiemian4": {
+  "ch": "点击制作一个新的模组",
+  "en": "Click to make a new mod",
+  "pt": ""
+ },
+ "mod_zhujiemian5": {
+  "ch": "下载模组",
+  "en": "Download Mod",
+  "pt": ""
+ },
+ "mod_zhujiemian6": {
+  "ch": "点击下载更多模组",
+  "en": "Click to download more mods",
+  "pt": ""
+ },
+ "mod_zhujiemian7": {
+  "ch": "保存成功，需要导出模组，并在“本地模组”导入才能使其生效！",
+  "en": "Mod saved. Export it and then import it in Local Modes to activate it!",
+  "pt": ""
+ },
+ "mod_zhujiemian8": {
+  "ch": "点击设置预览图。\n\n预览图标准尺寸：500*300",
+  "en": "Click to set preview image.\n\nPreview image standard size: 500*300",
+  "pt": ""
+ },
+ "mod_zhujiemian9": {
+  "ch": "预览图：",
+  "en": "Preview Image",
+  "pt": ""
+ },
+ "mod_zhunbeizhuaqu": {
+  "ch": "准备抓取的NPC",
+  "en": "The NPC to extract",
+  "pt": ""
+ },
+ "mod_zidingyiid1": {
+  "ch": "输入自定义ID",
+  "en": "Enter customized ID",
+  "pt": ""
+ },
+ "mod_zidingyiid2": {
+  "ch": "如若知道游戏中的ID，或者其他模组自定义的ID，可以直接输入ID。",
+  "en": "If you know the ID in the game or a customized ID in another mod, you may just enter the ID.",
+  "pt": ""
+ },
+ "mod_zidingyizongmen1": {
+  "ch": "{0}第{1}个{2}宗门主舵\\t\\t{3}",
+  "en": "{0}#{1} {2} Sect Base \t\t{3}",
+  "pt": ""
+ },
+ "mod_zidingyizongmen2": {
+  "ch": "未自定义此宗门的数据",
+  "en": "Sect data not customized",
+  "pt": ""
+ },
+ "mod_zidingyizongmen3": {
+  "ch": "自定义",
+  "en": "Customize",
+  "pt": ""
+ },
+ "mod_zidingyizongmen4": {
+  "ch": "自定义宗门主舵",
+  "en": "Customize Sect Base",
+  "pt": ""
+ },
+ "mod_zidingyizongmen5": {
+  "ch": "只能自定义已有宗门主舵的数据。\n\n下面列表统计出了游戏中所有正道和魔道宗门的主舵。\n\n例如可把慕仙州正道第一个宗门改为：剑宗。",
+  "en": "You can only customize the data of the current Sect Bases.\n\nAll the Righteous and Demonic Sects' Bases are in the following list.\n\nE.g., you may change the first Righteous Sect in Mu Xian into: Sword Sect.",
+  "pt": ""
+ },
+ "mod_zidingyizongmen6": {
+  "ch": "自定义名字后，自定义的数据才能生效。",
+  "en": "Customize the name to make the edited data effective.",
+  "pt": ""
+ },
+ "mod_zidingyizongmen7": {
+  "ch": "0-不自定义功法",
+  "en": "0- Do not customize Martial Arts",
+  "pt": ""
+ },
+ "mod_zidingyizongmen8": {
+  "ch": "不自定义数据",
+  "en": "Do not customize data",
+  "pt": ""
+ },
+ "mod_zongmenmingzi": {
+  "ch": "宗门名字",
+  "en": "Sect name",
+  "pt": ""
+ },
+ "mod_zongmenrenwu": {
+  "ch": "宗门任务",
+  "en": "Sect Mission",
+  "pt": ""
+ },
+ "mod_zongmenshuoming": {
+  "ch": "只有自定义宗门或创建新宗门才能选择加入宗门。",
+  "en": "Customize a Sect or create one to join.",
+  "pt": ""
+ },
+ "mod_zongmenzongzhi": {
+  "ch": "宗门宗旨",
+  "en": "Sect Purpose",
+  "pt": ""
+ },
+ "mod_zongmozu": {
+  "ch": "共{0}个模组",
+  "en": "{0} mods in total",
+  "pt": ""
+ },
+ "mod_zoqitexiao1": {
+  "ch": "坐骑特效",
+  "en": "Mount Effect",
+  "pt": ""
+ },
+ "mod_zoqitexiao10": {
+  "ch": "背景特效",
+  "en": "Background Effect",
+  "pt": ""
+ },
+ "mod_zoqitexiao11": {
+  "ch": "背景特效层级",
+  "en": "Background Effect Level",
+  "pt": ""
+ },
+ "mod_zoqitexiao12": {
+  "ch": "0-在背景前面",
+  "en": "0- Before the background",
+  "pt": ""
+ },
+ "mod_zoqitexiao13": {
+  "ch": "1-在背景后面",
+  "en": "1- Behind the background",
+  "pt": ""
+ },
+ "mod_zoqitexiao14": {
+  "ch": "背景特效偏移：",
+  "en": "Background Effect Offset:",
+  "pt": ""
+ },
+ "mod_zoqitexiao15": {
+  "ch": "背景特效缩放：",
+  "en": "Background Effect Zoom:",
+  "pt": ""
+ },
+ "mod_zoqitexiao16": {
+  "ch": "背景特效（点击选择）",
+  "en": "Background Effect (tap to choose)",
+  "pt": ""
+ },
+ "mod_zoqitexiao2": {
+  "ch": "坐骑特效层级",
+  "en": "Mount Effect Level",
+  "pt": ""
+ },
+ "mod_zoqitexiao3": {
+  "ch": "0-在坐骑前面",
+  "en": "0- Before the mount",
+  "pt": ""
+ },
+ "mod_zoqitexiao4": {
+  "ch": "1-在坐骑后面",
+  "en": "1- Behind the mount",
+  "pt": ""
+ },
+ "mod_zoqitexiao5": {
+  "ch": "坐骑特效偏移：",
+  "en": "Mount Effect Offset:",
+  "pt": ""
+ },
+ "mod_zoqitexiao6": {
+  "ch": "坐骑特效缩放：",
+  "en": "Mount Effect Zoom:",
+  "pt": ""
+ },
+ "mod_zoqitexiao7": {
+  "ch": "坐骑特效（点击选择）",
+  "en": "Mount Effect (tap to choose)",
+  "pt": ""
+ },
+ "mod_zoqitexiao8": {
+  "ch": "无特效",
+  "en": "No effect",
+  "pt": ""
+ },
+ "mod_zoqitexiao9": {
+  "ch": "特效：",
+  "en": "Effect:",
+  "pt": ""
+ },
+ "mod_zuidazifu1": {
+  "ch": "文本总字节数不能超过{0}！",
+  "en": "Text length capped at {0} bytes!",
+  "pt": ""
+ },
+ "mod_zuoqi1": {
+  "ch": "坐骑效果",
+  "en": "Mount Effect",
+  "pt": ""
+ },
+ "mod_zuoqi2": {
+  "ch": "坐骑模型",
+  "en": "Mount Model",
+  "pt": ""
+ },
+ "mod_zuoqi3": {
+  "ch": "大地图行走的声音",
+  "en": "Sound of walking on World map",
+  "pt": ""
+ },
+ "mod_zuoqi4": {
+  "ch": "背景故事",
+  "en": "Backstory",
+  "pt": ""
+ },
+ "mod_zuoqi5": {
+  "ch": "使用境界要求",
+  "en": "Realm use requirement",
+  "pt": ""
+ },
+ "mod_zuoqidonghua0": {
+  "ch": "0-静止不动",
+  "en": "0- Still",
+  "pt": ""
+ },
+ "mod_zuoqidonghua1": {
+  "ch": "1-上下移动",
+  "en": "1- Up and down",
+  "pt": ""
+ },
+ "mod_zuoqidonghua10": {
+  "ch": "10-上下移动+平面旋转（中速）",
+  "en": "10- Vertical Movement + Horizontal Rotation (Normal)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua11": {
+  "ch": "11-上下移动+平面旋转（快速）",
+  "en": "11- Vertical Movement + Horizontal Rotation (Fast)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua12": {
+  "ch": "12-上下移动+60度旋转（慢速）",
+  "en": "12- Vertical Movement + 60 Degree Rotation (Slow)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua13": {
+  "ch": "13-上下移动+60度旋转（中速）",
+  "en": "13- Vertical Movement + 60 Degree Rotation (Normal)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua14": {
+  "ch": "14-上下移动+60度旋转（快速）",
+  "en": "14- Vertical Movement + 60 Degree Rotation (Fast)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua15": {
+  "ch": "15-左右移动+平面旋转（慢速）",
+  "en": "15- Horizontal Movement + Horizontal Rotation (Slow)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua16": {
+  "ch": "16-左右移动+平面旋转（中速）",
+  "en": "16- Horizontal Movement + Horizontal Rotation (Normal)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua17": {
+  "ch": "17-左右移动+平面旋转（快速）",
+  "en": "17- Horizontal Movement + Horizontal Rotation (Fast)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua18": {
+  "ch": "18-左右移动+60度旋转（慢速）",
+  "en": "18- Horizontal Movement + 60 Degree Rotation (Slow)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua19": {
+  "ch": "19-左右移动+60度旋转（中速）",
+  "en": "19- Horizontal Movement + 60 Degree Rotation (Normal)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua2": {
+  "ch": "2-左右移动",
+  "en": "2- Left and right",
+  "pt": ""
+ },
+ "mod_zuoqidonghua20": {
+  "ch": "20-左右移动+60度旋转（快速）",
+  "en": "20- Horizontal Movement + 60 Degree Rotation (Fast)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua3": {
+  "ch": "3-平面旋转（慢速）",
+  "en": "3- Horizontal Rotation (Slow)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua4": {
+  "ch": "4-平面旋转（中速）",
+  "en": "4- Horizontal Rotation (Normal)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua5": {
+  "ch": "5-平面旋转（快速）",
+  "en": "5- Horizontal Rotation (Fast)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua6": {
+  "ch": "6-60度旋转（慢速）",
+  "en": "6-60 Degree Rotation (Slow)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua7": {
+  "ch": "7-60度旋转（中速）",
+  "en": "7-60 Degree Rotation (Normal)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua8": {
+  "ch": "8-60度旋转（快速）",
+  "en": "8-60 Degree Rotation (Fast)",
+  "pt": ""
+ },
+ "mod_zuoqidonghua9": {
+  "ch": "9-上下移动+平面旋转（慢速）",
+  "en": "9- Vertical Movement + Horizontal Rotation (Slow)",
+  "pt": ""
+ },
+ "mod_zuoqimoxing": {
+  "ch": "坐骑模型",
+  "en": "Mount Model",
+  "pt": ""
+ },
+ "mod_zuoqimoxing1": {
+  "ch": "坐骑模型",
+  "en": "Mount Model",
+  "pt": ""
+ },
+ "mod_zuoqimoxing10": {
+  "ch": "地图一个格子大小：宽125*高125。",
+  "en": "Size of a map tile: width 125, height 125.",
+  "pt": ""
+ },
+ "mod_zuoqimoxing2": {
+  "ch": "添加坐骑模型",
+  "en": "Add Mount Model",
+  "pt": ""
+ },
+ "mod_zuoqimoxing29": {
+  "ch": "UI模型偏移：",
+  "en": "UI Model Offset:",
+  "pt": ""
+ },
+ "mod_zuoqimoxing3": {
+  "ch": "UI模型背景大小参考：宽510*高700。\n\n需要使用专用工具制作透明图片模型。",
+  "en": "UI Model Background Size (for reference): width 510, height 700.\n\nUse a special tool to make a transparent picture model.",
+  "pt": ""
+ },
+ "mod_zuoqimoxing30": {
+  "ch": "坐骑模型偏移：",
+  "en": "Mount Model Offset:",
+  "pt": ""
+ },
+ "mod_zuoqimoxing31": {
+  "ch": "玩家模型偏移：",
+  "en": "Player Model Offset:",
+  "pt": ""
+ },
+ "mod_zuoqimoxing32": {
+  "ch": "请添加UI模型图片",
+  "en": "Please add UI Model Pic",
+  "pt": ""
+ },
+ "mod_zuoqimoxing33": {
+  "ch": "请添加坐骑图片",
+  "en": "Please add Mount Pic",
+  "pt": ""
+ },
+ "mod_zuoqimoxing34": {
+  "ch": "UI模型缩放：",
+  "en": "UI Model Zoom:",
+  "pt": ""
+ },
+ "mod_zuoqimoxing35": {
+  "ch": "坐骑模型缩放：",
+  "en": "Mount Model Zoom:",
+  "pt": ""
+ },
+ "mod_zuoqimoxing36": {
+  "ch": "玩家动画类型",
+  "en": "Player Animation Type",
+  "pt": ""
+ },
+ "mod_zuoqimoxing37": {
+  "ch": "1-坐着",
+  "en": "1- Sit",
+  "pt": ""
+ },
+ "mod_zuoqimoxing38": {
+  "ch": "2-站立",
+  "en": "2- Stand",
+  "pt": ""
+ },
+ "mod_zuoqimoxing39": {
+  "ch": "3-半蹲",
+  "en": "3- Squat",
+  "pt": ""
+ },
+ "mod_zuoqimoxing4": {
+  "ch": "UI模型动画类型",
+  "en": "UI Model Animation Type",
+  "pt": ""
+ },
+ "mod_zuoqimoxing5": {
+  "ch": "添加UI模型图片",
+  "en": "Add UI Model Pic",
+  "pt": ""
+ },
+ "mod_zuoqimoxing6": {
+  "ch": "大地图模型动画类型",
+  "en": "World Map Model Animation Type",
+  "pt": ""
+ },
+ "mod_zuoqimoxing7": {
+  "ch": "添加坐骑图片",
+  "en": "Add Mount Pic",
+  "pt": ""
+ },
+ "mod_zuoqimoxing8": {
+  "ch": "地图一个格子大小：宽125*高125。\n\n需要使用专用工具制作透明图片模型。",
+  "en": "Size of a map tile: width 125, height 125.\n\nUse a special tool to make a transparent picture model.",
+  "pt": ""
+ },
+ "mod_zuoqimoxing9": {
+  "ch": "UI模型背景大小参考：宽510*高700。",
+  "en": "UI Model Background Size (for reference): width 510, height 700.",
+  "pt": ""
+ },
+ "mod_zuoqitishi": {
+  "ch": "制作好坐骑模型后，需要制作一个道具（选择坐骑类型），道具里选择你的坐骑模型，然后在游戏中产出这个道具，即可使用坐骑。",
+  "en": "After creating a mount model, you need to create an item (select mount type), select your mount model for that item, and then generate that item in the game to use the mount.",
+  "pt": ""
+ },
+ "mod_zuozhe1": {
+  "ch": "作者：",
+  "en": "Author:",
+  "pt": ""
+ },
+ "mod_zuozhe2": {
+  "ch": "点击输入作者名称",
+  "en": "Click to enter the author's name",
+  "pt": ""
+ },
+ "mod_zuozhe3": {
+  "ch": "模组作者",
+  "en": "Mod Author",
+  "pt": ""
+ }
+}

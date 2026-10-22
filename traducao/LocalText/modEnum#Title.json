@@ -1,0 +1,782 @@
+{
+ "modEnum10001Title": {
+  "ch": "气运类型",
+  "en": "Destiny Type",
+  "pt": ""
+ },
+ "modEnum10002Title": {
+  "ch": "气运品质",
+  "en": "Destiny Rarity",
+  "pt": ""
+ },
+ "modEnum10003Title": {
+  "ch": "持续时间叠加类型",
+  "en": "Duration Stack Type",
+  "pt": ""
+ },
+ "modEnum10004Title": {
+  "ch": "气运是否隐藏在角色UI面板",
+  "en": "Whether Destiny is hidden in the character UI panel",
+  "pt": ""
+ },
+ "modEnum10005Title": {
+  "ch": "气运品质",
+  "en": "Destiny Rarity",
+  "pt": ""
+ },
+ "modEnum10006Title": {
+  "ch": "效果类型",
+  "en": "Effect Type",
+  "pt": ""
+ },
+ "modEnum10007Title": {
+  "ch": "修改类型",
+  "en": "Change Type",
+  "pt": ""
+ },
+ "modEnum10008Title": {
+  "ch": "产出类型",
+  "en": "Production Type",
+  "pt": ""
+ },
+ "modEnum10009Title": {
+  "ch": "秘籍类型",
+  "en": "Manual Type",
+  "pt": ""
+ },
+ "modEnum10010Title": {
+  "ch": "秘籍境界",
+  "en": "Manual Realm",
+  "pt": ""
+ },
+ "modEnum10011Title": {
+  "ch": "心法类型",
+  "en": "Mind Skill Type",
+  "pt": ""
+ },
+ "modEnum10012Title": {
+  "ch": "秘籍等级",
+  "en": "Manual Level",
+  "pt": ""
+ },
+ "modEnum10013Title": {
+  "ch": "性别类型",
+  "en": "Gender Type",
+  "pt": ""
+ },
+ "modEnum10014Title": {
+  "ch": "关系类型",
+  "en": "Relationship Type",
+  "pt": ""
+ },
+ "modEnum10015Title": {
+  "ch": "什么时候产出物品",
+  "en": "Time the item is produced",
+  "pt": ""
+ },
+ "modEnum10016Title": {
+  "ch": "修改类型",
+  "en": "Change Type",
+  "pt": ""
+ },
+ "modEnum10017Title": {
+  "ch": "修改类型",
+  "en": "Change Type",
+  "pt": ""
+ },
+ "modEnum10018Title": {
+  "ch": "亲密度变化方式",
+  "en": "Affinity Change Method",
+  "pt": ""
+ },
+ "modEnum10019Title": {
+  "ch": "禁止的行为",
+  "en": "Forbidden Actions",
+  "pt": ""
+ },
+ "modEnum1001Title": {
+  "ch": "境界",
+  "en": "Realm",
+  "pt": ""
+ },
+ "modEnum10020Title": {
+  "ch": "禁止使用的物品",
+  "en": "Items forbidden from use",
+  "pt": ""
+ },
+ "modEnum10021Title": {
+  "ch": "目标的境界条件",
+  "en": "Target's Realm Requirements",
+  "pt": ""
+ },
+ "modEnum10022Title": {
+  "ch": "境界条件",
+  "en": "Realm Requirements",
+  "pt": ""
+ },
+ "modEnum10023Title": {
+  "ch": "期数条件",
+  "en": "Period Requirements",
+  "pt": ""
+ },
+ "modEnum10024Title": {
+  "ch": "击杀条件",
+  "en": "Attack Requirements",
+  "pt": ""
+ },
+ "modEnum10025Title": {
+  "ch": "修改消耗类型",
+  "en": "Change Cost Type",
+  "pt": ""
+ },
+ "modEnum10027Title": {
+  "ch": "修改的消耗类型",
+  "en": "Changed Cost Type",
+  "pt": ""
+ },
+ "modEnum10028Title": {
+  "ch": "修改方式",
+  "en": "Change Method",
+  "pt": ""
+ },
+ "modEnum10029Title": {
+  "ch": "触发类型",
+  "en": "Trigger Type",
+  "pt": ""
+ },
+ "modEnum1002Title": {
+  "ch": "等级",
+  "en": "Level",
+  "pt": ""
+ },
+ "modEnum10030Title": {
+  "ch": "是否可以重复触发",
+  "en": "Can it be triggered repeatedly?",
+  "pt": ""
+ },
+ "modEnum10031Title": {
+  "ch": "任务状态类型",
+  "en": "Mission status type",
+  "pt": ""
+ },
+ "modEnum10032Title": {
+  "ch": "品质类型",
+  "en": "Rarity type",
+  "pt": ""
+ },
+ "modEnum10033Title": {
+  "ch": "比较类型",
+  "en": "Compare types",
+  "pt": ""
+ },
+ "modEnum10034Title": {
+  "ch": "比较的属性组",
+  "en": "Stat group to compare",
+  "pt": ""
+ },
+ "modEnum10035Title": {
+  "ch": "正魔类型",
+  "en": "Faction",
+  "pt": ""
+ },
+ "modEnum10036Title": {
+  "ch": "宗门条件",
+  "en": "Sect condition",
+  "pt": ""
+ },
+ "modEnum10037Title": {
+  "ch": "宗门类型",
+  "en": "Sect type",
+  "pt": ""
+ },
+ "modEnum10038Title": {
+  "ch": "格子数值类型",
+  "en": "Tile value type",
+  "pt": ""
+ },
+ "modEnum10039Title": {
+  "ch": "装备的武技和绝技的属性种类",
+  "en": "Elemental type of equipped martial and special skills",
+  "pt": ""
+ },
+ "modEnum1003Title": {
+  "ch": "关系",
+  "en": "Relationship",
+  "pt": ""
+ },
+ "modEnum10040Title": {
+  "ch": "战斗的结果类型",
+  "en": "Battle result type",
+  "pt": ""
+ },
+ "modEnum10041Title": {
+  "ch": "属性对比组",
+  "en": "Stats comparison group",
+  "pt": ""
+ },
+ "modEnum10042Title": {
+  "ch": "立场类型",
+  "en": "Faction type",
+  "pt": ""
+ },
+ "modEnum10043Title": {
+  "ch": "宗门判定类型",
+  "en": "Sect determiner type",
+  "pt": ""
+ },
+ "modEnum10044Title": {
+  "ch": "亲族判定类型",
+  "en": "Familial determiner type",
+  "pt": ""
+ },
+ "modEnum10045Title": {
+  "ch": "是否反转角色判断位置",
+  "en": "Whether to reverse character determiner roles",
+  "pt": ""
+ },
+ "modEnum10046Title": {
+  "ch": "关系判断类型",
+  "en": "Relationship determiner type",
+  "pt": ""
+ },
+ "modEnum10047Title": {
+  "ch": "共同的社交关系类型",
+  "en": "Shared social relationship type",
+  "pt": ""
+ },
+ "modEnum10048Title": {
+  "ch": "剧情触发类型",
+  "en": "Plot trigger type",
+  "pt": ""
+ },
+ "modEnum10049Title": {
+  "ch": "道具使用类型",
+  "en": "Item use type",
+  "pt": ""
+ },
+ "modEnum1004Title": {
+  "ch": "期数",
+  "en": "Period",
+  "pt": ""
+ },
+ "modEnum10050Title": {
+  "ch": "存在类型",
+  "en": "Existence type",
+  "pt": ""
+ },
+ "modEnum10051Title": {
+  "ch": "比较类型",
+  "en": "Compare types",
+  "pt": ""
+ },
+ "modEnum10052Title": {
+  "ch": "立场运算类型",
+  "en": "Faction calculation type",
+  "pt": ""
+ },
+ "modEnum10053Title": {
+  "ch": "数学运算符号类型",
+  "en": "Type of mathematical operation symbol",
+  "pt": ""
+ },
+ "modEnum10054Title": {
+  "ch": "关系运算符类型",
+  "en": "Relationship Calculation Type",
+  "pt": ""
+ },
+ "modEnum10055Title": {
+  "ch": "是否储存数据",
+  "en": "Save data or not",
+  "pt": ""
+ },
+ "modEnum10056Title": {
+  "ch": "战斗结束类型",
+  "en": "Battle ending type",
+  "pt": ""
+ },
+ "modEnum10057Title": {
+  "ch": "是否反转",
+  "en": "Reverse or not",
+  "pt": ""
+ },
+ "modEnum10058Title": {
+  "ch": "城镇类型",
+  "en": "Town type",
+  "pt": ""
+ },
+ "modEnum10059Title": {
+  "ch": "是否学会了技能",
+  "en": "If the skill has been learned",
+  "pt": ""
+ },
+ "modEnum1005Title": {
+  "ch": "武器类型",
+  "en": "Weapon type",
+  "pt": ""
+ },
+ "modEnum10060Title": {
+  "ch": "是否通关过",
+  "en": "If it was cleared",
+  "pt": ""
+ },
+ "modEnum10061Title": {
+  "ch": "性别类型",
+  "en": "Gender type",
+  "pt": ""
+ },
+ "modEnum10062Title": {
+  "ch": "是否拥有",
+  "en": "If have",
+  "pt": ""
+ },
+ "modEnum10063Title": {
+  "ch": "副本等级类型",
+  "en": "Dungeon level type",
+  "pt": ""
+ },
+ "modEnum10064Title": {
+  "ch": "技能类型",
+  "en": "Skill type",
+  "pt": ""
+ },
+ "modEnum10065Title": {
+  "ch": "增加类型",
+  "en": "Increase type",
+  "pt": ""
+ },
+ "modEnum10066Title": {
+  "ch": "增加类型",
+  "en": "Increase type",
+  "pt": ""
+ },
+ "modEnum10067Title": {
+  "ch": "属性增加方式",
+  "en": "Stat increase method",
+  "pt": ""
+ },
+ "modEnum10068Title": {
+  "ch": "境界类型",
+  "en": "Realm type",
+  "pt": ""
+ },
+ "modEnum10069Title": {
+  "ch": "属性类型",
+  "en": "Elemental type",
+  "pt": ""
+ },
+ "modEnum1006Title": {
+  "ch": "属性类型",
+  "en": "Elemental type",
+  "pt": ""
+ },
+ "modEnum10070Title": {
+  "ch": "增加类型",
+  "en": "Increase type",
+  "pt": ""
+ },
+ "modEnum10071Title": {
+  "ch": "道具数量类型",
+  "en": "Item quantity type",
+  "pt": ""
+ },
+ "modEnum10072Title": {
+  "ch": "排序方式",
+  "en": "Sort by",
+  "pt": ""
+ },
+ "modEnum10073Title": {
+  "ch": "是否储存",
+  "en": "Save or not",
+  "pt": ""
+ },
+ "modEnum10074Title": {
+  "ch": "查找地图点类型",
+  "en": "Location type to search",
+  "pt": ""
+ },
+ "modEnum10075Title": {
+  "ch": "排序类型",
+  "en": "Sort by",
+  "pt": ""
+ },
+ "modEnum10076Title": {
+  "ch": "生成事件时是否移动镜头到图标上",
+  "en": "Whether to move the camera to the icon when the event is generated",
+  "pt": ""
+ },
+ "modEnum10077Title": {
+  "ch": "是否叠加",
+  "en": "Stackable or not",
+  "pt": ""
+ },
+ "modEnum10078Title": {
+  "ch": "是否允许丢弃",
+  "en": "Discard-able or not",
+  "pt": ""
+ },
+ "modEnum10079Title": {
+  "ch": "道具类型",
+  "en": "Item Type",
+  "pt": ""
+ },
+ "modEnum1007Title": {
+  "ch": "技能类型",
+  "en": "Skill type",
+  "pt": ""
+ },
+ "modEnum10080Title": {
+  "ch": "事件刷新类型",
+  "en": "Event Refresh Type",
+  "pt": ""
+ },
+ "modEnum10081Title": {
+  "ch": "任务分组",
+  "en": "Mission Grouping",
+  "pt": ""
+ },
+ "modEnum10082Title": {
+  "ch": "任务类型",
+  "en": "Mission Type",
+  "pt": ""
+ },
+ "modEnum10083Title": {
+  "ch": "任务等级",
+  "en": "Mission Level",
+  "pt": ""
+ },
+ "modEnum10084Title": {
+  "ch": "是否可以放弃",
+  "en": "Give Up?",
+  "pt": ""
+ },
+ "modEnum10085Title": {
+  "ch": "领取、完成任务时，是否弹出UI提示",
+  "en": "Whether the UI notice will pop up when claiming or completing a Mission",
+  "pt": ""
+ },
+ "modEnum10086Title": {
+  "ch": "剧情使用的UI类型",
+  "en": "UI type for Plot",
+  "pt": ""
+ },
+ "modEnum10087Title": {
+  "ch": "当前说话的角色",
+  "en": "Character currently speaking",
+  "pt": ""
+ },
+ "modEnum10088Title": {
+  "ch": "立绘角色",
+  "en": "Character full-body standing drawing",
+  "pt": ""
+ },
+ "modEnum10089Title": {
+  "ch": "立绘显示类型",
+  "en": "Full-body standing drawing display type",
+  "pt": ""
+ },
+ "modEnum1008Title": {
+  "ch": "性别类型",
+  "en": "Gender type",
+  "pt": ""
+ },
+ "modEnum10090Title": {
+  "ch": "初始位置类型",
+  "en": "Initializing location types",
+  "pt": ""
+ },
+ "modEnum10091Title": {
+  "ch": "境界类型",
+  "en": "Realm Type",
+  "pt": ""
+ },
+ "modEnum10092Title": {
+  "ch": "性别类型",
+  "en": "Gender",
+  "pt": ""
+ },
+ "modEnum10093Title": {
+  "ch": "关系类型",
+  "en": "Relationship Type",
+  "pt": ""
+ },
+ "modEnum10094Title": {
+  "ch": "角色性别要求",
+  "en": "Character Gender Requirements",
+  "pt": ""
+ },
+ "modEnum10095Title": {
+  "ch": "道具类型",
+  "en": "Item Type",
+  "pt": ""
+ },
+ "modEnum10096Title": {
+  "ch": "NPC类型",
+  "en": "NPC Type",
+  "pt": ""
+ },
+ "modEnum10097Title": {
+  "ch": "比较类型",
+  "en": "Compare Type",
+  "pt": ""
+ },
+ "modEnum10098Title": {
+  "ch": "基本属性类型",
+  "en": "Basic Stat Type",
+  "pt": ""
+ },
+ "modEnum10099Title": {
+  "ch": "气运类型",
+  "en": "Destiny Type",
+  "pt": ""
+ },
+ "modEnum1009Title": {
+  "ch": "宗门职位类型",
+  "en": "Sect position type",
+  "pt": ""
+ },
+ "modEnum10100Title": {
+  "ch": "回应类型",
+  "en": "Reply Type",
+  "pt": ""
+ },
+ "modEnum10101Title": {
+  "ch": "装备类型",
+  "en": "Gear Type",
+  "pt": ""
+ },
+ "modEnum10102Title": {
+  "ch": "回应类型",
+  "en": "Reply Type",
+  "pt": ""
+ },
+ "modEnum10103Title": {
+  "ch": "元魂状态",
+  "en": "Soul Status",
+  "pt": ""
+ },
+ "modEnum10104Title": {
+  "ch": "比较类型",
+  "en": "Compare Type",
+  "pt": ""
+ },
+ "modEnum10105Title": {
+  "ch": "是否为废天骄",
+  "en": "Is a Maimed-chosen?",
+  "pt": ""
+ },
+ "modEnum10106Title": {
+  "ch": "是否为魁首",
+  "en": "Is a Champion?",
+  "pt": ""
+ },
+ "modEnum10107Title": {
+  "ch": "拥有类型",
+  "en": "Possession Type",
+  "pt": ""
+ },
+ "modEnum10108Title": {
+  "ch": "行为类型",
+  "en": "Action Type",
+  "pt": ""
+ },
+ "modEnum10109Title": {
+  "ch": "技艺书籍类型",
+  "en": "Artisanship Book Type",
+  "pt": ""
+ },
+ "modEnum10110Title": {
+  "ch": "瓶颈类型",
+  "en": "Bottleneck Type",
+  "pt": ""
+ },
+ "modEnum10111Title": {
+  "ch": "宗门属性类型",
+  "en": "Sect Stats Type",
+  "pt": ""
+ },
+ "modEnum10112Title": {
+  "ch": "是否为一丝元魂状态",
+  "en": "On Last Breath?",
+  "pt": ""
+ },
+ "modEnum10113Title": {
+  "ch": "是否为重塑肉身状态",
+  "en": "Under Body Reconstruction?",
+  "pt": ""
+ },
+ "modEnum10114Title": {
+  "ch": "神器类型",
+  "en": "Artifact Type",
+  "pt": ""
+ },
+ "modEnum10115Title": {
+  "ch": "上一次道心破碎是何人所为",
+  "en": "Taoist Mind last shattered by?",
+  "pt": ""
+ },
+ "modEnum10117Title": {
+  "ch": "宗门建筑图标",
+  "en": "Sect Building Icon",
+  "pt": ""
+ },
+ "modEnum10118Title": {
+  "ch": "宗门大小",
+  "en": "Sect Scale",
+  "pt": ""
+ },
+ "modEnum10119Title": {
+  "ch": "身份类型",
+  "en": "Position Type",
+  "pt": ""
+ },
+ "modEnum10120Title": {
+  "ch": "宗门判定类型",
+  "en": "Sect determiner type",
+  "pt": ""
+ },
+ "modEnum10121Title": {
+  "ch": "宗门属性类型",
+  "en": "Sect Stats Type",
+  "pt": ""
+ },
+ "modEnum10122Title": {
+  "ch": "房间路线类型",
+  "en": "Room Route Type",
+  "pt": ""
+ },
+ "modEnum10123Title": {
+  "ch": "是否可以逃跑",
+  "en": "Whether escape is allowed",
+  "pt": ""
+ },
+ "modEnum10124Title": {
+  "ch": "胜利条件",
+  "en": "Victory Condition",
+  "pt": ""
+ },
+ "modEnum10125Title": {
+  "ch": "失败条件",
+  "en": "Defeat Condition",
+  "pt": ""
+ },
+ "modEnum10126Title": {
+  "ch": "怪物属性",
+  "en": "Monster Stats",
+  "pt": ""
+ },
+ "modEnum10127Title": {
+  "ch": "指定条件",
+  "en": "Specified Condition",
+  "pt": ""
+ },
+ "modEnum10128Title": {
+  "ch": "夸父状态",
+  "en": "Kuafu Status",
+  "pt": ""
+ },
+ "modEnum10129Title": {
+  "ch": "是否拥有器灵",
+  "en": "Artifact Spirit Status",
+  "pt": ""
+ },
+ "modEnum1012Title": {
+  "ch": "秘籍类型",
+  "en": "Manual type",
+  "pt": ""
+ },
+ "modEnum10130Title": {
+  "ch": "判断玩家当前位置的宗门资源点类型",
+  "en": "Checks the Sect resource point type at the player's current position",
+  "pt": ""
+ },
+ "modEnum10131Title": {
+  "ch": "道号类型",
+  "en": "Taoist Title Type",
+  "pt": ""
+ },
+ "modEnum10132Title": {
+  "ch": "道具挑选方式",
+  "en": "Item Picking Criterion",
+  "pt": ""
+ },
+ "modEnum10133Title": {
+  "ch": "击杀类型",
+  "en": "Kill Type",
+  "pt": ""
+ },
+ "modEnum10134Title": {
+  "ch": "设置类型",
+  "en": "Set Type",
+  "pt": ""
+ },
+ "modEnum10138Title": {
+  "ch": "副本的战斗结果",
+  "en": "Battle result in dungeon",
+  "pt": ""
+ },
+ "modEnum1013Title": {
+  "ch": "游戏难度类型",
+  "en": "Game difficulty type",
+  "pt": ""
+ },
+ "modEnum1014Title": {
+  "ch": "是否",
+  "en": "True or False",
+  "pt": ""
+ },
+ "modEnum1015Title": {
+  "ch": "有没有",
+  "en": "Yes or no",
+  "pt": ""
+ },
+ "modEnum1016Title": {
+  "ch": "副本结算是否胜利",
+  "en": "If the dungeon result is victorious or not",
+  "pt": ""
+ },
+ "modEnum1017Title": {
+  "ch": "格子属性类型",
+  "en": "Tile stat type",
+  "pt": ""
+ },
+ "modEnum1018Title": {
+  "ch": "建筑类型",
+  "en": "Building types",
+  "pt": ""
+ },
+ "modEnum1019Title": {
+  "ch": "功法类型",
+  "en": "Martial Arts Type",
+  "pt": ""
+ },
+ "modEnum1020Title": {
+  "ch": "功法类型",
+  "en": "Martial Arts Type",
+  "pt": ""
+ },
+ "modEnum1021Title": {
+  "ch": "区域类型",
+  "en": "Area Type",
+  "pt": ""
+ },
+ "modEnum1022Title": {
+  "ch": "等级",
+  "en": "Level",
+  "pt": ""
+ },
+ "modEnum1023Title": {
+  "ch": "秘籍武器类型要求",
+  "en": "Manual Weapon Type Requirement",
+  "pt": ""
+ },
+ "modEnum1024Title": {
+  "ch": "秘籍属性类型要求",
+  "en": "Manual Stats Type Requirement",
+  "pt": ""
+ },
+ "modEnum46428Title": {
+  "ch": "宗门类型",
+  "en": "Sect type",
+  "pt": ""
+ }
+}

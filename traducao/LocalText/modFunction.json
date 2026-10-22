@@ -1,0 +1,757 @@
+{
+ "modFunction_abCloseSet_value1Name": {
+  "ch": "指定角色1",
+  "en": "Specify character 1",
+  "pt": ""
+ },
+ "modFunction_abCloseSet_value2Name": {
+  "ch": "指定角色2",
+  "en": "Specify character 2",
+  "pt": ""
+ },
+ "modFunction_abCloseSet_value3Name": {
+  "ch": "设置的亲密度",
+  "en": "Affinity set",
+  "pt": ""
+ },
+ "modFunction_abClose_value1Name": {
+  "ch": "角色1",
+  "en": "Character 1",
+  "pt": ""
+ },
+ "modFunction_abClose_value2Name": {
+  "ch": "角色2",
+  "en": "Character 2",
+  "pt": ""
+ },
+ "modFunction_abClose_value3Name": {
+  "ch": "增加亲密度最小值",
+  "en": "Add affinity min value",
+  "pt": ""
+ },
+ "modFunction_abClose_value4Name": {
+  "ch": "增加亲密度最大值",
+  "en": "Add affinity max Value",
+  "pt": ""
+ },
+ "modFunction_addAppellation_value1Name": {
+  "ch": "指定角色",
+  "en": "Specify character",
+  "pt": ""
+ },
+ "modFunction_addAppellation_value2Name": {
+  "ch": "增加的道号",
+  "en": "Taoist Title added",
+  "pt": ""
+ },
+ "modFunction_addAttr_value3Desc": {
+  "ch": "正数增加属性，负数减少属性",
+  "en": "Positive number increases stats; negative number reduces stats.",
+  "pt": ""
+ },
+ "modFunction_addAttr_value3Name": {
+  "ch": "增加、减少的属性值",
+  "en": "Stats increased or reduced",
+  "pt": ""
+ },
+ "modFunction_addClose_value1Name": {
+  "ch": "角色1",
+  "en": "Character 1",
+  "pt": ""
+ },
+ "modFunction_addClose_value2Name": {
+  "ch": "角色2",
+  "en": "Character 2",
+  "pt": ""
+ },
+ "modFunction_addClose_value3Name": {
+  "ch": "增加仇恨度最小值",
+  "en": "Min Hatred Increase",
+  "pt": ""
+ },
+ "modFunction_addClose_value4Name": {
+  "ch": "增加仇恨度最大值",
+  "en": "Max Hatred Increase",
+  "pt": ""
+ },
+ "modFunction_addCurAttrPercent_value2Desc": {
+  "ch": "例如当前攻击力是88，百分比填50，则增加44的攻击力。",
+  "en": "For example, if the current ATK is 88, and you enter a percentage of 50, it gains an extra 44 ATK.",
+  "pt": ""
+ },
+ "modFunction_addCurAttrPercent_value2Name": {
+  "ch": "增减的百分比",
+  "en": "Percentage of change",
+  "pt": ""
+ },
+ "modFunction_addExp_value2Name": {
+  "ch": "随机最小值（数值/百分比，可以填入负数）",
+  "en": "Random Min Value (Value/Percentage, can be negative)",
+  "pt": ""
+ },
+ "modFunction_addExp_value3Name": {
+  "ch": "随机最大值（数值/百分比，可以填入负数）",
+  "en": "Random Max Value (Value/Percentage, can be negative)",
+  "pt": ""
+ },
+ "modFunction_addFeature_value2Desc": {
+  "ch": "例如填6，则6个月后气运消失。",
+  "en": "For example: If you enter 6 months, Destiny will disappear after 6 months.",
+  "pt": ""
+ },
+ "modFunction_addFeature_value2Name": {
+  "ch": "持续时间（月，-1永久持续）",
+  "en": "Duration (Month, -1 permanent duration)",
+  "pt": ""
+ },
+ "modFunction_addGridArrtRange_value1Name": {
+  "ch": "随机范围",
+  "en": "Random range",
+  "pt": ""
+ },
+ "modFunction_addGridArrtRange_value4Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modFunction_addMastery_value2Name": {
+  "ch": "增加的熟练度经验值",
+  "en": "Proficiency EXP to increase",
+  "pt": ""
+ },
+ "modFunction_addNPCLuck_value3Name": {
+  "ch": "持续时间（月，-1永久持续）",
+  "en": "Duration (Month, -1 permanent duration)",
+  "pt": ""
+ },
+ "modFunction_addPotmon_value2Name": {
+  "ch": "壶妖境界",
+  "en": "Imp Realm",
+  "pt": ""
+ },
+ "modFunction_addPotmon_value3Name": {
+  "ch": "是否设置为护卫",
+  "en": "Assign it as guard?",
+  "pt": ""
+ },
+ "modFunction_addPotmon_value4Name": {
+  "ch": "是否在战斗中立刻生效",
+  "en": "Instant effective in battle?",
+  "pt": ""
+ },
+ "modFunction_addTargetAttr_value4Name": {
+  "ch": "增加的值",
+  "en": "Value to increase",
+  "pt": ""
+ },
+ "modFunction_addWorldData_value1Name": {
+  "ch": "key（标记）",
+  "en": "key (mark)",
+  "pt": ""
+ },
+ "modFunction_addWorldData_value2Name": {
+  "ch": "增加的值",
+  "en": "Value increased",
+  "pt": ""
+ },
+ "modFunction_areaDungeon_value4Name": {
+  "ch": "副本等级偏移",
+  "en": "Dungeon level offset",
+  "pt": ""
+ },
+ "modFunction_battleSkillTrainUp_value3Name": {
+  "ch": "增加的值（经验/等级）",
+  "en": "Value to increase (EXP/level)",
+  "pt": ""
+ },
+ "modFunction_callDramaDelayTime_value2Name": {
+  "ch": "延时时间",
+  "en": "Delay time",
+  "pt": ""
+ },
+ "modFunction_callDrama_value1Desc": {
+  "ch": "可以填入多个剧情ID，所有达成条件的剧情，根据权重随机打开一个。",
+  "en": "You may add multiple plot IDs. Among all the plots whose conditions are met, a random one will be launched according to the weight.",
+  "pt": ""
+ },
+ "modFunction_callDrama_value1Name": {
+  "ch": "剧情ID",
+  "en": "Plot ID",
+  "pt": ""
+ },
+ "modFunction_chatUpClose_value1Name": {
+  "ch": "额外增加的亲密度",
+  "en": "Bonus affinity to increase",
+  "pt": ""
+ },
+ "modFunction_clearAddFeature_value3Name": {
+  "ch": "间隔月份",
+  "en": "Month(s) of duration",
+  "pt": ""
+ },
+ "modFunction_clearEventID_value1Name": {
+  "ch": "删除的事件ID",
+  "en": "Event ID to delete",
+  "pt": ""
+ },
+ "modFunction_clearEventID_value2Name": {
+  "ch": "创建的事件ID",
+  "en": "Event ID to create",
+  "pt": ""
+ },
+ "modFunction_clearFeature_value1Name": {
+  "ch": "清除的气运ID（-1清除所有负面气运）",
+  "en": "Destiny ID to delete (-1 deletes all negative destinies)",
+  "pt": ""
+ },
+ "modFunction_clearInEventID_value1Name": {
+  "ch": "玩家脚底的事件ID",
+  "en": "ID of the event under Player's feet",
+  "pt": ""
+ },
+ "modFunction_clearWorldData_value1Desc": {
+  "ch": "一般用于标记，如有个奇遇是《遇到老奶奶》，奇遇有个按钮是《扶老奶奶过马路》，按钮上有个命令增加标记“玩家曾经扶了老奶奶过马路”。\n\n另一个奇遇是《剑仙老奶奶》，奇遇触发条件里可以判断标记“玩家曾经扶了老奶奶过马路”存在才能触发这个奇遇。",
+  "en": "Often used to mark data. For example, in [Adventure A], there's a [Button X], which carries a command that marks Player with [Key Y].\n\nThen, you can add [Key Y] to the second [Adventure B]'s triggering condition, making it only available when Player has completed [Adventure A].",
+  "pt": ""
+ },
+ "modFunction_clearWorldData_value1Name": {
+  "ch": "key（标记）",
+  "en": "key",
+  "pt": ""
+ },
+ "modFunction_createDungeonInRange_value1Desc": {
+  "ch": "副本距离玩家最小多少格",
+  "en": "The minimum amount of tiles the dungeon can be away from the player",
+  "pt": ""
+ },
+ "modFunction_createDungeonInRange_value1Name": {
+  "ch": "随机最小范围",
+  "en": "Random min range",
+  "pt": ""
+ },
+ "modFunction_createDungeonInRange_value2Desc": {
+  "ch": "副本距离玩家最大多少格",
+  "en": "The maximum amount of tiles the dungeon can be away from the player",
+  "pt": ""
+ },
+ "modFunction_createDungeonInRange_value2Name": {
+  "ch": "随机最大范围",
+  "en": "Random max range",
+  "pt": ""
+ },
+ "modFunction_createDungeon_value3Name": {
+  "ch": "副本等级偏移随机最小值",
+  "en": "Dungeon Level Offset Random Min Value",
+  "pt": ""
+ },
+ "modFunction_createDungeon_value4Name": {
+  "ch": "副本等级偏移随机最大值",
+  "en": "Dungeon Level Offset Random Max Value",
+  "pt": ""
+ },
+ "modFunction_createDungeon_value5Desc": {
+  "ch": "持续时间到达后，副本将删除，通关副本胜利后，副本也会被删除。",
+  "en": "When the timer runs out or when the dungeon is cleared, the dungeon will be deleted.",
+  "pt": ""
+ },
+ "modFunction_createDungeon_value5Name": {
+  "ch": "副本持续时间（月，-1无限）",
+  "en": "Dungeon Duration (month, -1 means infinite)",
+  "pt": ""
+ },
+ "modFunction_createEventArea_value3Name": {
+  "ch": "事件距离建筑最小距离",
+  "en": "Min distance between event and building",
+  "pt": ""
+ },
+ "modFunction_createEventArea_value4Name": {
+  "ch": "事件距离建筑最大距离",
+  "en": "Max distance between event and building",
+  "pt": ""
+ },
+ "modFunction_createEventInRange_value1Name": {
+  "ch": "最小随机范围",
+  "en": "Min random range",
+  "pt": ""
+ },
+ "modFunction_createEventInRange_value2Name": {
+  "ch": "最大随机范围",
+  "en": "Max random range",
+  "pt": ""
+ },
+ "modFunction_createEventPointIngoreTree_value2Name": {
+  "ch": "大地图X坐标",
+  "en": "World map x coordinate",
+  "pt": ""
+ },
+ "modFunction_createEventPointIngoreTree_value3Name": {
+  "ch": "大地图Y坐标",
+  "en": "World map y coordinate",
+  "pt": ""
+ },
+ "modFunction_createEventPointIngoreTree_value4Name": {
+  "ch": "棱形半径范围",
+  "en": "Radius (diamond shape)",
+  "pt": ""
+ },
+ "modFunction_delEventfunction_value2Name": {
+  "ch": "事件删除时，执行的命令",
+  "en": "Command to execute when deleting event",
+  "pt": ""
+ },
+ "modFunction_delItemID_value2Name": {
+  "ch": "删除的道具数量（0删除所有）",
+  "en": "Number of items to delete (0 means delete all)",
+  "pt": ""
+ },
+ "modFunction_die_value1Name": {
+  "ch": "死亡说明",
+  "en": "Death info",
+  "pt": ""
+ },
+ "modFunction_dramaPackageRoleUpgrade_value3Name": {
+  "ch": "动画持续时间",
+  "en": "Animation duration",
+  "pt": ""
+ },
+ "modFunction_fleeNPC_value2Name": {
+  "ch": "随机最小距离",
+  "en": "Random min distance",
+  "pt": ""
+ },
+ "modFunction_fleeNPC_value3Name": {
+  "ch": "随机最大距离",
+  "en": "Random max distance",
+  "pt": ""
+ },
+ "modFunction_forceTrains_value1Name": {
+  "ch": "角色1",
+  "en": "Character 1",
+  "pt": ""
+ },
+ "modFunction_forceTrains_value2Name": {
+  "ch": "角色2",
+  "en": "Character 2",
+  "pt": ""
+ },
+ "modFunction_forceTrains_value3Name": {
+  "ch": "增加的亲密度",
+  "en": "Affinity to increase",
+  "pt": ""
+ },
+ "modFunction_getWell_value1Name": {
+  "ch": "恢复状态前，打开的剧情",
+  "en": "Plot launched before status recovery",
+  "pt": ""
+ },
+ "modFunction_gradePhaseUp_value1Name": {
+  "ch": "指定角色",
+  "en": "Specify character",
+  "pt": ""
+ },
+ "modFunction_intoDungeon_value3Desc": {
+  "ch": "副本等级限制在1-50级，一个境界对应5级，如筑基期，10级副本代表筑基期最难副本，6级副本代表筑基期最简单副本。\n\n副本等级类型说明\n0-固定等级：副本等级偏移可以输入1-50，固定副本等级。\n\n1：例如当玩家是筑基境时，副本基础等级是10级，偏移填-4，那么副本等级就是6级。\n\n2：例如当玩家在白源区（练气境）时，副本基础等级是5，偏移填-3，那么副本等级是2级。",
+  "en": "Dungeon level is limited to between 1 to 50. Each realm is corresponded to 5 levels. For example, in the foundation realm, Lv.10 is the most difficult, and Lv.6 is the easiest.\n\nDungeon level type info\n0- Fixed level: enter an offset value between 1 to 50 to set the dungeon level to a fixed value.\n\n1: E.g., when Player is in Foundation realm, the base dungeon level is 10. If you enter an offset value of -4, then the dungeon level will be 6.\n\n2: E.g., when Player is in Bai Yuan (Qi Refining), the base dungeon level is 5. If you enter an offset value of -3, then the dungeon level will be 2.",
+  "pt": ""
+ },
+ "modFunction_intoDungeon_value3Name": {
+  "ch": "副本等级偏移",
+  "en": "Dungeon level offset",
+  "pt": ""
+ },
+ "modFunction_itemQuantityTimes_value2Name": {
+  "ch": "设置成百分之多少",
+  "en": "Percentage to set to",
+  "pt": ""
+ },
+ "modFunction_itemSelectAll_value1Name": {
+  "ch": "选择UI上的提示文本",
+  "en": "Select UI tip text",
+  "pt": ""
+ },
+ "modFunction_itemSelectAll_value2Name": {
+  "ch": "需要选择的数量",
+  "en": "Quantity to select",
+  "pt": ""
+ },
+ "modFunction_itemSelectAll_value3Name": {
+  "ch": "选择后是否消耗",
+  "en": "If consumed after selected",
+  "pt": ""
+ },
+ "modFunction_itemSelectElement_value1Name": {
+  "ch": "选择UI上的提示文本",
+  "en": "Select UI tip text",
+  "pt": ""
+ },
+ "modFunction_itemSelectElement_value2Name": {
+  "ch": "需要选择的数量",
+  "en": "Quantity to select",
+  "pt": ""
+ },
+ "modFunction_itemSelectElement_value3Name": {
+  "ch": "秘籍最小等级",
+  "en": "Manual min level",
+  "pt": ""
+ },
+ "modFunction_itemSelectElement_value4Name": {
+  "ch": "秘籍最大等级",
+  "en": "Manual max level",
+  "pt": ""
+ },
+ "modFunction_itemSelectLevel_value1Name": {
+  "ch": "提示文本",
+  "en": "Tip text",
+  "pt": ""
+ },
+ "modFunction_itemSelectLevel_value2Name": {
+  "ch": "选择的物品数量",
+  "en": "Selected Item Qty",
+  "pt": ""
+ },
+ "modFunction_itemSelectLevel_value3Name": {
+  "ch": "最小物品品质",
+  "en": "Lowest Item Rarity",
+  "pt": ""
+ },
+ "modFunction_itemSelectLevel_value4Name": {
+  "ch": "最大物品品质",
+  "en": "Highest Item Rarity",
+  "pt": ""
+ },
+ "modFunction_itemSelectLevel_value5Name": {
+  "ch": "物品大分类",
+  "en": "Item Main Category",
+  "pt": ""
+ },
+ "modFunction_itemSelect_value1Name": {
+  "ch": "选择UI上的提示文本",
+  "en": "Select UI tip text",
+  "pt": ""
+ },
+ "modFunction_itemSelect_value2Name": {
+  "ch": "需要选择的数量",
+  "en": "Quantity to select",
+  "pt": ""
+ },
+ "modFunction_itemSelect_value4Name": {
+  "ch": "限制的分类",
+  "en": "Classifications to restrict",
+  "pt": ""
+ },
+ "modFunction_itemSelect_value5Name": {
+  "ch": "限制选择的道具ID",
+  "en": "ID of item restricted to select",
+  "pt": ""
+ },
+ "modFunction_joinCurSchool_value1Name": {
+  "ch": "指定角色",
+  "en": "Specify character",
+  "pt": ""
+ },
+ "modFunction_killNPC_value1Name": {
+  "ch": "杀人者",
+  "en": "Killer",
+  "pt": ""
+ },
+ "modFunction_killNPC_value3Name": {
+  "ch": "被杀者",
+  "en": "Killed",
+  "pt": ""
+ },
+ "modFunction_lookUnit_value1Name": {
+  "ch": "查看的角色",
+  "en": "Character to inspect",
+  "pt": ""
+ },
+ "modFunction_lootNpcSpecifiedItem_value4Name": {
+  "ch": "固定值/百分比",
+  "en": "Fixed value/percentage",
+  "pt": ""
+ },
+ "modFunction_lootNpcSpecifiedItem_value5Name": {
+  "ch": "数量上限（-1无上限）",
+  "en": "Quantity cap (-1 no cap)",
+  "pt": ""
+ },
+ "modFunction_mapCreateBuildInRange_value2Name": {
+  "ch": "大地图X坐标",
+  "en": "World Map X Coordinate",
+  "pt": ""
+ },
+ "modFunction_mapCreateBuildInRange_value3Name": {
+  "ch": "大地图Y坐标",
+  "en": "World Map Y Coordinate",
+  "pt": ""
+ },
+ "modFunction_mapCreateBuildInRange_value4Name": {
+  "ch": "坐标最小范围内",
+  "en": "Coordinates Min Area",
+  "pt": ""
+ },
+ "modFunction_mapCreateBuildInRange_value5Name": {
+  "ch": "坐标最大范围内",
+  "en": "Coordinates Max Area",
+  "pt": ""
+ },
+ "modFunction_mapCreateBuildInRange_value6Name": {
+  "ch": "传送目的地X坐标",
+  "en": "Teleport Destination X Coordinate",
+  "pt": ""
+ },
+ "modFunction_mapCreateBuildInRange_value7Name": {
+  "ch": "传送目的地Y坐标",
+  "en": "Teleport Destination Y Coordinate",
+  "pt": ""
+ },
+ "modFunction_modifPlayerName_value1Name": {
+  "ch": "姓",
+  "en": "Surname",
+  "pt": ""
+ },
+ "modFunction_modifPlayerName_value2Name": {
+  "ch": "名",
+  "en": "Name",
+  "pt": ""
+ },
+ "modFunction_monthLostItem_value1Name": {
+  "ch": "丢失的道具数量最小值",
+  "en": "Number of items lost min value",
+  "pt": ""
+ },
+ "modFunction_monthLostItem_value2Name": {
+  "ch": "丢失的道具数量最大值",
+  "en": "Number of items lost max value",
+  "pt": ""
+ },
+ "modFunction_monthLostItem_value3Name": {
+  "ch": "最少丢失的道具百分之多少",
+  "en": "Min percentage of items lost",
+  "pt": ""
+ },
+ "modFunction_monthLostItem_value4Name": {
+  "ch": "最多丢失的道具百分之多少",
+  "en": "Max percentage of item lost",
+  "pt": ""
+ },
+ "modFunction_moveTownsSite_value1Desc": {
+  "ch": "当前区域所有城镇都已经解锁视野后，弹出的提示文本",
+  "en": "The tip text that pops up after all towns in the current region have been unlocked",
+  "pt": ""
+ },
+ "modFunction_moveTownsSite_value1Name": {
+  "ch": "打开视野失败提示文本",
+  "en": "Tip text - open field of view failed",
+  "pt": ""
+ },
+ "modFunction_npcDramaGive_value2Name": {
+  "ch": "道具总价值（1价值=1灵石）",
+  "en": "Total value (spirit stone)",
+  "pt": ""
+ },
+ "modFunction_npcDungeonReward_value2Name": {
+  "ch": "产出次数",
+  "en": "How many times to generate",
+  "pt": ""
+ },
+ "modFunction_npcItem_value2Name": {
+  "ch": "道具总价值（1价值=1灵石）",
+  "en": "Total value (spirit stone)",
+  "pt": ""
+ },
+ "modFunction_npcRevive_value1Name": {
+  "ch": "一丝元魂的气运",
+  "en": "Last Breath Destiny",
+  "pt": ""
+ },
+ "modFunction_npcRevive_value2Name": {
+  "ch": "有剧情id会先播放剧情，剧情结束后为npc解除一丝元魂气运",
+  "en": "If there is a plot ID, the plot will be played, and the NPC's Last Breath destiny will be removed after the plot.",
+  "pt": ""
+ },
+ "modFunction_pilferProbability_value1Name": {
+  "ch": "提高的概率（万分比）",
+  "en": "Probability to increase (‱)",
+  "pt": ""
+ },
+ "modFunction_pillFormulaStudyAll_value1Name": {
+  "ch": "是否立刻学会所有可学习的丹方",
+  "en": "Learn all learnable Elixir Recipes?",
+  "pt": ""
+ },
+ "modFunction_pillFormulaStudyAll_value2Name": {
+  "ch": "是否立刻学会所有可升级的丹方",
+  "en": "Learn all upgradeable Elixir Recipes?",
+  "pt": ""
+ },
+ "modFunction_replaceTrainAnime_value1Name": {
+  "ch": "动画名称（必须使用AB功能把预制体放到Resources/Effect/UI）",
+  "en": "Animation name (Must put the prefabs into Resources/Effect/UI with AssetBundle)",
+  "pt": ""
+ },
+ "modFunction_rewardCount_value1Name": {
+  "ch": "产出物品",
+  "en": "Generate item",
+  "pt": ""
+ },
+ "modFunction_rewardCount_value2Name": {
+  "ch": "产出次数",
+  "en": "How many times to generate",
+  "pt": ""
+ },
+ "modFunction_rewardNPCBegMercy_value1Name": {
+  "ch": "角色1",
+  "en": "Character 1",
+  "pt": ""
+ },
+ "modFunction_rewardNPCBegMercy_value2Name": {
+  "ch": "角色2",
+  "en": "Character 2",
+  "pt": ""
+ },
+ "modFunction_schoolAttrModif_value2Name": {
+  "ch": "增加的值",
+  "en": "Value increased",
+  "pt": ""
+ },
+ "modFunction_schoolReputationAdd_value2Name": {
+  "ch": "变化的值",
+  "en": "Value changed",
+  "pt": ""
+ },
+ "modFunction_setAttr_value2Name": {
+  "ch": "设置为指定的数值",
+  "en": "Set to a specified value",
+  "pt": ""
+ },
+ "modFunction_setDramaUnitData_value1Desc": {
+  "ch": "例如：设置左边抓取的角色是玩家，右边抓取的角色是张三，则可以弹出剧情与张三互动。\n\n也可以只设置右边抓取的NPC，则左边默认是玩家。",
+  "en": "For example: If the character to extract on the left is set as the player, and the character to extract on the right is a certain character, then a plot will pop up to interact with that character.\n\nIf you only set the character to extract on the right, the character on the left will be the player by default.",
+  "pt": ""
+ },
+ "modFunction_setDramaUnitData_value1Name": {
+  "ch": "设置剧情左边抓取的角色",
+  "en": "Set the plot character to extract on the left",
+  "pt": ""
+ },
+ "modFunction_setDramaUnitData_value2Name": {
+  "ch": "设置剧情右边抓取的角色",
+  "en": "Set the plot character to extract on the right",
+  "pt": ""
+ },
+ "modFunction_setEventDuration_value1Name": {
+  "ch": "事件ID",
+  "en": "Event ID",
+  "pt": ""
+ },
+ "modFunction_setEventDuration_value2Name": {
+  "ch": "剩余时间（月，-1无限）",
+  "en": "Remaining time (month, -1 means infinite)",
+  "pt": ""
+ },
+ "modFunction_setEventDuration_value3Name": {
+  "ch": "事件删除时，执行的命令",
+  "en": "Command to execute when deleting event",
+  "pt": ""
+ },
+ "modFunction_setSchoolPost_value1Name": {
+  "ch": "指定角色",
+  "en": "Specify character",
+  "pt": ""
+ },
+ "modFunction_setSchoolPost_value2Name": {
+  "ch": "设置的职位",
+  "en": "Position set",
+  "pt": ""
+ },
+ "modFunction_setUnitAttr_value4Name": {
+  "ch": "属性值",
+  "en": "Value of stats",
+  "pt": ""
+ },
+ "modFunction_setUnitGhost_value3Name": {
+  "ch": "元魂持续时间",
+  "en": "Last Breath duration",
+  "pt": ""
+ },
+ "modFunction_setUnitPoint_value2Name": {
+  "ch": "移动的X位置",
+  "en": "Destination's X value",
+  "pt": ""
+ },
+ "modFunction_setUnitPoint_value3Name": {
+  "ch": "移动的Y位置",
+  "en": "Destination's Y value",
+  "pt": ""
+ },
+ "modFunction_setWorldData_value1Desc": {
+  "ch": "一般用于标记，如有个奇遇是《遇到老奶奶》，奇遇有个按钮是《扶老奶奶过马路》，按钮上有个命令增加标记“玩家曾经扶了老奶奶过马路”。\n\n另一个奇遇是《剑仙老奶奶》，奇遇触发条件里可以判断标记“玩家曾经扶了老奶奶过马路”存在才能触发这个奇遇。",
+  "en": "Often used to mark data. For example, in [Adventure A], there's a [Button X], which carries a command that marks Player with [Key Y].\n\nThen, you can add [Key Y] to the second [Adventure B]'s triggering condition, making it only available when Player has completed [Adventure A].",
+  "pt": ""
+ },
+ "modFunction_setWorldData_value1Name": {
+  "ch": "key（标记）",
+  "en": "key",
+  "pt": ""
+ },
+ "modFunction_setWorldData_value2Name": {
+  "ch": "value（值）",
+  "en": "value",
+  "pt": ""
+ },
+ "modFunction_sight_value1Name": {
+  "ch": "视野范围",
+  "en": "Field of view",
+  "pt": ""
+ },
+ "modFunction_spriteClose_value2Name": {
+  "ch": "亲密度增加最小值",
+  "en": "Affinity Increase Min Value",
+  "pt": ""
+ },
+ "modFunction_spriteClose_value3Name": {
+  "ch": "亲密度增加最大值",
+  "en": "Affinity Increase Max Value",
+  "pt": ""
+ },
+ "modFunction_stealTownNpcItem_value2Name": {
+  "ch": "获取的道具数量",
+  "en": "Obtained Item Qty",
+  "pt": ""
+ },
+ "modFunction_stealTownNpcItem_value4Desc": {
+  "ch": "当在NPC身上获取不到道具时，产出此道具，否则产出获取的道具。",
+  "en": "If no item is found on the NPC, it will generate this item, otherwise it will generate the found item.",
+  "pt": ""
+ },
+ "modFunction_stealTownNpcItem_value4Name": {
+  "ch": "默认产出道具",
+  "en": "Default Item Drop",
+  "pt": ""
+ },
+ "modFunction_stealTownNpcItem_value5Name": {
+  "ch": "默认产出道具数量",
+  "en": "Default Item Drop Qty",
+  "pt": ""
+ },
+ "modFunction_systemTips_value1Name": {
+  "ch": "提示文本",
+  "en": "Tip text",
+  "pt": ""
+ },
+ "modFunction_systemTips_value2Name": {
+  "ch": "持续时间（毫秒）",
+  "en": "Duration (millisecond)",
+  "pt": ""
+ },
+ "modFunction_townAuctionAddItem_value2Name": {
+  "ch": "道具",
+  "en": "Item",
+  "pt": ""
+ },
+ "modFunction_unitAddImmortalPoint_value2Name": {
+  "ch": "增加的仙力点",
+  "en": "Added Immortal Power Pts",
+  "pt": ""
+ }
+}

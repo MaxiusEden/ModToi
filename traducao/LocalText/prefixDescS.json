@@ -1,0 +1,2922 @@
+{
+ "prefixDescS10101": {
+  "ch": "最大体力&10101_hpMaxUp&\n抗性&10101_prfDown&",
+  "en": "Max Vitality &10101_hpMaxUp&\nResistance &10101_prfDown&",
+  "pt": ""
+ },
+ "prefixDescS10102": {
+  "ch": "伤害&10102_powerUp&%\n移速&10102_luckDown&",
+  "en": "Damage &10102_powerUp&%\nAgility &10102_luckDown&",
+  "pt": ""
+ },
+ "prefixDescS10103": {
+  "ch": "吸血概率&1001_leechProb%1&%（仅对有吸血的技能生效）\n体力回复&10103_hpRestoreDown&",
+  "en": "Leech Chance &1001_leechProb%1&%, effective only to skills with Leech effect\nVitality Restoration &10103_hpRestoreDown&",
+  "pt": ""
+ },
+ "prefixDescS10104": {
+  "ch": "每点刀法资质可使暴击倍率&10104_bladeToCritV&%",
+  "en": "Every Blade stat will &10104_bladeToCritV&% of your Crit Rate",
+  "pt": ""
+ },
+ "prefixDescS10105": {
+  "ch": "每10点最大体力可使暴击倍率&10105_hpToCritV&%",
+  "en": "Every 10 Max Vitality will &10105_hpToCritV&% of your Crit Rate",
+  "pt": ""
+ },
+ "prefixDescS10106": {
+  "ch": "当体力小于&10106_hpRequire&%时，吸血比例&1002_leechRate%1&%（仅对有吸血的技能生效）",
+  "en": "Leech Rate &1002_leechRate%1&% when Vitality is below &10106_hpRequire&%, applicable only to skills with Leeching effect.",
+  "pt": ""
+ },
+ "prefixDescS10107": {
+  "ch": "暴击倍率&10107_critUp&%\n每秒对自身造成&10107_dmg&点伤害",
+  "en": "Crit Rate &10107_critUp&%\nDeal &10107_dmg& damage per second to self",
+  "pt": ""
+ },
+ "prefixDescS10108": {
+  "ch": "刀、枪、剑法资质&10108_basUp&",
+  "en": "Blade, Spear, and Sword &10108_basUp&",
+  "pt": ""
+ },
+ "prefixDescS10109": {
+  "ch": "当体力小于&10109_hpRequire&%时，暴击概率&10109_critUp&%",
+  "en": "Crit Chance &10109_critUp&% when Vitality is below &10109_hpRequire&%",
+  "pt": ""
+ },
+ "prefixDescS10110": {
+  "ch": "体力每降低&10110_hpReduce&%，吸血概率提高&10110_hpSuckUp&%（仅对有吸血的技能生效）",
+  "en": "Every &10110_hpReduce&% lost Vitality will &10110_hpSuckUp&% of your Leech Chance, applicable only to skills with Leeching effect.",
+  "pt": ""
+ },
+ "prefixDescS10111": {
+  "ch": "魔煞附体，当体力大于80%时，魔煞会消耗当前5%的体力，使用断斩技能，每3秒使用一次",
+  "en": "Possessed by a demon. It will cast Sever every 3 seconds at the cost of your 5% Current Vitality if your Vitality is above 80%",
+  "pt": ""
+ },
+ "prefixDescS10112": {
+  "ch": "每次吸血时，有&10111_crescentProb&%的概率施放出&1041_bulletNum&道可穿透刀光,每秒最多触发5次",
+  "en": "&10111_crescentProb&% chance to release &1041_bulletNum& penetrative blade auras upon every successful Leeching (Trigger at max 5 times per second)",
+  "pt": ""
+ },
+ "prefixDescS10113": {
+  "ch": "战斗中每触发&10112_leechNum&次吸血，最大体力永久&10112_hpMaxUp&，每场战斗最多增加&10112_hpUpMax&点",
+  "en": "Every &10112_leechNum& Leeching in battle will &10112_hpMaxUp& your Max Vitality permanently, up to &10112_hpUpMax& in every battle",
+  "pt": ""
+ },
+ "prefixDescS10114": {
+  "ch": "每&int_1|/10113_hpMaxToJnfw|f0&点最大体力，技能范围&10113_hpMaxToJnfw&%",
+  "en": "Every &int_1|/10113_hpMaxToJnfw|f0& Max Vitality will &10113_hpMaxToJnfw&% of your skill's Radius",
+  "pt": ""
+ },
+ "prefixDescS102001": {
+  "ch": "此技能威力&102_dmg%1&",
+  "en": "Skill Damage &102_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS102002": {
+  "ch": "此技能威力&102_dmg%2&\n吸血比例&102_leechRate%1&%",
+  "en": "Skill Damage &102_dmg%2&\nLeech Rate &102_leechRate%1&%",
+  "pt": ""
+ },
+ "prefixDescS102003": {
+  "ch": "此技能威力&102_dmg%3&\n冷却&102_cd%1&秒",
+  "en": "Skill Damage &102_dmg%3&\nCooldown &102_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS102004": {
+  "ch": "此技能威力&102_dmg%4&\n吸血概率&102_leechProb%1&%",
+  "en": "Skill Damage &102_dmg%4&\nLeech Chance &102_leechProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS102005": {
+  "ch": "此技能威力&102_dmg%5&\n范围&102_range%1&",
+  "en": "Skill Damage &102_dmg%5&\nRadius &102_range%1&",
+  "pt": ""
+ },
+ "prefixDescS102006": {
+  "ch": "当体力小于&102_lifeNeed&%时，此技能的吸血概率&102_leechProbUp6&%",
+  "en": "Leech Chance &102_leechProbUp6&% when Vitality is below &102_lifeNeed&%",
+  "pt": ""
+ },
+ "prefixDescS102007": {
+  "ch": "周围&102_rangeNeed&范围内每有一个敌人，此技能的暴击概率&102_critUp6&%",
+  "en": "Crit Chance &102_critUp6&% for every 1 enemy within &102_rangeNeed& Range",
+  "pt": ""
+ },
+ "prefixDescS10201": {
+  "ch": "技能射程&10201_rangeUp&%\n闪避&10201_evadeDown&%",
+  "en": "Skill Range &10201_rangeUp&%\nDodge &10201_evadeDown&%",
+  "pt": ""
+ },
+ "prefixDescS10202": {
+  "ch": "弹道&10202_bulletUp&\n伤害&10202_powerDown&%",
+  "en": "Projectiles &10202_bulletUp&\nDamage &10202_powerDown&%",
+  "pt": ""
+ },
+ "prefixDescS10203": {
+  "ch": "冲刺距离&1003_chargeRange%1&（仅对冲刺技能生效）",
+  "en": "Charge Distance &1003_chargeRange%1&, effective only to Charge skills",
+  "pt": ""
+ },
+ "prefixDescS10204": {
+  "ch": "每点枪法资质可使技能射程&10204_spearToRange&%",
+  "en": "Every Spear stat will &10204_spearToRange&% of your Skill Range",
+  "pt": ""
+ },
+ "prefixDescS10205": {
+  "ch": "每拾取&10205_getMoney&次灵石可获得1点充能点",
+  "en": "Every &10205_getMoney& Pick-up of Spirit Stones will grant you a Recharging Point",
+  "pt": ""
+ },
+ "prefixDescS10206": {
+  "ch": "每次消耗充能点时可回复&10206_hpRecover&体力",
+  "en": "Restore &10206_hpRecover& Vitality upon every consuming of Recharging Points",
+  "pt": ""
+ },
+ "prefixDescS10207": {
+  "ch": "伤害&10207_powerDown&%\n每2%技能射程可使所有技能的伤害&10207_rangeToDmg&%",
+  "en": "Damage &10207_powerDown&%\nEvery 2% Skill Range will grant you &10207_rangeToDmg&% Damage for all skills",
+  "pt": ""
+ },
+ "prefixDescS10208": {
+  "ch": "所有功法资质&10208_wpBasUp&",
+  "en": "All Martial Arts &10208_wpBasUp&",
+  "pt": ""
+ },
+ "prefixDescS10209": {
+  "ch": "枪法资质&10209_basSpearUp&，每击杀&10209_killNum&次敌人，释放一次龙威，对全场造成枪法资质*&10209_dragonBlastDmgC&威力的伤害",
+  "en": "Spear &10209_basSpearUp&. Every &10209_killNum& enemy killed will trigger a Dragon Rise, dealing damage equal to &10209_dragonBlastDmgC& times of your Spear stat to enemies on the battlefield.",
+  "pt": ""
+ },
+ "prefixDescS103001": {
+  "ch": "此技能威力&103_dmg%1&",
+  "en": "Skill Damage &103_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS103002": {
+  "ch": "此技能威力&103_dmg%2&\n冷却&103_cd%1&秒",
+  "en": "Skill Damage &103_dmg%2&\nCooldown &103_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS103003": {
+  "ch": "此技能威力&103_dmg%3&\n每次触发斩杀时\n可回复&103_hpRecover&点体力",
+  "en": "Skill Damage &103_dmg%3&\nFor every triggering of execution\nRestore &103_hpRecover& Vitality",
+  "pt": ""
+ },
+ "prefixDescS103004": {
+  "ch": "此技能威力&103_dmg%4&\n斩杀线&103_killHp%1&%",
+  "en": "Skill Damage &103_dmg%4&\nExecution Threshold &103_killHp%1&%",
+  "pt": ""
+ },
+ "prefixDescS103005": {
+  "ch": "此技能威力&103_dmg%5&\n范围&103_range%1&",
+  "en": "Skill Damage &103_dmg%5&\nRange &103_range%1&",
+  "pt": ""
+ },
+ "prefixDescS103006": {
+  "ch": "使用此技能时，若体力大于&103_hpNeed6&%，则消耗&103_hpCost6&体力，使此技能的威力+40",
+  "en": "Cost &103_hpCost6& Vitality to increase Skill Damage by 40 if Vitality is above &103_hpNeed6&% upon cast",
+  "pt": ""
+ },
+ "prefixDescS103007": {
+  "ch": "每&103_hpTransfer&点最大体力可此技能的暴击倍率&103_critVUp7&%",
+  "en": "Every &103_hpTransfer& Max Vitality will increase the skill's Crit Rate by &103_critVUp7&%",
+  "pt": ""
+ },
+ "prefixDescS103008": {
+  "ch": "每次受到伤害时，有&103_counterProb&%的概率立即使用一次此技能（每秒最多触发5次）",
+  "en": "&103_counterProb&% chance to cast the skill instantly upon being hit. (Trigger at max 5 times per second)",
+  "pt": ""
+ },
+ "prefixDescS10301": {
+  "ch": "闪避&10301_prfDown&%\n移动速度&10301_mspUp&",
+  "en": "Dodge &10301_prfDown&%\nAgility &10301_mspUp&",
+  "pt": ""
+ },
+ "prefixDescS10302": {
+  "ch": "伤害&10302_powerDown&%\n穿透次数&10302_ddctUp&（仅对可穿透的弹道生效）",
+  "en": "Damage &10302_powerDown&%\nProjectile Penetrations &10302_ddctUp&, effective only to penetrative ones",
+  "pt": ""
+ },
+ "prefixDescS10303": {
+  "ch": "伤害&10303_powerDown&%\n闪避&10303_evadeUp&%",
+  "en": "Damage &10303_powerDown&%\nDodge &10303_evadeUp&%",
+  "pt": ""
+ },
+ "prefixDescS10304": {
+  "ch": "每点剑法资质可使移动速度&10304_swordToSpeed&",
+  "en": "Every Sword stat will &10304_swordToSpeed& your Agility",
+  "pt": ""
+ },
+ "prefixDescS10305": {
+  "ch": "每次使用技能，可使该技能&10305_dmgUp&点威力，持续到本场战斗结束",
+  "en": "Every cast of a skill will increase its Damage by &10305_dmgUp&, effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS10306": {
+  "ch": "若周围300码范围内没有敌人，伤害&10306_powerUp&%",
+  "en": "&10306_powerUp&% Damage if there is no enemy within 300 Range",
+  "pt": ""
+ },
+ "prefixDescS10307": {
+  "ch": "流血的伤害&1004_bleedingCoefficient%1&%",
+  "en": "Bleed Damage &1004_bleedingCoefficient%1&%",
+  "pt": ""
+ },
+ "prefixDescS10308": {
+  "ch": "剑法资质&10308_swordUp&",
+  "en": "Sword &10308_swordUp&",
+  "pt": ""
+ },
+ "prefixDescS10309": {
+  "ch": "在战斗中施加&10309_slowNum&次减速效果之后，技能持续时间&10309_jncxUp&%，持续到本场战斗结束",
+  "en": "Gain &10309_jncxUp&% of Skill Duration after applied &10309_slowNum& times of Slow. Effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS104001": {
+  "ch": "此技能威力&104_dmg%1&",
+  "en": "Skill Damage &104_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS104002": {
+  "ch": "此技能威力&104_dmg%2&\n吸血比例&104_leechRate%1&%",
+  "en": "Skill Damage &104_dmg%2&\nLeech Rate &104_leechRate%1&%",
+  "pt": ""
+ },
+ "prefixDescS104003": {
+  "ch": "此技能威力&104_dmg%3&\n冷却&104_cd%1&秒",
+  "en": "Skill Damage &104_dmg%3&\nCooldown &104_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS104004": {
+  "ch": "此技能威力&104_dmg%4&\n吸血概率&104_leechProb%1&%",
+  "en": "Skill Damage &104_dmg%4&\nLeech Chance &104_leechProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS104005": {
+  "ch": "此技能威力&104_dmg%5&\n刀刃数量&104_bullet%1&",
+  "en": "Skill Damage &104_dmg%5&\nBlade Amount &104_bullet%1&",
+  "pt": ""
+ },
+ "prefixDescS104006": {
+  "ch": "使用此技能时，若体力大于&104_hpNeed6&%，则消耗&104_hpCost6&点体力，使此技能的弹道可弹射&104_ejectNum%1&次",
+  "en": "Cost &104_hpCost6& Vitality to bounce the projectile for &104_ejectNum%1& times if Vitality is above &104_hpNeed6&% upon cast",
+  "pt": ""
+ },
+ "prefixDescS104007": {
+  "ch": "每有&104_hpRequire&点当前体力，此技能的暴击概率&104_currentHpToCrit&%",
+  "en": "For every &104_hpRequire& Current Vitality, increase the skill's Crit Chance by &104_currentHpToCrit&%",
+  "pt": ""
+ },
+ "prefixDescS10401": {
+  "ch": "抗性&10401_prfUp&\n暴击倍率&10401_evadeDown&%",
+  "en": "Resistance &10401_prfUp&\nCrit Rate &10401_evadeDown&%",
+  "pt": ""
+ },
+ "prefixDescS10402": {
+  "ch": "暴击概率&10402_critUp&%\n移动速度&10402_mspDown&",
+  "en": "Crit Chance &10402_critUp&%\nAgility &10402_mspDown&",
+  "pt": ""
+ },
+ "prefixDescS10403": {
+  "ch": "最大体力&10403_hpMaxUp&\n技能射程&10403_rangeDown&%",
+  "en": "Max Vitality &10403_hpMaxUp&\nSkill Range &10403_rangeDown&%",
+  "pt": ""
+ },
+ "prefixDescS10404": {
+  "ch": "每2点拳法资质可使暴击概率&10404_fistToCrit&%",
+  "en": "Every 2 Fist stats will &10404_fistToCrit&% of your Crit Chance",
+  "pt": ""
+ },
+ "prefixDescS10405": {
+  "ch": "每20点护盾可&10405_shieldToCrit&%暴击概率",
+  "en": "Every 20 Shield HP will &10405_shieldToCrit&% of your Crit Chance",
+  "pt": ""
+ },
+ "prefixDescS10406": {
+  "ch": "护盾的最大值&1005_shieldMax%1&\n每秒失去&10406_shieldLost&点护盾",
+  "en": "Max Shield HP &1005_shieldMax%1&\nLose &10406_shieldLost& Shield HP per Second",
+  "pt": ""
+ },
+ "prefixDescS10407": {
+  "ch": "移动速度&10407_mspDown&\n拥有护盾时，抗性&10407_prfUp&",
+  "en": "Agility &10407_mspDown&\nResistance &10407_prfUp& if you have Shield",
+  "pt": ""
+ },
+ "prefixDescS10408": {
+  "ch": "拳、掌、指法资质&10408_basUp&",
+  "en": "Fist, Palm, and Finger &10408_basUp&",
+  "pt": ""
+ },
+ "prefixDescS10409": {
+  "ch": "消耗护盾时，回复等量的体力\n体力回复&10409_hpRestoreDown&\n吸血比例&10409_hpSuckVDown&（仅对有吸血的技能生效）",
+  "en": "Restore Vitality equal to the amount absorbed by your Shield when it takes damage\nVitality Restoration &10409_hpRestoreDown&\nLeech Rate &10409_hpSuckVDown&, applicable only to skills with Leeching effect.",
+  "pt": ""
+ },
+ "prefixDescS10410": {
+  "ch": "每拥有&10410_pfrC&点抗性，可使你在获得护盾时额外获得1点护盾",
+  "en": "Every &10410_pfrC& Resistance will grant you 1 additional Shield HP when generating shields",
+  "pt": ""
+ },
+ "prefixDescS10411": {
+  "ch": "关卡结束时，每拥有10点护盾，可额外获得*&10411_shieldC&灵石（第一关时获得灵石上限为&10411_manaStoneMax&，此后每过一关，获得的灵石上限&10411_maxUp&）",
+  "en": "Every 10 Shield HP will grant you &10411_shieldC& bonus Spirit Stones at the end of every level. The cap of bonus Spirit Stones is &10411_manaStoneMax& at the first level, and will &10411_maxUp& in each level onward.",
+  "pt": ""
+ },
+ "prefixDescS10412": {
+  "ch": "每&10412_shieldRequire&点护盾使伤害&10412_powerUp&%",
+  "en": "Every &10412_shieldRequire& Shield HP will &10412_powerUp&% of your Damage",
+  "pt": ""
+ },
+ "prefixDescS10413": {
+  "ch": "&10413_rangeRequire&范围内每有1个敌人抗性&10413_pfrUp&",
+  "en": "Every enemy in &10413_rangeRequire& Range will &10413_pfrUp& your Resistance",
+  "pt": ""
+ },
+ "prefixDescS10414": {
+  "ch": "当护盾破碎时，伤害&10414_powerUp&%，暴击概率&10414_critUp&%，持续&10414_time&秒，最多叠加&10414_maxSuperposition&层",
+  "en": "Gain &10414_powerUp&% Bonus Damage, &10414_critUp&% Crit Chance for &10414_time&s upon losing all your Shield, up to &10414_maxSuperposition& stacks.",
+  "pt": ""
+ },
+ "prefixDescS10415": {
+  "ch": "受到伤害时，有&10415_dmgToShieldProb&%的概率反弹当前护盾值的伤害",
+  "en": "&10415_dmgToShieldProb&% chance to reflect damage equal to your current Shield HP every time when you take damage",
+  "pt": ""
+ },
+ "prefixDescS10416": {
+  "ch": "受到伤害时，有&10416_dmgToShieldProb&%的几率将此次伤害转化为护盾",
+  "en": "&10416_dmgToShieldProb&% chance to convert the imminent damage into your Shield HP every time when you take damage",
+  "pt": ""
+ },
+ "prefixDescS10501": {
+  "ch": "闪避&10501_evadeUp&%\n体力上限&10501_agileDown&",
+  "en": "Dodge &10501_evadeUp&%\nMax Vitality &10501_agileDown&",
+  "pt": ""
+ },
+ "prefixDescS10502": {
+  "ch": "移动速度&10502_mspUp&\n暴击概率&10502_critDown&%",
+  "en": "Agility &10502_mspUp&\nCrit Chance &10502_critDown&%",
+  "pt": ""
+ },
+ "prefixDescS10503": {
+  "ch": "技能持续时间&10503_jncxDown&%\n掌风范围&1006_windSize%1&",
+  "en": "Skill Duration &10503_jncxDown&%\nPalm Wind Size &1006_windSize%1&",
+  "pt": ""
+ },
+ "prefixDescS10504": {
+  "ch": "每点掌法资质可使掌风固定伤害&10504_windDmgUp&",
+  "en": "Every Palm stat will &10504_windDmgUp& the fixed damage of Palm Winds",
+  "pt": ""
+ },
+ "prefixDescS10505": {
+  "ch": "每层内伤的额外伤害&1007_injuryBonusDmg%1&",
+  "en": "Extra Damage from every stack of Internal Injury &1007_injuryBonusDmg%1&",
+  "pt": ""
+ },
+ "prefixDescS10506": {
+  "ch": "内伤的最大叠加层数&1008_injurySuperposition%1&层",
+  "en": "Internal Injury Max Stacks &1008_injurySuperposition%1&",
+  "pt": ""
+ },
+ "prefixDescS10507": {
+  "ch": "保持静止时，伤害&10507_powerUp&%",
+  "en": "&10507_powerUp&% Damage when not in moving",
+  "pt": ""
+ },
+ "prefixDescS10508": {
+  "ch": "掌法资质&10508_palmUp&",
+  "en": "Palm &10508_palmUp&",
+  "pt": ""
+ },
+ "prefixDescS10509": {
+  "ch": "完成完美蓄力后伤害&10509_powerUp&%，持续&10509_time%1&秒",
+  "en": "&10509_powerUp&% Damage after a Full Charge for &10509_time%1&s",
+  "pt": ""
+ },
+ "prefixDescS10601": {
+  "ch": "暴击倍率&10601_critVUp&%\n伤害&10601_powerDown&%",
+  "en": "Crit Rate &10601_critVUp&%\nDamage &10601_powerDown&%",
+  "pt": ""
+ },
+ "prefixDescS10602": {
+  "ch": "伤害&10602_powerUp&%\n获得修为&10602_jnfwDown&%",
+  "en": "Damage &10602_powerUp&%\nEXP Gained &10602_jnfwDown&%",
+  "pt": ""
+ },
+ "prefixDescS10603": {
+  "ch": "灵爆伤害&50001_blastDmgCoefficient%1&%",
+  "en": "Blast Damage &50001_blastDmgCoefficient%1&%",
+  "pt": ""
+ },
+ "prefixDescS10604": {
+  "ch": "每2点指法资质可使伤害&10604_fingerToPower&%",
+  "en": "Every 2 Finger stats will &10604_fingerToPower&% of your Damage",
+  "pt": ""
+ },
+ "prefixDescS10605": {
+  "ch": "每引发一次灵爆时，可使暴击倍率&10605_critVUp&%，最大可叠加&10605_maxSuperposition&层，持续到本次战斗结束",
+  "en": "Every triggering of Blast will &10605_critVUp&% of your Crit Rate, stackable at max &10605_maxSuperposition& stacks, and will be effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS10606": {
+  "ch": "每触发一次暴击，可使技能持续时间&10606_jncxUp&%，最大可叠加&10606_maxSuperposition&层，持续到本次战斗结束",
+  "en": "Every triggering of Crit strike will &10606_jncxUp&% of your Skill Duration, stackable at max &10606_maxSuperposition& stacks, and will be effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS10607": {
+  "ch": "每&int_1|/10607_luckToPower|f0&点幸运可使伤害&10607_luckToPower&%",
+  "en": "Every &int_1|/10607_luckToPower|f0& Luck will &10607_luckToPower&% of your Damage",
+  "pt": ""
+ },
+ "prefixDescS10608": {
+  "ch": "指法资质&10608_fingerUp&\n幸运&10608_luckUp&",
+  "en": "Finger &10608_fingerUp&\nLuck &10608_luckUp&",
+  "pt": ""
+ },
+ "prefixDescS1101001": {
+  "ch": "此技能威力&1101_dmg%1&",
+  "en": "Skill Damage &1101_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1101002": {
+  "ch": "此技能威力&1101_dmg%2&\n火球数量&1101_num%1&",
+  "en": "Skill Damage &1101_dmg%2&\nFire Balls &1101_num%1&",
+  "pt": ""
+ },
+ "prefixDescS1101003": {
+  "ch": "此技能威力&1101_dmg%3&\n冷却&1101_cd%1&秒",
+  "en": "Skill Damage &1101_dmg%3&\nCooldown &1101_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1101004": {
+  "ch": "此技能威力&1101_dmg%4&\n生成烈焰的概率&1101_fireProb%1&%",
+  "en": "Skill Damage &1101_dmg%4&\nFlame Generation Chance &1101_fireProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1101005": {
+  "ch": "进入战斗后每3秒可&1101_fiveDmg&威力，直到本场战斗结束",
+  "en": "Every 3 seconds in battle will &1101_fiveDmg& Damage, effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS1101006": {
+  "ch": "在战斗中每生成一次烈焰，此技能的威力&1101_sixDmg&，直到本场战斗结束",
+  "en": "Every Fiery Flames generated will grant the skill &1101_sixDmg& damage, effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS1101007": {
+  "ch": "使用此技能时，若体力大于&1101_sevenHp&%，则消耗&1101_costHp&%的体力，使此技能的弹道进行一次弹跳",
+  "en": "Cost &1101_costHp&% Vitality to bounce the projectile for 1 time if Vitality is above &1101_sevenHp&% upon cast",
+  "pt": ""
+ },
+ "prefixDescS1102001": {
+  "ch": "此技能威力&1102_dmg%1&",
+  "en": "Skill Damage &1102_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1102002": {
+  "ch": "此技能威力&1102_dmg%2&\n射程&1102_haloRange&",
+  "en": "Skill Damage &1102_dmg%2&\nRange &1102_haloRange&",
+  "pt": ""
+ },
+ "prefixDescS1102003": {
+  "ch": "此技能威力&1102_dmg%3&\n持续时间&1102_time%1&秒",
+  "en": "Skill Damage &1102_dmg%3&\nDuration &1102_time%1&s",
+  "pt": ""
+ },
+ "prefixDescS1102004": {
+  "ch": "此技能威力&1102_dmg%4&\n冷却&1102_cd%1&秒",
+  "en": "Skill Damage &1102_dmg%4&\nCooldown &1102_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1102005": {
+  "ch": "此技能击杀敌人时，有&1102_fireProb&%的概率在自身位置生成一道烈焰",
+  "en": "&1102_fireProb&% chance to generate a Fiery Flame at the character's location if the skill kills an enemy",
+  "pt": ""
+ },
+ "prefixDescS1102006": {
+  "ch": "使用此技能时，若体力大于&1102_sixHp&%，则消耗&1102_costHp&%的体力，使此技能的持续时间&1102_sixTime&秒",
+  "en": "Cost &1102_costHp&% Vitality to extend the skill's duration by &1102_sixTime&s if Vitality is above &1102_sixHp&% upon cast",
+  "pt": ""
+ },
+ "prefixDescS1102007": {
+  "ch": "此技能每持续施放1秒，可&1102_sevenDmg&威力，直到本场战斗结束",
+  "en": "Every 1 second in casting the skill will 1102_sevenDmg& Damage, effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS1103001": {
+  "ch": "此技能威力&1103_dmg%1&",
+  "en": "Skill Damage &1103_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1103002": {
+  "ch": "此技能威力&1103_dmg%2&\n火罩可抵挡伤害次数&1103_sumGuard%1&",
+  "en": "Skill Damage &1103_dmg%2&\nShield Blocks &1103_sumGuard%1&",
+  "pt": ""
+ },
+ "prefixDescS1103003": {
+  "ch": "此技能威力&1103_dmg%3&\n冷却&1103_cd%1&秒",
+  "en": "Skill Damage &1103_dmg%3&\nCooldown &1103_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1103004": {
+  "ch": "此技能威力&1103_dmg%4&\n火罩持续时间&1103_time%1&秒",
+  "en": "Skill Damage &1103_dmg%4&\nFire Shield Duration &1103_time%1&s",
+  "pt": ""
+ },
+ "prefixDescS1103005": {
+  "ch": "生成烈焰所需移动距离&1103_roadSum%1&",
+  "en": "Distance Required to Generate Fiery Flame &1103_roadSum%1&",
+  "pt": ""
+ },
+ "prefixDescS1103006": {
+  "ch": "使用此技能时，若体力大于&1103_sixHp&%，则消耗&1103_costHp&%的体力，在技能持续时间移动速度&1103_sixSpeed&%",
+  "en": "Cost &1103_costHp&% Vitality to increase Agility by &1103_sixSpeed&% in the skill's effect time if Vitality is above &1103_sixHp&% upon cast",
+  "pt": ""
+ },
+ "prefixDescS1103007": {
+  "ch": "在战斗中每生成一次烈焰，此技能的威力&1103_sevenDmg&，直到本场战斗结束",
+  "en": "Every Fiery Flames generated will grant the skill &1103_sevenDmg& damage, effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS11101": {
+  "ch": "伤害&11101_dmgSum&%\n下一关的关卡时间&11101_timeSum&秒",
+  "en": "Damage &11101_dmgSum&%\nNext Level Time &11101_timeSum&s",
+  "pt": ""
+ },
+ "prefixDescS11102": {
+  "ch": "最大体力&11102_hpSum&\n召唤物攻击速度&11102_attSpeedSum&%",
+  "en": "Max Vitality &11102_hpSum&\nSummoned Unit Attack Speed &11102_attSpeedSum&%",
+  "pt": ""
+ },
+ "prefixDescS11103": {
+  "ch": "烈焰的伤害&11103_fireDmgProb&%\n下一关的敌人造成的伤害&11103_dmgUpSum&%",
+  "en": "Fiery Flame Damage &11103_fireDmgProb&%\nEnemy Damage at the next level &11103_dmgUpSum&%",
+  "pt": ""
+ },
+ "prefixDescS11104": {
+  "ch": "每点火灵根可使烈焰的范围&11104_fireRange&%",
+  "en": "Every Fire root will &11104_fireRange&% Fiery Flame's Radius",
+  "pt": ""
+ },
+ "prefixDescS11105": {
+  "ch": "每拥有&11105_fireSum&点当前体力可烈焰持续时间&11105_fireRange&秒",
+  "en": "Every &11105_fireSum& current Vitality will &11105_fireRange&s Fiery Flame Duration",
+  "pt": ""
+ },
+ "prefixDescS11106": {
+  "ch": "烈焰伤害&11106_fireDmg&%，敌人移动速度&11106_speedSum&%",
+  "en": "Fiery Flame Damage &11106_fireDmg&%, Enemy Agility &11106_speedSum&%",
+  "pt": ""
+ },
+ "prefixDescS11107": {
+  "ch": "伤害&11107_lostDmg&%\n进入战斗后，每秒&11107_uoDmg&%伤害（最大提升100%）",
+  "en": "Damage &11107_lostDmg&%\n&11107_uoDmg&% Damage per second after entering battle, up to 100%.",
+  "pt": ""
+ },
+ "prefixDescS11108": {
+  "ch": "火、水灵根&11108_fire&",
+  "en": "Fire and Water roots &11108_fire&",
+  "pt": ""
+ },
+ "prefixDescS11109": {
+  "ch": "当自身站在烈焰上，获得体力回复&11109_hpRestore&",
+  "en": "Gain &11109_hpRestore& Vitality Restoration when standing in Fiery Flame",
+  "pt": ""
+ },
+ "prefixDescS11110": {
+  "ch": "当场上出现过&11110_fireSum&次烈焰，则会在战场中间召唤一枚神火核，持续&11110_time&秒，冷却&11110_cd&秒",
+  "en": "Every &11110_fireSum& times of Fiery Flame triggered will create a Fire Core lasting for &11110_time&s. Cooldown: &11110_cd&s",
+  "pt": ""
+ },
+ "prefixDescS11111": {
+  "ch": "伤害&11111_power&%，幸运&11111_luck&",
+  "en": "Damage &11111_power&%, Luck &11111_luck&",
+  "pt": ""
+ },
+ "prefixDescS11112": {
+  "ch": "伤害&11112_power&%\n闪避&11112_evade&%",
+  "en": "Damage &11112_power&%\nDodge &11112_evade&%",
+  "pt": ""
+ },
+ "prefixDescS11113": {
+  "ch": "技能持续时间&11113_jncx&%\n伤害&11113_power&%",
+  "en": "Skill Duration &11113_jncx&%\nDamage &11113_power&%",
+  "pt": ""
+ },
+ "prefixDescS11114": {
+  "ch": "伤害&11114_power&%，烈焰范围&11114_fireRange&%，抗性&11114_pfr&",
+  "en": "Damage &11114_power&%, Fiery Flame Radius &11114_fireRange&%, Resistance &11114_pfr&",
+  "pt": ""
+ },
+ "prefixDescS11115": {
+  "ch": "体力&11115_hp&，烈焰范围&11115_fireRange&%",
+  "en": "Vitality &11115_hp&, Fiery Flame Radius &11115_fireRange&%",
+  "pt": ""
+ },
+ "prefixDescS11116": {
+  "ch": "烈焰伤害&11116_fireDmg&%，体力&11116_hp&",
+  "en": "Fiery Flame Damage &11116_fireDmg&%, Vitality &11116_hp&",
+  "pt": ""
+ },
+ "prefixDescS11201": {
+  "ch": "每个存在的幻像，可使自身的抗性&11201_pfrSum&",
+  "en": "Every existing Phantom will &11201_pfrSum& your Resistance",
+  "pt": ""
+ },
+ "prefixDescS11202": {
+  "ch": "体力回复&11202_hpBack&\n闪避&11202_mspSum&%",
+  "en": "Vitality Restoration &11202_hpBack&\nDodge &11202_mspSum&%",
+  "pt": ""
+ },
+ "prefixDescS11203": {
+  "ch": "霜冻的减速效果改为10%\n持续时间&11203_timeSum&秒",
+  "en": "Slowing of Frost will be 10%\nDuration &11203_timeSum&s",
+  "pt": ""
+ },
+ "prefixDescS11204": {
+  "ch": "每点水灵根可使体力回复&11204_hpBack&",
+  "en": "Every Water root will &11204_hpBack& Vitality Restoration",
+  "pt": ""
+ },
+ "prefixDescS11205": {
+  "ch": "抗性&11205_pfr&\n受到伤害时，可使伤害来源获得霜冻",
+  "en": "Resistance &11205_pfr&\nInflict Frost on the enemies dealing damage to you",
+  "pt": ""
+ },
+ "prefixDescS11206": {
+  "ch": "幻像及召唤物死亡时，会在其位置处引发一次霜冻，使&11206_iceRange&范围内的敌人获得霜冻",
+  "en": "Upon their death, your Phantoms and Summoned Units will inflict Frost on enemies in &11206_iceRange& Range around them",
+  "pt": ""
+ },
+ "prefixDescS11207": {
+  "ch": "每&11207_hpMax&点最大体力可使体力回复&11207_hpBack&",
+  "en": "Every &11207_hpMax& Max Vitality will &11207_hpBack& your Vitality Restoration",
+  "pt": ""
+ },
+ "prefixDescS11208": {
+  "ch": "所有灵根&11208_allSum&",
+  "en": "All Spiritual Roots &11208_allSum&",
+  "pt": ""
+ },
+ "prefixDescS11209": {
+  "ch": "站立不动超过&11209_one&秒后，每&11209_two&秒获得&11209_three&抗性，上限为&11209_four&",
+  "en": "After &11209_one&s of standing still, you gain &11209_three& Resistance every &11209_two&s, up to &11209_four&",
+  "pt": ""
+ },
+ "prefixDescS11210": {
+  "ch": "对射程&11210_one&码以外的目标伤害&11210_two&%",
+  "en": "Damage &11210_two&% for targets beyond &11210_one& distance",
+  "pt": ""
+ },
+ "prefixDescS11211": {
+  "ch": "每次施加霜冻效果时，有&11211_one%1&%的概率会在场地中间召唤一个持续&11211_two&秒的大漩涡，敌人将被其牵引进去（对大妖兽无效），每&11211_three&秒最多触发1次",
+  "en": "Every inflict of Frost will have a &11211_one%1&% chance to generate a whirlpool in the center of the battlefield for &11211_two&s, drawing enemies (except for Mythical Beasts) into it. Can be triggered once every &11211_three&s.",
+  "pt": ""
+ },
+ "prefixDescS11212": {
+  "ch": "每当击杀一名带有霜冻的敌人时，有&11212_one&%概率在自身位置召唤一枚冰锥",
+  "en": "&11212_one&% chance to generate an Ice Cone at your location every time you kill an enemy affected by Frost.",
+  "pt": ""
+ },
+ "prefixDescS11213": {
+  "ch": "技能范围&11213_one&%\n伤害&11213_two&%",
+  "en": "Skill Radius &11213_one&%\nDamage &11213_two&%",
+  "pt": ""
+ },
+ "prefixDescS11214": {
+  "ch": "技能持续时间&11214_one&%\n暴击概率&11214_two&%",
+  "en": "Skill Duration &11214_one&%\nCrit Chance &11214_two&%",
+  "pt": ""
+ },
+ "prefixDescS11215": {
+  "ch": "伤害&11215_one&%\n最大体力&11215_two&",
+  "en": "Damage &11215_one&%\nMax Vitality &11215_two&",
+  "pt": ""
+ },
+ "prefixDescS11301": {
+  "ch": "抗性&11301_pfr&\n获得天雷效果（每造成200次雷属性伤害时，可引发一次连续雷击，随机打击场上的敌人20次）",
+  "en": "Resistance &11301_pfr&\nGain Thunder Caller ability. Every 200 times of Lightning damage you inflicted will trigger a Thunderstorm, striking random enemies for a total of 20 times.",
+  "pt": ""
+ },
+ "prefixDescS11302": {
+  "ch": "攻击速度&11302_msp&%\n抗性&11302_pfr&",
+  "en": "Attack Speed &11302_msp&%\nResistance &11302_pfr&",
+  "pt": ""
+ },
+ "prefixDescS11303": {
+  "ch": "每次受到伤害时获得闪避&11303_evade&%，持续&11303_time&秒，不可叠加",
+  "en": "Every time of being hit will &11303_evade&% of your Dodge for &11303_time&s (not stackable)",
+  "pt": ""
+ },
+ "prefixDescS11304": {
+  "ch": "每点雷灵根可使攻击速度&11304_mspUp&%",
+  "en": "Every Lightning root will &11304_mspUp&% of your Attack Speed",
+  "pt": ""
+ },
+ "prefixDescS11305": {
+  "ch": "天雷的威力&11305_dmgUoMin&~&11305_dmgUpMax&",
+  "en": "Thunderstorm's Damage will range from &11305_dmgUoMin&~&11305_dmgUpMax&",
+  "pt": ""
+ },
+ "prefixDescS11306": {
+  "ch": "天雷所需的雷属性伤害次数&11306_sum&次",
+  "en": "Lightning attacks required to trigger Thunderstorm &11306_sum&",
+  "pt": ""
+ },
+ "prefixDescS11307": {
+  "ch": "攻击速度&11307_agile&%\n每10点移动速度可&11307_agileUp&%攻击速度",
+  "en": "Attack Speed &11307_agile&%\nEvery 10 Agility will &11307_agileUp&% Attack Speed",
+  "pt": ""
+ },
+ "prefixDescS11308": {
+  "ch": "雷灵根&11308_lighting&",
+  "en": "Lightning Root &11308_lighting&",
+  "pt": ""
+ },
+ "prefixDescS11309": {
+  "ch": "暴击概率&11309_crit&%\n伤害&11309_power&%",
+  "en": "Crit Chance &11309_crit&%\nDamage &11309_power&%",
+  "pt": ""
+ },
+ "prefixDescS11310": {
+  "ch": "暴击概率&11310_crit&%\n抗性&11310_power&",
+  "en": "Crit Chance &11310_crit&%\nResistance &11310_power&",
+  "pt": ""
+ },
+ "prefixDescS11311": {
+  "ch": "伤害&11311_power&%\n技能范围&11311_jnfw&%",
+  "en": "Damage &11311_power&%\nSkill Radius &11311_jnfw&%",
+  "pt": ""
+ },
+ "prefixDescS11312": {
+  "ch": "伤害&11312_power&%\n技能射程&11312_jnsc&%",
+  "en": "Damage &11312_power&%\nSkill Range &11312_jnsc&%",
+  "pt": ""
+ },
+ "prefixDescS11313": {
+  "ch": "技能弹道射程&11313_power&%\n敌人移动速度&11313_enemyMsp&",
+  "en": "Skill Projectile Range &11313_power&%\nEnemy Agility &11313_enemyMsp&",
+  "pt": ""
+ },
+ "prefixDescS11314": {
+  "ch": "伤害&11314_power&%\n敌人造成伤害&11314_enemyPow&%",
+  "en": "Damage &11314_power&%\nEnemy Damage &11314_enemyPow&%",
+  "pt": ""
+ },
+ "prefixDescS11315": {
+  "ch": "技能范围&11315_power&%\n攻击速度&11315_agile&%",
+  "en": "Skill Radius &11315_power&%\nAttack Speed &11315_agile&%",
+  "pt": ""
+ },
+ "prefixDescS11316": {
+  "ch": "移动速度&11316_hpSuck&\n体力回复&11316_hpRestore&",
+  "en": "Agility &11316_hpSuck&\nVitality Restoration &11316_hpRestore&",
+  "pt": ""
+ },
+ "prefixDescS11317": {
+  "ch": "攻击速度&11317_power&%\n抗性&11317_pfr&",
+  "en": "Attack Speed &11317_power&%\nResistance &11317_pfr&",
+  "pt": ""
+ },
+ "prefixDescS11318": {
+  "ch": "伤害&11318_power&%\n闪避&11318_evade&%",
+  "en": "Damage &11318_power&%\nDodge &11318_evade&%",
+  "pt": ""
+ },
+ "prefixDescS11319": {
+  "ch": "被雷击命中的敌人，获得造成伤害&11319_dmgCost&%效果，持续&11319_time&秒",
+  "en": "Enemies struck by the Thunderstorm will &11319_dmgCost&% damage for &11319_time&s",
+  "pt": ""
+ },
+ "prefixDescS11320": {
+  "ch": "每关体力值首次降到&11320_hp&%以下时，获得&11320_wudiTIme&秒无敌\n同时向四周发出雷牢，麻痹命中的敌人&11320_conTime&秒",
+  "en": "Become Invincible for &11320_wudiTIme&s when your Vitality drops below &11320_hp&% for the first time in every level.\nThis effect will also trigger a Thunder Shock and Paralyze affected enemies for &11320_conTime&s.",
+  "pt": ""
+ },
+ "prefixDescS11321": {
+  "ch": "每当触发雷击&11321_yanchi&秒后，自身获得极大的移速加成，持续&11321_upSpeedTime&秒，冷却&11321_cd&秒",
+  "en": "Gain a huge Agility bonus for &11321_upSpeedTime&s after &11321_yanchi&s of triggering the Thunderstorm. Cooldown: &11321_cd&s",
+  "pt": ""
+ },
+ "prefixDescS11322": {
+  "ch": "雷属性攻击有&11322_prob&%概率附带麻痹状态，眩晕目标&11322_time&秒（麻痹对大妖兽无效）",
+  "en": "Lightning attacks have &11322_prob&% chance to Paralyze your enemy for &11322_time&s. (Mythical Beasts are immune to the effect)",
+  "pt": ""
+ },
+ "prefixDescS11323": {
+  "ch": "每次触发雷击，则自身暴击概率永久&11323_critUp&%，但暴击伤害&11323_critV&%",
+  "en": "Every triggering of the Thunderstorm will &11323_critUp&% of your Crit Chance permanently, but your Crit Damage will &11323_critV&%",
+  "pt": ""
+ },
+ "prefixDescS11401": {
+  "ch": "闪避&11401_evade&%\n暴击概率&11401_pfr&%",
+  "en": "Dodge &11401_evade&%\nCrit Chance &11401_pfr&%",
+  "pt": ""
+ },
+ "prefixDescS11402": {
+  "ch": "击退距离&11402_ddjt&%（仅对有击退效果的技能生效）",
+  "en": "Knock-back Distance &11402_ddjt&%, effective only to knock-back skills",
+  "pt": ""
+ },
+ "prefixDescS11403": {
+  "ch": "技能持续时间&11403_jncx&%",
+  "en": "Skill Duration &11403_jncx&%",
+  "pt": ""
+ },
+ "prefixDescS11404": {
+  "ch": "每2点风灵根可使闪避&11404_jncx&%",
+  "en": "Every 2 Wind root will &11404_jncx&% of your Dodge",
+  "pt": ""
+ },
+ "prefixDescS11405": {
+  "ch": "伤害&11405_dmg&%\n每点抗性使伤害&11405_dmgLost&%",
+  "en": "Damage &11405_dmg&%\nEvery Resistance will &11405_dmgLost&% of your Damage",
+  "pt": ""
+ },
+ "prefixDescS11406": {
+  "ch": "每10点移动速度可风刃伤害&11406_windDmg&%",
+  "en": "Every 10 Agility will &11406_windDmg&% Wind Blade Damage",
+  "pt": ""
+ },
+ "prefixDescS11407": {
+  "ch": "每1%闪避可使风刃弹道的大小&11407_modSize&%",
+  "en": "Every 1% Dodge will &11407_modSize&% Wind Blade Size",
+  "pt": ""
+ },
+ "prefixDescS11408": {
+  "ch": "风、雷、火灵根&11408_wind&",
+  "en": "Wind, Lightning, and Fire roots &11408_wind&",
+  "pt": ""
+ },
+ "prefixDescS11409": {
+  "ch": "最大体力&11409_hpMax&\n闪避&11409_evade&%",
+  "en": "Max Vitality &11409_hpMax&\nDodge &11409_evade&%",
+  "pt": ""
+ },
+ "prefixDescS11410": {
+  "ch": "闪避&11410_evade&%\n抗性&11410_pfr&",
+  "en": "Dodge &11410_evade&%\nResistance &11410_pfr&",
+  "pt": ""
+ },
+ "prefixDescS11411": {
+  "ch": "每点闪避可额外提升&11411_zhsh&点召唤物伤害",
+  "en": "Every Dodge will grant you &11411_zhsh& Summoned Unit Damage",
+  "pt": ""
+ },
+ "prefixDescS11412": {
+  "ch": "移动速度&11412_agile&\n召唤物攻击速度&11412_zhgjsd&%",
+  "en": "Agility &11412_agile&\nSummoned Unit Attack Speed &11412_zhgjsd&%",
+  "pt": ""
+ },
+ "prefixDescS11413": {
+  "ch": "移动速度&11413_agile&\n召唤物攻击速度&11413_zhgjsd&%",
+  "en": "Agility &11413_agile&\nSummoned Unit Attack Speed &11413_zhgjsd&%",
+  "pt": ""
+ },
+ "prefixDescS11414": {
+  "ch": "获得修为&11414_agile&%\n召唤物攻击速度&11414_zhgjsd&%",
+  "en": "EXP Gained &11414_agile&%\nSummoned Unit Attack Speed &11414_zhgjsd&%",
+  "pt": ""
+ },
+ "prefixDescS11415": {
+  "ch": "攻击速度&11415_agile&%\n移动速度&11415_msp&",
+  "en": "Attack Speed &11415_agile&%\nAgility &11415_msp&",
+  "pt": ""
+ },
+ "prefixDescS11416": {
+  "ch": "体力回复&11416_hpMax&\n闪避&11416_evade&%",
+  "en": "Vitality Restoration &11416_hpMax&\nDodge &11416_evade&%",
+  "pt": ""
+ },
+ "prefixDescS11417": {
+  "ch": "移动速度达到&11417_msp&后获得体力回复&11417_hpRestore&",
+  "en": "Gain &11417_hpRestore& Vitality Restoration if your Agility reaches &11417_msp&",
+  "pt": ""
+ },
+ "prefixDescS11418": {
+  "ch": "移动速度达到&11418_msp&后伤害&11418_power&%",
+  "en": "Gain &11418_power&% Damage if your Agility reaches &11418_msp&",
+  "pt": ""
+ },
+ "prefixDescS11419": {
+  "ch": "风刃会使目标移动速度&11419_costMsp&%，持续&11419_time&秒",
+  "en": "Your Wind Blade will &11419_costMsp&% the target's Agility for &11419_time&s",
+  "pt": ""
+ },
+ "prefixDescS11420": {
+  "ch": "风刃触发&11420_duntSum&次以后会召唤一个大龙卷控制战场，将敌人拉进风眼，随后给予存活目标&11420_costMsp&%的减速，持续&11420_time&秒",
+  "en": "Generate a huge tornado after &11420_duntSum& triggering of Wind Blades, dragging enemies into its center and slowing the existing enemies by &11420_costMsp&% for &11420_time&s",
+  "pt": ""
+ },
+ "prefixDescS11421": {
+  "ch": "自身每闪避一次，可永久&11421_hpMax&最大体力值，每关最大&11421_hpMaxEnd&",
+  "en": "Every successful Dodging will &11421_hpMax& your Max Vitality permanently, up to &11421_hpMaxEnd& every level",
+  "pt": ""
+ },
+ "prefixDescS11422": {
+  "ch": "风刃击中敌人有&11422_prob%1&%概率可为让其附带&11422_bleed&层流血",
+  "en": "Wind Blade will have a &11422_prob%1&% chance to inflict &11422_bleed& stacks of Bleed on enemies hit",
+  "pt": ""
+ },
+ "prefixDescS11423": {
+  "ch": "体力值降于&11423_hpLost&%以下时，获得短暂的移速增加，&11423_cdWind&秒可触发一次",
+  "en": "Gain an Agility bonus in a short duration if your Vitality is below &11423_hpLost&%. Can be triggered once every &11423_cdWind&s",
+  "pt": ""
+ },
+ "prefixDescS11424": {
+  "ch": "若敌人移动速度低于自身，则对自身造成的伤害&11424_hurtSum&%",
+  "en": "Take &11424_hurtSum&% damage from enemies with Agility lower than self",
+  "pt": ""
+ },
+ "prefixDescS11425": {
+  "ch": "幸运&11425_agile&\n移动速度&11425_msp&",
+  "en": "Luck &11425_agile&\nAgility &11425_msp&",
+  "pt": ""
+ },
+ "prefixDescS11426": {
+  "ch": "抗性&11426_agile&\n移动速度&11426_msp&",
+  "en": "Resistance &11426_agile&\nAgility &11426_msp&",
+  "pt": ""
+ },
+ "prefixDescS11427": {
+  "ch": "技能每持续释放&11427_one&秒后，随机向&11427_two&名敌人分别发射1道风刃",
+  "en": "You will release a Wind Edge to &11427_two& random enemies after every &11427_one&s of continuous cast.",
+  "pt": ""
+ },
+ "prefixDescS11501": {
+  "ch": "伤害&11501_dmg&%\n召唤物持续时间&11501_zhsj&%",
+  "en": "Damage &11501_dmg&%\nSummoned Unit Duration &11501_zhsj&%",
+  "pt": ""
+ },
+ "prefixDescS11502": {
+  "ch": "抗性&11502_pfr&\n移动速度&11502_msp&",
+  "en": "Resistance &11502_pfr&\nAgility &11502_msp&",
+  "pt": ""
+ },
+ "prefixDescS11503": {
+  "ch": "每受到&11503_hurtSum&次伤害后，抗性&11503_pfr&，最多可叠加&11503_pfrUpMax&层，持续到本次战斗结束",
+  "en": "Every &11503_hurtSum& times of being hit will &11503_pfr& your Resistance, up to &11503_pfrUpMax& stacks. Effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS11504": {
+  "ch": "每点5土灵根可使抗性&11504_pfr&",
+  "en": "Every 5 Earth root will &11504_pfr& your Resistance",
+  "pt": ""
+ },
+ "prefixDescS11505": {
+  "ch": "技能范围&11505_msp&%\n召唤物移动速度&11505_speedMove&%",
+  "en": "Skill Radius &11505_msp&%\nSummoned Unit Agility &11505_speedMove&%",
+  "pt": ""
+ },
+ "prefixDescS11506": {
+  "ch": "每点抗性可使土傀儡/巨灵神的伤害&11506_stoneDmg&%",
+  "en": "Every Resistance will &11506_stoneDmg&% Damage for your Earth Golem and Spirit Giant",
+  "pt": ""
+ },
+ "prefixDescS11507": {
+  "ch": "场上每有一个召唤物，每秒可为自身叠加&11507_shield&点护盾",
+  "en": "Every summoned unit in the battlefield will provide you &11507_shield& Shield HP per second",
+  "pt": ""
+ },
+ "prefixDescS11508": {
+  "ch": "土、木、水灵根&11508_stone&",
+  "en": "Earth, Water, and Wood roots &11508_stone&",
+  "pt": ""
+ },
+ "prefixDescS11509": {
+  "ch": "每秒掉&11509_one&%血量，召唤物伤害&11509_two&%，生命值低于&11509_three&%时失效",
+  "en": "Lose &11509_one&% Vitality every second to gain &11509_two&% Bonus Summoned Unit Damage. Your Vitality will not be sacrificed if it is below &11509_three&%",
+  "pt": ""
+ },
+ "prefixDescS11510": {
+  "ch": "当自身抗性大于&11510_one&时，己方召唤物的移动速度&11510_two&",
+  "en": "Summoned Unit Agility &11510_two& if your Resistance is above &11510_one&",
+  "pt": ""
+ },
+ "prefixDescS11511": {
+  "ch": "召唤物消失时，自身回复&11511_one&点体力",
+  "en": "Gain &11511_one& Vitality Restoration upon the disappearance of your summoned units",
+  "pt": ""
+ },
+ "prefixDescS11512": {
+  "ch": "每移动&11512_one&码，在地上生成一片流沙，流沙会将其中的敌人向流沙中心牵引，持续&11512_three&秒",
+  "en": "Generate a Quicksand to draw enemies on it into its center for &11512_three&s after every &11512_one& distance moved.",
+  "pt": ""
+ },
+ "prefixDescS11601": {
+  "ch": "伤害&11601_dmg&%\n小花妖的最大存在数量&16011_numSum%1&",
+  "en": "Damage &11601_dmg&%\nMax Flower Faeries &16011_numSum%1&",
+  "pt": ""
+ },
+ "prefixDescS11602": {
+  "ch": "每层毒刺的伤害&11602_telsondmg&",
+  "en": "Poisonous Thorn inflicts &11602_telsondmg& damage per stack",
+  "pt": ""
+ },
+ "prefixDescS11603": {
+  "ch": "暴击概率&11603_crit&%\n召唤物伤害&11603_zhsh&%",
+  "en": "Crit Chance &11603_crit&%\nSummoned Unit Damage &11603_zhsh&%",
+  "pt": ""
+ },
+ "prefixDescS11604": {
+  "ch": "每点木灵根可使最大体力&11604_hpMax&",
+  "en": "Every Wood root will &11604_hpMax& your Max Vitality",
+  "pt": ""
+ },
+ "prefixDescS11605": {
+  "ch": "每点体力回复可使小花妖的攻击速度&11605_flowerAgile&%",
+  "en": "Every Vitality Restoration will &11605_flowerAgile&% Small Flower Faerie's Attack Speed",
+  "pt": ""
+ },
+ "prefixDescS11606": {
+  "ch": "每点幸运可使召唤物暴击概率&11606_zhCrit&%",
+  "en": "Every Luck will &11606_zhCrit&% Summoned Unit's Crit Chance",
+  "pt": ""
+ },
+ "prefixDescS11607": {
+  "ch": "当带有毒刺的敌人死亡时，可为自身回复&11607_hpBack&点体力",
+  "en": "Restore &11607_hpBack& Vitality every time an enemy with Poisonous Thorn dies",
+  "pt": ""
+ },
+ "prefixDescS11608": {
+  "ch": "所有灵根&11608_allTwo&",
+  "en": "All Spiritual Roots &11608_allTwo&",
+  "pt": ""
+ },
+ "prefixDescS11609": {
+  "ch": "小花妖攻击穿透次数&16011_throughCount%1&",
+  "en": "Small Flower Faerie's Projectile Penetration &16011_throughCount%1&",
+  "pt": ""
+ },
+ "prefixDescS11610": {
+  "ch": "当场上同时存在&11610_one&只己方召唤物时，己方召唤物获得&11610_two&%伤害加成",
+  "en": "Gain &11610_two&% Bonus Damage for your summoned units if there are &11610_one& allied summoned units in the battlefield",
+  "pt": ""
+ },
+ "prefixDescS11611": {
+  "ch": "每点闪避可使召唤物的暴击伤害&11611_two&",
+  "en": "Gain &11611_two& Summoned Unit Crit Damage every Dodge",
+  "pt": ""
+ },
+ "prefixDescS11612": {
+  "ch": "速度&11612_one&，召唤物暴击率&11612_two&%",
+  "en": "Agility &11612_one&, Summoned Unit's Crit Chance &11612_two&%",
+  "pt": ""
+ },
+ "prefixDescS1201001": {
+  "ch": "此技能威力&12011_dmg%1&",
+  "en": "Skill Damage &12011_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1201002": {
+  "ch": "此技能威力&12011_dmg%2&\n射程&1201_waterRange%1&",
+  "en": "Skill Damage &12011_dmg%2&\nRange &1201_waterRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1201003": {
+  "ch": "此技能威力&12011_dmg%3&\n幻像持续时间&1201_waterTime%1&秒",
+  "en": "Skill Damage &12011_dmg%3&\nPhantom Duration &1201_waterTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS1201004": {
+  "ch": "此技能威力&12011_dmg%4&\n霜冻概率&1201_waterProb%1&%",
+  "en": "Skill Damage &12011_dmg%4&\nFrost Chance &1201_waterProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1201005": {
+  "ch": "此技能的幻像消失时，可回复自身&1201_backHp&点体力",
+  "en": "Gain &1201_backHp& Vitality recovery upon disappearing of the phantom",
+  "pt": ""
+ },
+ "prefixDescS1201006": {
+  "ch": "威力-40\n幻像可额外射出&12011_num%1&道射线",
+  "en": "Damage -40\nThe phantom will launch extra &12011_num%1& rays",
+  "pt": ""
+ },
+ "prefixDescS1201007": {
+  "ch": "此技能每&12017_sevenTime&秒可在当前攻击的敌人位置引发一次灵爆，灵爆同时也有概率使敌人霜冻",
+  "en": "Every &12017_sevenTime&s in casting the skill will trigger a Blast at the current enemy being hit. The Blast also has a chance to inflict Frost on enemies",
+  "pt": ""
+ },
+ "prefixDescS1202001": {
+  "ch": "此技能威力&1202_dmg%1&",
+  "en": "Skill Damage &1202_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1202002": {
+  "ch": "此技能威力&1202_dmg%2&\n霜冻概率&1202_waterProb%1&%",
+  "en": "Skill Damage &1202_dmg%2&\nFrost Chance &1202_waterProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1202003": {
+  "ch": "此技能威力&1202_dmg%3&\n蓄力时间&1202_onTime%1&秒",
+  "en": "Skill Damage &1202_dmg%3&\nCharging Time &1202_onTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS1202004": {
+  "ch": "此技能威力&1202_dmg%4&\n射程&1202_iceRange%1&",
+  "en": "Skill Damage &1202_dmg%4&\nRange &1202_iceRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1202005": {
+  "ch": "此技能对霜冻的敌人暴击概率&1202_critProb&%",
+  "en": "This skill will have &1202_critProb&% Crit Chance to enemies with Frost",
+  "pt": ""
+ },
+ "prefixDescS1202006": {
+  "ch": "每施放一次蓄力技能，则下次使用此技能的范围&1202_sixRange&，然后重新累积蓄力次数",
+  "en": "This skill's Radius &1202_sixRange& after every cast of Charge Skills. The effect will be reset after casting this skill",
+  "pt": ""
+ },
+ "prefixDescS1202007": {
+  "ch": "此技能每命中一个敌人，可生成一道追踪的冰锥，自动攻击敌人，冰锥同时也有概率加霜冻",
+  "en": "Generate a chasing Ice Cone when the skill hits an enemy. The Ice Cone also has a chance to inflict Frost when dealing damage",
+  "pt": ""
+ },
+ "prefixDescS1203001": {
+  "ch": "此技能威力&1203_dmg%1&",
+  "en": "Skill Damage &1203_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1203002": {
+  "ch": "此技能威力&1203_dmg%2&\n射程&1203_range%1&",
+  "en": "Skill Damage &1203_dmg%2&\nRange &1203_range%1&",
+  "pt": ""
+ },
+ "prefixDescS1203003": {
+  "ch": "此技能威力&1203_dmg%3&\n初始范围&1203_startRange%1&",
+  "en": "Skill Damage &1203_dmg%3&\nInitial Radius &1203_startRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1203004": {
+  "ch": "此技能威力&1203_dmg%4&\n冷却&1203_cd%1&秒",
+  "en": "Skill Damage &1203_dmg%4&\nCooldown &1203_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1203005": {
+  "ch": "此技能威力&1203_dmg%5&\n吸取体力&1203_hpSum%1&",
+  "en": "Skill Damage &1203_dmg%5&\nVitality Drawn &1203_hpSum%1&",
+  "pt": ""
+ },
+ "prefixDescS1203006": {
+  "ch": "使用此技能时，每命中&1203_hitSum&个敌人，可使其它一个随机技能的冷却时间立即&1203_costTime&秒",
+  "en": "Every &1203_hitSum& enemies hit by the skill will &1203_costTime&s the cooldown of another random skill",
+  "pt": ""
+ },
+ "prefixDescS1203007": {
+  "ch": "当受到伤害时，若体力低于&1203_sevenHp&%，则立即连续施放&1203_sevenSum&次此技能（无需蓄力，每场战斗最多触发1次）",
+  "en": "If your Vitality drops below &1203_sevenHp&% after taking damage, the skill will be instantly cast &1203_sevenSum& times. The instant casts do not require charging, but the effect can be triggered only 1 time every battle.",
+  "pt": ""
+ },
+ "prefixDescS1301001": {
+  "ch": "此技能威力&1301_dmg%1&",
+  "en": "Skill Damage &1301_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1301002": {
+  "ch": "此技能威力&1301_dmg%2&\n弹射次数&1301_catapultNum%1&",
+  "en": "Skill Damage &1301_dmg%2&\nBounce Times &1301_catapultNum%1&",
+  "pt": ""
+ },
+ "prefixDescS1301003": {
+  "ch": "此技能威力&1301_dmg%3&\n射程&1301_range%1&",
+  "en": "Skill Damage &1301_dmg%3&\nRange &1301_range%1&",
+  "pt": ""
+ },
+ "prefixDescS1301004": {
+  "ch": "此技能威力&1301_dmg%4&\n冷却&1301_cd%1&秒",
+  "en": "Skill Damage &1301_dmg%4&\nCooldown &1301_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1301005": {
+  "ch": "此技能在命中敌人时，有&1301_lightingProb&%的概率可额外造成一次威力为&1301_minDmg&~&1301_maxDmg&的随机雷属性伤害",
+  "en": "This skill will have a &1301_lightingProb&% chance to deal an extra Lightning damage between &1301_minDmg&~&1301_maxDmg& upon hitting enemies",
+  "pt": ""
+ },
+ "prefixDescS1301006": {
+  "ch": "使用此技能时，可对&1301_sixRange&范围内的所有敌人造成一次雷属性伤害，威力为此技能的&1301_dmgProb&%",
+  "en": "Every cast of the skill will deal Lightning damage equaling to &1301_dmgProb&% of the skill 1 time to enemies in &1301_sixRange& Range",
+  "pt": ""
+ },
+ "prefixDescS1301007": {
+  "ch": "使用此技能时，可同时向敌人方向随机施放一个当前已装备的弹道技能，但弹道数量锁定为1（且不受其它效果加成）",
+  "en": "Every cast of the skill will launch an additional projectile from a random skill with projectiles equipped, but the amount of the extra projectile will be 1, and is immune to other bonus effects",
+  "pt": ""
+ },
+ "prefixDescS1302001": {
+  "ch": "此技能威力&1302_dmg%1&",
+  "en": "Skill Damage &1302_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1302002": {
+  "ch": "此技能威力&1302_dmg%2&\n冷却&1302_cd%1&秒",
+  "en": "Skill Damage &1302_dmg%2&\nCooldown &1302_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1302003": {
+  "ch": "此技能威力&1302_dmg%3&\n射程&1302_haloRange%1&",
+  "en": "Skill Damage &1302_dmg%3&\nRange &1302_haloRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1302004": {
+  "ch": "此技能威力&1302_dmg%4&\n持续时间&1302_lightningTime%1&秒",
+  "en": "Skill Damage &1302_dmg%4&\nDuration &1302_lightningTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS1302005": {
+  "ch": "在此技能持续时间内，移动速度&1302_upSpeed&%",
+  "en": "Gain &1302_upSpeed&% Agility in the skill's duration",
+  "pt": ""
+ },
+ "prefixDescS1302006": {
+  "ch": "使用此技能时，有&1302_sixProb&%的概率可在其它敌人的位置额外生成一朵不会移动的雷云",
+  "en": "Every cast of the skill will have a &1302_sixProb&% chance to generate an extra, immobile Lightning Cloud at another enemy's location",
+  "pt": ""
+ },
+ "prefixDescS1302007": {
+  "ch": "此技能会打击自己（造成&1302_dmgProb&%的伤害），每打击自己一次可使自身的伤害&1302_upDmgProb&%，持续&1302_upDmgTime&秒",
+  "en": "This skill will deal &1302_dmgProb&% damage to yourself. Every hit from it will &1302_upDmgProb&% of your damage for &1302_upDmgTime&s",
+  "pt": ""
+ },
+ "prefixDescS1303001": {
+  "ch": "此技能威力&1303_dmg%1&",
+  "en": "Skill Damage &1303_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1303002": {
+  "ch": "此技能威力&1303_dmg%2&\n雷球数量&1303_num%1&",
+  "en": "Skill Damage &1303_dmg%2&\nLightning Balls &1303_num%1&",
+  "pt": ""
+ },
+ "prefixDescS1303003": {
+  "ch": "此技能威力&1303_dmg%3&\n射程&1303_lightningRange%1&",
+  "en": "Skill Damage &1303_dmg%3&\nRange &1303_lightningRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1303004": {
+  "ch": "此技能威力&1303_dmg%4&\n冷却&1303_cd%1&秒",
+  "en": "Skill Damage &1303_dmg%4&\nCooldown &1303_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1303005": {
+  "ch": "雷球的移动速度翻倍\n弹射次数&1303_catapultNum%1&",
+  "en": "Double Lightning Ball Speed\nBounce Times &1303_catapultNum%1&",
+  "pt": ""
+ },
+ "prefixDescS1303006": {
+  "ch": "每当触发闪避时，有&1303_sixProb&%的概率立即发射一颗雷球（每秒最多触发2次）",
+  "en": "Every successful Dodging will have a &1303_sixProb&% chance to release a Lightning Ball instantly. (Trigger at max 2 times per second)",
+  "pt": ""
+ },
+ "prefixDescS1303007": {
+  "ch": "雷球在移动过程中，每&1303_sevenBallProb&秒可对附近&1303_sevenRange&范围内的一个敌人发出一道电击，造成此技能&1303_sevenDmgProb&%的伤害",
+  "en": "Lightning Balls will strike an enemy in &1303_sevenRange& Range every &1303_sevenBallProb&s, dealing &1303_sevenDmgProb&% damage of the skill",
+  "pt": ""
+ },
+ "prefixDescS1401001": {
+  "ch": "此技能威力&1401_dmg%1&",
+  "en": "Skill Damage &1401_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1401002": {
+  "ch": "此技能威力&1401_dmg%2&\n射程&1401_haloRange%1&",
+  "en": "Skill Damage &1401_dmg%2&\nRange &1401_haloRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1401003": {
+  "ch": "此技能威力&1401_dmg%3&\n击退概率&1401_beatbackProb%1&%",
+  "en": "Skill Damage &1401_dmg%3&\nKnock-back Chance &1401_beatbackProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1401004": {
+  "ch": "此技能威力&1401_dmg%4&\n击退距离&1401_beatbackRange%1&",
+  "en": "Skill Damage &1401_dmg%4&\nKnock-back Distance &1401_beatbackRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1401005": {
+  "ch": "此技能范围内每有&1401_unitSum&个敌人\n闪避&1401_fiveDodge&%",
+  "en": "Gain &1401_fiveDodge&% bonus Dodge for\nevery &1401_unitSum& enemies in the skill's area of effect",
+  "pt": ""
+ },
+ "prefixDescS1401006": {
+  "ch": "每&1401_intervalTime&秒可向外施放一道风瘴波，对范围&1401_sixWindRane&的敌人造成一次伤害并击退&1401_sixBeatback&码（对大妖兽无效）",
+  "en": "Release a Wind Wall every &1401_intervalTime&s, dealing damage to enemies within &1401_sixWindRane& Range, and knock them back &1401_sixBeatback& distance (Bosses are immune to knock-back)",
+  "pt": ""
+ },
+ "prefixDescS1401007": {
+  "ch": "每移动&1401_moveLength&码可向敌人方向发射一道风刃，风刃可穿透，对敌人造成伤害",
+  "en": "Release a penetrative Wind Blade to enemies after every &1401_moveLength& distance moved",
+  "pt": ""
+ },
+ "prefixDescS1402001": {
+  "ch": "此技能威力&1402_dmg%1&",
+  "en": "Skill Damage &1402_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1402002": {
+  "ch": "此技能威力&1402_dmg%2&\n冷却&1402_cd%1&秒",
+  "en": "Skill Damage &1402_dmg%2&\nCooldown &1402_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1402003": {
+  "ch": "此技能威力&1402_dmg%3&\n初始大小&1402_hurtModel%1&%",
+  "en": "Skill Damage &1402_dmg%3&\nInitial Size &1402_hurtModel%1&%",
+  "pt": ""
+ },
+ "prefixDescS1402004": {
+  "ch": "此技能威力&1402_dmg%4&\n持续时间&1402_windTime%1&秒",
+  "en": "Skill Damage &1402_dmg%4&\nDuration &1402_windTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS1402005": {
+  "ch": "此技能每次造成伤害时，有&1402_fiveProb&%的概率击退敌人&1402_beatbackRange&码",
+  "en": "&1402_fiveProb&% chance to knock back enemies &1402_beatbackRange& distance every time the skill inflicts damage",
+  "pt": ""
+ },
+ "prefixDescS1402006": {
+  "ch": "在此技能持续时间内，移动速度&1402_upSpeedProb&%\n且每有&1402_speedSum&点的移动速度，临时获得&1402_evadeSum&%闪避",
+  "en": "Gain &1402_upSpeedProb&% Agility in the skill's duration.\nEvery &1402_speedSum& Agility will &1402_evadeSum&% of your Dodge during it",
+  "pt": ""
+ },
+ "prefixDescS1402007": {
+  "ch": "此技能的伤害和大小在持续施法<g>2</g>秒后即可达到最大",
+  "en": "The skill will reach its max area of effect and damage after <g>2</g>s",
+  "pt": ""
+ },
+ "prefixDescS1403001": {
+  "ch": "此技能威力&1403_dmg%1&",
+  "en": "Skill Damage &1403_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1403002": {
+  "ch": "此技能威力&1403_dmg%2&\n当场上有旋风时，自身闪避&1403_evadeProb&%",
+  "en": "Skill Damage &1403_dmg%2&\nGain &1403_evadeProb&% Dodge in the Whirlwind's duration",
+  "pt": ""
+ },
+ "prefixDescS1403003": {
+  "ch": "此技能威力&1403_dmg%3&\n冷却&1403_cd%1&秒",
+  "en": "Skill Damage &1403_dmg%3&\nCooldown &1403_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1403004": {
+  "ch": "此技能威力&1403_dmg%4&\n此技能可将范围内的敌人持续向中心牵引",
+  "en": "Skill Damage &1403_dmg%4&\nThe Whirlwind will draw affected enemies to its center",
+  "pt": ""
+ },
+ "prefixDescS1403005": {
+  "ch": "旋风的移动速度翻倍",
+  "en": "Double Whirlwind Speed",
+  "pt": ""
+ },
+ "prefixDescS1403006": {
+  "ch": "对范围内的敌人造成伤害时，有&1403_sixProb&%概率发出1道风刃（每秒最多可触发5次），风刃可穿透9次，对敌人造成伤害",
+  "en": "&1403_sixProb&% chance to release a Wind Blade penetrative for 9 times when inflicting damage on enemies affected by the skill. (Trigger at max 5 times per second)",
+  "pt": ""
+ },
+ "prefixDescS1403007": {
+  "ch": "每次闪避时，有&1403_sevenProb&%概率向敌人方向发射1道风刃（每秒最多可触发10次），风刃可穿透9次，对敌人造成伤害",
+  "en": "&1403_sevenProb&% chance to release a Wind Blade penetrative for 9 times when Dodging (Trigger at max 10 times per second)",
+  "pt": ""
+ },
+ "prefixDescS1501001": {
+  "ch": "此技能威力&1501_dmg%1&",
+  "en": "Skill Damage &1501_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1501002": {
+  "ch": "此技能威力&1501_dmg%2&\n灵岩靠拢速度&1501_shieldspeedProb%1&%",
+  "en": "Skill Damage &1501_dmg%2&\nRock Moving Speed &1501_shieldspeedProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1501003": {
+  "ch": "此技能威力&1501_dmg%3&\n冷却&1501_cd%1&秒",
+  "en": "Skill Damage &1501_dmg%3&\nCooldown &1501_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1501004": {
+  "ch": "此技能威力&1501_dmg%4&\n震爆范围&1501_haloRange%1&",
+  "en": "Skill Damage &1501_dmg%4&\nExplosion Range &1501_haloRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1501005": {
+  "ch": "此技能威力&1501_dmg%5&\n护盾值&1501_shieldSum%1&",
+  "en": "Skill Damage &1501_dmg%5&\nShield HP &1501_shieldSum%1&",
+  "pt": ""
+ },
+ "prefixDescS1501006": {
+  "ch": "灵岩在震爆后不会消失，而是向敌人方向射出，对碰撞到的敌人造成伤害",
+  "en": "The Spiritual Rock will not be consumed after explosion. Instead, it will be thrown out, dealing damage to enemies hit",
+  "pt": ""
+ },
+ "prefixDescS1501007": {
+  "ch": "每次受到伤害时，有&1501_sevenProb&%的概率立即触发一次震爆（每秒最多施放5次）",
+  "en": "&1501_sevenProb&% chance to trigger an explosion instantly upon being hit. (Trigger at max 5 times per second)",
+  "pt": ""
+ },
+ "prefixDescS1502001": {
+  "ch": "土傀儡威力&1502_dmg%1&",
+  "en": "Earth Golem Damage &1502_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1502002": {
+  "ch": "土傀儡威力&1502_dmg%2&\n爆炸范围&1502_haloRange%1&",
+  "en": "Earth Golem Damage &1502_dmg%2&\nExplosion Radius &1502_haloRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1502003": {
+  "ch": "土傀儡威力&1502_dmg%3&\n射程&1502_stoneRange%1&",
+  "en": "Earth Golem Damage &1502_dmg%3&\nRange &1502_stoneRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1502004": {
+  "ch": "土傀儡威力&1502_dmg%4&\n冷却&1502_cd%1&秒",
+  "en": "Earth Golem Damage &1502_dmg%4&\nCooldown &1502_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1502005": {
+  "ch": "土傀儡的持续时间&15021_lifeTime%1&秒",
+  "en": "Earth Golem Duration &15021_lifeTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS1502006": {
+  "ch": "使用此技能时，若场上有其他土傀儡，则在所有土傀儡的位置也引发一次爆炸",
+  "en": "Casting the skill will trigger explosions once at every other Earth Golem's location if multiple Golems exist.",
+  "pt": ""
+ },
+ "prefixDescS1502007": {
+  "ch": "额外降下&1502_num%1&个陨石\n每个陨石生成土傀儡的概率&1502_stoneProb%1&%",
+  "en": "Summon extra &1502_num%1& Meteors\nEarth Golem Spawn Chance &1502_stoneProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1503001": {
+  "ch": "土傀儡威力&1503_dmg%1&",
+  "en": "Earth Golem Damage &1503_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1503002": {
+  "ch": "土傀儡威力&1503_dmg%2&\n射程&1503_stoneRange%1&",
+  "en": "Earth Golem Damage &1503_dmg%2&\nRange &1503_stoneRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1503003": {
+  "ch": "土傀儡威力&1503_dmg%3&\n滚石的移动速度翻倍",
+  "en": "Earth Golem Damage &1503_dmg%3&\nDouble Rolling Stone Speed",
+  "pt": ""
+ },
+ "prefixDescS1503004": {
+  "ch": "土傀儡威力&1503_dmg%4&\n冷却&1503_cd%1&秒",
+  "en": "Earth Golem Damage &1503_dmg%4&\nCooldown &1503_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1503005": {
+  "ch": "土傀儡的移动速度&1503_upSpeedProb&%",
+  "en": "Earth Golem Agility &1503_upSpeedProb&%",
+  "pt": ""
+ },
+ "prefixDescS1503006": {
+  "ch": "360度发射&1503_num%1|+1|f0&个滚石\n滚石变成土傀儡的概率&1503_stoneProb%1&%",
+  "en": "Launch &1503_num%1|+1|f0& Stones in all directions\nEarth Golem Spawn Rate &1503_stoneProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS1503007": {
+  "ch": "滚石不再达到最远距离后不再变成土傀儡，而是爆炸分裂成&1503_stoneSum&块较小的碎石，自动追踪附近的敌人",
+  "en": "The Stone will not transform into an Earth Golem. Instead, upon reaching its max range, it will explode and split into &1503_stoneSum& rocks to chase down enemies",
+  "pt": ""
+ },
+ "prefixDescS1601001": {
+  "ch": "小花妖威力&1601_dmg%1&",
+  "en": "Small Flower Faerie Damage &1601_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1601002": {
+  "ch": "小花妖威力&1601_dmg%2&\n冷却&1601_cd%1&秒",
+  "en": "Small Flower Faerie Damage &1601_dmg%2&\nCooldown &1601_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1601003": {
+  "ch": "小花妖威力&1601_dmg%3&\n爆气伤害范围&1601_attackRange%1&",
+  "en": "Small Flower Faerie Damage &1601_dmg%3&\nFlower Faerie's Blast Range &1601_attackRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1601004": {
+  "ch": "小花妖威力&1601_dmg%4&\n小花妖攻击速度&1601_attackSpeed%1&%",
+  "en": "Small Flower Faerie Damage &1601_dmg%4&\nFlower Faerie Attack Speed &1601_attackSpeed%1&%",
+  "pt": ""
+ },
+ "prefixDescS1601005": {
+  "ch": "此技能效果可强化次数&1601_fightingSum%1&次",
+  "en": "&1601_fightingSum%1& extra boosts from the skill",
+  "pt": ""
+ },
+ "prefixDescS1601006": {
+  "ch": "进入战场时，立即召唤&1601_sixSum&只小花妖",
+  "en": "Spawn &1601_sixSum& Small Flower Faeries upon entering the battlefield",
+  "pt": ""
+ },
+ "prefixDescS1601007": {
+  "ch": "当你受到致命伤害时，若场上有小花妖，则会牺牲&1601_sevenKillSum&只小花妖，使自身无敌&1601_sevenUnTime&秒并回复&1601_sevenBackHp&%体力，每场战斗只能使用一次",
+  "en": "You may sacrifice &1601_sevenKillSum& Small Flower Faeries to block imminent fatal damage and be Invincible in the next &1601_sevenUnTime&s, and restore &1601_sevenBackHp&% Vitality. The effect can be triggered only once in every battle.",
+  "pt": ""
+ },
+ "prefixDescS1603001": {
+  "ch": "此技能威力&1603_dmg%1&",
+  "en": "Skill Damage &1603_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1603002": {
+  "ch": "此技能威力&1603_dmg%2&\n冷却&1603_cd%1&秒",
+  "en": "Skill Damage &1603_dmg%2&\nCooldown &1603_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1603003": {
+  "ch": "此技能威力&1603_dmg%3&\n毒株持续时间&1603_lifeTime%1&秒",
+  "en": "Skill Damage &1603_dmg%3&\nPoisonous Plant Duration &1603_lifeTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS1603004": {
+  "ch": "此技能威力&1603_dmg%4&\n爆炸的范围&1603_haloRange%1&",
+  "en": "Skill Damage &1603_dmg%4&\nExplosion Radius &1603_haloRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1603005": {
+  "ch": "此技能威力&1603_dmg%5&\n施加的毒刺&1603_telsonSum%1&层",
+  "en": "Skill Damage &1603_dmg%5&\nPoisonous Thorn Stacks &1603_telsonSum%1&",
+  "pt": ""
+ },
+ "prefixDescS1603006": {
+  "ch": "带有毒刺效果的敌人造成的伤害&1603_dmgProb&%",
+  "en": "Enemies with Poisonous Thorns deal &1603_dmgProb&% damage",
+  "pt": ""
+ },
+ "prefixDescS1603007": {
+  "ch": "毒株可缓慢移动\n爆炸范围&1603_haloRange%2&",
+  "en": "Poisonous Plants can move slowly\nExplosion Radius &1603_haloRange%2&",
+  "pt": ""
+ },
+ "prefixDescS1604001": {
+  "ch": "小花妖威力&1604_dmg%1&",
+  "en": "Small Flower Faerie Damage &1604_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS1604002": {
+  "ch": "小花妖威力&1604_dmg%2&\n荆棘的范围&1604_twineRange%1&",
+  "en": "Small Flower Faerie Damage &1604_dmg%2&\nEntangle Radius &1604_twineRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1604003": {
+  "ch": "小花妖威力&1604_dmg%3&\n冷却&1604_cd%1&秒",
+  "en": "Small Flower Faerie Damage &1604_dmg%3&\nCooldown &1604_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS1604004": {
+  "ch": "小花妖威力&1604_dmg%4&\n小花妖的射程&16011_callRange%1&",
+  "en": "Small Flower Faerie Damage &1604_dmg%4&\nFlower Faerie's Range &16011_callRange%1&",
+  "pt": ""
+ },
+ "prefixDescS1604005": {
+  "ch": "小花妖攻击命中敌人时有&16011_waterProb%1&概率附加霜冻",
+  "en": "&16011_waterProb%1& chance to inflict Frost on enemies upon they are hit by Small Flower Faeries",
+  "pt": ""
+ },
+ "prefixDescS1604006": {
+  "ch": "荆棘缠绕的时间&1604_twineTime%1&秒\n会给敌人施加&1604_twineSum&层毒刺",
+  "en": "Entangle Duration &1604_twineTime%1&s\nInflict &1604_twineSum& Stacks of Poisonous Thorn",
+  "pt": ""
+ },
+ "prefixDescS1604007": {
+  "ch": "当小花妖达到上限时，使用此技能后，可令任意&1604_sevenSum&只小花妖的弹道数量&1604_sevenSum&（小花妖的弹道数量不能超过5）",
+  "en": "The skill will grant &1604_sevenSum& Projectiles for random &1604_sevenSum& Small Flower Faeries if cast after the amount of Small Flower Faeries has reached the max. Projectiles from a single Flower Faerie cannot exceed 5.",
+  "pt": ""
+ },
+ "prefixDescS201001": {
+  "ch": "此技能威力&201_dmg%1&",
+  "en": "Skill Damage &201_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS201002": {
+  "ch": "此技能威力&201_dmg%2&\n射程&201_range%1&",
+  "en": "Skill Damage &201_dmg%2&\nRange &201_range%1&",
+  "pt": ""
+ },
+ "prefixDescS201003": {
+  "ch": "此技能威力&201_dmg%3&\n冷却&201_cd%1&秒",
+  "en": "Skill Damage &201_dmg%3&\nCooldown &201_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS201004": {
+  "ch": "此技能威力&201_dmg%4&\n敌方抗性降低&201_pfrDown%1&",
+  "en": "Skill Damage &201_dmg%4&\nResistance Reduce by &201_pfrDown%1&",
+  "pt": ""
+ },
+ "prefixDescS201005": {
+  "ch": "此技能威力&201_dmg%5&\n枪影数量&201_bullet%1&",
+  "en": "Skill Damage &201_dmg%5&\nSpear Amount &201_bullet%1&",
+  "pt": ""
+ },
+ "prefixDescS201006": {
+  "ch": "此技能的弹道间隔角度&201_angularInterval%1&%，射程&201_range%2&，且每&201_rangeRequire&射程可&201_rangeToDmg&威力",
+  "en": "Projectile Angle &201_angularInterval%1&%, Range &201_range%2&. For every &201_rangeRequire& Range, increase Damage by &201_rangeToDmg&",
+  "pt": ""
+ },
+ "prefixDescS201007": {
+  "ch": "此技能的弹道在达到最远射程时返回",
+  "en": "Projectiles will return after reaching max range.",
+  "pt": ""
+ },
+ "prefixDescS202001": {
+  "ch": "此技能威力&202_dmg%1&",
+  "en": "Skill Damage &202_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS202002": {
+  "ch": "此技能威力&202_dmg%2&\n充能时间&202_chargePointCD%1&秒",
+  "en": "Skill Damage &202_dmg%2&\nRecharging Interval &202_chargePointCD%1&s",
+  "pt": ""
+ },
+ "prefixDescS202003": {
+  "ch": "此技能威力&202_dmg%3&\n冲刺距离&202_chargeRange%1&",
+  "en": "Skill Damage &202_dmg%3&\nCharge Distance &202_chargeRange%1&",
+  "pt": ""
+ },
+ "prefixDescS202004": {
+  "ch": "此技能威力&202_dmg%4&\n幻像冲刺每命中1个敌人\n可使此次技能伤害&202_dmgUp&%",
+  "en": "Skill Damage &202_dmg%4&\nFor every 1 enemy hit by the charging,\nIncrease the damage this time by &202_dmgUp&%",
+  "pt": ""
+ },
+ "prefixDescS202005": {
+  "ch": "此技能威力&202_dmg%5&，使用任意枪法技能时，有&202_chargePointProb&%的概率获得1点充能点",
+  "en": "Skill Damage &202_dmg%5&. &202_chargePointProb&% chance to gain a Recharging Point from every Spear skill cast",
+  "pt": ""
+ },
+ "prefixDescS202006": {
+  "ch": "有&202_blastProb%1&%的概率在冲刺命中的敌人位置处引发一次灵爆，对&202_blastRange&范围内的敌人额外造成一次伤害",
+  "en": "&202_blastProb%1&% chance to trigger a Blast at the location of the enemy hit, dealing an extra time of damage to enemies within &202_blastRange& Range",
+  "pt": ""
+ },
+ "prefixDescS202007": {
+  "ch": "此技能威力&202_dmg%6&\n生成幻像&202_mirrorNum%1&（延迟0.5秒生成）",
+  "en": "Skill Damage &202_dmg%6&\nCreate extra &202_mirrorNum%1& Phantoms after 0.5s",
+  "pt": ""
+ },
+ "prefixDescS203001": {
+  "ch": "此技能威力&203_dmg%1&",
+  "en": "Skill Damage &203_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS203002": {
+  "ch": "此技能威力&203_dmg%2&\n冷却&203_cd%1&秒",
+  "en": "Skill Damage &203_dmg%2&\nCooldown &203_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS203003": {
+  "ch": "此技能威力&203_dmg%3&\n敌方抗性降低&203_pfrDown%1&",
+  "en": "Skill Damage &203_dmg%3&\nResistance Reduce by &203_pfrDown%1&",
+  "pt": ""
+ },
+ "prefixDescS203004": {
+  "ch": "此技能威力&203_dmg%4&\n分裂后的射程&203_subRange%1&",
+  "en": "Skill Damage &203_dmg%4&\nSplit Projectile Range &203_subRange%1&",
+  "pt": ""
+ },
+ "prefixDescS203005": {
+  "ch": "此技能威力&203_dmg%5&\n分裂后的弹道数&203_subBullet%1&",
+  "en": "Skill Damage &203_dmg%5&\nSplit Projectiles &203_subBullet%1&",
+  "pt": ""
+ },
+ "prefixDescS203006": {
+  "ch": "变为360度分裂\n弹道数量翻倍",
+  "en": "The spear will split in every direction (360 degrees)\nDouble Split Projectiles",
+  "pt": ""
+ },
+ "prefixDescS203007": {
+  "ch": "升级",
+  "en": "Upgrade",
+  "pt": ""
+ },
+ "prefixDescS30101": {
+  "ch": "获得修为&30101_expUp&%\n最大体力&30101_luckDown&",
+  "en": "EXP Gained &30101_expUp&%\nMax Vitality &30101_luckDown&",
+  "pt": ""
+ },
+ "prefixDescS30102": {
+  "ch": "获得修为&30102_expUp&%",
+  "en": "EXP Gained &30102_expUp&%",
+  "pt": ""
+ },
+ "prefixDescS30103": {
+  "ch": "幸运&30103_luckUp&",
+  "en": "Luck &30103_luckUp&",
+  "pt": ""
+ },
+ "prefixDescS30104": {
+  "ch": "幸运&30104_luckUp&\n伤害&30104_powerDown&%",
+  "en": "Luck &30104_luckUp&\nDamage &30104_powerDown&%",
+  "pt": ""
+ },
+ "prefixDescS30105": {
+  "ch": "幸运&30105_luckUp&\n最大体力&30105_mspDown&",
+  "en": "Luck &30105_luckUp&\nMax Vitality &30105_mspDown&",
+  "pt": ""
+ },
+ "prefixDescS30106": {
+  "ch": "拾取道具范围&30106_prgUp&",
+  "en": "Item Pick-up Radius &30106_prgUp&",
+  "pt": ""
+ },
+ "prefixDescS30107": {
+  "ch": "拾取道具范围&30107_prgUp&",
+  "en": "Item Pick-up Radius &30107_prgUp&",
+  "pt": ""
+ },
+ "prefixDescS30108": {
+  "ch": "拾取道具范围&30108_prgUp&\n闪避&30108_evadeDown&%",
+  "en": "Item Pick-up Radius &30108_prgUp&\nDodge &30108_evadeDown&%",
+  "pt": ""
+ },
+ "prefixDescS30109": {
+  "ch": "拾取道具范围&30109_prgUp&\n移动速度&30109_mspUp&",
+  "en": "Item Pick-up Radius &30109_prgUp&\nAgility &30109_mspUp&",
+  "pt": ""
+ },
+ "prefixDescS30110": {
+  "ch": "商店免费刷新次数&30110_storeRefreshUp&",
+  "en": "Free Store Refreshes &30110_storeRefreshUp&",
+  "pt": ""
+ },
+ "prefixDescS30111": {
+  "ch": "战斗内罐子刷新速度&30111_jarRefreshUp&%",
+  "en": "Pot Respawn Speed &30111_jarRefreshUp&%",
+  "pt": ""
+ },
+ "prefixDescS30112": {
+  "ch": "伤害&30112_powerUp&%\n敌人刷新数量&30112_enemyCountUp&",
+  "en": "Damage &30112_powerUp&%\nEnemy Respawn Amount &30112_enemyCountUp&",
+  "pt": ""
+ },
+ "prefixDescS30113": {
+  "ch": "敌人移动速度&30113_enemyMspUp&\n自身移动速度&30113_mspUp&",
+  "en": "Enemy Agility &30113_enemyMspUp&\nCharacter Agility &30113_mspUp&",
+  "pt": ""
+ },
+ "prefixDescS30114": {
+  "ch": "敌人技能威力&30114_enemyPowUp&%\n敌人最大体力&30114_enemyMaxhpFixDown&%",
+  "en": "Enemy Skill Damage &30114_enemyPowUp&%\nEnemy Max Vitality &30114_enemyMaxhpFixDown&%",
+  "pt": ""
+ },
+ "prefixDescS30115": {
+  "ch": "敌人技能威力&30115_enemyPowUp&%\n幸运&30115_luckUp&",
+  "en": "Enemy Skill Damage &30115_enemyPowUp&%\nLuck &30115_luckUp&",
+  "pt": ""
+ },
+ "prefixDescS30116": {
+  "ch": "获得&30116_expGain&%的当前等级修为",
+  "en": "Gain &30116_expGain&% EXP at the current grade",
+  "pt": ""
+ },
+ "prefixDescS30117": {
+  "ch": "最大体力&30117_hpMaxUp&\n下一场战斗额外出现&30117_extraEliteEnemy&个精英怪",
+  "en": "Max Vitality &30117_hpMaxUp&\nSpawn extra &30117_extraEliteEnemy& Elite enemies in the next battle",
+  "pt": ""
+ },
+ "prefixDescS30118": {
+  "ch": "获得50灵石\n下一场战斗以&30118_hpLeft&点体力开始战斗",
+  "en": "Gain 50 Spirit Stones\nBegin the next battle with &30118_hpLeft& Vitality",
+  "pt": ""
+ },
+ "prefixDescS30119": {
+  "ch": "每次完成一场战斗时，额外获得当前灵石&30119_manaStoneUp&%的奖励",
+  "en": "Gain an extra &30119_manaStoneUp&% of the current Spirit Stone after finishing a battle",
+  "pt": ""
+ },
+ "prefixDescS30120": {
+  "ch": "每次完成一场战斗时，修为&30120_expUp&%",
+  "en": "Gain &30120_expUp&% EXP after finishing a battle",
+  "pt": ""
+ },
+ "prefixDescS30121": {
+  "ch": "每次完成一场战斗时，伤害&30121_poweUp&%、移动速度&30121_mspUp&",
+  "en": "Gain &30121_poweUp&% Damage and &30121_mspUp& Agility after finished a battle",
+  "pt": ""
+ },
+ "prefixDescS30122": {
+  "ch": "体力&30122_hpMaxUp&",
+  "en": "Vitality &30122_hpMaxUp&",
+  "pt": ""
+ },
+ "prefixDescS30123": {
+  "ch": "伤害&30123_powerUp&%",
+  "en": "Damage &30123_powerUp&%",
+  "pt": ""
+ },
+ "prefixDescS30124": {
+  "ch": "伤害&30124_powerUp&%",
+  "en": "Damage &30124_powerUp&%",
+  "pt": ""
+ },
+ "prefixDescS30125": {
+  "ch": "抗性&30125_prfUp&",
+  "en": "Resistance &30125_prfUp&",
+  "pt": ""
+ },
+ "prefixDescS30126": {
+  "ch": "攻击速度&30126_agileUp&%",
+  "en": "Attack Speed &30126_agileUp&%",
+  "pt": ""
+ },
+ "prefixDescS30127": {
+  "ch": "暴击概率&30127_critUp&%",
+  "en": "Crit Chance &30127_critUp&%",
+  "pt": ""
+ },
+ "prefixDescS30128": {
+  "ch": "暴击倍率&30128_critVUp&%",
+  "en": "Crit Rate &30128_critVUp&%",
+  "pt": ""
+ },
+ "prefixDescS30129": {
+  "ch": "移动速度&30129_mspUp&",
+  "en": "Agility &30129_mspUp&",
+  "pt": ""
+ },
+ "prefixDescS30130": {
+  "ch": "幸运&30130_luckUp&",
+  "en": "Luck &30130_luckUp&",
+  "pt": ""
+ },
+ "prefixDescS30131": {
+  "ch": "召唤物伤害&30131_zhshUp&%",
+  "en": "Summoned Unit Damage &30131_zhshUp&%",
+  "pt": ""
+ },
+ "prefixDescS30132": {
+  "ch": "召唤物持续时间&30132_zhsjUp&%",
+  "en": "Summoned Unit Duration &30132_zhsjUp&%",
+  "pt": ""
+ },
+ "prefixDescS30133": {
+  "ch": "技能范围&30133_jnfwUp&%",
+  "en": "Skill Radius &30133_jnfwUp&%",
+  "pt": ""
+ },
+ "prefixDescS30134": {
+  "ch": "技能持续时间&30134_jncxUp&%",
+  "en": "Skill Duration &30134_jncxUp&%",
+  "pt": ""
+ },
+ "prefixDescS30135": {
+  "ch": "刀法资质&30135_basBladeUp&",
+  "en": "Blade &30135_basBladeUp&",
+  "pt": ""
+ },
+ "prefixDescS30136": {
+  "ch": "刀法资质&30136_basBladeUp&",
+  "en": "Blade &30136_basBladeUp&",
+  "pt": ""
+ },
+ "prefixDescS30137": {
+  "ch": "枪法资质&30137_basSpearUp&",
+  "en": "Spear &30137_basSpearUp&",
+  "pt": ""
+ },
+ "prefixDescS30138": {
+  "ch": "枪法资质&30138_basSpearUp&",
+  "en": "Spear &30138_basSpearUp&",
+  "pt": ""
+ },
+ "prefixDescS30139": {
+  "ch": "剑法资质&30139_basSwordUp&",
+  "en": "Sword &30139_basSwordUp&",
+  "pt": ""
+ },
+ "prefixDescS30140": {
+  "ch": "剑法资质&30140_basSwordUp&",
+  "en": "Sword &30140_basSwordUp&",
+  "pt": ""
+ },
+ "prefixDescS30141": {
+  "ch": "拳法资质&30141_basFistUp&",
+  "en": "Fist &30141_basFistUp&",
+  "pt": ""
+ },
+ "prefixDescS30142": {
+  "ch": "拳法资质&30142_basFistUp&",
+  "en": "Fist &30142_basFistUp&",
+  "pt": ""
+ },
+ "prefixDescS30143": {
+  "ch": "掌法资质&30143_basPalmUp&",
+  "en": "Palm &30143_basPalmUp&",
+  "pt": ""
+ },
+ "prefixDescS30144": {
+  "ch": "掌法资质&30144_basPalmUp&",
+  "en": "Palm &30144_basPalmUp&",
+  "pt": ""
+ },
+ "prefixDescS30145": {
+  "ch": "指法资质&30145_basFingerUp&",
+  "en": "Finger &30145_basFingerUp&",
+  "pt": ""
+ },
+ "prefixDescS30146": {
+  "ch": "指法资质&30146_basFingerUp&",
+  "en": "Finger &30146_basFingerUp&",
+  "pt": ""
+ },
+ "prefixDescS30147": {
+  "ch": "火灵根&30147_basFireUp&",
+  "en": "Fire Root &30147_basFireUp&",
+  "pt": ""
+ },
+ "prefixDescS30148": {
+  "ch": "火灵根&30148_basFireUp&",
+  "en": "Fire Root &30148_basFireUp&",
+  "pt": ""
+ },
+ "prefixDescS30149": {
+  "ch": "水灵根&30149_basFrozeUp&",
+  "en": "Water Root &30149_basFrozeUp&",
+  "pt": ""
+ },
+ "prefixDescS30150": {
+  "ch": "水灵根&30150_basFrozeUp&",
+  "en": "Water Root &30150_basFrozeUp&",
+  "pt": ""
+ },
+ "prefixDescS30151": {
+  "ch": "雷灵根&30151_basThunderUp&",
+  "en": "Lightning Root &30151_basThunderUp&",
+  "pt": ""
+ },
+ "prefixDescS30152": {
+  "ch": "雷灵根&30152_basThunderUp&",
+  "en": "Lightning Root &30152_basThunderUp&",
+  "pt": ""
+ },
+ "prefixDescS30153": {
+  "ch": "风灵根&30153_basWindUp&",
+  "en": "Wind Root &30153_basWindUp&",
+  "pt": ""
+ },
+ "prefixDescS30154": {
+  "ch": "风灵根&30154_basWindUp&",
+  "en": "Wind Root &30154_basWindUp&",
+  "pt": ""
+ },
+ "prefixDescS30155": {
+  "ch": "土灵根&30155_basEarthUp&",
+  "en": "Earth Root &30155_basEarthUp&",
+  "pt": ""
+ },
+ "prefixDescS30156": {
+  "ch": "土灵根&30156_basEarthUp&",
+  "en": "Earth Root &30156_basEarthUp&",
+  "pt": ""
+ },
+ "prefixDescS30157": {
+  "ch": "木灵根&30157_basWoodUp&",
+  "en": "Wood Root &30157_basWoodUp&",
+  "pt": ""
+ },
+ "prefixDescS30158": {
+  "ch": "木灵根&30158_basWoodUp&",
+  "en": "Wood Root &30158_basWoodUp&",
+  "pt": ""
+ },
+ "prefixDescS30159": {
+  "ch": "体力&30159_hpMaxUp&\n伤害&30159_mspDonw&%",
+  "en": "Vitality &30159_hpMaxUp&\nDamage &30159_mspDonw&%",
+  "pt": ""
+ },
+ "prefixDescS30160": {
+  "ch": "体力&30160_hpMaxUp&\n幸运&30160_luckDonw&",
+  "en": "Vitality &30160_hpMaxUp&\nLuck &30160_luckDonw&",
+  "pt": ""
+ },
+ "prefixDescS30161": {
+  "ch": "体力&30161_hpMaxUp&\n技能范围&30161_jnfwUp&",
+  "en": "Vitality &30161_hpMaxUp&\nSkill Radius &30161_jnfwUp&",
+  "pt": ""
+ },
+ "prefixDescS30162": {
+  "ch": "体力&30162_hpMaxUp&\n幸运&30162_zhshDown&",
+  "en": "Vitality &30162_hpMaxUp&\nLuck &30162_zhshDown&",
+  "pt": ""
+ },
+ "prefixDescS30163": {
+  "ch": "体力&30163_hpMaxUp&",
+  "en": "Vitality &30163_hpMaxUp&",
+  "pt": ""
+ },
+ "prefixDescS30164": {
+  "ch": "体力&30164_hpMaxUp&\n暴击概率&30164_pfrDown&%",
+  "en": "Vitality &30164_hpMaxUp&\nCrit Chance &30164_pfrDown&%",
+  "pt": ""
+ },
+ "prefixDescS30165": {
+  "ch": "体力&30165_hpMaxUp&\n闪避&30165_evadeUp&%",
+  "en": "Vitality &30165_hpMaxUp&\nDodge &30165_evadeUp&%",
+  "pt": ""
+ },
+ "prefixDescS30166": {
+  "ch": "体力&30166_hpMaxUp&\n技能持续时间&30166_jncxUp&%",
+  "en": "Vitality &30166_hpMaxUp&\nSkill Duration &30166_jncxUp&%",
+  "pt": ""
+ },
+ "prefixDescS30167": {
+  "ch": "体力&30167_hpMaxUp&",
+  "en": "Vitality &30167_hpMaxUp&",
+  "pt": ""
+ },
+ "prefixDescS30168": {
+  "ch": "体力&30168_hpMaxUp&\n闪避&30168_evadeDown&%",
+  "en": "Vitality &30168_hpMaxUp&\nDodge &30168_evadeDown&%",
+  "pt": ""
+ },
+ "prefixDescS30169": {
+  "ch": "体力&30169_hpMaxUp&\n暴击倍率&30169_hpRestoreDown&%",
+  "en": "Vitality &30169_hpMaxUp&\nCrit Rate &30169_hpRestoreDown&%",
+  "pt": ""
+ },
+ "prefixDescS30170": {
+  "ch": "体力&30170_hpMaxUp&\n攻击速度&30170_agileUp&%",
+  "en": "Vitality &30170_hpMaxUp&\nAttack Speed &30170_agileUp&%",
+  "pt": ""
+ },
+ "prefixDescS30171": {
+  "ch": "拾取桃子时可随机释放一个已装备的非持续施法，召唤或蓄力的技能。",
+  "en": "You will randomly cast an equipped skill upon every picking up of peaches. (Not applicable to continuous, summoning, or charge skills.)",
+  "pt": ""
+ },
+ "prefixDescS30172": {
+  "ch": "击杀怪物时有&30172_luckCoefficient|x#luck|+30172_basicProb|/100|f2&%的概率掉落桃子（幸运越高掉落概率越高）",
+  "en": "Monsters have a &30172_luckCoefficient|x#luck|+30172_basicProb|/100|f2&% chance to drop a peach. A higher Luck will grant you an additional drop rate.",
+  "pt": ""
+ },
+ "prefixDescS30173": {
+  "ch": "对罐子一击必杀，拾取桃子时桃子的回复效果变成持续回复",
+  "en": "You may break the pots with one strike. The Vitality recovery from the peach is now a healing over time effect.",
+  "pt": ""
+ },
+ "prefixDescS302001": {
+  "ch": "此技能威力&302_dmg%1&",
+  "en": "Skill Damage &302_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS302002": {
+  "ch": "此技能威力&302_dmg%2&\n剑气数量&302_bullet%1&",
+  "en": "Skill Damage &302_dmg%2&\nSword Amount &302_bullet%1&",
+  "pt": ""
+ },
+ "prefixDescS302003": {
+  "ch": "此技能威力&302_dmg%3&\n射程&302_range%1&",
+  "en": "Skill Damage &302_dmg%3&\nRange &302_range%1&",
+  "pt": ""
+ },
+ "prefixDescS302004": {
+  "ch": "此技能威力&302_dmg%4&\n施加流血的概率&302_bleedProb%1&%",
+  "en": "Skill Damage &302_dmg%4&\nBleed Chance &302_bleedProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS302005": {
+  "ch": "此技能威力&302_dmg%5&\n剑气数量&302_bullet%2&",
+  "en": "Skill Damage &302_dmg%5&\nSword Amount &302_bullet%2&",
+  "pt": ""
+ },
+ "prefixDescS302006": {
+  "ch": "此技能穿透次数&302_penetrationNum&",
+  "en": "Projectile Penetrations &302_penetrationNum&",
+  "pt": ""
+ },
+ "prefixDescS302007": {
+  "ch": "此技能命中有减速效果的敌人时，不再施加流血，改为移除敌人身上的所有减速效果，每移除一个效果，立即减少此技能&302_cdDown&秒冷却",
+  "en": "This skill no longer inflicts Bleed. Instead, it removes all stacks of Slow on enemies hit if they are slowed. Every stack of Slow removed will reduce the skill's Cooldown by &302_cdDown&s",
+  "pt": ""
+ },
+ "prefixDescS303001": {
+  "ch": "此技能威力&303_dmg%1&",
+  "en": "Skill Damage &303_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS303002": {
+  "ch": "此技能威力&303_dmg%2&\n剑雨范围&303_fieldRange%1&",
+  "en": "Skill Damage &303_dmg%2&\nRadius &303_fieldRange%1&",
+  "pt": ""
+ },
+ "prefixDescS303003": {
+  "ch": "此技能威力&303_dmg%3&\n额外伤害比例&303_fieldBonusDmg%1&%",
+  "en": "Skill Damage &303_dmg%3&\nExtra Damage Ratio &303_fieldBonusDmg%1&%",
+  "pt": ""
+ },
+ "prefixDescS303004": {
+  "ch": "此技能威力&303_dmg%4&\n剑雨持续时间&303_fieldTime%1&秒",
+  "en": "Skill Damage &303_dmg%4&\nDuration &303_fieldTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS303005": {
+  "ch": "此技能威力&303_dmg%5&\n冷却&303_cd%1&",
+  "en": "Skill Damage &303_dmg%5&\nCooldown &303_cd%1&",
+  "pt": ""
+ },
+ "prefixDescS303006": {
+  "ch": "范围内每有一个敌人，此技能威力&303_fieldDmgUp6&",
+  "en": "Skill Damage &303_fieldDmgUp6& for every enemy in its area of effect.",
+  "pt": ""
+ },
+ "prefixDescS303007": {
+  "ch": "剑雨范围&303_fieldRange%2&，每有&303_mspRequire&点移动速度，此技能的范围&303_speedToRange&",
+  "en": "Radius &303_fieldRange%2&. Every &303_mspRequire& Agility will &303_speedToRange& its Radius",
+  "pt": ""
+ },
+ "prefixDescS304001": {
+  "ch": "此技能威力&304_dmg%1&",
+  "en": "Skill Damage &304_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS304002": {
+  "ch": "此技能威力&304_dmg%2&\n施加流血的概率&304_bleedProb%1&%",
+  "en": "Skill Damage &304_dmg%2&\nBleed Chance &304_bleedProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS304003": {
+  "ch": "此技能威力&304_dmg%3&\n冷却&304_cd%1&秒",
+  "en": "Skill Damage &304_dmg%3&\nCooldown &304_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS304004": {
+  "ch": "此技能威力&304_dmg%4&\n射程&304_range%1&",
+  "en": "Skill Damage &304_dmg%4&\nRange &304_range%1&",
+  "pt": ""
+ },
+ "prefixDescS304005": {
+  "ch": "此技能威力&304_dmg%5&\n旋转剑持续时间&304_time%1&秒",
+  "en": "Skill Damage &304_dmg%5&\nSpinning Sword Duration &304_time%1&s",
+  "pt": ""
+ },
+ "prefixDescS304006": {
+  "ch": "此技能的弹道变为可穿透&304_penetrationNum&次",
+  "en": "Projectiles gain &304_penetrationNum& penetrations",
+  "pt": ""
+ },
+ "prefixDescS304007": {
+  "ch": "增加&304_num%1&把旋转剑",
+  "en": "&304_num%1& Additional Spinning Swords",
+  "pt": ""
+ },
+ "prefixDescS400001": {
+  "ch": "刀、枪资质&400001_basUp&。",
+  "en": "Blade and Spear &400001_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400002": {
+  "ch": "刀、剑资质&400002_basUp&。",
+  "en": "Blade and Sword &400002_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400003": {
+  "ch": "枪、剑资质&400003_basUp2&。",
+  "en": "Spear and Sword &400003_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400004": {
+  "ch": "刀资质&400004_basUp&。",
+  "en": "Blade &400004_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400005": {
+  "ch": "枪资质&400005_basUp2&。",
+  "en": "Spear &400005_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400006": {
+  "ch": "剑资质&400006_basUp3&。",
+  "en": "Sword &400006_basUp3&.",
+  "pt": ""
+ },
+ "prefixDescS400007": {
+  "ch": "拳、掌资质&400007_basUp&。",
+  "en": "Fist and Palm &400007_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400008": {
+  "ch": "拳、指资质&400008_basUp&。",
+  "en": "Fist and Finger &400008_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400009": {
+  "ch": "掌、指资质&400009_basUp2&。",
+  "en": "Palm and Finger &400009_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400010": {
+  "ch": "拳资质&400010_basUp&。",
+  "en": "Fist &400010_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400011": {
+  "ch": "掌资质&400011_basUp2&。",
+  "en": "Palm &400011_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400012": {
+  "ch": "指资质&400012_basUp3&。",
+  "en": "Finger &400012_basUp3&.",
+  "pt": ""
+ },
+ "prefixDescS400013": {
+  "ch": "火、水灵根&400013_basUp&。",
+  "en": "Fire and Water roots &400013_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400014": {
+  "ch": "火、雷灵根&400014_basUp&。",
+  "en": "Fire and Lightning roots &400014_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400015": {
+  "ch": "水、雷灵根&400015_basUp2&。",
+  "en": "Water and Lightning roots &400015_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400016": {
+  "ch": "火灵根&400016_basUp&。",
+  "en": "Fire Root &400016_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400017": {
+  "ch": "水灵根&400017_basUp2&。",
+  "en": "Water Root &400017_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400018": {
+  "ch": "雷灵根&400018_basUp3&。",
+  "en": "Lightning Root &400018_basUp3&.",
+  "pt": ""
+ },
+ "prefixDescS400019": {
+  "ch": "风、土灵根&400019_basUp&。",
+  "en": "Wind and Earth roots &400019_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400020": {
+  "ch": "风、木灵根&400020_basUp&。",
+  "en": "Wind and Wood roots &400020_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400021": {
+  "ch": "土、木灵根&400021_basUp2&。",
+  "en": "Earth and Wood roots &400021_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400022": {
+  "ch": "风灵根&400022_basUp&。",
+  "en": "Wind Root &400022_basUp&.",
+  "pt": ""
+ },
+ "prefixDescS400023": {
+  "ch": "土灵根&400023_basUp2&。",
+  "en": "Earth Root &400023_basUp2&.",
+  "pt": ""
+ },
+ "prefixDescS400024": {
+  "ch": "木灵根&400024_basUp3&。",
+  "en": "Wood Root &400024_basUp3&.",
+  "pt": ""
+ },
+ "prefixDescS400025": {
+  "ch": "幸运&400025_luckUp&。",
+  "en": "Luck &400025_luckUp&.",
+  "pt": ""
+ },
+ "prefixDescS400026": {
+  "ch": "射程&400026_jnsc&%。",
+  "en": "Range &400026_jnsc&%.",
+  "pt": ""
+ },
+ "prefixDescS400027": {
+  "ch": "攻击速度&400027_agile&%。",
+  "en": "Attack Speed &400027_agile&%.",
+  "pt": ""
+ },
+ "prefixDescS400028": {
+  "ch": "每移动&700179_xdjl&距离后在生出一个蛋，蛋出生后&700179_zbsj&秒、或被敌人碰触后将会爆炸，对范围内的所有敌人造成&700179_bzwl&威力的伤害。",
+  "en": "Spawn an egg after every &700179_xdjl& distance moved. The egg will explode after &700179_zbsj&s or upon being touched by an enemy, dealing &700179_bzwl& damage to enemies within its area of effect.",
+  "pt": ""
+ },
+ "prefixDescS400029": {
+  "ch": "体力&400029_hpMaxUp&，体力恢复&400029_hpRestoreUp&，抗性&400029_pfrUp&。",
+  "en": "Vitality &400029_hpMaxUp&, Vitality Recovery &400029_hpRestoreUp&, Resistance &400029_pfrUp&.",
+  "pt": ""
+ },
+ "prefixDescS400030": {
+  "ch": "伤害加成&400030_powerUp&%，攻击速度&400030_agileUp&%，移动速度&400030_mspUp&。",
+  "en": "Damage Bonus &400030_powerUp&%, Attack Speed &400030_agileUp&%, Agility &400030_mspUp&.",
+  "pt": ""
+ },
+ "prefixDescS400031": {
+  "ch": "暴击概率&400031_critUp&%，暴击倍率&400031_critVUp&%，闪避&400031_evadeUp&。",
+  "en": "Crit Chance &400031_critUp&%, Crit Rate &400031_critVUp&%, Dodge &400031_evadeUp&.",
+  "pt": ""
+ },
+ "prefixDescS400032": {
+  "ch": "幸运&400032_luckUp&。",
+  "en": "Luck &400032_luckUp&.",
+  "pt": ""
+ },
+ "prefixDescS400033": {
+  "ch": "体力&400033_hpMaxUp&，伤害加成&400033_powerUp&%。",
+  "en": "Vitality &400033_hpMaxUp&, Damage Bonus &400033_powerUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400034": {
+  "ch": "体力&400034_hpMaxUp&，移速&400034_mspUp&。",
+  "en": "Vitality &400034_hpMaxUp&, Agility &400034_mspUp&.",
+  "pt": ""
+ },
+ "prefixDescS400035": {
+  "ch": "伤害加成&400035_powerUp&%，移速&400035_mspUp&。",
+  "en": "Damage Bonus &400035_powerUp&%, Agility &400035_mspUp&.",
+  "pt": ""
+ },
+ "prefixDescS400036": {
+  "ch": "体力&400036_hpMaxUp&。",
+  "en": "Vitality &400036_hpMaxUp&.",
+  "pt": ""
+ },
+ "prefixDescS400037": {
+  "ch": "伤害加成&400037_powerUp&%。",
+  "en": "Damage Bonus &400037_powerUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400038": {
+  "ch": "移速&400038_mspUp&。",
+  "en": "Agility &400038_mspUp&.",
+  "pt": ""
+ },
+ "prefixDescS400039": {
+  "ch": "体力回复&400039_hpRestoreUp&，攻击速度&400039_agileUp&%。",
+  "en": "Vitality Restoration &400039_hpRestoreUp&, Attack Speed &400039_agileUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400040": {
+  "ch": "体力回复&400040_hpRestoreUp&，暴击倍率&400040_critVUp&%。",
+  "en": "Vitality Restoration &400040_hpRestoreUp&, Crit Rate &400040_critVUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400041": {
+  "ch": "攻击速度&400041_agileUp&%，暴击倍率&400041_critVUp&%。",
+  "en": "Attack Speed &400041_agileUp&%, Crit Rate &400041_critVUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400042": {
+  "ch": "体力回复&400042_hpRestoreUp&。",
+  "en": "Vitality Restoration &400042_hpRestoreUp&.",
+  "pt": ""
+ },
+ "prefixDescS400043": {
+  "ch": "攻击速度&400043_agileUp&%。",
+  "en": "Attack Speed &400043_agileUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400044": {
+  "ch": "暴击倍率&400044_critVUp&%。",
+  "en": "Crit Rate &400044_critVUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400045": {
+  "ch": "抗性&400045_pfrUp&，闪避&400045_evadeUp&。",
+  "en": "Resistance &400045_pfrUp&, Dodge &400045_evadeUp&.",
+  "pt": ""
+ },
+ "prefixDescS400046": {
+  "ch": "抗性&400046_pfrUp&，暴击概率&400046_critUp&%。",
+  "en": "Resistance &400046_pfrUp&, Crit Chance &400046_critUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400047": {
+  "ch": "闪避&400047_evadeUp&，暴击概率&400047_critUp&%。",
+  "en": "Dodge &400047_evadeUp&, Crit Chance &400047_critUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400048": {
+  "ch": "抗性&400048_pfrUp&。",
+  "en": "Resistance &400048_pfrUp&.",
+  "pt": ""
+ },
+ "prefixDescS400049": {
+  "ch": "闪避&400049_evadeUp&。",
+  "en": "Dodge &400049_evadeUp&.",
+  "pt": ""
+ },
+ "prefixDescS400050": {
+  "ch": "暴击概率&400050_critUp&%。",
+  "en": "Crit Chance &400050_critUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400051": {
+  "ch": "体力&400051_hpMaxUp&。",
+  "en": "Vitality &400051_hpMaxUp&.",
+  "pt": ""
+ },
+ "prefixDescS400052": {
+  "ch": "体力回复&400052_hpRestoreUp&。",
+  "en": "Vitality Restoration &400052_hpRestoreUp&.",
+  "pt": ""
+ },
+ "prefixDescS400053": {
+  "ch": "抗性&400053_pfrUp&。",
+  "en": "Resistance &400053_pfrUp&.",
+  "pt": ""
+ },
+ "prefixDescS400054": {
+  "ch": "伤害加成&400054_powerUp&%。",
+  "en": "Damage Bonus &400054_powerUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400055": {
+  "ch": "攻击速度&400055_agileUp&%。",
+  "en": "Attack Speed &400055_agileUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400056": {
+  "ch": "移动速度&400056_mspUp&。",
+  "en": "Agility &400056_mspUp&.",
+  "pt": ""
+ },
+ "prefixDescS400057": {
+  "ch": "暴击概率&400057_critUp&%。",
+  "en": "Crit Chance &400057_critUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400058": {
+  "ch": "暴击倍率&400058_critVUp&%。",
+  "en": "Crit Rate &400058_critVUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400059": {
+  "ch": "闪避&400059_evadeUp&。",
+  "en": "Dodge &400059_evadeUp&.",
+  "pt": ""
+ },
+ "prefixDescS400060": {
+  "ch": "体力&400060_hpMaxUp&，体力恢复&400060_hpRestoreUp&，抗性&400060_pfrUp&。",
+  "en": "Vitality &400060_hpMaxUp&, Vitality Recovery &400060_hpRestoreUp&, Resistance &400060_pfrUp&.",
+  "pt": ""
+ },
+ "prefixDescS400061": {
+  "ch": "伤害加成&400061_powerUp&%，攻击速度&400061_agileUp&%，移动速度&400061_mspUp&。",
+  "en": "Damage Bonus &400061_powerUp&%, Attack Speed &400061_agileUp&%, Agility &400061_mspUp&.",
+  "pt": ""
+ },
+ "prefixDescS400062": {
+  "ch": "暴击概率&400062_critUp&%，暴击倍率&400062_critVUp&%，闪避&400062_evadeUp&。",
+  "en": "Crit Chance &400062_critUp&%, Crit Rate &400062_critVUp&%, Dodge &400062_evadeUp&.",
+  "pt": ""
+ },
+ "prefixDescS400063": {
+  "ch": "技能范围&400063_jnfwUp&%。",
+  "en": "Skill Radius &400063_jnfwUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400064": {
+  "ch": "技能持续时间&400064_jncxUp&%。",
+  "en": "Skill Duration &400064_jncxUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400065": {
+  "ch": "弹道射程&400065_jnscUp&%。",
+  "en": "Projectile Range &400065_jnscUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400066": {
+  "ch": "召唤物伤害加成&400066_zhshUp&%。",
+  "en": "Summoned Unit Damage Bonus &400066_zhshUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400067": {
+  "ch": "召唤物持续时间&400067_zhsjUp&%。",
+  "en": "Summoned Unit Duration &400067_zhsjUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400068": {
+  "ch": "召唤物攻击速度&400068_zhgjsdUp&%。",
+  "en": "Summoned Unit Attack Speed &400068_zhgjsdUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400069": {
+  "ch": "技能范围&400069_jnfwUp&%。",
+  "en": "Skill Radius &400069_jnfwUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400070": {
+  "ch": "技能持续时间&400070_jncxUp&%。",
+  "en": "Skill Duration &400070_jncxUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400071": {
+  "ch": "弹道射程&400071_jnscUp&%。",
+  "en": "Projectile Range &400071_jnscUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400072": {
+  "ch": "召唤物伤害加成&400072_zhshUp&%。",
+  "en": "Summoned Unit Damage Bonus &400072_zhshUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400073": {
+  "ch": "召唤物持续时间&400073_zhsjUp&%。",
+  "en": "Summoned Unit Duration &400073_zhsjUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400074": {
+  "ch": "召唤物攻击速度&400074_zhgjsdUp&%。",
+  "en": "Summoned Unit Attack Speed &400074_zhgjsdUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400075": {
+  "ch": "技能范围&400075_jnfwUp&%，技能持续时间&400075_jncxUp&%。",
+  "en": "Skill Radius &400075_jnfwUp&%, Skill Duration &400075_jncxUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400076": {
+  "ch": "技能范围&400076_jnfwUp&%，弹道射程&400076_jnscUp&%。",
+  "en": "Skill Radius &400076_jnfwUp&%, Projectile Range &400076_jnscUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400077": {
+  "ch": "技能持续时间&400077_jncxUp&%，弹道射程&400077_jnscUp&%。",
+  "en": "Skill Duration &400077_jncxUp&%, Projectile Range &400077_jnscUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400078": {
+  "ch": "召唤物伤害加成&400078_zhshUp&%，召唤物持续时间&400078_zhsjUp&%。",
+  "en": "Summoned Unit Damage Bonus &400078_zhshUp&%, Summoned Unit Duration &400078_zhsjUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400079": {
+  "ch": "召唤物伤害加成&400079_zhshUp&%，召唤物攻击速度&400079_zhgjsdUp&%。",
+  "en": "Summoned Unit Damage Bonus &400079_zhshUp&%, Summoned Unit Attack Speed &400079_zhgjsdUp&%.",
+  "pt": ""
+ },
+ "prefixDescS400080": {
+  "ch": "召唤物持续时间&400080_zhsjUp&%，召唤物攻击速度&400080_zhgjsdUp&%。",
+  "en": "Summoned Unit Duration &400080_zhsjUp&%, Summoned Unit Attack Speed &400080_zhgjsdUp&%.",
+  "pt": ""
+ },
+ "prefixDescS401001": {
+  "ch": "此技能威力&401_dmg%1&",
+  "en": "Skill Damage &401_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS401002": {
+  "ch": "此技能威力&401_dmg%2&\n获得护盾&401_shield%1&",
+  "en": "Skill Damage &401_dmg%2&\nShield HP &401_shield%1&",
+  "pt": ""
+ },
+ "prefixDescS401003": {
+  "ch": "此技能威力&401_dmg%3&\n冷却&401_cd%1&秒",
+  "en": "Skill Damage &401_dmg%3&\nCooldown &401_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS401004": {
+  "ch": "此技能威力&401_dmg%4&\n拳影数量&401_bullet%1&",
+  "en": "Skill Damage &401_dmg%4&\nFist Amount &401_bullet%1&",
+  "pt": ""
+ },
+ "prefixDescS401005": {
+  "ch": "此技能威力&401_dmg%5&\n获得护盾概率&401_shieldProb%1&%",
+  "en": "Skill Damage &401_dmg%5&\nShield Chance &401_shieldProb%1&%",
+  "pt": ""
+ },
+ "prefixDescS401006": {
+  "ch": "每次受到伤害时，有&401_passiveProb&%的概率立即使用一次此技能（每秒最多触发5次）",
+  "en": "&401_passiveProb&% chance to cast the skill instantly upon being hit. (Trigger at max 5 times per second)",
+  "pt": ""
+ },
+ "prefixDescS401007": {
+  "ch": "每损失&401_shieldLost&点护盾（无论是受伤消耗还是其它技能消耗），下次使用此技能时，射程&401_rangeUp&，暴击概率&401_critUp&%",
+  "en": "Every &401_shieldLost& Shield HP lost (either from damage and from the cost of other skills) will grant the skill &401_rangeUp& extra Range and &401_critUp&% extra Crit Chance upon its next cast",
+  "pt": ""
+ },
+ "prefixDescS402001": {
+  "ch": "此技能威力&402_dmg%1&",
+  "en": "Skill Damage &402_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS402002": {
+  "ch": "此技能威力&402_dmg%2&\n每秒获得护盾值&402_shield%1&",
+  "en": "Skill Damage &402_dmg%2&\nShield HP per Second: &402_shield%1&",
+  "pt": ""
+ },
+ "prefixDescS402003": {
+  "ch": "此技能威力&402_dmg%3&\n冷却&402_cd%1&秒",
+  "en": "Skill Damage &402_dmg%3&\nCooldown &402_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS402004": {
+  "ch": "此技能威力&402_dmg%4&\n灵爆范围&402_range%1&",
+  "en": "Skill Damage &402_dmg%4&\nBlast Range &402_range%1&",
+  "pt": ""
+ },
+ "prefixDescS402005": {
+  "ch": "当前每缺失&402_hpLost&%的体力，此技能威力&402_dmgUp&",
+  "en": "&402_dmgUp& Skill Damage for every &402_hpLost&% current Vitality lost",
+  "pt": ""
+ },
+ "prefixDescS402006": {
+  "ch": "此技能在消耗护盾后，立即返还&402_shieldReturn&%消耗的护盾",
+  "en": "&402_shieldReturn&% Shield HP cost will be refunded right after cast",
+  "pt": ""
+ },
+ "prefixDescS402007": {
+  "ch": "当体力大于&402_hpRequire&%时，可消耗&402_hpCost&%的最大体力，每消耗3点体力，伤害&402_hpToDmg&%",
+  "en": "This skill may cost &402_hpCost&% Max Vitality if Vitality is above &402_hpRequire&%. The skill's damage will &402_hpToDmg&% for every 3 Vitality cost",
+  "pt": ""
+ },
+ "prefixDescS403001": {
+  "ch": "此技能威力&403_dmg%1&",
+  "en": "Skill Damage &403_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS403002": {
+  "ch": "此技能威力&403_dmg%2&\n冷却&403_cd%1&秒",
+  "en": "Skill Damage &403_dmg%2&\nCooldown &403_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS403003": {
+  "ch": "此技能威力&403_dmg%3&\n抵挡弹道伤害次数&403_block%1&",
+  "en": "Skill Damage &403_dmg%3&\nBlocks &403_block%1&",
+  "pt": ""
+ },
+ "prefixDescS403004": {
+  "ch": "此技能威力&403_dmg%4&\n盾影持续时间&403_shieldTime%1&",
+  "en": "Skill Damage &403_dmg%4&\nDuration &403_shieldTime%1&",
+  "pt": ""
+ },
+ "prefixDescS403005": {
+  "ch": "此技能威力&403_dmg%5&\n盾影的环绕速度&403_shieldRotateSpeedUp&%",
+  "en": "Skill Damage &403_dmg%5&\nShield Circling Speed &403_shieldRotateSpeedUp&%",
+  "pt": ""
+ },
+ "prefixDescS403006": {
+  "ch": "在距离&403_range|+100|f0&的位置再加一层盾影",
+  "en": "Create another layer of circling shields at &403_range|+100|f0& distance away",
+  "pt": ""
+ },
+ "prefixDescS403007": {
+  "ch": "向敌人发射一道盾影冲击，每秒最多可触发2次",
+  "en": "Release a shield blast to enemies. Trigger at max 2 times per second",
+  "pt": ""
+ },
+ "prefixDescS410001": {
+  "ch": "最大体力&410001_carrotHp&",
+  "en": "Max Vitality &410001_carrotHp&",
+  "pt": ""
+ },
+ "prefixDescS410002": {
+  "ch": "每&410002_carrotRecoverCD&秒回复&410002_carrotRecoverHP&%体力",
+  "en": "Restore &410002_carrotRecoverHP&% Vitality every &410002_carrotRecoverCD&s",
+  "pt": ""
+ },
+ "prefixDescS410003": {
+  "ch": "体力回复&20102_hpRestoreDown&。进入战斗后，最大体力&20102_hpMaxUp&（当前体力不变），体型大小改为&20102_modelSizeUp|+100|f0&%",
+  "en": "Vitality Restoration &20102_hpRestoreDown&. Max Vitality &20102_hpMaxUp& after entering battle (will not affect Current Vitality), character size &20102_modelSizeUp|+100|f0&%",
+  "pt": ""
+ },
+ "prefixDescS410004": {
+  "ch": "攻击速度&410004_agileUp&%",
+  "en": "Attack Speed &410004_agileUp&%",
+  "pt": ""
+ },
+ "prefixDescS410005": {
+  "ch": "领悟大李飞剑",
+  "en": "Jo's Flying Sword III Acquired",
+  "pt": ""
+ },
+ "prefixDescS410006": {
+  "ch": "修为获取&410006_expUp&%",
+  "en": "EXP Gained &410006_expUp&%",
+  "pt": ""
+ },
+ "prefixDescS410007": {
+  "ch": "可解除灾厄，且下一场战斗中体力回复&410007_hpRestoreUp&，获得修为&410007_expUp&%。解除灾厄后会自行消散。",
+  "en": "Resolves your misfortune and disappears after it, granting you &410007_hpRestoreUp& Vitality Restoration and &410007_expUp&% EXP Gained in your next battle.",
+  "pt": ""
+ },
+ "prefixDescS410008": {
+  "ch": "盾牌每抵挡10次伤害，会发射一道震波，对场上所有敌人造成伤害，使敌人造成的伤害降低&700012_jdsh&%、减速&700011_jdys&%效果，持续&700012_jdsj&秒。（每&700012_shockCD&秒最多触发1次）",
+  "en": "After every 10 blocks, your shield will release a shockwave that deals damage to enemies on the battlefield, reducing their Damage by &700012_jdsh&% and their Agility by &700011_jdys&% for &700012_jdsj&s. Can be triggered once every &700012_shockCD&s.",
+  "pt": ""
+ },
+ "prefixDescS501001": {
+  "ch": "此技能威力&501_dmg%1&",
+  "en": "Skill Damage &501_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS501002": {
+  "ch": "此技能威力&501_dmg%2&\n射程&501_range%1&",
+  "en": "Skill Damage &501_dmg%2&\nRange &501_range%1&",
+  "pt": ""
+ },
+ "prefixDescS501003": {
+  "ch": "此技能威力&501_dmg%3&\n冷却&501_cd%2&秒",
+  "en": "Skill Damage &501_dmg%3&\nCooldown &501_cd%2&s",
+  "pt": ""
+ },
+ "prefixDescS501004": {
+  "ch": "此技能威力&501_dmg%4&\n冷却&501_cd%1&秒",
+  "en": "Skill Damage &501_dmg%4&\nCooldown &501_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS501005": {
+  "ch": "此技能威力&501_dmg%5&\n掌风伤害&501_windRealDmg%1&%",
+  "en": "Skill Damage &501_dmg%5&\nPalm Wind Damage &501_windRealDmg%1&%",
+  "pt": ""
+ },
+ "prefixDescS501006": {
+  "ch": "此技能可连续生成2道掌风\n第2道掌风的范围&501_windSizeUp&",
+  "en": "Generate 2 Palm Winds in series\nRange of the second Palm Wind &501_windSizeUp&",
+  "pt": ""
+ },
+ "prefixDescS501007": {
+  "ch": "此弹道的穿透次数&501_penetrationNum&\n命中敌人后不再生成掌风，改为每前进&501_wind3Space&距离自动生成一道掌风",
+  "en": "Projectile Penetrations &501_penetrationNum&\nNo longer generate Palm Winds upon hitting enemies. Instead, a Palm Wind will generate after every &501_wind3Space& distance the projectile moved",
+  "pt": ""
+ },
+ "prefixDescS502001": {
+  "ch": "此技能威力&502_dmg%1&",
+  "en": "Skill Damage &502_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS502002": {
+  "ch": "此技能威力&502_dmg%2&\n掌波&502_waveNum%1&",
+  "en": "Skill Damage &502_dmg%2&\nPalm Marks &502_waveNum%1&",
+  "pt": ""
+ },
+ "prefixDescS502003": {
+  "ch": "此技能威力&502_dmg%3&\n蓄力时间&502_chargeCoefficient%1&%\n蓄力时的弹道数量翻倍",
+  "en": "Skill Damage &502_dmg%3&\nCharging Time: &502_chargeCoefficient%1&%\nDouble Projectile Amount in Charging",
+  "pt": ""
+ },
+ "prefixDescS502004": {
+  "ch": "此技能威力&502_dmg%4&\n射程&502_range%1&",
+  "en": "Skill Damage &502_dmg%4&\nRange &502_range%1&",
+  "pt": ""
+ },
+ "prefixDescS502005": {
+  "ch": "此技能威力&502_dmg%5&\n蓄力施放此技能后，移动速度&502_speedUp&%，持续&502_speedUpTime%1&秒",
+  "en": "Skill Damage &502_dmg%5&\nAgility &502_speedUp&% after charging for &502_speedUpTime%1&s",
+  "pt": ""
+ },
+ "prefixDescS502006": {
+  "ch": "此技能在命中敌人时，可对其施加一层内伤（持续&502_injuryTime&秒，最多可叠加&502_injurySuperposition&层\n有内伤的敌人受到掌法伤害时，会额外受到层数*&502_injuryDmg&的固定伤害）",
+  "en": "This skill will inflict an Internal Injury on enemies hit. Internal Injury lasts for &502_injuryTime&s, stackable at max &502_injurySuperposition& stacks\nWhen an enemy with Internal Injury takes Palm damage, they will also take fixed damage of Internal Injury stacks *&502_injuryDmg&",
+  "pt": ""
+ },
+ "prefixDescS502007": {
+  "ch": "每施放一次蓄力技能，此技能的冷却时间立即&502_reduceCurrentCD&秒",
+  "en": "This skill's Cooldown &502_reduceCurrentCD&s after every cast of Charge Skills",
+  "pt": ""
+ },
+ "prefixDescS503001": {
+  "ch": "此技能威力&503_dmg%1&",
+  "en": "Skill Damage &503_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS503002": {
+  "ch": "此技能威力&503_dmg%2&\n初始掌印数&503_bulletNum%1&",
+  "en": "Skill Damage &503_dmg%2&\nInitial Palm Marks &503_bulletNum%1&",
+  "pt": ""
+ },
+ "prefixDescS503003": {
+  "ch": "此技能威力&503_dmg%3&\n冷却&503_cd%1&秒",
+  "en": "Skill Damage &503_dmg%3&\nCooldown &503_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS503004": {
+  "ch": "此技能威力&503_dmg%4&\n蓄力时间&503_chargeCoefficient%1&%\n蓄力时增加的掌印数量翻倍",
+  "en": "Skill Damage &503_dmg%4&\nCharging Time &503_chargeCoefficient%1&%\nDouble Palm Marks from Charging",
+  "pt": ""
+ },
+ "prefixDescS503005": {
+  "ch": "此技能威力&503_dmg%5&\n掌印大小&503_dmgRangeCoefficient%1&%",
+  "en": "Skill Damage &503_dmg%5&\nPalm Mark Size &503_dmgRangeCoefficient%1&%",
+  "pt": ""
+ },
+ "prefixDescS503006": {
+  "ch": "使用技能时，每&503_windCD&秒在自身脚下生成一道掌风，且生成的掌风范围&501_windSize1%1&，持续&503_windTime&秒",
+  "en": "Generate a Palm Wind at the character's location every &503_windCD&s of cast. Palm Wind Size &501_windSize1%1& for &503_windTime&s",
+  "pt": ""
+ },
+ "prefixDescS503007": {
+  "ch": "此技能在命中敌人时，可对其施加一层内伤（持续&502_injuryTime&秒，最多可叠加&502_injurySuperposition&层\n有内伤的敌人受到掌法伤害时，会额外受到层数*&502_injuryDmg&的固定伤害）",
+  "en": "This skill will inflict an Internal Injury on enemies hit. Internal Injury lasts for &502_injuryTime&s, stackable at max &502_injurySuperposition& stacks\nWhen an enemy with Internal Injury takes Palm damage, they will also take fixed damage of Internal Injury stacks *&502_injuryDmg&",
+  "pt": ""
+ },
+ "prefixDescS601001": {
+  "ch": "此技能威力&601_dmg%1&",
+  "en": "Skill Damage &601_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS601002": {
+  "ch": "此技能威力&601_dmg%2&\n指影数量&601_num%1&",
+  "en": "Skill Damage &601_dmg%2&\nFinger Shadow Amount &601_num%1&",
+  "pt": ""
+ },
+ "prefixDescS601003": {
+  "ch": "此技能威力&601_dmg%3&\n冷却&601_cd%1&秒",
+  "en": "Skill Damage &601_dmg%3&\nCooldown &601_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS601004": {
+  "ch": "此技能威力&601_dmg%4&\n封灵引发的灵爆伤害翻倍",
+  "en": "Skill Damage &601_dmg%4&\nDouble Blast Damage from Spirit Seals",
+  "pt": ""
+ },
+ "prefixDescS601005": {
+  "ch": "此技能威力&601_dmg%5&\n封灵引发的灵爆范围&601_sealBlastField%1&",
+  "en": "Skill Damage &601_dmg%5&\nBlast Radius &601_sealBlastField%1&",
+  "pt": ""
+ },
+ "prefixDescS601006": {
+  "ch": "封灵效果不需要敌人死亡时才引发，而是在施加后的&601_blastLag&秒也可引发（引发后移除封灵效果）",
+  "en": "Spirit Blast may also be triggered after &601_blastLag&s of inflicting Spirit Seal, but the effect will be removed after it",
+  "pt": ""
+ },
+ "prefixDescS601007": {
+  "ch": "此技能对封灵的敌人必定暴击",
+  "en": "This skill always deals Crit damage to enemies with Spirit Seal",
+  "pt": ""
+ },
+ "prefixDescS602001": {
+  "ch": "此技能威力&602_dmg%1&",
+  "en": "Skill Damage &602_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS602002": {
+  "ch": "此技能威力&602_dmg%2&\n冷却&602_cd%1&秒",
+  "en": "Skill Damage &602_dmg%2&\nCooldown &602_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS602003": {
+  "ch": "此技能威力&602_dmg%3&\n灵球数量&602_num%1&",
+  "en": "Skill Damage &602_dmg%3&\nSpirit Orbs &602_num%1&",
+  "pt": ""
+ },
+ "prefixDescS602004": {
+  "ch": "此技能威力&602_dmg%4&\n灵爆延迟时间减半",
+  "en": "Skill Damage &602_dmg%4&\nHalf Blast Delay",
+  "pt": ""
+ },
+ "prefixDescS602005": {
+  "ch": "此技能威力&602_dmg%5&\n灵爆范围&602_ballField%1&",
+  "en": "Skill Damage &602_dmg%5&\nBlast Radius &602_ballField%1&",
+  "pt": ""
+ },
+ "prefixDescS602006": {
+  "ch": "在本场战斗中，每生成过一次灵爆，此技能的威力&602_blastToDmgUp&，直到本场战斗结束",
+  "en": "Every Blast triggered in this battle will grant the skill &602_blastToDmgUp& damage, effective to the end of the battle.",
+  "pt": ""
+ },
+ "prefixDescS602007": {
+  "ch": "此技能改为十字灵爆",
+  "en": "The Spirit Orbs will explode in a cross pattern",
+  "pt": ""
+ },
+ "prefixDescS603001": {
+  "ch": "此技能威力&603_dmg%1&",
+  "en": "Skill Damage &603_dmg%1&",
+  "pt": ""
+ },
+ "prefixDescS603002": {
+  "ch": "此技能威力&603_dmg%2&\n冷却&603_cd%1&秒",
+  "en": "Skill Damage &603_dmg%2&\nCooldown &603_cd%1&s",
+  "pt": ""
+ },
+ "prefixDescS603003": {
+  "ch": "此技能威力&603_dmg%3&\n射程&603_range%1&",
+  "en": "Skill Damage &603_dmg%3&\nRange &603_range%1&",
+  "pt": ""
+ },
+ "prefixDescS603004": {
+  "ch": "此技能威力&603_dmg%4&\n持续时间&603_time%1&秒",
+  "en": "Skill Damage &603_dmg%4&\nDuration &603_time%1&s",
+  "pt": ""
+ },
+ "prefixDescS603005": {
+  "ch": "此技能威力&603_dmg%5&\n持续时间内，每秒的伤害&603_dmgUpRate%1&%",
+  "en": "Skill Damage &603_dmg%5&\nDamage per Second &603_dmgUpRate%1&%",
+  "pt": ""
+ },
+ "prefixDescS603006": {
+  "ch": "此技能在造成伤害时，有&603_blastSwitch%1&%的概率引发一次灵爆（范围&603_blastRange&，威力为此技能的&603_blastDmg&%，每秒最多触发5次）",
+  "en": "&603_blastSwitch%1&% chance to trigger a Blast upon inflicting damage with the skill, dealing damage equal to &603_blastDmg&% of the skill in &603_blastRange& Radius. (Trigger at max 5 times per second)",
+  "pt": ""
+ },
+ "prefixDescS603007": {
+  "ch": "在本场战斗中，每生成过一次灵爆，此技能的威力&603_blastToDmgUp&，直到本场战斗结束",
+  "en": "Every Blast triggered in this battle will grant the skill &603_blastToDmgUp& damage, effective to the end of the battle.",
+  "pt": ""
+ }
+}

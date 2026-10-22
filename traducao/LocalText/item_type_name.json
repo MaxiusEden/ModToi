@@ -1,0 +1,592 @@
+{
+ "item_type_name0": {
+  "ch": "货币资源",
+  "en": "Currency",
+  "pt": ""
+ },
+ "item_type_name1": {
+  "ch": "丹符",
+  "en": "Elixir",
+  "pt": ""
+ },
+ "item_type_name101": {
+  "ch": "丹药",
+  "en": "Elixir",
+  "pt": ""
+ },
+ "item_type_name102": {
+  "ch": "毒丹",
+  "en": "Poison",
+  "pt": ""
+ },
+ "item_type_name103": {
+  "ch": "丹药",
+  "en": "Elixir",
+  "pt": ""
+ },
+ "item_type_name104": {
+  "ch": "丹药",
+  "en": "Elixir",
+  "pt": ""
+ },
+ "item_type_name105": {
+  "ch": "灵果",
+  "en": "Spiritual Fruit",
+  "pt": ""
+ },
+ "item_type_name106": {
+  "ch": "特殊",
+  "en": "Special",
+  "pt": ""
+ },
+ "item_type_name107": {
+  "ch": "萝卜",
+  "en": "Radish",
+  "pt": ""
+ },
+ "item_type_name108": {
+  "ch": "宗门大比道具",
+  "en": "Sect Tournament Item",
+  "pt": ""
+ },
+ "item_type_name109": {
+  "ch": "妖晶",
+  "en": "Demonic Crystal",
+  "pt": ""
+ },
+ "item_type_name110": {
+  "ch": "丹药",
+  "en": "Elixir",
+  "pt": ""
+ },
+ "item_type_name111": {
+  "ch": "符箓",
+  "en": "Charm",
+  "pt": ""
+ },
+ "item_type_name112": {
+  "ch": "符箓",
+  "en": "Charm",
+  "pt": ""
+ },
+ "item_type_name120": {
+  "ch": "丹药",
+  "en": "Elixir",
+  "pt": ""
+ },
+ "item_type_name2": {
+  "ch": "书籍",
+  "en": "Books",
+  "pt": ""
+ },
+ "item_type_name3": {
+  "ch": "装备",
+  "en": "Gear",
+  "pt": ""
+ },
+ "item_type_name301": {
+  "ch": "戒指",
+  "en": "Ring",
+  "pt": ""
+ },
+ "item_type_name302": {
+  "ch": "坐骑",
+  "en": "Mount",
+  "pt": ""
+ },
+ "item_type_name303": {
+  "ch": "法宝",
+  "en": "Artifact",
+  "pt": ""
+ },
+ "item_type_name304": {
+  "ch": "衣服",
+  "en": "Outfit",
+  "pt": ""
+ },
+ "item_type_name4": {
+  "ch": "法宝",
+  "en": "Artifact",
+  "pt": ""
+ },
+ "item_type_name5": {
+  "ch": "材料",
+  "en": "Material",
+  "pt": ""
+ },
+ "item_type_name501": {
+  "ch": "矿材",
+  "en": "Ore",
+  "pt": ""
+ },
+ "item_type_name502": {
+  "ch": "妖兽材料",
+  "en": "Monster Material",
+  "pt": ""
+ },
+ "item_type_name503": {
+  "ch": "药材",
+  "en": "Herb",
+  "pt": ""
+ },
+ "item_type_name504": {
+  "ch": "魂珠",
+  "en": "Soul Orb",
+  "pt": ""
+ },
+ "item_type_name505": {
+  "ch": "气息",
+  "en": "Breath",
+  "pt": ""
+ },
+ "item_type_name506": {
+  "ch": "天元山材料",
+  "en": "Tian Yuan Mountain Material",
+  "pt": ""
+ },
+ "item_type_name507": {
+  "ch": "气息",
+  "en": "Breath",
+  "pt": ""
+ },
+ "item_type_name508": {
+  "ch": "天材地宝",
+  "en": "Heaven and Earth Treasure",
+  "pt": ""
+ },
+ "item_type_name509": {
+  "ch": "道界石",
+  "en": "Tao Gem",
+  "pt": ""
+ },
+ "item_type_name510": {
+  "ch": "真火",
+  "en": "True Fire",
+  "pt": ""
+ },
+ "item_type_name511": {
+  "ch": "制衣材料",
+  "en": "Garment Material",
+  "pt": ""
+ },
+ "item_type_name512": {
+  "ch": "妖兽核心",
+  "en": "Monster Core",
+  "pt": ""
+ },
+ "item_type_name513": {
+  "ch": "淬凝胶",
+  "en": "Tempering Resin",
+  "pt": ""
+ },
+ "item_type_name514": {
+  "ch": "灵植",
+  "en": "Rare Plant",
+  "pt": ""
+ },
+ "item_type_name518": {
+  "ch": "锻尘魄",
+  "en": "Forge Quartz",
+  "pt": ""
+ },
+ "item_type_name520": {
+  "ch": "修复材料",
+  "en": "Repair Material",
+  "pt": ""
+ },
+ "item_type_name521": {
+  "ch": "融合材料",
+  "en": "Combining Material",
+  "pt": ""
+ },
+ "item_type_name522": {
+  "ch": "火焰",
+  "en": "Flame",
+  "pt": ""
+ },
+ "item_type_name524": {
+  "ch": "残器",
+  "en": "Broken Artifact",
+  "pt": ""
+ },
+ "item_type_name525": {
+  "ch": "遗骸",
+  "en": "Remains",
+  "pt": ""
+ },
+ "item_type_name526": {
+  "ch": "矿石",
+  "en": "Ore",
+  "pt": ""
+ },
+ "item_type_name527": {
+  "ch": "玉石",
+  "en": "Gemstone",
+  "pt": ""
+ },
+ "item_type_name528": {
+  "ch": "精华",
+  "en": "Essence",
+  "pt": ""
+ },
+ "item_type_name529": {
+  "ch": "噬魂石",
+  "en": "Soul Devouring Stone",
+  "pt": ""
+ },
+ "item_type_name530": {
+  "ch": "远古物品",
+  "en": "Ancient Artifact",
+  "pt": ""
+ },
+ "item_type_name531": {
+  "ch": "仙露",
+  "en": "Immortal Dew",
+  "pt": ""
+ },
+ "item_type_name532": {
+  "ch": "魂珠",
+  "en": "Soul Orb",
+  "pt": ""
+ },
+ "item_type_name533": {
+  "ch": "尘檀水",
+  "en": "Sandalwood Scent",
+  "pt": ""
+ },
+ "item_type_name534": {
+  "ch": "玄金",
+  "en": "Dark Gold",
+  "pt": ""
+ },
+ "item_type_name535": {
+  "ch": "冥种",
+  "en": "Nether Seed",
+  "pt": ""
+ },
+ "item_type_name536": {
+  "ch": "本源之气",
+  "en": "Essence Air",
+  "pt": ""
+ },
+ "item_type_name6": {
+  "ch": "道具",
+  "en": "Item",
+  "pt": ""
+ },
+ "item_type_name601": {
+  "ch": "种子",
+  "en": "Seed",
+  "pt": ""
+ },
+ "item_type_name602": {
+  "ch": "书",
+  "en": "Book",
+  "pt": ""
+ },
+ "item_type_name603": {
+  "ch": "镖车",
+  "en": "Caravan",
+  "pt": ""
+ },
+ "item_type_name604": {
+  "ch": "酒",
+  "en": "Alcohol",
+  "pt": ""
+ },
+ "item_type_name605": {
+  "ch": "丹方",
+  "en": "Elixir Recipe",
+  "pt": ""
+ },
+ "item_type_name606": {
+  "ch": "丹炉",
+  "en": "Furnace",
+  "pt": ""
+ },
+ "item_type_name607": {
+  "ch": "推荐信",
+  "en": "Recommendation Letter",
+  "pt": ""
+ },
+ "item_type_name608": {
+  "ch": "符箓",
+  "en": "Charm",
+  "pt": ""
+ },
+ "item_type_name609": {
+  "ch": "书籍",
+  "en": "Books",
+  "pt": ""
+ },
+ "item_type_name610": {
+  "ch": "饰品",
+  "en": "Accessory",
+  "pt": ""
+ },
+ "item_type_name611": {
+  "ch": "传送符",
+  "en": "Teleportation Charm",
+  "pt": ""
+ },
+ "item_type_name612": {
+  "ch": "仙材",
+  "en": "Divine Material",
+  "pt": ""
+ },
+ "item_type_name613": {
+  "ch": "妖兽材料",
+  "en": "Monster Material",
+  "pt": ""
+ },
+ "item_type_name614": {
+  "ch": "风水书",
+  "en": "Feng Shui Book",
+  "pt": ""
+ },
+ "item_type_name615": {
+  "ch": "药谱",
+  "en": "Prescription",
+  "pt": ""
+ },
+ "item_type_name616": {
+  "ch": "通论道典",
+  "en": "Textbook",
+  "pt": ""
+ },
+ "item_type_name617": {
+  "ch": "鉴识书",
+  "en": "Identification Manual",
+  "pt": ""
+ },
+ "item_type_name618": {
+  "ch": "图谱",
+  "en": "Chart",
+  "pt": ""
+ },
+ "item_type_name624": {
+  "ch": "戒指",
+  "en": "Ring",
+  "pt": ""
+ },
+ "item_type_name625": {
+  "ch": "符篆",
+  "en": "Charm",
+  "pt": ""
+ },
+ "item_type_name626": {
+  "ch": "灯盏",
+  "en": "Lamp",
+  "pt": ""
+ },
+ "item_type_name627": {
+  "ch": "护身符",
+  "en": "Amulet",
+  "pt": ""
+ },
+ "item_type_name628": {
+  "ch": "灵宠",
+  "en": "Spiritual Pet",
+  "pt": ""
+ },
+ "item_type_name629": {
+  "ch": "道心果",
+  "en": "Skill Fruit",
+  "pt": ""
+ },
+ "item_type_name630": {
+  "ch": "五岳真形图",
+  "en": "Mythical Beast Map",
+  "pt": ""
+ },
+ "item_type_name631": {
+  "ch": "秘法",
+  "en": "Secret Technique",
+  "pt": ""
+ },
+ "item_type_name632": {
+  "ch": "图纸",
+  "en": "Map",
+  "pt": ""
+ },
+ "item_type_name633": {
+  "ch": "符箓",
+  "en": "Charm",
+  "pt": ""
+ },
+ "item_type_name634": {
+  "ch": "杂粮",
+  "en": "Food",
+  "pt": ""
+ },
+ "item_type_name635": {
+  "ch": "秘法",
+  "en": "Secret Technique",
+  "pt": ""
+ },
+ "item_type_name636": {
+  "ch": "灵物",
+  "en": "Spiritual Item",
+  "pt": ""
+ },
+ "item_type_name637": {
+  "ch": "秘宝",
+  "en": "Treasure",
+  "pt": ""
+ },
+ "item_type_name638": {
+  "ch": "记忆",
+  "en": "Memory",
+  "pt": ""
+ },
+ "item_type_name639": {
+  "ch": "书信",
+  "en": "Letter",
+  "pt": ""
+ },
+ "item_type_name643": {
+  "ch": "绳结",
+  "en": "Knot",
+  "pt": ""
+ },
+ "item_type_name644": {
+  "ch": "宝箱",
+  "en": "Treasure",
+  "pt": ""
+ },
+ "item_type_name645": {
+  "ch": "定岳旗",
+  "en": "Relocation Flag",
+  "pt": ""
+ },
+ "item_type_name646": {
+  "ch": "灵签",
+  "en": "Fortune Stick",
+  "pt": ""
+ },
+ "item_type_name647": {
+  "ch": "？？？",
+  "en": "???",
+  "pt": ""
+ },
+ "item_type_name648": {
+  "ch": "诡异果实",
+  "en": "Mysterious Fruit",
+  "pt": ""
+ },
+ "item_type_name649": {
+  "ch": "神秘来信",
+  "en": "Mysterious Letter",
+  "pt": ""
+ },
+ "item_type_name651": {
+  "ch": "灵物",
+  "en": "Spiritual Item",
+  "pt": ""
+ },
+ "item_type_name652": {
+  "ch": "残页",
+  "en": "Remaining Pages",
+  "pt": ""
+ },
+ "item_type_name654": {
+  "ch": "仙物",
+  "en": "Heavenly",
+  "pt": ""
+ },
+ "item_type_name655": {
+  "ch": "香木",
+  "en": "Incense Wood",
+  "pt": ""
+ },
+ "item_type_name656": {
+  "ch": "仙祠物品",
+  "en": "Shrine Item",
+  "pt": ""
+ },
+ "item_type_name657": {
+  "ch": "风水物品",
+  "en": "Feng Shui Items",
+  "pt": ""
+ },
+ "item_type_name658": {
+  "ch": "画符图谱",
+  "en": "Talismans Chart",
+  "pt": ""
+ },
+ "item_type_name659": {
+  "ch": "灵物",
+  "en": "Spiritual Item",
+  "pt": ""
+ },
+ "item_type_name660": {
+  "ch": "噬魂剑",
+  "en": "Soul Reaver",
+  "pt": ""
+ },
+ "item_type_name663": {
+  "ch": "阴阳珠",
+  "en": "Yin Yang Orb",
+  "pt": ""
+ },
+ "item_type_name664": {
+  "ch": "噬魂魔晶",
+  "en": "0",
+  "pt": ""
+ },
+ "item_type_name7": {
+  "ch": "特殊",
+  "en": "Special",
+  "pt": ""
+ },
+ "item_type_name701": {
+  "ch": "石器",
+  "en": "Stoneware",
+  "pt": ""
+ },
+ "item_type_name702": {
+  "ch": "玉器",
+  "en": "Jadeware",
+  "pt": ""
+ },
+ "item_type_name703": {
+  "ch": "琴",
+  "en": "Guqin",
+  "pt": ""
+ },
+ "item_type_name704": {
+  "ch": "笛",
+  "en": "Flute",
+  "pt": ""
+ },
+ "item_type_name705": {
+  "ch": "箫",
+  "en": "Xiao",
+  "pt": ""
+ },
+ "item_type_name706": {
+  "ch": "钟",
+  "en": "Bianzhong",
+  "pt": ""
+ },
+ "item_type_name707": {
+  "ch": "饰品",
+  "en": "Accessory",
+  "pt": ""
+ },
+ "item_type_name708": {
+  "ch": "陶器",
+  "en": "Pottery",
+  "pt": ""
+ },
+ "item_type_name709": {
+  "ch": "图册",
+  "en": "Illustrated Books",
+  "pt": ""
+ },
+ "item_type_name710": {
+  "ch": "骨器",
+  "en": "Boneware",
+  "pt": ""
+ }
+}

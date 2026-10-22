@@ -1,0 +1,3442 @@
+{
+ "taskDesc101001": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101002": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101011": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101012": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101013": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101014": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101015": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101016": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101021": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101022": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101023": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101031": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101032": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101033": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101034": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101041": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101042": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101043": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101044": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101051": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101052": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc101053": {
+  "ch": "收集{number}个{item}。",
+  "en": "Collect {item} x{number}",
+  "pt": ""
+ },
+ "taskDesc102001": {
+  "ch": "使用宗门提供的素材{costItem}，炼制一炉丹药，并将炼成的丹药上交给宗门，若炼制失败则此任务失败。",
+  "en": "Use the material ({costItem}) provided by your sect to concoct Elixirs, then submit them to your sect. If the concoction fails, this mission will fail.",
+  "pt": ""
+ },
+ "taskDesc103001": {
+  "ch": "清理一个宗门领地内的怪物。",
+  "en": "Eliminate monsters from the sect territory.",
+  "pt": ""
+ },
+ "taskDesc103002": {
+  "ch": "清理一个宗门领地内发生叛乱的格子。",
+  "en": "Pacify a rebellion in a space within the sect territory.",
+  "pt": ""
+ },
+ "taskDesc103101": {
+  "ch": "清理{dungeonCenter}附近8格内的一个怪物。",
+  "en": "Kill a monster within 8 spaces of {dungeonCenter}.",
+  "pt": ""
+ },
+ "taskDesc103102": {
+  "ch": "清理{dungeonCenter}附近8格内的一个怪物。",
+  "en": "Kill a monster within 8 spaces of {dungeonCenter}.",
+  "pt": ""
+ },
+ "taskDesc103103": {
+  "ch": "清理{dungeonCenter}附近8格内的一个怪物。",
+  "en": "Kill a monster within 8 spaces of {dungeonCenter}.",
+  "pt": ""
+ },
+ "taskDesc103104": {
+  "ch": "清理{dungeonCenter}附近8格内的一个怪物。",
+  "en": "Kill a monster within 8 spaces of {dungeonCenter}.",
+  "pt": ""
+ },
+ "taskDesc103105": {
+  "ch": "清理{dungeonCenter}附近8格内的一个怪物。",
+  "en": "Kill a monster within 8 spaces of {dungeonCenter}.",
+  "pt": ""
+ },
+ "taskDesc104001": {
+  "ch": "驻守宗门内的领地，累计提升{requireNumber}安定度。",
+  "en": "Garrison the sect territory and increase Stability by {requireNumber}.",
+  "pt": ""
+ },
+ "taskDesc105001": {
+  "ch": "将宗门货物{item}运送至{destination}处。运送货物过程中无法使用任何传送效果。",
+  "en": "Deliver {item} to {destination}. Teleportation will be disabled during this mission.",
+  "pt": ""
+ },
+ "taskDesc106001": {
+  "ch": "为宗门扩张一格领地，扩张的领地需要紧邻当前领地，并且距离宗门不能超过宗门的最大领地范围。扩张领地会受到格子内的怪物的强烈抵抗，副本难度较大。",
+  "en": "Expand your sect territory by 1 space. This new space must be adjacent to the current sect territory and within the max territory boundaries. Monsters inside this space will fight back. Be prepared!",
+  "pt": ""
+ },
+ "taskDesc107001": {
+  "ch": "寻找一名境界不低于自身的敌道弟子，并将其击败，以证本宗之威，提升宗门的名誉。",
+  "en": "Find a Cultivator of the same or a higher Realm that's from an enemy sect. Defeat this Cultivator to increase your sect's Prestige.",
+  "pt": ""
+ },
+ "taskDesc108001": {
+  "ch": "近日在宗门附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near your sect. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108002": {
+  "ch": "在宗门附近出现了叛乱的妖兽，消灭此妖兽，避免其伤害附近的同门。",
+  "en": "A rebellious monster has appeared near your sect. Kill the monster to prevent it from hurting your sect members.",
+  "pt": ""
+ },
+ "taskDesc108101": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108102": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108103": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108104": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108105": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108106": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108107": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108108": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108109": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108110": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108111": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108112": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108113": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108114": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108115": {
+  "ch": "近日在{dungeonPos}附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。",
+  "en": "A Mythical Beast has appeared near {dungeonPos}. Kill the Mythical Beast to prevent it from hurting innocent people.",
+  "pt": ""
+ },
+ "taskDesc108201": {
+  "ch": "{dungeonPos}附近有一名修仙者因修炼邪术走火入魔，将其铲除，以免无辜之人遭到祸害。",
+  "en": "There's a Qi Deviated Cultivator near {dungeonPos}. Kill this Cultivator to protect others.",
+  "pt": ""
+ },
+ "taskDesc108202": {
+  "ch": "{dungeonPos}附近有一名修仙者因修炼邪术走火入魔，将其铲除，以免无辜之人遭到祸害。",
+  "en": "There's a Qi Deviated Cultivator near {dungeonPos}. Kill this Cultivator to protect others.",
+  "pt": ""
+ },
+ "taskDesc108203": {
+  "ch": "{dungeonPos}附近有一名修仙者因修炼邪术走火入魔，将其铲除，以免无辜之人遭到祸害。",
+  "en": "There's a Qi Deviated Cultivator near {dungeonPos}. Kill this Cultivator to protect others.",
+  "pt": ""
+ },
+ "taskDesc108204": {
+  "ch": "{dungeonPos}附近有一名修仙者因修炼邪术走火入魔，将其铲除，以免无辜之人遭到祸害。",
+  "en": "There's a Qi Deviated Cultivator near {dungeonPos}. Kill this Cultivator to protect others.",
+  "pt": ""
+ },
+ "taskDesc108205": {
+  "ch": "{dungeonPos}附近有一名修仙者因修炼邪术走火入魔，将其铲除，以免无辜之人遭到祸害。",
+  "en": "There's a Qi Deviated Cultivator near {dungeonPos}. Kill this Cultivator to protect others.",
+  "pt": ""
+ },
+ "taskDesc110001": {
+  "ch": "收集20个{#item_name5021032}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021032} x20 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110002": {
+  "ch": "收集5个{#item_name5021124}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021124} x5 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110003": {
+  "ch": "收集20个{#item_name5021144}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021144} x20 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110004": {
+  "ch": "收集20个{#item_name5021294}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021294} x20 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110005": {
+  "ch": "收集20个{#item_name5021486}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021486} x20 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110006": {
+  "ch": "收集40个{#item_name5021134}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021134} x40 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110007": {
+  "ch": "收集40个{#item_name5021534}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021534} x40 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110008": {
+  "ch": "收集80个{#item_name5021274}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021274} x80 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110009": {
+  "ch": "收集60个{#item_name5021284}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021284} x60 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110010": {
+  "ch": "收集60个{#item_name5021506}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021506} x60 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110011": {
+  "ch": "收集5个{#item_name5021264}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021264} x5 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110012": {
+  "ch": "收集25个{#item_name5021254}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021254} x25 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110013": {
+  "ch": "收集50个{#item_name5021204}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021204} x50 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110014": {
+  "ch": "收集25个{#item_name5021244}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021244} x25 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110015": {
+  "ch": "收集25个{#item_name5021314}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021314} x25 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110016": {
+  "ch": "收集60个{#item_name5021184}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021184} x60 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110017": {
+  "ch": "收集30个{#item_name5021194}送给老人重筑阵法。",
+  "en": "Collect {#item_name5021194} x30 for the old man to rebuild the array",
+  "pt": ""
+ },
+ "taskDesc110018": {
+  "ch": "神秘男子让你帮忙击杀一个人，但他既未告诉你击杀何人，他自己也不知道对方所在何处…",
+  "en": "The mysterious man asks for your help in killing a person. He has yet to tell you who it is that needs to be killed, and even he himself does not know where that person is...",
+  "pt": ""
+ },
+ "taskDesc110019": {
+  "ch": "寻得《问心》并带给愿知。",
+  "en": "Find Ask Thy Heart and give it to Yuanzhi",
+  "pt": ""
+ },
+ "taskDesc110020": {
+  "ch": "将《问心》交给愿知。",
+  "en": "Give Ask Thy Heart to Yuanzhi。",
+  "pt": ""
+ },
+ "taskDesc110021": {
+  "ch": "在宗门的{#schoolBuildingName1102}化灵获得任意一种灵果",
+  "en": "Obtain any type of Spiritual Fruit at the Sect's {#schoolBuildingName1102}",
+  "pt": ""
+ },
+ "taskDesc110031": {
+  "ch": "按照李四的话语，前往指定区域进行堪舆，寻找能使你在登仙天劫中存活下来的蜃灵珠。",
+  "en": "Follow Jo's words, go near the mentioned location, and use geomancy to locate the Mirage Qi Orb that can help you survive the Transcendent Trial.",
+  "pt": ""
+ },
+ "taskDesc110032": {
+  "ch": "按照李四的话语，在八荒中寻找灵气旺盛之地使用堪舆找到最终面对天劫、突破登仙的地方！（可寻找各灵气旺盛之处尝试）",
+  "en": "Follow Jo's words, and use geomancy in places brimmed with Qi to locate the site to endure the trial and break through to Transcendent Realm! (You could try to find it in locations with dense Qi)",
+  "pt": ""
+ },
+ "taskDesc110033": {
+  "ch": "按照李四的话语，前往指定区域进行堪舆，寻找能使你在登仙天劫中存活下来的蜃灵珠。",
+  "en": "Follow Jo's words, go near the mentioned location, and use geomancy to locate the Mirage Qi Orb that can help you survive the Transcendent Trial.",
+  "pt": ""
+ },
+ "taskDesc110034": {
+  "ch": "一位美丽的凡人姑娘想走上修仙之路，但奈何寻不到灵石。送她一些灵石。",
+  "en": "A beautiful mortal girl wants to be a cultivator, but she can't get any Spirit Stones. Give some to her.",
+  "pt": ""
+ },
+ "taskDesc1101003": {
+  "ch": "寻找{item}，并将其送到太行山中给武罗。",
+  "en": "Find {item}, then go to Taihang Mountains and deliver it to Jagu.",
+  "pt": ""
+ },
+ "taskDesc1101004": {
+  "ch": "前往云陌州拍卖会取得冰铅转交给霜凌。",
+  "en": "Acquire Frost Lead at the Yun Mo Auction and deliver it to Shuang Ling.",
+  "pt": ""
+ },
+ "taskDesc1108116": {
+  "ch": "前往{dungeonID}消灭{dungeonBoss}，取其魂珠。",
+  "en": "Go to {dungeonID}. Kill {dungeonBoss} to get its Soul Orb.",
+  "pt": ""
+ },
+ "taskDesc1109001": {
+  "ch": "前往擎天寨，寻找蔡家女子。",
+  "en": "Go to Qingtian Fort and find Lady Cai.",
+  "pt": ""
+ },
+ "taskDesc1110001": {
+  "ch": "前往{destination}的酒馆中打听消息。",
+  "en": "Go to the Tavern in {destination} and ask for information.",
+  "pt": ""
+ },
+ "taskDesc1110002": {
+  "ch": "前往{destination}，寻找前往外界的方法。",
+  "en": "Go to {destination}. Fina a way to travel to the outside world.",
+  "pt": ""
+ },
+ "taskDesc1110003": {
+  "ch": "向村民询问愚村中的情况。",
+  "en": "Ask the villagers about the situation in Yukong Village.",
+  "pt": ""
+ },
+ "taskDesc1110004": {
+  "ch": "前往太行山中，调查村民口中的妖怪。",
+  "en": "Go to Taihang Mountains and investigate the monster the villagers mentioned.",
+  "pt": ""
+ },
+ "taskDesc1110005": {
+  "ch": "重新回到太行山，挑战武罗。",
+  "en": "Return to Taihang Mountains and challenge Jagu.",
+  "pt": ""
+ },
+ "taskDesc1110006": {
+  "ch": "0",
+  "en": "0",
+  "pt": ""
+ },
+ "taskDesc1110007": {
+  "ch": "取到树妖魂珠后，将其拿到太行山给武罗。",
+  "en": "Obtain Evergreen's Soul Orb, then go to Taihang Mountains and give it to Jagu.",
+  "pt": ""
+ },
+ "taskDesc1110008": {
+  "ch": "向酒馆老板打听天元山的消息。",
+  "en": "Ask the Tavern owner about Tian Yuan Mountain.",
+  "pt": ""
+ },
+ "taskDesc1110009": {
+  "ch": "前往{destination}，寻找山贼二当家的母亲。",
+  "en": "Go to {destination} and find Bandit Deputy's mother.",
+  "pt": ""
+ },
+ "taskDesc111001": {
+  "ch": "通过图中所记载的位置，便能寻找到走火入魔修仙者的位置附近，在附近使用堪舆便能发现走火入魔修仙者的藏身点。击杀走火入魔的修仙者。",
+  "en": "Go to the location marked on the map, then perform Geomancy to pinpoint the hideout of the Qi Deviated Cultivator. Kill the Qi Deviated Cultivator.",
+  "pt": ""
+ },
+ "taskDesc1110010": {
+  "ch": "前往{destination}，寻找蔡家女子。",
+  "en": "Go to {destination} and find Lady Cai.",
+  "pt": ""
+ },
+ "taskDesc1110011": {
+  "ch": "回到{destination}，找神秘老人交差。",
+  "en": "Report back to the Mysterious Old Man in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110012": {
+  "ch": "前往{destination}附近，寻找三足乌的踪迹。",
+  "en": "Go to {destination} and find Three-legged Crows.",
+  "pt": ""
+ },
+ "taskDesc1110013": {
+  "ch": "前往{destination}，与后羿进行交谈。",
+  "en": "Go to {destination} and talk to Hou Yi.",
+  "pt": ""
+ },
+ "taskDesc1110014": {
+  "ch": "前往{destination}，寻找传说中的扶桑树。十万大山危机四伏，建议在拥有结晶境的实力后再去寻找扶桑树。",
+  "en": "Go to {destination} and find the legendary Divine Mulberry. Hundred Thousand Hills is a dangerous place, so make sure that you reach Qi Condensation before going.",
+  "pt": ""
+ },
+ "taskDesc1110015": {
+  "ch": "前往{destination}，寻找传说中的昆仑仙池。",
+  "en": "Go to {destination} and find the legendary Kunlun Pond.",
+  "pt": ""
+ },
+ "taskDesc1110016": {
+  "ch": "回到{destination}，找守护者交差。",
+  "en": "Report back to the Guardian in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110017": {
+  "ch": "前往{destination}，寻找人面鸮之王。",
+  "en": "Go to {destination} and find the Harpy Lord.",
+  "pt": ""
+ },
+ "taskDesc1110018": {
+  "ch": "回到{destination}，与后羿会合。",
+  "en": "Reconvene with Hou Yi in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110019": {
+  "ch": "前往{destination}附近，将最后的三足乌赶出八荒世界。",
+  "en": "Go to {destination} and drive away the remaining Three-legged Crows.",
+  "pt": ""
+ },
+ "taskDesc1110020": {
+  "ch": "前往{destination}，从扶桑树守护者处抢夺扶桑树枝。",
+  "en": "Go to {destination} and get the Mulberry Branch from the Guardian.",
+  "pt": ""
+ },
+ "taskDesc1110021": {
+  "ch": "回到{destination}，与后羿会合。",
+  "en": "Reconvene with Hou Yi in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110022": {
+  "ch": "前往{destination}，寻找人面鸮之王。",
+  "en": "Go to {destination} and find the Harpy Lord.",
+  "pt": ""
+ },
+ "taskDesc1110023": {
+  "ch": "回到{destination}，将金羽交给后羿。",
+  "en": "Return to {destination} and give the Golden Feather to Hou Yi.",
+  "pt": ""
+ },
+ "taskDesc1110024": {
+  "ch": "前往{destination}附近，将最后的三足乌赶出八荒世界。",
+  "en": "Go to {destination} and drive away the remaining Three-legged Crows.",
+  "pt": ""
+ },
+ "taskDesc1110031": {
+  "ch": "前往{destination}附近，寻找三足乌的踪迹。",
+  "en": "Go to {destination} and find Three-legged Crows.",
+  "pt": ""
+ },
+ "taskDesc1110032": {
+  "ch": "前往{destination}，与后羿进行交谈。",
+  "en": "Go to {destination} and talk to Hou Yi.",
+  "pt": ""
+ },
+ "taskDesc1110033": {
+  "ch": "前往{destination}，寻找人面鸮之王。",
+  "en": "Go to {destination} and find the Harpy Lord.",
+  "pt": ""
+ },
+ "taskDesc1110034": {
+  "ch": "前往{destination}，寻找传说中的扶桑树。十万大山危机四伏，建议在拥有结晶境的实力后再去寻找扶桑树。",
+  "en": "Go to {destination} and find the legendary Divine Mulberry. Hundred Thousand Hills is a dangerous place, so make sure that you reach Qi Condensation before going.",
+  "pt": ""
+ },
+ "taskDesc1110035": {
+  "ch": "前往{destination}，寻找传说中的昆仑仙池。",
+  "en": "Go to {destination} and find the legendary Kunlun Pond.",
+  "pt": ""
+ },
+ "taskDesc1110036": {
+  "ch": "回到{destination}，找守护者交差。",
+  "en": "Report back to the Guardian in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110037": {
+  "ch": "前往{destination}，从扶桑树守护者处抢夺扶桑树枝。",
+  "en": "Go to {destination} and get the Mulberry Branch from the Guardian.",
+  "pt": ""
+ },
+ "taskDesc1110038": {
+  "ch": "回到{destination}，与后羿会合。",
+  "en": "Reconvene with Hou Yi in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110039": {
+  "ch": "前往{destination}附近，将最后的三足乌赶出八荒世界。",
+  "en": "Go to {destination} and drive away the remaining Three-legged Crows.",
+  "pt": ""
+ },
+ "taskDesc1110040": {
+  "ch": "回到{destination}，与后羿会合。",
+  "en": "Reconvene with Hou Yi in {destination}.",
+  "pt": ""
+ },
+ "taskDesc1110041": {
+  "ch": "回到{destination}，阻止陌生男子。",
+  "en": "Return to {destination} and stop the stanger.",
+  "pt": ""
+ },
+ "taskDesc1110042": {
+  "ch": "回到{centerName}，看看到底发生了什么事。",
+  "en": "Return to {centerName} and find out what's going on.",
+  "pt": ""
+ },
+ "taskDesc1110043": {
+  "ch": "回到{centerName}的建木中，看看到底发生了什么事。",
+  "en": "Return to the Tree Vault in {centerName} and find out what's going on.",
+  "pt": ""
+ },
+ "taskDesc1110044": {
+  "ch": "前往寂静海域附近，寻找传闻中神秘的身影。",
+  "en": "Go to Silent Sea and find the mysterious shadow.",
+  "pt": ""
+ },
+ "taskDesc1110045": {
+  "ch": "在华封州中打听息壤的消息。",
+  "en": "Ask about Xirang in Hua Feng.",
+  "pt": ""
+ },
+ "taskDesc1110046": {
+  "ch": "与双仪村中的村民交谈，向他们打听息壤的情报。",
+  "en": "Ask the villagers in Duality Village about Xirang.",
+  "pt": ""
+ },
+ "taskDesc1110047": {
+  "ch": "在双仪村附近寻找毕方，与之交谈。",
+  "en": "Talk to Bi Fang near Duality Village.",
+  "pt": ""
+ },
+ "taskDesc1110048": {
+  "ch": "成功消灭了血魔，回去告诉毕方。",
+  "en": "Report back to Bi Fang after killing the Blood Lord.",
+  "pt": ""
+ },
+ "taskDesc1110049": {
+  "ch": "毕方不愿意将息壤交给你，尝试着从它手中将息壤抢过来吧！",
+  "en": "Bi Fang refuses to give you Xirang. Take Xirang from him!",
+  "pt": ""
+ },
+ "taskDesc1110050": {
+  "ch": "成功获得了息壤！女孩曾经说过，有了息壤她便能填平寂静海域，回去问问她有什么办法吧！",
+  "en": "You've finally obtained Xirang. The girl said she could fill out Silent Sea with Xirang. Return to her.",
+  "pt": ""
+ },
+ "taskDesc1110051": {
+  "ch": "暴怒的何罗鱼气势汹汹的袭来，必须要想办法阻止它伤害女孩。",
+  "en": "The raging Leviathan attacks. Stop it from hurting the girl.",
+  "pt": ""
+ },
+ "taskDesc1110052": {
+  "ch": "进入山洞中，寻找妖气的源头。",
+  "en": "Enter the cave and find the source of the demonic aura.",
+  "pt": ""
+ },
+ "taskDesc1110053": {
+  "ch": "跟随村民前往双仪村中查看情况。",
+  "en": "Follow the villager to Duality Village.",
+  "pt": ""
+ },
+ "taskDesc1110061": {
+  "ch": "阻止正道修仙者，救下陌生的女孩。",
+  "en": "Rescue the girl from the righteous Cultivators.",
+  "pt": ""
+ },
+ "taskDesc1110062": {
+  "ch": "为了不让其他正道修仙者对女孩不利，将她送回云陌州的西南方吧。",
+  "en": "Escort the girl back to the southeast of Yun Mo.",
+  "pt": ""
+ },
+ "taskDesc1110063": {
+  "ch": "前往永恒冰原，寻找风允婼的踪迹。",
+  "en": "Go to Everfrost and find Feng Yunchuo.",
+  "pt": ""
+ },
+ "taskDesc1110064": {
+  "ch": "与风允婼一同将火种送回到部落中。",
+  "en": "Bring the seed of the Holy Flame to the tribe together with Feng Yunchuo.",
+  "pt": ""
+ },
+ "taskDesc1110065": {
+  "ch": "离开这个氏族的部落。",
+  "en": "Leave the tribe.",
+  "pt": ""
+ },
+ "taskDesc1110066": {
+  "ch": "为了追求更高的境界，尽快前往暮仙州吧。",
+  "en": "To reach a higher Realm, go to Mu Xian as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc1110067": {
+  "ch": "去寻找那个想要追逐太阳的巨人，看看他是否需要帮助。",
+  "en": "Find the giant who wants to chase the sun and see if he needs any help.",
+  "pt": ""
+ },
+ "taskDesc1110068": {
+  "ch": "阿夸每个月都会损失大量的体力，帮助他维持身体状况。\n和阿夸对话，就可以帮助阿夸收集灵果。将灵果赠送给阿夸，就可以帮助阿夸恢复状态。\n可以与阿夸进行对话，查看到阿夸当前的状态。",
+  "en": "Agar loses a large amount of Vitality every month. Help him out.\nTalk to Agar, then you can help him collect Spiritual Fruit. Give Spiritual Fruit to Agar so he can recover his status.\nTalk to Agar, then you can check his current status.",
+  "pt": ""
+ },
+ "taskDesc1110069": {
+  "ch": "阿夸似乎与别人起了争执，去看看情况。",
+  "en": "Agar is arguing with someone. Check up on him.",
+  "pt": ""
+ },
+ "taskDesc1110070": {
+  "ch": "去寻找阿夸，看看他遇到了什么困难。",
+  "en": "Find Agar and see what he needs.",
+  "pt": ""
+ },
+ "taskDesc1110071": {
+  "ch": "帮助阿夸将这片区域中的旱魃驱逐。",
+  "en": "Drive away the Drought Demon from this area.",
+  "pt": ""
+ },
+ "taskDesc1110072": {
+  "ch": "帮助魃取来乌风草。\n据说乌风草会在{#areaName8}中的拍卖会上出现。\n拍卖会每隔2年举办一次。",
+  "en": "Get Darkwind Grass for the Drought Demon.\nDarkwind Grass is auctioned off in {#areaName8}.\nThe auction there happens every 2 years.",
+  "pt": ""
+ },
+ "taskDesc1110101": {
+  "ch": "魂灯里传出奇怪的声音，你打算去宗门里问问同门。",
+  "en": "A strange sound comes out of the lamp. You decide to ask your sect members about it.",
+  "pt": ""
+ },
+ "taskDesc1110102": {
+  "ch": "受冤魂所托前往魔宗。",
+  "en": "Head to the Demonic Sect per the wronged ghost's request.",
+  "pt": ""
+ },
+ "taskDesc1110103": {
+  "ch": "将背囊交给鬼魂商人。",
+  "en": "Give the knapsack to the ghost merchant.",
+  "pt": ""
+ },
+ "taskDesc1110104": {
+  "ch": "前往秘宝地图标示的位置。",
+  "en": "Go to the location marked on the map.",
+  "pt": ""
+ },
+ "taskDesc1110105": {
+  "ch": "给少女带一坛米酒化解心中寒气。",
+  "en": "Bring a bottle of rice wine to dispel the cold for the girl.",
+  "pt": ""
+ },
+ "taskDesc1110106": {
+  "ch": "送给少女三本火属性功法秘籍。",
+  "en": "Give the girl 3 fire manuals",
+  "pt": ""
+ },
+ "taskDesc1111001": {
+  "ch": "回到{destination}中，前往客栈恢复自身状态。",
+  "en": "Return to the Inn in {destination} and recover your status.",
+  "pt": ""
+ },
+ "taskDesc1111002": {
+  "ch": "在大地图中寻找一处灵气充沛之地，提升自己的修为，突破当前境界。\n当修为达到了瓶颈后，可以服用<g>聚气丸</g>来突破瓶颈。<g>聚气丸</g>可以在城镇中的坊市中购买获得。",
+  "en": "Find a location with Abundant Qi on the world map. Cultivate there to increase your EXP and break through your current Realm.\nUse <g>Qi Refining Pills I</g> for Breakthrough.<g>Qi Refining Pills I</g> can be purchased at the Market in various towns.",
+  "pt": ""
+ },
+ "taskDesc1111003": {
+  "ch": "前往{destination}中的酒馆，打听消息。",
+  "en": "Go to the Tavern in {destination} and ask for information.",
+  "pt": ""
+ },
+ "taskDesc1111004": {
+  "ch": "前往{destination}中的酒馆，打听消息。",
+  "en": "Go to the Tavern in {destination} and ask for information.",
+  "pt": ""
+ },
+ "taskDesc1111005": {
+  "ch": "将境界提升至<g>筑基境</g>。\n筑基方式有以下三种\n<g>●</g>天道筑基：\n需要集齐{itemLink5031726}、{itemLink5031736}、{itemLink5031746}、{itemLink5031756}、{itemLink5031766}、{itemLink5031776}，并辅以<g>3</g>种<g>天材地宝</g>，方可进行天道筑基。\n<g>●</g>地道筑基：\n集齐{itemLink5031726}、{itemLink5031736}、{itemLink5031746}、{itemLink5031756}、{itemLink5031766}、{itemLink5031776}中的任意3个，并辅以<g>2</g>种<g>天材地宝</g>即可进行地道筑基。\n<g>●</g>人道筑基：\n使用{itemLink1011461}或更高品的筑基丹，并辅以<g>1</g>种<g>天材地宝</g>即可进行人道筑基。\n\n突破时辅以<g>天材地宝</g>可<y>大幅提升</y>突破后的属性，筑基可用的<g>天材地宝</g>如下：\n<g>●</g>{itemLink5081015}\n<g>●</g>{itemLink5081025}\n<g>●</g>{itemLink5081035}\n<g>●</g>{itemLink5081045}\n<g>●</g>{itemLink5081055}\n<g>●</g>{itemLink5081065}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Foundation</g>.\nThree ways to reach Foundation:\n<g>●</g>Foundation - Heaven:\nRequired materials: {itemLink5031726}, {itemLink5031736}, {itemLink5031746}, {itemLink5031756}, {itemLink5031766}, {itemLink5031776}, and <g>3</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>Foundation - Earth:\nRequired materials: Any 3 of {itemLink5031726}, {itemLink5031736}, {itemLink5031746}, {itemLink5031756}, {itemLink5031766}, {itemLink5031776}, as well as <g>2</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>Foundation - Mortal:\nRequired materials: {itemLink1011461} or a Foundation Elixir (Mortal) of a higher rarity, as well as <g>1</g> type of <g>Heaven and Earth Treasure</g>.\n\n<g>Heaven and Earth Treasure</g> <y>greatly increases</y> your stats after a Breakthrough. The <g>Heaven and Earth Treasure</g> available for the Foundation Realm:\n<g>●</g>{itemLink5081015}\n<g>●</g>{itemLink5081025}\n<g>●</g>{itemLink5081035}\n<g>●</g>{itemLink5081045}\n<g>●</g>{itemLink5081055}\n<g>●</g>{itemLink5081065}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111006": {
+  "ch": "将境界提升至<g>结晶境</g>。\n<g>●</g>结晶：\n使用{itemLink1011471}或更高品的化晶丹，并辅以<g>4</g>种<g>天材地宝</g>方可进行结晶。\n\n突破时辅以<g>天材地宝</g>可<y>大幅提升</y>突破后的属性，结晶可用的<g>天材地宝</g>如下：\n<g>●</g>{itemLink5081075}\n<g>●</g>{itemLink5081085}\n<g>●</g>{itemLink5081095}\n<g>●</g>{itemLink5081105}\n<g>●</g>{itemLink5081115}\n<g>●</g>{itemLink5081125}\n<g>●</g>{itemLink5081135}\n<g>●</g>{itemLink5081145}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Qi Condensation</g>.\n<g>●</g>Qi Condensation:\nRequired materials: {itemLink1011471} or a Qi Condensation Elixir of a higher rarity, as well as <g>4</g> types of <g>Heaven and Earth Treasure</g>.\n\n<g>Heaven and Earth Treasure</g> <y>greatly increases</y> your stats after a Breakthrough. The <g>Heaven and Earth Treasure</g> available for the Qi Condensation Realm:\n<g>●</g>{itemLink5081075}\n<g>●</g>{itemLink5081085}\n<g>●</g>{itemLink5081095}\n<g>●</g>{itemLink5081105}\n<g>●</g>{itemLink5081115}\n<g>●</g>{itemLink5081125}\n<g>●</g>{itemLink5081135}\n<g>●</g>{itemLink5081145}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111007": {
+  "ch": "将境界提升至<g>金丹境</g>。\n结成金丹方式有以下五种\n<g>●</g>一品金丹：\n需要集齐{itemLink5031786}、{itemLink5031796}、{itemLink5031806}、{itemLink5031816}、{itemLink5031826}、{itemLink5031836}，并辅以<g>5</g>种<g>天材地宝</g>，方可结成一品金丹。\n<g>●</g>二品金丹：\n集齐{itemLink5031786}、{itemLink5031796}、{itemLink5031806}、{itemLink5031816}、{itemLink5031826}、{itemLink5031836}中的任意3个，并辅以<g>4</g>种<g>天材地宝</g>，可结成二品金丹。\n<g>●</g>三品金丹：\n集齐{itemLink5031786}、{itemLink5031796}、{itemLink5031806}、{itemLink5031816}、{itemLink5031826}、{itemLink5031836}中的任意1个，并辅以<g>3</g>种<g>天材地宝</g>，即可结成三品金丹。\n<g>●</g>四品金丹：\n使用{itemLink1011531}或更高品的云中丹，并辅以<g>2</g>种<g>天材地宝</g>，即可结成四品金丹。\n<g>●</g>五品金丹：\n使用{itemLink1011531}或更高品的三花丹，并辅以<g>1</g>种<g>天材地宝</g>，即可结成五品金丹。\n\n突破时辅以<g>天材地宝</g>可<y>大幅提升</y>突破后的属性，结成金丹可用的<g>天材地宝</g>如下：\n<g>●</g>{itemLink5081155}\n<g>●</g>{itemLink5081165}\n<g>●</g>{itemLink5081175}\n<g>●</g>{itemLink5081185}\n<g>●</g>{itemLink5081195}\n<g>●</g>{itemLink5081205}\n<g>●</g>{itemLink5081215}\n<g>●</g>{itemLink5081225}\n<g>●</g>{itemLink5081235}\n<g>●</g>{itemLink5081245}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Golden Core</g>.\nFive ways to reach Golden Core:\n<g>●</g>G1 Golden Core:\nRequired materials: {itemLink5031786}, {itemLink5031796}, {itemLink5031806}, {itemLink5031816}, {itemLink5031826}, {itemLink5031836}, and <g>5</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>G2 Golden Core:\nRequired materials: Any 3 of {itemLink5031786}, {itemLink5031796}, {itemLink5031806}, {itemLink5031816}, {itemLink5031826}, {itemLink5031836}, as well as <g>4</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>G3 Golden Core:\nAny 1 of {itemLink5031786}, {itemLink5031796}, {itemLink5031806}, {itemLink5031816}, {itemLink5031826}, {itemLink5031836}, as well as <g>3</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>G4 Golden Core:\nRequired materials: {itemLink1011531} or a Cloud Elixir of a higher rarity, as well as <g>2</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>G5 Golden Core:\n{itemLink1011531} or a Three Flower Elixir of a higher rarity, as well as <g>1</g> type of <g>Heaven and Earth Treasure</g>.\n\n<g>Heaven and Earth Treasure</g> <y>greatly increases</y> your stats after a Breakthrough. The <g>Heaven and Earth Treasure</g> available for the Golden Core Realm:\n<g>●</g>{itemLink5081155}\n<g>●</g>{itemLink5081165}\n<g>●</g>{itemLink5081175}\n<g>●</g>{itemLink5081185}\n<g>●</g>{itemLink5081195}\n<g>●</g>{itemLink5081205}\n<g>●</g>{itemLink5081215}\n<g>●</g>{itemLink5081225}\n<g>●</g>{itemLink5081235}\n<g>●</g>{itemLink5081245}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111008": {
+  "ch": "将境界提升至<g>具灵境</g>。\n<g>●</g>具灵：\n使用{itemLink1011551}或更高品的化灵丹，并辅以<g>4</g>种<g>天材地宝</g>，方可进行具灵。\n\n突破时辅以<g>天材地宝</g>可<y>大幅提升</y>突破后的属性，具灵可用的<g>天材地宝</g>如下：\n<g>●</g>{itemLink5081255}\n<g>●</g>{itemLink5081265}\n<g>●</g>{itemLink5081275}\n<g>●</g>{itemLink5081285}\n<g>●</g>{itemLink5081295}\n<g>●</g>{itemLink5081305}\n<g>●</g>{itemLink5081315}\n<g>●</g>{itemLink5081325}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Origin Spirit</g>.\n<g>●</g>Origin Spirit:\nRequired materials: {itemLink1011551} or a Spirit Transformation Elixir of a higher rarity, as well as <g>4</g> types of <g>Heaven and Earth Treasure</g>.\n\n<g>Heaven and Earth Treasure</g> <y>greatly increases</y> your stats after a Breakthrough. The <g>Heaven and Earth Treasure</g> available for the Origin Spirit Realm:\n<g>●</g>{itemLink5081255}\n<g>●</g>{itemLink5081265}\n<g>●</g>{itemLink5081275}\n<g>●</g>{itemLink5081285}\n<g>●</g>{itemLink5081295}\n<g>●</g>{itemLink5081305}\n<g>●</g>{itemLink5081315}\n<g>●</g>{itemLink5081325}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111009": {
+  "ch": "将境界提升至<g>元婴境</g>。\n结成元婴方式有以下四种\n<g>●</g>天道元婴：\n使用{itemLink5031966}，并辅以<g>6</g>种<g>天材地宝</g>，方可结成天道元婴。\n<g>●</g>地道元婴：\n使用{itemLink5031976}，并辅以<g>4</g>种<g>天材地宝</g>，可结成地道元婴。\n<g>●</g>人道元婴：\n使用{itemLink1011581}或更高品的结婴丹，并辅以<g>2</g>种<g>天材地宝</g>，即可结成人道元婴。\n\n突破时辅以<g>天材地宝</g>可<y>大幅提升</y>突破后的属性，结成元婴可用的<g>天材地宝</g>如下：\n<g>●</g>{itemLink5081335}\n<g>●</g>{itemLink5081345}\n<g>●</g>{itemLink5081355}\n<g>●</g>{itemLink5081365}\n<g>●</g>{itemLink5081375}\n<g>●</g>{itemLink5081385}\n<g>●</g>{itemLink5081395}\n<g>●</g>{itemLink5081405}\n<g>●</g>{itemLink5081415}\n<g>●</g>{itemLink5081425}\n<g>●</g>{itemLink5081435}\n<g>●</g>{itemLink5081445}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Nascent Soul</g>.\nThree ways to reach Nascent Soul:\n<g>●</g>Nascent Soul - Heaven:\nRequired materials: {itemLink5031966} and <g>6</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>Nascent Soul - Earth:\nRequired materials: {itemLink5031976} and <g>4</g> types of <g>Heaven and Earth Treasure</g>.\n<g>●</g>Nascent Soul - Mortal:\nRequired materials: {itemLink1011581} or a Nascent Soul Elixir (Mortal) of a higher rarity, as well as <g>2</g> types of <g>Heaven and Earth Treasure</g>.\n\n<g>Heaven and Earth Treasure</g> <y>greatly increases</y> your stats after a Breakthrough. The <g>Heaven and Earth Treasure</g> available for the Nascent Soul Realm:\n<g>●</g>{itemLink5081335}\n<g>●</g>{itemLink5081345}\n<g>●</g>{itemLink5081355}\n<g>●</g>{itemLink5081365}\n<g>●</g>{itemLink5081375}\n<g>●</g>{itemLink5081385}\n<g>●</g>{itemLink5081395}\n<g>●</g>{itemLink5081405}\n<g>●</g>{itemLink5081415}\n<g>●</g>{itemLink5081425}\n<g>●</g>{itemLink5081435}\n<g>●</g>{itemLink5081445}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111010": {
+  "ch": "将境界提升至<g>化神境</g>。\n<g>●</g>化神：\n激活五个<g>镇灵神魂</g>后，并使用<g>{itemLink5081996}</g>，方可进行化神。\n\n五个<g>镇灵神魂</g>如下：\n{itemLink5082016}\n{itemLink5082026}\n{itemLink5082036}\n{itemLink5082046}\n{itemLink5082056}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Soul Formation</g>.\n<g>●</g>Soul Formation:\nAfter activating <g>all Divine Souls of the 5 sealed creatures</g>, use <g>{itemLink5081996}</g> to reach Soul Formation.\n\nThe 5 <g>Divine Souls</g> are:\n{itemLink5082016}\n{itemLink5082026}\n{itemLink5082036}\n{itemLink5082046}\n{itemLink5082056}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111011": {
+  "ch": "将境界提升至<g>悟道境</g>。\n悟道需要集齐3个可融合的<g>{itemLink5082066}</g>，并使用<g>{itemLink1011601}</g>或更高品质的悟道丹，可进行悟道\n\n悟道后可根据道魂的属性，获得不同的<g>领域技能</g>\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Enlightenment</g>.\nRequired materials: 3 combinable <g>{itemLink5082066}</g>s, as well as <g>{itemLink1011601}</g> or an Enlightenment Elixir of a higher rarity.\n\nAfter reaching Enlightenment, based on the stats of the Tao Souls, you'll receive different <g>Field Skills</g>.\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111012": {
+  "ch": "将境界提升至<g>羽化境</g>。\n<g>●</g>羽化：\n需要集齐5个不同性质的<g>冥种</g>，随后在突破界面中点击凝结五冥凝羽阵，在阵中与冥羽共鸣从而突破。\n\n需要收集的<g>冥种</g>如下：\n{itemLink5350001}\n{itemLink5350002}\n{itemLink5350003}\n{itemLink5350004}\n{itemLink5350005}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Reborn</g>.\n<g>●</g>Reborn:\nAfter collecting 5 <g>Nether Seeds</g> of different kinds, click Condense Array of Gathering Nether Feathers in Breakthrough interface and resonate with the Nether Feathers to achieve breakthrough.\n\nThe 5 <g>Nether Seeds</g> required are:\n{itemLink5350001}\n{itemLink5350002}\n{itemLink5350003}\n{itemLink5350004}\n{itemLink5350005}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111013": {
+  "ch": "将境界提升至<g>登仙境</g>。\n<g>●</g>登仙：\n需要承受天劫考验，获得<g>{itemLink5082205}</g>以突破。\n\n在此之前需于<b>羽化后期</b>，跟随指引，通过收集<g>先天一气</g>来参悟凝练仙力。\n凝练仙力可用的<g>先天一气</g>如下：\n{itemLink5082235}\n{itemLink5082245}\n{itemLink5082255}\n此后在通过堪舆找到秘宝{itemLink7000066}，此物将帮助修仙者抵御天劫。\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "en": "Increase your Realm to <g>Transcendent</g>.\n<g>●</g>Transcendent:\nEndure the Trial and obtain <g>{itemLink5082205}</g> to achieve breakthrough.\n\nBefore this, you should collect <g>Primordial Airs</g> according to hints in <b>Reborn Late</b> to comprehend and condense the Heavenly Power.\nThe available <g>Primordial Airs</g> for the purpose are:\n{itemLink5082235}\n{itemLink5082245}\n{itemLink5082255}\nAfter they are collected, you need to find the treasure {itemLink7000066} to resist the Trial via Geomancy.\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "pt": ""
+ },
+ "taskDesc1111014": {
+  "ch": "战胜并铲除双仪村附近的血魔。",
+  "en": "Kill the Blood Lord near Duality Village.",
+  "pt": ""
+ },
+ "taskDesc1111015": {
+  "ch": "前往城镇中，购买一本绝技。",
+  "en": "Go to a Town and buy a Special Skill.",
+  "pt": ""
+ },
+ "taskDesc1111016": {
+  "ch": "在城镇的琅琊阁中，寻找适合自己的绝技。",
+  "en": "Find a suitable Special Skill in the Manual Pavilion.",
+  "pt": ""
+ },
+ "taskDesc1111017": {
+  "ch": "在琅琊阁的第二层中购买适合自己的绝技。",
+  "en": "Buy a suitable Special Skill from the second floor of the Manual Pavilion.",
+  "pt": ""
+ },
+ "taskDesc1111018": {
+  "ch": "打开背包，学习刚刚从琅琊阁中购买的绝技。",
+  "en": "Open your Inventory and learn the Special Skill you just bought from the Pavilion of Scrolls.",
+  "pt": ""
+ },
+ "taskDesc1111019": {
+  "ch": "打开技能栏，切换至绝技的界面，装备刚刚学习的绝技。",
+  "en": "Open the Special Skill interface, then equip the Special Skill you just learned.",
+  "pt": ""
+ },
+ "taskDesc1111020": {
+  "ch": "打开背包，阅读李四所赠的{itemLink6351016}",
+  "en": "Open your Inventory and read the {itemLink6351016} given to you by Jo.",
+  "pt": ""
+ },
+ "taskDesc1111021": {
+  "ch": "炼制一次法宝。\n\n\n法宝炼制之法：\n击杀<r>玄晶石灵</r>与<r>黯炎邪面</r>可分别获得用于提升矿材资质与炼器资质的书籍。\n在各区域城镇的<r>工坊</r>内，可以购买各个法宝的炼器谱，学习后便可通过<r>技艺</r>进行炼器。\n炼器需要核心材料、辅助材料、稀有材料与炼器真火四种物品。\n核心材料可以通过击杀各区域的<r>妖兽之王</r>获得。\n辅助材料可以通过击杀普通怪物、挑战陨幽谷或在各大区域挖矿获得。\n稀有材料可以通过华封州的六处特殊区域、云陌州的乾坤元境、永恒冰原的五处镇灵、暮仙州的六处道界等区域产出。\n炼器真火可以通过宗门贡献在宗门<r>聚宝仙楼</r>中兑换得到。",
+  "en": "Forge an artifact.\n\n\nForging Artifacts:\nKill <r>Dark Crystal Spirit</r> and <r>Darkfire Mask</r> to obtain books that increase your Ore and Forge stats.\nBuy Forge Charts from <r>Workshops</r> in various Towns. Learn them to forge the corresponding artifacts via <r>artisanship</r>.\nForging an artifacts consumes a Core Material, as well as Supplementary Materials, Rare Materials, and the matching type of Samadhi Flame.\nKill <r>Mythical Beast Lords</r> in various areas to obtain Core Materials.\nKill normal monsters or challenge Fallen Valley to obtain Supplementary Materials. They can also be mined in various areas.\nRare Materials are obtained from the 6 special areas in Hua Feng, Land of the Beginning (Yun Mo), the 5 sealed creatures in Everfrost, the 6 Tao Realms in Mu Xian, etc.\nSpend Sect Contribution to redeem Samadhi Flames at the <r>Treasure Pavilion</r> in your sect.",
+  "pt": ""
+ },
+ "taskDesc1111022": {
+  "ch": "蝶怨仙子委托你为蚀心殿的发展做出贡献——将一名天骄的道心粉碎。",
+  "en": "Bitterfly Spirit tasked you with a job that will help the Mindsnap Temple: Shatter the Taoist Mind of a Heaven-chosen.",
+  "pt": ""
+ },
+ "taskDesc1111023": {
+  "ch": "积攒修为，突破至下一境界。",
+  "en": "Accumulate EXP and get a breakthrough to the next realm.",
+  "pt": ""
+ },
+ "taskDesc1111030": {
+  "ch": "选择将此神秘之物送与道心阁的天玄真人还是蚀心殿的蝶怨仙子（二选一）\n该选择关系重大、影响深远，请务必慎重思考，做出你认为正确的决定。\n天玄真人似乎出现在{mapData130}（158，150）附近，蝶怨仙子似乎出现在{mapData131}（190，150）附近。\n<r>（他们的大概位置可在小地图上查看）</r>。",
+  "en": "Choose between giving this mysterious object to Tianxuan of the Taoist Mind Pavilion or Bitterfly of the Mindsnap Temple (one of two choices).\nThis is an important decision with far-reaching consequences, so you will need to be sure that you have chosen according to what you feel is right.\nTianxuan seems to appear close to {mapData130} (158, 150), and Bitterfly seems to appear close to {mapData131} (190, 150).\n<r>(Their approximate locations can be viewed in the mini-map)</r>.",
+  "pt": ""
+ },
+ "taskDesc1111031": {
+  "ch": "蚀心殿即将倾尽全力进攻道心阁，兹事体大，必须赶紧前往一探。",
+  "en": "The Mindsnap Temple is about to launch an assault on the Taoist Mind Pavilion. You will need to make haste to be present for a matter of such importance.",
+  "pt": ""
+ },
+ "taskDesc1119001": {
+  "ch": "在琅琊阁中购买适合自己的武技与绝技，成功学习后装备至技能栏中。\n\n装备武技{triggerCondition1}\n装备绝技{triggerCondition2}",
+  "en": "Buy a Martial Skill and a Special Skill from the Manual Pavilion, then learn and equip them.\n\nEquip Martial Skill {triggerCondition1}\nEquip Special Skill {triggerCondition2}",
+  "pt": ""
+ },
+ "taskDesc1119002": {
+  "ch": "前往{1}的{0}附近，赴{2}的约。",
+  "en": "Go to {1} and meet {2} near {0}.",
+  "pt": ""
+ },
+ "taskDesc1120001": {
+  "ch": "前往{destination}中的酒馆，打听消息。",
+  "en": "Go to the Tavern in {destination} and ask for information.",
+  "pt": ""
+ },
+ "taskDesc1120002": {
+  "ch": "前往城镇中，购买一本绝技。",
+  "en": "Go to a Town and buy a Special Skill.",
+  "pt": ""
+ },
+ "taskDesc112001": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的储物戒。",
+  "en": "Help {ownerUnitName} retrieve their lost Interspatial Ring.",
+  "pt": ""
+ },
+ "taskDesc112002": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的储物戒。",
+  "en": "Help {ownerUnitName} retrieve their lost Interspatial Ring.",
+  "pt": ""
+ },
+ "taskDesc112003": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的储物戒。",
+  "en": "Help {ownerUnitName} retrieve their lost Interspatial Ring.",
+  "pt": ""
+ },
+ "taskDesc112004": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的储物戒。",
+  "en": "Help {ownerUnitName} retrieve their lost Interspatial Ring.",
+  "pt": ""
+ },
+ "taskDesc112005": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的储物戒。",
+  "en": "Help {ownerUnitName} retrieve their lost Interspatial Ring.",
+  "pt": ""
+ },
+ "taskDesc112006": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的宗门秘法。",
+  "en": "Help {ownerUnitName} retrieve their lost Sect Secret Technique.",
+  "pt": ""
+ },
+ "taskDesc112007": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的宗门秘法。",
+  "en": "Help {ownerUnitName} retrieve their lost Sect Secret Technique.",
+  "pt": ""
+ },
+ "taskDesc112008": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的宗门秘法。",
+  "en": "Help {ownerUnitName} retrieve their lost Sect Secret Technique.",
+  "pt": ""
+ },
+ "taskDesc112009": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的宗门秘法。",
+  "en": "Help {ownerUnitName} retrieve their lost Sect Secret Technique.",
+  "pt": ""
+ },
+ "taskDesc112010": {
+  "ch": "帮助{ownerUnitName}从其他修仙者手中寻回丢失的宗门秘法。",
+  "en": "Help {ownerUnitName} retrieve their lost Sect Secret Technique.",
+  "pt": ""
+ },
+ "taskDesc1130001": {
+  "ch": "回到宗门的议事大厅中，开始迁移宗门。",
+  "en": "Return to the Sect Council Hall and start relocating the Sect.",
+  "pt": ""
+ },
+ "taskDesc1130002": {
+  "ch": "回到宗门议事大厅处找到定岳旗。并在更高等级区域埋下定岳旗为飞舟定位！",
+  "en": "Return to the Sect Council Hall and locate the flag. Plant the flag in an area that is a higher level to position the Flying Canoe!",
+  "pt": ""
+ },
+ "taskDesc1130003": {
+  "ch": "使用宗门飞舟，选择一定的弟子跟随并完成搬迁。",
+  "en": "Use the Sect Flying Canoe and select a certain number of Disciples to follow and complete the relocation.",
+  "pt": ""
+ },
+ "taskDesc1130004": {
+  "ch": "成为本门宗主。",
+  "en": "Become Sect Leader of current Sect.",
+  "pt": ""
+ },
+ "taskDesc113001": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113002": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113003": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113004": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113005": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113006": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113007": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113008": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113009": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc113010": {
+  "ch": "前往{releasePointName}附近，帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。",
+  "en": "Go to {releasePointName}, then help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": ""
+ },
+ "taskDesc114001": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114002": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114003": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114004": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114005": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114006": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114007": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114008": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114009": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc114010": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}搜寻妖兽巢穴。",
+  "en": "Go to {eventName}, then help {releaseUnitName} locate the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115001": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115002": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115003": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115004": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115005": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115006": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115007": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115008": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115009": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc115010": {
+  "ch": "前往{eventName}，帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。",
+  "en": "Go to {eventName}, then help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": ""
+ },
+ "taskDesc116001": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116002": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116003": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116004": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116005": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116006": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116007": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116008": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116009": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116010": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116101": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116102": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116103": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116104": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc116105": {
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。",
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": ""
+ },
+ "taskDesc117001": {
+  "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
+  "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
+  "pt": ""
+ },
+ "taskDesc117002": {
+  "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
+  "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
+  "pt": ""
+ },
+ "taskDesc117003": {
+  "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
+  "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
+  "pt": ""
+ },
+ "taskDesc117004": {
+  "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
+  "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
+  "pt": ""
+ },
+ "taskDesc117005": {
+  "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
+  "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
+  "pt": ""
+ },
+ "taskDesc126001": {
+  "ch": "帮助{unitName}寻找{troubleDesc}——将其所需之物寻得并通过赠送给予此人便可助其消除烦恼，完成任务。",
+  "en": "Help {unitName} look for {troubleDesc}—Find what they need and give it to them by gifting it to help eliminate their troubles, and complete the Mission.",
+  "pt": ""
+ },
+ "taskDesc126002": {
+  "ch": "帮助{unitName}击杀{troubleDesc}——将其所欲击杀之人手刃便可助其消除烦恼，完成任务。",
+  "en": "Help {unitName} attack {troubleDesc}—Attack the person they want to attack to help them get rid of their troubles and complete the mission.",
+  "pt": ""
+ },
+ "taskDesc1270001": {
+  "ch": "新宗门非封装任务",
+  "en": "New Sect Non-Bound Gear Mission",
+  "pt": ""
+ },
+ "taskDesc129001": {
+  "ch": "与{npcName}一同掠夺{eventName}。",
+  "en": "Raid {eventName} with {npcName}.",
+  "pt": ""
+ },
+ "taskDesc130001": {
+  "ch": "进攻{attackName}{eventName}",
+  "en": "Attack {attackName}{eventName}",
+  "pt": ""
+ },
+ "taskDesc130002": {
+  "ch": "进攻{attackName}{eventName}",
+  "en": "Attack {attackName}{eventName}",
+  "pt": ""
+ },
+ "taskDesc130003": {
+  "ch": "进攻{attackName}{eventName}",
+  "en": "Attack {attackName}{eventName}",
+  "pt": ""
+ },
+ "taskDesc130004": {
+  "ch": "抵御{defendName}进攻{eventName}",
+  "en": "Defend {defendName}, Attack {eventName}",
+  "pt": ""
+ },
+ "taskDesc130005": {
+  "ch": "抵御{defendName}进攻{eventName}",
+  "en": "Defend {defendName}, Attack {eventName}",
+  "pt": ""
+ },
+ "taskDesc130006": {
+  "ch": "抵御{defendName}进攻{eventName}",
+  "en": "Defend {defendName}, Attack {eventName}",
+  "pt": ""
+ },
+ "taskDesc131001": {
+  "ch": "为了重振御龙山庄，需要先将宗门的名誉提升至<r>{attrValue}</r>。\n完成宗门任务或派遣记名弟子执行外务堂的任务即可提升宗门名誉。",
+  "en": "In order to restore Dragon Mountain Hamlet, you must first raise the Prestige of the Sect to <r>{attrValue}</r>.\nCompleting Sect Missions or dispatching notable disciples to take care of External Affair missions will increase Sect Prestige.",
+  "pt": ""
+ },
+ "taskDesc132001": {
+  "ch": "将{dieName}的{targetPropsName}交给{targetUnitName}。根据{dieName}的消息去{townName}的酒馆打听一下吧。",
+  "en": "Give {dieName}'s {targetPropsName} to {targetUnitName}. Based on {dieName}'s information, you may head to the Tavern in {townName} to make inquiries.",
+  "pt": ""
+ },
+ "taskDesc2110001": {
+  "ch": "前往图中所记载的位置，寻找失踪的季家少主。",
+  "en": "Go to the location marked on the map and find the missing Young Master Ji.",
+  "pt": ""
+ },
+ "taskDesc2110002": {
+  "ch": "战胜神秘的剑修，救下季家少主。",
+  "en": "Defeat the Swordmaster and rescue Young Master Ji.",
+  "pt": ""
+ },
+ "taskDesc2110003": {
+  "ch": "护送季家少主回到{mapData108}。",
+  "en": "Escort Young Master Ji back to {mapData108}.",
+  "pt": ""
+ },
+ "taskDesc2110004": {
+  "ch": "消灭肆虐{mapData108}的天狗。",
+  "en": "Kill Tiangou who's wreaking havoc in {mapData108}.",
+  "pt": ""
+ },
+ "taskDesc2110005": {
+  "ch": "消灭肆虐{mapData108}的天狗。",
+  "en": "Kill Tiangou who's wreaking havoc in {mapData108}.",
+  "pt": ""
+ },
+ "taskDesc2110006": {
+  "ch": "为了获得司雨神龙的传承，寻找{itemLink5081455}。",
+  "en": "Find {itemLink5081455} in order to obtain Jiaolong's legacy.",
+  "pt": ""
+ },
+ "taskDesc2110007": {
+  "ch": "为了帮助玄龟重塑肉身，从{itemLink5081465}、{itemLink5081475}、{itemLink5081485}、{itemLink5081495}、{itemLink5081505}、{itemLink5081515}、{itemLink5081525}等天材地宝中任取3个交给神官。",
+  "en": "To help Xuangui reconstruct its body, you must deliver 3 pieces of the following Heaven and Earth Treasure to the Priest: {itemLink5081465}, {itemLink5081475}, {itemLink5081485}, {itemLink5081495}, {itemLink5081505}, {itemLink5081515}, {itemLink5081525}.",
+  "pt": ""
+ },
+ "taskDesc2110008": {
+  "ch": "寻找化神丹，将其交给勾陈的神官。",
+  "en": "Obtain a Soul Reconstruction Elixir and deliver it to Gouchen's Priest.",
+  "pt": ""
+ },
+ "taskDesc2110009": {
+  "ch": "将寻到的{itemLink6121036}交给重明的神官。",
+  "en": "Obtain {itemLink6121036} and deliver it to Chongming's Priest.",
+  "pt": ""
+ },
+ "taskDesc2110010": {
+  "ch": "将祭祀陆吾用的{itemLink6121046}交给神官。",
+  "en": "Obtain {itemLink6121046} and deliver it to Luwu's Priest.",
+  "pt": ""
+ },
+ "taskDesc2110011": {
+  "ch": "根据幻风石的引导，帮助神官寻回重明的信物。\n在目标点附近使用堪舆，可以查探到信物所在的具体方位。",
+  "en": "Follow the Magic Wind Stone's guidance to retrieve the keepsake Chongming gave to its Priest.\nPerform Geomancy near the target location to pinpoint the exact location.",
+  "pt": ""
+ },
+ "taskDesc2110012": {
+  "ch": "在云陌州中，取得祭祀陆吾用的{itemLink6121046}。",
+  "en": "Obtain {itemLink6121046} in Yun Mo.",
+  "pt": ""
+ },
+ "taskDesc2110101": {
+  "ch": "与永恒冰原中的怪异巨人交谈。",
+  "en": "Talk to strange giant in Everfrost.",
+  "pt": ""
+ },
+ "taskDesc2110102": {
+  "ch": "阿夸似乎遇到了麻烦，去看看怎么回事。",
+  "en": "Agar seems to be in trouble. Find out what's going on.",
+  "pt": ""
+ },
+ "taskDesc2110103": {
+  "ch": "探查荒土地中的情况，找出炎热的源头。",
+  "en": "Determine the source of the unbearable heat.",
+  "pt": ""
+ },
+ "taskDesc2110104": {
+  "ch": "为了让阿夸通过此地，驱逐荒土地上的旱魃。",
+  "en": "Drive away the Drought Demon so that Agar can pass through.",
+  "pt": ""
+ },
+ "taskDesc2110105": {
+  "ch": "为了让旱魃离开此地，帮助魃寻找乌风草。\n据说乌风草会在{#areaName8}中的拍卖会上出现。\n拍卖会每隔2年举办一次。",
+  "en": "Get Darkwind Grass for the Drought Demon so that she'll leave this area.\nDarkwind Grass is auctioned off in {#areaName8}.\nThe auction there happens every 2 years.",
+  "pt": ""
+ },
+ "taskDesc2110106": {
+  "ch": "阿夸就快不行了，赶紧前去帮助他恢复状态吧。\n给予夸父{itemLink6361026}可帮助夸父回复体力；给予夸父{itemLink6361016}可帮助夸父回复精力与健康。",
+  "en": "Agar is dying. Help him recover!\nGive {itemLink6361026} to Agar so he can recover Vitality. Give {itemLink6361016} to Agar so he can recover Stamina and Health.",
+  "pt": ""
+ },
+ "taskDesc2110107": {
+  "ch": "给阿夸寻找能够恢复状态的果子。",
+  "en": "Find the fruit that helps Agar recover his status.",
+  "pt": ""
+ },
+ "taskDesc2110108": {
+  "ch": "给阿夸寻找能够恢复状态的泉水。",
+  "en": "Find the spring water that helps Agar recover his status.",
+  "pt": ""
+ },
+ "taskDesc2110109": {
+  "ch": "为了让渭水变得宜居，寻找计蒙求取神器。\n在目标点附近使用堪舆，可寻到计蒙洞府的准确地点。",
+  "en": "To improve the condition of the Wei River, you need to get the Water Dragon Tripod from Jimeng.\nPerform Geomancy near the target location to pinpoint the exact location of Jimeng's cave.",
+  "pt": ""
+ },
+ "taskDesc2110110": {
+  "ch": "为了帮助鲮鱼祈雨，打败计蒙并抢夺溟霖鼎。",
+  "en": "Defeat Jimeng and obtain the Water Dragon Tripod.",
+  "pt": ""
+ },
+ "taskDesc2110111": {
+  "ch": "为了借到溟霖鼎，帮助计蒙收集他喜欢的东西。\n将任意3个<r>玉器</r>交给计蒙。",
+  "en": "Get Jimeng what he wants so that he'll lend you the Water Dragon Tripod.\nCollect any 3 pieces of <r>Jadeware</r> for Jimeng.",
+  "pt": ""
+ },
+ "taskDesc2110112": {
+  "ch": "回到渭水边上，使用溟霖鼎为暮仙州祈雨。",
+  "en": "Return to the Wei River, then use the Water Dragon Tripod to summon rain.",
+  "pt": ""
+ },
+ "taskDesc2110113": {
+  "ch": "阿夸与渭水生灵起了争执，去帮忙解决吧。",
+  "en": "Agar is having an argument with a river creature. Mediate between those two.",
+  "pt": ""
+ },
+ "taskDesc2110114": {
+  "ch": "阿夸追逐太阳来到了冥山边上，快去找到他。",
+  "en": "Agar has chased the sun to the edge of Nether Mountains. Find him.",
+  "pt": ""
+ },
+ "taskDesc2110115": {
+  "ch": "把找事的鲮鱼赶出此地，让阿夸喝个够。",
+  "en": "Drive away Carpia from this area, allowing Agar to drink as much water as he wants.",
+  "pt": ""
+ },
+ "taskDesc2110116": {
+  "ch": "万事俱备，剩下的就是不顾一切冲进冥山了。",
+  "en": "Everything is ALMOST ready. The last step—charging into Nether Mountains!",
+  "pt": ""
+ },
+ "taskDesc2110117": {
+  "ch": "圣阳诉说了传闻中可能破开冥山的方法，只好冒险一试了。",
+  "en": "Sunny tells you the method to break through Nether Mountains. It's risky but worth a try.",
+  "pt": ""
+ },
+ "taskDesc2110118": {
+  "ch": "阿夸倒下了，原来他追逐的太阳就是圣阳，上前与她交谈一番吧。",
+  "en": "Agar has fallen. Turns out the sun he's been chasing is Sunny. Talk to her.",
+  "pt": ""
+ },
+ "taskDesc2110119": {
+  "ch": "阿夸倒下了，原来他追逐的太阳就是圣阳，上前与她交谈一番吧。",
+  "en": "Agar has fallen. Turns out the sun he's been chasing is Sunny. Talk to her.",
+  "pt": ""
+ },
+ "taskDesc2110201": {
+  "ch": "回到愚村参加愚公的天葬之礼。",
+  "en": "Go back to Yukong Village and attend the Foolish Old Man's sky burial.",
+  "pt": ""
+ },
+ "taskDesc2110202": {
+  "ch": "跟随铁尺的指向，到达武罗当年居住的山洞。",
+  "en": "Go in the direction indicated by the Iron Shard and reach the cave where Jagu used to live.",
+  "pt": ""
+ },
+ "taskDesc2110203": {
+  "ch": "寻找合适的{itemLink6131026}来洗刷洞穴墙壁的污垢。",
+  "en": "Find some suitable {itemLink6131026} and wash the dirt from the cave wall.",
+  "pt": ""
+ },
+ "taskDesc2110204": {
+  "ch": "回到洞穴中继续查看壁画。",
+  "en": "Return to the cave and continue inspecting the paintings on the cave wall.",
+  "pt": ""
+ },
+ "taskDesc2110205": {
+  "ch": "沿着铁尺的轨迹在目标地点堪舆，找到被埋藏的东西。",
+  "en": "Perform geomancy at target locations along the Iron Shard's trajectory and locate the buried object.",
+  "pt": ""
+ },
+ "taskDesc2110206": {
+  "ch": "收集剑竹妖的{itemLink6131036}。",
+  "en": "Collect the Sword Bambuki's {itemLink6131036}.",
+  "pt": ""
+ },
+ "taskDesc2110207": {
+  "ch": "回到竹片处将其解封。",
+  "en": "Return to the Bamboo Slat and unseal it.",
+  "pt": ""
+ },
+ "taskDesc2110301": {
+  "ch": "回到两仪村，击败盘踞其中的血魔。",
+  "en": "Return to Duality Village and defeat the Blood Lord ensconced there.",
+  "pt": ""
+ },
+ "taskDesc2110302": {
+  "ch": "跟随铁尺的指向，到达双仪村的周围。",
+  "en": "Go in the direction indicated by the Iron Shard and reach the outskirts of Duality Village.",
+  "pt": ""
+ },
+ "taskDesc2110303": {
+  "ch": "收集一枚{itemLink1011722}，{itemLink1011723}或{itemLink1011724}，救活阿嬉。丹药可以通过在部分区域的主城工坊内购置丹方炼制而成。",
+  "en": "Collect one {itemLink1011722}, {itemLink1011723} or {itemLink1011724}, and rescue Xi. Elixirs can be made using Elixir Recipes sold at City Workshops in certain regions.",
+  "pt": ""
+ },
+ "taskDesc2110304": {
+  "ch": "收集{itemLink5031966}并回到阿嬉身边，解开毕方尾羽的禁制。",
+  "en": "Collect {itemLink5031966}, return to Xi and break the seal on Bi Fang's tail feather.",
+  "pt": ""
+ },
+ "taskDesc2110305": {
+  "ch": "击败偷袭而来的剑修刺客。",
+  "en": "Defeat the Swordmaster's ambush",
+  "pt": ""
+ },
+ "taskDesc2110401": {
+  "ch": "去到云陌州主城与阿嬉相见。",
+  "en": "Go to the main city in Yun Mo and meet Xi.",
+  "pt": ""
+ },
+ "taskDesc2110402": {
+  "ch": "收集能让阿嬉进入永恒冰原的丹药——三品及以上的{itemLink1011606}一枚，收集完成后去冰原外围找到阿嬉。",
+  "en": "Collect an Elixir to enable Xi to enter Everfrost- 1 G3 {itemLink1011606} or above. Once you have it, go and find Xi on the edge of Everfrost.",
+  "pt": ""
+ },
+ "taskDesc2110403": {
+  "ch": "收集能让阿嬉进入永恒冰原的秘宝——{itemLink6371026}一块，收集完成后去冰原外围找到阿嬉。{itemLink6371026}会出现在云陌州的拍卖会上。",
+  "en": "Collect a Treasure to enable Xi to enter Everfrost- 1 {itemLink6371026}. Once you have it, go and find Xi on the edge of Everfrost. {itemLink6371026} can be found at auctions in Yun Mo.",
+  "pt": ""
+ },
+ "taskDesc2110404": {
+  "ch": "跟随铁尺的指引前往冰原中的某处地方。",
+  "en": "Go in the direction indicated by the Iron Shard towards a place in the tundra.",
+  "pt": ""
+ },
+ "taskDesc2110405": {
+  "ch": "给涂山谣带去进入涂山的觐见之礼。\n\n据说狐族对符合其修炼需求的天材地宝、妖兽材料颇感兴趣，此外，他们尤其喜爱人类的礼乐器具、艺术佳品。",
+  "en": "Take gifts into Tushan for Tushan Yao to pay homage.\n\nFoxes are interested in treasures that meet their cultivation requirements, as well as monster materials. They also like human ritual goods and works of art.",
+  "pt": ""
+ },
+ "taskDesc2110406": {
+  "ch": "与九尾狐族长老对话，查探铁尺指引此处的缘由。",
+  "en": "Talk to the Nine Tails' Elder and find out why the Iron Shard pointed you in this direction.",
+  "pt": ""
+ },
+ "taskDesc2110407": {
+  "ch": "收集{itemLink6371036}并将其带给涂山茹。",
+  "en": "Collect {itemLink6371036} and give it to Tushan Ru.",
+  "pt": ""
+ },
+ "taskDesc2110408": {
+  "ch": "从道界机枢中获得一枚{itemLink6371046}并将其交给涂山茹。",
+  "en": "Get a {itemLink6371046} from the Tao Nexus and give it to Tushan Ru.",
+  "pt": ""
+ },
+ "taskDesc2110409": {
+  "ch": "击败蛊雕，救下涂山谣。",
+  "en": "Defeat the Demonic Eagle and save Tushan Yao.",
+  "pt": ""
+ },
+ "taskDesc2110410": {
+  "ch": "击败蛊雕，救下涂山谣。",
+  "en": "Defeat the Demonic Eagle and save Tushan Yao.",
+  "pt": ""
+ },
+ "taskDesc2110411": {
+  "ch": "和涂山谣一起回到涂山。",
+  "en": "Return to Tushan with Tushan Yao.",
+  "pt": ""
+ },
+ "taskDesc2110412": {
+  "ch": "将{itemLink6371036}带回涂山。",
+  "en": "Take the {itemLink6371036} back to Tushan.",
+  "pt": ""
+ },
+ "taskDesc2110413": {
+  "ch": "将{itemLink6371046}带回涂山。",
+  "en": "Take the {itemLink6371046} back to Tushan.",
+  "pt": ""
+ },
+ "taskDesc2110501": {
+  "ch": "游远致正陷身十万大山怪潭边上，得赶紧前往救援。",
+  "en": "You Yuanzhi is trapped in the swamp of Hundred Thousand Hills. He needs urgent help.",
+  "pt": ""
+ },
+ "taskDesc2110502": {
+  "ch": "游远致在雷泽被霹雳击中，动弹不得，解救须快。",
+  "en": "You Yuanzhi was hit by thunderbolt in Lei Ze and unable to move. Be quick to rescue.",
+  "pt": ""
+ },
+ "taskDesc2110503": {
+  "ch": "游远致被恶徒投到井底囚禁，要尽快前往营救。",
+  "en": "You Yuanzhi is imprisoned at the pit bottom by villains. He needs help as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc2110504": {
+  "ch": "游远致在永恒冰原被玄冰冻住，冻死就在顷刻，要马上拯救。",
+  "en": "You Yuanzhi would be frozen to death very soon in Everfrost. Need to be saved immediately.",
+  "pt": ""
+ },
+ "taskDesc2110505": {
+  "ch": "远致对自己的离奇遭遇感到疑惑，前去一探或能查到一些蛛丝马迹。",
+  "en": "You Yuanzhi feels puzzled for his bizarre encounters and goes to explore for some clues.",
+  "pt": ""
+ },
+ "taskDesc2110506": {
+  "ch": "远致在途中发现了东西，前去一探或者有所收获。",
+  "en": "You Yuanzhi has found something along his way. Check it out. You may find something.",
+  "pt": ""
+ },
+ "taskDesc2110507": {
+  "ch": "远致去世前仍将地点记录下来，一定有所发现，前往查看没准有所收获。",
+  "en": "Since he kept a record before he died, You Yuanzhi must have found something. Check it out. You may find something.",
+  "pt": ""
+ },
+ "taskDesc2110508": {
+  "ch": "酒馆老板说附近有个志向不同一般的人正要远行，他还在附近，现在追上去也许还能看看究竟是何许人。",
+  "en": "The tavern owner said there was a man with a different ambition who was about to start a long journey. Maybe we could catch him up and get acquaintance.",
+  "pt": ""
+ },
+ "taskDesc2110509": {
+  "ch": "酒馆老板说附近有个志向不同一般的人正要远行，他还在附近，现在追上去也许还能看看究竟是何许人。",
+  "en": "The tavern owner said there was a man with a different ambition who was about to start a long journey. Maybe we could catch him up and get acquaintance.",
+  "pt": ""
+ },
+ "taskDesc2110510": {
+  "ch": "酣醉青年所言十分古怪，或者应该跟上去细细询问究竟是怎么一回事？",
+  "en": "The young drunkard's words are very weird. Follow up and ask what is the matter.",
+  "pt": ""
+ },
+ "taskDesc2110511": {
+  "ch": "景弘十分担心师父玩火自焚，所以带路前往师父住处。如果其师真的造就一只三足乌，事态确实不可小觑。",
+  "en": "Jinghong is very worried about his master, so he leads us the way. If his master does have created a Three-legged Crow, the situation is really not to be overlooked.",
+  "pt": ""
+ },
+ "taskDesc2110512": {
+  "ch": "景弘不惜与师父割裂都要为我争取机会，抓紧时间前往景弘所说火窟为好。",
+  "en": "Jinghong broke up with his master to strive for the opportunity for me; just seize the time to go to the Fire Cave as he said.",
+  "pt": ""
+ },
+ "taskDesc2110513": {
+  "ch": "明通竟然放脱火鸟，现在火鸟逸去不远，要尽快追上设法制服。",
+  "en": "Mingtong has released the Firebird.I have to catch while it is still in the neighborhood.",
+  "pt": ""
+ },
+ "taskDesc2110514": {
+  "ch": "果然所料不差，火鸟现在仍未上天已经造成偌大破坏，要追上逃逸的火鸟，不能任其自由！",
+  "en": "As expected, the firebird has caused so much destruction.I have to catch it. The bird must be restrained!",
+  "pt": ""
+ },
+ "taskDesc2110515": {
+  "ch": "相信死者激于家园被毁所以找火鸟报复，结果遭到反杀。得设法追上肇事火鸟，不可让它再造成伤亡！",
+  "en": "He was killed by the firebird because he wanted to revenge for his destroyed home. Have to find a way to catch it. I would not allow it to cause any more casualties!",
+  "pt": ""
+ },
+ "taskDesc2110516": {
+  "ch": "火鸟显然已经对人生出了戒心，所以四处杀伤人类。它已经失控了，要怎么办呢……",
+  "en": "Clearly, the firebird really hates human, so it is killing people everywhere. It is out of control. What shall we do...",
+  "pt": ""
+ },
+ "taskDesc2110517": {
+  "ch": "看看折红鹊为什么要瞪着你",
+  "en": "Find out why is Magpie Zhehong staring at you",
+  "pt": ""
+ },
+ "taskDesc2110518": {
+  "ch": "帮助折红鹊找到金乌尾羽。",
+  "en": "Help Magpie Zhehong find the feather of Golden Crow.",
+  "pt": ""
+ },
+ "taskDesc2110519": {
+  "ch": "把金乌尾羽送给折红鹊。",
+  "en": "Give Magpie Zhehong the feather of Golden Crow.",
+  "pt": ""
+ },
+ "taskDesc2110520": {
+  "ch": "听闻三足乌重现人间，无数修仙者已经败下阵来，或者我应该前往制服永宁州上空肆虐的火鸟。",
+  "en": "I heard that the Three-legged Crow had returned and defeated countless Cultivators. Maybe I should go to subdue the raging firebird in Yong Ning.",
+  "pt": ""
+ },
+ "taskDesc2110521": {
+  "ch": "何罗鱼的主人——<b>冰夷</b>出现在了渭水，且前去一探",
+  "en": "Leviathan's mistress, <b>Bingyi</b> appeared near Wei River. Go and check it out.",
+  "pt": ""
+ },
+ "taskDesc2110522": {
+  "ch": "暮仙州的<b>渭水</b>突然出现一股强大的气场，其中必有缘故，且前去一探",
+  "en": "A powerful aura suddenly appears near Mu Xian's <b>Wei River</b>. Do you want to check it out?",
+  "pt": ""
+ },
+ "taskDesc2110523": {
+  "ch": "这个可恶的家伙竟借双桂草之名，当面行骗！眼前此人逃去未远，还能追上将之截下！",
+  "en": "This scoundrel actually used the name of Osmanthus in his deception! He's not gone far! I can catch up to him and cut him off!",
+  "pt": ""
+ },
+ "taskDesc2110524": {
+  "ch": "怪道人提来妖怪首级，莫非他的确已经杀死巢穴大妖？还是前往一探吧。",
+  "en": "The strange Cultivator mentioned the monster leader. Could he have killed the great monster in the nest? Better find out.",
+  "pt": ""
+ },
+ "taskDesc2110525": {
+  "ch": "此人收下钱财却拔腿而逃，乘他并未去远，赶紧追上追回钱财才是！",
+  "en": "This person took the money and ran. Let's catch up with him and get my money back before he's gone far away!",
+  "pt": ""
+ },
+ "taskDesc2110526": {
+  "ch": "此名犯规弟子将那只大妖地方告诉你了，帮他一个忙亦未尝不可。",
+  "en": "This offender disciple has told you where the great monster is. It will be good to do him a favor.",
+  "pt": ""
+ },
+ "taskDesc2110527": {
+  "ch": "此名犯规弟子将那只大妖所在地方告诉你了，让他如此棘手，想必在那边等待的妖怪一定不弱。",
+  "en": "The offender disciple tells you where the great monster is. It poses a problem for him, so the monster lying in wait must be not weak at all.",
+  "pt": ""
+ },
+ "taskDesc2110528": {
+  "ch": "这些弟子已在你庇护之下，八荒世界，路途险恶，请尽速将门人带回宗门。（带到宗门主建筑）",
+  "en": "These disciples are under your protection. The roads are dangerous in this world. Bring the disciples back to the sect as soon as possible. (Bring them to the main sect building)",
+  "pt": ""
+ },
+ "taskDesc2110550": {
+  "ch": "钦原意图占据宗门灵池，虽遭到驱逐，但目前还徘徊宗门附近，请你击败钦原，将之赶走。",
+  "en": "The Qin Yuan is plotting to take over the Sect energy spring. Even after being driven out , it still wanders the area around the Sect. Please confront the monster in battle and drive it from this place.",
+  "pt": ""
+ },
+ "taskDesc2110551": {
+  "ch": "云涯让我收集<r>玄黄母气</r>补充青鳞池灵气。\n此物可在<g>{#areaName4}</g>区域内的{#building1001Name1}、{#building1001Name2}、{#building1001Name3}、{#building1001Name4}、{#building1001Name5}、{#building1001Name6}内，击杀其中出现的<r>大妖兽</r>有概率获得。\n亦可在<g>{#areaName4}</g>区域内的<g>残破锁灵阵</g>中获得<y>（非首次通关）</y>（<g>残破锁灵阵</g>的位置可以去酒馆中打听打听）。（返回青鳞池交任务）",
+  "en": "Yun Ya allows me to collect <r>Cosmos Essence</r> to replenish the Qi of the Greenscale Spring.\nWith this, in {#building1001Name1}, {#building1001Name2}, {#building1001Name3}, {#building1001Name4}, {#building1001Name5}, and {#building1001Name6} within the <g>{#areaName4}</g> region, there will be a opportunity to attack the <r>Mythical Beasts</r> that appear.\nThis is also possible in <g>Spiritlock Circle</g> within <g>{#areaName4}</g> <y>(So long as you have already completed the level once)</y> (You can ask about the location of the <g>Spiritlock Circle</g> at the Tavern). (Return to Greenscale Spring to submit)",
+  "pt": ""
+ },
+ "taskDesc2110552": {
+  "ch": "钦原宗门附近伤害百姓，为了宗门附近安宁，必须再次驱逐这只妖怪。",
+  "en": "The Qin Yuan is terrorizing the people nearby the Sect. It will need to be driven out once again so this area can be safe.",
+  "pt": ""
+ },
+ "taskDesc2110553": {
+  "ch": "经过你两番驱逐，钦原不但没有逃去，还变得更强，云涯认为只有痛下杀手，将钦原消灭。",
+  "en": "You've twice driven away the monster, yet not only is it still here, it has also become even stronger. Yun Ya believes that the only way to be rid of it for good is to cut it down.",
+  "pt": ""
+ },
+ "taskDesc2110555": {
+  "ch": "妖物扰乱周边之余，还入侵我宗地盘需要，必须将其斩杀。",
+  "en": "The monsters are not only disrupting people's lives here, but also trespassing on our sect territory. We must slay them all.",
+  "pt": ""
+ },
+ "taskDesc2110556": {
+  "ch": "这些竹妖成群结队，都往一个地方逃去，像是有人在暗中指挥。不妨跟随过去看看究竟是什么人在捣鬼。",
+  "en": "These Bambukis are all escaping in the same direction. There seems to be someone commanding them. I should go after them to find out the mastermind.",
+  "pt": ""
+ },
+ "taskDesc2110557": {
+  "ch": "回宗门议事大厅找云涯。",
+  "en": "Find Yun Ya at Sect Council Hall.",
+  "pt": ""
+ },
+ "taskDesc2110558": {
+  "ch": "这名神秘黑衣人十分古怪，与云涯兵分两路查一查这个神秘人为好。",
+  "en": "This mystery man in black is very sneaky. It'd be better for you and Yun Ya to split up and track him in separate ways.",
+  "pt": ""
+ },
+ "taskDesc2110559": {
+  "ch": "这个神秘人一定别有用心，速速回归宗门与云涯商量。",
+  "en": "This mystery man must be up to something. Hurry back to the sect to discuss with Yun Ya.",
+  "pt": ""
+ },
+ "taskDesc2110560": {
+  "ch": "云涯猜测神秘人竟是觊觎山庄失传秘宝幻龙鳞，此时最重要的便是前往龙涎涧找到龙鳞保证其不被神秘人所得。",
+  "en": "Yun Ya thinks the mystery man is coveting the Emerald Dragon Scale, a lost treasure of the hamlet. We must hurry to the Dragon Saliva Gully, find the Dragon Scale, and save it from the mystery man.",
+  "pt": ""
+ },
+ "taskDesc2110561": {
+  "ch": "云涯近日除去处理宗门事务之外，总在山庄藏经阁逗留，不如前往看望，看看他可有什么难处？",
+  "en": "Yun Ya has been spending a lot of time in the Manual Library after handling sect affairs every day. Why not pay him a visit and see if he needs help?",
+  "pt": ""
+ },
+ "taskDesc2110562": {
+  "ch": "云涯似乎正在为什么事情而烦恼，他目前就在山庄门户之外，不妨前去一探。",
+  "en": "Yun Ya seems to be worried about something. He's outside the hamlet gate. You should pay him a visit.",
+  "pt": ""
+ },
+ "taskDesc2110601": {
+  "ch": "有人似乎正在找你……不过却因为什么要事先行赶往了魔族营地，要不要去看看呢……",
+  "en": "Someone was looking for you... But something urgent led them to the monster base. Maybe you should go there too...",
+  "pt": ""
+ },
+ "taskDesc2110602": {
+  "ch": "很不巧，你所欲见之人并不在此处，但好消息是，你得知他们前往了永恒冰原，试试看能不能追上他们吧……",
+  "en": "Unfortunately, they are not here now. It is said they have left for Everfrost. Follow in that direction to see if you can catch up with them...",
+  "pt": ""
+ },
+ "taskDesc2110603": {
+  "ch": "天玄真人邀请你前往道心阁一叙，此地绝非寻常修仙之人可入，想必是一番莫大机缘。",
+  "en": "Sage Tianxuan invites you to a chat in the Taoist Mind Pavilion. It's not some place every cultivator can visit. It must be a rare opportunity waiting for you.",
+  "pt": ""
+ },
+ "taskDesc2110604": {
+  "ch": "蝶怨仙子邀请你前往蚀心殿一叙，此地绝非寻常修仙之人可入，想必是一番莫大机缘。",
+  "en": "Bitterfly Spirit invites you to a chat in the Mindsnap Temple. It's not some place every cultivator can visit. It must be a rare opportunity waiting for you.",
+  "pt": ""
+ },
+ "taskDesc2110610": {
+  "ch": "查看李四所赠的幽窟地理图地理图。",
+  "en": "Read the Cavern Map from Jo.",
+  "pt": ""
+ },
+ "taskDesc2110611": {
+  "ch": "李四所说突破至羽化境的关键乃是收集五枚冥种，眼下冥种已足，需设法将之融合好进一步突破境界。",
+  "en": "According to Jo, the key to breaking through to Reborn Realm is to collect five Nether Seeds. Now that you have collected them all, you need to find a way to blend them.",
+  "pt": ""
+ },
+ "taskDesc2110612": {
+  "ch": "地理图中记录了一处阳炎精金的地下矿藏，可以前往地底取得这些所需精金。",
+  "en": "On the map is marked an underground mine of Sun Flame. Go there to obtain it.",
+  "pt": ""
+ },
+ "taskDesc2110620": {
+  "ch": "大量前线仙卫在激战中受伤，现急需“焰芯冰葵”支援伤者。此物或长于危崖绝壁或生于深穴幽窟，故托能人代为采摘。",
+  "en": "Many Alliance Guards were wounded in the fierce battle, and we are in urgent need of Flame Begonias to treat them. Since they only grow on the steep cliffs or in deep caverns, we need capable hands to pick them for us.",
+  "pt": ""
+ },
+ "taskDesc2110621": {
+  "ch": "仙盟城部分位置出现裂痕。妖兽不知何时再次侵袭，现急需修为高深者前往仙盟附近各处阵法枢纽输入灵力巩固城墙禁咒。",
+  "en": "There are some cracks on the Alliance's city walls. The monsters may come back anytime. We are in urgent need of veteran cultivators to help us fortify the defensive spells on the wall by infusing their Energy into the array nodes near the Alliance.",
+  "pt": ""
+ },
+ "taskDesc2110622": {
+  "ch": "远古之时，仙盟先辈到达赤幽州。他们昔日洞府之中还留下大量著述，请你帮忙将这些古老卷宗取回。",
+  "en": "In ancient times, the first generation of Cultivator Alliance members came to Chi You. They left a lot of writings in the ancient caves. Please help us retrieve these ancient scrolls.",
+  "pt": ""
+ },
+ "taskDesc2110623": {
+  "ch": "仙盟后方植有大片玉籼，专供盟中成员服食以补充灵力。玉籼聚天地精华，饱含灵气，故需修为高深的修仙者布散灵力滋养此物。",
+  "en": "Indica Rice is grown in a large area behind the Cultivator Alliance territory as foodstuff for the members to restore their Energy. Since it is a plant thriving on natural essence, we need high-achieving cultivators to nurture them with Qi.",
+  "pt": ""
+ },
+ "taskDesc2110624": {
+  "ch": "将从神秘洞府中寻获的古老书简交还百城殿主事。",
+  "en": "Give the ancient scrolls from the mysterious caves to the Library Manager.",
+  "pt": ""
+ },
+ "taskDesc2110625": {
+  "ch": "仙盟城墙阻挡了妖兽入侵，但后方仍有零丁妖兽出没，现请经验丰富的修仙者前往将妖兽消灭。",
+  "en": "The Alliance Wall has stopped the invasion of the Wave of Monsters, but some of them have sneaked behind our territory. We need experienced cultivators to kill them for us.",
+  "pt": ""
+ },
+ "taskDesc2110626": {
+  "ch": "日前刑天挥动战斧竟导致仙盟弟子失控。这名仙卫十分厉害，逃离之际打伤数名仙卫，现特请实力不凡的高人将之击败并带回治疗。",
+  "en": "Xingtian's axe waving the other day bewildered one of our disciples. That Alliance Guard is very strong and wounded several other guards before escaping. We need a capable cultivator to defeat and bring back that guard.",
+  "pt": ""
+ },
+ "taskDesc2110627": {
+  "ch": "近日发现城防仙卫形迹古怪，身周还散发冥气，这是一只伪装成仙卫的妖兽。目前妖兽逃离仙盟，藏匿后方，还请仙盟中人将它找出并击杀！",
+  "en": "We've received a report of a strange Alliance Guard at the wall who is giving off Nether Air. It is a monster disguised as a guard. It has escaped behind our territory. We need someone to find it and kill it!",
+  "pt": ""
+ },
+ "taskDesc2110628": {
+  "ch": "仙盟附近无故出现阵阵冥气，此必为大妖兽潜藏后方吐息所致。现急邀大能前往将之剿灭。",
+  "en": "Gusts of Nether Air have appeared out of nowhere near the Cultivator Alliance. It must be the breath of Mythical Beasts lurking behind us. We need capable hands to hunt them down.",
+  "pt": ""
+ },
+ "taskDesc2110629": {
+  "ch": "近日城墙之外总有妖兽徘徊不去。此为妖族哨探，务必将之除去，故仙盟特邀大能外出铲除该类妖族哨探！",
+  "en": "We have received reports of monsters patrolling beyond the wall. We need capable hands to wipe out those scouts!",
+  "pt": ""
+ },
+ "taskDesc2110630": {
+  "ch": "近日仙卫凭借法宝，查得城墙之外若干隐穴。此为妖兽埋伏之处，需尽快肃清。",
+  "en": "Our Alliance Guards have detected some hidden caves beyond the wall using artifacts. These monster lairs must be destroyed immediately.",
+  "pt": ""
+ },
+ "taskDesc2110631": {
+  "ch": "针对即将来犯的兽潮，仙盟欲布置强大法阵歼灭妖兽。现请高人前往协助布置符咒。",
+  "en": "Cultivator Alliance is going to set a powerful array for the imminent monster invasion. We need capable hands to help set spells in the array.",
+  "pt": ""
+ },
+ "taskDesc2110632": {
+  "ch": "某些妖兽似乎存在极高智慧，不下我等修仙者。仙盟对此等妖物进行详细探究，故请托高手协力捕捉。",
+  "en": "Some monsters seem to have intelligence comparable to us cultivators. Cultivator Alliance requests help from capable hands to capture some of those monsters for further study.",
+  "pt": ""
+ },
+ "taskDesc2110650": {
+  "ch": "前方神秘人李四正在抱手沉吟，要不要过去打个招呼呢？",
+  "en": "Mystery Man Jo is ahead absorbed in contemplation with hands clasped behind his back. Should you go up and greet him?",
+  "pt": ""
+ },
+ "taskDesc2110651": {
+  "ch": "与神秘人李四一起查探深谷。",
+  "en": "Explore the deep valley with Mystery Man Jo.",
+  "pt": ""
+ },
+ "taskDesc2110652": {
+  "ch": "自从去过深谷，你总是时时听到女子求救的声音，难道有什么人被困在那处了么？",
+  "en": "After your return from the deep valley, the woman's cry for help has been haunting your mind. Is there someone trapped there?",
+  "pt": ""
+ },
+ "taskDesc2110653": {
+  "ch": "将听到古怪声音的事情告知魔族族长风允婼。",
+  "en": "Tell Feng Yunchuo, Chief of the Demon about the odd voice.",
+  "pt": ""
+ },
+ "taskDesc2110654": {
+  "ch": "收到风萍末书信之后，李四与风族长便即遣人邀请，想必有要事商量。",
+  "en": "After receiving Feng Pingmo's message, Immortal Jo and Chief Feng sent an invitation. There must be more important things to discuss.",
+  "pt": ""
+ },
+ "taskDesc2110655": {
+  "ch": "收到风萍末书信之后，李四与风族长便即遣人邀请，想必有要事商量。",
+  "en": "After receiving Feng Pingmo's message, Immortal Jo and Chief Feng sent an invitation. There must be more important things to discuss.",
+  "pt": ""
+ },
+ "taskDesc2110656": {
+  "ch": "摘录不远处的神秘洞府的《玄息》秘本并传授风萍末，希望她借此增进修为凝气屏息，探索冥山内部。",
+  "en": "Transcribe the Aether Breath Manual in the mysterious cave, and teach Feng Pingmo with the hope that she can use it to improve her cultivation and hold her breath to explore the inside of the Nether Mountains.",
+  "pt": ""
+ },
+ "taskDesc2110657": {
+  "ch": "风萍末发现冥山内部的开合缝隙，得赶紧将此消息告诉李四，以待下一步营救安排。",
+  "en": "Feng Pingmo finds the gap inside the Nether Mountains, and hurries to tell Immortal Jo the news so she can wait for rescue arrangements.",
+  "pt": ""
+ },
+ "taskDesc2110658": {
+  "ch": "李四铸造破开冥山的利器需要一股冷焰火，他以为这种奇特的火焰或在冰原与十万大山之中，风族长前往十万大山查探，而你则前往冰原设法取火。",
+  "en": "Immortal Jo needs a Cold Flame to forge a sharp weapon to split open the Nether Mountains. He thinks this strange flame can be found at either the ice plains or the Hundred Thousand Hills. Chief Feng goes to the Hundred Thousand Hills to investigate, while you go to the ice plains to try to get the flame.",
+  "pt": ""
+ },
+ "taskDesc2110659": {
+  "ch": "将冷焰带回，并将风萍末近况告知李四与风允婼。",
+  "en": "Bring the Cold Flame back, and tell Feng Yunchuo and Immortal Jo about Feng Pingmo's recent situation.",
+  "pt": ""
+ },
+ "taskDesc2110660": {
+  "ch": "风萍末坦白了当年以及现在冥山内部的真相，她十分内疚，故意传达讯息将宝绢烧毁，必须赶紧将这讯息告知风族长。",
+  "en": "Feng Pingmo confesses the truth about what happened, and the present situation inside the Nether Mountains. She is so guilty that she deliberately sends messages to overload the Brocade Silk and burn it. You must hurry to inform Chief Feng of this message.",
+  "pt": ""
+ },
+ "taskDesc2110661": {
+  "ch": "风允婼决定营救风萍末，然后由你护送她回魔族营地。",
+  "en": "Feng Yunchuo decides to rescue Feng Pingmo, and ask you to escort her back to the camp of the Demon.",
+  "pt": ""
+ },
+ "taskDesc2110662": {
+  "ch": "风萍末与冥兽一同破困而出，但她面对妖兽却落荒而逃，风允婼请你追上保护她。",
+  "en": "Feng Pingmo and the Nether Beast burst out of imprisonment together, but she flees when she faces the Monster. Feng Yunchuo asks you to catch up to her and protect her.",
+  "pt": ""
+ },
+ "taskDesc2110663": {
+  "ch": "风里希担心父亲，竟然不顾危难前往冥山战场。必须将她追回。",
+  "en": "Feng Lixi is worried about her father and goes to the Nether Mountains despite the danger. She must be brought back.",
+  "pt": ""
+ },
+ "taskDesc2110664": {
+  "ch": "由于现在只有你能和失陷之人联系，所以风族长与神秘人李四希望你能出手帮助。",
+  "en": "Since you are the only one who can contact the lost person, Chief Feng and Mystery Man Jo hope that you can lend a helping hand.",
+  "pt": ""
+ },
+ "taskDesc2110680": {
+  "ch": "李四所赠地理图已无法看清上面内容，需要取得万年灵泉乳往图上涂抹才能将之还原。\n<g>●</g>你可在<g>{#areaName8}、{#areaName9}</g>区域内采集获得（需要先学习药谱）\n<g>●</g>可通过击杀<g>{#areaName8}、{#areaName9}</g>区域内的怪物获得（学习药谱后可增加掉落）获得<r>万年灵泉乳</r>。",
+  "en": "Jo's map is somewhat blurred. You need to smear it with Holy Spring Stalactite to mend it.\n<g>●</g>Gather it in <g>{#areaName8} and {#areaName9}</g> (requires learning its Prescription first).\n<g>●</g>Alternatively, you can obtain <r>Holy Spring Stalactite</r> by killing monsters in <g>{#areaName8} and {#areaName9}</g> (learning its Prescription will increase its drop quantity).",
+  "pt": ""
+ },
+ "taskDesc2110681": {
+  "ch": "《羽化真诰》记载，需到幻虚竹海之中取得灵物竹空木心才能借此查得永宁州冥种幽窟的准确位置。",
+  "en": "According to the Reborn Canon, you need to obtain Spiritual Item - Bamboo Heart in Illusory Bamboo Forest before locating the Nether Seed Cavern in Yong Ning with it.",
+  "pt": ""
+ },
+ "taskDesc2110682": {
+  "ch": "《羽化真诰》记载，需取得风符才能找到冥种幽窟确切位置，而风符在华封州之中为妖兽争夺。只要找到交战的妖兽，就能找到风符。",
+  "en": "According to the Reborn Canon, you need to obtain Wind Charm to locate the Nether Seed Cavern. Monsters in Hua Feng are fighting for the Charm, and you could find the item as long as you encounter the monsters fighting for it.",
+  "pt": ""
+ },
+ "taskDesc2110683": {
+  "ch": "《羽化真诰》记载，要先到十万大山魅谷中取得灵物魅壤，才能以之查得冥种幽窟的确切位置。这段标注还有一行红字：魅谷之中有许多妖物，很多很多……",
+  "en": "According to the Reborn Canon, you need to obtain Spiritual Item - Tempting Soil in the Tempting Valley of Hundred Thousand Hills before locating the Nether Seed Cavern with it. On its side is a note written in red ink. It reads, \"There are many monsters in the Valley, MANY monsters...\"",
+  "pt": ""
+ },
+ "taskDesc2110684": {
+  "ch": "《羽化真诰》记载，玉髓冰宫在暮仙州中西部空中漂浮不定。而冰芷在这座冰宫之中。",
+  "en": "According to the Reborn Canon, the Jade-cored Ice Palace floats above Mu Xian, and the Ice Angelica is grown inside it.",
+  "pt": ""
+ },
+ "taskDesc2110685": {
+  "ch": "《羽化真诰》记载，只要在洞天之地寂寞沙洲找到<r>汞源</r>，就能借此让冥种幽窟显形。",
+  "en": "According to the Reborn Canon, you need to obtain <r>Mercury Crystal</r> in Desolate Sandbar before locating the Nether Seed Cavern with it.",
+  "pt": ""
+ },
+ "taskDesc2110686": {
+  "ch": "你取得竹空木心后，心中已感知到永宁州冥种幽窟的位置。",
+  "en": "You have obtained Bamboo Heart. The location of the Nether Seed Cavern in Yong Ning is felt.",
+  "pt": ""
+ },
+ "taskDesc2110687": {
+  "ch": "你取得风符后，引动九天之雷让冥种幽窟显形。",
+  "en": "You have obtained Wind Charm. You may now induce the heavenly thunders to reveal the Nether Seed Cavern.",
+  "pt": ""
+ },
+ "taskDesc2110688": {
+  "ch": "你取得魅壤后，已感知到冥种幽窟的确切位置。",
+  "en": "You have obtained Tempting Soil. The location of the Nether Seed Cavern is felt.",
+  "pt": ""
+ },
+ "taskDesc2110689": {
+  "ch": "你取得冰芷后，心中生出异感，已察知冥种幽窟的确切位置。",
+  "en": "You have obtained Ice Angelica. A strange feeling emerges in your mind, and the location of the Nether Seed Cavern is felt.",
+  "pt": ""
+ },
+ "taskDesc2110690": {
+  "ch": "你取得汞源后，同时感知到冥种幽窟的确切位置。",
+  "en": "You have obtained Mercury Crystal. At the same time, you feel the location of the Nether Seed Cavern.",
+  "pt": ""
+ },
+ "taskDesc2110691": {
+  "ch": "面前的五冥凝羽阵已经生成，可在上面凝练冥羽，让自己突破境界，达到羽化之境！",
+  "en": "The Array of Gathering Nether Feathers is formed. Now you could condense Nether Feather in it and achieve breakthrough to Reborn Realm!",
+  "pt": ""
+ },
+ "taskDesc2110692": {
+  "ch": "仙盟前辈骆瑛似在为什么事情烦恼，要不要过去呢？",
+  "en": "Luoying, a senior in the Cultivator Alliance, seems to be bothered with something. Should you check her out?",
+  "pt": ""
+ },
+ "taskDesc2110693": {
+  "ch": "去到建木附件查探神秘的建木大树，如果情况允许不妨进入一探究竟。",
+  "en": "Go to the Tree Vault and check the mysterious tree. If possible, go nearer the tree to find more.",
+  "pt": ""
+ },
+ "taskDesc2110694": {
+  "ch": "顾鸢儿受困，此地必有控制树阵的关窍。要找出枢纽才能击退纠缠的藤蔓。",
+  "en": "Gu Yuan'er is trapped. There must be a mechanism here that controls the tree array. Find the switch to repel the entangling vines.",
+  "pt": ""
+ },
+ "taskDesc2110695": {
+  "ch": "句芒似乎并不愿意有人前往建木打扰，回到仙盟告知骆瑛此事。",
+  "en": "Goumang doesn't want anyone to go to the Tree Vault. Go back to the Cultivator Alliance and report to Luoying.",
+  "pt": ""
+ },
+ "taskDesc2110696": {
+  "ch": "城墙之外的远方突然冒起大量冥气遮蔽天空，骆瑛希望你前往商量。",
+  "en": "Massive Nether Air has appeared in the distance beyond the city walls. Luoying summons you for a discussion.",
+  "pt": ""
+ },
+ "taskDesc2110697": {
+  "ch": "城墙之外的赤幽州未知地域冥气喷发，变得十分可怕，为保全仙盟实力，骆瑛建议暂时撤退，请你主持大事，撤离旧城墙。",
+  "en": "There is a spurt of Nether Air in the uncharted area of Chi You beyond the city walls. The situation is dire. To protect the Cultivator Alliance, Luoying suggests a retreat. You are requested to organize the retreat from the old city walls.",
+  "pt": ""
+ },
+ "taskDesc2110698": {
+  "ch": "查看受伤的骆瑛，并了解失落仙卫的情况。",
+  "en": "Check the wounded Luoying and learn about the situation of the lost alliance guards.",
+  "pt": ""
+ },
+ "taskDesc2110699": {
+  "ch": "骆瑛将失陷在冥气深处的仙卫地点告知于你，待在那边的仙卫每时每刻都处在危险之中，要尽快将之救回。",
+  "en": "Luoying tells you the position of the alliance guards who are trapped deep inside the Nether Air. They are exposed to lethal danger. Rescue the guards as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc2110700": {
+  "ch": "句芒与你约定稍后与你作一次叙话",
+  "en": "Goumang asks you to have a talk later",
+  "pt": ""
+ },
+ "taskDesc2110701": {
+  "ch": "仙盟弟子已经被解救，需尽快回到仙盟告知佳讯。",
+  "en": "You have rescued Alliance Disciples. Go back to the Cultivator Alliance and tell everyone the good news.",
+  "pt": ""
+ },
+ "taskDesc2110702": {
+  "ch": "木块留有只有通过进入识海境界后才能辨别的异香，或能循异香发现无故攻击你的怪异人影。",
+  "en": "The wood plaque has an unusual fragrance that only those in Mind Sea Realm can identify. Follow this lead to find the strange person who attacked you.",
+  "pt": ""
+ },
+ "taskDesc2110703": {
+  "ch": "一连窜事情似乎都有关连，不妨再去建木询问碧泓。",
+  "en": "All these happenings seem to be connected. Go to Tree Vault again to ask Bihong.",
+  "pt": ""
+ },
+ "taskDesc2110704": {
+  "ch": "扶桑树守护者送来树枝邀你相聚；她与句芒总是欲言又止，或许此行能知悉他们的秘密。",
+  "en": "Divine Mulberry Guardian sends you the branch and invites you to meet her. She and Goumang are always hesitant with their words. Perhaps you can find out their secrets this time.",
+  "pt": ""
+ },
+ "taskDesc2110705": {
+  "ch": "碧泓希望由她将木之冥源送出让你获得深入赤幽州深处挑战刑天的机会。碧泓似乎是无法阻止句芒，所以希望通过她自己来成全句芒。",
+  "en": "Bihong wants to use her Wood Nether Essence to let you go deep inside Chi You to challenge Xingtian. Bihong seems incapable of stopping Goumang, so she wants to help Goumang realize his hope.",
+  "pt": ""
+ },
+ "taskDesc2110706": {
+  "ch": "才与碧泓说完，句芒便出现了。他又有什么想说呢？",
+  "en": "You have just finished talking with Bihong, and Goumang comes. What does he have to say?",
+  "pt": ""
+ },
+ "taskDesc2110707": {
+  "ch": "句芒为了阻止冥气扩散，情愿以残余的木灵与你一战，以激活你体内潜能，方能不惧赤幽州深处的冥气，才可与刑天一战。",
+  "en": "In order to stop the spread of Nether Air, Goumang wants to fight against you with his remaining Wood Essence. Therefore, your potential could be activated, and you could confront Xingtian in spite of the Nether Air in the depth of Chi You.",
+  "pt": ""
+ },
+ "taskDesc2110708": {
+  "ch": "冥种受你体内灵力滋养，逐渐壮大成熟并表现得十分躁动。你需要收集10个混沌之息以提取里面与冥气相近的灵气以驯化冥种。混沌之息可通过击杀<r>赤幽州城墙外荒地兽巢</r>的妖兽获得。",
+  "en": "Nurtured by your Energy, the Nether Seed has grown ripe and agitated. You need to collect 10 Breath of Chaos to extract Qi close to Nether Air to tame the Nether Seed. The Breath of Chaos could be obtained by slaying monsters in <r>Lair of Desolation outside the wall of Chi You</r>.",
+  "pt": ""
+ },
+ "taskDesc2110709": {
+  "ch": "你通过内观之法，察觉到冥气的需求。此次你需要收集5个上品混沌之息以控制作乱冥种。上品混沌之息可通过击杀<r>赤幽州城墙外荒地兽巢</r>的妖兽获得。",
+  "en": "You introspect and find out the need of the Nether Air. This time you need to collect 5 Blessed Breath of Chaos to control the rogue Nether Seed. The Blessed Breath of Chaos could be obtained by slaying monsters in <r>Lair of Desolation outside the wall of Chi You</r>.",
+  "pt": ""
+ },
+ "taskDesc2110710": {
+  "ch": "少女称赤幽州充满危险，要尽快前往仙盟落脚。",
+  "en": "The girl says Chi You is very dangerous and you should hurry to the Cultivator Alliance.",
+  "pt": ""
+ },
+ "taskDesc2110711": {
+  "ch": "初逢顾鸢儿，你打算先随她返回仙盟。",
+  "en": "You met a girl called Gu Yuan'er. You decided to follow her guide to return to the Cultivator Alliance.",
+  "pt": ""
+ },
+ "taskDesc2110712": {
+  "ch": "顾鸢儿说有一个好去处希望与你同去，此处人生地不熟，不妨跟着这位姑娘四处看看。",
+  "en": "Gu Yuan'er mentions a place worth seeing. You should follow her since this place is unfamiliar to you.",
+  "pt": ""
+ },
+ "taskDesc2110713": {
+  "ch": "能在赤幽州得知旧友，实在是令人高兴之时，便跟随顾鸢儿前去找风允婼。",
+  "en": "It's happy to meet an old friend in Chi You. Follow the guide of Gu Yuan'er and find Feng Yunchuo.",
+  "pt": ""
+ },
+ "taskDesc2110714": {
+  "ch": "风允婼追截妖兽已经去得很远了，你身边的顾鸢儿亦跃跃欲试，希望追上帮助风允婼击杀妖兽。",
+  "en": "Feng Yunchuo has gone far away chasing the monster. Gu Yuan'er is very eager and wants to catch up with him to help kill the monster.",
+  "pt": ""
+ },
+ "taskDesc2110715": {
+  "ch": "骆瑛传来消息，似有急事相招，立刻回到骆瑛处。",
+  "en": "Luo Ying sent you the news - perhaps there are emergencies to deal with. Return to Luo Ying immediately.",
+  "pt": ""
+ },
+ "taskDesc2110716": {
+  "ch": "兽潮有提前来袭之意，需前往救援还在外执行任务的仙卫。",
+  "en": "The Wave of Monsters may come in advance. Rescue the Alliance Guards currently performing their duty outside.",
+  "pt": ""
+ },
+ "taskDesc2110717": {
+  "ch": "成功救到仙卫，把他们带回骆瑛处。",
+  "en": "You have found the Guards. Bring them back to Luo Ying.",
+  "pt": ""
+ },
+ "taskDesc2110718": {
+  "ch": "骆瑛邀请你加入仙盟，希望你认真考虑后再去找她。",
+  "en": "Luo Ying invited you to join the Cultivator Alliance. She hopes you consider the proposal carefully before giving any reply.",
+  "pt": ""
+ },
+ "taskDesc2110719": {
+  "ch": "祈天台成功被毁，你立下大功，得盟主相招，请前往盟主处。",
+  "en": "You have destroyed the Heaven Sacrifice Altar and made a great contribution. The Alliance Master wants to see you. Go visit the Master.",
+  "pt": ""
+ },
+ "taskDesc2110720": {
+  "ch": "兽潮来袭，请厉兵秣马，在仙盟中通过御妖台参与一次兽潮。",
+  "en": "The Wave of Monsters invaded. Take this chance to practice your skill by joining in the battle through the Monster Resisting Altar in the Cultivator Alliance.",
+  "pt": ""
+ },
+ "taskDesc2110721": {
+  "ch": "祈天台能量将竭，为了不让其落于妖兽之手，你将跟随顾鸢儿前往祈天台将之销毁。",
+  "en": "The energy in the Heaven Sacrifice Altar is about to exhaust. To prevent monsters from possessing it, you should follow Yuan'er and destroy it.",
+  "pt": ""
+ },
+ "taskDesc2110722": {
+  "ch": "兽潮一战，九婴重伤，可趁此机会前往九婴洞穴，寻找击杀机会。",
+  "en": "Jiuying was heavily wounded during the battle against the Wave of Monsters. Take this chance and enter Jiuying's lair to kill the monster.",
+  "pt": ""
+ },
+ "taskDesc2110723": {
+  "ch": "虽未在九婴洞穴发现九婴，但意外得到一镜面法宝，不若带回去让骆瑛看看。",
+  "en": "You did not find Jiuying in the lair, but you found a mirror-like Artifact unexpectedly. Perhaps Luo Ying knows something about it.",
+  "pt": ""
+ },
+ "taskDesc2110724": {
+  "ch": "骆瑛认出此法宝为天目境，若灌输冥晶可激活此物，用来侦查九婴位置，现在需要前往寻找冥晶。",
+  "en": "Luo Ying said the Artifact is called Heavenly Insight. It can locate Jiuying once activated by infusing Nether Crystal into it. Now you should find the said Nether Crystal.",
+  "pt": ""
+ },
+ "taskDesc2110725": {
+  "ch": "一番交战，你成功拿到冥晶，需回到骆瑛处激活天目。",
+  "en": "After fighting, you obtained the Nether Crystal. Now return to Luo Ying and activate the Heavenly Insight.",
+  "pt": ""
+ },
+ "taskDesc2110726": {
+  "ch": "天目激活，发现九婴位置，前往击杀。",
+  "en": "The Heavenly Insight is activated, and Jiuying's location is found. Go slay the monster.",
+  "pt": ""
+ },
+ "taskDesc2110727": {
+  "ch": "击败敌人后获得的木牌十分奇特；摸索查探此物或能得知袭击者的底细。",
+  "en": "Examine the peculiar wooden plaque in your inventory.",
+  "pt": ""
+ },
+ "taskDesc2110728": {
+  "ch": "饕餮被灭，九婴遁去，只能先返回骆瑛处告知详情。",
+  "en": "Tao Tie is slain, but Jiuying has fled. You could only return to Luo Ying and tell her about the battle.",
+  "pt": ""
+ },
+ "taskDesc2110729": {
+  "ch": "仙盟盟主向令钧正在不远处的山林和骆英大战，你需要前往解救。",
+  "en": "Luo Ying is trapped in a harsh battle against Xiang Lingjun, the Master of the Cultivator Alliance, in the mountain forest nearby. Find and rescue her.",
+  "pt": ""
+ },
+ "taskDesc2110730": {
+  "ch": "你击败向令钧，成功救下骆瑛后，九婴竟然出现，你打算跟随九婴看看它想干嘛。",
+  "en": "You defeated Xiang Lingjun and rescued Luo Ying. But unexpectedly, you find Jiuying around here. You decide to follow Jiuying for further investigation.",
+  "pt": ""
+ },
+ "taskDesc2110731": {
+  "ch": "击败九婴后，在顾鸢儿的帮助下，你成功控制九婴，需要回骆瑛处告知结果。",
+  "en": "You defeated Jiuying. With the help from Yuan'er, you also put Jiuying's power under control. Return and inform Luo Ying.",
+  "pt": ""
+ },
+ "taskDesc2110732": {
+  "ch": "你决定照着顾鸢儿所指的位置，寻找{itemLink7000110}。",
+  "en": "You decide to find the {itemLink7000110} according to the location pointed out by Gu Yuan'er.",
+  "pt": ""
+ },
+ "taskDesc2110733": {
+  "ch": "一番大战，你终于拿到了{itemLink7000110}，眼下将其拿交给骆英即可。",
+  "en": "After a harsh battle, you get the {itemLink7000110} at last. Return and hand it to Luo Ying.",
+  "pt": ""
+ },
+ "taskDesc2110734": {
+  "ch": "根据神秘指引留下的位置，前去一探究竟。",
+  "en": "Investigate the location given by the Mysterious Hint.",
+  "pt": ""
+ },
+ "taskDesc2110735": {
+  "ch": "顾鸢儿被骆瑛当众教训后，情绪激动，前往安慰一番。",
+  "en": "Luo Ying scolds Gu Yuan'er in public. Now Yuan'er is upset, perhaps you should give her some support.",
+  "pt": ""
+ },
+ "taskDesc2110736": {
+  "ch": "祈天台能量将竭，为了不让其落于妖兽之手，你将跟随顾鸢儿前往祈天台将之销毁。",
+  "en": "The energy in the Heaven Sacrifice Altar is about to exhaust. In order to prevent monsters from possessing it, you should follow the guide of Yuan'er and destroy it.",
+  "pt": ""
+ },
+ "taskDesc2110737": {
+  "ch": "九婴一旁竟有混沌凶兽饕餮守护，若杀九婴，需先灭饕餮。",
+  "en": "There is a monster of chaos guarding beside Jiuying. If you want to slay Jiuying, you should firstly kill Taotie.",
+  "pt": ""
+ },
+ "taskDesc2110800": {
+  "ch": "骆瑛与凶兽对战之际受了伤，凶兽似乎十分厉害，不妨前去探问之际打听一下凶兽来历。",
+  "en": "Luo Ying was wounded when fighting the monsters. Ask about the savage monsters when you visit her.",
+  "pt": ""
+ },
+ "taskDesc2110801": {
+  "ch": "骆瑛担心顾鸢儿此去乃是为了击杀九婴，她希望我马上将之追回。同时圣阳亦将九婴大概方位指出。但愿鸢儿没有前往九婴巢穴。",
+  "en": "Luo Ying is worried that Gu Yuan'er left to hunt Jiuying. She wants me to bring her back. Sunny has told me Jiuying's approximate position. I hope Yuan'er didn't go to Jiuying's lair.",
+  "pt": ""
+ },
+ "taskDesc2110802": {
+  "ch": "在小屋中发现的铜镜十分古怪，据顾鸢儿推测这是他父亲制作的法宝；请骆瑛看看，或能知悉中间隐秘。",
+  "en": "The bronze mirror in the hut is very strange. Gu Yuan'er thinks it might be an artifact made by her father. Show it to Luo Ying, and she may know more about it.",
+  "pt": ""
+ },
+ "taskDesc2110803": {
+  "ch": "骆长老希望由你设法还原镜子功用。法宝是顾南罡长老作品，鸢儿应该颇有心得，或者前去询问为是。",
+  "en": "Elder Luo wants you to repair the mirror. The artifact is Elder Gu Nangang's work, and Yuan'er should have quite some knowledge of it. You should go ask her.",
+  "pt": ""
+ },
+ "taskDesc2110804": {
+  "ch": "到城外寻找冥气结晶看看能否让法宝再次运作。",
+  "en": "Find Nether Air Condensation outside the town to see if it can reactivate the artifact.",
+  "pt": ""
+ },
+ "taskDesc2110805": {
+  "ch": "镜子突然生出动静，并且标示出一个紫黑色的圆点。此镜能追踪赤幽州特殊妖兽，莫非九婴就在附近？",
+  "en": "The mirror is suddenly awakened and displays a purple-black dot. Since the mirror is capable of tracking the special monsters in Chi You, perhaps Jiuying is just nearby?",
+  "pt": ""
+ },
+ "taskDesc2110806": {
+  "ch": "据这名神秘女子所言，前方百里外有一秘窟，从中可以起出冥气结晶，借此使法宝重生运作。",
+  "en": "According to this mysterious lady, there is a secret cavern a hundred leagues ahead. The Nether Air Condensation inside it should be able to reactivate the artifact.",
+  "pt": ""
+ },
+ "taskDesc2110807": {
+  "ch": "天目已将九婴位置标示出来，不妨即刻前往将之击杀，以解眼前兽潮棘手之局。",
+  "en": "The Heavenly Insight has marked the position of Jiuying. You should go right away to kill it to put an end to the Wave of Monsters.",
+  "pt": ""
+ },
+ "taskDesc2110808": {
+  "ch": "小胜兽潮之战后，盟主邀请你前往一聚。",
+  "en": "After the victory against the Wave of Monsters, Alliance Master invites you for a gathering.",
+  "pt": ""
+ },
+ "taskDesc2110809": {
+  "ch": "你身上并无伤势，骆瑛似乎另有急事，因此才让顾鸢儿特意来请。",
+  "en": "You are not wounded. Luo Ying seems to be occupied, so she sent Gu Yuan'er to invite you.",
+  "pt": ""
+ },
+ "taskDesc2110810": {
+  "ch": "骆长老认为天目仍未恢复昔日完美状态，她希望你继续与她合作，进一步还原天目。顾鸢儿获得《赤幽别志》，已颇有心得，不妨前往问问她如何进一步修复天目。",
+  "en": "Elder Luo believes the Heavenly Insight has not fully recovered yet. She hopes you could continue to work with her to further repair the Heavenly Insight. Since Gu Yuan'er obtained Chi You Anecdotes, she has studied it well. You should ask her how to further repair the Heavenly Insight.",
+  "pt": ""
+ },
+ "taskDesc2110811": {
+  "ch": "仙盟外蕴含冥气结晶。要想进一步修复天目，还需到外查探。",
+  "en": "Nether Air Condensation abounds beyond the Cultivator Alliance territory. You should search for it there to further repair the Heavenly Insight.",
+  "pt": ""
+ },
+ "taskDesc2110812": {
+  "ch": "天目再次显示冥气妖兽的位置，难道困扰仙盟的妖兽九婴就在前方？",
+  "en": "The Heavenly Insight displays the position of the Nether Air Monster again. Perhaps Monster Jiuying, who has troubled the Alliance for so long, is just over there?",
+  "pt": ""
+ },
+ "taskDesc2110813": {
+  "ch": "端木影阑答应带你前往取出冥晶，但相应地她亦希望你陪她走一趟，寻找她失踪的朋友。",
+  "en": "Duanmu Yinglan agrees to help you retrieve the Nether Air Condensation, but in return, she asks for your help in searching for her missing friend.",
+  "pt": ""
+ },
+ "taskDesc2110814": {
+  "ch": "端木影阑失魂落魄的离开了，她临走前将你需要的冥气结晶告知于你。地点就在你目前位置的东方。",
+  "en": "Duanmu Yinglan departs in a state of utter despair, but not before telling you where to find the Nether Air Condensation you seek. The location lies to the east of your current position.",
+  "pt": ""
+ },
+ "taskDesc2110815": {
+  "ch": "将天目交给顾鸢儿，她或能完全重启此物。",
+  "en": "Give the Heavenly Insight to Gu Yuan'er, and she may be able to reactivate it.",
+  "pt": ""
+ },
+ "taskDesc2110816": {
+  "ch": "盟主邀请你到城外一聚，此事绝不简单。此去必须作充分准备。",
+  "en": "Alliance Master invites you for a gathering outside the town. It's no small matter. Be prepared before you go.",
+  "pt": ""
+ },
+ "taskDesc2110817": {
+  "ch": "九婴已经知道他朋友的具体所在，这便与她走一趟吧。",
+  "en": "Jiuying has learned of the location of her friend. Go with her.",
+  "pt": ""
+ },
+ "taskDesc2110818": {
+  "ch": "盟主遣人邀你一同守护仙盟城墙以对抗兽潮。",
+  "en": "Alliance Master sends for you to help them defend the Alliance Wall and repel the Wave of Monsters.",
+  "pt": ""
+ },
+ "taskDesc2110819": {
+  "ch": "兽潮来袭，盟主已亲身出战。他命你坐镇高台，随时准备出战。",
+  "en": "The Wave of Monsters invaded, and the Master has joined in the battle himself. He orders you to stay at the Altar and prepare to fight when they are in need.",
+  "pt": ""
+ },
+ "taskDesc2110820": {
+  "ch": "盟主请你前往问机别院商量事情。",
+  "en": "Alliance Master invites you to Wenji Mansion to discuss something.",
+  "pt": ""
+ },
+ "taskDesc2110821": {
+  "ch": "盟主设计击杀九婴，他的手下请你前往面见盟主，等候安排。",
+  "en": "Alliance Master has made a plan to kill Jiuying. His subordinate invites you to meet him and wait for his orders.",
+  "pt": ""
+ },
+ "taskDesc2110822": {
+  "ch": "盟主希望你深入兽潮吸引九婴注意，让妖兽兵力分散。他则好借机围困九婴。",
+  "en": "Alliance Master wants you to go deep inside the Wave of Monsters to attract Jiuying's attention and disperse monster forces so that he will take the chance to encircle Jiuying.",
+  "pt": ""
+ },
+ "taskDesc2110823": {
+  "ch": "仙盟因盟主之位悬空，内部开始出现争端。去跟骆瑛了解情况。",
+  "en": "There has been some infighting among the Cultivator Alliance for the post of the Alliance Master. Visit Luo Ying and learn more about it.",
+  "pt": ""
+ },
+ "taskDesc2110824": {
+  "ch": "鸢儿希望你去劝说骆瑛成为盟主，但骆瑛另有想法，将这些告诉鸢儿，让她别再着急了。",
+  "en": "Yuan'er wants you to persuade Luo Ying to become the new Alliance Master, but Luo Ying has other plans. Tell these to Yuan'er and ask her to stop worrying about it.",
+  "pt": ""
+ },
+ "taskDesc2110825": {
+  "ch": "顾鸢儿神秘兮兮的找到你，日前跟她提及法宝辟魔，估计她已经找到了相关线索。",
+  "en": "Gu Yuan'er comes to you with a mysterious face. You told her about artifact Exorciser the other day. She might have found some clues about it.",
+  "pt": ""
+ },
+ "taskDesc2110826": {
+  "ch": "顾鸢儿已经推知了法宝的大约位置，并将之图画纸上。前往一探，或有所得。",
+  "en": "Gu Yuan'er has figured out the approximate location of the artifact and drawn it on the paper. You should go there to look for it.",
+  "pt": ""
+ },
+ "taskDesc2110827": {
+  "ch": "将法宝利锥交给骆瑛。",
+  "en": "Give artifact Sharp Awl to Luo Ying.",
+  "pt": ""
+ },
+ "taskDesc2110828": {
+  "ch": "骆瑛坚持想请你就任盟主一职，她仍在问机别院等候你的佳音。",
+  "en": "Luo Ying insists that you should become the new Alliance Master. She is waiting for your reply in the Wenji Mansion.",
+  "pt": ""
+ },
+ "taskDesc2110829": {
+  "ch": "兽潮之战后，盟主邀请你前往问枢院一聚。",
+  "en": "After the victory against the Wave of Monsters, Alliance Master invites you for a gathering in the Wenshu Mansion.",
+  "pt": ""
+ },
+ "taskDesc2110830": {
+  "ch": "你已取得冥气结晶，将之交给顾鸢儿，看看是否能再次让法宝发挥作用。",
+  "en": "You have obtained the Nether Air Condensation. Give it to Yuan'er and see if it can reactivate the artifact.",
+  "pt": ""
+ },
+ "taskDesc2110831": {
+  "ch": "当下兽潮来袭，使用法宝天目镜，查找九婴位置。",
+  "en": "Wave of Monsters is approaching. Use the Mirror of Heavenly Insight to locate Jiuying.",
+  "pt": ""
+ },
+ "taskDesc2110832": {
+  "ch": "兽潮来袭仙盟，盟主提议你参与到抵御兽潮的战争去。请你前往<r>仙盟御妖台</r>加入此战。",
+  "en": "Wave of Monsters is approaching, and the Master suggests you join the battle against the monsters. Please go to <r>Monster Resisting Altar in the Cultivator Alliance</r> to join the campaign.",
+  "pt": ""
+ },
+ "taskDesc2110833": {
+  "ch": "据《真诰》记载，</r>使用<r>风符</r>招引天雷，才能使隐藏的冥种幽窟显形。",
+  "en": "According to the Reborn Canon, you should use the <r>Wind Charm</r> to induce Lightning and to indicate the location of the hidden Cavern.",
+  "pt": ""
+ },
+ "taskDesc2110834": {
+  "ch": "侦察出永恒冰原的冰花在玉髓冰宫之上。此天上冰宫已在附近，赶紧设法进入取得冰花。",
+  "en": "You have known that the Ice Flower of the Everfrost is on top of the Jade-cored Ice Palace. Now you are near the palace, and you should enter it for the flower as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc2110850": {
+  "ch": "刑天近日出现不同寻常的动静，危机迫在眉睫。请你尽快挑战刑天。",
+  "en": "Xingtian's behavior is increasingly worrying these days. The threat is imminent, please challenge Xingtian as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc2110851": {
+  "ch": "你不敌刑天，而骆瑛为了救你，被刑天击中，落在远处，需速速前往救援。",
+  "en": "You fled from the attack of Xingtian, and when rescuing you, Luo Ying was hit by your opponent and fell somewhere in the distance. Come find and help her quickly.",
+  "pt": ""
+ },
+ "taskDesc2110852": {
+  "ch": "骆瑛身受重伤，不能留在外面，需尽快带回去治愈。",
+  "en": "Luo Ying is heavily wounded. It's not safe to leave her alone here, and you should bring her back for healing.",
+  "pt": ""
+ },
+ "taskDesc2110853": {
+  "ch": "赤幽州危在旦夕，必须击杀刑天。",
+  "en": "Chi You is on the verge of destruction. Xingtian must be slain.",
+  "pt": ""
+ },
+ "taskDesc2110854": {
+  "ch": "你败给刑天，和周围的伙伴谈谈吧。或者他们能给你打气呢。",
+  "en": "You are defeated by Xingtian. Chat with other companions around you, perhaps they would cheer you up.",
+  "pt": ""
+ },
+ "taskDesc2110856": {
+  "ch": "刑天已被击败，大家都身负重伤暂在附近休息，去和大家聊聊，看看下一步应该怎么走吧。",
+  "en": "Xingtian has been defeated, but your allies are heavily wounded. Now they are resting nearby, talk to them and find a plan for future moves.",
+  "pt": ""
+ },
+ "taskDesc2110880": {
+  "ch": "顾鸢儿看见你后就匆忙离开仙盟去后方巡查，一个女子与妖兽搏斗，终究十分凶险，要不要去帮帮她呢？",
+  "en": "Upon seeing you, Gu Yuan'er leaves the Cultivator Alliance hastily and goes to somewhere behind the Alliance's territory for patrolling. It may be dangerous for a girl like her to fight against monsters. Should you assist her?",
+  "pt": ""
+ },
+ "taskDesc2110881": {
+  "ch": "你已目送顾鸢儿回归仙盟，<r>下个月初</r>再看看她吧。",
+  "en": "You've seen Gu Yuan'er returning to the Alliance safely. Come to see her at <r>the beginning of the next month</r>.",
+  "pt": ""
+ },
+ "taskDesc2110882": {
+  "ch": "<r>一个月后</r>兽潮将会再度来袭。",
+  "en": "The Wave of Monsters will emerge <r>after 1 month</r>.",
+  "pt": ""
+ },
+ "taskDesc2110883": {
+  "ch": "顾鸢儿认为兽潮<r>下个月</r>又将来袭，到时可以试用法宝。",
+  "en": "Gu Yuan'er thinks the Wave of Monsters will emerge <r>the next month</r>, and you could try the Artifact when they come.",
+  "pt": ""
+ },
+ "taskDesc2110884": {
+  "ch": "盟主认为<r>下个月</r>九婴就会来袭，他对你充满期待，希望你到时协助抵御兽潮。",
+  "en": "The Master thinks Jiuying will attack here <r>the next month</r>. He sees you as a potent warrior and is expecting you to fight against those monsters with the members.",
+  "pt": ""
+ },
+ "taskDesc2110885": {
+  "ch": "顾鸢儿打算从古籍里寻找锥子的故事，她打算<r>一个月后</r>找出辟魔的故事。",
+  "en": "Gu Yuan'er intends to find the story of the awl from ancient books. She estimates the Exorciser's story could be found <r>after 1 month</r>.",
+  "pt": ""
+ },
+ "taskDesc2110886": {
+  "ch": "仙盟回到旧日防线，诸事已逐步安定下来。<r>两个月后</r>便该<r>回仙盟</r>与骆瑛商量今后大事。",
+  "en": "The Alliance has retaken the defense line before, and now everything is eventually settled. You should <r>go back to the Alliance</r> <r>2 months later</r> to discuss important matters with Luo Ying.",
+  "pt": ""
+ },
+ "taskDesc2110887": {
+  "ch": "当今与句芒沟通失败，暂且在赤幽州四处巡逻，看有何新消息，再做决定。",
+  "en": "Your communication with Goumang failed. Now you decide to wander in Chi You and wait for further information to form your next plan.",
+  "pt": ""
+ },
+ "taskDesc2110888": {
+  "ch": "刑天已逐渐失控，<r>未来一月</r>定有大事发生。而你得到句芒的帮助，已可尝试进一步<r>突破至登仙境</r>以增强实力。",
+  "en": "Xingtian is going out of control, and something will surely happen in <r>the next 1 month</r>. With the help of Goumang, now you could try to enhance your power by <r>making a breakthrough into Transcendent</r>.",
+  "pt": ""
+ },
+ "taskDesc2110901": {
+  "ch": "仙盟需要云陌州魔族的帮助，但魔族似乎正遭遇了一些危难，身为仙盟之人，理应帮助魔族脱困，使其前来帮助仙盟成就大事。\n\n完成“钻木取火”全部主线任务。",
+  "en": "The Cultivator Alliance needs help from the Demons in Yun Mo. However, those demons seem to be troubled by something. As a member of the Alliance, you should assist the demons to solve their problems and pave the way for them to come here and help us with important decisions.\n\nFinish all Main Missions in \"Suiren Kindles the First Flame\".",
+  "pt": ""
+ },
+ "taskDesc2110950": {
+  "ch": "顾鸢儿实力不足以应付厉害妖兽，她需要你的帮助。",
+  "en": "Gu Yuan'er is still inexperienced in fighting monsters. She needs your help.",
+  "pt": ""
+ },
+ "taskDesc2110951": {
+  "ch": "顾鸢儿将有关法宝辟魔锥的线索交给你，查看<r>利锥线索</r>之后即可得知辟魔下落。",
+  "en": "Gu Yuan'er hands you the clue about the artifact Exorciser. Investigate <r>Sharp Awl Clue</r> to find the whereabouts of the Exorciser.",
+  "pt": ""
+ },
+ "taskDesc2110952": {
+  "ch": "前往山脚有熊村与李四一会",
+  "en": "Meet Jo at Youxiong Village, which is located at the foot of the mountain.",
+  "pt": ""
+ },
+ "taskDesc2110953": {
+  "ch": "应李四所托，寻找夸父族人的洞穴遗址，并破解其封印。",
+  "en": "Find the Kuafu Clan's divination cave and break its seal as Jo said.",
+  "pt": ""
+ },
+ "taskDesc2110954": {
+  "ch": "回到有熊村告知李四，已为其破解遗址封印。",
+  "en": "Find Jo at Youxiong Village and tell him you have broken the seal.",
+  "pt": ""
+ },
+ "taskDesc2110955": {
+  "ch": "前往洞中暗径查探，并履行李四之嘱托。",
+  "en": "Follow the secret path inside the cave and finish the task entrusted by Jo.",
+  "pt": ""
+ },
+ "taskDesc2110956": {
+  "ch": "李四之事已经解决，回到天元山中继续登上山顶。",
+  "en": "You have told Jo your findings. Return to Tian Yuan Mountain and continue to climb to its top.",
+  "pt": ""
+ },
+ "taskDesc2110961": {
+  "ch": "一名受到夜雨楼胁迫吞下毒丹的修仙者希望你能护送他去到女魔头的魔窟之中搜寻解药。",
+  "en": "Night Rain forced a cultivator to swallow a poisonous elixir. Now the cultivator wants you to escort him to the cave where the demon woman lived to find the antidote.",
+  "pt": ""
+ },
+ "taskDesc2110962": {
+  "ch": "护送此名修仙者前往夜雨楼的住处寻找解药。",
+  "en": "Escort the cultivator to the residence of Night Rain to help him find the antidote.",
+  "pt": ""
+ },
+ "taskDesc2110963": {
+  "ch": "回到天元山中继续挑战。",
+  "en": "Return to Tian Yuan Mountain to continue your journey.",
+  "pt": ""
+ },
+ "taskDesc2110964": {
+  "ch": "夜雨楼交代，让你在上山之前前往她的故居找到一支木簪并将之带给她。",
+  "en": "Night Rain wanted you to find a wooden hairpin for her from her past residence before you entered the Mountain.",
+  "pt": ""
+ },
+ "taskDesc2110965": {
+  "ch": "夜雨楼留有嘱托，将簪子带到山巅，待帮助琅琊阁主底定大事后，再转交给她。",
+  "en": "Night Rain hoped you to bring the hairpin to the Mountain's top and then give it to her after the Pavilion Master's plan has been fulfilled.",
+  "pt": ""
+ },
+ "taskDesc2110966": {
+  "ch": "养精蓄锐，继续登上天元山。",
+  "en": "Continue to climb up to Tian Yuan Mountain after you restored your health.",
+  "pt": ""
+ },
+ "taskDesc2110971": {
+  "ch": "女娲给出地点，前往该处能了解到未来张三发生的事情。",
+  "en": "Follow Nuwa's guidance to the place where you can learn about what happened to the future Zhang San.",
+  "pt": ""
+ },
+ "taskDesc2110972": {
+  "ch": "跟随风允婼深入幽篁洞天。",
+  "en": "Follow Feng Yunchuo to enter You Huang Cave.",
+  "pt": ""
+ },
+ "taskDesc2110973": {
+  "ch": "回到天元山中，唤醒镇守山中的苍龙。",
+  "en": "Return to Tian Yuan Mountain and wake Black Dragon guarding there.",
+  "pt": ""
+ },
+ "taskDesc2110974": {
+  "ch": "前往幽篁洞天参研第十三律借此唤醒天元山苍龙。",
+  "en": "Go to You Huang Cave to learn the Thirteenth Verse, the key to waking Black Dragon in Tian Yuan Mountain.",
+  "pt": ""
+ },
+ "taskDesc2110981": {
+  "ch": "前往龙眠屿寻找破解结界的方法，从而进入天元山巅。",
+  "en": "To arrive at the top of Tian Yuan Mountain, you need to find out the key to the array there in the Dragon's Haven.",
+  "pt": ""
+ },
+ "taskDesc2110982": {
+  "ch": "回到龙眠屿寻找纪念之物。",
+  "en": "Find the reminder of friendship in Dragon's Haven.",
+  "pt": ""
+ },
+ "taskDesc2110983": {
+  "ch": "你已学会解除封印的法门，回到天元山中，继续登山，前往山巅。",
+  "en": "The key to dissolving the seal has been found. Return to Tian Yuan Mountain and continue your journey to its top.",
+  "pt": ""
+ },
+ "taskDesc2110990": {
+  "ch": "击杀吞天·饕餮并取其犄角以制作凤仙宝箓。（<r>赤幽州中之吞天·饕餮或赤幽州噬魂塔中的饕餮妖兽均有几率产出饕餮犄角，若有必要重新获取，可前往击杀取得此物</r>。）",
+  "en": "Kill Skydevourer - Taotie and take its horn to make the Phoenix Talisman. (<r>Taotie's Horn is a possible drop from Skydevourer - Taotie in Chi You or Taotie in Chi You's Soul Devouring Pagoda. It can be obtained multiple times if needed</r>.)",
+  "pt": ""
+ },
+ "taskDesc2110991": {
+  "ch": "利用饕餮犄角制作凤仙宝箓。（需前往技艺界面画符分项制作此物；<r>赤幽州中之吞天·饕餮或赤幽州噬魂塔中的饕餮妖兽均有几率产出饕餮犄角，若有必要重新获取，可前往击杀取得此物</r>。）",
+  "en": "Use Taotie's Horn to make the Phoenix Talisman. (You may draw talismans in Artisanship - Talismans tab. <r>Taotie's Horn is a possible drop from Skydevourer - Taotie in Chi You or Taotie in Chi You's Soul Devouring Pagoda. It can be obtained multiple times if needed</r>.)",
+  "pt": ""
+ },
+ "taskDesc2110992": {
+  "ch": "仙箓已经齐备，前往地脉关元驱散冥气并进入挑战琅琊阁主衡天。",
+  "en": "Now you've got the Phoenix Talisman. Time to disperse the Nether Air in the junction of Earth's veins and fight against Hengtian, the Pavilion Master.",
+  "pt": ""
+ },
+ "taskDesc2110993": {
+  "ch": "前往地脉关元进行查探。",
+  "en": "Go to the junction of Earth's veins and see what's going on there.",
+  "pt": ""
+ },
+ "taskDesc2110994": {
+  "ch": "跟随风允婼深入幽篁洞天。",
+  "en": "Follow Feng Yunchuo to enter You Huang Cave.",
+  "pt": ""
+ },
+ "taskDesc2110995": {
+  "ch": "查探远方奇怪声浪；",
+  "en": "Investigate the strange waves of sound in the distance.",
+  "pt": ""
+ },
+ "taskDesc2111200": {
+  "ch": "前去查看前方恶战情势。",
+  "en": "Inspect the harsh battle you encountered.",
+  "pt": ""
+ },
+ "taskDesc2111201": {
+  "ch": "神秘人药辰尊发来请帖，书信之中，写明路径，请你前往参与神鼎观盛会。",
+  "en": "The mysterious alchemist, Yao Chenzun, has sent you an invitation letter. He hopes you to attend the exhibition held by the Divine Cauldron Temple, and he has provided you the road there.",
+  "pt": ""
+ },
+ "taskDesc2111202": {
+  "ch": "药辰尊邀你加盟神鼎观，只要你决定了，可以去到神鼎观找他。",
+  "en": "Yao Chenzun invites you to join the Divine Cauldron Temple. You could return to the Temple and inform him of your decision afterward.",
+  "pt": ""
+ },
+ "taskDesc2111203": {
+  "ch": "药辰尊希望师青能归附他们，而你则担任说客前去说服师青。",
+  "en": "Yao Chenzun hopes Shi Qing can join them as well. He asks you to persuade her.",
+  "pt": ""
+ },
+ "taskDesc2111204": {
+  "ch": "告知药辰尊师青的决心。",
+  "en": "Tell Shi Qing's determination to Yao Chenzun.",
+  "pt": ""
+ },
+ "taskDesc2111205": {
+  "ch": "药辰尊遣人通知你前往师青管辖的神鼎观分观。",
+  "en": "Yao Chenzun's subordinate asks you to come to the branch of the Divine Cauldron Temple managed by Shi Qing.",
+  "pt": ""
+ },
+ "taskDesc2111206": {
+  "ch": "药辰尊竟然对你下毒，此事还需回到神鼎观彻查明白。",
+  "en": "You are poisoned by Yao Chenzun. Now you must return to the Divine Cauldron Temple to investigate the plot.",
+  "pt": ""
+ },
+ "taskDesc2111207": {
+  "ch": "即刻找到师青告知药辰尊的恐怖计划，请她阻止此人。",
+  "en": "Tell Shi Qing about the horrible plan of Yao Chenzun at once and asks her to prevent the man.",
+  "pt": ""
+ },
+ "taskDesc2111208": {
+  "ch": "师青决定阻止药辰尊的恐怖计划，她邀你两个月后到神鼎观联手击败药辰尊。",
+  "en": "Shi Qing decides to foil the plot of Yao Chenzun. She invites you to the Divine Cauldron Temple after 2 months to defeat Yao Chenzun together.",
+  "pt": ""
+ },
+ "taskDesc2111209": {
+  "ch": "即刻找到师青告知药辰尊的恐怖大计，请他阻止此人。",
+  "en": "Tell Shi Qing about the horrible ambition of Yao Chenzun at once and asks her to prevent the man.",
+  "pt": ""
+ },
+ "taskDesc2111210": {
+  "ch": "师青决定倾全力阻止药辰尊，她希望你届时能前来相助。",
+  "en": "Shi Qing decides to stop Yao Chenzun at all costs. She hopes you can come to her assistance then.",
+  "pt": ""
+ },
+ "taskDesc2111211": {
+  "ch": "药辰尊使计劫走师青，分观丹师请你协助救援他们的长老。",
+  "en": "Yao Chenzun abducted Shi Qing, and the alchemists in her branch requested you to rescue their elder.",
+  "pt": ""
+ },
+ "taskDesc2111212": {
+  "ch": "神鼎观再一次经历灭顶之灾，而师青侥幸存活，并带领炼丹师于暮仙州重建宗门，她诚邀你前去拜访。",
+  "en": "Catastrophe fell upon the Divine Cauldron Temple again. But Shi Qing survived the disaster and reorganized the sect with other fellow alchemists in Mu Xian. She invites you to pay a visit.",
+  "pt": ""
+ },
+ "taskDesc2111213": {
+  "ch": "前去探索途中两名炼丹师提及的祖师云房。",
+  "en": "Explore the Master's Recluse Room mentioned by the two alchemists.",
+  "pt": ""
+ },
+ "taskDesc2111214": {
+  "ch": "前往探索神鼎观分观地理图记载的于暮仙州的神鼎观分舵遗址。",
+  "en": "Explore the ruined branch of the Divine Cauldron Temple in Mu Xian marked on the regional map.",
+  "pt": ""
+ },
+ "taskDesc2111215": {
+  "ch": "前往探索神鼎观分观地理图记载的于赤幽州的神鼎观分舵遗址。",
+  "en": "Explore the ruined branch of the Divine Cauldron Temple in Chi You marked on the regional map.",
+  "pt": ""
+ },
+ "taskDesc2111216": {
+  "ch": "师青邀请你前往她主持的神鼎观分舵以解除身上的阳亢之毒。",
+  "en": "Shi Qing invites you to the branch of the Divine Cauldron Temple managed by her to cure your Surging Yang Poison.",
+  "pt": ""
+ },
+ "taskDesc2111217": {
+  "ch": "药辰尊外出处理事情之前请你在神鼎观周边附近游玩。",
+  "en": "Yao Chenzun is out for some managerial problems. He allows you to walk around and take casual looks.",
+  "pt": ""
+ },
+ "taskDesc2111218": {
+  "ch": "查看神鼎观观主所赠的丹方辑录。",
+  "en": "Inspect the Recipe Collection given to you by the Elder of the Divine Cauldron Temple.",
+  "pt": ""
+ },
+ "taskDesc2111219": {
+  "ch": "查看神鼎观观主专程送来的请柬。",
+  "en": "Inspect the Invitation Letter given to you by the Elder of the Divine Cauldron Temple.",
+  "pt": ""
+ },
+ "taskDesc2111300": {
+  "ch": "前往冰原查看再度进入险地的阿嬉。",
+  "en": "Xi went to Everfrost again. Go there to find her.",
+  "pt": ""
+ },
+ "taskDesc2111301": {
+  "ch": "于冰原深处击杀妖兽取得雪阳之花为阿嬉祛除体内寒气。",
+  "en": "Xi was affected by the chilly air, and Snowgleam Flower would be a proper remedy. Monsters in the remote corners of Everfrost may carry the herb.",
+  "pt": ""
+ },
+ "taskDesc2111302": {
+  "ch": "前往暮仙州陨幽谷取得太古残灵。",
+  "en": "Find the Ancient Soul Fragment in the Fallen Valley in Mu Xian.",
+  "pt": ""
+ },
+ "taskDesc2111303": {
+  "ch": "将远古残灵带回冰原，交给阿嬉。",
+  "en": "Bring the Ancient Soul Fragment back to Xi in Everfrost.",
+  "pt": ""
+ },
+ "taskDesc2111304": {
+  "ch": "前往查看阿嬉铁尺上生成的魂灵。",
+  "en": "Inspect the soul that emerged from the Iron Shard of Xi.",
+  "pt": ""
+ },
+ "taskDesc2111305": {
+  "ch": "陪伴阿嬉和阿禹前往十万大山。",
+  "en": "Travel with Xi and Yu to Hundred Thousand Hills.",
+  "pt": ""
+ },
+ "taskDesc2111306": {
+  "ch": "询问阿禹的之后的打算。",
+  "en": "Ask what would Yu do after that.",
+  "pt": ""
+ },
+ "taskDesc2111307": {
+  "ch": "带领阿禹和阿嬉前往东海遗址。",
+  "en": "Travel with Xi and Yu to the remnant in the East Sea.",
+  "pt": ""
+ },
+ "taskDesc2111308": {
+  "ch": "阿禹来到十万大山正四处查看，眼看是十分开心和兴奋。这便跟上阿禹吧。",
+  "en": "Yu entered Hundred Thousand Hills and is inspecting everywhere happily. Follow Yu's steps.",
+  "pt": ""
+ },
+ "taskDesc2111309": {
+  "ch": "询问阿禹心中的烦恼。",
+  "en": "Ask what is troubling Yu.",
+  "pt": ""
+ },
+ "taskDesc2111310": {
+  "ch": "协助阿禹回到涂山，寻访故人。",
+  "en": "Escort Yu back to Tushan to meet someone there.",
+  "pt": ""
+ },
+ "taskDesc2111311": {
+  "ch": "阿禹正和故人叙话，跟上去询问他之后的打算。",
+  "en": "Yu is talking to his old friend. Follow Yu and ask about his plan afterward.",
+  "pt": ""
+ },
+ "taskDesc2111312": {
+  "ch": "告知阿嬉阿禹隐瞒起来的真相。",
+  "en": "Tell Xi the truth concealed by Yu.",
+  "pt": ""
+ },
+ "taskDesc2111313": {
+  "ch": "带阿禹回到冰原家中。",
+  "en": "Bring Yu back to his home in Everfrost.",
+  "pt": ""
+ },
+ "taskDesc2111314": {
+  "ch": "阿禹似乎已有了自己的决定了，去听听他接下来的决定吧。",
+  "en": "Yu has decided something. Listen to him for his next plan.",
+  "pt": ""
+ },
+ "taskDesc2111315": {
+  "ch": "前往血魔真身藏匿处，击败血魔。",
+  "en": "Enter the Blood Lord's lair and defeat him.",
+  "pt": ""
+ },
+ "taskDesc2111316": {
+  "ch": "前往查看突然不支倒地的阿禹。",
+  "en": "Yu suddenly collapsed to the ground. What's happened to him?",
+  "pt": ""
+ },
+ "taskDesc2111317": {
+  "ch": "原本打算寻找方法活下去的阿禹临时决定马上回去白源，且看看阿禹如何吧？",
+  "en": "Yu sets his plan to live longer aside and wants to return to Bai Yuan at once. Talk to Yu about his decision.",
+  "pt": ""
+ },
+ "taskDesc2111318": {
+  "ch": "前往暮仙州陨幽谷带回阿嬉。",
+  "en": "Bring Xi back from the Fallen Valley in Mu Xian.",
+  "pt": ""
+ },
+ "taskDesc2111319": {
+  "ch": "将阿嬉带回白源区见阿禹最后一面。",
+  "en": "Bring Xi to Bai Yuan to meet Yu for the last time.",
+  "pt": ""
+ },
+ "taskDesc2111320": {
+  "ch": "前往暮仙州陨幽谷中寻找拂霜石。",
+  "en": "Find the Frostsoul Gem in the Fallen Valley in Mu Xian.",
+  "pt": ""
+ },
+ "taskDesc2111321": {
+  "ch": "尽快将拂霜石带回白源区。",
+  "en": "Bring the Frostsoul Gem back to Bai Yuan as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc2111322": {
+  "ch": "尽快将拂霜石带回白源区。",
+  "en": "Bring the Frostsoul Gem back to Bai Yuan as soon as possible.",
+  "pt": ""
+ },
+ "taskDesc2111323": {
+  "ch": "前往白源区中一探究竟。",
+  "en": "Find out what is happening in Bai Yuan.",
+  "pt": ""
+ },
+ "taskDesc2111324": {
+  "ch": "将取得的雪阳之花送回给阿嬉。",
+  "en": "Bring the Snowgleam Flower back to Xi.",
+  "pt": ""
+ },
+ "taskDesc2111325": {
+  "ch": "别来数日，且与阿禹一聚。",
+  "en": "You haven't seen Yu for some days. Maybe it's time to meet him again.",
+  "pt": ""
+ },
+ "taskDesc2111400": {
+  "ch": "前往永宁州的地脉石窟取得界元石。",
+  "en": "Enter the cave of earth veins in Yong Ning and find Enigmatic Stone.",
+  "pt": ""
+ },
+ "taskDesc2111410": {
+  "ch": "前往华封州的地脉石窟取得界元石。",
+  "en": "Enter the cave of earth veins in Hua Feng and find Enigmatic Stone.",
+  "pt": ""
+ },
+ "taskDesc2111420": {
+  "ch": "前往云陌州的地脉石窟取得界元石。",
+  "en": "Enter the cave of earth veins in Yun Mo and find Enigmatic Stone.",
+  "pt": ""
+ },
+ "taskDesc2111430": {
+  "ch": "前往暮仙州的地脉石窟取得界元石。",
+  "en": "Enter the cave of earth veins in Mu Xian and find Enigmatic Stone.",
+  "pt": ""
+ },
+ "taskDesc2111440": {
+  "ch": "",
+  "en": "Eliminate the Nether Beast at the Pavilion Maid's request.",
+  "pt": ""
+ },
+ "taskDesc2111441": {
+  "ch": "",
+  "en": "The Nether Beast has been eliminated. Return to the Pavilion Maid to report your success.",
+  "pt": ""
+ },
+ "taskDesc2111600": {
+  "ch": "依照所得地图前往大冶台一探。",
+  "en": "Explore the Supreme Forge indicated on the map.",
+  "pt": ""
+ },
+ "taskDesc2111601": {
+  "ch": "前往营救受困之人。",
+  "en": "Rescue the trapped cultivator.",
+  "pt": ""
+ },
+ "taskDesc2111800": {
+  "ch": "往青影去向之处探明虚实。",
+  "en": "Find out what happened following the creature.",
+  "pt": ""
+ },
+ "taskDesc2111810": {
+  "ch": "前往查探空中掠过的青影。",
+  "en": "Inspect the azure streak that flew through.",
+  "pt": ""
+ },
+ "taskDesc2111820": {
+  "ch": "前往查探空中掠过的青影。",
+  "en": "Inspect the azure streak that flew through.",
+  "pt": ""
+ },
+ "taskDesc2111830": {
+  "ch": "前往救援正遭修仙者围捕追杀的䑏疏。",
+  "en": "The Fiery Unicorn is surrounded by cultivators. Find and rescue it.",
+  "pt": ""
+ },
+ "taskDesc2111831": {
+  "ch": "用树胶救援䑏疏。",
+  "en": "Find the gum and heal the Fiery Unicorn's wound.",
+  "pt": ""
+ },
+ "taskDesc2111832": {
+  "ch": "用树胶救援䑏疏。",
+  "en": "Find the gum and heal the Fiery Unicorn's wound.",
+  "pt": ""
+ },
+ "taskDesc2111833": {
+  "ch": "查看被缚仙索捆绑的妖兽䑏疏。",
+  "en": "Inspect the Fiery Unicorn that is bound by the Immortal Rope.",
+  "pt": ""
+ },
+ "taskDesc2111834": {
+  "ch": "跟随青马前往埋宝之地。",
+  "en": "Follow the azure steed to the treasure land.",
+  "pt": ""
+ },
+ "taskDesc2112000": {
+  "ch": "敖瑶离开前与你约定，一定会在十年内后设法回归，她真的能做到吗？",
+  "en": "Before departing, Ao Yao promised to find a way to return after ten years. Will she be able to keep her word?",
+  "pt": ""
+ },
+ "taskDesc2112001": {
+  "ch": "帮助女子寻找秘籍，并带回给她。",
+  "en": "Assist the woman in finding manuals and return them to her.",
+  "pt": ""
+ },
+ "taskDesc2112002": {
+  "ch": "与霜凌一起前往寻找秘籍",
+  "en": "Accompany Shuang Ling to find the manual",
+  "pt": ""
+ },
+ "taskDesc2112003": {
+  "ch": "出行",
+  "en": "Set out.",
+  "pt": ""
+ },
+ "taskDesc2112004": {
+  "ch": "出行",
+  "en": "Set out.",
+  "pt": ""
+ },
+ "taskDesc2112005": {
+  "ch": "霜凌失惊离开，她会回到自己住处，再次把自己关起来吗？",
+  "en": "Shuang Ling left in shock. Will she return to her dwelling and lock herself away again?",
+  "pt": ""
+ },
+ "taskDesc2112006": {
+  "ch": "帮助霜凌寻找秘籍，并将至带回。",
+  "en": "Help Shuang Ling find the manual and bring it back to her.",
+  "pt": ""
+ },
+ "taskDesc2112007": {
+  "ch": "女子所到之处留下阵阵寒气，跟随其散落寒气一探究竟。",
+  "en": "Follow the trail of frost left in the mysterious lady's wake to uncover her whereabouts.",
+  "pt": ""
+ },
+ "taskDesc2112101": {
+  "ch": "将敖瑶带回去其永宁州的居住处。",
+  "en": "Escort Ao Yao back to her residence in Yong Ning.",
+  "pt": ""
+ },
+ "taskDesc2112102": {
+  "ch": "将敖瑶送回住处休息。",
+  "en": "Escort Ao Yao back to rest at her dwelling.",
+  "pt": ""
+ },
+ "taskDesc2112104": {
+  "ch": "陪伴霜凌前往云陌州取得秘籍。",
+  "en": "Accompany Shuang Ling to the destination and obtain the manual.",
+  "pt": ""
+ },
+ "taskDesc2112105": {
+  "ch": "寻找天道之气，协助霜凌压制体内寒气。",
+  "en": "Find the Heaven Aura to help Shuang Ling suppress the frost energy within her body.",
+  "pt": ""
+ },
+ "taskDesc2112200": {
+  "ch": "",
+  "en": "Ao Yao is being mysteriously secretive about infiltrating a certain sect. Such reckless mischief could be dangerous.",
+  "pt": ""
+ },
+ "taskDesc2112201": {
+  "ch": "",
+  "en": "Ao Yao invites you to join her covert scheme. Who knows what mischief this troublemaker is plotting this time?",
+  "pt": ""
+ },
+ "taskDesc2112250": {
+  "ch": "",
+  "en": "Meet with Ao Yao.",
+  "pt": ""
+ },
+ "taskDesc2112251": {
+  "ch": "",
+  "en": "Meet with Lan You.",
+  "pt": ""
+ },
+ "taskDesc2112252": {
+  "ch": "",
+  "en": "Meet with Shuang Ling.",
+  "pt": ""
+ },
+ "taskDesc2112253": {
+  "ch": "",
+  "en": "Meet with Yin'er.",
+  "pt": ""
+ },
+ "taskDesc2112254": {
+  "ch": "",
+  "en": "Meet with Tianxiang.",
+  "pt": ""
+ },
+ "taskDesc2120001": {
+  "ch": "使用玄冥赠予的手链，寻找其小女若川的下落。",
+  "en": "Use the bracelet from Xuanming to locate his daughter Ruochuan.",
+  "pt": ""
+ },
+ "taskDesc2120002": {
+  "ch": "前往手链指引之处。",
+  "en": "Follow the bracelet to the destination.",
+  "pt": ""
+ },
+ "taskDesc2120003": {
+  "ch": "在你的劝说下，若川已然答应回到玄冥身边，去回复玄冥。",
+  "en": "You have persuaded Ruochuan to go back to Xuanming. Go back and tell Xuanming the good news.",
+  "pt": ""
+ },
+ "taskDesc2120004": {
+  "ch": "你感受到一股强大的气息出现在附近……",
+  "en": "You feel a powerful presence nearby...",
+  "pt": ""
+ },
+ "taskDesc2120005": {
+  "ch": "你感受到一股神秘的气息出现在附近……",
+  "en": "You feel a mysterious presence nearby...",
+  "pt": ""
+ },
+ "taskDesc2120010": {
+  "ch": "远方传来轰响，似是有大能在争斗，前去探查发生了何事。",
+  "en": "There are tremendous sounds from somewhere far away. Maybe it is a brawl between powerful characters. Go investigate what is happening.",
+  "pt": ""
+ },
+ "taskDesc2120011": {
+  "ch": "击败后土幻身，突破至登仙境后期。",
+  "en": "Defeat the Mirror Image of Houtu, and finish the Breakthrough to Transcendent Late.",
+  "pt": ""
+ },
+ "taskDesc2120012": {
+  "ch": "八荒守护灵推演出某地藏有先天一气的线索，若是准备好，不妨前往一探。",
+  "en": "The Guardian Spirit of the World has deduced the location of Primordial Air. Perhaps you could go there for investigation once you are ready.",
+  "pt": ""
+ },
+ "taskDesc2120013": {
+  "ch": "追寻神秘道人的踪迹。",
+  "en": "Find the whereabouts of the mysterious Taoist.",
+  "pt": ""
+ },
+ "taskDesc2120014": {
+  "ch": "追寻神秘道人的踪迹。",
+  "en": "Find the whereabouts of the mysterious Taoist.",
+  "pt": ""
+ },
+ "taskDesc2120015": {
+  "ch": "追寻神秘道人的踪迹。",
+  "en": "Find the whereabouts of the mysterious Taoist.",
+  "pt": ""
+ },
+ "taskDesc2120016": {
+  "ch": "追寻神秘道人的踪迹。",
+  "en": "Find the whereabouts of the mysterious Taoist.",
+  "pt": ""
+ },
+ "taskDesc2120017": {
+  "ch": "追寻神秘道人的踪迹。",
+  "en": "Find the whereabouts of the mysterious Taoist.",
+  "pt": ""
+ },
+ "taskDesc2120018": {
+  "ch": "近日，相传在{#areaName4}陨幽谷中会时不时传来奇怪的呼救之声。前往其中探查，或许能发现一番机缘。",
+  "en": "Recently, there have been reports of strange cries for help echoing from the Fallen Valley in {#areaName4}. Investigating this might lead to an unexpected opportunity.",
+  "pt": ""
+ },
+ "taskDesc2120024": {
+  "ch": "伊人消散无存，帮助银耳重塑肉身看似是失败了。但冥冥之中你又有预感，这一切并未结束……",
+  "en": "She no longer exists, and your attempt to help Yin'er with body reconstruction appears to have failed. Yet something tells you this is not the end...",
+  "pt": ""
+ },
+ "taskDesc2120026": {
+  "ch": "帮助银耳寻找物品，来和修仙者进行交换。\n需要{itemLink5021584}×2。",
+  "en": "Help Yin'er gather items to trade with the cultivator.\nRequired: {itemLink5021584} x2.",
+  "pt": ""
+ },
+ "taskDesc2130002": {
+  "ch": "{npcDestination}",
+  "en": "{npcDestination}",
+  "pt": ""
+ },
+ "taskDesc2140001": {
+  "ch": "前往紫姑的仙祠，帮剑一求一副画。",
+  "en": "Go to the Shrine of Zigu, and ask for a painting on behalf of Jianyi.",
+  "pt": ""
+ },
+ "taskDesc2830121": {
+  "ch": "将该名女子送达指定之处。",
+  "en": "Escort the woman to her destination.",
+  "pt": ""
+ },
+ "taskDesc2830911": {
+  "ch": "为银耳找来需要的法宝粘合物。",
+  "en": "Find the artifact adhesives that Yin'er needs.",
+  "pt": ""
+ },
+ "taskDesc2832031": {
+  "ch": "为伤者找到四品活血丹。",
+  "en": "Find a G4 Blood Circulation Elixir for the wounded cultivator.",
+  "pt": ""
+ },
+ "taskDesc2832204": {
+  "ch": "为伤者找到四品活血丹。",
+  "en": "Find a G4 Blood Circulation Elixir for the wounded cultivator.",
+  "pt": ""
+ },
+ "taskDesc2832416": {
+  "ch": "为伤者找到四品活血丹。",
+  "en": "Find a G4 Blood Circulation Elixir for the wounded cultivator.",
+  "pt": ""
+ },
+ "taskDesc2833749": {
+  "ch": "银耳无时无刻处于危机之中，需阻止她继续收集残灵，进一步增强自己力量。",
+  "en": "Yin'er is in constant danger. Stop her from collecting more soul fragments and growing even stronger.",
+  "pt": ""
+ },
+ "taskDesc3000001": {
+  "ch": "击杀一只药灵，并交给梁渠。",
+  "en": "Slay a Mushroom Man and bring it to Liangqu.",
+  "pt": ""
+ },
+ "taskDesc3000002": {
+  "ch": "前往{destination}，并将钓的鱼交给梁渠。",
+  "en": "Go to {destination}, and bring the fish you harvested to Liangqu.",
+  "pt": ""
+ },
+ "taskDesc3000021": {
+  "ch": "寻找{itemLink5031686}，并交给风灵兰。",
+  "en": "Find {itemLink5031686}, and bring it to Feng Linglan.",
+  "pt": ""
+ },
+ "taskDesc3000031": {
+  "ch": "寻找1个{itemLink5021684}，并交给帝江。",
+  "en": "Find 1 {itemLink5021684} for Dijiang.",
+  "pt": ""
+ },
+ "taskDesc3000032": {
+  "ch": "寻找10个{itemLink5021244}，并交给帝江。",
+  "en": "Find 10 {itemLink5021244} for Dijiang.",
+  "pt": ""
+ },
+ "taskDesc3000033": {
+  "ch": "寻找30张{itemLink5021124}，并交给帝江。",
+  "en": "Find 30 {itemLink5021124} for Dijiang.",
+  "pt": ""
+ },
+ "taskDesc3000034": {
+  "ch": "寻找6个{itemLink5021284}，并交给帝江。",
+  "en": "Find 6 {itemLink5021284} for Dijiang.",
+  "pt": ""
+ },
+ "taskDesc3000035": {
+  "ch": "寻找2个{itemLink5021204}，并交给帝江。",
+  "en": "Find 2 {itemLink5021204} for Dijiang.",
+  "pt": ""
+ },
+ "taskDesc3000036": {
+  "ch": "前往{destination}，并将{itemLink7000311}交给瑶姬。",
+  "en": "Go to {destination} and find {itemLink7000311} for Yaoji.",
+  "pt": ""
+ },
+ "taskDesc3000037": {
+  "ch": "前往{destination}采花，并将{itemLink7000312}交给瑶姬。（有极低概率可在击杀十万大山的大妖兽时获得）",
+  "en": "Go to {destination} to pick the flower and find {itemLink7000312} for Yaoji. (Extremely low probability to be found on the Mythical Beasts in Hundred Thousand Hills)",
+  "pt": ""
+ },
+ "taskDesc3000038": {
+  "ch": "前往{destination}，并将{itemLink7000313}交给瑶姬。",
+  "en": "Go to {destination} and find {itemLink7000313} for Yaoji.",
+  "pt": ""
+ },
+ "taskDesc3000039": {
+  "ch": "前往其他仙祠，向每个仙人复述蔽日仙菌的计划。",
+  "en": "Go to other shrines to recite Sun Blocking Heavenly Mushroom's plan to every Immortal.",
+  "pt": ""
+ },
+ "taskDesc3000040": {
+  "ch": "前往{destination}，通过挑战后寻找蔽日仙菌。",
+  "en": "Go to {destination} and find Sun Blocking Heavenly Mushroom after completing the challenge.",
+  "pt": ""
+ },
+ "taskDesc3000041": {
+  "ch": "前往芦花王的仙祠，传达蔽日仙菌的愤怒并战胜芦花王，并将胜利结果告知于蔽日仙菌。",
+  "en": "Go to the Shrine of King Luhua, and inform him of the wrath of the Sun Blocking Heavenly Mushroom. Then defeat King Luhua and inform your victory to the Mushroom.",
+  "pt": ""
+ },
+ "taskDesc3000042": {
+  "ch": "寻找20个{itemLink5341201}，并交给紫姑。",
+  "en": "Find 20 {itemLink5341201}, and bring them to Zigu.",
+  "pt": ""
+ },
+ "taskDesc3000043": {
+  "ch": "寻找两株{itemLink5031051}，并交给芦花王。",
+  "en": "Find two {itemLink5031051}, and bring them to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000044": {
+  "ch": "寻找两株{itemLink5031081}，并交给芦花王。",
+  "en": "Find two {itemLink5031081}, and bring them to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000045": {
+  "ch": "寻找一株{itemLink5031324}，并交给芦花王。",
+  "en": "Find one {itemLink5031324}, and bring it to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000046": {
+  "ch": "寻找一棵{itemLink5031284}，并交给芦花王。",
+  "en": "Find one {itemLink5031284}, and bring it to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000047": {
+  "ch": "寻找两株{itemLink5031506}，并交给芦花王。",
+  "en": "Find two {itemLink5031506}, and bring them to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000048": {
+  "ch": "寻找七棵{itemLink5031162}，并交给芦花王。",
+  "en": "Find seven {itemLink5031162}, and bring them to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000049": {
+  "ch": "寻找{itemLink7000317}，并交给芦花王。",
+  "en": "Find {itemLink7000317}, and bring it to King Luhua.",
+  "pt": ""
+ },
+ "taskDesc3000050": {
+  "ch": "让沐晴教习茗雪音律一年。",
+  "en": "Ask Muqing to teach Mingxue music for one year.",
+  "pt": ""
+ },
+ "taskDesc3000051": {
+  "ch": "寻找七棵{itemLink5301102}，并交给沐晴。",
+  "en": "Find seven {itemLink5301102}, and bring them to Muqing.",
+  "pt": ""
+ },
+ "taskDesc3000052": {
+  "ch": "前往{destination}，击败玄冥，并将{itemLink5082245}交给苏墨白。",
+  "en": "Go to {destination}, defeat Nether Obscurity, and bring {itemLink5082245} to Su Mobai.",
+  "pt": ""
+ },
+ "taskDesc3000053": {
+  "ch": "前往{destination}，探探情况。",
+  "en": "Go to {destination} and investigate it.",
+  "pt": ""
+ },
+ "taskDesc3000054": {
+  "ch": "前往{destination}，探探情况。",
+  "en": "Go to {destination} and investigate what happens.",
+  "pt": ""
+ },
+ "taskDesc8000825": {
+  "ch": "酒馆委托:清理魔化蛙",
+  "en": "Tavern Task - Slay Demonized Frogs",
+  "pt": ""
+ },
+ "taskDesc8000826": {
+  "ch": "酒馆委托:保护世家子弟",
+  "en": "Tavern Task - Protect a Young Master",
+  "pt": ""
+ },
+ "taskDesc8000827": {
+  "ch": "酒馆委托:取回法宝",
+  "en": "Tavern Task - Recover Artifact",
+  "pt": ""
+ },
+ "taskDesc8000828": {
+  "ch": "酒馆委托:消灭为祸的当康族",
+  "en": "Tavern Task - Deal with Troublesome Dangkang",
+  "pt": ""
+ },
+ "taskDesc8000829": {
+  "ch": "酒馆委托:清除邪教",
+  "en": "Tavern Task - Eliminate the Heresy",
+  "pt": ""
+ },
+ "taskDesc8000830": {
+  "ch": "酒馆委托:净化绝地",
+  "en": "Tavern Task - Purge the Haunted Yard",
+  "pt": ""
+ },
+ "taskDesc8000831": {
+  "ch": "酒馆委托:净化绝地",
+  "en": "Tavern Task - Purge the Haunted Yard",
+  "pt": ""
+ },
+ "taskDesc8000832": {
+  "ch": "老乌龟的委托:妖怪聚集地",
+  "en": "Old Turtle's Task - A Place Haunted by Monsters",
+  "pt": ""
+ },
+ "taskDesc8000833": {
+  "ch": "击杀{name|B}的仇人{name|C}。",
+  "en": "Kill {name|B}'s enemy: {name|C}.",
+  "pt": ""
+ },
+ "taskDesc8000834": {
+  "ch": "前往仙衣阁购买一件衣服，赠予{name|B}。",
+  "en": "Buy an Outfit from Immortal Wardrobe and gift it to {name|B}.",
+  "pt": ""
+ },
+ "taskDesc8000835": {
+  "ch": "前往指定地点击杀大妖兽。",
+  "en": "Go to the said location and kill Mythical Beast there.",
+  "pt": ""
+ },
+ "taskDesc8000841": {
+  "ch": "打开女修士给予的地理图查看住处位置。",
+  "en": "Check the map sent by the lady cultivator to find where is her home.",
+  "pt": ""
+ },
+ "taskDesc8000842": {
+  "ch": "将受伤的女修士安全护送到她云陌州的住处去。",
+  "en": "Escort the wounded lady to her home in Yun Mo.",
+  "pt": ""
+ },
+ "taskDesc8000843": {
+  "ch": "设法找到净念草。这种有毒的植物，生长极为隐秘，到达所在地后，需以<r>堪舆</r>之法查探才能使之显形。",
+  "en": "Try to find the Mind-cleansing Herb. This is a poisonous plant that usually grows in secret places. Use <r>Geomancy</r> to find its location after you arrive at the possible place.",
+  "pt": ""
+ },
+ "taskDesc8000844": {
+  "ch": "将伤者带回其家中。",
+  "en": "Help the wounded to reach home.",
+  "pt": ""
+ },
+ "taskDesc8000845": {
+  "ch": "道心阁蚀心殿大战在即，要想救援或阻止你的好友，需要尽快决定是否前往决战现场。",
+  "en": "The final fight between the Taoist Mind Pavilion and the Mindsnap Temple is imminent. Go to their battlefield if you want to rescue or prevent your friend.",
+  "pt": ""
+ },
+ "taskDesc8000846": {
+  "ch": "查看带着泪迹的留书。",
+  "en": "Check the letter with tears.",
+  "pt": ""
+ },
+ "taskDesc8000901": {
+  "ch": "兰幽需要解除封印，前往她指点的地方设法查探。",
+  "en": "Lan You needs to break the seal. Head to the location she indicates and investigate the area.",
+  "pt": ""
+ },
+ "taskDesc8000902": {
+  "ch": "一切变化出于意料之外，或可跟上兰幽弄清楚情况。",
+  "en": "Everything has changed unexpectedly. You might be able to catch up with Lan You to figure out what's going on.",
+  "pt": ""
+ },
+ "taskDesc8000903": {
+  "ch": "替兰幽购买两本琅琊阁蓝色品质的秘籍。",
+  "en": "Purchase two Rare manuals from the Manual Pavilion for Lan You.",
+  "pt": ""
+ },
+ "taskDesc8000904": {
+  "ch": "彻查秘楼",
+  "en": "Unravel the building.",
+  "pt": ""
+ },
+ "taskDesc8000905": {
+  "ch": "帮助兰幽解除风水禁制。",
+  "en": "Help Lan You dispel the Feng Shui seal.",
+  "pt": ""
+ },
+ "taskDesc8000906": {
+  "ch": "兰幽已自己前往风水关节处，她时时刻刻身在危险之中。应该前往营救吗？",
+  "en": "Lan You has gone alone to the Feng Shui power spot and is in constant danger. Should you go to rescue her?",
+  "pt": ""
+ },
+ "taskDesc8000907": {
+  "ch": "风波已过，尘埃落定，但兰幽似乎有什么心事而暂时离开散心。<r>不妨多去兰幽住处看看</r>，也许此时她正需要你的关怀和谅解。",
+  "en": "Though the matters have settled, Lan You seems troubled and has gone to clear her mind. <r>Perhaps it's better to visit Lan You's Dwelling often</r> since she might need your understanding and comfort right now.",
+  "pt": ""
+ },
+ "taskDesc8000908": {
+  "ch": "",
+  "en": "Lan You has settled in Hua Feng and invites you to visit her new home for a chat.",
+  "pt": ""
+ },
+ "taskDesc8000909": {
+  "ch": "",
+  "en": "Check the secrets Lan You recorded in On Qi and Nether Air.",
+  "pt": ""
+ },
+ "taskDesc8001001": {
+  "ch": "协助天香击杀赤幽州冥妖。",
+  "en": "Help Tianxiang eliminate Nether Demons in Chi You.",
+  "pt": ""
+ },
+ "taskDesc8001002": {
+  "ch": "协助天香清除丝萝小筑周边的障碍。",
+  "en": "Help Tianxiang clear obstacles around Silken Cottage.",
+  "pt": ""
+ },
+ "taskDesc8001020": {
+  "ch": "于当前居所进行一番搜索彻查。",
+  "en": "Search and investigate the dwelling.",
+  "pt": ""
+ },
+ "taskDesc8001030": {
+  "ch": "你打算现在便动身将这一切弄明白。",
+  "en": "Now you decide to set off for the truth behind those matters.",
+  "pt": ""
+ },
+ "taskDesc8001040": {
+  "ch": "前往村庄，摆脱当前修仙者的追踪。",
+  "en": "Go to the village to evade the pursuit of the cultivators.",
+  "pt": ""
+ },
+ "taskDesc8001050": {
+  "ch": "究竟是将幻根交出还是自己留下，应该尽快作出抉择。",
+  "en": "Hand off the stub or keep it yourself? It's time to make a choice.",
+  "pt": ""
+ },
+ "taskDesc8001060": {
+  "ch": "陪同前往找到秘宝九幻灵根。",
+  "en": "Go together with him and find the Illusion Root.",
+  "pt": ""
+ },
+ "taskDesc8001070": {
+  "ch": "跟随灵烟，寻找神秘洞天。",
+  "en": "Follow the strands of smoke and find the mysterious cave.",
+  "pt": ""
+ }
+}

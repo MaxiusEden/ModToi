@@ -1,0 +1,1077 @@
+{
+ "modConditionTitle_abClose": {
+  "ch": "玩家与NPC-A的亲密度判定（玩家对NPC-A的亲密度，如果反转了则判断NPC-A对玩家的亲密度）",
+  "en": "Affinity determiner of Player and NPC-A (Player's affinity toward NPC-A; if reversed: NPC-A's affinity toward Player)",
+  "pt": ""
+ },
+ "modConditionTitle_abExpectRelation": {
+  "ch": "当A期望B是自己的好友，此处是期望的关系，不是实际的关系，如果实际已经是这个关系了，那就不符合此条件了",
+  "en": "When A expects B to be a friend (An expected relationship is not the actual relationship. If the actual relationship is already this relationship, then this condition is not met)",
+  "pt": ""
+ },
+ "modConditionTitle_abFamily": {
+  "ch": "玩家与NPC-A的亲族判定（两个角色是否是亲族关系）",
+  "en": "Familial determiner of Player and NPC-A (two characters' familial relationship)",
+  "pt": ""
+ },
+ "modConditionTitle_abGrade": {
+  "ch": "指定两个角色的境界差值判定",
+  "en": "Realm difference determiner of 2 specified characters",
+  "pt": ""
+ },
+ "modConditionTitle_abRelation": {
+  "ch": "玩家与NPC-A是什么关系（玩家是NPC-A的谁，如果反转了则判断NPC-A是玩家的谁）",
+  "en": "Relationship between Player and NPC-A (Who is Player to NPC-A; if reversed: Who is NPC-A to Player)",
+  "pt": ""
+ },
+ "modConditionTitle_abRelationCoincide": {
+  "ch": "玩家的指定关系NPC，在NPC-A的指定关系NPC列表里也存在（例：玩家的道侣，在NPC-A的仇人列表里存在）",
+  "en": "An NPC of a specified relationship with Player also exists on NPC-A's relationship list (E.g., Player's Partner is on NPC-A's Enemy list)",
+  "pt": ""
+ },
+ "modConditionTitle_abSchool": {
+  "ch": "玩家与NPC-A的宗门判定（两个角色的宗门）",
+  "en": "Sect determiner of Player and NPC-A (two characters' sects)",
+  "pt": ""
+ },
+ "modConditionTitle_abSchoolArea": {
+  "ch": "玩家与NPC-A的宗门区域判定",
+  "en": "Determines the player's and NPC-A's sects' region",
+  "pt": ""
+ },
+ "modConditionTitle_abSchoolClose": {
+  "ch": "玩家与NPC-A的宗门亲密度判定（玩家对NPC-A的宗门亲密度，如果反转了，则是NPC-A对玩家宗门的亲密度）",
+  "en": "Sect affinity determiner of Player and NPC-A (Player's sect affinity toward NPC-A; if reversed: NPC-A's sect affinity toward Player)",
+  "pt": ""
+ },
+ "modConditionTitle_abSchoolPost": {
+  "ch": "指定两个角色的宗门职位差值判定",
+  "en": "Sect position difference determiner of 2 specified characters",
+  "pt": ""
+ },
+ "modConditionTitle_abShareFamily": {
+  "ch": "玩家与NPC-A有同一个亲族关系NPC（例：玩家与NPC-A有同一个道侣）",
+  "en": "Player and NPC-A share the same familial relationship NPC (E.g., Player and NPC-A has the same Partner)",
+  "pt": ""
+ },
+ "modConditionTitle_abShareRelation": {
+  "ch": "玩家与NPC-A有同一个社交关系NPC（例：玩家与NPC-A有同一个仇人）",
+  "en": "Player and NPC-A share the same social relationship NPC (E.g., Player and NPC-A has the same Enemy)",
+  "pt": ""
+ },
+ "modConditionTitle_abStand": {
+  "ch": "玩家与NPC-A的立场判定（两个角色是什么样的立场）",
+  "en": "faction determiner of Player and NPC-A (two characters' factions)",
+  "pt": ""
+ },
+ "modConditionTitle_abTroubleType": {
+  "ch": "指定角色是否存在指定烦恼",
+  "en": "Does the specified character have specific troubles?",
+  "pt": ""
+ },
+ "modConditionTitle_abcStand": {
+  "ch": "指定角色是什么立场",
+  "en": "Specify what Faction the character is in",
+  "pt": ""
+ },
+ "modConditionTitle_acSchoolCount": {
+  "ch": "拥有A的任意良性关系数量最多的宗门中，A的任意良性关系大于等于5时此处需要返回一个C，C为在A的关系中，满足条件的所有角色，宗门职位最高的角色",
+  "en": "In the sect where A has the most positive relationships, when A's positive relationships are equal or greater than 5, a C needs to be returned here. C is the character that has the highest sect position among all characters that match the conditions in A's relationship network.",
+  "pt": ""
+ },
+ "modConditionTitle_acSchoolPost": {
+  "ch": "判定指定角色的关系列表里，宗门身份最高的NPC在所处的宗门中拥有指定身份以上，查找成功后把查找到的NPC设置成C（后续条件就能使用NPC-C）",
+  "en": "Searches in a specified character's relationship list for an NPC with the highest Sect Position not lower than a specified Position. If there is one, sets the NPC found as C (NPC-C will be available for subsequent conditions)",
+  "pt": ""
+ },
+ "modConditionTitle_acScreen": {
+  "ch": "查找指定角色的指定关系中符合指定条件的人，查找成功后把查找到的NPC设置成C（后续条件就能使用NPC-C）",
+  "en": "Searches in a specified character's specified relationship list for a character who meets a certain condition. If there is one, sets the NPC found as C (NPC-C will be available for subsequent conditions)",
+  "pt": ""
+ },
+ "modConditionTitle_accordMethodEquip": {
+  "ch": "判断装备的任意仙法数量",
+  "en": "Determine the number of any kind of Heavenly Arts equipped",
+  "pt": ""
+ },
+ "modConditionTitle_advantage": {
+  "ch": "指定角色的宗门有指定的门规",
+  "en": "Specified character's sect has the specified rule",
+  "pt": ""
+ },
+ "modConditionTitle_appellation": {
+  "ch": "判断角色是否拥有指定道号",
+  "en": "Determines does the character have specific Taoist Titles",
+  "pt": ""
+ },
+ "modConditionTitle_appellationNum": {
+  "ch": "指定角色拥有的道号数量判断",
+  "en": "Determines the no. of Taoist Titles owned by the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_appellationUnlock": {
+  "ch": "判断指定角色是否拥有过指定道号",
+  "en": "Determines if the character has had specific Taoist Titles",
+  "pt": ""
+ },
+ "modConditionTitle_appellationWear": {
+  "ch": "判断指定角色是否拥有指定类型的道号",
+  "en": "Determines does the specified character have Taoist Titles of a specific type",
+  "pt": ""
+ },
+ "modConditionTitle_area": {
+  "ch": "玩家当前位置是否在指定区域",
+  "en": "If Player's current location is in the specified region",
+  "pt": ""
+ },
+ "modConditionTitle_areaEvant": {
+  "ch": "指定区域是否存在指定事件",
+  "en": "Does the specified region have specific events?",
+  "pt": ""
+ },
+ "modConditionTitle_askAppellationType": {
+  "ch": "判断指定角色是否拥有指定类型的道号",
+  "en": "Checks if the specified character has a Taoist Title of the specified type",
+  "pt": ""
+ },
+ "modConditionTitle_askRelationship": {
+  "ch": "判断玩家请求指定角色设置指定关系，对方答应或者拒绝过了多少个月",
+  "en": "Determines how many months have passed since the specified character has accepted or rejected the player's Relationship request",
+  "pt": ""
+ },
+ "modConditionTitle_asrtificeCount": {
+  "ch": "判断指定角色的炼丹、炼器、堪舆等行为次数",
+  "en": "Determines the no. of actions like Alchemy, Forge, Geomancy, and etc. made by the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_attr": {
+  "ch": "指定角色属性在什么之间",
+  "en": "Specified character Stats in between",
+  "pt": ""
+ },
+ "modConditionTitle_attrCompare": {
+  "ch": "指定属性组，判断里面最高的是什么属性",
+  "en": "Specify Stats group and determine what is the highest State in it",
+  "pt": ""
+ },
+ "modConditionTitle_attrCompareItem": {
+  "ch": "判断指定角色的坐骑、戒指境界是否比自身境界低",
+  "en": "Determines if the specified character's Mount Realm and Ring Realm lower than their own Realm",
+  "pt": ""
+ },
+ "modConditionTitle_attribute": {
+  "ch": "指定属性达到指定值",
+  "en": "Specified stat reached a specified value",
+  "pt": ""
+ },
+ "modConditionTitle_attrs": {
+  "ch": "指定属性相加的数值，大于等于指定值",
+  "en": "The sum of specified stats is not lower than the specified value",
+  "pt": ""
+ },
+ "modConditionTitle_basCompare": {
+  "ch": "对比指定属性在指定组排名多少",
+  "en": "Compare how specified Stats rank in specified group",
+  "pt": ""
+ },
+ "modConditionTitle_basNEMartialInBag": {
+  "ch": "玩家背包里有任意资质不够不能学习的秘籍",
+  "en": "Does the player have Manuals that they can't study because of insufficient stats?",
+  "pt": ""
+ },
+ "modConditionTitle_baseAttr": {
+  "ch": "判断角色的属性范围",
+  "en": "Determine the stats range of character",
+  "pt": ""
+ },
+ "modConditionTitle_battleDungeonRoomDie": {
+  "ch": "当前房间中死亡的地方单位数量达到100个",
+  "en": "Number of dead local units in the current room reaches 100",
+  "pt": ""
+ },
+ "modConditionTitle_battleSkillCondition": {
+  "ch": "调用#BattleSkillCondition表表中ID为722101的条件",
+  "en": "Call the condition with ID 722101 in the [#BattleSkillCondition] table",
+  "pt": ""
+ },
+ "modConditionTitle_bcRelationType": {
+  "ch": "查找NPC-B的指定关系列表里，是否有某一个NPC和NPC-A是指定关系，查找成功后把查找到的NPC设置成C（后续条件就能使用NPC-C）",
+  "en": "Searches in NPC-B's specified relationship list for an NPC who has a specified relationship with NPC-A. If there is one, sets the NPC found as C (NPC-C will be available for subsequent conditions)",
+  "pt": ""
+ },
+ "modConditionTitle_blockElement": {
+  "ch": "当前脚底所在格子的数值（灵气、药材等）",
+  "en": "The value of the current grid underfoot (Qi, Herbs, etc.)",
+  "pt": ""
+ },
+ "modConditionTitle_blockRange": {
+  "ch": "是否在指定坐标的范围内",
+  "en": "Is in the specified coordinates range",
+  "pt": ""
+ },
+ "modConditionTitle_buildingTown": {
+  "ch": "当前当前位置在城镇，并判定是不是主城",
+  "en": "When the current location is in a town, determine whether it is the main city",
+  "pt": ""
+ },
+ "modConditionTitle_capacity": {
+  "ch": "背包里有多少空闲的格子",
+  "en": "How many empty slots are in the bag",
+  "pt": ""
+ },
+ "modConditionTitle_championCombo": {
+  "ch": "指定角色在指定区域的上次宗门大比擂台赛战绩判断",
+  "en": "Determines the specified character's result in the previous Sect Tournament results in the specified region",
+  "pt": ""
+ },
+ "modConditionTitle_checkAnimaWeapon": {
+  "ch": "判断玩家拥有的指定神器",
+  "en": "Determines what specific Artifacts does the player have",
+  "pt": ""
+ },
+ "modConditionTitle_checkLog": {
+  "ch": "当C的日志中出现A将C杀死的日志",
+  "en": "When the event [A killed C] appears in C's Log",
+  "pt": ""
+ },
+ "modConditionTitle_checkLogOneUnit": {
+  "ch": "查B在24个月内是否有遭受攻击的日志，并把攻击者设置成C",
+  "en": "Check if B has been attacked in the last 24 months, and set C as the attacker",
+  "pt": ""
+ },
+ "modConditionTitle_checkLogPack": {
+  "ch": "查B的日志中，在12个月内是否有偷取了A道具的日志",
+  "en": "Check B's Log if B has stolen items from A within the last 12 months",
+  "pt": ""
+ },
+ "modConditionTitle_checkSmallSchool": {
+  "ch": "判断当前存档的小宗门是否是特殊宗门（例如：御龙山庄）",
+  "en": "Determines if the minor sect in the current save file a special sect (e.g. Dragon Mountain Hamlet)",
+  "pt": ""
+ },
+ "modConditionTitle_close": {
+  "ch": "与ID为105的NPC角色好感度至少为95",
+  "en": "Have an Affinity of at least 95 with the NPC character whose ID is 105",
+  "pt": ""
+ },
+ "modConditionTitle_combatValue": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modConditionTitle_compareAttr": {
+  "ch": "判断玩家的基本属性（HP MP SP 健康 精力 心情）",
+  "en": "Determines the player's basic stats (HP, MP, SP, Health, Stamina, Mood)",
+  "pt": ""
+ },
+ "modConditionTitle_compareDistrictGrade": {
+  "ch": "指定角色的境界与当前所在区域服务境界对比",
+  "en": "Comparison of the realm of the specified character with the current regional realm",
+  "pt": ""
+ },
+ "modConditionTitle_compareUnitAreaGrade": {
+  "ch": "判断角色1的境界对比角色2的当前位置所在区域境界",
+  "en": "Determine character 1's Realm and compare it with the Realm of the area that Character 2 is currently in",
+  "pt": ""
+ },
+ "modConditionTitle_concealHeart": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modConditionTitle_containsArea": {
+  "ch": "角色位置周边棱形范围内，是否与指定区域存在交集",
+  "en": "Checks if a rhomboid area around the character overlaps with the specified area",
+  "pt": ""
+ },
+ "modConditionTitle_curExpPercent": {
+  "ch": "判断玩家当前的经验进度条百分比",
+  "en": "Determine the player's current EXP progress bar percentage",
+  "pt": ""
+ },
+ "modConditionTitle_curMonthDay": {
+  "ch": "当前月份还剩下多少天以上",
+  "en": "At least how many days are left in the current month",
+  "pt": ""
+ },
+ "modConditionTitle_curPointRoleDying": {
+  "ch": "判断玩家当前脚底的一丝元魂NPC数量",
+  "en": "Determine the number of NPCs that are in Last Breath at the player's current location",
+  "pt": ""
+ },
+ "modConditionTitle_dialogue": {
+  "ch": "玩家是否触发过指定剧情",
+  "en": "If Player triggered the specified plot",
+  "pt": ""
+ },
+ "modConditionTitle_dialogueCount": {
+  "ch": "指定剧情触发了指定次数",
+  "en": "Specified plot has been triggered a specified number of times",
+  "pt": ""
+ },
+ "modConditionTitle_dialogueLast": {
+  "ch": "在10001、10002、10003的剧情ID中，最后一个触发的是10002",
+  "en": "In Plot ID 10001, 10002, and 10003, the last one that is triggered is 10002",
+  "pt": ""
+ },
+ "modConditionTitle_dialogueTime": {
+  "ch": "玩家触发过指定剧情，并且过了指定时间",
+  "en": "Player triggered the specified plot, and the specified time has elapsed",
+  "pt": ""
+ },
+ "modConditionTitle_dialogueTimePeriod": {
+  "ch": "玩家触发过指定剧情，并且经过了指定时间",
+  "en": "Player triggered the specified plot, and the specified time has elapsed",
+  "pt": ""
+ },
+ "modConditionTitle_diff": {
+  "ch": "判断当前游戏难度",
+  "en": "Determine the current game difficulty",
+  "pt": ""
+ },
+ "modConditionTitle_doubleTrain": {
+  "ch": "判断玩家请求指定角色进行双修，对方答应或者拒绝过了多少个月",
+  "en": "Determines how many months have passed since the specified character has accepted or rejected the player's Dual Cultivation request",
+  "pt": ""
+ },
+ "modConditionTitle_downFeatureNum": {
+  "ch": "玩家是否存在指定数量的正负面气运",
+  "en": "Does the player have a specific number of positive and negative Destinies?",
+  "pt": ""
+ },
+ "modConditionTitle_dramaConditionID": {
+  "ch": "当满足了#DramaCondition表中ID为1001和1002的条件",
+  "en": "When the conditions ID 1001 and ID 1002 in the [#DramaCondition] table are met",
+  "pt": ""
+ },
+ "modConditionTitle_dramaInfoValue": {
+  "ch": "如果夸父存在，判断夸父的当前状态",
+  "en": "If Kuafu exists, checks Quafu's current status",
+  "pt": ""
+ },
+ "modConditionTitle_dressCount": {
+  "ch": "指定角色拥有的服饰数量判定",
+  "en": "Determines how many outfits does the specified character own",
+  "pt": ""
+ },
+ "modConditionTitle_dungeon": {
+  "ch": "判断玩家当前是否在指定ID的副本",
+  "en": "Checks if the player is in the dungeon of the specified ID",
+  "pt": ""
+ },
+ "modConditionTitle_dungeonBattleNpcUnit": {
+  "ch": "当前的副本房间中存在一个未死亡的npc单位",
+  "en": "There is an NPC unit alive in the current room of the dungeon",
+  "pt": ""
+ },
+ "modConditionTitle_dungeonBattleTime": {
+  "ch": "玩家处于当前副本的时间到达180秒",
+  "en": "The time Player spent in the current dungeon reaches 180 seconds",
+  "pt": ""
+ },
+ "modConditionTitle_dungeonDialogue": {
+  "ch": "玩家在当前副本中，触发过指定的剧情",
+  "en": "Player triggered the specified plot in the current dungeon",
+  "pt": ""
+ },
+ "modConditionTitle_dungeonItem58": {
+  "ch": "在58副本中10001的道具ID数量小于等于1",
+  "en": "The item ID number in 58 Dungeon 10001 is less than or equal to 1",
+  "pt": ""
+ },
+ "modConditionTitle_dungeonLevel": {
+  "ch": "上一次进入的副本等级在指定范围",
+  "en": "The last Dungeon level entered is in the specified range",
+  "pt": ""
+ },
+ "modConditionTitle_dungeonRoomEstimate": {
+  "ch": "当前房间是普通房间",
+  "en": "Current room is a normal room",
+  "pt": ""
+ },
+ "modConditionTitle_equipMartial": {
+  "ch": "玩家是否装备了指定类型的秘籍",
+  "en": "If Player has the specified type of manual equipped",
+  "pt": ""
+ },
+ "modConditionTitle_feature": {
+  "ch": "指定角色是否拥有气运",
+  "en": "Specify if the character has Destiny",
+  "pt": ""
+ },
+ "modConditionTitle_featureNot": {
+  "ch": "指定角色没有拥有指定气运",
+  "en": "Specified character does not have the specified Destiny",
+  "pt": ""
+ },
+ "modConditionTitle_featureNotLastBreath": {
+  "ch": "判断指定角色是否是一丝元魂",
+  "en": "Determines if the specified character is on Last Breath",
+  "pt": ""
+ },
+ "modConditionTitle_featureTime": {
+  "ch": "玩家获得了指定气运，并且过了指定时间",
+  "en": "Player acquired the specified destiny and the specified time has elapsed",
+  "pt": ""
+ },
+ "modConditionTitle_fixNpcAddWorld": {
+  "ch": "指定角色是模组创建的NPC",
+  "en": "Specified character being the NPC generated by the mod",
+  "pt": ""
+ },
+ "modConditionTitle_gameCurYearMonth": {
+  "ch": "游戏今年的月份在指定范围",
+  "en": "Current month of the year is within the specified range",
+  "pt": ""
+ },
+ "modConditionTitle_gameMonth": {
+  "ch": "游戏运行总的月份在指定范围",
+  "en": "total months elapsed is within the specified range",
+  "pt": ""
+ },
+ "modConditionTitle_gender": {
+  "ch": "指定角色是什么性别",
+  "en": "Specify what gender the character is",
+  "pt": ""
+ },
+ "modConditionTitle_getNpcToPlayerLetterTime": {
+  "ch": "获取NpcB给玩家写信的时间段",
+  "en": "Retrieve the time period when NPC B wrote a letter to Player",
+  "pt": ""
+ },
+ "modConditionTitle_grade": {
+  "ch": "指定角色的境界在什么范围",
+  "en": "Specify character Realm range",
+  "pt": ""
+ },
+ "modConditionTitle_gradePhase": {
+  "ch": "指定角色的小境界在什么范围",
+  "en": "Specified character's small realm range",
+  "pt": ""
+ },
+ "modConditionTitle_gradePhaseStop": {
+  "ch": "指定角色的修为是否处于瓶颈判断",
+  "en": "Determines if the specified character is having a Bottleneck",
+  "pt": ""
+ },
+ "modConditionTitle_haveImmortalAmount": {
+  "ch": "判断拥有的仙法数量",
+  "en": "Determine the number of Heavenly Arts owned",
+  "pt": ""
+ },
+ "modConditionTitle_haveSprite": {
+  "ch": "判断指定角色是否拥有指定器灵",
+  "en": "Checks if the specified character has a specified Artifact Spirit",
+  "pt": ""
+ },
+ "modConditionTitle_herbSkill": {
+  "ch": "玩家是否学会了指定药材技能",
+  "en": "If Player has learned the specified herb skill",
+  "pt": ""
+ },
+ "modConditionTitle_heresy": {
+  "ch": "指定角色是否是指定的神秘组织",
+  "en": "Determines if the specified character a member of the specified Secret Order?",
+  "pt": ""
+ },
+ "modConditionTitle_heresyClose": {
+  "ch": "神秘组织对玩家的好感度判断",
+  "en": "Determines the Affinity of the Secret Order towards the player",
+  "pt": ""
+ },
+ "modConditionTitle_heresyCloseCompare": {
+  "ch": "神秘组织1对玩家的好感度减去神秘组织2对玩家的好感度判断",
+  "en": "Determines Secret Order 1's Affinity towards the player minus Secret Order 2's Affinity towards the player",
+  "pt": ""
+ },
+ "modConditionTitle_heresyDiscover": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modConditionTitle_hobby": {
+  "ch": "玩家是否包含指定的兴趣爱好",
+  "en": "If Player has the specified interest",
+  "pt": ""
+ },
+ "modConditionTitle_immortalMethodEquip": {
+  "ch": "判断装备的主动仙法数量",
+  "en": "Determine the number of active Heavenly Arts equipped",
+  "pt": ""
+ },
+ "modConditionTitle_immortalPointEquip": {
+  "ch": "判断已用的仙力点数量",
+  "en": "Determine the number of used Immortal Power Pts",
+  "pt": ""
+ },
+ "modConditionTitle_immortalPointRemain": {
+  "ch": "判断未使用的仙力点数量",
+  "en": "Determine the number of unused Immortal Power Pts",
+  "pt": ""
+ },
+ "modConditionTitle_inFlyBoat": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modConditionTitle_intDataCompare": {
+  "ch": "",
+  "en": "0",
+  "pt": ""
+ },
+ "modConditionTitle_isBattleData": {
+  "ch": "战斗中数据包含kaizhanle并且是ok",
+  "en": "Data in the battle contains [kaizhanle] and is [ok]",
+  "pt": ""
+ },
+ "modConditionTitle_isBattleDataExist": {
+  "ch": "存在战斗数据NPCRoom",
+  "en": "Combat data [NPCRoom] exists",
+  "pt": ""
+ },
+ "modConditionTitle_isBattleUnitDie": {
+  "ch": "战斗中NPC3死亡了",
+  "en": "NPC3 dies during the battle",
+  "pt": ""
+ },
+ "modConditionTitle_isCdBuild10005": {
+  "ch": "当前位置的10005建筑是否在CD",
+  "en": "If the current location's building 10005 is cooling down",
+  "pt": ""
+ },
+ "modConditionTitle_isCreateEvent": {
+  "ch": "判断玩家当前位置能不能创建指定的事件",
+  "en": "Determine if the specified event can be created at Player's currency location",
+  "pt": ""
+ },
+ "modConditionTitle_isCurSchool": {
+  "ch": "角色1所属宗门是否等于角色2当前脚底位置的宗门",
+  "en": "If the sect which character 1 belongs to is equal to the sect that character 2 is currently standing at",
+  "pt": ""
+ },
+ "modConditionTitle_isDataInt": {
+  "ch": "数据里面包含level并且大于等于5",
+  "en": "Data contains [level] and is greater than or equal to 5",
+  "pt": ""
+ },
+ "modConditionTitle_isDataString": {
+  "ch": "数据里面包含state并且字符串等于test",
+  "en": "Data contains [state] and the string is equal to [test]",
+  "pt": ""
+ },
+ "modConditionTitle_isDecorateId": {
+  "ch": "当前位置的地图装饰ID是否为1621",
+  "en": "If the current location's map decoration ID is 1621",
+  "pt": ""
+ },
+ "modConditionTitle_isEventExist": {
+  "ch": "大地图上存不存在指定的事件ID",
+  "en": "The specified event ID doesn't exist on the world map",
+  "pt": ""
+ },
+ "modConditionTitle_isExPillFormulaLearn": {
+  "ch": "有可学习的丹方",
+  "en": "Have learnable Elixir Recipes",
+  "pt": ""
+ },
+ "modConditionTitle_isExPillFormulaUpgrade": {
+  "ch": "有可升级的丹方",
+  "en": "Have upgradeable Elixir Recipes",
+  "pt": ""
+ },
+ "modConditionTitle_isFairyHaveItem": {
+  "ch": "没有器灵有ID为123的道具",
+  "en": "Have no artifact spirits but have the item with ID 123",
+  "pt": ""
+ },
+ "modConditionTitle_isHaveItem": {
+  "ch": "玩家的背包，临时背包，仓库中均没有指定ID的道具",
+  "en": "The item with the specified ID does not exist in Player's bag, temporary bag, or warehouse",
+  "pt": ""
+ },
+ "modConditionTitle_isInManor": {
+  "ch": "角色1的位置在角色2的宗门领地范围内",
+  "en": "Character 1's location is within the sect territory of character 2",
+  "pt": ""
+ },
+ "modConditionTitle_isItemExist": {
+  "ch": "玩家背包内是否有指定道具",
+  "en": "If the specified item exists in Player's bag",
+  "pt": ""
+ },
+ "modConditionTitle_isLastInviteUnit": {
+  "ch": "判断是否是和玩家上次邀约的角色",
+  "en": "Determine if the character is the one who dated the player last time",
+  "pt": ""
+ },
+ "modConditionTitle_isLearnedMineBook": {
+  "ch": "玩家是否学习了指定矿材书",
+  "en": "If Player has learned the specified ore book",
+  "pt": ""
+ },
+ "modConditionTitle_isPlayer": {
+  "ch": "判断角色是否是玩家",
+  "en": "Determine if the character is player",
+  "pt": ""
+ },
+ "modConditionTitle_isRelocating": {
+  "ch": "0",
+  "en": "",
+  "pt": ""
+ },
+ "modConditionTitle_isResourcesPoint": {
+  "ch": "判断玩家当前位置的宗门资源点类型",
+  "en": "Checks the Sect resource point type at the player's current position",
+  "pt": ""
+ },
+ "modConditionTitle_isRevealHeresy": {
+  "ch": "指定角色的神秘组织身份是否被发现",
+  "en": "Had the specified character been revealed as a member of their Secret Order?",
+  "pt": ""
+ },
+ "modConditionTitle_isSchoolDestroyed": {
+  "ch": "玩家当前位置是宗门，判断此宗门有没有被占领",
+  "en": "The player is at a sect; checks if the sect is occupied?",
+  "pt": ""
+ },
+ "modConditionTitle_isSchoolLevel": {
+  "ch": "玩家当前位置是宗门，并且是指定规模宗门",
+  "en": "Is the player is currently at a sect, and the sect is of the specified scale?",
+  "pt": ""
+ },
+ "modConditionTitle_isSchoolPoint": {
+  "ch": "玩家当前位置是否是自己宗门",
+  "en": "Is the player at their own sect?",
+  "pt": ""
+ },
+ "modConditionTitle_isSpriteEquipted": {
+  "ch": "玩家已装备的所有法宝中是否融合有指定器灵",
+  "en": "Checks if a specified Artifact Spirit has been combined with one of the player's equipped Artifacts",
+  "pt": ""
+ },
+ "modConditionTitle_isWorldData": {
+  "ch": "存档中数据包含指定key并且是指定value（命令可以设置key标记数据）",
+  "en": "Save data contains the specified key and is the specified value (use the command to set a key to mark the data)",
+  "pt": ""
+ },
+ "modConditionTitle_item": {
+  "ch": "背包里有指定数量的道具",
+  "en": "Bag contains the item of specified quantity",
+  "pt": ""
+ },
+ "modConditionTitle_itemCount": {
+  "ch": "指定角色的背包道具数量判定（不算叠加的）",
+  "en": "Determiner of the quantity of items in the specified character's bag",
+  "pt": ""
+ },
+ "modConditionTitle_itemType": {
+  "ch": "判断背包里指定品质、指定类型的道具数量有多少",
+  "en": "Determine how many items of the specified rarity and type are in the bag",
+  "pt": ""
+ },
+ "modConditionTitle_itemUse": {
+  "ch": "玩家使用过指定道具",
+  "en": "Player used the specified Item",
+  "pt": ""
+ },
+ "modConditionTitle_jingweiInJianmu": {
+  "ch": "精卫是否在建木中",
+  "en": "If Jingwei is in the tree vault",
+  "pt": ""
+ },
+ "modConditionTitle_lastDialogue": {
+  "ch": "最后一个触发的剧情是什么",
+  "en": "What was the last triggered plot",
+  "pt": ""
+ },
+ "modConditionTitle_lastDungeon": {
+  "ch": "上一次副本战斗是胜利还是失败",
+  "en": "Whether the last Dungeon battle was won or lost",
+  "pt": ""
+ },
+ "modConditionTitle_lastDungeonTime": {
+  "ch": "判断距离上一次副本结束过了多久",
+  "en": "Determine the duration from the last dungeon battle",
+  "pt": ""
+ },
+ "modConditionTitle_lastItemEffectType": {
+  "ch": "判断上一次选择的道具类型为指定类型且是指定品质的道具（通过命令：打开道具选择界面）",
+  "en": "Checks if the last selected item is of the specified type and rarity (by command: Open item selection interface)",
+  "pt": ""
+ },
+ "modConditionTitle_lastItemID": {
+  "ch": "判断上一个选择的道具为指定道具（通过命令：打开道具选择界面）",
+  "en": "Checks if the last selected item is the specified item (by command: Open item selection interface)",
+  "pt": ""
+ },
+ "modConditionTitle_lastItemLevelType": {
+  "ch": "判断上一次选择指定类型的道具中，任意一个道具为指定品质（通过命令：打开道具选择界面）",
+  "en": "Checks if an item among the last selected items of the specified type is of the specified rarity (by command: Open item selection interface)",
+  "pt": ""
+ },
+ "modConditionTitle_lastItemPillEffectType": {
+  "ch": "上一个选择的丹药的作用类型为101或201",
+  "en": "The last selected Elixir use type is 101 or 201",
+  "pt": ""
+ },
+ "modConditionTitle_lastUpGradeMonth": {
+  "ch": "判断玩家上一次的突破时间",
+  "en": "Determine the player's last Breakthrough time",
+  "pt": ""
+ },
+ "modConditionTitle_locationSchoolTerritory": {
+  "ch": "指定角色在自己宗门的领地范围上",
+  "en": "Specified character is on their own sect's territory",
+  "pt": ""
+ },
+ "modConditionTitle_mapPosition": {
+  "ch": "玩家是否位于大地图中的指定位置",
+  "en": "If Player is located at a specified location in the world map",
+  "pt": ""
+ },
+ "modConditionTitle_mapPositionDistance": {
+  "ch": "玩家当前位置的指定范围内没有指定ID的事件",
+  "en": "Within the specified range of Player's current location, there's no event with the specified ID",
+  "pt": ""
+ },
+ "modConditionTitle_mapResource": {
+  "ch": "当区域1中没有灵气特效",
+  "en": "When there's no qi special effect in region 1",
+  "pt": ""
+ },
+ "modConditionTitle_martialLearnNum": {
+  "ch": "判断玩家已经学习的秘籍数量",
+  "en": "Determine the number of manuals learned by the player",
+  "pt": ""
+ },
+ "modConditionTitle_martialbookInBag": {
+  "ch": "玩家背包有多少本指定类型的秘籍",
+  "en": "How many copies of the specified type of manuals are in Player's bag",
+  "pt": ""
+ },
+ "modConditionTitle_moneyUseCount": {
+  "ch": "指定角色在城镇消费灵石数量判断（酒馆、客栈、坊市）",
+  "en": "Determines how many Spirit Stones had the specified character spent in towns (in Taverns, Inns, and Markets)",
+  "pt": ""
+ },
+ "modConditionTitle_moreDialogue": {
+  "ch": "判断一串剧情里，触发过指定数量的剧情或没有触发过指定数量的剧情",
+  "en": "Searches for plots that have been triggered for a specified amount of times among a series of plots, or those that have not",
+  "pt": ""
+ },
+ "modConditionTitle_nearSchool": {
+  "ch": "玩家在自己宗门的多少格范围内",
+  "en": "How far is the player from their sect? (in spaces)",
+  "pt": ""
+ },
+ "modConditionTitle_noWorldData": {
+  "ch": "存档中数据不包含指定key（命令可以设置key标记数据）",
+  "en": "Save data does not contain the specified key (use the command to set a key to mark the data)",
+  "pt": ""
+ },
+ "modConditionTitle_npcConditionExamine": {
+  "ch": "抓取NPC配置表，判断是否能抓取到NPC",
+  "en": "Capture NPC Configuration Table, and check can NPC be captured",
+  "pt": ""
+ },
+ "modConditionTitle_npcConditionSave": {
+  "ch": "抓取NPC配置表，是否储存了NPC",
+  "en": "Extract NPC configuration table, whether the NPC is saved",
+  "pt": ""
+ },
+ "modConditionTitle_npcConditionSaveRelation": {
+  "ch": "储存的NPC是指定角色的什么关系（如果反转了，则判断指定角色是储存的NPC什么关系）",
+  "en": "What relationship the saved NPC is to the specified character (if reversed: determine what relationship the specified character is to the saved NPC)",
+  "pt": ""
+ },
+ "modConditionTitle_npcDungeonResult": {
+  "ch": "上一场和NPC的战斗状态（放过、杀死NPC，还是输给NPC）",
+  "en": "Status of the last battle against NPC (spared NPC, killed NPC, or lost to NPC)",
+  "pt": ""
+ },
+ "modConditionTitle_numInRelationList": {
+  "ch": "指定角色的指定关系列表NPC数量判定",
+  "en": "Determiner of the number of NPCs in the specified relationship list for a specified character",
+  "pt": ""
+ },
+ "modConditionTitle_or": {
+  "ch": "“or”使此条件后面的所有条件，只需要达成一个条件就算达成（默认是需要达成所有条件的，例如A、B、C、D、E条件，C是or，那么A、B必须达成，D/E达成任意一条）",
+  "en": "The [or] condition allows all conditions after it to be considered complete when one of them is completed. (By default, all conditions must be achieved. For example, let's say there are 5 conditions: A, B, C, D, and E. If C is the [or] condition, then A and B have to be both completed individually, and fulfilling either D or E will make both D and E considered complete.",
+  "pt": ""
+ },
+ "modConditionTitle_passDungeon": {
+  "ch": "玩家有没有通关过指定ID的副本",
+  "en": "Whether Player has ever cleared the dungeon with the specified ID",
+  "pt": ""
+ },
+ "modConditionTitle_passiveMethodEquip": {
+  "ch": "判断装备的被动仙法数量",
+  "en": "Determine the number of passive Heavenly Arts equipped",
+  "pt": ""
+ },
+ "modConditionTitle_playerChangedCloth": {
+  "ch": "玩家上月换了衣服",
+  "en": "Player changed their clothes last month",
+  "pt": ""
+ },
+ "modConditionTitle_positionPoint": {
+  "ch": "玩家当前坐标在指定的矩形范围内",
+  "en": "Player's current coordinates are within the specified rectangle",
+  "pt": ""
+ },
+ "modConditionTitle_post": {
+  "ch": "玩家在宗门里是什么职位",
+  "en": "What is the position of the player in the Sect",
+  "pt": ""
+ },
+ "modConditionTitle_postUnit": {
+  "ch": "判断角色的宗门职位",
+  "en": "Determines character's position in sect",
+  "pt": ""
+ },
+ "modConditionTitle_probabilityTriggering": {
+  "ch": "每次调用时，有几率直接返回条件达成",
+  "en": "Each time it is called, there is a chance that the condition is met directly",
+  "pt": ""
+ },
+ "modConditionTitle_readBook": {
+  "ch": "指定角色是否学习过指定技艺书籍",
+  "en": "Has the specified character studied specific Artisanship Books?",
+  "pt": ""
+ },
+ "modConditionTitle_readBookCount": {
+  "ch": "指定角色学习技艺书籍的数量判断",
+  "en": "Determines how many Artisanship Books had been studied by the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_relationCount": {
+  "ch": "判断指定角色的指定关系，是否拥有一定数量的NPC",
+  "en": "Determines if the character has a specific Relationship with a certain no. of NPCs",
+  "pt": ""
+ },
+ "modConditionTitle_rivalrySchool": {
+  "ch": "玩家当前所属的宗门有敌对宗门",
+  "en": "Player's current sect has an enemy sect",
+  "pt": ""
+ },
+ "modConditionTitle_roleCharacter": {
+  "ch": "指定角色的性格判定",
+  "en": "Character traits determiner of the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_roleElder": {
+  "ch": "判断玩家是否激活了指定神魂",
+  "en": "Checks if the player has activated a specified Divine Soul",
+  "pt": ""
+ },
+ "modConditionTitle_roleFate": {
+  "ch": "判断指定角色当前状态（存活、死亡、一丝元魂）",
+  "en": "Determines the status of the specified character (Alive, Dead, on Last Breath)",
+  "pt": ""
+ },
+ "modConditionTitle_roomIndex": {
+  "ch": "当前房间不是副本中的第一个房间",
+  "en": "Current room is not the first room in the dungeon",
+  "pt": ""
+ },
+ "modConditionTitle_ruleCurrent": {
+  "ch": "玩家当前在属性为刀的道界",
+  "en": "Player is in the blade tao realm",
+  "pt": ""
+ },
+ "modConditionTitle_sameTown": {
+  "ch": "指定两个角色是否在同一个城镇中",
+  "en": "If the two specified characters are in the same town",
+  "pt": ""
+ },
+ "modConditionTitle_schooBas": {
+  "ch": "判断指定角色宗门的主修功法类型",
+  "en": "Determines the Main Martial Arts type of the specified character's sect",
+  "pt": ""
+ },
+ "modConditionTitle_school": {
+  "ch": "指定角色是否有宗门",
+  "en": "Specify if the character has a Sect",
+  "pt": ""
+ },
+ "modConditionTitle_schoolAttr": {
+  "ch": "指定角色的宗门属性判断（安定度、繁荣度、人口等）",
+  "en": "Determines the Sect Stats of the specified character (Stability, Prosperity, Population, and etc.)",
+  "pt": ""
+ },
+ "modConditionTitle_schoolBranchCount": {
+  "ch": "指定角色的宗门分舵数量判断",
+  "en": "Determines how many sect branches does the specified character have",
+  "pt": ""
+ },
+ "modConditionTitle_schoolJoinCount": {
+  "ch": "指定角色加入不同宗门的次数判断",
+  "en": "Determines how many different sects had the specified character joined",
+  "pt": ""
+ },
+ "modConditionTitle_schoolLevel": {
+  "ch": "判断指定角色的宗门规模大小",
+  "en": "Determines the sect scale of the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_schoolPost": {
+  "ch": "指定角色的宗门职位判定",
+  "en": "Sect position determiner of the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_schoolStaffCount": {
+  "ch": "指定角色的指定宗门职位NPC数量判定",
+  "en": "Determiner of the number of NPCs in a given sect position for a specified character",
+  "pt": ""
+ },
+ "modConditionTitle_schoolTask": {
+  "ch": "判断玩家身上宗门任务状态",
+  "en": "Checks Player Sect Mission status",
+  "pt": ""
+ },
+ "modConditionTitle_sectLeaderClose": {
+  "ch": "玩家的宗主对玩家的亲密度判断",
+  "en": "Determines player's Sect Leader's Affinity toward the player",
+  "pt": ""
+ },
+ "modConditionTitle_sectLeaderRelation": {
+  "ch": "判断玩家的宗主是玩家的什么关系",
+  "en": "Determines the Relationship between the player and their Sect Leader",
+  "pt": ""
+ },
+ "modConditionTitle_setRelationLastRejectText": {
+  "ch": "上一次结为父母时，被拒绝",
+  "en": "Declined when requested to become sworn parent last time",
+  "pt": ""
+ },
+ "modConditionTitle_skillEquip": {
+  "ch": "装备了多少指定类型的武技+绝技",
+  "en": "How many specified types of Martial Skill + Special Skill are equipped",
+  "pt": ""
+ },
+ "modConditionTitle_skillEquipType": {
+  "ch": "装备了多少个技能",
+  "en": "How many skills equipped",
+  "pt": ""
+ },
+ "modConditionTitle_skillGrade": {
+  "ch": "判断指定类型的武技是否达到指定熟练度",
+  "en": "Checks if the Martial Skill of the specified type has reached the specified Proficiency",
+  "pt": ""
+ },
+ "modConditionTitle_spriteClose": {
+  "ch": "增加玩家与器灵的亲密度（60亲密一颗心）",
+  "en": "Increases the player's Affinity with the Artifact Spirit (one heart for 60 Affinity)",
+  "pt": ""
+ },
+ "modConditionTitle_stand": {
+  "ch": "判断角色的立场",
+  "en": "Determine character's Faction",
+  "pt": ""
+ },
+ "modConditionTitle_standCalculate": {
+  "ch": "玩家的正魔值，差值判定",
+  "en": "Player's righteous/demonic value, difference determiner",
+  "pt": ""
+ },
+ "modConditionTitle_standCompare": {
+  "ch": "正道值与魔道值中哪一个最高",
+  "en": "Righteous Points or Demonic Points, whichever higher",
+  "pt": ""
+ },
+ "modConditionTitle_superHero": {
+  "ch": "判断指定角色是或不是天骄",
+  "en": "Determines if the specified character is a Heaven-chosen",
+  "pt": ""
+ },
+ "modConditionTitle_taoistHeart": {
+  "ch": "判断指定角色是否拥有指定道心",
+  "en": "Determines does the specified character have a specific Taoist Mind",
+  "pt": ""
+ },
+ "modConditionTitle_taoistHeartExist": {
+  "ch": "判断指定角色是否为废天骄（获得过道心，并且当前无道心）",
+  "en": "Determines if the specified character a Maimed-chosen (i.e. they have had a Taoist Mind, but have none now)",
+  "pt": ""
+ },
+ "modConditionTitle_task": {
+  "ch": "任务的的当前状态",
+  "en": "Current Status of the Mission",
+  "pt": ""
+ },
+ "modConditionTitle_taskTime": {
+  "ch": "完成了指定任务，并过了指定时间",
+  "en": "Completed the specified Mission but went over the specified time",
+  "pt": ""
+ },
+ "modConditionTitle_terrain": {
+  "ch": "地形ID为101或102或103的格子",
+  "en": "Grids with Terrain ID 101, 102, or 103",
+  "pt": ""
+ },
+ "modConditionTitle_terrainExclude": {
+  "ch": "当不处于102或102或103的格子",
+  "en": "When not in grids with 101, 102, or 103",
+  "pt": ""
+ },
+ "modConditionTitle_unitAge": {
+  "ch": "判断玩家的年龄",
+  "en": "Determine the age of player",
+  "pt": ""
+ },
+ "modConditionTitle_unitHasPropsItem": {
+  "ch": "指定角色背包拥有指定道具的数量判断",
+  "en": "Determines the no. of specific items in the Inventory of the specified character",
+  "pt": ""
+ },
+ "modConditionTitle_unitImmortalPoint": {
+  "ch": "判断角色的仙力点数量",
+  "en": "Determine character's Immortal Power Pts",
+  "pt": ""
+ },
+ "modConditionTitle_unitName": {
+  "ch": "指定角色的名字是指定的文本",
+  "en": "Specify the specified character's name",
+  "pt": ""
+ },
+ "modConditionTitle_worldData": {
+  "ch": "存档里数据的key值的value大小判断（制作奇遇时，可以充当标记使用）",
+  "en": "Determines the value size of \"key\" in the save file (Can be used as a tag when creating Adventures)",
+  "pt": ""
+ },
+ "modConditionTitle_xxClose": {
+  "ch": "指定两个角色的亲密度判定（第一个角色对第二个角色的亲密度）",
+  "en": "Affinity determiner of 2 specified characters (the 1st character's affinity toward the 2nd character)",
+  "pt": ""
+ },
+ "modConditionTitle_xxDistancePosition": {
+  "ch": "角色2是否在角色1当前位置的指定距离内",
+  "en": "If character 2 is within the specified distance of character 1's current position",
+  "pt": ""
+ },
+ "modConditionTitle_xxGender": {
+  "ch": "指定两个角色的性别判定",
+  "en": "Gender determiner of two specified characters",
+  "pt": ""
+ },
+ "modConditionTitle_xxPost": {
+  "ch": "角色1的宗门职位与角色2的宗门职位比较",
+  "en": "Compares Character 1 and 2's position in sect",
+  "pt": ""
+ },
+ "modConditionTitle_xxRelation": {
+  "ch": "指定两个角色的关系判定（角色1是角色2的什么关系）",
+  "en": "Relationship determiner of 2 specified characters (What is Character 1 to Character 2)",
+  "pt": ""
+ },
+ "modConditionTitle_xxRelationDeny": {
+  "ch": "指定两个角色的关系判定（角色1不是角色2的什么关系）",
+  "en": "Relationship determiner of 2 specified characters (What is NOT Character 1 to Character 2)",
+  "pt": ""
+ },
+ "modConditionTitle_xxSchool": {
+  "ch": "指定两个角色的宗门判定",
+  "en": "Sect determiner of two specified characters",
+  "pt": ""
+ }
+}

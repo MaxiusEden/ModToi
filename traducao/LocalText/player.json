@@ -1,0 +1,542 @@
+{
+ "player_bladeGrowRate": {
+  "ch": "刀法技能熟练度提升倍率",
+  "en": "Blade Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_chiyou": {
+  "ch": "持有：{0}灵石",
+  "en": "Owned: {0} Spirit Stones",
+  "pt": ""
+ },
+ "player_danyaodiejia": {
+  "ch": "装备丹药的叠加数量",
+  "en": "Max Elixir Stacks",
+  "pt": ""
+ },
+ "player_daofa": {
+  "ch": "刀法",
+  "en": "Blade",
+  "pt": ""
+ },
+ "player_daofazizi": {
+  "ch": "刀法资质",
+  "en": "Blade",
+  "pt": ""
+ },
+ "player_daoli": {
+  "ch": "道力",
+  "en": "Tao Power",
+  "pt": ""
+ },
+ "player_daolishangxian": {
+  "ch": "道力上限",
+  "en": "Max Tao Power",
+  "pt": ""
+ },
+ "player_earthGrowRate": {
+  "ch": "土属性法技能熟练度提升倍率",
+  "en": "Earth Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_energyDownRate": {
+  "ch": "精力下降倍率",
+  "en": "Stamina Decrease Rate",
+  "pt": ""
+ },
+ "player_energyUpRate": {
+  "ch": "精力上升倍率",
+  "en": "Stamina Increase Rate",
+  "pt": ""
+ },
+ "player_expGrowRate": {
+  "ch": "经验提升倍率",
+  "en": "EXP Increase Rate",
+  "pt": ""
+ },
+ "player_fangyu": {
+  "ch": "防御",
+  "en": "DEF",
+  "pt": ""
+ },
+ "player_fenglinggen": {
+  "ch": "风灵根",
+  "en": "Wind",
+  "pt": ""
+ },
+ "player_fengshui": {
+  "ch": "风水",
+  "en": "Feng Shui",
+  "pt": ""
+ },
+ "player_fengshuizizi": {
+  "ch": "风水资质",
+  "en": "Feng Shui",
+  "pt": ""
+ },
+ "player_fingerGrowRate": {
+  "ch": "指法技能熟练度提升倍率",
+  "en": "Finger Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_fireGrowRate": {
+  "ch": "火属性法技能熟练度提升倍率",
+  "en": "Fire Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_fistGrowRate": {
+  "ch": "拳法技能熟练度提升倍率",
+  "en": "Fist Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_frozeGrowRate": {
+  "ch": "水属性法技能熟练度提升倍率",
+  "en": "Water Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_gongji": {
+  "ch": "攻击",
+  "en": "ATK",
+  "pt": ""
+ },
+ "player_hateStable": {
+  "ch": "仇恨度变化倍率",
+  "en": "Hatred Change Rate",
+  "pt": ""
+ },
+ "player_healthDownRate": {
+  "ch": "健康下降倍率",
+  "en": "Health Decrease Rate",
+  "pt": ""
+ },
+ "player_healthUpRate": {
+  "ch": "健康上升倍率",
+  "en": "Health Increase Rate",
+  "pt": ""
+ },
+ "player_huafu": {
+  "ch": "画符",
+  "en": "Talismans",
+  "pt": ""
+ },
+ "player_huafuzizi": {
+  "ch": "画符资质",
+  "en": "Talismans",
+  "pt": ""
+ },
+ "player_huixin": {
+  "ch": "会心",
+  "en": "CRIT",
+  "pt": ""
+ },
+ "player_huixinbeilv": {
+  "ch": "暴击倍数",
+  "en": "CRIT DMG",
+  "pt": ""
+ },
+ "player_huolinggen": {
+  "ch": "火灵根",
+  "en": "Fire",
+  "pt": ""
+ },
+ "player_huxin": {
+  "ch": "护心",
+  "en": "CRIT RES",
+  "pt": ""
+ },
+ "player_huxinbeilv": {
+  "ch": "抗暴倍数",
+  "en": "CRIT DR",
+  "pt": ""
+ },
+ "player_intimacyRate": {
+  "ch": "亲密度变化倍率",
+  "en": "Affinity Change Rate",
+  "pt": ""
+ },
+ "player_jianfa": {
+  "ch": "剑法",
+  "en": "Sword",
+  "pt": ""
+ },
+ "player_jianfazizi": {
+  "ch": "剑法资质",
+  "en": "Sword",
+  "pt": ""
+ },
+ "player_jiankang": {
+  "ch": "健康",
+  "en": "Health",
+  "pt": ""
+ },
+ "player_jiankangshangxian": {
+  "ch": "健康上限",
+  "en": "Max Health",
+  "pt": ""
+ },
+ "player_jiaoli": {
+  "ch": "脚力",
+  "en": "Travel",
+  "pt": ""
+ },
+ "player_jingli": {
+  "ch": "精力",
+  "en": "Stamina",
+  "pt": ""
+ },
+ "player_jinglishangxian": {
+  "ch": "精力上限",
+  "en": "Max Stamina",
+  "pt": ""
+ },
+ "player_jingyan": {
+  "ch": "经验",
+  "en": "EXP",
+  "pt": ""
+ },
+ "player_jiyi": {
+  "ch": "技艺",
+  "en": "Artisanship",
+  "pt": ""
+ },
+ "player_kuangcai": {
+  "ch": "矿材资质",
+  "en": "Mining",
+  "pt": ""
+ },
+ "player_leilinggen": {
+  "ch": "雷灵根",
+  "en": "Lightning",
+  "pt": ""
+ },
+ "player_liandan": {
+  "ch": "炼丹",
+  "en": "Alchemy",
+  "pt": ""
+ },
+ "player_liandanzizi": {
+  "ch": "炼丹资质",
+  "en": "Alchemy",
+  "pt": ""
+ },
+ "player_lianqi": {
+  "ch": "炼器",
+  "en": "Refining Equipment",
+  "pt": ""
+ },
+ "player_lianqizizi": {
+  "ch": "炼器资质",
+  "en": "Refining",
+  "pt": ""
+ },
+ "player_linggen": {
+  "ch": "灵根",
+  "en": "Spiritual Root",
+  "pt": ""
+ },
+ "player_lingli": {
+  "ch": "灵力",
+  "en": "Energy",
+  "pt": ""
+ },
+ "player_linglihuifu": {
+  "ch": "灵力恢复",
+  "en": "Energy Recovery",
+  "pt": ""
+ },
+ "player_linglishangxian": {
+  "ch": "灵力上限",
+  "en": "Max Energy",
+  "pt": ""
+ },
+ "player_modaozhi": {
+  "ch": "魔道值",
+  "en": "Demonic Points",
+  "pt": ""
+ },
+ "player_momian": {
+  "ch": "灵根抗性",
+  "en": "Spiritual RES",
+  "pt": ""
+ },
+ "player_moodDownRate": {
+  "ch": "心情减少倍率",
+  "en": "Mood Decrease Rate",
+  "pt": ""
+ },
+ "player_moodUpRate": {
+  "ch": "心情上升倍率",
+  "en": "Mood Increase Rate",
+  "pt": ""
+ },
+ "player_mulinggen": {
+  "ch": "木灵根",
+  "en": "Wood",
+  "pt": ""
+ },
+ "player_nianli": {
+  "ch": "念力",
+  "en": "Focus",
+  "pt": ""
+ },
+ "player_nianlihuifu": {
+  "ch": "念力恢复",
+  "en": "Focus Recovery",
+  "pt": ""
+ },
+ "player_nianlishangxian": {
+  "ch": "念力上限",
+  "en": "Max Focus",
+  "pt": ""
+ },
+ "player_palmGrowRate": {
+  "ch": "掌法技能熟练度提升倍率",
+  "en": "Palm Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_qiangfa": {
+  "ch": "枪法",
+  "en": "Spear",
+  "pt": ""
+ },
+ "player_qiangfazizi": {
+  "ch": "枪法资质",
+  "en": "Spear",
+  "pt": ""
+ },
+ "player_quanfa": {
+  "ch": "拳法",
+  "en": "Fist",
+  "pt": ""
+ },
+ "player_quanfazizi": {
+  "ch": "拳法资质",
+  "en": "Fist",
+  "pt": ""
+ },
+ "player_quangognfa": {
+  "ch": "全功法资质",
+  "en": "All Martial Arts Stats ",
+  "pt": ""
+ },
+ "player_quanjiyi": {
+  "ch": "全技艺资质",
+  "en": "All Artisanship Stats ",
+  "pt": ""
+ },
+ "player_quanlinggen": {
+  "ch": "全灵根",
+  "en": "All Spiritual Roots ",
+  "pt": ""
+ },
+ "player_renyigongfa": {
+  "ch": "任意一项功法资质",
+  "en": "Any one Martial Arts Stat ",
+  "pt": ""
+ },
+ "player_renyilinggen": {
+  "ch": "任意一项灵根资质",
+  "en": "Any one Spiritual Root Stat ",
+  "pt": ""
+ },
+ "player_renyizhandou": {
+  "ch": "任意一项战斗资质",
+  "en": "Any one Skill Stat ",
+  "pt": ""
+ },
+ "player_schoolBuyDeclineRate": {
+  "ch": "宗门消耗贡献倍率",
+  "en": "Sect Cost Contribution Multiplier",
+  "pt": ""
+ },
+ "player_shanxiu": {
+  "ch": "散修",
+  "en": "Rogue Cultivator",
+  "pt": ""
+ },
+ "player_shuilinggen": {
+  "ch": "水灵根",
+  "en": "Water",
+  "pt": ""
+ },
+ "player_spearGrowRate": {
+  "ch": "枪法技能熟练度提升倍率",
+  "en": "Spear Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_stepGrowRate": {
+  "ch": "身法熟练度提升倍率",
+  "en": "Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_suoyouzhandouzizi": {
+  "ch": "全战斗资质",
+  "en": "All Skill Stats ",
+  "pt": ""
+ },
+ "player_swordGrowRate": {
+  "ch": "剑法技能熟练度提升倍率",
+  "en": "Sword Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_thunderGrowRate": {
+  "ch": "雷属性法技能熟练度提升倍率",
+  "en": "Lightning Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_tili": {
+  "ch": "体力",
+  "en": "Vitality",
+  "pt": ""
+ },
+ "player_tilihuifu": {
+  "ch": "体力恢复",
+  "en": "Vitality Recovery",
+  "pt": ""
+ },
+ "player_tilishangxian": {
+  "ch": "体力上限",
+  "en": "Max Vitality",
+  "pt": ""
+ },
+ "player_townBuyDeclineRate": {
+  "ch": "坊市购买消耗灵石倍率",
+  "en": "Spirit Stone Cost Rate in Market",
+  "pt": ""
+ },
+ "player_tulinggen": {
+  "ch": "土灵根",
+  "en": "Earth",
+  "pt": ""
+ },
+ "player_windGrowRate": {
+  "ch": "风属性法技能熟练度提升倍率",
+  "en": "Wind Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_wodebeibao": {
+  "ch": "我的背包",
+  "en": "Inventory",
+  "pt": ""
+ },
+ "player_woodGrowRate": {
+  "ch": "木属性法技能熟练度提升倍率",
+  "en": "Wood Skill Proficiency Increase Rate",
+  "pt": ""
+ },
+ "player_wumian": {
+  "ch": "功法抗性",
+  "en": "Martial RES",
+  "pt": ""
+ },
+ "player_wuxing": {
+  "ch": "悟性",
+  "en": "Insight",
+  "pt": ""
+ },
+ "player_xiantianqiyun": {
+  "ch": "先天气运",
+  "en": "Destiny (Nature)",
+  "pt": ""
+ },
+ "player_xingyun": {
+  "ch": "幸运",
+  "en": "Luck",
+  "pt": ""
+ },
+ "player_xinqing": {
+  "ch": "心情",
+  "en": "Mood",
+  "pt": ""
+ },
+ "player_xinqingshangxian": {
+  "ch": "心情上限",
+  "en": "Max Mood",
+  "pt": ""
+ },
+ "player_yaocai": {
+  "ch": "药材资质",
+  "en": "Herbology",
+  "pt": ""
+ },
+ "player_yidongsudu": {
+  "ch": "移动速度",
+  "en": "Agility",
+  "pt": ""
+ },
+ "player_yisu": {
+  "ch": "移速",
+  "en": "Agility",
+  "pt": ""
+ },
+ "player_zhandouzizi": {
+  "ch": "战斗资质",
+  "en": "Skill Stats",
+  "pt": ""
+ },
+ "player_zhangfa": {
+  "ch": "掌法",
+  "en": "Palm",
+  "pt": ""
+ },
+ "player_zhangfazizi": {
+  "ch": "掌法资质",
+  "en": "Palm",
+  "pt": ""
+ },
+ "player_zhengdaozhi": {
+  "ch": "正道值",
+  "en": "Righteous Points",
+  "pt": ""
+ },
+ "player_zhifa": {
+  "ch": "指法",
+  "en": "Finger",
+  "pt": ""
+ },
+ "player_zhifazizi": {
+  "ch": "指法资质",
+  "en": "Finger",
+  "pt": ""
+ },
+ "player_zuidigongfa": {
+  "ch": "最低一项功法资质",
+  "en": "Lowest Martial Arts Stat ",
+  "pt": ""
+ },
+ "player_zuidijiyi": {
+  "ch": "最低一项技艺资质",
+  "en": "Lowest Artisanship Stat ",
+  "pt": ""
+ },
+ "player_zuidilinggen": {
+  "ch": "最低一项灵根资质",
+  "en": "Lowest Spiritual Root Stat",
+  "pt": ""
+ },
+ "player_zuidizhandou": {
+  "ch": "最低一项战斗资质",
+  "en": "Lowest Skill Stat ",
+  "pt": ""
+ },
+ "player_zuigaogongfa": {
+  "ch": "最高一项功法资质",
+  "en": "Highest Martial Arts Stat ",
+  "pt": ""
+ },
+ "player_zuigaojiyi": {
+  "ch": "最高一项技艺资质",
+  "en": "Highest Artisanshipn Stat ",
+  "pt": ""
+ },
+ "player_zuigaolinggen": {
+  "ch": "最高一项灵根资质",
+  "en": "Highest Spiritual Root Stat ",
+  "pt": ""
+ },
+ "player_zuigaozhandou": {
+  "ch": "最高一项战斗资质",
+  "en": "Highest Skill Stat ",
+  "pt": ""
+ }
+}
