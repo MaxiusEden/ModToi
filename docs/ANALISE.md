@@ -152,7 +152,7 @@ Risco: títulos/textos estilizados que usam `cuti*`/`HYShangWeiShouShuW` podem m
 - [ ] Teste de fontes/acentos no jogo. Fonte dos botões da tela inicial: OK com ç/õ ("Configurações"). Falta testar títulos com `cuti*`/`HYShangWeiShouShuW`.
 - [ ] Mapear tabelas DLC (`DLC*` e `dlcCacheSimple`) e confirmar se o texto de DLC passa por `LocalText`.
 - [x] Protótipo da DLL: troca de `en` em `ConfLocalText` + log de chaves sem tradução. Testado em 2026-10-22 (seção 9.3).
-- [ ] Ferramenta de extração/validação de placeholders.
+- [x] Ferramenta de extração/validação de placeholders (seção 10). Falta fazer o mesmo para `RoleLogLocal`.
 
 ## 8. Ferramentas (`tools/re/`)
 
@@ -203,6 +203,8 @@ Os `HintPath` do `ModMain.csproj` usam `$(GameDir)`, com padrão `C:\Games\Tale 
 - variável de ambiente `GameDir`;
 - `<PropertyGroup><GameDir>…</GameDir></PropertyGroup>` em `ModMain.csproj.user` (fora do git). Funciona porque o MSBuild avalia todas as propriedades antes dos itens, então o valor do `.user`, importado depois, vale nos `HintPath`.
 
+Os 6 `HintPath` relativos (`dll\…`: DOTweenPro, hlapi, Grid/Terrain/VR/XR modules) apontam para DLLs que o editor não copia; hoje nenhuma é usada pelo código.
+
 ### 9.2 Compilador
 
 O MSBuild 4.0 que vem com o Windows (`C:\Windows\Microsoft.NET\Framework64\v4.0.30319`) **não serve**: o `csc` dele (C# 5, pré-Roslyn) falha com `CS0008 … 'Registro não localizado na pesquisa.'` ao ler qualquer DLL gerada pelo Unhollower (`UnityEngine.CoreModule.dll`, `UnityEngine.AccessibilityModule.dll`…). É preciso um compilador Roslyn, por exemplo o do VS Build Tools. Sem o targeting pack 4.7.2, o MSBuild só avisa (MSB3644) e usa os assemblies do .NET 4.8 instalado.
@@ -237,4 +239,30 @@ Resultado do teste (2026-10-22):
 - Risco de ordem de carga: mods de tradução como "Enhanced english translation" também mexem em `LocalText`. Se um deles carregar depois do nosso, pode sobrescrever o `en`. Isso ainda não foi verificado.
 - O `Latest.log` do MelonLoader 0.5.4 não é gravado em UTF-8 (acentos e chinês viram `?`/`�`). As mensagens do mod no log devem ser só ASCII.
 
-Os 6 `HintPath` relativos (`dll\…`: DOTweenPro, hlapi, Grid/Terrain/VR/XR modules) apontam para DLLs que o editor não copia; hoje nenhuma é usada pelo código.
+## 10. Pipeline de tradução (`tools/ptbr/ptbr.py`)
+
+Só usa a biblioteca padrão do Python. A pasta do jogo vem da variável `GAME_DIR` (padrão `C:\Games\Tale of Immortal`).
+
+| Comando | O que faz |
+|---|---|
+| `extract [--dump arquivo]` | Mescla o dump de runtime (`ModExportData/Mod_6b2SYs/ptbr_missing_LocalText.txt`) em `traducao/LocalText/*.json`. O `ch` vem do kit. Chaves já traduzidas não aparecem no dump; vêm do `LocalText.json` atual do mod, com o `en` do kit. Nunca apaga entradas nem `pt`. Se o `en` de uma entrada já traduzida mudou, marca `"revisar": true`. É idempotente. |
+| `validate [--report arquivo]` | Confere cada `pt` contra o `en` (ou contra o `ch`, quando o `en` está vazio). Grava `traducao/validacao.txt` e sai com código 1 se houver erro. |
+| `build` | Gera `ModAssets/ptbr/LocalText.json` só com traduções sem erro (avisos não bloqueiam). Não grava nada se não houver nenhuma tradução válida. |
+
+Formato de `traducao/LocalText/<categoria>.json`: `{ "<key>": { "ch": …, "en": …, "pt": "" } }`, com quebras de linha reais (`\n` no JSON). A categoria é o prefixo da chave sem os dígitos finais (regra do `prefix.py`). Categorias com menos de 100 chaves caem para o prefixo de letras e depois para `_diversos.json`; as chaves aleatórias de outros mods vão para `_outros_mods.json`. São 85 arquivos (10,7 MB); os maiores são `drama_dialogue` (2,8 MB) e `item_desc` (1,3 MB).
+
+Regras de validação, levantadas no dump de runtime:
+
+| Tipo | Padrão | Exemplos (contagem no dump) | Falha |
+|---|---|---|---|
+| Referência | `{…}` | `{0}` (2.417), `{#areaName1}`, `{itemLink6121036}`, `{name|A}` | erro |
+| Valor de skill | `&…&` (ASCII, pode ter `|`, `x`, `/`) | `&26113_dmg&`, `&22113_xzsh|x22113_dmg|/100|f0&` (1.893 distintos) | erro |
+| Ícone/termo | `$…$` | `$s_jian$`, `$s_quan$` (111 distintos) | erro |
+| Formato C | `%s`, `%d` | 1 ocorrência | erro |
+| Tags | `<…>` | `<g>`, `<r>`, `<o>`, `<y>`, `<b>`, `<rootN>`, `<size=N>`, `<color=#…>` | erro (o conjunto de tags tem de ser igual) |
+| Quebra de linha | `\n` | 7.571 em 1.944 entradas | aviso |
+| Chinês no `pt` | CJK | — | aviso |
+
+Os tokens são comparados como multiconjunto: a ordem pode mudar, mas a quantidade não. Em 45 entradas o `en` do jogo já tem tokens diferentes do `ch` (ex.: `item_desc6331002` perdeu `{#fortuitous_event_name…}`). O validador usa o `en` como referência.
+
+O `en` do dump é o que o jogador vê **com os mods ativos**. Em 2.990 chaves ele difere do kit porque "Enhanced english translation" e `Mod_Sky8ub` sobrescrevem o `LocalText` via `ModExcel`. Dumps feitos com outra lista de mods produzem um `en` diferente; o `extract` marca as traduções afetadas com `revisar`.

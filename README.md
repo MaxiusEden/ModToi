@@ -7,5 +7,6 @@ Mod de tradução completa para português brasileiro (textos em chinês e ingl�
 - `docs/TOI-mod-usage-management-guide.pdf` — guia de uso/gestão de mods (Cyfire, 2024).
 - `ModProject_6b2SYs/` — projeto de mod criado pelo editor do jogo (namespace `MOD_6b2SYs`). A raiz de projetos do editor deve apontar para este repositório (ver `docs/ANALISE.md`, seção 9).
 - `tools/re/` — scripts Python de engenharia reversa usados na análise.
+- `tools/ptbr/ptbr.py` — pipeline da tradução: `extract` (dump de runtime → `traducao/LocalText/`), `validate`, `build` (→ `ModAssets/ptbr/LocalText.json`). Ver `docs/ANALISE.md`, seção 10.
 
-O `.csproj` referencia as DLLs em `D:\Games\Tale of Immortal\MelonLoader`. Se o jogo estiver em outro caminho, troque esse caminho no `ModMain.csproj`.
+O `.csproj` procura as DLLs do jogo em `$(GameDir)`, cujo padrão é `C:\Games\Tale of Immortal`. Se o jogo estiver em outro caminho, defina `GameDir` (ver `docs/ANALISE.md`, seção 9.1).
