@@ -187,3 +187,13 @@ A pasta `ModProject_6b2SYs/` é o projeto de mod criado pelo editor do jogo (nam
 | Arquivos do mod em runtime | `g.mod.GetModPathRoot("<soleID>")` devolve a raiz exportada; os arquivos de `ModAssets/` ficam em `<raiz>/ModAssets/`. |
 
 Em outro PC: clonar, apontar a raiz do editor para o clone e, se o jogo estiver em outro lugar, definir `GameDir` no build.
+
+### 9.1 Pasta do jogo no build (`GameDir`)
+
+Os `HintPath` do `ModMain.csproj` usam `$(GameDir)`, com padrão `C:\Games\Tale of Immortal`. Para sobrescrever, use qualquer uma destas opções (todas conferidas com MSBuild `/v:diag`):
+
+- linha de comando: `msbuild ModMain.csproj /p:GameDir="D:\Games\Tale of Immortal"`;
+- variável de ambiente `GameDir`;
+- `<PropertyGroup><GameDir>…</GameDir></PropertyGroup>` em `ModMain.csproj.user` (fora do git). Funciona porque o MSBuild avalia todas as propriedades antes dos itens, então o valor do `.user`, importado depois, vale nos `HintPath`.
+
+Os 6 `HintPath` relativos (`dll\…`: DOTweenPro, hlapi, Grid/Terrain/VR/XR modules) apontam para DLLs que o editor não copia; hoje nenhuma é usada pelo código.
