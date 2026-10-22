@@ -156,7 +156,14 @@ Risco: títulos/textos estilizados que usam `cuti*`/`HYShangWeiShouShuW` podem m
 
 ## 8. Ferramentas (`tools/re/`)
 
-Scripts Python usados na análise (rodam com Python 3 + `UnityPy`, `pefile`, `capstone`, `pycryptodome`, `fonttools`):
+Scripts Python usados na análise. Dependências em `tools/re/requirements.txt` (versões fixas, todas com wheel para Python 3.14 no Windows). Instalação num venv na raiz (já ignorado pelo git):
+
+```
+py -3.14 -m venv venv
+venv\Scripts\python -m pip install -r tools\re\requirements.txt
+```
+
+O `capstone.__version__` informa 5.0.7 mesmo com o pacote 5.0.9 instalado (`importlib.metadata`); é só a string interna. `callers.py`, `disasm.py`, `eng.py` e `prefix.py` ainda têm a pasta do jogo fixa em `D:/Games/...`.
 
 | Script | Uso |
 |---|---|
