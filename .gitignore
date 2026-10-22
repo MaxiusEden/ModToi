@@ -1,0 +1,16 @@
+# Build outputs and IDE caches
+**/bin/
+**/obj/
+**/.vs/
+**/Logs/
+**/UserSettings/
+*.suo
+*.user
+
+# Game binaries copied by the mod editor (proprietary, regenerated from the game folder)
+ModProject_XaLtr3/ModProject/ModCode/ModMain/dll/
+
+# Python
+__pycache__/
+*.pyc
+venv/
