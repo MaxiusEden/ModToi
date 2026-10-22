@@ -170,4 +170,20 @@ Scripts Python usados na análise (rodam com Python 3 + `UnityPy`, `pefile`, `ca
 | `fonts.py`, `ua_list.py` | extração de fontes e inventário de assets |
 | `cachean.py`, `deskey.py`, `keyrecover.py` | análise dos `.cache` |
 
-A pasta `ModProject_XaLtr3/` é o projeto de mod criado pelo editor do jogo (namespace `MOD_XaLtr3`, .NET Framework 4.7.2).
+A pasta `ModProject_6b2SYs/` é o projeto de mod criado pelo editor do jogo (namespace `MOD_6b2SYs`, .NET Framework 4.7.2). Ver seção 9.
+
+## 9. Projeto do mod e editor do jogo
+
+| Item | Onde / como |
+|---|---|
+| Raiz dos projetos | PlayerPrefs `ModTool_modProjectRootPath` (`HKCU\Software\guigugame\guigubahuang`). Muda pelo botão "Change path" do editor (`UIModMainProject.UpdateRootPath`). Neste repositório a raiz é a própria pasta do repositório. |
+| Último projeto aberto | PlayerPrefs `ModProject_lastSelectProjectSoleID` |
+| Descoberta | O editor lista subpastas `ModProject_<soleID>` da raiz que tenham `ModProject/ModProject.cache`. O nome da pasta tem de bater com o `soleID`. |
+| `ModProject.cache` | JSON puro (`soleID`, `name`, `author`, `ver`, `excelEncrypt`…). |
+| `ModData.cache` | JSON puro com os dados das tabelas editadas no editor. |
+| `ModCode/` | Criado só quando a aba Code é aberta. Copia `Mod/modFQA/代码编写教程/ModMain`, troca `ModMain` por `MOD_<soleID>` em `RootNamespace`/`AssemblyName`, reescreve os `<HintPath>` com a pasta do jogo e copia `dll/Assembly-CSharp.dll`. O `obj/` que vem do modelo é lixo da máquina do desenvolvedor. |
+| Exportação | `<jogo>/ModExportData/Mod_<soleID>/`: `ModAssets/` (cópia literal), `ModExcel/` (cifrado se `excelEncrypt`), `ModCode/dll/MOD_<soleID>.dll` (vem de `ModCode/ModMain/bin/Release`) e `ModExportData.cache`. |
+| Carga | `ConfMgr.Init` → `ModMgr.LoadAllMod` → `LoadMod(<pasta>/ModExportData.cache)`. O namespace vem do `.cache`, não do nome da pasta (ex.: `Mod_InstantDialog` contém `MOD_KIolfL.dll`). |
+| Arquivos do mod em runtime | `g.mod.GetModPathRoot("<soleID>")` devolve a raiz exportada; os arquivos de `ModAssets/` ficam em `<raiz>/ModAssets/`. |
+
+Em outro PC: clonar, apontar a raiz do editor para o clone e, se o jogo estiver em outro lugar, definir `GameDir` no build.

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using UnhollowerRuntimeLib;
 using UnityEngine;
 
-namespace MOD_XaLtr3
+namespace MOD_6b2SYs
 {
     /// <summary>
     /// 部分常用API接口，和简单的例子
