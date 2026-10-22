@@ -149,9 +149,9 @@ Risco: títulos/textos estilizados que usam `cuti*`/`HYShangWeiShouShuW` podem m
 ## 7. Pendências
 
 - [ ] Chaves de `EncryptMult` (cache e mods).
-- [ ] Teste de fontes/acentos no jogo.
+- [ ] Teste de fontes/acentos no jogo. Fonte dos botões da tela inicial: OK com ç/õ ("Configurações"). Falta testar títulos com `cuti*`/`HYShangWeiShouShuW`.
 - [ ] Mapear tabelas DLC (`DLC*` e `dlcCacheSimple`) e confirmar se o texto de DLC passa por `LocalText`.
-- [ ] Protótipo da DLL: troca de `en` em `ConfLocalText` + log de chaves sem tradução. Implementado (seção 9.3), ainda não testado no jogo.
+- [x] Protótipo da DLL: troca de `en` em `ConfLocalText` + log de chaves sem tradução. Testado em 2026-10-22 (seção 9.3).
 - [ ] Ferramenta de extração/validação de placeholders.
 
 ## 8. Ferramentas (`tools/re/`)
@@ -226,6 +226,15 @@ Build (gera `ModCode/ModMain/bin/Release/MOD_6b2SYs.dll`, que o editor copia na 
 - Efeito: troca `item.en`, então só aparece com o jogo em inglês.
 - Saída: `<raiz do mod>/ptbr_missing_LocalText.txt` (`key<TAB>en`, com `\n` e `\t` escapados) e uma linha `[PtBr] LocalText: …` no `MelonLoader/Latest.log`.
 - Chaves de teste (tela inicial): `login_jinruhuijuan` (Enter World), `login_shezhi` (Settings) e `login_tuichuhuijuan` (Quit). "Configurações" também testa ç/õ na fonte do menu.
-- Teste: compilar em Release, exportar pelo editor, ativar o mod, jogo em inglês, reiniciar o jogo.
+- Teste: compilar em Release, exportar pelo editor e ativar o mod, com o jogo em inglês.
+
+Resultado do teste (2026-10-22):
+
+- Os 3 botões apareceram em PT-BR, e "Configurações" renderizou ç/õ na fonte da tela inicial.
+- Não é preciso reiniciar o jogo. Ao ativar o mod e voltar ao menu, o jogo recarrega os mods (`ModMgr.LoadAllMod` de novo) e chama o `Init`. A config já estava carregada e a tela inicial foi remontada com o texto novo.
+- O log registrou `3 traduzidas, 55312 sem traducao, 0 chaves do JSON inexistentes`. O arquivo de faltantes tem 55.312 linhas (5,3 MB), sem chaves repetidas, e 399 delas estão com `en` vazio.
+- O `LocalText` em runtime tem 55.315 chaves: as 54.991 do kit, menos 11 que não existem no jogo, mais 335 que não estão no kit. Parte dessas 335 tem IDs aleatórios de 8 caracteres (ex.: `0D3jDfdR`) e parece vir de outros mods ativos que injetam linhas pelo `ModExcel`. O restante tem prefixos normais (`role*`, `item*`, `startGameTipDesc*`, `task*`). A tradução precisa partir do dump de runtime, não só do kit.
+- Risco de ordem de carga: mods de tradução como "Enhanced english translation" também mexem em `LocalText`. Se um deles carregar depois do nosso, pode sobrescrever o `en`. Isso ainda não foi verificado.
+- O `Latest.log` do MelonLoader 0.5.4 não é gravado em UTF-8 (acentos e chinês viram `?`/`�`). As mensagens do mod no log devem ser só ASCII.
 
 Os 6 `HintPath` relativos (`dll\…`: DOTweenPro, hlapi, Grid/Terrain/VR/XR modules) apontam para DLLs que o editor não copia; hoje nenhuma é usada pelo código.

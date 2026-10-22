@@ -55,7 +55,8 @@ namespace MOD_6b2SYs
             }
 
             File.WriteAllText(Path.Combine(root, "ptbr_missing_LocalText.txt"), missing.ToString(), new UTF8Encoding(false));
-            MelonLogger.Msg(string.Format("[PtBr] LocalText: {0} traduzidas, {1} sem tradução, {2} chaves do JSON inexistentes no jogo ({3})",
+            // Só ASCII: o Latest.log do MelonLoader 0.5.4 não é gravado em UTF-8 e estraga acentos.
+            MelonLogger.Msg(string.Format("[PtBr] LocalText: {0} traduzidas, {1} sem traducao, {2} chaves do JSON inexistentes no jogo ({3})",
                 used.Count, total - used.Count, pt.Count - used.Count, path));
             return true;
         }
