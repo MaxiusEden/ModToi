@@ -207,4 +207,16 @@ Os `HintPath` do `ModMain.csproj` usam `$(GameDir)`, com padrão `C:\Games\Tale 
 
 O MSBuild 4.0 que vem com o Windows (`C:\Windows\Microsoft.NET\Framework64\v4.0.30319`) **não serve**: o `csc` dele (C# 5, pré-Roslyn) falha com `CS0008 … 'Registro não localizado na pesquisa.'` ao ler qualquer DLL gerada pelo Unhollower (`UnityEngine.CoreModule.dll`, `UnityEngine.AccessibilityModule.dll`…). É preciso um compilador Roslyn, por exemplo o do VS Build Tools. Sem o targeting pack 4.7.2, o MSBuild só avisa (MSB3644) e usa os assemblies do .NET 4.8 instalado.
 
+Instalação usada (VS Build Tools 2022 17.14, workload MSBuild e targeting pack 4.7.2). Chame `winget.exe` com a extensão: neste PC há um arquivo vazio `C:\WINDOWS\system32\winget` que faz o `winget` sem extensão falhar.
+
+```
+winget.exe install --id Microsoft.VisualStudio.2022.BuildTools --source winget --override "--quiet --wait --norestart --add Microsoft.VisualStudio.Workload.MSBuildTools --add Microsoft.Net.Component.4.7.2.TargetingPack"
+```
+
+Build (gera `ModCode/ModMain/bin/Release/MOD_6b2SYs.dll`, que o editor copia na exportação):
+
+```
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild.exe" ModMain.csproj -t:Rebuild -p:Configuration=Release
+```
+
 Os 6 `HintPath` relativos (`dll\…`: DOTweenPro, hlapi, Grid/Terrain/VR/XR modules) apontam para DLLs que o editor não copia; hoje nenhuma é usada pelo código.
