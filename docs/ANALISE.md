@@ -151,7 +151,7 @@ Risco: títulos/textos estilizados que usam `cuti*`/`HYShangWeiShouShuW` podem m
 - [ ] Chaves de `EncryptMult` (cache e mods).
 - [ ] Teste de fontes/acentos no jogo.
 - [ ] Mapear tabelas DLC (`DLC*` e `dlcCacheSimple`) e confirmar se o texto de DLC passa por `LocalText`.
-- [ ] Protótipo da DLL: troca de `en` em `ConfLocalText` + log de chaves sem tradução.
+- [ ] Protótipo da DLL: troca de `en` em `ConfLocalText` + log de chaves sem tradução. Implementado (seção 9.3), ainda não testado no jogo.
 - [ ] Ferramenta de extração/validação de placeholders.
 
 ## 8. Ferramentas (`tools/re/`)
@@ -218,5 +218,14 @@ Build (gera `ModCode/ModMain/bin/Release/MOD_6b2SYs.dll`, que o editor copia na 
 ```
 "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild.exe" ModMain.csproj -t:Rebuild -p:Configuration=Release
 ```
+
+### 9.3 Protótipo de tradução de LocalText
+
+- Código: `ModCode/ModMain/PtBr/LocalTextPtBr.cs`, chamado em `ModMain.Init`. Se `g.conf.localText.allConfList` ainda estiver vazio, tenta de novo a cada frame em `OnUpdate`, uma vez por `Init`.
+- Entrada: `<raiz do mod>/ModAssets/ptbr/LocalText.json`, no formato `{ "key": "texto" }`, em UTF-8. A raiz vem de `g.mod.GetModPathRoot("6b2SYs")`. A leitura usa o `Newtonsoft.Json` do MelonLoader, que já é carregado em runtime (o mod InstantDialog, `MOD_KIolfL`, faz igual: `GetModPathRoot` + `ModAssets` + `JsonConvert`).
+- Efeito: troca `item.en`, então só aparece com o jogo em inglês.
+- Saída: `<raiz do mod>/ptbr_missing_LocalText.txt` (`key<TAB>en`, com `\n` e `\t` escapados) e uma linha `[PtBr] LocalText: …` no `MelonLoader/Latest.log`.
+- Chaves de teste (tela inicial): `login_jinruhuijuan` (Enter World), `login_shezhi` (Settings) e `login_tuichuhuijuan` (Quit). "Configurações" também testa ç/õ na fonte do menu.
+- Teste: compilar em Release, exportar pelo editor, ativar o mod, jogo em inglês, reiniciar o jogo.
 
 Os 6 `HintPath` relativos (`dll\…`: DOTweenPro, hlapi, Grid/Terrain/VR/XR modules) apontam para DLLs que o editor não copia; hoje nenhuma é usada pelo código.

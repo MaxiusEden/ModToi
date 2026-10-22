@@ -34,6 +34,7 @@
   <ItemGroup>
     <Compile Include="Example\Example.cs" />
     <Compile Include="ModMain.cs" />
+    <Compile Include="PtBr\LocalTextPtBr.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -14,6 +14,7 @@ namespace MOD_6b2SYs
     {
         private TimerCoroutine corUpdate;
 		private static HarmonyLib.Harmony harmony;
+        private bool ptBrApplied;
 
         /// <summary>
         /// MOD初始化，进入游戏时会调用此函数
@@ -33,7 +34,23 @@ namespace MOD_6b2SYs
 			}
 			harmony.PatchAll(Assembly.GetExecutingAssembly());
 
+            ptBrApplied = false;
+            TryApplyPtBr();
             corUpdate = g.timer.Frame(new Action(OnUpdate), 1, true);
+        }
+
+        private void TryApplyPtBr()
+        {
+            try
+            {
+                ptBrApplied = LocalTextPtBr.TryApply();
+            }
+            catch (Exception e)
+            {
+                // Marca como aplicado para não repetir a exceção a cada frame.
+                ptBrApplied = true;
+                MelonLoader.MelonLogger.Error("[PtBr] " + e);
+            }
         }
 
         /// <summary>
@@ -49,7 +66,10 @@ namespace MOD_6b2SYs
         /// </summary>
         private void OnUpdate()
         {
-
+            if (!ptBrApplied)
+            {
+                TryApplyPtBr();
+            }
         }
     }
 }
