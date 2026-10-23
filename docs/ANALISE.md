@@ -265,4 +265,12 @@ Regras de validação, levantadas no dump de runtime:
 
 Os tokens são comparados como multiconjunto: a ordem pode mudar, mas a quantidade não. Em 45 entradas o `en` do jogo já tem tokens diferentes do `ch` (ex.: `item_desc6331002` perdeu `{#fortuitous_event_name…}`). O validador usa o `en` como referência.
 
+**Candidatos ao glossário** (`tools/ptbr/glossario_candidatos.py` → `glossario/candidatos.tsv`, colunas `termo, frequencia, ch, tipo, categoria, fonte, exemplo1, exemplo2`). A frequência é o número de entradas cujo `en` contém o termo. O script junta três fontes:
+
+- **N-gramas capitalizados do `en`**, de 1 a 5 palavras, com `of`/`the`/`and` permitidos no meio. Fica de fora a primeira palavra de cada frase e uma lista de palavras comuns, e só entram termos com frequência ≥ 5.
+- **Nomes das tabelas do kit**, que apontam para chaves de `LocalText`. Elas definem o tipo do termo: `RoleGrade`/`DLCUnitGrade` (reino), `SchoolName` (seita), `ItemType` (tipo de item), `BattleEffect`/`SkillEffectDesc` (efeito), `AppellationTitle` (título), `RoleCreateFeature` (destino/traço), `BattleSkillAttack`/`PassiveMethod`/`GodEyeSkills` (técnica) e `TownName` (lugar).
+- **Uma lista-semente** de tratamentos e conceitos de cultivo, contada sem diferenciar maiúscula, porque no `en` eles aparecem em minúscula ("my friend", "old man", "spirit stones").
+
+O `ch` mostra até 3 variantes, vindas dos nomes exatos e das tabelas. Nomes de seita e de cidade são compostos de sílabas em pinyin (`You`, `An`, `Feng`, `Qi`…), por isso termos de uma palavra só contam quando aparecem com maiúscula fora do início de frase. Resultado: 6.251 candidatos, 3.113 com `ch`.
+
 **Fonte do `en`** (decisão de 2026-10-22): o `en` do kit oficial é a fonte padrão. O `en` do dump só vale para as 335 chaves que não existem no kit e para as 146 em que o kit tem `en` vazio. O dump reflete o inglês **com os mods ativos**: em 2.990 chaves ele difere do kit porque "Enhanced english translation" e `Mod_Sky8ub` sobrescrevem o `LocalText` via `ModExcel`. Usar o kit deixa a fonte independente da lista de mods de cada PC. Ao aplicar essa regra, 2.844 entradas trocaram de `en` (nenhuma tinha `pt`).
