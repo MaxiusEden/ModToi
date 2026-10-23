@@ -252,7 +252,22 @@ Só usa a biblioteca padrão do Python. A pasta do jogo vem da variável `GAME_D
 
 O `build` exclui as entradas com `omni ok=false` em `revisar` até alguém revisar e apagar o motivo.
 
-O campo `revisar` de uma entrada é uma **lista de motivos**: `en mudou depois da tradução` (posto pelo `extract`), `glossário: …` (pelo `validate`) e `omni ok=false` (pelo `merge`). Quem revisa apaga o campo. Avisos não bloqueiam o `build`.
+O campo `revisar` de uma entrada é uma **lista de motivos**: `en mudou depois da tradução` (posto pelo `extract`), `glossário: …` (pelo `validate`) e `omni ok=false` (pelo `merge`). Quem revisa apaga o campo. Avisos não bloqueiam o `build`. Outros campos: `auto` guarda o modelo que traduziu, e `revisado: true` indica que uma pessoa conferiu ou corrigiu uma tradução automática.
+
+### 10.1 Tradução automática (`omni_translate`)
+
+As saídas brutas ficam em `traducao/auto/<arquivo>.<modelo>.json` (fora do git) e entram em `traducao/` pelo `merge`.
+
+Piloto de 2026-10-23 com `common` (100 entradas) e `ui` (510):
+
+- **Resultado:** 520 traduzidas, todas `ok=true`, sem marcadores divergentes. Por modelo: `gemini-3-flash-preview` fez 235 e `gemini-2.5-flash` (a reserva) fez 285. Ficaram 90 de `ui` pendentes porque os dois modelos entraram em espera (429).
+- **Resposta cortada:** o Gemini 3 raciocina antes de responder e gasta o `max_tokens`. Com lotes de 30 e 6.000 tokens, as respostas vinham cortadas ("Unterminated string"); **lotes de 15 com `max_tokens=12000`** resolveram.
+- **Limite gratuito:** os dois Gemini entram em espera (429 "cooling down", ~20–25 min) depois de algumas centenas de entradas. Para continuar com a reserva, use **o mesmo arquivo de saída**: a ponte pula o que já está nele, e cada entrada registra o próprio modelo.
+- **HTTP 401** em todos os Gemini = credencial OAuth do provedor expirada no OmniRoute; é preciso reautenticar.
+- **Revisão:** todas as `ok=false` (nenhuma), os 9 avisos e 30 `ok=true` por amostra.
+  - Os 7 avisos de glossário eram falsos positivos de singular/plural; o validador foi corrigido.
+  - 3 traduções precisaram de ajuste manual: "LMB" virou "botão esquerdo do mouse", saiu um "Por favor" que o inglês não tem, e "comissioná-lo" foi reescrito.
+  - Os nomes de idioma (简体中文/繁体中文) ficam em chinês de propósito.
 | `build` | Gera `ModAssets/ptbr/LocalText.json` só com traduções sem erro (avisos não bloqueiam). Não grava nada se não houver nenhuma tradução válida. |
 
 Formato de `traducao/LocalText/<categoria>.json`: `{ "<key>": { "ch": …, "en": …, "pt": "" } }`, com quebras de linha reais (`\n` no JSON). A categoria é o prefixo da chave sem os dígitos finais (regra do `prefix.py`). Categorias com menos de 100 chaves caem para o prefixo de letras e depois para `_diversos.json`; as chaves aleatórias de outros mods vão para `_outros_mods.json`. São 85 arquivos (10,7 MB); os maiores são `drama_dialogue` (2,8 MB) e `item_desc` (1,3 MB).
