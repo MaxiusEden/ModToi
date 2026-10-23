@@ -7579,21 +7579,23 @@
  "defaultKeysKeyText_104": {
   "ch": "武技/灵技",
   "en": "Martial/Spiritual Skill",
-  "pt": "Técnica Marcial/Espiritual",
+  "pt": "Marcial/Espir.",
   "auto": "gemini-3-flash-preview",
   "revisado": true
  },
  "defaultKeysKeyText_105": {
   "ch": "绝技",
   "en": "Special Skill",
-  "pt": "Técnica Especial",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Téc. Especial",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_106": {
   "ch": "身法",
   "en": "Motion Skill",
-  "pt": "Técnica de Movimento",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Movimento",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_107": {
   "ch": "神通",
@@ -7646,15 +7648,16 @@
  "defaultKeysKeyText_115": {
   "ch": "释放神器技能",
   "en": "Cast Artifact Skill",
-  "pt": "Usar Habil. de Artefato",
+  "pt": "Usar Artefato",
   "auto": "gemini-3-flash-preview",
   "revisado": true
  },
  "defaultKeysKeyText_116": {
   "ch": "释放仙法",
   "en": "Cast Heavenly Art",
-  "pt": "Lançar Arte Imortal",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Arte Imortal",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_117": {
   "ch": "自动锁定怪物",
@@ -7740,8 +7743,9 @@
  "defaultKeysKeyText_213": {
   "ch": "逆天改命",
   "en": "Rewrite Destiny",
-  "pt": "Reescrever o Destino",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Mudar Destino",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_214": {
   "ch": "神器",
@@ -16067,7 +16071,8 @@
  "login_jinruhuijuan": {
   "ch": "进入八荒",
   "en": "Enter World",
-  "pt": "Entrar no Mundo"
+  "pt": "Entrar",
+  "revisado": true
  },
  "login_nandudengji": {
   "ch": "难度等级",
@@ -19284,8 +19289,9 @@
  "playerInfo_jinengtishi1": {
   "ch": "注：拖动心法图标进行装备；有些心法需要较高的道点",
   "en": "Note: Drag the icon of a Mind Skill to equip it. Some Mind Skills require high Skill Points.",
-  "pt": "Nota: Arraste o ícone de uma Técnica Mental para equipá-la. Algumas Técnicas Mentais exigem altos Pontos de Habilidade.",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Nota: Arraste uma Técnica Mental para equipá-la. Algumas exigem muitos Pontos de Habil.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_jinengtishi2": {
   "ch": "注：此处装备武学可用于战斗",
@@ -19449,8 +19455,9 @@
  "playerInfo_qiling": {
   "ch": "器灵",
   "en": "Artifact Spirit",
-  "pt": "Espírito do Artefato",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Espírito",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_qita": {
   "ch": "其他",
@@ -19558,8 +19565,9 @@
  "playerInfo_xinde": {
   "ch": "心得",
   "en": "Knowledge",
-  "pt": "Conhecimento",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Saber",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_xindeshangxian": {
   "ch": "已达上限",
@@ -19618,8 +19626,9 @@
  "playerInfo_zhandoudaoju": {
   "ch": "战斗道具",
   "en": "Combat Item",
-  "pt": "Item de Combate",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Combate",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_zhandoushuxing": {
   "ch": "战斗属性",
@@ -19630,8 +19639,9 @@
  "playerInfo_zhandouzizhi": {
   "ch": "功法资质",
   "en": "Martial Arts",
-  "pt": "Artes Marciais",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Armas",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_zhangfa": {
   "ch": "掌法",
@@ -19666,14 +19676,16 @@
  "playerInfo_zhuanhuan": {
   "ch": "转换",
   "en": "Convert",
-  "pt": "Converter",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Trocar",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_zuoqi": {
   "ch": "坐骑",
   "en": "Mount",
-  "pt": "Montaria",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Corcel",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerLoseSoulDevourSword": {
   "ch": "噬魂剑流落八荒",

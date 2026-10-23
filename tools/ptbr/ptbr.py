@@ -243,13 +243,14 @@ def glossary_misses(entry, key=None):
         text = entry.get(source, '')
         covered = [m.span() for rx in names for m in rx.finditer(text)]
         for term, pt_rx, rx, is_ch, required, tr in obligatory_terms():
-            if is_ch != (source == 'ch') or term in ignored:
+            if is_ch != (source == 'ch'):
                 continue
             for m in rx.finditer(text):
                 if any(m.start() < e and s < m.end() for s, e in covered):
                     continue
                 covered.append((m.start(), m.end()))
-                if required and not any(r.search(pt) for r in pt_rx):
+                # Termo excetuado na chave continua cobrindo o trecho (os termos menores dentro dele não são cobrados).
+                if required and term not in ignored and not any(r.search(pt) for r in pt_rx):
                     misses.append(f'{term} → {tr}')
     return sorted(set(misses))
 
@@ -287,6 +288,9 @@ def width_limit(key, en):
         _limits = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
     if key in _limits:
         return _limits[key]
+    for pattern, limit in _limits.items():
+        if pattern.endswith('*') and key and key.startswith(pattern[:-1]):
+            return limit
     en = TAG_RE.sub('', en).strip()
     if not en or '\n' in en or len(en) > SHORT_UI or CJK_RE.search(en):
         return None

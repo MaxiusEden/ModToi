@@ -662,15 +662,16 @@
  "ui_godEye_skillCD": {
   "ch": "技能冷却：<color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}秒</color>",
   "en": "Skill Cooldown: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}s</color>",
-  "pt": "Recarga de Habil.: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}s</color>",
+  "pt": "Recarga: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}s</color>",
   "auto": "gemini-2.5-flash",
   "revisado": true
  },
  "ui_godEye_skillCons": {
   "ch": "施法消耗：<color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=lingli><size=100%></voffset><space=0.3em>{0}灵力</color>",
   "en": "Casting Cost: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=lingli><size=100%></voffset><space=0.3em>{0} Energy</color>",
-  "pt": "Custo de Conjuração: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=lingli><size=100%></voffset><space=0.3em>{0} Energia</color>",
-  "auto": "gemini-2.5-flash"
+  "pt": "Custo: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=lingli><size=100%></voffset><space=0.3em>{0} Energia</color>",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_godEye_skillDesc": {
   "ch": "当在战斗中陷入危难之时（濒死状态），昊天眼将触发天道的庇佑，帮助你脱离危险。",
@@ -700,8 +701,9 @@
  "ui_godEye_title4": {
   "ch": "（当领悟妖兽技能可装配为自己所用）",
   "en": "(You can equip a mastered beast skill to use it)",
-  "pt": "(Você pode equipar uma habilidade de fera dominada para usá-la)",
-  "auto": "gemini-2.5-flash"
+  "pt": "(Equipe uma habil. de fera dominada)",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_godEye_weizhuangbei": {
   "ch": "技能未装配",
@@ -2055,8 +2057,9 @@
  "ui_setting_qilingyuyin": {
   "ch": "器灵语音",
   "en": "Artifact Spirit Voice",
-  "pt": "Voz do Espírito do Artefato",
-  "auto": "gemini-2.5-flash"
+  "pt": "Voz do Espírito",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_shengji": {
   "ch": "升级",
