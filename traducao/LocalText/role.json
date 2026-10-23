@@ -96,7 +96,7 @@
  },
  "role_attribute_desc_beauty": {
   "ch": "魅力影响NPC对你的态度。",
-  "en": "Charm influences the overall perception NPCs have of you, shaping their attitudes and behaviors towards you",
+  "en": "Charisma affects NPCs' attitudes toward you.",
   "pt": ""
  },
  "role_attribute_desc_crit": {
@@ -186,7 +186,7 @@
  },
  "role_attribute_desc_reputation": {
   "ch": "声望影响NPC对你的态度。",
-  "en": "Reputation influences the overall perception NPCs have of you, shaping their attitudes and behaviors towards you",
+  "en": "Reputation affects NPCs' attitudes toward you.",
   "pt": ""
  },
  "role_attribute_desc_soulPoint": {
@@ -201,12 +201,12 @@
  },
  "role_attribute_desc_standDown": {
   "ch": "影响魔道势力对角色的态度。",
-  "en": "This influences how the Demonic Path perceives and interacts with you",
+  "en": "Affects demonic clans' attitudes toward you.",
   "pt": ""
  },
  "role_attribute_desc_standUp": {
   "ch": "影响正道势力对角色的态度。",
-  "en": "This influences how the Righteous Path perceives and interacts with you",
+  "en": "Affects righteous clans' attitudes toward you.",
   "pt": ""
  },
  "role_attribute_desc_talent": {
@@ -256,17 +256,17 @@
  },
  "role_beauty_name5": {
   "ch": "出众",
-  "en": "Ordinary",
+  "en": "Pretty",
   "pt": ""
  },
  "role_beauty_name6": {
   "ch": "超凡",
-  "en": "<color=#00BB00>Good-looking</color>",
+  "en": "Beautiful",
   "pt": ""
  },
  "role_beauty_name7": {
   "ch": "仙姿",
-  "en": "<color=#00BB00>Pretty</color>",
+  "en": "Divine",
   "pt": ""
  },
  "role_beauty_name8": {
@@ -281,102 +281,102 @@
  },
  "role_character_desc1": {
   "ch": "为人大公无私，对朋友与宗门格外关注。",
-  "en": "Selfless and caring, especially towards friends and sect.",
+  "en": "Selfless. Cares about friends and sect members.",
   "pt": ""
  },
  "role_character_desc10": {
   "ch": "对子女、徒弟比较偏爱。",
-  "en": "Favors children and disciples.",
+  "en": "Protective of children and apprentices",
   "pt": ""
  },
  "role_character_desc11": {
   "ch": "重视独立，不愿合群，重视自我利益。",
-  "en": "Values independence, unwilling to conform and prioritizes self-interest.",
+  "en": "Independent lone wolf that values self interests",
   "pt": ""
  },
  "role_character_desc12": {
   "ch": "爱护家庭，对父母子女，兄弟姐妹，配偶特别重视。",
-  "en": "Cares for family, especially parents, children, siblings, and spouse.",
+  "en": "Always puts family members first",
   "pt": ""
  },
  "role_character_desc13": {
   "ch": "爱好名声，偏向正道。",
-  "en": "Values reputation and leans towards the Righteous Path.",
+  "en": "Values fame. Righteous tendencies.",
   "pt": ""
  },
  "role_character_desc14": {
   "ch": "重视权力，对自我，宗门比较关注，偏向魔道。",
-  "en": "Values power, prioritizes self and sect, leans towards the Demonic Path.",
+  "en": "Values power. Focuses on self-interests and own clan. Demonic tendencies.",
   "pt": ""
  },
  "role_character_desc15": {
   "ch": "睚眦必报，重视自已，仇恨敌人。",
-  "en": "Seeks revenge, focuses on self and harbors hatred towards enemies.",
+  "en": "Seeks revenge for the smallest grievance. Puts self-interests first. Hates enemies.",
   "pt": ""
  },
  "role_character_desc16": {
   "ch": "为人任性不羁，在兴趣上会花更多时间。",
-  "en": "Willful and unrestrained, spends more time on personal interests.",
+  "en": "Carefree. Willing to spend more time and effort on hobbies.",
   "pt": ""
  },
  "role_character_desc17": {
   "ch": "天生情种，永远在追求爱情的路上。",
-  "en": "Naturally inclined towards love and constantly pursues it.",
+  "en": "Natural romantic, always looking for love",
   "pt": ""
  },
  "role_character_desc18": {
   "ch": "重视传承，尊师重教。",
-  "en": "Values inheritance and respects teachers and teachings.",
+  "en": "Values tradition. Respects elders and people of authority.",
   "pt": ""
  },
  "role_character_desc19": {
   "ch": "对夫妻之情忠贞不渝。",
-  "en": "Loyal and unwavering in spousal love.",
+  "en": "Faithful to spouse",
   "pt": ""
  },
  "role_character_desc2": {
   "ch": "为人正直，对朋友与宗门比较关注，对仇人分外憎恨。",
-  "en": "Honest and caring towards friends and sects, with a strong hatred towards enemies.",
+  "en": "A person of integrity. Loves friends and sect members. Hates enemies.",
   "pt": ""
  },
  "role_character_desc3": {
   "ch": "为人仁善，对其它人都比较友好。",
-  "en": "Kind and benevolent, friendly towards others.",
+  "en": "Kind to most people",
   "pt": ""
  },
  "role_character_desc4": {
   "ch": "为人中庸，对所有人都是一样的。",
-  "en": "Moderate and fair, treats everyone the same.",
+  "en": "Adherent of the Middle Way",
   "pt": ""
  },
  "role_character_desc5": {
   "ch": "为人狂妄邪门，行事风格诡异。",
-  "en": "Arrogant and mysterious in behavior.",
+  "en": "Wicked and eccentric",
   "pt": ""
  },
  "role_character_desc6": {
   "ch": "以利已为最大出发点，对仇人不愿宽容。",
-  "en": "Self-interest is the top priority, unwilling to forgive enemies.",
+  "en": "Focuses on self-interests. Shows no mercy toward enemies.",
   "pt": ""
  },
  "role_character_desc7": {
   "ch": "邪恶，唯已所欲，从来不管其它人的感受。",
-  "en": "Evil, only pursuing own desires, disregards others' feelings.",
+  "en": "Evil and egoistic with no regard to the feelings of others",
   "pt": ""
  },
  "role_character_desc8": {
   "ch": "重视天伦之乐，爱父母、子女、师父、徒弟。",
-  "en": "Values family bonds, loves parents, children, master, and disciples.",
+  "en": "Values family members and masters/apprentices",
   "pt": ""
  },
  "role_character_desc9": {
   "ch": "重视义气，为朋友两肋插刀，维护宗门。",
-  "en": "Values loyalty and friendship, willing to sacrifice for friends and Defenseend the sect.",
+  "en": "Loyal to friends and sect members",
   "pt": ""
  },
  "role_character_name1": {
   "ch": "无私",
-  "en": "Altruistic",
+  "en": "Selfless",
   "pt": ""
  },
  "role_character_name10": {
@@ -411,7 +411,7 @@
  },
  "role_character_name16": {
   "ch": "任我",
-  "en": "Unrestricted",
+  "en": "Carefree",
   "pt": ""
  },
  "role_character_name17": {
@@ -421,22 +421,22 @@
  },
  "role_character_name18": {
   "ch": "传承",
-  "en": "Traditionalist ",
+  "en": "Traditional",
   "pt": ""
  },
  "role_character_name19": {
   "ch": "忠贞",
-  "en": "Devoted",
+  "en": "Faithful",
   "pt": ""
  },
  "role_character_name2": {
   "ch": "正直",
-  "en": "Steadfast",
+  "en": "Upstanding",
   "pt": ""
  },
  "role_character_name3": {
   "ch": "仁善",
-  "en": "Gentle",
+  "en": "Kind",
   "pt": ""
  },
  "role_character_name4": {
@@ -466,7 +466,7 @@
  },
  "role_character_name9": {
   "ch": "义气",
-  "en": "Loyal",
+  "en": "Loyal to friends",
   "pt": ""
  },
  "role_grade_Desc12": {
@@ -721,7 +721,7 @@
  },
  "role_grade_grow_quality30": {
   "ch": "结晶",
-  "en": "Condensation",
+  "en": "Qi Condensation (III)",
   "pt": ""
  },
  "role_grade_grow_quality41": {
@@ -751,7 +751,7 @@
  },
  "role_grade_grow_quality50": {
   "ch": "具灵",
-  "en": "Origin Spirit",
+  "en": "Origin Spirit (V)",
   "pt": ""
  },
  "role_grade_grow_quality61": {
@@ -771,82 +771,82 @@
  },
  "role_grade_grow_quality70": {
   "ch": "化神",
-  "en": "Soul Formation",
+  "en": "Soul Formation (VII)",
   "pt": ""
  },
  "role_grade_grow_quality82": {
   "ch": "悟道",
-  "en": "Enlightenment",
+  "en": "Enlightenment (VIII)",
   "pt": ""
  },
  "role_grade_grow_quality83": {
   "ch": "悟道",
-  "en": "Enlightenment",
+  "en": "Enlightenment (VIII)",
   "pt": ""
  },
  "role_grade_grow_quality84": {
   "ch": "悟道",
-  "en": "Enlightenment",
+  "en": "Enlightenment (VIII)",
   "pt": ""
  },
  "role_grade_grow_quality85": {
   "ch": "悟道",
-  "en": "Enlightenment",
+  "en": "Enlightenment (VIII)",
   "pt": ""
  },
  "role_grade_grow_quality90": {
   "ch": "羽化",
-  "en": "Reborn",
+  "en": "Reborn (IX)",
   "pt": ""
  },
  "role_grade_name1": {
   "ch": "炼气",
-  "en": "Qi Refining",
+  "en": "Qi Refining (I)",
   "pt": ""
  },
  "role_grade_name10": {
   "ch": "登仙",
-  "en": "Transcendent",
+  "en": "Transcendent (X)",
   "pt": ""
  },
  "role_grade_name2": {
   "ch": "筑基",
-  "en": "Foundation",
+  "en": "Foundation (II)",
   "pt": ""
  },
  "role_grade_name3": {
   "ch": "结晶",
-  "en": "Condensation",
+  "en": "Qi Condensation (III)",
   "pt": ""
  },
  "role_grade_name4": {
   "ch": "金丹",
-  "en": "Golden Core",
+  "en": "Golden Core (IV)",
   "pt": ""
  },
  "role_grade_name5": {
   "ch": "具灵",
-  "en": "Origin Spirit",
+  "en": "Origin Spirit (V)",
   "pt": ""
  },
  "role_grade_name6": {
   "ch": "元婴",
-  "en": "Nascent Soul",
+  "en": "Nascent Soul (VI)",
   "pt": ""
  },
  "role_grade_name7": {
   "ch": "化神",
-  "en": "Soul Formation",
+  "en": "Soul Formation (VII)",
   "pt": ""
  },
  "role_grade_name8": {
   "ch": "悟道",
-  "en": "Enlightenment",
+  "en": "Enlightenment (VIII)",
   "pt": ""
  },
  "role_grade_name9": {
   "ch": "羽化",
-  "en": "Reborn",
+  "en": "Reborn (IX)",
   "pt": ""
  },
  "role_grade_phase1": {
@@ -891,97 +891,97 @@
  },
  "role_hobby_desc1201": {
   "ch": "使用琴时，心情会有所提升。可以在个别城镇的坊市中购买到琴。",
-  "en": "Using the Qin can uplift your mood. You can purchase the Qin in the marketplaces of different towns.",
+  "en": "Better Mood when using a Guqin, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1202": {
   "ch": "使用笛时，心情会有所提升。可以在个别城镇的坊市中购买到笛。",
-  "en": "Using the flute can uplift your mood. You can purchase the flute in the marketplaces of different towns.",
+  "en": "Better Mood when using a Flute, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1203": {
   "ch": "使用箫时，心情会有所提升。可以在个别城镇的坊市中购买到箫。",
-  "en": "Using the Xiao can uplift your mood. You can purchase the Xiao in the marketplaces of different towns.",
+  "en": "Better Mood when using a Xiao, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1204": {
   "ch": "使用钟时，心情会有所提升。可以在个别城镇的坊市中购买到钟。",
-  "en": "Using the bell can uplift your mood. You can purchase the bell in the marketplaces of different towns.",
+  "en": "Better Mood when using a Bianzhong, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1205": {
   "ch": "使用图册时，心情会有所提升。可以在个别城镇的坊市中购买到图册。",
-  "en": "Using the album can uplift your mood. You can purchase the album in the marketplaces of different towns.",
+  "en": "Better Mood when using an Illustrated Book, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1206": {
   "ch": "使用花草时，心情会有所提升。可以在个别城镇的坊市中购买到花草。",
-  "en": "Using flowers and plants can uplift your mood. You can purchase flowers and plants in the marketplaces of different towns.",
+  "en": "Better Mood when using a Plant, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1207": {
   "ch": "使用竹器时，心情会有所提升。可以在个别城镇的坊市中购买到竹器。",
-  "en": "Using bamboo crafts can uplift your mood. You can purchase bamboo crafts in the marketplaces of different towns.",
+  "en": "Better Mood when using a piece of Bambooware, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1208": {
   "ch": "使用书籍时，心情会有所提升。可以在个别城镇的坊市中购买到书籍。",
-  "en": "Using books can uplift your mood. You can purchase books in the marketplaces of different towns.",
+  "en": "Better Mood when using a Book, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1209": {
   "ch": "使用骨器时，心情会有所提升。可以在个别城镇的坊市中购买到骨器。",
-  "en": "Using bone crafts can uplift your mood. You can purchase bone crafts in the marketplaces of different towns.",
+  "en": "Better Mood when using a piece of Boneware, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1210": {
   "ch": "使用玉器时，心情会有所提升。可以在个别城镇的坊市中购买到玉器。",
-  "en": "Using jade crafts can uplift your mood. You can purchase jade crafts in the marketplaces of different towns.",
+  "en": "Better Mood when using a piece of Jadeware, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1211": {
   "ch": "使用石器时，心情会有所提升。可以在个别城镇的坊市中购买到石器。",
-  "en": "Using stone crafts can uplift your mood. You can purchase stone crafts in the marketplaces of different towns.",
+  "en": "Better Mood when using a piece of Stoneware, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1212": {
   "ch": "使用陶器时，心情会有所提升。可以在个别城镇的坊市中购买到陶器。",
-  "en": "Using ceramic crafts can uplift your mood. You can purchase ceramic crafts in the marketplaces of different towns.",
+  "en": "Better Mood when using a piece of Pottery, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_desc1213": {
   "ch": "使用饰品时，心情会有所提升。可以在个别城镇的坊市中购买到饰品。",
-  "en": "Using decorations can uplift your mood. You can purchase decorations in the marketplaces of different towns.",
+  "en": "Better Mood when using an Accessory, which can be purchased from the markets in certain towns.",
   "pt": ""
  },
  "role_hobby_name101": {
   "ch": "雨天",
-  "en": "Rainy Day",
+  "en": "Rainy",
   "pt": ""
  },
  "role_hobby_name102": {
   "ch": "晴天",
-  "en": "Sunny Day",
+  "en": "Sunny",
   "pt": ""
  },
  "role_hobby_name103": {
   "ch": "雪天",
-  "en": "Snowy Day",
+  "en": "Snowy",
   "pt": ""
  },
  "role_hobby_name104": {
   "ch": "打雷",
-  "en": "Thunder",
+  "en": "Thunderstorm",
   "pt": ""
  },
  "role_hobby_name105": {
   "ch": "阴天",
-  "en": "Cloudy Day",
+  "en": "Cloudy",
   "pt": ""
  },
  "role_hobby_name201": {
   "ch": "琴",
-  "en": "Qin",
+  "en": "Guqin",
   "pt": ""
  },
  "role_hobby_name202": {
@@ -996,22 +996,22 @@
  },
  "role_hobby_name204": {
   "ch": "钟",
-  "en": "Bell",
+  "en": "Bianzhong",
   "pt": ""
  },
  "role_hobby_name205": {
   "ch": "图册",
-  "en": "Album",
+  "en": "Illustrated Books",
   "pt": ""
  },
  "role_hobby_name206": {
   "ch": "花草",
-  "en": "Flowers and Plants",
+  "en": "Plants",
   "pt": ""
  },
  "role_hobby_name207": {
   "ch": "竹器",
-  "en": "Bamboo Crafts",
+  "en": "Bambooware",
   "pt": ""
  },
  "role_hobby_name208": {
@@ -1021,27 +1021,27 @@
  },
  "role_hobby_name209": {
   "ch": "骨器",
-  "en": "Bone Crafts",
+  "en": "Boneware",
   "pt": ""
  },
  "role_hobby_name210": {
   "ch": "玉器",
-  "en": "Jade Crafts",
+  "en": "Jadeware",
   "pt": ""
  },
  "role_hobby_name211": {
   "ch": "石器",
-  "en": "Stone Crafts",
+  "en": "Stoneware",
   "pt": ""
  },
  "role_hobby_name212": {
   "ch": "陶器",
-  "en": "Ceramic Crafts",
+  "en": "Pottery",
   "pt": ""
  },
  "role_hobby_name213": {
   "ch": "饰品",
-  "en": "Decorations",
+  "en": "Accessory",
   "pt": ""
  },
  "role_jinglibuzu": {
@@ -1066,57 +1066,57 @@
  },
  "role_reputation_name1": {
   "ch": "默默无闻",
-  "en": "Unknown Novice",
+  "en": "Obscure",
   "pt": ""
  },
  "role_reputation_name10": {
   "ch": "举世闻名",
-  "en": "Divine Paragon",
+  "en": "Exalted",
   "pt": ""
  },
  "role_reputation_name11": {
   "ch": "名垂青史",
-  "en": "Heavenly Sovereign",
+  "en": "Legendary",
   "pt": ""
  },
  "role_reputation_name2": {
   "ch": "初出茅庐",
-  "en": "Fledgling Amateur",
+  "en": "Unproven",
   "pt": ""
  },
  "role_reputation_name3": {
   "ch": "崭露头角",
-  "en": "Recognized Practitioner",
+  "en": "Recognized",
   "pt": ""
  },
  "role_reputation_name4": {
   "ch": "石破天惊",
-  "en": "Rising Star",
+  "en": "Prominent",
   "pt": ""
  },
  "role_reputation_name5": {
   "ch": "名震一时",
-  "en": "Prominent Cultivator",
+  "en": "Esteemed",
   "pt": ""
  },
  "role_reputation_name6": {
   "ch": "闻名遐迩",
-  "en": "Famed Expert",
+  "en": "Famed",
   "pt": ""
  },
  "role_reputation_name7": {
   "ch": "大名鼎鼎",
-  "en": "Renowned Master",
+  "en": "Renowned",
   "pt": ""
  },
  "role_reputation_name8": {
   "ch": "声名远扬",
-  "en": "Illustrious Authority",
+  "en": "Illustrious",
   "pt": ""
  },
  "role_reputation_name9": {
   "ch": "名满天下",
-  "en": "Revered Sage",
+  "en": "Revered",
   "pt": ""
  },
  "role_sex_female": {

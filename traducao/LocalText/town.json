@@ -61,7 +61,7 @@
  },
  "town_cankaodijia": {
   "ch": "参考底价：",
-  "en": "  Recommended Price: ",
+  "en": "Recommended Reserve Price: ",
   "pt": ""
  },
  "town_chakan": {
@@ -301,12 +301,12 @@
  },
  "town_lianqi": {
   "ch": "炼器",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "town_lianzhi": {
   "ch": "炼制",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "town_lianzhitishi": {
@@ -681,7 +681,7 @@
  },
  "town_yongjintishi": {
   "ch": "拍卖成功后，拍卖行按成交价收取{0}%的用佣金",
-  "en": "The Auction House charges a {0}% commission fee on successful sales.",
+  "en": "The Auction House will take {0}% of the final price as its fee once an auction item has been sold.",
   "pt": ""
  },
  "town_zangwu": {

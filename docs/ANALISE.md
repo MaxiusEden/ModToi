@@ -265,4 +265,4 @@ Regras de validação, levantadas no dump de runtime:
 
 Os tokens são comparados como multiconjunto: a ordem pode mudar, mas a quantidade não. Em 45 entradas o `en` do jogo já tem tokens diferentes do `ch` (ex.: `item_desc6331002` perdeu `{#fortuitous_event_name…}`). O validador usa o `en` como referência.
 
-O `en` do dump é o que o jogador vê **com os mods ativos**. Em 2.990 chaves ele difere do kit porque "Enhanced english translation" e `Mod_Sky8ub` sobrescrevem o `LocalText` via `ModExcel`. Dumps feitos com outra lista de mods produzem um `en` diferente; o `extract` marca as traduções afetadas com `revisar`.
+**Fonte do `en`** (decisão de 2026-10-22): o `en` do kit oficial é a fonte padrão. O `en` do dump só vale para as 335 chaves que não existem no kit e para as 146 em que o kit tem `en` vazio. O dump reflete o inglês **com os mods ativos**: em 2.990 chaves ele difere do kit porque "Enhanced english translation" e `Mod_Sky8ub` sobrescrevem o `LocalText` via `ModExcel`. Usar o kit deixa a fonte independente da lista de mods de cada PC. Ao aplicar essa regra, 2.844 entradas trocaram de `en` (nenhuma tinha `pt`).

@@ -546,7 +546,7 @@
  },
  "FAQ_text_info": {
   "ch": "<size=28><align=\"center\"><color=#000000><blod>游戏战斗时卡顿的问题</blod></color></align></size>\n1.<indent=2.5%>技能施放频率非常高时，可能会引起卡顿，可尝试降低技能的使用频率。</indent>\n2.<indent=2.5%>某些副本的同屏单位（包括召唤物和敌人）数量较多时，也可能会引起卡顿，可尝试降低召唤物的数量。</indent>\n3.<indent=2.5%>尝试降低游戏图像及特效质量，可在设置中找到战斗图像质量选项和战斗特效质量选项，均调成【低】即可。</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>游戏过月结算时间长的问题。</blod></color></align></size>\n1.<indent=2.5%>NPC数量较多时，可能会使过月结算时间变长，此情况可以在创建存档时，选择NPC人数【较少】进入游戏。</indent>\n2.<indent=2.5%>使用了一些MOD也有可能会使过月时间变长，此情况下可以尝试取消MOD进入游戏。</indent>\n3.<indent=2.5%>在某些特定月份的时候，因为要执行一些系统运算（如拍卖会、宗门大比等），也可能会使当月的结算时间变长，此类问题一般不会经常出现。</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>游戏运行中卡死或闪退的问题</blod></color></align></size>\n<size=22><color=#000000><blod>若使用了MOD，在游玩过程中时发生卡死或闪退。</blod></color></size>\n1.<indent=2.5%>可尝试取消MOD后，使用创意工坊中的【修复存档数据】MOD将存档修复后再进入游戏。</indent>\n2.<indent=2.5%>若游戏进行了版本更新，可能是MOD未适配最新版本，可等待MOD作者更新适配。</indent>\n3.<indent=2.5%>可提供卡死或闪退的问题说明（比如进行了什么操作或是触发了什么事件等）、存档、游戏卡死或闪退时的日志:<link=\"007\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录）</color></size><size=18><color=#ff0000>（路径中“用户”如果找不到，请打开“C:\\\\Users”目录，此目录下的文件夹都是您电脑中的用户文件数据。）</color></size>目录下的Player.log 和 Player-prev.log及卡死或闪退时的Debug目录:<link=\"008\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录，若没有此目录则不用发送此目录）</color></size>发送至反馈邮箱：<link=\"005\"><color=#0000ff><u>bug@guigu.fun </u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> 或 <link=\"006\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> </indent>\n\n<size=22><color=#000000><blod>若没有使用MOD，在游玩过程中发生卡死或闪退。</blod></color></size>\n<indent=2.5%>可提供卡死或闪退的问题说明（比如进行了什么操作或是触发了什么事件等）、存档、游戏卡死或闪退时的日志:<link=\"009\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录）</color></size>目录下的Player.log 和 Player-prev.log及卡死或闪退时的Debug目录:<link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录，若没有此目录则不用发送此目录）</color></size>发送至反馈邮箱：<link=\"001\"><color=#0000ff><u>bug@guigu.fun</u></color></link> <size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> 或 <link=\"002\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> </indent>\n\n<size=28><align=\"center\"><color=#000000><blod>进入存档时卡死的问题</blod></color></align></size><size=24><align=\"center\">\n<color=#000000><blod>（一直卡在加载存档的界面中，无法进入存档）</blod></color></align></size>\n1.<indent=2.5%>若存档使用了MOD，可尝试取消MOD后，使用创意工坊中的【修复存档数据】MOD将存档修复后再进入游戏。但如果存档使用MOD修改的数据较深的话，可能无法修复成功。</indent>\n2.<indent=2.5%>若游戏进行了版本更新，可能是MOD未适配最新版本，可等待MOD作者更新适配。</indent>\n3.<indent=2.5%>可提供卡死的问题说明、存档、游戏卡死或闪退时的日志:<link=\"0011\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录）</color></size>目录下的Player.log 和 Player-prev.log及卡死或闪退时的Debug目录:<link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录，若没有此目录则不用发送此目录）</color></size>发送至反馈邮箱：<link=\"003\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> 或 <link=\"004\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> </indent>",
-  "en": "<size=28><align=\"center\"><color=#000000><blod>Lag During Battles</blod></color></align></size>\n1.<indent=2.5%>Casting too many skills in a short time may lead to a lag. You may reduce the lag by using skills less frequently.</indent>\n2.<indent=2.5%>The game may also experience a lag when too many units (allies and enemies) are in the same room. If so, please try to fight with fewer summoned units.</indent>\n3.<indent=2.5%>You may also apply lower Graphics and VFX quality in battles for better performance by following these steps: Settings - Battle Graphics Quality (and Battle VFX Quality) - Low.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Too Long Time for Monthly Summary Calculation</blod></color></align></size>\n1.<indent=2.5%>The time spent on the calculation at the end of every month is affected by the amount of existing NPCs. You may select Sparse NPCs in creating a new save for a shorter calculation time.</indent>\n2.<indent=2.5%>Some Mods will affect the end-of-month calculation time. You may play with the Mods unchecked to see if the time needed has been reduced.</indent>\n3.<indent=2.5%>There are some months with specific events like Auctions or Sect Tournaments that require additional computing. The game will take a longer time in the end-of-month calculation of them than in other months.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Freeze or Crash to Desktop in Playing</blod></color></align></size>\n<size=22><color=#000000><blod>For modded save files:</blod></color></size>\n1.<indent=2.5%>You may uncheck the mods and fix the save file with corresponding tools in the Workshop.</indent>\n2.<indent=2.5%>Some mods may be incompatible with the current game version. You may consult their creators for further update plans.</indent>\n3.<indent=2.5%>You may provide us necessary files at <link=\"005\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"006\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze or CTD, as well as more details such as what were you about to do or the events triggered at that time. Game logs may be found at <link=\"007\"><color=#004FCA><u>C:\\Usr\\(your username)\\AppData\\LocalLow\\guigugame\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size><size=18><color=#ff0000> (If the username here cannot be found, please go to C:\\Users and check if any of the folders corresponds to the username you're looking for.)</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"008\"><color=#004FCA><u>C:\\Usr\\(your username)\\AppData\\LocalLow\\guigugame\\guigubahuang\\Steam\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> </indent>\n\n<size=22><color=#000000><blod>For unmodded save files:</blod></color></size>\n<indent=2.5%>Please kindly provide us necessary files at <link=\"001\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"002\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze or CTD, as well as more details such as what were you about to do or the events triggered at that time. Game logs may be found at <link=\"009\"><color=#004FCA><u>C:\\Usr\\(your username)\\AppData\\LocalLow\\guigugame\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"0010\"><color=#004FCA><u>C:\\Usr\\(your username)\\AppData\\LocalLow\\guigugame\\guigubahuang\\Steam\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size></indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Freeze in Loading Save File</blod></color></align></size><size=24><align=\"center\">\n<color=#000000><blod>(Game stops responding on the loading screen)</blod></color></align></size>\n1.<indent=2.5%>If your save file has been modded, please uncheck the mods and fix the save file with the corresponding tools in the Workshop. Please note that the tools may be unable to fix save files that are too extensively modified.</indent>\n2.<indent=2.5%>Some mods may be incompatible with the current game version. You may consult their creators for further update plans.</indent>\n3.<indent=2.5%>Please kindly provide us necessary files at <link=\"003\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"004\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze, as well as more details at that time. Game logs may be found at <link=\"0011\"><color=#004FCA><u>C:\\Usr\\(your username)\\AppData\\LocalLow\\guigugame\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"0010\"><color=#004FCA><u>C:\\Usr\\(your username)\\AppData\\LocalLow\\guigugame\\guigubahuang\\Steam\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size></indent>",
+  "en": "<size=28><align=\"center\"><color=#000000><blod>Lag During Battles</blod></color></align></size>\n1.<indent=2.5%>Casting too many skills in a short time may lead to a lag. You may reduce the lag by using skills less frequently.</indent>\n2.<indent=2.5%>The game may also experience a lag when too many units (allies and enemies) are in the same room. If so, please try to fight with fewer summoned units.</indent>\n3.<indent=2.5%>You may also apply lower Graphics and VFX quality in battles for better performance by following these steps: Settings - Battle Graphics Quality (and Battle VFX Quality) - Low.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Too Long Time for Monthly Summary Calculation</blod></color></align></size>\n1.<indent=2.5%>The time spent on the calculation at the end of every month is affected by the amount of existing NPCs. You may select Sparse NPCs in creating a new save for a shorter calculation time.</indent>\n2.<indent=2.5%>Some Mods will affect the end-of-month calculation time. You may play with the Mods unchecked to see if the time needed has been reduced.</indent>\n3.<indent=2.5%>There are some months with specific events like Auctions or Sect Tournaments that require additional computing. The game will take a longer time in the end-of-month calculation of them than in other months.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Freeze or Crash to Desktop in Playing</blod></color></align></size>\n<size=22><color=#000000><blod>For modded save files:</blod></color></size>\n1.<indent=2.5%>You may uncheck the mods and fix the save file with corresponding tools in the Workshop.</indent>\n2.<indent=2.5%>Some mods may be incompatible with the current game version. You may consult their creators for further update plans.</indent>\n3.<indent=2.5%>You may provide us necessary files at <link=\"005\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"006\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze or CTD, as well as more details such as what were you about to do or the events triggered at that time. Game logs may be found at <link=\"007\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size><size=18><color=#ff0000> (If the username here cannot be found, please go to C:\\\\Users and check if any of the folders corresponds to the username you're looking for.)</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"008\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> </indent>\n\n<size=22><color=#000000><blod>For unmodded save files:</blod></color></size>\n<indent=2.5%>Please kindly provide us necessary files at <link=\"001\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"002\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze or CTD, as well as more details such as what were you about to do or the events triggered at that time. Game logs may be found at <link=\"009\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size></indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Freeze in Loading Save File</blod></color></align></size><size=24><align=\"center\">\n<color=#000000><blod>(Game stops responding on the loading screen)</blod></color></align></size>\n1.<indent=2.5%>If your save file has been modded, please uncheck the mods and fix the save file with the corresponding tools in the Workshop. Please note that the tools may be unable to fix save files that are too extensively modified.</indent>\n2.<indent=2.5%>Some mods may be incompatible with the current game version. You may consult their creators for further update plans.</indent>\n3.<indent=2.5%>Please kindly provide us necessary files at <link=\"003\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"004\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze, as well as more details at that time. Game logs may be found at <link=\"0011\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size></indent>",
   "pt": ""
  },
  "FAQ_text_title": {
@@ -1421,7 +1421,7 @@
  },
  "ImmortalMethod_desc6000": {
   "ch": "召唤一柄巨大的光枪从天而降砸击并爆炸，每次对全场造成造成威力&710006_gqzxwl&的伤害。随后在天空召唤&710006_fzsl&个法阵，每个法阵会射出&710006_sfgqsl&道小光枪，对敌人造成威力&710006_fsxgqwl&的伤害。小光枪在全部射出后会爆炸，对附近的单位造成威力&710006_xgqwl&的伤害。使用者会变身<o>离珠斗神体</o>，获得一套新的技能，持续&710006_bscxsj&秒。",
-  "en": "Summon a huge spear of light piercing from the sky, then the spear explodes, dealing &710006_gqzxwl& to all enemies on the battlefield each time. Then summon &710006_fzsl& arrays in the sky, each array can launch &710006_sfgqsl& little spears of light, dealing &710006_fsxgqwl& damage to enemies hit. After all of the little spears are launched, they will explode, dealing &710006_xgqwl& damage to nearby units. The user of the Heavenly Art will transform into <o>Lizhu's Fighting Soul</o> for &710006_bscxsj&s, and acquire a new set of skills during that time.",
+  "en": "Summon a huge spear of light piercing from the sky, then the spear explodes, dealing &710006_gqzxwl& to all enemies on the battlefield each time. Then summon &710006_fzsl& arrays in the sky, each array can launch &710006_sfgqsl& little spears of light, dealing &710006_fsxgqwl& damage to enemies hit. After all of the little spears are launched, they will explode, dealing &710006_xgqwl& damage to nearby units. The user of the Heavenly Art will transform into <o>Lizhu’s Fighting Soul</o> for &710006_bscxsj&s, and acquire a new set of skills during that time.",
   "pt": ""
  },
  "ImmortalMethod_desc7000": {
@@ -1431,7 +1431,7 @@
  },
  "ImmortalMethod_name1000": {
   "ch": "仙法·拂霜斩夜",
-  "en": " Film of Frost",
+  "en": "Art - Film of Frost",
   "pt": ""
  },
  "ImmortalMethod_name10000": {
@@ -1441,32 +1441,32 @@
  },
  "ImmortalMethod_name2000": {
   "ch": "仙法·天降蛋魂",
-  "en": "Eggs From Above",
+  "en": "Art - Eggs From Above",
   "pt": ""
  },
  "ImmortalMethod_name3000": {
   "ch": "仙法·仙菇降世",
-  "en": "Birth of Mushroom",
+  "en": "Art - Birth of Mushroom",
   "pt": ""
  },
  "ImmortalMethod_name4000": {
   "ch": "仙法·金虹破晓",
-  "en": "Metallic Iridescence",
+  "en": "Art - Metallic Iridescence",
   "pt": ""
  },
  "ImmortalMethod_name5000": {
   "ch": "仙法·天舞绝响",
-  "en": "Melodious Serenade",
+  "en": "Art - Melodious Serenade",
   "pt": ""
  },
  "ImmortalMethod_name6000": {
   "ch": "仙法·银龙飞雪",
-  "en": "Swift Silver Dragon",
+  "en": "Art - Swift Silver Dragon",
   "pt": ""
  },
  "ImmortalMethod_name7000": {
   "ch": "仙法·熔天烈陨",
-  "en": "Melted Meteors",
+  "en": "Art - Melted Meteors",
   "pt": ""
  },
  "ImmortalMethod_specialEffectDesc1000": {
@@ -1511,102 +1511,102 @@
  },
  "ImmortalName1000": {
   "ch": "金虹破晓",
-  "en": "<size=15> Metallic Iridescence</size>",
+  "en": "Metallic Iridescence",
   "pt": ""
  },
  "ImmortalName1001": {
   "ch": "剑一",
-  "en": "<size=15> Jianyi\n</size>",
+  "en": "Jianyi",
   "pt": ""
  },
  "ImmortalName1002": {
   "ch": "芦花王",
-  "en": "<size=15> King Luhua\n</size>",
+  "en": "King Luhua",
   "pt": ""
  },
  "ImmortalName1003": {
   "ch": "蔽日仙菌",
-  "en": "<size=15> Heavenly Mushroom\n</size>",
+  "en": "Sun Blocking Heavenly Mushroom",
   "pt": ""
  },
  "ImmortalName1004": {
   "ch": "东方茗雪",
-  "en": "<size=15> Mingxue\n</size>",
+  "en": "Mingxue",
   "pt": ""
  },
  "ImmortalName1005": {
   "ch": "离珠",
-  "en": "<size=15> Lizhu\n</size>",
+  "en": "Lizhu",
   "pt": ""
  },
  "ImmortalName1006": {
   "ch": "沧泷",
-  "en": "<size=15> Canglong\n</size>",
+  "en": "Canglong",
   "pt": ""
  },
  "ImmortalName1007": {
   "ch": "季沽魂",
-  "en": "<size=15> Ji Guhun\n</size>",
+  "en": "Ji Guhun",
   "pt": ""
  },
  "ImmortalName1008": {
   "ch": "梁渠",
-  "en": "<size=15> Liangqu\n</size>",
+  "en": "Liangqu",
   "pt": ""
  },
  "ImmortalName1009": {
   "ch": "双双",
-  "en": "<size=15> Shuangshuang\n</size>",
+  "en": "Shuangshuang",
   "pt": ""
  },
  "ImmortalName1010": {
   "ch": "风灵兰",
-  "en": "<size=15> Feng Linglan\n</size>",
+  "en": "Feng Linglan",
   "pt": ""
  },
  "ImmortalName1011": {
   "ch": "帝江",
-  "en": "<size=15> Dijiang\n</size>",
+  "en": "Dijiang",
   "pt": ""
  },
  "ImmortalName1012": {
   "ch": "瑶姬",
-  "en": "<size=15> Yaoji\n</size>",
+  "en": "Yaoji",
   "pt": ""
  },
  "ImmortalName1013": {
   "ch": "苏墨白",
-  "en": "<size=15> Su Mobai\n</size>",
+  "en": "Su Mobai",
   "pt": ""
  },
  "ImmortalName1014": {
   "ch": "厉寒珊",
-  "en": "<size=15> Li Hanshan\n</size>",
+  "en": "Li Hanshan",
   "pt": ""
  },
  "ImmortalName1015": {
   "ch": "鹿林溪",
-  "en": "<size=15> Lu Linxi\n</size>",
+  "en": "Lu Linxi",
   "pt": ""
  },
  "ImmortalName1016": {
   "ch": "紫姑",
-  "en": "<size=15> Zigu\n</size>",
+  "en": "Zigu",
   "pt": ""
  },
  "ImmortalName1017": {
   "ch": "破碎祭坛",
-  "en": "<size=15> Shattered Altar</size>",
+  "en": "Shattered Altar",
   "pt": ""
  },
  "ImmortalName1018": {
   "ch": "噬魂塔",
-  "en": "<size=15> Soul Devouring Pagoda</size>",
+  "en": "Soul Devouring Pagoda",
   "pt": ""
  },
  "ImmortalName1019": {
   "ch": "张三",
-  "en": "<size=15> Zhang San</size>",
+  "en": "Zhang San",
   "pt": ""
  },
  "ItemHobbyLevel1": {
@@ -2856,7 +2856,7 @@
  },
  "ThanksTips": {
   "ch": "\\t从2019年第一行代码开始，磕磕碰碰四年，鬼谷终于迎来了正式版。\n\\t 感谢道友们一路以来的支持鼓励，批评指正和推广分享，没有你们的陪伴，就不会有今天的鬼谷八荒；感谢所有的创作者，你们投稿的奇遇、道号以及制作的MOD等内容，为游戏增添了新的活力与魅力；感谢所有的媒体、自媒体、UP主以及主播，你们对游戏的喜爱与认可让鬼谷能被道友们熟知，被更多人认识。\n\\t 工作室的所有成员会将一路上的经历装进行囊，继续努力优化鬼谷八荒，也将探索和开发新的游戏，希望能给大家带来惊喜！\n\n<size=24><align=\"center\">鸣谢</align></size>\n<align=\"center\">鬼谷八荒全体MOD作者\n全体玩家社群管理\n\n城南的花未开\nCHIN\n风酱OvO\n黑雨\n红尘\n剑红尘\n空山道人\n没信号\nMr.Frog\n墨道\n霓为衣兮风为马\n你怎么抬着品如的衣柜\n少年路飞\n沙思羽\n霜之哀伤罗非鱼\n王不惟\n无尘\n无声\n哮天\n西门吹肉\n星回十六\n星语月声\n席小洋\n牙羽哩\n易简\n一言断不准\n云自摇\n赵天宇\n以及其他所有曾经踊跃投稿、进行内容创作的道友\n字体支持：庞少棠（庞门正道）\n音乐支持：一罐盐、李常超、画月光工作室\n预告片原画支持：重庆索格科技\n对接支持：Ria Hu</align>\n<size=16><color=#c0c0c0><align=\"right\">（如有遗漏请与我们联系info@lightning.games）</align></color></size>\n\n<size=24><align=\"center\">特别鸣谢</align></size>\n<align=\"center\">所有支持鬼谷工作室的平台、社区、媒体、自媒体、UP主以及主播\nSTEAM官方VALVE公司\n以及屏幕前的你</align>",
-  "en": "\tFrom 2019 to now, after four years of hard work, we finally see Tale of Immortal's official release.\n\tWe'll express our gratitude to all our fellow cultivators. Your support, suggestions, and sharing bring us here to present our game to you. We would also like to say thanks to all fan creators for the adventures, Taoist Titles, and Mods you designed that enlivened our game. We are also deeply grateful to all game media, content creators, and livestreamers for your love and recognition of our work, as well as your promotion that helped us reach even more players.\n\tThe journey here will be our cherished experience. We will continue to work on improving Tale of Immortal and bringing our players new games. Here's to many more adventures together!\n\n<size=24><align=\"center\">Thanks for the support from:</align></size>\n<align=\"center\">All Mod creators of Tale of Immortal\nAll player community managers\n\n城南的花未开\nCHIN\n风酱OvO\n黑雨\n红尘\n剑红尘\n空山道人\n没信号\nMr.Frog\n墨道\n霓为衣兮风为马\n你怎么抬着品如的衣柜\n少年路飞\n沙思羽\n霜之哀伤罗非鱼\n王不惟\n无尘\n无声\n哮天\n西门吹肉\n星回十六\n星语月声\n席小洋\n牙羽哩\n易简\n一言断不准\n云自摇\n赵天宇\nAnd all other fellow cultivators that created content or provided us with insights.\nFont Support: 庞少棠（庞门正道）\nMusic: 一罐盐, 李常超, 画月光工作室\nPV Animation Support: 重庆索格科技\nCoordinator: Ria Hu</align>\n<size=16><color=#c0c0c0><align=\"right\">(Please reach out to us at info@lightning.games if you found any omission)</align></color></size>\n\n<size=24><align=\"center\">Special thanks to:</align></size>\n<align=\"center\">All platforms, communities, media, content creators, and livestreamers that supported us,\nSteam and Valve Corporation,\nAnd you that are reading this line.</align>",
+  "en": "\\tFrom 2019 to now, after four years of hard work, we finally see Tale of Immortal's official release.\n\\tWe'll express our gratitude to all our fellow cultivators. Your support, suggestions, and sharing bring us here to present our game to you. We would also like to say thanks to all fan creators for the adventures, Taoist Titles, and Mods you designed that enlivened our game. We are also deeply grateful to all game media, content creators, and livestreamers for your love and recognition of our work, as well as your promotion that helped us reach even more players.\n\\tThe journey here will be our cherished experience. We will continue to work on improving Tale of Immortal and bringing our players new games. Here's to many more adventures together!\n\n<size=24><align=\"center\">Thanks for the support from:</align></size>\n<align=\"center\">All Mod creators of Tale of Immortal\nAll player community managers\n\n城南的花未开\nCHIN\n风酱OvO\n黑雨\n红尘\n剑红尘\n空山道人\n没信号\nMr.Frog\n墨道\n霓为衣兮风为马\n你怎么抬着品如的衣柜\n少年路飞\n沙思羽\n霜之哀伤罗非鱼\n王不惟\n无尘\n无声\n哮天\n西门吹肉\n星回十六\n星语月声\n席小洋\n牙羽哩\n易简\n一言断不准\n云自摇\n赵天宇\nAnd all other fellow cultivators that created content or provided us with insights.\nFont Support: 庞少棠（庞门正道）\nMusic: 一罐盐, 李常超, 画月光工作室\nPV Animation Support: 重庆索格科技\nCoordinator: Ria Hu</align>\n<size=16><color=#c0c0c0><align=\"right\">(Please reach out to us at info@lightning.games if you found any omission)</align></color></size>\n\n<size=24><align=\"center\">Special thanks to:</align></size>\n<align=\"center\">All platforms, communities, media, content creators, and livestreamers that supported us,\nSteam and Valve Corporation,\nAnd you that are reading this line.</align>",
   "pt": ""
  },
  "ThanksTipsTitle": {
@@ -2996,7 +2996,7 @@
  },
  "UIFairyLeagueAchievement_StartBattle": {
   "ch": "抵御兽潮",
-  "en": "Repel Wave ",
+  "en": "Repel Wave of Monsters",
   "pt": ""
  },
  "UIFairyLeagueAchievement_textRankFlagHeader": {
@@ -3066,12 +3066,12 @@
  },
  "UITaoistHeart_chuanshou": {
   "ch": "传授道种",
-  "en": "Teach",
+  "en": "Teach Taoist Seed",
   "pt": ""
  },
  "UITaoistHeart_chuanshougei": {
   "ch": "为其传送道种",
-  "en": "Teach Taoist Seed",
+  "en": "Pass on the Taoist Seed",
   "pt": ""
  },
  "UITaoistHeart_heartTips": {
@@ -3721,7 +3721,7 @@
  },
  "ability_name_last3": {
   "ch": "式",
-  "en": "Art",
+  "en": "Technique",
   "pt": ""
  },
  "ability_name_last4": {
@@ -3731,27 +3731,27 @@
  },
  "ability_name_last5": {
   "ch": "录",
-  "en": "Codex",
+  "en": "Compendium",
   "pt": ""
  },
  "ability_name_last6": {
   "ch": "秘卷",
-  "en": "Secret",
+  "en": "Secret Manual",
   "pt": ""
  },
  "ability_name_last7": {
   "ch": "神功",
-  "en": "Divine",
+  "en": "Divine Power",
   "pt": ""
  },
  "ability_name_last8": {
   "ch": "大法",
-  "en": "Domain",
+  "en": "Mastery",
   "pt": ""
  },
  "ability_zhuangbeiyiben": {
   "ch": "已装备同类型心法《{0}》",
-  "en": "Already equipped with the same type of《{0}》",
+  "en": "已装备了同类型心法《{0}》",
   "pt": ""
  },
  "abortiveAuctionDesc1": {
@@ -3951,7 +3951,7 @@
  },
  "artifactBook_lianzhi": {
   "ch": "炼制",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "artifactBook_tongyongcailiao": {
@@ -4121,7 +4121,7 @@
  },
  "artifactShape_lianqi": {
   "ch": "炼器",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "artifactShape_lianzhichenggon": {
@@ -4141,7 +4141,7 @@
  },
  "artifactShape_meimiaoxiaohao": {
   "ch": "在场时每秒消耗",
-  "en": "Cost/second",
+  "en": "Cost/second while present",
   "pt": ""
  },
  "artifactShape_naijiu": {
@@ -4611,7 +4611,7 @@
  },
  "artifact_yironghe": {
   "ch": "已融合",
-  "en": "<size=15>∞ </size>",
+  "en": "Combined",
   "pt": ""
  },
  "artifact_zhuangbeizhong": {
@@ -5831,7 +5831,7 @@
  },
  "canwu_huisuhongsecitiao": {
   "ch": "回溯红色词条",
-  "en": "Mythic Affixes",
+  "en": "List Obtained Mythic Affixes",
   "pt": ""
  },
  "canwu_huisuquxiao": {
@@ -5846,7 +5846,7 @@
  },
  "canwu_jieshucanwu": {
   "ch": "确定并结束参悟",
-  "en": "Confirm",
+  "en": "Confirm and End Comprehending",
   "pt": ""
  },
  "canwu_pingjun1": {
@@ -5876,7 +5876,7 @@
  },
  "canwu_tishi3": {
   "ch": "保留本次参悟所得词条",
-  "en": "Save the affixes.",
+  "en": "Save the affixes from this comprehension",
   "pt": ""
  },
  "canwu_wancheng": {
@@ -5906,7 +5906,7 @@
  },
  "canwu_zaicicanwu": {
   "ch": "再次参悟",
-  "en": "Try Again",
+  "en": "Comprehend Again",
   "pt": ""
  },
  "careerAssess1": {
@@ -6836,7 +6836,7 @@
  },
  "careerLogSchoolJoin": {
   "ch": "{careerTime}，你参加了{0}的宗门小比并脱颖而出，加入了宗门成为了{2}。",
-  "en": "{careerTime}, you participated in the sect's entry level competition and stood out, joining the sect as a {2}.",
+  "en": "{careerTime}, you passed {0}'s Sect Tryouts and became its {2}.",
   "pt": ""
  },
  "careerLogSchoolMain": {
@@ -7126,7 +7126,7 @@
  },
  "chickenskillname_2825021": {
   "ch": "噬魂紫焰",
-  "en": "Souleater's Flame",
+  "en": "Souleater’s Flame",
   "pt": ""
  },
  "chickenskillname_2825031": {
@@ -7146,12 +7146,12 @@
  },
  "chickenskillname_2825061": {
   "ch": "鹰击长空",
-  "en": "Eagle's Flight",
+  "en": "Eagle’s Flight",
   "pt": ""
  },
  "chickenskillname_2825071": {
   "ch": "猛禽狂袭",
-  "en": "Raptor's Plunge",
+  "en": "Raptor’s Plunge",
   "pt": ""
  },
  "chickenskillname_2825081": {
@@ -7196,12 +7196,12 @@
  },
  "conclusionText1001": {
   "ch": "\\t从2019年第一行代码开始，磕磕碰碰至今已四年，感谢全球各路道友的热情支持、建议、批评与指正。八荒修行的路途中，我们有共同的汗水与热血，再大的困难亦挡不住我等逆天改命之心。\n\\t天元山的故事落下帷幕，现实中的故事才刚刚开始，我想，众多天命道友亦能在实际生活与工作中，克服困难，再创佳绩。",
-  "en": "\tWe, the developers from Guigu Studio, would like to express our heartfelt gratitude to our peer cultivators worldwide. Thank you for your four years of support since 2019, when our game's first lines of code were written. Your advice, insights, and suggestions are always a source of great inspiration for us, and we know we are all persons endeavoring to rewrite our destinies, no matter how difficult the path would be.\n\tThe story in Tian Yuan Mountain has ended, but our story as individuals will continue. Dear cultivators, may you have an incredible journey and a steadfast determination to challenge the impossible.",
+  "en": "\\tWe, the developers from Guigu Studio, would like to express our heartfelt gratitude to our peer cultivators worldwide. Thank you for your four years of support since 2019, when our game's first lines of code were written. Your advice, insights, and suggestions are always a source of great inspiration for us, and we know we are all persons endeavoring to rewrite our destinies, no matter how difficult the path would be.\n\\tThe story in Tian Yuan Mountain has ended, but our story as individuals will continue. Dear cultivators, may you have an incredible journey and a steadfast determination to challenge the impossible.",
   "pt": ""
  },
  "conclusionText1002": {
   "ch": "\\t感谢各位玩家、媒体朋友、自媒体、UP主、主播以及平台的支持与厚爱，因为你们的支持与分享，很多人知道了鬼谷八荒，以及八荒中的好笑的故事。\n\\t我们是幸运的，以后更需要不懈的努力去制作更好的产品，希望行业生态更好，大家更好，身体健康！\n\n\\t\\t\\t\\t  鬼谷工作室\n\\t\\t\\t\\t  2023年2月",
-  "en": "\tWe are also profoundly grateful for the generous support and encouragement from game media, fan content creators, livestreamers, and platforms. Thanks for your talent and devotion. Your creativity has enlivened our virtual world and brought Tale of Immortal to countless others.\n\tWe are fortunate to share the moment with you, where the Tale is whole, the final chapter penned, and the story complete. We will strive to bring new worlds of splendid adventures to players everywhere. And as always, may we all enjoy good health, and may the game industry's future shine for us all!\n\n\t\t\t\t\tGuigu Studio\n\t\t\t\t\tFebruary 2023",
+  "en": "\\tWe are also profoundly grateful for the generous support and encouragement from game media, fan content creators, livestreamers, and platforms. Thanks for your talent and devotion. Your creativity has enlivened our virtual world and brought Tale of Immortal to countless others.\n\\tWe are fortunate to share the moment with you, where the Tale is whole, the final chapter penned, and the story complete. We will strive to bring new worlds of splendid adventures to players everywhere. And as always, may we all enjoy good health, and may the game industry's future shine for us all!\n\n\\t\\t\\t\\t\\tGuigu Studio\n\\t\\t\\t\\t\\tFebruary 2023",
   "pt": ""
  },
  "conditionDesc162104": {
@@ -8301,12 +8301,12 @@
  },
  "dlcSkillInfo_zhongji": {
   "ch": "终极",
-  "en": "Ultimate",
+  "en": "Ult",
   "pt": ""
  },
  "dlcSkillInfo_zhongjiTip": {
   "ch": "终极词条无法同时拥有，只能持有其中一条。",
-  "en": "Ultimate skills cannot be used at the same time, only one of them.",
+  "en": "You may have only 1 Ultimate Affix of a skill at the same time.",
   "pt": ""
  },
  "dlcUI_unlockAbility": {
@@ -8661,22 +8661,22 @@
  },
  "dragonDoor_taskTips1": {
   "ch": "必须完成“跟屁虫需求之一”任务才能继续升级。",
-  "en": "Complete the Mission \\\"Little Clingy Bug's Request 1\\\" to continue upgrading.",
+  "en": "Complete the Mission \"Following Bug's Request 1\" to continue upgrading.",
   "pt": ""
  },
  "dragonDoor_taskTips2": {
   "ch": "必须完成“跟屁虫需求之二”任务才能继续升级。",
-  "en": "Complete the Mission \\\"Little Clingy Bug's Request 2\\\" to continue upgrading.",
+  "en": "Complete the Mission \"Following Bug's Request 2\" to continue upgrading.",
   "pt": ""
  },
  "dragonDoor_taskTips3": {
   "ch": "必须完成“跟屁虫需求之三”任务才能继续升级。",
-  "en": "Complete the Mission \\\"Little Clingy Bug's Request 3\\\" to continue upgrading.",
+  "en": "Complete the Mission \"Following Bug's Request 3\" to continue upgrading.",
   "pt": ""
  },
  "dragonDoor_taskTips4": {
   "ch": "必须完成“跟屁虫需求之四”任务才能继续升级。",
-  "en": "Complete the Mission \\\"Little Clingy Bug's Request 4\\\" to continue upgrading.",
+  "en": "Complete the Mission \"Following Bug's Request 4\" to continue upgrading.",
   "pt": ""
  },
  "dragonDoor_transOk": {
@@ -9316,32 +9316,32 @@
  },
  "dungeon_typeDesc_Mount1": {
   "ch": "蹈虚幽径",
-  "en": "Jo's Test",
+  "en": "Path to emptiness",
   "pt": ""
  },
  "dungeon_typeDesc_Mount2": {
   "ch": "雾海烟渚",
-  "en": "Night Rain",
+  "en": "Sandbank of mist",
   "pt": ""
  },
  "dungeon_typeDesc_Mount3": {
   "ch": "望仙圣台",
-  "en": "Nuwa",
+  "en": "Altar of immortality",
   "pt": ""
  },
  "dungeon_typeDesc_Mount4": {
   "ch": "地脉关元",
-  "en": "Earth's veins",
+  "en": "Junction of Earth's veins",
   "pt": ""
  },
  "dungeon_typeDesc_Mount5": {
   "ch": "妄象镜海",
-  "en": "Black Dragon",
+  "en": "Sea of images",
   "pt": ""
  },
  "dungeon_typeDesc_Mount6": {
   "ch": "天元山巅",
-  "en": "Top of Tian Yuan",
+  "en": "Top of Tian Yuan Mountain",
   "pt": ""
  },
  "dungeon_typeDesc_Mount7": {
@@ -9691,17 +9691,17 @@
  },
  "effect_desct9901101": {
   "ch": "跟屁虫对敌人造成伤害后，使其受到的伤害提升&9901101_shts&%，持续&9901101_cxsj&秒（不可叠加）。",
-  "en": "Once the Little Clingy Bug has dealt damage to the enemy, its damage will be increased to &9901101_shts&% for &9901101_cxsj& seconds (not stackable).",
+  "en": "Once the Following Bug has dealt damage to the enemy, its damage will be increased to &9901101_shts&% for &9901101_cxsj& seconds (not stackable).",
   "pt": ""
  },
  "effect_desct9901102": {
   "ch": "跟屁虫会朝敌人发射一枚龙鳞化作的龙珠，龙珠在飞行过程中会持续牵引范围内的敌人，在达到最远距离后将会对范围&9901102_bzfw&内的敌人造成威力为&9901102_bzwl&的伤害。每&9901102_fsjg&秒最多发射一次。",
-  "en": "The Little Clingy Bug will fire a Dragon Scale-turned Dragon Pearl at the enemy. While it is in mid-flight, the Dragon Pearl will draw in enemies within range. Once it has reached the furthest distance it will deal &9901102_bzwl& damage to enemies within a range of &9901102_bzfw&. This fires once per &9901102_fsjg& seconds at most.",
+  "en": "The Following Bug will fire a Dragon Scale-turned Dragon Pearl at the enemy. While it is in mid-flight, the Dragon Pearl will draw in enemies within range. Once it has reached the furthest distance it will deal &9901102_bzwl& damage to enemies within a range of &9901102_bzfw&. This fires once per &9901102_fsjg& seconds at most.",
   "pt": ""
  },
  "effect_desct9901103": {
   "ch": "跟屁虫会发动龙威，使场上所有敌人沉默，持续&9901103_cxsj&秒。每&9901103_fsjg&秒最多发动一次。",
-  "en": "The Little Clingy Bug will activate Dragon Majesty rendering all enemies in the battlefield for &9901103_cxsj& seconds. This activates once per &9901103_fsjg& seconds at most.",
+  "en": "The Following Bug will activate Dragon Majesty rendering all enemies in the battlefield for &9901103_cxsj& seconds. This activates once per &9901103_fsjg& seconds at most.",
   "pt": ""
  },
  "effect_desct9901104": {
@@ -9711,17 +9711,17 @@
  },
  "effect_desct9901111": {
   "ch": "当场上存在敌人时，跟屁虫会为召唤者回复&9901111_hftl&%的体力值，每&9901111_zljg&秒最多触发一次。",
-  "en": "When there are enemies on the battlefield, the Little Clingy Bug will restore &9901111_hftl&% Vitality to the summoner. This triggers once per &9901111_zljg& seconds at most.",
+  "en": "When there are enemies on the battlefield, the Following Bug will restore &9901111_hftl&% Vitality to the summoner. This triggers once per &9901111_zljg& seconds at most.",
   "pt": ""
  },
  "effect_desct9901112": {
   "ch": "使用身法时，可生成一个跟屁虫的幻影，幻影造成的伤害为&9901112_shjd|+10000|f0&%。每&9901112_lqsj&秒最多生成一个幻影，生成的幻影持续&9901112_cxsj&秒。",
-  "en": "When you use a Motion Skill, a Little Clingy Bug Phantom is generated. The Phantom deals &9901112_shjd|+10000|f0&% damage. A Phantom can be generated once per &9901112_lqsj& seconds at most. The generated Phantom lasts &9901112_cxsj&s.",
+  "en": "When you use a Motion Skill, a Following Bug Phantom is generated. The Phantom deals &9901112_shjd|+10000|f0&% damage. A Phantom can be generated once per &9901112_lqsj& seconds at most. The generated Phantom lasts &9901112_cxsj&s.",
   "pt": ""
  },
  "effect_desct9901113": {
   "ch": "当自身的体力低于&9901113_tldy&%时，跟屁虫会释放出护罩抵挡绝大部分伤害&9901113_cxsj&秒。每&9901113_hdlq&秒最多触发一次。",
-  "en": "When your Vitality drops below &9901113_tldy&%, the Little Clingy Bug will release a shield to ward off an overwhelming majority of damage for &9901113_cxsj& seconds. This triggers once per &9901113_hdlq& seconds at most.",
+  "en": "When your Vitality drops below &9901113_tldy&%, the Following Bug will release a shield to ward off an overwhelming majority of damage for &9901113_cxsj& seconds. This triggers once per &9901113_hdlq& seconds at most.",
   "pt": ""
  },
  "effect_desct99011131": {
@@ -9731,27 +9731,27 @@
  },
  "effect_desct9901114": {
   "ch": "跟屁虫造成伤害后，会为召唤者恢复体力值，恢复效果为造成伤害的&9901114_xxbl&%",
-  "en": "When the Little Clingy Bug deals damage, it will restore Vitality to the summoner. The amount restored is &9901114_xxbl&% of the damage dealt.",
+  "en": "When the Following Bug deals damage, it will restore Vitality to the summoner. The amount restored is &9901114_xxbl&% of the damage dealt.",
   "pt": ""
  },
  "effect_desct9901121": {
   "ch": "自身使用绝技时，跟屁虫会发出一次咆哮，使全场所有敌方单位受到威力&9901115_lhwl&的伤害，并眩晕&9901115_xysj&秒，每&9901115_lqsj&秒最多触发一次，每消耗1点充能下一次释放咆哮的眩晕时间提高&9901115_xyzj&秒，伤害提高&9901115_wlbl&%，最大&9901115_zdcs&层。",
-  "en": "When you use a Special Skill, the Little Clingy Bug will let out a roar that deals &9901115_lhwl& damage to all enemy units on the battlefield, as well as stunning them for &9901115_xysj& seconds. This triggers once per &9901115_lqsj&s at most. The stun time is increased by &9901115_xyzj&s for every point of recharging used, damage is increased by &9901115_wlbl&% for a max of &9901115_zdcs& stacks.",
+  "en": "When you use a Special Skill, the Following Bug will let out a roar that deals &9901115_lhwl& damage to all enemy units on the battlefield, as well as stunning them for &9901115_xysj& seconds. This triggers once per &9901115_lqsj&s at most. The stun time is increased by &9901115_xyzj&s for every point of recharging used, damage is increased by &9901115_wlbl&% for a max of &9901115_zdcs& stacks.",
   "pt": ""
  },
  "effect_desct9901122": {
   "ch": "跟屁虫造成伤害时，会使召唤者目前冷却最高的技能冷却降低&9901116_lqjs&秒，每&9901116_lqsj&秒最多触发一次。",
-  "en": "When the Little Clingy Bug deals damage, the summoner's Skill with the highest Cooldown will be lowered for &9901116_lqjs& seconds. This triggers once per &9901116_lqsj& seconds at most.",
+  "en": "When the Following Bug deals damage, the summoner's Skill with the highest Cooldown will be lowered for &9901116_lqjs& seconds. This triggers once per &9901116_lqsj& seconds at most.",
   "pt": ""
  },
  "effect_desct9901123": {
   "ch": "跟屁虫在玩家释放神通时，会喷出一道扇形烈焰，持续&9901117_hysj&秒内每半秒造成威力&9901117_hywl&的伤害，并使其有&9901117_tssj&秒内受到伤害提高&9901117_shts&%，每&9901117_hylq&秒最多喷出一次烈焰。",
-  "en": "When the Player releases the Ultimate Skill, the Little Clingy Bug will spit out a circular Fiery Flame for &9901117_hysj& seconds and deal &9901117_hywl& damage every half second. The target will also suffer a &9901117_shts&% increase to their damage received for &9901117_tssj& seconds. Fiery Flame can be used once per &9901117_hylq& seconds at most.",
+  "en": "When the Player releases the Ultimate Skill, the Following Bug will spit out a circular Fiery Flame for &9901117_hysj& seconds and deal &9901117_hywl& damage every half second. The target will also suffer a &9901117_shts&% increase to their damage received for &9901117_tssj& seconds. Fiery Flame can be used once per &9901117_hylq& seconds at most.",
   "pt": ""
  },
  "effect_desct9901124": {
   "ch": "跟屁虫会为当前体力最低的召唤物恢复&9901118_hftl&点体力，并对该召唤物范围&9901118_shfw&的敌人造成威力&9901118_shwl&的伤害，每&9901118_lqsj&秒最多触发一次。",
-  "en": "The Little Clingy Bug will restore &9901118_hftl& Vitality to the summoner whose Vitality is lowest and deal &9901118_shwl& damage to enemies within a range of &9901118_shfw& away from that summoner. This triggers once every &9901118_lqsj& seconds.",
+  "en": "The Following Bug will restore &9901118_hftl& Vitality to the summoner whose Vitality is lowest and deal &9901118_shwl& damage to enemies within a range of &9901118_shfw& away from that summoner. This triggers once every &9901118_lqsj& seconds.",
   "pt": ""
  },
  "effect_desct9901125": {
@@ -11366,7 +11366,7 @@
  },
  "game_jiangkangzonggao": {
   "ch": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",
-  "en": "HOPEFULLY TEMPORARY TRANSLATION, CREATED BY RAZHELL V1.61",
+  "en": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",
   "pt": ""
  },
  "game_jietuchenggong": {
@@ -11641,7 +11641,7 @@
  },
  "getText10003": {
   "ch": "可从悬壶仙祠获得。",
-  "en": "Obtainable from Noble Medic Shrine.",
+  "en": "Obtainable from Iridescent Cat Shrine.",
   "pt": ""
  },
  "getText10004": {
@@ -12951,7 +12951,7 @@
  },
  "handlekey_uiPlayerBagExtend_ptextDragTips": {
   "ch": "按Y可批量丢弃道具",
-  "en": "Press X to discard items in bulk",
+  "en": "Press Y to discard items in bulk",
   "pt": ""
  },
  "handlekey_ui_gogEyeTipsConnect": {
@@ -13056,32 +13056,32 @@
  },
  "herdMonstLevel0": {
   "ch": "初阶妖主",
-  "en": "Demon Lord",
+  "en": "Demon Lord (I)",
   "pt": ""
  },
  "herdMonstLevel1": {
   "ch": "二阶妖尊",
-  "en": "Demon Baron",
+  "en": "Demon Baron (II)",
   "pt": ""
  },
  "herdMonstLevel2": {
   "ch": "三阶妖王",
-  "en": "Demon Prince",
+  "en": "Demon Prince (III)",
   "pt": ""
  },
  "herdMonstLevel3": {
   "ch": "四阶妖皇",
-  "en": "Demon King",
+  "en": "Demon King (IV)",
   "pt": ""
  },
  "herdMonstLevel4": {
   "ch": "五阶妖帝",
-  "en": "Demon Emperor",
+  "en": "Demon Emperor (V)",
   "pt": ""
  },
  "herdMonstLevel5": {
   "ch": "六阶妖圣",
-  "en": "Evil Demigod",
+  "en": "Evil Demigod (VI)",
   "pt": ""
  },
  "herdSchool": {
@@ -14071,12 +14071,12 @@
  },
  "intoGame_text14": {
   "ch": "上古鸿蒙至宝，它可以让你在大世界中看得更远，同时看透其他修仙者的背包。甚至还可以识破妖兽弱点，领悟其技能为你所用。在陷入危机时，将触发天道庇佑，让你得以逃脱。不过这一切都需要用灵石给它充能。",
-  "en": "<size=20>Legend has it, Emperor Jun used this artifact to observe the realm he ruled. Nothing can be hidden from the Eye of Providence.</size>",
+  "en": "This ancient treasure allows you to see farther on the world map, and also let you see the contents of other Cultivators' Inventories. You can also see the weaknesses of Monsters, and gain Insight into their Skills for your own use. When in danger, it will trigger the Heavenly Path Protection and allow you to escape. However, all of this requires you to use Spirit Stones to charge it first.",
   "pt": ""
  },
  "intoGame_text15": {
   "ch": "相传在上古时期，帝俊便是使用此物观察人间百态。世间万物在昊天眼前都将无处遁形。",
-  "en": "<size=20>This ancient treasure allows you to see farther on the world map, and also let you see the contents of other Cultivators' Inventories. You can also see the weaknesses of Monsters, and gain Insight into their Skills for your own use. </size>",
+  "en": "Legend has it, Emperor Jun used this artifact to observe the realm he ruled. Nothing can be hidden from the Eye of Providence.",
   "pt": ""
  },
  "intoGame_text16": {
@@ -14086,12 +14086,12 @@
  },
  "intoGame_text17": {
   "ch": "双鱼佩只要拥有点数，你就可以重生。此物还可以一分为二，赠予另一人，双方可以同心协力，互相保护。",
-  "en": "<size=20>The universe was complete chaos until Pangu separated the sky from the earth, and the Bagua Jade was created during this process. It contains the laws of heaven that no one can comprehend.</size>",
+  "en": "You can always revive yourself as long as you have Bagua Jade Points. The Jade can be separated into two, and you could give the other half to another person. Thus, you two could care for each other's lives during the journey.",
   "pt": ""
  },
  "intoGame_text18": {
   "ch": "在盘古开天之际，宇宙中的混沌之息逐渐化为天地之气，双鱼佩便是在这个过程中衍生而来的至宝！双鱼佩中拥有着无人能够参悟的天道法则，具体功效无人知晓。",
-  "en": "<size=20>You can always revive yourself as long as you have Bagua Jade Points. The Jade can be separated into two, and you could give the other half to another person. Thus, you two could care for each other's lives during the journey.</size>",
+  "en": "The universe was complete chaos until Pangu separated the sky from the earth, and the Bagua Jade was created during this process. It contains the laws of heaven that no one can comprehend.",
   "pt": ""
  },
  "intoGame_text19": {
@@ -14106,12 +14106,12 @@
  },
  "intoGame_text20": {
   "ch": "上古鸿蒙至宝，可以将妖兽收入其中炼化其凶性，并使其获得灵智供你差遣。",
-  "en": "<size=20>Existing from the beginning of time, this artifact can absorb monsters into it and refine them. After refining, the monsters will be intelligent and will follow your order.</size>",
+  "en": "Existing from the beginning of time, this artifact can absorb monsters into it and refine them. After refining, the monsters will be intelligent and will follow your order.",
   "pt": ""
  },
  "intoGame_text21": {
   "ch": "此物据说乃是元始天尊得道前所使用的法器，能够炼化妖物为己所用。",
-  "en": "<size=20>It's said to be the artifact of Yuanshi Tianzun, the Lord of Primordial Beginning, before he became an immortal. Its owner can refine monsters in it for future uses. Some rare monsters can even achieve human form.</size>",
+  "en": "It's said to be the artifact of Yuanshi Tianzun, the Lord of Primordial Beginning, before he became an immortal. Its owner can refine monsters in it for future uses.",
   "pt": ""
  },
  "intoGame_text22": {
@@ -14261,7 +14261,7 @@
  },
  "itemType_lianqi": {
   "ch": "炼器",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "itemType_lingguo": {
@@ -14581,42 +14581,42 @@
  },
  "letterContent207": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办入门弟子选拔小比，选择{2}名优秀的新人加入宗门！",
-  "en": "For the long-term development of {0}, our sect has decided to hold an entry-level disciple competition in <y>{1} months</y> to select {2} outstanding newcomers to join the sect!",
+  "en": "To further develop {0}, we've decided to hold Sect Tryouts in <y>{1} months</y>. {2} people will be chosen to join our sect!",
   "pt": ""
  },
  "letterContent208": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办外门弟子晋升小比，选择{2}名优秀的外门弟子晋升为内门弟子！",
-  "en": "In order to promote the long-term development of {0}, our sect has decided to hold the promotion trial for Outer Disciples in <y>{1} months</y>. We will select {2} outstanding outer disciples to be promoted as Inner Disciples!",
+  "en": "To further develop {0}, we've decided to hold Promotion Duels (Disciple) in <y>{1} months</y>. {2} members will be promoted to Initiate!",
   "pt": ""
  },
  "letterContent209": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办内门弟子晋升小比，选择{2}名优秀的内门弟子晋升为真传弟子！",
-  "en": "In order to promote the long-term development of {0}, our sect has decided to hold the promotion trial for Inner Disciples in <y>{1} months</y>. We will select {2} outstanding Inner Disciples to be promoted as True Disciples!",
+  "en": "To further develop {0}, we've decided to hold Promotion Duels (True Disciple) in <y>{1} months</y>. {2} members will be promoted to Disciple!",
   "pt": ""
  },
  "letterContent210": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办真传弟子晋升比试，选择{2}名优秀的真传弟子晋升为长老！",
-  "en": "In order to promote the long-term development of {0}, our sect has decided to hold the promotion trial for True Disciples in <y>{1} months</y>. We will select {2} outstanding True Disciples to be promoted as Elders!",
+  "en": "To further develop {0}, we've decided to hold Promotion Duels (Elder) in <y>{1} months</y>. {2} members will be promoted to Elder!",
   "pt": ""
  },
  "letterContent211": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办长老晋升比试，选择{2}名优秀的长老晋升为大长老！",
-  "en": "In order to promote the long-term development of {0}, our sect has decided to hold the promotion trial for Elders in <y>{1} months</y>. We will select {2} outstanding Elders to be promoted as Grand Elders!",
+  "en": "To further develop {0}, we've decided to hold Promotion Duels (Grand Elder) in <y>{1} months</y>. {2} members will be promoted to Grand Elder!",
   "pt": ""
  },
  "letterContent221": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办外门弟子选拔小比，选择{2}名优秀的新人加入宗门！",
-  "en": "For the long-term development of {0}, our sect has decided to hold an outer disciple competition in <y>{1} months</y> to select {2} outstanding newcomers to join the sect!",
+  "en": "To further develop {0}, we've decided to hold Sect Tryouts in <y>{1} months</y>. {2} members will be chosen to join our sect!",
   "pt": ""
  },
  "letterContent222": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办内门弟子晋升小比，选择{2}名优秀的外门弟子晋升为内门弟子！",
-  "en": "In order to promote the long-term development of {0}, our sect has decided to hold the promotion trial for Outer Disciples in <y>{1} months</y>. We will select {2} outstanding Outer Disciples to be promoted as Inner Disciples!",
+  "en": "To further develop {0}, we've decided to hold Promotion Duel (Disciple) in <y>{1} months</y>. {2} members will be promoted to Disciple!",
   "pt": ""
  },
  "letterContent223": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办真传弟子晋升小比，选择优秀的外门及内门弟子晋升为真传弟子！",
-  "en": "In order to promote the long-term development of {0}, our sect has decided to hold the promotion trial for Inner Disciples in <y>{1} months</y>. We will select {2} outstanding Inner Disciples to be promoted as True Disciples!",
+  "en": "To further develop {0}, we've decided to hold Promotion Duel (True Disciple) in <y>{1} months</y>. Members will be promoted to True Disciple!",
   "pt": ""
  },
  "letterContent224": {
@@ -14726,52 +14726,52 @@
  },
  "letterTitle207": {
   "ch": "入门小比通知",
-  "en": "Notification for Entry Level Competition",
+  "en": "Notice: Sect Tryouts",
   "pt": ""
  },
  "letterTitle208": {
   "ch": "外门小比通知",
-  "en": "Notice: Promotion Trial (Inner Disciple)",
+  "en": "Notice: Promotion Duel (Disciple)",
   "pt": ""
  },
  "letterTitle209": {
   "ch": "内门小比通知",
-  "en": "Notice: Promotion Trial (True Disciple)",
+  "en": "Notice: Promotion Duel (True Disciple)",
   "pt": ""
  },
  "letterTitle210": {
   "ch": "真传比试通知",
-  "en": "Notice: Promotion Trial (Elder)",
+  "en": "Notice: Promotion Duel (Elder)",
   "pt": ""
  },
  "letterTitle211": {
   "ch": "长老比试通知",
-  "en": "Notice: Promotion Trial (Grand Elder)",
+  "en": "Notice: Promotion Duel (Grand Elder)",
   "pt": ""
  },
  "letterTitle221": {
   "ch": "入门小比通知",
-  "en": "Notification for Entry Level Competition",
+  "en": "Notice: Sect Tryouts",
   "pt": ""
  },
  "letterTitle222": {
   "ch": "外门小比通知",
-  "en": "Notice: Promotion Trial (Inner Disciple)",
+  "en": "Notice: Promotion Duel (Disciple)",
   "pt": ""
  },
  "letterTitle223": {
   "ch": "内门小比通知",
-  "en": "Notice: Promotion Trial (True Disciple)",
+  "en": "Notice: Promotion Duel (True Disciple)",
   "pt": ""
  },
  "letterTitle224": {
   "ch": "真传大比通知",
-  "en": "Notice: Promotion Trial (Elder)",
+  "en": "Notice: Promotion Duel (Elder)",
   "pt": ""
  },
  "letterTitle225": {
   "ch": "长老大比比试通知",
-  "en": "Notice: Promotion Trial (Grand Elder)",
+  "en": "Notice: Promotion Duel (Grand Elder)",
   "pt": ""
  },
  "letterTitle226": {
@@ -14896,7 +14896,7 @@
  },
  "lianqi_text1": {
   "ch": "炼制器形",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "lianqi_text10": {
@@ -15506,7 +15506,7 @@
  },
  "loading_text22": {
   "ch": "加入宗门时，需要进行入门小比，通过比试之后才能正式加入宗门。",
-  "en": "When joining a sect, you need to participate in the entry-level competition. Only after passing the competition can you officially join the sect.",
+  "en": "You must pass the Sect Tryouts before you can join a sect.",
   "pt": ""
  },
  "loading_text23": {
@@ -15591,7 +15591,7 @@
  },
  "loading_text38": {
   "ch": "金丹境以上的大能，即使被击杀也会残留一丝元魂，若其能获得丹药，则能重塑肉身。",
-  "en": "If someone with power above the golden core is killed, there will be a trace of original soul left. If you can obtain a elixir, it can reshape the physical body.",
+  "en": "Cultivators in Golden Core (IV) and above will leave a Last Breath after they were killed, and may be revived with certain elixirs.",
   "pt": ""
  },
  "loading_text39": {
@@ -15626,7 +15626,7 @@
  },
  "loading_text44": {
   "ch": "切勿吞食元阳丹！",
-  "en": "Don't swallow Lustrous Yang Elixir!",
+  "en": "Do not take Lustrous Yang Elixir!",
   "pt": ""
  },
  "loading_text5": {
@@ -15641,7 +15641,7 @@
  },
  "loading_text7": {
   "ch": "在战斗中使用技能可提升该技能的修炼阶段。",
-  "en": "There are 12 skill levels, ranging from Qi Refining to Transcendent.",
+  "en": "Using a skill in combat will also upgrade it.",
   "pt": ""
  },
  "loading_text8": {
@@ -15906,7 +15906,7 @@
  },
  "log_lianqi": {
   "ch": "炼器次数",
-  "en": "Refining Count",
+  "en": "Forge",
   "pt": ""
  },
  "log_lundao": {
@@ -15991,7 +15991,7 @@
  },
  "login_artBook": {
   "ch": "八荒博物志",
-  "en": "<size=17> BaHuang Chronicle</size>",
+  "en": "Archive of the Realm",
   "pt": ""
  },
  "login_buding50": {
@@ -16026,7 +16026,7 @@
  },
  "login_ningjuroushen": {
   "ch": "正在凝聚肉身\\t还有{0}小时{1}分{2}秒",
-  "en": "Reconstructing body...\tTime remaining {0}:{1}:{2}",
+  "en": "Reconstructing body...\\tTime remaining {0}:{1}:{2}",
   "pt": ""
  },
  "login_qiyuntishi": {
@@ -16126,12 +16126,12 @@
  },
  "lotusSwordEffect1": {
   "ch": "使用剑系身法期间，光莲能持续回复体力，且每隔一段时间可获得1层闪避，持续一定时间，闪避可叠加数层。（筑基境解锁）",
-  "en": "The Radiant Lotus grants constant Vitality restoration in the duration of Sword Motion Skills. At the same time, the Radiant Lotus also grants 1 stackable Dodge at intervals that will last for a certain time. (Unlocks at Foundation)",
+  "en": "The Radiant Lotus grants constant Vitality restoration in the duration of Sword Motion Skills. (Unlocks at Foundation)",
   "pt": ""
  },
  "lotusSwordEffect11": {
   "ch": "使用剑系身法期间，光莲能持续回复体力，且每隔一段时间可获得1层闪避，持续一定时间，闪避可叠加数层。",
-  "en": "The Radiant Lotus grants constant Vitality restoration in the duration of Sword Motion Skills. At the same time, the Radiant Lotus also grants 1 stackable Dodge at intervals that will last for a certain time.",
+  "en": "The Radiant Lotus grants constant Vitality restoration in the duration of Sword Motion Skills.",
   "pt": ""
  },
  "lotusSwordEffect2": {
@@ -17271,7 +17271,7 @@
  },
  "map_xiulian": {
   "ch": "修炼",
-  "en": " Time",
+  "en": "Cultivation",
   "pt": ""
  },
  "map_yaocai": {
@@ -17801,7 +17801,7 @@
  },
  "modEnum10001EnumDesc1": {
   "ch": "先天气运会增加此气运到创建角色的气运随机池。",
-  "en": "Destiny (Nature) will add this Destiny to the created character's random Destiny pool.",
+  "en": "Destiny (Nature) will add this Destiny to the created character’s random Destiny pool.",
   "pt": ""
  },
  "modEnum10001EnumDesc2": {
@@ -17871,17 +17871,17 @@
  },
  "modEnum10006EnumDesc1": {
   "ch": "修改玩家的属性，当气运消失后，改变的属性会还原。",
-  "en": "Change player's stats, and when the Destiny disappears the changed stats will be restored.",
+  "en": "Change player’s stats, and when the Destiny disappears the changed stats will be restored.",
   "pt": ""
  },
  "modEnum10006EnumDesc101": {
   "ch": "立刻增减玩家的属性，不会还原。",
-  "en": "Immediately increase or decrease the player's stats. Won't be restored.",
+  "en": "Immediately increase or decrease the player’s stats. Won’t be restored.",
   "pt": ""
  },
  "modEnum10006EnumDesc2": {
   "ch": "锁定玩家的属性到某个值，当气运消失后，锁定的值会还原。",
-  "en": "Lock the player's stats to a certain value. When the Destiny disappears, the locked value is restored.",
+  "en": "Lock the player’s stats to a certain value. When the Destiny disappears, the locked value is restored.",
   "pt": ""
  },
  "modEnum10006EnumDesc3": {
@@ -18016,12 +18016,12 @@
  },
  "modEnum10079EnumDesc2": {
   "ch": "丹药类型，可以使用角色效果功能，配置加血、加魅力等功能。",
-  "en": "Elixir type, can use character effect function, configure functions such as healing and increasing charm.",
+  "en": "Elixir type. Can use character effect to configure health recovery, increase in Charisma, and other functions.",
   "pt": ""
  },
  "modEnum10079EnumDesc3": {
   "ch": "书籍类型，一般用于讲述剧情，道具可以打开，打开后会有一本书显示文本内容。",
-  "en": "Book type. Generally used to describe the plot. Item can be opened, and a book will display text content after it's opened.",
+  "en": "Book type. Generally used to describe the plot. Item can be opened, and a book will display text content after it’s opened.",
   "pt": ""
  },
  "modEnum10079EnumDesc4": {
@@ -18451,7 +18451,7 @@
  },
  "movebukeyidong": {
   "ch": "不可移动到此位置",
-  "en": "Cannot move to this location",
+  "en": "不可移动到此位置",
   "pt": ""
  },
  "muOu": {
@@ -19186,7 +19186,7 @@
  },
  "playerInfo_jinengtishi1": {
   "ch": "注：拖动心法图标进行装备；有些心法需要较高的道点",
-  "en": "Drag the icon of a Mind Skill to equip it.",
+  "en": "Note: Drag the icon of a Mind Skill to equip it. Some Mind Skills require high Skill Points.",
   "pt": ""
  },
  "playerInfo_jinengtishi2": {
@@ -19296,7 +19296,7 @@
  },
  "playerInfo_lianqi": {
   "ch": "炼器",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "playerInfo_linggenzizhi": {
@@ -20451,27 +20451,27 @@
  },
  "pub_rune1": {
   "ch": "符箓奇闻-之一",
-  "en": "Story of Charms I",
+  "en": "Story of Charms, Part I",
   "pt": ""
  },
  "pub_rune2": {
   "ch": "符箓奇闻-之二",
-  "en": "Story of Charms II",
+  "en": "Story of Charms, Part II",
   "pt": ""
  },
  "pub_rune3": {
   "ch": "符箓奇闻-之三",
-  "en": "Story of Charms III",
+  "en": "Story of Charms, Part III",
   "pt": ""
  },
  "pub_rune4": {
   "ch": "符箓奇闻-之四",
-  "en": "Story of Charms IV",
+  "en": "Story of Charms, Part IV",
   "pt": ""
  },
  "pub_rune5": {
   "ch": "符箓奇闻-之五",
-  "en": "Story of Charms V",
+  "en": "Story of Charms, Part V",
   "pt": ""
  },
  "pub_text1": {
@@ -21781,72 +21781,72 @@
  },
  "runNPCGoalTip": {
   "ch": "正在努力修炼",
-  "en": " is practicing hard...",
+  "en": "Busy cultivating",
   "pt": ""
  },
  "runNPCGoalTip_aiqing": {
   "ch": "正在追求爱情……",
-  "en": " is looking for love...",
+  "en": "Pursuing romantic affairs...",
   "pt": ""
  },
  "runNPCGoalTip_chicu": {
   "ch": "正在与道侣争吵……",
-  "en": " is debating with a Taoist companion...",
+  "en": "Quarreling with partner...",
   "pt": ""
  },
  "runNPCGoalTip_gouwu": {
   "ch": "正在坊市……",
-  "en": " is shopping...",
+  "en": "Buying items in the market...",
   "pt": ""
  },
  "runNPCGoalTip_huifu": {
   "ch": "正在休养生息……",
-  "en": " is recovering...",
+  "en": "Resting...",
   "pt": ""
  },
  "runNPCGoalTip_jiaotan": {
   "ch": "正在结识修仙者……",
-  "en": " is making friends with Immortal Cultivators...",
+  "en": "Meeting cultivators...",
   "pt": ""
  },
  "runNPCGoalTip_lundao": {
   "ch": "正在试图证道……",
-  "en": " is trying to prove...",
+  "en": "Trying to prove beliefs...",
   "pt": ""
  },
  "runNPCGoalTip_miji": {
   "ch": "正在参悟秘籍……",
-  "en": " is practicing skills...",
+  "en": "Learning manuals...",
   "pt": ""
  },
  "runNPCGoalTip_tupo": {
   "ch": "正在突破境界……",
-  "en": " is breakingthrough the limits...",
+  "en": "Making breakthrough...",
   "pt": ""
  },
  "runNPCGoalTip_xiulian": {
   "ch": "正在闭关修炼……",
-  "en": " is seriously practicing...",
+  "en": "Cultivating in seclusion...",
   "pt": ""
  },
  "runNPCGoalTip_xuexi": {
   "ch": "正在静心研习……",
-  "en": " is trying to learn...",
+  "en": "Studying earnestly...",
   "pt": ""
  },
  "runNPCGoalTip_xunchou": {
   "ch": "正在了结恩怨……",
-  "en": " is looking for revenge...",
+  "en": "Solving grudges...",
   "pt": ""
  },
  "runNPCGoalTip_zhuren": {
   "ch": "正在帮助他人……",
-  "en": " is helping others...",
+  "en": "Helping others...",
   "pt": ""
  },
  "runNPCGoalTip_zudui": {
   "ch": "正在与人外出探险……",
-  "en": " is sparring with friends...",
+  "en": "Adventuring with friends...",
   "pt": ""
  },
  "sWGcZPsK": {
@@ -21871,7 +21871,7 @@
  },
  "schoolAdmin_change": {
   "ch": "是否交换两人的管辖堂口",
-  "en": "Put each in charge of the other's division?",
+  "en": "Put each in charge of the other’s division?",
   "pt": ""
  },
  "schoolAdmin_change1": {
@@ -22086,47 +22086,47 @@
  },
  "schoolBuildingName1001": {
   "ch": "议事大厅",
-  "en": "COUNCIL HALL",
+  "en": "Council Hall",
   "pt": ""
  },
  "schoolBuildingName1002": {
   "ch": "藏经阁",
-  "en": "MANUAL LIBRARY",
+  "en": "Manual Library",
   "pt": ""
  },
  "schoolBuildingName1003": {
   "ch": "任务大厅",
-  "en": "MISSION HALL",
+  "en": "Mission Hall",
   "pt": ""
  },
  "schoolBuildingName1004": {
   "ch": "演武堂",
-  "en": "MARTIAL ARTS HALL",
+  "en": "Martial Arts Hall",
   "pt": ""
  },
  "schoolBuildingName1005": {
   "ch": "疗伤院",
-  "en": "HOSPITAL",
+  "en": "Hospital",
   "pt": ""
  },
  "schoolBuildingName1006": {
   "ch": "灵阁",
-  "en": "SPIRIT PAVILION",
+  "en": "Spirit Pavilion",
   "pt": ""
  },
  "schoolBuildingName1007": {
   "ch": "传送阵",
-  "en": "PORTAL",
+  "en": "Portal",
   "pt": ""
  },
  "schoolBuildingName1008": {
   "ch": "建木",
-  "en": "TREE VAULT",
+  "en": "Tree Vault",
   "pt": ""
  },
  "schoolBuildingName1009": {
   "ch": "演武场",
-  "en": "MARTIAL ARTS ARENA",
+  "en": "Martial Arts Arena",
   "pt": ""
  },
  "schoolBuildingName1010": {
@@ -22136,37 +22136,37 @@
  },
  "schoolBuildingName1101": {
   "ch": "聚宝仙楼",
-  "en": "TREASURE PAVILION",
+  "en": "Treasure Pavilion",
   "pt": ""
  },
  "schoolBuildingName1102": {
   "ch": "神兽峰",
-  "en": "BEHEMOTH PEAKS",
+  "en": "Behemoth Peaks",
   "pt": ""
  },
  "schoolBuildingName1103": {
   "ch": "娲皇祭坛",
-  "en": "EMPEROR WA'S ALTAR",
+  "en": "娲皇祭坛",
   "pt": ""
  },
  "schoolBuildingName1104": {
   "ch": "修炼圣地",
-  "en": "HOLY LAND",
+  "en": "修炼圣地",
   "pt": ""
  },
  "schoolBuildingName1109": {
   "ch": "灵台",
-  "en": "SPIRIT PLATFORM",
+  "en": "Spirit Platform",
   "pt": ""
  },
  "schoolBuildingName1110": {
   "ch": "烽火台",
-  "en": "BEACON PLATFORM",
+  "en": "Beacon Platform",
   "pt": ""
  },
  "schoolBuildingName1112": {
   "ch": "青鳞池",
-  "en": "GREENSCALE SPRING",
+  "en": "Greenscale Spring",
   "pt": ""
  },
  "schoolGetSoul_Tip": {
@@ -22396,47 +22396,47 @@
  },
  "schoolLogSub102": {
   "ch": "其中<color=#745000>{1}</color>名外门弟子在执行任务时遭遇了意外而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{1}</color> outer disciple encountered an accident and <color=#6F0000>fell</color> while on a mission.",
+  "en": "<color=#745000>{1}</color> Initiate Disciples <color=#6F0000>died</color> from accidents while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLogSub104": {
   "ch": "其中<color=#745000>{1}</color>名外门弟子在执行任务时被怪物所伤而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{1}</color> outer disciple was injured by a monster and <color=#6F0000>fell</color> while on a mission.",
+  "en": "<color=#745000>{1}</color> Initiate Disciples were <color=#6F0000>killed</color> by monsters while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLogSub105": {
   "ch": "其中<color=#745000>{1}</color>名外门弟子在执行任务时遭遇了意外而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{1}</color> outer disciple encountered an accident and <color=#6F0000>fell</color> while on a mission.",
+  "en": "<color=#745000>{1}</color> Initiate Disciples <color=#6F0000>died</color> from accidents while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLogSub106": {
   "ch": "其中<color=#745000>{1}</color>名外门弟子在执行任务时被叛军所伤而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{1}</color> outer disciple was injured by rebels and <color=#6F0000>fell</color> while on a mission.",
+  "en": "<color=#745000>{1}</color> Initiate Disciples were <color=#6F0000>killed</color> by rebels while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLogSub107": {
   "ch": "其中<color=#745000>{2}</color>名外门弟子在护送过程中遭遇劫匪的袭击而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{2}</color> outer disciples were attacked by bandits during an escort and <color=#6F0000>fell</color>.",
+  "en": "<color=#745000>{2}</color> Initiate Disciples were <color=#6F0000>killed</color> by bandits while delivering items.",
   "pt": ""
  },
  "schoolLogSub108": {
   "ch": "其中<color=#745000>{1}</color>名外门弟子在占领领地时受到怪物袭击而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{1}</color> outer disciple was attacked by monsters while occupying territory and <color=#6F0000>fell</color>.",
+  "en": "<color=#745000>{1}</color> Initiate Disciples were <color=#6F0000>killed</color> by monsters while garrisoned at the sect territory.",
   "pt": ""
  },
  "schoolLogSub109": {
   "ch": "其中<color=#745000>{2}</color>名外门弟子在执行任务时被敌人所伤而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#745000>{2}</color> outer disciples were injured by enemies while on a mission and <color=#6F0000>fell</color>.",
+  "en": "<color=#745000>{2}</color> Initiate Disciples were <color=#6F0000>killed</color> by enemies while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLogSub111": {
   "ch": "其中<color=#E5AF24>{1}</color>名外门弟子在执行任务时遭遇了意外而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#E5AF24>{1}</color> outer disciple encountered an accident and <color=#6F0000>fell</color> while on a mission.",
+  "en": "<color=#E5AF24>{1}</color> Initiate Disciples <color=#6F0000>died</color> from accidents while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLogSub112": {
   "ch": "其中<color=#E5AF24>{1}</color>名外门弟子在执行任务时被妖物所伤而<color=#6F0000>陨落</color>。",
-  "en": "Among them, <color=#E5AF24>{1}</color> outer disciple was injured by demons and <color=#6F0000>fell</color> while on a mission.",
+  "en": "<color=#E5AF24>{1}</color> Initiate Disciples were <color=#6F0000>killed</color> by monsters while carrying out Sect Missions.",
   "pt": ""
  },
  "schoolLog_shuxingzengjia": {
@@ -22486,7 +22486,7 @@
  },
  "schoolMainHall_neimendizhi": {
   "ch": "内门弟子：",
-  "en": "Inner Disciple:",
+  "en": "Disciple:",
   "pt": ""
  },
  "schoolMainHall_renshu": {
@@ -22501,7 +22501,7 @@
  },
  "schoolMainHall_waimendizhi": {
   "ch": "外门弟子：",
-  "en": "Outer Disciple:",
+  "en": "Initiate:",
   "pt": ""
  },
  "schoolMainHall_weiwang": {
@@ -22516,7 +22516,7 @@
  },
  "schoolMainHall_zhenchuandizhi": {
   "ch": "真传弟子：",
-  "en": "True Disciples:",
+  "en": "True Disciple:",
   "pt": ""
  },
  "schoolMainHall_zhengdao": {
@@ -22786,7 +22786,7 @@
  },
  "schoolNameFirstFinal64": {
   "ch": "斩",
-  "en": "Cutting ",
+  "en": "Slash ",
   "pt": ""
  },
  "schoolNameFirstFinal65": {
@@ -22796,12 +22796,12 @@
  },
  "schoolNameFirstFinal66": {
   "ch": "苍",
-  "en": "Cerulean ",
+  "en": "Gray ",
   "pt": ""
  },
  "schoolNameFirstFinal67": {
   "ch": "绛",
-  "en": "Scarlet ",
+  "en": "Dense ",
   "pt": ""
  },
  "schoolNameFirstFinal68": {
@@ -22816,7 +22816,7 @@
  },
  "schoolNameFirstFinal70": {
   "ch": "灵",
-  "en": "Spirit ",
+  "en": "Sharp ",
   "pt": ""
  },
  "schoolNameFirstFinal71": {
@@ -22891,7 +22891,7 @@
  },
  "schoolNameSecondFinal51": {
   "ch": "衍",
-  "en": "Origin",
+  "en": "Flow",
   "pt": ""
  },
  "schoolNameSecondFinal52": {
@@ -22901,12 +22901,12 @@
  },
  "schoolNameSecondFinal53": {
   "ch": "幻",
-  "en": "Illusion",
+  "en": "Mirages",
   "pt": ""
  },
  "schoolNameSecondFinal54": {
   "ch": "玄",
-  "en": "Secret",
+  "en": "Myths",
   "pt": ""
  },
  "schoolNameSecondFinal64": {
@@ -22916,7 +22916,7 @@
  },
  "schoolNameSecondFinal65": {
   "ch": "星",
-  "en": "Star",
+  "en": "Stars",
   "pt": ""
  },
  "schoolNameSecondFinal66": {
@@ -22941,12 +22941,12 @@
  },
  "schoolNameSecondFinal70": {
   "ch": "霄",
-  "en": "Rim",
+  "en": "Horizon",
   "pt": ""
  },
  "schoolNameSecondFinal71": {
   "ch": "霄",
-  "en": "Rim",
+  "en": "Horizon",
   "pt": ""
  },
  "schoolPointMainLobby_MenberTitle": {
@@ -23006,17 +23006,17 @@
  },
  "schoolPostName5": {
   "ch": "内门弟子",
-  "en": "Inner Disciple",
+  "en": "Disciple",
   "pt": ""
  },
  "schoolPostName6": {
   "ch": "外门弟子",
-  "en": "Outer Disciple",
+  "en": "Initiate",
   "pt": ""
  },
  "schoolPostName7": {
   "ch": "入门弟子",
-  "en": "Outer Disciple",
+  "en": "Novice",
   "pt": ""
  },
  "schoolPost_canUpPost": {
@@ -24246,337 +24246,337 @@
  },
  "schoolSloganDesc141": {
   "ch": "具有用于培养跟屁虫的专属建筑青鳞池。",
-  "en": "An exclusive building called Greenscale Spring that is used to nurture Following Bug",
+  "en": "An exclusive building called Greenscale Spring that is used to nurture Following Bug.",
   "pt": ""
  },
  "schoolSloganDesc142": {
   "ch": "突破时必定会出现跟屁虫系列逆天改命。",
-  "en": "When a breakthrough occurs, it guarantees the Nurtured Destiny Following Bug Series",
+  "en": "When there is Breakthrough, Following Bug Series Rewrite Destiny is guaranteed to appear.",
   "pt": ""
  },
  "schoolSloganDesc143": {
   "ch": "禁止在其他宗门领地内谈论我方宗门。",
-  "en": "Discussion of our Sect is prohibited in territories belonging to other Sects",
+  "en": "Forbidden to talk about our Sect when in other Sect territories.",
   "pt": ""
  },
  "schoolSloganDesc144": {
   "ch": "禁止宗主领取俸禄。",
-  "en": "Prohibited for the Sect Leader to receive wages",
+  "en": "Forbidden for Sect Leader to claim wages.",
   "pt": ""
  },
  "schoolSloganDesc211": {
   "ch": "宗门的安定度下降速度更慢",
-  "en": "The decrease in sect stability occurs at a slower pace",
+  "en": "The Stability of the Sect decreases more slowly",
   "pt": ""
  },
  "schoolSloganDesc212": {
   "ch": "更容易发现敌对宗门进入我宗的人",
-  "en": "Enhance the ability to identify individuals belonging to opposing sects within our own sect",
+  "en": "Spot people from enemy Sects more easily within the Sect",
   "pt": ""
  },
  "schoolSloganDesc213": {
   "ch": "宗门大阵的损耗率更低",
-  "en": "Mitigate losses of the Sect array",
+  "en": "Lower losses from the Sect array",
   "pt": ""
  },
  "schoolSloganDesc214": {
   "ch": "宗门弟子间切磋获得的收获更多",
-  "en": "Engaging in sparring sessions among Sect Disciples yields enhanced rewards.",
+  "en": "Sparring between Sect Disciples give greater rewards",
   "pt": ""
  },
  "schoolSloganDesc215": {
   "ch": "禁止和夫妻、道侣以外的人双修",
-  "en": "Prohibited: Engaging in Dual Cultivation with individuals other than one's spouse or partner",
+  "en": "Forbidden: Dual Cultivation outside of Spouses or Partners",
   "pt": ""
  },
  "schoolSloganDesc216": {
   "ch": "禁止与其他宗门的人谈论仇人",
-  "en": "Prohibited: Gossipping about adversaries with members beloning to other Sects",
+  "en": "Forbidden: Gossiping about enemies with other Sects",
   "pt": ""
  },
  "schoolSloganDesc217": {
   "ch": "禁止攻击友方宗门弟子",
-  "en": "Prohibited: Engaging in hostilities against members of sects that hold positive relations",
+  "en": "Forbidden: Attacking members of friendly Sects",
   "pt": ""
  },
  "schoolSloganDesc218": {
   "ch": "禁止在敌方领地内堪舆",
-  "en": "Prohibited: Casting Geomancy on adversary Sect territories",
+  "en": "Forbidden: Geomancy on enemy Sect territories",
   "pt": ""
  },
  "schoolSloganDesc221": {
   "ch": "宗门名誉提升得更快",
-  "en": "Sect Prestige rises at an accelerated pace",
+  "en": "Sect Prestige increases more quickly",
   "pt": ""
  },
  "schoolSloganDesc222": {
   "ch": "在敌对宗门的领地时更容易安全离开",
-  "en": "Higher chance of safely leaving when present in territories controlled by enemy Sects",
+  "en": "Higher chance of leaving safely when in enemy Sect territory",
   "pt": ""
  },
  "schoolSloganDesc223": {
   "ch": "宗门弟子间论道获得的收获更多",
-  "en": "Greater rewards unfold from engaging in debates among disciples",
+  "en": "More rewards from Debates between Disciples",
   "pt": ""
  },
  "schoolSloganDesc224": {
   "ch": "城镇悬赏榜的任务奖励更丰厚",
-  "en": "The Bounty Board Missions offer more generous rewards",
+  "en": "More generous rewards from Bounty Board Missions",
   "pt": ""
  },
  "schoolSloganDesc225": {
   "ch": "禁止与敌对立场的人切磋",
-  "en": "Prohibited: Engaging in a spar with an individual from the opposing Path",
+  "en": "Forbidden: Sparring with a person from the hostile position",
   "pt": ""
  },
  "schoolSloganDesc226": {
   "ch": "禁止与其他宗门的人谈论仇人",
-  "en": "Prohibited: Engaging in discussions about adversaries with members from other Sects",
+  "en": "Forbidden: Gossiping about enemies with other Sects",
   "pt": ""
  },
  "schoolSloganDesc227": {
   "ch": "禁止偷窃相同立场的人",
-  "en": "Prohibited: Stealing from individuals of the same Path",
+  "en": "Forbidden: Stealing from people in similar positions.",
   "pt": ""
  },
  "schoolSloganDesc228": {
   "ch": "禁止攻击有好感度的角色",
-  "en": "Prohibited: Engaging in hostile actions towards individuals who hold positive feelings for you",
+  "en": "Forbidden: Attacking characters with positive Affinity",
   "pt": ""
  },
  "schoolSloganDesc311": {
   "ch": "在本宗灵阁内修炼的速度更快",
-  "en": "The Spirit Pavilion of the Sect offers an expedited cultivation process",
+  "en": "Cultivation is quicker in the Spirit Pavilion of the Sect",
   "pt": ""
  },
  "schoolSloganDesc312": {
   "ch": "在敌对宗门的领地时更容易安全离开",
-  "en": "Higher chance of safely leaving when present in territories controlled by enemy Sects",
+  "en": "Higher chance of leaving safely when in enemy Sect territory",
   "pt": ""
  },
  "schoolSloganDesc313": {
   "ch": "与敌对宗门的关系更容易好转",
-  "en": "Develop stronger connections with members of hostile sects",
+  "en": "Easier to deepen relationship with hostile Sects",
   "pt": ""
  },
  "schoolSloganDesc314": {
   "ch": "资源点被掠夺时损失更少",
-  "en": "Reduced losses occur when resource points are looted",
+  "en": "Less losses when resource points are looted",
   "pt": ""
  },
  "schoolSloganDesc315": {
   "ch": "禁止与敌对宗门的人谈论自己的宗门",
-  "en": "Prohibited: Gossipping about the Sect with members beloning to other Sects",
+  "en": "Forbidden: Gossiping with hostile Sects about the Sect",
   "pt": ""
  },
  "schoolSloganDesc316": {
   "ch": "禁止与敌对立场的人缔结亲族关系",
-  "en": "Prohibited: Forming family ties with individuals belonging to hostile Sects",
+  "en": "Forbidden: Establishing familial relations with members of hostile Sects",
   "pt": ""
  },
  "schoolSloganDesc317": {
   "ch": "禁止在我方宗门领地内偷窃",
-  "en": "Prohibited: Theft within one's own Sect Territory",
+  "en": "Forbidden: Theft on own Sect Territory",
   "pt": ""
  },
  "schoolSloganDesc318": {
   "ch": "禁止与其他宗门之人谈论仇人",
-  "en": "Prohibited: Gossipping about adversaries with members beloning to other Sects",
+  "en": "Forbidden: Gossiping about enemies with other Sects",
   "pt": ""
  },
  "schoolSloganDesc321": {
   "ch": "其他宗门更容易对我宗产生好感度",
-  "en": "Develop stronger connections with members of other sects",
+  "en": "Other Sects have Affinity for the Sect more easily",
   "pt": ""
  },
  "schoolSloganDesc322": {
   "ch": "与敌对宗门的关系更容易好转",
-  "en": "Develop stronger connections with members of hostile sects",
+  "en": "Easier to deepen relationship with hostile Sects",
   "pt": ""
  },
  "schoolSloganDesc323": {
   "ch": "弟子执行任务时死亡率更低",
-  "en": "Reduced fatality rates for Disciples on missions",
+  "en": "Chance of Disciples dying while on Missions reduced",
   "pt": ""
  },
  "schoolSloganDesc324": {
   "ch": "宗门弟子间论道获得的收获更多",
-  "en": "Greater rewards unfold from engaging in debates among disciples",
+  "en": "More rewards from Debates between Sect Disciples",
   "pt": ""
  },
  "schoolSloganDesc325": {
   "ch": "禁止在我方宗门领地内偷窃",
-  "en": "Prohibited: Theft within one's own Sect Territory",
+  "en": "Forbidden: Theft on own Sect Territory",
   "pt": ""
  },
  "schoolSloganDesc326": {
   "ch": "禁止与敌对立场的人缔结亲族关系",
-  "en": "Prohibited: Forming family ties with individuals belonging to hostile Sects",
+  "en": "Forbidden: Establishing familial relations with members of hostile Sects",
   "pt": ""
  },
  "schoolSloganDesc327": {
   "ch": "禁止与其他敌对立场的人谈论宗门",
-  "en": "Prohibited: Engaging in conversation with individuals of the opposite Path regarding the Sect",
+  "en": "Forbidden: Talking with hostile positions about the Sect",
   "pt": ""
  },
  "schoolSloganDesc328": {
   "ch": "禁止向敌对立场的人索取物品",
-  "en": "Prohibited: Seeking items from individuals of the opposing Path",
+  "en": "Forbidden: Requesting items from hostile positions",
   "pt": ""
  },
  "schoolSloganDesc411": {
   "ch": "弟子进行宗门任务的成功率会更高",
-  "en": "Disciples have a higher success rate in accomplishing missions ",
+  "en": "Higher Sect Mission success rate for Disciples",
   "pt": ""
  },
  "schoolSloganDesc412": {
   "ch": "每月刷新的任务数量更多",
-  "en": "Additional monthly missions",
+  "en": "More monthly refreshed Missions",
   "pt": ""
  },
  "schoolSloganDesc413": {
   "ch": "弟子执行任务时死亡率更低",
-  "en": "Reduced fatality rates for Disciples on missions",
+  "en": "Lower fatality rate on Missions for Disciples",
   "pt": ""
  },
  "schoolSloganDesc414": {
   "ch": "宗门任务的奖励更加丰厚",
-  "en": "The rewards offered for completing missions in Sect are more generous",
+  "en": "Sect Mission rewards are more generous",
   "pt": ""
  },
  "schoolSloganDesc415": {
   "ch": "禁止赠送物品给敌对立场的人",
-  "en": "Prohibited: Offering presents to individuals of the opposite Path",
+  "en": "Forbidden: Gifting items to the hostile position",
   "pt": ""
  },
  "schoolSloganDesc416": {
   "ch": "禁止在敌方宗门领地内双修",
-  "en": "Prohibited: Engaging in Dual Cultivation within enemy Sect's territory",
+  "en": "Forbidden: Dual Cultivation on enemy Sect territory",
   "pt": ""
  },
  "schoolSloganDesc417": {
   "ch": "禁止偷窃相同立场的人",
-  "en": "Prohibited: Committing theft against individuals within the same Path",
+  "en": "Forbidden: Stealing from people of the same position",
   "pt": ""
  },
  "schoolSloganDesc418": {
   "ch": "禁止攻击有好感度的角色",
-  "en": "Prohibited: Attacking individuals who have a positive attitude towards you",
+  "en": "Forbidden: Attacking characters with positive Affinity",
   "pt": ""
  },
  "schoolSloganDesc421": {
   "ch": "从资源点中获取资源的效率更高",
-  "en": "Increase the efficiency of resource collection from resource points",
+  "en": "Higher efficiency in gaining resources from resource points",
   "pt": ""
  },
  "schoolSloganDesc422": {
   "ch": "宗门弟子的精力更加充沛",
-  "en": "The stamina of the disciples of the sect increase",
+  "en": "Stamina of Sect Disciples increased",
   "pt": ""
  },
  "schoolSloganDesc423": {
   "ch": "与友好宗门的关系会越发亲近",
-  "en": "Develop stronger connections with members of amiable sects",
+  "en": "Become closer with friendly Sects",
   "pt": ""
  },
  "schoolSloganDesc424": {
   "ch": "宗门弟子间论道获得的收获更多",
-  "en": "Enhanced Rewards Derived from Debates Among Sect Disciples",
+  "en": "More rewards from Debates between Sect Disciples",
   "pt": ""
  },
  "schoolSloganDesc425": {
   "ch": "禁止与敌对宗门的人双修",
-  "en": "Prohibited: Engaging in Dual Cultivation with individuals of the opposite Path",
+  "en": "Forbidden: Dual Cultivation with enemy Sect",
   "pt": ""
  },
  "schoolSloganDesc426": {
   "ch": "禁止赠送物品给敌对立场的人",
-  "en": "Prohibited: Offering presents to individuals of the opposite Path",
+  "en": "Forbidden: Gifting items to the hostile position",
   "pt": ""
  },
  "schoolSloganDesc427": {
   "ch": "禁止向敌对立场的人索要物品",
-  "en": "Prohibited: Seeking items from individuals of the opposing Path",
+  "en": "Forbidden: Requesting items from hostile positions",
   "pt": ""
  },
  "schoolSloganDesc428": {
   "ch": "禁止与敌对立场的人缔结亲族关系",
-  "en": "Prohibited: Forming family ties with individuals belonging to hostile Sects",
+  "en": "Forbidden: Establishing familial relations with members of hostile Sects",
   "pt": ""
  },
  "schoolSloganDesc431": {
   "ch": "宗门弟子间切磋获得的收获更多",
-  "en": "Engaging in sparring sessions among Sect Disciples yields enhanced rewards.",
+  "en": "Sparring between Sect Disciples give greater rewards",
   "pt": ""
  },
  "schoolSloganDesc432": {
   "ch": "藏经阁产出的秘籍更多",
-  "en": "The Manual Library has more manuals available",
+  "en": "More Manuals produced by the Manual Library",
   "pt": ""
  },
  "schoolSloganDesc433": {
   "ch": "弟子执行任务时的受伤率更低",
-  "en": "Reduce the likelihood of Disciples encountering harm during their missions",
+  "en": "Lower chance of Disciples getting hurt on Missions",
   "pt": ""
  },
  "schoolSloganDesc434": {
   "ch": "领地更容易得到扩张",
-  "en": "The territory of the Sect can be expanded with greater ease",
+  "en": "Territories can be expanded more easily",
   "pt": ""
  },
  "schoolSloganDesc435": {
   "ch": "禁止与敌对立场的人双修",
-  "en": "Prohibited: Engaging in Dual Cultivation with individuals of the opposite Path",
+  "en": "Forbidden: Dual Cultivation with a person from the hostile position",
   "pt": ""
  },
  "schoolSloganDesc436": {
   "ch": "禁止攻击友方宗门弟子",
-  "en": "Prohibited: Engaging in hostilities against members of sects that hold positive relations",
+  "en": "Forbidden: Attacking Disciples of friendly Sects",
   "pt": ""
  },
  "schoolSloganDesc437": {
   "ch": "禁止向敌对立场的人索要物品",
-  "en": "Prohibited: Seeking items from individuals of the opposing Path",
+  "en": "Forbidden: Requesting items from hostile positions",
   "pt": ""
  },
  "schoolSloganDesc438": {
   "ch": "禁止偷窃相同立场的人",
-  "en": "Prohibited: Stealing from individuals of the same Path",
+  "en": "Forbidden: Stealing from people in similar positions.",
   "pt": ""
  },
  "schoolSloganDesc441": {
   "ch": "宗门内兑换物品所需的贡献更少",
-  "en": "The Sect requires minimal contribution for item exchange",
+  "en": "Less contribution required to exchange items in the Sect",
   "pt": ""
  },
  "schoolSloganDesc442": {
   "ch": "在其他宗门的领地内更容易安全离开",
-  "en": "Higher chance of safely leaving when present in territories controlled by other Sects",
+  "en": "Higher chance of leaving safely when in other Sect territory",
   "pt": ""
  },
  "schoolSloganDesc443": {
   "ch": "宗门弟子间切磋获得的收获更多",
-  "en": "Engaging in sparring sessions among Sect Disciples yields enhanced rewards",
+  "en": "Sparring between Sect Disciples give greater rewards",
   "pt": ""
  },
  "schoolSloganDesc444": {
   "ch": "宗门领地的税收更高",
-  "en": "Increased tax revenues in the Sect's territory",
+  "en": "Higher tax gains in Sect territory",
   "pt": ""
  },
  "schoolSloganDesc445": {
   "ch": "禁止在本宗领地内挖掘坟墓",
-  "en": "Prohibited: Grave robbing within the Sect's territory",
+  "en": "Forbidden: Gravedigging in Sect territory",
   "pt": ""
  },
  "schoolSloganDesc446": {
   "ch": "禁止在我方宗门领地内偷窃",
-  "en": "Prohibited: Theft within one's own Sect Territory",
+  "en": "Forbidden: Theft on own Sect Territory",
   "pt": ""
  },
  "schoolSloganDesc447": {
   "ch": "禁止向敌方宗门的人索取",
-  "en": "Prohibited: Seeking items from individuals of the opposing Sects",
+  "en": "Forbidden: Requests to enemy Sects",
   "pt": ""
  },
  "schoolSloganDesc448": {
@@ -25146,7 +25146,7 @@
  },
  "schoolWar_xuanzhefangjian_tip3": {
   "ch": "内外门弟子请留在外部战场为长老们打开通道",
-  "en": "The Outer Disciples and Inner Disciples are requested to stay on the external battlefield to open up passages for the Elders.",
+  "en": "Initiates and Disciples, please remain in the outer battlefield to open up the way for the Elders.",
   "pt": ""
  },
  "schoolWar_zaicidianji": {
@@ -25236,7 +25236,7 @@
  },
  "schoolpost_linggenzige": {
   "ch": "以下任意战斗资质到达{0}",
-  "en": "Any one Skill Stat below reaches  {0}",
+  "en": "Any one Skill Stat below reaches {0}",
   "pt": ""
  },
  "schoolpost_notChoose": {
@@ -25291,12 +25291,12 @@
  },
  "schoolpost_unlockaction5": {
   "ch": "1. 可接取比外门弟子奖励更丰厚的任务。\n2. 每月可获得一定数量的灵石作为俸禄。",
-  "en": "1. Able to undertake missions with more generous rewards than those available to outer disciple.\n2. Can receive a certain number of spirit stones as salary every month.",
+  "en": "1. May take on Missions that have even more generous rewards than initiate Missions.\n2. Can Receive a certain amount of Spirit Stones a month in wages.",
   "pt": ""
  },
  "schoolpost_unlockaction6": {
   "ch": "1. 可进入宗门建筑。\n2. 可接取外门弟子任务。\n3. 每月可获得一定数量的灵石作为俸禄。",
-  "en": "1. It is possible to enter the sect's building.\n2. It is possible to accept tasks as an outer disciple.\n3.A certain amount of spiritual stones can be obtained as a monthly salary.",
+  "en": "1. Can enter the Sect building.\n2. Can receive Initiate Missions.\n3. Receive a certain amount of Spirit Stones a month in wages.",
   "pt": ""
  },
  "schoolpost_updateBigElderDesc": {
@@ -25396,7 +25396,7 @@
  },
  "setting_chongxinjiazaicundang": {
   "ch": "重新载入当前存档",
-  "en": "Reload",
+  "en": "Reload save",
   "pt": ""
  },
  "setting_chongzaitishi": {
@@ -27061,7 +27061,7 @@
  },
  "spriteArtDesc100103": {
   "ch": "使用后可在&810103_cxsj&个月内提升自身&810103_mlzj&点魅力。",
-  "en": "After using, you can increase your charm by &810103_mlzj& points within &810103_cxsj& months.",
+  "en": "For the next &810103_cxsj& months, your Charisma is increased by &810103_mlzj&.",
   "pt": ""
  },
  "spriteArtDesc100201": {
@@ -27211,162 +27211,162 @@
  },
  "spriteName1001": {
   "ch": "云梦衣",
-  "en": "Mengyi\n",
+  "en": "Mengyi",
   "pt": ""
  },
  "spriteName1002": {
   "ch": "沧崖",
-  "en": "Cangya\n",
+  "en": "Cangya",
   "pt": ""
  },
  "spriteName1003": {
   "ch": "酒尘",
-  "en": "Jiuchen\n",
+  "en": "Jiuchen",
   "pt": ""
  },
  "spriteName1004": {
   "ch": "东方沐晴",
-  "en": "Muqing\n",
+  "en": "Muqing",
   "pt": ""
  },
  "spriteName1005": {
   "ch": "厉凝霜",
-  "en": "Ningshuang\n",
+  "en": "Ningshuang",
   "pt": ""
  },
  "spriteName1006": {
   "ch": "姜菱歌",
-  "en": "Lingge\n",
+  "en": "Lingge",
   "pt": ""
  },
  "spriteName1007": {
   "ch": "烛遥月",
-  "en": "Zhu Yaoyue\n",
+  "en": "Zhu Yaoyue",
   "pt": ""
  },
  "spriteName1008": {
   "ch": "冷惊棠",
-  "en": "Leng Jingtang\n",
+  "en": "Leng Jingtang",
   "pt": ""
  },
  "spriteName2001": {
   "ch": "蕴灵",
-  "en": "Yunling\n",
+  "en": "Yunling",
   "pt": ""
  },
  "spriteName2002": {
   "ch": "惑法",
-  "en": "Huofa\n",
+  "en": "Huofa",
   "pt": ""
  },
  "spriteName2003": {
   "ch": "银锋",
-  "en": "Silver Edge\n",
+  "en": "Silver Edge",
   "pt": ""
  },
  "spriteName2004": {
   "ch": "玄蹄",
-  "en": "Xuanti\n",
+  "en": "Xuanti",
   "pt": ""
  },
  "spriteName2005": {
   "ch": "霸角",
-  "en": "Bajiao\n",
+  "en": "Bajiao",
   "pt": ""
  },
  "spriteName2006": {
   "ch": "酒祝",
-  "en": "Jiuzhu\n",
+  "en": "Jiuzhu",
   "pt": ""
  },
  "spriteName2007": {
   "ch": "振心",
-  "en": "Zhenxin\n",
+  "en": "Zhenxin",
   "pt": ""
  },
  "spriteName2008": {
   "ch": "厉刀",
-  "en": "Sharp Edge\n",
+  "en": "Sharp Edge",
   "pt": ""
  },
  "spriteName2009": {
   "ch": "渡魂",
-  "en": "Charon\n",
+  "en": "Charon",
   "pt": ""
  },
  "spriteName2010": {
   "ch": "炽羽",
-  "en": "Searing Feather\n",
+  "en": "Searing Feather",
   "pt": ""
  },
  "spriteName2011": {
   "ch": "飞鸣",
-  "en": "Feiming\n",
+  "en": "Feiming",
   "pt": ""
  },
  "spriteName2012": {
   "ch": "佑灵",
-  "en": "Youling\n",
+  "en": "Youling",
   "pt": ""
  },
  "spriteName2013": {
   "ch": "锐爪",
-  "en": "Sharpclaw\n",
+  "en": "Sharpclaw",
   "pt": ""
  },
  "spriteName2014": {
   "ch": "暗牙",
-  "en": "Darkfang\n",
+  "en": "Darkfang",
   "pt": ""
  },
  "spriteName2015": {
   "ch": "卜巫",
-  "en": "Voodoo\n",
+  "en": "Voodoo",
   "pt": ""
  },
  "spriteName2016": {
   "ch": "幕客",
-  "en": "Muke\n",
+  "en": "Muke",
   "pt": ""
  },
  "spriteName2017": {
   "ch": "武羽",
-  "en": "Brawler\n",
+  "en": "Brawler",
   "pt": ""
  },
  "spriteName2018": {
   "ch": "雨师",
-  "en": "Rainmaker\n",
+  "en": "Rainmaker",
   "pt": ""
  },
  "spriteName2019": {
   "ch": "毒齿",
-  "en": "Venomous Fang\n",
+  "en": "Venomous Fang",
   "pt": ""
  },
  "spriteName2020": {
   "ch": "刃尾",
-  "en": "Blade Tail\n",
+  "en": "Blade Tail",
   "pt": ""
  },
  "spriteName2021": {
   "ch": "血眸",
-  "en": "Blood Eye\n",
+  "en": "Blood Eye",
   "pt": ""
  },
  "spriteName2022": {
   "ch": "蜃渊",
-  "en": "Mirage Abyss\n",
+  "en": "Mirage Abyss",
   "pt": ""
  },
  "spriteName2023": {
   "ch": "青鳞",
-  "en": "Green Scale\n",
+  "en": "Green Scale",
   "pt": ""
  },
  "spriteName2024": {
   "ch": "蟠云",
-  "en": "Tortuous Cloud \n",
+  "en": "Tortuous Cloud",
   "pt": ""
  },
  "standardModelNPC": {
@@ -28106,7 +28106,7 @@
  },
  "stoneDaomission01_1": {
   "ch": "关于界元石",
-  "en": "Enigmatic Stone",
+  "en": "About Enigmatic Stone",
   "pt": ""
  },
  "stoneDaomission01_2": {
@@ -28181,7 +28181,7 @@
  },
  "suit_history18": {
   "ch": "夜听风吹雪，晓看雾生花。",
-  "en": "The gale carries away snowflakes as usual. Perhaps the next dawn I'll find fresh blossoms amid the morning mist.",
+  "en": "The gale carries away snowflakes as usual. Perhaps the next dawn I’ll find fresh blossoms amid the morning mist.",
   "pt": ""
  },
  "suit_history19": {
@@ -28221,7 +28221,7 @@
  },
  "suit_history25": {
   "ch": "我愿平东海，身沉心不改；大海无平期，我心无绝时。",
-  "en": "Let me fill the East Sea with cobbles and twigs. I'll never stop till I see here lands.",
+  "en": "Let me fill the East Sea with cobbles and twigs. I’ll never stop till I see here lands.",
   "pt": ""
  },
  "suit_history26": {
@@ -28251,7 +28251,7 @@
  },
  "suit_history4": {
   "ch": "挽弓射日，不辱使命。",
-  "en": "Give me a bow and a quiver - I'll shoot the merciless suns down.",
+  "en": "Give me a bow and a quiver - I’ll shoot the merciless suns down.",
   "pt": ""
  },
  "suit_history5": {
@@ -28266,7 +28266,7 @@
  },
  "suit_history7": {
   "ch": "剑荡八荒归寰宇，不负狂名三千年。",
-  "en": "I'll carve my name out with my sword, as well as a master swordsman's pride.",
+  "en": "I’ll carve my name out with my sword, as well as a master swordsman’s pride.",
   "pt": ""
  },
  "suit_history8": {
@@ -28681,7 +28681,7 @@
  },
  "taskLevel6": {
   "ch": "<r>地狱</r>",
-  "en": "<r>Chaos</r>",
+  "en": "<r>Hell</r>",
   "pt": ""
  },
  "task_chakanxiaoditu": {
@@ -29001,7 +29001,7 @@
  },
  "task_renwumubiao": {
   "ch": "任务目标：",
-  "en": "Route: ",
+  "en": "Objective: ",
   "pt": ""
  },
  "task_renwunandu": {
@@ -29411,102 +29411,102 @@
  },
  "townBuildingName2001": {
   "ch": "坊市",
-  "en": "MARKET",
+  "en": "Market",
   "pt": ""
  },
  "townBuildingName2002": {
   "ch": "拍卖行",
-  "en": "AUCTION HOUSE",
+  "en": "Auction House",
   "pt": ""
  },
  "townBuildingName2003": {
   "ch": "传送阵",
-  "en": "PORTAL",
+  "en": "Portal",
   "pt": ""
  },
  "townBuildingName2004": {
   "ch": "客栈",
-  "en": "INN",
+  "en": "Inn",
   "pt": ""
  },
  "townBuildingName2005": {
   "ch": "黑市",
-  "en": "BLACK MARKET",
+  "en": "Black Market",
   "pt": ""
  },
  "townBuildingName2006": {
   "ch": "悬赏榜",
-  "en": "BOUNTY BOARD",
+  "en": "Bounty Board",
   "pt": ""
  },
  "townBuildingName2007": {
   "ch": "秘境",
-  "en": "MYSTIC REALM",
+  "en": "Mystic Realm",
   "pt": ""
  },
  "townBuildingName2008": {
   "ch": "工坊",
-  "en": "WORKSHOP",
+  "en": "Workshop",
   "pt": ""
  },
  "townBuildingName2009": {
   "ch": "酒馆",
-  "en": "TAVERN",
+  "en": "Tavern",
   "pt": ""
  },
  "townBuildingName2010": {
   "ch": "琅琊阁",
-  "en": "MANUAL PAVILION",
+  "en": "Manual Pavilion",
   "pt": ""
  },
  "townBuildingName2011": {
   "ch": "建木",
-  "en": "TREE VAULT",
+  "en": "Tree Vault",
   "pt": ""
  },
  "townBuildingName2012": {
   "ch": "升仙台",
-  "en": "IMMORTAL ARENA",
+  "en": "Immortal Arena",
   "pt": ""
  },
  "townBuildingName2013": {
   "ch": "仙衣阁",
-  "en": "IMMORTAL WARDROBE",
+  "en": "Immortal Wardrobe",
   "pt": ""
  },
  "townBuildingName2014": {
   "ch": "天灵榜",
-  "en": "HEAVENLY RANKING",
+  "en": "Heavenly Ranking",
   "pt": ""
  },
  "townBuildingName2015": {
   "ch": "仙盟任务大厅",
-  "en": "ALLIANCE MISSION HALL",
+  "en": "Alliance Mission Hall",
   "pt": ""
  },
  "townBuildingName2016": {
   "ch": "仙盟议事大厅",
-  "en": "ALLIANCE COUNCIL HALL",
+  "en": "Alliance Council Hall",
   "pt": ""
  },
  "townBuildingName2017": {
   "ch": "御妖台",
-  "en": "MONSTER RESISTING ALTAR",
+  "en": "Monster Resisting Altar",
   "pt": ""
  },
  "townBuildingName2018": {
   "ch": "冥妖悬赏榜",
-  "en": "NETHER DEMON BOUNTY BOARD",
+  "en": "Nether Demon Bounty Board",
   "pt": ""
  },
  "townBuildingName2020": {
   "ch": "斗鸡场",
-  "en": "COCKFIGHT ARENA",
+  "en": "Cockfight Arena",
   "pt": ""
  },
  "townBuildingName2021": {
   "ch": "琅琊主阁",
-  "en": "MAIN MANUAL PAVILION",
+  "en": "Main Manual Pavilion",
   "pt": ""
  },
  "townDress_duihuan": {
@@ -29601,17 +29601,17 @@
  },
  "townMadeShape_lianqi": {
   "ch": "炼器",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "townMadeShape_lianzhi": {
   "ch": "炼制",
-  "en": "Refining",
+  "en": "Forge",
   "pt": ""
  },
  "townMadeShape_lianzhitishi": {
   "ch": "确认炼制{0}吗？",
-  "en": "Refine {0}?",
+  "en": "Forge {0}?",
   "pt": ""
  },
  "townMadeShape_lianzhitishi1": {
@@ -29931,7 +29931,7 @@
  },
  "uiBuildPillHouse_jingzuo": {
   "ch": "静坐片刻",
-  "en": "Meditate",
+  "en": "Sit there for a while",
   "pt": ""
  },
  "uiBuildPillHouse_qiyunyihuode": {
@@ -29941,7 +29941,7 @@
  },
  "uiBuildPillHouse_xuexidanfang": {
   "ch": "学习丹方",
-  "en": "Learn recipes",
+  "en": "Learn the recipe",
   "pt": ""
  },
  "uiCacheHelper_cundang": {
@@ -30421,12 +30421,12 @@
  },
  "uiDevilDemon_rebornTip": {
   "ch": "当在战斗中陷入危难之时（濒死状态），炼妖壶将触发天道的庇佑，帮助你脱离危险。<color=#a04c4c>（携带护卫壶妖进入战斗才可触发天道庇佑）</color>",
-  "en": "<size=16>When you are in peril (dying) in battle, the Mythical Gourd will activate the Heavenly Path Protection to save you. <color=#a04c4c>(The Heavenly Path Protection could only be triggered when you bring Guarding Imp into battle)</color></size>",
+  "en": "When you are in peril (dying) in battle, the Mythical Gourd will activate the Heavenly Path Protection to save you. <color=#a04c4c>(The Heavenly Path Protection could only be triggered when you bring Guarding Imp into battle)</color>",
   "pt": ""
  },
  "uiDevilDemon_refine": {
   "ch": "炼化妖兽",
-  "en": "Refine",
+  "en": "Refine Monster",
   "pt": ""
  },
  "uiDevilDemon_refine0": {
@@ -30456,12 +30456,12 @@
  },
  "uiDevilDemon_setPotmonTip": {
   "ch": "护卫已重伤",
-  "en": "   The Imp is Wounded",
+  "en": "The guard is Wounded",
   "pt": ""
  },
  "uiDevilDemon_setPotmonTip1": {
   "ch": "护卫濒临死亡",
-  "en": "The Imp is dying",
+  "en": "The Guarding Imp is dying",
   "pt": ""
  },
  "uiDevilDemon_usetip": {
@@ -30711,7 +30711,7 @@
  },
  "uiImmortalStore_StoreHeader": {
   "ch": "季沽魂的商店",
-  "en": "Ji Guhun's Store",
+  "en": "Ji Guhun’s Store",
   "pt": ""
  },
  "uiImmortal_benyuanxianli": {
@@ -30726,7 +30726,7 @@
  },
  "uiImmortal_kezhuangbeixianfa": {
   "ch": "可装备仙法",
-  "en": "Arts list",
+  "en": "Heavenly Art equippable",
   "pt": ""
  },
  "uiImmortal_wukacao": {
@@ -30751,7 +30751,7 @@
  },
  "uiImmortal_yizhaungpeixianfa": {
   "ch": "已装配仙法",
-  "en": "  Slots",
+  "en": "Equipped Heavenly Art",
   "pt": ""
  },
  "uiImmortal_yizhuangbei": {
@@ -31226,7 +31226,7 @@
  },
  "uiPotmonRefine_zhanli": {
   "ch": "战力",
-  "en": "Power",
+  "en": "Strength",
   "pt": ""
  },
  "uiPotmonWorkDir_btnOk": {
@@ -31816,32 +31816,32 @@
  },
  "uitownTaoist_areaName10": {
   "ch": "赤幽大道榜",
-  "en": "CHI YOU MASTER BOARD",
+  "en": "Chi You Master Board",
   "pt": ""
  },
  "uitownTaoist_areaName2": {
   "ch": "永宁新秀榜",
-  "en": "YONG NING ROOKIE BOARD",
+  "en": "Yong Ning Rookie Board",
   "pt": ""
  },
  "uitownTaoist_areaName4": {
   "ch": "华封英杰榜",
-  "en": "HUA FENG HERO BOARD",
+  "en": "Hua Feng Hero Board",
   "pt": ""
  },
  "uitownTaoist_areaName6": {
   "ch": "云陌参玄榜",
-  "en": "YUN MO PHILOSOPHER BOARD",
+  "en": "Yun Mo Philosopher Board",
   "pt": ""
  },
  "uitownTaoist_areaName8": {
   "ch": "暮仙通天榜",
-  "en": "MU XIAN SAINT BOARD",
+  "en": "Mu Xian Saint Board",
   "pt": ""
  },
  "uitownTaoist_areaName9": {
   "ch": "赤幽大道榜",
-  "en": "CHI YOU MASTER BOARD",
+  "en": "Chi You Master Board",
   "pt": ""
  },
  "uitownTaoist_find": {
@@ -33816,7 +33816,7 @@
  },
  "world_block_operation1": {
   "ch": "采集",
-  "en": "Herbalism",
+  "en": "Gathering",
   "pt": ""
  },
  "world_block_operation2": {
@@ -33916,7 +33916,7 @@
  },
  "world_building_honorHill": {
   "ch": "天元山",
-  "en": "TIAN YUAN",
+  "en": "Tian Yuan Mountain",
   "pt": ""
  },
  "world_building_honorVillage": {
@@ -33996,7 +33996,7 @@
  },
  "wushe_3": {
   "ch": "越来越难以抑制对鲜血的渴望了……我，我究竟是怎么了！",
-  "en": "My thirst for blood is devouring me... What's happening!",
+  "en": "My thirst for blood is devouring me... What’s happening!",
   "pt": ""
  },
  "wushe_4": {
@@ -34331,7 +34331,7 @@
  },
  "wuxue_zuidaxiulianshijian": {
   "ch": "最大修炼时间",
-  "en": "Max Time",
+  "en": "Max Cultivation Time",
   "pt": ""
  },
  "xYHpIyXs": {
@@ -34341,7 +34341,7 @@
  },
  "xinfalantishi": {
   "ch": "每一种类型的心法只能够装备一个",
-  "en": "Can only equip one mental ability of each type.",
+  "en": "Only one Mind Skill of each type can be equipped.",
   "pt": ""
  },
  "xingtian2_goumangtishi": {
@@ -34351,7 +34351,7 @@
  },
  "xingtian2_shuohua": {
   "ch": "斧  杀！杀尽一切生灵，我要八荒之中再无活物！！\n\n盾  只知杀戮的孽障，我不会让你得逞的。\n\n斧  ……我要将你一剖两半！一剖两半！！\n\n盾  莽夫，你除去杀戮，还会做什么？\n\n斧  破玩意，我要将你剁碎、剁烂、剁成粉末！然后扬了，扬了！！！",
-  "en": "Axe: KILL! I'll kill every living thing, in every corner of the world!\n\nShield: Sinful one, you know nothing but slaughter. I'll not see it done.\n\nAxe: ... I'll cut you in half! IN HALF!\n\nShield: Reckless creature. Could you do anything other than killing?\n\nAxe: Then what are you? I'll smash you to ashes, and scatter them altogether!",
+  "en": "Axe: KILL! I’ll kill every living thing, in every corner of the world!\n\nShield: Sinful one, you know nothing but slaughter. I’ll not see it done.\n\nAxe: ... I’ll cut you in half! IN HALF!\n\nShield: Reckless creature. Could you do anything other than killing?\n\nAxe: Then what are you? I’ll smash you to ashes, and scatter them altogether!",
   "pt": ""
  },
  "xingtian_duihua1": {
@@ -34521,12 +34521,12 @@
  },
  "yichuzhuxian1": {
   "ch": "跳过序章",
-  "en": "Skip the Prologue",
+  "en": "Skip Intro Questline",
   "pt": ""
  },
  "yichuzhuxian2": {
   "ch": "是否跳过主线剧情（愚公移山）？",
-  "en": "Do you want to skip the first quest (The Foolish Old Man Removes the Mountains)?",
+  "en": "Skip The Foolish Old Man questline?",
   "pt": ""
  },
  "yifuzhi": {
@@ -34901,12 +34901,12 @@
  },
  "zhuolong_6": {
   "ch": "全身被炽流灼烧的痛感更加强烈了……或许我已然无法坚持太久。",
-  "en": "The agony of being consumed by blazing currents... Perhaps I'll be burnt to ashes in seconds.",
+  "en": "The agony of being consumed by blazing currents... Perhaps I’ll be burnt to ashes in seconds.",
   "pt": ""
  },
  "zhuolong_7": {
   "ch": "仙界第一种族？可笑……可悲……但或许这便是我的宿命。",
-  "en": "The First Race in the Immortal Realm? Absurd and pitiful... but maybe that's what I'm destined to fight for.",
+  "en": "The First Race in the Immortal Realm? Absurd and pitiful... but maybe that’s what I’m destined to fight for.",
   "pt": ""
  },
  "zongmenkuaicaitips1": {

@@ -46,7 +46,7 @@
  },
  "passiveMethod_desc1001": {
   "ch": "剑斩时会额外使用紫色的惊雷剑意进行攻击，惊雷剑意对敌人造成&710001_jlwl&%斩击威力的伤害并眩晕敌人&710001_xysj&秒。",
-  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Fiery Thunder (purple). The Sword's Will deals damage equaling to &710001_jlwl&% of slash damage to the enemies, and Stuns them for &710001_xysj&s.",
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Fiery Thunder (purple). The Sword’s Will deals damage equaling to &710001_jlwl&% of slash damage to the enemies, and Stuns them for &710001_xysj&s.",
   "pt": ""
  },
  "passiveMethod_desc10010": {
@@ -91,22 +91,22 @@
  },
  "passiveMethod_desc1002": {
   "ch": "剑斩时会额外使用青色的青冥剑意进行攻击，青冥剑意对敌人造成&710001_qmwl&%斩击威力的伤害且会斩开敌人的意识，剥夺敌人灵魂使用技能的能力，持续&710001_qmsj&秒。",
-  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Glowing Sky (red). The Sword's Will deals damage equaling to &710001_qmwl&% of slash damage to the enemies, and cuts the mind of the enemies apart. Affected enemy souls are unable to cast skills for &710001_qmsj&s.",
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Glowing Sky (cyan). The Sword's Will deals damage equaling to &710001_qmwl&% of slash damage to the enemies and cuts their souls apart. Affected enemy souls are unable to cast skills for &710001_qmsj&s.",
   "pt": ""
  },
  "passiveMethod_desc1003": {
   "ch": "剑斩时会额外使用黑色的龙渊剑意进行攻击，龙渊剑意对敌人造成&710001_lywl&%斩击威力的伤害且会斩开敌人的五感，剥夺敌人灵魂的移动能力，持续&710001_lyfysj&秒。",
-  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Dragon Pond (black). The Sword's Will deals damage equaling to &710001_lywl&% of slash damage to the enemies, and cuts the senses of the enemies apart. Affected enemy souls are unable to move for &710001_lyfysj&s.",
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Dragon Pond (black). The Sword’s Will deals damage equaling to &710001_lywl&% of slash damage to the enemies, and cuts the senses of the enemies apart. Affected enemy souls are unable to move for &710001_lyfysj&s.",
   "pt": ""
  },
  "passiveMethod_desc1004": {
   "ch": "剑斩时会额外使用白色的青霜剑意进行攻击，青霜剑意对敌人造成&710001_qswl&%斩击威力的伤害且使敌人变成冰块，持续&710001_qsldsj&秒，冰块受到伤害时有&710001_pbgl&%概率被击破，击破后对单位造成威力&710001_pbwl&的伤害并使敌人受到的伤害提升&710001_pbys&%，持续&710001_pbsj&秒。",
-  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Thin Frost (white). The Sword's Will deals damage equaling to &710001_qswl&% of slash damage to the enemies, and Freezes the enemies into ice cubes for &710001_qsldsj&s. Every time when the ice cube is attacked, there will be a probability of &710001_pbgl&% to break it, dealing &710001_pbwl& damage to the unit inside it, and increasing subsequent damage taken by the unit for &710001_pbys&% in &710001_pbsj&s.",
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Thin Frost (white). The Sword’s Will deals damage equaling to &710001_qswl&% of slash damage to the enemies, and Freezes the enemies into ice cubes for &710001_qsldsj&s. Every time when the ice cube is attacked, there will be a probability of &710001_pbgl&% to break it, dealing &710001_pbwl& damage to the unit inside it, and increasing subsequent damage taken by the unit for &710001_pbys&% in &710001_pbsj&s.",
   "pt": ""
  },
  "passiveMethod_desc1005": {
   "ch": "剑斩时会额外使用红色的赤霄剑意进行攻击，赤霄剑意对敌人造成&710001_cxwl&%斩击威力的伤害，对受到眩晕，封技，禁足，冻结，冰块的单位造成的伤害提升&710001_cxzs&%。",
-  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Ethereal Clouds (cyan). The Sword's Will deals damage equaling to &710001_cxwl&% of slash damage to the enemies, and increases damage taken by &710001_cxzs&% to units that are Stunned, Skill-blocked, Restricted, Frozen, and confined in Ice Cubes.",
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Ethereal Clouds (red). The Sword's Will deals damage equaling to &710001_cxwl&% of slash damage to the enemies and increases damage taken by &710001_cxzs&% to units that are Stunned, Skill-blocked, Restricted, Frozen, and confined in Ice Cubes.",
   "pt": ""
  },
  "passiveMethod_desc1006": {
@@ -116,7 +116,7 @@
  },
  "passiveMethod_desc1007": {
   "ch": "当你没有装备其它剑意时，你施放的斩击剑气数量增加&710001_jqsl%1+1&次。",
-  "en": "When no Sword's Will is equipped, gain &710001_jqsl%1+1& additional sword auras unleashed by the slashes.",
+  "en": "When no Sword’s Will is equipped, gain &710001_jqsl%1+1& additional sword auras unleashed by the slashes.",
   "pt": ""
  },
  "passiveMethod_desc1008": {
@@ -281,7 +281,7 @@
  },
  "passiveMethod_desc7005": {
   "ch": "法阵不再产生爆炸，而是压扁所有受到影响的单位，使其移动速度&710007_hmjsbl&并且受到的伤害提升&710007_hmzsbl&%。离开法阵后，效果仍将持续&710007_hmhxsj&秒。",
-  "en": "The array no longer explodes, but crashes all units in it instead. Affected unit's Agility &710007_hmjsbl&, and the damage taken by them will increase by &710007_hmzsbl&%. After leaving the array, the effect will still last for &710007_hmhxsj&s.",
+  "en": "The array no longer explodes, but crashes all units in it instead. Affected unit’s Agility &710007_hmjsbl&, and the damage taken by them will increase by &710007_hmzsbl&%. After leaving the array, the effect will still last for &710007_hmhxsj&s.",
   "pt": ""
  },
  "passiveMethod_name10001": {
@@ -331,7 +331,7 @@
  },
  "passiveMethod_name1001": {
   "ch": "惊雷剑意",
-  "en": "Sword's Will - Fiery Thunder",
+  "en": "Sword’s Will - Fiery Thunder",
   "pt": ""
  },
  "passiveMethod_name10010": {
@@ -376,27 +376,27 @@
  },
  "passiveMethod_name1002": {
   "ch": "青冥剑意",
-  "en": "Sword's Will - Glowing Sky",
+  "en": "Sword’s Will - Glowing Sky",
   "pt": ""
  },
  "passiveMethod_name1003": {
   "ch": "龙渊剑意",
-  "en": "Sword's Will - Dragon Pond",
+  "en": "Sword’s Will - Dragon Pond",
   "pt": ""
  },
  "passiveMethod_name1004": {
   "ch": "青霜剑意",
-  "en": "Sword's Will - Thin Frost",
+  "en": "Sword’s Will - Thin Frost",
   "pt": ""
  },
  "passiveMethod_name1005": {
   "ch": "赤霄剑意",
-  "en": "Sword's Will - Ethereal Clouds",
+  "en": "Sword’s Will - Ethereal Clouds",
   "pt": ""
  },
  "passiveMethod_name1006": {
   "ch": "万仞剑意",
-  "en": "Sword's Will - Impossible Cliff",
+  "en": "Sword’s Will - Impossible Cliff",
   "pt": ""
  },
  "passiveMethod_name1007": {

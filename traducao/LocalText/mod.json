@@ -936,7 +936,7 @@
  },
  "mod_diushitishi1": {
   "ch": "清理丢失提示",
-  "en": "Erase Warning",
+  "en": "Remove lost mod notice",
   "pt": ""
  },
  "mod_diushitishi2": {
@@ -1556,7 +1556,7 @@
  },
  "mod_jineng1": {
   "ch": "找不到BattleSkillBase配置表，调试技能需要先配置好技能。\n\n请到主界面右下角点击“教程”按钮，然后打开“MOD模板例子”，复制“MOD模板例子\\\\技能配置例子\\\\ModProject\\\\ModExcel”文件夹到你工程中ModProject\\\\ModExcel。\n\n或者自己手动创建技能Excel配置。",
-  "en": "Cannot find BattleSkillBase Configuration Table.\n\nPlease click the \"Tutorial\" at the bottom right of the main interface and open \"MOD Template Examples\". Then, copy the folder \"MOD模板例子\\技能配置例子\\ModProject\\ModExcel\" and paste it to ModProject\\ModExcel.\n\nYou could also manually create a configuration for martial skills in Excel.",
+  "en": "Cannot find BattleSkillBase Configuration Table.\n\nPlease click the \"Tutorial\" at the bottom right of the main interface and open \"MOD Template Examples\". Then, copy the folder \"MOD模板例子\\\\技能配置例子\\\\ModProject\\\\ModExcel\" and paste it to ModProject\\\\ModExcel.\n\nYou could also manually create a configuration for martial skills in Excel.",
   "pt": ""
  },
  "mod_jineng10": {
@@ -1656,7 +1656,7 @@
  },
  "mod_jineng9": {
   "ch": "修改ModProject\\\\ModExcel的配置后，点击刷新配置，可让在外部修改的配置立即生效。推荐游戏窗口化，可在游戏和配置表之间快速切换。",
-  "en": "After the configuration in ModProject\\ModExcel is changed, you can click Refresh Configuration to apply the external changes immediately. You may run the game in windowed mode to switch between the program and the configuration table.",
+  "en": "After the configuration in ModProject\\\\ModExcel is changed, you can click Refresh Configuration to apply the external changes immediately. You may run the game in windowed mode to switch between the program and the configuration table.",
   "pt": ""
  },
  "mod_jingjieid": {
@@ -1761,7 +1761,7 @@
  },
  "mod_juqing2": {
   "ch": "当打开剧情时填入一个或者多个ID，首先排除条件不满足的剧情，然后根据权重随机打开其中一个剧情。",
-  "en": "Fill in one or many IDs when opening the Plot. First, exclude Plot that doesn't meet the requirements, then randomly open one of the Plot based on the importance.",
+  "en": "Fill in one or many IDs when opening the Plot. First, exclude Plot that doesn’t meet the requirements, then randomly open one of the Plot based on the importance.",
   "pt": ""
  },
  "mod_juqing20": {
@@ -2536,7 +2536,7 @@
  },
  "mod_qiyun_shengjizushuoming": {
   "ch": "如果两个逆天改命升级组ID一样，突破时必须拥有低级逆天改命，才能随机出高级气运（例如小、中、大李飞剑），左边气运列表中最下面的气运数据是最高级的，排序越往下越高级。",
-  "en": "If two Rewrite Destiny upgrade group IDs are the same, you have a low-level Rewrite Destiny when having a Breakthrough to randomly get a high-level Destiny (e.g. Jo's Flying Sword I, II, III). The bottom Destiny data in the Destiny list on the left is the highest level, and the farther down the list the greater the level.",
+  "en": "If two Rewrite Destiny upgrade group IDs are the same, you have a low-level Rewrite Destiny when having a Breakthrough to randomly get a high-level Destiny (e.g. Jo’s Flying Sword I, II, III). The bottom Destiny data in the Destiny list on the left is the highest level, and the farther down the list the greater the level.",
   "pt": ""
  },
  "mod_qiyun_suijigailv": {
@@ -3131,7 +3131,7 @@
  },
  "mod_shijian13": {
   "ch": "事件在小地图显示的图标",
-  "en": "Icon displayed on the Map",
+  "en": "Icon displayed on the region map",
   "pt": ""
  },
  "mod_shijian2": {
@@ -3556,12 +3556,12 @@
  },
  "mod_xiaoditutubiao": {
   "ch": "小地图图标",
-  "en": "Map icon",
+  "en": "Region map icon",
   "pt": ""
  },
  "mod_xiaoditutubiao2": {
   "ch": "当设置了小地图图标后，在小地图上会显示出事件位置。",
-  "en": "After selecting a Map icon, the event's location will be displayed on the map",
+  "en": "After selecting a region map icon, the event's location will be displayed on the map",
   "pt": ""
  },
  "mod_xiaoguo": {
@@ -3701,12 +3701,12 @@
  },
  "mod_xiaozongmen33": {
   "ch": "初始内门弟子数量",
-  "en": "No. of Initial Inner Disciples",
+  "en": "No. of Initial Disciples",
   "pt": ""
  },
  "mod_xiaozongmen34": {
   "ch": "初始外门弟子数量",
-  "en": "No. of Initial Outer Disciples",
+  "en": "No. of Initial Initiates",
   "pt": ""
  },
  "mod_xiaozongmen35": {
@@ -4126,7 +4126,7 @@
  },
  "mod_yunxingkucuowutishi": {
   "ch": "由于游戏安装路径存在中文或其他原因，模组加载器启动异常，部分MOD将无法使用，请查看游戏安装目录下的日志文件“MelonLoader\\\\Logs”。",
-  "en": "Errors occurred during Mod Loader launch. Some mods are unavailable now. A possible reason is there are Chinese characters in the game installation path. Please refer to the log file under the game installation directory \"MelonLoader\\Logs\".",
+  "en": "Errors occurred during Mod Loader launch. Some mods are unavailable now. A possible reason is there are Chinese characters in the game installation path. Please refer to the log file under the game installation directory \"MelonLoader\\\\Logs\".",
   "pt": ""
  },
  "mod_zhantieshuju1": {
@@ -4166,12 +4166,12 @@
  },
  "mod_zhiweirenshu": {
   "ch": "注意：宗门职位是有人数上限的，同一个职位设置过多人数，则会导致部分NPC职位设置失败。\n\n宗主：最多1人。\n大长老：最多2人。\n长老：最多5人。\n真传：最多10人。\n内门、外门无人数限制。",
-  "en": "Note: There is a limit to the number of positions in the sect. Setting too many people in the same position will result in some NPC positions being unsuccessful.\n\nSect Leader: 1\nGrand Elder: 2\nElder: 5\nTrue Disciple: 10\nInner Disciples and Outer Disciples have no limit on the number of people.",
+  "en": "Note: There's a limit on each Sect Position. Part of the NPCs' positions will become invalid if there are too many players in the same position.\n\nSect Leader: 1\nGrand Elder: 2\nElder: 5\nTrue Disciple: 10\nNo limits on the number of Disciples and Initiates.",
   "pt": ""
  },
  "mod_zhiweishuoming": {
   "ch": "0-无\n1-宗主\n2-大长老\n3-长老\n4-真传弟子\n5-内门弟子\n6-外门弟子",
-  "en": "0- None\n1- Sect Leader \n2- Grand Elder\n3- Elder\n4- True Disciple\n5- Inner Disciple\n6- Outer Disciple",
+  "en": "0- None\n1- Sect Leader \n2- Grand Elder\n3- Elder\n4- True Disciple\n5- Disciple\n6- Initiate",
   "pt": ""
  },
  "mod_zhizuomozu": {
@@ -4286,7 +4286,7 @@
  },
  "mod_zidingyizongmen1": {
   "ch": "{0}第{1}个{2}宗门主舵\\t\\t{3}",
-  "en": "{0}#{1} {2} Sect Base \t\t{3}",
+  "en": "{0}#{1} {2} Sect Base \\t\\t{3}",
   "pt": ""
  },
  "mod_zidingyizongmen2": {

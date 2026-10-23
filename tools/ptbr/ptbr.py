@@ -117,6 +117,10 @@ def cmd_extract(args):
         if key not in sources and key in kit:
             sources[key] = kit[key]['en']
     for key, en in sources.items():
+        # O en do kit é a fonte padrão; o do dump traz o texto de outros mods ativos e só vale
+        # para chaves fora do kit ou com en vazio no kit.
+        if kit.get(key, {}).get('en'):
+            en = kit[key]['en']
         ch = kit.get(key, {}).get('ch', '')
         entry = work.get(key)
         if entry is None:
