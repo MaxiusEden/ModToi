@@ -53,6 +53,9 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Array / Formation (阵) | Formação | 阵 = formação, como nas novels traduzidas. "Grande Formação" deixava nomes como "Stone Array" longos demais para o mapa (alterado depois do piloto). |
 | Tao (道) | Dao | No `en`, "Tao" é 道 em 265 de 270 ocorrências; "Dao" nunca aparece. |
 | Imp (壶妖) | Diabrete | O piloto misturou Imp, Diabinho e Diabrete; padronizado em 2026-10-23. |
+| Skill Stat (战斗资质) | Aptidão Marcial | É a aptidão de combate (Blade, Spear…), não um atributo da habilidade. O modelo escrevia "Atributo de Habilidade", que é longo e errado. |
+| `school_name_first*` / `school_name_second*` | não traduzir | O `en` oficial está em chinês (sílabas de nome de seita); com o jogo em inglês valem `schoolNameFirst/Second`. Traduzir o sentido ("Luz", "Céu") quebraria a regra do pinyin. |
+| Branch (分舵) | Filial | `Branch Leader` → Líder de Filial. |
 
 ## Interface apertada (teste do piloto em 2026-10-23)
 
