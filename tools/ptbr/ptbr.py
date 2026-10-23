@@ -272,12 +272,47 @@ def cmd_validate(args):
     return 1 if n_err else 0
 
 
+OMNI_BAD = 'omni ok=false'
+
+
+def cmd_merge(args):
+    work = load_work()
+    stats = collections.Counter()
+    for path in args.files:
+        data = json.loads(Path(path).read_text(encoding='utf-8'))
+        for key, out in data.items():
+            entry = work.get(key)
+            if entry is None:
+                stats['chave desconhecida'] += 1
+                continue
+            if entry.get('pt'):
+                stats['já tinha pt (mantido)'] += 1
+                continue
+            entry['pt'] = out.get('pt', '')
+            entry['auto'] = out.get('model', '?')
+            if out.get('ok'):
+                stats['ok=true'] += 1
+            else:
+                add_reason(entry, OMNI_BAD)
+                stats['ok=false (revisar)'] += 1
+            refresh_glossary_reasons(entry)
+    save_work(work)
+    gloss = sum(1 for e in work.values() if e.get('auto') and any(r.startswith(GLOSS_REASON) for r in e.get('revisar') or []))
+    print(', '.join(f'{k}: {v}' for k, v in stats.items()) or 'nada a juntar')
+    print(f'traduções automáticas com motivo de glossário: {gloss}')
+    return 0
+
+
 def cmd_build(args):
     work = load_work()
-    result, skipped = {}, []
+    result, skipped, unreviewed = {}, [], 0
     for key in sorted(work):
         entry = work[key]
         if not entry.get('pt'):
+            continue
+        # Saída quebrada do modelo não vai para o jogo sem revisão humana.
+        if OMNI_BAD in (entry.get('revisar') or []):
+            unreviewed += 1
             continue
         errors, _ = check(entry)
         if errors:
@@ -290,6 +325,8 @@ def cmd_build(args):
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps(result, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
     print(f'{len(result)} traduções em {OUT_JSON.relative_to(REPO)}')
+    if unreviewed:
+        print(f'{unreviewed} fora por "{OMNI_BAD}" ainda não revisado')
     if skipped:
         print(f'{len(skipped)} fora por erro de validação (rode validate): {skipped[:10]}')
         return 1
@@ -324,8 +361,11 @@ def main():
     p.add_argument('--report', default=str(REPO / 'traducao/validacao.txt'))
     sub.add_parser('build', help='gera o LocalText.json do mod com as traduções válidas')
     sub.add_parser('glossario', help='junta obrigatorios.json e sugestoes.json em glossario.json (entrada do omni_translate)')
+    p = sub.add_parser('merge', help='traz saídas do omni_translate (chave -> {pt, ok, model}) para traducao/')
+    p.add_argument('files', nargs='+')
     args = ap.parse_args()
-    cmds = {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build, 'glossario': cmd_glossario}
+    cmds = {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build, 'glossario': cmd_glossario,
+            'merge': cmd_merge}
     return cmds[args.cmd](args) or 0
 
 

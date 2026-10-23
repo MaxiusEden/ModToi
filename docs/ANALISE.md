@@ -248,6 +248,9 @@ Só usa a biblioteca padrão do Python. A pasta do jogo vem da variável `GAME_D
 | `extract [--dump arquivo]` | Mescla o dump de runtime (`ModExportData/Mod_6b2SYs/ptbr_missing_LocalText.txt`) em `traducao/LocalText/*.json`. O `ch` vem do kit. Chaves já traduzidas não aparecem no dump; vêm do `LocalText.json` atual do mod, com o `en` do kit. Nunca apaga entradas nem `pt`. Se o `en` de uma entrada já traduzida mudou, marca `"revisar": true`. É idempotente. |
 | `validate [--report arquivo]` | Confere cada `pt` contra o `en` (ou contra o `ch`, quando o `en` está vazio). Também recalcula os motivos `glossário: termo → tradução` em `revisar`: entra quando um termo de `glossario/obrigatorios.json` aparece na fonte e a tradução aprovada falta no `pt`, e sai quando o `pt` é corrigido (regras em `glossario/decisoes.md`). Grava `traducao/validacao.txt` e sai com código 1 se houver erro. |
 | `glossario` | Junta `glossario/obrigatorios.json` e `glossario/sugestoes.json` em `glossario/glossario.json`, a entrada do `omni_translate`. |
+| `merge arquivo…` | Traz as saídas do `omni_translate` (`chave -> {pt, ok, model}`) para `traducao/`, preenchendo **só entradas com `pt` vazio**. Nunca sobrescreve uma tradução existente, então pode ser repetido sem risco. Grava `auto = <modelo>`. Com `ok=false`, grava o `pt` e acrescenta `omni ok=false` em `revisar`. Também recalcula os motivos de glossário. |
+
+O `build` exclui as entradas com `omni ok=false` em `revisar` até alguém revisar e apagar o motivo.
 
 O campo `revisar` de uma entrada é uma **lista de motivos**: `en mudou depois da tradução` (posto pelo `extract`), `glossário: …` (pelo `validate`) e `omni ok=false` (pelo `merge`). Quem revisa apaga o campo. Avisos não bloqueiam o `build`.
 | `build` | Gera `ModAssets/ptbr/LocalText.json` só com traduções sem erro (avisos não bloqueiam). Não grava nada se não houver nenhuma tradução válida. |
