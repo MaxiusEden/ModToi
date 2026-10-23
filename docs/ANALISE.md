@@ -264,6 +264,12 @@ Piloto de 2026-10-23 com `common` (100 entradas) e `ui` (510):
 - **Resposta cortada:** o Gemini 3 raciocina antes de responder e gasta o `max_tokens`. Com lotes de 30 e 6.000 tokens, as respostas vinham cortadas ("Unterminated string"); **lotes de 15 com `max_tokens=12000`** resolveram.
 - **Limite gratuito:** os dois Gemini entram em espera (429 "cooling down", ~20–25 min) depois de algumas centenas de entradas. Para continuar com a reserva, use **o mesmo arquivo de saída**: a ponte pula o que já está nele, e cada entrada registra o próprio modelo.
 - **HTTP 401** em todos os Gemini = credencial OAuth do provedor expirada no OmniRoute; é preciso reautenticar.
+- **Natureza do limite** (lido em 2026-10-23 com uma chamada direta, porque a ponte corta o erro em 200 caracteres):
+  - Corpo do 429: `{"code": "model_cooldown", "reset_seconds": 26679, "retry_after": "2026-10-24T06:59:59Z", "credentials_cooling": 1}`, com o cabeçalho `x-omniroute-local-cooldown: model`.
+  - Os dois Gemini zeram no mesmo horário, **07:00 UTC** (meia-noite do Pacífico): é a cota diária de pedidos (RPD) do plano gratuito, numa única credencial.
+  - Durante o dia também houve esperas curtas (~20–27 min) depois de ~20 pedidos seguidos.
+  - Como a cota conta **pedidos**, lotes maiores rendem mais entradas por dia. O limite de lote é o `max_tokens`, porque o Gemini 3 gasta tokens raciocinando antes de responder.
+  - A ponte tenta de novo cada 429 até 3 vezes e para depois de 3 lotes com erro.
 - **Revisão:** todas as `ok=false` (nenhuma), os 9 avisos e 30 `ok=true` por amostra.
   - Os 7 avisos de glossário eram falsos positivos de singular/plural; o validador foi corrigido.
   - 3 traduções precisaram de ajuste manual: "LMB" virou "botão esquerdo do mouse", saiu um "Por favor" que o inglês não tem, e "comissioná-lo" foi reescrito.
