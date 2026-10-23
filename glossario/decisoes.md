@@ -9,6 +9,7 @@ Estado: **aprovado em 2026-10-22**, com ajustes: fases Inicial/Médio/Final e gl
 | `obrigatorios.json` | Termos próprios do jogo (reinos, técnicas, seitas, atributos, destinos, cultivo). O `ptbr.py validate` marca `revisar` quando o termo aparece na fonte e a tradução aprovada não aparece no `pt`. |
 | `sugestoes.json` | Palavras genéricas (Master, Friend, Girl, Power, Path…). Vão para o modelo, mas não disparam `revisar`. |
 | `glossario.json` | **Gerado** por `ptbr.py glossario` (junta os dois níveis); é o `glossary_path` do `omni_translate`. Não edite à mão. |
+| `excecoes.json` | Nomes próprios (lista de strings) que o validador não confere por dentro. Ex.: "Tao Tie" (饕餮) contém "Tao", mas fica em pinyin. Termos fora do nome continuam sendo conferidos. |
 | `candidatos.tsv` | Candidatos gerados por `tools/ptbr/glossario_candidatos.py`. |
 
 Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais, contra o `en`, com maiúsculas e minúsculas exatas e palavra inteira. Vale a correspondência mais longa, contando também as sugestões: em "Taoist Mind" só se exige "Coração do Dao". No `pt`, a busca ignora acento e maiúscula e aceita plural. Por isso, termo obrigatório que muda de gênero (como "Crit": Crítico/Crítica) fica nas sugestões.
@@ -19,7 +20,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 2. **Marcadores intactos:** `{…}`, `&…&`, `$…$`, `%s`, as tags `<…>` e as quebras de linha ficam iguais e na mesma quantidade (`ptbr.py validate`). A ordem pode mudar para a frase soar natural.
 3. **Nomes próprios em pinyin, como no `en`:** pessoas (Zhang San, Feng Pingmo), regiões (Hua Feng, Mu Xian, Yun Mo, Yong Ning, Chi You), cidades e sílabas de seita (Tian Yuan, Yao Chenzun). Só a parte descritiva é traduzida: `Tian Yuan Mountain` → `Montanha Tian Yuan`, `X Sect` → `Seita X`, `X Pavilion` → `Pavilhão X`.
    - As sílabas que o `en` traduziu por sentido dentro de nomes de seita (Heavenly, Dragon, Golden…) seguem o grupo "Seitas, lugares e títulos" e os adjetivos de "Interface e jogo".
-   - Exceções conhecidas de "Tao": em nome próprio (sílaba de seita 涛, a criatura "Tao Tie" 饕餮) fica em pinyin, e o validador pode marcar `revisar` nesses casos. Nos outros, `Tao` → `Dao`.
+   - Exceções conhecidas de "Tao": em nome próprio (sílaba de seita 涛, a criatura "Tao Tie" 饕餮) fica em pinyin. Esses nomes vão para `excecoes.json`, para o validador não marcar `revisar`. Nos outros casos, `Tao` → `Dao`.
 4. **Tratamento:** "você" por padrão. "O senhor / a senhora" quando o `en` marca respeito ou hierarquia (Senior, Elder, Master, My Lord, Venerable).
    - Discípulos de uma mesma seita: `Irmão/Irmã Marcial Sênior/Júnior`.
    - Ao falar de si mesmo com humildade ("this old man", "this junior"): "este velho", "este júnior".

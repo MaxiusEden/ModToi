@@ -175,6 +175,18 @@ def obligatory_terms():
     return _glossary
 
 
+_exceptions = None
+
+
+def exception_res():
+    """Nomes próprios (glossario/excecoes.json) cujo interior o validador não confere."""
+    global _exceptions
+    if _exceptions is None:
+        _exceptions = [re.compile(re.escape(n) if CJK_RE.search(n) else r'(?<![A-Za-z])' + re.escape(n) + r'(?![A-Za-z])')
+                       for n in load_glossary('excecoes.json') or []]
+    return _exceptions
+
+
 def glossary_misses(entry):
     """Termos obrigatórios presentes na fonte cuja tradução aprovada falta no pt.
 
@@ -184,7 +196,7 @@ def glossary_misses(entry):
     misses = []
     for source in ('en', 'ch'):
         text = entry.get(source, '')
-        covered = []
+        covered = [m.span() for rx in exception_res() for m in rx.finditer(text)]
         for term, tr, rx, is_ch, required in obligatory_terms():
             if is_ch != (source == 'ch'):
                 continue
