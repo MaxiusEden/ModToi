@@ -14,6 +14,7 @@ KIT_JSON = GAME_DIR / 'Mod/modFQA/配置修改教程/配置（只读）Json格�
 DUMP = GAME_DIR / f'ModExportData/Mod_{MOD_ID}/ptbr_missing_LocalText.txt'
 WORK_DIR = REPO / 'traducao/LocalText'
 OUT_JSON = REPO / f'ModProject_{MOD_ID}/ModProject/ModAssets/ptbr/LocalText.json'
+GLOSS_DIR = REPO / 'glossario'
 
 # Tokens que o jogo substitui em runtime e precisam sobreviver intactos à tradução.
 TOKEN_RE = re.compile(r'\{[^{}\s]*\}|&[A-Za-z0-9_.%+\-*/|]+&|\$[A-Za-z0-9_]+\$|%[0-9.]*[sdf]')
@@ -208,6 +209,24 @@ def cmd_build(args):
     return 0
 
 
+def load_glossary(name):
+    path = GLOSS_DIR / name
+    return json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+
+
+def cmd_glossario(args):
+    obrig, sug = load_glossary('obrigatorios.json'), load_glossary('sugestoes.json')
+    both = sorted(set(obrig) & set(sug))
+    if both:
+        print(f'termos nos dois níveis: {both}')
+        return 1
+    merged = {**obrig, **sug}
+    (GLOSS_DIR / 'glossario.json').write_text(
+        json.dumps(merged, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
+    print(f'glossario.json: {len(merged)} termos ({len(obrig)} obrigatórios + {len(sug)} sugestões)')
+    return 0
+
+
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
     ap = argparse.ArgumentParser(description=__doc__)
@@ -217,8 +236,10 @@ def main():
     p = sub.add_parser('validate', help='confere tokens, tags e quebras de linha das traduções')
     p.add_argument('--report', default=str(REPO / 'traducao/validacao.txt'))
     sub.add_parser('build', help='gera o LocalText.json do mod com as traduções válidas')
+    sub.add_parser('glossario', help='junta obrigatorios.json e sugestoes.json em glossario.json (entrada do omni_translate)')
     args = ap.parse_args()
-    return {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build}[args.cmd](args) or 0
+    cmds = {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build, 'glossario': cmd_glossario}
+    return cmds[args.cmd](args) or 0
 
 
 if __name__ == '__main__':
