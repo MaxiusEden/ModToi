@@ -1722,17 +1722,23 @@
  "PlayerInfo_daojutishi": {
   "ch": "注：五个道具栏可以带入战斗，只可以装入丹药、法宝。\n每个槽位最多可携带5颗丹药。",
   "en": "Note: There are 5 item slots available for combat. Only Elixirs and Artifacts can be equipped.\nEach slot can be equipped with up to 5 Elixirs.",
-  "pt": ""
+  "pt": "Nota: Existem 5 espaços de itens disponíveis para combate. Apenas Elixires e Artefatos podem ser equipados.\nCada espaço pode ser equipado com até 5 Elixires.",
+  "auto": "gemini-3-flash-preview"
  },
  "PlayerInfo_kuangshi": {
   "ch": "矿石",
   "en": "Ore",
-  "pt": ""
+  "pt": "Minério",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "PlayerInfo_yaocai": {
   "ch": "药材",
   "en": "Herbology",
-  "pt": ""
+  "pt": "Herbologia",
+  "auto": "gemini-3-flash-preview"
  },
  "RuleDungeonName1": {
   "ch": "刀",
@@ -7537,177 +7543,217 @@
  "defaultKeysGroupText_1": {
   "ch": "战斗内键位",
   "en": "Key Bindings (In Combat)",
-  "pt": ""
+  "pt": "Atalhos (Em Combate)",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysGroupText_2": {
   "ch": "大地图键位",
   "en": "Key Bindings (World Map)",
-  "pt": ""
+  "pt": "Atalhos (Mapa Mundi)",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_100": {
   "ch": "上",
   "en": "Up",
-  "pt": ""
+  "pt": "Cima",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_101": {
   "ch": "下",
   "en": "Down",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_102": {
   "ch": "左",
   "en": "Left",
-  "pt": ""
+  "pt": "Esquerda",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_103": {
   "ch": "右",
   "en": "Right",
-  "pt": ""
+  "pt": "Direita",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_104": {
   "ch": "武技/灵技",
   "en": "Martial/Spiritual Skill",
-  "pt": ""
+  "pt": "Técnica Marcial/Espiritual",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_105": {
   "ch": "绝技",
   "en": "Special Skill",
-  "pt": ""
+  "pt": "Técnica Especial",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_106": {
   "ch": "身法",
   "en": "Motion Skill",
-  "pt": ""
+  "pt": "Técnica de Movimento",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_107": {
   "ch": "神通",
   "en": "Ultimate Skill",
-  "pt": ""
+  "pt": "Técnica Suprema",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_108": {
   "ch": "道具1",
   "en": "Item 1",
-  "pt": ""
+  "pt": "Item 1",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_109": {
   "ch": "道具2",
   "en": "Item 2",
-  "pt": ""
+  "pt": "Item 2",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_110": {
   "ch": "道具3",
   "en": "Item 3",
-  "pt": ""
+  "pt": "Item 3",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_111": {
   "ch": "道具4",
   "en": "Item 4",
-  "pt": ""
+  "pt": "Item 4",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_112": {
   "ch": "道具5",
   "en": "Item 5",
-  "pt": ""
+  "pt": "Item 5",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_113": {
   "ch": "互动",
   "en": "Interact",
-  "pt": ""
+  "pt": "Interagir",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_114": {
   "ch": "领域",
   "en": "Field",
-  "pt": ""
+  "pt": "Domínio",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_115": {
   "ch": "释放神器技能",
   "en": "Cast Artifact Skill",
-  "pt": ""
+  "pt": "Usar Habil. de Artefato",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_116": {
   "ch": "释放仙法",
   "en": "Cast Heavenly Art",
-  "pt": ""
+  "pt": "Lançar Arte Imortal",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_117": {
   "ch": "自动锁定怪物",
   "en": "Auto-lock monster",
-  "pt": ""
+  "pt": "Mira automática",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_200": {
   "ch": "上",
   "en": "Up",
-  "pt": ""
+  "pt": "Cima",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_201": {
   "ch": "下",
   "en": "Down",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_202": {
   "ch": "左",
   "en": "Left",
-  "pt": ""
+  "pt": "Esquerda",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_203": {
   "ch": "右",
   "en": "Right",
-  "pt": ""
+  "pt": "Direita",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_204": {
   "ch": "人物属性",
   "en": "Stats",
-  "pt": ""
+  "pt": "Status",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_205": {
   "ch": "技能",
   "en": "Skills",
-  "pt": ""
+  "pt": "Habilidades",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_206": {
   "ch": "背包",
   "en": "Inventory",
-  "pt": ""
+  "pt": "Inventário",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_207": {
   "ch": "任务",
   "en": "Mission",
-  "pt": ""
+  "pt": "Missão",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_208": {
   "ch": "信件",
   "en": "Mail",
-  "pt": ""
+  "pt": "Correio",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_210": {
   "ch": "小地图",
   "en": "Region Map",
-  "pt": ""
+  "pt": "Mapa Regional",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "defaultKeysKeyText_211": {
   "ch": "技艺",
   "en": "Artisanship",
-  "pt": ""
+  "pt": "Artesanato",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_212": {
   "ch": "跳过本月",
   "en": "Skip Month",
-  "pt": ""
+  "pt": "Pular Mês",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_213": {
   "ch": "逆天改命",
   "en": "Rewrite Destiny",
-  "pt": ""
+  "pt": "Reescrever o Destino",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_214": {
   "ch": "神器",
   "en": "Artifacts",
-  "pt": ""
+  "pt": "Artefatos",
+  "auto": "gemini-3-flash-preview"
  },
  "defaultKeysKeyText_215": {
   "ch": "仙法",
   "en": "Heavenly Art",
-  "pt": ""
+  "pt": "Arte Imortal",
+  "auto": "gemini-3-flash-preview"
  },
  "defendTacticScope": {
   "ch": "韬光养晦",
@@ -7947,27 +7993,32 @@
  "diffName1": {
   "ch": "普通",
   "en": "Normal",
-  "pt": ""
+  "pt": "Normal",
+  "auto": "gemini-3-flash-preview"
  },
  "diffName2": {
   "ch": "困难",
   "en": "Hard",
-  "pt": ""
+  "pt": "Difícil",
+  "auto": "gemini-3-flash-preview"
  },
  "diffName3": {
   "ch": "极难",
   "en": "Nightmare",
-  "pt": ""
+  "pt": "Pesadelo",
+  "auto": "gemini-3-flash-preview"
  },
  "diffName4": {
   "ch": "地狱",
   "en": "Hell",
-  "pt": ""
+  "pt": "Inferno",
+  "auto": "gemini-3-flash-preview"
  },
  "diffName5": {
   "ch": "残酷地狱",
   "en": "Chaos",
-  "pt": ""
+  "pt": "Caos",
+  "auto": "gemini-3-flash-preview"
  },
  "diffPrice1": {
   "ch": "适宜",
@@ -15992,22 +16043,26 @@
  "login_artBook": {
   "ch": "八荒博物志",
   "en": "Archive of the Realm",
-  "pt": ""
+  "pt": "Arquivo do Reino",
+  "auto": "gemini-3-flash-preview"
  },
  "login_buding50": {
   "ch": "正在建立新宗门，预计耗时2分钟，请耐心等待......",
   "en": "The Sect is being established now. Estimated time is 2 minutes. Please wait...",
-  "pt": ""
+  "pt": "A Seita está sendo estabelecida agora. Tempo estimado de 2 minutos. Por favor, aguarde...",
+  "auto": "gemini-3-flash-preview"
  },
  "login_chongshurouren": {
   "ch": "正在重塑肉身",
   "en": "Reconstructing body...",
-  "pt": ""
+  "pt": "Reconstruindo corpo...",
+  "auto": "gemini-3-flash-preview"
  },
  "login_cundang": {
   "ch": "你确定进入游戏吗？",
   "en": "Enter the game?",
-  "pt": ""
+  "pt": "Entrar no jogo?",
+  "auto": "gemini-3-flash-preview"
  },
  "login_jinruhuijuan": {
   "ch": "进入八荒",
@@ -16017,47 +16072,56 @@
  "login_nandudengji": {
   "ch": "难度等级",
   "en": "Difficulty Level",
-  "pt": ""
+  "pt": "Nível de Dificuldade",
+  "auto": "gemini-3-flash-preview"
  },
  "login_nandujiesuotishi": {
   "ch": "{0}达到{1}，解锁{2}",
   "en": "Increase {0} to {1} to unlock {2}",
-  "pt": ""
+  "pt": "Aumente {0} para {1} para desbloquear {2}",
+  "auto": "gemini-3-flash-preview"
  },
  "login_ningjuroushen": {
   "ch": "正在凝聚肉身\\t还有{0}小时{1}分{2}秒",
   "en": "Reconstructing body...\\tTime remaining {0}:{1}:{2}",
-  "pt": ""
+  "pt": "Reconstruindo corpo...\\tTempo restante {0}:{1}:{2}",
+  "auto": "gemini-3-flash-preview"
  },
  "login_qiyuntishi": {
   "ch": "请选择3个初始气运",
   "en": "Select 3 Initial Destinies",
-  "pt": ""
+  "pt": "Selecione 3 Destinos Iniciais",
+  "auto": "gemini-3-flash-preview"
  },
  "login_qiyuntishi1": {
   "ch": "请选择3个初始气运，已锁定的气运重新随机时不会消失。",
   "en": "Please select 3 initial Destinies. Locked Destinies will be preserved when re-rolling.",
-  "pt": ""
+  "pt": "Por favor, selecione 3 Destinos iniciais. Destinos bloqueados serão preservados ao girar novamente.",
+  "auto": "gemini-3-flash-preview"
  },
  "login_qiyuntishi2": {
   "ch": "请选择3个初始气运，B键锁定气运，已锁定的气运重新随机时不会消失。",
   "en": "Please select 3 initial Destinies. Press B to lock Destinies. Locked Destinies will be preserved when re-rolling.",
-  "pt": ""
+  "pt": "Por favor, selecione 3 Destinos iniciais. Pressione B para bloquear Destinos. Destinos bloqueados serão preservados ao girar novamente.",
+  "auto": "gemini-3-flash-preview"
  },
  "login_riqi": {
   "ch": "第<color=#ff0000>{0}</color>年<color=#ff0000>{1}</color>月",
   "en": "Year <color=#ff0000>{0}</color> Month <color=#ff0000>{1}</color>",
-  "pt": ""
+  "pt": "Ano <color=#ff0000>{0}</color> Mês <color=#ff0000>{1}</color>",
+  "auto": "gemini-3-flash-preview"
  },
  "login_shanchucundang": {
   "ch": "你确定删除这个存档吗？",
   "en": "Delete this save?",
-  "pt": ""
+  "pt": "Excluir este save?",
+  "auto": "gemini-3-flash-preview"
  },
  "login_shanhaiwangshi": {
   "ch": "八荒往事",
   "en": "Achievements",
-  "pt": ""
+  "pt": "Conquistas",
+  "auto": "gemini-3-flash-preview"
  },
  "login_shezhi": {
   "ch": "设置",
@@ -16067,17 +16131,20 @@
  "login_shiyixia": {
   "ch": "试一下",
   "en": "Try",
-  "pt": ""
+  "pt": "Tentar",
+  "auto": "gemini-3-flash-preview"
  },
  "login_siwangyuanyin": {
   "ch": "死于{0}之手",
   "en": "Killed by {0}",
-  "pt": ""
+  "pt": "Morto por {0}",
+  "auto": "gemini-3-flash-preview"
  },
  "login_tip1": {
   "ch": "又西八十里，曰小华之山。",
   "en": "又西八十里，曰小华之山。",
-  "pt": ""
+  "pt": "Mais oitenta li a oeste, fica a Montanha Xiaohua.",
+  "auto": "gemini-3-flash-preview"
  },
  "login_tuichuhuijuan": {
   "ch": "退出八荒",
@@ -16087,27 +16154,32 @@
  "login_weishurumingzi": {
   "ch": "请输入名字",
   "en": "Enter your name",
-  "pt": ""
+  "pt": "Insira seu nome",
+  "auto": "gemini-3-flash-preview"
  },
  "login_weixuanzheqiyun": {
   "ch": "请选择3个先天气运",
   "en": "Select 3 Destinies (Nature)",
-  "pt": ""
+  "pt": "Selecione 3 Destinos (Naturais)",
+  "auto": "gemini-3-flash-preview"
  },
  "login_weixuanzhexingge": {
   "ch": "请选择2个外在性格",
   "en": "Select 2 External Traits",
-  "pt": ""
+  "pt": "Selecione 2 Traços Externos",
+  "auto": "gemini-3-flash-preview"
  },
  "login_xincundang": {
   "ch": "（创建存档 +）",
   "en": "(New Save +)",
-  "pt": ""
+  "pt": "(Novo Jogo +)",
+  "auto": "gemini-3-flash-preview"
  },
  "login_zuiduosange": {
   "ch": "最多选择三个先天气运",
   "en": "Up to 3 Destinies (Nature) can be selected",
-  "pt": ""
+  "pt": "Até 3 Destinos (Naturais) podem ser selecionados",
+  "auto": "gemini-3-flash-preview"
  },
  "longnv_race": {
   "ch": "龙族",
@@ -19072,127 +19144,154 @@
  "playerInfo_bukezhuangbeijing": {
   "ch": "无法再装备经类型心法",
   "en": "Cannot equip any more Sutra style Mind Skill",
-  "pt": ""
+  "pt": "Não é possível equipar mais Técnicas Mentais do tipo Sutra",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_cailiao": {
   "ch": "材料",
   "en": "Material",
-  "pt": ""
+  "pt": "Material",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_cloth": {
   "ch": "服饰",
   "en": "Outfit",
-  "pt": ""
+  "pt": "Roupa",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_danyao": {
   "ch": "丹药",
   "en": "Elixir",
-  "pt": ""
+  "pt": "Elixir",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_daodian": {
   "ch": "道点",
   "en": "Skill Point",
-  "pt": ""
+  "pt": "Ponto de Habil.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_daodianbuzhu": {
   "ch": "道点不足",
   "en": "Not enough Skill Points",
-  "pt": ""
+  "pt": "Pontos de Habilidade insuficientes",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_daofa": {
   "ch": "刀法",
   "en": "Blade",
-  "pt": ""
+  "pt": "Lâmina",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_daojutishi1": {
   "ch": "注：五个道具栏可以带入战斗，只可以装入丹药、法宝。\n每个槽位最多可携带5颗丹药或一个法宝（法宝需要占用念力上限）。",
   "en": "Note: There are 5 item slots available for combat. Only Elixirs and Artifacts can be equipped.\nEach slot can be equipped with up to 5 Elixirs or 1 Artifact (Equipping an artifact takes up Focus).",
-  "pt": ""
+  "pt": "Nota: Existem 5 espaços de itens disponíveis para combate. Apenas Elixires e Artefatos podem ser equipados.\nCada espaço pode ser equipado com até 5 Elixires ou 1 Artefato (Equipar um artefato consome Foco).",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_fabao": {
   "ch": "法宝",
   "en": "Artifact",
-  "pt": ""
+  "pt": "Artefato",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_fabaotuzhitishi": {
   "ch": "注：炼器图谱在工坊的炼器中获得。",
   "en": "Note: Forge Charts can be purchased at Workshops.",
-  "pt": ""
+  "pt": "Nota: Diagramas de Forja podem ser adquiridos em Oficinas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_fengshui": {
   "ch": "风水",
   "en": "Feng Shui",
-  "pt": ""
+  "pt": "Feng Shui",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_fengshuitishi": {
   "ch": "注：风水技能书可在城镇的坊市中购买获得。",
   "en": "Tip: Feng Shui Skill Books can be purchased at the Market in various towns.",
-  "pt": ""
+  "pt": "Dica: Livros de Habilidade de Feng Shui podem ser comprados no Mercado em várias vilas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_fulu": {
   "ch": "符箓",
   "en": "Charm",
-  "pt": ""
+  "pt": "Talismã",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_gerenjingli": {
   "ch": "个人经历",
   "en": "Personal Experience",
-  "pt": ""
+  "pt": "Experiência Pessoal",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_gerenshuxing": {
   "ch": "个人属性",
   "en": "General",
-  "pt": ""
+  "pt": "Geral",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_houtianqiyun": {
   "ch": "后天气运",
   "en": "Destiny (Nurture)",
-  "pt": ""
+  "pt": "Destino (Cultivado)",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_huafu": {
   "ch": "画符",
   "en": "Talismans",
-  "pt": ""
+  "pt": "Talismãs",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_huafu2": {
   "ch": "画符",
   "en": "Talismans",
-  "pt": ""
+  "pt": "Talismãs",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_huafutishi": {
   "ch": "注：画符图谱可通过完成酒馆任务“符箓奇闻”获得",
   "en": "Tip: You may obtain Charts of Talismans from \"Story of Charms\" questline in taverns.",
-  "pt": ""
+  "pt": "Dica: Você pode obter Diagramas de Talismãs na linha de missão \"História de Talismãs\" em tavernas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jianfa": {
   "ch": "剑法",
   "en": "Sword",
-  "pt": ""
+  "pt": "Espada",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiechu": {
   "ch": "解除",
   "en": "Cancel",
-  "pt": ""
+  "pt": "Cancelar",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiechuguanxi": {
   "ch": "解除关系",
   "en": "Cancel Relationship",
-  "pt": ""
+  "pt": "Cancelar Relacionamento",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiezhi": {
   "ch": "戒指",
   "en": "Ring",
-  "pt": ""
+  "pt": "Anel",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jinengtishi1": {
   "ch": "注：拖动心法图标进行装备；有些心法需要较高的道点",
   "en": "Note: Drag the icon of a Mind Skill to equip it. Some Mind Skills require high Skill Points.",
-  "pt": ""
+  "pt": "Nota: Arraste o ícone de uma Técnica Mental para equipá-la. Algumas Técnicas Mentais exigem altos Pontos de Habilidade.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jinengtishi2": {
   "ch": "注：此处装备武学可用于战斗",
   "en": "Note: Equip skills here to use them in combat",
-  "pt": ""
+  "pt": "Nota: Equipe habilidades aqui para usá-las em combate",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jingli": {
   "ch": "经历",
@@ -19203,312 +19302,378 @@
  "playerInfo_jinqijingli": {
   "ch": "近期经历",
   "en": "Recent Events",
-  "pt": ""
+  "pt": "Eventos Recentes",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyi": {
   "ch": "技艺",
   "en": "Artisanship",
-  "pt": ""
+  "pt": "Artesanato",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyitishi": {
   "ch": "尚未学习此类技艺",
   "en": "You haven't learned this artisanship skill!",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta habilidade de artesanato!",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyitishi2": {
   "ch": "尚未学习此类技艺\n炼丹需要学习丹方",
   "en": "You haven't learned this artisanship skill!\nYou need the corresponding Elixir Recipe to concoct an Elixir.",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta habilidade de artesanato!\nVocê precisa da Receita de Elixir correspondente para preparar um Elixir.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyitishi3": {
   "ch": "尚未学习此类技艺\n风水技能书可在城镇的坊市中购买获得",
   "en": "You haven't learned this artisanship skill!\nFeng Shui Skill Books can be purchased at the Market in various towns.",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta habilidade de artesanato!\nLivros de Habilidade de Feng Shui podem ser comprados no Mercado em várias vilas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyitishi4": {
   "ch": "尚未学习此类技艺\n药谱可在城镇的坊市中购买获得",
   "en": "You haven't learned this artisanship skill!\nPrescriptions can be purchased at the Market in various towns.",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta habilidade de artesanato!\nPrescrições podem ser compradas no Mercado em várias vilas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyitishi5": {
   "ch": "尚未学习此类技艺\n矿材鉴识可在城镇的坊市中购买获得",
   "en": "You haven't learned this Artisanship skill!\nIdentification Manuals can be purchased at the Market in various towns.",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta habilidade de artesanato!\nManuais de Identificação podem ser comprados no Mercado em várias vilas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyitishi6": {
   "ch": "尚未学习此类技艺\n画符需要学习图谱",
   "en": "You haven't learned this artisanship skill!\nYou need the corresponding Chart to make Talismans.",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta habilidade de artesanato!\nVocê precisa do Diagrama correspondente para criar Talismãs.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_jiyizizhi": {
   "ch": "技艺资质",
   "en": "Artisanship",
-  "pt": ""
+  "pt": "Artesanato",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_juejilingji": {
   "ch": "武技/灵技",
   "en": "Martial/Spiritual",
-  "pt": ""
+  "pt": "Marcial/Espiritual",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_juelietishi": {
   "ch": "决裂将会损失所有的亲密度，并增加少量的仇恨值。",
   "en": "If you cancel your relationship, the Affinity between you two will be cleared, and Hatred will increase by a small amount.",
-  "pt": ""
+  "pt": "Se você cancelar seu relacionamento, a Afinidade entre vocês dois será zerada e o Ódio aumentará um pouco.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_juezhao": {
   "ch": "绝技",
   "en": "Special",
-  "pt": ""
+  "pt": "Especial",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_kanyufanwei": {
   "ch": "当前堪舆范围：{0}格",
   "en": "Geomancy Range: {0}",
-  "pt": ""
+  "pt": "Alcance de Geomancia: {0}",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_kongweiyiman": {
   "ch": "可装备孔位已满",
   "en": "No empty slots",
-  "pt": ""
+  "pt": "Sem espaços vazios",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_kuangcai": {
   "ch": "矿材",
   "en": "Mining",
-  "pt": ""
+  "pt": "Mineração",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_kuangcaitishi": {
   "ch": "注：矿材鉴识可在城镇的坊市中购买获得。",
   "en": "Tip: Identification Manuals can be purchased at the Market in various towns.",
-  "pt": ""
+  "pt": "Dica: Manuais de Identificação podem ser comprados no Mercado em várias vilas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_kuangcai·": {
   "ch": "矿材",
   "en": "Ore",
-  "pt": ""
+  "pt": "Minério",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "playerInfo_liandan": {
   "ch": "炼丹",
   "en": "Alchemy",
-  "pt": ""
+  "pt": "Alquimia",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_liandantishi": {
   "ch": "注：丹方、丹炉均可在宗门的聚宝仙楼中兑换获得。",
   "en": "Tip: Elixir Recipes and Furnaces can be redeemed at the Treasure Pavilion of various sects.",
-  "pt": ""
+  "pt": "Dica: Receitas de Elixir e Fornalhas podem ser resgatadas no Pavilhão do Tesouro de várias seitas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_lianqi": {
   "ch": "炼器",
   "en": "Forge",
-  "pt": ""
+  "pt": "Forja",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_linggenzizhi": {
   "ch": "灵根资质",
   "en": "Spiritual Root",
-  "pt": ""
+  "pt": "Raiz Espiritual",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_miji": {
   "ch": "秘籍",
   "en": "Manual",
-  "pt": ""
+  "pt": "Manual",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_nianlishangxian": {
   "ch": "念力上限",
   "en": "Max Focus",
-  "pt": ""
+  "pt": "Foco Máx.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_qiangfa": {
   "ch": "枪法",
   "en": "Spear",
-  "pt": ""
+  "pt": "Lança",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_qiling": {
   "ch": "器灵",
   "en": "Artifact Spirit",
-  "pt": ""
+  "pt": "Espírito do Artefato",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_qita": {
   "ch": "其他",
   "en": "Other",
-  "pt": ""
+  "pt": "Outros",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_qiyunshijian": {
   "ch": "剩余{0}个月",
   "en": "{0} month(s) left",
-  "pt": ""
+  "pt": "{0} mês(es) restante(s)",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_quanbu": {
   "ch": "全部",
   "en": "All",
-  "pt": ""
+  "pt": "Tudo",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_quanfa": {
   "ch": "拳法",
   "en": "Fist",
-  "pt": ""
+  "pt": "Punho",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_rizhitishi": {
   "ch": "提示：鼠标放在图标上可以显示日志详细过程",
   "en": "Tip: Hover over an icon to view its details",
-  "pt": ""
+  "pt": "Dica: Passe o mouse sobre um ícone para ver seus detalhes",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_shenfa": {
   "ch": "身法",
   "en": "Motion",
-  "pt": ""
+  "pt": "Movimento",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_shengyadashi": {
   "ch": "生涯大事",
   "en": "Major Events",
-  "pt": ""
+  "pt": "Grandes Eventos",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "playerInfo_shengyatongji": {
   "ch": "生涯统计",
   "en": "Statistics",
-  "pt": ""
+  "pt": "Estatísticas",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_shentong": {
   "ch": "神通",
   "en": "Ultimate",
-  "pt": ""
+  "pt": "Supremo",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_tuoxia": {
   "ch": "卸载",
   "en": "Remove",
-  "pt": ""
+  "pt": "Remover",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_tupo": {
   "ch": "突破",
   "en": "Breakthrough",
-  "pt": ""
+  "pt": "Avanço",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_wufatihuanlianti": {
   "ch": "无法替换九转炼体经",
   "en": "Cannot replace Divine Physique Sutra",
-  "pt": ""
+  "pt": "Não é possível substituir o Sutra do Físico Divino",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_wufatuodong": {
   "ch": "至少保留一个武技",
   "en": "Please keep at least 1 Martial Skill",
-  "pt": ""
+  "pt": "Por favor, mantenha pelo menos 1 Técnica Marcial",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_wuji": {
   "ch": "武技",
   "en": "Martial",
-  "pt": ""
+  "pt": "Marcial",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_wuxian": {
   "ch": "无限",
   "en": "无限",
-  "pt": ""
+  "pt": "Infinito",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xianji": {
   "ch": "仙鸡",
   "en": "Immortal Chicken",
-  "pt": ""
+  "pt": "Frango Imortal",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xianli": {
   "ch": "本源仙力",
   "en": "Essence Heavenly Power",
-  "pt": ""
+  "pt": "Poder Celestial da Essência",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xinde": {
   "ch": "心得",
   "en": "Knowledge",
-  "pt": ""
+  "pt": "Conhecimento",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xindeshangxian": {
   "ch": "已达上限",
   "en": "Limit reached",
-  "pt": ""
+  "pt": "Limite atingido",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xindetishi": {
   "ch": "与NPC论道可获得心得，心得达到上限可以转换成道点。",
   "en": "Debate with NPCs to obtain Knowledge. When Knowledge reaches its limit, you can convert it into Skill Points.",
-  "pt": ""
+  "pt": "Debata com NPCs para obter Conhecimento. Quando o Conhecimento atingir o limite, você poderá convertê-lo em Pontos de Habilidade.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xinfa": {
   "ch": "心法",
   "en": "Mind",
-  "pt": ""
+  "pt": "Mente",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xingquaihao": {
   "ch": "兴趣",
   "en": "Interests",
-  "pt": ""
+  "pt": "Interesses",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_xuanzhe": {
   "ch": "选择：",
   "en": "Selection:",
-  "pt": ""
+  "pt": "Seleção:",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_yaocai": {
   "ch": "药材",
   "en": "Herbology",
-  "pt": ""
+  "pt": "Herbologia",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_yaoputishi": {
   "ch": "注：药谱可在城镇的坊市中购买获得。",
   "en": "Tip: Prescriptions can be purchased at the Market in various towns.",
-  "pt": ""
+  "pt": "Dica: Prescrições podem ser compradas no Mercado em várias vilas.",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_yiwang": {
   "ch": "你确定遗忘{0}吗？",
   "en": "Unlearn {0}?",
-  "pt": ""
+  "pt": "Esquecer {0}?",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_yizhuangbei": {
   "ch": "武学已装备",
   "en": "Already equipped",
-  "pt": ""
+  "pt": "Já equipado",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhandoudaoju": {
   "ch": "战斗道具",
   "en": "Combat Item",
-  "pt": ""
+  "pt": "Item de Combate",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhandoushuxing": {
   "ch": "战斗属性",
   "en": "Combat",
-  "pt": ""
+  "pt": "Combate",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhandouzizhi": {
   "ch": "功法资质",
   "en": "Martial Arts",
-  "pt": ""
+  "pt": "Artes Marciais",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhangfa": {
   "ch": "掌法",
   "en": "Palm",
-  "pt": ""
+  "pt": "Palma",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhifa": {
   "ch": "指法",
   "en": "Finger",
-  "pt": ""
+  "pt": "Dedo",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhuangbei": {
   "ch": "装备",
   "en": "Equip",
-  "pt": ""
+  "pt": "Equipar",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhuangbeidaoju": {
   "ch": "装备道具",
   "en": "Functional Item",
-  "pt": ""
+  "pt": "Item Funcional",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhuangpeizhong": {
   "ch": "装配中",
   "en": "Equipped",
-  "pt": ""
+  "pt": "Equipado",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zhuanhuan": {
   "ch": "转换",
   "en": "Convert",
-  "pt": ""
+  "pt": "Converter",
+  "auto": "gemini-3-flash-preview"
  },
  "playerInfo_zuoqi": {
   "ch": "坐骑",
   "en": "Mount",
-  "pt": ""
+  "pt": "Montaria",
+  "auto": "gemini-3-flash-preview"
  },
  "playerLoseSoulDevourSword": {
   "ch": "噬魂剑流落八荒",
@@ -19583,7 +19748,8 @@
  "playerinfo_xuanzedanyao": {
   "ch": "请选择一颗{0}",
   "en": "Select 1 {0}",
-  "pt": ""
+  "pt": "Selecione 1 {0}",
+  "auto": "gemini-3-flash-preview"
  },
  "playerlinglishangxian": {
   "ch": "灵力上限：{0}",
@@ -22088,87 +22254,110 @@
  "schoolBuildingName1001": {
   "ch": "议事大厅",
   "en": "Council Hall",
-  "pt": ""
+  "pt": "Salão do Conselho",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "schoolBuildingName1002": {
   "ch": "藏经阁",
   "en": "Manual Library",
-  "pt": ""
+  "pt": "Acervo de Manuais",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "schoolBuildingName1003": {
   "ch": "任务大厅",
   "en": "Mission Hall",
-  "pt": ""
+  "pt": "Salão de Missões",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1004": {
   "ch": "演武堂",
   "en": "Martial Arts Hall",
-  "pt": ""
+  "pt": "Salão de Artes Marciais",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1005": {
   "ch": "疗伤院",
   "en": "Hospital",
-  "pt": ""
+  "pt": "Hospital",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1006": {
   "ch": "灵阁",
   "en": "Spirit Pavilion",
-  "pt": ""
+  "pt": "Pavilhão do Espírito",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1007": {
   "ch": "传送阵",
   "en": "Portal",
-  "pt": ""
+  "pt": "Portal",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1008": {
   "ch": "建木",
   "en": "Tree Vault",
-  "pt": ""
+  "pt": "Árvore-Cofre",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "schoolBuildingName1009": {
   "ch": "演武场",
   "en": "Martial Arts Arena",
-  "pt": ""
+  "pt": "Arena de Artes Marciais",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1010": {
   "ch": "传承",
   "en": "Traditional",
-  "pt": ""
+  "pt": "Herança",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1101": {
   "ch": "聚宝仙楼",
   "en": "Treasure Pavilion",
-  "pt": ""
+  "pt": "Pavilhão do Tesouro",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1102": {
   "ch": "神兽峰",
   "en": "Behemoth Peaks",
-  "pt": ""
+  "pt": "Picos dos Behemoths",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1103": {
   "ch": "娲皇祭坛",
   "en": "娲皇祭坛",
-  "pt": ""
+  "pt": "Altar de Nuwa",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1104": {
   "ch": "修炼圣地",
   "en": "修炼圣地",
-  "pt": ""
+  "pt": "Terra Sagrada de Cultivo",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1109": {
   "ch": "灵台",
   "en": "Spirit Platform",
-  "pt": ""
+  "pt": "Altar do Espírito",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "schoolBuildingName1110": {
   "ch": "烽火台",
   "en": "Beacon Platform",
-  "pt": ""
+  "pt": "Plataforma do Farol",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolBuildingName1112": {
   "ch": "青鳞池",
   "en": "Greenscale Spring",
-  "pt": ""
+  "pt": "Fonte de Escamas Verdes",
+  "auto": "gemini-3-flash-preview"
  },
  "schoolGetSoul_Tip": {
   "ch": "　　将任意<r>2</r>个灵果奉上，便可以从宗门神兽处获得<g>1</g>个指定资质的灵果。",
@@ -25373,137 +25562,172 @@
  "setting_baocun": {
   "ch": "保存游戏",
   "en": "Save",
-  "pt": ""
+  "pt": "Salvar",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_baocunchenggong": {
   "ch": "保存成功",
   "en": "Saved",
-  "pt": ""
+  "pt": "Salvo",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_baocuntishi": {
   "ch": "是否保存当前设置？",
   "en": "Save the current settings?",
-  "pt": ""
+  "pt": "Salvar as configurações atuais?",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_beijingyinyue": {
   "ch": "背景音乐",
   "en": "Music",
-  "pt": ""
+  "pt": "Música",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_bukeshezhi": {
   "ch": "（不可自定义）",
   "en": "(Customization not supported)",
-  "pt": ""
+  "pt": "(Personalização não suportada)",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_chongxinjiazaicundang": {
   "ch": "重新载入当前存档",
   "en": "Reload save",
-  "pt": ""
+  "pt": "Recarregar",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "setting_chongzaitishi": {
   "ch": "确定重新载入当前所保存的存档吗？（未保存的数据将丢失）",
   "en": "Reload the current save file? (Any unsaved progress will be lost)",
-  "pt": ""
+  "pt": "Recarregar o arquivo salvo atual? (Qualquer progresso não salvo será perdido)",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_chuangkou": {
   "ch": "窗口模式",
   "en": "Windowed",
-  "pt": ""
+  "pt": "Janela",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_cuowutishi1": {
   "ch": "必须在大地图中进行操作",
   "en": "This action is only allowed on the world map",
-  "pt": ""
+  "pt": "Esta ação só é permitida no mapa-múndi",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_cuowutishi2": {
   "ch": "当前操作下不可保存存档",
   "en": "You can't save the game while in your current state",
-  "pt": ""
+  "pt": "Você não pode salvar o jogo no seu estado atual",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_fanhui": {
   "ch": "返回主界面",
   "en": "Main Menu",
-  "pt": ""
+  "pt": "Menu Principal",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "setting_fenbianlv": {
   "ch": "分辨率",
   "en": "Resolution",
-  "pt": ""
+  "pt": "Resolução",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_guanbi": {
   "ch": "关闭",
   "en": "Close",
-  "pt": ""
+  "pt": "Fechar",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_guanbibowuzhi": {
   "ch": "",
   "en": "Close Archive",
-  "pt": ""
+  "pt": "Fechar Arquivo",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_huidaoyouxi": {
   "ch": "回到游戏",
   "en": "Resume",
-  "pt": ""
+  "pt": "Retomar",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_huifumoren": {
   "ch": "恢复默认",
   "en": "Default",
-  "pt": ""
+  "pt": "Padrão",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_jianweichongtu": {
   "ch": "键位冲突，请重新修改",
   "en": "Keybinding conflict detected. Press a different key.",
-  "pt": ""
+  "pt": "Conflito de teclas detectado. Pressione uma tecla diferente.",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_jianweishezhi": {
   "ch": "键位设置",
   "en": "Bindings",
-  "pt": ""
+  "pt": "Atalhos",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_shezhi": {
   "ch": "游戏设置",
   "en": "Settings",
-  "pt": ""
+  "pt": "Configurações",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 13 > 11 caracteres"
+  ]
  },
  "setting_shezhitishi": {
   "ch": "（按下需要替换的键位）",
   "en": "(Press a new key)",
-  "pt": ""
+  "pt": "(Aperte uma tecla)",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "setting_tuichu": {
   "ch": "退出游戏",
   "en": "Quit Game",
-  "pt": ""
+  "pt": "Sair do Jogo",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_tuichutishi": {
   "ch": "退出游戏将不会储存游戏进度",
   "en": "Your game progress won't be saved if you quit the game now",
-  "pt": ""
+  "pt": "Seu progresso não será salvo se você sair do jogo agora",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_xianshishezhi": {
   "ch": "显示设置",
   "en": "Video",
-  "pt": ""
+  "pt": "Vídeo",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_xitongshezhi": {
   "ch": "系统设置",
   "en": "System",
-  "pt": ""
+  "pt": "Sistema",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_yinpingshezhi": {
   "ch": "音频设置",
   "en": "Audio",
-  "pt": ""
+  "pt": "Áudio",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_yinxiao": {
   "ch": "音效",
   "en": "SFX",
-  "pt": ""
+  "pt": "SFX",
+  "auto": "gemini-3-flash-preview"
  },
  "setting_zhuyinliang": {
   "ch": "主音量",
   "en": "Master Volume",
-  "pt": ""
+  "pt": "Volume Mestre",
+  "auto": "gemini-3-flash-preview"
  },
  "shanchucundang": {
   "ch": "删除存档",
@@ -29413,102 +29637,126 @@
  "townBuildingName2001": {
   "ch": "坊市",
   "en": "Market",
-  "pt": ""
+  "pt": "Mercado",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2002": {
   "ch": "拍卖行",
   "en": "Auction House",
-  "pt": ""
+  "pt": "Casa de Leilões",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2003": {
   "ch": "传送阵",
   "en": "Portal",
-  "pt": ""
+  "pt": "Portal",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2004": {
   "ch": "客栈",
   "en": "Inn",
-  "pt": ""
+  "pt": "Estalagem",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2005": {
   "ch": "黑市",
   "en": "Black Market",
-  "pt": ""
+  "pt": "Mercado Negro",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2006": {
   "ch": "悬赏榜",
   "en": "Bounty Board",
-  "pt": ""
+  "pt": "Mural de Missões",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "townBuildingName2007": {
   "ch": "秘境",
   "en": "Mystic Realm",
-  "pt": ""
+  "pt": "Reino Místico",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2008": {
   "ch": "工坊",
   "en": "Workshop",
-  "pt": ""
+  "pt": "Oficina",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2009": {
   "ch": "酒馆",
   "en": "Tavern",
-  "pt": ""
+  "pt": "Taverna",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2010": {
   "ch": "琅琊阁",
   "en": "Manual Pavilion",
-  "pt": ""
+  "pt": "Pavilhão dos Manuais",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2011": {
   "ch": "建木",
   "en": "Tree Vault",
-  "pt": ""
+  "pt": "Árvore-Cofre",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "townBuildingName2012": {
   "ch": "升仙台",
   "en": "Immortal Arena",
-  "pt": ""
+  "pt": "Arena Imortal",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2013": {
   "ch": "仙衣阁",
   "en": "Immortal Wardrobe",
-  "pt": ""
+  "pt": "Guarda-roupa Imortal",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2014": {
   "ch": "天灵榜",
   "en": "Heavenly Ranking",
-  "pt": ""
+  "pt": "Ranking Celestial",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2015": {
   "ch": "仙盟任务大厅",
   "en": "Alliance Mission Hall",
-  "pt": ""
+  "pt": "Salão de Missões da Aliança",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2016": {
   "ch": "仙盟议事大厅",
   "en": "Alliance Council Hall",
-  "pt": ""
+  "pt": "Salão do Conselho da Aliança",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2017": {
   "ch": "御妖台",
   "en": "Monster Resisting Altar",
-  "pt": ""
+  "pt": "Altar de Resistência a Monstros",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2018": {
   "ch": "冥妖悬赏榜",
   "en": "Nether Demon Bounty Board",
-  "pt": ""
+  "pt": "Quadro de Recompensas de Demônios do Submundo",
+  "auto": "gemini-3-flash-preview"
  },
  "townBuildingName2020": {
   "ch": "斗鸡场",
   "en": "Cockfight Arena",
-  "pt": ""
+  "pt": "Rinha de Galos",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "townBuildingName2021": {
   "ch": "琅琊主阁",
   "en": "Main Manual Pavilion",
-  "pt": ""
+  "pt": "Pavilhão dos Manuais",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "townDress_duihuan": {
   "ch": "兑换",

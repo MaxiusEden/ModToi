@@ -2,541 +2,669 @@
  "player_bladeGrowRate": {
   "ch": "刀法技能熟练度提升倍率",
   "en": "Blade Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Lâmina",
+  "auto": "gemini-3-flash-preview"
  },
  "player_chiyou": {
   "ch": "持有：{0}灵石",
   "en": "Owned: {0} Spirit Stones",
-  "pt": ""
+  "pt": "Possui: {0} Pedras Espirituais",
+  "auto": "gemini-3-flash-preview"
  },
  "player_danyaodiejia": {
   "ch": "装备丹药的叠加数量",
   "en": "Max Elixir Stacks",
-  "pt": ""
+  "pt": "Acúmulo Máx. de Elixir",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_daofa": {
   "ch": "刀法",
   "en": "Blade",
-  "pt": ""
+  "pt": "Lâmina",
+  "auto": "gemini-3-flash-preview"
  },
  "player_daofazizi": {
   "ch": "刀法资质",
   "en": "Blade",
-  "pt": ""
+  "pt": "Lâmina",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_daoli": {
   "ch": "道力",
   "en": "Tao Power",
-  "pt": ""
+  "pt": "Poder do Dao",
+  "auto": "gemini-3-flash-preview"
  },
  "player_daolishangxian": {
   "ch": "道力上限",
   "en": "Max Tao Power",
-  "pt": ""
+  "pt": "Poder do Dao Máx.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_earthGrowRate": {
   "ch": "土属性法技能熟练度提升倍率",
   "en": "Earth Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Terra",
+  "auto": "gemini-3-flash-preview"
  },
  "player_energyDownRate": {
   "ch": "精力下降倍率",
   "en": "Stamina Decrease Rate",
-  "pt": ""
+  "pt": "Taxa de Diminuição de Vigor",
+  "auto": "gemini-3-flash-preview"
  },
  "player_energyUpRate": {
   "ch": "精力上升倍率",
   "en": "Stamina Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Vigor",
+  "auto": "gemini-3-flash-preview"
  },
  "player_expGrowRate": {
   "ch": "经验提升倍率",
   "en": "EXP Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de EXP",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fangyu": {
   "ch": "防御",
   "en": "DEF",
-  "pt": ""
+  "pt": "DEF",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fenglinggen": {
   "ch": "风灵根",
   "en": "Wind",
-  "pt": ""
+  "pt": "Vento",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fengshui": {
   "ch": "风水",
   "en": "Feng Shui",
-  "pt": ""
+  "pt": "Feng Shui",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fengshuizizi": {
   "ch": "风水资质",
   "en": "Feng Shui",
-  "pt": ""
+  "pt": "Feng Shui",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fingerGrowRate": {
   "ch": "指法技能熟练度提升倍率",
   "en": "Finger Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Dedo",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fireGrowRate": {
   "ch": "火属性法技能熟练度提升倍率",
   "en": "Fire Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Fogo",
+  "auto": "gemini-3-flash-preview"
  },
  "player_fistGrowRate": {
   "ch": "拳法技能熟练度提升倍率",
   "en": "Fist Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Punho",
+  "auto": "gemini-3-flash-preview"
  },
  "player_frozeGrowRate": {
   "ch": "水属性法技能熟练度提升倍率",
   "en": "Water Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Água",
+  "auto": "gemini-3-flash-preview"
  },
  "player_gongji": {
   "ch": "攻击",
   "en": "ATK",
-  "pt": ""
+  "pt": "ATQ",
+  "auto": "gemini-3-flash-preview"
  },
  "player_hateStable": {
   "ch": "仇恨度变化倍率",
   "en": "Hatred Change Rate",
-  "pt": ""
+  "pt": "Taxa de Mudança de Ódio",
+  "auto": "gemini-3-flash-preview"
  },
  "player_healthDownRate": {
   "ch": "健康下降倍率",
   "en": "Health Decrease Rate",
-  "pt": ""
+  "pt": "Taxa de Perda de Saúde",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_healthUpRate": {
   "ch": "健康上升倍率",
   "en": "Health Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Saúde",
+  "auto": "gemini-3-flash-preview"
  },
  "player_huafu": {
   "ch": "画符",
   "en": "Talismans",
-  "pt": ""
+  "pt": "Talismãs",
+  "auto": "gemini-3-flash-preview"
  },
  "player_huafuzizi": {
   "ch": "画符资质",
   "en": "Talismans",
-  "pt": ""
+  "pt": "Talismãs",
+  "auto": "gemini-3-flash-preview"
  },
  "player_huixin": {
   "ch": "会心",
   "en": "CRIT",
-  "pt": ""
+  "pt": "Crítico",
+  "auto": "gemini-3-flash-preview"
  },
  "player_huixinbeilv": {
   "ch": "暴击倍数",
   "en": "CRIT DMG",
-  "pt": ""
+  "pt": "Dano Crítico",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "player_huolinggen": {
   "ch": "火灵根",
   "en": "Fire",
-  "pt": ""
+  "pt": "Fogo",
+  "auto": "gemini-3-flash-preview"
  },
  "player_huxin": {
   "ch": "护心",
   "en": "CRIT RES",
-  "pt": ""
+  "pt": "RES Crítico",
+  "auto": "gemini-3-flash-preview"
  },
  "player_huxinbeilv": {
   "ch": "抗暴倍数",
   "en": "CRIT DR",
-  "pt": ""
+  "pt": "RD Crítico",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_intimacyRate": {
   "ch": "亲密度变化倍率",
   "en": "Affinity Change Rate",
-  "pt": ""
+  "pt": "Variação de Afinidade",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_jianfa": {
   "ch": "剑法",
   "en": "Sword",
-  "pt": ""
+  "pt": "Espada",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jianfazizi": {
   "ch": "剑法资质",
   "en": "Sword",
-  "pt": ""
+  "pt": "Espada",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jiankang": {
   "ch": "健康",
   "en": "Health",
-  "pt": ""
+  "pt": "Saúde",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jiankangshangxian": {
   "ch": "健康上限",
   "en": "Max Health",
-  "pt": ""
+  "pt": "Saúde Máx.",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jiaoli": {
   "ch": "脚力",
   "en": "Travel Speed",
-  "pt": ""
+  "pt": "Vel. de Viagem",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_jingli": {
   "ch": "精力",
   "en": "Stamina",
-  "pt": ""
+  "pt": "Vigor",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jinglishangxian": {
   "ch": "精力上限",
   "en": "Max Stamina",
-  "pt": ""
+  "pt": "Vigor Máx.",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jingyan": {
   "ch": "经验",
   "en": "EXP",
-  "pt": ""
+  "pt": "EXP",
+  "auto": "gemini-3-flash-preview"
  },
  "player_jiyi": {
   "ch": "技艺",
   "en": "Artisanship",
-  "pt": ""
+  "pt": "Artesanato",
+  "auto": "gemini-3-flash-preview"
  },
  "player_kuangcai": {
   "ch": "矿材资质",
   "en": "Mining",
-  "pt": ""
+  "pt": "Mineração",
+  "auto": "gemini-3-flash-preview"
  },
  "player_leilinggen": {
   "ch": "雷灵根",
   "en": "Lightning",
-  "pt": ""
+  "pt": "Relâmpago",
+  "auto": "gemini-3-flash-preview"
  },
  "player_liandan": {
   "ch": "炼丹",
   "en": "Alchemy",
-  "pt": ""
+  "pt": "Alquimia",
+  "auto": "gemini-3-flash-preview"
  },
  "player_liandanzizi": {
   "ch": "炼丹资质",
   "en": "Alchemy",
-  "pt": ""
+  "pt": "Alquimia",
+  "auto": "gemini-3-flash-preview"
  },
  "player_lianqi": {
   "ch": "炼器",
   "en": "Forge",
-  "pt": ""
+  "pt": "Forja",
+  "auto": "gemini-3-flash-preview"
  },
  "player_lianqizizi": {
   "ch": "炼器资质",
   "en": "Forge",
-  "pt": ""
+  "pt": "Forja",
+  "auto": "gemini-3-flash-preview"
  },
  "player_linggen": {
   "ch": "灵根",
   "en": "Spiritual Root",
-  "pt": ""
+  "pt": "Raiz Espiritual",
+  "auto": "gemini-3-flash-preview"
  },
  "player_lingli": {
   "ch": "灵力",
   "en": "Energy",
-  "pt": ""
+  "pt": "Energia",
+  "auto": "gemini-3-flash-preview"
  },
  "player_linglihuifu": {
   "ch": "灵力恢复",
   "en": "Energy Recovery",
-  "pt": ""
+  "pt": "Recup. de Energia",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_linglishangxian": {
   "ch": "灵力上限",
   "en": "Max Energy",
-  "pt": ""
+  "pt": "Energia Máx.",
+  "auto": "gemini-3-flash-preview"
  },
  "player_modaozhi": {
   "ch": "魔道值",
   "en": "Demonic Points",
-  "pt": ""
+  "pt": "Pontos Demoníacos",
+  "auto": "gemini-3-flash-preview"
  },
  "player_momian": {
   "ch": "灵根抗性",
   "en": "Spiritual RES",
-  "pt": ""
+  "pt": "RES Espiritual",
+  "auto": "gemini-3-flash-preview"
  },
  "player_moodDownRate": {
   "ch": "心情减少倍率",
   "en": "Mood Decrease Rate",
-  "pt": ""
+  "pt": "Taxa de Queda de Humor",
+  "auto": "gemini-3-flash-preview"
  },
  "player_moodUpRate": {
   "ch": "心情上升倍率",
   "en": "Mood Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Ganho de Humor",
+  "auto": "gemini-3-flash-preview"
  },
  "player_mulinggen": {
   "ch": "木灵根",
   "en": "Wood",
-  "pt": ""
+  "pt": "Madeira",
+  "auto": "gemini-3-flash-preview"
  },
  "player_nianli": {
   "ch": "念力",
   "en": "Focus",
-  "pt": ""
+  "pt": "Foco",
+  "auto": "gemini-3-flash-preview"
  },
  "player_nianlihuifu": {
   "ch": "念力恢复",
   "en": "Focus Recovery",
-  "pt": ""
+  "pt": "Recuperação de Foco",
+  "auto": "gemini-3-flash-preview"
  },
  "player_nianlishangxian": {
   "ch": "念力上限",
   "en": "Max Focus",
-  "pt": ""
+  "pt": "Foco Máx.",
+  "auto": "gemini-3-flash-preview"
  },
  "player_palmGrowRate": {
   "ch": "掌法技能熟练度提升倍率",
   "en": "Palm Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Palma",
+  "auto": "gemini-3-flash-preview"
  },
  "player_qiangfa": {
   "ch": "枪法",
   "en": "Spear",
-  "pt": ""
+  "pt": "Lança",
+  "auto": "gemini-3-flash-preview"
  },
  "player_qiangfazizi": {
   "ch": "枪法资质",
   "en": "Spear",
-  "pt": ""
+  "pt": "Lança",
+  "auto": "gemini-3-flash-preview"
  },
  "player_quanfa": {
   "ch": "拳法",
   "en": "Fist",
-  "pt": ""
+  "pt": "Punho",
+  "auto": "gemini-3-flash-preview"
  },
  "player_quanfazizi": {
   "ch": "拳法资质",
   "en": "Fist",
-  "pt": ""
+  "pt": "Punho",
+  "auto": "gemini-3-flash-preview"
  },
  "player_quangognfa": {
   "ch": "全功法资质",
   "en": "All Martial Arts Stats",
-  "pt": ""
+  "pt": "Todos os Atributos de Artes Marciais",
+  "auto": "gemini-3-flash-preview"
  },
  "player_quanjiyi": {
   "ch": "全技艺资质",
   "en": "All Artisanship Stats",
-  "pt": ""
+  "pt": "Todos os Atributos de Artesanato",
+  "auto": "gemini-3-flash-preview"
  },
  "player_quanlinggen": {
   "ch": "全灵根",
   "en": "All Spiritual Roots",
-  "pt": ""
+  "pt": "Todas as Raízes Espirituais",
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "player_renyigongfa": {
   "ch": "任意一项功法资质",
   "en": "Any one Martial Arts Stat",
-  "pt": ""
+  "pt": "Qualquer Atributo de Artes Marciais",
+  "auto": "gemini-3-flash-preview"
  },
  "player_renyilinggen": {
   "ch": "任意一项灵根资质",
   "en": "Any one Spiritual Root Stat",
-  "pt": ""
+  "pt": "Qualquer Atributo de Raiz Espiritual",
+  "auto": "gemini-3-flash-preview"
  },
  "player_renyizhandou": {
   "ch": "任意一项战斗资质",
   "en": "Any one Skill Stat",
-  "pt": ""
+  "pt": "Qualquer Aptidão Marcial",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_schoolBuyDeclineRate": {
   "ch": "宗门消耗贡献倍率",
   "en": "Sect Cost Contribution Multiplier",
-  "pt": ""
+  "pt": "Multiplicador de Custo de Contribuição da Seita",
+  "auto": "gemini-3-flash-preview"
  },
  "player_shanxiu": {
   "ch": "散修",
   "en": "Rogue Cultivator",
-  "pt": ""
+  "pt": "Cultivador Errante",
+  "auto": "gemini-3-flash-preview"
  },
  "player_shuilinggen": {
   "ch": "水灵根",
   "en": "Water",
-  "pt": ""
+  "pt": "Água",
+  "auto": "gemini-3-flash-preview"
  },
  "player_spearGrowRate": {
   "ch": "枪法技能熟练度提升倍率",
   "en": "Spear Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Lança",
+  "auto": "gemini-3-flash-preview"
  },
  "player_stepGrowRate": {
   "ch": "身法熟练度提升倍率",
   "en": "Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência",
+  "auto": "gemini-3-flash-preview"
  },
  "player_suoyouzhandouzizi": {
   "ch": "全战斗资质",
   "en": "All Skill Stats",
-  "pt": ""
+  "pt": "Aptidões Marciais",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_swordGrowRate": {
   "ch": "剑法技能熟练度提升倍率",
   "en": "Sword Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Espada",
+  "auto": "gemini-3-flash-preview"
  },
  "player_thunderGrowRate": {
   "ch": "雷属性法技能熟练度提升倍率",
   "en": "Lightning Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Relâmpago",
+  "auto": "gemini-3-flash-preview"
  },
  "player_tili": {
   "ch": "体力",
   "en": "Vitality",
-  "pt": ""
+  "pt": "Vitalidade",
+  "auto": "gemini-3-flash-preview"
  },
  "player_tilihuifu": {
   "ch": "体力恢复",
   "en": "Vitality Recovery",
-  "pt": ""
+  "pt": "Recup. de Vitalidade",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "player_tilishangxian": {
   "ch": "体力上限",
   "en": "Max Vitality",
-  "pt": ""
+  "pt": "Vitalidade Máx.",
+  "auto": "gemini-3-flash-preview"
  },
  "player_townBuyDeclineRate": {
   "ch": "坊市购买消耗灵石倍率",
   "en": "Spirit Stone Cost Rate in Market",
-  "pt": ""
+  "pt": "Taxa de Custo de Pedra Espiritual no Mercado",
+  "auto": "gemini-3-flash-preview"
  },
  "player_tulinggen": {
   "ch": "土灵根",
   "en": "Earth",
-  "pt": ""
+  "pt": "Terra",
+  "auto": "gemini-3-flash-preview"
  },
  "player_windGrowRate": {
   "ch": "风属性法技能熟练度提升倍率",
   "en": "Wind Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Vento",
+  "auto": "gemini-3-flash-preview"
  },
  "player_wodebeibao": {
   "ch": "我的背包",
   "en": "Inventory",
-  "pt": ""
+  "pt": "Inventário",
+  "auto": "gemini-3-flash-preview"
  },
  "player_woodGrowRate": {
   "ch": "木属性法技能熟练度提升倍率",
   "en": "Wood Skill Proficiency Increase Rate",
-  "pt": ""
+  "pt": "Taxa de Aumento de Proficiência de Habilidade de Madeira",
+  "auto": "gemini-2.5-flash"
  },
  "player_wumian": {
   "ch": "功法抗性",
   "en": "Martial RES",
-  "pt": ""
+  "pt": "RES Marcial",
+  "auto": "gemini-2.5-flash"
  },
  "player_wuxing": {
   "ch": "悟性",
   "en": "Insight",
-  "pt": ""
+  "pt": "Percepção",
+  "auto": "gemini-2.5-flash"
  },
  "player_xiantianqiyun": {
   "ch": "先天气运",
   "en": "Destiny (Nature)",
-  "pt": ""
+  "pt": "Destino (Natureza)",
+  "auto": "gemini-2.5-flash"
  },
  "player_xingyun": {
   "ch": "幸运",
   "en": "Luck",
-  "pt": ""
+  "pt": "Sorte",
+  "auto": "gemini-2.5-flash"
  },
  "player_xinqing": {
   "ch": "心情",
   "en": "Mood",
-  "pt": ""
+  "pt": "Humor",
+  "auto": "gemini-2.5-flash"
  },
  "player_xinqingshangxian": {
   "ch": "心情上限",
   "en": "Max Mood",
-  "pt": ""
+  "pt": "Humor Máx.",
+  "auto": "gemini-2.5-flash"
  },
  "player_yaocai": {
   "ch": "药材资质",
   "en": "Herbology",
-  "pt": ""
+  "pt": "Herbologia",
+  "auto": "gemini-2.5-flash"
  },
  "player_yidongsudu": {
   "ch": "移动速度",
   "en": "Agility",
-  "pt": ""
+  "pt": "Agilidade",
+  "auto": "gemini-2.5-flash"
  },
  "player_yisu": {
   "ch": "移速",
   "en": "Agility",
-  "pt": ""
+  "pt": "Agilidade",
+  "auto": "gemini-2.5-flash"
  },
  "player_zhandouzizi": {
   "ch": "战斗资质",
   "en": "Skill Stats",
-  "pt": ""
+  "pt": "Aptidão Marcial",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "player_zhangfa": {
   "ch": "掌法",
   "en": "Palm",
-  "pt": ""
+  "pt": "Palma",
+  "auto": "gemini-2.5-flash"
  },
  "player_zhangfazizi": {
   "ch": "掌法资质",
   "en": "Palm",
-  "pt": ""
+  "pt": "Palma",
+  "auto": "gemini-2.5-flash"
  },
  "player_zhengdaozhi": {
   "ch": "正道值",
   "en": "Righteous Points",
-  "pt": ""
+  "pt": "Pontos Justos",
+  "auto": "gemini-2.5-flash"
  },
  "player_zhifa": {
   "ch": "指法",
   "en": "Finger",
-  "pt": ""
+  "pt": "Dedo",
+  "auto": "gemini-2.5-flash"
  },
  "player_zhifazizi": {
   "ch": "指法资质",
   "en": "Finger",
-  "pt": ""
+  "pt": "Dedo",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuidigongfa": {
   "ch": "最低一项功法资质",
   "en": "Lowest Martial Arts Stat",
-  "pt": ""
+  "pt": "Menor Atributo de Artes Marciais",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuidijiyi": {
   "ch": "最低一项技艺资质",
   "en": "Lowest Artisanship Stat",
-  "pt": ""
+  "pt": "Menor Atributo de Artesanato",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuidilinggen": {
   "ch": "最低一项灵根资质",
   "en": "Lowest Spiritual Root Stat",
-  "pt": ""
+  "pt": "Menor Atributo de Raiz Espiritual",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuidizhandou": {
   "ch": "最低一项战斗资质",
   "en": "Lowest Skill Stat",
-  "pt": ""
+  "pt": "Menor Aptidão Marcial",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "player_zuigaogongfa": {
   "ch": "最高一项功法资质",
   "en": "Highest Martial Arts Stat",
-  "pt": ""
+  "pt": "Maior Atributo de Artes Marciais",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuigaojiyi": {
   "ch": "最高一项技艺资质",
   "en": "Highest Artisanshipn Stat",
-  "pt": ""
+  "pt": "Maior Atributo de Artesanato",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuigaolinggen": {
   "ch": "最高一项灵根资质",
   "en": "Highest Spiritual Root Stat",
-  "pt": ""
+  "pt": "Maior Atributo de Raiz Espiritual",
+  "auto": "gemini-2.5-flash"
  },
  "player_zuigaozhandou": {
   "ch": "最高一项战斗资质",
   "en": "Highest Skill Stat",
-  "pt": ""
+  "pt": "Maior Aptidão Marcial",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  }
 }

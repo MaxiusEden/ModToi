@@ -269,6 +269,12 @@ Piloto de 2026-10-23 com `common` (100 entradas) e `ui` (510):
   - 3 traduções precisaram de ajuste manual: "LMB" virou "botão esquerdo do mouse", saiu um "Por favor" que o inglês não tem, e "comissioná-lo" foi reescrito.
   - Os nomes de idioma (简体中文/繁体中文) ficam em chinês de propósito.
 
+Segunda leva (2026-10-23), com as categorias de interface vistas nos prints (`setting_`, `player_`, `playerInfo_`, `townBuildingName`, `schoolBuildingName`, `school_`, `defaultKeys`, `role_character_name`, `login_`, `diffName`). O arquivo de origem foi montado por prefixo de chave em `traducao/auto/src_interface.json`; o `merge` trabalha por chave, então qualquer recorte serve.
+
+- **Resultado:** 570 de 641 entradas (300 com `gemini-3-flash-preview`, 270 com `gemini-2.5-flash`), sendo 2 `ok=false` e 15 faltando na resposta. A reserva entrou em espera de **~10 h** (`reset_seconds` 35.905), ou seja, é cota diária. Ficaram 71 entradas de interface e 90 de `ui` pendentes.
+- **Custo:** o cabeçalho `x-omniroute-response-cost` do `gemini-2.5-flash` veio diferente de zero (0,005–0,011 por lote), enquanto o do `gemini-3-flash-preview` veio 0. Falta confirmar no OmniRoute se isso é cobrança real.
+- **Revisão:** 48 correções (largura, os 2 `ok=false`, "Skill Stat" → Aptidão Marcial e dois nomes que tinham ficado em chinês). As 32 sílabas `school_name_*` voltaram ao original (ver `glossario/decisoes.md`).
+
 ### 10.2 Teste do piloto no jogo (2026-10-23, prints em `docs/prints/`)
 
 - As traduções de `common`/`ui` apareceram: tela inicial, Configurações, OK/Cancelar, Idioma, rótulos do personagem (Sobrenome, Nome, Posição, Reino, Reputação…).

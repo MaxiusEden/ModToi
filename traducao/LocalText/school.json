@@ -2,687 +2,845 @@
  "school_attackEveryYear": {
   "ch": "每年最多宣战两次",
   "en": "You may declare war up to twice a year",
-  "pt": ""
+  "pt": "Você pode declarar guerra até duas vezes por ano",
+  "auto": "gemini-2.5-flash"
  },
  "school_autoSelect": {
   "ch": "快速选择",
   "en": "Quick Select",
-  "pt": ""
+  "pt": "Seleção Rápida",
+  "auto": "gemini-2.5-flash"
  },
  "school_baishi1": {
   "ch": "拜{0}为师",
   "en": "Ask {0} to be your master",
-  "pt": ""
+  "pt": "Pedir a {0} para ser seu mestre",
+  "auto": "gemini-2.5-flash"
  },
  "school_baishi2": {
   "ch": "谁都不拜",
   "en": "No master needed",
-  "pt": ""
+  "pt": "Não preciso de mestre",
+  "auto": "gemini-2.5-flash"
  },
  "school_baomingbishi": {
   "ch": "是否报名参加{0}",
   "en": "Sign up for {0}?",
-  "pt": ""
+  "pt": "Inscrever-se em {0}?",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_benyuetishi": {
   "ch": "你已经参加过本月的宗门小比了！",
   "en": "You've already participated in this month's Sect Duel!",
-  "pt": ""
+  "pt": "Você já participou do Duelo da Seita deste mês!",
+  "auto": "gemini-2.5-flash"
  },
  "school_biguan": {
   "ch": "闭关",
   "en": "Cultivate",
-  "pt": ""
+  "pt": "Cultivar",
+  "auto": "gemini-2.5-flash"
  },
  "school_biguanxiulian": {
   "ch": "闭关修炼",
   "en": "Cultivate",
-  "pt": ""
+  "pt": "Cultivar",
+  "auto": "gemini-2.5-flash"
  },
  "school_bishi1": {
   "ch": "入门小比",
   "en": "Sect Tryouts",
-  "pt": ""
+  "pt": "Peneira da Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_bishi2": {
   "ch": "外门小比",
   "en": "Promotion Duel (Disciple)",
-  "pt": ""
+  "pt": "Duelo de Promoção (Discípulo)",
+  "auto": "gemini-2.5-flash"
  },
  "school_bishi3": {
   "ch": "内门小比",
   "en": "Promotion Duel (True Disciple)",
-  "pt": ""
+  "pt": "Duelo de Promoção (Discípulo Verdadeiro)",
+  "auto": "gemini-2.5-flash"
  },
  "school_bishi4": {
   "ch": "真传大比",
   "en": "Promotion Duel (Elder)",
-  "pt": ""
+  "pt": "Duelo de Promoção (Ancião)",
+  "auto": "gemini-2.5-flash"
  },
  "school_bishi5": {
   "ch": "长老大比",
   "en": "Promotion Duel (Grand Elder)",
-  "pt": ""
+  "pt": "Duelo de Promoção (Grão-Ancião)",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_baihushan": {
   "ch": "白虎山",
   "en": "白虎山",
-  "pt": ""
+  "pt": "Montanha do Tigre Branco",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_building_cangjingge": {
   "ch": "藏经阁",
   "en": "Manual Library",
-  "pt": ""
+  "pt": "Acervo de Manuais",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_building_chuansongzhen": {
   "ch": "传送阵",
   "en": "Portal",
-  "pt": ""
+  "pt": "Portal",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_dixiafangshi": {
   "ch": "地下坊市",
   "en": "地下坊市",
-  "pt": ""
+  "pt": "Mercado Subterrâneo",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_building_duanbinggu": {
   "ch": "断兵谷",
   "en": "断兵谷",
-  "pt": ""
+  "pt": "Vale das Armas Quebradas",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_fengshuilou": {
   "ch": "风水楼",
   "en": "风水楼",
-  "pt": ""
+  "pt": "Torre de Feng Shui",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_huzongdazhen": {
   "ch": "护宗大阵",
   "en": "护宗大阵",
-  "pt": ""
+  "pt": "Grande Formação Protetora da Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_jianzhong": {
   "ch": "一刀两剑冢",
   "en": "一刀两剑冢",
-  "pt": ""
+  "pt": "Túmulo de Uma Lâmina e Duas Espadas",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_julingzhen": {
   "ch": "灵阁",
   "en": "Spirit Pavilion",
-  "pt": ""
+  "pt": "Pavilhão do Espírito",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_kuangdong": {
   "ch": "矿洞",
   "en": "矿洞",
-  "pt": ""
+  "pt": "Mina",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_kufang": {
   "ch": "库房",
   "en": "库房",
-  "pt": ""
+  "pt": "Armazém",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_liandanfang": {
   "ch": "炼丹房",
   "en": "炼丹房",
-  "pt": ""
+  "pt": "Sala de Alquimia",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_longguzhidi": {
   "ch": "龙骨之地",
   "en": "龙骨之地",
-  "pt": ""
+  "pt": "Terra dos Ossos de Dragão",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_lunhuitai": {
   "ch": "轮回台",
   "en": "轮回台",
-  "pt": ""
+  "pt": "Plataforma da Reencarnação",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_murenzhuang": {
   "ch": "木人桩",
   "en": "木人桩",
-  "pt": ""
+  "pt": "Boneco de Treino de Madeira",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_qinglongyuan": {
   "ch": "青龙渊",
   "en": "青龙渊",
-  "pt": ""
+  "pt": "Abismo do Dragão Azure",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_renwuting": {
   "ch": "任务厅",
   "en": "Mission Hall",
-  "pt": ""
+  "pt": "Salão de Missões",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_xiangfang": {
   "ch": "厢房",
   "en": "厢房",
-  "pt": ""
+  "pt": "Alojamento",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_xianshu": {
   "ch": "仙树",
   "en": "仙树",
-  "pt": ""
+  "pt": "Árvore Imortal",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_xuanwuchi": {
   "ch": "玄武池",
   "en": "玄武池",
-  "pt": ""
+  "pt": "Lago Xuanwu",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_xuechi": {
   "ch": "血池",
   "en": "血池",
-  "pt": ""
+  "pt": "Lago de Sangue",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_yanwutang": {
   "ch": "演武堂",
   "en": "Martial Arts Hall",
-  "pt": ""
+  "pt": "Salão de Artes Marciais",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_yaogu": {
   "ch": "药谷",
   "en": "药谷",
-  "pt": ""
+  "pt": "Vale da Medicina",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_yishidatang": {
   "ch": "议事大堂",
   "en": "Council Hall",
-  "pt": ""
+  "pt": "Salão do Conselho",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "school_building_zhuqifang": {
   "ch": "铸器房",
   "en": "铸器房",
-  "pt": ""
+  "pt": "Forjaria",
+  "auto": "gemini-2.5-flash"
  },
  "school_building_zhuquechao": {
   "ch": "朱雀巢",
   "en": "朱雀巢",
-  "pt": ""
+  "pt": "Ninho da Fênix Vermelha",
+  "auto": "gemini-2.5-flash"
  },
  "school_cansaitishi": {
   "ch": "是否花费{0}点贡献参加小比？",
   "en": "Spend {0} Contribution to fight Duel?",
-  "pt": ""
+  "pt": "Gastar {0} Contribuição para lutar um Duelo?",
+  "auto": "gemini-2.5-flash"
  },
  "school_cansaitishi2": {
   "ch": "挑战长老将大幅度降低长老对你的好感，是否花费{0}点贡献挑战？",
   "en": "Challenging the Elder will significantly reduce the Elder's fondness for you. Do you want to spend {0} Contribution to Challenge anyway?",
-  "pt": ""
+  "pt": "Desafiar o Ancião reduzirá significativamente a afeição dele por você. Deseja gastar {0} Contribuição para Desafiar mesmo assim?",
+  "auto": "gemini-2.5-flash"
  },
  "school_canwu": {
   "ch": "参悟",
   "en": "Comprehend",
-  "pt": ""
+  "pt": "Compreender",
+  "auto": "gemini-2.5-flash"
  },
  "school_changjinggetishi": {
   "ch": "藏经阁内绝学众多，但需要有缘人用心去发现。",
   "en": "The Manual Library contains many useful Manuals, but one needs a keen eye to find them.",
-  "pt": ""
+  "pt": "A Biblioteca de Manuais contém muitos Manuais úteis, mas é preciso um olhar atento para encontrá-los.",
+  "auto": "gemini-2.5-flash"
  },
  "school_chiyou": {
   "ch": "持有",
   "en": "Owned",
-  "pt": ""
+  "pt": "Possuído",
+  "auto": "gemini-2.5-flash"
  },
  "school_chuanchengtishi": {
   "ch": "是否花费{0}点贡献挑战宗门传承？",
   "en": "Spend {0} Contribution to challenge Sect Tradition?",
-  "pt": ""
+  "pt": "Gastar {0} Contribuição para desafiar a Tradição da Seita?",
+  "auto": "gemini-2.5-flash"
  },
  "school_cichilueduo": {
   "ch": "此次掠夺为宗门获取了",
   "en": "Loots for Sect from this raid",
-  "pt": ""
+  "pt": "Espólios para a Seita desta incursão",
+  "auto": "gemini-2.5-flash"
  },
  "school_congxinxunzhao": {
   "ch": "重新寻找",
   "en": "Search Again",
-  "pt": ""
+  "pt": "Buscar Novamente",
+  "auto": "gemini-2.5-flash"
  },
  "school_dacheng": {
   "ch": "此技能已大成",
   "en": "This skill has reached VIII",
-  "pt": ""
+  "pt": "Esta Habilidade atingiu VIII",
+  "auto": "gemini-2.5-flash"
  },
  "school_dazhanglaotishi": {
   "ch": "挑战大长老将大幅度降低大长老对你的好感，是否花费{0}点贡献挑战？",
   "en": "Challenging the Grand Elder will significantly reduce the Grand Elder's fondness for you. Do you want to spend {0} Contribution to Challenge anyway?",
-  "pt": ""
+  "pt": "Desafiar o Grão-Ancião reduzirá significativamente a afeição do Grão-Ancião por você. Deseja gastar {0} de Contribuição para Desafiar mesmo assim?",
+  "auto": "gemini-2.5-flash"
  },
  "school_dazhanglaotishi2": {
   "ch": "因为你晋升到大长老，你的真传弟子现在暂时降级为内门弟子，是否现在调整宗门人事。",
   "en": "Since you have been promoted to Grand Elder, your True Disciples are temporarily demoted to Disciples. Do you wish to reallocate Sect personnel?",
-  "pt": ""
+  "pt": "Como você foi promovido a Grão-Ancião, seus Discípulos Verdadeiros foram temporariamente rebaixados a Discípulos. Deseja realocar o pessoal da Seita?",
+  "auto": "gemini-2.5-flash"
  },
  "school_diduizhongmen": {
   "ch": "敌对宗门",
   "en": "Enemy Sects",
-  "pt": ""
+  "pt": "Seitas Inimigas",
+  "auto": "gemini-2.5-flash"
  },
  "school_dijiceng": {
   "ch": "第{0}层",
   "en": "{0}F",
-  "pt": ""
+  "pt": "Andar {0}",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 9 > 7 caracteres"
+  ],
+  "revisado": true
  },
  "school_dipan": {
   "ch": "宗门地盘：{0}格",
   "en": "Sect Territory: {0} Spaces",
-  "pt": ""
+  "pt": "Território da Seita: {0} Espaços",
+  "auto": "gemini-2.5-flash"
  },
  "school_disCount": {
   "ch": "特权：",
   "en": "Privilege:",
-  "pt": ""
+  "pt": "Privilégio:",
+  "auto": "gemini-2.5-flash"
  },
  "school_dizi": {
   "ch": "弟子",
   "en": "Disciple",
-  "pt": ""
+  "pt": "Discípulo",
+  "auto": "gemini-2.5-flash"
  },
  "school_duihuan": {
   "ch": "兑换",
   "en": "Redeem",
-  "pt": ""
+  "pt": "Resgatar",
+  "auto": "gemini-2.5-flash"
  },
  "school_duihuantishi": {
   "ch": "是否花费{0}宗门贡献兑换{1}？",
   "en": "Exchange {0} Sect Contribution for {1}?",
-  "pt": ""
+  "pt": "Trocar {0} de Contribuição da Seita por {1}?",
+  "auto": "gemini-2.5-flash"
  },
  "school_duihuantishi2": {
   "ch": "{0}且累计贡献达到{1}可兑换此层",
   "en": "Requires {0} and {1} Contribution",
-  "pt": ""
+  "pt": "Requer {0} e {1} de Contribuição",
+  "auto": "gemini-2.5-flash"
  },
  "school_duihuantishi3": {
   "ch": "{0}可兑换此层",
   "en": "Requires {0}",
-  "pt": ""
+  "pt": "Requer {0}",
+  "auto": "gemini-2.5-flash"
  },
  "school_ecstiaoguo": {
   "ch": "按住 Esc 键跳过",
   "en": "Hold Esc to Skip",
-  "pt": ""
+  "pt": "Segure Esc para Pular",
+  "auto": "gemini-2.5-flash"
  },
  "school_enemy1": {
   "ch": "宣战",
   "en": "Declare War",
-  "pt": ""
+  "pt": "Declarar Guerra",
+  "auto": "gemini-2.5-flash"
  },
  "school_enemy2": {
   "ch": "与宗门宣战，将在三个月后进行宗门大战。",
   "en": "Declaring War on Sects will lead to a Sect War in three months' time.",
-  "pt": ""
+  "pt": "Declarar Guerra contra Seitas levará a uma Guerra de Seitas em três meses.",
+  "auto": "gemini-2.5-flash"
  },
  "school_fangbei": {
   "ch": "防备",
   "en": "Alarm",
-  "pt": ""
+  "pt": "Alarme",
+  "auto": "gemini-2.5-flash"
  },
  "school_fenduoming": {
   "ch": "{0}分舵",
   "en": "{0} Branch",
-  "pt": ""
+  "pt": "{0} Filial",
+  "auto": "gemini-2.5-flash"
  },
  "school_fenglu": {
   "ch": "每月俸禄：{0}灵石",
   "en": "Monthly Wage: {0} Spirit Stones",
-  "pt": ""
+  "pt": "Salário Mensal: {0} Pedras Espirituais",
+  "auto": "gemini-2.5-flash"
  },
  "school_fenglu2": {
   "ch": "俸禄",
   "en": "Wage",
-  "pt": ""
+  "pt": "Salário",
+  "auto": "gemini-2.5-flash"
  },
  "school_free": {
   "ch": "免费",
   "en": "Free",
-  "pt": ""
+  "pt": "Grátis",
+  "auto": "gemini-2.5-flash"
  },
  "school_friend1": {
   "ch": "结盟",
   "en": "Forge Alliance",
-  "pt": ""
+  "pt": "Forjar Aliança",
+  "auto": "gemini-2.5-flash"
  },
  "school_friend2": {
   "ch": "与宗门同盟，可在关键时刻助你一臂之力。",
   "en": "Allied Sects may come to your aid at pivotal moments.",
-  "pt": ""
+  "pt": "Seitas Aliadas podem vir em sua ajuda em momentos cruciais.",
+  "auto": "gemini-2.5-flash"
  },
  "school_gaisu": {
   "ch": "宗门概述",
   "en": "Sect Info",
-  "pt": ""
+  "pt": "Visão Geral",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_gongxian": {
   "ch": "贡献",
   "en": "Contribution",
-  "pt": ""
+  "pt": "Contribuição",
+  "auto": "gemini-2.5-flash"
  },
  "school_gongxianbuzu": {
   "ch": "贡献不足",
   "en": "Contribution too low",
-  "pt": ""
+  "pt": "Contribuição muito baixa",
+  "auto": "gemini-2.5-flash"
  },
  "school_goumaitishi": {
   "ch": "确定花费{0}贡献购买{1}秘籍吗？",
   "en": "Spend {0} Contribution to buy {1}?",
-  "pt": ""
+  "pt": "Gastar {0} Contribuição para comprar {1}?",
+  "auto": "gemini-2.5-flash"
  },
  "school_hp": {
   "ch": "体力：",
   "en": "Vitality: ",
-  "pt": ""
+  "pt": "Vitalidade: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_huangmo": {
   "ch": "荒漠秘境",
   "en": "荒漠秘境",
-  "pt": ""
+  "pt": "Reino Secreto do Deserto",
+  "auto": "gemini-2.5-flash"
  },
  "school_ji": {
   "ch": "级",
   "en": "Lv.",
-  "pt": ""
+  "pt": "Nv.",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiankang": {
   "ch": "健康：",
   "en": "Health: ",
-  "pt": ""
+  "pt": "Saúde: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutiaoj1": {
   "ch": "（以下条件达成一条即可）",
   "en": "(Meet one of the requirements below to join)",
-  "pt": ""
+  "pt": "(Cumpra um dos requisitos abaixo para entrar)",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutiaoj2": {
   "ch": "{0}达到{1}（{2}）",
   "en": "{0} Stat: {1} ({2})",
-  "pt": ""
+  "pt": "{0} Atributo: {1} ({2})",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutiaoj3": {
   "ch": "与本宗门亲密度达到{0}（{1}）",
   "en": "{0} Sect Affinity ({1})",
-  "pt": ""
+  "pt": "{0} Afinidade com a Seita ({1})",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutiaoj4": {
   "ch": "拥有本宗门推荐信（{0}/1）",
   "en": "Sect Recommendation Letter ({0}/1)",
-  "pt": ""
+  "pt": "Carta de Recomendação da Seita ({0}/1)",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutishi1": {
   "ch": "与宗门亲密度达到{0}方可加入宗门",
   "en": "You must have at least {0} Sect Affinity to join the sect",
-  "pt": ""
+  "pt": "Você deve ter pelo menos {0} de Afinidade com a Seita para entrar na seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutishi2": {
   "ch": "{0}资质达到{1}方可加入宗门",
   "en": "Joining the sect requires {1} {0}",
-  "pt": ""
+  "pt": "Para entrar na seita, é necessário {1} de {0}",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiarutishi3": {
   "ch": "你退出过此宗门，{0}个月后才可加入宗门。",
   "en": "You left this sect earlier. You must wait {0} month(s) before joining again",
-  "pt": ""
+  "pt": "Você deixou esta seita anteriormente. Você deve esperar {0} mês(es) antes de entrar novamente",
+  "auto": "gemini-2.5-flash"
  },
  "school_jiaruzongmen": {
   "ch": "成功加入{0}宗门！",
   "en": "You joined the sect: {0}!",
-  "pt": ""
+  "pt": "Você entrou na seita: {0}!",
+  "auto": "gemini-2.5-flash"
  },
  "school_jineng": {
   "ch": "技能",
   "en": "Skills",
-  "pt": ""
+  "pt": "Habil.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_jingjiebuzu": {
   "ch": "境界不足",
   "en": "Realm too low",
-  "pt": ""
+  "pt": "Reino muito baixo",
+  "auto": "gemini-2.5-flash"
  },
  "school_jingjiezhong": {
   "ch": "该目标已被他人宣战",
   "en": "Target has had war declared on them",
-  "pt": ""
+  "pt": "O alvo teve guerra declarada contra ele",
+  "auto": "gemini-2.5-flash"
  },
  "school_jingli": {
   "ch": "精力：",
   "en": "Stamina: ",
-  "pt": ""
+  "pt": "Vigor: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_jingsheng": {
   "ch": "职位晋升",
   "en": "Promotion",
-  "pt": ""
+  "pt": "Promoção",
+  "auto": "gemini-2.5-flash"
  },
  "school_jingyanyiman": {
   "ch": "修为已达到瓶颈！",
   "en": "Bottleneck reached!",
-  "pt": ""
+  "pt": "Gargalo alcançado!",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinrutishi1": {
   "ch": "达到{0}方可进入{1}",
   "en": "You must reach {0} to enter {1}",
-  "pt": ""
+  "pt": "Você deve alcançar {0} para entrar em {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinrutishi2": {
   "ch": "宗门亲密度达到{0}以上才可进入{1}",
   "en": "You must have at least {0} Sect Affinity to enter {1}",
-  "pt": ""
+  "pt": "Você deve ter pelo menos {0} de Afinidade com a Seita para entrar em {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinrutishi3": {
   "ch": "外人不可进入此建筑",
   "en": "Outsiders can't enter this building",
-  "pt": ""
+  "pt": "Forasteiros não podem entrar neste edifício",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinrutishi4": {
   "ch": "{0}以上不可接取此任务",
   "en": "Members above {0} can't accept this mission",
-  "pt": ""
+  "pt": "Membros acima de {0} não podem aceitar esta missão",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinrutishi5": {
   "ch": "达到{0}方可接取此任务",
   "en": "You must reach {0} to accept this mission",
-  "pt": ""
+  "pt": "Você deve alcançar {0} para aceitar esta missão",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinrutishi6": {
   "ch": "{0}以上不可进入{1}",
   "en": "Members above {0} can't enter {1}",
-  "pt": ""
+  "pt": "Membros acima de {0} não podem entrar em {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinruxiaobi": {
   "ch": "进入小比",
   "en": "Enter Sect Duel",
-  "pt": ""
+  "pt": "Duelo da Seita",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_jinshengtishi1": {
   "ch": "任意宗门主修资质达到{0}！",
   "en": "Any Sect main stat reaches {0}!",
-  "pt": ""
+  "pt": "Qualquer atributo principal da Seita atinge {0}!",
+  "auto": "gemini-2.5-flash"
  },
  "school_jinshengtishi2": {
   "ch": "需要境界达到{0}！",
   "en": "Realm must reach {0}!",
-  "pt": ""
+  "pt": "O Reino deve alcançar {0}!",
+  "auto": "gemini-2.5-flash"
  },
  "school_jishi": {
   "ch": "宗门记事",
   "en": "Sect Log",
-  "pt": ""
+  "pt": "Registros",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_kaiqibishi": {
   "ch": "是否开启{0}",
   "en": "Activate {0}?",
-  "pt": ""
+  "pt": "Ativar {0}?",
+  "auto": "gemini-2.5-flash"
  },
  "school_kechayue": {
   "ch": "可兑换此层",
   "en": "可兑换此层",
-  "pt": ""
+  "pt": "Pode trocar por este andar",
+  "auto": "gemini-2.5-flash"
  },
  "school_keduihuan": {
   "ch": "可兑换",
   "en": "{#kong}",
-  "pt": ""
+  "pt": "{#kong}",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_kelingfengle": {
   "ch": "可领俸禄：{0}灵石",
   "en": "Wage claimable: {0} Spirit Stones",
-  "pt": ""
+  "pt": "Salário resgatável: {0} Pedras Espirituais",
+  "auto": "gemini-2.5-flash"
  },
  "school_kelingqurenwu": {
   "ch": "可领取任务",
   "en": "Available Missions",
-  "pt": ""
+  "pt": "Missões Disponíveis",
+  "auto": "gemini-2.5-flash"
  },
  "school_kongque": {
   "ch": "空\n缺",
   "en": "Vacant\n",
-  "pt": ""
+  "pt": "Vago\n",
+  "auto": "gemini-2.5-flash"
  },
  "school_leijigongxian": {
   "ch": "累计贡献：",
   "en": "Total Contribution: ",
-  "pt": ""
+  "pt": "Contribuição Total: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_leijigongxiandadao": {
   "ch": "累计宗门贡献达到",
   "en": "Total Sect Contribution",
-  "pt": ""
+  "pt": "Contribuição Total da Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_level_1": {
   "ch": "丁",
   "en": "D",
-  "pt": ""
+  "pt": "D",
+  "auto": "gemini-2.5-flash"
  },
  "school_level_2": {
   "ch": "丙",
   "en": "C",
-  "pt": ""
+  "pt": "C",
+  "auto": "gemini-2.5-flash"
  },
  "school_level_3": {
   "ch": "已",
   "en": "B",
-  "pt": ""
+  "pt": "B",
+  "auto": "gemini-2.5-flash"
  },
  "school_level_4": {
   "ch": "甲",
   "en": "A",
-  "pt": ""
+  "pt": "A",
+  "auto": "gemini-2.5-flash"
  },
  "school_liaoshang": {
   "ch": "疗伤休养",
   "en": "Recuperate",
-  "pt": ""
+  "pt": "Recuperar",
+  "auto": "gemini-2.5-flash"
  },
  "school_liaoshang1": {
   "ch": "疗伤休养（5天）",
   "en": "Recuperate (5 days)",
-  "pt": ""
+  "pt": "Recuperar (5 dias)",
+  "auto": "gemini-2.5-flash"
  },
  "school_liaoshangtishi": {
   "ch": "疗伤休养还有概率移负面气运，每次疗伤需要消耗5天。",
   "en": "Recuperation has a chance to remove negative Destinies. Recuperating lasts 5 days.",
-  "pt": ""
+  "pt": "A recuperação tem chance de remover Destinos negativos. Recuperar dura 5 dias.",
+  "auto": "gemini-2.5-flash"
  },
  "school_liaoyangxiaohao": {
   "ch": "贡献{0} 需要{1}天",
   "en": "Cost: {0} Contribution, Duration: {1}d",
-  "pt": ""
+  "pt": "Custo: {0} Contribuição, Duração: {1}d",
+  "auto": "gemini-2.5-flash"
  },
  "school_liaoyangxiaohao2": {
   "ch": "灵石{0} 需要{1}天",
   "en": "Cost: {0} Spirit Stones, Duration: {1}d",
-  "pt": ""
+  "pt": "Custo: {0} Pedras Espirituais, Duração: {1}d",
+  "auto": "gemini-2.5-flash"
  },
  "school_lingqufenglu": {
   "ch": "领取俸禄",
   "en": "Claim Wage",
-  "pt": ""
+  "pt": "Pegar Salário",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_lingqujiangli": {
   "ch": "领取奖励",
   "en": "Claim Reward",
-  "pt": ""
+  "pt": "Pegar Recompensa",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_lingqurenwu": {
   "ch": "领取任务",
   "en": "Accept",
-  "pt": ""
+  "pt": "Aceitar",
+  "auto": "gemini-2.5-flash"
  },
  "school_lingqurenwuliebiao": {
   "ch": "已领取的宗门任务",
   "en": "Sect Missions accepted",
-  "pt": ""
+  "pt": "Missões da Seita aceitas",
+  "auto": "gemini-2.5-flash"
  },
  "school_man": {
   "ch": "满",
   "en": "Full",
-  "pt": ""
+  "pt": "Cheio",
+  "auto": "gemini-2.5-flash"
  },
  "school_maxStudent": {
   "ch": "最多选择{0}名弟子！",
   "en": "A max of {0} Disciples can be selected!",
-  "pt": ""
+  "pt": "Um máximo de {0} Discípulos pode ser selecionado!",
+  "auto": "gemini-2.5-flash"
  },
  "school_medicina": {
   "ch": "药材",
   "en": "Herb",
-  "pt": ""
+  "pt": "Erva",
+  "auto": "gemini-2.5-flash"
  },
  "school_meikong": {
   "ch": "正在攻打其他宗门",
   "en": "Already attacking another Sect.",
-  "pt": ""
+  "pt": "Já atacando outra Seita.",
+  "auto": "gemini-2.5-flash"
  },
  "school_meinianfenglu": {
   "ch": "每年俸禄：",
   "en": "Yearly Wage:",
-  "pt": ""
+  "pt": "Salário Anual:",
+  "auto": "gemini-2.5-flash"
  },
  "school_meiqian": {
   "ch": "出战资源不足",
   "en": "Insufficient resources.",
-  "pt": ""
+  "pt": "Recursos insuficientes.",
+  "auto": "gemini-2.5-flash"
  },
  "school_meiren": {
   "ch": "可出战人员不足",
   "en": "Insufficient battle-ready units.",
-  "pt": ""
+  "pt": "Unidades prontas para a batalha insuficientes.",
+  "auto": "gemini-2.5-flash"
  },
  "school_meiyuechanchu": {
   "ch": "每月产出",
   "en": "Monthly Output",
-  "pt": ""
+  "pt": "Produção Mensal",
+  "auto": "gemini-2.5-flash"
  },
  "school_member": {
   "ch": "记名弟子",
   "en": "Backup Disciple",
-  "pt": ""
+  "pt": "Discípulo Reserva",
+  "auto": "gemini-2.5-flash"
  },
  "school_mengui": {
   "ch": "宗门门规",
   "en": "Sect Rules",
-  "pt": ""
+  "pt": "Regras da Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_mine": {
   "ch": "矿材",
   "en": "Ore",
-  "pt": ""
+  "pt": "Minério",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "school_money": {
   "ch": "灵石",
   "en": "Spirit Stone",
-  "pt": ""
+  "pt": "Pedra Espiritual",
+  "auto": "gemini-2.5-flash"
  },
  "school_mostUp": {
   "ch": "<color=#00ffff>在本分舵最多只可晋升到{0}\n想要晋升更高职位可前往下一区域的分舵（或总舵）</color>",
   "en": "<color=#00ffff>Can only be promoted to {0} in this Branch.\nIf you want to be promoted to the next Branch, you can go to the next Branch area (or headquarters)</color>",
-  "pt": ""
+  "pt": "<color=#00ffff>Só pode ser promovido a {0} nesta Filial.\nSe quiser ser promovido para a próxima Filial, pode ir para a área da próxima Filial (ou sede)</color>",
+  "auto": "gemini-2.5-flash"
  },
  "school_mozhiqibuzu": {
   "ch": "魔之气不足",
   "en": "魔之气不足",
-  "pt": ""
+  "pt": "Qi Demoníaco Insuficiente",
+  "auto": "gemini-2.5-flash"
  },
  "school_mp": {
   "ch": "灵力：",
   "en": "Energy: ",
-  "pt": ""
+  "pt": "Energia: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_first1": {
   "ch": "天",
@@ -767,32 +925,38 @@
  "school_name_last1": {
   "ch": "宗",
   "en": " Sect",
-  "pt": ""
+  "pt": " Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_last2": {
   "ch": "门",
   "en": " Sect",
-  "pt": ""
+  "pt": " Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_last3": {
   "ch": "谷",
   "en": " Sect",
-  "pt": ""
+  "pt": " Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_last4": {
   "ch": "派",
   "en": " Sect",
-  "pt": ""
+  "pt": " Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_last5": {
   "ch": "山",
   "en": " Sect",
-  "pt": ""
+  "pt": " Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_last6": {
   "ch": "教",
   "en": " Sect",
-  "pt": ""
+  "pt": " Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_name_second1": {
   "ch": "鬼",
@@ -877,112 +1041,138 @@
  "school_needStudent": {
   "ch": "至少选择{0}名弟子！",
   "en": "Please select at least {0} Disciple!",
-  "pt": ""
+  "pt": "Por favor, selecione pelo menos {0} Discípulo!",
+  "auto": "gemini-2.5-flash"
  },
  "school_needTeacher": {
   "ch": "请选择一名领队！",
   "en": "Please select 1 Branch Leader!",
-  "pt": ""
+  "pt": "Selecione 1 Líder de Filial!",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_paimingtisheng": {
   "ch": "排名提升",
   "en": "Rank Increased",
-  "pt": ""
+  "pt": "Rank Aumentado",
+  "auto": "gemini-2.5-flash"
  },
  "school_point1": {
   "ch": "已被占领资源点",
   "en": "Occupied Resource Point",
-  "pt": ""
+  "pt": "Ponto de Recurso Ocupado",
+  "auto": "gemini-2.5-flash"
  },
  "school_point2": {
   "ch": "未被占领资源点",
   "en": "Unoccupied Resource Point",
-  "pt": ""
+  "pt": "Ponto de Recurso Não Ocupado",
+  "auto": "gemini-2.5-flash"
  },
  "school_qianghua": {
   "ch": "强化",
   "en": "Enhance",
-  "pt": ""
+  "pt": "Aprimorar",
+  "auto": "gemini-2.5-flash"
  },
  "school_qingqiu": {
   "ch": "大山秘境",
   "en": "大山秘境",
-  "pt": ""
+  "pt": "Reino Secreto da Grande Montanha",
+  "auto": "gemini-2.5-flash"
  },
  "school_qinmitishi1": {
   "ch": "当前宗门亲密度：",
   "en": "Sect Affinity:",
-  "pt": ""
+  "pt": "Afinidade da Seita:",
+  "auto": "gemini-2.5-flash"
  },
  "school_qinmitishi2": {
   "ch": "宗门亲密度大于{0}：价格倍数{1}倍",
   "en": "Sect Affinity above {0}: Price x{1}",
-  "pt": ""
+  "pt": "Afinidade da Seita acima de {0}: Preço x{1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_qinmitishi3": {
   "ch": "与该宗门的亲密度越高，在该宗门消费时所需要的灵石就越少。宗门亲密度由该宗门的门人对你的评价而决定，与该宗门中的门人提升关系就能够提升与该宗门的亲密度。",
   "en": "Increase your Affinity with a sect to lower the Spirit Stones you have to pay for the same item. Sect Affinity is determined by the sect members' attitudes toward you. Improve your relationships with the members of a sect to increase your Affinity with the sect.",
-  "pt": ""
+  "pt": "Aumente sua Afinidade com uma seita para diminuir as Pedras Espirituais que você precisa pagar pelo mesmo item. A Afinidade da Seita é determinada pelas atitudes dos membros da seita em relação a você. Melhore seus relacionamentos com os membros de uma seita para aumentar sua Afinidade com a seita.",
+  "auto": "gemini-2.5-flash"
  },
  "school_qinmitishi4": {
   "ch": "当前价格倍数：{0}倍",
   "en": "Current Price: x{0}",
-  "pt": ""
+  "pt": "Preço Atual: x{0}",
+  "auto": "gemini-2.5-flash"
  },
  "school_quanburenwu": {
   "ch": "全部任务",
   "en": "All Missions",
-  "pt": ""
+  "pt": "Todas as Missões",
+  "auto": "gemini-2.5-flash"
  },
  "school_querenxiaobi": {
   "ch": "确认进入小比吗？",
   "en": "Enter the sect duel?",
-  "pt": ""
+  "pt": "Entrar no duelo da seita?",
+  "auto": "gemini-2.5-flash"
  },
  "school_renshuyiman": {
   "ch": "宗门人数已满",
   "en": "Sect is full!",
-  "pt": ""
+  "pt": "Seita cheia!",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwujiangli": {
   "ch": "任务奖励：",
   "en": "Reward: ",
-  "pt": ""
+  "pt": "Recompensa:",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "school_renwuliebiao": {
   "ch": "宗门任务列表",
   "en": "Sect Missions",
-  "pt": ""
+  "pt": "Missões da Seita",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwumubiao": {
   "ch": "任务目标：",
   "en": "Objective: ",
-  "pt": ""
+  "pt": "Objetivo:",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwunandu": {
   "ch": "任务难度：",
   "en": "Difficulty: ",
-  "pt": ""
+  "pt": "Dificuldade:",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwunandu1": {
   "ch": "<g>简单</g>",
   "en": "<g>Easy</g>",
-  "pt": ""
+  "pt": "<g>Fácil</g>",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwunandu2": {
   "ch": "<b>普通</b>",
   "en": "<b>Normal</b>",
-  "pt": ""
+  "pt": "<b>Normal</b>",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwunandu3": {
   "ch": "<p>困难</p>",
   "en": "<p>Hard</p>",
-  "pt": ""
+  "pt": "<p>Difícil</p>",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwunandu4": {
   "ch": "<y>极难</y>",
   "en": "<y>Nightmare</y>",
-  "pt": ""
+  "pt": "<y>Pesadelo</y>",
+  "auto": "gemini-2.5-flash"
  },
  "school_renwunandu5": {
   "ch": "<r>地狱</r>",
@@ -1062,152 +1252,187 @@
  "school_selectStudentNum": {
   "ch": "选择弟子{0}/{1}",
   "en": "Select Disciple(s) {0}/{1}",
-  "pt": ""
+  "pt": "Selecionar Discípulo(s) {0}/{1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_selectTeacher": {
   "ch": "选择领队",
   "en": "Select Branch Leader",
-  "pt": ""
+  "pt": "Selecionar Líder de Filial",
+  "auto": "gemini-2.5-flash"
  },
  "school_selectTeacherNum": {
   "ch": "选择领队{0}/{1}",
   "en": "Select Branch Leader {0}/{1}",
-  "pt": ""
+  "pt": "Selecionar Líder de Filial {0}/{1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_shapan": {
   "ch": "宗门沙盘",
   "en": "Sect Sandbox",
-  "pt": ""
+  "pt": "Mesa de Guerra",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_shengwang": {
   "ch": "声望状态：",
   "en": "Reputation: ",
-  "pt": ""
+  "pt": "Reputação: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_shengyugongxian": {
   "ch": "剩余贡献：",
   "en": "Remaining Contribution:",
-  "pt": ""
+  "pt": "Contribuição Restante:",
+  "auto": "gemini-2.5-flash"
  },
  "school_shengyushijian": {
   "ch": "剩余时间",
   "en": "Time Remaining",
-  "pt": ""
+  "pt": "Tempo Restante",
+  "auto": "gemini-2.5-flash"
  },
  "school_shifoujiaru": {
   "ch": "是否加入{0}？",
   "en": "Join {0}?",
-  "pt": ""
+  "pt": "Entrar em {0}?",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "school_shuaxinmiji": {
   "ch": "是否花费{0}宗门贡献刷新秘籍？",
   "en": "Spend {0} Sect Contribution to refresh the Manuals?",
-  "pt": ""
+  "pt": "Gastar {0} Contribuição da Seita para atualizar os Manuais?",
+  "auto": "gemini-2.5-flash"
  },
  "school_sp": {
   "ch": "念力：",
   "en": "Focus: ",
-  "pt": ""
+  "pt": "Foco: ",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get21": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": ""
+  "pt": "{0} aceitou a missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get22": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": ""
+  "pt": "{0} entregou a missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get31": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": ""
+  "pt": "{0} aceitou a missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get32": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": ""
+  "pt": "{0} entregou a missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get41": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": ""
+  "pt": "{0} aceitou a missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get42": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": ""
+  "pt": "{0} entregou a Missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get51": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": ""
+  "pt": "{0} aceitou a Missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get52": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": ""
+  "pt": "{0} entregou a Missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get61": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": ""
+  "pt": "{0} aceitou a Missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_task_get62": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": ""
+  "pt": "{0} entregou a Missão: {1}",
+  "auto": "gemini-2.5-flash"
  },
  "school_teshuchanchu": {
   "ch": "特殊产出",
   "en": "Special Output",
-  "pt": ""
+  "pt": "Produção Especial",
+  "auto": "gemini-2.5-flash"
  },
  "school_tianshuxiaohao": {
   "ch": "需要{0}天",
   "en": "Time needed: {0}d",
-  "pt": ""
+  "pt": "Tempo: {0} dias",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_tiaojian": {
   "ch": "以下资质到达{0}（{1}）",
   "en": "Stats reached {0} ({1})",
-  "pt": ""
+  "pt": "Atributos atingiram {0} ({1})",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaojiantishi1": {
   "ch": "宗门贡献不足",
   "en": "Sect Contribution too low",
-  "pt": ""
+  "pt": "Contribuição da Seita insuficiente",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaojiantishi2": {
   "ch": "声望不足",
   "en": "Reputation too low",
-  "pt": ""
+  "pt": "Reputação insuficiente",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaozhanshibai": {
   "ch": "挑战失败！",
   "en": "Challenge failed!",
-  "pt": ""
+  "pt": "Desafio falhou!",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaozhanshijian": {
   "ch": "上次挑战已失败，请{0}个月后在挑战。",
   "en": "Your previous challenge failed. Try again in {0} month(s).",
-  "pt": ""
+  "pt": "Seu desafio anterior falhou. Tente novamente em {0} mês(es).",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaozhantiaojian1": {
   "ch": "（散修满足以下任意条件，即可挑战入门小比）",
   "en": "After meeting any requirement below, Rogue Cultivators can challenge Sect Tryouts",
-  "pt": ""
+  "pt": "(Após cumprir qualquer requisito abaixo, Cultivadores Errantes podem desafiar a Peneira da Seita)",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaozhantiaojian2": {
   "ch": "（外门弟子满足以下所有条件，即可挑战内门小比）",
   "en": "After meeting all the requirements below, Initiate Disciples can challenge Promotion Duel (Disciple)",
-  "pt": ""
+  "pt": "(Após cumprir todos os requisitos abaixo, Discípulos Externos podem desafiar o Duelo de Promoção (Discípulo Interno))",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaozhantiaojian3": {
   "ch": "（内门弟子满足以下所有条件，即可挑战真传小比）",
   "en": "After meeting all the requirements below, Disciple Disciples can challenge Promotion Duel (True Disciple)",
-  "pt": ""
+  "pt": "(Após cumprir todos os requisitos abaixo, Discípulos Internos podem desafiar o Duelo de Promoção (Discípulo Verdadeiro))",
+  "auto": "gemini-2.5-flash"
  },
  "school_tiaozhantiaojian4": {
   "ch": "（真传弟子满足以下所有条件，即可挑战长老小比）",
