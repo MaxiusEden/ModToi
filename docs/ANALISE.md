@@ -246,7 +246,10 @@ Só usa a biblioteca padrão do Python. A pasta do jogo vem da variável `GAME_D
 | Comando | O que faz |
 |---|---|
 | `extract [--dump arquivo]` | Mescla o dump de runtime (`ModExportData/Mod_6b2SYs/ptbr_missing_LocalText.txt`) em `traducao/LocalText/*.json`. O `ch` vem do kit. Chaves já traduzidas não aparecem no dump; vêm do `LocalText.json` atual do mod, com o `en` do kit. Nunca apaga entradas nem `pt`. Se o `en` de uma entrada já traduzida mudou, marca `"revisar": true`. É idempotente. |
-| `validate [--report arquivo]` | Confere cada `pt` contra o `en` (ou contra o `ch`, quando o `en` está vazio). Grava `traducao/validacao.txt` e sai com código 1 se houver erro. |
+| `validate [--report arquivo]` | Confere cada `pt` contra o `en` (ou contra o `ch`, quando o `en` está vazio). Também recalcula os motivos `glossário: termo → tradução` em `revisar`: entra quando um termo de `glossario/obrigatorios.json` aparece na fonte e a tradução aprovada falta no `pt`, e sai quando o `pt` é corrigido (regras em `glossario/decisoes.md`). Grava `traducao/validacao.txt` e sai com código 1 se houver erro. |
+| `glossario` | Junta `glossario/obrigatorios.json` e `glossario/sugestoes.json` em `glossario/glossario.json`, a entrada do `omni_translate`. |
+
+O campo `revisar` de uma entrada é uma **lista de motivos**: `en mudou depois da tradução` (posto pelo `extract`), `glossário: …` (pelo `validate`) e `omni ok=false` (pelo `merge`). Quem revisa apaga o campo. Avisos não bloqueiam o `build`.
 | `build` | Gera `ModAssets/ptbr/LocalText.json` só com traduções sem erro (avisos não bloqueiam). Não grava nada se não houver nenhuma tradução válida. |
 
 Formato de `traducao/LocalText/<categoria>.json`: `{ "<key>": { "ch": …, "en": …, "pt": "" } }`, com quebras de linha reais (`\n` no JSON). A categoria é o prefixo da chave sem os dígitos finais (regra do `prefix.py`). Categorias com menos de 100 chaves caem para o prefixo de letras e depois para `_diversos.json`; as chaves aleatórias de outros mods vão para `_outros_mods.json`. São 85 arquivos (10,7 MB); os maiores são `drama_dialogue` (2,8 MB) e `item_desc` (1,3 MB).

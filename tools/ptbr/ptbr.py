@@ -5,6 +5,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
@@ -130,7 +131,7 @@ def cmd_extract(args):
             continue
         if entry['en'] != en:
             if entry.get('pt'):
-                entry['revisar'] = True
+                add_reason(entry, 'en mudou depois da tradução')
                 changed += 1
             entry['en'] = en
             updated += 1
@@ -139,6 +140,61 @@ def cmd_extract(args):
     by_cat = save_work(work)
     print(f'dump: {len(dump)} chaves | novas: {added} | en atualizado: {updated} (traduzidas a revisar: {changed})')
     print(f'{len(work)} entradas em {len(by_cat)} arquivos em {WORK_DIR.relative_to(REPO)}')
+
+
+GLOSS_REASON = 'glossário: '
+
+
+def add_reason(entry, reason):
+    """`revisar` é a lista de motivos pendentes; quem revisa apaga o campo."""
+    reasons = entry.get('revisar') or []
+    if reason not in reasons:
+        entry['revisar'] = reasons + [reason]
+
+
+def fold(s):
+    s = unicodedata.normalize('NFKD', s.lower())
+    return ''.join(c for c in s if not unicodedata.combining(c))
+
+
+_glossary = None
+
+
+def obligatory_terms():
+    """[(termo, tradução, regex na fonte, é_ch)], mais longos primeiro; inclui sugestões só para cobertura."""
+    global _glossary
+    if _glossary is None:
+        obrig, sug = load_glossary('obrigatorios.json'), load_glossary('sugestoes.json')
+        terms = []
+        for term, pt in {**sug, **obrig}.items():
+            is_ch = bool(CJK_RE.search(term))
+            rx = re.compile(re.escape(term) if is_ch else r'(?<![A-Za-z])' + re.escape(term) + r'(?![A-Za-z])')
+            terms.append((term, pt, rx, is_ch, term in obrig))
+        terms.sort(key=lambda t: -len(t[0]))
+        _glossary = terms
+    return _glossary
+
+
+def glossary_misses(entry):
+    """Termos obrigatórios presentes na fonte cuja tradução aprovada falta no pt.
+
+    Usa a correspondência mais longa: em "Taoist Mind" vale "Coração do Dao", não "Daoista".
+    No pt a busca ignora acento e maiúscula e aceita plural (só exige o início da palavra)."""
+    pt = fold(entry.get('pt', ''))
+    misses = []
+    for source in ('en', 'ch'):
+        text = entry.get(source, '')
+        covered = []
+        for term, tr, rx, is_ch, required in obligatory_terms():
+            if is_ch != (source == 'ch'):
+                continue
+            for m in rx.finditer(text):
+                if any(m.start() < e and s < m.end() for s, e in covered):
+                    continue
+                covered.append((m.start(), m.end()))
+                if required and not re.search(r'(?<![a-z0-9])' + re.escape(fold(tr)), pt):
+                    misses.append(f'{term} → {tr}')
+    return sorted(set(misses))
 
 
 def check(entry):
@@ -157,9 +213,22 @@ def check(entry):
         warnings.append(f'quebras de linha: en={src.count(chr(10))} pt={pt.count(chr(10))}')
     if CJK_RE.search(pt):
         warnings.append('pt contém caracteres chineses')
-    if entry.get('revisar'):
-        warnings.append('en mudou depois da tradução')
+    warnings += [f'revisar: {r}' for r in entry.get('revisar') or []]
     return errors, warnings
+
+
+def refresh_glossary_reasons(entry):
+    """Recalcula os motivos 'glossário:' de `revisar`; devolve True se o campo mudou."""
+    before = entry.get('revisar') or []
+    keep = [r for r in before if not r.startswith(GLOSS_REASON)]
+    after = keep + [GLOSS_REASON + m for m in glossary_misses(entry)] if entry.get('pt') else keep
+    if after == before:
+        return False
+    if after:
+        entry['revisar'] = after
+    else:
+        entry.pop('revisar', None)
+    return True
 
 
 def validate(work):
@@ -177,11 +246,17 @@ def validate(work):
 
 def cmd_validate(args):
     work = load_work()
+    changed = sum(refresh_glossary_reasons(e) for e in work.values())
+    if changed:
+        save_work(work)
     report, n_err, n_warn = validate(work)
     done = sum(1 for e in work.values() if e.get('pt'))
+    pending = sum(1 for e in work.values() if e.get('revisar'))
+    gloss = sum(1 for e in work.values() if any(r.startswith(GLOSS_REASON) for r in e.get('revisar') or []))
     out = Path(args.report)
     out.write_text('\n'.join(report) + '\n', encoding='utf-8')
-    print(f'{done}/{len(work)} traduzidas | {n_err} com erro | {n_warn} com aviso | relatório: {out}')
+    print(f'{done}/{len(work)} traduzidas | {n_err} com erro | {n_warn} com aviso | '
+          f'revisar: {pending} (glossário: {gloss}; {changed} atualizadas agora) | relatório: {out}')
     return 1 if n_err else 0
 
 

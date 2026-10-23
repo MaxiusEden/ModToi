@@ -11,7 +11,7 @@ Estado: **aprovado em 2026-10-22**, com ajustes: fases Inicial/Médio/Final e gl
 | `glossario.json` | **Gerado** por `ptbr.py glossario` (junta os dois níveis); é o `glossary_path` do `omni_translate`. Não edite à mão. |
 | `candidatos.tsv` | Candidatos gerados por `tools/ptbr/glossario_candidatos.py`. |
 
-Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais, contra o `en`.
+Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais, contra o `en`, com maiúsculas e minúsculas exatas e palavra inteira. Vale a correspondência mais longa, contando também as sugestões: em "Taoist Mind" só se exige "Coração do Dao". No `pt`, a busca ignora acento e maiúscula e aceita plural. Por isso, termo obrigatório que muda de gênero (como "Crit": Crítico/Crítica) fica nas sugestões.
 
 ## Regras gerais
 
@@ -317,7 +317,8 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | DEF | DEF | obrigatório | 172 | 防御 |
 | RES | RES | obrigatório | 105 |  |
 | Insight | Percepção | obrigatório | 157 | 悟性 |
-| Crit | Crítico | obrigatório | 132 | 暴击 |
+| Crit | Crítico | sugestão (o gênero varia: Chance Crítica) | 132 | 暴击 |
+| Crit Rate / Crit rate | Multiplicador Crítico (se ch=暴击倍率) ou Chance Crítica (se ch=暴击率/暴击概率) | sugestão (dica ao modelo; quem decide é o termo chinês) | 60 | — |
 | Crit RES | RES Crítico | obrigatório | 83 | 护心 |
 | Crit Chance | Chance Crítica | obrigatório | 35 | 暴击概率 |
 | 暴击倍率 | Multiplicador Crítico | obrigatório | — |  |
