@@ -163,6 +163,17 @@ _PLURAL = [('ão', 'ões'), ('al', 'ais'), ('el', 'eis'), ('ol', 'ois'), ('ul', 
            ('r', 'res'), ('z', 'zes')]
 
 
+_abbrev = None
+
+
+def abbreviate(folded):
+    """Aplica glossario/abreviacoes.json (ex.: habilidade -> habil.) para aceitar a forma curta em UI apertada."""
+    global _abbrev
+    if _abbrev is None:
+        _abbrev = {fold(k): fold(v) for k, v in load_glossary('abreviacoes.json').items()}
+    return ' '.join(_abbrev.get(w, w) for w in folded.split())
+
+
 def number_variant(text, plural):
     """Põe no plural (ou singular) as palavras antes do primeiro conectivo: 'Pedra Espiritual' <-> 'Pedras Espirituais'."""
     out, done = [], False
@@ -196,6 +207,7 @@ def obligatory_terms():
             rx = re.compile(re.escape(term) if is_ch else
                             r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])')
             forms = {fold(f) for f in (pt, number_variant(pt, plural=True), number_variant(pt, plural=False))}
+            forms |= {abbreviate(f) for f in forms}
             pt_rx = [re.compile(r'(?<![a-z0-9])' + r'\w*\s+'.join(map(re.escape, f.split()))) for f in forms]
             terms.append((term, pt_rx, rx, is_ch, term in obrig, pt))
         terms.sort(key=lambda t: -len(t[0]))
@@ -206,28 +218,32 @@ def obligatory_terms():
 _exceptions = None
 
 
-def exception_res():
-    """Nomes próprios (glossario/excecoes.json) cujo interior o validador não confere."""
+def exceptions():
+    """glossario/excecoes.json: nomes próprios cujo interior não é conferido e termos ignorados por chave."""
     global _exceptions
     if _exceptions is None:
-        _exceptions = [re.compile(re.escape(n) if CJK_RE.search(n) else r'(?<![A-Za-z])' + re.escape(n) + r'(?![A-Za-z])')
-                       for n in load_glossary('excecoes.json') or []]
+        data = load_glossary('excecoes.json') or {}
+        names = [re.compile(re.escape(n) if CJK_RE.search(n) else r'(?<![A-Za-z])' + re.escape(n) + r'(?![A-Za-z])')
+                 for n in data.get('nomes', [])]
+        _exceptions = (names, {k: set(v) for k, v in data.get('por_chave', {}).items()})
     return _exceptions
 
 
-def glossary_misses(entry):
+def glossary_misses(entry, key=None):
     """Termos obrigatórios presentes na fonte cuja tradução aprovada falta no pt.
 
     Usa a correspondência mais longa: em "Taoist Mind" vale "Coração do Dao", não "Daoista".
     No en aceita plural (-s/-es). No pt ignora acento e maiúscula e aceita a tradução no singular
     ou no plural, exigindo só o início de cada palavra."""
     pt = fold(entry.get('pt', ''))
+    names, by_key = exceptions()
+    ignored = by_key.get(key, set())
     misses = []
     for source in ('en', 'ch'):
         text = entry.get(source, '')
-        covered = [m.span() for rx in exception_res() for m in rx.finditer(text)]
+        covered = [m.span() for rx in names for m in rx.finditer(text)]
         for term, pt_rx, rx, is_ch, required, tr in obligatory_terms():
-            if is_ch != (source == 'ch'):
+            if is_ch != (source == 'ch') or term in ignored:
                 continue
             for m in rx.finditer(text):
                 if any(m.start() < e and s < m.end() for s, e in covered):
@@ -258,11 +274,41 @@ def check(entry):
     return errors, warnings
 
 
-def refresh_glossary_reasons(entry):
-    """Recalcula os motivos 'glossário:' de `revisar`; devolve True se o campo mudou."""
+WIDTH_REASON = 'largura: '
+SHORT_UI = 20
+_limits = None
+
+
+def width_limit(key, en):
+    """Limite de caracteres do pt: traducao/limites.json para a chave, senão regra geral para textos curtos de UI."""
+    global _limits
+    if _limits is None:
+        path = REPO / 'traducao/limites.json'
+        _limits = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+    if key in _limits:
+        return _limits[key]
+    en = TAG_RE.sub('', en).strip()
+    if not en or '\n' in en or len(en) > SHORT_UI or CJK_RE.search(en):
+        return None
+    return max(len(en) + 3, int(len(en) * 1.3 + 0.999))
+
+
+def width_problem(entry, key):
+    limit = width_limit(key, entry['en'])
+    size = len(TAG_RE.sub('', entry.get('pt', '')).strip())
+    return f'{size} > {limit} caracteres' if limit is not None and size > limit else None
+
+
+def refresh_glossary_reasons(entry, key=None):
+    """Recalcula os motivos automáticos de `revisar` ('glossário:' e 'largura:'); devolve True se o campo mudou."""
     before = entry.get('revisar') or []
-    keep = [r for r in before if not r.startswith(GLOSS_REASON)]
-    after = keep + [GLOSS_REASON + m for m in glossary_misses(entry)] if entry.get('pt') else keep
+    keep = [r for r in before if not r.startswith((GLOSS_REASON, WIDTH_REASON))]
+    after = keep
+    if entry.get('pt'):
+        after = keep + [GLOSS_REASON + m for m in glossary_misses(entry, key)]
+        width = width_problem(entry, key)
+        if width:
+            after.append(WIDTH_REASON + width)
     if after == before:
         return False
     if after:
@@ -287,17 +333,17 @@ def validate(work):
 
 def cmd_validate(args):
     work = load_work()
-    changed = sum(refresh_glossary_reasons(e) for e in work.values())
+    changed = sum(refresh_glossary_reasons(e, k) for k, e in work.items())
     if changed:
         save_work(work)
     report, n_err, n_warn = validate(work)
     done = sum(1 for e in work.values() if e.get('pt'))
     pending = sum(1 for e in work.values() if e.get('revisar'))
-    gloss = sum(1 for e in work.values() if any(r.startswith(GLOSS_REASON) for r in e.get('revisar') or []))
+    count = lambda p: sum(1 for e in work.values() if any(r.startswith(p) for r in e.get('revisar') or []))
     out = Path(args.report)
     out.write_text('\n'.join(report) + '\n', encoding='utf-8')
-    print(f'{done}/{len(work)} traduzidas | {n_err} com erro | {n_warn} com aviso | '
-          f'revisar: {pending} (glossário: {gloss}; {changed} atualizadas agora) | relatório: {out}')
+    print(f'{done}/{len(work)} traduzidas | {n_err} com erro | {n_warn} com aviso | revisar: {pending} '
+          f'(glossário: {count(GLOSS_REASON)}, largura: {count(WIDTH_REASON)}; {changed} atualizadas agora) | relatório: {out}')
     return 1 if n_err else 0
 
 
@@ -324,7 +370,7 @@ def cmd_merge(args):
             else:
                 add_reason(entry, OMNI_BAD)
                 stats['ok=false (revisar)'] += 1
-            refresh_glossary_reasons(entry)
+            refresh_glossary_reasons(entry, key)
     save_work(work)
     gloss = sum(1 for e in work.values() if e.get('auto') and any(r.startswith(GLOSS_REASON) for r in e.get('revisar') or []))
     print(', '.join(f'{k}: {v}' for k, v in stats.items()) or 'nada a juntar')
