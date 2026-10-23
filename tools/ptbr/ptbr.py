@@ -158,6 +158,31 @@ def fold(s):
 
 
 _glossary = None
+CONNECTORS = {'de', 'do', 'da', 'dos', 'das', 'e', 'em', 'no', 'na', 'o', 'a', 'os', 'as', 'sem'}
+_PLURAL = [('ão', 'ões'), ('al', 'ais'), ('el', 'eis'), ('ol', 'ois'), ('ul', 'uis'), ('m', 'ns'),
+           ('r', 'res'), ('z', 'zes')]
+
+
+def number_variant(text, plural):
+    """Põe no plural (ou singular) as palavras antes do primeiro conectivo: 'Pedra Espiritual' <-> 'Pedras Espirituais'."""
+    out, done = [], False
+    for w in text.split():
+        if done or w.lower() in CONNECTORS:
+            done = done or w.lower() in CONNECTORS
+            out.append(w)
+            continue
+        for sing, plur in _PLURAL:
+            a, b = (sing, plur) if plural else (plur, sing)
+            if w.lower().endswith(a):
+                w = w[:len(w) - len(a)] + b
+                break
+        else:
+            if plural and w[-1:].lower() in 'aeiouáéíóúâêôãõ':
+                w += 's'
+            elif not plural and w[-1:].lower() == 's':
+                w = w[:-1]
+        out.append(w)
+    return ' '.join(out)
 
 
 def obligatory_terms():
@@ -168,8 +193,11 @@ def obligatory_terms():
         terms = []
         for term, pt in {**sug, **obrig}.items():
             is_ch = bool(CJK_RE.search(term))
-            rx = re.compile(re.escape(term) if is_ch else r'(?<![A-Za-z])' + re.escape(term) + r'(?![A-Za-z])')
-            terms.append((term, pt, rx, is_ch, term in obrig))
+            rx = re.compile(re.escape(term) if is_ch else
+                            r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])')
+            forms = {fold(f) for f in (pt, number_variant(pt, plural=True), number_variant(pt, plural=False))}
+            pt_rx = [re.compile(r'(?<![a-z0-9])' + r'\w*\s+'.join(map(re.escape, f.split()))) for f in forms]
+            terms.append((term, pt_rx, rx, is_ch, term in obrig, pt))
         terms.sort(key=lambda t: -len(t[0]))
         _glossary = terms
     return _glossary
@@ -191,20 +219,21 @@ def glossary_misses(entry):
     """Termos obrigatórios presentes na fonte cuja tradução aprovada falta no pt.
 
     Usa a correspondência mais longa: em "Taoist Mind" vale "Coração do Dao", não "Daoista".
-    No pt a busca ignora acento e maiúscula e aceita plural (só exige o início da palavra)."""
+    No en aceita plural (-s/-es). No pt ignora acento e maiúscula e aceita a tradução no singular
+    ou no plural, exigindo só o início de cada palavra."""
     pt = fold(entry.get('pt', ''))
     misses = []
     for source in ('en', 'ch'):
         text = entry.get(source, '')
         covered = [m.span() for rx in exception_res() for m in rx.finditer(text)]
-        for term, tr, rx, is_ch, required in obligatory_terms():
+        for term, pt_rx, rx, is_ch, required, tr in obligatory_terms():
             if is_ch != (source == 'ch'):
                 continue
             for m in rx.finditer(text):
                 if any(m.start() < e and s < m.end() for s, e in covered):
                     continue
                 covered.append((m.start(), m.end()))
-                if required and not re.search(r'(?<![a-z0-9])' + re.escape(fold(tr)), pt):
+                if required and not any(r.search(pt) for r in pt_rx):
                     misses.append(f'{term} → {tr}')
     return sorted(set(misses))
 

@@ -12,7 +12,7 @@ Estado: **aprovado em 2026-10-22**, com ajustes: fases Inicial/Médio/Final e gl
 | `excecoes.json` | Nomes próprios (lista de strings) que o validador não confere por dentro. Ex.: "Tao Tie" (饕餮) contém "Tao", mas fica em pinyin. Termos fora do nome continuam sendo conferidos. |
 | `candidatos.tsv` | Candidatos gerados por `tools/ptbr/glossario_candidatos.py`. |
 
-Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais, contra o `en`, com maiúsculas e minúsculas exatas e palavra inteira. Vale a correspondência mais longa, contando também as sugestões: em "Taoist Mind" só se exige "Coração do Dao". No `pt`, a busca ignora acento e maiúscula e aceita plural. Por isso, termo obrigatório que muda de gênero (como "Crit": Crítico/Crítica) fica nas sugestões.
+Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais, contra o `en`, com maiúsculas e minúsculas exatas e palavra inteira. Vale a correspondência mais longa, contando também as sugestões: em "Taoist Mind" só se exige "Coração do Dao". No `en`, o termo também casa no plural (-s/-es). No `pt`, a busca ignora acento e maiúscula e aceita a tradução no singular ou no plural: as palavras antes do primeiro conectivo variam em número (al↔ais, el↔eis, ão↔ões, m↔ns, -s), então "Pedra Espiritual" aceita "Pedras Espirituais" e "Artes Marciais" aceita "Arte Marcial". Por isso, termo obrigatório que muda de gênero (como "Crit": Crítico/Crítica) fica nas sugestões.
 
 ## Regras gerais
 
@@ -182,6 +182,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Spirit Stones | Pedras Espirituais | obrigatório | 432 |  |
 | Taoist Mind | Coração do Dao | obrigatório | 195 | 道心 |
 | Taoist Title | Nome Daoista | obrigatório | 400 | 道号 |
+| Taoist Fruit | Fruto do Dao | obrigatório (acrescentado no piloto) | — | — |
 | A Taoist Title | Um nome daoista | obrigatório | 97 |  |
 | Tao Power | Poder do Dao | obrigatório | 25 | 道力 |
 | Destiny | Destino | obrigatório | 239 | 气运 |
