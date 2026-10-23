@@ -50,8 +50,17 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Fairy (honorífico) | Fada | Tratamento para cultivadoras; `Flower Faerie` (monstro) → Fada das Flores. |
 | Holy (天机, destino) | Sagrado | Segue o `en` do jogo. |
 | Lifespan (寿命) | Longevidade | É mais curto que "expectativa de vida" para a UI. |
-| Array (大阵) / Formation | Grande Formação / Formação | 阵 = formação, como nas novels traduzidas. |
+| Array / Formation (阵) | Formação | 阵 = formação, como nas novels traduzidas. "Grande Formação" deixava nomes como "Stone Array" longos demais para o mapa (alterado depois do piloto). |
 | Tao (道) | Dao | No `en`, "Tao" é 道 em 265 de 270 ocorrências; "Dao" nunca aparece. |
+| Imp (壶妖) | Diabrete | O piloto misturou Imp, Diabinho e Diabrete; padronizado em 2026-10-23. |
+
+## Interface apertada (teste do piloto em 2026-10-23)
+
+- **Abas laterais do personagem** (cabem ~7 letras; o `en` era Stats/Skills/Item/Experience/Relationship): Status, Habil., Itens, Diário, Laços.
+- **`common_shouming` (Lifespan, "40/770")** → **Idade**. "Longevidade" empurrava o ícone para baixo da barra lateral. A chave ganhou exceção de glossário em `excecoes.json` (`por_chave`).
+- **`abreviacoes.json`:** formas curtas que o validador aceita no lugar da forma completa (Habilidade → Habil., Técnica → Téc.). O modelo continua recebendo a forma completa pelo glossário; a abreviação é escolhida na revisão de largura.
+- **Limites de largura:** `traducao/limites.json` fixa o máximo de caracteres por chave (abas = 7). Sem limite fixo, um texto de UI de até 20 caracteres, sem quebra de linha e com `en` latino, não pode passar de `en + 3` nem de 130% do `en`. O `validate` marca `revisar: largura: …`.
+- **Botões curtos:** OK fica OK, Male/Female → Homem/Mulher, Middle Way (中庸) → Neutro (par de Justo/Demoníaco). Para jogo salvo usar "Save" em rótulos curtos ("Último Save").
 
 ## Glossário por grupo (408 termos: 252 obrigatórios, 156 sugestões)
 
@@ -197,7 +206,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Geomancy | Geomancia | obrigatório | 133 | 堪舆 |
 | Feng Shui | Feng Shui | obrigatório | 143 | 风水 |
 | Formation | Formação | obrigatório | 144 |  |
-| Array | Grande Formação | obrigatório | 76 | 大阵 |
+| Array | Formação | obrigatório | 76 | 大阵 |
 | Field | Domínio | sugestão | 76 | 领域 |
 | Chaos | Caos | sugestão | 79 | 洪荒 |
 | Adventure | Aventura | sugestão | 97 | 奇遇 |

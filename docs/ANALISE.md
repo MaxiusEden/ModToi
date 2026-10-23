@@ -252,7 +252,7 @@ Só usa a biblioteca padrão do Python. A pasta do jogo vem da variável `GAME_D
 
 O `build` exclui as entradas com `omni ok=false` em `revisar` até alguém revisar e apagar o motivo.
 
-O campo `revisar` de uma entrada é uma **lista de motivos**: `en mudou depois da tradução` (posto pelo `extract`), `glossário: …` (pelo `validate`) e `omni ok=false` (pelo `merge`). Quem revisa apaga o campo. Avisos não bloqueiam o `build`. Outros campos: `auto` guarda o modelo que traduziu, e `revisado: true` indica que uma pessoa conferiu ou corrigiu uma tradução automática.
+O campo `revisar` de uma entrada é uma **lista de motivos**: `en mudou depois da tradução` (posto pelo `extract`), `glossário: …` e `largura: …` (recalculados pelo `validate`) e `omni ok=false` (pelo `merge`). Quem revisa apaga o campo. Avisos não bloqueiam o `build`. Outros campos: `auto` guarda o modelo que traduziu, e `revisado: true` indica que uma pessoa conferiu ou corrigiu uma tradução automática.
 
 ### 10.1 Tradução automática (`omni_translate`)
 
@@ -268,6 +268,15 @@ Piloto de 2026-10-23 com `common` (100 entradas) e `ui` (510):
   - Os 7 avisos de glossário eram falsos positivos de singular/plural; o validador foi corrigido.
   - 3 traduções precisaram de ajuste manual: "LMB" virou "botão esquerdo do mouse", saiu um "Por favor" que o inglês não tem, e "comissioná-lo" foi reescrito.
   - Os nomes de idioma (简体中文/繁体中文) ficam em chinês de propósito.
+
+### 10.2 Teste do piloto no jogo (2026-10-23, prints em `docs/prints/`)
+
+- As traduções de `common`/`ui` apareceram: tela inicial, Configurações, OK/Cancelar, Idioma, rótulos do personagem (Sobrenome, Nome, Posição, Reino, Reputação…).
+- **O que ficou em inglês é, quase todo, de categorias ainda não traduzidas**, não falha do mod: `setting_*` (menu de pausa, configurações), `player_*`/`playerInfo_*` (atributos e blocos General/Combat), `townBuildingName`/`schoolBuildingName` (prédios), `school_*` (painel da seita), `defaultKeys*` (atalhos), `role_character_name` (traços), `login_*`, `diffName`, `drama_dialogue` (diálogos).
+- **Falas curtas de NPC** nas lojas ("Hello, looking food or lodgings?", "Great deals! Come have a look!") vêm de **`RoleLogLocal`**, que o mod ainda não troca.
+- Alguns textos vêm do `en` reescrito pelo mod "Enhanced english translation" (Travel = `player_jiaoli`, Refining = `player_lianqizizi`, Gentle/Loyal = `role_character_name3/9`, Reload = `setting_chongxinjiazaicundang`). As chaves existem e serão traduzidas normalmente.
+- **Não estão em tabela nenhuma:** "Mine", "Geo", "Battle Graphics" (ícones do mapa e configurações). Ou são texto fixo em prefab, ou são imagem; dependem do patch em `TMP_Text`/`Text` (seção 6, item 4).
+- **Largura:** as abas laterais do personagem cortam acima de ~7 letras ("Atribut", "Habilid", "Relacio"); até o inglês "Experience" aparece cortado. "Longevidade" empurrou o ícone para baixo da barra lateral. 73 dos 329 textos curtos do piloto eram bem mais longos que o `en`. Daí a regra de largura (`glossario/decisoes.md`, "Interface apertada") e o encurtamento de 55 textos.
 | `build` | Gera `ModAssets/ptbr/LocalText.json` só com traduções sem erro (avisos não bloqueiam). Não grava nada se não houver nenhuma tradução válida. |
 
 Formato de `traducao/LocalText/<categoria>.json`: `{ "<key>": { "ch": …, "en": …, "pt": "" } }`, com quebras de linha reais (`\n` no JSON). A categoria é o prefixo da chave sem os dígitos finais (regra do `prefix.py`). Categorias com menos de 100 chaves caem para o prefixo de letras e depois para `_diversos.json`; as chaves aleatórias de outros mods vão para `_outros_mods.json`. São 85 arquivos (10,7 MB); os maiores são `drama_dialogue` (2,8 MB) e `item_desc` (1,3 MB).

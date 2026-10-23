@@ -86,8 +86,9 @@
  "common_guanxi": {
   "ch": "关系",
   "en": "Relationship",
-  "pt": "Relacionamento",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Laços",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_houbei": {
   "ch": "后背",
@@ -99,7 +100,10 @@
   "ch": "后发",
   "en": "Back Hair ",
   "pt": "Cabelo de Trás ",
-  "auto": "gemini-3-flash-preview"
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "common_jilu": {
   "ch": "记录",
@@ -110,8 +114,9 @@
  "common_jineng": {
   "ch": "技能",
   "en": "Skills",
-  "pt": "Habilidades",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Habil.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_jinggao": {
   "ch": "警告",
@@ -176,8 +181,9 @@
  "common_meimao": {
   "ch": "眉毛",
   "en": "Eyebrows ",
-  "pt": "Sobrancelhas ",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Sobrancelha ",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_meixin": {
   "ch": "眉心",
@@ -212,8 +218,9 @@
  "common_nan": {
   "ch": "男",
   "en": "Male",
-  "pt": "Masculino",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Homem",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_neizaixingge": {
   "ch": "内在性格",
@@ -236,14 +243,16 @@
  "common_nv": {
   "ch": "女",
   "en": "Female",
-  "pt": "Feminino",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Mulher",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_qianfa": {
   "ch": "前发",
   "en": "Front Hair ",
-  "pt": "Cabelo Frontal ",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Franja ",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_qita": {
   "ch": "其它",
@@ -254,8 +263,9 @@
  "common_quanxuan": {
   "ch": "全选",
   "en": "Select All",
-  "pt": "Selecionar Tudo",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Marcar Tudo",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_queding": {
   "ch": "确定",
@@ -320,20 +330,23 @@
  "common_shouming": {
   "ch": "寿命",
   "en": "Lifespan",
-  "pt": "Longevidade",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Idade",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_shuliangweiling": {
   "ch": "数量不能为0",
   "en": "Quantity can't be 0",
-  "pt": "A quantidade não pode ser 0",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Quantidade não pode ser 0",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_shuxing": {
   "ch": "属性",
   "en": "Stats",
-  "pt": "Atributos",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Status",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_suzi1": {
   "ch": "一",
@@ -493,8 +506,9 @@
  "common_wupin": {
   "ch": "物品",
   "en": "Item",
-  "pt": "Item",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Itens",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_xiaoshi": {
   "ch": "时",
@@ -535,8 +549,9 @@
  "common_youlian": {
   "ch": "右脸",
   "en": "Right Face",
-  "pt": "Lado Direito do Rosto",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Rosto Dir.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_youshan": {
   "ch": "友善",
@@ -577,8 +592,9 @@
  "common_zhongyong": {
   "ch": "中庸",
   "en": "Middle Way",
-  "pt": "Caminho do Meio",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Neutro",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "common_zhongzu": {
   "ch": "种族",
@@ -601,7 +617,8 @@
  "common_zuolian": {
   "ch": "左脸",
   "en": "Left Face",
-  "pt": "Rosto Esquerdo",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Rosto Esq.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  }
 }

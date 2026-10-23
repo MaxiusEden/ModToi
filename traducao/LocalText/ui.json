@@ -8,8 +8,9 @@
  "ui_UpdateHistoryTitle": {
   "ch": "更新历程",
   "en": "Major Updates",
-  "pt": "Grandes Atualizações",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Atualizações",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_achievementItem_other": {
   "ch": "以及其余{0}个成就",
@@ -56,8 +57,9 @@
  "ui_battleDie_lyhts": {
   "ch": "危险！壶妖为你挡下了致命一击！\n炼妖壶自动祭出，从中飞出一道柔光将你笼罩！\n炼妖壶已发动天道庇佑，这将导致炼妖壶的损坏！\n你将失去在本场战斗中已获得的道具！",
   "en": "Watch out! The Imp blocks an imminent critical strike against you!\nThe Mythical Gourd floats into the air, and a gentle beam of light emits from it and encompasses you.\nThe Mythical Gourd has triggered the Heavenly Path Protection, and it will be broken due to it.\nYou will lose all the items you obtained in this battle.",
-  "pt": "Cuidado! O Imp bloqueia um golpe crítico iminente contra você!\nA Cabaça Mítica flutua no ar, e um feixe suave de luz emana dela e envolve você.\nA Cabaça Mítica ativou a Proteção do Caminho Celestial, e será quebrada por causa disso.\nVocê perderá todos os itens que obteve nesta batalha.",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Cuidado! O Diabrete bloqueia um golpe crítico iminente contra você!\nA Cabaça Mítica flutua no ar, e um feixe suave de luz emana dela e envolve você.\nA Cabaça Mítica ativou a Proteção do Caminho Celestial, e será quebrada por causa disso.\nVocê perderá todos os itens que obteve nesta batalha.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_battleDie_tlzd": {
   "ch": "脱离战斗",
@@ -81,13 +83,19 @@
   "ch": "技能",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "gemini-3-flash-preview"
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "ui_battleInfo_skill1": {
   "ch": "技能",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "gemini-3-flash-preview"
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "ui_battleInfo_wingmanAttack": {
   "ch": "收起冥羽中……",
@@ -110,8 +118,9 @@
  "ui_beifen_beifencundang": {
   "ch": "备份存档",
   "en": "Backup Save",
-  "pt": "Backup de Salvamento",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Backup",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_beifen_loadBackUp": {
   "ch": "是否把该存档设为最新存档并加载？",
@@ -128,8 +137,9 @@
  "ui_beifen_title": {
   "ch": "最新存档",
   "en": "Latest Save",
-  "pt": "Salvamento Mais Recente",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Último Save",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_bossZhangsanTips": {
   "ch": "一气化三清？需要短时间内一齐灭掉三清才可断其气！不然难缠至极！",
@@ -164,8 +174,9 @@
  "ui_damgeTestAntiCrit": {
   "ch": "抗暴倍数",
   "en": "Crit DR",
-  "pt": "RD de Crítico",
-  "auto": "gemini-3-flash-preview"
+  "pt": "RD Crítico",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_damgeTestCustom": {
   "ch": "自定义",
@@ -200,8 +211,9 @@
  "ui_damgeTestGrade": {
   "ch": "木桩境界",
   "en": "Wooden Pole Realm",
-  "pt": "Reino do Boneco de Madeira",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Reino do Boneco",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_damgeTestHp": {
   "ch": "体力",
@@ -224,8 +236,9 @@
  "ui_damgeTestIngoreCool": {
   "ch": "技能无冷却",
   "en": "No Skill Cooldown",
-  "pt": "Sem Recarga de Habilidade",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Sem Recarga de Habil.",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_damgeTestLeftSkill": {
   "ch": "武    技",
@@ -260,8 +273,9 @@
  "ui_damgeTestRest": {
   "ch": "重置",
   "en": "Reset",
-  "pt": "Redefinir",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Resetar",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_damgeTestRightSkill": {
   "ch": "绝    技",
@@ -279,7 +293,10 @@
   "ch": "身    法",
   "en": "Motion Skill",
   "pt": "Técnica de Movimento",
-  "auto": "gemini-3-flash-preview"
+  "auto": "gemini-3-flash-preview",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "ui_damgeTestSummon": {
   "ch": "召 唤 物",
@@ -440,8 +457,9 @@
  "ui_fateFeature_wingmanstate0": {
   "ch": "自动攻击<color=#16278b><u>切换</u></color>",
   "en": "Auto Attack <color=#16278b><u>Toggle</u></color>",
-  "pt": "Ataque Automático <color=#16278b><u>Alternar</u></color>",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Ataque Auto <color=#16278b><u>Alternar</u></color>",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_fateFeature_wingmanstate1": {
   "ch": "手动攻击<color=#16278b><u>切换</u></color>",
@@ -644,8 +662,9 @@
  "ui_godEye_skillCD": {
   "ch": "技能冷却：<color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}秒</color>",
   "en": "Skill Cooldown: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}s</color>",
-  "pt": "Recarga de Habilidade: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}s</color>",
-  "auto": "gemini-2.5-flash"
+  "pt": "Recarga de Habil.: <color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=jinenglengque><size=100%></voffset><space=0.3em>{0}s</color>",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_godEye_skillCons": {
   "ch": "施法消耗：<color=#F1FF19><space=-0.2em><voffset=-0.1em><size=130%><sprite name=lingli><size=100%></voffset><space=0.3em>{0}灵力</color>",
@@ -674,8 +693,9 @@
  "ui_godEye_title3": {
   "ch": "技能装配",
   "en": "Skill Equip",
-  "pt": "Equipar Habilidade",
-  "auto": "gemini-2.5-flash"
+  "pt": "Equipar Habil.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_godEye_title4": {
   "ch": "（当领悟妖兽技能可装配为自己所用）",
@@ -740,8 +760,9 @@
  "ui_godEye_yiganfu": {
   "ch": "妖兽技能",
   "en": "Beast Skill",
-  "pt": "Habilidade de Fera",
-  "auto": "gemini-2.5-flash"
+  "pt": "Habil. de Fera",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_gogEyeTipsConnect": {
   "ch": "<size=20>功能介绍：</size><size=2>\n\n</size>1.昊天眼的神力可以令你在世界地图上视野范围更广\n2.昊天眼有概率看破其他修仙者背包中尚不可见的物品\n3.当在战斗中陷入危难之时，昊天眼可以发动天道庇佑救助玩家脱离战斗，但发动了神力之后昊天眼会进入破损状态（可以进行修复）\n4.昊天眼神器在战斗中有概率识破妖兽的弱点，将弱点击破即可领悟妖兽的技能并为你所用\n\n<size=20>使用说明\n</size><size=2>\n\n</size>1.战斗外按<r>F</r>键，可快速打开昊天眼神器界面\n2.成功领悟技能后，可以在已领悟妖兽技能中点击按钮进行装配和切换\n3.战斗中按<r>F</r>键，可以释放装配中的妖兽技能\n4.领悟收集指定境界的5个更高境界的妖兽技能后，可点击突破按钮来提升已领悟技能的境界\n5.当昊天眼发动天道庇佑损坏后，可以在神器页面中对其进行修复。需要花费一定灵石，且所需费用会随着境界和修复次数变化而提升\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>\n6.当昊天眼处于破损状态时，无法再次发动天道庇佑；同时也无法使用已装配的妖兽技能，但仍可领悟新的妖兽技能\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>",
@@ -849,8 +870,9 @@
  "ui_jichujinengcitiao": {
   "ch": "基础技能词条",
   "en": "Basic Skill Affixes",
-  "pt": "Afixos de Habilidade Básica",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Afixos de Habil. Básica",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_jifensai_kaiqijiasu": {
   "ch": "",
@@ -909,8 +931,9 @@
  "ui_login_BackUpStick": {
   "ch": "读取备份存档",
   "en": "Load Backup Save",
-  "pt": "Carregar Backup do Jogo",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Carregar Backup",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_mapBattlePre_notAttack": {
   "ch": "目前无法进行挑战，是否退出",
@@ -1011,8 +1034,9 @@
  "ui_mibaoge_textRemainsTitle": {
   "ch": "持有灵石：",
   "en": "Spirit Stones owned:",
-  "pt": "Pedras Espirituais possuídas:",
-  "auto": "gemini-2.5-flash"
+  "pt": "Pedras Espirituais:",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_mibaoge_textSliTips": {
   "ch": "拉动注入灵石以催动莲台",
@@ -1071,8 +1095,9 @@
  "ui_mibaozengsong_textBtnSubmit": {
   "ch": "确  定",
   "en": "OK",
-  "pt": "Confirmar",
-  "auto": "gemini-2.5-flash"
+  "pt": "OK",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_mibaozengsong_textDuZhan": {
   "ch": "可督战",
@@ -1204,8 +1229,12 @@
  "ui_minmap_shizhen": {
   "ch": "石阵",
   "en": "Stone Array",
-  "pt": "Grande Formação de Pedra",
-  "auto": "gemini-2.5-flash"
+  "pt": "Formação de Pedra",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ],
+  "revisado": true
  },
  "ui_minmap_tishi1": {
   "ch": "显示/隐藏地点",
@@ -1216,14 +1245,16 @@
  "ui_minmap_tishi2": {
   "ch": "拖动地图",
   "en": "Drag Map",
-  "pt": "Arrastar Mapa",
-  "auto": "gemini-2.5-flash"
+  "pt": "Mover Mapa",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_minmap_tishi3": {
   "ch": "缩放地图",
   "en": "Map Zoom",
-  "pt": "Zoom do Mapa",
-  "auto": "gemini-2.5-flash"
+  "pt": "Ampliar",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_minmap_tupocailiao": {
   "ch": "突破材料",
@@ -1264,20 +1295,23 @@
  "ui_myAbility": {
   "ch": "我的心法",
   "en": "My Mind Skills",
-  "pt": "Minhas Técnicas Mentais",
-  "auto": "gemini-2.5-flash"
+  "pt": "Técnicas Mentais",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_myMartial": {
   "ch": "我的技能",
   "en": "My Skills",
-  "pt": "Minhas Habilidades",
-  "auto": "gemini-2.5-flash"
+  "pt": "Habilidades",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_noHasSkill": {
   "ch": "没有学习任何技能！",
   "en": "No skill learned!",
-  "pt": "Nenhuma habilidade aprendida!",
-  "auto": "gemini-2.5-flash"
+  "pt": "Sem habilidades!",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_noHasSkill_lvup": {
   "ch": "背包中没有携带或自身已学习任何符合升级境界的功法！",
@@ -1336,8 +1370,9 @@
  "ui_potmonListWork_again": {
   "ch": "再次出发",
   "en": "Send again",
-  "pt": "Enviar novamente",
-  "auto": "gemini-2.5-flash"
+  "pt": "Reenviar",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonListWork_againAsk": {
   "ch": "是否要让当前编队再次出发历练？",
@@ -1354,8 +1389,9 @@
  "ui_potmonListWork_studyBattleSkill": {
   "ch": "领悟战斗技能",
   "en": "Battle Skill Learned",
-  "pt": "Habilidade de Batalha Aprendida",
-  "auto": "gemini-2.5-flash"
+  "pt": "Aprendeu Habil. de Batalha",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonListWork_studyFileSkill": {
   "ch": "领悟历练技能",
@@ -1366,8 +1402,9 @@
  "ui_potmonListWork_title": {
   "ch": "历练日志",
   "en": "Adventure Log",
-  "pt": "Registro de Aventura",
-  "auto": "gemini-2.5-flash"
+  "pt": "Registro",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonListWork_workDesc": {
   "ch": "历练历程",
@@ -1384,8 +1421,9 @@
  "ui_potmonList_BattleSkills": {
   "ch": "战斗技能",
   "en": "Battle Skills",
-  "pt": "Habilidades de Batalha",
-  "auto": "gemini-2.5-flash"
+  "pt": "Habil. de Batalha",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_BattleSkillsTips": {
   "ch": "壶妖的战斗技能，设为护卫的壶妖在战斗中将使用持有的战斗技能。壶妖可能会在出战时领悟更多的战斗技能；同时在壶妖参与历练时，也有可能领悟新的战斗技能。",
@@ -1396,8 +1434,9 @@
  "ui_potmonList_BattleState": {
   "ch": "护卫",
   "en": "Assign as Guard",
-  "pt": "Designar como Guardião",
-  "auto": "gemini-2.5-flash"
+  "pt": "Definir como Guarda",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_CanFurry": {
   "ch": "可化形",
@@ -1420,14 +1459,16 @@
  "ui_potmonList_Feed": {
   "ch": "喂养",
   "en": "Feed",
-  "pt": "Alimentar",
-  "auto": "gemini-2.5-flash"
+  "pt": "Nutrir",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_FurryNoStayState": {
   "ch": "未契约",
   "en": "Not Bound",
-  "pt": "Não Vinculado",
-  "auto": "gemini-2.5-flash"
+  "pt": "Desvinculado",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_FurryStayState": {
   "ch": "契约中",
@@ -1468,14 +1509,16 @@
  "ui_potmonList_LifeSkills": {
   "ch": "探索技能",
   "en": "Adventure Skills",
-  "pt": "Habilidades de Aventura",
-  "auto": "gemini-2.5-flash"
+  "pt": "Habil. de Aventura",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_LifeSkillsTips": {
   "ch": "壶妖的探索技能，会在壶妖参与历练发挥功效。在壶妖参与历练活动时，有可能领悟更多探索技能；同时壶妖在参与战斗时，也可能会领悟新的探索技能。",
   "en": "About Adventure Skills: These skills may be effective during an Imp's adventure. Imps may learn more adventure skills from their adventure. New adventure skills can also be learned from participating in battles.",
-  "pt": "Sobre Habilidades de Aventura: Estas habilidades podem ser eficazes durante a Aventura de um Imp. Imps podem aprender mais habilidades de aventura em suas Aventuras. Novas habilidades de aventura também podem ser aprendidas participando de Batalhas.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Sobre Habilidades de Aventura: Estas habilidades podem ser eficazes durante a Aventura de um Diabrete. Diabretes podem aprender mais habilidades de aventura em suas Aventuras. Novas habilidades de aventura também podem ser aprendidas participando de Batalhas.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_NeedDyingTips": {
   "ch": "缺少道具{itemName2823003}",
@@ -1492,20 +1535,25 @@
  "ui_potmonList_PotmonAttr": {
   "ch": "壶妖属性",
   "en": "Imp Stats",
-  "pt": "Atributos do Imp",
-  "auto": "gemini-2.5-flash"
+  "pt": "Status",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_Stay": {
   "ch": "契约",
   "en": "Bind",
   "pt": "Vincular",
-  "auto": "gemini-2.5-flash"
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "ui_potmonList_TipsGrade": {
   "ch": "壶妖获得足够的修为后可以突破境界。突破需要消耗专属道具<r>壶妖境界丹</r>，该道具可以通过壶妖历练获得；而壶妖修为可以通过历练提升，或使用历练中获得的道具<r>壶妖修为丹</r>提升修为",
   "en": "After obtained enough EXP, the Gourd Imp can make Breakthrough to the next Realm. The Breakthrough requires a special item: <r>Imp Realm Elixir</r> (obtainable from Imp's adventure). Imps could obtain EXP from adventure, or by using the <r>Imp EXP Elixir</r> (obtainable from Imp's adventure).",
-  "pt": "Após obter EXP suficiente, o Imp Cabaça pode fazer um Avanço para o próximo Reino. O Avanço requer um Item especial: <r>Elixir de Reino do Imp</r> (obtível na Aventura do Imp). Imps podem obter EXP da Aventura, ou usando o <r>Elixir de EXP do Imp</r> (obtível na Aventura do Imp).",
-  "auto": "gemini-2.5-flash"
+  "pt": "Após obter EXP suficiente, o Diabrete Cabaça pode fazer um Avanço para o próximo Reino. O Avanço requer um Item especial: <r>Elixir de Reino do Diabrete</r> (obtível na Aventura do Diabrete). Diabretes podem obter EXP da Aventura, ou usando o <r>Elixir de EXP do Diabrete</r> (obtível na Aventura do Diabrete).",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_Tran": {
   "ch": "化形",
@@ -1522,14 +1570,16 @@
  "ui_potmonList_UseHurtTips": {
   "ch": "确定使用{itemName2823003}治疗壶妖吗？",
   "en": "Use {itemName2823003} to cure the Imp?",
-  "pt": "Usar {itemName2823003} para curar o Imp?",
-  "auto": "gemini-2.5-flash"
+  "pt": "Usar {itemName2823003} para curar o Diabrete?",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_bagMaxTips": {
   "ch": "壶妖背包已满",
   "en": "Imp's inventory is full",
-  "pt": "Inventário do Imp cheio",
-  "auto": "gemini-2.5-flash"
+  "pt": "Inventário do Diabrete cheio",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_battleCantWork": {
   "ch": "护卫中无法参与历练",
@@ -1600,8 +1650,9 @@
  "ui_potmonList_count": {
   "ch": "壶妖数量：{0}/{1}",
   "en": "Imps: {0}/{1}",
-  "pt": "Diabinhos: {0}/{1}",
-  "auto": "gemini-2.5-flash"
+  "pt": "Diabretes {0}/{1}",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_dying": {
   "ch": "濒死",
@@ -1618,8 +1669,9 @@
  "ui_potmonList_giveupTips": {
   "ch": "是否确定要放生壶妖？\n壶妖放生后无法召回。",
   "en": "Set the Imp free?\nIt will never return after that.",
-  "pt": "Libertar o Diabinho?\nEle nunca mais retornará depois disso.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Libertar o Diabrete?\nEle nunca mais retornará depois disso.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_healthCantWork": {
   "ch": "化形后无法进行历练",
@@ -1648,14 +1700,16 @@
  "ui_potmonList_lockUnit": {
   "ch": "{0}解锁",
   "en": "Unlock at {0}",
-  "pt": "Desbloqueia em {0}",
-  "auto": "gemini-2.5-flash"
+  "pt": "Libera em {0}",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_needGradeProp": {
   "ch": "缺少{itemName2823002}，该道具可于壶妖历练中获得",
   "en": "Not enough {itemName2823002}. Obtainable from the Imp's adventure.",
-  "pt": "Não há {itemName2823002} suficiente. Obtível na aventura do Imp.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Não há {itemName2823002} suficiente. Obtível na aventura do Diabrete.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_opTips": {
   "ch": "使用|shubiaozuoji|点击或拖动调整编队",
@@ -1690,26 +1744,30 @@
  "ui_potmonList_tipsDesc": {
   "ch": "成功炼化后的壶妖将显示在列表之中，可携带数量的上限会随着角色境界提升而增长。",
   "en": "After refining, the obtained Imps will be displayed in the list. The maximum amount of Imps will increase with the character's Realm.",
-  "pt": "Após refinar, os Imps obtidos serão exibidos na lista. A quantidade máxima de Imps aumentará com o Reino do personagem.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Após refinar, os Diabretes obtidos serão exibidos na lista. A quantidade máxima de Diabretes aumentará com o Reino do personagem.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_title": {
   "ch": "壶妖列表",
   "en": "Imp List",
-  "pt": "Lista de Imps",
-  "auto": "gemini-2.5-flash"
+  "pt": "Diabretes",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_title1": {
   "ch": "壶妖信息",
   "en": "Imp Info",
-  "pt": "Informações do Imp",
-  "auto": "gemini-2.5-flash"
+  "pt": "Informações",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_title2": {
   "ch": "历练编队",
   "en": "Teaming",
-  "pt": "Formação de Equipe",
-  "auto": "gemini-2.5-flash"
+  "pt": "Equipe",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_potmonList_titleDirection": {
   "ch": "历练中：",
@@ -1847,13 +1905,17 @@
   "ch": "资质道具",
   "en": "Stat Items",
   "pt": "Itens de Atributo",
-  "auto": "gemini-2.5-flash"
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "ui_propinfo_schoolauraChange1": {
   "ch": "当前没有宗门",
   "en": "No Sect joined now",
-  "pt": "Nenhuma Seita unida agora",
-  "auto": "gemini-2.5-flash"
+  "pt": "Sem Seita no momento",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_propinfo_schoolauraChange2": {
   "ch": "所在宗门无法获得逆天改命",
@@ -1876,8 +1938,9 @@
  "ui_rebornSkillInfo_attackState": {
   "ch": "当前：自动攻击",
   "en": "Now: Auto Attack",
-  "pt": "Agora: Ataque Automático",
-  "auto": "gemini-2.5-flash"
+  "pt": "Agora: Ataque Auto",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_rebornSkillInfo_attackState1": {
   "ch": "当前：手动攻击",
@@ -1924,8 +1987,9 @@
  "ui_schoolStore_zhijiegoumai": {
   "ch": "直接购买",
   "en": "Buy Now",
-  "pt": "Comprar Agora",
-  "auto": "gemini-2.5-flash"
+  "pt": "Comprar",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_school_chengyuan": {
   "ch": "仙盟成员",
@@ -2003,8 +2067,9 @@
  "ui_shengjijineng": {
   "ch": "升级技能",
   "en": "Upgrade Skill",
-  "pt": "Aprimorar Habilidade",
-  "auto": "gemini-2.5-flash"
+  "pt": "Aprimorar Habil.",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_shengjijinengcitiao": {
   "ch": "升级技能词条",
@@ -2087,8 +2152,9 @@
  "ui_skill_unknowGrade": {
   "ch": "未知",
   "en": "Unknown",
-  "pt": "Desconhecido",
-  "auto": "gemini-2.5-flash"
+  "pt": "Indefinido",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_skill_unknowName": {
   "ch": "？？？",
@@ -2099,8 +2165,9 @@
  "ui_skill_yaoshoutujian": {
   "ch": "妖兽技能",
   "en": "Beast Skill",
-  "pt": "Habilidade de Fera",
-  "auto": "gemini-2.5-flash"
+  "pt": "Habil. de Fera",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_skill_zhuangpeizhong": {
   "ch": "装配中",
@@ -2165,8 +2232,9 @@
  "ui_townAuctionPropSelect_tianchong": {
   "ch": "填入",
   "en": "Fill",
-  "pt": "Preencher",
-  "auto": "gemini-2.5-flash"
+  "pt": "Encher",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_townFight_daoxingetishi1": {
   "ch": "<g>由于道心阁发展壮大，升仙大会中奖励的道心果有所增加</g>",
@@ -2375,8 +2443,9 @@
  "ui_zmdbjfs_battleTextBtnWatch": {
   "ch": "勾选观看",
   "en": "Check to watch",
-  "pt": "Marcar para assistir",
-  "auto": "gemini-2.5-flash"
+  "pt": "Assistir luta",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_zmdbjfs_battleTextRule": {
   "ch": "获胜条件：{0}局{1}胜",
@@ -2387,8 +2456,9 @@
  "ui_zmdbjfs_battleTextScore": {
   "ch": "胜场：{0}",
   "en": "Wins: {0}",
-  "pt": "Vitórias: {0}",
-  "auto": "gemini-2.5-flash"
+  "pt": "Vitórias {0}",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_zmdbjfs_contentIntro": {
   "ch": "宗门积分赛为分别与其它宗门逐一对战的循环赛，胜利<#791515>积3分</color>，平局双方<#791515>各积1分</color>，失败<#791515>不积分</color>。\n积分赛结束时，积分<#791515>前三名</color>可以获得擂台赛<#791515>出战资格</color>，最终角逐宗门大比的前三席位。",
@@ -2477,8 +2547,9 @@
  "ui_zmdbjfs_scoreTextTitle": {
   "ch": "落选",
   "en": "Not Chosen",
-  "pt": "Não Selecionado",
-  "auto": "gemini-2.5-flash"
+  "pt": "Não Escolhido",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_zmdbjfs_scoreTextTitlePromoted": {
   "ch": "晋级",
@@ -2495,8 +2566,9 @@
  "ui_zmdbjfs_textOptRest": {
   "ch": "休整",
   "en": "Rest",
-  "pt": "Descansar",
-  "auto": "gemini-2.5-flash"
+  "pt": "Repouso",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "ui_zmdbjfs_textOptStartBattle": {
   "ch": "开始",
