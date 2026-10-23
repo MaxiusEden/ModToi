@@ -275,6 +275,22 @@ Segunda leva (2026-10-23), com as categorias de interface vistas nos prints (`se
 - **Custo:** o cabeçalho `x-omniroute-response-cost` do `gemini-2.5-flash` veio diferente de zero (0,005–0,011 por lote), enquanto o do `gemini-3-flash-preview` veio 0. Falta confirmar no OmniRoute se isso é cobrança real.
 - **Revisão:** 48 correções (largura, os 2 `ok=false`, "Skill Stat" → Aptidão Marcial e dois nomes que tinham ficado em chinês). As 32 sílabas `school_name_*` voltaram ao original (ver `glossario/decisoes.md`).
 
+### 10.3 Segundo teste no jogo (2026-10-23) e volume restante
+
+- **Ainda não traduzidos:** as chaves exibidas nas telas testadas estão em categorias que ainda não entraram em nenhuma leva:
+  - configurações: `gameSetting_*`, `shezhi_*`, `game_*`, `diff*`;
+  - reinos: `role_grade_*`, `D_role_grade_fullName`;
+  - datas: `careerTime`, `map_riqi`, `log_riqi`;
+  - botões da barra: `gaiming`, `tiaoguo`, `ditu`, `map_tiaoguobenyue`;
+  - Olho da Providência: `intoGame_text*`, `GodEyeSkills_*`, `battle_unit_name`;
+  - artefatos e itens: `artifactShape_*`, `item_*`, `itemType_*`;
+  - status do personagem: `role_reputation_name`, `role_hobby_name`, `potmonRace`.
+  - A mesma palavra costuma ter várias chaves, uma por tela (Skip Month: `defaultKeysKeyText_212`, `game_benyueshij2`, `tiaoguo`). Traduzir uma não traduz as outras.
+- **Rótulos cortados:** a interface quebra o texto em palavras e só mostra a primeira linha ("Voz do Espírito do", "Técnica de"). Na lista de atalhos cabem ~15 caracteres (`traducao/limites.json` aceita prefixo com `*`).
+- **Fora de qualquer tabela** (texto fixo, dependem do patch em `TMP_Text`/`Text`): "Uncapped" (FPS), "Controller Access", "Battle Graphics", "Missions" (barra), o nível de carisma "Stunning".
+- **De outro mod:** o texto em chinês nas configurações ("大鬼自动修复存档") e "出售价格" na descrição de itens vêm dos mods 【大鬼】.
+- **Volume restante:** 53.846 entradas (~646 mil palavras). São 27.786 narrativas/descrições (~491 mil palavras) e 26.060 de interface, nomes e rótulos (~155 mil palavras; 20.327 delas com `en` ≤ 40 caracteres). Com a cota gratuita do Gemini (~570 entradas/dia somando os dois modelos, em lotes de 15), só a interface levaria ~46 dias.
+
 ### 10.2 Teste do piloto no jogo (2026-10-23, prints em `docs/prints/`)
 
 - As traduções de `common`/`ui` apareceram: tela inicial, Configurações, OK/Cancelar, Idioma, rótulos do personagem (Sobrenome, Nome, Posição, Reino, Reputação…).
