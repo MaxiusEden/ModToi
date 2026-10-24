@@ -1,0 +1,22 @@
+{
+ "_leia": "Mesma lista e ordem da seção 'Modelos de tradução' do CLAUDE.md; mude as duas no mesmo commit.",
+ "modelos": [
+  {"id": "gemini/gemini-3-flash-preview", "cota": "gemini-3-flash-preview", "so_interface_curta": false, "max_tokens": null,
+   "teste": "50/50, 21 s", "notas": "Conciso na interface. Deslize: 'Nether' virou 'Inferior' (o glossário corrige)."},
+  {"id": "cohere/command-a-vision-07-2025", "cota": "cohere-trial", "so_interface_curta": false, "max_tokens": 4096,
+   "teste": "50/50, 44 s", "notas": "Fiel ao inglês e natural nos diálogos. Deslizes: 'poison' virou 'poção'; às vezes longo na interface."},
+  {"id": "gemini/gemini-2.5-flash", "cota": "gemini-2.5-flash", "so_interface_curta": false, "max_tokens": null,
+   "teste": "50/50, 40 s", "notas": "O mais natural nos diálogos. Deslize: às vezes 'Um(a) ... encontrado(a)'."},
+  {"id": "groq/openai/gpt-oss-120b", "cota": "groq-gpt-oss-120b", "so_interface_curta": true, "max_tokens": null,
+   "teste": "50/50, 14 s", "notas": "Só textos curtos de interface. Deslizes: às vezes livre demais; já usou hífen Unicode (a ponte marca ok=false)."},
+  {"id": "cohere/command-r-plus-08-2024", "cota": "cohere-trial", "so_interface_curta": false, "max_tokens": 4096,
+   "teste": "49/50, 76 s", "notas": "Boa qualidade, mais lento."},
+  {"id": "cohere/command-a-reasoning-08-2025", "cota": "cohere-trial", "so_interface_curta": false, "max_tokens": 4096,
+   "teste": "50/50, 43 s", "notas": "Reserva. Deslizes: às vezes copia pontuação chinesa do ch (ex.: '1、') e trocou 'poison' por 'poção'."},
+  {"id": "groq/qwen/qwen3.8-27b", "cota": "groq-qwen3.8-27b", "so_interface_curta": false, "max_tokens": null,
+   "teste": "50/50, 60 s", "notas": "Último recurso. Deslize: um anglicismo ('encontraram cada vez mais difícil')."}
+ ],
+ "proibidos": ["cloudflare-ai/*", "cf/*", "cfp/*", "nvidia/*", "cohere/command-a-03-2025", "openrouter/*",
+               "aug/*", "dva/*", "cxa/*", "zc/*", "ddgw/*", "unc/*", "veo*"],
+ "reset_gemini_utc": "07:00"
+}

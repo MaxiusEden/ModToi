@@ -393,6 +393,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Chart | Diagrama | sugestão | 30 | 图谱 |
 | Mythical Beast Map | Mapa das Feras Míticas | obrigatório | 22 | 五岳真形图 |
 | Poison | Veneno | sugestão | 62 | 毒丹 |
+| poison | veneno | obrigatório (2026-10-23: modelos cohere trocaram por "poção") | — | 毒 |
 | Lamp | Lâmpada | sugestão | 48 | 灯盏 |
 | Letter | Carta | sugestão | 45 | 书信 |
 | Recommendation Letter | Carta de Recomendação | obrigatório | 8 | 推荐信 |
