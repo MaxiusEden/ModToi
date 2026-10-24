@@ -299,6 +299,8 @@ Roda sem o Claude: `uv run --script tools/ptbr/fila.py` (opções: `--simular`, 
 5. `ok=false` = critério da ponte (`placeholders_ok`: marcadores e caracteres fora do ASCII e dos acentos latinos), mais texto idêntico ao inglês (exceto termos curtos, de até 4 caracteres, ou sem minúsculas) e erro no `check` do validador.
 6. As saídas ficam em `traducao/auto/fila/AAAA-MM-DD/<modelo>.json`. No fim roda `merge`, `validate` e `build`, e grava `traducao/auto/fila/relatorio-AAAA-MM-DD.md` (pedidos, entradas e `ok=false` por modelo, progresso por grupo, corpo completo dos 429) e `fila.log`. **Não faz commit.**
 
+**Agendamento:** tarefa `ModToi - fila de traducao` no Agendador de Tarefas do Windows (criada em 2026-10-24). Roda diariamente às 04:30, meia hora depois do reset do Gemini, ou assim que o PC ligar se ele estava desligado (`StartWhenAvailable`). O limite é de 5 h, e a tarefa só roda com o usuário logado. Comando: `uv.exe run --quiet --script tools\ptbr\fila.py`, na pasta do repositório. O OmniRoute precisa estar no ar nesse horário.
+
 Usa da ponte (`~/tools/omni-bridge/server.py`, ou `OMNI_BRIDGE_SERVER`) a chave, a URL, o `glossary_for` e o `placeholders_ok`. As chamadas HTTP são da própria fila e não tentam de novo no 429; a ponte espera até 3×60 s.
 
 Incidentes do primeiro teste (2026-10-23):
