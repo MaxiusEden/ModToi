@@ -281,6 +281,32 @@ Segunda leva (2026-10-23), com as categorias de interface vistas nos prints (`se
 - **Custo:** o cabeçalho `x-omniroute-response-cost` do `gemini-2.5-flash` veio diferente de zero (0,005–0,011 por lote), enquanto o do `gemini-3-flash-preview` veio 0. Falta confirmar no OmniRoute se isso é cobrança real.
 - **Revisão:** 48 correções (largura, os 2 `ok=false`, "Skill Stat" → Aptidão Marcial e dois nomes que tinham ficado em chinês). As 32 sílabas `school_name_*` voltaram ao original (ver `glossario/decisoes.md`).
 
+### 10.4 Fila diária (`tools/ptbr/fila.py`)
+
+Roda sem o Claude: `uv run --script tools/ptbr/fila.py` (opções: `--simular`, `--limite N`, `--modelos id,id`).
+
+1. Junta (merge) as saídas de rodadas anteriores que não chegaram ao fim.
+2. Monta a fila com as entradas sem `pt`, em ordem de prioridade: configurações, botões, reinos, status, nomes de item, Olho da Providência, artefatos, reputação, resto da interface e narrativas por último. As sílabas `school_name_*` ficam de fora.
+3. Lê a ordem dos modelos de `tools/ptbr/modelos.json` e roda **uma linha por grupo de cota**, em paralelo. Os três `cohere/` formam um só grupo e rodam em sequência.
+   - Cada modelo pega lotes do topo da fila: Gemini 40, cohere 20, groq 30. O `max_tokens` é 8000, ou o teto do modelo (4096 nos cohere).
+   - Modelos marcados como "só interface curta" pegam apenas entradas não narrativas com `en` ≤ 40 caracteres.
+4. Um modelo **para no primeiro 429** e passa a vez; num grupo de cota compartilhada, o grupo inteiro para. Também param:
+   - com 3 erros seguidos;
+   - com 3 lotes seguidos sem nenhuma tradução;
+   - ao chegar a 400 pedidos na rodada;
+   - depois de 4 h de rodada.
+   - Chaves que um modelo devolveu vazias ficam só para os outros modelos.
+5. `ok=false` = critério da ponte (`placeholders_ok`: marcadores e caracteres fora do ASCII e dos acentos latinos), mais texto idêntico ao inglês (exceto termos curtos, de até 4 caracteres, ou sem minúsculas) e erro no `check` do validador.
+6. As saídas ficam em `traducao/auto/fila/AAAA-MM-DD/<modelo>.json`. No fim roda `merge`, `validate` e `build`, e grava `traducao/auto/fila/relatorio-AAAA-MM-DD.md` (pedidos, entradas e `ok=false` por modelo, progresso por grupo, corpo completo dos 429) e `fila.log`. **Não faz commit.**
+
+Usa da ponte (`~/tools/omni-bridge/server.py`, ou `OMNI_BRIDGE_SERVER`) a chave, a URL, o `glossary_for` e o `placeholders_ok`. As chamadas HTTP são da própria fila e não tentam de novo no 429; a ponte espera até 3×60 s.
+
+Incidentes do primeiro teste (2026-10-23):
+
+- O `cohere/command-a-vision-07-2025` às vezes responde `{"chave": {"pt-br": "...", "ch": "..."}}`. O `parse_json_object` da ponte só lê `pt` e devolve vazio. A fila entrou em laço com as mesmas 10 chaves (~100 pedidos da cota de trial) até ser interrompida; daí o leitor próprio (`ler_resposta`) e as travas acima. O `omni_translate` da ponte tem a mesma fraqueza.
+- `groq/*` respondeu **HTTP 401**: a credencial do groq no OmniRoute precisa ser renovada.
+- Depois das correções: 30 entradas em 2 pedidos com o cohere. 50 traduções revisadas, 5 corrigidas (concordância, um "Breakthrough" deixado em inglês, "Biblioteca" → "Acervo de Manuais").
+
 ### 10.3 Segundo teste no jogo (2026-10-23) e volume restante
 
 - **Ainda não traduzidos:** as chaves exibidas nas telas testadas estão em categorias que ainda não entraram em nenhuma leva:
