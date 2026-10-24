@@ -7827,172 +7827,211 @@
  "diff5Info1": {
   "ch": "洪荒世界中双鱼佩只有1点充能，当充能点数用完之后，死亡即会删档！\n洪荒世界中<r>死亡后昊天眼破损，且不能修复！</r>\n并且妖兽异常凶猛！\n修仙者的实力也不容小觑！\n各大城镇与宗门中出售的秘籍也更高级！",
   "en": "You only have 1 Bagua Jade Point in Chaos mode. If you die after already using it, your save will be permanently deleted!\nIn Chaos mode, <r>the Eye of Providence is broken after you die and cannot be repaired!</r>\nThe monsters in this mode are also extremely ferocious!\nSo are the NPCs in the game!\nBut you'll find better Manuals in various towns and sects.",
-  "pt": ""
+  "pt": "Você só tem 1 ponto de Jade Bagua no modo Caos. Se você morrer depois de já tê-lo usado, seu save será permanentemente deletado!\nNo modo Caos, <r>o Olho da Providência é quebrado depois que você morre e não pode ser reparado!</r>\nOs monstros neste modo também são extremamente ferozes!\nAssim como os NPCs no jogo!\nMas você encontrará melhores Manuais em várias vilas e seitas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diff5Title1": {
   "ch": "洪荒世界",
   "en": "Chaos",
-  "pt": ""
+  "pt": "Caos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diff5Title2": {
   "ch": "其他说明",
   "en": "Other",
-  "pt": ""
+  "pt": "Outros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffDescribe1": {
   "ch": "怪物体力伤害一般",
   "en": "Normal enemy Vitality and Damage.",
-  "pt": ""
+  "pt": "Vitalidade e Dano inimigos normais.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffDescribe2": {
   "ch": "怪物体力伤害有所提升\n<r>开始出现特殊的精英怪！</r>",
   "en": "Increased enemy Vitality and Damage.\n<r>Elite enemies will spawn.</r>",
-  "pt": ""
+  "pt": "Aumentou a Vitalidade e o Dano inimigos.\n<r>Inimigos elites começarão a aparecer.</r>",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffDescribe3": {
   "ch": "怪物体力伤害进一步提升\n更多强力的精英怪",
   "en": "Further increased enemy Vitality and Damage.\nMore elite enemies will spawn.",
-  "pt": ""
+  "pt": "Aumentou ainda mais a Vitalidade e o Dano inimigos.\nMais inimigos elites aparecerão.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffDescribe4": {
   "ch": "怪物体力伤害较高\n精英怪的种类更加丰富了！\n<r>更多的强力大妖兽将登场</r>",
   "en": "Considerably increased enemy Vitality and Damage.\nMore types of elite enemies.\n<r>More types of Mythical Beasts.</r>",
-  "pt": ""
+  "pt": "Aumentou significativamente a Vitalidade e o Dano inimigos.\nMais tipos de inimigos elites.\n<r>Mais tipos de Feras Míticas.</r>",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffDescribe5": {
   "ch": "怪物凶猛异常，体力伤害极高\n<r>部分关卡会同时出现两只精英怪</r>\n<r>大妖兽将组队来袭！</r>",
   "en": "Drastically increased enemy Vitality and Damage.\n<r>May spawn 2 elite enemies in some levels.</r>\n<r>May spawn multiple Mythical Beasts.</r>",
-  "pt": ""
+  "pt": "Aumentou drasticamente a Vitalidade e o Dano inimigos.\n<r>Pode aparecer 2 inimigos elites em alguns níveis.</r>\n<r>Pode aparecer múltiplas Feras Míticas.</r>",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffEnterTips5": {
   "ch": "此模式<r>极具挑战</r>，不推荐新手玩家尝试。\n<r>无法SL！</r>\n（SL不会改变逆天改命、拍卖会、藏经阁/琅琊阁的结果）\n<r>大妖兽非常狂暴！</r>\n（施放技能的时间间隔更短）\n<r>NPC更加强大！</r>\n（使用的技能品质更高，作为补偿，此模式下的琅琊阁与藏经阁也会更容易出现高级的秘籍）\n<color=#00ffff>部分副本内的怪物可掉落双倍物品。</color>\n<color=#00ffff>（特殊大大妖兽秘籍会双倍产出！且突破境界时最多可出现9个逆天改命选项）</color>",
   "en": "This difficulty level is <r>extremely challenging</r>. We don't recommend it for new players.\n<r>Save and Load methods do NOT work, either!</r>\n(Even if you load a save, any results you've received in the following features won't be changed: Rewrite Destiny, Auction, Manual Library, and Manual Pavilion. To balance this setting, you'll have 6 choices to choose from when you Rewrite Destiny.)\n<r>Mythical Monsters (bosses) are extremely ferocious!</r>\n(Very short cast time)\n<r>Powerful NPCs!</r>\n(They'll use higher-rarity skills. To balance this setting, you'll have a higher chance of finding high-rarity Manuals in the Manual Library and the Manual Pavilion.)\n<color=#00ffff>Monsters in some dungeons drop double items.</color>\n<color=#00ffff>(Special Major Bosses drop double Manuals! At most 9 Rewrite Destiny options may appear during a Realm Breakthrough.)</color>",
-  "pt": ""
+  "pt": "Este nível de dificuldade é <r>extremamente desafiador</r>. Não recomendamos para novos jogadores.\n<r>Salvar e carregar NÃO funciona!</r>\n(Mesmo se você carregar um save, quaisquer resultados que você tenha recebido nas seguintes funcionalidades não serão alterados: Reescrever o Destino, Leilão, Acervo de Manuais e Pavilhão dos Manuais. Para equilibrar esta configuração, você terá 6 opções ao Reescrever o Destino.)\n<r>Monstros Míticos (chefes) são extremamente ferozes!</r>\n(Tempo de lançamento de habilidades muito curto)\n<r>NPCs poderosos!</r>\n(Eles usarão habilidades de maior raridade. Para equilibrar esta configuração, você terá uma chance maior de encontrar Manuais de alta raridade na Acervo de Manuais e no Pavilhão dos Manuais.)\n<color=#00ffff>Monstros em algumas masmorras dropam o dobro de itens.</color>\n<color=#00ffff>(Chefes Especiais dropam o dobro de Manuais! No máximo 9 opções de Reescrever o Destino podem aparecer durante um Avanço de Reino.)</color>",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisado": true
  },
  "diffFeature1": {
   "ch": "标准",
   "en": " Standard",
-  "pt": ""
+  "pt": "Padrão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFeature2": {
   "ch": "标准",
   "en": " Standard",
-  "pt": ""
+  "pt": "Padrão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFeature3": {
   "ch": "标准",
   "en": " Standard",
-  "pt": ""
+  "pt": "Padrão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFeature4": {
   "ch": "标准",
   "en": " Standard",
-  "pt": ""
+  "pt": "Padrão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFeature5": {
   "ch": "标准",
   "en": " Standard",
-  "pt": ""
+  "pt": "Padrão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFeatureTips": {
   "ch": "影响创建角色时可用的先天气运池。",
   "en": "Available Destinies (Nature) when you create your character.",
-  "pt": ""
+  "pt": "Destinos (Natureza) disponíveis quando você cria seu personagem.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFeatureTitle": {
   "ch": "先天气运",
   "en": "Destiny (Nature)",
-  "pt": ""
+  "pt": "Destino (Natureza)",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFishTips": {
   "ch": "影响双鱼佩在开始游戏时的可用复活点数。",
   "en": "Available Bagua Jade Points when you start a new game.",
-  "pt": ""
+  "pt": "Pontos de Jade Bagua disponíveis quando você começa um novo jogo.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffFishTitle": {
   "ch": "双鱼佩点数",
   "en": "Bagua Jade Points",
-  "pt": ""
+  "pt": "Pontos de Jade Bagua",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffGasTips": {
   "ch": "影响大地图中每个格子内的灵气属性。",
   "en": "Qi quantity in each space on the world map.",
-  "pt": ""
+  "pt": "Quantidade de Qi em cada espaço no mapa mundial.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffGasTitle": {
   "ch": "灵气",
   "en": "Qi",
-  "pt": ""
+  "pt": "Qi",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffHerb1": {
   "ch": "丰富",
   "en": " High",
-  "pt": ""
+  "pt": "Alto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffHerb2": {
   "ch": "一般",
   "en": " Medium",
-  "pt": ""
+  "pt": "Médio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffHerb3": {
   "ch": "稀少",
   "en": " Low",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffHerb4": {
   "ch": "贫乏",
   "en": " Very Low",
-  "pt": ""
+  "pt": "Muito Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffHerb5": {
   "ch": "贫乏",
   "en": " Very Low",
-  "pt": ""
+  "pt": "Muito Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffHerbTips": {
   "ch": "影响大地图中每个格子内的药材属性。",
   "en": "Herb quantity in each space on the world map.",
-  "pt": ""
+  "pt": "Quantidade de Ervas em cada espaço no mapa mundial.",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisado": true
  },
  "diffHerbTitle": {
   "ch": "药材",
   "en": "Herb",
-  "pt": ""
+  "pt": "Erva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMine1": {
   "ch": "丰富",
   "en": " High",
-  "pt": ""
+  "pt": "Alto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMine2": {
   "ch": "一般",
   "en": " Medium",
-  "pt": ""
+  "pt": "Médio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMine3": {
   "ch": "稀少",
   "en": " Low",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMine4": {
   "ch": "贫乏",
   "en": " Very Low",
-  "pt": ""
+  "pt": "Muito Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMine5": {
   "ch": "贫乏",
   "en": " Very Low",
-  "pt": ""
+  "pt": "Muito Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMineTips": {
   "ch": "影响大地图中每个格子内的矿材属性。",
   "en": "Ore quantity in each space on the world map.",
-  "pt": ""
+  "pt": "Quantidade de Minério em cada espaço no mapa mundial.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffMineTitle": {
   "ch": "矿材",
   "en": "Ore",
-  "pt": ""
+  "pt": "Minério",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "diffName1": {
   "ch": "普通",
@@ -8027,57 +8066,68 @@
  "diffPrice1": {
   "ch": "适宜",
   "en": " Low",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPrice2": {
   "ch": "偏高",
   "en": " High",
-  "pt": ""
+  "pt": "Alto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPrice3": {
   "ch": "较高",
   "en": " Very High",
-  "pt": ""
+  "pt": "Muito Alto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPrice4": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": ""
+  "pt": "Extremamente Alto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPrice5": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": ""
+  "pt": "Extremamente Alto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPriceTips": {
   "ch": "影响八荒世界中所有商店出售道具的价格。",
   "en": "Item prices in all the shops.",
-  "pt": ""
+  "pt": "Preços dos itens em todas as lojas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPriceTitle": {
   "ch": "物价",
   "en": "Price",
-  "pt": ""
+  "pt": "Preço",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPunish1": {
   "ch": "死亡后将需要<r>{0}分钟</r>的时间重塑肉身！",
   "en": "Body Reconstruction takes <r>{0} min</r> after your character dies.",
-  "pt": ""
+  "pt": "A Reconstrução do Corpo leva <r>{0} min</r> após seu personagem morrer.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPunish2": {
   "ch": "死亡后将需要<r>{0}分钟</r>的时间重塑肉身！",
   "en": "Body Reconstruction takes <r>{0} min</r> after your character dies.",
-  "pt": ""
+  "pt": "A Reconstrução do Corpo leva <r>{0} min</r> após seu personagem morrer.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPunish3": {
   "ch": "{0}境之前死亡将<r>永久删档！</r>\n{1}境之后死亡将需要<r>{2}分钟</r>的时间重塑肉身！",
   "en": "Your save will be <r>permanently deleted</r> if you die before reaching {0}!\nIf you die after reaching {1}, Body Reconstruction will take <r>{2} min</r>.\n",
-  "pt": ""
+  "pt": "Seu save será <r>permanentemente deletado</r> se você morrer antes de alcançar {0}!\nSe você morrer após alcançar {1}, a Reconstrução do Corpo levará <r>{2} min</r>.\n",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPunish4": {
   "ch": "死亡将<r>永久删档</r>！",
   "en": "Your save will be <r>permanently deleted</r> if you die!",
-  "pt": ""
+  "pt": "Seu save será <r>permanentemente deletado</r> se você morrer!",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "diffPunish5": {
   "ch": "死亡将<r>永久删档</r>！\n此模式极具挑战，不推荐新手尝试。",
