@@ -15,6 +15,7 @@ namespace MOD_6b2SYs
         private TimerCoroutine corUpdate;
 		private static HarmonyLib.Harmony harmony;
         private bool ptBrApplied;
+        private bool screenTextOn;
 
         /// <summary>
         /// MOD初始化，进入游戏时会调用此函数
@@ -51,6 +52,18 @@ namespace MOD_6b2SYs
                 ptBrApplied = true;
                 MelonLoader.MelonLogger.Error("[PtBr] " + e);
             }
+            if (ptBrApplied)
+            {
+                try
+                {
+                    ScreenTextPtBr.Prepare();
+                    screenTextOn = true;
+                }
+                catch (Exception e)
+                {
+                    MelonLoader.MelonLogger.Error("[PtBr] Tela: " + e);
+                }
+            }
         }
 
         /// <summary>
@@ -69,6 +82,19 @@ namespace MOD_6b2SYs
             if (!ptBrApplied)
             {
                 TryApplyPtBr();
+            }
+            if (screenTextOn)
+            {
+                try
+                {
+                    ScreenTextPtBr.Tick();
+                }
+                catch (Exception e)
+                {
+                    // Desliga a varredura para não repetir o erro a cada 3 s; os patches de set_text continuam.
+                    screenTextOn = false;
+                    MelonLoader.MelonLogger.Error("[PtBr] Tela: " + e);
+                }
             }
         }
     }

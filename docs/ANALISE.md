@@ -239,6 +239,16 @@ Resultado do teste (2026-10-22):
 - Risco de ordem de carga: mods de tradução como "Enhanced english translation" também mexem em `LocalText`. Se um deles carregar depois do nosso, pode sobrescrever o `en`. Isso ainda não foi verificado.
 - O `Latest.log` do MelonLoader 0.5.4 não é gravado em UTF-8 (acentos e chinês viram `?`/`�`). As mensagens do mod no log devem ser só ASCII.
 
+### 9.4 Texto na tela fora do LocalText (`ModCode/ModMain/PtBr/ScreenTextPtBr.cs`)
+
+- **Troca:** `ModAssets/ptbr/Tela.json` (texto exato, sem espaços nas pontas → PT-BR), editado à mão. Começou com "Uncapped", "Controller Access", "Battle Graphics", "Missions" e "Stunning".
+- **Dois caminhos:**
+  - patch Harmony (Postfix) no setter de `TMPro.TMP_Text.text` e de `UnityEngine.UI.Text.text`. É Postfix, e não `ref string` no Prefix, para não depender de como o detour nativo do MelonLoader devolve strings; a troca reatribui `text` com proteção contra reentrada.
+  - varredura a cada 3 s dos `TMP_Text`/`Text` ativos (`FindObjectsOfType(Il2CppType.Of<T>())`), porque rótulos fixos de prefab vêm prontos do prefab e não passam pelo setter. Só reprocessa objetos cujo texto mudou.
+- **Registro:** `<raiz do mod>/ptbr_tela_desconhecidas.txt` (`texto<TAB>TMP|Text caminho/do/objeto`), uma vez por texto, até 5.000 linhas. Entra todo texto com ao menos duas letras que não é `en`/`ch` do `LocalText` (já com o PT aplicado) nem casa com um modelo do `LocalText` em que `{…}` e números viram `#`. Por isso "Year 24 Month 12" não é registrado.
+- **Limitação:** textos montados com nomes (`{name}`) e as falas do `RoleLogLocal` ainda aparecem no registro como desconhecidos.
+- **Segurança:** se a varredura der exceção, ela se desliga e registra o erro no `Latest.log`; os patches de setter continuam. O resumo `[PtBr] Tela: …` vai para o `Latest.log` só em ASCII.
+
 ## 10. Pipeline de tradução (`tools/ptbr/ptbr.py`)
 
 Só usa a biblioteca padrão do Python. A pasta do jogo vem da variável `GAME_DIR` (padrão `C:\Games\Tale of Immortal`).
