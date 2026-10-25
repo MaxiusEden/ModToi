@@ -4,7 +4,8 @@ Entrada: o lote (chave -> {en, ch, nomes?}) e a saída (chave -> tradução). Us
 local_judge (marcadores, caracteres fora do ASCII e dos acentos latinos, texto idêntico ao inglês, barras),
 o check do validate e o glossário obrigatório. Não altera nada.
 
-Uso: python tools/ptbr/nuvem_checar.py traducao/nuvem/src_piloto.json traducao/nuvem/out_piloto.json
+Uso: python tools/ptbr/nuvem_checar.py [--parcial] traducao/nuvem/src_piloto.json traducao/nuvem/out_piloto.json
+--parcial: a saída só tem as entradas corrigidas (revisão); as que faltam não contam como erro.
 Sai com 1 se houver ERRO (a sessão corrige antes do commit); AVISO não bloqueia, mas deve ser lido.
 """
 import collections
@@ -46,14 +47,18 @@ def problemas(key, entry, pt):
 
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
-    if len(sys.argv) != 3:
+    args = [a for a in sys.argv[1:] if a != '--parcial']
+    parcial = '--parcial' in sys.argv[1:]
+    if len(args) != 2:
         print(__doc__)
         return 2
-    src = json.loads(Path(sys.argv[1]).read_text(encoding='utf-8'))
-    out_path = Path(sys.argv[2])
+    src = json.loads(Path(args[0]).read_text(encoding='utf-8'))
+    out_path = Path(args[1])
     out = json.loads(out_path.read_text(encoding='utf-8')) if out_path.exists() else {}
     n_err = n_av = 0
     for key in src:
+        if key not in out and parcial:
+            continue
         if key not in out:
             print(f'ERRO\t{key}\tsem tradução na saída')
             n_err += 1
@@ -69,7 +74,8 @@ def main():
         if key not in src:
             print(f'ERRO\t{key}\tchave que não está no lote')
             n_err += 1
-    print(f'{len(src)} entradas | {len(src) - n_err} sem erro | {n_err} com erro | {n_av} com aviso')
+    n = len(out) if parcial else len(src)
+    print(f'{n} entradas conferidas | {n - n_err} sem erro | {n_err} com erro | {n_av} com aviso')
     return 1 if n_err else 0
 
 
