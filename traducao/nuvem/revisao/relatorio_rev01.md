@@ -1,6 +1,6 @@
 # Relatório rev01 (revisão do Hy-MT2, interface)
 
-- 470 entradas revisadas; 104 corrigidas em `out_rev01.json`. Verificador `--parcial`: 0 erro, 0 aviso.
+- 470 entradas revisadas; 104 corrigidas em `out_rev01.json`. Verificador `--parcial`: 0 erro, 2 avisos (falsos alarmes: nomes de "Qi de Água/Relâmpago" isolados que não aparecem no texto).
 - Erros mais comuns:
   - nomes de lugares/incursões inconsistentes entre si (Raid = Incursão, Takeover = Tomada, Huge = Enorme, ordem do adjetivo de tamanho; "Evergreen" = Sempre-Verde conforme `nomes`);
   - maiúsculas em nomes de técnica, destino e evento (Erupção Escaldante, Postura Tranquila etc.);
