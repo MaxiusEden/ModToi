@@ -48,4 +48,5 @@ Regras:
   - `openrouter/*` (exceto se o usuário liberar);
   - `aug/`, `dva/`, `cxa/`, `zc/`, `ddgw/`, `unc/`, `veo*`.
 - **O Claude não traduz em volume.** Se toda a lista estiver sem cota, pare e avise o usuário em vez de traduzir.
+  - **Exceção (autorizada pelo usuário em 2026-10-25, vale até 2026-11-05):** uma sessão do Claude Code **na nuvem**, iniciada com o aval do usuário, pode traduzir os lotes de `traducao/nuvem/` (`src_*.json` → `out_*.json`), seguindo `traducao/nuvem/LEIA.md`, `tools/ptbr/prompt_anthropic.md` e o glossário. Só esses arquivos: a sessão não edita `traducao/LocalText`, o glossário nem o código, e roda `tools/ptbr/nuvem_checar.py` em cada lote antes do commit. As saídas entram no `traducao/` só pela fila local, depois de baixadas e validadas. Fora dessa sessão, a regra acima continua valendo.
 - Toda saída passa pelo `validate` antes do merge. As `ok=false` vão para `revisar`: marcador quebrado, caractere fora do ASCII e dos acentos latinos, ou texto idêntico ao inglês.
