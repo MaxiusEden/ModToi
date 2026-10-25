@@ -198,6 +198,22 @@ def number_variant(text, plural):
     return ' '.join(out)
 
 
+_FEMININE = [('ores', 'oras'), ('os', 'as'), ('or', 'ora'), ('o', 'a')]
+
+
+def feminine_variant(text):
+    """Forma feminina palavra a palavra, só para aceitar a concordância: 'Assombrado' -> 'Assombrada'."""
+    out = []
+    for w in text.split():
+        if w.lower() not in CONNECTORS:
+            for masc, fem in _FEMININE:
+                if w.lower().endswith(masc):
+                    w = w[:len(w) - len(masc)] + fem
+                    break
+        out.append(w)
+    return ' '.join(out)
+
+
 def obligatory_terms():
     """[(termo, tradução, regex na fonte, é_ch)], mais longos primeiro; inclui sugestões só para cobertura."""
     global _glossary
@@ -209,6 +225,7 @@ def obligatory_terms():
             rx = re.compile(re.escape(term) if is_ch else
                             r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])')
             forms = {fold(f) for f in (pt, number_variant(pt, plural=True), number_variant(pt, plural=False))}
+            forms |= {feminine_variant(f) for f in forms}
             forms |= {abbreviate(f) for f in forms}
             pt_rx = [re.compile(r'(?<![a-z0-9])' + r'\w*\s+'.join(map(re.escape, f.split()))) for f in forms]
             terms.append((term, pt_rx, rx, is_ch, term in obrig, pt))
