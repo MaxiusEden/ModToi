@@ -687,6 +687,8 @@ FILA_DIR = AUTO_DIR / 'fila'
 # Fora de FILA_DIR: o merge de saídas antigas lê FILA_DIR/*/*.json e não pode pegar os src_lote (pt vazio).
 LOCAL_DIR = AUTO_DIR / 'local'
 API_RESERVE = FILA_DIR / 'reserva_apis.json'
+# Reserva com prazo para a sessão na nuvem (traducao/nuvem/LEIA.md): não depende de processo vivo, vale até `expira_ts`.
+NUVEM_RESERVE = AUTO_DIR / 'reserva_nuvem.json'
 CLAIMS_LOCK = AUTO_DIR / 'reservas.lock'
 LOCAL_PID = LOCAL_DIR / 'local.pid'
 LOCAL_LOG = LOCAL_DIR / 'local.log'
@@ -739,6 +741,9 @@ def claimed_keys():
     reserve = read_json(API_RESERVE)
     if reserve and pid_alive(reserve.get('pid', 0)):
         keys.update(reserve.get('chaves', []))
+    nuvem = read_json(NUVEM_RESERVE)
+    if nuvem and time.time() < nuvem.get('expira_ts', 0):
+        keys.update(nuvem.get('chaves', []))
     return keys
 
 
@@ -765,6 +770,19 @@ def reserve_for_apis(n):
         taken = claimed_keys() | mine
         keys = [k for k in pendentes(work) if k not in taken][:n]
         write_json_atomic(API_RESERVE, {'pid': os.getpid(), 'chaves': sorted(mine | set(keys))})
+        return keys
+
+
+def reserve_for_nuvem(expira_ts, motivo):
+    """Reserva para a sessão na nuvem todas as pendentes livres agora (substitui a reserva anterior da nuvem)."""
+    with claims_lock():
+        work = load_work()
+        old = read_json(NUVEM_RESERVE)
+        if old:  # a reserva anterior sai da conta: as chaves dela podem entrar de novo
+            NUVEM_RESERVE.unlink()
+        taken = claimed_keys()
+        keys = [k for k in pendentes(work) if k not in taken]
+        write_json_atomic(NUVEM_RESERVE, {'expira_ts': expira_ts, 'motivo': motivo, 'chaves': keys})
         return keys
 
 
