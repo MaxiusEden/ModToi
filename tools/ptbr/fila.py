@@ -180,7 +180,7 @@ def julgar(entry, pt):
     if not bridge.placeholders_ok(src, pt):
         return False
     en = entry['en'].strip()
-    if pt.strip() == en and len(en) > 4 and any(c.islower() for c in en):
+    if pt.strip() == en and len(en) > 4 and any(c.islower() for c in en) and not ptbr.igual_permitido(en):
         return False
     errors, _ = ptbr.check({**entry, 'pt': pt})
     return not errors

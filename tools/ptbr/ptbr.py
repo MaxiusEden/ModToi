@@ -469,11 +469,35 @@ def placeholders_ok(src: str, dst: str) -> bool:
     return all(ord(ch) < 128 or "\u00c0" <= ch <= "\u00ff" or ch in allowed for ch in dst or "")
 
 
+IGUAIS_FILE = GLOSS_DIR / 'iguais_ao_ingles.json'
+_iguais = (None, frozenset())
+
+
+def iguais_ao_ingles():
+    """glossario/iguais_ao_ingles.json, relido quando muda (o `local --continuo` roda por dias)."""
+    global _iguais
+    try:
+        mtime = IGUAIS_FILE.stat().st_mtime
+    except OSError:
+        return frozenset()
+    if _iguais[0] != mtime:
+        _iguais = (mtime, frozenset(json.loads(IGUAIS_FILE.read_text(encoding='utf-8'))))
+    return _iguais[1]
+
+
+def igual_permitido(src):
+    """Texto que pode sair igual ao inglês: inteiro (sem marcadores) em iguais_ao_ingles.json, ou só marcadores.
+    A ponte (~/tools/omni-bridge/server.py) tem a mesma função e lê o mesmo arquivo."""
+    texto = PLACEHOLDER.sub('', src or '').strip()
+    return not texto or texto in iguais_ao_ingles()
+
+
 def local_judge(en, pt, finish=None):
     """ok da saída do Hy-MT2, com os critérios da ponte; a fila reaplica no merge, então mudar aqui vale para saídas antigas."""
     if finish == 'length' or not placeholders_ok(en, pt):
         return False
-    return not (len(en.strip()) > 4 and any(c.islower() for c in en) and pt.strip() == en.strip())
+    identical = len(en.strip()) > 4 and any(c.islower() for c in en) and pt.strip() == en.strip()
+    return not identical or igual_permitido(en)
 
 
 def local_alive():
