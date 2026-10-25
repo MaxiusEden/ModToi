@@ -25,7 +25,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
    - Discípulos de uma mesma seita: `Irmão/Irmã Marcial Sênior/Júnior`.
    - Ao falar de si mesmo com humildade ("this old man", "this junior"): "este velho", "este júnior".
    - Gênero: usar o do `en`. Se for indefinido e se referir ao jogador, preferir construção neutra ("quem cultiva", "você").
-5. **Termos de cultivo:** `Qi` e `Dao` sem tradução, e `Taoist` → `Daoista`. `Elixir` (丹药) é sempre Elixir; `Pill` só quando o `en` diz Pill.
+5. **Termos de cultivo:** `Qi` e `Dao` sem tradução, e `Taoist` → `Daoísta` (com acento desde 2026-10-25). `Elixir` (丹药) é sempre Elixir; `Pill` só quando o `en` diz Pill.
 6. **Reinos:** traduzidos, com a fase depois do nome (`Golden Core Late` → `Núcleo Dourado Final`). Fases: Early = Inicial, Middle = Médio, Late = Final. As combinações reino + fase estão no glossário uma a uma, para que "late" solto numa frase comum não vire "Final". Os numerais romanos ficam: `Golden Core (IV)` → `Núcleo Dourado (IV)`.
 7. **Técnicas, artefatos, destinos e traços:** sempre traduzidos, com Iniciais Maiúsculas como no `en`. Termos culturais ficam: Bagua, Guqin, Feng Shui, Dantian.
 8. **Elementos:** Earth, Lightning, Water, Fire, Wood e Wind viram Terra, Relâmpago, Água, Fogo, Madeira e Vento, inclusive em compostos (`Lightning Root` → `Raiz de Relâmpago`).
@@ -56,7 +56,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Skill Stat (战斗资质) | Aptidão Marcial | É a aptidão de combate (Blade, Spear…), não um atributo da habilidade. O modelo escrevia "Atributo de Habilidade", que é longo e errado. |
 | `school_name_first*` / `school_name_second*` | não traduzir | O `en` oficial está em chinês (sílabas de nome de seita); com o jogo em inglês valem `schoolNameFirst/Second`. Traduzir o sentido ("Luz", "Céu") quebraria a regra do pinyin. |
 | Branch (分舵) | Filial | `Branch Leader` → Líder de Filial. |
-| Taoist Title (道号) | Título Daoísta | Decidido em 2026-10-24. No jogo é um título que se equipa (`AppellationTitle`), e "Nome Daoista" soava como nome próprio. O "í" existe em todas as fontes do jogo menos na `cutiHanwen`, que não tem nenhum acento. Os outros termos (`Taoist`, `Daoist`) continuam "Daoista". |
+| Taoist Title (道号) | Título Daoísta | Decidido em 2026-10-24. No jogo é um título que se equipa (`AppellationTitle`), e "Nome Daoista" soava como nome próprio. O "í" existe em todas as fontes do jogo menos na `cutiHanwen`, que não tem nenhum acento. Em 2026-10-25 os outros termos (`Taoist`, `Daoist`, `Fellow Daoist`) também passaram a "Daoísta", com acento, e as traduções já feitas foram corrigidas. |
 
 ## Interface apertada (teste do piloto em 2026-10-23)
 
@@ -144,9 +144,9 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Brother | Irmão | sugestão | 39 |  |
 | Sister | Irmã | sugestão | 27 |  |
 | Fellow Cultivator | Colega Cultivador | obrigatório | 11 |  |
-| Fellow Daoist | Colega Daoista | obrigatório | — |  |
-| Daoist | Daoista | obrigatório | 1 |  |
-| Taoist | Daoista | obrigatório | 674 |  |
+| Fellow Daoist | Colega Daoísta | obrigatório | — |  |
+| Daoist | Daoísta | obrigatório | 1 |  |
+| Taoist | Daoísta | obrigatório | 674 |  |
 | Friend | Amigo | sugestão | 203 | 好友 |
 | My Friend | Meu amigo | sugestão | 110 |  |
 | Little Friend | Pequeno amigo | sugestão | 9 |  |
