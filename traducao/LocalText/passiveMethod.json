@@ -2,571 +2,709 @@
  "passiveMethod_desc10001": {
   "ch": "每次攻击获得的仙法运转速度提高&810001_xljd&%。",
   "en": "Circulation Speed for Heavenly Arts gained in every attack increases by &810001_xljd&%.",
-  "pt": ""
+  "pt": "A Velocidade de circulação da Arte Imortal obtida a cada ataque aumenta em &810001_xljd&%.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10002": {
   "ch": "仙法结束时，会爆发一圈仙力，对所有单位造成&810002_jnwl&威力的伤害并附加&810002_xljs&%的减速。",
   "en": "When the casting of the Heavenly Art ends, a circle of Heavenly Power will explode from you, dealing &810002_jnwl& damage to all units, and Slow them by &810002_xljs&%.",
-  "pt": ""
+  "pt": "Quando a invocação da Arte Imortal terminar, um círculo de Poder Celestial irá explodir a partir de você, causando &810002_jnwl& pontos de dano a todas as unidades e reduzindo sua velocidade em &810002_xljs&%.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10003": {
   "ch": "仙法造成伤害时，会使自身正在冷却最高的技能降低&810003_jdlq&秒冷却。",
   "en": "Whenever your Heavenly Art deals damage, you will gain an additional &810003_jdlq&s Cooldown Reduction for the skill that currently has the highest cooldown time remaining.",
-  "pt": ""
+  "pt": "Sempre que sua Arte Imortal causar dano, você ganhará uma redução adicional de &810003_jdlq&s no tempo de recarga da habilidade que atualmente possui o maior tempo de recarga restante.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10004": {
   "ch": "仙力运转时间增加&810004_xljd&%，但仙法造成伤害提高&810005_xfsh&%。",
   "en": "Increase the circulation time of the Heavenly Power by &810004_xljd&%, but at the same time increase the damage of Heavenly Arts by &810005_xfsh&%.",
-  "pt": ""
+  "pt": "Aumenta o tempo de circulação do Poder Celestial em &810004_xljd&%, mas, ao mesmo tempo, aumenta o dano das Artes Imortais em &810005_xfsh&%.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10005": {
   "ch": "可多装备&810006_xkcw&个仙法。",
   "en": "Can equip &810006_xkcw& additional Heavenly Arts.",
-  "pt": ""
+  "pt": "É possível equipar &810006_xkcw& Artes Imortais adicionais.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10006": {
   "ch": "若装备被动仙法不超过2个，仙法造成的伤害提高&810007_shzj&%。",
   "en": "If the passive Heavenly Arts equipped are no more than 2, the damage dealt by Heavenly Arts will increase by &810007_shzj&%.",
-  "pt": ""
+  "pt": "Se as Artes Imortais passivas equipadas forem no máximo 2, o dano causado pelas Artes Imortais aumentará em &810007_shzj&%.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10007": {
   "ch": "若装备的所有仙法达到6个，仙力运转时间降低&810008_yzsj&%。",
   "en": "If the amount of the equipped Heavenly Arts reaches 6, the circulation time of the Heavenly Power will decrease by &810008_yzsj&%.",
-  "pt": ""
+  "pt": "Se a quantidade de Artes Imortais equipadas chegar a 6, o tempo de circulação do Poder Celestial diminuirá em &810008_yzsj&%.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_desc10008": {
   "ch": "每次释放神通时，立即赋予当前仙法&810009_xfyz&%的仙力运转进度。",
   "en": "Every time you cast Ultimate Skill, you will immediately obtain &810009_xfyz&% circulation progress for current Heavenly Art.",
-  "pt": ""
+  "pt": "Toda vez que você usar a Técnica Suprema, obterá imediatamente &810009_xfyz&% de progresso na circulação da Arte Imortal atual.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10009": {
   "ch": "仙法每次造成伤害时，提高自身攻击力&810010_gjts&点，最大提高&810010_djcs&次，持续&810010_cxsj&秒。",
   "en": "Every time you deal damage with Heavenly Art, you will gain additional &810010_gjts& ATK increase, stackable at max &810010_djcs& layers for &810010_cxsj&s.",
-  "pt": ""
+  "pt": "Toda vez que causar dano utilizando a Arte Imortal, você ganhará um aumento adicional de &810010_gjts& no ATQ. Esse efeito é acumulável, podendo atingir até &810010_djcs& camadas, com duração de &810010_cxsj& segundos.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc1001": {
   "ch": "剑斩时会额外使用紫色的惊雷剑意进行攻击，惊雷剑意对敌人造成&710001_jlwl&%斩击威力的伤害并眩晕敌人&710001_xysj&秒。",
   "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Fiery Thunder (purple). The Sword’s Will deals damage equaling to &710001_jlwl&% of slash damage to the enemies, and Stuns them for &710001_xysj&s.",
-  "pt": ""
+  "pt": "Causa dano adicional ao lançar Cortes de Espada, empregando a Vontade da Espada - Trovão Ardente (roxo). A Vontade da Espada inflige dano equivalente a &710001_jlwl&% do dano dos cortes nos inimigos, além de atordoá-los por &710001_xysj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10010": {
   "ch": "仙法释放后的&810011_cxsj&秒时间内提供无限闪避效果。",
   "en": "Gain infinite Dodge effect for &810011_cxsj&s after casting Heavenly Art.",
-  "pt": ""
+  "pt": "Após lançar a Arte Imortal, você obtém o efeito de Esquiva infinita por &810011_cxsj&s.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10011": {
   "ch": "每召唤一个召唤物时，使仙法伤害提高&810012_xfsh&%，持续&810012_jnlq&秒，最大提高&810012_djcs&次。",
   "en": "Every time you summon a unit, the damage of Heavenly Arts will be increased by &810012_xfsh&% for &810012_jnlq&s. Stackable at max &810012_djcs& times.",
-  "pt": ""
+  "pt": "Toda vez que você invoca uma unidade, o dano da Arte Imortal aumentará em &810012_xfsh&% por &810012_jnlq& segundos. Esse efeito pode ser acumulado até um máximo de &810012_djcs& vezes.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10012": {
   "ch": "仙法在沟通期间，获得&810013_shjd&%伤害减免。",
   "en": "Gain &810013_shjd&% Damage Reduction during the communication of the Heavenly Art.",
-  "pt": ""
+  "pt": "Ganhe &810013_shjd&% de redução de Dano durante a utilização da Arte Imortal.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10013": {
   "ch": "当自身剩余仙力点大于5点时，每5秒会获得&810014_xljd&%的仙力运转进度。",
   "en": "When the remaining Immortal Power Pts are no less than 5, you will gain &810014_xljd&% circulation progress for Heavenly Power every 5 seconds.",
-  "pt": ""
+  "pt": "Quando os Pontos de Poder Imortal restantes forem igual ou superior a 5, você ganhará &810014_xljd&% de progresso de circulação do Poder Celestial a cada 5 segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10014": {
   "ch": "当前消耗仙力点为2的倍数时，每次绝技造成伤害会提供&810017_xljd&%的仙力运转进度。",
   "en": "When the current Immortal Power Pts consumed are even numbers (can be divided by 2), every time you deal damage with Special Skills, you will gain &810017_xljd&% circulation progress for Heavenly Power.",
-  "pt": ""
+  "pt": "Quando os Pontos de Poder Imortal consumidos atualmente forem um número par (divisível por 2), toda vez que causar dano usando Técnicas Especiais, você ganhará &810017_xljd&% de progresso na circulação do Poder Celestial.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10015": {
   "ch": "仙力运转过程中，每秒提高当前仙法&810015_xfsh&%的伤害，最大提高&810015_djcs&次，持续&810015_cxsj&秒，冷却&810015_jnlq&秒。",
   "en": "During the circulation of Heavenly Power, the damage dealt by your current Heavenly Art will increase by &810015_xfsh&% every second, stackable at max &810015_djcs& layers, and last for &810015_cxsj&s. Cooldown: &810015_jnlq&s.",
-  "pt": ""
+  "pt": "Durante a circulação do Poder Celestial, o dano infligido pela sua Arte Imortal atual aumentará em &810015_xfsh&% a cada segundo, podendo acumular até um máximo de &810015_djcs& camadas, e durando &810015_cxsj& segundos. Tempo de recarga: &810015_jnlq& segundos.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc10016": {
   "ch": "释放神通时，会消耗当前的所有仙力运转值，每消耗&810016_xfld&%仙力运转值，神通伤害提高&810016_stsh&%，持续&810016_cxsj&秒。",
   "en": "Cast Ultimate Skill will also consume all current circulation of Heavenly Power. Every &810016_xfld&% of circulation consumed will increase the damage of the Ultimate Skill by &810016_stsh&% for &810016_cxsj&s.",
-  "pt": ""
+  "pt": "Ao lançar a Técnica Suprema, toda a circulação atual do Poder Celestial também será consumida. A cada &810016_xfld&% de circulação consumida, o dano causado pela Técnica Suprema aumentará em &810016_stsh&% durante &810016_cxsj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc10017": {
   "ch": "释放仙法后，立即恢复自身&810018_llhf&%灵力。",
   "en": "Instantly recover &810018_llhf&% Energy after casting Heavenly Arts.",
-  "pt": ""
+  "pt": "Recupera instantaneamente &810018_llhf&% de Energia após usar a Arte Imortal.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc1002": {
   "ch": "剑斩时会额外使用青色的青冥剑意进行攻击，青冥剑意对敌人造成&710001_qmwl&%斩击威力的伤害且会斩开敌人的意识，剥夺敌人灵魂使用技能的能力，持续&710001_qmsj&秒。",
   "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Glowing Sky (cyan). The Sword's Will deals damage equaling to &710001_qmwl&% of slash damage to the enemies and cuts their souls apart. Affected enemy souls are unable to cast skills for &710001_qmsj&s.",
-  "pt": ""
+  "pt": "Causa dano adicional ao lançar Cortes de Espada, empregando a Vontade da Espada - Céu Brilhante (ciano). A Vontade da Espada inflige dano equivalente a &710001_qmwl&% do dano causado pelos cortes nos inimigos, além de dilacerar suas almas. As almas dos inimigos afetados não poderão usar habilidades por &710001_qmsj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc1003": {
   "ch": "剑斩时会额外使用黑色的龙渊剑意进行攻击，龙渊剑意对敌人造成&710001_lywl&%斩击威力的伤害且会斩开敌人的五感，剥夺敌人灵魂的移动能力，持续&710001_lyfysj&秒。",
   "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Dragon Pond (black). The Sword’s Will deals damage equaling to &710001_lywl&% of slash damage to the enemies, and cuts the senses of the enemies apart. Affected enemy souls are unable to move for &710001_lyfysj&s.",
-  "pt": ""
+  "pt": "Causa dano adicional ao lançar Cortes de Espada, empregando a Vontade da Espada - Lago do Dragão (preto). A Vontade da Espada inflige dano equivalente a &710001_lywl&% do dano do corte nos inimigos, além de cortar os sentidos deles. As almas dos inimigos afetados ficam incapazes de se mover por &710001_lyfysj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc1004": {
   "ch": "剑斩时会额外使用白色的青霜剑意进行攻击，青霜剑意对敌人造成&710001_qswl&%斩击威力的伤害且使敌人变成冰块，持续&710001_qsldsj&秒，冰块受到伤害时有&710001_pbgl&%概率被击破，击破后对单位造成威力&710001_pbwl&的伤害并使敌人受到的伤害提升&710001_pbys&%，持续&710001_pbsj&秒。",
   "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Thin Frost (white). The Sword’s Will deals damage equaling to &710001_qswl&% of slash damage to the enemies, and Freezes the enemies into ice cubes for &710001_qsldsj&s. Every time when the ice cube is attacked, there will be a probability of &710001_pbgl&% to break it, dealing &710001_pbwl& damage to the unit inside it, and increasing subsequent damage taken by the unit for &710001_pbys&% in &710001_pbsj&s.",
-  "pt": ""
+  "pt": "Ao usar a Vontade da Espada - Gelo Fino (branco), é possível causar dano adicional ao lançar Cortes de Espada. Essa Vontade da Espada inflige dano equivalente a &710001_qswl&% do dano causado pelos cortes nos inimigos, além de aplicar Congelamento neles, transformando-os em cubos de gelo por &710001_qsldsj&s. Sempre que um cubo de gelo for atacado, há uma probabilidade de &710001_pbgl&% de ele se quebrar, causando &710001_pbwl& de dano à unidade dentro dele, e aumentando o dano subsequente que essa unidade sofre em &710001_pbys&% durante &710001_pbsj&s.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc1005": {
   "ch": "剑斩时会额外使用红色的赤霄剑意进行攻击，赤霄剑意对敌人造成&710001_cxwl&%斩击威力的伤害，对受到眩晕，封技，禁足，冻结，冰块的单位造成的伤害提升&710001_cxzs&%。",
   "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Ethereal Clouds (red). The Sword's Will deals damage equaling to &710001_cxwl&% of slash damage to the enemies and increases damage taken by &710001_cxzs&% to units that are Stunned, Skill-blocked, Restricted, Frozen, and confined in Ice Cubes.",
-  "pt": ""
+  "pt": "Causa dano adicional ao lançar Cortes de Espada, empregando a Vontade da Espada - Nuvens Etéreas (vermelha). A Vontade da Espada causa dano equivalente a &710001_cxwl&% do dano dos cortes nos inimigos e aumenta em &710001_cxzs&% o dano recebido por unidades que estejam Atordoadas, com Habilidades bloqueadas, Restringidas, Congeladas ou presas em Cubos de Gelo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc1006": {
   "ch": "剑斩时会额外使用橙色的绝影万仞进行攻击，万仞剑意对敌人造成&710001_wrwl&%斩击威力的伤害，同时在目标头顶召唤一把橙色的剑气，当目标使用技能时，橙色剑气会斩落下来造成威力&710001_jqwl&的伤害，橙色剑气持续&710001_wrjqsj&秒。",
   "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Impossible Cliff (orange). The Sword's Will deals damage equaling to &710001_wrwl&% of slash damage to the enemies, and summons an orange sword aura above the target. When the target casts skills, the aura will slash down, dealing &710001_jqwl& damage. The aura lasts for &710001_wrjqsj&s.",
-  "pt": ""
+  "pt": "Causa dano adicional ao lançar Cortes de Espada, empregando a Vontade da Espada - Penhasco Impossível (laranja). A Vontade da Espada inflige dano equivalente a &710001_wrwl&% do dano dos cortes nos inimigos e invoca uma aura de espada laranja acima do alvo. Quando o alvo utiliza habilidades, a aura desce como um corte, causando &710001_jqwl& de dano. A aura permanece por &710001_wrjqsj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc1007": {
   "ch": "当你没有装备其它剑意时，你施放的斩击剑气数量增加&710001_jqsl%1+1&次。",
   "en": "When no Sword’s Will is equipped, gain &710001_jqsl%1+1& additional sword auras unleashed by the slashes.",
-  "pt": ""
+  "pt": "Quando nenhuma Vontade da Espada está equipada, você ganha &710001_jqsl%1+1& auras de espada adicionais liberadas pelos cortes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc1008": {
   "ch": "施放&710001_yjcs&种随机剑气。",
   "en": "Randomly unleash &710001_yjcs& kinds of sword auras.",
-  "pt": ""
+  "pt": "Libere aleatoriamente &710001_yjcs& tipos de auras de espada.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc1009": {
   "ch": "剑斩可以额外斩出&710001_lhsl%1+1&个灵魂。",
   "en": "Gain &710001_lhsl%1+1& additional souls cut down from the slashes.",
-  "pt": ""
+  "pt": "Ganhe &710001_lhsl%1+1& almas adicionais por cada golpe desferido.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc2002": {
   "ch": "每次使用技能可能将其中1~3个鸡蛋改变为红色鸡蛋。\n此鸡蛋有概率孵化出大量小鸡攻击或孵化时发生蛋壳溅射。",
   "en": "Every time you use a skill, you may transform 1~3 eggs among them into Red eggs.\nRed eggs have a probability of hatching a lot of chicks to attack the enemies, or inflicting the enemies with eggshell shards in hatching.",
-  "pt": ""
+  "pt": "Toda vez que você usa uma habilidade, pode transformar de 1 a 3 ovos em ovos vermelhos.\nOs ovos vermelhos têm a probabilidade de chocar muitos pintinhos para atacar os inimigos, ou de liberar fragmentos de casca de ovo ao chocar.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc2003": {
   "ch": "每次使用技能可能将其中1~3个鸡蛋改变为蓝色鸡蛋。",
   "en": "Every time you use a skill, you may transform 1~3 eggs among them into Blue eggs.",
-  "pt": ""
+  "pt": "Toda vez que você usar uma habilidade, pode transformar de 1 a 3 ovos em ovos azuis.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc2004": {
   "ch": "每次使用技能可能将其中1~3个鸡蛋改变为绿色鸡蛋。",
   "en": "Every time you use a skill, you may transform 1~3 eggs among them into Green eggs.",
-  "pt": ""
+  "pt": "Toda vez que você usar uma habilidade, poderá transformar de 1 a 3 ovos em ovos verdes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc2005": {
   "ch": "召唤小鸡蛋数量+5。",
   "en": "Summoned small eggs +5.",
-  "pt": ""
+  "pt": "Ovos pequenos invocados +5.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc2006": {
   "ch": "大鸡蛋产生概率提高10%。",
   "en": "Generation probability for large eggs +10%.",
-  "pt": ""
+  "pt": "Probabilidade de geração de ovos grandes +10%.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc3001": {
   "ch": "孢子成长为蘑菇时，必定额外出现迷幻菇、变大菇、缩小菇3个之1。\n大力菇：食用后体型变大&710003_dlbdbl&%，造成伤害提升&710003_dlzsbl&%。持续&710003_dlcxsj&秒。\n微型菇：食用后体型&710003_wxsxbl&%，所有技能冷却&710003_wxlqbl&%。持续&710003_wxcxsj&秒。",
   "en": "Every time a spore grows into a mushroom, an additional mushroom will be generated. The types of generated mushrooms are: Hallucinating Mushroom, Size-up Mushroom, and Shrink Mushroom.\nSize-up Mushroom: eat it to grow bigger in size by &710003_dlbdbl&%, and increase damage dealt by &710003_dlzsbl&% for &710003_dlcxsj&s.\nShrink Mushroom: eat it to gain &710003_wxsxbl&% change in size, and decrease the cooldown of all skills by &710003_wxlqbl&% for &710003_wxcxsj&s.",
-  "pt": ""
+  "pt": "Toda vez que um esporo se transforma em um cogumelo, um outro cogumelo é gerado. Os tipos de cogumelos que podem ser gerados são: Cogumelo Alucinógeno, Cogumelo Aumentador de Tamanho e Cogumelo Redutor de Tamanho.\nCogumelo Aumentador de Tamanho: ao consumi-lo, seu tamanho aumenta em &710003_dlbdbl&%, e o dano causado também aumenta em &710003_dlzsbl&% por &710003_dlcxsj& segundos.\nCogumelo Redutor de Tamanho: ao consumi-lo, seu tamanho diminui em &710003_wxsxbl&%, e o tempo de recarga de todas as habilidades é reduzido em &710003_wxlqbl&% por &710003_wxcxsj& segundos.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc3002": {
   "ch": "孢子成长为蘑菇时，必定额外出现寒冰菇、烈焰菇、剧毒菇3个之1。\n寒冰菇：食用后会爆发出1次寒冰波动，对全场造成冰冻，持续&710003_hbdjsj&秒。对大妖兽和修仙者持续时间减半。\n烈焰菇：食用后会爆发出1次爆炸，对范围&710003_lybzfw&内的所有敌方造成威力&710003_lymgwl&的伤害。\n剧毒菇：食用后会爆发出1次范围&710003_jdbzfw&的剧毒波动，使所有波及的敌方单位每&710003_jdshjg&秒受到威力&710003_dsshwl&的伤害，持续&710003_jdcxsj&秒。",
   "en": "Every time a spore grows into a mushroom, an additional mushroom will be generated. The types of generated mushrooms are: Freezing Mushroom, Burning Mushroom, and Toxic Mushroom.\nFreezing Mushroom: eat it to trigger 1 Chilly Wave, Freezing all enemies on the battlefield for &710003_hbdjsj&s. The time of the effect will be halved for Bosses and Cultivators.\nBurning Mushroom: eat it to trigger 1 explosion, dealing &710003_lymgwl& damage to all enemies within &710003_lybzfw& range.\nToxic Mushroom: eat it to trigger 1 Toxic Wave of &710003_jdbzfw& Area of Effect, dealing &710003_dsshwl& damage to all affected enemies every &710003_jdshjg&s. The Poison effect lasts for &710003_jdcxsj&s.",
-  "pt": ""
+  "pt": "Toda vez que um esporo se transforma em um cogumelo, um outro cogumelo também é gerado. Os tipos de cogumelos que podem aparecer são: Cogumelo Congelante, Cogumelo Ardente e Cogumelo Tóxico.\nCogumelo Congelante: ao consumi-lo, é acionada 1 Onda Congelante, que congela todos os inimigos no campo de batalha por &710003_hbdjsj& segundos. O tempo de efeito é reduzido pela metade para Chefes e Cultivadores.\nCogumelo Ardente: ao consumi-lo, ocorre 1 explosão, causando &710003_lymgwl& pontos de dano a todos os inimigos dentro de um raio de &710003_lybzfw&.\nCogumelo Tóxico: ao consumi-lo, é acionada 1 Onda Tóxica com área de efeito de &710003_jdbzfw&, causando &710003_dsshwl& pontos de dano a todos os inimigos afetados a cada &710003_jdshjg& segundos. O efeito de Veneno persiste por &710003_jdcxsj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc3003": {
   "ch": "孢子成长为蘑菇时，必定额外出现超级菇，幻影菇，食人菇3个之1。\n超级菇：食用后，碰撞敌人时能造成威力&710003_cjpzwl&的伤害并提升移动速度&710003_cjtsys&%，期间无敌，持续&710003_cjcxsj&秒。\n幻影菇：食用后，移动速度提升&710003_hytsys&%，持续&710003_hycxsj&秒。",
   "en": "Every time a spore grows into a mushroom, an additional mushroom will be generated. The types of generated mushrooms are: Super Mushroom, Phantom Mushroom, and Devouring Mushroom.\nSuper Mushroom: eat it to deal &710003_cjpzwl& damage to enemies collided with you, and increase your Agility by &710003_cjtsys&%. During it, you will be Invincible for &710003_cjcxsj&s.\nPhantom Mushroom: eat it to increase Agility by &710003_hytsys&% for &710003_hycxsj&s.",
-  "pt": ""
+  "pt": "Toda vez que um esporo se transforma em um cogumelo, um outro cogumelo é gerado. Os tipos de cogumelos que podem ser gerados são: Super Cogumelo, Cogumelo Fantasma e Cogumelo Devorador.\nSuper Cogumelo: ao consumi-lo, você causa &710003_cjpzwl& de dano aos inimigos que colidirem com você e aumenta sua Agilidade em &710003_cjtsys&%. Enquanto isso, você fica Invulnerável por &710003_cjcxsj& segundos.\nCogumelo Fantasma: ao consumi-lo, sua Agilidade aumenta em &710003_hytsys&% durante &710003_hycxsj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc3004": {
   "ch": "孢子数量增加&710003_jcbzslbl%1+1&%",
   "en": "Increase the amount of spores by &710003_jcbzslbl%1+1&%",
-  "pt": ""
+  "pt": "Aumente a quantidade de esporos em &710003_jcbzslbl%1+1&%",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc3006": {
   "ch": "使用菌膜具有疗愈效果，每&710003_jmzljg&恢复友方单位&710003_jmzlbl%1+1&%的体力。",
   "en": "Provide the Fungus Film with healing effects, recovering &710003_jmzlbl%1+1&% Vitality for allied units every &710003_jmzljg&s.",
-  "pt": ""
+  "pt": "A Película de Fungo ganha efeitos de cura, recuperando &710003_jmzlbl%1+1&% de Vitalidade das unidades aliadas a cada &710003_jmzljg&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_desc3007": {
   "ch": "每生成一个药灵场上的友方单位攻击力提升&710003_jmylgj%1+1&。",
   "en": "Every time a Mushroom Man is generated, the allied units on the battlefield will increase their ATK by &710003_jmylgj%1+1&.",
-  "pt": ""
+  "pt": "Toda vez que um Homem Cogumelo é gerado, todas as unidades aliadas no campo de batalha têm seu ATQ aumentado em &710003_jmylgj%1+1&.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc3008": {
   "ch": "使主动仙法效果的持续时间增加&710000_zdxfsjxz%1+1|/1000|f0&秒。（通用）",
   "en": "Increase the duration of the effects from Active Heavenly Arts by &710000_zdxfsjxz%1+1|/1000|f0&s. (General)",
-  "pt": ""
+  "pt": "Aumente a duração dos efeitos das Artes Imortais ativas em &710000_zdxfsjxz%1+1|/1000|f0&s. (Geral)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc3009": {
   "ch": "使仙法主动技能持续时间增加&710000_zdxfsjxz%2+1|/1000|f0&秒，应用于菌膜则持续时间翻倍。",
   "en": "Increase the duration of Active skills from Heavenly Arts by &710000_zdxfsjxz%2+1|/1000|f0&s. The duration will be doubled if cast to Fungus Film.",
-  "pt": ""
+  "pt": "Aumenta a duração das habilidades ativas das Artes Imortais em &710000_zdxfsjxz%2+1|/1000|f0&s. Essa duração será dobrada caso a habilidade seja usada em um Filme de Cogumelo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc3010": {
   "ch": "可食用蘑菇将不再对玩家产生回复体力效果，每食用1次，将&710003_zysstl&%的体力，若食用可食用蘑菇超过&710003_kbmgsl%1+1&个，将因为食用过量蘑菇进入狂暴状态，攻防属性提升&710003_kbsxbl&%，持续&710003_kbcxsj&秒。",
   "en": "Edible mushrooms no longer recover Vitality for the player. The Vitality will &710003_zysstl&% on every time eating them. If the amount of consumed mushrooms exceeds &710003_kbmgsl%1+1&, the player will be Berserk, increasing their ATK and DEF by &710003_kbsxbl&% for &710003_kbcxsj&s.",
-  "pt": ""
+  "pt": "Os cogumelos comestíveis não recuperam mais a Vitalidade do jogador. Ao contrário, a Vitalidade sofre uma redução de &710003_zysstl&% a cada ingestão. Caso a quantidade de cogumelos consumidos ultrapasse &710003_kbmgsl%1+1&, o jogador entrará em estado de Fúria, aumentando seu ATQ e DEF em &710003_kbsxbl&% por &710003_kbcxsj& segundos.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc4002": {
   "ch": "仙道状态下每0.2秒对场上随机单位进行一次追踪的仙力攻击。",
   "en": "When Immortal Path is activated, launch an Immortal Power attack that can automatically chase down a random unit on the battlefield every 0.2s.",
-  "pt": ""
+  "pt": "Ao ativar o Caminho Imortal, lance um ataque de Poder Imortal que perseguirá automaticamente uma unidade aleatória no campo de batalha a cada 0,2 segundos.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc4003": {
   "ch": "仙道状态下，自身所有技能冷却降低15%。",
   "en": "When Immortal Path is activated, decrease the Cooldown for all skills by 15%.",
-  "pt": ""
+  "pt": "Ao ativar o Caminho Imortal, reduza em 15% o tempo de recarga de todas as habilidades.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc4004": {
   "ch": "仙道状态下，每次释放绝技都会召唤5道主动仙法一致的道纹轰击随机的敌人。",
   "en": "When Immortal Path is activated, summon 5 Taoist Symbols that are in line with the Active Heavenly Art to strike random enemies every time casting Special Skills.",
-  "pt": ""
+  "pt": "Ao ativar o Caminho Imortal, são invocados 5 Símbolos Daoístas relacionados à Arte Imortal ativa; esses símbolos atacam inimigos aleatórios toda vez que se utiliza uma Técnica Especial.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc4005": {
   "ch": "仙道状态下，受到伤害降低30%，且受到伤害时会爆发出一圈仙气光圈，对全场造成伤害，仙气光圈攻击会有3秒的恢复时间。",
   "en": "When Immortal Path is activated, decrease the damage taken by 30%. Every time you inflict damage, an aura of Heavenly Air will explode around you, dealing damage to all enemies on the battlefield. The cooldown for the explosion of the aura is 3s.",
-  "pt": ""
+  "pt": "Ao ativar o Caminho Imortal, o dano recebido é reduzido em 30%. Sempre que causar dano, uma aura de Ar Celestial explode ao seu redor, infligindo dano a todos os inimigos no campo de batalha. O tempo de recarga para a explosão da aura é de 3 segundos.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc5001": {
   "ch": "音波每影响1次单位，下次飞踢威力提升&710005_ckftwlts&%。",
   "en": "Every time the sound waves take effect on a unit (allied or enemy), the damage for the next kick will increase by &710005_ckftwlts&%.",
-  "pt": ""
+  "pt": "Toda vez que as ondas sonoras afetarem uma unidade (aliada ou inimiga), o dano do próximo chute aumentará em &710005_ckftwlts&%.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc5002": {
   "ch": "风障每影响到1个敌方单位，切割威力提升&710005_lkwlbl&%。",
   "en": "Every time the wind barrier inflicts an enemy, the damage for cutting will increase by &710005_lkwlbl&%.",
-  "pt": ""
+  "pt": "Toda vez que a barreira de vento atingir um inimigo, o dano de corte aumentará em &710005_lkwlbl&%.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc5003": {
   "ch": "仙法对被减速的单位伤害提升&710005_jrysbl&%。",
   "en": "Damage from Heavenly Arts will increase by &710005_jrysbl&% on Slowed enemies.",
-  "pt": ""
+  "pt": "O Dano causado pela Arte Imortal aumentará em &710005_jrysbl&% contra inimigos que estejam desacelerados.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc5004": {
   "ch": "飞踢的冷却时间翻倍，但是触发时候会进行一次&710005_dlcs&连踢。",
   "en": "The Cooldown for the kick will be doubled, but a series of &710005_dlcs& kicks will be issued upon triggering.",
-  "pt": ""
+  "pt": "O tempo de recarga para o chute será dobrado, mas uma série de &710005_dlcs& chutes será emitida ao ser acionado.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc5005": {
   "ch": "不再释放音波攻击，转而使每次神通造成伤害都会产生乐仙分身对血量最高的单位进行飞踢，1秒冷却。",
   "en": "No longer issue attacks of sound waves. Instead, every time the Ultimate Skill is cast, a clone of the Music Immortal will come into the battlefield to issue a kick on the unit with the highest HP. Cooldown: 1s.",
-  "pt": ""
+  "pt": "O personagem não emite mais ataques sob a forma de ondas sonoras. Em vez disso, toda vez que a Técnica Suprema é utilizada, um clone do Imortal Musical surge no campo de batalha para dar um chute na unidade com o maior número de PVs. Tempo de recarga: 1s.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc6001": {
   "ch": "变身时枪刺武技命中敌人时，有&710006_ylgl&%概率为对方施加枪芒，造成数次威力&710006_ylwl&的伤害，持续&710006_ylcxsj&秒。",
   "en": "Every time when the Martial Skill under Transformation hits an enemy, you have a probability of &710006_ylgl&% to cast spear light on the target hit, inflicting the enemy several times, with &710006_ylwl& damage each time. The effect lasts for &710006_ylcxsj&s.",
-  "pt": ""
+  "pt": "Toda vez que a Técnica Marcial sob Transformação atingir um inimigo, há uma probabilidade de &710006_ylgl&% de lançar luz de lança sobre o alvo atingido, atingindo o inimigo várias vezes, com &710006_ylwl& de dano a cada vez. O efeito dura por &710006_ylcxsj& segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_desc6004": {
   "ch": "变身时武技会获得&710006_xzxxbl&%的吸血效果，且每持续施放&710006_xzxqsj&秒，自身受到的伤害&710006_xzjsbl&%，持续&710006_xzjssj&秒，最大叠加&710006_xzjscs&层。",
   "en": "The Martial Skill under Transformation will gain a &710006_xzxxbl&% Leech effect, and every &710006_xzxqsj&s of continuous casting will decrease your damage taken by &710006_xzjsbl&% for &710006_xzjssj&s. Max stacking layers: &710006_xzjscs&.",
-  "pt": ""
+  "pt": "A Técnica Marcial sob Transformação ganhará um efeito de Roubo de Vida de &710006_xzxxbl&%, e a cada &710006_xzxqsj&s de lançamento contínuo, o dano que você sofre diminuirá em &710006_xzjsbl&% por &710006_xzjssj&s. Máximo de camadas acumuladas: &710006_xzjscs&.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_desc6005": {
   "ch": "变身时神通的巨大光枪会留下一个范围&710006_jmqzfw&的枪阵，持续&710006_jmjzsj&秒。在枪阵中的友军绝技冷却时间&710006_jmjjlqbl&%。",
   "en": "The huge spear cast by the Ultimate Skill under Transformation will leave an array of spears with &710006_jmqzfw& Area of Effect for &710006_jmjzsj&s. Allied units within the array will gain a decrease on the cooldown of Special Skills by &710006_jmjjlqbl&%.",
-  "pt": ""
+  "pt": "A enorme lança lançada pela Técnica Suprema sob Transformação deixará uma formação de lanças com &710006_jmqzfw& de Área de Efeito por &710006_jmjzsj&s. As unidades aliadas dentro da formação terão o tempo de recarga das Técnicas Especiais reduzido em &710006_jmjjlqbl&%.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_desc6006": {
   "ch": "变身时绝技投射的光枪会持续攻击最近的单位，每秒造成威力&710006_tljgwl&的伤害。",
   "en": "The javelins thrown by the Special Skill under Transformation will continuously attack the nearest unit, dealing &710006_tljgwl& damage every second.",
-  "pt": ""
+  "pt": "As lanças lançadas pela Técnica Especial sob Transformação atacarão continuamente a unidade mais próxima, causando &710006_tljgwl& pontos de dano a cada segundo.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc7001": {
   "ch": "法阵持续过程中，会落下石碑进行镇压，每秒造成&710007_zysbsl&次威力&710007_zysbwl&的伤害。",
   "en": "In the duration of the array, there will be stone steles falling from the sky, dealing &710007_zysbwl& damage for &710007_zysbsl& times every second.",
-  "pt": ""
+  "pt": "Durante a duração da formação, haverá estelas de pedra caindo do céu, causando &710007_zysbwl& pontos de dano &710007_zysbsl& vezes por segundo.",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_desc7003": {
   "ch": "锤击不再生成法阵，转而生成一个黑洞，吸引锤击范围的内的所有敌方单位，吸引结束后黑洞爆炸造成威力&710007_dmjcwl&的伤害，黑洞每吸引一个敌人造成的伤害提升&710007_dmtsbl&%。",
   "en": "The smashes of the hammer no longer generate an array. Instead, a black hole will be generated, drawing near all enemies within the range of the smashing. After the drawing ends, the black hole will explode, dealing &710007_dmjcwl& damage. Every enemy affected by the black hole will increase its damage by &710007_dmtsbl&%.",
-  "pt": ""
+  "pt": "As marteladas não geram mais uma formação. Em vez disso, será gerado um buraco negro que atrai todos os inimigos dentro do alcance da martelada. Quando a atração termina, o buraco negro explode, causando &710007_dmjcwl& de dano. Cada inimigo afetado pelo buraco negro aumenta o dano dele em &710007_dmtsbl&%.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_desc7004": {
   "ch": "沧泷不再协同进行攻击，而是加持一个道纹法阵，法阵范围&710007_zyfzfw&，持续&710007_zyfzsj&秒。进入法阵内的单位每&710007_zyshjg&秒会受到威力&710007_zyshwl&的伤害，同时移动速度&710007_zyjsbl&%并封禁身法。",
   "en": "Canglong no longer assists in attacking. Instead, an array of Taoist Symbols will be generated with an Area of Effect of &710007_zyfzfw& for &710007_zyfzsj&s. Units entered into the array will inflict &710007_zyshwl& damage every &710007_zyshjg&s, and their Agility will &710007_zyjsbl&%. The array will also Seal the Motion Skills of the units in it.",
-  "pt": ""
+  "pt": "Canglong não ajuda mais nos ataques. Em vez disso, será gerada uma formação de Símbolos Daoístas com Área de Efeito de &710007_zyfzfw& por &710007_zyfzsj&s. As unidades que entrarem na formação sofrerão &710007_zyshwl& de dano a cada &710007_zyshjg&s, e sua Agilidade &710007_zyjsbl&%. A formação também Sela as Técnicas de Movimento das unidades dentro dela.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_desc7005": {
   "ch": "法阵不再产生爆炸，而是压扁所有受到影响的单位，使其移动速度&710007_hmjsbl&并且受到的伤害提升&710007_hmzsbl&%。离开法阵后，效果仍将持续&710007_hmhxsj&秒。",
   "en": "The array no longer explodes, but crashes all units in it instead. Affected unit’s Agility &710007_hmjsbl&, and the damage taken by them will increase by &710007_hmzsbl&%. After leaving the array, the effect will still last for &710007_hmhxsj&s.",
-  "pt": ""
+  "pt": "A formação não explode mais, mas esmaga todas as unidades dentro dela. A Agilidade das unidades afetadas &710007_hmjsbl&, e o dano que sofrem aumenta em &710007_hmzsbl&%. Depois de sair da formação, o efeito ainda durará &710007_hmhxsj&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_name10001": {
   "ch": "凝神",
   "en": "Soul Formation",
-  "pt": ""
+  "pt": "Formação da Alma",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10002": {
   "ch": "余辉",
   "en": "Glorious Twilight",
-  "pt": ""
+  "pt": "Crepúsculo Glorioso",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10003": {
   "ch": "定心",
   "en": "Settled Mind",
-  "pt": ""
+  "pt": "Mente Tranquila",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10004": {
   "ch": "蕴劲",
   "en": "Gathered Might",
-  "pt": ""
+  "pt": "Força Reunida",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10005": {
   "ch": "延脉",
   "en": "Expanded Meridians",
-  "pt": ""
+  "pt": "Meridianos Expandidos",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10006": {
   "ch": "钻研",
   "en": "Arduous Research",
-  "pt": ""
+  "pt": "Pesquisa Árdua",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10007": {
   "ch": "贯通",
   "en": "Thorough Comprehension",
-  "pt": ""
+  "pt": "Compreensão Aprofundada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10008": {
   "ch": "连绵",
   "en": "Unbroken Perseverance",
-  "pt": ""
+  "pt": "Perseverança Inabalável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10009": {
   "ch": "战意",
   "en": "Battle Will",
-  "pt": ""
+  "pt": "Vontade de Batalha",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "passiveMethod_name1001": {
   "ch": "惊雷剑意",
   "en": "Sword’s Will - Fiery Thunder",
-  "pt": ""
+  "pt": "Vontade da Espada - Trovão Ardente",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10010": {
   "ch": "影遁",
   "en": "Shadow Escape",
-  "pt": ""
+  "pt": "Fuga das Sombras",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10011": {
   "ch": "合力",
   "en": "Converged Power",
-  "pt": ""
+  "pt": "Poder Convergente",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name10012": {
   "ch": "闭气",
   "en": "Holding Breath",
-  "pt": ""
+  "pt": "Prendendo o Sopro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10013": {
   "ch": "满盈",
   "en": "Brimming Harvest",
-  "pt": ""
+  "pt": "Colheita Abundante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10014": {
   "ch": "成双",
   "en": "Inseparable Twin",
-  "pt": ""
+  "pt": "Gêmeo Inseparável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10015": {
   "ch": "蓄势",
   "en": "Cumulating Momentum",
-  "pt": ""
+  "pt": "Ímpeto Acumulado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10016": {
   "ch": "倾力",
   "en": "Torrential Flow",
-  "pt": ""
+  "pt": "Fluxo Torrencial",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name10017": {
   "ch": "盈能",
   "en": "Brimming Energy",
-  "pt": ""
+  "pt": "Energia Transbordante",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "passiveMethod_name1002": {
   "ch": "青冥剑意",
   "en": "Sword’s Will - Glowing Sky",
-  "pt": ""
+  "pt": "Vontade da Espada - Céu Brilhante",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name1003": {
   "ch": "龙渊剑意",
   "en": "Sword’s Will - Dragon Pond",
-  "pt": ""
+  "pt": "Vontade da Espada - Lago do Dragão",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name1004": {
   "ch": "青霜剑意",
   "en": "Sword’s Will - Thin Frost",
-  "pt": ""
+  "pt": "Vontade da Espada - Gelo Fino",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name1005": {
   "ch": "赤霄剑意",
   "en": "Sword’s Will - Ethereal Clouds",
-  "pt": ""
+  "pt": "Vontade da Espada - Nuvens Etéreas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name1006": {
   "ch": "万仞剑意",
   "en": "Sword’s Will - Impossible Cliff",
-  "pt": ""
+  "pt": "Vontade da Espada - Penhasco Impossível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name1007": {
   "ch": "心中有剑",
   "en": "Sword Within Mind",
-  "pt": ""
+  "pt": "Espada Dentro da Mente",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name1008": {
   "ch": "手中无剑",
   "en": "Hand Without Sword",
-  "pt": ""
+  "pt": "Mão Sem Espada",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name1009": {
   "ch": "碎魂剑法",
   "en": "Soulshatter Sword",
-  "pt": ""
+  "pt": "Espada Destroçalmas",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name2002": {
   "ch": "赤炎蛋",
   "en": "Ruby Egg",
-  "pt": ""
+  "pt": "Ovo de Rubi",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name2003": {
   "ch": "幽蓝蛋",
   "en": "Sapphire Egg",
-  "pt": ""
+  "pt": "Ovo de Safira",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name2004": {
   "ch": "翠玉蛋",
   "en": "Emerald Egg",
-  "pt": ""
+  "pt": "Ovo de Esmeralda",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "passiveMethod_name2005": {
   "ch": "多多益善",
   "en": "Greed Is Good",
-  "pt": ""
+  "pt": "A Ganância é Boa",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name2006": {
   "ch": "双重保险",
   "en": "Double Insurance",
-  "pt": ""
+  "pt": "Seguro Duplo",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name3001": {
   "ch": "眩惑",
   "en": "Dazzling",
-  "pt": ""
+  "pt": "Deslumbrante",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "passiveMethod_name3002": {
   "ch": "剧毒",
   "en": "Poisoning",
-  "pt": ""
+  "pt": "Envenenamento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "passiveMethod_name3003": {
   "ch": "超凡",
   "en": "Excelling",
-  "pt": ""
+  "pt": "Excelência",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name3004": {
   "ch": "更多蘑菇",
   "en": "More Mushrooms",
-  "pt": ""
+  "pt": "Mais Cogumelos",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name3006": {
   "ch": "芝粉",
   "en": "Ganoderma Powder",
-  "pt": ""
+  "pt": "Pó de Ganoderma",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name3007": {
   "ch": "滋生",
   "en": "Growing",
-  "pt": ""
+  "pt": "Crescendo",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name3008": {
   "ch": "长生",
   "en": "Long-living",
-  "pt": ""
+  "pt": "Longa Vida",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name3009": {
   "ch": "仙菌万岁",
   "en": "Hail Mushroom",
-  "pt": ""
+  "pt": "Salve, Cogumelo!",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name3010": {
   "ch": "躁动",
   "en": "Unsettling",
-  "pt": ""
+  "pt": "Inquietação",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "passiveMethod_name4002": {
   "ch": "斩罡",
   "en": "Slash of Justice",
-  "pt": ""
+  "pt": "Corte da Justiça",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name4003": {
   "ch": "空冥",
   "en": "Silent Emptiness",
-  "pt": ""
+  "pt": "Vazio Silencioso",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name4004": {
   "ch": "灵锋",
   "en": "Spirit Blade",
-  "pt": ""
+  "pt": "Lâmina Espiritual",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "passiveMethod_name4005": {
   "ch": "仙佑",
   "en": "Blessed Sword",
-  "pt": ""
+  "pt": "Espada Abençoada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "passiveMethod_name5001": {
   "ch": "穿空",
   "en": "Heavenly Precision",
-  "pt": ""
+  "pt": "Precisão Celestial",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name5002": {
   "ch": "裂空",
   "en": "Heavenly Determination",
-  "pt": ""
+  "pt": "Determinação Celestial",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name5003": {
   "ch": "击弱",
   "en": "Weakening Strike",
-  "pt": ""
+  "pt": "Golpe Enfraquecedor",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name5004": {
   "ch": "穿影",
   "en": "Illusion Breaker",
-  "pt": ""
+  "pt": "Quebrador de Ilusões",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name5005": {
   "ch": "无缝",
   "en": "Faultless",
-  "pt": ""
+  "pt": "Impecável",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name6001": {
   "ch": "游龙枪法",
   "en": "Spear - Playful Dragon",
-  "pt": ""
+  "pt": "Lança - Dragão Brincalhão",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name6004": {
   "ch": "血战枪法",
   "en": "Spear - Tough Battle",
-  "pt": ""
+  "pt": "Lança - Batalha Difícil",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name6005": {
   "ch": "绝命枪阵",
   "en": "Spear Array - Extermination",
-  "pt": ""
+  "pt": "Formação de Lanças - Extermínio",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name6006": {
   "ch": "天瞳射线",
   "en": "Ray of Heavenly Glare",
-  "pt": ""
+  "pt": "Raio do Brilho Celestial",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name7001": {
   "ch": "镇压",
   "en": "Suppression",
-  "pt": ""
+  "pt": "Supressão",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name7003": {
   "ch": "洞灭",
   "en": "Extermination",
-  "pt": ""
+  "pt": "Extermínio",
+  "auto": "local/hy-mt2"
  },
  "passiveMethod_name7004": {
   "ch": "重压",
   "en": "Shatter",
-  "pt": ""
+  "pt": "Esmagamento",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "passiveMethod_name7005": {
   "ch": "坏灭",
   "en": "Khayanirodha",
-  "pt": ""
+  "pt": "Khayanirodha",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  }
 }

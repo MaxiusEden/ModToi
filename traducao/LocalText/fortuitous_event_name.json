@@ -2,1936 +2,2764 @@
  "fortuitous_event_name1": {
   "ch": "妖兽渡劫",
   "en": "Beast Trial",
-  "pt": ""
+  "pt": "Prova da Fera",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10": {
   "ch": "三足乌",
   "en": "Three-legged Crow",
-  "pt": ""
+  "pt": "Corvo de Três Pernas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10001": {
   "ch": "玲珑魂灯",
   "en": "Soul Lamp",
-  "pt": ""
+  "pt": "Lâmpada da Alma",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "fortuitous_event_name10002": {
   "ch": "触发魂灯机缘",
   "en": "Soul Lamp: Beginning",
-  "pt": ""
+  "pt": "Lâmpada da Alma: Começo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10003": {
   "ch": "讹兽谎言",
   "en": "Bunny Story",
-  "pt": ""
+  "pt": "História do Coelho",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "fortuitous_event_name10004": {
   "ch": "小镇异变",
   "en": "Ominous Town",
-  "pt": ""
+  "pt": "Vila Ominosa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10006": {
   "ch": "灵剑指路",
   "en": "Guidance of the Sword",
-  "pt": ""
+  "pt": "Oriente da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10009": {
   "ch": "玄冥之女",
   "en": "Runaway Girl",
-  "pt": ""
+  "pt": "Garota Fugitiva",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1001": {
   "ch": "六尾狐",
   "en": "Six Tails",
-  "pt": ""
+  "pt": "Raposa de Seis Caudas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 21 > 12 caracteres"
+  ]
  },
  "fortuitous_event_name10010": {
   "ch": "不归河奇遇",
   "en": "Adventure: River of No Return",
-  "pt": ""
+  "pt": "Aventura: Rio do Não Retorno",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10011": {
   "ch": "伶仃集始",
   "en": "Loner's Poetry: Beginning",
-  "pt": ""
+  "pt": "Poesia do Solitário: Começo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10012": {
   "ch": "伶仃集之神秘男子",
   "en": "Loner's Poetry: Mysterious Man",
-  "pt": ""
+  "pt": "Poesia do Solitário: Homem Misterioso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10013": {
   "ch": "伶仃集之遇见女子",
   "en": "Loner's Poetry: Mysterious Woman",
-  "pt": ""
+  "pt": "Poesia do Solitário: Encontro com a Garota",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name10014": {
   "ch": "伶仃集之得遇嫣姨",
   "en": "Loner's Poetry: Lady Yan",
-  "pt": ""
+  "pt": "Poesia do Solitário: Encontrando a Tia Yan",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1002": {
   "ch": "大蟹",
   "en": "Goliath Crab",
-  "pt": ""
+  "pt": "Caranguejo Golias",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "fortuitous_event_name1003": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name100306": {
   "ch": "天玄真人",
   "en": "Sage Tianxuan",
-  "pt": ""
+  "pt": "Sábio Tianxuan",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name100307": {
   "ch": "蝶怨仙子",
   "en": "Bitterfly Spirit",
-  "pt": ""
+  "pt": "Espírito da Borboleta Rancorosa",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 31 > 21 caracteres"
+  ]
  },
  "fortuitous_event_name1004": {
   "ch": "人面鸮",
   "en": "Harpy",
-  "pt": ""
+  "pt": "Harpia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1005": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1006": {
   "ch": "树妖",
   "en": "Evergreen",
-  "pt": ""
+  "pt": "Demônio da Árvore",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 12 caracteres"
+  ]
  },
  "fortuitous_event_name1007": {
   "ch": "长乘",
   "en": "Leonid",
-  "pt": ""
+  "pt": "Leonid",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1008": {
   "ch": "长右",
   "en": "Fel Vermin",
-  "pt": ""
+  "pt": "Vermes Felinos",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "fortuitous_event_name1009": {
   "ch": "雷神",
   "en": "Hatuibwari",
-  "pt": ""
+  "pt": "Deus do Trovão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "fortuitous_event_name1010": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101001": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Fofoqueiros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101002": {
   "ch": "霜凌的住处",
   "en": "Shuang Ling's Dwelling",
-  "pt": ""
+  "pt": "Morada de Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101003": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101004": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101005": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101006": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101007": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Fofoqueiros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101008": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Fofoqueiros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101009": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Fofoqueiros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101010": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Fofoqueiros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101011": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101012": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101013": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101014": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101015": {
   "ch": "霜凌的住处",
   "en": "Shuang Ling's Dwelling",
-  "pt": ""
+  "pt": "Morada de Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101016": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101017": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101018": {
   "ch": "霜凌",
   "en": "Shuang Ling",
-  "pt": ""
+  "pt": "Shuang Ling",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1011": {
   "ch": "白猿",
   "en": "Albino Ape",
-  "pt": ""
+  "pt": "Macaco Albino",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101101": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Tagarelas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101102": {
   "ch": "议论中的修士",
   "en": "Gossiping Cultivators",
-  "pt": ""
+  "pt": "Cultivadores Tagarelas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101103": {
   "ch": "洞天裂隙",
   "en": "Realm Rift",
-  "pt": ""
+  "pt": "Fenda do Reino",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "fortuitous_event_name101104": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101105": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101106": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101107": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101108": {
   "ch": "敖瑶住处",
   "en": "Ao Yao's Dwelling",
-  "pt": ""
+  "pt": "Morada de Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101109": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101110": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101111": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101112": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101113": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101114": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101115": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101116": {
   "ch": "敖瑶",
   "en": "Ao Yao",
-  "pt": ""
+  "pt": "Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name101117": {
   "ch": "空间裂隙",
   "en": "Spatial Rift",
-  "pt": ""
+  "pt": "Fenda Espacial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101118": {
   "ch": "神秘踪迹",
   "en": "Mysterious Trail",
-  "pt": ""
+  "pt": "Trilha Misteriosa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name101119": {
   "ch": "敖瑶住处",
   "en": "Ao Yao's Dwelling",
-  "pt": ""
+  "pt": "Residência de Ao Yao",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1012": {
   "ch": "尸王",
   "en": "Corpse Lord",
-  "pt": ""
+  "pt": "Senhor dos Cadáveres",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 20 > 15 caracteres"
+  ]
  },
  "fortuitous_event_name1013": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Lydra",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1014": {
   "ch": "奢比尸",
   "en": "Sagittar",
-  "pt": ""
+  "pt": "Sagittar",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1015": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1016": {
   "ch": "大蟹",
   "en": "Goliath Crab",
-  "pt": ""
+  "pt": "Caranguejo Golias",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "fortuitous_event_name1017": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1018": {
   "ch": "人面鸮",
   "en": "Harpy",
-  "pt": ""
+  "pt": "Harpa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1019": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1020": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Lydra",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1021": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1022": {
   "ch": "大蟹",
   "en": "Goliath Crab",
-  "pt": ""
+  "pt": "Caranguejo Golias",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "fortuitous_event_name1023": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1024": {
   "ch": "人面鸮",
   "en": "Harpy",
-  "pt": ""
+  "pt": "Harpa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1025": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1026": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Lydra",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name10819": {
   "ch": "絜钩奇遇",
   "en": "Adventure: Xiegou",
-  "pt": ""
+  "pt": "Aventura: Xiegou",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10820": {
   "ch": "珍贵果实奇遇",
   "en": "Adventure: Precious Fruit",
-  "pt": ""
+  "pt": "Aventura: Fruto Precioso",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10821": {
   "ch": "凤凰奇遇",
   "en": "Adventure: Phoenix",
-  "pt": ""
+  "pt": "Aventura: Fênix",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10822": {
   "ch": "珠鳖鱼奇遇",
   "en": "Adventure: Pearl Turtle",
-  "pt": ""
+  "pt": "Aventura: Tartaruga de Pérola",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10823": {
   "ch": "蠪侄奇遇",
   "en": "Adventure: Long Zhi",
-  "pt": ""
+  "pt": "Aventura: Long Zhi",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10824": {
   "ch": "海市蜃楼奇遇",
   "en": "Adventure: Desert Mirage",
-  "pt": ""
+  "pt": "Aventura: Miragem no Deserto",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10825": {
   "ch": "秃鹫盘旋奇遇",
   "en": "Adventure: Hovering Vulture",
-  "pt": ""
+  "pt": "Aventura: Abutre Voador",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10826": {
   "ch": "荒野骸骨奇遇",
   "en": "Adventure: Skeleton",
-  "pt": ""
+  "pt": "Aventura: Esqueleto",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10827": {
   "ch": "凛冽寒风奇遇",
   "en": "Adventure: Chilling Wind",
-  "pt": ""
+  "pt": "Aventura: Vento Gélido",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "fortuitous_event_name10828": {
   "ch": "千年冰蟾奇遇",
   "en": "Adventure: Icy Toad",
-  "pt": ""
+  "pt": "Aventura: Sapo Gelado",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10832": {
   "ch": "异兽行云布雨",
   "en": "The Rainmaker",
-  "pt": ""
+  "pt": "O Fazedor de Chuva",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name10833": {
   "ch": "八荒神算",
   "en": "Fortune Teller",
-  "pt": ""
+  "pt": "Adivinho da Fortuna",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fortuitous_event_name10834": {
   "ch": "救助雏鸟",
   "en": "Saving the Bird",
-  "pt": ""
+  "pt": "Salvando o Pássaro",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10835": {
   "ch": "花好月圆",
   "en": "Romance Under the Moon",
-  "pt": ""
+  "pt": "Romance sob a Lua",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10836": {
   "ch": "石壁洞穴",
   "en": "Rock Cave",
-  "pt": ""
+  "pt": "Caverna de Pedra",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 16 > 12 caracteres"
+  ]
  },
  "fortuitous_event_name10837": {
   "ch": "丹修赐丹",
   "en": "Elixir Gift",
-  "pt": ""
+  "pt": "Presente de Elixir",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "fortuitous_event_name10838": {
   "ch": "偶遇灵泉",
   "en": "Holy Spring",
-  "pt": ""
+  "pt": "Fonte Sagrada",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10839": {
   "ch": "仙人赐酒",
   "en": "Free Drink",
-  "pt": ""
+  "pt": "Bebida Grátis",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "fortuitous_event_name10840": {
   "ch": "树下遇袭",
   "en": "Ambushed",
-  "pt": ""
+  "pt": "Emboscada",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name10841": {
   "ch": "未知祭坛",
   "en": "Unknown Altar",
-  "pt": ""
+  "pt": "Altar Desconhecido",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name10843": {
   "ch": "灵石失窃",
   "en": "Lost Spirit Stone",
-  "pt": ""
+  "pt": "Pedra Espiritual Perdida",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "fortuitous_event_name11": {
   "ch": "三足乌",
   "en": "Three-legged Crow",
-  "pt": ""
+  "pt": "Corvo de Três Pernas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11001": {
   "ch": "灵果之争奇遇",
   "en": "Adventure: Spiritual Fruit Fight",
-  "pt": ""
+  "pt": "Aventura: Luta pelo Fruto Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11002": {
   "ch": "狸力小奇遇",
   "en": "Adventure: Lili",
-  "pt": ""
+  "pt": "Aventura: Lili",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11003": {
   "ch": "文茎奇遇",
   "en": "Adventure: Wen Jing",
-  "pt": ""
+  "pt": "Aventura: Wen Jing",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11004": {
   "ch": "打捞光点奇遇",
   "en": "Adventure: Fishing the Light",
-  "pt": ""
+  "pt": "Aventura: Pescando a Luz",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11005": {
   "ch": "雪地避暑奇遇",
   "en": "Adventure: Snowy Summer",
-  "pt": ""
+  "pt": "Aventura: Verão Nevado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11006": {
   "ch": "河中灵石奇遇",
   "en": "Adventure: Strange Stone",
-  "pt": ""
+  "pt": "Aventura: Pedra Espiritual no Rio",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11007": {
   "ch": "兕兽奇遇",
   "en": "Adventure: Si",
-  "pt": ""
+  "pt": "Aventura: Si",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11008": {
   "ch": "蓇蓉草奇遇",
   "en": "Adventure: Gu Rong",
-  "pt": ""
+  "pt": "Aventura: Erva Gu Rong",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11009": {
   "ch": "如魮鱼奇遇",
   "en": "Adventure: Ru Pi",
-  "pt": ""
+  "pt": "Aventura: Peixe Ru Pi",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1101": {
   "ch": "六尾狐",
   "en": "Six Tails",
-  "pt": ""
+  "pt": "Seis Caudas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11010": {
   "ch": "丹树果实奇遇",
   "en": "Adventure: Crimson Fruit",
-  "pt": ""
+  "pt": "Aventura: Fruto Carmesim",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11011": {
   "ch": "东山神废弃遗迹奇遇",
   "en": "Adventure: Abandoned Ruins",
-  "pt": ""
+  "pt": "Aventura: Ruínas Abandonadas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11013": {
   "ch": "橐棐奇遇",
   "en": "Adventure: Tuofei",
-  "pt": ""
+  "pt": "Aventura: Tuofei",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11014": {
   "ch": "嚣兽奇遇",
   "en": "Adventure: Xiaoshou",
-  "pt": ""
+  "pt": "Aventura: Xiaoshou",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11015": {
   "ch": "罗罗鸟奇遇",
   "en": "Adventure: Roro Bird",
-  "pt": ""
+  "pt": "Aventura: Pássaro Roro",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11016": {
   "ch": "山腰露宿奇遇",
   "en": "Adventure: A Night on the Mountainside",
-  "pt": ""
+  "pt": "Aventura: Uma Noite na Encosta da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11017": {
   "ch": "崇吾之树奇遇",
   "en": "Adventure: Chongwu Tree",
-  "pt": ""
+  "pt": "Aventura: Árvore Chongwu",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11018": {
   "ch": "松动法阵奇遇",
   "en": "Adventure: Broken Array",
-  "pt": ""
+  "pt": "Aventura: Formação Quebrada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name11019": {
   "ch": "饮泉醉月",
   "en": "Thatch Hut by the Holy Spring",
-  "pt": ""
+  "pt": "Cabana de Palha ao Lado da Fonte Sagrada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1102": {
   "ch": "大蟹",
   "en": "Goliath Crab",
-  "pt": ""
+  "pt": "Caranguejo Gigante",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "fortuitous_event_name1103": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Serpente Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 8 caracteres"
+  ]
  },
  "fortuitous_event_name1104": {
   "ch": "人面鸮",
   "en": "Harpy",
-  "pt": ""
+  "pt": "Harpia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1105": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1106": {
   "ch": "树妖",
   "en": "Evergreen",
-  "pt": ""
+  "pt": "Espírito da Árvore",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 12 caracteres"
+  ]
  },
  "fortuitous_event_name1107": {
   "ch": "长乘",
   "en": "Leonid",
-  "pt": ""
+  "pt": "Leonino",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1108": {
   "ch": "长右",
   "en": "Fel Vermin",
-  "pt": ""
+  "pt": "Bestas Ferozes",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "fortuitous_event_name1109": {
   "ch": "雷神",
   "en": "Hatuibwari",
-  "pt": ""
+  "pt": "Deus do Trovão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "fortuitous_event_name1110": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1111": {
   "ch": "白猿",
   "en": "Albino Ape",
-  "pt": ""
+  "pt": "Macaco Albino",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1112": {
   "ch": "尸王",
   "en": "Corpse Lord",
-  "pt": ""
+  "pt": "Senhor dos Cadáveres",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 20 > 15 caracteres"
+  ]
  },
  "fortuitous_event_name1113": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Bestas Iluminadas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 8 caracteres"
+  ]
  },
  "fortuitous_event_name1114": {
   "ch": "奢比尸",
   "en": "Sagittar",
-  "pt": ""
+  "pt": "Arqueiro",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1115": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1116": {
   "ch": "大蟹",
   "en": "Goliath Crab",
-  "pt": ""
+  "pt": "Caranguejo Gigante",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "fortuitous_event_name1117": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Serpente Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 8 caracteres"
+  ]
  },
  "fortuitous_event_name1118": {
   "ch": "人面鸮",
   "en": "Harpy",
-  "pt": ""
+  "pt": "Harpia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1119": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1120": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Bestas Iluminadas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 8 caracteres"
+  ]
  },
  "fortuitous_event_name1121": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1122": {
   "ch": "大蟹",
   "en": "Goliath Crab",
-  "pt": ""
+  "pt": "Caranguejo Golias",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "fortuitous_event_name1123": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name1124": {
   "ch": "人面鸮",
   "en": "Harpy",
-  "pt": ""
+  "pt": "Harpia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1125": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name1126": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Lydra",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name12": {
   "ch": "后羿",
   "en": "Hou Yi",
-  "pt": ""
+  "pt": "Hou Yi",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name13": {
   "ch": "扶桑树",
   "en": "Divine Mulberry",
-  "pt": ""
+  "pt": "Amoreira Divina",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name14": {
   "ch": "仙池",
   "en": "Sacred Pond",
-  "pt": ""
+  "pt": "Lago Sagrado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name15": {
   "ch": "山谷",
   "en": "Valley",
-  "pt": ""
+  "pt": "Vale",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name16": {
   "ch": "坟墓",
   "en": "Tomb",
-  "pt": ""
+  "pt": "Tumba",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name17": {
   "ch": "鬼魂商人",
   "en": "Ghost Merchant",
-  "pt": ""
+  "pt": "Mercador Fantasma",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name18": {
   "ch": "鬼魂商人",
   "en": "Ghost Merchant",
-  "pt": ""
+  "pt": "Mercador Fantasma",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name19": {
   "ch": "魔宗",
   "en": "Demonic Sect",
-  "pt": ""
+  "pt": "Seita Demoníaca",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name2": {
   "ch": "神树结果",
   "en": "Divine Fruit",
-  "pt": ""
+  "pt": "Fruto Divino",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name20": {
   "ch": "阴暗洞穴",
   "en": "Tenebrous Cavern",
-  "pt": ""
+  "pt": "Caverna Tenebrosa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name2001": {
   "ch": "雷神",
   "en": "Hatuibwari",
-  "pt": ""
+  "pt": "Hatuibwari",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name2002": {
   "ch": "长右",
   "en": "Fel Vermin",
-  "pt": ""
+  "pt": "Fel Vermin",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name2003": {
   "ch": "英招",
   "en": "Sphinx",
-  "pt": ""
+  "pt": "Esfinge",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name2004": {
   "ch": "孟极",
   "en": "Abomination",
-  "pt": ""
+  "pt": "Abominação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name2005": {
   "ch": "九尾妖狐",
   "en": "Nine Tails",
-  "pt": ""
+  "pt": "Nove Caudas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name2006": {
   "ch": "鸣蛇",
   "en": "Coatl",
-  "pt": ""
+  "pt": "Coatl",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name2007": {
   "ch": "山挥",
   "en": "Mountain Specter",
-  "pt": ""
+  "pt": "Espectro da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name2008": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Lydra",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name201": {
   "ch": "精卫",
   "en": "Jingwei",
-  "pt": ""
+  "pt": "Jingwei",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name20101": {
   "ch": "风水龙脉",
   "en": "Feng Shui Dragon Vein",
-  "pt": ""
+  "pt": "Veia do Dragão Feng Shui",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name204": {
   "ch": "双仪村",
   "en": "Duality Village",
-  "pt": ""
+  "pt": "Vila da Dualidade",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name206": {
   "ch": "荒村",
   "en": "Abandoned Village",
-  "pt": ""
+  "pt": "Vila Abandonada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name21": {
   "ch": "宝藏",
   "en": "Treasure",
-  "pt": ""
+  "pt": "Tesouro",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name3": {
   "ch": "青丘山脚",
   "en": "Foot of Foxhill",
-  "pt": ""
+  "pt": "Pé da Colina da Raposa",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "fortuitous_event_name3002": {
   "ch": "{#battle_unit_name7211}",
   "en": "{#battle_unit_name7211}",
-  "pt": ""
+  "pt": "{#battle_unit_name7211}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3003": {
   "ch": "{#battle_unit_name7061}",
   "en": "{#battle_unit_name7061}",
-  "pt": ""
+  "pt": "{#battle_unit_name7061}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3004": {
   "ch": "{#battle_unit_name7201}",
   "en": "{#battle_unit_name7201}",
-  "pt": ""
+  "pt": "{#battle_unit_name7201}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3005": {
   "ch": "{#battle_unit_name7111}",
   "en": "{#battle_unit_name7111}",
-  "pt": ""
+  "pt": "{#battle_unit_name7111}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3006": {
   "ch": "{#battle_unit_name7221}",
   "en": "{#battle_unit_name7221}",
-  "pt": ""
+  "pt": "{#battle_unit_name7221}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3007": {
   "ch": "{#battle_unit_name744}",
   "en": "{#battle_unit_name744}",
-  "pt": ""
+  "pt": "{#battle_unit_name744}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3008": {
   "ch": "{#battle_unit_name759}",
   "en": "{#battle_unit_name759}",
-  "pt": ""
+  "pt": "{#battle_unit_name759}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3009": {
   "ch": "{#battle_unit_name8042}",
   "en": "{#battle_unit_name8042}",
-  "pt": ""
+  "pt": "{#battle_unit_name8042}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name3010": {
   "ch": "{#battle_unit_name8442}",
   "en": "{#battle_unit_name8442}",
-  "pt": ""
+  "pt": "{#battle_unit_name8442}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4": {
   "ch": "妖狐乱世",
   "en": "Fox Spirit Chaos",
-  "pt": ""
+  "pt": "Caos do Espírito Raposa",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "fortuitous_event_name4001": {
   "ch": "{#building10005Name_162115}",
   "en": "{#building10005Name_162115}",
-  "pt": ""
+  "pt": "{#building10005Name_162115}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4002": {
   "ch": "{#building10005Name_162116}",
   "en": "{#building10005Name_162116}",
-  "pt": ""
+  "pt": "{#building10005Name_162116}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4003": {
   "ch": "{#building10005Name_162117}",
   "en": "{#building10005Name_162117}",
-  "pt": ""
+  "pt": "{#building10005Name_162117}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4004": {
   "ch": "{#building10005Name_162118}",
   "en": "{#building10005Name_162118}",
-  "pt": ""
+  "pt": "{#building10005Name_162118}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4005": {
   "ch": "{#building10005Name_162119}",
   "en": "{#building10005Name_162119}",
-  "pt": ""
+  "pt": "{#building10005Name_162119}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4006": {
   "ch": "{#building10005Name_162120}",
   "en": "{#building10005Name_162120}",
-  "pt": ""
+  "pt": "{#building10005Name_162120}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4007": {
   "ch": "{#building10005Name_162121}",
   "en": "{#building10005Name_162121}",
-  "pt": ""
+  "pt": "{#building10005Name_162121}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4008": {
   "ch": "{#building10005Name_162122}",
   "en": "{#building10005Name_162122}",
-  "pt": ""
+  "pt": "{#building10005Name_162122}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4009": {
   "ch": "{#building10005Name_162123}",
   "en": "{#building10005Name_162123}",
-  "pt": ""
+  "pt": "{#building10005Name_162123}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name4201": {
   "ch": "炼丹狂魔",
   "en": "Alchemist",
-  "pt": ""
+  "pt": "Alquimista",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4202": {
   "ch": "炼丹狂魔",
   "en": "Alchemist",
-  "pt": ""
+  "pt": "Alquimista",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4203": {
   "ch": "炼丹狂魔",
   "en": "Alchemist",
-  "pt": ""
+  "pt": "Alquimista",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4204": {
   "ch": "炼丹狂魔",
   "en": "Alchemist",
-  "pt": ""
+  "pt": "Alquimista",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4205": {
   "ch": "炼丹狂魔",
   "en": "Alchemist",
-  "pt": ""
+  "pt": "Alquimista",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4501": {
   "ch": "邪修",
   "en": "Qi Deviated Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Qi Desviado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4502": {
   "ch": "邪修",
   "en": "Qi Deviated Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Qi Desviado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4503": {
   "ch": "邪修",
   "en": "Qi Deviated Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Qi Desviado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4504": {
   "ch": "邪修",
   "en": "Qi Deviated Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Qi Desviado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4505": {
   "ch": "邪修",
   "en": "Qi Deviated Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Qi Desviado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4551": {
   "ch": "山岳",
   "en": "Mountain",
-  "pt": ""
+  "pt": "Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4601": {
   "ch": "盘龙山",
   "en": "Panlong Mountain",
-  "pt": ""
+  "pt": "Montanha Panlong",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4602": {
   "ch": "千岩谷",
   "en": "Rocky Valley",
-  "pt": ""
+  "pt": "Vale Rochoso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4603": {
   "ch": "通幽谷",
   "en": "Secluded Valley",
-  "pt": ""
+  "pt": "Vale Remoto",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4604": {
   "ch": "镇邪峰",
   "en": "Exorcism Peak",
-  "pt": ""
+  "pt": "Pico do Exorcismo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4605": {
   "ch": "月落山",
   "en": "Moonfall Mountain",
-  "pt": ""
+  "pt": "Montanha da Queda da Lua",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "fortuitous_event_name4606": {
   "ch": "封神天梯",
   "en": "Stairway to Heaven",
-  "pt": ""
+  "pt": "Escadaria para o Céu",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name4901": {
   "ch": "玄晶石灵",
   "en": "Dark Crystal Spirit",
-  "pt": ""
+  "pt": "Espírito do Cristal Escuro",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name4902": {
   "ch": "玄晶石灵",
   "en": "Dark Crystal Spirit",
-  "pt": ""
+  "pt": "Espírito do Cristal Escuro",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name4903": {
   "ch": "玄晶石灵",
   "en": "Dark Crystal Spirit",
-  "pt": ""
+  "pt": "Espírito do Cristal Escuro",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name4904": {
   "ch": "玄晶石灵",
   "en": "Dark Crystal Spirit",
-  "pt": ""
+  "pt": "Espírito do Cristal Escuro",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name4905": {
   "ch": "玄晶石灵",
   "en": "Dark Crystal Spirit",
-  "pt": ""
+  "pt": "Espírito do Cristal Escuro",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name5": {
   "ch": "游荒商人",
   "en": "Wandering Merchant",
-  "pt": ""
+  "pt": "Mercador Errante",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50002": {
   "ch": "灵果之争奇遇",
   "en": "Adventure: Spiritual Fruit Fight",
-  "pt": ""
+  "pt": "Aventura: Luta pelo Fruto Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50003": {
   "ch": "狸力小奇遇",
   "en": "Adventure: Lili",
-  "pt": ""
+  "pt": "Aventura: Lili",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50004": {
   "ch": "狸力地宫小奇遇",
   "en": "Adventure: Lili Dungeon",
-  "pt": ""
+  "pt": "Aventura: Masmorra da Lili",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50005": {
   "ch": "文茎地宫",
   "en": "Wen Jing Dungeon",
-  "pt": ""
+  "pt": "Masmorra de Wen Jing",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50006": {
   "ch": "文茎奇遇",
   "en": "Adventure: Wen Jing",
-  "pt": ""
+  "pt": "Aventura: Wen Jing",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50007": {
   "ch": "打捞光点奇遇",
   "en": "Adventure: Fishing the Light",
-  "pt": ""
+  "pt": "Aventura: Pesca da Luz",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50008": {
   "ch": "雪地避暑奇遇",
   "en": "Adventure: Snowy Summer",
-  "pt": ""
+  "pt": "Aventura: Verão Nevado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name50009": {
   "ch": "雪地避暑之火灾",
   "en": "Snowy Summer - Fire",
-  "pt": ""
+  "pt": "Verão Nevado - Fogo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name5001": {
   "ch": "黯炎邪面",
   "en": "Darkfire Mask",
-  "pt": ""
+  "pt": "Máscara de Fogo Sombrio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name5002": {
   "ch": "黯炎邪面",
   "en": "Darkfire Mask",
-  "pt": ""
+  "pt": "Máscara de Fogo Sombrio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name5003": {
   "ch": "黯炎邪面",
   "en": "Darkfire Mask",
-  "pt": ""
+  "pt": "Máscara de Fogo Sombrio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name5004": {
   "ch": "黯炎邪面",
   "en": "Darkfire Mask",
-  "pt": ""
+  "pt": "Máscara de Fogo Sombrio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name5005": {
   "ch": "黯炎邪面",
   "en": "Darkfire Mask",
-  "pt": ""
+  "pt": "Máscara de Fogo Sombrio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name5104": {
   "ch": "陨幽谷",
   "en": "Fallen Valley",
-  "pt": ""
+  "pt": "Vale Caído",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name5106": {
   "ch": "陨幽谷",
   "en": "Fallen Valley",
-  "pt": ""
+  "pt": "Vale Caído",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name5108": {
   "ch": "陨幽谷",
   "en": "Fallen Valley",
-  "pt": ""
+  "pt": "Vale Caído",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name5110": {
   "ch": "陨幽谷",
   "en": "Fallen Valley",
-  "pt": ""
+  "pt": "Vale Caído",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name5201": {
   "ch": "冥种幽窟",
   "en": "Nether Seed Cavern",
-  "pt": ""
+  "pt": "Caverna da Semente do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 30 > 24 caracteres"
+  ]
  },
  "fortuitous_event_name5202": {
   "ch": "冥种幽窟",
   "en": "Nether Seed Cavern",
-  "pt": ""
+  "pt": "Caverna da Semente do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 30 > 24 caracteres"
+  ]
  },
  "fortuitous_event_name5203": {
   "ch": "冥种幽窟",
   "en": "Nether Seed Cavern",
-  "pt": ""
+  "pt": "Caverna da Semente do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 30 > 24 caracteres"
+  ]
  },
  "fortuitous_event_name5204": {
   "ch": "冥种幽窟",
   "en": "Nether Seed Cavern",
-  "pt": ""
+  "pt": "Caverna da Semente do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 30 > 24 caracteres"
+  ]
  },
  "fortuitous_event_name5205": {
   "ch": "冥种幽窟",
   "en": "Nether Seed Cavern",
-  "pt": ""
+  "pt": "Caverna da Semente do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 30 > 24 caracteres"
+  ]
  },
  "fortuitous_event_name5301": {
   "ch": "羽化突破副本法阵",
   "en": "Reborn Breakthrough Dungeon Array",
-  "pt": ""
+  "pt": "Formação de Avanço de Renascimento da Masmorra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name6": {
   "ch": "山洞",
   "en": "Mountain Cave",
-  "pt": ""
+  "pt": "Caverna da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name60011": {
   "ch": "噬魂塔",
   "en": "Soul Devouring Pagoda",
-  "pt": ""
+  "pt": "Pagoda Devoradora de Almas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60012": {
   "ch": "噬魂塔",
   "en": "Soul Devouring Pagoda",
-  "pt": ""
+  "pt": "Pagoda Devoradora de Almas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60013": {
   "ch": "噬魂塔",
   "en": "Soul Devouring Pagoda",
-  "pt": ""
+  "pt": "Pagoda Devoradora de Almas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60014": {
   "ch": "噬魂塔",
   "en": "Soul Devouring Pagoda",
-  "pt": ""
+  "pt": "Pagoda Devoradora de Almas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60201": {
   "ch": "神秘人李四",
   "en": "Mystery Man Jo",
-  "pt": ""
+  "pt": "Homem Misterioso Li Si",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "fortuitous_event_name60202": {
   "ch": "蜃楼",
   "en": "Mirage",
-  "pt": ""
+  "pt": "Miragem",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60203": {
   "ch": "登仙之地",
   "en": "Transcendent Land",
-  "pt": ""
+  "pt": "Terra da Transcendência",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60204": {
   "ch": "登仙之地",
   "en": "Transcendent Land",
-  "pt": ""
+  "pt": "Terra da Transcendência",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60205": {
   "ch": "蜃楼",
   "en": "Mirage",
-  "pt": ""
+  "pt": "Miragem",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60301": {
   "ch": "送灵石",
   "en": "Gift of Spirit Stones",
-  "pt": ""
+  "pt": "Presente de Pedras Espirituais",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60401": {
   "ch": "兽群",
   "en": "Herd of Monsters",
-  "pt": ""
+  "pt": "Manada de Monstros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60501": {
   "ch": "凶恶妖兽",
   "en": "Evil Monster",
-  "pt": ""
+  "pt": "Monstro Maligno",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60601": {
   "ch": "冥窟",
   "en": "The Nether Cave",
-  "pt": ""
+  "pt": "Caverna do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name60702": {
   "ch": "噬魂剑",
   "en": "Soul Reaver",
-  "pt": ""
+  "pt": "Ceifador de Almas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "fortuitous_event_name61001": {
   "ch": "传授功法",
   "en": "Teach Martial Arts",
-  "pt": ""
+  "pt": "Ensinar Artes Marciais",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name61002": {
   "ch": "请教功法",
   "en": "Learn Martial Arts",
-  "pt": ""
+  "pt": "Aprender Artes Marciais",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name7": {
   "ch": "擎天寨",
   "en": "Qingtian Fort",
-  "pt": ""
+  "pt": "Fortaleza Qingtian",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "fortuitous_event_name72001": {
   "ch": "玄冥",
   "en": "Nether Obscurity",
-  "pt": ""
+  "pt": "Escuridão do Submundo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72317": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Residência de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72318": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Residência de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72319": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Residência de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72320": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Residência de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72321": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Residência de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72322": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Residência de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72323": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72324": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72325": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72326": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72327": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72328": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72329": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72330": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72331": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72332": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72333": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72334": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72335": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72336": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72337": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72338": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72339": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72340": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72341": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72342": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72343": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72344": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72345": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72346": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72347": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72348": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72349": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72350": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72351": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72352": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72353": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72354": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72355": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72356": {
   "ch": "银耳",
   "en": "Yin'er",
-  "pt": ""
+  "pt": "Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name72357": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72358": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72359": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72360": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72361": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72362": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "Morada de Yin'er",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name72363": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "A Morada de Yin'er",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name72364": {
   "ch": "银耳住处",
   "en": "Yin'er's Dwelling",
-  "pt": ""
+  "pt": "A Morada de Yin'er",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name73001": {
   "ch": "剑碑",
   "en": "Stele of sword",
-  "pt": ""
+  "pt": "Estela da Espada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "fortuitous_event_name75015": {
   "ch": "祖师云房",
   "en": "Master's Recluse Room",
-  "pt": ""
+  "pt": "Sala de Reclusão do Mestre",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "fortuitous_event_name77090": {
   "ch": "",
   "en": "Nil Root Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Raiz Nula",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "fortuitous_event_name78031": {
   "ch": "",
   "en": "Supreme Forge",
-  "pt": ""
+  "pt": "Forja Suprema",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name8": {
   "ch": "老者",
   "en": "Old Man",
-  "pt": ""
+  "pt": "Velho",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80001": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": ""
+  "pt": "Pequena Veia do Dragão",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80002": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": ""
+  "pt": "Pequeno Jardim de Ervas",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80003": {
   "ch": "小型矿藏",
   "en": "Small Ore Deposit",
-  "pt": ""
+  "pt": "Pequeno Depósito de Minério",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 27 > 23 caracteres"
+  ]
  },
  "fortuitous_event_name80004": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": ""
+  "pt": "Pequenas Ruínas",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80011": {
   "ch": "中型龙脉",
   "en": "Medium Dragon Vein",
-  "pt": ""
+  "pt": "Veia do Dragão Média",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80012": {
   "ch": "中型药园",
   "en": "Medium Herb Garden",
-  "pt": ""
+  "pt": "Jardim de Ervas Médio",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80013": {
   "ch": "中型矿藏",
   "en": "Medium Ore Deposit",
-  "pt": ""
+  "pt": "Depósito de Minério Médio",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "fortuitous_event_name80014": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": ""
+  "pt": "Ruínas Médias",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "fortuitous_event_name80021": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": ""
+  "pt": "Grande Veia do Dragão",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80022": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": ""
+  "pt": "Grande Jardim de Ervas",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80023": {
   "ch": "大型矿藏",
   "en": "Large Ore Deposit",
-  "pt": ""
+  "pt": "Grande Depósito de Minério",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 26 > 23 caracteres"
+  ]
  },
  "fortuitous_event_name80024": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": ""
+  "pt": "Grandes Ruínas",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80031": {
   "ch": "特大龙脉",
   "en": "Huge Dragon Vein",
-  "pt": ""
+  "pt": "Enorme Veia do Dragão",
+  "auto": "local/hy-mt2"
  },
  "fortuitous_event_name80032": {
   "ch": "特大药园",
   "en": "Huge Herb Garden",
-  "pt": ""
+  "pt": "Enorme Jardim de Ervas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "fortuitous_event_name80033": {
   "ch": "特大矿藏",
   "en": "Huge Ore Deposit",
-  "pt": ""
+  "pt": "Enorme Depósito de Minério",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 21 caracteres"
+  ]
  },
  "fortuitous_event_name80034": {
   "ch": "特大遗迹",
   "en": "Huge Ruins",
-  "pt": ""
+  "pt": "Enormes Ruínas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "fortuitous_event_name800501": {
   "ch": "妖戏",
   "en": "Demon's Arena",
-  "pt": ""
+  "pt": "Arena do Demônio",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name800502": {
   "ch": "丑道人",
   "en": "Ugly Sage",
-  "pt": ""
+  "pt": "Sábio Feio",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name801101": {
   "ch": "",
   "en": "Mysterious Lady",
-  "pt": ""
+  "pt": "Senhora Misteriosa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name801102": {
   "ch": "避难女子",
   "en": "Lady Seeking Refuge",
-  "pt": ""
+  "pt": "Senhora em Busca de Refúgio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name801111": {
   "ch": "避难女子",
   "en": "Lady Seeking Refuge",
-  "pt": ""
+  "pt": "Senhora em Busca de Refúgio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name801121": {
   "ch": "避难女子",
   "en": "Lady Seeking Refuge",
-  "pt": ""
+  "pt": "Senhora em Busca de Refúgio",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "fortuitous_event_name802000": {
   "ch": "",
   "en": "Treasure Digger",
-  "pt": ""
+  "pt": "Escavador de Tesouros",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "fortuitous_event_name802020": {
   "ch": "挖宝者住处",
   "en": "Treasure Digger's Dwelling",
-  "pt": ""
+  "pt": "Morada do Escavador de Tesouros",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802120": {
   "ch": "青幽·灵根幻树",
   "en": "Green Illusion Tree",
-  "pt": ""
+  "pt": "Árvore da Ilusão Verde",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802130": {
   "ch": "玄黄·灵根幻树",
   "en": "Golden Illusion Tree",
-  "pt": ""
+  "pt": "Árvore da Ilusão Dourada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802401": {
   "ch": "山中建筑",
   "en": "Mountain Building",
-  "pt": ""
+  "pt": "Construção na Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802402": {
   "ch": "荒凉道观",
   "en": "Desolate Temple",
-  "pt": ""
+  "pt": "Templo Desolado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802403": {
   "ch": "荒废小楼",
   "en": "Abandoned Pavilion",
-  "pt": ""
+  "pt": "Pavilhão Abandonado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802404": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name802405": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name802406": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name802407": {
   "ch": "兰幽住处",
   "en": "Lan You's Dwelling",
-  "pt": ""
+  "pt": "Morada de Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802408": {
   "ch": "风水要地",
   "en": "Feng Shui Nexus",
-  "pt": ""
+  "pt": "Eixo do Feng Shui",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802409": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name802410": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name802411": {
   "ch": "华丽楼阁",
   "en": "Majestic Mansion",
-  "pt": ""
+  "pt": "Mansão Majestosa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802412": {
   "ch": "风水要地",
   "en": "Feng Shui Nexus",
-  "pt": ""
+  "pt": "Eixo do Feng Shui",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802413": {
   "ch": "风水要地",
   "en": "Feng Shui Nexus",
-  "pt": ""
+  "pt": "Eixo do Feng Shui",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802414": {
   "ch": "兰幽住处",
   "en": "Lan You's Dwelling",
-  "pt": ""
+  "pt": "Morada de Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802415": {
   "ch": "兰幽住处",
   "en": "Lan You's Dwelling",
-  "pt": ""
+  "pt": "Morada de Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802416": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name802502": {
   "ch": "神秘女子",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802503": {
   "ch": "神秘女子",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802504": {
   "ch": "神秘修士",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802505": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802510": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802511": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802512": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802513": {
   "ch": "神秘修士",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802521": {
   "ch": "神秘修士",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802522": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802523": {
   "ch": "寒宫学府",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802524": {
   "ch": "神秘修士",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802525": {
   "ch": "向来痴",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802531": {
   "ch": "议论中的修士",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802532": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802533": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802534": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802535": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802551": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802552": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802553": {
   "ch": "向来痴",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802554": {
   "ch": "向来痴",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802555": {
   "ch": "丝萝小筑",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802556": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802557": {
   "ch": "向来痴",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802558": {
   "ch": "向来痴",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802559": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802560": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802561": {
   "ch": "天香",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802562": {
   "ch": "向来痴",
   "en": "A Change",
-  "pt": ""
+  "pt": "Uma Mudança",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802563": {
   "ch": "帝之花",
   "en": "Imperial Bloom",
-  "pt": ""
+  "pt": "Flor Imperial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802564": {
   "ch": "昆吾",
   "en": "Kunwu's Cut",
-  "pt": ""
+  "pt": "Corte de Kunwu",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802565": {
   "ch": "神目",
   "en": "Divine Eye Manifestation",
-  "pt": ""
+  "pt": "Manifestação do Olho Divino",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802566": {
   "ch": "斗魂",
   "en": "Restless Battle Soul",
-  "pt": ""
+  "pt": "Alma de Batalha Inquieta",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802567": {
   "ch": "请求",
   "en": "A Request",
-  "pt": ""
+  "pt": "Um Pedido",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name802568": {
   "ch": "围攻",
   "en": "Encircled",
-  "pt": ""
+  "pt": "Cercado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name9": {
   "ch": "星耀宫",
   "en": "Celestial Palace",
-  "pt": ""
+  "pt": "Palácio Celestial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fortuitous_event_name90001": {
   "ch": "冰夷",
   "en": "Bingyi",
-  "pt": ""
+  "pt": "Bingyi",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name90002": {
   "ch": "刑天",
   "en": "Xingtian",
-  "pt": ""
+  "pt": "Xingtian",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "fortuitous_event_name90003": {
   "ch": "木灵树界",
   "en": "Realm of Wood Spirit",
-  "pt": ""
+  "pt": "Reino do Espírito de Madeira",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 28 > 26 caracteres"
+  ]
  }
 }

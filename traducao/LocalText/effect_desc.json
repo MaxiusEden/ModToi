@@ -2,1021 +2,1228 @@
  "effect_desc100": {
   "ch": "无法使用身法",
   "en": "无法使用身法",
-  "pt": ""
+  "pt": "Não é possível usar a técnica de movimento",
+  "auto": "local/hy-mt2"
  },
  "effect_desc100006": {
   "ch": "每0.5秒造成5点伤害",
   "en": "每0.5秒造成5点伤害",
-  "pt": ""
+  "pt": "Causa 5 pontos de dano a cada 0,5 segundos",
+  "auto": "local/hy-mt2"
  },
  "effect_desc1000061": {
   "ch": "造成5点固定伤害",
   "en": "造成5点固定伤害",
-  "pt": ""
+  "pt": "Causa 5 pontos de dano fixo",
+  "auto": "local/hy-mt2"
  },
  "effect_desc100007": {
   "ch": "移速降低75%",
   "en": "移速降低75%",
-  "pt": ""
+  "pt": "Velocidade de movimento reduzida em 75%",
+  "auto": "local/hy-mt2"
  },
  "effect_desc110": {
   "ch": "死亡",
   "en": "死亡",
-  "pt": ""
+  "pt": "Morte",
+  "auto": "local/hy-mt2"
  },
  "effect_desc120": {
   "ch": "霸体",
   "en": "霸体",
-  "pt": ""
+  "pt": "Corpo invulnerável",
+  "auto": "local/hy-mt2"
  },
  "effect_desc130": {
   "ch": "无敌",
   "en": "无敌",
-  "pt": ""
+  "pt": "Invencível",
+  "auto": "local/hy-mt2"
  },
  "effect_desc140": {
   "ch": "失控",
   "en": "失控",
-  "pt": ""
+  "pt": "Fora de controle",
+  "auto": "local/hy-mt2"
  },
  "effect_desc200006": {
   "ch": "每0.1秒回复0.1%的血量",
   "en": "每0.1秒回复0.1%的血量",
-  "pt": ""
+  "pt": "A cada 0,1 segundo, recupera 0,1% da vida.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc2000061": {
   "ch": "回复0.1%的血量",
   "en": "回复0.1%的血量",
-  "pt": ""
+  "pt": "Restaura 0,1% da vida",
+  "auto": "local/hy-mt2"
  },
  "effect_desc2000071": {
   "ch": "晕眩7秒",
   "en": "晕眩7秒",
-  "pt": ""
+  "pt": "Tontura por 7 segundos",
+  "auto": "local/hy-mt2"
  },
  "effect_desc2000072": {
   "ch": "受到伤害提升200%，持续7秒",
   "en": "受到伤害提升200%，持续7秒",
-  "pt": ""
+  "pt": "O dano recebido aumenta em 200% por 7 segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc21500227": {
   "ch": "药灵捡取蘑菇的数量",
   "en": "The amount of mushrooms picked by Mushroom Man",
-  "pt": ""
+  "pt": "A quantidade de cogumelos colhidos pelo Homem Cogumelo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc2730014": {
   "ch": "玄龟护甲已冷却完毕，可以发挥作用。",
   "en": "Xuangui Shell is now available.",
-  "pt": ""
+  "pt": "A Carapaça de Xuangui agora está disponível.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc2730015": {
   "ch": "玄龟护甲正在冷却中，暂时无法发挥作用（伤害可以正常累计）。",
   "en": "Xuangui Shell is on cooldown, but your damage taken is still counted.",
-  "pt": ""
+  "pt": "A Carapaça de Xuangui está em tempo de recarga, mas o dano que você recebe ainda é contabilizado.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc275031": {
   "ch": "重明冲击已冷却完毕，可以发挥作用。",
   "en": "Chongming Charge is now available.",
-  "pt": ""
+  "pt": "A Carga de Chongming já está disponível.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc2750311": {
   "ch": "重明冲击正在冷却中，暂时无法发挥作用。",
   "en": "Chongming Charge is on cooldown.",
-  "pt": ""
+  "pt": "A Carga de Chongming está em tempo de recarga.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc282310": {
   "ch": "自食其果：吃下了自己种的毒蘑菇，损失<r>95%</r>的体力，造成的伤害降低<r>97%</r>",
   "en": "Had a bitter harvest by eating the poisonous mushrooms sown before. Lose <r>95%</r> Vitality, and all damage dealt reduce by <r>97%</r>",
-  "pt": ""
+  "pt": "Tive uma colheita amarga ao comer os cogumelos venenosos semeados anteriormente. Perco <r>95%</r> de Vitalidade, e todo o dano causado é reduzido em <r>97%</r>.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc300001": {
   "ch": "每秒造成火属性伤害",
   "en": "每秒造成火属性伤害",
-  "pt": ""
+  "pt": "Causa dano de fogo a cada segundo",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3000011": {
   "ch": "造成威力为50的火属性伤害",
   "en": "造成威力为50的火属性伤害",
-  "pt": ""
+  "pt": "Causa dano de fogo com poder de 50.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc31011": {
   "ch": "每秒对目标造成火属性伤害，持续7秒（可叠加）。",
   "en": "每秒对目标造成火属性伤害，持续7秒（可叠加）。",
-  "pt": ""
+  "pt": "Causa dano de fogo ao alvo a cada segundo, por 7 segundos (pode ser acumulado).",
+  "auto": "local/hy-mt2"
  },
  "effect_desc31021": {
   "ch": "每秒造成火属性伤害，持续7秒（可叠加）。",
   "en": "每秒造成火属性伤害，持续7秒（可叠加）。",
-  "pt": ""
+  "pt": "Causa dano de fogo por segundo, por 7 segundos (pode ser acumulado).",
+  "auto": "local/hy-mt2"
  },
  "effect_desc31031": {
   "ch": "提升自身的攻击，持续30秒。",
   "en": "提升自身的攻击，持续30秒。",
-  "pt": ""
+  "pt": "Aumenta o seu ataque por 30 segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3115111": {
   "ch": "每叠加一层降低10点移动速度。",
   "en": "每叠加一层降低10点移动速度。",
-  "pt": ""
+  "pt": "Cada camada adicional reduz a velocidade de movimento em 10 pontos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3116111": {
   "ch": "每叠加一层提升10点移动速度。",
   "en": "每叠加一层提升10点移动速度。",
-  "pt": ""
+  "pt": "Cada camada adicional aumenta a velocidade de movimento em 10 pontos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3117111": {
   "ch": "每层降低移动速度。",
   "en": "每层降低移动速度。",
-  "pt": ""
+  "pt": "Cada camada reduz a velocidade de movimento.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3117211": {
   "ch": "每层降低身法的灵力消耗。",
   "en": "每层降低身法的灵力消耗。",
-  "pt": ""
+  "pt": "Cada camada reduz o custo de Energia da técnica de movimento.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc312111": {
   "ch": "每层使受到的伤害加深。",
   "en": "Increase the inflicted target's damage taken.",
-  "pt": ""
+  "pt": "Aumenta o dano recebido pelo alvo afetado.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc312112": {
   "ch": "每层可提升自身的斩杀上限（对敌人造成刀法伤害后，若其体力低于斩杀上限则可立即将其斩杀）。",
   "en": "Increase your Execute's Vitality Threshold. When dealing Blade damage to an enemy with Vitality lower than the Vitality Threshold, you'll instantly kill this enemy.",
-  "pt": ""
+  "pt": "Aumente o limiar de Vitalidade para o seu Execute. Ao causar dano com a Lâmina em um inimigo cuja Vitalidade seja inferior a esse limiar, você o matará instantaneamente.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc313111": {
   "ch": "每层降低防御。",
   "en": "Reduce DEF.",
-  "pt": ""
+  "pt": "Reduza o DEF.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc313112": {
   "ch": "每层可提升自身对体力大于一定比例的敌人造成的额外伤害。",
   "en": "Increase your damage against enemies with Vitality above a certain percentage.",
-  "pt": ""
+  "pt": "Aumente o seu dano contra inimigos cuja Vitalidade esteja acima de uma determinada porcentagem.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3141111": {
   "ch": "受到持续伤害。",
   "en": "Receives damage over time.",
-  "pt": ""
+  "pt": "Recebe dano ao longo do tempo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3141112": {
   "ch": "可使敌人受到持续伤害（叠加多层伤害不变）。",
   "en": "Inflict damage over time. This damage won't change when there are multiple stacks.",
-  "pt": ""
+  "pt": "Causa dano ao longo do tempo. Esse dano não se altera quando há várias aplicações.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3141114": {
   "ch": "当流血层数达到指定层数时，可使敌人受到割裂效果，在其使用技能或移动时将受到额外伤害。",
   "en": "An enemy with enough stacks of Bleed will be inflicted with Rip. This enemy will receive extra damage every time they cast a skill or move.",
-  "pt": ""
+  "pt": "Um inimigo com bastantes acúmulos de Sangramento sofrerá o efeito de \"Rasgar\". Esse inimigo receberá dano adicional toda vez que usar uma habilidade ou realizar um movimento.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc314112": {
   "ch": "每层可提升自身对体力小于一定比例的敌人造成的伤害。",
   "en": "Increase your damage against enemies with Vitality below a certain percentage.",
-  "pt": ""
+  "pt": "Aumente o seu dano contra inimigos cuja Vitalidade esteja abaixo de uma determinada porcentagem.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc315111": {
   "ch": "在受到伤害时有概率会晕眩，层数越多，概率越高。",
   "en": "The inflicted target has a chance to be stunned when receiving damage. The more stacks, the greater the chance.",
-  "pt": ""
+  "pt": "O alvo atingido tem chance de ser atordoado ao receber dano. Quanto mais acúmulos houver, maior essa chance.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc315112": {
   "ch": "每次获得效果时可为自身叠加护盾值（护盾值可以抵消受到的伤害）。",
   "en": "Increase Shield Vitality every time you receive this effect. Shield Vitality is used to block incoming damage.",
-  "pt": ""
+  "pt": "Aumente a Vitalidade do Escudo toda vez que receber este efeito. A Vitalidade do Escudo é utilizada para bloquear o dano recebido.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3151121": {
   "ch": "护盾可以抵消你受到的伤害，护盾可多次叠加。",
   "en": "Shield (stackable) blocks incoming damage.",
-  "pt": ""
+  "pt": "O Escudo (empilhável) bloqueia o dano recebido.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc316111": {
   "ch": "每层增加受到的伤害。",
   "en": "Increase the inflicted target's damage taken.",
-  "pt": ""
+  "pt": "Aumenta o dano recebido pelo alvo afetado.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc316112": {
   "ch": "每层在自身使用掌法时，有概率在脚下产生一阵掌风，对附近的敌人造成伤害。",
   "en": "Every time you cast a Palm skill, you have a chance to generate a Palm Wind, which deals damage to nearby enemies.",
-  "pt": ""
+  "pt": "Toda vez que você usa uma habilidade da Palma, há uma chance de gerar um Vento da Palma, que causa dano aos inimigos próximos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3161123": {
   "ch": "对周围的敌人造成固定伤害。",
   "en": "Deal a fixed amount of damage to nearby enemies.",
-  "pt": ""
+  "pt": "Causa uma quantidade fixa de dano aos inimigos próximos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc317111": {
   "ch": "每层降低攻击力。",
   "en": "Reduce ATK.",
-  "pt": ""
+  "pt": "Reduza a ATQ.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc317112": {
   "ch": "每层可提升自身的攻击。",
   "en": "Increase ATK.",
-  "pt": ""
+  "pt": "Aumente a ATQ.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3171123": {
   "ch": "无法使用任何技能。（对<p>精英单位</p>及<r>大妖兽</r>无效）",
   "en": "The inflicted target can't cast any skills. This effect can't be inflicted on <p>elite monsters</p> or <r>Mythical Beasts</r>.",
-  "pt": ""
+  "pt": "O alvo afetado não poderá usar nenhuma habilidade. Este efeito não pode ser aplicado em <p>monstros de elite</p> ou <r>Feras Míticas</r>.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc32011": {
   "ch": "降低目标移动速度，并持续造成水属性伤害，持续3秒。",
   "en": "降低目标移动速度，并持续造成水属性伤害，持续3秒。",
-  "pt": ""
+  "pt": "Reduz a velocidade de movimento do alvo e causa dano de água continuamente por 3 segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc32021": {
   "ch": "对目标造成额外水属性伤害，伤害值为当前灵力值的百分比。",
   "en": "对目标造成额外水属性伤害，伤害值为当前灵力值的百分比。",
-  "pt": ""
+  "pt": "Causa dano adicional de água ao alvo, equivalente a uma porcentagem da Energia atual.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3202511": {
   "ch": "引爆所有敌人身上的剑气状态，每层剑气受到一次剑击伤害。",
   "en": "引爆所有敌人身上的剑气状态，每层剑气受到一次剑击伤害。",
-  "pt": ""
+  "pt": "Detona o estado de Aura de Espada em todos os inimigos; cada camada de Aura de Espada sofre dano de um golpe de espada.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3202513": {
   "ch": "引爆剑气时，目标每层剑气有概率额外受到1道剑击伤害。",
   "en": "引爆剑气时，目标每层剑气有概率额外受到1道剑击伤害。",
-  "pt": ""
+  "pt": "Ao detonar a Aura de Espada, o alvo tem uma chance de receber 1 golpe de espada adicional por camada de Aura de Espada.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc32031": {
   "ch": "回复自身的灵力。",
   "en": "回复自身的灵力。",
-  "pt": ""
+  "pt": "Restaura a própria Energia.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3220011": {
   "ch": "受到伤害时必定被暴击",
   "en": "The next incoming attack is guaranteed to be a critical strike.",
-  "pt": ""
+  "pt": "O próximo ataque será, com certeza, um golpe crítico.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3220021": {
   "ch": "每层可使防御&322002_jsfy&点，最多可叠加&322002_djcs&层。",
   "en": "DEF &322002_jsfy& for every stack (up to &322002_djcs& stacks)",
-  "pt": ""
+  "pt": "DEF &322002_jsfy& para cada pilha (até &322002_djcs& pilhas)",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3220031": {
   "ch": "每层可使防御&322003_jsfy&点，最多可叠加&322003_djcs&层",
   "en": "DEF &322003_jsfy& for every stack (up to &322003_djcs& stacks)",
-  "pt": ""
+  "pt": "DEF &322003_jsfy& para cada pilha (até &322003_djcs& pilhas)",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3221111": {
   "ch": "使用此技能造成伤害时可从伤害中吸取一部分至自身的体力。",
   "en": "This skill converts some of its damage done into your Vitality.",
-  "pt": ""
+  "pt": "Essa habilidade converte parte do dano causado em Vitalidade para você.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3221132": {
   "ch": "使用此技能每斩杀一个敌人，回复自身的体力。",
   "en": "For every enemy this skill executes, you'll restore some Vitality.",
-  "pt": ""
+  "pt": "Para cada inimigo que essa habilidade eliminar, você recuperará um pouco de Vitalidade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3221153": {
   "ch": "持续受到伤害并使附近的敌人可从此伤害中吸取一部分至其自身回复体力。",
   "en": "Receive damage over time. Nearby enemies will also convert some of this damage into their Vitality.",
-  "pt": ""
+  "pt": "Recebe dano ao longo do tempo. Inimigos próximos também convertem parte desse dano em sua Vitalidade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3221161": {
   "ch": "此技能在每斩杀一个敌人时可降低冷却时间。",
   "en": "For every enemy this skill executes, the cooldown of this skill will be reduced.",
-  "pt": ""
+  "pt": "Para cada inimigo que essa habilidade eliminar, o tempo de recarga da habilidade será reduzido.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3230011": {
   "ch": "每移动&323001_ydjl&距离，将受到一次威力为&323001_shwl&的$s_jian$伤害。",
   "en": "Receive &323001_shwl& $s_jian$ damage for every &323001_ydjl& movement distance.",
-  "pt": ""
+  "pt": "Receba &323001_shwl& $s_jian$ pontos de dano por cada &323001_ydjl& de distância percorrida.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3230021": {
   "ch": "每一层可使受到的伤害提升&323002_tssh&%，并且技能射程降低&323002_jdsc&%，最多叠加&323002_djcs&层。",
   "en": "Each stack increases damage taken by &323002_tssh&% and reduces Skill Range by &323002_jdsc&%. Stacks up to &323002_djcs& times.",
-  "pt": ""
+  "pt": "Cada pilha aumenta o dano recebido em &323002_tssh&% e reduz o alcance da Habilidade em &323002_jdsc&%. É possível acumular até &323002_djcs& pilhas.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3230031": {
   "ch": "每一层可使受到的伤害提升&323003_tssh&%，并且技能射程降低&323003_jdsc&%，最多叠加&323003_djcs&层。",
   "en": "Each stack increases damage taken by &323003_tssh&% and reduces Skill Range by &323003_jdsc&%. Stacks up to &323003_djcs& times.",
-  "pt": ""
+  "pt": "Cada pilha aumenta o dano recebido em &323003_tssh&% e reduz o Alcance da Habilidade em &323003_jdsc&%. É possível acumular até &323003_djcs& pilhas.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3231126": {
   "ch": "当使用突进类绝技时，会消耗充能点数，充能点数会随时间缓慢恢复。",
   "en": "Every time you use a dash skill, you'll consume Recharging Points, which automatically recover over time.",
-  "pt": ""
+  "pt": "Toda vez que você usar uma habilidade de dash, consumirá Pontos de Recarga, que se recuperam automaticamente com o tempo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3231141": {
   "ch": "消耗最后一点充能时，消耗所有破势。",
   "en": "All stacks of Destruction will be consumed when your Recharging Points are used up.",
-  "pt": ""
+  "pt": "Todos os acúmulos de Destruição serão consumidos quando seus Pontos de Recarga se esgotarem.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3231163": {
   "ch": "受到龙击效果后，将会受到持续伤害，伤害威力为此技能的威力百分比，每叠加一层，伤害也提升一倍。",
   "en": "受到龙击效果后，将会受到持续伤害，伤害威力为此技能的威力百分比，每叠加一层，伤害也提升一倍。",
-  "pt": ""
+  "pt": "Após ser afetado pelo efeito de Ataque de Dragão, o alvo sofrerá dano contínuo. A intensidade do dano corresponde a uma porcentagem da potência desta habilidade; a cada camada adicional, o dano também dobra.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3250023": {
   "ch": "每一层可使造成的伤害降低&325002_jdsh&%，且每秒受到一次威力为&325002_shwl&的$s_zhang$伤害。",
   "en": "Every stack reduces damage by &325002_jdsh&%. Receive &325002_shwl& $s_zhang$ damage every second.",
-  "pt": ""
+  "pt": "Cada pilha reduz o dano em &325002_jdsh&%. Você receberá &325002_shwl& $s_zhang$ de dano a cada segundo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3250033": {
   "ch": "每一层可使造成的伤害降低&325003_jdsh&%，且每秒受到一次威力为&325003_shwl&的$s_zhang$伤害。",
   "en": "Every stack reduces damage by &325003_jdsh&%. Receive &325003_shwl& $s_zhang$ damage every second.",
-  "pt": ""
+  "pt": "Cada pilha reduz o dano em &325003_jdsh&%. Você receberá &325003_shwl& $s_zhang$ de dano a cada segundo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3251144": {
   "ch": "可临时提升自身的防御。",
   "en": "Temporarily increase DEF.",
-  "pt": ""
+  "pt": "Aumente temporariamente o DEF.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3261134": {
   "ch": "每施放一次技能，在本场战斗中，此技能的威力会降低。",
   "en": "During the current battle, this skill's power decreases every time it's cast.",
-  "pt": ""
+  "pt": "Durante a batalha atual, o poder dessa habilidade diminui a cada vez que é utilizada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3261135": {
   "ch": "按住鼠标即可开始蓄力，蓄力时会降低自身的移动速度，松开鼠标即可停止蓄力并施放技能，蓄力时间越长，技能的威力越高、射程（范围）越大。\n在蓄力达到最大时间的瞬间施放技能，即可达成完美蓄力，此次施放的技能将会获得额外的威力提升。",
   "en": "Press and hold the mouse button to charge this skill, during which time, your Agility is reduced. Release the button to cast this skill. The longer you charge this skill, the higher power and longer range (larger effect area) of this skill.\nA Perfect Charge is achieved if you release the button just when the max charging time is reached, increasing the skill power.",
-  "pt": ""
+  "pt": "Pressione e mantenha pressionado o botão do mouse para realizar uma carga dessa habilidade; durante esse período, sua Agilidade é reduzida. Solte o botão para lançar a habilidade. Quanto mais tempo você carregar essa habilidade, maior será seu poder e maior o alcance (área de efeito) da mesma.\nA Carga Perfeita é obtida ao soltar o botão exatamente quando o tempo máximo de carga é atingido, aumentando ainda mais o poder da habilidade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3261136": {
   "ch": "按住鼠标即可开始蓄力，蓄力时会降低自身的移动速度，松开鼠标即可停止蓄力并施放技能，蓄力时间越长，技能的威力越高、射程（范围）越大。\n在蓄力达到最大时间的瞬间施放技能，即可达成完美蓄力，此次施放的技能将会获得额外的威力提升。",
   "en": "Press and hold the mouse button to charge this skill, during which time, your Agility is reduced. Release the button to cast this skill. The longer you charge this skill, the higher power and longer range (larger effect area) of this skill.\nA Perfect Charge is achieved if you release the button just when the max charging time is reached, increasing the skill power.",
-  "pt": ""
+  "pt": "Pressione e mantenha pressionado o botão do mouse para realizar uma carga nesta habilidade; durante esse tempo, sua Agilidade é reduzida. Solte o botão para lançar a habilidade. Quanto mais tempo você carregar, maior será o seu poder e maior o alcance (área de efeito) da habilidade.\nUma Carga Perfeita é alcançada ao soltar o botão exatamente no final do tempo máximo de carga, o que aumenta ainda mais o poder da habilidade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc33011": {
   "ch": "直接秒杀目标（对精英怪、大妖兽及角色单位无效）。",
   "en": "直接秒杀目标（对精英怪、大妖兽及角色单位无效）。",
-  "pt": ""
+  "pt": "Elimina o alvo instantaneamente (não funciona em monstros de elite, Feras Míticas e personagens).",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc33021": {
   "ch": "对目标造成额外的雷属性伤害，并使其麻痹1秒。",
   "en": "对目标造成额外的雷属性伤害，并使其麻痹1秒。",
-  "pt": ""
+  "pt": "Causa dano adicional de relâmpago ao alvo e o paralisa por 1 segundo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc33031": {
   "ch": "提升自身的雷灵根，持续30秒。",
   "en": "提升自身的雷灵根，持续30秒。",
-  "pt": ""
+  "pt": "Aumenta a sua Raiz de Relâmpago por 30 segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3310011": {
   "ch": "每一层可提升自身的伤害&331003_tssh&%，且每秒回复&331003_hftl&点体力，持续&331003_cxsj&秒。",
   "en": "Every stack increases damage by &331003_tssh&% and restores &331003_hftl& Vitality every second for &331003_cxsj&s.",
-  "pt": ""
+  "pt": "Cada pilha aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vitalidade por segundo por &331003_cxsj&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc3310023": {
   "ch": "每一层可降低&331001_jsfy&点防御，最多可叠加&331001_djcs&层。",
   "en": "Each stack reduces DEF by &331001_jsfy& (up to &331001_djcs& stacks).",
-  "pt": ""
+  "pt": "Cada pilha reduz o DEF em &331001_jsfy& (até &331001_djcs& pilhas no total).",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3310033": {
   "ch": "每一层可提升自身的伤害&331002_tssh&%，且每秒回复&331002_hftl&点体力，持续&331002_cxsj&秒。",
   "en": "Every stack increases damage by &331002_tssh&% and restores &331002_hftl& Vitality every second for &331002_cxsj&s.",
-  "pt": ""
+  "pt": "Cada pilha aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vitalidade por segundo por &331002_cxsj&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc3321111": {
   "ch": "大幅提升自身的攻击与防御。",
   "en": "Greatly increase ATK and DEF.",
-  "pt": ""
+  "pt": "Aumenta significativamente a ATQ e a DEF.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3321112": {
   "ch": "刀魔之武技，快速向前方水平方向斩出一道巨刃，对斩到的敌人造成伤害。",
   "en": "A Martial Skill: Slash forward to deal damage.",
-  "pt": ""
+  "pt": "Técnica Marcial: Desfere um corte para a frente, causando dano.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3321113": {
   "ch": "刀魔之绝技，对射程范围内的所有敌人降下一道血斩，对命中的敌人造成伤害。",
   "en": "A Special Skill: Unleash a blood slash at all enemies within range to deal damage.",
-  "pt": ""
+  "pt": "Técnica Especial: Libera um corte de sangue contra todos os inimigos ao alcance, causando dano.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3321122": {
   "ch": "每斩杀1个敌人可获得1层霸道，当达到一定层数时可施展霸道斩。",
   "en": "You'll receive 1 stack of Overbearing every time you execute an enemy. You can cast Overbearing Cleave once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Dominador toda vez que eliminar um inimigo. Quando tiver acúmulos suficientes, poderá lançar o Corte Dominador.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3331114": {
   "ch": "每杀死1个带有破甲的单位可获得1层龙魂，达到一定层数时可施展鬼狱枪。",
   "en": "You'll receive 1 stack of Dragon Soul every time you kill an enemy inflicted with Break Armor. You can cast Hellspear once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 camada de Alma do Dragão toda vez que matar um inimigo afetado pelo efeito \"Quebra de Armadura\". Quando tiver camadas suficientes, poderá lançar a habilidade Lança Infernal.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3341124": {
   "ch": "每个带有流血的敌人死亡时获得1层剑魂，达到一定层数时可施展万神剑。",
   "en": "You'll receive 1 stack of Sword Soul every time an enemy inflicted with Bleed dies. You can cast Divinity Sword once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Alma da Espada sempre que um inimigo sofrendo de Sangramento morrer. Quando tiver acúmulos suficientes, poderá lançar a Espada da Divindade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3351124": {
   "ch": "每受到1次伤害获得1层沸血，达到一定层数后可施展巨王拳。",
   "en": "You'll receive 1 stack of Boiling Blood every time you receive damage. You can cast Titan Fist once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Sangue Fervente toda vez que sofrer dano. Quando tiver acúmulos suficientes, poderá lançar o Punho de Titã.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3361113": {
   "ch": "掌法达成完美蓄力时获得1层归神，达到一定层数时可施展归神掌。",
   "en": "You'll receive 1 stack of Eternal Rest every time your Palm skill achieves a Perfect Charge. You can cast Eternal Rest Palm once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Descanso Eterno sempre que sua habilidade Palma alcançar uma Carga Perfeita. Quando tiver acúmulos suficientes, poderá lançar a Palma do Descanso Eterno.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3371112": {
   "ch": "每使敌人损失一定灵力可获得1层灵虚，达到一定层数时可施展冲虚指。",
   "en": "You'll receive 1 stack of Spiritual Burst every time you cause enemies to lose a certain amount of Energy. You can cast Spiritual Burst Finger once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Rajada Espiritual sempre que fizer com que os inimigos percam uma certa quantidade de Energia. Quando tiver acúmulos suficientes, poderá lançar o Dedo da Rajada Espiritual.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc34011": {
   "ch": "使目标及周围的敌人降低移动速度，持续3秒。",
   "en": "使目标及周围的敌人降低移动速度，持续3秒。",
-  "pt": ""
+  "pt": "Reduz a velocidade de movimento do alvo e dos inimigos ao redor por 3 segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc34021": {
   "ch": "对目标及周围的敌人造成风属性伤害。",
   "en": "对目标及周围的敌人造成风属性伤害。",
-  "pt": ""
+  "pt": "Causa dano de vento ao alvo e aos inimigos ao redor.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc34031": {
   "ch": "提升自身的会心，持续30秒。",
   "en": "提升自身的会心，持续30秒。",
-  "pt": ""
+  "pt": "Aumenta a sua Chance Crítica por 30 segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc341111": {
   "ch": "每一层造成持续伤害。",
   "en": "Deal damage over time.",
-  "pt": ""
+  "pt": "Causa dano ao longo do tempo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc341112": {
   "ch": "每一层可提升一定比例自身造成的伤害。",
   "en": "Increase your damage by a certain percentage.",
-  "pt": ""
+  "pt": "Aumente o seu dano em uma determinada porcentagem.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3411131": {
   "ch": "在使用持续施法的技能时，可额外增加持续时间（需要持续按住鼠标），但在技能施放结束之后，将会进入一段时间的虚弱状态（一定比例于透支时间）。",
   "en": "The duration of a Continuous Skill can be extended (You must press and hold the mouse button). After the skill ends, you'll be inflicted with Weakened that lasts some time. The duration of Weakened is determined by the duration of the extension.",
-  "pt": ""
+  "pt": "A duração de uma Habilidade Contínua pode ser prolongada (é necessário pressionar e segurar o botão do mouse). Após o término da habilidade, você será afetado pelo efeito \"Enfraquecido\", que dura por algum tempo. A duração desse efeito depende do período de prolongamento da habilidade.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3411136": {
   "ch": "降低自身的伤害和移动速度。",
   "en": "Your damage and Agility are reduced.",
-  "pt": ""
+  "pt": "O seu dano e sua Agilidade são reduzidos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc342111": {
   "ch": "每层降低移动速度和攻击速度。",
   "en": "Reduce Agility and Attack Speed.",
-  "pt": ""
+  "pt": "Reduz a Agilidade e a Velocidade de Ataque.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3421113": {
   "ch": "冻结的敌人无法行动。  ",
   "en": "The inflicted target can't take any action.  ",
-  "pt": ""
+  "pt": "O alvo afetado não pode realizar nenhuma ação.  ",
+  "auto": "local/hy-mt2"
  },
  "effect_desc342112": {
   "ch": "每层可提升自身的灵力回复。",
   "en": "Increase your Energy Recovery.",
-  "pt": ""
+  "pt": "Aumente sua Recuperação de Energia.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc342113": {
   "ch": "爆灵湖可激发体内的灵力运转速度，在爆灵湖范围内，可提升灵技和绝技的威力，且降低蓄力时间，但需要额外消耗更多的灵力。",
   "en": "Inside the Energy Pond, the power of your Spiritual Skills and Special Skills will increase, and your skill charging time will be shortened. But you must consume more Energy to cast skills.",
-  "pt": ""
+  "pt": "Dentro do Lago de Energia, o poder das suas Técnicas Espirituais e Técnicas Especiais aumentará, e o tempo de carregamento das habilidades será reduzido. Porém, você precisará consumir mais Energia para usar as habilidades.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc342114": {
   "ch": "按住鼠标即可开始蓄力，蓄力时会降低自身的移动速度，松开鼠标即可停止蓄力并施放技能，蓄力时间越长，技能的威力越高、射程（范围）越大。",
   "en": "Press and hold the mouse button to charge this skill, during which time, your Agility is reduced. Release the button to cast this skill. The longer you charge this skill, the higher power and longer range (larger effect area) of this skill.",
-  "pt": ""
+  "pt": "Mantenha pressionado o botão do mouse para carregar essa habilidade; durante esse tempo, sua Agilidade será reduzida. Solte o botão para lançar a habilidade. Quanto mais você carregar essa habilidade, maior será seu Poder e maior também o alcance (área de efeito) da mesma.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc343111": {
   "ch": "每秒有一定概率受到雷闪，层数越高伤害越高。",
   "en": "The inflicted target has a chance to receive a lighting strike every second. The more stacks, the higher the damage.",
-  "pt": ""
+  "pt": "O alvo afetado tem chance de ser atingido por um raio a cada segundo. Quanto mais acúmulos houver, maior será o dano.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3431112": {
   "ch": "被麻痹的敌人无法行动。",
   "en": "The inflicted target can't take any action.",
-  "pt": ""
+  "pt": "O alvo afetado não pode realizar nenhuma ação.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc343112": {
   "ch": "每间隔一定时间随机向附近的数个敌人施放一道雷电打击，造成伤害（层数越多，伤害越高）。",
   "en": "Attack random enemies nearby with lighting periodically. The more stacks, the higher the damage.",
-  "pt": ""
+  "pt": "Ataca inimigos aleatórios próximos com raios periodicamente. Quanto mais acúmulos houver, maior o dano.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc344111": {
   "ch": "每层降低移动速度。",
   "en": "Reduce Agility.",
-  "pt": ""
+  "pt": "Reduza a Agilidade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc344112": {
   "ch": "施放风系技能时，有概率生成一道旋风，层数越多，概率越高。",
   "en": "Every time you cast a Wind skill, you have a chance to generate a whirlwind. The more stacks, the greater the chance.",
-  "pt": ""
+  "pt": "Toda vez que você usa uma habilidade relacionada ao Vento, há uma chance de gerar um redemoinho. Quanto mais cargas acumuladas, maior essa chance.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc345111": {
   "ch": "每层可降低移动速度和伤害。",
   "en": "Reduce Agility and damage.",
-  "pt": ""
+  "pt": "Reduza a Agilidade e o dano.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc345112": {
   "ch": "每层可减少一定点数的伤害。",
   "en": "Reduce damage taken by a certain amount.",
-  "pt": ""
+  "pt": "Reduz o dano recebido em uma determinada quantidade.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc346111": {
   "ch": "每层造成持续伤害和减速。",
   "en": "Deal damage over time and slow the target.",
-  "pt": ""
+  "pt": "Causa dano ao longo do tempo e reduz a velocidade do alvo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc346112": {
   "ch": "在使用木属性技能时，每层有一定概率召唤一只小花妖。",
   "en": "Every time you cast a Wood skill, you have a chance to summon a Small Flower Faerie.",
-  "pt": ""
+  "pt": "Toda vez que você usar uma habilidade relacionada à Madeira, terá a chance de invocar uma Pequena Fada das Flores.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3461128": {
   "ch": "小型单位，不可移动，通过喷射花蕊技能打击敌人。",
   "en": "Small unit that can't move. It deals damage by shooting Flower Buds.",
-  "pt": ""
+  "pt": "Unidade pequena que não pode se mover. Ela causa dano ao atirar Botões de Flor.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc35011": {
   "ch": "降低目标的防御，持续7秒。",
   "en": "降低目标的防御，持续7秒。",
-  "pt": ""
+  "pt": "Reduz a defesa do alvo por 7 segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc35021": {
   "ch": "对目标及周围的敌人造成威力为150的土属性伤害。",
   "en": "对目标及周围的敌人造成威力为150的土属性伤害。",
-  "pt": ""
+  "pt": "Causa dano de terra com poder de 150 ao alvo e aos inimigos ao redor.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc35031": {
   "ch": "提升自身的防御，持续30秒。",
   "en": "提升自身的防御，持续30秒。",
-  "pt": ""
+  "pt": "Aumenta a própria defesa por 30 segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3551125": {
   "ch": "移动速度较慢，使用双拳重击地面造成伤害。",
   "en": "Unit with low Agility. It punches the ground with its fists to deal damage.",
-  "pt": ""
+  "pt": "Unidade com baixa Agilidade. Ela soca o chão com os punhos para causar dano.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3561113": {
   "ch": "被缠绕的敌人无法移动。",
   "en": "The inflicted target can't move.",
-  "pt": ""
+  "pt": "O alvo afetado não pode se mover.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3561124": {
   "ch": "可提升小花妖的攻击伤害、攻击距离及攻击速度，且最大体力值翻倍，回复所有体力，并使其召唤持续时间增加&56112_cxsj&秒。",
   "en": "Increase the Small Flower Faerie's Attack Power, Attack Range, and Attack Speed. Also double its Max Vitality and restore its Vitality to full. The Small Flower Faerie will exist for &56112_cxsj& more seconds.",
-  "pt": ""
+  "pt": "Aumenta o Poder de Ataque, o alcance de ataque e a Velocidade de Ataque da Pequena Fada das Flores. Além disso, dobra-se sua Vitalidade Máx. e sua Vitalidade é restaurada completamente. A Pequena Fada das Flores permanecerá presente por &56112_cxsj& segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3561144": {
   "ch": "可提升小花妖的技能弹道数量及攻击速度，且最大体力值翻倍，回复所有体力，并使其召唤持续时间增加&56112_cxsj&秒。",
   "en": "Increase the Small Flower Faerie's projectile quantity and Attack Speed. Also double its Max Vitality and restore its Vitality to full. The Small Flower Faerie will exist for &56112_cxsj& more seconds.",
-  "pt": ""
+  "pt": "Aumente a quantidade de projéteis e a Velocidade de Ataque da Pequena Fada das Flores. Além disso, dobre sua Vitalidade Máx. e restaure toda a sua Vitalidade. A Pequena Fada das Flores permanecerá por &56112_cxsj& segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3561154": {
   "ch": "提升敌人受到的毒刺的伤害。",
   "en": "The inflicted target receives more damage from Poisonous Thorn.",
-  "pt": ""
+  "pt": "O alvo atingido recebe mais dano do Espinho Venenoso.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3561163": {
   "ch": "可提升小花妖的攻击速度，并且技能在命中敌人时会爆开，造成额外的范围伤害，最大体力值翻倍，回复所有体力，并使其召唤持续时间增加&56112_cxsj&秒。",
   "en": "Increase the Small Flower Faerie's Attack Speed. Upon hitting an enemy, its skill will explode, dealing extra AoE damage. Also double its Max Vitality and restore its Vitality to full. The Small Flower Faerie will exist for &56112_cxsj& more seconds.",
-  "pt": ""
+  "pt": "Aumenta a Velocidade de Ataque da Pequena Fada das Flores. Ao atingir um inimigo, sua habilidade explode, causando dano adicional em área. Além disso, a Vitalidade Máx. dela também é duplicada e sua Vitalidade é restaurada completamente. A Pequena Fada das Flores permanecerá ativa por mais &56112_cxsj& segundos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc36011": {
   "ch": "对目标及其周围的敌人每秒造成木属性伤害，持续5秒。",
   "en": "对目标及其周围的敌人每秒造成木属性伤害，持续5秒。",
-  "pt": ""
+  "pt": "Causa dano de madeira ao alvo e aos inimigos ao redor, a cada segundo, por 5 segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc36021": {
   "ch": "对目标造成额外木属性伤害，伤害值为最大体力值的百分比。",
   "en": "对目标造成额外木属性伤害，伤害值为最大体力值的百分比。",
-  "pt": ""
+  "pt": "Causa dano adicional de madeira ao alvo, equivalente a uma porcentagem da Vitalidade Máx.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc36031": {
   "ch": "回复自身的体力。",
   "en": "回复自身的体力。",
-  "pt": ""
+  "pt": "Restaura a própria Vitalidade.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3611122": {
   "ch": "每当有一个敌人在烈焰中死亡时可获得1层火神，达到一定层数时可施展烈火凤。",
   "en": "You'll receive 1 stack of Fire Deity every time an enemy dies in fiery flame. You can cast Fire Phoenix once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Divindade do Fogo toda vez que um inimigo morrer dentro de uma chama ardente. Quando tiver acúmulos suficientes, poderá invocar a Fênix de Fogo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3621112": {
   "ch": "击杀被冻结的敌人可获得1层冰眼，达到一定层数时可施展冰天眼。",
   "en": "You'll receive 1 stack of Icy Eye every time you kill an enemy inflicted with Freeze. You can cast Heavenly Icy Eye once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Olhar Gélido cada vez que matar um inimigo afetado pelo Congelamento. Quando tiver acúmulos suficientes, poderá conjurar o Olhar Gélido Celestial.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3631112": {
   "ch": "九天玄雷，焚净阴邪！",
   "en": "The heavenly lightning eradicates all evil!",
-  "pt": ""
+  "pt": "O relâmpago celestial erradica todo o maligno!",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3631122": {
   "ch": "每次引发雷击可获得1层雷罚，达到一定层数时可施展雷罚阵。",
   "en": "You'll receive 1 stack of Lightning Punishment every time you trigger a Lightning Bolt. You can cast Thunderous Punishment once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Relâmpago Castigador toda vez que ativar um Raio. Quando tiver acúmulos suficientes, poderá conjurar o Castigo Trovejante.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3641112": {
   "ch": "旋风杀死敌人时可获得1层风神，达到一定层数时可施展极风暴。",
   "en": "You'll receive 1 stack of Wind God every time the whirlwind kills an enemy. You can cast Arctic Storm once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Divindade do Vento cada vez que o redemoinho matar um inimigo. Quando tiver acúmulos suficientes, poderá conjurar a Tempestade do Ártico.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3641124": {
   "ch": "在持续施法时每秒可获得1层逆空，达到一定层数时可施展逆空界。",
   "en": "You'll receive 1 stack of Bullet Time for every second your Continuous Skill lasts. You can cast Temporal Wind Field once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Tempo de Bala a cada segundo que sua Habilidade Contínua permanecer ativa. Você poderá lançar o Domínio do Vento Temporal quando tiver acúmulos suficientes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3651122": {
   "ch": "大型单位，移动速度较慢，使用大锤向前方发出冲击波，死亡时会造成大震爆，对范围内的敌人造成伤害。",
   "en": "Large unit with low Agility. It uses its hammer to unleash blast waves forward. When it dies, it'll trigger a blast to deal damage to nearby enemies.",
-  "pt": ""
+  "pt": "Unidade de grande porte com Agilidade baixa. Ela usa seu martelo para emitir ondas de choque para a frente. Quando morre, dispara uma explosão que causa dano aos inimigos próximos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3661112": {
   "ch": "当毒伤杀死敌人时可获得1层毒蚀，达到一定层数时可施展毒龙花。",
   "en": "You'll receive 1 stack of Erosive Poison every time an enemy is killed by Poison Damage. You can cast Poisonous Dragon Flower once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 pilha de Veneno Erosivo toda vez que um inimigo for morto por Dano de Veneno. Quando tiver pilhas suficientes, poderá conjurar a Flor do Dragão Venenosa.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3661113": {
   "ch": "吞噬可直接消灭普通单位，吞噬敌人之后，需要一些时间进行消化敌人的体力，在消化时无法进行其它行为，每秒可消化攻击的&66111_xhwl&%的体力值。",
   "en": "Devour kills normal monsters instantly. Every time the unit devours an enemy, it'll take some time to digest it, during which time, the unit can't take other action. (&66111_xhwl&% of ATK) Vitality is digested every second.",
-  "pt": ""
+  "pt": "Devorar mata monstros normais instantaneamente. Sempre que a unidade devora um inimigo, leva algum tempo para digeri-lo; durante esse período, a unidade não pode realizar outras ações. (&66111_xhwl&% do ATQ) de Vitalidade é digerida a cada segundo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3661119": {
   "ch": "大型单位，不可移动，可以吞噬普通单位。",
   "en": "Large unit that can't move. It devours normal monsters.",
-  "pt": ""
+  "pt": "Unidade grande que não consegue se mover. Ela devora monstros comuns.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc3661124": {
   "ch": "大型单位，不可移动，可以发射花瓣攻击敌人，并且攻击有概率将敌人缠绕。",
   "en": "Large unit that can't move. It shoots Flower Petals to attack enemies with a chance to inflict Entangle.",
-  "pt": ""
+  "pt": "Unidade grande que não pode se mover. Ela dispara Pétalas de Flor para atacar inimigos, com chance de aplicar Emaranhar.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc38006103": {
   "ch": "使自身的所有技能威力提升&38000602_zjwl&%",
   "en": "Increase the power of all your skills by &38000602_zjwl&%",
-  "pt": ""
+  "pt": "Aumente o poder de todas as suas habilidades em &38000602_zjwl&%.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc39000026": {
   "ch": "永久燃烧，每层造成&39000027_wl&威力伤害，每1000点念力额外增加&39000027_wltg&%",
   "en": "A fire that never extinguishes. Every stack deals &39000027_wl& damage; can be increased by &39000027_wltg&% every 1000 Focus.",
-  "pt": ""
+  "pt": "Um fogo que nunca se apaga. Cada pilha causa &39000027_wl& de dano; pode ser aumentado em &39000027_wltg&% a cada 1000 de Foco.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc39000803": {
   "ch": "每次对拥有此效果的单位造成伤害时，使自身身法冷却时间&39000804_sfcd&秒",
   "en": "&39000804_sfcd&s your Motion Skill Cooldown upon every time you deal damage to a unit with this effect.",
-  "pt": ""
+  "pt": "Reduz em &39000804_sfcd&s o tempo de recarga da sua Técnica de Movimento toda vez que você causar dano a uma unidade com este efeito.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc400001": {
   "ch": "攻击力提升，回复了部分状态，并暂时减少了冥气侵蚀程度",
   "en": "Increase ATK, recover some stats, and temporarily reduce the corruption degree of Nether Air.",
-  "pt": ""
+  "pt": "Aumenta o ATQ, restaura alguns atributos e reduz temporariamente o grau de corrupção do Ar do Submundo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4100001": {
   "ch": "回复200体力",
   "en": "回复200体力",
-  "pt": ""
+  "pt": "Restaura 200 de Vitalidade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100002": {
   "ch": "回复500体力",
   "en": "回复500体力",
-  "pt": ""
+  "pt": "Restaura 500 de Vitalidade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100003": {
   "ch": "回复200灵力",
   "en": "回复200灵力",
-  "pt": ""
+  "pt": "Restaura 200 de Energia",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100004": {
   "ch": "回复500灵力",
   "en": "回复500灵力",
-  "pt": ""
+  "pt": "Restaura 500 de Energia",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100005": {
   "ch": "增加200攻击",
   "en": "增加200攻击",
-  "pt": ""
+  "pt": "Aumenta o ataque em 200",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100006": {
   "ch": "增加200防御",
   "en": "增加200防御",
-  "pt": ""
+  "pt": "Aumenta a defesa em 200",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4100011": {
   "ch": "回复体力：{0}",
   "en": "回复体力：{0}",
-  "pt": ""
+  "pt": "Restaura Vitalidade: {0}",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111002": {
   "ch": "提升剑击的伤害威力。",
   "en": "提升剑击的伤害威力。",
-  "pt": ""
+  "pt": "Aumenta o poder de dano dos ataques com espada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111006": {
   "ch": "提升剑影的伤害威力。",
   "en": "提升剑影的伤害威力。",
-  "pt": ""
+  "pt": "Aumenta o poder de dano da Sombra da Espada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111008": {
   "ch": "引爆剑影时，每层剑心有概率额外生成一道剑影。",
   "en": "引爆剑影时，每层剑心有概率额外生成一道剑影。",
-  "pt": ""
+  "pt": "Ao detonar a Sombra da Espada, cada camada do Coração da Espada tem uma chance de gerar uma Sombra da Espada adicional.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111104": {
   "ch": "每次受到伤害时，有概率立即减少身法的冷却。",
   "en": "每次受到伤害时，有概率立即减少身法的冷却。",
-  "pt": ""
+  "pt": "Sempre que sofre dano, há uma chance de reduzir imediatamente a recarga da Técnica de Movimento.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111106": {
   "ch": "每次受到伤害时，有概率立即召唤一道剑击随机打击附近的敌人。",
   "en": "每次受到伤害时，有概率立即召唤一道剑击随机打击附近的敌人。",
-  "pt": ""
+  "pt": "Sempre que sofrer dano, há uma chance de invocar imediatamente um golpe de espada que atinge inimigos próximos aleatoriamente.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111108": {
   "ch": "每次受到伤害时，有概率为自身叠加一层剑心。",
   "en": "每次受到伤害时，有概率为自身叠加一层剑心。",
-  "pt": ""
+  "pt": "Sempre que sofrer dano, há uma chance de acumular um nível de Coração da Espada em si mesmo.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111202": {
   "ch": "每次使用身法后，将会降低下次所受到的伤害。",
   "en": "每次使用身法后，将会降低下次所受到的伤害。",
-  "pt": ""
+  "pt": "Sempre que você usar a técnica de movimento, o dano recebido na próxima vez será reduzido.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111204": {
   "ch": "受到伤害时，若伤害来源与自身的距离超过700码，则伤害降低。",
   "en": "受到伤害时，若伤害来源与自身的距离超过700码，则伤害降低。",
-  "pt": ""
+  "pt": "Ao sofrer dano, se a fonte do dano estiver a mais de 700 jardas de distância, o dano é reduzido.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111304": {
   "ch": "使用绝技时，自身向后闪现一小段距离。",
   "en": "使用绝技时，自身向后闪现一小段距离。",
-  "pt": ""
+  "pt": "Ao usar a Técnica Suprema, você salta para trás por uma pequena distância.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111306": {
   "ch": "每当剑击击杀一个敌人时，有概率立即减少身法的冷却时间。",
   "en": "每当剑击击杀一个敌人时，有概率立即减少身法的冷却时间。",
-  "pt": ""
+  "pt": "Sempre que um golpe de espada mata um inimigo, há uma chance de reduzir imediatamente o tempo de recarga da Técnica de Movimento.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111308": {
   "ch": "每次使用身法后，有概率消耗1层剑心，立即减少身法的冷却。",
   "en": "每次使用身法后，有概率消耗1层剑心，立即减少身法的冷却。",
-  "pt": ""
+  "pt": "Após usar a técnica de movimento, há uma chance de consumir 1 camada de Coração da Espada, reduzindo imediatamente o tempo de recarga da técnica.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111404": {
   "ch": "每次使用道具或法宝时，有概率召唤一道剑击随机打击附近的敌人。",
   "en": "每次使用道具或法宝时，有概率召唤一道剑击随机打击附近的敌人。",
-  "pt": ""
+  "pt": "Sempre que usar um item ou artefato, há uma chance de invocar um golpe de espada que atinge aleatoriamente inimigos próximos.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111406": {
   "ch": "每次使用道具回复灵力时，有概率额外回复一些灵力。  ",
   "en": "每次使用道具回复灵力时，有概率额外回复一些灵力。  ",
-  "pt": ""
+  "pt": "Toda vez que você usa um item para recuperar Energia, há uma chance de recuperar um pouco mais de Energia.  ",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111408": {
   "ch": "每次使用道具或法宝时，有概率发出2道剑影。",
   "en": "每次使用道具或法宝时，有概率发出2道剑影。",
-  "pt": ""
+  "pt": "Sempre que usar um item ou artefato, há uma chance de emitir 2 sombras de espada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111505": {
   "ch": "使用身法后，提升会心。",
   "en": "使用身法后，提升会心。",
-  "pt": ""
+  "pt": "Após usar a Técnica de Movimento, a Chance Crítica é aumentada.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111705": {
   "ch": "使用身法后，提升护心。",
   "en": "使用身法后，提升护心。",
-  "pt": ""
+  "pt": "Após usar a Técnica de Movimento, aumenta a Proteção do Coração.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111904": {
   "ch": "每次使用身法时，发出3道剑击。",
   "en": "每次使用身法时，发出3道剑击。",
-  "pt": ""
+  "pt": "Cada vez que usar a técnica de movimento, são disparados 3 golpes de espada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4111909": {
   "ch": "每次使用身法时，发出5道剑影。",
   "en": "每次使用身法时，发出5道剑影。",
-  "pt": ""
+  "pt": "A cada uso da técnica, são emitidas 5 sombras de espada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4400112": {
   "ch": "提升当前攻击力。",
   "en": "Current ATK is increased.",
-  "pt": ""
+  "pt": "A ATQ atual foi aumentada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4400122": {
   "ch": "提升当前攻击力。",
   "en": "Current ATK is increased.",
-  "pt": ""
+  "pt": "A ATQ atual foi aumentada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4400132": {
   "ch": "提升当前攻击力。",
   "en": "Current ATK is increased.",
-  "pt": ""
+  "pt": "A ATQ atual foi aumentada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4400152": {
   "ch": "提升当前攻击力。",
   "en": "Current ATK is increased.",
-  "pt": ""
+  "pt": "A ATQ atual foi aumentada.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4500112": {
   "ch": "提升当前防御力。",
   "en": "Current DEF is increased.",
-  "pt": ""
+  "pt": "O DEF atual foi aumentado.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4500122": {
   "ch": "提升当前防御力。",
   "en": "Current DEF is increased.",
-  "pt": ""
+  "pt": "O DEF atual foi aumentado.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4500132": {
   "ch": "提升当前防御力。",
   "en": "Current DEF is increased.",
-  "pt": ""
+  "pt": "O DEF atual foi aumentado.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc4500142": {
   "ch": "提升当前防御力。",
   "en": "Current DEF is increased.",
-  "pt": ""
+  "pt": "O DEF atual foi aumentado.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc49001": {
   "ch": "提升150点移动速度",
   "en": "提升150点移动速度",
-  "pt": ""
+  "pt": "Aumenta a velocidade de movimento em 150 pontos",
+  "auto": "local/hy-mt2"
  },
  "effect_desc49002": {
   "ch": "提升999点会心",
   "en": "提升999点会心",
-  "pt": ""
+  "pt": "Aumenta o Crítico em 999 pontos",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc5100105": {
   "ch": "使用身法时有概率重置所有丹药的冷却时间。",
   "en": "使用身法时有概率重置所有丹药的冷却时间。",
-  "pt": ""
+  "pt": "Ao usar a técnica de movimento, há uma chance de reiniciar o tempo de recarga de todos os elixires.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc5100107": {
   "ch": "使用身法时为自己叠加1层剑心。",
   "en": "使用身法时为自己叠加1层剑心。",
-  "pt": ""
+  "pt": "Ao usar a técnica de movimento, acumula 1 camada de Coração da Espada para si mesmo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc5100109": {
   "ch": "使用身法时为随机2个敌人叠加1层剑气。",
   "en": "使用身法时为随机2个敌人叠加1层剑气。",
-  "pt": ""
+  "pt": "Ao usar a técnica, aplica 1 camada de Aura da Espada a 2 inimigos aleatórios.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc51231": {
   "ch": "毒质与长矩气脉相连，长矩不死，毒质不绝，一切请小心在意！",
   "en": "This kind of poison is closely connected with Changju. The poison would exist as long as Changju lived. Please take care!",
-  "pt": ""
+  "pt": "Esse tipo de veneno está intimamente ligado a Changju. O veneno continuará existindo enquanto Changju viver. Por favor, tenha cuidado!",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7000391": {
   "ch": "每造成1次伤害可获得1层红尘，当达到一定层数时施展神通可召唤红尘剑匣。",
   "en": "You'll receive 1 stack of Sword Shadow every time you deal damage. Your subsequent Ultimate Skill will trigger Sword Shadows I once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Sombras da Espada toda vez que causar dano. Sua próxima Técnica Suprema será ativada como Sombras da Espada I, desde que haja acúmulos suficientes.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7000401": {
   "ch": "每受到1次伤害可获得1层归一，当达到一定层数时施展神通可生成护罩。",
   "en": "You'll receive 1 stack of Ward every time you receive damage. Your subsequent Ultimate Skill will trigger a shield once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Proteção toda vez que sofrer dano. Quando houver acúmulos suficientes, sua próxima Técnica Suprema ativará um escudo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7000411": {
   "ch": "每杀死1个敌人可获得1层星耀，当达到一定层数时施展神通可产生星耀之光。",
   "en": "You'll receive 1 stack of Starshine every time you kill an enemy. Your subsequent Ultimate Skill will trigger a ray of Starlight once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Brilho Estelar cada vez que matar um inimigo. Quando tiver acúmulos suficientes, sua próxima Técnica Suprema disparará um raio de Luz Estelar.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7000571": {
   "ch": "每造成1次伤害可获得1层红尘，当达到一定层数时施展神通可召唤红尘剑魂。",
   "en": "You'll receive 1 stack of Sword Shadow every time you deal damage. Your subsequent Ultimate Skill will trigger Sword Shadows II once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Sombras da Espada cada vez que causar dano. Quando houver acúmulos suficientes, sua próxima Técnica Suprema ativará Sombras da Espada II.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7000581": {
   "ch": "每受到1次伤害可获得1层归一，当达到一定层数时施展神通可生成护罩。",
   "en": "You'll receive 1 stack of Ward every time you receive damage. Your subsequent Ultimate Skill will trigger a shield once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Proteção toda vez que sofrer dano. Quando houver acúmulos suficientes, sua próxima Técnica Suprema ativará um escudo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7000591": {
   "ch": "每杀死1个敌人可获得1层星耀，当达到一定层数时施展神通可产生星耀之光。",
   "en": "You'll receive 1 stack of Starshine every time you kill an enemy. Your subsequent Ultimate Skill will trigger a ray of Starlight once there are enough stacks.",
-  "pt": ""
+  "pt": "Você receberá 1 acúmulo de Brilho Estelar toda vez que matar um inimigo. Quando tiver acúmulos suficientes, sua próxima Técnica Suprema disparará um raio de Luz Estelar.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70010122": {
   "ch": "攻击力提升&700101_zjgj&",
   "en": "ATK +&700101_zjgj&",
-  "pt": ""
+  "pt": "ATQ +&700101_zjgj&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70010123": {
   "ch": "攻击力&700101_jdgj&",
   "en": "ATK &700101_jdgj&",
-  "pt": ""
+  "pt": "ATQ &700101_jdgj&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70010252": {
   "ch": "攻击力提升&700102_zjgj&",
   "en": "ATK +&700102_zjgj&",
-  "pt": ""
+  "pt": "ATQ +&700102_zjgj&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70010253": {
   "ch": "攻击力&700102_jdgj&",
   "en": "ATK &700102_jdgj&",
-  "pt": ""
+  "pt": "ATQ &700102_jdgj&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70010372": {
   "ch": "攻击力提升&700103_zjgj&",
   "en": "ATK +&700103_zjgj&",
-  "pt": ""
+  "pt": "ATQ +&700103_zjgj&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70010373": {
   "ch": "攻击力&700103_jdgj&",
   "en": "ATK &700103_jdgj&",
-  "pt": ""
+  "pt": "ATQ &700103_jdgj&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7001047": {
   "ch": "体力上限提升&700104_tlsx&",
   "en": "Max Vitality +&700104_tlsx&",
-  "pt": ""
+  "pt": "Vitalidade Máx. +&700104_tlsx&",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7001058": {
   "ch": "体力上限提升&700105_tlsx&",
   "en": "Max Vitality +&700105_tlsx&",
-  "pt": ""
+  "pt": "Vitalidade Máx. +&700105_tlsx&",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7001069": {
   "ch": "体力上限提升&700106_tlsx&",
   "en": "Max Vitality +&700106_tlsx&",
-  "pt": ""
+  "pt": "Vitalidade Máx. +&700106_tlsx&",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc70013043": {
   "ch": "伤害提升&700130_xgsh&",
   "en": "Damage +&700130_xgsh&",
-  "pt": ""
+  "pt": "Dano +&700130_xgsh&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70013046": {
   "ch": "伤害提升&700130_zgsh&",
   "en": "Damage +&700130_zgsh&",
-  "pt": ""
+  "pt": "Dano +&700130_zgsh&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc70013049": {
   "ch": "伤害提升&700130_dgsh&",
   "en": "Damage +&700130_dgsh&",
-  "pt": ""
+  "pt": "Dano +&700130_dgsh&",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7001531": {
   "ch": "接下来3秒抵挡所有伤害，并在抵挡结束时将这些伤害返还给350码内所有单位。",
   "en": "Blocks all damage for 3 sec, and after 3 sec returns all the damage blocked to all the units within 350.",
-  "pt": ""
+  "pt": "Bloqueia todo o dano por 3 segundos; após esse tempo, devolve todo o dano bloqueado para todas as unidades dentro de um raio de 350.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7001584": {
   "ch": "必定暴击，且暴击倍率提升至&700158_bjbl|/10000|+1|f2&倍。",
   "en": "Guaranteed Crit, with Crit multiplier increased to &700158_bjbl|/10000|+1|f2& times.",
-  "pt": ""
+  "pt": "Crítico garantido, com o Multiplicador Crítico aumentado para &700158_bjbl|/10000|+1|f2& vezes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7001601": {
   "ch": "每层提高自身伤害&700160_shts&%，同时自身受到的伤害&700160_jsbl&%，最大可叠加&700160_djcs&层",
   "en": "Each stack increases your damage by &700160_shts&%, while damage taken is &700160_jsbl&%. Max stack &700160_djcs&.",
-  "pt": ""
+  "pt": "Cada pilha aumenta o seu dano em &700160_shts&%, enquanto o dano recebido aumenta em &700160_jsbl&%. O máximo de pilhas é &700160_djcs&.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc700169": {
   "ch": "金针刺穴",
   "en": "Golden Needle Point",
-  "pt": ""
+  "pt": "Ponto da Agulha Dourada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc700174": {
   "ch": "厚德载物",
   "en": "Virtue and Acceptance",
-  "pt": ""
+  "pt": "Virtude e Aceitação",
+  "auto": "local/hy-mt2"
  },
  "effect_desc700175": {
   "ch": "悬壶济世",
   "en": "Medicine for Everyone",
-  "pt": ""
+  "pt": "Medicina para Todos",
+  "auto": "local/hy-mt2"
  },
  "effect_desc700179": {
   "ch": "追影奇丸",
   "en": "Shadowchase Pill",
-  "pt": ""
+  "pt": "Pílula Perseguidora de Sombras",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 30 > 21 caracteres"
+  ]
  },
  "effect_desc7001821": {
   "ch": "下一次使用绝技技能时，消耗所有“天人印”，每层提升绝技伤害&700182_jjsh&%，“天人印”最多可以叠加到&700182_xgcs&层",
   "en": "The next time a Special Skill is used, all Celestial Seals are used. Each stack increases the Special Skill by &700182_jjsh&%. Celestial Seal can stack up to &700182_xgcs& times.",
-  "pt": ""
+  "pt": "Da próxima vez que a Técnica Especial for usada, todos os Selos Celestiais serão consumidos. Cada selo aumenta a eficácia da Técnica Especial em &700182_jjsh&%. Os Selos Celestiais podem ser acumulados até &700182_xgcs& vezes.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc7001851": {
   "ch": "当自身受到伤害时，会消耗一层聚雷，并向&700185_jnfw&范围内的所有敌人发出雷电，造成威力&700185_jnwl&的伤害，聚雷最多可叠加&700185_djcs&层",
   "en": "When taking damage, one stack of Thundercall is used, and all enemies in the &700185_jnfw& range are attacked by lighting, dealing &700185_jnwl& damage. Thundercall can be stacked up to &700185_djcs& times.",
-  "pt": ""
+  "pt": "Ao sofrer dano, um acúmulo de Invocação do Trovão é consumido, e todos os inimigos dentro do alcance de &700185_jnfw& são atingidos por raios, causando &700185_jnwl& de dano. Invocação do Trovão pode ser acumulada até &700185_djcs& vezes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc8021005": {
   "ch": "每层效果提高暴风掌5%的伤害。",
   "en": "Every stack of effects increases the damage of Storm Palm by 5%.",
-  "pt": ""
+  "pt": "Cada pilha de efeitos aumenta o dano da Palma da Tempestade em 5%.",
+  "auto": "local/hy-mt2"
  },
  "effect_desc8022006": {
   "ch": "一级轮回指\n轮回指的威力提高50%，弹道大小+20%",
   "en": "G1 Boomerang Finger\nDamage of Boomerang Finger increases by 50%; projectile size +20%",
-  "pt": ""
+  "pt": "Dedo Bumerangue Nível 1\nO dano do Dedo Bumerangue aumenta em 50%; tamanho do projétil +20%",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc8022007": {
   "ch": "二级轮回指\n轮回指弹道返回时伤害提高50%，弹道大小+20%",
   "en": "G2 Boomerang Finger\nDamage dealt by returning Boomerang Finger projectile increases by 50%; projectile size +20%",
-  "pt": ""
+  "pt": "Dedo Bumerangue Nível 2\nO dano causado pelo projétil do Dedo Bumerangue ao retornar aumenta em 50%; tamanho do projétil +20%",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc8022008": {
   "ch": "三级轮回指\n每次释放指系绝技时，发射一圈额外的轮回指。",
   "en": "G3 Boomerang Finger\nEvery time you cast Finger Special Skills, cast an additional circle of Boomerang Finger.",
-  "pt": ""
+  "pt": "Dedo Bumerangue Nível 3\nToda vez que você usar Técnica Especial do Dedo, invocará um círculo adicional de Dedo Bumerangue.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc8022012": {
   "ch": "四级轮回指\n轮回指现在会返回两次",
   "en": "G4 Boomerang Finger\nBoomerang Finger can return twice now",
-  "pt": ""
+  "pt": "G4 Dedo Bumerangue\nAgora, o Dedo Bumerangue pode retornar duas vezes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc8022013": {
   "ch": "五级轮回指\n轮回指，每0.2秒进行一次爆炸",
   "en": "G5 Boomerang Finger\nBoomerang Finger can trigger an explosion every 0.2s",
-  "pt": ""
+  "pt": "G5 Dedo Bumerangue\nO Dedo Bumerangue pode provocar uma explosão a cada 0,2 segundos",
+  "auto": "local/hy-mt2+revisao-nuvem"
  }
 }

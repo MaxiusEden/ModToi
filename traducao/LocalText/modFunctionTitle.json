@@ -2,931 +2,1141 @@
  "modFunctionTitle_abClose": {
   "ch": "增加角色1对角色2的亲密度",
   "en": "Character 1's affinity toward Character 2",
-  "pt": ""
+  "pt": "A afinidade do Personagem 1 pelo Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_abCloseSet": {
   "ch": "清除指定角色1对指定角色2的仇恨度，并将亲密度设置为指定值",
   "en": "Clear character 1's Hatred against character 2, and set their Affinity value.",
-  "pt": ""
+  "pt": "Elimine o ódio do Personagem 1 contra o Personagem 2 e defina o valor de sua Afinidade.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_abilityPointAdd": {
   "ch": "修改下一次论道获得的道点",
   "en": "Modify Skill Points gained from next Debate",
-  "pt": ""
+  "pt": "Modificar os Pontos de Habilidade obtidos no próximo Debate",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addAppellation": {
   "ch": "指定角色增加道号",
   "en": "Add Taoist Title to specified characters",
-  "pt": ""
+  "pt": "Adicione o Título Daoísta aos personagens especificados.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_addAttr": {
   "ch": "增加人物属性",
   "en": "Increase character stats",
-  "pt": ""
+  "pt": "Aumente os atributos do personagem",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addClose": {
   "ch": "增加角色1对角色2的仇恨度",
   "en": "Increases Character 1's Hatred toward Character 2",
-  "pt": ""
+  "pt": "Aumenta o Ódio do Personagem 1 pelo Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addCurAttrPercent": {
   "ch": "根据属性当前值的百分比，增加减少属性",
   "en": "Increases or decreases stats by the current stats percentage",
-  "pt": ""
+  "pt": "Aumenta ou diminui os atributos de acordo com a porcentagem atual dos atributos.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addExp": {
   "ch": "增加人物经验",
   "en": "Increase character EXP",
-  "pt": ""
+  "pt": "Aumente a EXP do personagem",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addFeature": {
   "ch": "添加一个后天气运到玩家身上",
   "en": "Add a destiny (nurture) to the player",
-  "pt": ""
+  "pt": "Adicione um destino (criação) ao jogador.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_addGodEyeSkill": {
   "ch": "增加昊天眼技能",
   "en": "Add Eye of Providence Skill",
-  "pt": ""
+  "pt": "Adicionar Habilidade: Olho da Providência",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addGridArrtRange": {
   "ch": "随机增加周围范围内一个格子的数值",
   "en": "Randomly increase the value of a tile nearby",
-  "pt": ""
+  "pt": "Aumente aleatoriamente o valor de um quadrado próximo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_addIntim": {
   "ch": "ID为105的角色对玩家的好感度下降50",
   "en": "Character 105's affinity with Player reduced by 50",
-  "pt": ""
+  "pt": "A afinidade do Personagem 105 com o Jogador foi reduzida em 50.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addMastery": {
   "ch": "增加装备着技能的熟练度",
   "en": "Increase the proficiency of equipped skills",
-  "pt": ""
+  "pt": "Aumente a proficiência das habilidades equipadas.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addNPCLuck": {
   "ch": "添加指定后天气运到指定角色身上",
   "en": "Adds the specified Destiny (Nurture) to the specified character",
-  "pt": ""
+  "pt": "Adiciona o Destino (Criação) especificado ao personagem indicado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addPotmon": {
   "ch": "添加一只壶妖",
   "en": "Add an Imp",
-  "pt": ""
+  "pt": "Adicione um Diabrete.",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 13 caracteres"
+  ]
  },
  "modFunctionTitle_addTargetAttr": {
   "ch": "增加指定角色的指定属性",
   "en": "Increases the specified stat for the specified character",
-  "pt": ""
+  "pt": "Aumenta o atributo especificado para o personagem indicado",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addTask": {
   "ch": "领取一个任务",
   "en": "Accept a mission",
-  "pt": ""
+  "pt": "Aceite uma missão",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_addWorldData": {
   "ch": "增加存档中指定key的数据",
   "en": "Add the specified key's data in the save file",
-  "pt": ""
+  "pt": "Adicione os dados da chave especificada no arquivo de salvamento.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_areaDungeon": {
   "ch": "在指定区域随机位置创建一个副本",
   "en": "Create a dungeon at a random location in the specified region",
-  "pt": ""
+  "pt": "Crie uma masmorra em um local aleatório na região especificada.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_areaEvent": {
   "ch": "在区域2中ID为10的特殊地形中生成一个ID为15的大地图事件",
   "en": "Generate a world map event with ID 15 in the special terrain with ID 10 in region 2",
-  "pt": ""
+  "pt": "Gere um evento de mapa mundial com ID 15 no terreno especial de ID 10, na região 2.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_arrestNpcCondition": {
   "ch": "获取ID为1001的NPC数据，并将其在这段剧情中设置为左单位",
   "en": "Get the data of the NPC with ID 1001 and set it as the left unit in this plot",
-  "pt": ""
+  "pt": "Obtenha os dados do NPC com ID 1001 e defina-o como a unidade da esquerda neste enredo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_backToSchool": {
   "ch": "传送回宗门",
   "en": "Teleport to sect",
-  "pt": ""
+  "pt": "Teleporte-se para a seita.",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 21 caracteres"
+  ]
  },
  "modFunctionTitle_battleExit": {
   "ch": "结束副本战斗（只能在战斗中使用）",
   "en": "End the dungeon battle (only available in battle)",
-  "pt": ""
+  "pt": "Termine a batalha na masmorra (disponível apenas durante a batalha)",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_battleFunction": {
   "ch": "隐藏BOSS血条",
   "en": "Hide boss health bar",
-  "pt": ""
+  "pt": "Ocultar barra de saúde do chefe",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 26 caracteres"
+  ]
  },
  "modFunctionTitle_battleFunctionList": {
   "ch": "使用#BattleFunctionList表中1001的功能",
   "en": "Use [function 1001] in [#BattleFunctionList]",
-  "pt": ""
+  "pt": "Use [função 1001] em [#BattleFunctionList]",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_battleSkillTrainUp": {
   "ch": "增加角色装备中指定技能的经验或者等级",
   "en": "Increase experience or level of the specified skill equipped by the character",
-  "pt": ""
+  "pt": "Aumente a experiência ou o nível da habilidade especificada equipada pelo personagem.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_blackFilter": {
   "ch": "开启黑幕滤镜",
   "en": "Turn on the black screen filter",
-  "pt": ""
+  "pt": "Ative o filtro de tela preta",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_callAppointedDrama": {
   "ch": "调用ID6352101的剧情但剧情文本为上一次打开的剧情内容",
   "en": "Call the plot ID 6352101, but the plot text is the content of the last opened plot",
-  "pt": ""
+  "pt": "Chame o enredo de ID 6352101, mas o texto do enredo é o conteúdo do último enredo aberto.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_callDrama": {
   "ch": "打开一个剧情ID（当选择了多个剧情ID时，根据剧情权重随机打开其中一个）",
   "en": "Open a Plot ID (when multiple Plot IDs are selected, randomly launch one of them according to the Plot weight)",
-  "pt": ""
+  "pt": "Abra um ID de Enredo (quando vários IDs de Enredo são selecionados, um deles é iniciado aleatoriamente de acordo com o peso do Enredo)",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_callDramaDelayTime": {
   "ch": "延时打开剧情",
   "en": "Launch plot after delay",
-  "pt": ""
+  "pt": "Inicie o enredo após um atraso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_callDramaRunEnd": {
   "ch": "将剧情对话放入列表中，运转结束打开剧情（保证一定会打开）",
   "en": "Put plot dialogue into the list, and the plot will open after the month ends",
-  "pt": ""
+  "pt": "Coloque o diálogo do enredo na lista, e o enredo será aberto após o término do mês.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_captureNPC": {
   "ch": "抓取满足NPC条件表ID为10001，10004,10005的NPC组",
   "en": "Extract the NPC group that matches the NPC condition table ID 10001, 10004, 10005",
-  "pt": ""
+  "pt": "Extraia o grupo de NPCs que corresponde aos IDs 10001, 10004 e 10005 na tabela de condições de NPCs.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_captureNpcConditionGroup": {
   "ch": "抓取NPC条件表中条件组ID为100005的所有NPC，并根据其中的配置决定是否保存",
   "en": "Extract all NPCs with condition group ID 100005 in the NPC condition table and decide whether to save them according to the configurations",
-  "pt": ""
+  "pt": "Extraia todos os NPCs com o ID do grupo de condições 100005 na tabela de condições dos NPCs e decida se deve salvá-los de acordo com as configurações.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_changeFateFeatureLuck": {
   "ch": "打开替换逆天改命界面，必定出现指定的逆天改命，可替换一次逆天改命",
   "en": "When opening Rewrite Destiny replacing interface, the specified Rewrite Destiny is bound to appear for a replacement.",
-  "pt": ""
+  "pt": "Ao abrir a interface de substituição do Reescrever o Destino, o Reescrever o Destino especificado deve aparecer para ser substituído.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_chatUpClose": {
   "ch": "使玩家下次在与Npc闲聊时双方额外增加亲密度",
   "en": "Make Player's next banter with NPC increase bonus affinity for both parties",
-  "pt": ""
+  "pt": "Faça com que a próxima troca de falas do jogador com o NPC aumente a afinidade entre ambos.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearAddFeature": {
   "ch": "清理指定气运，并间隔一段时间后加回来",
   "en": "Remove a specific destiny and add it again after a duration",
-  "pt": ""
+  "pt": "Remova um destino específico e adicione-o novamente após um determinado período.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearEvent": {
   "ch": "删除玩家当前脚底位置的大地图事件",
   "en": "Delete the world map event under Player's feet",
-  "pt": ""
+  "pt": "Exclua o evento do mapa mundial que está sob os pés do jogador.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearEventForceDel": {
   "ch": "强制清除当前位置的大地图事件",
   "en": "Force to delete the world map event at current location",
-  "pt": ""
+  "pt": "Forçar a exclusão do evento do mapa mundial na localização atual.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearEventID": {
   "ch": "删除大地图中所有指定ID的事件，并在删除事件的位置创建一个新事件",
   "en": "Delete all world map events with the specified ID and create new events where the old events are deleted",
-  "pt": ""
+  "pt": "Exclua todos os eventos do mapa mundial com o ID especificado e crie novos eventos nos locais onde os eventos antigos foram excluídos.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearFeature": {
   "ch": "清除玩家身上的一个后天气运",
   "en": "Delete a destiny (nurture) on the player",
-  "pt": ""
+  "pt": "Exclua um destino (caminho traçado) do jogador.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearFeatureGroup": {
   "ch": "清除气运分组为401的所有气运",
   "en": "Delete all destinies in group 401",
-  "pt": ""
+  "pt": "Excluir todos os destinos no grupo 401",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearInEventID": {
   "ch": "删除玩家当前脚底位置的大地图事件",
   "en": "Delete the world map event under Player's feet",
-  "pt": ""
+  "pt": "Exclua o evento do mapa mundial que está sob os pés do jogador.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearNpcConditionSave": {
   "ch": "清除（抓取NPC表）表中保存的NPC数据",
   "en": "Delete (Extract NPC table) NPC data saved in the table",
-  "pt": ""
+  "pt": "Excluir (Extrair tabela de NPCs): dados de NPCs salvos na tabela",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearNpcConditionSaveGroup": {
   "ch": "清除条件组100005中保存的NPC数据",
   "en": "Delete saved NPC data in condition group 100005",
-  "pt": ""
+  "pt": "Excluir os dados salvos de NPCs no grupo de condições 100005",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearTask": {
   "ch": "不接取ID为10001的任务",
   "en": "Don't accept the mission with ID 10001",
-  "pt": ""
+  "pt": "Não aceite a missão com ID 10001.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_clearWorldData": {
   "ch": "清除存档中指定key的数据",
   "en": "Delete the specified key's data in the save file",
-  "pt": ""
+  "pt": "Exclua os dados da chave especificada no arquivo de salvamento.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_closeMapUI": {
   "ch": "关闭大地图上所有UI",
   "en": "Close all UI on the world map",
-  "pt": ""
+  "pt": "Feche toda a interface do usuário no mapa do mundo.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_closeUI": {
   "ch": "关闭野外商店UI界面（每个界面的名称在后面的表【UI界面名称】中）",
   "en": "Close world shop UI (See the table [UI Names] for the name of each UI)",
-  "pt": ""
+  "pt": "Feche a interface da loja do mundo (consulte a tabela [Nomes da UI] para ver o nome de cada interface)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_createDungeon": {
   "ch": "在玩家脚底创建一个副本",
   "en": "Create a dungeon under Player's feet",
-  "pt": ""
+  "pt": "Crie uma masmorra sob os pés do jogador",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createDungeonInRange": {
   "ch": "在玩家周围随机位置创建一个副本",
   "en": "Create a dungeon at a random location near Player",
-  "pt": ""
+  "pt": "Crie uma masmorra em um local aleatório perto do Jogador",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEnemy": {
   "ch": "在当前副本的场景内生成一个ID为30001的敌人，位置为20,12",
   "en": "Create an enemy with ID 30001 in the current dungeon at (20,12)",
-  "pt": ""
+  "pt": "Crie um inimigo com ID 30001 na masmorra atual, na posição (20,12).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEvent": {
   "ch": "创建一个大地图事件（事件是指大地图上可以互动的图标）",
   "en": "Create a world map event (interactable icons on the world map)",
-  "pt": ""
+  "pt": "Crie um evento de mapa mundial (ícones interativos no mapa mundial).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEventArea": {
   "ch": "在指定区域随机位置创建一个大地图事件",
   "en": "Create a world map event at a random location in a specified region",
-  "pt": ""
+  "pt": "Crie um evento de mapa mundial em uma localização aleatória dentro de uma região especificada.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEventAreaCondition": {
   "ch": "在区域8随机创建一个101事件，并且满足条件",
   "en": "Create a random [event 101] in region 8 and satisfy the condition",
-  "pt": ""
+  "pt": "Crie um [evento 101] aleatório na região 8 e satisfaça a condição.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEventInRange": {
   "ch": "创建一个大地图事件，在玩家脚底范围内随机",
   "en": "Create a world map event at a random location within Player's sight",
-  "pt": ""
+  "pt": "Crie um evento de mapa mundial em uma localização aleatória ao alcance da visão do jogador.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEventMapPoint": {
   "ch": "在MapPosition表1001的位置5-10格范围内创建4201的事件",
   "en": "Create event 4201 within 5-10 tiles from the position of [MapPosition] table 1001",
-  "pt": ""
+  "pt": "Crie o evento 4201 a uma distância de 5 a 10 tiles da posição indicada na tabela [MapPosition] 1001.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEventPoint": {
   "ch": "在指定位置的指定棱形范围随机创建一个大地图事件",
   "en": "Randomly create a world map event within a specified range of a specified location",
-  "pt": ""
+  "pt": "Crie aleatoriamente um evento de mapa do mundo dentro de um intervalo específico a partir de uma localização determinada.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createEventPointIngoreTree": {
   "ch": "在指定位置的指定棱形范围随机创建一个大地图事件",
   "en": "Randomly create a world map event within a specified range of a specified location",
-  "pt": ""
+  "pt": "Crie aleatoriamente um evento de mapa do mundo dentro de um intervalo específico a partir de uma localização determinada.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createNPC": {
   "ch": "创建一个NPC到玩家脚底",
   "en": "Create an NPC at the player's location",
-  "pt": ""
+  "pt": "Crie um NPC na localização do jogador",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_createWeather": {
   "ch": "设置当前区域的天气",
   "en": "Set the weather for the current region",
-  "pt": ""
+  "pt": "Defina o clima para a região atual",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_curSchoolLuck": {
   "ch": "指定角色宗门的所有NPC获得指定气运",
   "en": "All NPCs in a specific character's sect gain certain Destiny",
-  "pt": ""
+  "pt": "Todos os NPCs da seita de um personagem específico recebem um determinado Destino.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_delEventfunction": {
   "ch": "设置事件在删除时，执行一条命令",
   "en": "Sets a command to be executed when the event is deleted",
-  "pt": ""
+  "pt": "Define um comando a ser executado quando o evento é excluído",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_delItemID": {
   "ch": "删除背包中指定道具的指定数量",
   "en": "Delete a specified number of the specified item from the bag",
-  "pt": ""
+  "pt": "Exclua um número específico do item indicado do saco.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_delNPCLuck": {
   "ch": "删除指定角色身上的后天气运",
   "en": "Delete a selected character's destiny (nurture)",
-  "pt": ""
+  "pt": "Exclua o destino (criação) de um personagem selecionado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_delTask": {
   "ch": "删除一个任务",
   "en": "Delete a mission",
-  "pt": ""
+  "pt": "Excluir uma missão",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_delTerr": {
   "ch": "删除地图上所有3001的地形",
   "en": "Delete all terrain 3001 on the map",
-  "pt": ""
+  "pt": "Exclua todo o terreno 3001 no mapa.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_delUnitLuck": {
   "ch": "删除角色的气运",
   "en": "Delete a character's destiny",
-  "pt": ""
+  "pt": "Apague o destino de um personagem.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_die": {
   "ch": "玩家立刻死亡",
   "en": "Player dies immediately",
-  "pt": ""
+  "pt": "O jogador morre imediatamente",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_dramaInfo1Attr": {
   "ch": "增加夸父110体力",
   "en": "Increase Kuafu's vitality by 110",
-  "pt": ""
+  "pt": "Aumente a vitalidade do Kuafu em 110.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_dramaInfo1CostPause": {
   "ch": "夸父的基础属性暂停消耗",
   "en": "The base stats diminish of Kuafu pauses",
-  "pt": ""
+  "pt": "A diminuição dos atributos básicos de Kuafu é pausada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_dramaInfo1CostStart": {
   "ch": "夸父的基础属性开始消耗",
   "en": "The base stats diminish of Kuafu begins",
-  "pt": ""
+  "pt": "A diminuição dos atributos básicos de Kuafu começa",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_dramaInfo1MoveNextPoint": {
   "ch": "使夸父移动到下一个位置",
   "en": "Move Kuafu to the next location",
-  "pt": ""
+  "pt": "Mova Kuafu para o próximo local",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_dramaPackageRoleUpgrade": {
   "ch": "玩家直接突破境界，并获得指定逆天改命",
   "en": "Player achieves instant Breakthrough and gains a certain Rewrite Destiny",
-  "pt": ""
+  "pt": "O jogador consegue um Avanço imediato e obtém um determinado Reescrever o Destino.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_dramaRewardItem": {
   "ch": "产出道具到指定角色",
   "en": "Obtain item to a certain character",
-  "pt": ""
+  "pt": "Obtenha o item para um determinado personagem.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_finishNewSchoolTask": {
   "ch": "完成最新接取的宗门任务",
   "en": "Complete the last accepted Sect Mission",
-  "pt": ""
+  "pt": "Complete a última Missão da Seita que foi aceita.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_finishTask": {
   "ch": "完成一个任务（任务可以不设置完成条件，手动调用命令来完成任务）",
   "en": "Complete a mission (It's possible to not set completion conditions for a mission but manually call up the command to complete it)",
-  "pt": ""
+  "pt": "Complete uma missão (É possível não definir condições de conclusão para uma missão, mas chamar manualmente o comando para completá-la).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_flee": {
   "ch": "将玩家随机移动到指定范围内的一个位置（逃跑）",
   "en": "Move Player to a random location within a specified range (escape)",
-  "pt": ""
+  "pt": "Mova o jogador para uma localização aleatória dentro de um intervalo especificado (fuga)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_fleeNPC": {
   "ch": "将指定角色随机移动到指定范围内的一个位置（逃跑）",
   "en": "Moves the specified character to a random location within a specified range (escape)",
-  "pt": ""
+  "pt": "Mova o personagem especificado para uma localização aleatória dentro de um intervalo determinado (fuga)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_forceTrains": {
   "ch": "指定两个角色进行双修",
   "en": "Two specified characters train together",
-  "pt": ""
+  "pt": "Dois personagens específicos treinam juntos",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_fortuitousEventCD": {
   "ch": "重新计算1001触发器的CD",
   "en": "Recalculate the CD of trigger 1001",
-  "pt": ""
+  "pt": "Recalcular o CD do gatilho 1001",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_gainTaoistHeart": {
   "ch": "指定角色获得道心",
   "en": "Specify characters that obtain Taoist Mind",
-  "pt": ""
+  "pt": "Especifique os personagens que obtêm o Coração do Dao",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_gainTaoistSeed": {
   "ch": "指定角色获得道种",
   "en": "Specify characters that obtain Taoist Seed",
-  "pt": ""
+  "pt": "Especifique quais personagens obtêm a Semente Daoísta.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_getAllBountyTask": {
   "ch": "玩家接取悬赏榜中与NPC无关的全部任务（收集物品、消灭妖兽等），接取规则符合任务设置，如果有接取到任务，则弹出指定ID为123的对话，此时，玩家点击指定按钮ID为456的按钮后，直接完成通过该作用接到的任务，并获得任务奖励。",
   "en": "Players receive all bounty board missions that don't involve NPCs (collecting items, slaying monsters, etc.). The mission acceptance rules need to match the mission settings. If there are missions to accept, a dialogue with the specified ID of 123 pops up. Then Player clicks on the button with the specified button ID of 456 to directly complete all the missions accepted through this function and gets the corresponding rewards.",
-  "pt": ""
+  "pt": "Os jogadores recebem todas as missões do quadro de recompensas que não envolvem NPCs (coletar itens, matar monstros, etc.). As regras de aceitação de missões devem estar de acordo com as configurações das próprias missões. Caso haja missões disponíveis para aceitação, um diálogo com o ID 123 é exibido. Em seguida, o jogador clica no botão cujo ID é 456 para completar diretamente todas as missões aceitas por meio dessa função, recebendo assim as recompensas correspondentes.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_getImmortal": {
   "ch": "获得仙卡",
   "en": "Obtain Heavenly Card",
-  "pt": ""
+  "pt": "Obtenha a Carta Celestial",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_getSprite": {
   "ch": "获得一个器灵",
   "en": "Acquire an artifact spirit",
-  "pt": ""
+  "pt": "Adquira um Espírito do Artefato.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_getWell": {
   "ch": "调用酒馆住宿功能，恢复角色所有状态",
   "en": "Calls Tavern accommodation function to fully restore the character's status",
-  "pt": ""
+  "pt": "Chama a função de acomodação da Taverna para restaurar completamente o status do personagem.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_gradePhaseUp": {
   "ch": "指定角色突破当前瓶颈",
   "en": "Specify characters that achieve breakthrough",
-  "pt": ""
+  "pt": "Especifique os personagens que alcançam o avanço",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_group": {
   "ch": "在GroupID为1001的所有Function中，选择符合条件的1条来执行",
   "en": "Among all functions in GroupID 1001, select 1 that matches the condition to run",
-  "pt": ""
+  "pt": "Dentre todas as funções no GrupoID 1001, selecione uma que atenda à condição para execução.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_hideEvent": {
   "ch": "隐藏指定ID的大地图事件",
   "en": "Hide the world map event for the specified ID",
-  "pt": ""
+  "pt": "Ocultar o evento do mapa mundial para o ID especificado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_hideUnit": {
   "ch": "隐藏副本内所有ID为20016的怪物",
   "en": "Hide all monsters with ID 20016",
-  "pt": ""
+  "pt": "Ocultar todos os monstros com ID 20016",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_initTask": {
   "ch": "将ID为10001的任务数据初始化",
   "en": "Initialize the data of the mission with ID 10001",
-  "pt": ""
+  "pt": "Inicialize os dados da missão com ID 10001.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_intoAreaDungeon": {
   "ch": "当玩家在区域1或区域2时，进入ID为1001的副本，副本等级对应玩家境界",
   "en": "When Player is in region 1 or region 2, enter the dungeon with ID 1001, its level corresponding to that of Player",
-  "pt": ""
+  "pt": "Quando o Jogador estiver na região 1 ou na região 2, entre na masmorra com ID 1001; seu nível corresponde ao do Jogador.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_intoDistrictDungeon": {
   "ch": "进入当前所在区域的副本101，副本等级比区域副本基础等级低2级。这里需要传入玩家境界A，所处区域基础境界B，所处区域最大境界C。副本的基础等级为B~C中最接近A的境界（整数）所对应的等级",
   "en": "Enter the dungeon 101 of the current region. The dungeon is 2 levels lower than the base regional level. Needs to import the Player' realm A, the base regional realm B, and the max regional realm C. The base level of the dungeon corresponds to either B or C, whichever is closer to A.",
-  "pt": ""
+  "pt": "Acesse a masmorra 101 da região atual. A masmorra fica 2 níveis abaixo do nível regional base. É necessário importar o reino do jogador A, o reino regional base B e o reino regional máximo C. O nível base da masmorra corresponde a B ou C, sendo escolhido aquele que estiver mais próximo de A.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_intoDungeon": {
   "ch": "进入指定副本",
   "en": "Enter the specified dungeon",
-  "pt": ""
+  "pt": "Entre na masmorra especificada",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_itemQuantityTimes": {
   "ch": "将背包中指定道具的数量更改为百分之多少",
   "en": "Change the number of the specified item in your backpack to a percentage",
-  "pt": ""
+  "pt": "Altere o número do item especificado na sua mochila para um percentual.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_itemSelect": {
   "ch": "打开道具选择界面，选择道具，有分类选择（选择后会消耗掉）",
   "en": "Open the item selection interface and select an item with classification (item will be consumed once selected)",
-  "pt": ""
+  "pt": "Abra a interface de seleção de item e escolha um item com classificação (o item será consumido após a seleção).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_itemSelectAll": {
   "ch": "打开道具选择界面，选择道具（可以设置不消耗）",
   "en": "Open the item selection interface and select an item (may set it to not consume the item)",
-  "pt": ""
+  "pt": "Abra a interface de seleção de item e escolha um item (é possível configurá-lo para não ser consumido).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_itemSelectElement": {
   "ch": "打开道具选择界面，选择秘籍（会消耗掉）",
   "en": "Open the item selection interface and select a manual (it will be consumed)",
-  "pt": ""
+  "pt": "Abra a interface de seleção de item e escolha um manual (ele será consumido).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_itemSelectLevel": {
   "ch": "打开道具选择界面，选择物品，有物品大分类和品质筛选（选择后会消耗掉）",
   "en": "Opens the item selection interface and select an item with main category and rarity filter (Item will be consumed once selected)",
-  "pt": ""
+  "pt": "Abre a interface de seleção de item e permite escolher um item utilizando os filtros de categoria principal e raridade. (O item será consumido após a seleção.)",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_itemSelectLevel2": {
   "ch": "打开道具选择界面，显示所有物品大类为1和2，并且等级为5~6级的道具，让玩家选择3个，显示的提示文本为tipsText（物品大类可不填，无限制）",
   "en": "Open the item selection interface, showing all the level 5 to 6 items in categories 1 and 2, so that Player can choose 3 from them. The displayed tip text is in [tipsText] (Item categories can be left empty as there's no restriction)",
-  "pt": ""
+  "pt": "Abra a interface de seleção de itens, exibindo todos os itens de nível 5 a 6 nas categorias 1 e 2, para que o jogador possa escolher 3 deles. O texto da dica exibido deve ser [tipsText] (As categorias de itens podem ser deixadas em branco, pois não há restrição).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_joinCurSchool": {
   "ch": "设置指定角色加入玩家当前脚底位置的宗门",
   "en": "Specify characters that join the Sect where the player's feet are on now.",
-  "pt": ""
+  "pt": "Especifique os personagens que se juntam à Seita onde os pés do jogador estão no momento.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_joinSchool": {
   "ch": "加入当前对话的宗门",
   "en": "Join the current dialogue sect",
-  "pt": ""
+  "pt": "Participe da seita de diálogo atual.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_killNPC": {
   "ch": "抓取指定NPC，并将指定NPC杀死",
   "en": "Extract and kill the specified NPC",
-  "pt": ""
+  "pt": "Extraia e mate o NPC especificado",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_killRole": {
   "ch": "角色1杀死角色2",
   "en": "Character 1 kills Character 2",
-  "pt": ""
+  "pt": "Personagem 1 mata o Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_learnSkill": {
   "ch": "打开道具选择界面，选择一本秘籍后立即习得（需要达成学习秘籍的前提条件）",
   "en": "Open the item selection interface, select a manual, and learn it immediately (need to meet the requirements for learning the manual)",
-  "pt": ""
+  "pt": "Abra a interface de seleção de itens, escolha um manual e aprenda-o imediatamente (é necessário atender aos requisitos para aprender o manual).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_lookUnit": {
   "ch": "打开指定角色的属性UI",
   "en": "Open the stats UI of the specified character",
-  "pt": ""
+  "pt": "Abra a interface de atributos do personagem especificado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_lootNpcSpecifiedItem": {
   "ch": "将指定角色背包里指定数量的道具转移给玩家",
   "en": "Transfer the specified number of items from the specified character's bag to Player",
-  "pt": ""
+  "pt": "Transfira o número especificado de itens do inventário do personagem indicado para o Jogador.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_maintainArtifact": {
   "ch": "回满玩家所拥有的全部法宝的耐久度",
   "en": "Restore full durability for all Artifacts held by the player",
-  "pt": ""
+  "pt": "Restaure a durabilidade total de todos os Artefatos que o jogador possui.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_mapCreateBuild": {
   "ch": "创建一个传送阵到15,12，对应传送点5,5",
   "en": "Create a portal to (15,12) that corresponds to the portal at (5,5)",
-  "pt": ""
+  "pt": "Crie um portal para (15,12) que corresponda ao portal em (5,5).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_mapCreateBuildInRange": {
   "ch": "在大地图坐标一定范围内创建一个传送阵",
   "en": "Creates a portal within a certain area around world map coordinates",
-  "pt": ""
+  "pt": "Cria um portal em uma área específica ao redor das coordenadas do mapa mundial.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_mapCreateCmd": {
   "ch": "创建地图命令，参考大地图区域配置表WorldCreateCmd",
   "en": "When creating map commands, refer to the world map regional configuration table [WorldCreateCmd]",
-  "pt": ""
+  "pt": "Ao criar comandos de mapa, consulte a tabela de configuração regional do mapa mundial [WorldCreateCmd].",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_mapTransfer": {
   "ch": "调用传送功能，打开小地图点击图标进行传送",
   "en": "Call the teleport function. Open the region map and tap an icon to teleport",
-  "pt": ""
+  "pt": "Chame a função de teletransporte. Abra o mapa da região e toque em um ícone para teletransportar-se.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_modifPlayerName": {
   "ch": "修改玩家的名字",
   "en": "Change player name",
-  "pt": ""
+  "pt": "Alterar nome do jogador",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_monthLog": {
   "ch": "调用ID为1001的月结事件",
   "en": "Call the monthly tally event with ID 1001",
-  "pt": ""
+  "pt": "Chame o evento de contagem mensal com ID 1001",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_monthLostItem": {
   "ch": "随机丢失玩家背包指定数量的道具",
   "en": "Randomly remove a specified number of items from the player's bag",
-  "pt": ""
+  "pt": "Remova aleatoriamente um número específico de itens do inventário do jogador.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_moveCam": {
   "ch": "移动到地图表中配置的一个点",
   "en": "Move to a point configured in the map sheet",
-  "pt": ""
+  "pt": "Vá para um ponto configurado na folha do mapa.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_moveLastPoint": {
   "ch": "移动玩家到上一个位置",
   "en": "Move Player to the previous location",
-  "pt": ""
+  "pt": "Mover o jogador para a localização anterior",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_moveToPosition": {
   "ch": "将玩家移动到指定的地图位置",
   "en": "Move Player to the specified map location",
-  "pt": ""
+  "pt": "Move o jogador para a localização especificada no mapa.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_moveTownsSite": {
   "ch": "获得一个当前区域中未解锁视野的城镇位置",
   "en": "Acquire the location of a town that hasn't been discovered in the current region",
-  "pt": ""
+  "pt": "Descubra a localização de uma vila que ainda não foi encontrada na região atual.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_notNextDialogue": {
   "ch": "点击后不进入下一个对话",
   "en": "Tap and not enter the next dialogue",
-  "pt": ""
+  "pt": "Toque e não entre no próximo diálogo",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_npcAttack": {
   "ch": "攻击NPC",
   "en": "Attack NPC",
-  "pt": ""
+  "pt": "Ataque ao NPC",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_npcAttackForce": {
   "ch": "强行攻击NPC（无法逃跑）",
   "en": "Force Attack on NPC (no escape)",
-  "pt": ""
+  "pt": "Ataque forçado contra NPC (sem escape)",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_npcDramaGive": {
   "ch": "从世界上所有指定境界的NPC背包中，随机复制道具给玩家，直到达到总价值",
   "en": "Randomly copy items from the bags of NPCs in all specified realms in the world to Player until reaching the total value",
-  "pt": ""
+  "pt": "Copie aleatoriamente itens dos sacos de NPCs em todos os reinos especificados do mundo para o Jogador, até atingir o valor total.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_npcDungeonReward": {
   "ch": "模拟产出一次指定区域中随机打一次副本获得的道具",
   "en": "Simulate the items generated from clearing a random dungeon in the specified region",
-  "pt": ""
+  "pt": "Simule os itens gerados ao limpar uma masmorra aleatória na região especificada.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_npcItem": {
   "ch": "从NPC的背包选取指定价值的随机N个道具产出给玩家",
   "en": "Randomly select N items of specified value from the NPC's bag and generate them for Player",
-  "pt": ""
+  "pt": "Selecione aleatoriamente N itens com o valor especificado do inventário do NPC e entregue-os ao jogador.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_npcMapPositionClose": {
   "ch": "在ID为1001的位置10格范围内所有满足条件表中ID为1001条件的npc对玩家的仇恨度增加100至300点",
   "en": "All NPCs that meet the ID 1001 condition within 10 tiles of the ID 1001 location in the condition table gain 100 to 300 hatred toward Player",
-  "pt": ""
+  "pt": "Todos os NPCs que atenderem à condição de ID 1001 a até 10 tiles da localização do ID 1001 na tabela de condições ganham de 100 a 300 de ódio em relação ao Jogador.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_npcRevive": {
   "ch": "救助一丝元魂NPC",
   "en": "Rescue NPC on Last Breath",
-  "pt": ""
+  "pt": "Resgate um NPC em Último Suspiro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_openGuide": {
   "ch": "打开ID为10101的引导",
   "en": "Open the tutorial with ID 10101",
-  "pt": ""
+  "pt": "Abra o tutorial com ID 10101",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_openUI": {
   "ch": "打开野外商店UI界面（每个界面的名称在后面的表【UI界面名称】中）",
   "en": "Open world shop UI (See the table [UI Names] for the name of each UI)",
-  "pt": ""
+  "pt": "Abra a interface da loja do mundo (consulte a tabela [Nomes da UI] para ver o nome de cada interface)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_openUIBuilding10005": {
   "ch": "打开Building10005表中ID为162101的建筑数据",
   "en": "Open the building data of ID 162101 in [Building10005 table]",
-  "pt": ""
+  "pt": "Abra os dados do edifício com ID 162101 na [tabela Building10005]",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_openVillage": {
   "ch": "打开双仪村",
   "en": "Open Duality Village",
-  "pt": ""
+  "pt": "Abra a Vila da Dualidade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_pastFilter": {
   "ch": "开启倒叙滤镜",
   "en": "Turn on the flashback filter",
-  "pt": ""
+  "pt": "Ative o filtro de flashback",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_pilferProbability": {
   "ch": "使本月下一次偷窃的成功概率提高（被偷的人境界需要低于等于自己）",
   "en": "Increase the success chance of the next stealing attempt this month (the realm of the target needs to be lower than the thief)",
-  "pt": ""
+  "pt": "Aumente a chance de sucesso da próxima tentativa de roubo este mês (o reino do alvo precisa ser inferior ao do ladrão).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_pillFormulaStudy": {
   "ch": "立刻学会丹方",
   "en": "Instant learn Elixir Recipes",
-  "pt": ""
+  "pt": "Aprenda instantaneamente Receitas de Elixir",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_pillFormulaStudyAll": {
   "ch": "立刻学会所有可学习的 和 可升级的 丹宗丹方 超过玩家境界的不能学习",
   "en": "Immediately learn all learnable and upgradeable Elixir Recipes from the alchemist's sect. Cannot learn recipes with a Realm higher than the player's",
-  "pt": ""
+  "pt": "Aprenda imediatamente todas as Receitas de Elixir que podem ser aprendidas e aprimoradas na seita do alquimista. Não é possível aprender receitas cujo Reino exigido seja superior ao nível do jogador.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_playBG": {
   "ch": "播放背景音",
   "en": "Play background sound",
-  "pt": ""
+  "pt": "Reproduzir som de fundo",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_playMapEffect": {
   "ch": "在当前格子播放特效xingtian",
   "en": "Play the [xingtian] special effect in the current tile",
-  "pt": ""
+  "pt": "Execute o efeito especial [xingtian] no tile atual.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_positionEvent": {
   "ch": "以角色位置为原点，偏移10,5的位置创建1001的事件",
   "en": "Create a 1001 event with the character position as the origin, offset by 10,5",
-  "pt": ""
+  "pt": "Crie um evento 1001, tendo a posição do personagem como origem, deslocada em 10,5.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_putTask": {
   "ch": "提交一个任务",
   "en": "Turn in a mission",
-  "pt": ""
+  "pt": "Conclua uma missão",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_regainAttr": {
   "ch": "将当前体灵念值设置成上一次战斗前的值",
   "en": "Set the current vitality, energy, and focus to the values before the last battle",
-  "pt": ""
+  "pt": "Defina a vitalidade, a energia e o foco atuais com os valores anteriores à última batalha.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_releaseUnit": {
   "ch": "放走熊，使用前确保熊已经死亡",
   "en": "Release the bear and make sure the bear is dead before using it",
-  "pt": ""
+  "pt": "Solte o urso e certifique-se de que ele está morto antes de usá-lo.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_removeFeature": {
   "ch": "打开后天气运移除界面，玩家可以在其中选择一个进行移除",
   "en": "Open the destiny (nurture) removal interface that allows Player to select and remove a destiny",
-  "pt": ""
+  "pt": "Abra a interface de remoção de destino, que permite ao jogador selecionar e remover um destino.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_replaceTrainAnime": {
   "ch": "修改下一次双修的特效（必须使用AB功能把预制体放到Resources/Effect/UI）",
   "en": "Modify the effect of next Dual Cultivation (Must put the prefabs into Resources/Effect/UI with AssetBundle)",
-  "pt": ""
+  "pt": "Modifique o efeito do próximo Cultivo Dual (É necessário colocar os prefabs em Resources/Effect/UI utilizando o AssetBundle).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_returnLastReward": {
   "ch": "失去最后一次获得的物品,并将物品归还给来源者（可结合stealTownNpcItem使用）",
   "en": "Loses the last obtained item and returns it to its source (Can be used with stealTownNpcItem)",
-  "pt": ""
+  "pt": "Perde o último item obtido e o devolve à sua origem (Pode ser usado com stealTownNpcItem)",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_revive": {
   "ch": "原地复活角色（只有在战斗中玩家死亡了才能使用）",
   "en": "Revive the character on spot (only when Player has died in battle)",
-  "pt": ""
+  "pt": "Reviva o personagem no local (somente quando o jogador morreu em uma batalha).",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_reward": {
   "ch": "产出物品",
   "en": "Generate item",
-  "pt": ""
+  "pt": "Gerar item",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_rewardCount": {
   "ch": "产出物品",
   "en": "Generate item",
-  "pt": ""
+  "pt": "Gerar item",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_rewardGridArrtRange": {
   "ch": "产出玩家脚底格子内指定属性（修炼、挖矿等）",
   "en": "Generate specified stats in the tile under Player's feet (cultivation, mining, etc.)",
-  "pt": ""
+  "pt": "Gere os atributos especificados no tile sob os pés do jogador (cultivo, mineração, etc.)",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_rewardNPCBegMercy": {
   "ch": "调用求饶的封装，角色1向角色2求饶，直接产出角色2背包的道具给角色1",
   "en": "Call the item bundle for begging mercy. When Character 1 begs Character 2 for mercy, directly generate the items in Character 2's bag to Character 1",
-  "pt": ""
+  "pt": "Chame o pacote de itens para implorar por misericórdia. Quando o Personagem 1 implora ao Personagem 2 por misericórdia, transfira diretamente os itens que estão na mochila do Personagem 2 para o Personagem 1.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_rewardUnitArrt": {
   "ch": "产出列表",
   "en": "Generate list",
-  "pt": ""
+  "pt": "Gerar lista",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_roleSetRelation": {
   "ch": "设置角色1和角色2的关系",
   "en": "Set Character 1's relationship with Character 2",
-  "pt": ""
+  "pt": "Defina o relacionamento do Personagem 1 com o Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_saveData": {
   "ch": "保存当前存档",
   "en": "Save the current game",
-  "pt": ""
+  "pt": "Salvar o jogo atual",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_schoolAttrModif": {
   "ch": "增加宗门的属性",
   "en": "Increase sect stats",
-  "pt": ""
+  "pt": "Aumente os atributos da seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 25 caracteres"
+  ]
  },
  "modFunctionTitle_schoolReputationAdd": {
   "ch": "增加宗门的荣誉度",
   "en": "Increase sect honor",
-  "pt": ""
+  "pt": "Aumente a honra da seita",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setAttr": {
   "ch": "设置指定属性为指定值",
   "en": "Set a specified stat to a specified value",
-  "pt": ""
+  "pt": "Define uma estatística específica para um valor determinado",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setBuild10002NPC": {
   "ch": "将愚村中左侧的NPC替换为1001的NPC，点击后打开10001的剧情ID",
   "en": "Replace the NPC on the left in Yukong Village with the NPC 1001. Click on it to open plot ID 10001",
-  "pt": ""
+  "pt": "Substitua o NPC à esquerda na Vila Yukong pelo NPC 1001. Clique nele para abrir o ID de enredo 10001.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setDramaUnitData": {
   "ch": "设置剧情左边、右边抓取的角色（NPC-A、NPC-B）",
   "en": "Set plot left/right characters (NPC-A, NPC-B)",
-  "pt": ""
+  "pt": "Definir personagens à esquerda/direita do enredo (NPC-A, NPC-B)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_setEventDuration": {
   "ch": "设置事件的剩余持续时间，并在该事件被删除时执行一条命令",
   "en": "Sets the remaining time of an event and executes a command when the event is deleted",
-  "pt": ""
+  "pt": "Define o tempo restante de um evento e executa um comando quando o evento é excluído",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setEventObjData": {
   "ch": "设置1001事件4，不追踪玩家",
   "en": "Configure 1001 events 4, do not track Player",
-  "pt": ""
+  "pt": "Configure 1001 eventos 4, não rastrear jogador",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setNPCPoint": {
   "ch": "移动NPC到地图表中配置的一个点",
   "en": "Move the NPC to a point configured in the map sheet",
-  "pt": ""
+  "pt": "Mova o NPC para um ponto configurado na folha do mapa.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_setPoint": {
   "ch": "设置玩家的位置",
   "en": "Set Player's location",
-  "pt": ""
+  "pt": "Definir a localização do jogador",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setPointInDecorateClassName": {
   "ch": "随机移动到装饰分类为102的任意一格上",
   "en": "Randomly move to any tile in the decoration classification of 102",
-  "pt": ""
+  "pt": "Mova-se aleatoriamente para qualquer tile na classificação de decoração 102",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setSchoolPost": {
   "ch": "设置指定角色的宗门职位",
   "en": "Set Sect position of the specified character",
-  "pt": ""
+  "pt": "Define a posição da Seita do personagem especificado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setTaskData": {
   "ch": "将发布任务的NPC数据传到任务中",
   "en": "Transfers the data of the mission giver NPC to the mission",
-  "pt": ""
+  "pt": "Transfere os dados do NPC que dá a missão para a missão em si.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setUnitAttr": {
   "ch": "设置单位属性",
   "en": "Set unit stats",
-  "pt": ""
+  "pt": "Definir os atributos da unidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 19 caracteres"
+  ]
  },
  "modFunctionTitle_setUnitGhost": {
   "ch": "设置指定角色为一丝元魂",
   "en": "Sets the specified character to Last Breath",
-  "pt": ""
+  "pt": "Define o personagem especificado como Último Suspiro.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setUnitPoint": {
   "ch": "移动角色到指定位置",
   "en": "Move character to a specific location",
-  "pt": ""
+  "pt": "Move o personagem para uma localização específica",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_setUnitPropToUnit": {
   "ch": "提取角色1的背包道具到角色2",
   "en": "Extract items in Character 1's inventory to Character 2",
-  "pt": ""
+  "pt": "Extraia itens do inventário do Personagem 1 para o Personagem 2.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_setWorldData": {
   "ch": "设置存档中指定key的数据",
   "en": "Configure the specified key's data in the save file",
-  "pt": ""
+  "pt": "Configure os dados da chave especificada no arquivo de salvamento.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_showEvent": {
   "ch": "显示指定ID的大地图事件",
   "en": "Show the world map event with the specified ID",
-  "pt": ""
+  "pt": "Exiba o evento do mapa mundial com o ID especificado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_showTownSubBuild": {
   "ch": "解锁城镇的建木",
   "en": "Unlocks Town Tree Vault",
-  "pt": ""
+  "pt": "Desbloqueia a Árvore-Cofre da Vila",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_sight": {
   "ch": "永久显示以当前位置为中心的指定范围视野",
   "en": "Permanently show the specific range of view centered on the current position",
-  "pt": ""
+  "pt": "Exibir permanentemente o intervalo específico de visualização centrado na posição atual",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_sound": {
   "ch": "播放音效",
   "en": "Play SFX",
-  "pt": ""
+  "pt": "Reproduzir SFX",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "modFunctionTitle_spriteClose": {
   "ch": "增加器灵亲密度",
   "en": "Increase artifact spirit affinity",
-  "pt": ""
+  "pt": "Aumente a afinidade do espírito do artefato",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_stealTownNpcItem": {
   "ch": "抓取NPC并获取身上一件单价最高的物品",
   "en": "Extracts the NPC and obtains an item on them with the highest unit price",
-  "pt": ""
+  "pt": "Extrai o NPC e obtém o item com o maior preço unitário que ele possui.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_systemTips": {
   "ch": "弹出一个提示UI",
   "en": "Pop up a tip UI",
-  "pt": ""
+  "pt": "Exiba uma interface de dicas pop-up",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 35 > 20 caracteres"
+  ]
  },
  "modFunctionTitle_threatenNPC": {
   "ch": "玩家威胁B且成功",
   "en": "Player threatens B and succeeds",
-  "pt": ""
+  "pt": "O jogador ameaça B e consegue.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_townAuctionAddItem": {
   "ch": "往指定区域的拍卖行中添加指定道具、秘籍",
   "en": "Add specified items and manuals to the auction house of the specified region",
-  "pt": ""
+  "pt": "Adicione os itens e manuais especificados à casa de leilões da região indicada.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunctionTitle_transmitTaskTime": {
   "ch": "将任务123的剩余持续时间传递给任务234",
   "en": "Transfer the remaining time of mission 123 to mission 234",
-  "pt": ""
+  "pt": "Transfira o tempo restante da missão 123 para a missão 234.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_unitAddImmortalPoint": {
   "ch": "角色增加仙力点",
   "en": "Add Immortal Power Pts to character",
-  "pt": ""
+  "pt": "Adicione pontos de Poder Imortal ao personagem.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_unitExitSchool": {
   "ch": "角色退出宗门",
   "en": "Character leaves sect",
-  "pt": ""
+  "pt": "O personagem deixa a seita",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_unitJoinSchool": {
   "ch": "角色1加入角色2的宗门",
   "en": "Character 1 joins Character 2's Sect",
-  "pt": ""
+  "pt": "O Personagem 1 entra para a Seita do Personagem 2.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_unitLog": {
   "ch": "记录单位B的日志",
   "en": "Record unit B's log",
-  "pt": ""
+  "pt": "Registrar o log da unidade B",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "modFunctionTitle_unitRelationBreak": {
   "ch": "角色1与角色2解除关系",
   "en": "Character 1 cancels relationship with Character 2",
-  "pt": ""
+  "pt": "Personagem 1 cancela o relacionamento com o Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_useAssignBuild10005": {
   "ch": "使WorldBuilding10005表中ID为162101的建筑被判断为已使用过",
   "en": "Make the building with ID 162101 in the [WorldBuilding10005] considered used",
-  "pt": ""
+  "pt": "Marque o edifício com ID 162101 em [WorldBuilding10005] como sendo utilizado.",
+  "auto": "local/hy-mt2"
  },
  "modFunctionTitle_useBuild10005": {
   "ch": "使玩家当前位置的奇遇建筑被判断为使用过，只对Building10005生效",
   "en": "Make the adventure building at Player's current location considered used, only effective for [Building10005]",
-  "pt": ""
+  "pt": "Marque a construção de aventura no local atual do Jogador como utilizada; isso só tem efeito para o [Building10005].",
+  "auto": "local/hy-mt2"
  }
 }

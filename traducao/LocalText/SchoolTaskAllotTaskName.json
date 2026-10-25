@@ -2,1926 +2,2455 @@
  "SchoolTaskAllotTaskName10001": {
   "ch": "平定叛乱",
   "en": "Pacifying Rebellions",
-  "pt": ""
+  "pt": "Pacificando Rebeliões",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName10002": {
   "ch": "运送丹药",
   "en": "Elixir Delivery",
-  "pt": ""
+  "pt": "Entrega de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName10003": {
   "ch": "扩张领地",
   "en": "Territory Expansion",
-  "pt": ""
+  "pt": "Expansão de Território",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName10004": {
   "ch": "击杀敌道",
   "en": "Enemy Elimination",
-  "pt": ""
+  "pt": "Eliminação de Inimigos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName10005": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coleta de Minérios",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1001": {
   "ch": "招募任务",
   "en": "Recruit",
-  "pt": ""
+  "pt": "Recrutamento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName1002": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Coleta de Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1003": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Concoção de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1004": {
   "ch": "清理怪物",
   "en": "Monster Sweep",
-  "pt": ""
+  "pt": "Limpeza de Monstros",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName1005": {
   "ch": "驻守领地",
   "en": "Territory Garrison",
-  "pt": ""
+  "pt": "Guarnição de Território",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1101": {
   "ch": "例行巡查",
   "en": "Routine Inspection",
-  "pt": ""
+  "pt": "Inspeção de Rotina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1102": {
   "ch": "弟子纷争",
   "en": "Disciple Fight",
-  "pt": ""
+  "pt": "Luta de Discípulos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1103": {
   "ch": "神兽巡查",
   "en": "Divine Beast Inspection",
-  "pt": ""
+  "pt": "Inspeção de Besta Divina",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Divine Beast → Fera Divina"
+  ]
  },
  "SchoolTaskAllotTaskName1104": {
   "ch": "法宝巡查",
   "en": "Artifact Inspection",
-  "pt": ""
+  "pt": "Inspeção de Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1105": {
   "ch": "丹药巡查",
   "en": "Elixir Inspection",
-  "pt": ""
+  "pt": "Inspeção de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1106": {
   "ch": "陪伴神兽",
   "en": "Accompany Divine Beast",
-  "pt": ""
+  "pt": "Acompanhar Besta Divina",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Divine Beast → Fera Divina"
+  ]
  },
  "SchoolTaskAllotTaskName1107": {
   "ch": "清剿低级妖兽",
   "en": "Clear Low-level Monsters",
-  "pt": ""
+  "pt": "Limpeza de Monstros de Baixo Nível",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1108": {
   "ch": "清剿劫匪",
   "en": "Clear Bandits",
-  "pt": ""
+  "pt": "Limpeza de Bandidos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName1109": {
   "ch": "阵法巡查",
   "en": "Array Inspection",
-  "pt": ""
+  "pt": "Inspeção de Formação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11102": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11104": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName11105": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11106": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": ""
+  "pt": "Conhecer Escolhido pelo Céu",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName11302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": ""
+  "pt": "Participar do Treinamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11303": {
   "ch": "解答疑问",
   "en": "Answer Doubts",
-  "pt": ""
+  "pt": "Responder Dúvidas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11304": {
   "ch": "学习炼器",
   "en": "Learn to Forge",
-  "pt": ""
+  "pt": "Aprender a Forjar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11305": {
   "ch": "学习炼丹",
   "en": "Learn Alchemy",
-  "pt": ""
+  "pt": "Aprender Alquimia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11306": {
   "ch": "交流音律",
   "en": "Exchange Music",
-  "pt": ""
+  "pt": "Trocar Música",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11307": {
   "ch": "实战历练",
   "en": "Combat Practice",
-  "pt": ""
+  "pt": "Prática de Combate",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": ""
+  "pt": "Ensinar Taoismo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11402": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11404": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName11405": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11406": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11601": {
   "ch": "回收功法",
   "en": "Return Martial Arts",
-  "pt": ""
+  "pt": "Devolver Artes Marciais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11602": {
   "ch": "回收丹药、法宝",
   "en": "Return Elixir and Artifact",
-  "pt": ""
+  "pt": "Devolver Elixir e Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Concoctar Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11604": {
   "ch": "炼制法宝",
   "en": "Forge Artifact",
-  "pt": ""
+  "pt": "Forjar Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11605": {
   "ch": "救助伤员",
   "en": "Rescue the Injured",
-  "pt": ""
+  "pt": "Rescatar os Feridos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11606": {
   "ch": "夜观星象",
   "en": "Observe Stars at Night",
-  "pt": ""
+  "pt": "Observar Estrelas à Noite",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11607": {
   "ch": "援救弟子",
   "en": "Rescue Disciple",
-  "pt": ""
+  "pt": "Rescatar Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11701": {
   "ch": "察看村庄",
   "en": "Inspect Village",
-  "pt": ""
+  "pt": "Inspecionar Aldeia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11702": {
   "ch": "探索秘境",
   "en": "Explore Mystic Realm",
-  "pt": ""
+  "pt": "Explorar Reino Místico",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11703": {
   "ch": "查探异象",
   "en": "Check Vision",
-  "pt": ""
+  "pt": "Verificar Visão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11704": {
   "ch": "联合讨伐",
   "en": "Joint Attack",
-  "pt": ""
+  "pt": "Ataque Conjunto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11705": {
   "ch": "调查特殊事件",
   "en": "Investigate Special Story",
-  "pt": ""
+  "pt": "Investigar História Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11706": {
   "ch": "打探神秘组织情报",
   "en": "Look Into Secret Group Information",
-  "pt": ""
+  "pt": "Investigar Informações de Grupo Secreto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName11707": {
   "ch": "清扫妖兽巢",
   "en": "Clear Demon Nest",
-  "pt": ""
+  "pt": "Limpar Ninho de Demônios",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 24 > 21 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName11708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": ""
+  "pt": "Atrair para Veia Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12102": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12104": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName12105": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12106": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": ""
+  "pt": "Conhecer Escolhido pelo Céu",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName12302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": ""
+  "pt": "Participar de Treinamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12303": {
   "ch": "解答疑问",
   "en": "Answer Doubts",
-  "pt": ""
+  "pt": "Responder Dúvidas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12304": {
   "ch": "学习炼器",
   "en": "Learn to Forge",
-  "pt": ""
+  "pt": "Aprender a Forjar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12305": {
   "ch": "学习炼丹",
   "en": "Learn Alchemy",
-  "pt": ""
+  "pt": "Aprender Alquimia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12306": {
   "ch": "交流音律",
   "en": "Exchange Music",
-  "pt": ""
+  "pt": "Trocar Música",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12307": {
   "ch": "实战历练",
   "en": "Combat Practice",
-  "pt": ""
+  "pt": "Prática de Combate",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": ""
+  "pt": "Ensinar Taoismo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12402": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12404": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName12405": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12406": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12601": {
   "ch": "回收功法",
   "en": "Return Martial Arts",
-  "pt": ""
+  "pt": "Devolver Artes Marciais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12602": {
   "ch": "回收丹药、法宝",
   "en": "Return Elixir and Artifact",
-  "pt": ""
+  "pt": "Devolver Elixir e Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Concoctar Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12604": {
   "ch": "炼制法宝",
   "en": "Forge Artifact",
-  "pt": ""
+  "pt": "Forjar Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12605": {
   "ch": "救助伤员",
   "en": "Rescue the Injured",
-  "pt": ""
+  "pt": "Resgatar os Feridos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12606": {
   "ch": "夜观星象",
   "en": "Observe Stars at Night",
-  "pt": ""
+  "pt": "Observar Estrelas à Noite",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12607": {
   "ch": "援救弟子",
   "en": "Rescue Disciple",
-  "pt": ""
+  "pt": "Resgatar Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12701": {
   "ch": "察看村庄",
   "en": "Inspect Village",
-  "pt": ""
+  "pt": "Inspecionar Aldeia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12702": {
   "ch": "探索秘境",
   "en": "Explore Mystic Realm",
-  "pt": ""
+  "pt": "Explorar Reino Místico",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12703": {
   "ch": "查探异象",
   "en": "Check Vision",
-  "pt": ""
+  "pt": "Verificar Visão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12704": {
   "ch": "联合讨伐",
   "en": "Joint Attack",
-  "pt": ""
+  "pt": "Ataque Conjunto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12705": {
   "ch": "调查特殊事件",
   "en": "Investigate Special Story",
-  "pt": ""
+  "pt": "Investigar História Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12706": {
   "ch": "打探神秘组织情报",
   "en": "Look Into Secret Group Information",
-  "pt": ""
+  "pt": "Investigar Informações de Grupo Secreto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName12707": {
   "ch": "清扫妖兽巢",
   "en": "Clear Demon Nest",
-  "pt": ""
+  "pt": "Limpar Ninho de Demônio",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName12708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": ""
+  "pt": "Atrair para Veia Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1301": {
   "ch": "招纳记名弟子",
   "en": "Recruit Backup Disciple",
-  "pt": ""
+  "pt": "Recrutar Discípulo Reserva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1302": {
   "ch": "接引新弟子",
   "en": "Attract New Disciples",
-  "pt": ""
+  "pt": "Atrair Novos Discípulos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1303": {
   "ch": "扩大招收",
   "en": "Expanding Recruitment",
-  "pt": ""
+  "pt": "Expandir Recrutamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1304": {
   "ch": "测试凡人灵根",
   "en": "Testing Mortal Spiritual Root",
-  "pt": ""
+  "pt": "Testar Raiz Espiritual Mortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1305": {
   "ch": "归档弟子信息",
   "en": "Filling Disciple Information",
-  "pt": ""
+  "pt": "Preencher Informações de Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1306": {
   "ch": "讲解情理",
   "en": "Explain Reasoning",
-  "pt": ""
+  "pt": "Explicar Raciocínio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1307": {
   "ch": "弟子切磋",
   "en": "Disciple Spar",
-  "pt": ""
+  "pt": "Duelo de Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName13101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13102": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13104": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName13105": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13106": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": ""
+  "pt": "Conhecer Escolhido pelo Céu",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName13302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": ""
+  "pt": "Participar do Treinamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13303": {
   "ch": "解答疑问",
   "en": "Answer Doubts",
-  "pt": ""
+  "pt": "Responder Dúvidas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13304": {
   "ch": "学习炼器",
   "en": "Learn to Forge",
-  "pt": ""
+  "pt": "Aprender a Forjar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13305": {
   "ch": "学习炼丹",
   "en": "Learn Alchemy",
-  "pt": ""
+  "pt": "Aprender Alquimia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13306": {
   "ch": "交流音律",
   "en": "Exchange Music",
-  "pt": ""
+  "pt": "Trocar Música",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13307": {
   "ch": "实战历练",
   "en": "Combat Practice",
-  "pt": ""
+  "pt": "Prática de Combate",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": ""
+  "pt": "Ensinar Taoismo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover a Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13402": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar a Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13404": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName13405": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13406": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13601": {
   "ch": "回收功法",
   "en": "Return Martial Arts",
-  "pt": ""
+  "pt": "Devolver Artes Marciais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13602": {
   "ch": "回收丹药、法宝",
   "en": "Return Elixir and Artifact",
-  "pt": ""
+  "pt": "Devolver Elixir e Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Concoctar Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13604": {
   "ch": "炼制法宝",
   "en": "Forge Artifact",
-  "pt": ""
+  "pt": "Forjar Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13605": {
   "ch": "救助伤员",
   "en": "Rescue the Injured",
-  "pt": ""
+  "pt": "Resgatar os Feridos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13606": {
   "ch": "夜观星象",
   "en": "Observe Stars at Night",
-  "pt": ""
+  "pt": "Observar Estrelas à Noite",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13607": {
   "ch": "援救弟子",
   "en": "Rescue Disciple",
-  "pt": ""
+  "pt": "Resgatar Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13701": {
   "ch": "察看村庄",
   "en": "Inspect Village",
-  "pt": ""
+  "pt": "Inspecionar Aldeia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13702": {
   "ch": "探索秘境",
   "en": "Explore Mystic Realm",
-  "pt": ""
+  "pt": "Explorar Reino Místico",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13703": {
   "ch": "查探异象",
   "en": "Check Vision",
-  "pt": ""
+  "pt": "Verificar Visão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13704": {
   "ch": "联合讨伐",
   "en": "Joint Attack",
-  "pt": ""
+  "pt": "Ataque Conjunto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13705": {
   "ch": "调查特殊事件",
   "en": "Investigate Special Story",
-  "pt": ""
+  "pt": "Investigar História Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13706": {
   "ch": "打探神秘组织情报",
   "en": "Look Into Secret Group Information",
-  "pt": ""
+  "pt": "Investigar Informações de Grupo Secreto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName13707": {
   "ch": "清扫妖兽巢",
   "en": "Clear Demon Nest",
-  "pt": ""
+  "pt": "Limpar Ninho de Demônios",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 24 > 21 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName13708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": ""
+  "pt": "Atrair Veia Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1401": {
   "ch": "接访来客",
   "en": "Receiving Visitors",
-  "pt": ""
+  "pt": "Receber Visitantes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1402": {
   "ch": "宗门回礼",
   "en": "Sect Returning Gift",
-  "pt": ""
+  "pt": "Retorno de Presente da Seita",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName1403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": ""
+  "pt": "Assistir Cultivador Solitário",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Rogue Cultivator → Cultivador Errante"
+  ]
  },
  "SchoolTaskAllotTaskName1404": {
   "ch": "飞鸽传书",
   "en": "Letter by Pigeon",
-  "pt": ""
+  "pt": "Carta por Pombo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1405": {
   "ch": "仓库扩容",
   "en": "Warehouse Expansion",
-  "pt": ""
+  "pt": "Expansão do Armazém",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1406": {
   "ch": "维修传送阵",
   "en": "Portal Repair",
-  "pt": ""
+  "pt": "Reparo do Portal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": ""
+  "pt": "Reparo do Pavilhão Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1408": {
   "ch": "修建景观",
   "en": "Landscape Repair",
-  "pt": ""
+  "pt": "Reparo da Paisagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1409": {
   "ch": "重建外墙",
   "en": "Rebuild Outer Wall",
-  "pt": ""
+  "pt": "Reconstruir Muro Externo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14102": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14104": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName14105": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14106": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": ""
+  "pt": "Conhecer Escolhido pelo Céu",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName14302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": ""
+  "pt": "Participar do Treinamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14303": {
   "ch": "解答疑问",
   "en": "Answer Doubts",
-  "pt": ""
+  "pt": "Responder Dúvidas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14304": {
   "ch": "学习炼器",
   "en": "Learn to Forge",
-  "pt": ""
+  "pt": "Aprender a Forjar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14305": {
   "ch": "学习炼丹",
   "en": "Learn Alchemy",
-  "pt": ""
+  "pt": "Aprender Alquimia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14306": {
   "ch": "交流音律",
   "en": "Exchange Music",
-  "pt": ""
+  "pt": "Trocar Música",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14307": {
   "ch": "实战历练",
   "en": "Combat Practice",
-  "pt": ""
+  "pt": "Prática de Combate",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": ""
+  "pt": "Ensinar Taoismo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14402": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14404": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName14405": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14406": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14601": {
   "ch": "回收功法",
   "en": "Return Martial Arts",
-  "pt": ""
+  "pt": "Devolver Artes Marciais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14602": {
   "ch": "回收丹药、法宝",
   "en": "Return Elixir and Artifact",
-  "pt": ""
+  "pt": "Devolver Elixir e Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Concoctar Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14604": {
   "ch": "炼制法宝",
   "en": "Forge Artifact",
-  "pt": ""
+  "pt": "Forjar Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14605": {
   "ch": "救助伤员",
   "en": "Rescue the Injured",
-  "pt": ""
+  "pt": "Resgatar os Feridos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14606": {
   "ch": "夜观星象",
   "en": "Observe Stars at Night",
-  "pt": ""
+  "pt": "Observar Estrelas à Noite",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14607": {
   "ch": "援救弟子",
   "en": "Rescue Disciple",
-  "pt": ""
+  "pt": "Resgatar Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14701": {
   "ch": "察看村庄",
   "en": "Inspect Village",
-  "pt": ""
+  "pt": "Inspecionar Aldeia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14702": {
   "ch": "探索秘境",
   "en": "Explore Mystic Realm",
-  "pt": ""
+  "pt": "Explorar Reino Místico",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14703": {
   "ch": "查探异象",
   "en": "Check Vision",
-  "pt": ""
+  "pt": "Verificar Visão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14704": {
   "ch": "联合讨伐",
   "en": "Joint Attack",
-  "pt": ""
+  "pt": "Ataque Conjunto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14705": {
   "ch": "调查特殊事件",
   "en": "Investigate Special Story",
-  "pt": ""
+  "pt": "Investigar História Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14706": {
   "ch": "打探神秘组织情报",
   "en": "Look Into Secret Group Information",
-  "pt": ""
+  "pt": "Buscar Informações sobre Grupo Secreto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName14707": {
   "ch": "清扫妖兽巢",
   "en": "Clear Demon Nest",
-  "pt": ""
+  "pt": "Limpar Ninho de Demônios",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 24 > 21 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName14708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": ""
+  "pt": "Atrair para Veia Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15102": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15104": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName15105": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15106": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": ""
+  "pt": "Conhecer Escolhido pelo Céu",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName15302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": ""
+  "pt": "Participar de Treinamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15303": {
   "ch": "解答疑问",
   "en": "Answer Doubts",
-  "pt": ""
+  "pt": "Responder Dúvidas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15304": {
   "ch": "学习炼器",
   "en": "Learn to Forge",
-  "pt": ""
+  "pt": "Aprender a Forjar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15305": {
   "ch": "学习炼丹",
   "en": "Learn Alchemy",
-  "pt": ""
+  "pt": "Aprender Alquimia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15306": {
   "ch": "交流音律",
   "en": "Exchange Music",
-  "pt": ""
+  "pt": "Trocar Música",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15307": {
   "ch": "实战历练",
   "en": "Combat Practice",
-  "pt": ""
+  "pt": "Prática de Combate",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": ""
+  "pt": "Ensinar Taoismo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": ""
+  "pt": "Promover Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15402": {
   "ch": "帮助凡人",
   "en": "Help Mortals",
-  "pt": ""
+  "pt": "Ajudar Mortais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": ""
+  "pt": "Limpar Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15404": {
   "ch": "无偿答疑",
   "en": "Answer Freely",
-  "pt": ""
+  "pt": "Responder Livremente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName15405": {
   "ch": "加强禁制",
   "en": "Strengthen Seal",
-  "pt": ""
+  "pt": "Fortalecer Selo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15406": {
   "ch": "改善风水",
   "en": "Improve Feng Shui",
-  "pt": ""
+  "pt": "Melhorar Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15601": {
   "ch": "回收功法",
   "en": "Return Martial Arts",
-  "pt": ""
+  "pt": "Devolver Artes Marciais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15602": {
   "ch": "回收丹药、法宝",
   "en": "Return Elixir and Artifact",
-  "pt": ""
+  "pt": "Devolver Elixir e Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Concoctar Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15604": {
   "ch": "炼制法宝",
   "en": "Forge Artifact",
-  "pt": ""
+  "pt": "Forjar Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15605": {
   "ch": "救助伤员",
   "en": "Rescue the Injured",
-  "pt": ""
+  "pt": "Resgatar os Feridos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15606": {
   "ch": "夜观星象",
   "en": "Observe Stars at Night",
-  "pt": ""
+  "pt": "Observar Estrelas à Noite",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15607": {
   "ch": "援救弟子",
   "en": "Rescue Disciple",
-  "pt": ""
+  "pt": "Resgatar Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15701": {
   "ch": "察看村庄",
   "en": "Inspect Village",
-  "pt": ""
+  "pt": "Inspecionar Aldeia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15702": {
   "ch": "探索秘境",
   "en": "Explore Mystic Realm",
-  "pt": ""
+  "pt": "Explorar Reino Místico",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15703": {
   "ch": "查探异象",
   "en": "Check Vision",
-  "pt": ""
+  "pt": "Verificar Visão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15704": {
   "ch": "联合讨伐",
   "en": "Joint Attack",
-  "pt": ""
+  "pt": "Ataque Conjunto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15705": {
   "ch": "调查特殊事件",
   "en": "Investigate Special Story",
-  "pt": ""
+  "pt": "Investigar História Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15706": {
   "ch": "打探神秘组织情报",
   "en": "Look Into Secret Group Information",
-  "pt": ""
+  "pt": "Investigar Informações de Grupo Secreto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName15707": {
   "ch": "清扫妖兽巢",
   "en": "Clear Demon Nest",
-  "pt": ""
+  "pt": "Limpar Ninho de Demônios",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 24 > 21 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName15708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": ""
+  "pt": "Atrair Veia Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1601": {
   "ch": "重申门规",
   "en": "Reaffirm Sect Rules",
-  "pt": ""
+  "pt": "Reafirmar Regras da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1602": {
   "ch": "发送关怀信件",
   "en": "Send Letter of Caring",
-  "pt": ""
+  "pt": "Enviar Carta de Cuidado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": ""
+  "pt": "Escavar Veia Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1604": {
   "ch": "堪舆寻宝",
   "en": "Using Geomancy to find Treasures",
-  "pt": ""
+  "pt": "Usar Geomancia para Encontrar Tesouros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1605": {
   "ch": "参与拍卖",
   "en": "Participate in Auction",
-  "pt": ""
+  "pt": "Participar de Leilão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1606": {
   "ch": "交易丹药法宝",
   "en": "Trade Elixir Artifact",
-  "pt": ""
+  "pt": "Trocar Elixir ou Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1607": {
   "ch": "双人同游",
   "en": "Traveling Together",
-  "pt": ""
+  "pt": "Viajar Juntos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1608": {
   "ch": "宗门小聚",
   "en": "Sect Gathering",
-  "pt": ""
+  "pt": "Reunião da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1701": {
   "ch": "渗入敌对宗门",
   "en": "Infiltrate Hostile Sect",
-  "pt": ""
+  "pt": "Infiltrar-se em Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1702": {
   "ch": "击杀敌对宗门弟子",
   "en": "Kill Hostile Sect Disciple",
-  "pt": ""
+  "pt": "Matar Discípulo de Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": ""
+  "pt": "Espionar Militares",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1704": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coletar Minérios",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1705": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Coletar Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1706": {
   "ch": "探索遗址",
   "en": "Explore Ruins",
-  "pt": ""
+  "pt": "Explorar Ruínas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName1707": {
   "ch": "探索药园",
   "en": "Explore Herb Garden",
-  "pt": ""
+  "pt": "Explorar Jardim de Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2101": {
   "ch": "例行巡查",
   "en": "Routine Inspection",
-  "pt": ""
+  "pt": "Inspeção de Rotina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2102": {
   "ch": "弟子纷争",
   "en": "Disciple Fight",
-  "pt": ""
+  "pt": "Luta entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName2103": {
   "ch": "神兽巡查",
   "en": "Divine Beast Inspection",
-  "pt": ""
+  "pt": "Inspeção de Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2104": {
   "ch": "法宝巡查",
   "en": "Artifact Inspection",
-  "pt": ""
+  "pt": "Inspeção de Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2105": {
   "ch": "丹药巡查",
   "en": "Elixir Inspection",
-  "pt": ""
+  "pt": "Inspeção de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2106": {
   "ch": "陪伴神兽",
   "en": "Accompany Divine Beast",
-  "pt": ""
+  "pt": "Acompanhar Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2107": {
   "ch": "清剿低级妖兽",
   "en": "Clear Low-level Monsters",
-  "pt": ""
+  "pt": "Eliminar Monstros de Baixo Nível",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2108": {
   "ch": "清剿劫匪",
   "en": "Clear Bandits",
-  "pt": ""
+  "pt": "Eliminar Bandidos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2109": {
   "ch": "阵法巡查",
   "en": "Array Inspection",
-  "pt": ""
+  "pt": "Inspeção de Formação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2301": {
   "ch": "招纳记名弟子",
   "en": "Recruit Backup Disciple",
-  "pt": ""
+  "pt": "Recrutar Discípulo Reserva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2302": {
   "ch": "接引新弟子",
   "en": "Attract New Disciples",
-  "pt": ""
+  "pt": "Atrair Novos Discípulos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2303": {
   "ch": "扩大招收",
   "en": "Expanding Recruitment",
-  "pt": ""
+  "pt": "Expandir Recrutamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2304": {
   "ch": "测试凡人灵根",
   "en": "Testing Mortal Spiritual Root",
-  "pt": ""
+  "pt": "Testar Raiz Espiritual Mortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2305": {
   "ch": "归档弟子信息",
   "en": "Filling Disciple Information",
-  "pt": ""
+  "pt": "Preencher Informações do Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2306": {
   "ch": "讲解情理",
   "en": "Explain Reasoning",
-  "pt": ""
+  "pt": "Explicar Raciocínio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2307": {
   "ch": "弟子切磋",
   "en": "Disciple Spar",
-  "pt": ""
+  "pt": "Spar entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName2401": {
   "ch": "接访来客",
   "en": "Receiving Visitors",
-  "pt": ""
+  "pt": "Receber Visitantes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2402": {
   "ch": "宗门回礼",
   "en": "Sect Returning Gift",
-  "pt": ""
+  "pt": "Presente de Retorno da Seita",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName2403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": ""
+  "pt": "Assistir Cultivador Renegado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Rogue Cultivator → Cultivador Errante"
+  ]
  },
  "SchoolTaskAllotTaskName2404": {
   "ch": "飞鸽传书",
   "en": "Letter by Pigeon",
-  "pt": ""
+  "pt": "Carta por Pombo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2405": {
   "ch": "仓库扩容",
   "en": "Warehouse Expansion",
-  "pt": ""
+  "pt": "Expansão do Armazém",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2406": {
   "ch": "维修传送阵",
   "en": "Portal Repair",
-  "pt": ""
+  "pt": "Reparo do Portal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": ""
+  "pt": "Reparo do Pavilhão dos Espíritos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2408": {
   "ch": "修建景观",
   "en": "Landscape Repair",
-  "pt": ""
+  "pt": "Reparo da Paisagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2409": {
   "ch": "重建外墙",
   "en": "Rebuild Outer Wall",
-  "pt": ""
+  "pt": "Reconstruir a Muralha Externa",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 29 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName2601": {
   "ch": "重申门规",
   "en": "Reaffirm Sect Rules",
-  "pt": ""
+  "pt": "Reafirmar Regras da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2602": {
   "ch": "发送关怀信件",
   "en": "Send Letter of Caring",
-  "pt": ""
+  "pt": "Enviar Carta de Cuidado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": ""
+  "pt": "Escavar Veia de Espírito",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2604": {
   "ch": "堪舆寻宝",
   "en": "Using Geomancy to find Treasures",
-  "pt": ""
+  "pt": "Usar Geomancia para Encontrar Tesouros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2605": {
   "ch": "参与拍卖",
   "en": "Participate in Auction",
-  "pt": ""
+  "pt": "Participar de Leilão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2606": {
   "ch": "交易丹药法宝",
   "en": "Trade Elixir Artifact",
-  "pt": ""
+  "pt": "Trocar Elixir ou Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2607": {
   "ch": "双人同游",
   "en": "Traveling Together",
-  "pt": ""
+  "pt": "Viajar Juntos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2608": {
   "ch": "宗门小聚",
   "en": "Sect Gathering",
-  "pt": ""
+  "pt": "Encontro da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2701": {
   "ch": "渗入敌对宗门",
   "en": "Infiltrate Hostile Sect",
-  "pt": ""
+  "pt": "Infiltrar-se em Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2702": {
   "ch": "击杀敌对宗门弟子",
   "en": "Kill Hostile Sect Disciple",
-  "pt": ""
+  "pt": "Eliminar Discípulo de Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": ""
+  "pt": "Espionar Militares",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2704": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coletar Minérios",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2705": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Coletar Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2706": {
   "ch": "探索遗址",
   "en": "Explore Ruins",
-  "pt": ""
+  "pt": "Explorar Ruínas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName2707": {
   "ch": "探索药园",
   "en": "Explore Herb Garden",
-  "pt": ""
+  "pt": "Explorar Jardim de Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3101": {
   "ch": "例行巡查",
   "en": "Routine Inspection",
-  "pt": ""
+  "pt": "Inspeção de Rotina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3102": {
   "ch": "弟子纷争",
   "en": "Disciple Fight",
-  "pt": ""
+  "pt": "Luta entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName3103": {
   "ch": "神兽巡查",
   "en": "Divine Beast Inspection",
-  "pt": ""
+  "pt": "Inspeção de Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3104": {
   "ch": "法宝巡查",
   "en": "Artifact Inspection",
-  "pt": ""
+  "pt": "Inspeção de Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3105": {
   "ch": "丹药巡查",
   "en": "Elixir Inspection",
-  "pt": ""
+  "pt": "Inspeção de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3106": {
   "ch": "陪伴神兽",
   "en": "Accompany Divine Beast",
-  "pt": ""
+  "pt": "Acompanhar Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3107": {
   "ch": "清剿低级妖兽",
   "en": "Clear Low-level Monsters",
-  "pt": ""
+  "pt": "Eliminar Monstros de Baixo Nível",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3108": {
   "ch": "清剿劫匪",
   "en": "Clear Bandits",
-  "pt": ""
+  "pt": "Eliminar Bandidos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3109": {
   "ch": "阵法巡查",
   "en": "Array Inspection",
-  "pt": ""
+  "pt": "Inspeção de Formação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3301": {
   "ch": "招纳记名弟子",
   "en": "Recruit Backup Disciple",
-  "pt": ""
+  "pt": "Recrutar Discípulo Reserva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3302": {
   "ch": "接引新弟子",
   "en": "Attract New Disciples",
-  "pt": ""
+  "pt": "Atrair Novos Discípulos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3303": {
   "ch": "扩大招收",
   "en": "Expanding Recruitment",
-  "pt": ""
+  "pt": "Expandir Recrutamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3304": {
   "ch": "测试凡人灵根",
   "en": "Testing Mortal Spiritual Root",
-  "pt": ""
+  "pt": "Testar Raiz Espiritual Mortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3305": {
   "ch": "归档弟子信息",
   "en": "Filling Disciple Information",
-  "pt": ""
+  "pt": "Preencher Informações do Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3306": {
   "ch": "讲解情理",
   "en": "Explain Reasoning",
-  "pt": ""
+  "pt": "Explicar Raciocínio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3307": {
   "ch": "弟子切磋",
   "en": "Disciple Spar",
-  "pt": ""
+  "pt": "Spar entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName3401": {
   "ch": "接访来客",
   "en": "Receiving Visitors",
-  "pt": ""
+  "pt": "Receber Visitantes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3402": {
   "ch": "宗门回礼",
   "en": "Sect Returning Gift",
-  "pt": ""
+  "pt": "Presente de Retorno da Seita",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName3403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": ""
+  "pt": "Assistir Cultivador Renegado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Rogue Cultivator → Cultivador Errante"
+  ]
  },
  "SchoolTaskAllotTaskName3404": {
   "ch": "飞鸽传书",
   "en": "Letter by Pigeon",
-  "pt": ""
+  "pt": "Carta por Pombo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3405": {
   "ch": "仓库扩容",
   "en": "Warehouse Expansion",
-  "pt": ""
+  "pt": "Expansão do Armazém",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3406": {
   "ch": "维修传送阵",
   "en": "Portal Repair",
-  "pt": ""
+  "pt": "Reparo do Portal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": ""
+  "pt": "Reparo do Pavilhão dos Espíritos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3408": {
   "ch": "修建景观",
   "en": "Landscape Repair",
-  "pt": ""
+  "pt": "Reparo da Paisagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3409": {
   "ch": "重建外墙",
   "en": "Rebuild Outer Wall",
-  "pt": ""
+  "pt": "Reconstruir a Muralha Externa",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 29 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName3601": {
   "ch": "重申门规",
   "en": "Reaffirm Sect Rules",
-  "pt": ""
+  "pt": "Reafirmar Regras da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3602": {
   "ch": "发送关怀信件",
   "en": "Send Letter of Caring",
-  "pt": ""
+  "pt": "Enviar Carta de Cuidado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": ""
+  "pt": "Escavar Veia de Espírito",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3604": {
   "ch": "堪舆寻宝",
   "en": "Using Geomancy to find Treasures",
-  "pt": ""
+  "pt": "Usar Geomancia para Encontrar Tesouros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3605": {
   "ch": "参与拍卖",
   "en": "Participate in Auction",
-  "pt": ""
+  "pt": "Participar de Leilão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3606": {
   "ch": "交易丹药法宝",
   "en": "Trade Elixir Artifact",
-  "pt": ""
+  "pt": "Trocar Elixir ou Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3607": {
   "ch": "双人同游",
   "en": "Traveling Together",
-  "pt": ""
+  "pt": "Viajar Juntos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3608": {
   "ch": "宗门小聚",
   "en": "Sect Gathering",
-  "pt": ""
+  "pt": "Encontro da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3701": {
   "ch": "渗入敌对宗门",
   "en": "Infiltrate Hostile Sect",
-  "pt": ""
+  "pt": "Infiltrar-se em Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3702": {
   "ch": "击杀敌对宗门弟子",
   "en": "Kill Hostile Sect Disciple",
-  "pt": ""
+  "pt": "Matar Discípulo de Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": ""
+  "pt": "Espionar o Exército",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3704": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coletar Minérios",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3705": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Coletar Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3706": {
   "ch": "探索遗址",
   "en": "Explore Ruins",
-  "pt": ""
+  "pt": "Explorar Ruínas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName3707": {
   "ch": "探索药园",
   "en": "Explore Herb Garden",
-  "pt": ""
+  "pt": "Explorar Jardim de Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4101": {
   "ch": "例行巡查",
   "en": "Routine Inspection",
-  "pt": ""
+  "pt": "Inspeção de Rotina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4102": {
   "ch": "弟子纷争",
   "en": "Disciple Fight",
-  "pt": ""
+  "pt": "Luta entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName4103": {
   "ch": "神兽巡查",
   "en": "Divine Beast Inspection",
-  "pt": ""
+  "pt": "Inspeção de Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4104": {
   "ch": "法宝巡查",
   "en": "Artifact Inspection",
-  "pt": ""
+  "pt": "Inspeção de Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4105": {
   "ch": "丹药巡查",
   "en": "Elixir Inspection",
-  "pt": ""
+  "pt": "Inspeção de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4106": {
   "ch": "陪伴神兽",
   "en": "Accompany Divine Beast",
-  "pt": ""
+  "pt": "Acompanhar Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4107": {
   "ch": "清剿低级妖兽",
   "en": "Clear Low-level Monsters",
-  "pt": ""
+  "pt": "Eliminar Monstros de Baixo Nível",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4108": {
   "ch": "清剿劫匪",
   "en": "Clear Bandits",
-  "pt": ""
+  "pt": "Eliminar Bandidos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4109": {
   "ch": "阵法巡查",
   "en": "Array Inspection",
-  "pt": ""
+  "pt": "Inspeção de Formação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4301": {
   "ch": "招纳记名弟子",
   "en": "Recruit Backup Disciple",
-  "pt": ""
+  "pt": "Recrutar Discípulo Reserva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4302": {
   "ch": "接引新弟子",
   "en": "Attract New Disciples",
-  "pt": ""
+  "pt": "Atrair Novos Discípulos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4303": {
   "ch": "扩大招收",
   "en": "Expanding Recruitment",
-  "pt": ""
+  "pt": "Expandir Recrutamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4304": {
   "ch": "测试凡人灵根",
   "en": "Testing Mortal Spiritual Root",
-  "pt": ""
+  "pt": "Testar Raiz Espiritual Mortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4305": {
   "ch": "归档弟子信息",
   "en": "Filling Disciple Information",
-  "pt": ""
+  "pt": "Preencher Informações do Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4306": {
   "ch": "讲解情理",
   "en": "Explain Reasoning",
-  "pt": ""
+  "pt": "Explicar Raciocínio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4307": {
   "ch": "弟子切磋",
   "en": "Disciple Spar",
-  "pt": ""
+  "pt": "Spar entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName4401": {
   "ch": "接访来客",
   "en": "Receiving Visitors",
-  "pt": ""
+  "pt": "Receber Visitantes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4402": {
   "ch": "宗门回礼",
   "en": "Sect Returning Gift",
-  "pt": ""
+  "pt": "Presente de Retorno da Seita",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName4403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": ""
+  "pt": "Assistir Cultivador Renegado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Rogue Cultivator → Cultivador Errante"
+  ]
  },
  "SchoolTaskAllotTaskName4404": {
   "ch": "飞鸽传书",
   "en": "Letter by Pigeon",
-  "pt": ""
+  "pt": "Carta por Pombo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4405": {
   "ch": "仓库扩容",
   "en": "Warehouse Expansion",
-  "pt": ""
+  "pt": "Expansão do Armazém",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4406": {
   "ch": "维修传送阵",
   "en": "Portal Repair",
-  "pt": ""
+  "pt": "Reparo do Portal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": ""
+  "pt": "Reparo do Pavilhão dos Espíritos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4408": {
   "ch": "修建景观",
   "en": "Landscape Repair",
-  "pt": ""
+  "pt": "Reparo da Paisagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4409": {
   "ch": "重建外墙",
   "en": "Rebuild Outer Wall",
-  "pt": ""
+  "pt": "Reconstruir a Muralha Externa",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 29 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName4601": {
   "ch": "重申门规",
   "en": "Reaffirm Sect Rules",
-  "pt": ""
+  "pt": "Reafirmar Regras da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4602": {
   "ch": "发送关怀信件",
   "en": "Send Letter of Caring",
-  "pt": ""
+  "pt": "Enviar Carta de Cuidado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": ""
+  "pt": "Escavar Veia de Espírito",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4604": {
   "ch": "堪舆寻宝",
   "en": "Using Geomancy to find Treasures",
-  "pt": ""
+  "pt": "Usar Geomancia para Encontrar Tesouros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4605": {
   "ch": "参与拍卖",
   "en": "Participate in Auction",
-  "pt": ""
+  "pt": "Participar de Leilão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4606": {
   "ch": "交易丹药法宝",
   "en": "Trade Elixir Artifact",
-  "pt": ""
+  "pt": "Trocar Elixir ou Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4607": {
   "ch": "双人同游",
   "en": "Traveling Together",
-  "pt": ""
+  "pt": "Viajar Juntos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4608": {
   "ch": "宗门小聚",
   "en": "Sect Gathering",
-  "pt": ""
+  "pt": "Encontro da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4701": {
   "ch": "渗入敌对宗门",
   "en": "Infiltrate Hostile Sect",
-  "pt": ""
+  "pt": "Infiltrar-se em Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4702": {
   "ch": "击杀敌对宗门弟子",
   "en": "Kill Hostile Sect Disciple",
-  "pt": ""
+  "pt": "Matar Discípulo de Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": ""
+  "pt": "Espionar o Exército",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4704": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coletar Minérios",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4705": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Coletar Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4706": {
   "ch": "探索遗址",
   "en": "Explore Ruins",
-  "pt": ""
+  "pt": "Explorar Ruínas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName4707": {
   "ch": "探索药园",
   "en": "Explore Herb Garden",
-  "pt": ""
+  "pt": "Explorar Jardim de Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5101": {
   "ch": "例行巡查",
   "en": "Routine Inspection",
-  "pt": ""
+  "pt": "Inspeção de Rotina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5102": {
   "ch": "弟子纷争",
   "en": "Disciple Fight",
-  "pt": ""
+  "pt": "Luta entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName5103": {
   "ch": "神兽巡查",
   "en": "Divine Beast Inspection",
-  "pt": ""
+  "pt": "Inspeção de Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5104": {
   "ch": "法宝巡查",
   "en": "Artifact Inspection",
-  "pt": ""
+  "pt": "Inspeção de Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5105": {
   "ch": "丹药巡查",
   "en": "Elixir Inspection",
-  "pt": ""
+  "pt": "Inspeção de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5106": {
   "ch": "陪伴神兽",
   "en": "Accompany Divine Beast",
-  "pt": ""
+  "pt": "Acompanhar Fera Divina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5107": {
   "ch": "清剿低级妖兽",
   "en": "Clear Low-level Monsters",
-  "pt": ""
+  "pt": "Eliminar Monstros de Baixo Nível",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5108": {
   "ch": "清剿劫匪",
   "en": "Clear Bandits",
-  "pt": ""
+  "pt": "Eliminar Bandidos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5109": {
   "ch": "阵法巡查",
   "en": "Array Inspection",
-  "pt": ""
+  "pt": "Inspeção de Formação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5301": {
   "ch": "招纳记名弟子",
   "en": "Recruit Backup Disciple",
-  "pt": ""
+  "pt": "Recrutar Discípulo Reserva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5302": {
   "ch": "接引新弟子",
   "en": "Attract New Disciples",
-  "pt": ""
+  "pt": "Atrair Novos Discípulos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5303": {
   "ch": "扩大招收",
   "en": "Expanding Recruitment",
-  "pt": ""
+  "pt": "Expandir Recrutamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5304": {
   "ch": "测试凡人灵根",
   "en": "Testing Mortal Spiritual Root",
-  "pt": ""
+  "pt": "Testar Raiz Espiritual Mortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5305": {
   "ch": "归档弟子信息",
   "en": "Filling Disciple Information",
-  "pt": ""
+  "pt": "Preencher Informações do Discípulo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5306": {
   "ch": "讲解情理",
   "en": "Explain Reasoning",
-  "pt": ""
+  "pt": "Explicar Raciocínio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5307": {
   "ch": "弟子切磋",
   "en": "Disciple Spar",
-  "pt": ""
+  "pt": "Spar entre Discípulos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName5401": {
   "ch": "接访来客",
   "en": "Receiving Visitors",
-  "pt": ""
+  "pt": "Receber Visitantes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5402": {
   "ch": "宗门回礼",
   "en": "Sect Returning Gift",
-  "pt": ""
+  "pt": "Presente de Retorno da Seita",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName5403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": ""
+  "pt": "Assistir Cultivador Renegado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Rogue Cultivator → Cultivador Errante"
+  ]
  },
  "SchoolTaskAllotTaskName5404": {
   "ch": "飞鸽传书",
   "en": "Letter by Pigeon",
-  "pt": ""
+  "pt": "Carta por Pombo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5405": {
   "ch": "仓库扩容",
   "en": "Warehouse Expansion",
-  "pt": ""
+  "pt": "Expansão do Armazém",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5406": {
   "ch": "维修传送阵",
   "en": "Portal Repair",
-  "pt": ""
+  "pt": "Reparo do Portal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": ""
+  "pt": "Reparo do Pavilhão dos Espíritos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5408": {
   "ch": "修建景观",
   "en": "Landscape Repair",
-  "pt": ""
+  "pt": "Reparo da Paisagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5409": {
   "ch": "重建外墙",
   "en": "Rebuild Outer Wall",
-  "pt": ""
+  "pt": "Reconstruir a Muralha Externa",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 29 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName5601": {
   "ch": "重申门规",
   "en": "Reaffirm Sect Rules",
-  "pt": ""
+  "pt": "Reafirmar Regras da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5602": {
   "ch": "发送关怀信件",
   "en": "Send Letter of Caring",
-  "pt": ""
+  "pt": "Enviar Carta de Cuidado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": ""
+  "pt": "Escavar Veia de Espírito",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5604": {
   "ch": "堪舆寻宝",
   "en": "Using Geomancy to find Treasures",
-  "pt": ""
+  "pt": "Usar Geomancia para Encontrar Tesouros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5605": {
   "ch": "参与拍卖",
   "en": "Participate in Auction",
-  "pt": ""
+  "pt": "Participar de Leilão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5606": {
   "ch": "交易丹药法宝",
   "en": "Trade Elixir Artifact",
-  "pt": ""
+  "pt": "Trocar Elixir ou Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5607": {
   "ch": "双人同游",
   "en": "Traveling Together",
-  "pt": ""
+  "pt": "Viajar Juntos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5608": {
   "ch": "宗门小聚",
   "en": "Sect Gathering",
-  "pt": ""
+  "pt": "Encontro da Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5701": {
   "ch": "渗入敌对宗门",
   "en": "Infiltrate Hostile Sect",
-  "pt": ""
+  "pt": "Infiltrar-se em Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5702": {
   "ch": "击杀敌对宗门弟子",
   "en": "Kill Hostile Sect Disciple",
-  "pt": ""
+  "pt": "Matar Discípulo de Seita Hostil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": ""
+  "pt": "Espionar o Exército",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5704": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coletar Minérios",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5705": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Coletar Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5706": {
   "ch": "探索遗址",
   "en": "Explore Ruins",
-  "pt": ""
+  "pt": "Explorar Ruínas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "SchoolTaskAllotTaskName5707": {
   "ch": "探索药园",
   "en": "Explore Herb Garden",
-  "pt": ""
+  "pt": "Explorar Jardim de Ervas",
+  "auto": "cohere/command-a-vision-07-2025"
  }
 }

@@ -2,781 +2,1075 @@
  "modEnum10001Title": {
   "ch": "气运类型",
   "en": "Destiny Type",
-  "pt": ""
+  "pt": "Tipo de Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10002Title": {
   "ch": "气运品质",
   "en": "Destiny Rarity",
-  "pt": ""
+  "pt": "Raridade do Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10003Title": {
   "ch": "持续时间叠加类型",
   "en": "Duration Stack Type",
-  "pt": ""
+  "pt": "Tipo de Acúmulo de Duração",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "modEnum10004Title": {
   "ch": "气运是否隐藏在角色UI面板",
   "en": "Whether Destiny is hidden in the character UI panel",
-  "pt": ""
+  "pt": "Se o Destino está oculto no painel de UI do personagem",
+  "auto": "local/hy-mt2"
  },
  "modEnum10005Title": {
   "ch": "气运品质",
   "en": "Destiny Rarity",
-  "pt": ""
+  "pt": "Raridade do Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10006Title": {
   "ch": "效果类型",
   "en": "Effect Type",
-  "pt": ""
+  "pt": "Tipo de Efeito",
+  "auto": "local/hy-mt2"
  },
  "modEnum10007Title": {
   "ch": "修改类型",
   "en": "Change Type",
-  "pt": ""
+  "pt": "Tipo de alteração",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "modEnum10008Title": {
   "ch": "产出类型",
   "en": "Production Type",
-  "pt": ""
+  "pt": "Tipo de Produção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009Title": {
   "ch": "秘籍类型",
   "en": "Manual Type",
-  "pt": ""
+  "pt": "Tipo de Manual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010Title": {
   "ch": "秘籍境界",
   "en": "Manual Realm",
-  "pt": ""
+  "pt": "Reino do Manual",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10011Title": {
   "ch": "心法类型",
   "en": "Mind Skill Type",
-  "pt": ""
+  "pt": "Tipo de Técnica Mental",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "modEnum10012Title": {
   "ch": "秘籍等级",
   "en": "Manual Level",
-  "pt": ""
+  "pt": "Nível do Manual",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10013Title": {
   "ch": "性别类型",
   "en": "Gender Type",
-  "pt": ""
+  "pt": "Tipo de gênero",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014Title": {
   "ch": "关系类型",
   "en": "Relationship Type",
-  "pt": ""
+  "pt": "Tipo de Relacionamento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10015Title": {
   "ch": "什么时候产出物品",
   "en": "Time the item is produced",
-  "pt": ""
+  "pt": "Horário em que o item é produzido",
+  "auto": "local/hy-mt2"
  },
  "modEnum10016Title": {
   "ch": "修改类型",
   "en": "Change Type",
-  "pt": ""
+  "pt": "Tipo de alteração",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "modEnum10017Title": {
   "ch": "修改类型",
   "en": "Change Type",
-  "pt": ""
+  "pt": "Tipo de alteração",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "modEnum10018Title": {
   "ch": "亲密度变化方式",
   "en": "Affinity Change Method",
-  "pt": ""
+  "pt": "Método de Alteração de Afinidade",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019Title": {
   "ch": "禁止的行为",
   "en": "Forbidden Actions",
-  "pt": ""
+  "pt": "Ações proibidas",
+  "auto": "local/hy-mt2"
  },
  "modEnum1001Title": {
   "ch": "境界",
   "en": "Realm",
-  "pt": ""
+  "pt": "Reino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10020Title": {
   "ch": "禁止使用的物品",
   "en": "Items forbidden from use",
-  "pt": ""
+  "pt": "Itens cujo uso é proibido",
+  "auto": "local/hy-mt2"
  },
  "modEnum10021Title": {
   "ch": "目标的境界条件",
   "en": "Target’s Realm Requirements",
-  "pt": ""
+  "pt": "Requisitos do Reino do Alvo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10022Title": {
   "ch": "境界条件",
   "en": "Realm Requirements",
-  "pt": ""
+  "pt": "Requisitos do Reino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10023Title": {
   "ch": "期数条件",
   "en": "Period Requirements",
-  "pt": ""
+  "pt": "Requisitos por período",
+  "auto": "local/hy-mt2"
  },
  "modEnum10024Title": {
   "ch": "击杀条件",
   "en": "Attack Requirements",
-  "pt": ""
+  "pt": "Requisitos para o ataque",
+  "auto": "local/hy-mt2"
  },
  "modEnum10025Title": {
   "ch": "修改消耗类型",
   "en": "Change Cost Type",
-  "pt": ""
+  "pt": "Alterar o tipo de custo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "modEnum10027Title": {
   "ch": "修改的消耗类型",
   "en": "Changed Cost Type",
-  "pt": ""
+  "pt": "Tipo de Custo alterado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10028Title": {
   "ch": "修改方式",
   "en": "Change Method",
-  "pt": ""
+  "pt": "Método de Alteração",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "modEnum10029Title": {
   "ch": "触发类型",
   "en": "Trigger Type",
-  "pt": ""
+  "pt": "Tipo de gatilho",
+  "auto": "local/hy-mt2"
  },
  "modEnum1002Title": {
   "ch": "等级",
   "en": "Level",
-  "pt": ""
+  "pt": "Nível",
+  "auto": "local/hy-mt2"
  },
  "modEnum10030Title": {
   "ch": "是否可以重复触发",
   "en": "Can it be triggered repeatedly?",
-  "pt": ""
+  "pt": "Pode ser acionado repetidamente?",
+  "auto": "local/hy-mt2"
  },
  "modEnum10031Title": {
   "ch": "任务状态类型",
   "en": "Mission status type",
-  "pt": ""
+  "pt": "Tipo de status da Missão",
+  "auto": "local/hy-mt2"
  },
  "modEnum10032Title": {
   "ch": "品质类型",
   "en": "Rarity type",
-  "pt": ""
+  "pt": "Tipo de raridade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "modEnum10033Title": {
   "ch": "比较类型",
   "en": "Compare types",
-  "pt": ""
+  "pt": "Comparar tipos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10034Title": {
   "ch": "比较的属性组",
   "en": "Stat group to compare",
-  "pt": ""
+  "pt": "Grupo de Atributos para comparar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10035Title": {
   "ch": "正魔类型",
   "en": "Faction",
-  "pt": ""
+  "pt": "Facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10036Title": {
   "ch": "宗门条件",
   "en": "Sect condition",
-  "pt": ""
+  "pt": "Condição da Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10037Title": {
   "ch": "宗门类型",
   "en": "Sect type",
-  "pt": ""
+  "pt": "Tipo de Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "modEnum10038Title": {
   "ch": "格子数值类型",
   "en": "Tile value type",
-  "pt": ""
+  "pt": "Tipo de valor do quadrado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 25 > 20 caracteres"
+  ]
  },
  "modEnum10039Title": {
   "ch": "装备的武技和绝技的属性种类",
   "en": "Elemental type of equipped martial and special skills",
-  "pt": ""
+  "pt": "Tipo elemental das técnicas de combate e técnica especial equipadas",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003Title": {
   "ch": "关系",
   "en": "Relationship",
-  "pt": ""
+  "pt": "Relacionamento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10040Title": {
   "ch": "战斗的结果类型",
   "en": "Battle result type",
-  "pt": ""
+  "pt": "Tipo de resultado da Batalha",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "modEnum10041Title": {
   "ch": "属性对比组",
   "en": "Stats comparison group",
-  "pt": ""
+  "pt": "Grupo de comparação de Atributos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10042Title": {
   "ch": "立场类型",
   "en": "Faction type",
-  "pt": ""
+  "pt": "Tipo de facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043Title": {
   "ch": "宗门判定类型",
   "en": "Sect determiner type",
-  "pt": ""
+  "pt": "Tipo de determinador de Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 26 caracteres"
+  ]
  },
  "modEnum10044Title": {
   "ch": "亲族判定类型",
   "en": "Familial determiner type",
-  "pt": ""
+  "pt": "Tipo de determinador familiar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10045Title": {
   "ch": "是否反转角色判断位置",
   "en": "Whether to reverse character determiner roles",
-  "pt": ""
+  "pt": "Se deve inverter as funções dos determinadores de personagens",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10046Title": {
   "ch": "关系判断类型",
   "en": "Relationship determiner type",
-  "pt": ""
+  "pt": "Tipo de determinador de relacionamento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10047Title": {
   "ch": "共同的社交关系类型",
   "en": "Shared social relationship type",
-  "pt": ""
+  "pt": "Tipo de relacionamento social compartilhado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10048Title": {
   "ch": "剧情触发类型",
   "en": "Plot trigger type",
-  "pt": ""
+  "pt": "Tipo de gatilho de enredo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 23 caracteres"
+  ]
  },
  "modEnum10049Title": {
   "ch": "道具使用类型",
   "en": "Item use type",
-  "pt": ""
+  "pt": "Tipo de uso do Item",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "modEnum1004Title": {
   "ch": "期数",
   "en": "Period",
-  "pt": ""
+  "pt": "Período",
+  "auto": "local/hy-mt2"
  },
  "modEnum10050Title": {
   "ch": "存在类型",
   "en": "Existence type",
-  "pt": ""
+  "pt": "Tipo de existência",
+  "auto": "local/hy-mt2"
  },
  "modEnum10051Title": {
   "ch": "比较类型",
   "en": "Compare types",
-  "pt": ""
+  "pt": "Comparar tipos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10052Title": {
   "ch": "立场运算类型",
   "en": "Faction calculation type",
-  "pt": ""
+  "pt": "Tipo de cálculo de facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10053Title": {
   "ch": "数学运算符号类型",
   "en": "Type of mathematical operation symbol",
-  "pt": ""
+  "pt": "Tipo de símbolo de operação matemática",
+  "auto": "local/hy-mt2"
  },
  "modEnum10054Title": {
   "ch": "关系运算符类型",
   "en": "Relationship Calculation Type",
-  "pt": ""
+  "pt": "Tipo de cálculo de relação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10055Title": {
   "ch": "是否储存数据",
   "en": "Save data or not",
-  "pt": ""
+  "pt": "Salvar os dados ou não",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "modEnum10056Title": {
   "ch": "战斗结束类型",
   "en": "Battle ending type",
-  "pt": ""
+  "pt": "Tipo de término da Batalha",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "modEnum10057Title": {
   "ch": "是否反转",
   "en": "Reverse or not",
-  "pt": ""
+  "pt": "Inverso ou não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10058Title": {
   "ch": "城镇类型",
   "en": "Town type",
-  "pt": ""
+  "pt": "Tipo de Vila",
+  "auto": "local/hy-mt2"
  },
  "modEnum10059Title": {
   "ch": "是否学会了技能",
   "en": "If the skill has been learned",
-  "pt": ""
+  "pt": "Se a habilidade já foi aprendida",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005Title": {
   "ch": "武器类型",
   "en": "Weapon type",
-  "pt": ""
+  "pt": "Tipo de arma",
+  "auto": "local/hy-mt2"
  },
  "modEnum10060Title": {
   "ch": "是否通关过",
   "en": "If it was cleared",
-  "pt": ""
+  "pt": "Se foi concluído",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10061Title": {
   "ch": "性别类型",
   "en": "Gender type",
-  "pt": ""
+  "pt": "Tipo de gênero",
+  "auto": "local/hy-mt2"
  },
  "modEnum10062Title": {
   "ch": "是否拥有",
   "en": "If have",
-  "pt": ""
+  "pt": "Se tiver",
+  "auto": "local/hy-mt2"
  },
  "modEnum10063Title": {
   "ch": "副本等级类型",
   "en": "Dungeon level type",
-  "pt": ""
+  "pt": "Tipo de nível da masmorra",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "modEnum10064Title": {
   "ch": "技能类型",
   "en": "Skill type",
-  "pt": ""
+  "pt": "Tipo de Habilidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 13 caracteres"
+  ]
  },
  "modEnum10065Title": {
   "ch": "增加类型",
   "en": "Increase type",
-  "pt": ""
+  "pt": "Tipo de aumento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10066Title": {
   "ch": "增加类型",
   "en": "Increase type",
-  "pt": ""
+  "pt": "Tipo de aumento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10067Title": {
   "ch": "属性增加方式",
   "en": "Stat increase method",
-  "pt": ""
+  "pt": "Método de aumento de estatísticas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 33 > 26 caracteres"
+  ]
  },
  "modEnum10068Title": {
   "ch": "境界类型",
   "en": "Realm type",
-  "pt": ""
+  "pt": "Tipo de Reino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10069Title": {
   "ch": "属性类型",
   "en": "Elemental type",
-  "pt": ""
+  "pt": "Tipo elementar",
+  "auto": "local/hy-mt2"
  },
  "modEnum1006Title": {
   "ch": "属性类型",
   "en": "Elemental type",
-  "pt": ""
+  "pt": "Tipo elemental",
+  "auto": "local/hy-mt2"
  },
  "modEnum10070Title": {
   "ch": "增加类型",
   "en": "Increase type",
-  "pt": ""
+  "pt": "Tipo de aumento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10071Title": {
   "ch": "道具数量类型",
   "en": "Item quantity type",
-  "pt": ""
+  "pt": "Tipo de quantidade do Item",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "modEnum10072Title": {
   "ch": "排序方式",
   "en": "Sort by",
-  "pt": ""
+  "pt": "Ordenar por",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "modEnum10073Title": {
   "ch": "是否储存",
   "en": "Save or not",
-  "pt": ""
+  "pt": "Salvar ou não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10074Title": {
   "ch": "查找地图点类型",
   "en": "Location type to search",
-  "pt": ""
+  "pt": "Tipo de localização para busca",
+  "auto": "local/hy-mt2"
  },
  "modEnum10075Title": {
   "ch": "排序类型",
   "en": "Sort by",
-  "pt": ""
+  "pt": "Ordenar por",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "modEnum10076Title": {
   "ch": "生成事件时是否移动镜头到图标上",
   "en": "Whether to move the camera to the icon when the event is generated",
-  "pt": ""
+  "pt": "Se a câmera deve ser movida para o ícone quando o evento é gerado.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10077Title": {
   "ch": "是否叠加",
   "en": "Stackable or not",
-  "pt": ""
+  "pt": "Empilhável ou não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10078Title": {
   "ch": "是否允许丢弃",
   "en": "Discard-able or not",
-  "pt": ""
+  "pt": "Descartável ou não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10079Title": {
   "ch": "道具类型",
   "en": "Item Type",
-  "pt": ""
+  "pt": "Tipo de Item",
+  "auto": "local/hy-mt2"
  },
  "modEnum1007Title": {
   "ch": "技能类型",
   "en": "Skill type",
-  "pt": ""
+  "pt": "Tipo de Habilidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 13 caracteres"
+  ]
  },
  "modEnum10080Title": {
   "ch": "事件刷新类型",
   "en": "Event Refresh Type",
-  "pt": ""
+  "pt": "Tipo de Atualização do Evento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 24 caracteres"
+  ]
  },
  "modEnum10081Title": {
   "ch": "任务分组",
   "en": "Mission Grouping",
-  "pt": ""
+  "pt": "Agrupamento de Missões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "modEnum10082Title": {
   "ch": "任务类型",
   "en": "Mission Type",
-  "pt": ""
+  "pt": "Tipo de Missão",
+  "auto": "local/hy-mt2"
  },
  "modEnum10083Title": {
   "ch": "任务等级",
   "en": "Mission Level",
-  "pt": ""
+  "pt": "Nível da Missão",
+  "auto": "local/hy-mt2"
  },
  "modEnum10084Title": {
   "ch": "是否可以放弃",
   "en": "Give Up?",
-  "pt": ""
+  "pt": "Desistir?",
+  "auto": "local/hy-mt2"
  },
  "modEnum10085Title": {
   "ch": "领取、完成任务时，是否弹出UI提示",
   "en": "Whether the UI notice will pop up when claiming or completing a Mission",
-  "pt": ""
+  "pt": "Se o aviso na interface será exibido ao resgatar ou concluir uma Missão.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10086Title": {
   "ch": "剧情使用的UI类型",
   "en": "UI type for Plot",
-  "pt": ""
+  "pt": "Tipo de interface para o Enredo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 31 > 21 caracteres"
+  ]
  },
  "modEnum10087Title": {
   "ch": "当前说话的角色",
   "en": "Character currently speaking",
-  "pt": ""
+  "pt": "Personagem que está falando",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10088Title": {
   "ch": "立绘角色",
   "en": "Character full-body standing drawing",
-  "pt": ""
+  "pt": "Desenho de personagem em pé, corpo inteiro",
+  "auto": "local/hy-mt2"
  },
  "modEnum10089Title": {
   "ch": "立绘显示类型",
   "en": "Full-body standing drawing display type",
-  "pt": ""
+  "pt": "Tipo de exibição do desenho de corpo inteiro em pé",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum1008Title": {
   "ch": "性别类型",
   "en": "Gender type",
-  "pt": ""
+  "pt": "Tipo de gênero",
+  "auto": "local/hy-mt2"
  },
  "modEnum10090Title": {
   "ch": "初始位置类型",
   "en": "Initializing location types",
-  "pt": ""
+  "pt": "Inicializando tipos de localização",
+  "auto": "local/hy-mt2"
  },
  "modEnum10091Title": {
   "ch": "境界类型",
   "en": "Realm Type",
-  "pt": ""
+  "pt": "Tipo de Reino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10092Title": {
   "ch": "性别类型",
   "en": "Gender",
-  "pt": ""
+  "pt": "Gênero",
+  "auto": "local/hy-mt2"
  },
  "modEnum10093Title": {
   "ch": "关系类型",
   "en": "Relationship Type",
-  "pt": ""
+  "pt": "Tipo de Relacionamento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10094Title": {
   "ch": "角色性别要求",
   "en": "Character Gender Requirements",
-  "pt": ""
+  "pt": "Requisitos de gênero para personagens",
+  "auto": "local/hy-mt2"
  },
  "modEnum10095Title": {
   "ch": "道具类型",
   "en": "Item Type",
-  "pt": ""
+  "pt": "Tipo de Item",
+  "auto": "local/hy-mt2"
  },
  "modEnum10096Title": {
   "ch": "NPC类型",
   "en": "NPC Type",
-  "pt": ""
+  "pt": "Tipo de NPC",
+  "auto": "local/hy-mt2"
  },
  "modEnum10097Title": {
   "ch": "比较类型",
   "en": "Compare Type",
-  "pt": ""
+  "pt": "Tipo de comparação",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "modEnum10098Title": {
   "ch": "基本属性类型",
   "en": "Basic Stat Type",
-  "pt": ""
+  "pt": "Tipo básico de estatística",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 20 caracteres"
+  ]
  },
  "modEnum10099Title": {
   "ch": "气运类型",
   "en": "Destiny Type",
-  "pt": ""
+  "pt": "Tipo de Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009Title": {
   "ch": "宗门职位类型",
   "en": "Sect position type",
-  "pt": ""
+  "pt": "Tipo de posição da Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10100Title": {
   "ch": "回应类型",
   "en": "Reply Type",
-  "pt": ""
+  "pt": "Tipo de resposta",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "modEnum10101Title": {
   "ch": "装备类型",
   "en": "Gear Type",
-  "pt": ""
+  "pt": "Tipo de equipamento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 19 > 12 caracteres"
+  ]
  },
  "modEnum10102Title": {
   "ch": "回应类型",
   "en": "Reply Type",
-  "pt": ""
+  "pt": "Tipo de resposta",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "modEnum10103Title": {
   "ch": "元魂状态",
   "en": "Soul Status",
-  "pt": ""
+  "pt": "Status da Alma",
+  "auto": "local/hy-mt2"
  },
  "modEnum10104Title": {
   "ch": "比较类型",
   "en": "Compare Type",
-  "pt": ""
+  "pt": "Tipo de comparação",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "modEnum10105Title": {
   "ch": "是否为废天骄",
   "en": "Is a Maimed-chosen?",
-  "pt": ""
+  "pt": "É um Escolhido Mutilado?",
+  "auto": "local/hy-mt2"
  },
  "modEnum10106Title": {
   "ch": "是否为魁首",
   "en": "Is a Champion?",
-  "pt": ""
+  "pt": "É um Campeão?",
+  "auto": "local/hy-mt2"
  },
  "modEnum10107Title": {
   "ch": "拥有类型",
   "en": "Possession Type",
-  "pt": ""
+  "pt": "Tipo de Posse",
+  "auto": "local/hy-mt2"
  },
  "modEnum10108Title": {
   "ch": "行为类型",
   "en": "Action Type",
-  "pt": ""
+  "pt": "Tipo de Ação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10109Title": {
   "ch": "技艺书籍类型",
   "en": "Artisanship Book Type",
-  "pt": ""
+  "pt": "Tipo de Livro sobre Artesanato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10110Title": {
   "ch": "瓶颈类型",
   "en": "Bottleneck Type",
-  "pt": ""
+  "pt": "Tipo de Gargalo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10111Title": {
   "ch": "宗门属性类型",
   "en": "Sect Stats Type",
-  "pt": ""
+  "pt": "Tipo de Atributos da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 20 caracteres"
+  ]
  },
  "modEnum10112Title": {
   "ch": "是否为一丝元魂状态",
   "en": "On Last Breath?",
-  "pt": ""
+  "pt": "Em Último Suspiro?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10113Title": {
   "ch": "是否为重塑肉身状态",
   "en": "Under Body Reconstruction?",
-  "pt": ""
+  "pt": "Sob Reconstrução do Corpo?",
+  "auto": "local/hy-mt2"
  },
  "modEnum10114Title": {
   "ch": "神器类型",
   "en": "Artifact Type",
-  "pt": ""
+  "pt": "Tipo de Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10115Title": {
   "ch": "上一次道心破碎是何人所为",
   "en": "Taoist Mind last shattered by?",
-  "pt": ""
+  "pt": "Quem despedaçou por último o Coração do Dao?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10117Title": {
   "ch": "宗门建筑图标",
   "en": "Sect Building Icon",
-  "pt": ""
+  "pt": "Ícone do Edifício da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "modEnum10118Title": {
   "ch": "宗门大小",
   "en": "Sect Scale",
-  "pt": ""
+  "pt": "Escala da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "modEnum10119Title": {
   "ch": "身份类型",
   "en": "Position Type",
-  "pt": ""
+  "pt": "Tipo de posição",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120Title": {
   "ch": "宗门判定类型",
   "en": "Sect determiner type",
-  "pt": ""
+  "pt": "Tipo de determinador de Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 26 caracteres"
+  ]
  },
  "modEnum10121Title": {
   "ch": "宗门属性类型",
   "en": "Sect Stats Type",
-  "pt": ""
+  "pt": "Tipo de Atributos da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 20 caracteres"
+  ]
  },
  "modEnum10122Title": {
   "ch": "房间路线类型",
   "en": "Room Route Type",
-  "pt": ""
+  "pt": "Tipo de rota do quarto",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "modEnum10123Title": {
   "ch": "是否可以逃跑",
   "en": "Whether escape is allowed",
-  "pt": ""
+  "pt": "Se a fuga é permitida",
+  "auto": "local/hy-mt2"
  },
  "modEnum10124Title": {
   "ch": "胜利条件",
   "en": "Victory Condition",
-  "pt": ""
+  "pt": "Condição de Vitória",
+  "auto": "local/hy-mt2"
  },
  "modEnum10125Title": {
   "ch": "失败条件",
   "en": "Defeat Condition",
-  "pt": ""
+  "pt": "Condição de Derrota",
+  "auto": "local/hy-mt2"
  },
  "modEnum10126Title": {
   "ch": "怪物属性",
   "en": "Monster Stats",
-  "pt": ""
+  "pt": "Atributos do Monstro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "modEnum10127Title": {
   "ch": "指定条件",
   "en": "Specified Condition",
-  "pt": ""
+  "pt": "Condição Especificada",
+  "auto": "local/hy-mt2"
  },
  "modEnum10128Title": {
   "ch": "夸父状态",
   "en": "Kuafu Status",
-  "pt": ""
+  "pt": "Status do Kuafu",
+  "auto": "local/hy-mt2"
  },
  "modEnum10129Title": {
   "ch": "是否拥有器灵",
   "en": "Artifact Spirit Status",
-  "pt": ""
+  "pt": "Status do Espírito do Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum1012Title": {
   "ch": "秘籍类型",
   "en": "Manual type",
-  "pt": ""
+  "pt": "Tipo de Manual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10130Title": {
   "ch": "判断玩家当前位置的宗门资源点类型",
   "en": "Checks the Sect resource point type at the player's current position",
-  "pt": ""
+  "pt": "Verifica o tipo de ponto de recurso da Seita na posição atual do jogador.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10131Title": {
   "ch": "道号类型",
   "en": "Taoist Title Type",
-  "pt": ""
+  "pt": "Tipo de Título Daoísta",
+  "auto": "local/hy-mt2"
  },
  "modEnum10132Title": {
   "ch": "道具挑选方式",
   "en": "Item Picking Criterion",
-  "pt": ""
+  "pt": "Critério de Seleção de Item",
+  "auto": "local/hy-mt2"
  },
  "modEnum10133Title": {
   "ch": "击杀类型",
   "en": "Kill Type",
-  "pt": ""
+  "pt": "Tipo de Morte",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "modEnum10134Title": {
   "ch": "设置类型",
   "en": "Set Type",
-  "pt": ""
+  "pt": "Definir tipo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "modEnum10138Title": {
   "ch": "副本的战斗结果",
   "en": "Battle result in dungeon",
-  "pt": ""
+  "pt": "Resultado da Batalha na masmorra",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum1013Title": {
   "ch": "游戏难度类型",
   "en": "Game difficulty type",
-  "pt": ""
+  "pt": "Tipo de dificuldade do jogo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "modEnum1014Title": {
   "ch": "是否",
   "en": "True or False",
-  "pt": ""
+  "pt": "Verdadeiro ou Falso",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "modEnum1015Title": {
   "ch": "有没有",
   "en": "Yes or no",
-  "pt": ""
+  "pt": "Sim ou não",
+  "auto": "local/hy-mt2"
  },
  "modEnum1016Title": {
   "ch": "副本结算是否胜利",
   "en": "If the dungeon result is victorious or not",
-  "pt": ""
+  "pt": "Se o resultado da masmorra foi vitorioso ou não",
+  "auto": "local/hy-mt2"
  },
  "modEnum1017Title": {
   "ch": "格子属性类型",
   "en": "Tile stat type",
-  "pt": ""
+  "pt": "Tipo de atributo do quadrado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 28 > 19 caracteres"
+  ]
  },
  "modEnum1018Title": {
   "ch": "建筑类型",
   "en": "Building types",
-  "pt": ""
+  "pt": "Tipos de construções",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "modEnum1019Title": {
   "ch": "功法类型",
   "en": "Martial Arts Type",
-  "pt": ""
+  "pt": "Tipo de Artes Marciais",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020Title": {
   "ch": "功法类型",
   "en": "Martial Arts Type",
-  "pt": ""
+  "pt": "Tipo de Artes Marciais",
+  "auto": "local/hy-mt2"
  },
  "modEnum1021Title": {
   "ch": "区域类型",
   "en": "Area Type",
-  "pt": ""
+  "pt": "Tipo de área",
+  "auto": "local/hy-mt2"
  },
  "modEnum1022Title": {
   "ch": "等级",
   "en": "Level",
-  "pt": ""
+  "pt": "Nível",
+  "auto": "local/hy-mt2"
  },
  "modEnum1023Title": {
   "ch": "秘籍武器类型要求",
   "en": "Manual Weapon Type Requirement",
-  "pt": ""
+  "pt": "Requisito de tipo de arma no Manual",
+  "auto": "local/hy-mt2"
  },
  "modEnum1024Title": {
   "ch": "秘籍属性类型要求",
   "en": "Manual Stats Type Requirement",
-  "pt": ""
+  "pt": "Tipo de requisito de Atributos no Manual",
+  "auto": "local/hy-mt2"
  },
  "modEnum46428Title": {
   "ch": "宗门类型",
   "en": "Sect type",
-  "pt": ""
+  "pt": "Tipo de Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  }
 }

@@ -2,711 +2,928 @@
  "town_baojia": {
   "ch": "报价：",
   "en": "Bid:",
-  "pt": ""
+  "pt": "Lance:",
+  "auto": "local/hy-mt2"
  },
  "town_baoming": {
   "ch": "报名",
   "en": "Sign Up",
-  "pt": ""
+  "pt": "Cadastre-se",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "town_baomingchenggong": {
   "ch": "报名成功",
   "en": "Signed up",
-  "pt": ""
+  "pt": "Cadastrado",
+  "auto": "local/hy-mt2"
  },
  "town_beibao": {
   "ch": "我的背包",
   "en": "Inventory",
-  "pt": ""
+  "pt": "Inventário",
+  "auto": "local/hy-mt2"
  },
  "town_building_paimaihang": {
   "ch": "拍卖行",
   "en": "Auction House",
-  "pt": ""
+  "pt": "Casa de Leilões",
+  "auto": "local/hy-mt2"
  },
  "town_building_wuqipu": {
   "ch": "武器铺",
   "en": "Weapon Shop",
-  "pt": ""
+  "pt": "Loja de Armas",
+  "auto": "local/hy-mt2"
  },
  "town_building_yaopu": {
   "ch": "药铺",
   "en": "Apothecary",
-  "pt": ""
+  "pt": "Farmacêutico",
+  "auto": "local/hy-mt2"
  },
  "town_building_yizhan": {
   "ch": "驿站",
   "en": "Stage Station",
-  "pt": ""
+  "pt": "Estação de Palco",
+  "auto": "local/hy-mt2"
  },
  "town_bukejiequ": {
   "ch": "{0}不可接取此任务！",
   "en": "{0}不可接取此任务！",
-  "pt": ""
+  "pt": "{0} não pode aceitar esta missão!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_cailiaobuzu": {
   "ch": "材料不足！",
   "en": "Not enough materials!",
-  "pt": ""
+  "pt": "Não há material suficiente!",
+  "auto": "local/hy-mt2"
  },
  "town_canjiapaimaihui": {
   "ch": "是否参加拍卖会？参加后中途退出将无法加入本次拍卖会",
   "en": "Join this auction? You can't leave it before it's over, or you won't be able to return.",
-  "pt": ""
+  "pt": "Quer participar deste leilão? Você não pode sair antes que ele termine, senão não poderá voltar.",
+  "auto": "local/hy-mt2"
  },
  "town_canjiatishi": {
   "ch": "是否花费{0}灵石参加{1}的拍卖会？",
   "en": "Spend {0} Spirit Stones to join {1}'s auction?",
-  "pt": ""
+  "pt": "Gastar {0} Pedras Espirituais para participar do leilão de {1}?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_cankaodijia": {
   "ch": "参考底价：",
   "en": "Recommended Reserve Price: ",
-  "pt": ""
+  "pt": "Preço de reserva recomendado: ",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_chakan": {
   "ch": "查看拍卖品",
   "en": "View Auctioned Items",
-  "pt": ""
+  "pt": "Visualizar Itens Leiloados",
+  "auto": "local/hy-mt2"
  },
  "town_chujia": {
   "ch": "出价",
   "en": "Bid",
-  "pt": ""
+  "pt": "Lance",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_chujiabiao": {
   "ch": "出价表：",
   "en": "Bids:",
-  "pt": ""
+  "pt": "Lances:",
+  "auto": "local/hy-mt2"
  },
  "town_chujiatishi": {
   "ch": "{0}出价{1}",
   "en": "{0} made a bid of {1}",
-  "pt": ""
+  "pt": "{0} deu um lance de {1}",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_chushou": {
   "ch": "出售",
   "en": "Sell",
-  "pt": ""
+  "pt": "Vender",
+  "auto": "local/hy-mt2"
  },
  "town_chushouzangwu": {
   "ch": "出售赃物",
   "en": "Fence Stolen Items",
-  "pt": ""
+  "pt": "Revender Itens Roubados",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_chuwukongjian": {
   "ch": "储物空间",
   "en": "Storage",
-  "pt": ""
+  "pt": "Armazenamento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "town_cunru": {
   "ch": "存入",
   "en": "Store",
-  "pt": ""
+  "pt": "Armazenar",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 9 > 8 caracteres"
+  ]
  },
  "town_cunrutishi": {
   "ch": "你的背包中有新的书籍，将自动存入书库。",
   "en": "New books in your Inventory will be automatically stored in the Library.",
-  "pt": ""
+  "pt": "Os novos livros no seu Inventário serão armazenados automaticamente na Biblioteca.",
+  "auto": "local/hy-mt2"
  },
  "town_cunruwancheng": {
   "ch": "存入书籍完成！",
   "en": "Books stored!",
-  "pt": ""
+  "pt": "Livros armazenados!",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "town_dangqianbaojia": {
   "ch": "当前报价：",
   "en": "Current Bid:",
-  "pt": ""
+  "pt": "Lance atual:",
+  "auto": "local/hy-mt2"
  },
  "town_dianjichushou": {
   "ch": "点击出售",
   "en": "Click to sell",
-  "pt": ""
+  "pt": "Clique para vender",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "town_dianjigoumai": {
   "ch": "点击购买",
   "en": "Click to buy",
-  "pt": ""
+  "pt": "Clique para comprar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "town_dianjiquhui": {
   "ch": "点击取回",
   "en": "Click to Withdraw",
-  "pt": ""
+  "pt": "Clique para sacar",
+  "auto": "local/hy-mt2"
  },
  "town_dijia": {
   "ch": "底价：",
   "en": "Reserve Price: ",
-  "pt": ""
+  "pt": "Preço de reserva: ",
+  "auto": "local/hy-mt2"
  },
  "town_diuqi": {
   "ch": "丢弃",
   "en": "Discard",
-  "pt": ""
+  "pt": "Descartar",
+  "auto": "local/hy-mt2"
  },
  "town_duihuantishi": {
   "ch": "是否花费{0}灵石兑换{1}？",
   "en": "Exchange {0} Spirit Stones for {1}?",
-  "pt": ""
+  "pt": "Trocar {0} Pedras Espirituais por {1}?",
+  "auto": "local/hy-mt2"
  },
  "town_fangshi": {
   "ch": "坊市物品",
   "en": "Market Items",
-  "pt": ""
+  "pt": "Itens do Mercado",
+  "auto": "local/hy-mt2"
  },
  "town_fenhao": {
   "ch": "分号",
   "en": "Branch",
-  "pt": ""
+  "pt": "Filial",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_ganxingqu": {
   "ch": "请选择感兴趣的拍卖品，未选择的拍卖品开拍时将自动跳过",
   "en": "Select the items you're interested in. Unselected items will be skipped during the auction.",
-  "pt": ""
+  "pt": "Selecione os itens que lhe interessam. Os itens não selecionados serão ignorados durante o leilão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_gongnengtishi": {
   "ch": "商会每{0}进行一次拍卖会，{1}后开启下一次拍卖会。",
   "en": "The auction is held once every {0}. The next auction will begin in {1}.",
-  "pt": ""
+  "pt": "O leilão é realizado uma vez a cada {0}. O próximo leilão começará em {1}.",
+  "auto": "local/hy-mt2"
  },
  "town_goumai": {
   "ch": "购买",
   "en": "Buy",
-  "pt": ""
+  "pt": "Comprar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "town_goumaidanfang": {
   "ch": "购买丹方：",
   "en": "Buy Elixir Recipe:",
-  "pt": ""
+  "pt": "Compre a Receita de Elixir:",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "town_goumaidanfangtishi": {
   "ch": "未学习此丹方，请先购买并学习此丹方。",
   "en": "You haven't learned this Elixir Recipe. Please buy and learn it first.",
-  "pt": ""
+  "pt": "Você ainda não aprendeu esta Receita de Elixir. Por favor, compre e aprenda-a primeiro.",
+  "auto": "local/hy-mt2"
  },
  "town_hecheng": {
   "ch": "合成",
   "en": "Combine",
-  "pt": ""
+  "pt": "Combinar",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_hechengshibai": {
   "ch": "合成失败！",
   "en": "Failed to combine!",
-  "pt": ""
+  "pt": "Falha ao combinar!",
+  "auto": "local/hy-mt2"
  },
  "town_hechengxiaohao": {
   "ch": "合成消耗：",
   "en": "Cost:",
-  "pt": ""
+  "pt": "Custo:",
+  "auto": "local/hy-mt2"
  },
  "town_heishi": {
   "ch": "黑市交易",
   "en": "Black Market Trade",
-  "pt": ""
+  "pt": "Comércio no mercado negro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "town_hejiutishi": {
   "ch": "达到{0}才能在{1}喝酒！",
   "en": "Reach {0} to drink in {1}!",
-  "pt": ""
+  "pt": "Alcance {0} para beber {1}!",
+  "auto": "local/hy-mt2"
  },
  "town_huafei": {
   "ch": "灵石{0} 需要{1}天",
   "en": "Cost: {0} Spirit Stones, Duration: {1}d",
-  "pt": ""
+  "pt": "Custo: {0} Pedras Espirituais, Duração: {1} dias",
+  "auto": "local/hy-mt2"
  },
  "town_huishou": {
   "ch": "回收道具",
   "en": "Sell Back",
-  "pt": ""
+  "pt": "Revender",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_huishoujiage": {
   "ch": "回收总价：{0}灵石",
   "en": "Total Price: {0} Spirit Stones",
-  "pt": ""
+  "pt": "Preço total: {0} Pedras Espirituais",
+  "auto": "local/hy-mt2"
  },
  "town_jingpaichenggong": {
   "ch": "竞拍成功",
   "en": "Bid made",
-  "pt": ""
+  "pt": "Lance feito",
+  "auto": "local/hy-mt2"
  },
  "town_jingpaishibai": {
   "ch": "竞拍失败",
   "en": "Failed to make a bid",
-  "pt": ""
+  "pt": "Falha ao dar o lance",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_jingpaitishi": {
   "ch": "准备开始竞拍{0}，请准备",
   "en": "Bidding for {0} will begin soon. Get ready.",
-  "pt": ""
+  "pt": "O leilão para {0} começará em breve. Prepare-se.",
+  "auto": "local/hy-mt2"
  },
  "town_jingpaitishi2": {
   "ch": "不能和自己竞价",
   "en": "You can't outbid yourself",
-  "pt": ""
+  "pt": "Você não pode cobrir o próprio lance",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_jingpaituicu": {
   "ch": "是否离开拍卖会？离开后将无法参与本次拍卖会",
   "en": "Leave the auction? You won't be able to return afterwards.",
-  "pt": ""
+  "pt": "Sair do leilão? Você não poderá retornar depois.",
+  "auto": "local/hy-mt2"
  },
  "town_jipai": {
   "ch": "寄拍",
   "en": "Put Up",
-  "pt": ""
+  "pt": "Leiloar",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_jipaichenggong": {
   "ch": "寄拍成功",
   "en": "This item has been put up for auction!",
-  "pt": ""
+  "pt": "Este item foi colocado em leilão!",
+  "auto": "local/hy-mt2"
  },
  "town_jipaitishi": {
   "ch": "确认寄拍{0}吗？\n底价{1}，确认后收取{2}灵石手续费",
   "en": "Put up {0} for auction?\nReserve Price: {1}. {2} Spirit Stones will be paid as a fee once you confirm.",
-  "pt": ""
+  "pt": "Colocar {0} em leilão?\nPreço de reserva: {1}. {2} Pedras Espirituais serão cobradas como taxa após a confirmação.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_kehecheng": {
   "ch": "可合成",
   "en": "Combine",
-  "pt": ""
+  "pt": "Combinável",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_kejipai": {
   "ch": "可寄拍以下境界道具：",
   "en": "Only items of the following realms can be put up for the auction:",
-  "pt": ""
+  "pt": "Apenas itens dos seguintes reinos podem ser colocados no leilão:",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_kongjianyiman": {
   "ch": "建木空间已满！",
   "en": "Tree Vault is full!",
-  "pt": ""
+  "pt": "A Árvore-Cofre está cheia!",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "town_kuaisujingpai": {
   "ch": "快速竞拍",
   "en": "Quick Bid",
-  "pt": ""
+  "pt": "Lance Rápido",
+  "auto": "local/hy-mt2"
  },
  "town_liandan": {
   "ch": "炼丹",
   "en": "Alchemy",
-  "pt": ""
+  "pt": "Alquimia",
+  "auto": "local/hy-mt2"
  },
  "town_liandanquxiao": {
   "ch": "取消炼制将返回材料，但会消耗丹炉耐久度，是否取消炼丹？",
   "en": "If you cancel now, the materials will be returned, but the Furnace's Durability will drop. Cancel anyway?",
-  "pt": ""
+  "pt": "Se você cancelar agora, o material será devolvido, mas a durabilidade da Fornalha diminuirá. Deseja cancelar mesmo assim?",
+  "auto": "local/hy-mt2"
  },
  "town_liandantishi": {
   "ch": "此丹方的炼制过程复杂，工坊无法炼制！需要购买丹方后自己炼制！",
   "en": "This Elixir is too complicated to be concocted in the Workshop. Please buy its recipe and concoct it yourself.",
-  "pt": ""
+  "pt": "Esse Elixir é muito complicado para ser preparado na Oficina. Por favor, compre a receita e prepare-o você mesmo.",
+  "auto": "local/hy-mt2"
  },
  "town_lianqi": {
   "ch": "炼器",
   "en": "Forge",
-  "pt": ""
+  "pt": "Forja",
+  "auto": "local/hy-mt2"
  },
  "town_lianzhi": {
   "ch": "炼制",
   "en": "Forge",
-  "pt": ""
+  "pt": "Forja",
+  "auto": "local/hy-mt2"
  },
  "town_lianzhitishi": {
   "ch": "确定花费{0}灵石炼制{1}吗？",
   "en": "Spend {0} Spirit Stones to concoct {1}?",
-  "pt": ""
+  "pt": "Gastar {0} Pedras Espirituais para preparar {1}?",
+  "auto": "local/hy-mt2"
  },
  "town_lianzhixiaohao": {
   "ch": "工坊炼制消耗：",
   "en": "Workshop Cost:",
-  "pt": ""
+  "pt": "Custo da Oficina:",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_liupai": {
   "ch": "流拍",
   "en": "Bought-In",
-  "pt": ""
+  "pt": "Sem Lance",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_liupaiwupin": {
   "ch": "（流拍物品）",
   "en": "(Bought-In Items)",
-  "pt": ""
+  "pt": "(Itens adquiridos de terceiros)",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 23 caracteres"
+  ]
  },
  "town_lundaotishi": {
   "ch": "必须加入{0}的任意宗门，才能参加升仙大会！",
   "en": "Join a sect ({0}) to participate in the Immortal Tournament!",
-  "pt": ""
+  "pt": "Junte-se a uma seita ({0}) para participar do Torneio Imortal!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_mijishuaxintishi": {
   "ch": "距离下次刷新秘籍\n还有{0}个月",
   "en": "Manuals will be refreshed in\n{0} month(s)",
-  "pt": ""
+  "pt": "Os Manuais serão atualizados em\n{0} mês(es)",
+  "auto": "local/hy-mt2"
  },
  "town_mission10": {
   "ch": "地级委托",
   "en": "Advanced Mission",
-  "pt": ""
+  "pt": "Missão Avançada",
+  "auto": "local/hy-mt2"
  },
  "town_mission11": {
   "ch": "地级委托",
   "en": "Advanced Mission",
-  "pt": ""
+  "pt": "Missão Avançada",
+  "auto": "local/hy-mt2"
  },
  "town_mission12": {
   "ch": "天级委托",
   "en": "Expert Mission",
-  "pt": ""
+  "pt": "Missão de Especialistas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "town_mission7": {
   "ch": "黄级委托",
   "en": "Novice Mission",
-  "pt": ""
+  "pt": "Missão para Iniciantes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "town_mission8": {
   "ch": "玄级委托",
   "en": "Intermediate Mission",
-  "pt": ""
+  "pt": "Missão Intermediária",
+  "auto": "local/hy-mt2"
  },
  "town_mission9": {
   "ch": "玄级委托",
   "en": "Intermediate Mission",
-  "pt": ""
+  "pt": "Missão Intermediária",
+  "auto": "local/hy-mt2"
  },
  "town_npctishi": {
   "ch": "嘘......货呢？",
   "en": "Where's the merchandise?",
-  "pt": ""
+  "pt": "Onde está a mercadoria?",
+  "auto": "local/hy-mt2"
  },
  "town_paimaihangguanli": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "town_paimaihuijieshu": {
   "ch": "拍卖会已结束",
   "en": "This auction is over.",
-  "pt": ""
+  "pt": "Este leilão já terminou.",
+  "auto": "local/hy-mt2"
  },
  "town_paimaitishi": {
   "ch": "下一次拍卖会在{0}后开始",
   "en": "The next auction begins in {0}",
-  "pt": ""
+  "pt": "O próximo leilão começa em {0}",
+  "auto": "local/hy-mt2"
  },
  "town_piliangjipai": {
   "ch": "是否将背包中剩余{0}以相同数量批量拍卖",
   "en": "Put up other owned {0} for auction in the same stack size?",
-  "pt": ""
+  "pt": "Colocar outros {0} de propriedade sua em leilão, com o mesmo tamanho de pilha?",
+  "auto": "local/hy-mt2"
  },
  "town_quchu": {
   "ch": "取出",
   "en": "Withdraw",
-  "pt": ""
+  "pt": "Sacar",
+  "auto": "local/hy-mt2"
  },
  "town_quhui": {
   "ch": "取回",
   "en": "Withdraw",
-  "pt": ""
+  "pt": "Sacar",
+  "auto": "local/hy-mt2"
  },
  "town_quhuiliupai": {
   "ch": "是否取回所有流拍物品",
   "en": "Withdraw all bought-in items?",
-  "pt": ""
+  "pt": "Retirar todos os itens comprados?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name1": {
   "ch": "火灵气",
   "en": "Fire Qi",
-  "pt": ""
+  "pt": "Qi de Fogo",
+  "auto": "local/hy-mt2"
  },
  "town_refine_name10": {
   "ch": "风灵珠",
   "en": "Wind Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi do Vento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "town_refine_name11": {
   "ch": "土灵珠",
   "en": "Earth Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi da Terra",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "town_refine_name12": {
   "ch": "木灵珠",
   "en": "Wood Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi da Madeira",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 15 caracteres"
+  ]
  },
  "town_refine_name13": {
   "ch": "天道之气",
   "en": "Heaven Aura",
-  "pt": ""
+  "pt": "Aura do Céu",
+  "auto": "local/hy-mt2"
  },
  "town_refine_name14": {
   "ch": "地道之气",
   "en": "Earth Aura",
-  "pt": ""
+  "pt": "Aura da Terra",
+  "auto": "local/hy-mt2"
  },
  "town_refine_name15": {
   "ch": "火灵斗气",
   "en": "Condensed Fire Qi",
-  "pt": ""
+  "pt": "Qi Condensado do Fogo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name16": {
   "ch": "水灵斗气",
   "en": "Condensed Water Qi",
-  "pt": ""
+  "pt": "Qi Condensado da Água",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name17": {
   "ch": "雷灵斗气",
   "en": "Condensed Lightning Qi",
-  "pt": ""
+  "pt": "Qi Condensado do Relâmpago",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name18": {
   "ch": "风灵斗气",
   "en": "Condensed Wind Qi",
-  "pt": ""
+  "pt": "Qi Condensado do Vento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name19": {
   "ch": "土灵斗气",
   "en": "Condensed Earth Qi",
-  "pt": ""
+  "pt": "Qi Condensado da Terra",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name2": {
   "ch": "水灵气",
   "en": "Water Qi",
-  "pt": ""
+  "pt": "Qi de Água",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name20": {
   "ch": "木灵斗气",
   "en": "Condensed Wood Qi",
-  "pt": ""
+  "pt": "Qi Condensado da Madeira",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "town_refine_name21": {
   "ch": "火灵斗珠",
   "en": "Condensed Fire Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi Condensado do Fogo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name22": {
   "ch": "水灵斗珠",
   "en": "Condensed Water Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi da Água Condensada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name23": {
   "ch": "雷灵斗珠",
   "en": "Condensed Lightning Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi do Relâmpago Condensada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name24": {
   "ch": "风灵斗珠",
   "en": "Condensed Wind Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi do Vento Condensada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name25": {
   "ch": "土灵斗珠",
   "en": "Condensed Earth Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi da Terra Condensada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name26": {
   "ch": "木灵斗珠",
   "en": "Condensed Wood Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi da Madeira Condensada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name27": {
   "ch": "中品魂石",
   "en": "G2 Soul Stone",
-  "pt": ""
+  "pt": "Pedra da Alma G2",
+  "auto": "local/hy-mt2"
  },
  "town_refine_name28": {
   "ch": "上品魂石",
   "en": "G1 Soul Stone",
-  "pt": ""
+  "pt": "Pedra da Alma G1",
+  "auto": "local/hy-mt2"
  },
  "town_refine_name29": {
   "ch": "中品魂晶",
   "en": "G2 Soul Crystal",
-  "pt": ""
+  "pt": "Cristal da Alma G2",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name3": {
   "ch": "雷灵气",
   "en": "Lightning Qi",
-  "pt": ""
+  "pt": "Qi de Relâmpago",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name30": {
   "ch": "上品魂晶",
   "en": "G1 Soul Crystal",
-  "pt": ""
+  "pt": "Cristal da Alma G1",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name31": {
   "ch": "中品魂玉",
   "en": "G2 Soul Jade",
-  "pt": ""
+  "pt": "Jade da Alma G2",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name32": {
   "ch": "上品魂玉",
   "en": "G1 Soul Jade",
-  "pt": ""
+  "pt": "Jade da Alma G1",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name33": {
   "ch": "中品精魄之息",
   "en": "G2 Soul Breath",
-  "pt": ""
+  "pt": "Sopro da Alma G2",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name34": {
   "ch": "上品精魄之息",
   "en": "G1 Soul Breath",
-  "pt": ""
+  "pt": "Sopro da Alma G1",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name35": {
   "ch": "中品圣灵之息",
   "en": "G2 Sacred Soul Breath",
-  "pt": ""
+  "pt": "Sopro Sagrado da Alma G2",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name36": {
   "ch": "上品圣灵之息",
   "en": "G1 Sacred Soul Breath",
-  "pt": ""
+  "pt": "Sopro Sagrado da Alma G1",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name4": {
   "ch": "风灵气",
   "en": "Wind Qi",
-  "pt": ""
+  "pt": "Qi de Vento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "town_refine_name5": {
   "ch": "土灵气",
   "en": "Earth Qi",
-  "pt": ""
+  "pt": "Qi de Terra",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name6": {
   "ch": "木灵气",
   "en": "Wood Qi",
-  "pt": ""
+  "pt": "Qi de Madeira",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "town_refine_name7": {
   "ch": "火灵珠",
   "en": "Fire Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi do Fogo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "town_refine_name8": {
   "ch": "水灵珠",
   "en": "Water Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi da Água",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "town_refine_name9": {
   "ch": "雷灵珠",
   "en": "Lightning Qi Orb",
-  "pt": ""
+  "pt": "Orbe de Qi do Relâmpago",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "town_renwutishi": {
   "ch": "此任务不能同时接取多个！",
   "en": "You can only accept one mission of this type at a time!",
-  "pt": ""
+  "pt": "Você só pode aceitar uma missão desse tipo por vez!",
+  "auto": "local/hy-mt2"
  },
  "town_shengwangyaoqiu": {
   "ch": "声望达到{0}可兑换此层",
   "en": "Requires {0} Reputation",
-  "pt": ""
+  "pt": "Requer {0} de Reputação",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_shoujia": {
   "ch": "售价：",
   "en": "Price: ",
-  "pt": ""
+  "pt": "Preço: ",
+  "auto": "local/hy-mt2"
  },
  "town_shuaxinmiji": {
   "ch": "是否花费{0}灵石刷新秘籍？",
   "en": "Spend {0} Spirit Stones to refresh the Manuals?",
-  "pt": ""
+  "pt": "Gastar {0} Pedras Espirituais para atualizar os Manuais?",
+  "auto": "local/hy-mt2"
  },
  "town_shuku": {
   "ch": "书库",
   "en": "Library",
-  "pt": ""
+  "pt": "Biblioteca",
+  "auto": "local/hy-mt2"
  },
  "town_shurudijia": {
   "ch": "请输入竞拍总底价！",
   "en": "Enter the total Reserve Price!",
-  "pt": ""
+  "pt": "Insira o preço de reserva total!",
+  "auto": "local/hy-mt2"
  },
  "town_tousu": {
   "ch": "投宿",
   "en": "Rest",
-  "pt": ""
+  "pt": "Descanso",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "town_tuodongtishi": {
   "ch": "到底了！",
   "en": "You've reached the bottom.",
-  "pt": ""
+  "pt": "Você chegou ao fim.",
+  "auto": "local/hy-mt2"
  },
  "town_tuoshou": {
   "ch": "脱手",
   "en": "脱手",
-  "pt": ""
+  "pt": "Desfazer-se",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_wodebeibao": {
   "ch": "我的背包",
   "en": "Inventory",
-  "pt": ""
+  "pt": "Inventário",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_xiangzidaoju": {
   "ch": "箱子中的道具",
   "en": "Items",
-  "pt": ""
+  "pt": "Itens",
+  "auto": "local/hy-mt2"
  },
  "town_xiaohaocailiao": {
   "ch": "消耗材料",
   "en": "Cost",
-  "pt": ""
+  "pt": "Custo",
+  "auto": "local/hy-mt2"
  },
  "town_xiuxi": {
   "ch": "休息一下，可以恢复体力精力。",
   "en": "Get some rest to recover your Vitality and Stamina.",
-  "pt": ""
+  "pt": "Descanse um pouco para recuperar sua Vitalidade e seu Vigor.",
+  "auto": "local/hy-mt2"
  },
  "town_yicanjia": {
   "ch": "已参加",
   "en": "Joined",
-  "pt": ""
+  "pt": "Participou",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "town_yichushou": {
   "ch": "已拍卖",
   "en": "Sold",
-  "pt": ""
+  "pt": "Vendido",
+  "auto": "local/hy-mt2"
  },
  "town_yifushuaxintishi": {
   "ch": "距离下次刷新衣服\n还有{0}个月",
   "en": "Outfits will be refreshed in\n{0} month(s)",
-  "pt": ""
+  "pt": "Os Trajes serão atualizados em\n{0} mês(es)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_yijipai": {
   "ch": "已寄拍物品",
   "en": "Auctioned Items",
-  "pt": ""
+  "pt": "Itens leiloados",
+  "auto": "local/hy-mt2"
  },
  "town_yiliupai": {
   "ch": "已流拍",
   "en": "Not sold",
-  "pt": ""
+  "pt": "Não vendido",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_yongjintishi": {
   "ch": "拍卖成功后，拍卖行按成交价收取{0}%的用佣金",
   "en": "The Auction House will take {0}% of the final price as its fee once an auction item has been sold.",
-  "pt": ""
+  "pt": "A Casa de Leilões receberá {0}% do preço final como taxa, após a venda de um item de leilão.",
+  "auto": "local/hy-mt2"
  },
  "town_zangwu": {
   "ch": "赃物",
   "en": "Stolen Item",
-  "pt": ""
+  "pt": "Item roubado",
+  "auto": "local/hy-mt2"
  },
  "town_zongdijia": {
   "ch": "总底价：",
   "en": "Total Reserve Price: ",
-  "pt": ""
+  "pt": "Preço de Reserva Total: ",
+  "auto": "local/hy-mt2"
  },
  "town_zonghao": {
   "ch": "总号",
   "en": "Headquarters",
-  "pt": ""
+  "pt": "Sede",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "town_zongjia": {
   "ch": "总价：",
   "en": "Total Price: ",
-  "pt": ""
+  "pt": "Preço total: ",
+  "auto": "local/hy-mt2"
  },
  "town_zuigaochujia": {
   "ch": "当前最高出价：{0}",
   "en": "Highest Bid: {0}",
-  "pt": ""
+  "pt": "Maior lance: {0}",
+  "auto": "local/hy-mt2"
  }
 }

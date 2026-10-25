@@ -2,556 +2,667 @@
  "fateDesc100001": {
   "ch": "战斗中的移动速度&700006_tsys&，并有概率朝伤害来源喷出一道火焰。",
   "en": "Your Agility during battle &700006_tsys&, with a chance to release a flame at your attacker.",
-  "pt": ""
+  "pt": "Sua Agilidade em batalha &700006_tsys&, com uma chance de liberar uma chama em seu atacante.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100002": {
   "ch": "你获得了一只奇怪的跟屁虫，战斗中它会自动攻击你附近的敌人。",
   "en": "You received a Following Bug. It will automatically attack the enemies around you.",
-  "pt": ""
+  "pt": "Você recebeu um Grudento. Ele atacará automaticamente os inimigos ao seu redor.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100004": {
   "ch": "你的灵力凝炼成了一枚飞剑，在你发动攻击时，会自动攻击离你最近的敌人，对其造成伤害。",
   "en": "Your Qi forms into a flying sword, which automatically attacks your nearest enemy in battle.",
-  "pt": ""
+  "pt": "Seu Qi se transforma em uma espada voadora, que ataca automaticamente o inimigo mais próximo em batalha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100005": {
   "ch": "每隔一段时间，会释放一次万剑出鞘，向&700015_fjjd&度方向发射共&700015_fjsl&道飞剑，对敌人造成伤害和效果。",
   "en": "Your flying sword will transform into a sword barrage of &700015_fjsl& swords after a certain time, dealing damage to enemies within &700015_fjjd& degrees and inflicting them with random effects.",
-  "pt": ""
+  "pt": "Sua espada voadora se transformará em uma barragem de &700015_fjsl& espadas após um certo tempo, causando dano aos inimigos em &700015_fjjd& graus e infligindo efeitos aleatórios.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100006": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100007": {
   "ch": "你的灵力凝炼成了一枚盾牌，战斗中围绕你旋转，可以帮你抵消部分攻击。",
   "en": "Your Qi forms into a shield that circles around you and blocks a part of enemies' attacks.",
-  "pt": ""
+  "pt": "Seu Qi se transforma em um escudo que gira ao seu redor e bloqueia parte dos ataques dos inimigos.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100008": {
   "ch": "盾牌每抵挡10次伤害，会发射一道震波，对场上所有敌人造成伤害，使敌人造成的伤害降低&700012_jdsh&%、减速&700011_jdys&%效果，持续&700012_jdsj&秒。（每&700012_shockCD&秒最多触发1次）",
   "en": "After every 10 blocks, your shield will release a shockwave that deals damage to enemies on the battlefield, reducing their Damage by &700012_jdsh&% and their Agility by &700011_jdys&% for &700012_jdsj&s. Can be triggered once every &700012_shockCD&s.",
-  "pt": ""
+  "pt": "Após cada 10 bloqueios, seu escudo liberará uma onda de choque que causa dano aos inimigos no campo de batalha, reduzindo seu Dano em &700012_jdsh&% e sua Agilidade em &700011_jdys&% por &700012_jdsj&s. Pode ser ativado uma vez a cada &700012_shockCD&s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100009": {
   "ch": "战斗中，每累积受到&700033_ljsh&%伤害，可使得伤害&700033_tssh&%（最大可增加100%)。",
   "en": "For every &700033_ljsh&% damage you receive in the battle, your damage dealt will &700033_tssh&%, up to 100%.",
-  "pt": ""
+  "pt": "Para cada &700033_ljsh&% de dano recebido na batalha, seu dano causará &700033_tssh&%, até 100%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100010": {
   "ch": "拳、掌、指法资质&100010_basUp&。",
   "en": "Fist, Palm, and Finger &100010_basUp&.",
-  "pt": ""
+  "pt": "Habilidades de Punho, Palma e Dedo &100010_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100011": {
   "ch": "刀、剑、枪法资质&100011_basUp&。",
   "en": "Blade, Spear, and Sword &100011_basUp&.",
-  "pt": ""
+  "pt": "Habilidades de Lâmina, Lança e Espada &100011_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100012": {
   "ch": "风、雷灵根&100012_basUp&。",
   "en": "Wind and Lightning roots &100012_basUp&.",
-  "pt": ""
+  "pt": "Raízes de Vento e Relâmpago &100012_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100013": {
   "ch": "土、火灵根&100013_basUp&。",
   "en": "Earth and Fire roots &100013_basUp&.",
-  "pt": ""
+  "pt": "Raízes de Terra e Fogo &100013_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100014": {
   "ch": "水、木灵根&100014_basUp&。",
   "en": "Water and Wood roots &100014_basUp&.",
-  "pt": ""
+  "pt": "Raízes de Água e Madeira &100014_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100015": {
   "ch": "战斗中，当你受到了&100015_hitNum&次伤害时，可生成一个护罩，&100015_damagedReduce&%自身受到的伤害，持续&100015_lastTime&秒。（一场战斗只能生效一次）",
   "en": "A shield will generate after taking damage &100015_hitNum& times, &100015_damagedReduce&% of your damage taken for &100015_lastTime&s. Effective only once in every battle.",
-  "pt": ""
+  "pt": "Um escudo será gerado após receber dano &100015_hitNum& vezes, reduzindo &100015_damagedReduce&% do dano recebido por &100015_lastTime&s. Efetivo apenas uma vez por batalha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100016": {
   "ch": "伤害&700050_powerDown&%。你施放技能时，有&700050_sfgl&%的概率可额外施放一次。",
   "en": "Damage &700050_powerDown&%. Every time you cast a skill, you have a &700050_sfgl&% chance to cast it an additional time.",
-  "pt": ""
+  "pt": "Dano &700050_powerDown&%. Toda vez que você lança uma habilidade, tem &700050_sfgl&% de chance de lançá-la novamente.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100017": {
   "ch": "当你在战斗中体力低于&700117_ljtl&%时，有概率会得到神秘人的出手相助。",
   "en": "When your Vitality drops below &700117_ljtl&% in battle, you have a chance to receive help from a Mystery Man.",
-  "pt": ""
+  "pt": "Quando sua Vitalidade cair abaixo de &700117_ljtl&% em batalha, você tem uma chance de receber ajuda de um Homem Misterioso.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100018": {
   "ch": "当你在战斗中体力低于&700118_ljtl&%时，有概率会得到鸡王的出手相助。",
   "en": "When your Vitality drops below &700118_ljtl&% in battle, you have a chance to receive help from a Chicken King.",
-  "pt": ""
+  "pt": "Quando sua Vitalidade cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei Galinha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100019": {
   "ch": "土、木灵根&100019_basUp&。",
   "en": "Earth and Wood roots &100019_basUp&.",
-  "pt": ""
+  "pt": "Raízes de Terra e Madeira &100019_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100020": {
   "ch": "战斗中每拥有&700152_ydsd&点移动速度，可使攻击速度&700152_shts&%，最多增加25%。",
   "en": "Every &700152_ydsd& Agility will grant you &700152_shts&% Attack Speed, up to 25%.",
-  "pt": ""
+  "pt": "A cada &700152_ydsd& de Agilidade, você ganha &700152_shts&% de Velocidade de Ataque, até 25%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100021": {
   "ch": "每受到&700141_gjcs&次攻击，免疫下一次攻击的伤害。",
   "en": "You will be immune to the next imminent attack after every &700141_gjcs& time of taking damage.",
-  "pt": ""
+  "pt": "A cada &700141_gjcs& ataques recebidos, você se torna imune ao próximo ataque.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100022": {
   "ch": "移动速度&100022_mspUp&%；且每隔&700144_jgsj&秒使自身闪避提升&700144_evadeUp&，持续&700144_countDown&秒。",
   "en": "Agility &100022_mspUp&%. Gain additional &700144_evadeUp& Dodge every &700144_jgsj&s, lasting for &700144_countDown&s.",
-  "pt": ""
+  "pt": "Agilidade &100022_mspUp&%. Ganhe Esquiva adicional &700144_evadeUp& a cada &700144_jgsj&s, durando &700144_countDown&s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100024": {
   "ch": "受到伤害时，有&1000241_per&%概率使自身暴击概率&1000241_critUp&%，持续&1000241_countDown&秒，不可叠加。",
   "en": "&1000241_per&% chance to increase your Crit Chance by &1000241_critUp&% for &1000241_countDown&s upon taking damage. This effect is unstackable.",
-  "pt": ""
+  "pt": "&1000241_per&% de chance de aumentar sua Chance Crítica em &1000241_critUp&% por &1000241_countDown&s ao receber dano. Este efeito não pode ser acumulado.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100025": {
   "ch": "进入战斗后，立即获得&1000251_chargePoint&点充能。",
   "en": "Gain &1000251_chargePoint& Recharging Points upon entering battle.",
-  "pt": ""
+  "pt": "Ganhe &1000251_chargePoint& Pontos de Carga ao entrar em batalha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100026": {
   "ch": "每造成&700157_shcs&次伤害后，接下来&700157_bjsj&秒暴击概率&700157_critUp&%；该效果在&700157_lqsj&秒内至多触发一次。",
   "en": "Gain &700157_critUp&% Crit Chance for &700157_bjsj&s after dealing &700157_shcs& times of damage. Can be triggered once every &700157_lqsj&s.",
-  "pt": ""
+  "pt": "Ganhe &700157_critUp&% de Chance Crítica por &700157_bjsj&s após causar dano &700157_shcs& vezes. Pode ser ativado uma vez a cada &700157_lqsj&s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100030": {
   "ch": "所有释放的技能均视为剑法技能，剑资质&100030_basUp&。",
   "en": "All your skills cast will be calculated as Sword skills. Sword &100030_basUp&.",
-  "pt": ""
+  "pt": "Todas as suas habilidades lançadas serão calculadas como habilidades de Espada. Espada &100030_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100031": {
   "ch": "技能范围&100031_jnfwUp&%。",
   "en": "Skill Radius &100031_jnfwUp&%.",
-  "pt": ""
+  "pt": "Raio da Habilidade &100031_jnfwUp&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100032": {
   "ch": "受到伤害时，有&100032_fireChickProb&%的几率出现一只燃烧的小鸡攻击敌人，每次触发时可获得等同于最大体力&100032_shieldRate&%的护盾并释放一次崩山拳",
   "en": "&100032_fireChickProb&% chance to summon a fiery chicken to attack enemies every time you take damage. Every triggering of the skill will grant you a Shield equal to your &100032_shieldRate&% Max Vitality and an instant cast of Hillbreaker Fist.",
-  "pt": ""
+  "pt": "Ao receber dano, há &100032_fireChickProb&% de chance de invocar uma galinha de fogo para atacar inimigos. Cada ativação concede um Escudo igual a &100032_shieldRate&% da sua Vitalidade Máx. e uma invocação instantânea de Punho Quebra-Colinas.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100033": {
   "ch": "自身每使用&1000331_counts&次技能后，将召唤一只蛟龙冲入场中，对碰触的敌人造成威力&27103_shwl&的伤害。",
   "en": "Summon a Jiaolong into the battlefield and deal &27103_shwl& damage to enemies touched after you cast skills &1000331_counts& times.",
-  "pt": ""
+  "pt": "Invoca um Jiaolong no campo de batalha após usar habilidades &1000331_counts& vezes, causando dano &27103_shwl& aos inimigos tocados.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100034": {
   "ch": "自身每移动&1000341_moveLength&码后，可在距离最近的敌人位置迸发出一道不屈之影，对范围内的敌人造成&27403_shwl|x10|f0&威力/秒的伤害。",
   "en": "Every &1000341_moveLength& distance moved will create an Unyielding Spirit at the nearest enemy's location, dealing &27403_shwl|x10|f0& damage per second to enemies in its area of effect.",
-  "pt": ""
+  "pt": "A cada &1000341_moveLength& de distância percorrida, cria um Espírito Inabalável na localização do inimigo mais próximo, causando &27403_shwl|x10|f0& de dano por segundo aos inimigos na área de efeito.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100039": {
   "ch": "飞星联珠提升的弹道数量额外&43102_ddslUp%88&。",
   "en": "Constellation Archery will provide you additional &43102_ddslUp%88& Projectile Amount.",
-  "pt": ""
+  "pt": "Arco da Constelação fornece &43102_ddslUp%88& quantidade de projéteis adicional.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100040": {
   "ch": "化相真形召唤的守护之鸟所造成的伤害<g>+50</g>%。",
   "en": "The Guardian Birds spawned from Feathered Form deal <g>+50</g>% Damage.",
-  "pt": ""
+  "pt": "Os Pássaros Guardiões invocados pela Forma Pluma causam <g>+50</g>% de Dano.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100041": {
   "ch": "皓羽战魂牵引敌人后，额外降下&2101211_missile%88&道拳击。",
   "en": "Release additional &2101211_missile%88& punches after drawing enemies closer with Unstoppable Wings.",
-  "pt": ""
+  "pt": "Libere &2101211_missile%88& golpes adicionais após atrair os inimigos com Asas Inabaláveis.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100042": {
   "ch": "紫垣碧天效果持续期间，幸运&411017_luckEx%88&。",
   "en": "Gain &411017_luckEx%88& Luck in the duration of Violet Cosmos.",
-  "pt": ""
+  "pt": "Ganhe &411017_luckEx%88& de Sorte durante o Cosmos Violeta.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100043": {
   "ch": "三清秘术所生成的镜像存在时间&44101_time%88&秒。",
   "en": "Gain &44101_time%88&s additional duration for the mirror images created by Qi Triplication.",
-  "pt": ""
+  "pt": "Ganhe &44101_time%88&s de duração adicional para as imagens de espelho criadas pela Triplicação de Qi.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100044": {
   "ch": "荡尽尘寰增加额外持续时间的规则变为：每学习<g>5</g>个心法词条，此技能持续时间<g>+1</g>秒，上限<g>20</g>秒。",
   "en": "Thunderous Barrage's duration bonus is now calculated as: Every <g>5</g> Mind Skill Affixes learned will grant you <g>+1</g>s Duration for the skill, up to <g>20</g>s.",
-  "pt": ""
+  "pt": "O bônus de duração da Chuva de Meteoros agora é calculado como: A cada <g>5</g> Afixos de Técnica Mental aprendidos, ganhe <g>+1</g>s de Duração para a habilidade, até <g>20</g>s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100045": {
   "ch": "素心唤灵持续期间所产生的召唤物，其持续时间将延长&4210288_zhsjEx%88&%。",
   "en": "Summoned Units spawned in the duration of Ally of Spirits will gain &4210288_zhsjEx%88&% additional summon duration.",
-  "pt": ""
+  "pt": "Unidades Invocadas geradas durante Aliado dos Espíritos ganham &4210288_zhsjEx%88&% de duração de invocação adicional.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100046": {
   "ch": "入浑反朴对伤害来源造成的伤害，提升为最大体力的<g>20</g>%。",
   "en": "Increase the reflective damage dealt by Mirrored Move to <g>20</g>% of your Max Vitality.",
-  "pt": ""
+  "pt": "Aumente o dano refletivo causado por Movimento Espelhado para <g>20</g>% da sua Vitalidade Máx.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100047": {
   "ch": "拾取蘑菇或道具后可额外投掷&215002_sumTwo%88&个蘑菇炸弹。",
   "en": "Throw &215002_sumTwo%88& additional mushroom bombs upon every picking up of mushrooms or items.",
-  "pt": ""
+  "pt": "Jogue &215002_sumTwo%88& bombas de cogumelo adicionais ao coletar cogumelos ou itens.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100048": {
   "ch": "在战斗中若所装备技能小于<r>4</r>个，则每少装备<g>1</g>个技能、伤害加成&1000471_powerUp&%。",
   "en": "Every <g>1</g> empty skill slot will grant you &1000471_powerUp&% Damage Bonus if your equipped skills are less than <r>4</r> in a battle.",
-  "pt": ""
+  "pt": "A cada <g>1</g> slot de habilidade vazio, ganhe &1000471_powerUp&% de Bônus de Dano se suas habilidades equipadas forem menos de <r>4</r> em uma batalha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc10104": {
   "ch": "刀法资质&10104_bladeBasUp&，每点刀法资质可使暴击倍率&10104_bladeToCritV&%。",
   "en": "Blade &10104_bladeBasUp&. Every Blade will &10104_bladeToCritV&% of your Crit Rate.",
-  "pt": ""
+  "pt": "Lâmina &10104_bladeBasUp&. Cada ponto de Lâmina concede &10104_bladeToCritV&% do seu Multiplicador Crítico.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc10204": {
   "ch": "枪法资质&10204_spearBasUp&，每点枪法资质可使技能射程&10204_spearToRange&%。",
   "en": "Spear &10204_spearBasUp&. Every Spear will &10204_spearToRange&% of your Skill Range.",
-  "pt": ""
+  "pt": "Lança &10204_spearBasUp&. Cada ponto em Lança aumentará em &10204_spearToRange&% o Alcance da Habilidade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc10304": {
   "ch": "剑法资质&10304_swordBasUp&，每点剑法资质可使移动速度&10304_swordToSpeed&。",
   "en": "Sword &10304_swordBasUp&. Every Sword will &10304_swordToSpeed& your Agility.",
-  "pt": ""
+  "pt": "Espada &10304_swordBasUp&. Cada ponto em Espada aumentará em &10304_swordToSpeed& a Agilidade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc10404": {
   "ch": "拳法资质&10404_fistBasUp&，每点拳法资质可使暴击概率&10404_fistToCrit&%。",
   "en": "Fist &10404_fistBasUp&. Every Fist will &10404_fistToCrit&% of your Crit Chance.",
-  "pt": ""
+  "pt": "Punho &10404_fistBasUp&. Cada ponto em Punho aumentará em &10404_fistToCrit&% a Chance Crítica.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc10504": {
   "ch": "掌法资质&10504_palmBasUp&，每点掌法资质可使掌风伤害&10504_windDmgUp&%",
   "en": "Palm &10504_palmBasUp&. Every Palm will &10504_windDmgUp&% of your Palm Wind Damage.",
-  "pt": ""
+  "pt": "Palma &10504_palmBasUp&. Cada ponto em Palma aumentará em &10504_windDmgUp&% o Dano do Vento da Palma.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc10604": {
   "ch": "指法资质&10604_fingerBasUp&，每点指法资质可使伤害&10604_fingerToPower&%。",
   "en": "Finger &10604_fingerBasUp&. Every Finger will &10604_fingerToPower&% of your Damage.",
-  "pt": ""
+  "pt": "Dedo &10604_fingerBasUp&. Cada ponto em Dedo aumentará em &10604_fingerToPower&% o Dano.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11104": {
   "ch": "火灵根&11104_fireBasUp&，每点火灵根可使烈焰的范围&11104_fireRange&%。",
   "en": "Fire Root &11104_fireBasUp&. Every Fire root will &11104_fireRange&% of Fiery Flame's Radius.",
-  "pt": ""
+  "pt": "Raiz de Fogo &11104_fireBasUp&. Cada ponto em Raiz de Fogo aumentará em &11104_fireRange&% o Raio da Chama Ardente.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11204": {
   "ch": "水灵根&11204_frozeBasUp&，每&11204_water&点水灵根可使体力回复&11204_hpBack&",
   "en": "Water Root &11204_frozeBasUp&. Every &11204_water& Water root will &11204_hpBack& your Vitality Restoration.",
-  "pt": ""
+  "pt": "Raiz de Água &11204_frozeBasUp&. Cada &11204_water& ponto em Raiz de Água aumentará em &11204_hpBack& a Recuperação de Vitalidade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11304": {
   "ch": "雷灵根&11304_thunderBasUp&，每点雷灵根可使攻击速度&11304_mspUp&%。",
   "en": "Lightning Root &11304_thunderBasUp&. Every Lightning root will &11304_mspUp&% of your Attack Speed.",
-  "pt": ""
+  "pt": "Raiz de Relâmpago &11304_thunderBasUp&. Cada ponto em Raiz de Relâmpago aumentará em &11304_mspUp&% a Velocidade de Ataque.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11404": {
   "ch": "风灵根&11405_windBasUp&，每点风灵根可使闪避&11404_jncx&。",
   "en": "Wind Root &11405_windBasUp&. Every Wind root will &11404_jncx& your Dodge.",
-  "pt": ""
+  "pt": "Raiz de Vento &11405_windBasUp&. Cada ponto em Raiz de Vento aumentará em &11404_jncx& a Esquiva.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11504": {
   "ch": "土灵根&11504_earthBasUp&，每&11504_stone&点土灵根可使抗性&11504_pfr&。",
   "en": "Earth Root &11504_earthBasUp&. Every &11504_stone& Earth root will &11504_pfr& your Resistance.",
-  "pt": ""
+  "pt": "Raiz de Terra &11504_earthBasUp&. Cada &11504_stone& ponto em Raiz de Terra aumentará em &11504_pfr& a Resistência.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11604": {
   "ch": "木灵根&11604_woodBasUp&，每点木灵根可使最大体力&11604_hpMax&。",
   "en": "Wood Root &11604_woodBasUp&. Every Wood root will &11604_hpMax& your Max Vitality.",
-  "pt": ""
+  "pt": "Raiz de Madeira &11604_woodBasUp&. Cada ponto em Raiz de Madeira aumentará em &11604_hpMax& a Vitalidade Máx.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc201001": {
   "ch": "幸运&41201_luckUp&。吸血比例&41201_hpSuckVDown&%。",
   "en": "Luck &41201_luckUp&. Leech Rate &41201_hpSuckVDown&%.",
-  "pt": ""
+  "pt": "Sorte &41201_luckUp&. Taxa de Roubo de Vida &41201_hpSuckVDown&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc201002": {
   "ch": "幸运可发挥&41202_luckFix&%效果。体力回复仅发挥&41202_hpRestoreFix&%效果。",
   "en": "Luck is &41202_luckFix&% more effective. Vitality Restoration is &41202_hpRestoreFix&% less effective.",
-  "pt": ""
+  "pt": "A Sorte tem &41202_luckFix&% mais eficácia. A Recuperação de Vitalidade é &41202_hpRestoreFix&% menos eficaz.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20101": {
   "ch": "刀法资质&20101_bladeUp&",
   "en": "Blade &20101_bladeUp&",
-  "pt": ""
+  "pt": "Habilidade com Lâmina &20101_bladeUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20102": {
   "ch": "体力回复&20102_hpRestoreDown&。进入战斗后，最大体力&20102_hpMaxUp&（当前体力不变），体型大小改为&20102_modelSizeUp&%",
   "en": "Vitality Restoration &20102_hpRestoreDown&. Max Vitality &20102_hpMaxUp& after entering battle (will not affect Current Vitality), character size &20102_modelSizeUp&%",
-  "pt": ""
+  "pt": "Recuperação de Vitalidade &20102_hpRestoreDown&. Ao entrar em batalha, a Vitalidade Máx. aumenta em &20102_hpMaxUp& (a Vitalidade Atual permanece inalterada), o tamanho do personagem é alterado para &20102_modelSizeUp&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20103": {
   "ch": "斩杀敌人的最低生命值&103_killHp%88&%，每斩杀一个敌人后，自身攻击速度&700313_gsts&%，持续&700313_cxsj&秒，最多可叠加&700313_djcs&层（仅对具备斩杀效果的技能生效）。",
   "en": "Enemy's Vitality threshold to trigger Execution &103_killHp%88&%. After every execution, your Attack Speed &700313_gsts&% for &700313_cxsj&s, up to &700313_djcs& stacks. Applicable only to skills with Execution effect.",
-  "pt": ""
+  "pt": "O limite de Vitalidade do inimigo para ativar Execução é de &103_killHp%88&%. Após cada execução, sua Velocidade de Ataque aumenta em &700313_gsts&% por &700313_cxsj&s, até &700313_djcs& acúmulos. Aplicável apenas a habilidades com efeito de Execução.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2020003": {
   "ch": "召唤物伤害可发挥&42102_zhshFix&%效果，伤害仅发挥&42102_powerFix&%效果。",
   "en": "Summoned Unit Damage is &42102_zhshFix&% more effective. Damage is &42102_powerFix&% less effective.",
-  "pt": ""
+  "pt": "O Dano de Unidades Invocadas é &42102_zhshFix&% mais eficaz. O Dano é &42102_powerFix&% menos eficaz.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2020004": {
   "ch": "生命回复&42102_hpRestoreUp&，幸运&42102_luckDown&。",
   "en": "Vitality Restoration &42102_hpRestoreUp&, Luck &42102_luckDown&.",
-  "pt": ""
+  "pt": "Recuperação de Vitalidade &42102_hpRestoreUp&, Sorte &42102_luckDown&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc202001": {
   "ch": "伤害&42201_powerDown&%。每点任意灵根可召唤物伤害&42201_basToZhsh&%。",
   "en": "Damage &42201_powerDown&%. Every Spiritual Root will &42201_basToZhsh&% of your Summoned Unit damage.",
-  "pt": ""
+  "pt": "Dano &42201_powerDown&%. Cada Raiz Espiritual aumentará em &42201_basToZhsh&% o Dano de Unidades Invocadas.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc202002": {
   "ch": "木灵根&42202_basUp&，土灵根&42202_basUp&。",
   "en": "Wood Root &42202_basUp&, Earth Root &42202_basUp&.",
-  "pt": ""
+  "pt": "Raiz de Madeira &42202_basUp&, Raiz de Terra &42202_basUp&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20201": {
   "ch": "枪法资质&20201_spearUp&",
   "en": "Spear &20201_spearUp&",
-  "pt": ""
+  "pt": "Lança &20201_spearUp&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20202": {
   "ch": "每&20202_chargePointCD&秒可获得1点充能点，枪资质&20202_mgBasDown&",
   "en": "Gain 1 Recharging Point every &20202_chargePointCD&s, Spear &20202_mgBasDown&",
-  "pt": ""
+  "pt": "Ganhe 1 Ponto de Recarga a cada &20202_chargePointCD&s, Lança &20202_mgBasDown&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc203001": {
   "ch": "技能射程&43201_rangeUp&。技能射程可发挥&43201_jnscFix&%效果，获取的修为&43201_expDown&%。",
   "en": "Skill Range &43201_rangeUp&. Range is &43201_jnscFix&% more effective. EXP Gained &43201_expDown&%.",
-  "pt": ""
+  "pt": "Alcance da Habilidade &43201_rangeUp&. Alcance é &43201_jnscFix&% mais eficaz. EXP Ganho &43201_expDown&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc203002": {
   "ch": "与敌人每距离&43202_distance&码，可对其的伤害&43202_dmgUp&%。",
   "en": "Every &43202_distance& Distance from your target will &43202_dmgUp&% your Damage to it.",
-  "pt": ""
+  "pt": "A cada &43202_distance& de Distância do alvo, seu Dano aumenta em &43202_dmgUp&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20301": {
   "ch": "剑法资质&20301_swordUp&",
   "en": "Sword &20301_swordUp&",
-  "pt": ""
+  "pt": "Espada &20301_swordUp&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20302": {
   "ch": "每次使用剑法可额外发射出&20302_bonusSword&道绝影剑",
   "en": "Release extra &20302_bonusSword& Shadowless Swords every time you use a Sword skill",
-  "pt": ""
+  "pt": "Libere &20302_bonusSword& Espadas Sem Sombra extras ao usar uma Habilidade de Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20303": {
   "ch": "每施加&7003321_lxcs&次流血效果后，可使自身恢复&7003321_hpRecover&点体力。",
   "en": "Every &7003321_lxcs& times of inflicting Bleed will restore &7003321_hpRecover& Vitality for you.",
-  "pt": ""
+  "pt": "A cada &7003321_lxcs& aplicações de Sangramento, recupere &7003321_hpRecover& de Vitalidade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2040001": {
   "ch": "所有资质&44101_basAllUp&，召唤物持续时间&44101_zhsjDown&%。",
   "en": "All Stats &44101_basAllUp&, Summoned Unit Duration &44101_zhsjDown&%.",
-  "pt": ""
+  "pt": "Todos os Atributos &44101_basAllUp&, Duração da Unidade Invocada &44101_zhsjDown&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2040002": {
   "ch": "技能持续时间可发挥&44101_jncxFix&%效果，获得修为&44101_expUp&%。",
   "en": "Skill Duration is &44101_jncxFix&% more effective, EXP Gained &44101_expUp&%.",
-  "pt": ""
+  "pt": "Duração da Habilidade é &44101_jncxFix&% mais eficaz, EXP Ganho &44101_expUp&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20401": {
   "ch": "拳法资质&20401_fistUp&",
   "en": "Fist &20401_fistUp&",
-  "pt": ""
+  "pt": "Punho &20401_fistUp&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20402": {
   "ch": "在进入战斗时，你的体力只保留&20402_hpLeft&点，其它的全部转化成护盾。",
   "en": "After entering battle, you'll only keep &20402_hpLeft& Vitality. The remaining Vitality will be converted into a shield.",
-  "pt": ""
+  "pt": "Ao entrar em batalha, você manterá apenas &20402_hpLeft& de Vitalidade. A Vitalidade restante será convertida em um Escudo.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20403": {
   "ch": "每次生成护盾时，护盾值额外&7003411_shield&。",
   "en": "Gain additional &7003411_shield& Shield HP in generating shields.",
-  "pt": ""
+  "pt": "Ganhe &7003411_shield& de Escudo adicional ao gerar escudos.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2050001": {
   "ch": "场上每有一个带负面效果的单位，可提升&45101_critUp&%的暴击概率，持续&45101_critUpTime&秒。",
   "en": "Every unit with debuffs will &45101_critUp&% of your Crit Chance for &45101_critUpTime&s.",
-  "pt": ""
+  "pt": "A cada unidade com efeitos negativos, ganhe &45101_critUp&% de Chance Crítica por &45101_critUpTime&s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2050002": {
   "ch": "伤害加成仅发挥&45101_powerFix&%效果。",
   "en": "Damage Bonus is &45101_powerFix&% less effective.",
-  "pt": ""
+  "pt": "Bônus de Dano é &45101_powerFix&% menos eficaz.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20501": {
   "ch": "掌法资质&20501_palmUp&",
   "en": "Palm &20501_palmUp&",
-  "pt": ""
+  "pt": "Palma &20501_palmUp&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20502": {
   "ch": "所有蓄力类型的技能冷却时间&20502_skillCDDown&秒",
   "en": "All Charge skills' Cooldown &20502_skillCDDown&s",
-  "pt": ""
+  "pt": "Recarga de todas as Habilidades de Carga &20502_skillCDDown&s",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20503": {
   "ch": "站立不动时，闪避&700351_evade&，抗性&700351_pfr&，拾取范围&700351_prg&。",
   "en": "Gain &700351_evade& Dodge, &700351_pfr& Resistance, and &700351_prg& Pick-up Radius when standing still.",
-  "pt": ""
+  "pt": "Ganhe &700351_evade& de Esquiva, &700351_pfr& de Resistência e &700351_prg& de Raio de Coleta ao ficar parado.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2060001": {
   "ch": "当康无法正常移动，移动速度仅发挥&46101_mspFix&%效果。",
   "en": "Dangkang's Agility is &46101_mspFix&% less effective.",
-  "pt": ""
+  "pt": "A Agilidade de Dangkang é &46101_mspFix&% menos eficaz.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2060002": {
   "ch": "保持静止时，抗性&46101_pfrUp&，生命回复&46101_hpRestoreUp&。",
   "en": "Gain &46101_pfrUp& Resistance and &46101_hpRestoreUp& Vitality Restoration when you're standing still.",
-  "pt": ""
+  "pt": "Ao ficar parado, ganhe &46101_pfrUp& de Resistência e &46101_hpRestoreUp& de Recuperação de Vitalidade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20601": {
   "ch": "指法资质&20601_fistUp&",
   "en": "Finger &20601_fistUp&",
-  "pt": ""
+  "pt": "Dedo &20601_fistUp&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20602": {
   "ch": "任何灵爆结束后，有&20602_blastProb&%的概率在&20602_blastLag&秒后原地再爆一次（不会再次触发）",
   "en": "For skills with Blast, &20602_blastProb&% chance to trigger the Blast again at its location after a delay of &20602_blastLag&s. (Not applicable to Blasts triggered by this effect)",
-  "pt": ""
+  "pt": "Para habilidades com Explosão, &20602_blastProb&% de chance de acionar a Explosão novamente em sua localização após um atraso de &20602_blastLag&s. (Não aplicável a Explosões acionadas por este efeito)",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20603": {
   "ch": "灵爆范围&50001_blastRangeCoefficient%88&%，灵爆伤害&50001_blastDmgCoefficient%88&%。",
   "en": "Blast Radius &50001_blastRangeCoefficient%88&%, Blast Damage &50001_blastDmgCoefficient%88&%.",
-  "pt": ""
+  "pt": "Raio de Explosão &50001_blastRangeCoefficient%88&%, Dano de Explosão &50001_blastDmgCoefficient%88&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20604": {
   "ch": "技能持续时间&20604_jncx&%。",
   "en": "Skill Duration &20604_jncx&%.",
-  "pt": ""
+  "pt": "Duração da Habilidade &20604_jncx&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20605": {
   "ch": "伤害加成&700364_dmg&%，每场战斗中累计使用&7003641_counts&次任意技能后，该效果消失。",
   "en": "Damage dealt &700364_dmg&%. The effect will expire after a total of &7003641_counts& casts of skills in a battle.",
-  "pt": ""
+  "pt": "Dano causado &700364_dmg&%. O efeito expirará após um total de &7003641_counts& usos de habilidades em uma batalha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc211001": {
   "ch": "闪避&21011_evadeSumTwo&，移动速度&21011_speedSum&。",
   "en": "Dodge &21011_evadeSumTwo&, Agility &21011_speedSum&.",
-  "pt": ""
+  "pt": "Esquiva &21011_evadeSumTwo&, Agilidade &21011_speedSum&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc211002": {
   "ch": "抗性仅发挥&21011_hpMaxProb&%效果，召唤物伤害&21011_zhshSum&%。",
   "en": "Resistance is &21011_hpMaxProb&% less effective. Summoned Unit Damage &21011_zhshSum&%.",
-  "pt": ""
+  "pt": "Resistência é &21011_hpMaxProb&% menos eficaz. Dano de Unidades Invocadas &21011_zhshSum&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21101": {
   "ch": "火灵根&21101_fire&",
   "en": "Fire Root &21101_fire&",
-  "pt": ""
+  "pt": "Raiz de Fogo &21101_fire&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21102": {
   "ch": "体力消耗的次数达到&21102_hpCostSum&次时（受到伤害不算），可召唤凤凰进入战场，朝地面喷火，产生烈焰",
   "en": "Summon a phoenix to scorch your enemies with Fiery Flames after every &21102_hpCostSum& time of actively consuming Vitality.",
-  "pt": ""
+  "pt": "Invoca uma fênix para queimar seus inimigos com Chamas Ardentes após cada &21102_hpCostSum& vezes de consumo ativo de Vitalidade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc212001": {
   "ch": "闪避仅发挥&21012_evadeProb&%效果，每次获得护盾时，可额外获得&21012_shieldSum&点护盾。",
   "en": "Dodge is &21012_evadeProb&% less effective. Gain additional &21012_shieldSum& Shield HP in generating shields.",
-  "pt": ""
+  "pt": "Esquiva é &21012_evadeProb&% menos eficaz. Ganhe &21012_shieldSum& PV de Escudo adicionais ao gerar escudos.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc212002": {
   "ch": "使用功法技能时，功法技能的冷却&21012_timeCost&%。",
   "en": "Martial Arts cooldown &21012_timeCost&%.",
-  "pt": ""
+  "pt": "Tempo de recarga de Artes Marciais &21012_timeCost&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21201": {
   "ch": "水灵根&21201_water&",
   "en": "Water Root &21201_water&",
-  "pt": ""
+  "pt": "Raiz de Água &21201_water&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21202": {
   "ch": "当受到超过&21202_hurtHpMax&%最大体力的伤害时，改为&21202_hurtMax&%的最大体力伤害，并引发一次全场霜冻，对所有敌人施加霜冻效果，每&21202_cd&秒最多触发一次",
   "en": "Cap your damage taken at &21202_hurtMax&% of your Max Vitality and inflict Frost on all enemies when the imminent damage is over &21202_hurtHpMax&% of your Max Vitality. Cooldown: &21202_cd&s",
-  "pt": ""
+  "pt": "Limita o dano recebido a &21202_hurtMax&% da sua Vitalidade Máx. e inflige Gelo a todos os inimigos quando o dano iminente exceder &21202_hurtHpMax&% da sua Vitalidade Máx. Recarga: &21202_cd&s",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21203": {
   "ch": "幻象持续时间&1201_waterTime%88&秒。幻象消失时，在附近敌人位置引发一次范围&12017_waterRange&、威力&12011_dmg|x50001_blastDmgCoefficient|/10000|f0&的灵爆。",
   "en": "Phantom Duration &1201_waterTime%88&s. Upon its disappearance, the phantom will trigger a Blast of &12017_waterRange& Range at the nearby enemy's location, dealing &12011_dmg|x50001_blastDmgCoefficient|/10000|f0& damage.",
-  "pt": ""
+  "pt": "Duração do Fantasma &1201_waterTime%88&s. Ao desaparecer, o fantasma acionará uma Explosão de Raio &12017_waterRange& na localização do inimigo próximo, causando &12011_dmg|x50001_blastDmgCoefficient|/10000|f0& de dano.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc213001": {
   "ch": "所有灵根&210131_bas&，移动速度&210131_speed&。",
   "en": "All Spiritual Roots &210131_bas&, Agility &210131_speed&.",
-  "pt": ""
+  "pt": "Todas as Raízes Espirituais &210131_bas&, Agilidade &210131_speed&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc213002": {
   "ch": "商店售价与刷新价格&210132_price&%。",
   "en": "Store Price and Refresh Cost &210132_price&%.",
-  "pt": ""
+  "pt": "Preço da Loja e Custo de Atualização &210132_price&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21301": {
   "ch": "雷灵根&21301_lighting&",
   "en": "Lightning Root &21301_lighting&",
-  "pt": ""
+  "pt": "Raiz de Relâmpago &21301_lighting&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21302": {
   "ch": "造成枪法伤害时，有&21302_lightingProb&%概率会额外引发一道雷击，对目标造成雷属性伤害，每秒最多触发&21302_cd&次",
   "en": "&21302_lightingProb&% chance to summon a thunderbolt when inflicting Spear damage, dealing Lightning damage to enemies. Can be triggered &21302_cd& times per second",
-  "pt": ""
+  "pt": "&21302_lightingProb&% de chance de invocar um raio ao causar dano de Lança, causando dano de Relâmpago aos inimigos. Pode ser acionado &21302_cd& vezes por segundo.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc214001": {
   "ch": "每次受到伤害时，会对伤害来源造成最大体力的&210141_dmgLost&%的伤害。",
   "en": "Every time you take damage, you deal damage equaling to &210141_dmgLost&% of your Max Vitality to the enemy that hit you.",
-  "pt": ""
+  "pt": "Toda vez que você recebe dano, causa dano igual a &210141_dmgLost&% da sua Vitalidade Máx. ao inimigo que o atingiu.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc214002": {
   "ch": "最大体力&210142_hpMax&，所有资质仅能发挥&210142_efficiency&%效果。",
   "en": "Max Vitality &210142_hpMax&, all stats are &210142_efficiency&% less effective.",
-  "pt": ""
+  "pt": "Vitalidade Máx. &210142_hpMax&, todos os atributos são &210142_efficiency&% menos eficazes.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21401": {
   "ch": "风灵根&21401_wind&",
   "en": "Wind Root &21401_wind&",
-  "pt": ""
+  "pt": "Raiz de Vento &21401_wind&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21402": {
   "ch": "击退敌人时可对其造成真实伤害，每击退&21402_move&码，伤害&21402_realHurt&",
   "en": "Inflict True Damage on enemies when they are knocked back. Every &21402_move& Distance of knock-back will &21402_realHurt& the effect's damage",
-  "pt": ""
+  "pt": "Causar Dano Verdadeiro aos inimigos quando eles são rebatidos. A cada &21402_move& de distância de recuo, o dano do efeito é &21402_realHurt&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc215001": {
   "ch": "仅能装备2个主动技能，移动速度&215001_speed&。",
   "en": "Cap the amount of equipped active Skills at 2. Agility &215001_speed&.",
-  "pt": ""
+  "pt": "Limitar a quantidade de Habilidades ativas equipadas a 2. Agilidade &215001_speed&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc215002": {
   "ch": "每&215002_intervalTine&秒在场上生成一个蘑菇，拾取后可回复&215002_hpBack&点体力。",
   "en": "Generate a mushroom every &215002_intervalTine&s in the battlefield, restoring &215002_hpBack& Vitality after picking it up.",
-  "pt": ""
+  "pt": "Gerar um cogumelo a cada &215002_intervalTine&s no campo de batalha, restaurando &215002_hpBack& de Vitalidade ao coletá-lo.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21501": {
   "ch": "土灵根&21501_stone&",
   "en": "Earth Root &21501_stone&",
-  "pt": ""
+  "pt": "Raiz de Terra &21501_stone&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21502": {
   "ch": "当场上有&21502_stoneSum&个土傀儡时，可合体为一个巨灵神（攻击范围大，可使敌人减速15%，持续&15021_lifeTime&秒）",
   "en": "Merge &21502_stoneSum& existing Earth Golems into a Spirit Giant with a bonus attack range and a 15% Slowing effect to enemies hit for &15021_lifeTime&s",
-  "pt": ""
+  "pt": "Fundir &21502_stoneSum& Golem de Terra existentes em um Gigante Espiritual com aumento no alcance de ataque e efeito de lentidão de 15% aos inimigos atingidos por &15021_lifeTime&s",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc216001": {
   "ch": "暴击倍率上限为&216001_critVBig&%，修为获得&216001_exp&%。",
   "en": "Crit Rate is capped at &216001_critVBig&%, EXP Gained &216001_exp&%.",
-  "pt": ""
+  "pt": "Multiplicador Crítico limitado a &216001_critVBig&%, EXP obtida &216001_exp&%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc216002": {
   "ch": "对距离超过500码的敌人造成的伤害&216002_dmgDown&%。",
   "en": "Dealing &216002_dmgDown&% damage to enemies that are beyond 500 distance.",
-  "pt": ""
+  "pt": "Causar &216002_dmgDown&% de dano a inimigos além de 500 distância.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21601": {
   "ch": "木灵根&21601_wood&",
   "en": "Wood Root &21601_wood&",
-  "pt": ""
+  "pt": "Raiz de Madeira &21601_wood&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21602": {
   "ch": "当场上存在&21602_unitSum&只召唤物时，可在战场中心召唤出花妖后（穿透攻击，带毒刺，仅生效一次）",
   "en": "Effective only once. When there are &21602_unitSum& summoned units, summon a Flower Faerie Queen with penetrative projectiles and Poisonous Thorn effect at the center of the battlefield.",
-  "pt": ""
+  "pt": "Efetivo apenas uma vez. Quando há &21602_unitSum& unidades invocadas, invocar a Rainha Fada das Flores com projéteis penetrantes e efeito de Espinho Venenoso no centro do campo de batalha.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc217001": {
   "ch": "东方茗雪每间隔&21017_orTime&秒可自动施放&21017_windSum&道风刃。攻击速度仅发挥&21017_xiuzhenglv&%的效果。",
   "en": "Mingxue will automatically cast &21017_windSum& Wind Blades every &21017_orTime&s. Attack Speed is &21017_xiuzhenglv&% less effective.",
-  "pt": ""
+  "pt": "Mingxue lançará automaticamente &21017_windSum& Lâminas de Vento a cada &21017_orTime&s. Velocidade de Ataque é &21017_xiuzhenglv&% menos eficaz.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc217002": {
   "ch": "闪避&21017_evade&，自身及镜像每次触发闪避时，可施放&21017_windSumTwo&道风刃。",
   "en": "Dodge &21017_evade&. Release &21017_windSumTwo& Wind Blades every time you and your Mirror Images made a successful Dodging.",
-  "pt": ""
+  "pt": "Esquiva &21017_evade&. Liberar &21017_windSumTwo& Lâminas de Vento toda vez que você e suas Imagens de Espelho realizarem uma Esquiva bem-sucedida.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  }
 }

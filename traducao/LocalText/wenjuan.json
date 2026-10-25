@@ -2,282 +2,341 @@
  "wenjuan1": {
   "ch": "你最期待器灵的哪方面内容？",
   "en": "What do you expect the most when it comes to Artifact Spirits?",
-  "pt": ""
+  "pt": "O que você mais espera em relação aos Espíritos do Artefato?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan10": {
   "ch": "你希望自己与神秘组织是何种关系？",
   "en": "你希望自己与神秘组织是何种关系？",
-  "pt": ""
+  "pt": "Que tipo de relação você gostaria de ter com a organização misteriosa?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan10_1": {
   "ch": "从属关系（自己可以成为神秘组织的一员，需要服从组织的管理，并为组织效力）",
   "en": "从属关系（自己可以成为神秘组织的一员，需要服从组织的管理，并为组织效力）",
-  "pt": ""
+  "pt": "Relação de subordinação (você pode se tornar membro da organização misteriosa, devendo obedecer à sua administração e trabalhar em seu benefício)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan10_2": {
   "ch": "合作关系（与神秘组织合作完成一些事件，并获得特殊奖励）",
   "en": "合作关系（与神秘组织合作完成一些事件，并获得特殊奖励）",
-  "pt": ""
+  "pt": "Relação de cooperação (colabore com a organização misteriosa para completar certos eventos e obter recompensas especiais)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan10_3": {
   "ch": "敌对关系（神秘组织会因为你违反了其宗旨（如杀人过多等）而追杀你，而你也可以覆灭该神秘组织）",
   "en": "敌对关系（神秘组织会因为你违反了其宗旨（如杀人过多等）而追杀你，而你也可以覆灭该神秘组织）",
-  "pt": ""
+  "pt": "Relação hostil (a organização misteriosa perseguirá você caso viole seus princípios, como matar em excesso, e você também poderá aniquilá-la)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan11": {
   "ch": "以下哪项内容是你认为最肝的？",
   "en": "以下哪项内容是你认为最肝的？",
-  "pt": ""
+  "pt": "Qual dos seguintes itens você acha que é o mais trabalhoso?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan11_1": {
   "ch": "获取突破材料",
   "en": "获取突破材料",
-  "pt": ""
+  "pt": "Obter materiais de avanço",
+  "auto": "local/hy-mt2"
  },
  "wenjuan11_2": {
   "ch": "获取秘籍",
   "en": "获取秘籍",
-  "pt": ""
+  "pt": "Obter Manuais Secretos",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "wenjuan11_3": {
   "ch": "修炼及参悟秘籍",
   "en": "修炼及参悟秘籍",
-  "pt": ""
+  "pt": "Cultivo e compreensão de Manuais",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan11_4": {
   "ch": "升级器灵",
   "en": "升级器灵",
-  "pt": ""
+  "pt": "Aprimorar o Espírito do Artefato",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan11_5": {
   "ch": "提升资质",
   "en": "提升资质",
-  "pt": ""
+  "pt": "Melhorar a aptidão",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan11_6": {
   "ch": "提升道点",
   "en": "提升道点",
-  "pt": ""
+  "pt": "Melhorar os Pontos do Dao",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan11_7": {
   "ch": "解锁器灵天赋",
   "en": "解锁器灵天赋",
-  "pt": ""
+  "pt": "Desbloquear talentos do Espírito do Artefato",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan12": {
   "ch": "你更希望不同区域的宗门之间是何种关系？",
   "en": "你更希望不同区域的宗门之间是何种关系？",
-  "pt": ""
+  "pt": "Você prefere que tipo de relação haja entre as seitas de diferentes regiões?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan12_1": {
   "ch": "各自独立（跟当前的一致）",
   "en": "各自独立（跟当前的一致）",
-  "pt": ""
+  "pt": "Independentes entre si (como atualmente)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan12_2": {
   "ch": "从属关系（前面区域的宗门从属于后面区域的宗门，拥有相似的宗旨，但宗门的名称不同，也都拥有各自的宗主）",
   "en": "从属关系（前面区域的宗门从属于后面区域的宗门，拥有相似的宗旨，但宗门的名称不同，也都拥有各自的宗主）",
-  "pt": ""
+  "pt": "Relação de subordinação (as seitas da região anterior estão subordinadas às seitas da região posterior; possuem propósitos semelhantes, mas nomes diferentes, e cada uma tem seu próprio líder)",
+  "auto": "local/hy-mt2"
  },
  "wenjuan12_3": {
   "ch": "同一宗门（前面区域的宗门与后面区域的宗门是同一个宗门，分为总部与分部，宗主坐镇总部，宗门的分部则由长老等坐镇）",
   "en": "同一宗门（前面区域的宗门与后面区域的宗门是同一个宗门，分为总部与分部，宗主坐镇总部，宗门的分部则由长老等坐镇）",
-  "pt": ""
+  "pt": "A mesma seita (a seita da área da frente e a da área de trás são a mesma seita; ela possui uma sede central e filiais; o mestre da seita fica na sede central, enquanto as filiais são lideradas por anciãos, etc.)",
+  "auto": "local/hy-mt2"
  },
  "wenjuan13": {
   "ch": "你更希望在宗门中的成长是哪种方式？",
   "en": "你更希望在宗门中的成长是哪种方式？",
-  "pt": ""
+  "pt": "Que tipo de crescimento você prefere ter dentro da seita?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan13_1": {
   "ch": "加入大宗门，从外门弟子做起，与宗门内的其他NPC竞争更高的职位，提升实力并利用策略，最终当上宗主之位，统治整个宗门。",
   "en": "加入大宗门，从外门弟子做起，与宗门内的其他NPC竞争更高的职位，提升实力并利用策略，最终当上宗主之位，统治整个宗门。",
-  "pt": ""
+  "pt": "Junte-se a uma grande seita, comece como discípulo externo, compita com outros NPCs da seita por cargos mais elevados, melhore sua força e utilize estratégias para, por fim, tornar-se o mestre da seita e governar toda ela.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan13_2": {
   "ch": "加入破败的小宗门，承担复兴宗门的责任，带领为数不多的几个弟子，在其他大宗门的压力下生存并发展，最终将宗门发扬光大，成为八荒世界的顶级宗门。",
   "en": "加入破败的小宗门，承担复兴宗门的责任，带领为数不多的几个弟子，在其他大宗门的压力下生存并发展，最终将宗门发扬光大，成为八荒世界的顶级宗门。",
-  "pt": ""
+  "pt": "Junte-se a uma pequena seita decadente, assuma a responsabilidade de revitalizá-la, lidere alguns poucos discípulos para sobreviver e se desenvolver sob a pressão de outras seitas maiores e, por fim, faça a seita prosperar, elevando-a ao status de uma das principais seitas do mundo dos Oito Desertos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan14": {
   "ch": "你认为珍贵材料（如突破材料、天材地宝等）应该被强大的宗门所掌控吗？",
   "en": "你认为珍贵材料（如突破材料、天材地宝等）应该被强大的宗门所掌控吗？",
-  "pt": ""
+  "pt": "Você acha que materiais preciosos (como materiais de avanço, tesouros raros, etc.) devem ser controlados por seitas poderosas?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan14_1": {
   "ch": "不应该，应该大家都可以获取。",
   "en": "不应该，应该大家都可以获取。",
-  "pt": ""
+  "pt": "Não deveria ser assim; todo mundo deveria ter acesso.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan14_2": {
   "ch": "不应该，保留在野外获取的方式，但是通过宗门可以更轻松的取得珍贵材料。",
   "en": "不应该，保留在野外获取的方式，但是通过宗门可以更轻松的取得珍贵材料。",
-  "pt": ""
+  "pt": "Não deveria; deve-se manter o método de obtenção na natureza, mas através da seita será mais fácil adquirir materiais preciosos.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan14_3": {
   "ch": "应该，修仙世界强者为尊，每一个强大的宗门手中都应该掌控一些珍贵的资源。",
   "en": "应该，修仙世界强者为尊，每一个强大的宗门手中都应该掌控一些珍贵的资源。",
-  "pt": ""
+  "pt": "Sim. No mundo do cultivo, os fortes são respeitados; cada seita poderosa deve controlar alguns recursos preciosos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan15": {
   "ch": "你认为宗主与长老能参加宗门大比吗？",
   "en": "你认为宗主与长老能参加宗门大比吗？",
-  "pt": ""
+  "pt": "Você acha que o mestre da seita e os anciãos podem participar do Grande Torneio da Seita?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan15_1": {
   "ch": "不应该，宗门大比应该是弟子之间的比试，但宗主与长老有选择本宗参赛弟子的权力。",
   "en": "不应该，宗门大比应该是弟子之间的比试，但宗主与长老有选择本宗参赛弟子的权力。",
-  "pt": ""
+  "pt": "Não deveria ser assim. O torneio da seita deveria ser uma competição entre os discípulos; porém, o mestre da seita e os anciãos têm o poder de escolher quais discípulos da seita participarão.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan15_2": {
   "ch": "应该，宗门大比是证明宗门整体实力的比试，而宗主与长老是宗门内实力的重要组成力量。",
   "en": "应该，宗门大比是证明宗门整体实力的比试，而宗主与长老是宗门内实力的重要组成力量。",
-  "pt": ""
+  "pt": "Sim, o Grande Torneio da Seita é uma competição para demonstrar a força geral da seita, e o Mestre da Seita e os anciãos são componentes importantes da força dentro da seita.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan15_3": {
   "ch": "由宗门自由决定，大家约定俗成都派弟子参加，而派宗主与长老参加的宗门将会被其他宗门鄙视。",
   "en": "由宗门自由决定，大家约定俗成都派弟子参加，而派宗主与长老参加的宗门将会被其他宗门鄙视。",
-  "pt": ""
+  "pt": "Cabe a cada seita decidir livremente; todos concordam que seus discípulos devem participar. Porém, as seitas cujos mestres e anciãos participam serão desprezadas pelas outras seitas.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan16": {
   "ch": "你希望宗门大比是以下哪种比试模式？",
   "en": "你希望宗门大比是以下哪种比试模式？",
-  "pt": ""
+  "pt": "Você prefere qual dos seguintes modos de competição para o Grande Torneio da Seita?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan16_1": {
   "ch": "团体模式，同宗门的所有参赛弟子共同对抗其他宗门的弟子，最终的胜利者是一个宗门。",
   "en": "团体模式，同宗门的所有参赛弟子共同对抗其他宗门的弟子，最终的胜利者是一个宗门。",
-  "pt": ""
+  "pt": "No modo grupal, todos os discípulos de uma mesma seita se unem para enfrentar os discípulos de outras seitas. O vencedor final é uma seita inteira.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan16_2": {
   "ch": "个人模式，以个人能力为主，即使同宗门的弟子间也需要竞争，最终的胜利者只有一个。",
   "en": "个人模式，以个人能力为主，即使同宗门的弟子间也需要竞争，最终的胜利者只有一个。",
-  "pt": ""
+  "pt": "Modo individual, no qual a habilidade pessoal é o fator determinante; mesmo entre discípulos da mesma seita, é necessária a competição, e apenas um vencedor final será coroado.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan16_3": {
   "ch": "团体+个人模式，先通过团体模式决出进入决赛的几个宗门，在决赛则以个人模式为主，最终获胜者分团体胜者与个人胜者。",
   "en": "团体+个人模式，先通过团体模式决出进入决赛的几个宗门，在决赛则以个人模式为主，最终获胜者分团体胜者与个人胜者。",
-  "pt": ""
+  "pt": "Modo grupo + modo individual: primeiro, no modo grupo, são determinadas as várias seitas que avançam para a final; na final, o foco é o modo individual. Por fim, os vencedores são divididos em vencedores por grupo e vencedores individuais.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan17": {
   "ch": "当你是宗主时，在你达到了下一个区域的境界后，你希望自己以及宗门如何继续发展？",
   "en": "当你是宗主时，在你达到了下一个区域的境界后，你希望自己以及宗门如何继续发展？",
-  "pt": ""
+  "pt": "Quando você é o mestre da seita, após alcançar o Reino da próxima região, como gostaria que você e a seita continuassem a se desenvolver?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan17_1": {
   "ch": "自己前往下一个区域，宗门则交给一位继任者，让他们继续经营宗门。",
   "en": "自己前往下一个区域，宗门则交给一位继任者，让他们继续经营宗门。",
-  "pt": ""
+  "pt": "Eu irei para a próxima região, e deixarei a seita nas mãos de um sucessor, para que ele continue a administrá-la.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan17_2": {
   "ch": "自己前往下一个区域，并且在下一个区域建造一个宗门，然后号召原宗门达到境界的弟子过来，继续发展。",
   "en": "自己前往下一个区域，并且在下一个区域建造一个宗门，然后号召原宗门达到境界的弟子过来，继续发展。",
-  "pt": ""
+  "pt": "Eu irei para a próxima região, construirei uma seita lá e então convocarei os discípulos da seita original que atingiram o Reino exigido para continuarem o desenvolvimento.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan17_3": {
   "ch": "自己带领宗门内的人，一同前往下一个区域，并在下一个区域将宗门重新建造出来，继续发展。",
   "en": "自己带领宗门内的人，一同前往下一个区域，并在下一个区域将宗门重新建造出来，继续发展。",
-  "pt": ""
+  "pt": "Eu levarei as pessoas da seita comigo para a próxima região, onde reconstruiremos a seita e continuaremos seu desenvolvimento.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan18": {
   "ch": "你认为永宁州的宗门可以取消吗？",
   "en": "Do you think it's time to close the Sect in Yong Ning?",
-  "pt": ""
+  "pt": "Você acha que já é hora de fechar a Seita em Yong Ning?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan18_1": {
   "ch": "可以，永宁州的宗门改为规模更小的村落，可以在此获得一些原来宗门内可获得的道具，而真正的宗门需要在华封州才能见到。",
   "en": "Yes. The Sect in Yong Ning will be changed into a smaller village, and some items originally obtainable from the Sect are still available here. However, the true Sect building is in Hua Feng.",
-  "pt": ""
+  "pt": "Sim. A Seita em Yong Ning será transformada em uma aldeia menor, e alguns itens que originalmente podiam ser obtidos na Seita ainda estão disponíveis aqui. Contudo, o verdadeiro edifício da Seita fica em Hua Feng.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan18_2": {
   "ch": "不可以，宗门应当是一脉相承的，并且贯穿整个游戏生涯的，前期没有的话会缺失一些代入感。",
   "en": "不可以，宗门应当是一脉相承的，并且贯穿整个游戏生涯的，前期没有的话会缺失一些代入感。",
-  "pt": ""
+  "pt": "Não pode ser. A seita deve ser algo contínuo e que percorra toda a jornada do jogador no jogo; sem ela no início, faltará um pouco de imersão.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan19": {
   "ch": "当你达到某个境界的巅峰时，你能接受被同境界的天骄NPC击败吗？",
   "en": "当你达到某个境界的巅峰时，你能接受被同境界的天骄NPC击败吗？",
-  "pt": ""
+  "pt": "Quando você atinge o auge de um certo Reino, consegue aceitar ser derrotado por um NPC prodígio do mesmo Reino?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan19_1": {
   "ch": "可以接受，天骄就应该是非常强大的存在，这样才有挑战性。",
   "en": "可以接受，天骄就应该是非常强大的存在，这样才有挑战性。",
-  "pt": ""
+  "pt": "É aceitável. Os gênios devem ser seres muito poderosos; só assim há desafio.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan19_2": {
   "ch": "少部分天骄允许，天骄也有强弱之分，偶尔遇到强大的天骄是可以接受的。",
   "en": "少部分天骄允许，天骄也有强弱之分，偶尔遇到强大的天骄是可以接受的。",
-  "pt": ""
+  "pt": "É aceitável encontrar alguns gênios excepcionais; afinal, há gênios mais fortes e mais fracos. De vez em quando, é normal deparar-se com um gênio poderoso.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan19_3": {
   "ch": "不接受，同境界即使是天骄也不能这么强。",
   "en": "不接受，同境界即使是天骄也不能这么强。",
-  "pt": ""
+  "pt": "Inaceitável. Mesmo no mesmo Reino, nem os gênios poderiam ser tão fortes assim.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan1_1": {
   "ch": "好看的立绘",
   "en": "Beautiful portraits",
-  "pt": ""
+  "pt": "Retratos lindos",
+  "auto": "local/hy-mt2"
  },
  "wenjuan1_2": {
   "ch": "强力的技能",
   "en": "Powerful skills",
-  "pt": ""
+  "pt": "Habilidades poderosas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "wenjuan1_3": {
   "ch": "有趣的互动",
   "en": "Fun interactions",
-  "pt": ""
+  "pt": "Interações divertidas",
+  "auto": "local/hy-mt2"
  },
  "wenjuan1_4": {
   "ch": "丰富的背景故事",
   "en": "Intriguing background stories",
-  "pt": ""
+  "pt": "Histórias de fundo intrigantes",
+  "auto": "local/hy-mt2"
  },
  "wenjuan2": {
   "ch": "当仙衣阁开启之后，你会经常更换自己的衣服样式吗？",
   "en": "After the Immortal Wardrobe feature was released, have you been changing your outfits often?",
-  "pt": ""
+  "pt": "Desde o lançamento do recurso Guarda-Roupa Imortal, você tem trocado de roupa com frequência?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan20": {
   "ch": "你认为天骄是天生的还是后天培养的？",
   "en": "Do you think a Heaven-chosen should be inborn or extrinsic?",
-  "pt": ""
+  "pt": "Você acha que um escolhido pelo Céu deve ser inato ou extrínseco?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan20_1": {
   "ch": "天生的，天骄应该是先天注定的，并且普通NPC无法通过后天的培养而成为天骄。",
   "en": "It's inborn. Being a Heaven-chosen is destiny. And normal NPCs should not become Heaven-chosen via cultivation.",
-  "pt": ""
+  "pt": "É algo inato. Ser alguém escolhido pelo Céu é o próprio destino. E os NPCs comuns não deveriam se tornar escolhidos pelo Céu por meio do cultivo.",
+  "auto": "local/hy-mt2"
  },
  "wenjuan20_2": {
   "ch": "需要天生的根基加后天的培养，天生只能决定其根基，但根基再好也需要进行培养，才能成长为一代天骄，否则只能泯为众人。",
   "en": "It takes both. Inborn characters decide one's foundation, but cultivation is the only way to unleash one's potential. Otherwise, even the most talented will be reduced to mediocre.",
-  "pt": ""
+  "pt": "É preciso ambos. As características inatas determinam a base de alguém, mas o cultivo é o único caminho para liberar seu potencial. Caso contrário, até os mais talentosos acabarão medíocres.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan20_3": {
   "ch": "主要靠后天培养，不管先天根基如何，只要肯培养，任何NPC都有可能成为天骄。",
   "en": "Extrinsic. No matter how good or bad one's inborn foundation is, any NPC may become a Heaven-chosen through efforts.",
-  "pt": ""
+  "pt": "Extrínseco. Não importa quão boa ou ruim seja a base inata de uma pessoa; qualquer NPC pode se tornar um escolhido pelo Céu por meio de seus esforços.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan21": {
   "ch": "若普通NPC能通过后天培养成为天骄，你希望在其成长为天骄NPC的过程中，其他人（包括玩家）能起到多大的作用？",
   "en": "If common NPCs may become Heaven-chosen, how impactful the other people (including the player) should be in this process?",
-  "pt": ""
+  "pt": "Se NPCs comuns podem ser escolhidos pelo Céu, qual seria a influência dos outros indivíduos (inclusive o jogador) nesse processo?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan21_1": {
   "ch": "无作用，NPC能否成长为天骄是由其自身的造化决定的，其他人无法对其提供帮助。",
   "en": "None. Whether an NPC becomes a Heaven-chosen or not depends on their own fortune and karma. Others shouldn't be able to help them.",
-  "pt": ""
+  "pt": "Nenhuma. Se um NPC se tornará ou não um escolhido pelo Céu depende da sua própria fortuna e karma. Os outros não deveriam poder ajudá-lo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan21_2": {
   "ch": "较少的作用，NPC要想成为天骄，则需要在一些关键时刻得到他人（包括玩家）的帮助。",
   "en": "Somewhat impactful. If an NPC wants to become a Heaven-chosen, they would need help from others (including the player) at certain crucial moments.",
-  "pt": ""
+  "pt": "Alguma. Se um NPC quiser se tornar um escolhido pelo Céu, ele precisará da ajuda de outros (incluindo o jogador) em determinados momentos cruciais.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan21_3": {
   "ch": "较大的作用，NPC要想成为天骄，需要有他人（包括玩家）持续的帮助（比如提供大量资源等）。",
   "en": "A lot. If an NPC wants to become a Heaven-chosen, they require consistent help from others (including the player; such as providing tons of resources).",
-  "pt": ""
+  "pt": "Muita. Se um NPC quiser se tornar um escolhido pelo Céu, ele precisa da ajuda constante dos outros (incluindo o jogador; como fornecer muitos recursos).",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan22": {
   "ch": "在羽化登仙版本中，你更关注以下哪个内容？",
@@ -582,22 +641,32 @@
  "wenjuan2_1": {
   "ch": "会经常更换",
   "en": "Yes, very often",
-  "pt": ""
+  "pt": "Sim, muito frequentemente",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 20 caracteres"
+  ]
  },
  "wenjuan2_2": {
   "ch": "会偶尔更换",
   "en": "Only occasionally",
-  "pt": ""
+  "pt": "Só ocasionalmente",
+  "auto": "local/hy-mt2"
  },
  "wenjuan2_3": {
   "ch": "不会更换",
   "en": "Not at all",
-  "pt": ""
+  "pt": "De jeito nenhum",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "wenjuan3": {
   "ch": "当你触发一个奇遇事件后，你会最关注这个奇遇的哪一部分内容？",
   "en": "Which aspect do you care about the most every time you trigger an adventure?",
-  "pt": ""
+  "pt": "Qual aspecto você mais valoriza toda vez que inicia uma aventura?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan30": {
   "ch": "您能接受的过月结算时间是多少？",
@@ -707,7 +776,8 @@
  "wenjuan32_10": {
   "ch": "其他",
   "en": "<size=13>Equipped</size>",
-  "pt": ""
+  "pt": "<size=13>Equipado</size>",
+  "auto": "local/hy-mt2"
  },
  "wenjuan32_2": {
   "ch": "角色扮演",
@@ -752,246 +822,298 @@
  "wenjuan3_1": {
   "ch": "剧情故事",
   "en": "Its story",
-  "pt": ""
+  "pt": "Sua história",
+  "auto": "local/hy-mt2"
  },
  "wenjuan3_2": {
   "ch": "奖励道具",
   "en": "Its reward",
-  "pt": ""
+  "pt": "Sua recompensa",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "wenjuan3_3": {
   "ch": "与NPC的互动",
   "en": "Interactions with NPCs",
-  "pt": ""
+  "pt": "Interações com NPCs",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4": {
   "ch": "你最希望哪个体系被强化（最多可选3个）？",
   "en": "Which of the following do you want to be made more powerful? (Choose up to 3 answers)",
-  "pt": ""
+  "pt": "Qual dos seguintes você quer tornar mais poderoso? (Escolha até 3 opções)",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_1": {
   "ch": "刀",
   "en": "Blade",
-  "pt": ""
+  "pt": "Lâmina",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_10": {
   "ch": "风",
   "en": "Wind",
-  "pt": ""
+  "pt": "Vento",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_11": {
   "ch": "土",
   "en": "Earth",
-  "pt": ""
+  "pt": "Terra",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_12": {
   "ch": "木",
   "en": "Wood",
-  "pt": ""
+  "pt": "Madeira",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_2": {
   "ch": "枪",
   "en": "Spear",
-  "pt": ""
+  "pt": "Lança",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_3": {
   "ch": "剑",
   "en": "Sword",
-  "pt": ""
+  "pt": "Espada",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_4": {
   "ch": "拳",
   "en": "Fist",
-  "pt": ""
+  "pt": "Punho",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_5": {
   "ch": "掌",
   "en": "Palm",
-  "pt": ""
+  "pt": "Palma",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_6": {
   "ch": "指",
   "en": "Finger",
-  "pt": ""
+  "pt": "Dedo",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_7": {
   "ch": "火",
   "en": "Fire",
-  "pt": ""
+  "pt": "Fogo",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_8": {
   "ch": "水",
   "en": "Water",
-  "pt": ""
+  "pt": "Água",
+  "auto": "local/hy-mt2"
  },
  "wenjuan4_9": {
   "ch": "雷",
   "en": "Lightning",
-  "pt": ""
+  "pt": "Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "wenjuan5": {
   "ch": "你认为游戏中的哪个难度最适合你？",
   "en": "Which game difficulty suits you the best?",
-  "pt": ""
+  "pt": "Qual dificuldade do jogo combina melhor com você?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan5_1": {
   "ch": "普通",
   "en": "Normal",
-  "pt": ""
+  "pt": "Normal",
+  "auto": "local/hy-mt2"
  },
  "wenjuan5_2": {
   "ch": "困难",
   "en": "Hard",
-  "pt": ""
+  "pt": "Difícil",
+  "auto": "local/hy-mt2"
  },
  "wenjuan5_3": {
   "ch": "极难",
   "en": "Nightmare",
-  "pt": ""
+  "pt": "Pesadelo",
+  "auto": "local/hy-mt2"
  },
  "wenjuan5_4": {
   "ch": "地狱",
   "en": "Hell",
-  "pt": ""
+  "pt": "Inferno",
+  "auto": "local/hy-mt2"
  },
  "wenjuan5_5": {
   "ch": "洪荒",
   "en": "Chaos",
-  "pt": ""
+  "pt": "Caos",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6": {
   "ch": "如果有NPC主动来攻击你，你认为你一人最多可以对付几个NPC？",
   "en": "When NPCs attack you, how many NPCs do you think you can handle by yourself?",
-  "pt": ""
+  "pt": "Quando os NPCs atacam você, quantos NPCs você acha que consegue enfrentar sozinho?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6_1": {
   "ch": "1个",
   "en": "1",
-  "pt": ""
+  "pt": "1",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6_2": {
   "ch": "2个",
   "en": "2",
-  "pt": ""
+  "pt": "2",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6_3": {
   "ch": "3个",
   "en": "3",
-  "pt": ""
+  "pt": "3",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6_4": {
   "ch": "5个",
   "en": "5",
-  "pt": ""
+  "pt": "5",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6_5": {
   "ch": "8个",
   "en": "8",
-  "pt": ""
+  "pt": "8",
+  "auto": "local/hy-mt2"
  },
  "wenjuan6_6": {
   "ch": "10个",
   "en": "10",
-  "pt": ""
+  "pt": "10",
+  "auto": "local/hy-mt2"
  },
  "wenjuan7": {
   "ch": "你最喜欢的器灵是哪个？",
   "en": "你最喜欢的器灵是哪个？",
-  "pt": ""
+  "pt": "Qual é o seu Espírito favorito?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan7_1": {
   "ch": "云梦衣",
   "en": "云梦衣",
-  "pt": ""
+  "pt": "Yun Mengyi",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan7_2": {
   "ch": "沧崖",
   "en": "沧崖",
-  "pt": ""
+  "pt": "Cang Ya",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan7_3": {
   "ch": "酒尘",
   "en": "酒尘",
-  "pt": ""
+  "pt": "Jiu Chen",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan7_4": {
   "ch": "东方沐晴",
   "en": "东方沐晴",
-  "pt": ""
+  "pt": "Dongfang Muqing",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan7_5": {
   "ch": "厉凝霜",
   "en": "厉凝霜",
-  "pt": ""
+  "pt": "Li Ningshuang",
+  "auto": "local/hy-mt2"
  },
  "wenjuan7_6": {
   "ch": "姜菱歌",
   "en": "姜菱歌",
-  "pt": ""
+  "pt": "Jiang Lingge",
+  "auto": "local/hy-mt2"
  },
  "wenjuan8": {
   "ch": "你最希望在宗门中玩到什么内容？",
   "en": "你最希望在宗门中玩到什么内容？",
-  "pt": ""
+  "pt": "O que você mais gostaria de jogar na seita?",
+  "auto": "local/hy-mt2"
  },
  "wenjuan8_1": {
   "ch": "更有代入感的NPC交互行为",
   "en": "更有代入感的NPC交互行为",
-  "pt": ""
+  "pt": "Comportamentos de interação com NPCs mais imersivos",
+  "auto": "local/hy-mt2"
  },
  "wenjuan8_2": {
   "ch": "有特色功能的宗门建筑",
   "en": "有特色功能的宗门建筑",
-  "pt": ""
+  "pt": "Edifícios de seita com funcionalidades especiais",
+  "auto": "local/hy-mt2"
  },
  "wenjuan8_3": {
   "ch": "宗门之间的合作或敌对玩法",
   "en": "宗门之间的合作或敌对玩法",
-  "pt": ""
+  "pt": "Mecânicas de cooperação ou hostilidade entre seitas",
+  "auto": "local/hy-mt2"
  },
  "wenjuan8_4": {
   "ch": "宗门的经营发展玩法",
   "en": "宗门的经营发展玩法",
-  "pt": ""
+  "pt": "Mecânicas de gestão e desenvolvimento da seita",
+  "auto": "local/hy-mt2"
  },
  "wenjuan9": {
   "ch": "你认为宗门应该控制以下哪些资源？（可多选）",
   "en": "你认为宗门应该控制以下哪些资源？（可多选）",
-  "pt": ""
+  "pt": "Na sua opinião, quais dos seguintes recursos a seita deveria controlar? (Várias opções podem ser selecionadas)",
+  "auto": "local/hy-mt2"
  },
  "wenjuan9_1": {
   "ch": "天道突破材料",
   "en": "天道突破材料",
-  "pt": ""
+  "pt": "Materiais de Avanço do Dao Celestial",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan9_2": {
   "ch": "高级天材地宝",
   "en": "高级天材地宝",
-  "pt": ""
+  "pt": "Tesouros do Céu e da Terra de alto nível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan9_3": {
   "ch": "高级秘籍",
   "en": "高级秘籍",
-  "pt": ""
+  "pt": "Manuais avançados",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan9_4": {
   "ch": "高级法宝",
   "en": "高级法宝",
-  "pt": ""
+  "pt": "Artefatos de alto nível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan9_5": {
   "ch": "高级丹药",
   "en": "高级丹药",
-  "pt": ""
+  "pt": "Elixires de alto nível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wenjuan9_6": {
   "ch": "高级坐骑和戒指",
   "en": "高级坐骑和戒指",
-  "pt": ""
+  "pt": "Montarias e anéis avançados",
+  "auto": "local/hy-mt2"
  },
  "wenjuan_tijiaocuow": {
   "ch": "提交错误，请稍后重试！",
   "en": "Failed to submit. Please try again later.",
-  "pt": ""
+  "pt": "Falha no envio. Por favor, tente novamente mais tarde.",
+  "auto": "local/hy-mt2"
  }
 }

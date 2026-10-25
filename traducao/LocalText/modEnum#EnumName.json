@@ -2,2996 +2,3886 @@
  "modEnum10001EnumName1": {
   "ch": "1-先天气运",
   "en": "1-Destiny (Nature)",
-  "pt": ""
+  "pt": "1-Destino (Natureza)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10001EnumName2": {
   "ch": "2-后天气运",
   "en": "2-Destiny (Nurture)",
-  "pt": ""
+  "pt": "2-Destino (Adquirido)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10001EnumName3": {
   "ch": "3-逆天改命气运",
   "en": "3-Rewrite Destiny",
-  "pt": ""
+  "pt": "3-Reescrever o Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10002EnumName1": {
   "ch": "1 <w>白</w>",
   "en": "1 <w>Common</w>",
-  "pt": ""
+  "pt": "1 <w>Comum</w>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10002EnumName2": {
   "ch": "2 <g>绿</g>",
   "en": "2 <g>Uncommon</g>",
-  "pt": ""
+  "pt": "2 <g>Incomum</g>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10002EnumName3": {
   "ch": "3 <b>蓝</b>",
   "en": "3 <b>Rare</b>",
-  "pt": ""
+  "pt": "3 <b>Raro</b>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10002EnumName4": {
   "ch": "4 <p>紫</p>",
   "en": "4 <p>Epic</p>",
-  "pt": ""
+  "pt": "4 <p>Épico</p>",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10002EnumName5": {
   "ch": "5 <o>橙</o>",
   "en": "5 <o>Legendary</o>",
-  "pt": ""
+  "pt": "5 <o>Lendário</o>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10002EnumName6": {
   "ch": "6 <r>红</r>",
   "en": "6 <r>Mythic</r>",
-  "pt": ""
+  "pt": "6 <r>Mítico</r>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10003EnumName0": {
   "ch": "0-同时只能存在一个气运，新增气运时，不叠加时间以最长的时间为准。",
   "en": "0-Only one Destiny can exist at the same time. When there is a new Destiny added, the longest non-stack time is taken.",
-  "pt": ""
+  "pt": "0-Apenas um Destino pode existir por vez. Quando um novo Destino é adicionado, vale a maior duração (sem acúmulo).",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10003EnumName1": {
   "ch": "1-同时只能存在一个气运，新增气运时，叠加时间。",
   "en": "1-Only one Destiny can exist at the same time. When there is a new Destiny added, the duration is stacked.",
-  "pt": ""
+  "pt": "1 - Apenas um Destino pode existir por vez. Quando um novo Destino é adicionado, a duração é acumulada.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10003EnumName2": {
   "ch": "2-若已存在此气运，则不再添加此气运。",
   "en": "2-If Destiny already exists, it is not added.",
-  "pt": ""
+  "pt": "2 - Se o Destino já existir, ele não será adicionado.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10003EnumName3": {
   "ch": "3-同时叠加多个气运。",
   "en": "3-Multiple Destinies are stacked at the same time.",
-  "pt": ""
+  "pt": "3 - Múltiplos Destinos são acumulados ao mesmo tempo.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10004EnumName0": {
   "ch": "0-不隐藏",
   "en": "0-Not hidden",
-  "pt": ""
+  "pt": "0 - Não oculto",
+  "auto": "local/hy-mt2"
  },
  "modEnum10004EnumName1": {
   "ch": "1-隐藏",
   "en": "1-Hidden",
-  "pt": ""
+  "pt": "1-Oculto",
+  "auto": "local/hy-mt2"
  },
  "modEnum10006EnumName1": {
   "ch": "1-修改属性",
   "en": "1-Change Stats",
-  "pt": ""
+  "pt": "1 - Alterar Atributos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "modEnum10006EnumName101": {
   "ch": "101-增加属性",
   "en": "101-Add Stats",
-  "pt": ""
+  "pt": "101-Adicionar Atributos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "modEnum10006EnumName2": {
   "ch": "2-锁定属性",
   "en": "2-Locked Stats",
-  "pt": ""
+  "pt": "2 - Atributos bloqueados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "modEnum10006EnumName3": {
   "ch": "3-特殊功能",
   "en": "3-Special Function",
-  "pt": ""
+  "pt": "3 - Função Especial",
+  "auto": "local/hy-mt2"
  },
  "modEnum10007EnumName0": {
   "ch": "0-百分比",
   "en": "0- Percentage",
-  "pt": ""
+  "pt": "0- Percentual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10007EnumName1": {
   "ch": "1-固定值",
   "en": "1- Fixed Value",
-  "pt": ""
+  "pt": "1- Valor Fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10008EnumName0": {
   "ch": "0-不产出任何物品",
   "en": "0-No item drop",
-  "pt": ""
+  "pt": "0 - Sem queda de item",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "modEnum10008EnumName1": {
   "ch": "1-武技",
   "en": "1-Martial skill",
-  "pt": ""
+  "pt": "1-Técnica Marcial",
+  "auto": "local/hy-mt2"
  },
  "modEnum10008EnumName2": {
   "ch": "2-绝技",
   "en": "2-Special skill",
-  "pt": ""
+  "pt": "2 - Técnica Especial",
+  "auto": "local/hy-mt2"
  },
  "modEnum10008EnumName3": {
   "ch": "3-神通",
   "en": "3-Ultimate skill",
-  "pt": ""
+  "pt": "3-Técnica Suprema",
+  "auto": "local/hy-mt2"
  },
  "modEnum10008EnumName4": {
   "ch": "4-身法",
   "en": "4-Motion skill",
-  "pt": ""
+  "pt": "4 - Técnica de Movimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "modEnum10008EnumName5": {
   "ch": "5-心法",
   "en": "5-Mind skill",
-  "pt": ""
+  "pt": "5 - Técnica Mental",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "modEnum10008EnumName6": {
   "ch": "6-道具",
   "en": "6-Item",
-  "pt": ""
+  "pt": "6-Item",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10008EnumName7": {
   "ch": "7-法宝",
   "en": "7-Artifact",
-  "pt": ""
+  "pt": "7-Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName1": {
   "ch": "1-全部",
   "en": "1-All",
-  "pt": ""
+  "pt": "1-Todos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName101": {
   "ch": "101-刀",
   "en": "101- Blade",
-  "pt": ""
+  "pt": "101- Lâmina",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName102": {
   "ch": "102-枪",
   "en": "102- Spear",
-  "pt": ""
+  "pt": "102- Lança",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName103": {
   "ch": "103-剑",
   "en": "103- Sword",
-  "pt": ""
+  "pt": "103 - Espada",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName104": {
   "ch": "104-拳",
   "en": "104- Fist",
-  "pt": ""
+  "pt": "104 - Punho",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName105": {
   "ch": "105-掌",
   "en": "105- Palm",
-  "pt": ""
+  "pt": "105- Palma",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName106": {
   "ch": "106-指",
   "en": "106- Finger",
-  "pt": ""
+  "pt": "106- Dedo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName111": {
   "ch": "111-火",
   "en": "111-Fire",
-  "pt": ""
+  "pt": "111-Fogo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName112": {
   "ch": "112-水",
   "en": "112- Water",
-  "pt": ""
+  "pt": "112- Água",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName113": {
   "ch": "113-雷",
   "en": "113- Lightning",
-  "pt": ""
+  "pt": "113- Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName114": {
   "ch": "114-风",
   "en": "114- Wind",
-  "pt": ""
+  "pt": "114- Vento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName115": {
   "ch": "115-土",
   "en": "115- Earth",
-  "pt": ""
+  "pt": "115- Terra",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName116": {
   "ch": "116-木",
   "en": "116- Wood",
-  "pt": ""
+  "pt": "116- Madeira",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName2": {
   "ch": "绝技",
   "en": "Special Skill",
-  "pt": ""
+  "pt": "Técnica Especial",
+  "auto": "local/hy-mt2"
  },
  "modEnum10009EnumName3": {
   "ch": "身法",
   "en": "Motion Skill",
-  "pt": ""
+  "pt": "Técnica de Movimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "modEnum10009EnumName4": {
   "ch": "心法",
   "en": "Mind Skill",
-  "pt": ""
+  "pt": "Técnica Mental",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "modEnum10009EnumName5": {
   "ch": "神通",
   "en": "Ultimate Skill",
-  "pt": ""
+  "pt": "Técnica Suprema",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName1": {
   "ch": "1-练气境",
   "en": "1-Qi Refining Realm",
-  "pt": ""
+  "pt": "1- Reino do Refinamento de Qi",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 25 caracteres"
+  ]
  },
  "modEnum10010EnumName10": {
   "ch": "10-登仙境",
   "en": "10-Transcendent Realm",
-  "pt": ""
+  "pt": "10 - Reino da Transcendência",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName100": {
   "ch": "100-玩家当前境界",
   "en": "100-Player’s current Realm",
-  "pt": ""
+  "pt": "100 - Reino atual do jogador",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10010EnumName2": {
   "ch": "2-筑基境",
   "en": "2-Foundation Realm",
-  "pt": ""
+  "pt": "2 - Reino da Fundação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName3": {
   "ch": "3-结晶境",
   "en": "3-Qi Condensation Realm",
-  "pt": ""
+  "pt": "3 - Reino da Condensação de Qi",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName4": {
   "ch": "4-金丹境",
   "en": "4-Golden Core Realm",
-  "pt": ""
+  "pt": "4 - Reino do Núcleo Dourado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "modEnum10010EnumName5": {
   "ch": "5-具灵境",
   "en": "5-Origin Spirit Realm",
-  "pt": ""
+  "pt": "5 - Reino do Espírito de Origem",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName6": {
   "ch": "6-元婴境",
   "en": "6-Nascent Soul Realm",
-  "pt": ""
+  "pt": "6 - Reino da Alma Nascente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName7": {
   "ch": "7-化神境",
   "en": "7-Soul Formation Realm",
-  "pt": ""
+  "pt": "7 - Reino da Formação da Alma",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName8": {
   "ch": "8-悟道境",
   "en": "8-Enlightenment Realm",
-  "pt": ""
+  "pt": "8 - Reino da Iluminação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10010EnumName9": {
   "ch": "9-羽化境",
   "en": "9-Reborn Realm",
-  "pt": ""
+  "pt": "9-Reino do Renascimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "modEnum10011EnumName1": {
   "ch": "劲",
   "en": "Move",
-  "pt": ""
+  "pt": "Mover",
+  "auto": "local/hy-mt2"
  },
  "modEnum10011EnumName2": {
   "ch": "经",
   "en": "Sutra",
-  "pt": ""
+  "pt": "Sutra",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10011EnumName3": {
   "ch": "式",
   "en": "Technique",
-  "pt": ""
+  "pt": "Técnica",
+  "auto": "local/hy-mt2"
  },
  "modEnum10011EnumName4": {
   "ch": "诀",
   "en": "Guide",
-  "pt": ""
+  "pt": "Guia",
+  "auto": "local/hy-mt2"
  },
  "modEnum10011EnumName5": {
   "ch": "录",
   "en": "Compendium",
-  "pt": ""
+  "pt": "Compêndio",
+  "auto": "local/hy-mt2"
  },
  "modEnum10011EnumName6": {
   "ch": "秘卷",
   "en": "Secret Manual",
-  "pt": ""
+  "pt": "Manual Secreto",
+  "auto": "local/hy-mt2"
  },
  "modEnum10011EnumName7": {
   "ch": "神功",
   "en": "Divine Power",
-  "pt": ""
+  "pt": "Poder Divino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10011EnumName8": {
   "ch": "大法",
   "en": "Mastery",
-  "pt": ""
+  "pt": "Domínio",
+  "auto": "local/hy-mt2"
  },
  "modEnum10012EnumName0": {
   "ch": "0 随机颜色",
   "en": "0 Random Color",
-  "pt": ""
+  "pt": "0 Cor Aleatória",
+  "auto": "local/hy-mt2"
  },
  "modEnum10012EnumName1": {
   "ch": "1 <w>白</w>",
   "en": "1 <w>Common</w>",
-  "pt": ""
+  "pt": "1 <w>Comum</w>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10012EnumName2": {
   "ch": "2 <g>绿</g>",
   "en": "2 <g>Uncommon</g>",
-  "pt": ""
+  "pt": "2 <g>Incomum</g>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10012EnumName3": {
   "ch": "3 <b>蓝</b>",
   "en": "3 <b>Rare</b>",
-  "pt": ""
+  "pt": "3 <b>Raro</b>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10012EnumName4": {
   "ch": "4 <p>紫</p>",
   "en": "4 <p>Epic</p>",
-  "pt": ""
+  "pt": "4 <p>Épico</p>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10012EnumName5": {
   "ch": "5 <o>橙</o>",
   "en": "5 <o>Legendary</o>",
-  "pt": ""
+  "pt": "5 <o>Lendário</o>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10012EnumName6": {
   "ch": "6 <r>红</r>",
   "en": "6 <r>Mythic</r>",
-  "pt": ""
+  "pt": "6 <r>Mítico</r>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10013EnumName0": {
   "ch": "0-随机",
   "en": "0-Random",
-  "pt": ""
+  "pt": "0-Aleatório",
+  "auto": "local/hy-mt2"
  },
  "modEnum10013EnumName1": {
   "ch": "1-固定男",
   "en": "1-Fixed Male",
-  "pt": ""
+  "pt": "1-Masculino fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10013EnumName2": {
   "ch": "2-固定女",
   "en": "2-Fixed Female",
-  "pt": ""
+  "pt": "2 - Feminino fixo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10013EnumName3": {
   "ch": "3-与玩家相同",
   "en": "3-Same as the player",
-  "pt": ""
+  "pt": "3 - Igual ao jogador",
+  "auto": "local/hy-mt2"
  },
  "modEnum10013EnumName4": {
   "ch": "4-与玩家不同",
   "en": "4-Different from the player",
-  "pt": ""
+  "pt": "4 - Diferente do jogador",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName0": {
   "ch": "0-无关系",
   "en": "0- No Relationship",
-  "pt": ""
+  "pt": "0 - Sem relacionamento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName1": {
   "ch": "1-父母",
   "en": "1-Parents",
-  "pt": ""
+  "pt": "1-Pais",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName10": {
   "ch": "10-师父",
   "en": "10-Master",
-  "pt": ""
+  "pt": "10-Mestre",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName100": {
   "ch": "100-好友",
   "en": "100-Friend",
-  "pt": ""
+  "pt": "100-Amigo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName101": {
   "ch": "101-仇人",
   "en": "101-Enemy",
-  "pt": ""
+  "pt": "101-Inimigo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName11": {
   "ch": "11-徒弟",
   "en": "11-Apprentice",
-  "pt": ""
+  "pt": "11-Aprendiz",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName2": {
   "ch": "2-子女",
   "en": "2-Child",
-  "pt": ""
+  "pt": "2-Filho",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10014EnumName5": {
   "ch": "5-义父母",
   "en": "5-Adoptive Parent",
-  "pt": ""
+  "pt": "5-Pais Adotivos",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10014EnumName6": {
   "ch": "6-义子女",
   "en": "6-Adoptive Child",
-  "pt": ""
+  "pt": "6- Filho adotivo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName7": {
   "ch": "7-义兄弟",
   "en": "7-Sworn Older Brother",
-  "pt": ""
+  "pt": "7 - Irmão mais velho juramentado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10014EnumName8": {
   "ch": "8-夫妻",
   "en": "8-Spouse",
-  "pt": ""
+  "pt": "8-Cônjuge",
+  "auto": "local/hy-mt2"
  },
  "modEnum10014EnumName9": {
   "ch": "9-情侣",
   "en": "9-Couple",
-  "pt": ""
+  "pt": "9-Casal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10015EnumName1": {
   "ch": "1-添加气运时",
   "en": "1-When adding Destiny",
-  "pt": ""
+  "pt": "1 - Ao adicionar o Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10015EnumName2": {
   "ch": "2-移除气运时",
   "en": "2-When removing Destiny",
-  "pt": ""
+  "pt": "2 - Ao remover o Destino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10015EnumName3": {
   "ch": "3-气运持续时间达到时",
   "en": "3-When the Destiny duration is reached",
-  "pt": ""
+  "pt": "3 - Quando o período do Destino chega ao fim",
+  "auto": "local/hy-mt2"
  },
  "modEnum10015EnumName4": {
   "ch": "4-每个月",
   "en": "4-Every month",
-  "pt": ""
+  "pt": "4- Todo mês",
+  "auto": "local/hy-mt2"
  },
  "modEnum10016EnumName0": {
   "ch": "0-百分比",
   "en": "0- Percentage",
-  "pt": ""
+  "pt": "0- Porcentagem",
+  "auto": "local/hy-mt2"
  },
  "modEnum10016EnumName1": {
   "ch": "1-固定数值",
   "en": "1-Fixed Number",
-  "pt": ""
+  "pt": "1-Número Fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10017EnumName0": {
   "ch": "0-最大百分比",
   "en": "0-Greatest Percentage",
-  "pt": ""
+  "pt": "0 - Maior Porcentagem",
+  "auto": "local/hy-mt2"
  },
  "modEnum10017EnumName1": {
   "ch": "1-固定数值",
   "en": "1-Fixed Number",
-  "pt": ""
+  "pt": "1-Número Fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10017EnumName2": {
   "ch": "2-当前百分比",
   "en": "2-Current Percentage",
-  "pt": ""
+  "pt": "2- Porcentagem atual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10018EnumName1": {
   "ch": "1-亲密度提升速度",
   "en": "1-Affinity increase speed",
-  "pt": ""
+  "pt": "1 - Velocidade de aumento da Afinidade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10018EnumName2": {
   "ch": "2-亲密度下降速度",
   "en": "2-Affinity decrease speed",
-  "pt": ""
+  "pt": "2 - Velocidade de diminuição da Afinidade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10018EnumName3": {
   "ch": "3-仇恨度提升速度",
   "en": "3-Hatred increase speed",
-  "pt": ""
+  "pt": "3 - Velocidade de aumento do Ódio",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10018EnumName4": {
   "ch": "4-仇恨度下降速度",
   "en": "4-Hatred decrease speed",
-  "pt": ""
+  "pt": "4 - Velocidade de diminuição do Ódio",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10019EnumName1": {
   "ch": "1-查看背包",
   "en": "1-Inspect Bag",
-  "pt": ""
+  "pt": "1 - Inspecionar a bolsa",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "modEnum10019EnumName10": {
   "ch": "10-主动进入大地图副本",
   "en": "10-Initiate entry into World Map Dungeon",
-  "pt": ""
+  "pt": "10 - Iniciar a entrada na Masmorra do Mapa do Mundo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019EnumName11": {
   "ch": "11-大地图修炼及宗门修炼",
   "en": "11-World Map Cultivation and Sect Cultivation",
-  "pt": ""
+  "pt": "11 - Cultivo no Mapa do Mundo e Cultivo em Seitas",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019EnumName12": {
   "ch": "12-交谈",
   "en": "12-Talk",
-  "pt": ""
+  "pt": "12 - Conversa",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "modEnum10019EnumName2": {
   "ch": "2-偷盗",
   "en": "2-Steal",
-  "pt": ""
+  "pt": "2 - Roubar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019EnumName3": {
   "ch": "3-逃跑",
   "en": "3-Escape",
-  "pt": ""
+  "pt": "3 - Fuga",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019EnumName4": {
   "ch": "4-攻击他人",
   "en": "4-Attack Others",
-  "pt": ""
+  "pt": "4 - Atacar Outros",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019EnumName5": {
   "ch": "5-索取",
   "en": "5-Request",
-  "pt": ""
+  "pt": "5-Solicitação",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "modEnum10019EnumName6": {
   "ch": "6-切磋",
   "en": "6-Spar",
-  "pt": ""
+  "pt": "6-Treino",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10019EnumName7": {
   "ch": "7-押镖",
   "en": "7-Escort",
-  "pt": ""
+  "pt": "7-Escolta",
+  "auto": "local/hy-mt2"
  },
  "modEnum10019EnumName8": {
   "ch": "8-赠送道具",
   "en": "8-Gift Item",
-  "pt": ""
+  "pt": "8 - Presentear Item",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "modEnum10019EnumName9": {
   "ch": "9-双修",
   "en": "9-Dual Cultivation",
-  "pt": ""
+  "pt": "9 - Cultivo Dual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10020EnumName1": {
   "ch": "1-丹药",
   "en": "1-Elixir",
-  "pt": ""
+  "pt": "1-Elixir",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10020EnumName2": {
   "ch": "2-坐骑",
   "en": "2-Mount",
-  "pt": ""
+  "pt": "2-Montaria",
+  "auto": "local/hy-mt2"
  },
  "modEnum10021EnumName0": {
   "ch": "0-无条件",
   "en": "0-No Requirements",
-  "pt": ""
+  "pt": "0 - Sem requisitos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10021EnumName1": {
   "ch": "1-低于或等于自身（算上小境界）",
   "en": "1-Lower or equal to self (Counting small Realms)",
-  "pt": ""
+  "pt": "1 - Menor ou igual a si mesmo (contando os Reinos menores)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10022EnumName0": {
   "ch": "0-无条件",
   "en": "0-No Requirements",
-  "pt": ""
+  "pt": "0 - Sem requisitos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10023EnumName1": {
   "ch": "1-前期",
   "en": "1-Early",
-  "pt": ""
+  "pt": "1 - Inicial",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "modEnum10023EnumName2": {
   "ch": "2-中期",
   "en": "2-Middle",
-  "pt": ""
+  "pt": "2 - Médio",
+  "auto": "local/hy-mt2"
  },
  "modEnum10023EnumName3": {
   "ch": "3-后期",
   "en": "3-Late",
-  "pt": ""
+  "pt": "3 - Final",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10024EnumName0": {
   "ch": "0-战斗击败即可",
   "en": "0-Can be defeated in battle",
-  "pt": ""
+  "pt": "0 - Pode ser derrotado em uma batalha",
+  "auto": "local/hy-mt2"
  },
  "modEnum10024EnumName1": {
   "ch": "1-战斗后需要杀死",
   "en": "1-Must be killed after battle",
-  "pt": ""
+  "pt": "1 - Deve ser morto após a batalha",
+  "auto": "local/hy-mt2"
  },
  "modEnum10025EnumName0": {
   "ch": "0-天数消耗",
   "en": "0-Day Cost",
-  "pt": ""
+  "pt": "0-Custo de Dias",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "modEnum10025EnumName1": {
   "ch": "1-灵石消耗",
   "en": "1-Spirit Stone Cost",
-  "pt": ""
+  "pt": "1 - Custo da Pedra Espiritual",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 25 caracteres"
+  ]
  },
  "modEnum10025EnumName2": {
   "ch": "2-心情消耗",
   "en": "2-Mood Cost",
-  "pt": ""
+  "pt": "2-Custo do Humor",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "modEnum10027EnumName6": {
   "ch": "6-体力消耗",
   "en": "6-Vitality Cost",
-  "pt": ""
+  "pt": "6 - Custo da Vitalidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "modEnum10027EnumName7": {
   "ch": "7-灵力消耗",
   "en": "7-Energy Cost",
-  "pt": ""
+  "pt": "7 - Custo de Energia",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "modEnum10027EnumName8": {
   "ch": "8-念力消耗",
   "en": "8-Focus Cost",
-  "pt": ""
+  "pt": "8 - Custo de Foco",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "modEnum10028EnumName0": {
   "ch": "0-加减固定值",
   "en": "0-Increase or Decrease Fixed Value",
-  "pt": ""
+  "pt": "0-Aumentar ou diminuir valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10028EnumName1": {
   "ch": "1-加减万分比",
   "en": "1-Increase or Decrease Percentage",
-  "pt": ""
+  "pt": "1 - Percentual de Aumento ou Diminuição",
+  "auto": "local/hy-mt2"
  },
  "modEnum10028EnumName2": {
   "ch": "2-等于固定值",
   "en": "2-Equal to Fixed Value",
-  "pt": ""
+  "pt": "2 - Igual ao valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10029EnumName1": {
   "ch": "1-在大地图移动一格",
   "en": "1-Move one space in the World Map",
-  "pt": ""
+  "pt": "1 - Mover um espaço no Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName10": {
   "ch": "10-玩家在大地图采矿",
   "en": "10-Player mines in the World Map",
-  "pt": ""
+  "pt": "10 - O jogador minera no Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName11": {
   "ch": "11-玩家在大地图堪舆",
   "en": "11-Player does geomancy in the World Map",
-  "pt": ""
+  "pt": "11 - O jogador pratica geomancia no Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName12": {
   "ch": "12-玩家突破了大境界",
   "en": "12-Player breaks through the Realm",
-  "pt": ""
+  "pt": "12 - O jogador realiza um Avanço de Reino",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName13": {
   "ch": "13-玩家在副本中战斗结束，打开结算UI前",
   "en": "13-Player finished the battle in the Dungeon, before opening the Results UI",
-  "pt": ""
+  "pt": "13 - O jogador terminou a batalha na masmorra, antes de abrir a interface de resultados",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName2": {
   "ch": "2-进入大地图（战斗中返回大地图也算）",
   "en": "2- Enter the World Map (Returning to the World Map in the middle of battle also counts)",
-  "pt": ""
+  "pt": "2- Acesse o Mapa do Mundo (Retornar ao Mapa do Mundo no meio de uma batalha também conta)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10029EnumName3": {
   "ch": "3-每个月运转结束",
   "en": "3-Monthly running end",
-  "pt": ""
+  "pt": "3 - Fim da execução mensal",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName4": {
   "ch": "4-打开了酒馆UI",
   "en": "4-Opened Tavern UI",
-  "pt": ""
+  "pt": "4 - Interface da Taverna aberta",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 24 caracteres"
+  ]
  },
  "modEnum10029EnumName5": {
   "ch": "5-打开了城镇UI",
   "en": "5-Opened Town UI",
-  "pt": ""
+  "pt": "5 - Interface da Vila aberta",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 28 > 21 caracteres"
+  ]
  },
  "modEnum10029EnumName6": {
   "ch": "6-打开了宗门UI",
   "en": "6-Opened Sect UI",
-  "pt": ""
+  "pt": "6 - Interface da Seita aberta",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 29 > 21 caracteres"
+  ]
  },
  "modEnum10029EnumName7": {
   "ch": "7-玩家在副本中战斗死亡",
   "en": "7-Player died in battle in the Dungeon",
-  "pt": ""
+  "pt": "7 - O jogador morreu em uma batalha na masmorra.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10029EnumName8": {
   "ch": "8-玩家在副本中逃跑，回到了大地图",
   "en": "8-Player escaped from the Dungeon and returned to the World Map",
-  "pt": ""
+  "pt": "8 - O jogador fugiu da masmorra e voltou ao Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10029EnumName9": {
   "ch": "9-玩家在大地图修炼",
   "en": "9-Player cultivates in the World Map",
-  "pt": ""
+  "pt": "9 - O jogador cultiva no Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10030EnumName0": {
   "ch": "0-不可重复触发",
   "en": "0-Cannot be triggered repeatedly",
-  "pt": ""
+  "pt": "0 - Não pode ser acionado repetidamente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10030EnumName1": {
   "ch": "1-可以重复触发",
   "en": "1-Can be triggered repeatedly",
-  "pt": ""
+  "pt": "1-Pode ser acionado repetidamente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10031EnumName0": {
   "ch": "已领取任务，但是未完成",
   "en": "Mission accepted but not completed",
-  "pt": ""
+  "pt": "Missão aceita, mas não concluída",
+  "auto": "local/hy-mt2"
  },
  "modEnum10031EnumName10": {
   "ch": "曾经接取过任务",
   "en": "Mission was accepted in the past",
-  "pt": ""
+  "pt": "A Missão foi aceita no passado.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10031EnumName11": {
   "ch": "曾经完成过任务",
   "en": "Mission was completed in the past",
-  "pt": ""
+  "pt": "A Missão foi concluída no passado.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10031EnumName12": {
   "ch": "领取过任务，未完成并且任务过期了",
   "en": "Mission claimed, not completed, or mission expired",
-  "pt": ""
+  "pt": "Missão reivindicada, não concluída ou com prazo expirado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10032EnumName0": {
   "ch": "0 无条件",
   "en": "0 = No conditions",
-  "pt": ""
+  "pt": "0 = Sem condições",
+  "auto": "local/hy-mt2"
  },
  "modEnum10033EnumName0": {
   "ch": "0-小于等于",
   "en": "0- ≤",
-  "pt": ""
+  "pt": "0- ≤",
+  "auto": "local/hy-mt2"
  },
  "modEnum10033EnumName1": {
   "ch": "1-等于",
   "en": "1- =",
-  "pt": ""
+  "pt": "1- =",
+  "auto": "local/hy-mt2"
  },
  "modEnum10033EnumName2": {
   "ch": "2-大于等于",
   "en": "2- ≥",
-  "pt": ""
+  "pt": "2- ≥",
+  "auto": "local/hy-mt2"
  },
  "modEnum10034EnumName1": {
   "ch": "1-体灵念（体/100，灵/20，念/10）",
   "en": "1- Vitality, energy, focus (vitality/100, energy/20, focus/10)",
-  "pt": ""
+  "pt": "1- Vitalidade, energia, foco (Vitalidade/100, Energia/20, Foco/10)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10034EnumName2": {
   "ch": "2-所有武器资质",
   "en": "2- All weapon stats",
-  "pt": ""
+  "pt": "2- Todos os atributos das armas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 25 caracteres"
+  ]
  },
  "modEnum10034EnumName3": {
   "ch": "3-所有灵根资质",
   "en": "3- All spiritual root stats",
-  "pt": ""
+  "pt": "3- Todos os atributos da raiz espiritual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10034EnumName4": {
   "ch": "4-所有武器资质与灵根资质",
   "en": "4- All weapon & spiritual root stats",
-  "pt": ""
+  "pt": "4- Todos os atributos das armas e da raiz espiritual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10035EnumName1": {
   "ch": "1-正道",
   "en": "1- Righteous",
-  "pt": ""
+  "pt": "1- Justo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10035EnumName2": {
   "ch": "2-魔道",
   "en": "2- Demonic",
-  "pt": ""
+  "pt": "2- Demoníaco",
+  "auto": "local/hy-mt2"
  },
  "modEnum10036EnumName0": {
   "ch": "0-无宗门",
   "en": "0- Not in a sect",
-  "pt": ""
+  "pt": "0 - Não pertence a nenhuma seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 21 caracteres"
+  ]
  },
  "modEnum10036EnumName1": {
   "ch": "1-有宗门",
   "en": "1- In a sect",
-  "pt": ""
+  "pt": "1- Em uma seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10037EnumName1": {
   "ch": "1-宗主",
   "en": "1- Sect Leader",
-  "pt": ""
+  "pt": "1- Líder da Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10037EnumName2": {
   "ch": "2-大长老",
   "en": "2- Grand Elder",
-  "pt": ""
+  "pt": "2- Grão-Ancião",
+  "auto": "local/hy-mt2"
  },
  "modEnum10037EnumName3": {
   "ch": "3-长老",
   "en": "3- Elder",
-  "pt": ""
+  "pt": "3- Ancião",
+  "auto": "local/hy-mt2"
  },
  "modEnum10037EnumName4": {
   "ch": "4-真传弟子",
   "en": "4- True Disciple",
-  "pt": ""
+  "pt": "4- Verdadeiro Discípulo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "modEnum10037EnumName5": {
   "ch": "5-内门弟子",
   "en": "5- Disciple",
-  "pt": ""
+  "pt": "5- Discípulo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10037EnumName6": {
   "ch": "6-外门弟子",
   "en": "6- Initiate",
-  "pt": ""
+  "pt": "6- Iniciante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10038EnumName1": {
   "ch": "1-灵气",
   "en": "1- Qi",
-  "pt": ""
+  "pt": "1- Qi",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10038EnumName2": {
   "ch": "2-风水",
   "en": "2- Feng Shui",
-  "pt": ""
+  "pt": "2- Feng Shui",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10038EnumName3": {
   "ch": "3-药材",
   "en": "3- Herb",
-  "pt": ""
+  "pt": "3- Erva",
+  "auto": "local/hy-mt2"
  },
  "modEnum10038EnumName4": {
   "ch": "4-金石",
   "en": "4- Ore",
-  "pt": ""
+  "pt": "4- Minério",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "modEnum10039EnumName0": {
   "ch": "0-不指定",
   "en": "0- Not specified",
-  "pt": ""
+  "pt": "0 - Não especificado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10039EnumName1": {
   "ch": "1-武器",
   "en": "1- Weapon",
-  "pt": ""
+  "pt": "1- Arma",
+  "auto": "local/hy-mt2"
  },
  "modEnum10039EnumName2": {
   "ch": "2-属性",
   "en": "2- Element",
-  "pt": ""
+  "pt": "2- Elemento",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName10": {
   "ch": "10-朋友",
   "en": "10-Friend",
-  "pt": ""
+  "pt": "10-Amigo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName11": {
   "ch": "11-仇人",
   "en": "11-Enemy",
-  "pt": ""
+  "pt": "11-Inimigo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName12": {
   "ch": "12-同宗门",
   "en": "12-Same Sect",
-  "pt": ""
+  "pt": "12 - Mesma Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName13": {
   "ch": "13-同立场",
   "en": "13-Same Faction",
-  "pt": ""
+  "pt": "13 - Mesma Facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName3": {
   "ch": "3-父母",
   "en": "3-Parent",
-  "pt": ""
+  "pt": "3-Pai ou mãe",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "modEnum1003EnumName4": {
   "ch": "4-子女",
   "en": "4-Child",
-  "pt": ""
+  "pt": "4-Filho",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum1003EnumName5": {
   "ch": "5-夫妻",
   "en": "5-Spouse",
-  "pt": ""
+  "pt": "5- Cônjuge",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName6": {
   "ch": "6-情侣",
   "en": "6-Couple",
-  "pt": ""
+  "pt": "6-Casal",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName7": {
   "ch": "7-兄弟",
   "en": "7-Sworn brother",
-  "pt": ""
+  "pt": "7 - Irmão de juramento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "modEnum1003EnumName8": {
   "ch": "8-师父",
   "en": "8-Master",
-  "pt": ""
+  "pt": "8-Mestre",
+  "auto": "local/hy-mt2"
  },
  "modEnum1003EnumName9": {
   "ch": "9-徒弟",
   "en": "9-Apprentice",
-  "pt": ""
+  "pt": "9 - Aprendiz",
+  "auto": "local/hy-mt2"
  },
  "modEnum10040EnumName0": {
   "ch": "0-无条件",
   "en": "0- No conditions",
-  "pt": ""
+  "pt": "0- Sem condições",
+  "auto": "local/hy-mt2"
  },
  "modEnum10040EnumName1": {
   "ch": "1-胜利",
   "en": "1- Win",
-  "pt": ""
+  "pt": "1- Vitória",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "modEnum10040EnumName2": {
   "ch": "2-失败",
   "en": "2- Loss",
-  "pt": ""
+  "pt": "2- Perda",
+  "auto": "local/hy-mt2"
  },
  "modEnum10041EnumName0": {
   "ch": "0-全部资质",
   "en": "0- All stats",
-  "pt": ""
+  "pt": "0 - Todos os atributos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "modEnum10041EnumName1": {
   "ch": "1-功法资质",
   "en": "1- Martial arts stats",
-  "pt": ""
+  "pt": "1- Atributos das Artes Marciais",
+  "auto": "local/hy-mt2"
  },
  "modEnum10041EnumName12": {
   "ch": "12-功法+灵根资质",
   "en": "12-Martial arts + Spiritual root stats",
-  "pt": ""
+  "pt": "12 - Atributos de Artes Marciais + Raiz Espiritual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10041EnumName2": {
   "ch": "2-灵根资质",
   "en": "2- Spiritual root stats",
-  "pt": ""
+  "pt": "2- Atributos da Raiz Espiritual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10041EnumName3": {
   "ch": "3-技艺资质",
   "en": "3- Artisanship stats",
-  "pt": ""
+  "pt": "3- Atributos de Artesanato",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10042EnumName1": {
   "ch": "1-相同",
   "en": "1- Same",
-  "pt": ""
+  "pt": "1- Igual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10042EnumName2": {
   "ch": "2-敌对",
   "en": "2- Hostile",
-  "pt": ""
+  "pt": "2- Hostil",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043EnumName1": {
   "ch": "1-相同宗门",
   "en": "1- Same sect",
-  "pt": ""
+  "pt": "1- Mesma seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043EnumName2": {
   "ch": "2-不同的宗门但宗门立场相同",
   "en": "2- Different sect, same faction",
-  "pt": ""
+  "pt": "2- Seita diferente, mesma facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043EnumName3": {
   "ch": "3-不同的宗门且宗门立场不同",
   "en": "3- Different sect, different faction",
-  "pt": ""
+  "pt": "3- Seita diferente, facção diferente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043EnumName4": {
   "ch": "4-敌对立场",
   "en": "4- Hostile faction",
-  "pt": ""
+  "pt": "4- Facção hostil",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043EnumName5": {
   "ch": "5-不同宗门，不判定宗门立场",
   "en": "5- Different sect, no faction determiner",
-  "pt": ""
+  "pt": "5- Seita diferente; nenhum determinador de facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10043EnumName6": {
   "ch": "6-其他",
   "en": "6- Others",
-  "pt": ""
+  "pt": "6- Outros",
+  "auto": "local/hy-mt2"
  },
  "modEnum10044EnumName0": {
   "ch": "0-无亲族关系",
   "en": "0- No familial relationship",
-  "pt": ""
+  "pt": "0 - Sem relação familiar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10044EnumName1": {
   "ch": "1-有亲族关系",
   "en": "1- With familial relationship",
-  "pt": ""
+  "pt": "1- Com relação familiar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10045EnumName0": {
   "ch": "0-不反转（既玩家对NPC-A）",
   "en": "0- Not reversed (Player to NPC-A)",
-  "pt": ""
+  "pt": "0 - Não invertido (Jogador para NPC-A)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10045EnumName1": {
   "ch": "1-反转（既NPC-A对玩家）",
   "en": "1- Reversed (NPC-A to Player)",
-  "pt": ""
+  "pt": "1- Invertido (NPC-A para Jogador)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName0": {
   "ch": "0-无任何关系",
   "en": "0- No Relationship",
-  "pt": ""
+  "pt": "0 - Sem Relacionamento",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName1": {
   "ch": "1-父母",
   "en": "1- Parent",
-  "pt": ""
+  "pt": "1- Pais",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10046EnumName10": {
   "ch": "10-师父",
   "en": "10-Master",
-  "pt": ""
+  "pt": "10-Mestre",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName101": {
   "ch": "101-任何良性关系（亲族+好友）",
   "en": "101-Any friendly relationship (familial + friend)",
-  "pt": ""
+  "pt": "101 - Qualquer relação de amizade (familiar ou com amigos)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName102": {
   "ch": "102-宗门",
   "en": "102-Sect",
-  "pt": ""
+  "pt": "102-Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName103": {
   "ch": "103-好友",
   "en": "103-Friend",
-  "pt": ""
+  "pt": "103-Amigo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName104": {
   "ch": "104-仇人",
   "en": "104-Enemy",
-  "pt": ""
+  "pt": "104-Inimigo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName105": {
   "ch": "105-我的长辈（父母、义父母、师父）",
   "en": "105-Parent, adoptive parent, master",
-  "pt": ""
+  "pt": "105- Pai, pai adotivo, mestre",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName106": {
   "ch": "106-我的平辈（好友、兄弟、义兄弟、道侣、夫妻）",
   "en": "106-Friend, brother, sworn older brother, partner, spouse",
-  "pt": ""
+  "pt": "106-Amigo, irmão, irmão mais velho juramentado, parceiro, cônjuge",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10046EnumName107": {
   "ch": "107-我的后辈（子女，徒弟）",
   "en": "107-Child, apprentice",
-  "pt": ""
+  "pt": "107-Filho, aprendiz",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10046EnumName108": {
   "ch": "108-无亲族关系",
   "en": "108-No familial relationship",
-  "pt": ""
+  "pt": "108-Sem relação familiar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName109": {
   "ch": "109-同正魔立场",
   "en": "109-Same faction",
-  "pt": ""
+  "pt": "109 - Mesma facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName11": {
   "ch": "11-徒弟",
   "en": "11-Apprentice",
-  "pt": ""
+  "pt": "11-Aprendiz",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName2": {
   "ch": "2-子女",
   "en": "2- Child",
-  "pt": ""
+  "pt": "2- Filho",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10046EnumName3": {
   "ch": "3-私生子女",
   "en": "3- Illegitimate child",
-  "pt": ""
+  "pt": "3- Filho ilegítimo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName4": {
   "ch": "4-兄弟（同父同母）",
   "en": "4- Brother (same father different mother)",
-  "pt": ""
+  "pt": "4- Irmão (mesmo pai, mães diferentes)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName5": {
   "ch": "5-义父母",
   "en": "5- Adoptive Parent",
-  "pt": ""
+  "pt": "5- Pais Adotivos",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10046EnumName6": {
   "ch": "6-义子女",
   "en": "6- Adoptive Child",
-  "pt": ""
+  "pt": "6- Filho adotivo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName7": {
   "ch": "7-义兄弟",
   "en": "7- Sworn Older Brother",
-  "pt": ""
+  "pt": "7- Irmão mais velho juramentado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10046EnumName8": {
   "ch": "8-夫妻",
   "en": "8- Spouse",
-  "pt": ""
+  "pt": "8- Cônjuge",
+  "auto": "local/hy-mt2"
  },
  "modEnum10046EnumName9": {
   "ch": "9-情侣",
   "en": "9- Couple",
-  "pt": ""
+  "pt": "9- Casal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10047EnumName0": {
   "ch": "0-无共同的社交关系",
   "en": "0- No shared social relationship type",
-  "pt": ""
+  "pt": "0 - Nenhum tipo de relação social compartilhada",
+  "auto": "local/hy-mt2"
  },
  "modEnum10047EnumName10": {
   "ch": "10-有共同的朋友",
   "en": "10-Have shared friends",
-  "pt": ""
+  "pt": "10 - Têm amigos em comum",
+  "auto": "local/hy-mt2"
  },
  "modEnum10047EnumName11": {
   "ch": "11-有共同的仇人",
   "en": "11-Have shared enemies",
-  "pt": ""
+  "pt": "11 - Têm inimigos em comum",
+  "auto": "local/hy-mt2"
  },
  "modEnum10048EnumName0": {
   "ch": "0-没触发过",
   "en": "0- Not triggered",
-  "pt": ""
+  "pt": "0 - Não acionado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10048EnumName1": {
   "ch": "1-触发过",
   "en": "1- Triggered",
-  "pt": ""
+  "pt": "1- Acionado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10049EnumName0": {
   "ch": "0-没使用过",
   "en": "0- Not used",
-  "pt": ""
+  "pt": "0 - Não utilizado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "modEnum10049EnumName1": {
   "ch": "1-使用过",
   "en": "1- Used",
-  "pt": ""
+  "pt": "1- Usado",
+  "auto": "local/hy-mt2"
  },
  "modEnum10050EnumName0": {
   "ch": "0-不存在",
   "en": "0- Does not exist",
-  "pt": ""
+  "pt": "0 - Não existe",
+  "auto": "local/hy-mt2"
  },
  "modEnum10050EnumName1": {
   "ch": "1-存在",
   "en": "1- Does exist",
-  "pt": ""
+  "pt": "1- Existe",
+  "auto": "local/hy-mt2"
  },
  "modEnum10051EnumName1": {
   "ch": "1-大于",
   "en": "1- >",
-  "pt": ""
+  "pt": "1- >",
+  "auto": "local/hy-mt2"
  },
  "modEnum10051EnumName2": {
   "ch": "2-小于",
   "en": "2- <",
-  "pt": ""
+  "pt": "2- <",
+  "auto": "local/hy-mt2"
  },
  "modEnum10051EnumName3": {
   "ch": "3-等于",
   "en": "3- =",
-  "pt": ""
+  "pt": "3- =",
+  "auto": "local/hy-mt2"
  },
  "modEnum10052EnumName1": {
   "ch": "1-正道值 加减乘除 魔道值",
   "en": "1- Righteous points +- x÷ demonic points",
-  "pt": ""
+  "pt": "1- Pontos Justo +- x÷ Pontos Demoníaco",
+  "auto": "local/hy-mt2"
  },
  "modEnum10052EnumName2": {
   "ch": "2-魔道值 加减乘除 正道值",
   "en": "2- Demonic points +- x÷ righteous points",
-  "pt": ""
+  "pt": "2- Pontos Demoníacos +- x÷ Pontos justos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10053EnumName1": {
   "ch": "1-减法运算",
   "en": "1- Subtraction",
-  "pt": ""
+  "pt": "1- Subtração",
+  "auto": "local/hy-mt2"
  },
  "modEnum10053EnumName2": {
   "ch": "2-加法运算",
   "en": "2- Addition",
-  "pt": ""
+  "pt": "2- Adição",
+  "auto": "local/hy-mt2"
  },
  "modEnum10053EnumName3": {
   "ch": "3-除法运算",
   "en": "3- Division",
-  "pt": ""
+  "pt": "3- Divisão",
+  "auto": "local/hy-mt2"
  },
  "modEnum10053EnumName4": {
   "ch": "4-乘法运算",
   "en": "4- Multiplication",
-  "pt": ""
+  "pt": "4- Multiplicação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10054EnumName1": {
   "ch": "1-大于等于",
   "en": "1- ≥",
-  "pt": ""
+  "pt": "1- ≥",
+  "auto": "local/hy-mt2"
  },
  "modEnum10054EnumName2": {
   "ch": "2-小于等于",
   "en": "2- ≤",
-  "pt": ""
+  "pt": "2- ≤",
+  "auto": "local/hy-mt2"
  },
  "modEnum10054EnumName3": {
   "ch": "3-等于",
   "en": "3- =",
-  "pt": ""
+  "pt": "3- =",
+  "auto": "local/hy-mt2"
  },
  "modEnum10054EnumName4": {
   "ch": "4-大于",
   "en": "4- >",
-  "pt": ""
+  "pt": "4- >",
+  "auto": "local/hy-mt2"
  },
  "modEnum10054EnumName5": {
   "ch": "5-小于",
   "en": "5- <",
-  "pt": ""
+  "pt": "5- <",
+  "auto": "local/hy-mt2"
  },
  "modEnum10055EnumName0": {
   "ch": "0-没有储存数据",
   "en": "0- No saved data",
-  "pt": ""
+  "pt": "0- Sem dados salvos",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10055EnumName1": {
   "ch": "1-有储存数据",
   "en": "1- With saved data",
-  "pt": ""
+  "pt": "1- Com dados salvos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10056EnumName0": {
   "ch": "0-放过NPC",
   "en": "0- Let the NPC go",
-  "pt": ""
+  "pt": "0- Deixe o NPC ir embora",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "modEnum10056EnumName1": {
   "ch": "1-杀死NPC",
   "en": "1- Kill the NPC",
-  "pt": ""
+  "pt": "1- Mate o NPC",
+  "auto": "local/hy-mt2"
  },
  "modEnum10056EnumName2": {
   "ch": "2-输给NPC",
   "en": "2- Lost to NPC",
-  "pt": ""
+  "pt": "2- Perdeu para o NPC",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "modEnum10057EnumName0": {
   "ch": "0-不反转",
   "en": "0- No reverse",
-  "pt": ""
+  "pt": "0- Sem inverter",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10057EnumName1": {
   "ch": "1-反转",
   "en": "1- Reverse",
-  "pt": ""
+  "pt": "1- Inverter",
+  "auto": "local/hy-mt2"
  },
  "modEnum10058EnumName0": {
   "ch": "0-其他城镇",
   "en": "0- Other towns",
-  "pt": ""
+  "pt": "0 - Outras vilas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10058EnumName1": {
   "ch": "1-主城",
   "en": "1- Main city",
-  "pt": ""
+  "pt": "1- Cidade principal",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "modEnum10059EnumName0": {
   "ch": "0-没学会",
   "en": "0- Not learned",
-  "pt": ""
+  "pt": "0 - Não aprendido",
+  "auto": "local/hy-mt2"
  },
  "modEnum10059EnumName1": {
   "ch": "1-学会了该技能",
   "en": "1- Already learned",
-  "pt": ""
+  "pt": "1- Já aprendido",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005EnumName1": {
   "ch": "1-刀",
   "en": "1- Blade",
-  "pt": ""
+  "pt": "1- Lâmina",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005EnumName2": {
   "ch": "2-枪",
   "en": "2- Spear",
-  "pt": ""
+  "pt": "2- Lança",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005EnumName3": {
   "ch": "3-剑",
   "en": "3- Sword",
-  "pt": ""
+  "pt": "3- Espada",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005EnumName4": {
   "ch": "4-拳",
   "en": "4- Fist",
-  "pt": ""
+  "pt": "4- Punho",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005EnumName5": {
   "ch": "5-掌",
   "en": "5- Palm",
-  "pt": ""
+  "pt": "5- Palma",
+  "auto": "local/hy-mt2"
  },
  "modEnum1005EnumName6": {
   "ch": "6-指",
   "en": "6- Finger",
-  "pt": ""
+  "pt": "6- Dedo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10060EnumName0": {
   "ch": "0-没有通关过",
   "en": "0- Not cleared",
-  "pt": ""
+  "pt": "0 - Não concluído",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10060EnumName1": {
   "ch": "1-通关过",
   "en": "1- Was cleared",
-  "pt": ""
+  "pt": "1- Foi concluído",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10061EnumName1": {
   "ch": "1-相同",
   "en": "1- Same",
-  "pt": ""
+  "pt": "1- Igual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10061EnumName2": {
   "ch": "2-不同",
   "en": "2- Different",
-  "pt": ""
+  "pt": "2- Diferente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10061EnumName3": {
   "ch": "3-男男",
   "en": "3- Male & Male",
-  "pt": ""
+  "pt": "3- Masculino e Masculino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "modEnum10061EnumName4": {
   "ch": "4-女女",
   "en": "4- Female & Female",
-  "pt": ""
+  "pt": "4- Feminino e Feminino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10062EnumName0": {
   "ch": "0-没有",
   "en": "0- No",
-  "pt": ""
+  "pt": "0- Não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10062EnumName1": {
   "ch": "1-拥有",
   "en": "1- Yes",
-  "pt": ""
+  "pt": "1- Sim",
+  "auto": "local/hy-mt2"
  },
  "modEnum10063EnumName0": {
   "ch": "0-固定等级",
   "en": "0- Fixed",
-  "pt": ""
+  "pt": "0- Fixo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10063EnumName1": {
   "ch": "1-以玩家境界为基础（一个境界对应5级）",
   "en": "1- Based on Player's realm (1 realm = 5 levels)",
-  "pt": ""
+  "pt": "1- Com base no Reino do jogador (1 Reino = 5 níveis)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10063EnumName2": {
   "ch": "2-以区域境界为基准（如白源区是炼气期）",
   "en": "2- Based on the regional realm (E.g., Bai Yuan = Qi Refining)",
-  "pt": ""
+  "pt": "2- Baseado no Reino regional (Ex.: Bai Yuan = Refinamento de Qi)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10064EnumName0": {
   "ch": "0-随机",
   "en": "0- Random",
-  "pt": ""
+  "pt": "0- Aleatório",
+  "auto": "local/hy-mt2"
  },
  "modEnum10065EnumName0": {
   "ch": "0-固定值",
   "en": "0- Fixed value",
-  "pt": ""
+  "pt": "0- Valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10065EnumName1": {
   "ch": "1-百分比",
   "en": "1- Percentage",
-  "pt": ""
+  "pt": "1- Porcentagem",
+  "auto": "local/hy-mt2"
  },
  "modEnum10066EnumName0": {
   "ch": "0-百分比",
   "en": "0- Percentage",
-  "pt": ""
+  "pt": "0 - Porcentagem",
+  "auto": "local/hy-mt2"
  },
  "modEnum10066EnumName1": {
   "ch": "1-固定值",
   "en": "1- Fixed value",
-  "pt": ""
+  "pt": "1- Valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10067EnumName0": {
   "ch": "0-设置成固定值",
   "en": "0- Set to a fixed value",
-  "pt": ""
+  "pt": "0 - Definido como um valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10067EnumName1": {
   "ch": "1-增加固定值",
   "en": "1- Increased by a fixed value",
-  "pt": ""
+  "pt": "1- Aumentado por um valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10068EnumName0": {
   "ch": "0-与玩家同境界",
   "en": "0- Same realm with Player",
-  "pt": ""
+  "pt": "0- Mesmo Reino que o jogador",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum1006EnumName1": {
   "ch": "1-火",
   "en": "1- Fire",
-  "pt": ""
+  "pt": "1- Fogo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1006EnumName2": {
   "ch": "2-水",
   "en": "2- Water",
-  "pt": ""
+  "pt": "2- Água",
+  "auto": "local/hy-mt2"
  },
  "modEnum1006EnumName3": {
   "ch": "3-雷",
   "en": "3- Lightning",
-  "pt": ""
+  "pt": "3- Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "modEnum1006EnumName4": {
   "ch": "4-风",
   "en": "4- Wind",
-  "pt": ""
+  "pt": "4- Vento",
+  "auto": "local/hy-mt2"
  },
  "modEnum1006EnumName5": {
   "ch": "5-土",
   "en": "5- Earth",
-  "pt": ""
+  "pt": "5- Terra",
+  "auto": "local/hy-mt2"
  },
  "modEnum1006EnumName6": {
   "ch": "6-木",
   "en": "6- Wood",
-  "pt": ""
+  "pt": "6- Madeira",
+  "auto": "local/hy-mt2"
  },
  "modEnum10070EnumName0": {
   "ch": "0-经验",
   "en": "0- EXP",
-  "pt": ""
+  "pt": "0- EXP",
+  "auto": "local/hy-mt2"
  },
  "modEnum10070EnumName1": {
   "ch": "1-等级",
   "en": "1- Level",
-  "pt": ""
+  "pt": "1- Nível",
+  "auto": "local/hy-mt2"
  },
  "modEnum10071EnumName0": {
   "ch": "0-固定值",
   "en": "0- Fixed value",
-  "pt": ""
+  "pt": "0- Valor fixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10071EnumName1": {
   "ch": "1-叠加数量百分比",
   "en": "1- Stacked quantity percentage",
-  "pt": ""
+  "pt": "1- Porcentagem de quantidade empilhada",
+  "auto": "local/hy-mt2"
  },
  "modEnum10072EnumName0": {
   "ch": "0-随机排序",
   "en": "0- Random",
-  "pt": ""
+  "pt": "0- Aleatório",
+  "auto": "local/hy-mt2"
  },
  "modEnum10072EnumName1": {
   "ch": "1-亲密度从高到低",
   "en": "1- Affinity, from high to low",
-  "pt": ""
+  "pt": "1- Afinidade, do maior para o menor",
+  "auto": "local/hy-mt2"
  },
  "modEnum10072EnumName2": {
   "ch": "2-亲密度从低到高",
   "en": "2- Affinity, from low to high",
-  "pt": ""
+  "pt": "2- Afinidade, do menor para o maior",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10072EnumName3": {
   "ch": "3-仇恨度从高到低",
   "en": "3- Hatred, from high to low",
-  "pt": ""
+  "pt": "3- Ódio, do alto para o baixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10072EnumName4": {
   "ch": "4-仇恨度从低到高",
   "en": "4- Hatred, from high to low",
-  "pt": ""
+  "pt": "4- Ódio, do alto ao baixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10073EnumName0": {
   "ch": "0-不储存",
   "en": "0- Don't save",
-  "pt": ""
+  "pt": "0- Não salvar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10073EnumName1": {
   "ch": "1-储存",
   "en": "1- Save",
-  "pt": ""
+  "pt": "1- Salvar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10074EnumName1": {
   "ch": "1-建筑",
   "en": "1- Building",
-  "pt": ""
+  "pt": "1- Prédio",
+  "auto": "local/hy-mt2"
  },
  "modEnum10074EnumName2": {
   "ch": "2-大地图事件",
   "en": "2- World map event",
-  "pt": ""
+  "pt": "2- Evento do Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "modEnum10074EnumName3": {
   "ch": "3-固定大地图坐标",
   "en": "3- Fixed world map coordinates",
-  "pt": ""
+  "pt": "3- Coordenadas fixas do Mapa do Mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10076EnumName0": {
   "ch": "0-否",
   "en": "0- False",
-  "pt": ""
+  "pt": "0- Falso",
+  "auto": "local/hy-mt2"
  },
  "modEnum10077EnumName0": {
   "ch": "0-不叠加",
   "en": "0-Not stack",
-  "pt": ""
+  "pt": "0-Não empilhar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10077EnumName1": {
   "ch": "1-叠加",
   "en": "1-Stack",
-  "pt": ""
+  "pt": "1-Empilhar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10078EnumName0": {
   "ch": "0-不允许丢弃",
   "en": "0-Discard not allowed",
-  "pt": ""
+  "pt": "0 - Descarte não permitido",
+  "auto": "local/hy-mt2"
  },
  "modEnum10078EnumName1": {
   "ch": "1-允许丢弃",
   "en": "1-Discard allowed",
-  "pt": ""
+  "pt": "1 - Descarte permitido",
+  "auto": "local/hy-mt2"
  },
  "modEnum10079EnumName1": {
   "ch": "1-普通道具",
   "en": "1-Normal Item",
-  "pt": ""
+  "pt": "1- Item Normal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10079EnumName2": {
   "ch": "2-丹药",
   "en": "2-Elixir",
-  "pt": ""
+  "pt": "2-Elixir",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10079EnumName3": {
   "ch": "3-书籍",
   "en": "3-Books",
-  "pt": ""
+  "pt": "3-Livros",
+  "auto": "local/hy-mt2"
  },
  "modEnum10079EnumName4": {
   "ch": "4-坐骑",
   "en": "4-Mount",
-  "pt": ""
+  "pt": "4-Montaria",
+  "auto": "local/hy-mt2"
  },
  "modEnum10079EnumName5": {
   "ch": "5-藏宝图",
   "en": "5-Artifact Map",
-  "pt": ""
+  "pt": "5-Mapa de Artefatos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10079EnumName6": {
   "ch": "6-戒指",
   "en": "6-Ring",
-  "pt": ""
+  "pt": "6-Anel",
+  "auto": "local/hy-mt2"
  },
  "modEnum1007EnumName1": {
   "ch": "1-武技",
   "en": "1- Martial skill",
-  "pt": ""
+  "pt": "1- Técnica Marcial",
+  "auto": "local/hy-mt2"
  },
  "modEnum1007EnumName2": {
   "ch": "2-绝技",
   "en": "2- Special skill",
-  "pt": ""
+  "pt": "2- Técnica Especial",
+  "auto": "local/hy-mt2"
  },
  "modEnum1007EnumName3": {
   "ch": "3-身法",
   "en": "3- Motion skill",
-  "pt": ""
+  "pt": "3- Técnica de Movimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "modEnum1007EnumName4": {
   "ch": "4-心法",
   "en": "4- Mind skill",
-  "pt": ""
+  "pt": "4- Técnica Mental",
+  "auto": "local/hy-mt2"
  },
  "modEnum1007EnumName5": {
   "ch": "5-神通",
   "en": "5- Ultimate skill",
-  "pt": ""
+  "pt": "5- Técnica Suprema",
+  "auto": "local/hy-mt2"
  },
  "modEnum10080EnumName1": {
   "ch": "1-固定位置随机创建事件",
   "en": "1-Fixed location, random created event",
-  "pt": ""
+  "pt": "1-Localização fixa, evento criado aleatoriamente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10080EnumName2": {
   "ch": "2-区域内随机创建事件",
   "en": "2-Randomly created event in the region",
-  "pt": ""
+  "pt": "2 - Evento criado aleatoriamente na região",
+  "auto": "local/hy-mt2"
  },
  "modEnum10081EnumName1": {
   "ch": "1-主线任务",
   "en": "1-Main Mission",
-  "pt": ""
+  "pt": "1 - Missão Principal",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "modEnum10081EnumName110": {
   "ch": "110-剧情任务",
   "en": "110-Plot Mission",
-  "pt": ""
+  "pt": "110-Missão de Enredo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10081EnumName4": {
   "ch": "4-奇遇任务",
   "en": "4-Adventure Mission",
-  "pt": ""
+  "pt": "4-Missão de Aventura",
+  "auto": "local/hy-mt2"
  },
  "modEnum10083EnumName1": {
   "ch": "1-<g>简单</g>",
   "en": "1-<g>Easy</g>",
-  "pt": ""
+  "pt": "1-<g>Fácil</g>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10083EnumName2": {
   "ch": "2-<b>普通</b>",
   "en": "2-<b>Normal</b>",
-  "pt": ""
+  "pt": "2-<b>Normal</b>",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10083EnumName3": {
   "ch": "3-<p>困难</p>",
   "en": "3-<p>Hard</p>",
-  "pt": ""
+  "pt": "3-<p>Difícil</p>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10083EnumName4": {
   "ch": "4-<y>极难</y>",
   "en": "4-<y>Nightmare</y>",
-  "pt": ""
+  "pt": "4-<y>Pesadelo</y>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10083EnumName5": {
   "ch": "5-<r>地狱</r>",
   "en": "5-<r>Hell</r>",
-  "pt": ""
+  "pt": "5-<r>Inferno</r>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10083EnumName6": {
   "ch": "6-<r>地狱</r>",
   "en": "6-<r>Hell</r>",
-  "pt": ""
+  "pt": "6-<r>Inferno</r>",
+  "auto": "local/hy-mt2"
  },
  "modEnum10084EnumName0": {
   "ch": "0-否",
   "en": "0- False",
-  "pt": ""
+  "pt": "0- Falso",
+  "auto": "local/hy-mt2"
  },
  "modEnum10084EnumName1": {
   "ch": "1-是",
   "en": "1- True",
-  "pt": ""
+  "pt": "1- Verdadeiro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "modEnum10085EnumName0": {
   "ch": "0-否",
   "en": "0- False",
-  "pt": ""
+  "pt": "0- Falso",
+  "auto": "local/hy-mt2"
  },
  "modEnum10085EnumName1": {
   "ch": "1-是",
   "en": "1- True",
-  "pt": ""
+  "pt": "1- Verdadeiro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "modEnum10086EnumName1": {
   "ch": "1-普通对话框",
   "en": "1-Normal Dialogue Box",
-  "pt": ""
+  "pt": "1 - Caixa de diálogo normal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10086EnumName2": {
   "ch": "2-奇遇小插图",
   "en": "2-Adventure Scene",
-  "pt": ""
+  "pt": "2 - Cena de Aventura",
+  "auto": "local/hy-mt2"
  },
  "modEnum10086EnumName3": {
   "ch": "3-剧情全屏大图",
   "en": "3-Full-screen Plot Picture",
-  "pt": ""
+  "pt": "3-Imagem de enredo em tela cheia",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10086EnumName4": {
   "ch": "4-器灵对话框",
   "en": "4-Artifact Spirit dialogue box",
-  "pt": ""
+  "pt": "4 - Caixa de diálogo do Espírito do Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10086EnumName5": {
   "ch": "5-器灵对话框（无人物，无按钮）",
   "en": "5-Artifact Spirit dialogue box (no character, no button)",
-  "pt": ""
+  "pt": "5 - Caixa de diálogo do Espírito do Artefato (sem personagem, sem botão)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10086EnumName6": {
   "ch": "6-信件",
   "en": "6- Mail",
-  "pt": ""
+  "pt": "6- Carta",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10086EnumName7": {
   "ch": "7-神秘组织对话框",
   "en": "7-Secret Order dialogue box",
-  "pt": ""
+  "pt": "7- Caixa de diálogo da Ordem Secreta",
+  "auto": "local/hy-mt2"
  },
  "modEnum10086EnumName8": {
   "ch": "8-信件（绢材质）",
   "en": "8- Mail (silk texture)",
-  "pt": ""
+  "pt": "8- Carta (textura de seda)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10087EnumName1": {
   "ch": "1-左边的角色",
   "en": "1- Character - Left",
-  "pt": ""
+  "pt": "1- Personagem - Esquerda",
+  "auto": "local/hy-mt2"
  },
  "modEnum10087EnumName2": {
   "ch": "2-右边的角色",
   "en": "2- Character - Right",
-  "pt": ""
+  "pt": "2- Personagem - Direita",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10088EnumName1": {
   "ch": "1 显示玩家",
   "en": "1 Display player",
-  "pt": ""
+  "pt": "1 Exibe o jogador",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10088EnumName11": {
   "ch": "11 显示抓取的NPC（NPC-A）",
   "en": "11 NPC extracted by the event (NPC-A)",
-  "pt": ""
+  "pt": "11 NPC extraído pelo evento (NPC-A)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10088EnumName12": {
   "ch": "12 显示抓取的NPC（NPC-B）",
   "en": "12 NPC extracted by the event (NPC-B)",
-  "pt": ""
+  "pt": "12 NPC extraído pelo evento (NPC-B)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10089EnumName1": {
   "ch": "1-角色立绘（玩家、NPC）",
   "en": "1-Character full-body standing drawing (Player, NPC)",
-  "pt": ""
+  "pt": "1 - Desenho de corpo inteiro de um personagem em pé (Jogador, NPC)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10089EnumName2": {
   "ch": "2-剧情立绘（精卫、后裔等）",
   "en": "2-Plot full-body standing drawing (Jingwei, descendants, and so on)",
-  "pt": ""
+  "pt": "2 - Desenho de corpo inteiro em posição de pé (Jingwei, descendentes, etc.)",
+  "auto": "local/hy-mt2"
  },
  "modEnum1008EnumName1": {
   "ch": "1-男",
   "en": "1- Male",
-  "pt": ""
+  "pt": "1- Masculino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "modEnum1008EnumName2": {
   "ch": "2-女",
   "en": "2- Female",
-  "pt": ""
+  "pt": "2- Feminino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10090EnumName0": {
   "ch": "0-在NPC境界对应的区域内随机位置",
   "en": "0- A random location in the area corresponding to the NPC realm.",
-  "pt": ""
+  "pt": "0 - Um local aleatório na área correspondente ao reino do NPC.",
+  "auto": "local/hy-mt2"
  },
  "modEnum10091EnumName0": {
   "ch": "0-和玩家境界一样",
   "en": "0-Same as player Realm",
-  "pt": ""
+  "pt": "0 - Igual ao Reino do jogador",
+  "auto": "local/hy-mt2"
  },
  "modEnum10091EnumName1": {
   "ch": "1-在玩家周围一定范围",
   "en": "1-In fixed area around Player",
-  "pt": ""
+  "pt": "1- Em área fixa ao redor do Jogador",
+  "auto": "local/hy-mt2"
  },
  "modEnum10091EnumName2": {
   "ch": "2-指定区域内随机位置",
   "en": "2- A random location in a specified area",
-  "pt": ""
+  "pt": "2- Um local aleatório em uma área especificada",
+  "auto": "local/hy-mt2"
  },
  "modEnum10091EnumName3": {
   "ch": "3-如有宗门，则在宗门位置",
   "en": "3- At the Sect if there is one",
-  "pt": ""
+  "pt": "3- Na Seita, se houver uma",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10092EnumName0": {
   "ch": "0-随机",
   "en": "0-Random",
-  "pt": ""
+  "pt": "0-Aleatório",
+  "auto": "local/hy-mt2"
  },
  "modEnum10092EnumName1": {
   "ch": "1-男",
   "en": "1-Male",
-  "pt": ""
+  "pt": "1-Masculino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "modEnum10092EnumName2": {
   "ch": "2-女",
   "en": "2-Female",
-  "pt": ""
+  "pt": "2-Feminino",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10093EnumName1": {
   "ch": "1-父母",
   "en": "1-Parent",
-  "pt": ""
+  "pt": "1-Pai ou mãe",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "modEnum10093EnumName10": {
   "ch": "10-师父",
   "en": "10-Master",
-  "pt": ""
+  "pt": "10-Mestre",
+  "auto": "local/hy-mt2"
  },
  "modEnum10093EnumName11": {
   "ch": "11-徒弟",
   "en": "11-Apprentice",
-  "pt": ""
+  "pt": "11-Aprendiz",
+  "auto": "local/hy-mt2"
  },
  "modEnum10093EnumName2": {
   "ch": "2-子女",
   "en": "2-Child",
-  "pt": ""
+  "pt": "2 - Filho",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10093EnumName21": {
   "ch": "21-好友/仇人（通过初始亲密度控制）",
   "en": "21-Friend/Enemy (control via initializing Affinity Level)",
-  "pt": ""
+  "pt": "21-Amigo/Inimigo (controle por meio da inicialização do nível de Afinidade)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10093EnumName5": {
   "ch": "5-义父母",
   "en": "5-Adoptive Parent",
-  "pt": ""
+  "pt": "5-Pai ou mãe adotivo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10093EnumName6": {
   "ch": "6-义子女",
   "en": "6-Adoptive Child",
-  "pt": ""
+  "pt": "6- Filho adotivo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10093EnumName7": {
   "ch": "7-结义兄弟姐妹",
   "en": "7-Sworn Sibling",
-  "pt": ""
+  "pt": "7-Irmão juramentado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10093EnumName8": {
   "ch": "8-夫妻",
   "en": "8-Spouse",
-  "pt": ""
+  "pt": "8-Cônjuge",
+  "auto": "local/hy-mt2"
  },
  "modEnum10093EnumName9": {
   "ch": "9-情侣",
   "en": "9-Couple",
-  "pt": ""
+  "pt": "9-Casal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10094EnumName0": {
   "ch": "0-无要求",
   "en": "0- No requirements",
-  "pt": ""
+  "pt": "0- Sem requisitos",
+  "auto": "local/hy-mt2"
  },
  "modEnum10094EnumName1": {
   "ch": "1-男",
   "en": "1- Male",
-  "pt": ""
+  "pt": "1- Masculino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "modEnum10094EnumName2": {
   "ch": "2-女",
   "en": "2- Female",
-  "pt": ""
+  "pt": "2- Feminino",
+  "auto": "local/hy-mt2"
  },
  "modEnum10094EnumName3": {
   "ch": "3-与自身相反的性别",
   "en": "3- Gender opposite to your own",
-  "pt": ""
+  "pt": "3- Gênero oposto ao seu",
+  "auto": "local/hy-mt2"
  },
  "modEnum10095EnumName1": {
   "ch": "1-丹药",
   "en": "1-Elixir",
-  "pt": ""
+  "pt": "1-Elixir",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10095EnumName2": {
   "ch": "2-法宝",
   "en": "2-Artifact",
-  "pt": ""
+  "pt": "2-Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10096EnumName0": {
   "ch": "0-任意",
   "en": "0-Any",
-  "pt": ""
+  "pt": "0-Qualquer um",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 8 caracteres"
+  ]
  },
  "modEnum10096EnumName1": {
   "ch": "1-天骄",
   "en": "1-Heaven-chosen",
-  "pt": ""
+  "pt": "1-Escolhido pelo Céu",
+  "auto": "local/hy-mt2"
  },
  "modEnum10096EnumName2": {
   "ch": "2-人杰",
   "en": "2-Illustrious One",
-  "pt": ""
+  "pt": "2 - O Ilustre",
+  "auto": "local/hy-mt2"
  },
  "modEnum10096EnumName3": {
   "ch": "3-普通",
   "en": "3-Normal",
-  "pt": ""
+  "pt": "3 - Normal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10097EnumName0": {
   "ch": "0-小于等于",
   "en": "0-Less-than or equal to",
-  "pt": ""
+  "pt": "0 - Menor ou igual a",
+  "auto": "local/hy-mt2"
  },
  "modEnum10097EnumName1": {
   "ch": "1-等于",
   "en": "1-Equal to",
-  "pt": ""
+  "pt": "1 - Igual a",
+  "auto": "local/hy-mt2"
  },
  "modEnum10097EnumName2": {
   "ch": "2-大于等于",
   "en": "2-Greater-than or equal to",
-  "pt": ""
+  "pt": "2-Maior ou igual a",
+  "auto": "local/hy-mt2"
  },
  "modEnum10097EnumName3": {
   "ch": "3-小于",
   "en": "3-Less-than",
-  "pt": ""
+  "pt": "3-Menor que",
+  "auto": "local/hy-mt2"
  },
  "modEnum10097EnumName4": {
   "ch": "4-大于",
   "en": "4-Greater-than",
-  "pt": ""
+  "pt": "4-Maior que",
+  "auto": "local/hy-mt2"
  },
  "modEnum10098EnumName1": {
   "ch": "1-hp",
   "en": "1-Vitality",
-  "pt": ""
+  "pt": "1-Vitalidade",
+  "auto": "local/hy-mt2"
  },
  "modEnum10098EnumName11": {
   "ch": "11-健康",
   "en": "11-Health",
-  "pt": ""
+  "pt": "11-Saúde",
+  "auto": "local/hy-mt2"
  },
  "modEnum10098EnumName12": {
   "ch": "12-精力",
   "en": "12-Stamina",
-  "pt": ""
+  "pt": "12-Vigor",
+  "auto": "local/hy-mt2"
  },
  "modEnum10098EnumName13": {
   "ch": "13-心情",
   "en": "13-Mood",
-  "pt": ""
+  "pt": "13-Humor",
+  "auto": "local/hy-mt2"
  },
  "modEnum10098EnumName2": {
   "ch": "2-mp",
   "en": "2-Energy",
-  "pt": ""
+  "pt": "2-Energia",
+  "auto": "local/hy-mt2"
  },
  "modEnum10098EnumName3": {
   "ch": "3-sp",
   "en": "3-Focus",
-  "pt": ""
+  "pt": "3-Foco",
+  "auto": "local/hy-mt2"
  },
  "modEnum10099EnumName0": {
   "ch": "0-正面气运",
   "en": "0-Positive Destiny",
-  "pt": ""
+  "pt": "0-Destino Positivo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10099EnumName1": {
   "ch": "1-负面气运",
   "en": "1-Negative Destiny",
-  "pt": ""
+  "pt": "1 - Destino Negativo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009EnumName0": {
   "ch": "0-无",
   "en": "0- None",
-  "pt": ""
+  "pt": "0 - Nenhum",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009EnumName1": {
   "ch": "1-宗主",
   "en": "1- Sect Leader",
-  "pt": ""
+  "pt": "1- Líder da Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009EnumName2": {
   "ch": "2-大长老",
   "en": "2- Grand Elder",
-  "pt": ""
+  "pt": "2- Grão-Ancião",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009EnumName3": {
   "ch": "3-长老",
   "en": "3- Elder",
-  "pt": ""
+  "pt": "3- Ancião",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009EnumName4": {
   "ch": "4-真传弟子",
   "en": "4- True Disciple",
-  "pt": ""
+  "pt": "4- Verdadeiro Discípulo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "modEnum1009EnumName5": {
   "ch": "5-内门弟子",
   "en": "5- Disciple",
-  "pt": ""
+  "pt": "5- Discípulo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1009EnumName6": {
   "ch": "6-外门弟子",
   "en": "6- Initiate",
-  "pt": ""
+  "pt": "6- Iniciante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10100EnumName0": {
   "ch": "0-答应",
   "en": "0-Accept",
-  "pt": ""
+  "pt": "0-Aceitar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10100EnumName1": {
   "ch": "1-拒绝",
   "en": "1-Refuse",
-  "pt": ""
+  "pt": "1 - Recusar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10101EnumName0": {
   "ch": "0-坐骑",
   "en": "0-Mount",
-  "pt": ""
+  "pt": "0-Montaria",
+  "auto": "local/hy-mt2"
  },
  "modEnum10101EnumName1": {
   "ch": "1-戒指",
   "en": "1-Ring",
-  "pt": ""
+  "pt": "1-Anel",
+  "auto": "local/hy-mt2"
  },
  "modEnum10102EnumName0": {
   "ch": "0-拒绝",
   "en": "0-Refuse",
-  "pt": ""
+  "pt": "0 - Recusar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10102EnumName1": {
   "ch": "1-答应",
   "en": "1-Accept",
-  "pt": ""
+  "pt": "1-Aceitar",
+  "auto": "local/hy-mt2"
  },
  "modEnum10103EnumName0": {
   "ch": "0-存活",
   "en": "0-Alive",
-  "pt": ""
+  "pt": "0 - Vivo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10103EnumName1": {
   "ch": "1-死亡",
   "en": "1-Dead",
-  "pt": ""
+  "pt": "1-Morto",
+  "auto": "local/hy-mt2"
  },
  "modEnum10103EnumName2": {
   "ch": "2-一丝元魂",
   "en": "2-On Last Breath",
-  "pt": ""
+  "pt": "2 - Em Último Suspiro",
+  "auto": "local/hy-mt2"
  },
  "modEnum10104EnumName0": {
   "ch": "0-小于",
   "en": "0-Less-than",
-  "pt": ""
+  "pt": "0-Menor que",
+  "auto": "local/hy-mt2"
  },
  "modEnum10104EnumName1": {
   "ch": "1-等于",
   "en": "1-Equal to",
-  "pt": ""
+  "pt": "1 - Igual a",
+  "auto": "local/hy-mt2"
  },
  "modEnum10104EnumName2": {
   "ch": "2-大于",
   "en": "2-Greater-than",
-  "pt": ""
+  "pt": "2-Maior que",
+  "auto": "local/hy-mt2"
  },
  "modEnum10105EnumName0": {
   "ch": "0-否",
   "en": "0-No",
-  "pt": ""
+  "pt": "0-Não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10105EnumName1": {
   "ch": "1-是",
   "en": "1-Yes",
-  "pt": ""
+  "pt": "1 - Sim",
+  "auto": "local/hy-mt2"
  },
  "modEnum10106EnumName0": {
   "ch": "0-否",
   "en": "0-No",
-  "pt": ""
+  "pt": "0-Não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10106EnumName1": {
   "ch": "1-是",
   "en": "1-Yes",
-  "pt": ""
+  "pt": "1 - Sim",
+  "auto": "local/hy-mt2"
  },
  "modEnum10106EnumName3": {
   "ch": "3-任意",
   "en": "3-Any",
-  "pt": ""
+  "pt": "3 - Qualquer",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 8 caracteres"
+  ]
  },
  "modEnum10107EnumName0": {
   "ch": "0-未拥有",
   "en": "0-Not owned",
-  "pt": ""
+  "pt": "0 - Não possuído",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "modEnum10107EnumName1": {
   "ch": "1-已拥有",
   "en": "1-Owned",
-  "pt": ""
+  "pt": "1 - Possuído",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "modEnum10107EnumName2": {
   "ch": "2-拥有并佩戴",
   "en": "2-Owned and equipped",
-  "pt": ""
+  "pt": "2 - Possuído e equipado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10108EnumName1": {
   "ch": "1-炼丹",
   "en": "1-Alchemy",
-  "pt": ""
+  "pt": "1-Alquimia",
+  "auto": "local/hy-mt2"
  },
  "modEnum10108EnumName2": {
   "ch": "2-炼器",
   "en": "2-Forge",
-  "pt": ""
+  "pt": "2-Forja",
+  "auto": "local/hy-mt2"
  },
  "modEnum10108EnumName3": {
   "ch": "3-堪舆",
   "en": "3-Geomancy",
-  "pt": ""
+  "pt": "3-Geomancia",
+  "auto": "local/hy-mt2"
  },
  "modEnum10108EnumName4": {
   "ch": "4-画符",
   "en": "4-Talismans",
-  "pt": ""
+  "pt": "4-Talismãs",
+  "auto": "local/hy-mt2"
  },
  "modEnum10108EnumName5": {
   "ch": "5-采药",
   "en": "5-Foraging",
-  "pt": ""
+  "pt": "5 - Forrageamento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "modEnum10108EnumName6": {
   "ch": "6-采矿",
   "en": "6-Mining",
-  "pt": ""
+  "pt": "6-Mineração",
+  "auto": "local/hy-mt2"
  },
  "modEnum10109EnumName1": {
   "ch": "1-丹方",
   "en": "1-Elixir Recipe",
-  "pt": ""
+  "pt": "1- Receita de Elixir",
+  "auto": "local/hy-mt2"
  },
  "modEnum10109EnumName2": {
   "ch": "2-器谱",
   "en": "2-Artifact Blueprint",
-  "pt": ""
+  "pt": "2 - Plano do Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10109EnumName3": {
   "ch": "3-风水书",
   "en": "3-Feng Shui Book",
-  "pt": ""
+  "pt": "3 - Livro de Feng Shui",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "modEnum10109EnumName4": {
   "ch": "4-画符书",
   "en": "4-Talismans Book",
-  "pt": ""
+  "pt": "4 - Livro de Talismãs",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10109EnumName5": {
   "ch": "5-药谱",
   "en": "5-Prescription",
-  "pt": ""
+  "pt": "5-Prescrição",
+  "auto": "local/hy-mt2"
  },
  "modEnum10109EnumName6": {
   "ch": "6-矿谱",
   "en": "6-Ore Chart",
-  "pt": ""
+  "pt": "6-Diagrama de Minério",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 15 caracteres"
+  ]
  },
  "modEnum1010EnumName1": {
   "ch": "1-前期",
   "en": "1- Early",
-  "pt": ""
+  "pt": "1- Inicial",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum1010EnumName2": {
   "ch": "2-中期",
   "en": "2- Middle",
-  "pt": ""
+  "pt": "2- Médio",
+  "auto": "local/hy-mt2"
  },
  "modEnum1010EnumName3": {
   "ch": "3-后期",
   "en": "3- Late",
-  "pt": ""
+  "pt": "3- Final",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10110EnumName1": {
   "ch": "1-前期",
   "en": "1-Early",
-  "pt": ""
+  "pt": "1 - Inicial",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "modEnum10110EnumName2": {
   "ch": "2-中期",
   "en": "2-Middle",
-  "pt": ""
+  "pt": "2-Médio",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10111EnumName1": {
   "ch": "1-安定度",
   "en": "1-Stability",
-  "pt": ""
+  "pt": "1 - Estabilidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "modEnum10111EnumName2": {
   "ch": "2-繁荣度",
   "en": "2-Prosperity",
-  "pt": ""
+  "pt": "2 - Prosperidade",
+  "auto": "local/hy-mt2"
  },
  "modEnum10111EnumName3": {
   "ch": "3-人口",
   "en": "3-Population",
-  "pt": ""
+  "pt": "3-População",
+  "auto": "local/hy-mt2"
  },
  "modEnum10111EnumName4": {
   "ch": "4-名誉",
   "en": "4-Prestige",
-  "pt": ""
+  "pt": "4-Prestígio",
+  "auto": "local/hy-mt2"
  },
  "modEnum10111EnumName5": {
   "ch": "5-忠诚度",
   "en": "5-Loyalty",
-  "pt": ""
+  "pt": "5-Lealdade",
+  "auto": "local/hy-mt2"
  },
  "modEnum10111EnumName6": {
   "ch": "6-宗门大阵耐久",
   "en": "6-Sect Array Durability",
-  "pt": ""
+  "pt": "6- Durabilidade da Formação da Seita",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10111EnumName7": {
   "ch": "7-灵石",
   "en": "7-Spirit Stones",
-  "pt": ""
+  "pt": "7 - Pedras Espirituais",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "modEnum10111EnumName8": {
   "ch": "8-药材",
   "en": "8-Herbs",
-  "pt": ""
+  "pt": "8-Ervas",
+  "auto": "local/hy-mt2"
  },
  "modEnum10111EnumName9": {
   "ch": "9-矿材",
   "en": "9-Ore",
-  "pt": ""
+  "pt": "9-Minério",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 9 > 8 caracteres"
+  ]
  },
  "modEnum10112EnumName0": {
   "ch": "0-不是",
   "en": "0-No",
-  "pt": ""
+  "pt": "0-Não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10112EnumName1": {
   "ch": "1-是",
   "en": "1-Yes",
-  "pt": ""
+  "pt": "1 - Sim",
+  "auto": "local/hy-mt2"
  },
  "modEnum10112EnumName3": {
   "ch": "3-任意",
   "en": "3-Any",
-  "pt": ""
+  "pt": "3-Qualquer",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "modEnum10113EnumName0": {
   "ch": "0-不是",
   "en": "0-No",
-  "pt": ""
+  "pt": "0-Não",
+  "auto": "local/hy-mt2"
  },
  "modEnum10113EnumName1": {
   "ch": "1-是",
   "en": "1-Yes",
-  "pt": ""
+  "pt": "1 - Sim",
+  "auto": "local/hy-mt2"
  },
  "modEnum10113EnumName3": {
   "ch": "3-任意",
   "en": "3-Any",
-  "pt": ""
+  "pt": "3 - Qualquer",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 8 caracteres"
+  ]
  },
  "modEnum10114EnumName1": {
   "ch": "1-双鱼佩",
   "en": "1-Bagua Jade",
-  "pt": ""
+  "pt": "1-Jade Bagua",
+  "auto": "local/hy-mt2"
  },
  "modEnum10114EnumName2": {
   "ch": "2-昊天眼",
   "en": "2-Eye of Providence",
-  "pt": ""
+  "pt": "2-Olho da Providência",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10114EnumName3": {
   "ch": "3-炼妖壶",
   "en": "3-Mythical Gourd",
-  "pt": ""
+  "pt": "3 - Cabaça Mítica",
+  "auto": "local/hy-mt2"
  },
  "modEnum10115EnumName0": {
   "ch": "0 玩家自身",
   "en": "0 The player themselves",
-  "pt": ""
+  "pt": "0 O próprio jogador",
+  "auto": "local/hy-mt2"
  },
  "modEnum10115EnumName1": {
   "ch": "0 NPC-A",
   "en": "0 NPC-A",
-  "pt": ""
+  "pt": "0 NPC-A",
+  "auto": "local/hy-mt2"
  },
  "modEnum10115EnumName2": {
   "ch": "1 NPC-B",
   "en": "1 NPC-B",
-  "pt": ""
+  "pt": "1 NPC-B",
+  "auto": "local/hy-mt2"
  },
  "modEnum10115EnumName4": {
   "ch": "4 非玩家",
   "en": "4 Non-player",
-  "pt": ""
+  "pt": "4 Não-jogadores",
+  "auto": "local/hy-mt2"
  },
  "modEnum10117EnumName1": {
   "ch": "1-小宗门建筑图标（一般小宗门使用）",
   "en": "1- Minor Sect Building Icon (for normal minor sects)",
-  "pt": ""
+  "pt": "1- Ícone de Edifício de Seita Menor (para seitas menores comuns)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10117EnumName2": {
   "ch": "2-小型建筑图标",
   "en": "2- Small Building Icon",
-  "pt": ""
+  "pt": "2- Ícone de prédio pequeno",
+  "auto": "local/hy-mt2"
  },
  "modEnum10117EnumName3": {
   "ch": "3-中型建筑图标",
   "en": "3- Medium Building Icon",
-  "pt": ""
+  "pt": "3- Ícone de Prédio Médio",
+  "auto": "local/hy-mt2"
  },
  "modEnum10117EnumName4": {
   "ch": "4-大型建筑图标",
   "en": "4- Big Building Icon",
-  "pt": ""
+  "pt": "4- Ícone de Prédio Grande",
+  "auto": "local/hy-mt2"
  },
  "modEnum10118EnumName1": {
   "ch": "1-小宗门",
   "en": "1- Minor Sect",
-  "pt": ""
+  "pt": "1- Seita Menor",
+  "auto": "local/hy-mt2"
  },
  "modEnum10118EnumName2": {
   "ch": "2-小型宗门",
   "en": "2- Small Sect",
-  "pt": ""
+  "pt": "2- Seita Pequena",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10118EnumName3": {
   "ch": "3-中型宗门",
   "en": "3- Medium Sect",
-  "pt": ""
+  "pt": "3- Seita Média",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10118EnumName4": {
   "ch": "4-大型宗门",
   "en": "4- Large Sect",
-  "pt": ""
+  "pt": "4- Seita Grande",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10119EnumName0": {
   "ch": "0-散修",
   "en": "0- Rogue Cultivator",
-  "pt": ""
+  "pt": "0 - Cultivador Errante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10119EnumName1": {
   "ch": "1-加入宗门",
   "en": "1- Join Sect",
-  "pt": ""
+  "pt": "1- Entrar para a Seita",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "modEnum10120EnumName1": {
   "ch": "1-相同宗门",
   "en": "1- Same sect",
-  "pt": ""
+  "pt": "1- Mesma seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName11": {
   "ch": "11-两人不在同一宗门",
   "en": "11- Not in the same sect",
-  "pt": ""
+  "pt": "11- Não pertencem à mesma seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName12": {
   "ch": "12-友好宗门",
   "en": "12- Friendly Sect",
-  "pt": ""
+  "pt": "12- Seita Amigável",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName2": {
   "ch": "2-不同宗门但立场相同",
   "en": "2- Different sect, same faction",
-  "pt": ""
+  "pt": "2- Seita diferente, mesma facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName3": {
   "ch": "3-不同宗门且立场不同",
   "en": "3- Different sect, different faction",
-  "pt": ""
+  "pt": "3- Seita diferente, facção diferente",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName4": {
   "ch": "4-敌对宗门",
   "en": "4- Enemy sect",
-  "pt": ""
+  "pt": "4- Seita inimiga",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName5": {
   "ch": "5-不同宗门，不判定立场",
   "en": "5- Different sect, no faction determiner",
-  "pt": ""
+  "pt": "5- Seita diferente; nenhum determinador de facção",
+  "auto": "local/hy-mt2"
  },
  "modEnum10120EnumName6": {
   "ch": "6-其它",
   "en": "6- Others",
-  "pt": ""
+  "pt": "6- Outros",
+  "auto": "local/hy-mt2"
  },
  "modEnum10121EnumName1": {
   "ch": "1-繁荣度",
   "en": "1- Prosperity",
-  "pt": ""
+  "pt": "1- Prosperidade",
+  "auto": "local/hy-mt2"
  },
  "modEnum10121EnumName2": {
   "ch": "2-记名弟子数量",
   "en": "2- No. of Backup Disciples",
-  "pt": ""
+  "pt": "2- Número de Discípulos de reserva",
+  "auto": "local/hy-mt2"
  },
  "modEnum10122EnumName0": {
   "ch": "0-随机路线",
   "en": "0-Random Route",
-  "pt": ""
+  "pt": "0-Rota Aleatória",
+  "auto": "local/hy-mt2"
  },
  "modEnum10122EnumName1": {
   "ch": "1-从下往上走一条直线",
   "en": "1-Straight Line Upward",
-  "pt": ""
+  "pt": "1 - Linha reta para cima",
+  "auto": "local/hy-mt2"
  },
  "modEnum10122EnumName2": {
   "ch": "2-从上往下走一条直线",
   "en": "2-Straight Line Downward",
-  "pt": ""
+  "pt": "2 - Linha reta para baixo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10122EnumName3": {
   "ch": "3-从左往右走一条直线",
   "en": "3-Straight Line Rightward",
-  "pt": ""
+  "pt": "3 - Linha reta para a direita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10122EnumName4": {
   "ch": "4-从右往左走一条直线",
   "en": "4-Straight Line Leftward",
-  "pt": ""
+  "pt": "4 - Linha reta para a esquerda",
+  "auto": "local/hy-mt2"
  },
  "modEnum10123EnumName0": {
   "ch": "0-不可在副本内逃跑",
   "en": "0-Escape not allowed in dungeon",
-  "pt": ""
+  "pt": "0 - Fugas não são permitidas na masmorra",
+  "auto": "local/hy-mt2"
  },
  "modEnum10123EnumName1": {
   "ch": "1-可以在副本内逃跑",
   "en": "1-Escape allowed in dungeon",
-  "pt": ""
+  "pt": "1 - Fuga permitida na masmorra",
+  "auto": "local/hy-mt2"
  },
  "modEnum10124EnumName1": {
   "ch": "1-击杀BOSS",
   "en": "1-Kill BOSS",
-  "pt": ""
+  "pt": "1-Mate o Chefe",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10124EnumName2": {
   "ch": "2-击杀所有怪物",
   "en": "2-Kill all monsters",
-  "pt": ""
+  "pt": "2 - Mate todos os monstros",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "modEnum10124EnumName3": {
   "ch": "3-达到副本时间限制",
   "en": "3-Dungeon time up",
-  "pt": ""
+  "pt": "3 - Tempo da masmorra esgotado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 30 > 23 caracteres"
+  ]
  },
  "modEnum10125EnumName0": {
   "ch": "0-无失败条件",
   "en": "0-None",
-  "pt": ""
+  "pt": "0 - Nenhum",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "modEnum10125EnumName1": {
   "ch": "1-玩家死亡",
   "en": "1-Player dies",
-  "pt": ""
+  "pt": "1 - O jogador morre",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "modEnum10125EnumName4": {
   "ch": "4-超出副本时间限制",
   "en": "4-Dungeon time up",
-  "pt": ""
+  "pt": "4-Tempo da masmorra esgotado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 23 caracteres"
+  ]
  },
  "modEnum10127EnumName_0": {
   "ch": "0-境界最高",
   "en": "0-Highest Realm",
-  "pt": ""
+  "pt": "0 - Reino mais elevado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "modEnum10127EnumName_1": {
   "ch": "1-境界最低",
   "en": "1-Lowest Realm",
-  "pt": ""
+  "pt": "1 - Reino mais baixo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "modEnum10127EnumName_10": {
   "ch": "10-声望最高",
   "en": "10-Highest Reputation",
-  "pt": ""
+  "pt": "10 - Maior Reputação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10127EnumName_11": {
   "ch": "11-声望最低",
   "en": "11-Lowest Reputation",
-  "pt": ""
+  "pt": "11 - Menor Reputação",
+  "auto": "local/hy-mt2"
  },
  "modEnum10127EnumName_2": {
   "ch": "2-身份最高",
   "en": "2-Highest Position",
-  "pt": ""
+  "pt": "2 - Posição mais alta",
+  "auto": "local/hy-mt2"
  },
  "modEnum10127EnumName_3": {
   "ch": "3-身份最低",
   "en": "3-Lowest Position",
-  "pt": ""
+  "pt": "3 - Posição mais baixa",
+  "auto": "local/hy-mt2"
  },
  "modEnum10127EnumName_4": {
   "ch": "4-年龄最大",
   "en": "4-Oldest",
-  "pt": ""
+  "pt": "4 - O mais velho",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 11 caracteres"
+  ]
  },
  "modEnum10127EnumName_5": {
   "ch": "5-年龄最小",
   "en": "5-Youngest",
-  "pt": ""
+  "pt": "5 - O mais jovem",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "modEnum10127EnumName_6": {
   "ch": "6-地理位置上离我最近",
   "en": "6-Nearest",
-  "pt": ""
+  "pt": "6 - O mais próximo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 12 caracteres"
+  ]
  },
  "modEnum10127EnumName_7": {
   "ch": "7-地理位置上离我最远",
   "en": "7-Farthest",
-  "pt": ""
+  "pt": "7 - O mais distante",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 13 caracteres"
+  ]
  },
  "modEnum10127EnumName_8": {
   "ch": "8-魅力值最高",
   "en": "8-Highest Charisma",
-  "pt": ""
+  "pt": "8 - Maior Carisma",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10127EnumName_9": {
   "ch": "9-魅力值最低",
   "en": "9-Lowest Charisma",
-  "pt": ""
+  "pt": "9 - Menor Carisma",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10128EnumName_0": {
   "ch": "0-当前体力",
   "en": "0-Current Vitality",
-  "pt": ""
+  "pt": "0-Vitalidade atual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10128EnumName_1": {
   "ch": "1-当前精力",
   "en": "1-Current Stamina",
-  "pt": ""
+  "pt": "1 - Vigor atual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10128EnumName_2": {
   "ch": "2-当前健康",
   "en": "2-Current Health",
-  "pt": ""
+  "pt": "2 - Saúde atual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10129EnumName0": {
   "ch": "0-没有器灵",
   "en": "0-Without Artifact Spirit",
-  "pt": ""
+  "pt": "0 - Sem Espírito do Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum10129EnumName1": {
   "ch": "1-有器灵",
   "en": "1-With Artifact Spirit",
-  "pt": ""
+  "pt": "1 - Com o Espírito do Artefato",
+  "auto": "local/hy-mt2"
  },
  "modEnum1012EnumName0": {
   "ch": "0-不限类型",
   "en": "0- No type limit",
-  "pt": ""
+  "pt": "0- Sem limite de tipo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10130EnumName0": {
   "ch": "0-是任意宗门的资源点",
   "en": "0-Resource point of any Sect",
-  "pt": ""
+  "pt": "0 - Ponto de recurso de qualquer Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10130EnumName1": {
   "ch": "1-是我宗门的资源点",
   "en": "1-Resource point of your Sect",
-  "pt": ""
+  "pt": "1 - Ponto de recurso da sua Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10130EnumName2": {
   "ch": "2-是其他宗门的资源点",
   "en": "2-Resource point of another Sect",
-  "pt": ""
+  "pt": "2 - Ponto de recurso de outra Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum10130EnumName3": {
   "ch": "3-是玩家身上掠夺任务的目标资源点",
   "en": "3-Resource point in the player's raid mission",
-  "pt": ""
+  "pt": "3-Ponto de recurso na missão de incursão do jogador",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10131EnumName101": {
   "ch": "101-XX第一XX",
   "en": "101-XX No.1 XX",
-  "pt": ""
+  "pt": "101-XX Nº 1 XX",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10131EnumName102": {
   "ch": "102-风流XX",
   "en": "102-Charmer XX",
-  "pt": ""
+  "pt": "102-Encantador XX",
+  "auto": "local/hy-mt2"
  },
  "modEnum10131EnumName103": {
   "ch": "103-XX魁首",
   "en": "103-XX Champion",
-  "pt": ""
+  "pt": "103-XX Campeão",
+  "auto": "local/hy-mt2"
  },
  "modEnum10131EnumName104": {
   "ch": "104-散财XX",
   "en": "104-Benefactor XX",
-  "pt": ""
+  "pt": "104-Benfeitor XX",
+  "auto": "local/hy-mt2"
  },
  "modEnum10131EnumName105": {
   "ch": "105-霓裳XX",
   "en": "105-Fashion XX",
-  "pt": ""
+  "pt": "105-Moda XX",
+  "auto": "local/hy-mt2"
  },
  "modEnum10131EnumName106": {
   "ch": "106-逍遥XX",
   "en": "106-Carefree XX",
-  "pt": ""
+  "pt": "106-Sem preocupações XX",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "modEnum10131EnumName107": {
   "ch": "107-灵丹XX",
   "en": "107-Elixir XX",
-  "pt": ""
+  "pt": "107-Elixir XX",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum10131EnumName108": {
   "ch": "108-妙器XX",
   "en": "108-Instrument XX",
-  "pt": ""
+  "pt": "108-Instrumento XX",
+  "auto": "local/hy-mt2"
  },
  "modEnum10132EnumName0": {
   "ch": "0-单个道具价值最高",
   "en": "0-Highest item unit price",
-  "pt": ""
+  "pt": "0 - Maior preço unitário do item",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10132EnumName1": {
   "ch": "1-稀有度最高",
   "en": "1-Highest Rarity",
-  "pt": ""
+  "pt": "1 - Raridade máxima",
+  "auto": "local/hy-mt2"
  },
  "modEnum10132EnumName2": {
   "ch": "2-（道具价值*道具数量）数值最高",
   "en": "2-Highest item total price",
-  "pt": ""
+  "pt": "2 - Maior preço total do item",
+  "auto": "local/hy-mt2"
  },
  "modEnum10133EnumName0": {
   "ch": "0-判断境界（会变成一丝元魂）",
   "en": "0-Check Realm (may become Last Breath)",
-  "pt": ""
+  "pt": "0-Verificar Reino (pode se tornar Último Suspiro)",
+  "auto": "local/hy-mt2"
  },
  "modEnum10133EnumName1": {
   "ch": "1-直接死亡（不会变成一丝元魂）",
   "en": "1-Die immediately (never become Last Breath)",
-  "pt": ""
+  "pt": "1 - Morre imediatamente (nunca se torna Último Suspiro)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10134EnumName0": {
   "ch": "一丝元魂",
   "en": "Last Breath",
-  "pt": ""
+  "pt": "Último Suspiro",
+  "auto": "local/hy-mt2"
  },
  "modEnum10134EnumName1": {
   "ch": "死亡",
   "en": "Dead",
-  "pt": ""
+  "pt": "Morto",
+  "auto": "local/hy-mt2"
  },
  "modEnum10135EnumName0": {
   "ch": "普通NPC",
   "en": "Normal NPC",
-  "pt": ""
+  "pt": "NPC normal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10135EnumName1": {
   "ch": "兽潮NPC",
   "en": "Wave of Monsters NPC",
-  "pt": ""
+  "pt": "NPC da Onda de Monstros",
+  "auto": "local/hy-mt2"
  },
  "modEnum10135EnumName2": {
   "ch": "天骄NPC",
   "en": "Heaven-chosen NPC",
-  "pt": ""
+  "pt": "NPC escolhido pelo Céu",
+  "auto": "local/hy-mt2"
  },
  "modEnum10136EnumName10": {
   "ch": "师傅",
   "en": "Master",
-  "pt": ""
+  "pt": "Mestre",
+  "auto": "local/hy-mt2"
  },
  "modEnum10136EnumName11": {
   "ch": "徒弟",
   "en": "Apprentice",
-  "pt": ""
+  "pt": "Aprendiz",
+  "auto": "local/hy-mt2"
  },
  "modEnum10136EnumName5": {
   "ch": "义分母",
   "en": "Adoptive Parent",
-  "pt": ""
+  "pt": "Pais Adotivos",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum10136EnumName6": {
   "ch": "义子女",
   "en": "Adoptive Child",
-  "pt": ""
+  "pt": "Filho adotivo",
+  "auto": "local/hy-mt2"
  },
  "modEnum10136EnumName7": {
   "ch": "义兄弟",
   "en": "Sworn Sibling",
-  "pt": ""
+  "pt": "Irmão juramentado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10136EnumName8": {
   "ch": "夫妻-需要先成为情侣",
   "en": "Spouse - Need to be Couple first",
-  "pt": ""
+  "pt": "Cônjuge - É preciso ser casal primeiro",
+  "auto": "local/hy-mt2"
  },
  "modEnum10136EnumName9": {
   "ch": "情侣",
   "en": "Couple",
-  "pt": ""
+  "pt": "Casal",
+  "auto": "local/hy-mt2"
  },
  "modEnum10137EnumName1": {
   "ch": "脚下的宗门",
   "en": "Sect at the current location",
-  "pt": ""
+  "pt": "Seita no local atual",
+  "auto": "local/hy-mt2"
  },
  "modEnum10137EnumName2": {
   "ch": "所属宗门",
   "en": "Sect that joined",
-  "pt": ""
+  "pt": "Seita que se uniu",
+  "auto": "local/hy-mt2"
  },
  "modEnum10138EnumName0": {
   "ch": "0-无条件",
   "en": "0- No conditions",
-  "pt": ""
+  "pt": "0- Sem condições",
+  "auto": "local/hy-mt2"
  },
  "modEnum10138EnumName1": {
   "ch": "1-胜利",
   "en": "1- Win",
-  "pt": ""
+  "pt": "1- Vitória",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "modEnum10138EnumName2": {
   "ch": "2-失败",
   "en": "2- Lose",
-  "pt": ""
+  "pt": "2- Derrota",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum1013EnumName1": {
   "ch": "1-普通",
   "en": "1- Normal",
-  "pt": ""
+  "pt": "1- Normal",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1013EnumName2": {
   "ch": "2-困难",
   "en": "2- Hard",
-  "pt": ""
+  "pt": "2- Difícil",
+  "auto": "local/hy-mt2"
  },
  "modEnum1013EnumName3": {
   "ch": "3-极难",
   "en": "3- Nightmare",
-  "pt": ""
+  "pt": "3- Pesadelo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1013EnumName4": {
   "ch": "4-地狱",
   "en": "4- Hell",
-  "pt": ""
+  "pt": "4- Inferno",
+  "auto": "local/hy-mt2"
  },
  "modEnum1013EnumName5": {
   "ch": "5-洪荒",
   "en": "5- Chaos",
-  "pt": ""
+  "pt": "5- Caos",
+  "auto": "local/hy-mt2"
  },
  "modEnum1014EnumName0": {
   "ch": "0-否",
   "en": "0- False",
-  "pt": ""
+  "pt": "0 - Falso",
+  "auto": "local/hy-mt2"
  },
  "modEnum1014EnumName1": {
   "ch": "1-是",
   "en": "1- True",
-  "pt": ""
+  "pt": "1- Verdadeiro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "modEnum1015EnumName0": {
   "ch": "0-没有",
   "en": "0- No",
-  "pt": ""
+  "pt": "0- Não",
+  "auto": "local/hy-mt2"
  },
  "modEnum1015EnumName1": {
   "ch": "1-有",
   "en": "1- Yes",
-  "pt": ""
+  "pt": "1- Sim",
+  "auto": "local/hy-mt2"
  },
  "modEnum1016EnumName0": {
   "ch": "0-失败",
   "en": "0- Loss",
-  "pt": ""
+  "pt": "0- Perda",
+  "auto": "local/hy-mt2"
  },
  "modEnum1016EnumName1": {
   "ch": "1-胜利",
   "en": "1- Win",
-  "pt": ""
+  "pt": "1- Vitória",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "modEnum1017EnumName1": {
   "ch": "1-灵气",
   "en": "1- Qi",
-  "pt": ""
+  "pt": "1- Qi",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1017EnumName2": {
   "ch": "2-风水",
   "en": "2- Feng Shui",
-  "pt": ""
+  "pt": "2- Feng Shui",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1017EnumName3": {
   "ch": "3-药材",
   "en": "3- Herb",
-  "pt": ""
+  "pt": "3- Erva",
+  "auto": "local/hy-mt2"
  },
  "modEnum1017EnumName4": {
   "ch": "4-金石",
   "en": "4- Ore",
-  "pt": ""
+  "pt": "4- Minério",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "modEnum1018EnumName3": {
   "ch": "3-宗门",
   "en": "3- Sect",
-  "pt": ""
+  "pt": "3- Seita",
+  "auto": "local/hy-mt2"
  },
  "modEnum1018EnumName4": {
   "ch": "4-城镇",
   "en": "4- Town",
-  "pt": ""
+  "pt": "4- Vila",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName1": {
   "ch": "刀",
   "en": "Blade",
-  "pt": ""
+  "pt": "Lâmina",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName11": {
   "ch": "火",
   "en": "Fire",
-  "pt": ""
+  "pt": "Fogo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName12": {
   "ch": "水",
   "en": "Water",
-  "pt": ""
+  "pt": "Água",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName13": {
   "ch": "雷",
   "en": "Lightning",
-  "pt": ""
+  "pt": "Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName14": {
   "ch": "风",
   "en": "Wind",
-  "pt": ""
+  "pt": "Vento",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName15": {
   "ch": "土",
   "en": "Earth",
-  "pt": ""
+  "pt": "Terra",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName16": {
   "ch": "木",
   "en": "Wood",
-  "pt": ""
+  "pt": "Madeira",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName2": {
   "ch": "枪",
   "en": "Spear",
-  "pt": ""
+  "pt": "Lança",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName3": {
   "ch": "剑",
   "en": "Sword",
-  "pt": ""
+  "pt": "Espada",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName4": {
   "ch": "拳",
   "en": "Fist",
-  "pt": ""
+  "pt": "Punho",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName5": {
   "ch": "掌",
   "en": "Palm",
-  "pt": ""
+  "pt": "Palma",
+  "auto": "local/hy-mt2"
  },
  "modEnum1019EnumName6": {
   "ch": "指",
   "en": "Finger",
-  "pt": ""
+  "pt": "Dedo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName1": {
   "ch": "1-刀",
   "en": "1- Blade",
-  "pt": ""
+  "pt": "1- Lâmina",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName11": {
   "ch": "11-火",
   "en": "11- Fire",
-  "pt": ""
+  "pt": "11- Fogo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName12": {
   "ch": "12-水",
   "en": "12- Water",
-  "pt": ""
+  "pt": "12- Água",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName13": {
   "ch": "13-雷",
   "en": "13- Lightning",
-  "pt": ""
+  "pt": "13- Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName14": {
   "ch": "14-风",
   "en": "14- Wind",
-  "pt": ""
+  "pt": "14- Vento",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName15": {
   "ch": "15-土",
   "en": "15- Earth",
-  "pt": ""
+  "pt": "15- Terra",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName16": {
   "ch": "16-木",
   "en": "16- Wood",
-  "pt": ""
+  "pt": "16- Madeira",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName2": {
   "ch": "2-枪",
   "en": "2- Spear",
-  "pt": ""
+  "pt": "2- Lança",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName3": {
   "ch": "3-剑",
   "en": "3- Sword",
-  "pt": ""
+  "pt": "3- Espada",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName4": {
   "ch": "4-拳",
   "en": "4- Fist",
-  "pt": ""
+  "pt": "4- Punho",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName5": {
   "ch": "5-掌",
   "en": "5- Palm",
-  "pt": ""
+  "pt": "5- Palma",
+  "auto": "local/hy-mt2"
  },
  "modEnum1020EnumName6": {
   "ch": "6-指",
   "en": "6- Finger",
-  "pt": ""
+  "pt": "6- Dedo",
+  "auto": "local/hy-mt2"
  },
  "modEnum1021EnumName1": {
   "ch": "1-白源区",
   "en": "1- Bai Yuan",
-  "pt": ""
+  "pt": "1- Bai Yuan",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName10": {
   "ch": "10-赤幽州",
   "en": "10- Chi You",
-  "pt": ""
+  "pt": "10- Chi You",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName2": {
   "ch": "2-永宁州",
   "en": "2- Yong Ning",
-  "pt": ""
+  "pt": "2- Yong Ning",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName3": {
   "ch": "3-雷泽",
   "en": "3- Lei Ze",
-  "pt": ""
+  "pt": "3- Lei Ze",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName4": {
   "ch": "4-华封州",
   "en": "4- Hua Feng",
-  "pt": ""
+  "pt": "4- Hua Feng",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName5": {
   "ch": "5-十万大山",
   "en": "5- Hundred Thousand Hills",
-  "pt": ""
+  "pt": "5- Cem Mil Colinas",
+  "auto": "local/hy-mt2"
  },
  "modEnum1021EnumName6": {
   "ch": "6-云陌州",
   "en": "6- Yun Mo",
-  "pt": ""
+  "pt": "6- Yun Mo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName7": {
   "ch": "7-永恒冰原",
   "en": "7- Everfrost",
-  "pt": ""
+  "pt": "7- Geada Eterna",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "modEnum1021EnumName8": {
   "ch": "8-暮仙州",
   "en": "8- Mu Xian",
-  "pt": ""
+  "pt": "8- Mu Xian",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "modEnum1021EnumName9": {
   "ch": "9-迷途荒漠",
   "en": "9- Wayward Desert",
-  "pt": ""
+  "pt": "9- Deserto Errante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  }
 }

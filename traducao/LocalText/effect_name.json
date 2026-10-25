@@ -2,1016 +2,1379 @@
  "effect_name100": {
   "ch": "身法沉默",
   "en": "身法沉默",
-  "pt": ""
+  "pt": "Silêncio do Corpo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name100006": {
   "ch": "蛇毒",
   "en": "蛇毒",
-  "pt": ""
+  "pt": "Veneno de Cobra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name1000061": {
   "ch": "蛇毒伤害",
   "en": "蛇毒伤害",
-  "pt": ""
+  "pt": "Dano de Veneno de Cobra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name100007": {
   "ch": "蜘蛛毒",
   "en": "蜘蛛毒",
-  "pt": ""
+  "pt": "Veneno de Aranha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name100061": {
   "ch": "蛇毒",
   "en": "Snake Venom",
-  "pt": ""
+  "pt": "Veneno de Cobra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name100071": {
   "ch": "蜘蛛毒",
   "en": "Spider Venom",
-  "pt": ""
+  "pt": "Veneno de Aranha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name10591": {
   "ch": "撕天",
   "en": "撕天",
-  "pt": ""
+  "pt": "Rasgar os Céus",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name10601": {
   "ch": "破魂",
   "en": "破魂",
-  "pt": ""
+  "pt": "Quebra de Alma",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name10611": {
   "ch": "汲魂",
   "en": "汲魂",
-  "pt": ""
+  "pt": "Drenagem de Alma",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name10621": {
   "ch": "汲灵",
   "en": "汲灵",
-  "pt": ""
+  "pt": "Drenagem de Espírito",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name10631": {
   "ch": "暴戾",
   "en": "暴戾",
-  "pt": ""
+  "pt": "Violência",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name10641": {
   "ch": "嗜血",
   "en": "嗜血",
-  "pt": ""
+  "pt": "Sede de {Blood|Sangue}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "effect_name10651": {
   "ch": "横扫",
   "en": "横扫",
-  "pt": ""
+  "pt": "Varrida",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name110": {
   "ch": "死亡",
   "en": "死亡",
-  "pt": ""
+  "pt": "Morte",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name110015": {
   "ch": "威压",
   "en": "Coercion",
-  "pt": ""
+  "pt": "Coerção",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name110016": {
   "ch": "血池",
   "en": "Blood Pool",
-  "pt": ""
+  "pt": "Poço de {Blood|Sangue}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false",
+   "largura: 22 > 13 caracteres"
+  ]
  },
  "effect_name120": {
   "ch": "霸体",
   "en": "霸体",
-  "pt": ""
+  "pt": "Corpo Dominador",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name130": {
   "ch": "无敌",
   "en": "无敌",
-  "pt": ""
+  "pt": "Invencível",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name140": {
   "ch": "失控",
   "en": "失控",
-  "pt": ""
+  "pt": "Fora de Controle",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name141": {
   "ch": "识灵护体",
   "en": "Spirit of Inspiration",
-  "pt": ""
+  "pt": "{Spirit|Espírito} da Inspiração",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "effect_name200006": {
   "ch": "老树回血",
   "en": "老树回血",
-  "pt": ""
+  "pt": "Regeneração da Árvore Antiga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name2000061": {
   "ch": "回血效果",
   "en": "回血效果",
-  "pt": ""
+  "pt": "Efeito de Regeneração",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name2000071": {
   "ch": "老树晕眩",
   "en": "老树晕眩",
-  "pt": ""
+  "pt": "Atordoamento da Árvore Antiga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name2000072": {
   "ch": "老树虚弱",
   "en": "老树虚弱",
-  "pt": ""
+  "pt": "Fraqueza da Árvore Antiga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name2730014": {
   "ch": "玄龟护甲",
   "en": "Xuangui Shell",
-  "pt": ""
+  "pt": "Carapaça de Xuangui",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "effect_name2730015": {
   "ch": "玄龟护甲（冷却中）",
   "en": "Xuangui Shell (On Cooldown)",
-  "pt": ""
+  "pt": "Carapaça de Xuangui (Em Recarga)",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name275031": {
   "ch": "重明冲击",
   "en": "Chongming Charge",
-  "pt": ""
+  "pt": "Carga de Chongming",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name2750311": {
   "ch": "重明冲击（冷却中）",
   "en": "Chongming Charge (On Cooldown)",
-  "pt": ""
+  "pt": "Carga de Chongming (Em Recarga)",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name282310": {
   "ch": "自食其果",
   "en": "Bitter Harvest",
-  "pt": ""
+  "pt": "Colheita Amarga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name300001": {
   "ch": "烈火",
   "en": "烈火",
-  "pt": ""
+  "pt": "Fogo Furioso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3000011": {
   "ch": "烈火伤害",
   "en": "烈火伤害",
-  "pt": ""
+  "pt": "Dano de Fogo Furioso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name31011": {
   "ch": "燃烧",
   "en": "燃烧",
-  "pt": ""
+  "pt": "Combustão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name31021": {
   "ch": "燃烧",
   "en": "燃烧",
-  "pt": ""
+  "pt": "Combustão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name31031": {
   "ch": "爆发",
   "en": "爆发",
-  "pt": ""
+  "pt": "Explosão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3115111": {
   "ch": "剑气",
   "en": "剑气",
-  "pt": ""
+  "pt": "Energia da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3116111": {
   "ch": "剑心",
   "en": "剑心",
-  "pt": ""
+  "pt": "Coração da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3117111": {
   "ch": "剑气",
   "en": "剑气",
-  "pt": ""
+  "pt": "Energia da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3117211": {
   "ch": "剑心",
   "en": "剑心",
-  "pt": ""
+  "pt": "Coração da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name312111": {
   "ch": "血刃",
   "en": "Blood Blade",
-  "pt": ""
+  "pt": "Lâmina de Sangue",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "effect_name312112": {
   "ch": "绝情",
   "en": "Ruthless",
-  "pt": ""
+  "pt": "Impiedoso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name313111": {
   "ch": "破甲",
   "en": "Break Armor",
-  "pt": ""
+  "pt": "Quebra de Armadura",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "effect_name313112": {
   "ch": "破势",
   "en": "Destruction",
-  "pt": ""
+  "pt": "Destruição",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3141112": {
   "ch": "流血",
   "en": "Bleed",
-  "pt": ""
+  "pt": "Sangramento",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 11 > 8 caracteres"
+  ]
  },
  "effect_name3141114": {
   "ch": "割裂",
   "en": "Rip",
-  "pt": ""
+  "pt": "Laceração",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 9 > 6 caracteres"
+  ]
  },
  "effect_name314112": {
   "ch": "剑斩",
   "en": "Sword Slash",
-  "pt": ""
+  "pt": "Corte de Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name315111": {
   "ch": "碎骨",
   "en": "Bone Fracture",
-  "pt": ""
+  "pt": "Fratura Óssea",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name315112": {
   "ch": "铜皮",
   "en": "Brass Skin",
-  "pt": ""
+  "pt": "Pele de Bronze",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "effect_name3151121": {
   "ch": "护盾",
   "en": "Shield",
-  "pt": ""
+  "pt": "Escudo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name316111": {
   "ch": "内伤",
   "en": "Internal Injury",
-  "pt": ""
+  "pt": "Ferimento Interno",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name316112": {
   "ch": "内劲",
   "en": "Internal Strength",
-  "pt": ""
+  "pt": "Força Interna",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3161123": {
   "ch": "掌风",
   "en": "Palm Wind",
-  "pt": ""
+  "pt": "Vento da Palma",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "effect_name317111": {
   "ch": "内虚",
   "en": "Inner Emptiness",
-  "pt": ""
+  "pt": "Vazio Interior",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name317112": {
   "ch": "开脉",
   "en": "Unsealed Meridians",
-  "pt": ""
+  "pt": "Meridianos Desbloqueados",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3171123": {
   "ch": "封脉",
   "en": "Sealed Meridians",
-  "pt": ""
+  "pt": "Meridianos Selados",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name32011": {
   "ch": "寒霜",
   "en": "寒霜",
-  "pt": ""
+  "pt": "Geada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name32021": {
   "ch": "霜刺",
   "en": "霜刺",
-  "pt": ""
+  "pt": "Agulhada de Geada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name32031": {
   "ch": "灵蕴",
   "en": "灵蕴",
-  "pt": ""
+  "pt": "Essência Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3220011": {
   "ch": "击破",
   "en": "Shattered",
-  "pt": ""
+  "pt": "Despedaçado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3220021": {
   "ch": "裂魂",
   "en": "Soul Break",
-  "pt": ""
+  "pt": "Quebra de Alma",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "effect_name3220031": {
   "ch": "裂魂",
   "en": "Soul Break",
-  "pt": ""
+  "pt": "Quebra de Alma",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "effect_name3221111": {
   "ch": "吸血",
   "en": "Leech",
-  "pt": ""
+  "pt": "Suga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3221132": {
   "ch": "斩杀吸血",
   "en": "Leech on Execute",
-  "pt": ""
+  "pt": "Suga em Execução",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3221153": {
   "ch": "邪刃",
   "en": "Felblade",
-  "pt": ""
+  "pt": "Lâmina Vil",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3221161": {
   "ch": "横扫",
   "en": "Swipe",
-  "pt": ""
+  "pt": "Varrida",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3230011": {
   "ch": "撕裂",
   "en": "Rend",
-  "pt": ""
+  "pt": "Lacerar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3230021": {
   "ch": "溃痕",
   "en": "Scar",
-  "pt": ""
+  "pt": "Cicatriz",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "effect_name3230031": {
   "ch": "溃痕",
   "en": "Scar",
-  "pt": ""
+  "pt": "Cicatriz",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "effect_name3231126": {
   "ch": "充能",
   "en": "Recharging",
-  "pt": ""
+  "pt": "Recarregando",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3231141": {
   "ch": "啸龙破",
   "en": "Roaring Dragon Rising",
-  "pt": ""
+  "pt": "Ascensão do Dragão Rugidor",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3231163": {
   "ch": "龙击",
   "en": "龙击",
-  "pt": ""
+  "pt": "Golpe do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3250023": {
   "ch": "失魂",
   "en": "Panic",
-  "pt": ""
+  "pt": "Pânico",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3250033": {
   "ch": "失魂",
   "en": "Panic",
-  "pt": ""
+  "pt": "Pânico",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3251144": {
   "ch": "防御提升",
   "en": "DEF Up",
-  "pt": ""
+  "pt": "DEF Aumentada",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 13 > 9 caracteres"
+  ]
  },
  "effect_name3261134": {
   "ch": "威力降级",
   "en": "Power Down",
-  "pt": ""
+  "pt": "Poder Reduzido",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "effect_name3261135": {
   "ch": "蓄力",
   "en": "Charge",
-  "pt": ""
+  "pt": "Carga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3261136": {
   "ch": "蓄力",
   "en": "Charge",
-  "pt": ""
+  "pt": "Carga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name33011": {
   "ch": "天诛",
   "en": "天诛",
-  "pt": ""
+  "pt": "Castigo Celestial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name33021": {
   "ch": "雷震",
   "en": "雷震",
-  "pt": ""
+  "pt": "Choque de Trovão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name33031": {
   "ch": "神威",
   "en": "神威",
-  "pt": ""
+  "pt": "Majestade Divina",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3310011": {
   "ch": "熔甲",
   "en": "Melted Armor",
-  "pt": ""
+  "pt": "Armadura Derretida",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "effect_name3310023": {
   "ch": "浴火",
   "en": "Trial by Fire",
-  "pt": ""
+  "pt": "Prova de Fogo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3310033": {
   "ch": "浴火",
   "en": "Trial by Fire",
-  "pt": ""
+  "pt": "Prova de Fogo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3321111": {
   "ch": "魔化",
   "en": "Demonize",
-  "pt": ""
+  "pt": "Demonizar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3321112": {
   "ch": "灭神斩",
   "en": "Deicide Cleave",
-  "pt": ""
+  "pt": "Corte Deicida",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3321113": {
   "ch": "魔刃斩",
   "en": "Demonic Cleave",
-  "pt": ""
+  "pt": "Corte Demoníaca",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3321122": {
   "ch": "霸道",
   "en": "Overbearing",
-  "pt": ""
+  "pt": "Dominador",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3331114": {
   "ch": "龙魂",
   "en": "Dragon Soul",
-  "pt": ""
+  "pt": "Alma do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3341124": {
   "ch": "剑魂",
   "en": "Sword Soul",
-  "pt": ""
+  "pt": "Alma da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "effect_name3351124": {
   "ch": "沸血",
   "en": "Boiling Blood",
-  "pt": ""
+  "pt": "Sangue Fervente",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3361113": {
   "ch": "归神",
   "en": "Eternal Rest",
-  "pt": ""
+  "pt": "Descanso Eterno",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3371112": {
   "ch": "灵虚",
   "en": "Spiritual Burst",
-  "pt": ""
+  "pt": "Rajada Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name34011": {
   "ch": "狂风",
   "en": "狂风",
-  "pt": ""
+  "pt": "Vendaval",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name34021": {
   "ch": "风暴",
   "en": "风暴",
-  "pt": ""
+  "pt": "Tempestade",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name34031": {
   "ch": "凝神",
   "en": "凝神",
-  "pt": ""
+  "pt": "Foco Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name341111": {
   "ch": "灼烧",
   "en": "Scorch",
-  "pt": ""
+  "pt": "Queimadura",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "effect_name341112": {
   "ch": "燃魂",
   "en": "Burning Soul",
-  "pt": ""
+  "pt": "Alma Ardente",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3411131": {
   "ch": "透支",
   "en": "Extended Duration",
-  "pt": ""
+  "pt": "Duração Estendida",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3411136": {
   "ch": "虚弱",
   "en": "Weakened",
-  "pt": ""
+  "pt": "Enfraquecido",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "effect_name342111": {
   "ch": "寒霜",
   "en": "Frost",
-  "pt": ""
+  "pt": "Geada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3421113": {
   "ch": "冻结",
   "en": "Freeze",
-  "pt": ""
+  "pt": "Congelamento",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 12 > 9 caracteres"
+  ]
  },
  "effect_name342112": {
   "ch": "灵涌",
   "en": "Energy Surge",
-  "pt": ""
+  "pt": "Surto de Energia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name342113": {
   "ch": "爆灵湖",
   "en": "Energy Pond",
-  "pt": ""
+  "pt": "Lago de Energia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name342114": {
   "ch": "蓄力",
   "en": "Charge",
-  "pt": ""
+  "pt": "Carga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name343111": {
   "ch": "乱流",
   "en": "Chaotic Lightning",
-  "pt": ""
+  "pt": "Relâmpago Caótico",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3431112": {
   "ch": "麻痹",
   "en": "Paralyze",
-  "pt": ""
+  "pt": "Paralisia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name343112": {
   "ch": "雷涌",
   "en": "Lightning Surge",
-  "pt": ""
+  "pt": "Surto de Relâmpago",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name344111": {
   "ch": "逆风",
   "en": "Headwind",
-  "pt": ""
+  "pt": "Vento Contrário",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 11 caracteres"
+  ]
  },
  "effect_name344112": {
   "ch": "灵风",
   "en": "Spiritual Wind",
-  "pt": ""
+  "pt": "Vento Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name345111": {
   "ch": "震岩",
   "en": "Rumblerock",
-  "pt": ""
+  "pt": "Rocha Retumbante",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "effect_name345112": {
   "ch": "石肤",
   "en": "Stone Skin",
-  "pt": ""
+  "pt": "Pele de Pedra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name346111": {
   "ch": "毒刺",
   "en": "Poisonous Thorn",
-  "pt": ""
+  "pt": "Espinho Venenoso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name346112": {
   "ch": "花灵",
   "en": "Flower Spirit",
-  "pt": ""
+  "pt": "Espírito da Flor",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3461128": {
   "ch": "小花妖",
   "en": "Small Flower Faerie",
-  "pt": ""
+  "pt": "Pequena Fada das Flores",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name35011": {
   "ch": "破甲",
   "en": "破甲",
-  "pt": ""
+  "pt": "Quebra de Armadura",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name35021": {
   "ch": "山崩",
   "en": "山崩",
-  "pt": ""
+  "pt": "Desmoronamento",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name35031": {
   "ch": "磐石",
   "en": "磐石",
-  "pt": ""
+  "pt": "Rocha Firme",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3551125": {
   "ch": "土傀儡",
   "en": "Earth Golem",
-  "pt": ""
+  "pt": "Golem de Terra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3561113": {
   "ch": "缠绕",
   "en": "Entangle",
-  "pt": ""
+  "pt": "Emaranhar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3561124": {
   "ch": "活元",
   "en": "Primal Energy",
-  "pt": ""
+  "pt": "Energia Primordial",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "effect_name3561144": {
   "ch": "活灵",
   "en": "Floral Spirit",
-  "pt": ""
+  "pt": "Espírito Vital",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3561154": {
   "ch": "毒粉",
   "en": "Poisonous Powder",
-  "pt": ""
+  "pt": "Pó Venenoso",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3561163": {
   "ch": "活力",
   "en": "Thorny Spirit",
-  "pt": ""
+  "pt": "Espírito Espinhoso",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "effect_name36011": {
   "ch": "枯萎",
   "en": "枯萎",
-  "pt": ""
+  "pt": "Murchamento",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name36021": {
   "ch": "凋零",
   "en": "凋零",
-  "pt": ""
+  "pt": "Decaimento",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name36031": {
   "ch": "复苏",
   "en": "复苏",
-  "pt": ""
+  "pt": "Revivificação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3611122": {
   "ch": "火神",
   "en": "Fire Deity",
-  "pt": ""
+  "pt": "Divindade do Fogo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "effect_name3621112": {
   "ch": "冰眼",
   "en": "Icy Eye",
-  "pt": ""
+  "pt": "Olhar Gélido",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "effect_name3631112": {
   "ch": "天雷",
   "en": "Lightning",
-  "pt": ""
+  "pt": "Relâmpago",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3641112": {
   "ch": "风神",
   "en": "Wind God",
-  "pt": ""
+  "pt": "Divindade do Vento",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "effect_name3641124": {
   "ch": "逆空",
   "en": "Bullet Time",
-  "pt": ""
+  "pt": "Tempo de Bala",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3651122": {
   "ch": "巨灵傀儡",
   "en": "Spirit Giant Golem",
-  "pt": ""
+  "pt": "Golem Gigante de Espírito",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "effect_name3661112": {
   "ch": "毒灵",
   "en": "Erosive Poison",
-  "pt": ""
+  "pt": "Veneno Erosivo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3661113": {
   "ch": "吞噬",
   "en": "Devour",
-  "pt": ""
+  "pt": "Devorar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3661119": {
   "ch": "毒龙花",
   "en": "Poisonous Dragon Flower",
-  "pt": ""
+  "pt": "Flor do Dragão Venenosa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name3661124": {
   "ch": "花妖后",
   "en": "Flower Faerie Queen",
-  "pt": ""
+  "pt": "Rainha Fada das Flores",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name38006103": {
   "ch": "凛风绝影",
   "en": "Wind Shadow",
-  "pt": ""
+  "pt": "Sombra do Vento",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name39000026": {
   "ch": "永灼之火",
   "en": "Ever-burning Fire",
-  "pt": ""
+  "pt": "Fogo Eterno",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name39000803": {
   "ch": "灵霄矫翔",
   "en": "Swift Flight",
-  "pt": ""
+  "pt": "Voo Rápido",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4100001": {
   "ch": "小体力丹",
   "en": "小体力丹",
-  "pt": ""
+  "pt": "Pequena Poção de Vigor",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4100002": {
   "ch": "大体力丹",
   "en": "大体力丹",
-  "pt": ""
+  "pt": "Grande Poção de Vigor",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4100003": {
   "ch": "小灵力丹",
   "en": "小灵力丹",
-  "pt": ""
+  "pt": "Pequena Pílula de Poder Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4100004": {
   "ch": "大灵力丹",
   "en": "大灵力丹",
-  "pt": ""
+  "pt": "Grande Pílula de Poder Espiritual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4100005": {
   "ch": "攻击丹",
   "en": "攻击丹",
-  "pt": ""
+  "pt": "Pílula de ATQ",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4100006": {
   "ch": "防御丹",
   "en": "防御丹",
-  "pt": ""
+  "pt": "Pílula de DEF",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name4400112": {
   "ch": "攻击力提升",
   "en": "ATK Up",
-  "pt": ""
+  "pt": "Aumento de ATQ",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4400122": {
   "ch": "攻击力提升",
   "en": "ATK Up",
-  "pt": ""
+  "pt": "Aumento de ATQ",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4400132": {
   "ch": "攻击力提升",
   "en": "ATK Up",
-  "pt": ""
+  "pt": "Aumento de ATQ",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4400152": {
   "ch": "攻击力提升",
   "en": "ATK Up",
-  "pt": ""
+  "pt": "Aumento de ATQ",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4500112": {
   "ch": "防御力提升",
   "en": "DEF Up",
-  "pt": ""
+  "pt": "Aumento de DEF",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4500122": {
   "ch": "防御力提升",
   "en": "DEF Up",
-  "pt": ""
+  "pt": "Aumento de DEF",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4500132": {
   "ch": "防御力提升",
   "en": "DEF Up",
-  "pt": ""
+  "pt": "Aumento de DEF",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name4500142": {
   "ch": "防御力提升",
   "en": "DEF Up",
-  "pt": ""
+  "pt": "Aumento de DEF",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 9 caracteres"
+  ]
  },
  "effect_name47011": {
   "ch": "灼烧",
   "en": "Scorch",
-  "pt": ""
+  "pt": "Queimadura",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 10 > 9 caracteres"
+  ]
  },
  "effect_name47021": {
   "ch": "极寒",
   "en": "Arctic",
-  "pt": ""
+  "pt": "Ártico",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name47061": {
   "ch": "剧毒",
   "en": "Toxic Poison",
-  "pt": ""
+  "pt": "Veneno Tóxico",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name49001": {
   "ch": "身法效果",
   "en": "身法效果",
-  "pt": ""
+  "pt": "Efeito de Movimento",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name49002": {
   "ch": "身法效果",
   "en": "身法效果",
-  "pt": ""
+  "pt": "Efeito de Movimento",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name70002713": {
   "ch": "青帝遗录冷却中",
   "en": "Emperor's Legacy - Cooldown",
-  "pt": ""
+  "pt": "Legado do Imperador - Recarga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name7000391": {
   "ch": "红尘",
   "en": "Sword Shadow",
-  "pt": ""
+  "pt": "Sombra da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name7000401": {
   "ch": "归一",
   "en": "Ward",
-  "pt": ""
+  "pt": "Unificação",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 10 > 7 caracteres"
+  ]
  },
  "effect_name7000411": {
   "ch": "星耀",
   "en": "Starshine",
-  "pt": ""
+  "pt": "Brilho Estelar",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "effect_name7000571": {
   "ch": "红尘",
   "en": "Sword Shadow",
-  "pt": ""
+  "pt": "Sombra da Espada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name7000581": {
   "ch": "归一",
   "en": "Ward",
-  "pt": ""
+  "pt": "Guarda",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name7000591": {
   "ch": "星耀",
   "en": "Starshine",
-  "pt": ""
+  "pt": "Brilho Estelar",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "effect_name70013043": {
   "ch": "幻灵锅",
   "en": "Mirage Pot",
-  "pt": ""
+  "pt": "Pote da Miragem",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "effect_name70013046": {
   "ch": "幻灵锅",
   "en": "Mirage Pot",
-  "pt": ""
+  "pt": "Pote da Miragem",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "effect_name70013049": {
   "ch": "幻灵锅",
   "en": "Mirage Pot",
-  "pt": ""
+  "pt": "Pote da Miragem",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "effect_name7001531": {
   "ch": "上善",
   "en": "Goodness",
-  "pt": ""
+  "pt": "Bondade",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name7001584": {
   "ch": "杀心",
   "en": "Murderous",
-  "pt": ""
+  "pt": "Intent Assassinato",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 12 caracteres"
+  ]
  },
  "effect_name7001601": {
   "ch": "天外有天",
   "en": "Always Someone Better",
-  "pt": ""
+  "pt": "Sempre Alguém Melhor",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name700169": {
   "ch": "金针刺穴",
   "en": "Golden Needle Point",
-  "pt": ""
+  "pt": "Ponto da Agulha Dourada",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name700174": {
   "ch": "厚德载物",
   "en": "Virtue and Acceptance",
-  "pt": ""
+  "pt": "Virtude e Aceitação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name700175": {
   "ch": "悬壶济世",
   "en": "Medicine for Everyone",
-  "pt": ""
+  "pt": "Medicina para Todos",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name700179": {
   "ch": "追影奇丸",
   "en": "Shadowchase Pill",
-  "pt": ""
+  "pt": "Pílula Perseguidora de Sombras",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 30 > 21 caracteres"
+  ]
  },
  "effect_name7001821": {
   "ch": "天人印",
   "en": "Celestial Seal",
-  "pt": ""
+  "pt": "Selo Celestial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name7001851": {
   "ch": "聚雷",
   "en": "Thundercall",
-  "pt": ""
+  "pt": "Invocação do Trovão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "effect_name8021005": {
   "ch": "起舞天涯",
   "en": "Everlasting Dance",
-  "pt": ""
+  "pt": "Dança Eterna",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name8022006": {
   "ch": "一级轮回指",
   "en": "G1 Boomerang Finger",
-  "pt": ""
+  "pt": "Dedo Bumerangue Nível 1",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name8022007": {
   "ch": "二级轮回指",
   "en": "G2 Boomerang Finger",
-  "pt": ""
+  "pt": "Dedo Bumerangue Nível 2",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name8022008": {
   "ch": "三级轮回指",
   "en": "G3 Boomerang Finger",
-  "pt": ""
+  "pt": "Dedo Bumerangue Nível 3",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name8022012": {
   "ch": "四级轮回指",
   "en": "G4 Boomerang Finger",
-  "pt": ""
+  "pt": "G4 Dedo Bumerangue",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name8022013": {
   "ch": "五级轮回指",
   "en": "G5 Boomerang Finger",
-  "pt": ""
+  "pt": "G5 Dedo Bumerangue",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901101": {
   "ch": "龙腾",
   "en": "Dragon Soar",
-  "pt": ""
+  "pt": "Ascensão do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "effect_name9901102": {
   "ch": "龙鳞",
   "en": "Dragon Scale",
-  "pt": ""
+  "pt": "Escama do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901103": {
   "ch": "龙威",
   "en": "Dragon Majesty",
-  "pt": ""
+  "pt": "Majestade do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901104": {
   "ch": "龙怒",
   "en": "Dragon Raging",
-  "pt": ""
+  "pt": "Fúria do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901111": {
   "ch": "龙血",
   "en": "Dragon Blood",
-  "pt": ""
+  "pt": "Sangue de Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901112": {
   "ch": "龙啸",
   "en": "Dragon Roar",
-  "pt": ""
+  "pt": "Rugido do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "effect_name9901113": {
   "ch": "龙脉",
   "en": "Dragon Vein",
-  "pt": ""
+  "pt": "Veia do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name99011131": {
   "ch": "龙脉护盾",
   "en": "Dragon Vein Shield",
-  "pt": ""
+  "pt": "Escudo da Veia do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901114": {
   "ch": "龙牙",
   "en": "Dragon Tooth",
-  "pt": ""
+  "pt": "Dente do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901121": {
   "ch": "龙魂",
   "en": "Dragon Soul",
-  "pt": ""
+  "pt": "Alma do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901122": {
   "ch": "龙灵",
   "en": "Dragon Spirit",
-  "pt": ""
+  "pt": "Espírito do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "effect_name9901123": {
   "ch": "龙魄",
   "en": "Dragon Lifeforce",
-  "pt": ""
+  "pt": "Essência do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901124": {
   "ch": "龙心",
   "en": "Dragon Heart",
-  "pt": ""
+  "pt": "Coração do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "effect_name9901125": {
   "ch": "龙潜",
   "en": "Dragon Veil",
-  "pt": ""
+  "pt": "Ocultação do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "effect_name9901126": {
   "ch": "龙吟",
   "en": "Dragon Chant",
-  "pt": ""
+  "pt": "Canto do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901127": {
   "ch": "龙附",
   "en": "Dragon Guard",
-  "pt": ""
+  "pt": "Guarda do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901131": {
   "ch": "青龙形态",
   "en": "Azure Dragon Form",
-  "pt": ""
+  "pt": "Forma do Dragão Azul",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901132": {
   "ch": "赤龙形态",
   "en": "Crimson Dragon Form",
-  "pt": ""
+  "pt": "Forma do Dragão Escarlate",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name9901133": {
   "ch": "黄龙形态",
   "en": "Yellow Dragon Form",
-  "pt": ""
+  "pt": "Forma do Dragão Amarelo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "effect_name99011379": {
   "ch": "威势",
   "en": "Awe",
-  "pt": ""
+  "pt": "Impacto",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "effect_name99021219": {
   "ch": "龙魂增强",
   "en": "Dragon Soul Enhancement",
-  "pt": ""
+  "pt": "Aprimoramento da Alma do Dragão",
+  "auto": "cohere/command-a-reasoning-08-2025"
  }
 }

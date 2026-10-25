@@ -2,2481 +2,3814 @@
  "prefixNameS10101": {
   "ch": "锐魂",
   "en": "Refined Soul",
-  "pt": ""
+  "pt": "Alma Refinada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10102": {
   "ch": "精锋",
   "en": "Honed Blade",
-  "pt": ""
+  "pt": "Lâmina Afiada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10103": {
   "ch": "吸气",
   "en": "Vitality Draining",
-  "pt": ""
+  "pt": "Drenagem de Vitalidade",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10104": {
   "ch": "剖海",
   "en": "Blade Mastery",
-  "pt": ""
+  "pt": "Maestria com a Lâmina",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "prefixNameS10105": {
   "ch": "致暴",
   "en": "Enhanced Body",
-  "pt": ""
+  "pt": "Corpo Aprimorado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10106": {
   "ch": "饮魂",
   "en": "Blood Desire",
-  "pt": ""
+  "pt": "Desejo por Sangue",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "prefixNameS10107": {
   "ch": "残锋",
   "en": "Broken Edge",
-  "pt": ""
+  "pt": "Borda Quebrada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10108": {
   "ch": "器用",
   "en": "Cold Steel",
-  "pt": ""
+  "pt": "Aço Frio",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10109": {
   "ch": "体用",
   "en": "Daring Move",
-  "pt": ""
+  "pt": "Movimento Ousado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "prefixNameS10110": {
   "ch": "血战",
   "en": "Blood Bath",
-  "pt": ""
+  "pt": "Banho de Sangue",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "prefixNameS10111": {
   "ch": "煞魔",
   "en": "Demonic Blood",
-  "pt": ""
+  "pt": "Sangue Demoníaco",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10112": {
   "ch": "血花",
   "en": "Chilly Red",
-  "pt": ""
+  "pt": "Vermelho Frio",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10113": {
   "ch": "舐元",
   "en": "Surging Blood",
-  "pt": ""
+  "pt": "Sangue Turbulento",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10114": {
   "ch": "扬威",
   "en": "Formidable",
-  "pt": ""
+  "pt": "Formidável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS102001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS102002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS102003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS102004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS102005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS102006": {
   "ch": "回魂",
   "en": "Restoring",
-  "pt": ""
+  "pt": "Restaurando",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS102007": {
   "ch": "破众",
   "en": "Slashing",
-  "pt": ""
+  "pt": "Cortante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS10201": {
   "ch": "远掷",
   "en": "Aimed Dart",
-  "pt": ""
+  "pt": "Dardo Direcionado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "prefixNameS10202": {
   "ch": "镇岳",
   "en": "Rockshatter",
-  "pt": ""
+  "pt": "Quebrapedras",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10203": {
   "ch": "迅突",
   "en": "Intrepid Dash",
-  "pt": ""
+  "pt": "Investida Intrépida",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "prefixNameS10204": {
   "ch": "灵戟",
   "en": "Spirit Spear",
-  "pt": ""
+  "pt": "Lança do Espírito",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "prefixNameS10205": {
   "ch": "灵屯",
   "en": "Energy Gathering",
-  "pt": ""
+  "pt": "Coleta de Energia",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10206": {
   "ch": "枕戈",
   "en": "Prepared",
-  "pt": ""
+  "pt": "Pronto",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10207": {
   "ch": "龙游",
   "en": "Swift Dragon",
-  "pt": ""
+  "pt": "Dragão Veloz",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10208": {
   "ch": "渊沉",
   "en": "Master Fighter",
-  "pt": ""
+  "pt": "Mestre Lutador",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10209": {
   "ch": "腾蛟",
   "en": "Dragon Rise",
-  "pt": ""
+  "pt": "Ascensão do Dragão",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "prefixNameS103001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS103002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS103003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS103004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS103005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS103006": {
   "ch": "血绽",
   "en": "Bloodbath",
-  "pt": ""
+  "pt": "Banho de Sangue",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "prefixNameS103007": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS103008": {
   "ch": "浴血",
   "en": "Bloodthirsty",
-  "pt": ""
+  "pt": "Sedento de Sangue",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "prefixNameS10301": {
   "ch": "凭虚",
   "en": "Wanderer",
-  "pt": ""
+  "pt": "Andarilho",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10302": {
   "ch": "洞玄",
   "en": "Perception",
-  "pt": ""
+  "pt": "Percepção",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10303": {
   "ch": "灵动",
   "en": "Rapid Action",
-  "pt": ""
+  "pt": "Ação Rápida",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10304": {
   "ch": "裂虚",
   "en": "Rapid Sword",
-  "pt": ""
+  "pt": "Espada Rápida",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10305": {
   "ch": "解幽",
   "en": "Amplified",
-  "pt": ""
+  "pt": "Amplificado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10306": {
   "ch": "殇域",
   "en": "Void Field",
-  "pt": ""
+  "pt": "Domínio do Vazio",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "prefixNameS10307": {
   "ch": "血刃",
   "en": "Blood Blade",
-  "pt": ""
+  "pt": "Lâmina de Sangue",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "prefixNameS10308": {
   "ch": "剑意",
   "en": "Lone Sword",
-  "pt": ""
+  "pt": "Espada Solitária",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "prefixNameS10309": {
   "ch": "漫剑",
   "en": "Wandering Sword",
-  "pt": ""
+  "pt": "Espada Errante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS104001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS104002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS104003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS104004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS104005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS104006": {
   "ch": "血鹰",
   "en": "Blood Dart",
-  "pt": ""
+  "pt": "Dardo de Sangue",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "prefixNameS104007": {
   "ch": "恶极",
   "en": "Murderous",
-  "pt": ""
+  "pt": "Assassino",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS10401": {
   "ch": "无侵",
   "en": "Protected",
-  "pt": ""
+  "pt": "Protegido",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10402": {
   "ch": "激徐",
   "en": "Battle Stance",
-  "pt": ""
+  "pt": "Postura de Batalha",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "prefixNameS10403": {
   "ch": "益元",
   "en": "Melee Fighter",
-  "pt": ""
+  "pt": "Lutador Corpo a Corpo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "prefixNameS10404": {
   "ch": "捣罡",
   "en": "Fist Mastery",
-  "pt": ""
+  "pt": "Domínio do Punho",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10405": {
   "ch": "振威",
   "en": "Resonating Shield",
-  "pt": ""
+  "pt": "Escudo Ressonante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10406": {
   "ch": "玄壁",
   "en": "Arcane Screen",
-  "pt": ""
+  "pt": "Tela Arcana",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS10407": {
   "ch": "重屏",
   "en": "Heavy Shield",
-  "pt": ""
+  "pt": "Escudo Pesado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10408": {
   "ch": "存想",
   "en": "Bare Hand",
-  "pt": ""
+  "pt": "Mãos Nuas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS10409": {
   "ch": "壁元",
   "en": "Walled",
-  "pt": ""
+  "pt": "Murado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10410": {
   "ch": "盾守",
   "en": "Durable Shield",
-  "pt": ""
+  "pt": "Escudo Durável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10411": {
   "ch": "碎星",
   "en": "Shattered Star",
-  "pt": ""
+  "pt": "Estrela Despedaçada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10412": {
   "ch": "壁攻",
   "en": "Offensive Shield",
-  "pt": ""
+  "pt": "Escudo Ofensivo",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10413": {
   "ch": "拳勇",
   "en": "Crowd Battle",
-  "pt": ""
+  "pt": "Batalha de Multidões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "prefixNameS10414": {
   "ch": "陷坚",
   "en": "Unbroken Will",
-  "pt": ""
+  "pt": "Vontade Inabalável",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "prefixNameS10415": {
   "ch": "凝壁",
   "en": "Reflective Shield",
-  "pt": ""
+  "pt": "Escudo Refletor",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10416": {
   "ch": "聚气",
   "en": "Qi Gathering Shield",
-  "pt": ""
+  "pt": "Escudo de Coleta de Qi",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10501": {
   "ch": "霞聚",
   "en": "Bright Cloud",
-  "pt": ""
+  "pt": "Nuvem Brilhante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10502": {
   "ch": "步云",
   "en": "Drifting Fog",
-  "pt": ""
+  "pt": "Névoa Flutuante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS10503": {
   "ch": "云纾",
   "en": "Changing Wind",
-  "pt": ""
+  "pt": "Vento Mutável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10504": {
   "ch": "皇灵",
   "en": "Palm Mastery",
-  "pt": ""
+  "pt": "Domínio da Palma",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10505": {
   "ch": "烟趋",
   "en": "Destructive Injury",
-  "pt": ""
+  "pt": "Lesão Destrutiva",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS10506": {
   "ch": "摧真",
   "en": "Crushing Palm",
-  "pt": ""
+  "pt": "Palma Esmagadora",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10507": {
   "ch": "玄止",
   "en": "Still Stance",
-  "pt": ""
+  "pt": "Postura Estática",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10508": {
   "ch": "弄影",
   "en": "Lone Palm",
-  "pt": ""
+  "pt": "Palma Solitária",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "prefixNameS10509": {
   "ch": "蓄势",
   "en": "Momentum",
-  "pt": ""
+  "pt": "Impulso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS10601": {
   "ch": "骈指",
   "en": "Focused Fingertip",
-  "pt": ""
+  "pt": "Ponta do Dedo Focada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS10602": {
   "ch": "星坠",
   "en": "Shower",
-  "pt": ""
+  "pt": "Aguaceiro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS10603": {
   "ch": "暴灵",
   "en": "Spirit Blast",
-  "pt": ""
+  "pt": "Explosão de Espírito",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "prefixNameS10604": {
   "ch": "指玄",
   "en": "Finger Mastery",
-  "pt": ""
+  "pt": "Domínio dos Dedos",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10605": {
   "ch": "真灵",
   "en": "Genuine Spirit",
-  "pt": ""
+  "pt": "Espírito Autêntico",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10606": {
   "ch": "归玄",
   "en": "Lasting Power",
-  "pt": ""
+  "pt": "Poder Duradouro",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10607": {
   "ch": "栖虚",
   "en": "Lucky Finger",
-  "pt": ""
+  "pt": "Dedo da Sorte",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS10608": {
   "ch": "点星",
   "en": "Starpicker",
-  "pt": ""
+  "pt": "Colhedor de Estrelas",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "prefixNameS1101001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1101002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1101003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1101004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1101005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1101006": {
   "ch": "炙炎",
   "en": "Scorching",
-  "pt": ""
+  "pt": "Escaldante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS1101007": {
   "ch": "灵机",
   "en": "Agile",
-  "pt": ""
+  "pt": "Ágil",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1102001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1102002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1102003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1102004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1102005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1102006": {
   "ch": "血影",
   "en": "Bloodburner",
-  "pt": ""
+  "pt": "Queimador de Sangue",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "prefixNameS1102007": {
   "ch": "凰炎",
   "en": "Eternal",
-  "pt": ""
+  "pt": "Eterno",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1103001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1103002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1103003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1103004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1103005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1103006": {
   "ch": "狂焰",
   "en": "Rapid Flame",
-  "pt": ""
+  "pt": "Chama Rápida",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1103007": {
   "ch": "真焰",
   "en": "Fiery",
-  "pt": ""
+  "pt": "Flamejante",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "prefixNameS11101": {
   "ch": "炙伤",
   "en": "Burnt Scar",
-  "pt": ""
+  "pt": "Cicatriz Queimada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "prefixNameS11102": {
   "ch": "元烬",
   "en": "Glowing Ember",
-  "pt": ""
+  "pt": "Brasa Brilhante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11103": {
   "ch": "玄熠",
   "en": "Brilliant Flame",
-  "pt": ""
+  "pt": "Chama Brilhante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11104": {
   "ch": "烈海",
   "en": "Burning Ocean",
-  "pt": ""
+  "pt": "Oceano em Chamas",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11105": {
   "ch": "燃血",
   "en": "Vitality Burner",
-  "pt": ""
+  "pt": "Queimador de Vitalidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "prefixNameS11106": {
   "ch": "炽流",
   "en": "Scorching Path",
-  "pt": ""
+  "pt": "Caminho Ardente",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11107": {
   "ch": "焚玄",
   "en": "Crackling Fire",
-  "pt": ""
+  "pt": "Fogo Crepitante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11108": {
   "ch": "焰波",
   "en": "Fiery Wave",
-  "pt": ""
+  "pt": "Onda Ardente",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11109": {
   "ch": "焰身",
   "en": "Fiery Body",
-  "pt": ""
+  "pt": "Corpo Ardente",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11110": {
   "ch": "火核",
   "en": "Fire Core",
-  "pt": ""
+  "pt": "Núcleo de Fogo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "prefixNameS11111": {
   "ch": "恶火",
   "en": "Sinful Fire",
-  "pt": ""
+  "pt": "Fogo Pecaminoso",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11112": {
   "ch": "无惧",
   "en": "Fearless",
-  "pt": ""
+  "pt": "Destemido",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11113": {
   "ch": "灼烬",
   "en": "Warm Ashes",
-  "pt": ""
+  "pt": "Cinzas Quentes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "prefixNameS11114": {
   "ch": "燃诀",
   "en": "Flame of Fury",
-  "pt": ""
+  "pt": "Chama da Fúria",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11115": {
   "ch": "伏虎",
   "en": "Devouring Fire",
-  "pt": ""
+  "pt": "Fogo Devorador",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11116": {
   "ch": "热浪",
   "en": "Glowing Waves",
-  "pt": ""
+  "pt": "Ondas Brilhantes",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11201": {
   "ch": "妄象",
   "en": "Mirage Minion",
-  "pt": ""
+  "pt": "Servo da Miragem",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS11202": {
   "ch": "回元",
   "en": "Healing Energy",
-  "pt": ""
+  "pt": "Energia de Cura",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11203": {
   "ch": "凌冰",
   "en": "Frostwalker",
-  "pt": ""
+  "pt": "Caminhante da Geada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "prefixNameS11204": {
   "ch": "甘霖",
   "en": "Restoring Rain",
-  "pt": ""
+  "pt": "Chuva Restauradora",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11205": {
   "ch": "冥霜",
   "en": "Icy Armor",
-  "pt": ""
+  "pt": "Armadura Gélida",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "prefixNameS11206": {
   "ch": "象灭",
   "en": "Freezing Mirage",
-  "pt": ""
+  "pt": "Miragem Congelante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11207": {
   "ch": "素身",
   "en": "Rejuvenating",
-  "pt": ""
+  "pt": "Revitalizante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11208": {
   "ch": "雨泽",
   "en": "Nature's Gift",
-  "pt": ""
+  "pt": "Presente da Natureza",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "prefixNameS11209": {
   "ch": "决择",
   "en": "Unshaken",
-  "pt": ""
+  "pt": "Inabalável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11210": {
   "ch": "妄途",
   "en": "Lonely Path",
-  "pt": ""
+  "pt": "Caminho Solitário",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "prefixNameS11211": {
   "ch": "漩涡",
   "en": "Whirlpool",
-  "pt": ""
+  "pt": "Redemoinho",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11212": {
   "ch": "极冰",
   "en": "Condensed",
-  "pt": ""
+  "pt": "Condensado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11213": {
   "ch": "泽雨",
   "en": "Fine Rain",
-  "pt": ""
+  "pt": "Chuva Fina",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11214": {
   "ch": "激浪",
   "en": "Furious Wave",
-  "pt": ""
+  "pt": "Onda Furiosa",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11215": {
   "ch": "鱼跃",
   "en": "Vigorous Leap",
-  "pt": ""
+  "pt": "Salto Enérgico",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11301": {
   "ch": "雷体",
   "en": "Thunder Caller",
-  "pt": ""
+  "pt": "Chamador de Trovões",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11302": {
   "ch": "闪进",
   "en": "Flashing",
-  "pt": ""
+  "pt": "Cintilante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11303": {
   "ch": "震烁",
   "en": "Evading Spark",
-  "pt": ""
+  "pt": "Faísca Evasiva",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11304": {
   "ch": "闪瞬",
   "en": "Lightning Mastery",
-  "pt": ""
+  "pt": "Domínio do Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11305": {
   "ch": "雷极",
   "en": "Extreme Lightning",
-  "pt": ""
+  "pt": "Relâmpago Extremo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11306": {
   "ch": "光隙",
   "en": "Dazzling",
-  "pt": ""
+  "pt": "Deslumbrante",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "prefixNameS11307": {
   "ch": "辟芒",
   "en": "Swift Thunder",
-  "pt": ""
+  "pt": "Trovão Rápido",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11308": {
   "ch": "疾雷",
   "en": "Lone Lightning",
-  "pt": ""
+  "pt": "Relâmpago Solitário",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11309": {
   "ch": "霆击",
   "en": "Lightning Strike I",
-  "pt": ""
+  "pt": "Golpe de Relâmpago I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11310": {
   "ch": "震鸣",
   "en": "Lightning Strike II",
-  "pt": ""
+  "pt": "Golpe de Relâmpago II",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11311": {
   "ch": "紫电",
   "en": "Ominous Bolt I",
-  "pt": ""
+  "pt": "Raio Sinistro I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11312": {
   "ch": "电照",
   "en": "Ominous Bolt II",
-  "pt": ""
+  "pt": "Raio Sinistro II",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11313": {
   "ch": "电掣",
   "en": "Ominous Bolt III",
-  "pt": ""
+  "pt": "Raio Sinistro III",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11314": {
   "ch": "电卷",
   "en": "Ominous Bolt IV",
-  "pt": ""
+  "pt": "Raio Sinistro IV",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11315": {
   "ch": "轰雷",
   "en": "Ominous Bolt V",
-  "pt": ""
+  "pt": "Raio Sinistro V",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11316": {
   "ch": "相薄",
   "en": "Regenerative Energy",
-  "pt": ""
+  "pt": "Energia Regenerativa",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11317": {
   "ch": "雷惊",
   "en": "Empowered Thunder I",
-  "pt": ""
+  "pt": "Trovão Empoderado I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11318": {
   "ch": "电绕",
   "en": "Empowered Thunder II",
-  "pt": ""
+  "pt": "Trovão Potencializado II",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS11319": {
   "ch": "辟虚",
   "en": "Lingering Spark",
-  "pt": ""
+  "pt": "Faísca Persistente",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11320": {
   "ch": "光殛",
   "en": "Lightning Armor",
-  "pt": ""
+  "pt": "Armadura do Relâmpago",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "prefixNameS11321": {
   "ch": "霹雳",
   "en": "Lightning Speed",
-  "pt": ""
+  "pt": "Velocidade do Relâmpago",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "prefixNameS11322": {
   "ch": "雷涌",
   "en": "Lightning Surge",
-  "pt": ""
+  "pt": "Surto de Relâmpago",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11323": {
   "ch": "暴烁",
   "en": "Unstable Spark",
-  "pt": ""
+  "pt": "Faísca Instável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11401": {
   "ch": "飘风",
   "en": "Gliding",
-  "pt": ""
+  "pt": "Planando",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11402": {
   "ch": "退尘",
   "en": "Dispelling",
-  "pt": ""
+  "pt": "Dissipante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS11403": {
   "ch": "长飏",
   "en": "Wuthering",
-  "pt": ""
+  "pt": "Tempestuoso",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11404": {
   "ch": "风萦",
   "en": "Wind Mastery",
-  "pt": ""
+  "pt": "Domínio do Vento",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11405": {
   "ch": "罡风",
   "en": "Wind Protection",
-  "pt": ""
+  "pt": "Proteção contra o Vento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "prefixNameS11406": {
   "ch": "巽息",
   "en": "Agile Wind",
-  "pt": ""
+  "pt": "Vento Ágil",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11407": {
   "ch": "飓刃",
   "en": "Wind Edge",
-  "pt": ""
+  "pt": "Borda do Vento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "prefixNameS11408": {
   "ch": "风息",
   "en": "Untamed Breath",
-  "pt": ""
+  "pt": "Sopro Indomável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11409": {
   "ch": "劲风",
   "en": "Vigorous Wind",
-  "pt": ""
+  "pt": "Vento Vigoroso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11410": {
   "ch": "烈风",
   "en": "Fierce Wind",
-  "pt": ""
+  "pt": "Vento Feroz",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11411": {
   "ch": "秋风",
   "en": "Harvest Wind",
-  "pt": ""
+  "pt": "Vento da Colheita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "prefixNameS11412": {
   "ch": "吹拂",
   "en": "Dexterous Wind I",
-  "pt": ""
+  "pt": "Vento Hábil I",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11413": {
   "ch": "呼啸",
   "en": "Dexterous Wind II",
-  "pt": ""
+  "pt": "Vento Hábil II",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11414": {
   "ch": "凉风",
   "en": "Dexterous Wind III",
-  "pt": ""
+  "pt": "Vento Hábil III",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11415": {
   "ch": "风身",
   "en": "Nimble Motions",
-  "pt": ""
+  "pt": "Movimentos Ágeis",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11416": {
   "ch": "巽影",
   "en": "Ethereal Shadow",
-  "pt": ""
+  "pt": "Sombra Etérea",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11417": {
   "ch": "熏风",
   "en": "Scented Air",
-  "pt": ""
+  "pt": "Ar Perfumado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11418": {
   "ch": "厉风",
   "en": "Sharpening Air",
-  "pt": ""
+  "pt": "Ar Afiado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11419": {
   "ch": "绕旋",
   "en": "Whirling Edge",
-  "pt": ""
+  "pt": "Lâmina Giratória",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11420": {
   "ch": "风眼",
   "en": "Windstorm",
-  "pt": ""
+  "pt": "Tempestade de Ventos",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 20 > 12 caracteres"
+  ]
  },
  "prefixNameS11421": {
   "ch": "清风",
   "en": "Breeze",
-  "pt": ""
+  "pt": "Brisa",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11422": {
   "ch": "风切",
   "en": "Windslice",
-  "pt": ""
+  "pt": "Corte do Vento",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "prefixNameS11423": {
   "ch": "急风",
   "en": "Swift Wind",
-  "pt": ""
+  "pt": "Vento Veloz",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11424": {
   "ch": "风护",
   "en": "Wind Armor",
-  "pt": ""
+  "pt": "Armadura de Vento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "prefixNameS11425": {
   "ch": "疾行",
   "en": "Rapid Attacker I",
-  "pt": ""
+  "pt": "Atacante Rápido I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11426": {
   "ch": "疾风",
   "en": "Rapid Attacker II",
-  "pt": ""
+  "pt": "Atacante Rápido II",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11427": {
   "ch": "风絮",
   "en": "Scattering Wind",
-  "pt": ""
+  "pt": "Vento Disperso",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11501": {
   "ch": "玄召",
   "en": "Sustained Minion",
-  "pt": ""
+  "pt": "Servo Sustentado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11502": {
   "ch": "壁御",
   "en": "Resistant Earth",
-  "pt": ""
+  "pt": "Terra Resistente",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11503": {
   "ch": "圣壤",
   "en": "Sacred Soil",
-  "pt": ""
+  "pt": "Terra Sagrada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11504": {
   "ch": "土护",
   "en": "Earth Mastery",
-  "pt": ""
+  "pt": "Domínio da Terra",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11505": {
   "ch": "振灵",
   "en": "Earth Spirit",
-  "pt": ""
+  "pt": "Espírito da Terra",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "prefixNameS11506": {
   "ch": "佐神",
   "en": "Durable Stone",
-  "pt": ""
+  "pt": "Pedra Durável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11507": {
   "ch": "土护",
   "en": "Earth Protection",
-  "pt": ""
+  "pt": "Proteção da Terra",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11508": {
   "ch": "碧壤",
   "en": "Nature's Blessing",
-  "pt": ""
+  "pt": "Bênçãos da Natureza",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11509": {
   "ch": "护法",
   "en": "Vital Offering",
-  "pt": ""
+  "pt": "Oferta Vital",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11510": {
   "ch": "浑厚",
   "en": "Steadfast",
-  "pt": ""
+  "pt": "Inabalável",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11511": {
   "ch": "归元",
   "en": "Returning Soul",
-  "pt": ""
+  "pt": "Alma Retornante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11512": {
   "ch": "流域",
   "en": "Sandy Steps",
-  "pt": ""
+  "pt": "Passos de Areia",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11601": {
   "ch": "灵益",
   "en": "Brimming Spirit",
-  "pt": ""
+  "pt": "Espírito Transbordante",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "prefixNameS11602": {
   "ch": "针芒",
   "en": "Pointy Thorn",
-  "pt": ""
+  "pt": "Espinho Pontudo",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11603": {
   "ch": "养元",
   "en": "Vitality Boost",
-  "pt": ""
+  "pt": "Aumento de Vitalidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "prefixNameS11604": {
   "ch": "植玄",
   "en": "Wood Mastery",
-  "pt": ""
+  "pt": "Domínio da Madeira",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "prefixNameS11605": {
   "ch": "森迅",
   "en": "Vitalizing Energy",
-  "pt": ""
+  "pt": "Energia Vitalizante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11606": {
   "ch": "同命",
   "en": "Shared Luck",
-  "pt": ""
+  "pt": "Sorte Compartilhada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "prefixNameS11607": {
   "ch": "荆元",
   "en": "Thorny Vitality",
-  "pt": ""
+  "pt": "Vitalidade Espinhenta",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "prefixNameS11608": {
   "ch": "木心",
   "en": "Nature's Spirit",
-  "pt": ""
+  "pt": "Espírito da Natureza",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11609": {
   "ch": "春藤",
   "en": "Spreading Vine",
-  "pt": ""
+  "pt": "Videira Rastejante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11610": {
   "ch": "枫行",
   "en": "Growing Sapling",
-  "pt": ""
+  "pt": "Broto em Crescimento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS11611": {
   "ch": "幽棪",
   "en": "Shadowy Leaf",
-  "pt": ""
+  "pt": "Folha Sombria",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS11612": {
   "ch": "棘铃",
   "en": "Thorny Edge",
-  "pt": ""
+  "pt": "Borda Espinhosa",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1201001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1201002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1201003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1201004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1201005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1201006": {
   "ch": "三元",
   "en": "Forked",
-  "pt": ""
+  "pt": "Bifurcado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS1201007": {
   "ch": "震魄",
   "en": "Pouring",
-  "pt": ""
+  "pt": "Despejando",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1202001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1202002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1202003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1202004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1202005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1202006": {
   "ch": "震虚",
   "en": "Overloaded",
-  "pt": ""
+  "pt": "Sobrecarregado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "prefixNameS1202007": {
   "ch": "鬼魍",
   "en": "Condensed",
-  "pt": ""
+  "pt": "Condensado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS1203001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1203002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1203003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1203004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1203005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1203006": {
   "ch": "巽风",
   "en": "Rushing",
-  "pt": ""
+  "pt": "Impetuoso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS1203007": {
   "ch": "连环",
   "en": "Combo",
-  "pt": ""
+  "pt": "Sequência",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 9 > 8 caracteres"
+  ]
  },
  "prefixNameS1301001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1301002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1301003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1301004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1301005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1301006": {
   "ch": "雷殛",
   "en": "Tempest",
-  "pt": ""
+  "pt": "Tempestade",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1301007": {
   "ch": "凝光",
   "en": "Enlightened",
-  "pt": ""
+  "pt": "Iluminado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1302001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1302002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1302003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1302004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1302005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1302006": {
   "ch": "聚岚 ",
   "en": "Gathering",
-  "pt": ""
+  "pt": "Coleta",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1302007": {
   "ch": "咒血",
   "en": "Vengeful",
-  "pt": ""
+  "pt": "Vingativo",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1303001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1303002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1303003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1303004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1303005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1303006": {
   "ch": "闪踪",
   "en": "Feigning",
-  "pt": ""
+  "pt": "Fingimento",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1303007": {
   "ch": "裂电",
   "en": "Tribulating",
-  "pt": ""
+  "pt": "Tribulando",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1401001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1401002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1401003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1401004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1401005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1401006": {
   "ch": "重云",
   "en": "Shielding Cloud",
-  "pt": ""
+  "pt": "Nuvem de Proteção",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1401007": {
   "ch": "旋刃",
   "en": "Cutting",
-  "pt": ""
+  "pt": "Corte",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1402001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1402002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1402003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1402004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1402005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1402006": {
   "ch": "瞬影",
   "en": "Nimble",
-  "pt": ""
+  "pt": "Ágil",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1402007": {
   "ch": "摧灵",
   "en": "Ferocious",
-  "pt": ""
+  "pt": "Feroz",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1403001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1403002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1403003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1403004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1403005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1403006": {
   "ch": "血刃",
   "en": "Blood Blade",
-  "pt": ""
+  "pt": "Lâmina de Sangue",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "prefixNameS1403007": {
   "ch": "闪刃",
   "en": "Bright Blade",
-  "pt": ""
+  "pt": "Lâmina Brilhante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1501001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1501002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1501003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1501004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1501005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1501006": {
   "ch": "飞陨",
   "en": "Meteor",
-  "pt": ""
+  "pt": "Meteoro",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1501007": {
   "ch": "刺元",
   "en": "Stimulated",
-  "pt": ""
+  "pt": "Estimulado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1502001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1502002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1502003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1502004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1502005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1502006": {
   "ch": "傀爆",
   "en": "Synergy",
-  "pt": ""
+  "pt": "Sinergia",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1502007": {
   "ch": "星坠",
   "en": "Shower",
-  "pt": ""
+  "pt": "Aguaceiro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS1503001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1503002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1503003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1503004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1503005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1503006": {
   "ch": "重影",
   "en": "Duplicated",
-  "pt": ""
+  "pt": "Duplicado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1503007": {
   "ch": "暗魅",
   "en": "Missile",
-  "pt": ""
+  "pt": "Míssil",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1601001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1601002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1601003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1601004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1601005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1601006": {
   "ch": "唤灵",
   "en": "Sprouting",
-  "pt": ""
+  "pt": "Brotamento",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1601007": {
   "ch": "戮影",
   "en": "Cold Shadow",
-  "pt": ""
+  "pt": "Sombra Fria",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1603001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1603002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1603003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1603004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1603005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1603006": {
   "ch": "血刺",
   "en": "Blunting",
-  "pt": ""
+  "pt": "Atenuação",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1603007": {
   "ch": "灵菌",
   "en": "Moving",
-  "pt": ""
+  "pt": "Movimentação",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 9 caracteres"
+  ]
  },
  "prefixNameS1604001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1604002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1604003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1604004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1604005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS1604006": {
   "ch": "荆牙",
   "en": "Entangling",
-  "pt": ""
+  "pt": "Enredamento",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS1604007": {
   "ch": "飞花",
   "en": "Floating Petals",
-  "pt": ""
+  "pt": "Pétalas Flutuantes",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS201001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS201002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS201003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS201004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS201005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS201006": {
   "ch": "长空",
   "en": "Darting",
-  "pt": ""
+  "pt": "Veloz",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS201007": {
   "ch": "归虚",
   "en": "Returning",
-  "pt": ""
+  "pt": "Retornando",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS202001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS202002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS202003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS202004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS202005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS202006": {
   "ch": "灵虚",
   "en": "Void Breaker",
-  "pt": ""
+  "pt": "Quebrador de Vazios",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "prefixNameS202007": {
   "ch": "幻虚",
   "en": "Mirage",
-  "pt": ""
+  "pt": "Miragem",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS203001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS203002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS203003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS203004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS203005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS203006": {
   "ch": "环天",
   "en": "Scattering",
-  "pt": ""
+  "pt": "Dispersão",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS203007": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS30101": {
   "ch": "奋进",
   "en": "Diligent I",
-  "pt": ""
+  "pt": "Diligente I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30102": {
   "ch": "精进",
   "en": "Diligent II",
-  "pt": ""
+  "pt": "Diligente II",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS30103": {
   "ch": "瑞祐",
   "en": "Fortunate I",
-  "pt": ""
+  "pt": "Sortudo I",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS30104": {
   "ch": "仙祐",
   "en": "Fortunate II",
-  "pt": ""
+  "pt": "Sortudo II",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30105": {
   "ch": "庇佑",
   "en": "Fortunate III",
-  "pt": ""
+  "pt": "Sortudo III",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30106": {
   "ch": "三手",
   "en": "Quick Hand I",
-  "pt": ""
+  "pt": "Mão Rápida I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30107": {
   "ch": "百手",
   "en": "Quick Hand II",
-  "pt": ""
+  "pt": "Mão Rápida II",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS30108": {
   "ch": "千手",
   "en": "Quick Hand III",
-  "pt": ""
+  "pt": "Mão Rápida III",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS30109": {
   "ch": "迅手",
   "en": "Quick Hand IV",
-  "pt": ""
+  "pt": "Mão Rápida IV",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30110": {
   "ch": "秘宝",
   "en": "Treasure Store",
-  "pt": ""
+  "pt": "Loja de Tesouros",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30111": {
   "ch": "秘匣",
   "en": "Treasure Pot",
-  "pt": ""
+  "pt": "Pote do Tesouro",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30112": {
   "ch": "忘身",
   "en": "Intrepid",
-  "pt": ""
+  "pt": "Intrépido",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30113": {
   "ch": "神行",
   "en": "Deft Moves",
-  "pt": ""
+  "pt": "Movimentos Habilidosos",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 13 caracteres"
+  ]
  },
  "prefixNameS30114": {
   "ch": "弱躯",
   "en": "Feeble",
-  "pt": ""
+  "pt": "Fraco",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS30115": {
   "ch": "祭祐",
   "en": "Troublesome Luck",
-  "pt": ""
+  "pt": "Sorte Problemática",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS30116": {
   "ch": "温故",
   "en": "Bright Learner",
-  "pt": ""
+  "pt": "Aprendiz Brilhante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30117": {
   "ch": "挫锐",
   "en": "Challenger",
-  "pt": ""
+  "pt": "Desafiante",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30118": {
   "ch": "残局",
   "en": "Tricky Fight",
-  "pt": ""
+  "pt": "Luta Complicada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS30119": {
   "ch": "仙资",
   "en": "Talented",
-  "pt": ""
+  "pt": "Talentoso",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30120": {
   "ch": "潜修",
   "en": "Devoted",
-  "pt": ""
+  "pt": "Dedicado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30121": {
   "ch": "虚刃",
   "en": "Weathered",
-  "pt": ""
+  "pt": "Desgastado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS30122": {
   "ch": "养元",
   "en": "Vitality Boost",
-  "pt": ""
+  "pt": "Aumento de Vitalidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "prefixNameS30123": {
   "ch": "拭锋",
   "en": "Attack Boost I",
-  "pt": ""
+  "pt": "Aumento de Ataque I",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30124": {
   "ch": "砺刃",
   "en": "Attack Boost II",
-  "pt": ""
+  "pt": "Aumento de Ataque II",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30125": {
   "ch": "益阳",
   "en": "Resistance Boost",
-  "pt": ""
+  "pt": "Aumento da Resistência",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "prefixNameS30126": {
   "ch": "虹闪",
   "en": "Attack Speed Boost",
-  "pt": ""
+  "pt": "Aumento da Velocidade de Ataque",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 24 caracteres"
+  ]
  },
  "prefixNameS30127": {
   "ch": "心眼",
   "en": "Crit Chance Boost",
-  "pt": ""
+  "pt": "Aumento da Chance Crítica",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 23 caracteres"
+  ]
  },
  "prefixNameS30128": {
   "ch": "窥虚",
   "en": "Crit Rate Boost",
-  "pt": ""
+  "pt": "Aumento da Chance Crítica",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 25 > 20 caracteres"
+  ]
  },
  "prefixNameS30129": {
   "ch": "捷足",
   "en": "Agility Boost",
-  "pt": ""
+  "pt": "Aumento da Agilidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "prefixNameS30130": {
   "ch": "护佑",
   "en": "Luck Boost",
-  "pt": ""
+  "pt": "Aumento de Sorte",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "prefixNameS30131": {
   "ch": "唤灵",
   "en": "Unit Damage Boost",
-  "pt": ""
+  "pt": "Aumento do Dano por Unidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 23 caracteres"
+  ]
  },
  "prefixNameS30132": {
   "ch": "复作",
   "en": "Unit Duration Boost",
-  "pt": ""
+  "pt": "Aumento da Duração da Unidade",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 29 > 25 caracteres"
+  ]
  },
  "prefixNameS30133": {
   "ch": "星列",
   "en": "Area of Effect Boost",
-  "pt": ""
+  "pt": "Aumento da Área de Efeito",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30134": {
   "ch": "灵永",
   "en": "Skill Duration Boost",
-  "pt": ""
+  "pt": "Aumento da Duração da Habilidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 26 caracteres"
+  ]
  },
  "prefixNameS30135": {
   "ch": "拭刃",
   "en": "Blade Expert I",
-  "pt": ""
+  "pt": "Especialista em Lâmina I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "prefixNameS30136": {
   "ch": "砺锋",
   "en": "Blade Expert II",
-  "pt": ""
+  "pt": "Especialista em Lâmina II",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 25 > 20 caracteres"
+  ]
  },
  "prefixNameS30137": {
   "ch": "擎枪",
   "en": "Spear Expert I",
-  "pt": ""
+  "pt": "Especialista em Lança I",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "prefixNameS30138": {
   "ch": "扬戈",
   "en": "Spear Expert II",
-  "pt": ""
+  "pt": "Especialista em Lança II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 20 caracteres"
+  ]
  },
  "prefixNameS30139": {
   "ch": "青锋",
   "en": "Sword Expert I",
-  "pt": ""
+  "pt": "Especialista em Espadas I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 19 caracteres"
+  ]
  },
  "prefixNameS30140": {
   "ch": "寒芒",
   "en": "Sword Expert II",
-  "pt": ""
+  "pt": "Especialista em Espadas II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 20 caracteres"
+  ]
  },
  "prefixNameS30141": {
   "ch": "击壤",
   "en": "Fist Expert I",
-  "pt": ""
+  "pt": "Especialista em Punho I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "prefixNameS30142": {
   "ch": "捣天",
   "en": "Fist Expert II",
-  "pt": ""
+  "pt": "Especialista em Punho II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "prefixNameS30143": {
   "ch": "推云",
   "en": "Palm Expert I",
-  "pt": ""
+  "pt": "Especialista em Palma I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "prefixNameS30144": {
   "ch": "攘海",
   "en": "Palm Expert II",
-  "pt": ""
+  "pt": "Especialista em Palma II",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "prefixNameS30145": {
   "ch": "指间",
   "en": "Finger Expert I",
-  "pt": ""
+  "pt": "Especialista em Dedos I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "prefixNameS30146": {
   "ch": "骈合",
   "en": "Finger Expert II",
-  "pt": ""
+  "pt": "Especialista em Dedos II",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 24 > 21 caracteres"
+  ]
  },
  "prefixNameS30147": {
   "ch": "心焰",
   "en": "Fire Expert I",
-  "pt": ""
+  "pt": "Especialista em Fogo I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 17 caracteres"
+  ]
  },
  "prefixNameS30148": {
   "ch": "沸火",
   "en": "Fire Expert II",
-  "pt": ""
+  "pt": "Especialista em Fogo II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "prefixNameS30149": {
   "ch": "胜雪",
   "en": "Water Expert I",
-  "pt": ""
+  "pt": "Especialista em Água I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "prefixNameS30150": {
   "ch": "欺霜",
   "en": "Water Expert II",
-  "pt": ""
+  "pt": "Especialista em Água II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "prefixNameS30151": {
   "ch": "闪灵",
   "en": "Lightning Expert I",
-  "pt": ""
+  "pt": "Especialista em Relâmpago I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "prefixNameS30152": {
   "ch": "震星",
   "en": "Lightning Expert II",
-  "pt": ""
+  "pt": "Especialista em Relâmpago II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "prefixNameS30153": {
   "ch": "吹杨",
   "en": "Wind Expert I",
-  "pt": ""
+  "pt": "Especialista em Vento I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "prefixNameS30154": {
   "ch": "拂柳",
   "en": "Wind Expert II",
-  "pt": ""
+  "pt": "Especialista em Vento II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "prefixNameS30155": {
   "ch": "方垣",
   "en": "Earth Expert I",
-  "pt": ""
+  "pt": "Especialista em Terra I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "prefixNameS30156": {
   "ch": "元壤",
   "en": "Earth Expert II",
-  "pt": ""
+  "pt": "Especialista em Terra II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 20 caracteres"
+  ]
  },
  "prefixNameS30157": {
   "ch": "碧苗",
   "en": "Wood Expert I",
-  "pt": ""
+  "pt": "Especialista em Madeira I",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 17 caracteres"
+  ]
  },
  "prefixNameS30158": {
   "ch": "赤荆",
   "en": "Wood Expert II",
-  "pt": ""
+  "pt": "Especialista em Madeira II",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 19 caracteres"
+  ]
  },
  "prefixNameS30159": {
   "ch": "正体",
   "en": "Firm Stance",
-  "pt": ""
+  "pt": "Postura Firme",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS30160": {
   "ch": "荣气",
   "en": "Tough Warrior",
-  "pt": ""
+  "pt": "Guerreiro Resistente",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "prefixNameS30161": {
   "ch": "健体",
   "en": "Mighty Swing",
-  "pt": ""
+  "pt": "Golpe Poderoso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS30162": {
   "ch": "决邪",
   "en": "Demon Slayer",
-  "pt": ""
+  "pt": "Matador de Demônios",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "prefixNameS30163": {
   "ch": "养荣",
   "en": "Fortified Body",
-  "pt": ""
+  "pt": "Corpo Fortificado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30164": {
   "ch": "决气",
   "en": "Steady Arms",
-  "pt": ""
+  "pt": "Braços Firmes",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS30165": {
   "ch": "卫气",
   "en": "Flowing Moves",
-  "pt": ""
+  "pt": "Movimentos Fluidos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "prefixNameS30166": {
   "ch": "正气",
   "en": "Replenished Force",
-  "pt": ""
+  "pt": "Força Reabastecida",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30167": {
   "ch": "命元",
   "en": "Prolonged Life",
-  "pt": ""
+  "pt": "Vida Prolongada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30168": {
   "ch": "椿命",
   "en": "Flourishing Branch",
-  "pt": ""
+  "pt": "Ramo Próspero",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30169": {
   "ch": "刚元",
   "en": "Walled Defense",
-  "pt": ""
+  "pt": "Defesa Muralhada",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30170": {
   "ch": "正卫",
   "en": "Swift Attacker",
-  "pt": ""
+  "pt": "Atacante Veloz",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30171": {
   "ch": "桃辉",
   "en": "Juicy Peach",
-  "pt": ""
+  "pt": "Pêssego Suculento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "prefixNameS30172": {
   "ch": "益桃",
   "en": "Windfall Peach",
-  "pt": ""
+  "pt": "Pêssego da Sorte",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS30173": {
   "ch": "桃元",
   "en": "Savory Peach",
-  "pt": ""
+  "pt": "Pêssego Saboroso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS302001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS302002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS302003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS302004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS302005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS302006": {
   "ch": "钻心",
   "en": "Piercing",
-  "pt": ""
+  "pt": "Penetrante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS302007": {
   "ch": "疾风",
   "en": "Gale",
-  "pt": ""
+  "pt": "Ventania",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "prefixNameS303001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS303002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS303003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS303004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS303005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS303006": {
   "ch": "真灵",
   "en": "Canopying Soul",
-  "pt": ""
+  "pt": "Alma em Dossel",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS303007": {
   "ch": "飞影",
   "en": "Rapid",
-  "pt": ""
+  "pt": "Rápido",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS304001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS304002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS304003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS304004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS304005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS304006": {
   "ch": "穿空",
   "en": "Thrusting",
-  "pt": ""
+  "pt": "Perfurante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS304007": {
   "ch": "九转",
   "en": "Multiple",
-  "pt": ""
+  "pt": "Múltiplos",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS401001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS401002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS401003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS401004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS401005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS401006": {
   "ch": "猬针",
   "en": "Defensive",
-  "pt": ""
+  "pt": "Defensivo",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS401007": {
   "ch": "穿云",
   "en": "Cloud Piercing",
-  "pt": ""
+  "pt": "Penetração na Nuvem",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS402001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS402002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS402003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS402004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS402005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS402006": {
   "ch": "灵寰",
   "en": "Covering",
-  "pt": ""
+  "pt": "Cobertura",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS402007": {
   "ch": "血煞",
   "en": "Bloodlust",
-  "pt": ""
+  "pt": "Sede de Sangue",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "prefixNameS403001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS403002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS403003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS403004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS403005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS403006": {
   "ch": "重壁",
   "en": "Fortified",
-  "pt": ""
+  "pt": "Fortificado",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS403007": {
   "ch": "崩云",
   "en": "Skyshatter",
-  "pt": ""
+  "pt": "Quebra-Céu",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS501001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS501002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS501003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS501004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS501005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS501006": {
   "ch": "逐浪",
   "en": "Waverider",
-  "pt": ""
+  "pt": "Cavaleiro das Ondas",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 19 > 12 caracteres"
+  ]
  },
  "prefixNameS501007": {
   "ch": "贯空",
   "en": "Windcaller",
-  "pt": ""
+  "pt": "Chamador do Vento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "prefixNameS502001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS502002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS502003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS502004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS502005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS502006": {
   "ch": "破髓",
   "en": "Bonebreaker",
-  "pt": ""
+  "pt": "Quebrador de Ossos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "prefixNameS502007": {
   "ch": "金虹",
   "en": "Swift",
-  "pt": ""
+  "pt": "Ágil",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixNameS503001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS503002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS503003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS503004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS503005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS503006": {
   "ch": "影岚",
   "en": "Whirl of Shadow",
-  "pt": ""
+  "pt": "Redemoinho das Sombras",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "prefixNameS503007": {
   "ch": "摧心",
   "en": "Mindbender",
-  "pt": ""
+  "pt": "Quebra-Mente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS601001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS601002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS601003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS601004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS601005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS601006": {
   "ch": "封灵",
   "en": "Soulsealer",
-  "pt": ""
+  "pt": "Selador de Almas",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "prefixNameS601007": {
   "ch": "批亢",
   "en": "Resonant",
-  "pt": ""
+  "pt": "Ressonante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "prefixNameS602001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS602002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS602003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS602004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS602005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS602006": {
   "ch": "繁音",
   "en": "Harmonious",
-  "pt": ""
+  "pt": "Harmonioso",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS602007": {
   "ch": "纵横",
   "en": "Cross",
-  "pt": ""
+  "pt": "Cruz",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS603001": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS603002": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS603003": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS603004": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS603005": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimoramento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "prefixNameS603006": {
   "ch": "破玄",
   "en": "Arcane Fire",
-  "pt": ""
+  "pt": "Fogo Arcano",
+  "auto": "local/hy-mt2"
  },
  "prefixNameS603007": {
   "ch": "聚玄",
   "en": "Focused",
-  "pt": ""
+  "pt": "Focado",
+  "auto": "local/hy-mt2"
  }
 }

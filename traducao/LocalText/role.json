@@ -2,377 +2,461 @@
  "role_attribute_desc_atk": {
   "ch": "角色的攻击，影响角色在战斗中造成的伤害。",
   "en": "Affects how much damage your character deals during combat.",
-  "pt": ""
+  "pt": "Afeta o quanto de dano seu personagem causa durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basBlade": {
   "ch": "刀法资质，需要达到要求的值才可学习对应的刀法技能，并且可以提升化解敌人刀法技能的概率。\n\n刀法资质可以通过使用刀灵果提升，刀灵果可在刀法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Blade stat to the required value to learn the corresponding Blade skill and increase your chance to neutralize your enemies' Blade skills.\n\nThe Blade stat can be increased by using Blade Fruit, which is redeemed in the Treasure Pavilion of Blade Sects.",
-  "pt": ""
+  "pt": "Aumente o seu atributo de Lâmina até o valor necessário para aprender a habilidade de Lâmina correspondente e assim aumentar suas chances de neutralizar as habilidades de Lâmina dos inimigos.\n\nO atributo de Lâmina pode ser aumentado utilizando-se o Fruto da Lâmina, que é resgatado no Pavilhão do Tesouro das Seitas da Lâmina.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basEarth": {
   "ch": "土灵根，需要达到要求的值才可学习对应的土属性技能，并且可以提升化解敌人土属性技能的概率。\n\n土灵根可以通过使用土灵果提升，土灵果可在土法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Earth Root stat to the required value to learn the corresponding Earth skill and increase your chance to neutralize your enemies' Earth skills.\n\nThe Earth Root stat can be increased by using Earth Fruit, which is redeemed in the Treasure Pavilion of Earth Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Raiz de Terra até o nível necessário para aprender a habilidade de Terra correspondente e elevar suas chances de neutralizar as habilidades de Terra dos inimigos.\n\nO atributo Raiz de Terra pode ser aumentado ao usar o Fruto da Terra, que é resgatado no Pavilhão do Tesouro das Seitas da Terra.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_basEqp": {
   "ch": "影响角色的炼器技能，资质越高，炼器的难度越低。",
   "en": "The higher your Forge stat, the easier it is for you to forge Artifacts.",
-  "pt": ""
+  "pt": "Quanto mais alto o seu atributo de Forja, mais fácil será para você forjar Artefatos.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basFinger": {
   "ch": "指法资质，需要达到要求的值才可学习对应的指法技能，并且可以提升化解敌人指法技能的概率。\n\n指法资质可以通过使用指灵果提升，指灵果可在指法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Finger stat to the required value to learn the corresponding Finger skill and increase your chance to neutralize your enemies' Finger skills.\n\nThe Finger stat can be increased by using Finger Fruit, which is redeemed in the Treasure Pavilion of Finger Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Dedo até o nível necessário para aprender a habilidade correspondente e assim elevar suas chances de neutralizar as habilidades de Dedo dos inimigos.\n\nO atributo Dedo pode ser aumentado ao utilizar o Fruto do Dedo, que é resgatado no Pavilhão do Tesouro das Seitas do Dedo.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basFire": {
   "ch": "火灵根，需要达到要求的值才可学习对应的火属性技能，并且可以提升化解敌人火属性技能的概率。\n\n火灵根可以通过使用火灵果提升，火灵果可在火法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Fire Root stat to the required value to learn the corresponding Fire skill and increase your chance to neutralize your enemies' Fire skills.\n\nThe Fire Root stat can be increased by using Fire Fruit, which is redeemed in the Treasure Pavilion of Fire Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Raiz de Fogo até o nível necessário para aprender a respectiva habilidade de Fogo e, assim, aumentar suas chances de neutralizar as habilidades de Fogo dos inimigos.\n\nO atributo Raiz de Fogo pode ser elevado ao consumir o Fruto do Fogo, que é resgatado no Pavilhão do Tesouro das Seitas de Fogo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_basFist": {
   "ch": "拳法资质，需要达到要求的值才可学习对应的拳法技能，并且可以提升化解敌人拳法技能的概率。\n\n拳法资质可以通过使用拳灵果提升，拳灵果可在拳法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Fist stat to the required value to learn the corresponding Fist skill and increase your chance to neutralize your enemies' Fist skills.\n\nThe Fist stat can be increased by using Fist Fruit, which is redeemed in the Treasure Pavilion of Fist Sects.",
-  "pt": ""
+  "pt": "Aumente o seu atributo de Punho até o valor necessário para aprender a habilidade de Punho correspondente e assim aumentar suas chances de neutralizar as habilidades de Punho dos inimigos.\n\nO atributo de Punho pode ser aumentado ao usar o Fruto do Punho, que é resgatado no Pavilhão do Tesouro das Seitas do Punho.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basFroze": {
   "ch": "水灵根，需要达到要求的值才可学习对应的水属性技能，并且可以提升化解敌人水属性技能的概率。\n\n水灵根可以通过使用水灵果提升，水灵果可在水法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Water Root stat to the required value to learn the corresponding Water skill and increase your chance to neutralize your enemies' Water skills.\n\nThe Water Root stat can be increased by using Water Fruit, which is redeemed in the Treasure Pavilion of Water Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Raiz de Água até o nível necessário para aprender a respectiva habilidade de Água e assim elevar suas chances de neutralizar as habilidades de Água dos inimigos.\n\nO atributo Raiz de Água pode ser aumentado ao utilizar o Fruto da Água, que é resgatado no Pavilhão do Tesouro das Seitas da Água.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_basGeo": {
   "ch": "风水资质，需要达到要求的值才可学习对应的风水技能。\n\n可以通过击败大地图中出现的血傀获得风水通论，使用通论后可提升此资质。",
   "en": "Increase your Feng Shui stat to the required value to learn the corresponding Feng Shui skill.\n\nDefeat Blood Puppets on the world map to obtain Feng Shui Textbooks, which can be used to increase your Feng Shui stat.",
-  "pt": ""
+  "pt": "Aumente seu atributo de Feng Shui até o valor necessário para aprender a habilidade de Feng Shui correspondente.\n\nDerrote os Bonecos de Sangue no mapa do mundo para obter Livros de Estudo de Feng Shui, que podem ser usados para aumentar seu atributo de Feng Shui.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basHerb": {
   "ch": "药材资质，需要达到要求的值才可学习对应的药谱。\n\n可以通过击败大地图中出现的药灵获得药材通论，使用通论后可提升此资质。",
   "en": "Increase your Herb stat to the required value to learn the corresponding Prescription.\n\nDefeat Mushroom Men on the world map to obtain Herb Textbooks, which can be used to increase your Herb stat.",
-  "pt": ""
+  "pt": "Aumente o seu atributo de Erva até o valor necessário para aprender a Prescrição correspondente.\n\nDerrote os Homens Cogumelo no mapa do mundo para obter Livros de Estudo de Erva, que podem ser usados para aumentar esse atributo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_basMine": {
   "ch": "影响角色在进行挖矿时，发现高品质矿材的概率。",
   "en": "Affects your character's chance of getting high-rarity Ores when mining.",
-  "pt": ""
+  "pt": "Afeta a chance do seu personagem obter Minérios de alta raridade ao minerar.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basPalm": {
   "ch": "掌法资质，需要达到要求的值才可学习对应的掌法技能，并且可以提升化解敌人掌法技能的概率。\n\n掌法资质可以通过使用掌灵果提升，掌灵果可在掌法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Palm stat to the required value to learn the corresponding Palm skill and increase your chance to neutralize your enemies' Palm skills.\n\nThe Palm stat can be increased by using Palm Fruit, which is redeemed in the Treasure Pavilion of Palm Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Palma até o nível necessário para aprender a habilidade de Palma correspondente e aumentar suas chances de neutralizar as habilidades de Palma dos inimigos.\n\nO atributo Palma pode ser aumentado ao usar Frutos de Palma, que são resgatados no Pavilhão do Tesouro das Seitas de Palma.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basPil": {
   "ch": "炼丹资质，需要达到要求的值才可学习对应的丹方以及使用对应的丹炉，炼丹资质越高，炼丹的难度越低，且丹药的品质越好。\n\n可以通过击败大地图中出现的丹魔获得炼丹通论，使用通论后可提升此资质。",
   "en": "Increase your Alchemy stat to the required value to learn the corresponding Elixir Recipe and use the corresponding Furnace. The higher your Alchemy stat, the easier it is for you to concoct better Elixirs.\n\nDefeat Alchemists on the world map to obtain Alchemy Textbooks, which can be used to increase your Alchemy stat.",
-  "pt": ""
+  "pt": "Aumente seu atributo de Alquimia até o valor necessário para aprender a respectiva Receita de Elixir e utilizar a Fornalha correspondente. Quanto maior o seu atributo de Alquimia, mais fácil será para você preparar Elixires de melhor qualidade.\n\nDerrote Alquimistas no mapa do mundo para obter Livros de Estudo de Alquimia, que podem ser usados para elevar ainda mais o seu atributo de Alquimia.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_basSpear": {
   "ch": "枪法资质，需要达到要求的值才可学习对应的枪法技能，并且可以提升化解敌人枪法技能的概率。\n\n枪法资质可以通过使用枪灵果提升，枪灵果可在枪法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Spear stat to the required value to learn the corresponding Spear skill and increase your chance to neutralize your enemies' Spear skills.\n\nThe Spear stat can be increased by using Spear Fruit, which is redeemed in the Treasure Pavilion of Spear Sects.",
-  "pt": ""
+  "pt": "Aumente o seu atributo de Lança até o valor necessário para aprender a respectiva habilidade de Lança e, assim, aumentar suas chances de neutralizar as habilidades de Lança dos inimigos.\n\nO atributo de Lança pode ser aumentado utilizando-se o Fruto da Lança, que é resgatado no Pavilhão do Tesouro das Seitas da Lança.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basSword": {
   "ch": "剑法资质，需要达到要求的值才可学习对应的剑法技能，并且可以提升化解敌人剑法技能的概率。\n\n剑法资质可以通过使用剑灵果提升，剑灵果可在剑法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Sword stat to the required value to learn the corresponding Sword skill and increase your chance to neutralize your enemies' Sword skills.\n\nThe Sword stat can be increased by using Sword Fruit, which is redeemed in the Treasure Pavilion of Sword Sects.",
-  "pt": ""
+  "pt": "Aumente o seu atributo de Espada até o valor necessário para aprender a habilidade de Espada correspondente e assim elevar suas chances de neutralizar as habilidades de Espada dos inimigos.\n\nO atributo de Espada pode ser aumentado ao usar o Fruto da Espada, que é resgatado no Pavilhão do Tesouro das Seitas da Espada.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basSym": {
   "ch": "影响角色在进行画符时，获得高品质符篆的概率。",
   "en": "Affects your character's chance of getting high-rarity Charms when performing Talismans.",
-  "pt": ""
+  "pt": "Afeta a chance do seu personagem obter Talismãs de alta raridade ao usar Talismãs.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basThunder": {
   "ch": "雷灵根，需要达到要求的值才可学习对应的雷属性技能，并且可以提升化解敌人雷属性技能的概率。\n\n雷灵根可以通过使用雷灵果提升，雷灵果可在雷法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Lightning Root stat to the required value to learn the corresponding Lightning skill and increase your chance to neutralize your enemies' Lightning skills.\n\nThe Lightning Root stat can be increased by using Lightning Fruit, which is redeemed in the Treasure Pavilion of Lightning Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Raiz de Relâmpago até o nível necessário para aprender a respectiva habilidade de Relâmpago e, assim, elevar suas chances de neutralizar as habilidades de Relâmpago dos inimigos.\n\nEsse atributo pode ser aumentado ao utilizar o Fruto do Relâmpago, que é trocado no Pavilhão do Tesouro das Seitas do Relâmpago.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basWind": {
   "ch": "风灵根，需要达到要求的值才可学习对应的风属性技能，并且可以提升化解敌人风属性技能的概率。\n\n风灵根可以通过使用风灵果提升，风灵果可在风法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Wind Root stat to the required value to learn the corresponding Wind skill and increase your chance to neutralize your enemies' Wind skills.\n\nThe Wind Root stat can be increased by using Wind Fruit, which is redeemed in the Treasure Pavilion of Wind Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Raiz de Vento até o nível necessário para aprender a respectiva habilidade de Vento e assim elevar suas chances de neutralizar as habilidades de Vento dos inimigos.\n\nO atributo Raiz de Vento pode ser aumentado ao utilizar o Fruto do Vento, que é resgatado no Pavilhão do Tesouro das Seitas do Vento.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_basWood": {
   "ch": "木灵根，需要达到要求的值才可学习对应的木属性技能，并且可以提升化解敌人木属性技能的概率。\n\n木灵根可以通过使用木灵果提升，木灵果可在木法宗门中的聚宝仙楼中兑换获得。",
   "en": "Increase your Wood Root stat to the required value to learn the corresponding Wood skill and increase your chance to neutralize your enemies' Wood skills.\n\nThe Wood Root stat can be increased by using Wood Fruit, which is redeemed in the Treasure Pavilion of Wood Sects.",
-  "pt": ""
+  "pt": "Aumente o valor do atributo Raiz de Madeira até o nível necessário para aprender a respectiva habilidade de Madeira e, assim, aumentar suas chances de neutralizar as habilidades de Madeira dos inimigos.\n\nO atributo Raiz de Madeira pode ser elevado ao se utilizar o Fruto da Madeira, que é resgatado no Pavilhão do Tesouro das Seitas da Madeira.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_beauty": {
   "ch": "魅力影响NPC对你的态度。",
   "en": "Charisma affects NPCs' attitudes toward you.",
-  "pt": ""
+  "pt": "O Carisma influencia a atitude dos NPCs em relação a você.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_crit": {
   "ch": "影响角色在战斗中造成暴击的概率。",
   "en": "Affects your character's chance of landing a critical strike during combat.",
-  "pt": ""
+  "pt": "Afeta a chance do seu personagem de fazer um acerto crítico durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_critV": {
   "ch": "影响角色在战斗中造成的暴击伤害倍数。",
   "en": "Affects how much critical damage your character deals during combat.",
-  "pt": ""
+  "pt": "Afeta o quanto de dano crítico seu personagem causa durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_def": {
   "ch": "角色的防御，降低角色在战斗中受到的伤害。",
   "en": "Affects how much damage your character takes during combat.",
-  "pt": ""
+  "pt": "Afeta quanto dano seu personagem recebe durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_dp": {
   "ch": "角色在战斗中释放领域技能时，需要消耗道力值。\n道力值每个月会自动少量恢复。",
   "en": "Casting Field Skills during combat consumes Tao Power.\nTao Power recovers automatically by a small amount every month.",
-  "pt": ""
+  "pt": "Usar Habilidades no Domínio durante o combate consome Poder do Dao.\nO Poder do Dao se recupera automaticamente em pequenas quantidades todo mês.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_energy": {
   "ch": "角色在进行一些行为时（如战斗），需要消耗精力，精力不足则无法进行。",
   "en": "Your character consumes Stamina when taking certain actions (e.g., combat). Without enough Stamina, the actions won't be taken.",
-  "pt": ""
+  "pt": "Seu personagem gasta Vigor ao realizar determinadas ações (por exemplo, no combate). Sem Vigor suficiente, essas ações não poderão ser realizadas.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_fsp": {
   "ch": "影响角色在大地图中移动的效率，脚力越高，移动时所需的时间越少。",
   "en": "Affects how quickly your character moves on the world map. The higher the Travel Speed, the less time needed to reach the destination.",
-  "pt": ""
+  "pt": "Influencia a rapidez com que seu personagem se move no mapa do mundo. Quanto maior a Velocidade de Viagem, menos tempo será necessário para chegar ao destino.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_guard": {
   "ch": "降低角色在战斗中受到暴击的概率。",
   "en": "Affects your character's chance of receiving a critical strike during combat.",
-  "pt": ""
+  "pt": "Afeta a chance do seu personagem de receber um ataque crítico durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_guardV": {
   "ch": "降低角色在战斗中受到的暴击伤害倍数。",
   "en": "Affects how much critical damage your character takes during combat.",
-  "pt": ""
+  "pt": "Afeta o quanto de dano crítico seu personagem recebe durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_health": {
   "ch": "健康过低时，会持续减少体力，当健康过低时，会获得负面气运。",
   "en": "When Health is low, your character will lose Vitality over time and have a chance to receive negative Destinies.",
-  "pt": ""
+  "pt": "Quando a Saúde está baixa, seu personagem perderá Vitalidade com o tempo e terá chance de receber Destinos negativos.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_hp": {
   "ch": "体力是角色的生命值，在战斗中体力为0时，则会死亡。",
   "en": "Vitality is the equivalent of your character's HP. Your character will die during battle if Vitality drops to 0.",
-  "pt": ""
+  "pt": "A Vitalidade equivale aos PV do seu personagem. Seu personagem morrerá durante uma batalha se a Vitalidade chegar a 0.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_life": {
   "ch": "寿命是生存的基础条件，当寿命用尽时，角色死亡且无法复活。",
   "en": "Lifespan determines how long your character can live. When Lifespan reaches its limit, your character will die and can't revive.",
-  "pt": ""
+  "pt": "A Longevidade determina por quanto tempo seu personagem pode viver. Quando a Longevidade atingir seu limite, seu personagem morrerá e não poderá ser ressuscitado.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_luck": {
   "ch": "幸运影响角色在各种行动中的随机结果。",
   "en": "Luck affects the results of your character's various actions.",
-  "pt": ""
+  "pt": "A Sorte influencia os resultados das diversas ações do seu personagem.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_mfr": {
   "ch": "降低角色在战斗中受到的属性伤害。",
   "en": "Affects how much Spiritual damage your character takes during combat.",
-  "pt": ""
+  "pt": "Afeta o quanto de dano Espiritual seu personagem recebe durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_mood": {
   "ch": "心情影响角色的状态，当心情低落时，会有概率获得负面气运。使用兴趣类道具可以恢复心情。",
   "en": "Mood affects your character's status. When Mood is low, your character will have a chance to receive negative Destinies. Use <b>Interest items</b> to recover Mood.",
-  "pt": ""
+  "pt": "O Humor afeta o status do seu personagem. Quando o Humor está baixo, seu personagem tem chance de receber Destinos negativos. Use <b>itens de interesse</b> para recuperar o Humor.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_mp": {
   "ch": "角色在战斗中施放技能时，需要消耗灵力值。",
   "en": "Casting skills during combat consumes Energy.",
-  "pt": ""
+  "pt": "O uso de habilidades durante o combate consome Energia.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_msp": {
   "ch": "角色在战斗中的移动速度。",
   "en": "Affects your character's movement speed during combat.",
-  "pt": ""
+  "pt": "Afeta a velocidade de movimento do seu personagem durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_pfr": {
   "ch": "降低角色在战斗中受到的功法伤害。",
   "en": "Affects how much Martial damage your character takes during combat.",
-  "pt": ""
+  "pt": "Afeta o quanto de dano marcial seu personagem recebe durante o combate.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_reputation": {
   "ch": "声望影响NPC对你的态度。",
   "en": "Reputation affects NPCs' attitudes toward you.",
-  "pt": ""
+  "pt": "A Reputação influencia a atitude dos NPCs em relação a você.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_soulPoint": {
   "ch": "法宝需要足够的魂力，才能注入器灵。",
   "en": "Artifact needs enough Spirit Power to infuse Artifact Spirit.",
-  "pt": ""
+  "pt": "O Artefato precisa de Poder de Espírito suficiente para infundir o Espírito do Artefato.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_sp": {
   "ch": "角色在战斗中使用道具时，需要消耗念力值。",
   "en": "Using items during combat consumes Focus.",
-  "pt": ""
+  "pt": "O uso de itens durante o combate consome Foco.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_attribute_desc_standDown": {
   "ch": "影响魔道势力对角色的态度。",
   "en": "Affects demonic clans' attitudes toward you.",
-  "pt": ""
+  "pt": "Afeta a atitude dos clãs demoníacos em relação a você.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_standUp": {
   "ch": "影响正道势力对角色的态度。",
   "en": "Affects righteous clans' attitudes toward you.",
-  "pt": ""
+  "pt": "Afeta a atitude dos clãs justos em relação a você.",
+  "auto": "local/hy-mt2"
  },
  "role_attribute_desc_talent": {
   "ch": "悟性影响角色在修炼技能时的消耗及效率。",
   "en": "Insight determines the cost and efficiency when your character upgrade skills.",
-  "pt": ""
+  "pt": "A Percepção determina o custo e a eficiência ao aprimorar as habilidades do seu personagem.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_beauty_name1": {
   "ch": "憎呕",
   "en": "Abomination",
-  "pt": ""
+  "pt": "Abominação",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name10": {
   "ch": "",
   "en": "<color=#CE0000>Stunning</color>",
-  "pt": ""
+  "pt": "<color=#CE0000>Deslumbrante</color>",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "role_beauty_name11": {
   "ch": "",
   "en": "<color=#CE0000>Breathtaking</color>",
-  "pt": ""
+  "pt": "<color=#CE0000>De tirar o fôlego</color>",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "role_beauty_name12": {
   "ch": "",
   "en": "<color=#FF0000>神明</color>",
-  "pt": ""
+  "pt": "<color=#FF0000>Divindade</color>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_beauty_name13": {
   "ch": "",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name2": {
   "ch": "丑陋",
   "en": "Hideous",
-  "pt": ""
+  "pt": "Horrendo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_beauty_name3": {
   "ch": "怪异",
   "en": "Ugly",
-  "pt": ""
+  "pt": "Feio",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name4": {
   "ch": "普通",
   "en": "Average",
-  "pt": ""
+  "pt": "Médio",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_beauty_name5": {
   "ch": "出众",
   "en": "Pretty",
-  "pt": ""
+  "pt": "Bonito",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name6": {
   "ch": "超凡",
   "en": "Beautiful",
-  "pt": ""
+  "pt": "Lindo",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name7": {
   "ch": "仙姿",
   "en": "Divine",
-  "pt": ""
+  "pt": "Divino",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name8": {
   "ch": "",
   "en": "<color=#0072E3>Graceful</color>",
-  "pt": ""
+  "pt": "<color=#0072E3>Elegante</color>",
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name9": {
   "ch": "",
   "en": "<color=#0072E3>Beautiful</color>",
-  "pt": ""
+  "pt": "<color=#0072E3>Lindo</color>",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc1": {
   "ch": "为人大公无私，对朋友与宗门格外关注。",
   "en": "Selfless. Cares about friends and sect members.",
-  "pt": ""
+  "pt": "Altruísta. Se preocupa com os amigos e com os membros da seita.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc10": {
   "ch": "对子女、徒弟比较偏爱。",
   "en": "Protective of children and apprentices",
-  "pt": ""
+  "pt": "Protege crianças e aprendizes",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc11": {
   "ch": "重视独立，不愿合群，重视自我利益。",
   "en": "Independent lone wolf that values self interests",
-  "pt": ""
+  "pt": "Lobo solitário independente que valoriza os próprios interesses",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc12": {
   "ch": "爱护家庭，对父母子女，兄弟姐妹，配偶特别重视。",
   "en": "Always puts family members first",
-  "pt": ""
+  "pt": "Sempre coloca os membros da família em primeiro lugar",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc13": {
   "ch": "爱好名声，偏向正道。",
   "en": "Values fame. Righteous tendencies.",
-  "pt": ""
+  "pt": "Valoriza a fama. Tem tendências justas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_character_desc14": {
   "ch": "重视权力，对自我，宗门比较关注，偏向魔道。",
   "en": "Values power. Focuses on self-interests and own clan. Demonic tendencies.",
-  "pt": ""
+  "pt": "Valoriza o poder. Foca nos interesses próprios e no próprio clã. Possui tendências demoníacas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_character_desc15": {
   "ch": "睚眦必报，重视自已，仇恨敌人。",
   "en": "Seeks revenge for the smallest grievance. Puts self-interests first. Hates enemies.",
-  "pt": ""
+  "pt": "Busca vingança até pelo menor desgosto. Coloca seus próprios interesses em primeiro lugar. Odeia os inimigos.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc16": {
   "ch": "为人任性不羁，在兴趣上会花更多时间。",
   "en": "Carefree. Willing to spend more time and effort on hobbies.",
-  "pt": ""
+  "pt": "Despreocupado. Disposto a dedicar mais tempo e esforço aos hobbies.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc17": {
   "ch": "天生情种，永远在追求爱情的路上。",
   "en": "Natural romantic, always looking for love",
-  "pt": ""
+  "pt": "Romântico por natureza, sempre à procura do amor",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc18": {
   "ch": "重视传承，尊师重教。",
   "en": "Values tradition. Respects elders and people of authority.",
-  "pt": ""
+  "pt": "Valoriza a tradição. Respeita os anciãos e as pessoas com autoridade.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc19": {
   "ch": "对夫妻之情忠贞不渝。",
   "en": "Faithful to spouse",
-  "pt": ""
+  "pt": "Fiel ao cônjuge",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc2": {
   "ch": "为人正直，对朋友与宗门比较关注，对仇人分外憎恨。",
   "en": "A person of integrity. Loves friends and sect members. Hates enemies.",
-  "pt": ""
+  "pt": "Uma pessoa íntegra. Ama seus amigos e os membros da sua seita. Odeia os inimigos.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc3": {
   "ch": "为人仁善，对其它人都比较友好。",
   "en": "Kind to most people",
-  "pt": ""
+  "pt": "Gentil com a maioria das pessoas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 25 caracteres"
+  ]
  },
  "role_character_desc4": {
   "ch": "为人中庸，对所有人都是一样的。",
   "en": "Adherent of the Middle Way",
-  "pt": ""
+  "pt": "Aderente do Caminho do Meio",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc5": {
   "ch": "为人狂妄邪门，行事风格诡异。",
   "en": "Wicked and eccentric",
-  "pt": ""
+  "pt": "Perverso e excêntrico",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc6": {
   "ch": "以利已为最大出发点，对仇人不愿宽容。",
   "en": "Focuses on self-interests. Shows no mercy toward enemies.",
-  "pt": ""
+  "pt": "Foca nos próprios interesses. Não mostra piedade para com os inimigos.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc7": {
   "ch": "邪恶，唯已所欲，从来不管其它人的感受。",
   "en": "Evil and egoistic with no regard to the feelings of others",
-  "pt": ""
+  "pt": "Maligno e egoísta, sem qualquer consideração pelos sentimentos dos outros.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc8": {
   "ch": "重视天伦之乐，爱父母、子女、师父、徒弟。",
   "en": "Values family members and masters/apprentices",
-  "pt": ""
+  "pt": "Valoriza os membros da família e os mestres/aprendizes.",
+  "auto": "local/hy-mt2"
  },
  "role_character_desc9": {
   "ch": "重视义气，为朋友两肋插刀，维护宗门。",
   "en": "Loyal to friends and sect members",
-  "pt": ""
+  "pt": "Leal aos amigos e aos membros da seita",
+  "auto": "local/hy-mt2"
  },
  "role_character_name1": {
   "ch": "无私",
@@ -493,661 +577,826 @@
  "role_grade_Desc12": {
   "ch": "必要材料：三花丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Three Flower Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Três Elixires de Flor. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc13": {
   "ch": "必要材料：云中丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Cloud Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir das Nuvens. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc14": {
   "ch": "必要材料：任意六道灵珠之一。灵珠的纯度越高，突破时的成功概率越高。可辅用玄微丹增加成功概率。",
   "en": "Necessary materials: Any 1 of the 6 Qi Orbs. The higher the Qi Orb's Purity, the higher the success rate of your Breakthrough. You can also use Subtlety Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Qualquer um dos 6 Orbes de Qi. Quanto maior a pureza do Orbe de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode usar Elixires de Subtileza para aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc15": {
   "ch": "必要材料：任意六道灵珠之三。灵珠的纯度越高，突破时的成功概率越高。可辅用聚灵丹增加成功概率。",
   "en": "Necessary materials: Any 3 of the 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Soul Gathering Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 Orbes de Qi. Quanto maior a pureza dos Orbes de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Coleta de Alma para aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc16": {
   "ch": "必要材料：所有六道灵珠。灵珠的纯度越高，突破时的成功概率越高。可辅用万河丹增加成功概率。",
   "en": "Necessary materials: All 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Thousand River Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: os 6 Orbes de Qi. Quanto maior a pureza dos Orbes de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode usar Elixires do Rio Milenar para aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc19": {
   "ch": "必要材料：化灵丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Spirit Transformation Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir de Transformação do Espírito. Quanto mais raro for o Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc22": {
   "ch": "必要材料：结婴丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Nascent Soul Elixir (Mortal). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir da Alma Nascente (Mortal). Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc23": {
   "ch": "必要材料：地道之气。气息纯度越高，突破时的成功概率越高。可辅用破茧丹增加成功概率。",
   "en": "Necessary materials: Earth Aura. The higher its Purity, the higher the success rate of your Breakthrough. You can also use Nascent Soul Elixirs (Earth) to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Aura da Terra. Quanto maior a pureza dessa Aura, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Alma Nascente (Terra) para aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc24": {
   "ch": "必要材料：天道之气。气息纯度越高，突破时的成功概率越高。可辅用六窍丹增加成功概率。",
   "en": "Necessary materials: Heaven Aura. The higher its Purity, the higher the success rate of your Breakthrough. You can also use Nascent Soul Elixirs (Heaven) to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Aura do Céu. Quanto maior a pureza dessa Aura, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Alma Nascente (Céu) para aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc27": {
   "ch": "必要材料：化神丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Soul Reconstruction Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir de Reconstrução da Alma. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc30": {
   "ch": "必要材料：悟道丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Enlightenment Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir da Iluminação. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc31": {
   "ch": "必要材料：任意六道灵斗气之一。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
   "en": "Necessary materials: Any 1 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Qualquer um dos 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação dos Três Reinos para aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc32": {
   "ch": "必要材料：任意六道灵斗气之三。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
   "en": "Necessary materials: Any 3 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação para Três Reinos a fim de aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc33": {
   "ch": "必要材料：所有六道灵斗气。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
   "en": "Necessary materials: All 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: os 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação para os Três Reinos a fim de aumentar essa taxa de sucesso.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc36": {
   "ch": "必要材料：羽化丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Reborn Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir de Renascimento. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "local/hy-mt2"
  },
  "role_grade_Desc39": {
   "ch": "必要材料：登仙丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Transcendent Elixir (Yellow). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir da Transcendência (Amarelo). Quanto maior a raridade do Elixir, maior a taxa de sucesso do seu Avanço.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc4": {
   "ch": "必要材料：筑基丹。丹药品质越高，突破时的成功率越高。",
   "en": "Necessary materials: Foundation Elixir (Mortal). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir da Fundação (Mortal). Quanto maior a raridade do Elixir, maior a taxa de sucesso do seu Avanço.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc40": {
   "ch": "必要材料：任意六道灵斗珠之一。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。",
   "en": "Necessary materials: Any 1 of the 6 Condensed Qi Orbs. The higher the Condensed Qi Orb's Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Qualquer 1 dos 6 Orbes de Qi Condensado. Quanto maior a Pureza do Orbe de Qi Condensado, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Transcendência dos Três Caminhos para aumentar sua taxa de sucesso.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc41": {
   "ch": "必要材料：任意六道灵斗珠之三。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。",
   "en": "Necessary materials: Any 3 of the 6 Condensed Qi Orbs. The higher the Condensed Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 Orbes de Qi Condensado. Quanto maior a Pureza dos Orbes de Qi Condensado, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Transcendência dos Três Caminhos para aumentar sua taxa de sucesso.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc42": {
   "ch": "必要材料：所有六道灵斗珠。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。",
   "en": "Necessary materials: All 6 Condensed Qi Orbs. The higher the Condensed Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Todos os 6 Orbes de Qi Condensado. Quanto maior a Pureza dos Orbes de Qi Condensado, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Transcendência dos Três Caminhos para aumentar sua taxa de sucesso.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc5": {
   "ch": "必要材料：任意六道灵气之三。灵气的纯度越高，突破时的成功率越高。可辅用地坤丹增加成功概率。",
   "en": "Necessary materials: Any 3 of the 6 Qi. The higher the Qi's Purity, the higher the success rate of your Breakthrough. You can also use Foundation Elixirs (Earth) to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 Qi. Quanto maior a Pureza do Qi, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Fundação (Terra) para aumentar sua taxa de sucesso.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc6": {
   "ch": "必要材料：所有六道灵气。灵气的纯度越高，突破时的成功率越高。可辅用天乾丹增加成功概率。",
   "en": "Necessary materials: All 6 Qi. The higher the Qi's Purity, the higher the success rate of your Breakthrough. You can also use Foundation Elixirs (Heaven) to increase your success rate.",
-  "pt": ""
+  "pt": "Materiais necessários: Todos os 6 Qi. Quanto maior a Pureza do Qi, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Fundação (Céu) para aumentar sua taxa de sucesso.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_Desc9": {
   "ch": "必要材料：化晶丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Qi Condensation Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": ""
+  "pt": "Materiais necessários: Elixir da Condensação de Qi. Quanto maior a raridade do Elixir, maior a taxa de sucesso do seu Avanço.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase102": {
   "ch": "登仙中期",
   "en": "Transcendent Middle",
-  "pt": ""
+  "pt": "Transcendência Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase103": {
   "ch": "登仙后期",
   "en": "Transcendent Late",
-  "pt": ""
+  "pt": "Transcendência Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase12": {
   "ch": "炼气中期",
   "en": "Qi Refining Middle",
-  "pt": ""
+  "pt": "Refinamento de Qi Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase13": {
   "ch": "炼气后期",
   "en": "Qi Refining Late",
-  "pt": ""
+  "pt": "Refinamento de Qi Final",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "role_grade_grow_phase22": {
   "ch": "筑基中期",
   "en": "Foundation Middle",
-  "pt": ""
+  "pt": "Fundação Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase23": {
   "ch": "筑基后期",
   "en": "Foundation Late",
-  "pt": ""
+  "pt": "Fundação Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase32": {
   "ch": "结晶中期",
   "en": "Qi Condensation Middle",
-  "pt": ""
+  "pt": "Condensação de Qi Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase33": {
   "ch": "结晶后期",
   "en": "Qi Condensation Late",
-  "pt": ""
+  "pt": "Condensação de Qi Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase42": {
   "ch": "金丹中期",
   "en": "Golden Core Middle",
-  "pt": ""
+  "pt": "Núcleo Dourado Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase43": {
   "ch": "金丹后期",
   "en": "Golden Core Late",
-  "pt": ""
+  "pt": "Núcleo Dourado Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase52": {
   "ch": "具灵中期",
   "en": "Origin Spirit Middle",
-  "pt": ""
+  "pt": "Espírito de Origem Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase53": {
   "ch": "具灵后期",
   "en": "Origin Spirit Late",
-  "pt": ""
+  "pt": "Espírito de Origem Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase62": {
   "ch": "元婴中期",
   "en": "Nascent Soul Middle",
-  "pt": ""
+  "pt": "Alma Nascente Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase63": {
   "ch": "元婴后期",
   "en": "Nascent Soul Late",
-  "pt": ""
+  "pt": "Alma Nascente Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase72": {
   "ch": "化神中期",
   "en": "Soul Formation Middle",
-  "pt": ""
+  "pt": "Formação da Alma Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase73": {
   "ch": "化神后期",
   "en": "Soul Formation Late",
-  "pt": ""
+  "pt": "Formação da Alma Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase82": {
   "ch": "悟道中期",
   "en": "Enlightenment Middle",
-  "pt": ""
+  "pt": "Iluminação Médio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase83": {
   "ch": "悟道后期",
   "en": "Enlightenment Late",
-  "pt": ""
+  "pt": "Iluminação Final",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase92": {
   "ch": "羽化中期",
   "en": "Reborn Middle",
-  "pt": ""
+  "pt": "Renascimento Médio",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "role_grade_grow_phase93": {
   "ch": "羽化后期",
   "en": "Reborn Late",
-  "pt": ""
+  "pt": "Renascimento Final",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "role_grade_grow_quality102": {
   "ch": "黄道登仙",
   "en": "Transcendent - Yellow",
-  "pt": ""
+  "pt": "Transcendência - Amarelo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality103": {
   "ch": "玄道登仙",
   "en": "Transcendent - Dark",
-  "pt": ""
+  "pt": "Transcendência - Sombrio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality104": {
   "ch": "地道登仙",
   "en": "Transcendent - Earth",
-  "pt": ""
+  "pt": "Transcendência - Terra",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality105": {
   "ch": "登仙",
   "en": "Transcendent",
-  "pt": ""
+  "pt": "Transcendência",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality21": {
   "ch": "人道筑基",
   "en": "Foundation - Mortal",
-  "pt": ""
+  "pt": "Fundação - Mortal",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality23": {
   "ch": "地道筑基",
   "en": "Foundation - Earth",
-  "pt": ""
+  "pt": "Fundação - Terra",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality25": {
   "ch": "天道筑基",
   "en": "Foundation - Heaven",
-  "pt": ""
+  "pt": "Fundação - Céu",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality30": {
   "ch": "结晶",
   "en": "Qi Condensation (III)",
-  "pt": ""
+  "pt": "Condensação de Qi (III)",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality41": {
   "ch": "五品金丹",
   "en": "G5 Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado G5",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality42": {
   "ch": "四品金丹",
   "en": "G4 Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado G4",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality43": {
   "ch": "三品金丹",
   "en": "G3 Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado G3",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality44": {
   "ch": "二品金丹",
   "en": "G2 Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado G2",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality45": {
   "ch": "一品金丹",
   "en": "G1 Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality50": {
   "ch": "具灵",
   "en": "Origin Spirit (V)",
-  "pt": ""
+  "pt": "Espírito de Origem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality61": {
   "ch": "人道元婴",
   "en": "Nascent Soul - Mortal",
-  "pt": ""
+  "pt": "Alma Nascente - Mortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality63": {
   "ch": "地道元婴",
   "en": "Nascent Soul - Earth",
-  "pt": ""
+  "pt": "Alma Nascente - Terra",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality65": {
   "ch": "天道元婴",
   "en": "Nascent Soul - Heaven",
-  "pt": ""
+  "pt": "Alma Nascente - Céu",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality70": {
   "ch": "化神",
   "en": "Soul Formation (VII)",
-  "pt": ""
+  "pt": "Formação da Alma",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality82": {
   "ch": "悟道",
   "en": "Enlightenment (VIII)",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality83": {
   "ch": "悟道",
   "en": "Enlightenment (VIII)",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality84": {
   "ch": "悟道",
   "en": "Enlightenment (VIII)",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality85": {
   "ch": "悟道",
   "en": "Enlightenment (VIII)",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_grow_quality90": {
   "ch": "羽化",
   "en": "Reborn (IX)",
-  "pt": ""
+  "pt": "Renascimento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name1": {
   "ch": "炼气",
   "en": "Qi Refining (I)",
-  "pt": ""
+  "pt": "Refinamento de Qi",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name10": {
   "ch": "登仙",
   "en": "Transcendent (X)",
-  "pt": ""
+  "pt": "Transcendência",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name2": {
   "ch": "筑基",
   "en": "Foundation (II)",
-  "pt": ""
+  "pt": "Fundação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name3": {
   "ch": "结晶",
   "en": "Qi Condensation (III)",
-  "pt": ""
+  "pt": "Condensação de Qi",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name4": {
   "ch": "金丹",
   "en": "Golden Core (IV)",
-  "pt": ""
+  "pt": "Núcleo Dourado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name5": {
   "ch": "具灵",
   "en": "Origin Spirit (V)",
-  "pt": ""
+  "pt": "Espírito de Origem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name6": {
   "ch": "元婴",
   "en": "Nascent Soul (VI)",
-  "pt": ""
+  "pt": "Alma Nascente",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name7": {
   "ch": "化神",
   "en": "Soul Formation (VII)",
-  "pt": ""
+  "pt": "Formação da Alma",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name8": {
   "ch": "悟道",
   "en": "Enlightenment (VIII)",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_grade_name9": {
   "ch": "羽化",
   "en": "Reborn (IX)",
-  "pt": ""
+  "pt": "Renascimento (IX)",
+  "auto": "gemini/gemini-2.5-flash",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "role_grade_phase1": {
   "ch": "初期",
   "en": " Early",
-  "pt": ""
+  "pt": " Inicial",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "role_grade_phase2": {
   "ch": "中期",
   "en": " Middle",
-  "pt": ""
+  "pt": " Meio",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "role_grade_phase3": {
   "ch": "后期",
   "en": " Late",
-  "pt": ""
+  "pt": " Final",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "role_hobby_desc1101": {
   "ch": "下雨时，心情会有所提升。",
   "en": "Better Mood when it's rainy.",
-  "pt": ""
+  "pt": "Humor melhor quando está chovendo.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1102": {
   "ch": "天晴时，心情会有所提升。",
   "en": "Better Mood when it's sunny.",
-  "pt": ""
+  "pt": "Melhor Humor quando está ensolarado.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_desc1103": {
   "ch": "下雪时，心情会有所提升。",
   "en": "Better Mood when it's snowy.",
-  "pt": ""
+  "pt": "Humor melhor quando está nevando.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1104": {
   "ch": "打雷时，心情会有所提升。",
   "en": "Better Mood when there's a thunderstorm.",
-  "pt": ""
+  "pt": "Melhor Humor quando há tempestade.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1105": {
   "ch": "阴天时，心情会有所提升。",
   "en": "Better Mood when it's cloudy.",
-  "pt": ""
+  "pt": "Melhor Humor quando está nublado.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1201": {
   "ch": "使用琴时，心情会有所提升。可以在个别城镇的坊市中购买到琴。",
   "en": "Better Mood when using a Guqin, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "O Humor melhora ao se tocar o Guqin, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1202": {
   "ch": "使用笛时，心情会有所提升。可以在个别城镇的坊市中购买到笛。",
   "en": "Better Mood when using a Flute, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao se usar uma Flauta, que pode ser comprada nos mercados de algumas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1203": {
   "ch": "使用箫时，心情会有所提升。可以在个别城镇的坊市中购买到箫。",
   "en": "Better Mood when using a Xiao, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um Xiao, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1204": {
   "ch": "使用钟时，心情会有所提升。可以在个别城镇的坊市中购买到钟。",
   "en": "Better Mood when using a Bianzhong, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um Bianzhong, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1205": {
   "ch": "使用图册时，心情会有所提升。可以在个别城镇的坊市中购买到图册。",
   "en": "Better Mood when using an Illustrated Book, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um Livro Ilustrado, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_desc1206": {
   "ch": "使用花草时，心情会有所提升。可以在个别城镇的坊市中购买到花草。",
   "en": "Better Mood when using a Plant, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar uma planta, que pode ser comprada nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1207": {
   "ch": "使用竹器时，心情会有所提升。可以在个别城镇的坊市中购买到竹器。",
   "en": "Better Mood when using a piece of Bambooware, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um objeto de bambu, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_desc1208": {
   "ch": "使用书籍时，心情会有所提升。可以在个别城镇的坊市中购买到书籍。",
   "en": "Better Mood when using a Book, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um Livro, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_desc1209": {
   "ch": "使用骨器时，心情会有所提升。可以在个别城镇的坊市中购买到骨器。",
   "en": "Better Mood when using a piece of Boneware, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um objeto de osso, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_desc1210": {
   "ch": "使用玉器时，心情会有所提升。可以在个别城镇的坊市中购买到玉器。",
   "en": "Better Mood when using a piece of Jadeware, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um objeto de jade, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1211": {
   "ch": "使用石器时，心情会有所提升。可以在个别城镇的坊市中购买到石器。",
   "en": "Better Mood when using a piece of Stoneware, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um objeto de pedra, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_desc1212": {
   "ch": "使用陶器时，心情会有所提升。可以在个别城镇的坊市中购买到陶器。",
   "en": "Better Mood when using a piece of Pottery, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar uma peça de cerâmica, que pode ser comprada nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2"
  },
  "role_hobby_desc1213": {
   "ch": "使用饰品时，心情会有所提升。可以在个别城镇的坊市中购买到饰品。",
   "en": "Better Mood when using an Accessory, which can be purchased from the markets in certain towns.",
-  "pt": ""
+  "pt": "Melhora o Humor ao usar um acessório, que pode ser comprado nos mercados de determinadas vilas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "role_hobby_name101": {
   "ch": "雨天",
   "en": "Rainy",
-  "pt": ""
+  "pt": "Chuvoso",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name102": {
   "ch": "晴天",
   "en": "Sunny",
-  "pt": ""
+  "pt": "Ensolarado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "role_hobby_name103": {
   "ch": "雪天",
   "en": "Snowy",
-  "pt": ""
+  "pt": "Nevoso",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name104": {
   "ch": "打雷",
   "en": "Thunderstorm",
-  "pt": ""
+  "pt": "Tempestade",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name105": {
   "ch": "阴天",
   "en": "Cloudy",
-  "pt": ""
+  "pt": "Nublado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name201": {
   "ch": "琴",
   "en": "Guqin",
-  "pt": ""
+  "pt": "Guqin",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "role_hobby_name202": {
   "ch": "笛",
   "en": "Flute",
-  "pt": ""
+  "pt": "Flauta",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name203": {
   "ch": "箫",
   "en": "Xiao",
-  "pt": ""
+  "pt": "Xiao",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name204": {
   "ch": "钟",
   "en": "Bianzhong",
-  "pt": ""
+  "pt": "Bianzhong",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "role_hobby_name205": {
   "ch": "图册",
   "en": "Illustrated Books",
-  "pt": ""
+  "pt": "Livros Ilustrados",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name206": {
   "ch": "花草",
   "en": "Plants",
-  "pt": ""
+  "pt": "Plantas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name207": {
   "ch": "竹器",
   "en": "Bambooware",
-  "pt": ""
+  "pt": "Bambus",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name208": {
   "ch": "书籍",
   "en": "Books",
-  "pt": ""
+  "pt": "Livros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name209": {
   "ch": "骨器",
   "en": "Boneware",
-  "pt": ""
+  "pt": "Ossos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name210": {
   "ch": "玉器",
   "en": "Jadeware",
-  "pt": ""
+  "pt": "Jade",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name211": {
   "ch": "石器",
   "en": "Stoneware",
-  "pt": ""
+  "pt": "Pedra",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name212": {
   "ch": "陶器",
   "en": "Pottery",
-  "pt": ""
+  "pt": "Cerâmica",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name213": {
   "ch": "饰品",
   "en": "Accessory",
-  "pt": ""
+  "pt": "Acessório",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_jinglibuzu": {
   "ch": "对方精力不足",
   "en": "Target's Stamina is too low",
-  "pt": ""
+  "pt": "O Vigor do alvo está muito baixo.",
+  "auto": "local/hy-mt2"
  },
  "role_race_demon": {
   "ch": "妖族",
   "en": "Untamed",
-  "pt": ""
+  "pt": "Indomado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_race_herd": {
   "ch": "冥妖",
   "en": "Nether Demon",
-  "pt": ""
+  "pt": "Demônio do Submundo",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "role_race_human": {
   "ch": "人族",
   "en": "Human",
-  "pt": ""
+  "pt": "Humano",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "role_reputation_name1": {
   "ch": "默默无闻",
   "en": "Obscure",
-  "pt": ""
+  "pt": "Obscuro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name10": {
   "ch": "举世闻名",
   "en": "Exalted",
-  "pt": ""
+  "pt": "Exaltado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name11": {
   "ch": "名垂青史",
   "en": "Legendary",
-  "pt": ""
+  "pt": "Lendário",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name2": {
   "ch": "初出茅庐",
   "en": "Unproven",
-  "pt": ""
+  "pt": "Incomprovado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "role_reputation_name3": {
   "ch": "崭露头角",
   "en": "Recognized",
-  "pt": ""
+  "pt": "Reconhecido",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name4": {
   "ch": "石破天惊",
   "en": "Prominent",
-  "pt": ""
+  "pt": "Prominente",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name5": {
   "ch": "名震一时",
   "en": "Esteemed",
-  "pt": ""
+  "pt": "Estimado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name6": {
   "ch": "闻名遐迩",
   "en": "Famed",
-  "pt": ""
+  "pt": "Famoso",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name7": {
   "ch": "大名鼎鼎",
   "en": "Renowned",
-  "pt": ""
+  "pt": "Renomado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name8": {
   "ch": "声名远扬",
   "en": "Illustrious",
-  "pt": ""
+  "pt": "Ilustrious",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_reputation_name9": {
   "ch": "名满天下",
   "en": "Revered",
-  "pt": ""
+  "pt": "Reverenciado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "role_sex_female": {
   "ch": "女",
   "en": "Female",
-  "pt": ""
+  "pt": "Feminino",
+  "auto": "local/hy-mt2"
  },
  "role_sex_male": {
   "ch": "男",
   "en": "Male",
-  "pt": ""
+  "pt": "Masculino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 9 > 7 caracteres"
+  ]
  }
 }

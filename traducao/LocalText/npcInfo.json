@@ -2,596 +2,763 @@
  "npcInfo_biaoji": {
   "ch": "标记",
   "en": "Mark",
-  "pt": ""
+  "pt": "Marcar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_bukejiaohu": {
   "ch": "当前状态不可互动！",
   "en": "Interaction is unavailable in your current state.",
-  "pt": ""
+  "pt": "A interação não está disponível no seu estado atual.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_caozhuotishi": {
   "ch": "必须移动同一个位置进行操作",
   "en": "Two people must be in the same space!",
-  "pt": ""
+  "pt": "Duas pessoas devem estar no mesmo espaço!",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_chakanxiangqing": {
   "ch": "查看详情",
   "en": "View Details",
-  "pt": ""
+  "pt": "Ver Detalhes",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_chongxinkaolv": {
   "ch": "重新考虑",
   "en": "Reconsider",
-  "pt": ""
+  "pt": "Reconsiderar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_chouren": {
   "ch": "仇人",
   "en": "Enemy",
-  "pt": ""
+  "pt": "Inimigo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_daoxinjiandingdu": {
   "ch": "道心坚定度",
   "en": "Taoist Mind Dedication",
-  "pt": ""
+  "pt": "Dedicação do Coração do Dao",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_daoxinposui": {
   "ch": "道心破碎",
   "en": "Taoist Mind Shattered",
-  "pt": ""
+  "pt": "Coração do Dao Despedaçado",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_dazhanglao": {
   "ch": "大长老",
   "en": "Grand Elder",
-  "pt": ""
+  "pt": "Grão-Ancião",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_didi": {
   "ch": "弟弟",
   "en": "Younger Brother",
-  "pt": ""
+  "pt": "Irmão Mais Novo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_diren": {
   "ch": "仇视",
   "en": "Enemy",
-  "pt": ""
+  "pt": "Inimigo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_douji": {
   "ch": "斗鸡",
   "en": "Cockfight Chicken",
-  "pt": ""
+  "pt": "Galo de Briga",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_duihua": {
   "ch": "交谈",
   "en": "Talk",
-  "pt": ""
+  "pt": "Conversar",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 9 > 7 caracteres"
+  ]
  },
  "npcInfo_effectLevel1": {
   "ch": "初生",
   "en": "Birth",
-  "pt": ""
+  "pt": "Nascimento",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "npcInfo_effectLevel2": {
   "ch": "凝华",
   "en": "Essence",
-  "pt": ""
+  "pt": "Essência",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_effectLevel3": {
   "ch": "结粹",
   "en": "Perfection",
-  "pt": ""
+  "pt": "Perfeição",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_effectLevel_1": {
   "ch": "动摇",
   "en": "Shaken",
-  "pt": ""
+  "pt": "Abalado",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_effectLevel_2": {
   "ch": "倾颓",
   "en": "Decay",
-  "pt": ""
+  "pt": "Decadência",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "npcInfo_effectLevel_3": {
   "ch": "消弭",
   "en": "Disappeared",
-  "pt": ""
+  "pt": "Desaparecido",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_erzi": {
   "ch": "儿子",
   "en": "Son",
-  "pt": ""
+  "pt": "Filho",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_fabaodaoju": {
   "ch": "法宝道具",
   "en": "Artifact",
-  "pt": ""
+  "pt": "Artefato",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_fuchou": {
   "ch": "复仇",
   "en": "Revenge",
-  "pt": ""
+  "pt": "Vingança",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_fujun": {
   "ch": "丈夫",
   "en": "Husband",
-  "pt": ""
+  "pt": "Marido",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_fumu": {
   "ch": "父母",
   "en": "Parent",
-  "pt": ""
+  "pt": "Pais",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_fuqi": {
   "ch": "夫妻",
   "en": "Spouse",
-  "pt": ""
+  "pt": "Cônjuge",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_fuqin": {
   "ch": "父亲",
   "en": "Father",
-  "pt": ""
+  "pt": "Pai",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_gege": {
   "ch": "哥哥",
   "en": "Older Brother",
-  "pt": ""
+  "pt": "Irmão Mais Velho",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_gongji": {
   "ch": "攻击",
   "en": "Attack",
-  "pt": ""
+  "pt": "Atacar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_guanxichenggong": {
   "ch": "成功将{0}{1}关系！\n{2}和他的族人对你的亲密度提升了！",
   "en": "Relationship formed with {0}: {1}!\n{2} and their people now have a higher Affinity with you!",
-  "pt": ""
+  "pt": "Relação formada com {0}: {1}!\n{2} e seu povo agora têm uma Afinidade maior com você!",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_guanxiqueren": {
   "ch": "确定向{0}请求{1}关系吗？",
   "en": "Request to form {1} relationship with {0}?",
-  "pt": ""
+  "pt": "Solicitar formar relação de {1} com {0}?",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_guanxitishi": {
   "ch": "选择请求{0}的关系",
   "en": "Select a {0}",
-  "pt": ""
+  "pt": "Selecione um {0}",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_hunshi": {
   "ch": "婚事",
   "en": "Marriage",
-  "pt": ""
+  "pt": "Casamento",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jiaoyi": {
   "ch": "交易",
   "en": "Trade",
-  "pt": ""
+  "pt": "Trocar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jiebiao": {
   "ch": "劫镖",
   "en": "Loot",
-  "pt": ""
+  "pt": "Saquear",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jiebiaoshibai": {
   "ch": "背包已满不可劫镖",
   "en": "Your Inventory is full. Looting unavailable.",
-  "pt": ""
+  "pt": "Seu inventário está cheio. Saque indisponível.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jieduan1": {
   "ch": "一阶",
   "en": "First Stage",
-  "pt": ""
+  "pt": "Primeiro Estágio",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "npcInfo_jieduan2": {
   "ch": "二阶",
   "en": "Second Stage",
-  "pt": ""
+  "pt": "Segundo Estágio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jieduan3": {
   "ch": "三阶",
   "en": "Third Stage",
-  "pt": ""
+  "pt": "Terceiro Estágio",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "npcInfo_jiejie": {
   "ch": "姐姐",
   "en": "Older Sister",
-  "pt": ""
+  "pt": "Irmã Mais Velha",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jieyi": {
   "ch": "结义",
   "en": "Bond",
-  "pt": ""
+  "pt": "Vínculo",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_jieyuan": {
   "ch": "结缘",
   "en": "Partner",
-  "pt": ""
+  "pt": "Parceiro",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_jineng": {
   "ch": "装备技能",
   "en": "Skills equipped",
-  "pt": ""
+  "pt": "Habilidades equipadas",
+  "auto": "gemini/gemini-2.5-flash",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "npcInfo_jinglibuzu": {
   "ch": "精力不足",
   "en": "Stamina too low",
-  "pt": ""
+  "pt": "Vigor muito baixo",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_jinjie": {
   "ch": "进阶",
   "en": "Progress",
-  "pt": ""
+  "pt": "Progresso",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_juezhao": {
   "ch": "绝技",
   "en": "Special Skill",
-  "pt": ""
+  "pt": "Técnica Especial",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_kechuanshou": {
   "ch": "可传授道种给其他人！",
   "en": "Taoist Seed can be imparted to others!",
-  "pt": ""
+  "pt": "Semente Daoísta pode ser transmitida a outros!",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_kongque": {
   "ch": "空缺",
   "en": "Vacant",
-  "pt": ""
+  "pt": "Vago",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_lundao": {
   "ch": "论道",
   "en": "Debate",
-  "pt": ""
+  "pt": "Debate",
+  "auto": "gemini/gemini-2.5-flash",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "npcInfo_meimei": {
   "ch": "妹妹",
   "en": "Younger Sister",
-  "pt": ""
+  "pt": "Irmã Mais Nova",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_mingyao": {
   "ch": "冥妖",
   "en": "Nether Demon",
-  "pt": ""
+  "pt": "Demônio do Submundo",
+  "auto": "gemini/gemini-2.5-flash",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "npcInfo_moshengbeibao": {
   "ch": "陌生人不可查看背包",
   "en": "You can't inspect the Inventory of a Stranger.",
-  "pt": ""
+  "pt": "Não é possível inspecionar o Inventário de um Estranho.",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_moshengcaozuo": {
   "ch": "陌生人不可进行此行为",
   "en": "Action not allowed. The target is a Stranger.",
-  "pt": ""
+  "pt": "Ação não permitida. O alvo é um Estranho.",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_moshengren": {
   "ch": "陌生人",
   "en": "Stranger",
-  "pt": ""
+  "pt": "Estranho",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_muqin": {
   "ch": "母亲",
   "en": "Mother",
-  "pt": ""
+  "pt": "Mãe",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_neizaixingge": {
   "ch": "内在性格",
   "en": "Internal Traits",
-  "pt": ""
+  "pt": "Traços Internos",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_niangzi": {
   "ch": "妻子",
   "en": "Wife",
-  "pt": ""
+  "pt": "Esposa",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_nver": {
   "ch": "女儿",
   "en": "Daughter",
-  "pt": ""
+  "pt": "Filha",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_pengyou": {
   "ch": "好友",
   "en": "Friend",
-  "pt": ""
+  "pt": "Amigo",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_posui": {
   "ch": "破碎",
   "en": "Shatter",
-  "pt": ""
+  "pt": "Estilhaçar",
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_qiecuo": {
   "ch": "切磋",
   "en": "Spar",
-  "pt": ""
+  "pt": "Desafio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_qingjiao": {
   "ch": "请教",
   "en": "Learn",
-  "pt": ""
+  "pt": "Aprender",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_qingjiaoTip": {
   "ch": "需要一定的时间精进功法，暂时不可再向他人学习功法",
   "en": "Learn Martial Arts from this person. After successful learning, you need some time to practice before the next learning.",
-  "pt": ""
+  "pt": "Aprenda Artes Marciais com esta pessoa. Após aprender com sucesso, você precisa de algum tempo para praticar antes de aprender novamente.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_qingren": {
   "ch": "道侣",
   "en": "Partner",
-  "pt": ""
+  "pt": "Parceiro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_qinzu": {
   "ch": "亲族关系",
   "en": "Family",
-  "pt": ""
+  "pt": "Família",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_renji": {
   "ch": "人际关系",
   "en": "Social",
-  "pt": ""
+  "pt": "Social",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "npcInfo_renshushangxian": {
   "ch": "宗门人数已达上限！",
   "en": "Sect population limit reached!",
-  "pt": ""
+  "pt": "Limite de população da seita atingido!",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_renwudaoxin": {
   "ch": "人物道心",
   "en": "Taoist Mind",
-  "pt": ""
+  "pt": "Coração do Dao",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_renwuguanxi": {
   "ch": "人物关系",
   "en": "Relationship",
-  "pt": ""
+  "pt": "Relacionamento",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_renwugushi": {
   "ch": "人物故事",
   "en": "Backstory",
-  "pt": ""
+  "pt": "História",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_renwujineng": {
   "ch": "人物技能",
   "en": "Skills",
-  "pt": ""
+  "pt": "Habilidades",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "npcInfo_renwushuxing": {
   "ch": "人物属性",
   "en": "Stats",
-  "pt": ""
+  "pt": "Atributos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 9 > 8 caracteres"
+  ]
  },
  "npcInfo_shenfa": {
   "ch": "身法",
   "en": "Motion Skill",
-  "pt": ""
+  "pt": "Técnica de Movimento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "npcInfo_shifu": {
   "ch": "师父",
   "en": "Master",
-  "pt": ""
+  "pt": "Mestre",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_shitu": {
   "ch": "师徒",
   "en": "Mentorship",
-  "pt": ""
+  "pt": "Mentoria",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_shuangxiu": {
   "ch": "双修",
   "en": "Dual Cultivation",
-  "pt": ""
+  "pt": "Cultivo Duplo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_sishengzinv": {
   "ch": "私生子女",
   "en": "Illegitimate Child",
-  "pt": ""
+  "pt": "Filho ilegítimo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_suoqu": {
   "ch": "索取",
   "en": "Request",
-  "pt": ""
+  "pt": "Solicitar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_tanxin": {
   "ch": "谈心",
   "en": "Sincere Talk",
-  "pt": ""
+  "pt": "Conversar Sinceramente",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npcInfo_tiaojiannanxing": {
   "ch": "对方必须是男性",
   "en": "Target must be male",
-  "pt": ""
+  "pt": "O alvo deve ser masculino",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_tiaojiannianlingdi": {
   "ch": "年龄必须比对方低{0}以上",
   "en": "You must be at least {0} years younger than the target",
-  "pt": ""
+  "pt": "Você deve ser pelo menos {0} anos mais novo que o alvo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_tiaojiannianlinggao": {
   "ch": "年龄必须比对方高{0}以上",
   "en": "You must be at least {0} years older than the target",
-  "pt": ""
+  "pt": "Você deve ser pelo menos {0} anos mais velho que o alvo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_tiaojiannvxing": {
   "ch": "对方必须是女性",
   "en": "Target must be female",
-  "pt": ""
+  "pt": "O alvo deve ser do sexo feminino",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_tiaojianyixing": {
   "ch": "对方必须是异性",
   "en": "Target must be of the opposite gender",
-  "pt": ""
+  "pt": "O alvo deve ser do sexo oposto",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_touqie": {
   "ch": "偷窃",
   "en": "Theft",
-  "pt": ""
+  "pt": "Furto",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_touqieshibai": {
   "ch": "一无所获",
   "en": "Nothing found",
-  "pt": ""
+  "pt": "Nada encontrado",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_toushi": {
   "ch": "偷师",
   "en": "Observe",
-  "pt": ""
+  "pt": "Observar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_tudi": {
   "ch": "徒弟",
   "en": "Apprentice",
-  "pt": ""
+  "pt": "Aprendiz",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_waizaixingge": {
   "ch": "外在性格",
   "en": "External Traits",
-  "pt": ""
+  "pt": "Traços Externos",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_wuji": {
   "ch": "武技",
   "en": "Martial Skill",
-  "pt": ""
+  "pt": "Técnica Marcial",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_wuxiaohao": {
   "ch": "无消耗",
   "en": "No cost",
-  "pt": ""
+  "pt": "Sem custo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_xianjibuzu": {
   "ch": "仙鸡不足3只，无法进行比试",
   "en": "Unable to fight - Immortal Chickens less than 3.",
-  "pt": ""
+  "pt": "Incapaz de lutar - Frangos Imortais menores que 3.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_xiaohaojingli": {
   "ch": "需要消耗{0}精力",
   "en": "Stamina Cost: {0}",
-  "pt": ""
+  "pt": "Custo de Vigor: {0}",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_xinfa": {
   "ch": "装备心法",
   "en": "Mind Skills equipped",
-  "pt": ""
+  "pt": "Técnicas Mentais equipadas",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_xingge": {
   "ch": "性格",
   "en": "Character Traits",
-  "pt": ""
+  "pt": "Traços de Caráter",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_xiongdijiemei": {
   "ch": "兄弟姐妹",
   "en": "Sibling",
-  "pt": ""
+  "pt": "Irmão/Irmã",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_xueyi": {
   "ch": "学艺",
   "en": "Learn",
-  "pt": ""
+  "pt": "Aprender",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yaoyue": {
   "ch": "邀约",
   "en": "Invite",
-  "pt": ""
+  "pt": "Convidar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yidi": {
   "ch": "义弟",
   "en": "Sworn Younger Brother",
-  "pt": ""
+  "pt": "Irmão Jurado Mais Novo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yifu": {
   "ch": "义父",
   "en": "Adoptive Father",
-  "pt": ""
+  "pt": "Pai Adotivo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yifumu": {
   "ch": "义父母",
   "en": "Adoptive Parent",
-  "pt": ""
+  "pt": "Pais Adotivos",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yige": {
   "ch": "义母",
   "en": "Adoptive Mother",
-  "pt": ""
+  "pt": "Mãe Adotiva",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yijie": {
   "ch": "义姐",
   "en": "Sworn Older Sister",
-  "pt": ""
+  "pt": "Irmã Jurada Mais Velha",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yimei": {
   "ch": "义妹",
   "en": "Sworn Younger Sister",
-  "pt": ""
+  "pt": "Irmã Jurada Mais Nova",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yinv": {
   "ch": "义女",
   "en": "Adoptive Daughter",
-  "pt": ""
+  "pt": "Filha Adotiva",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yixiong": {
   "ch": "义兄",
   "en": "Sworn Older Brother",
-  "pt": ""
+  "pt": "Irmão Jurado Mais Velho",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yixiongdijiemei": {
   "ch": "义兄弟姐妹",
   "en": "Sworn Sibling",
-  "pt": ""
+  "pt": "Irmão Jurado",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yizi": {
   "ch": "义子",
   "en": "Adoptive Son",
-  "pt": ""
+  "pt": "Filho Adotivo",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yizinv": {
   "ch": "义子女",
   "en": "Adoptive Child",
-  "pt": ""
+  "pt": "Filho/Filha Adotivo(a)",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "npcInfo_yunhunxiaosan": {
   "ch": "对方元魂已消散，只允许赠送东西给对方",
   "en": "Target is dead. You can only send gifts to the target.",
-  "pt": ""
+  "pt": "O alvo está morto. Você só pode enviar presentes para o alvo.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_yuwoxiangguan": {
   "ch": "与我相关",
   "en": "Concerning Me",
-  "pt": ""
+  "pt": "Relacionado a Mim",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zengsong": {
   "ch": "赠送",
   "en": "Gift",
-  "pt": ""
+  "pt": "Presentear",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 10 > 7 caracteres"
+  ]
  },
  "npcInfo_zhanglao": {
   "ch": "长老",
   "en": "Elder",
-  "pt": ""
+  "pt": "Ancião",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zhaona": {
   "ch": "招纳",
   "en": "Recruitment",
-  "pt": ""
+  "pt": "Recrutamento",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zhidian": {
   "ch": "指点",
   "en": "Teach",
-  "pt": ""
+  "pt": "Ensinar",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zhidianTip": {
   "ch": "需要一定的时间恢复功力，暂时不可再向他人传授功法",
   "en": "Teach the person Martial Arts. After successful teaching, you need some time to restore power before the next teaching.",
-  "pt": ""
+  "pt": "Ensine Artes Marciais à pessoa. Após o ensino bem-sucedido, você precisará de tempo para restaurar o poder antes do próximo ensino.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zhidingnitian": {
   "ch": "请为{0}在下次突破时，选择的逆天改命提供建议。",
   "en": "For {0}, in the next Breakthrough, provide feedback for the selected Rewrite Destiny.",
-  "pt": ""
+  "pt": "Para {0}, no próximo Avanço, forneça feedback para o Reescrever o Destino selecionado.",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_ziji": {
   "ch": "自己",
   "en": "Self",
-  "pt": ""
+  "pt": "Próprio",
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zinv": {
   "ch": "子女",
   "en": "Child",
-  "pt": ""
+  "pt": "Filho/Filha",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisar": [
+   "largura: 11 > 8 caracteres"
+  ]
  },
  "npcInfo_zongzhu": {
   "ch": "宗主",
   "en": "Sect Leader",
-  "pt": ""
+  "pt": "Líder da Seita",
+  "auto": "gemini/gemini-3-flash-preview"
  }
 }
