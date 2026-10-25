@@ -2217,8 +2217,11 @@
  "ui_taoistSelect_challenge": {
   "ch": "选择要挑战的道号",
   "en": "Select Taoist Title to challenge",
-  "pt": "Selecione Nome Daoista para desafiar",
-  "auto": "gemini-2.5-flash"
+  "pt": "Selecione Nome Daoísta para desafiar",
+  "auto": "gemini-2.5-flash",
+  "revisar": [
+   "glossário: Taoist Title → Título Daoísta"
+  ]
  },
  "ui_teachSkillTip": {
   "ch": "选择一个技能进行指导",
@@ -2600,451 +2603,583 @@
  "ui_zmdbjfs_textRound3": {
   "ch": "第三轮",
   "en": "Round 3",
-  "pt": ""
+  "pt": "Rodada 3",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textRound4": {
   "ch": "第四轮",
   "en": "Round 4",
-  "pt": ""
+  "pt": "Rodada 4",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textRound5": {
   "ch": "第五轮",
   "en": "Round 5",
-  "pt": ""
+  "pt": "Rodada 5",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textRound6": {
   "ch": "第六轮",
   "en": "Round 6",
-  "pt": ""
+  "pt": "Rodada 6",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSchRank1": {
   "ch": "第一名",
   "en": "1st",
-  "pt": ""
+  "pt": "1o",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSchRank2": {
   "ch": "第二名",
   "en": "2nd",
-  "pt": ""
+  "pt": "2o",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSchRank3": {
   "ch": "第三名",
   "en": "3rd",
-  "pt": ""
+  "pt": "3o",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSchRank4": {
   "ch": "第四名",
   "en": "4th",
-  "pt": ""
+  "pt": "4o",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSchRank5": {
   "ch": "第五名",
   "en": "5th",
-  "pt": ""
+  "pt": "5o",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSchRank6": {
   "ch": "第六名",
   "en": "6th",
-  "pt": ""
+  "pt": "6o",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textSelectStud": {
   "ch": "选择弟子",
   "en": "Select Disciple(s)",
-  "pt": ""
+  "pt": "Selecione um ou mais Discípulos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 31 > 24 caracteres"
+  ]
  },
  "ui_zmdbjfs_textStart": {
   "ch": "确认",
   "en": "Confirm",
-  "pt": ""
+  "pt": "Confirmar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textStartAsLeader": {
   "ch": "开始战斗",
   "en": "Fight",
-  "pt": ""
+  "pt": "Lutar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsAfterRoundFinished": {
   "ch": "等待{0}结束...",
   "en": "Waiting for {0} results...",
-  "pt": ""
+  "pt": "Aguardando {0} resultados...",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsBattleTextBtnStart": {
   "ch": "开 始",
   "en": "Start",
-  "pt": ""
+  "pt": "Iniciar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsBattleTextTitle": {
   "ch": "<color=#FFC700>{0}</color>的秘宝",
   "en": "<color=#FFC700>{0}</color>'s Treasure",
-  "pt": ""
+  "pt": "<color=#FFC700>{0}</color>'s Tesouro",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsNotStart": {
   "ch": "暂未开始",
   "en": "Starting soon!",
-  "pt": ""
+  "pt": "Começando em breve!",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsOppChoose": {
   "ch": "对方选择",
   "en": "Opponent's choice",
-  "pt": ""
+  "pt": "Escolha do oponente",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsOwnChoose": {
   "ch": "我方选择",
   "en": "Our choice",
-  "pt": ""
+  "pt": "Nossa escolha",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsResultDraw": {
   "ch": "实力相当",
   "en": "Equal strength",
-  "pt": ""
+  "pt": "Força igual",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsResultWin": {
   "ch": "{0}获胜",
   "en": "{0} wins",
-  "pt": ""
+  "pt": "{0} vence",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSchBattling": {
   "ch": "对阵中",
   "en": "In Formation",
-  "pt": ""
+  "pt": "Em Formação",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSchFinished": {
   "ch": "已结束",
   "en": "Ended",
-  "pt": ""
+  "pt": "Encerrado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 9 > 8 caracteres"
+  ]
  },
  "ui_zmdbjfs_tipsSelect0001": {
   "ch": "乱中求胜，需用好手",
   "en": "Good players are needed to win in chaos",
-  "pt": ""
+  "pt": "São necessários bons jogadores para vencer no caos.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0002": {
   "ch": "比分领先，可作保留",
   "en": "Lead in scores to retain advantage",
-  "pt": ""
+  "pt": "Liderar nas pontuações para manter a vantagem",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0003": {
   "ch": "对方势强，只可争锋",
   "en": "You can only compete if the opponent is strong",
-  "pt": ""
+  "pt": "Só se pode competir se o oponente for forte.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0004": {
   "ch": "对方势弱，必能轻取",
   "en": "Victory comes easily if the opponent is weak",
-  "pt": ""
+  "pt": "A vitória vem facilmente se o adversário for fraco.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0005": {
   "ch": "对方势强，示敌以弱",
   "en": "If the opponent is strong, show them you are weak",
-  "pt": ""
+  "pt": "Se o oponente for forte, mostre a ele que você é fraco.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0006": {
   "ch": "对方势强，弃权以避",
   "en": "If the opponent is too strong, forfeit to avoid damage",
-  "pt": ""
+  "pt": "Se o oponente for muito forte, desista para evitar danos.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0007": {
   "ch": "对方势强，殊死一搏",
   "en": "If the opponent is strong, fight to the death",
-  "pt": ""
+  "pt": "Se o adversário for forte, lute até a morte.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0008": {
   "ch": "比赛尾声，拼尽全力",
   "en": "Fight full force to the end of the competition",
-  "pt": ""
+  "pt": "Lute com toda a força até o fim da competição",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectChkOppPow": {
   "ch": "{0}{1}正在审视{2}派出弟子",
   "en": "{0} {1} is examining the disciples {2} sent out",
-  "pt": ""
+  "pt": "{0} {1} está examinando os discípulos {2} que foram enviados",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectChkOppState": {
   "ch": "{0}{1}正在思考其弟子状态",
   "en": "{0} {1} is considering their Disciples' status",
-  "pt": ""
+  "pt": "{0} {1} está avaliando a situação dos seus Discípulos.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectChkOppUnit": {
   "ch": "{0}{1}正在思考其弟子修为",
   "en": "{0} {1} is considering their Disciples' cultivation levels",
-  "pt": ""
+  "pt": "{0} {1} está avaliando os níveis de cultivo dos seus Discípulos.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectChkOwnPow": {
   "ch": "{0}{1}正在思考{2}宗门实力",
   "en": "{0} {1} is considering the strength of Sect {2}",
-  "pt": ""
+  "pt": "{0} {1} está avaliando a força da Seita {2}",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectChkScore": {
   "ch": "{0}{1}正在思考目前比分",
   "en": "{0}{1} is considering the current score",
-  "pt": ""
+  "pt": "{0}{1} está analisando a pontuação atual",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectDecided": {
   "ch": "{0}{1}决定派出{2}",
   "en": "{0}{1} decides to send out {2}",
-  "pt": ""
+  "pt": "{0}{1} decide enviar {2}",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelectGiveUp": {
   "ch": "{0}{1}决定本场比赛弃权",
   "en": "{0}{1} decides to forfeit this round",
-  "pt": ""
+  "pt": "{0}{1} decide desistir desta rodada",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsWinChoose": {
   "ch": "胜方选择",
   "en": "Winner's choice",
-  "pt": ""
+  "pt": "Escolha do vencedor",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_titleIntro": {
   "ch": "积分赛规则：",
   "en": "Points Race Rules:",
-  "pt": ""
+  "pt": "Regras da Corrida de Pontos:",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "ui_zmdbjfs_watchBattle": {
   "ch": "观看战斗",
   "en": "Watch the battle",
-  "pt": ""
+  "pt": "Assista à batalha",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_watchTextBtnOk": {
   "ch": "确定",
   "en": "Confirm",
-  "pt": ""
+  "pt": "Confirmar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_watchTextTglAll": {
   "ch": "全选",
   "en": "Select All",
-  "pt": ""
+  "pt": "Selecionar Todos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "ui_zmdbjfs_watchTextTips": {
   "ch": "勾选感兴趣的弟子<#ad0000>进行观战</color>",
   "en": "Check Disciple of interest <#ad0000>to watch the battle</color>",
-  "pt": ""
+  "pt": "Verifique o Discípulo de interesse <#ad0000>para assistir à batalha</color>",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjg_textBtnClose": {
   "ch": "关闭",
   "en": "Close",
-  "pt": ""
+  "pt": "Fechar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjg_textBtnCloseExit": {
   "ch": "离开宗门大比",
   "en": "Leave Sect Tournament",
-  "pt": ""
+  "pt": "Sair do Torneio da Seita",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjg_textSchScore": {
   "ch": "积分：{0}",
   "en": "Points: {0}",
-  "pt": ""
+  "pt": "Pontos: {0}",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_assignTextSelected": {
   "ch": "备战中",
   "en": "Preparing for battle",
-  "pt": ""
+  "pt": "Preparando-se para a batalha",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 26 caracteres"
+  ]
  },
  "ui_zmdblts_challengersTips": {
   "ch": "{0}剩余弟子{1}人",
   "en": "{0} has {1} remaining Disciples.",
-  "pt": ""
+  "pt": "{0} tem {1} Discípulos restantes.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_givePropsRemainsContent": {
   "ch": "秘宝还没全部赠与，擂台赛结束后秘宝将会消失。",
   "en": "Not all Treasure has been given away. Treasure will disappear when Open Challenge Match ends.",
-  "pt": ""
+  "pt": "Nem todo o Tesouro foi distribuído. O Tesouro desaparecerá quando o Desafio Aberto terminar.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_givePropsRemainsTitle": {
   "ch": "提示",
   "en": "Tip",
-  "pt": ""
+  "pt": "Dica",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_mibaotips": {
   "ch": "左键点击秘宝可以指挥场上弟子释放对应秘宝，弟子使用后会获得秘宝对应效果。",
   "en": "Left click the Treasure to command the Disciples on the battlefield to unlock the corresponding Treasure. Disciples gain the Treasure effect after using it.",
-  "pt": ""
+  "pt": "Clique com o botão esquerdo no Tesouro para ordenar aos Discípulos no campo de batalha que desbloqueiem o Tesouro correspondente. Os Discípulos recebem o efeito do Tesouro após utilizá-lo.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_optCancelEnterBattle": {
   "ch": "取消上擂",
   "en": "Cancel going up on stage",
-  "pt": ""
+  "pt": "Cancelar a subida ao palco",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_optEnterBattle": {
   "ch": "上擂",
   "en": "Get on the stage",
-  "pt": ""
+  "pt": "Suba ao palco",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_optExitBattle": {
   "ch": "下擂",
   "en": "Get off the stage",
-  "pt": ""
+  "pt": "Saia do palco",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_readyEnterTips": {
   "ch": "申请下一轮上擂挑战",
   "en": "Apply for the next round of the stage challenge",
-  "pt": ""
+  "pt": "Inscreva-se na próxima rodada do desafio de etapas",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_readyEnterTipsCancel": {
   "ch": "取消上擂申请",
   "en": "Cancel stage application",
-  "pt": ""
+  "pt": "Cancelar solicitação de estágio",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_speedTextTips": {
   "ch": "点击调整观看速度",
   "en": "Click to adjust viewing speed",
-  "pt": ""
+  "pt": "Clique para ajustar a velocidade de exibição",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_speedTextTips1": {
   "ch": "对战加速运行中…",
   "en": "Speeding up battle...",
-  "pt": ""
+  "pt": "Acelerando a batalha...",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textAssignItemBattling": {
   "ch": "战斗中",
   "en": "In Battle",
-  "pt": ""
+  "pt": "Em Batalha",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textAssignTitle": {
   "ch": "指派弟子上场",
   "en": "Assign a disciple to fight",
-  "pt": ""
+  "pt": "Designe um discípulo para lutar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textAutoBegin": {
   "ch": "",
   "en": "Enable Auto Start",
-  "pt": ""
+  "pt": "Ativar início automático",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "ui_zmdblts_textBtnScore": {
   "ch": "排行榜",
   "en": "Ranking",
-  "pt": ""
+  "pt": "Classificação",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "ui_zmdblts_textBtnTips": {
   "ch": "规则",
   "en": "Rule",
-  "pt": ""
+  "pt": "Regra",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textComboTitle": {
   "ch": "胜",
   "en": "Win",
-  "pt": ""
+  "pt": "Vitória",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "ui_zmdblts_textMovCamTips": {
   "ch": "鼠标中键可以拖动屏幕",
   "en": "Use MMB to drag",
-  "pt": ""
+  "pt": "Use o MMB para arrastar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "ui_zmdblts_textTglAssign": {
   "ch": "指派",
   "en": "Assign",
-  "pt": ""
+  "pt": "Atribuir",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_tipsExitBattleContent": {
   "ch": "下擂后将不能重返擂台，是否继续？",
   "en": "You cannot return to the stage if you leave. Continue?",
-  "pt": ""
+  "pt": "Você não poderá retornar ao palco se sair. Continuar?",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_tipsExitBattleTitle": {
   "ch": "提示",
   "en": "Notice",
-  "pt": ""
+  "pt": "Aviso",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_tipsUnitDialogue": {
   "ch": "按E查看信息",
   "en": "Press E to view information",
-  "pt": ""
+  "pt": "Pressione E para visualizar informações",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_tipsWaitChallenger": {
   "ch": "等待挑战者上擂",
   "en": "Waiting for the challenger to come up on the stage",
-  "pt": ""
+  "pt": "Aguardando o desafiante subir ao palco.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_titleBatInfoChallengers": {
   "ch": "参赛者",
   "en": "Participant",
-  "pt": ""
+  "pt": "Participante",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_titleBatInfoKills": {
   "ch": "击败",
   "en": "Defeat",
-  "pt": ""
+  "pt": "Derrota",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_titleBatInfoRank": {
   "ch": "排名",
   "en": "Ranking",
-  "pt": ""
+  "pt": "Classificação",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 13 > 10 caracteres"
+  ]
  },
  "ui_zmdblts_titleBatInfoScore": {
   "ch": "积分",
   "en": "Points",
-  "pt": ""
+  "pt": "Pontos",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_titleRoundPrepare": {
   "ch": "准备",
   "en": "Ready",
-  "pt": ""
+  "pt": "Pronto",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_zhanLetter": {
   "ch": "战",
   "en": "Battle",
-  "pt": ""
+  "pt": "Batalha",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbphb_btnChestTitle1": {
   "ch": "头筹奖励",
   "en": "First Place Reward",
-  "pt": ""
+  "pt": "Recompensa pelo primeiro lugar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 30 > 24 caracteres"
+  ]
  },
  "ui_zmdbphb_btnChestTitle2": {
   "ch": "次席奖励",
   "en": "Second Place Reward",
-  "pt": ""
+  "pt": "Recompensa pelo segundo lugar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 25 caracteres"
+  ]
  },
  "ui_zmdbphb_btnChestTitle3": {
   "ch": "末席奖励",
   "en": "Last Place Reward",
-  "pt": ""
+  "pt": "Recompensa pelo último lugar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 23 caracteres"
+  ]
  },
  "ui_zmdbqd_cancel": {
   "ch": "取消",
   "en": "Cancel",
-  "pt": ""
+  "pt": "Cancelar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbqd_confirm": {
   "ch": "确定",
   "en": "Confirm",
-  "pt": ""
+  "pt": "Confirmar",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbqd_describe": {
   "ch": "是否放弃本届宗门大比？",
   "en": "Give up on this Sect Tournament?",
-  "pt": ""
+  "pt": "Desistir desse Torneio da Seita?",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbqd_textNo": {
   "ch": "再想想",
   "en": "Think it over",
-  "pt": ""
+  "pt": "Pense bem sobre isso.",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "ui_zmdbqd_textYes": {
   "ch": "放弃大比",
   "en": "Give up on Tournament",
-  "pt": ""
+  "pt": "Desista do Torneio.",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbxr_contentCallPlayer": {
   "ch": "宗门大比即将举行，是否参加？",
   "en": "The Sect Tournament will be held soon. Participate?",
-  "pt": ""
+  "pt": "O Torneio da Seita será realizado em breve. Você vai participar?",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbxr_selectAccept": {
   "ch": "同意",
   "en": "Agree",
-  "pt": ""
+  "pt": "Concordo",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbxr_selectReject": {
   "ch": "反对",
   "en": "Disagree",
-  "pt": ""
+  "pt": "Discordo",
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbxr_titleCallPlayer": {
   "ch": "提示",
   "en": "Notice",
-  "pt": ""
+  "pt": "Aviso",
+  "auto": "local/hy-mt2"
  },
  "ui_zongji": {
   "ch": "发现踪迹",
   "en": "Trace detected",
-  "pt": ""
+  "pt": "Rastro detectado",
+  "auto": "local/hy-mt2"
  }
 }

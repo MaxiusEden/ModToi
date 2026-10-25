@@ -2,696 +2,940 @@
  "storePropNameS10001": {
   "ch": "劲",
   "en": "Move",
-  "pt": ""
+  "pt": "Mover",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS101": {
   "ch": "半月刀",
   "en": "Crescent Blade",
-  "pt": ""
+  "pt": "Lâmina Crescente",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS102": {
   "ch": "狂血斩",
   "en": "Crazeblood Cleave",
-  "pt": ""
+  "pt": "Golpe Sangrento Enlouquecido",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 23 caracteres"
+  ]
  },
  "storePropNameS103": {
   "ch": "绝情斩",
   "en": "Ruthless Cleave",
-  "pt": ""
+  "pt": "Corte Impiedoso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS104": {
   "ch": "邪刃",
   "en": "Felblade",
-  "pt": ""
+  "pt": "Lâmina Vil",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1101": {
   "ch": "豪火术",
   "en": "Fierce Fire",
-  "pt": ""
+  "pt": "Fogo Feroz",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1102": {
   "ch": "业火术",
   "en": "Sinful Flame",
-  "pt": ""
+  "pt": "Chama do Pecado",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1103": {
   "ch": "踏火术",
   "en": "Firerider",
-  "pt": ""
+  "pt": "Cavaleiro do Fogo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 12 caracteres"
+  ]
  },
  "storePropNameS1201": {
   "ch": "灵流术",
   "en": "Spiritual Torrent",
-  "pt": ""
+  "pt": "Torrente Espiritual",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1202": {
   "ch": "冰晶爆",
   "en": "Ice Blast",
-  "pt": ""
+  "pt": "Explosão de Gelo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 16 > 12 caracteres"
+  ]
  },
  "storePropNameS1203": {
   "ch": "噬灵术",
   "en": "Soulreaper",
-  "pt": ""
+  "pt": "Ceifador de Almas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "storePropNameS1301": {
   "ch": "紫电闪",
   "en": "Purple Lightning",
-  "pt": ""
+  "pt": "Relâmpago Púrpura",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1302": {
   "ch": "雷云术",
   "en": "Lightning Cloud",
-  "pt": ""
+  "pt": "Nuvem de Relâmpagos",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1303": {
   "ch": "灵雷术",
   "en": "Spiritual Lightning",
-  "pt": ""
+  "pt": "Relâmpago Espiritual",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1304": {
   "ch": "疾雷闪",
   "en": "Lightning Flash",
-  "pt": ""
+  "pt": "Clarão de Relâmpago",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1401": {
   "ch": "风缚术",
   "en": "Windbound",
-  "pt": ""
+  "pt": "Amarras do Vento",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 16 > 12 caracteres"
+  ]
  },
  "storePropNameS1402": {
   "ch": "飞沙术",
   "en": "Sandstorm",
-  "pt": ""
+  "pt": "Tempestade de Areia",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 19 > 12 caracteres"
+  ]
  },
  "storePropNameS1403": {
   "ch": "狂风术",
   "en": "Wild Wind",
-  "pt": ""
+  "pt": "Vento Selvagem",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "storePropNameS1501": {
   "ch": "灵岩术",
   "en": "Spiritual Rock",
-  "pt": ""
+  "pt": "Rocha Espiritual",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1502": {
   "ch": "陨石阵",
   "en": "Meteorfall",
-  "pt": ""
+  "pt": "Queda de Meteoros",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "storePropNameS1503": {
   "ch": "石傀术",
   "en": "Rock Puppet",
-  "pt": ""
+  "pt": "Fantoche de Rocha",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "storePropNameS1601": {
   "ch": "活元术",
   "en": "Primal Energy",
-  "pt": ""
+  "pt": "Energia Primordial",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "storePropNameS1602": {
   "ch": "毒沼术",
   "en": "Poisonous Marsh",
-  "pt": ""
+  "pt": "Pântano Venenoso",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1603": {
   "ch": "毒株术",
   "en": "Poisonous Plants",
-  "pt": ""
+  "pt": "Plantas Venenosas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1604": {
   "ch": "活力术",
   "en": "Thorny Spirit",
-  "pt": ""
+  "pt": "Espírito Espinhoso",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "storePropNameS20001": {
   "ch": "经",
   "en": "Sutra",
-  "pt": ""
+  "pt": "Sutra",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "storePropNameS201": {
   "ch": "碎玉枪",
   "en": "Crackling Jade Spear",
-  "pt": ""
+  "pt": "Lança de Jade Crepitante",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS202": {
   "ch": "真龙破",
   "en": "True Dragon Rising",
-  "pt": ""
+  "pt": "O Despertar do Dragão Verdadeiro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "storePropNameS203": {
   "ch": "贯龙枪",
   "en": "Splitting Dragon Spear",
-  "pt": ""
+  "pt": "Lança do Dragão Fendente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS210112": {
   "ch": "羽灵",
   "en": "Quill Blade",
-  "pt": ""
+  "pt": "Lâmina de Pena",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS210122": {
   "ch": "冲拳",
   "en": "Rapid Punch",
-  "pt": ""
+  "pt": "Soco Rápido",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS30001": {
   "ch": "式",
   "en": "Technique",
-  "pt": ""
+  "pt": "Técnica",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS302": {
   "ch": "绝影剑",
   "en": "Shadowless Sword",
-  "pt": ""
+  "pt": "Espada Sem Sombra",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS303": {
   "ch": "落日剑",
   "en": "Sunset Sword",
-  "pt": ""
+  "pt": "Espada do Pôr do Sol",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "storePropNameS304": {
   "ch": "七星剑",
   "en": "Supernova Sword",
-  "pt": ""
+  "pt": "Espada Supernova",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400001": {
   "ch": "髯口",
   "en": "Sharpened Edge",
-  "pt": ""
+  "pt": "Borda Afiada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400002": {
   "ch": "手戟",
   "en": "Handheld Spear",
-  "pt": ""
+  "pt": "Lança Portátil",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400003": {
   "ch": "雉尾翎",
   "en": "Pheasant's Quill",
-  "pt": ""
+  "pt": "Pena de Faisão",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400004": {
   "ch": "宿铁",
   "en": "Aged Iron Blade",
-  "pt": ""
+  "pt": "Lâmina de Ferro Envelhecido",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 20 caracteres"
+  ]
  },
  "storePropNameS400005": {
   "ch": "挟翼銮铃",
   "en": "Winged Bells",
-  "pt": ""
+  "pt": "Sinos Alados",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400006": {
   "ch": "纯钧",
   "en": "Chunjun Sword",
-  "pt": ""
+  "pt": "Espada Chunjun",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400007": {
   "ch": "双形谱",
   "en": "Chart of Gestures",
-  "pt": ""
+  "pt": "Diagrama de Gestos",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400008": {
   "ch": "凤翅",
   "en": "Phoenix's Wing",
-  "pt": ""
+  "pt": "Asa da Fênix",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400009": {
   "ch": "琥珀扳指",
   "en": "Amber Ring",
-  "pt": ""
+  "pt": "Anel de Âmbar",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS40001": {
   "ch": "诀",
   "en": "Guide",
-  "pt": ""
+  "pt": "Guia",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400010": {
   "ch": "武极珠",
   "en": "Hardened Beads",
-  "pt": ""
+  "pt": "Contas Endurecidas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400011": {
   "ch": "卷宗残页",
   "en": "Tome Pages",
-  "pt": ""
+  "pt": "Páginas do Tomo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "storePropNameS400012": {
   "ch": "太泽指钉",
   "en": "Taize Finger Awl",
-  "pt": ""
+  "pt": "Aguçador de Dedos Taize",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "storePropNameS400013": {
   "ch": "琉璃盏",
   "en": "Glass Candlestick",
-  "pt": ""
+  "pt": "Candelabro de Vidro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400014": {
   "ch": "世珍图",
   "en": "Treasure Chart",
-  "pt": ""
+  "pt": "Diagrama do Tesouro",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400015": {
   "ch": "天启录",
   "en": "Record of Storm",
-  "pt": ""
+  "pt": "Registro da Tempestade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "storePropNameS400016": {
   "ch": "火莲焰",
   "en": "Lotus Flame",
-  "pt": ""
+  "pt": "Chama do Lótus",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400017": {
   "ch": "冰石泪",
   "en": "Icy Teardrop",
-  "pt": ""
+  "pt": "Lágrima Gélida",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400018": {
   "ch": "万钧锤",
   "en": "Sky Hammer",
-  "pt": ""
+  "pt": "Martelo Celestial",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "storePropNameS400019": {
   "ch": "神州志",
   "en": "World Atlas",
-  "pt": ""
+  "pt": "Atlas Mundial",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400020": {
   "ch": "玉净瓶",
   "en": "Jade Vial",
-  "pt": ""
+  "pt": "Frasco de Jade",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "storePropNameS400021": {
   "ch": "树妖的种子",
   "en": "Evergreen's Seed",
-  "pt": ""
+  "pt": "Semente do Sempre-Verde",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "storePropNameS400022": {
   "ch": "望月琴",
   "en": "Breeze Lute",
-  "pt": ""
+  "pt": "Alaúde da Brisa",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS400023": {
   "ch": "流光土",
   "en": "Glowing Soil",
-  "pt": ""
+  "pt": "Solo Brilhante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400024": {
   "ch": "青果",
   "en": "Green Apple",
-  "pt": ""
+  "pt": "Maçã Verde",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400025": {
   "ch": "玉辟邪",
   "en": "Jade Exorciser",
-  "pt": ""
+  "pt": "Exorcista de Jade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400026": {
   "ch": "宝雕弓",
   "en": "Bejeweled Bow",
-  "pt": ""
+  "pt": "Arco Incrustado de Pedras Preciosas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 35 > 17 caracteres"
+  ]
  },
  "storePropNameS400027": {
   "ch": "侍卫心得",
   "en": "Bodyguard's Manual",
-  "pt": ""
+  "pt": "Manual do Guarda-Costas",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400028": {
   "ch": "追影奇丸",
   "en": "Shadowchase Pill",
-  "pt": ""
+  "pt": "Pílula Perseguidora de Sombras",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 30 > 21 caracteres"
+  ]
  },
  "storePropNameS400029": {
   "ch": "无双铠",
   "en": "Marshal's Cloak",
-  "pt": ""
+  "pt": "Manto do Marechal",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400030": {
   "ch": "腾风履",
   "en": "Windtamer",
-  "pt": ""
+  "pt": "Domador de Ventos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 12 caracteres"
+  ]
  },
  "storePropNameS400031": {
   "ch": "破虏冠",
   "en": "Valiant's Tiara",
-  "pt": ""
+  "pt": "Tiara do Valente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400032": {
   "ch": "洋苏草",
   "en": "Blue Sage",
-  "pt": ""
+  "pt": "Sábio Azul",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400033": {
   "ch": "长者白衫",
   "en": "White Gown",
-  "pt": ""
+  "pt": "Vestido Branco",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "storePropNameS400034": {
   "ch": "照夜白驹",
   "en": "Frosty Steed",
-  "pt": ""
+  "pt": "Cavalo Gélido",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400035": {
   "ch": "丁甲符",
   "en": "Charm of Haste",
-  "pt": ""
+  "pt": "Talismã da Rapidez",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400036": {
   "ch": "紫金铃",
   "en": "Epic Bell",
-  "pt": ""
+  "pt": "Sino Épico",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400037": {
   "ch": "虎轮",
   "en": "Tiger Bracelet",
-  "pt": ""
+  "pt": "Pulseira de Tigre",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400038": {
   "ch": "纵云梯",
   "en": "Roaming Cloud",
-  "pt": ""
+  "pt": "Nuvem Errante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS400039": {
   "ch": "拂尘",
   "en": "Duster",
-  "pt": ""
+  "pt": "Espanador",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400040": {
   "ch": "吸气甲",
   "en": "Turtle Armor",
-  "pt": ""
+  "pt": "Armadura de Tartaruga",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 16 caracteres"
+  ]
  },
  "storePropNameS400041": {
   "ch": "黄金锏",
   "en": "Fiery Spearhead",
-  "pt": ""
+  "pt": "Cabeça de Lança Inflamada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 20 caracteres"
+  ]
  },
  "storePropNameS400042": {
   "ch": "乌纱",
   "en": "Dark Cloak",
-  "pt": ""
+  "pt": "Manto Sombrio",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400043": {
   "ch": "青城竹",
   "en": "Fresh Bamboo Tube",
-  "pt": ""
+  "pt": "Tubo de Bambu Fresco",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400044": {
   "ch": "镏金镋",
   "en": "Gilded Mirror",
-  "pt": ""
+  "pt": "Espelho Dourado",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400045": {
   "ch": "护心镜",
   "en": "Chest Mirror",
-  "pt": ""
+  "pt": "Espelho de Peito",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400046": {
   "ch": "铁箍梁",
   "en": "Iron Beam",
-  "pt": ""
+  "pt": "Viga de Ferro",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "storePropNameS400047": {
   "ch": "黄龙法阵",
   "en": "Dragon Array",
-  "pt": ""
+  "pt": "Formação de Dragões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 16 caracteres"
+  ]
  },
  "storePropNameS400048": {
   "ch": "釜甑",
   "en": "Earthen Pot",
-  "pt": ""
+  "pt": "Pote de Barro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400049": {
   "ch": "流云飞袖",
   "en": "Fluffy Sleeves",
-  "pt": ""
+  "pt": "Mangas Fofas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400050": {
   "ch": "镔铁杵",
   "en": "Carved Iron Pestle",
-  "pt": ""
+  "pt": "Pilão de ferro esculpido",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400051": {
   "ch": "杏黄旗",
   "en": "Apricot Banner",
-  "pt": ""
+  "pt": "Estandarte de Damasco",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "storePropNameS400052": {
   "ch": "混元金斗",
   "en": "Gold Dipper",
-  "pt": ""
+  "pt": "Colher de Ouro",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400053": {
   "ch": "行者的皮裙",
   "en": "Roamer's Leather Skirt",
-  "pt": ""
+  "pt": "Saia de Couro do Andarilho",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400054": {
   "ch": "烁金枣木杠",
   "en": "Coated Hardwood Bar",
-  "pt": ""
+  "pt": "Barra de Madeira Dura Revestida",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 31 > 25 caracteres"
+  ]
  },
  "storePropNameS400055": {
   "ch": "三尖两刃刀",
   "en": "Double-edged Dagger",
-  "pt": ""
+  "pt": "Adaga de Dois Gumes",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400056": {
   "ch": "灵骠",
   "en": "Spirit Mule",
-  "pt": ""
+  "pt": "Mula Espiritual",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400057": {
   "ch": "番天印",
   "en": "Canopy Seal",
-  "pt": ""
+  "pt": "Selo do Dossel",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400058": {
   "ch": "七宝妙树",
   "en": "Iridescence",
-  "pt": ""
+  "pt": "Iridescência",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400059": {
   "ch": "水月镜",
   "en": "Moonlight Mirror",
-  "pt": ""
+  "pt": "Espelho do Luar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400060": {
   "ch": "玲珑塔",
   "en": "Miniatured Pagoda",
-  "pt": ""
+  "pt": "Pagode em Miniatura",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400061": {
   "ch": "金蛟剪",
   "en": "Dragon Pincers",
-  "pt": ""
+  "pt": "Pinças do Dragão",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400062": {
   "ch": "玉如意",
   "en": "Jade Pendant",
-  "pt": ""
+  "pt": "Pingente de Jade",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400063": {
   "ch": "蛛丝",
   "en": "Spider Silk",
-  "pt": ""
+  "pt": "Seda de Aranha",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400064": {
   "ch": "灵泉露",
   "en": "Holy Springwater",
-  "pt": ""
+  "pt": "Água da Fonte Sagrada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400065": {
   "ch": "白羽笺",
   "en": "Plume Envelope",
-  "pt": ""
+  "pt": "Envelope de Pluma",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400066": {
   "ch": "何首乌",
   "en": "Fleeceflower Root",
-  "pt": ""
+  "pt": "Raiz de Fo-Ti",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400067": {
   "ch": "箴言录",
   "en": "Book of Mottos",
-  "pt": ""
+  "pt": "Livro de Lemas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400068": {
   "ch": "护法腰凭",
   "en": "Guardian's Token",
-  "pt": ""
+  "pt": "Insígnia do Guardião",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400069": {
   "ch": "露线",
   "en": "Dewy Thread",
-  "pt": ""
+  "pt": "Fio Orvalhado",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400070": {
   "ch": "玉液浆",
   "en": "Mellow Jade Liquor",
-  "pt": ""
+  "pt": "Licor de Jade Suave",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400071": {
   "ch": "雕翎箭",
   "en": "Elaborated Arrow",
-  "pt": ""
+  "pt": "Flecha Elaborada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400072": {
   "ch": "玲珑岩",
   "en": "Translucent Rock",
-  "pt": ""
+  "pt": "Rocha Translúcida",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400073": {
   "ch": "四值簿",
   "en": "Book of Four Divisions",
-  "pt": ""
+  "pt": "Livro das Quatro Divisões",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400074": {
   "ch": "司教金钗",
   "en": "Instructor's Hairpin",
-  "pt": ""
+  "pt": "Grampo de Cabelo do Instrutor",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 29 > 26 caracteres"
+  ]
  },
  "storePropNameS400075": {
   "ch": "雌雄剑",
   "en": "Double Sword",
-  "pt": ""
+  "pt": "Espada Dupla",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400076": {
   "ch": "八卦云光帕",
   "en": "Satin Handkerchief",
-  "pt": ""
+  "pt": "Lenço de Cetim",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400077": {
   "ch": "扫霞衣",
   "en": "Cerulean Gown",
-  "pt": ""
+  "pt": "Vestido Cerúleo",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400078": {
   "ch": "落魂钟",
   "en": "Resounding Bell",
-  "pt": ""
+  "pt": "Sino Retumbante",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400079": {
   "ch": "乾坤尺",
   "en": "Marvelous Ruler",
-  "pt": ""
+  "pt": "Régua Maravilhosa",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400080": {
   "ch": "捆仙绳",
   "en": "Immortal Rope",
-  "pt": ""
+  "pt": "Corda Imortal",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS401": {
   "ch": "定气拳",
   "en": "Serene Fist",
-  "pt": ""
+  "pt": "Punho Sereno",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS402": {
   "ch": "崩山拳",
   "en": "Hillbreaker Fist",
-  "pt": ""
+  "pt": "Punho Destruidor de Colinas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 21 caracteres"
+  ]
  },
  "storePropNameS403": {
   "ch": "金刚拳",
   "en": "Ironbody Fist",
-  "pt": ""
+  "pt": "Punho de Corpo de Ferro",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "storePropNameS410001": {
   "ch": "地元仙根·分元",
   "en": "Immortal Earth Root - Divide",
-  "pt": ""
+  "pt": "Raiz de Terra Imortal - Dividir",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS410002": {
   "ch": "地元仙根·还元",
   "en": "Immortal Earth Root - Return",
-  "pt": ""
+  "pt": "Raiz de Terra Imortal - Retorno",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS410003": {
   "ch": "地元仙根·还元",
   "en": "Immortal Earth Root - Return",
-  "pt": ""
+  "pt": "Raiz de Terra Imortal - Retorno",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS410004": {
   "ch": "灵丹",
   "en": "Incredible Pill",
-  "pt": ""
+  "pt": "Pílula Incrível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS410005": {
   "ch": "灵丹",
   "en": "Incredible Pill",
-  "pt": ""
+  "pt": "Pílula Incrível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS410006": {
   "ch": "灵丹",
   "en": "Incredible Pill",
-  "pt": ""
+  "pt": "Pílula Incrível",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS410007": {
   "ch": "鸣光珠",
   "en": "Melodious Orb",
-  "pt": ""
+  "pt": "Orbe Melodioso",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS410008": {
   "ch": "大宝的盾",
   "en": "Mysterious Shield III",
-  "pt": ""
+  "pt": "Escudo do Da Bao",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS41111": {
   "ch": "荧惑",
   "en": "Dazzling Gleam",
-  "pt": ""
+  "pt": "Brilho Deslumbrante",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS43111": {
   "ch": "疾影",
   "en": "Imminent Shadow",
-  "pt": ""
+  "pt": "Sombra Iminente",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS50001": {
   "ch": "录",
   "en": "Compendium",
-  "pt": ""
+  "pt": "Compêndio",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS501": {
   "ch": "青涛掌",
   "en": "Greenwave Palm",
-  "pt": ""
+  "pt": "Palma da Onda Verde",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS502": {
   "ch": "摧山掌",
   "en": "Landslide Palm",
-  "pt": ""
+  "pt": "Palma do Deslizamento",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "storePropNameS503": {
   "ch": "定海掌",
   "en": "Oceanic Palm",
-  "pt": ""
+  "pt": "Palma Oceânica",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS60001": {
   "ch": "秘卷",
   "en": "Secret Manual",
-  "pt": ""
+  "pt": "Manual Secreto",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS601": {
   "ch": "七星指",
   "en": "Seven Star Finger",
-  "pt": ""
+  "pt": "Dedo das Sete Estrelas",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS602": {
   "ch": "幽空爆",
   "en": "Ethereal Blast",
-  "pt": ""
+  "pt": "Explosão Etérea",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS603": {
   "ch": "灵影指",
   "en": "Shadowy Finger",
-  "pt": ""
+  "pt": "Dedo Sombrio",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS70001": {
   "ch": "神功",
   "en": "Divine Power",
-  "pt": ""
+  "pt": "Poder Divino",
+  "auto": "local/hy-mt2"
  },
  "storePropNameS80001": {
   "ch": "大法",
   "en": "Mastery",
-  "pt": ""
+  "pt": "Domínio",
+  "auto": "local/hy-mt2"
  }
 }

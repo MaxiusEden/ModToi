@@ -2,711 +2,904 @@
  "sprite_1001001": {
   "ch": "嗯……是你把我从冥界中唤醒的吗？",
   "en": "Uhn... did you wake me up from the underworld?",
-  "pt": ""
+  "pt": "Hmm... você me acordou do submundo?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001002": {
   "ch": "为什么又会这样……我明明发过誓，不会再让同伴死在自己面前……",
   "en": "Why did this happen again? I swore that I would never let another companion die in front of me...",
-  "pt": ""
+  "pt": "Por que isso aconteceu de novo? Eu jurei que nunca deixaria outro companheiro morrer diante de mim...",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001003": {
   "ch": "你真的还活着？嗯？我刚刚说的话？……我什么都没说啊，你一定是听错了！",
   "en": "You're really alive? Hm? What I just said? ...I didn't say anything. You must have heard wrong.",
-  "pt": ""
+  "pt": "Você está realmente vivo? Hm? O que eu acabei de dizer? ...Eu não disse nada. Você deve ter ouvido errado.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001004": {
   "ch": "阁下修行有成，恭喜恭喜！",
   "en": "Your cultivation is complete. Congratulations.",
-  "pt": ""
+  "pt": "Seu cultivo está concluído. Parabéns.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001005": {
   "ch": "这就是雷劫吗？看来阁下造化不浅，我在仙界可从没遇过呢！",
   "en": "And this is the trial of lightning? You must have reached a higher place. I have never seen this in the heavenly realm.",
-  "pt": ""
+  "pt": "E este é o teste do relâmpago? Você deve ter alcançado um lugar mais elevado. Nunca vi algo assim no reino celestial.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001006": {
   "ch": "阁下小心，我来助你！",
   "en": "Watch out! Allow me to help you.",
-  "pt": ""
+  "pt": "Cuidado! Deixe-me ajudá-lo.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001007": {
   "ch": "你带着什么好东西呢？能不能先让我瞧瞧？",
   "en": "What do you have with you? May I take a look first?",
-  "pt": ""
+  "pt": "O que você tem com você? Posso dar uma olhada primeiro?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001008": {
   "ch": "这地方还真是热闹！",
   "en": "What a lively place!",
-  "pt": ""
+  "pt": "Que lugar animado!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001009": {
   "ch": "哇！这么多漂亮的衣服，我可以都试穿一下吗？不可以吗？诶，怎么这样！",
   "en": "That's a lot of pretty clothes! Can I try them on? No? How come?",
-  "pt": ""
+  "pt": "São muitas roupas bonitas! Posso experimentá-las? Não? Por quê?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001_skill_name_1": {
   "ch": "惑心咒",
   "en": "Charming Curse",
-  "pt": ""
+  "pt": "Maldição Encantadora",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "sprite_1001_skill_name_2": {
   "ch": "迷眩之灵",
   "en": "Spirit of Confusion",
-  "pt": ""
+  "pt": "Espírito da Confusão",
+  "auto": "local/hy-mt2"
  },
  "sprite_1001_skill_name_3": {
   "ch": "霜梦幻域",
   "en": "Hypnosis",
-  "pt": ""
+  "pt": "Hipnose",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002001": {
   "ch": "咳咳……这一把老骨头真是不经折腾……",
   "en": "Ugh, I'm getting hold...",
-  "pt": ""
+  "pt": "Ugh, estou me controlando...",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002002": {
   "ch": "唉，都怪老夫修为大损，没能护住小友……",
   "en": "I'm sorry... I had lost my edge and couldn't protect you.",
-  "pt": ""
+  "pt": "Desculpe... Eu tinha perdido meu vigor e não consegui proteger você.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1002003": {
   "ch": "什么！小友竟能死而复生？",
   "en": "Wait, you... came back from the dead!",
-  "pt": ""
+  "pt": "Espere, você... voltou dos mortos!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002004": {
   "ch": "小友境界突破、实在是可喜可贺！值此良辰，老夫便勉为其难陪小友共饮两杯，如何？",
   "en": "Congratulations on your breakthrough. Let's have a drink to celebrate.",
-  "pt": ""
+  "pt": "Parabéns pelo seu avanço. Vamos beber algo para celebrar!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002005": {
   "ch": "天道自有定数，小友不必气馁。",
   "en": "Everything is destined. Do not fret.",
-  "pt": ""
+  "pt": "Tudo é predestinado. Não se preocupe.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002006": {
   "ch": "小友莫慌，老夫在此！",
   "en": "Worry not, I am here!",
-  "pt": ""
+  "pt": "Não se preocupe, estou aqui!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002007": {
   "ch": "嗯？刚刚莫非是老夫眼花了？",
   "en": "Was I seeing things?",
-  "pt": ""
+  "pt": "Eu estava vendo coisas?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002008": {
   "ch": "这儿的小家伙可真不少，一片生机勃勃的景象啊！",
   "en": "Looks lively out here!",
-  "pt": ""
+  "pt": "Parece animado aqui fora!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002009": {
   "ch": "咳咳，老夫观此地风水不错，小友不妨进去坐会儿……",
   "en": "Ahem. The feng shui of this area looks very good. Why don't you hang out here for a while?",
-  "pt": ""
+  "pt": "Ahem. O feng shui desta área parece muito bom. Por que você não fica aqui por um tempo?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1002_skill_name_1": {
   "ch": "固元功",
   "en": "Solid Qi",
-  "pt": ""
+  "pt": "Qi Sólido",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1002_skill_name_2": {
   "ch": "气镇八方",
   "en": "Qi Blast",
-  "pt": ""
+  "pt": "Explosão de Qi",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "sprite_1002_skill_name_3": {
   "ch": "擎苍御阵",
   "en": "Guardian's Barrier",
-  "pt": ""
+  "pt": "Barreira do Guardião",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003001": {
   "ch": "这里便是传说中的冥界？也没什么大不了的嘛。啊啊，怎么有个大活人在这里！你是谁啊！",
   "en": "So this is the underworld? Nothing fancy. Wait, why aren't you dead? Who are you?",
-  "pt": ""
+  "pt": "Então este é o submundo? Nada de especial. Espere, por que você não está morto? Quem é você?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003002": {
   "ch": "快退后，咱们还不能倒在这里！呃……真的撑不住了吗，可恶……",
   "en": "Go back! We can't go down here! Ugh, we... have to.. hold on...",
-  "pt": ""
+  "pt": "Voltem! Não podemos descer por aqui! Ugh, nós... temos que... aguentar...",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003003": {
   "ch": "妈呀！这死人突然诈尸啦！",
   "en": "This person is supposed to be dead! Why are they moving?!",
-  "pt": ""
+  "pt": "Essa pessoa deveria estar morta! Por que está se movendo?!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003004": {
   "ch": "嘿呀，你的修炼速度好生惊人，就快赶上我啦！",
   "en": "Your cultivation speed is amazing! You're almost all caught up!",
-  "pt": ""
+  "pt": "Sua velocidade de cultivo é incrível! Você já quase alcançou o nível desejado!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003005": {
   "ch": "唉，我当年在仙界那会儿也没少挨雷劈，一想到这我就全身酥麻。",
   "en": "I was hit by lightning quite a few times during my time in the heavenly realm.",
-  "pt": ""
+  "pt": "Durante minha estadia no reino celestial, fui atingido por relâmpagos várias vezes.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003006": {
   "ch": "大胆贼人，休要猖狂！",
   "en": "Stop what you're doing right now!",
-  "pt": ""
+  "pt": "Pare o que você está fazendo agora!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003007": {
   "ch": "哥们我最烦这等偷鸡摸狗之辈，够胆就堂堂正正地对决吧！",
   "en": "I hate sneaky types like you. Why don't we fight in the open?",
-  "pt": ""
+  "pt": "Eu odeio tipos furtivos como você. Por que não lutamos abertamente?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003008": {
   "ch": "诶哟，有种熟悉的气息，莫非此界有不少我的同族？",
   "en": "Something... smells familiar. Are my people down here too?",
-  "pt": ""
+  "pt": "Algo... tem um cheiro familiar. Meu povo também está aqui embaixo?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003009": {
   "ch": "真是怀念儿时打铁的日子。店家，能给在下打上两把五百斤的大铁锤吗？",
   "en": "I miss my days as a blacksmith. Excuse me, can I get two heavy hammers forged?",
-  "pt": ""
+  "pt": "Sinto falta dos meus dias como ferreiro. Com licença, posso encomendar a forja de dois martelos pesados?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003_skill_name_1": {
   "ch": "凝骨劲",
   "en": "Bonechill",
-  "pt": ""
+  "pt": "Frio nos Ossos",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "sprite_1003_skill_name_2": {
   "ch": "惊魔变",
   "en": "Enchanted Bonechill",
-  "pt": ""
+  "pt": "Ossogelo Encantado",
+  "auto": "local/hy-mt2"
  },
  "sprite_1003_skill_name_3": {
   "ch": "裂天风涌",
   "en": "Skybreak Storm",
-  "pt": ""
+  "pt": "Tempestade Quebra-Céu",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "sprite_1004001": {
   "ch": "呃……我这是睡了多久……嗯？你是谁呀？是爷爷派你来的吗？",
   "en": "How long did I sleep? And... who are you? Did grandpa send you?",
-  "pt": ""
+  "pt": "Por quanto tempo eu dormi? E... quem é você? O vovô mandou você?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004002": {
   "ch": "呀！你怎么了，快醒醒，沐晴再也不会偷懒了，呜呜呜……",
   "en": "Hey, are you alright? Wake up! I will never slack off again!",
-  "pt": ""
+  "pt": "Ei, você está bem? Acorde! Eu nunca mais vou relaxar!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004003": {
   "ch": "喔！你怎么又活啦！一定是上天听到了沐晴的呼唤，才复活你的吧！一定是吧！",
   "en": "You're back! They must have heard my call. That must be it!",
-  "pt": ""
+  "pt": "Você voltou! Eles devem ter ouvido meu chamado. Deve ser isso!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1004004": {
   "ch": "呀！又变强了呢，好棒哟！",
   "en": "You've gotten more powerful!",
-  "pt": ""
+  "pt": "Você ficou mais poderoso!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004005": {
   "ch": "啊……要打雷了呢，沐晴先回法宝里收衣服去了，你忍着点，很快就会过去的。",
   "en": "Looks like a storm is coming. I'm going back into the artifact. You just sit tight, and it'll all be over soon.",
-  "pt": ""
+  "pt": "Parece que uma tempestade está chegando. Vou voltar para dentro do artefato. Você só precisa ficar quieto, e tudo acabará em breve.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004006": {
   "ch": "呀！有坏人来啦！快让沐晴躲起来！",
   "en": "Bad guys! Let me hide first!",
-  "pt": ""
+  "pt": "Vilões! Deixem-me esconder primeiro!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1004007": {
   "ch": "哼！是小偷，快给我好好教训此人！",
   "en": "Hey, it's the thief! Teach them a lesson for me!",
-  "pt": ""
+  "pt": "Ei, é o ladrão! Dê uma lição nele por mim!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004008": {
   "ch": "我夜观天象，前方有大凶之兆，沐晴劝你最好绕道而行……啊啊啊，人家好害怕嘛！",
   "en": "I've been looking at the stars, and they show that bad things are up ahead. You should take a detour... I'm really scared!",
-  "pt": ""
+  "pt": "Tenho observado as estrelas, e elas indicam que coisas ruins estão por vir. Você deveria fazer um desvio... Estou com muito medo!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004009": {
   "ch": "掌柜的，那种名贵的乐器有卖吗？不看价格赶紧拿出来吧！嘘，人家真的只是想看看而已哟……",
   "en": "Hey, do you have those expensive instruments? I don't want to know the price, but I want to see them! I really just want to look at them.",
-  "pt": ""
+  "pt": "Ei, você tem aqueles instrumentos caros? Não quero saber o preço, mas quero vê-los! Na verdade, só quero olhar para eles.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004_skill_name_1": {
   "ch": "静灵引",
   "en": "Sound of Calmness",
-  "pt": ""
+  "pt": "Som da Calma",
+  "auto": "local/hy-mt2"
  },
  "sprite_1004_skill_name_2": {
   "ch": "月落潮生",
   "en": "Moonfall Melody",
-  "pt": ""
+  "pt": "Melodia da Queda Lunar",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "sprite_1004_skill_name_3": {
   "ch": "晦夜重明",
   "en": "Light in the Dark Night",
-  "pt": ""
+  "pt": "Luz na Noite Escura",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1005001": {
   "ch": "你是何人？！",
   "en": "Who are you?",
-  "pt": ""
+  "pt": "Quem é você?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005002": {
   "ch": "就这？",
   "en": "Here?",
-  "pt": ""
+  "pt": "Aqui?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005003": {
   "ch": "咦？竟然还能醒过来……",
   "en": "You woke up...?",
-  "pt": ""
+  "pt": "Você acordou...?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005004": {
   "ch": "哦。",
   "en": "Right.",
-  "pt": ""
+  "pt": "Certo.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005005": {
   "ch": "哼哼~",
   "en": "Hmmm...",
-  "pt": ""
+  "pt": "Hum...",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "sprite_1005006": {
   "ch": "哪来的蝼蚁，连我的人也敢动，找死！",
   "en": "How dare you touch my people! Die!",
-  "pt": ""
+  "pt": "Como ousa tocar no meu povo! Morra!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005007": {
   "ch": "真没出息。",
   "en": "Wuss.",
-  "pt": ""
+  "pt": "Fracote.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1005008": {
   "ch": "我有点困了。",
   "en": "I'm getting sleepy.",
-  "pt": ""
+  "pt": "Estou ficando com sono.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005009": {
   "ch": "唔……",
   "en": "Right...",
-  "pt": ""
+  "pt": "Certo...",
+  "auto": "local/hy-mt2"
  },
  "sprite_1005_skill_name_1": {
   "ch": "断筋刺",
   "en": "Piercing Sting",
-  "pt": ""
+  "pt": "Ferrão Perfurante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "sprite_1005_skill_name_2": {
   "ch": "幽泉炎爪",
   "en": "Ghostly Fireclaw",
-  "pt": ""
+  "pt": "Garra de Fogo Fantasma",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "sprite_1005_skill_name_3": {
   "ch": "鬼狱乱影",
   "en": "Underworld Shadow",
-  "pt": ""
+  "pt": "Sombra do Submundo",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006001": {
   "ch": "阁下竟能将我带离冥界？此番恩情，在下必有回报。",
   "en": "You can take me away from the underworld? I must repay you for this.",
-  "pt": ""
+  "pt": "Você pode me tirar do submundo? Devo retribuir isso a você.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006002": {
   "ch": "没想到这八荒与仙界同样杀机四伏，而我却无力为你承受此番劫难，可惜……",
   "en": "I didn't think the world down here is as dangerous as the heavenly realm, but I couldn't help you shoulder the burden. What a shame...",
-  "pt": ""
+  "pt": "Eu não achava que o mundo aqui embaixo fosse tão perigoso quanto o reino celestial, mas não pude ajudar você a carregar esse fardo. Que pena...",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1006003": {
   "ch": "你……你竟通晓还阳之法！此术在仙界都被列为禁忌，你究竟是何等人物……",
   "en": "You... you know the revival technique! This is a taboo even in the heavenly realm. Who are you?",
-  "pt": ""
+  "pt": "Você... você conhece a técnica de ressurreição! Isso é um tabu, mesmo no reino celestial. Quem é você?",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006004": {
   "ch": "嗯，不错，再接再厉！",
   "en": "Well done! Keep it up!",
-  "pt": ""
+  "pt": "Parabéns! Continue assim!",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006005": {
   "ch": "接受这样的考验，只会磨砺你的心志！",
   "en": "These tests will strengthen your mind.",
-  "pt": ""
+  "pt": "Esses testes fortalecerão sua mente.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006006": {
   "ch": "有人来找麻烦了，速战速决！",
   "en": "We've got trouble! Let's get it over with quickly.",
-  "pt": ""
+  "pt": "Temos problemas! Vamos resolver isso rapidamente.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006007": {
   "ch": "这人也真是的，想要什么可以直说嘛，我们又不是不讲道理的人。",
   "en": "Why don't they just tell us what they want? We're not that unreasonable, are we?",
-  "pt": ""
+  "pt": "Por que eles simplesmente não nos dizem o que querem? Não somos tão irracionais, certo?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1006008": {
   "ch": "这块地方虽不太平，但的确挺适合修炼。",
   "en": "This place is far from peaceful, but it's great for cultivation.",
-  "pt": ""
+  "pt": "Este lugar está longe de ser tranquilo, mas é ótimo para o cultivo.",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006009": {
   "ch": "哇哦，这么多的功法呀！可惜都是你们人类之物，我无法修炼，真是眼馋呐……",
   "en": "That's a lot of techniques. But they're all for humans, so I can't learn them. What a shame...",
-  "pt": ""
+  "pt": "São muitas técnicas. Mas todas são para humanos, então não posso aprendê-las. Que pena...",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006_skill_name_1": {
   "ch": "汲神诀",
   "en": "Divine Transfer",
-  "pt": ""
+  "pt": "Transferência Divina",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_1006_skill_name_2": {
   "ch": "修灭仙破",
   "en": "Immortal Annihilation",
-  "pt": ""
+  "pt": "Aniquilação Imortal",
+  "auto": "local/hy-mt2"
  },
  "sprite_1006_skill_name_3": {
   "ch": "天罡神杀",
   "en": "Judgment of the Stars",
-  "pt": ""
+  "pt": "Julgamento das Estrelas",
+  "auto": "local/hy-mt2"
  },
  "sprite_2001_skill_name_1": {
   "ch": "潮涌",
   "en": "Tidal Surge",
-  "pt": ""
+  "pt": "Onda de Maré",
+  "auto": "local/hy-mt2"
  },
  "sprite_2001_skill_name_2": {
   "ch": "狂澜",
   "en": "Raging Wave",
-  "pt": ""
+  "pt": "Onda Furiosa",
+  "auto": "local/hy-mt2"
  },
  "sprite_2001_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2002_skill_name_1": {
   "ch": "惑心咒",
   "en": "Charming Curse",
-  "pt": ""
+  "pt": "Maldição Encantadora",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "sprite_2002_skill_name_2": {
   "ch": "唤灵",
   "en": "Spiritcall",
-  "pt": ""
+  "pt": "Chamado dos Espíritos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 13 caracteres"
+  ]
  },
  "sprite_2002_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2003_skill_name_1": {
   "ch": "破体箭",
   "en": "Sundering Arrow",
-  "pt": ""
+  "pt": "Seta Cindidora",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_2003_skill_name_2": {
   "ch": "齐射",
   "en": "Volley",
-  "pt": ""
+  "pt": "Saraivada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_2003_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2004_skill_name_1": {
   "ch": "御劲",
   "en": "Accumulated Force",
-  "pt": ""
+  "pt": "Força Acumulada",
+  "auto": "local/hy-mt2"
  },
  "sprite_2004_skill_name_2": {
   "ch": "撼地",
   "en": "Earthshaking Stomp",
-  "pt": ""
+  "pt": "Pisada que Abala a Terra",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_2004_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2005_skill_name_1": {
   "ch": "固本",
   "en": "Solid Development",
-  "pt": ""
+  "pt": "Desenvolvimento Sólido",
+  "auto": "local/hy-mt2"
  },
  "sprite_2005_skill_name_2": {
   "ch": "抵元功",
   "en": "Shield Explosion",
-  "pt": ""
+  "pt": "Explosão do Escudo",
+  "auto": "local/hy-mt2"
  },
  "sprite_2005_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2006_skill_name_1": {
   "ch": "润脉",
   "en": "Nourished Meridians",
-  "pt": ""
+  "pt": "Meridianos Nutridos",
+  "auto": "local/hy-mt2"
  },
  "sprite_2006_skill_name_2": {
   "ch": "忘忧",
   "en": "Bliss",
-  "pt": ""
+  "pt": "Felicidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "sprite_2006_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2007_skill_name_1": {
   "ch": "槌击",
   "en": "Percussion",
-  "pt": ""
+  "pt": "Percussão",
+  "auto": "local/hy-mt2"
  },
  "sprite_2007_skill_name_2": {
   "ch": "鼓舞",
   "en": "Invigoration",
-  "pt": ""
+  "pt": "Revigoramento",
+  "auto": "local/hy-mt2"
  },
  "sprite_2007_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2008_skill_name_1": {
   "ch": "飞芒",
   "en": "Cutting Edge",
-  "pt": ""
+  "pt": "Gume Cortante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_2008_skill_name_2": {
   "ch": "刃舞",
   "en": "Blade Dance",
-  "pt": ""
+  "pt": "Dança da Lâmina",
+  "auto": "local/hy-mt2"
  },
  "sprite_2008_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2009_skill_name_1": {
   "ch": "唤群",
   "en": "Boarcall",
-  "pt": ""
+  "pt": "Chamado dos Javalis",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 19 > 11 caracteres"
+  ]
  },
  "sprite_2009_skill_name_2": {
   "ch": "回魂",
   "en": "Return to Life",
-  "pt": ""
+  "pt": "Retorno à Vida",
+  "auto": "local/hy-mt2"
  },
  "sprite_2009_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2010_skill_name_1": {
   "ch": "青焰",
   "en": "Cyan Flame",
-  "pt": ""
+  "pt": "Chama Ciano",
+  "auto": "local/hy-mt2"
  },
  "sprite_2010_skill_name_2": {
   "ch": "爆炎",
   "en": "Crackling Flame",
-  "pt": ""
+  "pt": "Chama Crepitante",
+  "auto": "local/hy-mt2"
  },
  "sprite_2010_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2011_skill_name_1": {
   "ch": "啸斩",
   "en": "Roaring Slash",
-  "pt": ""
+  "pt": "Corte Rugidor",
+  "auto": "local/hy-mt2"
  },
  "sprite_2011_skill_name_2": {
   "ch": "战意",
   "en": "Will to Battle",
-  "pt": ""
+  "pt": "Vontade de Lutar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_2011_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2012_skill_name_1": {
   "ch": "回生",
   "en": "Revitalization",
-  "pt": ""
+  "pt": "Revitalização",
+  "auto": "local/hy-mt2"
  },
  "sprite_2012_skill_name_2": {
   "ch": "反哺",
   "en": "Requite",
-  "pt": ""
+  "pt": "Retribuição",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 11 > 10 caracteres"
+  ]
  },
  "sprite_2012_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2013_skill_name_1": {
   "ch": "断筋",
   "en": "Hamstring",
-  "pt": ""
+  "pt": "Corte no Tendão",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "sprite_2013_skill_name_2": {
   "ch": "碎风",
   "en": "Galebreak",
-  "pt": ""
+  "pt": "Quebra-Vendaval",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "sprite_2013_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2014_skill_name_1": {
   "ch": "封喉",
   "en": "Go for the Throat",
-  "pt": ""
+  "pt": "Golpe na Garganta",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_2014_skill_name_2": {
   "ch": "破影",
   "en": "Devastating Shadow",
-  "pt": ""
+  "pt": "Sombra Devastadora",
+  "auto": "local/hy-mt2"
  },
  "sprite_2014_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2015_skill_name_1": {
   "ch": "万象",
   "en": "Myriad",
-  "pt": ""
+  "pt": "Miríade",
+  "auto": "local/hy-mt2"
  },
  "sprite_2015_skill_name_2": {
   "ch": "却邪",
   "en": "Toxic Destruction",
-  "pt": ""
+  "pt": "Destruição Tóxica",
+  "auto": "local/hy-mt2"
  },
  "sprite_2015_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2016_skill_name_1": {
   "ch": "重峦",
   "en": "Double Strike",
-  "pt": ""
+  "pt": "Golpe Duplo",
+  "auto": "local/hy-mt2"
  },
  "sprite_2016_skill_name_2": {
   "ch": "叠嶂",
   "en": "Shroud of Mountains",
-  "pt": ""
+  "pt": "Véu das Montanhas",
+  "auto": "local/hy-mt2"
  },
  "sprite_2016_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2017_skill_name_1": {
   "ch": "奔势",
   "en": "Momentum",
-  "pt": ""
+  "pt": "Impulso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "sprite_2017_skill_name_2": {
   "ch": "沉气血",
   "en": "Rising Vitality",
-  "pt": ""
+  "pt": "Aumento da Vitalidade",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "sprite_2017_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_2018_skill_name_1": {
   "ch": "汲神",
   "en": "Divine Absorption",
-  "pt": ""
+  "pt": "Absorção Divina",
+  "auto": "local/hy-mt2"
  },
  "sprite_2018_skill_name_2": {
   "ch": "摧元",
   "en": "Spirit Bombardment",
-  "pt": ""
+  "pt": "Bombardeio do Espírito",
+  "auto": "local/hy-mt2"
  },
  "sprite_2018_skill_name_3": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_1_passive_1": {
   "ch": "体灵相生",
   "en": "Energized Vitality",
-  "pt": ""
+  "pt": "Vitalidade Revigorada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_race_1_passive_2": {
   "ch": "媚骨冷心",
   "en": "Ice Queen",
-  "pt": ""
+  "pt": "Rainha do Gelo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "sprite_race_2_passive_1": {
   "ch": "生机焕发",
   "en": "Vitalization",
-  "pt": ""
+  "pt": "Vitalização",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_2_passive_2": {
   "ch": "清心之鸣",
   "en": "Sound of Clarity",
-  "pt": ""
+  "pt": "Som da Clareza",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_3_passive_1": {
   "ch": "幽影潜踪",
   "en": "Shadow Stalker",
-  "pt": ""
+  "pt": "Perseguidor das Sombras",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "sprite_race_3_passive_2": {
   "ch": "兽王之势",
   "en": "Bestial Power",
-  "pt": ""
+  "pt": "Poder Bestial",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_4_passive_1": {
   "ch": "蛮荒之威",
   "en": "Savage Wrath",
-  "pt": ""
+  "pt": "Ira Selvagem",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_4_passive_2": {
   "ch": "愈战愈勇",
   "en": "Motivated Fighter",
-  "pt": ""
+  "pt": "Lutador Motivado",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_5_passive_1": {
   "ch": "磐石之态",
   "en": "Will of Stone",
-  "pt": ""
+  "pt": "Vontade de Pedra",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_5_passive_2": {
   "ch": "以角还角",
   "en": "A Horn for a Horn",
-  "pt": ""
+  "pt": "Chifre por Chifre",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_race_6_passive_1": {
   "ch": "喋血战意",
   "en": "Thirst of Blood",
-  "pt": ""
+  "pt": "Sede de Sangue",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_6_passive_2": {
   "ch": "御敌之道",
   "en": "Art of Defense",
-  "pt": ""
+  "pt": "Arte da Defesa",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_7_passive_1": {
   "ch": "帝脉之尊",
   "en": "Imperial Supremacy",
-  "pt": ""
+  "pt": "Supremacia Imperial",
+  "auto": "local/hy-mt2"
  },
  "sprite_race_7_passive_2": {
   "ch": "永冻领域",
   "en": "Everfrost Field",
-  "pt": ""
+  "pt": "Domínio da Geada Eterna",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "sprite_race_8_passive_1": {
   "ch": "碎颈之缚",
   "en": "Neckbreaking Bind",
-  "pt": ""
+  "pt": "Laço Quebra-Pescoço",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "sprite_race_8_passive_2": {
   "ch": "相应相合",
   "en": "Intertwined",
-  "pt": ""
+  "pt": "Entrelaçados",
+  "auto": "local/hy-mt2"
  }
 }

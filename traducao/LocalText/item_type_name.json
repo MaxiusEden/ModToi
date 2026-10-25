@@ -2,591 +2,802 @@
  "item_type_name0": {
   "ch": "货币资源",
   "en": "Currency",
-  "pt": ""
+  "pt": "Moeda",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name1": {
   "ch": "丹符",
   "en": "<size=14>Elixir/Charm</size>",
-  "pt": ""
+  "pt": "<size=14>Elixir/Talismã</size>",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name101": {
   "ch": "丹药",
   "en": "Elixir",
-  "pt": ""
+  "pt": "Elixir",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name102": {
   "ch": "毒丹",
   "en": "Poison",
-  "pt": ""
+  "pt": "Veneno",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name103": {
   "ch": "丹药",
   "en": "Elixir",
-  "pt": ""
+  "pt": "Elixir",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name104": {
   "ch": "丹药",
   "en": "Elixir",
-  "pt": ""
+  "pt": "Elixir",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name105": {
   "ch": "灵果",
   "en": "Spiritual Fruit",
-  "pt": ""
+  "pt": "Fruto Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name106": {
   "ch": "特殊",
   "en": "Special",
-  "pt": ""
+  "pt": "Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name107": {
   "ch": "萝卜",
   "en": "Radish",
-  "pt": ""
+  "pt": "Rabanete",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name108": {
   "ch": "宗门大比道具",
   "en": "Sect Tournament Item",
-  "pt": ""
+  "pt": "Item de Torneio de Seita",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name109": {
   "ch": "妖晶",
   "en": "Demonic Crystal",
-  "pt": ""
+  "pt": "Cristal Demoníaco",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name110": {
   "ch": "丹药",
   "en": "Elixir",
-  "pt": ""
+  "pt": "Elixir",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name111": {
   "ch": "符箓",
   "en": "Charm",
-  "pt": ""
+  "pt": "Talismã",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name112": {
   "ch": "符箓",
   "en": "Charm",
-  "pt": ""
+  "pt": "Talismã",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name120": {
   "ch": "丹药",
   "en": "Elixir",
-  "pt": ""
+  "pt": "Elixir",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name2": {
   "ch": "书籍",
   "en": "Books",
-  "pt": ""
+  "pt": "Livros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name3": {
   "ch": "装备",
   "en": "Gear",
-  "pt": ""
+  "pt": "Equipamento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 11 > 7 caracteres"
+  ]
  },
  "item_type_name301": {
   "ch": "戒指",
   "en": "Ring",
-  "pt": ""
+  "pt": "Anel",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name302": {
   "ch": "坐骑",
   "en": "Mount",
-  "pt": ""
+  "pt": "Montaria",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name303": {
   "ch": "法宝",
   "en": "Artifact",
-  "pt": ""
+  "pt": "Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name304": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": ""
+  "pt": "Roupa",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name4": {
   "ch": "法宝",
   "en": "Artifact",
-  "pt": ""
+  "pt": "Artefato",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name5": {
   "ch": "材料",
   "en": "Material",
-  "pt": ""
+  "pt": "Material",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name501": {
   "ch": "矿材",
   "en": "Ore",
-  "pt": ""
+  "pt": "Minério",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "item_type_name502": {
   "ch": "妖兽材料",
   "en": "Monster Material",
-  "pt": ""
+  "pt": "Material de Monstro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name503": {
   "ch": "药材",
   "en": "Herb",
-  "pt": ""
+  "pt": "Erva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name504": {
   "ch": "魂珠",
   "en": "Soul Orb",
-  "pt": ""
+  "pt": "Orbe de Alma",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "item_type_name505": {
   "ch": "气息",
   "en": "Breath",
-  "pt": ""
+  "pt": "Sopro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name506": {
   "ch": "天元山材料",
   "en": "Tian Yuan Mountain Material",
-  "pt": ""
+  "pt": "Material da Montanha Tian Yuan",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name507": {
   "ch": "气息",
   "en": "Breath",
-  "pt": ""
+  "pt": "Sopro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name508": {
   "ch": "天材地宝",
   "en": "Heaven and Earth Treasure",
-  "pt": ""
+  "pt": "Tesouro do Céu e da Terra",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name509": {
   "ch": "道界石",
   "en": "Tao Gem",
-  "pt": ""
+  "pt": "Pedra do Dao",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "item_type_name510": {
   "ch": "真火",
   "en": "True Fire",
-  "pt": ""
+  "pt": "Fogo Verdadeiro",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "item_type_name511": {
   "ch": "制衣材料",
   "en": "Garment Material",
-  "pt": ""
+  "pt": "Material de Vestuário",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name512": {
   "ch": "妖兽核心",
   "en": "Monster Core",
-  "pt": ""
+  "pt": "Núcleo de Monstro",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "item_type_name513": {
   "ch": "淬凝胶",
   "en": "Tempering Resin",
-  "pt": ""
+  "pt": "Resina de Temperamento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "item_type_name514": {
   "ch": "灵植",
   "en": "Rare Plant",
-  "pt": ""
+  "pt": "Planta Rara",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name518": {
   "ch": "锻尘魄",
   "en": "Forge Quartz",
-  "pt": ""
+  "pt": "Quartzo de Forja",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name520": {
   "ch": "修复材料",
   "en": "Repair Material",
-  "pt": ""
+  "pt": "Material de Reparo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name521": {
   "ch": "融合材料",
   "en": "Combining Material",
-  "pt": ""
+  "pt": "Material de Fusão",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name522": {
   "ch": "火焰",
   "en": "Flame",
-  "pt": ""
+  "pt": "Chama",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name524": {
   "ch": "残器",
   "en": "Broken Artifact",
-  "pt": ""
+  "pt": "Artefato Quebrado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name525": {
   "ch": "遗骸",
   "en": "Remains",
-  "pt": ""
+  "pt": "Restos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name526": {
   "ch": "矿石",
   "en": "Ore",
-  "pt": ""
+  "pt": "Minério",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 7 > 6 caracteres"
+  ]
  },
  "item_type_name527": {
   "ch": "玉石",
   "en": "Gemstone",
-  "pt": ""
+  "pt": "Pedra Preciosa",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "item_type_name528": {
   "ch": "精华",
   "en": "Essence",
-  "pt": ""
+  "pt": "Essência",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name529": {
   "ch": "噬魂石",
   "en": "Soul Devouring Stone",
-  "pt": ""
+  "pt": "Pedra Devoradora de Almas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name530": {
   "ch": "远古物品",
   "en": "Ancient Artifact",
-  "pt": ""
+  "pt": "Artefato Antigo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name531": {
   "ch": "仙露",
   "en": "Immortal Dew",
-  "pt": ""
+  "pt": "Orvalho Imortal",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name532": {
   "ch": "魂珠",
   "en": "Soul Orb",
-  "pt": ""
+  "pt": "Orbe de Alma",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "item_type_name533": {
   "ch": "尘檀水",
   "en": "Sandalwood Scent",
-  "pt": ""
+  "pt": "Perfume de Madeira de Sândalo",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 29 > 21 caracteres"
+  ]
  },
  "item_type_name534": {
   "ch": "玄金",
   "en": "Dark Gold",
-  "pt": ""
+  "pt": "Ouro Negro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name535": {
   "ch": "冥种",
   "en": "Nether Seed",
-  "pt": ""
+  "pt": "Semente do Submundo",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "item_type_name536": {
   "ch": "本源之气",
   "en": "Essence Air",
-  "pt": ""
+  "pt": "Ar da Essência",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name6": {
   "ch": "道具",
   "en": "Item",
-  "pt": ""
+  "pt": "Item",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name601": {
   "ch": "种子",
   "en": "Seed",
-  "pt": ""
+  "pt": "Semente",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name602": {
   "ch": "书",
   "en": "Book",
-  "pt": ""
+  "pt": "Livro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name603": {
   "ch": "镖车",
   "en": "Caravan",
-  "pt": ""
+  "pt": "Caravana",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name604": {
   "ch": "酒",
   "en": "Alcohol",
-  "pt": ""
+  "pt": "Álcool",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name605": {
   "ch": "丹方",
   "en": "Elixir Recipe",
-  "pt": ""
+  "pt": "Receita de Elixir",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name606": {
   "ch": "丹炉",
   "en": "Furnace",
-  "pt": ""
+  "pt": "Fornalha",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name607": {
   "ch": "推荐信",
   "en": "Recommendation Letter",
-  "pt": ""
+  "pt": "Carta de Recomendação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name608": {
   "ch": "符箓",
   "en": "Charm",
-  "pt": ""
+  "pt": "Talismã",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name609": {
   "ch": "书籍",
   "en": "Books",
-  "pt": ""
+  "pt": "Livros",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name610": {
   "ch": "饰品",
   "en": "Accessory",
-  "pt": ""
+  "pt": "Acessório",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name611": {
   "ch": "传送符",
   "en": "Teleportation Charm",
-  "pt": ""
+  "pt": "Talismã de Teletransporte",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name612": {
   "ch": "仙材",
   "en": "Divine Material",
-  "pt": ""
+  "pt": "Material Divino",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name613": {
   "ch": "妖兽材料",
   "en": "Monster Material",
-  "pt": ""
+  "pt": "Material de Monstro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name614": {
   "ch": "风水书",
   "en": "Feng Shui Book",
-  "pt": ""
+  "pt": "Livro de Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name615": {
   "ch": "药谱",
   "en": "Prescription",
-  "pt": ""
+  "pt": "Prescrição",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name616": {
   "ch": "通论道典",
   "en": "Textbook",
-  "pt": ""
+  "pt": "Livro de Estudo",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 15 > 11 caracteres"
+  ]
  },
  "item_type_name617": {
   "ch": "鉴识书",
   "en": "Identification Manual",
-  "pt": ""
+  "pt": "Manual de Identificação",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name618": {
   "ch": "图谱",
   "en": "Chart",
-  "pt": ""
+  "pt": "Diagrama",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name624": {
   "ch": "戒指",
   "en": "Ring",
-  "pt": ""
+  "pt": "Anel",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name625": {
   "ch": "符篆",
   "en": "Charm",
-  "pt": ""
+  "pt": "Talismã",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name626": {
   "ch": "灯盏",
   "en": "Lamp",
-  "pt": ""
+  "pt": "Lâmpada",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name627": {
   "ch": "护身符",
   "en": "Amulet",
-  "pt": ""
+  "pt": "Amuleto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name628": {
   "ch": "灵宠",
   "en": "Spiritual Pet",
-  "pt": ""
+  "pt": "Pet Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name629": {
   "ch": "道心果",
   "en": "Skill Fruit",
-  "pt": ""
+  "pt": "Fruto de Habilidade",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "item_type_name630": {
   "ch": "五岳真形图",
   "en": "Mythical Beast Map",
-  "pt": ""
+  "pt": "Mapa das Feras Míticas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name631": {
   "ch": "秘法",
   "en": "Secret Technique",
-  "pt": ""
+  "pt": "Técnica Secreta",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name632": {
   "ch": "图纸",
   "en": "Map",
-  "pt": ""
+  "pt": "Mapa",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name633": {
   "ch": "符箓",
   "en": "Charm",
-  "pt": ""
+  "pt": "Talismã",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name634": {
   "ch": "杂粮",
   "en": "Food",
-  "pt": ""
+  "pt": "Alimento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "item_type_name635": {
   "ch": "秘法",
   "en": "Secret Technique",
-  "pt": ""
+  "pt": "Técnica Secreta",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name636": {
   "ch": "灵物",
   "en": "Spiritual Item",
-  "pt": ""
+  "pt": "Item Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name637": {
   "ch": "秘宝",
   "en": "Treasure",
-  "pt": ""
+  "pt": "Tesouro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name638": {
   "ch": "记忆",
   "en": "Memory",
-  "pt": ""
+  "pt": "Memória",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name639": {
   "ch": "书信",
   "en": "Letter",
-  "pt": ""
+  "pt": "Carta",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name643": {
   "ch": "绳结",
   "en": "Knot",
-  "pt": ""
+  "pt": "Nó",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name644": {
   "ch": "宝箱",
   "en": "Treasure",
-  "pt": ""
+  "pt": "Tesouro",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name645": {
   "ch": "定岳旗",
   "en": "Relocation Flag",
-  "pt": ""
+  "pt": "Bandeira de Realocação",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "item_type_name646": {
   "ch": "灵签",
   "en": "Fortune Stick",
-  "pt": ""
+  "pt": "Varinha da Sorte",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name647": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name648": {
   "ch": "诡异果实",
   "en": "Mysterious Fruit",
-  "pt": ""
+  "pt": "Fruto Misterioso",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name649": {
   "ch": "神秘来信",
   "en": "Mysterious Letter",
-  "pt": ""
+  "pt": "Carta Misteriosa",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name651": {
   "ch": "灵物",
   "en": "Spiritual Item",
-  "pt": ""
+  "pt": "Item Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name652": {
   "ch": "残页",
   "en": "Remaining Pages",
-  "pt": ""
+  "pt": "Páginas Restantes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name654": {
   "ch": "仙物",
   "en": "Heavenly",
-  "pt": ""
+  "pt": "Celestial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name655": {
   "ch": "香木",
   "en": "Incense Wood",
-  "pt": ""
+  "pt": "Madeira de Incenso",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "item_type_name656": {
   "ch": "仙祠物品",
   "en": "Shrine Item",
-  "pt": ""
+  "pt": "Item de Santuário",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "item_type_name657": {
   "ch": "风水物品",
   "en": "Feng Shui Items",
-  "pt": ""
+  "pt": "Itens de Feng Shui",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name658": {
   "ch": "画符图谱",
   "en": "Talismans Chart",
-  "pt": ""
+  "pt": "Diagrama de Talismãs",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name659": {
   "ch": "灵物",
   "en": "Spiritual Item",
-  "pt": ""
+  "pt": "Item Espiritual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name660": {
   "ch": "噬魂剑",
   "en": "Soul Reaver",
-  "pt": ""
+  "pt": "Devorador de Almas",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "item_type_name663": {
   "ch": "阴阳珠",
   "en": "Yin Yang Orb",
-  "pt": ""
+  "pt": "Orbe Yin Yang",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name664": {
   "ch": "噬魂魔晶",
   "en": "Soul Reaver Crystal",
-  "pt": ""
+  "pt": "Cristal Devorador de Almas",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "item_type_name7": {
   "ch": "特殊",
   "en": "Special",
-  "pt": ""
+  "pt": "Especial",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name701": {
   "ch": "石器",
   "en": "Stoneware",
-  "pt": ""
+  "pt": "Pedra de Cerâmica",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 17 > 12 caracteres"
+  ]
  },
  "item_type_name702": {
   "ch": "玉器",
   "en": "Jadeware",
-  "pt": ""
+  "pt": "Artefato de Jade",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 16 > 11 caracteres"
+  ]
  },
  "item_type_name703": {
   "ch": "琴",
   "en": "Guqin",
-  "pt": ""
+  "pt": "Guqin",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name704": {
   "ch": "笛",
   "en": "Flute",
-  "pt": ""
+  "pt": "Flauta",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name705": {
   "ch": "箫",
   "en": "Xiao",
-  "pt": ""
+  "pt": "Xiao",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name706": {
   "ch": "钟",
   "en": "Bianzhong",
-  "pt": ""
+  "pt": "Bianzhong",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "item_type_name707": {
   "ch": "饰品",
   "en": "Accessory",
-  "pt": ""
+  "pt": "Acessório",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name708": {
   "ch": "陶器",
   "en": "Pottery",
-  "pt": ""
+  "pt": "Cerâmica",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name709": {
   "ch": "图册",
   "en": "Illustrated Books",
-  "pt": ""
+  "pt": "Livros Ilustrados",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "item_type_name710": {
   "ch": "骨器",
   "en": "Boneware",
-  "pt": ""
+  "pt": "Artefato de Osso",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 16 > 11 caracteres"
+  ]
  }
 }

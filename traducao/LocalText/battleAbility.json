@@ -2,616 +2,781 @@
  "battleAbility_suitCall10006": {
   "ch": "渡江云·",
   "en": "[Wandering Cloud]",
-  "pt": ""
+  "pt": "[Nuvem Errante]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10007": {
   "ch": "珍珠令·",
   "en": "[Pearl Collector]",
-  "pt": ""
+  "pt": "[Colecionador de Pérolas]",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 25 > 23 caracteres"
+  ]
  },
  "battleAbility_suitCall10008": {
   "ch": "采桑子·",
   "en": "[Mulberry Picker]",
-  "pt": ""
+  "pt": "[Colhedor de Amoras]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10009": {
   "ch": "梦行云·",
   "en": "[Misty Nimbus]",
-  "pt": ""
+  "pt": "[Nimbus Nebuloso]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10010": {
   "ch": "破阵子·",
   "en": "[Linebreaker]",
-  "pt": ""
+  "pt": "[Quebra-Linhas]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10011": {
   "ch": "雪满天·",
   "en": "[Flurry Snowflakes]",
-  "pt": ""
+  "pt": "[Rajada de Flocos de Neve]",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "battleAbility_suitCall10012": {
   "ch": "玉龙吟·",
   "en": "[Clinking Jade]",
-  "pt": ""
+  "pt": "[Jade Tilintante]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10013": {
   "ch": "断关河·",
   "en": "[Crimson Land]",
-  "pt": ""
+  "pt": "[Terra Carmesim]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10014": {
   "ch": "夜飞红·",
   "en": "[Fallen Petals]",
-  "pt": ""
+  "pt": "[Pétalas Caídas]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10015": {
   "ch": "梨花影·",
   "en": "[Myriad Blossoms]",
-  "pt": ""
+  "pt": "[Miríade de Flores]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10016": {
   "ch": "过龙门·",
   "en": "[Defiant One]",
-  "pt": ""
+  "pt": "[O Desafiante]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10017": {
   "ch": "震山河·",
   "en": "[Overlord]",
-  "pt": ""
+  "pt": "[Suserano]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10018": {
   "ch": "乾坤转·",
   "en": "[Destined Challenger]",
-  "pt": ""
+  "pt": "[Desafiante Predestinado]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10019": {
   "ch": "凌波曲·",
   "en": "[Soaring Tide]",
-  "pt": ""
+  "pt": "[Maré Ascendente]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10020": {
   "ch": "舞天涯·",
   "en": "[Tireless Dancer]",
-  "pt": ""
+  "pt": "[Dançarino Incansável]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10021": {
   "ch": "洞玄歌·",
   "en": "[Arcane Portal]",
-  "pt": ""
+  "pt": "[Portal Arcano]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10022": {
   "ch": "镜中人·",
   "en": "[Existence Imaged]",
-  "pt": ""
+  "pt": "[Existência Refletida]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10023": {
   "ch": "蝶恋花·",
   "en": "[Blithe Butterfly]",
-  "pt": ""
+  "pt": "[Borboleta Alegre]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10024": {
   "ch": "乱芳华·",
   "en": "[Spilled Perfume]",
-  "pt": ""
+  "pt": "[Fragrância Espalhada]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10025": {
   "ch": "潜龙渊·",
   "en": "[Agile Dragon]",
-  "pt": ""
+  "pt": "[Dragão Ágil]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10026": {
   "ch": "望海潮·",
   "en": "[Stormy Sea]",
-  "pt": ""
+  "pt": "[Mar Tempestuoso]",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "battleAbility_suitCall10027": {
   "ch": "宴火令·",
   "en": "[Pyromancer]",
-  "pt": ""
+  "pt": "[Piromante]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10028": {
   "ch": "丹凤吟·",
   "en": "[Singing Phoenix]",
-  "pt": ""
+  "pt": "[Fênix Cantora]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10029": {
   "ch": "浪淘沙·",
   "en": "[Finest Sifter]",
-  "pt": ""
+  "pt": "[Peneirador Supremo]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10030": {
   "ch": "风凌霄·",
   "en": "[Tempest]",
-  "pt": ""
+  "pt": "[Tempestade]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10031": {
   "ch": "凝五岳·",
   "en": "[Mountain Might]",
-  "pt": ""
+  "pt": "[Poder da Montanha]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10032": {
   "ch": "荒灵衍·",
   "en": "[Earthcracker]",
-  "pt": ""
+  "pt": "[Rachador de Terra]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10033": {
   "ch": "踏云行·",
   "en": "[Thunder Tamer]",
-  "pt": ""
+  "pt": "[Domador de Trovões]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10034": {
   "ch": "遥天引·",
   "en": "[Eternity Rover]",
-  "pt": ""
+  "pt": "[Errante da Eternidade]",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "battleAbility_suitDesc1_10000": {
   "ch": "若没有装备其它套装心法，则自身伤害提升10%，受到伤害-10%。",
   "en": "If no other set Mind Skill is equipped, Damage Done +10%, Damage Taken -10%.",
-  "pt": ""
+  "pt": "Se nenhuma outra Técnica Mental de conjunto estiver equipada, Dano Causado +10%, Dano Recebido -10%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10001": {
   "ch": "若装备的心法数量小于8，则体力上限+20%。",
   "en": "If less than 8 Mind Skills are equipped, Max Vitality +20%.",
-  "pt": ""
+  "pt": "Se menos de 8 Técnicas Mentais estiverem equipadas, Vitalidade Máx. +20%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10002": {
   "ch": "若没有装备其它红色心法，则获得3%的体力和灵力偷取。",
   "en": "If no other Mythic Mind Skill is equipped, gain 3% Vitality Steal and Energy Steal.",
-  "pt": ""
+  "pt": "Se nenhuma outra Técnica Mental Mítica estiver equipada, ganhe 3% de Roubo de Vitalidade e Roubo de Energia.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10003": {
   "ch": "修炼效率提高100%。",
   "en": "Cultivation efficiency +100%.",
-  "pt": ""
+  "pt": "Eficiência de Cultivo +100%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10004": {
   "ch": "心情低落惩罚降低50%，心情低落过月时，有50%概率获得1点任意资质。",
   "en": "Low Mood penalty -50%. There is a 50% chance to acquire 1 random Stat when in Low Mood at monthly summary.",
-  "pt": ""
+  "pt": "Penalidade de Humor Baixo -50%. Há 50% de chance de adquirir 1 Atributo aleatório ao estar com Humor Baixo no resumo mensal.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10005": {
   "ch": "月结后最大体力和最大灵力恢复40%。",
   "en": "Max Vitality and Max Energy recover by 40% after monthly summary.",
-  "pt": ""
+  "pt": "Vitalidade Máx. e Energia Máx. se recuperam em 40% após o resumo mensal.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10006": {
   "ch": "技能冷却-10%。",
   "en": "Skill Cooldown -10%.",
-  "pt": ""
+  "pt": "Recarga da Habilidade -10%.",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "battleAbility_suitDesc1_10007": {
   "ch": "出售道具时，获得灵石+50%。",
   "en": "Obtain 50% more Spirit Stones when selling items.",
-  "pt": ""
+  "pt": "Obtém 50% mais Pedras Espirituais ao vender itens.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10008": {
   "ch": "对怪物造成伤害时，有概率掉落灵石。",
   "en": "Dealing damage to monsters has a certain chance to drop Spirit Stones.",
-  "pt": ""
+  "pt": "Causar dano a monstros tem uma certa chance de dropar Pedras Espirituais.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10009": {
   "ch": "造成伤害+10%。",
   "en": "Damage Done +10%.",
-  "pt": ""
+  "pt": "Dano Causado +10%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10010": {
   "ch": "将10%的防御力转换为攻击力。",
   "en": "Convert 10% DEF to ATK.",
-  "pt": ""
+  "pt": "Converte 10% de DEF para ATQ.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10011": {
   "ch": "若你装备了范围型剑法绝技，则在剑系身法持续时间，每5秒自动施放一次当前装备着的绝技。",
   "en": "If you are equipped with an AoE Sword Special Skill, it is auto cast once every 5s for the duration of a sword Motion Skill.",
-  "pt": ""
+  "pt": "Se você estiver equipado com uma Técnica Especial de Espada de Área de Efeito, ela é lançada automaticamente a cada 5s durante a duração de uma Técnica de Movimento de Espada.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10012": {
   "ch": "每次释放剑系武技会有&8036001_jqgl&%概率对最近目标施放一道极快的追踪斩龙剑气造成&8036001_jqwl&威力的伤害。",
   "en": "Every time you cast a Sword Martial Skill, you will have a &8036001_jqgl&% chance to release an enemy-tracking Dragonslayer Sword Aura toward the nearest target, dealing &8036001_jqwl& damage.",
-  "pt": ""
+  "pt": "Toda vez que você lança uma Técnica Marcial de Espada, você tem &8036001_jqgl&% de chance de liberar uma Aura da Espada Matadora de Dragões que rastreia inimigos em direção ao alvo mais próximo, causando dano de &8036001_jqwl&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10013": {
   "ch": "大幅提升狂血斩加的范围和伤害，且每使用一次狂血斩，神通时间持续时间增加5秒，最多可增加30秒。",
   "en": "Greatly increase the area and damage increase of Crazeblood Cleave. Each use of Crazeblood Cleave increases Ultimate Skill duration by 5s, up to 30s.",
-  "pt": ""
+  "pt": "Aumenta grandemente a área e o aumento de dano do Golpe de Sangue Furioso. Cada uso do Golpe de Sangue Furioso aumenta a duração da Técnica Suprema em 5s, até 30s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10014": {
   "ch": "刀系武技造成伤害后，增加邪刃数量+1，最大叠加20层。",
   "en": "After Blade Martial Skills deal damage, the amount of Felblade is increased by 1. Stackable at max 20 times.",
-  "pt": ""
+  "pt": "Após Técnicas Marciais de Lâmina causarem dano, a quantidade de Lâmina Má aumenta em 1. Empilhável até 20 vezes.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10015": {
   "ch": "鬼狱枪的范围和数量变为3倍。",
   "en": "Hellspear area and quantity are tripled.",
-  "pt": ""
+  "pt": "A área e a quantidade da Lança do Inferno são triplicadas.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10016": {
   "ch": "使用枪系身法会召唤一个免疫一切伤害且随自身释放枪系绝技的幻象，持续30秒。",
   "en": "Casting a Spear Motion Skill summons an invincible phantom for 30s that can imitate your Spear Special Skills upon casting them.",
-  "pt": ""
+  "pt": "Lançar uma Técnica de Movimento de Lança invoca um fantasma invencível por 30s que pode imitar suas Técnicas Especiais de Lança ao lançá-las.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10017": {
   "ch": "当震天拳使敌人晕眩后，在10秒内，震天拳的蓄力时间降低为0.1秒。",
   "en": "During the 10s after Colossal Fist stuns an enemy, Colossal Fist charging time is reduced to 0.1s.",
-  "pt": ""
+  "pt": "Durante os 10s após o Punho Colosso atordoar um inimigo, o tempo de carregamento do Punho Colosso é reduzido para 0.1s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10018": {
   "ch": "若你拥有护盾，则每次使用裂地拳时，会消耗10%的护盾（且最大不超过5000），每消耗100点护盾可提升裂地拳的范围和伤害。",
   "en": "If you have a shield, casting Seismic Fist consumes 10% of the shield (up to 5000). Every 100 Shield consumed increases the area and damage of Seismic Fist.",
-  "pt": ""
+  "pt": "Se você tiver um Escudo, lançar Punho Sísmico consome 10% do Escudo (até 5000). A cada 100 de Escudo consumido, aumenta a área e o dano do Punho Sísmico.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10019": {
   "ch": "战斗中生成10次掌风后，后续生成的掌风将变更为超级掌风。",
   "en": "After generating Palm Wind 10 times in a battle, Palm Wind to be generated becomes Super Palm Wind.",
-  "pt": ""
+  "pt": "Após gerar Vento da Palma 10 vezes em uma batalha, o Vento da Palma a ser gerado se torna Super Vento da Palma.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10020": {
   "ch": "暴风掌射程翻倍，且在范围内自动索敌。掌身法持续期间，每次施放暴风掌都会使暴风掌伤害提高5%。",
   "en": "Storm Palm range is doubled, and it tracks enemies automatically within range. Each cast of Storm Palm increases Storm Palm damage by 5% for the duration of a Palm Motion Skill.",
-  "pt": ""
+  "pt": "O alcance da Palma da Tempestade é dobrado e ela rastreia inimigos automaticamente dentro do alcance. Cada lançamento da Palma da Tempestade aumenta o dano da Palma da Tempestade em 5% durante a duração de uma Técnica de Movimento de Palma.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10021": {
   "ch": "每使用1次指法绝技，有25%的概率升级轮回指，最多可升到3级。",
   "en": "Each cast of a Finger Special Skill has a 25% chance to upgrade Boomerang Finger, up to Rank 3.",
-  "pt": ""
+  "pt": "Cada uso de uma Técnica Especial de Dedo tem 25% de chance de melhorar o Dedo Bumerangue, até o Rank 3.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10022": {
   "ch": "在隐身状态下使用灵影指，可使本次灵影指的持续时间变为5倍。",
   "en": "Shadowy Finger cast while invisible lasts 5 times longer.",
-  "pt": ""
+  "pt": "Usar Dedo Sombrio enquanto invisível dura 5 vezes mais.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10023": {
   "ch": "在召唤花妖后时，会立即对场上所有小花妖进行一次随机强化效果。",
   "en": "When summoning Flower Faerie Queen, all Small Flower Faeries present are enhanced randomly once.",
-  "pt": ""
+  "pt": "Ao invocar a Rainha Fada das Flores, todas as Pequenas Fadas das Flores presentes são melhoradas aleatoriamente uma vez.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10024": {
   "ch": "毒株术会在进行攻击时额外攻击2次，且毒株术造成伤害后为敌方添加1层脆弱效果，每层效果使毒刺伤害提高5%，最大提高125%。",
   "en": "Poisonous Plants deal 2 additional attacks. After dealing damage to enemies, Poisonous Plants apply 1 x Feeble on them. Each stack of Feeble increases the damage from Poisonous Thorn by 5%, up to 125%.",
-  "pt": ""
+  "pt": "Plantas Venenosas causam 2 ataques adicionais. Após causar dano, aplicam 1x Fragilidade. Cada camada aumenta o dano de Espinho Venenoso em 5%, até 125%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10025": {
   "ch": "冰气术造成伤害时，降低水身法冷却2秒。",
   "en": "When Icy Aura deals damage, Water Motion Skill cooldown is reduced by 2s.",
-  "pt": ""
+  "pt": "Quando a Aura Gélida causa dano, a recarga da Técnica de Movimento de Água é reduzida em 2s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10026": {
   "ch": "当灵力大于50%时，灵流术每秒会消耗0.25%的最大灵力，强化使其能穿透，且伤害提升100%",
   "en": "When you have more than 50% Energy, Spiritual Torrent consumes 0.25% Max Energy per sec to gain enhanced penetrative missiles, and deal 100% more damage.",
-  "pt": ""
+  "pt": "Com mais de 50% de Energia, a Torrente Espiritual consome 0,25% da Energia Máx. por segundo para ganhar mísseis perfurantes aprimorados e causar 100% mais de dano.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10027": {
   "ch": "焰火术每次造成暴击伤害时，可降低下次离火术的生成间隔10%，最大降低50%。",
   "en": "Each time Fire Flare triggers Crit, the generation interval of the next Fire Sorrow is reduced by 10%, up to 50%.",
-  "pt": ""
+  "pt": "Cada Crítico da Chama Explosiva reduz em 10% o intervalo de geração do próximo Lamento de Fogo, até 50%.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10028": {
   "ch": "业火术透支时每秒会消耗自身5%的最大体力，并提升其伤害和射程。透支时间不再限制。",
   "en": "During the extension of Sinful Flame, it consumes 5% Max Vitality per sec to gain increased damage and range. There is no longer a time limit to the extension.",
-  "pt": ""
+  "pt": "Durante a extensão da Chama do Pecado, consome 5% da Vitalidade Máx. por segundo para aumentar o dano e o alcance. Não há mais limite de tempo para a extensão.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10029": {
   "ch": "当你体力大于70%时，飞沙术的持续施法时间翻倍。",
   "en": "At 70% or higher Vitality, Sandstorm duration is doubled.",
-  "pt": ""
+  "pt": "Com 70% ou mais de Vitalidade, a duração da Tempestade de Areia dobra.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10030": {
   "ch": "若携带了风刃术时，狂风术持续施法超过3秒时，会在原地生成一个持续7秒的固定狂风术。",
   "en": "When you are equipped with Wind Edge, after Wild Wind is cast for 3s, a rooted Wild Wind will be generated on its location for 7s.",
-  "pt": ""
+  "pt": "Equipado com Lâmina de Vento, após usar Vento Selvagem por 3s, gera um Vento Selvagem enraizado no local por 7s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10031": {
   "ch": "增加聚石阵的范围和数量。",
   "en": "Rock Formation area and quantity are increased.",
-  "pt": ""
+  "pt": "A área e a quantidade da Formação de Rochas são aumentadas.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10032": {
   "ch": "当场上存在3个及以上的土傀儡时（包括超级土傀儡），获得效果：每秒随机在一个土傀儡的位置产生一次震爆。",
   "en": "After there are 3 or more Earth Golems (including Advanced Earth Golems) exist on the battlefield, one blast is triggered at the position of a random Earth Golem per sec.",
-  "pt": ""
+  "pt": "Com 3 ou mais Golem de Terra (incluindo Golem de Terra Avançado) no campo de batalha, um impacto é desencadeado na posição de um Golem de Terra aleatório por segundo.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10033": {
   "ch": "使用雷系身法后，可获得一次闪避效果，不可叠加。",
   "en": "After casting a Lightning Motion Skill, you gain a dodge attempt. This effect cannot stack.",
-  "pt": ""
+  "pt": "Após usar uma Técnica de Movimento de Relâmpago, você ganha uma tentativa de Esquiva. Este efeito não pode ser acumulado.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10034": {
   "ch": "每次使用雷系绝技时，可召唤一只雷兽，场上最多可存在5只雷兽。",
   "en": "Casting a Lightning Special Skill summons a Lightning Beast. There can be at most 5 Lightning Beasts at a time.",
-  "pt": ""
+  "pt": "Usar uma Técnica Especial de Relâmpago invoca uma Fera de Relâmpago. Pode haver no máximo 5 Feras de Relâmpago de cada vez.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10011": {
   "ch": "剑系的范围类绝技的范围增加50%，在施放剑系的范围类绝技时，会随机在一个敌人的位置额外施放一次。",
   "en": "Sword AoE Special Skill area is increased by 50%. When casting a sword AoE Special Skill, it is cast an extra time at the position of a random enemy.",
-  "pt": ""
+  "pt": "A área da Técnica Especial de Espada em área é aumentada em 50%. Ao usar uma Técnica Especial de Espada em área, é lançada uma vez extra na posição de um inimigo aleatório.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10012": {
   "ch": "斩龙剑气造成超过&8036001_shcs&次伤害后，下一次绝影剑剑影数量+&8036001_ddsl&。",
   "en": "After your Dragonslayer Sword Aura deals &8036001_shcs& times of damage, the amount of Sword Shadows of your next Shadowless Sword +&8036001_ddsl&.",
-  "pt": ""
+  "pt": "Após sua Aura da Espada Matadora de Dragões causar mais de &8036001_shcs& vezes de dano, a quantidade de Sombras de Espada da sua próxima Espada Sem Sombra +&8036001_ddsl&.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10013": {
   "ch": "霸道斩改为不跟随自身，而是改为自动寻敌。并且旋转时间越久伤害越高。",
   "en": "Overbearing Cleave tracks enemies automatically instead of following you. The longer it spins, the higher its damage.",
-  "pt": ""
+  "pt": "O Talho Dominador rastreia inimigos automaticamente em vez de seguir você. Quanto mais gira, maior o dano.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10014": {
   "ch": "邪刃在达到最远距离后会变更追踪刀刃再次进行攻击。",
   "en": "After reaching the farthest point, Felblade changes its tracking blade to attack again.",
-  "pt": ""
+  "pt": "Ao atingir o ponto mais distante, a Lamina Sombria muda sua lâmina de rastreamento para atacar novamente.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10015": {
   "ch": "鬼狱枪每造成一次伤害，碎玉枪的CD-0.1秒。",
   "en": "Each time Hellspear deals damage, Crackling Jade Spear cooldown -0.1s.",
-  "pt": ""
+  "pt": "A cada dano causado pela Lança do Inferno, a recarga da Lança de Jade Estilhaçada diminui 0,1s.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10016": {
   "ch": "场上每有一个幻像，枪系武技的攻击数量+1。",
   "en": "For every phantom present, Spear Martial Skill's attack attempts +1.",
-  "pt": ""
+  "pt": "Para cada Fantasma presente, as tentativas de ataque da Técnica Marcial de Lança +1.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc2_10017": {
   "ch": "金刚拳持续期间，每次释放震天拳会额外使所有盾影进行爆发。",
   "en": "For the duration of Ironbody Fist, each Colossal Fist triggers the burst of all Shield Shadows additionally.",
-  "pt": ""
+  "pt": "Durante a duração do Punho de Corpo de Ferro, cada Punho Colossal também ativa a explosão de todas as Sombras do Escudo.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10018": {
   "ch": "轰天拳不再消耗护盾打出额外攻击次数，转而每次造成伤害时会获得50点护盾。且每100点最大体力提高20点护盾上限。",
   "en": "Skyblast Fist no longer costs Shield for additional attacks but grants 50 Shield whenever it deals damage. Every 100 Max Vitality increases Max Shield by 20.",
-  "pt": ""
+  "pt": "O Punho Explosivo Celestial não requer mais o uso de um Escudo para realizar ataques adicionais; porém, concede 50 pontos de Escudo sempre que causa dano. A cada 100 pontos de Vitalidade Máx., o limite máximo de Escudo aumenta em 20.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10019": {
   "ch": "每生成1个超级掌风，下次使用惊虹掌时将额外增加1道掌印，最多可增加30道。惊虹掌改为自动索敌。",
   "en": "For every 1 Super Palm Wind generated, the next Rainbow Palm drops 1 extra Palm Mark, up to 30. Rainbow Palm now tracks enemies automatically.",
-  "pt": ""
+  "pt": "A cada 1 Vento da Palma Super gerado, a próxima Palma Arco-Íris concede 1 Marca da Palma extra, até o limite de 30. Agora, a Palma Arco-Íris rastreia inimigos automaticamente.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10020": {
   "ch": "身法持续期间，暴风掌冷却锁定为2秒。",
   "en": "For the duration of a Motion Skill, Storm Palm cooldown is fixed at 2s.",
-  "pt": ""
+  "pt": "Durante a execução de uma Técnica de Movimento, o tempo de recarga da Palma da Tempestade permanece fixo em 2 segundos.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10021": {
   "ch": "轮回指可升级到5级，且当达到5级后，自身的神通冷却降低50%。",
   "en": "Boomerang Finger can now be upgraded to Rank 5. At Rank 5, your Ultimate Skill cooldown -50%.",
-  "pt": ""
+  "pt": "O Dedo Bumerangue agora pode ser aprimorado até o Rank 5. No Rank 5, o tempo de recarga da sua Técnica Suprema é reduzido em 50%.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10022": {
   "ch": "在持续施放灵影指时，每秒提高灵影指的范围和威力，最大可提升至300%的威力。",
   "en": "While casting Shadowy Finger, its area and Power increases every second to up to 300% Power.",
-  "pt": ""
+  "pt": "Ao lançar o Dedo Sombrio, sua área de efeito e seu Poder aumentam a cada segundo, podendo atingir até 300% do Poder original.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10023": {
   "ch": "花妖后每2秒会随机对一个小花妖施加一个随机的强化效果。",
   "en": "Flower Faerie Queen casts a random enhancement to a random Small Flower Faerie every 2s.",
-  "pt": ""
+  "pt": "A Rainha Fada das Flores concede um aprimoramento aleatório a uma Pequena Fada das Flores aleatória a cada 2 segundos.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "battleAbility_suitDesc2_10024": {
   "ch": "毒刺每次对单位造成的伤害都会被永久地记录起来，该单位在受到木系神通伤害时候触发一次这个伤害。",
   "en": "Any damage dealt to a unit by Poisonous Thorn will be recorded. When the unit takes damage from Wood Ultimate Skill, damage equal to the recorded amount will be dealt additionally.",
-  "pt": ""
+  "pt": "Qualquer dano causado a uma unidade pelo Espinho Venenoso será registrado. Quando a unidade sofrer dano da Técnica Suprema de Madeira, um dano equivalente ao valor registrado também será aplicado.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10025": {
   "ch": "当你装备了冰气术时，你的水分身也可以使用冰气术（但是不会生成爆灵湖）。",
   "en": "When you are equipped with Icy Aura, your water clone can also cast Icy Aura (but it won't generate Energy Pond).",
-  "pt": ""
+  "pt": "Quando você possui a Aura Gélida, seu clone de água também pode lançar a Aura Gélida (mas não criará um Lago de Energia).",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "battleAbility_suitDesc2_10026": {
   "ch": "每当自身消耗了1%的灵力，在下次使用右键时，将发射一根可穿透的冰柱，对敌人造成伤害和冰冻。",
   "en": "For every 1% Energy consumed, the next RMB shoots a penetrative icicle to deal damage and freeze the enemy.",
-  "pt": ""
+  "pt": "A cada 1% de Energia consumida, o próximo ataque dispara um pedaço de gelo penetrante que causa dano e provoca congelamento no inimigo.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10027": {
   "ch": "离火术每透支1秒，则本场战斗中其冷却时间-3%，最多可减60%。",
   "en": "For every 1s Fire Sorrow is extended, its cooldown in this battle -3%, up to -60%.",
-  "pt": ""
+  "pt": "A cada 1 segundo que o Fogo da Tristeza é mantido ativo, o tempo de recarga na presente batalha é reduzido em 3%, até um máximo de 60%.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10028": {
   "ch": "结束业火术时，透支消耗的体力会逐渐恢复。",
   "en": "After Sinful Flame finishes, the Vitality consumed by the extension is restored over time.",
-  "pt": ""
+  "pt": "Após o término da Chama do Pecado, a Vitalidade consumida pela extensão é restaurada ao longo do tempo.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10029": {
   "ch": "飞沙术会根据与单位距离提升伤害，最大距离800码时提升100%伤害。",
   "en": "Sandstorm deals higher damage to enemies farther away, up to 100% more to enemies 800 away.",
-  "pt": ""
+  "pt": "A Tempestade de Areia causa mais dano a inimigos mais distantes; esse dano pode ser até 100% maior para inimigos a 800 de distância.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10030": {
   "ch": "若携带了风刃术时，后续生成的固定狂风术会向随机方向释放15个风刃术。",
   "en": "When you are equipped with Wind Edge, rooted Wild Wind generated afterwards will cast 15 Wind Edges at a random position.",
-  "pt": ""
+  "pt": "Quando você está equipado com Vento Cortante, o Vento Selvagem gerado posteriormente disparará 15 Ventos Cortantes em uma posição aleatória.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10031": {
   "ch": "聚石阵在结束后，会引爆其生成的土傀儡，造成大量伤害（伤害与土傀儡的体力相关）。",
   "en": "After Rock Formation finishes, it detonates the Earth Golem it has summoned to deal huge damage (in proportion to Earth Golem Vitality).",
-  "pt": ""
+  "pt": "Após a conclusão da Formação de Rochas, ela faz com que o Golem de Terra invocado detone, causando um grande dano (proporcional à Vitalidade do Golem de Terra).",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10032": {
   "ch": "在战斗中累计召唤了5个土傀儡后，本场战斗中，后续召唤土傀儡将改为召唤超级土傀儡。",
   "en": "After summoning 5 Earth Golems, Earth Golems to be generated become Advanced Earth Golems until the end of battle.",
-  "pt": ""
+  "pt": "Após invocar 5 Golems de Terra, os Golems de Terra que forem gerados tornam-se Golems de Terra Avançados até o fim da batalha.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10033": {
   "ch": "在雷系神通持续时间内，雷系身法的冷却时间-80%。",
   "en": "Lightning Motion Skill cooldown -80% for the duration of a Lightning Ultimate Skill.",
-  "pt": ""
+  "pt": "O tempo de recarga da Técnica de Movimento de Relâmpago é reduzido em 80% enquanto a Técnica Suprema de Relâmpago estiver ativa.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10034": {
   "ch": "雷兽在死亡时，会立即施放一次你的雷系绝技，伤害为原来的30%。",
   "en": "When a Lightning Beast dies, it casts your Lightning Special Skill at 30% damage.",
-  "pt": ""
+  "pt": "Quando uma Fera do Relâmpago morre, ela lança sua Técnica Especial de Relâmpago, causando 30% do dano normal.",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitName10000": {
   "ch": "大荒诀",
   "en": "Barren Knack",
-  "pt": ""
+  "pt": "Arte da Desolação",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "battleAbility_suitName10001": {
   "ch": "玄天秘卷",
   "en": "Heavenly Secret Manual",
-  "pt": ""
+  "pt": "Manual Secreto Celestial",
+  "auto": "local/hy-mt2"
  },
  "battleAbility_suitName10002": {
   "ch": "吸星大法",
   "en": "Star Sucking Skill",
-  "pt": ""
+  "pt": "Habilidade de Sugar Estrelas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "battleAbility_suitName10003": {
   "ch": "洞玄经",
   "en": "Canon of Arcane Cavern",
-  "pt": ""
+  "pt": "Cânone da Caverna Arcana",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10004": {
   "ch": "残天式",
   "en": "Move of Broken Sky",
-  "pt": ""
+  "pt": "Golpe do Céu Partido",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10005": {
   "ch": "卧龙劲",
   "en": "Force of Lying Dragon",
-  "pt": ""
+  "pt": "Força do Dragão Adormecido",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10006": {
   "ch": "渡江云",
   "en": "Wandering Cloud",
-  "pt": ""
+  "pt": "Nuvem Errante",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10007": {
   "ch": "珍珠令",
   "en": "Pearl Collector",
-  "pt": ""
+  "pt": "Colecionador de Pérolas",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "battleAbility_suitName10008": {
   "ch": "采桑子",
   "en": "Mulberry Picker",
-  "pt": ""
+  "pt": "Colhedor de Amora",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10009": {
   "ch": "梦行云",
   "en": "Misty Nimbus",
-  "pt": ""
+  "pt": "Nuvem de Sonho",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10010": {
   "ch": "破阵子",
   "en": "Linebreaker",
-  "pt": ""
+  "pt": "Quebra-Linhas",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10011": {
   "ch": "雪满天",
   "en": "Flurry Snowflakes",
-  "pt": ""
+  "pt": "Nevasca de Flocos",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10012": {
   "ch": "玉龙吟",
   "en": "Clinking Jade",
-  "pt": ""
+  "pt": "Dragão de Jade Tinindo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 17 caracteres"
+  ]
  },
  "battleAbility_suitName10013": {
   "ch": "断关河",
   "en": "Crimson Land",
-  "pt": ""
+  "pt": "Rio Carmesim",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10014": {
   "ch": "夜飞红",
   "en": "Fallen Petals",
-  "pt": ""
+  "pt": "Pétalas Voadoras da Noite",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 25 > 17 caracteres"
+  ]
  },
  "battleAbility_suitName10015": {
   "ch": "梨花影",
   "en": "Myriad Blossoms",
-  "pt": ""
+  "pt": "Miríade de Flores",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10016": {
   "ch": "过龙门",
   "en": "Defiant One",
-  "pt": ""
+  "pt": "O Destemido",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10017": {
   "ch": "震山河",
   "en": "Overlord",
-  "pt": ""
+  "pt": "Suserano",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10018": {
   "ch": "乾坤转",
   "en": "Destined Challenger",
-  "pt": ""
+  "pt": "Desafiante do Destino",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10019": {
   "ch": "凌波曲",
   "en": "Soaring Tide",
-  "pt": ""
+  "pt": "Maré Ascendente",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10020": {
   "ch": "舞天涯",
   "en": "Tireless Dancer",
-  "pt": ""
+  "pt": "Dançarino Sem Limites",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "battleAbility_suitName10021": {
   "ch": "洞玄歌",
   "en": "Arcane Portal",
-  "pt": ""
+  "pt": "Portal Arcano",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10022": {
   "ch": "镜中人",
   "en": "Existence Imaged",
-  "pt": ""
+  "pt": "Imagem da Existência",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10023": {
   "ch": "蝶恋花",
   "en": "Blithe Butterfly",
-  "pt": ""
+  "pt": "Borboleta Alegre",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10024": {
   "ch": "乱芳华",
   "en": "Spilled Perfume",
-  "pt": ""
+  "pt": "Perfume Derramado",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10025": {
   "ch": "潜龙渊",
   "en": "Agile Dragon",
-  "pt": ""
+  "pt": "Dragão Ágil",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10026": {
   "ch": "望海潮",
   "en": "Stormy Sea",
-  "pt": ""
+  "pt": "Mar Tempestuoso",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "battleAbility_suitName10027": {
   "ch": "宴火令",
   "en": "Pyromancer",
-  "pt": ""
+  "pt": "Piromante",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10028": {
   "ch": "丹凤吟",
   "en": "Singing Phoenix",
-  "pt": ""
+  "pt": "Fênix Cantora",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10029": {
   "ch": "浪淘沙",
   "en": "Finest Sifter",
-  "pt": ""
+  "pt": "Peneira Suprema",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10030": {
   "ch": "风凌霄",
   "en": "Tempest",
-  "pt": ""
+  "pt": "Tempestade",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10031": {
   "ch": "凝五岳",
   "en": "Mountain Might",
-  "pt": ""
+  "pt": "Poder da Montanha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10032": {
   "ch": "荒灵衍",
   "en": "Earthcracker",
-  "pt": ""
+  "pt": "Quebra-Terra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10033": {
   "ch": "踏云行",
   "en": "Thunder Tamer",
-  "pt": ""
+  "pt": "Domador de Trovões",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "battleAbility_suitName10034": {
   "ch": "遥天引",
   "en": "Eternity Rover",
-  "pt": ""
+  "pt": "Viajante da Eternidade",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  }
 }

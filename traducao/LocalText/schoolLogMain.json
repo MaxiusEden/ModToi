@@ -2,571 +2,685 @@
  "schoolLogMain1001": {
   "ch": "宗门花费{0}灵石，为藏经阁置换了一批崭新的秘籍。",
   "en": "The sect used {0} Spirit Stones to replace a batch of manuals for the Manual Library.",
-  "pt": ""
+  "pt": "A seita utilizou {0} Pedras Espirituais para substituir um lote de manuais na Biblioteca de Manuais.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain101": {
   "ch": "本月宗门共<color=#257400>招募</color>了<color=#745000>{0}</color>名新弟子。",
   "en": "<color=#257400>New</color> Disciples this month: <color=#745000>{0}</color>",
-  "pt": ""
+  "pt": "<color=#257400>Novos</color> Discípulos este mês: <color=#745000>{0}</color>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain102": {
   "ch": "本月共收集了<color=#745000>{0}</color>份<color=#257400>炼丹材料</color>。",
   "en": "<color=#257400>Alchemy materials</color> collected this month: <color=#745000>{0}</color>",
-  "pt": ""
+  "pt": "<color=#257400>Materiais de Alquimia</color> coletados este mês: <color=#745000>{0}</color>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain103": {
   "ch": "本月共<color=#257400>成功炼制</color>了<color=#745000>{0}</color>颗丹药。",
   "en": "Elixirs <color=#257400>successfully concocted</color> this month: <color=#745000>{0}</color>",
-  "pt": ""
+  "pt": "Elixires <color=#257400>preparados com sucesso</color> este mês: <color=#745000>{0}</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain104": {
   "ch": "本月共<color=#257400>成功清理</color>了<color=#745000>{0}</color>个领地内的<color=#6F0000>怪物</color>。",
   "en": "<color=#745000>{0}</color> <color=#6F0000>monsters</color> were <color=#257400>eliminated</color> from the sect territory this month",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> <color=#6F0000>monstros</color> foram <color=#257400>eliminados</color> do território da seita neste mês",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain105": {
   "ch": "本月共完成了<color=#745000>{0}</color>个驻守领地任务。",
   "en": "Territory Garrison missions completed this month: <color=#745000>{0}</color>",
-  "pt": ""
+  "pt": "Missões de guarnição territorial concluídas este mês: <color=#745000>{0}</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain106": {
   "ch": "本月共<color=#257400>成功平定</color>了<color=#745000>{0}</color>个领地内的<color=#6F0000>叛乱</color>。",
   "en": "<color=#745000>{0}</color> <color=#6F0000>rebellions</color> were <color=#257400>pacified</color> in the sect territory this month",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> <color=#6F0000>rebeliões</color> foram <color=#257400>pacificadas</color> no território da seita este mês",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain107": {
   "ch": "本月共<color=#257400>成功运送</color>了<color=#745000>{0}</color>批丹药至目的地，宗门获得了<color=#745000>{1}</color><color=#257400>灵石</color>。",
   "en": "<color=#745000>{0}</color> batches of Elixirs were <color=#257400>successfully delivered</color> this month. Our sect earned <color=#745000>{1}</color><color=#257400> Spirit Stones</color>",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> lotes de Elixires foram <color=#257400>entregues com sucesso</color> este mês. Nossa seita obteve <color=#745000>{1}</color><color=#257400> Pedras Espirituais</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain108": {
   "ch": "本月宗门共<color=#257400>成功扩张</color>了<color=#745000>{0}</color>格领地。",
   "en": "Our sect <color=#257400>expanded</color> our territory by <color=#745000>{0}</color> spaces",
-  "pt": ""
+  "pt": "Nossa seita <color=#257400>expandiu</color> seu território em <color=#745000>{0}</color> espaços",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain109": {
   "ch": "本月宗门弟子共<color=#257400>击杀</color>了<color=#745000>{0}</color>名<color=#6F0000>敌道弟子</color>，<color=#257400>宗门名誉</color>提升了<color=#745000>{1}</color>。",
   "en": "Our Sect Disciples <color=#257400>killed</color> <color=#745000>{0}</color> <color=#6F0000>enemy Sect Disciple</color> this month. <color=#257400>Sect Prestige</color> +<color=#745000>{1}</color>.",
-  "pt": ""
+  "pt": "Os Discípulos da nossa Seita <color=#257400>mataram</color> <color=#745000>{0}</color> <color=#6F0000>Discípulos inimigos da outra Seita</color> este mês. <color=#257400>Prestígio da Seita</color> +<color=#745000>{1}</color>.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain110": {
   "ch": "本月灵草园共收获了<color=#745000>{0}</color>份<color=#257400>炼丹材料</color>。",
   "en": "<color=#257400>Alchemy materials</color> harvested from the Herb Garden this month: <color=#745000>{0}</color>",
-  "pt": ""
+  "pt": "<color=#257400>Materiais de Alquimia</color> colhidos do Jardim de Ervas este mês: <color=#745000>{0}</color>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain1101": {
   "ch": "宗门花费{0}药材，为宗门聚宝仙楼置换了一批崭新的物品。",
   "en": "The sect used {0} herbs to replace a batch of items with brand new ones for the sect's Treasure Pavilion.",
-  "pt": ""
+  "pt": "A seita utilizou {0} ervas para substituir um lote de itens por outros completamente novos, destinados ao Pavilhão do Tesouro da seita.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain1102": {
   "ch": "宗门花费{0}矿材，为宗门聚宝仙楼置换了一批崭新的物品。",
   "en": "The sect used {0} ores to replace a batch of items with brand new ones for the sect's Treasure Pavilion.",
-  "pt": ""
+  "pt": "A seita utilizou {0} minérios para substituir um lote de itens por outros completamente novos, para o Pavilhão do Tesouro da seita.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain111": {
   "ch": "本月共收集了<color=#E5AF24>{0}</color>份<color=#76EF77>矿石材料</color>。",
   "en": "<color=#76EF77>Ores</color> collected this month: <color=#E5AF24>{0}</color>",
-  "pt": ""
+  "pt": "<color=#76EF77>Minérios</color> coletados este mês: <color=#E5AF24>{0}</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain112": {
   "ch": "本月共<color=#76EF77>成功降服</color>了<color=#E5AF24>{0}</color>个领地内的<color=#6F0000>妖物</color>。",
   "en": "<color=#E5AF24>{0}</color> <color=#6F0000>monsters</color> were <color=#76EF77>subdued</color> in the sect territory this month",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color> <color=#6F0000>monstros</color> foram <color=#76EF77>subjugados</color> no território da seita este mês.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain1201": {
   "ch": "在发展壮大的过程中，宗门难免受到有心之人暗中诟病。宗门的名誉下降了{0}。",
   "en": "In the process of great development, the sect was inevitably plagued by quiet criticism. The prestige of the sect has fallen by {0}.",
-  "pt": ""
+  "pt": "Em meio a um grande desenvolvimento, a seita foi inevitavelmente alvo de críticas silenciosas. O prestígio da seita caiu em {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1301": {
   "ch": "在发展壮大的过程中，宗门弟子难免被外人蛊惑引诱。宗门的忠诚度下降了{0}。",
   "en": "In the process of great development, the sect disciples were inevitably tempted and lured by outsiders. The sect loyalty has fallen by {0}.",
-  "pt": ""
+  "pt": "Em meio a um grande processo de desenvolvimento, os discípulos da seita foram inevitavelmente tentados e atraídos por estranhos. A lealdade à seita diminuiu em {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1401": {
   "ch": "宗门领地需要大阵的庇护。为了覆盖全部领地，宗门大阵的耐久度下降了{0}。",
   "en": "The sect territory requires the protection of an array. In order to cover the entire territory, the sect array's durability has fallen by {0}.",
-  "pt": ""
+  "pt": "O território da seita necessita da proteção de uma formação. Para cobrir todo o território, a durabilidade da formação da seita diminuiu em {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1501": {
   "ch": "在发展壮大的过程中，宗门难免遭到寻衅滋事、妖兽侵扰。宗门的安定度降低了{0}。",
   "en": "In the process of great development, the sect was inevitably plagued by disputes and monster invasions. Sect stability has fallen by {0}.",
-  "pt": ""
+  "pt": "Em um processo de grande desenvolvimento, a seita foi inevitavelmente atormentada por disputas e invasões de monstros. A estabilidade da seita diminuiu em {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1601": {
   "ch": "由于部分弟子对宗门不再忠诚、选择离开，宗门的人数减少了{0}。",
   "en": "A number of disciple were no longer loyal to the sect and chose to leave. The sect population has declined by {0}.",
-  "pt": ""
+  "pt": "Vários discípulos deixaram de ser leais à seita e optaram por ir embora. A população da seita diminuiu em {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1701": {
   "ch": "由于部分弟子在执行任务的过程中陨落，宗门的人口减少了{0}。",
   "en": "A number of disciples were lost while carrying out their missions. The sect population has declined by {0}.",
-  "pt": ""
+  "pt": "Vários discípulos se perderam enquanto realizavam suas missões. A população da seita diminuiu em {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1801": {
   "ch": "{0}被提拔为{1}。",
   "en": "{0} was promoted to {1}.",
-  "pt": ""
+  "pt": "{0} foi promovido para {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain1901": {
   "ch": "{0}被降职为{1}。",
   "en": "{0} was demoted to {1}.",
-  "pt": ""
+  "pt": "{0} foi rebaixado para {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain199": {
   "ch": "本月共发布任务{0}个招募、{1}个搜集药材、{2}个炼制丹药、{3}个清理怪物、{4}个驻守领地、{5}个平定叛乱、{6}个运送丹药、{7}个扩张领地、{8}个击杀敌道、{9}个打理灵草园。",
   "en": "Missions published this month: Recruit ({0}), Collecting Herbs ({1}), Elixir Concoction ({2}), Monster Sweep ({3}), Territory Garrison ({4}), Elixir Delivery ({5}), Territory Expansion ({6}), Pacifying Rebellions ({7}), Enemy Elimination ({8}), Tending Herb Garden ({9})",
-  "pt": ""
+  "pt": "As Missões publicadas este mês são: Recrutamento ({0}), Coleta de Ervas ({1}), Preparação do Elixir ({2}), Extermínio de Monstros ({3}), Guarnição do Território ({4}), Entrega do Elixir ({5}), Expansão do Território ({6}), Pacificação de Rebeliões ({7}), Eliminação do Inimigo ({8}), Cuidados no Jardim de Ervas ({9})",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2001": {
   "ch": "{0}晋升为{1}。",
   "en": "{0} was promoted to {1}.",
-  "pt": ""
+  "pt": "{0} foi promovido para {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain201": {
   "ch": "<color=#257400>{0}-{1}</color>被<color=#6F0000>{2}-{3}</color>击败，<color=#6F0000>宗门名誉</color>下降了<color=#745000>{4}</color>。",
   "en": "<color=#257400>{0}-{1}</color> was defeated by <color=#6F0000>{2}-{3}</color>. <color=#6F0000>Sect Prestige</color> decrease by <color=#745000>{4}</color>.",
-  "pt": ""
+  "pt": "<color=#257400>{0}-{1}</color> foi derrotado por <color=#6F0000>{2}-{3}</color>. O <color=#6F0000>Prestígio da Seita</color> diminuiu em <color=#745000>{4}</color>.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain202": {
   "ch": "本月共有<color=#745000>{0}</color>名弟子<color=#6F0000>不幸遇难</color>，<color=#745000>{1}</color>名弟子<color=#6F0000>离宗</color>。",
   "en": "<color=#745000>{0}</color> members <color=#6F0000>died</color> this month. <color=#745000>{1}</color> members <color=#6F0000>left the sect</color>.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> membros <color=#6F0000>morreram</color> este mês. <color=#745000>{1}</color> membros <color=#6F0000>deixaram a seita</color>.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain203": {
   "ch": "<color=#257400>{0}</color>等级提升至<color=#745000>{1}</color>级。",
   "en": "<color=#257400>{0}</color> leveled up to <color=#745000>{1}</color>",
-  "pt": ""
+  "pt": "<color=#257400>{0}</color> subiu para o nível <color=#745000>{1}</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain204": {
   "ch": "宗门领地<color=#745000>{0}</color>被<color=#6F0000>{1}</color>侵占了。",
   "en": "<color=#745000>{0}</color> (Sect Territory) was occupied by <color=#6F0000>{1}</color>",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> (Território da Seita) foi ocupado por <color=#6F0000>{1}</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain205": {
   "ch": "宗门在天龙城举行了<color=#257400>{0}</color>，引得各方高人前来观赛，<color=#745000>宗门名誉</color>提升了<color=#745000>{1}</color>。",
   "en": "Our Sect hosted <color=#257400>{0}</color> in Tianlong City and attracted many spectators. <color=#745000>Sect Prestige</color> increased by <color=#745000>{1}</color>.",
-  "pt": ""
+  "pt": "Nossa Seita recebeu <color=#257400>{0}</color> na Cidade Tianlong, atraindo muitos espectadores. O <color=#745000>Prestígio da Seita</color> aumentou em <color=#745000>{1}</color>.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain206": {
   "ch": "本月宗门共征得税收<color=#745000>{0}</color><color=#257400>灵石</color>，宗门当前共有<color=#257400>领地</color><color=#745000>{1}</color>格，领地内的<color=#6F0000>安定度</color>下降了<color=#745000>{2}</color>。",
   "en": "Tax received this month: <color=#745000>{0}</color><color=#257400> Spirit Stones</color>. Total <color=#257400>territory size</color>: <color=#745000>{1}</color>. Territory <color=#6F0000>Stability</color> -<color=#745000>{2}</color>",
-  "pt": ""
+  "pt": "Impostos recebidos este mês: <color=#745000>{0}</color><color=#257400> Pedras Espirituais</color>. Tamanho total do <color=#257400>território</color>: <color=#745000>{1}</color>. <color=#6F0000>Estabilidade</color> do território: <color=#745000>{2}</color>",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain207": {
   "ch": "本月宗门共发放工资<color=#745000>{0}</color><color=#257400>灵石</color>，宗门当前共有<color=#745000>{1}</color>人。",
   "en": "Wages paid this month: <color=#745000>{0}</color><color=#257400> Spirit Stones</color>. Total sect members: <color=#745000>{1}</color>",
-  "pt": ""
+  "pt": "Salários pagos este mês: <color=#745000>{0}</color><color=#257400> Pedras Espirituais</color>. Total de membros da seita: <color=#745000>{1}</color>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2101": {
   "ch": "{0}降职为{1}。",
   "en": "{0} was demoted to {1}.",
-  "pt": ""
+  "pt": "{0} foi rebaixado para {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2102": {
   "ch": "因{0}长老晋升为{1}，职位降为{2}。",
   "en": "Elder {0} was promoted to {2}, so you are demoted to {1}.",
-  "pt": ""
+  "pt": "O Ancião {0} foi promovido a {2}, portanto você foi rebaixado para {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2103": {
   "ch": "因{0}长老晋升为{1}，{2}职位降为{3}。",
   "en": "Elder {0} was promoted to {1}, so {2} was demoted to {3}.",
-  "pt": ""
+  "pt": "O Ancião {0} foi promovido a {1}, motivo pelo qual {2} foi rebaixado para {3}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2201": {
   "ch": "{0}获得宗门传承的认可，荣登{1}宗主之位。",
   "en": "{0} was acknowledged by the Sect Tradition, and honored with the position of {1} Sect Leader.",
-  "pt": ""
+  "pt": "{0} foi reconhecido pela Tradição da Seita e homenageado com o cargo de Líder da Seita {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2301": {
   "ch": "因{0}长老陨落，{1}职位降为内门弟子。",
   "en": "Because of {0} Elder's fall, you are demoted from {1} to Disciple.",
-  "pt": ""
+  "pt": "Devido à queda do Ancião {0}, você foi rebaixado de {1} para Discípulo.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2501": {
   "ch": "{0}在{1}的入门小比中表现优异，成为{1}的外门弟子。",
   "en": "{0} performed well in the {1} Sect Tryouts, and became the Initiate of {1}.",
-  "pt": ""
+  "pt": "{0} teve um bom desempenho nas Provas de Seleção da Seita {1}, tornando-se o Iniciado de {1}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2601": {
   "ch": "{0}{1}在{2}中不幸阵亡，只剩<r>一丝元魂</r>！",
   "en": "{0}{1} fell tragically in battle in {2}, and is on their <r>Last Breath</r>!",
-  "pt": ""
+  "pt": "{0}{1} faleceu tragicamente durante uma batalha em {2}, e está agora em seu <r>Último Suspiro</r>!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2602": {
   "ch": "{0}{1}在{2}中不幸阵亡，只剩<r>一丝元魂</r>！",
   "en": "{0}{1} fell tragically in battle in {2}, and is on their <r>Last Breath</r>!",
-  "pt": ""
+  "pt": "{0}{1} faleceu tragicamente durante uma batalha em {2}, e está agora em seu <r>Último Suspiro</r>!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2603": {
   "ch": "{0}{1}遭到{2}的攻击，惨遭杀害只剩<r>一丝元魂</r>！",
   "en": "{0}{1} was attacked by {2}, and is on their <r>Last Breath</r>!",
-  "pt": ""
+  "pt": "{0}{1} foi atacado por {2}, e está em seu <r>Último Suspiro</r>!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2604": {
   "ch": "{0}{1}<r>寿元耗尽</r>！",
   "en": "{0}{1}'s <r>time was exhausted</r>!",
-  "pt": ""
+  "pt": "{0}{1}: <r>o tempo se esgotou</r>!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2605": {
   "ch": "{0}{1}<r>元魂消散</r>！",
   "en": "{0}{1}'s <r>immortal soul dissipated</r>!",
-  "pt": ""
+  "pt": "{0}{1}: <r>a alma imortal se dissipou</r>!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2606": {
   "ch": "{0}{1}在{2}中全力对抗入侵，拼死守护宗门，却最终难以抵敌对方，不幸当场陨落！",
   "en": "{0}{1} fought the invasion with all their might in {2} to defend the sect, but were defeated by the enemy in the end and fell in battle!",
-  "pt": ""
+  "pt": "{0}{1} lutaram contra a invasão com todas as suas forças em {2} para defender a seita, mas no final foram derrotados pelo inimigo e caíram na batalha!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2607": {
   "ch": "{0}{1}在{2}中，不幸陨落！",
   "en": "{0}{1} fell in {2}!",
-  "pt": ""
+  "pt": "{0}{1} caiu em {2}!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2608": {
   "ch": "{0}{1}在{2}中，不幸阵亡！",
   "en": "{0}{1} fell in battle in {2}!",
-  "pt": ""
+  "pt": "{0}{1} morreu na batalha em {2}!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2609": {
   "ch": "{0}{1}遭到{2}的攻击，惨遭杀害！",
   "en": "{0}{1} were attacked by {2} and were brutally killed!",
-  "pt": ""
+  "pt": "{0}{1} foram atacados por {2} e brutalmente assassinados!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2610": {
   "ch": "前往支援{0}的{1}{2}在{3}中，不幸陨落！",
   "en": "The one to went to support {0}, {1}{2} fell in {3}!",
-  "pt": ""
+  "pt": "Aquele que foi apoiar {0}, {1}{2} caiu em {3}!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2611": {
   "ch": "前往支援{0}的{1}{2}在{3}中，不幸阵亡！",
   "en": "The one to went to support {0}, {1}{2} were killed in {3}!",
-  "pt": ""
+  "pt": "Aquele que foi dar apoio a {0}, {1}{2} foram mortos em {3}!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2612": {
   "ch": "前往支援{0}的{1}{2}在{3}中，不幸阵亡只剩一丝元魂！",
   "en": "The one to went to support {0}, {1}{2} were killed in {3}, with only a trace of their souls left!",
-  "pt": ""
+  "pt": "Aquele que foi apoiar {0}, {1}{2} foram mortos em {3}, restando apenas um vestígio de suas almas!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2701": {
   "ch": "宗门灵石不足，本月没有发放俸禄，弟子的忠诚度降低了{0}。",
   "en": "The sect has not enough Spirit Stones. No wages were distributed this month, and the disciples' loyalty has fallen by {0}.",
-  "pt": ""
+  "pt": "A seita não possui Pedras Espirituais suficientes. Nenhum salário foi distribuído este mês, e a lealdade dos discípulos caiu em {0}.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2702": {
   "ch": "宗门本月额外发放俸禄,消耗了灵石{0},弟子的忠诚度提高了{1}。",
   "en": "The sect distributed extra wages this month, and it cost {0} Spirit Stones. The disciples' loyalty has increased by {1}.",
-  "pt": ""
+  "pt": "A seita distribuiu salários extras este mês, e o custo foi de {0} Pedras Espirituais. A lealdade dos discípulos aumentou em {1}.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain2703": {
   "ch": "宗门本月发放俸禄，花费了灵石{0}。",
   "en": "The Sect spent {0} Spirit Stones to pay out wages this month.",
-  "pt": ""
+  "pt": "A Seita gastou {0} Pedras Espirituais para pagar os salários este mês.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2801": {
   "ch": "{0}本月完成了{1}个任务，宗门{2}。",
   "en": "{0} completed {1} Missions in this month. Sect {2}.",
-  "pt": ""
+  "pt": "{0} completou {1} Missões neste mês. Seita {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain2901": {
   "ch": "宗门花费{0}灵石，扩大了宗门的领地范围。",
   "en": "The Sect spent {0} Spirit Stones and expanded the Sect's territory.",
-  "pt": ""
+  "pt": "A Seita gastou {0} Pedras Espirituais e expandiu seu território.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3001": {
   "ch": "经过弟子们的辛勤劳作，我宗从{0}获得了{1}。",
   "en": "Through the hard work of the Disciples, our Sect obtained {1} from {0}.",
-  "pt": ""
+  "pt": "Graças ao árduo trabalho dos Discípulos, nossa Seita obteve {1} a partir de {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain301": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的招募任务，招募了<color=#745000>{2}</color>名弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Recruit Mission and recruited <color=#745000>{2}</color> sect members.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Recrutamento de nível <color=#745000>{1}</color> e recrutaram <color=#745000>{2}</color> membros para a seita.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain302": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的收集药材任务，收集到<color=#745000>{2}</color>份材料，死亡了<color=#745000>{3}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Collecting Herbs Mission and collected a total of <color=#745000>{2}</color> Herbs. <color=#745000>{3}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Coleta de Ervas de nível <color=#745000>{1}</color> e coletaram um total de <color=#745000>{2}</color> Ervas. <color=#745000>{3}</color> Discípulos iniciantes morreram durante a missão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain303": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的炼制丹药任务，炼制了<color=#745000>{2}</color>颗丹药。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Elixir Concoction Mission and concocted <color=#745000>{2}</color> Elixirs.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Preparação de Elixires de nível <color=#745000>{1}</color> e prepararam <color=#745000>{2}</color> Elixires.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain304": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的清理怪物任务，清理了<color=#745000>{2}</color>个怪物，死亡了<color=#745000>{3}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Monster Sweep Mission and killed a total of <color=#745000>{2}</color> monsters. <color=#745000>{3}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Extermínio de Monstros de nível <color=#745000>{1}</color> e mataram um total de <color=#745000>{2}</color> monstros. <color=#745000>{3}</color> Discípulos iniciantes morreram durante a missão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain305": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的驻守领地任务，提升了<color=#745000>{2}</color>安定度，死亡了<color=#745000>{3}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Territory Garrison Mission and increased Stability by <color=#745000>{2}</color>. <color=#745000>{3}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Guarnição Territorial de nível <color=#745000>{1}</color>, aumentando a Estabilidade em <color=#745000>{2}</color>. <color=#745000>{3}</color> Discípulos iniciantes morreram durante a missão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain306": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的平定叛乱任务，平定了<color=#745000>{2}</color>个判乱，死亡了<color=#745000>{3}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Pacifying Rebellions Mission and pacified a total of <color=#745000>{2}</color> rebellions. <color=#745000>{3}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Pacificação de Rebeliões de nível <color=#745000>{1}</color> e pacificaram um total de <color=#745000>{2}</color> rebeliões. <color=#745000>{3}</color> Discípulos iniciantes morreram durante a missão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain307": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的运送丹药任务，运送了<color=#745000>{2}</color>批丹药，宗门增加了<color=#745000>{3}</color>灵石，死亡了<color=#745000>{4}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Elixir Delivery Mission. They delivered <color=#745000>{2}</color> batches of Elixirs and earned <color=#745000>{3}</color> Spirit Stones for our sect. <color=#745000>{4}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de entrega de Elixires de nível <color=#745000>{1}</color>. Eles entregaram <color=#745000>{2}</color> lotes de Elixires e conquistaram <color=#745000>{3}</color> Pedras Espirituais para nossa seita. <color=#745000>{4}</color> Discípulos iniciantes morreram durante a Missão.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain308": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的扩张领地任务，扩张了<color=#745000>{2}</color>个格子，死亡了<color=#745000>{3}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Territory Expansion Mission and increased the sect territory by <color=#745000>{2}</color> spaces. <color=#745000>{3}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Expansão de Território de nível <color=#745000>{1}</color> e ampliaram o território da seita em <color=#745000>{2}</color> espaços. <color=#745000>{3}</color> Discípulos iniciantes morreram durante a missão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain309": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的击杀敌道任务，击杀了<color=#745000>{2}</color>名敌道弟子，死亡了<color=#745000>{3}</color>名外门弟子。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Enemy Elimination Mission and killed <color=#745000>{2}</color> enemy sect members. <color=#745000>{3}</color> Initiate Disciples died during the mission.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Eliminação do Inimigo de nível <color=#745000>{1}</color> e mataram <color=#745000>{2}</color> membros da seita inimiga. <color=#745000>{3}</color> Discípulos iniciantes morreram durante a missão.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain310": {
   "ch": "<color=#745000>{0}</color>名外门弟子领取了<color=#745000>{1}</color>级的打理灵草园任务，产出了<color=#745000>{2}</color>份炼丹材料。",
   "en": "<color=#745000>{0}</color> Initiate Disciples accepted the Lv.<color=#745000>{1}</color> Tending Herb Garden Mission. A total of <color=#745000>{2}</color> Herbs were produced.",
-  "pt": ""
+  "pt": "<color=#745000>{0}</color> Discípulos iniciantes aceitaram a Missão de Cuidados no Jardim de Ervas de nível <color=#745000>{1}</color>. No total, <color=#745000>{2}</color> Ervas foram produzidas.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain3101": {
   "ch": "本月宗门税收收入灵石{0}。",
   "en": "The Sect's tax revenue of {0} Spirit Stones this month.",
-  "pt": ""
+  "pt": "A receita de impostos da Seita este mês foi de {0} Pedras Espirituais.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3201": {
   "ch": "我宗向{1}发动了进攻。为了取得胜利，我宗消耗了{3}灵石、{4}药材、{5}矿材来准备战时资源。",
   "en": "Our Sect attacked {1}. To achieve victory, the Sect used {3} Spirit Stones, {4} Herbs, and {5} Ores to prepare for the battle.",
-  "pt": ""
+  "pt": "A nossa Seita atacou {1}. Para alcançar a vitória, a Seita utilizou {3} Pedras Espirituais, {4} Ervas e {5} Minérios para se preparar para a batalha.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3202": {
   "ch": "我宗遭到了{0}的入侵。",
   "en": "Our Sect was invaded by {0}.",
-  "pt": ""
+  "pt": "Nossa Seita foi invadida por {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3203": {
   "ch": "在攻打{1}的过程中，我宗资源耗尽，铩羽而归。",
   "en": "During the attack on {1}, our Sect ran out of resources and return in defeat.",
-  "pt": ""
+  "pt": "Durante o ataque a {1}, nossa Seita ficou sem recursos e teve que voltar derrotada.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3204": {
   "ch": "在攻打{1}的过程中，我宗宗主在与对方宗主对决之时不慎落败，我宗铩羽而归。",
   "en": "During the attack on {1}, our Sect Leader was defeated in a fight with the opponent Sect Leader. Our Sect returned in defeat.",
-  "pt": ""
+  "pt": "Durante o ataque a {1}, nosso Líder da Seita foi derrotado em um combate contra o Líder da Seita adversário. Nossa Seita teve que voltar derrotada.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3205": {
   "ch": "我宗一举击溃了{1}并取走了其宗门内的全部资源，共计斩获{3}灵石、{4}药材、{5}矿材，作为交换，我宗留其香火存续，并未将其抹灭。战后，宗主论功行赏，消耗{6}灵石、{7}药材、{8}矿材给参战弟子发放了奖励。",
   "en": "Our Sect defeated {1} and took all the resources of the Sect, which amounted to a total of {3} Spirit Stones, {4} Herbs, and {5} Ores. In exchange, our Sect has kept their incense burning, and did not wipe them out. After the battle, the Sect Leader rewarded the Sect Disciples for their contributions, using {6} Spirit Stones, {7} Herbs, and {8} Ores.",
-  "pt": ""
+  "pt": "Nossa Seita derrotou {1} e tomou todos os recursos da outra Seita, que somaram {3} Pedras Espirituais, {4} Ervas e {5} Minérios. Em troca, nossa Seita manteve o incenso queimando, sem aniquilar os inimigos. Após a batalha, o Líder da Seita recompensou os Discípulos por suas contribuições, utilizando {6} Pedras Espirituais, {7} Ervas e {8} Minérios.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3206": {
   "ch": "我宗一举击溃了{1}并将其抹灭，从此，{1}在八荒山海中彻底消失，其领地变为了我宗的一处分舵。其宗门内所剩资源共计{3}灵石、{4}药材、{5}矿材。",
   "en": "Our Sect defeated {1} and wiped it out. From then on, {1} completely disappeared from the world, and its territory became a branch of our Sect. The resources left in the Sect total {3} Spirit Stones, {4} Herbs, and {5} Ores.",
-  "pt": ""
+  "pt": "Nossa Seita derrotou {1} e o aniquilou. Desde então, {1} desapareceu completamente do mundo, e seu território tornou-se uma filial da nossa Seita. Os recursos que restaram na Seita somam {3} Pedras Espirituais, {4} Ervas e {5} Minérios.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3212": {
   "ch": "我宗遭到了{0}的进攻，在众人的顽强抵抗下，{0}资源耗尽、狼狈撤离，我宗大获全胜。整场宗门防守战中，我宗共计消耗{3}灵石、{4}药材、{5}矿材。",
   "en": "Our clan was attacked by {0}, and due to stubborn resistance, {0} resources were exhausted and they withdrew. Our Sect won a great victory. During the Sect's defensive battle, our Sect used {3} Spirit Stones, {4} Herbs, and {5} Ores.",
-  "pt": ""
+  "pt": "Nossa Seita foi atacada por {0}, mas graças à grande resistência demonstrada, os recursos de {0} se esgotaram e eles acabaram se retirando. Nossa Seita alcançou uma grande vitória. Durante essa batalha defensiva, utilizamos {3} Pedras Espirituais, {4} Ervas e {5} Minérios.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3213": {
   "ch": "我宗遭到了{0}的进攻，最后关头，我宗宗主大显神威，击败了对方宗主，成功守住了宗门。整场宗门防守战中，我宗共计消耗{3}灵石、{4}药材、{5}矿材。",
   "en": "Our Sect was attacked by {0}, but at the last moment, our Sect Leader defeated the opponent Sect Leader, successfully defending the Sect. During the Sect's defensive battle, our Sect used {3} Spirit Stones, {4} Herbs, and {5} Ores.",
-  "pt": ""
+  "pt": "Nossa Seita foi atacada por {0}, mas no último momento, nosso Líder da Seita derrotou o Líder da Seita adversária, defendendo com sucesso a nossa Seita. Durante essa batalha defensiva, nossa Seita utilizou {3} Pedras Espirituais, {4} Ervas e {5} Minérios.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3214": {
   "ch": "我宗遭到了{0}的进攻，最后关头，我方宗主棋差一着，被对方宗主击败，宗门彻底沦陷。",
   "en": "Our Sect was attacked by {0}, and at the last moment, our Sect Leader was defeated by the opponent Sect Leader, and our Sect was defeated.",
-  "pt": ""
+  "pt": "Nossa Seita foi atacada por {0}. No último momento, nosso Líder da Seita foi derrotado pelo Líder da Seita adversária, e nossa Seita foi vencida.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3215": {
   "ch": "我宗在抵御{1}进攻的战斗中大获全胜，所有参战弟子都获得了丰厚的战利品。",
   "en": "Our Sect won the battle against {1}'s attack, and all the Disciples who fought in the battle received a large amount of battle loot.",
-  "pt": ""
+  "pt": "Nossa Seita venceu a batalha contra o ataque de {1}, e todos os Discípulos que participaram da batalha receberam uma grande quantidade de espólios de batalha.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain3216": {
   "ch": "我宗在抵御{1}进攻的战斗中惨败，宗门沦陷后被对方掠夺了大量资源，共计{3}灵石、{4}药材、{5}矿材。",
   "en": "Our Sect was defeated in the battle against {1}'s attack, was plundered by the opponent, losing a large amount of resources totaling {3} Spirit Stones, {4} Herbs, and {5} Ores.",
-  "pt": ""
+  "pt": "Nossa Seita foi derrotada na batalha contra o ataque de {1}; foi saqueada pelo adversário, perdendo uma grande quantidade de recursos: {3} Pedras Espirituais, {4} Ervas e {5} Minérios.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3221": {
   "ch": "{0}未能如期进攻我宗，想必是天道护佑，使不知死活的{0}被他宗覆灭了。",
   "en": "{0} failed to attack our clan as expected. It must be the protection of the Heavenly Path. The reckless {0} was destroyed by his Sect.",
-  "pt": ""
+  "pt": "{0} não conseguiu atacar nosso clã, como esperado. Deve ser devido à proteção do Caminho Celestial. O imprudente {0} foi destruído pela sua própria Seita.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3222": {
   "ch": "我宗横生变故，未能如期进攻{1}。",
   "en": "Our Sect changed our minds and did not attack {1} as planned.",
-  "pt": ""
+  "pt": "Nossa Seita mudou de ideia e não atacou {1} conforme o planejado.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3301": {
   "ch": "{0}{1}{2}被调派至{3}担任{4}。",
   "en": "{0}{1}{2} was sent to {3} as {4}.",
-  "pt": ""
+  "pt": "{0}{1}{2} foi designado para {3} como {4}.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "schoolLogMain3311": {
   "ch": "我宗一举击溃了{1}并留其香火存续，然而对方宗门内的资源已然所剩无几，我宗未有所获，也无法用所得资源给弟子发放奖励。",
   "en": "Our Sect defeated {1} and left their incense alive, but there were few resources left in the opponent Sect, so our Sect was unable to reward Disciples.",
-  "pt": ""
+  "pt": "Nossa Seita derrotou {1} e deixou seus Discípulos vivos, mas restaram poucos recursos na Seita adversária; por isso, nossa Seita não pôde recompensar os Discípulos.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3312": {
   "ch": "我宗一举击溃了{1}并将其抹灭，从此，{1}在八荒山海中彻底消失，其领地变为了我宗的一处分舵。然而其宗门内的资源所剩无几，若想发展恐怕需要历经磨难。",
   "en": "Our Sect defeated {1} and wiped it out. From then on, {1} completely disappeared from the world, and its territory became a branch of our Sect. However, there are very few resources left in the Sect, so if they will have a lot of hardship if they want to grow.",
-  "pt": ""
+  "pt": "Nossa Seita derrotou {1} e aniquilou-a por completo. Desde então, {1} desapareceu totalmente do mundo, e seu território tornou-se um ramo da nossa Seita. Contudo, restam muito poucos recursos na Seita; por isso, ela enfrentará grandes dificuldades caso queira crescer.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3313": {
   "ch": "我宗在抵御{1}进攻的战斗中惨败，宗门沦陷后资源所剩无几，对方也没有什么可以掠夺的了。",
   "en": "Our Sect was defeated in the battle against {1}'s attack, and with few resources left, there is nothing for the opponent to plunder.",
-  "pt": ""
+  "pt": "Nossa Seita foi derrotada na batalha contra o ataque de {1}, e com poucos recursos remanescentes, não há nada para o adversário saquear.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3314": {
   "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门增加了{2}名记名弟子。",
   "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the number of Backup Disciples increased by {2}.",
-  "pt": ""
+  "pt": "O Ancião {0} propôs ao Líder da Seita {1} que obtivessem mais recursos para a seita. A proposta foi aprovada, e o número de Discípulos reserva aumentou em {2}.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain3315": {
   "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门名誉增加了{2}。",
   "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect Prestige increased by {2}.",
-  "pt": ""
+  "pt": "O Ancião {0} propôs ao Líder da Seita {1} que se obtivessem mais recursos para a seita. A proposta foi aprovada, e o Prestígio da Seita aumentou em {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3316": {
   "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门安定度增加了{2}。",
   "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect Stability increased by {2}.",
-  "pt": ""
+  "pt": "O Ancião {0} propôs ao Líder da Seita {1} que obteriam mais recursos para a seita. A proposta foi aprovada, e a Estabilidade da Seita aumentou em {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3318": {
   "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门灵石增加了{2}。",
   "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect's Spirit Stones increased by {2}.",
-  "pt": ""
+  "pt": "O Ancião {0} propôs ao Líder da Seita {1} que se obtivessem mais recursos para a seita. A proposta foi aprovada, e o número de Pedras Espirituais da Seita aumentou em {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3319": {
   "ch": "长老{0}向宗主{1}提议筹措宗门资源，提议被批准，宗门药材和矿材增加了{2}。",
   "en": "Elder {0} proposed to Sect Leader {1} to raise more resources for the sect. The proposal was approved and the Sect's Herbs and Ores increased by {2}.",
-  "pt": ""
+  "pt": "O Ancião {0} propôs ao Líder da Seita {1} que obtivessem mais recursos para a seita. A proposta foi aprovada, e a quantidade de Ervas e Minério da Seita aumentou em {2}.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain3330": {
   "ch": "",
   "en": "Sect Leader {2} was threatened by a mysterious figure and forced to supply us with a considerable amount of Spirit Stones.",
-  "pt": ""
+  "pt": "O Líder da Seita {2} foi ameaçado por uma figura misteriosa e forçado a nos fornecer uma quantidade considerável de Pedras Espirituais.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3331": {
   "ch": "",
   "en": "Sect Leader {2} was threatened by a mysterious figure and forced to supply us with a considerable amount of Ore.",
-  "pt": ""
+  "pt": "O Líder da Seita {2} foi ameaçado por uma figura misteriosa e forçado a nos fornecer uma quantidade considerável de Minério.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain3332": {
   "ch": "",
   "en": "Sect Leader {2} was threatened by a mysterious figure and forced to supply us with a considerable amount of Herbs.",
-  "pt": ""
+  "pt": "O Líder da Seita {2} foi ameaçado por uma figura misteriosa e forçado a nos fornecer uma quantidade considerável de Ervas.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain401": {
   "ch": "宗门举行了<color=#9A5703>{0}</color>，<color=#9A5703>{1}</color>名弟子在比赛中发挥出色，晋升为<color=#9A5703>{2}</color>！",
   "en": "The Sect has organized a <color=#9A5703>{0}</color>, in which <color=#9A5703>{1}</color> disciples performed admirably in the competition, and have been promoted to <color=#9A5703>{2}</color>!",
-  "pt": ""
+  "pt": "A Seita organizou um <color=#9A5703>{0}</color>, no qual <color=#9A5703>{1}</color> discípulos tiveram um desempenho exemplar na competição, sendo promovidos a <color=#9A5703>{2}</color>!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain402": {
   "ch": "宗门举行了<color=#9A5703>{0}</color>，非常遗憾，本次没有弟子晋升为<color=#9A5703>{1}</color>！",
   "en": "The Sect has organized a <color=#9A5703>{0}</color>, but unfortunately, no disciples merited promotion to <color=#9A5703>{1}</color>!",
-  "pt": ""
+  "pt": "A Seita organizou um <color=#9A5703>{0}</color>, mas infelizmente nenhum dos discípulos mereceu ser promovido a <color=#9A5703>{1}</color>!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain501": {
   "ch": "<color=#E5AF24>{0}</color>{1}在执行宗门任务的过程中，不幸身亡！",
   "en": "<color=#E5AF24>{0}</color> {1} perished while on a Sect Mission!",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color> {1} pereceu durante uma Missão da Seita!",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain502": {
   "ch": "<color=#E5AF24>{0}</color>{1}因为对宗门心生不满，退出了宗门！",
   "en": "<color=#E5AF24>{0}</color> {1} became dissatisfied with the Sect and decided to leave.",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color> {1} ficou insatisfeito com a Seita e decidiu partir.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain503": {
   "ch": "<color=#E5AF24>{0}</color>{1}因为与同宗弟子不和，离开宗门！",
   "en": "<color=#E5AF24>{0}</color> {1} had a falling out with other Disciples and left the Sect!",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color> {1} teve um desentendimento com outros Discípulos e deixou a Seita!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain504": {
   "ch": "<color=#E5AF24>{0}</color>{1}因为不愿遵从宗门门规的约束，愤然退出了宗门！",
   "en": "<color=#E5AF24>{0}</color> {1} broke the Sect rules and was banished!",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color> {1} quebrou as regras da Seita e foi banido!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain505": {
   "ch": "<color=#E5AF24>{0}</color>{1}因为不服宗门对其安排的派遣，离开了宗门！",
   "en": "<color=#E5AF24>{0}</color> {1} disobeyed the dispatch order and left the Sect!",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color> {1} desobedeceu à ordem de despacho e abandonou a Seita!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain506": {
   "ch": "<color=#E5AF24>{0}</color>{1}在执行宗门任务的过程中，不幸陨落！",
   "en": "<color=#E5AF24>{0}</color>{1} perished while on a Sect Mission!",
-  "pt": ""
+  "pt": "<color=#E5AF24>{0}</color>{1} morreu durante uma Missão da Seita!",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain507": {
   "ch": "我宗已有大量记名弟子，已经无法接收更多的记名弟子了。",
   "en": "My Sect has a large number of Backup Disciples and cannot accept any more.",
-  "pt": ""
+  "pt": "Minha Seita possui um grande número de Discípulos reserva e não pode aceitar mais ninguém.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain508": {
   "ch": "{0}{1}因宗门任人唯亲，感到晋升无望，离开了{2}。",
   "en": "{0}{1} found the prospect of promotion bleak due to nepotism in the Sect and left {2}.",
-  "pt": ""
+  "pt": "{0}{1} considerou as perspectivas de promoção sombrias devido ao nepotismo na Seita e deixou {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain509": {
   "ch": "{0}{1}因宗门弟子人数众多，感到晋升无望，离开了{2}。",
   "en": "{0}{1} found the prospect of promotion bleak due to the overly large number of Disciples in the Sect and left {2}.",
-  "pt": ""
+  "pt": "{0}{1} considerou que as perspectivas de promoção eram sombrias, devido ao número excessivamente grande de Discípulos na Seita, e então deixou {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain510": {
   "ch": "{0}{1}因本宗弟子忠诚度低对宗门失望，离开了{2}。",
   "en": "{0}{1} got disappointed in the Sect due to the Disciples' low Loyalty and left {2}.",
-  "pt": ""
+  "pt": "{0}{1} ficou desapontado com a Seita devido à baixa lealdade dos Discípulos e deixou {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain511": {
   "ch": "{0}{1}主动退出了{2}。",
   "en": "{0} {1} quitted {2}.",
-  "pt": ""
+  "pt": "{0} {1} saiu de {2}.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolLogMain601": {
   "ch": "{0}因被贬为{1}后，心生不满，离开了{2}。",
   "en": "{0} is disgruntled after being pushed down to {1}, and leaves {2}.",
-  "pt": ""
+  "pt": "{0} está insatisfeito por ter sido rebaixado para {1}, e abandona {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain701": {
   "ch": "{0}被{1}{2}逐出宗门。",
   "en": "{0} is expelled from the Sect by {1}{2}.",
-  "pt": ""
+  "pt": "{0} foi expulso da Seita por {1}{2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain801": {
   "ch": "{0}掠夺了{1}{2}，宗门获得了{3}。",
   "en": "{0} looted {1}{2} and the Sect obtained {3}.",
-  "pt": ""
+  "pt": "{0} saqueou {1}{2}, e a Seita obteve {3}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain802": {
   "ch": "{0}掠夺了{1}{2}失败，{3}因此身受重伤。",
   "en": "{0} loots {1}{2} but fails, and {3} is severely injured.",
-  "pt": ""
+  "pt": "{0} tenta pegar {1}{2}, mas falha, e {3} fica gravemente ferido.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain901": {
   "ch": "{0}带领一众弟子进攻{1}的{2}。我宗成功击退了{1}的驻守弟子，占领了{2}。",
   "en": "{0} led a group of disciples to attack {1}'s {2}. Our sect successfully repelled {1}'s garrisoned disciples and occupied {2}.",
-  "pt": ""
+  "pt": "{0} liderou um grupo de discípulos para atacar a {2} de {1}. Nossa seita conseguiu repelir os discípulos de {1} que estavam lá e ocupou a {2}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain902": {
   "ch": "{0}带领一众弟子进攻{1}的{2}。在与{1}驻守弟子交战时不敌对方，本次进攻失败。",
   "en": "{0} led a group of disciples to attack {1}'s {2}. They were defeated in the fight with {1}'s garrisoned disciples and the attack failed.",
-  "pt": ""
+  "pt": "{0} liderou um grupo de discípulos para atacar o {2} de {1}. No entanto, foram derrotados na batalha contra os discípulos de {1} que estavam de guarda, e o ataque fracassou.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain903": {
   "ch": "{0}进攻了我宗的{1}，我宗弟子奋力抵抗，成功击退了{0}的弟子。",
   "en": "{0} attacked our sect's {1}. Our disciples fought hard and successfully repelled {0}'s disciples.",
-  "pt": ""
+  "pt": "{0} atacou o {1} da nossa seita. Nossos discípulos lutaram bravamente e conseguiram repelir os discípulos de {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain904": {
   "ch": "{0}进攻了我宗的{1}，我宗弟子不敌对方，{1}被{0}占领了。",
   "en": "{0} attacked our sect's {1}. Our disciples were no match for the enemy, and {1} was occupied by {0}.",
-  "pt": ""
+  "pt": "{0} atacou o {1} da nossa seita. Nossos discípulos não tiveram chance contra o inimigo, e o {1} foi ocupado por {0}.",
+  "auto": "local/hy-mt2"
  },
  "schoolLogMain905": {
   "ch": "{0}带领一众弟子进攻{1}，成功占领了{1}。",
   "en": "{0} led a group of disciples to attack {1} and successfully occupied {1}.",
-  "pt": ""
+  "pt": "{0} liderou um grupo de discípulos para atacar {1} e conseguiu ocupar {1} com sucesso.",
+  "auto": "local/hy-mt2"
  }
 }

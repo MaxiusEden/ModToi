@@ -2,1266 +2,1634 @@
  "role_feature_congenital_name1001": {
   "ch": "傲骨铮铮",
   "en": "Iron Body",
-  "pt": ""
+  "pt": "Corpo de Ferro",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "role_feature_congenital_name1002": {
   "ch": "天生灵体",
   "en": "Energy Overflow",
-  "pt": ""
+  "pt": "Energia Transbordante",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "role_feature_congenital_name1003": {
   "ch": "鹰眼",
   "en": "Eagle Eye",
-  "pt": ""
+  "pt": "Olhos de Águia",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "role_feature_congenital_name1004": {
   "ch": "疾风迅雷",
   "en": "Fleetfoot",
-  "pt": ""
+  "pt": "Pés Ligeiros",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1005": {
   "ch": "笑面人",
   "en": "Clown Face",
-  "pt": ""
+  "pt": "Cara de Palhaço",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "role_feature_congenital_name1006": {
   "ch": "倾国倾城",
   "en": "Stunning Beauty",
-  "pt": ""
+  "pt": "Beleza Deslumbrante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1101": {
   "ch": "镇静如山",
   "en": "Composed",
-  "pt": ""
+  "pt": "Sereno",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1102": {
   "ch": "茴香豆",
   "en": "Aniseed Flavored Bean",
-  "pt": ""
+  "pt": "Fava de Anis",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1103": {
   "ch": "寿星后代",
   "en": "Longevity Genes",
-  "pt": ""
+  "pt": "Genes de Longevidade",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1104": {
   "ch": "天妒英才",
   "en": "Tortured Genius",
-  "pt": ""
+  "pt": "Gênio Atormentado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1105": {
   "ch": "天煞孤星",
   "en": "Bad Omen",
-  "pt": ""
+  "pt": "Mau Presságio",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 13 > 11 caracteres"
+  ]
  },
  "role_feature_congenital_name1106": {
   "ch": "战斗狂人",
   "en": "Talented Fighter",
-  "pt": ""
+  "pt": "Lutador Talentoso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1201": {
   "ch": "猪突",
   "en": "Short Fuse",
-  "pt": ""
+  "pt": "Pavio Curto",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1202": {
   "ch": "木匠",
   "en": "Carpenter",
-  "pt": ""
+  "pt": "Carpinteiro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1203": {
   "ch": "杀猪者",
   "en": "Butcher",
-  "pt": ""
+  "pt": "Açougueiro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1204": {
   "ch": "狂妄自大",
   "en": "Arrogant",
-  "pt": ""
+  "pt": "Arrogante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1301": {
   "ch": "我行我素",
   "en": "Rebellious",
-  "pt": ""
+  "pt": "Rebelde",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1302": {
   "ch": "为人正派",
   "en": "Upstanding",
-  "pt": ""
+  "pt": "Íntegro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1303": {
   "ch": "天生魔胎",
   "en": "Cursed",
-  "pt": ""
+  "pt": "Amaldiçoado",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "role_feature_congenital_name1304": {
   "ch": "天生道子",
   "en": "Blessed",
-  "pt": ""
+  "pt": "Abençoado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1305": {
   "ch": "冷血",
   "en": "Cold-blooded",
-  "pt": ""
+  "pt": "Sangue-frio",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1401": {
   "ch": "剑魔转世",
   "en": "Martial Demon (Sword)",
-  "pt": ""
+  "pt": "Demônio Marcial (Espada)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1402": {
   "ch": "刀魔转世",
   "en": "Martial Demon (Blade)",
-  "pt": ""
+  "pt": "Demônio Marcial (Lâmina)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1403": {
   "ch": "枪魔转世",
   "en": "Martial Demon (Spear)",
-  "pt": ""
+  "pt": "Demônio Marcial (Lança)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1404": {
   "ch": "拳魔转世",
   "en": "Martial Demon (Fist)",
-  "pt": ""
+  "pt": "Demônio Marcial (Punho)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1405": {
   "ch": "指魔转世",
   "en": "Martial Demon (Finger)",
-  "pt": ""
+  "pt": "Demônio Marcial (Dedo)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1406": {
   "ch": "掌魔转世",
   "en": "Martial Demon (Palm)",
-  "pt": ""
+  "pt": "Demônio Marcial (Palma)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1407": {
   "ch": "剑仙转世",
   "en": "Martial Sage (Sword)",
-  "pt": ""
+  "pt": "Sábio Marcial (Espada)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1408": {
   "ch": "刀仙转世",
   "en": "Martial Sage (Blade)",
-  "pt": ""
+  "pt": "Sábio Marcial (Lâmina)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1409": {
   "ch": "枪仙转世",
   "en": "Martial Sage (Spear)",
-  "pt": ""
+  "pt": "Sábio Marcial (Lança)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1410": {
   "ch": "拳仙转世",
   "en": "Martial Sage (Fist)",
-  "pt": ""
+  "pt": "Sábio Marcial (Punho)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1411": {
   "ch": "指仙转世",
   "en": "Martial Sage (Finger)",
-  "pt": ""
+  "pt": "Sábio Marcial (Dedo)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1412": {
   "ch": "掌仙转世",
   "en": "Martial Sage (Palm)",
-  "pt": ""
+  "pt": "Sábio Marcial (Palma)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1413": {
   "ch": "刀剑侠客",
   "en": "Youxia",
-  "pt": ""
+  "pt": "Youxia",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "role_feature_congenital_name1414": {
   "ch": "戳一指",
   "en": "Deadly Fingers",
-  "pt": ""
+  "pt": "Dedos Mortais",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1415": {
   "ch": "拳掌了得",
   "en": "Strong Hands",
-  "pt": ""
+  "pt": "Mãos Fortes",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1416": {
   "ch": "御物如神",
   "en": "Living on the Edge",
-  "pt": ""
+  "pt": "Vivendo no Limite",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1417": {
   "ch": "肉体魔胎",
   "en": "Natural Strength",
-  "pt": ""
+  "pt": "Força Natural",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1418": {
   "ch": "武法灵童",
   "en": "Martial Wonderkid",
-  "pt": ""
+  "pt": "Prodígio Marcial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1419": {
   "ch": "手炒板栗",
   "en": "Rough Hands",
-  "pt": ""
+  "pt": "Mãos Ásperas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1420": {
   "ch": "颇善弹弓",
   "en": "Slingshot Sharpshooter",
-  "pt": ""
+  "pt": "Atirador de Estilingue",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1421": {
   "ch": "好打沙包",
   "en": "Boxer",
-  "pt": ""
+  "pt": "Boxeador",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1422": {
   "ch": "好使扁担",
   "en": "Heavy Lifter",
-  "pt": ""
+  "pt": "Levantador de Peso",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name1423": {
   "ch": "劈柴好手",
   "en": "Wood Chopper",
-  "pt": ""
+  "pt": "Rachador de Lenha",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "glossário: Wood → Madeira",
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name1424": {
   "ch": "好玩锅铲",
   "en": "Spatula Sword",
-  "pt": ""
+  "pt": "Espada de Espátula",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "role_feature_congenital_name1425": {
   "ch": "常山人",
   "en": "Hero Wannabe",
-  "pt": ""
+  "pt": "Aspirante a Herói",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name1426": {
   "ch": "武器大师",
   "en": "Weapon Master",
-  "pt": ""
+  "pt": "Mestre das Armas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1427": {
   "ch": "开山双绝",
   "en": "Innovative",
-  "pt": ""
+  "pt": "Inovador",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1428": {
   "ch": "白虹贯日",
   "en": "Absolute Focus",
-  "pt": ""
+  "pt": "Foco Absoluto",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1429": {
   "ch": "剑痴",
   "en": "Avid Swordsman",
-  "pt": ""
+  "pt": "Espadachim Ávido",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1430": {
   "ch": "狼孩",
   "en": "Wolf Child",
-  "pt": ""
+  "pt": "Criança-Lobo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1431": {
   "ch": "剑神之子",
   "en": "Runs in the Family (Sword)",
-  "pt": ""
+  "pt": "Herança de Família (Espada)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1432": {
   "ch": "刀神之子",
   "en": "Runs in the Family (Blade)",
-  "pt": ""
+  "pt": "Herança de Família (Lâmina)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1433": {
   "ch": "枪神之子",
   "en": "Runs in the Family (Spear)",
-  "pt": ""
+  "pt": "Herança de Família (Lança)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1434": {
   "ch": "邪魔弃子",
   "en": "The Outcast",
-  "pt": ""
+  "pt": "O Rejeitado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1435": {
   "ch": "正派余孽",
   "en": "The Only Survivor",
-  "pt": ""
+  "pt": "O Único Sobrevivente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1501": {
   "ch": "雷灵体",
   "en": "The Gifted (Lightning)",
-  "pt": ""
+  "pt": "O Dotado (Relâmpago)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1502": {
   "ch": "土灵体",
   "en": "The Gifted (Earth)",
-  "pt": ""
+  "pt": "O Dotado (Terra)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1503": {
   "ch": "火灵体",
   "en": "The Gifted (Fire)",
-  "pt": ""
+  "pt": "O Dotado (Fogo)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1504": {
   "ch": "水灵体",
   "en": "The Gifted (Water)",
-  "pt": ""
+  "pt": "O Dotado (Água)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1505": {
   "ch": "风灵体",
   "en": "The Gifted (Wind)",
-  "pt": ""
+  "pt": "O Dotado (Vento)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1506": {
   "ch": "木灵体",
   "en": "The Gifted (Wood)",
-  "pt": ""
+  "pt": "O Dotado (Madeira)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1507": {
   "ch": "雷击不死",
   "en": "Insulator",
-  "pt": ""
+  "pt": "Isolante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1508": {
   "ch": "烧炭者",
   "en": "Fireproof",
-  "pt": ""
+  "pt": "À Prova de Fogo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "role_feature_congenital_name1509": {
   "ch": "浪里白条",
   "en": "Like a Fish",
-  "pt": ""
+  "pt": "Como um Peixe",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1510": {
   "ch": "堆土成山",
   "en": "Mountain Builder",
-  "pt": ""
+  "pt": "Construtor de Montanhas",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "role_feature_congenital_name1511": {
   "ch": "植树成林",
   "en": "Tree Grower",
-  "pt": ""
+  "pt": "Cultivador de Árvores",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 21 > 15 caracteres"
+  ]
  },
  "role_feature_congenital_name1512": {
   "ch": "草上飞",
   "en": "Run Like a Wind",
-  "pt": ""
+  "pt": "Corre como o Vento",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1513": {
   "ch": "无惧雷者",
   "en": "Thunder Enthusiast",
-  "pt": ""
+  "pt": "Entusiasta do Trovão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1514": {
   "ch": "幼年玩火",
   "en": "Fire Enthusiast",
-  "pt": ""
+  "pt": "Entusiasta do Fogo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1515": {
   "ch": "善水之人",
   "en": "Water Enthusiast",
-  "pt": ""
+  "pt": "Entusiasta da Água",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1516": {
   "ch": "滚土顽童",
   "en": "Earth Enthusiast",
-  "pt": ""
+  "pt": "Entusiasta da Terra",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1517": {
   "ch": "喜好木植",
   "en": "Wood Enthusiast",
-  "pt": ""
+  "pt": "Entusiasta da Madeira",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "role_feature_congenital_name1518": {
   "ch": "爱放风筝",
   "en": "Wind Enthusiast",
-  "pt": ""
+  "pt": "Entusiasta do Vento",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1519": {
   "ch": "风雷道胎",
   "en": "Wind and Lightning (Righteous)",
-  "pt": ""
+  "pt": "Vento e Relâmpago (Justo)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1520": {
   "ch": "土木道胎",
   "en": "Earth and Wood (Righteous)",
-  "pt": ""
+  "pt": "Terra e Madeira (Justo)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1521": {
   "ch": "风火魔胎",
   "en": "Wind and Fire (Demonic)",
-  "pt": ""
+  "pt": "Vento e Fogo (Demoníaco)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1522": {
   "ch": "土水魔胎",
   "en": "Earth and Water (Demonic)",
-  "pt": ""
+  "pt": "Terra e Água (Demoníaco)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1523": {
   "ch": "天三才",
   "en": "Heavenly Gifted",
-  "pt": ""
+  "pt": "Dotado do Céu",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1524": {
   "ch": "地三才",
   "en": "Earthly Gifted",
-  "pt": ""
+  "pt": "Dotado da Terra",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1525": {
   "ch": "六根不净",
   "en": "Unstable Roots",
-  "pt": ""
+  "pt": "Raízes Instáveis",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1526": {
   "ch": "六根清净",
   "en": "Stable Roots",
-  "pt": ""
+  "pt": "Raízes Estáveis",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1527": {
   "ch": "元素之力",
   "en": "Elemental Power",
-  "pt": ""
+  "pt": "Poder Elemental",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1528": {
   "ch": "水乡孩子",
   "en": "Child of Water",
-  "pt": ""
+  "pt": "Filho da Água",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1529": {
   "ch": "森林孩子",
   "en": "Child of the Forest",
-  "pt": ""
+  "pt": "Filho da Floresta",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1530": {
   "ch": "炙炎孩子",
   "en": "Child of Fire",
-  "pt": ""
+  "pt": "Filho do Fogo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1531": {
   "ch": "山丘孩子",
   "en": "Child of Earth",
-  "pt": ""
+  "pt": "Filho da Terra",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1532": {
   "ch": "追风孩子",
   "en": "Child of the Wind",
-  "pt": ""
+  "pt": "Filho do Vento",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1533": {
   "ch": "雷霆孩子",
   "en": "Child of Lightning",
-  "pt": ""
+  "pt": "Filho do Relâmpago",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1601": {
   "ch": "小丹童",
   "en": "Minor Alchemist",
-  "pt": ""
+  "pt": "Alquimista Menor",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1602": {
   "ch": "炼丹狂人",
   "en": "Taken by Alchemy",
-  "pt": ""
+  "pt": "Tomado pela Alquimia",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1603": {
   "ch": "炼丹狂魔",
   "en": "Alchemist",
-  "pt": ""
+  "pt": "Alquimista",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1604": {
   "ch": "丹仙转世",
   "en": "Reborn Alchemist",
-  "pt": ""
+  "pt": "Alquimista Renascido",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "glossário: Reborn → Renascimento"
+  ]
  },
  "role_feature_congenital_name1605": {
   "ch": "鬼画符",
   "en": "Doodler Adept",
-  "pt": ""
+  "pt": "Adepto dos Rabiscos",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "role_feature_congenital_name1606": {
   "ch": "浅识卦象",
   "en": "Novice Diviner",
-  "pt": ""
+  "pt": "Adivinho Novato",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1607": {
   "ch": "勘舆师",
   "en": "Surveying Master",
-  "pt": ""
+  "pt": "Mestre da Medição",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1608": {
   "ch": "破天机",
   "en": "Heaven Scryer",
-  "pt": ""
+  "pt": "Vidente do Céu",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1609": {
   "ch": "铁匠儿子",
   "en": "Blacksmith's Child",
-  "pt": ""
+  "pt": "Filho do Ferreiro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1610": {
   "ch": "多才多艺",
   "en": "Dual Talents",
-  "pt": ""
+  "pt": "Talentos Duplos",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1611": {
   "ch": "药灵体",
   "en": "Herbalist",
-  "pt": ""
+  "pt": "Herbalista",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1701": {
   "ch": "傻子",
   "en": "Fool",
-  "pt": ""
+  "pt": "Tolo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1702": {
   "ch": "绝世聪慧",
   "en": "Intelligent",
-  "pt": ""
+  "pt": "Inteligente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1703": {
   "ch": "聪明谢顶",
   "en": "Alopecian Wisdom",
-  "pt": ""
+  "pt": "Sabedoria Calva",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1704": {
   "ch": "憨人",
   "en": "Naive",
-  "pt": ""
+  "pt": "Ingênuo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1705": {
   "ch": "孬子",
   "en": "Simpleton",
-  "pt": ""
+  "pt": "Simplório",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1706": {
   "ch": "智计过人",
   "en": "Smart but Unlucky",
-  "pt": ""
+  "pt": "Esperto, mas Azarado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1707": {
   "ch": "大智若愚",
   "en": "Generous",
-  "pt": ""
+  "pt": "Generoso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1708": {
   "ch": "天生慧根",
   "en": "Curious",
-  "pt": ""
+  "pt": "Curioso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1709": {
   "ch": "天资根骨",
   "en": "Persistent",
-  "pt": ""
+  "pt": "Persistente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1710": {
   "ch": "舞文弄墨",
   "en": "Bookworm",
-  "pt": ""
+  "pt": "Rato de Biblioteca",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "role_feature_congenital_name1711": {
   "ch": "书香门第",
   "en": "Scholar",
-  "pt": ""
+  "pt": "Erudito",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1712": {
   "ch": "舞刀弄枪",
   "en": "Jock",
-  "pt": ""
+  "pt": "Atleta",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1713": {
   "ch": "武道世家",
   "en": "Martial Artist",
-  "pt": ""
+  "pt": "Artista Marcial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1714": {
   "ch": "乐天一派",
   "en": "Optimist",
-  "pt": ""
+  "pt": "Otimista",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1715": {
   "ch": "吃苦耐劳",
   "en": "Hard-working",
-  "pt": ""
+  "pt": "Trabalhador",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1716": {
   "ch": "精力旺盛",
   "en": "Energetic",
-  "pt": ""
+  "pt": "Cheio de Energia",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 16 > 12 caracteres"
+  ]
  },
  "role_feature_congenital_name1717": {
   "ch": "二泉映月",
   "en": "The Moon Mirrored In The Pool",
-  "pt": ""
+  "pt": "A Lua Refletida na Poça",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1718": {
   "ch": "魔擘之孙",
   "en": "Grandchild of a Demonic One",
-  "pt": ""
+  "pt": "Neto de um Demoníaco",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1719": {
   "ch": "英雄传承",
   "en": "Descendant of a Hero",
-  "pt": ""
+  "pt": "Descendente de um Herói",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1720": {
   "ch": "鬼谷外门",
   "en": "Ghost Valley Prospect",
-  "pt": ""
+  "pt": "Promessa do Vale Fantasma",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1801": {
   "ch": "口衔玉狐",
   "en": "Jade Fox",
-  "pt": ""
+  "pt": "Raposa de Jade",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "role_feature_congenital_name1802": {
   "ch": "遍体鳞片",
   "en": "Covered in Scales",
-  "pt": ""
+  "pt": "Coberto de Escamas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1803": {
   "ch": "手掌奇厚",
   "en": "Bear Paw",
-  "pt": ""
+  "pt": "Pata de Urso",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "role_feature_congenital_name1901": {
   "ch": "家传法宝",
   "en": "Family Heirloom",
-  "pt": ""
+  "pt": "Herança de Família",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1902": {
   "ch": "挖泥所得",
   "en": "Treasure in the Mud",
-  "pt": ""
+  "pt": "Tesouro na Lama",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1903": {
   "ch": "家传武技",
   "en": "Inherited Martial Skill",
-  "pt": ""
+  "pt": "Técnica Marcial Herdada",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1904": {
   "ch": "神仙弟子",
   "en": "Gift of an Immortal",
-  "pt": ""
+  "pt": "Presente de um Imortal",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1905": {
   "ch": "家道富裕",
   "en": "Rich Family",
-  "pt": ""
+  "pt": "Família Rica",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1906": {
   "ch": "洞中奇遇",
   "en": "Happy Accident",
-  "pt": ""
+  "pt": "Feliz Acidente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1907": {
   "ch": "旷世奇遇",
   "en": "Jolly Accident",
-  "pt": ""
+  "pt": "Acidente Jovial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1908": {
   "ch": "绝世奇遇",
   "en": "Merry Accident",
-  "pt": ""
+  "pt": "Acidente Alegre",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1909": {
   "ch": "婚约在身",
   "en": "Arranged Marriage",
-  "pt": ""
+  "pt": "Casamento Arranjado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1910": {
   "ch": "仙子所赠",
   "en": "Ring in the Dream",
-  "pt": ""
+  "pt": "Anel no Sonho",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1911": {
   "ch": "富可二代",
   "en": "Silver Spoon",
-  "pt": ""
+  "pt": "Berço de Ouro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1912": {
   "ch": "唯剑作伴",
   "en": "My Sword and I",
-  "pt": ""
+  "pt": "Minha Espada e Eu",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1913": {
   "ch": "赤脚少年",
   "en": "Barefooted Kid",
-  "pt": ""
+  "pt": "Garoto Descalço",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1914": {
   "ch": "水火交融",
   "en": "Water and Fire as One",
-  "pt": ""
+  "pt": "Água e Fogo como Um",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name1915": {
   "ch": "家徒四壁",
   "en": "Four Walls",
-  "pt": ""
+  "pt": "Quatro Paredes",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "role_feature_congenital_name1916": {
   "ch": "凿壁偷光",
   "en": "Light at the Other Side",
-  "pt": ""
+  "pt": "Luz do Outro Lado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2001": {
   "ch": "天命之子",
   "en": "The Chosen One",
-  "pt": ""
+  "pt": "O Escolhido",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2002": {
   "ch": "武圣转世",
   "en": "Reborn Saint of War",
-  "pt": ""
+  "pt": "Santo da Guerra Renascido",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "glossário: Reborn → Renascimento"
+  ]
  },
  "role_feature_congenital_name2003": {
   "ch": "人族圣体",
   "en": "The Special One",
-  "pt": ""
+  "pt": "O Especial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2004": {
   "ch": "杀神弃徒",
   "en": "Killing Machine",
-  "pt": ""
+  "pt": "Máquina de Matar",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2005": {
   "ch": "六道修魔者",
   "en": "Vengeful",
-  "pt": ""
+  "pt": "Vingativo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2006": {
   "ch": "赶尸道童",
   "en": "Tomb Raider",
-  "pt": ""
+  "pt": "Saqueador de Túmulos",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 20 > 15 caracteres"
+  ]
  },
  "role_feature_congenital_name2007": {
   "ch": "皇朝遗孤",
   "en": "Imperial Orphan",
-  "pt": ""
+  "pt": "Órfão Imperial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2008": {
   "ch": "北域魔婴",
   "en": "Demon of the North",
-  "pt": ""
+  "pt": "Demônio do Norte",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2009": {
   "ch": "龙门锦鲤",
   "en": "Leaping over the Dragon Gate",
-  "pt": ""
+  "pt": "Saltando o Portão do Dragão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2010": {
   "ch": "鸿鹄士族",
   "en": "Ambitious",
-  "pt": ""
+  "pt": "Ambicioso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2101": {
   "ch": "丹心灵童",
   "en": "Prodigy (Alchemy)",
-  "pt": ""
+  "pt": "Prodígio (Alquimia)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2102": {
   "ch": "灵宝上徒",
   "en": "Prodigy (Forge)",
-  "pt": ""
+  "pt": "Prodígio (Forja)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2103": {
   "ch": "神符画手",
   "en": "Prodigy (Incantation)",
-  "pt": ""
+  "pt": "Prodígio (Encantamento)",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2104": {
   "ch": "望气人",
   "en": "Feng Shui Expert",
-  "pt": ""
+  "pt": "Especialista em Feng Shui",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 25 > 21 caracteres"
+  ]
  },
  "role_feature_congenital_name2105": {
   "ch": "三清道童",
   "en": "Disciple of Three Pure Ones",
-  "pt": ""
+  "pt": "Discípulo das Três Purezas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2106": {
   "ch": "天命之孙",
   "en": "Inherited Luck",
-  "pt": ""
+  "pt": "Sorte Herdada",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2107": {
   "ch": "长发及腰",
   "en": "Waist-Length Hair",
-  "pt": ""
+  "pt": "Cabelo até a Cintura",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2108": {
   "ch": "追风剑者",
   "en": "Windchaser",
-  "pt": ""
+  "pt": "Perseguidor do Vento",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "role_feature_congenital_name2109": {
   "ch": "降龙武者",
   "en": "Dragon Spear",
-  "pt": ""
+  "pt": "Lança do Dragão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2110": {
   "ch": "魔刀难民",
   "en": "Refugee Protector",
-  "pt": ""
+  "pt": "Protetor dos Refugiados",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2111": {
   "ch": "不动明王",
   "en": "Acalanatha",
-  "pt": ""
+  "pt": "Acalanatha",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "role_feature_congenital_name2112": {
   "ch": "神匠门徒",
   "en": "Forging Apprentice",
-  "pt": ""
+  "pt": "Aprendiz de Forja",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2113": {
   "ch": "陨星降世",
   "en": "Falling Star",
-  "pt": ""
+  "pt": "Estrela Cadente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2114": {
   "ch": "小能转世",
   "en": "Reborn Qi I",
-  "pt": ""
+  "pt": "Qi Renascido I",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "glossário: Reborn → Renascimento"
+  ]
  },
  "role_feature_congenital_name2115": {
   "ch": "中能转世",
   "en": "Reborn Qi II",
-  "pt": ""
+  "pt": "Qi Renascido II",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "glossário: Reborn → Renascimento"
+  ]
  },
  "role_feature_congenital_name2116": {
   "ch": "大能转世",
   "en": "Reborn Qi III",
-  "pt": ""
+  "pt": "Qi Renascido III",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "glossário: Reborn → Renascimento"
+  ]
  },
  "role_feature_congenital_name2201": {
   "ch": "九天雷劫体",
   "en": "Heavenly Thunder Constitution",
-  "pt": ""
+  "pt": "Constituição do Trovão Celestial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2202": {
   "ch": "紫极蚀雷体",
   "en": "Heavenly Spark Constitution",
-  "pt": ""
+  "pt": "Constituição da Centelha Celestial",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2203": {
   "ch": "元阳火焚体",
   "en": "Yang Fire Constitution",
-  "pt": ""
+  "pt": "Constituição do Fogo Yang",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2204": {
   "ch": "冥阴乙火体",
   "en": "Yin Fire Constitution",
-  "pt": ""
+  "pt": "Constituição do Fogo Yin",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2205": {
   "ch": "瀚流水灵体",
   "en": "Merciless Flood Constitution",
-  "pt": ""
+  "pt": "Constituição da Enchente Impiedosa",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2206": {
   "ch": "幽泗弱水体",
   "en": "Aquatic Breathing Constitution",
-  "pt": ""
+  "pt": "Constituição da Respiração Aquática",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2207": {
   "ch": "北域风神体",
   "en": "Northern Wind Constitution",
-  "pt": ""
+  "pt": "Constituição do Vento do Norte",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2208": {
   "ch": "秋原悲风体",
   "en": "Autumn Wind Constitution",
-  "pt": ""
+  "pt": "Constituição do Vento de Outono",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2209": {
   "ch": "后煌土元体",
   "en": "Earth Deity Constitution",
-  "pt": ""
+  "pt": "Constituição da Divindade da Terra",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2210": {
   "ch": "涤尘灵土体",
   "en": "Earth Spirit Constitution",
-  "pt": ""
+  "pt": "Constituição do Espírito da Terra",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2211": {
   "ch": "森罗木绝体",
   "en": "Withered Forest Constitution",
-  "pt": ""
+  "pt": "Constituição da Floresta Murcha",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2212": {
   "ch": "古藤百木体",
   "en": "Timber Spirit Constitution",
-  "pt": ""
+  "pt": "Constituição do Espírito da Madeira",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2301": {
   "ch": "穿越者",
   "en": "The Reincarnated",
-  "pt": ""
+  "pt": "O Reencarnado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2401": {
   "ch": "长生体",
   "en": "Of Nature",
-  "pt": ""
+  "pt": "Da Natureza",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2402": {
   "ch": "洛雨体",
   "en": "Of Rain",
-  "pt": ""
+  "pt": "Da Chuva",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2403": {
   "ch": "焚焰体",
   "en": "Of Wind and Fire",
-  "pt": ""
+  "pt": "Do Vento e do Fogo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2404": {
   "ch": "爆炎体",
   "en": "Of Thunderous Fire",
-  "pt": ""
+  "pt": "Do Fogo Trovejante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2405": {
   "ch": "明王体",
   "en": "Of Wisdom King",
-  "pt": ""
+  "pt": "Do Rei da Sabedoria",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2406": {
   "ch": "门派弃徒",
   "en": "The Banished",
-  "pt": ""
+  "pt": "O Banido",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2407": {
   "ch": "爱书如命",
   "en": "Bibliophile",
-  "pt": ""
+  "pt": "Bibliófilo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2408": {
   "ch": "古树灵躯",
   "en": "Ancient Tree",
-  "pt": ""
+  "pt": "Árvore Antiga",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2409": {
   "ch": "龙之血脉",
   "en": "Blood of the Dragon",
-  "pt": ""
+  "pt": "Sangue do Dragão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2410": {
   "ch": "凤之血脉",
   "en": "Blood of the Phoenix",
-  "pt": ""
+  "pt": "Sangue da Fênix",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2411": {
   "ch": "虎之血脉",
   "en": "Blood of the Tiger",
-  "pt": ""
+  "pt": "Sangue do Tigre",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2412": {
   "ch": "象之血脉",
   "en": "Blood of the Elephant",
-  "pt": ""
+  "pt": "Sangue do Elefante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2413": {
   "ch": "长寿躯",
   "en": "The Mysterious Beggar",
-  "pt": ""
+  "pt": "O Mendigo Misterioso",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2414": {
   "ch": "龙神护体",
   "en": "Dragon's Protection",
-  "pt": ""
+  "pt": "Proteção do Dragão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2415": {
   "ch": "凤凰灵体",
   "en": "Phoenix's Grace",
-  "pt": ""
+  "pt": "Graça da Fênix",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2416": {
   "ch": "愚公移山",
   "en": "The Foolish Old Man Removes the Mountains",
-  "pt": ""
+  "pt": "O Velho Tolo Remove as Montanhas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2417": {
   "ch": "后羿射日",
   "en": "Hou Yi Shoots the Suns",
-  "pt": ""
+  "pt": "Hou Yi Abate os Sóis",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2418": {
   "ch": "精卫填海",
   "en": "Jingwei Fills Up the Sea",
-  "pt": ""
+  "pt": "Jingwei Enche o Mar",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2419": {
   "ch": "钻木取火",
   "en": "Suiren Kindles the First Flame",
-  "pt": ""
+  "pt": "Suiren Acende a Primeira Chama",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2420": {
   "ch": "夸父追日",
   "en": "Kuafu Chases the Sun",
-  "pt": ""
+  "pt": "Kuafu Persegue o Sol",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2421": {
   "ch": "刑天舞干戚",
   "en": "Xingtian Slayer",
-  "pt": ""
+  "pt": "Matador de Xingtian",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2422": {
   "ch": "四面树敌",
   "en": "Public Enemy",
-  "pt": ""
+  "pt": "Inimigo Público",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2423": {
   "ch": "打虎武者",
   "en": "Tiger Killer",
-  "pt": ""
+  "pt": "Matador de Tigres",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name2424": {
   "ch": "三花不灭",
   "en": "Three Flowers Eternal",
-  "pt": ""
+  "pt": "Três Flores Eternas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2425": {
   "ch": "建木灵胎",
   "en": "Reincarnated Tree Spirit",
-  "pt": ""
+  "pt": "Espírito da Árvore Reencarnado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2426": {
   "ch": "鬼谷内门",
   "en": "Ghost Valley Disciple",
-  "pt": ""
+  "pt": "Discípulo do Vale Fantasma",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2501": {
   "ch": "翩翩良人",
   "en": "Elegant",
-  "pt": ""
+  "pt": "Elegante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2502": {
   "ch": "衣袂飘飘",
   "en": "Masculine",
-  "pt": ""
+  "pt": "Másculo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2503": {
   "ch": "单身贵族",
   "en": "Happy Bachelor",
-  "pt": ""
+  "pt": "Solteiro Feliz",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2504": {
   "ch": "吼声如雷",
   "en": "Thunderous Shout",
-  "pt": ""
+  "pt": "Grito Trovejante",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2601": {
   "ch": "左撇子",
   "en": "Left-handed",
-  "pt": ""
+  "pt": "Canhoto",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2602": {
   "ch": "云游天下",
   "en": "Wanderlust",
-  "pt": ""
+  "pt": "Sede de Viajar",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "role_feature_congenital_name2603": {
   "ch": "天命者曾孙",
   "en": "The Unfortunate",
-  "pt": ""
+  "pt": "O Desafortunado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2604": {
   "ch": "浩然正气",
   "en": "The Righteous",
-  "pt": ""
+  "pt": "O Justo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2605": {
   "ch": "邪气外露",
   "en": "Known Evil",
-  "pt": ""
+  "pt": "Maligno Conhecido",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 17 > 13 caracteres"
+  ]
  },
  "role_feature_congenital_name2708": {
   "ch": "商业奇才",
   "en": "Business Wizard",
-  "pt": ""
+  "pt": "Mago dos Negócios",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2709": {
   "ch": "老奸巨猾",
   "en": "Hard Bargainer",
-  "pt": ""
+  "pt": "Negociador Duro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2801": {
   "ch": "一诺千金",
   "en": "True Love",
-  "pt": ""
+  "pt": "Amor Verdadeiro",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "role_feature_congenital_name2802": {
   "ch": "白鹤入梦",
   "en": "White Crane",
-  "pt": ""
+  "pt": "Grou Branco",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name2803": {
   "ch": "龙祖灵息",
   "en": "Elder Dragon Aura",
-  "pt": ""
+  "pt": "Aura do Dragão Ancião",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805300": {
   "ch": "凝心",
   "en": "Concentration",
-  "pt": ""
+  "pt": "Concentração",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805301": {
   "ch": "固神",
   "en": "Mental Stability",
-  "pt": ""
+  "pt": "Estabilidade Mental",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805350": {
   "ch": "冥气缠身",
   "en": "Nether Aired",
-  "pt": ""
+  "pt": "Afetado pelo Ar do Submundo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 27 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name8805351": {
   "ch": "冥气缠身",
   "en": "Nether Aired",
-  "pt": ""
+  "pt": "Afetado pelo Ar do Submundo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 27 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name8805352": {
   "ch": "冥气缠身",
   "en": "Nether Aired",
-  "pt": ""
+  "pt": "Afetado pelo Ar do Submundo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 27 > 16 caracteres"
+  ]
  },
  "role_feature_congenital_name8805353": {
   "ch": "入神",
   "en": "Absorbed",
-  "pt": ""
+  "pt": "Absorvido",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805354": {
   "ch": "坐照",
   "en": "Still",
-  "pt": ""
+  "pt": "Imóvel",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805355": {
   "ch": "真视灵烟",
   "en": "True Sight Smoke",
-  "pt": ""
+  "pt": "Fumaça da Visão Verdadeira",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 26 > 21 caracteres"
+  ]
  },
  "role_feature_congenital_name8805356": {
   "ch": "灵谷漱腑",
   "en": "Lavage in the Valley",
-  "pt": ""
+  "pt": "Lavagem no Vale",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805357": {
   "ch": "丹铅洗脉",
   "en": "Vein Cleansing With Lead",
-  "pt": ""
+  "pt": "Limpeza das Veias com Chumbo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805358": {
   "ch": "耗竭",
   "en": "Exhaustion",
-  "pt": ""
+  "pt": "Exaustão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805359": {
   "ch": "枯竭",
   "en": "Depletion",
-  "pt": ""
+  "pt": "Esgotamento",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805360": {
   "ch": "异香振体",
   "en": "Peculiar Scent",
-  "pt": ""
+  "pt": "Cheiro Peculiar",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805361": {
   "ch": "表里荣卫",
   "en": "Humor in Harmony",
-  "pt": ""
+  "pt": "Humor em Harmonia",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805362": {
   "ch": "龙虎交汇",
   "en": "Dragon and Tiger",
-  "pt": ""
+  "pt": "Dragão e Tigre",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805363": {
   "ch": "灵果通气",
   "en": "Blessing of Spiritual Fruit",
-  "pt": ""
+  "pt": "Bênção do Fruto Espiritual",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805500": {
   "ch": "丹心极意",
   "en": "Alchemist's Insight",
-  "pt": ""
+  "pt": "Percepção do Alquimista",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805501": {
   "ch": "阳亢之毒",
   "en": "Surging Yang Poison",
-  "pt": ""
+  "pt": "Veneno Yang Efervescente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805505": {
   "ch": "重瞳之力",
   "en": "Double Pupils",
-  "pt": ""
+  "pt": "Pupilas Duplas",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805506": {
   "ch": "羽焰阳炎",
   "en": "Feathers of Flame",
-  "pt": ""
+  "pt": "Plumas de Chama",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805510": {
   "ch": "冰岚温流",
   "en": "Gleaming Current",
-  "pt": ""
+  "pt": "Corrente Reluzente",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805511": {
   "ch": "椿寿绵长",
   "en": "Blessed Longevity",
-  "pt": ""
+  "pt": "Longevidade Abençoada",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805550": {
   "ch": "三阴绝脉体",
   "en": "Nil Root Constitution",
-  "pt": ""
+  "pt": "Constituição de Raiz Nula",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805551": {
   "ch": "停止AI",
   "en": "Deactivated AI",
-  "pt": ""
+  "pt": "IA Desativada",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805552": {
   "ch": "隐藏单位",
   "en": "Hidden",
-  "pt": ""
+  "pt": "Oculto",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805553": {
   "ch": "遍体阳和",
   "en": "Lively Flow",
-  "pt": ""
+  "pt": "Fluxo Vivaz",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name8805554": {
   "ch": "阳和通泰",
   "en": "Hearty Flame",
-  "pt": ""
+  "pt": "Chama Calorosa",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9175": {
   "ch": "天下第一宗",
   "en": "Number One Sect",
-  "pt": ""
+  "pt": "Seita Número Um",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9176": {
   "ch": "天下第一宗",
   "en": "Number One Sect",
-  "pt": ""
+  "pt": "Seita Número Um",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9177": {
   "ch": "天下第一宗",
   "en": "Number One Sect",
-  "pt": ""
+  "pt": "Seita Número Um",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9178": {
   "ch": "天下第一宗",
   "en": "Number One Sect",
-  "pt": ""
+  "pt": "Seita Número Um",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9179": {
   "ch": "华封州最强弟子",
   "en": "Most Powerful Disciple in Hua Feng",
-  "pt": ""
+  "pt": "Discípulo Mais Poderoso de Hua Feng",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9180": {
   "ch": "云陌州最强弟子",
   "en": "Most Powerful Disciple in Yun Mo",
-  "pt": ""
+  "pt": "Discípulo Mais Poderoso de Yun Mo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9181": {
   "ch": "暮仙州最强弟子",
   "en": "Most Powerful Disciple in Mu Xian",
-  "pt": ""
+  "pt": "Discípulo Mais Poderoso de Mu Xian",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_name9182": {
   "ch": "赤幽州最强弟子",
   "en": "Most Powerful Disciple in Chi You",
-  "pt": ""
+  "pt": "Discípulo Mais Poderoso de Chi You",
+  "auto": "nuvem/claude-sonnet-5-5"
  }
 }

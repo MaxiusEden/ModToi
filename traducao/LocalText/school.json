@@ -1177,77 +1177,98 @@
  "school_renwunandu5": {
   "ch": "<r>地狱</r>",
   "en": "<r>Hell</r>",
-  "pt": ""
+  "pt": "<r>Inferno</r>",
+  "auto": "local/hy-mt2"
  },
  "school_renwunandu6": {
   "ch": "<r>地狱</r>",
   "en": "<r>Hell</r>",
-  "pt": ""
+  "pt": "<r>Inferno</r>",
+  "auto": "local/hy-mt2"
  },
  "school_renwushengwang": {
   "ch": "声望",
   "en": "Reputation",
-  "pt": ""
+  "pt": "Reputação",
+  "auto": "local/hy-mt2"
  },
  "school_renwushuoming": {
   "ch": "任务说明：",
   "en": "Info:",
-  "pt": ""
+  "pt": "Informações:",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 8 caracteres"
+  ]
  },
  "school_renwuzuobiao": {
   "ch": "任务坐标：{0}（距你{1}格）",
   "en": "Location: {0} (Distance: {1})",
-  "pt": ""
+  "pt": "Localização: {0} (Distância: {1})",
+  "auto": "local/hy-mt2"
  },
  "school_renzhitishi1": {
   "ch": "任职{0}累计贡献需要达到{1}",
   "en": "Total Contribution while in position {0} must reach {1}",
-  "pt": ""
+  "pt": "A Contribuição total enquanto na posição {0} deve atingir {1}.",
+  "auto": "local/hy-mt2"
  },
  "school_renzhitishi2": {
   "ch": "任职{0}声望需要达到{1}",
   "en": "Reputation while in position {0} must reach {1}",
-  "pt": ""
+  "pt": "A Reputação, enquanto na posição {0}, deve atingir {1}.",
+  "auto": "local/hy-mt2"
  },
  "school_rongyudizi": {
   "ch": "荣誉弟子",
   "en": "Honored Disciple",
-  "pt": ""
+  "pt": "Discípulo Ilustre",
+  "auto": "local/hy-mt2"
  },
  "school_rumendizi": {
   "ch": "入门弟子",
   "en": "Novice",
-  "pt": ""
+  "pt": "Iniciante",
+  "auto": "local/hy-mt2"
  },
  "school_ruzong": {
   "ch": "申请入宗",
   "en": "Apply",
-  "pt": ""
+  "pt": "Aplicar",
+  "auto": "local/hy-mt2"
  },
  "school_ruzongtiaojian": {
   "ch": "入宗条件",
   "en": "Requirements",
-  "pt": ""
+  "pt": "Requisitos",
+  "auto": "local/hy-mt2"
  },
  "school_school1": {
   "ch": "友好宗门",
   "en": "Friendly Sect",
-  "pt": ""
+  "pt": "Seita Amigável",
+  "auto": "local/hy-mt2"
  },
  "school_school2": {
   "ch": "敌对宗门",
   "en": "Hostile Sect",
-  "pt": ""
+  "pt": "Seita hostil",
+  "auto": "local/hy-mt2"
  },
  "school_selectMax": {
   "ch": "最多选择{0}名出战弟子",
   "en": "Select a maximum of {0} Disciple(s) for the battle",
-  "pt": ""
+  "pt": "Selecione no máximo {0} Discípulo(s) para a batalha.",
+  "auto": "local/hy-mt2"
  },
  "school_selectStudent": {
   "ch": "选择弟子",
   "en": "Select Disciple(s)",
-  "pt": ""
+  "pt": "Selecione o(s) Discípulo(s)",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 24 caracteres"
+  ]
  },
  "school_selectStudentNum": {
   "ch": "选择弟子{0}/{1}",
@@ -1437,281 +1458,364 @@
  "school_tiaozhantiaojian4": {
   "ch": "（真传弟子满足以下所有条件，即可挑战长老小比）",
   "en": "After meeting all the requirements below, True Disciple Disciples can challenge Promotion Duel (Elder)",
-  "pt": ""
+  "pt": "Após atender a todos os requisitos abaixo, os Verdadeiros Discípulos podem participar do Duelo de Promoção (Ancião).",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_tiaozhantiaojian5": {
   "ch": "（长老满足以下所有条件，即可挑战大长老小比）",
   "en": "After meeting all the requirements below, Elders can challenge Promotion Duel (Grand Elder)",
-  "pt": ""
+  "pt": "Após cumprir todos os requisitos abaixo, os Anciãos podem participar do Duelo de Promoção (Grão-Ancião).",
+  "auto": "local/hy-mt2"
  },
  "school_tiaozhantiaojian6": {
   "ch": "（不可晋升为宗主）",
   "en": "Can't be promoted to Sect Leader",
-  "pt": ""
+  "pt": "Não é possível ser promovido a Líder da Seita",
+  "auto": "local/hy-mt2"
  },
  "school_tishi": {
   "ch": "原来是{0}小友啊，\n可要多做宗门任务啊，\n宗门贡献可是非常珍贵的哦！\n<color=#000000>宗门任务每{1}个月刷新一次。\n同时最多领取5个任务。</color>",
   "en": "Greetings, {0}!\nHave you been actively completing Sect Missions?\nSect Contribution is extremely useful, you hear?\n<color=#000000>Sect Missions are reset once every {1} months.\nEach sect member can accept up to 5 missions at a time.</color>",
-  "pt": ""
+  "pt": "Saudações, {0}!\nVocê tem completado ativamente as Missões da Seita?\nA Contribuição da Seita é muito útil, entendeu?\n<color=#000000>As Missões da Seita são redefinidas a cada {1} meses.\nCada membro da seita pode aceitar até 5 missões por vez.</color>",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_tishi1": {
   "ch": "选择要修习的技能",
   "en": "Select the skills you want to upgrade",
-  "pt": ""
+  "pt": "Selecione as habilidades que você deseja aprimorar.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_tishi2": {
   "ch": "将以上技能修习至大成需要",
   "en": "Upgrading the skills above to VIII requires",
-  "pt": ""
+  "pt": "Para melhorar as habilidades acima para o nível VIII, é necessário",
+  "auto": "local/hy-mt2"
  },
  "school_tuichutishi": {
   "ch": "确认退出{0}宗门吗？\n{1}个月内不可重新加入此宗门，并且宗门贡献全部清空！",
   "en": "Leave {0}?\nYou won't be able to join this sect again for {1} months, and all your Sect Contribution will be cleared!",
-  "pt": ""
+  "pt": "Deixar {0}?\nVocê não poderá entrar nessa seita novamente por {1} meses, e toda a sua Contribuição para a seita será zerada!",
+  "auto": "local/hy-mt2"
  },
  "school_tuichuzongmen": {
   "ch": "已退出{0}宗门！",
   "en": "You left the sect: {0}!",
-  "pt": ""
+  "pt": "Você deixou a seita: {0}!",
+  "auto": "local/hy-mt2"
  },
  "school_tuizong": {
   "ch": "申请退宗",
   "en": "Leave",
-  "pt": ""
+  "pt": "Sair",
+  "auto": "local/hy-mt2"
  },
  "school_weikaifang": {
   "ch": "暂未开放！",
   "en": "Coming soon!",
-  "pt": ""
+  "pt": "Em breve!",
+  "auto": "local/hy-mt2"
  },
  "school_weikaifangzhiwei": {
   "ch": "本分舵未开放此职位！",
   "en": "This branch is not open for this position!",
-  "pt": ""
+  "pt": "Esta filial não está aberta para esta vaga!",
+  "auto": "local/hy-mt2"
  },
  "school_woderenwu": {
   "ch": "我的任务",
   "en": "My Missions",
-  "pt": ""
+  "pt": "Minhas Missões",
+  "auto": "local/hy-mt2"
  },
  "school_wodezhiwei": {
   "ch": "我的职位：",
   "en": "My Position:",
-  "pt": ""
+  "pt": "Minha posição:",
+  "auto": "local/hy-mt2"
  },
  "school_wodezhiwei2": {
   "ch": "我的职位",
   "en": "My Position",
-  "pt": ""
+  "pt": "Minha posição",
+  "auto": "local/hy-mt2"
  },
  "school_xiaohao": {
   "ch": "消耗灵石",
   "en": "Spirit Stone Cost",
-  "pt": ""
+  "pt": "Custo da Pedra Espiritual",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 23 caracteres"
+  ]
  },
  "school_xiaohaogongxian": {
   "ch": "消耗贡献",
   "en": "Contribution Cost",
-  "pt": ""
+  "pt": "Custo da Contribuição",
+  "auto": "local/hy-mt2"
  },
  "school_xinfa": {
   "ch": "心法",
   "en": "Mind Skill",
-  "pt": ""
+  "pt": "Técnica Mental",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "school_xinqingbuzu": {
   "ch": "心情不足",
   "en": "Mood too low",
-  "pt": ""
+  "pt": "Humor muito baixo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "school_xiulianchenggong": {
   "ch": "修炼成功！",
   "en": "Cultivation completed!",
-  "pt": ""
+  "pt": "Cultivo concluído!",
+  "auto": "local/hy-mt2"
  },
  "school_xiuliantishi": {
   "ch": "灵阁可以快速提升你的修为。",
   "en": "Use the Spirit Pavilion to quickly increase your EXP.",
-  "pt": ""
+  "pt": "Use o Pavilhão do Espírito para aumentar rapidamente seu EXP.",
+  "auto": "local/hy-mt2"
  },
  "school_xiulianwancheng": {
   "ch": "修炼完成！",
   "en": "Cultivation completed!",
-  "pt": ""
+  "pt": "Cultivo concluído!",
+  "auto": "local/hy-mt2"
  },
  "school_xiulianzhong": {
   "ch": "{0}修炼中......",
   "en": "Upgrading {0}...",
-  "pt": ""
+  "pt": "Atualizando {0}...",
+  "auto": "local/hy-mt2"
  },
  "school_xiuxijineng": {
   "ch": "修习技能",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Aprimorar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_xuanzezhenchuan": {
   "ch": "选择你要挑战的真传弟子",
   "en": "Select a True Disciple to challenge",
-  "pt": ""
+  "pt": "Selecione um Discípulo verdadeiro para desafiar.",
+  "auto": "local/hy-mt2"
  },
  "school_xuanzeziyuan": {
   "ch": "选择携带宗门资源，用于战斗时复活弟子的资源，飞舟有携带的上限。",
   "en": "Select Sect resources to carry. The Canoe has a capped carrying capacity for resources used to revive disciples.",
-  "pt": ""
+  "pt": "Selecione os recursos da Seita que deseja levar. A Canoa tem uma capacidade limitada para transportar recursos usados na ressurreição dos discípulos.",
+  "auto": "local/hy-mt2"
  },
  "school_xueshang": {
   "ch": "雪山秘境",
   "en": "雪山秘境",
-  "pt": ""
+  "pt": "Reino Secreto da Montanha Nevada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_xunzhaojueji": {
   "ch": "寻找绝技",
   "en": "Search for Special Skills",
-  "pt": ""
+  "pt": "Procurar por Técnicas Especiais",
+  "auto": "local/hy-mt2"
  },
  "school_xunzhaoshenfa": {
   "ch": "寻找身法",
   "en": "Search for Motion Skills",
-  "pt": ""
+  "pt": "Busque por Técnicas de Movimento",
+  "auto": "local/hy-mt2"
  },
  "school_xunzhaowuji": {
   "ch": "寻找武技",
   "en": "Search for Martial Skills",
-  "pt": ""
+  "pt": "Procure por Técnicas Marciais",
+  "auto": "local/hy-mt2"
  },
  "school_xunzhaoxinfa": {
   "ch": "寻找心法",
   "en": "Search for Mind Skills",
-  "pt": ""
+  "pt": "Procure por Técnicas Mentais",
+  "auto": "local/hy-mt2"
  },
  "school_xuqiutiaojian": {
   "ch": "需求条件",
   "en": "Requirements",
-  "pt": ""
+  "pt": "Requisitos",
+  "auto": "local/hy-mt2"
  },
  "school_yibaoming": {
   "ch": "已报名！",
   "en": "Signed up!",
-  "pt": ""
+  "pt": "Cadastrado!",
+  "auto": "local/hy-mt2"
  },
  "school_yibaominganniu": {
   "ch": "已报名",
   "en": "Signed up",
-  "pt": ""
+  "pt": "Cadastrado",
+  "auto": "local/hy-mt2"
  },
  "school_yiduihuan": {
   "ch": "已兑换",
   "en": "Redeemed",
-  "pt": ""
+  "pt": "Resgatado",
+  "auto": "local/hy-mt2"
  },
  "school_yongyoulingdi": {
   "ch": "拥有领地",
   "en": "Territories Owned",
-  "pt": ""
+  "pt": "Territórios Possuídos",
+  "auto": "local/hy-mt2"
  },
  "school_yongyouziyuan": {
   "ch": "拥有资源",
   "en": "Resources Owned",
-  "pt": ""
+  "pt": "Recursos Possuídos",
+  "auto": "local/hy-mt2"
  },
  "school_zhanlingok": {
   "ch": "成功占领资源点",
   "en": "Resource point captured",
-  "pt": ""
+  "pt": "Ponto de recurso capturado",
+  "auto": "local/hy-mt2"
  },
  "school_zhengmo": {
   "ch": "正魔状态：",
   "en": "Faction: ",
-  "pt": ""
+  "pt": "Facção: ",
+  "auto": "local/hy-mt2"
  },
  "school_zhengzhiqibuzu": {
   "ch": "正之气不足",
   "en": "正之气不足",
-  "pt": ""
+  "pt": "Qi Justo insuficiente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_zhifashi": {
   "ch": "宗门执事",
   "en": "Sect Clerk",
-  "pt": ""
+  "pt": "Secretário da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 13 caracteres"
+  ]
  },
  "school_zhiwei": {
   "ch": "职位：",
   "en": "Position: ",
-  "pt": ""
+  "pt": "Posição: ",
+  "auto": "local/hy-mt2"
  },
  "school_zhiweijingsheng": {
   "ch": "职位成功晋升为{0}！",
   "en": "Promoted to {0}!",
-  "pt": ""
+  "pt": "Promovido para {0}!",
+  "auto": "local/hy-mt2"
  },
  "school_zhiwutishi": {
   "ch": "你现在成为长老了，能调整自己属下弟子的职务，是否需要挑选几个弟子成为你的真传弟子？（你随时可以在职务界面调整自己下属的职务）",
   "en": "Now that you are an Elder, you can reallocate the positions of your Disciples. Do you want to select a few Disciples to become your True Disciples? (Reallocate the positions of your subordinates on the Positions tab at any time)",
-  "pt": ""
+  "pt": "Agora que você é um Ancião, pode reatribuir as posições dos seus Discípulos. Deseja selecionar alguns Discípulos para se tornarem seus Verdadeiros Discípulos? (Você pode reatribuir as posições de seus subordinados na aba \"Posições\" a qualquer momento.)",
+  "auto": "local/hy-mt2"
  },
  "school_zhixu": {
   "ch": "宗门秩序：",
   "en": "Stability:",
-  "pt": ""
+  "pt": "Estabilidade:",
+  "auto": "local/hy-mt2"
  },
  "school_zhongzhi": {
   "ch": "宗门宗旨",
   "en": "Sect Purpose",
-  "pt": ""
+  "pt": "Propósito da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 16 caracteres"
+  ]
  },
  "school_zhunrujianzu": {
   "ch": "准入建筑",
   "en": "Accessible Buildings",
-  "pt": ""
+  "pt": "Edifícios acessíveis",
+  "auto": "local/hy-mt2"
  },
  "school_ziyuanbuzu": {
   "ch": "资源点剩余资源不多，再筹备进攻也毫无意义",
   "en": "There's little resource left there. It's meaningless to attack it now",
-  "pt": ""
+  "pt": "Quase não restam recursos lá. Não faz sentido atacá-lo agora.",
+  "auto": "local/hy-mt2"
  },
  "school_zizhi": {
   "ch": "资质",
   "en": "Stat",
-  "pt": ""
+  "pt": "Atributo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "school_zongmengongxian": {
   "ch": "累计宗门贡献",
   "en": "Total Sect Contribution",
-  "pt": ""
+  "pt": "Contribuição Total da Seita",
+  "auto": "local/hy-mt2"
  },
  "school_zongmenmifa": {
   "ch": "宗门秘法",
   "en": "宗门秘法",
-  "pt": ""
+  "pt": "Técnicas Secretas da Seita",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_zongmenqinmidu": {
   "ch": "宗门亲密度",
   "en": "Sect Affinity",
-  "pt": ""
+  "pt": "Afinidade entre Seitas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 17 caracteres"
+  ]
  },
  "school_zongmenrizhi1": {
   "ch": "{0}名记名弟子执行{1}任务，\n{2}名记名弟子不幸陨落。",
   "en": "{0} Backup Disciples went on {1} Missions,\nand {2} Backup Disciples perished.",
-  "pt": ""
+  "pt": "{0} Discípulos de Reserva participaram de {1} Missões, \ne {2} Discípulos de Reserva pereceram.",
+  "auto": "local/hy-mt2"
  },
  "school_zongmenrizhi2": {
   "ch": "{0}名记名弟子执行{1}任务，无人死亡。",
   "en": "{0} Backup Disciples went on {1} Missions and there were no deaths.",
-  "pt": ""
+  "pt": "{0} Discípulos de Reserva participaram de {1} Missões e não houve mortes.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_zongmentezhi": {
   "ch": "宗门特质",
   "en": "Sect Traits",
-  "pt": ""
+  "pt": "Características da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 15 caracteres"
+  ]
  },
  "school_zongmentuijianxin": {
   "ch": "宗门推荐信",
   "en": "Sect Recommendation Letter",
-  "pt": ""
+  "pt": "Carta de Recomendação da Seita",
+  "auto": "local/hy-mt2"
  },
  "school_zuishaoxiedai": {
   "ch": "最少携带",
   "en": "Min Amount Carried",
-  "pt": ""
+  "pt": "Valor mínimo a ser carregado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  }
 }

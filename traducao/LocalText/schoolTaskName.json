@@ -2,801 +2,1015 @@
  "schoolTaskName1": {
   "ch": "招募任务",
   "en": "Recruit",
-  "pt": ""
+  "pt": "Recrutar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10": {
   "ch": "打理灵草园",
   "en": "Tending Herb Garden",
-  "pt": ""
+  "pt": "Cuidados com o Jardim de Ervas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 30 > 25 caracteres"
+  ]
  },
  "schoolTaskName10250": {
   "ch": "收集太玄松茸",
   "en": "Gather Taixuan Matsutake",
-  "pt": ""
+  "pt": "Colha os cogumelos Taixuan Matsutake",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName10251": {
   "ch": "收集太玄松茸",
   "en": "Gather Taixuan Matsutake",
-  "pt": ""
+  "pt": "Colha os cogumelos Taixuan Matsutake",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10252": {
   "ch": "收集太玄松茸",
   "en": "Gather Taixuan Matsutake",
-  "pt": ""
+  "pt": "Colha os cogumelos Taixuan Matsutake",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10253": {
   "ch": "收集太玄松茸",
   "en": "Gather Taixuan Matsutake",
-  "pt": ""
+  "pt": "Colha os cogumelos Taixuan Matsutake",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10254": {
   "ch": "收集太玄松茸",
   "en": "Gather Taixuan Matsutake",
-  "pt": ""
+  "pt": "Colha os cogumelos Taixuan Matsutake",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName10270": {
   "ch": "收集双桂草",
   "en": "Collect Osmanthus",
-  "pt": ""
+  "pt": "Colher Osmanthus",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10271": {
   "ch": "收集双桂草",
   "en": "Collect Osmanthus",
-  "pt": ""
+  "pt": "Colher Osmanthus",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10272": {
   "ch": "收集双桂草",
   "en": "Collect Osmanthus",
-  "pt": ""
+  "pt": "Colher Osmanthus",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10273": {
   "ch": "收集双桂草",
   "en": "Collect Osmanthus",
-  "pt": ""
+  "pt": "Colher Osmanthus",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10274": {
   "ch": "收集双桂草",
   "en": "Collect Osmanthus",
-  "pt": ""
+  "pt": "Colher Osmanthus",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10411": {
   "ch": "惊现妖巢",
   "en": "Unexpected Monsters",
-  "pt": ""
+  "pt": "Monstros Inesperados",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10412": {
   "ch": "惊现妖巢",
   "en": "Unexpected Monsters",
-  "pt": ""
+  "pt": "Monstros inesperados",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10413": {
   "ch": "惊现妖巢",
   "en": "Unexpected Monsters",
-  "pt": ""
+  "pt": "Monstros inesperados",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10414": {
   "ch": "惊现妖巢",
   "en": "Unexpected Monsters",
-  "pt": ""
+  "pt": "Monstros inesperados",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10415": {
   "ch": "惊现妖巢",
   "en": "Unexpected Monsters",
-  "pt": ""
+  "pt": "Monstros inesperados",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10416": {
   "ch": "立威招贤",
   "en": "Build Prestige to Recruit",
-  "pt": ""
+  "pt": "Construa Prestígio para Recrutar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10417": {
   "ch": "立威招贤",
   "en": "Build Prestige to Recruit",
-  "pt": ""
+  "pt": "Construa Prestígio para Recrutar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10418": {
   "ch": "立威招贤",
   "en": "Build Prestige to Recruit",
-  "pt": ""
+  "pt": "Construa Prestígio para Recrutar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10419": {
   "ch": "立威招贤",
   "en": "Build Prestige to Recruit",
-  "pt": ""
+  "pt": "Construa Prestígio para Recrutar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName10420": {
   "ch": "立威招贤",
   "en": "Build Prestige to Recruit",
-  "pt": ""
+  "pt": "Construa Prestígio para Recrutar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11": {
   "ch": "收集矿材",
   "en": "Collecting Ores",
-  "pt": ""
+  "pt": "Coletando Minérios",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11350": {
   "ch": "法宝失窃",
   "en": "Lost Artifact",
-  "pt": ""
+  "pt": "Artefato Perdido",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11351": {
   "ch": "法宝失窃",
   "en": "Lost Artifact",
-  "pt": ""
+  "pt": "Artefato Perdido",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11352": {
   "ch": "法宝失窃",
   "en": "Lost Artifact",
-  "pt": ""
+  "pt": "Artefato Perdido",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11353": {
   "ch": "法宝失窃",
   "en": "Lost Artifact",
-  "pt": ""
+  "pt": "Artefato Perdido",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11354": {
   "ch": "法宝失窃",
   "en": "Lost Artifact",
-  "pt": ""
+  "pt": "Artefato Perdido",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11355": {
   "ch": "拯救招贤堂弟子",
   "en": "Save the Recruitment Disciples",
-  "pt": ""
+  "pt": "Salve os Discípulos do Recrutamento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11356": {
   "ch": "拯救招贤堂弟子",
   "en": "Save the Recruitment Disciples",
-  "pt": ""
+  "pt": "Salve os Discípulos do Recrutamento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11357": {
   "ch": "拯救招贤堂弟子",
   "en": "Save the Recruitment Disciples",
-  "pt": ""
+  "pt": "Salve os Discípulos do Recrutamento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11358": {
   "ch": "拯救招贤堂弟子",
   "en": "Save the Recruitment Disciples",
-  "pt": ""
+  "pt": "Salve os Discípulos do Recrutamento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11359": {
   "ch": "拯救招贤堂弟子",
   "en": "Save the Recruitment Disciples",
-  "pt": ""
+  "pt": "Salve os Discípulos do Recrutamento",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11360": {
   "ch": "刺探情报失利",
   "en": "Failed to Spy",
-  "pt": ""
+  "pt": "Falha ao espionar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11361": {
   "ch": "刺探情报失利",
   "en": "Failed to Spy",
-  "pt": ""
+  "pt": "Falha ao espionar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11362": {
   "ch": "刺探情报失利",
   "en": "Failed to Spy",
-  "pt": ""
+  "pt": "Falha ao espionar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11363": {
   "ch": "刺探情报失利",
   "en": "Failed to Spy",
-  "pt": ""
+  "pt": "Falha ao espionar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11364": {
   "ch": "刺探情报失利",
   "en": "Failed to Spy",
-  "pt": ""
+  "pt": "Falha ao espionar",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11365": {
   "ch": "修筑堂勘察意外",
   "en": "Construction Surveying Accident",
-  "pt": ""
+  "pt": "Acidente de Levantamento da Construção",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11366": {
   "ch": "修筑堂勘察意外",
   "en": "Construction Surveying Accident",
-  "pt": ""
+  "pt": "Acidente de Levantamento da Construção",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11367": {
   "ch": "修筑堂勘察意外",
   "en": "Construction Surveying Accident",
-  "pt": ""
+  "pt": "Acidente de Levantamento da Construção",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11368": {
   "ch": "修筑堂勘察意外",
   "en": "Construction Surveying Accident",
-  "pt": ""
+  "pt": "Acidente de Levantamento da Construção",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11369": {
   "ch": "修筑堂勘察意外",
   "en": "Construction Surveying Accident",
-  "pt": ""
+  "pt": "Acidente de Levantamento da Construção",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11370": {
   "ch": "协助荡寇",
   "en": "Assist in the Battle",
-  "pt": ""
+  "pt": "Ajude na Batalha",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11371": {
   "ch": "协助荡寇",
   "en": "Assist in the Battle",
-  "pt": ""
+  "pt": "Ajude na Batalha",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11372": {
   "ch": "协助荡寇",
   "en": "Assist in the Battle",
-  "pt": ""
+  "pt": "Ajude na Batalha",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11373": {
   "ch": "协助荡寇",
   "en": "Assist in the Battle",
-  "pt": ""
+  "pt": "Ajude na Batalha",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11374": {
   "ch": "协助荡寇",
   "en": "Assist in the Battle",
-  "pt": ""
+  "pt": "Ajude na Batalha",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11375": {
   "ch": "追回窃宝弟子",
   "en": "Capture the Thieving Disciple",
-  "pt": ""
+  "pt": "Capture o Discípulo Ladrão",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11376": {
   "ch": "追回窃宝弟子",
   "en": "Capture the Thieving Disciple",
-  "pt": ""
+  "pt": "Capture o Discípulo Ladrão",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11377": {
   "ch": "追回窃宝弟子",
   "en": "Capture the Thieving Disciple",
-  "pt": ""
+  "pt": "Capture o Discípulo Ladrão",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11378": {
   "ch": "追回窃宝弟子",
   "en": "Capture the Thieving Disciple",
-  "pt": ""
+  "pt": "Capture o Discípulo Ladrão",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11379": {
   "ch": "追回窃宝弟子",
   "en": "Capture the Thieving Disciple",
-  "pt": ""
+  "pt": "Capture o Discípulo Ladrão",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11380": {
   "ch": "将在宗门附近的弟子接到宗门",
   "en": "Fetch the Disciples Nearby the Sect",
-  "pt": ""
+  "pt": "Chame os Discípulos que estão perto da Seita.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11381": {
   "ch": "将在宗门附近的弟子接到宗门",
   "en": "Fetch the Disciples Nearby the Sect",
-  "pt": ""
+  "pt": "Chame os Discípulos que estão perto da Seita.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11382": {
   "ch": "将在宗门附近的弟子接到宗门",
   "en": "Fetch the Disciples Nearby the Sect",
-  "pt": ""
+  "pt": "Chame os Discípulos que estão perto da Seita.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11383": {
   "ch": "将在宗门附近的弟子接到宗门",
   "en": "Fetch the Disciples Nearby the Sect",
-  "pt": ""
+  "pt": "Chame os Discípulos que estão perto da Seita.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11384": {
   "ch": "将在宗门附近的弟子接到宗门",
   "en": "Fetch the Disciples Nearby the Sect",
-  "pt": ""
+  "pt": "Chame os Discípulos que estão perto da Seita.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11390": {
   "ch": "妖物肆虐灵矿",
   "en": "Monsters Rampant in the Spirit Mines",
-  "pt": ""
+  "pt": "Monstros à solta nas Minas Espirituais",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11391": {
   "ch": "妖物肆虐灵矿",
   "en": "Monsters Rampant in the Spirit Mines",
-  "pt": ""
+  "pt": "Monstros à solta nas Minas Espirituais",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11392": {
   "ch": "妖物肆虐灵矿",
   "en": "Monsters Rampant in the Spirit Mines",
-  "pt": ""
+  "pt": "Monstros à solta nas Minas Espirituais",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11393": {
   "ch": "妖物肆虐灵矿",
   "en": "Monsters Rampant in the Spirit Mines",
-  "pt": ""
+  "pt": "Monstros à solta nas Minas Espirituais",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11394": {
   "ch": "妖物肆虐灵矿",
   "en": "Monsters Rampant in the Spirit Mines",
-  "pt": ""
+  "pt": "Monstros à solta nas Minas Espirituais",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11395": {
   "ch": "将信件投递到位",
   "en": "Hand the Letter to the Recipient",
-  "pt": ""
+  "pt": "Entregue a Carta ao destinatário",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11396": {
   "ch": "将信件投递到位",
   "en": "Hand the Letter to the Recipient",
-  "pt": ""
+  "pt": "Entregue a Carta ao destinatário",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11397": {
   "ch": "将信件投递到位",
   "en": "Hand the Letter to the Recipient",
-  "pt": ""
+  "pt": "Entregue a Carta ao destinatário",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11398": {
   "ch": "将信件投递到位",
   "en": "Hand the Letter to the Recipient",
-  "pt": ""
+  "pt": "Entregue a Carta ao destinatário",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11399": {
   "ch": "将信件投递到位",
   "en": "Hand the Letter to the Recipient",
-  "pt": ""
+  "pt": "Entregue a Carta ao destinatário",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11450": {
   "ch": "外务堂内奸",
   "en": "External Affairs Traitor",
-  "pt": ""
+  "pt": "Traidor dos Assuntos Externos",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11451": {
   "ch": "外务堂内奸",
   "en": "External Affairs Traitor",
-  "pt": ""
+  "pt": "Traidor dos Assuntos Externos",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11452": {
   "ch": "外务堂内奸",
   "en": "External Affairs Traitor",
-  "pt": ""
+  "pt": "Traidor dos Assuntos Externos",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11453": {
   "ch": "外务堂内奸",
   "en": "External Affairs Traitor",
-  "pt": ""
+  "pt": "Traidor dos Assuntos Externos",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11454": {
   "ch": "外务堂内奸",
   "en": "External Affairs Traitor",
-  "pt": ""
+  "pt": "Traidor dos Assuntos Externos",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11601": {
   "ch": "宗门建筑维护",
   "en": "Sect Building Maintenance",
-  "pt": ""
+  "pt": "Manutenção de Edifícios da Seita",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11602": {
   "ch": "宗门建筑维护",
   "en": "Sect Building Maintenance",
-  "pt": ""
+  "pt": "Manutenção de Edifícios da Seita",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11603": {
   "ch": "宗门建筑维护",
   "en": "Sect Building Maintenance",
-  "pt": ""
+  "pt": "Manutenção de Edifícios da Seita",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11604": {
   "ch": "宗门建筑维护",
   "en": "Sect Building Maintenance",
-  "pt": ""
+  "pt": "Manutenção de Edifícios da Seita",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11605": {
   "ch": "宗门建筑维护",
   "en": "Sect Building Maintenance",
-  "pt": ""
+  "pt": "Manutenção de Edifícios da Seita",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11606": {
   "ch": "招贤堂的灵泉",
   "en": "The Recruitment Holy Spring",
-  "pt": ""
+  "pt": "A Fonte Sagrada de Recrutamento",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11607": {
   "ch": "招贤堂的灵泉",
   "en": "The Recruitment Holy Spring",
-  "pt": ""
+  "pt": "A Fonte Sagrada de Recrutamento",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11608": {
   "ch": "招贤堂的灵泉",
   "en": "The Recruitment Holy Spring",
-  "pt": ""
+  "pt": "A Fonte Sagrada de Recrutamento",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11609": {
   "ch": "招贤堂的灵泉",
   "en": "The Recruitment Holy Spring",
-  "pt": ""
+  "pt": "A Fonte Sagrada de Recrutamento",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11610": {
   "ch": "招贤堂的灵泉",
   "en": "The Recruitment Holy Spring",
-  "pt": ""
+  "pt": "A Fonte Sagrada de Recrutamento",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11611": {
   "ch": "接引宾客",
   "en": "Greeting Guests",
-  "pt": ""
+  "pt": "Recebendo os convidados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "schoolTaskName11612": {
   "ch": "接引宾客",
   "en": "Greeting Guests",
-  "pt": ""
+  "pt": "Recebendo os convidados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "schoolTaskName11613": {
   "ch": "接引宾客",
   "en": "Greeting Guests",
-  "pt": ""
+  "pt": "Recebendo os convidados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "schoolTaskName11614": {
   "ch": "接引宾客",
   "en": "Greeting Guests",
-  "pt": ""
+  "pt": "Recebendo os convidados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "schoolTaskName11615": {
   "ch": "接引宾客",
   "en": "Greeting Guests",
-  "pt": ""
+  "pt": "Recebendo os convidados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "schoolTaskName11616": {
   "ch": "巡查附近荒观",
   "en": "Patrol the Nearby Deserted Area",
-  "pt": ""
+  "pt": "Patrulhar a área deserta próxima",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11617": {
   "ch": "巡查附近荒观",
   "en": "Patrol the Nearby Deserted Area",
-  "pt": ""
+  "pt": "Patrulhar a área deserta próxima",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11618": {
   "ch": "巡查附近荒观",
   "en": "Patrol the Nearby Deserted Area",
-  "pt": ""
+  "pt": "Patrulhar a área deserta próxima",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11619": {
   "ch": "巡查附近荒观",
   "en": "Patrol the Nearby Deserted Area",
-  "pt": ""
+  "pt": "Patrulhar a área deserta próxima",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11620": {
   "ch": "巡查附近荒观",
   "en": "Patrol the Nearby Deserted Area",
-  "pt": ""
+  "pt": "Patrulhar a área deserta próxima",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11621": {
   "ch": "巡查风水之地",
   "en": "Inspect the Feng Shui of the Land",
-  "pt": ""
+  "pt": "Inspecione o Feng Shui do terreno",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName11622": {
   "ch": "巡查风水之地",
   "en": "Inspect the Feng Shui of the Land",
-  "pt": ""
+  "pt": "Inspecione o Feng Shui do terreno.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11623": {
   "ch": "巡查风水之地",
   "en": "Inspect the Feng Shui of the Land",
-  "pt": ""
+  "pt": "Inspecione o Feng Shui do terreno.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11624": {
   "ch": "巡查风水之地",
   "en": "Inspect the Feng Shui of the Land",
-  "pt": ""
+  "pt": "Inspecione o Feng Shui do terreno.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11625": {
   "ch": "巡查风水之地",
   "en": "Inspect the Feng Shui of the Land",
-  "pt": ""
+  "pt": "Inspecione o Feng Shui do terreno.",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11626": {
   "ch": "画符驱妖",
   "en": "Talismans to Drive Away Monsters",
-  "pt": ""
+  "pt": "Talismãs para afastar Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11627": {
   "ch": "画符驱妖",
   "en": "Talismans to Drive Away Monsters",
-  "pt": ""
+  "pt": "Talismãs para afastar Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11628": {
   "ch": "画符驱妖",
   "en": "Talismans to Drive Away Monsters",
-  "pt": ""
+  "pt": "Talismãs para afastar Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11629": {
   "ch": "画符驱妖",
   "en": "Talismans to Drive Away Monsters",
-  "pt": ""
+  "pt": "Talismãs para afastar Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11630": {
   "ch": "画符驱妖",
   "en": "Talismans to Drive Away Monsters",
-  "pt": ""
+  "pt": "Talismãs para afastar Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11631": {
   "ch": "征收赋税",
   "en": "Levy Taxes",
-  "pt": ""
+  "pt": "Cobrança de impostos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "schoolTaskName11632": {
   "ch": "征收赋税",
   "en": "Levy Taxes",
-  "pt": ""
+  "pt": "Cobrança de impostos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "schoolTaskName11633": {
   "ch": "征收赋税",
   "en": "Levy Taxes",
-  "pt": ""
+  "pt": "Cobrança de impostos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "schoolTaskName11634": {
   "ch": "征收赋税",
   "en": "Levy Taxes",
-  "pt": ""
+  "pt": "Cobrança de impostos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "schoolTaskName11635": {
   "ch": "征收赋税",
   "en": "Levy Taxes",
-  "pt": ""
+  "pt": "Cobrança de impostos",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 13 caracteres"
+  ]
  },
  "schoolTaskName11636": {
   "ch": "黑市商人",
   "en": "Black Market Merchant",
-  "pt": ""
+  "pt": "Comerciante do Mercado Negro",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11637": {
   "ch": "黑市商人",
   "en": "Black Market Merchant",
-  "pt": ""
+  "pt": "Comerciante do Mercado Negro",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11638": {
   "ch": "黑市商人",
   "en": "Black Market Merchant",
-  "pt": ""
+  "pt": "Comerciante do Mercado Negro",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11639": {
   "ch": "黑市商人",
   "en": "Black Market Merchant",
-  "pt": ""
+  "pt": "Comerciante do Mercado Negro",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11640": {
   "ch": "黑市商人",
   "en": "Black Market Merchant",
-  "pt": ""
+  "pt": "Comerciante do Mercado Negro",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11641": {
   "ch": "讲演卦法",
   "en": "Lecture on the Eight Trigram Skills",
-  "pt": ""
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11642": {
   "ch": "讲演卦法",
   "en": "Lecture on the Eight Trigram Skills",
-  "pt": ""
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11643": {
   "ch": "讲演卦法",
   "en": "Lecture on the Eight Trigram Skills",
-  "pt": ""
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11644": {
   "ch": "讲演卦法",
   "en": "Lecture on the Eight Trigram Skills",
-  "pt": ""
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11645": {
   "ch": "讲演卦法",
   "en": "Lecture on the Eight Trigram Skills",
-  "pt": ""
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11646": {
   "ch": "巡查阵眼",
   "en": "Patrol the Array Core",
-  "pt": ""
+  "pt": "Patrulhe o Núcleo da Formação",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11647": {
   "ch": "巡查阵眼",
   "en": "Patrol the Array Core",
-  "pt": ""
+  "pt": "Patrulhe o Núcleo da Formação",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11648": {
   "ch": "巡查阵眼",
   "en": "Patrol the Array Core",
-  "pt": ""
+  "pt": "Patrulhe o Núcleo da Formação",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11649": {
   "ch": "巡查阵眼",
   "en": "Patrol the Array Core",
-  "pt": ""
+  "pt": "Patrulhe o Núcleo da Formação",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11650": {
   "ch": "巡查阵眼",
   "en": "Patrol the Array Core",
-  "pt": ""
+  "pt": "Patrulhe o Núcleo da Formação",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11651": {
   "ch": "传递密信",
   "en": "Delivering Secret Messages",
-  "pt": ""
+  "pt": "Transmitindo mensagens secretas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11652": {
   "ch": "传递密信",
   "en": "Delivering Secret Messages",
-  "pt": ""
+  "pt": "Transmitindo mensagens secretas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11653": {
   "ch": "传递密信",
   "en": "Delivering Secret Messages",
-  "pt": ""
+  "pt": "Transmitindo mensagens secretas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11654": {
   "ch": "传递密信",
   "en": "Delivering Secret Messages",
-  "pt": ""
+  "pt": "Transmitindo mensagens secretas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11655": {
   "ch": "传递密信",
   "en": "Delivering Secret Messages",
-  "pt": ""
+  "pt": "Entregando mensagens secretas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11656": {
   "ch": "驱邪捉妖",
   "en": "Exorcism and Monster Hunting",
-  "pt": ""
+  "pt": "Exorcismo e Caça aos Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11657": {
   "ch": "驱邪捉妖",
   "en": "Exorcism and Monster Hunting",
-  "pt": ""
+  "pt": "Exorcismo e Caça aos Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11658": {
   "ch": "驱邪捉妖",
   "en": "Exorcism and Monster Hunting",
-  "pt": ""
+  "pt": "Exorcismo e Caça aos Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11659": {
   "ch": "驱邪捉妖",
   "en": "Exorcism and Monster Hunting",
-  "pt": ""
+  "pt": "Exorcismo e Caça aos Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11660": {
   "ch": "驱邪捉妖",
   "en": "Exorcism and Monster Hunting",
-  "pt": ""
+  "pt": "Exorcismo e Caça aos Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11801": {
   "ch": "拣取食材",
   "en": "Pick Ingredients",
-  "pt": ""
+  "pt": "Escolha os ingredientes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "schoolTaskName11802": {
   "ch": "拣取食材",
   "en": "Pick Ingredients",
-  "pt": ""
+  "pt": "Escolha os ingredientes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "schoolTaskName11803": {
   "ch": "拣取食材",
   "en": "Pick Ingredients",
-  "pt": ""
+  "pt": "Escolha os ingredientes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "schoolTaskName11804": {
   "ch": "拣取食材",
   "en": "Pick Ingredients",
-  "pt": ""
+  "pt": "Escolha os ingredientes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "schoolTaskName11805": {
   "ch": "拣取食材",
   "en": "Pick Ingredients",
-  "pt": ""
+  "pt": "Escolha os ingredientes",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "schoolTaskName11806": {
   "ch": "采摘灵果",
   "en": "Harvest Spiritual Fruit",
-  "pt": ""
+  "pt": "Colha o Fruto Espiritual",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11807": {
   "ch": "采摘灵果",
   "en": "Harvest Spiritual Fruit",
-  "pt": ""
+  "pt": "Colher Fruto Espiritual",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11808": {
   "ch": "采摘灵果",
   "en": "Harvest Spiritual Fruit",
-  "pt": ""
+  "pt": "Colher Fruto Espiritual",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11809": {
   "ch": "采摘灵果",
   "en": "Harvest Spiritual Fruit",
-  "pt": ""
+  "pt": "Colher Fruto Espiritual",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11810": {
   "ch": "采摘灵果",
   "en": "Harvest Spiritual Fruit",
-  "pt": ""
+  "pt": "Colher Fruto Espiritual",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11811": {
   "ch": "熬制汤品",
   "en": "Make Soup",
-  "pt": ""
+  "pt": "Faça sopa",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11812": {
   "ch": "熬制汤品",
   "en": "Make Soup",
-  "pt": ""
+  "pt": "Faça sopa",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11813": {
   "ch": "熬制汤品",
   "en": "Make Soup",
-  "pt": ""
+  "pt": "Faça Sopa",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11814": {
   "ch": "熬制汤品",
   "en": "Make Soup",
-  "pt": ""
+  "pt": "Faça Sopa",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName11815": {
   "ch": "熬制汤品",
   "en": "Make Soup",
-  "pt": ""
+  "pt": "Faça Sopa",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName12": {
   "ch": "降服妖物",
   "en": "Subduing Monsters",
-  "pt": ""
+  "pt": "Domando Monstros",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName13": {
   "ch": "寻找宗门秘法",
   "en": "Find Sect Arcane Manual",
-  "pt": ""
+  "pt": "Encontre o Manual Arcano da Seita",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName14": {
   "ch": "击杀宗门敌人",
   "en": "Kill Sect Enemy",
-  "pt": ""
+  "pt": "Mate o inimigo da Seita",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "schoolTaskName15": {
   "ch": "击杀走火入魔的修仙者",
   "en": "Kill the Qi Deviated Cultivator",
-  "pt": ""
+  "pt": "Mate o Cultivador Desviado pelo Qi",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName2": {
   "ch": "收集药材",
   "en": "Collecting Herbs",
-  "pt": ""
+  "pt": "Colhendo Ervas",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName3": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": ""
+  "pt": "Preparação de Elixir",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskName4": {
   "ch": "清理怪物",
   "en": "Monster Sweep",
-  "pt": ""
+  "pt": "Varredura de Monstros",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 17 caracteres"
+  ]
  },
  "schoolTaskName5": {
   "ch": "驻守领地",
   "en": "Territory Garrison",
-  "pt": ""
+  "pt": "Guarnição do Território",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName6": {
   "ch": "平定叛乱",
   "en": "Pacifying Rebellions",
-  "pt": ""
+  "pt": "Pacificando rebeliões",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName7": {
   "ch": "运送丹药",
   "en": "Elixir Delivery",
-  "pt": ""
+  "pt": "Entrega de Elixir",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName8": {
   "ch": "扩张领地",
   "en": "Territory Expansion",
-  "pt": ""
+  "pt": "Expansão Territorial",
+  "auto": "local/hy-mt2"
  },
  "schoolTaskName9": {
   "ch": "击杀敌道",
   "en": "Enemy Elimination",
-  "pt": ""
+  "pt": "Eliminação de inimigos",
+  "auto": "local/hy-mt2"
  }
 }

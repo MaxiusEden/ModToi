@@ -2,706 +2,952 @@
  "keyboard_A": {
   "ch": "A",
   "en": "A",
-  "pt": ""
+  "pt": "A",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha0": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha1": {
   "ch": "1",
   "en": "1",
-  "pt": ""
+  "pt": "1",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha2": {
   "ch": "2",
   "en": "2",
-  "pt": ""
+  "pt": "2",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha3": {
   "ch": "3",
   "en": "3",
-  "pt": ""
+  "pt": "3",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha4": {
   "ch": "4",
   "en": "4",
-  "pt": ""
+  "pt": "4",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha5": {
   "ch": "5",
   "en": "5",
-  "pt": ""
+  "pt": "5",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha6": {
   "ch": "6",
   "en": "6",
-  "pt": ""
+  "pt": "6",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha7": {
   "ch": "7",
   "en": "7",
-  "pt": ""
+  "pt": "7",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha8": {
   "ch": "8",
   "en": "8",
-  "pt": ""
+  "pt": "8",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Alpha9": {
   "ch": "9",
   "en": "9",
-  "pt": ""
+  "pt": "9",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_AltGr": {
   "ch": "AltGr",
   "en": "AltGr",
-  "pt": ""
+  "pt": "AltGr",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_Ampersand": {
   "ch": "&",
   "en": "&",
-  "pt": ""
+  "pt": "&",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Asterisk": {
   "ch": "*",
   "en": "英文",
-  "pt": ""
+  "pt": "asterisco",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_At": {
   "ch": "@",
   "en": "@",
-  "pt": ""
+  "pt": "@",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_B": {
   "ch": "B",
   "en": "B",
-  "pt": ""
+  "pt": "B",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_BackQuote": {
   "ch": "\"",
   "en": "\"",
-  "pt": ""
+  "pt": "\"",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_Backslash": {
   "ch": "\\\\",
   "en": "\\\\",
-  "pt": ""
+  "pt": "\\\\",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_Backspace": {
   "ch": "←",
   "en": "←",
-  "pt": ""
+  "pt": "←",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Break": {
   "ch": "Break",
   "en": "Break",
-  "pt": ""
+  "pt": "Break",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_C": {
   "ch": "C",
   "en": "C",
-  "pt": ""
+  "pt": "C",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_CapsLock": {
   "ch": "CapsLock",
   "en": "Caps Lock",
-  "pt": ""
+  "pt": "Caps Lock",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_Caret": {
   "ch": "^",
   "en": "^",
-  "pt": ""
+  "pt": "^",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_Clear": {
   "ch": "Clear",
   "en": "Clear",
-  "pt": ""
+  "pt": "Clear",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_Colon": {
   "ch": ":",
   "en": ":",
-  "pt": ""
+  "pt": ":",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_Comma": {
   "ch": ",",
   "en": ",",
-  "pt": ""
+  "pt": ",",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_D": {
   "ch": "D",
   "en": "D",
-  "pt": ""
+  "pt": "D",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_Delete": {
   "ch": "Delete",
   "en": "Delete",
-  "pt": ""
+  "pt": "Delete",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_Dollar": {
   "ch": "$",
   "en": "$",
-  "pt": ""
+  "pt": "$",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_DoubleQuote": {
   "ch": "\"",
   "en": "\"",
-  "pt": ""
+  "pt": "\"",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_DownArrow": {
   "ch": "方向键↓",
   "en": "↓",
-  "pt": ""
+  "pt": "↓",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_E": {
   "ch": "E",
   "en": "E",
-  "pt": ""
+  "pt": "E",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_End": {
   "ch": "End",
   "en": "End",
-  "pt": ""
+  "pt": "End",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "keyboard_Equals": {
   "ch": "=",
   "en": "=",
-  "pt": ""
+  "pt": "=",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Escape": {
   "ch": "Esc",
   "en": "Esc",
-  "pt": ""
+  "pt": "Esc",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Exclaim": {
   "ch": "!",
   "en": "!",
-  "pt": ""
+  "pt": "!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F": {
   "ch": "F",
   "en": "F",
-  "pt": ""
+  "pt": "F",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F1": {
   "ch": "F1",
   "en": "F1",
-  "pt": ""
+  "pt": "F1",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F10": {
   "ch": "F10",
   "en": "F10",
-  "pt": ""
+  "pt": "F10",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F11": {
   "ch": "F11",
   "en": "F11",
-  "pt": ""
+  "pt": "F11",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F12": {
   "ch": "F12",
   "en": "F12",
-  "pt": ""
+  "pt": "F12",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F13": {
   "ch": "F13",
   "en": "F13",
-  "pt": ""
+  "pt": "F13",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F14": {
   "ch": "F14",
   "en": "F14",
-  "pt": ""
+  "pt": "F14",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F15": {
   "ch": "F15",
   "en": "F15",
-  "pt": ""
+  "pt": "F15",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F2": {
   "ch": "F2",
   "en": "F2",
-  "pt": ""
+  "pt": "F2",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F3": {
   "ch": "F3",
   "en": "F3",
-  "pt": ""
+  "pt": "F3",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F4": {
   "ch": "F4",
   "en": "F4",
-  "pt": ""
+  "pt": "F4",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F5": {
   "ch": "F5",
   "en": "F5",
-  "pt": ""
+  "pt": "F5",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F6": {
   "ch": "F6",
   "en": "F6",
-  "pt": ""
+  "pt": "F6",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F7": {
   "ch": "F7",
   "en": "F7",
-  "pt": ""
+  "pt": "F7",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F8": {
   "ch": "F8",
   "en": "F8",
-  "pt": ""
+  "pt": "F8",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_F9": {
   "ch": "F9",
   "en": "F9",
-  "pt": ""
+  "pt": "F9",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_G": {
   "ch": "G",
   "en": "G",
-  "pt": ""
+  "pt": "G",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Greater": {
   "ch": ">",
   "en": ">",
-  "pt": ""
+  "pt": ">",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_H": {
   "ch": "H",
   "en": "H",
-  "pt": ""
+  "pt": "H",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Hash": {
   "ch": "Hash",
   "en": "Hash",
-  "pt": ""
+  "pt": "Hash",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Help": {
   "ch": "Help",
   "en": "Help",
-  "pt": ""
+  "pt": "Ajuda",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Home": {
   "ch": "Home",
   "en": "Home",
-  "pt": ""
+  "pt": "Início",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_I": {
   "ch": "I",
   "en": "I",
-  "pt": ""
+  "pt": "I",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Insert": {
   "ch": "Insert",
   "en": "Insert",
-  "pt": ""
+  "pt": "Inserir",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_J": {
   "ch": "J",
   "en": "J",
-  "pt": ""
+  "pt": "J",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_K": {
   "ch": "K",
   "en": "K",
-  "pt": ""
+  "pt": "K",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Keypad0": {
   "ch": "小键盘0",
   "en": "Numpad 0",
-  "pt": ""
+  "pt": "Teclado Numérico 0",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad1": {
   "ch": "小键盘1",
   "en": "Numpad 1",
-  "pt": ""
+  "pt": "Teclado Numérico 1",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad2": {
   "ch": "小键盘2",
   "en": "Numpad 2",
-  "pt": ""
+  "pt": "Teclado Numérico 2",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad3": {
   "ch": "小键盘3",
   "en": "Numpad 3",
-  "pt": ""
+  "pt": "Teclado Numérico 3",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad4": {
   "ch": "小键盘4",
   "en": "Numpad 4",
-  "pt": ""
+  "pt": "Teclado Numérico 4",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad5": {
   "ch": "小键盘5",
   "en": "Numpad 5",
-  "pt": ""
+  "pt": "Teclado Numérico 5",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad6": {
   "ch": "小键盘6",
   "en": "Numpad 6",
-  "pt": ""
+  "pt": "Teclado Numérico 6",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad7": {
   "ch": "小键盘7",
   "en": "Numpad 7",
-  "pt": ""
+  "pt": "Teclado Numérico 7",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad8": {
   "ch": "小键盘8",
   "en": "Numpad 8",
-  "pt": ""
+  "pt": "Teclado Numérico 8",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_Keypad9": {
   "ch": "小键盘9",
   "en": "Numpad 9",
-  "pt": ""
+  "pt": "Teclado Numérico 9",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_KeypadDivide": {
   "ch": "Num_/",
   "en": "Numpad /",
-  "pt": ""
+  "pt": "Teclado Numérico /",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_KeypadEnter": {
   "ch": "Num_Enter",
   "en": "Numpad Enter",
-  "pt": ""
+  "pt": "Teclado Numérico Enter",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "keyboard_KeypadEquals": {
   "ch": "Num_=",
   "en": "Numpad =",
-  "pt": ""
+  "pt": "Teclado Numérico =",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_KeypadMinus": {
   "ch": "Num_-",
   "en": "Numpad -",
-  "pt": ""
+  "pt": "Teclado Numérico -",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_KeypadMultiply": {
   "ch": "Num_*",
   "en": "Numpad *",
-  "pt": ""
+  "pt": "Teclado Numérico *",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_KeypadPeriod": {
   "ch": "Num_.",
   "en": "Numpad .",
-  "pt": ""
+  "pt": "Teclado Numérico .",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_KeypadPlus": {
   "ch": "Num_+",
   "en": "Numpad +",
-  "pt": ""
+  "pt": "Teclado Numérico +",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 18 > 11 caracteres"
+  ]
  },
  "keyboard_L": {
   "ch": "L",
   "en": "L",
-  "pt": ""
+  "pt": "L",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_LeftAlt": {
   "ch": "左Alt",
   "en": "Left Alt",
-  "pt": ""
+  "pt": "Alt Esquerdo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "keyboard_LeftArrow": {
   "ch": "方向键←",
   "en": "←",
-  "pt": ""
+  "pt": "←",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_LeftBracket": {
   "ch": "[",
   "en": "[",
-  "pt": ""
+  "pt": "[",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_LeftControl": {
   "ch": "左Ctrl",
   "en": "Right Ctrl",
-  "pt": ""
+  "pt": "Ctrl Direito",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_LeftCurlyBracket": {
   "ch": "{",
   "en": "{",
-  "pt": ""
+  "pt": "{",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_LeftParen": {
   "ch": "(",
   "en": "(",
-  "pt": ""
+  "pt": "(",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_LeftShift": {
   "ch": "左Shift",
   "en": "Left Shift",
-  "pt": ""
+  "pt": "Shift Esquerdo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "keyboard_LeftWindows": {
   "ch": "左Win",
   "en": "Left Windows",
-  "pt": ""
+  "pt": "Windows Esquerdo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Less": {
   "ch": "<",
   "en": "<",
-  "pt": ""
+  "pt": "<",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_M": {
   "ch": "M",
   "en": "M",
-  "pt": ""
+  "pt": "M",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Menu": {
   "ch": "Menu",
   "en": "Menu",
-  "pt": ""
+  "pt": "Menu",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Minus": {
   "ch": "-",
   "en": "-",
-  "pt": ""
+  "pt": "-",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Mouse0": {
   "ch": "鼠标左键",
   "en": "LMB",
-  "pt": ""
+  "pt": "Botão Esquerdo do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 6 caracteres"
+  ]
  },
  "keyboard_Mouse1": {
   "ch": "鼠标右键",
   "en": "RMB",
-  "pt": ""
+  "pt": "Botão Direito do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 6 caracteres"
+  ]
  },
  "keyboard_Mouse2": {
   "ch": "鼠标中键",
   "en": "MMB",
-  "pt": ""
+  "pt": "Botão do Rolar do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 23 > 6 caracteres"
+  ]
  },
  "keyboard_Mouse3": {
   "ch": "Mouse3",
   "en": "Mouse Button 3",
-  "pt": ""
+  "pt": "Botão 3 do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Mouse4": {
   "ch": "Mouse4",
   "en": "Mouse Button 4",
-  "pt": ""
+  "pt": "Botão 4 do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Mouse5": {
   "ch": "Mouse5",
   "en": "Mouse Button 5",
-  "pt": ""
+  "pt": "Botão 5 do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Mouse6": {
   "ch": "Mouse6",
   "en": "Mouse Button 6",
-  "pt": ""
+  "pt": "Botão 6 do Mouse",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_N": {
   "ch": "N",
   "en": "N",
-  "pt": ""
+  "pt": "N",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Numlock": {
   "ch": "NumLock",
   "en": "Num Lock",
-  "pt": ""
+  "pt": "Bloq Num",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_O": {
   "ch": "O",
   "en": "O",
-  "pt": ""
+  "pt": "O",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_P": {
   "ch": "P",
   "en": "P",
-  "pt": ""
+  "pt": "P",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_PageDown": {
   "ch": "PageDown",
   "en": "PageDown",
-  "pt": ""
+  "pt": "Próxima Página",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "keyboard_PageUp": {
   "ch": "PageUp",
   "en": "PageUp",
-  "pt": ""
+  "pt": "Página Anterior",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 9 caracteres"
+  ]
  },
  "keyboard_Pause": {
   "ch": "Pause",
   "en": "Pause",
-  "pt": ""
+  "pt": "Pausa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Percent": {
   "ch": "%",
   "en": "%",
-  "pt": ""
+  "pt": "%",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Period": {
   "ch": ".",
   "en": ".",
-  "pt": ""
+  "pt": ".",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Pipe": {
   "ch": "|",
   "en": "|",
-  "pt": ""
+  "pt": "|",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Plus": {
   "ch": "+",
   "en": "+",
-  "pt": ""
+  "pt": "+",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Print": {
   "ch": "Print",
   "en": "Print",
-  "pt": ""
+  "pt": "Impr.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Q": {
   "ch": "Q",
   "en": "Q",
-  "pt": ""
+  "pt": "Q",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Question": {
   "ch": "?",
   "en": "?",
-  "pt": ""
+  "pt": "?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Quote": {
   "ch": "'",
   "en": "'",
-  "pt": ""
+  "pt": "'",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_R": {
   "ch": "R",
   "en": "R",
-  "pt": ""
+  "pt": "R",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Return": {
   "ch": "Enter",
   "en": "Enter",
-  "pt": ""
+  "pt": "Enter",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_RightAlt": {
   "ch": "右RAlt",
   "en": "Right Alt",
-  "pt": ""
+  "pt": "Alt Direito",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_RightArrow": {
   "ch": "方向键→",
   "en": "→",
-  "pt": ""
+  "pt": "→",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_RightBracket": {
   "ch": "]",
   "en": "]",
-  "pt": ""
+  "pt": "]",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_RightControl": {
   "ch": "右Ctrl",
   "en": "Left Ctrl",
-  "pt": ""
+  "pt": "Ctrl Esquerdo",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "keyboard_RightCurlyBracket": {
   "ch": "}",
   "en": "}",
-  "pt": ""
+  "pt": "}",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_RightParen": {
   "ch": ")",
   "en": ")",
-  "pt": ""
+  "pt": ")",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_RightShift": {
   "ch": "右Shift",
   "en": "Right Shift",
-  "pt": ""
+  "pt": "Shift Direito",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_RightWindows": {
   "ch": "右Win",
   "en": "Right Windows",
-  "pt": ""
+  "pt": "Windows Direito",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_S": {
   "ch": "S",
   "en": "S",
-  "pt": ""
+  "pt": "S",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_ScrollLock": {
   "ch": "ScrollLock",
   "en": "Scroll Lock",
-  "pt": ""
+  "pt": "Bloqueio de Rolagem",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 19 > 15 caracteres"
+  ]
  },
  "keyboard_Semicolon": {
   "ch": ";",
   "en": ";",
-  "pt": ""
+  "pt": ";",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Slash": {
   "ch": "/",
   "en": "/",
-  "pt": ""
+  "pt": "/",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Space": {
   "ch": "空格键",
   "en": "Space Bar",
-  "pt": ""
+  "pt": "Barra de Espaço",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "keyboard_SysReq": {
   "ch": "SysReq",
   "en": "SysReq",
-  "pt": ""
+  "pt": "SysReq",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "keyboard_T": {
   "ch": "T",
   "en": "T",
-  "pt": ""
+  "pt": "T",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Tab": {
   "ch": "Tab",
   "en": "Tab",
-  "pt": ""
+  "pt": "Tab",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Tilde": {
   "ch": "~",
   "en": "~",
-  "pt": ""
+  "pt": "~",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_U": {
   "ch": "U",
   "en": "U",
-  "pt": ""
+  "pt": "U",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Underscore": {
   "ch": "_",
   "en": "_",
-  "pt": ""
+  "pt": "_",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_UpArrow": {
   "ch": "方向键↑",
   "en": "↑",
-  "pt": ""
+  "pt": "Seta para Cima",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 4 caracteres"
+  ]
  },
  "keyboard_V": {
   "ch": "V",
   "en": "V",
-  "pt": ""
+  "pt": "V",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_W": {
   "ch": "W",
   "en": "W",
-  "pt": ""
+  "pt": "W",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_X": {
   "ch": "X",
   "en": "X",
-  "pt": ""
+  "pt": "X",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Y": {
   "ch": "Y",
   "en": "Y",
-  "pt": ""
+  "pt": "Y",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "keyboard_Z": {
   "ch": "Z",
   "en": "Z",
-  "pt": ""
+  "pt": "Z",
+  "auto": "cohere/command-a-reasoning-08-2025"
  }
 }

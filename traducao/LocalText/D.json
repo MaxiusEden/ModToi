@@ -2,1241 +2,1648 @@
  "D_battleInfo_dijiguan": {
   "ch": "第{0}关",
   "en": "Level {0}",
-  "pt": ""
+  "pt": "Nível {0}",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStart_biaoti": {
   "ch": "胜利条件",
   "en": "Victory Condition",
-  "pt": ""
+  "pt": "Condição de Vitória",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStart_nandu": {
   "ch": "不归玄境：{0}",
   "en": "Ground of No Return: {0}",
-  "pt": ""
+  "pt": "Terreno sem Volta: {0}",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: Ground of No Return → Solo do Não Retorno"
+  ]
  },
  "D_battleStart_shenglitiaojian": {
   "ch": "通关20层",
   "en": "Level 20 Cleared",
-  "pt": ""
+  "pt": "Nível 20 Limpo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_chiyoudaoju": {
   "ch": "持有道具",
   "en": "Items owned",
-  "pt": ""
+  "pt": "Itens possuídos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_citiaoshuoming": {
   "ch": "词条说明",
   "en": "Affix Info",
-  "pt": ""
+  "pt": "Informação do afixo",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 13 caracteres"
+  ]
  },
  "D_battleStore_ciyao": {
   "ch": "次要",
   "en": "Minor",
-  "pt": ""
+  "pt": "Menor",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_fanhuiyouxi": {
   "ch": "回到游戏",
   "en": "Resume",
-  "pt": ""
+  "pt": "Retomar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_fanhuizhujiemian": {
   "ch": "返回主界面",
   "en": "Main Menu",
-  "pt": ""
+  "pt": "Menu principal",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "D_battleStore_jiesuo": {
   "ch": "解锁",
   "en": "Unlock",
-  "pt": ""
+  "pt": "Desbloquear",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "D_battleStore_jineng": {
   "ch": "我的技能",
   "en": "My Skills",
-  "pt": ""
+  "pt": "Minhas habilidades",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 18 > 12 caracteres"
+  ]
  },
  "D_battleStore_jinengcitiao": {
   "ch": "技能词条",
   "en": "Skill Affixes",
-  "pt": ""
+  "pt": "Afixos de habilidade",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 17 caracteres"
+  ]
  },
  "D_battleStore_jinengshuoming": {
   "ch": "技能说明",
   "en": "Skill Info",
-  "pt": ""
+  "pt": "Informação da habilidade",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 24 > 13 caracteres"
+  ]
  },
  "D_battleStore_jueseshuxing": {
   "ch": "角色属性",
   "en": "Info",
-  "pt": ""
+  "pt": "Informações",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 11 > 7 caracteres"
+  ]
  },
  "D_battleStore_lengqueshijian": {
   "ch": "冷却时间",
   "en": "Cooldown",
-  "pt": ""
+  "pt": "Tempo de espera",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 15 > 11 caracteres"
+  ]
  },
  "D_battleStore_qiehuanshuxing": {
   "ch": "切换",
   "en": "Switch",
-  "pt": ""
+  "pt": "Alternar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_shezhi": {
   "ch": "设置",
   "en": "Settings",
-  "pt": ""
+  "pt": "Configurações",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 13 > 11 caracteres"
+  ]
  },
  "D_battleStore_suoding": {
   "ch": "锁定",
   "en": "Locked",
-  "pt": ""
+  "pt": "Bloqueado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_xinfa": {
   "ch": "我的心法",
   "en": "My Mind Skills",
-  "pt": ""
+  "pt": "Minhas técnicas mentais",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "D_battleStore_xinfacitiao": {
   "ch": "心法词条",
   "en": "Mind Skill Affixes",
-  "pt": ""
+  "pt": "Afixos de técnica mental",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_xinyouxi": {
   "ch": "新游戏",
   "en": "New Game",
-  "pt": ""
+  "pt": "Novo jogo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_yizhuangpei": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": ""
+  "pt": "Atualizar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_zhuyao": {
   "ch": "主要",
   "en": "Major",
-  "pt": ""
+  "pt": "Principal",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 9 > 8 caracteres"
+  ]
  },
  "D_beifenduqushibai": {
   "ch": "备份文件读取失败，请重新开始！",
   "en": "Unable to load the backup save file. Please play with a new save.",
-  "pt": ""
+  "pt": "Não foi possível carregar o arquivo de salvamento de backup. Por favor, comece um novo jogo.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_boss_kuangbaoshengyushijian": {
   "ch": "大妖兽将于{0}s后进入<r>狂暴状态</r>",
   "en": "Mythical Beast will go <r>Berserk</r> after {0}s",
-  "pt": ""
+  "pt": "A Fera Mítica entrará em <r>Fúria</r> após {0}s",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_cundangsunhuaitishi": {
   "ch": "当前存档已损坏，无法读取。是否读取最近一次备份的存档？",
   "en": "Unable to load selected save file. Load the latest backup save file instead?",
-  "pt": ""
+  "pt": "Não foi possível carregar o arquivo de save selecionado. Carregar o último arquivo de save backup em vez disso?",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_diffPass": {
   "ch": "已通过",
   "en": "Cleared",
-  "pt": ""
+  "pt": "Concluído",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_dlcMain_dangqianjuese": {
   "ch": "当前角色",
   "en": "Current Character",
-  "pt": ""
+  "pt": "Personagem Atual",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_dlcMain_wanfaming": {
   "ch": "选择DLC角色",
   "en": "Select DLC Character",
-  "pt": ""
+  "pt": "Selecionar Personagem DLC",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_dlcMain_xuanzejuese": {
   "ch": "请选择角色",
   "en": "Select Character",
-  "pt": ""
+  "pt": "Selecionar Personagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_dlcMain_yongyoujineng": {
   "ch": "技能",
   "en": "Skills",
-  "pt": ""
+  "pt": "Habilidades",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "D_end_baojicishu": {
   "ch": "暴击次数",
   "en": "Crit Strikes Dealt",
-  "pt": ""
+  "pt": "Golpes Críticos Desferidos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "D_end_baojizongshanghai": {
   "ch": "暴击总伤害",
   "en": "Total Crit Damage",
-  "pt": ""
+  "pt": "Dano Crítico Total",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_guanqiashu": {
   "ch": "到达关卡",
   "en": "Level Reached",
-  "pt": ""
+  "pt": "Nível Alcançado",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_huifutili": {
   "ch": "回复体力",
   "en": "Vitality Restored",
-  "pt": ""
+  "pt": "Vitalidade Restaurada",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_jishaboss": {
   "ch": "击杀大妖兽",
   "en": "Bosses Killed",
-  "pt": ""
+  "pt": "Chefes Derrotados",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_jishaxiaoguai": {
   "ch": "击杀小怪",
   "en": "Minions Killed",
-  "pt": ""
+  "pt": "Minions Derrotados",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_shanbicishu": {
   "ch": "闪避次数",
   "en": "Successful Dodges",
-  "pt": ""
+  "pt": "Esquivas Bem-sucedidas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_shoushangcishu": {
   "ch": "受伤次数",
   "en": "Hits Received",
-  "pt": ""
+  "pt": "Acertos Recebidos",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_shoushangzongshanghai": {
   "ch": "受到总伤害",
   "en": "Total Damage Taken",
-  "pt": ""
+  "pt": "Dano Total Recebido",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_zhandouhaoshi": {
   "ch": "战斗耗时",
   "en": "Battle Duration",
-  "pt": ""
+  "pt": "Duração da Batalha",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_zongshanghai": {
   "ch": "总伤害",
   "en": "Total Damage",
-  "pt": ""
+  "pt": "Dano Total",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_zuigaoshanghai": {
   "ch": "单次最高伤害",
   "en": "Highest Single-hit",
-  "pt": ""
+  "pt": "Maior Dano em um Único Golpe",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "D_jiesuoneirong": {
   "ch": "解锁内容",
   "en": "Unlocked",
-  "pt": ""
+  "pt": "Desbloqueado",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 12 > 11 caracteres"
+  ]
  },
  "D_playerInfoDesc_BXshuaxinsudu": {
   "ch": "此属性可影响在战斗中刷新出罐子的概率。",
   "en": "Indicates how frequently the breakable pots respawn in battles.",
-  "pt": ""
+  "pt": "Indica com que frequência os vasos quebráveis reaparecem nas batalhas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_GWdiaoluo": {
   "ch": "战斗中敌人的掉落百分比。",
   "en": "The percent of enemies' drops in battle.",
-  "pt": ""
+  "pt": "O percentual de drops dos inimigos em batalha.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_GWjinengweili": {
   "ch": "战斗中敌人的伤害百分比。",
   "en": "The percent of enemies' damage dealt in battle.",
-  "pt": ""
+  "pt": "O percentual de dano infligido pelos inimigos em batalha.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_GWshuaxinshulaing": {
   "ch": "战斗中敌人的刷新数量百分比。",
   "en": "The percent of respawned enemies' amount in battle.",
-  "pt": ""
+  "pt": "O percentual da quantidade de inimigos que reaparecem em batalha.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_GWyidongsudu": {
   "ch": "战斗中敌人的移动速度百分比。",
   "en": "The percent of enemies' movement speed in battle.",
-  "pt": ""
+  "pt": "O percentual da velocidade de movimento dos inimigos em batalha.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNDDchuantoucishu": {
   "ch": "角色的弹道穿透次数可受到此属性的加成。",
   "en": "Indicates how many enemies your skill's projectile could pierce.",
-  "pt": ""
+  "pt": "Indica quantos inimigos o projétil da sua habilidade pode atravessar.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNDDjituijuli": {
   "ch": "角色的击退距离可受到此属性的加成。",
   "en": "Indicates your projectile's knock-back distance.",
-  "pt": ""
+  "pt": "Indica a distância de recuo do seu projétil.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNDDshecheng": {
   "ch": "角色的技能射程可受到此属性的加成。",
   "en": "Indicates the farthest distance your skill's projectiles could reach.",
-  "pt": ""
+  "pt": "Indica o alcance máximo dos projéteis da sua habilidade.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNDDshuliang": {
   "ch": "角色的弹道数量可受到此属性的加成。",
   "en": "Indicates your skill's projectile amounts.",
-  "pt": ""
+  "pt": "Indica a quantidade de projéteis da sua habilidade.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNDDsudu": {
   "ch": "角色的弹道速度可受到此属性的加成。",
   "en": "Indicates how fast your projectiles move.",
-  "pt": ""
+  "pt": "Indica a velocidade dos seus projéteis.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNDDtanshecishu": {
   "ch": "角色的弹道弹射次数可受到此属性的加成。",
   "en": "Indicates how many times your skill's projectile could bounce among enemies.",
-  "pt": ""
+  "pt": "Indica quantas vezes o projétil da sua habilidade pode ricochetear entre inimigos.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNchixu": {
   "ch": "角色的技能持续时间可受到此属性的加成。",
   "en": "Indicates the effective time of your skills.",
-  "pt": ""
+  "pt": "Indica o tempo de efeito das suas habilidades.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNfanwei": {
   "ch": "角色的技能范围可受到此属性的加成。",
   "en": "Indicates the radius of your skill's area of effect.",
-  "pt": ""
+  "pt": "Indica o raio de alcance das suas habilidades.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNxixue": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_JNxixuebilv": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_SDSXjiage": {
   "ch": "此属性可影响商店中刷新道具的价格。",
   "en": "Indicates the price to be paid in refreshing the store's list.",
-  "pt": ""
+  "pt": "Indica o preço a ser pago para atualizar a lista da loja.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_SDjiage": {
   "ch": "此属性可影响商店中出售的秘籍价格。",
   "en": "Indicates the price of manuals you purchased in the store.",
-  "pt": ""
+  "pt": "Indica o preço dos manuais que você comprou na loja.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_SDshuaxincishu": {
   "ch": "在商店中可免费刷新的次数。",
   "en": "Indicates your free opportunities to refresh the store for another selection of items.",
-  "pt": ""
+  "pt": "Indica suas oportunidades gratuitas de atualizar a loja para outra seleção de itens.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_ZHWchixu": {
   "ch": "召唤物的持续时间可受到此百分比的加成。",
   "en": "The bonus percent of the existing time for summoned units.",
-  "pt": ""
+  "pt": "O bônus percentual do tempo existente para unidades convocadas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_ZHWgongsu": {
   "ch": "召唤物的攻击速度可受到此百分比的加成。",
   "en": "The bonus percent of the Attack Speed for summoned units.",
-  "pt": ""
+  "pt": "O bônus percentual da Velocidade de Ataque para unidades convocadas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_ZHWweili": {
   "ch": "召唤物造成的伤害可受到此百分比的加成。",
   "en": "The bonus percent of damage dealt by summoned units.",
-  "pt": ""
+  "pt": "O bônus percentual de dano causado por unidades convocadas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_baoji": {
   "ch": "角色的暴击概率百分比。",
   "en": "Indicates your chance to deal a critical strike.",
-  "pt": ""
+  "pt": "Indica sua chance de causar um golpe crítico.",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: 暴击概率 → Chance Crítica"
+  ]
  },
  "D_playerInfoDesc_baojibeilv": {
   "ch": "角色暴击时的伤害倍率百分比。",
   "en": "The amplified percent of your Crit damage.",
-  "pt": ""
+  "pt": "O percentual ampliado de seu dano crítico.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_daozizhi": {
   "ch": "每1点刀法资质可使刀法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Blade will +1 your Blade damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Lâmina aumenta seu dano de Lâmina em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_enemyMaxhpfix": {
   "ch": "战斗中敌人的最大体力百分比。",
   "en": "The percent of enemies' max health points in battle.",
-  "pt": ""
+  "pt": "O percentual dos pontos máximos de saúde dos inimigos em batalha.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_fangyu": {
   "ch": "角色的防御力。",
   "en": "Defense of your character.",
-  "pt": ""
+  "pt": "A defesa de seu personagem.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_fengzizh": {
   "ch": "每1点风灵根可使风属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Wind Root will +1 your Wind damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Raiz de Vento aumenta seu dano de Vento em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_gongji": {
   "ch": "角色的攻击力。",
   "en": "Attack of your character.",
-  "pt": ""
+  "pt": "O ataque de seu personagem.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_gongjisudu": {
   "ch": "角色使用在商店购买的技能的频率，此属性越高，技能的冷却时间越短。",
   "en": "Indicates your frequency in casting skills that are acquired from the store. A higher Attack Speed will bring you a shorter skill cooldown.",
-  "pt": ""
+  "pt": "Indica sua frequência em lançar habilidades adquiridas na loja. Uma Velocidade de Ataque maior reduzirá o tempo de espera entre usos de habilidades.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_huozizhi": {
   "ch": "每1点火灵根可使火属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Fire Root will +1 your Fire damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Raiz de Fogo aumenta seu dano de Fogo em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_jianzizhi": {
   "ch": "每1点剑法资质可使剑法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Sword will +1 your Sword damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Espada aumenta seu dano de Espada em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_jingyanbeilv": {
   "ch": "角色在击败敌人时获得修为的百分比。",
   "en": "The percent of EXP gained from defeating enemies.",
-  "pt": ""
+  "pt": "O percentual de EXP ganho ao derrotar inimigos.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_jituijuli": {
   "ch": "角色的击退距离可受到此属性的加成。",
   "en": "Indicates your knock-back distance.",
-  "pt": ""
+  "pt": "Indica sua distância de recuo.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_kangxing": {
   "ch": "角色的免伤能力，抗性越高，可免伤的百分比越高。",
   "en": "Indicates your damage reduction. Higher Resistance will bring you a higher damage reduction percentage.",
-  "pt": ""
+  "pt": "Indica sua redução de dano. Maior Resistência resultará em uma porcentagem maior de redução de dano.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_kangxingcanshu": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_leizizhi": {
   "ch": "每1点雷灵根可使雷属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Lightning Root will +1 your Lightning damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Raiz de Relâmpago aumenta seu dano de Relâmpago em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_muzizhi": {
   "ch": "每1点木灵根可使木属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Wood Root will +1 your Wood damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Raiz de Madeira aumenta seu dano de Madeira em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_qiangzizhi": {
   "ch": "每1点枪法资质可使枪法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Spear will +1 your Spear damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Lança aumenta seu dano de Lança em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_quanzizhi": {
   "ch": "每1点拳法资质可使拳法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Fist will +1 your Fist damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Punho aumenta seu dano de Punho em +1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_shanbi": {
   "ch": "角色的闪避百分比，此属性上限为60%，超过上限的部分无效。",
   "en": "Indicates your chance to evade an imminent attack. Capped at 60%.",
-  "pt": ""
+  "pt": "Indica sua chance de esquivar um ataque iminente. Limitado a 60%.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_shiqufanwei": {
   "ch": "角色拾取道具的最远距离。",
   "en": "The maximum distance that allows your character to pick up items.",
-  "pt": ""
+  "pt": "A distância máxima que permite que seu personagem recolha itens.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_shuizizhi": {
   "ch": "每1点水灵根可使水属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Water Root will +1 your Water damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Raiz de Água aumentará seu dano de Água em 1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_tili": {
   "ch": "角色的体力值，体力为0时游戏失败。",
   "en": "Your character's health points. You'll lose the game when your Vitality drops to 0.",
-  "pt": ""
+  "pt": "Os pontos de saúde do seu personagem. Você perderá o jogo quando sua Vitalidade cair para 0.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_tilihuifu": {
   "ch": "角色在战斗中每秒可自动恢复的体力值。",
   "en": "The amount of vitality automatically recovered per second during battle.",
-  "pt": ""
+  "pt": "A quantidade de vitalidade recuperada automaticamente por segundo durante a batalha.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_tuzizhi": {
   "ch": "每1点土灵根可使土属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Earth Root will +1 your Earth damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Raiz de Terra aumentará seu dano de Terra em 1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_weili": {
   "ch": "角色的伤害加成百分比，角色造成的大部分伤害都可受到此百分比的加成（此加成对部分特殊伤害无效，如百分比体力伤害等）。",
   "en": "The bonus percent of your character's damage. It applies to most types of damage you dealt, but is ineffective to some special damage types like percent damage to Vitality.",
-  "pt": ""
+  "pt": "O bônus percentual do dano do seu personagem. Ele se aplica à maioria dos tipos de dano que você causar, mas é ineficaz para alguns tipos de dano especiais, como dano percentual à Vitalidade.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_xingyun": {
   "ch": "此属性越高，角色在战斗及商店中出现高品质的道具概率越高。",
   "en": "Indicates your character's chance to find high-quality items from the battlefield and the store.",
-  "pt": ""
+  "pt": "Indica a chance do seu personagem encontrar itens de alta qualidade no campo de batalha e na loja.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_yidongsudu": {
   "ch": "角色在战斗中的移动速度。",
   "en": "Your character's movement speed during combat.",
-  "pt": ""
+  "pt": "A velocidade de movimento do seu personagem durante o combate.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_zhangzizhi": {
   "ch": "每1点掌法资质可使掌法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Palm will +1 your Palm damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Palma aumentará seu dano de Palma em 1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_zhizizhi": {
   "ch": "每1点指法资质可使指法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Finger will +1 your Finger damage. Capped at 99.",
-  "pt": ""
+  "pt": "Cada 1 Dedo aumentará seu dano de Dedo em 1. Limitado a 99.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_zizhicashu": {
   "ch": "0",
   "en": "0",
-  "pt": ""
+  "pt": "0",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_BXshuaxinsudu": {
   "ch": "战斗内罐子刷新速度",
   "en": "Pot Respawn Speed",
-  "pt": ""
+  "pt": "Velocidade de Respawn do Pot",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 23 caracteres"
+  ]
  },
  "D_playerInfo_GWdiaoluo": {
   "ch": "道具掉落率:",
   "en": "Item Drop Rate:",
-  "pt": ""
+  "pt": "Taxa de Drop de Item:",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "D_playerInfo_GWjinengweili": {
   "ch": "敌人伤害:",
   "en": "Enemy Damage:",
-  "pt": ""
+  "pt": "Dano do Inimigo:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_GWshuaxinshulaing": {
   "ch": "敌人数量:",
   "en": "Enemies:",
-  "pt": ""
+  "pt": "Inimigos:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_GWyidongsudu": {
   "ch": "敌人移动速度:",
   "en": "Enemy Agility:",
-  "pt": ""
+  "pt": "Agilidade do Inimigo:",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "D_playerInfo_JNDDchuantoucishu": {
   "ch": "弹道穿透次数:",
   "en": "Projectile Penetrations:",
-  "pt": ""
+  "pt": "Penetrações do Projétil:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNDDjituijuli": {
   "ch": "弹道击退距离",
   "en": "Projectile Knock-back",
-  "pt": ""
+  "pt": "Recuo do Projétil",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNDDshecheng": {
   "ch": "弹道射程:",
   "en": "Projectile Range:",
-  "pt": ""
+  "pt": "Alcance do Projétil:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNDDshuliang": {
   "ch": "弹道数量加成:",
   "en": "Projectile Amount Bonus:",
-  "pt": ""
+  "pt": "Bônus de Quantidade de Projétil:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNDDsudu": {
   "ch": "弹道速度",
   "en": "Projectile Speed",
-  "pt": ""
+  "pt": "Velocidade do Projétil",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "D_playerInfo_JNDDtanshecishu": {
   "ch": "弹道弹射次数:",
   "en": "Projectile Bounces:",
-  "pt": ""
+  "pt": "Rebotes do Projétil:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNchixu": {
   "ch": "技能持续时间:",
   "en": "Skill Duration:",
-  "pt": ""
+  "pt": "Duração da Habilidade:",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "D_playerInfo_JNfanwei": {
   "ch": "技能范围:",
   "en": "Skill Radius:",
-  "pt": ""
+  "pt": "Raio da Habilidade:",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "D_playerInfo_JNxixue": {
   "ch": "吸血概率",
   "en": "Leech Chance",
-  "pt": ""
+  "pt": "Chance de Roubo de Vida",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "D_playerInfo_JNxixuebilv": {
   "ch": "吸血比例",
   "en": "Leech Rate",
-  "pt": ""
+  "pt": "Taxa de Roubo de Vida",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 21 > 13 caracteres"
+  ]
  },
  "D_playerInfo_SDSXjiage": {
   "ch": "商店刷新价格",
   "en": "Store Refresh Price",
-  "pt": ""
+  "pt": "Preço de Atualização da Loja",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "D_playerInfo_SDjiage": {
   "ch": "商店价格比例:",
   "en": "Store Price Modifier:",
-  "pt": ""
+  "pt": "Modificador de Preço da Loja:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_SDshuaxincishu": {
   "ch": "商店免费刷新:",
   "en": "Free Store Refreshes:",
-  "pt": ""
+  "pt": "Atualizações Grátis da Loja:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_ZHWchixu": {
   "ch": "召唤物持续时间:",
   "en": "Summoned Unit Duration:",
-  "pt": ""
+  "pt": "Duração da Unidade Invocada:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_ZHWgongsu": {
   "ch": "召唤物攻击速度",
   "en": "Summoned Unit Attack Speed",
-  "pt": ""
+  "pt": "Velocidade de Ataque da Unidade Invocada",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_ZHWweili": {
   "ch": "召唤物伤害加成:",
   "en": "Summoned Unit Damage Bonus:",
-  "pt": ""
+  "pt": "Bônus de Dano da Unidade Invocada:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_baoji": {
   "ch": "暴击概率",
   "en": "Crit Chance",
-  "pt": ""
+  "pt": "Chance Crítica",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_baojibeilv": {
   "ch": "暴击倍率",
   "en": "Crit Rate",
-  "pt": ""
+  "pt": "Taxa Crítica",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "glossário: 暴击倍率 → Multiplicador Crítico"
+  ]
  },
  "D_playerInfo_daozizhi": {
   "ch": "刀资质",
   "en": "Blade",
-  "pt": ""
+  "pt": "Lâmina",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_enemyMaxhpfix": {
   "ch": "敌人最大体力:",
   "en": "Enemy Max Vitality:",
-  "pt": ""
+  "pt": "Vitalidade Máxima do Inimigo:",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 29 > 25 caracteres"
+  ]
  },
  "D_playerInfo_fangyu": {
   "ch": "防御",
   "en": "DEF",
-  "pt": ""
+  "pt": "DEF",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_fengzizh": {
   "ch": "风灵根",
   "en": "Wind Root",
-  "pt": ""
+  "pt": "Raiz de Vento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "D_playerInfo_gongji": {
   "ch": "攻击",
   "en": "ATK",
-  "pt": ""
+  "pt": "ATQ",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_gongjisudu": {
   "ch": "攻击速度",
   "en": "Attack Speed",
-  "pt": ""
+  "pt": "Velocidade de Ataque",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "D_playerInfo_huozizhi": {
   "ch": "火灵根",
   "en": "Fire Root",
-  "pt": ""
+  "pt": "Raiz de Fogo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_jianzizhi": {
   "ch": "剑资质",
   "en": "Sword",
-  "pt": ""
+  "pt": "Espada",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_jingyanbeilv": {
   "ch": "修为加成:",
   "en": "EXP Bonus:",
-  "pt": ""
+  "pt": "Bônus de EXP:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_jituijuli": {
   "ch": "击退距离",
   "en": "Knock-back Distance",
-  "pt": ""
+  "pt": "Distância de Recuo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_kangxing": {
   "ch": "抗性",
   "en": "Resistance",
-  "pt": ""
+  "pt": "Resistência",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_kangxingcanshu": {
   "ch": "抗性参数",
   "en": "Resistance Modifier",
-  "pt": ""
+  "pt": "Modificador de Resistência",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "D_playerInfo_leizizhi": {
   "ch": "雷灵根",
   "en": "Lightning Root",
-  "pt": ""
+  "pt": "Raiz de Relâmpago",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_muzizhi": {
   "ch": "木灵根",
   "en": "Wood Root",
-  "pt": ""
+  "pt": "Raiz de Madeira",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "D_playerInfo_qiangzizhi": {
   "ch": "枪资质",
   "en": "Spear",
-  "pt": ""
+  "pt": "Lança",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_quanzizhi": {
   "ch": "拳资质",
   "en": "Fist",
-  "pt": ""
+  "pt": "Punho",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_shanbi": {
   "ch": "闪避",
   "en": "Dodge",
-  "pt": ""
+  "pt": "Esquiva",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_shiqufanwei": {
   "ch": "拾取道具范围:",
   "en": "Item Pick-up Radius:",
-  "pt": ""
+  "pt": "Raio de Coleta de Itens:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_shuizizhi": {
   "ch": "水灵根",
   "en": "Water Root",
-  "pt": ""
+  "pt": "Raiz de Água",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tili": {
   "ch": "体力",
   "en": "Vitality",
-  "pt": ""
+  "pt": "Vitalidade",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tilihuifu": {
   "ch": "体力回复",
   "en": "Vitality Restoration",
-  "pt": ""
+  "pt": "Recuperação de Vitalidade",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tilishangxian": {
   "ch": "体力上限",
   "en": "Max Vitality",
-  "pt": ""
+  "pt": "Vitalidade Máx.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tuzizhi": {
   "ch": "土灵根",
   "en": "Earth Root",
-  "pt": ""
+  "pt": "Raiz de Terra",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_weili": {
   "ch": "伤害加成",
   "en": "Damage Bonus",
-  "pt": ""
+  "pt": "Bônus de Dano",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_xingyun": {
   "ch": "幸运",
   "en": "Luck",
-  "pt": ""
+  "pt": "Sorte",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_yidongsudu": {
   "ch": "移动速度",
   "en": "Agility",
-  "pt": ""
+  "pt": "Agilidade",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_zhangzizhi": {
   "ch": "掌资质",
   "en": "Palm",
-  "pt": ""
+  "pt": "Palma",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_zhizizhi": {
   "ch": "指资质",
   "en": "Finger",
-  "pt": ""
+  "pt": "Dedo",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_zizhicashu": {
   "ch": "资质参数",
   "en": "Stats Modifier",
-  "pt": ""
+  "pt": "Modificador de Atributos",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "D_record_jinengshanghai": {
   "ch": "总伤害",
   "en": "Total Damage",
-  "pt": ""
+  "pt": "Dano Total",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_record_zhaohuanwu": {
   "ch": "召唤物",
   "en": "Summoned Units",
-  "pt": ""
+  "pt": "Unidades Invocadas",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_role_grade_fullName1": {
   "ch": "炼气前期",
   "en": "Qi Refining Early",
-  "pt": ""
+  "pt": "Refinamento de Qi Inicial",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 25 > 23 caracteres"
+  ]
  },
  "D_role_grade_fullName10": {
   "ch": "金丹前期",
   "en": "Golden Core Early",
-  "pt": ""
+  "pt": "Núcleo Dourado Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName11": {
   "ch": "金丹中期",
   "en": "Golden Core Middle",
-  "pt": ""
+  "pt": "Núcleo Dourado Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName12": {
   "ch": "金丹后期",
   "en": "Golden Core Late",
-  "pt": ""
+  "pt": "Núcleo Dourado Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName13": {
   "ch": "具灵前期",
   "en": "Origin Spirit Early",
-  "pt": ""
+  "pt": "Espírito de Origem Inicial",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "D_role_grade_fullName14": {
   "ch": "具灵中期",
   "en": "Origin Spirit Middle",
-  "pt": ""
+  "pt": "Espírito de Origem Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName15": {
   "ch": "具灵后期",
   "en": "Origin Spirit Late",
-  "pt": ""
+  "pt": "Espírito de Origem Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName16": {
   "ch": "元婴前期",
   "en": "Nascent Soul Early",
-  "pt": ""
+  "pt": "Alma Nascente Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName17": {
   "ch": "元婴中期",
   "en": "Nascent Soul Middle",
-  "pt": ""
+  "pt": "Alma Nascente Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName18": {
   "ch": "元婴后期",
   "en": "Nascent Soul Late",
-  "pt": ""
+  "pt": "Alma Nascente Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName19": {
   "ch": "化神前期",
   "en": "Soul Formation Early",
-  "pt": ""
+  "pt": "Formação da Alma Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName2": {
   "ch": "炼气中期",
   "en": "Qi Refining Middle",
-  "pt": ""
+  "pt": "Refinamento de Qi Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName20": {
   "ch": "化神中期",
   "en": "Soul Formation Middle",
-  "pt": ""
+  "pt": "Formação da Alma Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName21": {
   "ch": "化神后期",
   "en": "Soul Formation Late",
-  "pt": ""
+  "pt": "Formação da Alma Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName22": {
   "ch": "悟道前期",
   "en": "Enlightenment Early",
-  "pt": ""
+  "pt": "Iluminação Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName23": {
   "ch": "悟道中期",
   "en": "Enlightenment Middle",
-  "pt": ""
+  "pt": "Iluminação Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName24": {
   "ch": "悟道后期",
   "en": "Enlightenment Late",
-  "pt": ""
+  "pt": "Iluminação Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName25": {
   "ch": "羽化前期",
   "en": "Reborn Early",
-  "pt": ""
+  "pt": "Renascimento Inicial",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 16 caracteres"
+  ]
  },
  "D_role_grade_fullName26": {
   "ch": "羽化中期",
   "en": "Reborn Middle",
-  "pt": ""
+  "pt": "Renascimento Médio",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "D_role_grade_fullName27": {
   "ch": "羽化后期",
   "en": "Reborn Late",
-  "pt": ""
+  "pt": "Renascimento Final",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "D_role_grade_fullName28": {
   "ch": "登仙前期",
   "en": "Transcendent Early",
-  "pt": ""
+  "pt": "Transcendência Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName29": {
   "ch": "登仙中期",
   "en": "Transcendent Middle",
-  "pt": ""
+  "pt": "Transcendência Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName3": {
   "ch": "炼气后期",
   "en": "Qi Refining Late",
-  "pt": ""
+  "pt": "Refinamento de Qi Final",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 21 caracteres"
+  ]
  },
  "D_role_grade_fullName30": {
   "ch": "登仙后期",
   "en": "Transcendent Late",
-  "pt": ""
+  "pt": "Transcendência Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName4": {
   "ch": "筑基前期",
   "en": "Foundation Early",
-  "pt": ""
+  "pt": "Fundação Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName5": {
   "ch": "筑基中期",
   "en": "Foundation Middle",
-  "pt": ""
+  "pt": "Fundação Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName6": {
   "ch": "筑基后期",
   "en": "Foundation Late",
-  "pt": ""
+  "pt": "Fundação Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName7": {
   "ch": "结晶前期",
   "en": "Qi Condensation Early",
-  "pt": ""
+  "pt": "Condensação de Qi Inicial",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName8": {
   "ch": "结晶中期",
   "en": "Qi Condensation Middle",
-  "pt": ""
+  "pt": "Condensação de Qi Médio",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName9": {
   "ch": "结晶后期",
   "en": "Qi Condensation Late",
-  "pt": ""
+  "pt": "Condensação de Qi Final",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name1": {
   "ch": "炼气",
   "en": "Qi Refining",
-  "pt": ""
+  "pt": "Refinamento de Qi",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "D_role_grade_name10": {
   "ch": "金丹",
   "en": "Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name11": {
   "ch": "金丹",
   "en": "Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name12": {
   "ch": "金丹",
   "en": "Golden Core",
-  "pt": ""
+  "pt": "Núcleo Dourado",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name13": {
   "ch": "具灵",
   "en": "Origin Spirit",
-  "pt": ""
+  "pt": "Espírito de Origem",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "D_role_grade_name14": {
   "ch": "具灵",
   "en": "Origin Spirit",
-  "pt": ""
+  "pt": "Espírito de Origem",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "D_role_grade_name15": {
   "ch": "具灵",
   "en": "Origin Spirit",
-  "pt": ""
+  "pt": "Espírito de Origem",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "D_role_grade_name16": {
   "ch": "元婴",
   "en": "Nascent Soul",
-  "pt": ""
+  "pt": "Alma Nascente",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name17": {
   "ch": "元婴",
   "en": "Nascent Soul",
-  "pt": ""
+  "pt": "Alma Nascente",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name18": {
   "ch": "元婴",
   "en": "Nascent Soul",
-  "pt": ""
+  "pt": "Alma Nascente",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name19": {
   "ch": "化神",
   "en": "Soul Formation",
-  "pt": ""
+  "pt": "Formação da Alma",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name2": {
   "ch": "炼气",
   "en": "Qi Refining",
-  "pt": ""
+  "pt": "Refinamento de Qi",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "D_role_grade_name20": {
   "ch": "化神",
   "en": "Soul Formation",
-  "pt": ""
+  "pt": "Formação da Alma",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name21": {
   "ch": "化神",
   "en": "Soul Formation",
-  "pt": ""
+  "pt": "Formação da Alma",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name22": {
   "ch": "悟道",
   "en": "Enlightenment",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name23": {
   "ch": "悟道",
   "en": "Enlightenment",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name24": {
   "ch": "悟道",
   "en": "Enlightenment",
-  "pt": ""
+  "pt": "Iluminação",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name25": {
   "ch": "羽化",
   "en": "Reborn",
-  "pt": ""
+  "pt": "Renascimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 9 caracteres"
+  ]
  },
  "D_role_grade_name26": {
   "ch": "羽化",
   "en": "Reborn",
-  "pt": ""
+  "pt": "Renascimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 9 caracteres"
+  ]
  },
  "D_role_grade_name27": {
   "ch": "羽化",
   "en": "Reborn",
-  "pt": ""
+  "pt": "Renascimento",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 12 > 9 caracteres"
+  ]
  },
  "D_role_grade_name28": {
   "ch": "登仙",
   "en": "Transcendent",
-  "pt": ""
+  "pt": "Transcendência",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name29": {
   "ch": "登仙",
   "en": "Transcendent",
-  "pt": ""
+  "pt": "Transcendência",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name3": {
   "ch": "炼气",
   "en": "Qi Refining",
-  "pt": ""
+  "pt": "Refinamento de Qi",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 17 > 15 caracteres"
+  ]
  },
  "D_role_grade_name30": {
   "ch": "登仙",
   "en": "Transcendent",
-  "pt": ""
+  "pt": "Transcendência",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name4": {
   "ch": "筑基",
   "en": "Foundation",
-  "pt": ""
+  "pt": "Fundação",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name5": {
   "ch": "筑基",
   "en": "Foundation",
-  "pt": ""
+  "pt": "Fundação",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name6": {
   "ch": "筑基",
   "en": "Foundation",
-  "pt": ""
+  "pt": "Fundação",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name7": {
   "ch": "结晶",
   "en": "Qi Condensation",
-  "pt": ""
+  "pt": "Condensação de Qi",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name8": {
   "ch": "结晶",
   "en": "Qi Condensation",
-  "pt": ""
+  "pt": "Condensação de Qi",
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name9": {
   "ch": "结晶",
   "en": "Qi Condensation",
-  "pt": ""
+  "pt": "Condensação de Qi",
+  "auto": "local/hy-mt2"
  },
  "D_selAttr_xuanzeshuxing": {
   "ch": "选择提升属性",
   "en": "Attribute to Boost",
-  "pt": ""
+  "pt": "Atributo para Aumentar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selFate_tupojingjie": {
   "ch": "突破{0}",
   "en": "{0}",
-  "pt": ""
+  "pt": "{0}",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selFate_xuanzeqiyun": {
   "ch": "选择逆天改命",
   "en": "Rewrite Destiny",
-  "pt": ""
+  "pt": "Reescrever o Destino",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selProp_lianhuadaoju": {
   "ch": "出售",
   "en": "Sell",
-  "pt": ""
+  "pt": "Vender",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selProp_shouxiadaoju": {
   "ch": "收下",
   "en": "Collect",
-  "pt": ""
+  "pt": "Receber",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_jinengtishi": {
   "ch": "按空格释放",
   "en": "Press SPACE to cast",
-  "pt": ""
+  "pt": "Pressione ESPAÇO para lançar",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 28 > 25 caracteres"
+  ]
  },
  "D_selRole_kaishiyouxi": {
   "ch": "开始游戏",
   "en": "Start",
-  "pt": ""
+  "pt": "Iniciar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_weijiesuo": {
   "ch": "角色暂未解锁！",
   "en": "You need to unlock the character first.",
-  "pt": ""
+  "pt": "Você precisa desbloquear o personagem primeiro.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_wujinmoshi": {
   "ch": "无尽模式",
   "en": "Endless Mode",
-  "pt": ""
+  "pt": "Modo Infinito",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_xiantianqiyun": {
   "ch": "先天气运",
   "en": "Destiny (Nature)",
-  "pt": ""
+  "pt": "Destino (Natureza)",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_xuanzenandu": {
   "ch": "选择难度",
   "en": "Select Difficulty",
-  "pt": ""
+  "pt": "Selecionar Dificuldade",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_xuanzjuese": {
   "ch": "选择角色",
   "en": "Select Character",
-  "pt": ""
+  "pt": "Selecionar Personagem",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_zhudongjineng": {
   "ch": "神通",
   "en": "Skills",
-  "pt": ""
+  "pt": "Habilidades",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 11 > 9 caracteres"
+  ]
  },
  "D_selSkill_tishi": {
   "ch": "请选择一个初始技能！",
   "en": "Please select a skill.",
-  "pt": ""
+  "pt": "Por favor, selecione uma habilidade.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selSkill_title": {
   "ch": "初始技能",
   "en": "Initial Skill",
-  "pt": ""
+  "pt": "Habilidade Inicial",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "D_storePropName_10001": {
   "ch": "劲",
   "en": "Move",
-  "pt": ""
+  "pt": "Movimento",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "largura: 9 > 7 caracteres"
+  ]
  },
  "D_storePropName_20001": {
   "ch": "经",
   "en": "Sutra",
-  "pt": ""
+  "pt": "Sutra",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisar": [
+   "omni ok=false"
+  ]
  },
  "D_storePropName_30001": {
   "ch": "式",
   "en": "Technique",
-  "pt": ""
+  "pt": "Técnica",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_40001": {
   "ch": "诀",
   "en": "Guide",
-  "pt": ""
+  "pt": "Guia",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_50001": {
   "ch": "录",
   "en": "Compendium",
-  "pt": ""
+  "pt": "Compendio",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_60001": {
   "ch": "秘卷",
   "en": "Secret Manual",
-  "pt": ""
+  "pt": "Manual Secreto",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_70001": {
   "ch": "神功",
   "en": "Divine Power",
-  "pt": ""
+  "pt": "Poder Divino",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_80001": {
   "ch": "大法",
   "en": "Mastery",
-  "pt": ""
+  "pt": "Mestria",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_bossWarning": {
   "ch": "大妖兽将于{0}关后来袭",
   "en": "Mythical Beast Appears After {0} Levels",
-  "pt": ""
+  "pt": "Fera Mítica Aparece Após {0} Níveis",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_chiyoulingshi": {
   "ch": "持有灵石",
   "en": "Spirit Stones:",
-  "pt": ""
+  "pt": "Pedras Espirituais:",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_huodedaoju": {
   "ch": "获得道具",
   "en": "Items",
-  "pt": ""
+  "pt": "Itens",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_jinengshuliang": {
   "ch": "技能数量达到上限，遗忘已拥有的技能后，可购买新技能",
   "en": "You have learned too many skills. Unlearn a skill to purchase a new one.",
-  "pt": ""
+  "pt": "Você aprendeu muitas habilidades. Esqueça uma habilidade para comprar uma nova.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_keyiwangjineng": {
   "ch": "遗忘技能可返还部分灵石",
   "en": "Unlearn a Skill may refund you some Spirit Stones",
-  "pt": ""
+  "pt": "Esquecer uma Habilidade pode devolver algumas Pedras Espirituais",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_lingshibuzu": {
   "ch": "灵石不足",
   "en": "Not enough Spirit Stones",
-  "pt": ""
+  "pt": "Pedras Espirituais insuficientes",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_shuaxin": {
   "ch": "刷新",
   "en": "Refresh",
-  "pt": ""
+  "pt": "Atualizar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_title": {
   "ch": "无名界碑",
   "en": "Cryptic Milestone",
-  "pt": ""
+  "pt": "Marco Misterioso",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_wujineng": {
   "ch": "未获得此技能，无法购买！",
   "en": "Skill not acquired. Purchase unavailable.",
-  "pt": ""
+  "pt": "Habilidade não adquirida. Compra indisponível.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_yiwang": {
   "ch": "遗忘",
   "en": "Unlearn",
-  "pt": ""
+  "pt": "Esquecer",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_yiwangtishi": {
   "ch": "是否遗忘此技能？",
   "en": "Unlearn the skill?",
-  "pt": ""
+  "pt": "Esquecer a habilidade?",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_store_zhandou": {
   "ch": "战斗",
   "en": "Fight",
-  "pt": ""
+  "pt": "Lutar",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_tip1": {
   "ch": "仅发挥{0}效果，现在该属性生效数值为{1}",
   "en": "The attribute is {0} less effective. Now it will be calculated as {1}",
-  "pt": ""
+  "pt": "O atributo é {0} menos eficaz. Agora será calculado como {1}",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_tip2": {
   "ch": "可发挥{0}效果，现在该属性生效数值为{1}",
   "en": "The attribute is {0} more effective. Now it will be calculated as {1}",
-  "pt": ""
+  "pt": "O atributo é {0} mais eficaz. Agora será calculado como {1}",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_tip3": {
   "ch": "上一轮战斗中未拾取的灵石，下次拾取灵石时，将会被消耗此处累计的灵石并获得双倍灵石。",
   "en": "This is the amount of the Spirit Stones not picked in the previous battle. They will be consumed when you pick up Spirit Stones the next time and will double your amount of Spirit Stones picked.",
-  "pt": ""
+  "pt": "Esta é a quantidade de Pedras Espirituais não coletadas na batalha anterior. Elas serão consumidas quando você coletar Pedras Espirituais na próxima vez e dobrarão a quantidade de Pedras Espirituais coletadas.",
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_tip4": {
   "ch": "商店会出售技能词条、心法词条\n角色可装备4个技能（特殊角色除外），每个技能的词条最多5个，已购买的技能可以回收\n角色装备心法数量无上限\n随着关卡的推进，商店出售的物品价格会提高\n消耗灵石刷新商店出售的物品，被锁定的道具不会被刷新\n随着刷新次数的增加，单次刷新的价格也会上涨\n锁定状态会持续存在，不会因为进入下一关而结束，需要手动取消锁定",
   "en": "You may buy Skill Affixes and Mind Skill Affixes in the store.\nUnless playing with special characters, you may equip 4 Skills at the same time, each with 5 Affixes at most. You may Unlearn acquired skills.\nThere is no limit to the amount of equipped Mind Skills.\nThe price in the store will increase as you press onward.\nYou may pay Spirit Stones to refresh the store's inventory list. Locked items will be retained in every refresh.\nThe price for each refresh will also increase with the amount of refreshes made.\nLocked items need to be Unlocked manually. Clearing a level will not get them unlocked.",
-  "pt": ""
+  "pt": "Você pode comprar Habilidade de Afixos e Técnica Mental de Afixos na loja.\nA menos que esteja jogando com personagens especiais, você pode equipar 4 Habilidades ao mesmo tempo, cada uma com até 5 Afixos. Você pode desaprender habilidades adquiridas.\nNão há limite para a quantidade de Técnicas Mentais equipadas.\nO preço na loja aumentará conforme você avançar.\nVocê pode pagar Pedras Espirituais para atualizar a lista de itens da loja. Itens bloqueados serão retidos em cada atualização.\nO preço para cada atualização também aumentará com a quantidade de atualizações feitas.\nItens bloqueados precisam ser desbloqueados manualmente. Limpar um nível não os desbloqueará.",
+  "auto": "cohere/command-a-vision-07-2025"
  }
 }

@@ -2,721 +2,910 @@
  "modCondition_abClose_value3Name": {
   "ch": "亲密度比较的值",
   "en": "Affinity value to compare",
-  "pt": ""
+  "pt": "Valor de Afinidade para comparação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abGrade_value1Name": {
   "ch": "角色1",
   "en": "Character 1",
-  "pt": ""
+  "pt": "Personagem 1",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abGrade_value2Name": {
   "ch": "角色2",
   "en": "Character 2",
-  "pt": ""
+  "pt": "Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abGrade_value3Name": {
   "ch": "境界差值最小值（角色1境界减去角色2境界）",
   "en": "Realm difference min value (character 1 realm minus character 2 realm)",
-  "pt": ""
+  "pt": "Valor mínimo da diferença entre Reinos (Reino do personagem 1 menos Reino do personagem 2)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abGrade_value4Name": {
   "ch": "境界差值最大值（角色1境界减去角色2境界）",
   "en": "Realm difference max value (character 1 realm minus character 2 realm)",
-  "pt": ""
+  "pt": "Valor máximo da diferença entre Reinos (Reino do personagem 1 menos Reino do personagem 2)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abRelationCoincide_value1Name": {
   "ch": "玩家的关系",
   "en": "Player's relationship",
-  "pt": ""
+  "pt": "Relacionamento do jogador",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abRelationCoincide_value2Name": {
   "ch": "NPC-A的关系",
   "en": "NPC-A's relationship",
-  "pt": ""
+  "pt": "Relacionamento do NPC-A",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_abSchoolClose_value3Name": {
   "ch": "宗门亲密度值（大于等于）",
   "en": "Sect affinity value (≥)",
-  "pt": ""
+  "pt": "Valor de afinidade da Seita (≥)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abSchoolPost_value1Name": {
   "ch": "角色1",
   "en": "Character 1",
-  "pt": ""
+  "pt": "Personagem 1",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abSchoolPost_value2Name": {
   "ch": "角色2",
   "en": "Character 2",
-  "pt": ""
+  "pt": "Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modCondition_abSchoolPost_value3Name": {
   "ch": "宗门职位差值最小值（角色1宗门职位减去角色2宗门职位）",
   "en": "Sect position difference min value (character sect position minus character 2 sect position)",
-  "pt": ""
+  "pt": "Valor mínimo da diferença de posição na Seita (posição na Seita do personagem 1 menos posição na Seita do personagem 2)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_abSchoolPost_value4Name": {
   "ch": "宗门职位差值最大值（角色1宗门职位减去角色2宗门职位）",
   "en": "Sect position difference max value (character sect position minus character 2 sect position)",
-  "pt": ""
+  "pt": "Valor máximo da diferença de posição na Seita (posição na Seita do personagem 1 menos posição na Seita do personagem 2)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_abSchoolPost_value5Name": {
   "ch": "宗门职位参考（只是数值参考，无需选择）",
   "en": "Sect position reference (for reference only. no need to select one)",
-  "pt": ""
+  "pt": "Referência de posição da Seita (apenas para referência; não é necessário selecionar uma)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_accordMethodEquip_value2Name": {
   "ch": "判断的值",
   "en": "Value determined",
-  "pt": ""
+  "pt": "Valor determinado",
+  "auto": "local/hy-mt2"
  },
  "modCondition_appellationNum_value3Name": {
   "ch": "比较道号数量",
   "en": "Compare no. of Taoist Titles",
-  "pt": ""
+  "pt": "Compare o número de Títulos Daoístas",
+  "auto": "local/hy-mt2"
  },
  "modCondition_appellationUnlock_value3Name": {
   "ch": "是否拥有过",
   "en": "Once owned the Taoist Title?",
-  "pt": ""
+  "pt": "Já teve o Título Daoísta?",
+  "auto": "local/hy-mt2"
  },
  "modCondition_areaEvant_value4Name": {
   "ch": "事件有没有存在于地图上",
   "en": "Event is not present on the map",
-  "pt": ""
+  "pt": "O evento não está presente no mapa",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_area_value1Name": {
   "ch": "指定区域（多选，在其中一个区域即可）",
   "en": "Specified region (multi-select, only needs to be in one of the regions)",
-  "pt": ""
+  "pt": "Região especificada (seleção múltipla; basta estar em uma das regiões)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_askAppellationType_value3Name": {
   "ch": "是否拥有",
   "en": "Owned or not",
-  "pt": ""
+  "pt": "Possui ou não",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_askRelationship_value4Name": {
   "ch": "多少个月后",
   "en": "After how many months",
-  "pt": ""
+  "pt": "Após quantos meses",
+  "auto": "local/hy-mt2"
  },
  "modCondition_asrtificeCount_value4Name": {
   "ch": "比较次数",
   "en": "No. of times to compare",
-  "pt": ""
+  "pt": "Número de vezes para comparar",
+  "auto": "local/hy-mt2"
  },
  "modCondition_attrCompare_value2Desc": {
   "ch": "如果选择了属性组里不存在的属性，则条件永远不会成立。（体灵念请选择当前体灵念）",
   "en": "When a stat not in the stat group is selected, the condition will never be met. (Please select the current vitality/energy/focus)",
-  "pt": ""
+  "pt": "Quando um atributo que não pertence ao grupo de atributos é selecionado, a condição nunca será atendida. (Por favor, selecione a vitalidade/energia/foco atual.)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_attrCompare_value2Name": {
   "ch": "属性组里最高的是什么属性",
   "en": "What's the highest stat in the stat group",
-  "pt": ""
+  "pt": "Qual é o maior atributo do grupo de atributos?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_attr_value2Name": {
   "ch": "属性类型",
   "en": "Elemental type",
-  "pt": ""
+  "pt": "Tipo elemental",
+  "auto": "local/hy-mt2"
  },
  "modCondition_attr_value3Name": {
   "ch": "属性最小值",
   "en": "Stat min value",
-  "pt": ""
+  "pt": "Valor mínimo do atributo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "modCondition_attr_value4Name": {
   "ch": "属性最大值",
   "en": "Stat max value",
-  "pt": ""
+  "pt": "Valor máximo do atributo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 24 > 19 caracteres"
+  ]
  },
  "modCondition_attribute_value1Name": {
   "ch": "指定的属性",
   "en": "Specified stat",
-  "pt": ""
+  "pt": "Atributo especificado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "modCondition_attribute_value2Name": {
   "ch": "属性需求最小值",
   "en": "Required stat min value",
-  "pt": ""
+  "pt": "Valor mínimo do atributo requerido",
+  "auto": "local/hy-mt2"
  },
  "modCondition_attribute_value3Name": {
   "ch": "属性需求最大值",
   "en": "Required stat max value",
-  "pt": ""
+  "pt": "Valor máximo do atributo requerido",
+  "auto": "local/hy-mt2"
  },
  "modCondition_attrs_value1Name": {
   "ch": "属性总和大于等于指定值",
   "en": "Stats Sum not lower than the set value",
-  "pt": ""
+  "pt": "A soma dos Atributos não deve ser inferior ao valor definido.",
+  "auto": "local/hy-mt2"
  },
  "modCondition_basCompare_value2Desc": {
   "ch": "选择的属性如果不在对比组里，则条件永远不达成。（对比组属性数值从高到低排序）",
   "en": "When a stat not in the comparison group is selected, the condition will never be met. (The stats in the comparison groups is sorted from high to low)",
-  "pt": ""
+  "pt": "Quando um atributo que não pertence ao grupo de comparação é selecionado, a condição nunca será atendida. (Os atributos nos grupos de comparação são ordenados do maior para o menor valor)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_basCompare_value2Name": {
   "ch": "对比的属性",
   "en": "Compared stats",
-  "pt": ""
+  "pt": "Atributos comparados",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "modCondition_basCompare_value3Name": {
   "ch": "最高排名（1代表第一名）",
   "en": "Highest rank (1 means 1st place)",
-  "pt": ""
+  "pt": "Maior classificação (1 significa 1o lugar)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_basCompare_value4Name": {
   "ch": "最低排名（2代表第二名）",
   "en": "Lowest rank (2 means 2nd place)",
-  "pt": ""
+  "pt": "Posição mais baixa (2 significa 2o lugar)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_baseAttr_value3Name": {
   "ch": "最小值",
   "en": "Min value",
-  "pt": ""
+  "pt": "Valor mínimo",
+  "auto": "local/hy-mt2"
  },
  "modCondition_baseAttr_value4Name": {
   "ch": "最大值",
   "en": "Max value",
-  "pt": ""
+  "pt": "Valor máximo",
+  "auto": "local/hy-mt2"
  },
  "modCondition_bcRelationType_value1Desc": {
   "ch": "例如：查找NPC-B的所有道侣列表，判定里面有某一个NPC是NPC-A的夫妻。",
   "en": "For example: Search in NPC-B's Partner list for an NPC who is NPC-A's Spouse.",
-  "pt": ""
+  "pt": "Por exemplo: Pesquise na lista de Parceiros do NPC-B por um NPC que seja Cônjuge do NPC-A.",
+  "auto": "local/hy-mt2"
  },
  "modCondition_bcRelationType_value1Name": {
   "ch": "查找NPC-B指定关系的所有NPC",
   "en": "Searches for all NPCs with the specified relationship with NPC-B",
-  "pt": ""
+  "pt": "Busca por todos os NPCs com a relação especificada com o NPC-B",
+  "auto": "local/hy-mt2"
  },
  "modCondition_bcRelationType_value2Name": {
   "ch": "是否有某个NPC和NPC-A是指定关系",
   "en": "If there is an NPC with the specified relationship with NPC-A",
-  "pt": ""
+  "pt": "Se houver um NPC com o relacionamento especificado com o NPC-A",
+  "auto": "local/hy-mt2"
  },
  "modCondition_blockElement_value2Name": {
   "ch": "数值最小值",
   "en": "Min value",
-  "pt": ""
+  "pt": "Valor mínimo",
+  "auto": "local/hy-mt2"
  },
  "modCondition_blockElement_value3Name": {
   "ch": "数值最大值",
   "en": "Max value",
-  "pt": ""
+  "pt": "Valor máximo",
+  "auto": "local/hy-mt2"
  },
  "modCondition_blockRange_value1Name": {
   "ch": "大地图X坐标",
   "en": "World map x coordinate",
-  "pt": ""
+  "pt": "Coordenada X do mapa do mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_blockRange_value2Name": {
   "ch": "大地图Y坐标",
   "en": "World map y coordinate",
-  "pt": ""
+  "pt": "Coordenada Y do mapa do mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_blockRange_value3Name": {
   "ch": "棱形半径范围",
   "en": "Radius (diamond shape)",
-  "pt": ""
+  "pt": "Raio (forma de diamante)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_capacity_value1Name": {
   "ch": "最少剩余的格子数量",
   "en": "Minimum number of tiles required",
-  "pt": ""
+  "pt": "Número mínimo de células necessárias",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_championCombo_value3Name": {
   "ch": "比较击杀数量",
   "en": "Compare no. of kills",
-  "pt": ""
+  "pt": "Compare o número de mortes",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_checkAnimaWeapon_value2Name": {
   "ch": "是否拥有",
   "en": "Possesses it?",
-  "pt": ""
+  "pt": "Você o possui?",
+  "auto": "local/hy-mt2"
  },
  "modCondition_compareAttr_value3Desc": {
   "ch": "如果选择百分比，则使用百分比进行比较（如：百分之80的血，比较值则填0-100）",
   "en": "If percentage is chosen, then the check will be made using percentages (e.g. if you want to make a check of \"80% HP\" vs a value, then you should enter a value between 0 to 100 as the value to compare to)",
-  "pt": ""
+  "pt": "Se a porcentagem for selecionada, a verificação será feita utilizando porcentagens (por exemplo, se você quiser verificar se \"80% de HP\" corresponde a um determinado valor, deverá inserir um valor entre 0 e 100 para comparação).",
+  "auto": "local/hy-mt2"
  },
  "modCondition_compareAttr_value3Name": {
   "ch": "判断的数值类型",
   "en": "Value type for making the check",
-  "pt": ""
+  "pt": "Tipo de valor para fazer a verificação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_compareAttr_value4Name": {
   "ch": "比较值",
   "en": "Value to compare to",
-  "pt": ""
+  "pt": "Valor para comparar",
+  "auto": "local/hy-mt2"
  },
  "modCondition_containsArea_value1Name": {
   "ch": "棱形范围大小",
   "en": "Rhombus Area",
-  "pt": ""
+  "pt": "Área do losango",
+  "auto": "local/hy-mt2"
  },
  "modCondition_curExpPercent_value3Name": {
   "ch": "比较百分比",
   "en": "Compare Percentage",
-  "pt": ""
+  "pt": "Comparar Percentual",
+  "auto": "local/hy-mt2"
  },
  "modCondition_curMonthDay_value1Name": {
   "ch": "剩余天数（大于等于）",
   "en": "Remaining days (≥)",
-  "pt": ""
+  "pt": "Dias restantes (≥)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_dialogueCount_value3Name": {
   "ch": "触发次数",
   "en": "Times triggered",
-  "pt": ""
+  "pt": "Vezes acionado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_dialogueTimePeriod_value2Name": {
   "ch": "经过的时间最小值（月）",
   "en": "Time elapsed min value (month)",
-  "pt": ""
+  "pt": "Valor mínimo de tempo decorrido (mês)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_dialogueTimePeriod_value3Name": {
   "ch": "经过的时间最大值（月）",
   "en": "Time elapsed max value (month)",
-  "pt": ""
+  "pt": "Valor máximo de tempo decorrido (mês)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_dialogueTime_value1Name": {
   "ch": "剧情ID",
   "en": "Plot ID",
-  "pt": ""
+  "pt": "ID do Enredo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "modCondition_dialogueTime_value2Name": {
   "ch": "触发过剧情，并过了多长时间（月）",
   "en": "Plot triggered, and time elapsed (month)",
-  "pt": ""
+  "pt": "Enredo acionado e tempo decorrido (mês)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_dialogue_value1Name": {
   "ch": "剧情ID",
   "en": "Plot ID",
-  "pt": ""
+  "pt": "ID do Enredo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "modCondition_doubleTrain_value3Name": {
   "ch": "多少个月后",
   "en": "After how many months",
-  "pt": ""
+  "pt": "Após quantos meses",
+  "auto": "local/hy-mt2"
  },
  "modCondition_downFeatureNum_value2Name": {
   "ch": "拥有气运个数",
   "en": "No. of Destinies owned",
-  "pt": ""
+  "pt": "Número de Destinos possuídos",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_dramaInfoValue_value2Name": {
   "ch": "比较的值",
   "en": "Benchmark Value",
-  "pt": ""
+  "pt": "Valor de referência",
+  "auto": "local/hy-mt2"
  },
  "modCondition_dressCount_value3Name": {
   "ch": "比较服装数量",
   "en": "Compare no. of outfits",
-  "pt": ""
+  "pt": "Compare o número de trajes",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_dungeonDialogue_value1Name": {
   "ch": "剧情ID",
   "en": "Plot ID",
-  "pt": ""
+  "pt": "ID do Enredo",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 12 > 10 caracteres"
+  ]
  },
  "modCondition_dungeonLevel_value1Name": {
   "ch": "等级最小值",
   "en": "Level min value",
-  "pt": ""
+  "pt": "Valor mínimo do nível",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "modCondition_dungeonLevel_value2Name": {
   "ch": "等级最大值",
   "en": "Level max value",
-  "pt": ""
+  "pt": "Valor máximo do nível",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "modCondition_equipMartial_value2Name": {
   "ch": "装备的技能数量",
   "en": "Number of skills equipped",
-  "pt": ""
+  "pt": "Número de habilidades equipadas",
+  "auto": "local/hy-mt2"
  },
  "modCondition_featureTime_value2Name": {
   "ch": "获取气运过了多久（月）",
   "en": "How long time has elapsed after acquiring the destiny (month)",
-  "pt": ""
+  "pt": "Quanto tempo se passou desde a obtenção do destino (em meses)?",
+  "auto": "local/hy-mt2"
  },
  "modCondition_feature_value2Name": {
   "ch": "拥有的气运",
   "en": "Destiny owned",
-  "pt": ""
+  "pt": "Destino possuído",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_fixNpcAddWorld_value1Name": {
   "ch": "指定角色",
   "en": "Specified character",
-  "pt": ""
+  "pt": "Personagem especificado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_fixNpcAddWorld_value2Name": {
   "ch": "是模组创建的哪个NPC",
   "en": "Which NPC generated by the mod",
-  "pt": ""
+  "pt": "Qual NPC é gerado pelo mod",
+  "auto": "local/hy-mt2"
  },
  "modCondition_gameCurYearMonth_value1Name": {
   "ch": "本年最小月份",
   "en": "Earliest month of the year",
-  "pt": ""
+  "pt": "Primeiro mês do ano",
+  "auto": "local/hy-mt2"
  },
  "modCondition_gameCurYearMonth_value2Name": {
   "ch": "本年最大月份",
   "en": "Latest month of the year",
-  "pt": ""
+  "pt": "Último mês do ano",
+  "auto": "local/hy-mt2"
  },
  "modCondition_gameMonth_value1Name": {
   "ch": "游戏时间最小值（月）",
   "en": "Game time min value (month)",
-  "pt": ""
+  "pt": "Valor mínimo de tempo de jogo (mês)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_gameMonth_value2Name": {
   "ch": "游戏时间最大值（月）",
   "en": "Game time max value (month)",
-  "pt": ""
+  "pt": "Valor máximo de tempo de jogo (mês)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_gradePhase_value2Name": {
   "ch": "小境界最小值",
   "en": "Small realm min value",
-  "pt": ""
+  "pt": "Valor mínimo para reino pequeno",
+  "auto": "local/hy-mt2"
  },
  "modCondition_gradePhase_value3Name": {
   "ch": "小境界最大值",
   "en": "Small realm max value",
-  "pt": ""
+  "pt": "Valor máximo para reino pequeno",
+  "auto": "local/hy-mt2"
  },
  "modCondition_grade_value2Name": {
   "ch": "境界最小值",
   "en": "Realm min value",
-  "pt": ""
+  "pt": "Valor mínimo do Reino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "modCondition_grade_value3Name": {
   "ch": "境界最大值",
   "en": "Realm max value",
-  "pt": ""
+  "pt": "Valor máximo do Reino",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "modCondition_heresyCloseCompare_value1Name": {
   "ch": "神秘组织1",
   "en": "Secret Order 1",
-  "pt": ""
+  "pt": "Ordem Secreta 1",
+  "auto": "local/hy-mt2"
  },
  "modCondition_heresyCloseCompare_value2Name": {
   "ch": "神秘组织2",
   "en": "Secret Order 2",
-  "pt": ""
+  "pt": "Ordem Secreta 2",
+  "auto": "local/hy-mt2"
  },
  "modCondition_heresyCloseCompare_value4Name": {
   "ch": "比较的亲密度值",
   "en": "Affinity value to compare to",
-  "pt": ""
+  "pt": "Valor de Afinidade para comparação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_heresyClose_value3Name": {
   "ch": "比较的亲密度值",
   "en": "Affinity value to compare to",
-  "pt": ""
+  "pt": "Valor de Afinidade para comparação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_immortalMethodEquip_value2Name": {
   "ch": "判断的值",
   "en": "Value determined",
-  "pt": ""
+  "pt": "Valor determinado",
+  "auto": "local/hy-mt2"
  },
  "modCondition_immortalPointEquip_value2Name": {
   "ch": "判断的值",
   "en": "Value determined",
-  "pt": ""
+  "pt": "Valor determinado",
+  "auto": "local/hy-mt2"
  },
  "modCondition_immortalPointRemain_value2Name": {
   "ch": "判断的值",
   "en": "Value determined",
-  "pt": ""
+  "pt": "Valor determinado",
+  "auto": "local/hy-mt2"
  },
  "modCondition_isRevealHeresy_value2Name": {
   "ch": "是否被发现",
   "en": "Has been revealed as Secret Order member?",
-  "pt": ""
+  "pt": "Foi revelado como membro da Ordem Secreta?",
+  "auto": "local/hy-mt2"
  },
  "modCondition_isSchoolLevel_value1Desc": {
   "ch": "小宗门的规模永远是1级",
   "en": "The scale of Minor Sect is always Lv.1.",
-  "pt": ""
+  "pt": "A escala da Seita Menor é sempre Nv. 1.",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_isSchoolLevel_value1Name": {
   "ch": "宗门规模（1-5级）",
   "en": "Sect scale (Lv. 1 - 5)",
-  "pt": ""
+  "pt": "Escala da Seita (Nv. 1 - 5)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_isWorldData_value1Name": {
   "ch": "key（标记）",
   "en": "key",
-  "pt": ""
+  "pt": "chave",
+  "auto": "local/hy-mt2"
  },
  "modCondition_isWorldData_value2Name": {
   "ch": "value",
   "en": "value",
-  "pt": ""
+  "pt": "valor",
+  "auto": "local/hy-mt2"
  },
  "modCondition_itemCount_value3Name": {
   "ch": "道具总数量（不算叠加数量，只算个数）",
   "en": "Total number of items (stacked items count as one)",
-  "pt": ""
+  "pt": "Número total de itens (itens empilhados contam como um só)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_itemCount_value4Name": {
   "ch": "对比的值",
   "en": "Compared Values",
-  "pt": ""
+  "pt": "Valores Comparados",
+  "auto": "local/hy-mt2"
  },
  "modCondition_itemType_value2Name": {
   "ch": "道具分类（可以不判断分类）",
   "en": "Item classification (you may choose not to determine the classification)",
-  "pt": ""
+  "pt": "Classificação do Item (você pode optar por não determinar a classificação)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_itemType_value3Name": {
   "ch": "道具品质（0代表不判断品质）",
   "en": "Item rarity (0 = No determiner on rarity)",
-  "pt": ""
+  "pt": "Raridade do Item (0 = Nenhum indicador de raridade)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_itemType_value5Name": {
   "ch": "比较的道具数量",
   "en": "Item quantity to compare",
-  "pt": ""
+  "pt": "Quantidade do Item para comparação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_itemUse_value1Name": {
   "ch": "道具ID",
   "en": "Item ID",
-  "pt": ""
+  "pt": "ID do Item",
+  "auto": "local/hy-mt2"
  },
  "modCondition_lastDungeonTime_value3Name": {
   "ch": "时间（月）",
   "en": "Time (months)",
-  "pt": ""
+  "pt": "Tempo (meses)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_lastDungeon_value1Name": {
   "ch": "副本ID",
   "en": "Dungeon ID",
-  "pt": ""
+  "pt": "ID da masmorra",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 13 caracteres"
+  ]
  },
  "modCondition_lastItemEffectType_value1Name": {
   "ch": "道具品质大于等于指定值",
   "en": "Item rarity not lower than the set value",
-  "pt": ""
+  "pt": "A raridade do Item não deve ser inferior ao valor definido.",
+  "auto": "local/hy-mt2"
  },
  "modCondition_lastUpGradeMonth_value3Name": {
   "ch": "比较时间（月）",
   "en": "Comparison Time (months)",
-  "pt": ""
+  "pt": "Tempo de comparação (meses)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_martialbookInBag_value3Name": {
   "ch": "秘籍要求数量",
   "en": "Number of manuals required",
-  "pt": ""
+  "pt": "Número de manuais necessários",
+  "auto": "local/hy-mt2"
  },
  "modCondition_moneyUseCount_value3Name": {
   "ch": "比较消费灵石数量",
   "en": "Compare no. of Spirit Stones spent",
-  "pt": ""
+  "pt": "Compare o número de Pedras Espirituais gastas.",
+  "auto": "local/hy-mt2"
  },
  "modCondition_moreDialogue_value1Name": {
   "ch": "是否触发过",
   "en": "Triggered or not before",
-  "pt": ""
+  "pt": "Acionado ou não antes",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_moreDialogue_value2Name": {
   "ch": "所需指定数量",
   "en": "Required Amount",
-  "pt": ""
+  "pt": "Quantidade necessária",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "modCondition_nearSchool_value2Name": {
   "ch": "距离",
   "en": "Range",
-  "pt": ""
+  "pt": "Alcance",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_noWorldData_value1Name": {
   "ch": "key（标记）",
   "en": "key",
-  "pt": ""
+  "pt": "chave",
+  "auto": "local/hy-mt2"
  },
  "modCondition_npcConditionSaveRelation_value1Name": {
   "ch": "指定角色",
   "en": "Specify characters",
-  "pt": ""
+  "pt": "Especifique os personagens",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "modCondition_numInRelationList_value4Name": {
   "ch": "比较的数量",
   "en": "Quantity to compare",
-  "pt": ""
+  "pt": "Quantidade a ser comparada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "modCondition_passiveMethodEquip_value2Name": {
   "ch": "判断的值",
   "en": "Value determined",
-  "pt": ""
+  "pt": "Valor determinado",
+  "auto": "local/hy-mt2"
  },
  "modCondition_positionPoint_value1Name": {
   "ch": "大地图X坐标",
   "en": "World map x coordinate",
-  "pt": ""
+  "pt": "Coordenada X do mapa do mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_positionPoint_value2Name": {
   "ch": "大地图Y坐标",
   "en": "World map y coordinate",
-  "pt": ""
+  "pt": "Coordenada Y do mapa do mundo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_positionPoint_value3Name": {
   "ch": "宽（以左下角为原点向右上角扩展）",
   "en": "Width (Starts from the bottom-left corner, expanding toward upper-right)",
-  "pt": ""
+  "pt": "Largura (Começa no canto inferior esquerdo, expandindo-se para a direita e para cima)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_positionPoint_value4Name": {
   "ch": "高（以左下角为原点向右上角扩展）",
   "en": "Height (Starts from the bottom-left corner, expanding toward upper-right)",
-  "pt": ""
+  "pt": "Altura (Começa no canto inferior esquerdo, expandindo-se para o canto superior direito)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_probabilityTriggering_value1Name": {
   "ch": "达成条件万分比概率",
   "en": "Condition completion ‱ probability",
-  "pt": ""
+  "pt": "Probabilidade de conclusão da condição ‱",
+  "auto": "local/hy-mt2"
  },
  "modCondition_readBookCount_value4Name": {
   "ch": "比较学习的书籍数量",
   "en": "Compare no. of books learned",
-  "pt": ""
+  "pt": "Compare o número de livros aprendidos.",
+  "auto": "local/hy-mt2"
  },
  "modCondition_readBook_value3Name": {
   "ch": "是否学习过",
   "en": "Had studied it?",
-  "pt": ""
+  "pt": "Já estudou?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_relationCount_value4Name": {
   "ch": "比较NPC数量",
   "en": "Compare no. of NPCs",
-  "pt": ""
+  "pt": "Compare o número de NPCs",
+  "auto": "local/hy-mt2"
  },
  "modCondition_schoolAttr_value4Name": {
   "ch": "比较值",
   "en": "Value to compare to",
-  "pt": ""
+  "pt": "Valor para comparação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_schoolBranchCount_value3Name": {
   "ch": "比较分舵数量",
   "en": "Compare no. of sect branches",
-  "pt": ""
+  "pt": "Compare o número de ramos da seita",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_schoolJoinCount_value3Name": {
   "ch": "加入不同宗门次数",
   "en": "No. of different sects joined",
-  "pt": ""
+  "pt": "Número de seitas diferentes em que ingressou",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_schoolLevel_value2Name": {
   "ch": "比较宗门规模值（1-5级）",
   "en": "Compare sect scale value (Lv. 1 - 5)",
-  "pt": ""
+  "pt": "Compare o valor da escala da seita (Nív. 1 - 5)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_schoolStaffCount_value4Name": {
   "ch": "NPC数量",
   "en": "Number of NPCs",
-  "pt": ""
+  "pt": "Número de NPCs",
+  "auto": "local/hy-mt2"
  },
  "modCondition_sectLeaderClose_value2Name": {
   "ch": "亲密度数值",
   "en": "Affinity value",
-  "pt": ""
+  "pt": "Valor de Afinidade",
+  "auto": "local/hy-mt2"
  },
  "modCondition_skillEquipType_value2Name": {
   "ch": "需要装备的数量",
   "en": "Number of gear required",
-  "pt": ""
+  "pt": "Número de equipamentos necessários",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_skillEquip_value3Name": {
   "ch": "要求的装备数量",
   "en": "Number of gear requested",
-  "pt": ""
+  "pt": "Número de equipamentos solicitados",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_spriteClose_value2Name": {
   "ch": "增加亲密度最小值",
   "en": "Min Affinity Increase",
-  "pt": ""
+  "pt": "Aumento mínimo da Afinidade",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_spriteClose_value3Name": {
   "ch": "增加亲密度最大值",
   "en": "Max Affinity Increase",
-  "pt": ""
+  "pt": "Aumento máximo da Afinidade",
+  "auto": "local/hy-mt2"
  },
  "modCondition_taoistHeartExist_value3Name": {
   "ch": "上一次道心破碎是何人所为",
   "en": "Taoist Mind last shattered by?",
-  "pt": ""
+  "pt": "Coração do Dao despedaçado pela última vez por?",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_unitAge_value3Name": {
   "ch": "比较值（年）",
   "en": "Value to compare to (Year)",
-  "pt": ""
+  "pt": "Valor para comparação (Ano)",
+  "auto": "local/hy-mt2"
  },
  "modCondition_unitHasPropsItem_value4Name": {
   "ch": "比较的道具数量",
   "en": "Item quantity to compare to",
-  "pt": ""
+  "pt": "Quantidade do Item a ser comparada",
+  "auto": "local/hy-mt2"
  },
  "modCondition_unitImmortalPoint_value3Name": {
   "ch": "比较值",
   "en": "Value to compare to",
-  "pt": ""
+  "pt": "Valor para comparar",
+  "auto": "local/hy-mt2"
  },
  "modCondition_unitName_value2Name": {
   "ch": "角色是什么名字",
   "en": "What's the character's name",
-  "pt": ""
+  "pt": "Qual é o nome do personagem?",
+  "auto": "local/hy-mt2"
  },
  "modCondition_worldData_value1Name": {
   "ch": "key唯一字符串",
   "en": "Unique string for \"key\"",
-  "pt": ""
+  "pt": "String única para \"chave\"",
+  "auto": "local/hy-mt2"
  },
  "modCondition_worldData_value3Name": {
   "ch": "比较value值",
   "en": "Compare value for \"value\"",
-  "pt": ""
+  "pt": "Compare o valor para \"valor\"",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_xxClose_value1Name": {
   "ch": "第一个角色",
   "en": "First character",
-  "pt": ""
+  "pt": "Primeiro personagem",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_xxClose_value2Name": {
   "ch": "第二个角色",
   "en": "Second character",
-  "pt": ""
+  "pt": "Segundo personagem",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_xxClose_value4Name": {
   "ch": "亲密度比较的值",
   "en": "Affinity value to compare",
-  "pt": ""
+  "pt": "Valor de Afinidade para comparação",
+  "auto": "local/hy-mt2"
  },
  "modCondition_xxDistancePosition_value3Name": {
   "ch": "最小距离",
   "en": "Min distance",
-  "pt": ""
+  "pt": "Distância mínima",
+  "auto": "local/hy-mt2"
  },
  "modCondition_xxDistancePosition_value4Name": {
   "ch": "最大距离",
   "en": "Max distance",
-  "pt": ""
+  "pt": "Distância máxima",
+  "auto": "local/hy-mt2"
  },
  "modCondition_xxRelationDeny_value1Name": {
   "ch": "角色1",
   "en": "Character 1",
-  "pt": ""
+  "pt": "Personagem 1",
+  "auto": "local/hy-mt2"
  },
  "modCondition_xxRelationDeny_value2Name": {
   "ch": "角色2",
   "en": "Character 2",
-  "pt": ""
+  "pt": "Personagem 2",
+  "auto": "local/hy-mt2"
  },
  "modCondition_xxRelation_value1Name": {
   "ch": "角色1",
   "en": "Character 1",
-  "pt": ""
+  "pt": "Personagem 1",
+  "auto": "local/hy-mt2"
  },
  "modCondition_xxRelation_value2Name": {
   "ch": "角色2",
   "en": "Character 2",
-  "pt": ""
+  "pt": "Personagem 2",
+  "auto": "local/hy-mt2"
  }
 }

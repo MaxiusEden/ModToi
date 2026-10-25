@@ -2,966 +2,1180 @@
  "battle61_chonga": {
   "ch": "冲啊",
   "en": "Charge",
-  "pt": ""
+  "pt": "Carga",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle73_wingmantips": {
   "ch": "按下E键开启阵法",
   "en": "Press E to activate the array",
-  "pt": ""
+  "pt": "Pressione E para ativar a Formação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle77_liule": {
   "ch": "溜了溜了",
   "en": "Gotta get outta here.",
-  "pt": ""
+  "pt": "Tenho que sair daqui.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_CoreBeAttack": {
   "ch": "阵眼被进攻！",
   "en": "The Array Core is under attack!",
-  "pt": ""
+  "pt": "O Núcleo da Formação está sob ataque!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoM1": {
   "ch": "哼！好啊，现在只有你一个，咱们决斗吧！",
   "en": "Humph! Alright, since you are all alone here, let's duel!",
-  "pt": ""
+  "pt": "Humpf! Tudo bem, já que você está sozinho aqui, vamos duelar!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoM2": {
   "ch": "啊，是你！",
   "en": "Oh, it's you!",
-  "pt": ""
+  "pt": "Ah, é você!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoM3": {
   "ch": "这里只有你一个？真的？",
   "en": "Are you alone? For real?",
-  "pt": ""
+  "pt": "Só tem você aqui? Sério?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoME1": {
   "ch": "哦，我明白了，你要独占杀死对手的功劳！",
   "en": "I got it. You want to steal the credit for killing the enemy!",
-  "pt": ""
+  "pt": "Entendi. Você quer roubar os méritos por matar o inimigo!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoME2": {
   "ch": "哈！好机会，我们合力将他毙了！",
   "en": "Ha! I see a chance. Let's join forces and kill him!",
-  "pt": ""
+  "pt": "Ha! Vejo uma chance. Vamos unir forças e matá-lo!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoME3": {
   "ch": "不要逞强，你十年前宗门比试伤了老腰，我来会他！",
   "en": "Don't push yourself. You hurt your back at the Sect Arena 10 years ago. Let me deal with him!",
-  "pt": ""
+  "pt": "Não se esforce. Você machucou as costas na Arena da Seita há 10 anos. Deixe-me lidar com ele!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMEtoE1": {
   "ch": "对手不弱，快来助我！",
   "en": "The enemy is strong. Help me!",
-  "pt": ""
+  "pt": "O inimigo é forte. Ajude-me!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMEtoE2": {
   "ch": "我一个人就能轻易对付他，你不要插手。咦！对手很强，快来帮我。",
   "en": "I can handle him alone easily. Don't interfere. Wait, the opponent is strong. Help me!",
-  "pt": ""
+  "pt": "Consigo lidar com ele sozinho facilmente. Não interfira. Espere, o oponente é forte. Ajude-me!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMEtoE3": {
   "ch": "还愣着干嘛，帮我啊！",
   "en": "What are you waiting for? Help me!",
-  "pt": ""
+  "pt": "O que está esperando? Ajude-me!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMF1": {
   "ch": "不好，来了帮手！",
   "en": "Not good. It's the reinforcement!",
-  "pt": ""
+  "pt": "Problema. É o reforço!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMF2": {
   "ch": "呜呼哀哉！",
   "en": "Alas!",
-  "pt": ""
+  "pt": "Ai de mim!",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 10 > 8 caracteres"
+  ]
  },
  "battle_EtoMF3": {
   "ch": "敌人有两个，我只孤身一人，今天要交代在这了！",
   "en": "Two enemies, yet I'm alone. Looks like I'm going to die here!",
-  "pt": ""
+  "pt": "Dois inimigos e eu estou sozinho. Parece que vou morrer aqui!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFE1": {
   "ch": "哼，以二敌一，胜之不武！我来帮你！",
   "en": "Two on one is unfair. Let me even out the numbers!",
-  "pt": ""
+  "pt": "Dois contra um é injusto. Deixe-me igualar os números!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFE2": {
   "ch": "现在我们各有两人，打起来才有点意思！",
   "en": "Now, this is much better. Two versus two!",
-  "pt": ""
+  "pt": "Agora isso está muito melhor. Dois contra dois!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFE3": {
   "ch": "好啊，你们仗着人多欺负我的同伴么？",
   "en": "Are you guys bullying my friend?",
-  "pt": ""
+  "pt": "Vocês estão intimidando meu amigo?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFEtoF1": {
   "ch": "好！现在我们可没占你便宜，死了可别抱怨！",
   "en": "Great! Now, this is a fair fight, so don't complain if you die!",
-  "pt": ""
+  "pt": "Ótimo! Agora a luta é justa, então não reclame se morrer!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFEtoF2": {
   "ch": "真麻烦，对方来帮手了！",
   "en": "What a nuisance! They have help!",
-  "pt": ""
+  "pt": "Que incômodo! Eles têm ajuda!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFEtoF3": {
   "ch": "咦，敌人来帮手了，赶紧杀了这个落单的！",
   "en": "Enemy's help is here. Let's kill this lone one now!",
-  "pt": ""
+  "pt": "O reforço do inimigo chegou. Vamos matar esse solitário agora!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFtoF1": {
   "ch": "哼，怪就怪你落单了！我们一起上！",
   "en": "It's your own fault to be alone! We'll crush you!",
-  "pt": ""
+  "pt": "É culpa sua estar sozinho! Vamos esmagar você!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFtoF2": {
   "ch": "天堂有路你不走，地狱无门你闯进来！",
   "en": "You asked for this!",
-  "pt": ""
+  "pt": "Você pediu por isso!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_EtoMFtoF3": {
   "ch": "只有一个？你来对付还是我来对付？",
   "en": "Only one enemy? Yours or mine?",
-  "pt": ""
+  "pt": "Apenas um inimigo? Seu ou meu?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FleeFail1": {
   "ch": "不妙，今日跑不掉了。",
   "en": "This is bad. There's no hope to escape.",
-  "pt": ""
+  "pt": "Isso é ruim. Não há esperança de escapar.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FleeFail2": {
   "ch": "完了，要交代在这了！",
   "en": "Blast. I might die here today!",
-  "pt": ""
+  "pt": "Droga. Posso morrer aqui hoje!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FleeFail3": {
   "ch": "没想到这里便是我埋骨之所！",
   "en": "I didn't expect to be buried in such a place!",
-  "pt": ""
+  "pt": "Não esperava ser enterrado em um lugar como este!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoM1": {
   "ch": "你单独行动，只怕不安全，我来陪你！",
   "en": "Being alone is dangerous. I'll join you!",
-  "pt": ""
+  "pt": "Estar sozinho é perigoso. Vou me juntar a você!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoM2": {
   "ch": "这里十分危险，你不该独自行动，我们互相照应吧。",
   "en": "This place is dangerous. Let's watch each other's back.",
-  "pt": ""
+  "pt": "Este lugar é perigoso. Vamos nos cobrir.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoM3": {
   "ch": "敌人呢？！",
   "en": "Where are the enemies?",
-  "pt": ""
+  "pt": "Onde estão os inimigos?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoME1": {
   "ch": "啊？原来你在这里遇上敌人了？我来帮你！",
   "en": "Huh? Are you fighting enemies? I'm coming to help!",
-  "pt": ""
+  "pt": "Ah? Você está lutando contra inimigos? Vou ajudar!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoME2": {
   "ch": "别急，我来帮你对付敌人。",
   "en": "Don't worry, I'm here to help.",
-  "pt": ""
+  "pt": "Não se preocupe, estou aqui para ajudar.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoME3": {
   "ch": "区区一个敌人，你能应付吧？",
   "en": "There's only one enemy. You can deal with that, right?",
-  "pt": ""
+  "pt": "Há apenas um inimigo. Você consegue lidar, certo?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMEtoE1": {
   "ch": "哼！来了同伙了？今日来一个杀一个，来一双杀一双！",
   "en": "More help? All of you will die here!",
-  "pt": ""
+  "pt": "Mais ajuda? Todos vocês morrerão aqui!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMEtoE2": {
   "ch": "喂喂，你可不许帮你同门对付我！",
   "en": "Hey, don't you help your sect fellows!",
-  "pt": ""
+  "pt": "Ei, não ajude seus companheiros de Seita!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMEtoE3": {
   "ch": "我们厮杀得难分难解，你的同伴万万不该介入的！",
   "en": "We were having a good fight. Your friend shouldn't have interfered!",
-  "pt": ""
+  "pt": "Estávamos lutando bem. Seu Amigo não deveria ter interferido!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMF1": {
   "ch": "嗯？你们都在！正好，我们都一起行动吧！",
   "en": "Huh? You are all here! Perfect, I'll tag along and join you!",
-  "pt": ""
+  "pt": "Ah? Vocês estão todos aqui! Perfeito, vou me juntar a vocês!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMF2": {
   "ch": "人多好办事，人多好办事啊！",
   "en": "Many hands make light work!",
-  "pt": ""
+  "pt": "Muitas mãos tornam o trabalho mais leve!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMF3": {
   "ch": "若是杀死又或拿下敌人，你们不会跟我争功吧？",
   "en": "If we kill or capture enemies, you won't steal my credit, right?",
-  "pt": ""
+  "pt": "Se matarmos ou capturarmos inimigos, vocês não vão roubar meu crédito, certo?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMFE1": {
   "ch": "啊？遇上敌人了？要我帮忙么？",
   "en": "Did you run into enemies? Need a hand?",
-  "pt": ""
+  "pt": "Encontrou inimigos? Precisa de ajuda?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMFE2": {
   "ch": "你攻上三路，他攻下三路，咦，那我呢？",
   "en": "You aim at the torso, and he attacks the legs. Wait, what about me?",
-  "pt": ""
+  "pt": "Você ataca a parte superior, ele a inferior. Espere, e eu?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMFE3": {
   "ch": "我来帮你们一把！",
   "en": "Let me help you guys!",
-  "pt": ""
+  "pt": "Deixe-me ajudar vocês!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMFEtoE1": {
   "ch": "哼！你们就是以三敌一，我又何惧？",
   "en": "Even if there are three of you. I'm not afraid!",
-  "pt": ""
+  "pt": "Mesmo sendo três contra um, não tenho medo!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMFEtoE2": {
   "ch": "无耻之徒，你们真要一起上么?",
   "en": "You shameless! Are you going to attack me all at once?",
-  "pt": ""
+  "pt": "Que vergonha! Vão me atacar todos de uma vez?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_FtoMFEtoE3": {
   "ch": "以多欺少，真不要脸！",
   "en": "Bullying the outnumbered. Shame on you!",
-  "pt": ""
+  "pt": "Atacar em maioria é covardia! Que vergonha!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoEtoE1": {
   "ch": "嗯？漏网之鱼！",
   "en": "Look, a fish that slipped away!",
-  "pt": ""
+  "pt": "Olha, um peixe que escapou!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoEtoE2": {
   "ch": "……你只有一人？",
   "en": "... Are you alone?",
-  "pt": ""
+  "pt": "... Está sozinho?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoEtoE3": {
   "ch": "你看你后面是谁？！",
   "en": "Look at who's behind you?!",
-  "pt": ""
+  "pt": "Olha quem está atrás de você?!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoF1": {
   "ch": "你来了以后我心中镇静不少！",
   "en": "I feel much less nervous since you're here!",
-  "pt": ""
+  "pt": "Fico muito mais tranquilo desde que você chegou!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoF2": {
   "ch": "是你？太好了！来，你走前面！",
   "en": "It's you? Excellent! Come, you go first!",
-  "pt": ""
+  "pt": "É você? Excelente! Venha, você vai na frente!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoF3": {
   "ch": "我真怕来人是敌人啊！",
   "en": "I was so worried that it was an enemy!",
-  "pt": ""
+  "pt": "Estava tão preocupado que fosse um inimigo!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoFE1": {
   "ch": "啊，你来得正好，快来帮我对付这厮！",
   "en": "Oh, perfect timing. Help me deal with this bastard!",
-  "pt": ""
+  "pt": "Ah, que timing perfeito. Me ajude a lidar com esse canalha!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoFE2": {
   "ch": "不要帮我，我一个就能对付他！",
   "en": "Don't help me. I can deal with him myself!",
-  "pt": ""
+  "pt": "Não me ajude. Posso lidar com ele sozinho!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoFE3": {
   "ch": "援手，同门！同门，援手！",
   "en": "Please help! I'm from your sect!",
-  "pt": ""
+  "pt": "Por favor, ajudem! Sou da sua Seita!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoFEtoE1": {
   "ch": "不要以多欺少，有种就和我单打独斗！",
   "en": "Do you dare fight me one on one?!",
-  "pt": ""
+  "pt": "Ousam lutar comigo um contra um?!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoFEtoE2": {
   "ch": "废物，你就不敢和我单挑？！",
   "en": "You trash! Duel me one of one if you dare!",
-  "pt": ""
+  "pt": "Lixo! Duelo um contra um se tiver coragem!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_MtoFEtoE3": {
   "ch": "来啊，你们一起上！我能打十个！",
   "en": "Bring it on! I can take out ten of you at a time!",
-  "pt": ""
+  "pt": "Vamos lá! Consigo derrotar dez de vocês de uma vez!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_TryFlee1": {
   "ch": "情况不妙，不如先行撤退，改日准备好了再卷土重来！",
   "en": "This is looking bad. Let's retreat and prepare for our comeback!",
-  "pt": ""
+  "pt": "As coisas estão feias. Vamos recuar e nos preparar para o retorno!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_TryFlee2": {
   "ch": "包羞忍耻才是大人物本色，我们撤！",
   "en": "There's no shame in a strategic retreat. Let's go!",
-  "pt": ""
+  "pt": "Não há vergonha em uma retirada estratégica. Vamos!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_TryFlee3": {
   "ch": "我们先行撤吧，等敌人锐气殆尽，我们再马上反击。",
   "en": "Let's retreat for now and fight back when their momentum gets weak.",
-  "pt": ""
+  "pt": "Vamos recuar por agora e contra-atacar quando o ímpeto deles enfraquecer.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_ataticMessage1": {
   "ch": "收到{0}传音：号令阵眼{1}位置附近的弟子前往援助阵眼{1}的战斗。",
   "en": "Received {0} voice: Order Disciples close to the Array Core {1} position to support the battle at Array Core {1}.",
-  "pt": ""
+  "pt": "Recebido {0} voz: Ordenar que os Discípulos próximos ao Núcleo da Formação {1} apoiem a batalha no Núcleo da Formação {1}.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_ataticMessage2": {
   "ch": "收到{0}传音：号令所有弟子死攻/死守阵眼{1}。",
   "en": "Received {0} voice: Order all Disciples to fight to the death/protect to their last breath at Array Core {1}.",
-  "pt": ""
+  "pt": "Recebido {0} voz: Ordene que todos os Discípulos lutem até a morte/protejam até o último suspiro no Núcleo da Formação {1}.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_ataticMessage3": {
   "ch": "收到{0}传音：号令所有弟子到长老身边集合。",
   "en": "Received {0} voice: Order all Disciples to gather by the Elder.",
-  "pt": ""
+  "pt": "Recebido {0} voz: Ordene que todos os Discípulos se reúnam perto do Ancião.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_ataticMessage4": {
   "ch": "收到{0}传音：号令所有弟子，优先顾全自身安全。",
   "en": "Received {0} voice: Order all Disciples to prioritize their own safety.",
-  "pt": ""
+  "pt": "Recebido {0} voz: Ordene que todos os Discípulos priorizem sua própria segurança.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_ataticMessage5": {
   "ch": "收到{0}传音：大家自由发挥。",
   "en": "Received {0} voice: Everyone is to fight as they please.",
-  "pt": ""
+  "pt": "Recebido {0} voz: Todos lutem como desejarem.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_baoji": {
   "ch": "暴击",
   "en": "Crit",
-  "pt": ""
+  "pt": "Crítico",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_baoxiangtishi": {
   "ch": "按{0}键打开",
   "en": "Press {0} to open",
-  "pt": ""
+  "pt": "Pressione {0} para abrir",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "battle_beKillLostEffect": {
   "ch": "{0}被击败，获得效果消失！",
   "en": "{0} was defeated, and the effect gained disappeared!",
-  "pt": ""
+  "pt": "{0} foi derrotado e o efeito obtido desapareceu!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_bukeshiyongdaoju": {
   "ch": "不可使用道具！",
   "en": "Can't use items!",
-  "pt": ""
+  "pt": "Não pode usar itens!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_bunengfuhuo1": {
   "ch": "重塑肉身",
   "en": "Body Reconstruction",
-  "pt": ""
+  "pt": "Reconstrução do Corpo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_bunengfuhuo2": {
   "ch": "复活次数不足",
   "en": "You can no longer be revived",
-  "pt": ""
+  "pt": "Você não pode mais ser revivido",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_bunengfuhuo3": {
   "ch": "返回主界面",
   "en": "Main Menu",
-  "pt": ""
+  "pt": "Menu Principal",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "battle_bunengfuhuo4": {
   "ch": "当前难度无法重塑肉身",
   "en": "Body Reconstruction is unavailable in the current difficulty level",
-  "pt": ""
+  "pt": "Reconstrução do Corpo não está disponível no nível de dificuldade atual",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_buzu": {
   "ch": "不足",
   "en": "Insufficient",
-  "pt": ""
+  "pt": "Insuficiente",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_cantAttackFriend": {
   "ch": "你不能攻击自己的领地",
   "en": "You cannot attack your own territory.",
-  "pt": ""
+  "pt": "Você não pode atacar seu próprio território.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chakan": {
   "ch": "查看",
   "en": "View",
-  "pt": ""
+  "pt": "Ver",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa1": {
   "ch": "扣除你{0}点宗门贡献",
   "en": "Deducted {0} points of your Sect Contribution",
-  "pt": ""
+  "pt": "Deduzidos {0} pontos da sua Contribuição da Seita",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa2": {
   "ch": "扣除你全部的宗门贡献",
   "en": "Deducted all of your Sect Contribution",
-  "pt": ""
+  "pt": "Deduzida toda a sua Contribuição da Seita",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa3": {
   "ch": "你被逐出宗门",
   "en": "Exiled you",
-  "pt": ""
+  "pt": "Você foi exilado",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "battle_chengfa4": {
   "ch": "弟子的忠诚度降低了{0}点",
   "en": "Disciple Loyalty reduced by {0} points",
-  "pt": ""
+  "pt": "Lealdade do Discípulo reduzida em {0} pontos",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa5": {
   "ch": "宗门声望降低了{0}点",
   "en": "Sect Reputation reduced by {0} points",
-  "pt": ""
+  "pt": "Reputação da Seita reduzida em {0} pontos",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa6": {
   "ch": "宗门弟子对你的仇恨度增加",
   "en": "Sect Disciple Hatred towards you increases",
-  "pt": ""
+  "pt": "Ódio do Discípulo da Seita em relação a você aumenta",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa7": {
   "ch": "宗门弟子对你的亲密度增加",
   "en": "Sect Disciple Affinity towards you increases",
-  "pt": ""
+  "pt": "Afinidade do Discípulo da Seita em relação a você aumenta",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa8": {
   "ch": "宗门弟子对你的仇恨度降低",
   "en": "Sect Disciple Hatred towards you decreases",
-  "pt": ""
+  "pt": "Ódio do Discípulo da Seita em relação a você diminui",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_chengfa9": {
   "ch": "宗门弟子对你的亲密度降低",
   "en": "Sect Disciple Affinity towards you decreases",
-  "pt": ""
+  "pt": "Afinidade do Discípulo da Seita em relação a você diminui",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_didang": {
   "ch": "抵挡",
   "en": "Block",
-  "pt": ""
+  "pt": "Bloquear",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4701": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
   "en": "You'll be inflicted with Burn in the Blazing Lands.",
-  "pt": ""
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4702": {
   "ch": "在极寒之地中，你会持续损失灵力值。",
   "en": "You'll lose Energy over time in the Arctic Field.",
-  "pt": ""
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4703": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": ""
+  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4704": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
   "en": "Strong storms blow periodically in Stormvale.",
-  "pt": ""
+  "pt": "Tempestades fortes sopram periodicamente no Vale da Tempestade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4705": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": ""
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4706": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": ""
+  "pt": "Pântanos venenosos aparecem periodicamente no chão na Floresta das Flores Bêbadas.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4707": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
   "en": "You'll be inflicted with Burn in the Blazing Lands.",
-  "pt": ""
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4708": {
   "ch": "在极寒之地中，你会持续损失灵力值。",
   "en": "You'll lose Energy over time in the Arctic Field.",
-  "pt": ""
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4709": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": ""
+  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4710": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
   "en": "Strong storms blow periodically in Stormvale.",
-  "pt": ""
+  "pt": "Tempestades fortes sopram periodicamente no Vale da Tempestade.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4711": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": ""
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4712": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": ""
+  "pt": "Pântanos venenosos aparecem periodicamente no chão na Floresta das Flores Bêbadas.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4713": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
   "en": "You'll be inflicted with Burn in the Blazing Lands.",
-  "pt": ""
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4714": {
   "ch": "在极寒之地中，你会持续损失灵力值。",
   "en": "You'll lose Energy over time in the Arctic Field.",
-  "pt": ""
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4715": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": ""
+  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4716": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
   "en": "Strong storms blow periodically in Stormvale.",
-  "pt": ""
+  "pt": "Tempestades fortes sopram periodicamente em Stormvale.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4717": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": ""
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4718": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": ""
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta da Flor Embriagada.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4719": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
   "en": "You'll be inflicted with Burn in the Blazing Lands.",
-  "pt": ""
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4720": {
   "ch": "在极寒之地中，你会持续损失灵力值。",
   "en": "You'll lose Energy over time in the Arctic Field.",
-  "pt": ""
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4721": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": ""
+  "pt": "Relâmpagos caem periodicamente nas Terras do Relâmpago.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4722": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
   "en": "Strong storms blow periodically in Stormvale.",
-  "pt": ""
+  "pt": "Tempestades fortes sopram periodicamente em Stormvale.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4723": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": ""
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4724": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": ""
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta da Flor Embriagada.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4725": {
   "ch": "在乾元界中，你会持续受到高温的灼伤。",
   "en": "You'll be inflicted with Burn in the Realm of Origin.",
-  "pt": ""
+  "pt": "Você receberá Queimadura no Reino da Origem.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_dungeon_desc4726": {
   "ch": "在坤元境中，你会持续损失灵力值。",
   "en": "You'll lose Energy over time in the Land of the Beginning.",
-  "pt": ""
+  "pt": "Você perderá Energia gradualmente na Terra do Começo.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_fuhuoanniu1": {
   "ch": "立即复活",
   "en": "Revive Now",
-  "pt": ""
+  "pt": "Reviver Agora",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_fuhuoanniu2": {
   "ch": "大世界复活",
   "en": "Revive on World Map",
-  "pt": ""
+  "pt": "Reviver no Mapa Mundial",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_fuhuotishi1": {
   "ch": "消耗{0}点双鱼佩",
   "en": "Cost: {0} Bagua Jade Points",
-  "pt": ""
+  "pt": "Custo: {0} Pontos de Jade Bagua",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_fuhuotishi2": {
   "ch": "你将失去在本场战斗已获得的道具",
   "en": "You'll lose all the items obtained from this battle",
-  "pt": ""
+  "pt": "Você perderá todos os itens obtidos nesta batalha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_gongfang": {
   "ch": "（攻方）",
   "en": "(Attacker)",
-  "pt": ""
+  "pt": "(Atacante)",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_gongjibatishi": {
   "ch": "是否要攻击魃？",
   "en": "Attack the Drought Demon?",
-  "pt": ""
+  "pt": "Atacar o Demônio da Seca?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_guize": {
   "ch": "规则",
   "en": "Rule",
-  "pt": ""
+  "pt": "Regra",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_huajie": {
   "ch": "化解",
   "en": "Neutralize",
-  "pt": ""
+  "pt": "Neutralizar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_huodedaoju": {
   "ch": "获得道具",
   "en": "Items",
-  "pt": ""
+  "pt": "Itens",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_intoMyPoint": {
   "ch": "{eventName}乃我宗重要战略资源，不能贸然闯入",
   "en": "{eventName} is an important strategic resource for our Sect. Do not intrude rashly.",
-  "pt": ""
+  "pt": "O {eventName} é um recurso estratégico importante para nossa Seita. Não invada imprudentemente.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_intoNeutralPoint": {
   "ch": "{eventName}危机四伏，还是不要贸然闯入为好",
   "en": "{eventName} is dangerous. It's best not to be involved.",
-  "pt": ""
+  "pt": "{eventName} é perigoso. É melhor não se envolver.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_intoOtherPoint": {
   "ch": "{eventName}乃是{defendName}的领地，还是不要贸然闯入为好",
   "en": "{eventName} is {defendName}'s territory. It's best not to be involved.",
-  "pt": ""
+  "pt": "{eventName} é o território de {defendName}. É melhor não se envolver.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jibai": {
   "ch": "击败",
   "en": "Defeat",
-  "pt": ""
+  "pt": "Derrota",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jiejie": {
   "ch": "道界",
   "en": "Tao Realm",
-  "pt": ""
+  "pt": "Reino Dao",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jiesuochengjiu": {
   "ch": "解锁成就",
   "en": "Achievement",
-  "pt": ""
+  "pt": "Conquista",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jinengtupo": {
   "ch": "技能突破",
   "en": "Skill Breakthrough",
-  "pt": ""
+  "pt": "Avanço de Habilidade",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jingyan": {
   "ch": "获得修为",
   "en": "EXP",
-  "pt": ""
+  "pt": "EXP",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jinruzhandou": {
   "ch": "进入战斗",
   "en": "Fight",
-  "pt": ""
+  "pt": "Lutar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_jixu": {
   "ch": "继  续",
   "en": "Continue",
-  "pt": ""
+  "pt": "Continuar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_juan": {
   "ch": "卷",
   "en": "卷",
-  "pt": ""
+  "pt": "Vol.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_killAddTime": {
   "ch": "{0}连斩{1}人，争取了{2}秒进攻时间！",
   "en": "{0} killed {1} people in a row and gained {2} seconds of attack time!",
-  "pt": ""
+  "pt": "{0} abateu {1} pessoas seguidas e ganhou {2} segundos de tempo de ataque!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_killCount": {
   "ch": "{0}连斩{1}人，全体士气大振！",
   "en": "{0} killed {1} people in a row, boosting all morale!",
-  "pt": ""
+  "pt": "{0} abateu {1} pessoas seguidas, elevando a moral de todos!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_killCount2": {
   "ch": "{0}累计击杀{1}人，全体士气大振！",
   "en": "{0} killed {1} people in total, boosting all morale!",
-  "pt": ""
+  "pt": "{0} abateu um total de {1} pessoas, elevando a moral de todos!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_lingliyiman": {
   "ch": "灵力已满",
   "en": "Energy is full",
-  "pt": ""
+  "pt": "Energia está cheia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_lingyu": {
   "ch": "领域",
   "en": "Field",
-  "pt": ""
+  "pt": "Domínio",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_loseCore": {
   "ch": "阵眼{0}已经占领。",
   "en": "Array Core {0} has been occupied.",
-  "pt": ""
+  "pt": "Núcleo da Formação {0} foi ocupado.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_loseCoreAddTime": {
   "ch": "进攻方夺得阵眼，争取了{0}秒进攻时间！",
   "en": "The attacking party has captured the Array Core, and gained {0} seconds of attack time!",
-  "pt": ""
+  "pt": "A parte atacante capturou o Núcleo da Formação, ganhando {0} segundos de tempo de ataque!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_meiren": {
   "ch": "出征人数不足",
   "en": "Not enough people to send to battle",
-  "pt": ""
+  "pt": "Número insuficiente de pessoas para enviar à batalha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_miao": {
   "ch": "秒",
   "en": "s",
-  "pt": ""
+  "pt": "s",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_mingshoufazhen": {
   "ch": "危险！快进入<r>黄色界壁</r>躲避！！！",
   "en": "Danger! Quick, enter the <r>golden barrier</r> to dodge!",
-  "pt": ""
+  "pt": "Perigo! Entre rapidamente na <r>barreira dourada</r> para esquivar!!!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_runCool": {
   "ch": "逃跑冷却中，剩余{0}秒",
   "en": "Escape is on cooldown, {0} seconds remaining",
-  "pt": ""
+  "pt": "A fuga está em tempo de espera, {0} segundos restantes",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_runNo": {
   "ch": "逃跑失败",
   "en": "Failed to escape",
-  "pt": ""
+  "pt": "Falha ao escapar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_runOk": {
   "ch": "逃跑成功",
   "en": "Escaped",
-  "pt": ""
+  "pt": "Escapou",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_shanbi": {
   "ch": "闪避",
   "en": "Dodge",
-  "pt": ""
+  "pt": "Esquiva",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_shoufang": {
   "ch": "（守方）",
   "en": "(Defender)",
-  "pt": ""
+  "pt": "(Defesa)",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_spacial_room1": {
   "ch": "宝箱房间",
   "en": "Chest Room",
-  "pt": ""
+  "pt": "Sala do Baú",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static1": {
   "ch": "当前策略：进攻",
   "en": "Current Strategy: Attack",
-  "pt": ""
+  "pt": "Estratégia atual: Ataque",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static11": {
   "ch": "F1：进攻阵眼",
   "en": "F1: Attack Array Core",
-  "pt": ""
+  "pt": "F1: Atacar o Núcleo da Formação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static12": {
   "ch": "F2：严守阵眼",
   "en": "F2: Guard Array Core",
-  "pt": ""
+  "pt": "F2: Proteger o Núcleo da Formação",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 33 > 26 caracteres"
+  ]
  },
  "battle_static13": {
   "ch": "F3：包围自己",
   "en": "F3: Surround Self",
-  "pt": ""
+  "pt": "F3: Cercar a Si Mesmo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static14": {
   "ch": "F4：优先恢复",
   "en": "F4: Prioritize Recovery",
-  "pt": ""
+  "pt": "F4: Priorizar Recuperação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static15": {
   "ch": "F5：取消命令",
   "en": "F5: Cancel Command",
-  "pt": ""
+  "pt": "F5: Cancelar Comando",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static2": {
   "ch": "当前策略：防守",
   "en": "Current Strategy: Defend",
-  "pt": ""
+  "pt": "Estratégia atual: Defesa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static21": {
   "ch": "F1：选择阵眼1",
   "en": "F1: Select Array Core 1",
-  "pt": ""
+  "pt": "F1: Selecionar Núcleo da Formação 1",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static22": {
   "ch": "F2：选择阵眼2",
   "en": "F2: Select Array Core 2",
-  "pt": ""
+  "pt": "F2: Selecionar Núcleo da Formação 2",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static23": {
   "ch": "F3：选择阵眼3",
   "en": "F3: Select Array Core 3",
-  "pt": ""
+  "pt": "F3: Selecionar Núcleo da Formação 3",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static24": {
   "ch": "F4：选择阵眼4",
   "en": "F4: Select Array Core 4",
-  "pt": ""
+  "pt": "F4: Selecionar Núcleo da Formação 4",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static25": {
   "ch": "F5：选择阵眼5",
   "en": "F5: Select Array Core 5",
-  "pt": ""
+  "pt": "F5: Selecionar Núcleo da Formação 5",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static3": {
   "ch": "当前策略：包围",
   "en": "Current Strategy: Surround",
-  "pt": ""
+  "pt": "Estratégia atual: Cercar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static4": {
   "ch": "当前策略：恢复",
   "en": "Current Strategy: Recover",
-  "pt": ""
+  "pt": "Estratégia atual: Recuperação",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_static5": {
   "ch": "当前策略：无",
   "en": "Current Strategy: None",
-  "pt": ""
+  "pt": "Estratégia Atual: Nenhuma",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_staticAttack": {
   "ch": "选择进攻目标：",
   "en": "Select attack target:",
-  "pt": ""
+  "pt": "Selecione o alvo de ataque:",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_staticDefend": {
   "ch": "选择防守目标：",
   "en": "Select defend target:",
-  "pt": ""
+  "pt": "Selecione o alvo de defesa:",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_taopao": {
   "ch": "逃跑",
   "en": "Escape",
-  "pt": ""
+  "pt": "Fugir",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_taopaochenggong": {
   "ch": "逃跑成功",
   "en": "Escaped",
-  "pt": ""
+  "pt": "Fuga bem-sucedida",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 17 > 10 caracteres"
+  ]
  },
  "battle_taopaoshibai": {
   "ch": "逃跑失败",
   "en": "Failed to escape",
-  "pt": ""
+  "pt": "Falha ao fugir",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_taopaoshijian": {
   "ch": "秒后可尝试逃跑",
   "en": "s: you may try to escape again",
-  "pt": ""
+  "pt": "s: você pode tentar fugir novamente",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_taopaotishi": {
   "ch": "是否逃跑？",
   "en": "Escape?",
-  "pt": ""
+  "pt": "Fugir?",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_text1": {
   "ch": "难度",
   "en": "Difficulty",
-  "pt": ""
+  "pt": "Dificuldade",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_text2": {
   "ch": "怪物",
   "en": "Monster",
-  "pt": ""
+  "pt": "Monstro",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_text3": {
   "ch": "概率掉落",
   "en": "Possible Loot",
-  "pt": ""
+  "pt": "Saque Possível",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_text4": {
   "ch": "进入战斗",
   "en": "Fight",
-  "pt": ""
+  "pt": "Lutar",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tiliyiman": {
   "ch": "体力已满",
   "en": "Vitality is full",
-  "pt": ""
+  "pt": "Vitalidade está cheia",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tishi1": {
   "ch": "在支援到达前攻破所有阵眼",
   "en": "Destroy all Array Cores before the reinforcement arrives",
-  "pt": ""
+  "pt": "Destrua todos os Núcleos da Formação antes que os reforços cheguem",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tishi2": {
   "ch": "守方支援到达意味着攻占失败",
   "en": "If the defender's reinforcement arrives, the offense fails",
-  "pt": ""
+  "pt": "Se o reforço do defensor chegar, o ataque falha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tishi3": {
   "ch": "点击",
   "en": "Click",
-  "pt": ""
+  "pt": "Clique",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tishi4": {
   "ch": "可以查看战场信息",
   "en": "to see battlefield info",
-  "pt": ""
+  "pt": "para ver as informações do campo de batalha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tishi5": {
   "ch": "在我方支援到达前，守住所有阵眼",
   "en": "Hold the Array Core until the team's support arrives.",
-  "pt": ""
+  "pt": "Mantenha o Núcleo da Formação até que o apoio da equipe chegue",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tishi6": {
   "ch": "所有阵眼被地方攻破后，防守失败",
   "en": "After all of the Array Core is breached, the defense fails.",
-  "pt": ""
+  "pt": "Após todos os Núcleos da Formação serem violados, a defesa falha",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_tryRun": {
   "ch": "尝试逃跑",
   "en": "Attempt Escape",
-  "pt": ""
+  "pt": "Tentar Fugir",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_wofang": {
   "ch": "（我方）",
   "en": "(Team)",
-  "pt": ""
+  "pt": "(Time)",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_wufajinru": {
   "ch": "前方似乎有强大的结界无法进入!",
   "en": "A powerful barrier blocks your way!",
-  "pt": ""
+  "pt": "Uma poderosa formação bloqueia seu caminho!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_xiaohao": {
   "ch": "消耗",
   "en": "Cost",
-  "pt": ""
+  "pt": "Custo",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_yitaoyao": {
   "ch": "{0}已逃跑！",
   "en": "{0} escaped!",
-  "pt": ""
+  "pt": "{0} fugiu!",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_yuji": {
   "ch": "预计",
   "en": "Estimation",
-  "pt": ""
+  "pt": "Estimativa",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_zhanting1": {
   "ch": "当前状态无法暂停游戏！",
   "en": "You can't pause the game in your current state.",
-  "pt": ""
+  "pt": "Você não pode pausar o jogo no seu estado atual.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_zhanting2": {
   "ch": "人物已死亡无法暂停游戏！",
   "en": "Your character is dead. You can't pause the game.",
-  "pt": ""
+  "pt": "Seu personagem está morto. Você não pode pausar o jogo.",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_zhenyan": {
   "ch": "第{0}阵眼",
   "en": "Array Core {0}",
-  "pt": ""
+  "pt": "Núcleo da Formação {0}",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "battle_zhiyuan1": {
   "ch": "支援到达还有",
   "en": "Reinforcement arrives in",
-  "pt": ""
+  "pt": "Reforço chega em",
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battle_zhiyuan2": {
   "ch": "支援到达",
   "en": "Reinforcement has arrived",
-  "pt": ""
+  "pt": "Reforço chegou",
+  "auto": "cohere/command-a-reasoning-08-2025"
  }
 }

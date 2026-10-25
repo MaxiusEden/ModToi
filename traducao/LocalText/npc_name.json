@@ -2,762 +2,1046 @@
  "npc_name1001": {
   "ch": "鬼谷子",
   "en": "Guiguzi",
-  "pt": ""
+  "pt": "Guiguzi",
+  "auto": "local/hy-mt2"
  },
  "npc_name1002": {
   "ch": "封石义",
   "en": "Feng Shiyi",
-  "pt": ""
+  "pt": "Feng Shiyi",
+  "auto": "local/hy-mt2"
  },
  "npc_name1003": {
   "ch": "左弘大",
   "en": "Zuo Hongda",
-  "pt": ""
+  "pt": "Zuo Hongda",
+  "auto": "local/hy-mt2"
  },
  "npc_name1004": {
   "ch": "石桌",
   "en": "Stone Table",
-  "pt": ""
+  "pt": "Mesa de Pedra",
+  "auto": "local/hy-mt2"
  },
  "npc_name1005": {
   "ch": "坟墓",
   "en": "Tomb",
-  "pt": ""
+  "pt": "Túmulo",
+  "auto": "local/hy-mt2"
  },
  "npc_name2001": {
   "ch": "小师妹",
   "en": "Junior (F)",
-  "pt": ""
+  "pt": "Júnior (F)",
+  "auto": "local/hy-mt2"
  },
  "npc_name20011": {
   "ch": "坊市管理员",
   "en": "Market Clerk",
-  "pt": ""
+  "pt": "Funcionário do mercado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npc_name20012": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name20013": {
   "ch": "客栈老板",
   "en": "Innkeeper",
-  "pt": ""
+  "pt": "Dono da pousada",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "npc_name20014": {
   "ch": "悬赏榜管理员",
   "en": "Bounty Board Clerk",
-  "pt": ""
+  "pt": "Oficial do Quadro de Recompensas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "npc_name20015": {
   "ch": "工坊管理员",
   "en": "Workshop Clerk",
-  "pt": ""
+  "pt": "Operador de Oficina",
+  "auto": "local/hy-mt2"
  },
  "npc_name20016": {
   "ch": "酒馆老板",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20017": {
   "ch": "琅琊阁管理员",
   "en": "Manual Pavilion Clerk",
-  "pt": ""
+  "pt": "Funcionário do Pavilhão dos Manuais",
+  "auto": "local/hy-mt2"
  },
  "npc_name2002": {
   "ch": "库房管事",
   "en": "Warehouse Steward",
-  "pt": ""
+  "pt": "Responsável pelo Armazém",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "npc_name20021": {
   "ch": "坊市管理员",
   "en": "Market Clerk",
-  "pt": ""
+  "pt": "Funcionário do mercado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npc_name20022": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name20023": {
   "ch": "客栈老板",
   "en": "Innkeeper",
-  "pt": ""
+  "pt": "Dono da pousada",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "npc_name20024": {
   "ch": "悬赏榜管理员",
   "en": "Bounty Board Clerk",
-  "pt": ""
+  "pt": "Oficial do Quadro de Recompensas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "npc_name20025": {
   "ch": "工坊管理员",
   "en": "Workshop Clerk",
-  "pt": ""
+  "pt": "Operador de Oficina",
+  "auto": "local/hy-mt2"
  },
  "npc_name20026": {
   "ch": "酒馆老板",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20027": {
   "ch": "琅琊阁管理员",
   "en": "Manual Pavilion Clerk",
-  "pt": ""
+  "pt": "Funcionário do Pavilhão dos Manuais",
+  "auto": "local/hy-mt2"
  },
  "npc_name2003": {
   "ch": "厢房管事",
   "en": "Butler",
-  "pt": ""
+  "pt": "Mordomo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name20031": {
   "ch": "坊市管理员",
   "en": "Market Clerk",
-  "pt": ""
+  "pt": "Funcionário do mercado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npc_name20032": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name20033": {
   "ch": "客栈老板",
   "en": "Innkeeper",
-  "pt": ""
+  "pt": "Dono da pousada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "npc_name20034": {
   "ch": "悬赏榜管理员",
   "en": "Bounty Board Clerk",
-  "pt": ""
+  "pt": "Oficial do Quadro de Recompensas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "npc_name20035": {
   "ch": "工坊管理员",
   "en": "Workshop Clerk",
-  "pt": ""
+  "pt": "Operador de Oficina",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name20036": {
   "ch": "酒馆老板",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20037": {
   "ch": "琅琊阁管理员",
   "en": "Manual Pavilion Clerk",
-  "pt": ""
+  "pt": "Funcionário do Pavilhão dos Manuais",
+  "auto": "local/hy-mt2"
  },
  "npc_name2004": {
   "ch": "藏经阁管事",
   "en": "Manual Library Clerk",
-  "pt": ""
+  "pt": "Funcionário da Biblioteca de Manuais",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 36 > 26 caracteres"
+  ]
  },
  "npc_name20041": {
   "ch": "坊市管理员",
   "en": "Market Clerk",
-  "pt": ""
+  "pt": "Funcionário do mercado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npc_name20042": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name20043": {
   "ch": "客栈老板",
   "en": "Innkeeper",
-  "pt": ""
+  "pt": "Dono da pousada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "npc_name20044": {
   "ch": "悬赏榜管理员",
   "en": "Bounty Board Clerk",
-  "pt": ""
+  "pt": "Oficial do Quadro de Recompensas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "npc_name20045": {
   "ch": "工坊管理员",
   "en": "Workshop Clerk",
-  "pt": ""
+  "pt": "Operador de Oficina",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name20046": {
   "ch": "酒馆老板",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20047": {
   "ch": "琅琊阁管理员",
   "en": "Manual Pavilion Clerk",
-  "pt": ""
+  "pt": "Funcionário do Pavilhão dos Manuais",
+  "auto": "local/hy-mt2"
  },
  "npc_name2005": {
   "ch": "传送阵守卫",
   "en": "Portal Guard",
-  "pt": ""
+  "pt": "Guarda do Portal",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name20051": {
   "ch": "坊市管理员",
   "en": "Market Clerk",
-  "pt": ""
+  "pt": "Funcionário do mercado",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npc_name20052": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name20053": {
   "ch": "客栈老板",
   "en": "Innkeeper",
-  "pt": ""
+  "pt": "Dono da pousada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "npc_name20054": {
   "ch": "悬赏榜管理员",
   "en": "Bounty Board Clerk",
-  "pt": ""
+  "pt": "Oficial do Quadro de Recompensas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "npc_name20055": {
   "ch": "工坊管理员",
   "en": "Workshop Clerk",
-  "pt": ""
+  "pt": "Operador de Oficina",
+  "auto": "local/hy-mt2"
  },
  "npc_name20056": {
   "ch": "酒馆老板",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20057": {
   "ch": "琅琊阁管理员",
   "en": "Manual Pavilion Clerk",
-  "pt": ""
+  "pt": "Funcionário do Pavilhão dos Manuais",
+  "auto": "local/hy-mt2"
  },
  "npc_name2006": {
   "ch": "老板娘",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20061": {
   "ch": "坊市管理员",
   "en": "Market Clerk",
-  "pt": ""
+  "pt": "Funcionário do mercado",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 22 > 16 caracteres"
+  ]
  },
  "npc_name20062": {
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
-  "pt": ""
+  "pt": "Oficial de Leilões",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name20063": {
   "ch": "客栈老板",
   "en": "Innkeeper",
-  "pt": ""
+  "pt": "Dono da pousada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "npc_name20064": {
   "ch": "悬赏榜管理员",
   "en": "Bounty Board Clerk",
-  "pt": ""
+  "pt": "Oficial do Quadro de Recompensas",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 32 > 24 caracteres"
+  ]
  },
  "npc_name20065": {
   "ch": "工坊管理员",
   "en": "Workshop Clerk",
-  "pt": ""
+  "pt": "Operador de Oficina",
+  "auto": "local/hy-mt2"
  },
  "npc_name20066": {
   "ch": "酒馆老板",
   "en": "Tavern Owner",
-  "pt": ""
+  "pt": "Proprietário da taverna",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 23 > 16 caracteres"
+  ]
  },
  "npc_name20067": {
   "ch": "琅琊阁管理员",
   "en": "Manual Pavilion Clerk",
-  "pt": ""
+  "pt": "Funcionário do Pavilhão dos Manuais",
+  "auto": "local/hy-mt2"
  },
  "npc_name2007": {
   "ch": "管理员",
   "en": "Clerk",
-  "pt": ""
+  "pt": "Funcionário",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 11 > 8 caracteres"
+  ]
  },
  "npc_name2008": {
   "ch": "管理员",
   "en": "Clerk",
-  "pt": ""
+  "pt": "Funcionário",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 11 > 8 caracteres"
+  ]
  },
  "npc_name2009": {
   "ch": "升仙大会主持人",
   "en": "Immortal Tournament Announcer",
-  "pt": ""
+  "pt": "Locutor do Torneio Imortal",
+  "auto": "local/hy-mt2"
  },
  "npc_name2010": {
   "ch": "小昭",
   "en": "Xiaozhao",
-  "pt": ""
+  "pt": "Xiaozhao",
+  "auto": "local/hy-mt2"
  },
  "npc_name2011": {
   "ch": "小昭",
   "en": "Xiaozhao",
-  "pt": ""
+  "pt": "Xiaozhao",
+  "auto": "local/hy-mt2"
  },
  "npc_name3001": {
   "ch": "神秘人李四",
   "en": "Mystery Man Jo",
-  "pt": ""
+  "pt": "O Homem Misterioso Jo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "npc_name60001": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6001": {
   "ch": "远古妖兽",
   "en": "Elder One",
-  "pt": ""
+  "pt": "Ancião Um",
+  "auto": "local/hy-mt2"
  },
  "npc_name6002": {
   "ch": "白眉老者",
   "en": "Old White Brows",
-  "pt": ""
+  "pt": "Velho Sobrancelhas Brancas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 26 > 20 caracteres"
+  ]
  },
  "npc_name6003": {
   "ch": "瞎老婆婆",
   "en": "Old Blind Woman",
-  "pt": ""
+  "pt": "Velha Cega",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6004": {
   "ch": "小狐妖胡雪儿",
   "en": "Fox Spirit Snow",
-  "pt": ""
+  "pt": "Espírito da Raposa Neve",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 20 caracteres"
+  ]
  },
  "npc_name6005": {
   "ch": "武罗",
   "en": "Jagu",
-  "pt": ""
+  "pt": "Jagu",
+  "auto": "local/hy-mt2"
  },
  "npc_name6006": {
   "ch": "愚公",
   "en": "Foolish Old Man",
-  "pt": ""
+  "pt": "Velho Tolo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6007": {
   "ch": "智叟",
   "en": "Wise Old Man",
-  "pt": ""
+  "pt": "Velho Sábio",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6008": {
   "ch": "神秘老人",
   "en": "Mysterious Old Man",
-  "pt": ""
+  "pt": "Velho Misterioso",
+  "auto": "local/hy-mt2"
  },
  "npc_name6009": {
   "ch": "后羿",
   "en": "Hou Yi",
-  "pt": ""
+  "pt": "Hou Yi",
+  "auto": "local/hy-mt2"
  },
  "npc_name6010": {
   "ch": "后羿",
   "en": "Hou Yi",
-  "pt": ""
+  "pt": "Hou Yi",
+  "auto": "local/hy-mt2"
  },
  "npc_name6011": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6012": {
   "ch": "三足乌·赤炎",
   "en": "Three-legged Crow Pyro",
-  "pt": ""
+  "pt": "Corvo de Três Pernas Piro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6013": {
   "ch": "扶桑树守护者",
   "en": "Divine Mulberry Guardian",
-  "pt": ""
+  "pt": "Guardião Divino da Amoreira",
+  "auto": "local/hy-mt2"
  },
  "npc_name6014": {
   "ch": "开明兽",
   "en": "Lydra",
-  "pt": ""
+  "pt": "Lydra",
+  "auto": "local/hy-mt2"
  },
  "npc_name6015": {
   "ch": "圣阳",
   "en": "Sunny",
-  "pt": ""
+  "pt": "Solar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6016": {
   "ch": "三足乌·圣阳",
   "en": "Three-legged Crow Sunny",
-  "pt": ""
+  "pt": "Corvo de Três Pernas Solar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6017": {
   "ch": "白发老者",
   "en": "Wizened Elder",
-  "pt": ""
+  "pt": "Ancião envelhecido",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name6020": {
   "ch": "村民",
   "en": "Villager",
-  "pt": ""
+  "pt": "Aldeão",
+  "auto": "local/hy-mt2"
  },
  "npc_name6021": {
   "ch": "精卫",
   "en": "Jingwei",
-  "pt": ""
+  "pt": "Jingwei",
+  "auto": "local/hy-mt2"
  },
  "npc_name6022": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6023": {
   "ch": "何罗鱼",
   "en": "Leviathan",
-  "pt": ""
+  "pt": "Leviatan",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6024": {
   "ch": "王嘉嘉",
   "en": "Wang Jiajia",
-  "pt": ""
+  "pt": "Wang Jiajia",
+  "auto": "local/hy-mt2"
  },
  "npc_name6025": {
   "ch": "王君",
   "en": "Wang Jun",
-  "pt": ""
+  "pt": "Wang Jun",
+  "auto": "local/hy-mt2"
  },
  "npc_name6026": {
   "ch": "王英",
   "en": "Wang Ying",
-  "pt": ""
+  "pt": "Wang Ying",
+  "auto": "local/hy-mt2"
  },
  "npc_name6027": {
   "ch": "王文",
   "en": "Wen Wang",
-  "pt": ""
+  "pt": "Wen Wang",
+  "auto": "local/hy-mt2"
  },
  "npc_name6030": {
   "ch": "王老五",
   "en": "Bachelor",
-  "pt": ""
+  "pt": "Bacharel",
+  "auto": "local/hy-mt2"
  },
  "npc_name6031": {
   "ch": "毕方",
   "en": "Bi Fang",
-  "pt": ""
+  "pt": "Bi Fang",
+  "auto": "local/hy-mt2"
  },
  "npc_name6032": {
   "ch": "白猪",
   "en": "White Pig",
-  "pt": ""
+  "pt": "Porco Branco",
+  "auto": "local/hy-mt2"
  },
  "npc_name6033": {
   "ch": "花猪",
   "en": "Spotted Pig",
-  "pt": ""
+  "pt": "Porco Malhado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6034": {
   "ch": "黑猪",
   "en": "Black Pig",
-  "pt": ""
+  "pt": "Porco Preto",
+  "auto": "local/hy-mt2"
  },
  "npc_name6035": {
   "ch": "斑猪",
   "en": "Striped Pig",
-  "pt": ""
+  "pt": "Porco Listrado",
+  "auto": "local/hy-mt2"
  },
  "npc_name6036": {
   "ch": "通用BOSS黑影",
   "en": "Boss's Shadow",
-  "pt": ""
+  "pt": "A Sombra do Chefe",
+  "auto": "local/hy-mt2"
  },
  "npc_name6037": {
   "ch": "神秘老人",
   "en": "Mysterious Old Man",
-  "pt": ""
+  "pt": "Velho Misterioso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6038": {
   "ch": "王承",
   "en": "Wang Cheng",
-  "pt": ""
+  "pt": "Wang Cheng",
+  "auto": "local/hy-mt2"
  },
  "npc_name6039": {
   "ch": "魔族男子",
   "en": "Fiend",
-  "pt": ""
+  "pt": "Demônio",
+  "auto": "local/hy-mt2"
  },
  "npc_name6040": {
   "ch": "魔族女子",
   "en": "Fiendess",
-  "pt": ""
+  "pt": "Demônia",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6041": {
   "ch": "风里希",
   "en": "Feng Lixi",
-  "pt": ""
+  "pt": "Feng Lixi",
+  "auto": "local/hy-mt2"
  },
  "npc_name6042": {
   "ch": "风允婼",
   "en": "Feng Yunchuo",
-  "pt": ""
+  "pt": "Feng Yunchuo",
+  "auto": "local/hy-mt2"
  },
  "npc_name6043": {
   "ch": "蓼菱仙子",
   "en": "Grotto Nymph",
-  "pt": ""
+  "pt": "Ninfeta do Grotão",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "npc_name6044": {
   "ch": "魃",
   "en": "Drought Demon",
-  "pt": ""
+  "pt": "Demônio da Seca",
+  "auto": "local/hy-mt2"
  },
  "npc_name6045": {
   "ch": "阿夸",
   "en": "Agar",
-  "pt": ""
+  "pt": "Agar",
+  "auto": "local/hy-mt2"
  },
  "npc_name6046": {
   "ch": "神秘人李四",
   "en": "Mystery Man Jo",
-  "pt": ""
+  "pt": "O Homem Misterioso Jo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 21 > 19 caracteres"
+  ]
  },
  "npc_name6047": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6048": {
   "ch": "季洪福",
   "en": "Ji Hongfu",
-  "pt": ""
+  "pt": "Ji Hongfu",
+  "auto": "local/hy-mt2"
  },
  "npc_name6049": {
   "ch": "季家客卿",
   "en": "Ji Family Tutor",
-  "pt": ""
+  "pt": "Tutor da Família Ji",
+  "auto": "local/hy-mt2"
  },
  "npc_name6050": {
   "ch": "盘龙山神官",
   "en": "Panlong Mountain Priest",
-  "pt": ""
+  "pt": "Sacerdote da Montanha Panlong",
+  "auto": "local/hy-mt2"
  },
  "npc_name6051": {
   "ch": "千岩谷神官",
   "en": "Rocky Valley Priest",
-  "pt": ""
+  "pt": "Sacerdote do Vale Rochoso",
+  "auto": "local/hy-mt2"
  },
  "npc_name6052": {
   "ch": "通幽谷神官",
   "en": "Secluded Valley Priest",
-  "pt": ""
+  "pt": "Sacerdote do Vale Secluso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6053": {
   "ch": "镇邪峰神官",
   "en": "Exorcism Peak Priest",
-  "pt": ""
+  "pt": "Sacerdote do Pico do Exorcismo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 30 > 26 caracteres"
+  ]
  },
  "npc_name6054": {
   "ch": "月落山神官",
   "en": "Moonfall Mountain Priest",
-  "pt": ""
+  "pt": "Sacerdote da Montanha da Lua Caindo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6055": {
   "ch": "蛟龙",
   "en": "Jiaolong",
-  "pt": ""
+  "pt": "Jiaolong",
+  "auto": "local/hy-mt2"
  },
  "npc_name6056": {
   "ch": "玄龟",
   "en": "Xuangui",
-  "pt": ""
+  "pt": "Xuangui",
+  "auto": "local/hy-mt2"
  },
  "npc_name6057": {
   "ch": "勾陈",
   "en": "Gouchen",
-  "pt": ""
+  "pt": "Gouchen",
+  "auto": "local/hy-mt2"
  },
  "npc_name6058": {
   "ch": "重明",
   "en": "Chongming",
-  "pt": ""
+  "pt": "Chongming",
+  "auto": "local/hy-mt2"
  },
  "npc_name6059": {
   "ch": "陆吾",
   "en": "Luwu",
-  "pt": ""
+  "pt": "Luwu",
+  "auto": "local/hy-mt2"
  },
  "npc_name6060": {
   "ch": "圣阳",
   "en": "Sunny",
-  "pt": ""
+  "pt": "Solar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6061": {
   "ch": "天门引者",
   "en": "Skygate Keeper",
-  "pt": ""
+  "pt": "Guardião do Portão Celestial",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 28 > 19 caracteres"
+  ]
  },
  "npc_name6062": {
   "ch": "阿嬉",
   "en": "Xi",
-  "pt": ""
+  "pt": "Xi",
+  "auto": "local/hy-mt2"
  },
  "npc_name6063": {
   "ch": "武罗",
   "en": "Jagu",
-  "pt": ""
+  "pt": "Jagu",
+  "auto": "local/hy-mt2"
  },
  "npc_name6064": {
   "ch": "阿禹",
   "en": "Yu",
-  "pt": ""
+  "pt": "Yu",
+  "auto": "local/hy-mt2"
  },
  "npc_name6065": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6066": {
   "ch": "老者",
   "en": "Old Man",
-  "pt": ""
+  "pt": "Velho",
+  "auto": "local/hy-mt2"
  },
  "npc_name6067": {
   "ch": "血星河",
   "en": "Sanguine Riverstar",
-  "pt": ""
+  "pt": "Sanguine Riverstar",
+  "auto": "local/hy-mt2"
  },
  "npc_name6068": {
   "ch": "江岚燕",
   "en": "Jiang Lanyan",
-  "pt": ""
+  "pt": "Jiang Lanyan",
+  "auto": "local/hy-mt2"
  },
  "npc_name6069": {
   "ch": "毕方",
   "en": "Bi Fang",
-  "pt": ""
+  "pt": "Bi Fang",
+  "auto": "local/hy-mt2"
  },
  "npc_name6070": {
   "ch": "阿禹",
   "en": "Yu",
-  "pt": ""
+  "pt": "Yu",
+  "auto": "local/hy-mt2"
  },
  "npc_name6071": {
   "ch": "涂山谣",
   "en": "Tushan Yao",
-  "pt": ""
+  "pt": "Tushan Yao",
+  "auto": "local/hy-mt2"
  },
  "npc_name6072": {
   "ch": "涂山茹",
   "en": "Tushan Ru",
-  "pt": ""
+  "pt": "Tushan Ru",
+  "auto": "local/hy-mt2"
  },
  "npc_name6073": {
   "ch": "涂山珺",
   "en": "Tushan Jun",
-  "pt": ""
+  "pt": "Tushan Jun",
+  "auto": "local/hy-mt2"
  },
  "npc_name6074": {
   "ch": "涂山珺",
   "en": "Tushan Jun",
-  "pt": ""
+  "pt": "Tushan Jun",
+  "auto": "local/hy-mt2"
  },
  "npc_name6075": {
   "ch": "涂山狭",
   "en": "Tushan Xia",
-  "pt": ""
+  "pt": "Tushan Xia",
+  "auto": "local/hy-mt2"
  },
  "npc_name6076": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6077": {
   "ch": "天玄真人",
   "en": "Sage Tianxuan",
-  "pt": ""
+  "pt": "Sábio Tianxuan",
+  "auto": "local/hy-mt2"
  },
  "npc_name6078": {
   "ch": "游远致",
   "en": "You Yuanzhi",
-  "pt": ""
+  "pt": "You Yuanzhi",
+  "auto": "local/hy-mt2"
  },
  "npc_name6080": {
   "ch": "景弘",
   "en": "Jinghong",
-  "pt": ""
+  "pt": "Jinghong",
+  "auto": "local/hy-mt2"
  },
  "npc_name6081": {
   "ch": "明通",
   "en": "Mingtong",
-  "pt": ""
+  "pt": "Mingtong",
+  "auto": "local/hy-mt2"
  },
  "npc_name6082": {
   "ch": "醉酒青年",
   "en": "Young Drunkard",
-  "pt": ""
+  "pt": "Jovem bêbado",
+  "auto": "local/hy-mt2"
  },
  "npc_name6083": {
   "ch": "明通",
   "en": "Mingtong",
-  "pt": ""
+  "pt": "Mingtong",
+  "auto": "local/hy-mt2"
  },
  "npc_name6084": {
   "ch": "折红鹊",
   "en": "Magpie Zhehong",
-  "pt": ""
+  "pt": "Pega Zhehong",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6085": {
   "ch": "神秘女子",
   "en": "Mysterious Lady",
-  "pt": ""
+  "pt": "Dama Misteriosa",
+  "auto": "local/hy-mt2"
  },
  "npc_name6088": {
   "ch": "李四",
   "en": "Jo",
-  "pt": ""
+  "pt": "Jo",
+  "auto": "local/hy-mt2"
  },
  "npc_name6089": {
   "ch": "夜雨楼",
   "en": "Night Rain",
-  "pt": ""
+  "pt": "Chuva Noturna",
+  "auto": "local/hy-mt2"
  },
  "npc_name6090": {
   "ch": "风里希",
   "en": "Feng Lixi",
-  "pt": ""
+  "pt": "Feng Lixi",
+  "auto": "local/hy-mt2"
  },
  "npc_name6091": {
   "ch": "张三",
   "en": "Zhang San",
-  "pt": ""
+  "pt": "Zhang San",
+  "auto": "local/hy-mt2"
  },
  "npc_name6092": {
   "ch": "狩仙子",
   "en": "Hunting Fairy",
-  "pt": ""
+  "pt": "Fada Caçadora",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6093": {
   "ch": "云覆",
   "en": "Canopy Cloud",
-  "pt": ""
+  "pt": "Canopy Cloud",
+  "auto": "local/hy-mt2"
  },
  "npc_name6094": {
   "ch": "浪潮音",
   "en": "Echoing Tide",
-  "pt": ""
+  "pt": "Maré Ressoante",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name6095": {
   "ch": "苍龙",
   "en": "Black Dragon",
-  "pt": ""
+  "pt": "Dragão Negro",
+  "auto": "local/hy-mt2"
  },
  "npc_name6096": {
   "ch": "衡天",
   "en": "Hengtian",
-  "pt": ""
+  "pt": "Hengtian",
+  "auto": "local/hy-mt2"
  },
  "npc_name6097": {
   "ch": "衡天",
   "en": "Hengtian",
-  "pt": ""
+  "pt": "Hengtian",
+  "auto": "local/hy-mt2"
  },
  "npc_name6098": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name6099": {
   "ch": "冥魔",
   "en": "Nether Lord",
-  "pt": ""
+  "pt": "Senhor do Submundo",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "npc_name6100": {
   "ch": "",
@@ -767,1106 +1051,1378 @@
  "npc_name6110": {
   "ch": "男子",
   "en": "Unknown Man",
-  "pt": ""
+  "pt": "Homem Desconhecido",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 18 > 15 caracteres"
+  ]
  },
  "npc_name6111": {
   "ch": "柳承涛",
   "en": "Liu Chengtao",
-  "pt": ""
+  "pt": "Liu Chengtao",
+  "auto": "local/hy-mt2"
  },
  "npc_name6112": {
   "ch": "岳幽",
   "en": "Yue You",
-  "pt": ""
+  "pt": "Yue You",
+  "auto": "local/hy-mt2"
  },
  "npc_name6113": {
   "ch": "丁子俊",
   "en": "Ding Zijun",
-  "pt": ""
+  "pt": "Ding Zijun",
+  "auto": "local/hy-mt2"
  },
  "npc_name6114": {
   "ch": "荆洛",
   "en": "Jing Luo",
-  "pt": ""
+  "pt": "Jing Luo",
+  "auto": "local/hy-mt2"
  },
  "npc_name6115": {
   "ch": "全尔阳",
   "en": "Quan Eryang",
-  "pt": ""
+  "pt": "Quan Eryang",
+  "auto": "local/hy-mt2"
  },
  "npc_name7000": {
   "ch": "山贼二当家",
   "en": "Bandit Deputy",
-  "pt": ""
+  "pt": "Vice-chefe dos Bandidos",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 23 > 17 caracteres"
+  ]
  },
  "npc_name7001": {
   "ch": "村民",
   "en": "Villager",
-  "pt": ""
+  "pt": "Aldeão",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name7002": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name7010": {
   "ch": "蚀心殿神秘人",
   "en": "Mindsnap Temple Mystery Man",
-  "pt": ""
+  "pt": "Homem Misterioso do Templo Quebra-Mente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name7011": {
   "ch": "道心阁神秘人",
   "en": "Taoist Mind Pavilion Mystery Man",
-  "pt": ""
+  "pt": "Homem Misterioso do Pavilhão do Coração do Dao",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name7012": {
   "ch": "蝶怨仙子",
   "en": "Bitterfly Spirit",
-  "pt": ""
+  "pt": "Espírito da Borboleta Amarga",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 21 caracteres"
+  ]
  },
  "npc_name8001": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8002": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8003": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8004": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8005": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8006": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8007": {
   "ch": "阿龟",
   "en": "Venerable Tortoise",
-  "pt": ""
+  "pt": "Tartaruga Venerável",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8010": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8011": {
   "ch": "鸡王",
   "en": "Chicken King",
-  "pt": ""
+  "pt": "Rei das Galinhas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8012": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8013": {
   "ch": "鲮鱼",
   "en": "Carpia",
-  "pt": ""
+  "pt": "Carpia",
+  "auto": "local/hy-mt2"
  },
  "npc_name8019": {
   "ch": "君愿知",
   "en": "Jun Yuanzhi",
-  "pt": ""
+  "pt": "Jun Yuanzhi",
+  "auto": "local/hy-mt2"
  },
  "npc_name8020": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8021": {
   "ch": "冰夷",
   "en": "Bingyi",
-  "pt": ""
+  "pt": "Bingyi",
+  "auto": "local/hy-mt2"
  },
  "npc_name8022": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8023": {
   "ch": "黑袍人",
   "en": "Black-Robed Person",
-  "pt": ""
+  "pt": "Pessoa de Veste Preta",
+  "auto": "local/hy-mt2"
  },
  "npc_name8028": {
   "ch": "龙子",
   "en": "Dragon Boy",
-  "pt": ""
+  "pt": "Menino Dragão",
+  "auto": "local/hy-mt2"
  },
  "npc_name8029": {
   "ch": "龙女",
   "en": "Dragon Girl",
-  "pt": ""
+  "pt": "Garota Dragão",
+  "auto": "local/hy-mt2"
  },
  "npc_name8030": {
   "ch": "跟屁虫",
   "en": "Following Bug",
-  "pt": ""
+  "pt": "Grudento",
+  "auto": "local/hy-mt2"
  },
  "npc_name8031": {
   "ch": "云涯",
   "en": "Yun Ya",
-  "pt": ""
+  "pt": "Yun Ya",
+  "auto": "local/hy-mt2"
  },
  "npc_name8032": {
   "ch": "跟屁龙",
   "en": "Following Dragon",
-  "pt": ""
+  "pt": "Dragão Seguidor",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8033": {
   "ch": "孤魂野鬼",
   "en": "Ghost with No Kin",
-  "pt": ""
+  "pt": "Fantasma sem parentes",
+  "auto": "local/hy-mt2"
  },
  "npc_name8038": {
   "ch": "道心阁神秘人甲",
   "en": "Taoist Mind Pavilion Mystery Man A",
-  "pt": ""
+  "pt": "Homem Misterioso A do Pavilhão do Coração do Dao",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8039": {
   "ch": "道心阁神秘人乙",
   "en": "Taoist Mind Pavilion Mystery Man B",
-  "pt": ""
+  "pt": "Homem Misterioso B do Pavilhão do Coração do Dao",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8040": {
   "ch": "蚀心殿神秘人甲",
   "en": "Mindsnap Temple Mystery Man A",
-  "pt": ""
+  "pt": "Homem Misterioso A do Templo Quebra-Mente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8041": {
   "ch": "蚀心殿神秘人乙",
   "en": "Mindsnap Temple Mystery Man B",
-  "pt": ""
+  "pt": "Homem Misterioso B do Templo Quebra-Mente",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8042": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8043": {
   "ch": "天玄真人",
   "en": "Sage Tianxuan",
-  "pt": ""
+  "pt": "Sábio Tianxuan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8044": {
   "ch": "蝶怨仙子",
   "en": "Bitterfly Spirit",
-  "pt": ""
+  "pt": "Espírito da Borboleta Amarga",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 21 caracteres"
+  ]
  },
  "npc_name8045": {
   "ch": "风萍末",
   "en": "Feng Pingmo",
-  "pt": ""
+  "pt": "Feng Pingmo",
+  "auto": "local/hy-mt2"
  },
  "npc_name8046": {
   "ch": "冰原女子",
   "en": "Tundra Woman",
-  "pt": ""
+  "pt": "Mulher da Tundra",
+  "auto": "local/hy-mt2"
  },
  "npc_name8047": {
   "ch": "男修仙者",
   "en": "Male Cultivator",
-  "pt": ""
+  "pt": "Cultivador",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8048": {
   "ch": "句芒",
   "en": "Goumang",
-  "pt": ""
+  "pt": "Goumang",
+  "auto": "local/hy-mt2"
  },
  "npc_name8049": {
   "ch": "碧泓",
   "en": "Bihong",
-  "pt": ""
+  "pt": "Bihong",
+  "auto": "local/hy-mt2"
  },
  "npc_name8050": {
   "ch": "骆瑛",
   "en": "Luoying",
-  "pt": ""
+  "pt": "Luoying",
+  "auto": "local/hy-mt2"
  },
  "npc_name8051": {
   "ch": "顾鸢儿",
   "en": "Gu Yuan'er",
-  "pt": ""
+  "pt": "Gu Yuan'er",
+  "auto": "local/hy-mt2"
  },
  "npc_name8052": {
   "ch": "顾南罡",
   "en": "Gu Nangang",
-  "pt": ""
+  "pt": "Gu Nangang",
+  "auto": "local/hy-mt2"
  },
  "npc_name8053": {
   "ch": "向令钧",
   "en": "Xiang Lingjun",
-  "pt": ""
+  "pt": "Xiang Lingjun",
+  "auto": "local/hy-mt2"
  },
  "npc_name8054": {
   "ch": "仙卫甲",
   "en": "Alliance Guard A",
-  "pt": ""
+  "pt": "Guarda da Aliança A",
+  "auto": "local/hy-mt2"
  },
  "npc_name8055": {
   "ch": "仙卫乙",
   "en": "Alliance Guard B",
-  "pt": ""
+  "pt": "Guarda da Aliança B",
+  "auto": "local/hy-mt2"
  },
  "npc_name8056": {
   "ch": "仙盟弟子",
   "en": "Alliance Disciple",
-  "pt": ""
+  "pt": "Discípulo da Aliança",
+  "auto": "local/hy-mt2"
  },
  "npc_name8057": {
   "ch": "骆瑛近身仙卫",
   "en": "Luo Ying's Bodyguard",
-  "pt": ""
+  "pt": "Guarda-costas de Luo Ying",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8058": {
   "ch": "端木胜寒",
   "en": "Duanmu Shenghan",
-  "pt": ""
+  "pt": "Duanmu Shenghan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8059": {
   "ch": "端木影阑",
   "en": "Duanmu Yinglan",
-  "pt": ""
+  "pt": "Duanmu Yinglan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8060": {
   "ch": "盟主近卫",
   "en": "Master's Bodyguard",
-  "pt": ""
+  "pt": "Guarda-costas do Mestre",
+  "auto": "local/hy-mt2"
  },
  "npc_name8061": {
   "ch": "混沌",
   "en": "Chaos",
-  "pt": ""
+  "pt": "Caos",
+  "auto": "local/hy-mt2"
  },
  "npc_name8062": {
   "ch": "九婴",
   "en": "Jiuying",
-  "pt": ""
+  "pt": "Jiuying",
+  "auto": "local/hy-mt2"
  },
  "npc_name8063": {
   "ch": "沐窥圆",
   "en": "Mu Kuiyuan",
-  "pt": ""
+  "pt": "Mu Kuiyuan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8064": {
   "ch": "玄冥",
   "en": "Xuanming",
-  "pt": ""
+  "pt": "Xuanming",
+  "auto": "local/hy-mt2"
  },
  "npc_name8065": {
   "ch": "若川",
   "en": "Ruochuan",
-  "pt": ""
+  "pt": "Ruochuan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8066": {
   "ch": "卫禾",
   "en": "Wei He",
-  "pt": ""
+  "pt": "Wei He",
+  "auto": "local/hy-mt2"
  },
  "npc_name8067": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8068": {
   "ch": "好奇的村民",
   "en": "Curious Villager",
-  "pt": ""
+  "pt": "Aldeão Curioso",
+  "auto": "local/hy-mt2"
  },
  "npc_name8069": {
   "ch": "活泼的村民",
   "en": "Lively Villager",
-  "pt": ""
+  "pt": "Aldeão Animado",
+  "auto": "local/hy-mt2"
  },
  "npc_name8070": {
   "ch": "热心的村民",
   "en": "Hearty Villager",
-  "pt": ""
+  "pt": "Aldeão Cordial",
+  "auto": "local/hy-mt2"
  },
  "npc_name8071": {
   "ch": "健谈的村民",
   "en": "Chatty Villager",
-  "pt": ""
+  "pt": "Aldeão tagarela",
+  "auto": "local/hy-mt2"
  },
  "npc_name8072": {
   "ch": "豪爽的村民",
   "en": "Frank Villager",
-  "pt": ""
+  "pt": "Aldeão Franco",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8073": {
   "ch": "直率的村民",
   "en": "Candid Villager",
-  "pt": ""
+  "pt": "Aldeão Sincero",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8074": {
   "ch": "开朗的村民",
   "en": "Chirpy Villager",
-  "pt": ""
+  "pt": "Aldeão Alegre",
+  "auto": "local/hy-mt2"
  },
  "npc_name8075": {
   "ch": "风趣的村民",
   "en": "Witty Villager",
-  "pt": ""
+  "pt": "Aldeão Espirituoso",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8076": {
   "ch": "果树",
   "en": "Fruit Tree",
-  "pt": ""
+  "pt": "Árvore de Fruto",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 15 > 13 caracteres"
+  ]
  },
  "npc_name8078": {
   "ch": "豁达的村民",
   "en": "Genial Villager",
-  "pt": ""
+  "pt": "Aldeão Genial",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8079": {
   "ch": "乐观的村民",
   "en": "Buoyant Villager",
-  "pt": ""
+  "pt": "Aldeão Otimista",
+  "auto": "local/hy-mt2"
  },
  "npc_name8080": {
   "ch": "后土",
   "en": "Houtu",
-  "pt": ""
+  "pt": "Houtu",
+  "auto": "local/hy-mt2"
  },
  "npc_name8082": {
   "ch": "李卿云",
   "en": "Li Qingyun",
-  "pt": ""
+  "pt": "Li Qingyun",
+  "auto": "local/hy-mt2"
  },
  "npc_name8083": {
   "ch": "王悠远",
   "en": "Wang Youyuan",
-  "pt": ""
+  "pt": "Wang Youyuan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8101": {
   "ch": "衔炎·梁渠",
   "en": "Flaming Bill - Liangqu",
-  "pt": ""
+  "pt": "Bico Flamejante - Liangqu",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8102": {
   "ch": "霓狸·双双",
   "en": "Iridescent Cat - Shuangshuang",
-  "pt": ""
+  "pt": "Gata Iridescente - Shuangshuang",
+  "auto": "local/hy-mt2"
  },
  "npc_name8103": {
   "ch": "悬壶·风灵兰",
   "en": "Noble Medic - Feng Linglan",
-  "pt": ""
+  "pt": "Médico Nobre - Feng Linglan",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8104": {
   "ch": "离尘·帝江",
   "en": "Outlandish One - Dijiang",
-  "pt": ""
+  "pt": "Excêntrico - Dijiang",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8105": {
   "ch": "月兰·瑶姬",
   "en": "Lunar Orchid - Yaoji",
-  "pt": ""
+  "pt": "Orquídea Lunar - Yaoji",
+  "auto": "local/hy-mt2"
  },
  "npc_name8106": {
   "ch": "星主·苏墨白",
   "en": "Gleaming Pieces - Su Mobai",
-  "pt": ""
+  "pt": "Peças Reluzentes - Su Mobai",
+  "auto": "local/hy-mt2"
  },
  "npc_name8107": {
   "ch": "影弑·厉寒珊",
   "en": "Shadowslayer - Li Hanshan",
-  "pt": ""
+  "pt": "Assassino de Sombras - Li Hanshan",
+  "auto": "local/hy-mt2"
  },
  "npc_name8108": {
   "ch": "擎苍·蔽日仙菌",
   "en": "Sun Blocking - Heavenly Mushroom",
-  "pt": ""
+  "pt": "Bloqueador Solar - Cogumelo Celestial",
+  "auto": "local/hy-mt2"
  },
  "npc_name8109": {
   "ch": "神目·离珠",
   "en": "Divine Eyes - Lizhu",
-  "pt": ""
+  "pt": "Olhos Divinos - Lizhu",
+  "auto": "local/hy-mt2"
  },
  "npc_name8110": {
   "ch": "烽岚·沧泷",
   "en": "Flaming Wind - Canglong",
-  "pt": ""
+  "pt": "Vento Flamejante - Canglong",
+  "auto": "local/hy-mt2"
  },
  "npc_name8111": {
   "ch": "止水·鹿林溪",
   "en": "Placid Water - Lu Linxi",
-  "pt": ""
+  "pt": "Água Tranquila - Lu Linxi",
+  "auto": "local/hy-mt2"
  },
  "npc_name8112": {
   "ch": "斗魂·芦花王",
   "en": "Battle Soul - King Luhua",
-  "pt": ""
+  "pt": "Alma de Batalha - Rei Luhua",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8113": {
   "ch": "昆吾·剑一",
   "en": "Kunwu - Jianyi",
-  "pt": ""
+  "pt": "Kunwu - Jianyi",
+  "auto": "local/hy-mt2"
  },
  "npc_name8114": {
   "ch": "缚命·季沽魂",
   "en": "Destiny Catcher - Ji Guhun",
-  "pt": ""
+  "pt": "Captor do Destino - Ji Guhun",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8115": {
   "ch": "天幻·东方茗雪",
   "en": "Ethereal Illusion - Mingxue",
-  "pt": ""
+  "pt": "Ilusão Etérea - Mingxue",
+  "auto": "local/hy-mt2"
  },
  "npc_name8116": {
   "ch": "琼芳·紫姑",
   "en": "Jade Blossom - Zigu",
-  "pt": ""
+  "pt": "Flor de Jade - Zigu",
+  "auto": "local/hy-mt2"
  },
  "npc_name8117": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8118": {
   "ch": "离尘·帝江（分身）",
   "en": "Outlandish One - Dijiang (Clone)",
-  "pt": ""
+  "pt": "Excêntrico - Dijiang (Clone)",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8119": {
   "ch": "披风药灵",
   "en": "Hooded Mushroom Man",
-  "pt": ""
+  "pt": "Homem Cogumelo de Capuz",
+  "auto": "local/hy-mt2"
  },
  "npc_name8201": {
   "ch": "熊小愚",
   "en": "Bearie",
-  "pt": ""
+  "pt": "Bearie",
+  "auto": "local/hy-mt2"
  },
  "npc_name8202": {
   "ch": "刑天",
   "en": "Xingtian",
-  "pt": ""
+  "pt": "Xingtian",
+  "auto": "local/hy-mt2"
  },
  "npc_name8203": {
   "ch": "八荒守护灵",
   "en": "Guardian Spirit of the World",
-  "pt": ""
+  "pt": "Espírito Guardião do Mundo",
+  "auto": "local/hy-mt2"
  },
  "npc_name8204": {
   "ch": "琅琊阁侍女",
   "en": "Pavilion Maid",
-  "pt": ""
+  "pt": "Criada do Pavilhão",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "npc_name8205": {
   "ch": "邪教教主",
   "en": "Heresy Preacher",
-  "pt": ""
+  "pt": "Pregador Herege",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8206": {
   "ch": "教徒",
   "en": "Follower",
-  "pt": ""
+  "pt": "Seguidor",
+  "auto": "local/hy-mt2"
  },
  "npc_name8207": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8208": {
   "ch": "干",
   "en": "Xingtian's Shield",
-  "pt": ""
+  "pt": "Escudo de Xingtian",
+  "auto": "local/hy-mt2"
  },
  "npc_name8209": {
   "ch": "戚",
   "en": "Xingtian's Axe",
-  "pt": ""
+  "pt": "Machado de Xingtian",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8210": {
   "ch": "剑竹妖",
   "en": "Sword Bambuki",
-  "pt": ""
+  "pt": "Bambuki da Espada",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8211": {
   "ch": "药灵",
   "en": "Mushroom Man",
-  "pt": ""
+  "pt": "Homem Cogumelo",
+  "auto": "local/hy-mt2"
  },
  "npc_name8500": {
   "ch": "一子灵",
   "en": "First Piece",
-  "pt": ""
+  "pt": "Primeira Peça",
+  "auto": "local/hy-mt2"
  },
  "npc_name8501": {
   "ch": "二子灵",
   "en": "Second Piece",
-  "pt": ""
+  "pt": "Segunda Peça",
+  "auto": "local/hy-mt2"
  },
  "npc_name8502": {
   "ch": "三子灵",
   "en": "Third Piece",
-  "pt": ""
+  "pt": "Terceira Peça",
+  "auto": "local/hy-mt2"
  },
  "npc_name8503": {
   "ch": "四子灵",
   "en": "Fourth Piece",
-  "pt": ""
+  "pt": "Quarta Peça",
+  "auto": "local/hy-mt2"
  },
  "npc_name8504": {
   "ch": "五子灵",
   "en": "Fifth Piece",
-  "pt": ""
+  "pt": "Quinta Peça",
+  "auto": "local/hy-mt2"
  },
  "npc_name8510": {
   "ch": "玄令地仙",
   "en": "Black-rank Earth Immortal",
-  "pt": ""
+  "pt": "Imortal da Terra de Nível Negro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8511": {
   "ch": "素令地仙",
   "en": "White-rank Earth Immortal",
-  "pt": ""
+  "pt": "Imortal da Terra de Nível Branco",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8512": {
   "ch": "碧令地仙",
   "en": "Green-rank Earth Immortal",
-  "pt": ""
+  "pt": "Imortal da Terra de Nível Verde",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8513": {
   "ch": "黄令地仙",
   "en": "Yellow-rank Earth Immortal",
-  "pt": ""
+  "pt": "Imortal da Terra de Nível Amarelo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8514": {
   "ch": "绯令地仙",
   "en": "Red-rank Earth Immortal",
-  "pt": ""
+  "pt": "Imortal da Terra de Nível Vermelho",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name8515": {
   "ch": "太冲地仙",
   "en": "Taichong Earth Immortal",
-  "pt": ""
+  "pt": "Imortal da Terra Taichong",
+  "auto": "local/hy-mt2"
  },
  "npc_name8700": {
   "ch": "药辰尊",
   "en": "Yao Chenzun",
-  "pt": ""
+  "pt": "Yao Chenzun",
+  "auto": "local/hy-mt2"
  },
  "npc_name8701": {
   "ch": "师青",
   "en": "Shi Qing",
-  "pt": ""
+  "pt": "Shi Qing",
+  "auto": "local/hy-mt2"
  },
  "npc_name8702": {
   "ch": "宋东庭",
   "en": "Song Dongting",
-  "pt": ""
+  "pt": "Song Dongting",
+  "auto": "local/hy-mt2"
  },
  "npc_name8703": {
   "ch": "桓文",
   "en": "Huan Wen",
-  "pt": ""
+  "pt": "Huan Wen",
+  "auto": "local/hy-mt2"
  },
  "npc_name8704": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8705": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8706": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8707": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8708": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8709": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8710": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8711": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8712": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8713": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8714": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8715": {
   "ch": "？？？",
   "en": "???",
-  "pt": ""
+  "pt": "???",
+  "auto": "local/hy-mt2"
  },
  "npc_name8720": {
   "ch": "药辰尊",
   "en": "Yao Chenzun",
-  "pt": ""
+  "pt": "Yao Chenzun",
+  "auto": "local/hy-mt2"
  },
  "npc_name8721": {
   "ch": "师青",
   "en": "Shi Qing",
-  "pt": ""
+  "pt": "Shi Qing",
+  "auto": "local/hy-mt2"
  },
  "npc_name8730": {
   "ch": "血微",
   "en": "Sanguira",
-  "pt": ""
+  "pt": "Sanguira",
+  "auto": "local/hy-mt2"
  },
  "npc_name9002": {
   "ch": "村民甲",
   "en": "Villager A",
-  "pt": ""
+  "pt": "Aldeão A",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9003": {
   "ch": "村民乙",
   "en": "Villager B",
-  "pt": ""
+  "pt": "Aldeão B",
+  "auto": "local/hy-mt2"
  },
  "npc_name9004": {
   "ch": "村长",
   "en": "Village head",
-  "pt": ""
+  "pt": "Chefe da aldeia",
+  "auto": "local/hy-mt2"
  },
  "npc_name9100": {
   "ch": "药灵",
   "en": "Mushroom Man",
-  "pt": ""
+  "pt": "Homem Cogumelo",
+  "auto": "local/hy-mt2"
  },
  "npc_name9101": {
   "ch": "当康",
   "en": "Dangkang",
-  "pt": ""
+  "pt": "Dangkang",
+  "auto": "local/hy-mt2"
  },
  "npc_name9102": {
   "ch": "九尾狐",
   "en": "Nine Tails",
-  "pt": ""
+  "pt": "Nove Caudas",
+  "auto": "local/hy-mt2"
  },
  "npc_name9103": {
   "ch": "武罗",
   "en": "Jagu",
-  "pt": ""
+  "pt": "Jagu",
+  "auto": "local/hy-mt2"
  },
  "npc_name9104": {
   "ch": "张三",
   "en": "Zhang San",
-  "pt": ""
+  "pt": "Zhang San",
+  "auto": "local/hy-mt2"
  },
  "npc_name9210": {
   "ch": "神秘人",
   "en": "Mysterious Person",
-  "pt": ""
+  "pt": "Pessoa Misteriosa",
+  "auto": "local/hy-mt2"
  },
  "npc_name9211": {
   "ch": "神秘人",
   "en": "Mysterious Person",
-  "pt": ""
+  "pt": "Pessoa Misteriosa",
+  "auto": "local/hy-mt2"
  },
  "npc_name9212": {
   "ch": "道心阁神秘首领",
   "en": "Unknown Pavilion Leader",
-  "pt": ""
+  "pt": "Líder de Pavilhão Desconhecido",
+  "auto": "local/hy-mt2"
  },
  "npc_name9213": {
   "ch": "蚀心殿神秘首领",
   "en": "Unknown Temple Leader",
-  "pt": ""
+  "pt": "Líder do Templo Desconhecido",
+  "auto": "local/hy-mt2"
  },
  "npc_name9230": {
   "ch": "修仙者",
   "en": "Cultivator",
-  "pt": ""
+  "pt": "Cultivador",
+  "auto": "local/hy-mt2"
  },
  "npc_name9231": {
   "ch": "修仙者甲",
   "en": "Cultivator A",
-  "pt": ""
+  "pt": "Cultivador A",
+  "auto": "local/hy-mt2"
  },
  "npc_name9232": {
   "ch": "云远",
   "en": "Yun Yuan",
-  "pt": ""
+  "pt": "Yun Yuan",
+  "auto": "local/hy-mt2"
  },
  "npc_name9233": {
   "ch": "修仙者",
   "en": "Cultivator",
-  "pt": ""
+  "pt": "Cultivador",
+  "auto": "local/hy-mt2"
  },
  "npc_name9234": {
   "ch": "修仙者甲",
   "en": "Cultivator A",
-  "pt": ""
+  "pt": "Cultivador A",
+  "auto": "local/hy-mt2"
  },
  "npc_name9235": {
   "ch": "修仙者乙",
   "en": "Cultivator B",
-  "pt": ""
+  "pt": "Cultivador B",
+  "auto": "local/hy-mt2"
  },
  "npc_name9236": {
   "ch": "薛行天",
   "en": "Xue Xingtian",
-  "pt": ""
+  "pt": "Xue Xingtian",
+  "auto": "local/hy-mt2"
  },
  "npc_name9237": {
   "ch": "郎君豪",
   "en": "Lang Junhao",
-  "pt": ""
+  "pt": "Lang Junhao",
+  "auto": "local/hy-mt2"
  },
  "npc_name9239": {
   "ch": "陈劲峰",
   "en": "Chen Jingfeng",
-  "pt": ""
+  "pt": "Chen Jingfeng",
+  "auto": "local/hy-mt2"
  },
  "npc_name9240": {
   "ch": "郝霸先",
   "en": "Hao Baxian",
-  "pt": ""
+  "pt": "Hao Baxian",
+  "auto": "local/hy-mt2"
  },
  "npc_name9241": {
   "ch": "倪永",
   "en": "Ni Yong",
-  "pt": ""
+  "pt": "Ni Yong",
+  "auto": "local/hy-mt2"
  },
  "npc_name9242": {
   "ch": "李玄同",
   "en": "Li Xuantong",
-  "pt": ""
+  "pt": "Li Xuantong",
+  "auto": "local/hy-mt2"
  },
  "npc_name9243": {
   "ch": "谢雪峰",
   "en": "Xie Xuefeng",
-  "pt": ""
+  "pt": "Xie Xuefeng",
+  "auto": "local/hy-mt2"
  },
  "npc_name9244": {
   "ch": "骆青云",
   "en": "Luo Qingyun",
-  "pt": ""
+  "pt": "Luo Qingyun",
+  "auto": "local/hy-mt2"
  },
  "npc_name9245": {
   "ch": "费晋",
   "en": "Fei Jin",
-  "pt": ""
+  "pt": "Fei Jin",
+  "auto": "local/hy-mt2"
  },
  "npc_name9301": {
   "ch": "残魂",
   "en": "Broken Soul",
-  "pt": ""
+  "pt": "Alma Partida",
+  "auto": "local/hy-mt2"
  },
  "npc_name9302": {
   "ch": "恶魂",
   "en": "Malevolent Soul",
-  "pt": ""
+  "pt": "Alma malévola",
+  "auto": "local/hy-mt2"
  },
  "npc_name9303": {
   "ch": "善魂",
   "en": "Benevolent Soul",
-  "pt": ""
+  "pt": "Alma benevolente",
+  "auto": "local/hy-mt2"
  },
  "npc_name9304": {
   "ch": "商魂",
   "en": "Merchant Soul",
-  "pt": ""
+  "pt": "Alma do Comerciante",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 19 > 17 caracteres"
+  ]
  },
  "npc_name9305": {
   "ch": "怯魂",
   "en": "Timid Soul",
-  "pt": ""
+  "pt": "Alma tímida",
+  "auto": "local/hy-mt2"
  },
  "npc_name9306": {
   "ch": "龙魂",
   "en": "Dragon Soul",
-  "pt": ""
+  "pt": "Alma do Dragão",
+  "auto": "local/hy-mt2"
  },
  "npc_name9307": {
   "ch": "雾水魂",
   "en": "Dewy Soul",
-  "pt": ""
+  "pt": "Alma Orvalhada",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "npc_name9308": {
   "ch": "防盗魂",
   "en": "Ward Soul",
-  "pt": ""
+  "pt": "Alma Protetora",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "npc_name9309": {
   "ch": "劫掠魂",
   "en": "Plunderer Soul",
-  "pt": ""
+  "pt": "Alma Saqueadora",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9310": {
   "ch": "解意魂",
   "en": "Mindreader Soul",
-  "pt": ""
+  "pt": "Alma Leitora de Mentes",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "npc_name9311": {
   "ch": "梦萦魂",
   "en": "Dreamweaver Soul",
-  "pt": ""
+  "pt": "Alma Tecelã de Sonhos",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9312": {
   "ch": "武魂",
   "en": "Martial Soul",
-  "pt": ""
+  "pt": "Alma Marcial",
+  "auto": "local/hy-mt2"
  },
  "npc_name9313": {
   "ch": "酒魂",
   "en": "Liquor Soul",
-  "pt": ""
+  "pt": "Alma do Licor",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9314": {
   "ch": "偷心魂",
   "en": "Heartcharmer Soul",
-  "pt": ""
+  "pt": "Alma Encantadora de Corações",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 23 caracteres"
+  ]
  },
  "npc_name9315": {
   "ch": "镇妖魂",
   "en": "Beast Suppressor Soul",
-  "pt": ""
+  "pt": "Alma Supressora de Feras",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9318": {
   "ch": "自持魂",
   "en": "Lovereaper Soul",
-  "pt": ""
+  "pt": "Alma Ceifadora do Amor",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "npc_name9319": {
   "ch": "月老魂",
   "en": "Matchmaker Soul",
-  "pt": ""
+  "pt": "Alma Casamenteira",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9320": {
   "ch": "长舌魂",
   "en": "Gossip Soul",
-  "pt": ""
+  "pt": "Alma fofoqueira",
+  "auto": "local/hy-mt2"
  },
  "npc_name9321": {
   "ch": "妙手魂",
   "en": "Dexterity Soul",
-  "pt": ""
+  "pt": "Alma da Destreza",
+  "auto": "local/hy-mt2"
  },
  "npc_name9322": {
   "ch": "论道魂",
   "en": "Debate Soul",
-  "pt": ""
+  "pt": "Alma do Debate",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9323": {
   "ch": "转灵魂",
   "en": "Soulshifter Soul",
-  "pt": ""
+  "pt": "Alma Mudadora de Almas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "npc_name9324": {
   "ch": "道域魂",
   "en": "Tao Domain Soul",
-  "pt": ""
+  "pt": "Alma do Domínio do Dao",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "npc_name9325": {
   "ch": "买手魂",
   "en": "Dealseeker Soul",
-  "pt": ""
+  "pt": "Alma Caçadora de Barganhas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 26 > 20 caracteres"
+  ]
  },
  "npc_name9326": {
   "ch": "窃宝魂",
   "en": "Treasure Hunter Soul",
-  "pt": ""
+  "pt": "Alma Caçadora de Tesouros",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9327": {
   "ch": "独秀魂",
   "en": "Extraordinary Soul",
-  "pt": ""
+  "pt": "Alma extraordinária",
+  "auto": "local/hy-mt2"
  },
  "npc_name9328": {
   "ch": "神通魂",
   "en": "Ultimate Skill Soul",
-  "pt": ""
+  "pt": "Alma da Técnica Suprema",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "npc_name9329": {
   "ch": "移祸魂",
   "en": "Blameshifter Soul",
-  "pt": ""
+  "pt": "Alma Transmutadora de Culpa",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 23 caracteres"
+  ]
  },
  "npc_name9401": {
   "ch": "神秘灵体",
   "en": "Mysterious Spirit",
-  "pt": ""
+  "pt": "Espírito Misterioso",
+  "auto": "local/hy-mt2"
  },
  "npc_name9402": {
   "ch": "兰幽",
   "en": "Lan You",
-  "pt": ""
+  "pt": "Lan You",
+  "auto": "local/hy-mt2"
  },
  "npc_name9403": {
   "ch": "紫衣女子",
   "en": "Lady in Purple",
-  "pt": ""
+  "pt": "Dama de Roxo",
+  "auto": "local/hy-mt2"
  },
  "npc_name9404": {
   "ch": "黑衣男子",
   "en": "Man in Black",
-  "pt": ""
+  "pt": "Homem de Preto",
+  "auto": "local/hy-mt2"
  },
  "npc_name9405": {
   "ch": "王小牛",
   "en": "Wang Xiaoniu",
-  "pt": ""
+  "pt": "Wang Xiaoniu",
+  "auto": "local/hy-mt2"
  },
  "npc_name9406": {
   "ch": "赵大雷",
   "en": "Zhao Dalei",
-  "pt": ""
+  "pt": "Zhao Dalei",
+  "auto": "local/hy-mt2"
  },
  "npc_name9407": {
   "ch": "李铁柱",
   "en": "Li Tiezhu",
-  "pt": ""
+  "pt": "Li Tiezhu",
+  "auto": "local/hy-mt2"
  },
  "npc_name9408": {
   "ch": "陈土根",
   "en": "Chen Tugen",
-  "pt": ""
+  "pt": "Chen Tugen",
+  "auto": "local/hy-mt2"
  },
  "npc_name9409": {
   "ch": "孙史顿",
   "en": "Sun Shidun",
-  "pt": ""
+  "pt": "Sun Shidun",
+  "auto": "local/hy-mt2"
  },
  "npc_name9410": {
   "ch": "吴山子",
   "en": "Wu Shanzi",
-  "pt": ""
+  "pt": "Wu Shanzi",
+  "auto": "local/hy-mt2"
  },
  "npc_name9411": {
   "ch": "周田娃",
   "en": "Zhou Tianwa",
-  "pt": ""
+  "pt": "Zhou Tianwa",
+  "auto": "local/hy-mt2"
  },
  "npc_name9412": {
   "ch": "李大根",
   "en": "Li Dagen",
-  "pt": ""
+  "pt": "Li Dagen",
+  "auto": "local/hy-mt2"
  },
  "npc_name9413": {
   "ch": "申金丙",
   "en": "Shen Jinbing",
-  "pt": ""
+  "pt": "Shen Jinbing",
+  "auto": "local/hy-mt2"
  },
  "npc_name9414": {
   "ch": "刘金宝",
   "en": "Liu Jinbao",
-  "pt": ""
+  "pt": "Liu Jinbao",
+  "auto": "local/hy-mt2"
  },
  "npc_name9415": {
   "ch": "章丘毛",
   "en": "Zhang Qiumao",
-  "pt": ""
+  "pt": "Zhang Qiumao",
+  "auto": "local/hy-mt2"
  },
  "npc_name9416": {
   "ch": "周王猛",
   "en": "Zhou Wangmeng",
-  "pt": ""
+  "pt": "Zhou Wangmeng",
+  "auto": "local/hy-mt2"
  },
  "npc_name9417": {
   "ch": "秦琴勤",
   "en": "Qin Qinqin",
-  "pt": ""
+  "pt": "Qin Qinqin",
+  "auto": "local/hy-mt2"
  },
  "npc_name9418": {
   "ch": "吴爽越",
   "en": "Wu Shuangyue",
-  "pt": ""
+  "pt": "Wu Shuangyue",
+  "auto": "local/hy-mt2"
  },
  "npc_name9419": {
   "ch": "钱刀南",
   "en": "Qian Daonan",
-  "pt": ""
+  "pt": "Qian Daonan",
+  "auto": "local/hy-mt2"
  },
  "npc_name9420": {
   "ch": "司徒思",
   "en": "Situ Si",
-  "pt": ""
+  "pt": "Situ Si",
+  "auto": "local/hy-mt2"
  },
  "npc_name9421": {
   "ch": "窦威",
   "en": "Dou Wei",
-  "pt": ""
+  "pt": "Dou Wei",
+  "auto": "local/hy-mt2"
  },
  "npc_name9422": {
   "ch": "李光绪",
   "en": "Li Guangxu",
-  "pt": ""
+  "pt": "Li Guangxu",
+  "auto": "local/hy-mt2"
  },
  "npc_name9423": {
   "ch": "秦双龙",
   "en": "Qin Shuanglong",
-  "pt": ""
+  "pt": "Qin Shuanglong",
+  "auto": "local/hy-mt2"
  },
  "npc_name9424": {
   "ch": "吴老贵",
   "en": "Wu Laogui",
-  "pt": ""
+  "pt": "Wu Laogui",
+  "auto": "local/hy-mt2"
  },
  "npc_name9431": {
   "ch": "向来痴",
   "en": "Xiang Laichi",
-  "pt": ""
+  "pt": "Xiang Laichi",
+  "auto": "local/hy-mt2"
  },
  "npc_name9432": {
   "ch": "天香",
   "en": "Arachnid Woman",
-  "pt": ""
+  "pt": "Mulher-Aranha",
+  "auto": "local/hy-mt2"
  },
  "npc_name9433": {
   "ch": "发狂的冥妖",
   "en": "Frenzied Nether Demon",
-  "pt": ""
+  "pt": "Demônio do Submundo Enlouquecido",
+  "auto": "local/hy-mt2"
  },
  "npc_name9434": {
   "ch": "愤怒的冥妖",
   "en": "Enraged Nether Demon",
-  "pt": ""
+  "pt": "Demônio do Submundo furioso",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "npc_name9530": {
   "ch": "",
   "en": "Sect Patrol Cultivator",
-  "pt": ""
+  "pt": "Cultivador de Patrulha da Seita",
+  "auto": "local/hy-mt2+revisao-nuvem"
  }
 }
