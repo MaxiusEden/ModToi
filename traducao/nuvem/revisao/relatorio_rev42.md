@@ -8,5 +8,5 @@
   - tratamento/pessoa trocados (plural "Corram", "Resgatem-no", "Curai-vos", "Enterrem-nos"), "tórax" no lugar de "baú", "Enterar", "companhando";
   - maiúsculas a mais no meio da frase (Dragões, Fogo/Água, Energia, Pedras Espirituais, Reputação);
   - sentido: "Give a tip" virou "dica" (agora gorjeta), "7th Elder" → "Sétimo Ancião" (o º não passa no verificador), nome "You Yuanzhi" que perdeu o "You".
-- Dúvidas de termo para decisão: "Wormsnake" estava em três formas (Wormsnake, Minhoca, Serpentezinha). Adotei "Serpente-Minhoca" (Soberano / Pequena Serpente-Minhoca); vale entrar no glossário. "Lil' Left" ficou sem tradução nas duas entradas.
+- Termos alinhados com o rev32: Serpente-Verme (Senhor / Príncipe Serpente-Verme, Manual da Serpente-Verme), Espírito da Madeira. Antes havia Wormsnake, Minhoca e "Minha Serpentezinha". "Lil' Left" ficou sem tradução nas duas entradas; vale decidir.
 - Entradas "Confirm", "Got it!", "Leave" etc. já estavam consistentes e ficaram como estavam.
