@@ -275,23 +275,23 @@ def saida_local(src):
 
 
 def iniciar_local(src):
-    """Deixa o `ptbr.py local` rodando sozinho; ele continua depois que a fila termina."""
+    """Deixa o `ptbr.py local` rodando sozinho: sem console e sem handles herdados, ele continua se a fila
+    ou a janela do Iniciar-Traducao.bat fecharem. A saída vai para o log que ele mesmo abre (--log)."""
     out = saida_local(src)
     log_path = out.with_suffix('.log')
-    cmd = [sys.executable, '-u', str(Path(ptbr.__file__)), 'local', '--src', str(src), '--out', str(out)]
+    cmd = [sys.executable, '-u', str(Path(ptbr.__file__)), 'local', '--src', str(src), '--out', str(out),
+           '--log', str(log_path)]
     flags = getattr(subprocess, 'DETACHED_PROCESS', 0) | getattr(subprocess, 'CREATE_NEW_PROCESS_GROUP', 0)
-    with log_path.open('a', encoding='utf-8') as log:
-        # CREATE_BREAKAWAY_FROM_JOB falha se o job da tarefa agendada não permitir; aí roda preso a ele e,
-        # se a tarefa o encerrar, a fila do dia seguinte retoma de onde parou.
-        for extra in (getattr(subprocess, 'CREATE_BREAKAWAY_FROM_JOB', 0), 0):
-            try:
-                proc = subprocess.Popen(cmd, stdout=log, stderr=subprocess.STDOUT, stdin=subprocess.DEVNULL,
-                                        cwd=ptbr.REPO, creationflags=flags | extra)
-                break
-            except OSError as e:
-                erro = e
-        else:
-            raise erro
+    # CREATE_BREAKAWAY_FROM_JOB tira o local do job do `uv run`; se o job não permitir, roda sem ele.
+    for extra in (getattr(subprocess, 'CREATE_BREAKAWAY_FROM_JOB', 0), 0):
+        try:
+            proc = subprocess.Popen(cmd, stdin=None, stdout=None, stderr=None, close_fds=True,
+                                    cwd=ptbr.REPO, creationflags=flags | extra)
+            break
+        except OSError as e:
+            erro = e
+    else:
+        raise erro
     return f'`local` iniciado (pid {proc.pid}) em {src.name}; log em {log_path.name}'
 
 

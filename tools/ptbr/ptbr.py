@@ -551,6 +551,9 @@ def local_running(out_path):
 
 
 def cmd_local(args):
+    if args.log:
+        # Iniciado pela fila sem console nem handles herdados: a saída vai direto para o log.
+        sys.stdout = sys.stderr = open(args.log, 'a', encoding='utf-8', buffering=1)
     model = local_alive()
     if model != LOCAL_ID:
         print(f'Hy-MT2 não está no ar em {LOCAL_URL} (resposta: {model or "nenhuma"}). '
@@ -577,6 +580,7 @@ def cmd_local(args):
     pid_file.parent.mkdir(parents=True, exist_ok=True)
     pid_file.write_text(str(os.getpid()))
     n_ok = n_bad = n_err = in_a_row = 0
+    server_gone = False
     start = time.time()
     try:
         for i, key in enumerate(todo, 1):
@@ -587,6 +591,12 @@ def cmd_local(args):
                 if not pt.strip():
                     raise ValueError('resposta vazia')
             except Exception as e:  # noqa: BLE001 - registra e segue; a linha fica para a próxima rodada
+                if local_alive() != LOCAL_ID:
+                    # KoboldCpp fechado (para liberar a placa): para sem contar erro; a linha não foi gravada.
+                    server_gone = True
+                    print(f'{i}/{len(todo)} Hy-MT2 fechado no meio; parando. Retome com o mesmo comando ou pela fila.',
+                          flush=True)
+                    break
                 n_err += 1
                 in_a_row += 1
                 print(f'{i}/{len(todo)} ERRO {key}: {str(e)[:200]}', flush=True)
@@ -614,12 +624,13 @@ def cmd_local(args):
     minutes = (time.time() - start) / 60
     done = n_ok + n_bad
     print(f'resumo: {done} traduzidas em {minutes:.1f} min ({done / minutes if minutes else 0:.1f} linhas/min) | '
-          f'ok {n_ok} | ok=false {n_bad} | erros {n_err} | faltam {len(todo) - done - n_err} | saída: {out_path}')
-    return 1 if in_a_row >= LOCAL_MAX_ERRORS else 0
+          f'ok {n_ok} | ok=false {n_bad} | erros {n_err} | faltam {len(todo) - done} | saída: {out_path}')
+    return 3 if server_gone else 1 if in_a_row >= LOCAL_MAX_ERRORS else 0
 
 
 def main():
-    sys.stdout.reconfigure(encoding='utf-8')
+    if sys.stdout:  # None quando a fila inicia o local sem handles (ver cmd_local --log)
+        sys.stdout.reconfigure(encoding='utf-8')
     ap = argparse.ArgumentParser(description=__doc__)
     sub = ap.add_subparsers(dest='cmd', required=True)
     p = sub.add_parser('extract', help='mescla o dump de runtime em traducao/LocalText/')
@@ -634,6 +645,7 @@ def main():
     p.add_argument('--src', required=True)
     p.add_argument('--out', required=True)
     p.add_argument('--limit', type=int, default=0)
+    p.add_argument('--log', help='grava a saída neste arquivo (usado quando a fila inicia o local em segundo plano)')
     args = ap.parse_args()
     cmds = {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build, 'glossario': cmd_glossario,
             'merge': cmd_merge, 'local': cmd_local}
