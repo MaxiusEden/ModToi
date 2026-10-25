@@ -2,7 +2,7 @@
 
 ## Modelos de tradução
 
-A lista abaixo e `tools/ptbr/modelos.json` são a mesma lista, na mesma ordem. A fila diária lê a ordem do JSON. **Quando mudar uma, mude a outra no mesmo commit.**
+A lista abaixo e `tools/ptbr/modelos.json` são a mesma lista, na mesma ordem. A fila lê a ordem do JSON. **Quando mudar uma, mude a outra no mesmo commit.**
 
 Ordem de uso (teste com as mesmas 50 falas; nenhum quebrou marcador). O 1 é o tradutor principal; os de API, do mais preciso e rápido ao menos, são complemento e reserva:
 
@@ -17,9 +17,20 @@ Ordem de uso (teste com as mesmas 50 falas; nenhum quebrou marcador). O 1 é o t
 
 ### Hy-MT2 local
 
-- **Está no ar?** `curl http://127.0.0.1:5001/api/v1/model` deve devolver `koboldcpp/Hy-MT2-30B-A3B-Q4_K_M`. Se não responder, peça ao usuário para rodar `C:\Users\filip\Downloads\bot\Start-HyMT2.bat` (não inicie sozinho); o modelo leva ~1 min para carregar.
-- **Comando:** `python tools/ptbr/ptbr.py local --src <src.json> --out <out_hymt2.json> [--limit N]`. Entrada chave → {ch, en, pt}, só as de `pt` vazio; saída chave → {pt, ok, model: "local/hy-mt2"}, como a do `omni_translate`. Uma linha por pedido, sem system prompt; retomável e salva a cada 20 linhas. Julga a saída como a ponte (`normalize_punct`, `placeholders_ok`, idêntico ao inglês).
-- **Na fila diária** (`tools/ptbr/fila.py`): (a) o Hy-MT2 traduz o lote local (`traducao/auto/local/src_loteNNN.json`, 500 entradas); a fila junta as `ok=true`, cria o próximo lote quando o atual acaba e deixa o `local` rodando em segundo plano; (b) as `ok=false` do Hy-MT2 vão para os modelos de API na ordem acima; (c) merge, `validate` e `build`. Enquanto o `local` roda, as APIs adiantam outras entradas e não tocam no lote local.
+- **Está no ar?** `curl http://127.0.0.1:5001/api/v1/model` deve devolver `koboldcpp/Hy-MT2-30B-A3B-Q4_K_M`. Se não responder, peça ao usuário para rodar o `Iniciar-Traducao.bat` (ver abaixo) ou só o `C:\Users\filip\Downloads\bot\Start-HyMT2.bat`; não inicie sozinho. O modelo leva ~1 min para carregar.
+- **Comando:** `python tools/ptbr/ptbr.py local --src <src.json> --out <out_hymt2.json> [--limit N] [--log arquivo]`. Entrada chave → {ch, en, pt}, só as de `pt` vazio; saída chave → {pt, ok, model: "local/hy-mt2"}, como a do `omni_translate`. Uma linha por pedido, sem system prompt; retomável e salva a cada 20 linhas. Julga a saída como a ponte (`normalize_punct`, `placeholders_ok`, idêntico ao inglês com mais de 4 caracteres e alguma minúscula). Se o KoboldCpp for fechado no meio, salva o que fez e para.
+- **Na fila** (`tools/ptbr/fila.py`): (a) o Hy-MT2 traduz o lote local (`traducao/auto/local/src_loteNNN.json`, 500 entradas); a fila junta as `ok=true`, cria o próximo lote quando o atual acaba e deixa o `local` rodando em segundo plano; (b) as `ok=false` do Hy-MT2 vão para os modelos de API na ordem acima; (c) merge, `validate` e `build`. Enquanto o `local` roda, as APIs adiantam outras entradas e não tocam no lote local.
+
+### Rodar a fila (manual)
+
+O PC é desligado toda noite, então **não há tarefa agendada** (a `ModToi - fila de traducao` está desativada). Não crie tarefas de inicialização nem nada que suba sozinho com o Windows.
+
+- **Quem inicia:** o usuário roda `C:\Users\filip\Downloads\bot\Iniciar-Traducao.bat`. Ele sobe o OmniRoute e o Hy-MT2 se não estiverem no ar, espera os dois responderem (até 5 min) e roda `uv run --script tools/ptbr/fila.py`.
+- **No início**, a fila checa `http://127.0.0.1:20128/v1/models` (qualquer resposta HTTP, até 401, conta como no ar) e `http://127.0.0.1:5001/api/v1/model`. Quem estiver fora do ar fica registrado como "OmniRoute fora do ar" ou "Hy-MT2 fora do ar" no `traducao/auto/fila/fila.log` e no relatório do dia, e só a etapa dele é pulada.
+- **O `local` roda destacado:** sem console e sem herdar handles. Ele continua se a fila ou a janela do bat fecharem e só para quando termina o lote ou quando o KoboldCpp é fechado (o usuário fecha para liberar a placa).
+- **Progresso do `local`:** `traducao/auto/local/out_loteNNN_hymt2.log` (uma linha por entrada e, a cada 20, linhas/min e ok/ok=false) e `out_loteNNN_hymt2.json` (as traduções). O `out_loteNNN_hymt2.pid` existe enquanto ele roda.
+- **Retomar no dia seguinte:** rodar o `Iniciar-Traducao.bat` de novo. A fila junta o que o `local` fez, manda as `ok=false` para as APIs e reinicia o `local` no mesmo lote, a partir da primeira linha que falta (ou cria o próximo lote). Para retomar só o `local`, sem a fila: `python tools/ptbr/ptbr.py local --src traducao/auto/local/src_loteNNN.json --out traducao/auto/local/out_loteNNN_hymt2.json`.
+- **Fim de cada rodada:** `traducao/auto/fila/relatorio-AAAA-MM-DD.md`. A fila não faz commit; o resultado (`traducao/LocalText`, `ModAssets/ptbr/LocalText.json`) é revisado e commitado à parte.
 
 Regras:
 
