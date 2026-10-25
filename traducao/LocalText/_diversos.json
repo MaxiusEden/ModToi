@@ -11272,27 +11272,32 @@
  "gameSetting_cuizhitongbu": {
   "ch": "垂直同步",
   "en": "V-Sync",
-  "pt": ""
+  "pt": "V-Sync",
+  "auto": "local/hy-mt2"
  },
  "gameSetting_xinshouyindao": {
   "ch": "新手引导",
   "en": "Tutorial",
-  "pt": ""
+  "pt": "Tutorial",
+  "auto": "local/hy-mt2"
  },
  "gameSetting_zhenlv": {
   "ch": "帧率",
   "en": "FPS",
-  "pt": ""
+  "pt": "FPS",
+  "auto": "local/hy-mt2"
  },
  "gameSetting_zuigao30": {
   "ch": "最高30",
   "en": "Capped at 30",
-  "pt": ""
+  "pt": "Limitado a 30",
+  "auto": "local/hy-mt2"
  },
  "gameSetting_zuigao60": {
   "ch": "最高60",
   "en": "Capped at 60",
-  "pt": ""
+  "pt": "Limitado a 60",
+  "auto": "local/hy-mt2"
  },
  "game_baochunditi": {
   "ch": "进度已保存！",
@@ -25799,72 +25804,92 @@
  "shezhi_anjianfengge": {
   "ch": "手柄按键图标风格",
   "en": "Joysticks Icon Style",
-  "pt": ""
+  "pt": "Estilo de ícone dos joysticks",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 29 > 26 caracteres"
+  ]
  },
  "shezhi_shoubingtishi": {
   "ch": "手柄接入提示",
   "en": "Controller Access Indication",
-  "pt": ""
+  "pt": "Indicação de Acesso ao Controlador",
+  "auto": "local/hy-mt2"
  },
  "shezhi_shuru": {
   "ch": "操作方式",
   "en": "Mode of operation",
-  "pt": ""
+  "pt": "Modo de operação",
+  "auto": "local/hy-mt2"
  },
  "shezhi_shuru0": {
   "ch": "自动切换",
   "en": "Auto",
-  "pt": ""
+  "pt": "Auto",
+  "auto": "local/hy-mt2"
  },
  "shezhi_shuru1": {
   "ch": "鼠标键盘",
   "en": "Mouse and keyboard",
-  "pt": ""
+  "pt": "Mouse e teclado",
+  "auto": "local/hy-mt2"
  },
  "shezhi_shuru2": {
   "ch": "手柄操作",
   "en": "Game Controller",
-  "pt": ""
+  "pt": "Controle de jogo",
+  "auto": "local/hy-mt2"
  },
  "shezhi_texiao": {
   "ch": "战斗特效质量",
   "en": "Battle VFX Quality",
-  "pt": ""
+  "pt": "Qualidade dos VFX da Batalha",
+  "auto": "local/hy-mt2",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "shezhi_texiao1": {
   "ch": "低",
   "en": "Low",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "local/hy-mt2"
  },
  "shezhi_texiao2": {
   "ch": "中",
   "en": "Medium",
-  "pt": ""
+  "pt": "Médio",
+  "auto": "local/hy-mt2"
  },
  "shezhi_texiao3": {
   "ch": "高",
   "en": "High",
-  "pt": ""
+  "pt": "Alto",
+  "auto": "local/hy-mt2"
  },
  "shezhi_tuxiang": {
   "ch": "战斗图像质量",
   "en": "Battle Graphics Quality",
-  "pt": ""
+  "pt": "Qualidade dos gráficos da Batalha",
+  "auto": "local/hy-mt2"
  },
  "shezhi_tuxiang1": {
   "ch": "低",
   "en": "Low",
-  "pt": ""
+  "pt": "Baixo",
+  "auto": "local/hy-mt2"
  },
  "shezhi_tuxiang2": {
   "ch": "高",
   "en": "High",
-  "pt": ""
+  "pt": "Alto",
+  "auto": "local/hy-mt2"
  },
  "shezhi_xuanzefengge": {
   "ch": "确认选择{0}风格？",
   "en": "Sure to select {0} style?",
-  "pt": ""
+  "pt": "Tem certeza de que deseja selecionar o estilo {0}?",
+  "auto": "local/hy-mt2"
  },
  "shezhi_zhiliangtishi1": {
   "ch": "切换特效质量成功，重新进入战斗生效！",
