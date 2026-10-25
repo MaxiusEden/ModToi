@@ -1,6 +1,8 @@
 {
  "_leia": "Mesma lista e ordem da seção 'Modelos de tradução' do CLAUDE.md; mude as duas no mesmo commit.",
  "modelos": [
+  {"id": "local/hy-mt2", "tipo": "local", "endpoint": "http://127.0.0.1:5001/v1", "prioridade": 0,
+   "notas": "melhor qualidade no teste de 50 linhas (50/50, marcadores intactos); lento; sem cota; temperature 0.7"},
   {"id": "gemini/gemini-3-flash-preview", "cota": "gemini-3-flash-preview", "so_interface_curta": false, "max_tokens": null,
    "teste": "50/50, 21 s", "notas": "Conciso na interface. Deslize: 'Nether' virou 'Inferior' (o glossário corrige)."},
   {"id": "cohere/command-a-vision-07-2025", "cota": "cohere-trial", "so_interface_curta": false, "max_tokens": 4096,

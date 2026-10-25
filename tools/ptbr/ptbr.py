@@ -5,7 +5,9 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
+import urllib.request
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
@@ -354,27 +356,31 @@ def cmd_validate(args):
 OMNI_BAD = 'omni ok=false'
 
 
+def merge_outputs(work, data, stats):
+    """Junta uma saída de tradutor (chave -> {pt, ok, model}) em `work`, sem sobrescrever pt existente."""
+    for key, out in data.items():
+        entry = work.get(key)
+        if entry is None:
+            stats['chave desconhecida'] += 1
+            continue
+        if entry.get('pt'):
+            stats['já tinha pt (mantido)'] += 1
+            continue
+        entry['pt'] = out.get('pt', '')
+        entry['auto'] = out.get('model', '?')
+        if out.get('ok'):
+            stats['ok=true'] += 1
+        else:
+            add_reason(entry, OMNI_BAD)
+            stats['ok=false (revisar)'] += 1
+        refresh_glossary_reasons(entry, key)
+
+
 def cmd_merge(args):
     work = load_work()
     stats = collections.Counter()
     for path in args.files:
-        data = json.loads(Path(path).read_text(encoding='utf-8'))
-        for key, out in data.items():
-            entry = work.get(key)
-            if entry is None:
-                stats['chave desconhecida'] += 1
-                continue
-            if entry.get('pt'):
-                stats['já tinha pt (mantido)'] += 1
-                continue
-            entry['pt'] = out.get('pt', '')
-            entry['auto'] = out.get('model', '?')
-            if out.get('ok'):
-                stats['ok=true'] += 1
-            else:
-                add_reason(entry, OMNI_BAD)
-                stats['ok=false (revisar)'] += 1
-            refresh_glossary_reasons(entry, key)
+        merge_outputs(work, json.loads(Path(path).read_text(encoding='utf-8')), stats)
     save_work(work)
     gloss = sum(1 for e in work.values() if e.get('auto') and any(r.startswith(GLOSS_REASON) for r in e.get('revisar') or []))
     print(', '.join(f'{k}: {v}' for k, v in stats.items()) or 'nada a juntar')
@@ -430,6 +436,183 @@ def cmd_glossario(args):
     return 0
 
 
+# Hy-MT2 no KoboldCpp: tradutor principal, uma linha por pedido (o modelo foi treinado sem system prompt).
+LOCAL_URL = os.environ.get('HYMT2_URL', 'http://127.0.0.1:5001')
+LOCAL_ID = 'koboldcpp/Hy-MT2-30B-A3B-Q4_K_M'
+LOCAL_MODEL = 'local/hy-mt2'
+LOCAL_START = r'C:\Users\filip\Downloads\bot\Start-HyMT2.bat'
+LOCAL_TIMEOUT = 120
+LOCAL_SAVE_EVERY = 20
+LOCAL_MAX_ERRORS = 10
+LOCAL_GLOSSARY_MAX = 15
+
+# Copiado de ~/tools/omni-bridge/server.py (PLACEHOLDER, TYPO_MAP, normalize_punct, placeholders_ok):
+# o local e a ponte precisam julgar a saída do mesmo jeito. Mude lá e aqui juntos.
+PLACEHOLDER = re.compile(r"\{[^{}]*\}|&[^&\s]+&|\$[^$\s]+\$|</?[A-Za-z][^<>]*>|\\n|\n|%[sdf]")
+TYPO_MAP = {"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u2018": "'", "\u2019": "'",
+            "\u2026": "...", "\u2013": "-", "\u2014": "-", "\u2011": "-", "\u00a0": " ",
+            "\u00ba": "o", "\u00aa": "a"}
+
+
+def normalize_punct(src: str, dst: str) -> str:
+    """Troca pontuacao tipografica por ASCII quando o original nao a usa (fontes do jogo sem esses glifos)."""
+    if not dst:
+        return dst
+    allowed = set(src or "")
+    return "".join(c if c in allowed else TYPO_MAP.get(c, c) for c in dst)
+
+
+def placeholders_ok(src: str, dst: str) -> bool:
+    if collections.Counter(PLACEHOLDER.findall(src or "")) != collections.Counter(PLACEHOLDER.findall(dst or "")):
+        return False
+    allowed = set(src or "")
+    return all(ord(ch) < 128 or "\u00c0" <= ch <= "\u00ff" or ch in allowed for ch in dst or "")
+
+
+def local_alive():
+    """ID do modelo carregado no KoboldCpp, ou None se o servidor não responder."""
+    try:
+        with urllib.request.urlopen(f'{LOCAL_URL}/api/v1/model', timeout=5) as r:
+            return json.loads(r.read().decode('utf-8')).get('result')
+    except (OSError, ValueError):
+        return None
+
+
+def local_glossary(text, glossary):
+    """Termos do glossário presentes no texto, o mais longo vencendo sobreposições; no máximo LOCAL_GLOSSARY_MAX."""
+    found, taken = [], []
+    for term in sorted((t for t in glossary if not CJK_RE.search(t)), key=len, reverse=True):
+        for m in re.finditer(r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])', text):
+            if not any(m.start() < e and s < m.end() for s, e in taken):
+                taken.append(m.span())
+                if term not in found:
+                    found.append(term)
+        if len(found) >= LOCAL_GLOSSARY_MAX:
+            break
+    return found
+
+
+def local_prompt(en, glossary):
+    terms = local_glossary(en, glossary)
+    head = ('Reference the following translations:\n'
+            + '\n'.join(f'{t} translates to {glossary[t]}' for t in terms) + '\n\n') if terms else ''
+    instr = 'Translate the following text into Brazilian Portuguese.'
+    if PLACEHOLDER.search(en):
+        instr += (' You must retain the exact same number of delimiters in the translation, such as {0}, <color=...>,'
+                  ' </color>, &x&, $x$ and \\n, without omitting, escaping or translating them.')
+    instr += ' Output only the translation, without additional explanation.'
+    return head + instr + '\n\n' + en
+
+
+def local_chat(prompt):
+    body = {'model': 'hy-mt2', 'messages': [{'role': 'user', 'content': prompt}],
+            'max_tokens': 1024, 'temperature': 0.7, 'top_p': 1.0}
+    req = urllib.request.Request(f'{LOCAL_URL}/v1/chat/completions', data=json.dumps(body).encode('utf-8'),
+                                 headers={'Content-Type': 'application/json'})
+    with urllib.request.urlopen(req, timeout=LOCAL_TIMEOUT) as r:
+        data = json.loads(r.read().decode('utf-8'))
+    choice = (data.get('choices') or [{}])[0]
+    return (choice.get('message') or {}).get('content') or '', choice.get('finish_reason')
+
+
+def pid_alive(pid):
+    if os.name != 'nt':
+        try:
+            os.kill(pid, 0)
+        except OSError:
+            return False
+        return True
+    # No Windows os.kill(pid, 0) encerra o processo; consulta o código de saída.
+    import ctypes
+    k32 = ctypes.windll.kernel32
+    handle = k32.OpenProcess(0x1000, False, pid)  # PROCESS_QUERY_LIMITED_INFORMATION
+    if not handle:
+        return False
+    code = ctypes.c_ulong()
+    k32.GetExitCodeProcess(handle, ctypes.byref(code))
+    k32.CloseHandle(handle)
+    return code.value == 259  # STILL_ACTIVE
+
+
+def local_running(out_path):
+    """True se já há um `local` gravando nesta saída (arquivo .pid ao lado dela)."""
+    pid_file = Path(out_path).with_suffix('.pid')
+    try:
+        return pid_alive(int(pid_file.read_text()))
+    except (OSError, ValueError):
+        return False
+
+
+def cmd_local(args):
+    model = local_alive()
+    if model != LOCAL_ID:
+        print(f'Hy-MT2 não está no ar em {LOCAL_URL} (resposta: {model or "nenhuma"}). '
+              f'Rode {LOCAL_START} e espere ~1 min para o modelo carregar.')
+        return 2
+    out_path = Path(args.out)
+    if local_running(out_path):
+        print(f'já há um processo gravando em {out_path}; não rodo dois ao mesmo tempo')
+        return 2
+    src = json.loads(Path(args.src).read_text(encoding='utf-8'))
+    out = json.loads(out_path.read_text(encoding='utf-8')) if out_path.exists() else {}
+    todo = [k for k, v in src.items()
+            if not (v.get('pt') or '').strip() and (v.get('en') or '').strip() and k not in out]
+    if args.limit:
+        todo = todo[:args.limit]
+    glossary = load_glossary('glossario.json')
+    print(f'{len(todo)} linhas a traduzir ({len(out)} já na saída) com {LOCAL_MODEL}')
+
+    def save():
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding='utf-8')
+
+    pid_file = out_path.with_suffix('.pid')
+    pid_file.parent.mkdir(parents=True, exist_ok=True)
+    pid_file.write_text(str(os.getpid()))
+    n_ok = n_bad = n_err = in_a_row = 0
+    start = time.time()
+    try:
+        for i, key in enumerate(todo, 1):
+            en = src[key]['en']
+            t0 = time.time()
+            try:
+                pt, finish = local_chat(local_prompt(en, glossary))
+                if not pt.strip():
+                    raise ValueError('resposta vazia')
+            except Exception as e:  # noqa: BLE001 - registra e segue; a linha fica para a próxima rodada
+                n_err += 1
+                in_a_row += 1
+                print(f'{i}/{len(todo)} ERRO {key}: {str(e)[:200]}', flush=True)
+                if in_a_row >= LOCAL_MAX_ERRORS:
+                    print(f'parando: {LOCAL_MAX_ERRORS} erros seguidos')
+                    break
+                continue
+            in_a_row = 0
+            # O modelo apara espaços e quebras das pontas; devolve as do en para não contar como marcador perdido.
+            lead, trail = en[:len(en) - len(en.lstrip())], en[len(en.rstrip()):]
+            pt = normalize_punct(en, lead + pt.strip() + trail)
+            ok = finish != 'length' and placeholders_ok(en, pt)
+            if ok and len(en.strip()) > 12 and pt.strip() == en.strip():
+                ok = False
+            out[key] = {'pt': pt, 'ok': ok, 'model': LOCAL_MODEL}
+            n_ok += ok
+            n_bad += not ok
+            print(f'{i}/{len(todo)} {"ok" if ok else "ok=false"} {time.time() - t0:.1f}s {key}', flush=True)
+            if (n_ok + n_bad) % LOCAL_SAVE_EVERY == 0:
+                save()
+                rate = (n_ok + n_bad) / ((time.time() - start) / 60)
+                print(f'-- {n_ok + n_bad}/{len(todo)} | {rate:.1f} linhas/min | ok {n_ok} | ok=false {n_bad} | erros {n_err}',
+                      flush=True)
+    finally:
+        save()
+        pid_file.unlink(missing_ok=True)
+    minutes = (time.time() - start) / 60
+    done = n_ok + n_bad
+    print(f'resumo: {done} traduzidas em {minutes:.1f} min ({done / minutes if minutes else 0:.1f} linhas/min) | '
+          f'ok {n_ok} | ok=false {n_bad} | erros {n_err} | faltam {len(todo) - done - n_err} | saída: {out_path}')
+    return 1 if in_a_row >= LOCAL_MAX_ERRORS else 0
+
+
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
     ap = argparse.ArgumentParser(description=__doc__)
@@ -442,9 +625,13 @@ def main():
     sub.add_parser('glossario', help='junta obrigatorios.json e sugestoes.json em glossario.json (entrada do omni_translate)')
     p = sub.add_parser('merge', help='traz saídas do omni_translate (chave -> {pt, ok, model}) para traducao/')
     p.add_argument('files', nargs='+')
+    p = sub.add_parser('local', help='traduz com o Hy-MT2 local (KoboldCpp) um arquivo chave -> {ch, en, pt}; retomável')
+    p.add_argument('--src', required=True)
+    p.add_argument('--out', required=True)
+    p.add_argument('--limit', type=int, default=0)
     args = ap.parse_args()
     cmds = {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build, 'glossario': cmd_glossario,
-            'merge': cmd_merge}
+            'merge': cmd_merge, 'local': cmd_local}
     return cmds[args.cmd](args) or 0
 
 

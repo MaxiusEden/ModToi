@@ -293,9 +293,10 @@ Segunda leva (2026-10-23), com as categorias de interface vistas nos prints (`se
 
 ### 10.4 Fila diária (`tools/ptbr/fila.py`)
 
-Roda sem o Claude: `uv run --script tools/ptbr/fila.py` (opções: `--simular`, `--limite N`, `--modelos id,id`).
+Roda sem o Claude: `uv run --script tools/ptbr/fila.py` (opções: `--simular`, `--limite N`, `--modelos id,id`, `--sem-local`).
 
 1. Junta (merge) as saídas de rodadas anteriores que não chegaram ao fim.
+   - **Hy-MT2 local (tradutor principal, desde 2026-10-24):** lê os lotes de `traducao/auto/local/src_loteNNN.json` (500 entradas cada) e as saídas `out_loteNNN_hymt2.json` do `ptbr.py local`. Junta as `ok=true`; as `ok=false` vão primeiro para os modelos de API, **um modelo por vez, na ordem de `modelos.json`** (um 429 tira o grupo de cota inteiro do resto da rodada); as que nenhuma API refez esperam a rodada seguinte. Se o lote acabou, cria o próximo com o topo da fila. Se nenhum `local` está rodando (arquivo `.pid` ao lado da saída), inicia um em segundo plano (log em `out_loteNNN_hymt2.log`), desde que o KoboldCpp responda; senão só avisa no relatório. As entradas do lote ainda sem saída ficam fora da fila das APIs.
 2. Monta a fila com as entradas sem `pt`, em ordem de prioridade: configurações, botões, reinos, status, nomes de item, Olho da Providência, artefatos, reputação, resto da interface e narrativas por último. As sílabas `school_name_*` ficam de fora.
 3. Lê a ordem dos modelos de `tools/ptbr/modelos.json` e roda **uma linha por grupo de cota**, em paralelo. Os três `cohere/` formam um só grupo e rodam em sequência.
    - Cada modelo pega lotes do topo da fila: Gemini 40, cohere 20, groq 30. O `max_tokens` é 8000, ou o teto do modelo (4096 nos cohere).
