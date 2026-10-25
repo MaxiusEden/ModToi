@@ -410,8 +410,11 @@ def main():
     for k in fila.chaves:
         nome = prioridade(k)[1]
         resumo[nome] = resumo.get(nome, 0) + 1
-    registrar(f'fila das APIs: {len(fila.chaves)} entradas reservadas {resumo} (amplia de {RESERVA_APIS} em '
-              f'{RESERVA_APIS} se acabar)')
+    if args.simular or not modelos:
+        registrar(f'fila das APIs (sem reservar): {len(fila.chaves)} entradas livres {resumo}')
+    else:
+        registrar(f'fila das APIs: {len(fila.chaves)} entradas reservadas {resumo} (amplia de {RESERVA_APIS} em '
+                  f'{RESERVA_APIS} se acabar)')
     registrar('grupos de cota: ' + '; '.join(f"{g}: {', '.join(m['id'] for m in ms)}" for g, ms in grupos.items()))
     if args.simular:
         return 0
