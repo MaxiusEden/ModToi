@@ -68,3 +68,42 @@ Os lotes são independentes e podem ser feitos em paralelo, cada um por uma thre
 ## Consistência de termos
 
 `revisao/relatorio_consistencia.md`: uma lista das variações de tradução de um mesmo termo entre as saídas da nuvem (`out_*.json` e `revisao/out_rev*.json`), por exemplo "Sopro" e "Respiração", ou "fera sagrada" e "fera lendária". Para cada termo: as variantes, quantas vezes cada uma aparece e a sugestão de unificação segundo o glossário. Só o relatório; não altere as traduções por isso.
+
+## Unificação de termos (decidida pelo usuário em 2026-10-25)
+
+Aplique as decisões abaixo, que vêm do `revisao/relatorio_consistencia.md` e já estão em `glossario/obrigatorios.json` e na tabela "Decisões pontuais" de `glossario/decisoes.md`, em todas as traduções desta pasta:
+
+- traduções da nuvem: edite no próprio arquivo os `out_piloto.json`, `out_falhas1-3.json`, `out_extra.json` e `out_resto01-30.json`;
+- traduções do tradutor local (o campo `pt` de `revisao/src_revNN.json`): a correção vai para `revisao/out_revNN.json`. Atualize a entrada se ela já estiver lá; senão, acrescente. Nunca edite os `src_*`.
+
+| Termo (en) | Use | Observação |
+|---|---|---|
+| Iron Shard | Fragmento de Ferro | no lugar de Lasca e Estilhaço |
+| Mindsnap / Mindsnap Temple | Quebra-Mente / Templo Quebra-Mente | no lugar de "Templo Mindsnap" |
+| Everfrost | Geada Eterna | também nos nomes compostos |
+| Ground of No Return | Solo do Não Retorno | no lugar de Terra Sem Volta/Retorno |
+| Wayward Desert | Deserto Errante | no lugar de Deserto Rebelde |
+| Rogue Cultivator(s) | Cultivador(es) Errante(s) | no lugar de "renegado" |
+| Interspatial Ring | Anel Interespacial | no lugar de Interdimensional |
+| Breath | Sopro | inclusive em nomes ("Sopro do Caos"); "Respiração" só para o ato de respirar (Breathing) |
+| Boss / BOSS | Chefe | CHEFE só onde o `en` é um rótulo em caixa alta; nada de "BOSS" no português |
+| Legendary Beast / Divine Beast | Fera Lendária / Fera Divina | "besta" vira "fera"; "fera sagrada" só se o `ch` justificar |
+| No. 1 em títulos | Nº 1 | regra 11: `Hua Feng No. 1 Sword Cultivator` → `Nº 1 em Espada de Hua Feng`. O "º" agora é aceito. Nesses títulos, o aviso "glossário: Cultivator → Cultivador" é esperado. |
+| casket | caixão / caixa | caixão quando guarda um morto; caixa quando é recipiente de item |
+| Upgrade | aprimorar / atualização | aprimorar e aprimoramento para item, habilidade e construção; atualização só para atualização do jogo |
+
+Como fazer:
+
+1. Use scripts só para encontrar as ocorrências (pela palavra em inglês no `en` e pelas variantes no `pt`). Faça cada troca à mão, ajustando a concordância (gênero, número, artigo, preposição) e mantendo os marcadores.
+2. Depois de editar um arquivo, rode o verificador nele: sem `--parcial` para os `out_*.json` da nuvem, com `--parcial` para os `revisao/out_revNN.json`. Corrija todo `ERRO`.
+3. Faça commit por grupo de arquivos (`Unifica termos em <grupo>`) e push (`git pull --rebase` antes, porque outras threads também enviam).
+4. Ao fim, escreva `revisao/relatorio_unificacao.md` (no máximo 25 linhas): quantas trocas por termo, em que arquivos, e o que ficou de fora e por quê.
+
+Grupos para dividir entre threads (cada thread só edita os arquivos do seu grupo):
+
+- A: `out_piloto.json`, `out_falhas1-3.json`, `out_extra.json`, `out_resto01-10.json`
+- B: `out_resto11-20.json`
+- C: `out_resto21-30.json`
+- D: `revisao/out_rev01-16.json`
+- E: `revisao/out_rev17-32.json`
+- F: `revisao/out_rev33-47.json`
