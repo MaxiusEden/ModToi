@@ -486,23 +486,30 @@ def local_alive():
 
 
 def local_glossary(text, glossary):
-    """Termos do glossário presentes no texto, o mais longo vencendo sobreposições; no máximo LOCAL_GLOSSARY_MAX."""
-    found, taken = [], []
+    """Termos do glossário presentes no texto, o mais longo vencendo sobreposições; no máximo LOCAL_GLOSSARY_MAX.
+
+    Sem diferenciar maiúsculas, como a ponte: na narrativa os termos aparecem em minúscula ("your breakthrough").
+    Devolve pares (en, pt) para o prompt; termo em minúscula no texto vai em minúscula também no pt, senão o
+    modelo copia a maiúscula do glossário para o meio da frase ("um profundo Revigoramento")."""
+    found, taken = {}, []
     for term in sorted((t for t in glossary if not CJK_RE.search(t)), key=len, reverse=True):
-        for m in re.finditer(r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])', text):
+        for m in re.finditer(r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])', text, re.IGNORECASE):
             if not any(m.start() < e and s < m.end() for s, e in taken):
                 taken.append(m.span())
                 if term not in found:
-                    found.append(term)
+                    surface, pt = text[m.start():m.start() + len(term)], glossary[term]
+                    if surface.islower() and not term.islower():
+                        pt = ' '.join(w[:1].lower() + w[1:] for w in pt.split())
+                    found[term] = (surface if surface.islower() else term, pt)
         if len(found) >= LOCAL_GLOSSARY_MAX:
             break
-    return found
+    return list(found.values())
 
 
 def local_prompt(en, glossary):
     terms = local_glossary(en, glossary)
     head = ('Reference the following translations:\n'
-            + '\n'.join(f'{t} translates to {glossary[t]}' for t in terms) + '\n\n') if terms else ''
+            + '\n'.join(f'{t} translates to {pt}' for t, pt in terms) + '\n\n') if terms else ''
     instr = 'Translate the following text into Brazilian Portuguese.'
     if PLACEHOLDER.search(en):
         instr += (' You must retain the exact same number of delimiters in the translation, such as {0}, <color=...>,'

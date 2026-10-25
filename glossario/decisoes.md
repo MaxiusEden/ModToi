@@ -465,7 +465,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Crow | Corvo | sugestão | 71 |  |
 | Three-legged | de Três Pernas | sugestão | 75 |  |
 
-### Seitas, lugares e títulos (38)
+### Seitas, lugares e títulos (39)
 
 | en / ch | PT-BR | nível | freq | ch |
 |---|---|---|---|---|
@@ -507,6 +507,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Deity | Divindade | sugestão | 38 |  |
 | Title | Título | sugestão | 401 |  |
 | Legendary | Lendário | sugestão | 86 | 名垂青史 |
+| Tree Vault | Árvore-Cofre | obrigatório (acrescentado em 2026-10-24) | 36 | 建木 |
 
 ### Interface e jogo (20)
 
