@@ -1,0 +1,7 @@
+# Relatório rev45
+
+- Modelo: Claude (revisão manual, entrada por entrada). Lote: 793 entradas (opções de diálogo, efeitos de batalha, histórias de destino).
+- Corrigidas: 253 entradas em `out_rev45.json`; o verificador `--parcial` não acusa ERRO.
+- Erros mais comuns: nomes de estatística trocados (体力/灵力 viraram "energia", "mana", "stamina"; agora Vitalidade/Energia); elementos "Raio"/"atributo X" (agora Relâmpago, "dano de fogo"); armas como "faca", "arma de fogo", "palmas" (agora Lâmina, Lança, Palma); nomes dados em `nomes` ignorados (Sangue Fervente, Olhar Gélido, Divindade do Vento, Tempo de Bala, Majestade do Dragão, Carapaça de Xuangui, Homem Cogumelo); termos deixados em inglês (Overbearing, Ward, Stalwart, "stack", "incoming"); "Declínio" para Decline (agora Recusar); Mindsnap Temple → Templo Quebra-Mente.
+- Avisos que sobraram (falsos alarmes): `effect_desc3231141` ("Pontos de Recarga" é o nome certo do texto) e `effect_desct9902307` (o "Energy" do inglês é parte do nome Indomável, que agora é "acúmulos de Indomável").
+- Dúvidas de termo para o usuário: "Power Build" (usei "Acúmulo de Poder"), "Unyielding" (Indomável), "Stalwart" (usei "Firmeza"), "Ward" (usei "Proteção"), "Overbearing Cleave" (usei "Corte Dominador"); "Sun Awl" ficou sem tradução fixa (aparece como 'Sun Awl' e 'Agulha Solar'); os nomes dados `G3/G4/G5 Boomerang Finger` são inconsistentes entre si ("Nível 3" vs "G4"); "Mushroom Immortal" ficou "Imortal Cogumelo" (casa com "Homem Cogumelo").
