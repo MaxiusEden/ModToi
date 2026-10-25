@@ -56,6 +56,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Skill Stat (战斗资质) | Aptidão Marcial | É a aptidão de combate (Blade, Spear…), não um atributo da habilidade. O modelo escrevia "Atributo de Habilidade", que é longo e errado. |
 | `school_name_first*` / `school_name_second*` | não traduzir | O `en` oficial está em chinês (sílabas de nome de seita); com o jogo em inglês valem `schoolNameFirst/Second`. Traduzir o sentido ("Luz", "Céu") quebraria a regra do pinyin. |
 | Branch (分舵) | Filial | `Branch Leader` → Líder de Filial. |
+| Taoist Title (道号) | Título Daoísta | Decidido em 2026-10-24. No jogo é um título que se equipa (`AppellationTitle`), e "Nome Daoista" soava como nome próprio. O "í" existe em todas as fontes do jogo menos na `cutiHanwen`, que não tem nenhum acento. Os outros termos (`Taoist`, `Daoist`) continuam "Daoista". |
 
 ## Interface apertada (teste do piloto em 2026-10-23)
 
@@ -193,9 +194,9 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Spirit Stone | Pedra Espiritual | obrigatório | 46 | 灵石 |
 | Spirit Stones | Pedras Espirituais | obrigatório | 432 |  |
 | Taoist Mind | Coração do Dao | obrigatório | 195 | 道心 |
-| Taoist Title | Nome Daoista | obrigatório | 400 | 道号 |
+| Taoist Title | Título Daoísta | obrigatório (era "Nome Daoista" até 2026-10-24) | 400 | 道号 |
 | Taoist Fruit | Fruto do Dao | obrigatório (acrescentado no piloto) | — | — |
-| A Taoist Title | Um nome daoista | obrigatório | 97 |  |
+| A Taoist Title | Um título daoísta | obrigatório (era "Um nome daoista" até 2026-10-24) | 97 |  |
 | Tao Power | Poder do Dao | obrigatório | 25 | 道力 |
 | Destiny | Destino | obrigatório | 239 | 气运 |
 | Rewrite Destiny | Reescrever o Destino | obrigatório | 128 | 逆天改命 |

@@ -6,7 +6,7 @@ A lista abaixo e `tools/ptbr/modelos.json` são a mesma lista, na mesma ordem. A
 
 Ordem de uso (teste com as mesmas 50 falas; nenhum quebrou marcador). O 1 é o tradutor principal; os de API, do mais preciso e rápido ao menos, são complemento e reserva:
 
-1. `local/hy-mt2` (Hy-MT2-30B-A3B no KoboldCpp, nesta máquina): 50/50, marcadores intactos, melhor qualidade do teste. Lento (~20 tok/s), sem cota, `temperature` 0.7. Tiques para revisar: "Visual"/"Conjunto de roupas" (prefira "Traje"), "Nome Daoista", maiúsculas a mais no meio da frase.
+1. `local/hy-mt2` (Hy-MT2-30B-A3B no KoboldCpp, nesta máquina): 50/50, marcadores intactos, melhor qualidade do teste. Lento (~20 tok/s), sem cota, `temperature` 0.7. Tiques para revisar: "Visual"/"Conjunto de roupas" (prefira "Traje"), "Nome Daoista" (o glossário agora pede "Título Daoísta"), maiúsculas a mais no meio da frase.
 2. `gemini/gemini-3-flash-preview`: 50/50, 21 s. Conciso na interface. Deslize visto: "Nether" virou "Inferior" (o glossário corrige).
 3. `cohere/command-a-vision-07-2025`: 50/50, 44 s. Fiel ao inglês e natural nos diálogos. Deslizes: "poison" virou "poção"; às vezes longo na interface. `max_tokens` ≤ 4096.
 4. `gemini/gemini-2.5-flash`: 50/50, 40 s. O mais natural nos diálogos. Deslize: às vezes "Um(a) ... encontrado(a)".
