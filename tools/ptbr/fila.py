@@ -150,13 +150,13 @@ def ler_resposta(texto):
     return out
 
 
-def julgar(entry, pt):
+def julgar(entry, pt, key=None):
     """ok da ponte + regras do CLAUDE.md que a ponte não aplica (texto idêntico ao inglês, erro de validação)."""
     src = entry['en'] or entry['ch']
     if not bridge.placeholders_ok(src, pt):
         return False
     en = entry['en'].strip()
-    if pt.strip() == en and len(en) > 4 and any(c.islower() for c in en) and not ptbr.igual_permitido(en):
+    if pt.strip() == en and len(en) > 4 and any(c.islower() for c in en) and not ptbr.igual_permitido(en, key):
         return False
     errors, _ = ptbr.check({**entry, 'pt': pt})
     return not errors
@@ -213,7 +213,7 @@ def trabalhar(grupo, modelos, fila, glossary, saida_dir, stats, fim):
                     st['faltando'] += 1
                     sem_resposta.add(k)
                     continue
-                ok = julgar(fila.work[k], pt)
+                ok = julgar(fila.work[k], pt, k)
                 out[k] = {'pt': pt, 'ok': ok, 'model': m['id']}
                 feitas.append(k)
                 st['entradas'] += 1
@@ -276,7 +276,7 @@ def etapa_local(work, simular, hymt2_no_ar):
             o = out.get(k)
             if o is None:
                 sem_saida[src.name] = sem_saida.get(src.name, 0) + 1
-            elif o.get('ok') and ptbr.local_judge(e['en'], o.get('pt', '')):
+            elif o.get('ok') and ptbr.local_judge(e['en'], o.get('pt', ''), key=k):
                 juntar[k] = o
             else:
                 falhas.append(k)

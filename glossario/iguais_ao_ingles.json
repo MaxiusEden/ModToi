@@ -1,23 +1,35 @@
-[
- "Bianzhong",
- "Cursor",
- "Debate",
- "Elixir",
- "Feng Shui",
- "Guqin",
- "Hospital",
- "Item 1",
- "Item 2",
- "Item 3",
- "Item 4",
- "Item 5",
- "Manual",
- "Material",
- "Normal",
- "Portal",
- "Social",
- "Tornado",
- "Tutorial",
- "V-Sync",
- "繁体中文 (Alpha)"
-]
+{
+ "_leia": "textos: podem sair iguais ao inglês (inteiros, sem marcadores). chaves_de_nome: prefixos de chave de nomes (pessoas, seitas, lugares); o pinyin fica como no en, então sair igual é esperado. Lido por tools/ptbr/ptbr.py e pela ponte (~/tools/omni-bridge/server.py).",
+ "textos": [
+  "Bianzhong",
+  "Cursor",
+  "Debate",
+  "Elixir",
+  "Feng Shui",
+  "Guqin",
+  "Hospital",
+  "Item 1",
+  "Item 2",
+  "Item 3",
+  "Item 4",
+  "Item 5",
+  "Manual",
+  "Material",
+  "Normal",
+  "Portal",
+  "Social",
+  "Tornado",
+  "Tutorial",
+  "V-Sync",
+  "繁体中文 (Alpha)"
+ ],
+ "chaves_de_nome": [
+  "npc_name",
+  "rolrNameS",
+  "schoolFirstName",
+  "schoolLastName",
+  "schoolNameFirst",
+  "schoolNameSecond",
+  "townName"
+ ]
+}

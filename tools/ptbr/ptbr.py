@@ -288,7 +288,9 @@ def obligatory_terms():
             forms = {fold(f) for f in (pt, number_variant(pt, plural=True), number_variant(pt, plural=False))}
             forms |= {feminine_variant(f) for f in forms}
             forms |= {abbreviate(f) for f in forms}
-            pt_rx = [re.compile(r'(?<![a-z0-9])' + r'\w*\s+'.join(map(re.escape, f.split()))) for f in forms]
+            # Ponto final de abreviação opcional: "Vitalidade Máx." aceita "Vitalidade Máx".
+            word_rx = lambda w: re.escape(w[:-1]) + r'\.?' if w.endswith('.') else re.escape(w)
+            pt_rx = [re.compile(r'(?<![a-z0-9])' + r'\w*\s+'.join(map(word_rx, f.split()))) for f in forms]
             terms.append((term, pt_rx, rx, is_ch, term in obrig, pt))
         terms.sort(key=lambda t: -len(t[0]))
         _glossary = terms
@@ -548,34 +550,46 @@ def placeholders_ok(src: str, dst: str) -> bool:
 
 
 IGUAIS_FILE = GLOSS_DIR / 'iguais_ao_ingles.json'
-_iguais = (None, frozenset())
+_iguais = (None, frozenset(), ())
 
 
 def iguais_ao_ingles():
-    """glossario/iguais_ao_ingles.json, relido quando muda (o `local --continuo` roda por dias)."""
+    """(textos, prefixos de chave de nome) de glossario/iguais_ao_ingles.json, relido quando muda
+    (o `local --continuo` roda por dias)."""
     global _iguais
     try:
         mtime = IGUAIS_FILE.stat().st_mtime
     except OSError:
-        return frozenset()
+        return frozenset(), ()
     if _iguais[0] != mtime:
-        _iguais = (mtime, frozenset(json.loads(IGUAIS_FILE.read_text(encoding='utf-8'))))
-    return _iguais[1]
+        data = json.loads(IGUAIS_FILE.read_text(encoding='utf-8'))
+        _iguais = (mtime, frozenset(data.get('textos', [])), tuple(data.get('chaves_de_nome', [])))
+    return _iguais[1], _iguais[2]
 
 
-def igual_permitido(src):
-    """Texto que pode sair igual ao inglês: inteiro (sem marcadores) em iguais_ao_ingles.json, ou só marcadores.
-    A ponte (~/tools/omni-bridge/server.py) tem a mesma função e lê o mesmo arquivo."""
+def is_name_key(key):
+    """Chave de nome (pessoa, seita, lugar): o pinyin fica como no en (glossario/decisoes.md, regra 3)."""
+    return bool(key) and key.startswith(iguais_ao_ingles()[1])
+
+
+def igual_permitido(src, key=None):
+    """Texto que pode sair igual ao inglês: chave de nome, texto inteiro (sem marcadores) em
+    iguais_ao_ingles.json, ou só marcadores. A ponte (~/tools/omni-bridge/server.py) tem a mesma função."""
+    if is_name_key(key):
+        return True
     texto = PLACEHOLDER.sub('', src or '').strip()
-    return not texto or texto in iguais_ao_ingles()
+    return not texto or texto in iguais_ao_ingles()[0]
 
 
-def local_judge(en, pt, finish=None):
-    """ok da saída do Hy-MT2, com os critérios da ponte; a fila reaplica no merge, então mudar aqui vale para saídas antigas."""
+def local_judge(en, pt, finish=None, key=None):
+    """ok da saída do Hy-MT2, com os critérios da ponte; a fila reaplica no merge, então mudar aqui vale para saídas antigas.
+    Além da ponte: barra que o en não tem é o modelo dando alternativas ("Certo/Correto")."""
     if finish == 'length' or not placeholders_ok(en, pt):
         return False
+    if '/' in pt and '/' not in en:
+        return False
     identical = len(en.strip()) > 4 and any(c.islower() for c in en) and pt.strip() == en.strip()
-    return not identical or igual_permitido(en)
+    return not identical or igual_permitido(en, key)
 
 
 def local_alive():
@@ -608,14 +622,26 @@ def local_glossary(text, glossary):
     return list(found.values())
 
 
-def local_prompt(en, glossary):
+# Marcadores que o jogo troca por valores ($s_feng$, &51111_hfsl&, {0}); o modelo perdia vários em textos de títulos.
+GAME_VARIABLE = re.compile(r'\$[^$\s]+\$|&[^&\s]+&|\{[^{}]*\}')
+
+
+def local_prompt(en, glossary, key=None):
     terms = local_glossary(en, glossary)
     head = ('Reference the following translations:\n'
             + '\n'.join(f'{t} translates to {pt}' for t, pt in terms) + '\n\n') if terms else ''
     instr = 'Translate the following text into Brazilian Portuguese.'
+    if is_name_key(key):
+        instr += (' This text is a name or part of a name (of a person, sect or place): keep Chinese pinyin words'
+                  ' unchanged (for example Long, Tao, Ta, Feng Pingmo) and translate English words by their meaning.'
+                  ' Give a single translation, without alternatives.')
     if PLACEHOLDER.search(en):
         instr += (' You must retain the exact same number of delimiters in the translation, such as {0}, <color=...>,'
                   ' </color>, &x&, $x$ and \\n, without omitting, escaping or translating them.')
+    if GAME_VARIABLE.search(en):
+        instr += (' Markers such as $s_feng$, &51111_hfsl& and {0} are game variables that the game replaces with'
+                  ' attribute values, skill names or numbers: copy every one of them exactly as written, character'
+                  ' by character, as many times as it appears.')
     instr += ' Output only the translation, without additional explanation.'
     return head + instr + '\n\n' + en
 
@@ -780,7 +806,7 @@ def translate_batch(src, out_path, todo, glossary, stats, tried):
             en = src[key]['en']
             t0 = time.time()
             try:
-                pt, finish = local_chat(local_prompt(en, glossary))
+                pt, finish = local_chat(local_prompt(en, glossary, key))
                 if not pt.strip():
                     raise ValueError('resposta vazia')
             except Exception as e:  # noqa: BLE001 - registra e segue; a linha fica para a próxima rodada
@@ -801,7 +827,7 @@ def translate_batch(src, out_path, todo, glossary, stats, tried):
             # O modelo apara espaços e quebras das pontas; devolve as do en para não contar como marcador perdido.
             lead, trail = en[:len(en) - len(en.lstrip())], en[len(en.rstrip()):]
             pt = normalize_punct(en, lead + pt.strip() + trail)
-            ok = local_judge(en, pt, finish)
+            ok = local_judge(en, pt, finish, key)
             out[key] = {'pt': pt, 'ok': ok, 'model': LOCAL_MODEL}
             stats.ok += ok
             stats.bad += not ok
