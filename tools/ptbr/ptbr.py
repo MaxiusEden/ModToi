@@ -609,7 +609,10 @@ def local_glossary(text, glossary):
     Devolve pares (en, pt) para o prompt; termo em minúscula no texto vai em minúscula também no pt, senão o
     modelo copia a maiúscula do glossário para o meio da frase ("um profundo Revigoramento")."""
     found, taken = {}, []
-    for term in sorted((t for t in glossary if not CJK_RE.search(t)), key=len, reverse=True):
+    # Tradução com chinês ("Multiplicador Crítico (se ch=暴击倍率) ou ...") é regra para quem revisa, não dica:
+    # o Hy-MT2 copiava o texto inteiro para a saída.
+    usable = (t for t in glossary if not CJK_RE.search(t) and not CJK_RE.search(glossary[t]))
+    for term in sorted(usable, key=len, reverse=True):
         for m in re.finditer(r'(?<![A-Za-z])' + re.escape(term) + r'(?:s|es)?(?![A-Za-z])', text, re.IGNORECASE):
             if not any(m.start() < e and s < m.end() for s, e in taken):
                 taken.append(m.span())
