@@ -1,7 +1,7 @@
 # Relatório rev34 (revisão na nuvem)
 
 - Modelo: Claude (revisão manual, entrada por entrada). Lote com 561 entradas (eventos e diálogos de aventura, `drama_dialogue`).
-- Corrigidas: 153 entradas, gravadas em `out_rev34.json`. Verificador `--parcial`: 0 ERRO, 1 AVISO.
+- Corrigidas: 155 entradas, gravadas em `out_rev34.json`. Verificador `--parcial`: 0 ERRO, 1 AVISO.
 - Erros mais comuns do Hy-MT2:
   - espanholismos e typos: "materiales", "especiales", "itemes", "Escoli", "entusiado", "galhias", "Attacando";
   - pessoa trocada: "Ele deixa o lugar", "o senhor acendeu" em texto na 2ª pessoa; plural "vocês/Protejam-me" onde o `en` fala com uma pessoa; "teus/Traz-me";
