@@ -524,6 +524,7 @@ LOCAL_START = r'C:\Users\filip\Downloads\bot\Start-HyMT2.bat'
 LOCAL_TIMEOUT = 120
 LOCAL_SAVE_EVERY = 20
 LOCAL_MAX_ERRORS = 10
+LOCAL_RETRIES = 2  # novas tentativas quando a saída sai ok=false
 LOCAL_GLOSSARY_MAX = 15
 
 # Copiado de ~/tools/omni-bridge/server.py (PLACEHOLDER, TYPO_MAP, normalize_punct, placeholders_ok):
@@ -828,6 +829,18 @@ def translate_batch(src, out_path, todo, glossary, stats, tried):
             lead, trail = en[:len(en) - len(en.lstrip())], en[len(en.rstrip()):]
             pt = normalize_punct(en, lead + pt.strip() + trail)
             ok = local_judge(en, pt, finish, key)
+            # Com temperature 0.7 cada tentativa sai diferente: nos textos cheios de marcadores, uma nova
+            # tentativa recupera parte das falhas (teste de 2026-10-25: +15% na 2ª).
+            for retry in range(LOCAL_RETRIES if not ok else 0):
+                try:
+                    again, finish = local_chat(local_prompt(en, glossary, key))
+                except Exception:  # noqa: BLE001 - fica a primeira versão
+                    break
+                again = normalize_punct(en, lead + again.strip() + trail)
+                if local_judge(en, again, finish, key):
+                    pt, ok = again, True
+                    print(f'{i}/{len(todo)} nova tentativa {retry + 1} passou: {key}', flush=True)
+                    break
             out[key] = {'pt': pt, 'ok': ok, 'model': LOCAL_MODEL}
             stats.ok += ok
             stats.bad += not ok
