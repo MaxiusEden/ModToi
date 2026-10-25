@@ -33,4 +33,5 @@ Instruções para a sessão do Claude Code na nuvem que traduz os lotes desta pa
 
 ## Lotes
 
-- `src_piloto.json`: 100 entradas de teste (descrições de itens, talentos, traços, opções de diálogo, habilidades e casos difíceis de marcador). Traduza só este lote; os próximos só depois do aval do usuário.
+- `src_piloto.json`: 100 entradas de teste (descrições de itens, talentos, traços, opções de diálogo, habilidades e casos difíceis de marcador). Feito em 2026-10-25 (`out_piloto.json`).
+- `src_falhas1.json`, `src_falhas2.json`, `src_falhas3.json` (494 entradas no total, liberados em 2026-10-25): entradas em que o tradutor local falhou na validação, quase sempre por marcador perdido ou estragado, alternativa com barra ou texto deixado em inglês. Faça um lote por vez, na ordem, com commit e push ao fim de cada um, para o trabalho poder ser retomado. Nomes em pinyin que ficam iguais ao inglês são esperados; se o verificador acusar "idêntico ao inglês" num nome assim, deixe como está e cite no relatório.

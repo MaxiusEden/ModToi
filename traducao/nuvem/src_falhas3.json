@@ -1,0 +1,745 @@
+{
+ "wuxue_canwuguize2": {
+  "en": "1. After the learning begins, there will be a continuous flow of meditations from the character, which may become enlightenment or magic, and will automatically disappear after a period of time. \n2. According to the key prompt, press the corresponding key to collect \"Wu\" or \"Mo\", and press the ZL+ key to destroy \"Wu\" or \"Mo\" \n3. The character needs to collect Enlightenment and destroy demons, and the undestroyed demons invade the body when they disappear. The more \"Enlightenment\" collected, the better the learning effect, and the \"Mo\" collected will affect the learning effect. 5. The higher the character's understanding, the higher the probability of enlightenment.",
+  "ch": "1.学习开始后，会不断有冥思从角色体内向外溢出，这些冥思有可能会变成【悟】或【魔】，并且在一段时间后会自动消失。\n2.根据按键提示按下对应的按键可收集到【悟】或【魔】，按住ZL+按键摧毁【悟】或【魔】\n3.角色需要收集【悟】和摧毁【魔】，未摧毁的【魔】在其消失时会侵入体内。\n4.收集的【悟】越多，则学习的效果越好，收集的【魔】则会影响学习的效果。\n5.角色的悟性越高，出现【悟】的概率越高。"
+ },
+ "wuxue_xuexizhuangtai": {
+  "en": "Status",
+  "ch": "学习状态"
+ },
+ "xueNv": {
+  "en": "Shuang Ling",
+  "ch": "霜凌"
+ },
+ "xuexi_yixuehui": {
+  "en": "Learned",
+  "ch": "已学会"
+ },
+ "yuehui_qiecuozhong": {
+  "en": "Sparring...",
+  "ch": "正在切磋......"
+ },
+ "zhugeChen": {
+  "en": "Zhuge Chen",
+  "ch": "诸葛尘"
+ },
+ "AppellationTitleName2003": {
+  "en": "Elixir Sovereign",
+  "ch": "灵丹真君"
+ },
+ "AppellationTitleTips1412": {
+  "en": "When this Taoist Title is equipped, you can neutralize all $s_mu$ damage from Cultivators of the same or lower stage for a short period of time.",
+  "ch": "佩戴此道号时，可短时间化解一切来自同阶或低阶修仙者的$s_mu$伤害。"
+ },
+ "AppellationTitlegainDesc1002": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yong Ning No.1 Spear Cultivator.\nIf the Title is held by no one, then the mightiest Spear Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_qiang$ stats gains the Taoist Title of the Yong Ning No.1 Spear Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Spear Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_qiang$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一枪修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_qiang$资质达到<r>40</r>的修仙者中，实力最强的枪修，可获得永宁第一枪修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一枪修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一枪修的道号。\n当修仙者灵技和绝技均不是$s_qiang$的功法时，则不具备获得或挑战枪修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1004": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yong Ning No.1 Fist Cultivator.\nIf the Title is held by no one, then the mightiest Sword Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_quan$ stats gains the Taoist Title of the Yong Ning No.1 Fist Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Fist Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_quan$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一拳修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_quan$资质达到<r>40</r>的修仙者中，实力最强的拳修，可获得永宁第一拳修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一拳修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一拳修的道号。\n当修仙者灵技和绝技均不是$s_quan$的功法时，则不具备获得或挑战拳修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1005": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the World No.1 Palm Cultivator.\nIf the Title is held by no one, then the mightiest Palm Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_zhang$ stats gains the Taoist Title of the World No.1 Palm Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Palm Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_zhang$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一掌修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_zhang$资质达到<r>40</r>的修仙者中，实力最强的掌修，可获得永宁第一掌修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一掌修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一掌修的道号。\n当修仙者灵技和绝技均不是$s_zhang$的功法时，则不具备获得或挑战掌修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1007": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yong Ning No.1 Fire Cultivator.\nIf the Title is held by no one, then the mightiest Fire Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_huo$ stats gains the Taoist Title of the Yong Ning No.1 Fire Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Fire Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_huo$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一火修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_huo$资质达到<r>40</r>的修仙者中，实力最强的火修，可获得永宁第一火修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一火修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一火修的道号。\n当修仙者灵技和绝技均不是$s_huo$的功法时，则不具备获得或挑战火修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1008": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yong Ning No.1 Water Cultivator.\nIf the Title is held by no one, then the mightiest Water Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_shui$ stats gains the Taoist Title of the Yong Ning No.1 Water Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Water Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_shui$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一水修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_shui$资质达到<r>40</r>的修仙者中，实力最强的水修，可获得永宁第一水修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一水修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一水修的道号。\n当修仙者灵技和绝技均不是$s_shui$的功法时，则不具备获得或挑战水修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1009": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yong Ning No.1 Lightning Cultivator.\nIf the Title is held by no one, then the mightiest Finger Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_lei$ stats gains the Taoist Title of the Yong Ning No.1 Lightning Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Lightning Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_lei$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一雷修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_lei$资质达到<r>40</r>的修仙者中，实力最强的雷修，可获得永宁第一雷修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一雷修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一雷修的道号。\n当修仙者灵技和绝技均不是$s_lei$的功法时，则不具备获得或挑战雷修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador",
+   "Lightning": "Relâmpago"
+  }
+ },
+ "AppellationTitlegainDesc1012": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yong Ning No.1 Wood Cultivator.\nIf the Title is held by no one, then the mightiest Wood Cultivator among all <r>Qi Refining and Foundation Realm</r> Cultivators at <r>40</r> $s_mu$ stats gains the Taoist Title of the Yong Ning No.1 Wood Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Wood Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_mu$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有永宁第一木修的道号。\n若此道号无人拥有，在所有<r>炼气境、筑基境</r>的$s_mu$资质达到<r>40</r>的修仙者中，实力最强的木修，可获得永宁第一木修的道号。\n若此道号已被人拥有，修仙者需要找到永宁第一木修的拥有者，并向其发起道号挑战，挑战成功后可获得永宁第一木修的道号。\n当修仙者灵技和绝技均不是$s_mu$的功法时，则不具备获得或挑战木修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1104": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Hua Feng No.1 Fist Cultivator.\nIf the Title is held by no one, then the mightiest Sword Cultivator among all <r>Qi Condensation and Golden Core Realm</r> Cultivators at <r>120</r> $s_quan$ stats gains the Taoist Title of the Hua Feng No.1 Fist Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Fist Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_quan$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有华封第一拳修的道号。\n若此道号无人拥有，在所有<r>结晶境、金丹境</r>的$s_quan$资质达到<r>120</r>的修仙者中，实力最强的拳修，可获得华封第一拳修的道号。\n若此道号已被人拥有，修仙者需要找到华封第一拳修的拥有者，并向其发起道号挑战，挑战成功后可获得华封第一拳修的道号。\n当修仙者灵技和绝技均不是$s_quan$的功法时，则不具备获得或挑战拳修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1105": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Hua Feng No.1 Palm Cultivator.\nIf the Title is held by no one, then the mightiest Spear Cultivator among all <r>Qi Condensation and Golden Core Realm</r> Cultivators at <r>120</r> $s_zhang$ stats gains the Taoist Title of the Hua Feng No.1 Palm Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Palm Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_zhang$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有华封第一掌修的道号。\n若此道号无人拥有，在所有<r>结晶境、金丹境</r>的$s_zhang$资质达到<r>120</r>的修仙者中，实力最强的掌修，可获得华封第一掌修的道号。\n若此道号已被人拥有，修仙者需要找到华封第一掌修的拥有者，并向其发起道号挑战，挑战成功后可获得华封第一掌修的道号。\n当修仙者灵技和绝技均不是$s_zhang$的功法时，则不具备获得或挑战掌修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1212": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the Yun Mo No.1 Wood Cultivator.\nIf the Title is held by no one, then the mightiest Wood Cultivator among all <r>Origin Spirit and Nascent Soul Realm</r> Cultivators at <r>300</r> $s_mu$ stats gains the Taoist Title of the Yun Mo No.1 Wood Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Wood Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_mu$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有云陌第一木修的道号。\n若此道号无人拥有，在所有<r>具灵境、元婴境</r>的$s_mu$资质达到<r>300</r>的修仙者中，实力最强的木修，可获得云陌第一木修的道号。\n若此道号已被人拥有，修仙者需要找到云陌第一木修的拥有者，并向其发起道号挑战，挑战成功后可获得云陌第一木修的道号。\n当修仙者灵技和绝技均不是$s_mu$的功法时，则不具备获得或挑战木修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "AppellationTitlegainDesc1410": {
+  "en": "Only one Cultivator in the whole world carries the Taoist Title of the World No.1 Wind Cultivator.\nIf the Title is held by no one, then the mightiest Wind Cultivator among all <r>Reborn Realm and Transcendent Realm</r> Cultivators at <r>800</r> $s_feng$ stats gains the Taoist Title of the World No.1 Wind Cultivator.\nIf the Title has already been taken, then the Cultivator must find whomever the No.1 Wind Cultivator is and challenge them for the Taoist Title. If they succeed in this challenge, the Title will be theirs.\nIf neither the Spiritual Skill nor the Special Skill of a Cultivator are at Martial Arts $s_feng$, they will not be qualified to either hold the Title or challenge others for it.",
+  "ch": "八荒之内，仅有一位修仙者能拥有八荒第一风修的道号。\n若此道号无人拥有，在所有<r>羽化境、登仙境</r>的$s_feng$资质达到<r>800</r>的修仙者中，实力最强的风修，可获得八荒第一风修的道号。\n若此道号已被人拥有，修仙者需要找到八荒第一风修的拥有者，并向其发起道号挑战，挑战成功后可获得八荒第一风修的道号。\n当修仙者灵技和绝技均不是$s_feng$的功法时，则不具备获得或挑战风修类道号的资格。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "GodEyeSkills_desc_100721": {
+  "en": "Shoots &100721_ddbs& waves of attacks around, each wave throwing &100721_ddsl& tree seeds that deal &100721_shwl& damage to the enemy hit.",
+  "ch": "以自身为中心向周围释放&100721_ddbs&波、每波&100721_ddsl&颗的树籽，对命中的敌人造成&100721_shwl&威力的伤害。"
+ },
+ "GodEyeSkills_desc_110031": {
+  "en": "Fires &110031_fscs& blue fox fireballs at the target, dealing &110031_shwl& damage to the enemy touched.",
+  "ch": "向目标方向释放&110031_fscs&团蓝色的狐火，对碰到的敌人造成威力&110031_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_110032": {
+  "en": "Throws fox kisses in the target direction, dealing &110032_shwl& damage to the enemy touched and stunning it for &110032_xysj&s.",
+  "ch": "向目标方向撒出一片狐吻，对碰到的敌人造成威力&110032_shwl&的伤害并眩晕&110032_xysj&秒。"
+ },
+ "GodEyeSkills_desc_110042": {
+  "en": "Fires &110042_fscs& bolts of lightning in the target direction, dealing &110042_edwl& damage to the enemy touched and stunning it for &110042_xysj&s.",
+  "ch": "向目标方向发射&110042_fscs&道雷电，对碰到的敌人造成威力&110042_edwl&的伤害并眩晕&110042_xysj&秒。"
+ },
+ "GodEyeSkills_desc_7121": {
+  "en": "Fires &7121_fscs& light beams in the target direction, dealing &7121_shwl& damage to the enemy touched.",
+  "ch": "向目标方向发射&7121_fscs&道光波，对碰到的敌人造成威力&7121_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7162": {
+  "en": "Unleashes &7162_ddsl& fire tornados in the target direction, dealing damage to enemies equal to &7162_shwl|/0.7|f0&/s. The tornados leave flames on the ground that deal &7162_hywl|/0.7|f0&/s damage.",
+  "ch": "向目标方向释放&7162_ddsl&道火龙卷，对火龙卷刮到的敌人造成威力&7162_shwl|/0.7|f0&/秒的伤害。火龙卷还会在地上留下火焰，造成威力&7162_hywl|/0.7|f0&/秒的伤害。"
+ },
+ "GodEyeSkills_desc_7201": {
+  "en": "Shoots &7201_ddsl& lightning balls in the target direction, dealing &7201_shwl& damage to the enemy touched.",
+  "ch": "向目标方向发射&7201_ddsl&颗雷球，对碰到的敌人造成威力&7201_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7204": {
+  "en": "Unleashes &7204_ddsl& streaks of lightning around that lasts &7204_ddzq&s, which moves toward the enemy, dealing &7204_shwl& damage to the enemy touched.",
+  "ch": "向四周释放&7204_ddsl&道持续&7204_ddzq&秒的雷电，雷电会自动向敌人靠近，对碰到的敌人造成威力&7204_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7211": {
+  "en": "Fires &7211_ddsl& light beams in the target direction, dealing &7211_shwl& damage to the enemy touched.",
+  "ch": "向目标方向释放&7211_ddsl&道光波，对碰到的敌人造成威力&7211_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7212": {
+  "en": "Unleashes &7212_ddsl& fire tornadoes in the target direction, dealing &7212_shwl|x5|f0& per sec to the enemy touched.",
+  "ch": "向目标方向释放&7212_ddsl&道火旋风，对碰到的敌人造成威力&7212_shwl|x5|f0&/秒的伤害。"
+ },
+ "GodEyeSkills_desc_7344": {
+  "en": "Fires &7344_ddsl& lightning bolts in the target direction, dealing &7344_shwl& damage to the enemy touched.",
+  "ch": "向目标方向释放&7344_ddsl&列闪电，对碰到的敌人造成威力&7344_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7351": {
+  "en": "Fires &7351_ddsl& water tornadoes in the target direction, dealing &7351_shwl& to the enemy touched.",
+  "ch": "向目标方向释放&7351_ddsl&道水旋风，对碰到的敌人造成威力&7351_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7363": {
+  "en": "Unleashes &7363_ddsl& columns of stone explosion in the target direction that explodes after a pause, dealing &7363_shwl& damage to the enemy.",
+  "ch": "向目标方向释放&7363_ddsl&列延迟爆炸的石爆，对敌人造成威力&7363_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7371": {
+  "en": "Fires &7371_ddsl& wind missiles in the target direction, dealing &7371_shwl& damage to the enemy touched.",
+  "ch": "向目标方向释放&7371_ddsl&团风弹，对碰到的敌人造成威力&7371_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7372": {
+  "en": "Summons &7372_ddsl& hurricanes in the target direction, each one dealing &7372_shwl& damage to the enemy touched on the path.",
+  "ch": "向目标方向召唤&7372_ddsl&道飓风，每道飓风对路径上碰到的敌人造成威力&7372_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7373": {
+  "en": "Unleashes &7373_ddsl& ice tornadoes in the target direction that fly over a distance of &7373_ddsc&, lasting for &73731_edzq& and dealing &7373_shwl|x3|f0& damage per sec to the enemy touched.",
+  "ch": "向目标方向释放&7373_ddsl&道飞行&7373_ddsc&距离的冰旋风，冰旋风持续&73731_edzq&秒，对碰到的敌人造成威力&7373_shwl|x3|f0&/秒的伤害。"
+ },
+ "GodEyeSkills_desc_7402": {
+  "en": "Fires &7402_ddsl& Lunar Eclipse Orbs in front, dealing &7402_shwl& damage to enemies touched.",
+  "ch": "向前方发射&7402_ddsl&簇月食灵珠，对触碰到的敌人造成威力&7402_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7542": {
+  "en": "Fires &7542_ddsl& columns of earthquake waves in the target direction, dealing &7542_shwl& damage.",
+  "ch": "向目标方向发射&7542_ddsl&列地震，造成威力&7542_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7554": {
+  "en": "Summons a belt of lightning balls around yourself that lasts for &7554_ddzq&s, dealing &7554_shwl& damage to the enemy touched.",
+  "ch": "召唤一圈雷球环绕自身持续&7554_ddzq&秒，雷球对碰到的单位造成威力&7554_shwl&的伤害。"
+ },
+ "GodEyeSkills_desc_7571": {
+  "en": "Launches &7571_fscs& claw attacks ahead that deal &7571_shwl& damage.",
+  "ch": "向前方使出&7571_fscs&次威力&7571_shwl&的爪击。"
+ },
+ "GodEyeSkills_desc_7574": {
+  "en": "Unleashes &7574_ddsl& blood strikes in the target direction, dealing &75741_edwl& damage.",
+  "ch": "向目标方向释放&7574_ddsl&列血痕冲击，造成威力&75741_edwl&的伤害。"
+ },
+ "GodEyeSkills_desc_804188": {
+  "en": "Launch &804188_fscs& spikes with &804188_ddsc& range to the targeted direction at a certain interval, dealing &804188_shwl& damage to enemies touched.",
+  "ch": "间隔性向指定方向发射共计&804188_fscs&枚射程&804188_ddsc&的尖刺，对碰触到的敌人造成&804188_shwl&威力的伤害。"
+ },
+ "GodEyeSkills_desc_832288": {
+  "en": "Extend &832288_ddsl& thorn tentacles forward, dealing &832288_shwl& damage to enemies touched.",
+  "ch": "向前方伸出&832288_ddsl&只荆棘触手，对碰触到的敌人造成&832288_shwl&威力的伤害。"
+ },
+ "drama_dialogue1007001": {
+  "en": "Ugh...",
+  "ch": "可恶……"
+ },
+ "drama_dialogue1007002": {
+  "en": "Hahahahaha!",
+  "ch": "哈哈哈哈，哈哈哈！"
+ },
+ "drama_dialogue17004003": {
+  "en": "Console",
+  "ch": "安慰"
+ },
+ "drama_dialogue17004004": {
+  "en": "Expound",
+  "ch": "敷衍"
+ },
+ "drama_dialogue2000155": {
+  "en": "Tianxuan... Bitterfly...",
+  "ch": "天玄……蝶怨……"
+ },
+ "drama_dialogue2000331": {
+  "en": "Tianxuan?",
+  "ch": "天玄？"
+ },
+ "drama_dialogue2002482": {
+  "en": "I always thought my father is very powerful. No matter the danger, he is not afraid and would always rise to the occasion.\nHe always said that he could protect the tribe and is not afraid of any danger.\nBut I thought that only such a person could be lauded by others.\nI thought my father was the only one, but I never thought there would be you! I really want to talk to you, but I can’t now.\nMy father and his friends are very capable. One day you will be able to return to the world.\nWhen that time comes, we’ll talk for three days and three nights! \n\n\nFeng Lixi",
+  "ch": "我一向觉得我父亲十分厉害，无论什么危险他都不害怕，总会奋勇向前。\n他总说能够保护族中，什么危难也不怕。他总让我十分担心。\n但我以为也只有这样的人才能叫别人敬爱。\n我以为我父亲是唯一的，没想到还有你！我真想跟你聊聊天，但现在是没办法了。\n不过父亲和他的朋友本事很大，总有一日你定能回到八荒。\n到时候我们再聊，聊个三天三夜！\n\n\n风里希",
+  "nomes": {
+   "Feng Lixi": "Feng Lixi"
+  }
+ },
+ "drama_dialogue2231410": {
+  "en": "Zhang San?!",
+  "ch": "张三？！",
+  "nomes": {
+   "Zhang San": "Zhang San"
+  }
+ },
+ "drama_dialogue2300702": {
+  "en": "Ahem!",
+  "ch": "咳咳！"
+ },
+ "drama_dialogue2300704": {
+  "en": "Hmph!",
+  "ch": "哼！"
+ },
+ "drama_dialogue2301837": {
+  "en": "Yu...",
+  "ch": "阿禹……"
+ },
+ "drama_dialogue6002335": {
+  "en": "Yuanqiu, on the other hand, did not seem to have any talent for cultivation. She had made no progress for three years, and it seemed her fate did not lie on the Heavenly Way.\nTo cheer her younger sister up, Yuanzhi promised her that she would find a way for her to increase her chances of cultivation after she joined the Sect. Yuanqiu smiled wanly, but didn't say a word.",
+  "ch": "而愿求则没有半点仙根，她三年来毫无寸进，眼看与天道无缘。\n为了照顾妹妹的情绪，愿知向她承诺，待自己进入宗门，一定想办法为妹妹愿求寻找提升资质之法。愿求淡然一笑，并不言语。"
+ },
+ "drama_dialogue610356": {
+  "en": "Jagu: ...",
+  "ch": "武罗：......"
+ },
+ "drama_dialogue610358": {
+  "en": "Jagu: ...",
+  "ch": "武罗：......"
+ },
+ "drama_dialogue6341005": {
+  "en": "\"An excellent {#item_name3031101} was forged with a great forge and required materials.\"",
+  "ch": "“配合其他一些材料，凭借高超的炼器资质才炼成如此优质的{#item_name3031101}。”"
+ },
+ "drama_dialogue70097": {
+  "en": "To the south there is a Sacred Pond. If you can bring me some <g>Divine Water</g> from there, I will give you the <g>Mulberry Branch</g>.",
+  "ch": "南方有一处仙池，你若是能取得一些池中的<g>神水</g>，我便将<g>扶桑树枝</g>交给于你。",
+  "nomes": {
+   "Mulberry Branch": "Ramo de Amoreira",
+   "Divine Water": "Água Divina"
+  }
+ },
+ "drama_dialogue70211": {
+  "en": "(Sob)...",
+  "ch": "呜…"
+ },
+ "drama_dialogue70301": {
+  "en": "(Sob)...",
+  "ch": "呜…"
+ },
+ "drama_dialogue70691": {
+  "en": "(Sob)...",
+  "ch": "呜…"
+ },
+ "drama_dialogue71177": {
+  "en": "Bi Fang?",
+  "ch": "毕方？",
+  "nomes": {
+   "Bi Fang": "Bi Fang"
+  }
+ },
+ "drama_dialogue71193": {
+  "en": "Bi Fang?",
+  "ch": "毕方？",
+  "nomes": {
+   "Bi Fang": "Bi Fang"
+  }
+ },
+ "drama_dialogue760451": {
+  "en": "You pick up the <r>Water Dragon Cauldron</r> and exit the cave... As you make to leave a dragon-headed monster suddenly appears in the air before you.",
+  "ch": "你拿起<r>溟霖鼎</r>，走出了洞府外，正打算离开时…空中骤然出现了一只龙首人身的怪物。",
+  "nomes": {
+   "Water Dragon Cauldron": "Caldeirão do Dragão de Água"
+  }
+ },
+ "drama_dialogue760543": {
+  "en": "Glug glug glug glug...",
+  "ch": "吨吨吨吨吨……"
+ },
+ "drama_dialogue8002018": {
+  "en": "Tweet... Tweet...",
+  "ch": "啾啾……啾啾……"
+ },
+ "drama_dialogue8002134": {
+  "en": "Tweet!",
+  "ch": "啾啾啾~"
+ },
+ "drama_dialogue8002302": {
+  "en": "Tweet... Tweet... Tweet...",
+  "ch": "啾啾~啾啾啾啾~啾啾~"
+ },
+ "drama_dialogue8004103": {
+  "en": "Shhh!",
+  "ch": "嘘！"
+ },
+ "drama_dialogue8007101": {
+  "en": "If you could defeat me, I'll bestow my <b>Heavenly Art</b> upon you. I'll only use 10% of my power in this spar, so don't worry.",
+  "ch": "若汝能战胜吾，<b>仙法</b>将归于汝。此次切磋，吾仅会用出一成功力，汝不必紧张。"
+ },
+ "drama_dialogue8010202": {
+  "en": "Hmph.",
+  "ch": "哼。"
+ },
+ "drama_dialogue8013101": {
+  "en": "I'll give you my <b>Heavenly Art</b> if you defeat 30% of my power.",
+  "ch": "战胜我的三成功力，就将<b>仙法</b>给你。"
+ },
+ "drama_dialogue8021201": {
+  "en": "If you can defeat 10% of my power, my <b>Heavenly Art</b> will be yours.",
+  "ch": "你若能战斗我的一成功力，<b>仙法</b>便归你所有。"
+ },
+ "drama_dialogue970424": {
+  "en": "Um...",
+  "ch": "这……"
+ },
+ "drama_option100006": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option13000621": {
+  "en": "Chase",
+  "ch": "追"
+ },
+ "drama_option20012942": {
+  "en": "Escape",
+  "ch": "逃离"
+ },
+ "drama_option20153042": {
+  "en": "Tongren",
+  "ch": "同人"
+ },
+ "drama_option20153043": {
+  "en": "Dayou",
+  "ch": "大有"
+ },
+ "drama_option20153052": {
+  "en": "Guimei",
+  "ch": "归妹"
+ },
+ "drama_option20153053": {
+  "en": "Wuwang",
+  "ch": "无妄"
+ },
+ "drama_option20153054": {
+  "en": "Dayou",
+  "ch": "大有"
+ },
+ "drama_option20153822": {
+  "en": "Storeroom",
+  "ch": "饵阁"
+ },
+ "drama_option20251731": {
+  "en": "Enter",
+  "ch": "进入一探"
+ },
+ "drama_option20303832": {
+  "en": "No clue",
+  "ch": "没有头绪"
+ },
+ "drama_option20314611": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option21150681": {
+  "en": "Goumang?",
+  "ch": "句芒？",
+  "nomes": {
+   "Goumang": "Goumang"
+  }
+ },
+ "drama_option21155512": {
+  "en": "Storeroom",
+  "ch": "饵阁"
+ },
+ "drama_option21171171": {
+  "en": "Warn Yinglan",
+  "ch": "警告端木影澜"
+ },
+ "drama_option22101342": {
+  "en": "Zhang San",
+  "ch": "张三",
+  "nomes": {
+   "Zhang San": "Zhang San"
+  }
+ },
+ "drama_option22102542": {
+  "en": "Zhang San",
+  "ch": "张三",
+  "nomes": {
+   "Zhang San": "Zhang San"
+  }
+ },
+ "drama_option22310411": {
+  "en": "Enter",
+  "ch": "进入一探"
+ },
+ "drama_option22500021": {
+  "en": "May I ask who you are?",
+  "ch": "敢问阁下姓名"
+ },
+ "drama_option239093": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option240083": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option25008501": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26001311": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26002211": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26002511": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26002811": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26003311": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26003811": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26004211": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26004411": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26005711": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26005911": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26006111": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26006311": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option26007511": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28038041": {
+  "en": "Lady Frostdweller",
+  "ch": "“女仙”栖寒"
+ },
+ "drama_option28102131": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28105041": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28105811": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28116312": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28117212": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28118611": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option28122711": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "drama_option60901572": {
+  "en": "This smells fishy",
+  "ch": "此事蹊跷"
+ },
+ "drama_option6106861": {
+  "en": "Chase",
+  "ch": "追上去"
+ },
+ "drama_option6108211": {
+  "en": "Explore",
+  "ch": "探索"
+ },
+ "drama_option6108261": {
+  "en": "Explore",
+  "ch": "探索"
+ },
+ "drama_option6108361": {
+  "en": "Explore",
+  "ch": "探索"
+ },
+ "drama_option700412": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option70050161": {
+  "en": "Ah...!",
+  "ch": "啊…！！"
+ },
+ "drama_option704612": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option705632": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option706212": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option710382": {
+  "en": "Escape",
+  "ch": "逃跑"
+ },
+ "drama_option7507111": {
+  "en": "Enter",
+  "ch": "进入其中"
+ },
+ "drama_option7604611": {
+  "en": "Escape",
+  "ch": "逃离"
+ },
+ "drama_option80001011": {
+  "en": "Liangqu",
+  "ch": "梁渠"
+ },
+ "drama_option80001012": {
+  "en": "Shuangshuang",
+  "ch": "双双"
+ },
+ "drama_option80003042": {
+  "en": "Disheveled",
+  "ch": "蓬头垢面"
+ },
+ "drama_option80003072": {
+  "en": "Scrawny",
+  "ch": "瘦骨嶙峋"
+ },
+ "drama_option80003074": {
+  "en": "Brawny",
+  "ch": "高大威猛"
+ },
+ "drama_option80021071": {
+  "en": "Wheedle him",
+  "ch": "哄他"
+ },
+ "drama_option80021101": {
+  "en": "Wheedle him",
+  "ch": "哄他"
+ },
+ "drama_option80060081": {
+  "en": "Zigu?",
+  "ch": "紫姑？"
+ },
+ "drama_option80061491": {
+  "en": "Lizhu",
+  "ch": "离朱"
+ },
+ "drama_option80061493": {
+  "en": "Su Mobai",
+  "ch": "苏墨白"
+ },
+ "drama_option80143041": {
+  "en": "Yun Mengyi",
+  "ch": "云梦衣"
+ },
+ "drama_option80143042": {
+  "en": "Cangya",
+  "ch": "沧崖"
+ },
+ "drama_option80143043": {
+  "en": "Jiuchen",
+  "ch": "酒尘"
+ },
+ "drama_option80143044": {
+  "en": "Dongfang Muqing",
+  "ch": "东方沐晴"
+ },
+ "drama_option80143045": {
+  "en": "Li Ningshuang",
+  "ch": "厉凝霜"
+ },
+ "drama_option80143046": {
+  "en": "Jiang Lingge",
+  "ch": "姜菱歌"
+ },
+ "drama_option80143047": {
+  "en": "Zhu Yaoyue",
+  "ch": "烛遥月"
+ },
+ "drama_option80143048": {
+  "en": "Leng Jingtang",
+  "ch": "冷惊棠"
+ },
+ "drama_option81801131": {
+  "en": "Oh...",
+  "ch": "这…"
+ },
+ "drama_option81804131": {
+  "en": "Oh...",
+  "ch": "这…"
+ },
+ "drama_option9003031": {
+  "en": "Hehe.",
+  "ch": "嘿嘿！"
+ },
+ "drama_option9402511": {
+  "en": "Handsome",
+  "ch": "外貌美丽的"
+ },
+ "effect_desc3310011": {
+  "en": "Every stack increases damage by &331003_tssh&% and restores &331003_hftl& Vitality every second for &331003_cxsj&s.",
+  "ch": "每一层可提升自身的伤害&331003_tssh&%，且每秒回复&331003_hftl&点体力，持续&331003_cxsj&秒。"
+ },
+ "effect_desc3310033": {
+  "en": "Every stack increases damage by &331002_tssh&% and restores &331002_hftl& Vitality every second for &331002_cxsj&s.",
+  "ch": "每一层可提升自身的伤害&331002_tssh&%，且每秒回复&331002_hftl&点体力，持续&331002_cxsj&秒。"
+ },
+ "effect_desc39000026": {
+  "en": "A fire that never extinguishes. Every stack deals &39000027_wl& damage; can be increased by &39000027_wltg&% every 1000 Focus.",
+  "ch": "永久燃烧，每层造成&39000027_wl&威力伤害，每1000点念力额外增加&39000027_wltg&%"
+ },
+ "effect_desc8022006": {
+  "en": "G1 Boomerang Finger\nDamage of Boomerang Finger increases by 50%; projectile size +20%",
+  "ch": "一级轮回指\n轮回指的威力提高50%，弹道大小+20%",
+  "nomes": {
+   "G1 Boomerang Finger": "Dedo Bumerangue Nível 1"
+  }
+ },
+ "effect_desc8022007": {
+  "en": "G2 Boomerang Finger\nDamage dealt by returning Boomerang Finger projectile increases by 50%; projectile size +20%",
+  "ch": "二级轮回指\n轮回指弹道返回时伤害提高50%，弹道大小+20%",
+  "nomes": {
+   "G2 Boomerang Finger": "Dedo Bumerangue Nível 2"
+  }
+ },
+ "effect_desct9901101": {
+  "en": "Once the Following Bug has dealt damage to the enemy, its damage will be increased to &9901101_shts&% for &9901101_cxsj& seconds (not stackable).",
+  "ch": "跟屁虫对敌人造成伤害后，使其受到的伤害提升&9901101_shts&%，持续&9901101_cxsj&秒（不可叠加）。",
+  "nomes": {
+   "Following Bug": "Grudento"
+  }
+ },
+ "effect_desct9901104": {
+  "en": "When you cast a Special Skill, &9901104_llsl& bouts of Lightning will crash down in succession and randomly attack enemies on the battlefield, dealing &9901104_llwl& damage. This triggers once per &9901104_lqsj& seconds at most.",
+  "ch": "使用绝技时，会连续降下&9901104_llsl&道落雷，随机对场上的敌人进行打击，造成&9901104_llwl&威力的伤害，每&9901104_lqsj&秒最多触发一次。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "effect_desct9901114": {
+  "en": "When the Following Bug deals damage, it will restore Vitality to the summoner. The amount restored is &9901114_xxbl&% of the damage dealt.",
+  "ch": "跟屁虫造成伤害后，会为召唤者恢复体力值，恢复效果为造成伤害的&9901114_xxbl&%",
+  "nomes": {
+   "Following Bug": "Grudento"
+  }
+ },
+ "effect_desct9901123": {
+  "en": "When the Player releases the Ultimate Skill, the Following Bug will spit out a circular Fiery Flame for &9901117_hysj& seconds and deal &9901117_hywl& damage every half second. The target will also suffer a &9901117_shts&% increase to their damage received for &9901117_tssj& seconds. Fiery Flame can be used once per &9901117_hylq& seconds at most.",
+  "ch": "跟屁虫在玩家释放神通时，会喷出一道扇形烈焰，持续&9901117_hysj&秒内每半秒造成威力&9901117_hywl&的伤害，并使其有&9901117_tssj&秒内受到伤害提高&9901117_shts&%，每&9901117_hylq&秒最多喷出一次烈焰。",
+  "nomes": {
+   "Following Bug": "Grudento"
+  }
+ },
+ "effect_desct9901131": {
+  "en": "In the combined state of Azure Dragon Form, all Skill CDs other than Ultimate Skill are reset (Recharging Points are also restored). While this continues, &9901135_cnsl& points are recharged every &9901135_cnjg& seconds, while the Special Skill Energy Cost is lowered by &9901135_llxh&%. The combination lasts for &9901135_htsj& seconds. Charging the first time requires &9901135_xlsj& seconds, and charging again requires &9901135_zcxl& seconds.",
+  "ch": "合体为青龙形态，在合体状态时，重置除神通以外的所有技能CD（并回复所有充能点数），持续时间内每&9901135_cnjg&秒回复&9901135_cnsl&点充能，并降低绝技灵力消耗&9901135_llxh&%。合体持续&9901135_htsj&秒，首次蓄力需要&9901135_xlsj&秒，再次蓄力需要&9901135_zcxl&秒。",
+  "nomes": {
+   "Recharging": "Recarregando",
+   "Azure Dragon Form": "Forma do Dragão Azul"
+  }
+ },
+ "effect_desct9901132": {
+  "en": "In the combined state of Crimson Dragon Form, a Dragon Orb is generated on spot every time you use dash or a mobility Skill and deal damage. The Dragon Orb deals &9901136_lzwl& damage to enemies and pulls them in. Affected enemies suffer a &9901136_cxsj& second damage increase of &9901136_shts&%, at a maximum of &9901136_shts|x9901135_djcs|f0&%. The combination lasts for &9901136_htsj& seconds. Charging the first time requires &9901136_xlsj& seconds, and charging again requires &9901136_zcxl& seconds.",
+  "ch": "合体为赤龙形态，在合体状态时，每次使用突进或位移技能并造成伤害时，会在原地生成一枚龙珠，龙珠可对敌人造成威力为&9901136_lzwl&的伤害和牵引，并且使其在&9901136_cxsj&秒内受到伤害提升&9901136_shts&%，最高提高&9901136_shts|x9901135_djcs|f0&%。合体持续&9901136_htsj&秒，首次蓄力需要&9901136_xlsj&秒，再次蓄力需要&9901136_zcxl&秒。",
+  "nomes": {
+   "Crimson Dragon Form": "Forma do Dragão Escarlate"
+  }
+ },
+ "effect_desct99011379": {
+  "en": "Each stack provides &9901137_jsbl&% Damage Reduction, up to &9901137_jscs& stacks.",
+  "ch": "每层提供&9901137_jsbl&%的伤害减免，最大&9901137_jscs&层。"
+ }
+}

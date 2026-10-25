@@ -1,0 +1,756 @@
+{
+ "SpecificSkillAttackDesc51111": {
+  "en": "Shoot &51111_hfsl& flames forward, each flame dealing &51111_hfwl|x5|f2& $s_huo$ damage per sec to enemies and detonating all stacks of $s_zhuoshao$ on each target. For every stack of $s_zhuoshao$ detonated, a Groundfire will appear underneath the target, dealing &51111_ybsh|x51111_dmg|/100|f0& $s_huo$ damage to enemies within &51111_ybfw& range.",
+  "ch": "朝前方喷射&51111_hfsl&道火焰，每道火焰都会对敌人造成威力&51111_hfwl|x5|f2&/秒的$s_huo$伤害，并引爆目标身上的所有$s_zhuoshao$，每引爆一层$s_zhuoshao$可在目标的脚下引发一道地火，对范围&51111_ybfw&内的敌人造成威力&51111_ybsh|x51111_dmg|/100|f0&的$s_huo$伤害。"
+ },
+ "battleAbility_suitName10000": {
+  "en": "Barren Knack",
+  "ch": "大荒诀"
+ },
+ "battle_dungeon_name4704": {
+  "en": "Stormvale",
+  "ch": "暴风山谷"
+ },
+ "battle_dungeon_name4710": {
+  "en": "Stormvale",
+  "ch": "暴风山谷"
+ },
+ "battle_dungeon_name4716": {
+  "en": "Stormvale",
+  "ch": "暴风山谷"
+ },
+ "fortuitous_event_name10833": {
+  "en": "Fortune Teller",
+  "ch": "八荒神算"
+ },
+ "handlekey_uibattleimmortal_wanfashuoming1": {
+  "en": "1. You will be protected by the shield, if <r> loses the shield </r> will be exposed to the powers of the apocalypse, <r> extremely dangerous! </r>\n2. When the Fa array is present, more restorative pills can be used, and the mental consumption of using pills is reduced, and the interval <r> is greatly shortened </r>, but <r> cannot use </r> to improve the offensive and defensive pills. After passing the first stage, part of the Mana array's power will be fused, temporarily using Fairy Power skills, at which point the Mana array's effects will be removed. 3. You can communicate heaven and earth with the help of the Dharma matrix. Long press the ZL key to complete the power storage, release the key to use. When the Marauding beast is killed by you, the Phalanx will store the power of the law that is flowing. 4. You need to stimulate the fairy power in your body to fight against the apocalypse, at this time <r> will not be able to move, using stunts, body, avatar and domain skills </r>. 5. With the passage of time will be more and more violent, the power of the lightning can be huge loss of shield protection may lead to <r> instant death </r>, <r> time </r> to ensure that your <r> physical strength is full </r> and persist for a period of time.",
+  "ch": "1. 你将受到法阵护盾的保护，一旦<r>失去护盾</r>将暴露在天劫的威能之中，<r>极其危险！</r>\n2.  当法阵存在时，可以使用更多的回复丹药，且使用丹药的念力消耗降低，间隔<r>大幅缩短</r>，但<r>不可使用</r>提升攻防的丹药。\n    渡过第一阶段后将融合部分法阵的力量，暂时使用仙力技能，此时法阵的效果将会解除。\n3. 可以借助法阵沟通天地<r>使用法则之力</r>。长按ZL键完成蓄力后，松开按键即可使用。\n    劫兽被你击杀时，法阵将储存飘逸出的法则之力。\n4. 你需要激发体内的仙力来对抗天劫，此时将<r>无法移动，使用绝技、身法、神通及领域技能</r>。\n5. 天劫随着时间推移将越来越猛烈，劫雷的威能巨大失去护盾的保护时可能导致<r>瞬间死亡</r>，<r>时刻</r>保证你的<r>体力全满</r>并坚持一段时间。"
+ },
+ "item_output_desc1011622": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>"
+ },
+ "item_output_desc1011632": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>"
+ },
+ "item_output_desc1011633": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>"
+ },
+ "item_output_desc1011634": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>"
+ },
+ "item_output_desc1011636": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>"
+ },
+ "item_output_desc5031736": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName2}</g>) for a chance to obtain <g>Water Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName2}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>水灵气碎片</g>。</root0><root1>在<g>{#areaName2}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵气。</root1>",
+  "nomes": {
+   "Water Qi": "Qi de Água"
+  }
+ },
+ "item_output_desc5031746": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName2}</g>) for a chance to obtain <g>Lightning Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName2}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>雷灵气碎片</g>。</root0><root1>在<g>{#areaName2}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵气。</root1>",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Qi": "Qi de Relâmpago"
+  }
+ },
+ "item_output_desc5031756": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName2}</g>) for a chance to obtain <g>Wind Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName2}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>风灵气碎片</g>。</root0><root1>在<g>{#areaName2}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵气。</root1>",
+  "nomes": {
+   "Wind Qi": "Qi de Vento"
+  }
+ },
+ "item_output_desc5031766": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName2}</g>) for a chance to obtain <g>Earth Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName2}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>土灵气碎片</g>。</root0><root1>在<g>{#areaName2}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵气。</root1>",
+  "nomes": {
+   "Earth Qi": "Qi de Terra"
+  }
+ },
+ "item_output_desc5031776": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName2}</g>) for a chance to obtain <g>Wood Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName2}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>木灵气碎片</g>。</root0><root1>在<g>{#areaName2}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵气。</root1>",
+  "nomes": {
+   "Wood Qi": "Qi de Madeira"
+  }
+ },
+ "item_output_desc5031786": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName4}</g>) for a chance to obtain <g>Fire Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName4}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>火灵珠碎片</g>。</root0><root1>在<g>{#areaName4}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵珠。</root1>",
+  "nomes": {
+   "Fire Qi": "Qi de Fogo",
+   "Fire Qi Orb": "Orbe de Qi do Fogo"
+  }
+ },
+ "item_output_desc5031796": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName4}</g>) for a chance to obtain <g>Water Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName4}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>水灵珠碎片</g>。</root0><root1>在<g>{#areaName4}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵珠。</root1>",
+  "nomes": {
+   "Water Qi": "Qi de Água",
+   "Water Qi Orb": "Orbe de Qi da Água"
+  }
+ },
+ "item_output_desc5031806": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName4}</g>) for a chance to obtain <g>Lightning Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName4}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>雷灵珠碎片</g>。</root0><root1>在<g>{#areaName4}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵珠。</root1>",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Qi": "Qi de Relâmpago",
+   "Lightning Qi Orb": "Orbe de Qi do Relâmpago"
+  }
+ },
+ "item_output_desc5031816": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName4}</g>) for a chance to obtain <g>Wind Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName4}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>风灵珠碎片</g>。</root0><root1>在<g>{#areaName4}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵珠。</root1>",
+  "nomes": {
+   "Wind Qi": "Qi de Vento",
+   "Wind Qi Orb": "Orbe de Qi do Vento"
+  }
+ },
+ "item_output_desc5031826": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName4}</g>) for a chance to obtain <g>Earth Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName4}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>土灵珠碎片</g>。</root0><root1>在<g>{#areaName4}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵珠。</root1>",
+  "nomes": {
+   "Earth Qi": "Qi de Terra",
+   "Earth Qi Orb": "Orbe de Qi da Terra"
+  }
+ },
+ "item_output_desc5031836": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName4}</g>) for a chance to obtain <g>Wood Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName4}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>木灵珠碎片</g>。</root0><root1>在<g>{#areaName4}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵珠。</root1>",
+  "nomes": {
+   "Wood Qi": "Qi de Madeira",
+   "Wood Qi Orb": "Orbe de Qi da Madeira"
+  }
+ },
+ "item_output_desc5031856": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) for a chance to obtain <g>Condensed Water Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName8}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>水灵斗气碎片</g>。</root0><root1>在<g>{#areaName8}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗气。</root1>",
+  "nomes": {
+   "Water Qi": "Qi de Água",
+   "Condensed Water Qi": "Qi Condensado da Água"
+  }
+ },
+ "item_output_desc5031896": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) for a chance to obtain <g>Condensed Wood Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName8}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>木灵斗气碎片</g>。</root0><root1>在<g>{#areaName8}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗气。</root1>",
+  "nomes": {
+   "Wood Qi": "Qi de Madeira",
+   "Condensed Wood Qi": "Qi Condensado da Madeira"
+  }
+ },
+ "item_output_desc5031936": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) for a chance to obtain <g>Condensed Wind Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName10}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName10}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>风灵斗珠碎片</g>。</root0><root1>在<g>{#areaName10}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗珠。</root1>",
+  "nomes": {
+   "Wind Qi": "Qi de Vento",
+   "Wind Qi Orb": "Orbe de Qi do Vento",
+   "Condensed Wind Qi": "Qi Condensado do Vento",
+   "Condensed Wind Qi Orb": "Orbe de Qi do Vento Condensada"
+  }
+ },
+ "item_output_desc5031946": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) for a chance to obtain <g>Condensed Earth Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName10}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName10}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>土灵斗珠碎片</g>。</root0><root1>在<g>{#areaName10}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗珠。</root1>",
+  "nomes": {
+   "Earth Qi": "Qi de Terra",
+   "Earth Qi Orb": "Orbe de Qi da Terra",
+   "Condensed Earth Qi": "Qi Condensado da Terra",
+   "Condensed Earth Qi Orb": "Orbe de Qi da Terra Condensada"
+  }
+ },
+ "item_output_desc5031956": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) for a chance to obtain <g>Condensed Wood Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName10}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName10}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>木灵斗珠碎片</g>。</root0><root1>在<g>{#areaName10}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗珠。</root1>",
+  "nomes": {
+   "Wood Qi": "Qi de Madeira",
+   "Wood Qi Orb": "Orbe de Qi da Madeira",
+   "Condensed Wood Qi": "Qi Condensado da Madeira",
+   "Condensed Wood Qi Orb": "Orbe de Qi da Madeira Condensada"
+  }
+ },
+ "item_output_desc5031966": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name7}</r> (<g>{#areaName6}</g>) for a chance to obtain <g>Heaven Aura Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName6}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name7}</r>. Kill them to obtain complete Heaven Auras.</root1>",
+  "ch": "<root0>在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>中击杀怪物有概率掉落<g>天道之气碎片</g>。</root0><root1>在<g>{#areaName6}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name7}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的天道之气。</root1>",
+  "nomes": {
+   "Heaven Aura": "Aura do Céu"
+  }
+ },
+ "item_output_desc5031976": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name7}</r> (<g>{#areaName6}</g>) for a chance to obtain <g>Earth Aura Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName6}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name7}</r>. Kill them to obtain complete Earth Auras.</root1>",
+  "ch": "<root0>在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>中击杀怪物有概率掉落<g>地道之气碎片</g>。</root0><root1>在<g>{#areaName6}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵珠。</root1><root1><r>{#building1001Name7}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的地道之气。</root1>",
+  "nomes": {
+   "Earth Aura": "Aura da Terra"
+  }
+ },
+ "liaojicitiaoname100604": {
+  "en": "Sky Net",
+  "ch": "天罗归流"
+ },
+ "logContent4": {
+  "en": "Sect features\n Sect duels and tryouts: compete with other disciples to join a sect or get a promotion.\n Sect Tournament: compete with elite disciples from other sects.\n Resource Points: attack, occupy, and defend them for bonus sect resources and accelerated sect store refreshes.\n Sect battle: attack other sects, and raid or destroy them.\n Sect relocation: move your sect to the next area.\nSect buildings\n Mission Hall: sect missions of various types added.\n Council Hall: optimized display and information on sect resources and logs.\n Treasure Pavilion: type of items expanded.\n Manual Library: allowed sect leaders to change the sect's main Martial Arts.\n Spirit Pavilion: originally known as Cultivation Chamber, providing exclusive Rewrite Destinies if made breakthrough in it.\n Behemoth Peaks: allowed interaction with the sect's divine beast and conversion of Spiritual Fruits.\nAdventures and Plots\n Truth Seeker, Sage Tianxuan's Confusion, Journey of You Yuanzhi, Mysterious Go Players, Jo's Treasure, Feather of Golden Crow, Magpie Zhehong.\nNew Feature: Heaven-chosen\n Heaven-chosen NPCs are granted with higher stats and skills.\n Heaven-chosen NPCs act with optimized AI behaviors.\n Heaven-chosen NPCs have Taoist Minds. Gaining Rewrite Destinies upon breakthrough requires a Taoist Mind.\nRewrite Destinies\n The World Together, Blade of Heaven's Eye, No Traces Left in Snow, Cloud-piercing Lightning, Borderless, Raging Flames, Tiger's Spirit and Dragon's Soul, Concealed Nirvana, Earth Shattering, Murderous Rise, Alchemic Taoist Perfection, Always Someone Better, Cold Divine Light, Wild Desert Blade, Regained Strength and Scattered Elements, Transmuted Strength, Golden Needle Point, Virtue and Acceptance, Medicine for Everyone, Fiery Bristle, King of Foxhill, Floating Illusion, Shadowchase Pill, Lightning Rumble, Quick Wit, Supernova Sword, King of Dark River.\nSpecial Sect\n Dragon Mountain Hamlet.\nSecret Order\n Taoist Mind Pavilion, Mindsnap Temple.",
+  "ch": "宗门玩法\n\t宗门小比：在小比中胜出可加入宗门或晋升职位。\n\t宗门大比：区域内的各大宗门共同参与，派出最精锐的弟子参赛，决出胜负。\n\t争夺资源点：为宗门获取更多资源，提高宗门内产出道具的速度。\n\t宗门大战：向其他宗门发起进攻，取胜后可掠夺其资源或是覆灭其宗门。\n\t宗门搬迁：可将宗门向下一个区域进行搬迁。\n宗门建筑\n\t任务大厅：新增了多种类型的宗门任务。\n\t议事大厅：优化了宗门各项资源的显示与说明，以及宗门日志内容。\n\t聚宝仙楼：增加了聚宝仙楼可产出的道具类型。\n\t藏经阁：新增了宗主可以藏经阁中修改本宗主修功法的功能。\n\t灵阁：原来的聚灵阵，在灵阁中突破，会出现宗门特有的逆天改命可选。\n\t神兽峰：可与神兽互动，神兽可以转化灵果的属性。\n奇遇及剧情\n\t君愿知、天玄论道、远志游人、生死棋局、李四秘藏、金乌玉羽、夕鹊折红。\n天骄功能\n\t天骄NPC拥有更强的属性与技能。\n\t天骄NPC有更智能的AI。\n\t天骄NPC拥有道心，拥有道心后突破即可获得逆天改命。\n逆天改命\n\t天地同寿、天瞳之刃、踏雪无痕、穿云电闪、载物无疆、烈火燎原、虎魄龙魂、凝元寂灭、排山倒海、杀心骤起、炉火纯青、天外有天、摄神寒光、大漠狂刀、归劲分元、透体化劲、金针刺穴、厚德载物、悬壶济世、炎火刚鬣、青丘之主、浮生泡影、追影奇丸、天雷滚滚、风起灵动、七星剑瀑、冥河之主。\n特殊宗门\n\t御龙山庄。\n神秘组织\n\t道心阁、蚀心殿。",
+  "nomes": {
+   "Sage Tianxuan": "Sábio Tianxuan",
+   "Lightning": "Relâmpago",
+   "Murderous": "Intent Assassinato",
+   "Always Someone Better": "Sempre Alguém Melhor",
+   "Golden Needle Point": "Ponto da Agulha Dourada",
+   "Virtue and Acceptance": "Virtude e Aceitação",
+   "Medicine for Everyone": "Medicina para Todos",
+   "Shadowchase Pill": "Pílula Perseguidora de Sombras",
+   "Concealed Nirvana": "Nirvana Oculto",
+   "Feather of Golden Crow": "Pena do Corvo Dourado"
+  }
+ },
+ "log_lundao": {
+  "en": "Debates",
+  "ch": "论道次数"
+ },
+ "makePillName30": {
+  "en": "Spark",
+  "ch": "升元"
+ },
+ "makePillName33": {
+  "en": "Gilded",
+  "ch": "锈金"
+ },
+ "makePillName51": {
+  "en": "Kismet",
+  "ch": "天计"
+ },
+ "makePillName65": {
+  "en": "Burnout",
+  "ch": "真力"
+ },
+ "makePillName7": {
+  "en": "Bolster",
+  "ch": "增益"
+ },
+ "matchFight_benlunduizhen": {
+  "en": "Fixtures",
+  "ch": "本轮对阵表"
+ },
+ "modEnum10001EnumName2": {
+  "en": "2-Destiny (Nurture)",
+  "ch": "2-后天气运"
+ },
+ "modEnum10002EnumName4": {
+  "en": "4 <p>Epic</p>",
+  "ch": "4 <p>紫</p>"
+ },
+ "modEnum10008EnumName6": {
+  "en": "6-Item",
+  "ch": "6-道具"
+ },
+ "modEnum10011EnumName2": {
+  "en": "Sutra",
+  "ch": "经"
+ },
+ "modEnum10014EnumName5": {
+  "en": "5-Adoptive Parent",
+  "ch": "5-义父母"
+ },
+ "modEnum10019EnumName6": {
+  "en": "6-Spar",
+  "ch": "6-切磋"
+ },
+ "modEnum10020EnumName1": {
+  "en": "1-Elixir",
+  "ch": "1-丹药"
+ },
+ "modEnum10038EnumName1": {
+  "en": "1- Qi",
+  "ch": "1-灵气"
+ },
+ "modEnum10038EnumName2": {
+  "en": "2- Feng Shui",
+  "ch": "2-风水"
+ },
+ "modEnum10046EnumName1": {
+  "en": "1- Parent",
+  "ch": "1-父母"
+ },
+ "modEnum10046EnumName5": {
+  "en": "5- Adoptive Parent",
+  "ch": "5-义父母"
+ },
+ "modEnum10083EnumName2": {
+  "en": "2-<b>Normal</b>",
+  "ch": "2-<b>普通</b>"
+ },
+ "modEnum10095EnumName1": {
+  "en": "1-Elixir",
+  "ch": "1-丹药"
+ },
+ "modEnum10131EnumName107": {
+  "en": "107-Elixir XX",
+  "ch": "107-灵丹XX"
+ },
+ "modEnum10136EnumName5": {
+  "en": "Adoptive Parent",
+  "ch": "义分母"
+ },
+ "modEnum1013EnumName1": {
+  "en": "1- Normal",
+  "ch": "1-普通"
+ },
+ "modEnum1017EnumName1": {
+  "en": "1- Qi",
+  "ch": "1-灵气"
+ },
+ "modEnum1017EnumName2": {
+  "en": "2- Feng Shui",
+  "ch": "2-风水"
+ },
+ "modEnum1021EnumName1": {
+  "en": "1- Bai Yuan",
+  "ch": "1-白源区"
+ },
+ "modEnum1021EnumName10": {
+  "en": "10- Chi You",
+  "ch": "10-赤幽州"
+ },
+ "modEnum1021EnumName2": {
+  "en": "2- Yong Ning",
+  "ch": "2-永宁州"
+ },
+ "modEnum1021EnumName3": {
+  "en": "3- Lei Ze",
+  "ch": "3-雷泽"
+ },
+ "modEnum1021EnumName4": {
+  "en": "4- Hua Feng",
+  "ch": "4-华封州"
+ },
+ "modEnum1021EnumName6": {
+  "en": "6- Yun Mo",
+  "ch": "6-云陌州"
+ },
+ "modEnum1021EnumName8": {
+  "en": "8- Mu Xian",
+  "ch": "8-暮仙州"
+ },
+ "mod_bendi15": {
+  "en": "No local mod",
+  "ch": "本地暂无模组"
+ },
+ "mod_biaoqian4": {
+  "en": "Fortuitous",
+  "ch": "Fortuitous"
+ },
+ "mod_biaoqian5": {
+  "en": "Drama",
+  "ch": "Drama"
+ },
+ "mod_biaoqianid2": {
+  "en": "Drama",
+  "ch": "Drama"
+ },
+ "mod_guaiwu25": {
+  "en": "(Elite)",
+  "ch": "（精英）"
+ },
+ "mod_guaiwu26": {
+  "en": "(Normal)",
+  "ch": "（普通）"
+ },
+ "mod_huodongneirong": {
+  "en": "<align=center><size=30>TOI Mod Contest S1</size></align>\n\n\n\nSteam Workshop for Tale of Immortal is now available! To reward the efforts of the mod creators and enrich the game content, we decided to hold a mod creation contest with multiple sections offering high rewards, welcome all the creators to join and show your excellent talents！\n\n1. Registration channel：\n　·Upload your original mod to TOI Workshop and mark it with the contest category, before July 3rd 24:00 CST.\n　·Package your mod into zip format and send it to [ info@lightning.games ] with a title: [TOI Mod Contest S1] Contest Category + Mod Name + The nickname of the Steam account you use to upload your mod. \n　·Please keep your email open so that we can contact you in time.\n\n2. Entry qualification：\n　·The mod should be in the official mod editor framework, which can be automatically downloaded and updated after being subscribed.\n　·Only mods that meet TOI community regulations can be registered and win awards.\n　·The mod can run normally in the game.\n　·The mod has a picture and text introduction to briefly show its functions and characteristics.\n　·The identity of the uploader will be verified by the moderator, and anyone found to have signed up for the contest using another creator's mod will be disqualified.\n\n3. Creator Award：\n　3.1 The criteria for Creator Award\n　　·The number of subscriptions will be the main criteria to score.\n　　·We will evaluate whether the mods belong to the registered categories. The mods that do not meet the requirements of the registered categories will be assigned to the correct categories.Canvassing in violation of community rules is prohibited and will be disqualified.The identity of the uploader will be verified by the moderator, and anyone found to have signed up for the contest using another creator's mod will be disqualified.If any mod in the award ranking is involved in the above situation, the results and reasons for handling will be publicized.\n　　·We will sum up the subscription count for all participating mods at 12:00 on July 17th CST, make the above decision, and announce the final list on July 29th CST.\n　　·Each mod can only be uploaded to one category and awarded once, and will be ranked and awarded in the category registered in the mail.\n\n　3.2 Categories and Prizes for Creator Award\n　　·Large Integrated\n　　·Mods that are registered for this category should include a series of quests that run through 4 or more echelons.\n　　·At the same time, they should also meet the requirements of one or more of the three categories: [Battle], [Beautify] and [Function].\n　　　*i.e. The category [Item, Destiny, Character, Short Story] is not in the additional category list.\n　　·Besides, all content in Mods that have been registered for this category can not be extracted, packed and registered for the other categories at the same time.\n　　　i.First Prize (Rank 1)：RMB18888\n　　　ii.Second Prize (Rank 2)：RMB8888\n　　　iii.Third Prize (Rank 3)：RMB3888\n　　·Beautify (Map Beautify, Character Beautify, etc)\n　　　i.First Prize (Rank 1)：RMB3888\n　　　ii.Second Prize (Rank 2)：RMB1888\n　　　iii.Third Prize (Rank 3)：RMB888\n　　·Battle (Skill, BOSS, Instance Zone, etc.The mods only work on destiny or rewrite destiny should be registered for [Item, Destiny, Character, Short Story])\n　　　i.First Prize (Rank 1)：RMB3888\n　　　ii.Second Prize (Rank 2)：RMB1888\n　　　iii.Third Prize (Rank 3)：RMB888\n　　·Function (New Functional Locations, UI Optimizations, Experience Optimizations, etc.)\n　　　i.First Prize (Rank 1)：RMB1888\n　　　ii.Second Prize (Rank 2)：RMB888\n　　　iii.Third Prize (Rank 3)：RMB588\n　　　iv.Honorable Prize (Rank 4-5)：RMB388\n　　·Item, Destiny, Character, Short story (Destiny, Rewrite Destiny, Mount, Item, NPC, Adventure or short story quest, etc.)\n　　　i.First Prize (Rank 1)：RMB888\n　　　ii.Second Prize (Rank 2)：RMB588\n　　　iii.Third Prize (Rank 3)：RMB388\n　　　iv.Honorable Prize (Rank 4-5)：RMB188\n\n　3.3. Studio Award：\n　　·The participating mods with more than 1000 subscriptions during the contest, will enter the official evaluation list, from which studio members will select 10 favourite mods. \n　　·Each creator of the select mods will be rewarded with RMB888 and TOI official peripheral gift packages including pillows, headphones and medals.\n　　　*The creators having received the Creator award can gain the Studio Award at the same time, as an extra.\n\n4. Time Schedule：\n　　·Submission time: before July 3rd 24:00 CST\n　　·Creator Award data calculation time: before July 17th 12:00 CST\n　　·Award announcement date: July 29th CST\n5. Prize delivery：\n　　·For creators living in Chinese mainland: \n　　·Will be delivered within 30 working days after receiving and confirming the payment information or receiving address of the awarded mod creator.\n　　　*Please note: If the creator does not have the appropriate bank card to accept the transfer, we will offer an Amazon card of the same amount, calculated at the exchange rate on July 29th CST.\n\n6. Contact us：\n　　·If you have any questions about the contest, please join our Discord server through the link below and post your questions on the LOOKING-FOR-HELP channel.\n　　·https://discord.gg/6KKh3v7V5e\n\nThe final interpretation of this contest belongs to the Tale of Immortal studio\n",
+  "ch": "<align=center><size=30>鬼谷八荒MOD创作先锋赛</size></align>\n\n《鬼谷八荒》Steam创意工坊正式开启！ 为了回馈MOD创作者的努力，也为了丰富各位的游玩体验，鬼谷八荒将启动MOD创作先锋赛，将有多个赛区的高额奖金等你来赢！将自制MOD相关视频投稿到本次活动独家合作平台B站，并附上 #鬼谷八荒MOD先锋赛# 话题，还将有机会获得B站官方推荐、专项扶持奖金等多维激励。欢迎各位MOD创作者前来参与！\n\n1. 参与方式：\n　·截至7月3日24:00，上传自制MOD至Steam创意工坊，并标记上该MOD准备参赛的分区类型。\n　·同时邮件发送MOD文件至info@lightning.games，同时编辑标题为【鬼谷八荒MOD大赛第一期】+参赛分区+作品名称+参赛账号的Steam昵称；如果在发送邮件的过程中遇到问题，可以添加QQ：3328746784进行咨询。 \n　·烦请各位投稿作者保持邮件通讯畅通，以便建立及时有效的交流。\n\n2. 参赛资格：\n　·将模组移植入官方MOD编辑器框架中，并正确验证订阅后自动下载与更新的MOD方可参加。\n　·遵守模组编辑器的用户协议，MOD包中不包含违规内容方可参加。\n　·制作者需保证模组可以在游戏中正常运行方可参加。\n　·MOD创作者提前备好图片，同时在创意工坊中对MOD进行简单介绍，以便大家了解MOD。\n　·审核员会对MOD上传者的身份进行核实，如发现假用他人模组作为原创作品来参与比赛者将被直接取消比赛资格。\n\n3. 活动奖项：\n　·优秀MOD奖，由订阅数在分区中的排名决定奖项。每1个MOD只能参与1个参赛分区的评选。该分区为您在报名邮件中填写的参赛分区。\n　·工作室钟爱奖，将由工作室游玩评测选出。\n　·B站新星奖，由B站通过投稿的综合数据评选得出。\n　·MOD可在以上3种奖项中同时获奖。\n　3.1 优秀MOD奖评奖标准：\n　　·将按照参赛分区的订阅数作为主要指标。\n　　·我们将测评该MOD是否属于该参赛分区；是否存在违规拉票行为。分区错误或不符合赛道要求的MOD，将被归入正确分区并按照该分区数据排位；违规拉票者将被取消参赛资格；如发现假用他人模组作为原创作品来参与比赛者将被直接取消比赛资格。如有获奖排名内的MOD涉及以上情况，将对结果和处理原因进行公示。\n　　·7月17日12时，我们将合计所有参赛MOD的订阅数，同时进行上述裁定，并于7月29日公示最后的名单。\n　　·每个MOD只能选择一种分区进行上传评奖。\n　　3.1.1 优秀MOD评奖分区及奖池\n　　　·大型综合MOD\n　　　·参与本条赛道的MOD需要包含贯穿4个或以上境界的连续剧情任务，并同时包含【战斗】、【美化】、【功能】3条赛道中的1条或以上赛道内容。【道具\\\\气运\\\\人物\\\\短剧情】赛道作为剧情任务的一部分，不包括在可选的附加赛道内。同时，参与了本赛道的MOD的拆分内容不能再参与其他赛道的评比。\n　　　　i.一等奖（榜首）：18888元\n　　　　ii.二等奖（榜二）：8888元\n　　　　iii.三等奖（榜三）：3888元\n　　　·美化（地图美化，人物美化等内容）\n　　　　i.一等奖（榜首）：3888元\n　　　　ii.二等奖（榜二）：1888元\n　　　　iii.三等奖（榜三）：888元\n　　　·战斗（流派，技能，BOSS，副本等，只做逆天改命和气运请投道具气运人物赛道）\n　　　　i.一等奖（榜首）：3888元\n　　　　ii.二等奖（榜二）：1888元\n　　　　iii.三等奖（榜三）：888元\n　　　·功能（新的功能性地点、UI优化、体验优化等内容）\n　　　　i.一等奖（榜首）：1888元\n　　　　ii.二等奖（榜二）：888元\n　　　　iii.三等奖（榜三）：588元\n　　　　iv. 优秀奖（榜四、五）：388元\n　　　·道具\\\\气运\\\\人物\\\\短剧情（气运，逆天改命，坐骑，物品，NPC以及奇遇或流程较短的剧情任务等内容）\n　　　　i.一等奖（榜首）：888元\n　　　　ii.二等奖（榜二）：588元\n　　　　iii.三等奖（榜三）：388元\n　　　　iv.优秀奖（榜四、五）：188元\n　　3.1.2 工作室钟爱奖\n　　　·投稿到大赛中，并且在比赛期间订阅量超过1000后，将进入官方评测名单，工作室将从中挑选出10个工作室喜爱的MOD并分别给予其作者每人888元奖励和《鬼谷八荒》官方周边大礼包（礼包内容：抱枕，耳机，勋章）。\n　　3.1.3 B站新星-活动时间独立计算\n　　　·投稿时间：6月30日之前（含6月30日）\n　　　·数据计算时间：即日起至6月30日\n　　　·参加条件：\n　　　　·MOD作者：本人将自制MOD介绍视频投稿到B站，投稿过程中勾选“鬼谷八荒MOD先锋赛”话题。\n　　　　·玩家：投稿MOD相关视频，投稿过程中勾选“鬼谷八荒MOD先锋赛”话题。 \n　　　·B站官方将会为本次活动中的部分投稿视频提供专题页曝光，综合数据好的优秀MOD和投稿可以获得B站官方推荐和专项扶持奖金。（非MOD作者本人投稿也有资格获得本项奖励）\n　　　·活动结束后，将由B站官方挑选出5个综合数据和玩家反馈都好的优质MOD，由发行商向作者颁发1000元奖金，并有可能获得十万以上粉丝UP主的试玩推荐。\n\n4. 活动时间：\n　·投稿时间：7月3日24:00之前（含7月3日）\n　·优秀MOD奖数据计算时间： 7月17日12:00截止\n　·奖励公布时间：7月29日\n\n5. 奖励发放：\n　·收到并确认获奖MOD作者本人的收款信息或收获地址后的30个工作日内给获奖作者，非大陆作者如果无法成功接收转账，奖金将由等额的亚马逊消费券替代。\n\n本活动的最终解释权归鬼谷工作室所有\n"
+ },
+ "mod_mozuid": {
+  "en": "Mod {0}",
+  "ch": "模组{0}"
+ },
+ "mod_zhiweirenshu": {
+  "en": "Note: There's a limit on each Sect Position. Part of the NPCs' positions will become invalid if there are too many players in the same position.\n\nSect Leader: 1\nGrand Elder: 2\nElder: 5\nTrue Disciple: 10\nNo limits on the number of Disciples and Initiates.",
+  "ch": "注意：宗门职位是有人数上限的，同一个职位设置过多人数，则会导致部分NPC职位设置失败。\n\n宗主：最多1人。\n大长老：最多2人。\n长老：最多5人。\n真传：最多10人。\n内门、外门无人数限制。"
+ },
+ "mod_zuoqi4": {
+  "en": "Backstory",
+  "ch": "背景故事"
+ },
+ "modchuangjiannpc14": {
+  "en": "Destiny (Nurture)",
+  "ch": "后天气运"
+ },
+ "muOu": {
+  "en": "Yin'er",
+  "ch": "银耳"
+ },
+ "npc_name2007": {
+  "en": "Clerk",
+  "ch": "管理员"
+ },
+ "npc_name2008": {
+  "en": "Clerk",
+  "ch": "管理员"
+ },
+ "passiveMethod_desc10007": {
+  "en": "If the amount of the equipped Heavenly Arts reaches 6, the circulation time of the Heavenly Power will decrease by &810008_yzsj&%.",
+  "ch": "若装备的所有仙法达到6个，仙力运转时间降低&810008_yzsj&%。"
+ },
+ "passiveMethod_desc3006": {
+  "en": "Provide the Fungus Film with healing effects, recovering &710003_jmzlbl%1+1&% Vitality for allied units every &710003_jmzljg&s.",
+  "ch": "使用菌膜具有疗愈效果，每&710003_jmzljg&恢复友方单位&710003_jmzlbl%1+1&%的体力。"
+ },
+ "passiveMethod_desc6004": {
+  "en": "The Martial Skill under Transformation will gain a &710006_xzxxbl&% Leech effect, and every &710006_xzxqsj&s of continuous casting will decrease your damage taken by &710006_xzjsbl&% for &710006_xzjssj&s. Max stacking layers: &710006_xzjscs&.",
+  "ch": "变身时武技会获得&710006_xzxxbl&%的吸血效果，且每持续施放&710006_xzxqsj&秒，自身受到的伤害&710006_xzjsbl&%，持续&710006_xzjssj&秒，最大叠加&710006_xzjscs&层。"
+ },
+ "passiveMethod_desc6005": {
+  "en": "The huge spear cast by the Ultimate Skill under Transformation will leave an array of spears with &710006_jmqzfw& Area of Effect for &710006_jmjzsj&s. Allied units within the array will gain a decrease on the cooldown of Special Skills by &710006_jmjjlqbl&%.",
+  "ch": "变身时神通的巨大光枪会留下一个范围&710006_jmqzfw&的枪阵，持续&710006_jmjzsj&秒。在枪阵中的友军绝技冷却时间&710006_jmjjlqbl&%。"
+ },
+ "passiveMethod_desc7003": {
+  "en": "The smashes of the hammer no longer generate an array. Instead, a black hole will be generated, drawing near all enemies within the range of the smashing. After the drawing ends, the black hole will explode, dealing &710007_dmjcwl& damage. Every enemy affected by the black hole will increase its damage by &710007_dmtsbl&%.",
+  "ch": "锤击不再生成法阵，转而生成一个黑洞，吸引锤击范围的内的所有敌方单位，吸引结束后黑洞爆炸造成威力&710007_dmjcwl&的伤害，黑洞每吸引一个敌人造成的伤害提升&710007_dmtsbl&%。"
+ },
+ "passiveMethod_desc7004": {
+  "en": "Canglong no longer assists in attacking. Instead, an array of Taoist Symbols will be generated with an Area of Effect of &710007_zyfzfw& for &710007_zyfzsj&s. Units entered into the array will inflict &710007_zyshwl& damage every &710007_zyshjg&s, and their Agility will &710007_zyjsbl&%. The array will also Seal the Motion Skills of the units in it.",
+  "ch": "沧泷不再协同进行攻击，而是加持一个道纹法阵，法阵范围&710007_zyfzfw&，持续&710007_zyfzsj&秒。进入法阵内的单位每&710007_zyshjg&秒会受到威力&710007_zyshwl&的伤害，同时移动速度&710007_zyjsbl&%并封禁身法。"
+ },
+ "passiveMethod_desc7005": {
+  "en": "The array no longer explodes, but crashes all units in it instead. Affected unit’s Agility &710007_hmjsbl&, and the damage taken by them will increase by &710007_hmzsbl&%. After leaving the array, the effect will still last for &710007_hmhxsj&s.",
+  "ch": "法阵不再产生爆炸，而是压扁所有受到影响的单位，使其移动速度&710007_hmjsbl&并且受到的伤害提升&710007_hmzsbl&%。离开法阵后，效果仍将持续&710007_hmhxsj&秒。"
+ },
+ "passiveMethod_name3010": {
+  "en": "Unsettling",
+  "ch": "躁动"
+ },
+ "passiveMethod_name7004": {
+  "en": "Shatter",
+  "ch": "重压"
+ },
+ "passiveMethod_name7005": {
+  "en": "Khayanirodha",
+  "ch": "坏灭"
+ },
+ "potmonSkillLifeName10141": {
+  "en": "Fashionista",
+  "ch": "鉴别天衣"
+ },
+ "potmonSkillLifeName101411": {
+  "en": "Fashionista",
+  "ch": "鉴别天衣"
+ },
+ "prefixNameS102007": {
+  "en": "Slashing",
+  "ch": "破众"
+ },
+ "prefixNameS103008": {
+  "en": "Bloodthirsty",
+  "ch": "浴血"
+ },
+ "prefixNameS104007": {
+  "en": "Murderous",
+  "ch": "恶极",
+  "nomes": {
+   "Murderous": "Intent Assassinato"
+  }
+ },
+ "prefixNameS10509": {
+  "en": "Momentum",
+  "ch": "蓄势"
+ },
+ "prefixNameS10608": {
+  "en": "Starpicker",
+  "ch": "点星"
+ },
+ "prefixNameS1101006": {
+  "en": "Scorching",
+  "ch": "炙炎"
+ },
+ "prefixNameS11201": {
+  "en": "Mirage Minion",
+  "ch": "妄象"
+ },
+ "prefixNameS11318": {
+  "en": "Empowered Thunder II",
+  "ch": "电绕"
+ },
+ "prefixNameS11402": {
+  "en": "Dispelling",
+  "ch": "退尘"
+ },
+ "prefixNameS11422": {
+  "en": "Windslice",
+  "ch": "风切"
+ },
+ "prefixNameS1203006": {
+  "en": "Rushing",
+  "ch": "巽风"
+ },
+ "prefixNameS1203007": {
+  "en": "Combo",
+  "ch": "连环"
+ },
+ "prefixNameS201006": {
+  "en": "Darting",
+  "ch": "长空"
+ },
+ "prefixNameS30102": {
+  "en": "Diligent II",
+  "ch": "精进"
+ },
+ "prefixNameS30107": {
+  "en": "Quick Hand II",
+  "ch": "百手"
+ },
+ "prefixNameS30108": {
+  "en": "Quick Hand III",
+  "ch": "千手"
+ },
+ "prefixNameS30114": {
+  "en": "Feeble",
+  "ch": "弱躯"
+ },
+ "prefixNameS30121": {
+  "en": "Weathered",
+  "ch": "虚刃"
+ },
+ "prefixNameS30161": {
+  "en": "Mighty Swing",
+  "ch": "健体"
+ },
+ "prefixNameS302006": {
+  "en": "Piercing",
+  "ch": "钻心"
+ },
+ "prefixNameS403007": {
+  "en": "Skyshatter",
+  "ch": "崩云"
+ },
+ "prefixNameS501006": {
+  "en": "Waverider",
+  "ch": "逐浪"
+ },
+ "prefixNameS502007": {
+  "en": "Swift",
+  "ch": "金虹"
+ },
+ "prefixNameS601006": {
+  "en": "Soulsealer",
+  "ch": "封灵"
+ },
+ "propInfo_yixuexi": {
+  "en": "Learned",
+  "ch": "已学习"
+ },
+ "roleFeatureZuoqiTupoLingqi": {
+  "en": "+ 6 Qi x{0}",
+  "ch": "+{0}六道灵气"
+ },
+ "role_beauty_name2": {
+  "en": "Hideous",
+  "ch": "丑陋"
+ },
+ "rolrDescS1": {
+  "en": "A long time ago, there were ten golden crows transformed into suns and scorched Yong Ning.\nHou Yi shot nine of them down and restored the peaceful life of his people.",
+  "ch": "金乌作乱，十日凌天，永宁州生灵涂炭。\n当此之际，后羿射落九日，终于挽回一州安宁。"
+ },
+ "ruleDesc1151": {
+  "en": "Every time a unit receives damage, for the next &31151_cxsj&s, this unit's damage &31151_shjd&%.",
+  "ch": "所有单位在受到伤害时，在接下来的&31151_cxsj&秒内，造成的伤害&31151_shjd&%。"
+ },
+ "ruleDesc1351": {
+  "en": "Every time a unit kills an enemy, for the next &31351_cxsj&s, this unit's damage &31351_shjd&%.",
+  "ch": "所有单位在击杀敌人后，自身造成的伤害&31351_shjd&%，持续&31351_cxsj&秒。"
+ },
+ "ruleDesc1601": {
+  "en": "Every time a unit dies, this unit restores &31601_tlbl&% Vitality to nearby allies.",
+  "ch": "所有单位在死亡时，可为周围的友军回复&31601_tlbl&%自身的体力。"
+ },
+ "ruleDesc403": {
+  "en": "For every 1 enemy within &30403_zdfw&, a unit deals &30403_shts&% more damage.",
+  "ch": "所有单位在其&30403_zdfw&范围内每有1个敌人，可提升其造成的伤害&30403_shts&%。"
+ },
+ "ruleDesc503": {
+  "en": "Every time a unit receives damage, for the next &30503_cxsj&s, this unit will additionally receive &30503_mmsh& $s_zhang$ damage every second. This effect is unstackable.",
+  "ch": "所有单位在受到伤害时，将在&30503_cxsj&秒内，每秒将额外受到威力&30503_mmsh&的$s_zhang$伤害，此效果不可叠加。"
+ },
+ "s_22113_zjgl": {
+  "en": "Within &22113_djsj&s after this skill is cast, your Martial Skills will have a &22113_zjgl&% greater chance to stack $s_xueren$.",
+  "ch": "使用此技能后，武技叠加$s_xueren$的概率提升&22113_zjgl&%，持续&22113_djsj&秒。"
+ },
+ "s_22115_zjgl": {
+  "en": "Within &22115_djsj&s after this skill is cast, your Martial Skills will have a &22115_zjgl&% greater chance to stack $s_xueren$.",
+  "ch": "使用此技能后，武技叠加$s_xueren$的概率提升&22115_zjgl&%，持续&22115_djsj&秒。"
+ },
+ "s_23114_cngl": {
+  "en": "If this skill is cast when there's only one enemy, you'll have a &23114_cngl&% chance to receive 1 $s_chongneng$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则有&23114_cngl&%的概率获得1点$s_chongneng$。"
+ },
+ "s_23116_cngl": {
+  "en": "If this skill is cast when there's only one enemy, you'll have a &23116_cngl&% chance to receive 1 $s_chongneng$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则有&23116_cngl&%的概率获得1点$s_chongneng$。"
+ },
+ "s_26113_zfgl": {
+  "en": "Every time this skill hits an enemy inflicted with $s_neishang$, there's a &26113_zfgl&% chance to generate a stack of $s_zhangfeng$ underneath the target.",
+  "ch": "此技能每命中一个带$s_neishang$的敌人，有&26113_zfgl&%的概率在目标脚下生成一道$s_zhangfeng$。"
+ },
+ "s_2_0_2": {
+  "en": "This skill deals &s_2_0_2&% more damage to <g>normal monsters</g>.",
+  "ch": "此技能对<g>普通单位</g>造成的伤害提升&s_2_0_2&%。"
+ },
+ "s_2_0_3": {
+  "en": "This skill deals &s_2_0_3&% more damage to <p>elite monsters</p>.",
+  "ch": "此技能对<p>精英单位</p>造成的伤害提升&s_2_0_3&%。"
+ },
+ "s_2_0_4": {
+  "en": "This skill deals &s_2_0_4&% more damage to <r>Mythical Beasts</r>.",
+  "ch": "此技能对<r>大妖兽</r>造成的伤害提升&s_2_0_4&%。"
+ },
+ "s_3001_fangyu": {
+  "en": "DEF &3001_fangyu&",
+  "ch": "防御&3001_fangyu&。"
+ },
+ "s_37111_kmgl": {
+  "en": "Every time this skill kills an enemy, you have a &37111_kmgl&% chance to receive 1 stack of $s_kaimai$.",
+  "ch": "此技能每击杀一个敌人，有&37111_kmgl&%的概率为自身叠加1层$s_kaimai$。"
+ },
+ "s_510021_dmg00": {
+  "en": "s_510021_dmg00",
+  "ch": "s_510021_dmg00"
+ },
+ "s_510031_dmg00": {
+  "en": "s_510031_dmg00",
+  "ch": "s_510031_dmg00"
+ },
+ "s_510041_dmg00": {
+  "en": "s_510041_dmg00",
+  "ch": "s_510041_dmg00"
+ },
+ "s_510051_dmg00": {
+  "en": "s_510051_dmg00",
+  "ch": "s_510051_dmg00"
+ },
+ "s_510061_djfw": {
+  "en": "When you cast this skill, you'll inflict &510061_djnx& stacks of $s_neixu$ on enemies within &510061_djfw&.",
+  "ch": "使用技能时，为距离&510061_djfw&内的所有敌人叠加&510061_djnx&层$s_neixu$。"
+ },
+ "s_510061_dmg00": {
+  "en": "s_510061_dmg00",
+  "ch": "s_510061_dmg00"
+ },
+ "s_510121_dmg00": {
+  "en": "s_510121_dmg00",
+  "ch": "s_510121_dmg00"
+ },
+ "s_510131_dmg00": {
+  "en": "s_510131_dmg00",
+  "ch": "s_510131_dmg00"
+ },
+ "s_52113_djgl": {
+  "en": "If this skill is cast when there's only one enemy, for the next &52113_djsj&s, every time a Martial Skill hits an enemy, it has a &52113_djgl&% chance to inflict $s_dongjie$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则接下来的&52113_djsj&秒内，武技每次命中目标时有&52113_djgl&%的概率将其$s_dongjie$。"
+ },
+ "s_52115_djgl": {
+  "en": "If this skill is cast when there's only one enemy, for the next &52115_djsj&s, every time a Martial Skill hits an enemy, it has a &52115_djgl&% chance to inflict $s_dongjie$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则接下来的&52115_djsj&秒内，武技每次命中目标时有&52115_djgl&%的概率将其$s_dongjie$。"
+ },
+ "s_54111_jdsj": {
+  "en": "After this skill hits an enemy, for the next &54111_jdsj&s, the enemy's damage &54111_jdsh&%.",
+  "ch": "此技能命中敌人时，可使目标在接下来的&54111_jdsj&秒内，造成的伤害&54111_jdsh&%。"
+ },
+ "s_55111_klsh": {
+  "en": "If this skill is cast when there are at least &55111_cdcs& stacks of $s_chidun$, all $s_tukuilei$s' damage will increase by &55111_klsh&%.",
+  "ch": "若使用此技能时，场上至少有&55111_cdcs&层$s_chidun$，则场上所有$s_tukuilei$造成的伤害提升&55111_klsh&%。"
+ },
+ "s_55113_klsh": {
+  "en": "If this skill is cast when there are at least &55113_cdcs& stacks of $s_chidun$, all $s_tukuilei$s' damage will increase by &55113_klsh&%.",
+  "ch": "若使用此技能时，场上至少有&55113_cdcs&层$s_chidun$，则场上所有$s_tukuilei$造成的伤害提升&55113_klsh&%。"
+ },
+ "s_55115_klsh": {
+  "en": "If this skill is cast when there are at least &55115_cdcs& stacks of $s_chidun$, all $s_tukuilei$s' damage will increase by &55115_klsh&%.",
+  "ch": "若使用此技能时，场上至少有&55115_cdcs&层$s_chidun$，则场上所有$s_tukuilei$造成的伤害提升&55115_klsh&%。"
+ },
+ "s_5_0_2": {
+  "en": "This skill deals &s_5_0_2&% more damage to <g>normal monsters</g>.",
+  "ch": "此技能对<g>普通单位</g>造成的伤害提升&s_5_0_2&%。"
+ },
+ "s_64111_zsgl": {
+  "en": "For the duration of this Ultimate Skill, every &64111_scjg&s, you have a &64111_zsgl&% chance to generate a $s_xuanfeng$ underneath yourself.",
+  "ch": "在此神通的持续时间内，自身脚下每&64111_scjg&秒有&64111_zsgl&%的概率向外生成一道$s_xuanfeng$。"
+ },
+ "s_64112_zsgl": {
+  "en": "For the duration of this Ultimate Skill, every &64112_scjg&s, you have a &64112_zsgl&% chance to generate a $s_xuanfeng$ underneath yourself.",
+  "ch": "在此神通的持续时间内，自身脚下每&64112_scjg&秒有&64112_zsgl&%的概率向外生成一道$s_xuanfeng$。"
+ },
+ "s_81021_hxsj": {
+  "en": "Every time this artifact's lighting strike hits an enemy, your Crit RES &81021_jdhx& for &81021_hxsj+1&s.",
+  "ch": "此法宝闪电打击到的敌人，护心&81021_jdhx&，持续&81021_hxsj+1&秒。"
+ },
+ "s_81051_hqkg": {
+  "en": "After the absorption limit is reached, the absorbed Energy will overflow. For every &81051_rlbl&% of the absorption limit overflowed, a tracking fire ball will be released, dealing &81051_hqwl& $s_huo$ damage.",
+  "ch": "此法宝吸收灵力达到上限后开始溢出，每溢出吸收灵力上限的&81051_rlbl&%发射一颗追踪火球，造成威力&81051_hqwl&的$s_huo$伤害。"
+ },
+ "s_81091_swzhxkkg%1": {
+  "en": "Every time a Summoned Unit dies in the Area of Effect of the Artifact, 1 {#battle_unit_name291} will be spawned on its location, lasting for &81091_xkcxsj&s. The {#battle_unit_name291} will annihilate upon reaching the enemy, dealing &81091_xkzbwl& damage to enemies within &81091_xkzbfw& range.",
+  "ch": "法宝影响范围内每有1个召唤单位死亡时，在原地生成一个持续&81091_xkcxsj&秒的{#battle_unit_name291}，{#battle_unit_name291}会在靠近敌人时泯灭，对范围&81091_xkzbfw&内的所有敌人造成威力&81091_xkzbwl&的伤害。"
+ },
+ "s_8600204_cnsd": {
+  "en": "When you have at least &8600204_xqcs& stacks of $s_poshi$, the $s_chongneng$ speed of your Special Skills will increase by &8600204_cnsd&%.",
+  "ch": "当自身拥有至少&8600204_xqcs&层$s_poshi$时，绝技的$s_chongneng$速度提升&8600204_cnsd&%。"
+ },
+ "s_8700102_tshx": {
+  "en": "For every &8700102_xqzz& $s_daofazizhi$ points, your Crit will increase by &8700102_tshx&.",
+  "ch": "每有&8700102_xqzz&点$s_daofazizhi$可使会心提升&8700102_tshx&点。"
+ },
+ "s_8700708_tsnl": {
+  "en": "When $s_huolinggen$ stat reaches &8700708_xqzz&, Max Focus will increase by &8700708_tsnl&.",
+  "ch": "若$s_huolinggen$达到&8700708_xqzz&点，则可提升念力上限&8700708_tsnl&点。"
+ },
+ "s_8700808_tsnl": {
+  "en": "When $s_shuilinggen$ stat reaches &8700808_xqzz&, Max Focus will increase by &8700808_tsnl&.",
+  "ch": "若$s_shuilinggen$达到&8700808_xqzz&点，则可提升念力上限&8700808_tsnl&点。"
+ },
+ "s_badao": {
+  "en": "Overbearing",
+  "ch": "霸道",
+  "nomes": {
+   "Overbearing": "Dominador"
+  }
+ },
+ "s_chanrao": {
+  "en": "Entangle",
+  "ch": "缠绕",
+  "nomes": {
+   "Entangle": "Emaranhar"
+  }
+ },
+ "s_chidun": {
+  "en": "Sluggish",
+  "ch": "迟钝"
+ },
+ "s_duwa_desc": {
+  "en": "Small unit that deals &56113_jnwl& $s_mu$ damage by spitting venom.\nInherited stats from the summoner: &56113_dwtl&% Vitality, &56113_dwgj&% ATK, &56113_dwfy&% DEF.\nIt exists for &56113_dwsj&s.",
+  "ch": "小型单位，朝敌人喷射毒液，对敌人造成威力&56113_jnwl&的$s_mu$伤害。\n继承召唤者的体力&56113_dwtl&%，攻击&56113_dwgj&%，防御&56113_dwfy&%。\n持续&56113_dwsj&秒。"
+ },
+ "s_huozhong": {
+  "en": "Ember",
+  "ch": "火种"
+ },
+ "s_julingkuilei_desc": {
+  "en": "Large unit that slams a stone hammer forward to attack enemies in a line, dealing &65112_jnwl& $s_tu$ damage.\nInherited stats from the summoner: &65112_jltl&% Vitality, &65112_jlgj&% ATK, &65112_jlfy&% DEF.\nIt exists for &65112_jlsj&s.",
+  "ch": "大型单位，使用巨大的石锤向前方猛击，对前方一条线上的敌人造成威力&65112_jnwl&的$s_tu$伤害。\n继承召唤者的体力&65112_jltl&%，攻击&65112_jlgj&%，防御&65112_jlfy&%。\n持续&65112_jlsj&秒。"
+ },
+ "s_xiaohuayao_desc": {
+  "en": "Small unit that can't move. It deals &46112_jnwl& $s_mu$ damage by shooting Flower Buds.\nInherited stats from the summoner: &46112_hytl&% Vitality, &46112_hygj&% ATK, &46112_hyfy&% DEF.\nIt exists for &46112_hysj&s.",
+  "ch": "小型单位，不可移动，通过喷出花蕊对敌人造成威力&46112_jnwl&的$s_mu$伤害。\n继承召唤者的体力&46112_hytl&%，攻击&46112_hygj&%，防御&46112_hyfy&%。\n持续&46112_hysj&秒。"
+ },
+ "s_zhuoshao": {
+  "en": "Scorch",
+  "ch": "灼烧"
+ }
+}

@@ -1,0 +1,686 @@
+{
+ "schoolLogMain3301": {
+  "en": "{0}{1}{2} was sent to {3} as {4}.",
+  "ch": "{0}{1}{2}被调派至{3}担任{4}。"
+ },
+ "schoolNameFirst110": {
+  "en": "Dreamy ",
+  "ch": "梦"
+ },
+ "schoolNameFirst163": {
+  "en": "Watchful ",
+  "ch": "观"
+ },
+ "schoolRank_biwupaiming": {
+  "en": "{0} Ranking",
+  "ch": "{0}排名"
+ },
+ "schoolRelocate_qyfs_desc": {
+  "en": "1. Create Branch: Select a branch leader to manage the branch in the old place.\n2. Full Relocation: All sect members will move to the new area.",
+  "ch": "1、留下分舵：需要选择一名分舵主进行分舵的管理\n2、全部迁移：全宗一起迁移到新区域"
+ },
+ "schoolRuleDesc35": {
+  "en": "Forbidden: Becoming a Sworn Parent or a Sworn Child of outsiders",
+  "ch": "禁止与外人结成义亲关系"
+ },
+ "schoolRuleDesc36": {
+  "en": "Forbidden: Becoming a Sworn Parent or a Sworn Child of enemies",
+  "ch": "禁止与敌道结成义亲关系"
+ },
+ "schoolSlogan442": {
+  "en": "Unrestrained",
+  "ch": "洒脱奔放"
+ },
+ "schoolpost_challengeTip2": {
+  "en": "1. This may significantly <r>decrease</r> Affinity.\n2. <r>Cost: {0} Sect Contribution</r>.",
+  "ch": "1.挑战行为可能大幅度<r>降低</r>双方亲密度。\n2.每次挑战需<r>消耗</r>{0}点宗门贡献。",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  }
+ },
+ "shuXian": {
+  "en": "Lan You",
+  "ch": "兰幽"
+ },
+ "skillDescS21016": {
+  "en": "Release Nether Air in your body, gaining &21016_critUp&% Crit Chance and Crit Rate equaling to &21016_critV& * your Max Vitality at the cost of &21016_hpCost&% of your Max Vitality per second. During it, every enemy died within 250 range will restore you &21016_hpBack& Vitality. The skill's effect will expire after &21016_time&s or at the time when your Vitality is below &21016_hpNow&%.",
+  "ch": "释放体内魔气，每秒消耗&21016_hpCost&%最大体力，暴击概率&21016_critUp&%，提升最大体力*&21016_critV&的暴击倍率，并且在此技能持续时间内每击杀250范围内的一个敌人可回复&21016_hpBack&点体力。该技能在持续&21016_time&秒后或体力低于&21016_hpNow&%时结束。"
+ },
+ "skillDescS304": {
+  "en": "Summon a spinning sword above and release swords from it, dealing damage to enemies. This skill has a chance to inflict Bleed (slowing and dealing damage every &302_bleedingCd&s) on enemies.\nSkill Damage: &304_dmg&\nSpinning Sword Duration: &304_time&\nBleed Chance: &304_bleedProb&%\nSlowing Rate: &302_slow&%\nBleed Base Damage: &302_bleedingDmg&\nBleed Duration: &302_bleedTime&",
+  "ch": "在头顶召唤一把快速旋转的剑，并从旋转剑中快速向四周发射剑气，对命中的敌人造成伤害，并有一定概率为敌人施加流血。（减速敌人，使敌方每&302_bleedingCd&秒受到伤害）。\n技能威力：&304_dmg&\n旋转剑持续时间：&304_time&\n施加流血概率：&304_bleedProb&%\n流血减速：&302_slow&%\n流血基础伤害：&302_bleedingDmg&\n流血持续时间：&302_bleedTime&"
+ },
+ "skillNameS1401": {
+  "en": "Windbound",
+  "ch": "风缚术"
+ },
+ "skillNameS1502": {
+  "en": "Meteorfall",
+  "ch": "陨石阵"
+ },
+ "skillPrefixName1311156": {
+  "en": "阴",
+  "ch": "阴"
+ },
+ "skillPrefixName1411253": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName1511204": {
+  "en": "荒",
+  "ch": "荒"
+ },
+ "skillPrefixName1511205": {
+  "en": "劫",
+  "ch": "劫"
+ },
+ "skillPrefixName1511254": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName1611352": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName1711251": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName2211406": {
+  "en": "冥",
+  "ch": "冥"
+ },
+ "skillPrefixName2311455": {
+  "en": "冥",
+  "ch": "冥"
+ },
+ "skillPrefixName2411406": {
+  "en": "寂",
+  "ch": "寂"
+ },
+ "skillPrefixName2511155": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName2511256": {
+  "en": "魄",
+  "ch": "魄"
+ },
+ "skillPrefixName2511356": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName2711152": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName2711356": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName2711452": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName3211156": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName3311156": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName3611155": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName4111256": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName4211252": {
+  "en": "魄",
+  "ch": "魄"
+ },
+ "skillPrefixName4211254": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName4311153": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName4511154": {
+  "en": "荒",
+  "ch": "荒"
+ },
+ "skillPrefixName4511354": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5111255": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5111353": {
+  "en": "劫",
+  "ch": "劫"
+ },
+ "skillPrefixName5111455": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5111656": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5211555": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5211556": {
+  "en": "冥",
+  "ch": "冥"
+ },
+ "skillPrefixName5211655": {
+  "en": "瑕",
+  "ch": "瑕"
+ },
+ "skillPrefixName5311156": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5311652": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5411356": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5511453": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5611256": {
+  "en": "瑕",
+  "ch": "瑕"
+ },
+ "skillPrefixName5611551": {
+  "en": "冥",
+  "ch": "冥"
+ },
+ "skillPrefixName5611555": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName5611606": {
+  "en": "冥",
+  "ch": "冥"
+ },
+ "skillPrefixName6111202": {
+  "en": "炽",
+  "ch": "炽"
+ },
+ "skillPrefixName6111252": {
+  "en": "魄",
+  "ch": "魄"
+ },
+ "skillPrefixName6411156": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName6511155": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skillPrefixName6611105": {
+  "en": "瑕",
+  "ch": "瑕"
+ },
+ "skillPrefixName6611253": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skill_desc81011": {
+  "en": "Summons &81011_yzsl& Wild Boar in the target area every &81011_zhjg&s to help you fight. If you continue blowing the Horn of Desolation, every &81011_qhjg&s all units summoned by your allies within &81011_qhfw& recover &81011_hftl& Vitality and their Agility increases by &81011_tsys&%. Wild Boar: Small unit, inherits &81011_yztl&% of Artifact Vitality, dealing &81011_yzwl& $s_huo$ DMG to enemies, lasts for &81011_cxsj&s.",
+  "ch": "每&81011_zhjg&秒在目标区域召唤&81011_yzsl&只野猪，协助你进行战斗。持续吹响荒炎号角，每&81011_qhjg&秒进行一次强化，使范围&81011_qhfw&的所有友方召唤物回复体力&81011_hftl&点，移动速度提升&81011_tsys&%。野猪：小型单位，继承法宝体力的&81011_yztl&%，对敌人造成威力&81011_yzwl&的$s_huo$伤害，持续&81011_cxsj&秒。",
+  "nomes": {
+   "Horn of Desolation": "Corneta da Desolação"
+  }
+ },
+ "skill_desc81031": {
+  "en": "Sounding the Cerulean Bell deals &81031_fwsh& DMG and a &81031_xysj&s-Stun to enemies within &81031_yxfw& range. Enemies in range are sealed and cannot leave the area.",
+  "ch": "敲响青冥玄钟，对范围&81031_yxfw&内的敌人造成威力&81031_fwsh&的伤害并晕眩&81031_xysj&秒。范围内的敌人被封锁，无法离开此区域。",
+  "nomes": {
+   "Cerulean Bell": "Sino Cerúleo"
+  }
+ },
+ "skill_desc910211": {
+  "en": "Available once {#skill_name_middle91021} has been cast &91021_mhcs& times. Jiuchen triggers Enchant. As a result, {#skill_name_middle91021} will deal AoE damage and increase Crit Rate by an additional &91021_mhbj&%.",
+  "ch": "{#skill_name_middle91021}技能使用&91021_mhcs&次可施展魔化，{#skill_name_middle91021}改为范围伤害，并且暴击概率再提升&91021_mhbj&%。",
+  "nomes": {
+   "Enchant": "Encanto"
+  }
+ },
+ "skill_desc91023": {
+  "en": "Available once &91021_bmxq& critical strikes have been achieved in the current battle. Jiuchen generates a Brutal Storm that lasts &91021_bmsj&s, dealing &91021_fbwl& damage to every enemy it hits and inflicting Slow (Agility &91021_fbjs&%). Allies hit by this storm will have their Crit Rate increased by &91021_fbbj&% for &91021_bjsj&s.",
+  "ch": "在本场战斗中，累计暴击达到&91021_bmxq&次可施展，在场上刮起持续&91021_bmsj&秒的蛮力风暴，对碰撞到的敌人造成威力&91021_fbwl&的伤害并减速&91021_fbjs&%，对碰撞到的友方单位，则会提升其&91021_fbbj&%的暴击概率，效果持续&91021_bjsj&秒。"
+ },
+ "skill_desc91043": {
+  "en": "Available after exposing enemies' weaknesses &91041_ctcs& times in the current battle. Ningshuang and you will temporarily disappear, and she'll launch claw attacks that cover the entire battlefield, dealing &91041_bmwl& damage to every enemy hit. After this skill is cast, for the next &91041_bmsj&s, each of your attacks has a &91041_bmgl&% chance to ignore &91041_bmct&% of the target's DEF.",
+  "ch": "在本场战斗中，累计发现敌人的弱点达到&91041_ctcs&次后可施展，施展后器灵与角色暂时消失，然后施放笼罩战场的快速爪击，对命中的敌人造成威力&91041_bmwl&的伤害。施展后法宝所有者的攻击有&91041_bmgl&%的概率穿透目标&91041_bmct&%的防御，持续&91041_bmsj&秒。"
+ },
+ "skill_desc92012": {
+  "en": "Available once Tidal Surge has been cast &92011_pgcs& times. Yunling grants you Energy Blast that lasts &92011_cxsj&s. For every &92011_llbl&% Energy you have, your damage will increase by &92011_tssh&%s.",
+  "ch": "使用潮涌&92011_pgcs&次后可施展，为法宝所有者施加灵力爆发的效果，当前每有&92011_llbl&%的灵力，可提升&92011_tssh&%的伤害，持续&92011_cxsj&秒。"
+ },
+ "skill_desc92331": {
+  "en": "After slowing &92321_dwcs& times, &92321_jstl& Vitality for max &92321_xqsl& enemies in &92321_xqfw& range per sec for &92321_yxsj&s.",
+  "ch": "施加&92321_dwcs&次减速后，对&92321_xqfw&范围内的最多&92321_xqsl&个敌人造成每秒体力&92321_jstl&点的效果，持续&92321_yxsj&秒。"
+ },
+ "skill_desc92371": {
+  "en": "Available after shot &92361_cfcsxq& poison balls. Shoot a special poison ball, additionally &92361_jdbjblbl& Crit Rate of enemies hit for &92361_cmcj&s.",
+  "ch": "发射&92361_cfcsxq&次毒球后可发动本技能，本次发射的毒球可使被命中单位的暴击倍率&92361_jdbjblbl&，持续&92361_cmcj&秒。"
+ },
+ "skill_field_hpCost11": {
+  "en": "体力消耗",
+  "ch": "体力消耗"
+ },
+ "skill_name_first49": {
+  "en": "诛",
+  "ch": "诛"
+ },
+ "skill_name_first55": {
+  "en": "翔",
+  "ch": "翔"
+ },
+ "skill_name_first62": {
+  "en": "荡",
+  "ch": "荡"
+ },
+ "skill_name_middle20181": {
+  "en": "八卦",
+  "ch": "八卦"
+ },
+ "skill_name_middle20211": {
+  "en": "御气",
+  "ch": "御气"
+ },
+ "skill_name_middle20214": {
+  "en": "御气",
+  "ch": "御气"
+ },
+ "skill_name_middle20215": {
+  "en": "御气",
+  "ch": "御气"
+ },
+ "skill_name_middle22114": {
+  "en": "Mega Slash",
+  "ch": "绝斩"
+ },
+ "skill_name_middle33111": {
+  "en": "Hellspear",
+  "ch": "鬼狱枪"
+ },
+ "skill_name_middle41111": {
+  "en": "Firebolt",
+  "ch": "火丸术"
+ },
+ "skill_name_middle43111": {
+  "en": "Voltshot",
+  "ch": "雷光术"
+ },
+ "skill_name_middle44113": {
+  "en": "Windslice",
+  "ch": "风切术"
+ },
+ "skill_name_middle54111": {
+  "en": "Windbound",
+  "ch": "风缚术"
+ },
+ "skill_name_middle55112": {
+  "en": "Meteorfall",
+  "ch": "陨石阵"
+ },
+ "skill_name_middle55113": {
+  "en": "Rolling Rock",
+  "ch": "滚岩术"
+ },
+ "skill_name_middle65111": {
+  "en": "Earthfall",
+  "ch": "裂山崩"
+ },
+ "skill_name_middle7194": {
+  "en": "Flora Gravity",
+  "ch": "草木牵引"
+ },
+ "skill_name_middle7195": {
+  "en": "Flora Minions",
+  "ch": "草木皆兵"
+ },
+ "skill_name_middle7214": {
+  "en": "Gust Gush",
+  "ch": "烈风喷涌",
+  "nomes": {
+   "Gust Gush": "Rajada de Vento Impetuosa"
+  }
+ },
+ "skill_name_middle7321": {
+  "en": "Piercing Icicle",
+  "ch": "冰柱打击"
+ },
+ "skill_name_middle7601": {
+  "en": "Thrusting",
+  "ch": "突刺之剑"
+ },
+ "skill_name_middle7921": {
+  "en": "Smashing",
+  "ch": "狠砸"
+ },
+ "skill_name_middle7943": {
+  "en": "Berserk",
+  "ch": "狂暴"
+ },
+ "skill_name_middle800105": {
+  "en": "Noble Medic",
+  "ch": "悬壶"
+ },
+ "skill_name_middle8052": {
+  "en": "Firefall",
+  "ch": "火坠苍穹"
+ },
+ "skill_name_middle8062": {
+  "en": "Trident Tornados",
+  "ch": "龙卷冲击"
+ },
+ "skill_name_middle8331": {
+  "en": "Shatter",
+  "ch": "重压"
+ },
+ "skill_name_middle91021": {
+  "en": "Bonechill",
+  "ch": "凝骨劲"
+ },
+ "skill_name_middle91041": {
+  "en": "Piercing Sting",
+  "ch": "断筋刺"
+ },
+ "skill_name_middle92061": {
+  "en": "Boarcall",
+  "ch": "唤群"
+ },
+ "skill_name_middle92111": {
+  "en": "Momentum",
+  "ch": "奔势"
+ },
+ "skill_name_middle92162": {
+  "en": "Galebreak",
+  "ch": "碎风"
+ },
+ "skill_name_middle92371": {
+  "en": "Tonitrus",
+  "ch": "万钧"
+ },
+ "skill_name_second13": {
+  "en": "魄",
+  "ch": "魄"
+ },
+ "skill_name_second38": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "skill_name_second43": {
+  "en": "妖",
+  "ch": "妖"
+ },
+ "spriteArtDesc100502": {
+  "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you kill a Cultivator, you have a &811113_ymgl&% chance not to let anyone else know.",
+  "ch": "装备了此器灵所融合的法宝时，在击杀其他修仙者有&811113_ymgl&%的概率不会被任何人知道。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "spriteSub_2008001": {
+  "en": "C-Cleaver!",
+  "ch": "大……大砍刀……"
+ },
+ "sprite_1003_skill_name_1": {
+  "en": "Bonechill",
+  "ch": "凝骨劲"
+ },
+ "sprite_1005005": {
+  "en": "Hmmm...",
+  "ch": "哼哼~"
+ },
+ "sprite_1005_skill_name_1": {
+  "en": "Piercing Sting",
+  "ch": "断筋刺"
+ },
+ "sprite_2009_skill_name_1": {
+  "en": "Boarcall",
+  "ch": "唤群"
+ },
+ "sprite_2013_skill_name_2": {
+  "en": "Galebreak",
+  "ch": "碎风"
+ },
+ "sprite_2017_skill_name_1": {
+  "en": "Momentum",
+  "ch": "奔势"
+ },
+ "startGameTip_zhangsanshuo": {
+  "en": "Fellow Cultivators,\n After nearly two and a half years of development, Tale of Immortal has finally reached its official release, which marks a milestone for all of us, and we are glad to have you as our companions in the journey! We will continue to improve Tale of Immortal and add new content that is compatible with the current framework, so stay tuned!\n We have witnessed the adventure and breakthroughs of so many cultivators, and we, the developers from Guigu Studio, feel like we have achieved something seemingly impossible too. We would like to say thanks to you, as well as all fellow cultivators, for your support, encouragement, and advice that helped us all the way from our Early Access days to now. Thanks for buying our game!\n There are myriad ways toward an ideal, and ours is one of them. We hope our game will display to you a facet of the cultivation world, along with all of its myths and treasures.\n Before you start playing, there is another notice for your save files.\n Since the game has undergone many updates, it may not be able to load save files that are created under early versions, modified by game trainers or mods, or corrupted due to excessive force quits or Save/Load attempts. If you encountered the issue, you may:\n 1. Replace the broken save file with backup save files exported before;\n 2. Browse Discussions and Workshop for save file fix tools or consult players with similar issues;\n 3. Start a new game;\n 4. Send the broken save file to info@lightning.games, and we will try to fix it.\n Enjoy your adventure!\nSincerely,\nGuigu Studio",
+  "ch": "鬼谷工作室致道友：\n\t在经过将近两年半的开发之后，《鬼谷八荒》这趟修仙之旅在诸位道友的陪伴下，也到了一个新的里程碑。我们后续还会继续优化鬼谷八荒，并新增能被框架包含的新内容，敬请期待！\n\t这一路走来，是一个个存档角色的突破与修行，也是鬼谷工作室从零到一的突破，从无至有的修行。感谢此刻在屏幕前阅读这封致谢信的每一个你，是道友们的建议、鼓励及鞭策，支持着我们将游戏从抢鲜体验状态一步步完善至正式版。工作室在此，向购买了EA版本的所有玩家表示由衷的感谢。\n\t大道三千，遁去其一。心中有道者，无处不可悟，无处不可证。《鬼谷八荒》愿抛砖引玉，助道友们踏出这一步，不断追寻心目中理想的修仙世界——得一方天地，证本源本心。\n\t最后，在各位道友进入游戏前，我们有一则关于【存档】的提醒：\n\t由于游戏已经经过了多次版本更新，如果您是在游戏上架早期创建的存档，曾经使用过“修改器”、“Mod”等改变存档内容的工具，或曾在游戏运行过程中以强退、S/L等方法多次强行关闭过游戏，将可能会遇到正式版上线后，旧存档无法兼容的情况。如果出现这种情况，我们建议您做如下处理：\n\t1、如有曾经手动导出保存的存档副本，可以尝试替换导入；\n\t2、在留言板及创意工坊页面寻找相应工具，或与群友等交流，是否有类似情况曾经得到过解决；\n\t3、进行新档体验；\n\t4、将您的旧存档发送至info@lightning.games，工作室将尝试为您修复。\n\t传送阵法即将启动，预祝您的修行之旅圆满大成。\n鬼谷工作室全体\n敬上"
+ },
+ "stepName13": {
+  "en": "Flash",
+  "ch": "闪"
+ },
+ "stepName15": {
+  "en": "Burrow",
+  "ch": "遁"
+ },
+ "stepName6": {
+  "en": "Stealth",
+  "ch": "隐"
+ },
+ "stepPrefixName100351": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "stepPrefixName100851": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "stepPrefixName100951": {
+  "en": "荒",
+  "ch": "荒"
+ },
+ "storePropNameS1401": {
+  "en": "Windbound",
+  "ch": "风缚术"
+ },
+ "storePropNameS1502": {
+  "en": "Meteorfall",
+  "ch": "陨石阵"
+ },
+ "storePropNameS20001": {
+  "en": "Sutra",
+  "ch": "经"
+ },
+ "storePropNameS400011": {
+  "en": "Tome Pages",
+  "ch": "卷宗残页"
+ },
+ "storePropNameS400022": {
+  "en": "Breeze Lute",
+  "ch": "望月琴"
+ },
+ "storePropNameS400038": {
+  "en": "Roaming Cloud",
+  "ch": "纵云梯"
+ },
+ "storePropNameS400046": {
+  "en": "Iron Beam",
+  "ch": "铁箍梁"
+ },
+ "suit_historyName19": {
+  "en": "-- Jagu",
+  "ch": "——武罗"
+ },
+ "suit_historyName20": {
+  "en": "-- Ruochuan",
+  "ch": "——若川"
+ },
+ "suit_historyName21": {
+  "en": "-- Bingyi",
+  "ch": "——冰夷"
+ },
+ "suit_historyName22": {
+  "en": "-- Feng Yunchuo",
+  "ch": "——风允婼"
+ },
+ "suit_historyName23": {
+  "en": "-- Sunny",
+  "ch": "——圣阳"
+ },
+ "suit_historyName25": {
+  "en": "-- Jingwei",
+  "ch": "——精卫"
+ },
+ "suit_historyName29": {
+  "en": "-- Zhu Yaoyue",
+  "ch": "——烛遥月"
+ },
+ "suit_historyName3": {
+  "en": "-- Xi",
+  "ch": "——阿嬉"
+ },
+ "suit_historyName4": {
+  "en": "-- Hou Yi",
+  "ch": "——后羿"
+ },
+ "suit_historyName8": {
+  "en": "-- Sanguine Riverstar",
+  "ch": "——血星河"
+ },
+ "suit_historyName9": {
+  "en": "-- Ji Guhun",
+  "ch": "——季沽魂",
+  "nomes": {
+   "Ji Guhun": "Ji Guhun"
+  }
+ },
+ "switch_ui_battleImm_fazeClickTips": {
+  "en": "Press and hold L2 button accumulates power \n releases the power of the law",
+  "ch": "长按L2蓄力\n释放法则之力"
+ },
+ "taskName1110003": {
+  "en": "Inquiry",
+  "ch": "向村民打听消息"
+ },
+ "taskName2110105": {
+  "en": "Quid Pro Quo",
+  "ch": "以草易巢"
+ },
+ "taskName2110703": {
+  "en": "Something Eerie",
+  "ch": "诡异之事"
+ },
+ "taskName2110735": {
+  "en": "Console Gu Yuan’er",
+  "ch": "安慰顾鸳儿"
+ },
+ "town_hecheng": {
+  "en": "Combine",
+  "ch": "合成"
+ },
+ "town_huishou": {
+  "en": "Sell Back",
+  "ch": "回收道具"
+ },
+ "town_jipai": {
+  "en": "Put Up",
+  "ch": "寄拍"
+ },
+ "town_kehecheng": {
+  "en": "Combine",
+  "ch": "可合成"
+ },
+ "town_liupai": {
+  "en": "Bought-In",
+  "ch": "流拍"
+ },
+ "town_zonghao": {
+  "en": "Headquarters",
+  "ch": "总号"
+ },
+ "uiBrokenAltar_nandumiaoshu2": {
+  "en": "Damage dealt by Elite Monsters increase by &8002201_gwzs&%\nVitality of Elite Monsters increase by &8002301_gwtl&%\nDamage dealt by Immortals and Mythical Beasts increase by &8002201_bbzs&%\nVitality of Immortals and Mythical Beasts increase by &8002301_bbtl&%",
+  "ch": "精英伤害提高&8002201_gwzs&%\n精英体力提高&8002301_gwtl&%\n仙人及大妖兽伤害提高&8002201_bbzs&%\n仙人及大妖兽体力提高&8002301_bbtl&%"
+ },
+ "uiChickenReady_sortDescTextOn": {
+  "en": "Desc.",
+  "ch": "降序"
+ },
+ "uiFairyLeagueReward_rewardCount": {
+  "en": "Bounty",
+  "ch": "悬赏"
+ },
+ "uiImmortalSkill_xianfashuoming": {
+  "en": "Challenge Immortal Shrines to obtain\nChallenge Shattered Altar to obtain",
+  "ch": "挑战仙祠获得仙法\n挑战破碎祭坛获得仙法",
+  "nomes": {
+   "Shattered": "Despedaçado"
+  }
+ },
+ "uiSoulDevourSwordInfo_beijing": {
+  "en": "Backstory",
+  "ch": "背景故事"
+ },
+ "uiherdInfo_any": {
+  "en": ", etc.",
+  "ch": "等"
+ },
+ "ultimate_base_name92003": {
+  "en": "痕",
+  "ch": "痕"
+ },
+ "ultimate_base_name95001": {
+  "en": "阵",
+  "ch": "阵"
+ },
+ "ultimate_name_middle91002": {
+  "en": "冰霜",
+  "ch": "冰霜"
+ },
+ "ultimate_name_middle91003": {
+  "en": "雷电",
+  "ch": "雷电"
+ },
+ "ultimate_weapon_name8": {
+  "en": "冰霜",
+  "ch": "冰霜"
+ },
+ "village_building_jitai": {
+  "en": "Altar",
+  "ch": "祭台"
+ },
+ "wenjuan11_2": {
+  "en": "获取秘籍",
+  "ch": "获取秘籍"
+ },
+ "wingmanBaseDesc1004": {
+  "en": "　　Phoenix can use Ethereal Power after dealing damage &33000011_tjcs& times to enemies within &33000011_zdfw&. It summons Fiery Flame around itself, burning &33000152_kjtl&% of your Current Vitality every &33000151_shjg&s, dealing damage equal to your burned Current Vitality to enemies nearby. Cooldown: &30000024_cd&s.",
+  "ch": "　　对范围&33000011_zdfw&码内的敌人造成了&33000011_tjcs&次伤害后，凤凰即可使用飘渺之力。召唤烈焰缠绕自身，烈焰每&33000151_shjg&秒会燃烧你&33000152_kjtl&%的当前体力值并对周围敌人造成伤害，伤害威力为你燃烧的当前体力值，冷却&30000024_cd&秒。"
+ },
+ "wingmanBaseDesc1010": {
+  "en": "　　Firefly can use Ethereal Power after your Special Skills trigger Crit &39000012_bjcs& times. It summons &907004_ddbs& waves of white flame from beyond toward itself. The white flame inflicts cold flame on any enemy touched to sear it permanently, dealing &39000027_wl& damage of your highest skill stat per sec, stacking up to &39000026_djcs& times. For every 1000 Max Energy you have, its Power increases by &39000027_wltg&%. Cooldown: &30000024_cd&s.",
+  "ch": "　　你的绝技暴击&39000012_bjcs&次后，幽荧即可使用飘渺之力，从远处召唤&907004_ddbs&波白焰吸引到幽荧上。白焰会对触碰到的敌人施加阴炎永久灼烧敌人，每秒造成&39000027_wl&点自身最高战斗资质伤害，最多叠加&39000026_djcs&次，每有1000灵力上限提高&39000027_wltg&%威力，冷却&30000024_cd&秒。"
+ },
+ "wingmanFixValue100906": {
+  "en": "After Ethereal Power deals damage every &38000601_shcs& times to the same enemy, your skill damage increases by &38000602_zjwl&% for &38000602_cxsj&s.",
+  "ch": "飘渺之力对同一个敌人造成&38000601_shcs&次伤害，使自身的所有技能威力提升&38000602_zjwl&%，持续&38000602_cxsj&秒"
+ }
+}
