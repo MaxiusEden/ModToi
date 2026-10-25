@@ -532,8 +532,9 @@ LOCAL_GLOSSARY_MAX = 15
 # o local e a ponte precisam julgar a saída do mesmo jeito. Mude lá e aqui juntos.
 PLACEHOLDER = re.compile(r"\{[^{}]*\}|&[^&\s]+&|\$[^$\s]+\$|</?[A-Za-z][^<>]*>|\\n|\n|%[sdf]")
 TYPO_MAP = {"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u2018": "'", "\u2019": "'",
-            "\u2026": "...", "\u2013": "-", "\u2014": "-", "\u2011": "-", "\u00a0": " ",
-            "\u00ba": "o", "\u00aa": "a"}
+            "\u2026": "...", "\u2013": "-", "\u2014": "-", "\u2011": "-", "\u00a0": " "}
+# "\u00ba" e "\u00aa" ficam: as fontes principais do jogo t\u00eam os dois (decis\u00e3o de 2026-10-25, "N\u00ba 1" da regra 11).
+ORDINAIS = "\u00ba\u00aa"
 
 
 def normalize_punct(src: str, dst: str) -> str:
@@ -548,7 +549,7 @@ def placeholders_ok(src: str, dst: str) -> bool:
     if collections.Counter(PLACEHOLDER.findall(src or "")) != collections.Counter(PLACEHOLDER.findall(dst or "")):
         return False
     allowed = set(src or "")
-    return all(ord(ch) < 128 or "\u00c0" <= ch <= "\u00ff" or ch in allowed for ch in dst or "")
+    return all(ord(ch) < 128 or "\u00c0" <= ch <= "\u00ff" or ch in ORDINAIS or ch in allowed for ch in dst or "")
 
 
 IGUAIS_FILE = GLOSS_DIR / 'iguais_ao_ingles.json'
