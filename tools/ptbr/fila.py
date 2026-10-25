@@ -257,6 +257,15 @@ def trabalhar(grupo, modelos, fila, glossary, saida_dir, stats, fim):
             return
 
 
+def omni_no_ar():
+    """Qualquer resposta HTTP (até 401) conta como no ar, como no Iniciar-Traducao.bat; só falha de conexão não."""
+    try:
+        httpx.get(f'{bridge.BASE_URL}/models', timeout=5)
+        return True
+    except httpx.TransportError:
+        return False
+
+
 def lotes_locais():
     return sorted(LOCAL_DIR.glob('src_lote*.json'))
 
@@ -286,7 +295,7 @@ def iniciar_local(src):
     return f'`local` iniciado (pid {proc.pid}) em {src.name}; log em {log_path.name}'
 
 
-def etapa_local(work, simular):
+def etapa_local(work, simular, hymt2_no_ar):
     """Junta as ok=true do Hy-MT2, cria o próximo lote se o atual acabou e garante o `local` rodando.
 
     Devolve (reservadas, falhas, linhas): chaves do lote local ainda sem saída (as APIs não mexem nelas),
@@ -333,8 +342,8 @@ def etapa_local(work, simular):
     if rodando:
         linhas.append(f'`local` já rodando em {rodando[0].name}')
     elif a_fazer:
-        if ptbr.local_alive() != ptbr.LOCAL_ID:
-            linhas.append(f'AVISO: Hy-MT2 fora do ar; rode {ptbr.LOCAL_START} (o lote local fica parado até lá)')
+        if not hymt2_no_ar:
+            linhas.append('lote local parado até o Hy-MT2 voltar')
         elif not simular:
             linhas.append(iniciar_local(a_fazer[0]))
     linhas.append(f'reservadas para o Hy-MT2 (fora das APIs): {len(reservadas)} '
@@ -342,7 +351,7 @@ def etapa_local(work, simular):
     return reservadas, falhas, linhas
 
 
-def relatorio(caminho, hoje, stats, fila, inicio, merge_txt, validate_txt, local_linhas):
+def relatorio(caminho, hoje, stats, fila, inicio, merge_txt, validate_txt, local_linhas, servidores):
     restantes = {}
     for k in fila.chaves:
         if k not in fila.feitas:
@@ -355,6 +364,7 @@ def relatorio(caminho, hoje, stats, fila, inicio, merge_txt, validate_txt, local
     linhas = [f'# Fila de tradução — {hoje}', '',
               f'Duração: {(time.time() - inicio) / 60:.0f} min. Entradas traduzidas: {len(fila.feitas)}. '
               f'Pendentes na fila: {len(fila.chaves) - len(fila.feitas)}.', '',
+              '## Servidores', ''] + [f'- {l}' for l in servidores] + ['',
               '## Hy-MT2 local', ''] + [f'- {l}' for l in local_linhas] + ['',
               '| Modelo | Pedidos | Entradas | ok=false | Faltando | s/pedido | Fim |', '|---|---|---|---|---|---|---|']
     for mid, st in stats.items():
@@ -408,11 +418,24 @@ def main():
     if antigas and not args.simular:
         registrar('merge de saídas anteriores: ' + capturar(ptbr.cmd_merge, argparse.Namespace(files=antigas)).strip())
 
+    # Servidor fora do ar pula só a etapa dele, sem gastar erros por modelo.
+    omni_ok, hymt2_ok = omni_no_ar(), ptbr.local_alive() == ptbr.LOCAL_ID
+    servidores = [f'OmniRoute {"no ar" if omni_ok else "fora do ar"} ({bridge.BASE_URL})',
+                  f'Hy-MT2 {"no ar" if hymt2_ok else "fora do ar"} ({ptbr.LOCAL_URL})']
+    for l in servidores:
+        registrar(l)
+    if not omni_ok:
+        servidores.append('etapas das APIs puladas; suba o OmniRoute pelo Iniciar-Traducao.bat')
+    if not hymt2_ok:
+        servidores.append(f'tradução local pulada; rode {ptbr.LOCAL_START} ou o Iniciar-Traducao.bat')
+
     modelos = carregar_modelos(set(args.modelos.split(',')) if args.modelos else None)
+    if not omni_ok:
+        modelos = []
     work = ptbr.load_work()
     reservadas, falhas, local_linhas = set(), [], ['etapa local pulada (--sem-local)']
     if not args.sem_local:
-        reservadas, falhas, local_linhas = etapa_local(work, args.simular)
+        reservadas, falhas, local_linhas = etapa_local(work, args.simular, hymt2_ok)
     for l in local_linhas:
         registrar('Hy-MT2: ' + l)
     fila = Fila(work, args.limite, primeiras=falhas, excluir=reservadas)
@@ -464,7 +487,7 @@ def main():
     validate_txt = capturar(ptbr.cmd_validate, argparse.Namespace(report=str(ptbr.REPO / 'traducao/validacao.txt')))
     validate_txt += capturar(ptbr.cmd_build, argparse.Namespace())
     rel = FILA_DIR / f'relatorio-{hoje}.md'
-    relatorio(rel, hoje, stats, fila, inicio, merge_txt, validate_txt, local_linhas)
+    relatorio(rel, hoje, stats, fila, inicio, merge_txt, validate_txt, local_linhas, servidores)
     registrar(f'relatório: {rel}')
     return 0
 
