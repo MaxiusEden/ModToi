@@ -4,12 +4,13 @@
 # ///
 """Fila diária de tradução (roda sem o Claude).
 
-1. Hy-MT2 local (tradutor principal): junta o que o `ptbr.py local` já traduziu do lote local (ok=true),
-   cria o próximo lote quando o atual acaba e deixa o `local` rodando em segundo plano.
+1. Hy-MT2 local (tradutor principal): junta o que o `ptbr.py local` já traduziu em todos os lotes (ok=true)
+   e, se nenhum `local` estiver vivo, inicia o `local --continuo`, que segue lote atrás de lote sozinho.
 2. As linhas que o Hy-MT2 devolveu com ok=false passam pelos modelos de API na ordem de modelos.json.
-3. Os modelos de API adiantam, em paralelo (uma linha por grupo de cota), entradas fora do lote local.
-   Cada modelo para no primeiro limite (429) e passa a vez.
-No fim junta as saídas (merge), roda validate e build e grava um relatório.
+3. Os modelos de API adiantam, em paralelo (uma linha por grupo de cota), entradas que reservam para si
+   (ptbr.reserve_for_apis), nunca as dos lotes do local. Cada modelo para no primeiro limite (429) e passa a vez.
+No fim junta as saídas (merge), roda validate e build, solta a reserva e grava um relatório. Só a fila escreve
+em traducao/LocalText.
 
 Uso: uv run --script tools/ptbr/fila.py [--simular] [--limite N] [--modelos id,id] [--sem-local]
 """
@@ -36,29 +37,10 @@ bridge = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(bridge)
 
 MODELOS = Path(__file__).resolve().parent / 'modelos.json'
-FILA_DIR = ptbr.REPO / 'traducao/auto/fila'
-# Fora de FILA_DIR: o merge de saídas antigas lê FILA_DIR/*/*.json e não pode pegar os src_lote (pt vazio).
-LOCAL_DIR = ptbr.REPO / 'traducao/auto/local'
-LOTE_LOCAL = 500
+RESERVA_APIS = int(os.environ.get('PTBR_RESERVA_APIS', 1000))  # entradas por reserva; amplia quando acaba
 
-# Prioridade por prefixo de chave (a primeira que casar vale). O que não casar entra como "interface (resto)",
-# antes das narrativas.
-PRIORIDADES = [
-    ('configurações', ('setting_', 'gameSetting_', 'shezhi_', 'game_', 'diff', 'login_', 'defaultKeys',
-                       'mobilePaper_', 'gameLevel_')),
-    ('botões', ('tiaoguo', 'ditu', 'gaiming', 'map_', 'task_', 'ui_', 'common_', 'careerTime', 'log_riqi', 'system_')),
-    ('reinos', ('role_grade', 'D_role_grade', 'upGrade')),
-    ('status', ('player_', 'playerInfo_', 'PlayerInfo_', 'role_hobby_name', 'role_character_name', 'role_race',
-                'schoolPostName', 'npcInfo_')),
-    ('nomes de item', ('item_name', 'itemType_', 'item_type_name', 'item_clickToUse', 'item_useType')),
-    ('Olho da Providência', ('GodEyeSkills_name', 'intoGame_text', 'battle_unit_name', 'potmonRace')),
-    ('artefatos', ('artifactShape_', 'artifact_', 'artifactSprite')),
-    ('reputação', ('role_reputation',)),
-]
-NARRATIVA = ('drama_dialogue', 'drama_option', 'item_desc', 'startGameTipDesc', 'taskDesc', 'SchoolTaskAllotTaskDesc',
-             'fateStoryDesc', 'role_feature', 'spriteTalent', 'skill_attack_desc', 'prefixDescS', 'AppellationTitle',
-             'item_book_desc', 'effect_desc', 'effect_value_desc', 'potmonSkillLifeDesc', 'GodEyeSkills_desc')
-NAO_TRADUZIR = ('school_name_first', 'school_name_second')  # ver glossario/decisoes.md
+PRIORIDADES, NARRATIVA, NAO_TRADUZIR = ptbr.PRIORIDADES, ptbr.NARRATIVA, ptbr.NAO_TRADUZIR
+prioridade, pendentes = ptbr.prioridade, ptbr.pendentes
 INTERFACE_CURTA = 40      # caracteres do en para os modelos só de interface
 LOTE = {'gemini': 40, 'cohere': 20, 'groq': 30}
 MAX_TOKENS = 8000
@@ -78,15 +60,6 @@ class Limite(Exception):
     """429: a cota do modelo (ou do grupo de cota) acabou."""
 
 
-def prioridade(key):
-    if key.startswith(NARRATIVA):
-        return len(PRIORIDADES) + 1, 'narrativas'
-    for i, (nome, prefixos) in enumerate(PRIORIDADES):
-        if key.startswith(prefixos):
-            return i, nome
-    return len(PRIORIDADES), 'interface (resto)'
-
-
 def carregar_modelos(filtro=None):
     """Modelos de API, na ordem de modelos.json (o local é tratado à parte, em etapa_local)."""
     data = json.loads(MODELOS.read_text(encoding='utf-8'))
@@ -101,40 +74,43 @@ def carregar_modelos(filtro=None):
     return modelos
 
 
-def pendentes(work):
-    return sorted((k for k, e in work.items()
-                   if not e.get('pt') and e['en'].strip() and not k.startswith(NAO_TRADUZIR)),
-                  key=lambda k: (prioridade(k)[0], k))
-
-
 class Fila:
-    def __init__(self, work, limite, primeiras=(), excluir=()):
-        """`primeiras` vão para o começo (falhas do Hy-MT2); `excluir` fica de fora (lote local em curso)."""
+    def __init__(self, work, chaves, primeiras=(), reservar=None):
+        """`chaves`: reservadas para as APIs; `primeiras` vão antes (falhas do Hy-MT2).
+        `reservar(n)` reserva mais n quando a fila acaba (None: não amplia, como em --limite)."""
         self.work = work
-        todas = pendentes(work)
-        pend, prim = set(todas), set(primeiras)
-        self.chaves = [k for k in primeiras if k in pend] + [k for k in todas if k not in prim and k not in excluir]
-        if limite:
-            self.chaves = self.chaves[:limite]
+        pend, prim = set(pendentes(work)), set(primeiras)
+        self.chaves = [k for k in primeiras if k in pend] + [k for k in chaves if k not in prim]
+        self.reservar = reservar
         self.pegas, self.feitas = set(), set()
         self.so, self.fora = None, set()  # só estas chaves / nunca estas (ver main)
         self.lock = threading.Lock()
 
     def pegar(self, n, so_curta, evitar=()):
         with self.lock:
-            lote = []
-            for k in self.chaves:
-                if k in self.pegas or k in self.feitas or k in evitar or k in self.fora:
-                    continue
-                if self.so is not None and k not in self.so:
-                    continue
-                if so_curta and (prioridade(k)[1] == 'narrativas' or len(self.work[k]['en']) > INTERFACE_CURTA):
-                    continue
-                lote.append(k)
-                self.pegas.add(k)
-                if len(lote) == n:
-                    break
+            lote = self._pegar(n, so_curta, evitar)
+            # Reserva acabou: pede mais (os modelos só de interface curta não ampliam, senão reservariam tudo).
+            if not lote and not so_curta and self.so is None and self.reservar:
+                novas = self.reservar(RESERVA_APIS)
+                if novas:
+                    self.chaves += novas
+                    lote = self._pegar(n, so_curta, evitar)
             return lote
+
+    def _pegar(self, n, so_curta, evitar):
+        lote = []
+        for k in self.chaves:
+            if k in self.pegas or k in self.feitas or k in evitar or k in self.fora:
+                continue
+            if self.so is not None and k not in self.so:
+                continue
+            if so_curta and (prioridade(k)[1] == 'narrativas' or len(self.work[k]['en']) > INTERFACE_CURTA):
+                continue
+            lote.append(k)
+            self.pegas.add(k)
+            if len(lote) == n:
+                break
+        return lote
 
     def devolver(self, chaves, feitas):
         with self.lock:
@@ -266,21 +242,10 @@ def omni_no_ar():
         return False
 
 
-def lotes_locais():
-    return sorted(LOCAL_DIR.glob('src_lote*.json'))
-
-
-def saida_local(src):
-    return src.with_name(src.stem.replace('src_', 'out_', 1) + '_hymt2.json')
-
-
-def iniciar_local(src):
-    """Deixa o `ptbr.py local` rodando sozinho: sem console e sem handles herdados, ele continua se a fila
-    ou a janela do Iniciar-Traducao.bat fecharem. A saída vai para o log que ele mesmo abre (--log)."""
-    out = saida_local(src)
-    log_path = out.with_suffix('.log')
-    cmd = [sys.executable, '-u', str(Path(ptbr.__file__)), 'local', '--src', str(src), '--out', str(out),
-           '--log', str(log_path)]
+def iniciar_local():
+    """Deixa o `ptbr.py local --continuo` rodando sozinho: sem console e sem handles herdados, ele continua se a
+    fila ou a janela do Iniciar-Traducao.bat fecharem. A saída vai para o log que ele mesmo abre (--log)."""
+    cmd = [sys.executable, '-u', str(Path(ptbr.__file__)), 'local', '--continuo', '--log', str(ptbr.LOCAL_LOG)]
     flags = getattr(subprocess, 'DETACHED_PROCESS', 0) | getattr(subprocess, 'CREATE_NEW_PROCESS_GROUP', 0)
     # CREATE_BREAKAWAY_FROM_JOB tira o local do job do `uv run`; se o job não permitir, roda sem ele.
     for extra in (getattr(subprocess, 'CREATE_BREAKAWAY_FROM_JOB', 0), 0):
@@ -292,27 +257,25 @@ def iniciar_local(src):
             erro = e
     else:
         raise erro
-    return f'`local` iniciado (pid {proc.pid}) em {src.name}; log em {log_path.name}'
+    return f'`local --continuo` iniciado (pid {proc.pid}); log em {ptbr.LOCAL_LOG.name}'
 
 
 def etapa_local(work, simular, hymt2_no_ar):
-    """Junta as ok=true do Hy-MT2, cria o próximo lote se o atual acabou e garante o `local` rodando.
+    """Junta as ok=true de todos os lotes do Hy-MT2 e garante um `local --continuo` vivo.
 
-    Devolve (reservadas, falhas, linhas): chaves do lote local ainda sem saída (as APIs não mexem nelas),
-    chaves que o Hy-MT2 devolveu com ok=false (vão para as APIs) e o resumo para log e relatório."""
-    LOCAL_DIR.mkdir(parents=True, exist_ok=True)
-    reservadas, falhas, juntar, por_lote = set(), [], {}, {}
-    for src in lotes_locais():
-        out_path = saida_local(src)
-        out = json.loads(out_path.read_text(encoding='utf-8')) if out_path.exists() else {}
-        for k in json.loads(src.read_text(encoding='utf-8')):
+    Devolve (falhas, linhas): chaves que o Hy-MT2 devolveu com ok=false (vão para as APIs) e o resumo para log
+    e relatório. As chaves dos lotes sem saída continuam do local (claimed_keys), e as APIs não as pegam."""
+    ptbr.LOCAL_DIR.mkdir(parents=True, exist_ok=True)
+    falhas, juntar, sem_saida = [], {}, {}
+    for src in ptbr.local_batches():
+        out = ptbr.read_json(ptbr.batch_output(src), {})
+        for k in ptbr.read_json(src, {}):
             e = work.get(k)
             if e is None or e.get('pt'):
                 continue
             o = out.get(k)
             if o is None:
-                reservadas.add(k)
-                por_lote[src] = por_lote.get(src, 0) + 1
+                sem_saida[src.name] = sem_saida.get(src.name, 0) + 1
             elif o.get('ok') and ptbr.local_judge(e['en'], o.get('pt', '')):
                 juntar[k] = o
             else:
@@ -326,29 +289,24 @@ def etapa_local(work, simular, hymt2_no_ar):
     elif juntar:
         linhas.append(f'merge (simulado): {len(juntar)} ok=true a juntar')
     linhas.append(f'ok=false para as APIs: {len(falhas)}')
+    linhas.append(f'linhas do local ainda sem saída: {sum(sem_saida.values())} {sem_saida}')
 
-    if not reservadas:
-        src = LOCAL_DIR / f'src_lote{len(lotes_locais()) + 1:03d}.json'
-        ja_falhou = set(falhas)
-        chaves = [k for k in pendentes(work) if k not in ja_falhou][:LOTE_LOCAL]
-        if chaves and not simular:
-            src.write_text(json.dumps({k: {'ch': work[k]['ch'], 'en': work[k]['en'], 'pt': ''} for k in chaves},
-                                      ensure_ascii=False, indent=1), encoding='utf-8')
-            reservadas, por_lote = set(chaves), {src: len(chaves)}
-        linhas.append(f'novo lote {src.name}: {len(chaves)} entradas' + (' (simulado)' if simular else ''))
-
-    rodando = [s for s in lotes_locais() if ptbr.local_running(saida_local(s))]
-    a_fazer = [s for s in lotes_locais() if por_lote.get(s)]
-    if rodando:
-        linhas.append(f'`local` já rodando em {rodando[0].name}')
-    elif a_fazer:
-        if not hymt2_no_ar:
-            linhas.append('lote local parado até o Hy-MT2 voltar')
-        elif not simular:
-            linhas.append(iniciar_local(a_fazer[0]))
-    linhas.append(f'reservadas para o Hy-MT2 (fora das APIs): {len(reservadas)} '
-                  + str({s.name: n for s, n in por_lote.items()}))
-    return reservadas, falhas, linhas
+    if ptbr.local_running():
+        linhas.append('`local` já rodando; não inicio outro')
+    elif not hymt2_no_ar:
+        linhas.append('local parado até o Hy-MT2 voltar')
+    elif simular:
+        linhas.append('`local --continuo` seria iniciado (simulado)')
+    else:
+        # Reserva o próximo lote antes de iniciar, para o Hy-MT2 (principal) ficar com o topo da fila.
+        src = None if sem_saida else ptbr.new_local_batch()
+        if src:
+            linhas.append(f'novo lote {src.name}')
+        if sem_saida or src:
+            linhas.append(iniciar_local())
+        else:
+            linhas.append('sem pendentes livres para o local')
+    return falhas, linhas
 
 
 def relatorio(caminho, hoje, stats, fila, inicio, merge_txt, validate_txt, local_linhas, servidores):
@@ -404,9 +362,9 @@ def main():
     args = ap.parse_args()
 
     hoje = dt.date.today().isoformat()
-    saida_dir = FILA_DIR / hoje
+    saida_dir = ptbr.FILA_DIR / hoje
     saida_dir.mkdir(parents=True, exist_ok=True)
-    log = (FILA_DIR / 'fila.log').open('a', encoding='utf-8')
+    log = (ptbr.FILA_DIR / 'fila.log').open('a', encoding='utf-8')
     def registrar(msg):
         linha = f'{dt.datetime.now():%Y-%m-%d %H:%M:%S} {msg}'
         print(linha)
@@ -414,7 +372,7 @@ def main():
         log.flush()
 
     # Saídas de rodadas anteriores que não chegaram ao merge (queda no meio) entram antes de montar a fila.
-    antigas = sorted(str(p) for p in FILA_DIR.glob('*/*.json'))
+    antigas = sorted(str(p) for p in ptbr.FILA_DIR.glob('*/*.json'))
     if antigas and not args.simular:
         registrar('merge de saídas anteriores: ' + capturar(ptbr.cmd_merge, argparse.Namespace(files=antigas)).strip())
 
@@ -433,12 +391,18 @@ def main():
     if not omni_ok:
         modelos = []
     work = ptbr.load_work()
-    reservadas, falhas, local_linhas = set(), [], ['etapa local pulada (--sem-local)']
+    falhas, local_linhas = [], ['etapa local pulada (--sem-local)']
     if not args.sem_local:
-        reservadas, falhas, local_linhas = etapa_local(work, args.simular, hymt2_ok)
+        falhas, local_linhas = etapa_local(work, args.simular, hymt2_ok)
     for l in local_linhas:
         registrar('Hy-MT2: ' + l)
-    fila = Fila(work, args.limite, primeiras=falhas, excluir=reservadas)
+    if args.simular or not modelos:
+        donos = ptbr.claimed_keys()
+        livres = [k for k in pendentes(work) if k not in donos]
+        fila = Fila(work, livres[:args.limite] if args.limite else livres, primeiras=falhas)
+    else:
+        fila = Fila(work, ptbr.reserve_for_apis(args.limite or RESERVA_APIS), primeiras=falhas,
+                    reservar=None if args.limite else ptbr.reserve_for_apis)
     grupos = {}
     for m in modelos:
         grupos.setdefault(m.get('cota') or m['id'], []).append(m)
@@ -446,11 +410,18 @@ def main():
     for k in fila.chaves:
         nome = prioridade(k)[1]
         resumo[nome] = resumo.get(nome, 0) + 1
-    registrar(f'fila: {len(fila.chaves)} entradas {resumo}')
+    registrar(f'fila das APIs: {len(fila.chaves)} entradas reservadas {resumo} (amplia de {RESERVA_APIS} em '
+              f'{RESERVA_APIS} se acabar)')
     registrar('grupos de cota: ' + '; '.join(f"{g}: {', '.join(m['id'] for m in ms)}" for g, ms in grupos.items()))
     if args.simular:
         return 0
+    try:
+        return rodar(args, hoje, saida_dir, registrar, modelos, grupos, fila, falhas, local_linhas, servidores)
+    finally:
+        ptbr.release_api_reserve()
 
+
+def rodar(args, hoje, saida_dir, registrar, modelos, grupos, fila, falhas, local_linhas, servidores):
     glossary = json.loads((ptbr.GLOSS_DIR / 'glossario.json').read_text(encoding='utf-8'))
     stats = {m['id']: {'pedidos': 0, 'entradas': 0, 'ok_false': 0, 'faltando': 0, 'segundos': 0.0, 'tokens': {},
                        'erros': []} for m in modelos}
@@ -486,7 +457,7 @@ def main():
     merge_txt = capturar(ptbr.cmd_merge, argparse.Namespace(files=arquivos)) if arquivos else 'nada a juntar\n'
     validate_txt = capturar(ptbr.cmd_validate, argparse.Namespace(report=str(ptbr.REPO / 'traducao/validacao.txt')))
     validate_txt += capturar(ptbr.cmd_build, argparse.Namespace())
-    rel = FILA_DIR / f'relatorio-{hoje}.md'
+    rel = ptbr.FILA_DIR / f'relatorio-{hoje}.md'
     relatorio(rel, hoje, stats, fila, inicio, merge_txt, validate_txt, local_linhas, servidores)
     registrar(f'relatório: {rel}')
     return 0

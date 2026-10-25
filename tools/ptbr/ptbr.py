@@ -1,6 +1,7 @@
 """Pipeline da tradução PT-BR de LocalText: extract (dump de runtime -> traducao/), validate, build (-> ModAssets)."""
 import argparse
 import collections
+import contextlib
 import json
 import os
 import re
@@ -10,7 +11,8 @@ import unicodedata
 import urllib.request
 from pathlib import Path
 
-REPO = Path(__file__).resolve().parents[2]
+# MODTOI_REPO aponta para outra cópia (o teste do local contínuo usa um diretório temporário).
+REPO = Path(os.environ.get('MODTOI_REPO') or Path(__file__).resolve().parents[2])
 GAME_DIR = Path(os.environ.get('GAME_DIR', r'C:\Games\Tale of Immortal'))
 MOD_ID = '6b2SYs'
 KIT_JSON = GAME_DIR / 'Mod/modFQA/配置修改教程/配置（只读）Json格式/LocalText.json'
@@ -85,11 +87,36 @@ def load_dump(path):
     return dump
 
 
+def write_json_atomic(path, data):
+    """Grava num .tmp e troca: o local e a fila leem os arquivos um do outro e não podem ver JSON pela metade."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + '.tmp')
+    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
+    for attempt in range(50):
+        try:
+            os.replace(tmp, path)
+            return
+        except PermissionError:  # Windows: o outro processo está lendo o arquivo neste instante
+            time.sleep(0.1)
+    os.replace(tmp, path)
+
+
+def read_json(path, default=None):
+    for attempt in range(50):
+        try:
+            return json.loads(Path(path).read_text(encoding='utf-8'))
+        except FileNotFoundError:
+            return default
+        except (PermissionError, ValueError):
+            time.sleep(0.1)
+    return json.loads(Path(path).read_text(encoding='utf-8'))
+
+
 def load_work():
     work = {}
     if WORK_DIR.exists():
         for f in sorted(WORK_DIR.glob('*.json')):
-            for key, entry in json.loads(f.read_text(encoding='utf-8')).items():
+            for key, entry in read_json(f, {}).items():
                 work[key] = entry
     return work
 
@@ -101,8 +128,7 @@ def save_work(work):
         by_cat[names[key]][key] = work[key]
     WORK_DIR.mkdir(parents=True, exist_ok=True)
     for cat, entries in by_cat.items():
-        (WORK_DIR / f'{cat}.json').write_text(
-            json.dumps(entries, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
+        write_json_atomic(WORK_DIR / f'{cat}.json', entries)
     for f in WORK_DIR.glob('*.json'):
         if f.stem not in by_cat:
             f.unlink()
@@ -142,6 +168,41 @@ def cmd_extract(args):
     by_cat = save_work(work)
     print(f'dump: {len(dump)} chaves | novas: {added} | en atualizado: {updated} (traduzidas a revisar: {changed})')
     print(f'{len(work)} entradas em {len(by_cat)} arquivos em {WORK_DIR.relative_to(REPO)}')
+
+
+# Prioridade por prefixo de chave (a primeira que casar vale). O que não casar entra como "interface (resto)",
+# antes das narrativas. A fila e o `local --continuo` montam os lotes nesta ordem.
+PRIORIDADES = [
+    ('configurações', ('setting_', 'gameSetting_', 'shezhi_', 'game_', 'diff', 'login_', 'defaultKeys',
+                       'mobilePaper_', 'gameLevel_')),
+    ('botões', ('tiaoguo', 'ditu', 'gaiming', 'map_', 'task_', 'ui_', 'common_', 'careerTime', 'log_riqi', 'system_')),
+    ('reinos', ('role_grade', 'D_role_grade', 'upGrade')),
+    ('status', ('player_', 'playerInfo_', 'PlayerInfo_', 'role_hobby_name', 'role_character_name', 'role_race',
+                'schoolPostName', 'npcInfo_')),
+    ('nomes de item', ('item_name', 'itemType_', 'item_type_name', 'item_clickToUse', 'item_useType')),
+    ('Olho da Providência', ('GodEyeSkills_name', 'intoGame_text', 'battle_unit_name', 'potmonRace')),
+    ('artefatos', ('artifactShape_', 'artifact_', 'artifactSprite')),
+    ('reputação', ('role_reputation',)),
+]
+NARRATIVA = ('drama_dialogue', 'drama_option', 'item_desc', 'startGameTipDesc', 'taskDesc', 'SchoolTaskAllotTaskDesc',
+             'fateStoryDesc', 'role_feature', 'spriteTalent', 'skill_attack_desc', 'prefixDescS', 'AppellationTitle',
+             'item_book_desc', 'effect_desc', 'effect_value_desc', 'potmonSkillLifeDesc', 'GodEyeSkills_desc')
+NAO_TRADUZIR = ('school_name_first', 'school_name_second')  # ver glossario/decisoes.md
+
+
+def prioridade(key):
+    if key.startswith(NARRATIVA):
+        return len(PRIORIDADES) + 1, 'narrativas'
+    for i, (nome, prefixos) in enumerate(PRIORIDADES):
+        if key.startswith(prefixos):
+            return i, nome
+    return len(PRIORIDADES), 'interface (resto)'
+
+
+def pendentes(work):
+    return sorted((k for k, e in work.items()
+                   if not e.get('pt') and e['en'].strip() and not k.startswith(NAO_TRADUZIR)),
+                  key=lambda k: (prioridade(k)[0], k))
 
 
 GLOSS_REASON = 'glossário: '
@@ -589,47 +650,131 @@ def pid_alive(pid):
     return code.value == 259  # STILL_ACTIVE
 
 
-def local_running(out_path):
-    """True se já há um `local` gravando nesta saída (arquivo .pid ao lado dela)."""
-    pid_file = Path(out_path).with_suffix('.pid')
-    try:
-        return pid_alive(int(pid_file.read_text()))
-    except (OSError, ValueError):
-        return False
+# Reservas: cada entrada pendente tem no máximo um dono (um lote do local ou a reserva da fila em curso).
+# Só a fila escreve em traducao/LocalText (merge/validate/build); o local só lê e grava em traducao/auto/local.
+AUTO_DIR = REPO / 'traducao/auto'
+FILA_DIR = AUTO_DIR / 'fila'
+# Fora de FILA_DIR: o merge de saídas antigas lê FILA_DIR/*/*.json e não pode pegar os src_lote (pt vazio).
+LOCAL_DIR = AUTO_DIR / 'local'
+API_RESERVE = FILA_DIR / 'reserva_apis.json'
+CLAIMS_LOCK = AUTO_DIR / 'reservas.lock'
+LOCAL_PID = LOCAL_DIR / 'local.pid'
+LOCAL_LOG = LOCAL_DIR / 'local.log'
+LOCAL_BATCH = int(os.environ.get('PTBR_LOTE_LOCAL', 500))
 
 
-def cmd_local(args):
-    if args.log:
-        # Iniciado pela fila sem console nem handles herdados: a saída vai direto para o log.
-        sys.stdout = sys.stderr = open(args.log, 'a', encoding='utf-8', buffering=1)
-    model = local_alive()
-    if model != LOCAL_ID:
-        print(f'Hy-MT2 não está no ar em {LOCAL_URL} (resposta: {model or "nenhuma"}). '
-              f'Rode {LOCAL_START} e espere ~1 min para o modelo carregar.')
-        return 2
-    out_path = Path(args.out)
-    if local_running(out_path):
-        print(f'já há um processo gravando em {out_path}; não rodo dois ao mesmo tempo')
-        return 2
-    src = json.loads(Path(args.src).read_text(encoding='utf-8'))
-    out = json.loads(out_path.read_text(encoding='utf-8')) if out_path.exists() else {}
-    todo = [k for k, v in src.items()
-            if not (v.get('pt') or '').strip() and (v.get('en') or '').strip() and k not in out]
-    if args.limit:
-        todo = todo[:args.limit]
-    glossary = load_glossary('glossario.json')
-    print(f'{len(todo)} linhas a traduzir ({len(out)} já na saída) com {LOCAL_MODEL}')
+@contextlib.contextmanager
+def claims_lock():
+    """Trava entre processos para reservar entradas; o sistema solta sozinho se o dono morrer."""
+    CLAIMS_LOCK.parent.mkdir(parents=True, exist_ok=True)
+    with open(CLAIMS_LOCK, 'a+b') as f:
+        if os.name == 'nt':
+            import msvcrt
+            while True:
+                f.seek(0)
+                try:
+                    msvcrt.locking(f.fileno(), msvcrt.LK_NBLCK, 1)
+                    break
+                except OSError:
+                    time.sleep(0.2)
+            try:
+                yield
+            finally:
+                f.seek(0)
+                msvcrt.locking(f.fileno(), msvcrt.LK_UNLCK, 1)
+        else:
+            import fcntl
+            fcntl.flock(f, fcntl.LOCK_EX)
+            try:
+                yield
+            finally:
+                fcntl.flock(f, fcntl.LOCK_UN)
 
-    def save():
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding='utf-8')
 
-    pid_file = out_path.with_suffix('.pid')
-    pid_file.parent.mkdir(parents=True, exist_ok=True)
-    pid_file.write_text(str(os.getpid()))
-    n_ok = n_bad = n_err = in_a_row = 0
-    server_gone = False
-    start = time.time()
+def local_batches():
+    return sorted(LOCAL_DIR.glob('src_lote*.json'))
+
+
+def batch_output(src):
+    return src.with_name(src.stem.replace('src_', 'out_', 1) + '_hymt2.json')
+
+
+def claimed_keys():
+    """Entradas com dono: as de qualquer lote local, as de saídas de API ainda não juntadas e a reserva da fila viva."""
+    keys = set()
+    for src in local_batches():
+        keys.update(read_json(src, {}))
+    for out in FILA_DIR.glob('*/*.json'):
+        keys.update(read_json(out, {}))
+    reserve = read_json(API_RESERVE)
+    if reserve and pid_alive(reserve.get('pid', 0)):
+        keys.update(reserve.get('chaves', []))
+    return keys
+
+
+def new_local_batch(n=None):
+    """Reserva para o Hy-MT2 as próximas pendentes livres e grava LOCAL_DIR/src_loteNNN.json; None se não houver."""
+    with claims_lock():
+        work = load_work()
+        taken = claimed_keys()
+        keys = [k for k in pendentes(work) if k not in taken][:n or LOCAL_BATCH]
+        if not keys:
+            return None
+        nums = [int(m.group(1)) for m in (re.search(r'(\d+)', b.stem) for b in local_batches()) if m]
+        src = LOCAL_DIR / f'src_lote{max(nums, default=0) + 1:03d}.json'
+        write_json_atomic(src, {k: {'ch': work[k]['ch'], 'en': work[k]['en'], 'pt': ''} for k in keys})
+        return src
+
+
+def reserve_for_apis(n):
+    """Reserva para as APIs da fila em curso mais n pendentes livres (acumula na reserva deste processo)."""
+    with claims_lock():
+        work = load_work()
+        reserve = read_json(API_RESERVE)
+        mine = set(reserve['chaves']) if reserve and reserve.get('pid') == os.getpid() else set()
+        taken = claimed_keys() | mine
+        keys = [k for k in pendentes(work) if k not in taken][:n]
+        write_json_atomic(API_RESERVE, {'pid': os.getpid(), 'chaves': sorted(mine | set(keys))})
+        return keys
+
+
+def release_api_reserve():
+    with claims_lock():
+        reserve = read_json(API_RESERVE)
+        if reserve and reserve.get('pid') == os.getpid():
+            API_RESERVE.unlink(missing_ok=True)
+
+
+def local_running(out_path=None):
+    """Com out_path: há um `local` gravando nessa saída (.pid ao lado dela). Sem: há algum `local` vivo em LOCAL_DIR
+    (o contínuo, LOCAL_PID, ou um avulso num lote de lá)."""
+    pid_files = [Path(out_path).with_suffix('.pid')] if out_path else [LOCAL_PID] + list(LOCAL_DIR.glob('*.pid'))
+    for pid_file in pid_files:
+        try:
+            if pid_alive(int(pid_file.read_text())):
+                return True
+        except (OSError, ValueError):
+            pass
+    return False
+
+
+class LocalStats:
+    def __init__(self):
+        self.ok = self.bad = self.err = self.in_a_row = 0
+        self.start = time.time()
+
+    @property
+    def done(self):
+        return self.ok + self.bad
+
+    def line(self):
+        rate = self.done / max((time.time() - self.start) / 60, 1e-9)
+        return f'{self.done} traduzidas | {rate:.1f} linhas/min | ok {self.ok} | ok=false {self.bad} | erros {self.err}'
+
+
+def translate_batch(src, out_path, todo, glossary, stats, tried):
+    """Traduz `todo` (chaves de src) gravando em out_path. Devolve 'fim', 'servidor' (KoboldCpp fechou) ou 'erros'."""
+    out = read_json(out_path, {})
     try:
         for i, key in enumerate(todo, 1):
             en = src[key]['en']
@@ -641,39 +786,94 @@ def cmd_local(args):
             except Exception as e:  # noqa: BLE001 - registra e segue; a linha fica para a próxima rodada
                 if local_alive() != LOCAL_ID:
                     # KoboldCpp fechado (para liberar a placa): para sem contar erro; a linha não foi gravada.
-                    server_gone = True
                     print(f'{i}/{len(todo)} Hy-MT2 fechado no meio; parando. Retome com o mesmo comando ou pela fila.',
                           flush=True)
-                    break
-                n_err += 1
-                in_a_row += 1
+                    return 'servidor'
+                stats.err += 1
+                stats.in_a_row += 1
+                tried.add(key)
                 print(f'{i}/{len(todo)} ERRO {key}: {str(e)[:200]}', flush=True)
-                if in_a_row >= LOCAL_MAX_ERRORS:
+                if stats.in_a_row >= LOCAL_MAX_ERRORS:
                     print(f'parando: {LOCAL_MAX_ERRORS} erros seguidos')
-                    break
+                    return 'erros'
                 continue
-            in_a_row = 0
+            stats.in_a_row = 0
             # O modelo apara espaços e quebras das pontas; devolve as do en para não contar como marcador perdido.
             lead, trail = en[:len(en) - len(en.lstrip())], en[len(en.rstrip()):]
             pt = normalize_punct(en, lead + pt.strip() + trail)
             ok = local_judge(en, pt, finish)
             out[key] = {'pt': pt, 'ok': ok, 'model': LOCAL_MODEL}
-            n_ok += ok
-            n_bad += not ok
+            stats.ok += ok
+            stats.bad += not ok
             print(f'{i}/{len(todo)} {"ok" if ok else "ok=false"} {time.time() - t0:.1f}s {key}', flush=True)
-            if (n_ok + n_bad) % LOCAL_SAVE_EVERY == 0:
-                save()
-                rate = (n_ok + n_bad) / ((time.time() - start) / 60)
-                print(f'-- {n_ok + n_bad}/{len(todo)} | {rate:.1f} linhas/min | ok {n_ok} | ok=false {n_bad} | erros {n_err}',
-                      flush=True)
+            if stats.done % LOCAL_SAVE_EVERY == 0:
+                write_json_atomic(out_path, out)
+                print(f'-- {out_path.name}: {stats.line()}', flush=True)
+        return 'fim'
     finally:
-        save()
+        write_json_atomic(out_path, out)
+
+
+def next_local_batch(tried):
+    """O lote local mais antigo com linhas sem saída (fora as que deram erro nesta execução), senão um novo."""
+    work = load_work()
+    for src_path in local_batches():
+        src = read_json(src_path, {})
+        out = read_json(batch_output(src_path), {})
+        todo = [k for k in src if k not in out and k not in tried and not (work.get(k) or {}).get('pt')]
+        if todo:
+            return src_path, todo
+    src_path = new_local_batch()
+    return (src_path, list(read_json(src_path, {}))) if src_path else (None, [])
+
+
+def cmd_local(args):
+    if args.log:
+        # Iniciado pela fila sem console nem handles herdados: a saída vai direto para o log.
+        sys.stdout = sys.stderr = open(args.log, 'a', encoding='utf-8', buffering=1)
+    if not args.continuo and not (args.src and args.out):
+        print('use --src e --out, ou --continuo')
+        return 2
+    model = local_alive()
+    if model != LOCAL_ID:
+        print(f'Hy-MT2 não está no ar em {LOCAL_URL} (resposta: {model or "nenhuma"}). '
+              f'Rode {LOCAL_START} e espere ~1 min para o modelo carregar.')
+        return 2
+    in_local_dir = bool(args.out) and Path(args.out).resolve().parent == LOCAL_DIR.resolve()
+    if local_running(None if args.continuo else args.out) or (in_local_dir and local_running()):
+        print('já há um `local` rodando; não rodo dois ao mesmo tempo')
+        return 2
+    stats, tried = LocalStats(), set()
+    pid_file = LOCAL_PID if args.continuo else Path(args.out).with_suffix('.pid')
+    pid_file.parent.mkdir(parents=True, exist_ok=True)
+    pid_file.write_text(str(os.getpid()))
+    status = 'fim'
+    try:
+        if not args.continuo:
+            src_path, out_path = Path(args.src), Path(args.out)
+            src, out = read_json(src_path, {}), read_json(out_path, {})
+            todo = [k for k, v in src.items()
+                    if not (v.get('pt') or '').strip() and (v.get('en') or '').strip() and k not in out]
+            if args.limit:
+                todo = todo[:args.limit]
+            print(f'{len(todo)} linhas a traduzir ({len(out)} já na saída) com {LOCAL_MODEL}')
+            status = translate_batch(src, out_path, todo, load_glossary('glossario.json'), stats, tried)
+        else:
+            print(f'{time.strftime("%Y-%m-%d %H:%M:%S")} local contínuo (pid {os.getpid()}), lotes de {LOCAL_BATCH}')
+            while status == 'fim':
+                src_path, todo = next_local_batch(tried)
+                if not src_path:
+                    print('sem pendentes livres; fim do local contínuo')
+                    break
+                out_path = batch_output(src_path)
+                print(f'{time.strftime("%Y-%m-%d %H:%M:%S")} {src_path.name}: {len(todo)} linhas', flush=True)
+                # Glossário relido a cada lote: mudanças valem sem reiniciar.
+                status = translate_batch(read_json(src_path, {}), out_path, todo, load_glossary('glossario.json'),
+                                         stats, tried)
+    finally:
         pid_file.unlink(missing_ok=True)
-    minutes = (time.time() - start) / 60
-    done = n_ok + n_bad
-    print(f'resumo: {done} traduzidas em {minutes:.1f} min ({done / minutes if minutes else 0:.1f} linhas/min) | '
-          f'ok {n_ok} | ok=false {n_bad} | erros {n_err} | faltam {len(todo) - done} | saída: {out_path}')
-    return 3 if server_gone else 1 if in_a_row >= LOCAL_MAX_ERRORS else 0
+    print(f'resumo: {stats.line()} | parada: {status}', flush=True)
+    return {'fim': 0, 'erros': 1, 'servidor': 3}[status]
 
 
 def main():
@@ -690,9 +890,12 @@ def main():
     p = sub.add_parser('merge', help='traz saídas do omni_translate (chave -> {pt, ok, model}) para traducao/')
     p.add_argument('files', nargs='+')
     p = sub.add_parser('local', help='traduz com o Hy-MT2 local (KoboldCpp) um arquivo chave -> {ch, en, pt}; retomável')
-    p.add_argument('--src', required=True)
-    p.add_argument('--out', required=True)
+    p.add_argument('--src')
+    p.add_argument('--out')
     p.add_argument('--limit', type=int, default=0)
+    p.add_argument('--continuo', action='store_true',
+                   help='lote atrás de lote em traducao/auto/local, reservando as próximas pendentes, até acabar '
+                        'ou o KoboldCpp fechar')
     p.add_argument('--log', help='grava a saída neste arquivo (usado quando a fila inicia o local em segundo plano)')
     args = ap.parse_args()
     cmds = {'extract': cmd_extract, 'validate': cmd_validate, 'build': cmd_build, 'glossario': cmd_glossario,
