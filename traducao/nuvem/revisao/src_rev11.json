@@ -1,0 +1,5145 @@
+{
+ "schoolWar_hufuzhong": {
+  "en": "Recovering",
+  "ch": "恢复中",
+  "pt": "Recuperando-se"
+ },
+ "schoolWar_jisha": {
+  "en": "Attack",
+  "ch": "击杀",
+  "pt": "Ataque"
+ },
+ "schoolWar_kanzhanchangxinxi": {
+  "en": "View battlefield info",
+  "ch": "可以查看战场信息",
+  "pt": "Visualizar informações do campo de batalha"
+ },
+ "schoolWar_keyiguanbi": {
+  "en": "Can be Closed",
+  "ch": "可以关闭",
+  "pt": "Pode ser fechado"
+ },
+ "schoolWar_meikong": {
+  "en": "War has been declared to the opponent!",
+  "ch": "已经向对方宣战了！",
+  "pt": "A guerra foi declarada ao adversário!"
+ },
+ "schoolWar_mingzi": {
+  "en": "Name",
+  "ch": "名字",
+  "pt": "Nome"
+ },
+ "schoolWar_newSchoolMemberTip": {
+  "en": "Disciples who choose to stay have joined the branch, and will separate from the Main Sect.",
+  "ch": "选择留下的弟子加入分舵，将脱离总舵。",
+  "pt": "Os Discípulos que optaram por ficar se uniram à Seita, separando-se da Seita Principal."
+ },
+ "schoolWar_newSchoolMemberTitle": {
+  "en": "Leave Disciples behind",
+  "ch": "留下弟子",
+  "pt": "Deixem os Discípulos para trás."
+ },
+ "schoolWar_ok": {
+  "en": "Declared war on {0}",
+  "ch": "对{0}发起宣战成功",
+  "pt": "Declarou guerra a {0}"
+ },
+ "schoolWar_paiming": {
+  "en": "Ranking",
+  "ch": "排名",
+  "pt": "Classificação"
+ },
+ "schoolWar_quekou": {
+  "en": "Array Hole",
+  "ch": "大阵缺口",
+  "pt": "Buraco na Formação"
+ },
+ "schoolWar_rongmao": {
+  "en": "Appearance",
+  "ch": "容貌",
+  "pt": "Aparência"
+ },
+ "schoolWar_shenshouxuanyun": {
+  "en": "Stunned Guardian",
+  "ch": "神兽晕眩中",
+  "pt": "Guardião Atônito"
+ },
+ "schoolWar_shenshouzhanchang": {
+  "en": "Guardian Battle",
+  "ch": "神兽战场",
+  "pt": "Batalha dos Guardiões"
+ },
+ "schoolWar_shi": {
+  "en": "Soldier",
+  "ch": "士",
+  "pt": "Soldado"
+ },
+ "schoolWar_shiqitisi": {
+  "en": "Disciples can accumulate morale after defeating an enemy, and can deal {0}% of max HP in damage to the enemy's Sect Leader when the morale bar is full.",
+  "ch": "弟子击败敌人后可积累士气，士气条累计满后可对敌方宗主造成最大生命的{0}%伤害",
+  "pt": "Os Discípulos podem acumular moral após derrotar um inimigo, e quando a barra de moral estiver cheia, podem causar {0}% do HP máximo em dano ao Líder da Seita inimigo."
+ },
+ "schoolWar_tip": {
+  "en": "<color=red>{0}</color> is active. All disciples focus your attacks on it!",
+  "ch": "现在生门为<color=red>{0}</color>请弟子们全力攻击",
+  "pt": "<color=red>{0}</color> está ativo. Todos os discípulos devem colocar o foco de seus ataques nele!"
+ },
+ "schoolWar_tip1": {
+  "en": "Defeat the Guardians quickly or the enemy's array will annihilate all invaders",
+  "ch": "请尽快击败神兽，否则敌方大阵恢复将剿灭所有进犯之人",
+  "pt": "Derrote os Guardiões rapidamente; caso contrário, a formação inimiga aniquilará todos os invasores."
+ },
+ "schoolWar_waibuzhanchang": {
+  "en": "Outer Battlefield",
+  "ch": "外部战场",
+  "pt": "Campo de Batalha Externo"
+ },
+ "schoolWar_wodeziyuan": {
+  "en": "Our Resources",
+  "ch": "我方资源",
+  "pt": "Nossos Recursos"
+ },
+ "schoolWar_xuanzhefangjian_tip1": {
+  "en": "Current target: Select an inner battlefield to commence attack.",
+  "ch": "当前目标：选择一处内部战场进行攻破",
+  "pt": "Alvo atual: Selecione um campo de batalha interno para iniciar o ataque."
+ },
+ "schoolWar_xuanzhefangjian_tip2": {
+  "en": "Current target: Select an external battlefield to commence attack.",
+  "ch": "当前目标：选择一处外部战场进行攻破",
+  "pt": "Alvo atual: Selecione um campo de batalha externo para iniciar o ataque."
+ },
+ "schoolWar_xuanzhefangjian_tip3": {
+  "en": "Initiates and Disciples, please remain in the outer battlefield to open up the way for the Elders.",
+  "ch": "内外门弟子请留在外部战场为长老们打开通道",
+  "pt": "Discípulos e iniciados, por favor, permaneçam no campo de batalha externo para abrir o caminho para os Anciãos."
+ },
+ "schoolWar_zaicidianji": {
+  "en": "Click Again",
+  "ch": "再次点击",
+  "pt": "Clique Novamente"
+ },
+ "schoolWar_zhan": {
+  "en": "Battle",
+  "ch": "战",
+  "pt": "Batalha"
+ },
+ "schoolWar_zhanchangxinxi": {
+  "en": "Battlefield Info",
+  "ch": "战场信息",
+  "pt": "Informações do Campo de Batalha"
+ },
+ "schoolWar_zhangong": {
+  "en": "Battle Contribution",
+  "ch": "战功",
+  "nomes": {
+   "Battle Contribution": "Contribuição de Batalha"
+  },
+  "pt": "Contribuição na Batalha"
+ },
+ "schoolWar_zhenyantupo": {
+  "en": "Break Array Core",
+  "ch": "阵眼突破",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Quebrar o Núcleo da Formação"
+ },
+ "schoolWar_ziyuan": {
+  "en": "Sect resources",
+  "ch": "宗门资源",
+  "pt": "Recursos da Seita"
+ },
+ "school_renwunandu5": {
+  "en": "<r>Hell</r>",
+  "ch": "<r>地狱</r>",
+  "pt": "<r>Inferno</r>"
+ },
+ "school_renwunandu6": {
+  "en": "<r>Hell</r>",
+  "ch": "<r>地狱</r>",
+  "pt": "<r>Inferno</r>"
+ },
+ "school_renwushengwang": {
+  "en": "Reputation",
+  "ch": "声望",
+  "pt": "Reputação"
+ },
+ "school_renwushuoming": {
+  "en": "Info:",
+  "ch": "任务说明：",
+  "pt": "Informações:"
+ },
+ "school_renwuzuobiao": {
+  "en": "Location: {0} (Distance: {1})",
+  "ch": "任务坐标：{0}（距你{1}格）",
+  "pt": "Localização: {0} (Distância: {1})"
+ },
+ "school_renzhitishi1": {
+  "en": "Total Contribution while in position {0} must reach {1}",
+  "ch": "任职{0}累计贡献需要达到{1}",
+  "pt": "A Contribuição total enquanto na posição {0} deve atingir {1}."
+ },
+ "school_renzhitishi2": {
+  "en": "Reputation while in position {0} must reach {1}",
+  "ch": "任职{0}声望需要达到{1}",
+  "pt": "A Reputação, enquanto na posição {0}, deve atingir {1}."
+ },
+ "school_rongyudizi": {
+  "en": "Honored Disciple",
+  "ch": "荣誉弟子",
+  "pt": "Discípulo Ilustre"
+ },
+ "school_rumendizi": {
+  "en": "Novice",
+  "ch": "入门弟子",
+  "pt": "Iniciante"
+ },
+ "school_ruzong": {
+  "en": "Apply",
+  "ch": "申请入宗",
+  "pt": "Aplicar"
+ },
+ "school_ruzongtiaojian": {
+  "en": "Requirements",
+  "ch": "入宗条件",
+  "pt": "Requisitos"
+ },
+ "school_school1": {
+  "en": "Friendly Sect",
+  "ch": "友好宗门",
+  "pt": "Seita Amigável"
+ },
+ "school_school2": {
+  "en": "Hostile Sect",
+  "ch": "敌对宗门",
+  "pt": "Seita hostil"
+ },
+ "school_selectMax": {
+  "en": "Select a maximum of {0} Disciple(s) for the battle",
+  "ch": "最多选择{0}名出战弟子",
+  "pt": "Selecione no máximo {0} Discípulo(s) para a batalha."
+ },
+ "school_selectStudent": {
+  "en": "Select Disciple(s)",
+  "ch": "选择弟子",
+  "pt": "Selecione o(s) Discípulo(s)"
+ },
+ "school_tiaozhantiaojian4": {
+  "en": "After meeting all the requirements below, True Disciple Disciples can challenge Promotion Duel (Elder)",
+  "ch": "（真传弟子满足以下所有条件，即可挑战长老小比）",
+  "pt": "Após atender a todos os requisitos abaixo, os Discípulos Verdadeiros podem participar do Duelo de Promoção (Ancião)."
+ },
+ "school_tiaozhantiaojian5": {
+  "en": "After meeting all the requirements below, Elders can challenge Promotion Duel (Grand Elder)",
+  "ch": "（长老满足以下所有条件，即可挑战大长老小比）",
+  "pt": "Após cumprir todos os requisitos abaixo, os Anciãos podem participar do Duelo de Promoção (Grão-Ancião)."
+ },
+ "school_tiaozhantiaojian6": {
+  "en": "Can't be promoted to Sect Leader",
+  "ch": "（不可晋升为宗主）",
+  "pt": "Não é possível ser promovido a Líder da Seita"
+ },
+ "school_tishi": {
+  "en": "Greetings, {0}!\nHave you been actively completing Sect Missions?\nSect Contribution is extremely useful, you hear?\n<color=#000000>Sect Missions are reset once every {1} months.\nEach sect member can accept up to 5 missions at a time.</color>",
+  "ch": "原来是{0}小友啊，\n可要多做宗门任务啊，\n宗门贡献可是非常珍贵的哦！\n<color=#000000>宗门任务每{1}个月刷新一次。\n同时最多领取5个任务。</color>",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "Saudações, {0}!  \nVocê tem completado ativamente as Missões da Seita?  \nA Contribuição para a Seita é muito útil, entendeu?  \n<color=#000000>As Missões da Seita são redefinidas a cada {1} meses.  \nCada membro da seita pode aceitar até 5 missões por vez.</color>"
+ },
+ "school_tishi1": {
+  "en": "Select the skills you want to upgrade",
+  "ch": "选择要修习的技能",
+  "pt": "Selecione as habilidades que você deseja melhorar."
+ },
+ "school_tishi2": {
+  "en": "Upgrading the skills above to VIII requires",
+  "ch": "将以上技能修习至大成需要",
+  "pt": "Para melhorar as habilidades acima para o nível VIII, é necessário"
+ },
+ "school_tuichutishi": {
+  "en": "Leave {0}?\nYou won't be able to join this sect again for {1} months, and all your Sect Contribution will be cleared!",
+  "ch": "确认退出{0}宗门吗？\n{1}个月内不可重新加入此宗门，并且宗门贡献全部清空！",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "Deixar {0}?\nVocê não poderá entrar nessa seita novamente por {1} meses, e toda a sua Contribuição para a seita será zerada!"
+ },
+ "school_tuichuzongmen": {
+  "en": "You left the sect: {0}!",
+  "ch": "已退出{0}宗门！",
+  "pt": "Você deixou a seita: {0}!"
+ },
+ "school_tuizong": {
+  "en": "Leave",
+  "ch": "申请退宗",
+  "pt": "Sair"
+ },
+ "school_weikaifang": {
+  "en": "Coming soon!",
+  "ch": "暂未开放！",
+  "pt": "Em breve!"
+ },
+ "school_weikaifangzhiwei": {
+  "en": "This branch is not open for this position!",
+  "ch": "本分舵未开放此职位！",
+  "pt": "Esta filial não está aberta para esta vaga!"
+ },
+ "school_woderenwu": {
+  "en": "My Missions",
+  "ch": "我的任务",
+  "pt": "Minhas Missões"
+ },
+ "school_wodezhiwei": {
+  "en": "My Position:",
+  "ch": "我的职位：",
+  "pt": "Minha posição:"
+ },
+ "school_wodezhiwei2": {
+  "en": "My Position",
+  "ch": "我的职位",
+  "pt": "Minha posição"
+ },
+ "school_xiaohao": {
+  "en": "Spirit Stone Cost",
+  "ch": "消耗灵石",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "Custo da Pedra Espiritual"
+ },
+ "school_xiaohaogongxian": {
+  "en": "Contribution Cost",
+  "ch": "消耗贡献",
+  "pt": "Custo da Contribuição"
+ },
+ "school_xinfa": {
+  "en": "Mind Skill",
+  "ch": "心法",
+  "pt": "Técnica Mental"
+ },
+ "school_xinqingbuzu": {
+  "en": "Mood too low",
+  "ch": "心情不足",
+  "pt": "Humor muito baixo"
+ },
+ "school_xiulianchenggong": {
+  "en": "Cultivation completed!",
+  "ch": "修炼成功！",
+  "pt": "Cultivo concluído!"
+ },
+ "school_xiuliantishi": {
+  "en": "Use the Spirit Pavilion to quickly increase your EXP.",
+  "ch": "灵阁可以快速提升你的修为。",
+  "pt": "Use o Pavilhão do Espírito para aumentar rapidamente seu EXP."
+ },
+ "school_xiulianwancheng": {
+  "en": "Cultivation completed!",
+  "ch": "修炼完成！",
+  "pt": "Cultivo concluído!"
+ },
+ "school_xiulianzhong": {
+  "en": "Upgrading {0}...",
+  "ch": "{0}修炼中......",
+  "pt": "Atualizando {0}..."
+ },
+ "school_xiuxijineng": {
+  "en": "Upgrade",
+  "ch": "修习技能",
+  "pt": "Atualização"
+ },
+ "school_xuanzezhenchuan": {
+  "en": "Select a True Disciple to challenge",
+  "ch": "选择你要挑战的真传弟子",
+  "pt": "Selecione um Discípulo verdadeiro para desafiar."
+ },
+ "school_xuanzeziyuan": {
+  "en": "Select Sect resources to carry. The Canoe has a capped carrying capacity for resources used to revive disciples.",
+  "ch": "选择携带宗门资源，用于战斗时复活弟子的资源，飞舟有携带的上限。",
+  "pt": "Selecione os recursos da Seita que deseja levar. A Canoa tem uma capacidade limitada para transportar recursos usados na ressurreição dos discípulos."
+ },
+ "school_xueshang": {
+  "en": "雪山秘境",
+  "ch": "雪山秘境",
+  "pt": "Refúgio nas Montanhas Neves"
+ },
+ "school_xunzhaojueji": {
+  "en": "Search for Special Skills",
+  "ch": "寻找绝技",
+  "pt": "Procurar por Técnicas Especiais"
+ },
+ "school_xunzhaoshenfa": {
+  "en": "Search for Motion Skills",
+  "ch": "寻找身法",
+  "pt": "Busque por Técnicas de Movimento"
+ },
+ "school_xunzhaowuji": {
+  "en": "Search for Martial Skills",
+  "ch": "寻找武技",
+  "pt": "Procure por Técnicas Marciais"
+ },
+ "school_xunzhaoxinfa": {
+  "en": "Search for Mind Skills",
+  "ch": "寻找心法",
+  "pt": "Procure por Técnicas Mentais"
+ },
+ "school_xuqiutiaojian": {
+  "en": "Requirements",
+  "ch": "需求条件",
+  "pt": "Requisitos"
+ },
+ "school_yibaoming": {
+  "en": "Signed up!",
+  "ch": "已报名！",
+  "pt": "Cadastrado!"
+ },
+ "school_yibaominganniu": {
+  "en": "Signed up",
+  "ch": "已报名",
+  "pt": "Cadastrado"
+ },
+ "school_yiduihuan": {
+  "en": "Redeemed",
+  "ch": "已兑换",
+  "pt": "Resgatado"
+ },
+ "school_yongyoulingdi": {
+  "en": "Territories Owned",
+  "ch": "拥有领地",
+  "pt": "Territórios Possuídos"
+ },
+ "school_yongyouziyuan": {
+  "en": "Resources Owned",
+  "ch": "拥有资源",
+  "pt": "Recursos Possuídos"
+ },
+ "school_zhanlingok": {
+  "en": "Resource point captured",
+  "ch": "成功占领资源点",
+  "pt": "Ponto de recurso capturado"
+ },
+ "school_zhengmo": {
+  "en": "Faction: ",
+  "ch": "正魔状态：",
+  "pt": "Facção: "
+ },
+ "school_zhengzhiqibuzu": {
+  "en": "正之气不足",
+  "ch": "正之气不足",
+  "pt": "Energia vital insuficiente"
+ },
+ "school_zhifashi": {
+  "en": "Sect Clerk",
+  "ch": "宗门执事",
+  "pt": "Secretário da Seita"
+ },
+ "school_zhiwei": {
+  "en": "Position: ",
+  "ch": "职位：",
+  "pt": "Posição: "
+ },
+ "school_zhiweijingsheng": {
+  "en": "Promoted to {0}!",
+  "ch": "职位成功晋升为{0}！",
+  "pt": "Promovido para {0}!"
+ },
+ "school_zhiwutishi": {
+  "en": "Now that you are an Elder, you can reallocate the positions of your Disciples. Do you want to select a few Disciples to become your True Disciples? (Reallocate the positions of your subordinates on the Positions tab at any time)",
+  "ch": "你现在成为长老了，能调整自己属下弟子的职务，是否需要挑选几个弟子成为你的真传弟子？（你随时可以在职务界面调整自己下属的职务）",
+  "pt": "Agora que você é um Ancião, pode reatribuir as posições dos seus Discípulos. Deseja selecionar alguns Discípulos para se tornarem seus Verdadeiros Discípulos? (Você pode reatribuir as posições de seus subordinados na aba \"Posições\" a qualquer momento.)"
+ },
+ "school_zhixu": {
+  "en": "Stability:",
+  "ch": "宗门秩序：",
+  "pt": "Estabilidade:"
+ },
+ "school_zhongzhi": {
+  "en": "Sect Purpose",
+  "ch": "宗门宗旨",
+  "pt": "Propósito da Seita"
+ },
+ "school_zhunrujianzu": {
+  "en": "Accessible Buildings",
+  "ch": "准入建筑",
+  "pt": "Edifícios acessíveis"
+ },
+ "school_ziyuanbuzu": {
+  "en": "There's little resource left there. It's meaningless to attack it now",
+  "ch": "资源点剩余资源不多，再筹备进攻也毫无意义",
+  "pt": "Quase não restam recursos lá. Não faz sentido atacá-lo agora."
+ },
+ "school_zizhi": {
+  "en": "Stat",
+  "ch": "资质",
+  "pt": "Estatísticas"
+ },
+ "school_zongmengongxian": {
+  "en": "Total Sect Contribution",
+  "ch": "累计宗门贡献",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "Contribuição Total da Seita"
+ },
+ "school_zongmenmifa": {
+  "en": "宗门秘法",
+  "ch": "宗门秘法",
+  "pt": "Técnicas secretas da seita"
+ },
+ "school_zongmenqinmidu": {
+  "en": "Sect Affinity",
+  "ch": "宗门亲密度",
+  "pt": "Afinidade entre Seitas"
+ },
+ "school_zongmenrizhi1": {
+  "en": "{0} Backup Disciples went on {1} Missions,\nand {2} Backup Disciples perished.",
+  "ch": "{0}名记名弟子执行{1}任务，\n{2}名记名弟子不幸陨落。",
+  "pt": "{0} Discípulos de Reserva participaram de {1} Missões, \ne {2} Discípulos de Reserva pereceram."
+ },
+ "school_zongmenrizhi2": {
+  "en": "{0} Backup Disciples went on {1} Missions and there were no deaths.",
+  "ch": "{0}名记名弟子执行{1}任务，无人死亡。",
+  "pt": "{0} Os Discípulos de Backup participaram de {1} Missões, e não houve mortes."
+ },
+ "school_zongmentezhi": {
+  "en": "Sect Traits",
+  "ch": "宗门特质",
+  "pt": "Características da Seita"
+ },
+ "school_zongmentuijianxin": {
+  "en": "Sect Recommendation Letter",
+  "ch": "宗门推荐信",
+  "nomes": {
+   "Sect Recommendation Letter": "Carta de Recomendação da Seita"
+  },
+  "pt": "Carta de Recomendação da Seita"
+ },
+ "school_zuishaoxiedai": {
+  "en": "Min Amount Carried",
+  "ch": "最少携带",
+  "pt": "Valor mínimo a ser carregado"
+ },
+ "schoollibrary_bookUpdateTip1": {
+  "en": "　　The higher the Sect Prestige, the better and more Manuals the Manual Library produces!",
+  "ch": "　　宗门名誉越高，藏经阁刷出的秘籍数量越多，品质也越高！",
+  "pt": "　　Quanto maior o Prestígio da Seita, melhor e mais Manuais a Biblioteca de Manuais será capaz de produzir!"
+ },
+ "schoollibrary_bookUpdateTip2": {
+  "en": "　　The higher the number of Spirit Stones used by the Sect, the higher the number of Manuals that appear when exchanging in the Manual Library.",
+  "ch": "　　宗门支出的灵石数量越多，则在置换时藏经阁中出现的秘籍数量越多。",
+  "pt": "　　Quanto maior o número de Pedras Espirituais utilizadas pela Seita, maior será o número de Manuais que aparecem ao realizar trocas na Biblioteca de Manuais."
+ },
+ "schoollibrary_nowStudyTip": {
+  "en": "Sect Leader's Main Martial Arts: {0}",
+  "ch": "宗门当前主修功法为{0}",
+  "pt": "Artes Marciais Principais do Líder da Seita: {0}"
+ },
+ "schoolpost_challengeElders": {
+  "en": "Positions that can be challenged",
+  "ch": "可挑战职位",
+  "pt": "Posições que podem ser contestadas"
+ },
+ "schoolpost_challengeTip0": {
+  "en": "1. Each challenge <r>costs</r> {0} Sect Contribution.",
+  "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献。",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "1. Cada desafio <r>tem um custo</r> de {0} Contribuição da Seita."
+ },
+ "schoolpost_challengeTip3": {
+  "en": "1. This may significantly <r>decrease</r> Affinity of the NPC and their True Disciples.\n2. <r>Cost: {0} Sect Contribution</r>.",
+  "ch": "1.挑战行为可能大幅度<r>降低</r>对方及其真传弟子的亲密度。\n2.每次挑战需<r>消耗</r>{0}点宗门贡献。",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "1. Isso pode reduzir significativamente a <r>Afinidade</r> do NPC e de seus Verdadeiros Discípulos.  \n2. <r>Custo: {0} Contribuição para a Seita</r>."
+ },
+ "schoolpost_challengeTip4": {
+  "en": "1. Each challenge <r>costs</r> {0} Sect Contribution",
+  "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "1. Cada desafio <r>tem um custo</r> de {0} Contribuição da Seita."
+ },
+ "schoolpost_challengeTip5": {
+  "en": "1. Each challenge <r>costs</r> {0} Sect Contribution",
+  "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "1. Cada desafio <r>tem um custo</r> de {0} Contribuições da Seita."
+ },
+ "schoolpost_chuancheng": {
+  "en": "Tradition Effect",
+  "ch": "传承效果",
+  "pt": "Efeito da Tradição"
+ },
+ "schoolpost_levelNeed": {
+  "en": "Realm Reached",
+  "ch": "境界到达",
+  "pt": "Reino Alcançado"
+ },
+ "schoolpost_linggenzige": {
+  "en": "Any one Skill Stat below reaches {0}",
+  "ch": "以下任意战斗资质到达{0}",
+  "pt": "Basta que uma qualquer Aptidão Marcial atinja {0}."
+ },
+ "schoolpost_notChoose": {
+  "en": "Choose the Elder you want to challenge",
+  "ch": "请先选择你要挑战的长老",
+  "pt": "Escolha o Ancião que você quer desafiar."
+ },
+ "schoolpost_renke": {
+  "en": "Tradition recognized {0} as Sect Leader",
+  "ch": "传承认可{0}为本宗宗主",
+  "pt": "A tradição reconheceu {0} como Líder da Seita"
+ },
+ "schoolpost_schoolmainExitTip": {
+  "en": "The Sect Leader cannot withdraw from the sect at a Branch. They can only withdraw at the Main Sect.",
+  "ch": "宗主不可在分舵退宗，只能在总舵退宗。",
+  "pt": "O Líder da Seita não pode se retirar da seita em uma filial; ele só pode se retirar na Seita Principal."
+ },
+ "schoolpost_schoolmainGetMoney": {
+  "en": "The sect leader can only receive their stipend at the main headquarters.",
+  "ch": "",
+  "pt": "O líder da seita só pode receber seu subsídio na sede principal."
+ },
+ "schoolpost_tiaozhan": {
+  "en": "Challenge",
+  "ch": "挑战",
+  "pt": "Desafio"
+ },
+ "schoolpost_unlockTitle": {
+  "en": "Unlock Feature",
+  "ch": "解锁功能",
+  "pt": "Desbloquear recurso"
+ },
+ "schoolpost_unlockaction1": {
+  "en": "1. Can start a Sect war.\n2. Can trigger plot to activate Sect Tradition when requirements to become Sect Leader has been met.\n3. Can acquire Sect Tradition.\n4. Can acquire Sect resources for free.\n5. Can redeploy all Sect Disciples.\n6. Can allocate Sect Missions.\n7. Can relocate Sect.\n8. Can change the Main Martial Arts of the Sect.\n9. Receive a certain amount of Spirit Stones a month in wages.",
+  "ch": "1. 可发起宗门战。\n2. 达成成为宗主的需求可触发剧情开启宗门传承。\n3. 可获得宗门传承。\n4. 可免费获得宗门的资源。\n5. 可调配全宗弟子。\n6. 可分配全宗任务。\n7. 可迁移宗门。\n8. 可修改宗门主修功法。\n9. 每月可获得一定数量的灵石作为俸禄。",
+  "pt": "1. Pode iniciar uma guerra entre Seitas.  \n2. Pode desencadear a missão para ativar a Tradição da Seita quando os requisitos para tornar-se Líder da Seita forem atendidos.  \n3. Pode adquirir a Tradição da Seita.  \n4. Pode obter recursos da Seita gratuitamente.  \n5. Pode redirecionar todos os Discípulos da Seita.  \n6. Pode atribuir Missões para a Seita.  \n7. Pode realocar a Seita para outro local.  \n8. Pode alterar as Artes Marciais principais da Seita.  \n9. Recebe uma certa quantidade de Pedras Espirituais por mês como remuneração."
+ },
+ "schoolpost_unlockaction2": {
+  "en": "1. Can only take up higher Sect Missions.\n2. Can start a looting battle and resource takeover war.\n3. Can assign disciple Missions.\n4. Can start battles for resource points.\n5. Receive a certain amount of Spirit Stones a month in wages.",
+  "ch": "1. 只可接取宗门更高级任务。\n2. 可发动掠夺战及资源占领战。\n3. 可分配弟子任务。\n4. 可发动资源点争夺战。\n5. 每月可获得一定数量的灵石作为俸禄。",
+  "pt": "1. Só pode aceitar Missões de níveis mais altos da Seita.  \n2. Pode iniciar uma batalha de saque e uma guerra de tomada de recursos.  \n3. Pode atribuir Missões aos discípulos.  \n4. Pode iniciar batalhas visando a obtenção de pontos de recursos.  \n5. Recebe uma quantidade determinada de Pedras Espirituais por mês como pagamento."
+ },
+ "schoolpost_unlockaction3": {
+  "en": "1. Can take up higher Sect Missions.\n2. Can assign disciple Missions.\n3. Can suggest battles for resource points.\n4. Receive a certain amount of Spirit Stones a month in wages.",
+  "ch": "1. 可接取宗门高级任务。\n2. 可分配弟子任务。\n3. 可提议争夺资源点。\n4. 每月可获得一定数量的灵石作为俸禄。",
+  "pt": "1. Pode aceitar Missões de nível superior da Seita.  \n2. Pode atribuir Missões aos discípulos.  \n3. Pode sugerir batalhas para obtenção de pontos de recursos.  \n4. Recebe uma quantia determinada de Pedras Espirituais por mês como pagamento."
+ },
+ "schoolpost_unlockaction4": {
+  "en": "1. Can become the Apprentice of the Elder when you are not a relative of them.\n2. May take on Missions that have even more generous rewards than Disciple Missions.\n3. Receive a certain amount of Spirit Stones a month in wages.",
+  "ch": "1. 当不是长老的亲属时可成为长老的徒弟。\n2. 可接取比内门弟子任务奖励更丰厚的任务。\n3. 每月可获得一定数量的灵石作为俸禄。",
+  "pt": "1. Pode tornar-se o Aprendiz do Ancião, caso não seja parente dele.  \n2. Pode aceitar Missões que oferecem recompensas ainda mais generosas do que as Missões de Discípulo.  \n3. Recebe uma certa quantidade de Pedras Espirituais por mês como pagamento."
+ },
+ "schoolpost_unlockaction5": {
+  "en": "1. May take on Missions that have even more generous rewards than initiate Missions.\n2. Can Receive a certain amount of Spirit Stones a month in wages.",
+  "ch": "1. 可接取比外门弟子奖励更丰厚的任务。\n2. 每月可获得一定数量的灵石作为俸禄。",
+  "pt": "1. Pode aceitar Missões que oferecem recompensas ainda mais generosas do que as Missões iniciais.  \n2. Pode receber uma certa quantidade de Pedras Espirituais por mês como pagamento."
+ },
+ "schoolpost_unlockaction6": {
+  "en": "1. Can enter the Sect building.\n2. Can receive Initiate Missions.\n3. Receive a certain amount of Spirit Stones a month in wages.",
+  "ch": "1. 可进入宗门建筑。\n2. 可接取外门弟子任务。\n3. 每月可获得一定数量的灵石作为俸禄。",
+  "pt": "1. Pode entrar no edifício da Seita.  \n2. Pode receber Missões para iniciantes.  \n3. Recebe uma determinada quantidade de Pedras Espirituais por mês como pagamento."
+ },
+ "schoolpost_updateBigElderDesc": {
+  "en": "When the position is vacant, defeat others in the competition to win first place.\nWhen the Sect position is occupied by a Grand Elder, you need to take on both the Grand Elder and Disciples and win.",
+  "ch": "当职务空缺时在比试中战胜其他竞争者获得第一名。\n当宗门职务已经有大长老担任时需同时对阵大长老及其弟子并获得胜利。",
+  "pt": "Quando a vaga está disponível, derrote outros na competição para conquistar o primeiro lugar.  \nQuando o cargo na Seita é ocupado por um Grão-Ancião, você precisa enfrentar tanto o Grão-Ancião quanto os Discípulos e sair vitorioso."
+ },
+ "schoolpost_updateElderDesc": {
+  "en": "When the position is vacant, defeat others in the competition to win first place.\nWhen the Sect position is occupied by an Elder, you need to take on both the Elder and all their True Disciples and win.",
+  "ch": "当职务空缺时在比试中战胜其他竞争者获得第一名。\n当宗门职务已经有长老担任时需同时对阵长老及其所有真传弟子并获得胜利。",
+  "pt": "Quando a vaga estiver disponível, derrote outros na competição para conquistar o primeiro lugar.\nQuando o cargo na Seita for ocupado por um Ancião, você precisará enfrentar tanto o Ancião quanto todos os seus verdadeiros Discípulos e sair vitorioso."
+ },
+ "schoolpost_updatePostDesc01": {
+  "en": "Defeat the Shadow of Traditions to become the Sect Leader.",
+  "ch": "挑战传承副本，战胜传承虚影后可获得传承的认可并成为宗主",
+  "pt": "Derrote a Sombra das Tradições para se tornar o Líder da Seita."
+ },
+ "schoolpost_updatePostDesc11": {
+  "en": "When someone in the Sect has met the requirements to become a Sect Leader, the Sect Tradition will follow the legacy of the original Sect Leader and assess and judge that person. This process may take several months and is not definitive, but only those with a solid state of mind will be qualified to challenge the Sect Tradition. Ultimately, only those who have received the approval of the Sect Tradition can become {1}.",
+  "ch": "当宗内有人满足了成为宗主的要求后，宗门传承便会遵循初代宗主的遗志，考核评判此人。这个过程可能需要数月，并无定数，但只有心境稳固之人才可获得挑战宗门传承的资格。最终，只有得到宗门传承的认可，才可成为{1}。",
+  "pt": "Quando alguém na Seita atende aos requisitos para tornar-se Líder da Seita, a Tradição da Seita segue o legado do Líder original e avalia e julga essa pessoa. Esse processo pode levar vários meses e não é definitivo; contudo, apenas aqueles com uma mente firme se qualificam para desafiar a Tradição da Seita. Por fim, somente quem receber a aprovação da Tradição da Seita poderá tornar-se {1}."
+ },
+ "schoolpost_updatePostDesc21": {
+  "en": "Challenge and defeat the <r>empowered</r> Grand Elder to be promoted to {1}.",
+  "ch": "挑战大长老，并战胜服用丹药<r>大幅提升</r>体力上限的大长老才可晋升{1}。",
+  "pt": "Desafie e derrote o <r>fortalecido</r> Grão-Ancião para ser promovido a {1}."
+ },
+ "schoolpost_updatePostDesc31": {
+  "en": "Challenge and defeat <r>the Elder and their True Disciples</r> to be promoted to {1}.",
+  "ch": "挑战长老，并在本次挑战中<r>依次战胜</r>对方真传弟子及长老本人才可晋升{1}。",
+  "pt": "Desafie e derrote <r>o Ancião e seus Verdadeiros Discípulos</r> para ser promovido a {1}."
+ },
+ "schoolpost_updatePostDesc41": {
+  "en": "Choose an Elder to sign up when competing.\nCompete with the person who signed up and obtain the top two.\n Defeat one of the Elder's True Disciples.",
+  "ch": "比试时选择一位长老报名。\n与报名者竞争并取得前两名。\n战胜长老的一位真传弟子。",
+  "pt": "Escolha um Ancião para se inscrever ao competir.\nCompita com a pessoa que se inscreveu e consiga as duas melhores colocações.\nDerrote um dos Verdadeiros Discípulos do Ancião."
+ },
+ "schoolpost_updatePostDesc51": {
+  "en": "Get <r>first place</r> in the sect duel to be promoted to {1}.",
+  "ch": "在外门小比中战胜其他竞争者获得<r>第一名</r>即可晋升{1}。",
+  "pt": "Consiga <r>o primeiro lugar</r> no duelo da seita para ser promovido a {1}."
+ },
+ "schoolpost_updatePostDesc61": {
+  "en": "Get <r>first to fourth place</r> in the sect duel to be promoted to {1}.",
+  "ch": "入门小比中，战胜其他竞争者获得<r>前四名</r>即可晋升{1}。",
+  "pt": "Consiga ficar entre <r>o primeiro e o quarto lugar</r> no duelo da seita para ser promovido a {1}."
+ },
+ "schoolpost_updatePostTitle": {
+  "en": "Promotion Method",
+  "ch": "晋升方式",
+  "pt": "Método de Promoção"
+ },
+ "scool_yaoqingtishi": {
+  "en": "{0}Without an Elder,\nyou cannot recruit a True Disciple!",
+  "ch": "{0}没有长老\n不可招纳真传弟子！",
+  "pt": "{0}Sem um Ancião,\nvocê não pode recrutar um Verdadeiro Discípulo!"
+ },
+ "selectItem_xuanzhe": {
+  "en": "Select Items",
+  "ch": "选择道具",
+  "pt": "Selecionar Itens"
+ },
+ "selectItem_yixuanzhe": {
+  "en": "Selected ({0}/{1})",
+  "ch": "已选择({0}/{1})",
+  "pt": "Selecionados ({0}/{1})"
+ },
+ "selectItem_yixuanzhezhonglei": {
+  "en": "Type Selected ({0}/{1})",
+  "ch": "已选择种类({0}/{1})",
+  "pt": "Tipo selecionado ({0}/{1})"
+ },
+ "shanchucundang": {
+  "en": "Delete Save",
+  "ch": "删除存档",
+  "pt": "Excluir Salvar"
+ },
+ "shijian_shangren": {
+  "en": "Travel the world to collect treasure! (The Wandering Merchant will leave in {0})",
+  "ch": "游历八荒，收罗宝物！（游荒商人{0}后离开）",
+  "pt": "Viaje pelo mundo para coletar tesouros! (O Comerciante Errante partirá em {0})"
+ },
+ "shuanghu_1": {
+  "en": "Snow Fox Clan",
+  "ch": "霜狐族",
+  "pt": "Clã da Raposa da Neve"
+ },
+ "shuanghu_2": {
+  "en": "Mengyi is the successor of the Snow Fox clan's Huofa faction, with unparalleled talent in phantom spells. Her parents have been busy with wars, so she taught herself everything while waiting for her brother to return from the war to play with her. When she grew into an adult, her mother taught her things that she rather disliked: killing, strategy, war... to make her stronger, and to make sure that the torch is passed on. Mengyi never got used to the battles and the blood, until one day...",
+  "ch": "云梦衣，霜狐族惑法一脉的嫡系之女，身具族中百年罕见的幻术天赋。由于父母长期操劳战事，梦衣只能独自修炼，期盼着戍边归来的哥哥书桐陪她玩耍。成年后，在母亲的教导下，梦衣不得不被灌输那些令她倍感抗拒的事物——杀戮、谋略……这一切，都是为了让她变得更加坚韧，也为了种族能够延续。然而，无论见过多少次，对于战场的血腥与残酷，梦衣都没有一点适应的迹象，直到那天……",
+  "pt": "Mengyi é a sucessora da facção Huofa do clã da Raposa Neve; possui um talento inigualável em feitiços envolvendo fantasmas. Seus pais estiveram sempre envolvidos em guerras, então ela aprendeu tudo sozinha enquanto aguardava o retorno do seu irmão da guerra para brincar com ela. Ao atingir a idade adulta, sua mãe lhe ensinou coisas que ela detestava: como matar, estratégias de guerra... tudo para torná-la mais forte e garantir que o legado do clã fosse perpetuado. Mengyi nunca se acostumou com as batalhas e com o sangue derramado, até que um dia..."
+ },
+ "shuanghu_3": {
+  "en": "I don't want to look like something else.",
+  "ch": "我明明有自己的外表，为什么要变成迎合他人的模样……",
+  "pt": "Eu não quero parecer outra coisa."
+ },
+ "shuanghu_4": {
+  "en": "If my mom asked me to do this, she must have a reason...",
+  "ch": "妈妈让我这么做，那就一定有她的道理，也许吧。",
+  "pt": "Se minha mãe me pediu para fazer isso, ela deve ter um motivo..."
+ },
+ "shuanghu_5": {
+  "en": "This tribe is extremely ferocious for having such a... weak bloodline.",
+  "ch": "此族分明血脉稀薄，竟然还这般凶悍！",
+  "pt": "Essa tribo é extremamente feroz, tendo uma linhagem tão... fraca."
+ },
+ "shuanghu_6": {
+  "en": "This is the first time that I'm really scared of you.",
+  "ch": "哥哥……长这么大，我第一次……有点害怕你……",
+  "pt": "Esta é a primeira vez que tenho realmente medo de você."
+ },
+ "shuanghu_7": {
+  "en": "I have already learned this forbidden technique.",
+  "ch": "这招禁术，我已了然于心……",
+  "pt": "Eu já aprendi essa técnica proibida."
+ },
+ "shuaxincuowu": {
+  "en": "Maximum refreshes reached!",
+  "ch": "达到最大刷新次数！",
+  "pt": "Máximo de atualizações atingido!"
+ },
+ "skillCondition32111": {
+  "en": "Vitality must be lower than (%):",
+  "ch": "需求体力低于(%)：",
+  "pt": "A Vitalidade deve ser menor que (%):"
+ },
+ "skillCondition32112": {
+  "en": "Required Overbearing stacks:",
+  "ch": "需求霸道层数：",
+  "nomes": {
+   "Overbearing": "Dominador"
+  },
+  "pt": "Quantidade necessária de acúmulos de Overbearing:"
+ },
+ "skillCondition33111": {
+  "en": "Required Dragon Soul stacks:",
+  "ch": "需求枪魂层数：",
+  "nomes": {
+   "Dragon Soul": "Alma do Dragão"
+  },
+  "pt": "Quantidade necessária de acúmulos de Alma do Dragão:"
+ },
+ "skillCondition33112": {
+  "en": "Required Spear Shadow stacks:",
+  "ch": "需求枪影数量：",
+  "pt": "Quantidade necessária de acúmulos de Sombra da Lança:"
+ },
+ "skillCondition34111": {
+  "en": "Required Sword Shadow stacks:",
+  "ch": "需求剑影数量：",
+  "nomes": {
+   "Sword Shadow": "Sombra da Espada"
+  },
+  "pt": "Quantidade necessária de acúmulos de Sombra da Espada:"
+ },
+ "skillCondition34112": {
+  "en": "Required Sword Soul stacks:",
+  "ch": "需求剑魂层数：",
+  "nomes": {
+   "Sword Soul": "Alma da Espada"
+  },
+  "pt": "Quantidade necessária de acúmulos de Espada e Alma:"
+ },
+ "skillCondition35111": {
+  "en": "Required Shield Shadow stacks:",
+  "ch": "需求盾影数量：",
+  "pt": "Quantidade necessária de acúmulos de Sombra do Escudo:"
+ },
+ "skillCondition35112": {
+  "en": "Required Boiling Blood stacks:",
+  "ch": "需求沸血层数：",
+  "nomes": {
+   "Boiling Blood": "Sangue Fervente"
+  },
+  "pt": "Quantidade necessária de acúmulos de Sangue fervente:"
+ },
+ "skillCondition36111": {
+  "en": "Required Eternal Rest stacks:",
+  "ch": "需求归神层数：",
+  "nomes": {
+   "Eternal Rest": "Descanso Eterno"
+  },
+  "pt": "Quantidade necessária de acúmulos de Descanso Eterno:"
+ },
+ "skillCondition36112": {
+  "en": "Required Demonic Marks:",
+  "ch": "需求魔印数量：",
+  "pt": "Marcas Demoníacas necessárias:"
+ },
+ "skillCondition37111": {
+  "en": "Required Spiritual Burst stacks:",
+  "ch": "需求灵虚层数：",
+  "nomes": {
+   "Spiritual Burst": "Rajada Espiritual"
+  },
+  "pt": "Quantidade necessária de acúmulos de Espiritual:"
+ },
+ "skillCondition37112": {
+  "en": "Required Pulse stacks:",
+  "ch": "需求脉息数量：",
+  "pt": "Pilhas de pulsos necessárias:"
+ },
+ "skillCondition61111": {
+  "en": "Required Embers:",
+  "ch": "需求火种数量：",
+  "pt": "Braseiros necessários:"
+ },
+ "skillCondition61112": {
+  "en": "Required Fire Deity stacks:",
+  "ch": "需求火神层数：",
+  "nomes": {
+   "Fire Deity": "Divindade do Fogo"
+  },
+  "pt": "Quantidade necessária de acúmulos de Fogo e Divindade:"
+ },
+ "skillCondition62111": {
+  "en": "Required Icy Eye stacks:",
+  "ch": "需求冰眼层数：",
+  "nomes": {
+   "Icy Eye": "Olhar Gélido"
+  },
+  "pt": "Pilhas de Olho Gélido necessárias:"
+ },
+ "skillCondition62112": {
+  "en": "Required Ponds:",
+  "ch": "需求灵湖数量：",
+  "pt": "Lagos necessários:"
+ },
+ "skillCondition63111": {
+  "en": "Required Lightning Marks:",
+  "ch": "需求雷印数量：",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Marcas de Relâmpago obrigatórias:"
+ },
+ "skillCondition63112": {
+  "en": "Required Lightning Punishment stacks:",
+  "ch": "需求雷罚数：",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Quantidade necessária de acúmulos de Punição do Relâmpago:"
+ },
+ "skillCondition64111": {
+  "en": "Required Wind God stacks:",
+  "ch": "需求风神层数：",
+  "nomes": {
+   "Wind God": "Divindade do Vento"
+  },
+  "pt": "Quantidade necessária de acúmulos do Deus do Vento:"
+ },
+ "skillCondition64112": {
+  "en": "Required Bullet Time stacks:",
+  "ch": "需求逆空层数：",
+  "nomes": {
+   "Bullet Time": "Tempo de Bala"
+  },
+  "pt": "Quantidade necessária de acúmulos de Bullet Time:"
+ },
+ "skillCondition65111": {
+  "en": "Required Spiritual Rocks:",
+  "ch": "需求灵岩数量：",
+  "pt": "Pedras Espirituais necessárias:"
+ },
+ "skillCondition66111": {
+  "en": "Required Erosive Poison stacks: ",
+  "ch": "需求毒蚀层数：",
+  "nomes": {
+   "Erosive Poison": "Veneno Erosivo"
+  },
+  "pt": "Quantidade necessária de acúmulos de Veneno Erosivo: "
+ },
+ "skillCondition66112": {
+  "en": "Required Flower Seeds: ",
+  "ch": "需求花种数量：",
+  "pt": "Sementes de flores necessárias: "
+ },
+ "skillDescS102": {
+  "en": "Unleash a circle of blade aura and deal damage to enemies hit. This skill has a chance to steal Vitality from enemies (leeching) and an additional chance to release a second blade aura upon hitting Mythical Beasts or elite enemies.\nSkill Damage: &102_dmg&\nLeech Chance: &102_leechProb&%\nLeech Rate: &102_leechRate&%\nSecond Blade Aura Chance: &102_sub2Prob&%",
+  "ch": "在原地挥出一圈刀光，对范围内的敌人造成伤害，此技能有一定概率吸血，且在击中大妖兽或精英怪时有概率额外斩出一道刀光。\n技能威力：&102_dmg&\n吸血概率：&102_leechProb&%\n吸血比例：&102_leechRate&%\n额外刀光概率：&102_sub2Prob&%",
+  "pt": "Libera um círculo de aura de lâminas, causando dano aos inimigos atingidos. Essa habilidade tem chance de roubar Vitalidade dos inimigos (Chance de Roubo de Vida) e também possui uma chance adicional de liberar uma segunda aura de lâminas ao acertar Feras Míticas ou inimigos de elite.\nDano da Habilidade: &102_dmg&\nChance de Roubo de Vida: &102_leechProb&%\nTaxa de Roubo de Vida: &102_leechRate&%\nChance de Segunda Aura de Lâmina: &102_sub2Prob&%"
+ },
+ "skillDescS103": {
+  "en": "Slash forward a blade aura and deal damage to enemies on its course, executing enemies with low Vitality. Mythical Beasts are immune to execution. This skill has a chance to release an additional blade aura or two consecutive auras upon hitting Mythical Beasts or elite enemies.\nSkill Damage: &103_dmg&\nExecution Threshold: &103_killHp&%\nFirst Blade Aura Chance: &103_sub2Prob&%\nSecond Blade Aura Chance: &103_sub3Prob&%",
+  "ch": "向敌人方向斩下一道刀影，对一条线上的敌人造成伤害，此技能造成伤害时，可直接斩杀体力较低的敌人，此技能在击中大妖兽或精英怪时有概率额外斩出一道刀光，并有小概率额外斩出第二道刀光。（对大妖兽无效）\n技能威力：&103_dmg&\n斩杀线&103_killHp&%\n第一道额外刀光概率：&103_sub2Prob&%\n第二道额外刀光概率：&103_sub3Prob&%",
+  "pt": "Lança uma aura de lâmina para a frente, causando dano aos inimigos em seu caminho; inimigos com baixa Vitalidade são executados. Feras Míticas são imunes à execução. Essa habilidade tem chance de liberar uma aura de lâmina adicional ou até duas auras consecutivas ao atingir Feras Míticas ou inimigos de elite.\nDano da Habilidade: &103_dmg&\nLimiar para Execução: &103_killHp&%\nChance da Primeira Aura de Lâmina: &103_sub2Prob&%\nChance da Segunda Aura de Lâmina: &103_sub3Prob&%"
+ },
+ "skillDescS104": {
+  "en": "Launch blades toward enemies and deal damage to enemies hit. This skill has a chance to steal Vitality from enemies (leeching).\nSkill Damage: &104_dmg&\nBlade Amount: &104_bullet&\nLeech Chance: &104_leechProb&%\nLeech Rate: &104_leechRate&%",
+  "ch": "向敌人方向快速发射刀刃，对命中的敌人造成伤害，此技能有一定概率吸血。\n技能威力：&104_dmg&\n刀刃数量：&104_bullet&\n吸血概率：&104_leechProb&%\n吸血比例：&104_leechRate&%",
+  "pt": "Lance lâminas contra os inimigos, causando dano àqueles atingidos. Esta habilidade tem chance de roubar Vitalidade dos inimigos (chance de roubo de vida).\nDano da Habilidade: &104_dmg&\nQuantidade de Lâminas: &104_bullet&\nChance de Roubo de Vida: &104_leechProb&%\nTaxa de Roubo de Vida: &104_leechRate&%"
+ },
+ "skillDescS1101": {
+  "en": "Throw fireballs toward enemies. Fireballs will explode after landing, with a chance to generate a Fiery Flame.\nSkill Damage: &1101_dmg&\nFire Ball Amount: &1101_num&\nFlame Generation Chance: &1101_fireProb&%",
+  "ch": "向敌人的位置处投掷火球，火球落地后爆开，并有概率生成一团烈焰。\n技能威力：&1101_dmg&\n火球数量：&1101_num&\n烈焰生成概率：&1101_fireProb&%",
+  "pt": "Lance bolas de Fogo contra os inimigos. As bolas de Fogo explodem ao atingir o alvo, tendo uma chance de gerar uma Chama Ardente.\nDano da Habilidade: &1101_dmg&\nQuantidade de Bolas de Fogo: &1101_num&\nChance de Geração de Chama: &1101_fireProb&%"
+ },
+ "skillDescS1102": {
+  "en": "Spit out a flame toward enemies.\nSkill Damage: &1102_dmg&\nDuration: &1102_time&",
+  "ch": "向敌人方向喷射一道火焰。\n技能威力：&1102_dmg&\n持续时间：&1102_time&",
+  "pt": "Lança uma chama contra os inimigos.\nDano da Habilidade: &1102_dmg&\nDuração: &1102_time&"
+ },
+ "skillDescS1103": {
+  "en": "Cover yourself with a Fire Shield, blocking ranged damage. The Shield will expire after a duration or after certain times of blocking. The Fire Shield will also generate a Fiery Flame at the current location after the character moved a certain distance.\nSkill Damage: &1103_dmg&\nFire Shield Duration: &1103_time&s\nShield Blocks: &1103_sumGuard&\nDistance Required to Generate Fiery Flame: &1103_roadSum&",
+  "ch": "生成一个火罩包裹自身（护盾可抵挡远程伤害，持续时间结束或抵挡数次伤害后消失），持续时间内，每移动一定距离可在原地生成一道烈焰。\n技能威力：&1103_dmg&\n火罩持续时间：&1103_time&秒\n火罩可抵挡伤害次数：&1103_sumGuard&\n生成烈焰所需的移动距离：&1103_roadSum&",
+  "pt": "Crie um Escudo de Fogo ao seu redor para bloquear dano de ataques à distância. O Escudo desaparecerá após um período de tempo ou após bloquear um determinado número de ataques. Além disso, o Escudo de Fogo produzirá uma Chama Ardente no local atual após o personagem percorrer uma certa distância.\nDano da Habilidade: &1103_dmg&\nDuração do Escudo de Fogo: &1103_time&s\nQuantidade de ataques bloqueados: &1103_sumGuard&\nDistância necessária para gerar a Chama Ardente: &1103_roadSum&"
+ },
+ "skillDescS1201": {
+  "en": "Create an immobile phantom at a random location around the character. The phantom will launch a ray toward enemies, with a chance to inflict Frost on them.\nSkill Damage: &12011_dmg&\nPhantom Duration: &1201_waterTime&s\nFrost Chance: &1201_waterProb&%\nFrost Slowing: &1201_iceSum&%\nFrost Duration: &1201_iceTime&s",
+  "ch": "往周围随机位置分裂一个幻象，幻象不能移动，可持续向敌人方向发射射线，有概率使敌人霜冻。\n技能威力：&12011_dmg&\n幻象持续时间：&1201_waterTime&秒\n霜冻概率：&1201_waterProb&%\n霜冻减速：&1201_iceSum&%\n霜冻持续时间：&1201_iceTime&秒",
+  "pt": "Cria um fantasma imóvel em uma localização aleatória ao redor do personagem. O fantasma disparará um raio contra os inimigos, com chance de aplicar o efeito de Gelo neles.\nDano da Habilidade: &12011_dmg&\nDuração do Fantasma: &1201_waterTime&s\nChance de Gelo: &1201_waterProb&%\nRedução de velocidade por Gelo: &1201_iceSum&%\nDuração do Efeito de Gelo: &1201_iceTime&s"
+ },
+ "skillDescS1202": {
+  "en": "<o>Stand still to charge</o>, and introduce a Blast at the location of enemies to deal damage, with a chance to inflict Frost on them. The Blast's area of effect will expand with the charging time.\nSkill Damage: &1202_dmg&\nCharging Time: &1202_onTime&s\nMax Radius: &1202_haloRange&\nFrost Chance: &1202_waterProb&\nFrost Slowing: &1201_iceSum&%\nFrost Duration: &1201_iceTime&s",
+  "ch": "<o>站立不动蓄力</o>，蓄力后施放，在敌人的位置处引发一次灵爆（蓄力时间越长，范围越大），对范围内的敌人造成伤害，并有概率使敌人霜冻。\n技能威力：&1202_dmg&\n蓄力时间：&1202_onTime&秒\n最大范围：&1202_haloRange&\n霜冻概率：&1202_waterProb&\n霜冻减速：&1201_iceSum&%\n霜冻持续时间：&1201_iceTime&秒",
+  "pt": "<o>Fique parado para acumular carga</o>, e então libere uma explosão no local onde os inimigos estiverem, causando dano e com chance de aplicar o efeito de Gelo neles. A área de efeito da explosão aumenta conforme o tempo de carga.  \nDano da Habilidade: &1202_dmg&  \nTempo de Carga: &1202_onTime&s  \nRaio Máximo: &1202_haloRange&  \nChance de Gelo: &1202_waterProb&  \nRedução de Velocidade pelo Gelo: &1201_iceSum&%  \nDuração do Efeito de Gelo: &1201_iceTime&s"
+ },
+ "skillDescS1203": {
+  "en": "<o>Stand still to charge</o>, dealing damage to enemies around while drawing their Vitality to heal yourself. The skill's area of effect will expand with the charging time.\nSkill Damage: &1203_dmg&\nCharging Time: &1203_onTime&s\nMax Radius: &1203_haloRange&\nVitality Drawn from Each Enemy: &1203_hpSum&",
+  "ch": "<o>站立不动蓄力</o>，蓄力后施放，吸取一次周围敌人的体力，并对其造成伤害（蓄力时间越长，范围越大）。\n技能威力：&1203_dmg&\n蓄力时间：&1203_onTime&秒\n最大范围：&1203_haloRange&\n每个敌人被吸收的体力：&1203_hpSum&",
+  "pt": "<o>Fique parado para carregar</o>, causando dano aos inimigos ao redor enquanto absorve sua Vitalidade para se curar. A área de efeito da habilidade aumenta conforme o tempo de carga.\nDano da Habilidade: &1203_dmg&\nTempo de Carga: &1203_onTime&s\nRaio Máximo: &1203_haloRange&\nVitalidade Absorvida por Inimigo: &1203_hpSum&"
+ },
+ "skillDescS1301": {
+  "en": "Release a lightning chain that can bounce among enemies.\nSkill Damage: &1301_dmg&\nBounce Times: &1301_catapultNum&",
+  "ch": "向敌人发射一道闪电链，闪电可弹射。\n技能威力：&1301_dmg&\n弹射次数：&1301_catapultNum&",
+  "pt": "Libere uma cadeia de relâmpago que pode ricochetear entre inimigos.\nDano da Habilidade: &1301_dmg&\nNúmero de ricochetes: &1301_catapultNum&"
+ },
+ "skillDescS1302": {
+  "en": "Generate a Lightning Cloud at the current location. The Cloud will follow the character, dealing damage over time to enemies in its area of effect.\nSkill Damage: &1302_dmg&\nCloud Duration: &1302_lightningTime&s",
+  "ch": "在自身位置生成一朵雷云，雷云会始终跟随自身，对范围内的敌人持续造成伤害。\n技能威力：&1302_dmg&\n雷云持续时间：&1302_lightningTime&秒",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Gere uma Nuvem de Relâmpagos no local atual. A nuvem seguirá o personagem, causando dano ao longo do tempo aos inimigos que estiverem na sua área de efeito.\nDano da Habilidade: &1302_dmg&\nDuração da nuvem: &1302_lightningTime&s"
+ },
+ "skillDescS1303": {
+  "en": "Release chasing Lightning Balls forward. The Lightning Balls will bounce among enemies.\nSkill Damage: &1303_dmg&\nLightning Ball Amount: &1303_num&\nBounce Times: &1303_catapultNum&",
+  "ch": "向前发射雷球，雷球会自动追踪敌人，雷球可弹射。\n技能威力：&1303_dmg&\n雷球数量：&1303_num&\n弹射次数：&1303_catapultNum&",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Libera esferas de Relâmpago que avançam para frente. As esferas de Relâmpago ricochetearão entre os inimigos.\nDano da Habilidade: &1303_dmg&\nQuantidade de Esferas de Relâmpago: &1303_num&\nNúmero de Rebotes: &1303_catapultNum&"
+ },
+ "skillDescS1401": {
+  "en": "Summon a whirlwind to circle around yourself, with a chance to knock back affected enemies and a chance to release a Wind Blade when attacking enemies. The Wind Blade may receive bonus damage from advanced Wind skills.\nSkill Damage: &1401_dmg&\nKnock-back Chance: &1401_beatbackProb&\nKnock-back Distance: &1401_beatbackRange&\nWind Blade Chance: &1401_windKnight&%",
+  "ch": "风围绕自己持续转动，有概率对碰到的敌人造成击退，攻击敌人时有概率向敌人发出一道风刃，高级风系技能会加强风刃的威力。\n技能威力：&1401_dmg&\n击退概率：&1401_beatbackProb&\n击退距离：&1401_beatbackRange&\n触发风刃概率：&1401_windKnight&%",
+  "nomes": {
+   "Wind Blade": "Lâmina de Vento"
+  },
+  "pt": "Convoque um redemoinho para girar ao seu redor; ele tem chance de afastar os inimigos atingidos e também de liberar uma Lâmina de Vento ao atacar. Essa Lâmina de Vento pode receber dano adicional caso habilidades avançadas relacionadas ao Vento sejam utilizadas.\nDano da Habilidade: &1401_dmg&\nChance de afastamento: &1401_beatbackProb&\nDistância do afastamento: &1401_beatbackRange&\nChance de gerar Lâmina de Vento: &1401_windKnight&%"
+ },
+ "skillDescS1402": {
+  "en": "Release gale toward enemies, dealing damage over time to enemies affected. The skill's area of effect and damage will increase with time.\nSkill Damage: &1402_dmg&\nGale Duration: &1402_windTime&s",
+  "ch": "向敌人的方向发射一道卷风，对一条线上的敌人持续造成伤害，卷风随时间增加大小和伤害。\n技能威力：&1402_dmg&\n飞沙持续时间：&1402_windTime&秒",
+  "pt": "Emita um vendaval contra os inimigos, causando dano ao longo do tempo àqueles afetados. A área de efeito e o dano da habilidade aumentam com o tempo.\nDano da Habilidade: &1402_dmg&\nDuração do Vendaval: &1402_windTime&s"
+ },
+ "skillDescS1403": {
+  "en": "Create a moving Whirlwind at the location of enemies, with a chance to release a Wind Blade every time when attacking an enemy. The Wind Blade may receive bonus damage from advanced Wind skills.\nSkill Damage: &1403_dmg&\nDuration: &1403_windTime&s\nWind Blade Chance: &1403_windKnight&%",
+  "ch": "在敌人位置生成一道缓慢移动的旋风，攻击敌人时有概率向敌人发出一道风刃，高级风系技能会加强风刃的威力。\n技能威力：&1403_dmg&\n持续时间：&1403_windTime&秒\n触发风刃概率：&1403_windKnight&%",
+  "nomes": {
+   "Wind Blade": "Lâmina de Vento"
+  },
+  "pt": "Crie um Redemoinho móvel no local onde os inimigos se encontram; há uma chance de liberar uma Lâmina de Vento a cada ataque contra um inimigo. A Lâmina de Vento pode receber dano adicional das habilidades avançadas do Vento.  \nDano da Habilidade: &1403_dmg&  \nDuração: &1403_windTime&s  \nChance de gerar Lâmina de Vento: &1403_windKnight&%"
+ },
+ "skillDescS1501": {
+  "en": "Create a Spiritual Rock at a random location. The Rock will move toward you when you get close to it and will grant you a Shield upon touching you. The Rock will also trigger an explosion when it returns to you.\nSkill Damage: &1501_dmg&\nShield HP: &1501_shieldSum&\nShield Duration:&1501_hudunTime&s",
+  "ch": "在随机位置生成一块灵岩，当自身靠近灵岩时，灵岩会快速向自身靠拢，回到自身的位置时为自身增加护盾并对四周发出一次震爆。\n技能威力：&1501_dmg&\n护盾值：&1501_shieldSum&\n护盾持续时间：&1501_hudunTime&秒",
+  "pt": "Crie uma Pedra Espiritual em um local aleatório. A pedra se moverá em sua direção quando você se aproximar, e lhe concederá um Escudo ao tocar em você. Além disso, a pedra causará uma explosão ao retornar para você.\nDano da Habilidade: &1501_dmg&\nHP do Escudo: &1501_shieldSum&\nDuração do Escudo: &1501_hudunTime&s"
+ },
+ "skillDescS1502": {
+  "en": "Summon an explosible Meteor to the enemy's location, dealing damage to enemies in the explosion's area of effect, and spawn an Earth Golem.\nSkill Damage: &1502_dmg&\nEarth Golem Duration: &15021_lifeTime&",
+  "ch": "在敌人的位置处降下一块陨石，爆炸并对范围内的敌人造成伤害，并召唤一个土傀儡。\n技能威力：&1502_dmg&\n土傀儡持续时间：&15021_lifeTime&",
+  "nomes": {
+   "Earth Golem": "Golem de Terra"
+  },
+  "pt": "Invoca um meteoro explosivo no local onde estão os inimigos, causando dano a todos que estiverem na área de efeito da explosão, além de gerar um Golem de Terra.\nDano da Habilidade: &1502_dmg&\nDuração do Golem de Terra: &15021_lifeTime&"
+ },
+ "skillDescS1503": {
+  "en": "Launch a Rolling Stone forward, dealing damage to enemies on its course. Upon reaching its max range, the Stone will transform into an Earth Golem.\nSkill Damage: &1503_dmg&\nEarth Golem Duration: &15021_lifeTime&",
+  "ch": "朝敌人的方向发射一个滚石，对碰撞到的敌人造成伤害，达到最远射程后，滚石变成一个土傀儡。\n技能威力：&1503_dmg&\n土傀儡持续时间：&15021_lifeTime&",
+  "nomes": {
+   "Earth Golem": "Golem de Terra"
+  },
+  "pt": "Lança uma pedra rolante para a frente, causando dano aos inimigos em seu caminho. Ao atingir o alcance máximo, a pedra se transforma em um Golem de Terra.\nDano da Habilidade: &1503_dmg&\nDuração do Golem de Terra: &15021_lifeTime&"
+ },
+ "skillDescS1601": {
+  "en": "Summon a permanent Small Flower Faerie at a random location and boost all Small Flower Faeries in the battlefield with a Blast and bonus Attack Speed.\nFlower Faerie Boosts: &1601_fightingSum&\nMax Flower Faeries: &16011_numSum&",
+  "ch": "在随机位置召唤一只小花妖（永久持续），并永久强化一次场上的小花妖（爆气并小花妖的攻击速度）。\n小花妖可被强化次数：&1601_fightingSum&\n同时可存在的小花妖上限：&16011_numSum&",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores"
+  },
+  "pt": "Invoca uma Fada das Flores Pequena permanente em um local aleatório e aumenta o poder de ataque e a Velocidade de Ataque de todas as Fadas das Flores Pequenas no campo de batalha.\nAumento de Fadas das Flores: &1601_fightingSum&\nNúmero máximo de Fadas das Flores: &16011_numSum&"
+ },
+ "skillDescS1603": {
+  "en": "Summon a Poisonous Plant at a random location. The Plant will explode when enemies get close to it, dealing damage to enemies in its area of effect and inflicting Poisonous Thorn on them. Enemies with Poisonous Thorn will take damage over time.\nSkill Damage: &1603_dmg&\nPoisonous Plant Duration: &1603_lifeTime&s\nPoisonous Thorn Stacks: &1603_telsonSum&\nThorn Damage per Stack: &1603_telsondmg&/s\nPoisonous Thorn Duration: &1603_telsonTime&s",
+  "ch": "在随机位置召唤1只毒株，当有敌人靠近蘑菇时，蘑菇将会自爆，对范围内的敌人造成毒性伤害并施加毒刺，毒刺每秒对敌方造成伤害。\n技能威力：&1603_dmg&\n毒株持续时间：&1603_lifeTime&秒\n自爆施加毒刺层数：&1603_telsonSum&\n每层毒刺伤害：&1603_telsondmg&/秒\n毒刺持续时间：&1603_telsonTime&秒",
+  "nomes": {
+   "Poisonous Thorn": "Espinho Venenoso"
+  },
+  "pt": "Invoca uma Planta Venenosa em um local aleatório. A planta explode quando inimigos se aproximam, causando dano na área de efeito e aplicando o efeito de Espinho Venenoso neles. Inimigos com Espinho Venenoso sofrem dano ao longo do tempo.\nDano da Habilidade: &1603_dmg&\nDuração da Planta Venenosa: &1603_lifeTime&s\nNúmero de acúmulos de Espinho Venenoso: &1603_telsonSum&\nDano por acúmulo do Espinho Venenoso: &1603_telsondmg&/s\nDuração do efeito de Espinho Venenoso: &1603_telsonTime&s"
+ },
+ "skillDescS1604": {
+  "en": "Summon a Small Flower Faerie at a random location and Entangle enemies.\nEntangle Duration: &1604_twineTime&\nFlower Faerie Boosts: &1601_fightingSum&\nMax Flower Faeries: &16011_numSum&",
+  "ch": "在随机位置召唤一只小花妖，并缠绕敌人。\n缠绕时间：&1604_twineTime&\n小花妖可被强化次数：&1601_fightingSum&\n同时可存在的小花妖上限：&16011_numSum&",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores",
+   "Entangle": "Emaranhar"
+  },
+  "pt": "Invoca uma Pequena Fada das Flores em um local aleatório, que emaranha os inimigos.  \nDuração do emaranhamento: &1604_twineTime&  \nAumento fornecido pela Fada das Flores: &1601_fightingSum&  \nNúmero máximo de Fadas das Flores: &16011_numSum&"
+ },
+ "skillDescS201": {
+  "en": "Release spears toward enemies after a short delay, dealing damage to enemies hit and knocking them back. This skill has a chance to reduce enemies' resistance (not stackable).\nSkill Damage: &201_dmg&\nSpear Amount: &201_bullet&\nResistance Reduce Chance: &201_pfrDownProb&%\nResistance Reduce by: &201_pfrDown&\nDuration: &201_pfrDownTime&s",
+  "ch": "向敌人方向连续发射枪影，枪影出现会有短暂的延迟，对命中的敌人造成伤害和击退，此技能有概率降低敌人抗性，不可叠加。\n技能威力：&201_dmg&\n枪影数量：&201_bullet&\n降低抗性概率：&201_pfrDownProb&%\n敌方抗性降低：&201_pfrDown&\n降低抗性持续时间：&201_pfrDownTime&秒",
+  "pt": "Lança lanças contra os inimigos após um curto atraso, causando dano aos alvos atingidos e repelindo-os. Esta habilidade tem chance de reduzir a resistência dos inimigos (efeito não acumulável).\nDano da Habilidade: &201_dmg&\nQuantidade de Lanças: &201_bullet&\nChance de Reduzir Resistência: &201_pfrDownProb&%\nRedução na Resistência: &201_pfrDown&\nDuração: &201_pfrDownTime&s"
+ },
+ "skillDescS202": {
+  "en": "Gain 1 Recharging Point every interval. Consume all Points to create a phantom and make it charge toward the nearest enemy, dealing damage to enemies on its course. Additional Recharging Point spent will grant it extra charges.\nSkill Damage: &202_dmg&\nRecharging Interval: &202_chargePointCD&s\nCharges per Recharging Point: &202_chargeTime&",
+  "ch": "每过一段时间会获得一点充能，使用此技能时可消耗所有充能点，生成一个幻像向离召唤者最近的敌人的方向冲刺，消耗充能点数量越多，幻像额外冲刺次数越多，对途中的敌人造成伤害。\n技能威力：&202_dmg&\n充能时间：&202_chargePointCD&秒\n每点充能点可冲刺次数：&202_chargeTime&",
+  "nomes": {
+   "Recharging": "Recarregando"
+  },
+  "pt": "Ganhe 1 Ponto de Recarga a cada intervalo. Consuma todos os Pontos para criar um Fantasma que se lançará em direção ao inimigo mais próximo, causando dano aos inimigos em seu caminho. Cada Ponto de Recarga adicional gasto concederá cargas extras ao Fantasma.\nDano da Habilidade: &202_dmg&\nIntervalo de Recarga: &202_chargePointCD&s\nCargas por Ponto de Recarga: &202_chargeTime&"
+ },
+ "skillDescS203": {
+  "en": "Release a spear toward enemies. Upon hitting an enemy or reaching max range, the spear will split into several penetrative projectiles, dealing damage to other enemies. This skill has a chance to reduce enemies' resistance (not stackable).\nSkill Damage: &203_dmg&\nSplit Projectiles: &203_subBullet&\nSplit Projectile Range: &203_subRange&\nProjectile Angle: &203_subBulletAngle& Deg.\nResistance Reduce Chance: &203_pfrDownProb&\nResistance Reduce by: &203_pfrDown&\nDuration: &203_pfrDownTime&s",
+  "ch": "向敌人发射一道枪影，枪影在命中敌人或达到最远射程后将分裂成数个可穿透的弹道，对后面的敌人造成伤害，此技能有一定概率降低敌人抗性，不可叠加。\n技能威力：&203_dmg&\n分裂弹道数：&203_subBullet&\n分裂弹道射程：&203_subRange&\n分裂弹道间隔角度：&203_subBulletAngle&度\n降低抗性概率：&203_pfrDownProb&\n敌方抗性降低：&203_pfrDown&\n降低抗性持续时间：&203_pfrDownTime&秒",
+  "pt": "Lança uma lança em direção aos inimigos. Ao atingir um inimigo ou alcançar o alcance máximo, a lança se divide em vários projéteis penetrantes, causando dano a outros inimigos. Esta habilidade tem chance de reduzir a resistência dos inimigos (efeito não acumulativo).\nDano da Habilidade: &203_dmg&\nNúmero de Projéteis Divididos: &203_subBullet&\nAlcance dos Projéteis Divididos: &203_subRange&\nÂngulo dos Projéteis: &203_subBulletAngle& graus.\nChance de Reduzir Resistência: &203_pfrDownProb&\nRedução de Resistência: &203_pfrDown&\nDuração: &203_pfrDownTime& segundos"
+ },
+ "skillDescS21011": {
+  "en": "Change your form into a bird, gaining &21011_evadeSum& Dodge that can exceed the Dodge cap for &21011_skillTime&s. You will be unable to cast skills during it, but the skill will spawn Guardian Birds equal to the amount of allied units on the battlefield, dealing damage to enemies touched.",
+  "ch": "化身为鸟形态，闪避&21011_evadeSum&（可突破上限），期间无法使用任何技能，持续&21011_skillTime&秒。在化身的同时，召唤等同于场上己方单位数量的守护之鸟，守护之鸟会对碰到的敌人造成伤害。",
+  "pt": "Transforme sua forma em um pássaro, ganhando &21011_evadeSum& de Esquiva, que pode ultrapassar o limite máximo de Esquiva por &21011_skillTime&s. Durante esse período, você não poderá usar nenhuma habilidade, mas essa habilidade fará surgir pássaros guardiões na quantidade equivalente ao número de unidades aliadas no campo de batalha; eles causarão dano aos inimigos que tocarem."
+ },
+ "skillDescS210112": {
+  "en": "Release 3 quill blades toward enemies.",
+  "ch": "甩出三根锋利的羽毛攻击敌人。",
+  "pt": "Lance 3 lâminas em direção aos inimigos."
+ },
+ "skillDescS21012": {
+  "en": "King Luhua poises himself into Stasis and becomes invincible but unable to cast skills or move. The skill will generate a Shield equal to your Max Vitality for &21012_hudunTime&s and draw all enemies toward you, then summon a punch from above to deal damage (increases with your Resistance) and Stun your enemies.",
+  "ch": "芦花王释放金身，期间无敌并无法移动和使用技能，自身获得等同于最大体力的护盾，护盾持续&21012_hudunTime&秒，将场上所有敌人向自身快速牵引，并从空中落下一拳造成伤害（抗性越高，伤害越高）和眩晕。",
+  "pt": "O Rei Luhua entra em Estase, tornando-se invulnerável, porém incapaz de usar habilidades ou se mover. Essa habilidade gera um Escudo equivalente à sua Vitalidade Máx. por &21012_hudunTime& segundos e atrai todos os inimigos para perto de você; em seguida, invoca um soco vindo de cima que causa dano (cujo valor aumenta conforme sua Resistência) e atordoa os inimigos."
+ },
+ "skillDescS210122": {
+  "en": "Deliver a rapid punch toward enemies.",
+  "ch": "快速击出迅猛一拳冲击敌阵。",
+  "pt": "Desfere um golpe rápido contra os inimigos."
+ },
+ "skillDescS21013": {
+  "en": "Overwhelm the battlefield with the power of lightning for &21013_time|-500|f0&s. During it, you will summon a lightning bolt every 1 second, and the area of effect of the skill will expand, dealing damage to enemies around. The skill will also Paralyze enemies hit for &11320_conTime&s (ineffective to Mythical Beasts) and its radius &21013_range&% after each instance of damage. Your Skill Radius stat will grant the skill an additional area of effect, and every &21013_abilitySum& Mind Skill affixes learned will also grant it an additional &21013_upTime&s Duration, up to &21013_upTimeEnd|+5|f0&s.",
+  "ch": "爆发雷电之力，持续&21013_time|-500|f0&秒，在雷电之力的持续时间内，每1秒引下一道雷电，雷网会向四周扩散开并周围的敌人，每次麻痹敌人&11320_conTime&秒(对大妖兽无效)，技能范围&21013_range&%（受技能范围属性加成）。且每学习&21013_abilitySum&个心法词条，此技能的持续时间&21013_upTime&秒，上限&21013_upTimeEnd|+5|f0&秒。",
+  "nomes": {
+   "Paralyze": "Paralisia"
+  },
+  "pt": "Sature o campo de batalha com o poder do relâmpago por &21013_time|-500|f0&s. Durante esse período, você invocará um relâmpago a cada 1 segundo; a área de efeito da habilidade também aumentará, causando dano aos inimigos próximos. A habilidade ainda paralisará os inimigos atingidos por &11320_conTime&s (não afeta Feras Míticas) e seu Raio da Habilidade será ampliado em &21013_range&% após cada dano causado. Seu atributo Raio da Habilidade concede à habilidade uma área de efeito adicional, e cada &21013_abilitySum& afixo de Técnica Mental aprendido também aumentará sua duração em &21013_upTime&s, até atingir o limite de &21013_upTimeEnd|+5|f0&s."
+ },
+ "skillDescS21014": {
+  "en": "Expand Agar's character size for &21014_time&s, gaining additional &21014_hpUp&x Max Vitality in its duration and &21014_pfr& Resistance.",
+  "ch": "阿夸身躯变大&21014_time&秒，体力上限临时增加&21014_hpUp&倍，抗性&21014_pfr&。",
+  "pt": "Aumente o tamanho do personagem de Agar por &21014_time&s, ganhando &21014_hpUp&x Vitalidade Máx. durante esse período, além de &21014_pfr& Resistência."
+ },
+ "skillDescS21015": {
+  "en": "Spawn &21015_moSum& mushrooms into the battlefield and &21015_msp& Agility for &21015_time&s. Mushrooms are not counted as summoned units. You will throw &215002_sumOne& mushroom bombs when you pick up a Spirit Stone, and &215002_sumTwo& bombs when you pick up a mushroom or an item. The bomb deals damage to enemies within its area of effect and may deal additional True Damage equaling to 0.1% of the hit enemy's Max Vitality. The damage of the bombs will increase as you pick a total of 50, 100, and 150 mushrooms.",
+  "ch": "立即降下&21015_moSum&个蘑菇（不算作召唤物），并&21015_msp&移动速度，持续&21015_time&秒。每拾取一个灵石，可投掷&215002_sumOne&个蘑菇炸弹，每拾取一个蘑菇或道具，可投掷&215002_sumTwo&个蘑菇炸弹，爆炸对小范围的敌人造成伤害并额外造成敌人最大生命值0.1%的真实伤害。捡取蘑菇数量达到50、100、150时，蘑菇炸弹的威力会获得提升。",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "Invoca &21015_moSum& cogumelos no campo de batalha e concede &21015_msp& de Agilidade por &21015_time& segundos. Os cogumelos não são contabilizados como unidades invocadas. Ao pegar uma Pedra Espiritual, você lançará &215002_sumOne& bombas de cogumelo; ao pegar um cogumelo ou outro item, serão lançadas &215002_sumTwo& bombas. Cada bomba causa dano aos inimigos na sua área de efeito e também pode infligir Dano Verdadeiro adicional equivalente a 0,1% da Vitalidade Máx. do inimigo atingido. O dano das bombas aumenta à medida que você coleta 50, 100 e 150 cogumelos no total."
+ },
+ "skillDescS210171": {
+  "en": "Create 2 Mirror Images in the battlefield for &21017_time&s. Mirror Images inherit all the effects on your character and will take damage from enemies. Your Wind Blades will automatically chase down enemies in the skill's duration.",
+  "ch": "幻化两只镜像出现在场上，持续&21017_time&秒。期间自身释放的风刃将会自动追踪敌人。（此镜像继承本体所有状态，并可被敌人攻击）",
+  "pt": "Crie 2 Imagens Espelho no campo de batalha por &21017_time& segundos. As Imagens Espelho herdam todos os efeitos do seu personagem e recebem dano dos inimigos. Suas Lâminas de Vento perseguirão automaticamente os inimigos durante a duração da habilidade."
+ },
+ "skillDescS302": {
+  "en": "Release several penetrative swords around, chasing down and dealing damage to enemies. This skill has a chance to inflict Bleed (slowing and dealing damage every &302_bleedingCd&s) on enemies.\nSkill Damage: &302_dmg&\nSword Amount: &302_bullet&\nInitial Projectile Penetrations: &302_originPenetration&\nBleed Chance: &302_bleedProb&%\nSlowing Rate: &302_slow&%\nBleed Base Damage: &302_bleedingDmg&\nBleed Duration: &302_bleedTime&",
+  "ch": "朝四周发射数道可穿透的追踪剑气，对命中的敌人造成伤害，并有一定概率为敌人施加流血（减速敌人，使敌方每&302_bleedingCd&秒受到伤害）。\n技能威力：&302_dmg&\n剑气数量：&302_bullet&\n初始穿透次数：&302_originPenetration&\n施加流血概率：&302_bleedProb&%\n流血减速：&302_slow&%\n流血基础伤害：&302_bleedingDmg&\n流血持续时间：&302_bleedTime&",
+  "pt": "Lança várias espadas penetrantes ao redor, perseguindo e causando dano aos inimigos. Esta habilidade tem chance de causar Sangramento nos inimigos (reduzindo sua velocidade e causando dano a cada &302_bleedingCd&s).\nDano da Habilidade: &302_dmg&\nQuantidade de Espadas: &302_bullet&\nPenetrações Iniciais dos Projéteis: &302_originPenetration&\nChance de Sangramento: &302_bleedProb&%\nTaxa de Redução da Velocidade: &302_slow&%\nDano Base do Sangramento: &302_bleedingDmg&\nDuração do Sangramento: &302_bleedTime&"
+ },
+ "skillDescS303": {
+  "en": "Summon a hail of swords at the location of enemies, dealing damage to enemies in its area of effect. This skill deals extra damage to enemies with an Agility lower than self.\nSkill Damage: &303_dmg&\nDuration: &303_fieldTime&s\nExtra Damage Ratio: &303_fieldBonusDmg&%",
+  "ch": "在敌人的位置落下剑雨，对范围内的敌人持续造成伤害，此技能对移动速度低于自身的敌人造成额外伤害。\n技能威力：&303_dmg&\n剑雨持续时间：&303_fieldTime&秒\n额外伤害比例：&303_fieldBonusDmg&%",
+  "pt": "Invoca uma chuva de espadas no local onde os inimigos se encontram, causando dano aos inimigos dentro da área de efeito. Esta habilidade causa dano extra a inimigos cuja Agilidade seja inferior à do usuário.\nDano da Habilidade: &303_dmg&\nDuração: &303_fieldTime&s\nTaxa de dano extra: &303_fieldBonusDmg&%"
+ },
+ "skillDescS401": {
+  "en": "Release several penetrative fists, dealing damage to enemies hit. This skill has a chance to grant you permanent Shield HP upon hitting enemies.\nSkill Damage: &401_dmg&\nFist Amount: &401_bullet&\nShield Chance: &401_shieldProb&%\nShield HP: &401_shield&",
+  "ch": "朝敌人的方向连续打出数道分散的拳影（可穿透），对命中的敌人造成伤害，每次命中敌人时，有一定概率获得护盾（护盾无持续时间限制）。\n技能威力：&401_dmg&\n拳影数量：&401_bullet&\n获得护盾概率：&401_shieldProb&%\n护盾值：&401_shield&",
+  "pt": "Lança vários punhos penetrantes, causando dano aos inimigos atingidos. Essa habilidade tem chance de conceder HP de Escudo permanente ao acertar inimigos.\nDano da Habilidade: &401_dmg&\nQuantidade de Punhos: &401_bullet&\nChance de Escudo: &401_shieldProb&%\nHP do Escudo: &401_shield&"
+ },
+ "skillDescS402": {
+  "en": "Gain an amount of Shield every second. Cost &402_shieldPercent&% Shield HP to trigger a Blast around yourself; its damage will increase based on the Shield HP spent.\nSkill Damage: &402_dmg&\nShield HP per Second: &402_shield&\nBonus Damage per Shield HP: &402_shieldRaiseDmg&%",
+  "ch": "每秒获得护盾，使用技能时消耗&402_shieldPercent&%护盾，在自身周围引发一次灵爆，每消耗1点护盾，伤害会有一定提升。\n技能威力：&402_dmg&\n每秒获得护盾值：&402_shield&\n每点护盾值提高的伤害：&402_shieldRaiseDmg&%",
+  "pt": "Ganha uma certa quantidade de Escudo a cada segundo. É necessário gastar &402_shieldPercent&% da vida do Escudo para ativar uma explosão ao seu redor; o dano causado aumenta conforme a quantidade de vida do Escudo utilizada.\nDano da Habilidade: &402_dmg&\nVida do Escudo por segundo: &402_shield&\nDano adicional por ponto de vida do Escudo: &402_shieldRaiseDmg&%"
+ },
+ "skillDescS403": {
+  "en": "Create circling shields around to block hostile projectiles.\nSkill Damage: &403_dmg&\nShield Amount: &403_num|x4|f0&\nProjectile Blocks: &403_block&\nShield Duration: &403_shieldTime&s",
+  "ch": "生成数个盾影环绕自身，盾影可抵挡数次远程伤害。\n技能威力：&403_dmg&\n盾影数量：&403_num|x4|f0&\n抵挡弹道伤害次数：&403_block&\n盾影持续时间：&403_shieldTime&秒",
+  "pt": "Crie escudos circulares ao redor para bloquear projéteis hostis.\nDano da Habilidade: &403_dmg&\nQuantidade de Escudos: &403_num|x4|f0&\nProjetéis Bloqueados: &403_block&\nDuração do Escudo: &403_shieldTime&s"
+ },
+ "skillDescS501": {
+  "en": "Release a palm mark toward enemies. The skill has a chance to generate a Palm Wind upon hitting enemies and deal damage to enemies in its area of effect.\nSkill Damage: &501_dmg&\nPalm Wind Chance: &501_windProb&%\nPalm Wind Damage: &501_windRealDmg&",
+  "ch": "朝敌人方向发射一道掌印，命中敌人后有概率生成一道掌风，对范围内的敌人造成伤害。\n技能威力：&501_dmg&\n掌风生成概率:&501_windProb&%\n掌风威力：&501_windRealDmg&",
+  "nomes": {
+   "Palm Wind": "Vento da Palma"
+  },
+  "pt": "Emita uma marca da palma em direção aos inimigos. A habilidade tem chance de gerar um Vento da Palma ao atingir os inimigos, causando dano àqueles que estiverem na área de efeito.\nDano da Habilidade: &501_dmg&\nChance de Vento da Palma: &501_windProb&%\nDano do Vento da Palma: &501_windRealDmg&"
+ },
+ "skillDescS502": {
+  "en": "<o>Stand still to charge</o>, and release penetrative Palm Marks forward after charging. The amount of Palm Marks will increase as the charging time extends.\nSkill Damage: &502_dmg&\nPalm Mark Amount: &502_waveNum&\nCharging Time: &502_addBulletNum&\nCharging Palm Marks: &502_addBulletNum& per &502_strengthenCD&s",
+  "ch": "<o>站立不动蓄力</o>，蓄力后向前方区域打出可穿透的掌波，随着蓄力时间的增长，掌波数量。\n技能威力：&502_dmg&\n掌波数量：&502_waveNum&\n蓄力时间：&502_addBulletNum&\n蓄力掌波：每&502_strengthenCD&秒&502_addBulletNum&",
+  "pt": "<o>Fique imóvel para realizar a carga</o>. Após isso, solte Marcas da Palma penetrantes para a frente. O número de Marcas da Palma aumenta conforme o tempo de carga se prolonga.\nDano da Habilidade: &502_dmg&\nQuantidade de Marcas da Palma: &502_waveNum&\nTempo de Carga: &502_addBulletNum&\nMarcas da Palma geradas: &502_addBulletNum& a cada &502_strengthenCD& segundos"
+ },
+ "skillDescS503": {
+  "en": "<o>Stand still to charge</o>, and summon a circle of Palm Marks down after charging. The amount of Palm Marks will increase as the charging time extends.\nSkill Damage: &503_dmg&\nRange: &503_range&\nCharging Time: &503_chargeTime&s\nInitial Palm Marks: &503_bulletNum&\nEvery &503_strengthenCD&s of charging will &503_addBullet& Palm Marks",
+  "ch": "<o>站立不动蓄力</o>，蓄力后环绕自身降下数道掌印，蓄力时间越长，掌印数量越多。\n技能威力：&503_dmg&\n射程：&503_range&\n蓄力时间：&503_chargeTime&秒\n初始掌印数：&503_bulletNum&\n蓄力掌印数量增加：每&503_strengthenCD&秒&503_addBullet&",
+  "pt": "<o>Fique parado para acumular carga</o>. Após isso, um círculo de Marcas da Palma será invocado. Quanto mais tempo você ficar carregando, maior será o número de Marcas da Palma.\nDano da Habilidade: &503_dmg&\nAlcance: &503_range&\nTempo de Carga: &503_chargeTime&s\nNúmero inicial de Marcas da Palma: &503_bulletNum&\nA cada &503_strengthenCD&s de carga, serão adicionadas &503_addBullet& Marcas da Palma"
+ },
+ "skillDescS601": {
+  "en": "Release finger shadows toward enemies. This skill has a chance to inflict Spirit Seal on enemies hit, which is a permanent but not stackable effect that will trigger a Blast upon the enemy's death, dealing damage same as this skill to enemies around.\nSkill Damage: &601_dmg&\nFinger Shadow Amount: &601_num&\nSeal Chance: &601_sealProb&%\nBlast Radius: &601_sealBlastField&",
+  "ch": "向敌人方向发射指影，命中敌人时有概率使敌人获得封灵。（永久持续，不可叠加，敌人在死亡时会引发一次灵爆，对范围内的敌人造成与此技能威力相同的伤害）\n技能威力：&601_dmg&\n指影数量：&601_num&\n封灵概率：&601_sealProb&%\n灵爆范围：&601_sealBlastField&",
+  "pt": "Liberte sombras de dedos em direção aos inimigos. Esta habilidade tem chance de aplicar o Selo do Espírito nos inimigos atingidos; esse é um efeito permanente, porém não acumulável, que causa uma Explosão na morte do inimigo, infligindo dano equivalente ao desta habilidade aos inimigos próximos.\nDano da Habilidade: &601_dmg&\nQuantidade de Sombras de Dedo: &601_num&\nChance de Aplicar Selo: &601_sealProb&%\nRaio da Explosão: &601_sealBlastField&"
+ },
+ "skillDescS602": {
+  "en": "Unleash a row of Spirit Orbs toward enemies. Spirit Orbs will explode after a short delay, dealing damage to enemies in their area of effect.\nSkill Damage: &602_dmg&\nOrb Amount: &602_num&\nBlast Delay: &602_blastLag&s",
+  "ch": "向敌人方向生成一排灵球，短暂延迟后灵球引发灵爆，对范围内的敌人造成伤害。\n技能威力：&602_dmg&\n灵球数量：&602_num&\n引爆延迟时间：&602_blastLag&秒",
+  "pt": "Lança uma série de Orbes de Espírito contra os inimigos. Os Orbes de Espírito explodem após um breve período, causando dano aos inimigos na área de efeito.\nDano da Habilidade: &602_dmg&\nQuantidade de Orbes: &602_num&\nAtraso da explosão: &602_blastLag&s"
+ },
+ "skillDescS603": {
+  "en": "Release a ray toward the enemy. The damage dealt will increase with cast time.\nSkill Damage: &603_dmg&\nDuration: &603_cd&s\nBonus Damage: +&603_dmgUpRate&%/s",
+  "ch": "向敌人方向持续发射一道射线，持续时间越长，伤害越高。\n技能威力：&603_dmg&\n射线持续时间：&603_cd&秒\n持续时间伤害：+&603_dmgUpRate&%/秒",
+  "pt": "Emita um raio em direção ao inimigo. O dano causado aumenta conforme o tempo de conjuração.\nDano da Habilidade: &603_dmg&\nDuração: &603_cd&s\nDano Bônus: +&603_dmgUpRate&%/s"
+ },
+ "skillInfo_biaozhunweili": {
+  "en": "标准威力：",
+  "ch": "标准威力：",
+  "pt": "Potência padrão:"
+ },
+ "skillInfo_chongzhi": {
+  "en": "Reset",
+  "ch": "重置",
+  "pt": "Redefinir"
+ },
+ "skillInfo_dangqianshanghai": {
+  "en": "Current/Highest",
+  "ch": "当前/最高",
+  "pt": "Atual/Máximo"
+ },
+ "skillInfo_dangqianweili": {
+  "en": "当前威力：",
+  "ch": "当前威力：",
+  "pt": "Poder atual:"
+ },
+ "skillInfo_fahuixiaolv": {
+  "en": "发挥效率：",
+  "ch": "发挥效率：",
+  "pt": "Promover eficiência:"
+ },
+ "skillInfo_jing": {
+  "en": "{#kong}",
+  "ch": "境",
+  "pt": "{#kong}"
+ },
+ "skillInfo_meimiaozongshanghai": {
+  "en": "DPS",
+  "ch": "每秒伤害",
+  "pt": "DPS"
+ },
+ "skillInfo_point": {
+  "en": "Required Skill Points",
+  "ch": "装备所需道点",
+  "pt": "Pontos de Habilidade necessários"
+ },
+ "skillInfo_shanghaitongji": {
+  "en": "Damage",
+  "ch": "伤害统计",
+  "pt": "Dano"
+ },
+ "skillInfo_tip": {
+  "en": "按下[Alt]键显示详情",
+  "ch": "按下[Alt]键显示详情",
+  "pt": "Pressione a tecla [Alt] para exibir os detalhes"
+ },
+ "skillInfo_xiaoguoxiangqing": {
+  "en": "Effect Details",
+  "ch": "效果详情",
+  "pt": "Detalhes do Efeito"
+ },
+ "skillInfo_xiulianjieduan": {
+  "en": "修炼阶段：",
+  "ch": "修炼阶段：",
+  "pt": "Fase de treinamento:"
+ },
+ "skillInfo_xiuliannandu": {
+  "en": "Difficulty to Upgrade: ",
+  "ch": "修炼难度：",
+  "pt": "Dificuldade de atualização: "
+ },
+ "skillInfo_xuexixiaohao": {
+  "en": "Learning Cost: ",
+  "ch": "学习消耗：",
+  "pt": "Custo de aprendizagem: "
+ },
+ "skillInfo_yinchangmuzhuang": {
+  "en": "Hide Dummies",
+  "ch": "隐藏木桩",
+  "pt": "Ocultar manequins"
+ },
+ "skillInfo_zongshanghai": {
+  "en": "Total Damage",
+  "ch": "总伤害",
+  "pt": "Dano Total"
+ },
+ "skillNameS102": {
+  "en": "Crazeblood Cleave",
+  "ch": "狂血斩",
+  "pt": "Corte Sanguinário Louco"
+ },
+ "skillNameS103": {
+  "en": "Ruthless Cleave",
+  "ch": "绝情斩",
+  "nomes": {
+   "Ruthless": "Impiedoso"
+  },
+  "pt": "Corte Implacável"
+ },
+ "skillNameS104": {
+  "en": "Felblade",
+  "ch": "邪刃",
+  "nomes": {
+   "Felblade": "Lâmina Vil"
+  },
+  "pt": "Lâmina do Fogo"
+ },
+ "skillNameS1101": {
+  "en": "Fierce Fire",
+  "ch": "豪火术",
+  "pt": "Fogo Feroz"
+ },
+ "skillNameS1102": {
+  "en": "Sinful Flame",
+  "ch": "业火术",
+  "pt": "Chama do Pecado"
+ },
+ "skillNameS1103": {
+  "en": "Firerider",
+  "ch": "踏火术",
+  "pt": "Cavaleiro do Fogo"
+ },
+ "skillNameS1201": {
+  "en": "Spiritual Torrent",
+  "ch": "灵流术",
+  "pt": "Torrente Espiritual"
+ },
+ "skillNameS1202": {
+  "en": "Ice Blast",
+  "ch": "冰晶爆",
+  "pt": "Explosão de Gelo"
+ },
+ "skillNameS1203": {
+  "en": "Soulreaper",
+  "ch": "噬灵术",
+  "pt": "Ceifador de Almas"
+ },
+ "skillNameS1301": {
+  "en": "Purple Lightning",
+  "ch": "紫电闪",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Púrpura"
+ },
+ "skillNameS1302": {
+  "en": "Lightning Cloud",
+  "ch": "雷云术",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Nuvem de Relâmpagos"
+ },
+ "skillNameS1303": {
+  "en": "Spiritual Lightning",
+  "ch": "灵雷术",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Espiritual"
+ },
+ "skillNameS1402": {
+  "en": "Sandstorm",
+  "ch": "飞沙术",
+  "nomes": {
+   "Sandstorm": "Tempestade de Areia"
+  },
+  "pt": "Tempestade de areia"
+ },
+ "skillNameS1403": {
+  "en": "Wild Wind",
+  "ch": "狂风术",
+  "pt": "Vento Selvagem"
+ },
+ "skillNameS1501": {
+  "en": "Spiritual Rock",
+  "ch": "灵岩术",
+  "pt": "Rock Espiritual"
+ },
+ "skillNameS1503": {
+  "en": "Rock Puppet",
+  "ch": "石傀术",
+  "pt": "Fantoche de Rock"
+ },
+ "skillNameS1601": {
+  "en": "Primal Energy",
+  "ch": "活元术",
+  "nomes": {
+   "Primal Energy": "Energia Primordial"
+  },
+  "pt": "Energia Primordial"
+ },
+ "skillNameS1603": {
+  "en": "Poisonous Plants",
+  "ch": "毒株术",
+  "pt": "Plantas venenosas"
+ },
+ "skillNameS1604": {
+  "en": "Thorny Spirit",
+  "ch": "活力术",
+  "nomes": {
+   "Thorny Spirit": "Espírito Espinhoso"
+  },
+  "pt": "Espírito Espinhoso"
+ },
+ "skillNameS201": {
+  "en": "Crackling Jade Spear",
+  "ch": "碎玉枪",
+  "pt": "Lança de Jade Crepitante"
+ },
+ "skillNameS202": {
+  "en": "True Dragon Rising",
+  "ch": "真龙破",
+  "pt": "O Despertar do Dragão Verdadeiro"
+ },
+ "skillNameS203": {
+  "en": "Splitting Dragon Spear",
+  "ch": "贯龙枪",
+  "pt": "Dividindo a Lança do Dragão"
+ },
+ "skillNameS21011": {
+  "en": "Feathered Form",
+  "ch": "化相真形",
+  "pt": "Forma Plumosa"
+ },
+ "skillNameS210112": {
+  "en": "Quill Blade",
+  "ch": "羽灵",
+  "pt": "Lâmina de Pluma"
+ },
+ "skillNameS21012": {
+  "en": "Unstoppable Wings",
+  "ch": "皓羽战魂",
+  "pt": "Asas Imparáveis"
+ },
+ "skillNameS210122": {
+  "en": "Rapid Punch",
+  "ch": "冲拳",
+  "pt": "Soco Rápido"
+ },
+ "skillNameS21013": {
+  "en": "Thunderous Barrage",
+  "ch": "荡尽尘寰",
+  "pt": "Trovejante Arremetida"
+ },
+ "skillNameS21014": {
+  "en": "Profound Lineage",
+  "ch": "真血玄躯",
+  "pt": "Linhagem Profunda"
+ },
+ "skillNameS21015": {
+  "en": "Mushroom Harvest",
+  "ch": "天降赤芝",
+  "pt": "Colheita de cogumelos"
+ },
+ "skillNameS21016": {
+  "en": "Demonic Revelation",
+  "ch": "真魔极意",
+  "pt": "Revelação Demoníaca"
+ },
+ "skillNameS210171": {
+  "en": "Luminous Trio",
+  "ch": "碧光疾影",
+  "pt": "Trio Luminescente"
+ },
+ "skillNameS302": {
+  "en": "Shadowless Sword",
+  "ch": "绝影剑",
+  "pt": "Espada Sem Sombra"
+ },
+ "skillNameS303": {
+  "en": "Sunset Sword",
+  "ch": "落日剑",
+  "pt": "Espada do Pôr do Sol"
+ },
+ "skillNameS304": {
+  "en": "Supernova Sword",
+  "ch": "七星剑",
+  "pt": "Espada Supernova"
+ },
+ "skillNameS401": {
+  "en": "Serene Fist",
+  "ch": "定气拳",
+  "pt": "Punho Sereno"
+ },
+ "skillNameS402": {
+  "en": "Hillbreaker Fist",
+  "ch": "崩山拳",
+  "pt": "Punho Destruidor de Colinas"
+ },
+ "skillNameS403": {
+  "en": "Ironbody Fist",
+  "ch": "金刚拳",
+  "pt": "Punho de Corpo de Ferro"
+ },
+ "skillNameS501": {
+  "en": "Greenwave Palm",
+  "ch": "青涛掌",
+  "pt": "Greenwave Palma"
+ },
+ "skillNameS502": {
+  "en": "Landslide Palm",
+  "ch": "摧山掌",
+  "pt": "Deslizamento de terra na Palma"
+ },
+ "skillNameS503": {
+  "en": "Oceanic Palm",
+  "ch": "定海掌",
+  "pt": "Palma Oceânica"
+ },
+ "skillNameS601": {
+  "en": "Seven Star Finger",
+  "ch": "七星指",
+  "pt": "Dedo das Sete Estrelas"
+ },
+ "skillNameS602": {
+  "en": "Ethereal Blast",
+  "ch": "幽空爆",
+  "pt": "Explosão Etérea"
+ },
+ "skillNameS603": {
+  "en": "Shadowy Finger",
+  "ch": "灵影指",
+  "pt": "Dedo Sombrio"
+ },
+ "skillPrefixDesc1211101": {
+  "en": "并且击中敌人时有概率为其叠加一层血刃。",
+  "ch": "并且击中敌人时有概率为其叠加一层血刃。",
+  "pt": "E ao acertar o inimigo, há uma probabilidade de aplicar uma camada de Lâmina Sanguinária nele."
+ },
+ "skillPrefixDesc1211102": {
+  "en": "并且击中敌人时有概率为自身叠加一层绝情。",
+  "ch": "并且击中敌人时有概率为自身叠加一层绝情。",
+  "pt": "E, ao atingir o inimigo, há uma chance de acumular um nível de Implacabilidade para si mesmo."
+ },
+ "skillPrefixDesc1311101": {
+  "en": "并且击中敌人时有概率为其叠加一层破甲。",
+  "ch": "并且击中敌人时有概率为其叠加一层破甲。",
+  "pt": "E ao acertar o inimigo, há uma chance de aplicar uma camada de perfuração de armadura nele."
+ },
+ "skillPrefixDesc1311102": {
+  "en": "并且击中敌人时有概率为自身叠加一层破势。",
+  "ch": "并且击中敌人时有概率为自身叠加一层破势。",
+  "pt": "E, ao acertar um inimigo, há uma chance de aplicar uma camada de Penetração em si mesmo."
+ },
+ "skillPrefixDesc1411101": {
+  "en": "并且击中敌人时有概率为其叠加一层流血。",
+  "ch": "并且击中敌人时有概率为其叠加一层流血。",
+  "pt": "E ao acertar o inimigo, há uma chance de aplicar uma camada de sangramento nele."
+ },
+ "skillPrefixDesc1411102": {
+  "en": "并且击中敌人时有概率为自身叠加一层剑斩。",
+  "ch": "并且击中敌人时有概率为自身叠加一层剑斩。",
+  "pt": "E, ao atingir o inimigo, há uma probabilidade de aplicar uma camada de Corte de Espada em si mesmo."
+ },
+ "skillPrefixDesc1511101": {
+  "en": "并且击中敌人时有概率为其叠加一层碎骨。",
+  "ch": "并且击中敌人时有概率为其叠加一层碎骨。",
+  "pt": "E, ao atingir o inimigo, há uma chance de aplicar uma camada de Ossos Quebrados nele."
+ },
+ "skillPrefixDesc1511102": {
+  "en": "并且击中敌人时有概率为自身叠加一层铜皮。",
+  "ch": "并且击中敌人时有概率为自身叠加一层铜皮。",
+  "pt": "E, ao atingir o inimigo, há uma probabilidade de acumular uma camada de pele de cobre para si mesmo."
+ },
+ "skillPrefixDesc1611101": {
+  "en": "并且击中敌人时有概率为其叠加一层内伤。",
+  "ch": "并且击中敌人时有概率为其叠加一层内伤。",
+  "pt": "E, ao atingir o inimigo, há uma chance de aplicar nele uma camada de ferimento interno."
+ },
+ "skillPrefixDesc1611102": {
+  "en": "并且击中敌人时有概率为自身叠加一层内劲。",
+  "ch": "并且击中敌人时有概率为自身叠加一层内劲。",
+  "pt": "E, ao acertar o inimigo, há uma chance de acumular uma camada de energia interna para si mesmo."
+ },
+ "skillPrefixDesc1711101": {
+  "en": "并且击中敌人时有概率为其叠加一层内虚。",
+  "ch": "并且击中敌人时有概率为其叠加一层内虚。",
+  "pt": "E, ao acertar o inimigo, há uma chance de aplicar uma camada de Fraqueza Interna nele."
+ },
+ "skillPrefixDesc1711102": {
+  "en": "并且击中敌人时有概率为自身叠加一层开脉。",
+  "ch": "并且击中敌人时有概率为自身叠加一层开脉。",
+  "pt": "E, ao acertar um inimigo, há uma probabilidade de aplicar uma camada de Abertura de Meridianos em si mesmo."
+ },
+ "skillPrefixDesc4111101": {
+  "en": "并且击中敌人时有概率为其叠加一层灼烧。",
+  "ch": "并且击中敌人时有概率为其叠加一层灼烧。",
+  "pt": "E ao acertar o inimigo, há uma chance de aplicar uma camada de queimadura nele."
+ },
+ "skillPrefixDesc4111102": {
+  "en": "并且击中敌人时有概率为自身叠加一层燃魂。",
+  "ch": "并且击中敌人时有概率为自身叠加一层燃魂。",
+  "pt": "E, ao atingir o inimigo, há uma chance de acumular uma camada de Chama da Alma para si mesmo."
+ },
+ "skillPrefixDesc4211101": {
+  "en": "并且击中敌人时有概率为其叠加一层寒霜。",
+  "ch": "并且击中敌人时有概率为其叠加一层寒霜。",
+  "pt": "E, ao atingir o inimigo, há uma chance de aplicar uma camada de Gelo nele."
+ },
+ "skillPrefixDesc4211102": {
+  "en": "并且击中敌人时有概率为自身叠加一层灵涌。",
+  "ch": "并且击中敌人时有概率为自身叠加一层灵涌。",
+  "pt": "E, ao acertar um inimigo, há uma chance de aplicar uma camada de Fluxo Espiritual em si mesmo."
+ },
+ "skillPrefixDesc4311101": {
+  "en": "并且击中敌人时有概率为其叠加一层乱流。",
+  "ch": "并且击中敌人时有概率为其叠加一层乱流。",
+  "pt": "E ao acertar o inimigo, há uma chance de aplicar uma camada de Turbulência nele."
+ },
+ "skillPrefixDesc4311102": {
+  "en": "并且击中敌人时有概率为自身叠加一层雷涌。",
+  "ch": "并且击中敌人时有概率为自身叠加一层雷涌。",
+  "pt": "E, ao acertar o inimigo, há uma probabilidade de ganhar uma camada de Torrente Elétrica para si mesmo."
+ },
+ "skillPrefixDesc4411101": {
+  "en": "并且击中敌人时有概率为其叠加一层逆风。",
+  "ch": "并且击中敌人时有概率为其叠加一层逆风。",
+  "pt": "E ao atingir o inimigo, há uma chance de aplicar uma camada de Vento Contrário nele."
+ },
+ "skillPrefixDesc4411102": {
+  "en": "并且击中敌人时有概率为自身叠加一层灵风。",
+  "ch": "并且击中敌人时有概率为自身叠加一层灵风。",
+  "pt": "E, ao acertar o inimigo, há uma probabilidade de acumular uma camada de Vento Espiritual em si mesmo."
+ },
+ "skillPrefixDesc4511101": {
+  "en": "并且击中敌人时有概率为其叠加一层震岩。",
+  "ch": "并且击中敌人时有概率为其叠加一层震岩。",
+  "pt": "E, ao atingir o inimigo, há uma chance de aplicar uma camada de Soco Sísmico nele."
+ },
+ "skillPrefixDesc4511102": {
+  "en": "并且击中敌人时有概率为自身叠加一层石肤。",
+  "ch": "并且击中敌人时有概率为自身叠加一层石肤。",
+  "pt": "E, ao acertar um inimigo, há uma chance de acumular uma camada de Pele de Pedra para si mesmo."
+ },
+ "skillPrefixDesc4611101": {
+  "en": "并且击中敌人时有概率为其叠加一层毒刺。",
+  "ch": "并且击中敌人时有概率为其叠加一层毒刺。",
+  "pt": "E ao acertar o inimigo, há uma chance de acumular uma camada de Ferrão Venenoso nele."
+ },
+ "skillPrefixDesc4611102": {
+  "en": "并且击中敌人时有概率为自身叠加一层花灵。",
+  "ch": "并且击中敌人时有概率为自身叠加一层花灵。",
+  "pt": "E, ao atingir o inimigo, há uma chance de acumular uma camada de Espírito Floral em si mesmo."
+ },
+ "skillPrefixDescA2025107": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2025108": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2025109": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2025110": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2025111": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2025112": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2026107": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2026108": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2026109": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2026110": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2026111": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescA2026112": {
+  "en": "此技能伤害威力+2。",
+  "ch": "此技能伤害威力+2。",
+  "pt": "O dano desta habilidade aumenta em +2."
+ },
+ "skillPrefixDescB2025101": {
+  "en": "灵力消耗降低2。",
+  "ch": "灵力消耗降低2。",
+  "pt": "O consumo de energia espiritual é reduzido em 2."
+ },
+ "skillPrefixDescB2025102": {
+  "en": "冷却时间降低2秒。",
+  "ch": "冷却时间降低2秒。",
+  "pt": "O tempo de resfriamento é reduzido em 2 segundos."
+ },
+ "skillPrefixDescB2025103": {
+  "en": "灵力消耗降低3。",
+  "ch": "灵力消耗降低3。",
+  "pt": "O consumo de energia espiritual é reduzido em 3."
+ },
+ "skillPrefixDescB2025104": {
+  "en": "冷却时间降低3秒。",
+  "ch": "冷却时间降低3秒。",
+  "pt": "O tempo de recarga é reduzido em 3 segundos."
+ },
+ "skillPrefixDescB2025105": {
+  "en": "灵力消耗降低4。",
+  "ch": "灵力消耗降低4。",
+  "pt": "O consumo de energia espiritual é reduzido em 4."
+ },
+ "skillPrefixDescB2025106": {
+  "en": "冷却时间降低4秒。",
+  "ch": "冷却时间降低4秒。",
+  "pt": "O tempo de recarga é reduzido em 4 segundos."
+ },
+ "skillPrefixDescB2025107": {
+  "en": "每层剑气在引爆时附加降低30点移动速度效果，持续5秒。",
+  "ch": "每层剑气在引爆时附加降低30点移动速度效果，持续5秒。",
+  "pt": "Cada camada de energia da espada, ao ser detonada, aplica um efeito de redução de 30 pontos na velocidade de movimento, que dura 5 segundos."
+ },
+ "skillPrefixDescB2025108": {
+  "en": "每层剑气在引爆时附加降低30点移动速度效果，持续5秒。",
+  "ch": "每层剑气在引爆时附加降低30点移动速度效果，持续5秒。",
+  "pt": "Cada camada de aura de espada, ao ser detonada, reduz em 30 pontos a velocidade de movimento por 5 segundos."
+ },
+ "skillPrefixDescB2025109": {
+  "en": "使用此技能时，提升自身30点移动速度，持续10秒。",
+  "ch": "使用此技能时，提升自身30点移动速度，持续10秒。",
+  "pt": "Ao usar esta habilidade, aumenta-se a própria velocidade de movimento em 30 pontos, por 10 segundos."
+ },
+ "skillPrefixDescB2025110": {
+  "en": "每层剑气在引爆时附加降低30点移动速度效果，持续7秒。",
+  "ch": "每层剑气在引爆时附加降低30点移动速度效果，持续7秒。",
+  "pt": "Cada camada de qi de espada, ao ser detonada, aplica um efeito de redução de 30 pontos na velocidade de movimento, por 7 segundos."
+ },
+ "skillPrefixDescB2025111": {
+  "en": "每层剑气在引爆时附加降低30点移动速度效果，持续7秒。",
+  "ch": "每层剑气在引爆时附加降低30点移动速度效果，持续7秒。",
+  "pt": "Cada camada de energia da espada, ao ser detonada, aplica um efeito de redução de 30 pontos na velocidade de movimento por 7 segundos."
+ },
+ "skillPrefixDescB2025112": {
+  "en": "使用此技能时，提升自身50点移动速度，持续10秒。",
+  "ch": "使用此技能时，提升自身50点移动速度，持续10秒。",
+  "pt": "Ao usar esta habilidade, aumenta-se a própria velocidade de movimento em 50 pontos por 10 segundos."
+ },
+ "skillPrefixDescB2026101": {
+  "en": "灵力消耗降低2。",
+  "ch": "灵力消耗降低2。",
+  "pt": "O consumo de energia espiritual é reduzido em 2."
+ },
+ "skillPrefixDescB2026102": {
+  "en": "冷却时间降低2秒。",
+  "ch": "冷却时间降低2秒。",
+  "pt": "O tempo de recarga é reduzido em 2 segundos."
+ },
+ "skillPrefixDescB2026103": {
+  "en": "灵力消耗降低3。",
+  "ch": "灵力消耗降低3。",
+  "pt": "O consumo de energia espiritual é reduzido em 3."
+ },
+ "skillPrefixDescB2026104": {
+  "en": "冷却时间降低3秒。",
+  "ch": "冷却时间降低3秒。",
+  "pt": "O tempo de recarga é reduzido em 3 segundos."
+ },
+ "skillPrefixDescB2026105": {
+  "en": "灵力消耗降低4。",
+  "ch": "灵力消耗降低4。",
+  "pt": "Consumo de energia espiritual reduzido em 4."
+ },
+ "skillPrefixDescB2026106": {
+  "en": "冷却时间降低4秒。",
+  "ch": "冷却时间降低4秒。",
+  "pt": "O tempo de recarga é reduzido em 4 segundos."
+ },
+ "skillPrefixDescB2026107": {
+  "en": "剑影道数+2。",
+  "ch": "剑影道数+2。",
+  "pt": "Sombras da Espada +2."
+ },
+ "skillPrefixDescB2026108": {
+  "en": "剑影道数+2。",
+  "ch": "剑影道数+2。",
+  "pt": "Sombras da Espada +2."
+ },
+ "skillPrefixDescB2026109": {
+  "en": "剑影道数+3。",
+  "ch": "剑影道数+3。",
+  "pt": "Sombras da Espada +3."
+ },
+ "skillPrefixDescB2026110": {
+  "en": "使用此技能时，提升自身30点移动速度，持续10秒。",
+  "ch": "使用此技能时，提升自身30点移动速度，持续10秒。",
+  "pt": "Ao usar esta habilidade, aumenta-se a própria velocidade de movimento em 30 pontos, por 10 segundos."
+ },
+ "skillPrefixDescB2026111": {
+  "en": "使用此技能时，提升自身50点移动速度，持续10秒。",
+  "ch": "使用此技能时，提升自身50点移动速度，持续10秒。",
+  "pt": "Ao usar esta habilidade, aumenta-se em 50 pontos a velocidade de movimento por 10 segundos."
+ },
+ "skillPrefixDescB2026112": {
+  "en": "剑影道数+3。",
+  "ch": "剑影道数+3。",
+  "pt": "Sombras da Espada +3."
+ },
+ "skillPrefixDescC2025101": {
+  "en": "冷却时间降低2秒。",
+  "ch": "冷却时间降低2秒。",
+  "pt": "O tempo de resfriamento é reduzido em 2 segundos."
+ },
+ "skillPrefixDescC2025102": {
+  "en": "灵力消耗降低3。",
+  "ch": "灵力消耗降低3。",
+  "pt": "O consumo de energia espiritual é reduzido em 3."
+ },
+ "skillPrefixDescC2025103": {
+  "en": "灵力消耗降低4。",
+  "ch": "灵力消耗降低4。",
+  "pt": "O consumo de energia espiritual é reduzido em 4."
+ },
+ "skillPrefixDescC2025104": {
+  "en": "冷却时间降低4秒。",
+  "ch": "冷却时间降低4秒。",
+  "pt": "O tempo de resfriamento é reduzido em 4 segundos."
+ },
+ "skillPrefixDescC2025105": {
+  "en": "冷却时间降低5秒。",
+  "ch": "冷却时间降低5秒。",
+  "pt": "O tempo de recarga é reduzido em 5 segundos."
+ },
+ "skillPrefixDescC2025106": {
+  "en": "灵力消耗降低7。",
+  "ch": "灵力消耗降低7。",
+  "pt": "O consumo de energia espiritual é reduzido em 7."
+ },
+ "skillPrefixDescC2025107": {
+  "en": "当剑法资质达到30时，此技能伤害威力+10。",
+  "ch": "当剑法资质达到30时，此技能伤害威力+10。",
+  "pt": "Quando a qualificação em esgrima atingir 30, o poder de dano desta habilidade aumenta em 10."
+ },
+ "skillPrefixDescC2025108": {
+  "en": "每当剑击击杀一个敌人时，有30%概率立即减少1秒此技能的冷却时间。",
+  "ch": "每当剑击击杀一个敌人时，有30%概率立即减少1秒此技能的冷却时间。",
+  "pt": "Sempre que um ataque de espada mata um inimigo, há 30% de chance de reduzir imediatamente em 1 segundo o tempo de recarga desta habilidade."
+ },
+ "skillPrefixDescC2025109": {
+  "en": "当剑法资质达到35时，此技能伤害威力+15。",
+  "ch": "当剑法资质达到35时，此技能伤害威力+15。",
+  "pt": "Quando a aptidão em esgrima atingir 35, o poder de dano desta habilidade aumenta em 15."
+ },
+ "skillPrefixDescC2025110": {
+  "en": "每当剑击击杀一个敌人时，有40%概率立即减少1秒此技能的冷却时间。",
+  "ch": "每当剑击击杀一个敌人时，有40%概率立即减少1秒此技能的冷却时间。",
+  "pt": "Sempre que um golpe de espada mata um inimigo, há 40% de chance de reduzir imediatamente em 1 segundo o tempo de recarga desta habilidade."
+ },
+ "skillPrefixDescC2025111": {
+  "en": "当剑法资质达到40时，此技能伤害威力+20。",
+  "ch": "当剑法资质达到40时，此技能伤害威力+20。",
+  "pt": "Quando a habilidade com espadas atingir 40, o dano desta habilidade aumenta em 20."
+ },
+ "skillPrefixDescC2025112": {
+  "en": "每当剑击击杀一个敌人时，有50%概率立即减少1秒此技能的冷却时间。",
+  "ch": "每当剑击击杀一个敌人时，有50%概率立即减少1秒此技能的冷却时间。",
+  "pt": "Sempre que um ataque de espada mata um inimigo, há 50% de chance de reduzir imediatamente em 1 segundo o tempo de recarga desta habilidade."
+ },
+ "skillPrefixDescC2026101": {
+  "en": "冷却时间降低2秒。",
+  "ch": "冷却时间降低2秒。",
+  "pt": "O tempo de resfriamento é reduzido em 2 segundos."
+ },
+ "skillPrefixDescC2026102": {
+  "en": "灵力消耗降低3。",
+  "ch": "灵力消耗降低3。",
+  "pt": "O consumo de energia espiritual é reduzido em 3."
+ },
+ "skillPrefixDescC2026103": {
+  "en": "灵力消耗降低4。",
+  "ch": "灵力消耗降低4。",
+  "pt": "O consumo de energia espiritual é reduzido em 4."
+ },
+ "skillPrefixDescC2026104": {
+  "en": "冷却时间降低4秒。",
+  "ch": "冷却时间降低4秒。",
+  "pt": "O tempo de resfriamento é reduzido em 4 segundos."
+ },
+ "skillPrefixDescC2026105": {
+  "en": "冷却时间降低5秒。",
+  "ch": "冷却时间降低5秒。",
+  "pt": "O tempo de recarga é reduzido em 5 segundos."
+ },
+ "skillPrefixDescC2026106": {
+  "en": "灵力消耗降低5。",
+  "ch": "灵力消耗降低5。",
+  "pt": "O consumo de energia espiritual é reduzido em 5."
+ },
+ "skillPrefixDescC2026107": {
+  "en": "当剑法资质达到30时，此技能伤害威力+10。",
+  "ch": "当剑法资质达到30时，此技能伤害威力+10。",
+  "pt": "Quando a qualificação em esgrima atingir 30, o dano desta habilidade aumenta em 10."
+ },
+ "skillPrefixDescC2026108": {
+  "en": "使用身法时可立即减少3秒此技能的冷却时间。",
+  "ch": "使用身法时可立即减少3秒此技能的冷却时间。",
+  "pt": "Ao usar a técnica corporal, o tempo de recarga desta habilidade é reduzido em 3 segundos imediatamente."
+ },
+ "skillPrefixDescC2026109": {
+  "en": "当剑法资质达到35时，此技能伤害威力+15。",
+  "ch": "当剑法资质达到35时，此技能伤害威力+15。",
+  "pt": "Quando a qualificação em esgrima atingir 35, o poder de dano desta habilidade aumenta em 15."
+ },
+ "skillPrefixDescC2026110": {
+  "en": "使用身法时可立即减少5秒此技能的冷却时间。",
+  "ch": "使用身法时可立即减少5秒此技能的冷却时间。",
+  "pt": "Ao usar a técnica corporal, o tempo de recarga desta habilidade é imediatamente reduzido em 5 segundos."
+ },
+ "skillPrefixDescC2026111": {
+  "en": "当剑法资质达到40时，此技能伤害威力+20。",
+  "ch": "当剑法资质达到40时，此技能伤害威力+20。",
+  "pt": "Quando a qualificação em esgrima atingir 40, o dano desta habilidade aumenta em 20."
+ },
+ "skillPrefixDescC2026112": {
+  "en": "使用身法时可立即减少10秒此技能的冷却时间。",
+  "ch": "使用身法时可立即减少10秒此技能的冷却时间。",
+  "pt": "Ao usar a técnica corporal, o tempo de recarga desta habilidade é reduzido em 10 segundos imediatamente."
+ },
+ "skillPrefixName1211101": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName1211102": {
+  "en": "舞",
+  "ch": "舞",
+  "pt": "Dança"
+ },
+ "skillPrefixName1211103": {
+  "en": "吹",
+  "ch": "吹",
+  "pt": "Soprar"
+ },
+ "skillPrefixName1211104": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName1211105": {
+  "en": "飘",
+  "ch": "飘",
+  "pt": "Flutuante"
+ },
+ "skillPrefixName1211106": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName1211151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1211152": {
+  "en": "羽",
+  "ch": "羽",
+  "pt": "Pena"
+ },
+ "skillPrefixName1211153": {
+  "en": "雨",
+  "ch": "雨",
+  "pt": "Chuva"
+ },
+ "skillPrefixName1211154": {
+  "en": "雪",
+  "ch": "雪",
+  "pt": "Neve"
+ },
+ "skillPrefixName1211155": {
+  "en": "花",
+  "ch": "花",
+  "pt": "Flores"
+ },
+ "skillPrefixName1211156": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1211201": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName1211202": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName1211203": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skillPrefixName1211204": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1211205": {
+  "en": "握",
+  "ch": "握",
+  "pt": "Apertar"
+ },
+ "skillPrefixName1211206": {
+  "en": "撕",
+  "ch": "撕",
+  "pt": "Rasgar"
+ },
+ "skillPrefixName1211251": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1211252": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1211253": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName1211254": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName1211255": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName1211256": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1211301": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skillPrefixName1211302": {
+  "en": "聚",
+  "ch": "聚",
+  "pt": "Agrupar"
+ },
+ "skillPrefixName1211303": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1211304": {
+  "en": "归",
+  "ch": "归",
+  "pt": "Voltar"
+ },
+ "skillPrefixName1211305": {
+  "en": "炼",
+  "ch": "炼",
+  "pt": "Refinar"
+ },
+ "skillPrefixName1211306": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName1211351": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1211352": {
+  "en": "霜",
+  "ch": "霜",
+  "pt": "Geada"
+ },
+ "skillPrefixName1211353": {
+  "en": "神",
+  "ch": "神",
+  "pt": "Deus"
+ },
+ "skillPrefixName1211354": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Origem"
+ },
+ "skillPrefixName1211355": {
+  "en": "气",
+  "ch": "气",
+  "pt": "Ar"
+ },
+ "skillPrefixName1211356": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1311101": {
+  "en": "摧",
+  "ch": "摧",
+  "pt": "Destruir"
+ },
+ "skillPrefixName1311102": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName1311103": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName1311104": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName1311105": {
+  "en": "渡",
+  "ch": "渡",
+  "pt": "Travessia"
+ },
+ "skillPrefixName1311106": {
+  "en": "夺",
+  "ch": "夺",
+  "pt": "Roubar"
+ },
+ "skillPrefixName1311151": {
+  "en": "心",
+  "ch": "心",
+  "pt": "Coração"
+ },
+ "skillPrefixName1311152": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1311153": {
+  "en": "山",
+  "ch": "山",
+  "pt": "Montanha"
+ },
+ "skillPrefixName1311154": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1311155": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName1311201": {
+  "en": "穿",
+  "ch": "穿",
+  "pt": "Vestir"
+ },
+ "skillPrefixName1311202": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1311203": {
+  "en": "灭",
+  "ch": "灭",
+  "pt": "Extinto"
+ },
+ "skillPrefixName1311204": {
+  "en": "流",
+  "ch": "流",
+  "pt": "Fluxo"
+ },
+ "skillPrefixName1311205": {
+  "en": "轻",
+  "ch": "轻",
+  "pt": "Leve"
+ },
+ "skillPrefixName1311206": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName1311251": {
+  "en": "心",
+  "ch": "心",
+  "pt": "Coração"
+ },
+ "skillPrefixName1311252": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1311253": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "ren"
+ },
+ "skillPrefixName1311254": {
+  "en": "翼",
+  "ch": "翼",
+  "pt": "Asas"
+ },
+ "skillPrefixName1311255": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1311256": {
+  "en": "梦",
+  "ch": "梦",
+  "pt": "Sonhos"
+ },
+ "skillPrefixName1311301": {
+  "en": "流",
+  "ch": "流",
+  "pt": "Fluxo"
+ },
+ "skillPrefixName1311302": {
+  "en": "无",
+  "ch": "无",
+  "pt": "Nenhum"
+ },
+ "skillPrefixName1311303": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Agachado"
+ },
+ "skillPrefixName1311304": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skillPrefixName1311305": {
+  "en": "绝",
+  "ch": "绝",
+  "pt": "Nunca"
+ },
+ "skillPrefixName1311306": {
+  "en": "夺",
+  "ch": "夺",
+  "pt": "roubar"
+ },
+ "skillPrefixName1311351": {
+  "en": "心",
+  "ch": "心",
+  "pt": "Coração"
+ },
+ "skillPrefixName1311352": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1311353": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1311354": {
+  "en": "光",
+  "ch": "光",
+  "pt": "Luz"
+ },
+ "skillPrefixName1311355": {
+  "en": "锋",
+  "ch": "锋",
+  "pt": "Ponta"
+ },
+ "skillPrefixName1311356": {
+  "en": "翼",
+  "ch": "翼",
+  "pt": "Asas"
+ },
+ "skillPrefixName1411101": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName1411102": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName1411103": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName1411104": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1411105": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1411106": {
+  "en": "禁",
+  "ch": "禁",
+  "pt": "Proibido"
+ },
+ "skillPrefixName1411151": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName1411152": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1411153": {
+  "en": "花",
+  "ch": "花",
+  "pt": "Flores"
+ },
+ "skillPrefixName1411154": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName1411155": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName1411156": {
+  "en": "翼",
+  "ch": "翼",
+  "pt": "Asas"
+ },
+ "skillPrefixName1411201": {
+  "en": "无",
+  "ch": "无",
+  "pt": "Nenhum"
+ },
+ "skillPrefixName1411202": {
+  "en": "墨",
+  "ch": "墨",
+  "pt": "Tinta"
+ },
+ "skillPrefixName1411203": {
+  "en": "绝",
+  "ch": "绝",
+  "pt": "Nunca"
+ },
+ "skillPrefixName1411204": {
+  "en": "锁",
+  "ch": "锁",
+  "pt": "Cadeado"
+ },
+ "skillPrefixName1411205": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName1411206": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName1411251": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1411252": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName1411254": {
+  "en": "锋",
+  "ch": "锋",
+  "pt": "Lâmina"
+ },
+ "skillPrefixName1411255": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName1411256": {
+  "en": "心",
+  "ch": "心",
+  "pt": "Coração"
+ },
+ "skillPrefixName1411301": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skillPrefixName1411302": {
+  "en": "御",
+  "ch": "御",
+  "pt": "Respeitosamente"
+ },
+ "skillPrefixName1411303": {
+  "en": "虚",
+  "ch": "虚",
+  "pt": "Vazio"
+ },
+ "skillPrefixName1411304": {
+  "en": "残",
+  "ch": "残",
+  "pt": "Restante"
+ },
+ "skillPrefixName1411305": {
+  "en": "聚",
+  "ch": "聚",
+  "pt": "Agrupar"
+ },
+ "skillPrefixName1411306": {
+  "en": "炼",
+  "ch": "炼",
+  "pt": "Refinar"
+ },
+ "skillPrefixName1411351": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1411352": {
+  "en": "神",
+  "ch": "神",
+  "pt": "Deus"
+ },
+ "skillPrefixName1411353": {
+  "en": "气",
+  "ch": "气",
+  "pt": "Ar"
+ },
+ "skillPrefixName1411354": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName1411355": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName1411356": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1511101": {
+  "en": "崩",
+  "ch": "崩",
+  "pt": "Colapso"
+ },
+ "skillPrefixName1511102": {
+  "en": "爆",
+  "ch": "爆",
+  "pt": "Explosão"
+ },
+ "skillPrefixName1511103": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1511104": {
+  "en": "裂",
+  "ch": "裂",
+  "pt": "Rachadura"
+ },
+ "skillPrefixName1511105": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1511106": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Ajoelhar-se"
+ },
+ "skillPrefixName1511151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1511152": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1511153": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1511154": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName1511155": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName1511156": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1511201": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName1511202": {
+  "en": "崩",
+  "ch": "崩",
+  "pt": "Colapso"
+ },
+ "skillPrefixName1511203": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Agachado"
+ },
+ "skillPrefixName1511206": {
+  "en": "虚",
+  "ch": "虚",
+  "pt": "Vazio"
+ },
+ "skillPrefixName1511251": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1511252": {
+  "en": "岩",
+  "ch": "岩",
+  "pt": "Rocha"
+ },
+ "skillPrefixName1511253": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName1511255": {
+  "en": "墨",
+  "ch": "墨",
+  "pt": "Tinta"
+ },
+ "skillPrefixName1511256": {
+  "en": "道",
+  "ch": "道",
+  "pt": "Caminho"
+ },
+ "skillPrefixName1511301": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Ajoelhar-se"
+ },
+ "skillPrefixName1511302": {
+  "en": "狂",
+  "ch": "狂",
+  "pt": "Loucura"
+ },
+ "skillPrefixName1511303": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName1511304": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1511305": {
+  "en": "爆",
+  "ch": "爆",
+  "pt": "Explosão"
+ },
+ "skillPrefixName1511306": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName1511351": {
+  "en": "虎",
+  "ch": "虎",
+  "pt": "Tigre"
+ },
+ "skillPrefixName1511352": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName1511353": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1511354": {
+  "en": "龙",
+  "ch": "龙",
+  "pt": "Dragão"
+ },
+ "skillPrefixName1511355": {
+  "en": "鸦",
+  "ch": "鸦",
+  "pt": "Corvo"
+ },
+ "skillPrefixName1511356": {
+  "en": "莲",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "skillPrefixName1611101": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName1611102": {
+  "en": "炽",
+  "ch": "炽",
+  "pt": "Ardente"
+ },
+ "skillPrefixName1611103": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skillPrefixName1611104": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName1611105": {
+  "en": "聚",
+  "ch": "聚",
+  "pt": "Agrupar"
+ },
+ "skillPrefixName1611106": {
+  "en": "碧",
+  "ch": "碧",
+  "pt": "Azul"
+ },
+ "skillPrefixName1611151": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName1611152": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1611153": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName1611154": {
+  "en": "冰",
+  "ch": "冰",
+  "pt": "Gelo"
+ },
+ "skillPrefixName1611155": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1611156": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName1611201": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1611202": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName1611203": {
+  "en": "崩",
+  "ch": "崩",
+  "pt": "Colapso"
+ },
+ "skillPrefixName1611204": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName1611205": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName1611206": {
+  "en": "玄",
+  "ch": "玄",
+  "pt": "Misterioso"
+ },
+ "skillPrefixName1611251": {
+  "en": "岩",
+  "ch": "岩",
+  "pt": "Rocha"
+ },
+ "skillPrefixName1611252": {
+  "en": "日",
+  "ch": "日",
+  "pt": "Dia"
+ },
+ "skillPrefixName1611253": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName1611254": {
+  "en": "冰",
+  "ch": "冰",
+  "pt": "Gelo"
+ },
+ "skillPrefixName1611255": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1611256": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName1611301": {
+  "en": "残",
+  "ch": "残",
+  "pt": "Restante"
+ },
+ "skillPrefixName1611302": {
+  "en": "赤",
+  "ch": "赤",
+  "pt": "Vermelho"
+ },
+ "skillPrefixName1611303": {
+  "en": "碧",
+  "ch": "碧",
+  "pt": "Azul-esverdeado"
+ },
+ "skillPrefixName1611304": {
+  "en": "轻",
+  "ch": "轻",
+  "pt": "Leve"
+ },
+ "skillPrefixName1611305": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName1611306": {
+  "en": "幻",
+  "ch": "幻",
+  "pt": "Ilusão"
+ },
+ "skillPrefixName1611351": {
+  "en": "阳",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "skillPrefixName1611353": {
+  "en": "翼",
+  "ch": "翼",
+  "pt": "Asas"
+ },
+ "skillPrefixName1611354": {
+  "en": "鸦",
+  "ch": "鸦",
+  "pt": "Corvo"
+ },
+ "skillPrefixName1611355": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName1611356": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName1711101": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName1711102": {
+  "en": "飘",
+  "ch": "飘",
+  "pt": "Flutuante"
+ },
+ "skillPrefixName1711103": {
+  "en": "舞",
+  "ch": "舞",
+  "pt": "Dança"
+ },
+ "skillPrefixName1711104": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName1711105": {
+  "en": "逐",
+  "ch": "逐",
+  "pt": "Passo a passo"
+ },
+ "skillPrefixName1711106": {
+  "en": "轻",
+  "ch": "轻",
+  "pt": "Leve"
+ },
+ "skillPrefixName1711151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName1711152": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName1711153": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName1711154": {
+  "en": "花",
+  "ch": "花",
+  "pt": "Flores"
+ },
+ "skillPrefixName1711155": {
+  "en": "羽",
+  "ch": "羽",
+  "pt": "Pena"
+ },
+ "skillPrefixName1711156": {
+  "en": "雨",
+  "ch": "雨",
+  "pt": "Chuva"
+ },
+ "skillPrefixName1711201": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName1711202": {
+  "en": "锁",
+  "ch": "锁",
+  "pt": "Cadeado"
+ },
+ "skillPrefixName1711203": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName1711204": {
+  "en": "御",
+  "ch": "御",
+  "pt": "Respeitosamente"
+ },
+ "skillPrefixName1711205": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName1711206": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName1711252": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName1711253": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName1711254": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName1711255": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName1711256": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName1711301": {
+  "en": "幽",
+  "ch": "幽",
+  "pt": "Sombrio"
+ },
+ "skillPrefixName1711302": {
+  "en": "青",
+  "ch": "青",
+  "pt": "Azul"
+ },
+ "skillPrefixName1711303": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName1711304": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName1711305": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName1711306": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName1711351": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName1711352": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName1711353": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName1711354": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName1711355": {
+  "en": "莲",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "skillPrefixName1711356": {
+  "en": "隐",
+  "ch": "隐",
+  "pt": "Oculto"
+ },
+ "skillPrefixName2211101": {
+  "en": "崩",
+  "ch": "崩",
+  "pt": "Colapso"
+ },
+ "skillPrefixName2211102": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName2211103": {
+  "en": "灼",
+  "ch": "灼",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2211104": {
+  "en": "定",
+  "ch": "定",
+  "pt": "Definido"
+ },
+ "skillPrefixName2211105": {
+  "en": "穿",
+  "ch": "穿",
+  "pt": "Vestir"
+ },
+ "skillPrefixName2211106": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName2211151": {
+  "en": "日",
+  "ch": "日",
+  "pt": "Dia"
+ },
+ "skillPrefixName2211152": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2211153": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2211154": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "ren"
+ },
+ "skillPrefixName2211155": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2211156": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2211201": {
+  "en": "灼",
+  "ch": "灼",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2211202": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2211203": {
+  "en": "龙",
+  "ch": "龙",
+  "pt": "Dragão"
+ },
+ "skillPrefixName2211204": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2211205": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2211206": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName2211251": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2211252": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2211253": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2211254": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2211255": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "ren"
+ },
+ "skillPrefixName2211256": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2211301": {
+  "en": "神",
+  "ch": "神",
+  "pt": "Deus"
+ },
+ "skillPrefixName2211302": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2211303": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName2211304": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-esverdeado"
+ },
+ "skillPrefixName2211305": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2211306": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName2211351": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2211352": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2211353": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2211354": {
+  "en": "音",
+  "ch": "音",
+  "pt": "Som"
+ },
+ "skillPrefixName2211355": {
+  "en": "羽",
+  "ch": "羽",
+  "pt": "Pena"
+ },
+ "skillPrefixName2211356": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2211401": {
+  "en": "暴",
+  "ch": "暴",
+  "pt": "Violento"
+ },
+ "skillPrefixName2211402": {
+  "en": "狂",
+  "ch": "狂",
+  "pt": "Loucura"
+ },
+ "skillPrefixName2211403": {
+  "en": "掣",
+  "ch": "掣",
+  "pt": "Disparador"
+ },
+ "skillPrefixName2211404": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName2211405": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName2211451": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2211452": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2211453": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName2211454": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2211455": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2211456": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "braça"
+ },
+ "skillPrefixName2211501": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName2211502": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName2211503": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName2211504": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2211505": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName2211506": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2211551": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2211552": {
+  "en": "花",
+  "ch": "花",
+  "pt": "Flores"
+ },
+ "skillPrefixName2211553": {
+  "en": "羽",
+  "ch": "羽",
+  "pt": "Pena"
+ },
+ "skillPrefixName2211554": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2211555": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2211556": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2211601": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName2211602": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2211603": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName2211604": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName2211605": {
+  "en": "无",
+  "ch": "无",
+  "pt": "Nenhum"
+ },
+ "skillPrefixName2211606": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2211651": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2211652": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2211653": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2211654": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName2211655": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2211656": {
+  "en": "神",
+  "ch": "神",
+  "pt": "Deus"
+ },
+ "skillPrefixName2311101": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2311102": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2311103": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName2311104": {
+  "en": "幽",
+  "ch": "幽",
+  "pt": "Sombrio"
+ },
+ "skillPrefixName2311105": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "cinza"
+ },
+ "skillPrefixName2311106": {
+  "en": "青",
+  "ch": "青",
+  "pt": "Azul"
+ },
+ "skillPrefixName2311151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2311152": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2311153": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2311154": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName2311155": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2311156": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName2311201": {
+  "en": "赤",
+  "ch": "赤",
+  "pt": "Vermelho"
+ },
+ "skillPrefixName2311202": {
+  "en": "金",
+  "ch": "金",
+  "pt": "Ouro"
+ },
+ "skillPrefixName2311203": {
+  "en": "黑",
+  "ch": "黑",
+  "pt": "Preto"
+ },
+ "skillPrefixName2311204": {
+  "en": "红",
+  "ch": "红",
+  "pt": "Vermelho"
+ },
+ "skillPrefixName2311205": {
+  "en": "青",
+  "ch": "青",
+  "pt": "Azul"
+ },
+ "skillPrefixName2311206": {
+  "en": "银",
+  "ch": "银",
+  "pt": "Prata"
+ },
+ "skillPrefixName2311251": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2311252": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2311253": {
+  "en": "羽",
+  "ch": "羽",
+  "pt": "Pena"
+ },
+ "skillPrefixName2311254": {
+  "en": "莲",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "skillPrefixName2311255": {
+  "en": "翼",
+  "ch": "翼",
+  "pt": "Asas"
+ },
+ "skillPrefixName2311256": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2311301": {
+  "en": "禁",
+  "ch": "禁",
+  "pt": "Proibido"
+ },
+ "skillPrefixName2311302": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Ajoelhar-se"
+ },
+ "skillPrefixName2311303": {
+  "en": "残",
+  "ch": "残",
+  "pt": "Restante"
+ },
+ "skillPrefixName2311304": {
+  "en": "渡",
+  "ch": "渡",
+  "pt": "Travessia"
+ },
+ "skillPrefixName2311305": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName2311306": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName2311351": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2311352": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2311353": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2311354": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2311355": {
+  "en": "鸦",
+  "ch": "鸦",
+  "pt": "Corvo"
+ },
+ "skillPrefixName2311356": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2311401": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2311402": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2311403": {
+  "en": "幻",
+  "ch": "幻",
+  "pt": "Ilusão"
+ },
+ "skillPrefixName2311404": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName2311405": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName2311406": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2311451": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2311452": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2311453": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2311454": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2311456": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2311501": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName2311502": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2311503": {
+  "en": "灭",
+  "ch": "灭",
+  "pt": "Extinto"
+ },
+ "skillPrefixName2311504": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName2311505": {
+  "en": "禁",
+  "ch": "禁",
+  "pt": "Proibido"
+ },
+ "skillPrefixName2311506": {
+  "en": "灭",
+  "ch": "灭",
+  "pt": "Extinto"
+ },
+ "skillPrefixName2311551": {
+  "en": "神",
+  "ch": "神",
+  "pt": "Deus"
+ },
+ "skillPrefixName2311552": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2311553": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2311554": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2311555": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2311556": {
+  "en": "邪",
+  "ch": "邪",
+  "pt": "Mau"
+ },
+ "skillPrefixName2311601": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName2311602": {
+  "en": "舞",
+  "ch": "舞",
+  "pt": "Dança"
+ },
+ "skillPrefixName2311603": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2311604": {
+  "en": "飘",
+  "ch": "飘",
+  "pt": "Flutuar"
+ },
+ "skillPrefixName2311605": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skillPrefixName2311606": {
+  "en": "穿",
+  "ch": "穿",
+  "pt": "Vestir"
+ },
+ "skillPrefixName2311651": {
+  "en": "花",
+  "ch": "花",
+  "pt": "Flores"
+ },
+ "skillPrefixName2311652": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2311653": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2311654": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2311655": {
+  "en": "烟",
+  "ch": "烟",
+  "pt": "Fumaça"
+ },
+ "skillPrefixName2311656": {
+  "en": "墨",
+  "ch": "墨",
+  "pt": "Tinta"
+ },
+ "skillPrefixName2411101": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName2411102": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName2411103": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2411104": {
+  "en": "残",
+  "ch": "残",
+  "pt": "Restante"
+ },
+ "skillPrefixName2411105": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2411106": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2411151": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2411152": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2411153": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "ren"
+ },
+ "skillPrefixName2411154": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2411155": {
+  "en": "夜",
+  "ch": "夜",
+  "pt": "Noite"
+ },
+ "skillPrefixName2411156": {
+  "en": "鸦",
+  "ch": "鸦",
+  "pt": "Corvo"
+ },
+ "skillPrefixName2411201": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName2411202": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2411203": {
+  "en": "御",
+  "ch": "御",
+  "pt": "Respeitosamente"
+ },
+ "skillPrefixName2411204": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2411205": {
+  "en": "残",
+  "ch": "残",
+  "pt": "Restante"
+ },
+ "skillPrefixName2411206": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2411251": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2411252": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName2411253": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2411254": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2411255": {
+  "en": "梦",
+  "ch": "梦",
+  "pt": "Sonhos"
+ },
+ "skillPrefixName2411256": {
+  "en": "花",
+  "ch": "花",
+  "pt": "Flores"
+ },
+ "skillPrefixName2411301": {
+  "en": "炽",
+  "ch": "炽",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2411302": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2411303": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2411304": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2411305": {
+  "en": "邪",
+  "ch": "邪",
+  "pt": "Malvado"
+ },
+ "skillPrefixName2411306": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName2411351": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2411352": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2411353": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2411354": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2411355": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2411356": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2411401": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2411402": {
+  "en": "幻",
+  "ch": "幻",
+  "pt": "Ilusão"
+ },
+ "skillPrefixName2411403": {
+  "en": "幽",
+  "ch": "幽",
+  "pt": "Sombrio"
+ },
+ "skillPrefixName2411404": {
+  "en": "荒",
+  "ch": "荒",
+  "pt": "Desolado"
+ },
+ "skillPrefixName2411405": {
+  "en": "蚀",
+  "ch": "蚀",
+  "pt": "Erosão"
+ },
+ "skillPrefixName2411451": {
+  "en": "夜",
+  "ch": "夜",
+  "pt": "Noite"
+ },
+ "skillPrefixName2411452": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2411453": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2411454": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2411455": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2411456": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2411501": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skillPrefixName2411502": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName2411503": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2411504": {
+  "en": "青",
+  "ch": "青",
+  "pt": "Azul"
+ },
+ "skillPrefixName2411505": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2411506": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2411551": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2411552": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2411553": {
+  "en": "阳",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "skillPrefixName2411554": {
+  "en": "锋",
+  "ch": "锋",
+  "pt": "Ponta"
+ },
+ "skillPrefixName2411555": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "ren"
+ },
+ "skillPrefixName2411556": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2411601": {
+  "en": "炽",
+  "ch": "炽",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2411602": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2411603": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-esverdeado"
+ },
+ "skillPrefixName2411604": {
+  "en": "狂",
+  "ch": "狂",
+  "pt": "Loucura"
+ },
+ "skillPrefixName2411605": {
+  "en": "乱",
+  "ch": "乱",
+  "pt": "Desordem"
+ },
+ "skillPrefixName2411606": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skillPrefixName2411651": {
+  "en": "仞",
+  "ch": "仞",
+  "pt": "ren"
+ },
+ "skillPrefixName2411652": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2411653": {
+  "en": "锋",
+  "ch": "锋",
+  "pt": "Ponto agudo"
+ },
+ "skillPrefixName2411654": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2411655": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2411656": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2511101": {
+  "en": "定",
+  "ch": "定",
+  "pt": "Definido"
+ },
+ "skillPrefixName2511102": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2511103": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2511104": {
+  "en": "贯",
+  "ch": "贯",
+  "pt": "Perfurar"
+ },
+ "skillPrefixName2511105": {
+  "en": "穿",
+  "ch": "穿",
+  "pt": "Vestir"
+ },
+ "skillPrefixName2511106": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName2511151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2511152": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2511153": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2511154": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2511156": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Pico"
+ },
+ "skillPrefixName2511201": {
+  "en": "震",
+  "ch": "震",
+  "pt": "Tremor"
+ },
+ "skillPrefixName2511202": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2511203": {
+  "en": "定",
+  "ch": "定",
+  "pt": "Definido"
+ },
+ "skillPrefixName2511204": {
+  "en": "炼",
+  "ch": "炼",
+  "pt": "Refinar"
+ },
+ "skillPrefixName2511205": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2511206": {
+  "en": "狂",
+  "ch": "狂",
+  "pt": "Louco"
+ },
+ "skillPrefixName2511251": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2511252": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2511253": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2511254": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Monte"
+ },
+ "skillPrefixName2511255": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2511301": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrupção"
+ },
+ "skillPrefixName2511302": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2511303": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2511304": {
+  "en": "定",
+  "ch": "定",
+  "pt": "Definido"
+ },
+ "skillPrefixName2511305": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2511306": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Cinza"
+ },
+ "skillPrefixName2511351": {
+  "en": "岩",
+  "ch": "岩",
+  "pt": "Rocha"
+ },
+ "skillPrefixName2511352": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Pico"
+ },
+ "skillPrefixName2511353": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2511354": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2511355": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2511401": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2511402": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2511403": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName2511404": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName2511405": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName2511406": {
+  "en": "锁",
+  "ch": "锁",
+  "pt": "Fechadura"
+ },
+ "skillPrefixName2511451": {
+  "en": "岩",
+  "ch": "岩",
+  "pt": "Rocha"
+ },
+ "skillPrefixName2511452": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2511453": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2511454": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2511455": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Pico"
+ },
+ "skillPrefixName2511456": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2511501": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2511502": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2511503": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName2511504": {
+  "en": "幽",
+  "ch": "幽",
+  "pt": "Sombrio"
+ },
+ "skillPrefixName2511505": {
+  "en": "荒",
+  "ch": "荒",
+  "pt": "Desolado"
+ },
+ "skillPrefixName2511506": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2511551": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2511552": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2511553": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2511554": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2511555": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2511556": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2511601": {
+  "en": "炽",
+  "ch": "炽",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2511602": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2511603": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2511604": {
+  "en": "轻",
+  "ch": "轻",
+  "pt": "Leve"
+ },
+ "skillPrefixName2511605": {
+  "en": "怒",
+  "ch": "怒",
+  "pt": "Raiva"
+ },
+ "skillPrefixName2511606": {
+  "en": "灼",
+  "ch": "灼",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2511651": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2511652": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2511653": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2511654": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2511655": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Monte"
+ },
+ "skillPrefixName2511656": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2611101": {
+  "en": "飞",
+  "ch": "飞",
+  "pt": "Voar"
+ },
+ "skillPrefixName2611102": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skillPrefixName2611103": {
+  "en": "幽",
+  "ch": "幽",
+  "pt": "Sombrio"
+ },
+ "skillPrefixName2611104": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2611105": {
+  "en": "噬",
+  "ch": "噬",
+  "pt": "Devorar"
+ },
+ "skillPrefixName2611106": {
+  "en": "怒",
+  "ch": "怒",
+  "pt": "Raiva"
+ },
+ "skillPrefixName2611151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2611152": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2611153": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2611154": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2611155": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2611156": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2611201": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2611202": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName2611203": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2611204": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-esverdeado"
+ },
+ "skillPrefixName2611205": {
+  "en": "紫",
+  "ch": "紫",
+  "pt": "Roxo"
+ },
+ "skillPrefixName2611206": {
+  "en": "龙",
+  "ch": "龙",
+  "pt": "Dragão"
+ },
+ "skillPrefixName2611251": {
+  "en": "岩",
+  "ch": "岩",
+  "pt": "Rocha"
+ },
+ "skillPrefixName2611252": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2611253": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2611254": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Montanha"
+ },
+ "skillPrefixName2611255": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Pedra preciosa"
+ },
+ "skillPrefixName2611256": {
+  "en": "瘴",
+  "ch": "瘴",
+  "pt": "miasma"
+ },
+ "skillPrefixName2611301": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skillPrefixName2611302": {
+  "en": "煞",
+  "ch": "煞",
+  "pt": "Péssimo"
+ },
+ "skillPrefixName2611303": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skillPrefixName2611304": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2611305": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2611306": {
+  "en": "震",
+  "ch": "震",
+  "pt": "Tremor"
+ },
+ "skillPrefixName2611351": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2611352": {
+  "en": "阳",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "skillPrefixName2611353": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2611354": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName2611355": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2611356": {
+  "en": "梦",
+  "ch": "梦",
+  "pt": "Sonhos"
+ },
+ "skillPrefixName2611401": {
+  "en": "弑",
+  "ch": "弑",
+  "pt": "Assassinar"
+ },
+ "skillPrefixName2611402": {
+  "en": "炼",
+  "ch": "炼",
+  "pt": "Refinar"
+ },
+ "skillPrefixName2611403": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skillPrefixName2611404": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skillPrefixName2611405": {
+  "en": "封",
+  "ch": "封",
+  "pt": "Selar"
+ },
+ "skillPrefixName2611406": {
+  "en": "定",
+  "ch": "定",
+  "pt": "Definido"
+ },
+ "skillPrefixName2611451": {
+  "en": "神",
+  "ch": "神",
+  "pt": "Deus"
+ },
+ "skillPrefixName2611452": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2611453": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2611454": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2611455": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2611456": {
+  "en": "莲",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "skillPrefixName2611501": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2611502": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName2611503": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName2611504": {
+  "en": "蚀",
+  "ch": "蚀",
+  "pt": "Erosão"
+ },
+ "skillPrefixName2611505": {
+  "en": "玄",
+  "ch": "玄",
+  "pt": "Misterioso"
+ },
+ "skillPrefixName2611506": {
+  "en": "飘",
+  "ch": "飘",
+  "pt": "Flutuar"
+ },
+ "skillPrefixName2611551": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2611552": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2611553": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Origem"
+ },
+ "skillPrefixName2611554": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName2611555": {
+  "en": "衡",
+  "ch": "衡",
+  "pt": "Equilíbrio"
+ },
+ "skillPrefixName2611556": {
+  "en": "夜",
+  "ch": "夜",
+  "pt": "Noite"
+ },
+ "skillPrefixName2611601": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skillPrefixName2611602": {
+  "en": "逐",
+  "ch": "逐",
+  "pt": "Passo a passo"
+ },
+ "skillPrefixName2611603": {
+  "en": "贯",
+  "ch": "贯",
+  "pt": "Perfurar"
+ },
+ "skillPrefixName2611604": {
+  "en": "摧",
+  "ch": "摧",
+  "pt": "Destruir"
+ },
+ "skillPrefixName2611605": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2611606": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Ajoelhar-se"
+ },
+ "skillPrefixName2611651": {
+  "en": "梦",
+  "ch": "梦",
+  "pt": "Sonhos"
+ },
+ "skillPrefixName2611652": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2611653": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2611654": {
+  "en": "阳",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "skillPrefixName2611655": {
+  "en": "鸦",
+  "ch": "鸦",
+  "pt": "Corvo"
+ },
+ "skillPrefixName2611656": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2711101": {
+  "en": "无",
+  "ch": "无",
+  "pt": "Nenhum"
+ },
+ "skillPrefixName2711102": {
+  "en": "极",
+  "ch": "极",
+  "pt": "Extremo"
+ },
+ "skillPrefixName2711103": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skillPrefixName2711104": {
+  "en": "冷",
+  "ch": "冷",
+  "pt": "Frio"
+ },
+ "skillPrefixName2711105": {
+  "en": "灼",
+  "ch": "灼",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2711106": {
+  "en": "玄",
+  "ch": "玄",
+  "pt": "misterioso"
+ },
+ "skillPrefixName2711151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2711153": {
+  "en": "灵",
+  "ch": "灵",
+  "pt": "Espírito"
+ },
+ "skillPrefixName2711154": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2711155": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2711156": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2711201": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skillPrefixName2711202": {
+  "en": "幻",
+  "ch": "幻",
+  "pt": "Ilusão"
+ },
+ "skillPrefixName2711203": {
+  "en": "乱",
+  "ch": "乱",
+  "pt": "Desordem"
+ },
+ "skillPrefixName2711204": {
+  "en": "沧",
+  "ch": "沧",
+  "pt": "Cang"
+ },
+ "skillPrefixName2711205": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skillPrefixName2711206": {
+  "en": "煞",
+  "ch": "煞",
+  "pt": "Argh"
+ },
+ "skillPrefixName2711251": {
+  "en": "空",
+  "ch": "空",
+  "pt": "Vazio"
+ },
+ "skillPrefixName2711252": {
+  "en": "天",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "skillPrefixName2711253": {
+  "en": "衡",
+  "ch": "衡",
+  "pt": "Equilíbrio"
+ },
+ "skillPrefixName2711254": {
+  "en": "岳",
+  "ch": "岳",
+  "pt": "Pico"
+ },
+ "skillPrefixName2711255": {
+  "en": "劫",
+  "ch": "劫",
+  "pt": "Roubo"
+ },
+ "skillPrefixName2711256": {
+  "en": "形",
+  "ch": "形",
+  "pt": "Forma"
+ },
+ "skillPrefixName2711301": {
+  "en": "炽",
+  "ch": "炽",
+  "pt": "Ardente"
+ },
+ "skillPrefixName2711302": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2711303": {
+  "en": "赤",
+  "ch": "赤",
+  "pt": "Vermelho"
+ },
+ "skillPrefixName2711304": {
+  "en": "碧",
+  "ch": "碧",
+  "pt": "Azul-esverdeado"
+ },
+ "skillPrefixName2711305": {
+  "en": "暗",
+  "ch": "暗",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2711306": {
+  "en": "青",
+  "ch": "青",
+  "pt": "Azul"
+ },
+ "skillPrefixName2711351": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2711352": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2711353": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2711354": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName2711355": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2711401": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skillPrefixName2711402": {
+  "en": "沧",
+  "ch": "沧",
+  "pt": "Cang"
+ },
+ "skillPrefixName2711403": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skillPrefixName2711404": {
+  "en": "幽",
+  "ch": "幽",
+  "pt": "Sombrio"
+ },
+ "skillPrefixName2711405": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skillPrefixName2711406": {
+  "en": "逐",
+  "ch": "逐",
+  "pt": "Passo a passo"
+ },
+ "skillPrefixName2711451": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2711453": {
+  "en": "衡",
+  "ch": "衡",
+  "pt": "Equilíbrio"
+ },
+ "skillPrefixName2711454": {
+  "en": "狱",
+  "ch": "狱",
+  "pt": "Prisão"
+ },
+ "skillPrefixName2711455": {
+  "en": "溟",
+  "ch": "溟",
+  "pt": "Escuridão"
+ },
+ "skillPrefixName2711456": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuro"
+ },
+ "skillPrefixName2711501": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2711502": {
+  "en": "月",
+  "ch": "月",
+  "pt": "Mês"
+ },
+ "skillPrefixName2711503": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName2711504": {
+  "en": "尘",
+  "ch": "尘",
+  "pt": "Poeira"
+ },
+ "skillPrefixName2711505": {
+  "en": "炎",
+  "ch": "炎",
+  "pt": "Chamas"
+ },
+ "skillPrefixName2711506": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2711551": {
+  "en": "隐",
+  "ch": "隐",
+  "pt": "Oculto"
+ },
+ "skillPrefixName2711552": {
+  "en": "魔",
+  "ch": "魔",
+  "pt": "Demônio"
+ },
+ "skillPrefixName2711553": {
+  "en": "形",
+  "ch": "形",
+  "pt": "Forma"
+ },
+ "skillPrefixName2711554": {
+  "en": "圣",
+  "ch": "圣",
+  "pt": "Santo"
+ },
+ "skillPrefixName2711555": {
+  "en": "影",
+  "ch": "影",
+  "pt": "Sombra"
+ },
+ "skillPrefixName2711556": {
+  "en": "莲",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "skillPrefixName2711601": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Congelado"
+ },
+ "skillPrefixName2711602": {
+  "en": "血",
+  "ch": "血",
+  "pt": "Sangue"
+ },
+ "skillPrefixName2711603": {
+  "en": "残",
+  "ch": "残",
+  "pt": "Restante"
+ },
+ "skillPrefixName2711604": {
+  "en": "蚀",
+  "ch": "蚀",
+  "pt": "Erosão"
+ },
+ "skillPrefixName2711605": {
+  "en": "梦",
+  "ch": "梦",
+  "pt": "Sonhos"
+ },
+ "skillPrefixName2711606": {
+  "en": "幻",
+  "ch": "幻",
+  "pt": "Ilusão"
+ },
+ "skillPrefixName2711651": {
+  "en": "元",
+  "ch": "元",
+  "pt": "Original"
+ },
+ "skillPrefixName2711652": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName2711653": {
+  "en": "域",
+  "ch": "域",
+  "pt": "Domínio"
+ },
+ "skillPrefixName2711654": {
+  "en": "霜",
+  "ch": "霜",
+  "pt": "Geada"
+ },
+ "skillPrefixName2711655": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName2711656": {
+  "en": "玉",
+  "ch": "玉",
+  "pt": "Jade"
+ },
+ "skillPrefixName3211101": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skillPrefixName3211102": {
+  "en": "无",
+  "ch": "无",
+  "pt": "Nenhum"
+ },
+ "skillPrefixName3211103": {
+  "en": "流",
+  "ch": "流",
+  "pt": "Fluxo"
+ },
+ "skillPrefixName3211104": {
+  "en": "掣",
+  "ch": "掣",
+  "pt": "Disparador"
+ },
+ "skillPrefixName3211105": {
+  "en": "伏",
+  "ch": "伏",
+  "pt": "Agachado"
+ },
+ "skillPrefixName3211106": {
+  "en": "归",
+  "ch": "归",
+  "pt": "Voltar"
+ },
+ "skillPrefixName3211151": {
+  "en": "云",
+  "ch": "云",
+  "pt": "Nuvens"
+ },
+ "skillPrefixName3211152": {
+  "en": "星",
+  "ch": "星",
+  "pt": "Estrela"
+ },
+ "skillPrefixName3211153": {
+  "en": "阳",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "skillPrefixName3211154": {
+  "en": "魂",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "skillPrefixName3211155": {
+  "en": "冥",
+  "ch": "冥",
+  "pt": "Escuro"
+ },
+ "skillPrefixName3211201": {
+  "en": "狂",
+  "ch": "狂",
+  "pt": "Loucura"
+ }
+}

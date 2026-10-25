@@ -1,0 +1,3602 @@
+{
+ "s_510061_cxsj": {
+  "en": "Invisibility Duration &510061_cxsj&s",
+  "ch": "隐身持续时间&510061_cxsj&秒。",
+  "pt": "Duração da Invisibilidade &510061_cxsj&s"
+ },
+ "s_510061_djkm": {
+  "en": "When you cast this skill, you'll receive &510061_djkm& stacks of $s_kaimai$.",
+  "ch": "使用技能时，为自身叠加&510061_djkm&层$s_kaimai$。",
+  "pt": "Ao usar essa habilidade, você receberá &510061_djkm& acúmulos de $s_kaimai$."
+ },
+ "s_510061_huxin": {
+  "en": "Crit RES &510061_huxin&",
+  "ch": "护心&510061_huxin&。",
+  "pt": "RES Crítico &510061_huxin&"
+ },
+ "s_510061_hxts": {
+  "en": "Within &510061_hxsj&s after you become visible again, your Crit will increase by &510061_hxts&.",
+  "ch": "现身后&510061_hxsj&秒内，自身的会心提升&510061_hxts&。",
+  "pt": "Dentro de &510061_hxsj&, após você se tornar visível novamente, seu Crítico aumentará em &510061_hxts&."
+ },
+ "s_510061_jssh": {
+  "en": "Your damage taken while invisible &510061_jssh&%",
+  "ch": "隐身时，自身受到的伤害&510061_jssh&%。",
+  "pt": "O dano que você recebe enquanto estiver invisível &510061_jssh&%"
+ },
+ "s_510061_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510061_mpCost&",
+  "ch": "此身法的灵力消耗&510061_mpCost&。",
+  "pt": "O Custo de Energia dessa Técnica de Movimento &510061_mpCost&"
+ },
+ "s_510061_tsys": {
+  "en": "Your Agility boost while invisible &510061_tsys&",
+  "ch": "隐身时提升的移动速度&510061_tsys&。",
+  "pt": "Seu aumento de Agilidade enquanto invisível &510061_tsys&"
+ },
+ "s_510061_ydsd": {
+  "en": "Agility &510061_ydsd&",
+  "ch": "移动速度&510061_ydsd&。",
+  "pt": "Agilidade &510061_ydsd&"
+ },
+ "s_510111_cd": {
+  "en": "This Motion Skill's cooldown &510111_cd&s",
+  "ch": "此身法的冷却时间&510111_cd&秒。",
+  "pt": "O tempo de recarga dessa Técnica de Movimento é &510111_cd&s"
+ },
+ "s_510111_ddsl": {
+  "en": "Fire Foxes summoned &510111_ddsl&",
+  "ch": "幻化的火狐数量&510111_ddsl&。",
+  "pt": "Fogo: Raposas invocadas &510111_ddsl&"
+ },
+ "s_510111_dmg": {
+  "en": "Each Fire Fox's damage &510111_dmg&",
+  "ch": "火狐的伤害威力&510111_dmg&。",
+  "pt": "O dano de cada Raposa de Fogo é &510111_dmg&"
+ },
+ "s_510111_huxin": {
+  "en": "Crit RES &510111_huxin&",
+  "ch": "护心&510111_huxin&。",
+  "pt": "RES Crítico &510111_huxin&"
+ },
+ "s_510111_hyfw": {
+  "en": "If this skill is cast when there are at least &510111_zscs& stacks of $s_zhuoshao$, $s_lieyan$'s area of effect &510111_hyfw&.",
+  "ch": "若使用技能时，场上有&510111_zscs&层$s_zhuoshao$，则$s_lieyan$的范围&510111_hyfw&。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &510111_zscs& acúmulos de $s_zhuoshao$, a área de efeito de $s_lieyan$ será &510111_hyfw&."
+ },
+ "s_510111_hysj": {
+  "en": "When a Fire Fox disappears, a $s_lieyan$ (area of effect: &510111_hyfw&) that lasts &510111_hysj&s will be generated at its location.",
+  "ch": "在每个火狐消失的位置处生成一团范围&510111_hyfw&的$s_lieyan$，持续&510111_hysj&秒。",
+  "pt": "Quando uma Raposa de Fogo desaparece, uma $s_lieyan$ (área de efeito: &510111_hyfw&) que dura &510111_hysj&s é gerada no local onde ela estava."
+ },
+ "s_510111_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510111_mpCost&",
+  "ch": "此身法的灵力消耗&510111_mpCost&。",
+  "pt": "O Custo de Energia desta Técnica de Movimento &510111_mpCost&"
+ },
+ "s_510111_tssj": {
+  "en": "If you have $s_ranhun$ when casting this skill, the duration of $s_lieyan$ will be extended by &510111_tssj&s.",
+  "ch": "若使用技能时，自身拥有$s_ranhun$，则$s_lieyan$的持续时间增加&510111_tssj&秒。",
+  "pt": "Se você possuir $s_ranhun$ ao usar essa habilidade, a duração de $s_lieyan$ será aumentada em &510111_tssj&s."
+ },
+ "s_510111_ydjl": {
+  "en": "Each Fire Fox's sprint distance &510111_ydjl&",
+  "ch": "火狐的奔跑距离&510111_ydjl&。",
+  "pt": "A distância que cada Fogo Raposa percorre ao correr é &510111_ydjl&"
+ },
+ "s_510111_ydsd": {
+  "en": "Agility &510111_ydsd&",
+  "ch": "移动速度&510111_ydsd&。",
+  "pt": "Agilidade &510111_ydsd&"
+ },
+ "s_510111_zjcd": {
+  "en": "After you appear at the closest Fire Fox's location, the cooldown of Spiritual Skills &510111_zjcd&% for &510111_zjsj&s.",
+  "ch": "从火狐的身上出现后，灵技的冷却时间&510111_zjcd&%，持续&510111_zjsj&秒。",
+  "pt": "Após aparecer na localização mais próxima do Raposo de Fogo, o tempo de recarga da Técnica Espiritual &510111_zjcd&% será de &510111_zjsj& segundos."
+ },
+ "s_510121_bbfw": {
+  "en": "When $s_huanying$ disappears, an Ice Eruption will be triggered, dealing &510121_bbsh& $s_shui$ damage to enemies within &510121_bbfw&.",
+  "ch": "$s_huanying$消失时会产生冰爆，对范围&510121_bbfw&内的敌人造成威力&510121_bbsh&的$s_shui$伤害。",
+  "pt": "Quando $s_huanying$ desaparecer, ocorrerá uma Erupção de Gelo, causando &510121_bbsh& $s_shui$ de dano a todos os inimigos dentro de &510121_bbfw&."
+ },
+ "s_510121_cd": {
+  "en": "This Motion Skill's cooldown &510121_cd&s",
+  "ch": "此身法的冷却时间&510121_cd&秒。",
+  "pt": "O tempo de recarga desta Técnica de Movimento é &510121_cd&s"
+ },
+ "s_510121_cxsj": {
+  "en": "$s_huanying$'s duration &510121_cxsj&s",
+  "ch": "$s_huanying$的持续时间&510121_cxsj&秒。",
+  "pt": "Duração de $s_huanying$ &510121_cxsj&s"
+ },
+ "s_510121_huxin": {
+  "en": "Crit RES &510121_huxin&",
+  "ch": "护心&510121_huxin&。",
+  "pt": "RES Crítico &510121_huxin&"
+ },
+ "s_510121_hysh": {
+  "en": "Phantom's damage &510121_hysh&",
+  "ch": "幻影造成的伤害&510121_hysh&。",
+  "pt": "Dano do Fantasma &510121_hysh&"
+ },
+ "s_510121_hyss": {
+  "en": "$s_huanying$'s damage taken &510121_hyss&%",
+  "ch": "$s_huanying$受到的伤害&510121_hyss&%。",
+  "pt": "O dano recebido por $s_huanying$ é &510121_hyss&%"
+ },
+ "s_510121_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510121_mpCost&",
+  "ch": "此身法的灵力消耗&510121_mpCost&。",
+  "pt": "O Custo de Energia desta Técnica de Movimento &510121_mpCost&"
+ },
+ "s_510121_ydjl": {
+  "en": "Blink distance &510121_ydjl&",
+  "ch": "闪现的距离&510121_ydjl&。",
+  "pt": "Distância do piscar &510121_ydjl&"
+ },
+ "s_510121_ydsd": {
+  "en": "Agility &510121_ydsd&",
+  "ch": "移动速度&510121_ydsd&。",
+  "pt": "Agilidade &510121_ydsd&"
+ },
+ "s_510121_zjcd": {
+  "en": "The cooldown of $s_huanying$'s Spiritual Skills &510121_zjcd&%",
+  "ch": "$s_huanying$的灵技冷却时间&510121_zjcd&%。",
+  "pt": "O tempo de recarga das Técnicas Espirituais de $s_huanying$ &510121_zjcd&%"
+ },
+ "s_510131_cd": {
+  "en": "This Motion Skill's cooldown &510131_cd&s",
+  "ch": "此身法的冷却时间&510131_cd&秒。",
+  "pt": "O tempo de recarga desta Técnica de Movimento é &510131_cd&s"
+ },
+ "s_510131_djll": {
+  "en": "Crashing Lightning inflicts &510131_djll& stacks of $s_luanliu$",
+  "ch": "落雷对命中的敌人叠加&510131_djll&层$s_luanliu$。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O Relâmpago Impactante inflige &510131_djll& acúmulos de $s_luanliu$"
+ },
+ "s_510131_djly": {
+  "en": "When you cast this skill, you'll receive &510131_djly& stacks of $s_leiyong$.",
+  "ch": "使用此技能时，为自身叠加&510131_djly&层$s_leiyong$。",
+  "pt": "Ao usar essa habilidade, você receberá &510131_djly& pilhas de $s_leiyong$."
+ },
+ "s_510131_dmg": {
+  "en": "Crashing Lightning's damage &510131_dmg&",
+  "ch": "落雷的伤害威力&510131_dmg&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Dano do Relâmpago Impactante &510131_dmg&"
+ },
+ "s_510131_huxin": {
+  "en": "Crit RES &510131_huxin&",
+  "ch": "护心&510131_huxin&。",
+  "pt": "RES Crítico &510131_huxin&"
+ },
+ "s_510131_lqfw": {
+  "en": "When you cast this skill, you'll leave behind a Ball of Lightning that lasts &510131_lqsj&s, dealing &510131_lqsh&/s $s_lei$ damage to enemies within &510131_lqfw&.",
+  "ch": "使用此技能时，在原地留下一个雷球，雷球可持续打击范围&510131_lqfw&内的敌人，造成威力&510131_lqsh&/秒的$s_lei$伤害，雷球持续&510131_lqsj&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Ao usar essa habilidade, você deixará para trás uma Esfera de Relâmpago que dura &510131_lqsj&s, causando &510131_lqsh&/s $s_lei$ de dano por segundo aos inimigos dentro de &510131_lqfw&."
+ },
+ "s_510131_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510131_mpCost&",
+  "ch": "此身法的灵力消耗&510131_mpCost&。",
+  "pt": "O Custo de Energia desta Técnica de Movimento &510131_mpCost&"
+ },
+ "s_510131_shfw": {
+  "en": "Crashing Lightning's area of damage &510131_shfw&",
+  "ch": "落雷的伤害范围&510131_shfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Área de dano do Relâmpago de Impacto &510131_shfw&"
+ },
+ "s_510131_ydjl": {
+  "en": "Blink distance &510131_ydjl&",
+  "ch": "闪现的距离&510131_ydjl&。",
+  "pt": "Distância de piscagem &510131_ydjl&"
+ },
+ "s_510131_ydsd": {
+  "en": "Agility &510131_ydsd&",
+  "ch": "移动速度&510131_ydsd&。",
+  "pt": "Agilidade &510131_ydsd&"
+ },
+ "s_510141_cd": {
+  "en": "This Motion Skill's cooldown &510141_cd&s",
+  "ch": "此身法的冷却时间&510141_cd&秒。",
+  "pt": "O tempo de recarga desta Técnica de Movimento é &510141_cd& segundos"
+ },
+ "s_510141_csjg": {
+  "en": "Every &510141_csjg&s, the Tornado generates a $s_xuanfeng$ in its center.",
+  "ch": "龙卷风每隔&510141_csjg&秒可在中心生成一道$s_xuanfeng$。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "A cada &510141_csjg&, o Tornado gera um $s_xuanfeng$ em seu centro."
+ },
+ "s_510141_cxsj": {
+  "en": "Tornado's duration &510141_cxsj&s",
+  "ch": "龙卷风的持续时间&510141_cxsj&秒。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Duração do tornado &510141_cxsj&s"
+ },
+ "s_510141_dmg": {
+  "en": "Tornado's damage &510141_dmg&/s",
+  "ch": "龙卷风的伤害威力&510141_dmg&/秒。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Dano causado pelo Tornado &510141_dmg&/s"
+ },
+ "s_510141_huxin": {
+  "en": "Crit RES &510141_huxin&",
+  "ch": "护心&510141_huxin&。",
+  "pt": "RES Crítico &510141_huxin&"
+ },
+ "s_510141_jdys": {
+  "en": "Agility of enemies hit by the Tornado &510141_jdys&% for &510141_jssj&s.",
+  "ch": "龙卷风可使目标的移动速度&510141_jdys&%，持续&510141_jssj&秒。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Agilidade dos inimigos atingidos pelo Tornado &510141_jdys&% por &510141_jssj& segundos."
+ },
+ "s_510141_ljfw": {
+  "en": "If this skill is cast when you have $s_lingfeng$, Tornado's area of effect will be expanded by &510141_ljfw&.",
+  "ch": "若使用此技能时，自身带有$s_lingfeng$，则龙卷风的范围提升&510141_ljfw&。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Se esta habilidade for usada quando você possuir $s_lingfeng$, a área de efeito do Tornado será ampliada em &510141_ljfw&."
+ },
+ "s_510141_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510141_mpCost&",
+  "ch": "此身法的灵力消耗&510141_mpCost&。",
+  "pt": "O Custo de Energia desta Técnica de Movimento é &510141_mpCost&"
+ },
+ "s_510141_qyfw": {
+  "en": "The Tornado pulls enemies within &510141_qyfw& close.",
+  "ch": "龙卷风可将范围&510141_qyfw&内的敌人向自身牵引。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "O Tornado atrai inimigos para perto de &510141_qyfw&."
+ },
+ "s_510141_tsys": {
+  "en": "Tornado's Agility boost &510141_tsys&",
+  "ch": "龙卷风提升的移动速度&510141_tsys&。",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "O aumento de Agilidade do Tornado &510141_tsys&"
+ },
+ "s_510141_ydsd": {
+  "en": "Agility &510141_ydsd&",
+  "ch": "移动速度&510141_ydsd&。",
+  "pt": "Agilidade &510141_ydsd&"
+ },
+ "s_510151_cd": {
+  "en": "This Motion Skill's cooldown &510151_cd&s",
+  "ch": "此身法的冷却时间&510151_cd&秒。",
+  "pt": "O tempo de recarga desta Técnica de Movimento é &510151_cd& segundos"
+ },
+ "s_510151_cxsj": {
+  "en": "Underground duration &510151_cxsj&s",
+  "ch": "遁地的持续时间&510151_cxsj&秒。",
+  "pt": "Duração do modo subterrâneo &510151_cxsj&s"
+ },
+ "s_510151_djsf": {
+  "en": "After returning to the surface, you'll receive &510151_djsf& stacks of $s_shifu$.",
+  "ch": "从地下出现后，为自身叠加&510151_djsf&层$s_shifu$。",
+  "pt": "Após retornar à superfície, você receberá &510151_djsf& pilhas de $s_shifu$."
+ },
+ "s_510151_dmg": {
+  "en": "Earth Collapse's damage &510151_dmg&",
+  "ch": "土崩的伤害威力&510151_dmg&。",
+  "pt": "O dano do Colapso da Terra é &510151_dmg&"
+ },
+ "s_510151_huxin": {
+  "en": "Crit RES &510151_huxin&",
+  "ch": "护心&510151_huxin&。",
+  "pt": "RES Crítico &510151_huxin&"
+ },
+ "s_510151_jssh": {
+  "en": "After returning to the surface, your damage taken &510151_jssh&% for &510151_jssj&s.",
+  "ch": "从地下出现后，自身受到的伤害&510151_jssh&%，持续&510151_jssj&秒。",
+  "pt": "Após retornar à superfície, o dano recebido será &510151_jssh&% por &510151_jssj& segundos."
+ },
+ "s_510151_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510151_mpCost&",
+  "ch": "此身法的灵力消耗&510151_mpCost&。",
+  "pt": "O Custo de Energia desta Técnica de Movimento &510151_mpCost&"
+ },
+ "s_510151_shfw": {
+  "en": "Earth Collapse's area of damage &510151_shfw&",
+  "ch": "土崩的伤害范围&510151_shfw&。",
+  "pt": "A área de dano do Colapso da Terra &510151_shfw&"
+ },
+ "s_510151_tkht": {
+  "en": "When you're underground, you'll restore $s_tukuilei$s' Vitality by &510151_tkht&% every second.",
+  "ch": "遁入地下时，每秒可为场上的$s_tukuilei$恢复体力&510151_tkht&%。",
+  "pt": "Quando estiver debaixo da terra, você restaurará $s_tukuilei$s' de Vitalidade em &510151_tkht&% a cada segundo."
+ },
+ "s_510151_tkjs": {
+  "en": "When you're underground, $s_tukuilei$s' Agility will increase by &510151_tkjs&%.",
+  "ch": "遁入地下时，场上的$s_tukuilei$的移动速度提升&510151_tkjs&%。",
+  "pt": "Quando você estiver no subsolo, a Agilidade de $s_tukuilei$s aumentará em &510151_tkjs&%."
+ },
+ "s_510151_ydsd": {
+  "en": "Agility &510151_ydsd&",
+  "ch": "移动速度&510151_ydsd&。",
+  "pt": "Agilidade &510151_ydsd&"
+ },
+ "s_510161_cd": {
+  "en": "This Motion Skill's cooldown &510161_cd&s",
+  "ch": "此身法的冷却时间&510161_cd&秒。",
+  "pt": "O tempo de recarga desta Técnica de Movimento é &510161_cd& segundos"
+ },
+ "s_510161_dccs": {
+  "en": "If this skill is cast when there are at least &510161_dccs& stacks of $s_duci$, &510161_dwsl& $s_duwa$s will be summoned.",
+  "ch": "使用技能时，若场上至少有&510161_dccs&层$s_duci$，则召唤&510161_dwsl&只$s_duwa$。",
+  "pt": "Se essa habilidade for usada quando houver pelo menos &510161_dccs& acúmulos de $s_duci$, &510161_dwsl& $s_duwa$s serão invocados."
+ },
+ "s_510161_dmg": {
+  "en": "Butterfly's damage &510161_dmg&",
+  "ch": "蝶舞的伤害威力&510161_dmg&。",
+  "pt": "Dano causado pela Borboleta &510161_dmg&"
+ },
+ "s_510161_fwsd": {
+  "en": "Butterfly's flying speed &510161_fwsd&",
+  "ch": "蝶舞的飞舞速度提升&510161_fwsd&。",
+  "pt": "A velocidade de voo da borboleta &510161_fwsd&"
+ },
+ "s_510161_hftl": {
+  "en": "Butterfly restores &510161_hftl& Vitality to allies in its path.",
+  "ch": "蝶舞可为路径上的友方单位恢复体力&510161_hftl&点。",
+  "pt": "A Borboleta restaura &510161_hftl& de Vitalidade aos aliados em seu caminho."
+ },
+ "s_510161_hlcs": {
+  "en": "If you have at least &510161_hlcs& stacks of $s_hualing$ when casting this skill, you'll summon &510161_hysl& $s_xiaohuayao$s.",
+  "ch": "使用技能时，若自身拥有至少&510161_hlcs&层$s_hualing$，则召唤&510161_hysl&只$s_xiaohuayao$。",
+  "pt": "Se você tiver pelo menos &510161_hlcs& pilhas de $s_hualing$ ao usar essa habilidade, invocará &510161_hysl& $s_xiaohuayao$s."
+ },
+ "s_510161_huxin": {
+  "en": "Crit RES &510161_huxin&",
+  "ch": "护心&510161_huxin&。",
+  "pt": "RES Crítico &510161_huxin&"
+ },
+ "s_510161_jdys": {
+  "en": "Agility of enemies in the path of the Butterfly &510161_jdys&% for &510161_jssj&s.",
+  "ch": "蝶舞可使路径上的敌人的移动速度&510161_jdys&%，持续&510161_jssj&秒。",
+  "pt": "A Agilidade dos inimigos no caminho da Borboleta &510161_jdys&% para &510161_jssj&s."
+ },
+ "s_510161_mpCost": {
+  "en": "This Motion Skill's Energy Cost &510161_mpCost&",
+  "ch": "此身法的灵力消耗&510161_mpCost&。",
+  "pt": "O Custo de Energia desta Técnica de Movimento &510161_mpCost&"
+ },
+ "s_510161_ydjl": {
+  "en": "Butterfly's flying distance &510161_ydjl&",
+  "ch": "蝶舞的飞舞距离&510161_ydjl&。",
+  "pt": "Distância percorrida pela borboleta &510161_ydjl&"
+ },
+ "s_510161_ydsd": {
+  "en": "Agility &510161_ydsd&",
+  "ch": "移动速度&510161_ydsd&。",
+  "pt": "Agilidade &510161_ydsd&"
+ },
+ "s_51111_cd": {
+  "en": "This skill's cooldown &51111_cd&s",
+  "ch": "此技能的冷却时间&51111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &51111_cd&s"
+ },
+ "s_51111_djzs": {
+  "en": "If this skill is cast when there's only one enemy, this enemy will be inflicted with &51111_djzs& stacks of $s_zhuoshao$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即为其叠加&51111_djzs&层$s_zhuoshao$。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, esse inimigo receberá &51111_djzs& acúmulos de $s_zhuoshao$."
+ },
+ "s_51111_jdsj": {
+  "en": "After this skill hits an enemy, for the next &51111_jdsj&s, the enemy's damage &51111_jdsh&%.",
+  "ch": "此技能在命中敌人时，可使目标在接下来的&51111_jdsj&秒，造成的伤害&51111_jdsh&%。",
+  "pt": "Após esta habilidade atingir um inimigo, nos próximos &51111_jdsj&s, o dano causado ao inimigo será reduzido em &51111_jdsh&%."
+ },
+ "s_51111_mpCost": {
+  "en": "This skill's Energy Cost &51111_mpCost&",
+  "ch": "此技能的灵力消耗&51111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &51111_mpCost&"
+ },
+ "s_51111_range": {
+  "en": "The ring of fire's area of effect &51111_range&",
+  "ch": "喷射火焰的范围&51111_range&。",
+  "pt": "A área de efeito do Anel do Fogo &51111_range&"
+ },
+ "s_51111_scsj": {
+  "en": "For every stack of $s_zhuoshao$ detonated on an enemy, a $s_lieyan$ (area of effect: &51111_hyfw&) that lasts &51111_scsj&s will be generated underneath the enemy.",
+  "ch": "每引爆一个敌人的$s_zhuoshao$时，在其脚下生成一团范围&51111_hyfw&的$s_lieyan$，持续&51111_scsj&秒。",
+  "pt": "Para cada pilha de $s_zhuoshao$ detonada em um inimigo, será gerado um $s_lieyan$ (área de efeito: &51111_hyfw&) que dura &51111_scsj& segundos abaixo do inimigo."
+ },
+ "s_51111_tsfw": {
+  "en": "If this skill is cast when there are at least &51111_zscs& stacks of $s_zhuoshao$, $s_lieyan$'s area of effect will be expanded by &51111_tsfw&.",
+  "ch": "若使用此技能时，场上有至少&51111_zscs&层$s_zhuoshao$，则生成的$s_lieyan$范围增加&51111_tsfw&。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &51111_zscs& acúmulos de $s_zhuoshao$, a área de efeito de $s_lieyan$ será ampliada em &51111_tsfw&."
+ },
+ "s_51111_ybfw": {
+  "en": "Groundfire's area of damage &51111_ybfw&",
+  "ch": "引发的地火的伤害范围&51111_ybfw&。",
+  "pt": "Área de dano do Groundfire &51111_ybfw&"
+ },
+ "s_51112_bksj": {
+  "en": "If you have $s_ranhun$ when Fire Sorrow explodes, you'll consume 1 stack of $s_ranhun$ to generate a $s_lieyan$ (area of effect: &51112_hyfw&) that lasts &51112_bksj&s.",
+  "ch": "若自身带有$s_ranhun$，则可在每道离火爆开时，消耗一层$s_ranhun$并生成一团范围&51112_hyfw&的$s_lieyan$，持续&51112_bksj&秒。",
+  "pt": "Se você tiver $s_ranhun$ quando o Luto do Fogo explodir, consumirá 1 pilha de $s_ranhun$ para gerar uma área de efeito $s_lieyan$ (área de efeito: &51112_hyfw&) que dura &51112_bksj& segundos."
+ },
+ "s_51112_bzfw": {
+  "en": "Fire Sorrow's area of damage &51112_bzfw&",
+  "ch": "离火爆开的伤害范围&51112_bzfw&。",
+  "pt": "Área de dano do Luto de Fogo &51112_bzfw&"
+ },
+ "s_51112_cd": {
+  "en": "This skill's cooldown &51112_cd&s",
+  "ch": "此技能的冷却时间&51112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &51112_cd& segundos"
+ },
+ "s_51112_jdjg": {
+  "en": "If this skill is cast when there's only one enemy, the time interval of unleashing Fire Sorrow &51112_jdjg&%.",
+  "ch": "若使用此技能时，场上只有一个敌人，则抛出离火的间隔时间&51112_jdjg&%。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o intervalo de tempo para lançar o Fogo da Tristeza &51112_jdjg&%."
+ },
+ "s_51112_jssj": {
+  "en": "Skill targets' Agility &51112_jdys&% for &51112_jssj&s.",
+  "ch": "此技能可使目标的移动速度&51112_jdys&%，持续&51112_jssj&秒。",
+  "pt": "A Habilidade afeta a Agilidade dos alvos &51112_jdys&% para &51112_jssj&s."
+ },
+ "s_51112_mpCost": {
+  "en": "This skill's Energy Cost &51112_mpCost&",
+  "ch": "此技能的灵力消耗&51112_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &51112_mpCost&"
+ },
+ "s_51112_range": {
+  "en": "Fire Sorrow's cast range &51112_range&",
+  "ch": "离火可抛出的最远距离&51112_range&。",
+  "pt": "O alcance de lançamento de Fogo da Tristeza &51112_range&"
+ },
+ "s_51112_zjfw": {
+  "en": "If this skill is cast when you have at least &51112_rhcs& stacks of $s_ranhun$, $s_lieyan$'s area of effect will be expanded by &51112_zjfw&.",
+  "ch": "若使用此技能时，自身拥有至少&51112_rhcs&层$s_ranhun$，则生成的$s_lieyan$范围增加&51112_zjfw&。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &51112_rhcs& acúmulos de $s_ranhun$, a área de efeito de $s_lieyan$ será ampliada em &51112_zjfw&."
+ },
+ "s_51113_cd": {
+  "en": "This skill's cooldown &51113_cd&s",
+  "ch": "此技能的冷却时间&51113_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &51113_cd& segundos"
+ },
+ "s_51113_hbfw": {
+  "en": "Sunfire's area of damage &51113_hbfw&",
+  "ch": "阳炎爆的伤害范围&51113_hbfw&。",
+  "pt": "Área de dano do Fogo Solar &51113_hbfw&"
+ },
+ "s_51113_mpCost": {
+  "en": "This skill's Energy Cost &51113_mpCost&",
+  "ch": "此技能的灵力消耗&51113_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &51113_mpCost&"
+ },
+ "s_51113_range": {
+  "en": "Sunfire's cast range &51113_range&",
+  "ch": "引发阳炎爆的最大距离&51113_range&。",
+  "pt": "O alcance de lançamento do Sunfire &51113_range&"
+ },
+ "s_51113_scsj": {
+  "en": "Every time a stack of $s_zhuoshao$ is detonated, there's a &51113_scgl&% chance to generate a $s_lieyan$ (area of effect: &51113_hyfw&) that lasts &51113_scsj&s underneath the target.",
+  "ch": "每次引爆$s_zhuoshao$时有&51113_scgl&%的概率在目标的脚下生成一团范围&51113_hyfw&的$s_lieyan$，持续&51113_scsj&秒。",
+  "pt": "Toda vez que uma pilha de $s_zhuoshao$ é detonada, há uma chance de &51113_scgl&% de gerar um $s_lieyan$ (área de efeito: &51113_hyfw&) que dura &51113_scsj&s abaixo do alvo."
+ },
+ "s_51113_tsfw": {
+  "en": "If the target has $s_zhuoshao$, 1 stack of $s_zhuoshao$ will be detonated to expand Sunfire's area of effect by &51113_tsfw&.",
+  "ch": "若目标带有$s_zhuoshao$，则引爆其一层$s_zhuoshao$，使其脚下引发的阳炎阵范围增加&51113_tsfw&。",
+  "pt": "Se o alvo possuir $s_zhuoshao$, 1 pilha de $s_zhuoshao$ será detonada para expandir a área de efeito do Sunfire em &51113_tsfw&."
+ },
+ "s_51113_tshy": {
+  "en": "If this skill is cast when there are at least &51113_zscs& stacks of $s_zhuoshao$, $s_lieyan$'s area of effect will be expanded by &51113_tshy&.",
+  "ch": "若使用此技能时，场上有至少&51113_zscs&层$s_zhuoshao$，则生成的$s_lieyan$范围增加&51113_tshy&。",
+  "pt": "Se essa habilidade for usada quando houver pelo menos &51113_zscs& acúmulos de $s_zhuoshao$, a área de efeito de $s_lieyan$ será ampliada em &51113_tshy&."
+ },
+ "s_51113_tsys": {
+  "en": "For the duration of this $s_chixushifa$, your Agility will increase by &51113_tsys&%.",
+  "ch": "此技能在$s_chixushifa$时，自身的移动速度提升&51113_tsys&%。",
+  "pt": "Durante a vigência deste $s_chixushifa$, sua Agilidade aumentará em &51113_tsys&%."
+ },
+ "s_51114_cd": {
+  "en": "This skill's cooldown &51114_cd&s",
+  "ch": "此技能的冷却时间&51114_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &51114_cd&s"
+ },
+ "s_51114_hqwl": {
+  "en": "If this skill is cast when you have at least &51114_rhcs& stacks of $s_ranhun$, you'll additionally shoot &51114_hqsl& fire balls at your surroundings, dealing &51114_hqwl|x51114_dmg|/100|f0& $s_huo$ damage.",
+  "ch": "若使用此技能时，自身拥有至少&51114_rhcs&层$s_ranhun$，则每秒可额外向四周发射&51114_hqsl&颗火球，对敌人造成威力&51114_hqwl|x51114_dmg|/100|f0&的$s_huo$伤害。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &51114_rhcs& acúmulos de $s_ranhun$, também disparará &51114_hqsl& esferas de fogo ao redor, causando &51114_hqwl|x51114_dmg|/100|f0& $s_huo$ pontos de dano."
+ },
+ "s_51114_jdsh": {
+  "en": "For the duration of this $s_chixushifa$, your damage taken &51114_jdsh&%.",
+  "ch": "此技能在$s_chixushifa$时，自身受到的伤害&51114_jdsh&%。",
+  "pt": "Durante a vigência deste $s_chixushifa$, o dano que você recebe será reduzido em &51114_jdsh&%."
+ },
+ "s_51114_mpCost": {
+  "en": "This skill's Energy Cost &51114_mpCost&",
+  "ch": "此技能的灵力消耗&51114_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &51114_mpCost&"
+ },
+ "s_51114_range": {
+  "en": "Sinful Flame's cast range &51114_range&",
+  "ch": "业火的喷射距离&51114_range&。",
+  "pt": "O alcance de lançamento da Chama do Pecado &51114_range&"
+ },
+ "s_51114_range00": {
+  "en": "&51114_range&",
+  "ch": "&51114_range&。",
+  "pt": "&51114_range&"
+ },
+ "s_51114_zjcx": {
+  "en": "If this skill is cast when there's only one enemy, the duration of this $s_chixushifa$ will be extended by &51114_zjcx&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的$s_chixushifa$时间增加&51114_zjcx&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, a duração deste $s_chixushifa$ será aumentada em &51114_zjcx&s."
+ },
+ "s_51114_zjsj": {
+  "en": "If you have $s_ranhun$ when casting this skill, you'll consume all stacks of $s_ranhun$. For every stack of $s_ranhun$ consumed, the duration of this $s_chixushifa$ will be extended by &51114_zjsj&s.",
+  "ch": "若使用技能时，自身拥有$s_ranhun$，则消耗所有$s_ranhun$，每消耗一层$s_ranhun$可使此技能的$s_chixushifa$时间增加&51114_zjsj&秒。",
+  "pt": "Se você possuir $s_ranhun$ ao usar essa habilidade, irá consumir todas as pilhas de $s_ranhun$. Para cada pilha de $s_ranhun$ consumida, a duração deste $s_chixushifa$ será aumentada em &51114_zjsj&s."
+ },
+ "s_51115_cd": {
+  "en": "This skill's cooldown &51115_cd&s",
+  "ch": "此技能的冷却时间&51115_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &51115_cd&s"
+ },
+ "s_51115_mpCost": {
+  "en": "This skill's Energy Cost &51115_mpCost&",
+  "ch": "此技能的灵力消耗&51115_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &51115_mpCost&"
+ },
+ "s_51115_range": {
+  "en": "Each Fire Ring's area of damage &51115_range&",
+  "ch": "每道火环的伤害范围&51115_range&。",
+  "pt": "A área de dano de cada Anel de Fogo &51115_range&"
+ },
+ "s_51115_range00": {
+  "en": "&51115_range&",
+  "ch": "&51115_range&。",
+  "pt": "&51115_range&"
+ },
+ "s_51115_scsj": {
+  "en": "For the duration of this $s_chixushifa$, after every &51115_ydjl& movement distance, a $s_lieyan$ (area of effect: &51115_hyfw&) that lasts &51115_scsj&s will be generated underneath you.",
+  "ch": "此技能在$s_chixushifa$时，每移动&51115_ydjl&距离，可在自身脚下生成一团范围&51115_hyfw&的$s_lieyan$，持续&51115_scsj&秒。",
+  "pt": "Durante a vigência deste $s_chixushifa$, após cada deslocamento de &51115_ydjl&, um $s_lieyan$ (área de efeito: &51115_hyfw&) que dura &51115_scsj& segundos será gerado abaixo de você."
+ },
+ "s_51115_tsfw": {
+  "en": "If this skill is cast when there are at least &51115_zscs& stacks of $s_zhuoshao$, $s_lieyan$'s area of effect will be expanded by &51115_tsfw&.",
+  "ch": "若使用此技能时，场上有至少&51115_zscs&层$s_zhuoshao$，则生成的$s_lieyan$范围增加&51115_tsfw&。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &51115_zscs& acúmulos de $s_zhuoshao$, a área de efeito de $s_lieyan$ será ampliada em &51115_tsfw&."
+ },
+ "s_51115_zjcx": {
+  "en": "If this skill is cast when there's only one enemy, the duration of this $s_chixushifa$ will be extended by &51115_zjcx&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的$s_chixushifa$时间增加&51115_zjcx&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, a duração deste $s_chixushifa$ será aumentada em &51115_zjcx&s."
+ },
+ "s_51115_zssh": {
+  "en": "$s_zhuoshao$'s damage boost &51115_zssh&%",
+  "ch": "每一层$s_zhuoshao$提升的伤害&51115_zssh&%。",
+  "pt": "O aumento de dano de $s_zhuoshao$ &51115_zssh&%"
+ },
+ "s_51116_cd": {
+  "en": "This skill's cooldown &51116_cd&s",
+  "ch": "此技能的冷却时间&51116_cd&秒。",
+  "pt": "O tempo de recarga desta habilidade é &51116_cd&s"
+ },
+ "s_51116_hdfw": {
+  "en": "Fire Shield's area of damage &51116_hdfw&",
+  "ch": "火盾的伤害范围&51116_hdfw&。",
+  "pt": "Área de dano do Escudo de Fogo &51116_hdfw&"
+ },
+ "s_51116_mpCost": {
+  "en": "This skill's Energy Cost &51116_mpCost&",
+  "ch": "此技能的灵力消耗&51116_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &51116_mpCost&"
+ },
+ "s_51116_scsj": {
+  "en": "For the duration of this $s_chixushifa$, after every &51116_ydjl& movement distance, a $s_lieyan$ (area of effect: &51116_hyfw&) that lasts &51116_scsj&s will be generated underneath you.",
+  "ch": "此技能在$s_chixushifa$时，每移动&51116_ydjl&距离，可在自身脚下生成一团范围&51116_hyfw&的$s_lieyan$，持续&51116_scsj&秒。",
+  "pt": "Durante a vigência deste $s_chixushifa$, após cada distância de deslocamento de &51116_ydjl&, um $s_lieyan$ (área de efeito: &51116_hyfw&) que dura &51116_scsj& segundos será gerado abaixo de você."
+ },
+ "s_51116_tsys": {
+  "en": "This skill's Agility boost &51116_tsys&%",
+  "ch": "施放技能时提升的移动速度&51116_tsys&%。",
+  "pt": "O aumento de Agilidade desta Habilidade &51116_tsys&%"
+ },
+ "s_51116_zjcx": {
+  "en": "If this skill is cast when there's only one enemy, the duration of this $s_chixushifa$ will be extended by &51116_zjcx&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的$s_chixushifa$时间增加&51116_zjcx&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, a duração deste $s_chixushifa$ será aumentada em &51116_zjcx&s."
+ },
+ "s_51116_zjhy": {
+  "en": "If this skill is cast when you have at least &51116_rhcs& stacks of $s_ranhun$, $s_lieyan$'s duration will be extended by &51116_zjhy&s.",
+  "ch": "若使用此技能时，自身拥有至少&51116_rhcs&层$s_ranhun$，则生成的$s_lieyan$持续时间增加&51116_zjhy&秒。",
+  "pt": "Se essa habilidade for usada quando você tiver pelo menos &51116_rhcs& acúmulos de $s_ranhun$, a duração de $s_lieyan$ será aumentada em &51116_zjhy& segundos."
+ },
+ "s_51116_zjsj": {
+  "en": "If you have $s_ranhun$ when casting this skill, you'll consume all stacks of $s_ranhun$. For every stack of $s_ranhun$ consumed, the duration of this $s_chixushifa$ will be extended by &51116_zjsj&s.",
+  "ch": "若使用技能时，自身拥有$s_ranhun$，则消耗所有$s_ranhun$，每消耗一层$s_ranhun$可使此技能的$s_chixushifa$时间增加&51116_zjsj&秒。",
+  "pt": "Se você possuir $s_ranhun$ ao usar essa habilidade, todos os acúmulos de $s_ranhun$ serão consumidos. Para cada acúmulo de $s_ranhun$ consumido, a duração deste $s_chixushifa$ será aumentada em &51116_zjsj&s."
+ },
+ "s_52111_cd": {
+  "en": "This skill's cooldown &52111_cd&s",
+  "ch": "此技能的冷却时间&52111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &52111_cd&s"
+ },
+ "s_52111_djgl": {
+  "en": "If this skill is cast when there are at least &52111_hscs& stacks of $s_hanshuang$, it'll have a &52111_djgl&% chance to inflict $s_dongjie$.",
+  "ch": "若使用此技能时，场上有至少&52111_hscs&层$s_hanshuang$，则有&52111_djgl&%的概率使命中的目标$s_dongjie$。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &52111_hscs& acúmulos de $s_hanshuang$, haverá uma chance de &52111_djgl&% de causar $s_dongjie$."
+ },
+ "s_52111_mpCost": {
+  "en": "This skill's Energy Cost &52111_mpCost&",
+  "ch": "此技能的灵力消耗&52111_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &52111_mpCost&"
+ },
+ "s_52111_range": {
+  "en": "Icy Aura's longest range &52111_range&",
+  "ch": "冰气的最远射程&52111_range&。",
+  "pt": "O alcance máximo da Aura Gélida &52111_range&"
+ },
+ "s_52111_sbfw": {
+  "en": "Frost Blast's area of damage &52111_sbfw&",
+  "ch": "寒霜爆的伤害范围&52111_sbfw&。",
+  "pt": "A área de dano da Explosão de Gelo &52111_sbfw&"
+ },
+ "s_52111_sbwl": {
+  "en": "Frost Blast's damage &52111_sbwl&%",
+  "ch": "寒霜爆的伤害威力&52111_sbwl&%。",
+  "pt": "O dano do Sopro de Gelo &52111_sbwl&%"
+ },
+ "s_52111_tssj": {
+  "en": "After casting this skill, you'll deal &52111_tssh&% more damage to enemies inflicted with $s_dongjie$ for &52111_tssj&s.",
+  "ch": "使用此技能后，对$s_dongjie$的敌人造成的伤害提升&52111_tssh&%，持续&52111_tssj&秒。",
+  "pt": "Após usar essa habilidade, você causará &52111_tssh&% mais dano a inimigos afetados por $s_dongjie$ durante &52111_tssj&s."
+ },
+ "s_52111_zjgl": {
+  "en": "If this skill is cast when there's only one enemy, for the next &52111_djsj&s, every time a Martial Skill hits an enemy, it has a &52111_zjgl&% chance to inflict $s_dongjie$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则接下来的&52111_djsj&秒内，武技每次命中目标时有&52111_zjgl&%的概率将其$s_dongjie$。",
+  "pt": "Se essa habilidade for usada quando houver apenas um inimigo, nos próximos &52111_djsj& segundos, toda vez que uma Técnica Marcial acertar um inimigo, haverá uma chance de &52111_zjgl&% de causar $s_dongjie$."
+ },
+ "s_52112_cd": {
+  "en": "This skill's cooldown &52112_cd&s",
+  "ch": "此技能的冷却时间&52112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &52112_cd&s"
+ },
+ "s_52112_ddsl": {
+  "en": "Icy Auras unleashed &52112_ddsl&",
+  "ch": "发射的冰气数量&52112_ddsl&。",
+  "pt": "Auras Gélidas liberadas &52112_ddsl&"
+ },
+ "s_52112_djly": {
+  "en": "If this skill is cast when there's only one enemy, you'll instantly receive &52112_djly& stacks of $s_lingyong$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即为自身叠加&52112_djly&层$s_lingyong$。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, você receberá instantaneamente &52112_djly& acúmulos de $s_lingyong$."
+ },
+ "s_52112_jssj": {
+  "en": "Upon hitting an enemy, every Icy Aura has a &52112_bbgl&% chance to trigger an Ice Eruption, dealing &52112_bbsh|x52112_dmg|/100|f0& $s_shui$ damage to enemies within &52112_bbfw& and reducing their Agility by &52112_jdys&% for &52112_jssj&s.",
+  "ch": "每道冰气在命中敌人时，有&52112_bbgl&%的概率产生冰爆，对范围&52112_bbfw&内的敌人造成威力&52112_bbsh|x52112_dmg|/100|f0&的$s_shui$伤害，并使目标的移动速度&52112_jdys&%，持续&52112_jssj&秒。",
+  "pt": "Ao atingir um inimigo, toda Aura Gélida tem uma &52112_bbgl&% de chance de desencadear uma Erupção de Gelo, causando &52112_bbsh|x52112_dmg|/100|f0& $s_shui$ de dano aos inimigos dentro de &52112_bbfw& e reduzindo sua Agilidade em &52112_jdys&% por &52112_jssj&s."
+ },
+ "s_52112_llsj": {
+  "en": "For every stack of $s_lingyong$ consumed, your Max Energy will increase by &52112_zdll& for &52112_llsj&s.",
+  "ch": "每消耗一层$s_lingyong$，自身的最大灵力提升&52112_zdll&点，持续&52112_llsj&秒。",
+  "pt": "Para cada pilha de $s_lingyong$ consumida, sua Energia Máx. aumentará em &52112_zdll& durante &52112_llsj& segundos."
+ },
+ "s_52112_mpCost": {
+  "en": "This skill's Energy Cost &52112_mpCost&",
+  "ch": "此技能的灵力消耗&52112_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &52112_mpCost&"
+ },
+ "s_52112_range": {
+  "en": "Icy Aura's range &52112_range&",
+  "ch": "冰气的射程&52112_range&。",
+  "pt": "O alcance da Aura Gélida &52112_range&"
+ },
+ "s_52112_tsfw": {
+  "en": "If this skill is cast when you have at least &52112_lycs& stacks of $s_lingyong$, Ice Eruption's area of effect will be expanded by &52112_tsfw&.",
+  "ch": "若使用此技能时，自身拥有至少&52112_lycs&层$s_lingyong$，则冰爆的范围增加&52112_tsfw&。",
+  "pt": "Se essa habilidade for usada quando você tiver pelo menos &52112_lycs& acúmulos de $s_lingyong$, a área de efeito da Erupção de Gelo será ampliada em &52112_tsfw&."
+ },
+ "s_52113_bbgl": {
+  "en": "For every stack of $s_hanshuang$ detonated on an enemy, there's a &52113_bbgl&% chance to inflict $s_dongjie$.",
+  "ch": "每引爆一个敌人的$s_hanshuang$时，有&52113_bbgl&%的概率将其$s_dongjie$。",
+  "pt": "Para cada pilha de $s_hanshuang$ detonada em um inimigo, há uma chance de &52113_bbgl&% de causar $s_dongjie$."
+ },
+ "s_52113_cd": {
+  "en": "This skill's cooldown &52113_cd&s",
+  "ch": "此技能的冷却时间&52113_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade &52113_cd&s"
+ },
+ "s_52113_ddbl": {
+  "en": "Icicle's width &52113_ddbl&",
+  "ch": "冰刺的宽度&52113_ddbl&。",
+  "pt": "Largura do pingente de gelo &52113_ddbl&"
+ },
+ "s_52113_llsj": {
+  "en": "If this skill is cast when there are at least &52113_hscs& stacks of $s_hanshuang$, your Max Energy will increase by &52113_zdll& for &52113_llsj&s.",
+  "ch": "若使用此技能时，场上至少有&52113_hscs&层$s_hanshuang$，则自身的最大灵力提升&52113_zdll&点，持续&52113_llsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &52113_hscs& acúmulos de $s_hanshuang$, sua Energia Máx. aumentará em &52113_zdll& por &52113_llsj& segundos."
+ },
+ "s_52113_mpCost": {
+  "en": "This skill's Energy Cost &52113_mpCost&",
+  "ch": "此技能的灵力消耗&52113_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &52113_mpCost&"
+ },
+ "s_52113_range": {
+  "en": "Icicle's range &52113_range&",
+  "ch": "冰刺的射程&52113_range&。",
+  "pt": "Alcance do Pingente de Gelo &52113_range&"
+ },
+ "s_52113_tssj": {
+  "en": "After casting this skill, you'll deal &52113_tssh&% more damage to enemies inflicted with $s_dongjie$ for &52113_tssj&s.",
+  "ch": "使用此技能后，对$s_dongjie$的敌人造成的伤害提升&52113_tssh&%，持续&52113_tssj&秒。",
+  "pt": "Após usar essa habilidade, você causará &52113_tssh&% mais dano a inimigos afetados por $s_dongjie$ durante &52113_tssj&s."
+ },
+ "s_52114_cd": {
+  "en": "This skill's cooldown &52114_cd&s",
+  "ch": "此技能的冷却时间&52114_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &52114_cd&s"
+ },
+ "s_52114_djgl": {
+  "en": "Every time Ice Storm deals damage to an enemy, it has a &52114_djgl&% chance to inflict $s_dongjie$.",
+  "ch": "冰霜风暴每次对敌人造成伤害时，有&52114_djgl&%的概率将目标$s_dongjie$。",
+  "pt": "Toda vez que a Tempestade de Gelo causa dano a um inimigo, há uma &52114_djgl&% de chance de infligir $s_dongjie$."
+ },
+ "s_52114_fbfw": {
+  "en": "Ice Storm's area of damage &52114_fbfw&",
+  "ch": "冰霜风暴的伤害范围&52114_fbfw&。",
+  "pt": "Área de dano da Tempestade de Gelo &52114_fbfw&"
+ },
+ "s_52114_jscd": {
+  "en": "If this skill is cast when there's only one enemy, the cooldown of this skill &52114_jscd&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的冷却时间&52114_jscd&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tempo de recarga desta habilidade &52114_jscd&s."
+ },
+ "s_52114_llsj": {
+  "en": "For every stack of $s_lingyong$ consumed, your Max Energy will increase by &52114_zdll& for &52114_llsj&s.",
+  "ch": "每消耗一层$s_lingyong$，自身的最大灵力提升&52114_zdll&点，持续&52114_llsj&秒。",
+  "pt": "Para cada pilha de $s_lingyong$ consumida, sua Energia Máx. aumentará em &52114_zdll& por &52114_llsj& segundos."
+ },
+ "s_52114_mpCost": {
+  "en": "This skill's Energy Cost &52114_mpCost&",
+  "ch": "此技能的灵力消耗&52114_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &52114_mpCost&"
+ },
+ "s_52114_range": {
+  "en": "Frostbrand's cast range &52114_range&",
+  "ch": "冰封术的施放距离&52114_range&。",
+  "pt": "O alcance de lançamento do Frostbrand &52114_range&"
+ },
+ "s_52114_tssj": {
+  "en": "If this skill is cast when you have at least &52114_lycs& stacks of $s_lingyong$, Ice Storm's duration will be extended by &52114_tssj&s.",
+  "ch": "若使用此技能时，自身拥有至少&52114_lycs&层$s_lingyong$，则冰霜风暴的持续时间提升&52114_tssj&秒。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &52114_lycs& acúmulos de $s_lingyong$, a duração da Tempestade de Gelo será aumentada em &52114_tssj& segundos."
+ },
+ "s_52115_bbgl": {
+  "en": "For every stack of $s_hanshuang$ detonated on an enemy, there's a &52115_bbgl&% chance to inflict $s_dongjie$.",
+  "ch": "每引爆一个敌人的$s_hanshuang$时，有&52115_bbgl&%的概率将其$s_dongjie$。",
+  "pt": "Para cada pilha de $s_hanshuang$ detonada em um inimigo, há uma chance de &52115_bbgl&% de causar $s_dongjie$."
+ },
+ "s_52115_cd": {
+  "en": "This skill's cooldown &52115_cd&s",
+  "ch": "此技能的冷却时间&52115_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &52115_cd&s"
+ },
+ "s_52115_ewsh": {
+  "en": "Each stack of $s_hanshuang$ detonated deals &52115_ewsh|x52115_dmg|/100|f0& damage.",
+  "ch": "引爆$s_hanshuang$所造成的伤害威力&52115_ewsh|x52115_dmg|/100|f0&。",
+  "pt": "Cada pilha de $s_hanshuang$ que detona causa &52115_ewsh|x52115_dmg|/100|f0& pontos de dano."
+ },
+ "s_52115_llsj": {
+  "en": "If this skill is cast when there are at least &52115_hscs& stacks of $s_hanshuang$, your Max Energy will increase by &52115_zdll& for &52115_llsj&s.",
+  "ch": "若使用此技能时，场上至少有&52115_hscs&层$s_hanshuang$，则自身的最大灵力提升&52115_zdll&点，持续&52115_llsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &52115_hscs& acúmulos de $s_hanshuang$, sua Energia Máx. aumentará em &52115_zdll& por &52115_llsj& segundos."
+ },
+ "s_52115_mpCost": {
+  "en": "This skill's Energy Cost &52115_mpCost&",
+  "ch": "此技能的灵力消耗&52115_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &52115_mpCost&"
+ },
+ "s_52115_slfw": {
+  "en": "Frost Spirit Blast's area of damage &52115_slfw&",
+  "ch": "霜灵爆的伤害范围&52115_slfw&。",
+  "pt": "A área de dano da Explosão do Espírito de Gelo &52115_slfw&"
+ },
+ "s_52115_tssj": {
+  "en": "After casting this skill, you'll deal &52115_tssh&% more damage to enemies inflicted with $s_dongjie$ for &52115_tssj&s.",
+  "ch": "使用此技能后，对$s_dongjie$的敌人造成的伤害提升&52115_tssh&%，持续&52115_tssj&秒。",
+  "pt": "Após usar essa habilidade, você causará &52115_tssh&% mais dano a inimigos afetados por $s_dongjie$ durante &52115_tssj&s."
+ },
+ "s_52116_cd": {
+  "en": "This skill's cooldown &52116_cd&s",
+  "ch": "此技能的冷却时间&52116_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade &52116_cd&s"
+ },
+ "s_52116_jscd": {
+  "en": "If this skill is cast when there's only one enemy, the cooldown of this skill &52116_jscd&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的冷却时间&52116_jscd&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tempo de recarga desta habilidade &52116_jscd&s."
+ },
+ "s_52116_jssj": {
+  "en": "Skill targets' Agility &52116_jdys&% for &52116_jssj&s.",
+  "ch": "此技能可使命中的目标的移动速度&52116_jdys&%，持续&52116_jssj&秒。",
+  "pt": "A Habilidade afeta a Agilidade dos alvos &52116_jdys&% para &52116_jssj&s."
+ },
+ "s_52116_llsj": {
+  "en": "For every stack of $s_lingyong$ consumed, your Max Energy will increase by &52116_zdll& for &52116_llsj&s.",
+  "ch": "每消耗一层$s_lingyong$，自身的最大灵力提升&52116_zdll&点，持续&52116_llsj&秒。",
+  "pt": "A cada pilha de $s_lingyong$ consumida, sua Energia Máx. aumentará em &52116_zdll& por &52116_llsj& segundos."
+ },
+ "s_52116_mpCost": {
+  "en": "This skill's Energy Cost &52116_mpCost&",
+  "ch": "此技能的灵力消耗&52116_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &52116_mpCost&"
+ },
+ "s_52116_shsj": {
+  "en": "Soulreaper's duration &52116_shsj&s",
+  "ch": "噬灵术的持续时间&52116_shsj&秒。",
+  "pt": "Duração do Soulreaper &52116_shsj&s"
+ },
+ "s_52116_slfw": {
+  "en": "Soulreaping Formation's area of effect &52116_slfw&",
+  "ch": "噬灵阵的作用范围&52116_slfw&。",
+  "pt": "Área de efeito da Formação Colheita de Almas &52116_slfw&"
+ },
+ "s_52116_xlsj": {
+  "en": "If you have at least &52116_lycs& stacks of $s_lingyong$ when casting this skill, you'll absorb &52116_tsxl& Energy from the target every second for &52116_xlsj&s.",
+  "ch": "若使用此技能时，自身拥有至少&52116_lycs&层$s_lingyong$，则每秒吸取目标的灵力&52116_tsxl&点，持续&52116_xlsj&秒。",
+  "pt": "Se você tiver pelo menos &52116_lycs& pilhas de $s_lingyong$ ao usar essa habilidade, irá absorver &52116_tsxl& unidades de Energia do alvo a cada segundo, por &52116_xlsj& segundos."
+ },
+ "s_53111_cd": {
+  "en": "This skill's cooldown &53111_cd&s",
+  "ch": "此技能的冷却时间&53111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &53111_cd& segundos"
+ },
+ "s_53111_ddsl": {
+  "en": "Dashing Lightning unleashed &53111_ddsl&",
+  "ch": "发射奔雷的数量&53111_ddsl&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O ágil Relâmpago liberou &53111_ddsl&"
+ },
+ "s_53111_lbwl": {
+  "en": "For every stack of $s_luanliu$ detonated, a Lightning Blast will be triggered, dealing &53111_lbwl|x53111_dmg|/100|f0& $s_lei$ damage to enemies within &53111_lbfw&.",
+  "ch": "每引爆一层$s_luanliu$时，改为产生一次雷爆，对范围&53111_lbfw&内的敌人造成威力&53111_lbwl|x53111_dmg|/100|f0&的$s_lei$伤害。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Para cada pilha de $s_luanliu$ detonada, um Relâmpago será disparado, causando &53111_lbwl|x53111_dmg|/100|f0& $s_lei$ de dano aos inimigos dentro de &53111_lbfw&."
+ },
+ "s_53111_llcs": {
+  "en": "If this skill is cast when there are at least &53111_llcs& stacks of $s_luanliu$, a $s_leiji$ will be instantly triggered.",
+  "ch": "若使用此技能时，场上至少有&53111_llcs&层$s_luanliu$，则立即引发一次$s_leiji$。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &53111_llcs& acúmulos de $s_luanliu$, um $s_leiji$ será ativado instantaneamente."
+ },
+ "s_53111_llds": {
+  "en": "If this skill is cast when there's only one enemy, +&53111_llds& Dashing Lightning will be unleashed.",
+  "ch": "若使用此技能时，场上只有一个敌人，则可额外发射&53111_llds&道奔雷。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, será liberado o Relâmpago Avassalador +&53111_llds&."
+ },
+ "s_53111_mpCost": {
+  "en": "This skill's Energy Cost &53111_mpCost&",
+  "ch": "此技能的灵力消耗&53111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &53111_mpCost&"
+ },
+ "s_53111_range": {
+  "en": "Dashing Lightning's range &53111_range&",
+  "ch": "奔雷的射程&53111_range&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O alcance do Relâmpago Impetuoso &53111_range&"
+ },
+ "s_53111_shcs": {
+  "en": "For every &53111_shcs& times you deal damage, you'll trigger a $s_leiji$.",
+  "ch": "自身每造成&53111_shcs&次伤害时，可引发一次$s_leiji$。",
+  "pt": "A cada &53111_shcs& vezes que causar dano, você ativará um $s_leiji$."
+ },
+ "s_53111_shcs%1": {
+  "en": "To trigger a $s_leiji$, the required number of times you deal damage &53111_shcs%1&.",
+  "ch": "引发$s_leiji$所需要的伤害次数&53111_shcs%1&次。",
+  "pt": "Para ativar um $s_leiji$, é necessário causar dano o número requerido de vezes &53111_shcs%1&."
+ },
+ "s_53111_shcs01": {
+  "en": "For every &53111_shcs& times you deal damage, you'll trigger a $s_leiji$.",
+  "ch": "自身每造成&53111_shcs&次伤害时，可引发一次$s_leiji$。",
+  "pt": "A cada &53111_shcs& vezes que causar dano, você ativará um $s_leiji$."
+ },
+ "s_53111_shcs02": {
+  "en": "For every &53111_shcs& times you deal damage, you'll trigger a $s_leiji$.",
+  "ch": "自身每造成&53111_shcs&次伤害时，可引发一次$s_leiji$。",
+  "pt": "A cada &53111_shcs& vezes que você causar dano, um $s_leiji$ será acionado."
+ },
+ "s_53111_shcs03": {
+  "en": "For every &53111_shcs& times you deal damage, you'll trigger a $s_leiji$.",
+  "ch": "自身每造成&53111_shcs&次伤害时，可引发一次$s_leiji$。",
+  "pt": "A cada &53111_shcs& vezes que causar dano, você ativará um $s_leiji$."
+ },
+ "s_53111_shcs04": {
+  "en": "For every &53111_shcs& times you deal damage, you'll trigger a $s_leiji$.",
+  "ch": "自身每造成&53111_shcs&次伤害时，可引发一次$s_leiji$。",
+  "pt": "A cada &53111_shcs& vezes que causar dano, você ativará um $s_leiji$."
+ },
+ "s_53111_shcs05": {
+  "en": "For every &53111_shcs& times you deal damage, you'll trigger a $s_leiji$.",
+  "ch": "自身每造成&53111_shcs&次伤害时，可引发一次$s_leiji$。",
+  "pt": "A cada &53111_shcs& vezes que causar dano, você ativará um $s_leiji$."
+ },
+ "s_53112_cd": {
+  "en": "This skill's cooldown &53112_cd&s",
+  "ch": "此技能的冷却时间&53112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &53112_cd& segundos"
+ },
+ "s_53112_cxsj": {
+  "en": "Dashing Lightning's duration &53112_cxsj&s",
+  "ch": "奔雷的持续时间&53112_cxsj&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Duração do Relâmpago Veloz &53112_cxsj&s"
+ },
+ "s_53112_ddsl": {
+  "en": "Dashing Lightning unleashed &53112_ddsl&",
+  "ch": "奔雷的弹道数量&53112_ddsl&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O elegante Relâmpago liberou &53112_ddsl&"
+ },
+ "s_53112_djcs": {
+  "en": "If this skill is cast when there's only one enemy, you'll instantly receive &53112_djcs& stacks of $s_leiyong$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即为自身叠加&53112_djcs&层$s_leiyong$。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, você receberá instantaneamente &53112_djcs& pilhas de $s_leiyong$."
+ },
+ "s_53112_jscd": {
+  "en": "If you have at least &53112_lycs& stacks of $s_leiyong$ when casting this skill, the cooldown of Spiritual Skills &53112_jscd&% for &53112_jssj&s.",
+  "ch": "若使用此技能时，自身拥有至少&53112_lycs&层$s_leiyong$，则灵技的冷却时间&53112_jscd&%，持续&53112_jssj&秒。",
+  "pt": "Se você possuir pelo menos &53112_lycs& pilhas de $s_leiyong$ ao usar essa habilidade, o tempo de recarga das Técnicas Espirituais será reduzido em &53112_jscd&% durante &53112_jssj& segundos."
+ },
+ "s_53112_llgl": {
+  "en": "For every stack of $s_leiyong$ detonated, there's a &53112_llgl&% chance to inflict 2 random enemies within &53112_llfw& with &53112_llcs& stacks of $s_luanliu$.",
+  "ch": "每消耗一层$s_leiyong$，有&53112_llgl&%的概率向&53112_llfw&范围内的随机2个敌人叠加&53112_llcs&层$s_luanliu$。",
+  "pt": "Para cada pilha de $s_leiyong$ detonada, há uma chance de &53112_llgl&% de aplicar 2 pilhas aleatórias de $s_luanliu$ a 2 inimigos selecionados dentro de &53112_llfw&, sendo que cada pilha equivale a &53112_llcs& unidades."
+ },
+ "s_53112_mpCost": {
+  "en": "This skill's Energy Cost &53112_mpCost&",
+  "ch": "此技能的灵力消耗&53112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &53112_mpCost&"
+ },
+ "s_53113_cd": {
+  "en": "This skill's cooldown &53113_cd&s",
+  "ch": "此技能的冷却时间&53113_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &53113_cd& segundos"
+ },
+ "s_53113_jscd": {
+  "en": "Every time Lightning Cloud kills an enemy inflicted with $s_luanliu$, the cooldown of this skill &53113_jscd&s.",
+  "ch": "雷云每击杀一个带有$s_luanliu$的敌人，可使此技能的冷却时间&53113_jscd&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Toda vez que a Nuvem de Relâmpagos mata um inimigo afetado por $s_luanliu$, o tempo de recarga dessa habilidade &53113_jscd&s."
+ },
+ "s_53113_jssj": {
+  "en": "Every time Lightning Cloud deals damage to an enemy inflicted with $s_luanliu$, this enemy's Agility &53113_jdys&% for &53113_jssj&s.",
+  "ch": "雷云对敌人造成伤害时，若目标带有$s_luanliu$，则使其移动速度&53113_jdys&%，持续&53113_jssj&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Toda vez que a Nuvem de Relâmpagos causa dano a um inimigo afetado por $s_luanliu$, a Agilidade desse inimigo aumenta em &53113_jdys&% por &53113_jssj&s."
+ },
+ "s_53113_lyfw": {
+  "en": "Lightning Cloud's area of damage &53113_lyfw&",
+  "ch": "雷云的伤害范围&53113_lyfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Área de dano da Nuvem de Relâmpagos &53113_lyfw&"
+ },
+ "s_53113_lysj": {
+  "en": "Lightning Cloud's duration &53113_lysj&s",
+  "ch": "雷云的持续时间&53113_lysj&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "A duração da Nuvem de Relâmpagos é &53113_lysj&s"
+ },
+ "s_53113_mpCost": {
+  "en": "This skill's Energy Cost &53113_mpCost&",
+  "ch": "此技能的灵力消耗&53113_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &53113_mpCost&"
+ },
+ "s_53113_tsly": {
+  "en": "If this skill is cast when there's only one enemy, the duration of Lightning Cloud will be extended by &53113_tsly&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则雷云的持续时间提升&53113_tsly&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, a duração da Nuvem de Relâmpagos será estendida em &53113_tsly& segundos."
+ },
+ "s_53114_cd": {
+  "en": "This skill's cooldown &53114_cd&s",
+  "ch": "此技能的冷却时间&53114_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &53114_cd& segundos"
+ },
+ "s_53114_csfw": {
+  "en": "Dark Lightning's attack area &53114_csfw&",
+  "ch": "暗雷球的最大打击范围&53114_csfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Área de ataque do Relâmpago Sombrio &53114_csfw&"
+ },
+ "s_53114_djmb": {
+  "en": "Max enemies hit by Dark Lightning &53114_djmb&",
+  "ch": "暗雷球的最大打击目标个数&53114_djmb&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Máximo de inimigos atingidos pelo Relâmpago Sombrio &53114_djmb&"
+ },
+ "s_53114_jssj": {
+  "en": "If you have at least &53114_lycs& stacks of $s_leiyong$ when casting this skill, the cooldown of Spiritual Skills &53114_jscd&% for &53114_jssj&s.",
+  "ch": "若使用此技能时，自身拥有至少&53114_lycs&层$s_leiyong$，则灵技的冷却时间&53114_jscd&%，持续&53114_jssj&秒。",
+  "pt": "Se você tiver pelo menos &53114_lycs& acúmulos de $s_leiyong$ ao usar essa habilidade, o tempo de recarga das Técnicas Espirituais será reduzido em &53114_jscd&% durante &53114_jssj& segundos."
+ },
+ "s_53114_mpCost": {
+  "en": "This skill's Energy Cost &53114_mpCost&",
+  "ch": "此技能的灵力消耗&53114_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &53114_mpCost&"
+ },
+ "s_53114_speed": {
+  "en": "Dark Lightning's speed &53114_speed&",
+  "ch": "暗雷球的前进速度&53114_speed&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "A velocidade do Relâmpago Sombrio &53114_speed&"
+ },
+ "s_53114_tsfw": {
+  "en": "If this skill is cast when there's only one enemy, Dark Lightning's attack area will be expanded by &53114_tsfw&.",
+  "ch": "若使用此技能时，场上只有一个敌人，则暗雷球的打击范围提升&53114_tsfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Se essa habilidade for usada quando houver apenas um inimigo, a área de ataque do Relâmpago Sombrio será ampliada em &53114_tsfw&."
+ },
+ "s_53115_cd": {
+  "en": "This skill's cooldown &53115_cd&s",
+  "ch": "此技能的冷却时间&53115_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &53115_cd&s"
+ },
+ "s_53115_jscd": {
+  "en": "If this skill is cast when there's only one enemy, the cooldown of this skill &53115_jscd&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的冷却时间&53115_jscd&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tempo de recarga desta habilidade &53115_jscd&s."
+ },
+ "s_53115_lbfw": {
+  "en": "For every stack of $s_luanliu$ detonated, a Lightning Blast will be triggered, dealing &53115_lbwl& $s_lei$ damage to enemies within &53115_lbfw&.",
+  "ch": "每引爆一层$s_luanliu$时，改为产生一次雷爆，对范围&53115_lbfw&内的敌人造成威力&53115_lbwl&的$s_lei$伤害。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Para cada pilha de $s_luanliu$ detonada, um Relâmpago será disparado, causando &53115_lbwl& $s_lei$ de dano aos inimigos dentro de &53115_lbfw&."
+ },
+ "s_53115_lzfw": {
+  "en": "Each Crashing Lightning's area of damage &53115_lzfw&",
+  "ch": "每道落雷的伤害范围&53115_lzfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "A área de dano de cada Relâmpago Impactante &53115_lzfw&"
+ },
+ "s_53115_mpCost": {
+  "en": "This skill's Energy Cost &53115_mpCost&",
+  "ch": "此技能的灵力消耗&53115_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &53115_mpCost&"
+ },
+ "s_53115_range": {
+  "en": "Lightning Crash's longest range &53115_range&",
+  "ch": "落雷阵的最远射程&53115_range&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O alcance máximo do Colapso de Relâmpago é &53115_range&"
+ },
+ "s_53115_zjfw": {
+  "en": "If this skill is cast when there are at least &53115_llcs& stacks of $s_luanliu$, Lightning Blast's area of damage will be expanded by &53115_zjfw&.",
+  "ch": "若使用此技能时，场上有至少&53115_llcs&层$s_luanliu$，则雷爆的伤害范围增加&53115_zjfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Se esta habilidade for usada quando houver pelo menos &53115_llcs& acúmulos de $s_luanliu$, a área de dano do Relâmpago Explosivo será ampliada em &53115_zjfw&."
+ },
+ "s_53116_cd": {
+  "en": "This skill's cooldown &53116_cd&s",
+  "ch": "此技能的冷却时间&53116_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &53116_cd& segundos"
+ },
+ "s_53116_jgsj": {
+  "en": "When there's only one enemy, after every bounce, your ATK will increase by &53116_tsgj& for &53116_jgsj&s.",
+  "ch": "当场上只剩下一个敌人时，每弹射一次自身可使自身的攻击提升&53116_tsgj&点，持续&53116_jgsj&秒。",
+  "pt": "Quando houver apenas um inimigo, após cada quique, seu ATQ aumentará em &53116_tsgj& por &53116_jgsj& segundos."
+ },
+ "s_53116_jssj": {
+  "en": "If you have at least &53116_lycs& stacks of $s_leiyong$ when casting this skill, the cooldown of Spiritual Skills &53116_jscd&% for &53116_jssj&s.",
+  "ch": "若使用此技能时，自身拥有至少&53116_lycs&层$s_leiyong$，则灵技的冷却时间&53116_jscd&%，持续&53116_jssj&秒。",
+  "pt": "Se você possuir pelo menos &53116_lycs& pilhas de $s_leiyong$ ao usar essa habilidade, o tempo de recarga das Técnicas Espirituais será reduzido em &53116_jscd&% durante &53116_jssj& segundos."
+ },
+ "s_53116_mpCost": {
+  "en": "This skill's Energy Cost &53116_mpCost&",
+  "ch": "此技能的灵力消耗&53116_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &53116_mpCost&"
+ },
+ "s_53116_speed": {
+  "en": "Spiritual Lightning Bolt's speed &53116_speed&",
+  "ch": "灵雷球的前进速度&53116_speed&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "A velocidade do Relâmpago Espiritual &53116_speed&"
+ },
+ "s_53116_tssh": {
+  "en": "Spiritual Lightning Bolt's damage increases by &53116_tssh&% after every bounce.",
+  "ch": "灵雷球每弹射一次，可提升伤害&53116_tssh&%。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O dano do Relâmpago Espiritual aumenta em &53116_tssh&% após cada ricochete."
+ },
+ "s_53116_ttsl": {
+  "en": "Spiritual Lightning Bolt's bounces &53116_ttsl&",
+  "ch": "每颗灵雷球的最大弹跳次数&53116_ttsl&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Os saltos do Relâmpago Espiritual &53116_ttsl&"
+ },
+ "s_54111_cd": {
+  "en": "This skill's cooldown &54111_cd&s",
+  "ch": "此技能的冷却时间&54111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &54111_cd& segundos"
+ },
+ "s_54111_cssj": {
+  "en": "Each storm's duration &54111_cssj&s",
+  "ch": "每道暴风的持续时间&54111_cssj&秒。",
+  "pt": "A duração de cada tempestade &54111_cssj&s"
+ },
+ "s_54111_ddsl": {
+  "en": "Storms generated &54111_ddsl&",
+  "ch": "生成的暴风数量&54111_ddsl&。",
+  "pt": "Tempestades geradas &54111_ddsl&"
+ },
+ "s_54111_fbsd": {
+  "en": "If this skill is cast when there's only one enemy, storms will spin outward &54111_fbsd&% faster.",
+  "ch": "若使用此技能时，场上只有一个敌人，则风暴的旋转速度提升&54111_fbsd&%。",
+  "pt": "Se essa habilidade for usada quando houver apenas um inimigo, as tempestades se espalharão &54111_fbsd&% mais rápido."
+ },
+ "s_54111_fbsj": {
+  "en": "If this skill is cast when there are at least &54111_nfcs& stacks of $s_nifeng$, the duration of each storm will be extended by &54111_fbsj&s.",
+  "ch": "若使用此技能时，场上至少有&54111_nfcs&层$s_nifeng$，则每道风暴的持续时间增加&54111_fbsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &54111_nfcs& acúmulos de $s_nifeng$, a duração de cada tempestade será aumentada em &54111_fbsj& segundos."
+ },
+ "s_54111_jssj": {
+  "en": "Every time a stack of $s_nifeng$ is detonated, the target's Agility &54111_jdys&% for &54111_jssj&s.",
+  "ch": "引爆$s_nifeng$时可使目标的移动速度&54111_jdys&%，持续&54111_jssj&秒。",
+  "pt": "Toda vez que uma pilha de $s_nifeng$ é detonada, a Agilidade do alvo &54111_jdys&% reduz por &54111_jssj& segundos."
+ },
+ "s_54111_mpCost": {
+  "en": "This skill's Energy Cost &54111_mpCost&",
+  "ch": "此技能的灵力消耗&54111_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &54111_mpCost&"
+ },
+ "s_54112_cd": {
+  "en": "This skill's cooldown &54112_cd&s",
+  "ch": "此技能的冷却时间&54112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &54112_cd&s"
+ },
+ "s_54112_jdcz": {
+  "en": "If you have at least &54112_lfcs& stacks of $s_lingfeng$ when casting this skill, the time needed for the Column of Wind to reach its longest range &54112_jdcz&%.",
+  "ch": "若使用此技能时，自身拥有至少&54112_lfcs&层$s_lingfeng$，则风柱成长至最远射程所需的时间&54112_jdcz&%。",
+  "pt": "Se você possuir pelo menos &54112_lfcs& pilhas de $s_lingfeng$ ao usar essa habilidade, o tempo necessário para que a Coluna de Vento atinja seu alcance máximo será reduzido em &54112_jdcz&%."
+ },
+ "s_54112_jscd": {
+  "en": "If this skill is cast when there's only one enemy, the cooldown of this skill &54112_jscd&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的冷却时间&54112_jscd&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tempo de recarga desta habilidade &54112_jscd&s."
+ },
+ "s_54112_mpCost": {
+  "en": "This skill's Energy Cost &54112_mpCost&",
+  "ch": "此技能的灵力消耗&54112_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &54112_mpCost&"
+ },
+ "s_54112_qyqd": {
+  "en": "Column of Wind's pulling effect &54112_qyqd|x3.33|f0&",
+  "ch": "风柱的牵引强度&54112_qyqd|x3.33|f0&。",
+  "pt": "Efeito de atração da Coluna de Vento &54112_qyqd|x3.33|f0&"
+ },
+ "s_54112_range": {
+  "en": "Column of Wind's longest range &54112_range&",
+  "ch": "风柱的最远射程&54112_range&。",
+  "pt": "Coluna com o alcance máximo do Vento &54112_range&"
+ },
+ "s_54112_sbsj": {
+  "en": "After you begin casting this skill, for the next &54112_sbsj&s, you'll dodge the first &54112_sbcs& incoming attacks.",
+  "ch": "此技能开始施法后，可在接下来的&54112_sbsj&秒内，闪避前&54112_sbcs&次受到的伤害。",
+  "pt": "Após começar a usar essa habilidade, nos próximos &54112_sbsj&s, você fará uma esquiva dos primeiros &54112_sbcs& ataques recebidos."
+ },
+ "s_54112_xfgl": {
+  "en": "For the duration of this $s_chixushifa$, every &54112_scjg&s, you have a &54112_xfgl&% chance to unleash a $s_xuanfeng$ forward.",
+  "ch": "此技能在$s_chixushifa$时，每&54112_scjg&秒有&54112_xfgl&%的概率向前方发出一道$s_xuanfeng$。",
+  "pt": "Durante a duração deste $s_chixushifa$, a cada &54112_scjg&, você tem uma chance de &54112_xfgl&% de liberar um $s_xuanfeng$ para a frente."
+ },
+ "s_54112_xfsj%1": {
+  "en": "$s_xuanfeng$'s duration &54112_xfsj%1&s",
+  "ch": "$s_xuanfeng$的持续时间&54112_xfsj%1&秒。",
+  "pt": "Duração de $s_xuanfeng$ &54112_xfsj%1&s"
+ },
+ "s_54113_cd": {
+  "en": "This skill's cooldown &54113_cd&s",
+  "ch": "此技能的冷却时间&54113_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &54113_cd&s"
+ },
+ "s_54113_jtqd": {
+  "en": "Column of Wind's knockback effect &54113_jtqd|x3.33|f0&",
+  "ch": "风柱的击退强度&54113_jtqd|x3.33|f0&。",
+  "pt": "Efeito de repulsão da Coluna de Vento &54113_jtqd|x3.33|f0&"
+ },
+ "s_54113_mpCost": {
+  "en": "This skill's Energy Cost &54113_mpCost&",
+  "ch": "此技能的灵力消耗&54113_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &54113_mpCost&"
+ },
+ "s_54113_range": {
+  "en": "Column of Wind's longest range &54113_range&",
+  "ch": "风柱的最远射程&54113_range&。",
+  "pt": "Coluna do alcance máximo do Vento &54113_range&"
+ },
+ "s_54113_sbsj": {
+  "en": "After you begin casting this skill, for the next &54113_sbsj&s, you'll dodge the first &54113_sbcs& incoming attacks.",
+  "ch": "此技能开始施法后，可在接下来的&54113_sbsj&秒内，闪避前&54113_sbcs&次受到的伤害。",
+  "pt": "Após começar a usar essa habilidade, nos próximos &54113_sbsj&s, você realizará uma esquiva dos primeiros &54113_sbcs& ataques recebidos."
+ },
+ "s_54113_tssh": {
+  "en": "This skill deals &54113_tssh&% more damage to enemies inflicted with $s_nifeng$.",
+  "ch": "此技能对带有$s_nifeng$的敌人造成的伤害提升&54113_tssh&%。",
+  "pt": "Essa habilidade causa &54113_tssh&% mais dano a inimigos que estejam sob o efeito de $s_nifeng$."
+ },
+ "s_54113_xfgl": {
+  "en": "For the duration of this $s_chixushifa$, every &54113_scjg&s, you have a &54113_xfgl&% chance to unleash a $s_xuanfeng$ forward.",
+  "ch": "此技能在$s_chixushifa$时，每&54113_scjg&秒有&54113_xfgl&%的概率向前方发出一道$s_xuanfeng$。",
+  "pt": "Durante a duração deste $s_chixushifa$, a cada &54113_scjg&s, você tem uma chance de &54113_xfgl&% de liberar um $s_xuanfeng$ para a frente."
+ },
+ "s_54113_zjsj": {
+  "en": "If this skill is cast when there's only one enemy, the duration of this $s_chixushifa$ will be extended by &54113_zjsj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的$s_chixushifa$时间增加&54113_zjsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, a duração deste $s_chixushifa$ será prolongada em &54113_zjsj&s."
+ },
+ "s_54114_cd": {
+  "en": "This skill's cooldown &54114_cd&s",
+  "ch": "此技能的冷却时间&54114_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &54114_cd&s"
+ },
+ "s_54114_jscd": {
+  "en": "If this skill is cast when there's only one enemy, the cooldown of this skill &54114_jscd&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的冷却时间&54114_jscd&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tempo de recarga desta habilidade &54114_jscd&s."
+ },
+ "s_54114_kfsd": {
+  "en": "If this skill is cast when you have at least &54114_lfcs& stacks of $s_lingfeng$, Wild Wind's movement speed will increase by &54114_kfsd&%.",
+  "ch": "若使用此技能时，自身拥有至少&54114_lfcs&层$s_lingfeng$，则狂风的移动速度提升&54114_kfsd&%。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &54114_lfcs& acúmulos de $s_lingfeng$, a velocidade de movimento do Vento Selvagem aumentará em &54114_kfsd&%."
+ },
+ "s_54114_mpCost": {
+  "en": "This skill's Energy Cost &54114_mpCost&",
+  "ch": "此技能的灵力消耗&54114_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &54114_mpCost&"
+ },
+ "s_54114_qyqd": {
+  "en": "Wild Wind's pulling effect &54114_qyqd|x3.33|f0&",
+  "ch": "狂风的牵引强度&54114_qyqd|x3.33|f0&。",
+  "pt": "O efeito de atração do Vento Selvagem &54114_qyqd|x3.33|f0&"
+ },
+ "s_54114_sbsj": {
+  "en": "After you begin casting this skill, for the next &54114_sbsj&s, you'll dodge the first &54114_sbcs& incoming attacks.",
+  "ch": "此技能开始施法后，可在接下来的&54114_sbsj&秒内，闪避前&54114_sbcs&次受到的伤害。",
+  "pt": "Após começar a usar esta habilidade, nos próximos &54114_sbsj&s, você fará uma esquiva dos primeiros &54114_sbcs& ataques recebidos."
+ },
+ "s_54114_xffw": {
+  "en": "Wild Wind's area of damage &54114_xffw&",
+  "ch": "狂风的伤害范围&54114_xffw&。",
+  "pt": "Área de dano do Vento Selvagem &54114_xffw&"
+ },
+ "s_54114_xfgl": {
+  "en": "Every 0.5s, Wild Wind has a &54114_xfgl&% chance to release a $s_xuanfeng$ forward.",
+  "ch": "狂风每0.5秒有&54114_xfgl&%的概率向前方发出一道$s_xuanfeng$。",
+  "pt": "A cada 0,5s, o Vento Selvagem tem uma chance de &54114_xfgl&% de lançar um $s_xuanfeng$ para a frente."
+ },
+ "s_54115_cd": {
+  "en": "This skill's cooldown &54115_cd&s",
+  "ch": "此技能的冷却时间&54115_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &54115_cd&s"
+ },
+ "s_54115_jdys": {
+  "en": "Reaving Wind's Agility reduction &54115_jdys&%",
+  "ch": "掠风对敌人造成的减速效果额外&54115_jdys&%。",
+  "pt": "A redução da Agilidade causada pelo Vento Devastador &54115_jdys&%"
+ },
+ "s_54115_lffw": {
+  "en": "Reaving Wind's area of damage &54115_lffw&",
+  "ch": "掠风的伤害范围&54115_lffw&。",
+  "pt": "Área de dano do Vento Devastador &54115_lffw&"
+ },
+ "s_54115_mpCost": {
+  "en": "This skill's Energy Cost &54115_mpCost&",
+  "ch": "此技能的灵力消耗&54115_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &54115_mpCost&"
+ },
+ "s_54115_sbsj": {
+  "en": "After you begin casting this skill, for the next &54115_sbsj&s, you'll dodge the first &54115_sbcs& incoming attacks.",
+  "ch": "此技能开始施法后，可在接下来的&54115_sbsj&秒内，闪避前&54115_sbcs&次受到的伤害。",
+  "pt": "Depois de começar a usar essa habilidade, nos próximos &54115_sbsj&s, você fará uma esquiva dos primeiros &54115_sbcs& ataques recebidos."
+ },
+ "s_54115_tssh": {
+  "en": "This skill deals &54115_tssh&% more damage to enemies inflicted with $s_nifeng$.",
+  "ch": "此技能对带有$s_nifeng$的敌人造成的伤害提升&54115_tssh&%。",
+  "pt": "Essa habilidade causa &54115_tssh&% mais dano a inimigos que estejam afetados por $s_nifeng$."
+ },
+ "s_54115_zdsl": {
+  "en": "When Reaving Wind disappears, it'll release &54115_zdsl& $s_xuanfeng$s from its center.",
+  "ch": "掠风在消失时，可从中心向四周发出&54115_zdsl&道$s_xuanfeng$。",
+  "pt": "Quando o Vento Devastador desaparecer, ele liberará &54115_zdsl& $s_xuanfeng$s de seu centro."
+ },
+ "s_54115_zjsj": {
+  "en": "If this skill is cast when there's only one enemy, the duration of Reaving Wind will be extended by &54115_zjsj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则掠风的持续时间增加&54115_zjsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, a duração do Vento Devastador será aumentada em &54115_zjsj& segundos."
+ },
+ "s_54116_cd": {
+  "en": "This skill's cooldown &54116_cd&s",
+  "ch": "此技能的冷却时间&54116_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &54116_cd&s"
+ },
+ "s_54116_fzfw": {
+  "en": "Each Sweeping Wind's area of damage &54116_fzfw&",
+  "ch": "每道风瘴波的伤害范围&54116_fzfw&。",
+  "pt": "A área de dano de cada Vento Varredor &54116_fzfw&"
+ },
+ "s_54116_fzsl": {
+  "en": "Sweeping Winds unleashed &54116_fzsl&",
+  "ch": "发出的风瘴波数量&54116_fzsl&。",
+  "pt": "Ventos impetuosos desencadeados &54116_fzsl&"
+ },
+ "s_54116_jscd": {
+  "en": "If this skill is cast when there's only one enemy, the cooldown of this skill &54116_jscd&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则此技能的冷却时间&54116_jscd&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tempo de recarga desta habilidade &54116_jscd&s."
+ },
+ "s_54116_jssj": {
+  "en": "Agility of enemies hit by Sweeping Winds &54116_jdys&% for &54116_jssj&s.",
+  "ch": "风瘴波命中敌人时，可使目标的移动速度&54116_jdys&%，持续&54116_jssj&秒。",
+  "pt": "Agilidade dos inimigos atingidos pelo Vento Varredor aumenta em &54116_jdys&% por &54116_jssj& segundos."
+ },
+ "s_54116_mpCost": {
+  "en": "This skill's Energy Cost &54116_mpCost&",
+  "ch": "此技能的灵力消耗&54116_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &54116_mpCost&"
+ },
+ "s_54116_tssj": {
+  "en": "For every stack of $s_lingfeng$ consumed, your Agility will increase by &54116_tsys&% for &54116_tssj&s.",
+  "ch": "每消耗一层$s_lingfeng$，可使自身的移动速度提升&54116_tsys&%，持续&54116_tssj&秒。",
+  "pt": "A cada pilha de $s_lingfeng$ consumida, sua Agilidade aumentará em &54116_tsys&% por &54116_tssj& segundos."
+ },
+ "s_54116_xfds": {
+  "en": "If this skill is cast when you have at least &54116_lfcs& stacks of $s_lingfeng$, you'll generate &54116_xfds& $s_xuanfeng$s around yourself.",
+  "ch": "若使用此技能时自身有&54116_lfcs&层$s_lingfeng$，则自身周围产生&54116_xfds&道$s_xuanfeng$。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &54116_lfcs& acúmulos de $s_lingfeng$, você gerará &54116_xfds& $s_xuanfeng$s ao seu redor."
+ },
+ "s_55111_cd": {
+  "en": "This skill's cooldown &55111_cd&s",
+  "ch": "此技能的冷却时间&55111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &55111_cd&s"
+ },
+ "s_55111_ddsl": {
+  "en": "Seismic Waves released &55111_ddsl&",
+  "ch": "降下震波的数量&55111_ddsl&。",
+  "pt": "Ondas Sísmicas liberadas &55111_ddsl&"
+ },
+ "s_55111_djcd": {
+  "en": "If this skill is cast when there's only one enemy, this enemy will be inflicted with &55111_djcd& stacks of $s_chidun$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即为其叠加&55111_djcd&层$s_chidun$。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, esse inimigo receberá &55111_djcd& acúmulos de $s_chidun$."
+ },
+ "s_55111_jdsh": {
+  "en": "After this skill hits an enemy, for the next &55111_jssj&s, the enemy's damage &55111_jdsh&%.",
+  "ch": "此技能命中敌人时，可使目标在接下来的&55111_jssj&秒内，造成的伤害&55111_jdsh&%。",
+  "pt": "Após esta habilidade atingir um inimigo, nos próximos &55111_jssj&s, o dano causado a esse inimigo será reduzido em &55111_jdsh&%."
+ },
+ "s_55111_kltl": {
+  "en": "After casting this skill, you'll summon an $s_tukuilei$ to assist you in battle.",
+  "ch": "使用技能后，可召唤一个$s_tukuilei$，协助你战斗。",
+  "pt": "Após usar essa habilidade, você invocará um $s_tukuilei$ para ajudá-lo na batalha."
+ },
+ "s_55111_mpCost": {
+  "en": "This skill's Energy Cost &55111_mpCost&",
+  "ch": "此技能的灵力消耗&55111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &55111_mpCost&"
+ },
+ "s_55111_zbfw": {
+  "en": "Each Seismic Wave's area of damage &55111_zbfw&",
+  "ch": "震波的伤害范围&55111_zbfw&。",
+  "pt": "A área de dano de cada Onda Sísmica &55111_zbfw&"
+ },
+ "s_55112_cd": {
+  "en": "This skill's cooldown &55112_cd&s",
+  "ch": "此技能的冷却时间&55112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &55112_cd& segundos"
+ },
+ "s_55112_csfw": {
+  "en": "Meteor's area of damage &55112_csfw&",
+  "ch": "陨石的伤害范围&55112_csfw&。",
+  "pt": "Área de dano do Meteoro &55112_csfw&"
+ },
+ "s_55112_djsf": {
+  "en": "If this skill is cast when there's only one enemy, you'll instantly receive &55112_djsf& stacks of $s_shifu$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即为自身叠加&55112_djsf&层$s_shifu$。",
+  "pt": "Se essa habilidade for usada quando houver apenas um inimigo, você receberá instantaneamente &55112_djsf& pilhas de $s_shifu$."
+ },
+ "s_55112_jssj": {
+  "en": "Agility of enemies hit by the Meteor &55112_jdys&% for &55112_jssj&s.",
+  "ch": "陨石击中目标时，可使其移动速度&55112_jdys&%，持续&55112_jssj&秒。",
+  "pt": "Agilidade dos inimigos atingidos pelo Meteoro &55112_jdys&% por &55112_jssj& segundos."
+ },
+ "s_55112_klsh": {
+  "en": "After the Meteor lands, an $s_tukuilei$ will be summoned to assist you in battle.",
+  "ch": "陨石落地后，可召唤一个$s_tukuilei$，协助你战斗。",
+  "pt": "Após o Meteoro pousar, um $s_tukuilei$ será invocado para ajudá-lo na batalha."
+ },
+ "s_55112_mpCost": {
+  "en": "This skill's Energy Cost &55112_mpCost&",
+  "ch": "此技能的灵力消耗&55112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &55112_mpCost&"
+ },
+ "s_55112_range": {
+  "en": "Meteorfall's cast range &55112_range&",
+  "ch": "陨石的施放距离&55112_range&。",
+  "pt": "O alcance de lançamento do Meteorfall &55112_range&"
+ },
+ "s_55112_zhsj": {
+  "en": "If this skill is cast when you have at least &55112_sfcs& stacks of $s_shifu$, all $s_tukuilei$s' damage taken &55112_ssjd&%, and the duration of all $s_tukuilei$s will be extended by &55112_zhsj&s.",
+  "ch": "若使用此技能时，自身拥有至少&55112_sfcs&层$s_shifu$，则场上所有$s_tukuilei$受到的伤害&55112_ssjd&%，并且增加&55112_zhsj&秒所有$s_tukuilei$的持续时间。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &55112_sfcs& acúmulos de $s_shifu$, todo o dano recebido por $s_tukuilei$s será reduzido em &55112_ssjd&%, e a duração de todos os $s_tukuilei$s será aumentada em &55112_zhsj&s."
+ },
+ "s_55113_cd": {
+  "en": "This skill's cooldown &55113_cd&s",
+  "ch": "此技能的冷却时间&55113_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &55113_cd& segundos"
+ },
+ "s_55113_dcsh": {
+  "en": "If this skill is cast when there's only one enemy, the Soil Ball's size and damage will increase by &55113_dcsh&%.",
+  "ch": "若使用此技能时，场上只有一个敌人，则土球的伤害及体积提升&55113_dcsh&%。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tamanho e o dano da Bola de Terra aumentarão em &55113_dcsh&%."
+ },
+ "s_55113_kltl": {
+  "en": "When you cast this skill, you'll summon an $s_tukuilei$ to assist you in battle.",
+  "ch": "此技能在施放时，可召唤一个$s_tukuilei$，协助你战斗。",
+  "pt": "Ao usar essa habilidade, você invocará um $s_tukuilei$ para ajudá-lo na batalha."
+ },
+ "s_55113_mpCost": {
+  "en": "This skill's Energy Cost &55113_mpCost&",
+  "ch": "此技能的灵力消耗&55113_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &55113_mpCost&"
+ },
+ "s_55113_range": {
+  "en": "The distance the Soil Ball rolls forward &55113_range&",
+  "ch": "土球的翻滚距离&55113_range&。",
+  "pt": "A distância que a Bola de Solo rola para frente &55113_range&"
+ },
+ "s_55113_tqbl": {
+  "en": "The Soil Ball's size and damage &55113_tqbl&%",
+  "ch": "土球的体积与伤害威力&55113_tqbl&%。",
+  "pt": "O tamanho e o dano da Bola de Solo &55113_tqbl&%"
+ },
+ "s_55113_zjsh": {
+  "en": "For every stack of $s_chidun$ detonated, the Soil Ball's size and damage will increase by &55113_zjsh&%.",
+  "ch": "每引爆一层$s_chidun$时，可使土球的伤害及体积提升&55113_zjsh&%。",
+  "pt": "Para cada pilha de $s_chidun$ detonada, o tamanho e o dano da Bola de Terra aumentarão em &55113_zjsh&%."
+ },
+ "s_55114_cd": {
+  "en": "This skill's cooldown &55114_cd&s",
+  "ch": "此技能的冷却时间&55114_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &55114_cd& segundos"
+ },
+ "s_55114_dcsh": {
+  "en": "If this skill is cast when there's only one enemy, the Soil Ball's size and damage will increase by &55114_dcsh&%.",
+  "ch": "若使用此技能时，场上只有一个敌人，则土球的伤害及体积提升&55114_dcsh&%。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o tamanho e o dano da Bola de Terra aumentarão em &55114_dcsh&%."
+ },
+ "s_55114_jssj": {
+  "en": "Agility of enemies hit by the Soil Ball &55114_jdys&% for &55114_jssj&s.",
+  "ch": "土球在命中敌人时，可使其移动速度&55114_jdys&%，持续&55114_jssj&秒。",
+  "pt": "Agilidade dos inimigos atingidos pela Bola de Terra &55114_jdys&% por &55114_jssj&s."
+ },
+ "s_55114_kltl": {
+  "en": "After the Soil Ball explodes, an $s_tukuilei$ will be summoned to assist you in battle.",
+  "ch": "土球爆开后，可召唤一个$s_tukuilei$，协助你战斗。",
+  "pt": "Após a explosão da Bola de Solo, um $s_tukuilei$ será invocado para ajudá-lo na batalha."
+ },
+ "s_55114_mpCost": {
+  "en": "This skill's Energy Cost &55114_mpCost&",
+  "ch": "此技能的灵力消耗&55114_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade é &55114_mpCost&"
+ },
+ "s_55114_range": {
+  "en": "The distance the Soil Ball rolls forward &55114_range&",
+  "ch": "土球的翻滚距离&55114_range&。",
+  "pt": "A distância que a Bola de Solo rola para a frente &55114_range&"
+ },
+ "s_55114_ssjd": {
+  "en": "If this skill is cast when you have at least &55114_sfcs& stacks of $s_shifu$, all $s_tukuilei$s' damage taken &55114_ssjd&%, and the duration of all $s_tukuilei$s will be extended by &55114_zhsj&s.",
+  "ch": "若使用此技能时，自身拥有至少&55114_sfcs&层$s_shifu$，则场上所有$s_tukuilei$受到的伤害&55114_ssjd&%，并且增加&55114_zhsj&秒$s_tukuilei$的持续时间。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &55114_sfcs& acúmulos de $s_shifu$, todo o dano recebido pelos $s_tukuilei$s será reduzido em &55114_ssjd&%, e a duração de todos os $s_tukuilei$s será aumentada em &55114_zhsj& segundos."
+ },
+ "s_55114_tqbl": {
+  "en": "The Soil Ball's size and damage &55114_tqbl&%",
+  "ch": "土球的体积与伤害威力&55114_tqbl&%。",
+  "pt": "O tamanho e o dano da Bola de Solo &55114_tqbl&%"
+ },
+ "s_55115_cd": {
+  "en": "This skill's cooldown &55115_cd&s",
+  "ch": "此技能的冷却时间&55115_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &55115_cd& segundos"
+ },
+ "s_55115_kltl": {
+  "en": "2s after the Quicksand area is created, an $s_tukuilei$ will be summoned in its center to assist you in battle.",
+  "ch": "流沙生成2秒后，可在中心召唤一个$s_tukuilei$，协助你战斗。",
+  "pt": "2 segundos após a criação da área de Areia Movediça, um $s_tukuilei$ será invocado em seu centro para ajudá-lo na batalha."
+ },
+ "s_55115_lsfw": {
+  "en": "Quicksand's area of pulling effect &55115_lsfw&",
+  "ch": "流沙的牵引范围&55115_lsfw&。",
+  "pt": "A área de efeito de atração da Areia Movediça &55115_lsfw&"
+ },
+ "s_55115_lssj": {
+  "en": "Quicksand's duration &55115_lssj&s",
+  "ch": "流沙的持续时间&55115_lssj&秒。",
+  "pt": "A duração da Areia Movediça &55115_lssj&s"
+ },
+ "s_55115_mpCost": {
+  "en": "This skill's Energy Cost &55115_mpCost&",
+  "ch": "此技能的灵力消耗&55115_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &55115_mpCost&"
+ },
+ "s_55115_tsqy": {
+  "en": "If this skill is cast when there's only one enemy, Quicksand's pulling effect &55115_tsqy&%.",
+  "ch": "若使用此技能时，场上只有一个敌人，则流沙的牵引强度&55115_tsqy&%。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o efeito de atração da Areia Movediça &55115_tsqy&%."
+ },
+ "s_55115_ybfw": {
+  "en": "Every time an enemy inflicted with $s_chidun$ dies, a Soil Blast will be triggered, dealing &55115_ybwl& $s_tu$ damage to enemies within &55115_ybfw&.",
+  "ch": "当带有$s_chidun$的敌人死亡时可引发土爆，对范围&55115_ybfw&内的敌人造成&55115_ybwl&的$s_tu$伤害。",
+  "pt": "Toda vez que um inimigo afetado por $s_chidun$ morre, é acionada uma Explosão de Terra, causando &55115_ybwl& $s_tu$ de dano aos inimigos dentro de &55115_ybfw&."
+ },
+ "s_55116_cd": {
+  "en": "This skill's cooldown &55116_cd&s",
+  "ch": "此技能的冷却时间&55116_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &55116_cd& segundos"
+ },
+ "s_55116_ddsl": {
+  "en": "Rocks pulled by Rock Formation &55116_ddsl&",
+  "ch": "吸引的石块数量&55116_ddsl&。",
+  "pt": "Rochas atraídas pela Formação de Rochas &55116_ddsl&"
+ },
+ "s_55116_hfkl": {
+  "en": "You can consume all stacks of $s_shifu$ when you cast this skill. For every stack of $s_shifu$ consumed, you'll restore a random $s_tukuilei$'s Vitality by &55116_hfkl&% and extend the duration of this $s_tukuilei$ by &55116_zjkl&s.",
+  "ch": "使用技能时可消耗自身所有$s_shifu$，每消耗一层$s_shifu$可为场上随机一个$s_tukuilei$恢复体力&55116_hfkl&%，并且增加&55116_zjkl&秒$s_tukuilei$的持续时间。",
+  "pt": "Você pode consumir todas as pilhas de $s_shifu$ ao usar essa habilidade. Para cada pilha de $s_shifu$ consumida, a Vitalidade de um $s_tukuilei$ aleatório será restaurada em &55116_hfkl&% e a duração da existência desse $s_tukuilei$ será aumentada em &55116_zjkl& segundos."
+ },
+ "s_55116_kltl": {
+  "en": "3s after the Rock Formation is summoned, an $s_tukuilei$ will be summoned in its center to assist you in battle.",
+  "ch": "聚石阵在3秒后，可在中心召唤一个$s_tukuilei$，协助你战斗。",
+  "pt": "3 segundos após a Formação de Pedra ser invocada, um $s_tukuilei$ será invocado no seu centro para ajudá-lo na batalha."
+ },
+ "s_55116_mpCost": {
+  "en": "This skill's Energy Cost &55116_mpCost&",
+  "ch": "此技能的灵力消耗&55116_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &55116_mpCost&"
+ },
+ "s_55116_ssjd": {
+  "en": "If this skill is cast when you have at least &55116_sfcs& stacks of $s_shifu$, all $s_tukuilei$s' damage taken &55116_ssjd&%, and the duration of all $s_tukuilei$s will be extended by &55116_zhsj&s.",
+  "ch": "若使用此技能时，自身拥有至少&55116_sfcs&层$s_shifu$，则场上所有$s_tukuilei$受到的伤害&55116_ssjd&%，并且增加&55116_zhsj&秒$s_tukuilei$的持续时间。",
+  "pt": "Se esta habilidade for usada quando você tiver pelo menos &55116_sfcs& acúmulos de $s_shifu$, todo o dano recebido pelos $s_tukuilei$s será reduzido em &55116_ssjd&%, e a duração de todos os $s_tukuilei$s será aumentada em &55116_zhsj&s."
+ },
+ "s_55116_szfw": {
+  "en": "Rock Formation's area of effect &55116_szfw&",
+  "ch": "聚石阵吸引石块的范围&55116_szfw&。",
+  "pt": "Área de efeito da Formação de Rochas &55116_szfw&"
+ },
+ "s_55116_tsgs": {
+  "en": "If this skill is cast when there's only one enemy, the attack speed of all $s_tukuilei$s will increase by &55116_tsgs&% for &55116_tssj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则场上所有$s_tukuilei$的攻击速度提升&55116_tsgs&%，持续&55116_tssj&秒。",
+  "pt": "Se essa habilidade for usada quando houver apenas um inimigo, a velocidade de ataque de todos os $s_tukuilei$s aumentará em &55116_tsgs&% por &55116_tssj& segundos."
+ },
+ "s_56111_cd": {
+  "en": "This skill's cooldown &56111_cd&s",
+  "ch": "此技能的冷却时间&56111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &56111_cd&s"
+ },
+ "s_56111_crwl": {
+  "en": "Enemies inflicted with $s_chanrao$ by this skill receive &56111_crwl&/s $s_mu$ damage.",
+  "ch": "被此技能$s_chanrao$的敌人将受到威力&56111_crwl&/秒的$s_mu$伤害。",
+  "pt": "Inimigos afetados por $s_chanrao$ devido a essa habilidade recebem &56111_crwl&/s de dano $s_mu$."
+ },
+ "s_56111_djdc": {
+  "en": "If this skill is cast when there's only one enemy, this enemy will be inflicted with &56111_djdc& stacks of $s_duci$.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即为其叠加&56111_djdc&层$s_duci$。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, esse inimigo receberá &56111_djdc& acúmulos de $s_duci$."
+ },
+ "s_56111_ewsh": {
+  "en": "Each stack of $s_duci$ detonated deals &56111_ewsh& damage.",
+  "ch": "引爆$s_duci$所造成的伤害威力&56111_ewsh&。",
+  "pt": "Cada pilha de $s_duci$ que detona causa &56111_ewsh& pontos de dano."
+ },
+ "s_56111_mpCost": {
+  "en": "This skill's Energy Cost &56111_mpCost&",
+  "ch": "此技能的灵力消耗&56111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &56111_mpCost&"
+ },
+ "s_56111_range": {
+  "en": "Entangle's area of effect &56111_range&",
+  "ch": "缠绕的范围&56111_range&。",
+  "nomes": {
+   "Entangle": "Emaranhar"
+  },
+  "pt": "Área de efeito da Entangle &56111_range&"
+ },
+ "s_56111_tsbz": {
+  "en": "If this skill is cast when there are at least &56111_dccs& stacks of $s_duci$, Entangling Thorn's area of effect will be expanded by &56111_tsbz&.",
+  "ch": "若使用此技能时，场上至少有&56111_dccs&层$s_duci$，则荆棘的范围提升&56111_tsbz&。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &56111_dccs& acúmulos de $s_duci$, a área de efeito de Espinho Enredante será ampliada em &56111_tsbz&."
+ },
+ "s_56111_tscr": {
+  "en": "For every stack of $s_duci$ detonated, the duration of $s_chanrao$ &56111_tscr&s.",
+  "ch": "每引爆一层$s_duci$，$s_chanrao$时间&56111_tscr&秒。",
+  "pt": "Para cada pilha de $s_duci$ detonada, a duração de $s_chanrao$ &56111_tscr&s."
+ },
+ "s_56112_cd": {
+  "en": "This skill's cooldown &56112_cd&s",
+  "ch": "此技能的冷却时间&56112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &56112_cd& segundos"
+ },
+ "s_56112_hlcs": {
+  "en": "If you have at least &56112_hlcs& stacks of $s_hualing$ when casting this skill, the duration of the $s_xiaohuayao$ summoned by this skill will become unlimited.",
+  "ch": "若使用此技能时，自身拥有至少&56112_hlcs&层$s_hualing$，则此技能召唤出的$s_xiaohuayao$的持续时间无限。",
+  "pt": "Se você possuir pelo menos &56112_hlcs& pilhas de $s_hualing$ ao usar essa habilidade, a duração do $s_xiaohuayao$ invocado por ela se tornará ilimitada."
+ },
+ "s_56112_hysc": {
+  "en": "If this skill is cast when there's only one enemy, the attack range of all ally $s_xiaohuayao$s will increase by &56112_hysc&% for &56112_scsj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则使场上所有友方$s_xiaohuayao$的射程提升&56112_hysc&%，持续&56112_scsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o alcance de ataque de todos os aliados $s_xiaohuayao$s aumentará em &56112_hysc&% durante &56112_scsj&s."
+ },
+ "s_56112_jdhs": {
+  "en": "When this skill is cast, all ally $s_xiaohuayao$s' damage taken &56112_jdhs&% for &56112_hssj&s.",
+  "ch": "使用此技能时，可使场上所有友方$s_xiaohuayao$受到的伤害&56112_jdhs&%，持续&56112_hssj&秒。",
+  "pt": "Ao usar essa habilidade, todo o dano recebido pelos aliados $s_xiaohuayao$s é reduzido em &56112_jdhs&% por &56112_hssj&s."
+ },
+ "s_56112_mpCost": {
+  "en": "This skill's Energy Cost &56112_mpCost&",
+  "ch": "此技能的灵力消耗&56112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &56112_mpCost&"
+ },
+ "s_56112_tstl": {
+  "en": "Primal Energy increases &56112_tstl& extra Max Vitality",
+  "ch": "活元强化提升的最大体力&56112_tstl&。",
+  "nomes": {
+   "Primal Energy": "Energia Primordial"
+  },
+  "pt": "A Energia Primal aumenta em &56112_tstl& a Vitalidade Máx. extra."
+ },
+ "s_56112_yqfw": {
+  "en": "Qi Wave's area of damage &56112_yqfw&",
+  "ch": "元气的伤害范围&56112_yqfw&。",
+  "pt": "Área de dano da Onda de Qi &56112_yqfw&"
+ },
+ "s_56112_zjht": {
+  "en": "You can consume all stacks of $s_hualing$ when you cast this skill. For every stack of $s_hualing$ consumed, the $s_xiaohuayao$ summoned by this skill will have its Max Vitality increased by &56112_zjht&%.",
+  "ch": "使用技能时可消耗自身所有$s_hualing$，每消耗一层$s_hualing$，此技能召唤出的$s_xiaohuayao$的体力上限提升&56112_zjht&%。",
+  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar essa habilidade. Para cada pilha de $s_hualing$ consumida, a Vitalidade Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56112_zjht&%."
+ },
+ "s_56113_cd": {
+  "en": "This skill's cooldown &56113_cd&s",
+  "ch": "此技能的冷却时间&56113_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &56113_cd&s"
+ },
+ "s_56113_dbsh": {
+  "en": "When the $s_duwa$ dies, a Venom Blast will be triggered, dealing &56113_dbsh&/s $s_mu$ damage for &56113_dbsj&s to enemies within &56113_dbfw&.",
+  "ch": "$s_duwa$在死亡时，会产生毒爆，对范围&56113_dbfw&内的敌人造成威力&56113_dbsh&/秒的$s_mu$伤害，伤害持续&56113_dbsj&秒。",
+  "pt": "Quando o $s_duwa$ morre, é disparada uma Explosão Venenosa, causando &56113_dbsh&/s de $s_mu$ dano &56113_dbsj& segundos aos inimigos dentro de &56113_dbfw&."
+ },
+ "s_56113_dwgl": {
+  "en": "Every time a stack of $s_duci$ is detonated, there's a &56113_dwgl&% chance to summon a $s_duwa$ inside the Poisonous Marsh.",
+  "ch": "每次引爆$s_duci$时，有&56113_dwgl&%的概率在毒沼内召唤一只$s_duwa$。",
+  "pt": "Toda vez que uma pilha de $s_duci$ é detonada, há uma chance de &56113_dwgl&% de invocar um $s_duwa$ dentro do Pântano Venenoso."
+ },
+ "s_56113_dwsl": {
+  "en": "If this skill is cast when there's only one enemy, &56113_dwsl& $s_duwa$s will be instantly summoned.",
+  "ch": "若使用此技能时，场上只有一个敌人，则立即召唤&56113_dwsl&只$s_duwa$。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, &56113_dwsl& $s_duwa$s será imediatamente invocado."
+ },
+ "s_56113_dzfw": {
+  "en": "Poisonous Marsh's area of damage &56113_dzfw&",
+  "ch": "毒沼的伤害范围&56113_dzfw&。",
+  "pt": "Área de dano do Pântano Venenoso &56113_dzfw&"
+ },
+ "s_56113_dzsj": {
+  "en": "Poisonous Marsh's duration &56113_dzsj&s",
+  "ch": "毒沼的技能时间&56113_dzsj&秒。",
+  "pt": "A duração do Pântano Venenoso &56113_dzsj&s"
+ },
+ "s_56113_jdys": {
+  "en": "Agility of enemies within the Poisonous Marsh's area &56113_jdys&%",
+  "ch": "毒沼范围内的敌人的移动速度&56113_jdys&%。",
+  "pt": "Agilidade dos inimigos dentro da área do Pântano Venenoso &56113_jdys&%"
+ },
+ "s_56113_mpCost": {
+  "en": "This skill's Energy Cost &56113_mpCost&",
+  "ch": "此技能的灵力消耗&56113_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &56113_mpCost&"
+ },
+ "s_56114_cd": {
+  "en": "This skill's cooldown &56114_cd&s",
+  "ch": "此技能的冷却时间&56114_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &56114_cd&s"
+ },
+ "s_56114_ddsl": {
+  "en": "Flower Buds released in all directions &56114_ddsl&",
+  "ch": "全方位攻击发射的花蕊数量&56114_ddsl&。",
+  "pt": "Botões de flor são liberados em todas as direções &56114_ddsl&"
+ },
+ "s_56114_hlcs": {
+  "en": "If you have at least &56114_hlcs& stacks of $s_hualing$ when casting this skill, the duration of the $s_xiaohuayao$ summoned by this skill will become unlimited.",
+  "ch": "若使用此技能时，自身拥有至少&56114_hlcs&层$s_hualing$，则此技能召唤出的$s_xiaohuayao$的持续时间无限。",
+  "pt": "Se você possuir pelo menos &56114_hlcs& pilhas de $s_hualing$ ao usar essa habilidade, a duração do $s_xiaohuayao$ invocado por ela se tornará ilimitada."
+ },
+ "s_56114_hysc": {
+  "en": "If this skill is cast when there's only one enemy, the attack range of all ally $s_xiaohuayao$s will increase by &56114_hysc&% for &56114_scsj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则使场上所有友方$s_xiaohuayao$的射程提升&56114_hysc&%，持续&56114_scsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o alcance de ataque de todos os $s_xiaohuayao$s aliados aumentará em &56114_hysc&% por &56114_scsj&s."
+ },
+ "s_56114_jdhs": {
+  "en": "When this skill is cast, all ally $s_xiaohuayao$s' damage taken &56114_jdhs&% for &56114_hssj&s.",
+  "ch": "使用此技能时，可使场上所有友方$s_xiaohuayao$受到的伤害&56114_jdhs&%，持续&56114_hssj&秒。",
+  "pt": "Ao usar essa habilidade, todo o dano recebido pelos aliados $s_xiaohuayao$s será reduzido em &56114_jdhs&% para &56114_hssj&s."
+ },
+ "s_56114_mpCost": {
+  "en": "This skill's Energy Cost &56114_mpCost&",
+  "ch": "此技能的灵力消耗&56114_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &56114_mpCost&"
+ },
+ "s_56114_tstl": {
+  "en": "Floral Spirit increases &56114_tstl& extra Max Vitality",
+  "ch": "活灵强化提升的最大体力&56114_tstl&。",
+  "nomes": {
+   "Floral Spirit": "Espírito Vital"
+  },
+  "pt": "O Espírito Floral aumenta &56114_tstl& de Vitalidade Máx. extra."
+ },
+ "s_56114_zjht": {
+  "en": "You can consume all stacks of $s_hualing$ when you cast this skill. For every stack of $s_hualing$ consumed, the $s_xiaohuayao$ summoned by this skill will have its Max Vitality increased by &56114_zjht&%.",
+  "ch": "使用技能时可消耗自身所有$s_hualing$，每消耗一层$s_hualing$，此技能召唤出的$s_xiaohuayao$的体力上限提升&56114_zjht&%。",
+  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar esta habilidade. Para cada pilha de $s_hualing$ consumida, a Vitalidade Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56114_zjht&%."
+ },
+ "s_56115_cd": {
+  "en": "This skill's cooldown &56115_cd&s",
+  "ch": "此技能的冷却时间&56115_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &56115_cd& segundos"
+ },
+ "s_56115_dbsh": {
+  "en": "Every time a $s_duzhu$ hits an enemy, it'll detonate 1 stack of $s_duci$ on this enemy, dealing &56115_dbsh& $s_mu$ damage.",
+  "ch": "$s_duzhu$在每次攻击时可引爆一层敌人的$s_duci$，并造成威力&56115_dbsh&的$s_mu$伤害。",
+  "pt": "Toda vez que um $s_duzhu$ atingir um inimigo, ele detonará 1 pilha de $s_duci$ nesse inimigo, causando &56115_dbsh& $s_mu$ de dano."
+ },
+ "s_56115_djsj": {
+  "en": "If this skill is cast when there's only one enemy, this enemy will be inflicted with a stack of $s_duci$ every second for &56115_djsj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则每秒为其叠加一层$s_duci$，持续&56115_djsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, esse inimigo receberá uma pilha de $s_duci$ a cada segundo, por &56115_djsj&s."
+ },
+ "s_56115_dztl": {
+  "en": "Poisonous Plant inherits &56115_dztl&% Vitality",
+  "ch": "毒株继承的体力&56115_dztl&%。",
+  "pt": "Planta Venenosa herda &56115_dztl&% de Vitalidade"
+ },
+ "s_56115_flsj": {
+  "en": "After attacking &56115_gjcs& times, a $s_duzhu$ will split into 2 $s_duzhu$s, and their duration will be extended by &56115_flsj&s.",
+  "ch": "$s_duzhu$攻击&56115_gjcs&次后，可分裂成2个$s_duzhu$，并分别提升&56115_flsj&秒持续时间。",
+  "pt": "Após atacar &56115_gjcs& vezes, um $s_duzhu$ se dividirá em 2 $s_duzhu$s, e a duração de cada um deles será aumentada em &56115_flsj&s."
+ },
+ "s_56115_gjfw": {
+  "en": "Each Poisonous Plant's area of damage &56115_gjfw&",
+  "ch": "毒株攻击的伤害范围&56115_gjfw&。",
+  "pt": "A área de dano de cada Planta Venenosa &56115_gjfw&"
+ },
+ "s_56115_mpCost": {
+  "en": "This skill's Energy Cost &56115_mpCost&",
+  "ch": "此技能的灵力消耗&56115_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &56115_mpCost&"
+ },
+ "s_56115_tssj": {
+  "en": "If this skill is cast when there are at least &56115_dccs& stacks of $s_duci$, the duration of each $s_duzhu$ will be extended by &56115_tssj&s.",
+  "ch": "若使用此技能时，场上至少有&56115_dccs&层$s_duci$，则$s_duzhu$的持续时间提升&56115_tssj&秒。",
+  "pt": "Se esta habilidade for usada quando houver pelo menos &56115_dccs& acúmulos de $s_duci$, a duração de cada $s_duzhu$ será aumentada em &56115_tssj& segundos."
+ },
+ "s_56116_cd": {
+  "en": "This skill's cooldown &56116_cd&s",
+  "ch": "此技能的冷却时间&56116_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &56116_cd& segundos"
+ },
+ "s_56116_crfw": {
+  "en": "Entangle's area of effect &56116_crfw&",
+  "ch": "缠绕范围&56116_crfw&。",
+  "nomes": {
+   "Entangle": "Emaranhar"
+  },
+  "pt": "Área de efeito da Entangle &56116_crfw&"
+ },
+ "s_56116_hlcs": {
+  "en": "If you have at least &56116_hlcs& stacks of $s_hualing$ when casting this skill, the duration of the $s_xiaohuayao$ summoned by this skill will become unlimited.",
+  "ch": "若使用此技能时，自身拥有至少&56116_hlcs&层$s_hualing$，则此技能召唤出的$s_xiaohuayao$的持续时间无限。",
+  "pt": "Se você possuir pelo menos &56116_hlcs& pilhas de $s_hualing$ ao usar essa habilidade, a duração do $s_xiaohuayao$ invocado por ela se tornará ilimitada."
+ },
+ "s_56116_hysc": {
+  "en": "If this skill is cast when there's only one enemy, the attack range of all ally $s_xiaohuayao$s will increase by &56116_hysc&% for &56116_scsj&s.",
+  "ch": "若使用此技能时，场上只有一个敌人，则使场上所有友方$s_xiaohuayao$的射程提升&56116_hysc&%，持续&56116_scsj&秒。",
+  "pt": "Se esta habilidade for usada quando houver apenas um inimigo, o alcance de ataque de todos os $s_xiaohuayao$s aliados aumentará em &56116_hysc&% durante &56116_scsj&s."
+ },
+ "s_56116_jdhs": {
+  "en": "When this skill is cast, all ally $s_xiaohuayao$s' damage taken &56116_jdhs&% for &56116_hssj&s.",
+  "ch": "使用此技能时，可使场上所有友方$s_xiaohuayao$受到的伤害&56116_jdhs&%，持续&56116_hssj&秒。",
+  "pt": "Ao usar essa habilidade, todo o dano recebido pelos aliados $s_xiaohuayao$s é reduzido em &56116_jdhs&% durante &56116_hssj&s."
+ },
+ "s_56116_mpCost": {
+  "en": "This skill's Energy Cost &56116_mpCost&",
+  "ch": "此技能的灵力消耗&56116_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &56116_mpCost&"
+ },
+ "s_56116_tstl": {
+  "en": "Thorny Spirit increases &56116_tstl&% extra Max Vitality",
+  "ch": "活力强化提升的最大体力&56116_tstl&%。",
+  "nomes": {
+   "Thorny Spirit": "Espírito Espinhoso"
+  },
+  "pt": "O Espírito Espinhoso aumenta &56116_tstl&% de Vitalidade Máx. extra."
+ },
+ "s_56116_zjht": {
+  "en": "You can consume all stacks of $s_hualing$ when you cast this skill. For every stack of $s_hualing$ consumed, the $s_xiaohuayao$ summoned by this skill will have its Max Vitality increased by &56116_zjht&%.",
+  "ch": "使用技能时可消耗自身所有$s_hualing$，每消耗一层$s_hualing$，此技能召唤出的$s_xiaohuayao$的体力上限提升&56116_zjht&%。",
+  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar essa habilidade. Para cada pilha de $s_hualing$ consumida, a Vitalidade Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56116_zjht&%."
+ },
+ "s_5_0_1": {
+  "en": "This skill deals &s_5_0_1&% more damage to <y>all enemies</y>.",
+  "ch": "此技能对<y>所有敌人</y>造成的伤害提升&s_5_0_1&%。",
+  "pt": "Essa habilidade causa &s_5_0_1&% mais dano a <y>todos os inimigos</y>."
+ },
+ "s_5_0_3": {
+  "en": "This skill deals &s_5_0_3&% more damage to <p>elite monsters</p>.",
+  "ch": "此技能对<p>精英单位</p>造成的伤害提升&s_5_0_3&%。",
+  "pt": "Essa habilidade causa &s_5_0_3&% mais dano a <p>monstros de elite</p>."
+ },
+ "s_5_0_4": {
+  "en": "This skill deals &s_5_0_4&% more damage to <r>Mythical Beasts</r>.",
+  "ch": "此技能对<r>大妖兽</r>造成的伤害提升&s_5_0_4&%。",
+  "pt": "Essa habilidade causa &s_5_0_4&% mais dano a <r>Feras Míticas</r>."
+ },
+ "s_5_0_5": {
+  "en": "This skill deals &s_5_0_5&% more damage to <b>Cultivators</b>.",
+  "ch": "此技能对<b>修仙者</b>造成的伤害提升&s_5_0_5&%。",
+  "pt": "Essa habilidade causa &s_5_0_5&% mais dano aos <b>Cultivadores</b>."
+ },
+ "s_6001_mokang": {
+  "en": "Spiritual RES &6001_mokang&",
+  "ch": "灵根抗性&6001_mokang&。",
+  "pt": "Espiritual RES &6001_mokang&"
+ },
+ "s_61111_cd": {
+  "en": "This skill's cooldown &61111_cd&s",
+  "ch": "此技能的冷却时间&61111_cd&秒。",
+  "pt": "O tempo de recarga desta habilidade é &61111_cd&s"
+ },
+ "s_61111_hhsj": {
+  "en": "$s_shenhuohe$'s duration &61111_hhsj&s",
+  "ch": "$s_shenhuohe$的持续时间&61111_hhsj&秒。",
+  "pt": "Duração de $s_shenhuohe$ &61111_hhsj&s"
+ },
+ "s_61111_hhys": {
+  "en": "The $s_shenhuohe$'s movement speed &61111_hhys&",
+  "ch": "$s_shenhuohe$的移动速度&61111_hhys&。",
+  "pt": "A velocidade de movimento do $s_shenhuohe$ &61111_hhys&"
+ },
+ "s_61111_jdys": {
+  "en": "Every time the $s_shenhuohe$ hits an enemy, this enemy's Agility &61111_jdys&% for &61111_jssj&s.",
+  "ch": "$s_shenhuohe$攻击时，可使敌人的移动速度&61111_jdys&%，持续&61111_jssj&秒。",
+  "pt": "Toda vez que o $s_shenhuohe$ atingir um inimigo, a Agilidade desse inimigo será reduzida em &61111_jdys&% por &61111_jssj& segundos."
+ },
+ "s_61111_lxsj": {
+  "en": "When the $s_shenhuohe$ disappears, a $s_lieyan$ (area of effect: &61111_hyfw&) that lasts &61111_lxsj&s will be generated at its location.",
+  "ch": "当$s_shenhuohe$消失时，在其位置产生一团范围&61111_hyfw&的$s_lieyan$，持续&61111_lxsj&秒。",
+  "pt": "Quando o $s_shenhuohe$ desaparecer, um $s_lieyan$ (área de efeito: &61111_hyfw&) que dura &61111_lxsj&s será gerado em seu local."
+ },
+ "s_61111_mpCost": {
+  "en": "This skill's Energy Cost &61111_mpCost&",
+  "ch": "此技能的灵力消耗&61111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &61111_mpCost&"
+ },
+ "s_61111_range": {
+  "en": "$s_shenhuohe$'s summoning range &61111_range&",
+  "ch": "$s_shenhuohe$的召唤距离&61111_range&。",
+  "pt": "O alcance de invocação de $s_shenhuohe$ &61111_range&"
+ },
+ "s_61111_tssd": {
+  "en": "The $s_shenhuohe$'s movement speed &61111_hhys&",
+  "ch": "$s_shenhuohe$的移动速度&61111_hhys&。",
+  "pt": "A velocidade de movimento do $s_shenhuohe$ &61111_hhys&"
+ },
+ "s_61111_xrsj": {
+  "en": "For the duration of the $s_shenhuohe$, the duration of your $s_xuruo$ status &61111_xrsj&%.",
+  "ch": "在$s_shenhuohe$的持续时间内，自身受到$s_xuruo$的持续时间&61111_xrsj&%。",
+  "pt": "Durante a duração do $s_shenhuohe$, a duração do seu status $s_xuruo$ &61111_xrsj&%."
+ },
+ "s_61112_cd": {
+  "en": "This skill's cooldown &61112_cd&s",
+  "ch": "此技能的冷却时间&61112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &61112_cd& segundos"
+ },
+ "s_61112_hyfw": {
+  "en": "$s_lieyan$'s area of effect &61112_hyfw&",
+  "ch": "$s_lieyan$的范围&61112_hyfw&。",
+  "pt": "A área de efeito de $s_lieyan$ &61112_hyfw&"
+ },
+ "s_61112_hysj": {
+  "en": "$s_lieyan$'s duration &61112_hysj&s",
+  "ch": "$s_lieyan$的持续时间&61112_hysj&秒。",
+  "pt": "Duração de $s_lieyan$ &61112_hysj&s"
+ },
+ "s_61112_jdsh": {
+  "en": "Damage of enemies within the $s_lieyan$'s area &61112_jdsh&%",
+  "ch": "当敌人在$s_lieyan$范围内，则其造成的伤害&61112_jdsh&%。",
+  "pt": "Dano causado por inimigos dentro da área do $s_lieyan$ &61112_jdsh&%"
+ },
+ "s_61112_jdys": {
+  "en": "Agility of enemies within the $s_lieyan$'s area &61112_jdys&%",
+  "ch": "在$s_lieyan$范围内的敌人的移动速度&61112_jdys&%。",
+  "pt": "Agilidade dos inimigos dentro da área do $s_lieyan$ &61112_jdys&%"
+ },
+ "s_61112_jscd": {
+  "en": "Every time an enemy dies within the $s_lieyan$'s area, the cooldown of Special Skills &61112_jscd&s.",
+  "ch": "每当有一个敌人在$s_lieyan$范围内死亡，则绝技的冷却时间&61112_jscd&秒。",
+  "pt": "Toda vez que um inimigo morre dentro da área do $s_lieyan$, o tempo de recarga da Técnica Especial &61112_jscd&s."
+ },
+ "s_61112_mpCost": {
+  "en": "This skill's Energy Cost &61112_mpCost&",
+  "ch": "此技能的灵力消耗&61112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &61112_mpCost&"
+ },
+ "s_61112_xrsj": {
+  "en": "For the duration of this Ultimate Skill, the duration of your $s_xuruo$ status &61112_xrsj&%.",
+  "ch": "在此神通的持续时间内，自身受到$s_xuruo$的持续时间&61112_xrsj&%。",
+  "pt": "Durante a utilização desta Técnica Suprema, a duração do seu status $s_xuruo$ &61112_xrsj&%."
+ },
+ "s_62111_cd": {
+  "en": "This skill's cooldown &62111_cd&s",
+  "ch": "此技能的冷却时间&62111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &62111_cd&s"
+ },
+ "s_62111_djgl": {
+  "en": "Upon hitting an enemy, Ice Storm has a &62111_djgl&% chance to inflict $s_dongjie$.",
+  "ch": "冰霜风暴在命中敌人时，有&62111_djgl&%的概率可使其$s_dongjie$。",
+  "pt": "Ao atingir um inimigo, Tempestade de Gelo tem uma chance de &62111_djgl&% de causar $s_dongjie$."
+ },
+ "s_62111_fbbs": {
+  "en": "Ice Storms generated &62111_fbbs|x62111_mbsl|f0&",
+  "ch": "冰霜风暴的生成数量&62111_fbbs|x62111_mbsl|f0&。",
+  "pt": "Tempestades de Gelo geraram &62111_fbbs|x62111_mbsl|f0&"
+ },
+ "s_62111_fbsc": {
+  "en": "Ice Storm's range &62111_fbsc&",
+  "ch": "冰霜风暴的射程&62111_fbsc&。",
+  "pt": "O alcance da Tempestade de Gelo &62111_fbsc&"
+ },
+ "s_62111_hfll": {
+  "en": "For every enemy this skill kills, you'll restore &62111_hfll& Energy.",
+  "ch": "此技能每击杀一个敌人，可为自身恢复灵力&62111_hfll&点。",
+  "pt": "Para cada inimigo que essa habilidade matar, você recuperará &62111_hfll& unidades de Energia."
+ },
+ "s_62111_mpCost": {
+  "en": "This skill's Energy Cost &62111_mpCost&",
+  "ch": "此技能的灵力消耗&62111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &62111_mpCost&"
+ },
+ "s_62111_tssh": {
+  "en": "Ice Storm deals &62111_tssh&% more damage to enemies inflicted with $s_dongjie$.",
+  "ch": "冰霜风暴对$s_dongjie$的敌人造成的伤害提升&62111_tssh&%。",
+  "pt": "A Tempestade de Gelo causa &62111_tssh&% mais dano a inimigos que estejam sob o efeito de $s_dongjie$."
+ },
+ "s_62111_zdll": {
+  "en": "Casting this Ultimate Skill will increase your Max Energy by &62111_zdll& for &62111_llsj&s.",
+  "ch": "施展此神通后，可使自身的最大灵力提升&62111_zdll&点，持续&62111_llsj&秒。",
+  "pt": "Ao usar essa Técnica Suprema, sua Energia Máx. aumentará em &62111_zdll& durante &62111_llsj& segundos."
+ },
+ "s_62112_cd": {
+  "en": "This skill's cooldown &62112_cd&s",
+  "ch": "此技能的冷却时间&62112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &62112_cd&s"
+ },
+ "s_62112_hfll": {
+  "en": "$s_baolinghu$ also takes effect inside Spiritual Rain's area, and Energy restored by Spiritual Rain &62112_hfll& every second.",
+  "ch": "在灵雨范围内也拥有$s_baolinghu$的效果，且灵雨的每秒恢复灵力&62112_hfll&点。",
+  "pt": "$s_baolinghu$ também tem efeito dentro da área da Chuva Espiritual, restaurando Energia a cada segundo por meio da Chuva Espiritual &62112_hfll&."
+ },
+ "s_62112_jdys": {
+  "en": "While inside Spiritual Rain's area, your damage taken &62112_jdys&%.",
+  "ch": "在灵雨范围内，自身受到的伤害&62112_jdys&%。",
+  "pt": "Enquanto estiver dentro da área da Chuva Espiritual, o dano que você recebe será reduzido em &62112_jdys&%."
+ },
+ "s_62112_lyfw": {
+  "en": "Spiritual Rain's area of effect &62112_lyfw&",
+  "ch": "灵雨的作用范围&62112_lyfw&。",
+  "pt": "Área de efeito da Chuva Espiritual &62112_lyfw&"
+ },
+ "s_62112_lysj": {
+  "en": "Spiritual Rain's duration &62112_lysj&s",
+  "ch": "灵雨的持续时间&62112_lysj&秒。",
+  "pt": "Duração da Chuva Espiritual &62112_lysj&s"
+ },
+ "s_62112_mpCost": {
+  "en": "This skill's Energy Cost &62112_mpCost&",
+  "ch": "此技能的灵力消耗&62112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &62112_mpCost&"
+ },
+ "s_62112_tsys": {
+  "en": "While inside Spiritual Rain's area, your Agility &62112_tsys&%.",
+  "ch": "在灵雨范围内，自身的移动速度提升&62112_tsys&%。",
+  "pt": "Enquanto estiver na área da Chuva Espiritual, sua Agilidade &62112_tsys&%."
+ },
+ "s_62112_zdll": {
+  "en": "Casting this Ultimate Skill will increase your Max Energy by &62112_zdll& for &62112_llsj&s.",
+  "ch": "施展此神通后，可使自身的最大灵力提升&62112_zdll&点，持续&62112_llsj&秒。",
+  "pt": "Ao usar essa Técnica Suprema, sua Energia Máx. aumentará em &62112_zdll& por &62112_llsj& segundos."
+ },
+ "s_63111_cd": {
+  "en": "This skill's cooldown &63111_cd&s",
+  "ch": "此技能的冷却时间&63111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &63111_cd& segundos"
+ },
+ "s_63111_djzs": {
+  "en": "When lightning hits yourself, its damage &63111_djzs&%.",
+  "ch": "天雷打击自身时，造成的伤害&63111_djzs&%。",
+  "pt": "Quando um relâmpago atinge você, ele causa dano &63111_djzs&%."
+ },
+ "s_63111_lzfw": {
+  "en": "Lightning Retribution's attack area &63111_lzfw&",
+  "ch": "天雷劫的打击范围&63111_lzfw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "A área de ataque da Retribuição do Relâmpago &63111_lzfw&"
+ },
+ "s_63111_lzsj": {
+  "en": "This Ultimate Skill's duration &63111_lzsj&s",
+  "ch": "此神通的持续时间&63111_lzsj&秒。",
+  "pt": "A duração desta Técnica Suprema é &63111_lzsj&s"
+ },
+ "s_63111_mpCost": {
+  "en": "This skill's Energy Cost &63111_mpCost&",
+  "ch": "此技能的灵力消耗&63111_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &63111_mpCost&"
+ },
+ "s_63111_zdsl": {
+  "en": "For the duration of this Ultimate Skill, $s_leiji$'s max number of targets will become &63111_zdsl&, and this max value is guaranteed to be achieved.",
+  "ch": "在此神通的持续时间内，$s_leiji$的最大打击数量变为&63111_zdsl&个，且必定随机出最大值。",
+  "pt": "Durante a duração desta Técnica Suprema, o número máximo de alvos que $s_leiji$ pode atingir será &63111_zdsl&, sendo que esse valor máximo será garantidamente alcançado."
+ },
+ "s_63111_zdwl": {
+  "en": "For the duration of this Ultimate Skill, $s_leiji$'s max power will become &63111_zdwl&, and this max value is guaranteed to be achieved.",
+  "ch": "在此神通的持续时间内，$s_leiji$的最大威力增加&63111_zdwl&，且必定随机出最大值。",
+  "pt": "Durante a utilização desta Técnica Suprema, o poder máximo de $s_leiji$ se tornará &63111_zdwl&, sendo que esse valor máximo será garantido."
+ },
+ "s_63111_zjys": {
+  "en": "For the duration of this Ultimate Skill, your Agility will increase by &63111_zjys&%.",
+  "ch": "在此神通的持续时间内，自身的移动速度提升&63111_zjys&%。",
+  "pt": "Durante a utilização desta Técnica Suprema, sua Agilidade aumentará em &63111_zjys&%."
+ },
+ "s_63112_cd": {
+  "en": "This skill's cooldown &63112_cd&s",
+  "ch": "此技能的冷却时间&63112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &63112_cd& segundos"
+ },
+ "s_63112_lffw": {
+  "en": "Lightning Punishment Stone's attack area &63112_lffw&",
+  "ch": "雷罚之石的打击范围&63112_lffw&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Área de ataque da Pedra de Punição do Relâmpago &63112_lffw&"
+ },
+ "s_63112_lfmb": {
+  "en": "Max enemies hit by Lightning Punishment Stone &63112_lfmb&",
+  "ch": "雷罚之石的最大打击目标数量&63112_lfmb&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Máximo de inimigos atingidos pela Pedra da Punição de Relâmpago &63112_lfmb&"
+ },
+ "s_63112_lfsj": {
+  "en": "Lightning Punishment Stone's duration &63112_lfsj&s",
+  "ch": "雷罚之石的持续时间&63112_lfsj&秒。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Duração da Pedra da Punição do Relâmpago &63112_lfsj&s"
+ },
+ "s_63112_lqsj": {
+  "en": "Every time this Ultimate Skill kills an enemy, a Ball of Lightning that lasts &63112_lqsj&s will be generated at this enemy's location. The Ball of Lightning will explode when another enemy approaches, dealing &63112_lqsh|x63112_dmg|/100|f0& $s_lei$ damage to enemies within &63112_lqfw&.",
+  "ch": "此神通每击杀一个敌人，可在敌人位置生成一个持续&63112_lqsj&秒的雷球，当有敌人靠近雷球时，雷球会爆开，对范围&63112_lqfw&内的敌人造成伤害&63112_lqsh|x63112_dmg|/100|f0&的$s_lei$伤害。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Toda vez que esta Técnica Suprema matar um inimigo, uma Esfera de Relâmpago que dura &63112_lqsj& segundos será gerada no local onde o inimigo estava. Essa Esfera de Relâmpago explodirá ao perceber a aproximação de outro inimigo, causando &63112_lqsh|x63112_dmg|/100|f0& $s_lei$ de dano a todos os inimigos num raio de &63112_lqfw&."
+ },
+ "s_63112_mpCost": {
+  "en": "This skill's Energy Cost &63112_mpCost&",
+  "ch": "此技能的灵力消耗&63112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &63112_mpCost&"
+ },
+ "s_63112_zdsl": {
+  "en": "For the duration of this Ultimate Skill, $s_leiji$'s max number of targets will become &63112_zdsl&, and this max value is guaranteed to be achieved.",
+  "ch": "在此神通的持续时间内，$s_leiji$的最大打击数量变为&63112_zdsl&个，且必定随机出最大值。",
+  "pt": "Durante a utilização desta Técnica Suprema, o número máximo de alvos que $s_leiji$ pode atingir será &63112_zdsl&, sendo que esse valor máximo é garantido."
+ },
+ "s_63112_zdwl": {
+  "en": "For the duration of this Ultimate Skill, $s_leiji$'s max power will become &63112_zdwl&, and this max value is guaranteed to be achieved.",
+  "ch": "在此神通的持续时间内，$s_leiji$的最大威力增加&63112_zdwl&，且必定随机出最大值。",
+  "pt": "Durante a duração desta Técnica Suprema, o poder máximo de $s_leiji$ se tornará &63112_zdwl&, sendo garantido que esse valor máximo será atingido."
+ },
+ "s_64111_cd": {
+  "en": "This skill's cooldown &64111_cd&s",
+  "ch": "此技能的冷却时间&64111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &64111_cd&s"
+ },
+ "s_64111_jdys": {
+  "en": "Agility of enemies hit by the storm &64111_jdys&% for &64111_jssj&s.",
+  "ch": "风暴命中敌人时，可使目标的移动速度&64111_jdys&%，持续&64111_jssj&秒。",
+  "pt": "Agilidade dos inimigos atingidos pela tempestade &64111_jdys&% por &64111_jssj& segundos."
+ },
+ "s_64111_mpCost": {
+  "en": "This skill's Energy Cost &64111_mpCost&",
+  "ch": "此技能的灵力消耗&64111_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &64111_mpCost&"
+ },
+ "s_64111_tsys": {
+  "en": "For the duration of this Ultimate Skill, your Agility will increase by &64111_tsys&%.",
+  "ch": "在此神通的持续时间内，自身的移动速度提升&64111_tsys&%。",
+  "pt": "Durante a utilização desta Técnica Suprema, sua Agilidade aumentará em &64111_tsys&%."
+ },
+ "s_64111_wqqy": {
+  "en": "The large storm's pulling effect &64111_wqqy|x2|f0&%",
+  "ch": "风暴对场上敌人的牵引强度&64111_wqqy|x2|f0&%。",
+  "pt": "O efeito de atração da grande tempestade &64111_wqqy|x2|f0&%"
+ },
+ "s_64111_xfsj": {
+  "en": "The large storm's duration &64111_xfsj&s",
+  "ch": "风暴的持续时间&64111_xfsj&秒。",
+  "pt": "A duração da grande tempestade &64111_xfsj&s"
+ },
+ "s_64111_zxgl": {
+  "en": "Every 0.5s, there's a &64111_zxgl&% chance to generate a $s_xuanfeng$ at the center of the storm.",
+  "ch": "风暴的中心每0.5秒有&64111_zxgl&%概率向外生成一道$s_xuanfeng$。",
+  "pt": "A cada 0,5s, há uma chance de &64111_zxgl&% de gerar um $s_xuanfeng$ no centro da tempestade."
+ },
+ "s_64112_cd": {
+  "en": "This skill's cooldown &64112_cd&s",
+  "ch": "此技能的冷却时间&64112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &64112_cd& segundos"
+ },
+ "s_64112_cxsj": {
+  "en": "This Ultimate Skill's duration &64112_cxsj&s",
+  "ch": "此神通的持续时间&64112_cxsj&秒。",
+  "pt": "A duração dessa Técnica Suprema é &64112_cxsj&s"
+ },
+ "s_64112_mpCost": {
+  "en": "This skill's Energy Cost &64112_mpCost&",
+  "ch": "此技能的灵力消耗&64112_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &64112_mpCost&"
+ },
+ "s_64112_tssh": {
+  "en": "For the duration of this Ultimate Skill, your damage done will increase by &64112_tssh&%.",
+  "ch": "在此神通的持续时间内，自身造成的伤害提升&64112_tssh&%。",
+  "pt": "Durante a utilização desta Técnica Suprema, o dano que você causa aumentará em &64112_tssh&%."
+ },
+ "s_64112_xfds": {
+  "en": "After this Ultimate Skill ends, &64112_xfds& $s_xuanfeng$s will be generated underneath you. For every enemy killed during this Ultimate Skill, an additional $s_xuanfeng$ will be generated.",
+  "ch": "在此神通结束后，自身脚下将向外生成&64112_xfds&道$s_xuanfeng$，且神通的持续时间内每击杀一个敌人，可额外增加一道$s_xuanfeng$。",
+  "pt": "Após o término desta Técnica Suprema, &64112_xfds& $s_xuanfeng$s serão gerados abaixo de você. Para cada inimigo morto durante a utilização desta Técnica Suprema, um $s_xuanfeng$ adicional será criado."
+ },
+ "s_64112_zjcd": {
+  "en": "$s_jifengren$'s cooldown &64112_zjcd|/64112_sjsf|x10000|f0&s.",
+  "ch": "灵技$s_jifengren$的冷却时间&64112_zjcd|/64112_sjsf|x10000|f0&秒。",
+  "pt": "O tempo de recarga de $s_jifengren$ é &64112_zjcd|/64112_sjsf|x10000|f0&s."
+ },
+ "s_64112_zsys": {
+  "en": "For the duration of this Ultimate Skill, your Agility will increase by &64112_zsys&%.",
+  "ch": "在此神通的持续时间内，自身的移动速度提升&64112_zsys&%。",
+  "pt": "Durante a vigência desta Técnica Suprema, sua Agilidade aumentará em &64112_zsys&%."
+ },
+ "s_65111_cd": {
+  "en": "This skill's cooldown &65111_cd&s",
+  "ch": "此技能的冷却时间&65111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &65111_cd& segundos"
+ },
+ "s_65111_jdsh": {
+  "en": "Damage of enemies within Earthfall's area &65111_jdsh&%",
+  "ch": "在山崩范围内的敌人，其造成的伤害&65111_jdsh&%。",
+  "pt": "Dano causado por inimigos na área da Queda Terrestre &65111_jdsh&%"
+ },
+ "s_65111_jssj": {
+  "en": "When this Ultimate Skill ends, Agility of enemies within Earthfall's area &65111_jdys&% for &65111_jssj&s.",
+  "ch": "在此神通结束时，可使还在山崩范围内的敌人的移动速度&65111_jdys&%，持续&65111_jssj&秒。",
+  "pt": "Quando esta Técnica Suprema terminar, a Agilidade dos inimigos dentro da área de Earthfall diminuirá em &65111_jdys&% por &65111_jssj& segundos."
+ },
+ "s_65111_klhf": {
+  "en": "For every enemy dies within Earthfall's area, all $s_tukuilei$s' Vitality will be restored by &65111_klhf&%.",
+  "ch": "山崩范围内每死亡一个敌人，可使场上所有$s_tukuilei$的体力恢复&65111_klhf&%。",
+  "pt": "Para cada inimigo que morrer na área de Earthfall, a Vitalidade de todos os $s_tukuilei$s será restaurada em &65111_klhf&%."
+ },
+ "s_65111_mpCost": {
+  "en": "This skill's Energy Cost &65111_mpCost&",
+  "ch": "此技能的灵力消耗&65111_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &65111_mpCost&"
+ },
+ "s_65111_sbfw": {
+  "en": "Earthfall's area of damage &65111_sbfw&",
+  "ch": "山崩的伤害范围&65111_sbfw&。",
+  "pt": "Área de dano do Earthfall &65111_sbfw&"
+ },
+ "s_65111_sbsj": {
+  "en": "Earthfall's duration &65111_sbsj&s",
+  "ch": "山崩的持续时间&65111_sbsj&秒。",
+  "pt": "A duração do Earthfall &65111_sbsj&s"
+ },
+ "s_65111_tsys": {
+  "en": "For the duration of this Ultimate Skill, all $s_tukuilei$s on the battlefield will move &65111_tsys&% faster.",
+  "ch": "在此神通的持续时间内，场上所有$s_tukuilei$的移动速度提升&65111_tsys&%。",
+  "pt": "Durante a duração desta Técnica Suprema, todos os $s_tukuilei$s no campo de batalha se moverão &65111_tsys&% mais rápido."
+ },
+ "s_65112_bzsh": {
+  "en": "When the $s_julingkuilei$ dies, it'll explode, dealing &65112_bzsh& $s_tu$ damage to enemies within &65112_bzfw& and inflicting them with $s_yunxuan$ that lasts &65112_bzyx&s.",
+  "ch": "$s_julingkuilei$死亡时会发生爆炸，对范围&65112_bzfw&内的敌人造成威力&65112_bzsh&的$s_tu$伤害，并使目标$s_yunxuan$ &65112_bzyx&秒。",
+  "pt": "Quando o $s_julingkuilei$ morre, ele explode, causando &65112_bzsh& $s_tu$ pontos de dano a inimigos dentro de &65112_bzfw&, além de os atingir com $s_yunxuan$, que dura &65112_bzyx& segundos."
+ },
+ "s_65112_cd": {
+  "en": "This skill's cooldown &65112_cd&s",
+  "ch": "此技能的冷却时间&65112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &65112_cd& segundos"
+ },
+ "s_65112_jlht": {
+  "en": "Every time an ally $s_tukuilei$ dies, the $s_julingkuilei$'s Vitality will be restored by &65112_jlht&%.",
+  "ch": "每当一个友方$s_tukuilei$死亡时，可使$s_julingkuilei$的体力恢复&65112_jlht&%。",
+  "pt": "Toda vez que um aliado $s_tukuilei$ morre, a Vitalidade do $s_julingkuilei$ é restaurada em &65112_jlht&%."
+ },
+ "s_65112_jlsj": {
+  "en": "$s_julingkuilei$'s duration &65112_jlsj&s",
+  "ch": "$s_julingkuilei$的持续时间&65112_jlsj&秒。",
+  "pt": "A duração de $s_julingkuilei$ &65112_jlsj&s"
+ },
+ "s_65112_jlts": {
+  "en": "For every $s_tukuilei$ on the battlefield, the $s_julingkuilei$'s damage &65112_jlts&%.",
+  "ch": "场上每有一个$s_tukuilei$，$s_julingkuilei$造成的伤害&65112_jlts&%。",
+  "pt": "Para cada $s_tukuilei$ no campo de batalha, o dano do $s_julingkuilei$ é &65112_jlts&%."
+ },
+ "s_65112_jnwl": {
+  "en": "$s_julingkuilei$'s attack power &65112_jnwl&",
+  "ch": "$s_julingkuilei$的攻击威力&65112_jnwl&。",
+  "pt": "O poder de ataque de $s_julingkuilei$ &65112_jnwl&"
+ },
+ "s_65112_mpCost": {
+  "en": "This skill's Energy Cost &65112_mpCost&",
+  "ch": "此技能的灵力消耗&65112_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &65112_mpCost&"
+ },
+ "s_65112_yxgl": {
+  "en": "Every time the $s_julingkuilei$ hits an enemy, it has a &65112_yxgl&% chance to inflict $s_yunxuan$ that lasts &65112_yxsj&s.",
+  "ch": "$s_julingkuilei$的攻击命中敌人时，有&65112_yxgl&%的概率使其$s_yunxuan$ &65112_yxsj&秒。",
+  "pt": "Toda vez que o $s_julingkuilei$ atinge um inimigo, há uma chance de &65112_yxgl&% de causar o efeito $s_yunxuan$, que dura &65112_yxsj&s."
+ },
+ "s_66111_cd": {
+  "en": "This skill's cooldown &66111_cd&s",
+  "ch": "此技能的冷却时间&66111_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &66111_cd&s"
+ },
+ "s_66111_dhfw": {
+  "en": "$s_dulonghua$'s attack range &66111_dhfw&",
+  "ch": "$s_dulonghua$的攻击距离&66111_dhfw&。",
+  "pt": "O alcance de ataque de $s_dulonghua$ &66111_dhfw&"
+ },
+ "s_66111_dhsj": {
+  "en": "$s_dulonghua$'s duration &66111_dhsj&s",
+  "ch": "$s_dulonghua$的持续时间&66111_dhsj&秒。",
+  "pt": "A duração de $s_dulonghua$ &66111_dhsj&s"
+ },
+ "s_66111_dwsh": {
+  "en": "When the $s_dulonghua$ is on the battlefield, all ally $s_duwa$s and $s_duzhu$s deal &66111_dwsh&% more damage.",
+  "ch": "当$s_dulonghua$在场时，场上所有友方$s_duwa$和$s_duzhu$造成的伤害提升&66111_dwsh&%。",
+  "pt": "Quando o $s_dulonghua$ está no campo de batalha, todos os $s_duwa$s e $s_duzhu$s aliados causam &66111_dwsh&% mais dano."
+ },
+ "s_66111_dzwl": {
+  "en": "When the $s_dulonghua$ appears, a Poisonous Marsh will be generated underneath it, dealing &66111_dzwl&/s $s_mu$ damage to enemies within &66111_dzfw&.",
+  "ch": "$s_dulonghua$出现时，可在其脚下生成一个毒沼，对范围&66111_dzfw&内的敌人造成威力&66111_dzwl&/秒的$s_mu$伤害。",
+  "pt": "Quando o $s_dulonghua$ aparecer, um Pântano Venenoso será gerado abaixo dele, causando &66111_dzwl&/s $s_mu$ de dano aos inimigos dentro de &66111_dzfw&."
+ },
+ "s_66111_fsjs": {
+  "en": "Agility of enemies inflicted with $s_fushi$ &66111_fsjs&%",
+  "ch": "受到$s_fushi$的敌人的移动速度&66111_fsjs&%。",
+  "pt": "Agilidade dos inimigos afetados por $s_fushi$ &66111_fsjs&%"
+ },
+ "s_66111_mpCost": {
+  "en": "This skill's Energy Cost &66111_mpCost&",
+  "ch": "此技能的灵力消耗&66111_mpCost&点。",
+  "pt": "O Custo de Energia dessa habilidade &66111_mpCost&"
+ },
+ "s_66111_tshx": {
+  "en": "Every time the $s_dulonghua$ devours an enemy, the Vitality of all units summoned by allies is restored by &66111_tshx&%.",
+  "ch": "$s_dulonghua$每吞噬一个敌人，可使场上所有友方召唤物的体力恢复&66111_tshx&%。",
+  "pt": "Toda vez que o $s_dulonghua$ devora um inimigo, a Vitalidade de todas as unidades invocadas por aliados é restaurada em &66111_tshx&%."
+ },
+ "s_66112_cd": {
+  "en": "This skill's cooldown &66112_cd&s",
+  "ch": "此技能的冷却时间&66112_cd&秒。",
+  "pt": "O tempo de recarga dessa habilidade é &66112_cd&s"
+ },
+ "s_66112_crgl": {
+  "en": "Every time the $s_huayaohou$ hits an enemy, it has a &66112_crgl&% chance to inflict $s_chanrao$ that lasts &66112_crsj&s.",
+  "ch": "$s_huayaohou$在攻击敌人时，有&66112_crgl&%的概率$s_chanrao$目标&66112_crsj&秒。",
+  "pt": "Toda vez que o $s_huayaohou$ atinge um inimigo, há uma chance de &66112_crgl&% de causar o efeito $s_chanrao$, que dura &66112_crsj&s."
+ },
+ "s_66112_ddsl": {
+  "en": "$s_huayaohou$'s projectile quantity &66112_ddsl&",
+  "ch": "$s_huayaohou$的攻击弹道数量&66112_ddsl&。",
+  "pt": "A quantidade de projéteis de $s_huayaohou$ &66112_ddsl&"
+ },
+ "s_66112_hyhf": {
+  "en": "Every time an enemy dies, the $s_huayaohou$'s Vitality is restored by &66112_hyhf&%.",
+  "ch": "场上每死亡一个敌人时，$s_huayaohou$的体力恢复&66112_hyhf&%。",
+  "pt": "Toda vez que um inimigo morre, a Vitalidade do $s_huayaohou$ é restaurada em &66112_hyhf&%."
+ },
+ "s_66112_mpCost": {
+  "en": "This skill's Energy Cost &66112_mpCost&",
+  "ch": "此技能的灵力消耗&66112_mpCost&点。",
+  "pt": "O Custo de Energia desta habilidade &66112_mpCost&"
+ },
+ "s_66112_xhsh": {
+  "en": "When the $s_huayaohou$ is on the battlefield, all ally $s_xiaohuayao$s deal &66112_xhsh&% more damage.",
+  "ch": "当$s_huayaohou$在场时，场上所有友方$s_xiaohuayao$造成的伤害提升&66112_xhsh&%。",
+  "pt": "Quando o $s_huayaohou$ está no campo de batalha, todos os $s_xiaohuayao$s aliados causam &66112_xhsh&% mais dano."
+ },
+ "s_66112_xhss": {
+  "en": "When the $s_huayaohou$ is on the battlefield, all ally $s_xiaohuayao$s receive &66112_xhss&% less damage.",
+  "ch": "当$s_huayaohou$在场时，场上所有友方$s_xiaohuayao$受到的伤害&66112_xhss&%。",
+  "pt": "Quando o $s_huayaohou$ está no campo de batalha, todos os $s_xiaohuayao$s aliados recebem &66112_xhss&% menos dano."
+ },
+ "s_66112_yhsj": {
+  "en": "$s_huayaohou$'s duration &66112_yhsj&s",
+  "ch": "$s_huayaohou$的持续时间&66112_yhsj&秒。",
+  "pt": "Duração de $s_huayaohou$ &66112_yhsj&s"
+ },
+ "s_7001_wukang": {
+  "en": "Martial RES &7001_wukang&",
+  "ch": "功法抗性&7001_wukang&。",
+  "pt": "Marcial RES &7001_wukang&"
+ },
+ "s_8001_huixin": {
+  "en": "Crit &8001_huixin&",
+  "ch": "会心&8001_huixin&。",
+  "pt": "Crítico &8001_huixin&"
+ },
+ "s_8100101_djcs": {
+  "en": "Every time you kill an enemy, you'll increase your damage by &8100101_tssh&% (up to &8100101_tssh|x8100101_djcs|f2&%).",
+  "ch": "战斗中每击杀一个敌人，可使自身的伤害提升&8100101_tssh&%，最多可提升&8100101_tssh|x8100101_djcs|f2&%。",
+  "pt": "Toda vez que você mata um inimigo, aumenta seu dano em &8100101_tssh&% (até &8100101_tssh|x8100101_djcs|f2&%)."
+ },
+ "s_8100102_tssh": {
+  "en": "When there are &8100102_drsl& enemies, your damage will increase by &8100102_tssh&%.",
+  "ch": "当场上敌人的数量达到&8100102_drsl&个时，自身的伤害提升&8100102_tssh&%。",
+  "pt": "Quando houver &8100102_drsl& inimigos, o seu dano aumentará em &8100102_tssh&%."
+ },
+ "s_8100103_tssh": {
+  "en": "When there's only &8100103_drsl& enemy, your damage will increase by &8100103_tssh&%.",
+  "ch": "当场上只有&8100103_drsl&个敌人时，自身的伤害提升&8100103_tssh&%。",
+  "pt": "Quando houver apenas &8100103_drsl& inimigo, o seu dano aumentará em &8100103_tssh&%."
+ },
+ "s_8100104_tssh": {
+  "en": "Deal &8100104_tssh&% more damage to slowed enemies.",
+  "ch": "攻击被减速的敌人时，对其的伤害提升&8100104_tssh&%。",
+  "pt": "Causa &8100104_tssh&% mais dano a inimigos lentificados."
+ },
+ "s_8100105_tssh": {
+  "en": "For every enemy inflicted with $s_yunxuan$, your damage will increase by &8100105_tssh&% (up to &8100105_tssh|x8100105_djcs|f2&%).",
+  "ch": "场上每有一个$s_yunxuan$的敌人，可使自身的伤害提升&8100105_tssh&%，最多可提升&8100105_tssh|x8100105_djcs|f2&%。",
+  "pt": "Para cada inimigo afetado por $s_yunxuan$, seu dano aumentará em &8100105_tssh&% (até &8100105_tssh|x8100105_djcs|f2&%)."
+ },
+ "s_8100106_tssh": {
+  "en": "Perfect Charge's damage boost &8100106_tssh&%",
+  "ch": "完美蓄力时增加的伤害提升&8100106_tssh&%",
+  "pt": "O aumento de dano da Carga Perfeita &8100106_tssh&%"
+ },
+ "s_8100107_tssh": {
+  "en": "Deal &8100107_tssh&% more damage to enemies with less than &8100107_xqll&% Energy.",
+  "ch": "攻击灵力低于&8100107_xqll&%的敌人时，对其的伤害提升&8100107_tssh&%。",
+  "pt": "Causa &8100107_tssh&% mais dano a inimigos que possuam menos de &8100107_xqll&% de Energia."
+ },
+ "s_8100108_tssh": {
+  "en": "For every $s_lieyan$ on the battlefield, your damage will increase by &8100108_tssh&% (up to &8100108_tssh|x8100108_djcs|f2&%).",
+  "ch": "场上每有一团$s_lieyan$，可使自身的伤害提升&8100108_tssh&%，最多可提升&8100108_tssh|x8100108_djcs|f2&%。",
+  "pt": "Para cada $s_lieyan$ no campo de batalha, o seu dano aumentará em &8100108_tssh&% (até &8100108_tssh|x8100108_djcs|f2&%)."
+ },
+ "s_8100109_tssh": {
+  "en": "Deal &8100109_tssh&% more damage to enemies with less Energy.",
+  "ch": "攻击灵力低于自身的敌人时，对其的伤害提升&8100109_tssh&%。",
+  "pt": "Causa &8100109_tssh&% a mais de dano a inimigos com menos Energia."
+ },
+ "s_8100110_tssh": {
+  "en": "For every &8100110_shcs& times you deal damage, your damage will increase by &8100110_tssh&% (up to &8100110_tssh|x8100110_djcs|f2&%).",
+  "ch": "战斗中每造成&8100110_shcs&次伤害，可使自身的伤害提升&8100110_tssh&%，最多可提升&8100110_tssh|x8100110_djcs|f2&%。",
+  "pt": "A cada &8100110_shcs& vezes que você causar dano, o seu dano aumentará em &8100110_tssh&% (até um máximo de &8100110_tssh|x8100110_djcs|f2&%)."
+ },
+ "s_8100111_djcs": {
+  "en": "In battle, every time you use a Special Skill, your damage will increase by &8100111_tssh&% (up to &8100111_tssh|x8100111_djcs|f2&%).",
+  "ch": "战斗中每使用一次绝技，可使自身的伤害提升&8100111_tssh&%，最多可提升&8100111_tssh|x8100111_djcs|f2&%。",
+  "pt": "Na batalha, toda vez que você usar uma Técnica Especial, seu dano aumentará em &8100111_tssh&% (até &8100111_tssh|x8100111_djcs|f2&%)."
+ },
+ "s_8100112_tssh": {
+  "en": "For every $s_xuanfeng$ on the battlefield, your damage will increase by &8100112_tssh&% (up to &8100112_tssh|x8100112_djcs|f2&%).",
+  "ch": "场上每有一道$s_xuanfeng$，可使自身的伤害提升&8100112_tssh&%，最多可提升&8100112_tssh|x8100112_djcs|f2&%。",
+  "pt": "Para cada $s_xuanfeng$ no campo de batalha, o seu dano aumentará em &8100112_tssh&% (até &8100112_tssh|x8100112_djcs|f2&%)."
+ },
+ "s_8100113_tssh": {
+  "en": "For every ally on the battlefield, your damage will increase by &8100113_tssh&% (up to &8100113_tssh|x8100113_djcs|f2&%).",
+  "ch": "场上每有一个己方单位，可使自身的伤害提升&8100113_tssh&%，最多可提升&8100113_tssh|x8100113_djcs|f2&%。",
+  "pt": "Para cada aliado no campo de batalha, seu dano aumentará em &8100113_tssh&% (até &8100113_tssh|x8100113_djcs|f2&%)."
+ },
+ "s_8100114_tssh": {
+  "en": "When there are &8100114_yjsl& allies, your damage will increase by &8100114_tssh&%.",
+  "ch": "当场上的己方单位数量达到&8100114_yjsl&个时，自身的伤害提升&8100114_tssh&%。",
+  "pt": "Quando houver &8100114_yjsl& aliados, o seu dano aumentará em &8100114_tssh&%."
+ },
+ "s_8100115_cxsj": {
+  "en": "Every time an ally dies, your damage will increase by &8100115_tssh&% for &8100115_cxsj&s.",
+  "ch": "战斗中每当一个己方单位死亡时，自身的的伤害提升&8100115_tssh&%，持续&8100115_cxsj&秒。",
+  "pt": "Toda vez que um aliado morre, o seu dano aumentará em &8100115_tssh&% por &8100115_cxsj& segundos."
+ },
+ "s_8100116_djcs": {
+  "en": "For every &8100116_xqys& Agility points you have, your damage will increase by &8100116_tssh&% (up to &8100116_tssh|x8100116_djcs|f2&%).",
+  "ch": "战斗中自身每有&8100116_xqys&点移动速度，可使自身的伤害提升&8100116_tssh&%，最多可提升&8100116_tssh|x8100116_djcs|f2&%。",
+  "pt": "Para cada &8100116_xqys& pontos de Agilidade que você tiver, o seu dano aumentará em &8100116_tssh&% (até o limite de &8100116_tssh|x8100116_djcs|f2&%)."
+ },
+ "s_8100117_tssh": {
+  "en": "Deal &8100117_tssh&% more damage to enemies with lower Agility.",
+  "ch": "攻击移动速度低于自身的敌人时，对其的伤害提升&8100117_tssh&%。",
+  "pt": "Causa &8100117_tssh&% a mais de dano a inimigos com Agilidade menor."
+ },
+ "s_8100118_tssh": {
+  "en": "Deal &8100118_tssh&% more damage to enemies within &8100118_xqjl&.",
+  "ch": "攻击距离小于&8100118_xqjl&的敌人时，对其的伤害提升&8100118_tssh&%。",
+  "pt": "Causa &8100118_tssh&% a mais de dano a inimigos dentro de &8100118_xqjl&."
+ },
+ "s_8100119_tssh": {
+  "en": "Deal &8100119_tssh&% more damage to enemies that are more than &8100119_xqjl& away.",
+  "ch": "攻击距离大于&8100119_xqjl&的敌人时，对其的伤害提升&8100119_tssh&%。",
+  "pt": "Cause &8100119_tssh&% mais dano a inimigos que estiverem a mais de &8100119_xqjl& de distância."
+ },
+ "s_8100120_cxsj": {
+  "en": "Every time you kill an <p>elite monster</p>, you'll increase your damage by &8100120_tssh&% for &8100120_cxsj&s.",
+  "ch": "战斗中每击杀一个<p>精英单位</p>时，自身的伤害提升&8100120_tssh&%，持续&8100120_cxsj&秒。",
+  "pt": "Toda vez que você mata um <p>monstro de elite</p>, seu dano aumenta em &8100120_tssh&% por &8100120_cxsj& segundos."
+ },
+ "s_8100121_tssh": {
+  "en": "When there are more allies than enemies, your damage will increase by &8100121_tssh&%.",
+  "ch": "当场上的己方单位的数量大于敌方单位时，自身的伤害提升&8100121_tssh&%。",
+  "pt": "Quando houver mais aliados do que inimigos, o seu dano aumentará em &8100121_tssh&%."
+ },
+ "s_8100122_xqzz": {
+  "en": "For every &8100122_xqzz& Martial Arts points, your ATK will increase by &8100122_tsgj&.",
+  "ch": "每有&8100122_xqzz&点功法资质可使攻击提升&8100122_tsgj&点。",
+  "pt": "A cada &8100122_xqzz& pontos em Artes Marciais, seu ATQ aumentará em &8100122_tsgj&."
+ },
+ "s_8100123_xqtl": {
+  "en": "For every &8100123_xqtl& Max Vitality points, your ATK will increase by &8100123_tsgj&.",
+  "ch": "每有&8100123_xqtl&点体力上限可使攻击提升&8100123_tsgj&点。",
+  "pt": "A cada &8100123_xqtl& pontos de Vitalidade Máx., seu ATQ aumentará em &8100123_tsgj&."
+ },
+ "s_8100124_tsgj": {
+  "en": "When any of your Martial Arts stats reaches &8100124_xqzz&, your ATK will increase by &8100124_tsgj&.",
+  "ch": "当有任意一条功法资质达到&8100124_xqzz&点时，提升攻击&8100124_tsgj&点。",
+  "pt": "Quando qualquer um dos seus atributos de Artes Marciais atingir &8100124_xqzz&, o seu ATQ aumentará em &8100124_tsgj&."
+ },
+ "s_8100125_tsgj": {
+  "en": "When your Max Focus reaches &8100125_xqnl&, your ATK will increase by &8100125_tsgj&.",
+  "ch": "当念力上限达到&8100125_xqnl&点时，提升攻击&8100125_tsgj&点。",
+  "pt": "Quando o seu Foco Máx. atingir &8100125_xqnl&, a sua ATQ aumentará em &8100125_tsgj&."
+ },
+ "s_8100126_tsgj": {
+  "en": "When your Max Energy reaches &8100126_xqll&, your ATK will increase by &8100126_tsgj&.",
+  "ch": "当灵力上限达到&8100126_xqll&点时，提升攻击&8100126_tsgj&点。",
+  "pt": "Quando sua Energia Máx. atingir &8100126_xqll&, seu ATQ aumentará em &8100126_tsgj&."
+ },
+ "s_81011_bnsj": {
+  "en": "Every time an ally Wild Boar is attacked, it deals &81011_bnsh&% (up to &81011_bnsh|x81011_bnsx|f0&%) more damage.",
+  "ch": "己方野猪在每次受到攻击时会暴怒，可使自身的伤害提升&81011_bnsh&%，最多可提升&81011_bnsh|x81011_bnsx|f0&%。",
+  "pt": "Toda vez que um Javali Selvagem aliado é atacado, ele causa &81011_bnsh&% (até &81011_bnsh|x81011_bnsx|f0&%) de dano extra."
+ },
+ "s_81011_cxsj": {
+  "en": "Ally Wild Boars' duration +&81011_cxsj+1&s",
+  "ch": "己方野猪的持续时间提升&81011_cxsj+1&秒。",
+  "pt": "Duração do Ally Wild Boars +&81011_cxsj+1&s"
+ },
+ "s_81011_jssj": {
+  "en": "Every time this artifact boosts allies, all ally units within range receive &81011_qhjs&% (up to &81011_qhjs|x81011_jscs|f0&%) damage.",
+  "ch": "此法宝每次强化时，范围内所有友方召唤物受到的伤害&81011_qhjs&%，最多可&81011_qhjs|x81011_jscs|f0&%。",
+  "pt": "Toda vez que este artefato potencializa os aliados, todas as unidades aliadas dentro do alcance recebem &81011_qhjs&% de dano (até &81011_qhjs|x81011_jscs|f0&%)."
+ },
+ "s_81011_qhfw": {
+  "en": "This artifact's area of boost +&81011_qhfw+1&",
+  "ch": "此法宝强化范围提升&81011_qhfw+1&。",
+  "pt": "A área de amplificação deste artefato é +&81011_qhfw+1&"
+ },
+ "s_81011_shjs": {
+  "en": "Every time this artifact boosts allies, all ally units within range deal &81011_qhsh&% (up to &81011_qhsh|x81011_zssx|f0&%) more damage.",
+  "ch": "此法宝每次强化时，范围内所有友方召唤物造成的伤害提升&81011_qhsh&%，最多可提升&81011_qhsh|x81011_zssx|f0&%。",
+  "pt": "Toda vez que este artefato potencializa os aliados, todas as unidades aliadas dentro do alcance causam &81011_qhsh&% (até &81011_qhsh|x81011_zssx|f0&%) mais dano."
+ },
+ "s_81011_slsj": {
+  "en": "Every time an ally Wild Boar attacks, it exposes the wounds of the target. The affected target will receive &81011_shts&% more damage for &81011_slsj+1&s.",
+  "ch": "己方野猪在每次攻击时可撕裂敌人的伤口，使敌人受到的伤害提升&81011_shts&%，持续&81011_slsj+1&秒。",
+  "pt": "Toda vez que um aliado Javali Selvagem ataca, as feridas do alvo são expostas. O alvo afetado receberá &81011_shts&% mais dano durante &81011_slsj+1& segundos."
+ },
+ "s_81011_tlsj": {
+  "en": "Ally Wild Boars' Max Vitality +&81011_tstl&",
+  "ch": "己方野猪的最大体力提升&81011_tstl&点。",
+  "pt": "Vitalidade Máx dos Javalis Selvagens Aliados +&81011_tstl&"
+ },
+ "s_81011_tsys": {
+  "en": "This artifact's Vitality boost +&81011_hftl+1& and Agility boost +&81011_tsys+1&%",
+  "ch": "此法宝强化时使所有友方召唤物回复的体力额外提升&81011_hftl+1&点，移动速度额外提升&81011_tsys+1&%。",
+  "pt": "O aumento de Vitalidade deste artefato é +&81011_hftl+1& e o aumento de Agilidade é +&81011_tsys+1&%."
+ },
+ "s_81011_yzsl": {
+  "en": "Time interval for summoning Wild Boars &81011_zhjg+1&s",
+  "ch": "召唤野猪的间隔&81011_zhjg+1&秒。",
+  "pt": "Intervalo de tempo para invocar Javalis Selvagens &81011_zhjg+1&s"
+ },
+ "s_81011_yzwl": {
+  "en": "Ally Wild Boars' damage +&81011_yzwl+1&",
+  "ch": "己方野猪的伤害威力提升&81011_yzwl+1&。",
+  "pt": "Dano dos Javalis Selvagens Aliados +&81011_yzwl+1&"
+ },
+ "s_81021_jdlg": {
+  "en": "This artifact's Spiritual Root reduction &81021_jdlg+1|-81021_jdlg|f0&%",
+  "ch": "此法宝的闪电降低灵根资质的效果提升&81021_jdlg+1|-81021_jdlg|f0&%。",
+  "pt": "A redução da Raiz Espiritual deste artefato &81021_jdlg+1|-81021_jdlg|f0&%"
+ },
+ "s_81021_jssj": {
+  "en": "Your damage taken while linked to a lightning bolt &81021_jsxg&%",
+  "ch": "当被雷电连接时，自身受到的伤害&81021_jsxg&%。",
+  "pt": "O dano que você sofre enquanto estiver conectado a um relâmpago &81021_jsxg&%"
+ },
+ "s_81021_mbgl": {
+  "en": "Each enemy hit by the lightning bolt linked to you has a &81021_mbgl+1&% chance to be paralyzed for &81021_mbsj&s.",
+  "ch": "被连接自身的雷电伤害到的敌人有&81021_mbgl+1&%概率麻痹&81021_mbsj&秒。",
+  "pt": "Cada inimigo atingido pelo relâmpago vinculado a você tem uma chance de &81021_mbgl+1&% de ficar paralisado por &81021_mbsj& segundos."
+ },
+ "s_81021_sdfw": {
+  "en": "Lighting strike's attack area +&81021_sdfw+1&",
+  "ch": "此法宝的闪电打击范围提升&81021_sdfw+1&。",
+  "pt": "Área de ataque do raio +&81021_sdfw+1&"
+ },
+ "s_81021_sdjg": {
+  "en": "Lighting strike interval &81021_sdjg+1&s",
+  "ch": "此法宝闪电打击的时间间隔&81021_sdjg+1&秒。",
+  "pt": "Intervalo entre descargas elétricas &81021_sdjg+1&s"
+ },
+ "s_81021_sdkg": {
+  "en": "For the duration of this artifact, every time you cast a Special Skill, you'll generate a lightning bolt that lasts &81021_sdlj&s and is linked to yourself, dealing &81021_dlwl& $s_lei$ damage to every enemy it hits.",
+  "ch": "在此法宝的持续时间内，自身使用绝技会产生一道持续&81021_sdlj&秒的雷电连接自身，并对碰撞到雷电的敌人造成威力&81021_dlwl&的$s_lei$伤害。",
+  "pt": "Durante o período de uso deste artefato, toda vez que você usar uma Técnica Especial, um relâmpago será gerado; ele durará &81021_sdlj& segundos e estará ligado a você, causando &81021_dlwl& $s_lei$ de dano a todos os inimigos que atingir."
+ },
+ "s_81021_xldx": {
+  "en": "For the duration of this artifact, every time you cast a Charged Special Skill, for every &81021_xljg&s you charge the skill, the lightning explosion's area of damage will be expanded by &81021_djfw& (up to &81021_djfw|x81021_djcs|f0&).",
+  "ch": "在此法宝的持续时间内，自身使用蓄力施法的绝技时，每蓄力&81021_xljg&秒可使法宝的闪电爆开的伤害范围提升&81021_djfw&，最多可提升&81021_djfw|x81021_djcs|f0&。",
+  "pt": "Durante o tempo de uso deste artefato, toda vez que você lançar uma Técnica Especial com carga, para cada &81021_xljg&s de carga aplicada à habilidade, a área de dano da explosão do relâmpago será ampliada em &81021_djfw& (até o limite de &81021_djfw|x81021_djcs|f0&)."
+ },
+ "s_81021_xlsd": {
+  "en": "When an enemy is more than &81021_shfw& away, for every &81021_djfw|x2|f0& farther away, this artifact's lightning strike deals &81021_xlsh|x2|f0&% more damage.",
+  "ch": "在敌人距离大于&81021_shfw&时，距离每提升&81021_djfw|x2|f0&，此法宝闪电造成的伤害提升&81021_xlsh|x2|f0&%。",
+  "pt": "Quando um inimigo está a mais de &81021_shfw& de distância, para cada &81021_djfw|x2|f0& a mais de distância, o ataque de relâmpago deste artefato causa &81021_xlsh|x2|f0&% mais dano."
+ },
+ "s_81021_yssj": {
+  "en": "Your Agility while linked to a lightning bolt +&81021_ysxg&%",
+  "ch": "当被雷电连接时，自身的移动速度提升&81021_ysxg&%。",
+  "pt": "Sua Agilidade ao estar conectado a um relâmpago +&81021_ysxg&%"
+ },
+ "s_81031_cfsj": {
+  "en": "Enemies within the area of this artifact are forced to attack this artifact.",
+  "ch": "此法宝范围内的敌人将强制攻击法宝。",
+  "pt": "Inimigos dentro da área deste artefato são forçados a atacar esse artefato."
+ },
+ "s_81031_cmdj": {
+  "en": "Enemies within the area of this artifact can't use items.",
+  "ch": "此法宝范围内的敌人无法使用道具。",
+  "pt": "Inimigos dentro da área deste artefato não podem usar item algum."
+ },
+ "s_81031_ctzb": {
+  "en": "For the duration of this artifact, every time your Special Skill's projectile pierces through the artifact, a shockwave will be released.",
+  "ch": "在此法宝的持续时间内，当自身使用绝技弹道穿透法宝时，也将引发震波。",
+  "pt": "Enquanto este artefato estiver ativo, toda vez que o projétil da sua Técnica Especial atravessar o artefato, uma onda de choque será liberada."
+ },
+ "s_81031_jssj": {
+  "en": "Agility of enemies within the area of this artifact &81031_ysjs&%",
+  "ch": "此法宝范围内的敌人移动速度&81031_ysjs&%。",
+  "pt": "Agilidade dos inimigos dentro da área deste artefato &81031_ysjs&%"
+ },
+ "s_81031_swzb": {
+  "en": "When this artifact is broken, it'll release a shockwave (area of effect: &81031_dbfw&) that deals &81031_dbsh& damage and stuns the targets for &81031_dbxy&s.",
+  "ch": "此法宝被打破时，会释放出范围&81031_dbfw&的震波，对敌人造成威力&81031_dbsh&的伤害并晕眩&81031_dbxy&秒。",
+  "pt": "Quando esse artefato se quebrar, ele emitirá uma onda de choque (área de efeito: &81031_dbfw&) que causa &81031_dbsh& de dano e atordoa os alvos por &81031_dbxy& segundos."
+ },
+ "s_81031_tssj": {
+  "en": "Enemies within the area of this artifact receive &81031_shts&% more damage.",
+  "ch": "此法宝范围内的敌人受到的伤害提升&81031_shts&%。",
+  "pt": "Inimigos dentro da área de influência deste artefato recebem &81031_shts&% a mais de dano."
+ },
+ "s_81031_yxfw": {
+  "en": "This artifact's area of effect +&81031_yxfw+1&",
+  "ch": "此法宝的作用范围提升&81031_yxfw+1&",
+  "pt": "A área de efeito deste artefato é +&81031_yxfw+1&"
+ },
+ "s_81031_zbkg": {
+  "en": "When receiving damage, this artifact has a &81031_zbgl&% chance to release a shockwave (cooldown: &81031_zblq&s) that deals &81031_zbsh& damage to enemies within range.",
+  "ch": "此法宝受到伤害时，有&81031_zbgl&%的概率发出震波对范围内的敌人造成威力&81031_zbsh&的伤害，震波最小产生间隔&81031_zblq&秒。",
+  "pt": "Ao sofrer dano, este artefato tem uma chance de &81031_zbgl&% de emitir uma onda de choque (tempo de recarga: &81031_zblq&s) que causa &81031_zbsh& pontos de dano aos inimigos ao alcance."
+ },
+ "s_81031_zblq": {
+  "en": "Shockwave's cooldown &81031_zblq+1&s",
+  "ch": "此法宝震波的产生时间间隔&81031_zblq+1&秒。",
+  "pt": "O tempo de recarga do Shockwave &81031_zblq+1&s"
+ },
+ "s_81031_zbsh": {
+  "en": "Shockwave's damage +&81031_zbsh+1&",
+  "ch": "震波的伤害威力提升&81031_zbsh+1&。",
+  "pt": "O dano do Shockwave +&81031_zbsh+1&"
+ },
+ "s_81041_cmkg": {
+  "en": "Enemies affected by this artifact can't cast Motion Skills.",
+  "ch": "携带此法宝影响效果的敌人不能使用身法。",
+  "pt": "Inimigos afetados por este artefato não podem usar Técnicas de Movimento."
+ },
+ "s_81041_jlkg": {
+  "en": "For every &81041_ydjl& movement distance, the targets within the area of this artifact will receive &81041_ydsh& damage.",
+  "ch": "此法宝范围内的敌人每移动&81041_ydjl&距离，将受到一次威力&81041_ydsh&的伤害。",
+  "pt": "A cada &81041_ydjl& de distância percorrida, os alvos dentro da área deste artefato receberão &81041_ydsh& de dano."
+ },
+ "s_81041_jscs": {
+  "en": "Max stacks of this artifact's damage reduction effect &81041_jscs+1&",
+  "ch": "此法宝降低伤害效果的最多叠加层数提升&81041_jscs+1&层。",
+  "pt": "Número máximo de acúmulos do efeito de redução de dano deste artefato &81041_jscs+1&"
+ },
+ "s_81041_jsfw": {
+  "en": "This artifact's area of effect +&81041_jsfw+1&",
+  "ch": "此法宝的作用范围提升&81041_jsfw+1&。",
+  "pt": "A área de efeito deste artefato é +&81041_jsfw+1&"
+ },
+ "s_81041_jsjg": {
+  "en": "This artifact's effect cooldown &81041_jsjg+1&s.",
+  "ch": "此法宝产生影响效果的时间间隔&81041_jsjg+1&秒。",
+  "pt": "O tempo de recarga do efeito deste artefato é &81041_jsjg+1&s."
+ },
+ "s_81041_jssj": {
+  "en": "Duration of this artifact's damage reduction effect +&81041_jssj+1&s",
+  "ch": "此法宝降低伤害的持续时间提升&81041_jssj+1&秒。",
+  "pt": "Duração do efeito de redução de dano deste artefato: +&81041_jssj+1&s"
+ },
+ "s_81041_mjkg": {
+  "en": "Every time an enemy affected by this artifact receives damage, the subsequent attack of the artifact's user deals &81041_mjsh&% more damage to this enemy. This effect lasts &81041_mjsj&s and stacks up to &81041_mjcs& times.",
+  "ch": "携带此法宝影响效果的敌人每次受到伤害时，此法宝使用者下一次对其造成的伤害提升&81041_mjsh&%，持续&81041_mjsj&秒，最多可叠加&81041_mjcs&层。",
+  "pt": "Toda vez que um inimigo afetado por esse artefato recebe dano, o próximo ataque do usuário do artefato causa &81041_mjsh&% mais dano a esse inimigo. Esse efeito dura &81041_mjsj& segundos e pode ser acumulado até &81041_mjcs& vezes."
+ },
+ "s_81041_xysj": {
+  "en": "Every time an effect of this artifact stacks, the affected enemy will be stunned for &81041_xysj+1&s.",
+  "ch": "此法宝影响效果叠加时，敌人将晕眩&81041_xysj+1&秒。",
+  "pt": "Toda vez que o efeito deste artefato se acumula, o inimigo afetado ficará atordoado por &81041_xysj+1& segundos."
+ },
+ "s_81041_yskg": {
+  "en": "Agility of enemies within the area of this artifact &81041_ysjs&%",
+  "ch": "此法宝范围内的敌人移动速度&81041_ysjs&%。",
+  "pt": "Agilidade dos inimigos na área deste artefato &81041_ysjs&%"
+ },
+ "s_81041_zjfw": {
+  "en": "Every time this artifact inflicts an effect, its area of effect increases by &81041_zjfw+1&.",
+  "ch": "此法宝每次产生影响效果时，作用范围提升&81041_zjfw+1&。",
+  "pt": "Toda vez que esse artefato causa um efeito, sua área de efeito aumenta em &81041_zjfw+1&."
+ },
+ "s_81051_bzkg": {
+  "en": "When this artifact is broken or disappears, it'll release all the Energy it absorbed, dealing the same amount of damage as the Energy absorbed to enemies within range.",
+  "ch": "此法宝破损或消失时，会将吸收的灵力能量全部轰出，对范围内的敌人造成威力等同吸收灵力数值的伤害。",
+  "pt": "Quando este artefato se quebrar ou desaparecer, ele liberará toda a Energia que absorveu, causando um dano equivalente a essa quantidade de Energia aos inimigos dentro do alcance."
+ },
+ "s_81051_fwcs": {
+  "en": "The max Energy this artifact can absorb increases by &81051_fwcs+1&.",
+  "ch": "此法宝可吸收灵力的上限提升&81051_fwcs+1&。",
+  "pt": "A Energia Máx. que esse artefato consegue absorver aumenta em &81051_fwcs+1&."
+ },
+ "s_81051_hdkg": {
+  "en": "Every time this artifact absorbs your Energy, you'll receive a shield with &81051_tjhd& Vitality.",
+  "ch": "此法宝每次吸收自身的灵力时，可为自身叠加&81051_tjhd&点的护盾",
+  "pt": "Toda vez que esse artefato absorver sua Energia, você receberá um escudo com &81051_tjhd& Vitalidade."
+ },
+ "s_81051_hqxy": {
+  "en": "Each fire ball stuns the target for &81051_hqxy+1&s upon dealing damage.",
+  "ch": "此法宝火球造成伤害时，使敌人晕眩&81051_hqxy+1&秒。",
+  "pt": "Cada esfera de fogo atordoa o alvo por &81051_hqxy+1& segundos ao causar dano."
+ },
+ "s_81051_htfw": {
+  "en": "Fire ball's area of damage +&81051_htfw+1&",
+  "ch": "此法宝火球的伤害范围提升&81051_htfw+1&",
+  "pt": "Área de dano da esfera de Fogo +&81051_htfw+1&"
+ },
+ "s_81051_htkg": {
+  "en": "Every &81051_htjg&s, this artifact drops a fire ball to attack 1 random enemy within &81051_htsc&. The fire ball explodes upon hitting the target, dealing &81051_htwl& $s_huo$ damage to enemies within &81051_htfw&.",
+  "ch": "此法宝每&81051_htjg&秒降下火球打击范围&81051_htsc&内的随机1个敌人位置，火球击中后爆炸，对范围&81051_htfw&内的敌人造成威力&81051_htwl&的$s_huo$伤害。",
+  "pt": "A cada &81051_htjg&, esse artefato lança uma esfera de fogo para atacar 1 inimigo aleatório dentro de &81051_htsc&. A esfera de fogo explode ao atingir o alvo, causando &81051_htwl& $s_huo$ de dano aos inimigos na área de &81051_htfw&."
+ },
+ "s_81051_hykg": {
+  "en": "For every &81051_shll& Energy this artifact absorbs, the damage of its flames will increase by &81051_zjsh&.",
+  "ch": "此法宝每吸收&81051_shll&点灵力，火焰伤害威力提升&81051_zjsh&。",
+  "pt": "Para cada &81051_shll& Unidades de Energia que esse artefato absorve, o dano das suas chamas aumentará em &81051_zjsh&."
+ },
+ "s_81051_jskg": {
+  "en": "Enemies who have their Energy absorbed by this artifact deal &81051_jssh&% damage for &81051_jssj&s.",
+  "ch": "被此法宝吸收灵力的敌人，其造成的伤害&81051_jssh&%，持续&81051_jssj&秒。",
+  "pt": "Inimigos cuja Energia é absorvida por esse artefato sofrem &81051_jssh&% de dano durante &81051_jssj& segundos."
+ },
+ "s_81051_xskg": {
+  "en": "Every time this artifact absorbs an enemy's Energy, it'll deal &81051_llsh& $s_huo$ damage to this enemy.",
+  "ch": "此法宝每次吸收敌人的灵力时，对其造成威力&81051_llsh&的$s_huo$伤害。",
+  "pt": "Toda vez que este artefato absorve a Energia de um inimigo, ele causará &81051_llsh& $s_huo$ de dano a esse inimigo."
+ },
+ "s_81061_bzkg": {
+  "en": "When you receive an effect from an orb, the orb will explode, dealing &81061_zzsh& damage to enemies within &81061_zzfw&.",
+  "ch": "当自身在获得宝珠效果时，宝珠会产生爆炸，对范围&81061_zzfw&内的敌人造成威力&81061_zzsh&的伤害。",
+  "pt": "Ao receber um efeito proveniente de um orbe, este explodirá, causando dano de &81061_zzsh& aos inimigos dentro de &81061_zzfw&."
+ },
+ "s_81061_bzsd": {
+  "en": "The orbs generated by this artifact fly &81061_bzsd& faster.",
+  "ch": "此法宝生成的宝珠飞行速度提升&81061_bzsd&。",
+  "pt": "Os orbes gerados por esse artefato voam &81061_bzsd& mais rápido."
+ },
+ "s_81061_ddsj": {
+  "en": "The orbs generated by this artifact fly &81061_ddsj+1& longer.",
+  "ch": "此法宝生成的宝珠飞行时间提升&81061_ddsj+1&秒。",
+  "pt": "Os orbes gerados por esse artefato voam &81061_ddsj+1& por mais tempo."
+ },
+ "s_81061_ewkg": {
+  "en": "This artifact has a &81061_ewgl&% chance to generate 2 orbs at a time.",
+  "ch": "此法宝有&81061_ewgl&%的概率同时生成2颗宝珠。",
+  "pt": "Esse artefato tem uma chance de &81061_ewgl&% de gerar 2 orbes de uma só vez."
+ },
+ "s_81061_jjkg": {
+  "en": "For the duration of this artifact, every time you cast a Special Skill, this artifact generates an orb.",
+  "ch": "在此法宝的持续时间内，自身使用绝技会立即生成一颗宝珠。",
+  "pt": "Enquanto este artefato estiver ativo, toda vez que você usar uma Técnica Especial, ele gerará um orbe."
+ },
+ "s_81061bsqz": {
+  "en": "This artifact has a chance to generate white orbs. White orb's effect: Agility +&81061_bsys&% for &81061_yssj&s.",
+  "ch": "此法宝有概率生成白色的宝珠，效果为自身的移动速度提升&81061_bsys&%，持续&81061_yssj&秒。",
+  "pt": "Este artefato tem chance de gerar orbes brancos. Efeito do orbe branco: Agilidade +&81061_bsys&% para &81061_yssj&s."
+ },
+ "s_81061hbqz": {
+  "en": "This artifact has a chance to generate black orbs. Black orb's effect: For the next &81061_sbsj&s, you'll dodge the first &81061_sbcs& incoming attacks.",
+  "ch": "此法宝有概率生成黑色的宝珠，效果为接下来的&81061_sbsj&秒内，闪避前&81061_sbcs&次受到的伤害。",
+  "pt": "Esse artefato tem chance de gerar orbes negros. Efeito do orbe negro: Pelos próximos &81061_sbsj&s, você irá esquiva os primeiros &81061_sbcs& ataques recebidos."
+ },
+ "s_81061hsqz": {
+  "en": "For the duration of this artifact, this artifact has a chance to generate yellow orbs. Yellow orb's effect: Cooldown of Ultimate Skills &81061_hsst&s.",
+  "ch": "在此法宝的持续时间内，有概率生成黄色的宝珠，效果为神通的冷却时间&81061_hsst&秒。",
+  "pt": "Durante o período de ativação deste artefato, ele tem chance de gerar orbes amarelos. Efeito do orbe amarelo: Reduz o tempo de recarga das Técnicas Supremas &81061_hsst&s."
+ },
+ "s_81061lsqz": {
+  "en": "For the duration of this artifact, when your Vitality is below 50%, this artifact has a chance to generate green orbs. Green orb's effect: Recover &81061_lsti&% of Max Vitality.",
+  "ch": "在此法宝的持续时间内，体力低于50%时，有概率生成绿色的宝珠，效果为回复最大体力的&81061_lsti&%。",
+  "pt": "Durante o período de ativação deste artefato, quando sua Vitalidade estiver abaixo de 50%, ele tem a chance de gerar orbes verdes. O efeito do orbe verde: Recuperar &81061_lsti&% da Vitalidade Máx."
+ },
+ "s_81061lzqz": {
+  "en": "For the duration of this artifact, when your Energy is below 50%, this artifact has a chance to generate blue orbs. Blue orb's effect: Recover&81061_lsll&% of Max Energy.",
+  "ch": "在此法宝的持续时间内，灵力低于50%时，有概率生成蓝色的宝珠，效果为回复最大灵力的&81061_lsll&%。",
+  "pt": "Durante o período de ativação deste artefato, quando sua Energia estiver abaixo de 50%, ele tem chance de gerar orbes azuis. O efeito do orbe azul é: Recuperar&81061_lsll&% da Energia Máx."
+ },
+ "s_81071_bjkg": {
+  "en": "Allies protected by Stormward are guaranteed to land a critical strike the next time they deal damage.",
+  "ch": "携带守护风暴效果的友方单位，其下次造成的伤害必定暴击。",
+  "pt": "Os aliados protegidos por Stormward têm a garantia de realizar um ataque crítico na próxima vez que causarem dano."
+ },
+ "s_81071_bzkg": {
+  "en": "Stormward deals &81071_zcsh& $s_feng$ damage to enemies within &81071_shfw&.",
+  "ch": "守护风暴会对范围&81071_shfw&内的敌人造成威力&81071_zcsh&的$s_feng$伤害。",
+  "pt": "Stormward causa &81071_zcsh& $s_feng$ de dano aos inimigos dentro de &81071_shfw&."
+ },
+ "s_81071_fbfw": {
+  "en": "This artifact's area of effect +&81071_fbfw+1&",
+  "ch": "此法宝的作用范围提升&81071_fbfw+1&。",
+  "pt": "A área de efeito deste artefato é +&81071_fbfw+1&"
+ },
+ "s_81071_fbjg": {
+  "en": "Time interval between 2 Stormwards &81071_fbjg+1&s",
+  "ch": "守护风暴的产生时间间隔&81071_fbjg+1&秒。",
+  "pt": "Intervalo de tempo entre 2 Stormwards &81071_fbjg+1&s"
+ },
+ "s_81071_fbtl": {
+  "en": "Stormward recovers &81071_fbtl+1& more Vitality.",
+  "ch": "守护风暴回复的体力提升&81071_fbtl+1&点。",
+  "pt": "Stormward recupera &81071_fbtl+1& de Vitalidade adicional."
+ },
+ "s_81071_fysj": {
+  "en": "Stormward increases DEF for &81071_fysj+1& more sec.",
+  "ch": "守护风暴提升防御的持续时间提升&81071_fysj+1&秒。",
+  "pt": "Stormward aumenta a DEF de &81071_fysj+1& por mais alguns segundos."
+ },
+ "s_81071_hxkg": {
+  "en": "Crit RES of allies protected by Stormward +&81071_ysts&%",
+  "ch": "携带守护风暴效果的友方单位，可提升护心&81071_tshx&点。",
+  "pt": "RES Crítico de aliados protegidos por Stormward +&81071_ysts&%"
+ },
+ "s_81071_jskg": {
+  "en": "Agility of enemies damaged by Stormward &81071_ysjs&% for &81071_jssj&s.",
+  "ch": "受到守护风暴伤害的敌人移动速度&81071_ysjs&%，持续&81071_jssj&秒。",
+  "pt": "Agilidade dos inimigos danificados pela Tempestadeguarda &81071_ysjs&% por &81071_jssj& segundos."
+ },
+ "s_81071_sbkg": {
+  "en": "Allies protected by Stormward will dodge the next incoming attack.",
+  "ch": "受到守护风暴的友方单位，闪避下次受到的伤害。",
+  "pt": "Os aliados protegidos por Stormward irão esquivar o próximo ataque que vier."
+ },
+ "s_81071_yskg": {
+  "en": "Agility of allies protected by Stormward +&81071_ysts&% for &81071_yskg+1&s.",
+  "ch": "携带守护风暴效果的使友方单位，其移动速度提升&81071_ysts&%，持续&81071_yskg+1&秒。",
+  "pt": "Agilidade dos aliados protegidos por Stormward +&81071_ysts&% por &81071_yskg+1&s."
+ },
+ "s_81081_ddsd%1": {
+  "en": "Attack area and flying speed of spirit swords are increased.",
+  "ch": "提升灵剑的攻击范围与飞行速度",
+  "pt": "A área de ataque e a velocidade de deslocamento das espadas de espírito são aumentadas."
+ },
+ "s_81081_ddsd%2": {
+  "en": "Attack area and flying speed of spirit swords are increased.",
+  "ch": "提升灵剑的攻击范围与飞行速度",
+  "pt": "A área de ataque e a velocidade de deslocamento das Espadas do Espírito são aumentadas."
+ },
+ "s_81081_fjsl%1": {
+  "en": "Each spirit sword deals &81081_fjwl+1& more damage.",
+  "ch": "每一把灵剑额外造成威力&81081_fjwl+1&的伤害",
+  "pt": "Cada espada de espírito causa &81081_fjwl+1& de dano a mais."
+ },
+ "s_81081_fjsl%2": {
+  "en": "&81081_fjsl%1+1& more spirits swords are generated.",
+  "ch": "使灵剑的数量增加&81081_fjsl%1+1&道。",
+  "pt": "&81081_fjsl%1+1& Mais espíritos e espadas são gerados."
+ },
+ "s_81081_fjwl": {
+  "en": "&81081_fjsl%2+1& more spirits swords are generated.",
+  "ch": "使灵剑的数量增加&81081_fjsl%2+1&道。",
+  "pt": "&81081_fjsl%2+1& Mais espíritos e espadas são gerados."
+ },
+ "s_81081_jskg": {
+  "en": "Agility of enemies hit by a spirit sword &81081_mzjs&%",
+  "ch": "被灵剑命中的敌人，移动速度&81081_mzjs&%。",
+  "pt": "Agilidade dos inimigos atingidos por uma espada do espírito &81081_mzjs&%"
+ },
+ "s_81081_mzjs": {
+  "en": "Each spirit sword's Agility reduction &81081_mzjs+1&",
+  "ch": "被灵剑命中的敌人被降低移动速度时，额外&81081_mzjs+1&移动速度。",
+  "pt": "A redução de Agilidade de cada Espada do Espírito &81081_mzjs+1&"
+ },
+ "s_81081_sstl": {
+  "en": "Enemies hit by a spirit sword will lose &81081_sstl+1& more Vitality every &81081_ssjg&s.",
+  "ch": "被灵剑命中的敌人在损失体力时，每&81081_ssjg&秒额外损失&81081_sstl+1&体力。",
+  "pt": "Inimigos atingidos por uma espada de espírito perderão &81081_sstl+1& de Vitalidade a cada &81081_ssjg& segundos."
+ },
+ "s_81081_tlkg": {
+  "en": "Enemies hit by a spirit sword will lose &81081_sstl& Vitality every &81081_ssjg&s.",
+  "ch": "被灵剑命中的敌人，每&81081_ssjg&秒损失&81081_sstl&点体力。",
+  "pt": "Inimigos atingidos por uma espada do espírito perderão &81081_sstl& Vitalidade a cada &81081_ssjg& segundos."
+ },
+ "s_81091111_xbjg": {
+  "en": "Blood explosion interval &81091111_xbjg+1&s.",
+  "ch": "引发血爆的间隔时间&81091111_xbjg+1&秒。",
+  "pt": "Intervalo de explosão de Sangue &81091111_xbjg+1&s."
+ },
+ "s_81091123_xkbz": {
+  "en": "When a blood puppet explodes, summoned units within &81091125_yxfw& gain &81091126_tsgjl&% ATK increase, up to &81091126_djcs& stacks, lasting for &81091126_cxsh&s.",
+  "ch": "血傀儡爆炸时，范围&81091125_yxfw&内召唤物提升&81091126_tsgjl&%攻击力，最多叠加&81091126_djcs&层，持续&81091126_cxsh&秒。",
+  "pt": "Quando uma marionete de sangue explode, unidades invocadas dentro de &81091125_yxfw& recebem um aumento de &81091126_tsgjl&% na ATQ, podendo acumular até &81091126_djcs& vezes esse efeito, com duração de &81091126_cxsh& segundos."
+ },
+ "s_8109112_xkkg": {
+  "en": "Whenever a unit dies within the area, summons a blood puppet on site, which triggers blood explosion upon contact with enemy or upon death, dealing 100 damage to all enemies within the area.",
+  "ch": "范围内每有一个单位死亡时，在原地生成一个血傀儡，血傀儡会在靠近敌人或死亡时引发大范围的血爆，对范围内的所有敌人造成威力100的伤害",
+  "pt": "Sempre que uma unidade morre na área, um boneco de sangue é invocado no local. Esse boneco provoca uma explosão de sangue ao entrar em contato com inimigos ou ao morrer, causando 100 pontos de dano a todos os inimigos na região."
+ },
+ "s_8109113_cxzh": {
+  "en": "Summons a blood puppet every &8109117_jgsj&s.",
+  "ch": "每&8109117_jgsj&秒召唤一只血傀儡。",
+  "pt": "Invoca um fantoche de sangue a cada &8109117_jgsj&s."
+ },
+ "s_810911_ghdx": {
+  "en": "Area of effect increased by &810911_ghdx+1&.",
+  "ch": "影响范围提升&810911_ghdx+1&。",
+  "pt": "A área de efeito foi aumentada em &810911_ghdx+1&."
+ },
+ "s_81091_xbjskg%1": {
+  "en": "Agility &81091_xbjsbl&% for enemies affected by Qi blast. Stackable at max &81091_xbjscs& times for &81091_xbjssj&s.",
+  "ch": "受到气爆影响的敌人移动速度&81091_xbjsbl&%，最多叠加&81091_xbjscs&层，持续&81091_xbjssj&秒。",
+  "pt": "Agilidade &81091_xbjsbl&% para inimigos afetados pela explosão de Qi. Pode ser acumulado até &81091_xbjscs& vezes, resultando em &81091_xbjssj&s no total."
+ },
+ "s_81091_xbwl%1": {
+  "en": "Damage from Qi blast increases by &81091_xbwl%1+1&.",
+  "ch": "气爆的威力提升&81091_xbwl%1+1&。",
+  "pt": "O Dano causado pela explosão de Qi aumenta em &81091_xbwl%1+1&."
+ },
+ "s_81091_xbzskg%1": {
+  "en": "Enemies affected by Qi blast will take &81091_xbzsbl&% additional damage. Stackable at max &81091_xbzscs& times for &81091_xbzssj&s.",
+  "ch": "受到气爆影响的敌人受到的伤害提升&81091_xbzsbl&%，最多叠加&81091_xbzscs&层，持续&81091_xbzssj&秒。",
+  "pt": "Inimigos afetados pela explosão de Qi receberão &81091_xbzsbl&% de dano adicional. O efeito é acumulável, podendo atingir no máximo &81091_xbzscs& vezes, por um período de &81091_xbzssj& segundos."
+ },
+ "s_81091_xkzbzskg%1": {
+  "en": "Upon the annihilation of {#battle_unit_name291}, allied Summoned Units within the range will gain an additional &81091_xkzbzsbl&% damage bonus. Stackable at max &81091_xkzbzscs& times for &81091_xkzbzssj&s.",
+  "ch": "{#battle_unit_name291}泯灭时，泯灭范围内的友方召唤单位伤害提升&81091_xkzbzsbl&%，最多叠加&81091_xkzbzscs&层，持续&81091_xkzbzssj&秒。",
+  "pt": "Após a aniquilação de {#battle_unit_name291}, as Unidades Invocadas aliadas dentro do alcance receberão um bônus de dano adicional de &81091_xkzbzsbl&%. Esse efeito pode ser acumulado até &81091_xkzbzscs& vezes, por um período de &81091_xkzbzssj& segundos."
+ },
+ "s_81091_zhxkkg%1": {
+  "en": "The Artifact will generate 1 {#battle_unit_name291} every &81091_zhxkjg&s.",
+  "ch": "法宝每&81091_zhxkjg&秒生成一道{#battle_unit_name291}。",
+  "pt": "O Artefato gerará 1 {#battle_unit_name291} a cada &81091_zhxkjg& segundos."
+ },
+ "s_81091_zxgfw%1": {
+  "en": "The Area of Effect of the Artifact increases by &81091_zxgfw%1+1&.",
+  "ch": "法宝的影响范围提升&81091_zxgfw%1+1&。",
+  "pt": "A área de efeito do Artefato aumenta em &81091_zxgfw%1+1&."
+ },
+ "s_81091_zxgjg%1": {
+  "en": "Trigger interval of Qi blasts &81091_zxgjg%1+1&s.",
+  "ch": "气爆触发间隔时间&81091_zxgjg%1+1&秒。",
+  "pt": "Intervalo de disparo das explosões de Qi &81091_zxgjg%1+1&s."
+ },
+ "s_81091_zxgjg%2": {
+  "en": "Trigger interval of Qi blasts &81091_zxgjg%2+1&s.",
+  "ch": "气爆触发间隔时间&81091_zxgjg%2+1&秒。",
+  "pt": "Intervalo de acionamento das explosões de Qi: &81091_zxgjg%2+1&s."
+ },
+ "s_810921_tssh": {
+  "en": "When blood explosion deals damage to the enemy, it causes the enemy to take increased &810921_shbl&% damage, max stack &810921_zdcs&. Lasts &810921_tssh+1&s.",
+  "ch": "血爆对敌人造成伤害时，使敌人受到的伤害提升&810921_shbl&%，最多叠加&810921_zdcs&层，持续&810921_tssh+1&秒。",
+  "pt": "Quando a explosão de sangue causa dano ao inimigo, ela faz com que este sofra um aumento de &810921_shbl&% no dano recebido, até um máximo de &810921_zdcs& acúmulos. O efeito dura &810921_tssh+1& segundos."
+ },
+ "s_8109221_xbsh": {
+  "en": "After an enemy takes blood explosion damage &81092_ddsl& times, deals &81093_scxb& damage per sec to that enemy within the next &8109221_xbsh+1&, and each damage done restores &81093_hftl& for the summoner.",
+  "ch": "单个敌人在累计受到了&81092_ddsl&次血爆的伤害后，在接下来的&8109221_xbsh+1&内每秒对该敌人造成&81093_scxb&的伤害，每造成一次伤害会使召唤主回复&81093_hftl&。",
+  "pt": "Após um inimigo sofrer dano por explosão de sangue &81092_ddsl& vezes, ele receberá &81093_scxb& pontos de dano por segundo contra esse inimigo durante os próximos &8109221_xbsh+1&. Cada ponto de dano causado também restaura &81093_hftl& de vida para o invocador."
+ },
+ "s_81092311_jssj": {
+  "en": "When blood explosion deals damage to the enemy, its Agility &810923_jscd&% for &81092311_jssj+1&s.",
+  "ch": "血爆对敌人造成伤害时，使敌人移速&810923_jscd&%，持续&81092311_jssj+1&秒。",
+  "pt": "Quando a explosão de sangue causa dano ao inimigo, sua Agilidade &810923_jscd&% por &81092311_jssj+1&s."
+ },
+ "s_81092_xbsh": {
+  "en": "Blood explosion damage increased by &81092_xbsh+1&.",
+  "ch": "提升血爆的威力&81092_xbsh+1&。",
+  "pt": "O dano causado pela explosão de Sangue aumentou em &81092_xbsh+1&."
+ },
+ "s_8110011_yzwl": {
+  "en": "Tune playing damage increased by &8110011_yzwl+1&.",
+  "ch": "演奏的伤害威力增加&8110011_yzwl+1&。",
+  "pt": "O dano causado ao tocar melodias aumentou em &8110011_yzwl+1&."
+ },
+ "s_811012_ybgl": {
+  "en": "While playing the tune, there is a &811012_ybgl+1&% chance to trigger Star Blast variation every second, launching a concentrated attack of &8110121_ybsl& sound wave at the target position, dealing &8110121_ybwl& damage.",
+  "ch": "演奏期间，每秒有&811012_ybgl+1&%变奏“星流瀑”，对目标位置发射&8110121_ybsl&音波的密集攻击，造成的&8110121_ybwl&伤害。",
+  "pt": "Ao tocar a melodia, há uma chance de &811012_ybgl+1&% de ativar a variação Explosão Estelar a cada segundo, lançando um ataque concentrado de &8110121_ybsl& ondas sonoras na posição alvo, causando &8110121_ybwl& pontos de dano."
+ },
+ "s_811013_dsgl": {
+  "en": "While playing the tune, there is a &811013_dsgl+1&% chance to trigger Deep Sorrow variation every second, launching a tracking sound wave that tracks the nearest target, dealing &8110131_shwl& damage, disabling Motion Skill, and immobilizing the target for &8110131_dssj&s.",
+  "ch": "演奏期间，每秒有&811013_dsgl+1&%变奏“断肠曲”，发射一个追踪音波追踪最近的目标，造成&8110131_shwl&的伤害并封禁身法和定身&8110131_dssj&秒。",
+  "pt": "Ao tocar a melodia, há uma chance de &811013_dsgl+1&% de ativar a variação Luto Profundo a cada segundo, emitindo uma onda sonora perseguidora que localiza o alvo mais próximo, causando &8110131_shwl& de dano, desativando a Técnica de Movimento e imobilizando o alvo por &8110131_dssj& segundos."
+ },
+ "s_811014_zlgl": {
+  "en": "While playing the tune, there is a &811014_zlgl+1&% chance to trigger Spring Bud variation every second, restoring &8110141_hftl& for all allies in the battlefield per sec for &8110141_cxsj&s.",
+  "ch": "演奏期间，每秒有&811014_zlgl+1&%变奏“春芽动”，每秒治疗全场所有己方单位&8110141_hftl&，持续&8110141_cxsj&秒。",
+  "pt": "Ao tocar a melodia, há uma chance de &811014_zlgl+1&% de acionar a variação \"Broto da Primavera\" a cada segundo, restaurando &8110141_hftl& para todos os aliados no campo de batalha por segundo, durante &8110141_cxsj& segundos."
+ },
+ "s_811015_zsgl": {
+  "en": "While playing the tune, there is a &811015_zsgl+1&% chance to trigger Justice Doer variation every second, increasing the damage done by the Artifact holder by &8110151_tssh&% for &8110151_cxsj&s.",
+  "ch": "演奏期间，每秒有&811015_zsgl+1&%变奏“射天狼”，使法宝拥有者伤害提高&8110151_tssh&%，持续&8110151_cxsj&秒。",
+  "pt": "Ao tocar a melodia, há uma chance de &811015_zsgl+1&% de ativar a variação Justice Doer a cada segundo, aumentando o dano causado pelo portador do Artefato em &8110151_tssh&% durante &8110151_cxsj& segundos."
+ },
+ "s_811016_zcbz": {
+  "en": "After playing the tune, trigger a variation that has been triggered.",
+  "ch": "演奏结束时，会同时再次触发1次演奏期间触发过的变奏。",
+  "pt": "Depois de tocar a melodia, ative uma variação que já tenha sido ativada."
+ },
+ "s_811017_stbz": {
+  "en": "While playing the tune, casting Ultimate Skill always triggers &8110171_bzcs& variations.",
+  "ch": "演奏期间，释放神通会必然发动&8110171_bzcs&次变奏。",
+  "pt": "Ao tocar a melodia, usar a Técnica Suprema sempre desencadeia &8110171_bzcs& variações."
+ },
+ "s_8110181_bzhd": {
+  "en": "Whenever a variation is triggered, provides &8110181_hdsz& shield for the artifact user.",
+  "ch": "每次触发变奏时，会为法宝使用者提供&8110181_hdsz&护盾。",
+  "pt": "Sempre que uma variação é acionada, fornece um escudo &8110181_hdsz& para o usuário do artefato."
+ },
+ "s_811019_gjsj": {
+  "en": "When a variation deals damage to a unit, increases artifact user's ATK by &811019_tsgjl&% for &811019_gjsj+1&s.",
+  "ch": "当变奏对单位造成伤害时，提高法宝使用者攻击力&811019_tsgjl&%，持续&811019_gjsj+1&秒。",
+  "pt": "Quando uma variação causa dano a uma unidade, aumenta o ATQ do usuário do artefato em &811019_tsgjl&% por &811019_gjsj+1&s."
+ },
+ "s_811020_bzgl": {
+  "en": "Variation trigger probability increased by &811020_bzgl+1&%.",
+  "ch": "所有变奏的触发概率提高&811020_bzgl+1&%。",
+  "pt": "A probabilidade de disparo da variação aumentou em &811020_bzgl+1&%."
+ },
+ "s_8200101_hftl": {
+  "en": "If you've received &8200101_xqcs& stacks of effects from your Martial/Spiritual Skills, you'll restore &8200101_hftl& Vitality every second.",
+  "ch": "当武技/灵技为自身叠加的效果达到&8200101_xqcs&层时，每秒可恢复自身体力&8200101_hftl&点。",
+  "pt": "Se você tiver recebido &8200101_xqcs& acúmulos de efeitos provenientes de suas Técnicas Marciais ou Técnica Espiritual, irá recuperar &8200101_hftl& de Vitalidade a cada segundo."
+ },
+ "s_8200102_hftl": {
+  "en": "Every time you kill an <p>elite monster</p>, you'll restore &8200102_hftl& Vitality.",
+  "ch": "战斗中每击杀一个<p>精英单位</p>时，可恢复自身体力&8200102_hftl&点。",
+  "pt": "Toda vez que você mata um <p>monstro elite</p>, recupera &8200102_hftl& pontos de Vitalidade."
+ },
+ "s_8200103_tstl": {
+  "en": "Your Max Vitality will increase by &8200103_tstl& when you fight other Cultivators.",
+  "ch": "与修仙者战斗时，提升体力上限&8200103_tstl&点。",
+  "pt": "Sua Vitalidade Máx. aumentará em &8200103_tstl& ao lutar contra outros Cultivadores."
+ },
+ "s_8200104_hftl": {
+  "en": "When your Vitality is below &8200104_xqtl&%, you'll restore &8200104_hftl& Vitality every second.",
+  "ch": "战斗中自身的体力低于&8200104_xqtl&%时，每秒可恢复自身体力&8200104_hftl&点。",
+  "pt": "Quando sua Vitalidade estiver abaixo de &8200104_xqtl&%, você recuperará &8200104_hftl& de Vitalidade a cada segundo."
+ },
+ "s_8200105_hftl": {
+  "en": "For the duration of your Motion Skill, your Vitality is restored by &8200105_hftl& every second.",
+  "ch": "在使用身法的持续时间内，每秒可恢复自身体力&8200105_hftl&点。",
+  "pt": "Durante o período em que sua Técnica de Movimento estiver ativa, sua Vitalidade é restaurada em &8200105_hftl& a cada segundo."
+ },
+ "s_8200106_hftl": {
+  "en": "When you have $s_hudun$, you'll restore &8200106_hftl& Vitality every second.",
+  "ch": "当自身拥有$s_hudun$时，每秒可恢复自身体力&8200106_hftl&点。",
+  "pt": "Quando você tiver $s_hudun$, restaurará &8200106_hftl& Vitalidade a cada segundo."
+ },
+ "s_8200107_hftl": {
+  "en": "Every time your $s_zhangfeng$ kills an enemy, your Vitality will be restored by &8200107_hftl&.",
+  "ch": "每当自身打出的$s_zhangfeng$击杀一个敌人时，可恢复自身体力&8200107_hftl&点。",
+  "pt": "Toda vez que o seu $s_zhangfeng$ matar um inimigo, sua Vitalidade será restaurada em &8200107_hftl&."
+ },
+ "s_8200108_hftl": {
+  "en": "Every time you cause an enemy to lose &8200108_xqll& Energy, your Vitality will be restored by &8200108_hftl&.",
+  "ch": "自身每使敌人损失灵力&8200108_xqll&点时，可恢复自身体力&8200108_hftl&点。",
+  "pt": "Toda vez que você fizer com que um inimigo perca &8200108_xqll& Energia, sua Vitalidade será restaurada em &8200108_hftl&."
+ },
+ "s_8200109_hftl": {
+  "en": "When you're inside the area of a $s_lieyan$, you'll restore &8200109_hftl& Vitality every second.",
+  "ch": "当自身在$s_lieyan$中时，每秒可恢复自身体力&8200109_hftl&点。",
+  "pt": "Ao estar dentro da área de um $s_lieyan$, você recuperará &8200109_hftl& pontos de Vitalidade a cada segundo."
+ },
+ "s_8200110_hftl": {
+  "en": "Every time you kill an enemy inflicted with $s_dongjie$, you'll restore &8200110_hftl& Vitality.",
+  "ch": "每击杀一个被$s_dongjie$的敌人时，可恢复自身体力&8200110_hftl&点。",
+  "pt": "Toda vez que você matar um inimigo afetado por $s_dongjie$, recuperará &8200110_hftl& pontos de Vitalidade."
+ },
+ "s_8200111_hftl": {
+  "en": "Every time a $s_leiji$ triggered by you kills an enemy, your Vitality will be restored by &8200111_hftl&.",
+  "ch": "每当自身引发出的$s_leiji$击杀一个敌人时，可恢复自身体力&8200111_hftl&点。",
+  "pt": "Toda vez que um $s_leiji$ acionado por você matar um inimigo, sua Vitalidade será restaurada em &8200111_hftl&."
+ },
+ "s_8200112_hftl": {
+  "en": "Every time you generate a $s_xuanfeng$, you'll restore &8200112_hftl& Vitality.",
+  "ch": "每当自身生成一道$s_xuanfeng$时，可恢复自身体力&8200112_hftl&点。",
+  "pt": "Toda vez que você gerar um $s_xuanfeng$, recuperará &8200112_hftl& pontos de Vitalidade."
+ },
+ "s_8200113_hftl": {
+  "en": "Every time an ally dies, your Vitality will be restored by &8200113_hftl&.",
+  "ch": "每当一个己方单位死亡时，可恢复自身体力&8200113_hftl&点。",
+  "pt": "Toda vez que um aliado morre, sua Vitalidade é restaurada em &8200113_hftl&."
+ },
+ "s_8200114_hftl": {
+  "en": "For every ally (excluding yourself) on the battlefield, your Vitality will be restored by &8200114_hftl& every second.",
+  "ch": "场上每有一个己方单位（自身除外），每秒可恢复自身体力&8200114_hftl&点。",
+  "pt": "Para cada aliado (exceto você mesmo) no campo de batalha, sua Vitalidade será restaurada em &8200114_hftl& a cada segundo."
+ },
+ "s_8200115_hftl": {
+  "en": "For every <p>elite monster</p> on the battlefield, your Vitality will be restored by &8200115_hftl& every second.",
+  "ch": "场上每有一个敌方<p>精英单位</p>，每秒可恢复自身体力&8200115_hftl&点。",
+  "pt": "Para cada <p>monstro de elite</p> no campo de batalha, sua Vitalidade será restaurada em &8200115_hftl& a cada segundo."
+ },
+ "s_8200116_tstl": {
+  "en": "For every &8200116_xqzz& Martial Arts points, your Max Vitality will increase by &8200116_tstl&.",
+  "ch": "每有&8200116_xqzz&点功法资质可使体力上限提升&8200116_tstl&点。",
+  "pt": "A cada &8200116_xqzz& pontos em Artes Marciais, sua Vitalidade Máx. aumentará em &8200116_tstl&."
+ },
+ "s_8200117_tstl": {
+  "en": "Your Max Vitality increases by &8200117_tstl& every year.",
+  "ch": "每一岁年龄可提升体力上限&8200117_tstl&点。",
+  "pt": "Sua Vitalidade Máx aumenta em &8200117_tstl& a cada ano."
+ },
+ "s_8200118_tstl": {
+  "en": "When you're in the Late stage of your Realm, your Max Vitality will increase by &8200118_tstl&.",
+  "ch": "当自身处于当前境界的后期时，可提升体力上限&8200118_tstl&点。",
+  "pt": "Quando você estiver na fase Final do seu Reino, sua Vitalidade Máx. aumentará em &8200118_tstl&."
+ },
+ "s_8200119_tstl": {
+  "en": "When you fight a Cultivator of a higher Realm (including stage), your Max Vitality will increase by &8200119_tstl&.",
+  "ch": "与境界（包含期数）高于自身的修仙者战斗时，可提升体力上限&8200119_tstl&点。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Ao lutar contra um Cultivador de um Reino superior (incluindo estágio), sua Vitalidade Máx aumentará em &8200119_tstl&."
+ },
+ "s_8200120_tstl": {
+  "en": "For every &8200120_xqzz& Herb points, your Max Vitality will increase by &8200120_tstl&.",
+  "ch": "每有&8200120_xqzz&点药材资质可使体力上限提升&8200120_tstl&点。",
+  "pt": "A cada &8200120_xqzz& pontos de Erva, sua Vitalidade Máx. aumentará em &8200120_tstl&."
+ },
+ "s_8200121_tstl": {
+  "en": "When you have at least &8200121_xqls& Spirit Stones in your Inventory, your Max Vitality will increase by &8200121_tstl&.",
+  "ch": "当背包中拥有至少&8200121_xqls&灵石时，可提升体力上限&8200121_tstl&点。",
+  "pt": "Quando você tiver pelo menos &8200121_xqls& Pedras Espirituais no seu Inventário, a sua Vitalidade Máx. aumentará em &8200121_tstl&."
+ },
+ "s_8200122_tstl": {
+  "en": "Every time you kill a Cultivator, you'll increase your Max Vitality by &8200122_tstl&. (Current: {KillNpcEffect8200122}/&8200122_djcs&)",
+  "ch": "每杀死一个修仙者，可提升体力上限&8200122_tstl&点。（当前进度：{KillNpcEffect8200122}/&8200122_djcs&）",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Toda vez que você mata um Cultivador, sua Vitalidade Máx aumenta em &8200122_tstl&. (Atualmente: {KillNpcEffect8200122}/&8200122_djcs&)"
+ },
+ "s_8200123_tstl": {
+  "en": "When your Reputation reaches &8200123_xqsw&, your Max Vitality will increase by &8200123_tstl&.",
+  "ch": "当自身的声望达到&8200123_xqsw&时，可提升体力上限&8200123_tstl&点。",
+  "pt": "Quando sua Reputação atingir &8200123_xqsw&, sua Vitalidade Máx. aumentará em &8200123_tstl&."
+ },
+ "s_8200124_tstl": {
+  "en": "For every Mind Skill you equip, your Max Vitality will increase by &8200124_tstl&.",
+  "ch": "自身每装备了一个心法，可提升体力上限&8200124_tstl&点。",
+  "pt": "Para cada Técnica Mental que você equipar, sua Vitalidade Máx aumentará em &8200124_tstl&."
+ },
+ "s_8300101_jdsh": {
+  "en": "Your damage taken from <g>normal monsters</g> &8300101_jdsh&%",
+  "ch": "自身受到<g>普通单位</g>的伤害&8300101_jdsh&%。",
+  "pt": "O dano que você recebe de <g>monstros comuns</g> &8300101_jdsh&%"
+ },
+ "s_8300102_jdsh": {
+  "en": "Your damage taken from <p>elite monsters</p> &8300102_jdsh&%",
+  "ch": "自身受到<p>精英单位</p>的伤害&8300102_jdsh&%。",
+  "pt": "O dano que você recebe de <p>monstros de elite</p> &8300102_jdsh&%"
+ },
+ "s_8300103_jdsh": {
+  "en": "Your damage taken from <b>Cultivators</b> &8300103_jdsh&%",
+  "ch": "自身受到<b>修仙者</b>的伤害&8300103_jdsh&%。",
+  "pt": "O dano que você recebe de <b>Cultivadores</b> &8300103_jdsh&%"
+ },
+ "s_8300104_jdsh": {
+  "en": "Your damage taken from enemies within &8300104_xqjl& &8300104_jdsh&%",
+  "ch": "自身受到距离小于&8300104_xqjl&的敌人的伤害&8300104_jdsh&%。",
+  "pt": "O dano que você recebe de inimigos dentro de &8300104_xqjl& &8300104_jdsh&%"
+ },
+ "s_8300105_jdsh": {
+  "en": "Every time you receive damage, there's a &8300105_cfgl&% chance to reduce this damage (&8300105_jdsh&).",
+  "ch": "自身受到伤害时，有&8300105_cfgl&%的概率使该伤害&8300105_jdsh&点。",
+  "pt": "Toda vez que você recebe dano, há uma chance de &8300105_cfgl&% de reduzir esse dano (&8300105_jdsh&)."
+ },
+ "s_8300106_jdsh": {
+  "en": "Your damage taken from slowed enemies &8300106_jdsh&%",
+  "ch": "自身受到被减速的敌人的伤害&8300106_jdsh&%。",
+  "pt": "O dano que você recebe de inimigos desacelerados &8300106_jdsh&%"
+ },
+ "s_8300107_jdsh": {
+  "en": "When you have $s_hudun$, your damage taken &8300107_jdsh&%.",
+  "ch": "当自身拥有$s_hudun$时，受到的伤害&8300107_jdsh&%。",
+  "pt": "Quando você tiver $s_hudun$, o dano que recebe será &8300107_jdsh&%."
+ },
+ "s_8300108_jdsh": {
+  "en": "When there are &8300108_drsl& enemies, your damage taken &8300108_jdsh&%.",
+  "ch": "当场上的敌人数量达到&8300108_drsl&个时，自身受到的伤害&8300108_jdsh&%。",
+  "pt": "Quando há &8300108_drsl& inimigos, o dano que você recebe aumenta em &8300108_jdsh&%."
+ },
+ "s_8300109_jdsh": {
+  "en": "Your damage taken from enemies with less than &8300109_xqll&% Energy &8300109_jdsh&%",
+  "ch": "自身受到灵力低于&8300109_xqll&%的敌人的伤害&8300109_jdsh&%。",
+  "pt": "O dano que você recebe de inimigos com menos de &8300109_xqll&% de Energia &8300109_jdsh&%"
+ },
+ "s_8300110_jdsh": {
+  "en": "When you're inside the area of a $s_lieyan$, your damage taken &8300110_jdsh&%.",
+  "ch": "当自身在$s_lieyan$中时，受到的伤害&8300110_jdsh&%。",
+  "pt": "Quando você está dentro da área de um $s_lieyan$, o dano que recebe &8300110_jdsh&%."
+ },
+ "s_8300111_jdsh": {
+  "en": "When you're inside the area of a $s_baolinghu$, your damage taken &8300111_jdsh&%.",
+  "ch": "当自身在$s_baolinghu$范围内时，受到的伤害&8300111_jdsh&%。",
+  "pt": "Quando você está dentro da área de um $s_baolinghu$, o dano que recebe &8300111_jdsh&%."
+ },
+ "s_8300112_jdsh": {
+  "en": "Your damage taken from enemies that are more than &8300112_xqjl& away &8300112_jdsh&%",
+  "ch": "自身受到距离大于&8300112_xqjl&的敌人的伤害&8300112_jdsh&%。",
+  "pt": "O dano que você recebe de inimigos localizados a mais de &8300112_xqjl& de distância é reduzido em &8300112_jdsh&%"
+ },
+ "s_8300113_djcs": {
+  "en": "For every ally on the battlefield, your damage taken &8300113_jdsh&% (up to &8300113_jdsh|x8300113_djcs|f2&%).",
+  "ch": "场上每有一个己方单位时，自身受到的伤害&8300113_jdsh&%，最多可&8300113_jdsh|x8300113_djcs|f2&%。",
+  "pt": "Para cada aliado no campo de batalha, o dano que você recebe é reduzido em &8300113_jdsh&% (até &8300113_jdsh|x8300113_djcs|f2&%)."
+ },
+ "s_8300114_jdsh": {
+  "en": "When there are more allies than enemies, your damage taken &8300114_jdsh&%.",
+  "ch": "当场上己方单位的数量大于敌人单位的数量时，自身受到的伤害&8300114_jdsh&%。",
+  "pt": "Quando há mais aliados do que inimigos, o dano que você recebe &8300114_jdsh&%."
+ },
+ "s_8300115_jdsh": {
+  "en": "For every &8300115_shcs& times you receive damage, your damage taken &8300115_jdsh&% (up to &8300115_jdsh|x8300115_djcs|f2&%).",
+  "ch": "自身每受到&8300115_shcs&次伤害时，可使自身受到的伤害&8300115_jdsh&%，最多可&8300115_jdsh|x8300115_djcs|f2&%。",
+  "pt": "A cada &8300115_shcs& vezes que você receber dano, o dano que você sofre será reduzido em &8300115_jdsh&% (até &8300115_jdsh|x8300115_djcs|f2&%)."
+ },
+ "s_8300116_jdsh": {
+  "en": "When your Vitality is below &8300116_xqtl&%, your damage taken &8300116_jdsh&%.",
+  "ch": "当自身的体力低于&8300116_xqtl&%时，受到的伤害&8300116_jdsh&%。",
+  "pt": "Quando a sua Vitalidade estiver abaixo de &8300116_xqtl&%, o dano recebido aumenta em &8300116_jdsh&%."
+ },
+ "s_8300117_tsfy": {
+  "en": "For every &8300117_xqzz& Feng Shui points, your DEF will increase by &8300117_tsfy&.",
+  "ch": "每有&8300117_xqzz&点风水资质可使防御提升&8300117_tsfy&点。",
+  "pt": "Para cada &8300117_xqzz& pontos de Feng Shui, o seu DEF aumentará em &8300117_tsfy&."
+ },
+ "s_8300118_tsfy": {
+  "en": "For every &8300118_xqzz& $s_zhandouzizhi$ points, your DEF will increase by &8300118_tsfy&.",
+  "ch": "每有&8300118_xqzz&点$s_zhandouzizhi$可使防御提升&8300118_tsfy&点。",
+  "pt": "A cada &8300118_xqzz& $s_zhandouzizhi$ pontos, o seu DEF aumentará em &8300118_tsfy&."
+ },
+ "s_8300119_tsfy": {
+  "en": "For every &8300119_xqjl& Travel Speed points, your DEF will increase by &8300119_tsfy&.",
+  "ch": "每有&8300119_xqjl&点脚力可使防御提升&8300119_tsfy&点。",
+  "pt": "A cada &8300119_xqjl& pontos de Velocidade de Viagem, sua DEF aumentará em &8300119_tsfy&."
+ },
+ "s_8300120_tsfy": {
+  "en": "For every &8300120_xqll& Max Energy points, your DEF will increase by &8300120_tsfy&.",
+  "ch": "每有&8300120_xqll&点灵力上限可使防御提升&8300120_tsfy&点。",
+  "pt": "A cada &8300120_xqll& pontos de Energia Máx., a sua DEF aumentará em &8300120_tsfy&."
+ },
+ "s_8300121_tsfy": {
+  "en": "For every &8300121_xqnl& Max Focus points, your DEF will increase by &8300121_tsfy&.",
+  "ch": "每有&8300121_xqnl&点念力上限可使防御提升&8300121_tsfy&点。",
+  "pt": "A cada &8300121_xqnl& pontos de Foco Máx., sua DEF aumentará em &8300121_tsfy&."
+ },
+ "s_8300122_tsfy": {
+  "en": "When your Max Vitality reaches &8300122_xqtl&, your DEF will increase by &8300122_tsfy&.",
+  "ch": "当自身的体力上限达到&8300122_xqtl&时，可提升防御&8300122_tsfy&点。",
+  "pt": "Quando sua Vitalidade Máx. atingir &8300122_xqtl&, o seu DEF aumentará em &8300122_tsfy&."
+ },
+ "s_8400101_hfll": {
+  "en": "Every time you kill an <p>elite monster</p>, you'll restore &8400101_hfll& Energy.",
+  "ch": "战斗中每击杀一个<p>精英单位</p>，可恢复自身灵力&8400101_hfll&点。",
+  "pt": "Toda vez que você matar um <p>monstro de elite</p>, recuperará &8400101_hfll& unidades de Energia."
+ },
+ "s_8400102_hfll": {
+  "en": "When your Energy is below &8400102_xqll&%, you'll restore &8400102_hfll& Energy every second.",
+  "ch": "当自身灵力低于&8400102_xqll&%时，每秒可恢复自身灵力&8400102_hfll&点。",
+  "pt": "Quando sua Energia estiver abaixo de &8400102_xqll&%, você recuperará &8400102_hfll& de Energia a cada segundo."
+ },
+ "s_8400103_djhd": {
+  "en": "For every &8400103_xhll& Energy you use to cast skills, you'll receive &8400103_djhd& $s_hudun$ points.",
+  "ch": "自身使用技能时，每消耗&8400103_xhll&点灵力，可为自己叠加&8400103_djhd&点$s_hudun$。",
+  "pt": "A cada &8400103_xhll& de Energia que você utilizar para usar suas habilidades, receberá &8400103_djhd& $s_hudun$ pontos."
+ },
+ "s_8400104_hfll": {
+  "en": "Every time you cause an enemy to lose &8400104_xqll& Energy, your Energy will be restored by &8400104_hfll&.",
+  "ch": "自身每使敌人损失灵力&8400104_xqll&点时，可恢复自身灵力&8400104_hfll&点。",
+  "pt": "Toda vez que você fizer com que um inimigo perca &8400104_xqll& unidades de Energia, a sua Energia será recuperada em &8400104_hfll& unidades."
+ },
+ "s_8400105_hfll": {
+  "en": "Every time an enemy dies in the area of a $s_lieyan$, your Energy will be restored by &8400105_hfll&.",
+  "ch": "每当有一个敌人在$s_lieyan$中死亡时，可恢复自身灵力&8400105_hfll&点。",
+  "pt": "Sempre que um inimigo morre na área de um $s_lieyan$, sua Energia será restaurada em &8400105_hfll&."
+ },
+ "s_8400106_hfll": {
+  "en": "When your $s_huanying$ disappears, your Energy will be restored by &8400106_hfll&.",
+  "ch": "每当自身的$s_huanying$消失时，可恢复自身灵力&8400106_hfll&点。",
+  "pt": "Quando o seu $s_huanying$ desaparecer, a sua Energia será restaurada em &8400106_hfll&."
+ },
+ "s_8400107_hfll": {
+  "en": "Every time a $s_leiji$ triggered by you hits an enemy, your Energy will be restored by &8400107_hfll&.",
+  "ch": "自身引发$s_leiji$每击中一个敌人时，可恢复自身灵力&8400107_hfll&点。",
+  "pt": "Toda vez que um $s_leiji$ acionado por você atingir um inimigo, sua Energia será restaurada em &8400107_hfll&."
+ },
+ "s_8400108_hfll": {
+  "en": "Every time a $s_xuanfeng$ kills an enemy, your Energy will be restored by &8400108_hfll&.",
+  "ch": "每当$s_xuanfeng$击杀一个敌人时，可恢复自身灵力&8400108_hfll&点。",
+  "pt": "Toda vez que um $s_xuanfeng$ mata um inimigo, sua Energia será restaurada em &8400108_hfll&."
+ },
+ "s_8400109_hfll": {
+  "en": "Every time an ally dies, your Energy will be restored by &8400109_hfll&.",
+  "ch": "每当一个己方单位死亡时，可恢复自身灵力&8400109_hfll&点。",
+  "pt": "Toda vez que um aliado morre, sua Energia é restaurada em &8400109_hfll&."
+ },
+ "s_8400110_hfll": {
+  "en": "When there are &8400110_yjsl& allies, your Energy will be restored by &8400110_hfll& every second.",
+  "ch": "当场上的己方单位数量达到&8400110_yjsl&个时，每秒可恢复自身灵力&8400110_hfll&点。",
+  "pt": "Quando houver &8400110_yjsl& aliados presentes, sua Energia será restaurada em &8400110_hfll& a cada segundo."
+ },
+ "s_8400111_hfll": {
+  "en": "For the duration of your Motion Skill, your Energy is restored by &8400111_hfll& every second.",
+  "ch": "在使用身法的持续时间内，每秒可恢复自身灵力&8400111_hfll&点。",
+  "pt": "Durante o período em que sua Técnica de Movimento estiver ativa, sua Energia é restaurada em &8400111_hfll& a cada segundo."
+ },
+ "s_8400112_hfll": {
+  "en": "When there are <p>elite monsters</p> on the battlefield, your Energy will be restored by &8400112_hfll& every second.",
+  "ch": "当场上有敌人的<p>精英单位</p>时，每秒可恢复自身灵力&8400112_hfll&点。",
+  "pt": "Quando há <p>monstros de elite</p> no campo de batalha, sua Energia será restaurada em &8400112_hfll& a cada segundo."
+ },
+ "s_8400113_tsll": {
+  "en": "For every &8400113_xqzz& Spiritual Root points, your Max Energy will increase by &8400113_tsll&.",
+  "ch": "每有&8400113_xqzz&点灵根资质可使灵力上限提升&8400113_tsll&点。",
+  "pt": "A cada &8400113_xqzz& pontos de Raiz Espiritual, sua Energia Máx. aumentará em &8400113_tsll&."
+ },
+ "s_8400114_tsll": {
+  "en": "For every &8400114_xqwx& Insight points, your Max Energy will increase by &8400114_tsll&.",
+  "ch": "每有&8400114_xqwx&点悟性可使灵力上限提升&8400114_tsll&点。",
+  "pt": "A cada &8400114_xqwx& pontos de Percepção, sua Energia Máx. aumentará em &8400114_tsll&."
+ },
+ "s_8400115_tsll": {
+  "en": "For every &8400115_xqdd& Skill Points, your Max Energy will increase by &8400115_tsll&.",
+  "ch": "每有&8400115_xqdd&点道点可使灵力上限提升&8400115_tsll&点。",
+  "pt": "A cada &8400115_xqdd& Pontos de Habilidade, sua Energia Máx. aumentará em &8400115_tsll&."
+ },
+ "s_8400116_tsll": {
+  "en": "For every Legendary or Mythic Skill you equip, your Max Energy will increase by &8400116_tsll& (up to &8400116_tsll|x8400116_djcs|f0&).",
+  "ch": "每装备一个橙色品质以上的技能时，可提升灵力上限&8400116_tsll&点，最多可提升&8400116_tsll|x8400116_djcs|f0&点。",
+  "pt": "Para cada Habilidade Lendária ou Mítica que você equipar, sua Energia Máx. aumentará em &8400116_tsll& (até o limite de &8400116_tsll|x8400116_djcs|f0&)."
+ },
+ "s_8400117_tsll": {
+  "en": "When any of your Spiritual Root stats reaches &8400117_xqzz&, your Max Energy will increase by &8400117_tsll&.",
+  "ch": "当有任意一条灵根资质达到&8400117_xqzz&点时，提升灵力上限&8400117_tsll&点。",
+  "pt": "Quando qualquer um dos seus atributos de Raiz Espiritual atingir &8400117_xqzz&, sua Energia Máx. aumentará em &8400117_tsll&."
+ },
+ "s_8400118_tsll": {
+  "en": "For every skill you learn, your Max Energy will increase by &8400118_tsll&.",
+  "ch": "自身每学习了一个技能，可提升灵力上限&8400118_tsll&点。",
+  "pt": "Para cada habilidade que você aprende, sua Energia Máx. aumentará em &8400118_tsll&."
+ },
+ "s_8500101_djsl": {
+  "en": "Max Elixir Stacks +&8500101_djsl&",
+  "ch": "装备的丹药最大叠加数量+&8500101_djsl&个。",
+  "pt": "Máximo de Pilhas de Elixir +&8500101_djsl&"
+ },
+ "s_8500102_jscd": {
+  "en": "Cooldown of Elixir usage in battle &8500102_jscd&%",
+  "ch": "战斗中使用丹药的冷却时间&8500102_jscd&%。",
+  "pt": "Tempo de recarga para o uso de Elixir em uma batalha &8500102_jscd&%"
+ },
+ "s_8500103_hftl": {
+  "en": "Vitality Elixirs restore &8500103_hftl&% more Vitality.",
+  "ch": "使用恢复体力的丹药时，可额外恢复&8500103_hftl&%。",
+  "pt": "Os Elixires de Vitalidade restauram &8500103_hftl&% a mais de Vitalidade."
+ },
+ "s_8500104_hfll": {
+  "en": "Energy Elixirs restore &8500104_hfll&% more Energy.",
+  "ch": "使用恢复灵力的丹药时，可额外恢复&8500104_hfll&%。",
+  "pt": "Os Elixires de Energia restauram &8500104_hfll&% a mais de Energia."
+ },
+ "s_8500105_zycs": {
+  "en": "In each battle, no Focus is consumed the first &8500105_zycs& times you use Elixirs.",
+  "ch": "每场战斗中，前&8500105_zycs&次使用丹药时，不需要消耗念力。",
+  "pt": "Em cada batalha, nenhum Foco é consumido nas primeiras &8500105_zycs& vezes em que você usar Elixires."
+ },
+ "s_8500106_jscd": {
+  "en": "Every time you cast a Special Skill, the cooldown of Elixir usage &8500106_jscd&s.",
+  "ch": "每次使用绝技时，可立即使丹药的冷却时间&8500106_jscd&秒。",
+  "pt": "Toda vez que você usa uma Técnica Especial, o tempo de recarga para o uso do Elixir é reduzido &8500106_jscd&s."
+ },
+ "s_8500107_tsnl": {
+  "en": "For every &8500107_xqzz& artisanship points, your Max Focus will increase by &8500107_tsnl&.",
+  "ch": "每有&8500107_xqzz&点技艺资质可使念力上限提升&8500107_tsnl&点。",
+  "pt": "A cada &8500107_xqzz& pontos de artesanato, seu Foco Máx. aumentará em &8500107_tsnl&."
+ },
+ "s_8500108_tsnl": {
+  "en": "When any of your artisanship stats reaches &8500108_xqzz&, your Max Focus will increase by &8500108_tsnl&.",
+  "ch": "当有任意一条技艺资质达到&8500108_xqzz&点时，提升念力上限&8500108_tsnl&点。",
+  "pt": "Quando qualquer um dos seus atributos de artesanato atingir &8500108_xqzz&, o seu Foco Máx. aumentará em &8500108_tsnl&."
+ },
+ "s_8500109_djcs": {
+  "en": "Every time you unlearn a skill, you'll increase your Max Focus by &8500109_tsnl&. (Current: {ForgetEffect8500109}/&8500109_djcs&)",
+  "ch": "每遗忘一个技能时，可提升念力上限&8500109_tsnl&点。（当前进度：{ForgetEffect8500109}/&8500109_djcs&）",
+  "pt": "Toda vez que você desaprende uma habilidade, aumenta seu Foco Máx em &8500109_tsnl&. (Atualmente: {ForgetEffect8500109}/&8500109_djcs&)"
+ },
+ "s_8500110_tsnl": {
+  "en": "For every &8500110_xqdd& Skill Points, your Max Focus will increase by &8500110_tsnl&.",
+  "ch": "每有&8500110_xqdd&点道点可使念力上限提升&8500110_tsnl&点。",
+  "pt": "A cada &8500110_xqdd& Pontos de Habilidade, seu Foco Máx. aumentará em &8500110_tsnl&."
+ },
+ "s_8500111_djcs": {
+  "en": "For every friend you have, your Max Focus will increase by &8500111_tsnl& (up to &8500111_tsnl|x8500111_djcs|f0&).",
+  "ch": "每有一个好友，可提升念力上限&8500111_tsnl&点，最多可提升&8500111_tsnl|x8500111_djcs|f0&点。",
+  "pt": "Para cada amigo que você tiver, seu Foco Máx. aumentará em &8500111_tsnl& (até o limite de &8500111_tsnl|x8500111_djcs|f0&)."
+ },
+ "s_8500112_tsnl": {
+  "en": "For every master you have, your Max Focus will increase by &8500112_tsnl&.",
+  "ch": "每有一个师父，可提升念力上限&8500112_tsnl&点。",
+  "pt": "Para cada mestre que você tiver, seu Foco Máx. aumentará em &8500112_tsnl&."
+ },
+ "s_8500113_tsnl": {
+  "en": "When you have a Partner/Husband/Wife, your Max Focus will increase by &8500113_tsnl&.",
+  "ch": "若自身拥有道侣/丈夫/妻子，则可提升念力上限&8500113_tsnl&点。",
+  "pt": "Quando você tem um Parceiro/Marido/Esposa, seu Foco Máx. aumentará em &8500113_tsnl&."
+ },
+ "s_8600101_djcs": {
+  "en": "For every stack of $s_xueren$ on the battlefield, your damage will increase by &8600101_tssh&% (up to &8600101_tssh|x8600101_djcs|f2&%).",
+  "ch": "场上每有一层$s_xueren$，可使自身的伤害提升&8600101_tssh&%，最多可提升&8600101_tssh|x8600101_djcs|f2&%。",
+  "pt": "Para cada pilha de $s_xueren$ no campo de batalha, seu dano aumentará em &8600101_tssh&% (até &8600101_tssh|x8600101_djcs|f2&%)."
+ },
+ "s_8600102_tsys": {
+  "en": "When there are &8600102_xqcs& stacks of $s_xueren$, your Agility will increase by &8600102_tsys&%.",
+  "ch": "当场上的$s_xueren$达到&8600102_xqcs&层时，自身的移动速度提升&8600102_tsys&%。",
+  "pt": "Quando houver &8600102_xqcs& pilhas de $s_xueren$, sua Agilidade aumentará em &8600102_tsys&%."
+ },
+ "s_8600103_cfgl": {
+  "en": "Every time you execute an enemy, you have a &8600103_cfgl&% chance to reduce the cooldown of Special Skills (&8600103_jscd&s).",
+  "ch": "每次斩杀敌人时，有&8600103_cfgl&%的概率使绝技的冷却时间&8600103_jscd&秒。",
+  "pt": "Toda vez que você executa um inimigo, há uma chance de &8600103_cfgl&% de reduzir o tempo de recarga das Técnicas Especiais (&8600103_jscd&s)."
+ },
+ "s_8600104_xxbl": {
+  "en": "When you have at least &8600104_xqcs& stacks of $s_jueqing$, your Martial Skills will convert &8600104_xxbl&% of damage done into your Vitality.",
+  "ch": "当自身拥有至少&8600104_xqcs&层$s_jueqing$时，武技可吸血&8600104_xxbl&%。",
+  "pt": "Quando você tiver pelo menos &8600104_xqcs& acúmulos de $s_jueqing$, suas Técnicas Marciais converterão &8600104_xxbl&% do dano causado em sua Vitalidade."
+ },
+ "s_8600105_cfgl": {
+  "en": "Every time you detonate a stack of $s_xueren$, you have a &8600105_cfgl&% chance to receive a stack of $s_jueqing$.",
+  "ch": "每次引爆$s_xueren$时，有&8600105_cfgl&%的概率为自身叠加一层$s_jueqing$。",
+  "pt": "Toda vez que você detona uma pilha de $s_xueren$, há uma chance de &8600105_cfgl&% de receber uma pilha de $s_jueqing$."
+ },
+ "s_8600106_cfgl": {
+  "en": "If you consume $s_jueqing$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600106_cfgl&% chance to inflict a stack of $s_xueren$. For every stack of $s_jueqing$ consumed, the duration of this effect will be extended by &8600106_cxsj&s.",
+  "ch": "当自身消耗了$s_jueqing$时，武技/灵技在命中敌人时有&8600106_cfgl&%的概率为其叠加一层$s_xueren$，每消耗一层$s_jueqing$，此效果的持续时间增加&8600106_cxsj&秒。",
+  "pt": "Ao consumir $s_jueqing$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600106_cfgl&% de aplicar uma pilha de $s_xueren$. Para cada pilha de $s_jueqing$ consumida, a duração desse efeito será aumentada em &8600106_cxsj& segundos."
+ },
+ "s_8600111_drsl": {
+  "en": "Before the battle starts in each room, you'll inflict &8600111_drsl& random enemies with a stack of $s_xueren$.",
+  "ch": "在每个房间的战斗开始前，可为场上随机&8600111_drsl&个敌人叠加一层$s_xueren$。",
+  "pt": "Antes que a batalha comece em cada sala, você infligirá a &8600111_drsl& inimigos aleatórios uma pilha de $s_xueren$."
+ },
+ "s_8600112_jgsj": {
+  "en": "When there's only one enemy, you'll receive a stack of $s_jueqing$ every &8600112_jgsj&s.",
+  "ch": "当场上只有一个敌人时，每&8600112_jgsj&秒为自身叠加一层$s_jueqing$。",
+  "pt": "Quando houver apenas um inimigo, você receberá uma pilha de $s_jueqing$ a cada &8600112_jgsj&s."
+ },
+ "s_8600201_jdsh": {
+  "en": "For every stack of $s_pojia$ on the battlefield, your damage taken &8600201_jdsh&% (up to &8600201_jdsh|x8600201_djcs|f2&%).",
+  "ch": "场上每有一层$s_pojia$，可使自身受到的伤害&8600201_jdsh&%，最多可&8600201_jdsh|x8600201_djcs|f2&%。",
+  "pt": "Para cada pilha de $s_pojia$ no campo de batalha, o dano que você recebe é reduzido em &8600201_jdsh&% (até &8600201_jdsh|x8600201_djcs|f2&%)."
+ },
+ "s_8600202_hfll": {
+  "en": "When there are &8600202_xqcs& stacks of $s_pojia$, your Energy will be restored by &8600202_hfll& every second.",
+  "ch": "当场上的$s_pojia$达到&8600202_xqcs&层时，每秒可使自身的灵力恢复&8600202_hfll&点。",
+  "pt": "Quando houver &8600202_xqcs& pilhas de $s_pojia$, sua Energia será restaurada em &8600202_hfll& a cada segundo."
+ },
+ "s_8600203_cxsj": {
+  "en": "Every time you use a dash skill, your DEF will increase by &8600203_tsfy& for &8600203_cxsj&s.",
+  "ch": "每次使用突进技能后，提升防御&8600203_tsfy&点，持续&8600203_cxsj&秒。",
+  "pt": "Toda vez que você usar uma habilidade de dano, sua DEF aumentará em &8600203_tsfy& por &8600203_cxsj& segundos."
+ },
+ "s_8600205_cfgl": {
+  "en": "Every time you detonate a stack of $s_pojia$, you have a &8600205_cfgl& chance to receive a stack of $s_poshi$.",
+  "ch": "每次引爆$s_pojia$时，有&8600205_cfgl&的概率为自身叠加一层$s_poshi$。",
+  "pt": "Toda vez que você detona uma pilha de $s_pojia$, tem uma chance de &8600205_cfgl& de receber uma pilha de $s_poshi$."
+ },
+ "s_8600206_cfgl": {
+  "en": "If you consume $s_poshi$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600206_cfgl&% chance to inflict a stack of $s_pojia$. For every stack of $s_poshi$ consumed, the duration of this effect will be extended by &8600206_cxsj&s.",
+  "ch": "当自身消耗了$s_poshi$时，武技/灵技在命中敌人时有&8600206_cfgl&%的概率为其叠加一层$s_pojia$，每消耗一层$s_poshi$，此效果的持续时间增加&8600206_cxsj&秒。",
+  "pt": "Ao consumir $s_poshi$, ao atingir um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600206_cfgl&% de aplicar uma pilha de $s_pojia$. Para cada pilha de $s_poshi$ consumida, a duração desse efeito será aumentada em &8600206_cxsj& segundos."
+ },
+ "s_8600211_drsl": {
+  "en": "Before the battle starts in each room, you'll inflict &8600211_drsl& random enemies with a stack of $s_pojia$.",
+  "ch": "在每个房间的战斗开始前，可为场上随机&8600211_drsl&个敌人叠加一层$s_pojia$。",
+  "pt": "Antes de a batalha começar em cada sala, você causará efeitos de $s_pojia$ em &8600211_drsl& inimigos aleatórios."
+ },
+ "s_8600212_jgsj": {
+  "en": "When there's only one enemy, you'll receive a stack of $s_poshi$ every &8600212_jgsj&s.",
+  "ch": "当场上只有一个敌人时，每&8600212_jgsj&秒为自身叠加一层$s_poshi$。",
+  "pt": "Quando houver apenas um inimigo, você receberá uma pilha de $s_poshi$ a cada &8600212_jgsj&s."
+ },
+ "s_8600301_tssh": {
+  "en": "For every stack of $s_liuxue$ on the battlefield, your damage &8600301_tssh&% (up to &8600301_tssh|x8600301_djcs|f2&%).",
+  "ch": "场上每有一层$s_liuxue$，可使自身的伤害&8600301_tssh&%，最多可&8600301_tssh|x8600301_djcs|f2&%。",
+  "pt": "Para cada pilha de $s_liuxue$ no campo de batalha, seu dano aumenta em &8600301_tssh&% (até &8600301_tssh|x8600301_djcs|f2&%)."
+ },
+ "s_8600302_hfll": {
+  "en": "When there are &8600302_xqcs& stacks of $s_liuxue$, your Energy will be restored by &8600302_hfll& every second.",
+  "ch": "当场上的$s_liuxue$达到&8600302_xqcs&层时，每秒可使自身的灵力恢复&8600302_hfll&点。",
+  "pt": "Quando houver &8600302_xqcs& pilhas de $s_liuxue$, sua Energia será restaurada em &8600302_hfll& a cada segundo."
+ },
+ "s_8600303_djcs": {
+  "en": "Every time you cast a Motion Skill, you'll instantly receive &8600303_djcs& stacks of $s_jianzhan$.",
+  "ch": "每次使用身法时，立即为自身叠加&8600303_djcs&层$s_jianzhan$。",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá instantaneamente &8600303_djcs& acúmulos de $s_jianzhan$."
+ },
+ "s_8600304_tshx": {
+  "en": "When you have at least &8600304_xqcs& stacks of $s_jianzhan$, your Crit will increase by &8600304_tshx&.",
+  "ch": "当自身拥有至少&8600304_xqcs&层$s_jianzhan$时，会心提升&8600304_tshx&点。",
+  "pt": "Quando você tiver pelo menos &8600304_xqcs& pilhas de $s_jianzhan$, o seu Crítico aumentará em &8600304_tshx&."
+ },
+ "s_8600305_cfgl": {
+  "en": "Every time you detonate a stack of $s_liuxue$, you have a &8600305_cfgl& chance to receive a stack of $s_jianzhan$.",
+  "ch": "每次引爆$s_liuxue$时，有&8600305_cfgl&的概率为自身叠加一层$s_jianzhan$。",
+  "pt": "Toda vez que você detona uma pilha de $s_liuxue$, há uma chance de &8600305_cfgl& de receber uma pilha de $s_jianzhan$."
+ },
+ "s_8600306_cfgl": {
+  "en": "If you consume $s_jianzhan$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600306_cfgl&% chance to inflict a stack of $s_liuxue$. For every stack of $s_jianzhan$ consumed, the duration of this effect will be extended by &8600306_cxsj&s.",
+  "ch": "当自身消耗了$s_jianzhan$时，武技/灵技在命中敌人时有&8600306_cfgl&%的概率为其叠加一层$s_liuxue$，每消耗一层$s_jianzhan$，此效果的持续时间增加&8600306_cxsj&秒。",
+  "pt": "Ao consumir $s_jianzhan$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600306_cfgl&% de aplicar uma pilha de $s_liuxue$. Para cada pilha de $s_jianzhan$ consumida, a duração desse efeito será aumentada em &8600306_cxsj& segundos."
+ },
+ "s_8600311_drsl": {
+  "en": "Before the battle starts in each room, you'll inflict &8600311_drsl& random enemies with a stack of $s_liuxue$.",
+  "ch": "在每个房间的战斗开始前，可为场上随机&8600311_drsl&个敌人叠加一层$s_liuxue$。",
+  "pt": "Antes de a batalha começar em cada sala, você infligirá a &8600311_drsl& inimigos aleatórios uma pilha de $s_liuxue$."
+ },
+ "s_8600312_jgsj": {
+  "en": "When there's only one enemy, you'll receive a stack of $s_jianzhan$ every &8600312_jgsj&s.",
+  "ch": "当场上只有一个敌人时，每&8600312_jgsj&秒为自身叠加一层$s_jianzhan$。",
+  "pt": "Quando houver apenas um inimigo, você receberá uma pilha de $s_jianzhan$ a cada &8600312_jgsj&s."
+ },
+ "s_8600401_tssh": {
+  "en": "For every stack of $s_suigu$ on the battlefield, your damage &8600401_tssh&% (up to &8600401_tssh|x8600401_djcs|f2&%).",
+  "ch": "场上每有一层$s_suigu$，可使自身的伤害&8600401_tssh&%，最多可&8600401_tssh|x8600401_djcs|f2&%。",
+  "pt": "Para cada pilha de $s_suigu$ no campo de batalha, seu dano aumenta em &8600401_tssh&% (até &8600401_tssh|x8600401_djcs|f2&%)."
+ },
+ "s_8600402_xqcs": {
+  "en": "When there are &8600402_xqcs& stacks of $s_suigu$, you'll receive &8600402_djhd& $s_hudun$ points every second.",
+  "ch": "当场上的$s_suigu$达到&8600402_xqcs&层时，每秒可为自身叠加$s_hudun$ &8600402_djhd&点。",
+  "pt": "Quando houver &8600402_xqcs& pilhas de $s_suigu$, você receberá &8600402_djhd& pontos $s_hudun$ a cada segundo."
+ },
+ "s_8600403_jdsh": {
+  "en": "Every time $s_hudun$ is detonated, for the next &8600403_cxsj&s, your damage taken &8600403_jdsh&%.",
+  "ch": "每次引爆$s_hudun$时，可在接下来的&8600403_cxsj&秒内，使自身受到的伤害&8600403_jdsh&%。",
+  "pt": "Toda vez que $s_hudun$ é detonado, nos próximos &8600403_cxsj&s, o dano que você recebe aumenta em &8600403_jdsh&%."
+ },
+ "s_8600404_jscd": {
+  "en": "The cooldown of Martial Skills &8600404_jscd&% when you have $s_hudun$.",
+  "ch": "当自身拥有$s_hudun$时，武技的冷却时间&8600404_jscd&%。",
+  "pt": "O tempo de recarga da Técnica Marcial &8600404_jscd&% quando você possui $s_hudun$."
+ }
+}

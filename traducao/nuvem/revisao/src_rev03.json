@@ -1,0 +1,5038 @@
+{
+ "modEffectType3Title_slayHide": {
+  "en": "When killing an NPC, chance to not increase Hatred toward the character from characters who have a positive relationship with the NPC. Displays plot ID when triggered.",
+  "ch": "杀死NPC时，有概率不增加NPC良性关系对角色的仇恨度，触发后弹出剧情ID",
+  "pt": "Ao matar um NPC, há chance de não aumentar o Ódio em relação ao personagem por parte daqueles que têm uma relação positiva com o NPC. Exibe o ID da trama quando acionado."
+ },
+ "modEffectType3Title_stealExpose": {
+  "en": "Change discovery probability of item stealing",
+  "ch": "修改偷东西被发现概率",
+  "pt": "Alterar a probabilidade de descoberta do roubo de item"
+ },
+ "modEffectType3Title_stealSucceed": {
+  "en": "Change success probability of stealing item",
+  "ch": "修改偷东西成功概率",
+  "pt": "Alterar a probabilidade de sucesso ao roubar um item"
+ },
+ "modEffectType3Title_stopRunAI": {
+  "en": "Stops running AI, targets NPC",
+  "ch": "停止运转AI，针对NPC",
+  "pt": "Para de executar a IA, mira no NPC"
+ },
+ "modEffectType3Title_talkAnswer": {
+  "en": "When performing Talk or Debate with NPCs, you can learn the answers they expect",
+  "ch": "与NPC进行交谈以及论道时，可以得知NPC期望的答案",
+  "pt": "Ao conversar ou debater com NPCs, você pode descobrir as respostas que eles esperam."
+ },
+ "modEffectType3Title_taskReward": {
+  "en": "Increase all mission rewards (Spirit Stones, Reputation, Mayor's Decrees, Contribution)",
+  "ch": "所有任务奖励(包括灵石, 声望, 城主令, 贡献)提升",
+  "pt": "Aumente todas as recompensas das missões (Pedras Espirituais, Reputação, Decretos do Prefeito, Contribuição)."
+ },
+ "modEffectType3Title_terrainMoveCost": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "modEffectType3Title_trainRestore": {
+  "en": "Every time you Cultivate on the map and every time you gain a point of EXP, you can recover specified values of Vitality, Energy, and Focus",
+  "ch": "每次在大地图修炼时，每获得一点经验，可回复指定值的体力、灵力、念力",
+  "pt": "Toda vez que você Cultiva no mapa e toda vez que ganha um ponto de EXP, pode recuperar valores específicos de Vitalidade, Energia e Foco."
+ },
+ "modEffectType3Title_trainsExp": {
+  "en": "Both parties have an increased gain in Dual Cultivation",
+  "ch": "双修时，双方获得的修为提升",
+  "pt": "Ambas as partes obtêm um ganho maior no Cultivo Duplo."
+ },
+ "modEffectType3Title_trainsGive": {
+  "en": "When Dual Cultivation ends, the other party will Gift you once",
+  "ch": "双修结束后，对方会对你执行一次赠送行为",
+  "pt": "Quando o Cultivo Dual terminar, os outros lhe farão um presente uma vez."
+ },
+ "modEffectType3Title_viewEnemy": {
+  "en": "Enables the character to view enemy locations on the Region Map",
+  "ch": "使角色可以在小地图中查看仇人的位置",
+  "pt": "Permite que o personagem veja a localização dos inimigos no Mapa da Região."
+ },
+ "modEffectType3Title_viewItemCount": {
+  "en": "Can also check the items in the NPC’s bag",
+  "ch": "可以额外查看npc背包中的道具",
+  "pt": "Também é possível verificar os items no saco do NPC."
+ },
+ "modEffectType3_addFeature_value1Name": {
+  "en": "Probability of obtaining Destiny",
+  "ch": "获得气运概率",
+  "pt": "Probabilidade de obter Destino"
+ },
+ "modEffectType3_addFeature_value2Name": {
+  "en": "Obtained Destiny",
+  "ch": "获得的气运",
+  "pt": "Destino obtido"
+ },
+ "modEffectType3_attachAttrByArtifact_value1Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_attachAttrByArtifact_value3Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_attrEffect_value1Name": {
+  "en": "Specified Stats",
+  "ch": "指定的属性",
+  "pt": "Atributos especificados"
+ },
+ "modEffectType3_attrEffect_value2Name": {
+  "en": "Stats reach minimum value",
+  "ch": "属性达到最小值",
+  "pt": "Os Atributos atingiram o valor mínimo"
+ },
+ "modEffectType3_attrEffect_value3Name": {
+  "en": "Stats reach maximum value",
+  "ch": "属性达到最大值",
+  "pt": "Os Atributos atingem o valor máximo"
+ },
+ "modEffectType3_attrEffect_value4Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_attrEffect_value5Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_battleLearnSkill_value1Name": {
+  "en": "Probability percentage of learning skills",
+  "ch": "学习技能的概率百分比",
+  "pt": "Percentual de probabilidade de aprender habilidades"
+ },
+ "modEffectType3_battleLearnSkill_value2Name": {
+  "en": "Internal CD (month)",
+  "ch": "内置CD（月）",
+  "pt": "CD Interno (mês)"
+ },
+ "modEffectType3_breakActionGridGetExp_value1Name": {
+  "en": "Trigger chance (in ‱)",
+  "ch": "触发概率万分比",
+  "pt": "Chance de gatilho (em ‱)"
+ },
+ "modEffectType3_breakActionGridGetExp_value2Name": {
+  "en": "Plot launched after the pause",
+  "ch": "打断后打开的剧情",
+  "pt": "Enredo lançado após a pausa"
+ },
+ "modEffectType3_breakActionGridGetExp_value3Name": {
+  "en": "Trigger interval (in months)",
+  "ch": "触发间隔（月）",
+  "pt": "Intervalo de disparo (em meses)"
+ },
+ "modEffectType3_breakActionGridMine_value1Name": {
+  "en": "Trigger chance (in ‱)",
+  "ch": "触发概率万分比",
+  "pt": "Chance de disparo (em ‱)"
+ },
+ "modEffectType3_breakActionGridMine_value2Name": {
+  "en": "Plot launched after the pause",
+  "ch": "打断后打开的剧情",
+  "pt": "Enredo lançado após a pausa"
+ },
+ "modEffectType3_breakActionGridMine_value3Name": {
+  "en": "Trigger interval (in months)",
+  "ch": "触发间隔（月）",
+  "pt": "Intervalo de disparo (em meses)"
+ },
+ "modEffectType3_changeAbility_value1Name": {
+  "en": "Interval Time (months)",
+  "ch": "间隔时间（月）",
+  "pt": "Intervalo de tempo (meses)"
+ },
+ "modEffectType3_changeAbility_value2Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_changeAbility_value4Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_changeAttrCost_value3Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser incrementado"
+ },
+ "modEffectType3_clearFeature_value1Name": {
+  "en": "Probability of removing Destiny",
+  "ch": "移除气运概率",
+  "pt": "Probabilidade de remover o Destino"
+ },
+ "modEffectType3_clearFeature_value2Name": {
+  "en": "Removed Destiny",
+  "ch": "移除的气运",
+  "pt": "Removido o Destino"
+ },
+ "modEffectType3_createDungeon_value1Desc": {
+  "en": "Every 5 levels correspond to a Realm (e.g. Lv. 5 represents the most difficult training Dungeon)",
+  "ch": "每5级对应一个境界（如5级，代表最难的练气期副本）",
+  "pt": "Cada 5 níveis correspondem a um Reino (por exemplo, o nível 5 representa a dungeon de treinamento mais difícil)."
+ },
+ "modEffectType3_createDungeon_value1Name": {
+  "en": "Dungeon Created",
+  "ch": "创建的副本",
+  "pt": "Masmorra criada"
+ },
+ "modEffectType3_createDungeon_value2Name": {
+  "en": "Level of Dungeon created (Lv. 1–50)",
+  "ch": "创建的副本等级（1-50级）",
+  "pt": "Nível da masmorra criada (Nv. 1–50)"
+ },
+ "modEffectType3_createNpc_value1Name": {
+  "en": "NPC Edit",
+  "ch": "NPC编辑",
+  "pt": "Edição de NPC"
+ },
+ "modEffectType3_doubleReduceDaoxin_value1Name": {
+  "en": "Stat change (in %)",
+  "ch": "数值变化百分比",
+  "pt": "Alteração de estatística (em %)"
+ },
+ "modEffectType3_drillClose_value1Name": {
+  "en": "Affinity increase value after Spar battle is won",
+  "ch": "切磋战斗胜利后，好感度增加值",
+  "pt": "Valor de aumento da Afinidade após vencer uma batalha de Spar"
+ },
+ "modEffectType3_drillClose_value2Name": {
+  "en": "Additional text content displayed after increase in Affinity",
+  "ch": "在亲密度增加后面额外显示的文本内容",
+  "pt": "Texto adicional exibido após o aumento da Afinidade"
+ },
+ "modEffectType3_drillExp_value1Name": {
+  "en": "EXP increase percentage",
+  "ch": "经验增加百分比",
+  "pt": "Porcentagem de aumento de EXP"
+ },
+ "modEffectType3_drillExp_value2Name": {
+  "en": "After EXP changes, tip text",
+  "ch": "经验变化后，提示文本",
+  "pt": "Após as alterações no EXP, texto da dica"
+ },
+ "modEffectType3_equipAbility_value1Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_equipAbility_value3Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_escapeClose_value1Name": {
+  "en": "Affinity increase value after escape is successful",
+  "ch": "逃跑成功后，好感度增加值",
+  "pt": "Valor de aumento da Afinidade após o escape ser bem-sucedido"
+ },
+ "modEffectType3_escapeClose_value2Name": {
+  "en": "Additional text content displayed before escape is final",
+  "ch": "在逃跑结算前额外显示的文本内容",
+  "pt": "Texto adicional exibido antes que a fuga seja finalizada"
+ },
+ "modEffectType3_escapeSucceed_value1Name": {
+  "en": "Forced Change Percentage",
+  "ch": "强制修改的百分比",
+  "pt": "Porcentagem de Mudanças Forçadas"
+ },
+ "modEffectType3_escapeSucceed_value2Name": {
+  "en": "Additional text content displayed before escape is final",
+  "ch": "在逃跑结算前额外显示的文本内容",
+  "pt": "Conteúdo de texto adicional exibido antes de a fuga ser finalizada"
+ },
+ "modEffectType3_featureTime_value1Desc": {
+  "en": "1- All positive destinies\n2- All negative destinies\nOthers- specified destiny ID",
+  "ch": "1-所有正面气运\n2-所有负面气运\n其他-指定的气运ID",
+  "pt": "1- Todos os destinos positivos  \n2- Todos os destinos negativos  \nOutros - ID do destino especificado"
+ },
+ "modEffectType3_featureTime_value1Name": {
+  "en": "Destiny changed",
+  "ch": "修改的气运",
+  "pt": "O Destino mudou"
+ },
+ "modEffectType3_featureTime_value2Name": {
+  "en": "Destiny duration percentage to increase",
+  "ch": "气运持续时间增加百分比",
+  "pt": "Porcentagem de aumento na duração do Destino"
+ },
+ "modEffectType3_forgetEffect_value1Name": {
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "pt": "Número máximo de acúmulos para aumentar o atributo (-1 significa infinito)"
+ },
+ "modEffectType3_forgetEffect_value2Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_forgetEffect_value3Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_giveCloseStable_value3Name": {
+  "en": "Value increased",
+  "ch": "增加的值",
+  "pt": "Valor aumentou"
+ },
+ "modEffectType3_gradeEffect_value3Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_gradeEffect_value4Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_graveLife_value2Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser incrementado"
+ },
+ "modEffectType3_graveLife_value3Name": {
+  "en": "Trigger Probability",
+  "ch": "触发概率",
+  "pt": "Probabilidade de disparo"
+ },
+ "modEffectType3_immortal_value1Name": {
+  "en": "Revival Time (months)",
+  "ch": "复活时间（月）",
+  "pt": "Tempo de recuperação (meses)"
+ },
+ "modEffectType3_immuneFeature_value1Desc": {
+  "en": "Whenever the character adds this Destiny, it will fail to be added.",
+  "ch": "任何时候角色添加此气运时，都将添加失败。",
+  "pt": "Sempre que o personagem tentar adicionar este Destino, a adição falhará."
+ },
+ "modEffectType3_immuneFeature_value1Name": {
+  "en": "Destiny Immunity",
+  "ch": "免疫的气运",
+  "pt": "Imunidade ao Destino"
+ },
+ "modEffectType3_increaseBasPil_value1Name": {
+  "en": "Increased Alchemy Value",
+  "ch": "提升的炼丹资质数值",
+  "pt": "Valor de Alquimia aumentado"
+ },
+ "modEffectType3_item_value1Name": {
+  "en": "Output Configuration",
+  "ch": "产出配置",
+  "pt": "Configuração de Saída"
+ },
+ "modEffectType3_item_value2Name": {
+  "en": "How many times to generate",
+  "ch": "产出次数",
+  "pt": "Quantas vezes gerar"
+ },
+ "modEffectType3_killNpcEffect_value2Name": {
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "pt": "Número máximo de acúmulos para aumentar o atributo (-1 significa infinito)"
+ },
+ "modEffectType3_killNpcEffect_value3Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_killNpcEffect_value4Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_killNpcReward_value2Name": {
+  "en": "Trigger chance (in %)",
+  "ch": "触发概率百分比",
+  "pt": "Chance de disparo (em %)"
+ },
+ "modEffectType3_killNpcReward_value4Name": {
+  "en": "No. of spawns",
+  "ch": "产出次数",
+  "pt": "Número de surgimentos"
+ },
+ "modEffectType3_killNpcReward_value5Name": {
+  "en": "Trigger interval (in months)",
+  "ch": "触发间隔（月）",
+  "pt": "Intervalo de disparo (em meses)"
+ },
+ "modEffectType3_killReduce_value1Name": {
+  "en": "Destiny time increase",
+  "ch": "增加时间的气运",
+  "pt": "Aumento do tempo de Destino"
+ },
+ "modEffectType3_killReduce_value2Name": {
+  "en": "Destiny duration increase (month)",
+  "ch": "增加的气运持续时间（月）",
+  "pt": "Aumento da duração do Destino (em meses)"
+ },
+ "modEffectType3_killReduce_value3Name": {
+  "en": "Killed Monsters",
+  "ch": "击杀的怪物",
+  "pt": "Monstros mortos"
+ },
+ "modEffectType3_learnEffect_value1Name": {
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "pt": "Número máximo de acúmulos para aumentar o atributo (-1 significa infinito)"
+ },
+ "modEffectType3_learnEffect_value2Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_learnEffect_value3Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_learnSkillCost_value3Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modEffectType3_learnSkillExp_value2Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modEffectType3_learnSkillUp_value1Name": {
+  "en": "Trigger probability percentage",
+  "ch": "触发概率百分比",
+  "pt": "Porcentagem de probabilidade de disparo"
+ },
+ "modEffectType3_learnSkillUp_value2Name": {
+  "en": "Internal CD (month)",
+  "ch": "内置CD（月）",
+  "pt": "CD Interno (mês)"
+ },
+ "modEffectType3_learnSkillUp_value3Name": {
+  "en": "When triggered, tip text",
+  "ch": "触发后，提示文本",
+  "pt": "Ao ser acionado, texto de dica"
+ },
+ "modEffectType3_limitGradeExp_value1Name": {
+  "en": "Realm that reached restriction",
+  "ch": "限制到达的境界",
+  "pt": "Reino que atingiu a restrição"
+ },
+ "modEffectType3_limitGradeExp_value2Name": {
+  "en": "Period that reached restriction",
+  "ch": "限制到达的期数",
+  "pt": "Período em que houve restrição"
+ },
+ "modEffectType3_mapFoundMaterials_value1Name": {
+  "en": "Chance (in %)",
+  "ch": "概率百分比",
+  "pt": "Chance (em %)"
+ },
+ "modEffectType3_mapFoundMaterials_value2Name": {
+  "en": "Cooldown Interval Time (months)",
+  "ch": "冷却间隔时间（月）",
+  "pt": "Tempo de intervalo de recarga (meses)"
+ },
+ "modEffectType3_mapFoundMaterials_value3Name": {
+  "en": "Command",
+  "ch": "命令",
+  "pt": "Comando"
+ },
+ "modEffectType3_mapSpecialSign_value1Name": {
+  "en": "Attachment Range",
+  "ch": "附件范围",
+  "pt": "Faixa de anexação"
+ },
+ "modEffectType3_meetMonsterProbInArea_value1Name": {
+  "en": "Probability of encountering a monster becomes",
+  "ch": "遇怪的概率变成百分之几",
+  "pt": "A probabilidade de encontrar um monstro aumenta"
+ },
+ "modEffectType3_meetMonsterProbInArea_value2Name": {
+  "en": "Additional text content displayed after the Notice when entering a special area",
+  "ch": "进入特殊区域，提示后面额外显示的文本内容",
+  "pt": "Texto adicional exibido após o Aviso ao entrar em uma área especial."
+ },
+ "modEffectType3_meetMonsterProbInArea_value3Name": {
+  "en": "Specified Area",
+  "ch": "指定区域",
+  "pt": "Área Especificada"
+ },
+ "modEffectType3_meetMonsterProb_value1Name": {
+  "en": "Probability change value of encountering monsters (Percentage)",
+  "ch": "遇怪的概率变化值（百分比）",
+  "pt": "Valor de alteração da probabilidade de encontrar monstros (Percentual)"
+ },
+ "modEffectType3_meetMonsterProb_value2Name": {
+  "en": "Additional text content displayed after the Notice when entering a special area",
+  "ch": "进入特殊区域提示后面额外显示的文本内容",
+  "pt": "Texto adicional exibido após o Aviso ao se entrar em uma área especial."
+ },
+ "modEffectType3_moneyAdd_value1Name": {
+  "en": "Increase Spirit Stone Per mille",
+  "ch": "增加灵石万分比",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "Aumentar o valor por mil da Pedra Espiritual"
+ },
+ "modEffectType3_moneyEffect_value1Name": {
+  "en": "Specified Spirit Stone Quantity",
+  "ch": "指定灵石数量",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "Quantidade específica de Pedras Espirituais"
+ },
+ "modEffectType3_moneyEffect_value2Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_moneyEffect_value3Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_moneyExp_value1Name": {
+  "en": "Gained EXP percentage",
+  "ch": "获得经验的百分比",
+  "pt": "Porcentagem de EXP obtida"
+ },
+ "modEffectType3_monthAttrAdd_value1Name": {
+  "en": "Stats Added",
+  "ch": "增加的属性",
+  "pt": "Atributos adicionados"
+ },
+ "modEffectType3_monthAttrAdd_value2Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modEffectType3_monthFunction_value1Name": {
+  "en": "Command",
+  "ch": "命令",
+  "pt": "Comando"
+ },
+ "modEffectType3_monthLostItem_value1Desc": {
+  "en": "Minimum number of lost items per item",
+  "ch": "每个道具每次最少丢失多少个",
+  "pt": "Número mínimo de items perdidos por item"
+ },
+ "modEffectType3_monthLostItem_value1Name": {
+  "en": "Loss probability percentage",
+  "ch": "丢失概率百分比",
+  "pt": "Porcentagem de probabilidade de perda"
+ },
+ "modEffectType3_monthLostItem_value2Desc": {
+  "en": "Maximum number of lost items per item",
+  "ch": "每个道具每次最多丢失多少个",
+  "pt": "Número máximo de itens perdidos por item"
+ },
+ "modEffectType3_monthLostItem_value2Name": {
+  "en": "Minimum lost items",
+  "ch": "丢失件数最小值",
+  "pt": "Mínimo de item perdidos"
+ },
+ "modEffectType3_monthLostItem_value3Desc": {
+  "en": "Minimum percentage lost when the item is stackable",
+  "ch": "当道具是叠加的，最少丢失百分之多少",
+  "pt": "Porcentagem mínima perdida quando o item é empilhável"
+ },
+ "modEffectType3_monthLostItem_value3Name": {
+  "en": "Maximum lost items",
+  "ch": "丢失件数最大值",
+  "pt": "Máximo de itemes perdidos"
+ },
+ "modEffectType3_monthLostItem_value4Desc": {
+  "en": "Maximum percentage lost when the item is stackable",
+  "ch": "当道具是叠加的，最多丢失百分之多少",
+  "pt": "Porcentagem máxima de perda quando o item é empilhável"
+ },
+ "modEffectType3_monthLostItem_value4Name": {
+  "en": "Minimum percentage of lost stack quantity",
+  "ch": "丢失叠加数量最小百分比",
+  "pt": "Porcentagem mínima da quantidade de estoque perdida"
+ },
+ "modEffectType3_monthLostItem_value5Name": {
+  "en": "Maximum percentage of lost stack quantity",
+  "ch": "丢失叠加数量最大百分比",
+  "pt": "Percentual máximo de perda na quantidade de estoque"
+ },
+ "modEffectType3_monthLostItem_value8Name": {
+  "en": "Percentage of rate of lost items per month",
+  "ch": "每个月有百分之多少的概率丢失道具",
+  "pt": "Percentual da taxa de itens perdidos por mês"
+ },
+ "modEffectType3_monthProbableReward_value1Name": {
+  "en": "Trigger chance (in %)",
+  "ch": "触发概率百分比",
+  "pt": "Chance de disparo (em %)"
+ },
+ "modEffectType3_monthProbableReward_value3Name": {
+  "en": "No. of spawns",
+  "ch": "产出次数",
+  "pt": "Número de surgimentos"
+ },
+ "modEffectType3_monthProbableReward_value4Name": {
+  "en": "Trigger interval (in months)",
+  "ch": "触发间隔（月）",
+  "pt": "Intervalo de disparo (em meses)"
+ },
+ "modEffectType3_notTopUpGrade_value1Name": {
+  "en": "Minimum effective Realm",
+  "ch": "多少境界开始生效",
+  "pt": "Reino mínimo efetivo"
+ },
+ "modEffectType3_npcCloseStable_value2Name": {
+  "en": "Percentage of change",
+  "ch": "变化的百分比",
+  "pt": "Porcentagem de mudança"
+ },
+ "modEffectType3_npcCommunicateClose_value1Name": {
+  "en": "Probability percentage of Affinity change",
+  "ch": "亲密度变化的概率百分比",
+  "pt": "Porcentagem de probabilidade de mudança na Afinidade"
+ },
+ "modEffectType3_npcCommunicateClose_value2Name": {
+  "en": "Affinity addition value",
+  "ch": "亲密度的增加值",
+  "pt": "Valor de adição da Afinidade"
+ },
+ "modEffectType3_npcCommunicateClose_value3Name": {
+  "en": "Additional text content displayed after increase in Affinity",
+  "ch": "在亲密度增加后面额外显示的文本内容",
+  "pt": "Texto adicional exibido após o aumento da Afinidade"
+ },
+ "modEffectType3_npcConnectLimit_value1Name": {
+  "en": "Minimum random interaction limit",
+  "ch": "交互限制随机最小值",
+  "pt": "Limite mínimo de interação aleatória"
+ },
+ "modEffectType3_npcConnectLimit_value2Name": {
+  "en": "Maximum random interaction limit",
+  "ch": "交互限制随机最大值",
+  "pt": "Limite máximo de interação aleatória"
+ },
+ "modEffectType3_npcConnectLimit_value3Name": {
+  "en": "Minimum Specified Area ID",
+  "ch": "指定区域最小ID",
+  "pt": "ID mínimo da área especificada"
+ },
+ "modEffectType3_npcConnectLimit_value4Name": {
+  "en": "Maximum Specified Area ID",
+  "ch": "指定区域最大ID",
+  "pt": "ID Máximo da Área Especificada"
+ },
+ "modEffectType3_output_value2Name": {
+  "en": "Item Produced",
+  "ch": "产出的物品",
+  "pt": "Item produzido"
+ },
+ "modEffectType3_pilCount_value2Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modEffectType3_pilEnergy_value2Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modEffectType3_randomArtifactWithSprite_value1Name": {
+  "en": "Artifact",
+  "ch": "法宝",
+  "pt": "Artefato"
+ },
+ "modEffectType3_randomArtifactWithSprite_value2Name": {
+  "en": "Artifact initial stats percentage",
+  "ch": "法宝初始属性百分比",
+  "pt": "Porcentagem dos atributos iniciais do Artefato"
+ },
+ "modEffectType3_randomArtifactWithSprite_value3Name": {
+  "en": "Artifact Spirit random minimum rarity (5–6 Rare)",
+  "ch": "器灵随机最小品质（5-6稀有）",
+  "pt": "Raridade mínima aleatória do Espírito do Artefato: 5–6 (Raro)"
+ },
+ "modEffectType3_randomArtifactWithSprite_value4Name": {
+  "en": "Artifact Spirit random maximum rarity (5–6 Rare)",
+  "ch": "器灵随机最大品质（5-6稀有）",
+  "pt": "Espírito do Artefato com raridade máxima aleatória (5–6 Raro)"
+ },
+ "modEffectType3_randomArtifactWithSprite_value5Name": {
+  "en": "Artifact Realm",
+  "ch": "法宝境界",
+  "pt": "Reino dos Artefatos"
+ },
+ "modEffectType3_relationEffect_value3Name": {
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "pt": "Número máximo de acúmulos para aumentar o atributo (-1 significa infinito)"
+ },
+ "modEffectType3_relationEffect_value4Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_relationEffect_value5Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_roleEffectAdd_value1Name": {
+  "en": "Application Probability",
+  "ch": "施加概率",
+  "pt": "Probabilidade de Aplicação"
+ },
+ "modEffectType3_roleSight_value1Name": {
+  "en": "Increased field of view",
+  "ch": "提升的视野范围",
+  "pt": "Aumento do domínio de visão"
+ },
+ "modEffectType3_schoolMoneyAdd_value1Name": {
+  "en": "Wage increase (in %)",
+  "ch": "俸禄增加百分比",
+  "pt": "Aumento salarial (em %)"
+ },
+ "modEffectType3_skillColorEffect_value1Name": {
+  "en": "Minimum color of Skill",
+  "ch": "技能的最小颜色",
+  "pt": "Cor mínima da Habilidade"
+ },
+ "modEffectType3_skillColorEffect_value2Name": {
+  "en": "Maximum color of Skill",
+  "ch": "技能的最大颜色",
+  "pt": "Cor máxima da Habilidade"
+ },
+ "modEffectType3_skillColorEffect_value3Name": {
+  "en": "Maximum number of stacks to increase Stat (-1 means infinite)",
+  "ch": "增加属性的最大层数（-1代表无限）",
+  "pt": "Número máximo de acúmulos para aumentar o atributo (-1 significa infinito)"
+ },
+ "modEffectType3_skillColorEffect_value4Name": {
+  "en": "Stats to upgrade",
+  "ch": "提升的属性",
+  "pt": "Atributos para melhorar"
+ },
+ "modEffectType3_skillColorEffect_value5Name": {
+  "en": "Value to upgrade",
+  "ch": "提升的数值",
+  "pt": "Valor para upgrade"
+ },
+ "modEffectType3_slayHide_value1Name": {
+  "en": "Trigger chance (in %)",
+  "ch": "触发概率百分比",
+  "pt": "Chance de ativação (em %)"
+ },
+ "modEffectType3_slayHide_value2Name": {
+  "en": "Launched plot",
+  "ch": "打开的剧情",
+  "pt": "Enredo lançado"
+ },
+ "modEffectType3_stealExpose_value1Name": {
+  "en": "Forced Change Percentage",
+  "ch": "强制修改的百分比",
+  "pt": "Porcentagem de Mudanças Forçadas"
+ },
+ "modEffectType3_stealExpose_value2Name": {
+  "en": "Additional text content displayed before escape is final",
+  "ch": "在逃跑结算前额外显示的文本内容",
+  "pt": "Conteúdo de texto adicional exibido antes de \"escape is final\""
+ },
+ "modEffectType3_stealSucceed_value2Name": {
+  "en": "Forced Change Percentage",
+  "ch": "强制修改的百分比",
+  "pt": "Porcentagem de Mudanças Forçadas"
+ },
+ "modEffectType3_stealSucceed_value3Name": {
+  "en": "Additional text content displayed before stealing is final",
+  "ch": "在偷取结算前额外显示的文本内容",
+  "pt": "Texto adicional exibido antes que o roubo seja finalizado"
+ },
+ "modEffectType3_taskReward_value1Name": {
+  "en": "Reward increase percentage",
+  "ch": "奖励增加百分比",
+  "pt": "Porcentagem de aumento da recompensa"
+ },
+ "modEffectType3_trainRestore_value1Name": {
+  "en": "Vitality recovered for every point of EXP",
+  "ch": "每点经验回复的体力",
+  "pt": "A Vitalidade é recuperada a cada ponto de EXP"
+ },
+ "modEffectType3_trainRestore_value2Name": {
+  "en": "Energy recovered for every point of EXP",
+  "ch": "每点经验回复的灵力",
+  "pt": "Energia recuperada por cada ponto de EXP"
+ },
+ "modEffectType3_trainRestore_value3Name": {
+  "en": "Focus recovered for every point of EXP",
+  "ch": "每点经验回复的念力",
+  "pt": "O Foco é recuperado por cada ponto de EXP"
+ },
+ "modEffectType3_trainRestore_value4Name": {
+  "en": "Notice text when triggered",
+  "ch": "触发时UI提示文本",
+  "pt": "Texto de aviso ao ser acionado"
+ },
+ "modEffectType3_trainsExp_value1Name": {
+  "en": "EXP Percentage increase",
+  "ch": "提升的经验百分比",
+  "pt": "Percentual de aumento de EXP"
+ },
+ "modEffectType3_trainsExp_value2Name": {
+  "en": "Notice text when triggered",
+  "ch": "触发时UI提示文本",
+  "pt": "Texto de aviso quando acionado"
+ },
+ "modEffectType3_trainsGive_value1Name": {
+  "en": "Notice text when triggered",
+  "ch": "触发时UI提示文本",
+  "pt": "Texto de aviso quando acionado"
+ },
+ "modEffectType3_viewItemCount_value1Name": {
+  "en": "Additional view of item quantity (-1 means all)",
+  "ch": "额外查看道具数量（-1代表所有）",
+  "pt": "Visualização adicional da quantidade de itens ( -1 significa \"todos\")"
+ },
+ "modEnum10001Desc": {
+  "en": "Different Destiny types correspond to different application scenarios.",
+  "ch": "不同的气运类型，对应不同的应用场景。",
+  "pt": "Diferentes tipos de Destino correspondem a diferentes cenários de aplicação."
+ },
+ "modEnum10001EnumDesc1": {
+  "en": "Destiny (Nature) will add this Destiny to the created character’s random Destiny pool.",
+  "ch": "先天气运会增加此气运到创建角色的气运随机池。",
+  "pt": "O Destino (Natureza) adicionará este Destino ao conjunto aleatório de Destinos do personagem criado."
+ },
+ "modEnum10001EnumDesc2": {
+  "en": "Destiny (Nurture) is normally the Destiny used when making Adventures, and can be added in the game.",
+  "ch": "后天气运一般是制作奇遇时用到的气运，能够在游戏中添加。",
+  "pt": "O Destino (Criação) é normalmente o Destino utilizado na criação de Aventuras, podendo ser adicionado ao jogo."
+ },
+ "modEnum10001EnumDesc3": {
+  "en": "Rewrite Destiny is the Destiny that appears when there is a Breakthrough.",
+  "ch": "逆天改命气运是突破时出现的气运。",
+  "pt": "Reescrever o Destino é o Destino que surge quando há um Avanço."
+ },
+ "modEnum10001EnumName1": {
+  "en": "1-Destiny (Nature)",
+  "ch": "1-先天气运",
+  "pt": "1-Destino (Natureza)"
+ },
+ "modEnum10001EnumName3": {
+  "en": "3-Rewrite Destiny",
+  "ch": "3-逆天改命气运",
+  "pt": "3-Reescrever o Destino"
+ },
+ "modEnum10001Title": {
+  "en": "Destiny Type",
+  "ch": "气运类型",
+  "pt": "Tipo de Destino"
+ },
+ "modEnum10002Desc": {
+  "en": "The better the Destiny, the higher its rarity (Negative Destiny will have worse quality the higher its rarity)",
+  "ch": "越好的气运，气运品质越高（负面的气运，品质越高越差）",
+  "pt": "Quanto melhor o Destino, maior sua raridade (Destinos Negativos terão qualidade pior quanto maior sua raridade)."
+ },
+ "modEnum10002EnumName-1": {
+  "en": "-1 <w>Common</w> (Negative)",
+  "ch": "-1 <w>白</w>（负面）",
+  "pt": "-1 <w>Comum</w> (Negativo)"
+ },
+ "modEnum10002EnumName-2": {
+  "en": "-2 <g>Uncommon</g> (Negative)",
+  "ch": "-2 <g>绿</g>（负面）",
+  "pt": "-2 <g>Pouco comum</g> (Negativo)"
+ },
+ "modEnum10002EnumName-3": {
+  "en": "-3 <b>Rare</b> (Negative)",
+  "ch": "-3 <b>蓝</b>（负面）",
+  "pt": "-3 <b>Raro</b> (Negativo)"
+ },
+ "modEnum10002EnumName-4": {
+  "en": "-4 <p>Epic</p> (Negative)",
+  "ch": "-4 <p>紫</p>（负面）",
+  "pt": "-4 <p>Epic</p> (Negativo)"
+ },
+ "modEnum10002EnumName-5": {
+  "en": "-5 <o>Legendary</o> (Negative)",
+  "ch": "-5 <o>橙</o>（负面）",
+  "pt": "-5 <o>Lendário</o> (Negativo)"
+ },
+ "modEnum10002EnumName-6": {
+  "en": "-6 <r>Mythic</r> (Negative)",
+  "ch": "-6 <r>红</r>（负面）",
+  "pt": "-6 <r>Mítico</r> (Negativo)"
+ },
+ "modEnum10002EnumName1": {
+  "en": "1 <w>Common</w>",
+  "ch": "1 <w>白</w>",
+  "pt": "1 <w>Comum</w>"
+ },
+ "modEnum10002EnumName2": {
+  "en": "2 <g>Uncommon</g>",
+  "ch": "2 <g>绿</g>",
+  "pt": "2 <g>Incomum</g>"
+ },
+ "modEnum10002EnumName3": {
+  "en": "3 <b>Rare</b>",
+  "ch": "3 <b>蓝</b>",
+  "pt": "3 <b>Raro</b>"
+ },
+ "modEnum10002EnumName5": {
+  "en": "5 <o>Legendary</o>",
+  "ch": "5 <o>橙</o>",
+  "pt": "5 <o>Lendário</o>"
+ },
+ "modEnum10002EnumName6": {
+  "en": "6 <r>Mythic</r>",
+  "ch": "6 <r>红</r>",
+  "pt": "6 <r>Mítico</r>"
+ },
+ "modEnum10002Title": {
+  "en": "Destiny Rarity",
+  "ch": "气运品质",
+  "pt": "Raridade do Destino"
+ },
+ "modEnum10003Desc": {
+  "en": "The duration handling method is different for different stack types when there are several Destinies existing at the same time.",
+  "ch": "不同的叠加类型，当多个气运同时存在时，持续时间处理方式会不一样。",
+  "pt": "O método de tratamento da duração é diferente para os diferentes tipos de pilha, quando existem vários Destinos ao mesmo tempo."
+ },
+ "modEnum10003EnumName0": {
+  "en": "0-Only one Destiny can exist at the same time. When there is a new Destiny added, the longest non-stack time is taken.",
+  "ch": "0-同时只能存在一个气运，新增气运时，不叠加时间以最长的时间为准。",
+  "pt": "Apenas um Destino pode existir por vez. Quando um novo Destino é adicionado, é considerado o período não acumulativo mais longo."
+ },
+ "modEnum10003EnumName1": {
+  "en": "1-Only one Destiny can exist at the same time. When there is a new Destiny added, the duration is stacked.",
+  "ch": "1-同时只能存在一个气运，新增气运时，叠加时间。",
+  "pt": "1 - Apenas um Destino pode existir por vez. Quando um novo Destino é adicionado, a duração é acumulada."
+ },
+ "modEnum10003EnumName2": {
+  "en": "2-If Destiny already exists, it is not added.",
+  "ch": "2-若已存在此气运，则不再添加此气运。",
+  "pt": "2 - Se o Destino já existir, ele não será adicionado."
+ },
+ "modEnum10003EnumName3": {
+  "en": "3-Multiple Destinies are stacked at the same time.",
+  "ch": "3-同时叠加多个气运。",
+  "pt": "3 - Múltiplos Destinos são acumulados ao mesmo tempo."
+ },
+ "modEnum10003Title": {
+  "en": "Duration Stack Type",
+  "ch": "持续时间叠加类型",
+  "pt": "Tipo de Acúmulo de Duração"
+ },
+ "modEnum10004Desc": {
+  "en": "Only affects the display on the UI.",
+  "ch": "只影响UI上的显示。",
+  "pt": "Affecta apenas a exibição na interface do usuário."
+ },
+ "modEnum10004EnumName0": {
+  "en": "0-Not hidden",
+  "ch": "0-不隐藏",
+  "pt": "0 - Não oculto"
+ },
+ "modEnum10004EnumName1": {
+  "en": "1-Hidden",
+  "ch": "1-隐藏",
+  "pt": "1-Oculto"
+ },
+ "modEnum10004Title": {
+  "en": "Whether Destiny is hidden in the character UI panel",
+  "ch": "气运是否隐藏在角色UI面板",
+  "pt": "Se o Destino está oculto no painel de UI do personagem"
+ },
+ "modEnum10005Desc": {
+  "en": "The better the Destiny, the greater the rarity.",
+  "ch": "越好的气运，气运品质越高。",
+  "pt": "Quanto melhor o Destino, maior a raridade."
+ },
+ "modEnum10005Title": {
+  "en": "Destiny Rarity",
+  "ch": "气运品质",
+  "pt": "Raridade do Destino"
+ },
+ "modEnum10006Desc": {
+  "en": "Different effect types have different corresponding functions.",
+  "ch": "不同的效果类型，对应不同的功能。",
+  "pt": "Diferentes tipos de efeitos têm funções correspondentes diferentes."
+ },
+ "modEnum10006EnumDesc1": {
+  "en": "Change player’s stats, and when the Destiny disappears the changed stats will be restored.",
+  "ch": "修改玩家的属性，当气运消失后，改变的属性会还原。",
+  "pt": "Altere os atributos do jogador; quando o Destino desaparecer, os atributos modificados serão restaurados."
+ },
+ "modEnum10006EnumDesc101": {
+  "en": "Immediately increase or decrease the player’s stats. Won’t be restored.",
+  "ch": "立刻增减玩家的属性，不会还原。",
+  "pt": "Aumente ou diminua imediatamente os atributos do jogador. Essas alterações não serão revertidas."
+ },
+ "modEnum10006EnumDesc2": {
+  "en": "Lock the player’s stats to a certain value. When the Destiny disappears, the locked value is restored.",
+  "ch": "锁定玩家的属性到某个值，当气运消失后，锁定的值会还原。",
+  "pt": "Bloqueie os atributos do jogador em um determinado valor. Quando o Destino desaparecer, o valor bloqueado será restaurado."
+ },
+ "modEnum10006EnumDesc3": {
+  "en": "Various function type effects.",
+  "ch": "各种功能型的效果。",
+  "pt": "Vários efeitos de tipos de função."
+ },
+ "modEnum10006EnumName1": {
+  "en": "1-Change Stats",
+  "ch": "1-修改属性",
+  "pt": "1 - Alterar Atributos"
+ },
+ "modEnum10006EnumName101": {
+  "en": "101-Add Stats",
+  "ch": "101-增加属性",
+  "pt": "101-Adicionar Atributos"
+ },
+ "modEnum10006EnumName2": {
+  "en": "2-Locked Stats",
+  "ch": "2-锁定属性",
+  "pt": "2 - Atributos bloqueados"
+ },
+ "modEnum10006EnumName3": {
+  "en": "3-Special Function",
+  "ch": "3-特殊功能",
+  "pt": "3 - Função Especial"
+ },
+ "modEnum10006Title": {
+  "en": "Effect Type",
+  "ch": "效果类型",
+  "pt": "Tipo de Efeito"
+ },
+ "modEnum10007Desc": {
+  "en": "When multiple effects change the same Stats, the plus or minus change is done first and the percentage changes are counted at the end.",
+  "ch": "当多个效果修改同一个属性时，先进行加减修改，最后在统计所有百分比修改。",
+  "pt": "Quando vários efeitos alteram os mesmos Atributos, as alterações de valor fixo são aplicadas primeiro, e as alterações percentuais são calculadas no final."
+ },
+ "modEnum10007EnumName0": {
+  "en": "0- Percentage",
+  "ch": "0-百分比",
+  "pt": "0- Percentual"
+ },
+ "modEnum10007EnumName1": {
+  "en": "1- Fixed Value",
+  "ch": "1-固定值",
+  "pt": "1- Valor Fixo"
+ },
+ "modEnum10007Title": {
+  "en": "Change Type",
+  "ch": "修改类型",
+  "pt": "Tipo de alteração"
+ },
+ "modEnum10008EnumName0": {
+  "en": "0-No item drop",
+  "ch": "0-不产出任何物品",
+  "pt": "0 - Sem item no drop"
+ },
+ "modEnum10008EnumName1": {
+  "en": "1-Martial skill",
+  "ch": "1-武技",
+  "pt": "1-Técnica Marcial"
+ },
+ "modEnum10008EnumName2": {
+  "en": "2-Special skill",
+  "ch": "2-绝技",
+  "pt": "2 - Técnica Especial"
+ },
+ "modEnum10008EnumName3": {
+  "en": "3-Ultimate skill",
+  "ch": "3-神通",
+  "pt": "3-Técnica Suprema"
+ },
+ "modEnum10008EnumName4": {
+  "en": "4-Motion skill",
+  "ch": "4-身法",
+  "pt": "4 - Técnica de Movimento"
+ },
+ "modEnum10008EnumName5": {
+  "en": "5-Mind skill",
+  "ch": "5-心法",
+  "pt": "5 - Técnica Mental"
+ },
+ "modEnum10008EnumName7": {
+  "en": "7-Artifact",
+  "ch": "7-法宝",
+  "pt": "7-Artefato"
+ },
+ "modEnum10008Title": {
+  "en": "Production Type",
+  "ch": "产出类型",
+  "pt": "Tipo de Produção"
+ },
+ "modEnum10009EnumName1": {
+  "en": "1-All",
+  "ch": "1-全部",
+  "pt": "1-Todos"
+ },
+ "modEnum10009EnumName101": {
+  "en": "101- Blade",
+  "ch": "101-刀",
+  "pt": "101- Lâmina"
+ },
+ "modEnum10009EnumName102": {
+  "en": "102- Spear",
+  "ch": "102-枪",
+  "pt": "102- Lança"
+ },
+ "modEnum10009EnumName103": {
+  "en": "103- Sword",
+  "ch": "103-剑",
+  "pt": "103 - Espada"
+ },
+ "modEnum10009EnumName104": {
+  "en": "104- Fist",
+  "ch": "104-拳",
+  "pt": "104 - Punho"
+ },
+ "modEnum10009EnumName105": {
+  "en": "105- Palm",
+  "ch": "105-掌",
+  "pt": "105- Palma"
+ },
+ "modEnum10009EnumName106": {
+  "en": "106- Finger",
+  "ch": "106-指",
+  "pt": "106- Dedo"
+ },
+ "modEnum10009EnumName111": {
+  "en": "111-Fire",
+  "ch": "111-火",
+  "pt": "111-Fogo"
+ },
+ "modEnum10009EnumName112": {
+  "en": "112- Water",
+  "ch": "112-水",
+  "pt": "112- Água"
+ },
+ "modEnum10009EnumName113": {
+  "en": "113- Lightning",
+  "ch": "113-雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "113- Relâmpago"
+ },
+ "modEnum10009EnumName114": {
+  "en": "114- Wind",
+  "ch": "114-风",
+  "pt": "114- Vento"
+ },
+ "modEnum10009EnumName115": {
+  "en": "115- Earth",
+  "ch": "115-土",
+  "pt": "115- Terra"
+ },
+ "modEnum10009EnumName116": {
+  "en": "116- Wood",
+  "ch": "116-木",
+  "pt": "116- Madeira"
+ },
+ "modEnum10009EnumName2": {
+  "en": "Special Skill",
+  "ch": "绝技",
+  "pt": "Técnica Especial"
+ },
+ "modEnum10009EnumName3": {
+  "en": "Motion Skill",
+  "ch": "身法",
+  "pt": "Técnica de Movimento"
+ },
+ "modEnum10009EnumName4": {
+  "en": "Mind Skill",
+  "ch": "心法",
+  "pt": "Técnica Mental"
+ },
+ "modEnum10009EnumName5": {
+  "en": "Ultimate Skill",
+  "ch": "神通",
+  "pt": "Técnica Suprema"
+ },
+ "modEnum10009Title": {
+  "en": "Manual Type",
+  "ch": "秘籍类型",
+  "pt": "Tipo de Manual"
+ },
+ "modEnum10010EnumName1": {
+  "en": "1-Qi Refining Realm",
+  "ch": "1-练气境",
+  "pt": "1- Reino do Refinamento de Qi"
+ },
+ "modEnum10010EnumName10": {
+  "en": "10-Transcendent Realm",
+  "ch": "10-登仙境",
+  "pt": "10 - Reino da Transcendência"
+ },
+ "modEnum10010EnumName100": {
+  "en": "100-Player’s current Realm",
+  "ch": "100-玩家当前境界",
+  "pt": "O Reino atual do Jogador 100"
+ },
+ "modEnum10010EnumName2": {
+  "en": "2-Foundation Realm",
+  "ch": "2-筑基境",
+  "pt": "2 - Reino da Fundação"
+ },
+ "modEnum10010EnumName3": {
+  "en": "3-Qi Condensation Realm",
+  "ch": "3-结晶境",
+  "pt": "3 - Reino da Condensação de Qi"
+ },
+ "modEnum10010EnumName4": {
+  "en": "4-Golden Core Realm",
+  "ch": "4-金丹境",
+  "pt": "4 - Reino do Núcleo Dourado"
+ },
+ "modEnum10010EnumName5": {
+  "en": "5-Origin Spirit Realm",
+  "ch": "5-具灵境",
+  "pt": "5 - Reino do Espírito de Origem"
+ },
+ "modEnum10010EnumName6": {
+  "en": "6-Nascent Soul Realm",
+  "ch": "6-元婴境",
+  "pt": "6 - Reino da Alma Nascente"
+ },
+ "modEnum10010EnumName7": {
+  "en": "7-Soul Formation Realm",
+  "ch": "7-化神境",
+  "pt": "7 - Reino da Formação da Alma"
+ },
+ "modEnum10010EnumName8": {
+  "en": "8-Enlightenment Realm",
+  "ch": "8-悟道境",
+  "pt": "8 - Reino da Iluminação"
+ },
+ "modEnum10010EnumName9": {
+  "en": "9-Reborn Realm",
+  "ch": "9-羽化境",
+  "pt": "9-Reino do Renascimento"
+ },
+ "modEnum10010Title": {
+  "en": "Manual Realm",
+  "ch": "秘籍境界",
+  "pt": "Manual do Reino"
+ },
+ "modEnum10011EnumName-1": {
+  "en": "Random",
+  "ch": "随机",
+  "pt": "Aleatório"
+ },
+ "modEnum10011EnumName1": {
+  "en": "Move",
+  "ch": "劲",
+  "pt": "Mover"
+ },
+ "modEnum10011EnumName3": {
+  "en": "Technique",
+  "ch": "式",
+  "pt": "Técnica"
+ },
+ "modEnum10011EnumName4": {
+  "en": "Guide",
+  "ch": "诀",
+  "pt": "Guia"
+ },
+ "modEnum10011EnumName5": {
+  "en": "Compendium",
+  "ch": "录",
+  "pt": "Compêndio"
+ },
+ "modEnum10011EnumName6": {
+  "en": "Secret Manual",
+  "ch": "秘卷",
+  "pt": "Manual Secreto"
+ },
+ "modEnum10011EnumName7": {
+  "en": "Divine Power",
+  "ch": "神功",
+  "pt": "Poder Divino"
+ },
+ "modEnum10011EnumName8": {
+  "en": "Mastery",
+  "ch": "大法",
+  "pt": "Domínio"
+ },
+ "modEnum10011Title": {
+  "en": "Mind Skill Type",
+  "ch": "心法类型",
+  "pt": "Tipo de Técnica Mental"
+ },
+ "modEnum10012EnumName0": {
+  "en": "0 Random Color",
+  "ch": "0 随机颜色",
+  "pt": "0 Cor Aleatória"
+ },
+ "modEnum10012EnumName1": {
+  "en": "1 <w>Common</w>",
+  "ch": "1 <w>白</w>",
+  "pt": "1 <w>Comum</w>"
+ },
+ "modEnum10012EnumName2": {
+  "en": "2 <g>Uncommon</g>",
+  "ch": "2 <g>绿</g>",
+  "pt": "2 <g>Pouco comum</g>"
+ },
+ "modEnum10012EnumName3": {
+  "en": "3 <b>Rare</b>",
+  "ch": "3 <b>蓝</b>",
+  "pt": "3 <b>Raro</b>"
+ },
+ "modEnum10012EnumName4": {
+  "en": "4 <p>Epic</p>",
+  "ch": "4 <p>紫</p>",
+  "pt": "4 <p>Épico</p>"
+ },
+ "modEnum10012EnumName5": {
+  "en": "5 <o>Legendary</o>",
+  "ch": "5 <o>橙</o>",
+  "pt": "5 <o>Lendário</o>"
+ },
+ "modEnum10012EnumName6": {
+  "en": "6 <r>Mythic</r>",
+  "ch": "6 <r>红</r>",
+  "pt": "6 <r>Mítico</r>"
+ },
+ "modEnum10012Title": {
+  "en": "Manual Level",
+  "ch": "秘籍等级",
+  "pt": "Nível Manual"
+ },
+ "modEnum10013EnumName0": {
+  "en": "0-Random",
+  "ch": "0-随机",
+  "pt": "0-Aleatório"
+ },
+ "modEnum10013EnumName1": {
+  "en": "1-Fixed Male",
+  "ch": "1-固定男",
+  "pt": "1-Masculino fixo"
+ },
+ "modEnum10013EnumName2": {
+  "en": "2-Fixed Female",
+  "ch": "2-固定女",
+  "pt": "2-Fêmea fixa"
+ },
+ "modEnum10013EnumName3": {
+  "en": "3-Same as the player",
+  "ch": "3-与玩家相同",
+  "pt": "3 - Igual ao jogador"
+ },
+ "modEnum10013EnumName4": {
+  "en": "4-Different from the player",
+  "ch": "4-与玩家不同",
+  "pt": "4 - Diferente do jogador"
+ },
+ "modEnum10013Title": {
+  "en": "Gender Type",
+  "ch": "性别类型",
+  "pt": "Tipo de gênero"
+ },
+ "modEnum10014EnumName0": {
+  "en": "0- No Relationship",
+  "ch": "0-无关系",
+  "pt": "0 - Sem relacionamento"
+ },
+ "modEnum10014EnumName1": {
+  "en": "1-Parents",
+  "ch": "1-父母",
+  "pt": "1-Pais"
+ },
+ "modEnum10014EnumName10": {
+  "en": "10-Master",
+  "ch": "10-师父",
+  "pt": "10-Mestre"
+ },
+ "modEnum10014EnumName100": {
+  "en": "100-Friend",
+  "ch": "100-好友",
+  "pt": "100-Amigo"
+ },
+ "modEnum10014EnumName101": {
+  "en": "101-Enemy",
+  "ch": "101-仇人",
+  "pt": "101-Inimigo"
+ },
+ "modEnum10014EnumName11": {
+  "en": "11-Apprentice",
+  "ch": "11-徒弟",
+  "pt": "11-Aprendiz"
+ },
+ "modEnum10014EnumName2": {
+  "en": "2-Child",
+  "ch": "2-子女",
+  "pt": "2-Criança"
+ },
+ "modEnum10014EnumName6": {
+  "en": "6-Adoptive Child",
+  "ch": "6-义子女",
+  "pt": "6- Filho adotivo"
+ },
+ "modEnum10014EnumName7": {
+  "en": "7-Sworn Older Brother",
+  "ch": "7-义兄弟",
+  "pt": "7 - Irmão Mais Velho Juramentado"
+ },
+ "modEnum10014EnumName8": {
+  "en": "8-Spouse",
+  "ch": "8-夫妻",
+  "pt": "8-Cônjuge"
+ },
+ "modEnum10014EnumName9": {
+  "en": "9-Couple",
+  "ch": "9-情侣",
+  "pt": "9-Casal"
+ },
+ "modEnum10014Title": {
+  "en": "Relationship Type",
+  "ch": "关系类型",
+  "pt": "Tipo de Relacionamento"
+ },
+ "modEnum10015EnumName1": {
+  "en": "1-When adding Destiny",
+  "ch": "1-添加气运时",
+  "pt": "1 - Ao adicionar o Destino"
+ },
+ "modEnum10015EnumName2": {
+  "en": "2-When removing Destiny",
+  "ch": "2-移除气运时",
+  "pt": "2 - Ao remover o Destino"
+ },
+ "modEnum10015EnumName3": {
+  "en": "3-When the Destiny duration is reached",
+  "ch": "3-气运持续时间达到时",
+  "pt": "3 - Quando o período do Destino chega ao fim"
+ },
+ "modEnum10015EnumName4": {
+  "en": "4-Every month",
+  "ch": "4-每个月",
+  "pt": "4- Todo mês"
+ },
+ "modEnum10015Title": {
+  "en": "Time the item is produced",
+  "ch": "什么时候产出物品",
+  "pt": "Horário em que o item é produzido"
+ },
+ "modEnum10016EnumName0": {
+  "en": "0- Percentage",
+  "ch": "0-百分比",
+  "pt": "0- Porcentagem"
+ },
+ "modEnum10016EnumName1": {
+  "en": "1-Fixed Number",
+  "ch": "1-固定数值",
+  "pt": "1-Número Fixo"
+ },
+ "modEnum10016Title": {
+  "en": "Change Type",
+  "ch": "修改类型",
+  "pt": "Tipo de alteração"
+ },
+ "modEnum10017EnumDesc0": {
+  "en": "Stats with the max values can be used, like Stamina, Vitality, etc.",
+  "ch": "有最大数值的属性才能使用，如体力、精力等等。",
+  "pt": "Podem ser utilizados Atributos com valores máximos, como Vigor, Vitalidade, etc."
+ },
+ "modEnum10017EnumName0": {
+  "en": "0-Greatest Percentage",
+  "ch": "0-最大百分比",
+  "pt": "0 - Maior Porcentagem"
+ },
+ "modEnum10017EnumName1": {
+  "en": "1-Fixed Number",
+  "ch": "1-固定数值",
+  "pt": "1-Número Fixo"
+ },
+ "modEnum10017EnumName2": {
+  "en": "2-Current Percentage",
+  "ch": "2-当前百分比",
+  "pt": "2- Porcentagem atual"
+ },
+ "modEnum10017Title": {
+  "en": "Change Type",
+  "ch": "修改类型",
+  "pt": "Tipo de alteração"
+ },
+ "modEnum10018EnumName1": {
+  "en": "1-Affinity increase speed",
+  "ch": "1-亲密度提升速度",
+  "pt": "1 - A Afinidade aumenta a Velocidade"
+ },
+ "modEnum10018EnumName2": {
+  "en": "2-Affinity decrease speed",
+  "ch": "2-亲密度下降速度",
+  "pt": "2 - Reduz a velocidade devido à diminuição da Afinidade"
+ },
+ "modEnum10018EnumName3": {
+  "en": "3-Hatred increase speed",
+  "ch": "3-仇恨度提升速度",
+  "pt": "3 - Aumenta a velocidade do ódio"
+ },
+ "modEnum10018EnumName4": {
+  "en": "4-Hatred decrease speed",
+  "ch": "4-仇恨度下降速度",
+  "pt": "4 - Reduz a velocidade da diminuição do ódio"
+ },
+ "modEnum10018Title": {
+  "en": "Affinity Change Method",
+  "ch": "亲密度变化方式",
+  "pt": "Método de Alteração de Afinidade"
+ },
+ "modEnum10019EnumName1": {
+  "en": "1-Inspect Bag",
+  "ch": "1-查看背包",
+  "pt": "1 - Inspecionar a bagagem"
+ },
+ "modEnum10019EnumName10": {
+  "en": "10-Initiate entry into World Map Dungeon",
+  "ch": "10-主动进入大地图副本",
+  "pt": "10 - Iniciar a entrada na Masmorra do Mapa do Mundo"
+ },
+ "modEnum10019EnumName11": {
+  "en": "11-World Map Cultivation and Sect Cultivation",
+  "ch": "11-大地图修炼及宗门修炼",
+  "pt": "11 - Cultivo no Mapa do Mundo e Cultivo em Seitas"
+ },
+ "modEnum10019EnumName12": {
+  "en": "12-Talk",
+  "ch": "12-交谈",
+  "pt": "12 - Conversa"
+ },
+ "modEnum10019EnumName2": {
+  "en": "2-Steal",
+  "ch": "2-偷盗",
+  "pt": "2 - Roubar"
+ },
+ "modEnum10019EnumName3": {
+  "en": "3-Escape",
+  "ch": "3-逃跑",
+  "pt": "3 - Fuga"
+ },
+ "modEnum10019EnumName4": {
+  "en": "4-Attack Others",
+  "ch": "4-攻击他人",
+  "pt": "4 - Atacar Outros"
+ },
+ "modEnum10019EnumName5": {
+  "en": "5-Request",
+  "ch": "5-索取",
+  "pt": "5-Solicitação"
+ },
+ "modEnum10019EnumName7": {
+  "en": "7-Escort",
+  "ch": "7-押镖",
+  "pt": "7-Escolta"
+ },
+ "modEnum10019EnumName8": {
+  "en": "8-Gift Item",
+  "ch": "8-赠送道具",
+  "pt": "8- Item de presente"
+ },
+ "modEnum10019EnumName9": {
+  "en": "9-Dual Cultivation",
+  "ch": "9-双修",
+  "pt": "9 - Cultivo Dual"
+ },
+ "modEnum10019Title": {
+  "en": "Forbidden Actions",
+  "ch": "禁止的行为",
+  "pt": "Ações proibidas"
+ },
+ "modEnum1001Title": {
+  "en": "Realm",
+  "ch": "境界",
+  "pt": "Reino"
+ },
+ "modEnum10020EnumName2": {
+  "en": "2-Mount",
+  "ch": "2-坐骑",
+  "pt": "2-Montaria"
+ },
+ "modEnum10020Title": {
+  "en": "Items forbidden from use",
+  "ch": "禁止使用的物品",
+  "pt": "Itens cujo uso é proibido"
+ },
+ "modEnum10021EnumName0": {
+  "en": "0-No Requirements",
+  "ch": "0-无条件",
+  "pt": "0 - Sem requisitos"
+ },
+ "modEnum10021EnumName1": {
+  "en": "1-Lower or equal to self (Counting small Realms)",
+  "ch": "1-低于或等于自身（算上小境界）",
+  "pt": "1 - Menor ou igual a si mesmo (contando os Reinos menores)"
+ },
+ "modEnum10021Title": {
+  "en": "Target’s Realm Requirements",
+  "ch": "目标的境界条件",
+  "pt": "Requisitos do Reino do Alvo"
+ },
+ "modEnum10022EnumName0": {
+  "en": "0-No Requirements",
+  "ch": "0-无条件",
+  "pt": "0 - Sem requisitos"
+ },
+ "modEnum10022Title": {
+  "en": "Realm Requirements",
+  "ch": "境界条件",
+  "pt": "Requisitos do Reino"
+ },
+ "modEnum10023EnumName1": {
+  "en": "1-Early",
+  "ch": "1-前期",
+  "pt": "1 - Cedo"
+ },
+ "modEnum10023EnumName2": {
+  "en": "2-Middle",
+  "ch": "2-中期",
+  "pt": "2 - Médio"
+ },
+ "modEnum10023EnumName3": {
+  "en": "3-Late",
+  "ch": "3-后期",
+  "pt": "3-Tarde"
+ },
+ "modEnum10023Title": {
+  "en": "Period Requirements",
+  "ch": "期数条件",
+  "pt": "Requisitos por período"
+ },
+ "modEnum10024EnumName0": {
+  "en": "0-Can be defeated in battle",
+  "ch": "0-战斗击败即可",
+  "pt": "0 - Pode ser derrotado em uma batalha"
+ },
+ "modEnum10024EnumName1": {
+  "en": "1-Must be killed after battle",
+  "ch": "1-战斗后需要杀死",
+  "pt": "1 - Deve ser morto após a batalha"
+ },
+ "modEnum10024Title": {
+  "en": "Attack Requirements",
+  "ch": "击杀条件",
+  "pt": "Requisitos para o ataque"
+ },
+ "modEnum10025EnumName0": {
+  "en": "0-Day Cost",
+  "ch": "0-天数消耗",
+  "pt": "Custo do 0-Day"
+ },
+ "modEnum10025EnumName1": {
+  "en": "1-Spirit Stone Cost",
+  "ch": "1-灵石消耗",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "1 - Custo da Pedra Espiritual"
+ },
+ "modEnum10025EnumName2": {
+  "en": "2-Mood Cost",
+  "ch": "2-心情消耗",
+  "pt": "2-Custo do Humor"
+ },
+ "modEnum10025Title": {
+  "en": "Change Cost Type",
+  "ch": "修改消耗类型",
+  "pt": "Alterar o tipo de custo"
+ },
+ "modEnum10026EnumName-1": {
+  "en": "-1-Follow Player Realm",
+  "ch": "-1-跟随玩家境界",
+  "pt": "-1-Seguir Reino do Jogador"
+ },
+ "modEnum10027EnumName6": {
+  "en": "6-Vitality Cost",
+  "ch": "6-体力消耗",
+  "pt": "6 - Custo da Vitalidade"
+ },
+ "modEnum10027EnumName7": {
+  "en": "7-Energy Cost",
+  "ch": "7-灵力消耗",
+  "pt": "7 - Custo de Energia"
+ },
+ "modEnum10027EnumName8": {
+  "en": "8-Focus Cost",
+  "ch": "8-念力消耗",
+  "pt": "8-Foco e Custo"
+ },
+ "modEnum10027Title": {
+  "en": "Changed Cost Type",
+  "ch": "修改的消耗类型",
+  "pt": "Tipo de Custo alterado"
+ },
+ "modEnum10028EnumName0": {
+  "en": "0-Increase or Decrease Fixed Value",
+  "ch": "0-加减固定值",
+  "pt": "0-Aumentar ou diminuir valor fixo"
+ },
+ "modEnum10028EnumName1": {
+  "en": "1-Increase or Decrease Percentage",
+  "ch": "1-加减万分比",
+  "pt": "1 - Percentual de Aumento ou Diminuição"
+ },
+ "modEnum10028EnumName2": {
+  "en": "2-Equal to Fixed Value",
+  "ch": "2-等于固定值",
+  "pt": "2 - Igual ao valor fixo"
+ },
+ "modEnum10028Title": {
+  "en": "Change Method",
+  "ch": "修改方式",
+  "pt": "Método de Alteração"
+ },
+ "modEnum10029Desc": {
+  "en": "Different trigger types can control the triggering method of Adventure. You need to open the Plot to enter the Adventure after it's triggered.\n\nE.g., 1- Move one tile in the World Map: Every time you move by one tile on the World Map, the triggering of Adventure will be determined based on probability.",
+  "ch": "不同的触发类型，可以控制奇遇的触发方式，奇遇触发后需要打开剧情才能进入奇遇流程。\n\n例如：1-在大地图移动一格，则在大地图每移动一格，都会根据概率判断是否会触发奇遇。",
+  "pt": "Existem diversos tipos de gatilhos que podem controlar o método de ativação da Aventura. Após ser ativada, você precisará abrir o Mapa para entrar na Aventura.\n\nEx.: 1 - Mover um quadrado no Mapa do Mundo: toda vez que você se move um quadrado no Mapa do Mundo, a ativação da Aventura será determinada por meio de uma probabilidade."
+ },
+ "modEnum10029EnumName1": {
+  "en": "1-Move one space in the World Map",
+  "ch": "1-在大地图移动一格",
+  "pt": "1 - Mova-se um espaço no Mapa do Mundo."
+ },
+ "modEnum10029EnumName10": {
+  "en": "10-Player mines in the World Map",
+  "ch": "10-玩家在大地图采矿",
+  "pt": "Minas para 10 jogadores no Mapa do Mundo"
+ },
+ "modEnum10029EnumName11": {
+  "en": "11-Player does geomancy in the World Map",
+  "ch": "11-玩家在大地图堪舆",
+  "pt": "O 11-Player pratica geomancia no Mapa do Mundo."
+ },
+ "modEnum10029EnumName12": {
+  "en": "12-Player breaks through the Realm",
+  "ch": "12-玩家突破了大境界",
+  "pt": "12 Jogadores rompem as barreiras do Reino"
+ },
+ "modEnum10029EnumName13": {
+  "en": "13-Player finished the battle in the Dungeon, before opening the Results UI",
+  "ch": "13-玩家在副本中战斗结束，打开结算UI前",
+  "pt": "O jogador 13 terminou a batalha na masmorra, antes de abrir a interface de resultados."
+ },
+ "modEnum10029EnumName2": {
+  "en": "2- Enter the World Map (Returning to the World Map in the middle of battle also counts)",
+  "ch": "2-进入大地图（战斗中返回大地图也算）",
+  "pt": "2- Acesse o Mapa do Mundo (Retornar ao Mapa do Mundo no meio de uma batalha também conta)"
+ },
+ "modEnum10029EnumName3": {
+  "en": "3-Monthly running end",
+  "ch": "3-每个月运转结束",
+  "pt": "Fim do ciclo trimestral"
+ },
+ "modEnum10029EnumName4": {
+  "en": "4-Opened Tavern UI",
+  "ch": "4-打开了酒馆UI",
+  "pt": "4 - Interface da Taverna aberta"
+ },
+ "modEnum10029EnumName5": {
+  "en": "5-Opened Town UI",
+  "ch": "5-打开了城镇UI",
+  "pt": "5 - Abrir a interface da Vila"
+ },
+ "modEnum10029EnumName6": {
+  "en": "6-Opened Sect UI",
+  "ch": "6-打开了宗门UI",
+  "pt": "6 - Abriu a interface do usuário da Seita"
+ },
+ "modEnum10029EnumName7": {
+  "en": "7-Player died in battle in the Dungeon",
+  "ch": "7-玩家在副本中战斗死亡",
+  "pt": "7 - O jogador morreu em uma batalha na masmorra."
+ },
+ "modEnum10029EnumName8": {
+  "en": "8-Player escaped from the Dungeon and returned to the World Map",
+  "ch": "8-玩家在副本中逃跑，回到了大地图",
+  "pt": "8 jogadores escaparam da masmorra e retornaram à Mapa do Mundo."
+ },
+ "modEnum10029EnumName9": {
+  "en": "9-Player cultivates in the World Map",
+  "ch": "9-玩家在大地图修炼",
+  "pt": "O Jogador 9 pratica o cultivo no Mapa do Mundo."
+ },
+ "modEnum10029Title": {
+  "en": "Trigger Type",
+  "ch": "触发类型",
+  "pt": "Tipo de gatilho"
+ },
+ "modEnum1002Title": {
+  "en": "Level",
+  "ch": "等级",
+  "pt": "Nível"
+ },
+ "modEnum10030EnumName0": {
+  "en": "0-Cannot be triggered repeatedly",
+  "ch": "0-不可重复触发",
+  "pt": "0 - Não pode ser acionado repetidamente"
+ },
+ "modEnum10030EnumName1": {
+  "en": "1-Can be triggered repeatedly",
+  "ch": "1-可以重复触发",
+  "pt": "1-Pode ser acionado repetidamente"
+ },
+ "modEnum10030Title": {
+  "en": "Can it be triggered repeatedly?",
+  "ch": "是否可以重复触发",
+  "pt": "Pode ser acionado repetidamente?"
+ },
+ "modEnum10031EnumName-1": {
+  "en": "Mission not accepted",
+  "ch": "未领取任务",
+  "pt": "Missão não aceita"
+ },
+ "modEnum10031EnumName0": {
+  "en": "Mission accepted but not completed",
+  "ch": "已领取任务，但是未完成",
+  "pt": "Missão aceita, mas não concluída"
+ },
+ "modEnum10031EnumName10": {
+  "en": "Mission was accepted in the past",
+  "ch": "曾经接取过任务",
+  "pt": "A Missão foi aceita no passado."
+ },
+ "modEnum10031EnumName11": {
+  "en": "Mission was completed in the past",
+  "ch": "曾经完成过任务",
+  "pt": "A Missão foi concluída no passado."
+ },
+ "modEnum10031EnumName12": {
+  "en": "Mission claimed, not completed, or mission expired",
+  "ch": "领取过任务，未完成并且任务过期了",
+  "pt": "Missão reivindicada, não concluída ou com prazo expirado"
+ },
+ "modEnum10031Title": {
+  "en": "Mission status type",
+  "ch": "任务状态类型",
+  "pt": "Tipo de status da Missão"
+ },
+ "modEnum10032EnumName0": {
+  "en": "0 = No conditions",
+  "ch": "0 无条件",
+  "pt": "0 = Sem condições"
+ },
+ "modEnum10032Title": {
+  "en": "Rarity type",
+  "ch": "品质类型",
+  "pt": "Tipo de raridade"
+ },
+ "modEnum10033EnumName0": {
+  "en": "0- ≤",
+  "ch": "0-小于等于",
+  "pt": "0- ≤"
+ },
+ "modEnum10033EnumName1": {
+  "en": "1- =",
+  "ch": "1-等于",
+  "pt": "1- ="
+ },
+ "modEnum10033EnumName2": {
+  "en": "2- ≥",
+  "ch": "2-大于等于",
+  "pt": "2- ≥"
+ },
+ "modEnum10033Title": {
+  "en": "Compare types",
+  "ch": "比较类型",
+  "pt": "Comparar tipos"
+ },
+ "modEnum10034EnumDesc1": {
+  "en": "Vitality, energy, and focus have different values, so the actual comparison values need scaling.",
+  "ch": "因为体、灵、念属性价值不一样，实际比较值需要除以一定的缩放。",
+  "pt": "A Vitalidade, a Energia e o Foco possuem valores diferentes; portanto, os valores de comparação reais precisam ser ajustados."
+ },
+ "modEnum10034EnumName1": {
+  "en": "1- Vitality, energy, focus (vitality/100, energy/20, focus/10)",
+  "ch": "1-体灵念（体/100，灵/20，念/10）",
+  "pt": "1- Vitalidade, energia, foco (Vitalidade/100, Energia/20, Foco/10)"
+ },
+ "modEnum10034EnumName2": {
+  "en": "2- All weapon stats",
+  "ch": "2-所有武器资质",
+  "pt": "2- Todos os atributos das armas"
+ },
+ "modEnum10034EnumName3": {
+  "en": "3- All spiritual root stats",
+  "ch": "3-所有灵根资质",
+  "pt": "3- Todos os atributos da raiz espiritual"
+ },
+ "modEnum10034EnumName4": {
+  "en": "4- All weapon & spiritual root stats",
+  "ch": "4-所有武器资质与灵根资质",
+  "pt": "4- Todos os atributos das armas e da raiz espiritual"
+ },
+ "modEnum10034Title": {
+  "en": "Stat group to compare",
+  "ch": "比较的属性组",
+  "pt": "Grupo de estatísticas para comparar"
+ },
+ "modEnum10035Desc": {
+  "en": "If the character has a sect, then go by the sect faction, if not, compare to the character's own righteous/demonic value.",
+  "ch": "若角色有宗门则按宗门立场，若没有宗门，则对比自己的正魔值。",
+  "pt": "Se o personagem pertence a uma seita, deve-se considerar a facção da seita; caso contrário, compare com o valor próprio de justo/demoníaco do personagem."
+ },
+ "modEnum10035EnumName1": {
+  "en": "1- Righteous",
+  "ch": "1-正道",
+  "pt": "1- Justo"
+ },
+ "modEnum10035EnumName2": {
+  "en": "2- Demonic",
+  "ch": "2-魔道",
+  "pt": "2- Demoníaco"
+ },
+ "modEnum10035Title": {
+  "en": "Faction",
+  "ch": "正魔类型",
+  "pt": "Facção"
+ },
+ "modEnum10036EnumName0": {
+  "en": "0- Not in a sect",
+  "ch": "0-无宗门",
+  "pt": "0 - Não pertence a nenhuma seita"
+ },
+ "modEnum10036EnumName1": {
+  "en": "1- In a sect",
+  "ch": "1-有宗门",
+  "pt": "1- Em uma seita"
+ },
+ "modEnum10036Title": {
+  "en": "Sect condition",
+  "ch": "宗门条件",
+  "pt": "Condição da Seita"
+ },
+ "modEnum10037EnumName1": {
+  "en": "1- Sect Leader",
+  "ch": "1-宗主",
+  "pt": "1- Líder da Seita"
+ },
+ "modEnum10037EnumName2": {
+  "en": "2- Grand Elder",
+  "ch": "2-大长老",
+  "pt": "2- Grão-Ancião"
+ },
+ "modEnum10037EnumName3": {
+  "en": "3- Elder",
+  "ch": "3-长老",
+  "pt": "3- Ancião"
+ },
+ "modEnum10037EnumName4": {
+  "en": "4- True Disciple",
+  "ch": "4-真传弟子",
+  "pt": "4- Verdadeiro Discípulo"
+ },
+ "modEnum10037EnumName5": {
+  "en": "5- Disciple",
+  "ch": "5-内门弟子",
+  "pt": "5- Discípulo"
+ },
+ "modEnum10037EnumName6": {
+  "en": "6- Initiate",
+  "ch": "6-外门弟子",
+  "pt": "6- Iniciar"
+ },
+ "modEnum10037Title": {
+  "en": "Sect type",
+  "ch": "宗门类型",
+  "pt": "Tipo de Seita"
+ },
+ "modEnum10038EnumName3": {
+  "en": "3- Herb",
+  "ch": "3-药材",
+  "pt": "3- Erva"
+ },
+ "modEnum10038EnumName4": {
+  "en": "4- Ore",
+  "ch": "4-金石",
+  "pt": "4- Minério"
+ },
+ "modEnum10038Title": {
+  "en": "Tile value type",
+  "ch": "格子数值类型",
+  "pt": "Tipo de valor do tile"
+ },
+ "modEnum10039EnumName0": {
+  "en": "0- Not specified",
+  "ch": "0-不指定",
+  "pt": "0 - Não especificado"
+ },
+ "modEnum10039EnumName1": {
+  "en": "1- Weapon",
+  "ch": "1-武器",
+  "pt": "1- Arma"
+ },
+ "modEnum10039EnumName2": {
+  "en": "2- Element",
+  "ch": "2-属性",
+  "pt": "2- Elemento"
+ },
+ "modEnum10039Title": {
+  "en": "Elemental type of equipped martial and special skills",
+  "ch": "装备的武技和绝技的属性种类",
+  "pt": "Tipo elemental das técnicas de combate e técnica especial equipadas"
+ },
+ "modEnum1003EnumName10": {
+  "en": "10-Friend",
+  "ch": "10-朋友",
+  "pt": "10-Amigo"
+ },
+ "modEnum1003EnumName11": {
+  "en": "11-Enemy",
+  "ch": "11-仇人",
+  "pt": "11-Inimigo"
+ },
+ "modEnum1003EnumName12": {
+  "en": "12-Same Sect",
+  "ch": "12-同宗门",
+  "pt": "12 - Mesma Seita"
+ },
+ "modEnum1003EnumName13": {
+  "en": "13-Same Faction",
+  "ch": "13-同立场",
+  "pt": "13 - Mesma Facção"
+ },
+ "modEnum1003EnumName3": {
+  "en": "3-Parent",
+  "ch": "3-父母",
+  "pt": "3-Parente"
+ },
+ "modEnum1003EnumName4": {
+  "en": "4-Child",
+  "ch": "4-子女",
+  "pt": "4-Criança"
+ },
+ "modEnum1003EnumName5": {
+  "en": "5-Spouse",
+  "ch": "5-夫妻",
+  "pt": "5- Cônjuge"
+ },
+ "modEnum1003EnumName6": {
+  "en": "6-Couple",
+  "ch": "6-情侣",
+  "pt": "6-Casal"
+ },
+ "modEnum1003EnumName7": {
+  "en": "7-Sworn brother",
+  "ch": "7-兄弟",
+  "pt": "7 - Irmão de juramento"
+ },
+ "modEnum1003EnumName8": {
+  "en": "8-Master",
+  "ch": "8-师父",
+  "pt": "8-Mestre"
+ },
+ "modEnum1003EnumName9": {
+  "en": "9-Apprentice",
+  "ch": "9-徒弟",
+  "pt": "9 - Aprendiz"
+ },
+ "modEnum1003Title": {
+  "en": "Relationship",
+  "ch": "关系",
+  "pt": "Relacionamento"
+ },
+ "modEnum10040EnumName0": {
+  "en": "0- No conditions",
+  "ch": "0-无条件",
+  "pt": "0- Sem condições"
+ },
+ "modEnum10040EnumName1": {
+  "en": "1- Win",
+  "ch": "1-胜利",
+  "pt": "1- Vitória"
+ },
+ "modEnum10040EnumName2": {
+  "en": "2- Loss",
+  "ch": "2-失败",
+  "pt": "2- Perda"
+ },
+ "modEnum10040Title": {
+  "en": "Battle result type",
+  "ch": "战斗的结果类型",
+  "pt": "Tipo de resultado da Batalha"
+ },
+ "modEnum10041EnumName0": {
+  "en": "0- All stats",
+  "ch": "0-全部资质",
+  "pt": "0 - Todos os atributos"
+ },
+ "modEnum10041EnumName1": {
+  "en": "1- Martial arts stats",
+  "ch": "1-功法资质",
+  "pt": "1- Atributos das Artes Marciais"
+ },
+ "modEnum10041EnumName12": {
+  "en": "12-Martial arts + Spiritual root stats",
+  "ch": "12-功法+灵根资质",
+  "pt": "12 - Atributos de Artes Marciais + Raiz Espiritual"
+ },
+ "modEnum10041EnumName2": {
+  "en": "2- Spiritual root stats",
+  "ch": "2-灵根资质",
+  "pt": "2- Atributos da Raiz Espiritual"
+ },
+ "modEnum10041EnumName3": {
+  "en": "3- Artisanship stats",
+  "ch": "3-技艺资质",
+  "pt": "3- Atributos relacionados à artesanato"
+ },
+ "modEnum10041Title": {
+  "en": "Stats comparison group",
+  "ch": "属性对比组",
+  "pt": "Grupo de comparação de Atributos"
+ },
+ "modEnum10042Desc": {
+  "en": "If the character has a sect, then go by the sect faction, if not, compare to the character's own righteous/demonic value.",
+  "ch": "若角色有宗门则按宗门立场，若没有宗门，则对比自己的正魔值。",
+  "pt": "Se o personagem pertencer a uma seita, deve-se considerar a facção da seita; caso contrário, compare-se com o valor próprio de justiça/demoníaco do personagem."
+ },
+ "modEnum10042EnumName1": {
+  "en": "1- Same",
+  "ch": "1-相同",
+  "pt": "1- Igual"
+ },
+ "modEnum10042EnumName2": {
+  "en": "2- Hostile",
+  "ch": "2-敌对",
+  "pt": "2- Hostil"
+ },
+ "modEnum10042Title": {
+  "en": "Faction type",
+  "ch": "立场类型",
+  "pt": "Tipo de facção"
+ },
+ "modEnum10043EnumName1": {
+  "en": "1- Same sect",
+  "ch": "1-相同宗门",
+  "pt": "1- Mesma seita"
+ },
+ "modEnum10043EnumName2": {
+  "en": "2- Different sect, same faction",
+  "ch": "2-不同的宗门但宗门立场相同",
+  "pt": "2- Seita diferente, mesma facção"
+ },
+ "modEnum10043EnumName3": {
+  "en": "3- Different sect, different faction",
+  "ch": "3-不同的宗门且宗门立场不同",
+  "pt": "3- Seita diferente, facção diferente"
+ },
+ "modEnum10043EnumName4": {
+  "en": "4- Hostile faction",
+  "ch": "4-敌对立场",
+  "pt": "4- Facção hostil"
+ },
+ "modEnum10043EnumName5": {
+  "en": "5- Different sect, no faction determiner",
+  "ch": "5-不同宗门，不判定宗门立场",
+  "pt": "5- Seita diferente; nenhum determinador de facção"
+ },
+ "modEnum10043EnumName6": {
+  "en": "6- Others",
+  "ch": "6-其他",
+  "pt": "6- Outros"
+ },
+ "modEnum10043Title": {
+  "en": "Sect determiner type",
+  "ch": "宗门判定类型",
+  "pt": "Tipo de determinador de Seita"
+ },
+ "modEnum10044EnumName0": {
+  "en": "0- No familial relationship",
+  "ch": "0-无亲族关系",
+  "pt": "0 - Sem relação familiar"
+ },
+ "modEnum10044EnumName1": {
+  "en": "1- With familial relationship",
+  "ch": "1-有亲族关系",
+  "pt": "1- Com relação familiar"
+ },
+ "modEnum10044Title": {
+  "en": "Familial determiner type",
+  "ch": "亲族判定类型",
+  "pt": "Tipo de determinante familiar"
+ },
+ "modEnum10045EnumName0": {
+  "en": "0- Not reversed (Player to NPC-A)",
+  "ch": "0-不反转（既玩家对NPC-A）",
+  "pt": "0 - Não invertido (Jogador para NPC-A)"
+ },
+ "modEnum10045EnumName1": {
+  "en": "1- Reversed (NPC-A to Player)",
+  "ch": "1-反转（既NPC-A对玩家）",
+  "pt": "1- Invertido (NPC-A para Jogador)"
+ },
+ "modEnum10045Title": {
+  "en": "Whether to reverse character determiner roles",
+  "ch": "是否反转角色判断位置",
+  "pt": "Se deve inverter as funções dos determinantes de caracteres"
+ },
+ "modEnum10046EnumName-1": {
+  "en": "-1-Do not determine relationship",
+  "ch": "-1-不判断关系",
+  "pt": "-1-Não determine o relacionamento"
+ },
+ "modEnum10046EnumName0": {
+  "en": "0- No Relationship",
+  "ch": "0-无任何关系",
+  "pt": "0 - Sem Relacionamento"
+ },
+ "modEnum10046EnumName10": {
+  "en": "10-Master",
+  "ch": "10-师父",
+  "pt": "10-Mestre"
+ },
+ "modEnum10046EnumName101": {
+  "en": "101-Any friendly relationship (familial + friend)",
+  "ch": "101-任何良性关系（亲族+好友）",
+  "pt": "101 - Qualquer relação de amizade (familiar ou com amigos)"
+ },
+ "modEnum10046EnumName102": {
+  "en": "102-Sect",
+  "ch": "102-宗门",
+  "pt": "102-Seita"
+ },
+ "modEnum10046EnumName103": {
+  "en": "103-Friend",
+  "ch": "103-好友",
+  "pt": "103-Amigo"
+ },
+ "modEnum10046EnumName104": {
+  "en": "104-Enemy",
+  "ch": "104-仇人",
+  "pt": "104-Inimigo"
+ },
+ "modEnum10046EnumName105": {
+  "en": "105-Parent, adoptive parent, master",
+  "ch": "105-我的长辈（父母、义父母、师父）",
+  "pt": "105- Pai, pai adotivo, mestre"
+ },
+ "modEnum10046EnumName106": {
+  "en": "106-Friend, brother, sworn older brother, partner, spouse",
+  "ch": "106-我的平辈（好友、兄弟、义兄弟、道侣、夫妻）",
+  "pt": "106-Amigo, irmão, irmão mais velho por afinidade, parceiro, cônjuge"
+ },
+ "modEnum10046EnumName107": {
+  "en": "107-Child, apprentice",
+  "ch": "107-我的后辈（子女，徒弟）",
+  "pt": "107-Criança, aprendiz"
+ },
+ "modEnum10046EnumName108": {
+  "en": "108-No familial relationship",
+  "ch": "108-无亲族关系",
+  "pt": "108-Sem relação familiar"
+ },
+ "modEnum10046EnumName109": {
+  "en": "109-Same faction",
+  "ch": "109-同正魔立场",
+  "pt": "109 - Mesma facção"
+ },
+ "modEnum10046EnumName11": {
+  "en": "11-Apprentice",
+  "ch": "11-徒弟",
+  "pt": "11-Aprendiz"
+ },
+ "modEnum10046EnumName2": {
+  "en": "2- Child",
+  "ch": "2-子女",
+  "pt": "2- Criança"
+ },
+ "modEnum10046EnumName3": {
+  "en": "3- Illegitimate child",
+  "ch": "3-私生子女",
+  "pt": "3- Filho ilegítimo"
+ },
+ "modEnum10046EnumName4": {
+  "en": "4- Brother (same father different mother)",
+  "ch": "4-兄弟（同父同母）",
+  "pt": "4- Irmão (mesmo pai, mães diferentes)"
+ },
+ "modEnum10046EnumName6": {
+  "en": "6- Adoptive Child",
+  "ch": "6-义子女",
+  "pt": "6- Filho adotivo"
+ },
+ "modEnum10046EnumName7": {
+  "en": "7- Sworn Older Brother",
+  "ch": "7-义兄弟",
+  "pt": "7- Irmão mais velho jurado"
+ },
+ "modEnum10046EnumName8": {
+  "en": "8- Spouse",
+  "ch": "8-夫妻",
+  "pt": "8- Cônjuge"
+ },
+ "modEnum10046EnumName9": {
+  "en": "9- Couple",
+  "ch": "9-情侣",
+  "pt": "9- Casal"
+ },
+ "modEnum10046Title": {
+  "en": "Relationship determiner type",
+  "ch": "关系判断类型",
+  "pt": "Tipo de determinador de relacionamento"
+ },
+ "modEnum10047EnumName0": {
+  "en": "0- No shared social relationship type",
+  "ch": "0-无共同的社交关系",
+  "pt": "0 - Nenhum tipo de relação social compartilhada"
+ },
+ "modEnum10047EnumName10": {
+  "en": "10-Have shared friends",
+  "ch": "10-有共同的朋友",
+  "pt": "10 - Têm amigos em comum"
+ },
+ "modEnum10047EnumName11": {
+  "en": "11-Have shared enemies",
+  "ch": "11-有共同的仇人",
+  "pt": "11 - Têm inimigos em comum"
+ },
+ "modEnum10047Title": {
+  "en": "Shared social relationship type",
+  "ch": "共同的社交关系类型",
+  "pt": "Tipo de relacionamento social compartilhado"
+ },
+ "modEnum10048EnumName0": {
+  "en": "0- Not triggered",
+  "ch": "0-没触发过",
+  "pt": "0 - Não acionado"
+ },
+ "modEnum10048EnumName1": {
+  "en": "1- Triggered",
+  "ch": "1-触发过",
+  "pt": "1- Acionado"
+ },
+ "modEnum10048Title": {
+  "en": "Plot trigger type",
+  "ch": "剧情触发类型",
+  "pt": "Tipo de gatilho de enredo"
+ },
+ "modEnum10049EnumName0": {
+  "en": "0- Not used",
+  "ch": "0-没使用过",
+  "pt": "0 - Não utilizado"
+ },
+ "modEnum10049EnumName1": {
+  "en": "1- Used",
+  "ch": "1-使用过",
+  "pt": "1- Usado"
+ },
+ "modEnum10049Title": {
+  "en": "Item use type",
+  "ch": "道具使用类型",
+  "pt": "Tipo de uso do Item"
+ },
+ "modEnum1004Title": {
+  "en": "Period",
+  "ch": "期数",
+  "pt": "Período"
+ },
+ "modEnum10050EnumName0": {
+  "en": "0- Does not exist",
+  "ch": "0-不存在",
+  "pt": "0 - Não existe"
+ },
+ "modEnum10050EnumName1": {
+  "en": "1- Does exist",
+  "ch": "1-存在",
+  "pt": "1- Existe"
+ },
+ "modEnum10050Title": {
+  "en": "Existence type",
+  "ch": "存在类型",
+  "pt": "Tipo de existência"
+ },
+ "modEnum10051EnumName1": {
+  "en": "1- >",
+  "ch": "1-大于",
+  "pt": "1- >"
+ },
+ "modEnum10051EnumName2": {
+  "en": "2- <",
+  "ch": "2-小于",
+  "pt": "2- <"
+ },
+ "modEnum10051EnumName3": {
+  "en": "3- =",
+  "ch": "3-等于",
+  "pt": "3- ="
+ },
+ "modEnum10051Title": {
+  "en": "Compare types",
+  "ch": "比较类型",
+  "pt": "Comparar tipos"
+ },
+ "modEnum10052EnumName1": {
+  "en": "1- Righteous points +- x÷ demonic points",
+  "ch": "1-正道值 加减乘除 魔道值",
+  "pt": "1- Pontos Justo +- x÷ Pontos Demoníaco"
+ },
+ "modEnum10052EnumName2": {
+  "en": "2- Demonic points +- x÷ righteous points",
+  "ch": "2-魔道值 加减乘除 正道值",
+  "pt": "2- Pontos Demoníacos +- x÷ Pontos justos"
+ },
+ "modEnum10052Title": {
+  "en": "Faction calculation type",
+  "ch": "立场运算类型",
+  "pt": "Tipo de cálculo de facção"
+ },
+ "modEnum10053EnumName1": {
+  "en": "1- Subtraction",
+  "ch": "1-减法运算",
+  "pt": "1- Subtração"
+ },
+ "modEnum10053EnumName2": {
+  "en": "2- Addition",
+  "ch": "2-加法运算",
+  "pt": "2- Adição"
+ },
+ "modEnum10053EnumName3": {
+  "en": "3- Division",
+  "ch": "3-除法运算",
+  "pt": "3- Divisão"
+ },
+ "modEnum10053EnumName4": {
+  "en": "4- Multiplication",
+  "ch": "4-乘法运算",
+  "pt": "4- Multiplicação"
+ },
+ "modEnum10053Title": {
+  "en": "Type of mathematical operation symbol",
+  "ch": "数学运算符号类型",
+  "pt": "Tipo de símbolo de operação matemática"
+ },
+ "modEnum10054EnumName1": {
+  "en": "1- ≥",
+  "ch": "1-大于等于",
+  "pt": "1- ≥"
+ },
+ "modEnum10054EnumName2": {
+  "en": "2- ≤",
+  "ch": "2-小于等于",
+  "pt": "2- ≤"
+ },
+ "modEnum10054EnumName3": {
+  "en": "3- =",
+  "ch": "3-等于",
+  "pt": "3- ="
+ },
+ "modEnum10054EnumName4": {
+  "en": "4- >",
+  "ch": "4-大于",
+  "pt": "4- >"
+ },
+ "modEnum10054EnumName5": {
+  "en": "5- <",
+  "ch": "5-小于",
+  "pt": "5- <"
+ },
+ "modEnum10054Title": {
+  "en": "Relationship Calculation Type",
+  "ch": "关系运算符类型",
+  "pt": "Tipo de cálculo de relação"
+ },
+ "modEnum10055EnumName0": {
+  "en": "0- No saved data",
+  "ch": "0-没有储存数据",
+  "pt": "0- Nos dados salvos"
+ },
+ "modEnum10055EnumName1": {
+  "en": "1- With saved data",
+  "ch": "1-有储存数据",
+  "pt": "1- Com dados salvos"
+ },
+ "modEnum10055Title": {
+  "en": "Save data or not",
+  "ch": "是否储存数据",
+  "pt": "Salvar os dados ou não"
+ },
+ "modEnum10056EnumName0": {
+  "en": "0- Let the NPC go",
+  "ch": "0-放过NPC",
+  "pt": "0- Deixe o NPC ir embora"
+ },
+ "modEnum10056EnumName1": {
+  "en": "1- Kill the NPC",
+  "ch": "1-杀死NPC",
+  "pt": "1- Mate o NPC"
+ },
+ "modEnum10056EnumName2": {
+  "en": "2- Lost to NPC",
+  "ch": "2-输给NPC",
+  "pt": "2- Perdeu para o NPC"
+ },
+ "modEnum10056Title": {
+  "en": "Battle ending type",
+  "ch": "战斗结束类型",
+  "pt": "Tipo de término da Batalha"
+ },
+ "modEnum10057EnumName0": {
+  "en": "0- No reverse",
+  "ch": "0-不反转",
+  "pt": "0- Na direção inversa"
+ },
+ "modEnum10057EnumName1": {
+  "en": "1- Reverse",
+  "ch": "1-反转",
+  "pt": "1- Inverter"
+ },
+ "modEnum10057Title": {
+  "en": "Reverse or not",
+  "ch": "是否反转",
+  "pt": "Inverso ou não"
+ },
+ "modEnum10058EnumName0": {
+  "en": "0- Other towns",
+  "ch": "0-其他城镇",
+  "pt": "0 - Outras vila"
+ },
+ "modEnum10058EnumName1": {
+  "en": "1- Main city",
+  "ch": "1-主城",
+  "pt": "1- Cidade principal"
+ },
+ "modEnum10058Title": {
+  "en": "Town type",
+  "ch": "城镇类型",
+  "pt": "Tipo de Vila"
+ },
+ "modEnum10059EnumName0": {
+  "en": "0- Not learned",
+  "ch": "0-没学会",
+  "pt": "0 - Não aprendido"
+ },
+ "modEnum10059EnumName1": {
+  "en": "1- Already learned",
+  "ch": "1-学会了该技能",
+  "pt": "1- Já aprendido"
+ },
+ "modEnum10059Title": {
+  "en": "If the skill has been learned",
+  "ch": "是否学会了技能",
+  "pt": "Se a habilidade já foi aprendida"
+ },
+ "modEnum1005EnumName1": {
+  "en": "1- Blade",
+  "ch": "1-刀",
+  "pt": "1- Lâmina"
+ },
+ "modEnum1005EnumName2": {
+  "en": "2- Spear",
+  "ch": "2-枪",
+  "pt": "2- Lança"
+ },
+ "modEnum1005EnumName3": {
+  "en": "3- Sword",
+  "ch": "3-剑",
+  "pt": "3- Espada"
+ },
+ "modEnum1005EnumName4": {
+  "en": "4- Fist",
+  "ch": "4-拳",
+  "pt": "4- Punho"
+ },
+ "modEnum1005EnumName5": {
+  "en": "5- Palm",
+  "ch": "5-掌",
+  "pt": "5- Palma"
+ },
+ "modEnum1005EnumName6": {
+  "en": "6- Finger",
+  "ch": "6-指",
+  "pt": "6- Dedo"
+ },
+ "modEnum1005Title": {
+  "en": "Weapon type",
+  "ch": "武器类型",
+  "pt": "Tipo de arma"
+ },
+ "modEnum10060EnumName0": {
+  "en": "0- Not cleared",
+  "ch": "0-没有通关过",
+  "pt": "0 - Não processado"
+ },
+ "modEnum10060EnumName1": {
+  "en": "1- Was cleared",
+  "ch": "1-通关过",
+  "pt": "1- Foi liberado"
+ },
+ "modEnum10060Title": {
+  "en": "If it was cleared",
+  "ch": "是否通关过",
+  "pt": "Se foi aprovado"
+ },
+ "modEnum10061EnumName1": {
+  "en": "1- Same",
+  "ch": "1-相同",
+  "pt": "1- Igual"
+ },
+ "modEnum10061EnumName2": {
+  "en": "2- Different",
+  "ch": "2-不同",
+  "pt": "2- Diferente"
+ },
+ "modEnum10061EnumName3": {
+  "en": "3- Male & Male",
+  "ch": "3-男男",
+  "pt": "3- Masculino e Masculino"
+ },
+ "modEnum10061EnumName4": {
+  "en": "4- Female & Female",
+  "ch": "4-女女",
+  "pt": "4- Feminino e Feminino"
+ },
+ "modEnum10061Title": {
+  "en": "Gender type",
+  "ch": "性别类型",
+  "pt": "Tipo de gênero"
+ },
+ "modEnum10062EnumName0": {
+  "en": "0- No",
+  "ch": "0-没有",
+  "pt": "0- Não"
+ },
+ "modEnum10062EnumName1": {
+  "en": "1- Yes",
+  "ch": "1-拥有",
+  "pt": "1- Sim"
+ },
+ "modEnum10062Title": {
+  "en": "If have",
+  "ch": "是否拥有",
+  "pt": "Se tiver"
+ },
+ "modEnum10063EnumName0": {
+  "en": "0- Fixed",
+  "ch": "0-固定等级",
+  "pt": "0- Corrigido"
+ },
+ "modEnum10063EnumName1": {
+  "en": "1- Based on Player's realm (1 realm = 5 levels)",
+  "ch": "1-以玩家境界为基础（一个境界对应5级）",
+  "pt": "1- Com base no reino do jogador (1 reino = 5 níveis)"
+ },
+ "modEnum10063EnumName2": {
+  "en": "2- Based on the regional realm (E.g., Bai Yuan = Qi Refining)",
+  "ch": "2-以区域境界为基准（如白源区是炼气期）",
+  "pt": "2- Baseado no reino regional (Ex.: Bai Yuan = Refinamento de Qi)"
+ },
+ "modEnum10063Title": {
+  "en": "Dungeon level type",
+  "ch": "副本等级类型",
+  "pt": "Tipo de nível da masmorra"
+ },
+ "modEnum10064EnumName0": {
+  "en": "0- Random",
+  "ch": "0-随机",
+  "pt": "0- Aleatório"
+ },
+ "modEnum10064Title": {
+  "en": "Skill type",
+  "ch": "技能类型",
+  "pt": "Tipo de Habilidade"
+ },
+ "modEnum10065EnumName0": {
+  "en": "0- Fixed value",
+  "ch": "0-固定值",
+  "pt": "0- Valor fixo"
+ },
+ "modEnum10065EnumName1": {
+  "en": "1- Percentage",
+  "ch": "1-百分比",
+  "pt": "1- Porcentagem"
+ },
+ "modEnum10065Title": {
+  "en": "Increase type",
+  "ch": "增加类型",
+  "pt": "Tipo de aumento"
+ },
+ "modEnum10066EnumName0": {
+  "en": "0- Percentage",
+  "ch": "0-百分比",
+  "pt": "0 - Porcentagem"
+ },
+ "modEnum10066EnumName1": {
+  "en": "1- Fixed value",
+  "ch": "1-固定值",
+  "pt": "1- Valor fixo"
+ },
+ "modEnum10066Title": {
+  "en": "Increase type",
+  "ch": "增加类型",
+  "pt": "Tipo de aumento"
+ },
+ "modEnum10067EnumName0": {
+  "en": "0- Set to a fixed value",
+  "ch": "0-设置成固定值",
+  "pt": "0 - Definido como um valor fixo"
+ },
+ "modEnum10067EnumName1": {
+  "en": "1- Increased by a fixed value",
+  "ch": "1-增加固定值",
+  "pt": "1- Aumentado por um valor fixo"
+ },
+ "modEnum10067Title": {
+  "en": "Stat increase method",
+  "ch": "属性增加方式",
+  "pt": "Método de aumento de estatísticas"
+ },
+ "modEnum10068EnumName0": {
+  "en": "0- Same realm with Player",
+  "ch": "0-与玩家同境界",
+  "pt": "0- Mesmo reino que o Jogador"
+ },
+ "modEnum10068Title": {
+  "en": "Realm type",
+  "ch": "境界类型",
+  "pt": "Tipo de Reino"
+ },
+ "modEnum10069EnumNamehp": {
+  "en": "hp- Vitality",
+  "ch": "hp-体力",
+  "pt": "hp - Vitalidade"
+ },
+ "modEnum10069EnumNamemp": {
+  "en": "mp- Energy",
+  "ch": "mp-灵力",
+  "pt": "mp- Energia"
+ },
+ "modEnum10069EnumNamesp": {
+  "en": "sp- Focus",
+  "ch": "sp-念力",
+  "pt": "sp- Foco"
+ },
+ "modEnum10069Title": {
+  "en": "Elemental type",
+  "ch": "属性类型",
+  "pt": "Tipo elementar"
+ },
+ "modEnum1006EnumName1": {
+  "en": "1- Fire",
+  "ch": "1-火",
+  "pt": "1- Fogo"
+ },
+ "modEnum1006EnumName2": {
+  "en": "2- Water",
+  "ch": "2-水",
+  "pt": "2- Água"
+ },
+ "modEnum1006EnumName3": {
+  "en": "3- Lightning",
+  "ch": "3-雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "3- Relâmpago"
+ },
+ "modEnum1006EnumName4": {
+  "en": "4- Wind",
+  "ch": "4-风",
+  "pt": "4- Vento"
+ },
+ "modEnum1006EnumName5": {
+  "en": "5- Earth",
+  "ch": "5-土",
+  "pt": "5- Terra"
+ },
+ "modEnum1006EnumName6": {
+  "en": "6- Wood",
+  "ch": "6-木",
+  "pt": "6- Madeira"
+ },
+ "modEnum1006Title": {
+  "en": "Elemental type",
+  "ch": "属性类型",
+  "pt": "Tipo elemental"
+ },
+ "modEnum10070EnumName0": {
+  "en": "0- EXP",
+  "ch": "0-经验",
+  "pt": "0- EXP"
+ },
+ "modEnum10070EnumName1": {
+  "en": "1- Level",
+  "ch": "1-等级",
+  "pt": "1- Nível"
+ },
+ "modEnum10070Title": {
+  "en": "Increase type",
+  "ch": "增加类型",
+  "pt": "Tipo de aumento"
+ },
+ "modEnum10071EnumName0": {
+  "en": "0- Fixed value",
+  "ch": "0-固定值",
+  "pt": "0- Valor fixo"
+ },
+ "modEnum10071EnumName1": {
+  "en": "1- Stacked quantity percentage",
+  "ch": "1-叠加数量百分比",
+  "pt": "1- Porcentagem de quantidade empilhada"
+ },
+ "modEnum10071Title": {
+  "en": "Item quantity type",
+  "ch": "道具数量类型",
+  "pt": "Tipo de quantidade do Item"
+ },
+ "modEnum10072Desc": {
+  "en": "When multiple NPCs meet the requirements, the first one on the sorted list will be returned.",
+  "ch": "当多个NPC满足条件时，根据排序方式，排序后，返回第一个。",
+  "pt": "Quando vários NPCs atendem aos requisitos, o primeiro da lista ordenada será retornado."
+ },
+ "modEnum10072EnumName0": {
+  "en": "0- Random",
+  "ch": "0-随机排序",
+  "pt": "0- Aleatório"
+ },
+ "modEnum10072EnumName1": {
+  "en": "1- Affinity, from high to low",
+  "ch": "1-亲密度从高到低",
+  "pt": "1- Afinidade, do maior para o menor"
+ },
+ "modEnum10072EnumName2": {
+  "en": "2- Affinity, from low to high",
+  "ch": "2-亲密度从低到高",
+  "pt": "2- Afinidade, do nível baixo ao alto"
+ },
+ "modEnum10072EnumName3": {
+  "en": "3- Hatred, from high to low",
+  "ch": "3-仇恨度从高到低",
+  "pt": "3- Ódio, do alto para o baixo"
+ },
+ "modEnum10072EnumName4": {
+  "en": "4- Hatred, from high to low",
+  "ch": "4-仇恨度从低到高",
+  "pt": "4- Ódio, do alto ao baixo"
+ },
+ "modEnum10072Title": {
+  "en": "Sort by",
+  "ch": "排序方式",
+  "pt": "Ordenar por"
+ },
+ "modEnum10073Desc": {
+  "en": "When set to [save], the following extraction will definitely return this NPC instead of extracting a new one from the world map, unless the NPC has died or the NPC's data has been cleared with the command [clearNpcConditionSave]. \n\nIt is often used in long adventures, where an NPC is extracted and interacted with all the time. When the adventure is over, use the command [clearNpcConditionSave] to clear the NPC's data.",
+  "ch": "当设置储存后，下次抓取必定返回此NPC，不会重新在大地图抓取，除非此NPC已经死亡，或者通过命令“clearNpcConditionSave”清除了数据。\n\n一般用于长线奇遇，抓取一个NPC一直和此NPC互动，奇遇结束后通过命令“clearNpcConditionSave”清除NPC数据。",
+  "pt": "Quando definido como [save], a extração seguinte certamente retornará este NPC, em vez de extrair um novo do mapa do mundo, a menos que o NPC tenha morrido ou que os dados dele tenham sido apagados com o comando [clearNpcConditionSave].\n\nIsso é frequentemente usado em longas aventuras, nas quais um NPC é extraído e interagido constantemente. Ao final da aventura, use o comando [clearNpcConditionSave] para apagar os dados do NPC."
+ },
+ "modEnum10073EnumName0": {
+  "en": "0- Don't save",
+  "ch": "0-不储存",
+  "pt": "0- Não salvar"
+ },
+ "modEnum10073EnumName1": {
+  "en": "1- Save",
+  "ch": "1-储存",
+  "pt": "1- Salvar"
+ },
+ "modEnum10073Title": {
+  "en": "Save or not",
+  "ch": "是否储存",
+  "pt": "Salvar ou não"
+ },
+ "modEnum10074Desc": {
+  "en": "You can search in a variety of different location types (E.g., search all towns, search specified world map event locations)",
+  "ch": "可以根据不同的类型查找不同的地图点（例如查找所有城镇位置、查找指定大地图事件位置）",
+  "pt": "Você pode pesquisar em vários tipos diferentes de localizações (Ex.: pesquisar todas as vilas, pesquisar locais específicos de eventos no mapa mundial)."
+ },
+ "modEnum10074EnumName1": {
+  "en": "1- Building",
+  "ch": "1-建筑",
+  "pt": "1- Prédio"
+ },
+ "modEnum10074EnumName2": {
+  "en": "2- World map event",
+  "ch": "2-大地图事件",
+  "pt": "2- Evento do mapa mundial"
+ },
+ "modEnum10074EnumName3": {
+  "en": "3- Fixed world map coordinates",
+  "ch": "3-固定大地图坐标",
+  "pt": "3- Coordenadas da mapa do mundo corrigidas"
+ },
+ "modEnum10074Title": {
+  "en": "Location type to search",
+  "ch": "查找地图点类型",
+  "pt": "Tipo de localização para busca"
+ },
+ "modEnum10075Desc": {
+  "en": "For example, if you are getting all the towns in Bai Yuan, you can use the sorting method to decide which town's location to return.",
+  "ch": "例如获取的是白源区的所有城镇，可以根据排序方式，选择返回哪一个城镇的位置。",
+  "pt": "Por exemplo, se você quer obter todas as vilas em Bai Yuan, pode usar o método de ordenação para decidir qual localização da vila será retornada."
+ },
+ "modEnum10075EnumName-1": {
+  "en": "-1 A random target (story, building, etc.)",
+  "ch": "-1 随机一个目标（事件、建筑等等）",
+  "pt": "-1 Um alvo aleatório (história, edifício, etc.)"
+ },
+ "modEnum10075EnumName-2": {
+  "en": "-2 The latest target (story, building, etc.)",
+  "ch": "-2 最近的一个目标（事件、建筑等等）",
+  "pt": "-2 O alvo mais recente (história, edifício, etc.)"
+ },
+ "modEnum10075Title": {
+  "en": "Sort by",
+  "ch": "排序类型",
+  "pt": "Ordenar por"
+ },
+ "modEnum10076Desc": {
+  "en": "If you set this to true, Player's camera will move to the icon when the event is created. \n\nNote: If the icon is not created at the end of the adventure, please do not enable this or the adventure will be interrupted.",
+  "ch": "如设置了移动镜头，那么创建事件后镜头会移动到图标上。\n\n注意：如果不是奇遇结尾创建的图标，请勿设置移动镜头，防止奇遇被打断。",
+  "pt": "Se você definir esse valor como verdadeiro, a câmera do jogador se moverá para o ícone quando o evento for criado.\n\nObservação: Se o ícone não for criado ao final da aventura, por favor, não ative essa opção; caso contrário, a aventura será interrompida."
+ },
+ "modEnum10076EnumName0": {
+  "en": "0- False",
+  "ch": "0-否",
+  "pt": "0- Falso"
+ },
+ "modEnum10076EnumNameQiyuPutong": {
+  "en": "1- True",
+  "ch": "1-是",
+  "pt": "1- Verdadeiro"
+ },
+ "modEnum10076Title": {
+  "en": "Whether to move the camera to the icon when the event is generated",
+  "ch": "生成事件时是否移动镜头到图标上",
+  "pt": "Se a câmera deve ser movida para o ícone quando o evento é gerado."
+ },
+ "modEnum10077Desc": {
+  "en": "After stacking, multiple items will be shown on one icon in the Bag, similar to the Spirit Stone. (Plot items are not usually stackable)",
+  "ch": "叠加后，在背包里，多个道具会显示到一个图标上，类似灵石。（一般剧情道具会设置成不叠加）",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "Após serem empilhados, múltiplos item serão exibidos em um único ícone no Inventário, da mesma forma que acontece com a Pedra Espiritual. (Geralmente, os item de enredo não podem ser empilhados.)"
+ },
+ "modEnum10077EnumName0": {
+  "en": "0-Not stack",
+  "ch": "0-不叠加",
+  "pt": "0 - Pilha de notas"
+ },
+ "modEnum10077EnumName1": {
+  "en": "1-Stack",
+  "ch": "1-叠加",
+  "pt": "1-Pilha"
+ },
+ "modEnum10077Title": {
+  "en": "Stackable or not",
+  "ch": "是否叠加",
+  "pt": "Empilhável ou não"
+ },
+ "modEnum10078Desc": {
+  "en": "Items that are not allowed to be discarded, sold, or put up for auction. (Plot items are not usually allowed to be discarded)",
+  "ch": "不允许丢弃的道具，也不能出售、不能寄拍。（一般剧情道具会设置成不允许丢弃）",
+  "pt": "Itens que não podem ser descartados, vendidos ou colocados em leilão. (Geralmente, os itens de enredo também não podem ser descartados.)"
+ },
+ "modEnum10078EnumName0": {
+  "en": "0-Discard not allowed",
+  "ch": "0-不允许丢弃",
+  "pt": "0 - Descarte não permitido"
+ },
+ "modEnum10078EnumName1": {
+  "en": "1-Discard allowed",
+  "ch": "1-允许丢弃",
+  "pt": "1 - Descarte permitido"
+ },
+ "modEnum10078Title": {
+  "en": "Discard-able or not",
+  "ch": "是否允许丢弃",
+  "pt": "Descartável ou não"
+ },
+ "modEnum10079Desc": {
+  "en": "Different types of items have different corresponding functions.",
+  "ch": "不同的道具类型，所对应的功能也是不同的。",
+  "pt": "Diferentes tipos de item têm funções correspondentes distintas."
+ },
+ "modEnum10079EnumDesc1": {
+  "en": "Normal items have no actual function. This type is usually used for Plot items.",
+  "ch": "普通道具是没有实际功能的，一般剧情道具会使用此类型。",
+  "pt": "Os item normais não têm nenhuma função real. Este tipo é geralmente usado para item de enredo."
+ },
+ "modEnum10079EnumDesc2": {
+  "en": "Elixir type. Can use character effect to configure health recovery, increase in Charisma, and other functions.",
+  "ch": "丹药类型，可以使用角色效果功能，配置加血、加魅力等功能。",
+  "pt": "Tipo de Elixir. É possível usar o efeito do personagem para configurar a recuperação de saúde, o aumento da Carisma e outros efeitos."
+ },
+ "modEnum10079EnumDesc3": {
+  "en": "Book type. Generally used to describe the plot. Item can be opened, and a book will display text content after it’s opened.",
+  "ch": "书籍类型，一般用于讲述剧情，道具可以打开，打开后会有一本书显示文本内容。",
+  "pt": "Tipo de livro. Geralmente usado para descrever a trama. O Item pode ser aberto, e um livro exibirá o conteúdo de texto após ser aberto."
+ },
+ "modEnum10079EnumDesc4": {
+  "en": "Mount type. Same as the Mount in-game. Mount function can be customized.",
+  "ch": "坐骑类型，和游戏中坐骑一样，可以自定义坐骑功能。",
+  "pt": "Tipo de Montaria. Igual à Montaria no jogo. A função da Montaria pode ser personalizada."
+ },
+ "modEnum10079EnumDesc5": {
+  "en": "Artifact Map type. After using the Artifact Map, a World map event will be set in the specified location. Geomancy needs to be attached to the event to display it. (Similar to the in-game East mountains maps, and map pieces that are obtained from Adventures to be used for connecting the plot)",
+  "ch": "藏宝图类型，藏宝图使用后会在指定位置创建一个大地图事件，事件需要到附件堪舆才能显示出来（类似游戏中的东岳图、奇遇中也会产出残破的地图用于衔接剧情）",
+  "nomes": {
+   "Artifact Map": "Mapa do Artefato da Lâmpada da Alma"
+  },
+  "pt": "Tipo de Mapa de Artefato. Após usar o Mapa de Artefato, um evento de Mapa do Mundo será configurado no local especificado. É necessário vincular a Geomancia a esse evento para que ele seja exibido. (Semelhante aos mapas das Montanhas do Leste existentes no jogo, bem como às peças de mapa obtidas através de Aventuras, que são usadas para montar o cenário.)"
+ },
+ "modEnum10079EnumDesc6": {
+  "en": "Equippable ring type.",
+  "ch": "可装备的戒指类型。",
+  "pt": "Tipo de anel que pode ser equipado."
+ },
+ "modEnum10079EnumName1": {
+  "en": "1-Normal Item",
+  "ch": "1-普通道具",
+  "pt": "1- Item Normal"
+ },
+ "modEnum10079EnumName3": {
+  "en": "3-Books",
+  "ch": "3-书籍",
+  "pt": "3-Livros"
+ },
+ "modEnum10079EnumName4": {
+  "en": "4-Mount",
+  "ch": "4-坐骑",
+  "pt": "4-Montaria"
+ },
+ "modEnum10079EnumName5": {
+  "en": "5-Artifact Map",
+  "ch": "5-藏宝图",
+  "nomes": {
+   "Artifact Map": "Mapa do Artefato da Lâmpada da Alma"
+  },
+  "pt": "5-Mapa de Artefatos"
+ },
+ "modEnum10079EnumName6": {
+  "en": "6-Ring",
+  "ch": "6-戒指",
+  "pt": "6-Anel"
+ },
+ "modEnum10079Title": {
+  "en": "Item Type",
+  "ch": "道具类型",
+  "pt": "Tipo de Item"
+ },
+ "modEnum1007EnumName1": {
+  "en": "1- Martial skill",
+  "ch": "1-武技",
+  "pt": "1- Técnica Marcial"
+ },
+ "modEnum1007EnumName2": {
+  "en": "2- Special skill",
+  "ch": "2-绝技",
+  "pt": "2- Técnica Especial"
+ },
+ "modEnum1007EnumName3": {
+  "en": "3- Motion skill",
+  "ch": "3-身法",
+  "pt": "3- Técnica de Movimento"
+ },
+ "modEnum1007EnumName4": {
+  "en": "4- Mind skill",
+  "ch": "4-心法",
+  "pt": "4- Técnica Mental"
+ },
+ "modEnum1007EnumName5": {
+  "en": "5- Ultimate skill",
+  "ch": "5-神通",
+  "pt": "5- Técnica Suprema"
+ },
+ "modEnum1007Title": {
+  "en": "Skill type",
+  "ch": "技能类型",
+  "pt": "Tipo de Habilidade"
+ },
+ "modEnum10080EnumName1": {
+  "en": "1-Fixed location, random created event",
+  "ch": "1-固定位置随机创建事件",
+  "pt": "1-Localização fixa, evento criado aleatoriamente"
+ },
+ "modEnum10080EnumName2": {
+  "en": "2-Randomly created event in the region",
+  "ch": "2-区域内随机创建事件",
+  "pt": "2 - Evento criado aleatoriamente na região"
+ },
+ "modEnum10080Title": {
+  "en": "Event Refresh Type",
+  "ch": "事件刷新类型",
+  "pt": "Tipo de Atualização do Evento"
+ },
+ "modEnum10081EnumDesc1": {
+  "en": "Normally there is no need to configure Main Missions unless you want to customize the Main Mission through Adventures.",
+  "ch": "一般不需要配置主线任务，除非想通过奇遇定制主线任务。",
+  "pt": "Normalmente, não há necessidade de configurar as Missões Principais, a menos que você queira personalizá-las por meio das Aventuras."
+ },
+ "modEnum10081EnumDesc4": {
+  "en": "Adventure Missions are Side Missions, and this Mission type is normally used for Adventure Missions.",
+  "ch": "奇遇任务就是支线任务，一般的奇遇任务都是使用此任务类型。",
+  "pt": "As Missões de Aventura são Missões Secundárias, e esse tipo de Missão é normalmente utilizado para as Missões de Aventura."
+ },
+ "modEnum10081EnumName1": {
+  "en": "1-Main Mission",
+  "ch": "1-主线任务",
+  "pt": "1 - Missão Principal"
+ },
+ "modEnum10081EnumName110": {
+  "en": "110-Plot Mission",
+  "ch": "110-剧情任务",
+  "pt": "Missão dos 110 Lotes"
+ },
+ "modEnum10081EnumName4": {
+  "en": "4-Adventure Mission",
+  "ch": "4-奇遇任务",
+  "pt": "4-Missão de Aventura"
+ },
+ "modEnum10081Title": {
+  "en": "Mission Grouping",
+  "ch": "任务分组",
+  "pt": "Agrupamento de Missões"
+ },
+ "modEnum10082Title": {
+  "en": "Mission Type",
+  "ch": "任务类型",
+  "pt": "Tipo de Missão"
+ },
+ "modEnum10083EnumName1": {
+  "en": "1-<g>Easy</g>",
+  "ch": "1-<g>简单</g>",
+  "pt": "1-<g>Fácil</g>"
+ },
+ "modEnum10083EnumName3": {
+  "en": "3-<p>Hard</p>",
+  "ch": "3-<p>困难</p>",
+  "pt": "3-<p>Difícil</p>"
+ },
+ "modEnum10083EnumName4": {
+  "en": "4-<y>Nightmare</y>",
+  "ch": "4-<y>极难</y>",
+  "pt": "4-<y> Pesadelo </y>"
+ },
+ "modEnum10083EnumName5": {
+  "en": "5-<r>Hell</r>",
+  "ch": "5-<r>地狱</r>",
+  "pt": "5-<r>Inferno</r>"
+ },
+ "modEnum10083EnumName6": {
+  "en": "6-<r>Hell</r>",
+  "ch": "6-<r>地狱</r>",
+  "pt": "6-<r>Inferno</r>"
+ },
+ "modEnum10083Title": {
+  "en": "Mission Level",
+  "ch": "任务等级",
+  "pt": "Nível da Missão"
+ },
+ "modEnum10084EnumName0": {
+  "en": "0- False",
+  "ch": "0-否",
+  "pt": "0- Falso"
+ },
+ "modEnum10084EnumName1": {
+  "en": "1- True",
+  "ch": "1-是",
+  "pt": "1- Verdadeiro"
+ },
+ "modEnum10084Title": {
+  "en": "Give Up?",
+  "ch": "是否可以放弃",
+  "pt": "Desistir?"
+ },
+ "modEnum10085Desc": {
+  "en": "When a pop-up is set, a UI notice will pop up when claiming a Mission: Accepted Mission XXX",
+  "ch": "当设置弹出后，领取任务时会弹出UI提示：“接取了任务XXX”",
+  "pt": "Quando um pop-up é configurado, uma notificação na interface será exibida ao resgatar uma Missão: \"Missão aceita: XXX\"."
+ },
+ "modEnum10085EnumName0": {
+  "en": "0- False",
+  "ch": "0-否",
+  "pt": "0- Falso"
+ },
+ "modEnum10085EnumName1": {
+  "en": "1- True",
+  "ch": "1-是",
+  "pt": "1- Verdadeiro"
+ },
+ "modEnum10085Title": {
+  "en": "Whether the UI notice will pop up when claiming or completing a Mission",
+  "ch": "领取、完成任务时，是否弹出UI提示",
+  "pt": "Se o aviso na interface será exibido ao resgatar ou concluir uma Missão."
+ },
+ "modEnum10086Desc": {
+  "en": "Set which UI to use when opening plot. For example: Character dialogue UI, Adventure small illustration UI, and so on.",
+  "ch": "设置打开剧情时使用的是哪种UI，例如：有人物出现对话的UI、有奇遇小插图的UI等等。",
+  "pt": "Defina qual interface de usuário deve ser usada ao abrir um enredo. Por exemplo: interface de diálogo de personagens, interface com ilustrações pequenas de Aventura, etc."
+ },
+ "modEnum10086EnumDesc1": {
+  "en": "Dialogue UI with characters on the left and the right, normally used for character Plot.",
+  "ch": "有左边和右边角色出现的对话UI，一般用于人物剧情",
+  "pt": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para o enredo dos personagens."
+ },
+ "modEnum10086EnumDesc2": {
+  "en": "UI with small scenes, normally used for Adventures",
+  "ch": "有小插图的UI，一般用于奇遇",
+  "pt": "Interface com pequenas cenas, normalmente usada para Aventuras."
+ },
+ "modEnum10086EnumDesc3": {
+  "en": "Full-display large background UI, normally used for big plot",
+  "ch": "全屏大背景的UI，一般用于大型剧情",
+  "pt": "UI de fundo grande em tela cheia, normalmente usada para enredos extensos"
+ },
+ "modEnum10086EnumDesc4": {
+  "en": "Dialogue UI with characters on the left and the right, normally used for character Plot.",
+  "ch": "有左边和右边角色出现的对话UI，一般用于人物剧情",
+  "pt": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para o enredo dos personagens."
+ },
+ "modEnum10086EnumDesc5": {
+  "en": "Dialogue UI with characters on the left and the right, normally used for character Plot.",
+  "ch": "有左边和右边角色出现的对话UI，一般用于人物剧情",
+  "pt": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para o enredo dos personagens."
+ },
+ "modEnum10086EnumDesc6": {
+  "en": "A letter-type UI, no options appearing",
+  "ch": "一封信类型的UI，不能出现选项",
+  "pt": "Uma interface do tipo \"carta\", sem opções visíveis."
+ },
+ "modEnum10086EnumDesc7": {
+  "en": "Dialogue UI with characters on the left and the right, normally used for character Plot.",
+  "ch": "有左边和右边角色出现的对话UI，一般用于人物剧情",
+  "pt": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para o enredo dos personagens."
+ },
+ "modEnum10086EnumDesc8": {
+  "en": "A letter-type UI, no options appearing (silk texture)",
+  "ch": "一封信类型的UI，不能出现选项（绢材质）",
+  "pt": "Uma interface do tipo \"carta\", sem opções visíveis (textura de seda)"
+ },
+ "modEnum10086EnumName1": {
+  "en": "1-Normal Dialogue Box",
+  "ch": "1-普通对话框",
+  "pt": "1 - Caixa de diálogo normal"
+ },
+ "modEnum10086EnumName2": {
+  "en": "2-Adventure Scene",
+  "ch": "2-奇遇小插图",
+  "pt": "2 - Cena de Aventura"
+ },
+ "modEnum10086EnumName3": {
+  "en": "3-Full-screen Plot Picture",
+  "ch": "3-剧情全屏大图",
+  "pt": "3-Imagem do gráfico em tela cheia"
+ },
+ "modEnum10086EnumName4": {
+  "en": "4-Artifact Spirit dialogue box",
+  "ch": "4-器灵对话框",
+  "pt": "4 - Caixa de diálogo do Espírito do Artefato"
+ },
+ "modEnum10086EnumName5": {
+  "en": "5-Artifact Spirit dialogue box (no character, no button)",
+  "ch": "5-器灵对话框（无人物，无按钮）",
+  "pt": "5 - Caixa de diálogo do Espírito do Artefato (sem personagem, sem botão)"
+ },
+ "modEnum10086EnumName6": {
+  "en": "6- Mail",
+  "ch": "6-信件",
+  "pt": "6- E-mail"
+ },
+ "modEnum10086EnumName7": {
+  "en": "7-Secret Order dialogue box",
+  "ch": "7-神秘组织对话框",
+  "pt": "7- Caixa de diálogo da Ordem Secreta"
+ },
+ "modEnum10086EnumName8": {
+  "en": "8- Mail (silk texture)",
+  "ch": "8-信件（绢材质）",
+  "pt": "8- Correio (textura de seda)"
+ },
+ "modEnum10086Title": {
+  "en": "UI type for Plot",
+  "ch": "剧情使用的UI类型",
+  "pt": "Tipo de interface para o gráfico"
+ },
+ "modEnum10087Desc": {
+  "en": "Characters talking will be highlighted, and characters who don't talk are in semi-darkness.",
+  "ch": "说话的角色会高亮显示，不说话的角色会半暗显示。",
+  "pt": "Os personagens que falam serão destacados, e os personagens que não falam ficam em semiescuridão."
+ },
+ "modEnum10087EnumName1": {
+  "en": "1- Character - Left",
+  "ch": "1-左边的角色",
+  "pt": "1- Personagem - Esquerda"
+ },
+ "modEnum10087EnumName2": {
+  "en": "2- Character - Right",
+  "ch": "2-右边的角色",
+  "pt": "2- Personagem - Certo"
+ },
+ "modEnum10087Title": {
+  "en": "Character currently speaking",
+  "ch": "当前说话的角色",
+  "pt": "Personagem atualmente falando"
+ },
+ "modEnum10088EnumDesc11": {
+  "en": "This option can only be used if extracted NPCs are imported, like NPCs extracted from Adventures and World map events.",
+  "ch": "只有传入了抓取的NPC，此选项才能用，如奇遇抓取的NPC、大地图事件抓取的NPC。",
+  "pt": "Esta opção só pode ser utilizada se os NPCs extraídos forem importados, como os NPCs extraídos de Aventuras e de eventos no mapa do mundo."
+ },
+ "modEnum10088EnumName-1": {
+  "en": "-1 Character not displayed",
+  "ch": "-1 不显示立绘",
+  "pt": "-1 Caractere não exibido"
+ },
+ "modEnum10088EnumName1": {
+  "en": "1 Display player",
+  "ch": "1 显示玩家",
+  "pt": "1 Exibe o reprodutor"
+ },
+ "modEnum10088EnumName11": {
+  "en": "11 NPC extracted by the event (NPC-A)",
+  "ch": "11 显示抓取的NPC（NPC-A）",
+  "pt": "11 NPCs extraídos pelo evento (NPC-A)"
+ },
+ "modEnum10088EnumName12": {
+  "en": "12 NPC extracted by the event (NPC-B)",
+  "ch": "12 显示抓取的NPC（NPC-B）",
+  "pt": "12 NPCs extraídos pelo evento (NPC-B)"
+ },
+ "modEnum10088Title": {
+  "en": "Character full-body standing drawing",
+  "ch": "立绘角色",
+  "pt": "Desenho de personagem em pé, corpo inteiro"
+ },
+ "modEnum10089EnumName1": {
+  "en": "1-Character full-body standing drawing (Player, NPC)",
+  "ch": "1-角色立绘（玩家、NPC）",
+  "pt": "1 - Desenho de corpo inteiro de um personagem em pé (Jogador, NPC)"
+ },
+ "modEnum10089EnumName2": {
+  "en": "2-Plot full-body standing drawing (Jingwei, descendants, and so on)",
+  "ch": "2-剧情立绘（精卫、后裔等）",
+  "pt": "2 - Desenho de corpo inteiro em posição de pé (Jingwei, descendentes, etc.)"
+ },
+ "modEnum10089Title": {
+  "en": "Full-body standing drawing display type",
+  "ch": "立绘显示类型",
+  "pt": "Tipo de display de desenho em pé, para todo o corpo"
+ },
+ "modEnum1008EnumName1": {
+  "en": "1- Male",
+  "ch": "1-男",
+  "pt": "1- Masculino"
+ },
+ "modEnum1008EnumName2": {
+  "en": "2- Female",
+  "ch": "2-女",
+  "pt": "2- Feminino"
+ },
+ "modEnum1008Title": {
+  "en": "Gender type",
+  "ch": "性别类型",
+  "pt": "Tipo de gênero"
+ },
+ "modEnum10090EnumName0": {
+  "en": "0- A random location in the area corresponding to the NPC realm.",
+  "ch": "0-在NPC境界对应的区域内随机位置",
+  "pt": "0 - Um local aleatório na área correspondente ao reino do NPC."
+ },
+ "modEnum10090Title": {
+  "en": "Initializing location types",
+  "ch": "初始位置类型",
+  "pt": "Inicializando tipos de localização"
+ },
+ "modEnum10091EnumName0": {
+  "en": "0-Same as player Realm",
+  "ch": "0-和玩家境界一样",
+  "pt": "0 - Igual ao Reino do jogador"
+ },
+ "modEnum10091EnumName1": {
+  "en": "1-In fixed area around Player",
+  "ch": "1-在玩家周围一定范围",
+  "pt": "1- Em área fixa ao redor do Jogador"
+ },
+ "modEnum10091EnumName2": {
+  "en": "2- A random location in a specified area",
+  "ch": "2-指定区域内随机位置",
+  "pt": "2- Um local aleatório em uma área especificada"
+ },
+ "modEnum10091EnumName3": {
+  "en": "3- At the Sect if there is one",
+  "ch": "3-如有宗门，则在宗门位置",
+  "pt": "3- Na Seita, se é que existe uma."
+ },
+ "modEnum10091Title": {
+  "en": "Realm Type",
+  "ch": "境界类型",
+  "pt": "Tipo de Reino"
+ },
+ "modEnum10092EnumName0": {
+  "en": "0-Random",
+  "ch": "0-随机",
+  "pt": "0-Aleatório"
+ },
+ "modEnum10092EnumName1": {
+  "en": "1-Male",
+  "ch": "1-男",
+  "pt": "1-Masculino"
+ },
+ "modEnum10092EnumName2": {
+  "en": "2-Female",
+  "ch": "2-女",
+  "pt": "2-Mulher"
+ },
+ "modEnum10092Title": {
+  "en": "Gender",
+  "ch": "性别类型",
+  "pt": "Gênero"
+ },
+ "modEnum10093EnumName1": {
+  "en": "1-Parent",
+  "ch": "1-父母",
+  "pt": "1-Parente"
+ },
+ "modEnum10093EnumName10": {
+  "en": "10-Master",
+  "ch": "10-师父",
+  "pt": "10-Mestre"
+ },
+ "modEnum10093EnumName11": {
+  "en": "11-Apprentice",
+  "ch": "11-徒弟",
+  "pt": "11-Aprendiz"
+ },
+ "modEnum10093EnumName2": {
+  "en": "2-Child",
+  "ch": "2-子女",
+  "pt": "2 - Criança"
+ },
+ "modEnum10093EnumName21": {
+  "en": "21-Friend/Enemy (control via initializing Affinity Level)",
+  "ch": "21-好友/仇人（通过初始亲密度控制）",
+  "pt": "21-Amigo/Inimigo (controle por meio da inicialização do nível de Afinidade)"
+ },
+ "modEnum10093EnumName5": {
+  "en": "5-Adoptive Parent",
+  "ch": "5-义父母",
+  "pt": "5-Pais adotivos"
+ },
+ "modEnum10093EnumName6": {
+  "en": "6-Adoptive Child",
+  "ch": "6-义子女",
+  "pt": "6- Filho adotivo"
+ },
+ "modEnum10093EnumName7": {
+  "en": "7-Sworn Sibling",
+  "ch": "7-结义兄弟姐妹",
+  "pt": "7-Irmãos jurados"
+ },
+ "modEnum10093EnumName8": {
+  "en": "8-Spouse",
+  "ch": "8-夫妻",
+  "pt": "8-Cônjuge"
+ },
+ "modEnum10093EnumName9": {
+  "en": "9-Couple",
+  "ch": "9-情侣",
+  "pt": "9-Casal"
+ },
+ "modEnum10093Title": {
+  "en": "Relationship Type",
+  "ch": "关系类型",
+  "pt": "Tipo de Relacionamento"
+ },
+ "modEnum10094EnumName0": {
+  "en": "0- No requirements",
+  "ch": "0-无要求",
+  "pt": "0- Sem requisitos"
+ },
+ "modEnum10094EnumName1": {
+  "en": "1- Male",
+  "ch": "1-男",
+  "pt": "1- Masculino"
+ },
+ "modEnum10094EnumName2": {
+  "en": "2- Female",
+  "ch": "2-女",
+  "pt": "2- Feminino"
+ },
+ "modEnum10094EnumName3": {
+  "en": "3- Gender opposite to your own",
+  "ch": "3-与自身相反的性别",
+  "pt": "3- Gênero oposto ao seu"
+ },
+ "modEnum10094Title": {
+  "en": "Character Gender Requirements",
+  "ch": "角色性别要求",
+  "pt": "Requisitos de gênero para personagens"
+ },
+ "modEnum10095EnumName2": {
+  "en": "2-Artifact",
+  "ch": "2-法宝",
+  "pt": "2-Artefato"
+ },
+ "modEnum10095Title": {
+  "en": "Item Type",
+  "ch": "道具类型",
+  "pt": "Tipo de Item"
+ },
+ "modEnum10096EnumName0": {
+  "en": "0-Any",
+  "ch": "0-任意",
+  "pt": "0-Qualquer um"
+ },
+ "modEnum10096EnumName1": {
+  "en": "1-Heaven-chosen",
+  "ch": "1-天骄",
+  "pt": "1-Escolhido pelo Céu"
+ },
+ "modEnum10096EnumName2": {
+  "en": "2-Illustrious One",
+  "ch": "2-人杰",
+  "pt": "2 - O Ilustre"
+ },
+ "modEnum10096EnumName3": {
+  "en": "3-Normal",
+  "ch": "3-普通",
+  "pt": "3 - Normal"
+ },
+ "modEnum10096Title": {
+  "en": "NPC Type",
+  "ch": "NPC类型",
+  "pt": "Tipo de NPC"
+ },
+ "modEnum10097EnumName0": {
+  "en": "0-Less-than or equal to",
+  "ch": "0-小于等于",
+  "pt": "0 - Menor ou igual a"
+ },
+ "modEnum10097EnumName1": {
+  "en": "1-Equal to",
+  "ch": "1-等于",
+  "pt": "1 - Igual a"
+ },
+ "modEnum10097EnumName2": {
+  "en": "2-Greater-than or equal to",
+  "ch": "2-大于等于",
+  "pt": "2-Maior ou igual a"
+ },
+ "modEnum10097EnumName3": {
+  "en": "3-Less-than",
+  "ch": "3-小于",
+  "pt": "3-Menor que"
+ },
+ "modEnum10097EnumName4": {
+  "en": "4-Greater-than",
+  "ch": "4-大于",
+  "pt": "4-Maior que"
+ },
+ "modEnum10097Title": {
+  "en": "Compare Type",
+  "ch": "比较类型",
+  "pt": "Tipo de comparação"
+ },
+ "modEnum10098EnumName1": {
+  "en": "1-Vitality",
+  "ch": "1-hp",
+  "pt": "1-Vitalidade"
+ },
+ "modEnum10098EnumName11": {
+  "en": "11-Health",
+  "ch": "11-健康",
+  "pt": "11-Saúde"
+ },
+ "modEnum10098EnumName12": {
+  "en": "12-Stamina",
+  "ch": "12-精力",
+  "pt": "12-Vigor"
+ },
+ "modEnum10098EnumName13": {
+  "en": "13-Mood",
+  "ch": "13-心情",
+  "pt": "13-Humor"
+ },
+ "modEnum10098EnumName2": {
+  "en": "2-Energy",
+  "ch": "2-mp",
+  "pt": "2-Energia"
+ },
+ "modEnum10098EnumName3": {
+  "en": "3-Focus",
+  "ch": "3-sp",
+  "pt": "3-Foco"
+ },
+ "modEnum10098Title": {
+  "en": "Basic Stat Type",
+  "ch": "基本属性类型",
+  "pt": "Tipo básico de estatística"
+ },
+ "modEnum10099EnumName0": {
+  "en": "0-Positive Destiny",
+  "ch": "0-正面气运",
+  "pt": "Destino 0-Positivo"
+ },
+ "modEnum10099EnumName1": {
+  "en": "1-Negative Destiny",
+  "ch": "1-负面气运",
+  "pt": "1 - Destino Negativo"
+ },
+ "modEnum10099Title": {
+  "en": "Destiny Type",
+  "ch": "气运类型",
+  "pt": "Tipo de Destino"
+ },
+ "modEnum1009EnumName0": {
+  "en": "0- None",
+  "ch": "0-无",
+  "pt": "0 - Nenhum"
+ },
+ "modEnum1009EnumName1": {
+  "en": "1- Sect Leader",
+  "ch": "1-宗主",
+  "pt": "1- Líder da Seita"
+ },
+ "modEnum1009EnumName2": {
+  "en": "2- Grand Elder",
+  "ch": "2-大长老",
+  "pt": "2- Grão-Ancião"
+ },
+ "modEnum1009EnumName3": {
+  "en": "3- Elder",
+  "ch": "3-长老",
+  "pt": "3- Ancião"
+ },
+ "modEnum1009EnumName4": {
+  "en": "4- True Disciple",
+  "ch": "4-真传弟子",
+  "pt": "4- Verdadeiro Discípulo"
+ },
+ "modEnum1009EnumName5": {
+  "en": "5- Disciple",
+  "ch": "5-内门弟子",
+  "pt": "5- Discípulo"
+ },
+ "modEnum1009EnumName6": {
+  "en": "6- Initiate",
+  "ch": "6-外门弟子",
+  "pt": "6- Iniciar"
+ },
+ "modEnum1009Title": {
+  "en": "Sect position type",
+  "ch": "宗门职位类型",
+  "pt": "Tipo de posição da Seita"
+ },
+ "modEnum10100EnumName0": {
+  "en": "0-Accept",
+  "ch": "0-答应",
+  "pt": "0-Aceitar"
+ },
+ "modEnum10100EnumName1": {
+  "en": "1-Refuse",
+  "ch": "1-拒绝",
+  "pt": "1 - Recusar"
+ },
+ "modEnum10100Title": {
+  "en": "Reply Type",
+  "ch": "回应类型",
+  "pt": "Tipo de resposta"
+ },
+ "modEnum10101EnumName0": {
+  "en": "0-Mount",
+  "ch": "0-坐骑",
+  "pt": "0-Montaria"
+ },
+ "modEnum10101EnumName1": {
+  "en": "1-Ring",
+  "ch": "1-戒指",
+  "pt": "1-Anel"
+ },
+ "modEnum10101Title": {
+  "en": "Gear Type",
+  "ch": "装备类型",
+  "pt": "Tipo de engrenagem"
+ },
+ "modEnum10102EnumName0": {
+  "en": "0-Refuse",
+  "ch": "0-拒绝",
+  "pt": "0 - Recusar"
+ },
+ "modEnum10102EnumName1": {
+  "en": "1-Accept",
+  "ch": "1-答应",
+  "pt": "1-Aceitar"
+ },
+ "modEnum10102Title": {
+  "en": "Reply Type",
+  "ch": "回应类型",
+  "pt": "Tipo de resposta"
+ },
+ "modEnum10103EnumName0": {
+  "en": "0-Alive",
+  "ch": "0-存活",
+  "pt": "0 - Vivo"
+ },
+ "modEnum10103EnumName1": {
+  "en": "1-Dead",
+  "ch": "1-死亡",
+  "pt": "1-Morto"
+ },
+ "modEnum10103EnumName2": {
+  "en": "2-On Last Breath",
+  "ch": "2-一丝元魂",
+  "pt": "2 - Em Último Suspiro"
+ },
+ "modEnum10103Title": {
+  "en": "Soul Status",
+  "ch": "元魂状态",
+  "pt": "Status da Alma"
+ },
+ "modEnum10104EnumName0": {
+  "en": "0-Less-than",
+  "ch": "0-小于",
+  "pt": "0-Menor que"
+ },
+ "modEnum10104EnumName1": {
+  "en": "1-Equal to",
+  "ch": "1-等于",
+  "pt": "1 - Igual a"
+ },
+ "modEnum10104EnumName2": {
+  "en": "2-Greater-than",
+  "ch": "2-大于",
+  "pt": "2-Maior que"
+ },
+ "modEnum10104Title": {
+  "en": "Compare Type",
+  "ch": "比较类型",
+  "pt": "Tipo de comparação"
+ },
+ "modEnum10105EnumName0": {
+  "en": "0-No",
+  "ch": "0-否",
+  "pt": "0-Não"
+ },
+ "modEnum10105EnumName1": {
+  "en": "1-Yes",
+  "ch": "1-是",
+  "pt": "1 - Sim"
+ },
+ "modEnum10105Title": {
+  "en": "Is a Maimed-chosen?",
+  "ch": "是否为废天骄",
+  "pt": "É um Escolhido Mutilado?"
+ },
+ "modEnum10106EnumName0": {
+  "en": "0-No",
+  "ch": "0-否",
+  "pt": "0-Não"
+ },
+ "modEnum10106EnumName1": {
+  "en": "1-Yes",
+  "ch": "1-是",
+  "pt": "1 - Sim"
+ },
+ "modEnum10106EnumName3": {
+  "en": "3-Any",
+  "ch": "3-任意",
+  "pt": "3 - Qualquer"
+ },
+ "modEnum10106Title": {
+  "en": "Is a Champion?",
+  "ch": "是否为魁首",
+  "pt": "É um Campeão?"
+ },
+ "modEnum10107EnumName0": {
+  "en": "0-Not owned",
+  "ch": "0-未拥有",
+  "pt": "0 - Não possuído"
+ },
+ "modEnum10107EnumName1": {
+  "en": "1-Owned",
+  "ch": "1-已拥有",
+  "pt": "1 - Possuído"
+ },
+ "modEnum10107EnumName2": {
+  "en": "2-Owned and equipped",
+  "ch": "2-拥有并佩戴",
+  "pt": "2 - Propriedado e equipado"
+ },
+ "modEnum10107Title": {
+  "en": "Possession Type",
+  "ch": "拥有类型",
+  "pt": "Tipo de Posse"
+ },
+ "modEnum10108EnumName1": {
+  "en": "1-Alchemy",
+  "ch": "1-炼丹",
+  "pt": "1-Alquimia"
+ },
+ "modEnum10108EnumName2": {
+  "en": "2-Forge",
+  "ch": "2-炼器",
+  "pt": "2-Forja"
+ },
+ "modEnum10108EnumName3": {
+  "en": "3-Geomancy",
+  "ch": "3-堪舆",
+  "pt": "3-Geomancia"
+ },
+ "modEnum10108EnumName4": {
+  "en": "4-Talismans",
+  "ch": "4-画符",
+  "pt": "4-Talismãs"
+ },
+ "modEnum10108EnumName5": {
+  "en": "5-Foraging",
+  "ch": "5-采药",
+  "pt": "5 - Forrageamento"
+ },
+ "modEnum10108EnumName6": {
+  "en": "6-Mining",
+  "ch": "6-采矿",
+  "pt": "6-Mineração"
+ },
+ "modEnum10108Title": {
+  "en": "Action Type",
+  "ch": "行为类型",
+  "pt": "Tipo de Ação"
+ },
+ "modEnum10109EnumName1": {
+  "en": "1-Elixir Recipe",
+  "ch": "1-丹方",
+  "pt": "1- Receita de Elixir"
+ },
+ "modEnum10109EnumName2": {
+  "en": "2-Artifact Blueprint",
+  "ch": "2-器谱",
+  "pt": "2 - Plano do Artefato"
+ },
+ "modEnum10109EnumName3": {
+  "en": "3-Feng Shui Book",
+  "ch": "3-风水书",
+  "pt": "3 - Livro de Feng Shui"
+ },
+ "modEnum10109EnumName4": {
+  "en": "4-Talismans Book",
+  "ch": "4-画符书",
+  "pt": "4 - Talismãs Livro"
+ },
+ "modEnum10109EnumName5": {
+  "en": "5-Prescription",
+  "ch": "5-药谱",
+  "pt": "5-Prescrição"
+ },
+ "modEnum10109EnumName6": {
+  "en": "6-Ore Chart",
+  "ch": "6-矿谱",
+  "pt": "6-Diagrama de Minério"
+ },
+ "modEnum10109Title": {
+  "en": "Artisanship Book Type",
+  "ch": "技艺书籍类型",
+  "pt": "Tipo de Livro sobre Artesanato"
+ },
+ "modEnum1010EnumName1": {
+  "en": "1- Early",
+  "ch": "1-前期",
+  "pt": "1- Cedo"
+ },
+ "modEnum1010EnumName2": {
+  "en": "2- Middle",
+  "ch": "2-中期",
+  "pt": "2- Médio"
+ },
+ "modEnum1010EnumName3": {
+  "en": "3- Late",
+  "ch": "3-后期",
+  "pt": "3- Atrasado"
+ },
+ "modEnum10110EnumName1": {
+  "en": "1-Early",
+  "ch": "1-前期",
+  "pt": "1 - Cedo"
+ },
+ "modEnum10110EnumName2": {
+  "en": "2-Middle",
+  "ch": "2-中期",
+  "pt": "2-Meio"
+ },
+ "modEnum10110Title": {
+  "en": "Bottleneck Type",
+  "ch": "瓶颈类型",
+  "pt": "Tipo de Gargalo"
+ },
+ "modEnum10111EnumName1": {
+  "en": "1-Stability",
+  "ch": "1-安定度",
+  "pt": "1 - Estabilidade"
+ },
+ "modEnum10111EnumName2": {
+  "en": "2-Prosperity",
+  "ch": "2-繁荣度",
+  "pt": "2 - Prosperidade"
+ },
+ "modEnum10111EnumName3": {
+  "en": "3-Population",
+  "ch": "3-人口",
+  "pt": "3-População"
+ },
+ "modEnum10111EnumName4": {
+  "en": "4-Prestige",
+  "ch": "4-名誉",
+  "pt": "4-Prestígio"
+ },
+ "modEnum10111EnumName5": {
+  "en": "5-Loyalty",
+  "ch": "5-忠诚度",
+  "pt": "5-Lealdade"
+ },
+ "modEnum10111EnumName6": {
+  "en": "6-Sect Array Durability",
+  "ch": "6-宗门大阵耐久",
+  "pt": "6- Resistência da Formação da Seita"
+ },
+ "modEnum10111EnumName7": {
+  "en": "7-Spirit Stones",
+  "ch": "7-灵石",
+  "pt": "7 - Pedras Espirituais"
+ },
+ "modEnum10111EnumName8": {
+  "en": "8-Herbs",
+  "ch": "8-药材",
+  "pt": "8-Ervas"
+ },
+ "modEnum10111EnumName9": {
+  "en": "9-Ore",
+  "ch": "9-矿材",
+  "pt": "9-Minério"
+ },
+ "modEnum10111Title": {
+  "en": "Sect Stats Type",
+  "ch": "宗门属性类型",
+  "pt": "Tipo de Atributos da Seita"
+ },
+ "modEnum10112EnumName0": {
+  "en": "0-No",
+  "ch": "0-不是",
+  "pt": "0-Não"
+ },
+ "modEnum10112EnumName1": {
+  "en": "1-Yes",
+  "ch": "1-是",
+  "pt": "1 - Sim"
+ },
+ "modEnum10112EnumName3": {
+  "en": "3-Any",
+  "ch": "3-任意",
+  "pt": "3-Qualquer"
+ },
+ "modEnum10112Title": {
+  "en": "On Last Breath?",
+  "ch": "是否为一丝元魂状态",
+  "pt": "Sobre o Último Suspiro?"
+ },
+ "modEnum10113EnumName0": {
+  "en": "0-No",
+  "ch": "0-不是",
+  "pt": "0-Não"
+ },
+ "modEnum10113EnumName1": {
+  "en": "1-Yes",
+  "ch": "1-是",
+  "pt": "1 - Sim"
+ },
+ "modEnum10113EnumName3": {
+  "en": "3-Any",
+  "ch": "3-任意",
+  "pt": "3 - Qualquer"
+ },
+ "modEnum10113Title": {
+  "en": "Under Body Reconstruction?",
+  "ch": "是否为重塑肉身状态",
+  "pt": "Sob Reconstrução do Corpo?"
+ },
+ "modEnum10114EnumName1": {
+  "en": "1-Bagua Jade",
+  "ch": "1-双鱼佩",
+  "pt": "1-Jade Bagua"
+ },
+ "modEnum10114EnumName2": {
+  "en": "2-Eye of Providence",
+  "ch": "2-昊天眼",
+  "pt": "2-O Olho da Providência"
+ },
+ "modEnum10114EnumName3": {
+  "en": "3-Mythical Gourd",
+  "ch": "3-炼妖壶",
+  "pt": "3 - Cabaça Mítica"
+ },
+ "modEnum10114Title": {
+  "en": "Artifact Type",
+  "ch": "神器类型",
+  "pt": "Tipo de Artefato"
+ },
+ "modEnum10115EnumName-1": {
+  "en": "-1 Do not make a check",
+  "ch": "-1 不判断",
+  "pt": "-1 Não faça um cheque"
+ },
+ "modEnum10115EnumName0": {
+  "en": "0 The player themselves",
+  "ch": "0 玩家自身",
+  "pt": "0 O próprio jogador"
+ },
+ "modEnum10115EnumName1": {
+  "en": "0 NPC-A",
+  "ch": "0 NPC-A",
+  "pt": "0 NPC-A"
+ },
+ "modEnum10115EnumName2": {
+  "en": "1 NPC-B",
+  "ch": "1 NPC-B",
+  "pt": "1 NPC-B"
+ },
+ "modEnum10115EnumName4": {
+  "en": "4 Non-player",
+  "ch": "4 非玩家",
+  "pt": "4 Não-jogadores"
+ },
+ "modEnum10115Title": {
+  "en": "Taoist Mind last shattered by?",
+  "ch": "上一次道心破碎是何人所为",
+  "pt": "Quando foi a última vez que o Coração do Dao ficou despedaçado?"
+ },
+ "modEnum10117EnumName1": {
+  "en": "1- Minor Sect Building Icon (for normal minor sects)",
+  "ch": "1-小宗门建筑图标（一般小宗门使用）",
+  "pt": "1- Ícone de construção para Seitas menores (para seitas menores comuns)"
+ },
+ "modEnum10117EnumName2": {
+  "en": "2- Small Building Icon",
+  "ch": "2-小型建筑图标",
+  "pt": "2- Ícone de prédio pequeno"
+ },
+ "modEnum10117EnumName3": {
+  "en": "3- Medium Building Icon",
+  "ch": "3-中型建筑图标",
+  "pt": "3- Ícone de Prédio Médio"
+ },
+ "modEnum10117EnumName4": {
+  "en": "4- Big Building Icon",
+  "ch": "4-大型建筑图标",
+  "pt": "4- Ícone de Prédio Grande"
+ },
+ "modEnum10117Title": {
+  "en": "Sect Building Icon",
+  "ch": "宗门建筑图标",
+  "pt": "Ícone do Edifício da Seita"
+ },
+ "modEnum10118EnumName1": {
+  "en": "1- Minor Sect",
+  "ch": "1-小宗门",
+  "pt": "1- Seita Menor"
+ },
+ "modEnum10118EnumName2": {
+  "en": "2- Small Sect",
+  "ch": "2-小型宗门",
+  "pt": "2- Pequena Seita"
+ },
+ "modEnum10118EnumName3": {
+  "en": "3- Medium Sect",
+  "ch": "3-中型宗门",
+  "pt": "3- Seita de Nível Médio"
+ },
+ "modEnum10118EnumName4": {
+  "en": "4- Large Sect",
+  "ch": "4-大型宗门",
+  "pt": "4- Grande Seita"
+ },
+ "modEnum10118Title": {
+  "en": "Sect Scale",
+  "ch": "宗门大小",
+  "pt": "Escala da Seita"
+ },
+ "modEnum10119EnumName0": {
+  "en": "0- Rogue Cultivator",
+  "ch": "0-散修",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "0 - Cultivador Rebelde"
+ },
+ "modEnum10119EnumName1": {
+  "en": "1- Join Sect",
+  "ch": "1-加入宗门",
+  "pt": "1- Junte-se à Seita"
+ },
+ "modEnum10119Title": {
+  "en": "Position Type",
+  "ch": "身份类型",
+  "pt": "Tipo de posição"
+ },
+ "modEnum10120EnumName1": {
+  "en": "1- Same sect",
+  "ch": "1-相同宗门",
+  "pt": "1- Mesma seita"
+ },
+ "modEnum10120EnumName11": {
+  "en": "11- Not in the same sect",
+  "ch": "11-两人不在同一宗门",
+  "pt": "11- Não pertencem à mesma seita"
+ },
+ "modEnum10120EnumName12": {
+  "en": "12- Friendly Sect",
+  "ch": "12-友好宗门",
+  "pt": "12- Seita Amigável"
+ },
+ "modEnum10120EnumName2": {
+  "en": "2- Different sect, same faction",
+  "ch": "2-不同宗门但立场相同",
+  "pt": "2- Seita diferente, mesma facção"
+ },
+ "modEnum10120EnumName3": {
+  "en": "3- Different sect, different faction",
+  "ch": "3-不同宗门且立场不同",
+  "pt": "3- Seita diferente, facção diferente"
+ },
+ "modEnum10120EnumName4": {
+  "en": "4- Enemy sect",
+  "ch": "4-敌对宗门",
+  "pt": "4- Seita inimiga"
+ },
+ "modEnum10120EnumName5": {
+  "en": "5- Different sect, no faction determiner",
+  "ch": "5-不同宗门，不判定立场",
+  "pt": "5- Seita diferente; nenhum determinador de facção"
+ },
+ "modEnum10120EnumName6": {
+  "en": "6- Others",
+  "ch": "6-其它",
+  "pt": "6- Outros"
+ },
+ "modEnum10120Title": {
+  "en": "Sect determiner type",
+  "ch": "宗门判定类型",
+  "pt": "Tipo de determinador de Seita"
+ },
+ "modEnum10121EnumName1": {
+  "en": "1- Prosperity",
+  "ch": "1-繁荣度",
+  "pt": "1- Prosperidade"
+ },
+ "modEnum10121EnumName2": {
+  "en": "2- No. of Backup Disciples",
+  "ch": "2-记名弟子数量",
+  "pt": "2- Número de Discípulos de reserva"
+ },
+ "modEnum10121Title": {
+  "en": "Sect Stats Type",
+  "ch": "宗门属性类型",
+  "pt": "Tipo de Atributos da Seita"
+ },
+ "modEnum10122EnumName0": {
+  "en": "0-Random Route",
+  "ch": "0-随机路线",
+  "pt": "0-Rota Aleatória"
+ },
+ "modEnum10122EnumName1": {
+  "en": "1-Straight Line Upward",
+  "ch": "1-从下往上走一条直线",
+  "pt": "1 - Linha reta para cima"
+ },
+ "modEnum10122EnumName2": {
+  "en": "2-Straight Line Downward",
+  "ch": "2-从上往下走一条直线",
+  "pt": "2 - Linha reta para baixo"
+ },
+ "modEnum10122EnumName3": {
+  "en": "3-Straight Line Rightward",
+  "ch": "3-从左往右走一条直线",
+  "pt": "3 - Linha reta para a direita"
+ },
+ "modEnum10122EnumName4": {
+  "en": "4-Straight Line Leftward",
+  "ch": "4-从右往左走一条直线",
+  "pt": "4 - Linha reta para a esquerda"
+ },
+ "modEnum10122Title": {
+  "en": "Room Route Type",
+  "ch": "房间路线类型",
+  "pt": "Tipo de rota do quarto"
+ },
+ "modEnum10123EnumName0": {
+  "en": "0-Escape not allowed in dungeon",
+  "ch": "0-不可在副本内逃跑",
+  "pt": "0 - Fugas não são permitidas na masmorra"
+ },
+ "modEnum10123EnumName1": {
+  "en": "1-Escape allowed in dungeon",
+  "ch": "1-可以在副本内逃跑",
+  "pt": "1 - Fuga permitida na masmorra"
+ },
+ "modEnum10123Title": {
+  "en": "Whether escape is allowed",
+  "ch": "是否可以逃跑",
+  "pt": "Se a fuga é permitida"
+ },
+ "modEnum10124EnumDesc1": {
+  "en": "This option is only available after creating a BOSS room. Victory is won after killing the BOSS.",
+  "ch": "只有创建了BOSS房间才能使用此选项，击杀BOSS后胜利。",
+  "pt": "Esta opção só está disponível após a criação de uma sala de BOSS. A vitória é obtida após matar o BOSS."
+ },
+ "modEnum10124EnumDesc2": {
+  "en": "Victory is won after killing all normal monsters and the BOSS.",
+  "ch": "击杀了所有普通怪物和BOSS后胜利。",
+  "pt": "A vitória é alcançada após matar todos os monstros comuns e o CHEFE."
+ },
+ "modEnum10124EnumDesc3": {
+  "en": "This option is only available after setting a dungeon time limit. Victory is won after surviving until the dungeon timer runs out.",
+  "ch": "只有配置了副本时间限制才能使用此选项，在副本坚持到时间限制后胜利。",
+  "pt": "Esta opção só está disponível após definir um limite de tempo para a masmorra. A vitória é alcançada ao sobreviver até que o temporizador da masmorra acabe."
+ },
+ "modEnum10124EnumName1": {
+  "en": "1-Kill BOSS",
+  "ch": "1-击杀BOSS",
+  "pt": "1-Mate o CHEFE"
+ },
+ "modEnum10124EnumName2": {
+  "en": "2-Kill all monsters",
+  "ch": "2-击杀所有怪物",
+  "pt": "2 - Mate todos os monstros"
+ },
+ "modEnum10124EnumName3": {
+  "en": "3-Dungeon time up",
+  "ch": "3-达到副本时间限制",
+  "pt": "3 - Tempo do calabouço esgotado"
+ },
+ "modEnum10124Title": {
+  "en": "Victory Condition",
+  "ch": "胜利条件",
+  "pt": "Condição de Vitória"
+ },
+ "modEnum10125EnumDesc0": {
+  "en": "Dungeon defeat interface won't appear. When the player dies, revival or body restructuring interface appears.",
+  "ch": "不会出现副本失败界面，玩家死亡则出现复活或者凝聚肉身界面。",
+  "pt": "A interface de derrota na masmorra não aparecerá. Quando o jogador morre, aparece a interface de ressurreição ou de reestruturação do corpo."
+ },
+ "modEnum10125EnumDesc1": {
+  "en": "When the player dies for the first time, dungeon defeat interface appears immediately. Revival or body restructuring interface won't appear.",
+  "ch": "玩家第一次死亡后，立刻出现副本失败界面，不会出现复活或者凝聚肉身界面。",
+  "pt": "Quando o jogador morre pela primeira vez, a interface de derrota na masmorra aparece imediatamente. A interface de ressurreição ou de reestruturação do corpo não será exibida."
+ },
+ "modEnum10125EnumDesc4": {
+  "en": "This option is only available after setting a dungeon time limit. Dungeon defeat interface appears once the dungeon timer runs out.",
+  "ch": "只有配置了副本时间限制才能使用此选项，超出副本时间限制后，立刻出现副本失败界面。",
+  "pt": "Esta opção só está disponível após definir um limite de tempo para a masmorra. A interface de derrota da masmorra aparece quando o temporizador da masmorra chega ao fim."
+ },
+ "modEnum10125EnumName0": {
+  "en": "0-None",
+  "ch": "0-无失败条件",
+  "pt": "0 - Nenhum"
+ },
+ "modEnum10125EnumName1": {
+  "en": "1-Player dies",
+  "ch": "1-玩家死亡",
+  "pt": "1 - O jogador morre"
+ },
+ "modEnum10125EnumName4": {
+  "en": "4-Dungeon time up",
+  "ch": "4-超出副本时间限制",
+  "pt": "4-Tempo da masmorra esgotado"
+ },
+ "modEnum10125Title": {
+  "en": "Defeat Condition",
+  "ch": "失败条件",
+  "pt": "Condição de Derrota"
+ },
+ "modEnum10126EnumName_atk": {
+  "en": "ATK",
+  "ch": "攻击力",
+  "pt": "ATQ"
+ },
+ "modEnum10126EnumName_basAll": {
+  "en": "All Spiritual Root Stats",
+  "ch": "所有灵根资质",
+  "pt": "Todos os Atributos da Raiz Espiritual"
+ },
+ "modEnum10126EnumName_basBlade": {
+  "en": "Blade",
+  "ch": "刀资质",
+  "pt": "Lâmina"
+ },
+ "modEnum10126EnumName_basEarth": {
+  "en": "Earth Root",
+  "ch": "土灵根",
+  "pt": "Raiz de Terra"
+ },
+ "modEnum10126EnumName_basFinger": {
+  "en": "Finger",
+  "ch": "指资质",
+  "pt": "Dedo"
+ },
+ "modEnum10126EnumName_basFire": {
+  "en": "Fire Root",
+  "ch": "火灵根",
+  "pt": "Raiz de Fogo"
+ },
+ "modEnum10126EnumName_basFist": {
+  "en": "Fist",
+  "ch": "拳资质",
+  "pt": "Punho"
+ },
+ "modEnum10126EnumName_basFroze": {
+  "en": "Water Root",
+  "ch": "水灵根",
+  "pt": "Raiz de Água"
+ },
+ "modEnum10126EnumName_basPalm": {
+  "en": "Palm",
+  "ch": "掌资质",
+  "pt": "Palma"
+ },
+ "modEnum10126EnumName_basSpear": {
+  "en": "Spear",
+  "ch": "枪资质",
+  "pt": "Lança"
+ },
+ "modEnum10126EnumName_basSword": {
+  "en": "Sword",
+  "ch": "剑资质",
+  "pt": "Espada"
+ },
+ "modEnum10126EnumName_basThunder": {
+  "en": "Lightning Root",
+  "ch": "雷灵根",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Raiz de Relâmpago"
+ },
+ "modEnum10126EnumName_basWind": {
+  "en": "Wind Root",
+  "ch": "风灵根",
+  "pt": "Raiz de Vento"
+ },
+ "modEnum10126EnumName_basWood": {
+  "en": "Wood Root",
+  "ch": "木灵根",
+  "pt": "Raiz de Madeira"
+ },
+ "modEnum10126EnumName_crit": {
+  "en": "Crit",
+  "ch": "暴击",
+  "pt": "Crítico"
+ },
+ "modEnum10126EnumName_critV": {
+  "en": "CRIT DMG",
+  "ch": "暴击倍数",
+  "pt": "DANO CRÍTICO"
+ },
+ "modEnum10126EnumName_def": {
+  "en": "DEF",
+  "ch": "防御力",
+  "pt": "DEF"
+ },
+ "modEnum10126EnumName_guard": {
+  "en": "Crit RES",
+  "ch": "护心",
+  "pt": "RES Crítico"
+ },
+ "modEnum10126EnumName_guardV": {
+  "en": "Crit RES Rate",
+  "ch": "护心倍率",
+  "pt": "Taxa de RES Crítico"
+ },
+ "modEnum10126EnumName_hp": {
+  "en": "Max Vitality",
+  "ch": "最大体力",
+  "pt": "Vitalidade Máx"
+ },
+ "modEnum10126EnumName_mfr": {
+  "en": "Deviation RES",
+  "ch": "魔法免伤",
+  "pt": "Desvio RES"
+ },
+ "modEnum10126EnumName_moveSpeed": {
+  "en": "Agility",
+  "ch": "移动速度",
+  "pt": "Agilidade"
+ },
+ "modEnum10126EnumName_mp": {
+  "en": "Max Energy",
+  "ch": "最大灵力",
+  "pt": "Energia Máx"
+ },
+ "modEnum10126EnumName_pfr": {
+  "en": "Physical RES",
+  "ch": "物理免伤",
+  "pt": "RES físico"
+ },
+ "modEnum10126EnumName_sp": {
+  "en": "Max Focus",
+  "ch": "最大念力",
+  "pt": "Foco Máx"
+ },
+ "modEnum10126Title": {
+  "en": "Monster Stats",
+  "ch": "怪物属性",
+  "pt": "Atributos do Monstro"
+ },
+ "modEnum10127EnumName_0": {
+  "en": "0-Highest Realm",
+  "ch": "0-境界最高",
+  "pt": "0 - Reino mais elevado"
+ },
+ "modEnum10127EnumName_1": {
+  "en": "1-Lowest Realm",
+  "ch": "1-境界最低",
+  "pt": "1 - Reino mais inferior"
+ },
+ "modEnum10127EnumName_10": {
+  "en": "10-Highest Reputation",
+  "ch": "10-声望最高",
+  "pt": "10 - Maior Reputação"
+ },
+ "modEnum10127EnumName_11": {
+  "en": "11-Lowest Reputation",
+  "ch": "11-声望最低",
+  "pt": "11 - Menor Reputação"
+ },
+ "modEnum10127EnumName_2": {
+  "en": "2-Highest Position",
+  "ch": "2-身份最高",
+  "pt": "2 - Posição mais alta"
+ },
+ "modEnum10127EnumName_3": {
+  "en": "3-Lowest Position",
+  "ch": "3-身份最低",
+  "pt": "3 - Posição mais baixa"
+ },
+ "modEnum10127EnumName_4": {
+  "en": "4-Oldest",
+  "ch": "4-年龄最大",
+  "pt": "4 - O mais velho"
+ },
+ "modEnum10127EnumName_5": {
+  "en": "5-Youngest",
+  "ch": "5-年龄最小",
+  "pt": "5 - Mais jovem"
+ },
+ "modEnum10127EnumName_6": {
+  "en": "6-Nearest",
+  "ch": "6-地理位置上离我最近",
+  "pt": "6 - Mais próximos"
+ },
+ "modEnum10127EnumName_7": {
+  "en": "7-Farthest",
+  "ch": "7-地理位置上离我最远",
+  "pt": "7 - O mais distante"
+ },
+ "modEnum10127EnumName_8": {
+  "en": "8-Highest Charisma",
+  "ch": "8-魅力值最高",
+  "pt": "8 - Maior nível de Carisma"
+ },
+ "modEnum10127EnumName_9": {
+  "en": "9-Lowest Charisma",
+  "ch": "9-魅力值最低",
+  "pt": "9 - Menor nível de Carisma"
+ },
+ "modEnum10127Title": {
+  "en": "Specified Condition",
+  "ch": "指定条件",
+  "pt": "Condição Especificada"
+ },
+ "modEnum10128EnumDesc0": {
+  "en": "Kuafu Max Vitality 5,000",
+  "ch": "夸父最大体力5000",
+  "pt": "Kuafu - Vitalidade Máx: 5.000"
+ },
+ "modEnum10128EnumDesc1": {
+  "en": "Kuafu Max Stamina 1,500",
+  "ch": "夸父最大精力1500",
+  "pt": "Kuafu - Vigor Máx: 1.500"
+ },
+ "modEnum10128EnumDesc2": {
+  "en": "Kuafu Max Health 1,000",
+  "ch": "夸父最大健康1000",
+  "pt": "Saúde Máx de Kuafu: 1.000"
+ },
+ "modEnum10128EnumName_0": {
+  "en": "0-Current Vitality",
+  "ch": "0-当前体力",
+  "pt": "0-Vitalidade atual"
+ },
+ "modEnum10128EnumName_1": {
+  "en": "1-Current Stamina",
+  "ch": "1-当前精力",
+  "pt": "1 - Vigor atual"
+ },
+ "modEnum10128EnumName_2": {
+  "en": "2-Current Health",
+  "ch": "2-当前健康",
+  "pt": "2 - Saúde atual"
+ },
+ "modEnum10128Title": {
+  "en": "Kuafu Status",
+  "ch": "夸父状态",
+  "pt": "Status do Kuafu"
+ },
+ "modEnum10129EnumName0": {
+  "en": "0-Without Artifact Spirit",
+  "ch": "0-没有器灵",
+  "pt": "0 - Sem Espírito do Artefato"
+ },
+ "modEnum10129EnumName1": {
+  "en": "1-With Artifact Spirit",
+  "ch": "1-有器灵",
+  "pt": "1 - Com o Espírito do Artefato"
+ },
+ "modEnum10129Title": {
+  "en": "Artifact Spirit Status",
+  "ch": "是否拥有器灵",
+  "pt": "Status do Espírito do Artefato"
+ },
+ "modEnum1012EnumName0": {
+  "en": "0- No type limit",
+  "ch": "0-不限类型",
+  "pt": "0- Sem limite de tipo"
+ },
+ "modEnum1012Title": {
+  "en": "Manual type",
+  "ch": "秘籍类型",
+  "pt": "Tipo de Manual"
+ },
+ "modEnum10130EnumName0": {
+  "en": "0-Resource point of any Sect",
+  "ch": "0-是任意宗门的资源点",
+  "pt": "0 - Ponto de recurso de qualquer Seita"
+ },
+ "modEnum10130EnumName1": {
+  "en": "1-Resource point of your Sect",
+  "ch": "1-是我宗门的资源点",
+  "pt": "1 - Ponto de recurso da sua Seita"
+ },
+ "modEnum10130EnumName2": {
+  "en": "2-Resource point of another Sect",
+  "ch": "2-是其他宗门的资源点",
+  "pt": "2 - Ponto de recurso de outra Seita"
+ },
+ "modEnum10130EnumName3": {
+  "en": "3-Resource point in the player's raid mission",
+  "ch": "3-是玩家身上掠夺任务的目标资源点",
+  "pt": "3-Ponto de recurso na missão de ataque do jogador"
+ },
+ "modEnum10130Title": {
+  "en": "Checks the Sect resource point type at the player's current position",
+  "ch": "判断玩家当前位置的宗门资源点类型",
+  "pt": "Verifica o tipo de ponto de recurso da Seita na posição atual do jogador."
+ },
+ "modEnum10131EnumName101": {
+  "en": "101-XX No.1 XX",
+  "ch": "101-XX第一XX",
+  "pt": "101-XX No1 XX"
+ },
+ "modEnum10131EnumName102": {
+  "en": "102-Charmer XX",
+  "ch": "102-风流XX",
+  "pt": "102-Encantador XX"
+ },
+ "modEnum10131EnumName103": {
+  "en": "103-XX Champion",
+  "ch": "103-XX魁首",
+  "pt": "103-XX Campeão"
+ },
+ "modEnum10131EnumName104": {
+  "en": "104-Benefactor XX",
+  "ch": "104-散财XX",
+  "pt": "104-Benfeitor XX"
+ },
+ "modEnum10131EnumName105": {
+  "en": "105-Fashion XX",
+  "ch": "105-霓裳XX",
+  "pt": "105-Moda XX"
+ },
+ "modEnum10131EnumName106": {
+  "en": "106-Carefree XX",
+  "ch": "106-逍遥XX",
+  "pt": "106-Sem preocupações XX"
+ },
+ "modEnum10131EnumName108": {
+  "en": "108-Instrument XX",
+  "ch": "108-妙器XX",
+  "pt": "108-Instrumento XX"
+ },
+ "modEnum10131Title": {
+  "en": "Taoist Title Type",
+  "ch": "道号类型",
+  "pt": "Tipo de Título Daoísta"
+ },
+ "modEnum10132EnumName0": {
+  "en": "0-Highest item unit price",
+  "ch": "0-单个道具价值最高",
+  "pt": "0 - Preço unitário máximo do item"
+ },
+ "modEnum10132EnumName1": {
+  "en": "1-Highest Rarity",
+  "ch": "1-稀有度最高",
+  "pt": "1 - Raridade máxima"
+ },
+ "modEnum10132EnumName2": {
+  "en": "2-Highest item total price",
+  "ch": "2-（道具价值*道具数量）数值最高",
+  "pt": "2 - Maior preço total do item"
+ },
+ "modEnum10132Title": {
+  "en": "Item Picking Criterion",
+  "ch": "道具挑选方式",
+  "pt": "Critério de Seleção de Item"
+ },
+ "modEnum10133EnumName0": {
+  "en": "0-Check Realm (may become Last Breath)",
+  "ch": "0-判断境界（会变成一丝元魂）",
+  "pt": "0-Verificar Reino (pode se tornar Último Suspiro)"
+ },
+ "modEnum10133EnumName1": {
+  "en": "1-Die immediately (never become Last Breath)",
+  "ch": "1-直接死亡（不会变成一丝元魂）",
+  "pt": "1 - Morra imediatamente (nunca se torne um Último Suspiro)"
+ },
+ "modEnum10133Title": {
+  "en": "Kill Type",
+  "ch": "击杀类型",
+  "pt": "Tipo de Kill"
+ },
+ "modEnum10134EnumName0": {
+  "en": "Last Breath",
+  "ch": "一丝元魂",
+  "pt": "Último Suspiro"
+ },
+ "modEnum10134EnumName1": {
+  "en": "Dead",
+  "ch": "死亡",
+  "pt": "Morto"
+ },
+ "modEnum10134Title": {
+  "en": "Set Type",
+  "ch": "设置类型",
+  "pt": "Tipo de conjunto"
+ },
+ "modEnum10135EnumName0": {
+  "en": "Normal NPC",
+  "ch": "普通NPC",
+  "pt": "NPC normal"
+ },
+ "modEnum10135EnumName1": {
+  "en": "Wave of Monsters NPC",
+  "ch": "兽潮NPC",
+  "pt": "NPC da Onda de Monstros"
+ },
+ "modEnum10135EnumName2": {
+  "en": "Heaven-chosen NPC",
+  "ch": "天骄NPC",
+  "pt": "NPC escolhido pelo Céu"
+ },
+ "modEnum10136EnumName10": {
+  "en": "Master",
+  "ch": "师傅",
+  "pt": "Mestre"
+ },
+ "modEnum10136EnumName11": {
+  "en": "Apprentice",
+  "ch": "徒弟",
+  "pt": "Aprendiz"
+ },
+ "modEnum10136EnumName6": {
+  "en": "Adoptive Child",
+  "ch": "义子女",
+  "pt": "Filho adotivo"
+ },
+ "modEnum10136EnumName7": {
+  "en": "Sworn Sibling",
+  "ch": "义兄弟",
+  "pt": "Irmãos jurados"
+ },
+ "modEnum10136EnumName8": {
+  "en": "Spouse - Need to be Couple first",
+  "ch": "夫妻-需要先成为情侣",
+  "pt": "Cônjuge - É preciso ser casal primeiro"
+ },
+ "modEnum10136EnumName9": {
+  "en": "Couple",
+  "ch": "情侣",
+  "pt": "Casal"
+ },
+ "modEnum10137EnumName1": {
+  "en": "Sect at the current location",
+  "ch": "脚下的宗门",
+  "pt": "Seita no local atual"
+ },
+ "modEnum10137EnumName2": {
+  "en": "Sect that joined",
+  "ch": "所属宗门",
+  "pt": "Seita que se uniu"
+ },
+ "modEnum10138EnumName0": {
+  "en": "0- No conditions",
+  "ch": "0-无条件",
+  "pt": "0- Sem condições"
+ },
+ "modEnum10138EnumName1": {
+  "en": "1- Win",
+  "ch": "1-胜利",
+  "pt": "1- Vitória"
+ },
+ "modEnum10138EnumName2": {
+  "en": "2- Lose",
+  "ch": "2-失败",
+  "pt": "2- Perder"
+ },
+ "modEnum10138Title": {
+  "en": "Battle result in dungeon",
+  "ch": "副本的战斗结果",
+  "pt": "Resultado da Batalha no calabouço"
+ },
+ "modEnum1013EnumName2": {
+  "en": "2- Hard",
+  "ch": "2-困难",
+  "pt": "2- Difícil"
+ },
+ "modEnum1013EnumName3": {
+  "en": "3- Nightmare",
+  "ch": "3-极难",
+  "pt": "3- Pesadelo"
+ },
+ "modEnum1013EnumName4": {
+  "en": "4- Hell",
+  "ch": "4-地狱",
+  "pt": "4- Inferno"
+ },
+ "modEnum1013EnumName5": {
+  "en": "5- Chaos",
+  "ch": "5-洪荒",
+  "pt": "5- Caos"
+ },
+ "modEnum1013Title": {
+  "en": "Game difficulty type",
+  "ch": "游戏难度类型",
+  "pt": "Tipo de dificuldade do jogo"
+ },
+ "modEnum1014EnumName0": {
+  "en": "0- False",
+  "ch": "0-否",
+  "pt": "0 - Falso"
+ },
+ "modEnum1014EnumName1": {
+  "en": "1- True",
+  "ch": "1-是",
+  "pt": "1- Verdadeiro"
+ },
+ "modEnum1014Title": {
+  "en": "True or False",
+  "ch": "是否",
+  "pt": "Verdadeiro ou Falso"
+ },
+ "modEnum1015EnumName0": {
+  "en": "0- No",
+  "ch": "0-没有",
+  "pt": "0- Não"
+ },
+ "modEnum1015EnumName1": {
+  "en": "1- Yes",
+  "ch": "1-有",
+  "pt": "1- Sim"
+ },
+ "modEnum1015Title": {
+  "en": "Yes or no",
+  "ch": "有没有",
+  "pt": "Sim ou não"
+ },
+ "modEnum1016EnumName0": {
+  "en": "0- Loss",
+  "ch": "0-失败",
+  "pt": "0- Perda"
+ },
+ "modEnum1016EnumName1": {
+  "en": "1- Win",
+  "ch": "1-胜利",
+  "pt": "1- Vitória"
+ },
+ "modEnum1016Title": {
+  "en": "If the dungeon result is victorious or not",
+  "ch": "副本结算是否胜利",
+  "pt": "Se o resultado da masmorra foi vitorioso ou não"
+ },
+ "modEnum1017EnumName3": {
+  "en": "3- Herb",
+  "ch": "3-药材",
+  "pt": "3- Erva"
+ },
+ "modEnum1017EnumName4": {
+  "en": "4- Ore",
+  "ch": "4-金石",
+  "pt": "4- Minério"
+ },
+ "modEnum1017Title": {
+  "en": "Tile stat type",
+  "ch": "格子属性类型",
+  "pt": "Tipo de estatística do azulejo"
+ },
+ "modEnum1018EnumName3": {
+  "en": "3- Sect",
+  "ch": "3-宗门",
+  "pt": "3- Seita"
+ },
+ "modEnum1018EnumName4": {
+  "en": "4- Town",
+  "ch": "4-城镇",
+  "pt": "4- Vila"
+ },
+ "modEnum1018Title": {
+  "en": "Building types",
+  "ch": "建筑类型",
+  "pt": "Tipos de construções"
+ },
+ "modEnum1019EnumName1": {
+  "en": "Blade",
+  "ch": "刀",
+  "pt": "Lâmina"
+ },
+ "modEnum1019EnumName11": {
+  "en": "Fire",
+  "ch": "火",
+  "pt": "Fogo"
+ },
+ "modEnum1019EnumName12": {
+  "en": "Water",
+  "ch": "水",
+  "pt": "Água"
+ },
+ "modEnum1019EnumName13": {
+  "en": "Lightning",
+  "ch": "雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago"
+ },
+ "modEnum1019EnumName14": {
+  "en": "Wind",
+  "ch": "风",
+  "pt": "Vento"
+ },
+ "modEnum1019EnumName15": {
+  "en": "Earth",
+  "ch": "土",
+  "pt": "Terra"
+ },
+ "modEnum1019EnumName16": {
+  "en": "Wood",
+  "ch": "木",
+  "pt": "Madeira"
+ },
+ "modEnum1019EnumName2": {
+  "en": "Spear",
+  "ch": "枪",
+  "pt": "Lança"
+ },
+ "modEnum1019EnumName3": {
+  "en": "Sword",
+  "ch": "剑",
+  "pt": "Espada"
+ },
+ "modEnum1019EnumName4": {
+  "en": "Fist",
+  "ch": "拳",
+  "pt": "Punho"
+ },
+ "modEnum1019EnumName5": {
+  "en": "Palm",
+  "ch": "掌",
+  "pt": "Palma"
+ },
+ "modEnum1019EnumName6": {
+  "en": "Finger",
+  "ch": "指",
+  "pt": "Dedo"
+ },
+ "modEnum1019Title": {
+  "en": "Martial Arts Type",
+  "ch": "功法类型",
+  "pt": "Tipo de Artes Marciais"
+ },
+ "modEnum1020EnumName1": {
+  "en": "1- Blade",
+  "ch": "1-刀",
+  "pt": "1- Lâmina"
+ },
+ "modEnum1020EnumName11": {
+  "en": "11- Fire",
+  "ch": "11-火",
+  "pt": "11- Fogo"
+ },
+ "modEnum1020EnumName12": {
+  "en": "12- Water",
+  "ch": "12-水",
+  "pt": "12- Água"
+ },
+ "modEnum1020EnumName13": {
+  "en": "13- Lightning",
+  "ch": "13-雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "13- Relâmpago"
+ },
+ "modEnum1020EnumName14": {
+  "en": "14- Wind",
+  "ch": "14-风",
+  "pt": "14- Vento"
+ },
+ "modEnum1020EnumName15": {
+  "en": "15- Earth",
+  "ch": "15-土",
+  "pt": "15- Terra"
+ },
+ "modEnum1020EnumName16": {
+  "en": "16- Wood",
+  "ch": "16-木",
+  "pt": "16- Madeira"
+ },
+ "modEnum1020EnumName2": {
+  "en": "2- Spear",
+  "ch": "2-枪",
+  "pt": "2- Lança"
+ },
+ "modEnum1020EnumName3": {
+  "en": "3- Sword",
+  "ch": "3-剑",
+  "pt": "3- Espada"
+ },
+ "modEnum1020EnumName4": {
+  "en": "4- Fist",
+  "ch": "4-拳",
+  "pt": "4- Punho"
+ },
+ "modEnum1020EnumName5": {
+  "en": "5- Palm",
+  "ch": "5-掌",
+  "pt": "5- Palma"
+ },
+ "modEnum1020EnumName6": {
+  "en": "6- Finger",
+  "ch": "6-指",
+  "pt": "6- Dedo"
+ },
+ "modEnum1020Title": {
+  "en": "Martial Arts Type",
+  "ch": "功法类型",
+  "pt": "Tipo de Artes Marciais"
+ },
+ "modEnum1021EnumName5": {
+  "en": "5- Hundred Thousand Hills",
+  "ch": "5-十万大山",
+  "pt": "5- Cem Mil Colinas"
+ },
+ "modEnum1021EnumName9": {
+  "en": "9- Wayward Desert",
+  "ch": "9-迷途荒漠",
+  "pt": "9- Deserto Rebelde"
+ },
+ "modEnum1021Title": {
+  "en": "Area Type",
+  "ch": "区域类型",
+  "pt": "Tipo de área"
+ },
+ "modEnum1022Title": {
+  "en": "Level",
+  "ch": "等级",
+  "pt": "Nível"
+ },
+ "modEnum1023Title": {
+  "en": "Manual Weapon Type Requirement",
+  "ch": "秘籍武器类型要求",
+  "pt": "Requisito de tipo de arma no Manual"
+ },
+ "modEnum1024Title": {
+  "en": "Manual Stats Type Requirement",
+  "ch": "秘籍属性类型要求",
+  "pt": "Tipo de requisito de Atributos no Manual"
+ },
+ "modEnum46428Title": {
+  "en": "Sect type",
+  "ch": "宗门类型",
+  "pt": "Tipo de Seita"
+ },
+ "modFunctionTitle_abClose": {
+  "en": "Character 1's affinity toward Character 2",
+  "ch": "增加角色1对角色2的亲密度",
+  "pt": "A afinidade do Personagem 1 pelo Personagem 2"
+ },
+ "modFunctionTitle_abCloseSet": {
+  "en": "Clear character 1's Hatred against character 2, and set their Affinity value.",
+  "ch": "清除指定角色1对指定角色2的仇恨度，并将亲密度设置为指定值",
+  "pt": "Elimine o ódio do Personagem 1 contra o Personagem 2 e defina o valor de sua Afinidade."
+ },
+ "modFunctionTitle_abilityPointAdd": {
+  "en": "Modify Skill Points gained from next Debate",
+  "ch": "修改下一次论道获得的道点",
+  "pt": "Modificar os Pontos de Habilidade obtidos no próximo Debate"
+ },
+ "modFunctionTitle_addAppellation": {
+  "en": "Add Taoist Title to specified characters",
+  "ch": "指定角色增加道号",
+  "pt": "Adicione o Título Daoísta aos caracteres especificados."
+ },
+ "modFunctionTitle_addAttr": {
+  "en": "Increase character stats",
+  "ch": "增加人物属性",
+  "pt": "Aumente os atributos do personagem"
+ },
+ "modFunctionTitle_addClose": {
+  "en": "Increases Character 1's Hatred toward Character 2",
+  "ch": "增加角色1对角色2的仇恨度",
+  "pt": "Aumenta o Ódio do Personagem 1 pelo Personagem 2"
+ },
+ "modFunctionTitle_addCurAttrPercent": {
+  "en": "Increases or decreases stats by the current stats percentage",
+  "ch": "根据属性当前值的百分比，增加减少属性",
+  "pt": "Aumenta ou diminui os atributos de acordo com a porcentagem atual dos atributos."
+ },
+ "modFunctionTitle_addExp": {
+  "en": "Increase character EXP",
+  "ch": "增加人物经验",
+  "pt": "Aumente a EXP do personagem"
+ },
+ "modFunctionTitle_addFeature": {
+  "en": "Add a destiny (nurture) to the player",
+  "ch": "添加一个后天气运到玩家身上",
+  "pt": "Adicione um destino (formação) ao jogador."
+ },
+ "modFunctionTitle_addGodEyeSkill": {
+  "en": "Add Eye of Providence Skill",
+  "ch": "增加昊天眼技能",
+  "pt": "Adicionar Habilidade: Olho da Providência"
+ },
+ "modFunctionTitle_addGridArrtRange": {
+  "en": "Randomly increase the value of a tile nearby",
+  "ch": "随机增加周围范围内一个格子的数值",
+  "pt": "Aumente aleatoriamente o valor de uma tile próxima"
+ },
+ "modFunctionTitle_addIntim": {
+  "en": "Character 105's affinity with Player reduced by 50",
+  "ch": "ID为105的角色对玩家的好感度下降50",
+  "pt": "A afinidade do Personagem 105 com o Jogador foi reduzida em 50."
+ },
+ "modFunctionTitle_addMastery": {
+  "en": "Increase the proficiency of equipped skills",
+  "ch": "增加装备着技能的熟练度",
+  "pt": "Aumente a proficiência das habilidades equipadas."
+ },
+ "modFunctionTitle_addNPCLuck": {
+  "en": "Adds the specified Destiny (Nurture) to the specified character",
+  "ch": "添加指定后天气运到指定角色身上",
+  "pt": "Adiciona o Destino (Criação) especificado ao personagem indicado."
+ }
+}

@@ -1,0 +1,5435 @@
+{
+ "skill_content_basThunder31": {
+  "en": "雷灵根",
+  "ch": "雷灵根",
+  "pt": "Reilingen"
+ },
+ "skill_content_basWind21": {
+  "en": "风灵根提升",
+  "ch": "风灵根提升",
+  "pt": "Melhoria da raiz espiritual do vento"
+ },
+ "skill_content_basWind22": {
+  "en": "风灵根降低",
+  "ch": "风灵根降低",
+  "pt": "Redução da raiz espiritual do vento"
+ },
+ "skill_content_basWind31": {
+  "en": "风灵根",
+  "ch": "风灵根",
+  "pt": "Raiz Espiritual do Vento"
+ },
+ "skill_content_basWood21": {
+  "en": "木灵根提升",
+  "ch": "木灵根提升",
+  "pt": "Melhoria da raiz espiritual de madeira"
+ },
+ "skill_content_basWood22": {
+  "en": "木灵根降低",
+  "ch": "木灵根降低",
+  "pt": "Redução da raiz espiritual de madeira"
+ },
+ "skill_content_basWood31": {
+  "en": "木灵根",
+  "ch": "木灵根",
+  "pt": "Raiz espiritual de madeira"
+ },
+ "skill_content_basWpAll21": {
+  "en": "全功法资质提升",
+  "ch": "全功法资质提升",
+  "pt": "Melhoria geral das qualificações para todas as técnicas"
+ },
+ "skill_content_basWpAll22": {
+  "en": "全功法资质降低",
+  "ch": "全功法资质降低",
+  "pt": "Todas as habilidades têm sua qualificação reduzida"
+ },
+ "skill_content_basWpAll31": {
+  "en": "全灵根",
+  "ch": "全灵根",
+  "pt": "Raiz Espiritual Total"
+ },
+ "skill_content_beauty31": {
+  "en": "魅力",
+  "ch": "魅力",
+  "pt": "Encanto"
+ },
+ "skill_content_crit21": {
+  "en": "会心提升",
+  "ch": "会心提升",
+  "pt": "Melhoria significativa"
+ },
+ "skill_content_crit22": {
+  "en": "会心降低",
+  "ch": "会心降低",
+  "pt": "Redução da eficácia"
+ },
+ "skill_content_crit31": {
+  "en": "会心",
+  "ch": "会心",
+  "pt": "Sintonia perfeita"
+ },
+ "skill_content_critV31": {
+  "en": "会心强度",
+  "ch": "会心强度",
+  "pt": "Intensidade da compreensão"
+ },
+ "skill_content_def21": {
+  "en": "防御提升",
+  "ch": "防御提升",
+  "pt": "Aumento da defesa"
+ },
+ "skill_content_def22": {
+  "en": "防御降低",
+  "ch": "防御降低",
+  "pt": "Redução da defesa"
+ },
+ "skill_content_def31": {
+  "en": "DEF",
+  "ch": "防御",
+  "pt": "DEF"
+ },
+ "skill_content_duration11": {
+  "en": "Duration",
+  "ch": "持续时间",
+  "pt": "Duração"
+ },
+ "skill_content_earth11": {
+  "en": "土",
+  "ch": "土",
+  "pt": "Terra"
+ },
+ "skill_content_effectProbability11": {
+  "en": "效果触发概率",
+  "ch": "效果触发概率",
+  "pt": "Probabilidade de ativação do efeito"
+ },
+ "skill_content_energyMax31": {
+  "en": "Max Enegry",
+  "ch": "能量上限",
+  "pt": "Max Energy"
+ },
+ "skill_content_escapeCD31": {
+  "en": "逃跑冷却增加",
+  "ch": "逃跑冷却增加",
+  "pt": "Tempo de recarga para fuga aumentado"
+ },
+ "skill_content_escapeCD32": {
+  "en": "逃跑冷却降低",
+  "ch": "逃跑冷却降低",
+  "pt": "Redução do tempo de recarga para fuga"
+ },
+ "skill_content_escapeFsp31": {
+  "en": "逃跑脚力增加",
+  "ch": "逃跑脚力增加",
+  "pt": "Aumento da velocidade ao fugir"
+ },
+ "skill_content_escapeFsp32": {
+  "en": "逃跑脚力降低",
+  "ch": "逃跑脚力降低",
+  "pt": "Velocidade de fuga reduzida"
+ },
+ "skill_content_escapeLuck31": {
+  "en": "逃跑幸运增加",
+  "ch": "逃跑幸运增加",
+  "pt": "Sorte de fuga aumentada"
+ },
+ "skill_content_escapeLuck32": {
+  "en": "逃跑幸运降低",
+  "ch": "逃跑幸运降低",
+  "pt": "Fuga: Sorte reduzida"
+ },
+ "skill_content_fire11": {
+  "en": "火",
+  "ch": "火",
+  "pt": "Fogo"
+ },
+ "skill_content_froze11": {
+  "en": "水",
+  "ch": "水",
+  "pt": "Água"
+ },
+ "skill_content_fsp31": {
+  "en": "脚力",
+  "ch": "脚力",
+  "pt": "Força nas pernas"
+ },
+ "skill_content_gradeGrow31": {
+  "en": "Breakthrough success rate increased",
+  "ch": "突破成功率提升",
+  "pt": "A taxa de sucesso do Avanço aumentou"
+ },
+ "skill_content_gradePure31": {
+  "en": "Purity",
+  "ch": "纯度",
+  "pt": "Pureza"
+ },
+ "skill_content_guard21": {
+  "en": "护心提升",
+  "ch": "护心提升",
+  "pt": "Proteção cardíaca aprimorada"
+ },
+ "skill_content_guard22": {
+  "en": "护心降低",
+  "ch": "护心降低",
+  "pt": "Proteção cardíaca reduzida"
+ },
+ "skill_content_guard31": {
+  "en": "护心",
+  "ch": "护心",
+  "pt": "Protege o coração"
+ },
+ "skill_content_guardV31": {
+  "en": "护心强度",
+  "ch": "护心强度",
+  "pt": "Força de proteção cardíaca"
+ },
+ "skill_content_healthMax31": {
+  "en": "Max Health",
+  "ch": "健康上限",
+  "pt": "Saúde Máx"
+ },
+ "skill_content_hp21": {
+  "en": "回复体力",
+  "ch": "回复体力",
+  "pt": "Restaurar energia"
+ },
+ "skill_content_hp22": {
+  "en": "失去体力",
+  "ch": "失去体力",
+  "pt": "Perda de força física"
+ },
+ "skill_content_hp31": {
+  "en": "Vitality",
+  "ch": "体力",
+  "pt": "Vitalidade"
+ },
+ "skill_content_hpCos21": {
+  "en": "体力消耗降低",
+  "ch": "体力消耗降低",
+  "pt": "Redução do consumo de energia"
+ },
+ "skill_content_hpCos22": {
+  "en": "体力消耗增加",
+  "ch": "体力消耗增加",
+  "pt": "Aumento do consumo de energia"
+ },
+ "skill_content_hpDmg21": {
+  "en": "附加伤害威力",
+  "ch": "附加伤害威力",
+  "pt": "Poder de dano adicional"
+ },
+ "skill_content_hpMax21": {
+  "en": "体力上限增加",
+  "ch": "体力上限增加",
+  "pt": "Aumento do limite de energia física"
+ },
+ "skill_content_hpMax22": {
+  "en": "体力上限减少",
+  "ch": "体力上限减少",
+  "pt": "Redução do limite máximo de resistência física"
+ },
+ "skill_content_hpRes21": {
+  "en": "体力恢复速度增加",
+  "ch": "体力恢复速度增加",
+  "pt": "Velocidade de recuperação de energia aumentada"
+ },
+ "skill_content_hpRes22": {
+  "en": "体力恢复速度减少",
+  "ch": "体力恢复速度减少",
+  "pt": "Velocidade de recuperação de energia reduzida"
+ },
+ "skill_content_hpRes31": {
+  "en": "体力回复",
+  "ch": "体力回复",
+  "pt": "Recuperação de energia física"
+ },
+ "skill_content_icd21": {
+  "en": "道具冷却降低",
+  "ch": "道具冷却降低",
+  "pt": "Redução do tempo de resfriamento dos itens"
+ },
+ "skill_content_icd22": {
+  "en": "道具冷却增加",
+  "ch": "道具冷却增加",
+  "pt": "Aumento do resfriamento dos itens"
+ },
+ "skill_content_life31": {
+  "en": "Lifespan",
+  "ch": "寿命",
+  "pt": "Longevidade"
+ },
+ "skill_content_luck31": {
+  "en": "Luck",
+  "ch": "幸运",
+  "pt": "Sorte"
+ },
+ "skill_content_mfr21": {
+  "en": "属性免伤提升",
+  "ch": "属性免伤提升",
+  "pt": "Aumento da resistência a danos dos atributos"
+ },
+ "skill_content_mfr22": {
+  "en": "属性免伤降低",
+  "ch": "属性免伤降低",
+  "pt": "Redução da imunidade a atributos"
+ },
+ "skill_content_mfr31": {
+  "en": "属性免伤",
+  "ch": "属性免伤",
+  "pt": "Imune a dano por atributos"
+ },
+ "skill_content_mp21": {
+  "en": "回复灵力",
+  "ch": "回复灵力",
+  "pt": "Responder à força espiritual"
+ },
+ "skill_content_mp22": {
+  "en": "失去灵力",
+  "ch": "失去灵力",
+  "pt": "Perda de poderes mágicos"
+ },
+ "skill_content_mp31": {
+  "en": "Energy",
+  "ch": "灵力",
+  "pt": "Energia"
+ },
+ "skill_content_mpCos21": {
+  "en": "灵力消耗降低",
+  "ch": "灵力消耗降低",
+  "pt": "Redução do consumo de energia espiritual"
+ },
+ "skill_content_mpCos22": {
+  "en": "灵力消耗增加",
+  "ch": "灵力消耗增加",
+  "pt": "Consumo de energia espiritual aumentado"
+ },
+ "skill_content_mpDmg21": {
+  "en": "灵力伤害威力",
+  "ch": "灵力伤害威力",
+  "pt": "Poder do dano de energia espiritual"
+ },
+ "skill_content_mpMax21": {
+  "en": "灵力上限增加",
+  "ch": "灵力上限增加",
+  "pt": "Limite máximo de energia espiritual aumentado"
+ },
+ "skill_content_mpMax22": {
+  "en": "灵力上限减少",
+  "ch": "灵力上限减少",
+  "pt": "Limite de energia espiritual reduzido"
+ },
+ "skill_content_mpRes21": {
+  "en": "灵力恢复速度增加",
+  "ch": "灵力恢复速度增加",
+  "pt": "Velocidade de recuperação da energia espiritual aumenta"
+ },
+ "skill_content_mpRes22": {
+  "en": "灵力恢复速度减少",
+  "ch": "灵力恢复速度减少",
+  "pt": "Velocidade de recuperação da energia espiritual reduzida"
+ },
+ "skill_content_mpRes31": {
+  "en": "灵力回复",
+  "ch": "灵力回复",
+  "pt": "Recuperação de energia espiritual"
+ },
+ "skill_content_msp21": {
+  "en": "移动速度提升",
+  "ch": "移动速度提升",
+  "pt": "Aumento da velocidade de movimento"
+ },
+ "skill_content_msp22": {
+  "en": "移动速度降低",
+  "ch": "移动速度降低",
+  "pt": "Velocidade de movimento reduzida"
+ },
+ "skill_content_msp31": {
+  "en": "移动速度",
+  "ch": "移动速度",
+  "pt": "Velocidade de movimento"
+ },
+ "skill_content_pfr21": {
+  "en": "物理免伤提升",
+  "ch": "物理免伤提升",
+  "pt": "Aumento da imunidade física"
+ },
+ "skill_content_pfr22": {
+  "en": "物理免伤降低",
+  "ch": "物理免伤降低",
+  "pt": "Redução da imunidade física"
+ },
+ "skill_content_pfr31": {
+  "en": "物理免伤",
+  "ch": "物理免伤",
+  "pt": "Imunidade física a danos"
+ },
+ "skill_content_phycical11": {
+  "en": "物理",
+  "ch": "物理",
+  "pt": "Física"
+ },
+ "skill_content_pow21": {
+  "en": "绝技能量增加",
+  "ch": "绝技能量增加",
+  "pt": "Aumento da quantidade de habilidades"
+ },
+ "skill_content_pow22": {
+  "en": "绝技能量减少",
+  "ch": "绝技能量减少",
+  "pt": "Redução da quantidade de habilidades"
+ },
+ "skill_content_powRes21": {
+  "en": "绝技能量回复提升",
+  "ch": "绝技能量回复提升",
+  "pt": "Aumento da recuperação de energia das habilidades"
+ },
+ "skill_content_powRes22": {
+  "en": "绝技能量回复降低",
+  "ch": "绝技能量回复降低",
+  "pt": "Redução na recuperação de energia da habilidade"
+ },
+ "skill_content_probability11": {
+  "en": "概率",
+  "ch": "概率",
+  "pt": "Probabilidade"
+ },
+ "skill_content_scd21": {
+  "en": "身法冷却减少",
+  "ch": "身法冷却减少",
+  "pt": "Redução do tempo de recarga da técnica"
+ },
+ "skill_content_scd22": {
+  "en": "身法冷却增加",
+  "ch": "身法冷却增加",
+  "pt": "Cooldown da agilidade aumentado"
+ },
+ "skill_content_skillProbability11": {
+  "en": "弹道触发概率",
+  "ch": "弹道触发概率",
+  "pt": "Probabilidade de disparo balístico"
+ },
+ "skill_content_sp21": {
+  "en": "回复念力",
+  "ch": "回复念力",
+  "pt": "Responder à telepatia"
+ },
+ "skill_content_sp22": {
+  "en": "失去念力",
+  "ch": "失去念力",
+  "pt": "Perda da telecinesia"
+ },
+ "skill_content_sp31": {
+  "en": "Focus",
+  "ch": "念力",
+  "pt": "Foco"
+ },
+ "skill_content_spCos21": {
+  "en": "念力消耗降低",
+  "ch": "念力消耗降低",
+  "pt": "Redução do consumo de telecinesia"
+ },
+ "skill_content_spCos22": {
+  "en": "念力消耗增加",
+  "ch": "念力消耗增加",
+  "pt": "Consumo de telecinesia aumentado"
+ },
+ "skill_content_spDmg21": {
+  "en": "念力伤害威力",
+  "ch": "念力伤害威力",
+  "pt": "Poder do dano telecinético"
+ },
+ "skill_content_spMax21": {
+  "en": "念力上限增加",
+  "ch": "念力上限增加",
+  "pt": "Aumento do limite de telecinesia"
+ },
+ "skill_content_spMax22": {
+  "en": "念力上限减少",
+  "ch": "念力上限减少",
+  "pt": "Redução do limite de telecinesia"
+ },
+ "skill_content_spRes21": {
+  "en": "念力恢复速度增加",
+  "ch": "念力恢复速度增加",
+  "pt": "Velocidade de recuperação de telecinesia aumentada"
+ },
+ "skill_content_spRes22": {
+  "en": "念力恢复速度减少",
+  "ch": "念力恢复速度减少",
+  "pt": "Velocidade de recuperação da telecinesia reduzida"
+ },
+ "skill_content_spRes31": {
+  "en": "念力回复",
+  "ch": "念力回复",
+  "pt": "Recuperação por telecinesia"
+ },
+ "skill_content_stand31": {
+  "en": "Righteous Points",
+  "ch": "正道值",
+  "pt": "Pontos Justos"
+ },
+ "skill_content_stand32": {
+  "en": "魔道值",
+  "ch": "魔道值",
+  "pt": "Valor de Magia"
+ },
+ "skill_content_stun21": {
+  "en": "晕眩时间",
+  "ch": "晕眩时间",
+  "pt": "Tempo de tontura"
+ },
+ "skill_content_talent31": {
+  "en": "Insight",
+  "ch": "悟性",
+  "pt": "Percepção"
+ },
+ "skill_content_thunder11": {
+  "en": "雷",
+  "ch": "雷",
+  "pt": "Relâmpagos"
+ },
+ "skill_content_wind11": {
+  "en": "风",
+  "ch": "风",
+  "pt": "Vento"
+ },
+ "skill_content_wood11": {
+  "en": "木",
+  "ch": "木",
+  "pt": "Madeira"
+ },
+ "skill_dakaitishi": {
+  "en": "Click to view details",
+  "ch": "点击可打开详情界面",
+  "pt": "Clique para ver os detalhes"
+ },
+ "skill_dao": {
+  "en": "Blade",
+  "ch": "刀",
+  "pt": "Lâmina"
+ },
+ "skill_daodianxuqiu": {
+  "en": "Required Skill Points:",
+  "ch": "道点需求：",
+  "pt": "Pontos de Habilidade necessários:"
+ },
+ "skill_desc810211": {
+  "en": "Continuous striking with Lightning Smasher unleashes lightning every &81021_sdjg&s, attacking 1 enemy position at random within &81021_sdfw& range. When the lightning hits, it explodes, dealing &81021_sdsh& $s_lei$ DMG to enemies within &81021_sdbl& range, and &81021_jdlg&% to all Spiritual Root stats.",
+  "ch": "持续敲击斩雷晶锤，每&81021_sdjg&秒产生闪电，打击范围&81021_sdfw&内的随机1个敌人位置，闪电击中后会爆开，对范围&81021_sdbl&内的敌人造成威力&81021_sdsh&的$s_lei$伤害，并使其所有灵根资质&81021_jdlg&%。",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Smasher": "Esmagador de Relâmpagos"
+  },
+  "pt": "O ataque contínuo com o Quebrador de Relâmpagos libera um Relâmpago a cada &81021_sdjg&s, atingindo aleatoriamente 1 posição inimiga dentro do alcance de &81021_sdfw&. Quando o relâmpago atinge o alvo, ele explode, causando &81021_sdsh& $s_lei$ de dano a inimigos na área de &81021_sdbl&, além de aumentar todos os atributos da Raiz Espiritual em &81021_jdlg&%."
+ },
+ "skill_desc81041": {
+  "en": "Bloodwoven Mask causes &81041_jsxg&% to damage dealt by enemies within &81041_jsfw& range every &81041_jsjg&s. Effect lasts for &81041_jssj&s and can stack up to &81041_jscs& times.",
+  "ch": "使用血纹假面时，每&81041_jsjg&秒使范围&81041_jsfw&内的敌人造成的伤害&81041_jsxg&%，持续&81041_jssj&秒，最多可叠加&81041_jscs&层。",
+  "nomes": {
+   "Bloodwoven Mask": "Máscara de Sangue Tecido"
+  },
+  "pt": "A Máscara Tecida com Sangue faz com que &81041_jsxg&% do dano causado por inimigos dentro do alcance de &81041_jsfw& sofra dano a cada &81041_jsjg& segundos. O efeito dura &81041_jssj& segundos e pode se acumular até &81041_jscs& vezes."
+ },
+ "skill_desc81051": {
+  "en": "Generates flame in a &81051_zjfw& range of the Solar Banner, dealing &81051_hysh&/s $s_huo$ DMG. When other units expend or lose Energy, this artifact absorbs the Energy, using it to expand the range of flames; absorbs up to &81051_fwcs+1& Energy.",
+  "ch": "在炽阳之帜范围&81051_zjfw&内生成火焰，造成威力&81051_hysh&/秒的$s_huo$伤害。此法宝在场上单位消耗灵力或损失灵力时将吸收灵力能量，用于提升火焰的范围，最多可吸收&81051_fwcs+1&灵力。",
+  "nomes": {
+   "Solar Banner": "Estandarte Solar"
+  },
+  "pt": "Gera uma chama num alcance de &81051_zjfw& em torno da Bandeira Solar, causando &81051_hysh&/s $s_huo$ de dano. Quando outros artefatos gastam ou perdem Energia, este artefato absorve essa Energia para ampliar o alcance das chamas; é capaz de absorver até &81051_fwcs+1& unidades de Energia."
+ },
+ "skill_desc81061": {
+  "en": "The Pool of Pears generates one mythic orb every &81061_fsjg&s which automatically flies towards the user, flying up to &81061_ddsj&s before disappearing. If an orb hits the user before disappearing, the user's damage is increased by &81061_hssh&%. Effect lasts for &81061_shsj&s.",
+  "ch": "碧海凝珠每&81061_fsjg&秒生成一颗红色的宝珠自动飞向自身，宝珠最多飞行&81061_ddsj&秒后消失，若在消失前碰撞到了自身，则可使自身伤害提升&81061_hssh&%，持续&81061_shsj&秒。",
+  "pt": "O Poço das Peras gera um orbe mítico a cada &81061_fsjg&s; esse orbe voa automaticamente em direção ao usuário, podendo percorrer até &81061_ddsj&s antes de desaparecer. Caso o orbe atinja o usuário antes de desaparecer, o dano causado por ele aumenta em &81061_hssh&%. O efeito dura por &81061_shsj&s."
+ },
+ "skill_desc81071": {
+  "en": "When Shadowgorged Cloak is used, casts Stormward on all allied units within &81071_fbfw& range every &81071_fbjg&s, restoring &81071_fbtl& Vitality and increasing DEF by &81071_fbfy&. Effect lasts for &81071_fysj+2&s.",
+  "ch": "使用噬影斗篷，每&81071_fbjg&秒向范围&81071_fbfw&内的所有友方单位施加守护风暴，回复体力&81071_fbtl&点并提升防御&81071_fbfy&点，持续&81071_fysj+2&秒。",
+  "nomes": {
+   "Shadowgorged Cloak": "Manto Devorador de Sombras"
+  },
+  "pt": "Ao usar o Manto Devorado pelas Sombras, o feitiço Tempestade Protetora é lançado em todas as unidades aliadas dentro do alcance de &81071_fbfw& a cada &81071_fbjg& segundos, restaurando &81071_fbtl& de Vitalidade e aumentando a DEF em &81071_fbfy&. O efeito dura &81071_fysj+2& segundos."
+ },
+ "skill_desc81081": {
+  "en": "Summons &81081_fjsl& spirit swords which pass through the area at random, with each spirit sword dealing &81081_fjwl& DMG to any enemies they strike.",
+  "ch": "召唤&81081_fjsl&道灵剑在周围随机穿梭，每一把灵剑都会对碰撞到的敌人造成威力&81081_fjwl&的伤害。",
+  "pt": "Invoca espadas de espírito &81081_fjsl& que percorrem a área aleatoriamente; cada espada de espírito causa &81081_fjwl& de dano a todos os inimigos atingidos."
+ },
+ "skill_desc81091": {
+  "en": "Every allied unit within &81091_zxgfw& range of the Artifact will trigger a Qi explosion when taking damage, dealing &81091_xbwl& damage to enemies nearby with an interval of &81091_zxgjg&s.",
+  "ch": "使法宝范围&81091_zxgfw&内的所有友方单位在受到伤害时引发一次气爆，对周围的敌人造成威力&81091_xbwl&的伤害，触发间隔&81091_zxgjg&秒。",
+  "pt": "Todas as unidades aliadas dentro do alcance de &81091_zxgfw& do Artefato provocarão uma explosão de Qi ao sofrerem dano, causando &81091_xbwl& de dano aos inimigos próximos, em intervalos de &81091_zxgjg& segundos."
+ },
+ "skill_desc8109114": {
+  "en": "Blood Puppets Summoning Skill Description",
+  "ch": "持续召唤血傀儡技能说明",
+  "pt": "Descrição da Habilidade de Invocar Marionetes de Sangue"
+ },
+ "skill_desc8110011": {
+  "en": "Transcendent Artifact Skill Description",
+  "ch": "登仙法宝技能说明",
+  "pt": "Descrição da Habilidade do Artefato de Transcendência"
+ },
+ "skill_desc81101": {
+  "en": "Keeps playing a tune, shooting &81101_ybsl& sound waves per sec at random positions, dealing &8110011_yzwl& damage.",
+  "ch": "持续进行演奏琴曲，每秒对全场随机位置发射&81101_ybsl&琴音音波进行攻击，造成&8110011_yzwl&的伤害。",
+  "pt": "Continua tocando uma melodia, emitindo &81101_ybsl& ondas sonoras por segundo em posições aleatórias, causando &8110011_yzwl& dano."
+ },
+ "skill_desc91011": {
+  "en": "Each attack has a &91011_mhgl&% chance to charm the target for &91011_mhcs&s.",
+  "ch": "每次攻击敌人时有&91011_mhgl&%的概率魅惑目标，持续&91011_mhcs&秒。",
+  "pt": "Cada ataque tem uma chance de &91011_mhgl&% de aplicar um talismã no alvo por &91011_mhcs&s."
+ },
+ "skill_desc91012": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc91013": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc91014": {
+  "en": "Mengyi summons 1 Spiritual Fox every &91011_lhcd&s. Each Spiritual Fox will automatically attach itself to a nearby enemy. This enemy will be confused, attacking both friendly and enemy targets. This enemy will also receive &91011_mhsh&% more damage for &91011_mhsj&s.",
+  "ch": "每&91011_lhcd&秒幻化出1只灵狐，灵狐会自动奔向附近的敌人并附在敌人身上，对其进行迷惑，被迷惑的敌人攻击无视敌我，且受到的伤害提升&91011_mhsh&%，效果持续&91011_mhsj&秒。",
+  "pt": "Mengyi invoca 1 Raposa Espiritual a cada &91011_lhcd&s. Cada Raposa Espiritual se liga automaticamente a um inimigo próximo. Esse inimigo fica confuso, atacando tanto aliados quanto inimigos. Além disso, esse inimigo receberá &91011_mhsh&% a mais de dano por &91011_mhsj&s."
+ },
+ "skill_desc91015": {
+  "en": "Available once &91011_mjcs& Spiritual Foxes have attached themselves to enemies in the current battle. Mengyi turns the battlefield into a dream that lasts &91011_mjsj&s. No enemies can take any action while in the dream and receive &91011_mjsh&% more damage. An enemy will wake up from the dream after receiving more than (&91011_sqtl&% of Max Vitality) damage. Upon waking up, the enemy will instantly receive (&91011_qxsh&% of Max Vitality) damage.",
+  "ch": "在本场战斗中，灵狐累计附身达到&91011_mjcs&次可施展，将战场幻化成一场梦境，持续&91011_mjsj&秒，所有敌人将沉浸在梦境之中无法行动，在梦境中的敌人受到的伤害提升&91011_mjsh&%，梦境中的敌人累计受到&91011_sqtl&%的总体力伤害时将会被惊醒（可行动），额外受到总体力&91011_qxsh&%的直接伤害。",
+  "pt": "Disponível após &91011_mjcs& Raposas Espirituais se ligarem a inimigos na batalha atual. Mengyi transforma o campo de batalha em um sonho que dura &91011_mjsj& segundos. Nenhum inimigo consegue realizar ações durante o sonho e, além disso, recebe &91011_mjsh&% a mais de dano. Um inimigo acorda do sonho após receber dano superior a (&91011_sqtl&% da Vitalidade Máx.). Ao acordar, ele sofre instantaneamente (&91011_qxsh&% da Vitalidade Máx.) de dano."
+ },
+ "skill_desc91021": {
+  "en": "Crit Rate +&91021_zjbj&%",
+  "ch": "提升&91021_zjbj&%的暴击概率。",
+  "pt": "Multiplicador Crítico +&91021_zjbj&%"
+ },
+ "skill_desc91022": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc91031": {
+  "en": "Each attack has a &91031_jsgl&% chance to cause the target to deal &91031_jdsh&% damage for &91031_jdsj&s.",
+  "ch": "每次攻击有&91031_jsgl&%的概率使目标造成的伤害&91031_jdsh&%，持续&91031_jdsj&秒。",
+  "pt": "Cada ataque tem uma chance de &91031_jsgl&% de fazer com que o alvo cause &91031_jdsh&% de dano por &91031_jdsj&s."
+ },
+ "skill_desc91032": {
+  "en": "Available once your Vitality drops below 50%. Muqing plays a song, restoring &91031_hftl&/s Vitality to all allies within &91031_hffw& for &91031_hfsj&s.",
+  "ch": "当法宝所有者的体力低于50%时可施展，吹奏音符，为&91031_hffw&范围内的所有友方单位回复体力&91031_hftl&/秒，持续&91031_hfsj&秒。",
+  "pt": "Disponível quando sua Vitalidade cair abaixo de 50%. Muqing toca uma canção, restaurando &91031_hftl&/s de Vitalidade para todos os aliados dentro de &91031_hffw& durante &91031_hfsj& segundos."
+ },
+ "skill_desc91033": {
+  "en": "Available after receiving a total of (&91031_tlzz&% of Max Vitality) damage in the current battle and Muqing's Vitality drops below &91031_zstl&% (or your HP drops below &91031_zhtl&%). Muqing turns red, recovering your status and her own status and dealing &91031_bmzs&% more damage. Every time she or you receive damage, both will recover &91031_shtl&% Vitality (Cannot occur more than 1 time every &91031_bmjg&s).",
+  "ch": "在本场战斗中，累计受到的伤害达到&91031_tlzz&%总体力且当前体力低于&91031_zstl&%（或法宝所有者体力低于&91031_zhtl&%）时可施展。器灵变身为红色状态，回复自身与法宝所有者的全部状态，并提升造成的伤害&91031_bmzs&%，当任何一方受到伤害时，会为双方回复&91031_shtl&%的体力（每&91031_bmjg&秒最多触发1次）。",
+  "pt": "Disponível após receber um total de (&91031_tlzz&% do dano total permitido pela Vitalidade Máx.) na batalha atual, e quando a Vitalidade de Muqing cair abaixo de &91031_zstl&% (ou quando seus HP caírem abaixo de &91031_zhtl&%). Muqing fica vermelha, restaurando seu estado e o dela, além de causar &91031_bmzs&% a mais de dano. Sempre que ela ou você sofrem dano, ambas recuperam &91031_shtl&% de Vitalidade (Isso não pode ocorrer mais de uma vez a cada &91031_bmjg& segundos)."
+ },
+ "skill_desc91041": {
+  "en": "Each attack has a &91041_ctgl&% chance to expose the target's weaknesses, ignoring &91041_ctfy&% of the target's DEF.",
+  "ch": "每次攻击有&91041_ctgl&%的概率发现目标的弱点，穿透其&91041_ctfy&%的防御。",
+  "pt": "Cada ataque tem uma chance de &91041_ctgl&% de expor as fraquezas do alvo, ignorando &91041_ctfy&% da DEF dele."
+ },
+ "skill_desc91042": {
+  "en": "Ningshuang goes berserk every &91041_pgcs& times Piercing Sting is cast. She'll launch &91041_khpg& normal attacks in a row, and each attack additionally deals &91041_ewsh& fixed damage.",
+  "ch": "每使用断筋刺&91041_pgcs&次可施展狂化，连续发动&91041_khpg&次普攻，并且每一击增加&91041_ewsh&点固定伤害。",
+  "pt": "Ningshuang fica enfurecida a cada &91041_pgcs& vezes que o Feitiço da Picada é lançado. Ela realiza &91041_khpg& ataques normais seguidos, e cada ataque causa adicionalmente &91041_ewsh& de dano fixo."
+ },
+ "skill_desc91051": {
+  "en": "Each attack transfers &91051_jqzz& points of All Skill Stats from the target to you. This effect lasts &91051_jqsj&s.",
+  "ch": "每次攻击可转移目标&91051_jqzz&点全战斗资质给法宝所有者，持续&91051_jqsj&秒。",
+  "pt": "Cada ataque transfere &91051_jqzz& pontos de todas as Aptidões Marciais do alvo para você. Esse efeito dura &91051_jqsj& segundos."
+ },
+ "skill_desc91052": {
+  "en": "Available once Divine Transfer has been cast &91051_sxcs& times. Lingge unleashes an Immortal Blast that lasts &91051_sxsj&s and pierces through enemies. The damage the Immortal Blast deals to a target is determined by the stat gap between the target and you.",
+  "ch": "使用汲神诀&91051_sxcs&次可施展，对随机目标发出一道持续&91051_sxsj&秒，可穿透的仙法冲击，对碰撞到的敌人基于所有者与其的资质差对其造成伤害。",
+  "pt": "Disponível após o uso do Transferência Divina &91051_sxcs& vezes. Lingge libera uma Explosão Imortal que dura &91051_sxsj& segundos e penetra nos inimigos. O dano causado pela Explosão Imortal a um alvo depende da diferença de atributos entre você e o alvo."
+ },
+ "skill_desc91053": {
+  "en": "Available once Immortal Blasts have dealt damage &91051_bmcs& times in the current battle. Lingge attacks random enemies &91051_hzsl& times. The damage she deals to a target is determined by the stat gap between the target and you. &91051_hztl&% of her damage done will be converted into your Max Vitality. This effect lasts &91051_tlsj&s.",
+  "ch": "在本场战斗中，仙法冲击累计造成了&91051_bmcs&次伤害可施展，随机对场上的敌人进行打击&91051_hzsl&次，每次打击都基于法宝所有者与目标的资质差对其造成伤害，并且打击的伤害将会按&91051_hztl&%的比例转化为所有者的体力上限，效果持续&91051_tlsj&秒。",
+  "pt": "Disponível após o Imortal ter causado dano &91051_bmcs& vezes na batalha atual. Lingge ataca inimigos aleatórios &91051_hzsl& vezes. O dano que ela inflige a um alvo depende da diferença de atributos entre esse alvo e você. &91051_hztl&% do dano causado por ela será convertido em sua Vitalidade Máx. Este efeito dura &91051_tlsj& segundos."
+ },
+ "skill_desc91061": {
+  "en": "Each attack converts &91061_shbl&% of damage done into the Vitality of your shield.",
+  "ch": "每次攻击可将所造成伤害值的&91061_shbl&%转化为护盾给予法宝所有者。",
+  "pt": "Cada ataque converte &91061_shbl&% do dano causado em Vitalidade para o seu escudo."
+ },
+ "skill_desc91062": {
+  "en": "&91061_cfgl&% chance to be triggered when your shield disappears: All enemy projectiles will be cleared. This effect cannot occur more than once every &91061_xscd&s.",
+  "ch": "当法宝所有者的护盾消失时，有&91061_cfgl&%的概率触发，将场上所有弹道敌方弹道清空，此技能每&91061_xscd&秒最多触发一次。",
+  "pt": "&91061_cfgl&% de chance de ser acionado quando seu escudo desaparecer: Todos os projéteis inimigos serão removidos. Este efeito não pode ocorrer mais de uma vez a cada &91061_xscd& segundos."
+ },
+ "skill_desc91063": {
+  "en": "Available once the accumulated Shield Vitality has reached &91061_hdbl&% of Cangya's Vitality. Cangya creates a protection zone, bouncing out all enemies and dealing damage to them. The protection zone will keep expanding, bouncing away all enemies upon contact and dealing &91061_hzwl& damage. Duration: &91061_hzsj&s. Allies inside the protection zone will reflect &91061_ftbl&% of incoming damage back to the attacker.",
+  "ch": "在本场战斗中，累计施加护盾值达到自身体力的&91061_hdbl&%时可施展，创造出一个保护区域，将保护区域内的敌人全部弹出，并对敌人造成伤害。保护区域会持续变大，碰撞到的敌人全部被弹出并受到威力&91061_hzwl&的伤害，持续&91061_hzsj&秒，在保护区域内的友方单位，受到的伤害将反弹&91061_ftbl&%给伤害来源。",
+  "pt": "Disponível quando a Vitalidade do Escudo acumulado atingir &91061_hdbl&% da Vitalidade de Cangya. Cangya cria uma zona de proteção que repele todos os inimigos, causando dano a eles. A zona de proteção continuará a se expandir, afastando todos os inimigos ao entrar em contato e causando &91061_hzwl& de dano. Duração: &91061_hzsj& segundos. Os aliados dentro da zona de proteção refletirão &91061_ftbl&% do dano recebido de volta ao atacante."
+ },
+ "skill_desc91071": {
+  "en": "Each attack has a &91071_pfgl&% chance to break enemy defense on hit, increasing its damage taken by &91071_shbl&% for &91071_pfcs&s.",
+  "ch": "每次攻击命中敌人时有&91071_pfgl&%的概率击破对方的防御，使敌人受到的伤害提升&91071_shbl&%，持续&91071_pfcs&秒",
+  "pt": "Cada ataque tem uma chance de &91071_pfgl&% de quebrar a defesa do inimigo ao acertá-lo, aumentando o dano que ele recebe em &91071_shbl&% durante &91071_pfcs& segundos."
+ },
+ "skill_desc91072": {
+  "en": "Generate a cold pool under a random enemy's feet every &91072_htjg&s, dealing &91072_pgwl& damage per sec to enemies within the area and &91072_jsbl&% their Agility. When an ally deals damage to an enemy within the cold pool, restore &91072_hftl& for the damage-dealing ally (cooldown: &91072_hfjg&s).",
+  "ch": "每&91072_htjg&秒在随机敌人脚下生成寒潭，对范围内的敌人造成每秒威力&91072_pgwl&的伤害并使其移速&91072_jsbl&%，当友方对寒潭内的敌人造成伤害时，为造成伤害的友方回复&91072_hftl&点体力，触发间隔&91072_hfjg&秒。",
+  "pt": "Gera uma poça de gelo sob os pés de um inimigo aleatório a cada &91072_htjg&s, causando &91072_pgwl& de dano por segundo aos inimigos na área e reduzindo em &91072_jsbl&% a Agilidade deles. Quando um aliado inflige dano a um inimigo dentro da poça de gelo, recupera-se &91072_hftl& para esse aliado (tempo de recarga: &91072_hfjg&s)."
+ },
+ "skill_desc91073": {
+  "en": "After generating &91073_xlcs& cold pools, summon a heavenly thunder in a large area to deal &91073_xlwl& damage to the enemies and apply a thunder armor to the allies. An ally with a thunder armor takes &91073_lkhd&% damage and releases thunderbolts to enemies nearby, dealing &91073_lkwl& damage over time for &91073_lkcj&s.",
+  "ch": "生出&91073_xlcs&次寒潭，可召唤大范围的九天玄雷对场上的敌人造成&91073_xlwl&伤害，并为场上的友方单位施加雷之铠，携带雷之铠的单位受到伤害&91073_lkhd&%，并持续对周围的敌人释放雷击造成威力&91073_lkwl&的伤害，持续&91073_lkcj&秒。",
+  "pt": "Após gerar &91073_xlcs& poças frias, invoque um raio celestial numa área ampla para causar &91073_xlwl& dano aos inimigos e aplicar uma armadura de trovão aos aliados. Um aliado com a armadura de trovão sofre &91073_lkhd&% de dano e emite relâmpagos contra os inimigos próximos, causando &91073_lkwl& dano ao longo do tempo por &91073_lkcj& segundos."
+ },
+ "skill_desc91081": {
+  "en": "Each attack has a &91081_dqgl&% chance to steal enemy blood on hit, restoring &91081_hftl& Vitality for yourself at once, and poisoning the enemy, which will lose &91081_dqtl& Vitality per sec for &91081_dqcj&s, up to &91081_dqcs& stacks.",
+  "ch": "每次攻击命中敌人时有&91081_dqgl&%的概率夺取对方的血液，自身立刻回复&91081_hftl&点体力，并使目标中毒，使其每秒损失&91081_dqtl&点体力，持续&91081_dqcj&秒，最大叠加&91081_dqcs&层",
+  "pt": "Cada ataque tem uma chance de &91081_dqgl&% de roubar o sangue do inimigo ao acertá-lo, restaurando imediatamente &91081_hftl& de Vitalidade para você, além de envenenar o inimigo, que perderá &91081_dqtl& de Vitalidade por segundo durante &91081_dqcj&s, podendo acumular até &91081_dqcs& vezes esse efeito."
+ },
+ "skill_desc91082": {
+  "en": "Available after stealing enemy blood &91082_xjcs& times. Sacrifice &91082_xjtl|x-1|f0&% of your current Vitality and keep binding an enemy within &91082_ljfw& range, &91082_ljjs&% its Agility, disabling its Motion Skills, and &91082_ljjdsh&% its damage done for &91082_jlcj&s.",
+  "ch": "成功夺取敌人的血液&91082_xjcs&次后可使用。献祭自身&91082_xjtl|x-1|f0&%当前的体力，并持续链接&91082_ljfw&范围内的一名敌人，使目标移速&91082_ljjs&%且无法使用身法，并使其造成的伤害&91082_ljjdsh&%，持续&91082_jlcj&秒。",
+  "pt": "Disponível após roubar sangue inimigo &91082_xjcs& vezes. Sacrifique &91082_xjtl|x-1|f0&% da sua Vitalidade atual e mantenha um inimigo preso num raio de &91082_ljfw&, reduzindo sua Agilidade em &91082_ljjs&%, desativando sua Técnica de Movimento e diminuindo o dano causado por ele em &91082_ljjdsh&% durante &91082_jlcj& segundos."
+ },
+ "skill_desc91083": {
+  "en": "Available after sacrificing &91083_dwcs& times in this battle. Cast a poisonous mist for &91083_dwcj&s, making each enemy take &91083_dwwl& damage per sec, &91083_dwjs&% their Agility and &91083_dwjdsh&% damage done, and increasing allies' damage done by &91083_dwzs&%.",
+  "ch": "本场战斗中，累计献祭&91083_dwcs&次可以施展。施展毒雾，持续&91083_dwcj&秒，毒雾存在期间使所有敌人每秒受到&91083_dwwl&的伤害，移动速度&91083_dwjs&%，造成的伤害&91083_dwjdsh&%，所有友方单位造成的伤害提升&91083_dwzs&%。",
+  "pt": "Disponível após sacrificar &91083_dwcs& vezes nesta batalha. Invoca uma névoa venenosa por &91083_dwcj& segundos; cada inimigo sofrerá &91083_dwwl& de dano por segundo, perderá &91083_dwjs&% de sua Agilidade e &91083_dwjdsh&% do dano causado, enquanto o dano dos aliados aumentará em &91083_dwzs&%."
+ },
+ "skill_desc92011": {
+  "en": "Each attack recovers your Energy by &92011_hfll&.",
+  "ch": "每次攻击为法宝所有者回复&92011_hfll&点灵力。",
+  "pt": "Cada ataque recupera sua Energia em &92011_hfll&."
+ },
+ "skill_desc92021": {
+  "en": "Each attack has a &92021_mhgl&% chance to charm the target for &92021_mhsj&s.",
+  "ch": "每次攻击有&92021_mhgl&%的概率魅惑敌人，持续&92021_mhsj&秒。",
+  "pt": "Cada ataque tem uma chance de &92021_mhgl&% de deixar o alvo sob o efeito de um talismã por &92021_mhsj&s."
+ },
+ "skill_desc92022": {
+  "en": "Available after charming enemies &92021_mhcs& times. Huofa shoots a Phantom Orb. This orb deals damage to the enemy it hits, then transforms into &92021_lhsl& Spiritual Foxes that last &92021_lhsj&s.",
+  "ch": "魅惑敌人&92021_mhcs&次后可施展，发射一个幻化之球，对命中的敌人造成伤害，并且可以幻化出&92021_lhsl&只灵狐，持续&92021_lhsj&秒。",
+  "pt": "Disponível após encantar inimigos &92021_mhcs& vezes. Huofa dispara um Orbe Fantasma. Esse orbe causa dano ao inimigo atingido e, em seguida, se transforma em &92021_lhsl& Raposas Espirituais que permanecem por &92021_lhsj& segundos."
+ },
+ "skill_desc92023": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc92031": {
+  "en": "Each attack has a &92031_jsgl& chance to slow the target (Agility &92031_jdsd&%) for &92031_jssj&s.",
+  "ch": "每次攻击有&92031_jsgl&的概率使目标的移动速度&92031_jdsd&%，持续&92031_jssj&秒。",
+  "pt": "Cada ataque tem uma chance de &92031_jsgl& de retardar o alvo (Agilidade &92031_jdsd&%) por &92031_jssj& segundos."
+ },
+ "skill_desc92032": {
+  "en": "Available once Sundering Arrow has been cast &92031_pgcs& times. The number of Sundering Arrow's projectiles will be increased to &92031_jssl&.",
+  "ch": "使用破体箭&92031_pgcs&次后可施展，破体箭的弹道数量改为&92031_jssl&个。",
+  "pt": "Disponível após o Feitiço da Flecha Fragmentadora ser lançado &92031_pgcs& vezes. O número de projéteis do Feitiço da Flecha Fragmentadora será aumentado para &92031_jssl&."
+ },
+ "skill_desc92041": {
+  "en": "Each attack increases damage by &92041_pgzs&%.",
+  "ch": "每次攻击可提升自身&92041_pgzs&%的伤害。",
+  "pt": "Cada ataque aumenta o dano em &92041_pgzs&%."
+ },
+ "skill_desc92042": {
+  "en": "Available once Percussion has been cast &92041_pgcs& times. Zhenxin beats the drum to increase nearby allies' damage by the same amount as Zhenxin's own damage boost.",
+  "ch": "使用槌击&92041_pgcs&次后可施展，敲击大鼓，使周围的友方单位提升伤害，提升的效果与自身当前的效果一致。",
+  "pt": "Disponível após lançar Percussion &92041_pgcs& vezes. Zhenxin toca o tambor para aumentar o dano dos aliados próximos no mesmo valor do aumento de dano que ela própria recebe."
+ },
+ "skill_desc92051": {
+  "en": "Sharp Edge leaves its weapon on the battlefield after each attack.",
+  "ch": "每次攻击可将武器留在战场上。",
+  "pt": "Sharp Edge deixa sua arma no campo de batalha após cada ataque."
+ },
+ "skill_desc92052": {
+  "en": "Available once &92051_pgcs& weapons have been left on the battlefield. Sharp Edge retrieves all the weapons, then releases them at once. The weapons deal damage to every enemy they hit when they're retrieved and released.",
+  "ch": "当场上的武器达到&92051_pgcs&把后可施展，将所有武器吸收回来，并再向四周射出，吸收及射出的过程中都会对碰撞到的敌人造成伤害。",
+  "pt": "Disponível após deixar as armas &92051_pgcs& no campo de batalha. O Gume Afiado recolhe todas as armas e, em seguida, as lança de uma só vez. Ao serem recolhidas e lançadas, as armas causam dano a todos os inimigos que atingirem."
+ },
+ "skill_desc92053": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc92061": {
+  "en": "Charon summons a Wild Boar every &92061_pgjg&s.",
+  "ch": "每&92061_pgjg&秒召唤一只野猪。",
+  "pt": "Caronte invoca um Javali Selvagem a cada &92061_pgjg&s."
+ },
+ "skill_desc92062": {
+  "en": "Dead Wild Boars will be left on the battlefield. When there are &92061_stsl& dead Wild Boars, cast this skill to revive all of them while increasing their Agility.",
+  "ch": "野猪死亡时不会消失，而是在战场上留下尸体，当野猪尸体达到&92061_stsl&只时可施展，复活所有野猪，并提升其移动速度。",
+  "pt": "Javalis Selvagens mortos permanecerão no campo de batalha. Quando houver &92061_stsl& Javalis Selvagens mortos, use essa habilidade para revivê-los, aumentando ao mesmo tempo a Agilidade de todos."
+ },
+ "skill_desc92071": {
+  "en": "&92071_fjgl&% chance to launch a counterattack when receiving damage. This effect cannot occur more than 1 time every &92071_fjcd&s.",
+  "ch": "每次受到伤害有&92071_fjgl&%的概率向目标进行反击，&92071_fjcd&秒内最多触发1次。",
+  "pt": "&92071_fjgl&% de chance de lançar um contra-ataque ao sofrer dano. Este efeito não pode ocorrer mais de 1 vez a cada &92071_fjcd&s."
+ },
+ "skill_desc92072": {
+  "en": "Available once the total number of attacks and counterattacks reaches &92071_fjcs&. Xuanti stomps the ground, dealing damage to all enemies and stunning them for &92071_jtxy&s.",
+  "ch": "当攻击与反击的总次数达到&92071_fjcs&次时可施展，巨蹄踩踏，对场上所有敌人造成伤害和晕眩&92071_jtxy&秒。",
+  "pt": "Disponível após o número total de ataques e contra-ataques atingir &92071_fjcs&. Xuanti pisa no chão, causando dano a todos os inimigos e atordoando-os por &92071_jtxy& segundos."
+ },
+ "skill_desc92081": {
+  "en": "Each attack accumulates &92081_pghd& Shield Vitality.",
+  "ch": "每次攻击可使自身获得&92081_pghd&点护盾。",
+  "pt": "Cada ataque acumula &92081_pghd& Vitalidade no Escudo."
+ },
+ "skill_desc92082": {
+  "en": "Available once &92081_sxhd& Shield Vitality has been accumulated. All the Shield Vitality is detonated to release a blast that lasts &92081_sxsj&s, dealing damage to every enemy it hits.",
+  "ch": "当自身护盾达到&92081_sxhd&点时可施展，引爆自身所有护盾，发出一道持续&92081_sxsj&秒的冲击，对碰撞到的敌人造成伤害。",
+  "pt": "Disponível após acumular &92081_sxhd& pontos de Vitalidade do Escudo. Toda a Vitalidade do Escudo é detonada, liberando uma explosão que dura &92081_sxsj& segundos e causa dano a todos os inimigos atingidos."
+ },
+ "skill_desc92091": {
+  "en": "Jiuzhu shoots an energy wave at a random ally. Jiuzhu's DEF and this ally's DEF will both increase by &92091_pgfy& for &92091_fysj&s.",
+  "ch": "向场上随机一个友方单位发射一道能量波，提升&92091_pgfy&点自身与对方的防御，持续&92091_fysj&秒。",
+  "pt": "Jiuzhu dispara uma onda de energia contra um aliado aleatório. A DEF de Jiuzhu e a DEF desse aliado aumentarão em &92091_pgfy& por &92091_fysj& segundos."
+ },
+ "skill_desc92092": {
+  "en": "When you lose your shield, Jiuzhu will convert &92091_hdtl& Vitality into the Vitality of your shield. This effect cannot occur more than 1 time every &92091_hdcd&s.",
+  "ch": "当法宝所有者失去护盾时，将自身当前&92091_hdtl&点的体力转化为护盾施加给法宝所有者，此效果&92091_hdcd&秒内最多触发1次。",
+  "pt": "Quando você perder seu Escudo, Jiuzhu converterá &92091_hdtl& de Vitalidade em Vitalidade para o seu escudo. Esse efeito não pode ocorrer mais de 1 vez a cada &92091_hdcd&s."
+ },
+ "skill_desc92101": {
+  "en": "After hitting the target, each attack has a &92101_xfgl&% chance to release an Immortal Blast to deal damage.",
+  "ch": "攻击在命中目标后有&92101_xfgl&%概率再召唤一道仙法冲击，再次造成伤害。",
+  "pt": "Após acertar o alvo, cada ataque tem uma chance de &92101_xfgl&% de liberar uma Explosão Imortal para causar dano."
+ },
+ "skill_desc921011": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc92102": {
+  "en": "Available once &92101_xfcs& Immortal Blasts have been triggered. Double Strike will have a 100% chance to release an Immortal Blast, which also slows the target (Agility &92101_bsjs&%) for &92101_jssj&s.",
+  "ch": "触发&92101_xfcs&次仙法冲击后可施展，重峦召唤仙法冲击的概率为100%，并使目标减速&92101_bsjs&%，持续&92101_jssj&秒。",
+  "pt": "Disponível após ativar &92101_xfcs& Explosões Imortais. O Ataque Duplo terá 100% de chance de liberar uma Explosão Imortal, que também reduz a Agilidade do alvo em &92101_bsjs&% por &92101_jssj& segundos."
+ },
+ "skill_desc92103": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc921031": {
+  "en": "0",
+  "ch": "0",
+  "pt": "0"
+ },
+ "skill_desc92111": {
+  "en": "After hitting the target, each attack has a &92111_jtgl&% chance to knock back and slow the target (Agility &92111_jtjs&%) for &92111_jssj&s.",
+  "ch": "攻击在命中目标时有&92111_jtgl&%的概率击退目标，并使其减速&92111_jtjs&%，持续&92111_jssj&秒。",
+  "pt": "Após atingir o alvo, cada ataque tem uma chance de &92111_jtgl&% de repeli-lo e diminuir sua velocidade (Agilidade &92111_jtjs&%) por &92111_jssj& segundos."
+ },
+ "skill_desc92112": {
+  "en": "Available once Momentum has been cast &92111_pgcs& times. All allies' Max Vitality will increase by &92111_tlsx& for &92111_tlsj&s.",
+  "ch": "使用奔势&92111_pgcs&次后可施展，为场上所有友方单位提升&92111_tlsx&点体力上限，持续&92111_tlsj&秒。",
+  "pt": "Disponível após o feitiço Momentum ser usado &92111_pgcs& vezes. A Vitalidade Máx de todos os aliados aumentará em &92111_tlsx& por &92111_tlsj& segundos."
+ },
+ "skill_desc92121": {
+  "en": "After hitting the target, each attack has a &92121_qqgl&% chance to steal &92121_qqlg& points of the target's All Spiritual Roots. This effect lasts &92121_qqsj&s.",
+  "ch": "攻击命中目标后有&92121_qqgl&%的概率窃取其&92121_qqlg&点全灵根，持续&92121_qqsj&秒。",
+  "pt": "Após atingir o alvo, cada ataque tem uma chance de &92121_qqgl&% de roubar &92121_qqlg& pontos das Todas as Raízes Espirituais do alvo. Esse efeito dura &92121_qqsj& segundos."
+ },
+ "skill_desc92122": {
+  "en": "Available once Divine Absorption has been cast &92121_pgcs& times. Rainmaker releases all the stolen Spiritual Root points at once. For every 10 Spiritual Root points released, a Spiritual Blast will be triggered at a random enemy, dealing damage to all enemies within range and reducing their Energy.",
+  "ch": "使用汲神&92121_pgcs&次后可施展，轰出所有窃取的灵根，每10点全灵根可在随机一个敌人处引发一次灵爆，对范围内的敌人造成伤害和灵力损失。",
+  "pt": "Disponível após o feitiço Absorção Divina ser lançado &92121_pgcs& vezes. O Rainmaker libera todos os pontos da Raiz Espiritual roubados de uma só vez. A cada 10 pontos da Raiz Espiritual liberados, uma Explosão Espiritual é acionada contra um inimigo aleatório, causando dano a todos os inimigos ao alcance e reduzindo a Energia deles."
+ },
+ "skill_desc92131": {
+  "en": "After hitting the target, each attack generates a flame that lasts &92131_hysj&s at the target's location, dealing damage over time.",
+  "ch": "攻击命中目标后，会在目标位置生成火焰，持续&92131_hysj&秒，对敌人造成持续伤害。",
+  "pt": "Após atingir o alvo, cada ataque gera uma chama que permanece no local do alvo por &92131_hysj& segundos, causando dano ao longo do tempo."
+ },
+ "skill_desc921311": {
+  "en": "Each flame leaves behind a spark when it goes out. When there are &92131_hzsl& sparks, cast this skill to detonate all the sparks, dealing damage to enemies within range.",
+  "ch": "火焰熄灭后会留下火种，当场上火种达到&92131_hzsl&个时可施展，引爆所有火种，对范围内的敌人造成伤害。",
+  "pt": "Cada chama deixa para trás uma faísca ao se apagar. Quando houver &92131_hzsl& faíscas, use esta habilidade para detoná-las todas, causando dano aos inimigos dentro do alcance."
+ },
+ "skill_desc92132": {
+  "en": "Each flame leaves behind a spark when it goes out. When there are &92131_hzsl& sparks, cast this skill to detonate all the sparks, dealing damage to enemies within range.",
+  "ch": "火焰熄灭后会留下火种，当场上火种达到&92131_hzsl&个时可施展，引爆所有火种，对范围内的敌人造成伤害。",
+  "pt": "Cada chama deixa para trás uma faísca ao se apagar. Quando houver &92131_hzsl& faíscas, use esta habilidade para detoná-las todas, causando dano aos inimigos dentro do alcance."
+ },
+ "skill_desc92141": {
+  "en": "Each attack has a &92141_zjgl&% chance to additionally release &92141_zjpg& blade auras.",
+  "ch": "每次攻击时有&92141_zjgl&%概率额外发射&92141_zjpg&道刀光。",
+  "pt": "Cada ataque tem uma chance de &92141_zjgl&% de liberar, adicionalmente, aura de lâminas do tipo &92141_zjpg&."
+ },
+ "skill_desc92142": {
+  "en": "Available once Roaring Slash has been cast &92141_pgcs& times. Feiming throws a halberd that lasts &92141_zjsj&s at your current location. Allies within the area of the halberd will deal &92141_zjsh&% more damage.",
+  "ch": "使用啸斩&92141_pgcs&次后可施展，向召唤者当前的位置抛出一把战戟，持续&92141_zjsj&秒，在战戟范围内的友方单位可提升&92141_zjsh&%的伤害。",
+  "pt": "Disponível após usar o Golpe Rugidor &92141_pgcs& vezes. Feiming lança uma alabarda que permanece em seu local atual por &92141_zjsj& segundos. Aliados dentro da área de alcance da alabarda causarão &92141_zjsh&% mais dano."
+ },
+ "skill_desc92151": {
+  "en": "Youling releases a Spiritual Bird. This bird deals damage to an enemy, then flies to a random ally, recovering the ally's Vitality by &92151_rntl&.",
+  "ch": "发射一只灵鸟，对敌人造成伤害后，会随机返回一个友方单位身上，为友方单位回复&92151_rntl&体力。",
+  "pt": "Youling libera um Pássaro Espiritual. Este pássaro causa dano a um inimigo e, em seguida, voa até um aliado aleatório, recuperando a Vitalidade desse aliado em &92151_rntl&."
+ },
+ "skill_desc92152": {
+  "en": "Available once your Vitality drops below 50%. Youling releases a Spiritual Bird to surround you, recovering your Vitality by &92151_zntl& every second for &92151_znsj&s.",
+  "ch": "当法宝所有者的体力低于50%时可施展，施放一只灵鸟围绕着召唤者，每秒可为其回复&92151_zntl&体力，持续&92151_znsj&秒。",
+  "pt": "Disponível quando sua Vitalidade cair abaixo de 50%. O Youling libera um Pássaro Espiritual que o cerca, recuperando sua Vitalidade em &92151_zntl& a cada segundo por &92151_znsj& segundos."
+ },
+ "skill_desc92161": {
+  "en": "Each attack reduces the target's DEF (&92161_pgfy&) for &92161_fysj&s.",
+  "ch": "每次攻击可使目标防御&92161_pgfy&，持续&92161_fysj&秒。",
+  "pt": "Cada ataque reduz a DEF do alvo (&92161_pgfy&) por &92161_fysj& segundos."
+ },
+ "skill_desc92162": {
+  "en": "Available once Hamstring has been cast &92161_lxcs& times. Sharpclaw launches &92161_pgsl& normal attacks in a row at a random enemy.",
+  "ch": "使用断筋&92161_lxcs&次后可施展，对一名敌人连续普攻&92161_pgsl&次。",
+  "pt": "Disponível após o feitiço Hamstring ser usado &92161_lxcs& vezes. Sharpclaw realiza &92161_pgsl& ataques normais seguidos contra um inimigo aleatório."
+ },
+ "skill_desc92171": {
+  "en": "Each attack has a &92171_zsgl&% chance to instantly kill a normal monster.",
+  "ch": "攻击有&92171_zsgl&%的概率可以斩杀小怪。",
+  "pt": "Cada ataque tem uma chance de &92171_zsgl&% de matar instantaneamente um monstro comum."
+ },
+ "skill_desc92172": {
+  "en": "When Darkfang disappears, it'll launch 5 claw attacks that cover the entire battlefield. Each claw attack additionally deals &92171_zjsh& fixed damage. This effect cannot occur more than once every &92171_zjcd&s.",
+  "ch": "当自身消失时，发出5道全屏的快速爪击，每次对目标额外造成&92171_zjsh&点固定伤害。每&92171_zjcd&秒最多触发一次。",
+  "pt": "Quando Darkfang desaparecer, ele disparará 5 ataques com garras que cobrirão todo o campo de batalha. Cada ataque com garra também causa &92171_zjsh& pontos de dano fixo. Esse efeito não pode ocorrer mais de uma vez a cada &92171_zjcd& segundos."
+ },
+ "skill_desc92181": {
+  "en": "Voodoo grants you a buff that allows your projectiles to ignore &92181_csfy&% of the target's DEF for &92181_ctsj&s.",
+  "ch": "为法宝所有者施加效果（弹道可穿透目标&92181_csfy&%的防御），持续&92181_ctsj&秒。",
+  "pt": "O Voodoo concede um buff que permite que seus projéteis ignorem &92181_csfy&% da DEF do alvo por &92181_ctsj& segundos."
+ },
+ "skill_desc92182": {
+  "en": "When Voodoo disappears, it leaves a toxic pool that lasts &92181_dysj&s. The toxic pool deals damage over time to enemies within range and increases their damage taken by &92181_dysh&%. This effect cannot occur more than once every &92181_dycd&s.",
+  "ch": "当自身消失时，在原地留下一滩持续&92181_dysj&秒的毒液，持续对范围内的敌人造成伤害，并使其受到的伤害提升&92181_dysh&%。每&92181_dycd&秒最多触发一次。",
+  "pt": "Quando o Voodoo desaparece, deixa para trás uma poça tóxica que dura &92181_dysj&s. A poça tóxica causa dano ao longo do tempo aos inimigos dentro do alcance e aumenta o dano que eles recebem em &92181_dysh&%. Esse efeito não pode ocorrer mais de uma vez a cada &92181_dycd&s."
+ },
+ "skill_desc92201": {
+  "en": "Summon &92201_zhcs& Serpents that exist for &92201_zhcj&s every &92201_pgjg&s.",
+  "ch": "每&92201_pgjg&秒召唤&92201_zhcs&条持续&92201_zhcj&的蛇",
+  "pt": "Invoca &92201_zhcs& serpentes que existem por &92201_zhcj&s a cada &92201_pgjg&s."
+ },
+ "skill_desc92212": {
+  "en": "For every &92212_dwcs& serpents summoned, unleash a poisonous mist of &92212_dwfw& that poisons enemies within the area for &92212_dwcj&s.",
+  "ch": "每召唤&92212_dwcs&条蛇，施展&92212_dwfw&的毒雾，造成范围内敌人中毒，持续&92212_dwcj&秒。",
+  "pt": "Para cada serpente &92212_dwcs& invocada, liberte uma névoa venenosa de &92212_dwfw& que envenena os inimigos na área por &92212_dwcj& segundos."
+ },
+ "skill_desc92301": {
+  "en": "Each attack increases the summoner's DEF by &92301_jzfy& for &92301_zfcj&s. Non-stackable effect.",
+  "ch": "每次攻击使召唤主增加&92301_jzfy&防御，持续&92301_zfcj&秒，不可叠加。",
+  "pt": "Cada ataque aumenta a DEF do invocador em &92301_jzfy& por &92301_zfcj& segundos. É um efeito que não se acumula."
+ },
+ "skill_desc92311": {
+  "en": "After increasing DEF &92311_hfcs& times, attack five times consecutively and restore &92311_hftl& for the summoner.",
+  "ch": "增加&92311_hfcs&次防御值时，连续攻击五次，并为召唤主恢复&92311_hftl&。",
+  "pt": "Após aumentar o DEF &92311_hfcs& vezes, ataque cinco vezes consecutivamente e restaure &92311_hftl& para o invocador."
+ },
+ "skill_desc92321": {
+  "en": "Each attack has a &92321_jsgl&% chance to &92321_jscd&% Agility of the target hit for &92321_jssj&s.",
+  "ch": "每次攻击命中敌人时有&92321_jsgl&%的概率使敌人移速&92321_jscd&%，持续&92321_jssj&秒。",
+  "pt": "Cada ataque tem uma chance de &92321_jsgl&% de aumentar em &92321_jscd&% a Agilidade do alvo atingido por &92321_jssj&s."
+ },
+ "skill_desc92341": {
+  "en": "Each attack has a &92341_mhgl&% chance to charm the target hit for &92341_mhcj&s.",
+  "ch": "每次攻击命中敌人时有&92341_mhgl&%概率附带致幻效果，魅惑敌人&92341_mhcj&秒。",
+  "pt": "Cada ataque tem uma chance de &92341_mhgl&% de encantar o alvo atingido por &92341_mhcj& segundos, fazendo com que ele use um talismã."
+ },
+ "skill_desc92351": {
+  "en": "After charming &92341_hdcs& times, apply a shield of 10% self Max Vitality to the player that &92341_hdms&% damage.",
+  "ch": "魅惑&92341_hdcs&后，为玩家施加自身最大体力10%护盾，&92341_hdms&%所受伤害。",
+  "pt": "Após encantar &92341_hdcs& vezes, aplica-se um escudo equivalente a 10% da Vitalidade Máx do próprio jogador, que absorve &92341_hdms&% do dano."
+ },
+ "skill_desc92361": {
+  "en": "Shoot a poison ball at the enemy, dealing &92361_shwl& damage to enemies within &92361_ghdx& range.",
+  "ch": "朝敌人发射一枚毒球，对范围&92361_ghdx&内的敌人造成威力&92361_shwl&的伤害。",
+  "pt": "Dispare uma bola de veneno no inimigo, causando &92361_shwl& pontos de dano a todos os inimigos dentro do alcance de &92361_ghdx&."
+ },
+ "skill_desc92381": {
+  "en": "Each attack has a &92381_yxgl&% chance to reduce the hit enemy's damage done by 20% for &92381_yxcj&s.",
+  "ch": "每次攻击命中敌人时有&92381_yxgl&%概率附带减伤效果，使敌人造成伤害降低20%，持续&92381_yxcj&秒。",
+  "pt": "Cada ataque tem uma chance de &92381_yxgl&% de reduzir o dano causado pelo inimigo atingido em 20% por &92381_yxcj& segundos."
+ },
+ "skill_desc92391": {
+  "en": "After reducing enemy damage done &92381_lzcs& times, summon a lightning array of &92381_lzdx& range for &92381_lzcj&s, dealing &92381_lzwl|x3|f0& damage per sec.",
+  "ch": "每造成敌人减伤&92381_lzcs&次，召唤一片持续&92381_lzcj&秒范围&92381_lzdx&的雷电阵，持续造成每秒威力&92381_lzwl|x3|f0&的伤害。",
+  "pt": "Após reduzir o dano causado pelos inimigos &92381_lzcs& vezes, invoque uma formação de relâmpago com alcance de &92381_lzdx&, que dura &92381_lzcj& segundos e causa &92381_lzwl|x3|f0& de dano por segundo."
+ },
+ "skill_difficult1": {
+  "en": "Very Easy",
+  "ch": "极易",
+  "pt": "Muito fácil"
+ },
+ "skill_difficult2": {
+  "en": "Easy",
+  "ch": "容易",
+  "pt": "Fácil"
+ },
+ "skill_difficult3": {
+  "en": "Medium",
+  "ch": "中等",
+  "pt": "Médio"
+ },
+ "skill_difficult4": {
+  "en": "Hard",
+  "ch": "困难",
+  "pt": "Difícil"
+ },
+ "skill_difficult5": {
+  "en": "Very Hard",
+  "ch": "极难",
+  "pt": "Muito difícil"
+ },
+ "skill_effect_keyword_desc1": {
+  "en": "Receive 50 Fire damage every second",
+  "ch": "每秒受到威力50的火属性伤害。",
+  "pt": "Receba 50 pontos de dano de Fogo a cada segundo."
+ },
+ "skill_effect_keyword_desc2": {
+  "en": "Agility -30%",
+  "ch": "移动速度降低30%。",
+  "pt": "Agilidade: -30%"
+ },
+ "skill_effect_keyword_name1": {
+  "en": "Flame",
+  "ch": "烈火",
+  "pt": "Chama"
+ },
+ "skill_effect_keyword_name2": {
+  "en": "Frost",
+  "ch": "霜冻",
+  "pt": "Gelo"
+ },
+ "skill_entry_title_range": {
+  "en": "Range: ",
+  "ch": "射程：",
+  "pt": "Faixa: "
+ },
+ "skill_fa": {
+  "en": "法",
+  "ch": "法",
+  "pt": "Lei"
+ },
+ "skill_feng": {
+  "en": "Wind",
+  "ch": "风",
+  "pt": "Vento"
+ },
+ "skill_field_bulletNum61": {
+  "en": "主弹道数量",
+  "ch": "主弹道数量",
+  "pt": "Quantidade de trajetórias principais"
+ },
+ "skill_field_bulletNum62": {
+  "en": "子弹道数量",
+  "ch": "子弹道数量",
+  "pt": "Quantidade de trajetórias de bala"
+ },
+ "skill_field_bulletNum63": {
+  "en": "弹道数量",
+  "ch": "弹道数量",
+  "pt": "Quantidade de trajetórias"
+ },
+ "skill_field_capacity21": {
+  "en": "子弹道波数",
+  "ch": "子弹道波数",
+  "pt": "Número de ondas balísticas"
+ },
+ "skill_field_chargeValue21": {
+  "en": "命中增加怒气",
+  "ch": "命中增加怒气",
+  "pt": "Acertos aumentam a raiva"
+ },
+ "skill_field_duration31": {
+  "en": "遁地持续时间",
+  "ch": "遁地持续时间",
+  "pt": "Duração do teletransporte no solo"
+ },
+ "skill_field_duration32": {
+  "en": "隐身持续时间",
+  "ch": "隐身持续时间",
+  "pt": "Duração do estado invisível"
+ },
+ "skill_field_duration41": {
+  "en": "阵法持续时间",
+  "ch": "阵法持续时间",
+  "pt": "Duração do padrão de formação"
+ },
+ "skill_field_duration71": {
+  "en": "召唤物持续时间",
+  "ch": "召唤物持续时间",
+  "pt": "Duração do invocado"
+ },
+ "skill_field_duration81": {
+  "en": "间隔时间",
+  "ch": "间隔时间",
+  "pt": "Intervalo de tempo"
+ },
+ "skill_field_duration82": {
+  "en": "持续时间",
+  "ch": "持续时间",
+  "pt": "Duração"
+ },
+ "skill_field_magicDmg21": {
+  "en": "主弹道威力",
+  "ch": "主弹道威力",
+  "pt": "Poder balístico principal"
+ },
+ "skill_field_magicDmg22": {
+  "en": "子弹道威力",
+  "ch": "子弹道威力",
+  "pt": "Poder balístico das balas"
+ },
+ "skill_field_magicDmg23": {
+  "en": "弹道威力",
+  "ch": "弹道威力",
+  "pt": "Poder balístico"
+ },
+ "skill_field_mpCost11": {
+  "en": "灵力消耗",
+  "ch": "灵力消耗",
+  "pt": "Consumo de energia espiritual"
+ },
+ "skill_field_number71": {
+  "en": "召唤数量",
+  "ch": "召唤数量",
+  "pt": "Quantidade de invocações"
+ },
+ "skill_field_phycicalDmg21": {
+  "en": "主弹道威力",
+  "ch": "主弹道威力",
+  "pt": "Poder balístico principal"
+ },
+ "skill_field_phycicalDmg22": {
+  "en": "子弹道威力",
+  "ch": "子弹道威力",
+  "pt": "Poder balístico das balas"
+ },
+ "skill_field_phycicalDmg23": {
+  "en": "弹道威力",
+  "ch": "弹道威力",
+  "pt": "Poder balístico"
+ },
+ "skill_field_plies81": {
+  "en": "持续时间",
+  "ch": "持续时间",
+  "pt": "Duração"
+ },
+ "skill_field_radius61": {
+  "en": "主弹道半径",
+  "ch": "主弹道半径",
+  "pt": "Raio da trajetória principal"
+ },
+ "skill_field_radius62": {
+  "en": "子弹道半径",
+  "ch": "子弹道半径",
+  "pt": "Raio da trajetória da bala"
+ },
+ "skill_field_radius63": {
+  "en": "弹道半径",
+  "ch": "弹道半径",
+  "pt": "Raio balístico"
+ },
+ "skill_field_range31": {
+  "en": "闪现距离",
+  "ch": "闪现距离",
+  "pt": "Distância do teletransporte"
+ },
+ "skill_field_range32": {
+  "en": "冲刺距离",
+  "ch": "冲刺距离",
+  "pt": "Distância de sprint"
+ },
+ "skill_field_range51": {
+  "en": "主弹道射程",
+  "ch": "主弹道射程",
+  "pt": "Alcance balístico principal"
+ },
+ "skill_field_range52": {
+  "en": "子弹道射程",
+  "ch": "子弹道射程",
+  "pt": "Alcance da trajetória do projétil"
+ },
+ "skill_field_range53": {
+  "en": "弹道射程",
+  "ch": "弹道射程",
+  "pt": "Alcance balístico"
+ },
+ "skill_field_shotCD21": {
+  "en": "技能冷却",
+  "ch": "技能冷却",
+  "pt": "Tempo de recarga da habilidade"
+ },
+ "skill_field_size41": {
+  "en": "阵法半径",
+  "ch": "阵法半径",
+  "pt": "Raio da formação de batalha"
+ },
+ "skill_field_spCost11": {
+  "en": "念力消耗",
+  "ch": "念力消耗",
+  "pt": "Consumo de telecinesia"
+ },
+ "skill_huo": {
+  "en": "Fire",
+  "ch": "火",
+  "pt": "Fogo"
+ },
+ "skill_huozhe": {
+  "en": "Or",
+  "ch": "或",
+  "pt": "Ou"
+ },
+ "skill_jian": {
+  "en": "Sword",
+  "ch": "剑",
+  "pt": "Espada"
+ },
+ "skill_jinengshuoming": {
+  "en": "Skill Info",
+  "ch": "技能说明",
+  "pt": "Informações sobre a Habilidade"
+ },
+ "skill_jingjieyaoqiu": {
+  "en": "Required Realm: {0}",
+  "ch": "境界要求：{0}",
+  "pt": "Reino necessário: {0}"
+ },
+ "skill_jueji": {
+  "en": "Special Skill",
+  "ch": "绝技",
+  "pt": "Técnica Especial"
+ },
+ "skill_juli": {
+  "en": "Range:",
+  "ch": "距离：",
+  "pt": "Faixa:"
+ },
+ "skill_lei": {
+  "en": "Lightning",
+  "ch": "雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago"
+ },
+ "skill_lengque": {
+  "en": "Cooldown:",
+  "ch": "冷却：",
+  "pt": "Tempo de recarga:"
+ },
+ "skill_lingji": {
+  "en": "Spiritual Skill",
+  "ch": "灵技",
+  "pt": "Técnica Espiritual"
+ },
+ "skill_mastery1": {
+  "en": "I",
+  "ch": "初学",
+  "pt": "Eu"
+ },
+ "skill_mastery10": {
+  "en": "X",
+  "ch": "觉醒",
+  "pt": "X"
+ },
+ "skill_mastery11": {
+  "en": "XI",
+  "ch": "化境",
+  "pt": "XI"
+ },
+ "skill_mastery12": {
+  "en": "XII",
+  "ch": "大道",
+  "pt": "XII"
+ },
+ "skill_mastery2": {
+  "en": "II",
+  "ch": "乍炼",
+  "pt": "II"
+ },
+ "skill_mastery3": {
+  "en": "III",
+  "ch": "娴熟",
+  "pt": "III"
+ },
+ "skill_mastery4": {
+  "en": "IV",
+  "ch": "通晓",
+  "pt": "IV"
+ },
+ "skill_mastery5": {
+  "en": "V",
+  "ch": "小成",
+  "pt": "V"
+ },
+ "skill_mastery6": {
+  "en": "VI",
+  "ch": "灵动",
+  "pt": "VI"
+ },
+ "skill_mastery7": {
+  "en": "VII",
+  "ch": "精通",
+  "pt": "VII"
+ },
+ "skill_mastery8": {
+  "en": "VIII",
+  "ch": "大成",
+  "pt": "VIII"
+ },
+ "skill_mastery9": {
+  "en": "IX",
+  "ch": "圆满",
+  "pt": "IX"
+ },
+ "skill_missile_dao": {
+  "en": "刀光",
+  "ch": "刀光",
+  "pt": "Brilho da lâmina"
+ },
+ "skill_missile_jian": {
+  "en": "剑气",
+  "ch": "剑气",
+  "pt": "Energia da espada"
+ },
+ "skill_missile_qian": {
+  "en": "枪影",
+  "ch": "枪影",
+  "pt": "Sombra da arma"
+ },
+ "skill_missile_quan": {
+  "en": "拳威",
+  "ch": "拳威",
+  "pt": "Força do punho"
+ },
+ "skill_missile_zhang": {
+  "en": "掌风",
+  "ch": "掌风",
+  "pt": "Vento da palma da mão"
+ },
+ "skill_missile_zhi": {
+  "en": "指劲",
+  "ch": "指劲",
+  "pt": "Força dos dedos"
+ },
+ "skill_mu": {
+  "en": "Wood",
+  "ch": "木",
+  "pt": "Madeira"
+ },
+ "skill_name_first1": {
+  "en": "玄",
+  "ch": "玄",
+  "pt": "Misterioso"
+ },
+ "skill_name_first10": {
+  "en": "穿",
+  "ch": "穿",
+  "pt": "Vestir"
+ },
+ "skill_name_first11": {
+  "en": "贯",
+  "ch": "贯",
+  "pt": "Perfurar"
+ },
+ "skill_name_first12": {
+  "en": "陨",
+  "ch": "陨",
+  "pt": "Queda"
+ },
+ "skill_name_first13": {
+  "en": "落",
+  "ch": "落",
+  "pt": "Queda"
+ },
+ "skill_name_first14": {
+  "en": "冲",
+  "ch": "冲",
+  "pt": "Choque"
+ },
+ "skill_name_first15": {
+  "en": "奔",
+  "ch": "奔",
+  "pt": "Correr"
+ },
+ "skill_name_first16": {
+  "en": "腾",
+  "ch": "腾",
+  "pt": "Saltar"
+ },
+ "skill_name_first17": {
+  "en": "化",
+  "ch": "化",
+  "pt": "Transformação"
+ },
+ "skill_name_first18": {
+  "en": "炼",
+  "ch": "炼",
+  "pt": "Refinar"
+ },
+ "skill_name_first19": {
+  "en": "烈",
+  "ch": "烈",
+  "pt": "Intenso"
+ },
+ "skill_name_first2": {
+  "en": "遮",
+  "ch": "遮",
+  "pt": "Ocultar"
+ },
+ "skill_name_first20": {
+  "en": "崩",
+  "ch": "崩",
+  "pt": "Colapso"
+ },
+ "skill_name_first21": {
+  "en": "爆",
+  "ch": "爆",
+  "pt": "Explosão"
+ },
+ "skill_name_first22": {
+  "en": "缠",
+  "ch": "缠",
+  "pt": "Enrolar"
+ },
+ "skill_name_first23": {
+  "en": "绕",
+  "ch": "绕",
+  "pt": "Contornar"
+ },
+ "skill_name_first24": {
+  "en": "迅",
+  "ch": "迅",
+  "pt": "Rápido"
+ },
+ "skill_name_first25": {
+  "en": "疾",
+  "ch": "疾",
+  "pt": "Rápido"
+ },
+ "skill_name_first26": {
+  "en": "绝",
+  "ch": "绝",
+  "pt": "Nunca"
+ },
+ "skill_name_first27": {
+  "en": "半",
+  "ch": "半",
+  "pt": "Metade"
+ },
+ "skill_name_first28": {
+  "en": "赤",
+  "ch": "赤",
+  "pt": "Vermelho"
+ },
+ "skill_name_first29": {
+  "en": "重",
+  "ch": "重",
+  "pt": "Pesado"
+ },
+ "skill_name_first3": {
+  "en": "掩",
+  "ch": "掩",
+  "pt": "Ocultar"
+ },
+ "skill_name_first30": {
+  "en": "聚",
+  "ch": "聚",
+  "pt": "Agrupar"
+ },
+ "skill_name_first31": {
+  "en": "太",
+  "ch": "太",
+  "pt": "Muito"
+ },
+ "skill_name_first32": {
+  "en": "孤",
+  "ch": "孤",
+  "pt": "Solitário"
+ },
+ "skill_name_first33": {
+  "en": "独",
+  "ch": "独",
+  "pt": "Solo"
+ },
+ "skill_name_first34": {
+  "en": "流",
+  "ch": "流",
+  "pt": "Fluxo"
+ },
+ "skill_name_first35": {
+  "en": "弥",
+  "ch": "弥",
+  "pt": "Yí"
+ },
+ "skill_name_first36": {
+  "en": "漫",
+  "ch": "漫",
+  "pt": "Aleatório"
+ },
+ "skill_name_first38": {
+  "en": "枯",
+  "ch": "枯",
+  "pt": "Seco"
+ },
+ "skill_name_first39": {
+  "en": "惊",
+  "ch": "惊",
+  "pt": "Surpresa"
+ },
+ "skill_name_first4": {
+  "en": "追",
+  "ch": "追",
+  "pt": "Seguir"
+ },
+ "skill_name_first40": {
+  "en": "狂",
+  "ch": "狂",
+  "pt": "Loucura"
+ },
+ "skill_name_first41": {
+  "en": "霸",
+  "ch": "霸",
+  "pt": "Tirano"
+ },
+ "skill_name_first42": {
+  "en": "清",
+  "ch": "清",
+  "pt": "Limpo"
+ },
+ "skill_name_first43": {
+  "en": "净",
+  "ch": "净",
+  "pt": "Líquido"
+ },
+ "skill_name_first44": {
+  "en": "碎",
+  "ch": "碎",
+  "pt": "Quebrado"
+ },
+ "skill_name_first45": {
+  "en": "破",
+  "ch": "破",
+  "pt": "Quebrado"
+ },
+ "skill_name_first46": {
+  "en": "灭",
+  "ch": "灭",
+  "pt": "Extinto"
+ },
+ "skill_name_first47": {
+  "en": "镇",
+  "ch": "镇",
+  "pt": "Cidade"
+ },
+ "skill_name_first48": {
+  "en": "定",
+  "ch": "定",
+  "pt": "Definido"
+ },
+ "skill_name_first5": {
+  "en": "遥",
+  "ch": "遥",
+  "pt": "Longe"
+ },
+ "skill_name_first50": {
+  "en": "斩",
+  "ch": "斩",
+  "pt": "Decapitar"
+ },
+ "skill_name_first51": {
+  "en": "逆",
+  "ch": "逆",
+  "pt": "Ao contrário"
+ },
+ "skill_name_first52": {
+  "en": "灼",
+  "ch": "灼",
+  "pt": "Ardente"
+ },
+ "skill_name_first53": {
+  "en": "寒",
+  "ch": "寒",
+  "pt": "Frio"
+ },
+ "skill_name_first54": {
+  "en": "劈",
+  "ch": "劈",
+  "pt": "Rachar"
+ },
+ "skill_name_first56": {
+  "en": "震",
+  "ch": "震",
+  "pt": "Tremor"
+ },
+ "skill_name_first57": {
+  "en": "苍",
+  "ch": "苍",
+  "pt": "Azul-claro"
+ },
+ "skill_name_first58": {
+  "en": "焚",
+  "ch": "焚",
+  "pt": "Queimar"
+ },
+ "skill_name_first59": {
+  "en": "凝",
+  "ch": "凝",
+  "pt": "Concentrado"
+ },
+ "skill_name_first6": {
+  "en": "远",
+  "ch": "远",
+  "pt": "Longe"
+ },
+ "skill_name_first60": {
+  "en": "轰",
+  "ch": "轰",
+  "pt": "Bum"
+ },
+ "skill_name_first61": {
+  "en": "卷",
+  "ch": "卷",
+  "pt": "Volume"
+ },
+ "skill_name_first63": {
+  "en": "啸",
+  "ch": "啸",
+  "pt": "Uivo"
+ },
+ "skill_name_first7": {
+  "en": "断",
+  "ch": "断",
+  "pt": "Interrompido"
+ },
+ "skill_name_first8": {
+  "en": "截",
+  "ch": "截",
+  "pt": "Cortar"
+ },
+ "skill_name_first9": {
+  "en": "突",
+  "ch": "突",
+  "pt": "De repente"
+ },
+ "skill_name_middle10010": {
+  "en": "落英",
+  "ch": "落英",
+  "pt": "Pétalas caídas"
+ },
+ "skill_name_middle10020": {
+  "en": "落枫",
+  "ch": "落枫",
+  "pt": "Folhas de bordo caídas"
+ },
+ "skill_name_middle10030": {
+  "en": "落雁",
+  "ch": "落雁",
+  "pt": "Ogami"
+ },
+ "skill_name_middle10040": {
+  "en": "落霞",
+  "ch": "落霞",
+  "pt": "Pôr do sol"
+ },
+ "skill_name_middle100721": {
+  "en": "Spread Afar",
+  "ch": "开枝散叶",
+  "pt": "Dispersão Afar"
+ },
+ "skill_name_middle1007211": {
+  "en": "Spread Afar",
+  "ch": "开枝散叶",
+  "pt": "Dispersão Afar"
+ },
+ "skill_name_middle1007212": {
+  "en": "Leaves and Petals",
+  "ch": "摘叶飞花",
+  "nomes": {
+   "Leaves and Petals": "Folhas e Pétalas"
+  },
+  "pt": "Folhas e pétalas"
+ },
+ "skill_name_middle100722": {
+  "en": "Leaves and Petals",
+  "ch": "摘叶飞花",
+  "nomes": {
+   "Leaves and Petals": "Folhas e Pétalas"
+  },
+  "pt": "Folhas e pétalas"
+ },
+ "skill_name_middle100724": {
+  "en": "Bamboo Shoot",
+  "ch": "春笋新芽",
+  "nomes": {
+   "Bamboo Shoot": "Broto de Bambu"
+  },
+  "pt": "Brotos de bambu"
+ },
+ "skill_name_middle100727": {
+  "en": "Earth's Guarding",
+  "ch": "大地守护",
+  "pt": "A Guardiã da Terra"
+ },
+ "skill_name_middle100729": {
+  "en": "Bamboo Shoot",
+  "ch": "春笋新芽",
+  "nomes": {
+   "Bamboo Shoot": "Broto de Bambu"
+  },
+  "pt": "Brotos de bambu"
+ },
+ "skill_name_middle10110": {
+  "en": "旋风",
+  "ch": "旋风",
+  "pt": "Tornado"
+ },
+ "skill_name_middle10120": {
+  "en": "怒风",
+  "ch": "怒风",
+  "pt": "Vento furioso"
+ },
+ "skill_name_middle10130": {
+  "en": "暴风",
+  "ch": "暴风",
+  "pt": "Tempestade"
+ },
+ "skill_name_middle10210": {
+  "en": "六回",
+  "ch": "六迴",
+  "pt": "Seis vezes"
+ },
+ "skill_name_middle10220": {
+  "en": "八回",
+  "ch": "八迴",
+  "pt": "Oito vezes"
+ },
+ "skill_name_middle10230": {
+  "en": "十回",
+  "ch": "十迴",
+  "pt": "Dez vezes"
+ },
+ "skill_name_middle10310": {
+  "en": "火龙",
+  "ch": "火龙",
+  "pt": "Dragão de fogo"
+ },
+ "skill_name_middle10320": {
+  "en": "焰龙",
+  "ch": "焰龙",
+  "pt": "Dragão de Chamas"
+ },
+ "skill_name_middle10330": {
+  "en": "烛龙",
+  "ch": "烛龙",
+  "pt": "Dragão da Vela"
+ },
+ "skill_name_middle10410": {
+  "en": "冰龙",
+  "ch": "冰龙",
+  "pt": "Dragão de Gelo"
+ },
+ "skill_name_middle10420": {
+  "en": "凛龙",
+  "ch": "凛龙",
+  "pt": "Dragão Gélido"
+ },
+ "skill_name_middle10430": {
+  "en": "寒龙",
+  "ch": "寒龙",
+  "pt": "Dragão frio"
+ },
+ "skill_name_middle10440": {
+  "en": "霜龙",
+  "ch": "霜龙",
+  "pt": "Dragão da Geada"
+ },
+ "skill_name_middle10510": {
+  "en": "闪龙",
+  "ch": "闪龙",
+  "pt": "Sempron"
+ },
+ "skill_name_middle10520": {
+  "en": "掣龙",
+  "ch": "掣龙",
+  "pt": "Dragão controlador"
+ },
+ "skill_name_middle10530": {
+  "en": "雷龙",
+  "ch": "雷龙",
+  "pt": "Tiranossauro"
+ },
+ "skill_name_middle10540": {
+  "en": "迅龙",
+  "ch": "迅龙",
+  "pt": "Dragão Veloz"
+ },
+ "skill_name_middle10550": {
+  "en": "瞬龙",
+  "ch": "瞬龙",
+  "pt": "Dragão Instantâneo"
+ },
+ "skill_name_middle10610": {
+  "en": "卷龙",
+  "ch": "卷龙",
+  "pt": "Dragão em espiral"
+ },
+ "skill_name_middle10620": {
+  "en": "驰龙",
+  "ch": "驰龙",
+  "pt": "Velociraptor"
+ },
+ "skill_name_middle10630": {
+  "en": "疾龙",
+  "ch": "疾龙",
+  "pt": "Dragão Veloz"
+ },
+ "skill_name_middle10710": {
+  "en": "石龙",
+  "ch": "石龙",
+  "pt": "Dragão de Pedra"
+ },
+ "skill_name_middle10720": {
+  "en": "岩龙",
+  "ch": "岩龙",
+  "pt": "Dragão de Pedra"
+ },
+ "skill_name_middle10730": {
+  "en": "地龙",
+  "ch": "地龙",
+  "pt": "Minhoca"
+ },
+ "skill_name_middle10740": {
+  "en": "震龙",
+  "ch": "震龙",
+  "pt": "Dragão Sísmico"
+ },
+ "skill_name_middle10810": {
+  "en": "木龙",
+  "ch": "木龙",
+  "pt": "Dragão de madeira"
+ },
+ "skill_name_middle10820": {
+  "en": "藤龙",
+  "ch": "藤龙",
+  "pt": "Dragão-de-vidoeiro"
+ },
+ "skill_name_middle10830": {
+  "en": "棘龙",
+  "ch": "棘龙",
+  "pt": "Espinossauro"
+ },
+ "skill_name_middle10910": {
+  "en": "破雾",
+  "ch": "破雾",
+  "pt": "Quebrando a névoa"
+ },
+ "skill_name_middle10920": {
+  "en": "破空",
+  "ch": "破空",
+  "pt": "Rasgando o ar"
+ },
+ "skill_name_middle10930": {
+  "en": "破天",
+  "ch": "破天",
+  "pt": "Quebrar os céus"
+ },
+ "skill_name_middle10940": {
+  "en": "破界",
+  "ch": "破界",
+  "pt": "Quebrando limites"
+ },
+ "skill_name_middle110011": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "skill_name_middle110012": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "skill_name_middle110013": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "skill_name_middle110014": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "skill_name_middle110015": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "skill_name_middle110021": {
+  "en": "Bone Etching Wind",
+  "ch": "蚀骨阴风",
+  "nomes": {
+   "Bone Etching Wind": "Vento de Ossos"
+  },
+  "pt": "Gravação de Vento nas Ossos"
+ },
+ "skill_name_middle110022": {
+  "en": "Stone Fall",
+  "ch": "落石击",
+  "pt": "Queda de Pedras"
+ },
+ "skill_name_middle110023": {
+  "en": "Tornado",
+  "ch": "龙卷风暴",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Tornado"
+ },
+ "skill_name_middle110031": {
+  "en": "Fox Flame",
+  "ch": "狐灵青炎",
+  "nomes": {
+   "Fox Flame": "Chama de Raposa"
+  },
+  "pt": "Raposa Chama"
+ },
+ "skill_name_middle110032": {
+  "en": "Enchant",
+  "ch": "魅惑妖术",
+  "nomes": {
+   "Enchant": "Encanto"
+  },
+  "pt": "Encantar"
+ },
+ "skill_name_middle110033": {
+  "en": "Fox Necromancy",
+  "ch": "万狐通灵",
+  "nomes": {
+   "Fox Necromancy": "Necromancia de Raposa"
+  },
+  "pt": "Necromancia da Raposa"
+ },
+ "skill_name_middle110036": {
+  "en": "Evil Kiss",
+  "ch": "致命飞吻",
+  "pt": "Beijo Maligno"
+ },
+ "skill_name_middle110041": {
+  "en": "Lightning Surge Field",
+  "ch": "雷涌领域",
+  "nomes": {
+   "Lightning Surge": "Surto de Relâmpago",
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Domínio de Onda de Relâmpago"
+ },
+ "skill_name_middle110042": {
+  "en": "Ball Lightning",
+  "ch": "球形闪电",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago de bola"
+ },
+ "skill_name_middle110043": {
+  "en": "Overwhelming Cloud",
+  "ch": "雷云聚顶",
+  "nomes": {
+   "Overwhelming Cloud": "Nuvem Opressiva"
+  },
+  "pt": "Nuvem Avassaladora"
+ },
+ "skill_name_middle110062": {
+  "en": "Blood Shadow Tracks",
+  "ch": "血影迷踪",
+  "nomes": {
+   "Blood Shadow Tracks": "Caminhos de Sangue"
+  },
+  "pt": "Trilhas da Sombra Sangrenta"
+ },
+ "skill_name_middle110063": {
+  "en": "Lethal Tombstone",
+  "ch": "送葬墓碑",
+  "nomes": {
+   "Lethal Tombstone": "lápide Mortal"
+  },
+  "pt": "Túmulo Letal"
+ },
+ "skill_name_middle11006366": {
+  "en": "Lethal Tombstone",
+  "ch": "送葬墓碑",
+  "nomes": {
+   "Lethal Tombstone": "lápide Mortal"
+  },
+  "pt": "Túmulo Letal"
+ },
+ "skill_name_middle110064": {
+  "en": "Bloodlust Talon",
+  "ch": "血煞爪",
+  "pt": "Garra da Sede de Sangue"
+ },
+ "skill_name_middle110065": {
+  "en": "Puppetry",
+  "ch": "御儡术",
+  "pt": "Marionetes"
+ },
+ "skill_name_middle110077": {
+  "en": "Flora Spirit",
+  "ch": "草木灵生",
+  "nomes": {
+   "Flora Spirit": "Espírito das Plantas"
+  },
+  "pt": "Flora Espírito"
+ },
+ "skill_name_middle110078": {
+  "en": "Animated Flora",
+  "ch": "草木成兵",
+  "pt": "Flora Animada"
+ },
+ "skill_name_middle11010": {
+  "en": "飞星",
+  "ch": "飞星",
+  "pt": "Estrelas Voadoras"
+ },
+ "skill_name_middle11020": {
+  "en": "震星",
+  "ch": "震星",
+  "pt": "Estrela Sísmica"
+ },
+ "skill_name_middle11030": {
+  "en": "裂星",
+  "ch": "裂星",
+  "pt": "Estrela Rachada"
+ },
+ "skill_name_middle11040": {
+  "en": "碎星",
+  "ch": "碎星",
+  "pt": "Estrelas quebradas"
+ },
+ "skill_name_middle11110": {
+  "en": "震波",
+  "ch": "震波",
+  "pt": "Onda de choque"
+ },
+ "skill_name_middle11120": {
+  "en": "动波",
+  "ch": "动波",
+  "pt": "Onda de movimento"
+ },
+ "skill_name_middle11130": {
+  "en": "烈波",
+  "ch": "烈波",
+  "pt": "Ondas violentas"
+ },
+ "skill_name_middle11140": {
+  "en": "怒涛",
+  "ch": "怒涛",
+  "pt": "Torrente impetuosa"
+ },
+ "skill_name_middle11150": {
+  "en": "惊涛",
+  "ch": "惊涛",
+  "pt": "Ondas tempestuosas"
+ },
+ "skill_name_middle11160": {
+  "en": "恨涛",
+  "ch": "恨涛",
+  "pt": "Odeio as ondas"
+ },
+ "skill_name_middle11170": {
+  "en": "巨浪",
+  "ch": "巨浪",
+  "pt": "Ondas gigantes"
+ },
+ "skill_name_middle11180": {
+  "en": "狂澜",
+  "ch": "狂澜",
+  "pt": "Tempestade descontrolada"
+ },
+ "skill_name_middle11190": {
+  "en": "覆海",
+  "ch": "覆海",
+  "pt": "Submergir o mar"
+ },
+ "skill_name_middle11210": {
+  "en": "火狱",
+  "ch": "火狱",
+  "pt": "Inferno"
+ },
+ "skill_name_middle11220": {
+  "en": "血狱",
+  "ch": "血狱",
+  "pt": "Inferno de Sangue"
+ },
+ "skill_name_middle11230": {
+  "en": "冥狱",
+  "ch": "冥狱",
+  "pt": "Inferno sombrio"
+ },
+ "skill_name_middle11240": {
+  "en": "荒狱",
+  "ch": "荒狱",
+  "pt": "Inferno selvagem"
+ },
+ "skill_name_middle11250": {
+  "en": "鬼狱",
+  "ch": "鬼狱",
+  "pt": "Inferno dos Demônios"
+ },
+ "skill_name_middle11260": {
+  "en": "幽狱",
+  "ch": "幽狱",
+  "pt": "Prisão sombria"
+ },
+ "skill_name_middle11310": {
+  "en": "流云",
+  "ch": "流云",
+  "pt": "Nuvens flutuantes"
+ },
+ "skill_name_middle11320": {
+  "en": "飞云",
+  "ch": "飞云",
+  "pt": "Nuvens voadoras"
+ },
+ "skill_name_middle11330": {
+  "en": "疾云",
+  "ch": "疾云",
+  "pt": "Nuvens velozes"
+ },
+ "skill_name_middle11340": {
+  "en": "冲云",
+  "ch": "冲云",
+  "pt": "Atravessando as nuvens"
+ },
+ "skill_name_middle11411": {
+  "en": "火光",
+  "ch": "火光",
+  "pt": "Luz do fogo"
+ },
+ "skill_name_middle11412": {
+  "en": "Aether Fire",
+  "ch": "玄火术",
+  "pt": "Fogo do Éter"
+ },
+ "skill_name_middle11413": {
+  "en": "Aether Blade",
+  "ch": "玄灵刀",
+  "pt": "Lâmina do Éter"
+ },
+ "skill_name_middle11421": {
+  "en": "冰气",
+  "ch": "冰气",
+  "pt": "Gás gelado"
+ },
+ "skill_name_middle11422": {
+  "en": "Aether Water",
+  "ch": "玄水术",
+  "pt": "Água de Éter"
+ },
+ "skill_name_middle11423": {
+  "en": "Aether Spear",
+  "ch": "玄灵枪",
+  "pt": "Lança de Éter"
+ },
+ "skill_name_middle11431": {
+  "en": "雷光",
+  "ch": "雷光",
+  "pt": "Relâmpagos"
+ },
+ "skill_name_middle11432": {
+  "en": "Aether Lightning",
+  "ch": "玄雷术",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago do Éter"
+ },
+ "skill_name_middle11433": {
+  "en": "Aether Sword",
+  "ch": "玄灵剑",
+  "pt": "Espada do Éter"
+ },
+ "skill_name_middle11441": {
+  "en": "翔风",
+  "ch": "翔风",
+  "pt": "Vento Alado"
+ },
+ "skill_name_middle11442": {
+  "en": "Aether Wind",
+  "ch": "玄风术",
+  "pt": "Vento do Éter"
+ },
+ "skill_name_middle11443": {
+  "en": "Aether Fist",
+  "ch": "玄天拳",
+  "pt": "Punho do Éter"
+ },
+ "skill_name_middle11451": {
+  "en": "飞土",
+  "ch": "飞土",
+  "pt": "Terra voadora"
+ },
+ "skill_name_middle11452": {
+  "en": "Aether Earth",
+  "ch": "玄岩术",
+  "pt": "Terra do Éter"
+ },
+ "skill_name_middle11453": {
+  "en": "Aether Palm",
+  "ch": "玄天掌",
+  "pt": "Palma do Éter"
+ },
+ "skill_name_middle11461": {
+  "en": "灵木",
+  "ch": "灵木",
+  "pt": "Madeira espiritual"
+ },
+ "skill_name_middle11462": {
+  "en": "Aether Wood",
+  "ch": "玄木术",
+  "pt": "Madeira de Éter"
+ },
+ "skill_name_middle11463": {
+  "en": "Aether Finger",
+  "ch": "玄天指",
+  "pt": "Dedo do Éter"
+ },
+ "skill_name_middle11511": {
+  "en": "剑气1",
+  "ch": "剑气1",
+  "pt": "Energia da Espada 1"
+ },
+ "skill_name_middle11512": {
+  "en": "剑气2",
+  "ch": "剑气2",
+  "pt": "Energia da Espada 2"
+ },
+ "skill_name_middle11513": {
+  "en": "剑气3",
+  "ch": "剑气3",
+  "pt": "Energia da Espada 3"
+ },
+ "skill_name_middle11514": {
+  "en": "剑气4",
+  "ch": "剑气4",
+  "pt": "Energia da Espada 4"
+ },
+ "skill_name_middle11515": {
+  "en": "剑气5",
+  "ch": "剑气5",
+  "pt": "Energia da Espada 5"
+ },
+ "skill_name_middle11516": {
+  "en": "剑气6",
+  "ch": "剑气6",
+  "pt": "Energia da Espada 6"
+ },
+ "skill_name_middle11611": {
+  "en": "剑心1",
+  "ch": "剑心1",
+  "pt": "Kenshin 1"
+ },
+ "skill_name_middle11612": {
+  "en": "剑心2",
+  "ch": "剑心2",
+  "pt": "Kenshin 2"
+ },
+ "skill_name_middle11613": {
+  "en": "剑心3",
+  "ch": "剑心3",
+  "pt": "Kenshin 3"
+ },
+ "skill_name_middle11614": {
+  "en": "剑心4",
+  "ch": "剑心4",
+  "pt": "Kenshin 4"
+ },
+ "skill_name_middle11615": {
+  "en": "剑心5",
+  "ch": "剑心5",
+  "pt": "Kenshin 5"
+ },
+ "skill_name_middle11616": {
+  "en": "剑心6",
+  "ch": "剑心6",
+  "pt": "Kenshin 6"
+ },
+ "skill_name_middle11711": {
+  "en": "御气剑",
+  "ch": "御气剑",
+  "pt": "Espada do Qi"
+ },
+ "skill_name_middle11721": {
+  "en": "逸心剑",
+  "ch": "逸心剑",
+  "pt": "Espada do Coração Livre"
+ },
+ "skill_name_middle12111": {
+  "en": "Crescent Blade",
+  "ch": "半月刀",
+  "pt": "Lâmina Crescente"
+ },
+ "skill_name_middle12112": {
+  "en": "Fiery Blade",
+  "ch": "烈火刀",
+  "pt": "Lâmina Flamejante"
+ },
+ "skill_name_middle12113": {
+  "en": "Whirlwind Blade",
+  "ch": "旋风刀",
+  "pt": "Lâmina do Redemoinho"
+ },
+ "skill_name_middle13111": {
+  "en": "Heart-Piercing Spear",
+  "ch": "穿心矛",
+  "pt": "Lança que Transpassa o Coração"
+ },
+ "skill_name_middle13112": {
+  "en": "Flying Dragon Spear",
+  "ch": "飞龙枪",
+  "pt": "Lança do Dragão Voador"
+ },
+ "skill_name_middle13113": {
+  "en": "Splitting Dragon Spear",
+  "ch": "贯龙枪",
+  "pt": "Dividindo a Lança do Dragão"
+ },
+ "skill_name_middle14111": {
+  "en": "Breeze Sword",
+  "ch": "清风剑",
+  "pt": "Espada da Brisa"
+ },
+ "skill_name_middle14112": {
+  "en": "Lonestar Sword",
+  "ch": "孤星剑",
+  "pt": "Espada Estrela Solitária"
+ },
+ "skill_name_middle14113": {
+  "en": "Moonshadow Sword",
+  "ch": "月影剑",
+  "pt": "Espada Sombra Lunar"
+ },
+ "skill_name_middle15111": {
+  "en": "Serene Fist",
+  "ch": "定气拳",
+  "pt": "Punho Sereno"
+ },
+ "skill_name_middle15112": {
+  "en": "Seismic Fist",
+  "ch": "裂地拳",
+  "pt": "Punho Sísmico"
+ },
+ "skill_name_middle15113": {
+  "en": "Colossal Fist",
+  "ch": "震天拳",
+  "pt": "Punho Colossal"
+ },
+ "skill_name_middle16111": {
+  "en": "Greenwave Palm",
+  "ch": "青涛掌",
+  "pt": "Greenwave Palma"
+ },
+ "skill_name_middle16112": {
+  "en": "Cloudshift Palm",
+  "ch": "排云掌",
+  "pt": "Mudança de Nuvens na Palma"
+ },
+ "skill_name_middle16113": {
+  "en": "Celerity Palm",
+  "ch": "凌波掌",
+  "pt": "Celerity Palma"
+ },
+ "skill_name_middle17111": {
+  "en": "Boomerang Finger",
+  "ch": "轮回指",
+  "pt": "Dedo Bumerangue"
+ },
+ "skill_name_middle17112": {
+  "en": "Duality Finger",
+  "ch": "两仪指",
+  "pt": "Dedo da Dualidade"
+ },
+ "skill_name_middle17113": {
+  "en": "Signless Finger",
+  "ch": "无相指",
+  "pt": "Dedo sem sinais"
+ },
+ "skill_name_middle20011": {
+  "en": "降龙",
+  "ch": "降龙",
+  "pt": "Domar o dragão"
+ },
+ "skill_name_middle20021": {
+  "en": "伏虎",
+  "ch": "伏虎",
+  "pt": "Domar tigres"
+ },
+ "skill_name_middle20031": {
+  "en": "飞凤",
+  "ch": "飞凤",
+  "pt": "Fênix"
+ },
+ "skill_name_middle20041": {
+  "en": "六合",
+  "ch": "六合",
+  "pt": "Liuhe"
+ },
+ "skill_name_middle20051": {
+  "en": "斩妖",
+  "ch": "斩妖",
+  "pt": "Matar demônios"
+ },
+ "skill_name_middle20061": {
+  "en": "大荒",
+  "ch": "大荒",
+  "pt": "Terra Desolada"
+ },
+ "skill_name_middle20071": {
+  "en": "万化",
+  "ch": "万化",
+  "pt": "Infinitas transformações"
+ },
+ "skill_name_middle20081": {
+  "en": "独孤",
+  "ch": "独孤",
+  "pt": "Dugu"
+ },
+ "skill_name_middle20091": {
+  "en": "如来",
+  "ch": "如来",
+  "pt": "Tathagata"
+ },
+ "skill_name_middle20101": {
+  "en": "三清",
+  "ch": "三清",
+  "pt": "Três Purezas"
+ },
+ "skill_name_middle20111": {
+  "en": "三阳",
+  "ch": "三阳",
+  "pt": "Três Yang"
+ },
+ "skill_name_middle20121": {
+  "en": "六阳",
+  "ch": "六阳",
+  "pt": "Seis Yang"
+ },
+ "skill_name_middle20131": {
+  "en": "无相",
+  "ch": "无相",
+  "pt": "Sem forma"
+ },
+ "skill_name_middle20141": {
+  "en": "地煞",
+  "ch": "地煞",
+  "pt": "Maldições terrenas"
+ },
+ "skill_name_middle20151": {
+  "en": "天罡",
+  "ch": "天罡",
+  "pt": "Tiangang"
+ },
+ "skill_name_middle20161": {
+  "en": "两仪",
+  "ch": "两仪",
+  "pt": "Os dois princípios"
+ },
+ "skill_name_middle20171": {
+  "en": "四象",
+  "ch": "四象",
+  "pt": "Quatro Símbolos"
+ },
+ "skill_name_middle20191": {
+  "en": "一气",
+  "ch": "一气",
+  "pt": "Num só fôlego"
+ },
+ "skill_name_middle20201": {
+  "en": "鬼谷",
+  "ch": "鬼谷",
+  "pt": "Vale dos Demônios"
+ },
+ "skill_name_middle20212": {
+  "en": "御气",
+  "ch": "御气",
+  "pt": "Energia vital"
+ },
+ "skill_name_middle20213": {
+  "en": "御气",
+  "ch": "御气",
+  "pt": "Energia vital"
+ },
+ "skill_name_middle20221": {
+  "en": "化心",
+  "ch": "化心",
+  "pt": "Transformação do coração"
+ },
+ "skill_name_middle20222": {
+  "en": "化心",
+  "ch": "化心",
+  "pt": "Transformação do coração"
+ },
+ "skill_name_middle20223": {
+  "en": "化心",
+  "ch": "化心",
+  "pt": "Transformação do coração"
+ },
+ "skill_name_middle20224": {
+  "en": "化心",
+  "ch": "化心",
+  "pt": "Transformação do coração"
+ },
+ "skill_name_middle20225": {
+  "en": "化心",
+  "ch": "化心",
+  "pt": "Transformação do coração"
+ },
+ "skill_name_middle20231": {
+  "en": "灵影",
+  "ch": "灵影",
+  "pt": "Sombra Espiritual"
+ },
+ "skill_name_middle20232": {
+  "en": "灵影",
+  "ch": "灵影",
+  "pt": "Sombra Espiritual"
+ },
+ "skill_name_middle20233": {
+  "en": "灵影",
+  "ch": "灵影",
+  "pt": "Sombra Espiritual"
+ },
+ "skill_name_middle20241": {
+  "en": "散雨",
+  "ch": "散雨",
+  "pt": "Chuva intermitente"
+ },
+ "skill_name_middle20251": {
+  "en": "落虹剑",
+  "ch": "落虹剑",
+  "pt": "Espada do Arco-Íris"
+ },
+ "skill_name_middle20261": {
+  "en": "破空剑",
+  "ch": "破空剑",
+  "pt": "Espada que rompe o vazio"
+ },
+ "skill_name_middle2141": {
+  "en": "Cages",
+  "ch": "囚笼",
+  "pt": "Gaiolas"
+ },
+ "skill_name_middle214166": {
+  "en": "Demonic Eyeball",
+  "ch": "幽冥邪瞳",
+  "pt": "Olho Demoníaco"
+ },
+ "skill_name_middle22111": {
+  "en": "Crazeblood Cleave",
+  "ch": "狂血斩",
+  "pt": "Corte de Sangue Furioso"
+ },
+ "skill_name_middle22112": {
+  "en": "Furyblood Cleave",
+  "ch": "怒血斩",
+  "pt": "Cortada de Sangue Furioso"
+ },
+ "skill_name_middle22113": {
+  "en": "Sever",
+  "ch": "断斩",
+  "pt": "Severo"
+ },
+ "skill_name_middle22115": {
+  "en": "Felblade",
+  "ch": "邪刃",
+  "nomes": {
+   "Felblade": "Lâmina Vil"
+  },
+  "pt": "Lâmina Vermelha"
+ },
+ "skill_name_middle22116": {
+  "en": "Sweeping Blade",
+  "ch": "横扫刀",
+  "pt": "Lâmina Varredora"
+ },
+ "skill_name_middle23111": {
+  "en": "Crackling Jade Spear",
+  "ch": "碎玉枪",
+  "pt": "Lança de Jade Crepitante"
+ },
+ "skill_name_middle23112": {
+  "en": "True Dragon Rising",
+  "ch": "真龙破",
+  "pt": "O Despertar do Dragão Verdadeiro"
+ },
+ "skill_name_middle23113": {
+  "en": "Linebreaking Spear",
+  "ch": "破阵枪",
+  "pt": "Lança de Quebra-Linhas"
+ },
+ "skill_name_middle23114": {
+  "en": "Roaring Dragon Rising",
+  "ch": "啸龙破",
+  "nomes": {
+   "Roaring Dragon Rising": "Ascensão do Dragão Rugidor"
+  },
+  "pt": "Dragão Rugidor Ascendente"
+ },
+ "skill_name_middle23115": {
+  "en": "Dashing Dragon Rising",
+  "ch": "擎龙破",
+  "pt": "Dragão Audacioso em Ascensão"
+ },
+ "skill_name_middle23116": {
+  "en": "Sprinting Dragon Rising",
+  "ch": "疾龙破",
+  "pt": "O Dragão Veloz se Levanta"
+ },
+ "skill_name_middle24111": {
+  "en": "Shadowless Sword",
+  "ch": "绝影剑",
+  "pt": "Espada Sem Sombra"
+ },
+ "skill_name_middle24112": {
+  "en": "Gale Sword",
+  "ch": "疾风剑",
+  "pt": "Espada de Gale"
+ },
+ "skill_name_middle24113": {
+  "en": "Brokenstar Sword",
+  "ch": "碎星剑",
+  "pt": "Espada Estrela Quebrada"
+ },
+ "skill_name_middle24114": {
+  "en": "Sunset Sword",
+  "ch": "落日剑",
+  "pt": "Espada do Pôr do Sol"
+ },
+ "skill_name_middle24115": {
+  "en": "Skycleaver Sword",
+  "ch": "斩天剑",
+  "pt": "Espada Cortacéus"
+ },
+ "skill_name_middle24116": {
+  "en": "Skyshatter Sword",
+  "ch": "灭空剑",
+  "pt": "Espada Fragmentadora do Céu"
+ },
+ "skill_name_middle25111": {
+  "en": "Shadowy Fist",
+  "ch": "破体拳",
+  "pt": "Punho Sombrio"
+ },
+ "skill_name_middle25112": {
+  "en": "Lion's Roar Fist",
+  "ch": "狮吼拳",
+  "pt": "Punho do Rugido do Leão"
+ },
+ "skill_name_middle25113": {
+  "en": "Mindbender Fist",
+  "ch": "摧心拳",
+  "pt": "Punho Mental"
+ },
+ "skill_name_middle25114": {
+  "en": "Hillbreaker Fist",
+  "ch": "崩山拳",
+  "pt": "Punho Destruidor de Colinas"
+ },
+ "skill_name_middle25115": {
+  "en": "Ironbody Fist",
+  "ch": "金刚拳",
+  "pt": "Punho de Corpo de Ferro"
+ },
+ "skill_name_middle25116": {
+  "en": "Skyblast Fist",
+  "ch": "轰天拳",
+  "pt": "Punho da Explosão Celestial"
+ },
+ "skill_name_middle26111": {
+  "en": "Storm Palm",
+  "ch": "暴风掌",
+  "pt": "Palma da Tempestade"
+ },
+ "skill_name_middle26112": {
+  "en": "Palisade Palm",
+  "ch": "断崖掌",
+  "pt": "Palisade Palma"
+ },
+ "skill_name_middle26113": {
+  "en": "Landslide Palm",
+  "ch": "摧山掌",
+  "pt": "Deslizamento de terra na Palma"
+ },
+ "skill_name_middle26114": {
+  "en": "Rainbow Palm",
+  "ch": "惊虹掌",
+  "pt": "Palma Arco-Íris"
+ },
+ "skill_name_middle26115": {
+  "en": "Tidebreak Palm",
+  "ch": "破浪掌",
+  "pt": "Palma da Quebra-Maré"
+ },
+ "skill_name_middle26116": {
+  "en": "Oceanic Palm",
+  "ch": "定海掌",
+  "pt": "Palma Oceânica"
+ },
+ "skill_name_middle27111": {
+  "en": "Seven Star Finger",
+  "ch": "七星指",
+  "pt": "Dedo das Sete Estrelas"
+ },
+ "skill_name_middle27112": {
+  "en": "Demonseal Finger",
+  "ch": "封魔指",
+  "pt": "Dedo do Selo Demoníaco"
+ },
+ "skill_name_middle27113": {
+  "en": "Void Spirit Blast",
+  "ch": "灵虚爆",
+  "pt": "Explosão de Espírito do Vazio"
+ },
+ "skill_name_middle27114": {
+  "en": "Spirit Seal Blast",
+  "ch": "封灵爆",
+  "pt": "Explosão do Selo do Espírito"
+ },
+ "skill_name_middle27115": {
+  "en": "Ethereal Blast",
+  "ch": "幽空爆",
+  "pt": "Explosão Etérea"
+ },
+ "skill_name_middle27116": {
+  "en": "Shadowy Finger",
+  "ch": "灵影指",
+  "pt": "Dedo Sombrio"
+ },
+ "skill_name_middle2831": {
+  "en": "Black Curtain",
+  "ch": "黑幕降临",
+  "pt": "Cortina Negra"
+ },
+ "skill_name_middle30011": {
+  "en": "九阴",
+  "ch": "九阴",
+  "pt": "Nove Sombras"
+ },
+ "skill_name_middle30021": {
+  "en": "九阳",
+  "ch": "九阳",
+  "pt": "Jiuyang"
+ },
+ "skill_name_middle30031": {
+  "en": "囚天",
+  "ch": "囚天",
+  "pt": "Prisioneiro do Céu"
+ },
+ "skill_name_middle32111": {
+  "en": "Demoonfury Blade",
+  "ch": "魔煞刀",
+  "pt": "Demoonfury Lâmina"
+ },
+ "skill_name_middle321111": {
+  "en": "Deicide Cleave",
+  "ch": "灭神斩",
+  "nomes": {
+   "Deicide Cleave": "Corte Deicida"
+  },
+  "pt": "Corte de Deicide"
+ },
+ "skill_name_middle321112": {
+  "en": "Demonic Cleave",
+  "ch": "魔刃斩",
+  "nomes": {
+   "Demonic Cleave": "Corte Demoníaca"
+  },
+  "pt": "Corte Demoníaco"
+ },
+ "skill_name_middle32112": {
+  "en": "Overbearing Cleave",
+  "ch": "霸道斩",
+  "nomes": {
+   "Overbearing": "Dominador"
+  },
+  "pt": "Corte Dominador"
+ },
+ "skill_name_middle33112": {
+  "en": "Dragon Spear Formation",
+  "ch": "天龙阵",
+  "pt": "Formação da Lança do Dragão"
+ },
+ "skill_name_middle34111": {
+  "en": "Skyfall Sword",
+  "ch": "骤天剑",
+  "pt": "Espada Skyfall"
+ },
+ "skill_name_middle34112": {
+  "en": "Divinity Sword",
+  "ch": "万神剑",
+  "pt": "Espada da Divindade"
+ },
+ "skill_name_middle35111": {
+  "en": "Overlord's Shield",
+  "ch": "霸王盾",
+  "pt": "Escudo do Senhor Supremo"
+ },
+ "skill_name_middle35112": {
+  "en": "Titan Fist",
+  "ch": "巨王拳",
+  "pt": "Punho de Titã"
+ },
+ "skill_name_middle36111": {
+  "en": "Eternal Rest Palm",
+  "ch": "归神掌",
+  "nomes": {
+   "Eternal Rest": "Descanso Eterno"
+  },
+  "pt": "Descanso Eterno da Palma"
+ },
+ "skill_name_middle36112": {
+  "en": "Demonic Mark Palm",
+  "ch": "魔印掌",
+  "pt": "Marca Demoníaca na Palma"
+ },
+ "skill_name_middle37111": {
+  "en": "Spiritual Burst Finger",
+  "ch": "冲虚指",
+  "nomes": {
+   "Spiritual Burst": "Rajada Espiritual"
+  },
+  "pt": "Dedo Explosão Espiritual"
+ },
+ "skill_name_middle37112": {
+  "en": "Divine Pulse Finger",
+  "ch": "神脉指",
+  "pt": "Dedo do Pulso Divino"
+ },
+ "skill_name_middle41112": {
+  "en": "Fire Flare",
+  "ch": "焰火术",
+  "pt": "Chama de Fogo"
+ },
+ "skill_name_middle41113": {
+  "en": "Fierce Fire",
+  "ch": "豪火术",
+  "pt": "Fogo Feroz"
+ },
+ "skill_name_middle42111": {
+  "en": "Spiritual Water",
+  "ch": "水灵术",
+  "pt": "Água Espiritual"
+ },
+ "skill_name_middle42112": {
+  "en": "Spiritual Torrent",
+  "ch": "灵流术",
+  "pt": "Torrente Espiritual"
+ },
+ "skill_name_middle42113": {
+  "en": "Ice Blast",
+  "ch": "冰晶爆",
+  "pt": "Explosão de Gelo"
+ },
+ "skill_name_middle43112": {
+  "en": "Lightning Flash",
+  "ch": "疾雷闪",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago"
+ },
+ "skill_name_middle43113": {
+  "en": "Purple Lightning",
+  "ch": "紫电闪",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Púrpura"
+ },
+ "skill_name_middle44111": {
+  "en": "Wind Bolt",
+  "ch": "风球术",
+  "pt": "Raio de Vento"
+ },
+ "skill_name_middle44112": {
+  "en": "Wind Edge",
+  "ch": "风刃术",
+  "pt": "Borda do Vento"
+ },
+ "skill_name_middle45111": {
+  "en": "Earth Bolt",
+  "ch": "土球术",
+  "pt": "Raio da Terra"
+ },
+ "skill_name_middle45112": {
+  "en": "Falling Rock",
+  "ch": "落石术",
+  "pt": "Pedras caindo"
+ },
+ "skill_name_middle45113": {
+  "en": "Earthquake",
+  "ch": "震地术",
+  "pt": "Terremoto"
+ },
+ "skill_name_middle46111": {
+  "en": "Spiritual Leaf",
+  "ch": "灵叶术",
+  "pt": "Folha Espiritual"
+ },
+ "skill_name_middle46112": {
+  "en": "Flying Petal",
+  "ch": "飞花术",
+  "pt": "Pétala Voadora"
+ },
+ "skill_name_middle46113": {
+  "en": "Blooming Bud",
+  "ch": "绽花术",
+  "pt": "Botão em flor"
+ },
+ "skill_name_middle51111": {
+  "en": "Groundfire",
+  "ch": "地火术",
+  "pt": "Fogo terrestre"
+ },
+ "skill_name_middle51112": {
+  "en": "Fire Sorrow",
+  "ch": "离火术",
+  "pt": "Tristeza do Fogo"
+ },
+ "skill_name_middle51113": {
+  "en": "Sunfire",
+  "ch": "阳炎爆",
+  "pt": "Fogo Solar"
+ },
+ "skill_name_middle51114": {
+  "en": "Sinful Flame",
+  "ch": "业火术",
+  "pt": "Chama do Pecado"
+ },
+ "skill_name_middle51115": {
+  "en": "Fire Ring",
+  "ch": "火环术",
+  "pt": "Anel de Fogo"
+ },
+ "skill_name_middle51116": {
+  "en": "Firerider",
+  "ch": "踏火术",
+  "pt": "Cavaleiro do Fogo"
+ },
+ "skill_name_middle5151": {
+  "en": "Fungi Fist",
+  "ch": "食我菇菇拳",
+  "pt": "Punho de Fungos"
+ },
+ "skill_name_middle5152": {
+  "en": "Little Mushrooms",
+  "ch": "小菇小菇",
+  "pt": "Cogumelinhos"
+ },
+ "skill_name_middle5153": {
+  "en": "Large Mushrooms",
+  "ch": "大菇大菇",
+  "pt": "Cogumelos grandes"
+ },
+ "skill_name_middle5191": {
+  "en": "Possessed Souls",
+  "ch": "生机分离",
+  "pt": "Almas Possessas"
+ },
+ "skill_name_middle52111": {
+  "en": "Frost Blast",
+  "ch": "寒霜爆",
+  "pt": "Explosão de Gelo"
+ },
+ "skill_name_middle52112": {
+  "en": "Icy Aura",
+  "ch": "冰气术",
+  "pt": "Aura Gélida"
+ },
+ "skill_name_middle52113": {
+  "en": "Icicle",
+  "ch": "冰刺术",
+  "pt": "Pingente de gelo"
+ },
+ "skill_name_middle52114": {
+  "en": "Frostbrand",
+  "ch": "冰封术",
+  "pt": "Marca de Gelo"
+ },
+ "skill_name_middle52115": {
+  "en": "Frost Spirit Blast",
+  "ch": "霜灵爆",
+  "pt": "Explosão de Espírito Gélido"
+ },
+ "skill_name_middle52116": {
+  "en": "Soulreaper",
+  "ch": "噬灵术",
+  "pt": "Ceifador de Almas"
+ },
+ "skill_name_middle53111": {
+  "en": "Thundercall",
+  "ch": "雷鸣术",
+  "nomes": {
+   "Thundercall": "Invocação do Trovão"
+  },
+  "pt": "Chamado do Trovão"
+ },
+ "skill_name_middle53112": {
+  "en": "Dashing Lightning",
+  "ch": "奔雷术",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O veloz Relâmpago"
+ },
+ "skill_name_middle53113": {
+  "en": "Lightning Cloud",
+  "ch": "雷云术",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Nuvem de Relâmpagos"
+ },
+ "skill_name_middle53114": {
+  "en": "Dark Lightning",
+  "ch": "暗雷术",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Sombrio"
+ },
+ "skill_name_middle53115": {
+  "en": "Lightning Crash",
+  "ch": "落雷阵",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Colapso do Relâmpago"
+ },
+ "skill_name_middle53116": {
+  "en": "Spiritual Lightning",
+  "ch": "灵雷术",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Espiritual"
+ },
+ "skill_name_middle54112": {
+  "en": "Wind Roar",
+  "ch": "风啸术",
+  "pt": "Rugido do Vento"
+ },
+ "skill_name_middle54113": {
+  "en": "Sandstorm",
+  "ch": "飞沙术",
+  "nomes": {
+   "Sandstorm": "Tempestade de Areia"
+  },
+  "pt": "Tempestade de areia"
+ },
+ "skill_name_middle54114": {
+  "en": "Wild Wind",
+  "ch": "狂风术",
+  "pt": "Vento Selvagem"
+ },
+ "skill_name_middle54115": {
+  "en": "Reaving Wind",
+  "ch": "掠风术",
+  "pt": "Vento Devastador"
+ },
+ "skill_name_middle54116": {
+  "en": "Sweeping Wind",
+  "ch": "风瘴术",
+  "pt": "Vento Varredor"
+ },
+ "skill_name_middle55111": {
+  "en": "Seismic Wave",
+  "ch": "震地波",
+  "pt": "Onda sísmica"
+ },
+ "skill_name_middle55114": {
+  "en": "Rock Puppet",
+  "ch": "石傀术",
+  "pt": "Fantoche de Rock"
+ },
+ "skill_name_middle55115": {
+  "en": "Quicksand",
+  "ch": "流沙术",
+  "pt": "Areia Movediça"
+ },
+ "skill_name_middle55116": {
+  "en": "Rock Formation",
+  "ch": "聚石阵",
+  "pt": "Formação de Rochas"
+ },
+ "skill_name_middle56111": {
+  "en": "Entangling Thorn",
+  "ch": "荆棘术",
+  "pt": "Espinho Enredante"
+ },
+ "skill_name_middle56112": {
+  "en": "Primal Energy",
+  "ch": "活元术",
+  "nomes": {
+   "Primal Energy": "Energia Primordial"
+  },
+  "pt": "Energia Primordial"
+ },
+ "skill_name_middle56113": {
+  "en": "Poisonous Marsh",
+  "ch": "毒沼术",
+  "pt": "Pântano Venenoso"
+ },
+ "skill_name_middle56114": {
+  "en": "Floral Spirit",
+  "ch": "活灵术",
+  "nomes": {
+   "Floral Spirit": "Espírito Vital"
+  },
+  "pt": "Espírito Floral"
+ },
+ "skill_name_middle56115": {
+  "en": "Poisonous Plants",
+  "ch": "毒株术",
+  "pt": "Plantas venenosas"
+ },
+ "skill_name_middle56116": {
+  "en": "Thorny Spirit",
+  "ch": "活力术",
+  "nomes": {
+   "Thorny Spirit": "Espírito Espinhoso"
+  },
+  "pt": "Espírito Espinhento"
+ },
+ "skill_name_middle61111": {
+  "en": "Fire Core",
+  "ch": "神火核",
+  "pt": "Núcleo de Fogo"
+ },
+ "skill_name_middle61112": {
+  "en": "Fire Phoenix",
+  "ch": "烈火凤",
+  "pt": "Fogo Fênix"
+ },
+ "skill_name_middle62111": {
+  "en": "Heavenly Icy Eye",
+  "ch": "冰天眼",
+  "nomes": {
+   "Icy Eye": "Olhar Gélido"
+  },
+  "pt": "Olho Gelado Celestial"
+ },
+ "skill_name_middle62112": {
+  "en": "Spiritual Flood",
+  "ch": "覆灵雨",
+  "pt": "Inundação Espiritual"
+ },
+ "skill_name_middle63111": {
+  "en": "Lightning Retribution",
+  "ch": "天雷劫",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Retribuição do Relâmpago"
+ },
+ "skill_name_middle63112": {
+  "en": "Thunderous Punishment",
+  "ch": "雷罚阵",
+  "pt": "Punição Trovejante"
+ },
+ "skill_name_middle64111": {
+  "en": "Arctic Storm",
+  "ch": "极风暴",
+  "pt": "Tempestade no Ártico"
+ },
+ "skill_name_middle64112": {
+  "en": "Temporal Wind Field",
+  "ch": "逆空界",
+  "pt": "Domínio de Vento Tempestuoso"
+ },
+ "skill_name_middle641121": {
+  "en": "Arctic Windedge",
+  "ch": "极风刃",
+  "pt": "Ártico Windedge"
+ },
+ "skill_name_middle65112": {
+  "en": "Spirit Giant",
+  "ch": "巨灵神",
+  "nomes": {
+   "Spirit Giant": "Gigante do Espírito"
+  },
+  "pt": "Gigante do Espírito"
+ },
+ "skill_name_middle66111": {
+  "en": "Poisonous Dragon Flower",
+  "ch": "毒龙花",
+  "nomes": {
+   "Poisonous Dragon Flower": "Flor do Dragão Venenosa"
+  },
+  "pt": "Flor Venenosa do Dragão"
+ },
+ "skill_name_middle66112": {
+  "en": "Flower Faerie Queen",
+  "ch": "花妖后",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Flower Faerie Queen": "Rainha Fada das Flores"
+  },
+  "pt": "Rainha das Fadas das Flores"
+ },
+ "skill_name_middle7051": {
+  "en": "Fox Bead",
+  "ch": "狐灵宝珠",
+  "nomes": {
+   "Fox Bead": "Conta de Raposa"
+  },
+  "pt": "Conta Fox"
+ },
+ "skill_name_middle7052": {
+  "en": "Fox Cold Fire",
+  "ch": "狐灵冷火",
+  "pt": "Fogo Frio da Raposa"
+ },
+ "skill_name_middle7053": {
+  "en": "Vulpine Inferno",
+  "ch": "狐唤妖火",
+  "pt": "Inferno Vulpino"
+ },
+ "skill_name_middle7054": {
+  "en": "Blast Flame Rain",
+  "ch": "妖炎散落",
+  "pt": "Chuva de Chamas Explosivas"
+ },
+ "skill_name_middle7111": {
+  "en": "Rapid Charge",
+  "ch": "迅影",
+  "pt": "Carga Rápida"
+ },
+ "skill_name_middle7112": {
+  "en": "Sandstorm",
+  "ch": "裂土飞石",
+  "nomes": {
+   "Sandstorm": "Tempestade de Areia"
+  },
+  "pt": "Tempestade de areia"
+ },
+ "skill_name_middle7113": {
+  "en": "Galloping",
+  "ch": "风驰电掣",
+  "nomes": {
+   "Galloping": "Galopante"
+  },
+  "pt": "Galopando"
+ },
+ "skill_name_middle7121": {
+  "en": "Wind Blade",
+  "ch": "地煞风刃",
+  "nomes": {
+   "Wind Blade": "Lâmina de Vento"
+  },
+  "pt": "Lâmina de Vento"
+ },
+ "skill_name_middle7122": {
+  "en": "Unclean Spell",
+  "ch": "不清不净决",
+  "pt": "Feitiço impuro"
+ },
+ "skill_name_middle7126": {
+  "en": "Swirling Axe",
+  "ch": "旋转飞斧",
+  "nomes": {
+   "Swirling Axe": "Machado Giratório"
+  },
+  "pt": "Machado Vorticoso"
+ },
+ "skill_name_middle7129": {
+  "en": "Unclean Spell",
+  "ch": "不清不净决",
+  "pt": "Feitiço impuro"
+ },
+ "skill_name_middle7131": {
+  "en": "Bone Etching Wind",
+  "ch": "蚀骨阴风",
+  "nomes": {
+   "Bone Etching Wind": "Vento de Ossos"
+  },
+  "pt": "Gravura de Vento nos Ossos"
+ },
+ "skill_name_middle713166": {
+  "en": "Little Whirlwind",
+  "ch": "小旋风",
+  "pt": "Pequeno Redemoinho"
+ },
+ "skill_name_middle7132": {
+  "en": "Stone Fall",
+  "ch": "落石击",
+  "pt": "Queda de Pedras"
+ },
+ "skill_name_middle7133": {
+  "en": "Tornado",
+  "ch": "龙卷风暴",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Tornado"
+ },
+ "skill_name_middle7134": {
+  "en": "Bone Etching Wind",
+  "ch": "蚀骨阴风",
+  "nomes": {
+   "Bone Etching Wind": "Vento de Ossos"
+  },
+  "pt": "Gravura de Vento nos Ossos"
+ },
+ "skill_name_middle7141": {
+  "en": "Unrivaled Accuracy",
+  "ch": "百步穿杨",
+  "pt": "Precisão incomparável"
+ },
+ "skill_name_middle7142": {
+  "en": "Full Draw",
+  "ch": "满弓疾射",
+  "pt": "Tração total"
+ },
+ "skill_name_middle7143": {
+  "en": "Rain of Arrows",
+  "ch": "箭雨",
+  "pt": "Chuva de Flechas"
+ },
+ "skill_name_middle7144": {
+  "en": "Beast Commander",
+  "ch": "御妖奇技",
+  "pt": "Comandante da Fera"
+ },
+ "skill_name_middle7151": {
+  "en": "Cross Shatter",
+  "ch": "交叉粉碎",
+  "pt": "Estilhaçamento Cruzado"
+ },
+ "skill_name_middle7152": {
+  "en": "Toxic Swamp",
+  "ch": "剧毒沼泽",
+  "nomes": {
+   "Toxic Swamp": "Pântano Tóxico"
+  },
+  "pt": "Pântano Tóxico"
+ },
+ "skill_name_middle715266": {
+  "en": "Toxic Swamp",
+  "ch": "剧毒沼泽",
+  "nomes": {
+   "Toxic Swamp": "Pântano Tóxico"
+  },
+  "pt": "Pântano Tóxico"
+ },
+ "skill_name_middle7153": {
+  "en": "Fortifying Wall",
+  "ch": "固元之壁",
+  "nomes": {
+   "Fortifying Wall": "Parede Fortificante"
+  },
+  "pt": "Muro Fortificado"
+ },
+ "skill_name_middle7154": {
+  "en": "Dig Strike",
+  "ch": "掘地一击",
+  "nomes": {
+   "Dig Strike": "Golpe de Escavação"
+  },
+  "pt": "Golpe de Escavação"
+ },
+ "skill_name_middle7161": {
+  "en": "Fiery Breath",
+  "ch": "炽焰之息",
+  "pt": "Sopro Ardente"
+ },
+ "skill_name_middle7162": {
+  "en": "Scorching Wind",
+  "ch": "炙热之风",
+  "pt": "Vento escaldante"
+ },
+ "skill_name_middle7163": {
+  "en": "Seared Path",
+  "ch": "永灼之路",
+  "nomes": {
+   "Seared Path": "Caminho Carbonizado"
+  },
+  "pt": "Caminho Queimado"
+ },
+ "skill_name_middle7171": {
+  "en": "Burst of Flames",
+  "ch": "火元喷发",
+  "pt": "Explosão de Chamas"
+ },
+ "skill_name_middle7172": {
+  "en": "Fire Feathers",
+  "ch": "漫天火羽",
+  "nomes": {
+   "Fire Feathers": "Penas de Fogo"
+  },
+  "pt": "Penas de Fogo"
+ },
+ "skill_name_middle7191": {
+  "en": "Rustling Leaves",
+  "ch": "风吹草动",
+  "pt": "Folhas farfalhando"
+ },
+ "skill_name_middle7192": {
+  "en": "Floating Fireflies",
+  "ch": "萤火之眠",
+  "pt": "Vagalumes flutuantes"
+ },
+ "skill_name_middle7193": {
+  "en": "Fallen Petals",
+  "ch": "落花有意",
+  "pt": "Pétalas caídas"
+ },
+ "skill_name_middle7201": {
+  "en": "Arc Flash",
+  "ch": "弧光闪",
+  "nomes": {
+   "Arc Flash": "Arco Elétrico"
+  },
+  "pt": "Arco elétrico"
+ },
+ "skill_name_middle7202": {
+  "en": "Coatl's Sting",
+  "ch": "鸣蛇突刺",
+  "pt": "O Ferroada de Coatl"
+ },
+ "skill_name_middle7203": {
+  "en": "Mind Devour",
+  "ch": "摄神咒",
+  "pt": "Devorador de Mentes"
+ },
+ "skill_name_middle7204": {
+  "en": "Soul Tracking Lightning",
+  "ch": "追魂电闪",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Soul Tracking Lightning": "Relâmpago Rastreador de Almas"
+  },
+  "pt": "Rastreando o Relâmpago com a Alma"
+ },
+ "skill_name_middle7211": {
+  "en": "Earth Rending Gale",
+  "ch": "裂地风斩",
+  "nomes": {
+   "Earth Rending Gale": "Rajada de Vento que Racha a Terra"
+  },
+  "pt": "Vendaval Devastador da Terra"
+ },
+ "skill_name_middle7212": {
+  "en": "Sand Tornado",
+  "ch": "漫卷狂沙",
+  "nomes": {
+   "Tornado": "Tornado",
+   "Sand Tornado": "Tornado de Areia"
+  },
+  "pt": "Tornado de Areia"
+ },
+ "skill_name_middle7213": {
+  "en": "Rampage",
+  "ch": "野蛮冲撞",
+  "pt": "Fúria destrutiva"
+ },
+ "skill_name_middle7221": {
+  "en": "Scorching Fireball",
+  "ch": "烈阳火丸",
+  "nomes": {
+   "Scorching Fireball": "Bola de Fogo Escaldante"
+  },
+  "pt": "Bola de Fogo Ardente"
+ },
+ "skill_name_middle7222": {
+  "en": "Fireland Banner",
+  "ch": "炎域之旗",
+  "nomes": {
+   "Fireland Banner": "Bandeira do Fogo"
+  },
+  "pt": "Estandarte das Terras do Fogo"
+ },
+ "skill_name_middle7223": {
+  "en": "Fire Rain",
+  "ch": "天降火雨",
+  "nomes": {
+   "Fire Rain": "Chuva de Fogo"
+  },
+  "pt": "Chuva de Fogo"
+ },
+ "skill_name_middle7224": {
+  "en": "Burning Belt",
+  "ch": "炙炎之环",
+  "nomes": {
+   "Burning Belt": "Cinturão Ardente"
+  },
+  "pt": "Cinturão de Queimadas"
+ },
+ "skill_name_middle7251": {
+  "en": "Leviathan Tentacles",
+  "ch": "何罗之触",
+  "nomes": {
+   "Leviathan": "Leviatan",
+   "Leviathan Tentacles": "Tentáculos do Leviatã"
+  },
+  "pt": "Tentáculos do Leviatã"
+ },
+ "skill_name_middle7261": {
+  "en": "Tentacles from Above",
+  "ch": "漫天疾触",
+  "pt": "Tentáculos do Alto"
+ },
+ "skill_name_middle7271": {
+  "en": "Water Beams",
+  "ch": "水元猛射",
+  "pt": "Feixes de Água"
+ },
+ "skill_name_middle7281": {
+  "en": "Pounce on Prey",
+  "ch": "急速扑击",
+  "pt": "Atacar a presa"
+ },
+ "skill_name_middle7282": {
+  "en": "Veins of Flame",
+  "ch": "火脉爆发",
+  "pt": "Venas de Chama"
+ },
+ "skill_name_middle7283": {
+  "en": "Flame Circle",
+  "ch": "炎环随身",
+  "pt": "Círculo da Chama"
+ },
+ "skill_name_middle7285": {
+  "en": "Fire Spirits",
+  "ch": "火灵生息",
+  "pt": "Espíritos do Fogo"
+ },
+ "skill_name_middle7301": {
+  "en": "Whipping",
+  "ch": "燧木乱打",
+  "pt": "Chicotadas"
+ },
+ "skill_name_middle7302": {
+  "en": "Preserved Lives",
+  "ch": "生息不离",
+  "pt": "Vidas Preservadas"
+ },
+ "skill_name_middle7311": {
+  "en": "Missiles of Flame",
+  "ch": "炽热火丸",
+  "pt": "Mísseis de Chama"
+ },
+ "skill_name_middle7312": {
+  "en": "Path of Flame",
+  "ch": "火元之径",
+  "pt": "Caminho da Chama"
+ },
+ "skill_name_middle7313": {
+  "en": "Scorching Sunbeam",
+  "ch": "炙阳之落",
+  "nomes": {
+   "Scorching Sunbeam": "Raio Solar Escaldante"
+  },
+  "pt": "Raio de Sol Ardente"
+ },
+ "skill_name_middle7314": {
+  "en": "Incineration",
+  "ch": "绝命火葬",
+  "pt": "Incineração"
+ },
+ "skill_name_middle7316": {
+  "en": "Fiery Essences",
+  "ch": "焚天火元",
+  "pt": "Essências Ígneas"
+ },
+ "skill_name_middle7317": {
+  "en": "Missiles of Flame",
+  "ch": "炽热火丸",
+  "pt": "Mísseis de Chama"
+ },
+ "skill_name_middle7322": {
+  "en": "Deadly Whirlwind",
+  "ch": "旋风追命",
+  "pt": "Redemoinho Mortífero"
+ },
+ "skill_name_middle7323": {
+  "en": "Frosty Field",
+  "ch": "寒夜冻结",
+  "pt": "Domínio Gélido"
+ },
+ "skill_name_middle7324": {
+  "en": "Icicle Darts",
+  "ch": "寒锥冲击",
+  "pt": "Dardos de Gelo"
+ },
+ "skill_name_middle7326": {
+  "en": "Cosmic Storm",
+  "ch": "大界风",
+  "pt": "Tempestade Cósmica"
+ },
+ "skill_name_middle7341": {
+  "en": "Beam Flash",
+  "ch": "直光闪",
+  "pt": "Feixe de Luz"
+ },
+ "skill_name_middle7342": {
+  "en": "Lightning Spell",
+  "ch": "落雷咒",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Spell": "Feitiço de Relâmpago"
+  },
+  "pt": "Feitiço de Relâmpago"
+ },
+ "skill_name_middle7343": {
+  "en": "Lightning Storm",
+  "ch": "闪电风暴",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Tempestade de Relâmpagos"
+ },
+ "skill_name_middle7344": {
+  "en": "Trident Lightning",
+  "ch": "三岔闪电",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Trident Lightning": "Relâmpago Tridente"
+  },
+  "pt": "Trident Relâmpago"
+ },
+ "skill_name_middle7351": {
+  "en": "Ice Tornado",
+  "ch": "裂冰旋风",
+  "nomes": {
+   "Tornado": "Tornado",
+   "Ice Tornado": "Tornado de Gelo"
+  },
+  "pt": "Tornado de Gelo"
+ },
+ "skill_name_middle7352": {
+  "en": "Icicle Flurry",
+  "ch": "连环冰棱",
+  "pt": "Tempestade de Pingentes de Gelo"
+ },
+ "skill_name_middle7353": {
+  "en": "Shower of Ice",
+  "ch": "全面冰棱",
+  "pt": "Chuva de Gelo"
+ },
+ "skill_name_middle7354": {
+  "en": "Frost Prison",
+  "ch": "冰牢霜域",
+  "nomes": {
+   "Frost Prison": "Prisão de Gelo"
+  },
+  "pt": "Prisão de Gelo"
+ },
+ "skill_name_middle7361": {
+  "en": "Meteor",
+  "ch": "天陨飞石",
+  "pt": "Meteoro"
+ },
+ "skill_name_middle7362": {
+  "en": "Mountain Maker",
+  "ch": "积土成山",
+  "pt": "Criador de Montanhas"
+ },
+ "skill_name_middle7363": {
+  "en": "Mountain Breaker",
+  "ch": "摧山折岳",
+  "nomes": {
+   "Mountain Breaker": "Quebrador de Montanhas"
+  },
+  "pt": "Quebrador de Montanhas"
+ },
+ "skill_name_middle7364": {
+  "en": "Lava Rain",
+  "ch": "熔岩石雨",
+  "nomes": {
+   "Lava Rain": "Chuva de Lava"
+  },
+  "pt": "Chuva de Lava"
+ },
+ "skill_name_middle7371": {
+  "en": "Wind Missiles",
+  "ch": "斩空风弹",
+  "nomes": {
+   "Wind Missiles": "Mísseis de Vento"
+  },
+  "pt": "Mísseis de Vento"
+ },
+ "skill_name_middle7372": {
+  "en": "Howling Gale",
+  "ch": "狂掠疾风",
+  "nomes": {
+   "Howling Gale": "Vendaval Uivante"
+  },
+  "pt": "Vendaval Uivante"
+ },
+ "skill_name_middle7373": {
+  "en": "Dense Wind",
+  "ch": "凝聚之风",
+  "nomes": {
+   "Dense Wind": "Vento Denso"
+  },
+  "pt": "Vento Denso"
+ },
+ "skill_name_middle7374": {
+  "en": "Wind Flurry",
+  "ch": "风弹乱舞",
+  "nomes": {
+   "Wind Flurry": "Rajada de Vento"
+  },
+  "pt": "Aguaceiro de Vento"
+ },
+ "skill_name_middle7381": {
+  "en": "Flying Stone",
+  "ch": "飞石术",
+  "pt": "Pedra Voadora"
+ },
+ "skill_name_middle7382": {
+  "en": "Lava Meteorite",
+  "ch": "熔岩陨石",
+  "nomes": {
+   "Lava Meteorite": "Meteorito de Lava"
+  },
+  "pt": "Meteorito de Lava"
+ },
+ "skill_name_middle7383": {
+  "en": "Sundering Strike",
+  "ch": "天崩地裂",
+  "nomes": {
+   "Sundering Strike": "Golpe Sundering"
+  },
+  "pt": "Golpe de Separação"
+ },
+ "skill_name_middle7384": {
+  "en": "Restive Earth",
+  "ch": "天崩地爆",
+  "pt": "Terra inquieta"
+ },
+ "skill_name_middle7391": {
+  "en": "Sword's Dance",
+  "ch": "剑舞",
+  "pt": "Dança da Espada"
+ },
+ "skill_name_middle7392": {
+  "en": "Ghost Sword",
+  "ch": "幽剑",
+  "pt": "Espada Fantasma"
+ },
+ "skill_name_middle7393": {
+  "en": "Rain of Swords",
+  "ch": "剑雨",
+  "pt": "Chuva de Espadas"
+ },
+ "skill_name_middle7394": {
+  "en": "Sword Flurry",
+  "ch": "万剑",
+  "pt": "Rajada de Espadas"
+ },
+ "skill_name_middle7401": {
+  "en": "Pouncing",
+  "ch": "扑击",
+  "pt": "Ataques repentinos"
+ },
+ "skill_name_middle7402": {
+  "en": "Demonic Missiles",
+  "ch": "妖元弹",
+  "pt": "Mísseis Demoníacos"
+ },
+ "skill_name_middle7403": {
+  "en": "Encroaching Evil",
+  "ch": "妖气侵袭",
+  "pt": "O Maligno que avança"
+ },
+ "skill_name_middle7404": {
+  "en": "Pounce Thrice",
+  "ch": "三连扑击",
+  "pt": "Pule três vezes"
+ },
+ "skill_name_middle7411": {
+  "en": "Lightning Orb",
+  "ch": "雷珠",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Orbe do Relâmpago"
+ },
+ "skill_name_middle7412": {
+  "en": "Rapid Attacks",
+  "ch": "迅龙一击",
+  "pt": "Ataques Rápidos"
+ },
+ "skill_name_middle7413": {
+  "en": "Lightning Missiles",
+  "ch": "狂乱雷弹",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Mísseis de Relâmpago"
+ },
+ "skill_name_middle7414": {
+  "en": "Screen of Lightning",
+  "ch": "雷元降世",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Tela do Relâmpago"
+ },
+ "skill_name_middle7421": {
+  "en": "Trembling Earth",
+  "ch": "地动方圆",
+  "pt": "Terra tremula"
+ },
+ "skill_name_middle7422": {
+  "en": "Spiritlock Array",
+  "ch": "锁灵阵",
+  "pt": "Formação de Tranca Espiritual"
+ },
+ "skill_name_middle7423": {
+  "en": "Divine Tornado",
+  "ch": "神风乱拂",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Tornado Divino"
+ },
+ "skill_name_middle7431": {
+  "en": "Resounding Roar",
+  "ch": "声如洪钟",
+  "pt": "Urro retumbante"
+ },
+ "skill_name_middle7432": {
+  "en": "Xuangui's Physique",
+  "ch": "玄龟固体",
+  "nomes": {
+   "Xuangui": "Xuangui"
+  },
+  "pt": "A Fisiologia de Xuangui"
+ },
+ "skill_name_middle7433": {
+  "en": "Tail Whipping",
+  "ch": "甩尾一击",
+  "pt": "Chicotadas com a cauda"
+ },
+ "skill_name_middle7434": {
+  "en": "Solitary Field",
+  "ch": "寂灭方寸",
+  "pt": "Domínio Solitário"
+ },
+ "skill_name_middle7451": {
+  "en": "Dark Flame Missiles",
+  "ch": "黯炎疾射",
+  "pt": "Mísseis de Chama Sombria"
+ },
+ "skill_name_middle7452": {
+  "en": "Dark Flame Bursting",
+  "ch": "黯炎狂乱",
+  "pt": "Explosão de Chama Negra"
+ },
+ "skill_name_middle7453": {
+  "en": "Sneaky Strike",
+  "ch": "隐秘突击",
+  "pt": "Golpe Furtivo"
+ },
+ "skill_name_middle7454": {
+  "en": "Powerful Thrust",
+  "ch": "强力突刺",
+  "pt": "Impulso Poderoso"
+ },
+ "skill_name_middle7461": {
+  "en": "Blossoming Woods",
+  "ch": "木灵绽放",
+  "pt": "Madeiras em Florescer"
+ },
+ "skill_name_middle7462": {
+  "en": "Leafy Feathers",
+  "ch": "羽落苍穹",
+  "pt": "Penas Folhosas"
+ },
+ "skill_name_middle7463": {
+  "en": "Chongming's Rapidity",
+  "ch": "重明迅击",
+  "pt": "A rapidez de Chongming"
+ },
+ "skill_name_middle7471": {
+  "en": "Fire Circle",
+  "ch": "火旋",
+  "pt": "Círculo de Fogo"
+ },
+ "skill_name_middle7472": {
+  "en": "Scorched Land",
+  "ch": "炙烤大地",
+  "pt": "Terra Queimada"
+ },
+ "skill_name_middle7473": {
+  "en": "Storm of Flame",
+  "ch": "火力喷发",
+  "pt": "Tempestade de Chama"
+ },
+ "skill_name_middle7474": {
+  "en": "Searing Road",
+  "ch": "火径",
+  "pt": "Estrada Ardente"
+ },
+ "skill_name_middle7481": {
+  "en": "Water Burst",
+  "ch": "水力四射",
+  "pt": "Erupção de Água"
+ },
+ "skill_name_middle7482": {
+  "en": "Freezing Tornado",
+  "ch": "冰龙卷",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Tornado Congelante"
+ },
+ "skill_name_middle7483": {
+  "en": "Chilly Spheres",
+  "ch": "寒气团",
+  "pt": "Esferas Frias"
+ },
+ "skill_name_middle7484": {
+  "en": "Clones of Water",
+  "ch": "水元分身",
+  "pt": "Clones da Água"
+ },
+ "skill_name_middle7491": {
+  "en": "Lightning Web",
+  "ch": "雷网",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Web"
+ },
+ "skill_name_middle7492": {
+  "en": "Lightning Screen",
+  "ch": "雷幕",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Tela Relâmpago"
+ },
+ "skill_name_middle7493": {
+  "en": "Lightning Globes",
+  "ch": "雷球",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Esferas de Relâmpago"
+ },
+ "skill_name_middle7494": {
+  "en": "Sudden Thunder",
+  "ch": "炸雷",
+  "pt": "Trovoada Súbita"
+ },
+ "skill_name_middle7502": {
+  "en": "Scattering Tornados",
+  "ch": "群风吹拂",
+  "pt": "Tornados dispersivos"
+ },
+ "skill_name_middle7503": {
+  "en": "Unrelenting Gale",
+  "ch": "疾风乱打",
+  "pt": "Rajada implacável"
+ },
+ "skill_name_middle7504": {
+  "en": "Gathering Wind Spirits",
+  "ch": "风灵缭乱",
+  "pt": "Coleta de Espíritos do Vento"
+ },
+ "skill_name_middle7511": {
+  "en": "Wind Commander",
+  "ch": "以风之力",
+  "pt": "Comandante do Vento"
+ },
+ "skill_name_middle7512": {
+  "en": "Stone Puppetry",
+  "ch": "石儡术",
+  "pt": "Marionetes de Pedra"
+ },
+ "skill_name_middle7513": {
+  "en": "Moving Stones",
+  "ch": "尘石漫漫",
+  "pt": "Movendo Pedras"
+ },
+ "skill_name_middle7514": {
+  "en": "Pebble Missiles",
+  "ch": "尘埃吹拂",
+  "pt": "Mísseis Pebble"
+ },
+ "skill_name_middle7531": {
+  "en": "Chasing Orbs",
+  "ch": "追击灵球",
+  "pt": "Perseguindo Orbes"
+ },
+ "skill_name_middle7532": {
+  "en": "Piercing Sword",
+  "ch": "一剑飞天",
+  "pt": "Espada Penetrante"
+ },
+ "skill_name_middle7533": {
+  "en": "Sword Hail",
+  "ch": "乱剑决",
+  "pt": "Chuva de Espadas"
+ },
+ "skill_name_middle7534": {
+  "en": "Skygate Blades",
+  "ch": "天门剑决",
+  "pt": "Lâminas Skygate"
+ },
+ "skill_name_middle7541": {
+  "en": "Vile Gaze",
+  "ch": "邪瞳覆世",
+  "pt": "Olhar maligno"
+ },
+ "skill_name_middle7542": {
+  "en": "Earthquake",
+  "ch": "震地术",
+  "pt": "Terremoto"
+ },
+ "skill_name_middle7543": {
+  "en": "Earthshaking Wave",
+  "ch": "撼地波",
+  "pt": "Onda Terrível"
+ },
+ "skill_name_middle7544": {
+  "en": "Penetrating Arrows",
+  "ch": "透体利箭",
+  "pt": "Flechas Penetrantes"
+ },
+ "skill_name_middle7551": {
+  "en": "Lightning Balls",
+  "ch": "连环雷球",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Esferas de Relâmpago"
+ },
+ "skill_name_middle7552": {
+  "en": "Lightning Glare",
+  "ch": "电光石火",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Glare": "Clarão de Relâmpago"
+  },
+  "pt": "Brilho do Relâmpago"
+ },
+ "skill_name_middle7553": {
+  "en": "Lightning Cloud",
+  "ch": "雷云降临",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Cloud": "Nuvem de Relâmpagos"
+  },
+  "pt": "Nuvem de Relâmpagos"
+ },
+ "skill_name_middle7554": {
+  "en": "Lightning Ball Belt",
+  "ch": "雷球护体",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Cinto com Bola de Relâmpago"
+ },
+ "skill_name_middle7571": {
+  "en": "Bloodlust Slash",
+  "ch": "血煞连斩",
+  "nomes": {
+   "Bloodlust Slash": "Golpe de Sede de Sangue"
+  },
+  "pt": "Golpe de Sede de Sangue"
+ },
+ "skill_name_middle7572": {
+  "en": "Nightmare Charge",
+  "ch": "鬼魇突",
+  "nomes": {
+   "Nightmare Charge": "Investida Pesadelo"
+  },
+  "pt": "Carga de Pesadelo"
+ },
+ "skill_name_middle7573": {
+  "en": "Crimson Path",
+  "ch": "猩红归路",
+  "nomes": {
+   "Crimson Path": "Caminho Escarlate"
+  },
+  "pt": "Caminho Carmesim"
+ },
+ "skill_name_middle7574": {
+  "en": "Red Blossoms",
+  "ch": "猩红绽放",
+  "pt": "Flores Vermelhas"
+ },
+ "skill_name_middle7576": {
+  "en": "Blood Frenzy",
+  "ch": "血之狂乱",
+  "nomes": {
+   "Blood Frenzy": "Frenesi de Sangue"
+  },
+  "pt": "Frenesi de Sangue"
+ },
+ "skill_name_middle7581": {
+  "en": "Crushing",
+  "ch": "重锤",
+  "pt": "Esmagamento"
+ },
+ "skill_name_middle7582": {
+  "en": "Water Dragon Cauldron",
+  "ch": "溟霖宝鼎",
+  "nomes": {
+   "Water Dragon Cauldron": "Caldeirão do Dragão de Água"
+  },
+  "pt": "Caldeirão do Dragão de Água"
+ },
+ "skill_name_middle758266": {
+  "en": "Water Dragon Cauldron",
+  "ch": "溟霖宝鼎",
+  "nomes": {
+   "Water Dragon Cauldron": "Caldeirão do Dragão de Água"
+  },
+  "pt": "Caldeirão do Dragão de Água"
+ },
+ "skill_name_middle7583": {
+  "en": "Art of Cauldron",
+  "ch": "鼎技",
+  "pt": "A Arte do Caldeirão"
+ },
+ "skill_name_middle7584": {
+  "en": "Corrosive Rain",
+  "ch": "腐蚀之雨",
+  "nomes": {
+   "Corrosive Rain": "Chuva Corrosiva"
+  },
+  "pt": "Chuva corrosiva"
+ },
+ "skill_name_middle7602": {
+  "en": "Verdant Leaf",
+  "ch": "竹叶青",
+  "pt": "Folha Verdejante"
+ },
+ "skill_name_middle7603": {
+  "en": "Demon Bamboo Sting",
+  "ch": "鬼竹刺",
+  "nomes": {
+   "Demon Bamboo Sting": "Picada de Bambu Demônio"
+  },
+  "pt": "Ferrão de Bambu do Demônio"
+ },
+ "skill_name_middle760366": {
+  "en": "Demon Bamboo Sting",
+  "ch": "鬼竹刺",
+  "nomes": {
+   "Demon Bamboo Sting": "Picada de Bambu Demônio"
+  },
+  "pt": "Picada do Bambu do Demônio"
+ },
+ "skill_name_middle7611": {
+  "en": "Lashing",
+  "ch": "鞭打",
+  "pt": "Flagelação"
+ },
+ "skill_name_middle7613": {
+  "en": "Blood Lord's Aura",
+  "ch": "血魔震",
+  "nomes": {
+   "Blood Lord": "Senhor do Sangue"
+  },
+  "pt": "Aura do Senhor do Sangue"
+ },
+ "skill_name_middle7614": {
+  "en": "Blood Buddha",
+  "ch": "血浮屠",
+  "pt": "Buda do Sangue"
+ },
+ "skill_name_middle7632": {
+  "en": "Huge Whirlwind",
+  "ch": "大旋风",
+  "pt": "Redemoinho enorme"
+ },
+ "skill_name_middle7633": {
+  "en": "Feather of Enticement",
+  "ch": "蛊惑之羽",
+  "nomes": {
+   "Feather of Enticement": "Pena de Sedução"
+  },
+  "pt": "Pena da Tentação"
+ },
+ "skill_name_middle7635": {
+  "en": "Transformation",
+  "ch": "形态转换",
+  "pt": "Transformação"
+ },
+ "skill_name_middle7661": {
+  "en": "Lava Blast",
+  "ch": "熔岩烈轰",
+  "nomes": {
+   "Lava Blast": "Explosão de Lava"
+  },
+  "pt": "Explosão de Lava"
+ },
+ "skill_name_middle7662": {
+  "en": "Rain of Sands",
+  "ch": "沙尘石雨",
+  "nomes": {
+   "Rain of Sands": "Chuva de Areia"
+  },
+  "pt": "Chuva de Areias"
+ },
+ "skill_name_middle7671": {
+  "en": "Dark Flame - Break",
+  "ch": "幽炎破",
+  "nomes": {
+   "Dark Flame - Break": "Chama Negra - Quebrar"
+  },
+  "pt": "Chama Sombria - Quebra"
+ },
+ "skill_name_middle7672": {
+  "en": "Dark Flame - Annihilate",
+  "ch": "幽炎索命",
+  "pt": "Chama Sombria - Aniquilar"
+ },
+ "skill_name_middle7681": {
+  "en": "Toxic Mist",
+  "ch": "剧毒迷雾",
+  "nomes": {
+   "Toxic Mist": "Névoa Tóxica"
+  },
+  "pt": "Névoa Tóxica"
+ },
+ "skill_name_middle768166": {
+  "en": "Toxic Mist",
+  "ch": "剧毒迷雾",
+  "nomes": {
+   "Toxic Mist": "Névoa Tóxica"
+  },
+  "pt": "Névoa Tóxica"
+ },
+ "skill_name_middle7682": {
+  "en": "Nether Trampling",
+  "ch": "幽冥践踏",
+  "pt": "Pisoteio no Submundo"
+ },
+ "skill_name_middle7683": {
+  "en": "Bewitching Gaze",
+  "ch": "邪眼狂乱",
+  "pt": "Olhar encantador"
+ },
+ "skill_name_middle768366": {
+  "en": "Demonic Eyeball",
+  "ch": "幽冥邪瞳",
+  "pt": "Olho Demoníaco"
+ },
+ "skill_name_middle7684": {
+  "en": "Thousand Eyeballs",
+  "ch": "千瞳缭乱",
+  "nomes": {
+   "Thousand Eyeballs": "Mil Olhos"
+  },
+  "pt": "Mil Olhos"
+ },
+ "skill_name_middle7701": {
+  "en": "Scarlet Arrow",
+  "ch": "透体血箭",
+  "pt": "Seta Escarlate"
+ },
+ "skill_name_middle7702": {
+  "en": "Brutal Trampling",
+  "ch": "致命践踏",
+  "pt": "Pisoteio brutal"
+ },
+ "skill_name_middle7703": {
+  "en": "Restricting Array",
+  "ch": "法阵之力",
+  "pt": "Restringindo a Formação"
+ },
+ "skill_name_middle7704": {
+  "en": "Divinity Sword",
+  "ch": "万神剑",
+  "pt": "Espada da Divindade"
+ },
+ "skill_name_middle7705": {
+  "en": "Sharp Claw",
+  "ch": "乱爪",
+  "pt": "Garra Afiada"
+ },
+ "skill_name_middle7761": {
+  "en": "Guarding Crystals",
+  "ch": "冰晶缠绕",
+  "pt": "Protegendo os Cristais"
+ },
+ "skill_name_middle7763": {
+  "en": "Freezing Coat",
+  "ch": "寒霜刺骨",
+  "pt": "Casaco Impermeável"
+ },
+ "skill_name_middle7764": {
+  "en": "Pillar of Ice",
+  "ch": "寒冰巨石",
+  "pt": "Pilar de Gelo"
+ },
+ "skill_name_middle7765": {
+  "en": "Arctic Blizzard",
+  "ch": "寒霜风暴",
+  "pt": "Tempestade de neve no Ártico"
+ },
+ "skill_name_middle7871": {
+  "en": "Stinger Strike",
+  "ch": "尾针急射",
+  "pt": "Golpe do Stinger"
+ },
+ "skill_name_middle7872": {
+  "en": "Feverish Charges",
+  "ch": "连续冲刺",
+  "pt": "Cargas febris"
+ },
+ "skill_name_middle7873": {
+  "en": "Contamination",
+  "ch": "毒液污染",
+  "pt": "Contaminação"
+ },
+ "skill_name_middle7874": {
+  "en": "Stinger Strike",
+  "ch": "尾针急射",
+  "pt": "Golpe do Stinger"
+ },
+ "skill_name_middle7875": {
+  "en": "Feverish Charges",
+  "ch": "连续冲刺",
+  "pt": "Cargas febris"
+ },
+ "skill_name_middle7876": {
+  "en": "Contamination",
+  "ch": "毒液污染",
+  "pt": "Contaminação"
+ },
+ "skill_name_middle7881": {
+  "en": "Wrath of Tiangang",
+  "ch": "天罡之怒",
+  "nomes": {
+   "Wrath of Tiangang": "Ira de Tiangang"
+  },
+  "pt": "Ira de Tiangang"
+ },
+ "skill_name_middle788166": {
+  "en": "Wrath of Tiangang",
+  "ch": "天罡之怒",
+  "nomes": {
+   "Wrath of Tiangang": "Ira de Tiangang"
+  },
+  "pt": "Ira de Tiangang"
+ },
+ "skill_name_middle7882": {
+  "en": "Pose of Arrogance",
+  "ch": "狂傲之姿",
+  "pt": "Postura de arrogância"
+ },
+ "skill_name_middle7883": {
+  "en": "Pose of Torturer",
+  "ch": "虐杀之姿",
+  "pt": "Postura do Torturador"
+ },
+ "skill_name_middle788366": {
+  "en": "Pose of Arrogance",
+  "ch": "狂傲之姿",
+  "pt": "Postura de Arrogância"
+ },
+ "skill_name_middle7884": {
+  "en": "Pose of Surrender",
+  "ch": "软弱之姿",
+  "pt": "Pose de Rendição"
+ },
+ "skill_name_middle7891": {
+  "en": "Rock Eruption",
+  "ch": "犍岩爆发",
+  "nomes": {
+   "Rock Eruption": "Erupção de Rocha"
+  },
+  "pt": "Erupção de Rock"
+ },
+ "skill_name_middle789166": {
+  "en": "Rock Eruption",
+  "ch": "犍岩爆发",
+  "nomes": {
+   "Rock Eruption": "Erupção de Rocha"
+  },
+  "pt": "Erupção de Rock"
+ },
+ "skill_name_middle7892": {
+  "en": "Brave Charge",
+  "ch": "舍身一击",
+  "pt": "Carga Valente"
+ },
+ "skill_name_middle7893": {
+  "en": "Tail Shield",
+  "ch": "甩尾护盾",
+  "pt": "Escudo de Cauda"
+ },
+ "skill_name_middle7901": {
+  "en": "Pointy Feathers",
+  "ch": "尖羽打击",
+  "pt": "Penas pontudas"
+ },
+ "skill_name_middle7902": {
+  "en": "Pecking",
+  "ch": "啄击",
+  "pt": "Bicar"
+ },
+ "skill_name_middle7903": {
+  "en": "Potent Gale",
+  "ch": "强风侵袭",
+  "pt": "Gale Potente"
+ },
+ "skill_name_middle790366": {
+  "en": "Potent Gale",
+  "ch": "强风侵袭",
+  "pt": "Gale Potente"
+ },
+ "skill_name_middle7905": {
+  "en": "Pointy Feathers",
+  "ch": "尖羽打击",
+  "pt": "Penas pontudas"
+ },
+ "skill_name_middle7906": {
+  "en": "Plunge and Pounce",
+  "ch": "俯冲打击",
+  "pt": "Mergulho e ataque repentino"
+ },
+ "skill_name_middle7922": {
+  "en": "Calamity Stone",
+  "ch": "灾祸之石",
+  "nomes": {
+   "Calamity Stone": "Pedra do Calamidade"
+  },
+  "pt": "Pedra da Calamidade"
+ },
+ "skill_name_middle7923": {
+  "en": "Abyss Roar",
+  "ch": "深渊咆哮",
+  "nomes": {
+   "Abyss Roar": "Rugido do Abismo"
+  },
+  "pt": "Rugido do Abismo"
+ },
+ "skill_name_middle7924": {
+  "en": "Berserk Blood",
+  "ch": "狂化",
+  "pt": "Sangue Selvagem"
+ },
+ "skill_name_middle7931": {
+  "en": "Scarred",
+  "ch": "击痕",
+  "pt": "Marcado pelas cicatrizes"
+ },
+ "skill_name_middle793166": {
+  "en": "Scarred",
+  "ch": "击痕",
+  "pt": "Marcado pelas cicatrizes"
+ },
+ "skill_name_middle7931661": {
+  "en": "Scarred",
+  "ch": "击痕",
+  "pt": "Marcado pelas cicatrizes"
+ },
+ "skill_name_middle7932": {
+  "en": "Hit and Run",
+  "ch": "冲旋掠杀",
+  "pt": "Colisão e fuga"
+ },
+ "skill_name_middle7933": {
+  "en": "Resonating Scars",
+  "ch": "击痕爆发",
+  "pt": "Cicatrizes Resonantes"
+ },
+ "skill_name_middle793366": {
+  "en": "Resonating Scars",
+  "ch": "击痕爆发",
+  "pt": "Cicatrizes Resonantes"
+ },
+ "skill_name_middle7934": {
+  "en": "Doomsday Phantoms",
+  "ch": "末日影袭",
+  "nomes": {
+   "Doomsday Phantoms": "Fantasmas do Juízo Final"
+  },
+  "pt": "Fantasmas do Juízo Final"
+ },
+ "skill_name_middle7935": {
+  "en": "Resonating Scars",
+  "ch": "击痕爆发",
+  "pt": "Cicatrizes que ressoam"
+ },
+ "skill_name_middle793566": {
+  "en": "Doomsday Phantoms",
+  "ch": "末日影袭",
+  "nomes": {
+   "Doomsday Phantoms": "Fantasmas do Juízo Final"
+  },
+  "pt": "Fantasmas do Juízo Final"
+ },
+ "skill_name_middle7941": {
+  "en": "Soul Bones",
+  "ch": "魂骨",
+  "pt": "Ossos da Alma"
+ },
+ "skill_name_middle79411": {
+  "en": "Shackles",
+  "ch": "枷锁",
+  "pt": "Grilhões"
+ },
+ "skill_name_middle7942": {
+  "en": "Pouncing",
+  "ch": "扑击",
+  "pt": "Atacando de surpresa"
+ },
+ "skill_name_middle79422": {
+  "en": "Rain of Spikes",
+  "ch": "骨雨",
+  "pt": "Chuva de Espinhos"
+ },
+ "skill_name_middle7951": {
+  "en": "Feather Arrows",
+  "ch": "飞羽",
+  "pt": "Setas de Pena"
+ },
+ "skill_name_middle7952": {
+  "en": "Feather Tornado",
+  "ch": "旋羽",
+  "nomes": {
+   "Tornado": "Tornado"
+  },
+  "pt": "Tornado de Penas"
+ },
+ "skill_name_middle7953": {
+  "en": "Evil Feathers",
+  "ch": "邪羽",
+  "pt": "Penas Malignas"
+ },
+ "skill_name_middle7961": {
+  "en": "Glorious Flame",
+  "ch": "华焰",
+  "pt": "Chama Gloriosa"
+ },
+ "skill_name_middle7962": {
+  "en": "Unearthly Blaze",
+  "ch": "幽元地火",
+  "pt": "Chama Sobrenatural"
+ },
+ "skill_name_middle7963": {
+  "en": "Dazzling Dash",
+  "ch": "烈突",
+  "pt": "Corrida Deslumbrante"
+ },
+ "skill_name_middle7964": {
+  "en": "Gloomy Lightning",
+  "ch": "阴雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago sombrio"
+ },
+ "skill_name_middle7981": {
+  "en": "Purple Serpent",
+  "ch": "紫蛇",
+  "nomes": {
+   "Serpent": "Serpente"
+  },
+  "pt": "Serpente Roxa"
+ },
+ "skill_name_middle7982": {
+  "en": "Golden Serpent",
+  "ch": "金蛇",
+  "nomes": {
+   "Serpent": "Serpente"
+  },
+  "pt": "Serpente Dourada"
+ },
+ "skill_name_middle7983": {
+  "en": "Huge Serpent",
+  "ch": "长蛇",
+  "nomes": {
+   "Serpent": "Serpente"
+  },
+  "pt": "Serpente Gigante"
+ },
+ "skill_name_middle7984": {
+  "en": "Snake Venom",
+  "ch": "蛇毒",
+  "nomes": {
+   "Snake Venom": "Veneno de Cobra"
+  },
+  "pt": "Veneno de serpente"
+ },
+ "skill_name_middle8001": {
+  "en": "Radiant Flame",
+  "ch": "至阳真火",
+  "pt": "Chama Radiante"
+ },
+ "skill_name_middle800106": {
+  "en": "Dragon Spear Formation",
+  "ch": "天龙阵",
+  "pt": "Formação da Lança do Dragão"
+ },
+ "skill_name_middle8002": {
+  "en": "Blazing Meteors",
+  "ch": "天火降临",
+  "pt": "Meteoros flamejantes"
+ },
+ "skill_name_middle8003": {
+  "en": "Fiery Slash",
+  "ch": "撩火一击",
+  "pt": "Corte Flamejante"
+ },
+ "skill_name_middle8041": {
+  "en": "Vile Spikes",
+  "ch": "孽刃尖刺",
+  "nomes": {
+   "Vile Spikes": "Espinhos Vilões"
+  },
+  "pt": "Pontas Viscosas"
+ },
+ "skill_name_middle804166": {
+  "en": "Vile Spikes",
+  "ch": "孽刃尖刺",
+  "nomes": {
+   "Vile Spikes": "Espinhos Vilões"
+  },
+  "pt": "Pontas Vilanescas"
+ },
+ "skill_name_middle8042": {
+  "en": "Insidious Attacker",
+  "ch": "隐烈一击",
+  "pt": "Ataquantes insidiosos"
+ },
+ "skill_name_middle804266": {
+  "en": "Insidious Attacker",
+  "ch": "隐烈一击",
+  "pt": "Ataquantes insidiosos"
+ },
+ "skill_name_middle8043": {
+  "en": "All for One",
+  "ch": "人人为我",
+  "pt": "Todos por Um"
+ },
+ "skill_name_middle8044": {
+  "en": "Break the Seal",
+  "ch": "封印爆发",
+  "pt": "Quebre o Selo"
+ },
+ "skill_name_middle8051": {
+  "en": "Rise from Ashes",
+  "ch": "浴火重生",
+  "pt": "Renascer das Cinzas"
+ },
+ "skill_name_middle8053": {
+  "en": "Ghastly Flames",
+  "ch": "磷火穿魂",
+  "pt": "Chamas macabras"
+ },
+ "skill_name_middle8061": {
+  "en": "Roc's Talons",
+  "ch": "鲲鹏獠爪",
+  "pt": "Garras de Roc"
+ },
+ "skill_name_middle8063": {
+  "en": "Boundless Ocean",
+  "ch": "大海无量",
+  "pt": "Oceano Sem Fronteiras"
+ },
+ "skill_name_middle8071": {
+  "en": "Rapid Attempt",
+  "ch": "迅猛一击",
+  "pt": "Tentativa rápida"
+ },
+ "skill_name_middle8072": {
+  "en": "Golden Arrows",
+  "ch": "金鸿追命",
+  "pt": "Flechas Douradas"
+ },
+ "skill_name_middle8073": {
+  "en": "Feather Darts",
+  "ch": "乱羽散华",
+  "pt": "Dardos de Pena"
+ },
+ "skill_name_middle81011": {
+  "en": "Dangkang Horn",
+  "ch": "当康角",
+  "nomes": {
+   "Dangkang": "Dangkang",
+   "Dangkang Horn": "Chifre de Dangkang"
+  },
+  "pt": "Chifre de Dangkang"
+ },
+ "skill_name_middle810211": {
+  "en": "Hatuibwari Horn",
+  "ch": "雷神角",
+  "nomes": {
+   "Hatuibwari": "Hatuibwari"
+  },
+  "pt": "Corno de Hatuibwari"
+ },
+ "skill_name_middle81031": {
+  "en": "Snaketail Stone",
+  "ch": "蛇尾磐",
+  "pt": "Pedra de Cauda de Serpente"
+ },
+ "skill_name_middle81041": {
+  "en": "Laugh",
+  "ch": "笑面",
+  "pt": "Rir"
+ },
+ "skill_name_middle81051": {
+  "en": "Panther Flail",
+  "ch": "豹尾鞭",
+  "pt": "Chicote-Pantera"
+ },
+ "skill_name_middle81061": {
+  "en": "Eye of the Sea",
+  "ch": "海心眼",
+  "pt": "Olho do Mar"
+ },
+ "skill_name_middle81071": {
+  "en": "Abomination Skin",
+  "ch": "孟极皮",
+  "nomes": {
+   "Abomination": "Abominação"
+  },
+  "pt": "Pele da Abominação"
+ },
+ "skill_name_middle81081": {
+  "en": "Sword Artifact",
+  "ch": "剑法宝",
+  "pt": "Artefato da Espada"
+ },
+ "skill_name_middle81091": {
+  "en": "Reborn Artifact",
+  "ch": "羽化法宝",
+  "pt": "Artefato do Renascimento"
+ },
+ "skill_name_middle8109114": {
+  "en": "Blood Puppets Summoning Skill",
+  "ch": "持续召唤血傀儡技能",
+  "pt": "Habilidade de Invocação de Marionetes de Sangue"
+ },
+ "skill_name_middle8110011": {
+  "en": "Transcendent Artifact",
+  "ch": "登仙法宝",
+  "pt": "Artefato de Transcendência"
+ },
+ "skill_name_middle81101": {
+  "en": "Transcendent Artifact",
+  "ch": "登仙法宝",
+  "pt": "Artefato de Transcendência"
+ },
+ "skill_name_middle8111": {
+  "en": "Gushing Thunder",
+  "ch": "雷力喷涌",
+  "pt": "Trovões estrondosos"
+ },
+ "skill_name_middle8112": {
+  "en": "Soaring Lightning",
+  "ch": "雷暴凌地",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago Ascendente"
+ },
+ "skill_name_middle8113": {
+  "en": "Sunspliting Thunder",
+  "ch": "凌日硝雷",
+  "pt": "Trovão que Divide o Sol"
+ },
+ "skill_name_middle8121": {
+  "en": "Ruffled Feathers",
+  "ch": "乱羽随心",
+  "pt": "Penas amarfanhadas"
+ },
+ "skill_name_middle8122": {
+  "en": "Rapid Clawing",
+  "ch": "迅猛爪击",
+  "pt": "Garra Rápida"
+ },
+ "skill_name_middle8123": {
+  "en": "Feather's Edge",
+  "ch": "玄鸟利刃",
+  "pt": "A Borda da Pena"
+ },
+ "skill_name_middle8131": {
+  "en": "Unnoticed Poison",
+  "ch": "绵毒",
+  "pt": "Veneno despercebido"
+ },
+ "skill_name_middle8132": {
+  "en": "Malicious Toxin",
+  "ch": "森森之毒",
+  "pt": "Toxina maliciosa"
+ },
+ "skill_name_middle8133": {
+  "en": "Venomous Screens",
+  "ch": "毒幕覆盖",
+  "pt": "Telas venenosas"
+ },
+ "skill_name_middle8134": {
+  "en": "Essence of Poison",
+  "ch": "毒之本源",
+  "pt": "Essência do Veneno"
+ },
+ "skill_name_middle8141": {
+  "en": "Winter's Arrival",
+  "ch": "凛冬降临",
+  "pt": "A chegada do inverno"
+ },
+ "skill_name_middle8142": {
+  "en": "Sharp Icicles",
+  "ch": "刺骨寒锥",
+  "pt": "Picos de gelo afiados"
+ },
+ "skill_name_middle8143": {
+  "en": "Frost Trap",
+  "ch": "寒霜陷阱",
+  "pt": "Armadilha de Gelo"
+ },
+ "skill_name_middle8151": {
+  "en": "Mother Earth",
+  "ch": "大地之母",
+  "pt": "Mãe Terra"
+ },
+ "skill_name_middle8152": {
+  "en": "Mountain's Weight",
+  "ch": "移山填海",
+  "pt": "O Peso da Montanha"
+ },
+ "skill_name_middle81521": {
+  "en": "Impassable Terrain",
+  "ch": "千山万壑",
+  "pt": "Terreno intransitável"
+ },
+ "skill_name_middle81522": {
+  "en": "Spirit of Mountains",
+  "ch": "大山之灵",
+  "pt": "Espírito das Montanhas"
+ },
+ "skill_name_middle8153": {
+  "en": "Mountain Maker",
+  "ch": "积土成山",
+  "pt": "Criador de Montanhas"
+ },
+ "skill_name_middle8161": {
+  "en": "Ardent White Flames",
+  "ch": "安魂白焰",
+  "pt": "Chamas Brancas Ardentes"
+ },
+ "skill_name_middle8162": {
+  "en": "Ominous Fireballs",
+  "ch": "阴炎喷涌",
+  "pt": "Bolas de fogo ameaçadoras"
+ },
+ "skill_name_middle8163": {
+  "en": "White Flames Burst",
+  "ch": "白焰散射",
+  "pt": "Chamas Brancas Explodem"
+ },
+ "skill_name_middle8171": {
+  "en": "Taste of Mushroom",
+  "ch": "菇之味",
+  "pt": "Sabor de cogumelo"
+ },
+ "skill_name_middle8172": {
+  "en": "Strike of Mushroom",
+  "ch": "看菇一击",
+  "pt": "Greve dos Cogumelos"
+ },
+ "skill_name_middle8173": {
+  "en": "Strike of Many Mushrooms",
+  "ch": "看菇连续一击",
+  "pt": "Ataque dos Muitos Cogumelos"
+ },
+ "skill_name_middle8181": {
+  "en": "Take this Mushroom",
+  "ch": "食我一菇",
+  "pt": "Pegue esse cogumelo."
+ },
+ "skill_name_middle8191": {
+  "en": "Proud Warrior",
+  "ch": "高傲之姿",
+  "pt": "Guerreiro Orgulhoso"
+ },
+ "skill_name_middle8192": {
+  "en": "Intrepid Attempt",
+  "ch": "勇猛一击",
+  "pt": "Tentativa destemida"
+ },
+ "skill_name_middle8193": {
+  "en": "Spear Thrust",
+  "ch": "强力枪击",
+  "pt": "Golpe de Lança"
+ },
+ "skill_name_middle8194": {
+  "en": "Spear Hail",
+  "ch": "斗神乱打",
+  "pt": "Chuva de Lanças"
+ },
+ "skill_name_middle8195": {
+  "en": "Divine Majesty",
+  "ch": "仙姿之威",
+  "pt": "Majestade Divina"
+ },
+ "skill_name_middle8241": {
+  "en": "Searing Dark Flames",
+  "ch": "黯炎灼世",
+  "pt": "Chamas Negras Ardentes"
+ },
+ "skill_name_middle82411": {
+  "en": "Black Eclipse",
+  "ch": "噬形灼影",
+  "pt": "Eclipse Negro"
+ },
+ "skill_name_middle8242": {
+  "en": "Joyful Fire Spirits",
+  "ch": "火灵降生",
+  "pt": "Espíritos do Fogo Alegres"
+ },
+ "skill_name_middle8251": {
+  "en": "Piercing Quills",
+  "ch": "穿心乱羽",
+  "pt": "Piercings em formato de penas"
+ },
+ "skill_name_middle8252": {
+  "en": "Surge of Arrows",
+  "ch": "利箭狂涌",
+  "pt": "Onda de Flechas"
+ },
+ "skill_name_middle8253": {
+  "en": "Feather Bullets",
+  "ch": "无言箭羽",
+  "pt": "Balas de Pena"
+ },
+ "skill_name_middle8261": {
+  "en": "Chicken Fighter",
+  "ch": "斗鸡之力",
+  "pt": "Lutador de Frangos"
+ },
+ "skill_name_middle8262": {
+  "en": "Rooster's Fist",
+  "ch": "鸡拳乱打",
+  "pt": "Punho do Galo"
+ },
+ "skill_name_middle8263": {
+  "en": "Claws from Above",
+  "ch": "凤舞一击",
+  "pt": "Garras do Alto"
+ },
+ "skill_name_middle8269": {
+  "en": "Chicken Catcher",
+  "ch": "缚鸡之力",
+  "pt": "Caçador de Galinhas"
+ },
+ "skill_name_middle8311": {
+  "en": "Blue Bird Blast",
+  "ch": "青鸾冲击",
+  "pt": "Explosão do Pássaro Azul"
+ },
+ "skill_name_middle8312": {
+  "en": "Verdant Missiles",
+  "ch": "碧波弹",
+  "pt": "Mísseis Verdant"
+ },
+ "skill_name_middle8313": {
+  "en": "Verdant Spirits",
+  "ch": "碧波木灵",
+  "pt": "Espíritos Verdosos"
+ },
+ "skill_name_middle8321": {
+  "en": "Hideous Thorns",
+  "ch": "炼狱荆棘",
+  "nomes": {
+   "Hideous Thorns": "Espinhos Horríveis"
+  },
+  "pt": "Espinhos Horrendos"
+ },
+ "skill_name_middle83211": {
+  "en": "Demonic Clones",
+  "ch": "魔身化形",
+  "pt": "Clones Demoníacos"
+ },
+ "skill_name_middle8322": {
+  "en": "Nether Air Blast",
+  "ch": "冥气冲击",
+  "pt": "Explosão de Ar do Submundo"
+ },
+ "skill_name_middle8332": {
+  "en": "Unstoppable Smash",
+  "ch": "万仞",
+  "pt": "Esmagamento Imparável"
+ },
+ "skill_name_middle8333": {
+  "en": "Precipitate",
+  "ch": "天坠",
+  "pt": "Precipitado"
+ },
+ "skill_name_middle8339": {
+  "en": "Red Lotus",
+  "ch": "红莲",
+  "pt": "Lótus Vermelho"
+ },
+ "skill_name_middle8353": {
+  "en": "Earthrending Attacks",
+  "ch": "狂放",
+  "pt": "Ataques que abalam a Terra"
+ },
+ "skill_name_middle8361": {
+  "en": "Swift Shadow",
+  "ch": "疾影",
+  "pt": "Sombra Veloz"
+ },
+ "skill_name_middle8362": {
+  "en": "Float with Wind",
+  "ch": "空切",
+  "pt": "Flutue ao sabor do Vento"
+ },
+ "skill_name_middle8363": {
+  "en": "Frenzied Tempo",
+  "ch": "乱舞",
+  "pt": "Ritmo frenético"
+ },
+ "skill_name_middle8373": {
+  "en": "Rapid Resonation",
+  "ch": "迅音",
+  "pt": "Ressonância Rápida"
+ },
+ "skill_name_middle8391": {
+  "en": "Drawing of Lightning",
+  "ch": "雷力牵引",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Desenho do Relâmpago"
+ },
+ "skill_name_middle8392": {
+  "en": "Strike of Lightning",
+  "ch": "雷力降落",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Raio do Relâmpago"
+ },
+ "skill_name_middle8393": {
+  "en": "Wandering Dragon",
+  "ch": "龙游四方",
+  "pt": "Dragão Errante"
+ },
+ "skill_name_middle8401": {
+  "en": "Poisonous Swamp",
+  "ch": "毒沼",
+  "pt": "Pântano Venenoso"
+ },
+ "skill_name_middle8402": {
+  "en": "Poisonous Pool",
+  "ch": "毒潭",
+  "pt": "Poço Venenoso"
+ },
+ "skill_name_middle8403": {
+  "en": "Fiery Breath",
+  "ch": "炽焰之息",
+  "pt": "Sopro Ardente"
+ },
+ "skill_name_middle8409": {
+  "en": "Ultimate Commander",
+  "ch": "领袖",
+  "pt": "Comandante Supremo"
+ },
+ "skill_name_middle8411": {
+  "en": "Frozen Breath",
+  "ch": "冰原之息",
+  "nomes": {
+   "Frozen Breath": "Respiração Congelada"
+  },
+  "pt": "Sopro Congelado"
+ },
+ "skill_name_middle8441": {
+  "en": "Gorging",
+  "ch": "啃咬",
+  "pt": "Comer até se fartar"
+ },
+ "skill_name_middle8442": {
+  "en": "Dark Whirl",
+  "ch": "暗旋",
+  "pt": "Redemoinho Sombrio"
+ },
+ "skill_name_middle844266": {
+  "en": "Dark Whirl",
+  "ch": "暗旋",
+  "pt": "Redemoinho Sombrio"
+ },
+ "skill_name_middle8443": {
+  "en": "Devouring Force",
+  "ch": "吞噬天地",
+  "nomes": {
+   "Devouring Force": "Força Devoradora"
+  },
+  "pt": "Força Devoradora"
+ },
+ "skill_name_middle844366": {
+  "en": "Devouring Force",
+  "ch": "吞噬天地",
+  "nomes": {
+   "Devouring Force": "Força Devoradora"
+  },
+  "pt": "Força Devoradora"
+ },
+ "skill_name_middle8460": {
+  "en": "Decisive Strike",
+  "ch": "诛杀之道",
+  "pt": "Golpe Decisivo"
+ },
+ "skill_name_middle8461": {
+  "en": "Blasting Thunder",
+  "ch": "刹那惊雷",
+  "pt": "Trovões Explosivos"
+ },
+ "skill_name_middle8462": {
+  "en": "Dragon Pond",
+  "ch": "龙渊",
+  "pt": "Lago do Dragão"
+ },
+ "skill_name_middle84621": {
+  "en": "Sword Flurry",
+  "ch": "万剑",
+  "pt": "Rajada de Espadas"
+ },
+ "skill_name_middle84622": {
+  "en": "Swords Reunited",
+  "ch": "归一",
+  "pt": "Espadas Reunidas"
+ },
+ "skill_name_middle8470": {
+  "en": "Decisive Strike",
+  "ch": "诛杀之道",
+  "pt": "Golpe Decisivo"
+ },
+ "skill_name_middle8471": {
+  "en": "Blasting Thunder",
+  "ch": "刹那惊雷",
+  "pt": "Trovão Explosivo"
+ },
+ "skill_name_middle84721": {
+  "en": "Dragon Pond",
+  "ch": "龙渊",
+  "pt": "Lago do Dragão"
+ },
+ "skill_name_middle84722": {
+  "en": "Sword Flurry",
+  "ch": "万剑",
+  "pt": "Rajada de Espadas"
+ },
+ "skill_name_middle8473": {
+  "en": "Swords Reunited",
+  "ch": "归一",
+  "pt": "Espadas Reunidas"
+ },
+ "skill_name_middle8480": {
+  "en": "Decisive Strike",
+  "ch": "诛杀之道",
+  "pt": "Golpe Decisivo"
+ },
+ "skill_name_middle8481": {
+  "en": "Blasting Thunder",
+  "ch": "刹那惊雷",
+  "pt": "Trovão Explosivo"
+ },
+ "skill_name_middle84821": {
+  "en": "Dragon Pond",
+  "ch": "龙渊",
+  "pt": "Lago do Dragão"
+ },
+ "skill_name_middle84822": {
+  "en": "Sword Flurry",
+  "ch": "万剑",
+  "pt": "Rajada de Espadas"
+ },
+ "skill_name_middle8483": {
+  "en": "Swords Reunited",
+  "ch": "归一",
+  "pt": "Espadas Reunidas"
+ },
+ "skill_name_middle8490": {
+  "en": "Decisive Strike",
+  "ch": "诛杀之道",
+  "pt": "Golpe Decisivo"
+ },
+ "skill_name_middle8491": {
+  "en": "Blasting Thunder",
+  "ch": "刹那惊雷",
+  "pt": "Trovão Explosivo"
+ },
+ "skill_name_middle84921": {
+  "en": "Dragon Pond",
+  "ch": "龙渊",
+  "pt": "Lago do Dragão"
+ },
+ "skill_name_middle84922": {
+  "en": "Sword Flurry",
+  "ch": "万剑",
+  "pt": "Rajada de Espadas"
+ },
+ "skill_name_middle8493": {
+  "en": "Swords Reunited",
+  "ch": "归一",
+  "pt": "Espadas Reunidas"
+ },
+ "skill_name_middle8500": {
+  "en": "Decisive Strike",
+  "ch": "诛杀之道",
+  "pt": "Golpe Decisivo"
+ },
+ "skill_name_middle8501": {
+  "en": "Blasting Thunder",
+  "ch": "刹那惊雷",
+  "pt": "Trovão Explosivo"
+ },
+ "skill_name_middle85021": {
+  "en": "Dragon Pond",
+  "ch": "龙渊",
+  "pt": "Lago do Dragão"
+ },
+ "skill_name_middle85022": {
+  "en": "Sword Flurry",
+  "ch": "万剑",
+  "pt": "Rajada de Espadas"
+ },
+ "skill_name_middle8503": {
+  "en": "Swords Reunited",
+  "ch": "归一",
+  "pt": "Espadas Reunidas"
+ },
+ "skill_name_middle8521": {
+  "en": "Shield and Axe",
+  "ch": "干戚相生",
+  "pt": "Escudo e Machado"
+ },
+ "skill_name_middle8551": {
+  "en": "War Deity's Physique",
+  "ch": "战神之躯",
+  "pt": "Fisicamente, a Divindade da Guerra"
+ },
+ "skill_name_middle8571": {
+  "en": "Threefold Swords",
+  "ch": "三清剑式",
+  "pt": "Espadas Triplas"
+ },
+ "skill_name_middle8572": {
+  "en": "Sunset Sword Spell",
+  "ch": "落日剑决",
+  "pt": "Feitiço da Espada do Pôr do Sol"
+ },
+ "skill_name_middle8573": {
+  "en": "Swift Gale Blade",
+  "ch": "李落苍鸣",
+  "pt": "Lâmina da Rajada Veloz"
+ },
+ "skill_name_middle8574": {
+  "en": "Sword Boost",
+  "ch": "剑气纵横",
+  "pt": "Aumento de Poder da Espada"
+ },
+ "skill_name_middle8575": {
+  "en": "Sword Flurry - Drunken",
+  "ch": "万剑式·醉",
+  "pt": "Rajada de Espadas - Embriagado"
+ },
+ "skill_name_middle8581": {
+  "en": "Dragon's True Fire",
+  "ch": "应龙真火",
+  "pt": "O Verdadeiro Fogo do Dragão"
+ },
+ "skill_name_middle8582": {
+  "en": "Windblast Whip",
+  "ch": "散绝啸击",
+  "pt": "Chicote de Rajada de Vento"
+ },
+ "skill_name_middle8583": {
+  "en": "Thunder Clawing",
+  "ch": "雷鸣爪击",
+  "pt": "Garra do Trovão"
+ },
+ "skill_name_middle8584": {
+  "en": "Otherworldly Fire",
+  "ch": "南烛之力",
+  "pt": "Fogo sobrenatural"
+ },
+ "skill_name_middle8591": {
+  "en": "Earth's Triple Cores",
+  "ch": "三色地心",
+  "pt": "Os Três Núcleos da Terra"
+ },
+ "skill_name_middle8593": {
+  "en": "Devouring Sand",
+  "ch": "镇域流沙",
+  "pt": "Devorando Areia"
+ },
+ "skill_name_middle8594": {
+  "en": "Kaleidoscopic Lotuses",
+  "ch": "莲化寰宇",
+  "pt": "Lótus Caleidoscópicos"
+ },
+ "skill_name_middle8601": {
+  "en": "Flurry Cuts - Sword",
+  "ch": "乱拂·剑",
+  "pt": "Cortes Rápidos - Espada"
+ },
+ "skill_name_middle8602": {
+  "en": "Annihilation - Blood",
+  "ch": "泯灭·血",
+  "pt": "Aniquilação - Sangue"
+ },
+ "skill_name_middle8603": {
+  "en": "Twilight Lotus - Fire",
+  "ch": "暮莲·火",
+  "pt": "Lótus Crepuscular - Fogo"
+ },
+ "skill_name_middle8604": {
+  "en": "Sunset - Immortal",
+  "ch": "坠阳·仙",
+  "pt": "Pôr do sol - Imortal"
+ },
+ "skill_name_middle8605": {
+  "en": "Obscure Shield - Nether",
+  "ch": "固幽·冥",
+  "pt": "Escudo Obscuro - Submundo"
+ },
+ "skill_name_middle8611": {
+  "en": "Scorching Eruption",
+  "ch": "分元地火",
+  "pt": "Erupção Incandescente"
+ },
+ "skill_name_middle8613": {
+  "en": "Three Stances",
+  "ch": "形意三才",
+  "pt": "Três Posturas"
+ },
+ "skill_name_middle8615": {
+  "en": "Aerial Shock",
+  "ch": "风灵震空",
+  "pt": "Choque Aéreo"
+ },
+ "skill_name_middle8616": {
+  "en": "Nether - Army of Evil",
+  "ch": "冥·万魔戮仙",
+  "pt": "Submundo - Exército do Maligno"
+ },
+ "skill_name_middle8621": {
+  "en": "Sky Double Pupils",
+  "ch": "青空重瞳",
+  "pt": "Pupilas Duplas do Céu"
+ },
+ "skill_name_middle8622": {
+  "en": "Mystic Beams",
+  "ch": "青瞳神光",
+  "pt": "Feixes Místicos"
+ },
+ "skill_name_middle8623": {
+  "en": "Irritated Earth",
+  "ch": "坤元地光",
+  "pt": "Terra Irritada"
+ },
+ "skill_name_middle8624": {
+  "en": "Landscape Shaper",
+  "ch": "覆海移山",
+  "pt": "Modelador de Paisagens"
+ },
+ "skill_name_middle8627": {
+  "en": "Verdant Quills",
+  "ch": "幽盈碧羽",
+  "pt": "Penas Verdejantes"
+ },
+ "skill_name_middle863611": {
+  "en": "Divination - Sky and Earth",
+  "ch": "卦象·乾坤",
+  "pt": "Adivinhação - Céu e Terra"
+ },
+ "skill_name_middle8641": {
+  "en": "Move of Golden Blade",
+  "ch": "金铎式",
+  "pt": "Movimento da Lâmina Dourada"
+ },
+ "skill_name_middle8642": {
+  "en": "Move of Broken Rainbow",
+  "ch": "残虹式",
+  "pt": "Movimento do Arco-Íris Quebrado"
+ },
+ "skill_name_middle8643": {
+  "en": "Skygate Blades",
+  "ch": "天门剑决",
+  "pt": "Lâminas Skygate"
+ },
+ "skill_name_middle8644": {
+  "en": "Field of Stars",
+  "ch": "星元领域",
+  "pt": "Domínio das Estrelas"
+ },
+ "skill_name_middle8645": {
+  "en": "Exact - Sword Boost",
+  "ch": "真·剑气纵横",
+  "pt": "Exato - Aumento da Espada"
+ },
+ "skill_name_middle8646": {
+  "en": "Qi Triplication",
+  "ch": "一气化三清",
+  "pt": "Triplicação de Qi"
+ },
+ "skill_name_middle8647": {
+  "en": "Heavenly Art - Glinting Feathers",
+  "ch": "仙法·天羽鎏光",
+  "pt": "Arte Imortal - Penas Brilhantes"
+ },
+ "skill_name_middle88631": {
+  "en": "Move of Lightning",
+  "ch": "奔雷式",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Movimento do Relâmpago"
+ },
+ "skill_name_middle88632": {
+  "en": "Move of Golden Blade",
+  "ch": "金铎式",
+  "pt": "Movimento da Lâmina Dourada"
+ },
+ "skill_name_middle88633": {
+  "en": "Move of Falling Sky",
+  "ch": "坠天式",
+  "pt": "Movimento do Céu que Cai"
+ },
+ "skill_name_middle88634": {
+  "en": "Move of Broken Rainbow",
+  "ch": "残虹式",
+  "pt": "Movimento do Arco-Íris Quebrado"
+ },
+ "skill_name_middle91011": {
+  "en": "Charming Curse",
+  "ch": "惑心咒",
+  "pt": "Feitiço Encantador"
+ },
+ "skill_name_middle91012": {
+  "en": "Spirit of Confusion",
+  "ch": "迷眩之灵",
+  "pt": "Espírito da Confusão"
+ },
+ "skill_name_middle91013": {
+  "en": "Hypnosis",
+  "ch": "霜梦幻域",
+  "pt": "Hipnose"
+ },
+ "skill_name_middle91014": {
+  "en": "Spirit of Confusion",
+  "ch": "迷眩之灵",
+  "pt": "Espírito da Confusão"
+ },
+ "skill_name_middle91015": {
+  "en": "Hypnosis",
+  "ch": "霜梦幻域",
+  "pt": "Hipnose"
+ }
+}

@@ -1,0 +1,5014 @@
+{
+ "modFunctionTitle_addPotmon": {
+  "en": "Add an Imp",
+  "ch": "添加一只壶妖",
+  "pt": "Adicione um Diabrete."
+ },
+ "modFunctionTitle_addTargetAttr": {
+  "en": "Increases the specified stat for the specified character",
+  "ch": "增加指定角色的指定属性",
+  "pt": "Aumenta o atributo especificado para o personagem indicado"
+ },
+ "modFunctionTitle_addTask": {
+  "en": "Accept a mission",
+  "ch": "领取一个任务",
+  "pt": "Aceite uma missão"
+ },
+ "modFunctionTitle_addWorldData": {
+  "en": "Add the specified key's data in the save file",
+  "ch": "增加存档中指定key的数据",
+  "pt": "Adicione os dados da chave especificada no arquivo de salvamento."
+ },
+ "modFunctionTitle_areaDungeon": {
+  "en": "Create a dungeon at a random location in the specified region",
+  "ch": "在指定区域随机位置创建一个副本",
+  "pt": "Crie uma masmorra em um local aleatório na região especificada."
+ },
+ "modFunctionTitle_areaEvent": {
+  "en": "Generate a world map event with ID 15 in the special terrain with ID 10 in region 2",
+  "ch": "在区域2中ID为10的特殊地形中生成一个ID为15的大地图事件",
+  "pt": "Gere um evento de mapa mundial com ID 15 no terreno especial de ID 10, na região 2."
+ },
+ "modFunctionTitle_arrestNpcCondition": {
+  "en": "Get the data of the NPC with ID 1001 and set it as the left unit in this plot",
+  "ch": "获取ID为1001的NPC数据，并将其在这段剧情中设置为左单位",
+  "pt": "Obtenha os dados do NPC com ID 1001 e defina-o como a unidade da esquerda neste quadro."
+ },
+ "modFunctionTitle_backToSchool": {
+  "en": "Teleport to sect",
+  "ch": "传送回宗门",
+  "pt": "Teleporte-se para a seita."
+ },
+ "modFunctionTitle_battleExit": {
+  "en": "End the dungeon battle (only available in battle)",
+  "ch": "结束副本战斗（只能在战斗中使用）",
+  "pt": "Termine a batalha na masmorra (disponível apenas durante a batalha)"
+ },
+ "modFunctionTitle_battleFunction": {
+  "en": "Hide boss health bar",
+  "ch": "隐藏BOSS血条",
+  "pt": "Ocultar barra de saúde do chefe"
+ },
+ "modFunctionTitle_battleFunctionList": {
+  "en": "Use [function 1001] in [#BattleFunctionList]",
+  "ch": "使用#BattleFunctionList表中1001的功能",
+  "pt": "Use [função 1001] em [#BattleFunctionList]"
+ },
+ "modFunctionTitle_battleSkillTrainUp": {
+  "en": "Increase experience or level of the specified skill equipped by the character",
+  "ch": "增加角色装备中指定技能的经验或者等级",
+  "pt": "Aumente a experiência ou o nível da habilidade especificada equipada pelo personagem."
+ },
+ "modFunctionTitle_blackFilter": {
+  "en": "Turn on the black screen filter",
+  "ch": "开启黑幕滤镜",
+  "pt": "Ative o filtro de tela preta"
+ },
+ "modFunctionTitle_callAppointedDrama": {
+  "en": "Call the plot ID 6352101, but the plot text is the content of the last opened plot",
+  "ch": "调用ID6352101的剧情但剧情文本为上一次打开的剧情内容",
+  "pt": "Chame o enredo de ID 6352101, mas o texto do enredo é o conteúdo do último enredo aberto."
+ },
+ "modFunctionTitle_callDrama": {
+  "en": "Open a Plot ID (when multiple Plot IDs are selected, randomly launch one of them according to the Plot weight)",
+  "ch": "打开一个剧情ID（当选择了多个剧情ID时，根据剧情权重随机打开其中一个）",
+  "pt": "Abra um ID de Enredo (quando vários IDs de Enredo são selecionados, um deles é iniciado aleatoriamente de acordo com o peso do Enredo)"
+ },
+ "modFunctionTitle_callDramaDelayTime": {
+  "en": "Launch plot after delay",
+  "ch": "延时打开剧情",
+  "pt": "Iniciar a trama após um atraso"
+ },
+ "modFunctionTitle_callDramaRunEnd": {
+  "en": "Put plot dialogue into the list, and the plot will open after the month ends",
+  "ch": "将剧情对话放入列表中，运转结束打开剧情（保证一定会打开）",
+  "pt": "Coloque o diálogo da trama na lista, e a trama será aberta após o término do mês."
+ },
+ "modFunctionTitle_captureNPC": {
+  "en": "Extract the NPC group that matches the NPC condition table ID 10001, 10004, 10005",
+  "ch": "抓取满足NPC条件表ID为10001，10004,10005的NPC组",
+  "pt": "Extraia o grupo de NPCs que corresponde aos IDs 10001, 10004 e 10005 na tabela de condições de NPCs."
+ },
+ "modFunctionTitle_captureNpcConditionGroup": {
+  "en": "Extract all NPCs with condition group ID 100005 in the NPC condition table and decide whether to save them according to the configurations",
+  "ch": "抓取NPC条件表中条件组ID为100005的所有NPC，并根据其中的配置决定是否保存",
+  "pt": "Extraia todos os NPCs com o ID do grupo de condições 100005 na tabela de condições dos NPCs e decida se deve salvá-los de acordo com as configurações."
+ },
+ "modFunctionTitle_changeFateFeatureLuck": {
+  "en": "When opening Rewrite Destiny replacing interface, the specified Rewrite Destiny is bound to appear for a replacement.",
+  "ch": "打开替换逆天改命界面，必定出现指定的逆天改命，可替换一次逆天改命",
+  "pt": "Ao abrir a interface de substituição do Reescrever o Destino, o Reescrever o Destino especificado deve aparecer para ser substituído."
+ },
+ "modFunctionTitle_chatUpClose": {
+  "en": "Make Player's next banter with NPC increase bonus affinity for both parties",
+  "ch": "使玩家下次在与Npc闲聊时双方额外增加亲密度",
+  "pt": "Faça com que a próxima troca de falas do jogador com o NPC aumente a afinidade entre ambos."
+ },
+ "modFunctionTitle_clearAddFeature": {
+  "en": "Remove a specific destiny and add it again after a duration",
+  "ch": "清理指定气运，并间隔一段时间后加回来",
+  "pt": "Remova um destino específico e adicione-o novamente após um determinado período."
+ },
+ "modFunctionTitle_clearEvent": {
+  "en": "Delete the world map event under Player's feet",
+  "ch": "删除玩家当前脚底位置的大地图事件",
+  "pt": "Exclua o evento do mapa mundial que está sob os pés do jogador."
+ },
+ "modFunctionTitle_clearEventForceDel": {
+  "en": "Force to delete the world map event at current location",
+  "ch": "强制清除当前位置的大地图事件",
+  "pt": "Forçar a exclusão do evento do mapa mundial na localização atual."
+ },
+ "modFunctionTitle_clearEventID": {
+  "en": "Delete all world map events with the specified ID and create new events where the old events are deleted",
+  "ch": "删除大地图中所有指定ID的事件，并在删除事件的位置创建一个新事件",
+  "pt": "Exclua todos os eventos do mapa mundial com o ID especificado e crie novos eventos nos locais onde os eventos antigos foram excluídos."
+ },
+ "modFunctionTitle_clearFeature": {
+  "en": "Delete a destiny (nurture) on the player",
+  "ch": "清除玩家身上的一个后天气运",
+  "pt": "Exclua um destino (caminho traçado) do jogador."
+ },
+ "modFunctionTitle_clearFeatureGroup": {
+  "en": "Delete all destinies in group 401",
+  "ch": "清除气运分组为401的所有气运",
+  "pt": "Excluir todos os destinos no grupo 401"
+ },
+ "modFunctionTitle_clearInEventID": {
+  "en": "Delete the world map event under Player's feet",
+  "ch": "删除玩家当前脚底位置的大地图事件",
+  "pt": "Exclua o evento do mapa mundial que está sob os pés do jogador."
+ },
+ "modFunctionTitle_clearNpcConditionSave": {
+  "en": "Delete (Extract NPC table) NPC data saved in the table",
+  "ch": "清除（抓取NPC表）表中保存的NPC数据",
+  "pt": "Excluir (Extrair tabela de NPCs): dados de NPCs salvos na tabela"
+ },
+ "modFunctionTitle_clearNpcConditionSaveGroup": {
+  "en": "Delete saved NPC data in condition group 100005",
+  "ch": "清除条件组100005中保存的NPC数据",
+  "pt": "Excluir os dados salvos de NPCs no grupo de condições 100005"
+ },
+ "modFunctionTitle_clearTask": {
+  "en": "Don't accept the mission with ID 10001",
+  "ch": "不接取ID为10001的任务",
+  "pt": "Não aceite a missão com ID 10001."
+ },
+ "modFunctionTitle_clearWorldData": {
+  "en": "Delete the specified key's data in the save file",
+  "ch": "清除存档中指定key的数据",
+  "pt": "Exclua os dados da chave especificada no arquivo de salvamento."
+ },
+ "modFunctionTitle_closeMapUI": {
+  "en": "Close all UI on the world map",
+  "ch": "关闭大地图上所有UI",
+  "pt": "Feche toda a interface do usuário no mapa do mundo."
+ },
+ "modFunctionTitle_closeUI": {
+  "en": "Close world shop UI (See the table [UI Names] for the name of each UI)",
+  "ch": "关闭野外商店UI界面（每个界面的名称在后面的表【UI界面名称】中）",
+  "pt": "Fechar a interface do shop do mundo (Consulte a tabela [Nomes da UI] para ver o nome de cada interface)"
+ },
+ "modFunctionTitle_createDungeon": {
+  "en": "Create a dungeon under Player's feet",
+  "ch": "在玩家脚底创建一个副本",
+  "pt": "Crie uma masmorra sob os pés do jogador"
+ },
+ "modFunctionTitle_createDungeonInRange": {
+  "en": "Create a dungeon at a random location near Player",
+  "ch": "在玩家周围随机位置创建一个副本",
+  "pt": "Crie uma masmorra em um local aleatório perto do Jogador"
+ },
+ "modFunctionTitle_createEnemy": {
+  "en": "Create an enemy with ID 30001 in the current dungeon at (20,12)",
+  "ch": "在当前副本的场景内生成一个ID为30001的敌人，位置为20,12",
+  "pt": "Crie um inimigo com ID 30001 na masmorra atual, na posição (20,12)."
+ },
+ "modFunctionTitle_createEvent": {
+  "en": "Create a world map event (interactable icons on the world map)",
+  "ch": "创建一个大地图事件（事件是指大地图上可以互动的图标）",
+  "pt": "Crie um evento de mapa mundial (ícones interativos no mapa mundial)."
+ },
+ "modFunctionTitle_createEventArea": {
+  "en": "Create a world map event at a random location in a specified region",
+  "ch": "在指定区域随机位置创建一个大地图事件",
+  "pt": "Crie um evento de mapa mundial em uma localização aleatória dentro de uma região especificada."
+ },
+ "modFunctionTitle_createEventAreaCondition": {
+  "en": "Create a random [event 101] in region 8 and satisfy the condition",
+  "ch": "在区域8随机创建一个101事件，并且满足条件",
+  "pt": "Crie um [evento 101] aleatório na região 8 e satisfaça a condição."
+ },
+ "modFunctionTitle_createEventInRange": {
+  "en": "Create a world map event at a random location within Player's sight",
+  "ch": "创建一个大地图事件，在玩家脚底范围内随机",
+  "pt": "Crie um evento de mapa mundial em uma localização aleatória ao alcance da visão do jogador."
+ },
+ "modFunctionTitle_createEventMapPoint": {
+  "en": "Create event 4201 within 5-10 tiles from the position of [MapPosition] table 1001",
+  "ch": "在MapPosition表1001的位置5-10格范围内创建4201的事件",
+  "pt": "Crie o evento 4201 a uma distância de 5 a 10 tiles da posição indicada na tabela [MapPosition] 1001."
+ },
+ "modFunctionTitle_createEventPoint": {
+  "en": "Randomly create a world map event within a specified range of a specified location",
+  "ch": "在指定位置的指定棱形范围随机创建一个大地图事件",
+  "pt": "Crie aleatoriamente um evento de mapa do mundo dentro de um intervalo específico a partir de uma localização determinada."
+ },
+ "modFunctionTitle_createEventPointIngoreTree": {
+  "en": "Randomly create a world map event within a specified range of a specified location",
+  "ch": "在指定位置的指定棱形范围随机创建一个大地图事件",
+  "pt": "Crie aleatoriamente um evento de mapa do mundo dentro de um intervalo específico a partir de uma localização determinada."
+ },
+ "modFunctionTitle_createNPC": {
+  "en": "Create an NPC at the player's location",
+  "ch": "创建一个NPC到玩家脚底",
+  "pt": "Crie um NPC na localização do jogador"
+ },
+ "modFunctionTitle_createWeather": {
+  "en": "Set the weather for the current region",
+  "ch": "设置当前区域的天气",
+  "pt": "Defina o clima para a região atual"
+ },
+ "modFunctionTitle_curSchoolLuck": {
+  "en": "All NPCs in a specific character's sect gain certain Destiny",
+  "ch": "指定角色宗门的所有NPC获得指定气运",
+  "pt": "Todos os NPCs da seita de um personagem específico recebem um determinado Destino."
+ },
+ "modFunctionTitle_delEventfunction": {
+  "en": "Sets a command to be executed when the event is deleted",
+  "ch": "设置事件在删除时，执行一条命令",
+  "pt": "Define um comando a ser executado quando o evento é excluído"
+ },
+ "modFunctionTitle_delItemID": {
+  "en": "Delete a specified number of the specified item from the bag",
+  "ch": "删除背包中指定道具的指定数量",
+  "pt": "Exclua um número específico do item indicado do saco."
+ },
+ "modFunctionTitle_delNPCLuck": {
+  "en": "Delete a selected character's destiny (nurture)",
+  "ch": "删除指定角色身上的后天气运",
+  "pt": "Exclua o destino (criação) de um personagem selecionado."
+ },
+ "modFunctionTitle_delTask": {
+  "en": "Delete a mission",
+  "ch": "删除一个任务",
+  "pt": "Excluir uma missão"
+ },
+ "modFunctionTitle_delTerr": {
+  "en": "Delete all terrain 3001 on the map",
+  "ch": "删除地图上所有3001的地形",
+  "pt": "Exclua todo o terreno 3001 no mapa."
+ },
+ "modFunctionTitle_delUnitLuck": {
+  "en": "Delete a character's destiny",
+  "ch": "删除角色的气运",
+  "pt": "Apague o destino de um personagem."
+ },
+ "modFunctionTitle_die": {
+  "en": "Player dies immediately",
+  "ch": "玩家立刻死亡",
+  "pt": "O jogador morre imediatamente"
+ },
+ "modFunctionTitle_dramaInfo1Attr": {
+  "en": "Increase Kuafu's vitality by 110",
+  "ch": "增加夸父110体力",
+  "pt": "Aumente a vitalidade do Kuafu em 110."
+ },
+ "modFunctionTitle_dramaInfo1CostPause": {
+  "en": "The base stats diminish of Kuafu pauses",
+  "ch": "夸父的基础属性暂停消耗",
+  "pt": "Os atributos básicos de Kuafu diminuem durante as pausas."
+ },
+ "modFunctionTitle_dramaInfo1CostStart": {
+  "en": "The base stats diminish of Kuafu begins",
+  "ch": "夸父的基础属性开始消耗",
+  "pt": "Os atributos básicos de Kuafu começam a diminuir"
+ },
+ "modFunctionTitle_dramaInfo1MoveNextPoint": {
+  "en": "Move Kuafu to the next location",
+  "ch": "使夸父移动到下一个位置",
+  "pt": "Mova Kuafu para o próximo local"
+ },
+ "modFunctionTitle_dramaPackageRoleUpgrade": {
+  "en": "Player achieves instant Breakthrough and gains a certain Rewrite Destiny",
+  "ch": "玩家直接突破境界，并获得指定逆天改命",
+  "pt": "O jogador consegue um Avanço imediato e obtém um certo nível de Reescrever o Destino."
+ },
+ "modFunctionTitle_dramaRewardItem": {
+  "en": "Obtain item to a certain character",
+  "ch": "产出道具到指定角色",
+  "pt": "Obtenha o item para um determinado personagem."
+ },
+ "modFunctionTitle_finishNewSchoolTask": {
+  "en": "Complete the last accepted Sect Mission",
+  "ch": "完成最新接取的宗门任务",
+  "pt": "Complete a última Missão da Seita que foi aceita."
+ },
+ "modFunctionTitle_finishTask": {
+  "en": "Complete a mission (It's possible to not set completion conditions for a mission but manually call up the command to complete it)",
+  "ch": "完成一个任务（任务可以不设置完成条件，手动调用命令来完成任务）",
+  "pt": "Complete uma missão (É possível não definir condições de conclusão para uma missão, mas chamar manualmente o comando para completá-la)."
+ },
+ "modFunctionTitle_flee": {
+  "en": "Move Player to a random location within a specified range (escape)",
+  "ch": "将玩家随机移动到指定范围内的一个位置（逃跑）",
+  "pt": "Move o jogador para uma localização aleatória dentro de um intervalo especificado (fuga)"
+ },
+ "modFunctionTitle_fleeNPC": {
+  "en": "Moves the specified character to a random location within a specified range (escape)",
+  "ch": "将指定角色随机移动到指定范围内的一个位置（逃跑）",
+  "pt": "Move o caractere especificado para uma localização aleatória dentro de um intervalo determinado (escape)"
+ },
+ "modFunctionTitle_forceTrains": {
+  "en": "Two specified characters train together",
+  "ch": "指定两个角色进行双修",
+  "pt": "Dois personagens específicos treinam juntos"
+ },
+ "modFunctionTitle_fortuitousEventCD": {
+  "en": "Recalculate the CD of trigger 1001",
+  "ch": "重新计算1001触发器的CD",
+  "pt": "Recalcular o CD do gatilho 1001"
+ },
+ "modFunctionTitle_gainTaoistHeart": {
+  "en": "Specify characters that obtain Taoist Mind",
+  "ch": "指定角色获得道心",
+  "pt": "Especifique os personagens que obtêm o Coração do Dao"
+ },
+ "modFunctionTitle_gainTaoistSeed": {
+  "en": "Specify characters that obtain Taoist Seed",
+  "ch": "指定角色获得道种",
+  "pt": "Especifique quais personagens obtêm a Semente Daoísta."
+ },
+ "modFunctionTitle_getAllBountyTask": {
+  "en": "Players receive all bounty board missions that don't involve NPCs (collecting items, slaying monsters, etc.). The mission acceptance rules need to match the mission settings. If there are missions to accept, a dialogue with the specified ID of 123 pops up. Then Player clicks on the button with the specified button ID of 456 to directly complete all the missions accepted through this function and gets the corresponding rewards.",
+  "ch": "玩家接取悬赏榜中与NPC无关的全部任务（收集物品、消灭妖兽等），接取规则符合任务设置，如果有接取到任务，则弹出指定ID为123的对话，此时，玩家点击指定按钮ID为456的按钮后，直接完成通过该作用接到的任务，并获得任务奖励。",
+  "pt": "Os jogadores recebem todas as missões do quadro de recompensas que não envolvem NPCs (coletar itens, matar monstros, etc.). As regras de aceitação de missões devem estar de acordo com as configurações das próprias missões. Caso haja missões disponíveis para aceitação, um diálogo com o ID 123 é exibido. Em seguida, o jogador clica no botão cujo ID é 456 para completar diretamente todas as missões aceitas por meio dessa função, recebendo assim as recompensas correspondentes."
+ },
+ "modFunctionTitle_getImmortal": {
+  "en": "Obtain Heavenly Card",
+  "ch": "获得仙卡",
+  "pt": "Obtenha a Carta Celestial"
+ },
+ "modFunctionTitle_getSprite": {
+  "en": "Acquire an artifact spirit",
+  "ch": "获得一个器灵",
+  "pt": "Adquira um Espírito do Artefato."
+ },
+ "modFunctionTitle_getWell": {
+  "en": "Calls Tavern accommodation function to fully restore the character's status",
+  "ch": "调用酒馆住宿功能，恢复角色所有状态",
+  "pt": "Chama a função de acomodação da Taverna para restaurar completamente o status do personagem."
+ },
+ "modFunctionTitle_gradePhaseUp": {
+  "en": "Specify characters that achieve breakthrough",
+  "ch": "指定角色突破当前瓶颈",
+  "pt": "Especifique os caracteres que proporcionam um avanço."
+ },
+ "modFunctionTitle_group": {
+  "en": "Among all functions in GroupID 1001, select 1 that matches the condition to run",
+  "ch": "在GroupID为1001的所有Function中，选择符合条件的1条来执行",
+  "pt": "Dentre todas as funções no GrupoID 1001, selecione uma que atenda à condição para execução."
+ },
+ "modFunctionTitle_hideEvent": {
+  "en": "Hide the world map event for the specified ID",
+  "ch": "隐藏指定ID的大地图事件",
+  "pt": "Ocultar o evento do mapa mundial para o ID especificado."
+ },
+ "modFunctionTitle_hideUnit": {
+  "en": "Hide all monsters with ID 20016",
+  "ch": "隐藏副本内所有ID为20016的怪物",
+  "pt": "Ocultar todos os monstros com ID 20016"
+ },
+ "modFunctionTitle_initTask": {
+  "en": "Initialize the data of the mission with ID 10001",
+  "ch": "将ID为10001的任务数据初始化",
+  "pt": "Inicialize os dados da missão com ID 10001."
+ },
+ "modFunctionTitle_intoAreaDungeon": {
+  "en": "When Player is in region 1 or region 2, enter the dungeon with ID 1001, its level corresponding to that of Player",
+  "ch": "当玩家在区域1或区域2时，进入ID为1001的副本，副本等级对应玩家境界",
+  "pt": "Quando o Jogador estiver na região 1 ou na região 2, entre na masmorra com ID 1001; seu nível corresponde ao do Jogador."
+ },
+ "modFunctionTitle_intoDistrictDungeon": {
+  "en": "Enter the dungeon 101 of the current region. The dungeon is 2 levels lower than the base regional level. Needs to import the Player' realm A, the base regional realm B, and the max regional realm C. The base level of the dungeon corresponds to either B or C, whichever is closer to A.",
+  "ch": "进入当前所在区域的副本101，副本等级比区域副本基础等级低2级。这里需要传入玩家境界A，所处区域基础境界B，所处区域最大境界C。副本的基础等级为B~C中最接近A的境界（整数）所对应的等级",
+  "pt": "Acesse a masmorra 101 da região atual. A masmorra fica 2 níveis abaixo do nível regional base. É necessário importar o reino do jogador A, o reino regional base B e o reino regional máximo C. O nível base da masmorra corresponde a B ou C, sendo escolhido aquele que estiver mais próximo de A."
+ },
+ "modFunctionTitle_intoDungeon": {
+  "en": "Enter the specified dungeon",
+  "ch": "进入指定副本",
+  "pt": "Entre na masmorra especificada"
+ },
+ "modFunctionTitle_itemQuantityTimes": {
+  "en": "Change the number of the specified item in your backpack to a percentage",
+  "ch": "将背包中指定道具的数量更改为百分之多少",
+  "pt": "Altere o número do item especificado na sua mochila para um percentual."
+ },
+ "modFunctionTitle_itemSelect": {
+  "en": "Open the item selection interface and select an item with classification (item will be consumed once selected)",
+  "ch": "打开道具选择界面，选择道具，有分类选择（选择后会消耗掉）",
+  "pt": "Abra a interface de seleção de item e escolha um item com classificação (o item será consumido após a seleção)."
+ },
+ "modFunctionTitle_itemSelectAll": {
+  "en": "Open the item selection interface and select an item (may set it to not consume the item)",
+  "ch": "打开道具选择界面，选择道具（可以设置不消耗）",
+  "pt": "Abra a interface de seleção de item e escolha um item (é possível configurá-lo para não ser consumido)."
+ },
+ "modFunctionTitle_itemSelectElement": {
+  "en": "Open the item selection interface and select a manual (it will be consumed)",
+  "ch": "打开道具选择界面，选择秘籍（会消耗掉）",
+  "pt": "Abra a interface de seleção de item e escolha um manual (ele será consumido)."
+ },
+ "modFunctionTitle_itemSelectLevel": {
+  "en": "Opens the item selection interface and select an item with main category and rarity filter (Item will be consumed once selected)",
+  "ch": "打开道具选择界面，选择物品，有物品大分类和品质筛选（选择后会消耗掉）",
+  "pt": "Abre a interface de seleção de item e permite escolher um item utilizando os filtros de categoria principal e raridade. (O item será consumido após a seleção.)"
+ },
+ "modFunctionTitle_itemSelectLevel2": {
+  "en": "Open the item selection interface, showing all the level 5 to 6 items in categories 1 and 2, so that Player can choose 3 from them. The displayed tip text is in [tipsText] (Item categories can be left empty as there's no restriction)",
+  "ch": "打开道具选择界面，显示所有物品大类为1和2，并且等级为5~6级的道具，让玩家选择3个，显示的提示文本为tipsText（物品大类可不填，无限制）",
+  "pt": "Abra a interface de seleção de itens, exibindo todos os itens de nível 5 a 6 nas categorias 1 e 2, para que o jogador possa escolher 3 deles. O texto da dica exibido deve ser [tipsText] (As categorias de itens podem ser deixadas em branco, pois não há restrição)."
+ },
+ "modFunctionTitle_joinCurSchool": {
+  "en": "Specify characters that join the Sect where the player's feet are on now.",
+  "ch": "设置指定角色加入玩家当前脚底位置的宗门",
+  "pt": "Especifique os personagens que se juntam à Seita onde os pés do jogador estão no momento."
+ },
+ "modFunctionTitle_joinSchool": {
+  "en": "Join the current dialogue sect",
+  "ch": "加入当前对话的宗门",
+  "pt": "Participe da seita de diálogo atual."
+ },
+ "modFunctionTitle_killNPC": {
+  "en": "Extract and kill the specified NPC",
+  "ch": "抓取指定NPC，并将指定NPC杀死",
+  "pt": "Extraia e mate o NPC especificado"
+ },
+ "modFunctionTitle_killRole": {
+  "en": "Character 1 kills Character 2",
+  "ch": "角色1杀死角色2",
+  "pt": "Personagem 1 mata o Personagem 2"
+ },
+ "modFunctionTitle_learnSkill": {
+  "en": "Open the item selection interface, select a manual, and learn it immediately (need to meet the requirements for learning the manual)",
+  "ch": "打开道具选择界面，选择一本秘籍后立即习得（需要达成学习秘籍的前提条件）",
+  "pt": "Abra a interface de seleção de itens, escolha um manual e aprenda-o imediatamente (é necessário atender aos requisitos para aprender o manual)."
+ },
+ "modFunctionTitle_lookUnit": {
+  "en": "Open the stats UI of the specified character",
+  "ch": "打开指定角色的属性UI",
+  "pt": "Abra a interface de atributos do personagem especificado."
+ },
+ "modFunctionTitle_lootNpcSpecifiedItem": {
+  "en": "Transfer the specified number of items from the specified character's bag to Player",
+  "ch": "将指定角色背包里指定数量的道具转移给玩家",
+  "pt": "Transfira o número especificado de itemes do inventário do personagem indicado para o Jogador."
+ },
+ "modFunctionTitle_maintainArtifact": {
+  "en": "Restore full durability for all Artifacts held by the player",
+  "ch": "回满玩家所拥有的全部法宝的耐久度",
+  "pt": "Restaure a durabilidade total de todos os Artefatos que o jogador possui."
+ },
+ "modFunctionTitle_mapCreateBuild": {
+  "en": "Create a portal to (15,12) that corresponds to the portal at (5,5)",
+  "ch": "创建一个传送阵到15,12，对应传送点5,5",
+  "pt": "Crie um portal para (15,12) que corresponda ao portal em (5,5)."
+ },
+ "modFunctionTitle_mapCreateBuildInRange": {
+  "en": "Creates a portal within a certain area around world map coordinates",
+  "ch": "在大地图坐标一定范围内创建一个传送阵",
+  "pt": "Cria um portal em uma área específica ao redor das coordenadas do mapa mundial."
+ },
+ "modFunctionTitle_mapCreateCmd": {
+  "en": "When creating map commands, refer to the world map regional configuration table [WorldCreateCmd]",
+  "ch": "创建地图命令，参考大地图区域配置表WorldCreateCmd",
+  "pt": "Ao criar comandos de mapa, consulte a tabela de configuração regional do mapa mundial [WorldCreateCmd]."
+ },
+ "modFunctionTitle_mapTransfer": {
+  "en": "Call the teleport function. Open the region map and tap an icon to teleport",
+  "ch": "调用传送功能，打开小地图点击图标进行传送",
+  "pt": "Chame a função de teletransporte. Abra a mapa da região e toque em um ícone para teletransportar-se."
+ },
+ "modFunctionTitle_modifPlayerName": {
+  "en": "Change player name",
+  "ch": "修改玩家的名字",
+  "pt": "Alterar nome do jogador"
+ },
+ "modFunctionTitle_monthLog": {
+  "en": "Call the monthly tally event with ID 1001",
+  "ch": "调用ID为1001的月结事件",
+  "pt": "Chame o evento de contagem mensal com ID 1001"
+ },
+ "modFunctionTitle_monthLostItem": {
+  "en": "Randomly remove a specified number of items from the player's bag",
+  "ch": "随机丢失玩家背包指定数量的道具",
+  "pt": "Remova aleatoriamente um número específico de items do inventário do jogador."
+ },
+ "modFunctionTitle_moveCam": {
+  "en": "Move to a point configured in the map sheet",
+  "ch": "移动到地图表中配置的一个点",
+  "pt": "Vá para um ponto configurado na folha do mapa."
+ },
+ "modFunctionTitle_moveLastPoint": {
+  "en": "Move Player to the previous location",
+  "ch": "移动玩家到上一个位置",
+  "pt": "Mover o jogador para a localização anterior"
+ },
+ "modFunctionTitle_moveToPosition": {
+  "en": "Move Player to the specified map location",
+  "ch": "将玩家移动到指定的地图位置",
+  "pt": "Move o jogador para a localização especificada na mapa."
+ },
+ "modFunctionTitle_moveTownsSite": {
+  "en": "Acquire the location of a town that hasn't been discovered in the current region",
+  "ch": "获得一个当前区域中未解锁视野的城镇位置",
+  "pt": "Descubra a localização de uma vila que ainda não foi encontrada na região atual."
+ },
+ "modFunctionTitle_notNextDialogue": {
+  "en": "Tap and not enter the next dialogue",
+  "ch": "点击后不进入下一个对话",
+  "pt": "Toque e não entre no próximo diálogo"
+ },
+ "modFunctionTitle_npcAttack": {
+  "en": "Attack NPC",
+  "ch": "攻击NPC",
+  "pt": "Ataque ao NPC"
+ },
+ "modFunctionTitle_npcAttackForce": {
+  "en": "Force Attack on NPC (no escape)",
+  "ch": "强行攻击NPC（无法逃跑）",
+  "pt": "Ataque forçado contra NPC (sem escape)"
+ },
+ "modFunctionTitle_npcDramaGive": {
+  "en": "Randomly copy items from the bags of NPCs in all specified realms in the world to Player until reaching the total value",
+  "ch": "从世界上所有指定境界的NPC背包中，随机复制道具给玩家，直到达到总价值",
+  "pt": "Copie aleatoriamente itemes dos sacos de NPCs em todos os reinos especificados do mundo para o Jogador, até atingir o valor total."
+ },
+ "modFunctionTitle_npcDungeonReward": {
+  "en": "Simulate the items generated from clearing a random dungeon in the specified region",
+  "ch": "模拟产出一次指定区域中随机打一次副本获得的道具",
+  "pt": "Simule os itens gerados ao limpar uma masmorra aleatória na região especificada."
+ },
+ "modFunctionTitle_npcItem": {
+  "en": "Randomly select N items of specified value from the NPC's bag and generate them for Player",
+  "ch": "从NPC的背包选取指定价值的随机N个道具产出给玩家",
+  "pt": "Selecione aleatoriamente N items com o valor especificado do inventário do NPC e entregue-os ao jogador."
+ },
+ "modFunctionTitle_npcMapPositionClose": {
+  "en": "All NPCs that meet the ID 1001 condition within 10 tiles of the ID 1001 location in the condition table gain 100 to 300 hatred toward Player",
+  "ch": "在ID为1001的位置10格范围内所有满足条件表中ID为1001条件的npc对玩家的仇恨度增加100至300点",
+  "pt": "Todos os NPCs que atenderem à condição de ID 1001 num raio de 10 quadrados da localização do ID 1001 na tabela de condições ganham de 100 a 300 de ódio em relação ao Jogador."
+ },
+ "modFunctionTitle_npcRevive": {
+  "en": "Rescue NPC on Last Breath",
+  "ch": "救助一丝元魂NPC",
+  "pt": "NPC de resgate em Último Suspiro"
+ },
+ "modFunctionTitle_openGuide": {
+  "en": "Open the tutorial with ID 10101",
+  "ch": "打开ID为10101的引导",
+  "pt": "Abra o tutorial com ID 10101"
+ },
+ "modFunctionTitle_openUI": {
+  "en": "Open world shop UI (See the table [UI Names] for the name of each UI)",
+  "ch": "打开野外商店UI界面（每个界面的名称在后面的表【UI界面名称】中）",
+  "pt": "UI da loja de mundo aberto (Consulte a tabela [Nomes da UI] para ver o nome de cada UI)"
+ },
+ "modFunctionTitle_openUIBuilding10005": {
+  "en": "Open the building data of ID 162101 in [Building10005 table]",
+  "ch": "打开Building10005表中ID为162101的建筑数据",
+  "pt": "Abra os dados do edifício com ID 162101 na [tabela Building10005]"
+ },
+ "modFunctionTitle_openVillage": {
+  "en": "Open Duality Village",
+  "ch": "打开双仪村",
+  "pt": "Aldeia da Dualidade Aberta"
+ },
+ "modFunctionTitle_pastFilter": {
+  "en": "Turn on the flashback filter",
+  "ch": "开启倒叙滤镜",
+  "pt": "Ative o filtro de flashback"
+ },
+ "modFunctionTitle_pilferProbability": {
+  "en": "Increase the success chance of the next stealing attempt this month (the realm of the target needs to be lower than the thief)",
+  "ch": "使本月下一次偷窃的成功概率提高（被偷的人境界需要低于等于自己）",
+  "pt": "Aumente a chance de sucesso da próxima tentativa de roubo este mês (o reino do alvo precisa ser inferior ao do ladrão)."
+ },
+ "modFunctionTitle_pillFormulaStudy": {
+  "en": "Instant learn Elixir Recipes",
+  "ch": "立刻学会丹方",
+  "pt": "Aprenda instantaneamente Receitas de Elixir"
+ },
+ "modFunctionTitle_pillFormulaStudyAll": {
+  "en": "Immediately learn all learnable and upgradeable Elixir Recipes from the alchemist's sect. Cannot learn recipes with a Realm higher than the player's",
+  "ch": "立刻学会所有可学习的 和 可升级的 丹宗丹方 超过玩家境界的不能学习",
+  "pt": "Aprenda imediatamente todas as Receitas de Elixir que podem ser aprendidas e aprimoradas na seita do alquimista. Não é possível aprender receitas cujo Reino exigido seja superior ao nível do jogador."
+ },
+ "modFunctionTitle_playBG": {
+  "en": "Play background sound",
+  "ch": "播放背景音",
+  "pt": "Reproduzir som de fundo"
+ },
+ "modFunctionTitle_playMapEffect": {
+  "en": "Play the [xingtian] special effect in the current tile",
+  "ch": "在当前格子播放特效xingtian",
+  "pt": "Execute o efecto especial [xingtian] no tile actual."
+ },
+ "modFunctionTitle_positionEvent": {
+  "en": "Create a 1001 event with the character position as the origin, offset by 10,5",
+  "ch": "以角色位置为原点，偏移10,5的位置创建1001的事件",
+  "pt": "Crie um evento 1001, tendo a posição do caractere como origem, deslocada em 10,5."
+ },
+ "modFunctionTitle_putTask": {
+  "en": "Turn in a mission",
+  "ch": "提交一个任务",
+  "pt": "Conclua uma missão"
+ },
+ "modFunctionTitle_regainAttr": {
+  "en": "Set the current vitality, energy, and focus to the values before the last battle",
+  "ch": "将当前体灵念值设置成上一次战斗前的值",
+  "pt": "Defina a vitalidade, a energia e o foco atuais com os valores anteriores à última batalha."
+ },
+ "modFunctionTitle_releaseUnit": {
+  "en": "Release the bear and make sure the bear is dead before using it",
+  "ch": "放走熊，使用前确保熊已经死亡",
+  "pt": "Solte o urso e certifique-se de que ele está morto antes de usá-lo."
+ },
+ "modFunctionTitle_removeFeature": {
+  "en": "Open the destiny (nurture) removal interface that allows Player to select and remove a destiny",
+  "ch": "打开后天气运移除界面，玩家可以在其中选择一个进行移除",
+  "pt": "Abra a interface de remoção de destino, que permite ao jogador selecionar e remover um destino."
+ },
+ "modFunctionTitle_replaceTrainAnime": {
+  "en": "Modify the effect of next Dual Cultivation (Must put the prefabs into Resources/Effect/UI with AssetBundle)",
+  "ch": "修改下一次双修的特效（必须使用AB功能把预制体放到Resources/Effect/UI）",
+  "pt": "Modifique o efeito do próximo Cultivo Dual (É necessário colocar os prefabs em Resources/Effect/UI utilizando o AssetBundle)."
+ },
+ "modFunctionTitle_returnLastReward": {
+  "en": "Loses the last obtained item and returns it to its source (Can be used with stealTownNpcItem)",
+  "ch": "失去最后一次获得的物品,并将物品归还给来源者（可结合stealTownNpcItem使用）",
+  "pt": "Perde o último item obtido e o devolve à sua origem (Pode ser usado com stealTownNpcItem)"
+ },
+ "modFunctionTitle_revive": {
+  "en": "Revive the character on spot (only when Player has died in battle)",
+  "ch": "原地复活角色（只有在战斗中玩家死亡了才能使用）",
+  "pt": "Reviva o personagem no local (somente quando o jogador morreu em uma batalha)."
+ },
+ "modFunctionTitle_reward": {
+  "en": "Generate item",
+  "ch": "产出物品",
+  "pt": "Gerar item"
+ },
+ "modFunctionTitle_rewardCount": {
+  "en": "Generate item",
+  "ch": "产出物品",
+  "pt": "Gerar item"
+ },
+ "modFunctionTitle_rewardGridArrtRange": {
+  "en": "Generate specified stats in the tile under Player's feet (cultivation, mining, etc.)",
+  "ch": "产出玩家脚底格子内指定属性（修炼、挖矿等）",
+  "pt": "Gere os atributos especificados no tile sob os pés do jogador (cultivo, mineração, etc.)"
+ },
+ "modFunctionTitle_rewardNPCBegMercy": {
+  "en": "Call the item bundle for begging mercy. When Character 1 begs Character 2 for mercy, directly generate the items in Character 2's bag to Character 1",
+  "ch": "调用求饶的封装，角色1向角色2求饶，直接产出角色2背包的道具给角色1",
+  "pt": "Chame o pacote de itens para implorar por misericórdia. Quando o Personagem 1 implora ao Personagem 2 por misericórdia, transfira diretamente os itens que estão na mochila do Personagem 2 para o Personagem 1."
+ },
+ "modFunctionTitle_rewardUnitArrt": {
+  "en": "Generate list",
+  "ch": "产出列表",
+  "pt": "Gerar lista"
+ },
+ "modFunctionTitle_roleSetRelation": {
+  "en": "Set Character 1's relationship with Character 2",
+  "ch": "设置角色1和角色2的关系",
+  "pt": "Defina o relacionamento do Personagem 1 com o Personagem 2"
+ },
+ "modFunctionTitle_saveData": {
+  "en": "Save the current game",
+  "ch": "保存当前存档",
+  "pt": "Salvar o jogo atual"
+ },
+ "modFunctionTitle_schoolAttrModif": {
+  "en": "Increase sect stats",
+  "ch": "增加宗门的属性",
+  "pt": "Aumente os atributos da seita"
+ },
+ "modFunctionTitle_schoolReputationAdd": {
+  "en": "Increase sect honor",
+  "ch": "增加宗门的荣誉度",
+  "pt": "Aumente a honra da seita"
+ },
+ "modFunctionTitle_setAttr": {
+  "en": "Set a specified stat to a specified value",
+  "ch": "设置指定属性为指定值",
+  "pt": "Define uma estatística específica para um valor determinado"
+ },
+ "modFunctionTitle_setBuild10002NPC": {
+  "en": "Replace the NPC on the left in Yukong Village with the NPC 1001. Click on it to open plot ID 10001",
+  "ch": "将愚村中左侧的NPC替换为1001的NPC，点击后打开10001的剧情ID",
+  "pt": "Substitua o NPC à esquerda na Vila Yukong pelo NPC 1001. Clique nele para abrir o ID de enredo 10001."
+ },
+ "modFunctionTitle_setDramaUnitData": {
+  "en": "Set plot left/right characters (NPC-A, NPC-B)",
+  "ch": "设置剧情左边、右边抓取的角色（NPC-A、NPC-B）",
+  "pt": "Definir caracteres à esquerda/direita do enredo (NPC-A, NPC-B)"
+ },
+ "modFunctionTitle_setEventDuration": {
+  "en": "Sets the remaining time of an event and executes a command when the event is deleted",
+  "ch": "设置事件的剩余持续时间，并在该事件被删除时执行一条命令",
+  "pt": "Define o tempo restante de um evento e executa um comando quando o evento é excluído"
+ },
+ "modFunctionTitle_setEventObjData": {
+  "en": "Configure 1001 events 4, do not track Player",
+  "ch": "设置1001事件4，不追踪玩家",
+  "pt": "Configure 1001 eventos 4, não rastrear jogador"
+ },
+ "modFunctionTitle_setNPCPoint": {
+  "en": "Move the NPC to a point configured in the map sheet",
+  "ch": "移动NPC到地图表中配置的一个点",
+  "pt": "Mova o NPC para um ponto configurado na mapa."
+ },
+ "modFunctionTitle_setPoint": {
+  "en": "Set Player's location",
+  "ch": "设置玩家的位置",
+  "pt": "Definir a localização do jogador"
+ },
+ "modFunctionTitle_setPointInDecorateClassName": {
+  "en": "Randomly move to any tile in the decoration classification of 102",
+  "ch": "随机移动到装饰分类为102的任意一格上",
+  "pt": "Mova-se aleatoriamente para qualquer tile na classificação de decoração 102"
+ },
+ "modFunctionTitle_setSchoolPost": {
+  "en": "Set Sect position of the specified character",
+  "ch": "设置指定角色的宗门职位",
+  "pt": "Define a posição da Seita do personagem especificado."
+ },
+ "modFunctionTitle_setTaskData": {
+  "en": "Transfers the data of the mission giver NPC to the mission",
+  "ch": "将发布任务的NPC数据传到任务中",
+  "pt": "Transfere os dados do NPC que dá a missão para a missão em si."
+ },
+ "modFunctionTitle_setUnitAttr": {
+  "en": "Set unit stats",
+  "ch": "设置单位属性",
+  "pt": "Definir os atributos da unidade"
+ },
+ "modFunctionTitle_setUnitGhost": {
+  "en": "Sets the specified character to Last Breath",
+  "ch": "设置指定角色为一丝元魂",
+  "pt": "Define o personagem especificado como Último Suspiro."
+ },
+ "modFunctionTitle_setUnitPoint": {
+  "en": "Move character to a specific location",
+  "ch": "移动角色到指定位置",
+  "pt": "Move o personagem para uma localização específica"
+ },
+ "modFunctionTitle_setUnitPropToUnit": {
+  "en": "Extract items in Character 1's inventory to Character 2",
+  "ch": "提取角色1的背包道具到角色2",
+  "pt": "Extraia item(s) do inventário do Personagem 1 para o Personagem 2."
+ },
+ "modFunctionTitle_setWorldData": {
+  "en": "Configure the specified key's data in the save file",
+  "ch": "设置存档中指定key的数据",
+  "pt": "Configure os dados da chave especificada no arquivo de salvamento."
+ },
+ "modFunctionTitle_showEvent": {
+  "en": "Show the world map event with the specified ID",
+  "ch": "显示指定ID的大地图事件",
+  "pt": "Exiba o evento do mapa mundial com o ID especificado."
+ },
+ "modFunctionTitle_showTownSubBuild": {
+  "en": "Unlocks Town Tree Vault",
+  "ch": "解锁城镇的建木",
+  "pt": "Desbloqueia o Árvore-Cofre da Vila"
+ },
+ "modFunctionTitle_sight": {
+  "en": "Permanently show the specific range of view centered on the current position",
+  "ch": "永久显示以当前位置为中心的指定范围视野",
+  "pt": "Exibir permanentemente o intervalo específico de visualização centrado na posição atual"
+ },
+ "modFunctionTitle_sound": {
+  "en": "Play SFX",
+  "ch": "播放音效",
+  "pt": "Reproduzir SFX"
+ },
+ "modFunctionTitle_spriteClose": {
+  "en": "Increase artifact spirit affinity",
+  "ch": "增加器灵亲密度",
+  "pt": "Aumente a afinidade do espírito do artefato"
+ },
+ "modFunctionTitle_stealTownNpcItem": {
+  "en": "Extracts the NPC and obtains an item on them with the highest unit price",
+  "ch": "抓取NPC并获取身上一件单价最高的物品",
+  "pt": "Extrai o NPC e obtém o item com o maior preço unitário que ele possui."
+ },
+ "modFunctionTitle_systemTips": {
+  "en": "Pop up a tip UI",
+  "ch": "弹出一个提示UI",
+  "pt": "Exiba uma interface de dicas pop-up"
+ },
+ "modFunctionTitle_threatenNPC": {
+  "en": "Player threatens B and succeeds",
+  "ch": "玩家威胁B且成功",
+  "pt": "O jogador ameaça B e consegue."
+ },
+ "modFunctionTitle_townAuctionAddItem": {
+  "en": "Add specified items and manuals to the auction house of the specified region",
+  "ch": "往指定区域的拍卖行中添加指定道具、秘籍",
+  "pt": "Adicione os item e manuais especificados à casa de leilões da região indicada."
+ },
+ "modFunctionTitle_transmitTaskTime": {
+  "en": "Transfer the remaining time of mission 123 to mission 234",
+  "ch": "将任务123的剩余持续时间传递给任务234",
+  "pt": "Transfira o tempo restante da missão 123 para a missão 234."
+ },
+ "modFunctionTitle_unitAddImmortalPoint": {
+  "en": "Add Immortal Power Pts to character",
+  "ch": "角色增加仙力点",
+  "pt": "Adicione pontos de Poder Imortal ao personagem."
+ },
+ "modFunctionTitle_unitExitSchool": {
+  "en": "Character leaves sect",
+  "ch": "角色退出宗门",
+  "pt": "O personagem deixa a seita"
+ },
+ "modFunctionTitle_unitJoinSchool": {
+  "en": "Character 1 joins Character 2's Sect",
+  "ch": "角色1加入角色2的宗门",
+  "pt": "O Personagem 1 entra para a Seita do Personagem 2."
+ },
+ "modFunctionTitle_unitLog": {
+  "en": "Record unit B's log",
+  "ch": "记录单位B的日志",
+  "pt": "Registrar o log da unidade B"
+ },
+ "modFunctionTitle_unitRelationBreak": {
+  "en": "Character 1 cancels relationship with Character 2",
+  "ch": "角色1与角色2解除关系",
+  "pt": "Personagem 1 cancela o relacionamento com o Personagem 2"
+ },
+ "modFunctionTitle_useAssignBuild10005": {
+  "en": "Make the building with ID 162101 in the [WorldBuilding10005] considered used",
+  "ch": "使WorldBuilding10005表中ID为162101的建筑被判断为已使用过",
+  "pt": "Marque o edifício com ID 162101 em [WorldBuilding10005] como sendo utilizado."
+ },
+ "modFunctionTitle_useBuild10005": {
+  "en": "Make the adventure building at Player's current location considered used, only effective for [Building10005]",
+  "ch": "使玩家当前位置的奇遇建筑被判断为使用过，只对Building10005生效",
+  "pt": "Marque a construção de aventura no local atual do Jogador como utilizada; isso só tem efeito para o [Building10005]."
+ },
+ "modFunction_abCloseSet_value1Name": {
+  "en": "Specify character 1",
+  "ch": "指定角色1",
+  "pt": "Especifique o caractere 1"
+ },
+ "modFunction_abCloseSet_value2Name": {
+  "en": "Specify character 2",
+  "ch": "指定角色2",
+  "pt": "Especifique o caractere 2"
+ },
+ "modFunction_abCloseSet_value3Name": {
+  "en": "Affinity set",
+  "ch": "设置的亲密度",
+  "pt": "Conjunto de Afinidades"
+ },
+ "modFunction_abClose_value1Name": {
+  "en": "Character 1",
+  "ch": "角色1",
+  "pt": "Personagem 1"
+ },
+ "modFunction_abClose_value2Name": {
+  "en": "Character 2",
+  "ch": "角色2",
+  "pt": "Personagem 2"
+ },
+ "modFunction_abClose_value3Name": {
+  "en": "Add affinity min value",
+  "ch": "增加亲密度最小值",
+  "pt": "Adicionar valor mínimo de afinidade"
+ },
+ "modFunction_abClose_value4Name": {
+  "en": "Add affinity max Value",
+  "ch": "增加亲密度最大值",
+  "pt": "Adicionar valor máximo de afinidade"
+ },
+ "modFunction_addAppellation_value1Name": {
+  "en": "Specify character",
+  "ch": "指定角色",
+  "pt": "Especifique o caractere"
+ },
+ "modFunction_addAppellation_value2Name": {
+  "en": "Taoist Title added",
+  "ch": "增加的道号",
+  "pt": "Título Daoísta adicionado"
+ },
+ "modFunction_addAttr_value3Desc": {
+  "en": "Positive number increases stats; negative number reduces stats.",
+  "ch": "正数增加属性，负数减少属性",
+  "pt": "Números positivos aumentam os atributos; números negativos os reduzem."
+ },
+ "modFunction_addAttr_value3Name": {
+  "en": "Stats increased or reduced",
+  "ch": "增加、减少的属性值",
+  "pt": "Atributos aumentados ou reduzidos"
+ },
+ "modFunction_addClose_value1Name": {
+  "en": "Character 1",
+  "ch": "角色1",
+  "pt": "Personagem 1"
+ },
+ "modFunction_addClose_value2Name": {
+  "en": "Character 2",
+  "ch": "角色2",
+  "pt": "Personagem 2"
+ },
+ "modFunction_addClose_value3Name": {
+  "en": "Min Hatred Increase",
+  "ch": "增加仇恨度最小值",
+  "pt": "Aumento do ódio mínimo"
+ },
+ "modFunction_addClose_value4Name": {
+  "en": "Max Hatred Increase",
+  "ch": "增加仇恨度最大值",
+  "pt": "Aumento do ódio máximo"
+ },
+ "modFunction_addCurAttrPercent_value2Desc": {
+  "en": "For example, if the current ATK is 88, and you enter a percentage of 50, it gains an extra 44 ATK.",
+  "ch": "例如当前攻击力是88，百分比填50，则增加44的攻击力。",
+  "pt": "Por exemplo, se a ATQ atual for 88, e você inserir uma porcentagem de 50, o valor da ATQ aumentará em mais 44 pontos."
+ },
+ "modFunction_addCurAttrPercent_value2Name": {
+  "en": "Percentage of change",
+  "ch": "增减的百分比",
+  "pt": "Porcentagem de variação"
+ },
+ "modFunction_addExp_value2Name": {
+  "en": "Random Min Value (Value/Percentage, can be negative)",
+  "ch": "随机最小值（数值/百分比，可以填入负数）",
+  "pt": "Valor mínimo aleatório (Valor/Percentual; pode ser negativo)"
+ },
+ "modFunction_addExp_value3Name": {
+  "en": "Random Max Value (Value/Percentage, can be negative)",
+  "ch": "随机最大值（数值/百分比，可以填入负数）",
+  "pt": "Valor Máximo Aleatório (Valor/Percentual; pode ser negativo)"
+ },
+ "modFunction_addFeature_value2Desc": {
+  "en": "For example: If you enter 6 months, Destiny will disappear after 6 months.",
+  "ch": "例如填6，则6个月后气运消失。",
+  "pt": "Por exemplo: se você inserir 6 meses, o Destino desaparecerá após 6 meses."
+ },
+ "modFunction_addFeature_value2Name": {
+  "en": "Duration (Month, -1 permanent duration)",
+  "ch": "持续时间（月，-1永久持续）",
+  "pt": "Duração (Meses; -1 para duração permanente)"
+ },
+ "modFunction_addGridArrtRange_value1Name": {
+  "en": "Random range",
+  "ch": "随机范围",
+  "pt": "Intervalo aleatório"
+ },
+ "modFunction_addGridArrtRange_value4Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modFunction_addMastery_value2Name": {
+  "en": "Proficiency EXP to increase",
+  "ch": "增加的熟练度经验值",
+  "pt": "EXP de proficiência para aumentar"
+ },
+ "modFunction_addNPCLuck_value3Name": {
+  "en": "Duration (Month, -1 permanent duration)",
+  "ch": "持续时间（月，-1永久持续）",
+  "pt": "Duração (Meses; -1 para duração permanente)"
+ },
+ "modFunction_addPotmon_value2Name": {
+  "en": "Imp Realm",
+  "ch": "壶妖境界",
+  "pt": "Reino dos Diabretes"
+ },
+ "modFunction_addPotmon_value3Name": {
+  "en": "Assign it as guard?",
+  "ch": "是否设置为护卫",
+  "pt": "Atribuí-lo como guarda?"
+ },
+ "modFunction_addPotmon_value4Name": {
+  "en": "Instant effective in battle?",
+  "ch": "是否在战斗中立刻生效",
+  "pt": "Eficaz instantaneamente na batalha?"
+ },
+ "modFunction_addTargetAttr_value4Name": {
+  "en": "Value to increase",
+  "ch": "增加的值",
+  "pt": "Valor a ser aumentado"
+ },
+ "modFunction_addWorldData_value1Name": {
+  "en": "key (mark)",
+  "ch": "key（标记）",
+  "pt": "chave (marca)"
+ },
+ "modFunction_addWorldData_value2Name": {
+  "en": "Value increased",
+  "ch": "增加的值",
+  "pt": "Valor aumentou"
+ },
+ "modFunction_areaDungeon_value4Name": {
+  "en": "Dungeon level offset",
+  "ch": "副本等级偏移",
+  "pt": "Deslocamento do nível da masmorra"
+ },
+ "modFunction_battleSkillTrainUp_value3Name": {
+  "en": "Value to increase (EXP/level)",
+  "ch": "增加的值（经验/等级）",
+  "pt": "Valor a ser aumentado (EXP/nível)"
+ },
+ "modFunction_callDramaDelayTime_value2Name": {
+  "en": "Delay time",
+  "ch": "延时时间",
+  "pt": "Tempo de atraso"
+ },
+ "modFunction_callDrama_value1Desc": {
+  "en": "You may add multiple plot IDs. Among all the plots whose conditions are met, a random one will be launched according to the weight.",
+  "ch": "可以填入多个剧情ID，所有达成条件的剧情，根据权重随机打开一个。",
+  "pt": "Você pode adicionar vários IDs de enredo. Dentre todos os enredos cujas condições são atendidas, um será selecionado aleatoriamente de acordo com o peso."
+ },
+ "modFunction_callDrama_value1Name": {
+  "en": "Plot ID",
+  "ch": "剧情ID",
+  "pt": "ID do Lote"
+ },
+ "modFunction_chatUpClose_value1Name": {
+  "en": "Bonus affinity to increase",
+  "ch": "额外增加的亲密度",
+  "pt": "Bônus de afinidade para aumentar"
+ },
+ "modFunction_clearAddFeature_value3Name": {
+  "en": "Month(s) of duration",
+  "ch": "间隔月份",
+  "pt": "Número de meses de duração"
+ },
+ "modFunction_clearEventID_value1Name": {
+  "en": "Event ID to delete",
+  "ch": "删除的事件ID",
+  "pt": "ID do evento a ser excluído"
+ },
+ "modFunction_clearEventID_value2Name": {
+  "en": "Event ID to create",
+  "ch": "创建的事件ID",
+  "pt": "ID do evento a ser criado"
+ },
+ "modFunction_clearFeature_value1Name": {
+  "en": "Destiny ID to delete (-1 deletes all negative destinies)",
+  "ch": "清除的气运ID（-1清除所有负面气运）",
+  "pt": "ID do Destino a ser excluído (-1 exclui todos os Destinos negativos)"
+ },
+ "modFunction_clearInEventID_value1Name": {
+  "en": "ID of the event under Player's feet",
+  "ch": "玩家脚底的事件ID",
+  "pt": "ID do evento sob os pés do jogador"
+ },
+ "modFunction_clearWorldData_value1Desc": {
+  "en": "Often used to mark data. For example, in [Adventure A], there's a [Button X], which carries a command that marks Player with [Key Y].\n\nThen, you can add [Key Y] to the second [Adventure B]'s triggering condition, making it only available when Player has completed [Adventure A].",
+  "ch": "一般用于标记，如有个奇遇是《遇到老奶奶》，奇遇有个按钮是《扶老奶奶过马路》，按钮上有个命令增加标记“玩家曾经扶了老奶奶过马路”。\n\n另一个奇遇是《剑仙老奶奶》，奇遇触发条件里可以判断标记“玩家曾经扶了老奶奶过马路”存在才能触发这个奇遇。",
+  "pt": "Geralmente usado para marcar dados. Por exemplo, na [Aventura A], existe um [Botão X] que contém um comando que marca o Jogador com a [Chave Y].\n\nAssim, você pode adicionar a [Chave Y] à condição de ativação da segunda [Aventura B], tornando-a disponível somente quando o Jogador tiver concluído a [Aventura A]."
+ },
+ "modFunction_clearWorldData_value1Name": {
+  "en": "key",
+  "ch": "key（标记）",
+  "pt": "chave"
+ },
+ "modFunction_createDungeonInRange_value1Desc": {
+  "en": "The minimum amount of tiles the dungeon can be away from the player",
+  "ch": "副本距离玩家最小多少格",
+  "pt": "A distância mínima, em tiles, que a masmorra pode estar do jogador"
+ },
+ "modFunction_createDungeonInRange_value1Name": {
+  "en": "Random min range",
+  "ch": "随机最小范围",
+  "pt": "Intervalo mínimo aleatório"
+ },
+ "modFunction_createDungeonInRange_value2Desc": {
+  "en": "The maximum amount of tiles the dungeon can be away from the player",
+  "ch": "副本距离玩家最大多少格",
+  "pt": "A quantidade máxima de tiles que o calabouço pode estar distante do jogador"
+ },
+ "modFunction_createDungeonInRange_value2Name": {
+  "en": "Random max range",
+  "ch": "随机最大范围",
+  "pt": "Faixa máxima aleatória"
+ },
+ "modFunction_createDungeon_value3Name": {
+  "en": "Dungeon Level Offset Random Min Value",
+  "ch": "副本等级偏移随机最小值",
+  "pt": "Valor mínimo aleatório para o deslocamento do nível da masmorra"
+ },
+ "modFunction_createDungeon_value4Name": {
+  "en": "Dungeon Level Offset Random Max Value",
+  "ch": "副本等级偏移随机最大值",
+  "pt": "Valor máximo aleatório do deslocamento do nível da masmorra"
+ },
+ "modFunction_createDungeon_value5Desc": {
+  "en": "When the timer runs out or when the dungeon is cleared, the dungeon will be deleted.",
+  "ch": "持续时间到达后，副本将删除，通关副本胜利后，副本也会被删除。",
+  "pt": "Quando o timer acabar ou quando a masmorra for completada, a masmorra será excluída."
+ },
+ "modFunction_createDungeon_value5Name": {
+  "en": "Dungeon Duration (month, -1 means infinite)",
+  "ch": "副本持续时间（月，-1无限）",
+  "pt": "Duração da masmorra (em meses; -1 significa infinito)"
+ },
+ "modFunction_createEventArea_value3Name": {
+  "en": "Min distance between event and building",
+  "ch": "事件距离建筑最小距离",
+  "pt": "Distância mínima entre o evento e o edifício"
+ },
+ "modFunction_createEventArea_value4Name": {
+  "en": "Max distance between event and building",
+  "ch": "事件距离建筑最大距离",
+  "pt": "Distância máxima entre o evento e o edifício"
+ },
+ "modFunction_createEventInRange_value1Name": {
+  "en": "Min random range",
+  "ch": "最小随机范围",
+  "pt": "Intervalo aleatório mínimo"
+ },
+ "modFunction_createEventInRange_value2Name": {
+  "en": "Max random range",
+  "ch": "最大随机范围",
+  "pt": "Intervalo aleatório máximo"
+ },
+ "modFunction_createEventPointIngoreTree_value2Name": {
+  "en": "World map x coordinate",
+  "ch": "大地图X坐标",
+  "pt": "Coordenada X do mapa mundial"
+ },
+ "modFunction_createEventPointIngoreTree_value3Name": {
+  "en": "World map y coordinate",
+  "ch": "大地图Y坐标",
+  "pt": "Coordenada Y do mapa mundial"
+ },
+ "modFunction_createEventPointIngoreTree_value4Name": {
+  "en": "Radius (diamond shape)",
+  "ch": "棱形半径范围",
+  "pt": "Raio (forma de diamante)"
+ },
+ "modFunction_delEventfunction_value2Name": {
+  "en": "Command to execute when deleting event",
+  "ch": "事件删除时，执行的命令",
+  "pt": "Comando a ser executado ao excluir um evento"
+ },
+ "modFunction_delItemID_value2Name": {
+  "en": "Number of items to delete (0 means delete all)",
+  "ch": "删除的道具数量（0删除所有）",
+  "pt": "Número de itens a serem excluídos (0 significa excluir todos)"
+ },
+ "modFunction_die_value1Name": {
+  "en": "Death info",
+  "ch": "死亡说明",
+  "pt": "Informações sobre a morte"
+ },
+ "modFunction_dramaPackageRoleUpgrade_value3Name": {
+  "en": "Animation duration",
+  "ch": "动画持续时间",
+  "pt": "Duração da animação"
+ },
+ "modFunction_fleeNPC_value2Name": {
+  "en": "Random min distance",
+  "ch": "随机最小距离",
+  "pt": "Distância mínima aleatória"
+ },
+ "modFunction_fleeNPC_value3Name": {
+  "en": "Random max distance",
+  "ch": "随机最大距离",
+  "pt": "Distância máxima aleatória"
+ },
+ "modFunction_forceTrains_value1Name": {
+  "en": "Character 1",
+  "ch": "角色1",
+  "pt": "Personagem 1"
+ },
+ "modFunction_forceTrains_value2Name": {
+  "en": "Character 2",
+  "ch": "角色2",
+  "pt": "Personagem 2"
+ },
+ "modFunction_forceTrains_value3Name": {
+  "en": "Affinity to increase",
+  "ch": "增加的亲密度",
+  "pt": "Afinidade em aumento"
+ },
+ "modFunction_getWell_value1Name": {
+  "en": "Plot launched before status recovery",
+  "ch": "恢复状态前，打开的剧情",
+  "pt": "Plot lançado antes da recuperação do status"
+ },
+ "modFunction_gradePhaseUp_value1Name": {
+  "en": "Specify character",
+  "ch": "指定角色",
+  "pt": "Especifique o caractere"
+ },
+ "modFunction_intoDungeon_value3Desc": {
+  "en": "Dungeon level is limited to between 1 to 50. Each realm is corresponded to 5 levels. For example, in the foundation realm, Lv.10 is the most difficult, and Lv.6 is the easiest.\n\nDungeon level type info\n0- Fixed level: enter an offset value between 1 to 50 to set the dungeon level to a fixed value.\n\n1: E.g., when Player is in Foundation realm, the base dungeon level is 10. If you enter an offset value of -4, then the dungeon level will be 6.\n\n2: E.g., when Player is in Bai Yuan (Qi Refining), the base dungeon level is 5. If you enter an offset value of -3, then the dungeon level will be 2.",
+  "ch": "副本等级限制在1-50级，一个境界对应5级，如筑基期，10级副本代表筑基期最难副本，6级副本代表筑基期最简单副本。\n\n副本等级类型说明\n0-固定等级：副本等级偏移可以输入1-50，固定副本等级。\n\n1：例如当玩家是筑基境时，副本基础等级是10级，偏移填-4，那么副本等级就是6级。\n\n2：例如当玩家在白源区（练气境）时，副本基础等级是5，偏移填-3，那么副本等级是2级。",
+  "pt": "O nível do calabouço está limitado entre 1 e 50. Cada reino corresponde a 5 níveis. Por exemplo, na fundação reino, o nível 10 é o mais difícil, enquanto o nível 6 é o mais fácil.\n\nInformações sobre o tipo de nível do calabouço\n0- Nível fixo: insira um valor de deslocamento entre 1 e 50 para definir o nível do calabouço como um valor fixo.\n\n1: Por exemplo, quando o jogador está no Fundação reino, o nível base do calabouço é 10. Se você inserir um valor de deslocamento de -4, o nível do calabouço será 6.\n\n2: Por exemplo, quando o jogador está no Bai Yuan (Refinamento de Qi), o nível base do calabouço é 5. Se você inserir um valor de deslocamento de -3, o nível do calabouço será 2."
+ },
+ "modFunction_intoDungeon_value3Name": {
+  "en": "Dungeon level offset",
+  "ch": "副本等级偏移",
+  "pt": "Deslocamento do nível da masmorra"
+ },
+ "modFunction_itemQuantityTimes_value2Name": {
+  "en": "Percentage to set to",
+  "ch": "设置成百分之多少",
+  "pt": "Porcentagem a ser definida"
+ },
+ "modFunction_itemSelectAll_value1Name": {
+  "en": "Select UI tip text",
+  "ch": "选择UI上的提示文本",
+  "pt": "Selecionar texto de dica da interface"
+ },
+ "modFunction_itemSelectAll_value2Name": {
+  "en": "Quantity to select",
+  "ch": "需要选择的数量",
+  "pt": "Quantidade a selecionar"
+ },
+ "modFunction_itemSelectAll_value3Name": {
+  "en": "If consumed after selected",
+  "ch": "选择后是否消耗",
+  "pt": "Se consumido após a seleção"
+ },
+ "modFunction_itemSelectElement_value1Name": {
+  "en": "Select UI tip text",
+  "ch": "选择UI上的提示文本",
+  "pt": "Selecionar texto de dica da interface"
+ },
+ "modFunction_itemSelectElement_value2Name": {
+  "en": "Quantity to select",
+  "ch": "需要选择的数量",
+  "pt": "Quantidade a selecionar"
+ },
+ "modFunction_itemSelectElement_value3Name": {
+  "en": "Manual min level",
+  "ch": "秘籍最小等级",
+  "pt": "Nível mínimo do Manual"
+ },
+ "modFunction_itemSelectElement_value4Name": {
+  "en": "Manual max level",
+  "ch": "秘籍最大等级",
+  "pt": "Nível máximo do Manual"
+ },
+ "modFunction_itemSelectLevel_value1Name": {
+  "en": "Tip text",
+  "ch": "提示文本",
+  "pt": "Texto de dica"
+ },
+ "modFunction_itemSelectLevel_value2Name": {
+  "en": "Selected Item Qty",
+  "ch": "选择的物品数量",
+  "pt": "Quantidade do Item Selecionado"
+ },
+ "modFunction_itemSelectLevel_value3Name": {
+  "en": "Lowest Item Rarity",
+  "ch": "最小物品品质",
+  "pt": "Menor raridade do Item"
+ },
+ "modFunction_itemSelectLevel_value4Name": {
+  "en": "Highest Item Rarity",
+  "ch": "最大物品品质",
+  "pt": "Maior raridade de Item"
+ },
+ "modFunction_itemSelectLevel_value5Name": {
+  "en": "Item Main Category",
+  "ch": "物品大分类",
+  "pt": "Categoria principal do Item"
+ },
+ "modFunction_itemSelect_value1Name": {
+  "en": "Select UI tip text",
+  "ch": "选择UI上的提示文本",
+  "pt": "Selecionar texto de dica da interface"
+ },
+ "modFunction_itemSelect_value2Name": {
+  "en": "Quantity to select",
+  "ch": "需要选择的数量",
+  "pt": "Quantidade a selecionar"
+ },
+ "modFunction_itemSelect_value4Name": {
+  "en": "Classifications to restrict",
+  "ch": "限制的分类",
+  "pt": "Classificações a serem restringidas"
+ },
+ "modFunction_itemSelect_value5Name": {
+  "en": "ID of item restricted to select",
+  "ch": "限制选择的道具ID",
+  "pt": "ID do item restrito à seleção"
+ },
+ "modFunction_joinCurSchool_value1Name": {
+  "en": "Specify character",
+  "ch": "指定角色",
+  "pt": "Especifique o caractere"
+ },
+ "modFunction_killNPC_value1Name": {
+  "en": "Killer",
+  "ch": "杀人者",
+  "pt": "Assassino"
+ },
+ "modFunction_killNPC_value3Name": {
+  "en": "Killed",
+  "ch": "被杀者",
+  "pt": "Morto"
+ },
+ "modFunction_lookUnit_value1Name": {
+  "en": "Character to inspect",
+  "ch": "查看的角色",
+  "pt": "Caractere a ser inspecionado"
+ },
+ "modFunction_lootNpcSpecifiedItem_value4Name": {
+  "en": "Fixed value/percentage",
+  "ch": "固定值/百分比",
+  "pt": "Valor/porcentagem fixos"
+ },
+ "modFunction_lootNpcSpecifiedItem_value5Name": {
+  "en": "Quantity cap (-1 no cap)",
+  "ch": "数量上限（-1无上限）",
+  "pt": "Limite de quantidade (-1 sem limite)"
+ },
+ "modFunction_mapCreateBuildInRange_value2Name": {
+  "en": "World Map X Coordinate",
+  "ch": "大地图X坐标",
+  "pt": "Coordenada X da Mapa do Mundo"
+ },
+ "modFunction_mapCreateBuildInRange_value3Name": {
+  "en": "World Map Y Coordinate",
+  "ch": "大地图Y坐标",
+  "pt": "Coordenada Y da Mapa Mundial"
+ },
+ "modFunction_mapCreateBuildInRange_value4Name": {
+  "en": "Coordinates Min Area",
+  "ch": "坐标最小范围内",
+  "pt": "Coordenadas - Área mínima"
+ },
+ "modFunction_mapCreateBuildInRange_value5Name": {
+  "en": "Coordinates Max Area",
+  "ch": "坐标最大范围内",
+  "pt": "Coordenadas da Área Máxima"
+ },
+ "modFunction_mapCreateBuildInRange_value6Name": {
+  "en": "Teleport Destination X Coordinate",
+  "ch": "传送目的地X坐标",
+  "pt": "Coordenada X do destino do teletransporte"
+ },
+ "modFunction_mapCreateBuildInRange_value7Name": {
+  "en": "Teleport Destination Y Coordinate",
+  "ch": "传送目的地Y坐标",
+  "pt": "Coordenada Y do Destino do Teletransporte"
+ },
+ "modFunction_modifPlayerName_value1Name": {
+  "en": "Surname",
+  "ch": "姓",
+  "pt": "Sobrenome"
+ },
+ "modFunction_modifPlayerName_value2Name": {
+  "en": "Name",
+  "ch": "名",
+  "pt": "Nome"
+ },
+ "modFunction_monthLostItem_value1Name": {
+  "en": "Number of items lost min value",
+  "ch": "丢失的道具数量最小值",
+  "pt": "Valor mínimo do número de itemes perdidos"
+ },
+ "modFunction_monthLostItem_value2Name": {
+  "en": "Number of items lost max value",
+  "ch": "丢失的道具数量最大值",
+  "pt": "Número máximo de itens perdidos"
+ },
+ "modFunction_monthLostItem_value3Name": {
+  "en": "Min percentage of items lost",
+  "ch": "最少丢失的道具百分之多少",
+  "pt": "Percentual mínimo de itemes perdidos"
+ },
+ "modFunction_monthLostItem_value4Name": {
+  "en": "Max percentage of item lost",
+  "ch": "最多丢失的道具百分之多少",
+  "pt": "Percentual máximo de item perdido"
+ },
+ "modFunction_moveTownsSite_value1Desc": {
+  "en": "The tip text that pops up after all towns in the current region have been unlocked",
+  "ch": "当前区域所有城镇都已经解锁视野后，弹出的提示文本",
+  "pt": "O texto de dica que aparece após todos os itens da vila na região atual terem sido desbloqueados."
+ },
+ "modFunction_moveTownsSite_value1Name": {
+  "en": "Tip text - open field of view failed",
+  "ch": "打开视野失败提示文本",
+  "pt": "Texto de dica - o domínio de visão aberto falhou"
+ },
+ "modFunction_npcDramaGive_value2Name": {
+  "en": "Total value (spirit stone)",
+  "ch": "道具总价值（1价值=1灵石）",
+  "pt": "Valor total (pedra espiritual)"
+ },
+ "modFunction_npcDungeonReward_value2Name": {
+  "en": "How many times to generate",
+  "ch": "产出次数",
+  "pt": "Quantas vezes gerar"
+ },
+ "modFunction_npcItem_value2Name": {
+  "en": "Total value (spirit stone)",
+  "ch": "道具总价值（1价值=1灵石）",
+  "pt": "Valor total (pedra espiritual)"
+ },
+ "modFunction_npcRevive_value1Name": {
+  "en": "Last Breath Destiny",
+  "ch": "一丝元魂的气运",
+  "pt": "Último Suspiro Destino"
+ },
+ "modFunction_npcRevive_value2Name": {
+  "en": "If there is a plot ID, the plot will be played, and the NPC's Last Breath destiny will be removed after the plot.",
+  "ch": "有剧情id会先播放剧情，剧情结束后为npc解除一丝元魂气运",
+  "pt": "Se houver um enredo definido, este será executado, e o destino de Último Suspiro do NPC será removido após a conclusão do enredo."
+ },
+ "modFunction_pilferProbability_value1Name": {
+  "en": "Probability to increase (‱)",
+  "ch": "提高的概率（万分比）",
+  "pt": "Probabilidade de aumento (‱)"
+ },
+ "modFunction_pillFormulaStudyAll_value1Name": {
+  "en": "Learn all learnable Elixir Recipes?",
+  "ch": "是否立刻学会所有可学习的丹方",
+  "pt": "Você vai aprender todas as Receitas de Elixir que é possível aprender?"
+ },
+ "modFunction_pillFormulaStudyAll_value2Name": {
+  "en": "Learn all upgradeable Elixir Recipes?",
+  "ch": "是否立刻学会所有可升级的丹方",
+  "pt": "Quer conhecer todas as Receitas de Elixir que podem ser aprimoradas?"
+ },
+ "modFunction_replaceTrainAnime_value1Name": {
+  "en": "Animation name (Must put the prefabs into Resources/Effect/UI with AssetBundle)",
+  "ch": "动画名称（必须使用AB功能把预制体放到Resources/Effect/UI）",
+  "pt": "Nome da animação (Os prefabs devem ser colocados em Resources/Effect/UI com o AssetBundle)"
+ },
+ "modFunction_rewardCount_value1Name": {
+  "en": "Generate item",
+  "ch": "产出物品",
+  "pt": "Gerar item"
+ },
+ "modFunction_rewardCount_value2Name": {
+  "en": "How many times to generate",
+  "ch": "产出次数",
+  "pt": "Quantas vezes gerar"
+ },
+ "modFunction_rewardNPCBegMercy_value1Name": {
+  "en": "Character 1",
+  "ch": "角色1",
+  "pt": "Personagem 1"
+ },
+ "modFunction_rewardNPCBegMercy_value2Name": {
+  "en": "Character 2",
+  "ch": "角色2",
+  "pt": "Personagem 2"
+ },
+ "modFunction_schoolAttrModif_value2Name": {
+  "en": "Value increased",
+  "ch": "增加的值",
+  "pt": "Valor aumentou"
+ },
+ "modFunction_schoolReputationAdd_value2Name": {
+  "en": "Value changed",
+  "ch": "变化的值",
+  "pt": "Valor alterado"
+ },
+ "modFunction_setAttr_value2Name": {
+  "en": "Set to a specified value",
+  "ch": "设置为指定的数值",
+  "pt": "Definido para um valor específico"
+ },
+ "modFunction_setDramaUnitData_value1Desc": {
+  "en": "For example: If the character to extract on the left is set as the player, and the character to extract on the right is a certain character, then a plot will pop up to interact with that character.\n\nIf you only set the character to extract on the right, the character on the left will be the player by default.",
+  "ch": "例如：设置左边抓取的角色是玩家，右边抓取的角色是张三，则可以弹出剧情与张三互动。\n\n也可以只设置右边抓取的NPC，则左边默认是玩家。",
+  "pt": "Por exemplo: Se o personagem a ser extraído à esquerda for definido como o jogador, e o personagem a ser extraído à direita for um determinado personagem, então um enredo será exibido para interagir com esse personagem.\n\nSe você definir apenas o personagem a ser extraído à direita, o personagem à esquerda será, por padrão, o jogador."
+ },
+ "modFunction_setDramaUnitData_value1Name": {
+  "en": "Set the plot character to extract on the left",
+  "ch": "设置剧情左边抓取的角色",
+  "pt": "Defina o caractere de plotagem a ser extraído à esquerda"
+ },
+ "modFunction_setDramaUnitData_value2Name": {
+  "en": "Set the plot character to extract on the right",
+  "ch": "设置剧情右边抓取的角色",
+  "pt": "Defina o personagem da trama a ser extraído à direita"
+ },
+ "modFunction_setEventDuration_value1Name": {
+  "en": "Event ID",
+  "ch": "事件ID",
+  "pt": "ID do evento"
+ },
+ "modFunction_setEventDuration_value2Name": {
+  "en": "Remaining time (month, -1 means infinite)",
+  "ch": "剩余时间（月，-1无限）",
+  "pt": "Tempo restante (mês; -1 significa infinito)"
+ },
+ "modFunction_setEventDuration_value3Name": {
+  "en": "Command to execute when deleting event",
+  "ch": "事件删除时，执行的命令",
+  "pt": "Comando a ser executado ao excluir um evento"
+ },
+ "modFunction_setSchoolPost_value1Name": {
+  "en": "Specify character",
+  "ch": "指定角色",
+  "pt": "Especifique o caractere"
+ },
+ "modFunction_setSchoolPost_value2Name": {
+  "en": "Position set",
+  "ch": "设置的职位",
+  "pt": "Conjunto de posições"
+ },
+ "modFunction_setUnitAttr_value4Name": {
+  "en": "Value of stats",
+  "ch": "属性值",
+  "pt": "Valor dos atributos"
+ },
+ "modFunction_setUnitGhost_value3Name": {
+  "en": "Last Breath duration",
+  "ch": "元魂持续时间",
+  "pt": "Duração do Último Suspiro"
+ },
+ "modFunction_setUnitPoint_value2Name": {
+  "en": "Destination's X value",
+  "ch": "移动的X位置",
+  "pt": "Valor X do destino"
+ },
+ "modFunction_setUnitPoint_value3Name": {
+  "en": "Destination's Y value",
+  "ch": "移动的Y位置",
+  "pt": "Valor Y do destino"
+ },
+ "modFunction_setWorldData_value1Desc": {
+  "en": "Often used to mark data. For example, in [Adventure A], there's a [Button X], which carries a command that marks Player with [Key Y].\n\nThen, you can add [Key Y] to the second [Adventure B]'s triggering condition, making it only available when Player has completed [Adventure A].",
+  "ch": "一般用于标记，如有个奇遇是《遇到老奶奶》，奇遇有个按钮是《扶老奶奶过马路》，按钮上有个命令增加标记“玩家曾经扶了老奶奶过马路”。\n\n另一个奇遇是《剑仙老奶奶》，奇遇触发条件里可以判断标记“玩家曾经扶了老奶奶过马路”存在才能触发这个奇遇。",
+  "pt": "Geralmente usado para marcar dados. Por exemplo, na [Aventura A], existe um [Botão X] que contém um comando que marca o Jogador com a [Chave Y].\n\nDepois, você pode adicionar a [Chave Y] à condição de disparo da segunda [Aventura B], fazendo com que ela só fique disponível após o Jogador ter completado a [Aventura A]."
+ },
+ "modFunction_setWorldData_value1Name": {
+  "en": "key",
+  "ch": "key（标记）",
+  "pt": "chave"
+ },
+ "modFunction_setWorldData_value2Name": {
+  "en": "value",
+  "ch": "value（值）",
+  "pt": "valor"
+ },
+ "modFunction_sight_value1Name": {
+  "en": "Field of view",
+  "ch": "视野范围",
+  "pt": "Domínio de visão"
+ },
+ "modFunction_spriteClose_value2Name": {
+  "en": "Affinity Increase Min Value",
+  "ch": "亲密度增加最小值",
+  "pt": "Valor mínimo de aumento da Afinidade"
+ },
+ "modFunction_spriteClose_value3Name": {
+  "en": "Affinity Increase Max Value",
+  "ch": "亲密度增加最大值",
+  "pt": "Valor máximo de aumento da Afinidade"
+ },
+ "modFunction_stealTownNpcItem_value2Name": {
+  "en": "Obtained Item Qty",
+  "ch": "获取的道具数量",
+  "pt": "Quantidade de Item obtida"
+ },
+ "modFunction_stealTownNpcItem_value4Desc": {
+  "en": "If no item is found on the NPC, it will generate this item, otherwise it will generate the found item.",
+  "ch": "当在NPC身上获取不到道具时，产出此道具，否则产出获取的道具。",
+  "pt": "Se nenhum item for encontrado no NPC, ele gerará este item; caso contrário, gerará o item que foi encontrado."
+ },
+ "modFunction_stealTownNpcItem_value4Name": {
+  "en": "Default Item Drop",
+  "ch": "默认产出道具",
+  "pt": "Item padrão para drop"
+ },
+ "modFunction_stealTownNpcItem_value5Name": {
+  "en": "Default Item Drop Qty",
+  "ch": "默认产出道具数量",
+  "pt": "Quantidade padrão de itens a serem entregues"
+ },
+ "modFunction_systemTips_value1Name": {
+  "en": "Tip text",
+  "ch": "提示文本",
+  "pt": "Texto de dica"
+ },
+ "modFunction_systemTips_value2Name": {
+  "en": "Duration (millisecond)",
+  "ch": "持续时间（毫秒）",
+  "pt": "Duração (milissegundos)"
+ },
+ "modFunction_townAuctionAddItem_value2Name": {
+  "en": "Item",
+  "ch": "道具",
+  "pt": "Item"
+ },
+ "modFunction_unitAddImmortalPoint_value2Name": {
+  "en": "Added Immortal Power Pts",
+  "ch": "增加的仙力点",
+  "pt": "Adicionados Pontos de Poder Imortal"
+ },
+ "mod_banbenhao": {
+  "en": "Patch number:",
+  "ch": "版本号：",
+  "pt": "Número do patch:"
+ },
+ "mod_baocunbingtuichu": {
+  "en": "Save",
+  "ch": "保存",
+  "pt": "Salvar"
+ },
+ "mod_baocunchenggong": {
+  "en": "Saved!",
+  "ch": "保存成功！",
+  "pt": "Salvo!"
+ },
+ "mod_baocuntishi": {
+  "en": "<r>Save Project</r> before quitting?",
+  "ch": "是否<r>保存项目</r>在退出？",
+  "pt": "<r>Salvar projeto</r> antes de sair?"
+ },
+ "mod_baocunxiangmu": {
+  "en": "Save Project [F12]",
+  "ch": "保存项目[F12]",
+  "pt": "Salvar Projeto [F12]"
+ },
+ "mod_baohanmingganzi": {
+  "en": "Contains sensitive words \"{0}\". Please re-enter!",
+  "ch": "包含敏感字“{0}”，请重新输入！",
+  "pt": "Contém palavras sensíveis \"{0}\". Por favor, insira novamente!"
+ },
+ "mod_beijingyin": {
+  "en": "Background Sound",
+  "ch": "背景声音",
+  "pt": "Som de Fundo"
+ },
+ "mod_beizhu": {
+  "en": "Comment",
+  "ch": "批注",
+  "pt": "Comentário"
+ },
+ "mod_beizhuzhiyouui": {
+  "en": "Comment (Only displayed on Mod UI)",
+  "ch": "批注（仅在模组UI显示）",
+  "pt": "Comentário (Exibido apenas na interface do Mod)"
+ },
+ "mod_bendi1": {
+  "en": "Local Mods",
+  "ch": "本地模组",
+  "pt": "Mods Locais"
+ },
+ "mod_bendi10": {
+  "en": "Mod Root Directory",
+  "ch": "模组根目录",
+  "pt": "Diretório Raiz do Mod"
+ },
+ "mod_bendi11": {
+  "en": "All mods are stored in the Mod Root Directory. The name of each mod folder is Mod_xxxxxx. Download the mod and copy it to this directory.",
+  "ch": "模组根目录存放着所有的模组，每一个的模组文件夹名字为“Mod_xxxxxx”，玩家下载模组后，复制到此目录。",
+  "pt": "Todos os mods são armazenados no Diretório Raiz dos Mods. O nome de cada pasta de mod é Mod_xxxxxx. Faça o download do mod e copie-o para este diretório."
+ },
+ "mod_bendi12": {
+  "en": "Mod imported!",
+  "ch": "导入模组成功！",
+  "pt": "Mod importado!"
+ },
+ "mod_bendi13": {
+  "en": "Delete mod",
+  "ch": "删除模组",
+  "pt": "Excluir mod"
+ },
+ "mod_bendi14": {
+  "en": "A deleted mod cannot be restored. Continue?",
+  "ch": "删除模组后不可恢复，确认删除？",
+  "pt": "Um mod excluído não pode ser restaurado. Continuar?"
+ },
+ "mod_bendi16": {
+  "en": "Mod Info",
+  "ch": "模组信息",
+  "pt": "Info do Mod"
+ },
+ "mod_bendi2": {
+  "en": "Name",
+  "ch": "名称",
+  "pt": "Nome"
+ },
+ "mod_bendi3": {
+  "en": "Description",
+  "ch": "描述",
+  "pt": "Descrição"
+ },
+ "mod_bendi4": {
+  "en": "Name:",
+  "ch": "名称：",
+  "pt": "Nome:"
+ },
+ "mod_bendi5": {
+  "en": "Description:",
+  "ch": "描述：",
+  "pt": "Descrição:"
+ },
+ "mod_bendi6": {
+  "en": "Download more mods",
+  "ch": "下载更多模组",
+  "pt": "Baixe mais mods"
+ },
+ "mod_bendi7": {
+  "en": "Click to open the third-party sharing website to download other players' mods.",
+  "ch": "点击后打开第三方分享网站，下载其他玩家分享的模组。",
+  "pt": "Clique para abrir o site de compartilhamento de terceiros e baixar mods de outros jogadores."
+ },
+ "mod_bendi8": {
+  "en": "Import mod data",
+  "ch": "导入模组数据",
+  "pt": "Importar dados de módulo"
+ },
+ "mod_bendi9": {
+  "en": "Select the downloaded mod file ModExportData.cache",
+  "ch": "选择下载好的模组文件“ModExportData.cache”。",
+  "pt": "Selecione o arquivo do mod baixado: ModExportData.cache"
+ },
+ "mod_bendimozu": {
+  "en": "Manage Local Mods",
+  "ch": "管理本地模组",
+  "pt": "Gerenciar Mods Locais"
+ },
+ "mod_bendimozu2": {
+  "en": "Local Mod Root Directory",
+  "ch": "本地模组根目录",
+  "pt": "Diretório raiz do mod local"
+ },
+ "mod_bianji": {
+  "en": "Edit",
+  "ch": "编辑",
+  "pt": "Editar"
+ },
+ "mod_bianjiwancheng": {
+  "en": "Edit Complete",
+  "ch": "编辑完成",
+  "pt": "Edição concluída"
+ },
+ "mod_bianxiedaima": {
+  "en": "Write Code",
+  "ch": "代码编写",
+  "pt": "Escrever código"
+ },
+ "mod_bianxiedaima1": {
+  "en": "Open code directory",
+  "ch": "打开代码目录",
+  "pt": "Abrir diretório de código"
+ },
+ "mod_bianxiedaima2": {
+  "en": "Open tutorial directory",
+  "ch": "打开教程目录",
+  "pt": "Abrir o diretório de tutoriais"
+ },
+ "mod_bianxiedaima3": {
+  "en": "Modify code to create your mod. Starters are recommended to read the tutorial first.",
+  "ch": "可以通过修改代码的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
+  "pt": "Modifique o código para criar seu mod. Recomenda-se que os iniciantes leiam o tutorial primeiro."
+ },
+ "mod_bianxiedaima4": {
+  "en": "Code naming space:",
+  "ch": "代码命名空间：",
+  "pt": "Espaço de nomes de código:"
+ },
+ "mod_bianxiedaima5": {
+  "en": "The default naming space is the mod ID. You don't need to change it unless there is a clash with another mod.\n\nIf you have manually changed the naming space of the mod code, you need to change the naming space here in the same way, or DLL loading will fail!!!",
+  "ch": "默认命名空间是模组的ID，除非与其他模组的命名空间冲突，一般不需要重新定义命名空间。\n\n如果你手动更改了模组代码的命名空间，需要同步修改此位置的命名空间，否则DLL将加载失败！！！",
+  "pt": "O espaço de nomes padrão é o ID do mod. Você não precisa alterá-lo, a menos que haja conflito com outro mod.\n\nSe você alterou manualmente o espaço de nomes no código do mod, precisa alterar o espaço de nomes aqui da mesma forma; caso contrário, o carregamento do DLL falhará!!!"
+ },
+ "mod_biaoqian1": {
+  "en": "BornLuck",
+  "ch": "BornLuck",
+  "pt": "SorteNata"
+ },
+ "mod_biaoqian2": {
+  "en": "ChangeLifeLuck",
+  "ch": "ChangeLifeLuck",
+  "pt": "MudeAVidaASorte"
+ },
+ "mod_biaoqian3": {
+  "en": "Item",
+  "ch": "Item",
+  "pt": "Item"
+ },
+ "mod_biaoqian6": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_biaoqian7": {
+  "en": "Dress",
+  "ch": "Dress",
+  "pt": "Vestido"
+ },
+ "mod_biaoqianid1": {
+  "en": "Luck",
+  "ch": "Luck",
+  "pt": "Sorte"
+ },
+ "mod_biaoqianid3": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_biaoqianid4": {
+  "en": "Battle",
+  "ch": "Battle",
+  "pt": "Batalha"
+ },
+ "mod_biaoqianid5": {
+  "en": "Function",
+  "ch": "Function",
+  "pt": "Função"
+ },
+ "mod_biaoqianid6": {
+  "en": "Item",
+  "ch": "Item",
+  "pt": "Item"
+ },
+ "mod_biaoqianid7": {
+  "en": "Beautify",
+  "ch": "Beautify",
+  "pt": "Embelezar"
+ },
+ "mod_biaoqianid8": {
+  "en": "LargeIntegrated",
+  "ch": "LargeIntegrated",
+  "pt": "GrandeIntegrado"
+ },
+ "mod_biaoqianid9": {
+  "en": "OpenSource",
+  "ch": "OpenSource",
+  "pt": "Código Aberto"
+ },
+ "mod_biaoqianming1": {
+  "en": "Destiny",
+  "ch": "气运",
+  "pt": "Destino"
+ },
+ "mod_biaoqianming10": {
+  "en": "English",
+  "ch": "英语",
+  "pt": "Inglês"
+ },
+ "mod_biaoqianming2": {
+  "en": "Plot",
+  "ch": "剧情",
+  "pt": "Enredo"
+ },
+ "mod_biaoqianming3": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_biaoqianming4": {
+  "en": "Battle",
+  "ch": "战斗",
+  "pt": "Batalha"
+ },
+ "mod_biaoqianming5": {
+  "en": "Function",
+  "ch": "功能",
+  "pt": "Função"
+ },
+ "mod_biaoqianming6": {
+  "en": "Item",
+  "ch": "道具",
+  "pt": "Item"
+ },
+ "mod_biaoqianming7": {
+  "en": "Cosmetic",
+  "ch": "美化",
+  "pt": "Cosméticos"
+ },
+ "mod_biaoqianming8": {
+  "en": "Large Comprehensive",
+  "ch": "大型综合",
+  "pt": "Amplo e abrangente"
+ },
+ "mod_biaoqianming9": {
+  "en": "Open Source",
+  "ch": "开源",
+  "pt": "Código aberto"
+ },
+ "mod_bubaochun": {
+  "en": "Leave without saving the text?",
+  "ch": "不保存文本内容，直接退出？",
+  "pt": "Sair sem salvar o texto?"
+ },
+ "mod_budakaijuqing": {
+  "en": "Don't launch plot",
+  "ch": "不打开剧情",
+  "pt": "Não inicie o enredo"
+ },
+ "mod_bunengxuan0": {
+  "en": "Cannot be selected at the same time as 0!",
+  "ch": "不能和0同时选择！",
+  "pt": "Não pode ser selecionado ao mesmo tempo que 0!"
+ },
+ "mod_buxuanzheshijian": {
+  "en": "No story point selected",
+  "ch": "不选择事件点",
+  "pt": "Nenhum ponto da história selecionado"
+ },
+ "mod_buzhuaqunpc": {
+  "en": "Don't extract NPC",
+  "ch": "不抓取NPC",
+  "pt": "Não extraia NPC"
+ },
+ "mod_cangbaotu1": {
+  "en": "Create World map event",
+  "ch": "创建大地图事件",
+  "pt": "Criar evento de mapa mundial"
+ },
+ "mod_cangbaotu2": {
+  "en": "When an Artifact Map is used, a World map event is created in a specified location.",
+  "ch": "当使用藏宝图时，会在指定位置创建一个大地图事件。",
+  "nomes": {
+   "Artifact Map": "Mapa do Artefato da Lâmpada da Alma"
+  },
+  "pt": "Ao usar um Mapa de Artefatos, um evento de Mapa do Mundo é criado em um local específico."
+ },
+ "mod_cangbaotu3": {
+  "en": "World map X coordinate",
+  "ch": "大地图X坐标",
+  "pt": "Coordenada X do mapa mundial"
+ },
+ "mod_cangbaotu4": {
+  "en": "World map Y coordinate",
+  "ch": "大地图Y坐标",
+  "pt": "Coordenada Y do mapa mundial"
+ },
+ "mod_cangbaotu5": {
+  "en": "Random Radius",
+  "ch": "随机半径",
+  "pt": "Raio Aleatório"
+ },
+ "mod_cangbaotu6": {
+  "en": "Item Cost",
+  "ch": "消耗道具",
+  "pt": "Custo do Item"
+ },
+ "mod_cangbaotu7": {
+  "en": "Item Cost Quantity",
+  "ch": "消耗道具数量",
+  "pt": "Item Custo Quantidade"
+ },
+ "mod_caozuoshuoming": {
+  "en": "Ctrl+C: Copy data\nCtrl+V: Paste data\nCtrl+D: Create new data and paste",
+  "ch": "Ctrl+C：复制数据\nCtrl+V：粘贴数据\nCtrl+D：新建数据并粘贴",
+  "pt": "Ctrl+C: Copiar dados\nCtrl+V: Colar dados\nCtrl+D: Criar novos dados e colá-los"
+ },
+ "mod_chanchubiaoti": {
+  "en": "Produce {0}×{1}",
+  "ch": "产出{0} x{1}",
+  "pt": "Produzir {0}×{1}"
+ },
+ "mod_chanchumiaoshu": {
+  "en": "When multiple productions are set at the same time, one of them is produced based on the random importance of every production.\n\nTip: Multiple commands can be set to produce items multiple times.",
+  "ch": "当同时配置了多个产出时，根据每个产出的权重随机，产出其中的一条。\n\n提示：可以配置多条命令，产出多次道具。",
+  "pt": "Quando várias produções são configuradas ao mesmo tempo, uma delas é produzida com base na importância aleatória de cada produção.\n\nDica: É possível configurar múltiplos comandos para produzir itens diversas vezes."
+ },
+ "mod_chanchuquanzhong": {
+  "en": "Random Importance",
+  "ch": "随机权重",
+  "pt": "Importância aleatória"
+ },
+ "mod_chanchuquanzhongshuoming": {
+  "en": "When multiple productions are set, the higher the importance, the greater the chance of this item being produced (When there are multiple productions set at the same time, one will be randomly produced)\nTip: Multiple commands can be set to produce items multiple times.\n\nFor example:\nConfiguration 1 is set to not produce any item with a random weight of 90.\nConfiguration 2 is set to produce 888 Spirit Stones with a random weight of 10.\nTherefore, it has 90% chance to produce no item and 10% chance to produce 888 Spirit Stones.",
+  "ch": "当配置了多个产出时，权重越高，此物品产出的概率越高（同时配置多个产出时，只会随机产出其中一个）\n提示：可以配置多条命令，产出多次道具。\n\n例如：\n配置1设置不产出任何东西，随机权重90。\n配置2设置产出灵石888，随机权重10。\n则有百分之90概率不产出任何东西，百分之10概率产出灵石888。",
+  "pt": "Quando várias produções são configuradas, quanto maior a importância, maior a chance desse item ser produzido (Quando há múltiplas produções configuradas simultaneamente, uma delas será produzida aleatoriamente).\nDica: É possível configurar múltiplos comandos para produzir itens várias vezes.\n\nPor exemplo:\nA Configuração 1 está definida para não produzir nenhum item, com uma probabilidade aleatória de 90.\nA Configuração 2 está definida para produzir 888 Pedras Espirituais, com uma probabilidade aleatória de 10.\nPortanto, há 90% de chance de não ser produzido nenhum item e 10% de chance de serem produzidas 888 Pedras Espirituais."
+ },
+ "mod_chanchushuoming1": {
+  "en": "Martial Skill",
+  "ch": "武技",
+  "pt": "Técnica Marcial"
+ },
+ "mod_chanchushuoming10": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchushuoming11": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchushuoming12": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchushuoming2": {
+  "en": "Special Skill",
+  "ch": "绝技",
+  "pt": "Técnica Especial"
+ },
+ "mod_chanchushuoming3": {
+  "en": "Motion Skill",
+  "ch": "身法",
+  "pt": "Técnica de Movimento"
+ },
+ "mod_chanchushuoming4": {
+  "en": "Mind Skill",
+  "ch": "心法",
+  "pt": "Técnica Mental"
+ },
+ "mod_chanchushuoming5": {
+  "en": "Ultimate Skill",
+  "ch": "神通",
+  "pt": "Técnica Suprema"
+ },
+ "mod_chanchushuoming6": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchushuoming7": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchushuoming8": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchushuoming9": {
+  "en": "Chance to drop Manual",
+  "ch": "有概率产出秘籍",
+  "pt": "Chance de obter o Manual"
+ },
+ "mod_chanchutiaojian1": {
+  "en": "Drop Condition",
+  "ch": "产出条件",
+  "pt": "Condição de queda"
+ },
+ "mod_chanchutiaojian2": {
+  "en": "If the condition is not met, this entry does not drop any item.",
+  "ch": "当条件不达成时，此条产出不会产出物品。",
+  "pt": "Se a condição não for atendida, esta entrada não fornecerá nenhum item."
+ },
+ "mod_chatudiushi": {
+  "en": "This scene has been deleted and cannot be used!",
+  "ch": "此插图已删除，无法使用！",
+  "pt": "Esta cena foi excluída e não pode ser usada!"
+ },
+ "mod_chichuntishi": {
+  "en": "Picture dimensions incorrect!\nPicture dimensions must be: Width {0}, Height {1}",
+  "ch": "图片宽高尺寸不正确！\n图片尺寸必须是：宽：{0} 高：{1}",
+  "pt": "As dimensões da imagem estão incorretas!\nAs dimensões da imagem devem ser: Largura {0}, Altura {1}"
+ },
+ "mod_chichunyaoqiu": {
+  "en": "Image standard measurements: Width {0}, Height {1}",
+  "ch": "图片标准尺寸：宽{0} 高{1}",
+  "pt": "Medidas padrão da imagem: Largura {0}, Altura {1}"
+ },
+ "mod_chixushijian": {
+  "en": "Duration:",
+  "ch": "持续时间：",
+  "pt": "Duração:"
+ },
+ "mod_chongtutishi": {
+  "en": "If there is not ID conflict between multiple Mods, do not change the ID or there will be a data loss error in the archive where the Mod has been loaded!",
+  "ch": "如果没有出现多个模组之间的ID冲突，请勿更改ID，否则已经载入过此模组的存档会出现数据丢失的问题！！！",
+  "pt": "Se não houver conflito de IDs entre vários mods, não altere o ID; caso contrário, ocorrerá um erro de perda de dados no arquivo onde o mod foi carregado!"
+ },
+ "mod_chuancheng1": {
+  "en": "Traditional Dungeon",
+  "ch": "传承副本",
+  "pt": "Masmorra Tradicional"
+ },
+ "mod_chuancheng2": {
+  "en": "The dungeon to enter when challenging Tradition. Dungeon victory means Tradition challenge victory.",
+  "ch": "挑战传承时，进入的副本，副本胜利，则挑战传承成功。",
+  "pt": "A masmorra a ser entrada ao desafiar a Tradição. A vitória na masmorra significa vitória no desafio da Tradição."
+ },
+ "mod_chuangjianchenggong": {
+  "en": "Created a Mod Project!",
+  "ch": "创建模组成功！",
+  "pt": "Criei um projeto de mod!"
+ },
+ "mod_chuangjianmozu": {
+  "en": "Create a Mod Project",
+  "ch": "创建模组项目",
+  "pt": "Criar um projeto de mod"
+ },
+ "mod_chuangjiannpc": {
+  "en": "Generate NPC",
+  "ch": "创建NPC",
+  "pt": "Gerar NPC"
+ },
+ "mod_chuangjiannpc1": {
+  "en": "Initial Age (years old)",
+  "ch": "初始年龄（多少岁）",
+  "pt": "Idade inicial (anos)"
+ },
+ "mod_chuangjiannpc10": {
+  "en": "Customize Relationship Number",
+  "ch": "自定义关系数量",
+  "pt": "Personalizar número de relacionamento"
+ },
+ "mod_chuangjiannpc11": {
+  "en": "Who am I to \"{0}\"?",
+  "ch": "我是“{0}”的谁？",
+  "pt": "Quem sou eu para \"{0}\"?"
+ },
+ "mod_chuangjiannpc12": {
+  "en": "You can customize the number of relationships for this NPC, set its status in regard to the player, or its status with other NPCs.",
+  "ch": "可自定义此NPC的关系数量，设置此NPC是玩家的谁，或者设置此NPC是其他NPC的谁。",
+  "pt": "Você pode personalizar o número de relações deste NPC, definir seu status em relação ao jogador ou seu status com outros NPCs."
+ },
+ "mod_chuangjiannpc13": {
+  "en": "Heaven-chosen or not",
+  "ch": "是否是天骄",
+  "pt": "Escolhido pelo Céu ou não"
+ },
+ "mod_chuangjiannpc14": {
+  "en": "Whether a generated NPC is Heaven-chosen by default.",
+  "ch": "创建NPC后，NPC是否默认为天骄。",
+  "pt": "Se um NPC gerado é, por padrão, escolhido pelo Céu."
+ },
+ "mod_chuangjiannpc15": {
+  "en": "Live forever or not",
+  "ch": "是否永生",
+  "pt": "Viver para sempre ou não"
+ },
+ "mod_chuangjiannpc16": {
+  "en": "If set as Live Forever, the NPC will never die.",
+  "ch": "如设置成永生，则NPC不会死亡。",
+  "pt": "Se configurado como \"Vivo para Sempre\", o NPC nunca morrerá."
+ },
+ "mod_chuangjiannpc2": {
+  "en": "Surname",
+  "ch": "姓",
+  "pt": "Sobrenome"
+ },
+ "mod_chuangjiannpc3": {
+  "en": "Name",
+  "ch": "名",
+  "pt": "Nome"
+ },
+ "mod_chuangjiannpc4": {
+  "en": "Destiny (Nature)",
+  "ch": "先天气运",
+  "pt": "Destino (Natureza)"
+ },
+ "mod_chuangjiannpc5": {
+  "en": "Internal Traits",
+  "ch": "内在性格",
+  "pt": "Características Internas"
+ },
+ "mod_chuangjiannpc6": {
+  "en": "External Traits",
+  "ch": "外在性格",
+  "pt": "Características Externas"
+ },
+ "mod_chuangjiannpc7": {
+  "en": "Customize Male Appearance",
+  "ch": "自定义男性模型",
+  "pt": "Personalize a aparência masculina"
+ },
+ "mod_chuangjiannpc8": {
+  "en": "Customize Female Appearance",
+  "ch": "自定义女性模型",
+  "pt": "Personalize a aparência feminina"
+ },
+ "mod_chuangjiannpc9": {
+  "en": "Customize Stats",
+  "ch": "自定义属性",
+  "pt": "Personalize os Atributos"
+ },
+ "mod_chuangjianqiyu": {
+  "en": "Create Adventure",
+  "ch": "创建奇遇",
+  "pt": "Criar Aventura"
+ },
+ "mod_chuangjianqiyun": {
+  "en": "Create Destiny",
+  "ch": "创建气运",
+  "pt": "Crie seu Destino"
+ },
+ "mod_chuangjianshijian": {
+  "en": "Creation Time {0}",
+  "ch": "创建时间{0}",
+  "pt": "Horário de criação {0}"
+ },
+ "mod_chufatiaojian": {
+  "en": "Trigger condition:",
+  "ch": "触发条件：",
+  "pt": "Condição de disparo:"
+ },
+ "mod_chungjiannpc": {
+  "en": "Generate NPC",
+  "ch": "创建NPC",
+  "pt": "Gerar NPC"
+ },
+ "mod_chushiqinmidu": {
+  "en": "Initial Affinity (Negative Affinity = Hatred)",
+  "ch": "双方初始亲密度（负数为仇恨度）",
+  "pt": "Afinidade Inicial (Afinidade Negativa = Ódio)"
+ },
+ "mod_chushishouming": {
+  "en": "If set as 0, it will use the initial lifespan based on the Realm",
+  "ch": "填0，使用根据境界初始化的寿命",
+  "pt": "Se definido como 0, será utilizada a longevidade inicial com base no Reino."
+ },
+ "mod_dabaoxiangmu1": {
+  "en": "Package the project and send to the developer",
+  "ch": "打包项目给开发组",
+  "pt": "Empacote o projeto e envie ao desenvolvedor"
+ },
+ "mod_dabaoxiangmu2": {
+  "en": "After packaging the project, it can be re-edited. This way, it can be packaged when an error occurs to give feedback to its developer or shared to other players for further development.",
+  "ch": "打包项目后可进行二次编辑，可用于报错时打包给开发组进行反馈或分享给其他玩家进行二次开发。",
+  "pt": "Após o empacotamento do projeto, ele pode ser reeditado. Dessa forma, ele pode ser empacotado novamente quando ocorrer um erro, para fornecer feedback ao seu desenvolvedor, ou compartilhado com outros players para desenvolvimento adicional."
+ },
+ "mod_dakaiwangye": {
+  "en": "Open Workshop browser version!",
+  "ch": "打开创意工坊网页版！",
+  "pt": "Abra a versão do navegador do Workshop!"
+ },
+ "mod_danfang": {
+  "en": "Elixir Recipe",
+  "ch": "丹方",
+  "pt": "Receita de Elixir"
+ },
+ "mod_danweic": {
+  "en": "NPC-C",
+  "ch": "NPC-C",
+  "pt": "NPC-C"
+ },
+ "mod_danweic1": {
+  "en": "Some condition may search for an additional NPC and set the NPC found as C to be used for subsequent conditions.\n\nFor example: bcRelationType condition: Searches in NPC-B's specified relationship list for an NPC who has a specified relationship with NPC-A. If there is one, sets the NPC found as C.\nNPC-C will be available in subsequent conditions.",
+  "ch": "某些条件会查找一个额外的NPC，查找成功后，会把NPC设置成C，用于后续条件使用。\n\n例如：bcRelationType条件：查找NPC-B指定关系列表是否有一个NPC和NPC-A是指定关系，如查找得到则设置此NPC为C。\n然后在后续条件则可使用NPC-C的判定。",
+  "pt": "Alguma condição pode procurar por um NPC adicional e definir o NPC encontrado como C, para ser utilizado em condições subsequentes.\n\nPor exemplo: condição bcRelationType: Procura na lista de relações especificada do NPC-B por um NPC que tenha uma relação específica com o NPC-A. Se houver um, define o NPC encontrado como C.\nO NPC-C ficará disponível nas condições subsequentes."
+ },
+ "mod_danweileixing": {
+  "en": "Specify character type",
+  "ch": "指定角色类型",
+  "pt": "Especifique o tipo de caractere"
+ },
+ "mod_danyao1": {
+  "en": "Elixir Effect",
+  "ch": "丹药效果",
+  "pt": "Efeito Elixir"
+ },
+ "mod_danyao2": {
+  "en": "Effect applied to the player after using the Elixir.",
+  "ch": "使用丹药后，对玩家施加的效果。",
+  "pt": "Efeito aplicado ao jogador após o uso do Elixir."
+ },
+ "mod_danyao4": {
+  "en": "Stat requirement to use item",
+  "ch": "使用道具需求资质限制",
+  "pt": "Requisito de estatística para usar o item"
+ },
+ "mod_danyao5": {
+  "en": "Requires stats to reach a certain value to use the item",
+  "ch": "需要指定资质达到多少才能使用此道具",
+  "pt": "É necessário que os atributos atinjam um valor mínimo para usar o item."
+ },
+ "mod_danyao6": {
+  "en": "Stats have to be below a certain value to use the Elixir",
+  "ch": "资质低于多少数值才能使用丹药",
+  "pt": "Os Atributos devem estar abaixo de um determinado valor para que se possa usar o Elixir."
+ },
+ "mod_danyaokexiedaishuliang": {
+  "en": "The max amount to be carried in battle",
+  "ch": "战斗可携带数量",
+  "pt": "A quantidade máxima que pode ser carregada durante uma batalha"
+ },
+ "mod_danyaozhuangbei": {
+  "en": "Equippable or not",
+  "ch": "是否可装备",
+  "pt": "Pode ser equipado ou não"
+ },
+ "mod_danyaozhuangbeitishi": {
+  "en": "Only equipped elixirs that increase Vitality/Energy/Focus take effect in dungeons.",
+  "ch": "只有增加体灵念的丹药，装备后在副本中才能生效。",
+  "pt": "Apenas os elixires equipados que aumentam a Vitalidade, a Energia ou o Foco têm efeito nas masmorras."
+ },
+ "mod_daochu": {
+  "en": "Choose a save path",
+  "ch": "选择保存的路径",
+  "pt": "Escolha um caminho para salvar"
+ },
+ "mod_daochuchenggong": {
+  "en": "Exported Mod",
+  "ch": "导出模组成功",
+  "pt": "Mod exportado"
+ },
+ "mod_daochugongcheng1": {
+  "en": "Export Project",
+  "ch": "导出工程",
+  "pt": "Projeto de Exportação"
+ },
+ "mod_daochugongcheng2": {
+  "en": "After exporting the mod project, it can be re-edited. This way, it can be exported when an error occurs to give feedback to its developer or shared to other players for further development.",
+  "ch": "导出模组工程后可进行二次编辑，可用于报错时导出给开发组进行反馈或分享给其他玩家进行二次开发。",
+  "pt": "Após exportar o projeto do mod, ele pode ser reeditado. Dessa forma, ele pode ser exportado novamente quando ocorrer um erro, para fornecer feedback ao seu desenvolvedor, ou compartilhado com outros jogadores para desenvolvimento adicional."
+ },
+ "mod_daochugongcheng4": {
+  "en": "Project exported",
+  "ch": "导出工程成功",
+  "pt": "Projeto exportado"
+ },
+ "mod_daochumozu": {
+  "en": "Export Mod",
+  "ch": "导出模组",
+  "pt": "Mod de Exportação"
+ },
+ "mod_daochumulu": {
+  "en": "Select the directory to export to",
+  "ch": "选择导出的目录",
+  "pt": "Selecione o diretório para exportar."
+ },
+ "mod_daohao": {
+  "en": "Taoist Title",
+  "ch": "道号",
+  "pt": "Título Daoísta"
+ },
+ "mod_daoju1": {
+  "en": "Item",
+  "ch": "道具",
+  "pt": "Item"
+ },
+ "mod_daoju2": {
+  "en": "Item Name",
+  "ch": "道具名称",
+  "pt": "Nome do Item"
+ },
+ "mod_daoju3": {
+  "en": "UI Main Category",
+  "ch": "所属UI大分类",
+  "pt": "Categoria principal da interface do usuário"
+ },
+ "mod_daoju4": {
+  "en": "Generally used for UI display and search classification",
+  "ch": "一般用于UI显示和查找归类。",
+  "pt": "Geralmente usado para exibição na interface do usuário e classificação de buscas."
+ },
+ "mod_daoju5": {
+  "en": "UI Subcategory",
+  "ch": "所属UI小分类",
+  "pt": "Subcategoria de UI"
+ },
+ "mod_daoju6": {
+  "en": "Generally used for UI display and search classification",
+  "ch": "一般用于UI显示和查找归类。",
+  "pt": "Geralmente usado para exibição na interface do usuário e classificação de busca."
+ },
+ "mod_daoju7": {
+  "en": "Item Icon",
+  "ch": "道具图标",
+  "pt": "Ícone do Item"
+ },
+ "mod_daoju8": {
+  "en": "Item Rarity",
+  "ch": "道具品质",
+  "pt": "Raridade do Item"
+ },
+ "mod_daoju9": {
+  "en": "Item Description",
+  "ch": "道具说明",
+  "pt": "Descrição do Item"
+ },
+ "mod_daojubiaozhunchicun": {
+  "en": "Standard size of the item icon is 60×60",
+  "ch": "道具图标的标准尺寸是60*60",
+  "pt": "O tamanho padrão do ícone do item é 60×60."
+ },
+ "mod_daojuid": {
+  "en": "Item ID",
+  "ch": "道具ID",
+  "pt": "ID do Item"
+ },
+ "mod_daojujiazhi": {
+  "en": "Item sale price(-1 cannot be sold)",
+  "ch": "道具出售价格（-1无法出售）",
+  "pt": "Preço de venda do Item (-1 não pode ser vendido)"
+ },
+ "mod_daojuleixing": {
+  "en": "Item Type",
+  "ch": "道具类型",
+  "pt": "Tipo de Item"
+ },
+ "mod_daojushuliang1": {
+  "en": "Item Quantity",
+  "ch": "道具数量",
+  "pt": "Quantidade do Item"
+ },
+ "mod_daojushuliang2": {
+  "en": "Item quantity produced",
+  "ch": "产出的道具数量",
+  "pt": "Quantidade do Item produzida"
+ },
+ "mod_daojutubiao": {
+  "en": "Item Icon",
+  "ch": "道具图标",
+  "pt": "Ícone do Item"
+ },
+ "mod_daoruchengong": {
+  "en": "Imported",
+  "ch": "导入成功",
+  "pt": "Importado"
+ },
+ "mod_daorumozhu": {
+  "en": "Import Mod",
+  "ch": "导入模组",
+  "pt": "Importar Módulo"
+ },
+ "mod_daorushibai": {
+  "en": "Mod import failed!\nMod name: {0}\nError: {1} table ID duplicate {2}",
+  "ch": "模组导入失败！\n模组名称：{0}\n错误：{1}表ID重复{2}",
+  "pt": "Falha na importação do mod!\nNome do mod: {0}\nErro: Tabela {1} contém ID duplicado {2}"
+ },
+ "mod_daorushuju": {
+  "en": "Select Import Data",
+  "ch": "选择导入的数据",
+  "pt": "Selecione \"Importar Dados\""
+ },
+ "mod_daorutishi1": {
+  "en": "Select mod data folder Mod_xxxxxx to export",
+  "ch": "选择导出的模组数据文件夹“Mod_xxxxxx”",
+  "pt": "Selecione a pasta de dados do mod Mod_xxxxxx para exportar."
+ },
+ "mod_daorutishi2": {
+  "en": "Select mod data folder Mod_xxxxxx to export",
+  "ch": "请选择“导出的”模组数据文件夹“Mod_xxxxxx”",
+  "pt": "Selecione a pasta de dados do mod Mod_xxxxxx para exportar."
+ },
+ "mod_daoxin": {
+  "en": "Taoist Mind",
+  "ch": "道心",
+  "pt": "Coração do Dao"
+ },
+ "mod_daozhong": {
+  "en": "Taoist Seed",
+  "ch": "道种",
+  "pt": "Semente Daoísta"
+ },
+ "mod_dianjishuru": {
+  "en": "Click Edit...",
+  "ch": "点击编辑...",
+  "pt": "Clique em Editar..."
+ },
+ "mod_dianjishurutishi": {
+  "en": "Select the data you wish to edit, and insert the desired Stats. The highest Stats may affect NPCs' Starting Skills",
+  "ch": "点击数值编辑，输入想要的属性值，最高资质会影响NPC的初始技能类型。",
+  "pt": "Selecione os dados que deseja editar e insira os Atributos desejados. Os Atributos mais altos podem influenciar nas Habilidades iniciais dos NPCs."
+ },
+ "mod_dianjisuiji": {
+  "en": "Click Random ID",
+  "ch": "点击随机ID",
+  "pt": "Clique em ID Aleatório"
+ },
+ "mod_dianzan": {
+  "en": "Rating",
+  "ch": "评分",
+  "pt": "Avaliação"
+ },
+ "mod_dianzhanguoshao": {
+  "en": "Too few likes",
+  "ch": "点赞过少",
+  "pt": "Poucos curtidos"
+ },
+ "mod_dingyuechenggong1": {
+  "en": "Subscription successful!",
+  "ch": "订阅成功！",
+  "pt": "Assinatura realizada com sucesso!"
+ },
+ "mod_dingyuechenggong2": {
+  "en": "Please navigate to \"Local Mods\" to manually activate this mod!",
+  "ch": "请到“本地模组”手动启用此模组！",
+  "pt": "Por favor, vá para \"Local Mods\" para ativar manualmente este mod!"
+ },
+ "mod_ditudian3": {
+  "en": "Region to search",
+  "ch": "查找的区域",
+  "pt": "Região para pesquisa"
+ },
+ "mod_ditudian4": {
+  "en": "E.g., if you want to search all the towns, you can add a restriction to only search towns in a specified region.",
+  "ch": "例如查找的是所有城镇，可以限制区域，只查找指定区域的城镇。",
+  "pt": "Por exemplo, se você quiser buscar todas as vilas, pode adicionar uma restrição para pesquisar apenas as vilas em uma região específica."
+ },
+ "mod_ditudian5": {
+  "en": "World map x coordinate",
+  "ch": "大地图X坐标",
+  "pt": "Coordenada X do mapa mundial"
+ },
+ "mod_ditudian6": {
+  "en": "World map y coordinate",
+  "ch": "大地图Y坐标",
+  "pt": "Coordenada Y do mapa mundial"
+ },
+ "mod_dituweizhi": {
+  "en": "World Map Location",
+  "ch": "大地图位置",
+  "pt": "Localização no Mapa Mundial"
+ },
+ "mod_dituweizhishuoming": {
+  "en": "World map location is often used in missions and adventures, such as the mission target location (use the world map's location function to find the location of the specified event)",
+  "ch": "大地图位置一般在任务，奇遇上会使用，如任务目标点（通过大地图位置功能，可以查找指定事件的位置）",
+  "pt": "A localização no mapa mundial é frequentemente utilizada em missões e aventuras; por exemplo, para indicar o local do alvo da missão (use a função de localização do mapa mundial para encontrar onde ocorrerá o evento especificado)."
+ },
+ "mod_dituweizi": {
+  "en": "World Map Location",
+  "ch": "大地图位置",
+  "pt": "Localização no Mapa Mundial"
+ },
+ "mod_diushitishi1": {
+  "en": "Remove lost mod notice",
+  "ch": "清理丢失提示",
+  "pt": "Remover aviso de mod perdido"
+ },
+ "mod_diushitishi2": {
+  "en": "Remove all deleted mod notices permanently and enter the game?",
+  "ch": "是否永久清理所有移除的模组提示，并进入游戏？",
+  "pt": "Remover permanentemente todos os avisos de mods excluídos e entrar no jogo?"
+ },
+ "mod_duoxuan": {
+  "en": "(multi-select)",
+  "ch": "（多选）",
+  "pt": "(seleção múltipla)"
+ },
+ "mod_fabaoid": {
+  "en": "Artifact ID",
+  "ch": "法宝ID",
+  "pt": "ID do Artefato"
+ },
+ "mod_fabaoshuxingda": {
+  "en": "Random maximum Stats (Percentage)",
+  "ch": "属性随机最大值（百分比）",
+  "pt": "Máximo aleatório de Atributos (Percentual)"
+ },
+ "mod_fabaoshuxingmiaoshu": {
+  "en": "Artifacts of each Realm have their standard stats (ATK, DEF, Vitality, etc.)\n\nFor example, if you create a Qi Refining Artifact, its standard ATK is 12 and Vitality is 120.\n\nIf the minimum and maximum values for random stats are both 200, then the Artifact's actual ATK will be 24 and Vitality will be 240.",
+  "ch": "每个境界的法宝都有标准属性（攻击、防御、体力等等属性）\n\n例如：创建的是炼气期法宝，炼气期标准攻击力是12，体力是120。\n\n假如属性随机最小最大值都填的是200，那么此炼气期的法宝实际属性，攻击力是24，体力是240。",
+  "pt": "Os Artefatos de cada Reino possuem seus atributos padrão (ATQ, DEF, Vitalidade, etc.)\n\nPor exemplo, se você criar um Artefato de Refinamento de Qi, seu ATQ padrão é 12 e sua Vitalidade é 120.\n\nSe os valores mínimo e máximo para os atributos aleatórios forem ambos 200, então o ATQ real do Artefato será 24 e a Vitalidade será 240."
+ },
+ "mod_fabaoshuxingxiao": {
+  "en": "Random minimum Stats (Percentage)",
+  "ch": "属性随机最小值（百分比）",
+  "pt": "Mínimo aleatório de Atributos (Percentual)"
+ },
+ "mod_fanweisuiji": {
+  "en": "Randomize in approximate area around Player",
+  "ch": "在玩家多少范围内随机",
+  "pt": "Randomize na área aproximada ao redor do Jogador"
+ },
+ "mod_fanweisuiji1": {
+  "en": "For example, if you fill in 1, the NPC spawns under the player's feet. If you fill in 3, the NPC spawns in a random location within 3 circumferences of the player.",
+  "ch": "例如填1：则NPC出生时在玩家脚底。填3：则NPC出生时在玩家周围3圈内随机一个位置。",
+  "pt": "Por exemplo, se você inserir 1, o NPC aparecerá aos pés do jogador. Se inserir 3, o NPC aparecerá em um local aleatório dentro de um raio de 3 unidades ao redor do jogador."
+ },
+ "mod_faq1": {
+  "en": "Tutorial",
+  "ch": "教程",
+  "pt": "Tutorial"
+ },
+ "mod_faq2": {
+  "en": "Open",
+  "ch": "打开",
+  "pt": "Aberto"
+ },
+ "mod_faq3": {
+  "en": "Tutorial List",
+  "ch": "教程列表",
+  "pt": "Lista de Tutoriais"
+ },
+ "mod_feiqibiaoji": {
+  "en": "Mark as invalid",
+  "ch": "标记废弃",
+  "pt": "Marcar como inválido"
+ },
+ "mod_feiqibiaojitishi": {
+  "en": "When the Mod is online, deleting a table may cause data loss in a save that has been loaded with this Mod (E.g., if the Destiny table that has been loaded to a save is deleted, the Destiny data will be lost). You may mark the table as invalid instead. This will move it to the bottom of the line.",
+  "ch": "当模组上线后，删除表有可能会导致载入过此模组的存档丢失数据（例如气运表，存档已经添加了这个气运，但是气运数据被删除了），可以标记为废弃，将会改变表的排序到最底下。",
+  "pt": "Quando o mod está ativo, excluir uma tabela pode causar perda de dados em um save que tenha sido carregado com este mod (por exemplo, se a tabela de Destino carregada em um save for excluída, os dados de Destino serão perdidos). Em vez disso, você pode marcar a tabela como inválida. Isso a moverá para o final da lista."
+ },
+ "mod_fenbianlvtishi": {
+  "en": "16:9 (Common resolutions 1920×1080, 960×540, 480×270)",
+  "ch": "16：9（常用分辨率1920*1080、960*540、480*270）",
+  "pt": "16:9 (Resoluções comuns: 1920×1080, 960×540, 480×270)"
+ },
+ "mod_fenxiang": {
+  "en": "Export Mod",
+  "ch": "导出模组",
+  "pt": "Mod de Exportação"
+ },
+ "mod_fenxiang1": {
+  "en": "Export Mod",
+  "ch": "导出模组",
+  "pt": "Mod de Exportação"
+ },
+ "mod_fenxiang2": {
+  "en": "Share to friend",
+  "ch": "分享给朋友",
+  "pt": "Compartilhar com um amigo"
+ },
+ "mod_fenxiang3": {
+  "en": "1. Click on Export Mod to generate the mod file.\n2. Open Local Mods in the main interface and import the mod to activate it.",
+  "ch": "1：点击“导出模组”，会生成模组文件。\n2：打开主界面的“本地模组”导入后模组才能生效。",
+  "pt": "1. Clique em \"Exportar Mod\" para gerar o arquivo do mod.  \n2. Abra \"Mods Locais\" na interface principal e importe o mod para ativá-lo."
+ },
+ "mod_fenxiang4": {
+  "en": "After exporting the mod, you need to open Local Mods in the main interface and import the mod to activate it.\n\nA shared mod cannot be re-edited. It can be uploaded to be shared to other players, who can import the mod to play it.",
+  "ch": "导出模组后，打开主界面的“本地模组”导入后模组才能生效。\n\n分享的模组不可进行二次编辑，用于上传分享，其他玩家可导入模组游玩此模组。",
+  "pt": "Após exportar o mod, você precisa abrir \"Mods Locais\" na interface principal e importar o mod para ativá-lo.\n\nUm mod compartilhado não pode ser reeditado. Ele pode ser enviado para ser compartilhado com outros jogadores, que poderão importá-lo para jogar."
+ },
+ "mod_fenzu1": {
+  "en": "Change group",
+  "ch": "移动分组",
+  "pt": "Alterar grupo"
+ },
+ "mod_fenzu10": {
+  "en": "You cannot delete or modify the default group!",
+  "ch": "不能删除、修改默认分组！",
+  "pt": "Você não pode excluir ou modificar o grupo padrão!"
+ },
+ "mod_fenzu11": {
+  "en": "You are about to leave Tale of Immortal and head for a third-party platform.",
+  "ch": "您即将离开鬼谷八荒，去往第三方平台。",
+  "pt": "Você está prestes a sair do Tale of Imortal e ir para uma plataforma de terceiros."
+ },
+ "mod_fenzu2": {
+  "en": "When there are too many configurations, you may sort them into different groups for ease of reference.\n\nFor example: There are 5 major plots, and each plot consists of dozens of dialogue lines, so you may create 5 groups to sort the plots.",
+  "ch": "当配置过多时，归类不同的分组，方便查阅。\n\n例如：有5大剧情，每个剧情几十条对话数据，则可新建5个分组归类剧情。",
+  "pt": "Quando há muitas configurações, você pode organizá-las em grupos diferentes para facilitar a referência.\n\nPor exemplo: Existem 5 enredos principais, e cada enredo é composto por dezenas de linhas de diálogo; portanto, você pode criar 5 grupos para organizar os enredos."
+ },
+ "mod_fenzu3": {
+  "en": "+",
+  "ch": "+",
+  "pt": "+"
+ },
+ "mod_fenzu4": {
+  "en": "Default group",
+  "ch": "默认分组",
+  "pt": "Grupo padrão"
+ },
+ "mod_fenzu5": {
+  "en": "The group is empty and has been deleted!",
+  "ch": "分组数据列表为空，分组已删除！",
+  "pt": "O grupo está vazio e foi excluído!"
+ },
+ "mod_fenzu6": {
+  "en": "Create new group",
+  "ch": "创建新的分组",
+  "pt": "Criar novo grupo"
+ },
+ "mod_fenzu7": {
+  "en": "There is already a group with this name!",
+  "ch": "存在相同名字的分组！",
+  "pt": "Já existe um grupo com esse nome!"
+ },
+ "mod_fenzu8": {
+  "en": "Delete this group? All data will be moved to the default group.",
+  "ch": "是否删除此分组？删除后，所有数据移动到默认分组。",
+  "pt": "Excluir este grupo? Todos os dados serão movidos para o grupo padrão."
+ },
+ "mod_fenzu9": {
+  "en": "Edit group name",
+  "ch": "修改分组名称",
+  "pt": "Editar nome do grupo"
+ },
+ "mod_fuben1": {
+  "en": "Dungeon Name",
+  "ch": "副本名称",
+  "pt": "Nome do Calabouço"
+ },
+ "mod_fuben10": {
+  "en": "Elite Monster List",
+  "ch": "精英怪物列表",
+  "pt": "Lista de Monstros de Elite"
+ },
+ "mod_fuben11": {
+  "en": "Elite Monster Qty Per Wave",
+  "ch": "精英怪物每波创建数量",
+  "pt": "Quantidade de Monstros de Elite por onda"
+ },
+ "mod_fuben12": {
+  "en": "Enter -1 to generate all the monsters in the list.\n\nExample 1: Monster Waves set as 3, 10 monsters in Monster List, Qty Per Wave set as -1.\nAs a result, 3 waves of monsters are generated in one room, and each wave consists of the 10 monsters in the Monster List, that is, 30 monsters in total in the room.\n\nExample 2: Monster Waves set as 3, 10 monsters in Monster List, Qty Per Wave set as 5.\nAs a result, 3 waves of monsters are generated in one room, and each wave consists of 5 random monsters from the Monster List, that is, 15 monsters in total in the room.",
+  "ch": "填-1，则创建列表里的全部怪物。\n\n例子1：怪物波数填3；怪物列表填10只怪物；每波创建数量填-1。\n则一个房间里生成3波怪物，每一波把怪物列表里的10只怪物创建出来，一个房间里总共30个怪物。\n\n例子2：怪物波数填3；怪物列表填10只怪物，每波创建数量填5。\n则一个房间里生成3波怪物，每一波在怪物列表里随机选择创建5个怪物，一个房间里总共15个怪物。",
+  "pt": "Insira -1 para gerar todos os monstros na lista.\n\nExemplo 1: O número de Ondas de Monstros está definido como 3; há 10 monstros na Lista de Monstros; a Quantidade por Onda está definida como -1.\nComo resultado, são geradas 3 ondas de monstros em uma única sala, e cada onda contém os 10 monstros da Lista de Monstros, totalizando 30 monstros na sala.\n\nExemplo 2: O número de Ondas de Monstros está definido como 3; há 10 monstros na Lista de Monstros; a Quantidade por Onda está definida como 5.\nNesse caso, são geradas 3 ondas de monstros em uma única sala, e cada onda contém 5 monstros aleatórios escolhidos da Lista de Monstros, totalizando 15 monstros na sala."
+ },
+ "mod_fuben13": {
+  "en": "Create BOSS room?",
+  "ch": "是否创建BOSS房间",
+  "pt": "Criar sala do BOSS?"
+ },
+ "mod_fuben14": {
+  "en": "If you create a BOSS room, there will be an extra BOSS room.\n\nTip: Room qty can be set as 0. If you create a BOSS room, there will only be a BOSS room and no normal rooms.",
+  "ch": "如果选择创建BOSS房间，则会额外生成一个BOSS房间。\n\n提示：房间数量可以配置为0，设置创建BOSS房间，则只会有一个BOSS房间，没有普通房间。",
+  "pt": "Se você criar uma sala de BOSS, haverá uma sala de BOSS adicional.\n\nDica: A quantidade de salas pode ser definida como 0. Se você criar uma sala de BOSS, haverá apenas uma sala de BOSS e nenhuma sala normal."
+ },
+ "mod_fuben15": {
+  "en": "BOSS Monster List",
+  "ch": "BOSS怪物列表",
+  "pt": "Lista de Monstros Chefes"
+ },
+ "mod_fuben16": {
+  "en": "When generating a BOSS, a random BOSS is generated according to the weights set in the Monster List.",
+  "ch": "创建BOSS时，会在怪物列表里根据配置的权重，随机选择创建一个BOSS。",
+  "pt": "Ao gerar um BOSS, um BOSS aleatório é criado de acordo com as ponderações definidas na Lista de Monstros."
+ },
+ "mod_fuben17": {
+  "en": "Execute command after dungeon victory",
+  "ch": "副本胜利后执行命令",
+  "pt": "Execute o comando após a vitória na masmorra"
+ },
+ "mod_fuben18": {
+  "en": "Execute command after dungeon defeat",
+  "ch": "副本失败后执行命令",
+  "pt": "Execute o comando após a derrota na masmorra"
+ },
+ "mod_fuben19": {
+  "en": "With or without battle preparation interface",
+  "ch": "是否有战斗准备界面",
+  "pt": "Com ou sem interface de preparação para a batalha"
+ },
+ "mod_fuben2": {
+  "en": "Dungeon Scene",
+  "ch": "副本场景",
+  "pt": "Cena da masmorra"
+ },
+ "mod_fuben20": {
+  "en": "When set to Yes, battle preparation interface is opened before executing Enter Dungeon command on the world map.\n\nWhen set to No, you enter the dungeon immediately after executing Enter Dungeon command on the world map.",
+  "ch": "如果填是，则在大地图执行进入副本命令前，会打开战斗准备界面。\n\n如果填否，则在大地图执行进入副本命令后立刻进入副本。",
+  "pt": "Quando definido como Sim, a interface de preparação para batalha é aberta antes de executar o comando \"Entrar na Masmorra\" no mapa do mundo.\n\nQuando definido como Não, você entra na masmorra imediatamente após executar o comando \"Entrar na Masmorra\" no mapa do mundo."
+ },
+ "mod_fuben21": {
+  "en": "Scene Width",
+  "ch": "场景宽度",
+  "pt": "Largura da cena"
+ },
+ "mod_fuben22": {
+  "en": "Scene Height",
+  "ch": "场景高度",
+  "pt": "Altura da cena"
+ },
+ "mod_fuben23": {
+  "en": "The width of the screen in a standard scene is 40.\n\nNote: This parameter is fixed for some scenes. If you find the scene not properly displayed in the game, don't try to change the default width and height of the scene.",
+  "ch": "标准场景一个屏幕的宽度，数值为40。\n\n注意：部分场景不可修改大小，如若进游戏发现场景显示异常，请不要修改场景宽高默认值。",
+  "pt": "A largura da tela em uma cena padrão é 40.\n\nObservação: Este parâmetro é fixo para algumas cenas. Se você perceber que a cena não está sendo exibida corretamente no jogo, não tente alterar a largura e a altura padrão da cena."
+ },
+ "mod_fuben24": {
+  "en": "The height of the screen in a standard scene is 20.\n\nNote: This parameter is fixed for some scenes. If you find the scene not properly displayed in the game, don't try to change the default width and height of the scene.",
+  "ch": "标准场景一个屏幕的高度，数值为20。\n\n注意：部分场景不可修改大小，如若进游戏发现场景显示异常，请不要修改场景宽高默认值。",
+  "pt": "A altura da tela em uma cena padrão é 20.\n\nObservação: Este parâmetro é fixo para algumas cenas. Se você perceber que a cena não é exibida corretamente no jogo, não tente alterar a largura e a altura padrão da cena."
+ },
+ "mod_fuben25": {
+  "en": "Battle Time Limit (-1 means no limit)",
+  "ch": "战斗时间限制（-1无限制）",
+  "pt": "Limite de tempo para a Batalha (-1 significa sem limite)"
+ },
+ "mod_fuben26": {
+  "en": "Can be used with victory or defeat conditions.\n\nFor example, if the dungeon time limit is set to 30 seconds, and the victory condition is dungeon time out, the player wins if the player survives until the dungeon timer runs out.",
+  "ch": "可结合胜利、失败条件使用。\n\n例如：配置副本时间限制30秒，胜利条件为，到达副本时间限制，则玩家在副本坚持到时间结束后则胜利。",
+  "pt": "Pode ser usado com condições de vitória ou derrota.\n\nPor exemplo, se o limite de tempo da masmorra for definido como 30 segundos, e a condição de vitória for o término do tempo da masmorra, o jogador vence se conseguir sobreviver até que o cronômetro da masmorra chegue ao fim."
+ },
+ "mod_fuben27": {
+  "en": "World Map Dungeon Icon",
+  "ch": "大地图副本图标",
+  "pt": "Ícone de masmorra: Mapa do Mundo"
+ },
+ "mod_fuben3": {
+  "en": "Width and height can not be customized in some scenes.",
+  "ch": "部分场景不可自定义宽高。",
+  "pt": "A largura e a altura não podem ser personalizadas em algumas cenas."
+ },
+ "mod_fuben4": {
+  "en": "Room Qty",
+  "ch": "房间数量",
+  "pt": "Quantidade de quartos"
+ },
+ "mod_fuben5": {
+  "en": "Decide how many normal rooms to create. If you create a BOSS room, there will be an extra BOSS room.\n\nTip: Room qty can be set as 0. If you create a BOSS room, there will only be a BOSS room and no normal rooms.",
+  "ch": "决定创建几个普通房间，如果设置创建BOSS房间，则会额外多出一个BOSS房间。\n\n提示：房间数量可以配置为0，设置创建BOSS房间，则只会有一个BOSS房间，没有普通房间。",
+  "pt": "Decida quantos quartos normais criar. Se você criar um quarto de CHEFE, haverá um quarto de CHEFE adicional.\n\nDica: A quantidade de quartos pode ser definida como 0. Se você criar um quarto de CHEFE, haverá apenas um quarto de CHEFE e nenhum quarto normal."
+ },
+ "mod_fuben6": {
+  "en": "Normal Monster Waves",
+  "ch": "普通怪物波数",
+  "pt": "Ondas normais de Monstros"
+ },
+ "mod_fuben7": {
+  "en": "Normal Monster List",
+  "ch": "普通怪物列表",
+  "pt": "Lista de Monstros Comuns"
+ },
+ "mod_fuben8": {
+  "en": "Normal Monster Qty Per Wave",
+  "ch": "普通怪物每波创建数量",
+  "pt": "Quantidade normal de Monstros por onda"
+ },
+ "mod_fuben9": {
+  "en": "Elite Monster Waves",
+  "ch": "精英怪物波数",
+  "pt": "Ondas de Monstros de Elite"
+ },
+ "mod_fumianqiyun": {
+  "en": "(Negative)",
+  "ch": "（负面）",
+  "pt": "(Negativo)"
+ },
+ "mod_fuzhishuju": {
+  "en": "Copy data",
+  "ch": "复制数据",
+  "pt": "Copiar dados"
+ },
+ "mod_fuzhitishi": {
+  "en": "Note: Effects, commands, and conditions cannot be copied. Such data will be lost after copying the configuration!",
+  "ch": "注意：效果、命令、条件，是不可复制的，复制配置后这些数据会丢失！",
+  "pt": "Nota: Efeitos, comandos e condições não podem ser copiados. Esses dados serão perdidos após a cópia da configuração!"
+ },
+ "mod_gaojigongneng": {
+  "en": "Advanced Functions",
+  "ch": "高级功能",
+  "pt": "Funções Avançadas"
+ },
+ "mod_gaojipeizhi": {
+  "en": "Advanced settings (Default values can be used)",
+  "ch": "高级配置（可使用默认值）",
+  "pt": "Configurações avançadas (Valores padrão podem ser utilizados)"
+ },
+ "mod_gengduocaozuo": {
+  "en": "More",
+  "ch": "更多",
+  "pt": "Mais"
+ },
+ "mod_gengxin": {
+  "en": "Update",
+  "ch": "更新",
+  "pt": "Atualização"
+ },
+ "mod_gengxinriqi": {
+  "en": "Update Date:",
+  "ch": "更新日期：",
+  "pt": "Data da atualização:"
+ },
+ "mod_geyue": {
+  "en": "{0} month(s)",
+  "ch": "{0}个月",
+  "pt": "{0} mês(es)"
+ },
+ "mod_gongnengliebiao": {
+  "en": "Function List",
+  "ch": "功能列表",
+  "pt": "Lista de Funções"
+ },
+ "mod_guaiwu1": {
+  "en": "Monster Name",
+  "ch": "怪物名称",
+  "pt": "Nome do Monstro"
+ },
+ "mod_guaiwu10": {
+  "en": "The higher the weight, the more likely this monster is generated.\n\nFor example: There are 10 monsters in the Dungeon Monster List, and Qty Per Wave is set as 2, then 2 monsters are randomly picked from the list to be generated every wave. The higher the weight of a monster, the more likely it is generated.\n\nTip: You are advised to set the weight of a monster that drops rare items slightly lower.",
+  "ch": "权重越高，则创建出来的概率越高。\n\n例如：副本怪物列表有10个怪物，每波创建数量2，则每波都会在10个怪物里面随机选择两个怪物创建，权重越高越容易创建。\n\n提示：一般掉落稀有道具的怪物，可稍微降低出现权重。",
+  "pt": "Quanto maior o peso, maior a chance desse monstro ser gerado.\n\nPor exemplo: Se houver 10 monstros na Lista de Monstros do Calabouço e a Quantidade por Onda estiver definida como 2, então 2 monstros serão escolhidos aleatoriamente da lista para serem gerados a cada onda. Quanto maior o peso de um monstro, maior a probabilidade de ele ser gerado.\n\nDica: Recomenda-se definir um peso um pouco menor para um monstro que solta item raros."
+ },
+ "mod_guaiwu11": {
+  "en": "Monster List",
+  "ch": "怪物列表",
+  "pt": "Lista de Monstros"
+ },
+ "mod_guaiwu12": {
+  "en": "Monster",
+  "ch": "怪物",
+  "pt": "Monstro"
+ },
+ "mod_guaiwu13": {
+  "en": "Specified Stats Scale Ratio",
+  "ch": "指定属性缩放百分比",
+  "pt": "Proporção de escala dos Atributos especificados"
+ },
+ "mod_guaiwu14": {
+  "en": "Scales up or down specified stats.\n\nFor example: If you scale up HP by x10, the monster will have a very high HP.",
+  "ch": "可以缩放指定的属性。\n\n例如：可以把血量缩放10倍，则最终怪物血量会非常高。",
+  "pt": "Aumenta ou diminui os atributos especificados.\n\nPor exemplo: Se você aumentar os pontos de vida em 10 vezes, o monstro terá uma quantidade muito alta de HP."
+ },
+ "mod_guaiwu15": {
+  "en": "Specified Stats",
+  "ch": "指定属性",
+  "pt": "Atributos Especificados"
+ },
+ "mod_guaiwu16": {
+  "en": "Stats Scale",
+  "ch": "属性缩放百分比",
+  "pt": "Escala dos Atributos"
+ },
+ "mod_guaiwu17": {
+  "en": "100 (x1) by default. For example, if you set it to 1,000 and scale up HP, the monster's final HP will be 10 times the normal value.",
+  "ch": "默认100（一倍），例如指定属性hp，缩放1000，则怪物最终的血量比正常的高10倍。",
+  "pt": "O valor padrão é 100 (x1). Por exemplo, se você definir esse valor como 1.000 e aumentar a escala de HP, o HP final do monstro será 10 vezes maior que o valor normal."
+ },
+ "mod_guaiwu18": {
+  "en": "Monster Specified Stats Scale",
+  "ch": "怪物指定属性缩放",
+  "pt": "Escala de Atributos Específicos do Monstro"
+ },
+ "mod_guaiwu19": {
+  "en": "After setting a name, if the monster is a BOSS, its name will be displayed over its head.",
+  "ch": "配置名称后，若怪物是BOSS，会在顶部显示BOSS名称。",
+  "pt": "Após definir um nome, se o monstro for um CHEFE, seu nome será exibido acima de sua cabeça."
+ },
+ "mod_guaiwu2": {
+  "en": "Monster Model",
+  "ch": "怪物模型",
+  "pt": "Modelo de Monstro"
+ },
+ "mod_guaiwu20": {
+  "en": "(The width and height of a scene with a fixed size cannot be changed)",
+  "ch": "（固定大小的场景，不可修改场景宽高）",
+  "pt": "(A largura e a altura de uma cena com tamanho fixo não podem ser alteradas)"
+ },
+ "mod_guaiwu21": {
+  "en": "Monster Model includes monster skills. Each monster model has a fixed set of skills.",
+  "ch": "怪物模型包含了怪物技能，怪物模型和技能是绑定的。",
+  "pt": "O modelo de Monstro inclui as habilidades do monstro. Cada modelo de monstro possui um conjunto fixo de habilidades."
+ },
+ "mod_guaiwu22": {
+  "en": "Dungeon",
+  "ch": "副本",
+  "pt": "Masmorra"
+ },
+ "mod_guaiwu23": {
+  "en": "Monster",
+  "ch": "怪物",
+  "pt": "Monstro"
+ },
+ "mod_guaiwu24": {
+  "en": "(BOSS)",
+  "ch": "（BOSS）",
+  "pt": "(CHEFE)"
+ },
+ "mod_guaiwu27": {
+  "en": "All Monsters",
+  "ch": "所有怪物",
+  "pt": "Todos os Monstros"
+ },
+ "mod_guaiwu28": {
+  "en": "Normal Monsters",
+  "ch": "普通怪物",
+  "pt": "Monstros Comuns"
+ },
+ "mod_guaiwu29": {
+  "en": "Elite Monsters",
+  "ch": "精英怪物",
+  "pt": "Monstros de Elite"
+ },
+ "mod_guaiwu3": {
+  "en": "Overall Stats Percentage",
+  "ch": "整体属性百分比",
+  "pt": "Porcentagem geral dos Atributos"
+ },
+ "mod_guaiwu30": {
+  "en": "BOSS Monsters",
+  "ch": "BOSS怪物",
+  "pt": "Monstros Chefes"
+ },
+ "mod_guaiwu31": {
+  "en": "Preview",
+  "ch": "预览",
+  "pt": "Visualização"
+ },
+ "mod_guaiwu32": {
+  "en": "Scene Background Music",
+  "ch": "场景背景音乐",
+  "pt": "Música de fundo para cenas"
+ },
+ "mod_guaiwu33": {
+  "en": "Model Size Percentage",
+  "ch": "模型大小百分比",
+  "pt": "Porcentagem do Tamanho do Modelo"
+ },
+ "mod_guaiwu34": {
+  "en": "Scales up or down monster size.\n\nFor example: If you set normal monster size scale to 200, a normal monster will be 2 times larger and can be used as a BOSS.",
+  "ch": "缩放怪物的模型大小。\n\n例如：把普通小怪的模型缩放值填200，那么小怪将放大2倍，可以当成BOSS使用。",
+  "pt": "Ajusta o tamanho do monstro para maior ou menor.\n\nPor exemplo: Se você definir a escala do tamanho do monstro normal como 200, um monstro normal ficará 2 vezes maior e poderá ser usado como um CHEFE."
+ },
+ "mod_guaiwu4": {
+  "en": "100 (x1) by default. For example, if it is set as 1,000, monster stats will be tenfold. When entering a Qi Refining Realm dungeon, the monster stats will be roughly the same as the Qi Condensation Realm.\n\nTip: If a monster drops rare items, you are advised to slightly raise its stats percentage.",
+  "ch": "默认100（一倍），例如填1000，则怪物是原来的十倍属性，进入炼气期副本，此怪物属性大约和结晶期一样。\n\n提示：如某个怪物会产出稀有物品，则可相应的提高一点属性百分比。",
+  "pt": "100 (x1) por padrão. Por exemplo, se o valor for definido como 1.000, os atributos do monstro serão dez vezes maiores. Ao entrar em uma masmorra do Reino de Refinamento de Qi, os atributos do monstro serão aproximadamente os mesmos do Reino de Condensação de Qi.\n\nDica: Se um monstro derrama itens raros, recomenda-se aumentar ligeiramente a porcentagem dos seus atributos."
+ },
+ "mod_guaiwu5": {
+  "en": "First Kill Item Drop",
+  "ch": "首次击杀后掉落的物品",
+  "pt": "Primeiro Item a ser obtido após a morte"
+ },
+ "mod_guaiwu6": {
+  "en": "If first kill drop is configured, killing the monster for the first time will trigger the first kill drop, not the normal drop.",
+  "ch": "如果配置了首次击杀掉落，则第一次杀死此怪物会走首次掉落，不走普通掉落。",
+  "pt": "Se a recompensa pela primeira morte estiver configurada, ao matar o monstro pela primeira vez será concedida essa recompensa, e não a recompensa normal."
+ },
+ "mod_guaiwu7": {
+  "en": "Kill Item Drop",
+  "ch": "击杀后掉落的物品",
+  "pt": "Queda de Item ao Matar"
+ },
+ "mod_guaiwu8": {
+  "en": "Item dropped by the monster when it's killed.\n\nTip: You may set a chance to drop some Spirit Stones.",
+  "ch": "击杀怪物后，会产出什么东西。\n\n提示：可配置有概率掉落一些灵石。",
+  "pt": "Item deixado pelo monstro ao ser morto.\n\nDica: Você pode definir uma chance de soltar algumas Pedras Espirituais."
+ },
+ "mod_guaiwu9": {
+  "en": "Appearance Weight",
+  "ch": "出现权重",
+  "pt": "Aparência Peso"
+ },
+ "mod_haotianyanjineng": {
+  "en": "Eye of Providence Skill",
+  "ch": "昊天眼技能",
+  "pt": "Habilidade: Olho da Providência"
+ },
+ "mod_huodong": {
+  "en": "Activity",
+  "ch": "活动",
+  "pt": "Atividade"
+ },
+ "mod_huyao": {
+  "en": "Imp",
+  "ch": "壶妖",
+  "pt": "Diabrete"
+ },
+ "mod_idchongtutishi": {
+  "en": "Note: If it is an ID conflict error, if the conflicting ID cannot be found in the Mod, the ID was created dynamically when the Mod was exported and you just need to re-export the Mod!",
+  "ch": "注意：如果是ID冲突错误，冲突的ID如果无法在模组中找到，则此ID是导出模组时动态创建的，只需要重新导出模组即可！",
+  "pt": "Observação: Se for um erro de conflito de ID, e se o ID em conflito não puder ser encontrado no Mod, isso significa que o ID foi criado dinamicamente quando o Mod foi exportado. Nesse caso, basta reexportar o Mod!"
+ },
+ "mod_idfanwei": {
+  "en": "The ID range is not available: -10001 to 100000000 (One hundred million)",
+  "ch": "此范围ID不可使用：-10001到100000000（一亿）",
+  "pt": "O intervalo de IDs não está disponível: -10001 a 100000000 (cem milhões)."
+ },
+ "mod_idkefuzhi": {
+  "en": "ID (Can be copy-pasted)",
+  "ch": "ID（可复制粘贴）",
+  "pt": "ID (Pode ser copiado e colado)"
+ },
+ "mod_idtishi": {
+  "en": "ID is a unique identifier of a data item in a data table. Duplicate IDs in the same table leads to ID conflict.\n\nIf there are ID conflicts between multiple Mods, the Mod author has to change the ID manually.\n\nIDs are randomized automatically, and when the duplicate ID is randomized, the imported Mod fails and the author has to randomize the ID again.",
+  "ch": "ID是数据表里一项数据的唯一标识，当同一个表的ID重复时，将会导致ID冲突。\n\n多个模组之间的ID冲突时，需要模组作者手动修改ID。\n\nID会自动随机，当随机到重复ID时，导入模组会失败，需要作者重新随机ID。",
+  "pt": "O ID é um identificador único de um item de dados em uma tabela de dados. IDs duplicados na mesma tabela resultam em conflitos de ID.\n\nCaso haja conflitos de ID entre vários Mods, o autor do Mod precisa alterar o ID manualmente.\n\nOs IDs são gerados aleatoriamente; contudo, quando um ID duplicado é gerado, a importação do Mod falha e o autor precisa gerar o ID novamente."
+ },
+ "mod_jiaruzongmentishi": {
+  "en": "You may have an NPC join a Sect only after you add a new Minor Sect, customize an existing Sect, or add a new Normal Sect.",
+  "ch": "只有新增了小宗门，或者自定义了现有宗门，或者新增了普通宗门，才能让NPC加入宗门。",
+  "pt": "Você só pode fazer com que um NPC se junte a uma Seita após adicionar uma nova Seita Menor, personalizar uma Seita existente ou adicionar uma nova Seita Normal."
+ },
+ "mod_jiazai1": {
+  "en": "Unsubscribed!",
+  "ch": "已取消加载！",
+  "pt": "Cancelado!"
+ },
+ "mod_jiazai2": {
+  "en": "Successfully added to game!",
+  "ch": "成功加载到游戏中！",
+  "pt": "Adicionado ao jogo com sucesso!"
+ },
+ "mod_jiazai3": {
+  "en": "Unable to find local mod files. Please confirm that the download is complete, or try resubscribing!",
+  "ch": "找不到本地模组文件，请确保已经下载完成，或尝试重新订阅！",
+  "pt": "Não foi possível encontrar os arquivos do mod local. Por favor, confirme se o download foi concluído ou tente se inscrever novamente!"
+ },
+ "mod_jiazaichenggong": {
+  "en": "Loaded a Mod Project!",
+  "ch": "加载模组成功！",
+  "pt": "Carregado um projeto de mod!"
+ },
+ "mod_jiazaidaoyouxi": {
+  "en": "Loaded to the game",
+  "ch": "加载到游戏中",
+  "pt": "Carregado para o jogo"
+ },
+ "mod_jiazaimozu": {
+  "en": "Load a Mod Project",
+  "ch": "加载模组项目",
+  "pt": "Carregar um projeto de mod"
+ },
+ "mod_jiazaimozutishi": {
+  "en": "This save has played the following mod.",
+  "ch": "此存档游玩过以下模组。",
+  "pt": "Esta save rodou o seguinte mod."
+ },
+ "mod_jiazaitishi1": {
+  "en": "Load into the game?",
+  "ch": "是否加载到游戏中？",
+  "pt": "Carregar no jogo?"
+ },
+ "mod_jiazaitishi2": {
+  "en": "After checking it, the mod will be loaded into the game.",
+  "ch": "勾选后，模组将会加载进游戏中。",
+  "pt": "Após a verificação, o mod será carregado no jogo."
+ },
+ "mod_jibenpeizhi": {
+  "en": "Basic settings",
+  "ch": "基本配置",
+  "pt": "Configurações básicas"
+ },
+ "mod_jichugongneng": {
+  "en": "Basic Functions",
+  "ch": "基础功能",
+  "pt": "Funções básicas"
+ },
+ "mod_jiezhi_gezirongliang": {
+  "en": "Inventory slots added",
+  "ch": "增加的背包格子容量",
+  "pt": "Slots de inventário adicionados"
+ },
+ "mod_jiezhi_xiaoguo": {
+  "en": "Ring Effect",
+  "ch": "戒指效果",
+  "pt": "Efeito do Anel"
+ },
+ "mod_jineng1": {
+  "en": "Cannot find BattleSkillBase Configuration Table.\n\nPlease click the \"Tutorial\" at the bottom right of the main interface and open \"MOD Template Examples\". Then, copy the folder \"MOD模板例子\\\\技能配置例子\\\\ModProject\\\\ModExcel\" and paste it to ModProject\\\\ModExcel.\n\nYou could also manually create a configuration for martial skills in Excel.",
+  "ch": "找不到BattleSkillBase配置表，调试技能需要先配置好技能。\n\n请到主界面右下角点击“教程”按钮，然后打开“MOD模板例子”，复制“MOD模板例子\\\\技能配置例子\\\\ModProject\\\\ModExcel”文件夹到你工程中ModProject\\\\ModExcel。\n\n或者自己手动创建技能Excel配置。",
+  "pt": "Não é possível encontrar a Tabela de Configuração BattleSkillBase.\n\nPor favor, clique em \"Tutorial\" no canto inferior direito da interface principal e abra \"Exemplos de Modelos de MOD\". Em seguida, copie a pasta \"MOD模板例子\\\\技能配置例子\\\\ModProject\\\\ModExcel\" e cole-a em ModProject\\\\ModExcel.\n\nVocê também pode criar manualmente uma configuração para técnica marcial no Excel."
+ },
+ "mod_jineng10": {
+  "en": "Effect name (copied to the clipboard): {0}",
+  "ch": "特效名（已复制到剪切板）：{0}",
+  "pt": "Nome do efeito (copiado para a área de transferência): {0}"
+ },
+ "mod_jineng11": {
+  "en": "(Z + ←: Previous Effect)\n(Z + Space: Replay)\n(Ctrl + Z + ←: Previous 100 Effects)",
+  "ch": "（Z + ←：上一个特效）\n（Z + 空格：重复播放）\n（Ctrl + Z + ←：上一百个特效）",
+  "pt": "(Z + ←: Efeito anterior)\n(Z + Espaço: Repetir)\n(Ctrl + Z + ←: 100 efeitos anteriores)"
+ },
+ "mod_jineng12": {
+  "en": "(Z + →: Next Effect)\n(Z + Space: Replay)\n(Ctrl + Z + →: Next 100 Effects)",
+  "ch": "（Z + →：下一个特效）\n（Z + 空格：重复播放）\n（Ctrl + Z + →：下一百个特效）",
+  "pt": "(Z + →: Próximo Efeito)  \n(Z + Espaço: Replay)  \n(Ctrl + Z + →: Próximos 100 Efeitos)"
+ },
+ "mod_jineng13": {
+  "en": "Preview of skill effects. Available for projectile table and aura table only.",
+  "ch": "技能特效预览，只能用于弹道表和光环表。",
+  "pt": "Visualização dos efeitos da habilidade. Disponível apenas para a tabela de projéteis e para a tabela de aura."
+ },
+ "mod_jineng14": {
+  "en": "(X + ←: Previous Effect)\n(X + Space: Replay)\n(Ctrl + X + ←: Previous 100 Effects)",
+  "ch": "（X + ←：上一个特效）\n（X + 空格：重复播放）\n（Ctrl + X + ←：上一百个特效）",
+  "pt": "(X + ←: Efeito anterior)  \n(X + Espaço: Repetir)  \n(Ctrl + X + ←: 100 efeitos anteriores)"
+ },
+ "mod_jineng15": {
+  "en": "(X + →: Next Effect)\n(X + Space: Replay)\n(Ctrl + X + →: Next 100 Effects)",
+  "ch": "（X + →：下一个特效）\n（X + 空格：重复播放）\n（Ctrl + X + →：下一百个特效）",
+  "pt": "(X + →: Próximo Efeito)  \n(X + Espaço: Repetir)  \n(Ctrl + X + →: Próximos 100 Efeitos)"
+ },
+ "mod_jineng16": {
+  "en": "Preview of body effects. Available for effects table only (fill in: Unit/XXXX).",
+  "ch": "身体特效预览，只能用于效果表（填写Unit/XXXX）。",
+  "pt": "Visualização dos efeitos no corpo. Disponível somente para a tabela de efeitos (preencher: Unidade/XXXX)."
+ },
+ "mod_jineng17": {
+  "en": "Skill Effects",
+  "ch": "技能特效",
+  "pt": "Efeitos da Habilidade"
+ },
+ "mod_jineng18": {
+  "en": "Body Effects",
+  "ch": "身体特效",
+  "pt": "Efeitos Corporais"
+ },
+ "mod_jineng19": {
+  "en": "Destroy the previous effect?",
+  "ch": "是否销毁上一个特效",
+  "pt": "Destruir o efeito anterior?"
+ },
+ "mod_jineng2": {
+  "en": "Debugging Skill ID (from BattleSkillBase Table):",
+  "ch": "调试的技能ID（BattleSkillBase表的ID）：",
+  "pt": "ID da Habilidade de Depuração (da tabela BattleSkillBase):"
+ },
+ "mod_jineng20": {
+  "en": "Effect scale:",
+  "ch": "特效大小：",
+  "pt": "Escala de efeito:"
+ },
+ "mod_jineng21": {
+  "en": "Refreshed Successfully!",
+  "ch": "刷新配置成功！",
+  "pt": "Atualizado com sucesso!"
+ },
+ "mod_jineng3": {
+  "en": "Customized manual",
+  "ch": "调试技能",
+  "pt": "Manual personalizado"
+ },
+ "mod_jineng4": {
+  "en": "Go to dungeon debugging",
+  "ch": "进入副本调试",
+  "pt": "Ir para a depuração de masmorras"
+ },
+ "mod_jineng5": {
+  "en": "Please enter skill ID",
+  "ch": "请输入技能ID",
+  "pt": "Por favor, insira o ID da habilidade."
+ },
+ "mod_jineng6": {
+  "en": "Ensure the specified Skill ID is included in BattleSkillBase. You could test the skill's projectile movement speed and effects, etc., in a dungeon. If the configuration is changed in Excel, you could click Refresh Configuration in the dungeon to make it effective immediately.",
+  "ch": "保证BattleSkillBase存在你指定的技能ID，可进入副本调试技能的弹道移动速度特效等等，修改Excel配置后可在副本中点击刷新配置，让配置在副本中立刻生效。",
+  "pt": "Certifique-se de que o ID da Habilidade especificado esteja incluído em BattleSkillBase. Você pode testar a velocidade de movimento do projétil da habilidade, seus efeitos, etc., em uma masmorra. Caso a configuração seja alterada no Excel, basta clicar em \"Atualizar Configuração\" na masmorra para que as mudanças sejam aplicadas imediatamente."
+ },
+ "mod_jineng7": {
+  "en": "BattleSkillAttack cannot find ID: {0}",
+  "ch": "BattleSkillAttack找不到ID：{0}",
+  "pt": "BattleSkillAttack não consegue encontrar o ID: {0}"
+ },
+ "mod_jineng8": {
+  "en": "Refresh Configuration (F12)",
+  "ch": "刷新配置(F12)",
+  "pt": "Atualizar Configuração (F12)"
+ },
+ "mod_jineng9": {
+  "en": "After the configuration in ModProject\\\\ModExcel is changed, you can click Refresh Configuration to apply the external changes immediately. You may run the game in windowed mode to switch between the program and the configuration table.",
+  "ch": "修改ModProject\\\\ModExcel的配置后，点击刷新配置，可让在外部修改的配置立即生效。推荐游戏窗口化，可在游戏和配置表之间快速切换。",
+  "pt": "Após alterar a configuração em ModProject\\\\ModExcel, você pode clicar em \"Atualizar Configuração\" para aplicar as alterações externas imediatamente. Você também pode executar o jogo no modo janela para alternar entre o programa e a tabela de configurações."
+ },
+ "mod_jingjieid": {
+  "en": "Character realm",
+  "ch": "角色境界",
+  "pt": "Reino de personagens"
+ },
+ "mod_jinyongtishi": {
+  "en": "The mod you have disabled contains codes. It will only be disabled after restarting the game.",
+  "ch": "你禁用的模组包含代码，重启游戏后才能正常禁用。",
+  "pt": "O mod que você desativou contém códigos. Ele só será desativado após reiniciar o jogo."
+ },
+ "mod_jixugenggai": {
+  "en": "Continue change",
+  "ch": "继续更改",
+  "pt": "Continuar mudança"
+ },
+ "mod_jixujinru": {
+  "en": "Continue entering archive?",
+  "ch": "是否继续进入存档？",
+  "pt": "Continuar a inserir no arquivo?"
+ },
+ "mod_jiyishuji": {
+  "en": "Artisanship Book",
+  "ch": "技艺书籍",
+  "pt": "Livro sobre artesanato"
+ },
+ "mod_jueshetiaojian": {
+  "en": "Character condition",
+  "ch": "角色条件",
+  "pt": "Condição do personagem"
+ },
+ "mod_jueshexiaoguo": {
+  "en": "Effects",
+  "ch": "效果",
+  "pt": "Efeitos"
+ },
+ "mod_jueshexiaoguo2": {
+  "en": "Character effect",
+  "ch": "角色效果",
+  "pt": "Efeito de caractere"
+ },
+ "mod_juqing": {
+  "en": "Plot",
+  "ch": "剧情",
+  "pt": "Enredo"
+ },
+ "mod_juqing1": {
+  "en": "Plot opening requirements",
+  "ch": "剧情打开条件",
+  "pt": "Requisitos de abertura do enredo"
+ },
+ "mod_juqing10": {
+  "en": "Next Plot",
+  "ch": "跳转的下一个剧情",
+  "pt": "Próximo Lote"
+ },
+ "mod_juqing11": {
+  "en": "The next Plot (you can use Plot options to set different Plot branches)",
+  "ch": "此剧情跳转的下一个剧情是什么（可通过剧情选项按钮设置不同分支）",
+  "pt": "O próximo Plot (você pode usar as opções de Plot para definir diferentes ramificações do Plot)"
+ },
+ "mod_juqing12": {
+  "en": "Plot Options",
+  "ch": "剧情选项按钮",
+  "pt": "Opções de plotagem"
+ },
+ "mod_juqing13": {
+  "en": "Use Plot options to set the Plot branches. (You may leave it empty. Plot will be redirected with \"Next Plot\")",
+  "ch": "通过剧情选项，可以设置剧情的分支。（可留空，通过“下一个剧情”跳转剧情）",
+  "pt": "Use as opções de Plot para definir os ramos do Plot. (Você pode deixá-lo vazio. O Plot será redirecionado para o \"Próximo Plot\".)"
+ },
+ "mod_juqing14": {
+  "en": "Character - Left",
+  "ch": "左边的角色",
+  "pt": "Personagem - Esquerda"
+ },
+ "mod_juqing15": {
+  "en": "Character - Right",
+  "ch": "右边的角色",
+  "pt": "Caractere - Direita"
+ },
+ "mod_juqing16": {
+  "en": "Character not displayed",
+  "ch": "不显示角色",
+  "pt": "Caractere não exibido"
+ },
+ "mod_juqing17": {
+  "en": "Display player",
+  "ch": "显示玩家",
+  "pt": "Exibir player"
+ },
+ "mod_juqing18": {
+  "en": "Plot Title",
+  "ch": "剧情标题",
+  "pt": "Título do enredo"
+ },
+ "mod_juqing19": {
+  "en": "Plot Illustration",
+  "ch": "剧情插图",
+  "pt": "Ilustração do enredo"
+ },
+ "mod_juqing2": {
+  "en": "Fill in one or many IDs when opening the Plot. First, exclude Plot that doesn’t meet the requirements, then randomly open one of the Plot based on the importance.",
+  "ch": "当打开剧情时填入一个或者多个ID，首先排除条件不满足的剧情，然后根据权重随机打开其中一个剧情。",
+  "pt": "Preencha um ou vários IDs ao abrir o Plot. Primeiro, exclua os Plots que não atendem aos requisitos; em seguida, abra aleatoriamente um dos Plots com base na importância."
+ },
+ "mod_juqing20": {
+  "en": "Character type - Left",
+  "ch": "左边的角色类型",
+  "pt": "Tipo de caractere - Esquerda"
+ },
+ "mod_juqing21": {
+  "en": "Character type - Right",
+  "ch": "右边的角色类型",
+  "pt": "Tipo de caractere - Direito"
+ },
+ "mod_juqing3": {
+  "en": "Plot opening weight",
+  "ch": "剧情打开权重",
+  "pt": "Peso de abertura do enredo"
+ },
+ "mod_juqing4": {
+  "en": "Randomly opens one of the Plot based on importance when multiple Plot are open at the same time.",
+  "ch": "同时打开多个剧情时，根据权重随机打开其中一个剧情。",
+  "pt": "Abre aleatoriamente um dos Gráficos com base na importância, quando vários Gráficos estão abertos ao mesmo tempo."
+ },
+ "mod_juqing5": {
+  "en": "Plot Text Content",
+  "ch": "剧情文本内容",
+  "pt": "Conteúdo do texto do enredo"
+ },
+ "mod_juqing6": {
+  "en": "Plot Background Music",
+  "ch": "剧情背景音乐",
+  "pt": "Música de fundo do enredo"
+ },
+ "mod_juqing7": {
+  "en": "Switch the background music when opening Plot, and after the Plot is closed, restores background music.",
+  "ch": "打开剧情时切换背景音乐，剧情关闭后，会还原背景音乐。",
+  "pt": "Troca a música de fundo ao abrir o Plot; após o Plot ser fechado, restaura a música de fundo."
+ },
+ "mod_juqing8": {
+  "en": "Plot SFX",
+  "ch": "剧情音效",
+  "pt": "Efeitos sonoros de enredo"
+ },
+ "mod_juqing9": {
+  "en": "SFX played when opening Plot (Like the Plot text voice content)",
+  "ch": "打开剧情时播放的音效（如剧情文本的语音内容）",
+  "pt": "SFX reproduzido ao abrir o Enredo (Assim como o conteúdo de áudio do texto do Enredo)"
+ },
+ "mod_juqinganniu1": {
+  "en": "Option button appearance requirements",
+  "ch": "选项按钮出现条件",
+  "pt": "Requisitos de aparência do botão de opção"
+ },
+ "mod_juqinganniu2": {
+  "en": "Requirements for the button to appear. The button will not appear if the requirement is not met.",
+  "ch": "按钮出现的条件，条件不满足的按钮则不会出现。",
+  "pt": "Requisitos para que o botão seja exibido. O botão não será exibido se o requisito não for atendido."
+ },
+ "mod_juqinganniu3": {
+  "en": "Text on the option button",
+  "ch": "选项按钮文本",
+  "pt": "Texto no botão de opção"
+ },
+ "mod_juqinganniu4": {
+  "en": "Item cost for tapping on the option button",
+  "ch": "点击选项按钮需要消耗的道具",
+  "pt": "Custo do Item para tocar no botão de opção"
+ },
+ "mod_juqinganniu5": {
+  "en": "Command executed after tapping on the option button",
+  "ch": "点击选项按钮执行的命令",
+  "pt": "Comando executado após tocar no botão de opções"
+ },
+ "mod_juqinganniu6": {
+  "en": "Next Plot to go to after tapping on the option button",
+  "ch": "点击选项按钮后跳转的下一个剧情",
+  "pt": "Próximo lote a ser acessado após tocar no botão de opções"
+ },
+ "mod_juqingleixing1": {
+  "en": "Left side of the full-body standing drawing of a character for Plot",
+  "ch": "剧情左边的立绘",
+  "pt": "Lado esquerdo do desenho de corpo inteiro, em pé, de um personagem para o enredo"
+ },
+ "mod_juqingleixing2": {
+  "en": "Right side of the full-body standing drawing of a character for Plot",
+  "ch": "剧情右边的立绘",
+  "pt": "Lado direito do desenho de corpo inteiro, em posição de pé, de um personagem para o Enredo"
+ },
+ "mod_juqinglihui": {
+  "en": "Plot full-body standing drawing model",
+  "ch": "剧情立绘模型",
+  "pt": "Modelo para desenho de corpo inteiro em posição de pé"
+ },
+ "mod_juqingmingling1": {
+  "en": "Turn on plot execution command",
+  "ch": "打开剧情执行命令",
+  "pt": "Ativar o comando de execução do plot"
+ },
+ "mod_juqingmingling2": {
+  "en": "Turn off plot execution command",
+  "ch": "关闭剧情执行命令",
+  "pt": "Desativar o comando de execução do gráfico"
+ },
+ "mod_juqingnpc": {
+  "en": "Plot NPC",
+  "ch": "剧情NPC",
+  "pt": "NPC do enredo"
+ },
+ "mod_juqingnpc1": {
+  "en": "Reset the NPC to extract on the left (NPC-A)",
+  "ch": "重置抓取的左边NPC（NPC-A）",
+  "pt": "Redefina o NPC para extrair à esquerda (NPC-A)"
+ },
+ "mod_juqingnpc2": {
+  "en": "Reset the NPC to extract on the right (NPC-B)",
+  "ch": "重置抓取的右边NPC（NPC-B）",
+  "pt": "Redefina o NPC para extrair à direita (NPC-B)"
+ },
+ "mod_juqingnpc3": {
+  "en": "If the NPC to extract is reset, the speaker will become the new NPC.",
+  "ch": "如果重置了抓取的NPC，则说话者会变成新的NPC。",
+  "pt": "Se o NPC a ser extraído for redefinido, o falante se tornará o novo NPC."
+ },
+ "mod_juqingxuanxiang": {
+  "en": "Plot Options",
+  "ch": "剧情选项",
+  "pt": "Opções de plotagem"
+ },
+ "mod_kaijubeijingjieshou": {
+  "en": "Opening Backstory Introduction",
+  "ch": "开局背景故事介绍",
+  "pt": "Introdução à história de fundo"
+ },
+ "mod_kaiyuanmozutishi": {
+  "en": "This Mod is an open source Mod. Click to open the Mod directory to copy the Mod source project ModProject folder to the local working directory.",
+  "ch": "此模组是开源模组，点击打开模组目录，可以复制模组源工程ModProject文件夹到本地工作目录。",
+  "pt": "Este Mod é um Mod de código aberto. Clique para abrir o diretório do Mod e copiar a pasta ModProject, que contém o projeto-fonte do Mod, para o diretório de trabalho local."
+ },
+ "mod_kuangcaijiyi": {
+  "en": "Ore Artisanship",
+  "ch": "矿材技艺",
+  "pt": "Artesanato em Minério"
+ },
+ "mod_kuangjiatishi1": {
+  "en": "Mod framework is disabled. Enable the framework now? Mods cannot function properly if the framework is disabled.\n\nAfter the framework is enabled, if the .exe file of the game cannot be opened, you may need to disable the framework manually. To do this, open the directory of the game and delete \"version.dll\".",
+  "ch": "模组框架未启动，是否启动模组框架？不启动模组框架，模组将无法正常运行。\n\n启动模组框架后，如遇到在某些电脑游戏EXE无法打开，则需要自己禁用模组框架，禁用模组框架需要手动打开游戏安装目录删除“version.dll”文件。",
+  "pt": "O framework de mods está desativado. Deseja ativá-lo agora? Os mods não funcionarão corretamente se o framework estiver desativado.\n\nApós ativar o framework, se o arquivo .exe do jogo não puder ser aberto, talvez seja necessário desativá-lo manualmente. Para isso, abra o diretório do jogo e exclua \"version.dll\"."
+ },
+ "mod_kuangjiatishi2": {
+  "en": "Enable framework",
+  "ch": "启用框架",
+  "pt": "Ativar framework"
+ },
+ "mod_kuangjiatishi3": {
+  "en": "Maybe next time",
+  "ch": "下次在说",
+  "pt": "Talvez da próxima vez"
+ },
+ "mod_kuangjiatishi4": {
+  "en": "Mod framework enabled. Please restart the game to make it effective.",
+  "ch": "打开模组框架成功，重启游戏后生效！",
+  "pt": "Framework de mods habilitado. Por favor, reinicie o jogo para que tenha efeito."
+ },
+ "mod_kuangjiatishi5": {
+  "en": "Close game",
+  "ch": "关闭游戏",
+  "pt": "Jogo acirrado"
+ },
+ "mod_kuozhangpeizhi": {
+  "en": "Expand configurations",
+  "ch": "扩展配置",
+  "pt": "Expandir configurações"
+ },
+ "mod_liebiao": {
+  "en": "Table",
+  "ch": "表",
+  "pt": "Tabela"
+ },
+ "mod_lihuichicun": {
+  "en": "Standard measurements of the full-body standing drawing, width 700, height 900",
+  "ch": "立绘标准尺寸，宽700 高900",
+  "pt": "Medidas padrão para o desenho em pé do corpo inteiro: largura 700, altura 900"
+ },
+ "mod_lihuimingcheng": {
+  "en": "Full-body standing drawing name",
+  "ch": "立绘名称",
+  "pt": "Nome do desenho de corpo inteiro em pé"
+ },
+ "mod_lihuimoxing": {
+  "en": "Full-body standing drawing model",
+  "ch": "立绘模型",
+  "pt": "Modelo de desenho em pé, de corpo inteiro"
+ },
+ "mod_loading": {
+  "en": "Loading mod...",
+  "ch": "模组加载中...",
+  "pt": "Carregando mod..."
+ },
+ "mod_lujingcuowu": {
+  "en": "Mod project corrupted!",
+  "ch": "模组项目已损坏！",
+  "pt": "Projeto de mod corrompido!"
+ },
+ "mod_miaoshu": {
+  "en": "Description:",
+  "ch": "描述：",
+  "pt": "Descrição:"
+ },
+ "mod_miaosu": {
+  "en": "Mod Description",
+  "ch": "模组描述",
+  "pt": "Descrição do mod"
+ },
+ "mod_mijiid": {
+  "en": "Manual ID",
+  "ch": "秘籍ID",
+  "pt": "ID do Manual"
+ },
+ "mod_mingcheng": {
+  "en": "Name:",
+  "ch": "名称：",
+  "pt": "Nome:"
+ },
+ "mod_minglingliebiao": {
+  "en": "Command list",
+  "ch": "命令列表",
+  "pt": "Lista de comandos"
+ },
+ "mod_minglinglieboap": {
+  "en": "Command list",
+  "ch": "命令列表",
+  "pt": "Lista de comandos"
+ },
+ "mod_minglingshuoming": {
+  "en": "Commands are functions that can be used to launch plots, create world map events, increase stats, generate items, and run other functions.",
+  "ch": "命令就是函数，可以通过命令打开剧情、创建大地图事件、增加属性、产出道具等功能。",
+  "pt": "Os comandos são funções que podem ser usadas para gerar gráficos, criar eventos no mapa do mundo, aumentar os atributos, gerar itens e executar outros comandos."
+ },
+ "mod_mingzi": {
+  "en": "Mod Name",
+  "ch": "模组名称",
+  "pt": "Nome do Mod"
+ },
+ "mod_modao": {
+  "en": "Demonic",
+  "ch": "魔道",
+  "pt": "Demoníaco"
+ },
+ "mod_mozu": {
+  "en": "Mod",
+  "ch": "模组",
+  "pt": "Modo"
+ },
+ "mod_mozubianjiqi": {
+  "en": "Tale of Immortal Mod Editor",
+  "ch": "鬼谷八荒模组编辑器",
+  "pt": "História do Editor de Mods do Imortal"
+ },
+ "mod_mozugongneng": {
+  "en": "Mod Functions",
+  "ch": "模组功能",
+  "pt": "Funções de Mod"
+ },
+ "mod_mozuguanli": {
+  "en": "Mod Management",
+  "ch": "模组管理",
+  "pt": "Gerenciamento de Mods"
+ },
+ "mod_mozukaifa": {
+  "en": "Mod Development",
+  "ch": "模组开发",
+  "pt": "Desenvolvimento de Mods"
+ },
+ "mod_mozuleixing": {
+  "en": "Store Mod Categories",
+  "ch": "商店模组分类",
+  "pt": "Categorias de Mods da Loja"
+ },
+ "mod_mozuleixing1": {
+  "en": "Type:",
+  "ch": "类型：",
+  "pt": "Tipo:"
+ },
+ "mod_mozuleixing2": {
+  "en": "This is a local mod. After deleting it, the mod files will also be deleted. Delete it?",
+  "ch": "此模组是本地模组，删除后模组文件将会一起删除，是否删除？",
+  "pt": "Esta é uma mod local. Após excluí-la, os arquivos da mod também serão excluídos. Excluir?"
+ },
+ "mod_mozuleixing3": {
+  "en": "This is a workshop mod. After unsubscribing to it, you may subscribe to it again in the Mod Store. Unsubscribe?",
+  "ch": "此模组是创意工坊模组，取消订阅后可在模组商店重新订阅，是否取消订阅？",
+  "pt": "Este é um mod do Workshop. Após cancelar a assinatura, você poderá assiná-lo novamente na Loja de Mods. Cancelar a assinatura?"
+ },
+ "mod_mozuleixing4": {
+  "en": "Mod Directory:",
+  "ch": "模组目录：",
+  "pt": "Diretório de mods:"
+ },
+ "mod_mozuleixingbiaoti1": {
+  "en": "Workshop Mods",
+  "ch": "创意工坊模组",
+  "pt": "Workshop de Mods"
+ },
+ "mod_mozuleixingbiaoti2": {
+  "en": "Local Mods",
+  "ch": "本地模组",
+  "pt": "Mods Locais"
+ },
+ "mod_mozunpc1": {
+  "en": "Generated NPC",
+  "ch": "创建的NPC",
+  "pt": "NPC gerado"
+ },
+ "mod_mozupaixu1": {
+  "en": "Hot",
+  "ch": "最近热门",
+  "pt": "Quente"
+ },
+ "mod_mozupaixu2": {
+  "en": "Most Played",
+  "ch": "最多人玩",
+  "pt": "Mais tocadas"
+ },
+ "mod_mozupaixu3": {
+  "en": "Most Subscribed",
+  "ch": "最多订阅",
+  "pt": "Mais assinados"
+ },
+ "mod_mozupaixu4": {
+  "en": "Latest Creations",
+  "ch": "最新创建",
+  "pt": "Últimas Criações"
+ },
+ "mod_mozupaixu5": {
+  "en": "Latest Updates",
+  "ch": "最近更新",
+  "pt": "Atualizações mais recentes"
+ },
+ "mod_mozushangdian": {
+  "en": "Mod Store",
+  "ch": "模组商店",
+  "pt": "Loja de Mods"
+ },
+ "mod_mozushangdian1": {
+  "en": "Mod Store",
+  "ch": "模组商店",
+  "pt": "Loja de Mods"
+ },
+ "mod_mozushangdian2": {
+  "en": "Download more mods",
+  "ch": "下载更多模组",
+  "pt": "Baixe mais mods"
+ },
+ "mod_mozushangdian3": {
+  "en": "Community",
+  "ch": "社区",
+  "pt": "Comunidade"
+ },
+ "mod_mozushangdian4": {
+  "en": "Interact & Share",
+  "ch": "交流与分享",
+  "pt": "Interaja e compartilhe"
+ },
+ "mod_mozushangdian5": {
+  "en": "Manage Local Mods",
+  "ch": "管理本地模组",
+  "pt": "Gerenciar Mods Locais"
+ },
+ "mod_mozushuju": {
+  "en": "Mod data",
+  "ch": "模组数据",
+  "pt": "Dados do mod"
+ },
+ "mod_mozutiaoshi": {
+  "en": "You are not required to export or import mod data frequently for a mod in progress. Simply enter the game to tweak the mod.",
+  "ch": "模组制作过程中，不需要频繁导出导入模组数据，可以直接进入游戏调试此模组。",
+  "pt": "Você não é obrigado a exportar ou importar dados do mod com frequência para um mod em desenvolvimento. Basta entrar no jogo para ajustar o mod."
+ },
+ "mod_neizhishuju": {
+  "en": "Game inbuilt data",
+  "ch": "游戏内置数据",
+  "pt": "Dados embutidos no jogo"
+ },
+ "mod_npc": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_npc2": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_npc_bianjiwancheng": {
+  "en": "Edit Complete",
+  "ch": "编辑完成",
+  "pt": "Edição concluída"
+ },
+ "mod_npc_biaoti": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_npc_guanxi": {
+  "en": "Player's relationship after creation",
+  "ch": "创建后与玩家的关系",
+  "pt": "Relacionamento do jogador após a criação"
+ },
+ "mod_npc_jingjie": {
+  "en": "Initial Realm",
+  "ch": "初始境界",
+  "pt": "Reino Inicial"
+ },
+ "mod_npc_mingzi": {
+  "en": "Name (Random if left blank)",
+  "ch": "名字（留空则随机）",
+  "pt": "Nome (Aleatório se deixado em branco)"
+ },
+ "mod_npc_name": {
+  "en": "Name: {0}, Gender: {1}",
+  "ch": "名字：{0}，性别：{1}",
+  "pt": "Nome: {0}, Gênero: {1}"
+ },
+ "mod_npc_nanlihui": {
+  "en": "Male full-body standing up drawing",
+  "ch": "男性立绘",
+  "pt": "Desenho de homem em pé, corpo inteiro"
+ },
+ "mod_npc_nanlihuishuoming": {
+  "en": "When the created NPC is male, use this full-body standing up drawing and leave it blank to randomly create a full-body standing up drawing.",
+  "ch": "当创建的NPC性别是男性时，使用此立绘，留空则随机生成立绘。",
+  "pt": "Quando o NPC criado for do sexo masculino, use este desenho de corpo inteiro em pé e deixe-o em branco para gerar aleatoriamente um desenho de corpo inteiro em pé."
+ },
+ "mod_npc_neizaixingge": {
+  "en": "Internal Traits",
+  "ch": "内在性格",
+  "pt": "Traços Internos"
+ },
+ "mod_npc_neizaixinggecuowu": {
+  "en": "Internal Traits cannot be duplicated!",
+  "ch": "内在性格不可重复！",
+  "pt": "Os Traços Internos não podem ser duplicados!"
+ },
+ "mod_npc_nvlihui": {
+  "en": "Female full-body standing up drawing",
+  "ch": "女性立绘",
+  "pt": "Desenho de uma mulher de corpo inteiro, em pé"
+ },
+ "mod_npc_nvlihuishuoming": {
+  "en": "When the created NPC is female, use this full-body standing up drawing and leave it blank to randomly create a full-body standing up drawing.",
+  "ch": "当创建的NPC性别是女性时，使用此立绘，留空则随机生成立绘。",
+  "pt": "Quando o NPC criado for do sexo feminino, use este desenho de corpo inteiro em pé e deixe-o em branco para gerar aleatoriamente um desenho de corpo inteiro em pé."
+ },
+ "mod_npc_qinmidu": {
+  "en": "Initial Affinity with player after creation",
+  "ch": "创建后与玩家的初始亲密度",
+  "pt": "Afinidade inicial com o jogador após a criação"
+ },
+ "mod_npc_shanchushuju": {
+  "en": "Delete Data",
+  "ch": "删除数据",
+  "pt": "Excluir Dados"
+ },
+ "mod_npc_shanchutishi": {
+  "en": "Are you sure you want to delete full-body standing up drawing data? After deleting, the full-body standing up drawing will be randomized when creating an NPC.",
+  "ch": "是否删除立绘数据？删除后创建NPC时随机生成立绘。",
+  "pt": "Tem certeza de que deseja excluir os dados do desenho de corpo inteiro em pé? Após a exclusão, o desenho de corpo inteiro em pé será aleatório ao criar um NPC."
+ },
+ "mod_npc_shezhilihui": {
+  "en": "Set full-body standing up drawing",
+  "ch": "设置立绘",
+  "pt": "Conjunto de desenhos de corpo inteiro em pé"
+ },
+ "mod_npc_suiji": {
+  "en": "Random",
+  "ch": "随机",
+  "pt": "Aleatório"
+ },
+ "mod_npc_waizaixingge1": {
+  "en": "External Traits 1",
+  "ch": "外在性格1",
+  "pt": "Características Externas 1"
+ },
+ "mod_npc_waizaixingge2": {
+  "en": "External Traits 2",
+  "ch": "外在性格2",
+  "pt": "Traços Externos 2"
+ },
+ "mod_npc_waizaixinggecuowu": {
+  "en": "External Traits cannot be duplicated!",
+  "ch": "外在性格不可重复！",
+  "pt": "Os Traços Externos não podem ser duplicados!"
+ },
+ "mod_npc_xingbie": {
+  "en": "Gender",
+  "ch": "性别",
+  "pt": "Gênero"
+ },
+ "mod_npc_xinggeshuoming": {
+  "en": "Note: Character Traits cannot be duplicated or it will cause an error!",
+  "ch": "注意：性格不可重复，否则会引起错误！",
+  "pt": "Observação: As Características não podem ser duplicadas, ou isso causará um erro!"
+ },
+ "mod_npc_zidongbaocun": {
+  "en": "Auto Save",
+  "ch": "自动保存",
+  "pt": "Salvamento automático"
+ },
+ "mod_npc_zuidajuli": {
+  "en": "Maximum distance from player when created",
+  "ch": "生成时距离玩家最大距离",
+  "pt": "Distância máxima do jogador quando criado"
+ },
+ "mod_npc_zuixiaojuli": {
+  "en": "Minimum distance from player when created",
+  "ch": "生成时距离玩家最小距离",
+  "pt": "Distância mínima do jogador quando criado"
+ },
+ "mod_npcfannao": {
+  "en": "NPC trouble",
+  "ch": "NPC烦恼",
+  "pt": "Problemas com NPCs"
+ },
+ "mod_npcfannaoleixing": {
+  "en": "NPC trouble type",
+  "ch": "NPC烦恼类型",
+  "pt": "Tipo de problema do NPC"
+ },
+ "mod_npcjingjie": {
+  "en": "NPC Initial Realm",
+  "ch": "NPC初始境界",
+  "pt": "Reino Inicial dos NPCs"
+ },
+ "mod_npcjingjieshuoming": {
+  "en": "Determines NPCs' Realm when they are generated",
+  "ch": "决定了生成NPC时，NPC的境界",
+  "pt": "Determina o Reino dos NPCs quando eles são gerados."
+ },
+ "mod_npcquyuweizhi": {
+  "en": "Area of NPC spawning",
+  "ch": "NPC生成位置在什么区域",
+  "pt": "Área de spawn dos NPCs"
+ },
+ "mod_npcquyuweizhishuoming": {
+  "en": "Determines the area of NPCs when they are generated",
+  "ch": "决定了生成NPC时，NPC在什么区域的随机位置",
+  "pt": "Determina a área em que os NPCs são gerados"
+ },
+ "mod_npcshouming": {
+  "en": "Lifespan (Years)",
+  "ch": "寿命（年）",
+  "pt": "Longevidade (Anos)"
+ },
+ "mod_paixu1": {
+  "en": "Most Subscribed",
+  "ch": "最多订阅",
+  "pt": "Mais inscritos"
+ },
+ "mod_paixu2": {
+  "en": "Most Highly Rated",
+  "ch": "最多好评",
+  "pt": "Mais bem avaliados"
+ },
+ "mod_paixu3": {
+  "en": "Latest Creations",
+  "ch": "最新创建",
+  "pt": "Últimas Criações"
+ },
+ "mod_paixu4": {
+  "en": "Most Likes",
+  "ch": "最多人赞",
+  "pt": "Mais curtidas"
+ },
+ "mod_paixubiaoti": {
+  "en": "Sort",
+  "ch": "排序",
+  "pt": "Sorte"
+ },
+ "mod_pingjiaguoshao": {
+  "en": "Too few comments",
+  "ch": "评论过少",
+  "pt": "Pouquíssimos comentários"
+ },
+ "mod_preDrama": {
+  "en": "Preview Plot UI",
+  "ch": "预览剧情UI",
+  "pt": "Visualização da interface do enredo"
+ },
+ "mod_putongzongmen1": {
+  "en": "Create a normal Sect",
+  "ch": "创建普通宗门",
+  "pt": "Crie uma Seita normal."
+ },
+ "mod_putongzongmen2": {
+  "en": "Normal Sect",
+  "ch": "普通宗门",
+  "pt": "Seita Normal"
+ },
+ "mod_putongzongmen3": {
+  "en": "Note: Sect creation may fail if too many Sects have been created and there is not enough space on the map.",
+  "ch": "注意创建过多普通宗门的话，可能会导致地图位置不够，创建失败的情况。",
+  "pt": "Observação: A criação de uma Seita pode falhar se já tiverem sido criadas muitas Seitas e se não houver espaço suficiente na mapa."
+ },
+ "mod_putongzongmen4": {
+  "en": "The area where the Sect is created.",
+  "ch": "宗门创建到什么区域。",
+  "pt": "A área onde a Seita é criada."
+ },
+ "mod_qianzhitishi": {
+  "en": "You haven't subscribed to the prerequisite mods. Subscribe to them?",
+  "ch": "以下前置模组未订阅，是否订阅以下模组？",
+  "pt": "Você não se inscreveu nos mods pré-requisitos. Quer se inscrever neles?"
+ },
+ "mod_qilingid": {
+  "en": "Artifact Spirit",
+  "ch": "器灵",
+  "pt": "Espírito do Artefato"
+ },
+ "mod_qiyiwenben1": {
+  "en": "Trigger Type",
+  "ch": "触发类型",
+  "pt": "Tipo de gatilho"
+ },
+ "mod_qiyiwenben10": {
+  "en": "When the trigger interval is greater than 0, the Adventure will need to be triggered at an interval of N months before it can continue to be triggered.",
+  "ch": "当触发间隔大于0，奇遇触发后，需要间隔N个月才能继续触发。",
+  "pt": "Quando o intervalo de disparo é maior que 0, a Aventura precisará ser acionada em intervalos de N meses para que possa continuar sendo disparada."
+ },
+ "mod_qiyiwenben11": {
+  "en": "Shared Interval Group",
+  "ch": "共享间隔组",
+  "pt": "Grupo de Intervalos Compartilhados"
+ },
+ "mod_qiyiwenben12": {
+  "en": "When two Adventures share the same interval group, after one Adventure triggers, the other Adventure also needs an interval of N months to continue to be triggered.",
+  "ch": "当两个奇遇共享间隔组一样，其中一个奇遇触发后，另一个奇遇也需要间隔N个月才能继续触发。",
+  "pt": "Quando duas Aventuras compartilham o mesmo grupo de intervalos, após uma Aventura ser acionada, a outra Aventura também precisa de um intervalo de N meses para continuar sendo acionada."
+ },
+ "mod_qiyiwenben13": {
+  "en": "Extract NPC-A",
+  "ch": "抓取NPC-A",
+  "pt": "Extrato NPC-A"
+ },
+ "mod_qiyiwenben14": {
+  "en": "When NPC extracting has been configured, you have to successfully extract the NPC to trigger the Adventure.\n\nExample 1: After extracting the NPC, you can talk to the NPC.\n\nExample 2: After extracting the NPC, they will enter the Plot. You can use commands to increase their Stats, Destiny, etc.",
+  "ch": "当设置抓取NPC时，那么必须成功抓取到NPC，才能触发奇遇（会传递NPC到剧情里）。\n\n例子1：抓取NPC后，使用对话剧情，可以和NPC互动进行对话。\n\n例子2：抓取NPC后，NPC会传递到剧情里，剧情按钮命令可以使用增加属性、添加气运之类的命令对NPC增加属性、施加气运。",
+  "pt": "Após configurar a extração de NPC, você precisa extrair o NPC com sucesso para ativar a Aventura.\n\nExemplo 1: Após extrair o NPC, você poderá conversar com ele.\n\nExemplo 2: Após extrair o NPC, ele entrará no Enredo. Você poderá usar comandos para aumentar seus Atributos, Destino, etc."
+ },
+ "mod_qiyiwenben15": {
+  "en": "Extract NPC-B",
+  "ch": "抓取NPC-B",
+  "pt": "Extrato NPC-B"
+ },
+ "mod_qiyiwenben16": {
+  "en": "The same function as extracting NPC-A. The command can pass up to two NPCs, and the Plot dialogue display can also only support up to two NPCs.",
+  "ch": "和抓取NPC-A是一样的功能，命令最多可以传递两个NPC过去，对话剧情显示最多也只支持两个NPC。",
+  "pt": "A mesma função que a extração do NPC-A. O comando pode transmitir até dois NPCs, e a exibição do diálogo do Enredo também só pode suportar até dois NPCs."
+ },
+ "mod_qiyiwenben17": {
+  "en": "Plot launched by triggering Adventure",
+  "ch": "触发奇遇打开的剧情",
+  "pt": "A trama é iniciada ao ativar a Aventura."
+ },
+ "mod_qiyiwenben18": {
+  "en": "After triggering Adventure, configure the Plot for Adventure UI to pop up.",
+  "ch": "触发奇遇后，设置打开的剧情，才能弹出奇遇UI和玩家交互。",
+  "pt": "Após ativar a Aventura, configure o enredo para que a interface de usuário da Aventura seja exibida."
+ },
+ "mod_qiyiwenben19": {
+  "en": "Commands executed after triggering an Adventure",
+  "ch": "触发奇遇执行的命令",
+  "pt": "Comandos executados após o acionamento de uma Aventura"
+ },
+ "mod_qiyiwenben2": {
+  "en": "Different trigger types can control the timing of the Adventure.",
+  "ch": "不同的触发类型，可以控制奇遇的触发时机。",
+  "pt": "Diferentes tipos de gatilhos podem controlar o momento em que a Aventura ocorre."
+ },
+ "mod_qiyiwenben20": {
+  "en": "After triggering an Adventure, you can execute commands without launching plot.",
+  "ch": "触发奇遇后，可以不打开剧情，只执行命令。",
+  "pt": "Após iniciar uma Aventura, você pode executar comandos sem iniciar o enredo."
+ },
+ "mod_qiyiwenben3": {
+  "en": "Trigger Probability (Percentage)",
+  "ch": "触发概率（万分比）",
+  "pt": "Probabilidade de disparo (porcentagem)"
+ },
+ "mod_qiyiwenben4": {
+  "en": "The probability of triggering Adventure when requirement is met.",
+  "ch": "每次触发条件时，有多少概率能触发奇遇。",
+  "pt": "A probabilidade de ativar a Aventura quando o requisito for atendido."
+ },
+ "mod_qiyiwenben5": {
+  "en": "Adventure trigger condition",
+  "ch": "奇遇触发条件",
+  "pt": "Condição de disparo da Aventura"
+ },
+ "mod_qiyiwenben6": {
+  "en": "Set requirements for triggering Adventure.",
+  "ch": "可配置条件，需要达成条件，才能触发奇遇。",
+  "pt": "Defina os requisitos para ativar a Aventura."
+ },
+ "mod_qiyiwenben7": {
+  "en": "Can it be triggered repeatedly?",
+  "ch": "是否可以重复触发",
+  "pt": "Pode ser acionado repetidamente?"
+ },
+ "mod_qiyiwenben8": {
+  "en": "When it is set to be non-repeatable, the file can only trigger this Adventure once.",
+  "ch": "当设置不可重复触发时，本存档只能触发一次这个奇遇。",
+  "pt": "Quando configurado como não repetível, o arquivo pode acionar esta Aventura apenas uma vez."
+ },
+ "mod_qiyiwenben9": {
+  "en": "Trigger Interval (Month)",
+  "ch": "触发间隔（月）",
+  "pt": "Intervalo de disparo (meses)"
+ },
+ "mod_qiyu": {
+  "en": "Adventure",
+  "ch": "奇遇",
+  "pt": "Aventura"
+ },
+ "mod_qiyuchatu": {
+  "en": "Adventure Scene",
+  "ch": "奇遇插图",
+  "pt": "Cena de Aventura"
+ },
+ "mod_qiyujuqingnpc1": {
+  "en": "Extracted NPC",
+  "ch": "抓取的NPC",
+  "pt": "NPC extraído"
+ },
+ "mod_qiyujuqingnpc2": {
+  "en": "Extracted NPC",
+  "ch": "抓取的NPC",
+  "pt": "NPC extraído"
+ },
+ "mod_qiyun": {
+  "en": "Destiny",
+  "ch": "气运",
+  "pt": "Destino"
+ },
+ "mod_qiyun_chatu": {
+  "en": "Scene that appears after Breakthrough is successful",
+  "ch": "突破成功后出现的插图",
+  "pt": "Cena que aparece após o Avanço ser bem-sucedido"
+ },
+ "mod_qiyun_gushi": {
+  "en": "Story description that appears after Breakthrough is successful",
+  "ch": "突破成功后出现的故事说明",
+  "pt": "Descrição da história que aparece após o sucesso do Avanço"
+ },
+ "mod_qiyun_jingjieshuoming": {
+  "en": "Requires to reach a certain Realm to randomly appear",
+  "ch": "需要达到什么境界才能随机出来",
+  "pt": "É necessário chegar a um determinado Reino para que apareça aleatoriamente."
+ },
+ "mod_qiyun_jingjieshuoming2": {
+  "en": "For example: Select Nascent Soul. Rewrite Destiny needs the player to reach Nascent Soul before Breakthrough, then when Breakthrough is complete, refresh this Rewrite Destiny.",
+  "ch": "例如：选择了元婴，则此逆天改命需要玩家在达到元婴后进行突破，才能在突破结束时刷出此逆天改命。",
+  "pt": "Por exemplo: selecione Alma Nascente. Para completar Reescrever o Destino, o jogador precisa alcançar primeiro o nível de Alma Nascente antes de conseguir o Avanço; depois que o Avanço for alcançado, atualize novamente o progresso em Reescrever o Destino."
+ },
+ "mod_qiyun_shengjizu": {
+  "en": "Upgrade Group",
+  "ch": "升级组",
+  "pt": "Grupo de Atualizações"
+ },
+ "mod_qiyun_shengjizushuoming": {
+  "en": "If two Rewrite Destiny upgrade group IDs are the same, you have a low-level Rewrite Destiny when having a Breakthrough to randomly get a high-level Destiny (e.g. Jo’s Flying Sword I, II, III). The bottom Destiny data in the Destiny list on the left is the highest level, and the farther down the list the greater the level.",
+  "ch": "如果两个逆天改命升级组ID一样，突破时必须拥有低级逆天改命，才能随机出高级气运（例如小、中、大李飞剑），左边气运列表中最下面的气运数据是最高级的，排序越往下越高级。",
+  "nomes": {
+   "Flying Sword": "Espada Voadora"
+  },
+  "pt": "Se dois IDs de grupo de aprimoramento do Reescrever o Destino forem iguais, você possuirá um Destino de nível baixo; porém, ao obter um Avanço, há a chance de conseguir um Destino de nível mais alto (por exemplo, a Espada Voadora I, II e III de Jo). Os dados do Destino que aparecem no final da lista à esquerda correspondem ao nível mais alto; quanto mais para baixo na lista, maior é o nível do Destino."
+ },
+ "mod_qiyun_suijigailv": {
+  "en": "Breakthrough Random Appearance Probability (Percentage)",
+  "ch": "突破随机出现概率（万分比）",
+  "pt": "Probabilidade de aparição aleatória do Avanço (porcentagem)"
+ },
+ "mod_qiyunchixushijian": {
+  "en": "Duration, unit: Month (-1 means infinite)",
+  "ch": "持续时间，单位：月（-1无限）",
+  "pt": "Duração, unidade: Mês (-1 significa infinito)"
+ },
+ "mod_qiyunmiaoshu": {
+  "en": "Destiny Description",
+  "ch": "气运描述",
+  "pt": "Descrição do Destino"
+ },
+ "mod_qiyunmingcheng": {
+  "en": "Destiny Name",
+  "ch": "气运名称",
+  "pt": "Nome do Destino"
+ },
+ "mod_qiyunsuijigailv": {
+  "en": "Opening Random Appearance Probability (‱)",
+  "ch": "玩家开局随机出现概率（万分比）",
+  "pt": "Probabilidade de Aparição Aleatória na Abertura (‱)"
+ },
+ "mod_qiyunsuijigailvshuoming": {
+  "en": "0: player won't be able to get this Destiny at the beginning.",
+  "ch": "填0则玩家开局永远刷不出来此气运",
+  "pt": "0: O jogador não conseguirá obter este Destino no início."
+ },
+ "mod_qiyunxiaoguo": {
+  "en": "Destiny Effect:",
+  "ch": "气运效果：",
+  "pt": "Efeito do Destino:"
+ },
+ "mod_qiyushuoming": {
+  "en": "You can use Adventure to launch plots or create world map events and run other functions",
+  "ch": "可以通过奇遇来打开剧情、创建大地图事件等等功能",
+  "pt": "Você pode usar a Aventura para iniciar enredos, criar eventos no mapa do mundo e executar outros funcionalidades."
+ },
+ "mod_qiyuzhuaqunpc": {
+  "en": "NPC extracted by the adventure",
+  "ch": "奇遇抓取的NPC",
+  "pt": "NPC extraído durante a aventura"
+ },
+ "mod_quanbo": {
+  "en": "All",
+  "ch": "全部",
+  "pt": "Todos"
+ },
+ "mod_queding": {
+  "en": "Confirm",
+  "ch": "确定",
+  "pt": "Confirmar"
+ },
+ "mod_quxiaodingyue": {
+  "en": "Already unsubscribed!",
+  "ch": "已取消订阅！",
+  "pt": "Já cancelei a assinatura!"
+ },
+ "mod_renwu1": {
+  "en": "Mission",
+  "ch": "任务",
+  "pt": "Missão"
+ },
+ "mod_renwu10": {
+  "en": "Mission Destination",
+  "ch": "任务目的地",
+  "pt": "Destino da Missão"
+ },
+ "mod_renwu11": {
+  "en": "After setting the destination, the Mission route can be tracked on the Mission UI.",
+  "ch": "设置目的地后，任务UI上可以跟踪任务路线。",
+  "pt": "Após definir o destino, a rota da Missão pode ser acompanhada na interface da Missão."
+ },
+ "mod_renwu2": {
+  "en": "Mission Name",
+  "ch": "任务名称",
+  "pt": "Nome da Missão"
+ },
+ "mod_renwu3": {
+  "en": "Mission Description",
+  "ch": "任务描述",
+  "pt": "Descrição da Missão"
+ },
+ "mod_renwu4": {
+  "en": "Mission Duration (month, -1 means infinite)",
+  "ch": "任务持续时间（月，-1无限时间）",
+  "pt": "Duração da Missão (em meses; -1 significa infinito)"
+ },
+ "mod_renwu5": {
+  "en": "When duration is up, the Mission is automatically failed and deleted.",
+  "ch": "持续时间到达后，任务自动失败，并删除。",
+  "pt": "Quando o tempo limite é atingido, a Missão é automaticamente considerada fracassada e removida."
+ },
+ "mod_renwu6": {
+  "en": "Call command after the Mission is complete",
+  "ch": "任务完成后调用命令",
+  "pt": "Chame o comando após a conclusão da Missão."
+ },
+ "mod_renwu7": {
+  "en": "Can be used to command the distribution of rewards, accepting new Missions, opening up Plot, and other functions.",
+  "ch": "可以使用命令发放奖励、接取新任务、打开剧情等等功能。",
+  "pt": "Pode ser usado para comandar a distribuição de recompensas, aceitar novas Missões, abrir terrenos e outras funções."
+ },
+ "mod_renwu8": {
+  "en": "Mission completion requirements (Opened a certain Plot)",
+  "ch": "完成任务条件（打开了某个剧情）",
+  "pt": "Requisitos para conclusão da Missão (Abrir um determinado Lote)"
+ },
+ "mod_renwu9": {
+  "en": "When one of the Plots is opened, the Mission will be completed automatically. It is also possible to use the command finishTask to complete a Mission without filling in the Plot.",
+  "ch": "当打开了其中一个剧情时，任务将会自动完成，也可以不填入剧情，通过命令finishTask完成一个任务。",
+  "pt": "Quando um dos Quadrinhos for aberto, a Missão será concluída automaticamente. Também é possível usar o comando finishTask para completar uma Missão sem precisar preencher o Quadrinho."
+ },
+ "mod_renwuid": {
+  "en": "Mission ID",
+  "ch": "任务ID",
+  "pt": "ID da Missão"
+ },
+ "mod_resmulu": {
+  "en": "Click to open the Res directory. It is recommended to put the additional preview image in the Res directory.",
+  "ch": "点击打开Res目录，推荐把额外预览图放到Res目录。",
+  "pt": "Clique para abrir o diretório RES. Recomenda-se colocar a imagem de pré-visualização adicional no diretório RES."
+ },
+ "mod_saixuanguanjianzi": {
+  "en": "Enter keywords to filter...",
+  "ch": "输入关键字筛选...",
+  "pt": "Insira palavras-chave para filtrar..."
+ },
+ "mod_sanxiu": {
+  "en": "Rogue Cultivator",
+  "ch": "散修",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador Rebelde"
+ },
+ "mod_shanchu": {
+  "en": "Delete (Del)",
+  "ch": "删除(Del)",
+  "pt": "Excluir (Del)"
+ },
+ "mod_shanchuchenggong": {
+  "en": "Deleted!",
+  "ch": "删除成功！",
+  "pt": "Excluído!"
+ },
+ "mod_shanchuchengong": {
+  "en": "Deleted!",
+  "ch": "删除成功！",
+  "pt": "Excluído!"
+ },
+ "mod_shanchujinggao": {
+  "en": "If the Mod has been launched, it is not recommended to delete useless tables. You can mark them as invalid. If there is a Mod-created Destiny in the archive but the Destiny setting has been deleted, it will lead to data loss in the archive.",
+  "ch": "如果模组已经上线，不推荐删除没有用的表，可以标记为废弃，如存档中存在模组制作的气运，但是气运配置被删除了，则会导致存档数据丢失。",
+  "pt": "Se o mod já foi iniciado, não é recomendado excluir tabelas irrelevantes. Você pode marcá-las como inválidas. Caso haja um Destino criado pelo mod no arquivo, mas a configuração do Destino tenha sido removida, isso causará perda de dados no arquivo."
+ },
+ "mod_shanchutishi": {
+  "en": "Deleting a table may cause data loss in a save that has been loaded with this Mod. Continue to Delete?",
+  "ch": "删除某些表有可能会导致已经载入过此模组的存档丢失数据，是否继续删除？",
+  "pt": "Excluir uma tabela pode causar perda de dados em um save que foi carregado com este Mod. Continuar com a exclusão?"
+ },
+ "mod_shanchutishi2": {
+  "en": "To avoid deleting it by mistake, please open the mod project root directory to delete the source project folder manually.",
+  "ch": "为了避免误删除，请打开模组工程根目录手动删除源工程文件夹。",
+  "pt": "Para evitar excluí-lo por engano, abra o diretório raiz do projeto do mod para excluir manualmente a pasta do projeto original."
+ },
+ "mod_shanchutupian": {
+  "en": "Delete Resource: {0}?",
+  "ch": "是否删除资源：{0}",
+  "pt": "Excluir Recurso: {0}?"
+ },
+ "mod_shangchuan1": {
+  "en": "Visible Status",
+  "ch": "可见状态",
+  "pt": "Status visível"
+ },
+ "mod_shangchuan10": {
+  "en": "Preview Image measurements must be 200 width × 200 height",
+  "ch": "预览图片尺寸必须是 宽200*高200",
+  "pt": "As dimensões da imagem de pré-visualização devem ser 200 de largura × 200 de altura."
+ },
+ "mod_shangchuan11": {
+  "en": "Description of this update",
+  "ch": "本次更新说明",
+  "pt": "Descrição desta atualização"
+ },
+ "mod_shangchuan12": {
+  "en": "Mod Tags",
+  "ch": "模组标签",
+  "pt": "Tags de mods"
+ },
+ "mod_shangchuan13": {
+  "en": "Destiny (Nature)",
+  "ch": "先天气运",
+  "pt": "Destino (Natureza)"
+ },
+ "mod_shangchuan14": {
+  "en": "Rewrite Destiny",
+  "ch": "逆天改命",
+  "pt": "Reescrever o Destino"
+ },
+ "mod_shangchuan15": {
+  "en": "Item",
+  "ch": "道具",
+  "pt": "Item"
+ },
+ "mod_shangchuan16": {
+  "en": "Adventure",
+  "ch": "奇遇",
+  "pt": "Aventura"
+ },
+ "mod_shangchuan17": {
+  "en": "Plot",
+  "ch": "剧情",
+  "pt": "Enredo"
+ },
+ "mod_shangchuan18": {
+  "en": "NPC",
+  "ch": "NPC",
+  "pt": "NPC"
+ },
+ "mod_shangchuan19": {
+  "en": "Full-body standing up drawing",
+  "ch": "立绘",
+  "pt": "Desenho de corpo inteiro, em pé"
+ },
+ "mod_shangchuan2": {
+  "en": "Only Visible to Self",
+  "ch": "仅自己可见",
+  "pt": "Visível apenas para o próprio usuário"
+ },
+ "mod_shangchuan20": {
+  "en": "Start Upload",
+  "ch": "开始上传",
+  "pt": "Iniciar upload"
+ },
+ "mod_shangchuan21": {
+  "en": "Upload failed. Please try again.",
+  "ch": "上传失败，请重试！",
+  "pt": "Falha no upload. Por favor, tente novamente."
+ },
+ "mod_shangchuan22": {
+  "en": "Uploaded!",
+  "ch": "上传成功！\n首次提交的模组请稍等几分钟才能在商店看见你的作品！",
+  "pt": "Enviado!"
+ },
+ "mod_shangchuan23": {
+  "en": "Upload failed. Please agree to the Creative Workshop Legal Agreement before re-uploading!",
+  "ch": "上传失败，请接受《创意工坊法律协议》后，在重新上传！",
+  "pt": "O upload falhou. Por favor, aceite o Acordo Legal do Creative Workshop antes de fazer o upload novamente!"
+ },
+ "mod_shangchuan24": {
+  "en": "Mod Upload Tool",
+  "ch": "模组上传工具",
+  "pt": "Ferramenta de Upload de Mods"
+ },
+ "mod_shangchuan25": {
+  "en": "{0} (Progress {1}%)",
+  "ch": "{0}（进度{1}%）",
+  "pt": "{0} (Progresso {1}%)"
+ },
+ "mod_shangchuan26": {
+  "en": "Please set the preview image first!",
+  "ch": "请先设置预览图片！",
+  "pt": "Por favor, defina a imagem de pré-visualização primeiro!"
+ },
+ "mod_shangchuan27": {
+  "en": "Please enter the update content!",
+  "ch": "请输入更新内容！",
+  "pt": "Por favor, insira o conteúdo da atualização!"
+ },
+ "mod_shangchuan28": {
+  "en": "No tags set. Continue upload?",
+  "ch": "没有设置标签，是否继续上传？",
+  "pt": "Nenhuma tag definida. Continuar o upload?"
+ },
+ "mod_shangchuan29": {
+  "en": "Work Root Directory",
+  "ch": "工作根目录",
+  "pt": "Diretório raiz de trabalho"
+ },
+ "mod_shangchuan3": {
+  "en": "Only Visible to Friend",
+  "ch": "仅好友可见",
+  "pt": "Visível apenas para o Amigo"
+ },
+ "mod_shangchuan30": {
+  "en": "No project directory set. Please select a folder as the project working directory. All Mod projects will be saved to this directory.",
+  "ch": "未设置项目工作目录，请选择一个文件夹作为项目的工作目录，所有模组工程将保存到此目录！",
+  "pt": "O diretório do projeto não foi definido. Por favor, selecione uma pasta como diretório de trabalho do projeto. Todos os projetos Mod serão salvos neste diretório."
+ },
+ "mod_shangchuan31": {
+  "en": "Change Directory",
+  "ch": "更改目录",
+  "pt": "Alterar Diretório"
+ },
+ "mod_shangchuan4": {
+  "en": "Visible to Everyone",
+  "ch": "所有人可见",
+  "pt": "Visível para todos"
+ },
+ "mod_shangchuan5": {
+  "en": "Open Source?",
+  "ch": "是否开源",
+  "pt": "Código aberto?"
+ },
+ "mod_shangchuan6": {
+  "en": "After opening source, the Mod project will be uploaded to the Creative Workshop and other players who download the Mod will have the source project included.",
+  "ch": "开源后，模组项目会一起上传到创意工坊，其他玩家下载模组后将包含源项目。",
+  "pt": "Após a disponibilização do código-fonte, o projeto do mod será enviado para a Creative Workshop, e outros jogadores que baixarem o mod também receberão o projeto com o código-fonte."
+ },
+ "mod_shangchuan7": {
+  "en": "Not Open Source",
+  "ch": "不开源",
+  "pt": "Não é código aberto"
+ },
+ "mod_shangchuan8": {
+  "en": "Open Source",
+  "ch": "开源",
+  "pt": "Código aberto"
+ },
+ "mod_shangchuan9": {
+  "en": "Preview Image",
+  "ch": "预览图片",
+  "pt": "Imagem de visualização"
+ },
+ "mod_shangchuanchuangyi": {
+  "en": "Upload to Creative Workshop",
+  "ch": "上传到创意工坊",
+  "pt": "Fazer upload para a Oficina Criativa"
+ },
+ "mod_shangchuancuowu_15": {
+  "en": "Account error. Please contact game developer!",
+  "ch": "账号出现问题，请联系官方处理！",
+  "pt": "Erro de conta. Por favor, contate o desenvolvedor do jogo!"
+ },
+ "mod_shangchuancuowu_16": {
+  "en": "Operation timeout. Please try again!",
+  "ch": "操作超时，请重试！",
+  "pt": "Tempo de operação esgotado. Por favor, tente novamente!"
+ },
+ "mod_shangchuancuowu_17": {
+  "en": "Account error. Please contact game developer!",
+  "ch": "账号出现问题，请联系官方处理！",
+  "pt": "Erro de conta. Por favor, contate o desenvolvedor do jogo!"
+ },
+ "mod_shangchuancuowu_2": {
+  "en": "If you run into errors due to network connection or file occupation, please try to upload it again. If it still fails, you could restart the game or reboot your computer and upload it again!",
+  "ch": "由于网络错误、文件占用等原因引起的常见错误，请多上传几次，如若还不行则重启游戏或重启电脑重新上传！",
+  "pt": "Se você encontrar erros devido à conexão de rede ou à ocupação do arquivo, tente fazer o upload novamente. Se ainda assim falhar, você pode reiniciar o jogo ou reiniciar o computador e tentar o upload mais uma vez!"
+ },
+ "mod_shangchuancuowu_3": {
+  "en": "Network error. Please try again!",
+  "ch": "网络错误，请重试！",
+  "pt": "Erro de rede. Por favor, tente novamente!"
+ },
+ "mod_shangchuanfenxiang": {
+  "en": "Upload & Share Mod",
+  "ch": "上传分享模组",
+  "pt": "Mod de Upload & Compartilhamento"
+ },
+ "mod_shangchuanggongfangtishi": {
+  "en": "After uploading to Workshop, other players may download your mods in Mod Store, and you may also subscribe to your own mods in the store!",
+  "ch": "上传到创意工坊后，其他玩家可以通过模组商店下载你的模组，你也可以在商店订阅自己的模组！",
+  "pt": "Após o upload para a Oficina, outros jogadores poderão baixar seus mods na Loja de Mods; você também pode assinar seus próprios mods na loja!"
+ },
+ "mod_shangchuangtishi": {
+  "en": "Please move the Library of Unity3D resource projects to a directory outside the mod or delete the Library before uploading the mod again.\n<r>You should NOT rename Library directly.</r>\n\nSince Library is a cache folder and it is large in size, you don't need to upload Library to the workshop.",
+  "ch": "请移动Unity3D资源项目的Library到模组以外的目录，或者直接删除Library，在重新上传模组。\n<r>一定不能直接重命名Library</r>\n\n由于Library是缓存文件夹，且数据过大，不需要上传Library到创意工坊上。",
+  "pt": "Por favor, mova a pasta Library dos projetos de recursos do Unity3D para um diretório fora do mod ou exclua a pasta Library antes de fazer o upload do mod novamente.\n<r>Você NÃO deve renomear a pasta Library diretamente.</r>\n\nComo a pasta Library é um diretório de cache e possui um tamanho considerável, não é necessário fazer o upload dela para a workshop."
+ },
+ "mod_shangchuanmozu1": {
+  "en": "Export Mod",
+  "ch": "导出模组",
+  "pt": "Mod de Exportação"
+ },
+ "mod_shangchuanmozu2": {
+  "en": "Upload to Creative Workshop",
+  "ch": "上传到创意工坊",
+  "pt": "Fazer upload para a Oficina Criativa"
+ },
+ "mod_shangchuanzhong1": {
+  "en": "Processing configuration data",
+  "ch": "正在处理配置数据",
+  "pt": "Processando dados de configuração"
+ },
+ "mod_shangchuanzhong2": {
+  "en": "Reading and processing content files",
+  "ch": "正在读取并处理内容文件",
+  "pt": "Leitura e processamento de arquivos de conteúdo"
+ },
+ "mod_shangchuanzhong3": {
+  "en": "Uploading content change to Steam",
+  "ch": "正在将内容更改上传到 Steam",
+  "pt": "Fazendo upload da alteração de conteúdo para o Steam"
+ },
+ "mod_shangchuanzhong4": {
+  "en": "Uploading new preview file images",
+  "ch": "正在上传新的预览文件图像",
+  "pt": "Fazendo upload de novas imagens para a prévisualização"
+ },
+ "mod_shangchuanzhong5": {
+  "en": "Committing all changes",
+  "ch": "正在提交所有更改",
+  "pt": "Confirmando todas as alterações"
+ },
+ "mod_shangdian1": {
+  "en": "Mod Store",
+  "ch": "模组商店",
+  "pt": "Loja de Mods"
+ },
+ "mod_shangdian10": {
+  "en": "Page {0}/{1}",
+  "ch": "第{0}/{1}页",
+  "pt": "Página {0}/{1}"
+ },
+ "mod_shangdian11": {
+  "en": "Downloading {0}...",
+  "ch": "正在下载{0}个...",
+  "pt": "Baixando {0}..."
+ },
+ "mod_shangdian12": {
+  "en": "Cancel all Mods being downloaded",
+  "ch": "取消所有正在下载的模组",
+  "pt": "Canceler todas as modificações que estão sendo baixadas"
+ },
+ "mod_shangdian13": {
+  "en": "Author:",
+  "ch": "作者：",
+  "pt": "Autor:"
+ },
+ "mod_shangdian14": {
+  "en": "Mod size:",
+  "ch": "模组大小：",
+  "pt": "Tamanho do mod:"
+ },
+ "mod_shangdian15": {
+  "en": "Like this Mod!",
+  "ch": "点赞该模组！",
+  "pt": "Goste deste Mod!"
+ },
+ "mod_shangdian16": {
+  "en": "Downvote this Mod!",
+  "ch": "踩该模组！",
+  "pt": "Desvote este Mod!"
+ },
+ "mod_shangdian17": {
+  "en": "Subscribe",
+  "ch": "订阅",
+  "pt": "Inscrever-se"
+ },
+ "mod_shangdian18": {
+  "en": "Unsubscribe",
+  "ch": "取消订阅",
+  "pt": "Cancelar inscrição"
+ },
+ "mod_shangdian19": {
+  "en": "Tag:",
+  "ch": "标签：",
+  "pt": "Tag:"
+ },
+ "mod_shangdian2": {
+  "en": "Local Mod",
+  "ch": "本地模组",
+  "pt": "Mod Local"
+ },
+ "mod_shangdian20": {
+  "en": "Subscriptions:",
+  "ch": "订阅数：",
+  "pt": "Assinaturas:"
+ },
+ "mod_shangdian3": {
+  "en": "Name",
+  "ch": "名称",
+  "pt": "Nome"
+ },
+ "mod_shangdian4": {
+  "en": "Tag",
+  "ch": "标签",
+  "pt": "Tag"
+ },
+ "mod_shangdian5": {
+  "en": "Subscriptions",
+  "ch": "订阅数",
+  "pt": "Assinaturas"
+ },
+ "mod_shangdian6": {
+  "en": "Rating",
+  "ch": "好评率",
+  "pt": "Avaliação"
+ },
+ "mod_shangdian7": {
+  "en": "Open Source",
+  "ch": "开源",
+  "pt": "Código aberto"
+ },
+ "mod_shangdian8": {
+  "en": "Load to Game",
+  "ch": "载入到游戏",
+  "pt": "Carregar no Jogo"
+ },
+ "mod_shangdian9": {
+  "en": "Refresh",
+  "ch": "刷新",
+  "pt": "Atualizar"
+ },
+ "mod_shangyiye": {
+  "en": "Previous",
+  "ch": "上一页",
+  "pt": "Anterior"
+ },
+ "mod_shenfen": {
+  "en": "Position:",
+  "ch": "身份：",
+  "pt": "Posição:"
+ },
+ "mod_shengjitishi": {
+  "en": "The following Mod has an upgrade patch. Please be sure to backup the archive. (Note: If the Mod has deleted some data, the game may have various errors!)",
+  "ch": "以下模组升级了版本，请注意备份存档（注意：如果模组删除了一些数据，游戏可能会引发各种错误！）",
+  "pt": "O mod a seguir possui um patch de atualização. Por favor, faça o backup do arquivo. (Observação: Se o mod tiver excluído alguns dados, o jogo poderá apresentar vários erros!)"
+ },
+ "mod_shenglishuoming1": {
+  "en": "Kill Mythical Beast.",
+  "ch": "击杀大妖兽。",
+  "pt": "Mate a Fera Mítica."
+ },
+ "mod_shenglishuoming2": {
+  "en": "Kill all monsters.",
+  "ch": "击杀所有怪物。",
+  "pt": "Mate todos os monstros."
+ },
+ "mod_shenglishuoming3": {
+  "en": "Victory upon dungeon time-up.",
+  "ch": "副本倒计时结束胜利。",
+  "pt": "Vitória ao fim do tempo da masmorra."
+ },
+ "mod_shenhun": {
+  "en": "Divine Soul",
+  "ch": "神魂",
+  "pt": "Alma Divina"
+ },
+ "mod_shenmizuzhi": {
+  "en": "Secret Order",
+  "ch": "神秘组织",
+  "pt": "Ordem Secreta"
+ },
+ "mod_shezhibiaoqiantishi": {
+  "en": "No tag!",
+  "ch": "没有设置标签！",
+  "pt": "Não!"
+ },
+ "mod_shezhiguanxi": {
+  "en": "Relationship Target",
+  "ch": "关系目标",
+  "pt": "Objetivo do relacionamento"
+ },
+ "mod_shezhiguanxitishi": {
+  "en": "You only need to tweak Relationship Settings for one party, not for both NPCs.",
+  "ch": "只需要其中一方设置关系，不需要两个NPC同时设置关系。",
+  "pt": "Você só precisa ajustar as Configurações de Relacionamento para uma das partes, não para os dois NPCs."
+ },
+ "mod_shifoudingyue": {
+  "en": "Subscribe?",
+  "ch": "是否订阅",
+  "pt": "Assinar?"
+ },
+ "mod_shifougenggaiid": {
+  "en": "Change ID?",
+  "ch": "是否更改ID？",
+  "pt": "Alterar ID?"
+ },
+ "mod_shijian1": {
+  "en": "Event name",
+  "ch": "事件名称",
+  "pt": "Nome do evento"
+ },
+ "mod_shijian10": {
+  "en": "The command to run when Player moves to the icon",
+  "ch": "玩家移动到图标上，执行的命令",
+  "pt": "O comando a ser executado quando o Jogador se mover para o ícone"
+ },
+ "mod_shijian11": {
+  "en": "Plot to launch when Player moves to the icon but the NPC extraction fails",
+  "ch": "抓取NPC失败时，移动到图标上打开的剧情",
+  "pt": "O enredo é iniciado quando o Jogador se move para o ícone, mas a extração do NPC falha."
+ },
+ "mod_shijian12": {
+  "en": "Max number of the same event (0 means unlimited)",
+  "ch": "同一个事件最大数量（0 无限数量）",
+  "pt": "Número máximo do mesmo evento (0 significa ilimitado)"
+ },
+ "mod_shijian13": {
+  "en": "Icon displayed on the region map",
+  "ch": "事件在小地图显示的图标",
+  "pt": "Ícone exibido no mapa da região"
+ },
+ "mod_shijian2": {
+  "en": "World map event icon",
+  "ch": "大地图事件图标",
+  "pt": "Ícone de evento de mapa mundial"
+ },
+ "mod_shijian3": {
+  "en": "Command to run when generating the event",
+  "ch": "生成事件时执行的命令",
+  "pt": "Comando a ser executado ao gerar o evento"
+ },
+ "mod_shijian4": {
+  "en": "Duration (month, -1 means infinite)",
+  "ch": "持续时间（月，-1 无限时间）",
+  "pt": "Duração (em meses; -1 significa infinito)"
+ },
+ "mod_shijian5": {
+  "en": "When the event expires, it is deleted automatically.",
+  "ch": "持续事件到达后，事件会自动删除。",
+  "pt": "Quando o evento expira, ele é excluído automaticamente."
+ },
+ "mod_shijian6": {
+  "en": "NPC extracted by the event (NPC-A)",
+  "ch": "事件抓取的NPC（NPC-A）",
+  "pt": "NPC extraído pelo evento (NPC-A)"
+ },
+ "mod_shijian7": {
+  "en": "NPC extracted by the event (NPC-B)",
+  "ch": "事件抓取的NPC（NPC-B）",
+  "pt": "NPC extraído pelo evento (NPC-B)"
+ },
+ "mod_shijian8": {
+  "en": "When NPC extracting has been configured, you have to successfully extract the NPC and move them to the icon to launch the Plot.\n\nExample 1: After extracting the NPC, you can talk to the NPC.\n\nExample 2: After extracting the NPC, they will enter the Plot. You can use commands to increase their Stats, Destiny, etc.",
+  "ch": "当设置抓取NPC时，那么必须成功抓取到NPC，走到图标上才能打开剧情（会传递NPC到剧情里）。\n\n例子1：抓取NPC后，使用对话剧情，可以和NPC互动进行对话。\n\n例子2：抓取NPC后，NPC会传递到剧情里，剧情按钮命令可以使用增加属性、添加气运之类的命令对NPC增加属性、施加气运。",
+  "pt": "Após configurar a extração de NPCs, você deve extrair com sucesso o NPC e movê-lo até o ícone para iniciar o Enredo.\n\nExemplo 1: Após extrair o NPC, você poderá conversar com ele.\n\nExemplo 2: Após extrair o NPC, ele entrará no Enredo. Você pode usar comandos para aumentar seus Atributos, Destino, etc."
+ },
+ "mod_shijian9": {
+  "en": "The plot to launch when Player moves to the icon",
+  "ch": "玩家移动到图标上，打开的剧情",
+  "pt": "O enredo é iniciado quando o Jogador se move para o ícone"
+ },
+ "mod_shijiansuoming": {
+  "en": "World map events are often adventures (such as [Runaway Girl] and [Abandoned Village]). Player can move to the event location to trigger the dialogue.",
+  "ch": "大地图事件一般用于奇遇（类似玄冥之女、荒村），玩家可以走到事件上触发对话。",
+  "pt": "Os eventos no mapa do mundo geralmente são aventuras (como [Garota Fugitiva] e [Aldeia Abandonada]). O jogador pode se deslocar até o local do evento para ativar o diálogo."
+ },
+ "mod_shijiantubiaochichun": {
+  "en": "Only event icons that take one tile can be added (one tile on the map, image standard size 120*120)",
+  "ch": "只能添加占地一格的事件图标（一格地图，图片标准尺寸120*120）",
+  "pt": "Só é possível adicionar ícones de eventos que ocupem um único tile (um tile no mapa; tamanho padrão da imagem: 120*120)."
+ },
+ "mod_shiyongxiaohao": {
+  "en": "Item cost when using the Artifact Map",
+  "ch": "使用藏宝图时消耗的道具",
+  "nomes": {
+   "Artifact Map": "Mapa do Artefato da Lâmpada da Alma"
+  },
+  "pt": "Custo do Item ao usar o Mapa de Artefatos"
+ },
+ "mod_shuaxin": {
+  "en": "Refresh",
+  "ch": "刷新",
+  "pt": "Atualizar"
+ },
+ "mod_shuaxinshuju": {
+  "en": "Refresh Data",
+  "ch": "刷新数据",
+  "pt": "Atualizar Dados"
+ },
+ "mod_shuaxinshujutishi": {
+  "en": "If the Mod project is edited with new content, you need to click “Refresh Data” to have the latest Mod content applied to the game!",
+  "ch": "如果模组项目编辑了新内容，需要点击“刷新数据”，才能使最新的模组内容应用到游戏中！",
+  "pt": "Se o projeto do Mod for editado com novos conteúdos, você precisará clicar em “Atualizar Dados” para que o conteúdo mais recente do Mod seja aplicado ao jogo!"
+ },
+ "mod_shuaxintishi": {
+  "en": "When the Mod source project is copied to the work root directory (Note the directory structure), click Refresh UI to display the new project.",
+  "ch": "当复制了模组源工程到工作目录时（注意目录结构），点击刷新UI显示出新工程。",
+  "pt": "Quando o projeto-fonte do Mod for copiado para o diretório raiz de trabalho (note a estrutura de diretórios), clique em \"Atualizar UI\" para exibir o novo projeto."
+ },
+ "mod_shuji1": {
+  "en": "How many pages the book has",
+  "ch": "书籍有几页",
+  "pt": "Quantas páginas o livro tem?"
+ },
+ "mod_shuji2": {
+  "en": "Content on page number {0}",
+  "ch": "第{0}页书籍内容",
+  "pt": "Conteúdo na página número {0}"
+ },
+ "mod_shulianduleixing": {
+  "en": "Proficiency Type",
+  "ch": "熟练度类型",
+  "pt": "Tipo de proficiência"
+ },
+ "mod_shuxingleixing": {
+  "en": "Elemental type",
+  "ch": "属性类型",
+  "pt": "Tipo elemental"
+ },
+ "mod_shuxingshanchutishi": {
+  "en": "Are you sure you want to delete Stat Data? NPC Stats will be randomized after deletion.",
+  "ch": "是否删除属性数据？删除后创建NPC时随机设置属性。",
+  "pt": "Tem certeza de que deseja excluir os dados dos Atributos? Os Atributos dos NPCs serão redefinidos aleatoriamente após a exclusão."
+ },
+ "mod_sortTips": {
+  "en": "Select mods to sort. Hold Shift and click to select multiple mods.\nPress Shift + ↑ to move the selected mod up.\nPress Shift + ↓ to move the selected mod down.\nPress Ctrl + ↑ to move the selected mod to the top.\nPress Ctrl + ↓ to move the selected mod to the bottom.\n\nTip: You may enable or disable multiple mods at one time by selecting and checking or unchecking them.",
+  "ch": "选中模组进行排序操作（按住Shift再点击可进行多选操作）\n按住Shift+方向键↑：选中的模组向上移动\n按住Shift+方向键↓：选中的模组向下移动\nCtrl+方向键↑：选中的模组置顶\nCtrl+方向键↓：选中的模组置底\n\n提示：多选模组后，点击勾选模组会一起生效",
+  "pt": "Selecione os mods para ordenar. Segure a tecla Shift e clique para selecionar vários mods.\nPressione Shift + ↑ para mover o mod selecionado para cima.\nPressione Shift + ↓ para mover o mod selecionado para baixo.\nPressione Ctrl + ↑ para mover o mod selecionado para o topo.\nPressione Ctrl + ↓ para mover o mod selecionado para o final.\n\nDica: Você pode ativar ou desativar vários mods ao mesmo tempo, selecionando-os e marcando ou desmarcando-os."
+ },
+ "mod_sousuo": {
+  "en": "Search",
+  "ch": "搜索",
+  "pt": "Pesquisar"
+ },
+ "mod_suiji": {
+  "en": "Random",
+  "ch": "随机",
+  "pt": "Aleatório"
+ },
+ "mod_suoding": {
+  "en": "Cap at",
+  "ch": "锁定在",
+  "pt": "Teto em"
+ },
+ "mod_suodingshuzhi": {
+  "en": "Locked Value",
+  "ch": "锁定的数值",
+  "pt": "Valor Bloqueado"
+ },
+ "mod_suoyoupeizhi": {
+  "en": "All General Configuration",
+  "ch": "所有通用配置",
+  "pt": "Toda a Configuração Geral"
+ },
+ "mod_tianjiachenggong": {
+  "en": "Added!",
+  "ch": "添加成功！",
+  "pt": "Adicionado!"
+ },
+ "mod_tianjiashengying": {
+  "en": "Add a new sound",
+  "ch": "添加新的声音",
+  "pt": "Adicionar um novo som"
+ },
+ "mod_tianjiashuju": {
+  "en": "Add [{0}]",
+  "ch": "添加[{0}]",
+  "pt": "Adicionar [{0}]"
+ },
+ "mod_tianjiatietu": {
+  "en": "Add a new pic",
+  "ch": "添加新的图片",
+  "pt": "Adicionar uma nova foto"
+ },
+ "mod_tianjiatishi": {
+  "en": "<size=26>Loaded the following Mods (Import Mods may cause unknown errors and bugs, and may corrupt the archive file. <b><u><size=30>So make sure to do a backup!</b></size></u>)</size>",
+  "ch": "<size=26>载入了以下模组（导入模组可能会产生未知的错误和BUG，导致存档损坏，<b><u><size=30>请注意备份存档！</b></size></u>）</size>",
+  "pt": "<size=26>Foram carados os seguintes mods (A importação de mods pode causar erros e bugs desconhecidos, além de corromper o arquivo do pacote. <b><u><size=30>Portanto, certifique-se de fazer um backup!</b></size></u>)</size>"
+ },
+ "mod_tianjiaxinde": {
+  "en": "Edit Configuration",
+  "ch": "编辑配置",
+  "pt": "Editar configuração"
+ },
+ "mod_tianqiid": {
+  "en": "World map weather",
+  "ch": "大地图天气",
+  "pt": "Clima no mapa mundial"
+ },
+ "mod_tiaojian1": {
+  "en": "Mission ID",
+  "ch": "任务ID",
+  "pt": "ID da Missão"
+ },
+ "mod_tiaojian2": {
+  "en": "Time elapsed (months)",
+  "ch": "过了多长时间（月）",
+  "pt": "Tempo decorrido (meses)"
+ },
+ "mod_tiaojian3": {
+  "en": "Item required in bag",
+  "ch": "背包需要包含的道具",
+  "pt": "Item necessário na mochila"
+ },
+ "mod_tiaojian4": {
+  "en": "Quantity of items required (≥)",
+  "ch": "道具数量要求（大于等于）",
+  "pt": "Quantidade de itemes necessários (≥)"
+ },
+ "mod_tiaojianliebiao": {
+  "en": "Requirements List",
+  "ch": "条件列表",
+  "pt": "Lista de Requisitos"
+ },
+ "mod_tiaojiansuoming": {
+  "en": "When a character type is not selected, the default value is Player.\n\nAttention: By default, all conditions must be accomplished unless you the [or] condition is used.",
+  "ch": "当条件没有指定角色类型选择的时候，判断的角色就是玩家。\n\n注意：条件默认是需要全部达成的，除非用了or条件功能。",
+  "pt": "Quando nenhum tipo de personagem é selecionado, o valor padrão é \"Jogador\".\n\nAtenção: Por padrão, todas as condições devem ser atendidas, a menos que a condição [ou] seja utilizada."
+ },
+ "mod_tiaokuan1": {
+  "en": "Mod Editor User Agreement",
+  "ch": "《模组编辑器用户协议》",
+  "pt": "Contrato de Utilização do Editor de Mods"
+ },
+ "mod_tiaokuan2": {
+  "en": "I have read and accepted the Mod Editor User Agreement",
+  "ch": "我已阅读并同意《模组编辑器用户协议》",
+  "pt": "Eu li e aceitei o Contrato de Utilização do Mod Editor."
+ },
+ "mod_tiaokuan3": {
+  "en": "OK",
+  "ch": "确定",
+  "pt": "OK"
+ },
+ "mod_tiaokuan4": {
+  "en": "Please accept the user agreement first!",
+  "ch": "请先同意用户协议！",
+  "pt": "Por favor, aceite o contrato de uso primeiro!"
+ },
+ "mod_tiaoshi1": {
+  "en": "The following Mods are being debugged",
+  "ch": "正在调试以下模组",
+  "pt": "Os seguintes mods estão sendo depurados"
+ },
+ "mod_tiaoshi2": {
+  "en": "End debugging Mod:",
+  "ch": "结束调试模组：",
+  "pt": "Desativar depuração Mod:"
+ },
+ "mod_tiaoshi3": {
+  "en": "Go to game debugging",
+  "ch": "进入游戏调试",
+  "pt": "Ir para a depuração do jogo"
+ },
+ "mod_tiaoshi4": {
+  "en": "Path:",
+  "ch": "路径：",
+  "pt": "Caminho:"
+ },
+ "mod_tiaoshinpc1": {
+  "en": "Generate NPC for debugging?",
+  "ch": "调试是否创建NPC？",
+  "pt": "Gerar NPC para depuração?"
+ },
+ "mod_tiaoshinpc2": {
+  "en": "When debugging the mod, you may turn off the option to create NPC so that no normal NPCs will be generated in the new save data, which will make the process much faster.",
+  "ch": "调试模组时，可以取消创建NPC选项，则创建新档时，不会创建普通NPC，极大的提高建档速度。",
+  "pt": "Ao depurar o mod, você pode desativar a opção de criar NPCs, de modo que nenhum NPC normal seja gerado nos novos dados de salvamento, o que tornará o processo muito mais rápido."
+ },
+ "mod_tiaoshishuoming": {
+  "en": "You don't need to export a mod in progress. Simply enter the game to tweak the mod.\n\n<o>Press Ctrl+F12 while debugging to open the console to check and print it.</o>",
+  "ch": "模组制作过程中，不需要导出，可以直接进入游戏调试。\n\n<o>调试过程中按“Ctrl+F12”打开控制台查看打印</o>",
+  "pt": "Você não precisa exportar um mod que esteja em desenvolvimento. Basta entrar no jogo para ajustar o mod.\n\n<o>Aperte Ctrl+F12 durante a depuração para abrir o console e verificar/imprimir o conteúdo.</o>"
+ },
+ "mod_tiaoshitishi": {
+  "en": "Mod imported. Please \"Add a new save\" or \"Enter a previous save.\"",
+  "ch": "导入模组成功，请手动“新建存档”或“进入老存档”进行调试。",
+  "pt": "Mod importado. Por favor, selecione \"Adicionar um novo save\" ou \"Inserir um save anterior\"."
+ },
+ "mod_tishi1": {
+  "en": "Local Mod",
+  "ch": "本地模组",
+  "pt": "Mod de Localização"
+ },
+ "mod_tishi2": {
+  "en": "Come back to this later",
+  "ch": "稍后再说",
+  "pt": "Volte a isso mais tarde."
+ },
+ "mod_tongyongpeizhi1": {
+  "en": "General Configuration List",
+  "ch": "通用配置列表",
+  "pt": "Lista de Configurações Gerais"
+ },
+ "mod_tongyongpeizhi2": {
+  "en": "Contains all the general configurations. You can open and edit it directly.\n\nE.g., you can configure items on the item sheet directly to get them quickly. You don't have to put them into the command list to get them.",
+  "ch": "包含了所有的通用配置，可以直接打开编辑。\n\n例如道具配置表，通过命令可以产出道具，那么可以直接在此处配置好道具，不需要点击到命令里添加道具。",
+  "pt": "Contém todas as configurações gerais. Você pode abri-lo e editá-lo diretamente.\n\nPor exemplo, você pode configurar itens na planilha de itens diretamente para obtê-los rapidamente. Não é necessário colocá-los na lista de comandos para usá-los."
+ },
+ "mod_tongyongpeizhi3": {
+  "en": "Configuration Table",
+  "ch": "配置表",
+  "pt": "Tabela de Configuração"
+ },
+ "mod_tuichu": {
+  "en": "Quit",
+  "ch": "退出",
+  "pt": "Concluído"
+ },
+ "mod_tupianchongfu": {
+  "en": "File name duplicated! Please change the file name!",
+  "ch": "文件名字重复，请修改文件名称！",
+  "pt": "Nome do arquivo duplicado! Por favor, altere o nome do arquivo!"
+ },
+ "mod_tupianchongfutishi": {
+  "en": "Resource name duplicated. Overwrite?",
+  "ch": "资源名称重复，是否覆盖？",
+  "pt": "Nome do recurso duplicado. Sobrescrever?"
+ }
+}

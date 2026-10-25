@@ -1,0 +1,5349 @@
+{
+ "mod_tupianguoda": {
+  "en": "Picture size too large. Its width and height should not exceed {0}x{1}!",
+  "ch": "图片尺寸过大，图片宽高最大不能超过{0}x{1}！",
+  "pt": "O tamanho da imagem é muito grande. Sua largura e altura não devem exceder {0}x{1}!"
+ },
+ "mod_wanjia": {
+  "en": "Player",
+  "ch": "玩家",
+  "pt": "Reprodutor"
+ },
+ "mod_wanjiazishen": {
+  "en": "0- Player",
+  "ch": "0-玩家自身",
+  "pt": "0- Jogador"
+ },
+ "mod_weihuzhong": {
+  "en": "In maintenance.",
+  "ch": "维护中。",
+  "pt": "Em manutenção."
+ },
+ "mod_weihuzhong2": {
+  "en": "Fanbook community under improvement.",
+  "ch": "fanbook社区优化中。",
+  "pt": "A comunidade Fanbook está em melhoria."
+ },
+ "mod_weihuzhong3": {
+  "en": "Please wait for official notice.",
+  "ch": "请等待官方通知。",
+  "pt": "Por favor, aguarde pelo anúncio oficial."
+ },
+ "mod_weijiazai": {
+  "en": "(Not Loaded)",
+  "ch": "（未加载）",
+  "pt": "(Não carregado)"
+ },
+ "mod_weijiazaimozu": {
+  "en": "<r>(Mod not loaded)</r>",
+  "ch": "<r>（模组未加载）</r>",
+  "pt": "<r>(Mod não carregado)</r>"
+ },
+ "mod_wenben": {
+  "en": "Text content",
+  "ch": "文本内容",
+  "pt": "Conteúdo do texto"
+ },
+ "mod_wu": {
+  "en": "N/A",
+  "ch": "无",
+  "pt": "N/A"
+ },
+ "mod_wushengying": {
+  "en": "No sound",
+  "ch": "无声音",
+  "pt": "Sem som"
+ },
+ "mod_wushuju": {
+  "en": "<r>No Data</r>",
+  "ch": "<r>无数据</r>",
+  "pt": "<r>Sem Dados</r>"
+ },
+ "mod_wushujumiaoshu": {
+  "en": "<r>Error: No data. Please select the correct data!</r>",
+  "ch": "<r>错误：无数据，请选择正确的数据！</r>",
+  "pt": "<r>Erro: Nenhum dado encontrado. Por favor, selecione os dados corretos!</r>"
+ },
+ "mod_wuxue": {
+  "en": "Customized manual",
+  "ch": "调试技能",
+  "pt": "Manual personalizado"
+ },
+ "mod_xiangmu1": {
+  "en": "Mod Project Engineering",
+  "ch": "模组项目工程",
+  "pt": "Engenharia de Projetos de Mods"
+ },
+ "mod_xiangmu2": {
+  "en": "New Project",
+  "ch": "新建项目",
+  "pt": "Novo Projeto"
+ },
+ "mod_xiangmu3": {
+  "en": "Delete",
+  "ch": "删除",
+  "pt": "Excluir"
+ },
+ "mod_xiangmu4": {
+  "en": "Delete project? It cannot be restored after deletion!",
+  "ch": "是否删除项目？删除后不可恢复！",
+  "pt": "Excluir projeto? Ele não poderá ser restaurado após a exclusão!"
+ },
+ "mod_xiangmu5": {
+  "en": "Load this Mod to the game",
+  "ch": "加载此模组到游戏中",
+  "pt": "Carregue este mod no jogo."
+ },
+ "mod_xiangmu6": {
+  "en": "Edit",
+  "ch": "编辑",
+  "pt": "Edição"
+ },
+ "mod_xiangmu7": {
+  "en": "Loaded Mod to the game!",
+  "ch": "成功加载模组到游戏中！",
+  "pt": "Mod carregado no jogo!"
+ },
+ "mod_xiangmu8": {
+  "en": "Mod load failed!",
+  "ch": "加载模组失败！",
+  "pt": "Falha ao carregar o mod!"
+ },
+ "mod_xiangmu9": {
+  "en": "Mod has been removed from the game!",
+  "ch": "模组已从游戏中卸载！",
+  "pt": "O mod foi removido do jogo!"
+ },
+ "mod_xiangmulujing": {
+  "en": "Mod Project List:",
+  "ch": "模组工程目录：",
+  "pt": "Lista de Projetos de Mod:"
+ },
+ "mod_xiaoditutubiao": {
+  "en": "Region map icon",
+  "ch": "小地图图标",
+  "pt": "Ícone do mapa da região"
+ },
+ "mod_xiaoditutubiao2": {
+  "en": "After selecting a region map icon, the event's location will be displayed on the map",
+  "ch": "当设置了小地图图标后，在小地图上会显示出事件位置。",
+  "pt": "Após selecionar o ícone de mapa da região, a localização do evento será exibida no mapa."
+ },
+ "mod_xiaoguo": {
+  "en": "Character effect",
+  "ch": "角色效果",
+  "pt": "Efeito de caractere"
+ },
+ "mod_xiaozongmen1": {
+  "en": "Create a Minor Sect",
+  "ch": "创建小宗门",
+  "pt": "Crie uma Seita menor"
+ },
+ "mod_xiaozongmen10": {
+  "en": "Destiny (Nature) required for creating a Sect",
+  "ch": "创建宗门需要的先天气运",
+  "pt": "O Destino (Natureza) é necessário para criar uma Seita."
+ },
+ "mod_xiaozongmen11": {
+  "en": "You need to choose this Destiny (Nature) when creating a new character to create Minor Sect in the future.\n\n(E.g., choose the Destiny (Nature) \"Elder Dragon Aura\" to create \"Dragon Mountain Hamlet\" in the game)\n\nNormally, you will need to create a Destiny (Nature) customized for the Sect.",
+  "ch": "当玩家新建角色时，必须选择此先天气运才能正常创建小宗门。\n\n（例如选了“龙祖灵息”先天气运，则开局后才会创建“御龙山庄”）\n\n一般需要新建一个小宗门专用的定制先天气运。",
+  "pt": "Você precisa escolher este Destino (Natureza) ao criar um novo personagem, para poder formar uma Seita no futuro.\n\n(Por exemplo, escolha o Destino (Natureza) \"Aura do Dragão Ancião\" para criar a \"Aldeia na Montanha do Dragão\" no jogo.)\n\nNormalmente, será necessário criar um Destino (Natureza) personalizado para a Seita."
+ },
+ "mod_xiaozongmen12": {
+  "en": "Reject",
+  "ch": "拦截入宗条件",
+  "pt": "Rejeitar"
+ },
+ "mod_xiaozongmen13": {
+  "en": "If you have made rejection settings, a Plot will be launched when Sect rejection is triggered.\n\nE.g., Set a rejection trigger: Dragon Mountain Hamlet - reject characters that haven't completed a specified mission; set an Adventure trigger: Adventure will be triggered when characters tap the Sect UI to join the Sect. Then, a Plot will be launched and the characters may complete the specified mission to join Dragon Mountain Hamlet.",
+  "ch": "如配置了拦截入宗条件，则条件达成时，点击申请入宗会弹出剧情。\n\n例如御龙山庄：拦截入宗条件是没有完成某个任务则不能申请加入宗门，配合奇遇触发方式，设置打开宗门UI时触发奇遇，进入剧情流程，完成指定任务后才能加入御龙山庄。",
+  "pt": "Se você configurou definições de rejeição, um Enredo será iniciado quando a rejeição da Seita for acionada.\n\nPor exemplo: defina um gatilho de rejeição como \"Aldeia da Montanha do Dragão\" - rejeitando personagens que não concluíram a missão especificada; defina também um gatilho de Aventura: a Aventura será ativada quando os personagens tocarem na interface da Seita para se juntarem a ela. Em seguida, um Enredo será lançado, e os personagens poderão cumprir a missão determinada para entrar na Aldeia da Montanha do Dragão."
+ },
+ "mod_xiaozongmen14": {
+  "en": "Plot launched when a character is rejected",
+  "ch": "拦截条件达成时打开的剧情",
+  "pt": "Enredo iniciado quando um personagem é rejeitado"
+ },
+ "mod_xiaozongmen15": {
+  "en": "If you have made rejection settings and rejection is triggered when the player applies to join the Sect, a preset Plot will be launched.",
+  "ch": "如果配置了拦截入宗条件，当条件达成时，玩家点击申请入宗，会打开设置的剧情。",
+  "pt": "Se você configurou as definições de rejeição e esta é acionada quando o jogador solicita ingressar na Seita, um enredo predefinido será iniciado."
+ },
+ "mod_xiaozongmen16": {
+  "en": "Minor Sect",
+  "ch": "小宗门",
+  "pt": "Seita Menor"
+ },
+ "mod_xiaozongmen17": {
+  "en": "Required Stat",
+  "ch": "入宗资质要求",
+  "pt": "Estatística necessária"
+ },
+ "mod_xiaozongmen18": {
+  "en": "The player must meet the requirement of any Main Martial Arts of the Sect.",
+  "ch": "玩家的资质必须达到宗门的任意主修功法资质要求。",
+  "pt": "O jogador deve atender aos requisitos de qualquer uma das Artes Marciais principais da Seita."
+ },
+ "mod_xiaozongmen19": {
+  "en": "Required Affinity",
+  "ch": "入宗亲密度要求",
+  "pt": "Afinidade necessária"
+ },
+ "mod_xiaozongmen2": {
+  "en": "Customize a normal Sect",
+  "ch": "定制普通宗门",
+  "pt": "Personalize uma Seita normal."
+ },
+ "mod_xiaozongmen20": {
+  "en": "The player must meet the required Affinity and Stats of the Sect to join it.",
+  "ch": "必须和此宗门的亲密度达到一定值或者资质要求达到才能加入此宗门。",
+  "pt": "O jogador deve possuir a Afinidade e os Atributos exigidos pela Seita para se juntar a ela."
+ },
+ "mod_xiaozongmen21": {
+  "en": "Realm Limit",
+  "ch": "入宗境界限制",
+  "pt": "Limite do Reino"
+ },
+ "mod_xiaozongmen22": {
+  "en": "Players above this Realm cannot join the Sect.",
+  "ch": "当境界超过此值时，申请入宗会提示境界过高，拒绝你加入宗门。",
+  "pt": "Jogadores acima deste Reino não podem se juntar à Seita."
+ },
+ "mod_xiaozongmen23": {
+  "en": "Initial Spirit Stones",
+  "ch": "初始灵石",
+  "pt": "Pedras Espirituais iniciais"
+ },
+ "mod_xiaozongmen24": {
+  "en": "No. of Initial Spirit Stones of the Sect",
+  "ch": "宗门的初始灵石数量",
+  "pt": "Número inicial de Pedras Espirituais da Seita"
+ },
+ "mod_xiaozongmen25": {
+  "en": "Initial Herbs",
+  "ch": "初始药材",
+  "pt": "Ervas iniciais"
+ },
+ "mod_xiaozongmen26": {
+  "en": "No. of Initial Herbs of the Sect",
+  "ch": "宗门的初始药材数量",
+  "pt": "Número de Ervas Iniciais da Seita"
+ },
+ "mod_xiaozongmen27": {
+  "en": "Initial Ores",
+  "ch": "初始矿材",
+  "pt": "Minérios iniciais"
+ },
+ "mod_xiaozongmen28": {
+  "en": "No. of Initial Ores of the Sect",
+  "ch": "宗门的初始矿材数量",
+  "pt": "Número de Minérios Iniciais da Seita"
+ },
+ "mod_xiaozongmen29": {
+  "en": "Whether an initial Sect Leader exists",
+  "ch": "初始是否有宗主",
+  "pt": "Se existe um Líder da Seita inicial"
+ },
+ "mod_xiaozongmen3": {
+  "en": "You can customize the data of Normal Sects in the game. Cannot create new Normal Sects.",
+  "ch": "可自定义游戏里生成的普通宗门数据，不能新增普通宗门。",
+  "pt": "Você pode personalizar os dados das Seitas Normais no jogo. Não é possível criar novas Seitas Normais."
+ },
+ "mod_xiaozongmen30": {
+  "en": "No. of Initial Grand Elders",
+  "ch": "初始大长老数量",
+  "pt": "Número inicial de Grão-Anciões"
+ },
+ "mod_xiaozongmen31": {
+  "en": "No. of Initial Elders",
+  "ch": "初始长老数量",
+  "pt": "Número inicial de Anciões"
+ },
+ "mod_xiaozongmen32": {
+  "en": "No. of Initial True Disciples",
+  "ch": "初始真传弟子数量",
+  "pt": "Número de Discípulos Verdadeiros Iniciais"
+ },
+ "mod_xiaozongmen33": {
+  "en": "No. of Initial Disciples",
+  "ch": "初始内门弟子数量",
+  "pt": "Número de Discípulos Iniciais"
+ },
+ "mod_xiaozongmen34": {
+  "en": "No. of Initial Initiates",
+  "ch": "初始外门弟子数量",
+  "pt": "Número de Iniciados Iniciais"
+ },
+ "mod_xiaozongmen35": {
+  "en": "No. of Initial Backup Disciples",
+  "ch": "初始记名弟子数量",
+  "pt": "Número de Discípulos iniciais para backup"
+ },
+ "mod_xiaozongmen36": {
+  "en": "Initial Prestige",
+  "ch": "初始名誉",
+  "pt": "Prestígio Inicial"
+ },
+ "mod_xiaozongmen37": {
+  "en": "Initial Sect Prestige",
+  "ch": "宗门的初始名誉",
+  "pt": "Prestígio inicial da Seita"
+ },
+ "mod_xiaozongmen38": {
+  "en": "Initial Territory",
+  "ch": "初始领地范围",
+  "pt": "Território Inicial"
+ },
+ "mod_xiaozongmen39": {
+  "en": "Initial Sect Territory",
+  "ch": "宗门的初始领地范围",
+  "pt": "Território Inicial da Seita"
+ },
+ "mod_xiaozongmen4": {
+  "en": "You can create multiple Minor Sects. The Sect generated is determined by Destiny (Nature) chosen by the player when they create the save. A save can have only 1 Minor Sect and it will be located in Yong Ning. (Dragon Mountain Hamlet is the Minor Sect in the game.)",
+  "ch": "可以新增多个小宗门，根据玩家创建存档选择的先天气运来决定生成哪一个宗门，一个存档最多生成一个小宗门，并且位置一定在永宁州（游戏里的御龙山庄就是小宗门）",
+  "pt": "Você pode criar várias Seitas Menores. A Seita que será criada é determinada pelo Destino (Natureza) escolhido pelo jogador ao criar o save. Um save pode conter apenas uma Seita Menor, e ela ficará localizada em Yong Ning. (A Aldeia na Montanha do Dragão é a Seita Menor presente no jogo.)"
+ },
+ "mod_xiaozongmen40": {
+  "en": "Initial Stability",
+  "ch": "初始安定度",
+  "pt": "Estabilidade inicial"
+ },
+ "mod_xiaozongmen41": {
+  "en": "Initial Sect Stability",
+  "ch": "宗门的初始安定度",
+  "pt": "Estabilidade inicial da Seita"
+ },
+ "mod_xiaozongmen42": {
+  "en": "Initial Prosperity",
+  "ch": "初始繁荣度",
+  "pt": "Prosperidade inicial"
+ },
+ "mod_xiaozongmen43": {
+  "en": "Initial Sect Prosperity",
+  "ch": "宗门的初始繁荣度",
+  "pt": "Prosperidade Inicial da Seita"
+ },
+ "mod_xiaozongmen44": {
+  "en": "No. of Initial Martial Arts Types",
+  "ch": "初始功法类型数量",
+  "pt": "Número de tipos iniciais de Artes Marciais"
+ },
+ "mod_xiaozongmen45": {
+  "en": "No. of Initial Sect Martial Arts Type",
+  "ch": "宗门的初始功法类型数量",
+  "pt": "Número de tipos iniciais de Artes Marciais da Seita"
+ },
+ "mod_xiaozongmen46": {
+  "en": "Initial Disciple Loyalty",
+  "ch": "初始弟子忠诚度",
+  "pt": "Lealdade inicial do Discípulo"
+ },
+ "mod_xiaozongmen47": {
+  "en": "Initial Sect Disciple Loyalty",
+  "ch": "宗门的弟子初始忠诚度",
+  "pt": "Lealdade inicial do Discípulo da Seita"
+ },
+ "mod_xiaozongmen48": {
+  "en": "Sect Purpose 1",
+  "ch": "宗门宗旨1",
+  "pt": "Propósito da Seita 1"
+ },
+ "mod_xiaozongmen49": {
+  "en": "Sect Purpose 2",
+  "ch": "宗门宗旨2",
+  "pt": "Propósito da Seita 2"
+ },
+ "mod_xiaozongmen5": {
+  "en": "Sect name",
+  "ch": "宗门名字",
+  "pt": "Nome da Seita"
+ },
+ "mod_xiaozongmen50": {
+  "en": "Sect Rules 1",
+  "ch": "宗门门规1",
+  "pt": "Regras da Seita 1"
+ },
+ "mod_xiaozongmen51": {
+  "en": "Sect Rules 2",
+  "ch": "宗门门规2",
+  "pt": "Regras da Seita 2"
+ },
+ "mod_xiaozongmen6": {
+  "en": "Sect - Special Rewrite Destiny",
+  "ch": "宗门特殊逆天改命",
+  "pt": "Seita - Reescrever o Destino Especial"
+ },
+ "mod_xiaozongmen7": {
+  "en": "You need to join the Sect to trigger Special Rewrite Destiny upon Spirit Pavilion Breakthrough.\n\nNormally, you will need to create a Rewrite Destiny customized for the Sect.",
+  "ch": "只有加入了此宗门，在宗门的灵阁突破时才能出现特殊逆天改命。\n\n一般需要新建一个宗门专用的定制逆天改命。",
+  "pt": "Você precisa se juntar à Seita para ativar o Reescrever o Destino Especial após o Avanço no Pavilhão do Espírito.\n\nGeralmente, será necessário criar um Reescrever o Destino personalizado para a Seita."
+ },
+ "mod_xiaozongmen8": {
+  "en": "Sect's main Martial Arts",
+  "ch": "宗门主修功法",
+  "pt": "Principais Artes Marciais da Seita"
+ },
+ "mod_xiaozongmen9": {
+  "en": "Select the main Martial Arts for your Sect. (For example, the main Martial Arts of Dragon Mountain Hamlet is Spear.)",
+  "ch": "可自定义宗门的主修功法，一般只需要选择一种。（例如御龙山庄，则主修功法选择枪）",
+  "pt": "Selecione a Artes Marciais principal para a sua Seita. (Por exemplo, as Artes Marciais principais do Aldeia da Montanha do Dragão são o uso da Lança.)"
+ },
+ "mod_xiayiye": {
+  "en": "Next",
+  "ch": "下一页",
+  "pt": "Próximo"
+ },
+ "mod_xieyi1": {
+  "en": "By submitting this Mod, you agree to the",
+  "ch": "提交此模组即表明您同意了",
+  "pt": "Ao enviar este Mod, você concorda com o"
+ },
+ "mod_xieyi2": {
+  "en": "Creative Workshop Terms of Service",
+  "ch": "创意工坊服务条款",
+  "pt": "Termos de Serviço do Workshop Criativo"
+ },
+ "mod_xingbiebuyizhi": {
+  "en": "Gender inconsistent!",
+  "ch": "性别不一致！",
+  "pt": "Gênero inconsistente!"
+ },
+ "mod_xingquid": {
+  "en": "Interests",
+  "ch": "兴趣",
+  "pt": "Interesses"
+ },
+ "mod_xinzengshuju": {
+  "en": "Add/edit data",
+  "ch": "新建、编辑数据",
+  "pt": "Adicionar/editar dados"
+ },
+ "mod_xiugaipeizhi1": {
+  "en": "Modify game config",
+  "ch": "修改游戏配置",
+  "pt": "Modificar a configuração do jogo"
+ },
+ "mod_xiugaipeizhi2": {
+  "en": "Modify config to create your mod. Starters are recommended to read the tutorial first.",
+  "ch": "可以通过修改配置的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
+  "pt": "Modifique a configuração para criar o seu mod. Recomenda-se que os iniciantes leiam o tutorial primeiro."
+ },
+ "mod_xiugaipeizhi3": {
+  "en": "Current Config ID:",
+  "ch": "当前配置ID：",
+  "pt": "ID da Configuração Atual:"
+ },
+ "mod_xiugaipeizhi4": {
+  "en": "Reset ID",
+  "ch": "重置ID",
+  "pt": "Redefinir ID"
+ },
+ "mod_xiugaipeizhi5": {
+  "en": "Config ID is the starting point for the index of all configs. You don't need to change it unless there is a clash with another mod.",
+  "ch": "配置ID是所有配置的索引起点，除非遇到多模组冲突情况，否则无需改动。",
+  "pt": "O ID de configuração é o ponto de partida para o índice de todas as configurações. Você não precisa alterá-lo, a menos que haja um conflito com outro mod."
+ },
+ "mod_xiugaipeizhi6": {
+  "en": "After modifying config ID, saves that have loaded this mod will be corrupted. Don't reset config ID unless necessary!!!\n<r>Reset ID?</r>",
+  "ch": "修改配置ID后，已加载过此模组的存档将会损坏，非必要情况，请勿重置配置ID！！！\n<r>是否重置ID？</r>",
+  "pt": "Após modificar o ID da configuração, as partidas que carregaram este mod ficarão corrompidas. Não redefina o ID da configuração a menos que seja necessário!!!\n<r>Redefinir ID?</r>"
+ },
+ "mod_xiugaipeizhi7": {
+  "en": "Open config directory",
+  "ch": "打开配置目录",
+  "pt": "Abrir diretório de configuração"
+ },
+ "mod_xiugaipeizhi8": {
+  "en": "Open tutorial directory",
+  "ch": "打开教程目录",
+  "pt": "Abrir o diretório do tutorial"
+ },
+ "mod_xiugaipeizhibiaoti": {
+  "en": "Modify Config",
+  "ch": "配置修改",
+  "pt": "Modificar Configuração"
+ },
+ "mod_xiugaizhi": {
+  "en": "Changed Value",
+  "ch": "修改的数值",
+  "pt": "Valor alterado"
+ },
+ "mod_xiugaiziyuan1": {
+  "en": "Modify Resources",
+  "ch": "资源修改",
+  "pt": "Modificar recursos"
+ },
+ "mod_xiugaiziyuan2": {
+  "en": "Open tutorial directory",
+  "ch": "打开教程目录",
+  "pt": "Abrir o diretório de tutoriais"
+ },
+ "mod_xiugaiziyuan3": {
+  "en": "Open project directory",
+  "ch": "打开项目目录",
+  "pt": "Abrir diretório do projeto"
+ },
+ "mod_xiugaiziyuan4": {
+  "en": "Modify game resources to create your mod. Starters are recommended to read the tutorial first.",
+  "ch": "可以通过修改游戏资源的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
+  "pt": "Modifique os recursos do jogo para criar seu mod. Recomenda-se que os iniciantes leiam o tutorial primeiro."
+ },
+ "mod_xuanxiang1": {
+  "en": "Button appearance requirements",
+  "ch": "按钮出现条件",
+  "pt": "Requisitos de aparência do botão"
+ },
+ "mod_xuanxiang2": {
+  "en": "If requirements are not met, the button will not appear on the Plot.",
+  "ch": "当条件不满足时，按钮不会出现在剧情上。",
+  "pt": "Se os requisitos não forem atendidos, o botão não aparecerá no Gráfico."
+ },
+ "mod_xuanxiang3": {
+  "en": "Text on the button",
+  "ch": "按钮文本内容",
+  "pt": "Texto no botão"
+ },
+ "mod_xuanxiang4": {
+  "en": "Item cost for tapping on the button",
+  "ch": "点击按钮后需要消耗的物品",
+  "pt": "Custo do Item para tocar no botão"
+ },
+ "mod_xuanxiang5": {
+  "en": "Command executed after tapping on the button",
+  "ch": "点击按钮后执行的命令",
+  "pt": "Comando executado após clicar no botão"
+ },
+ "mod_xuanxiang6": {
+  "en": "Next Plot to go to after tapping on the button",
+  "ch": "点击按钮后跳转的下一个剧情",
+  "pt": "Próximo lote a ser acessado após clicar no botão"
+ },
+ "mod_xuanze": {
+  "en": "Select",
+  "ch": "选择",
+  "pt": "Selecionar"
+ },
+ "mod_xuanzelujing": {
+  "en": "Select path to store Mod project",
+  "ch": "选择存放模组项目路径",
+  "pt": "Selecione o caminho para armazenar o projeto Mod."
+ },
+ "mod_yaocaijineng": {
+  "en": "Herb Artisanship",
+  "ch": "药材技艺",
+  "pt": "Artesanato com Erva"
+ },
+ "mod_yasuochenggong": {
+  "en": "{0} exported. Import in Local Mods in mod main interface to activate it.",
+  "ch": "导出“{0}”成功，需要到模组主界面的“本地模组”导入后模组才能生效。",
+  "pt": "{0} exportado(s). Importe na seção \"Mods Locais\" na interface principal do mod para ativá-lo."
+ },
+ "mod_yeqian": {
+  "en": "Tab:",
+  "ch": "页签：",
+  "pt": "Aba:"
+ },
+ "mod_yichutishi": {
+  "en": "<size=26>The archive used the following Mod but the Mod has been removed (Note: Continuing the game may result in unexpected errors and bugs!)</size>",
+  "ch": "<size=26>此存档使用过以下模组，但模组已被移除（注意：继续游戏可能会产生未知的错误和BUG！）</size>",
+  "pt": "<size=26>O arquivo utilizou o seguinte Mod, mas o Mod foi removido (Observação: Continuar o jogo pode resultar em erros e bugs inesperados!)</size>"
+ },
+ "mod_yidingyue": {
+  "en": "Subscribed",
+  "ch": "已订阅",
+  "pt": "Assinante"
+ },
+ "mod_yidingyuemnozu": {
+  "en": "Subscribed Mods",
+  "ch": "已订阅模组",
+  "pt": "Mods inscritos"
+ },
+ "mod_yidongshang": {
+  "en": "Press Ctrl + ↑ to move it",
+  "ch": "按“Ctrl+方向键↑”移动位置",
+  "pt": "Pressione Ctrl + ↑ para movê-lo."
+ },
+ "mod_yidongxia": {
+  "en": "Press Ctrl + ↓ to move it",
+  "ch": "按“Ctrl+方向键↓”移动位置",
+  "pt": "Pressione Ctrl + ↓ para movê-lo."
+ },
+ "mod_yijiazai": {
+  "en": "(Loaded)",
+  "ch": "（已加载）",
+  "pt": "(Carregado)"
+ },
+ "mod_yijiazaimozu": {
+  "en": "<g>(Mod loaded)</g>",
+  "ch": "<g>（模组已加载）</g>",
+  "pt": "<g>(Mod carregado)</g>"
+ },
+ "mod_yinxiao": {
+  "en": "SFX",
+  "ch": "音效",
+  "pt": "Efeitos sonoros"
+ },
+ "mod_yinxiaogeshi": {
+  "en": "Only wav format sounds can be added",
+  "ch": "只能添加wav格式的声音",
+  "pt": "Apenas arquivos de som no formato WAV podem ser adicionados."
+ },
+ "mod_yongjiu": {
+  "en": "Permanent",
+  "ch": "永久",
+  "pt": "Permanente"
+ },
+ "mod_yulan": {
+  "en": "Select",
+  "ch": "选择",
+  "pt": "Selecionar"
+ },
+ "mod_yulanbiaoti1": {
+  "en": "Artifact",
+  "ch": "法宝",
+  "pt": "Artefato"
+ },
+ "mod_yulanbiaoti10": {
+  "en": "Martial skill",
+  "ch": "武技",
+  "pt": "Técnica Marcial"
+ },
+ "mod_yulanbiaoti11": {
+  "en": "Motion skill",
+  "ch": "身法",
+  "pt": "Técnica de Movimento"
+ },
+ "mod_yulanbiaoti12": {
+  "en": "World map event",
+  "ch": "大地图事件",
+  "pt": "Evento do mapa mundial"
+ },
+ "mod_yulanbiaoti13": {
+  "en": "Character traits",
+  "ch": "性格",
+  "pt": "Traços de caráter"
+ },
+ "mod_yulanbiaoti2": {
+  "en": "Monster",
+  "ch": "怪物",
+  "pt": "Monstro"
+ },
+ "mod_yulanbiaoti3": {
+  "en": "Dungeon",
+  "ch": "副本",
+  "pt": "Masmorra"
+ },
+ "mod_yulanbiaoti4": {
+  "en": "Destiny",
+  "ch": "气运",
+  "pt": "Destino"
+ },
+ "mod_yulanbiaoti5": {
+  "en": "Mission",
+  "ch": "任务",
+  "pt": "Missão"
+ },
+ "mod_yulanbiaoti6": {
+  "en": "World map region",
+  "ch": "大地图区域",
+  "pt": "Região do mapa mundial"
+ },
+ "mod_yulanbiaoti7": {
+  "en": "Item",
+  "ch": "道具",
+  "pt": "Item"
+ },
+ "mod_yulanbiaoti8": {
+  "en": "Plot",
+  "ch": "剧情",
+  "pt": "Enredo"
+ },
+ "mod_yulanbiaoti9": {
+  "en": "Mind skill",
+  "ch": "心法",
+  "pt": "Técnica Mental"
+ },
+ "mod_yulantu1": {
+  "en": "Additional preview images (Optional)",
+  "ch": "额外预览图（可选）",
+  "pt": "Imagens de pré-visualização adicionais (Opcional)"
+ },
+ "mod_yulantu2": {
+  "en": "Settings",
+  "ch": "设置",
+  "pt": "Configurações"
+ },
+ "mod_yulantu3": {
+  "en": "(Preview Image {0}):",
+  "ch": "（预览图{0}）：",
+  "pt": "(Prévia da Imagem {0}):"
+ },
+ "mod_yulantu4": {
+  "en": "Preview Image {0}",
+  "ch": "预览图{0}",
+  "pt": "Imagem de visualização {0}"
+ },
+ "mod_yulantupianchichun": {
+  "en": "({0}) cannot be larger than 1MB!",
+  "ch": "（{0}）不能大于1MB！",
+  "pt": "({0}) não pode ser maior que 1 MB!"
+ },
+ "mod_yunxingkucuowutishi": {
+  "en": "Errors occurred during Mod Loader launch. Some mods are unavailable now. A possible reason is there are Chinese characters in the game installation path. Please refer to the log file under the game installation directory \"MelonLoader\\\\Logs\".",
+  "ch": "由于游戏安装路径存在中文或其他原因，模组加载器启动异常，部分MOD将无法使用，请查看游戏安装目录下的日志文件“MelonLoader\\\\Logs”。",
+  "pt": "Ocorreram erros durante a inicialização do Mod Loader. Alguns mods não estão disponíveis no momento. Uma possível razão para isso é a presença de caracteres chineses no caminho de instalação do jogo. Por favor, consulte o arquivo de log localizado no diretório de instalação do jogo: \"MelonLoader\\\\Logs\"."
+ },
+ "mod_zhantieshuju1": {
+  "en": "Paste data",
+  "ch": "粘贴数据",
+  "pt": "Colar dados"
+ },
+ "mod_zhantieshuju2": {
+  "en": "Create new data and paste",
+  "ch": "新建数据并粘贴",
+  "pt": "Crie novos dados e cole-os"
+ },
+ "mod_zhengdao": {
+  "en": "Righteous",
+  "ch": "正道",
+  "pt": "Justo"
+ },
+ "mod_zhengzaigengxin": {
+  "en": "Updating in progress!",
+  "ch": "正在更新！",
+  "pt": "Atualização em andamento!"
+ },
+ "mod_zhengzaijiazai": {
+  "en": "Loading...",
+  "ch": "正在加载...",
+  "pt": "Carregando..."
+ },
+ "mod_zhengzaixiazai": {
+  "en": "Downloading...",
+  "ch": "正在下载...",
+  "pt": "Baixando..."
+ },
+ "mod_zhijietuichu": {
+  "en": "Do not save",
+  "ch": "不保存",
+  "pt": "Não salvar"
+ },
+ "mod_zhiweishuoming": {
+  "en": "0- None\n1- Sect Leader \n2- Grand Elder\n3- Elder\n4- True Disciple\n5- Disciple\n6- Initiate",
+  "ch": "0-无\n1-宗主\n2-大长老\n3-长老\n4-真传弟子\n5-内门弟子\n6-外门弟子",
+  "pt": "0- Nenhum\n1- Líder da Seita \n2- Grão-Ancião\n3- Ancião\n4- Discípulo Verdadeiro\n5- Discípulo\n6- Iniciado"
+ },
+ "mod_zhizuomozu": {
+  "en": "Create Mod",
+  "ch": "制作模组",
+  "pt": "Criar Mod"
+ },
+ "mod_zhuaqunpc1": {
+  "en": "NPC's current region",
+  "ch": "NPC所在的区域",
+  "pt": "Região atual do NPC"
+ },
+ "mod_zhuaqunpc2": {
+  "en": "NPC's realm requirement",
+  "ch": "NPC的境界要求",
+  "pt": "Requisito de reino para NPCs"
+ },
+ "mod_zhuaqunpc4": {
+  "en": "NPC must be in this region to be extracted successfully.",
+  "ch": "NPC必须处于此区域才能抓取成功。",
+  "pt": "O NPC deve estar nesta região para ser extraído com sucesso."
+ },
+ "mod_zhuaqunpc5": {
+  "en": "NPC must be in this realm to be extracted successfully.",
+  "ch": "NPC必须处于此境界才能抓取成功。",
+  "pt": "O NPC deve estar neste reino para ser extraído com sucesso."
+ },
+ "mod_zhuaqunpc7": {
+  "en": "Extraction condition",
+  "ch": "抓取条件",
+  "pt": "Condição de extração"
+ },
+ "mod_zhuaqunpc8": {
+  "en": "Example 1: If the condition is [specify the relationship between two characters], you can set up the requirement and search for a player's partner.\n\nExample 2: If the condition is [specify the character's realm], you can set up the requirement and search for Transcendent players.\n\nNote: [Specify character XXX determiner] refers to the NPCs you extract, not players.",
+  "ch": "例子1：条件配置的是“指定两个角色的关系判定”，那么可以设置条件找到玩家的道侣。\n\n例子2：条件配置的是“指定角色的境界在什么范围”，那么可以设置条件找到登仙境的NPC。\n\n注意：条件里面“指定角色的XXX判定”命令，都是指抓取到的NPC，而不是指玩家。",
+  "pt": "Observação: [Especifique o determinante do personagem XXX] refere-se aos NPCs que você extrai, não aos jogadores.\n\nExemplo 1: Se a condição for [especifique a relação entre dois personagens], você pode definir o requisito e procurar pelo parceiro de um jogador.\n\nExemplo 2: Se a condição for [especifique o reino do personagem], você pode definir o requisito e procurar por jogadores com Transcendência."
+ },
+ "mod_zhuaqunpcmiaoshu": {
+  "en": "Extract specified NPC. Often used in adventures and plots.\nE.g.: Extract Player's enemies or partners.",
+  "ch": "可以抓取指定的NPC，一般用于奇遇、剧情中。\n例如：抓取玩家的仇人、抓取玩家的道侣等等。",
+  "pt": "Extraia o NPC especificado. É frequentemente usado em aventuras e enredos.\nEx.: Extraia os inimigos ou parceiros do jogador."
+ },
+ "mod_zhuaqunpcpeizhi": {
+  "en": "Extract NPC",
+  "ch": "抓取NPC",
+  "pt": "Extrair NPC"
+ },
+ "mod_zhuauqid": {
+  "en": "Extract NPC",
+  "ch": "抓取NPC",
+  "pt": "Extrair NPC"
+ },
+ "mod_zhujiemian1": {
+  "en": "Local Mods",
+  "ch": "本地模组",
+  "pt": "Mods Locais"
+ },
+ "mod_zhujiemian2": {
+  "en": "Click to manage local mods",
+  "ch": "点击管理本地模组",
+  "pt": "Clique para gerenciar mods locais"
+ },
+ "mod_zhujiemian3": {
+  "en": "Customize Mod",
+  "ch": "自定义模组",
+  "pt": "Mod de Personalização"
+ },
+ "mod_zhujiemian4": {
+  "en": "Click to make a new mod",
+  "ch": "点击制作一个新的模组",
+  "pt": "Clique para criar um novo mod."
+ },
+ "mod_zhujiemian5": {
+  "en": "Download Mod",
+  "ch": "下载模组",
+  "pt": "Baixar Mod"
+ },
+ "mod_zhujiemian6": {
+  "en": "Click to download more mods",
+  "ch": "点击下载更多模组",
+  "pt": "Clique para baixar mais mods"
+ },
+ "mod_zhujiemian7": {
+  "en": "Mod saved. Export it and then import it in Local Modes to activate it!",
+  "ch": "保存成功，需要导出模组，并在“本地模组”导入才能使其生效！",
+  "pt": "Mod salvo. Exporte-o e depois importe-o nos Modos Locais para ativá-lo!"
+ },
+ "mod_zhujiemian8": {
+  "en": "Click to set preview image.\n\nPreview image standard size: 500*300",
+  "ch": "点击设置预览图。\n\n预览图标准尺寸：500*300",
+  "pt": "Clique para definir a imagem de pré-visualização.\n\nTamanho padrão da imagem de pré-visualização: 500*300"
+ },
+ "mod_zhujiemian9": {
+  "en": "Preview Image",
+  "ch": "预览图：",
+  "pt": "Imagem de pré-visualização"
+ },
+ "mod_zhunbeizhuaqu": {
+  "en": "The NPC to extract",
+  "ch": "准备抓取的NPC",
+  "pt": "O NPC a ser extraído"
+ },
+ "mod_zidingyiid1": {
+  "en": "Enter customized ID",
+  "ch": "输入自定义ID",
+  "pt": "Insira um ID personalizado"
+ },
+ "mod_zidingyiid2": {
+  "en": "If you know the ID in the game or a customized ID in another mod, you may just enter the ID.",
+  "ch": "如若知道游戏中的ID，或者其他模组自定义的ID，可以直接输入ID。",
+  "pt": "Se você souber o ID no jogo ou um ID personalizado em outro mod, pode simplesmente inserir o ID."
+ },
+ "mod_zidingyizongmen1": {
+  "en": "{0}#{1} {2} Sect Base \\t\\t{3}",
+  "ch": "{0}第{1}个{2}宗门主舵\\t\\t{3}",
+  "pt": "{0}#{1} {2} Base da Seita \\t\\t{3}"
+ },
+ "mod_zidingyizongmen2": {
+  "en": "Sect data not customized",
+  "ch": "未自定义此宗门的数据",
+  "pt": "Dados da Seita não personalizados"
+ },
+ "mod_zidingyizongmen3": {
+  "en": "Customize",
+  "ch": "自定义",
+  "pt": "Personalizar"
+ },
+ "mod_zidingyizongmen4": {
+  "en": "Customize Sect Base",
+  "ch": "自定义宗门主舵",
+  "pt": "Personalize a Base da Seita"
+ },
+ "mod_zidingyizongmen5": {
+  "en": "You can only customize the data of the current Sect Bases.\n\nAll the Righteous and Demonic Sects' Bases are in the following list.\n\nE.g., you may change the first Righteous Sect in Mu Xian into: Sword Sect.",
+  "ch": "只能自定义已有宗门主舵的数据。\n\n下面列表统计出了游戏中所有正道和魔道宗门的主舵。\n\n例如可把慕仙州正道第一个宗门改为：剑宗。",
+  "pt": "Você só pode personalizar os dados das Bases da Seita atual.\n\nTodas as Bases das Seitas Justo e Demoníaco encontram-se na lista a seguir.\n\nPor exemplo, você pode alterar a primeira Seita Justo em Mu Xian para: Seita da Espada."
+ },
+ "mod_zidingyizongmen6": {
+  "en": "Customize the name to make the edited data effective.",
+  "ch": "自定义名字后，自定义的数据才能生效。",
+  "pt": "Personalize o nome para que os dados editados tenham efeito."
+ },
+ "mod_zidingyizongmen7": {
+  "en": "0- Do not customize Martial Arts",
+  "ch": "0-不自定义功法",
+  "pt": "0 - Não personalize as Artes Marciais"
+ },
+ "mod_zidingyizongmen8": {
+  "en": "Do not customize data",
+  "ch": "不自定义数据",
+  "pt": "Não personalize os dados"
+ },
+ "mod_zongmenmingzi": {
+  "en": "Sect name",
+  "ch": "宗门名字",
+  "pt": "Nome da Seita"
+ },
+ "mod_zongmenrenwu": {
+  "en": "Sect Mission",
+  "ch": "宗门任务",
+  "pt": "Missão da Seita"
+ },
+ "mod_zongmenshuoming": {
+  "en": "Customize a Sect or create one to join.",
+  "ch": "只有自定义宗门或创建新宗门才能选择加入宗门。",
+  "pt": "Personalize uma Seita ou crie uma para se juntar."
+ },
+ "mod_zongmenzongzhi": {
+  "en": "Sect Purpose",
+  "ch": "宗门宗旨",
+  "pt": "Propósito da Seita"
+ },
+ "mod_zongmozu": {
+  "en": "{0} mods in total",
+  "ch": "共{0}个模组",
+  "pt": "{0} mods no total"
+ },
+ "mod_zoqitexiao1": {
+  "en": "Mount Effect",
+  "ch": "坐骑特效",
+  "pt": "Efeito da Montaria"
+ },
+ "mod_zoqitexiao10": {
+  "en": "Background Effect",
+  "ch": "背景特效",
+  "pt": "Efeito de Fundo"
+ },
+ "mod_zoqitexiao11": {
+  "en": "Background Effect Level",
+  "ch": "背景特效层级",
+  "pt": "Nível do Efeito de Fundo"
+ },
+ "mod_zoqitexiao12": {
+  "en": "0- Before the background",
+  "ch": "0-在背景前面",
+  "pt": "0- Antes do plano de fundo"
+ },
+ "mod_zoqitexiao13": {
+  "en": "1- Behind the background",
+  "ch": "1-在背景后面",
+  "pt": "1- Por trás do pano de fundo"
+ },
+ "mod_zoqitexiao14": {
+  "en": "Background Effect Offset:",
+  "ch": "背景特效偏移：",
+  "pt": "Deslocamento do Efeito de Fundo:"
+ },
+ "mod_zoqitexiao15": {
+  "en": "Background Effect Zoom:",
+  "ch": "背景特效缩放：",
+  "pt": "Efeito de Zoom de Fundo:"
+ },
+ "mod_zoqitexiao16": {
+  "en": "Background Effect (tap to choose)",
+  "ch": "背景特效（点击选择）",
+  "pt": "Efeito de Fundo (toque para escolher)"
+ },
+ "mod_zoqitexiao2": {
+  "en": "Mount Effect Level",
+  "ch": "坐骑特效层级",
+  "pt": "Nível do Efeito da Montaria"
+ },
+ "mod_zoqitexiao3": {
+  "en": "0- Before the mount",
+  "ch": "0-在坐骑前面",
+  "pt": "0 - Antes da montaria"
+ },
+ "mod_zoqitexiao4": {
+  "en": "1- Behind the mount",
+  "ch": "1-在坐骑后面",
+  "pt": "1- Atrás da montaria"
+ },
+ "mod_zoqitexiao5": {
+  "en": "Mount Effect Offset:",
+  "ch": "坐骑特效偏移：",
+  "pt": "Deslocamento do Efeito da Montaria:"
+ },
+ "mod_zoqitexiao6": {
+  "en": "Mount Effect Zoom:",
+  "ch": "坐骑特效缩放：",
+  "pt": "Efeito de Zoom da Montaria:"
+ },
+ "mod_zoqitexiao7": {
+  "en": "Mount Effect (tap to choose)",
+  "ch": "坐骑特效（点击选择）",
+  "pt": "Efeito da Montaria (toque para escolher)"
+ },
+ "mod_zoqitexiao8": {
+  "en": "No effect",
+  "ch": "无特效",
+  "pt": "Sem efeito"
+ },
+ "mod_zoqitexiao9": {
+  "en": "Effect:",
+  "ch": "特效：",
+  "pt": "Efeito:"
+ },
+ "mod_zuidazifu1": {
+  "en": "Text length capped at {0} bytes!",
+  "ch": "文本总字节数不能超过{0}！",
+  "pt": "O comprimento do texto está limitado a {0} bytes!"
+ },
+ "mod_zuoqi1": {
+  "en": "Mount Effect",
+  "ch": "坐骑效果",
+  "pt": "Efeito da Montaria"
+ },
+ "mod_zuoqi2": {
+  "en": "Mount Model",
+  "ch": "坐骑模型",
+  "pt": "Modelo da Montaria"
+ },
+ "mod_zuoqi3": {
+  "en": "Sound of walking on World map",
+  "ch": "大地图行走的声音",
+  "pt": "Som de passos na mapa do mundo"
+ },
+ "mod_zuoqi5": {
+  "en": "Realm use requirement",
+  "ch": "使用境界要求",
+  "pt": "Requisito de uso do Reino"
+ },
+ "mod_zuoqidonghua0": {
+  "en": "0- Still",
+  "ch": "0-静止不动",
+  "pt": "0- Ainda"
+ },
+ "mod_zuoqidonghua1": {
+  "en": "1- Up and down",
+  "ch": "1-上下移动",
+  "pt": "1- Para cima e para baixo"
+ },
+ "mod_zuoqidonghua10": {
+  "en": "10- Vertical Movement + Horizontal Rotation (Normal)",
+  "ch": "10-上下移动+平面旋转（中速）",
+  "pt": "10 - Movimento vertical + Rotação horizontal (Normal)"
+ },
+ "mod_zuoqidonghua11": {
+  "en": "11- Vertical Movement + Horizontal Rotation (Fast)",
+  "ch": "11-上下移动+平面旋转（快速）",
+  "pt": "11- Movimento vertical + Rotação horizontal (Rápido)"
+ },
+ "mod_zuoqidonghua12": {
+  "en": "12- Vertical Movement + 60 Degree Rotation (Slow)",
+  "ch": "12-上下移动+60度旋转（慢速）",
+  "pt": "12- Movimento vertical + Rotação de 60 graus (lento)"
+ },
+ "mod_zuoqidonghua13": {
+  "en": "13- Vertical Movement + 60 Degree Rotation (Normal)",
+  "ch": "13-上下移动+60度旋转（中速）",
+  "pt": "13- Movimento vertical + rotação de 60 graus (normal)"
+ },
+ "mod_zuoqidonghua14": {
+  "en": "14- Vertical Movement + 60 Degree Rotation (Fast)",
+  "ch": "14-上下移动+60度旋转（快速）",
+  "pt": "14 - Movimento vertical + rotação de 60 graus (rápido)"
+ },
+ "mod_zuoqidonghua15": {
+  "en": "15- Horizontal Movement + Horizontal Rotation (Slow)",
+  "ch": "15-左右移动+平面旋转（慢速）",
+  "pt": "15- Movimento horizontal + Rotação horizontal (lenta)"
+ },
+ "mod_zuoqidonghua16": {
+  "en": "16- Horizontal Movement + Horizontal Rotation (Normal)",
+  "ch": "16-左右移动+平面旋转（中速）",
+  "pt": "16 - Movimento Horizontal + Rotação Horizontal (Normal)"
+ },
+ "mod_zuoqidonghua17": {
+  "en": "17- Horizontal Movement + Horizontal Rotation (Fast)",
+  "ch": "17-左右移动+平面旋转（快速）",
+  "pt": "17 - Movimento horizontal + Rotação horizontal (rápida)"
+ },
+ "mod_zuoqidonghua18": {
+  "en": "18- Horizontal Movement + 60 Degree Rotation (Slow)",
+  "ch": "18-左右移动+60度旋转（慢速）",
+  "pt": "18- Movimento horizontal + Rotação de 60 graus (lento)"
+ },
+ "mod_zuoqidonghua19": {
+  "en": "19- Horizontal Movement + 60 Degree Rotation (Normal)",
+  "ch": "19-左右移动+60度旋转（中速）",
+  "pt": "19 - Movimento horizontal + rotação de 60 graus (normal)"
+ },
+ "mod_zuoqidonghua2": {
+  "en": "2- Left and right",
+  "ch": "2-左右移动",
+  "pt": "2- Esquerda e direita"
+ },
+ "mod_zuoqidonghua20": {
+  "en": "20- Horizontal Movement + 60 Degree Rotation (Fast)",
+  "ch": "20-左右移动+60度旋转（快速）",
+  "pt": "20 - Movimento horizontal + rotação de 60 graus (rápido)"
+ },
+ "mod_zuoqidonghua3": {
+  "en": "3- Horizontal Rotation (Slow)",
+  "ch": "3-平面旋转（慢速）",
+  "pt": "3- Rotação Horizontal (Lenta)"
+ },
+ "mod_zuoqidonghua4": {
+  "en": "4- Horizontal Rotation (Normal)",
+  "ch": "4-平面旋转（中速）",
+  "pt": "4- Rotação Horizontal (Normal)"
+ },
+ "mod_zuoqidonghua5": {
+  "en": "5- Horizontal Rotation (Fast)",
+  "ch": "5-平面旋转（快速）",
+  "pt": "5- Rotação Horizontal (Rápida)"
+ },
+ "mod_zuoqidonghua6": {
+  "en": "6-60 Degree Rotation (Slow)",
+  "ch": "6-60度旋转（慢速）",
+  "pt": "Rotação de 6 a 60 graus (lenta)"
+ },
+ "mod_zuoqidonghua7": {
+  "en": "7-60 Degree Rotation (Normal)",
+  "ch": "7-60度旋转（中速）",
+  "pt": "Rotação de 7 a 60 graus (Normal)"
+ },
+ "mod_zuoqidonghua8": {
+  "en": "8-60 Degree Rotation (Fast)",
+  "ch": "8-60度旋转（快速）",
+  "pt": "Rotação de 8 a 60 graus (rápida)"
+ },
+ "mod_zuoqidonghua9": {
+  "en": "9- Vertical Movement + Horizontal Rotation (Slow)",
+  "ch": "9-上下移动+平面旋转（慢速）",
+  "pt": "9- Movimento vertical + Rotação horizontal (lenta)"
+ },
+ "mod_zuoqimoxing": {
+  "en": "Mount Model",
+  "ch": "坐骑模型",
+  "pt": "Modelo da Montaria"
+ },
+ "mod_zuoqimoxing1": {
+  "en": "Mount Model",
+  "ch": "坐骑模型",
+  "pt": "Modelo da Montaria"
+ },
+ "mod_zuoqimoxing10": {
+  "en": "Size of a map tile: width 125, height 125.",
+  "ch": "地图一个格子大小：宽125*高125。",
+  "pt": "Tamanho de um tile de mapa: largura 125, altura 125."
+ },
+ "mod_zuoqimoxing2": {
+  "en": "Add Mount Model",
+  "ch": "添加坐骑模型",
+  "pt": "Adicionar modelo de Montaria"
+ },
+ "mod_zuoqimoxing29": {
+  "en": "UI Model Offset:",
+  "ch": "UI模型偏移：",
+  "pt": "Deslocamento do Modelo UI:"
+ },
+ "mod_zuoqimoxing3": {
+  "en": "UI Model Background Size (for reference): width 510, height 700.\n\nUse a special tool to make a transparent picture model.",
+  "ch": "UI模型背景大小参考：宽510*高700。\n\n需要使用专用工具制作透明图片模型。",
+  "pt": "Tamanho do fundo do modelo da UI (para referência): largura 510, altura 700.\n\nUse uma outras ferramenta para criar um modelo de imagem transparente."
+ },
+ "mod_zuoqimoxing30": {
+  "en": "Mount Model Offset:",
+  "ch": "坐骑模型偏移：",
+  "pt": "Deslocamento do modelo da Montaria:"
+ },
+ "mod_zuoqimoxing31": {
+  "en": "Player Model Offset:",
+  "ch": "玩家模型偏移：",
+  "pt": "Deslocamento do modelo do jogador:"
+ },
+ "mod_zuoqimoxing32": {
+  "en": "Please add UI Model Pic",
+  "ch": "请添加UI模型图片",
+  "pt": "Por favor, adicione a imagem do modelo de UI."
+ },
+ "mod_zuoqimoxing33": {
+  "en": "Please add Mount Pic",
+  "ch": "请添加坐骑图片",
+  "pt": "Por favor, adicione a Montaria Pic."
+ },
+ "mod_zuoqimoxing34": {
+  "en": "UI Model Zoom:",
+  "ch": "UI模型缩放：",
+  "pt": "Zoom do Modelo de UI:"
+ },
+ "mod_zuoqimoxing35": {
+  "en": "Mount Model Zoom:",
+  "ch": "坐骑模型缩放：",
+  "pt": "Modelo de Montaria Zoom:"
+ },
+ "mod_zuoqimoxing36": {
+  "en": "Player Animation Type",
+  "ch": "玩家动画类型",
+  "pt": "Tipo de Animação do Jogador"
+ },
+ "mod_zuoqimoxing37": {
+  "en": "1- Sit",
+  "ch": "1-坐着",
+  "pt": "1- Situação"
+ },
+ "mod_zuoqimoxing38": {
+  "en": "2- Stand",
+  "ch": "2-站立",
+  "pt": "2- Suporte"
+ },
+ "mod_zuoqimoxing39": {
+  "en": "3- Squat",
+  "ch": "3-半蹲",
+  "pt": "3- Agachamento"
+ },
+ "mod_zuoqimoxing4": {
+  "en": "UI Model Animation Type",
+  "ch": "UI模型动画类型",
+  "pt": "Tipo de animação do modelo de UI"
+ },
+ "mod_zuoqimoxing5": {
+  "en": "Add UI Model Pic",
+  "ch": "添加UI模型图片",
+  "pt": "Adicionar imagem do modelo de UI"
+ },
+ "mod_zuoqimoxing6": {
+  "en": "World Map Model Animation Type",
+  "ch": "大地图模型动画类型",
+  "pt": "Tipo de animação do modelo de Mapa mundial"
+ },
+ "mod_zuoqimoxing7": {
+  "en": "Add Mount Pic",
+  "ch": "添加坐骑图片",
+  "pt": "Adicione a Montaria Pic"
+ },
+ "mod_zuoqimoxing8": {
+  "en": "Size of a map tile: width 125, height 125.\n\nUse a special tool to make a transparent picture model.",
+  "ch": "地图一个格子大小：宽125*高125。\n\n需要使用专用工具制作透明图片模型。",
+  "pt": "Tamanho de um tile de mapa: largura 125, altura 125.\n\nUse uma ferramenta especial para criar um modelo de imagem transparente."
+ },
+ "mod_zuoqimoxing9": {
+  "en": "UI Model Background Size (for reference): width 510, height 700.",
+  "ch": "UI模型背景大小参考：宽510*高700。",
+  "pt": "Tamanho do plano de fundo do modelo de UI (para referência): largura 510, altura 700."
+ },
+ "mod_zuoqitishi": {
+  "en": "After creating a mount model, you need to create an item (select mount type), select your mount model for that item, and then generate that item in the game to use the mount.",
+  "ch": "制作好坐骑模型后，需要制作一个道具（选择坐骑类型），道具里选择你的坐骑模型，然后在游戏中产出这个道具，即可使用坐骑。",
+  "pt": "Após criar um modelo de montaria, você precisa criar um item (selecionando o tipo \"montaria\"), escolher o modelo de montaria para esse item e, em seguida, gerar o item no jogo para poder utilizá-lo."
+ },
+ "mod_zuozhe1": {
+  "en": "Author:",
+  "ch": "作者：",
+  "pt": "Autor:"
+ },
+ "mod_zuozhe2": {
+  "en": "Click to enter the author's name",
+  "ch": "点击输入作者名称",
+  "pt": "Clique para inserir o nome do autor"
+ },
+ "mod_zuozhe3": {
+  "en": "Mod Author",
+  "ch": "模组作者",
+  "pt": "Autor do Mod"
+ },
+ "modbupanduanquyu": {
+  "en": "All regions",
+  "ch": "所有区域",
+  "pt": "Todas as regiões"
+ },
+ "modchuangjiannpc12": {
+  "en": "Randomize Destiny",
+  "ch": "随机气运",
+  "pt": "Randomize o Destino"
+ },
+ "modchuangjiannpc13": {
+  "en": "Randomize Character Traits",
+  "ch": "随机性格",
+  "pt": "Randomizar traços de personalidade"
+ },
+ "modchuangjiannpc15": {
+  "en": "No Destiny (Nurture)",
+  "ch": "无后天气运",
+  "pt": "No Destino (Criação)"
+ },
+ "moddangqianquyu": {
+  "en": "Current region",
+  "ch": "当前区域",
+  "pt": "Região atual"
+ },
+ "modditudian1": {
+  "en": "Player's current region",
+  "ch": "玩家所在的区域",
+  "pt": "Região atual do jogador"
+ },
+ "modditudian2": {
+  "en": "No region restriction",
+  "ch": "不限制区域",
+  "pt": "Sem restrição de região"
+ },
+ "modrenyiqiling": {
+  "en": "Any Artifact Spirit",
+  "ch": "任意器灵",
+  "pt": "Qualquer Espírito do Artefato"
+ },
+ "modsuoyouquyu": {
+  "en": "All regions",
+  "ch": "所有区域",
+  "pt": "Todas as regiões"
+ },
+ "modwanjia": {
+  "en": "Player",
+  "ch": "玩家",
+  "pt": "Reprodutor"
+ },
+ "modwu": {
+  "en": "N/A",
+  "ch": "无",
+  "pt": "N/A"
+ },
+ "modwufenlei": {
+  "en": "No classification conditions",
+  "ch": "无分类条件",
+  "pt": "Sem condições de classificação"
+ },
+ "modwutubiao": {
+  "en": "No icon",
+  "ch": "无图标",
+  "pt": "No ícone"
+ },
+ "modwuxiaohao": {
+  "en": "No Cost",
+  "ch": "无消耗",
+  "pt": "Sem Custo"
+ },
+ "modwuyaoqiu": {
+  "en": "No requirements",
+  "ch": "无要求",
+  "pt": "Nenhum requisito"
+ },
+ "modwuziziyaoqiu": {
+  "en": "No stat requirement",
+  "ch": "无资质要求",
+  "pt": "Sem requisito de estatística"
+ },
+ "modzhuaqunpc11": {
+  "en": "No region requirement",
+  "ch": "无区域要求",
+  "pt": "Nenhum requisito de região"
+ },
+ "modzhuaqunpc12": {
+  "en": "Same region with Player",
+  "ch": "与玩家同区域",
+  "pt": "Mesma região com o Jogador"
+ },
+ "modzhuaqunpc13": {
+  "en": "No realm requirement",
+  "ch": "无境界要求",
+  "pt": "Sem requisito de reino"
+ },
+ "monthLogBig_guanbitishi": {
+  "en": "Close all?",
+  "ch": "确认关闭所有记录吗？",
+  "pt": "Fechar tudo?"
+ },
+ "monthLogBig_tiaoshu": {
+  "en": "{0}/{1}",
+  "ch": "第{0}/{1}条",
+  "pt": "{0}/{1}"
+ },
+ "monthLogBig_xiayige": {
+  "en": "Next",
+  "ch": "下一条",
+  "pt": "Próximo"
+ },
+ "monthLogReason2047901": {
+  "en": "Insufficient Sects in the tournament.",
+  "ch": "参赛的宗门数量不足",
+  "pt": "Número insuficiente de Seitas no torneio."
+ },
+ "monthLogReason2047902": {
+  "en": "Some Sects forfeited due to insufficient Disciples, resulting in insufficient Sects in the tournament.",
+  "ch": "部分宗门参赛弟子不足而弃权，导致参赛的宗门数量不足",
+  "pt": "Algumas Seitas desistiram devido ao número insuficiente de Discípulos, resultando em poucas Seitas participando do torneio."
+ },
+ "monthLogReason2047903": {
+  "en": "Some Sects forfeited due to the absence of Sect Leader, resulting in insufficient Sects in the tournament.",
+  "ch": "部分宗门没有宗主领队而弃权，导致参赛的宗门数量不足",
+  "pt": "Algumas Seitas desistiram devido à ausência do Líder da Seita, resultando em um número insuficiente de Seitas no torneio."
+ },
+ "monthLogReason2047904": {
+  "en": "Restricted by the law of the Heavenly Path, the Dragon Gate cannot be opened.",
+  "ch": "天道法则压制，导致龙门大门无法开启。",
+  "pt": "Restrito pela lei do Caminho Celestial, o Portão do Dragão não pode ser aberto."
+ },
+ "monthLog_guanxi": {
+  "en": "Relationship Changes",
+  "ch": "关系变化",
+  "pt": "Mudanças nos relacionamentos"
+ },
+ "monthLog_yuejie": {
+  "en": "Monthly Summary",
+  "ch": "月结事件",
+  "pt": "Resumo Mensal"
+ },
+ "monthTip_beibao": {
+  "en": "There are still items in your Temporary Inventory.",
+  "ch": "临时背包存在道具",
+  "pt": "Ainda existem items no seu Inventário Temporário."
+ },
+ "monthTip_chuansong": {
+  "en": "You can use {0} Teleportation Charms this month",
+  "ch": "本月有{0}张传送符生效",
+  "pt": "Você pode usar {0} Talismãs de Teletransporte este mês."
+ },
+ "monthTip_qinglibeibao": {
+  "en": "You have unsorted items in your Temporary Inventory. Sort your Inventory first.",
+  "ch": "临时背包还有道具未整理，请先整理临时背包。",
+  "pt": "Você tem itemns não organizados no seu Inventário Temporário. Organize seu Inventário primeiro."
+ },
+ "movebukeyidong": {
+  "en": "不可移动到此位置",
+  "ch": "不可移动到此位置",
+  "pt": "Não é possível mover para esta posição"
+ },
+ "muou_race": {
+  "en": "Unknown",
+  "ch": "未知",
+  "pt": "Desconhecido"
+ },
+ "nameFix_BranchName": {
+  "en": "Change branch name",
+  "ch": "改分舵名称",
+  "pt": "Alterar nome do branch"
+ },
+ "nameFix_FixItem1": {
+  "en": "Change Sect Rules",
+  "ch": "改宗门门规",
+  "pt": "Alterar as regras da Seita"
+ },
+ "nameFix_FixItemTip": {
+  "en": "Select the Sect rules you want to edit above, and select which one you want to change it to below. Sect Traits cannot be edited. The Sect Purpose is automatically generated based on the Sect rules and traits.",
+  "ch": "上面选择要修改的宗门门规，下面选择要修改为哪一个。宗门特质无法修改。宗门宗旨根据门规和特质自动生成。",
+  "pt": "Selecione acima as regras da Seita que você deseja editar, e escolha abaixo qual regra deseja definir. As características da Seita não podem ser editadas. O propósito da Seita é gerado automaticamente com base nas regras e características da Seita."
+ },
+ "nameFix_FixItemTitle": {
+  "en": "Edit Sect Rules",
+  "ch": "修改宗门门规",
+  "pt": "Editar as Regras da Seita"
+ },
+ "nameFix_FixStand": {
+  "en": "<u>Tap to replace Demonic faction</u>",
+  "ch": "<u>点此更换正魔立场</u>",
+  "pt": "<u>Toque para substituir a facção Demoníaca</u>"
+ },
+ "nameFix_MainName": {
+  "en": "Change Sect Name",
+  "ch": "改宗门名称",
+  "pt": "Alterar nome da Seita"
+ },
+ "nameFix_branchNameTitle": {
+  "en": "Edit branch name",
+  "ch": "修改分舵名称",
+  "pt": "Editar nome do branch"
+ },
+ "nameFix_check": {
+  "en": "Confirm change from <r>{0}</r> to <r>{1}</r>?",
+  "ch": "确认将<r>{0}</r>修改为<r>{1}</r>吗？",
+  "pt": "Confirmar a alteração de <r>{0}</r> para <r>{1}</r>?"
+ },
+ "nameFix_errSlogan": {
+  "en": "Cannot repeat selection of Sect rules",
+  "ch": "无法重复选择门规",
+  "pt": "Não é possível repetir a seleção de regras da Seita."
+ },
+ "nameFix_mainNameTitle": {
+  "en": "Edit Sect name",
+  "ch": "修改宗门名称",
+  "pt": "Editar nome da Seita"
+ },
+ "nameFix_tips": {
+  "en": "Are you sure you want to change to the Demonic faction? This might upset Disciples and make them leave the Sect!",
+  "ch": "确定修改正魔立场吗？可能会让某些弟子不满并脱离宗门！",
+  "pt": "Tem certeza de que deseja mudar para a facção Demoníaca? Isso pode aborrecer os Discípulos e fazê-los deixar a Seita!"
+ },
+ "nianlingweizhi": {
+  "en": "Unknown",
+  "ch": "未知",
+  "pt": "Desconhecido"
+ },
+ "nitianElder_huashenzhiqi": {
+  "en": "Reaching Soul Formation requires the material (1/1) below",
+  "ch": "化神需要以下（1/1）个材料",
+  "pt": "Para alcançar a Formação da Alma, é necessário o material (1/1) abaixo."
+ },
+ "nitianElder_wuqi": {
+  "en": "Divine Soul",
+  "ch": "神魂",
+  "pt": "Alma Divina"
+ },
+ "nitianElder_wuqiheyi": {
+  "en": "Reaching Soul Formation requires activating the Divine Souls (5/5) below",
+  "ch": "化神需要激活以下（5/5）个神魂",
+  "pt": "Para alcançar a Formação da Alma, é necessário ativar as 5 Almas Divinas abaixo."
+ },
+ "nitianRule_daohun": {
+  "en": "Tao Soul",
+  "ch": "道魂",
+  "nomes": {
+   "Tao Soul": "Alma do Dao"
+  },
+  "pt": "Alma do Dao"
+ },
+ "nitianRule_wudao": {
+  "en": "Enlightenment (VIII)",
+  "ch": "悟道",
+  "pt": "Iluminação (VIII)"
+ },
+ "nitianRule_wudaotext": {
+  "en": "Collect 3 Tao Souls with matching stats to combine them",
+  "ch": "收集3个属性匹配的道魂，即可融合",
+  "pt": "Colete 3 Almas do Dao com atributos iguais para combiná-las."
+ },
+ "nitianRule_wudaotext1": {
+  "en": "Enlightenment requires {0} of the materials from below",
+  "ch": "悟道需要以下（{0}）个材料",
+  "pt": "A Iluminação requer {0} dos materials listados abaixo."
+ },
+ "nitian_biyaotiaojian": {
+  "en": "Conditions",
+  "ch": "必要条件",
+  "pt": "Condições"
+ },
+ "nitian_dengxianText": {
+  "en": "Transcendent requires one of the materials below",
+  "ch": "登仙需要以下材料之一",
+  "pt": "A Transcendência requer um dos materiales abaixo."
+ },
+ "nitian_queshaobiyaocailiao": {
+  "en": "Necessary materials not enough",
+  "ch": "缺少必要材料",
+  "pt": "Material necessário, mas insuficiente"
+ },
+ "nitian_queshaotiancailibao": {
+  "en": "Heaven and Earth Treasure not enough",
+  "ch": "缺少天材地宝",
+  "pt": "O Tesouro do Céu e da Terra não é suficiente."
+ },
+ "nitian_text1": {
+  "en": "(Breakthrough completed)",
+  "ch": "（已突破）",
+  "pt": "(Avanço concluído)"
+ },
+ "nitian_text10": {
+  "en": "Necessary Materials",
+  "ch": "必要材料",
+  "pt": "Material Necessário"
+ },
+ "nitian_text11": {
+  "en": "(Any {0})",
+  "ch": "（任意{0}个)",
+  "pt": "(Qualquer {0})"
+ },
+ "nitian_text12": {
+  "en": "Heaven and Earth Treasure",
+  "ch": "天材地宝",
+  "pt": "Tesouro do Céu e da Terra"
+ },
+ "nitian_text13": {
+  "en": "Reach this Realm to Rewrite Destiny",
+  "ch": "突破至此境界可获得逆天改命效果",
+  "pt": "Acesse este Reino para Reescrever o Destino."
+ },
+ "nitian_text14": {
+  "en": "(Breakthrough not completed)",
+  "ch": "（未突破）",
+  "pt": "(Avanço não concluído)"
+ },
+ "nitian_text15": {
+  "en": "EXP: ",
+  "ch": "修为：",
+  "pt": "EXP: "
+ },
+ "nitian_text16": {
+  "en": "Reach {0} to check",
+  "ch": "达到{0}境后可查看",
+  "pt": "Alcance {0} para verificar"
+ },
+ "nitian_text17": {
+  "en": "Sources",
+  "ch": "获取途径",
+  "pt": "Fontes"
+ },
+ "nitian_text18": {
+  "en": "All the materials below",
+  "ch": "以下所有材料",
+  "pt": "Todos os materiales abaixo"
+ },
+ "nitian_text19": {
+  "en": "Requires {0} of the materials from below",
+  "ch": "需要以下（{0}）个材料",
+  "pt": "É necessário {0} do material listado abaixo."
+ },
+ "nitian_text2": {
+  "en": "Cultivation Speed",
+  "ch": "修炼速度",
+  "pt": "Velocidade do Cultivo"
+ },
+ "nitian_text20": {
+  "en": "Heaven and Earth Treasure increases your stat boost upon {0}",
+  "ch": "天材地宝可提升{0}时所获得的属性",
+  "pt": "O Tesouro do Céu e da Terra aumenta o seu aumento de atributos ao {0}"
+ },
+ "nitian_text21": {
+  "en": "Click a material to view its sources",
+  "ch": "点击材料可查看其获取途径",
+  "pt": "Clique em um material para ver suas fontes."
+ },
+ "nitian_text22": {
+  "en": "Owned: ",
+  "ch": "持有：",
+  "pt": "Propriedade de: "
+ },
+ "nitian_text23": {
+  "en": "Requires {0} of the Heaven and Earth Treasures from below",
+  "ch": "需要以下（{0}）个天材地宝",
+  "pt": "É necessário {0} dos Tesouros do Céu e da Terra listados abaixo."
+ },
+ "nitian_text3": {
+  "en": "Skill Point",
+  "ch": "道点",
+  "pt": "Ponto de Habilidade"
+ },
+ "nitian_text4": {
+  "en": "Functional Item",
+  "ch": "装备道具",
+  "pt": "Item funcional"
+ },
+ "nitian_text5": {
+  "en": "Unlocked:",
+  "ch": "开启功能：",
+  "pt": "Desbloqueado:"
+ },
+ "nitian_text6": {
+  "en": "Early",
+  "ch": "初期",
+  "pt": "Cedo"
+ },
+ "nitian_text7": {
+  "en": "Middle",
+  "ch": "中期",
+  "pt": "Médio"
+ },
+ "nitian_text8": {
+  "en": "Late",
+  "ch": "后期",
+  "pt": "Atrasado"
+ },
+ "nitian_text9": {
+  "en": "Rewrite Destiny",
+  "ch": "逆天改命",
+  "pt": "Reescrever o Destino"
+ },
+ "nitian_yuhuatiaojian": {
+  "en": "Blend 5 different Nether Seeds to unlock Nether Feather Challenge. Win the challenge to unlock Reborn.",
+  "ch": "融合5个不同的冥种开启冥羽挑战，挑战成功后即可羽化",
+  "pt": "Misture 5 Sementes do Submundo diferentes para desbloquear o Desafio da Pena do Submundo. Vença o desafio para desbloquear o Renascimento."
+ },
+ "noHeroesTupoTips": {
+  "en": "Currently no condensed Taoist Mind. Continuing to Breakthrough will not obtain Rewrite Destiny. Continue?",
+  "ch": "当前未凝结道心，继续突破无法获得逆天改命，是否继续？",
+  "pt": "Atualmente, não há um Coração do Dao condensado. Continuar buscando o Avanço não resultará em um Reescrever o Destino. Deseja continuar?"
+ },
+ "notActive": {
+  "en": "Not activated",
+  "ch": "未激活",
+  "pt": "Não ativado"
+ },
+ "noticeContent101": {
+  "en": "{0} is organizing an auction where tons of precious items and Manuals are for sale. Make sure that you save up enough Spirit Stones, or you might miss your dream items!",
+  "ch": "{0}的商会最近筹备着一次拍卖会，各种奇珍异宝、秘籍材料，可能会有想不到的惊喜，准备好充足的灵石，不然就走宝了！",
+  "pt": "{0} está organizando um leilão no qual vários item preciosos e Manuais estão à venda. Certifique-se de economizar bastante Pedras Espirituais; caso contrário, a senhorita pode acabar não conseguindo adquirir os item dos seus sonhos!"
+ },
+ "noticeContent102": {
+  "en": "The item you put up for auction at {0} wasn't sold. Please head to {1} and retrieve it. It'll be kept for up to 2 years.",
+  "ch": "你在{0}的商会中寄拍的以下道具流拍了，请及时前往{1}取回，商会将最多保管2年时间，超过时间未取回将由商会自行处理！",
+  "pt": "O item que você colocou em leilão em {0} não foi vendido. Por favor, acesse {1} para recuperá-lo. Ele será mantido lá por até 2 anos."
+ },
+ "noticeTitle101": {
+  "en": "Auction",
+  "ch": "拍卖会",
+  "pt": "Leilão"
+ },
+ "noticeTitle102": {
+  "en": "Retrieve Item",
+  "ch": "道具取回",
+  "pt": "Recuperar Item"
+ },
+ "npcDaoxinPosuiTips": {
+  "en": "The Taoist Seed has been completely shattered and cannot regain its Dedication.\nAfter replanting the Taoist Seed, it has the possibility to become a Taoist Mind.\nThe more times the Taoist Mind is broken, the more difficult it is for the Taoist Seed to become a Taoist Mind.",
+  "ch": "道心已彻底破碎，无法再恢复坚定度。\n重新种植道种后，道种有概率衍变为道心。\n道心破碎的次数越多，道种衍变为道心的难度越高。",
+  "pt": "A Semente Daoísta foi completamente despedaçada e não consegue recuperar sua Dedicação.\nApós ser replantada, a Semente Daoísta tem a possibilidade de se transformar em um Coração do Dao.\nQuanto mais vezes o Coração do Dao se quebrar, mais difícil será para a Semente Daoísta tornar-se um Coração do Dao."
+ },
+ "npcDaoxinPutongrenTips": {
+  "en": "After a character has planted a Taoist Seed, it has a probability of becoming a Taoist Mind.\nA character with a Taoist Mind can become Heaven-chosen.",
+  "ch": "角色在种植道种后，道种有概率衍变为道心。\n拥有道心的角色，即可成为天骄。",
+  "pt": "Após um personagem plantar uma Semente Daoísta, há uma probabilidade de que ela se transforme em um Coração do Dao.\nUm personagem com um Coração do Dao pode tornar-se um escolhido do Céu."
+ },
+ "npcInfoToNear": {
+  "en": "Return to {0}",
+  "ch": "返回{0}身边",
+  "pt": "Voltar para {0}"
+ },
+ "npcRelationCommand": {
+  "en": "Cannot cancel the relationship when your Realm is below {0}'s {2} {1}.",
+  "ch": "境界低于{0}的{2}{1}时，无法解除此关系",
+  "pt": "Não é possível cancelar o relacionamento quando o seu Reino está abaixo do {2} {1} do {0}."
+ },
+ "npc_chazhaotishi": {
+  "en": "Enter Name",
+  "ch": "输入姓名",
+  "pt": "Insira o nome"
+ },
+ "npc_diagogue100101": {
+  "en": "修道之路，艰险重重。",
+  "ch": "修道之路，艰险重重。",
+  "pt": "O caminho da vida monástica é repleto de dificuldades e perigos."
+ },
+ "npc_diagogue100102": {
+  "en": "跟随内心的指引，寻找你自己的天道。",
+  "ch": "跟随内心的指引，寻找你自己的天道。",
+  "pt": "Siga a orientação do seu coração e encontre o seu próprio caminho na vida."
+ },
+ "npc_diagogue100103": {
+  "en": "正道亦为道，魔道亦为道，孰是孰非，不可强辨。",
+  "ch": "正道亦为道，魔道亦为道，孰是孰非，不可强辨。",
+  "pt": "O caminho correto também é um caminho; o caminho do mal também é um caminho. Quiçá o que é certo ou errado, não se pode determinar à força."
+ },
+ "npc_diagogue100201": {
+  "en": "自古以来正魔不两立，铲除魔道，匡正天道乃我辈之职责。",
+  "ch": "自古以来正魔不两立，铲除魔道，匡正天道乃我辈之职责。",
+  "pt": "Desde tempos imemoriais, o bem e o mal são incompatíveis; erradicar o caminho do mal e restaurar o caminho do bem é nosso dever."
+ },
+ "npc_diagogue100202": {
+  "en": "魔亦有道，有道即可修之，不必理会凡人的目光。",
+  "ch": "魔亦有道，有道即可修之，不必理会凡人的目光。",
+  "pt": "Os demônios também têm seu caminho; tendo um caminho, podem praticá-lo, sem precisar se importar com o olhar dos mortais."
+ },
+ "npc_diagogue100301": {
+  "en": "魔道之人，为达一己之目的，不择手段，违逆天道，认为自己就是天道，这群自负之人，真是让人耻笑天下！",
+  "ch": "魔道之人，为达一己之目的，不择手段，违逆天道，认为自己就是天道，这群自负之人，真是让人耻笑天下！",
+  "pt": "Os seguidores da magia, para alcançar seus próprios objetivos, não hesitam em usar quaisquer meios, indo contra as leis do céu. Acreditam que são eles mesmos as leis do céu. Esses indivíduos arrogantes são realmente motivo de escárnio para todo o mundo!"
+ },
+ "npc_diagogue100302": {
+  "en": "所谓正道，都是假模假样的正人君子，压抑着自己内心深处的欲望，欲望总有一天会爆发的，到时候看这些所谓的正道就会露出他们丑恶的嘴脸了！",
+  "ch": "所谓正道，都是假模假样的正人君子，压抑着自己内心深处的欲望，欲望总有一天会爆发的，到时候看这些所谓的正道就会露出他们丑恶的嘴脸了！",
+  "pt": "Os chamados \"homens de bem\" são, na verdade, hipócritas que reprimem os desejos que existem em seu coração. Esses desejos, um dia, irão explodir, e então veremos a verdadeira face feia desses supostos \"homens de bem\"!"
+ },
+ "npc_diagogue200101": {
+  "en": "欢迎回来！在外修行需要面对各种艰难险阻，但是只要回到了宗门，就请安心休息吧！",
+  "ch": "欢迎回来！在外修行需要面对各种艰难险阻，但是只要回到了宗门，就请安心休息吧！",
+  "pt": "Bem-vindo de volta! Treinar no exterior exige enfrentar diversas dificuldades e perigos, mas, assim que retornar à seita, pode descansar tranquilamente!"
+ },
+ "npc_diagogue200102": {
+  "en": "欢迎同道造访本宗！",
+  "ch": "欢迎同道造访本宗！",
+  "pt": "Sejam bem-vindos, companheiros, à nossa seita!"
+ },
+ "npc_diagogue200103": {
+  "en": "非我道之人，本宗一律不接待，请立即离开！",
+  "ch": "非我道之人，本宗一律不接待，请立即离开！",
+  "pt": "Pessoas que não seguem o nosso caminho não serão recebidas por nós; por favor, saiam imediatamente!"
+ },
+ "npc_diagogue200201": {
+  "en": "做宗门任务是获得宗门贡献的主要方式，积极完成宗门任务可以更快的获得宗门贡献哦！",
+  "ch": "做宗门任务是获得宗门贡献的主要方式，积极完成宗门任务可以更快的获得宗门贡献哦！",
+  "pt": "Realizar missões da seita é a principal forma de obter contribuições para a seita; completar essas missões ativamente permite ganhar contribuições mais rapidamente!"
+ },
+ "npc_diagogue200202": {
+  "en": "又来接任务了吗？请在任务表上选择吧，最多只能同时接5个宗门任务哦！",
+  "ch": "又来接任务了吗？请在任务表上选择吧，最多只能同时接5个宗门任务哦！",
+  "pt": "Veio buscar missões de novo? Por favor, escolha no quadro de missões; você pode aceitar no máximo 5 missões de seita ao mesmo tempo!"
+ },
+ "npc_diagogue200203": {
+  "en": "如果接了不想做的任务的话，可以放弃任务，但是放弃任务需要付出宗门贡献作为惩罚。",
+  "ch": "如果接了不想做的任务的话，可以放弃任务，但是放弃任务需要付出宗门贡献作为惩罚。",
+  "pt": "Se aceitar uma missão que não deseja fazer, é possível desistir dela; porém, para isso, é preciso pagar uma multa na forma de contribuição para a seita."
+ },
+ "npc_diagogue200204": {
+  "en": "欢迎同道造访本宗！这里是本宗的任务大厅！",
+  "ch": "欢迎同道造访本宗！这里是本宗的任务大厅！",
+  "pt": "Bem-vindos, companheiros, à nossa seita! Este é o salão de missões da nossa seita!"
+ },
+ "npc_diagogue200205": {
+  "en": "非我道之人，本宗一律不接待，请立即离开！",
+  "ch": "非我道之人，本宗一律不接待，请立即离开！",
+  "pt": "Pessoas que não seguem o nosso caminho não serão recebidas por nós; por favor, retirem-se imediatamente!"
+ },
+ "npc_diagogue200301": {
+  "en": "库房有各种丹药、法宝，你想看看吗？",
+  "ch": "库房有各种丹药、法宝，你想看看吗？",
+  "pt": "O armazém tem todo tipo de pílulas e artefatos mágicos. Quer dar uma olhada?"
+ },
+ "npc_diagogue200302": {
+  "en": "欢迎同道造访本宗！这里是本宗的库房，你有什么需要的吗？",
+  "ch": "欢迎同道造访本宗！这里是本宗的库房，你有什么需要的吗？",
+  "pt": "Bem-vindos, companheiros, à nossa seita! Este é o armazém da nossa seita. Vocês precisam de algo?"
+ },
+ "npc_diagogue200303": {
+  "en": "非我道之人，本宗一律不接待，请立即离开！",
+  "ch": "非我道之人，本宗一律不接待，请立即离开！",
+  "pt": "Pessoas que não seguem o nosso caminho não são admitidas nesta seita; por favor, saiam imediatamente!"
+ },
+ "npc_diagogue200401": {
+  "en": "需要休息吗？在厢房中打坐休息可以快速回复精力及消除负面状态！",
+  "ch": "需要休息吗？在厢房中打坐休息可以快速回复精力及消除负面状态！",
+  "pt": "Precisa descansar? Meditar na câmara de descanso pode restaurar rapidamente sua energia e eliminar status negativos!"
+ },
+ "npc_diagogue200402": {
+  "en": "欢迎同道造访本宗！这里是本宗的厢房，需要在厢房内休息，回复状态吗？",
+  "ch": "欢迎同道造访本宗！这里是本宗的厢房，需要在厢房内休息，回复状态吗？",
+  "pt": "Sejam bem-vindos, companheiros, à nossa seita! Esta é a sala de descanso da seita. Desejam descansar aqui e recuperar as forças?"
+ },
+ "npc_diagogue200403": {
+  "en": "非我道之人，本宗一律不接待，请立即离开！",
+  "ch": "非我道之人，本宗一律不接待，请立即离开！",
+  "pt": "Pessoas que não seguem o nosso caminho não serão recebidas por nossa seita. Por favor, saiam imediatamente!"
+ },
+ "npc_diagogue200501": {
+  "en": "藏经阁内有本宗门从各处收集到的功法秘籍！使用宗门贡献就能进行兑换。",
+  "ch": "藏经阁内有本宗门从各处收集到的功法秘籍！使用宗门贡献就能进行兑换。",
+  "pt": "No Pavilhão dos Sutras, há técnicas e segredos de cultivação coletados pela nossa seita de diversos lugares! É possível trocá-los usando contribuições para a seita."
+ },
+ "npc_diagogue200502": {
+  "en": "欢迎同道造访本宗！这里是本宗的藏经阁！",
+  "ch": "欢迎同道造访本宗！这里是本宗的藏经阁！",
+  "pt": "Sejam bem-vindos, companheiros, à nossa seita! Este é o nosso arquivo de escrituras!"
+ },
+ "npc_diagogue200503": {
+  "en": "非我道之人，本宗一律不接待，请立即离开！",
+  "ch": "非我道之人，本宗一律不接待，请立即离开！",
+  "pt": "Pessoas que não seguem nosso caminho não serão recebidas por nossa seita. Por favor, saiam imediatamente!"
+ },
+ "npc_name1001": {
+  "en": "Guiguzi",
+  "ch": "鬼谷子",
+  "pt": "Guiguzi"
+ },
+ "npc_name1002": {
+  "en": "Feng Shiyi",
+  "ch": "封石义",
+  "pt": "Feng Shiyi"
+ },
+ "npc_name1003": {
+  "en": "Zuo Hongda",
+  "ch": "左弘大",
+  "pt": "Zuo Hongda"
+ },
+ "npc_name1004": {
+  "en": "Stone Table",
+  "ch": "石桌",
+  "pt": "Mesa de Pedra"
+ },
+ "npc_name1005": {
+  "en": "Tomb",
+  "ch": "坟墓",
+  "pt": "Túmulo"
+ },
+ "npc_name2001": {
+  "en": "Junior (F)",
+  "ch": "小师妹",
+  "pt": "Júnior (F)"
+ },
+ "npc_name20011": {
+  "en": "Market Clerk",
+  "ch": "坊市管理员",
+  "pt": "Funcionário do mercado"
+ },
+ "npc_name20012": {
+  "en": "Auction Clerk",
+  "ch": "拍卖行管理员",
+  "pt": "Funcionário de Leilões"
+ },
+ "npc_name20013": {
+  "en": "Innkeeper",
+  "ch": "客栈老板",
+  "pt": "Pousadeiro"
+ },
+ "npc_name20014": {
+  "en": "Bounty Board Clerk",
+  "ch": "悬赏榜管理员",
+  "pt": "Responsável pelo Quadro de Recompensas"
+ },
+ "npc_name20015": {
+  "en": "Workshop Clerk",
+  "ch": "工坊管理员",
+  "pt": "Operador de Oficina"
+ },
+ "npc_name20016": {
+  "en": "Tavern Owner",
+  "ch": "酒馆老板",
+  "pt": "Proprietário da taverna"
+ },
+ "npc_name20017": {
+  "en": "Manual Pavilion Clerk",
+  "ch": "琅琊阁管理员",
+  "pt": "Funcionário do Pavilhão dos Manuais"
+ },
+ "npc_name2002": {
+  "en": "Warehouse Steward",
+  "ch": "库房管事",
+  "pt": "Responsável pelo Armazém"
+ },
+ "npc_name20021": {
+  "en": "Market Clerk",
+  "ch": "坊市管理员",
+  "pt": "Funcionário do mercado"
+ },
+ "npc_name20022": {
+  "en": "Auction Clerk",
+  "ch": "拍卖行管理员",
+  "pt": "Escrivão de Leilões"
+ },
+ "npc_name20023": {
+  "en": "Innkeeper",
+  "ch": "客栈老板",
+  "pt": "Estalajadeiro"
+ },
+ "npc_name20024": {
+  "en": "Bounty Board Clerk",
+  "ch": "悬赏榜管理员",
+  "pt": "Funcionário do Quadro de Recompensas"
+ },
+ "npc_name20025": {
+  "en": "Workshop Clerk",
+  "ch": "工坊管理员",
+  "pt": "Operador de Oficina"
+ },
+ "npc_name20026": {
+  "en": "Tavern Owner",
+  "ch": "酒馆老板",
+  "pt": "Dono da taverna"
+ },
+ "npc_name20027": {
+  "en": "Manual Pavilion Clerk",
+  "ch": "琅琊阁管理员",
+  "pt": "Funcionário do Pavilhão dos Manuais"
+ },
+ "npc_name2003": {
+  "en": "Butler",
+  "ch": "厢房管事",
+  "pt": "Butler"
+ },
+ "npc_name20031": {
+  "en": "Market Clerk",
+  "ch": "坊市管理员",
+  "pt": "Funcionário do mercado"
+ },
+ "npc_name20032": {
+  "en": "Auction Clerk",
+  "ch": "拍卖行管理员",
+  "pt": "Oficial de Leilões"
+ },
+ "npc_name20033": {
+  "en": "Innkeeper",
+  "ch": "客栈老板",
+  "pt": "Dono da pousada"
+ },
+ "npc_name20034": {
+  "en": "Bounty Board Clerk",
+  "ch": "悬赏榜管理员",
+  "pt": "Assistente do Quadro de Recompensas"
+ },
+ "npc_name20035": {
+  "en": "Workshop Clerk",
+  "ch": "工坊管理员",
+  "pt": "Atendente de Oficina"
+ },
+ "npc_name20036": {
+  "en": "Tavern Owner",
+  "ch": "酒馆老板",
+  "pt": "Proprietário da taverna"
+ },
+ "npc_name20037": {
+  "en": "Manual Pavilion Clerk",
+  "ch": "琅琊阁管理员",
+  "pt": "Funcionário do Pavilhão dos Manuais"
+ },
+ "npc_name2004": {
+  "en": "Manual Library Clerk",
+  "ch": "藏经阁管事",
+  "pt": "Auxiliar de Biblioteca - Manual"
+ },
+ "npc_name20041": {
+  "en": "Market Clerk",
+  "ch": "坊市管理员",
+  "pt": "Funcionário de Mercado"
+ },
+ "npc_name20042": {
+  "en": "Auction Clerk",
+  "ch": "拍卖行管理员",
+  "pt": "Oficial de Leilões"
+ },
+ "npc_name20043": {
+  "en": "Innkeeper",
+  "ch": "客栈老板",
+  "pt": "Dono da pousada"
+ },
+ "npc_name20044": {
+  "en": "Bounty Board Clerk",
+  "ch": "悬赏榜管理员",
+  "pt": "Oficial do Quadro de Recompensas"
+ },
+ "npc_name20045": {
+  "en": "Workshop Clerk",
+  "ch": "工坊管理员",
+  "pt": "Funcionário de Oficina"
+ },
+ "npc_name20046": {
+  "en": "Tavern Owner",
+  "ch": "酒馆老板",
+  "pt": "Proprietário da taverna"
+ },
+ "npc_name20047": {
+  "en": "Manual Pavilion Clerk",
+  "ch": "琅琊阁管理员",
+  "pt": "Funcionário do Pavilhão dos Manuais"
+ },
+ "npc_name2005": {
+  "en": "Portal Guard",
+  "ch": "传送阵守卫",
+  "pt": "Portal Guarda"
+ },
+ "npc_name20051": {
+  "en": "Market Clerk",
+  "ch": "坊市管理员",
+  "pt": "Funcionário de mercado"
+ },
+ "npc_name20052": {
+  "en": "Auction Clerk",
+  "ch": "拍卖行管理员",
+  "pt": "Oficial de Leilões"
+ },
+ "npc_name20053": {
+  "en": "Innkeeper",
+  "ch": "客栈老板",
+  "pt": "Dono da pousada"
+ },
+ "npc_name20054": {
+  "en": "Bounty Board Clerk",
+  "ch": "悬赏榜管理员",
+  "pt": "Oficial do Quadro de Recompensas"
+ },
+ "npc_name20055": {
+  "en": "Workshop Clerk",
+  "ch": "工坊管理员",
+  "pt": "Operador de Oficina"
+ },
+ "npc_name20056": {
+  "en": "Tavern Owner",
+  "ch": "酒馆老板",
+  "pt": "Dono da taverna"
+ },
+ "npc_name20057": {
+  "en": "Manual Pavilion Clerk",
+  "ch": "琅琊阁管理员",
+  "pt": "Funcionário do Pavilhão dos Manuais"
+ },
+ "npc_name2006": {
+  "en": "Tavern Owner",
+  "ch": "老板娘",
+  "pt": "Proprietário da taverna"
+ },
+ "npc_name20061": {
+  "en": "Market Clerk",
+  "ch": "坊市管理员",
+  "pt": "Funcionário do mercado"
+ },
+ "npc_name20062": {
+  "en": "Auction Clerk",
+  "ch": "拍卖行管理员",
+  "pt": "Oficial de Leilões"
+ },
+ "npc_name20063": {
+  "en": "Innkeeper",
+  "ch": "客栈老板",
+  "pt": "Dono da pousada"
+ },
+ "npc_name20064": {
+  "en": "Bounty Board Clerk",
+  "ch": "悬赏榜管理员",
+  "pt": "Oficial do Quadro de Recompensas"
+ },
+ "npc_name20065": {
+  "en": "Workshop Clerk",
+  "ch": "工坊管理员",
+  "pt": "Operador de Oficina"
+ },
+ "npc_name20066": {
+  "en": "Tavern Owner",
+  "ch": "酒馆老板",
+  "pt": "Proprietário da taverna"
+ },
+ "npc_name20067": {
+  "en": "Manual Pavilion Clerk",
+  "ch": "琅琊阁管理员",
+  "pt": "Funcionário do Pavilhão dos Manuais"
+ },
+ "npc_name2009": {
+  "en": "Immortal Tournament Announcer",
+  "ch": "升仙大会主持人",
+  "pt": "Locutor do Torneio Imortal"
+ },
+ "npc_name2010": {
+  "en": "Xiaozhao",
+  "ch": "小昭",
+  "pt": "Xiaozhao"
+ },
+ "npc_name2011": {
+  "en": "Xiaozhao",
+  "ch": "小昭",
+  "pt": "Xiaozhao"
+ },
+ "npc_name3001": {
+  "en": "Mystery Man Jo",
+  "ch": "神秘人李四",
+  "pt": "O Homem Misterioso Jo"
+ },
+ "npc_name60001": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6001": {
+  "en": "Elder One",
+  "ch": "远古妖兽",
+  "pt": "Ancião Um"
+ },
+ "npc_name6002": {
+  "en": "Old White Brows",
+  "ch": "白眉老者",
+  "pt": "Sobrancelhas Brancas Velhas"
+ },
+ "npc_name6003": {
+  "en": "Old Blind Woman",
+  "ch": "瞎老婆婆",
+  "pt": "Velha mulher cega"
+ },
+ "npc_name6004": {
+  "en": "Fox Spirit Snow",
+  "ch": "小狐妖胡雪儿",
+  "nomes": {
+   "Fox Spirit": "Espírito da Raposa"
+  },
+  "pt": "Espírito da Raposa das Neves"
+ },
+ "npc_name6005": {
+  "en": "Jagu",
+  "ch": "武罗",
+  "pt": "Jagu"
+ },
+ "npc_name6006": {
+  "en": "Foolish Old Man",
+  "ch": "愚公",
+  "pt": "Velho tolo"
+ },
+ "npc_name6007": {
+  "en": "Wise Old Man",
+  "ch": "智叟",
+  "pt": "Velho sábio"
+ },
+ "npc_name6008": {
+  "en": "Mysterious Old Man",
+  "ch": "神秘老人",
+  "pt": "Velho Misterioso"
+ },
+ "npc_name6009": {
+  "en": "Hou Yi",
+  "ch": "后羿",
+  "pt": "Hou Yi"
+ },
+ "npc_name6010": {
+  "en": "Hou Yi",
+  "ch": "后羿",
+  "pt": "Hou Yi"
+ },
+ "npc_name6011": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6012": {
+  "en": "Three-legged Crow Pyro",
+  "ch": "三足乌·赤炎",
+  "nomes": {
+   "Three-legged Crow Pyro": "Corvo de Três Pernas Piro",
+   "Three-legged Crow": "Corvo de Três Pernas"
+  },
+  "pt": "Pyro de Três Pernas e Corvo"
+ },
+ "npc_name6013": {
+  "en": "Divine Mulberry Guardian",
+  "ch": "扶桑树守护者",
+  "nomes": {
+   "Divine Mulberry Guardian": "Guardião Divino da Amoreira"
+  },
+  "pt": "Guardião Divino da Amoreira"
+ },
+ "npc_name6014": {
+  "en": "Lydra",
+  "ch": "开明兽",
+  "pt": "Lydra"
+ },
+ "npc_name6015": {
+  "en": "Sunny",
+  "ch": "圣阳",
+  "pt": "Ensolarado"
+ },
+ "npc_name6016": {
+  "en": "Three-legged Crow Sunny",
+  "ch": "三足乌·圣阳",
+  "nomes": {
+   "Three-legged Crow Sunny": "Corvo de Três Pernas Solar",
+   "Three-legged Crow": "Corvo de Três Pernas"
+  },
+  "pt": "Corvo de Três Pernas Ensolarado"
+ },
+ "npc_name6017": {
+  "en": "Wizened Elder",
+  "ch": "白发老者",
+  "pt": "Ancião envelhecido"
+ },
+ "npc_name6020": {
+  "en": "Villager",
+  "ch": "村民",
+  "pt": "Aldeão"
+ },
+ "npc_name6021": {
+  "en": "Jingwei",
+  "ch": "精卫",
+  "pt": "Jingwei"
+ },
+ "npc_name6022": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6023": {
+  "en": "Leviathan",
+  "ch": "何罗鱼",
+  "nomes": {
+   "Leviathan": "Leviatan"
+  },
+  "pt": "Leviatã"
+ },
+ "npc_name6024": {
+  "en": "Wang Jiajia",
+  "ch": "王嘉嘉",
+  "pt": "Wang Jiajia"
+ },
+ "npc_name6025": {
+  "en": "Wang Jun",
+  "ch": "王君",
+  "pt": "Wang Jun"
+ },
+ "npc_name6026": {
+  "en": "Wang Ying",
+  "ch": "王英",
+  "pt": "Wang Ying"
+ },
+ "npc_name6027": {
+  "en": "Wen Wang",
+  "ch": "王文",
+  "pt": "Wen Wang"
+ },
+ "npc_name6030": {
+  "en": "Bachelor",
+  "ch": "王老五",
+  "pt": "Bacharel"
+ },
+ "npc_name6031": {
+  "en": "Bi Fang",
+  "ch": "毕方",
+  "nomes": {
+   "Bi Fang": "Bi Fang"
+  },
+  "pt": "Bi Fang"
+ },
+ "npc_name6032": {
+  "en": "White Pig",
+  "ch": "白猪",
+  "pt": "Porco Branco"
+ },
+ "npc_name6033": {
+  "en": "Spotted Pig",
+  "ch": "花猪",
+  "pt": "Spotted Pig"
+ },
+ "npc_name6034": {
+  "en": "Black Pig",
+  "ch": "黑猪",
+  "pt": "Porco Preto"
+ },
+ "npc_name6035": {
+  "en": "Striped Pig",
+  "ch": "斑猪",
+  "pt": "Porco Listrado"
+ },
+ "npc_name6036": {
+  "en": "Boss's Shadow",
+  "ch": "通用BOSS黑影",
+  "pt": "A Sombra do Chefe"
+ },
+ "npc_name6037": {
+  "en": "Mysterious Old Man",
+  "ch": "神秘老人",
+  "pt": "O misterioso Velho"
+ },
+ "npc_name6038": {
+  "en": "Wang Cheng",
+  "ch": "王承",
+  "pt": "Wang Cheng"
+ },
+ "npc_name6039": {
+  "en": "Fiend",
+  "ch": "魔族男子",
+  "pt": "Demônio"
+ },
+ "npc_name6040": {
+  "en": "Fiendess",
+  "ch": "魔族女子",
+  "pt": "Demoníaca"
+ },
+ "npc_name6041": {
+  "en": "Feng Lixi",
+  "ch": "风里希",
+  "nomes": {
+   "Feng Lixi": "Feng Lixi"
+  },
+  "pt": "Feng Lixi"
+ },
+ "npc_name6042": {
+  "en": "Feng Yunchuo",
+  "ch": "风允婼",
+  "pt": "Feng Yunchuo"
+ },
+ "npc_name6043": {
+  "en": "Grotto Nymph",
+  "ch": "蓼菱仙子",
+  "nomes": {
+   "Grotto Nymph": "Ninfeta do Grotão"
+  },
+  "pt": "Ninfa da Gruta"
+ },
+ "npc_name6044": {
+  "en": "Drought Demon",
+  "ch": "魃",
+  "nomes": {
+   "Drought Demon": "Demônio da Seca"
+  },
+  "pt": "Demônio da Seca"
+ },
+ "npc_name6045": {
+  "en": "Agar",
+  "ch": "阿夸",
+  "pt": "Agar"
+ },
+ "npc_name6046": {
+  "en": "Mystery Man Jo",
+  "ch": "神秘人李四",
+  "pt": "O Homem Misterioso Jo"
+ },
+ "npc_name6047": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6048": {
+  "en": "Ji Hongfu",
+  "ch": "季洪福",
+  "pt": "Ji Hongfu"
+ },
+ "npc_name6049": {
+  "en": "Ji Family Tutor",
+  "ch": "季家客卿",
+  "pt": "Tutor da Família Ji"
+ },
+ "npc_name6050": {
+  "en": "Panlong Mountain Priest",
+  "ch": "盘龙山神官",
+  "nomes": {
+   "Panlong Mountain Priest": "Sacerdote da Montanha Panlong"
+  },
+  "pt": "Sacerdote da Montanha Panlong"
+ },
+ "npc_name6051": {
+  "en": "Rocky Valley Priest",
+  "ch": "千岩谷神官",
+  "nomes": {
+   "Rocky Valley Priest": "Sacerdote do Vale Rochoso"
+  },
+  "pt": "Sacerdote do Vale Rochoso"
+ },
+ "npc_name6052": {
+  "en": "Secluded Valley Priest",
+  "ch": "通幽谷神官",
+  "nomes": {
+   "Secluded Valley Priest": "Sacerdote do Vale Secluso"
+  },
+  "pt": "Sacerdote do Vale Isolado"
+ },
+ "npc_name6053": {
+  "en": "Exorcism Peak Priest",
+  "ch": "镇邪峰神官",
+  "nomes": {
+   "Exorcism Peak Priest": "Sacerdote do Pico do Exorcismo"
+  },
+  "pt": "Sacerdote do Pico do Exorcismo"
+ },
+ "npc_name6054": {
+  "en": "Moonfall Mountain Priest",
+  "ch": "月落山神官",
+  "nomes": {
+   "Moonfall Mountain Priest": "Sacerdote da Montanha da Lua Caindo"
+  },
+  "pt": "Sacerdote da Montanha Luaqueda"
+ },
+ "npc_name6055": {
+  "en": "Jiaolong",
+  "ch": "蛟龙",
+  "pt": "Jiaolong"
+ },
+ "npc_name6056": {
+  "en": "Xuangui",
+  "ch": "玄龟",
+  "nomes": {
+   "Xuangui": "Xuangui"
+  },
+  "pt": "Xuangui"
+ },
+ "npc_name6057": {
+  "en": "Gouchen",
+  "ch": "勾陈",
+  "pt": "Gouchen"
+ },
+ "npc_name6058": {
+  "en": "Chongming",
+  "ch": "重明",
+  "pt": "Chongming"
+ },
+ "npc_name6059": {
+  "en": "Luwu",
+  "ch": "陆吾",
+  "pt": "Luwu"
+ },
+ "npc_name6060": {
+  "en": "Sunny",
+  "ch": "圣阳",
+  "pt": "Ensolarado"
+ },
+ "npc_name6061": {
+  "en": "Skygate Keeper",
+  "ch": "天门引者",
+  "nomes": {
+   "Skygate Keeper": "Guardião do Portão Celestial"
+  },
+  "pt": "Guardião do Skygate"
+ },
+ "npc_name6062": {
+  "en": "Xi",
+  "ch": "阿嬉",
+  "pt": "Xi"
+ },
+ "npc_name6063": {
+  "en": "Jagu",
+  "ch": "武罗",
+  "pt": "Jagu"
+ },
+ "npc_name6064": {
+  "en": "Yu",
+  "ch": "阿禹",
+  "pt": "Yu"
+ },
+ "npc_name6065": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6066": {
+  "en": "Old Man",
+  "ch": "老者",
+  "pt": "Velho"
+ },
+ "npc_name6067": {
+  "en": "Sanguine Riverstar",
+  "ch": "血星河",
+  "pt": "Sanguine Riverstar"
+ },
+ "npc_name6068": {
+  "en": "Jiang Lanyan",
+  "ch": "江岚燕",
+  "nomes": {
+   "Jiang Lanyan": "Jiang Lanyan"
+  },
+  "pt": "Jiang Lanyan"
+ },
+ "npc_name6069": {
+  "en": "Bi Fang",
+  "ch": "毕方",
+  "nomes": {
+   "Bi Fang": "Bi Fang"
+  },
+  "pt": "Bi Fang"
+ },
+ "npc_name6070": {
+  "en": "Yu",
+  "ch": "阿禹",
+  "pt": "Yu"
+ },
+ "npc_name6071": {
+  "en": "Tushan Yao",
+  "ch": "涂山谣",
+  "pt": "Tushan Yao"
+ },
+ "npc_name6072": {
+  "en": "Tushan Ru",
+  "ch": "涂山茹",
+  "pt": "Tushan Ru"
+ },
+ "npc_name6073": {
+  "en": "Tushan Jun",
+  "ch": "涂山珺",
+  "pt": "Tushan Jun"
+ },
+ "npc_name6074": {
+  "en": "Tushan Jun",
+  "ch": "涂山珺",
+  "pt": "Tushan Jun"
+ },
+ "npc_name6075": {
+  "en": "Tushan Xia",
+  "ch": "涂山狭",
+  "pt": "Tushan Xia"
+ },
+ "npc_name6076": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6077": {
+  "en": "Sage Tianxuan",
+  "ch": "天玄真人",
+  "nomes": {
+   "Sage Tianxuan": "Sábio Tianxuan"
+  },
+  "pt": "Sábio Tianxuan"
+ },
+ "npc_name6078": {
+  "en": "You Yuanzhi",
+  "ch": "游远致",
+  "pt": "You Yuanzhi"
+ },
+ "npc_name6080": {
+  "en": "Jinghong",
+  "ch": "景弘",
+  "pt": "Jinghong"
+ },
+ "npc_name6081": {
+  "en": "Mingtong",
+  "ch": "明通",
+  "pt": "Mingtong"
+ },
+ "npc_name6082": {
+  "en": "Young Drunkard",
+  "ch": "醉酒青年",
+  "pt": "Jovem bêbado"
+ },
+ "npc_name6083": {
+  "en": "Mingtong",
+  "ch": "明通",
+  "pt": "Mingtong"
+ },
+ "npc_name6084": {
+  "en": "Magpie Zhehong",
+  "ch": "折红鹊",
+  "pt": "Pechoquinha Zhehong"
+ },
+ "npc_name6085": {
+  "en": "Mysterious Lady",
+  "ch": "神秘女子",
+  "pt": "Dama Misteriosa"
+ },
+ "npc_name6088": {
+  "en": "Jo",
+  "ch": "李四",
+  "pt": "Jo"
+ },
+ "npc_name6089": {
+  "en": "Night Rain",
+  "ch": "夜雨楼",
+  "nomes": {
+   "Night Rain": "Chuva Noturna"
+  },
+  "pt": "Chuva Noturna"
+ },
+ "npc_name6090": {
+  "en": "Feng Lixi",
+  "ch": "风里希",
+  "nomes": {
+   "Feng Lixi": "Feng Lixi"
+  },
+  "pt": "Feng Lixi"
+ },
+ "npc_name6091": {
+  "en": "Zhang San",
+  "ch": "张三",
+  "nomes": {
+   "Zhang San": "Zhang San"
+  },
+  "pt": "Zhang San"
+ },
+ "npc_name6092": {
+  "en": "Hunting Fairy",
+  "ch": "狩仙子",
+  "pt": "Caçando Fadas"
+ },
+ "npc_name6093": {
+  "en": "Canopy Cloud",
+  "ch": "云覆",
+  "pt": "Canopy Cloud"
+ },
+ "npc_name6094": {
+  "en": "Echoing Tide",
+  "ch": "浪潮音",
+  "pt": "Ecoando na Maré"
+ },
+ "npc_name6095": {
+  "en": "Black Dragon",
+  "ch": "苍龙",
+  "nomes": {
+   "Black Dragon": "Dragão Negro"
+  },
+  "pt": "Dragão Negro"
+ },
+ "npc_name6096": {
+  "en": "Hengtian",
+  "ch": "衡天",
+  "nomes": {
+   "Hengtian": "Hengtian"
+  },
+  "pt": "Hengtian"
+ },
+ "npc_name6097": {
+  "en": "Hengtian",
+  "ch": "衡天",
+  "nomes": {
+   "Hengtian": "Hengtian"
+  },
+  "pt": "Hengtian"
+ },
+ "npc_name6098": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name6099": {
+  "en": "Nether Lord",
+  "ch": "冥魔",
+  "pt": "Senhor do Submundo"
+ },
+ "npc_name6110": {
+  "en": "Unknown Man",
+  "ch": "男子",
+  "pt": "Homem Desconhecido"
+ },
+ "npc_name6111": {
+  "en": "Liu Chengtao",
+  "ch": "柳承涛",
+  "nomes": {
+   "Liu Chengtao": "Liu Chengtao"
+  },
+  "pt": "Liu Chengtao"
+ },
+ "npc_name6112": {
+  "en": "Yue You",
+  "ch": "岳幽",
+  "nomes": {
+   "Yue You": "Yue You"
+  },
+  "pt": "Yue You"
+ },
+ "npc_name6113": {
+  "en": "Ding Zijun",
+  "ch": "丁子俊",
+  "pt": "Ding Zijun"
+ },
+ "npc_name6114": {
+  "en": "Jing Luo",
+  "ch": "荆洛",
+  "nomes": {
+   "Jing Luo": "Jing Luo"
+  },
+  "pt": "Jing Luo"
+ },
+ "npc_name6115": {
+  "en": "Quan Eryang",
+  "ch": "全尔阳",
+  "nomes": {
+   "Quan Eryang": "Quan Eryang"
+  },
+  "pt": "Quan Eryang"
+ },
+ "npc_name7000": {
+  "en": "Bandit Deputy",
+  "ch": "山贼二当家",
+  "nomes": {
+   "Bandit Deputy": "Vice-chefe dos Bandidos"
+  },
+  "pt": "Vice-bandido"
+ },
+ "npc_name7001": {
+  "en": "Villager",
+  "ch": "村民",
+  "pt": "Morador da aldeia"
+ },
+ "npc_name7002": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name7010": {
+  "en": "Mindsnap Temple Mystery Man",
+  "ch": "蚀心殿神秘人",
+  "pt": "O Enigmático Homem do Templo de Mindsnap"
+ },
+ "npc_name7011": {
+  "en": "Taoist Mind Pavilion Mystery Man",
+  "ch": "道心阁神秘人",
+  "pt": "O Homem Misterioso do Pavilhão do Coração do Dao"
+ },
+ "npc_name7012": {
+  "en": "Bitterfly Spirit",
+  "ch": "蝶怨仙子",
+  "pt": "Espírito da Borboleta Amarga"
+ },
+ "npc_name8001": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8002": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8003": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8004": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8005": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8006": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8007": {
+  "en": "Venerable Tortoise",
+  "ch": "阿龟",
+  "pt": "Venerável Tartaruga"
+ },
+ "npc_name8010": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8011": {
+  "en": "Chicken King",
+  "ch": "鸡王",
+  "pt": "Rei da Galinha"
+ },
+ "npc_name8012": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8013": {
+  "en": "Carpia",
+  "ch": "鲮鱼",
+  "pt": "Carpia"
+ },
+ "npc_name8019": {
+  "en": "Jun Yuanzhi",
+  "ch": "君愿知",
+  "pt": "Jun Yuanzhi"
+ },
+ "npc_name8020": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8021": {
+  "en": "Bingyi",
+  "ch": "冰夷",
+  "pt": "Bingyi"
+ },
+ "npc_name8022": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8023": {
+  "en": "Black-Robed Person",
+  "ch": "黑袍人",
+  "pt": "Pessoa de Veste Preta"
+ },
+ "npc_name8028": {
+  "en": "Dragon Boy",
+  "ch": "龙子",
+  "pt": "Menino Dragão"
+ },
+ "npc_name8029": {
+  "en": "Dragon Girl",
+  "ch": "龙女",
+  "pt": "Garota Dragão"
+ },
+ "npc_name8030": {
+  "en": "Following Bug",
+  "ch": "跟屁虫",
+  "nomes": {
+   "Following Bug": "Grudento"
+  },
+  "pt": "Grudento"
+ },
+ "npc_name8031": {
+  "en": "Yun Ya",
+  "ch": "云涯",
+  "pt": "Yun Ya"
+ },
+ "npc_name8032": {
+  "en": "Following Dragon",
+  "ch": "跟屁龙",
+  "pt": "Seguindo o Dragão"
+ },
+ "npc_name8033": {
+  "en": "Ghost with No Kin",
+  "ch": "孤魂野鬼",
+  "pt": "Fantasma sem parentes"
+ },
+ "npc_name8038": {
+  "en": "Taoist Mind Pavilion Mystery Man A",
+  "ch": "道心阁神秘人甲",
+  "pt": "O Homem Misterioso do Pavilhão do Coração do Dao"
+ },
+ "npc_name8039": {
+  "en": "Taoist Mind Pavilion Mystery Man B",
+  "ch": "道心阁神秘人乙",
+  "pt": "O Homem Misterioso B do Pavilhão do Coração do Dao"
+ },
+ "npc_name8040": {
+  "en": "Mindsnap Temple Mystery Man A",
+  "ch": "蚀心殿神秘人甲",
+  "pt": "O Enigma do Templo: Homem Misterioso A"
+ },
+ "npc_name8041": {
+  "en": "Mindsnap Temple Mystery Man B",
+  "ch": "蚀心殿神秘人乙",
+  "pt": "Mindsnap: O Mistério do Templo - Homem B"
+ },
+ "npc_name8042": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8043": {
+  "en": "Sage Tianxuan",
+  "ch": "天玄真人",
+  "nomes": {
+   "Sage Tianxuan": "Sábio Tianxuan"
+  },
+  "pt": "Sábio Tianxuan"
+ },
+ "npc_name8044": {
+  "en": "Bitterfly Spirit",
+  "ch": "蝶怨仙子",
+  "pt": "Espírito da Borboleta Amarga"
+ },
+ "npc_name8045": {
+  "en": "Feng Pingmo",
+  "ch": "风萍末",
+  "pt": "Feng Pingmo"
+ },
+ "npc_name8046": {
+  "en": "Tundra Woman",
+  "ch": "冰原女子",
+  "pt": "Mulher da Tundra"
+ },
+ "npc_name8047": {
+  "en": "Male Cultivator",
+  "ch": "男修仙者",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador do sexo masculino"
+ },
+ "npc_name8048": {
+  "en": "Goumang",
+  "ch": "句芒",
+  "nomes": {
+   "Goumang": "Goumang"
+  },
+  "pt": "Goumang"
+ },
+ "npc_name8049": {
+  "en": "Bihong",
+  "ch": "碧泓",
+  "pt": "Bihong"
+ },
+ "npc_name8050": {
+  "en": "Luoying",
+  "ch": "骆瑛",
+  "pt": "Luoying"
+ },
+ "npc_name8051": {
+  "en": "Gu Yuan'er",
+  "ch": "顾鸢儿",
+  "pt": "Gu Yuan'er"
+ },
+ "npc_name8052": {
+  "en": "Gu Nangang",
+  "ch": "顾南罡",
+  "pt": "Gu Nangang"
+ },
+ "npc_name8053": {
+  "en": "Xiang Lingjun",
+  "ch": "向令钧",
+  "nomes": {
+   "Xiang Lingjun": "Xiang Lingjun"
+  },
+  "pt": "Xiang Lingjun"
+ },
+ "npc_name8054": {
+  "en": "Alliance Guard A",
+  "ch": "仙卫甲",
+  "pt": "Guarda da Aliança A"
+ },
+ "npc_name8055": {
+  "en": "Alliance Guard B",
+  "ch": "仙卫乙",
+  "pt": "Guarda da Aliança B"
+ },
+ "npc_name8056": {
+  "en": "Alliance Disciple",
+  "ch": "仙盟弟子",
+  "pt": "Discípulo da Aliança"
+ },
+ "npc_name8057": {
+  "en": "Luo Ying's Bodyguard",
+  "ch": "骆瑛近身仙卫",
+  "pt": "O guarda-costas de Luo Ying"
+ },
+ "npc_name8058": {
+  "en": "Duanmu Shenghan",
+  "ch": "端木胜寒",
+  "pt": "Duanmu Shenghan"
+ },
+ "npc_name8059": {
+  "en": "Duanmu Yinglan",
+  "ch": "端木影阑",
+  "pt": "Duanmu Yinglan"
+ },
+ "npc_name8060": {
+  "en": "Master's Bodyguard",
+  "ch": "盟主近卫",
+  "pt": "Guarda-costas do Mestre"
+ },
+ "npc_name8061": {
+  "en": "Chaos",
+  "ch": "混沌",
+  "pt": "Caos"
+ },
+ "npc_name8062": {
+  "en": "Jiuying",
+  "ch": "九婴",
+  "nomes": {
+   "Jiuying": "Jiuying"
+  },
+  "pt": "Jiuying"
+ },
+ "npc_name8063": {
+  "en": "Mu Kuiyuan",
+  "ch": "沐窥圆",
+  "pt": "Mu Kuiyuan"
+ },
+ "npc_name8064": {
+  "en": "Xuanming",
+  "ch": "玄冥",
+  "pt": "Xuanming"
+ },
+ "npc_name8065": {
+  "en": "Ruochuan",
+  "ch": "若川",
+  "pt": "Ruochuan"
+ },
+ "npc_name8066": {
+  "en": "Wei He",
+  "ch": "卫禾",
+  "pt": "Wei He"
+ },
+ "npc_name8067": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8068": {
+  "en": "Curious Villager",
+  "ch": "好奇的村民",
+  "pt": "Aldeão Curioso"
+ },
+ "npc_name8069": {
+  "en": "Lively Villager",
+  "ch": "活泼的村民",
+  "pt": "Aldeão Animado"
+ },
+ "npc_name8070": {
+  "en": "Hearty Villager",
+  "ch": "热心的村民",
+  "pt": "Aldeão Cordial"
+ },
+ "npc_name8071": {
+  "en": "Chatty Villager",
+  "ch": "健谈的村民",
+  "pt": "Aldeão tagarela"
+ },
+ "npc_name8072": {
+  "en": "Frank Villager",
+  "ch": "豪爽的村民",
+  "pt": "Frank Villager"
+ },
+ "npc_name8073": {
+  "en": "Candid Villager",
+  "ch": "直率的村民",
+  "pt": "Vilão candidato"
+ },
+ "npc_name8074": {
+  "en": "Chirpy Villager",
+  "ch": "开朗的村民",
+  "pt": "Aldeão Alegre"
+ },
+ "npc_name8075": {
+  "en": "Witty Villager",
+  "ch": "风趣的村民",
+  "pt": "Vilão Espirituoso"
+ },
+ "npc_name8076": {
+  "en": "Fruit Tree",
+  "ch": "果树",
+  "pt": "Árvore de Fruto"
+ },
+ "npc_name8078": {
+  "en": "Genial Villager",
+  "ch": "豁达的村民",
+  "pt": "Vilão Genial"
+ },
+ "npc_name8079": {
+  "en": "Buoyant Villager",
+  "ch": "乐观的村民",
+  "pt": "Aldeão Otimista"
+ },
+ "npc_name8080": {
+  "en": "Houtu",
+  "ch": "后土",
+  "pt": "Houtu"
+ },
+ "npc_name8082": {
+  "en": "Li Qingyun",
+  "ch": "李卿云",
+  "pt": "Li Qingyun"
+ },
+ "npc_name8083": {
+  "en": "Wang Youyuan",
+  "ch": "王悠远",
+  "pt": "Wang Youyuan"
+ },
+ "npc_name8101": {
+  "en": "Flaming Bill - Liangqu",
+  "ch": "衔炎·梁渠",
+  "pt": "Flaming Bill - Liangqu"
+ },
+ "npc_name8102": {
+  "en": "Iridescent Cat - Shuangshuang",
+  "ch": "霓狸·双双",
+  "pt": "Gata Iridescente - Shuangshuang"
+ },
+ "npc_name8103": {
+  "en": "Noble Medic - Feng Linglan",
+  "ch": "悬壶·风灵兰",
+  "pt": "Noble Medic - Feng Linglan"
+ },
+ "npc_name8104": {
+  "en": "Outlandish One - Dijiang",
+  "ch": "离尘·帝江",
+  "pt": "Outlandish One - Dijiang"
+ },
+ "npc_name8105": {
+  "en": "Lunar Orchid - Yaoji",
+  "ch": "月兰·瑶姬",
+  "pt": "Orquídea Lunar - Yaoji"
+ },
+ "npc_name8106": {
+  "en": "Gleaming Pieces - Su Mobai",
+  "ch": "星主·苏墨白",
+  "pt": "Peças Reluzentes - Su Mobai"
+ },
+ "npc_name8107": {
+  "en": "Shadowslayer - Li Hanshan",
+  "ch": "影弑·厉寒珊",
+  "pt": "Assassino de Sombras - Li Hanshan"
+ },
+ "npc_name8108": {
+  "en": "Sun Blocking - Heavenly Mushroom",
+  "ch": "擎苍·蔽日仙菌",
+  "pt": "Bloqueador Solar - Cogumelo Celestial"
+ },
+ "npc_name8109": {
+  "en": "Divine Eyes - Lizhu",
+  "ch": "神目·离珠",
+  "nomes": {
+   "Divine Eyes - Lizhu": "Olhos Divinos - Lizhu"
+  },
+  "pt": "Olhos Divinos - Lizhu"
+ },
+ "npc_name8110": {
+  "en": "Flaming Wind - Canglong",
+  "ch": "烽岚·沧泷",
+  "nomes": {
+   "Flaming Wind - Canglong": "Vento Flamejante - Canglong"
+  },
+  "pt": "Vento Flamejante - Canglong"
+ },
+ "npc_name8111": {
+  "en": "Placid Water - Lu Linxi",
+  "ch": "止水·鹿林溪",
+  "pt": "Água Tranquila - Lu Linxi"
+ },
+ "npc_name8112": {
+  "en": "Battle Soul - King Luhua",
+  "ch": "斗魂·芦花王",
+  "nomes": {
+   "Battle Soul - King Luhua": "Alma de Batalha - Rei Luhua"
+  },
+  "pt": "Batalha da Alma - Rei Luhua"
+ },
+ "npc_name8113": {
+  "en": "Kunwu - Jianyi",
+  "ch": "昆吾·剑一",
+  "nomes": {
+   "Kunwu - Jianyi": "Kunwu - Jianyi"
+  },
+  "pt": "Kunwu - Jianyi"
+ },
+ "npc_name8114": {
+  "en": "Destiny Catcher - Ji Guhun",
+  "ch": "缚命·季沽魂",
+  "nomes": {
+   "Ji Guhun": "Ji Guhun"
+  },
+  "pt": "Destino Catcher - Ji Guhun"
+ },
+ "npc_name8115": {
+  "en": "Ethereal Illusion - Mingxue",
+  "ch": "天幻·东方茗雪",
+  "nomes": {
+   "Ethereal Illusion - Mingxue": "Ilusão Etérea - Mingxue"
+  },
+  "pt": "Ilusão Etérea - Mingxue"
+ },
+ "npc_name8116": {
+  "en": "Jade Blossom - Zigu",
+  "ch": "琼芳·紫姑",
+  "pt": "Flor de Jade - Zigu"
+ },
+ "npc_name8117": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8118": {
+  "en": "Outlandish One - Dijiang (Clone)",
+  "ch": "离尘·帝江（分身）",
+  "pt": "Outlandish One - Dijiang (Clone)"
+ },
+ "npc_name8119": {
+  "en": "Hooded Mushroom Man",
+  "ch": "披风药灵",
+  "nomes": {
+   "Mushroom Man": "Homem Cogumelo"
+  },
+  "pt": "Homem Cogumelo de Capuz"
+ },
+ "npc_name8201": {
+  "en": "Bearie",
+  "ch": "熊小愚",
+  "pt": "Bearie"
+ },
+ "npc_name8202": {
+  "en": "Xingtian",
+  "ch": "刑天",
+  "nomes": {
+   "Xingtian": "Xingtian"
+  },
+  "pt": "Xingtian"
+ },
+ "npc_name8203": {
+  "en": "Guardian Spirit of the World",
+  "ch": "八荒守护灵",
+  "pt": "Espírito Guardião do Mundo"
+ },
+ "npc_name8204": {
+  "en": "Pavilion Maid",
+  "ch": "琅琊阁侍女",
+  "pt": "Pajem do Pavilhão"
+ },
+ "npc_name8205": {
+  "en": "Heresy Preacher",
+  "ch": "邪教教主",
+  "nomes": {
+   "Heresy Preacher": "Pregador Herege"
+  },
+  "pt": "Pregador da Heresia"
+ },
+ "npc_name8206": {
+  "en": "Follower",
+  "ch": "教徒",
+  "nomes": {
+   "Follower": "Seguidor"
+  },
+  "pt": "Seguidor"
+ },
+ "npc_name8207": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8208": {
+  "en": "Xingtian's Shield",
+  "ch": "干",
+  "nomes": {
+   "Xingtian": "Xingtian",
+   "Xingtian's Shield": "Escudo de Xingtian"
+  },
+  "pt": "Escudo de Xingtian"
+ },
+ "npc_name8209": {
+  "en": "Xingtian's Axe",
+  "ch": "戚",
+  "nomes": {
+   "Xingtian": "Xingtian",
+   "Xingtian's Axe": "Machado de Xingtian"
+  },
+  "pt": "O Machado de Xingtian"
+ },
+ "npc_name8210": {
+  "en": "Sword Bambuki",
+  "ch": "剑竹妖",
+  "nomes": {
+   "Bambuki": "Bambuki",
+   "Sword Bambuki": "Bambuki da Espada"
+  },
+  "pt": "Espada Bambuki"
+ },
+ "npc_name8211": {
+  "en": "Mushroom Man",
+  "ch": "药灵",
+  "nomes": {
+   "Mushroom Man": "Homem Cogumelo"
+  },
+  "pt": "Homem Cogumelo"
+ },
+ "npc_name8500": {
+  "en": "First Piece",
+  "ch": "一子灵",
+  "pt": "Primeira Peça"
+ },
+ "npc_name8501": {
+  "en": "Second Piece",
+  "ch": "二子灵",
+  "pt": "Segunda Peça"
+ },
+ "npc_name8502": {
+  "en": "Third Piece",
+  "ch": "三子灵",
+  "pt": "Terceira Peça"
+ },
+ "npc_name8503": {
+  "en": "Fourth Piece",
+  "ch": "四子灵",
+  "pt": "Quarta Peça"
+ },
+ "npc_name8504": {
+  "en": "Fifth Piece",
+  "ch": "五子灵",
+  "pt": "Quinta Peça"
+ },
+ "npc_name8510": {
+  "en": "Black-rank Earth Immortal",
+  "ch": "玄令地仙",
+  "pt": "Imortal da Terra de rank Negro"
+ },
+ "npc_name8511": {
+  "en": "White-rank Earth Immortal",
+  "ch": "素令地仙",
+  "pt": "Imortal da Terra de Rank Branco"
+ },
+ "npc_name8512": {
+  "en": "Green-rank Earth Immortal",
+  "ch": "碧令地仙",
+  "pt": "Imortal da Terra de nível Verde"
+ },
+ "npc_name8513": {
+  "en": "Yellow-rank Earth Immortal",
+  "ch": "黄令地仙",
+  "pt": "Imortal da Terra de Rank Amarelo"
+ },
+ "npc_name8514": {
+  "en": "Red-rank Earth Immortal",
+  "ch": "绯令地仙",
+  "pt": "Imortal da Terra de Rank Vermelho"
+ },
+ "npc_name8515": {
+  "en": "Taichong Earth Immortal",
+  "ch": "太冲地仙",
+  "pt": "Imortal da Terra Taichong"
+ },
+ "npc_name8700": {
+  "en": "Yao Chenzun",
+  "ch": "药辰尊",
+  "nomes": {
+   "Yao Chenzun": "Yao Chenzun"
+  },
+  "pt": "Yao Chenzun"
+ },
+ "npc_name8701": {
+  "en": "Shi Qing",
+  "ch": "师青",
+  "nomes": {
+   "Shi Qing": "Shi Qing"
+  },
+  "pt": "Shi Qing"
+ },
+ "npc_name8702": {
+  "en": "Song Dongting",
+  "ch": "宋东庭",
+  "pt": "Song Dongting"
+ },
+ "npc_name8703": {
+  "en": "Huan Wen",
+  "ch": "桓文",
+  "pt": "Huan Wen"
+ },
+ "npc_name8704": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8705": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8706": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8707": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8708": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8709": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8710": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8711": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8712": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8713": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8714": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8715": {
+  "en": "???",
+  "ch": "？？？",
+  "pt": "???"
+ },
+ "npc_name8720": {
+  "en": "Yao Chenzun",
+  "ch": "药辰尊",
+  "nomes": {
+   "Yao Chenzun": "Yao Chenzun"
+  },
+  "pt": "Yao Chenzun"
+ },
+ "npc_name8721": {
+  "en": "Shi Qing",
+  "ch": "师青",
+  "nomes": {
+   "Shi Qing": "Shi Qing"
+  },
+  "pt": "Shi Qing"
+ },
+ "npc_name8730": {
+  "en": "Sanguira",
+  "ch": "血微",
+  "pt": "Sanguira"
+ },
+ "npc_name9002": {
+  "en": "Villager A",
+  "ch": "村民甲",
+  "pt": "Morador A"
+ },
+ "npc_name9003": {
+  "en": "Villager B",
+  "ch": "村民乙",
+  "pt": "Aldeão B"
+ },
+ "npc_name9004": {
+  "en": "Village head",
+  "ch": "村长",
+  "pt": "Chefe da aldeia"
+ },
+ "npc_name9100": {
+  "en": "Mushroom Man",
+  "ch": "药灵",
+  "nomes": {
+   "Mushroom Man": "Homem Cogumelo"
+  },
+  "pt": "Homem Cogumelo"
+ },
+ "npc_name9101": {
+  "en": "Dangkang",
+  "ch": "当康",
+  "nomes": {
+   "Dangkang": "Dangkang"
+  },
+  "pt": "Dangkang"
+ },
+ "npc_name9102": {
+  "en": "Nine Tails",
+  "ch": "九尾狐",
+  "nomes": {
+   "Nine Tails": "Nove Caudas"
+  },
+  "pt": "Nove Caudas"
+ },
+ "npc_name9103": {
+  "en": "Jagu",
+  "ch": "武罗",
+  "pt": "Jagu"
+ },
+ "npc_name9104": {
+  "en": "Zhang San",
+  "ch": "张三",
+  "nomes": {
+   "Zhang San": "Zhang San"
+  },
+  "pt": "Zhang San"
+ },
+ "npc_name9210": {
+  "en": "Mysterious Person",
+  "ch": "神秘人",
+  "pt": "Pessoa Misteriosa"
+ },
+ "npc_name9211": {
+  "en": "Mysterious Person",
+  "ch": "神秘人",
+  "pt": "Pessoa Misteriosa"
+ },
+ "npc_name9212": {
+  "en": "Unknown Pavilion Leader",
+  "ch": "道心阁神秘首领",
+  "pt": "Líder de Pavilhão Desconhecido"
+ },
+ "npc_name9213": {
+  "en": "Unknown Temple Leader",
+  "ch": "蚀心殿神秘首领",
+  "pt": "Líder do Templo Desconhecido"
+ },
+ "npc_name9230": {
+  "en": "Cultivator",
+  "ch": "修仙者",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador"
+ },
+ "npc_name9231": {
+  "en": "Cultivator A",
+  "ch": "修仙者甲",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador A"
+ },
+ "npc_name9232": {
+  "en": "Yun Yuan",
+  "ch": "云远",
+  "pt": "Yun Yuan"
+ },
+ "npc_name9233": {
+  "en": "Cultivator",
+  "ch": "修仙者",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador"
+ },
+ "npc_name9234": {
+  "en": "Cultivator A",
+  "ch": "修仙者甲",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador A"
+ },
+ "npc_name9235": {
+  "en": "Cultivator B",
+  "ch": "修仙者乙",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador B"
+ },
+ "npc_name9236": {
+  "en": "Xue Xingtian",
+  "ch": "薛行天",
+  "nomes": {
+   "Xingtian": "Xingtian"
+  },
+  "pt": "Xue Xingtian"
+ },
+ "npc_name9237": {
+  "en": "Lang Junhao",
+  "ch": "郎君豪",
+  "pt": "Lang Junhao"
+ },
+ "npc_name9239": {
+  "en": "Chen Jingfeng",
+  "ch": "陈劲峰",
+  "pt": "Chen Jingfeng"
+ },
+ "npc_name9240": {
+  "en": "Hao Baxian",
+  "ch": "郝霸先",
+  "pt": "Hao Baxian"
+ },
+ "npc_name9241": {
+  "en": "Ni Yong",
+  "ch": "倪永",
+  "pt": "Ni Yong"
+ },
+ "npc_name9242": {
+  "en": "Li Xuantong",
+  "ch": "李玄同",
+  "pt": "Li Xuantong"
+ },
+ "npc_name9243": {
+  "en": "Xie Xuefeng",
+  "ch": "谢雪峰",
+  "pt": "Xie Xuefeng"
+ },
+ "npc_name9244": {
+  "en": "Luo Qingyun",
+  "ch": "骆青云",
+  "pt": "Luo Qingyun"
+ },
+ "npc_name9245": {
+  "en": "Fei Jin",
+  "ch": "费晋",
+  "pt": "Fei Jin"
+ },
+ "npc_name9301": {
+  "en": "Broken Soul",
+  "ch": "残魂",
+  "pt": "Alma Partida"
+ },
+ "npc_name9302": {
+  "en": "Malevolent Soul",
+  "ch": "恶魂",
+  "pt": "Alma malévola"
+ },
+ "npc_name9303": {
+  "en": "Benevolent Soul",
+  "ch": "善魂",
+  "pt": "Alma benevolente"
+ },
+ "npc_name9304": {
+  "en": "Merchant Soul",
+  "ch": "商魂",
+  "pt": "Alma do Comerciante"
+ },
+ "npc_name9305": {
+  "en": "Timid Soul",
+  "ch": "怯魂",
+  "pt": "Alma tímida"
+ },
+ "npc_name9306": {
+  "en": "Dragon Soul",
+  "ch": "龙魂",
+  "nomes": {
+   "Dragon Soul": "Alma do Dragão"
+  },
+  "pt": "Alma do Dragão"
+ },
+ "npc_name9307": {
+  "en": "Dewy Soul",
+  "ch": "雾水魂",
+  "pt": "Alma Orvalhada"
+ },
+ "npc_name9308": {
+  "en": "Ward Soul",
+  "ch": "防盗魂",
+  "pt": "Guardião da Alma"
+ },
+ "npc_name9309": {
+  "en": "Plunderer Soul",
+  "ch": "劫掠魂",
+  "pt": "Ladrão de Almas"
+ },
+ "npc_name9310": {
+  "en": "Mindreader Soul",
+  "ch": "解意魂",
+  "pt": "Leitor de Mentes, Alma"
+ },
+ "npc_name9311": {
+  "en": "Dreamweaver Soul",
+  "ch": "梦萦魂",
+  "pt": "Tecedor de Sonhos Alma"
+ },
+ "npc_name9312": {
+  "en": "Martial Soul",
+  "ch": "武魂",
+  "pt": "Alma Marcial"
+ },
+ "npc_name9313": {
+  "en": "Liquor Soul",
+  "ch": "酒魂",
+  "pt": "Licor de Alma"
+ },
+ "npc_name9314": {
+  "en": "Heartcharmer Soul",
+  "ch": "偷心魂",
+  "pt": "Alma Encantadora de Corações"
+ },
+ "npc_name9315": {
+  "en": "Beast Suppressor Soul",
+  "ch": "镇妖魂",
+  "pt": "Supressor de Feras Alma"
+ },
+ "npc_name9318": {
+  "en": "Lovereaper Soul",
+  "ch": "自持魂",
+  "pt": "Ceifador do Amor, Alma"
+ },
+ "npc_name9319": {
+  "en": "Matchmaker Soul",
+  "ch": "月老魂",
+  "pt": "Casamenteira Alma"
+ },
+ "npc_name9320": {
+  "en": "Gossip Soul",
+  "ch": "长舌魂",
+  "pt": "Alma fofoqueira"
+ },
+ "npc_name9321": {
+  "en": "Dexterity Soul",
+  "ch": "妙手魂",
+  "pt": "Alma da Destreza"
+ },
+ "npc_name9322": {
+  "en": "Debate Soul",
+  "ch": "论道魂",
+  "pt": "Debate sobre a Alma"
+ },
+ "npc_name9323": {
+  "en": "Soulshifter Soul",
+  "ch": "转灵魂",
+  "pt": "Mudador de Almas - Alma"
+ },
+ "npc_name9324": {
+  "en": "Tao Domain Soul",
+  "ch": "道域魂",
+  "pt": "Domínio do Dao e da Alma"
+ },
+ "npc_name9325": {
+  "en": "Dealseeker Soul",
+  "ch": "买手魂",
+  "pt": "Dealseeker Alma"
+ },
+ "npc_name9326": {
+  "en": "Treasure Hunter Soul",
+  "ch": "窃宝魂",
+  "pt": "Caçador de Tesouros Alma"
+ },
+ "npc_name9327": {
+  "en": "Extraordinary Soul",
+  "ch": "独秀魂",
+  "pt": "Alma extraordinária"
+ },
+ "npc_name9328": {
+  "en": "Ultimate Skill Soul",
+  "ch": "神通魂",
+  "pt": "Técnica Suprema da Alma"
+ },
+ "npc_name9329": {
+  "en": "Blameshifter Soul",
+  "ch": "移祸魂",
+  "pt": "Alma Transmutadora de Culpa"
+ },
+ "npc_name9401": {
+  "en": "Mysterious Spirit",
+  "ch": "神秘灵体",
+  "pt": "Espírito Misterioso"
+ },
+ "npc_name9402": {
+  "en": "Lan You",
+  "ch": "兰幽",
+  "pt": "Lan You"
+ },
+ "npc_name9403": {
+  "en": "Lady in Purple",
+  "ch": "紫衣女子",
+  "pt": "Dama de Roxo"
+ },
+ "npc_name9404": {
+  "en": "Man in Black",
+  "ch": "黑衣男子",
+  "pt": "Homem de Preto"
+ },
+ "npc_name9405": {
+  "en": "Wang Xiaoniu",
+  "ch": "王小牛",
+  "pt": "Wang Xiaoniu"
+ },
+ "npc_name9406": {
+  "en": "Zhao Dalei",
+  "ch": "赵大雷",
+  "pt": "Zhao Dalei"
+ },
+ "npc_name9407": {
+  "en": "Li Tiezhu",
+  "ch": "李铁柱",
+  "pt": "Li Tiezhu"
+ },
+ "npc_name9408": {
+  "en": "Chen Tugen",
+  "ch": "陈土根",
+  "pt": "Chen Tugen"
+ },
+ "npc_name9409": {
+  "en": "Sun Shidun",
+  "ch": "孙史顿",
+  "pt": "Sun Shidun"
+ },
+ "npc_name9410": {
+  "en": "Wu Shanzi",
+  "ch": "吴山子",
+  "pt": "Wu Shanzi"
+ },
+ "npc_name9411": {
+  "en": "Zhou Tianwa",
+  "ch": "周田娃",
+  "pt": "Zhou Tianwa"
+ },
+ "npc_name9412": {
+  "en": "Li Dagen",
+  "ch": "李大根",
+  "pt": "Li Dagen"
+ },
+ "npc_name9413": {
+  "en": "Shen Jinbing",
+  "ch": "申金丙",
+  "pt": "Shen Jinbing"
+ },
+ "npc_name9414": {
+  "en": "Liu Jinbao",
+  "ch": "刘金宝",
+  "pt": "Liu Jinbao"
+ },
+ "npc_name9415": {
+  "en": "Zhang Qiumao",
+  "ch": "章丘毛",
+  "pt": "Zhang Qiumao"
+ },
+ "npc_name9416": {
+  "en": "Zhou Wangmeng",
+  "ch": "周王猛",
+  "pt": "Zhou Wangmeng"
+ },
+ "npc_name9417": {
+  "en": "Qin Qinqin",
+  "ch": "秦琴勤",
+  "pt": "Qin Qinqin"
+ },
+ "npc_name9418": {
+  "en": "Wu Shuangyue",
+  "ch": "吴爽越",
+  "pt": "Wu Shuangyue"
+ },
+ "npc_name9419": {
+  "en": "Qian Daonan",
+  "ch": "钱刀南",
+  "pt": "Qian Daonan"
+ },
+ "npc_name9420": {
+  "en": "Situ Si",
+  "ch": "司徒思",
+  "pt": "Situ Si"
+ },
+ "npc_name9421": {
+  "en": "Dou Wei",
+  "ch": "窦威",
+  "pt": "Dou Wei"
+ },
+ "npc_name9422": {
+  "en": "Li Guangxu",
+  "ch": "李光绪",
+  "pt": "Li Guangxu"
+ },
+ "npc_name9423": {
+  "en": "Qin Shuanglong",
+  "ch": "秦双龙",
+  "pt": "Qin Shuanglong"
+ },
+ "npc_name9424": {
+  "en": "Wu Laogui",
+  "ch": "吴老贵",
+  "pt": "Wu Laogui"
+ },
+ "npc_name9431": {
+  "en": "Xiang Laichi",
+  "ch": "向来痴",
+  "pt": "Xiang Laichi"
+ },
+ "npc_name9432": {
+  "en": "Arachnid Woman",
+  "ch": "天香",
+  "nomes": {
+   "Arachnid": "Aranha"
+  },
+  "pt": "Mulher-Aranha"
+ },
+ "npc_name9433": {
+  "en": "Frenzied Nether Demon",
+  "ch": "发狂的冥妖",
+  "nomes": {
+   "Nether Demon": "Demônio do Submundo"
+  },
+  "pt": "Demônio do Submundo Enlouquecido"
+ },
+ "npc_name9434": {
+  "en": "Enraged Nether Demon",
+  "ch": "愤怒的冥妖",
+  "nomes": {
+   "Nether Demon": "Demônio do Submundo"
+  },
+  "pt": "Demônio do Submundo furioso"
+ },
+ "npc_name9530": {
+  "en": "Sect Patrol Cultivator",
+  "ch": "",
+  "nomes": {
+   "Sect Patrol Cultivator": "Cultivador de Patrulha da Seita",
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador Patrulheiro da Seita"
+ },
+ "npcinfo_chuanshou": {
+  "en": "Teach Taoist Seed",
+  "ch": "传授道种",
+  "pt": "Ensine a Semente Daoísta."
+ },
+ "npcinfo_naijiu": {
+  "en": "Dedication",
+  "ch": "坚定度",
+  "pt": "Dedicação"
+ },
+ "npcinfo_qchenggongchuanshou": {
+  "en": "Successfully passed {0} on to {1}",
+  "ch": "成功向{0}传授了{1}",
+  "pt": "Transferido com sucesso {0} para {1}"
+ },
+ "npcinfo_querenchuanshou": {
+  "en": "Pass on Taoist Seed to {0}?",
+  "ch": "是否将道种传授给{0}？",
+  "pt": "Deseja transmitir a Semente Daoísta para {0}?"
+ },
+ "npcinfo_tupohou": {
+  "en": "May acquire Rewrite Destiny after a Breakthrough.",
+  "ch": "突破后可获得逆天改命",
+  "pt": "É possível adquirir o Reescrever o Destino após um Avanço."
+ },
+ "npcinfo_tupohou2": {
+  "en": "Rewrite Destiny of this Taoist Mind",
+  "ch": "此道心所拥有的逆天改命",
+  "pt": "Reescrever o Destino com este Coração do Dao"
+ },
+ "npcinfo_weibeidaoxin": {
+  "en": "Actions that contravene your Taoist Mind may cause it to shatter.",
+  "ch": "做一些违背道心的事情会导致道心破碎",
+  "pt": "Ações que vão contra o seu Coração do Dao podem fazê-lo se quebrar."
+ },
+ "npcinfo_weiningjie": {
+  "en": "Has yet to form a Taoist Seed.",
+  "ch": "未凝结道种",
+  "pt": "Ainda não formou uma Semente Daoísta."
+ },
+ "npcinfo_wunitian": {
+  "en": "Does not have Rewrite Destiny at the moment.",
+  "ch": "暂无逆天改命",
+  "pt": "No momento, não possui Reescrever o Destino."
+ },
+ "npcinfo_xuanzechuanshou": {
+  "en": "Select the Taoist Seed to be taught",
+  "ch": "选择要传授的道种",
+  "pt": "Selecione a Semente Daoísta a ser ensinada."
+ },
+ "npcinfo_xuyaodaoxin": {
+  "en": "Must possess a Taoist Mind",
+  "ch": "必须拥有道心",
+  "pt": "É necessário ter um Coração do Dao."
+ },
+ "npcinfo_yu": {
+  "en": "and",
+  "ch": "与",
+  "pt": "e"
+ },
+ "optionRuins1001": {
+  "en": "Invite to an adventure in ruins",
+  "ch": "邀约遗迹探险",
+  "pt": "Convidem para uma aventura nas ruínas."
+ },
+ "option_fa001": {
+  "en": "Fire",
+  "ch": "火",
+  "pt": "Fogo"
+ },
+ "option_fa002": {
+  "en": "Water",
+  "ch": "水",
+  "pt": "Água"
+ },
+ "option_fa003": {
+  "en": "Lightning",
+  "ch": "雷",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Relâmpago"
+ },
+ "option_fa004": {
+  "en": "Wind",
+  "ch": "风",
+  "pt": "Vento"
+ },
+ "option_fa005": {
+  "en": "Earth",
+  "ch": "土",
+  "pt": "Terra"
+ },
+ "option_fa006": {
+  "en": "Wood",
+  "ch": "木",
+  "pt": "Madeira"
+ },
+ "p_meimiaoshanghai": {
+  "en": "DPS: {0}",
+  "ch": "每秒伤害：{0}",
+  "pt": "DPS: {0}"
+ },
+ "paimaiTipsButton": {
+  "en": "Rules",
+  "ch": "说明",
+  "pt": "Regras"
+ },
+ "paimaiTipsDesc": {
+  "en": "1. The auction event is held once every 2 years. Everyone can join the auction for free.\n\n2. Everyone can put up high-rarity items for auction in Auction Houses. 10% of the Reserve Price will be paid as a fee.\n\n3. Different Auction Houses have different Item Realm requirements. Only qualified items can be put up for auction in an Auction House.\n\n4. Items that are put up for auction will be available for bidding when the next auction begins. They can't be retrieved before the auction is over.\n\n5. After an auction is over, unsold items must be retrieved manually within the time limit, or the Auction House will decide what to do with them.\n\n6. After an item is sold, the Auction House will take 10% of the selling price as its fee, which means the seller will get 90% of the selling price.",
+  "ch": "1.拍卖会每2年举办一次，所有人都可以参加竞拍，参加拍卖会不收取任何费用\n\n2.所有人均可在拍卖行中寄拍珍宝（品质较高的道具），寄拍时，拍卖行将会收取10%的底价费用。\n\n3.每个拍卖行所收集的道具境界不同，所有不同境界的道具需要到对应的拍卖行才可以寄拍。\n\n4.寄拍的道具会在下次拍卖会开启时进行竞拍，道具寄拍后不可直接取回。\n\n5.若道具在竞拍中流拍，则需要在一定时间内来拍卖行取回，否则将由拍卖行自行处理。\n\n6.竞拍成交后，拍卖行将会收取10%的成交费，寄拍者将可得到90%的成交价格。",
+  "pt": "1. O evento de leilão é realizado uma vez a cada 2 anos. Todos podem participar do leilão gratuitamente.\n\n2. Qualquer pessoa pode colocar item de alta raridade para leilão nas Casas de Leilões. 10% do Preço de Reserva será cobrado como taxa.\n\n3. Cada Casa de Leilões possui requisitos específicos de Reino do item. Apenas itens que atendam a esses critérios podem ser colocados em leilão.\n\n4. Os item disponibilizados para leilão ficarão abertos para lances com o início do próximo leilão. Eles não poderão ser retirados antes do término do mesmo.\n\n5. Após o encerramento de um leilão, os item não vendidos devem ser retirados manualmente dentro do prazo determinado; caso contrário, a Casa de Leilões decidirá o que fazer com eles.\n\n6. Quando um item é vendido, a Casa de Leilões cobra 10% do preço de venda como taxa, restando ao vendedor 90% do valor total."
+ },
+ "paimaiTipsTitle": {
+  "en": "Auction Rules",
+  "ch": "拍卖说明",
+  "pt": "Regras do Leilão"
+ },
+ "paimaitishi": {
+  "en": "Welcome! What do you want to put up for auction?",
+  "ch": "你好，欢迎光临，要拍卖什么？",
+  "pt": "Bem-vindo! O que você deseja colocar em leilão?"
+ },
+ "passiveMethod_desc10001": {
+  "en": "Circulation Speed for Heavenly Arts gained in every attack increases by &810001_xljd&%.",
+  "ch": "每次攻击获得的仙法运转速度提高&810001_xljd&%。",
+  "pt": "A Velocidade de circulação da Arte Imortal obtida a cada ataque aumenta em &810001_xljd&%."
+ },
+ "passiveMethod_desc10002": {
+  "en": "When the casting of the Heavenly Art ends, a circle of Heavenly Power will explode from you, dealing &810002_jnwl& damage to all units, and Slow them by &810002_xljs&%.",
+  "ch": "仙法结束时，会爆发一圈仙力，对所有单位造成&810002_jnwl&威力的伤害并附加&810002_xljs&%的减速。",
+  "pt": "Quando a invocação da Arte Imortal terminar, um círculo de Poder Celestial irá explodir a partir de você, causando &810002_jnwl& pontos de dano a todas as unidades e reduzindo sua velocidade em &810002_xljs&%."
+ },
+ "passiveMethod_desc10003": {
+  "en": "Whenever your Heavenly Art deals damage, you will gain an additional &810003_jdlq&s Cooldown Reduction for the skill that currently has the highest cooldown time remaining.",
+  "ch": "仙法造成伤害时，会使自身正在冷却最高的技能降低&810003_jdlq&秒冷却。",
+  "pt": "Sempre que sua Arte Imortal causar dano, você ganhará uma redução adicional de &810003_jdlq&s no tempo de recarga da habilidade que atualmente possui o maior tempo de recarga restante."
+ },
+ "passiveMethod_desc10004": {
+  "en": "Increase the circulation time of the Heavenly Power by &810004_xljd&%, but at the same time increase the damage of Heavenly Arts by &810005_xfsh&%.",
+  "ch": "仙力运转时间增加&810004_xljd&%，但仙法造成伤害提高&810005_xfsh&%。",
+  "pt": "Aumente o tempo de circulação do Poder Celestial em &810004_xljd&%, mas ao mesmo tempo aumente o dano dos Arte Imortal em &810005_xfsh&%."
+ },
+ "passiveMethod_desc10005": {
+  "en": "Can equip &810006_xkcw& additional Heavenly Arts.",
+  "ch": "可多装备&810006_xkcw&个仙法。",
+  "pt": "É possível equipar &810006_xkcw& Arte Imortal adicional."
+ },
+ "passiveMethod_desc10006": {
+  "en": "If the passive Heavenly Arts equipped are no more than 2, the damage dealt by Heavenly Arts will increase by &810007_shzj&%.",
+  "ch": "若装备被动仙法不超过2个，仙法造成的伤害提高&810007_shzj&%。",
+  "pt": "Se o número de técnicas passivas da Arte Imortal equipadas for no máximo 2, o dano causado pelas técnicas da Arte Imortal aumentará em &810007_shzj&%."
+ },
+ "passiveMethod_desc10008": {
+  "en": "Every time you cast Ultimate Skill, you will immediately obtain &810009_xfyz&% circulation progress for current Heavenly Art.",
+  "ch": "每次释放神通时，立即赋予当前仙法&810009_xfyz&%的仙力运转进度。",
+  "pt": "Toda vez que você usar a Técnica Suprema, obterá imediatamente &810009_xfyz&% de progresso na circulação da Arte Imortal atual."
+ },
+ "passiveMethod_desc10009": {
+  "en": "Every time you deal damage with Heavenly Art, you will gain additional &810010_gjts& ATK increase, stackable at max &810010_djcs& layers for &810010_cxsj&s.",
+  "ch": "仙法每次造成伤害时，提高自身攻击力&810010_gjts&点，最大提高&810010_djcs&次，持续&810010_cxsj&秒。",
+  "pt": "Toda vez que causar dano utilizando a Arte Imortal, você ganhará um aumento adicional de &810010_gjts& no ATQ. Esse efeito é acumulável, podendo atingir até &810010_djcs& camadas, com duração de &810010_cxsj& segundos."
+ },
+ "passiveMethod_desc1001": {
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Fiery Thunder (purple). The Sword’s Will deals damage equaling to &710001_jlwl&% of slash damage to the enemies, and Stuns them for &710001_xysj&s.",
+  "ch": "剑斩时会额外使用紫色的惊雷剑意进行攻击，惊雷剑意对敌人造成&710001_jlwl&%斩击威力的伤害并眩晕敌人&710001_xysj&秒。",
+  "pt": "Cause dano adicional ao lançar Cortes de Espada, utilizando a Vontade da Espada - Trovão Inflamado (roxo). A Vontade da Espada inflige dano equivalente a &710001_jlwl&% do dano dos cortes nos inimigos, além de atordoá-los por &710001_xysj& segundos."
+ },
+ "passiveMethod_desc10010": {
+  "en": "Gain infinite Dodge effect for &810011_cxsj&s after casting Heavenly Art.",
+  "ch": "仙法释放后的&810011_cxsj&秒时间内提供无限闪避效果。",
+  "pt": "Ao lançar a Arte Imortal, você obtém o efeito de Esquiva infinito para &810011_cxsj&s."
+ },
+ "passiveMethod_desc10011": {
+  "en": "Every time you summon a unit, the damage of Heavenly Arts will be increased by &810012_xfsh&% for &810012_jnlq&s. Stackable at max &810012_djcs& times.",
+  "ch": "每召唤一个召唤物时，使仙法伤害提高&810012_xfsh&%，持续&810012_jnlq&秒，最大提高&810012_djcs&次。",
+  "pt": "Toda vez que você invoca uma unidade, o dano da Arte Imortal aumentará em &810012_xfsh&% por &810012_jnlq& segundos. Esse efeito pode ser acumulado até um máximo de &810012_djcs& vezes."
+ },
+ "passiveMethod_desc10012": {
+  "en": "Gain &810013_shjd&% Damage Reduction during the communication of the Heavenly Art.",
+  "ch": "仙法在沟通期间，获得&810013_shjd&%伤害减免。",
+  "pt": "Ganhe &810013_shjd&% de redução de Dano durante a utilização da Arte Imortal."
+ },
+ "passiveMethod_desc10013": {
+  "en": "When the remaining Immortal Power Pts are no less than 5, you will gain &810014_xljd&% circulation progress for Heavenly Power every 5 seconds.",
+  "ch": "当自身剩余仙力点大于5点时，每5秒会获得&810014_xljd&%的仙力运转进度。",
+  "pt": "Quando o número restante de Pontos de Poder Imortal for igual ou superior a 5, você ganhará &810014_xljd&% de progresso de circulação do Poder Celestial a cada 5 segundos."
+ },
+ "passiveMethod_desc10014": {
+  "en": "When the current Immortal Power Pts consumed are even numbers (can be divided by 2), every time you deal damage with Special Skills, you will gain &810017_xljd&% circulation progress for Heavenly Power.",
+  "ch": "当前消耗仙力点为2的倍数时，每次绝技造成伤害会提供&810017_xljd&%的仙力运转进度。",
+  "pt": "Quando o número atual de Pontos de Poder Celestial consumidos for um número par (divisível por 2), toda vez que causar dano usando Técnica Especial, você ganhará &810017_xljd&% de progresso na circulação do Poder Celestial."
+ },
+ "passiveMethod_desc10015": {
+  "en": "During the circulation of Heavenly Power, the damage dealt by your current Heavenly Art will increase by &810015_xfsh&% every second, stackable at max &810015_djcs& layers, and last for &810015_cxsj&s. Cooldown: &810015_jnlq&s.",
+  "ch": "仙力运转过程中，每秒提高当前仙法&810015_xfsh&%的伤害，最大提高&810015_djcs&次，持续&810015_cxsj&秒，冷却&810015_jnlq&秒。",
+  "pt": "Durante a circulação do Poder Celestial, o dano infligido pela sua Arte Imortal atual aumentará em &810015_xfsh&% a cada segundo, podendo acumular até um máximo de &810015_djcs& camadas, e durando &810015_cxsj& segundos. Tempo de recarga: &810015_jnlq& segundos."
+ },
+ "passiveMethod_desc10016": {
+  "en": "Cast Ultimate Skill will also consume all current circulation of Heavenly Power. Every &810016_xfld&% of circulation consumed will increase the damage of the Ultimate Skill by &810016_stsh&% for &810016_cxsj&s.",
+  "ch": "释放神通时，会消耗当前的所有仙力运转值，每消耗&810016_xfld&%仙力运转值，神通伤害提高&810016_stsh&%，持续&810016_cxsj&秒。",
+  "pt": "Ao lançar a Técnica Suprema, todo o Poder Celestial atualmente disponível também será consumido. A cada &810016_xfld&% do Poder Celestial consumido, o dano causado pela Técnica Suprema aumentará em &810016_stsh&% durante &810016_cxsj& segundos."
+ },
+ "passiveMethod_desc10017": {
+  "en": "Instantly recover &810018_llhf&% Energy after casting Heavenly Arts.",
+  "ch": "释放仙法后，立即恢复自身&810018_llhf&%灵力。",
+  "pt": "Recupera instantaneamente &810018_llhf&% de Energia após usar a Arte Imortal."
+ },
+ "passiveMethod_desc1002": {
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Glowing Sky (cyan). The Sword's Will deals damage equaling to &710001_qmwl&% of slash damage to the enemies and cuts their souls apart. Affected enemy souls are unable to cast skills for &710001_qmsj&s.",
+  "ch": "剑斩时会额外使用青色的青冥剑意进行攻击，青冥剑意对敌人造成&710001_qmwl&%斩击威力的伤害且会斩开敌人的意识，剥夺敌人灵魂使用技能的能力，持续&710001_qmsj&秒。",
+  "pt": "Causa dano extra ao usar o Feitiço da Espada, empregando a Vontade da Espada - Céu Brilhante (ciano). A Vontade da Espada inflige dano equivalente a &710001_qmwl&% do dano causado pelos cortes nos inimigos, além de dilacerar suas almas. As almas dos inimigos afetados não poderão usar habilidades por &710001_qmsj& segundos."
+ },
+ "passiveMethod_desc1003": {
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Dragon Pond (black). The Sword’s Will deals damage equaling to &710001_lywl&% of slash damage to the enemies, and cuts the senses of the enemies apart. Affected enemy souls are unable to move for &710001_lyfysj&s.",
+  "ch": "剑斩时会额外使用黑色的龙渊剑意进行攻击，龙渊剑意对敌人造成&710001_lywl&%斩击威力的伤害且会斩开敌人的五感，剥夺敌人灵魂的移动能力，持续&710001_lyfysj&秒。",
+  "pt": "Ao usar a Vontade da Espada - Lago do Dragão (preto), você causa dano adicional ao lançar o ataque Corte de Espada. A Vontade da Espada inflige dano equivalente a &710001_lywl&% do dano do corte nos inimigos, além de atordoá-los. As almas dos inimigos afetados ficam incapazes de se mover por &710001_lyfysj& segundos."
+ },
+ "passiveMethod_desc1004": {
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword’s Will - Thin Frost (white). The Sword’s Will deals damage equaling to &710001_qswl&% of slash damage to the enemies, and Freezes the enemies into ice cubes for &710001_qsldsj&s. Every time when the ice cube is attacked, there will be a probability of &710001_pbgl&% to break it, dealing &710001_pbwl& damage to the unit inside it, and increasing subsequent damage taken by the unit for &710001_pbys&% in &710001_pbsj&s.",
+  "ch": "剑斩时会额外使用白色的青霜剑意进行攻击，青霜剑意对敌人造成&710001_qswl&%斩击威力的伤害且使敌人变成冰块，持续&710001_qsldsj&秒，冰块受到伤害时有&710001_pbgl&%概率被击破，击破后对单位造成威力&710001_pbwl&的伤害并使敌人受到的伤害提升&710001_pbys&%，持续&710001_pbsj&秒。",
+  "pt": "Ao usar a Vontade da Espada - Gelo Fino (branco), é possível causar dano adicional ao lançar Cortes de Espada. Essa Vontade da Espada inflige dano equivalente a &710001_qswl&% do dano causado pelos cortes nos inimigos, além de aplicar Congelamento neles, transformando-os em cubos de gelo por &710001_qsldsj&s. Sempre que um cubo de gelo for atacado, há uma probabilidade de &710001_pbgl&% de ele se quebrar, causando &710001_pbwl& de dano à unidade dentro dele, e aumentando o dano subsequente que essa unidade sofre em &710001_pbys&% durante &710001_pbsj&s."
+ },
+ "passiveMethod_desc1005": {
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Ethereal Clouds (red). The Sword's Will deals damage equaling to &710001_cxwl&% of slash damage to the enemies and increases damage taken by &710001_cxzs&% to units that are Stunned, Skill-blocked, Restricted, Frozen, and confined in Ice Cubes.",
+  "ch": "剑斩时会额外使用红色的赤霄剑意进行攻击，赤霄剑意对敌人造成&710001_cxwl&%斩击威力的伤害，对受到眩晕，封技，禁足，冻结，冰块的单位造成的伤害提升&710001_cxzs&%。",
+  "pt": "Ao usar a Habilidade Vontade da Espada - Nuvens Etéreas (vermelha), inflija dano adicional ao lançar Cortes de Espada. A Vontade da Espada causa dano equivalente a &710001_cxwl&% do dano dos cortes nos inimigos e aumenta em &710001_cxzs&% o dano recebido por unidades que estejam Atordoadas, com Habilidade bloqueada, Restringidas, Congeladas ou presas em Cubos de Gelo."
+ },
+ "passiveMethod_desc1006": {
+  "en": "Deal additional attack when casting Sword Slashes by employing Sword's Will - Impossible Cliff (orange). The Sword's Will deals damage equaling to &710001_wrwl&% of slash damage to the enemies, and summons an orange sword aura above the target. When the target casts skills, the aura will slash down, dealing &710001_jqwl& damage. The aura lasts for &710001_wrjqsj&s.",
+  "ch": "剑斩时会额外使用橙色的绝影万仞进行攻击，万仞剑意对敌人造成&710001_wrwl&%斩击威力的伤害，同时在目标头顶召唤一把橙色的剑气，当目标使用技能时，橙色剑气会斩落下来造成威力&710001_jqwl&的伤害，橙色剑气持续&710001_wrjqsj&秒。",
+  "pt": "Cause um ataque adicional ao lançar Cortes com a Espada, ao utilizar a Vontade da Espada - Penhasco Impossível (laranja). A Vontade da Espada inflige dano equivalente a &710001_wrwl&% do dano dos cortes nos inimigos e invoca uma aura de espada laranja acima do alvo. Quando o alvo utiliza habilidades, a aura desce como um corte, causando &710001_jqwl& de dano. A aura permanece por &710001_wrjqsj& segundos."
+ },
+ "passiveMethod_desc1007": {
+  "en": "When no Sword’s Will is equipped, gain &710001_jqsl%1+1& additional sword auras unleashed by the slashes.",
+  "ch": "当你没有装备其它剑意时，你施放的斩击剑气数量增加&710001_jqsl%1+1&次。",
+  "pt": "Quando nenhuma Espada da Vontade está equipada, você ganha &710001_jqsl%1+1& auras de espada adicionais liberadas pelos cortes."
+ },
+ "passiveMethod_desc1008": {
+  "en": "Randomly unleash &710001_yjcs& kinds of sword auras.",
+  "ch": "施放&710001_yjcs&种随机剑气。",
+  "pt": "Libere aleatoriamente &710001_yjcs& tipos de auras de espada."
+ },
+ "passiveMethod_desc1009": {
+  "en": "Gain &710001_lhsl%1+1& additional souls cut down from the slashes.",
+  "ch": "剑斩可以额外斩出&710001_lhsl%1+1&个灵魂。",
+  "pt": "Ganhe &710001_lhsl%1+1& almas adicionais por cada golpe desferido."
+ },
+ "passiveMethod_desc2002": {
+  "en": "Every time you use a skill, you may transform 1~3 eggs among them into Red eggs.\nRed eggs have a probability of hatching a lot of chicks to attack the enemies, or inflicting the enemies with eggshell shards in hatching.",
+  "ch": "每次使用技能可能将其中1~3个鸡蛋改变为红色鸡蛋。\n此鸡蛋有概率孵化出大量小鸡攻击或孵化时发生蛋壳溅射。",
+  "pt": "Toda vez que você usa uma habilidade, pode transformar de 1 a 3 ovos nela em ovos vermelhos.\nOs ovos vermelhos têm a probabilidade de chocar muitos pintinhos para atacar os inimigos, ou de liberar fragmentos de casca de ovo ao chocar."
+ },
+ "passiveMethod_desc2003": {
+  "en": "Every time you use a skill, you may transform 1~3 eggs among them into Blue eggs.",
+  "ch": "每次使用技能可能将其中1~3个鸡蛋改变为蓝色鸡蛋。",
+  "pt": "Toda vez que você usar uma habilidade, pode transformar de 1 a 3 ovos em ovos azuis."
+ },
+ "passiveMethod_desc2004": {
+  "en": "Every time you use a skill, you may transform 1~3 eggs among them into Green eggs.",
+  "ch": "每次使用技能可能将其中1~3个鸡蛋改变为绿色鸡蛋。",
+  "pt": "Toda vez que você usar uma habilidade, poderá transformar de 1 a 3 ovos entre eles em ovos verdes."
+ },
+ "passiveMethod_desc2005": {
+  "en": "Summoned small eggs +5.",
+  "ch": "召唤小鸡蛋数量+5。",
+  "pt": "Invocou ovos pequenos +5."
+ },
+ "passiveMethod_desc2006": {
+  "en": "Generation probability for large eggs +10%.",
+  "ch": "大鸡蛋产生概率提高10%。",
+  "pt": "Probabilidade de geração de ovos grandes +10%."
+ },
+ "passiveMethod_desc3001": {
+  "en": "Every time a spore grows into a mushroom, an additional mushroom will be generated. The types of generated mushrooms are: Hallucinating Mushroom, Size-up Mushroom, and Shrink Mushroom.\nSize-up Mushroom: eat it to grow bigger in size by &710003_dlbdbl&%, and increase damage dealt by &710003_dlzsbl&% for &710003_dlcxsj&s.\nShrink Mushroom: eat it to gain &710003_wxsxbl&% change in size, and decrease the cooldown of all skills by &710003_wxlqbl&% for &710003_wxcxsj&s.",
+  "ch": "孢子成长为蘑菇时，必定额外出现迷幻菇、变大菇、缩小菇3个之1。\n大力菇：食用后体型变大&710003_dlbdbl&%，造成伤害提升&710003_dlzsbl&%。持续&710003_dlcxsj&秒。\n微型菇：食用后体型&710003_wxsxbl&%，所有技能冷却&710003_wxlqbl&%。持续&710003_wxcxsj&秒。",
+  "pt": "Toda vez que um esporo se transforma em um cogumelo, um outro cogumelo é gerado. Os tipos de cogumelos que podem ser gerados são: Cogumelo Alucinógeno, Cogumelo Aumentador de Tamanho e Cogumelo Redutor de Tamanho.\nCogumelo Aumentador de Tamanho: ao consumi-lo, seu tamanho aumenta em &710003_dlbdbl&%, e o dano causado também aumenta em &710003_dlzsbl&% por &710003_dlcxsj& segundos.\nCogumelo Redutor de Tamanho: ao consumi-lo, seu tamanho diminui em &710003_wxsxbl&%, e o tempo de recarga de todas as habilidades é reduzido em &710003_wxlqbl&% por &710003_wxcxsj& segundos."
+ },
+ "passiveMethod_desc3002": {
+  "en": "Every time a spore grows into a mushroom, an additional mushroom will be generated. The types of generated mushrooms are: Freezing Mushroom, Burning Mushroom, and Toxic Mushroom.\nFreezing Mushroom: eat it to trigger 1 Chilly Wave, Freezing all enemies on the battlefield for &710003_hbdjsj&s. The time of the effect will be halved for Bosses and Cultivators.\nBurning Mushroom: eat it to trigger 1 explosion, dealing &710003_lymgwl& damage to all enemies within &710003_lybzfw& range.\nToxic Mushroom: eat it to trigger 1 Toxic Wave of &710003_jdbzfw& Area of Effect, dealing &710003_dsshwl& damage to all affected enemies every &710003_jdshjg&s. The Poison effect lasts for &710003_jdcxsj&s.",
+  "ch": "孢子成长为蘑菇时，必定额外出现寒冰菇、烈焰菇、剧毒菇3个之1。\n寒冰菇：食用后会爆发出1次寒冰波动，对全场造成冰冻，持续&710003_hbdjsj&秒。对大妖兽和修仙者持续时间减半。\n烈焰菇：食用后会爆发出1次爆炸，对范围&710003_lybzfw&内的所有敌方造成威力&710003_lymgwl&的伤害。\n剧毒菇：食用后会爆发出1次范围&710003_jdbzfw&的剧毒波动，使所有波及的敌方单位每&710003_jdshjg&秒受到威力&710003_dsshwl&的伤害，持续&710003_jdcxsj&秒。",
+  "nomes": {
+   "Freezing Mushroom": "Cogumelo Congelante",
+   "Burning Mushroom": "Cogumelo Ardente",
+   "Toxic Mushroom": "Cogumelo Tóxico"
+  },
+  "pt": "Toda vez que um esporo se transforma em um cogumelo, um outro cogumelo também é gerado. Os tipos de cogumelos que podem aparecer são: Cogumelo Congelante, Cogumelo Ardente e Cogumelo Tóxico.\nCogumelo Congelante: ao consumi-lo, é acionada 1 Onda Congelante, que congela todos os inimigos no campo de batalha por &710003_hbdjsj& segundos. O tempo de efeito é reduzido pela metade para Bosses e Cultivadores.\nCogumelo Ardente: ao consumi-lo, ocorre 1 explosão, causando &710003_lymgwl& pontos de dano a todos os inimigos dentro de um raio de &710003_lybzfw&.\nCogumelo Tóxico: ao consumi-lo, é acionada 1 Onda Tóxica com área de efeito de &710003_jdbzfw&, causando &710003_dsshwl& pontos de dano a todos os inimigos afetados a cada &710003_jdshjg& segundos. O efeito de Veneno persiste por &710003_jdcxsj& segundos."
+ },
+ "passiveMethod_desc3003": {
+  "en": "Every time a spore grows into a mushroom, an additional mushroom will be generated. The types of generated mushrooms are: Super Mushroom, Phantom Mushroom, and Devouring Mushroom.\nSuper Mushroom: eat it to deal &710003_cjpzwl& damage to enemies collided with you, and increase your Agility by &710003_cjtsys&%. During it, you will be Invincible for &710003_cjcxsj&s.\nPhantom Mushroom: eat it to increase Agility by &710003_hytsys&% for &710003_hycxsj&s.",
+  "ch": "孢子成长为蘑菇时，必定额外出现超级菇，幻影菇，食人菇3个之1。\n超级菇：食用后，碰撞敌人时能造成威力&710003_cjpzwl&的伤害并提升移动速度&710003_cjtsys&%，期间无敌，持续&710003_cjcxsj&秒。\n幻影菇：食用后，移动速度提升&710003_hytsys&%，持续&710003_hycxsj&秒。",
+  "nomes": {
+   "Super Mushroom": "Super Cogumelo",
+   "Phantom Mushroom": "Cogumelo Fantasma"
+  },
+  "pt": "Toda vez que um esporo se transforma em um cogumelo, um outro cogumelo é gerado. Os tipos de cogumelos que podem ser gerados são: Cogumelo Super, Cogumelo Fantasma e Cogumelo Devorador.\nCogumelo Super: ao consumi-lo, você causa &710003_cjpzwl& de dano aos inimigos que colidirem com você e aumenta sua Agilidade em &710003_cjtsys&%. Enquanto isso, você fica Invulnerável por &710003_cjcxsj& segundos.\nCogumelo Fantasma: ao consumi-lo, sua Agilidade aumenta em &710003_hytsys&% durante &710003_hycxsj& segundos."
+ },
+ "passiveMethod_desc3004": {
+  "en": "Increase the amount of spores by &710003_jcbzslbl%1+1&%",
+  "ch": "孢子数量增加&710003_jcbzslbl%1+1&%",
+  "pt": "Aumente a quantidade de esporos em &710003_jcbzslbl%1+1&%"
+ },
+ "passiveMethod_desc3007": {
+  "en": "Every time a Mushroom Man is generated, the allied units on the battlefield will increase their ATK by &710003_jmylgj%1+1&.",
+  "ch": "每生成一个药灵场上的友方单位攻击力提升&710003_jmylgj%1+1&。",
+  "nomes": {
+   "Mushroom Man": "Homem Cogumelo"
+  },
+  "pt": "Toda vez que um Mushroom Man é gerado, todas as unidades aliadas no campo de batalha têm seu ATQ aumentado em &710003_jmylgj%1+1&."
+ },
+ "passiveMethod_desc3008": {
+  "en": "Increase the duration of the effects from Active Heavenly Arts by &710000_zdxfsjxz%1+1|/1000|f0&s. (General)",
+  "ch": "使主动仙法效果的持续时间增加&710000_zdxfsjxz%1+1|/1000|f0&秒。（通用）",
+  "pt": "Aumente a duração dos efeitos da Arte Imortal Ativa em &710000_zdxfsjxz%1+1|/1000|f0&s. (Geral)"
+ },
+ "passiveMethod_desc3009": {
+  "en": "Increase the duration of Active skills from Heavenly Arts by &710000_zdxfsjxz%2+1|/1000|f0&s. The duration will be doubled if cast to Fungus Film.",
+  "ch": "使仙法主动技能持续时间增加&710000_zdxfsjxz%2+1|/1000|f0&秒，应用于菌膜则持续时间翻倍。",
+  "pt": "Aumenta a duração das habilidades ativas da Arte Imortal em &710000_zdxfsjxz%2+1|/1000|f0&s. Essa duração será dobrada caso a habilidade seja usada em um Filme de Cogumelo."
+ },
+ "passiveMethod_desc3010": {
+  "en": "Edible mushrooms no longer recover Vitality for the player. The Vitality will &710003_zysstl&% on every time eating them. If the amount of consumed mushrooms exceeds &710003_kbmgsl%1+1&, the player will be Berserk, increasing their ATK and DEF by &710003_kbsxbl&% for &710003_kbcxsj&s.",
+  "ch": "可食用蘑菇将不再对玩家产生回复体力效果，每食用1次，将&710003_zysstl&%的体力，若食用可食用蘑菇超过&710003_kbmgsl%1+1&个，将因为食用过量蘑菇进入狂暴状态，攻防属性提升&710003_kbsxbl&%，持续&710003_kbcxsj&秒。",
+  "pt": "Os cogumelos comestíveis não recuperam mais a Vitalidade do jogador. Ao contrário, a Vitalidade sofre uma redução de &710003_zysstl&% a cada ingestão. Caso a quantidade de cogumelos consumidos ultrapasse &710003_kbmgsl%1+1&, o jogador entrará em estado de Fúria, aumentando seu ATQ e DEF em &710003_kbsxbl&% por &710003_kbcxsj& segundos."
+ },
+ "passiveMethod_desc4002": {
+  "en": "When Immortal Path is activated, launch an Immortal Power attack that can automatically chase down a random unit on the battlefield every 0.2s.",
+  "ch": "仙道状态下每0.2秒对场上随机单位进行一次追踪的仙力攻击。",
+  "pt": "Ao ativar o Caminho Imortal, lance um ataque de Poder Imortal que perseguirá automaticamente uma unidade aleatória no campo de batalha a cada 0,2 segundos."
+ },
+ "passiveMethod_desc4003": {
+  "en": "When Immortal Path is activated, decrease the Cooldown for all skills by 15%.",
+  "ch": "仙道状态下，自身所有技能冷却降低15%。",
+  "pt": "Ao ativar o Caminho Imortal, reduza em 15% o tempo de recarga de todas as habilidades."
+ },
+ "passiveMethod_desc4004": {
+  "en": "When Immortal Path is activated, summon 5 Taoist Symbols that are in line with the Active Heavenly Art to strike random enemies every time casting Special Skills.",
+  "ch": "仙道状态下，每次释放绝技都会召唤5道主动仙法一致的道纹轰击随机的敌人。",
+  "pt": "Ao ativar o Caminho Imortal, são invocados 5 Símbolos Daoístas relacionados à Arte Imortal ativa; esses símbolos atacam inimigos aleatórios toda vez que se utiliza uma Técnica Especial."
+ },
+ "passiveMethod_desc4005": {
+  "en": "When Immortal Path is activated, decrease the damage taken by 30%. Every time you inflict damage, an aura of Heavenly Air will explode around you, dealing damage to all enemies on the battlefield. The cooldown for the explosion of the aura is 3s.",
+  "ch": "仙道状态下，受到伤害降低30%，且受到伤害时会爆发出一圈仙气光圈，对全场造成伤害，仙气光圈攻击会有3秒的恢复时间。",
+  "pt": "Ao ativar o Caminho Imortal, o dano recebido é reduzido em 30%. Sempre que causar dano, uma aura de Ar Celestial explode ao seu redor, infligindo dano a todos os inimigos no campo de batalha. O tempo de recarga para a explosão da aura é de 3 segundos."
+ },
+ "passiveMethod_desc5001": {
+  "en": "Every time the sound waves take effect on a unit (allied or enemy), the damage for the next kick will increase by &710005_ckftwlts&%.",
+  "ch": "音波每影响1次单位，下次飞踢威力提升&710005_ckftwlts&%。",
+  "pt": "Toda vez que as ondas sonoras afetarem uma unidade (aliada ou inimiga), o dano do próximo chute aumentará em &710005_ckftwlts&%."
+ },
+ "passiveMethod_desc5002": {
+  "en": "Every time the wind barrier inflicts an enemy, the damage for cutting will increase by &710005_lkwlbl&%.",
+  "ch": "风障每影响到1个敌方单位，切割威力提升&710005_lkwlbl&%。",
+  "pt": "Toda vez que a barreira de vento atingir um inimigo, o dano de corte aumentará em &710005_lkwlbl&%."
+ },
+ "passiveMethod_desc5003": {
+  "en": "Damage from Heavenly Arts will increase by &710005_jrysbl&% on Slowed enemies.",
+  "ch": "仙法对被减速的单位伤害提升&710005_jrysbl&%。",
+  "pt": "O Dano causado pela Arte Imortal aumentará em &710005_jrysbl&% contra inimigos que estejam desacelerados."
+ },
+ "passiveMethod_desc5004": {
+  "en": "The Cooldown for the kick will be doubled, but a series of &710005_dlcs& kicks will be issued upon triggering.",
+  "ch": "飞踢的冷却时间翻倍，但是触发时候会进行一次&710005_dlcs&连踢。",
+  "pt": "O tempo de recarga para o chute será dobrado, mas uma série de &710005_dlcs& chutes será emitida ao ser acionado."
+ },
+ "passiveMethod_desc5005": {
+  "en": "No longer issue attacks of sound waves. Instead, every time the Ultimate Skill is cast, a clone of the Music Immortal will come into the battlefield to issue a kick on the unit with the highest HP. Cooldown: 1s.",
+  "ch": "不再释放音波攻击，转而使每次神通造成伤害都会产生乐仙分身对血量最高的单位进行飞踢，1秒冷却。",
+  "pt": "O personagem não emite mais ataques sob a forma de ondas sonoras. Em vez disso, toda vez que a Técnica Suprema é utilizada, um clone do Imortal Musical surge no campo de batalha para dar um chute na unidade com o maior número de PVs. Tempo de recarga: 1s."
+ },
+ "passiveMethod_desc6001": {
+  "en": "Every time when the Martial Skill under Transformation hits an enemy, you have a probability of &710006_ylgl&% to cast spear light on the target hit, inflicting the enemy several times, with &710006_ylwl& damage each time. The effect lasts for &710006_ylcxsj&s.",
+  "ch": "变身时枪刺武技命中敌人时，有&710006_ylgl&%概率为对方施加枪芒，造成数次威力&710006_ylwl&的伤害，持续&710006_ylcxsj&秒。",
+  "pt": "Toda vez que a Técnica Marcial sob Transformação atingir um inimigo, há uma probabilidade de &710006_ylgl&% de lançar luz de lança sobre o alvo atingido, causando dano várias vezes; cada instante de dano equivale a &710006_ylwl& unidades de dano. O efeito dura por &710006_ylcxsj& segundos."
+ },
+ "passiveMethod_desc6006": {
+  "en": "The javelins thrown by the Special Skill under Transformation will continuously attack the nearest unit, dealing &710006_tljgwl& damage every second.",
+  "ch": "变身时绝技投射的光枪会持续攻击最近的单位，每秒造成威力&710006_tljgwl&的伤害。",
+  "pt": "As lanças lançadas pela Técnica Especial sob Transformação atacarão continuamente a unidade mais próxima, causando &710006_tljgwl& pontos de dano a cada segundo."
+ },
+ "passiveMethod_desc7001": {
+  "en": "In the duration of the array, there will be stone steles falling from the sky, dealing &710007_zysbwl& damage for &710007_zysbsl& times every second.",
+  "ch": "法阵持续过程中，会落下石碑进行镇压，每秒造成&710007_zysbsl&次威力&710007_zysbwl&的伤害。",
+  "pt": "Durante a duração da formação, haverá estelas de pedra caindo do céu, causando &710007_zysbwl& pontos de dano &710007_zysbsl& vezes por segundo."
+ },
+ "passiveMethod_name10001": {
+  "en": "Soul Formation",
+  "ch": "凝神",
+  "pt": "Formação da Alma"
+ },
+ "passiveMethod_name10002": {
+  "en": "Glorious Twilight",
+  "ch": "余辉",
+  "pt": "Crepúsculo Glorioso"
+ },
+ "passiveMethod_name10003": {
+  "en": "Settled Mind",
+  "ch": "定心",
+  "pt": "Mente tranquila"
+ },
+ "passiveMethod_name10004": {
+  "en": "Gathered Might",
+  "ch": "蕴劲",
+  "pt": "Força Reunida"
+ },
+ "passiveMethod_name10005": {
+  "en": "Expanded Meridians",
+  "ch": "延脉",
+  "pt": "Meridianos Expandidos"
+ },
+ "passiveMethod_name10006": {
+  "en": "Arduous Research",
+  "ch": "钻研",
+  "pt": "Pesquisa árdua"
+ },
+ "passiveMethod_name10007": {
+  "en": "Thorough Comprehension",
+  "ch": "贯通",
+  "pt": "Compreensão aprofundada"
+ },
+ "passiveMethod_name10008": {
+  "en": "Unbroken Perseverance",
+  "ch": "连绵",
+  "pt": "Perseverança inabalável"
+ },
+ "passiveMethod_name10009": {
+  "en": "Battle Will",
+  "ch": "战意",
+  "pt": "Vontade de Batalhar"
+ },
+ "passiveMethod_name1001": {
+  "en": "Sword’s Will - Fiery Thunder",
+  "ch": "惊雷剑意",
+  "pt": "Vontade da Espada - Trovão Ardente"
+ },
+ "passiveMethod_name10010": {
+  "en": "Shadow Escape",
+  "ch": "影遁",
+  "pt": "Fuga das Sombras"
+ },
+ "passiveMethod_name10011": {
+  "en": "Converged Power",
+  "ch": "合力",
+  "pt": "Poder Convergente"
+ },
+ "passiveMethod_name10012": {
+  "en": "Holding Breath",
+  "ch": "闭气",
+  "pt": "Segurando o Sopro"
+ },
+ "passiveMethod_name10013": {
+  "en": "Brimming Harvest",
+  "ch": "满盈",
+  "pt": "Colheita abundante"
+ },
+ "passiveMethod_name10014": {
+  "en": "Inseparable Twin",
+  "ch": "成双",
+  "pt": "Gêmeos inseparáveis"
+ },
+ "passiveMethod_name10015": {
+  "en": "Cumulating Momentum",
+  "ch": "蓄势",
+  "pt": "Momento acumulado"
+ },
+ "passiveMethod_name10016": {
+  "en": "Torrential Flow",
+  "ch": "倾力",
+  "pt": "Fluxo torrencial"
+ },
+ "passiveMethod_name10017": {
+  "en": "Brimming Energy",
+  "ch": "盈能",
+  "pt": "Energia transbordante"
+ },
+ "passiveMethod_name1002": {
+  "en": "Sword’s Will - Glowing Sky",
+  "ch": "青冥剑意",
+  "pt": "Vontade da Espada - Céu Brilhante"
+ },
+ "passiveMethod_name1003": {
+  "en": "Sword’s Will - Dragon Pond",
+  "ch": "龙渊剑意",
+  "pt": "A Vontade da Espada - Lago do Dragão"
+ },
+ "passiveMethod_name1004": {
+  "en": "Sword’s Will - Thin Frost",
+  "ch": "青霜剑意",
+  "pt": "Vontade da Espada - Gelo Fino"
+ },
+ "passiveMethod_name1005": {
+  "en": "Sword’s Will - Ethereal Clouds",
+  "ch": "赤霄剑意",
+  "pt": "A Vontade da Espada - Nuvens Etéreas"
+ },
+ "passiveMethod_name1006": {
+  "en": "Sword’s Will - Impossible Cliff",
+  "ch": "万仞剑意",
+  "pt": "Vontade da Espada - O Penhasco Impossível"
+ },
+ "passiveMethod_name1007": {
+  "en": "Sword Within Mind",
+  "ch": "心中有剑",
+  "pt": "Espada Dentro da Mente"
+ },
+ "passiveMethod_name1008": {
+  "en": "Hand Without Sword",
+  "ch": "手中无剑",
+  "pt": "Mão Sem Espada"
+ },
+ "passiveMethod_name1009": {
+  "en": "Soulshatter Sword",
+  "ch": "碎魂剑法",
+  "pt": "Espada Destroçalmas"
+ },
+ "passiveMethod_name2002": {
+  "en": "Ruby Egg",
+  "ch": "赤炎蛋",
+  "pt": "Ovo de Rubi"
+ },
+ "passiveMethod_name2003": {
+  "en": "Sapphire Egg",
+  "ch": "幽蓝蛋",
+  "pt": "Ovo de Safira"
+ },
+ "passiveMethod_name2004": {
+  "en": "Emerald Egg",
+  "ch": "翠玉蛋",
+  "pt": "Ovo Esmeralda"
+ },
+ "passiveMethod_name2005": {
+  "en": "Greed Is Good",
+  "ch": "多多益善",
+  "pt": "A ganância é boa"
+ },
+ "passiveMethod_name2006": {
+  "en": "Double Insurance",
+  "ch": "双重保险",
+  "pt": "Seguro Duplo"
+ },
+ "passiveMethod_name3001": {
+  "en": "Dazzling",
+  "ch": "眩惑",
+  "pt": "Deslumbrante"
+ },
+ "passiveMethod_name3002": {
+  "en": "Poisoning",
+  "ch": "剧毒",
+  "pt": "Envenenamento"
+ },
+ "passiveMethod_name3003": {
+  "en": "Excelling",
+  "ch": "超凡",
+  "pt": "Excelência"
+ },
+ "passiveMethod_name3004": {
+  "en": "More Mushrooms",
+  "ch": "更多蘑菇",
+  "pt": "Mais cogumelos"
+ },
+ "passiveMethod_name3006": {
+  "en": "Ganoderma Powder",
+  "ch": "芝粉",
+  "pt": "Pó de Ganoderma"
+ },
+ "passiveMethod_name3007": {
+  "en": "Growing",
+  "ch": "滋生",
+  "pt": "Crescendo"
+ },
+ "passiveMethod_name3008": {
+  "en": "Long-living",
+  "ch": "长生",
+  "pt": "De longa vida"
+ },
+ "passiveMethod_name3009": {
+  "en": "Hail Mushroom",
+  "ch": "仙菌万岁",
+  "pt": "Salve, Cogumelo!"
+ },
+ "passiveMethod_name4002": {
+  "en": "Slash of Justice",
+  "ch": "斩罡",
+  "pt": "Corte da Justiça"
+ },
+ "passiveMethod_name4003": {
+  "en": "Silent Emptiness",
+  "ch": "空冥",
+  "pt": "Vazio Silencioso"
+ },
+ "passiveMethod_name4004": {
+  "en": "Spirit Blade",
+  "ch": "灵锋",
+  "pt": "Espírito Lâmina"
+ },
+ "passiveMethod_name4005": {
+  "en": "Blessed Sword",
+  "ch": "仙佑",
+  "pt": "Abençoada Espada"
+ },
+ "passiveMethod_name5001": {
+  "en": "Heavenly Precision",
+  "ch": "穿空",
+  "pt": "Precisão Celestial"
+ },
+ "passiveMethod_name5002": {
+  "en": "Heavenly Determination",
+  "ch": "裂空",
+  "pt": "Determinação Celestial"
+ },
+ "passiveMethod_name5003": {
+  "en": "Weakening Strike",
+  "ch": "击弱",
+  "pt": "Golpe Enfraquecedor"
+ },
+ "passiveMethod_name5004": {
+  "en": "Illusion Breaker",
+  "ch": "穿影",
+  "pt": "Quebrador de Ilusões"
+ },
+ "passiveMethod_name5005": {
+  "en": "Faultless",
+  "ch": "无缝",
+  "pt": "Impecável"
+ },
+ "passiveMethod_name6001": {
+  "en": "Spear - Playful Dragon",
+  "ch": "游龙枪法",
+  "pt": "Lança - Dragão Brincalhão"
+ },
+ "passiveMethod_name6004": {
+  "en": "Spear - Tough Battle",
+  "ch": "血战枪法",
+  "pt": "Lança - Batalha Difícil"
+ },
+ "passiveMethod_name6005": {
+  "en": "Spear Array - Extermination",
+  "ch": "绝命枪阵",
+  "pt": "Formação de Lanças - Extermínio"
+ },
+ "passiveMethod_name6006": {
+  "en": "Ray of Heavenly Glare",
+  "ch": "天瞳射线",
+  "pt": "Raio do Brilho Celestial"
+ },
+ "passiveMethod_name7001": {
+  "en": "Suppression",
+  "ch": "镇压",
+  "pt": "Supressão"
+ },
+ "passiveMethod_name7003": {
+  "en": "Extermination",
+  "ch": "洞灭",
+  "pt": "Extermínio"
+ },
+ "pillFormulaStudy": {
+  "en": "Elixir Recipe Learned",
+  "ch": "已学会丹方",
+  "pt": "Receita de Elixir aprendida"
+ },
+ "pimeng_1": {
+  "en": "Ursus Clan",
+  "ch": "罴蒙族",
+  "pt": "Clã Ursus"
+ },
+ "pimeng_2": {
+  "en": "Lingge is from the Jiang family of the Ursus clan. When the Ji family usurped the throne, the Jiangs were nearly eliminated by them. Lingge and her mother, the last of the Jiang's bloodline, changed their names and escaped to a small village. However, the Ji leader's assassins eventually found them. Her mother sacrificed herself to let Lingge escape, and Lingge has been traveling through the heavenly realm since then, preparing for her revenge.",
+  "ch": "姜菱歌，罴蒙原王族姜家的子弟。在姬家联合其他家族发动政变篡位成功后，姜家遭到了新任王族的血腥清洗，家族几乎覆灭。菱歌跟随母亲隐姓埋名流落村中，成为姜家最后的血脉。然而，残忍的姬家家主并没有打算放过这对母女。他派出杀手全族搜捕姜家母女，一时间全族人心惶惶。很快，姬家的爪牙便来到了母女俩的住处。为了给菱歌争取逃走的机会，母亲甘愿付出性命。此后，菱歌浪迹仙界，为了母亲与其他族人而踏上了复仇之路。",
+  "pt": "Lingge pertence à família Jiang, do clã Ursus. Quando a família Ji tomou o trono, os Jiang quase foram aniquilados por eles. Lingge e sua mãe, últimas descendentes da linhagem Jiang, mudaram de nome e fugiram para uma pequena aldeia. Contudo, os assassinos do líder dos Ji acabaram por encontrá-las. Sua mãe se sacrificou para permitir que Lingge escapasse; desde então, Lingge viaja pelo celestial reino, preparando-se para se vingar."
+ },
+ "pimeng_3": {
+  "en": "The grudge between the Jiangs and the Jis will end with me.",
+  "ch": "姜家与姬家的仇怨必将在我手中了结！",
+  "pt": "O rancor entre os Jiang e os Ji terminará comigo."
+ },
+ "pimeng_4": {
+  "en": "The best attack and the best defense...",
+  "ch": "最强的攻击和最强的防御……",
+  "pt": "O melhor ataque e a melhor defesa..."
+ },
+ "pimeng_5": {
+  "en": "What was my sister thinking?",
+  "ch": "姐姐究竟是怎么想的呢？",
+  "pt": "O que a minha irmã estava pensando?"
+ },
+ "pimeng_6": {
+  "en": "At this point, it doesn't matter if they didn't mean what they said.",
+  "ch": "都走到这步了，那人的话是真是假，都无妨！",
+  "pt": "Neste ponto, não importa se eles não queriam dizer o que disseram."
+ },
+ "pimeng_7": {
+  "en": "Only the feeling of traveling through the heavenly realm will make me forget my hatred for a while. I will start another journey after everything ends.",
+  "ch": "只有从前游历仙界的感觉能让我暂时放下仇恨，一切结束之后，我要再次踏上旅程。",
+  "pt": "Somente a sensação de viajar pelo celestial reino conseguirá me fazer esquecer meu ódio por algum tempo. Depois que tudo terminar, iniciarei outra jornada."
+ },
+ "piscesPendant_lengque": {
+  "en": "{0} month(s)",
+  "ch": "{0}个月",
+  "pt": "{0} mês(es)"
+ },
+ "piscesPendant_zhaohuanlengque": {
+  "en": "Available in {0} months",
+  "ch": "{0}个月后可使用",
+  "pt": "Disponível em {0} meses"
+ },
+ "piscesPendant_zhaohuanshibai": {
+  "en": "Summoning failed",
+  "ch": "召唤失败",
+  "pt": "A invocação falhou"
+ },
+ "piscesPendant_zhaohuanshibai1": {
+  "en": "Cannot summon unit currently in battle",
+  "ch": "不能召唤当前战斗的单位",
+  "pt": "Não é possível invocar uma unidade que esteja atualmente em uma batalha."
+ },
+ "planTip": {
+  "en": "The Roadmap presents our future plans for the game. Based on the feedback we receive after each update, we'll make adjustments accordingly. For instance, we might change the release order of certain game content, but the overall direction will remain the same.",
+  "ch": "计划=预计的规划。我们会根据每个版本的情况，收集玩家的建议，综合考虑修正后面的版本计划。大目标还是一样，只是各阶段的计划可能会调整顺序。",
+  "pt": "O Roadmap apresenta nossos planos futuros para o jogo. Com base no feedback que recebemos após cada atualização, faremos os ajustes necessários. Por exemplo, podemos mudar a ordem de lançamento de determinados conteúdos do jogo, mas a direção geral permanecerá a mesma."
+ },
+ "playTask_daoqi": {
+  "en": "Expired",
+  "ch": "到期",
+  "pt": "Expirado"
+ },
+ "playerLoseSoulDevourSword": {
+  "en": "Soul Reaver Lost",
+  "ch": "噬魂剑流落八荒",
+  "pt": "Alma Devoradora Perdida"
+ },
+ "playerLoseSoulDevourSwordDesc": {
+  "en": "The Soul Reaver is lost somewhere in the wilderness. It may have found a new owner; defeat them for a small chance to obtain the sword. Or perhaps it's seeking a new master; find and interact with it to claim ownership.",
+  "ch": "噬魂剑已流落在八荒之中，或许已被他人获得：击杀持有者有较低概率找到噬魂剑；或许在物色新的主人：发现并交互能重新获得。",
+  "pt": "O Roubador de Almas está perdido em algum lugar na selva. É possível que tenha encontrado um novo dono; derrote-o para ter uma pequena chance de obter a Espada. Ou talvez esteja à procura de um novo Mestre; encontre-o e interaja com ele para assumir a posse."
+ },
+ "playerRelation_NPCToPlayer": {
+  "en": "Target's Affinity toward you",
+  "ch": "对方对我的亲密度",
+  "pt": "A Afinidade do Alvo em relação a você"
+ },
+ "playerRelation_playerToNPC": {
+  "en": "Your Affinity toward target",
+  "ch": "我对对方的亲密度",
+  "pt": "Sua Afinidade em relação ao alvo"
+ },
+ "playerTask_ganggang": {
+  "en": "Just now",
+  "ch": "刚刚",
+  "pt": "Agora mesmo"
+ },
+ "playerTask_lingqu": {
+  "en": "Claim",
+  "ch": "领取",
+  "pt": "Reclamação"
+ },
+ "playerTask_tishi1": {
+  "en": "Attachment not claimed yet",
+  "ch": "随信物品未领取",
+  "pt": "Anexo ainda não reivindicado"
+ },
+ "playerTask_wodexinjian": {
+  "en": "My Letters",
+  "ch": "我的信件",
+  "pt": "Minhas Cartas"
+ },
+ "playerTask_xiaohui": {
+  "en": "Delete",
+  "ch": "销毁信件",
+  "pt": "Excluir"
+ },
+ "playerTask_xinjianneirong": {
+  "en": "Content",
+  "ch": "信件内容",
+  "pt": "Conteúdo"
+ },
+ "playerTask_xinjianwupin": {
+  "en": "Attachment",
+  "ch": "随信物品",
+  "pt": "Anexo"
+ },
+ "playerTask_yilingqu": {
+  "en": "Claimed",
+  "ch": "已领取",
+  "pt": "Reivindicado"
+ },
+ "playerfangyu": {
+  "en": "DEF: {0}",
+  "ch": "防御：{0}",
+  "pt": "DEF: {0}"
+ },
+ "playergongji": {
+  "en": "ATK: {0}",
+  "ch": "攻击：{0}",
+  "pt": "ATQ: {0}"
+ },
+ "playerlinglishangxian": {
+  "en": "Max Energy: {0}",
+  "ch": "灵力上限：{0}",
+  "pt": "Energia Máx.: {0}"
+ },
+ "playernianlishangxian": {
+  "en": "Max Focus: {0}",
+  "ch": "念力上限：{0}",
+  "pt": "Foco Máx: {0}"
+ },
+ "playertilishangxian": {
+  "en": "Max Vitality: {0}",
+  "ch": "体力上限：{0}",
+  "pt": "Vitalidade Máx: {0}"
+ },
+ "potmonName10001": {
+  "en": "Hellish - Dangkang's Spirit",
+  "ch": "炼狱·当康之灵",
+  "nomes": {
+   "Dangkang": "Dangkang",
+   "Hellish - Dangkang": "Infernal - Dangkang"
+  },
+  "pt": "Infernal - O Espírito de Dangkang"
+ },
+ "potmonName10002": {
+  "en": "Cloud Nine - Hatuibwari's Spirit",
+  "ch": "九霄·雷神之灵",
+  "nomes": {
+   "Hatuibwari": "Hatuibwari",
+   "Cloud Nine - Hatuibwari": "Novenário - Hatuibwari"
+  },
+  "pt": "Nuvem Nove - O Espírito de Hatuibwari"
+ },
+ "potmonName10003": {
+  "en": "Cerulean - Coatl's Spirit",
+  "ch": "苍魂·鸣蛇之灵",
+  "nomes": {
+   "Cerulean - Coatl": "Celeste - Coatl"
+  },
+  "pt": "Cerúleo - Espírito de Coatl"
+ },
+ "potmonName10004": {
+  "en": "Dreambreaker - Mountain Specter's Spirit",
+  "ch": "碎梦·山挥之灵",
+  "nomes": {
+   "Mountain Specter": "Espectro da Montanha",
+   "Dreambreaker - Mountain Specter": "Quebrador de Sonhos - Espectro da Montanha"
+  },
+  "pt": "Quebrador de Sonhos - O Espírito do Espectro da Montanha"
+ },
+ "potmonName10005": {
+  "en": "Lonely Cloud - Leonid's Spirit",
+  "ch": "孤云·长乘之灵",
+  "nomes": {
+   "Lonely Cloud - Leonid": "Nuvem Solitária - Leonid"
+  },
+  "pt": "Nuvem Solitária - O Espírito de Leonid"
+ },
+ "potmonName10006": {
+  "en": "Bloodspell - Carpia's Spirit",
+  "ch": "血魅·鲮鱼之灵",
+  "nomes": {
+   "Bloodspell - Carpia": "Feitiço de Sangue - Carpia"
+  },
+  "pt": "Feitiço de Sangue - O Espírito de Carpia"
+ },
+ "potmonName10007": {
+  "en": "Skyscraper - Abomination's Spirit",
+  "ch": "破云·孟极之灵",
+  "nomes": {
+   "Abomination": "Abominação",
+   "Skyscraper - Abomination": "Arranha-Céu - Abominação"
+  },
+  "pt": "Arranha-céu - Espírito da Abominação"
+ },
+ "potmonName10008": {
+  "en": "Netherimage - Taowu's Spirit",
+  "ch": "幻幽·梼杌之灵",
+  "nomes": {
+   "Netherimage - Taowu": "Imagem do Submundo - Taowu"
+  },
+  "pt": "Imagem Infernal - O Espírito de Taowu"
+ },
+ "potmonName10009": {
+  "en": "Skydevourer - Taotie's Spirit",
+  "ch": "吞天·饕餮之灵",
+  "nomes": {
+   "Skydevourer - Taotie": "Devorador do Céu - Taotie"
+  },
+  "pt": "Devorador de Céus - Espírito de Taotie"
+ },
+ "potmonName1001": {
+  "en": "Evergreen's Spirit",
+  "ch": "树妖之灵",
+  "nomes": {
+   "Evergreen": "Sempre-Verde"
+  },
+  "pt": "O Espírito da Evergreen"
+ },
+ "potmonName1002": {
+  "en": "Mushroom Man's Spirit",
+  "ch": "药灵之灵",
+  "nomes": {
+   "Mushroom Man": "Homem Cogumelo"
+  },
+  "pt": "Espírito do Homem-Cogumelo"
+ },
+ "potmonName1003": {
+  "en": "Corpse Lord's Spirit",
+  "ch": "尸王之灵",
+  "nomes": {
+   "Corpse Lord": "Senhor dos Mortos"
+  },
+  "pt": "Espírito do Senhor dos Cadáveres"
+ },
+ "potmonName10030": {
+  "en": "Fiery Unicorn's Spirit",
+  "ch": "䑏疏之灵",
+  "nomes": {
+   "Fiery Unicorn": "Unicórnio Flamejante"
+  },
+  "pt": "Espírito do Unicórnio Flamejante"
+ },
+ "potmonName1004": {
+  "en": "Ore Demon's Spirit",
+  "ch": "矿魔之灵",
+  "nomes": {
+   "Ore Demon": "Demônio do Minério"
+  },
+  "pt": "Espírito do Demônio do Minério"
+ },
+ "potmonName1005": {
+  "en": "Deviation Device's Spirit",
+  "ch": "器魔之灵",
+  "nomes": {
+   "Deviation Device": "Dispositivo Desviado"
+  },
+  "pt": "Espírito do Dispositivo de Desvio"
+ },
+ "potmonName1006": {
+  "en": "Goliath Crab's Spirit",
+  "ch": "大蟹之灵",
+  "nomes": {
+   "Goliath Crab": "Caranguejo Gigante"
+  },
+  "pt": "Espírito do Caranguejo Golias"
+ },
+ "potmonName1007": {
+  "en": "Six Tails' Spirit",
+  "ch": "六尾狐之灵",
+  "nomes": {
+   "Six Tails": "Seis Caudas"
+  },
+  "pt": "O Espírito da Sexta Cauda"
+ },
+ "potmonName1008": {
+  "en": "Albino Ape's Spirit",
+  "ch": "白猿之灵",
+  "nomes": {
+   "Albino Ape": "Macaco Albino"
+  },
+  "pt": "Espírito do Macaco Albino"
+ },
+ "potmonName1009": {
+  "en": "Kui's Spirit",
+  "ch": "夔之灵",
+  "pt": "O Espírito de Kui"
+ },
+ "potmonName1010": {
+  "en": "Fiery Unicorn's Spirit",
+  "ch": "䑏疏之灵",
+  "nomes": {
+   "Fiery Unicorn": "Unicórnio Flamejante"
+  },
+  "pt": "Espírito do Unicórnio Flamejante"
+ },
+ "potmonName1011": {
+  "en": "Zhujian's Spirit",
+  "ch": "褚犍之灵",
+  "nomes": {
+   "Zhujian": "Zhujian"
+  },
+  "pt": "O Espírito de Zhujian"
+ },
+ "potmonName1012": {
+  "en": "Taotie's Spirit",
+  "ch": "饕餮之灵",
+  "pt": "O Espírito de Taotie"
+ },
+ "potmonName1013": {
+  "en": "Hellspawn's Spirit",
+  "ch": "朱厌之灵",
+  "nomes": {
+   "Hellspawn": "Filho do Inferno"
+  },
+  "pt": "Espírito do Filho do Inferno"
+ },
+ "potmonName1014": {
+  "en": "Demonic Eagle's Spirit",
+  "ch": "蛊雕之灵",
+  "nomes": {
+   "Demonic Eagle": "Águia Demoníaca"
+  },
+  "pt": "Espírito da Águia Demoníaca"
+ },
+ "potmonName1015": {
+  "en": "Qiongqi's Spirit",
+  "ch": "穷奇之灵",
+  "nomes": {
+   "Qiongqi": "Qiongqi"
+  },
+  "pt": "O Espírito de Qiongqi"
+ },
+ "potmonName1016": {
+  "en": "Sphinx's Spirit",
+  "ch": "英招之灵",
+  "pt": "Espírito da Esfinge"
+ },
+ "potmonName1017": {
+  "en": "Sagittar's Spirit",
+  "ch": "奢比尸之灵",
+  "nomes": {
+   "Sagittar": "Sagittar"
+  },
+  "pt": "Espírito de Sagittar"
+ },
+ "potmonName1018": {
+  "en": "Fel Vermin's Spirit",
+  "ch": "长右之灵",
+  "nomes": {
+   "Fel Vermin": "Verme Felino"
+  },
+  "pt": "Espírito de Fel Vermin"
+ },
+ "potmonName1019": {
+  "en": "Dangkang's Spirit",
+  "ch": "当康之灵",
+  "nomes": {
+   "Dangkang": "Dangkang"
+  },
+  "pt": "O Espírito de Dangkang"
+ },
+ "potmonName1020": {
+  "en": "Harpy's Spirit",
+  "ch": "人面鸮之灵",
+  "pt": "Espírito da Harpia"
+ },
+ "potmonName1021": {
+  "en": "Lydra's Spirit",
+  "ch": "开明兽之灵",
+  "pt": "O Espírito de Lydra"
+ },
+ "potmonName1022": {
+  "en": "Mountain Specter's Spirit",
+  "ch": "山挥之灵",
+  "nomes": {
+   "Mountain Specter": "Espectro da Montanha"
+  },
+  "pt": "Espírito do Espectro da Montanha"
+ },
+ "potmonName1023": {
+  "en": "Jimeng's Spirit",
+  "ch": "计蒙之灵",
+  "pt": "O Espírito de Jimeng"
+ },
+ "potmonName1024": {
+  "en": "Abomination's Spirit",
+  "ch": "孟极之灵",
+  "nomes": {
+   "Abomination": "Abominação"
+  },
+  "pt": "Espírito da Abominação"
+ },
+ "potmonName1025": {
+  "en": "Human-faced Feline's Spirit",
+  "ch": "类之灵",
+  "nomes": {
+   "Human-faced Feline": "Felino com rosto humano"
+  },
+  "pt": "Espírito do Felino de Rosto Humano"
+ },
+ "potmonName1026": {
+  "en": "Taowu's Spirit",
+  "ch": "梼杌之灵",
+  "pt": "O Espírito de Taowu"
+ },
+ "potmonName1027": {
+  "en": "Five-tailed Crimson Leopard's Spirit",
+  "ch": "狰之灵",
+  "nomes": {
+   "Five-tailed Crimson Leopard": "Leopardo Vermelho de Cinco Caudas"
+  },
+  "pt": "Espírito do Leopardo Vermelho de Cinco Caudas"
+ },
+ "potmonName1028": {
+  "en": "Bipedal Hound's Spirit",
+  "ch": "环狗之灵",
+  "nomes": {
+   "Bipedal Hound": "Cão bípede"
+  },
+  "pt": "Espírito do Cão Bípede"
+ },
+ "potmonName1029": {
+  "en": "Coatl's Spirit",
+  "ch": "鸣蛇之灵",
+  "pt": "Espírito de Coatl"
+ },
+ "potmonName1030": {
+  "en": "Hatuibwari's Spirit",
+  "ch": "雷神之灵",
+  "nomes": {
+   "Hatuibwari": "Hatuibwari"
+  },
+  "pt": "O Espírito de Hatuibwari"
+ },
+ "potmonName1031": {
+  "en": "Suanyu's Spirit",
+  "ch": "酸与之灵",
+  "pt": "O Espírito de Suanyu"
+ },
+ "potmonName1032": {
+  "en": "Bloodthirst Sparrow's Spirit",
+  "ch": "鬿雀之灵",
+  "nomes": {
+   "Bloodthirst Sparrow": "Pardal Sanguinário"
+  },
+  "pt": "Espírito do Pardal Sedento por Sangue"
+ },
+ "potmonName1033": {
+  "en": "Fly Mouse's Spirit",
+  "ch": "鸓之灵",
+  "nomes": {
+   "Fly Mouse": "Rato Voador"
+  },
+  "pt": "Espírito do Rato Voador"
+ },
+ "potmonName1034": {
+  "en": "Nine Tails' Spirit",
+  "ch": "九尾狐之灵",
+  "nomes": {
+   "Nine Tails": "Nove Caudas"
+  },
+  "pt": "Espírito da Ninho de Caudas"
+ },
+ "potmonName1035": {
+  "en": "Leonid's Spirit",
+  "ch": "长乘之灵",
+  "pt": "O Espírito de Leonid"
+ },
+ "potmonName1036": {
+  "en": "Carpia's Spirit",
+  "ch": "鲮鱼之灵",
+  "pt": "O Espírito de Carpia"
+ },
+ "potmonName1037": {
+  "en": "Drought Demon's Spirit",
+  "ch": "旱魃之灵",
+  "nomes": {
+   "Drought Demon": "Demônio da Seca"
+  },
+  "pt": "Espírito do Demônio da Seca"
+ },
+ "potmonName1038": {
+  "en": "Sword Bambuki's Spirit",
+  "ch": "剑竹妖之灵",
+  "nomes": {
+   "Bambuki": "Bambuki",
+   "Sword Bambuki": "Bambuki da Espada"
+  },
+  "pt": "Espírito da Espada Bambuki"
+ },
+ "potmonSkillLifeName10001": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName100011": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName100012": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName100013": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName100014": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName10002": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName10004": {
+  "en": "Love for Spirit Stones",
+  "ch": "嗜好灵石",
+  "pt": "Amor pelas Pedras Espirituais"
+ },
+ "potmonSkillLifeName1001": {
+  "en": "Form Changing",
+  "ch": "化形之术",
+  "pt": "Mudança de Forma"
+ },
+ "potmonSkillLifeName10011": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName100111": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName100112": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName100113": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName100114": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName100115": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName100116": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName10012": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName10014": {
+  "en": "Incredible Elixirs",
+  "ch": "灵丹妙药",
+  "pt": "Elixires Incríveis"
+ },
+ "potmonSkillLifeName10021": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName100211": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName100212": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName100213": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName100214": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName10022": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName10023": {
+  "en": "Treasure Hunter",
+  "ch": "遍寻珍宝",
+  "pt": "Caçador de Tesouros"
+ },
+ "potmonSkillLifeName10031": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName100311": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName100312": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName100313": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName100314": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName10032": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName10033": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName10034": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName10035": {
+  "en": "Prosperous Spirit",
+  "ch": "心通灵果",
+  "pt": "Espírito Próspero"
+ },
+ "potmonSkillLifeName10041": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName100411": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName100412": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName100413": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName100414": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName10042": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName10043": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName10044": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName10045": {
+  "en": "Comprehension Sand Sifting",
+  "ch": "悟心砂辨识",
+  "pt": "Compreensão da peneiração da areia"
+ },
+ "potmonSkillLifeName10051": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Coleta de Cristais da Alma"
+ },
+ "potmonSkillLifeName100511": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extração de Cristais de Alma"
+ },
+ "potmonSkillLifeName100512": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extração de Cristais de Alma"
+ },
+ "potmonSkillLifeName100513": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extração de Cristais de Alma"
+ },
+ "potmonSkillLifeName100514": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extração de Cristais de Alma"
+ },
+ "potmonSkillLifeName10052": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extraindo Cristais de Alma"
+ },
+ "potmonSkillLifeName10053": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extraindo Cristais de Alma"
+ },
+ "potmonSkillLifeName10054": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Extraindo Cristais de Alma"
+ },
+ "potmonSkillLifeName10055": {
+  "en": "Soul Crystal Picking",
+  "ch": "魂晶辨识",
+  "pt": "Coleta de Cristais de Alma"
+ },
+ "potmonSkillLifeName10061": {
+  "en": "Artifact Spirits' Items",
+  "ch": "器灵之物",
+  "pt": "Itens dos Espíritos do Artefato"
+ },
+ "potmonSkillLifeName100611": {
+  "en": "Artifact Spirits' Items",
+  "ch": "器灵之物",
+  "pt": "Itens dos Espíritos do Artefato"
+ },
+ "potmonSkillLifeName100612": {
+  "en": "Artifact Spirits' Items",
+  "ch": "器灵之物",
+  "pt": "Itens dos Espíritos do Artefato"
+ },
+ "potmonSkillLifeName100613": {
+  "en": "Artifact Spirits' Items",
+  "ch": "器灵之物",
+  "pt": "Itens dos Espíritos do Artefato"
+ },
+ "potmonSkillLifeName100614": {
+  "en": "Artifact Spirits' Items",
+  "ch": "器灵之物",
+  "pt": "Itens dos Espíritos do Artefato"
+ },
+ "potmonSkillLifeName10071": {
+  "en": "Artifacts' Materials",
+  "ch": "灵宝之材",
+  "pt": "Material dos Artefatos"
+ }
+}

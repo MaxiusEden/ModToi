@@ -1,0 +1,2518 @@
+{
+ "SpecificSkillAttackDesc52112": {
+  "en": "$s_xulishifa2$ (charging time: &52112_xlsjex&s): Shoot &52112_ddsl& Icy Auras (range: &52112_range|+350|f0&) at a cone-shaped area. After launched, the Auras will automatically change their directions one time to aim at enemies. Each Icy Aura deals &52112_dmg& $s_shui$ damage. If you have $s_lingyong$, you'll consume all stacks of $s_lingyong$. For every stack of $s_lingyong$ consumed, you'll shoot 1 additional Icy Aura.",
+  "ch": "$s_xulishifa2$ &52112_xlsjex&秒，向前方扇形区域发射&52112_ddsl&道射程&52112_range|+350|f0&的冰气，冰气在发射后会自动变化一次方向瞄准敌人，每道冰气对碰撞到的敌人造成威力&52112_dmg&的$s_shui$伤害，若自身带有$s_lingyong$，则消耗自身的所有$s_lingyong$，每消耗一层$s_lingyong$可额外发射1道冰气。",
+  "pt": "$s_xulishifa2$ (tempo de carregamento: &52112_xlsjex&s): Dispare &52112_ddsl& Auras Gélidas em forma de cone (alcance: &52112_range|+350|f0&). Após serem lançadas, as Auras Gélidas alteram automaticamente sua direção uma vez para mirar nos inimigos. Cada Aura Gélida causa &52112_dmg& $s_shui$ de dano. Se você possuir $s_lingyong$, todos os acúmulos de $s_lingyong$ serão consumidos. Para cada acúmulo de $s_lingyong$ consumido, você dispara mais 1 Aura Gélida adicional."
+ },
+ "SpecificSkillAttackDesc53114": {
+  "en": "Unleash Dark Lightning that lasts &53114_cssj&s at the target location within &53114_range&. Dark Lightning deals &53114_dmg&/s $s_lei$ damage to &53114_djmb& random enemies within &53114_csfw&. If you have $s_leiyong$, you'll consume all stacks of $s_leiyong$. For every stack of $s_leiyong$ consumed, the duration of Dark Lightning will be extended by &53114_lysj&s, and during it, the Dark Lightning will constantly emit small lightning orbs, dealing 50% of this skill's damage. This skill has a &53114_msgl&% chance to instantly kill a normal monster.",
+  "ch": "向距离&53114_range&内的目标位置发射一颗持续&53114_cssj&秒的暗雷球，暗雷球可对范围&53114_csfw&内的随机&53114_djmb&个敌人造成&53114_dmg&/秒的$s_lei$伤害，若自身带有$s_leiyong$，则消耗自身所有$s_leiyong$，每消耗一层$s_leiyong$可提升暗雷球的持续时间&53114_lysj&秒。且暗雷球在持续时间内，会不断向外射出小电球，对命中的敌人造成此技能50%的伤害。此技能有&53114_msgl&%的概率直接秒杀普通单位。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Libera um Relâmpago Sombrio que dura &53114_cssj& segundos no local alvo, dentro de um raio de &53114_range&. O Relâmpago Sombrio causa &53114_dmg&/s de $s_lei$ dano a &53114_djmb& inimigos aleatórios na área de &53114_csfw&. Se você possuir $s_leiyong$, todos os acúmulos de $s_leiyong$ serão consumidos. A cada acúmulo de $s_leiyong$ consumido, a duração do Relâmpago Sombrio aumenta em &53114_lysj& segundos; durante esse período, o Relâmpago Sombrio emitirá continuamente pequenos orbes elétricos, causando 50% do dano gerado por esta habilidade. Esta habilidade tem uma chance de &53114_msgl&% de matar instantaneamente um monstro comum."
+ },
+ "SpecificSkillAttackDesc54115": {
+  "en": "This skill does not need to charge. Summon a Reaving Wind at the target location, dealing &54115_dmg&/s $s_feng$ damage to enemies within &54115_lffw& (Agility of the affected enemies &54115_jdys&%). The Reaving Wind can follow your cursor to move slowly.",
+  "ch": "此技能无需蓄力，在目标位置召唤一阵掠风，掠风可对范围&54115_lffw&内的敌人造成威力&54115_dmg&/秒的$s_feng$伤害，并使敌人的移动速度&54115_jdys&%，掠风可跟随鼠标方向进行缓慢移动。",
+  "pt": "Essa habilidade não precisa de carga. Evoque um Vento Devastador no local alvo, causando &54115_dmg&/s $s_feng$ de dano aos inimigos dentro de &54115_lffw& (a Agilidade dos inimigos afetados é reduzida em &54115_jdys&%). O Vento Devastador segue seu cursor, movendo-se lentamente."
+ },
+ "SpecificSkillAttackDesc55115": {
+  "en": "Create a Quicksand area that lasts &55115_sbsj&s at the target location, &55115_jsys&% Agility of enemies within &55115_sbfw& and pulling them to its center. The Quicksand will explode periodically, dealing &55115_sbwl& $s_tu$ damage to enemies upon each explosion.",
+  "ch": "在目标区域形成持续&55115_sbsj&秒的流沙，使范围&55115_sbfw&以内的敌人移动速度&55115_jsys&%，并持续将目标向流沙中心牵引，流沙会持续产生震爆，每次震爆对敌人造成威力&55115_sbwl&的$s_tu$伤害。",
+  "pt": "Crie uma área de Areia Movediça na localização alvo que dure &55115_sbsj&s, reduzindo em &55115_jsys&% a Agilidade dos inimigos dentro de &55115_sbfw& e puxando-os para o centro. A Areia Movediça explodirá periodicamente, causando &55115_sbwl& $s_tu$ de dano aos inimigos a cada explosão."
+ },
+ "SpecificSkillAttackDesc56111": {
+  "en": "Launch &56111_zdsl& quills forward, each quill dealing &56111_zdwl& $s_mu$ damage to enemies. Then launch &56111_gzsl|x56111_gzcs|f2& quills that will automatically chase down enemies around, each dealing &56111_gzwl& $s_mu$ damage to enemies. Upon hitting enemies, the quill will entangle them for &56111_tscr&s and detonate all their $s_duci$ stacks. For every stack of $s_duci$ detonated, the target will additionally receive &56111_ewsh& $s_mu$ damage.",
+  "ch": "持续朝前方发射&56111_zdsl&道碧羽，每道对敌人造成威力&56111_zdwl&的$s_mu$伤害，随后向四周发射&56111_gzsl|x56111_gzcs|f2&道自动追踪敌人的碧羽，每道对敌人造成威力&56111_gzwl&的$s_mu$伤害。碧羽在命中时会缠绕敌人&56111_tscr&秒，并且会引爆目标身上的所有$s_duci$，每引爆一层$s_duci$可额外造成一次威力&56111_ewsh&的$s_mu$伤害。",
+  "pt": "Lance para frente &56111_zdsl& penas, cada uma causando &56111_zdwl& $s_mu$ de dano aos inimigos. Em seguida, lance &56111_gzsl|x56111_gzcs|f2& penas que perseguirão automaticamente os inimigos; cada uma delas causa &56111_gzwl& $s_mu$ de dano aos oponentes. Ao atingir um inimigo, a pena o enreda por &56111_tscr& segundos e detona todas as suas pilhas de $s_duci$. Para cada pilha de $s_duci$ detonada, o alvo recebe adicionalmente &56111_ewsh& $s_mu$ de dano."
+ },
+ "SpecificSkillAttackName22113": {
+  "en": "Drunken Blade",
+  "ch": "醉饮狂刀",
+  "pt": "Lâmina Embriagada"
+ },
+ "SpecificSkillAttackName23112": {
+  "en": "True Dragon Flash",
+  "ch": "真龙瞬影",
+  "pt": "Relâmpago do Dragão Verdadeiro"
+ },
+ "SpecificSkillAttackName23114": {
+  "en": "Azure Dragon Flash",
+  "ch": "青龙瞬影",
+  "pt": "Relâmpago do Dragão Azure"
+ },
+ "SpecificSkillAttackName23115": {
+  "en": "Exalted Dragon Flash",
+  "ch": "亢龙瞬影",
+  "pt": "Raio do Dragão Exaltado"
+ },
+ "SpecificSkillAttackName23116": {
+  "en": "Mystic Dragon Flash",
+  "ch": "玄龙瞬影",
+  "pt": "Relâmpago do Dragão Místico"
+ },
+ "SpecificSkillAttackName24111": {
+  "en": "Empyrean Edge - Shadowless",
+  "ch": "天翎剑意绝影式",
+  "pt": "Empyrean Edge - Sem Sombras"
+ },
+ "SpecificSkillAttackName24113": {
+  "en": "Empyrean Edge",
+  "ch": "天翎剑意",
+  "pt": "Lâmina Empírea"
+ },
+ "SpecificSkillAttackName25112": {
+  "en": "Phantom Dance",
+  "ch": "归元幻舞",
+  "pt": "Dança do Fantasma"
+ },
+ "SpecificSkillAttackName51111": {
+  "en": "Scorching Eruption",
+  "ch": "分元地火",
+  "pt": "Erupção escaldante"
+ },
+ "SpecificSkillAttackName52112": {
+  "en": "Celestial Frostfall",
+  "ch": "寒天玄霜",
+  "pt": "Geada Celestial"
+ },
+ "SpecificSkillAttackName53114": {
+  "en": "Lightning Eye",
+  "ch": "归虚雷瞳",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Olho do Relâmpago"
+ },
+ "SpecificSkillAttackName54115": {
+  "en": "Azure Wind Vortex",
+  "ch": "青风旋流",
+  "pt": "Vórtice de Vento Azul"
+ },
+ "SpecificSkillAttackName55115": {
+  "en": "Devouring Sand",
+  "ch": "镇域流沙",
+  "pt": "Devorando Areia"
+ },
+ "SpecificSkillAttackName56111": {
+  "en": "Verdant Quills",
+  "ch": "幽盈碧羽",
+  "pt": "Penas Verdosas"
+ },
+ "TaoistSeedName2": {
+  "en": "Sword Seed",
+  "ch": "剑尘之种",
+  "pt": "Espada Semente"
+ },
+ "TaoistSeedName2001": {
+  "en": "Taoist Seed (Restlessness)",
+  "ch": "道种（不息）",
+  "pt": "Semente Daoísta (Inquietação)"
+ },
+ "TaoistSeedName2002": {
+  "en": "Taoist Seed (Will)",
+  "ch": "道种（宰御）",
+  "pt": "Semente Daoísta (Vontade)"
+ },
+ "TaoistSeedName2003": {
+  "en": "Taoist Seed (Nature)",
+  "ch": "道种（万象）",
+  "pt": "Semente Daoísta (Natureza)"
+ },
+ "TaoistSeedName2004": {
+  "en": "Taoist Seed (Obeying Heaven)",
+  "ch": "道种（循天）",
+  "pt": "Semente Daoísta (Obedecendo ao Céu)"
+ },
+ "TaoistSeedName2005": {
+  "en": "Taoist Seed (Goodness)",
+  "ch": "道种（上善）",
+  "nomes": {
+   "Goodness": "Bondade"
+  },
+  "pt": "Semente Daoísta (Bondade)"
+ },
+ "TaoistSeedName2006": {
+  "en": "Taoist Seed (Unobstructing)",
+  "ch": "道种（化碍）",
+  "pt": "Semente Daoísta (Sem Obstáculos)"
+ },
+ "TaoistSeedName2007": {
+  "en": "Taoist Seed (Brightness)",
+  "ch": "道种（继明）",
+  "pt": "Semente Daoísta (Brilho)"
+ },
+ "TaoistSeedName2008": {
+  "en": "Taoist Seed (Kindling)",
+  "ch": "道种（枯燃）",
+  "pt": "Semente Daoísta (Acendedor)"
+ },
+ "TaoistSeedName2009": {
+  "en": "Taoist Seed (Mindfulness)",
+  "ch": "道种（修省）",
+  "pt": "Semente Daoísta (Consciência Plena)"
+ },
+ "TaoistSeedName2010": {
+  "en": "Taoist Seed (Blamelessness)",
+  "ch": "道种（无咎）",
+  "pt": "Semente Daoísta (Inocência)"
+ },
+ "TaoistSeedName2011": {
+  "en": "Taoist Seed (Seclusion)",
+  "ch": "道种（归藏）",
+  "pt": "Semente Daoísta (Isolamento)"
+ },
+ "TaoistSeedName2012": {
+  "en": "Taoist Seed (Temperance)",
+  "ch": "道种（止逾）",
+  "pt": "Semente Daoísta (Temperança)"
+ },
+ "TaoistSeedName2013": {
+  "en": "Taoist Seed (Inconclusiveness)",
+  "ch": "道种（无定）",
+  "pt": "Semente Daoísta (Inconclusão)"
+ },
+ "TaoistSeedName2014": {
+  "en": "Taoist Seed (Permanence)",
+  "ch": "道种（长恒）",
+  "pt": "Semente Daoísta (Permanência)"
+ },
+ "TaoistSeedName2015": {
+  "en": "Taoist Seed (Fortune)",
+  "ch": "道种（福生）",
+  "pt": "Semente Daoísta (Fortuna)"
+ },
+ "TaoistSeedName2016": {
+  "en": "Taoist Seed (Dawning)",
+  "ch": "道种（百晓）",
+  "pt": "Semente Daoísta (Aurora)"
+ },
+ "TaoistSeedName3": {
+  "en": "Longevity Seed",
+  "ch": "长生之种",
+  "pt": "Semente da Longevidade"
+ },
+ "TaoistSeedName4": {
+  "en": "Spirit Seed",
+  "ch": "灵法之种",
+  "pt": "Espírito Semente"
+ },
+ "TaoistSelect_Title": {
+  "en": "Tao List",
+  "ch": "道号列表",
+  "pt": "Lista do Dao"
+ },
+ "battleAbility_suitDesc2_10017": {
+  "en": "For the duration of Ironbody Fist, each Colossal Fist triggers the burst of all Shield Shadows additionally.",
+  "ch": "金刚拳持续期间，每次释放震天拳会额外使所有盾影进行爆发。",
+  "pt": "Durante a duração do Punho de Corpo de Ferro, cada Punho Colossal também ativa a explosão de todas as Sombras do Escudo."
+ },
+ "battleAbility_suitDesc2_10018": {
+  "en": "Skyblast Fist no longer costs Shield for additional attacks but grants 50 Shield whenever it deals damage. Every 100 Max Vitality increases Max Shield by 20.",
+  "ch": "轰天拳不再消耗护盾打出额外攻击次数，转而每次造成伤害时会获得50点护盾。且每100点最大体力提高20点护盾上限。",
+  "pt": "O Punho Explosivo Celestial não requer mais o uso de um Escudo para realizar ataques adicionais; porém, concede 50 pontos de Escudo sempre que causa dano. A cada 100 pontos de Vitalidade Máx., o limite máximo de Escudo aumenta em 20."
+ },
+ "battleAbility_suitDesc2_10019": {
+  "en": "For every 1 Super Palm Wind generated, the next Rainbow Palm drops 1 extra Palm Mark, up to 30. Rainbow Palm now tracks enemies automatically.",
+  "ch": "每生成1个超级掌风，下次使用惊虹掌时将额外增加1道掌印，最多可增加30道。惊虹掌改为自动索敌。",
+  "nomes": {
+   "Palm Wind": "Vento da Palma"
+  },
+  "pt": "A cada 1 Vento da Palma Super gerado, a próxima Palma Arco-Íris concede 1 Marca da Palma extra, até o limite de 30. Agora, a Palma Arco-Íris rastreia inimigos automaticamente."
+ },
+ "battleAbility_suitDesc2_10020": {
+  "en": "For the duration of a Motion Skill, Storm Palm cooldown is fixed at 2s.",
+  "ch": "身法持续期间，暴风掌冷却锁定为2秒。",
+  "pt": "Durante a execução de uma Técnica de Movimento, o tempo de recarga da Palma da Tempestade permanece fixo em 2 segundos."
+ },
+ "battleAbility_suitDesc2_10021": {
+  "en": "Boomerang Finger can now be upgraded to Rank 5. At Rank 5, your Ultimate Skill cooldown -50%.",
+  "ch": "轮回指可升级到5级，且当达到5级后，自身的神通冷却降低50%。",
+  "pt": "O Dedo Bumerangue agora pode ser aprimorado até o Rank 5. No Rank 5, o tempo de recarga da sua Técnica Suprema é reduzido em 50%."
+ },
+ "battleAbility_suitDesc2_10022": {
+  "en": "While casting Shadowy Finger, its area and Power increases every second to up to 300% Power.",
+  "ch": "在持续施放灵影指时，每秒提高灵影指的范围和威力，最大可提升至300%的威力。",
+  "pt": "Ao lançar o Dedo Sombrio, sua área de efeito e seu Poder aumentam a cada segundo, podendo atingir até 300% do Poder original."
+ },
+ "battleAbility_suitDesc2_10023": {
+  "en": "Flower Faerie Queen casts a random enhancement to a random Small Flower Faerie every 2s.",
+  "ch": "花妖后每2秒会随机对一个小花妖施加一个随机的强化效果。",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores",
+   "Flower Faerie Queen": "Rainha Fada das Flores"
+  },
+  "pt": "A Rainha das Fadas das Flores concede um buff aleatório a uma Fada das Flores Pequena aleatória a cada 2 segundos."
+ },
+ "battleAbility_suitDesc2_10024": {
+  "en": "Any damage dealt to a unit by Poisonous Thorn will be recorded. When the unit takes damage from Wood Ultimate Skill, damage equal to the recorded amount will be dealt additionally.",
+  "ch": "毒刺每次对单位造成的伤害都会被永久地记录起来，该单位在受到木系神通伤害时候触发一次这个伤害。",
+  "nomes": {
+   "Poisonous Thorn": "Espinho Venenoso"
+  },
+  "pt": "Qualquer dano causado a uma unidade pelo Espinho Venenoso será registrado. Quando a unidade sofrer dano da Técnica Suprema de Madeira, um dano equivalente ao valor registrado também será aplicado."
+ },
+ "battleAbility_suitDesc2_10025": {
+  "en": "When you are equipped with Icy Aura, your water clone can also cast Icy Aura (but it won't generate Energy Pond).",
+  "ch": "当你装备了冰气术时，你的水分身也可以使用冰气术（但是不会生成爆灵湖）。",
+  "nomes": {
+   "Energy Pond": "Lago de Energia"
+  },
+  "pt": "Quando você possui a Aura Gélida, seu clone de água também pode lançar a Aura Gélida (mas não criará um Poço de Energia)."
+ },
+ "battleAbility_suitDesc2_10026": {
+  "en": "For every 1% Energy consumed, the next RMB shoots a penetrative icicle to deal damage and freeze the enemy.",
+  "ch": "每当自身消耗了1%的灵力，在下次使用右键时，将发射一根可穿透的冰柱，对敌人造成伤害和冰冻。",
+  "pt": "A cada 1% de Energia consumida, o próximo ataque dispara um pedaço de gelo penetrante que causa dano e provoca congelamento no inimigo."
+ },
+ "battleAbility_suitDesc2_10027": {
+  "en": "For every 1s Fire Sorrow is extended, its cooldown in this battle -3%, up to -60%.",
+  "ch": "离火术每透支1秒，则本场战斗中其冷却时间-3%，最多可减60%。",
+  "pt": "A cada 1 segundo que o Fogo da Tristeza é mantido ativo, o tempo de recarga na presente batalha é reduzido em 3%, até um máximo de 60%."
+ },
+ "battleAbility_suitDesc2_10028": {
+  "en": "After Sinful Flame finishes, the Vitality consumed by the extension is restored over time.",
+  "ch": "结束业火术时，透支消耗的体力会逐渐恢复。",
+  "pt": "Após o término da Chama do Pecado, a Vitalidade consumida pela extensão é restaurada ao longo do tempo."
+ },
+ "battleAbility_suitDesc2_10029": {
+  "en": "Sandstorm deals higher damage to enemies farther away, up to 100% more to enemies 800 away.",
+  "ch": "飞沙术会根据与单位距离提升伤害，最大距离800码时提升100%伤害。",
+  "nomes": {
+   "Sandstorm": "Tempestade de Areia"
+  },
+  "pt": "A Tempestade de Areia causa mais dano a inimigos mais distantes; esse dano pode ser até 100% maior para inimigos a 800 de distância."
+ },
+ "battleAbility_suitDesc2_10030": {
+  "en": "When you are equipped with Wind Edge, rooted Wild Wind generated afterwards will cast 15 Wind Edges at a random position.",
+  "ch": "若携带了风刃术时，后续生成的固定狂风术会向随机方向释放15个风刃术。",
+  "pt": "Quando você está equipado com Vento Cortante, o Vento Selvagem gerado posteriormente disparará 15 Ventos Cortantes em uma posição aleatória."
+ },
+ "battleAbility_suitDesc2_10031": {
+  "en": "After Rock Formation finishes, it detonates the Earth Golem it has summoned to deal huge damage (in proportion to Earth Golem Vitality).",
+  "ch": "聚石阵在结束后，会引爆其生成的土傀儡，造成大量伤害（伤害与土傀儡的体力相关）。",
+  "nomes": {
+   "Earth Golem": "Golem de Terra"
+  },
+  "pt": "Após a conclusão da Formação de Rochas, ela faz com que o Golem de Terra invocado detone, causando um grande dano (proporcional à Vitalidade do Golem de Terra)."
+ },
+ "battleAbility_suitDesc2_10032": {
+  "en": "After summoning 5 Earth Golems, Earth Golems to be generated become Advanced Earth Golems until the end of battle.",
+  "ch": "在战斗中累计召唤了5个土傀儡后，本场战斗中，后续召唤土傀儡将改为召唤超级土傀儡。",
+  "pt": "Após invocar 5 Golems de Terra, os Golems de Terra que forem gerados tornam-se Golems de Terra Avançados até o fim da batalha."
+ },
+ "battleAbility_suitDesc2_10033": {
+  "en": "Lightning Motion Skill cooldown -80% for the duration of a Lightning Ultimate Skill.",
+  "ch": "在雷系神通持续时间内，雷系身法的冷却时间-80%。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "O tempo de recarga da Técnica de Movimento de Relâmpago é reduzido em 80% enquanto a Técnica Suprema de Relâmpago estiver ativa."
+ },
+ "battleAbility_suitDesc2_10034": {
+  "en": "When a Lightning Beast dies, it casts your Lightning Special Skill at 30% damage.",
+  "ch": "雷兽在死亡时，会立即施放一次你的雷系绝技，伤害为原来的30%。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Quando uma Fera do Relâmpago morre, ela lança sua Técnica Especial de Relâmpago, causando 30% do dano normal."
+ },
+ "battleAbility_suitName10001": {
+  "en": "Heavenly Secret Manual",
+  "ch": "玄天秘卷",
+  "pt": "Manual Secreto Celestial"
+ },
+ "battle_dungeon_info1062": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Sword Vulpus</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>青狐剑士</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Prepare-se para enfrentar ataques diretos de <r>Espada Vulpus</r> caso invada seu território."
+ },
+ "battle_dungeon_info106288": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Sword Vulpus</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>青狐剑士</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Espere enfrentar ataques diretos de <r>Espada Vulpus</r> caso invada seu território."
+ },
+ "battle_dungeon_info1063": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Blue Flame Vulpus</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>青炎狐妖</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Espere ataques intensos de <r>Vulpus de Chama Azul</r> caso você invada seu território."
+ },
+ "battle_dungeon_info106388": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Blue Flame Vulpus</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>青炎狐妖</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Prepare-se para ataques ferozes de <r>Vulpus de Chama Azul</r> caso você invada seu território."
+ },
+ "battle_dungeon_info1064": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Reeds</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>草精</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Espere ataques diretos dos <r>Reeds</r> se invadir seu território."
+ },
+ "battle_dungeon_info106488": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Reeds</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>草精</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Espere ataques diretos dos <r>Reeds</r> caso você invada seu território."
+ },
+ "battle_dungeon_info1065": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Yellow Vulpus</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>黄狐</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Espere ataques intensos de <r>Vulpus Amarelo</r> se invadir seu território."
+ },
+ "battle_dungeon_info106588": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks from <r>Yellow Vulpus</r> if you barge in their territory.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，有着大量的<r>黄狐</r>镇守于此。",
+  "pt": "Como o nome sugere, Foxhill é o lar dos Vulpus. Espere ataques intensos de <r>Vulpus Amarelos</r> caso você invada seu território."
+ },
+ "battle_dungeon_info107": {
+  "en": "A lifeless desert full of danger. Countless pairs of eyes stare at you from the many hidden nooks and crannies, beasts ready to attack at any moment.",
+  "ch": "一片死气沉沉的荒漠，却蕴藏着巨大的危险，因为在你看不到的地方，有无数双阴险的眼神正在盯着你，准备随时发起袭击。",
+  "pt": "Um deserto árido e repleto de perigos. Inúmeros pares de olhos observam você de todos os cantos escondidos; feras prontas para atacar a qualquer momento."
+ },
+ "battle_dungeon_info1071": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth.",
+  "ch": "此处有一个山贼营地，山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam muita riqueza."
+ },
+ "battle_dungeon_info1072": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Hammer Bandits</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>钢锤山贼</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os transeuntes, eles acumularam uma grande fortuna. Cuidado, especialmente com os <r>Bandidos Martelo</r>!"
+ },
+ "battle_dungeon_info1073": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Wretch Taoists</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>落魄道士</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam grande riqueza. Cuidado, especialmente com os <r>Daoístas miseráveis</r>!"
+ },
+ "battle_dungeon_info1074": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Bandit Swordsmen</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>山贼剑客</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, eles acumularam uma grande fortuna. Cuidado, especialmente com os <r>Espadachins Bandidos</r>!"
+ },
+ "battle_dungeon_info1075": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Tracking Dogs</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>觅踪犬</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam uma grande fortuna. Cuidado, especialmente com os <r>Cães de Caça</r>!"
+ },
+ "battle_dungeon_info108": {
+  "en": "A lifeless desert full of danger. Countless pairs of eyes stare at you from the many hidden nooks and crannies, beasts ready to attack at any moment.",
+  "ch": "一片死气沉沉的荒漠，却蕴藏着巨大的危险，因为在你看不到的地方，有无数双阴险的眼神正在盯着你，准备随时发起袭击。",
+  "pt": "Um deserto árido e repleto de perigos. Inúmeros pares de olhos observam você de todos os cantos escondidos; feras prontas para atacar a qualquer momento."
+ },
+ "battle_dungeon_info1081": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth.",
+  "ch": "此处有一个山贼营地，山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Roubando os viajantes, eles acumularam bastante riqueza."
+ },
+ "battle_dungeon_info1082": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Hammer Bandits</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>钢锤山贼</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, eles acumularam uma grande fortuna. Cuidado, especialmente com os <r>Bandidos Martelo</r>!"
+ },
+ "battle_dungeon_info108288": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Hammer Bandits</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>钢锤山贼</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, eles acumularam muita riqueza. Cuidado, especialmente com os <r>Bandidos Martelos</r>!"
+ },
+ "battle_dungeon_info1083": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Wretch Taoists</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>落魄道士</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam bastante riqueza. Tenha cuidado, especialmente com os <r>Daoístas miseráveis</r>!"
+ },
+ "battle_dungeon_info108388": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth. Watch out for <r>Wretch Taoists</r> in particular!",
+  "ch": "此处有一个山贼营地，其中有不少的<r>落魄道士</r>。山贼通过搜刮附近过路人的财物，积累了不少好东西。",
+  "pt": "Os bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam uma grande fortuna. Cuidado, especialmente com os <r>Daoístas desprezíveis</r>!"
+ },
+ "battle_dungeon_name100143": {
+  "en": "Evil Monster",
+  "ch": "凶恶妖兽",
+  "pt": "Monstro Maligno"
+ },
+ "battle_dungeon_name100144": {
+  "en": "Evil Monster",
+  "ch": "凶恶妖兽",
+  "pt": "Monstro Maligno"
+ },
+ "battle_dungeon_name100145": {
+  "en": "Evil Monster",
+  "ch": "凶恶妖兽",
+  "pt": "Monstro Maligno"
+ },
+ "battle_dungeon_name100151": {
+  "en": "The Nether Cave",
+  "ch": "冥窟",
+  "pt": "A Caverna do Submundo"
+ },
+ "battle_dungeon_name100201": {
+  "en": "Small Dragon Vein Raid",
+  "ch": "小型龙脉掠夺战",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Pequeno ataque à Veia do Dragão"
+ },
+ "battle_dungeon_name100202": {
+  "en": "Small Herb Garden Raid",
+  "ch": "小型药园掠夺战",
+  "pt": "Incursão no Pequeno Jardim de Ervas"
+ },
+ "battle_dungeon_name100203": {
+  "en": "Small Ore Deposit Raid",
+  "ch": "小型矿藏掠夺战",
+  "pt": "Incursão ao Pequeno Depósito de Minério"
+ },
+ "battle_dungeon_name100204": {
+  "en": "Small Ruins Raid",
+  "ch": "小型遗址掠夺战",
+  "pt": "Incursão nas Pequenas Ruínas"
+ },
+ "battle_dungeon_name100205": {
+  "en": "Resource Raid",
+  "ch": "资源掠夺战",
+  "pt": "Invasão de Recursos"
+ },
+ "battle_dungeon_name100211": {
+  "en": "Medium Dragon Vein Raid",
+  "ch": "中型龙脉掠夺战",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Incursão na Veia do Dragão de Nível Médio"
+ },
+ "battle_dungeon_name1002111": {
+  "en": "Small Dragon Vein",
+  "ch": "小型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Pequena Veia do Dragão"
+ },
+ "battle_dungeon_name1002112": {
+  "en": "Medium Dragon Vein",
+  "ch": "中型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Veia do Dragão Média"
+ },
+ "battle_dungeon_name1002113": {
+  "en": "Large Dragon Vein",
+  "ch": "大型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Grande Veia do Dragão"
+ },
+ "battle_dungeon_name1002114": {
+  "en": "Huge Dragon Vein",
+  "ch": "特大龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Imensa Veia do Dragão"
+ },
+ "battle_dungeon_name100212": {
+  "en": "Medium Herb Garden Raid",
+  "ch": "中型药园掠夺战",
+  "pt": "Ataque ao Jardim de Ervas de tamanho médio"
+ },
+ "battle_dungeon_name1002121": {
+  "en": "Small Herb Garden",
+  "ch": "小型药园",
+  "pt": "Pequeno Jardim de Ervas"
+ },
+ "battle_dungeon_name1002122": {
+  "en": "Medium Herb Garden",
+  "ch": "中型药园",
+  "pt": "Jardim de Ervas Médio"
+ },
+ "battle_dungeon_name1002123": {
+  "en": "Large Herb Garden",
+  "ch": "大型药园",
+  "pt": "Grande Jardim de Ervas"
+ },
+ "battle_dungeon_name1002124": {
+  "en": "Huge Herb Garden",
+  "ch": "特大药园",
+  "pt": "Um Jardim de Ervas imenso"
+ },
+ "battle_dungeon_name100213": {
+  "en": "Medium Ore Deposit Raid",
+  "ch": "中型矿藏掠夺战",
+  "pt": "Incursão em Depósito de Minério de Tamanho Médio"
+ },
+ "battle_dungeon_name1003234": {
+  "en": "Huge Ore Deposit",
+  "ch": "特大矿藏",
+  "pt": "Grande depósito de minério"
+ },
+ "battle_dungeon_name100324": {
+  "en": "Large Ruins Takeover",
+  "ch": "大型遗址占领战",
+  "pt": "Ocupação das Grandes Ruínas"
+ },
+ "battle_dungeon_name1003241": {
+  "en": "Small Ruins",
+  "ch": "小型遗迹",
+  "pt": "Pequenas Ruínas"
+ },
+ "battle_dungeon_name1003242": {
+  "en": "Medium Ruins",
+  "ch": "中型遗迹",
+  "pt": "Ruínas de nível médio"
+ },
+ "battle_dungeon_name1003243": {
+  "en": "Large Ruins",
+  "ch": "大型遗迹",
+  "pt": "Grandes Ruínas"
+ },
+ "battle_dungeon_name1003244": {
+  "en": "Huge Ruins",
+  "ch": "特大遗迹",
+  "pt": "Enormes Ruínas"
+ },
+ "battle_dungeon_name100331": {
+  "en": "Huge Dragon Vein Takeover",
+  "ch": "特大龙脉占领战",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Grande tomada da Veia do Dragão"
+ },
+ "battle_dungeon_name1003311": {
+  "en": "Small Dragon Vein",
+  "ch": "小型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Pequena Veia do Dragão"
+ },
+ "battle_dungeon_name1003312": {
+  "en": "Medium Dragon Vein",
+  "ch": "中型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Veia do Dragão Média"
+ },
+ "battle_dungeon_name1003313": {
+  "en": "Large Dragon Vein",
+  "ch": "大型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Grande Veia do Dragão"
+ },
+ "battle_dungeon_name1003314": {
+  "en": "Huge Dragon Vein",
+  "ch": "特大龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Enorme Veia do Dragão"
+ },
+ "battle_dungeon_name100332": {
+  "en": "Huge Herb Garden Takeover",
+  "ch": "特大药园占领战",
+  "pt": "Grande transformação no Jardim de Ervas"
+ },
+ "battle_dungeon_name1003321": {
+  "en": "Small Herb Garden",
+  "ch": "小型药园",
+  "pt": "Pequeno Jardim de Ervas"
+ },
+ "battle_dungeon_name1003322": {
+  "en": "Medium Herb Garden",
+  "ch": "中型药园",
+  "pt": "Jardim de Ervas Médio"
+ },
+ "battle_dungeon_name1003323": {
+  "en": "Large Herb Garden",
+  "ch": "大型药园",
+  "pt": "Grande Jardim de Ervas"
+ },
+ "battle_dungeon_name1003324": {
+  "en": "Huge Herb Garden",
+  "ch": "特大药园",
+  "pt": "Um Jardim de Ervas enorme"
+ },
+ "battle_dungeon_name100333": {
+  "en": "Huge Ore Deposit Takeover",
+  "ch": "特大矿藏占领战",
+  "pt": "Grande aquisição de depósito de minério"
+ },
+ "battle_dungeon_name1003331": {
+  "en": "Small Ore Deposit",
+  "ch": "小型矿藏",
+  "pt": "Pequeno depósito de minério"
+ },
+ "battle_dungeon_name1003332": {
+  "en": "Medium Ore Deposit",
+  "ch": "中型矿藏",
+  "pt": "Depósito de Minério de Tamanho Médio"
+ },
+ "battle_dungeon_name1003333": {
+  "en": "Large Ore Deposit",
+  "ch": "大型矿藏",
+  "pt": "Grande depósito de minério"
+ },
+ "battle_dungeon_name1045": {
+  "en": "Evergreen Forest",
+  "ch": "树人之森",
+  "nomes": {
+   "Evergreen": "Sempre-Verde"
+  },
+  "pt": "Floresta Perene"
+ },
+ "battle_dungeon_name104588": {
+  "en": "Evergreen Forest - Treasure",
+  "ch": "树人之森·宝藏",
+  "nomes": {
+   "Evergreen": "Sempre-Verde"
+  },
+  "pt": "Floresta Perene - Tesouro"
+ },
+ "battle_dungeon_name105": {
+  "en": "Bog of Desolation",
+  "ch": "荒芜沼泽",
+  "pt": "Pântano da Desolação"
+ },
+ "battle_dungeon_name1051": {
+  "en": "Peach Forest",
+  "ch": "桃花幻境",
+  "pt": "Floresta de Pêssegos"
+ },
+ "battle_dungeon_name1052": {
+  "en": "Evergreen Forest",
+  "ch": "树人之森",
+  "nomes": {
+   "Evergreen": "Sempre-Verde"
+  },
+  "pt": "Floresta Perene"
+ },
+ "battle_dungeon_name1053": {
+  "en": "Peach Forest",
+  "ch": "桃花幻境",
+  "pt": "Floresta de Pêssegos"
+ },
+ "battle_dungeon_name1054": {
+  "en": "Evergreen Forest",
+  "ch": "树人之森",
+  "nomes": {
+   "Evergreen": "Sempre-Verde"
+  },
+  "pt": "Floresta Perene"
+ },
+ "battle_dungeon_name1055": {
+  "en": "Evergreen Forest",
+  "ch": "树人之森",
+  "nomes": {
+   "Evergreen": "Sempre-Verde"
+  },
+  "pt": "Floresta Perene"
+ },
+ "battle_dungeon_name106": {
+  "en": "Yellow Sand Desert",
+  "ch": "黄沙大漠",
+  "pt": "Deserto das Areias Amarelas"
+ },
+ "battle_dungeon_name1061": {
+  "en": "Bandit Camp",
+  "ch": "山贼营寨",
+  "pt": "Acampamento dos Bandidos"
+ },
+ "battle_dungeon_name1062": {
+  "en": "Bandit Camp",
+  "ch": "山贼营寨",
+  "pt": "Acampamento dos Bandidos"
+ },
+ "battle_dungeon_name106288": {
+  "en": "Bandit Camp - Treasure",
+  "ch": "山贼营寨·宝藏",
+  "pt": "Acampamento de Bandidos - Tesouro"
+ },
+ "battle_dungeon_name1063": {
+  "en": "Bandit Camp",
+  "ch": "山贼营寨",
+  "pt": "Acampamento dos Bandidos"
+ },
+ "battle_dungeon_name106388": {
+  "en": "Bandit Camp - Treasure",
+  "ch": "山贼营寨·宝藏",
+  "pt": "Acampamento de Bandidos - Tesouro"
+ },
+ "battle_dungeon_name1064": {
+  "en": "Bandit Camp",
+  "ch": "山贼营寨",
+  "pt": "Acampamento dos Bandidos"
+ },
+ "battle_dungeon_name106488": {
+  "en": "Bandit Camp - Treasure",
+  "ch": "山贼营寨·宝藏",
+  "pt": "Acampamento de Bandidos - Tesouro"
+ },
+ "battle_dungeon_name1065": {
+  "en": "Bandit Camp",
+  "ch": "山贼营寨",
+  "pt": "Acampamento de Bandidos"
+ },
+ "battle_dungeon_name106588": {
+  "en": "Bandit Camp - Treasure",
+  "ch": "山贼营寨·宝藏",
+  "pt": "Acampamento de Bandidos - Tesouro"
+ },
+ "battle_dungeon_name107": {
+  "en": "Desolate Desert",
+  "ch": "极炙荒漠",
+  "pt": "Deserto Desolado"
+ },
+ "battle_dungeon_name1071": {
+  "en": "Bandit Camp",
+  "ch": "山贼营寨",
+  "pt": "Acampamento dos Bandidos"
+ },
+ "battle_dungeon_name3019": {
+  "en": "特级秘境",
+  "ch": "特级秘境",
+  "pt": "Santuário Especial"
+ },
+ "battle_dungeon_name3020": {
+  "en": "究级秘境",
+  "ch": "究级秘境",
+  "pt": "Domínio Secreto Supremo"
+ },
+ "battle_dungeon_name3021": {
+  "en": "灵谷秘境",
+  "ch": "灵谷秘境",
+  "pt": "Domínio Secreto de Linggu"
+ },
+ "battle_dungeon_name3022": {
+  "en": "Fox Spirit Trial",
+  "ch": "妖狐渡劫",
+  "nomes": {
+   "Fox Spirit": "Espírito da Raposa"
+  },
+  "pt": "Prova do Espírito Raposo"
+ },
+ "battle_dungeon_name3023": {
+  "en": "Canine Spirit Trial",
+  "ch": "妖犬渡劫",
+  "pt": "Prova do Espírito Canino"
+ },
+ "battle_dungeon_name3024": {
+  "en": "Serpent Spirit Trial",
+  "ch": "妖蛇渡劫",
+  "nomes": {
+   "Serpent": "Serpente"
+  },
+  "pt": "Prova do Espírito da Serpente"
+ },
+ "battle_dungeon_name3025": {
+  "en": "Toad Spirit Trial",
+  "ch": "妖蟾渡劫",
+  "pt": "Prova do Espírito do Sapo"
+ },
+ "battle_dungeon_name3026": {
+  "en": "Scorpion Spirit Trial",
+  "ch": "妖蝎渡劫",
+  "pt": "Prova do Espírito Escorpião"
+ },
+ "battle_dungeon_name3027": {
+  "en": "Lizard Spirit Trial",
+  "ch": "妖蜥渡劫",
+  "pt": "Prova do Espírito do Lagarto"
+ },
+ "battle_dungeon_name3901": {
+  "en": "Qi Refining Realm",
+  "ch": "炼气界",
+  "pt": "Reino do Refinamento de Qi"
+ },
+ "battle_dungeon_name3902": {
+  "en": "Foundation Realm",
+  "ch": "筑基界",
+  "pt": "Reino da Fundação"
+ },
+ "battle_dungeon_name3903": {
+  "en": "Qi Condensation Realm",
+  "ch": "结晶界",
+  "pt": "Reino da Condensação de Qi"
+ },
+ "battle_dungeon_name3904": {
+  "en": "Golden Core Realm",
+  "ch": "金丹界",
+  "pt": "Reino do Núcleo Dourado"
+ },
+ "battle_dungeon_name3905": {
+  "en": "Origin Spirit Realm",
+  "ch": "具灵界",
+  "pt": "Reino do Espírito de Origem"
+ },
+ "battle_dungeon_name3906": {
+  "en": "Nascent Soul Realm",
+  "ch": "元婴界",
+  "pt": "Reino da Alma Nascente"
+ },
+ "battle_dungeon_name3907": {
+  "en": "Soul Formation Realm",
+  "ch": "化神界",
+  "pt": "Reino da Formação da Alma"
+ },
+ "battle_dungeon_name3908": {
+  "en": "Enlightenment Realm",
+  "ch": "悟道界",
+  "pt": "Reino da Iluminação"
+ },
+ "battle_dungeon_name3909": {
+  "en": "Reborn Realm",
+  "ch": "羽化界",
+  "pt": "Reino do Renascimento"
+ },
+ "battle_dungeon_name3910": {
+  "en": "Transcendent Realm",
+  "ch": "登仙界",
+  "pt": "Reino da Transcendência"
+ },
+ "battle_dungeon_name3911": {
+  "en": "Tian Yuan Summit",
+  "ch": "无尽巅峰",
+  "pt": "Cúpula de Tian Yuan"
+ },
+ "battle_dungeon_name4601": {
+  "en": "Sect Position Dungeon",
+  "ch": "宗门职位副本",
+  "pt": "Masmorra de Posicionamento da Seita"
+ },
+ "battle_dungeon_name4701": {
+  "en": "Blazing Lands",
+  "ch": "炙炎之域",
+  "pt": "Terras Ardentes"
+ },
+ "battle_dungeon_name4702": {
+  "en": "Arctic Field",
+  "ch": "极寒之地",
+  "pt": "Domínio Ártico"
+ },
+ "battle_dungeon_name4703": {
+  "en": "Lightning Lands",
+  "ch": "雷罚之地",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Terras do Relâmpago"
+ },
+ "battle_dungeon_name4705": {
+  "en": "Quicksand's Reach",
+  "ch": "流沙之域",
+  "pt": "O Alcance da Areia Movediça"
+ },
+ "battle_dungeon_name4706": {
+  "en": "Drunk Flower Forest",
+  "ch": "醉花林境",
+  "pt": "Floresta das Flores Embriagadas"
+ },
+ "battle_dungeon_name4707": {
+  "en": "Blazing Lands",
+  "ch": "炙炎之域",
+  "pt": "Terras Ardentes"
+ },
+ "battle_dungeon_name4708": {
+  "en": "Arctic Field",
+  "ch": "极寒之地",
+  "pt": "Domínio Ártico"
+ },
+ "battle_dungeon_name4709": {
+  "en": "Lightning Lands",
+  "ch": "雷罚之地",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Terras do Relâmpago"
+ },
+ "battle_dungeon_name4711": {
+  "en": "Quicksand's Reach",
+  "ch": "流沙之域",
+  "pt": "O Alcance da Areia Movediça"
+ },
+ "battle_dungeon_name4712": {
+  "en": "Drunk Flower Forest",
+  "ch": "醉花林境",
+  "pt": "Floresta das Flores Embriagadas"
+ },
+ "battle_dungeon_name4713": {
+  "en": "Blazing Lands",
+  "ch": "炙炎之域",
+  "pt": "Terras Ardentes"
+ },
+ "battle_dungeon_name4714": {
+  "en": "Arctic Field",
+  "ch": "极寒之地",
+  "pt": "Domínio do Ártico"
+ },
+ "battle_dungeon_name4715": {
+  "en": "Lightning Lands",
+  "ch": "雷罚之地",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Terras do Relâmpago"
+ },
+ "battle_dungeon_name4717": {
+  "en": "Quicksand's Reach",
+  "ch": "流沙之域",
+  "pt": "O Alcance da Areia Movediça"
+ },
+ "battle_dungeon_name4718": {
+  "en": "Drunk Flower Forest",
+  "ch": "醉花林境",
+  "pt": "Floresta das Flores Embriagadas"
+ },
+ "battle_dungeon_name4719": {
+  "en": "Blazing Lands",
+  "ch": "炙炎之域",
+  "pt": "Terras Incendiárias"
+ },
+ "bizhibeijing5": {
+  "en": "Wallpaper 5",
+  "ch": "壁纸5",
+  "pt": "Papel de parede 5"
+ },
+ "bizhibeijing6": {
+  "en": "Wallpaper 6",
+  "ch": "壁纸6",
+  "pt": "Papel de parede 6"
+ },
+ "bizhibeijing7": {
+  "en": "Wallpaper 7",
+  "ch": "壁纸7",
+  "pt": "Papel de parede 7"
+ },
+ "bizhibeijing8": {
+  "en": "Wallpaper 8",
+  "ch": "壁纸8",
+  "pt": "Papel de parede 8"
+ },
+ "bizhibeijing9": {
+  "en": "Wallpaper 9",
+  "ch": "壁纸9",
+  "pt": "Papel de parede 9"
+ },
+ "book_last": {
+  "en": "Previous",
+  "ch": "上一页",
+  "pt": "Anterior"
+ },
+ "book_next": {
+  "en": "Next",
+  "ch": "下一页",
+  "pt": "Próximo"
+ },
+ "brokenAltar_boosName1": {
+  "en": "Image - Five-tailed Crimson Leopard",
+  "ch": "狰之影",
+  "nomes": {
+   "Five-tailed Crimson Leopard": "Leopardo Vermelho de Cinco Caudas"
+  },
+  "pt": "Imagem - Leopardo Carmesim de Cinco Caudas"
+ },
+ "brokenAltar_boosName10": {
+  "en": "Image - Jianyi",
+  "ch": "剑一之影",
+  "pt": "Imagem - Jianyi"
+ },
+ "brokenAltar_boosName11": {
+  "en": "Image - Lizhu",
+  "ch": "离珠之影",
+  "pt": "Imagem - Lizhu"
+ },
+ "brokenAltar_boosName12": {
+  "en": "Image - King Luhua",
+  "ch": "芦花王之影",
+  "pt": "Imagem - Rei Luhua"
+ },
+ "brokenAltar_boosName13": {
+  "en": "Image - Herd of Monsters",
+  "ch": "群兽之影",
+  "pt": "Imagem - Rebanho de Monstros"
+ },
+ "brokenAltar_boosName2": {
+  "en": "Image - Human-faced Feline",
+  "ch": "类之影",
+  "nomes": {
+   "Human-faced Feline": "Felino com rosto humano"
+  },
+  "pt": "Imagem - Felino com rosto humano"
+ },
+ "brokenAltar_boosName3": {
+  "en": "Image - Goumang",
+  "ch": "句芒之影",
+  "nomes": {
+   "Goumang": "Goumang"
+  },
+  "pt": "Imagem - Goumang"
+ },
+ "brokenAltar_boosName4": {
+  "en": "Image - Xuanming",
+  "ch": "玄冥之影",
+  "pt": "Imagem - Xuanming"
+ },
+ "brokenAltar_boosName5": {
+  "en": "Image - Houtu",
+  "ch": "后土之影",
+  "pt": "Imagem - Houtu"
+ },
+ "brokenAltar_boosName6": {
+  "en": "Image - Sunny",
+  "ch": "圣阳之影",
+  "pt": "Imagem - Ensolarado"
+ },
+ "brokenAltar_boosName7": {
+  "en": "Image - Bingyi",
+  "ch": "冰夷之影",
+  "pt": "Imagem - Bingyi"
+ },
+ "brokenAltar_boosName8": {
+  "en": "Image - Canglong",
+  "ch": "沧泷之影",
+  "pt": "Imagem - Canglong"
+ },
+ "brokenAltar_boosName9": {
+  "en": "Image - Mingxue",
+  "ch": "东方茗雪之影",
+  "pt": "Imagem - Mingxue"
+ },
+ "chickenskillname_2820031": {
+  "en": "Special - Violet Storm",
+  "ch": "绝·紫鸾风暴",
+  "pt": "Especial - Tempestade Violeta"
+ },
+ "chickenskillname_2821011": {
+  "en": "Cross Slash",
+  "ch": "十字斩击",
+  "pt": "Corte Cruzado"
+ },
+ "chickenskillname_2821021": {
+  "en": "Enchantment",
+  "ch": "蚀心魅惑",
+  "pt": "Encantamento"
+ },
+ "chickenskillname_2821031": {
+  "en": "Elegant Blossom",
+  "ch": "流云飞花",
+  "pt": "Flor Elegante"
+ },
+ "chickenskillname_2821041": {
+  "en": "Stone Bullets",
+  "ch": "飞沙石丸",
+  "pt": "Balas de pedra"
+ },
+ "chickenskillname_2821051": {
+  "en": "Statue Minions",
+  "ch": "冰羽石像",
+  "pt": "Estátua dos Minions"
+ },
+ "chickenskillname_2822011": {
+  "en": "Chilly Flashes",
+  "ch": "寒光追影",
+  "pt": "Faíscas geladas"
+ },
+ "chickenskillname_2822021": {
+  "en": "Tempest of Justice",
+  "ch": "气贯长虹",
+  "nomes": {
+   "Tempest of Justice": "Tempestade da Justiça"
+  },
+  "pt": "Tempestade da Justiça"
+ },
+ "chickenskillname_2822031": {
+  "en": "Victorious Blade",
+  "ch": "横扫千军",
+  "pt": "Lâmina Vitoriosa"
+ },
+ "chickenskillname_2822041": {
+  "en": "Vicious Seeds",
+  "ch": "夺命凶弹",
+  "pt": "Sementes Viciosas"
+ },
+ "chickenskillname_2822051": {
+  "en": "Worrying Whirls",
+  "ch": "烦恼风暴",
+  "pt": "Redemoinhos Preocupantes"
+ },
+ "chickenskillname_2822061": {
+  "en": "Cascade of Swords",
+  "ch": "天落九重",
+  "pt": "Cascata de Espadas"
+ },
+ "chickenskillname_2823011": {
+  "en": "Surprising Move",
+  "ch": "匠心独运",
+  "pt": "Movimento surpreendente"
+ },
+ "chickenskillname_2823021": {
+  "en": "Drizzle in Forest",
+  "ch": "竹林千针",
+  "pt": "Chuviscos na Floresta"
+ },
+ "chickenskillname_2823031": {
+  "en": "Noxious Venom",
+  "ch": "黑赤猛毒",
+  "pt": "Veneno Nocivo"
+ },
+ "chickenskillname_2823041": {
+  "en": "Scarlet Needles",
+  "ch": "猩红毒针",
+  "pt": "Agulhas Escarlates"
+ },
+ "chickenskillname_2823051": {
+  "en": "Draconic Wave",
+  "ch": "黑龙波动",
+  "pt": "Onda Dracônica"
+ },
+ "chickenskillname_2823061": {
+  "en": "Moonlit Ocean Jewels",
+  "ch": "沧海月明",
+  "pt": "Jóias do Oceano à Luz da Lua"
+ },
+ "chickenskillname_2824011": {
+  "en": "Brave Challenger",
+  "ch": "舍我其谁",
+  "pt": "Desafiador Corajoso"
+ },
+ "chickenskillname_2824021": {
+  "en": "Dance of Hell Feathers",
+  "ch": "邪羽之舞",
+  "pt": "Dança das Penas do Inferno"
+ },
+ "conditionDesc162104": {
+  "en": "Required Realm: Foundation",
+  "ch": "需要达到筑基境才可以进入",
+  "pt": "Reino necessário: Fundação"
+ },
+ "conditionDesc162105": {
+  "en": "Required Realm: Foundation",
+  "ch": "需要达到筑基境才可以进入",
+  "pt": "Reino necessário: Fundação"
+ },
+ "conditionDesc162106": {
+  "en": "Required Realm: Foundation",
+  "ch": "需要达到筑基境才可以进入",
+  "pt": "Reino necessário: Fundação"
+ },
+ "conditionDesc162107": {
+  "en": "Required Realm: Qi Condensation",
+  "ch": "需要达到结晶境才可以进入",
+  "pt": "Reino necessário: Condensação de Qi"
+ },
+ "conditionDesc162108": {
+  "en": "Required Realm: Qi Condensation",
+  "ch": "需要达到结晶境才可以进入",
+  "pt": "Reino exigido: Condensação de Qi"
+ },
+ "conditionDesc162109": {
+  "en": "Required Realm: Qi Condensation",
+  "ch": "需要达到结晶境才可以进入",
+  "pt": "Reino exigido: Condensação de Qi"
+ },
+ "conditionDesc162110": {
+  "en": "Required Realm: Qi Condensation",
+  "ch": "需要达到结晶境才可以进入",
+  "pt": "Reino exigido: Condensação de Qi"
+ },
+ "conditionDesc162111": {
+  "en": "Required Realm: Golden Core",
+  "ch": "需要达到金丹境才可以进入",
+  "pt": "Reino exigido: Núcleo Dourado"
+ },
+ "conditionDesc162112": {
+  "en": "Required Realm: Golden Core",
+  "ch": "需要达到金丹境才可以进入",
+  "pt": "Reino necessário: Núcleo Dourado"
+ },
+ "conditionDesc162113": {
+  "en": "Required Realm: Golden Core",
+  "ch": "需要达到金丹境才可以进入",
+  "pt": "Reino necessário: Núcleo Dourado"
+ },
+ "conditionDesc162114": {
+  "en": "Required Realm: Golden Core",
+  "ch": "需要达到金丹境才可以进入",
+  "pt": "Reino necessário: Núcleo Dourado"
+ },
+ "conditionDesc162115": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162116": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162117": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162118": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162119": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162120": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162121": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162122": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "conditionDesc162123": {
+  "en": "Not enough Focus",
+  "ch": "念力不足",
+  "pt": "Foco insuficiente"
+ },
+ "d_jixu": {
+  "en": "Continue",
+  "ch": "继续",
+  "pt": "Continuar"
+ },
+ "d_xinde": {
+  "en": "New Game",
+  "ch": "新的开始",
+  "pt": "Novo Jogo"
+ },
+ "dalaoxinmo1": {
+  "en": "Affected by the dark energy, your Inner Demon has been unleashed!",
+  "ch": "四周冥气弥漫，你深受冥气的影响，心魔出现了！",
+  "pt": "Afetado pela energia sombria, seu Demônio Interior foi libertado!"
+ },
+ "danfangshenji": {
+  "en": "Upgrade Recipes",
+  "ch": "丹方升级",
+  "pt": "Receitas de melhoria"
+ },
+ "danfangxuexi": {
+  "en": "Learn Recipes",
+  "ch": "丹方学习",
+  "pt": "Aprenda Receitas"
+ },
+ "danfangxuexizhong": {
+  "en": "Learning the recipe...",
+  "ch": "丹方学习中......",
+  "pt": "Aprendendo a receita..."
+ },
+ "danlu_danlutishi": {
+  "en": "You don't have any Furnaces.\nFurnaces can be redeemed at the Treasure Pavilion of various sects.",
+  "ch": "当前没有丹炉\n丹炉可在宗门的聚宝仙楼中兑换获得。",
+  "pt": "Você não possui nenhuma Fornalha.\nAs Fornalhas podem ser resgatadas no Pavilhão do Tesouro de diversas seitas."
+ },
+ "danmo1": {
+  "en": "Alchemist",
+  "ch": "炼丹狂魔",
+  "pt": "Alquimista"
+ },
+ "danyaojiemianlingilibiaoti": {
+  "en": "Quick Recover",
+  "ch": "快捷回复",
+  "pt": "Recuperação Rápida"
+ },
+ "danyaojiemianlinglitishi": {
+  "en": "Click an Elixir to recover Energy",
+  "ch": "点击丹药回复灵力",
+  "pt": "Clique em um Elixir para recuperar Energia."
+ },
+ "danyaojiemiantilibiaoti": {
+  "en": "Quick Recover",
+  "ch": "快捷回复",
+  "pt": "Recuperação Rápida"
+ },
+ "danyaojiemiantilitishi": {
+  "en": "Click an Elixir to recover Vitality",
+  "ch": "点击丹药回复体力",
+  "pt": "Clique em um Elixir para recuperar a Vitalidade."
+ },
+ "daohao_beitiaozhantishi": {
+  "en": "You can only carry {0} Martial Skill and Special Skill to challenge {1}.",
+  "ch": "你只能携带{0}武技和绝技挑战{1}。",
+  "pt": "Você só pode levar {0} Técnica Marcial e Técnica Especial para desafiar {1}."
+ },
+ "daohao_genghuan": {
+  "en": "Replace Taoist Title",
+  "ch": "更换道号",
+  "pt": "Substitua o Título Daoísta"
+ },
+ "daohao_genghuantishi": {
+  "en": "Successfully replaced {0} Taoist Title!",
+  "ch": "更换{0}道号成功！",
+  "pt": "Substituído com sucesso {0} Título Daoísta!"
+ },
+ "daohao_shiqudaohao": {
+  "en": "Taoist Title Lost",
+  "ch": "失去道号",
+  "pt": "Título Daoísta perdido"
+ },
+ "daohao_tiaozhanqueren": {
+  "en": "Send challenge to <r>{0}</r>?\nVictory will mean the right to claim the Taoist Title of <r>{0}</r>.",
+  "ch": "是否要向<r>{0}</r>发起挑战？\n成功战胜了对方后，即可获得<r>{0}</r>的道号。",
+  "pt": "Enviar desafio para <r>{0}</r>?\nA vitória garantirá o direito de obter o Título Daoísta de <r>{0}</r>."
+ },
+ "daohao_tiaozhantishi": {
+  "en": "You can only carry {0} Martial Skill and Special Skill to challenge {1}.",
+  "ch": "你只能携带{0}武技和绝技挑战{1}。",
+  "pt": "Você só pode levar {0} Técnica Marcial e Técnica Especial para desafiar {1}."
+ },
+ "daohao_tiaozhantishi2": {
+  "en": "Challenging {0}",
+  "ch": "向{0}发起挑战",
+  "pt": "Desafiador {0}"
+ },
+ "daohao_tiaozhantishi3": {
+  "en": "Only a Cultivator below {0} can challenge {1}!",
+  "ch": "只有{0}以下的修仙者，才可挑战{1}！",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Apenas um Cultivador com nível abaixo de {0} pode desafiar {1}!"
+ },
+ "fateName202002": {
+  "en": "Nourishing Soil",
+  "ch": "土木之灵",
+  "pt": "Solo nutritivo"
+ },
+ "fateName20201": {
+  "en": "Spear Talent",
+  "ch": "蛟伏龙飞",
+  "pt": "Talento com Lança"
+ },
+ "fateName20202": {
+  "en": "Balanced Stance",
+  "ch": "负阴抱阳",
+  "pt": "Postura equilibrada"
+ },
+ "fateName203001": {
+  "en": "Unrivaled Accuracy",
+  "ch": "百步穿杨",
+  "pt": "Precisão inigualável"
+ },
+ "fateName203002": {
+  "en": "Master Shooter",
+  "ch": "穿云裂石",
+  "pt": "Mestre Atirador"
+ },
+ "fateName20301": {
+  "en": "Sword Talent",
+  "ch": "剑气归虚",
+  "pt": "Talento com Espada"
+ },
+ "fateName20302": {
+  "en": "Shadowless Move",
+  "ch": "绝剑逐影",
+  "pt": "Movimento sem sombra"
+ },
+ "fateName20303": {
+  "en": "Soothing Sword",
+  "ch": "琴心剑胆",
+  "pt": "Espada Acalmante"
+ },
+ "fateName2040001": {
+  "en": "Sole Fighter",
+  "ch": "体用无穷",
+  "pt": "Lutador Solitário"
+ },
+ "fateName2040002": {
+  "en": "Focused Warrior",
+  "ch": "此心不动",
+  "pt": "Guerreiro Concentrado"
+ },
+ "fateName20401": {
+  "en": "Fist Talent",
+  "ch": "崩山裂石",
+  "pt": "Talento do Punho"
+ },
+ "fateName20402": {
+  "en": "Warlord's Phantom",
+  "ch": "武神残诀",
+  "pt": "Fantasma do Senhor da Guerra"
+ },
+ "fateName20403": {
+  "en": "Unbroken Jade",
+  "ch": "身如金石",
+  "pt": "Jade Inquebrável"
+ },
+ "fateName2050001": {
+  "en": "Eye for Weakness",
+  "ch": "邪梦鬼魇",
+  "pt": "Olho para as fraquezas"
+ },
+ "fateName2050002": {
+  "en": "Vulpine Curse",
+  "ch": "狐灵心诅",
+  "pt": "Maldição da Raposa"
+ },
+ "fateName20501": {
+  "en": "Palm Talent",
+  "ch": "惊涛拍浪",
+  "pt": "Palma Talent"
+ },
+ "fateName20502": {
+  "en": "Circulating Energy",
+  "ch": "两忘化道",
+  "pt": "Energia em circulação"
+ },
+ "fateName20503": {
+  "en": "Tranquil Stance",
+  "ch": "静处安身",
+  "pt": "Postura tranquila"
+ },
+ "fateName2060001": {
+  "en": "Ponderous Steps",
+  "ch": "偷闲躲静",
+  "pt": "Passos pesados"
+ },
+ "fateName2060002": {
+  "en": "Unmoved Attacker",
+  "ch": "意懒心慵",
+  "pt": "Atacante Imperturbável"
+ },
+ "fortuitous_event_name10819": {
+  "en": "Adventure: Xiegou",
+  "ch": "絜钩奇遇",
+  "pt": "Aventura: Xiegou"
+ },
+ "fortuitous_event_name10820": {
+  "en": "Adventure: Precious Fruit",
+  "ch": "珍贵果实奇遇",
+  "pt": "Aventura: Fruto Precioso"
+ },
+ "fortuitous_event_name10821": {
+  "en": "Adventure: Phoenix",
+  "ch": "凤凰奇遇",
+  "pt": "Aventura: Fênix"
+ },
+ "fortuitous_event_name10822": {
+  "en": "Adventure: Pearl Turtle",
+  "ch": "珠鳖鱼奇遇",
+  "pt": "Aventura: Tartaruga de Pérola"
+ },
+ "fortuitous_event_name10823": {
+  "en": "Adventure: Long Zhi",
+  "ch": "蠪侄奇遇",
+  "nomes": {
+   "Long Zhi": "Long Zhi"
+  },
+  "pt": "Aventura: Long Zhi"
+ },
+ "fortuitous_event_name10824": {
+  "en": "Adventure: Desert Mirage",
+  "ch": "海市蜃楼奇遇",
+  "pt": "Aventura: Miragem no Deserto"
+ },
+ "fortuitous_event_name10825": {
+  "en": "Adventure: Hovering Vulture",
+  "ch": "秃鹫盘旋奇遇",
+  "pt": "Aventura: Abutre Voador"
+ },
+ "fortuitous_event_name10826": {
+  "en": "Adventure: Skeleton",
+  "ch": "荒野骸骨奇遇",
+  "pt": "Aventura: Esqueleto"
+ },
+ "fortuitous_event_name10827": {
+  "en": "Adventure: Chilling Wind",
+  "ch": "凛冽寒风奇遇",
+  "pt": "Aventura: Vento gélido"
+ },
+ "fortuitous_event_name10828": {
+  "en": "Adventure: Icy Toad",
+  "ch": "千年冰蟾奇遇",
+  "pt": "Aventura: Sapo Gelado"
+ },
+ "fortuitous_event_name10832": {
+  "en": "The Rainmaker",
+  "ch": "异兽行云布雨",
+  "pt": "O Fazedor de Chuva"
+ },
+ "fortuitous_event_name10834": {
+  "en": "Saving the Bird",
+  "ch": "救助雏鸟",
+  "pt": "Salvando o Pássaro"
+ },
+ "fortuitous_event_name10835": {
+  "en": "Romance Under the Moon",
+  "ch": "花好月圆",
+  "pt": "Romance sob a Lua"
+ },
+ "fortuitous_event_name10836": {
+  "en": "Rock Cave",
+  "ch": "石壁洞穴",
+  "pt": "Caverna do Rock"
+ },
+ "fortuitous_event_name10837": {
+  "en": "Elixir Gift",
+  "ch": "丹修赐丹",
+  "pt": "Presente Elixir"
+ },
+ "fortuitous_event_name10838": {
+  "en": "Holy Spring",
+  "ch": "偶遇灵泉",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "Fonte Sagrada"
+ },
+ "fortuitous_event_name10839": {
+  "en": "Free Drink",
+  "ch": "仙人赐酒",
+  "pt": "Bebida grátis"
+ },
+ "fortuitous_event_name10840": {
+  "en": "Ambushed",
+  "ch": "树下遇袭",
+  "pt": "Emboscada"
+ },
+ "fortuitous_event_name10841": {
+  "en": "Unknown Altar",
+  "ch": "未知祭坛",
+  "pt": "Altar Desconhecido"
+ },
+ "fortuitous_event_name72363": {
+  "en": "Yin'er's Dwelling",
+  "ch": "银耳住处",
+  "pt": "A Morada de Yin'er"
+ },
+ "fortuitous_event_name72364": {
+  "en": "Yin'er's Dwelling",
+  "ch": "银耳住处",
+  "pt": "A Morada de Yin'er"
+ },
+ "fortuitous_event_name73001": {
+  "en": "Stele of sword",
+  "ch": "剑碑",
+  "pt": "Estela da espada"
+ },
+ "fortuitous_event_name75015": {
+  "en": "Master's Recluse Room",
+  "ch": "祖师云房",
+  "pt": "Quarto Recluso do Mestre"
+ },
+ "fortuitous_event_name77090": {
+  "en": "Nil Root Cultivator",
+  "ch": "",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Cultivador de Raízes de Nilo"
+ },
+ "fortuitous_event_name78031": {
+  "en": "Supreme Forge",
+  "ch": "",
+  "pt": "Forja Suprema"
+ },
+ "fortuitous_event_name8": {
+  "en": "Old Man",
+  "ch": "老者",
+  "pt": "Velho"
+ },
+ "fortuitous_event_name80001": {
+  "en": "Small Dragon Vein",
+  "ch": "小型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Pequena Veia do Dragão"
+ },
+ "fortuitous_event_name80002": {
+  "en": "Small Herb Garden",
+  "ch": "小型药园",
+  "pt": "Pequeno Jardim de Ervas"
+ },
+ "fortuitous_event_name80003": {
+  "en": "Small Ore Deposit",
+  "ch": "小型矿藏",
+  "pt": "Pequeno depósito de minério"
+ },
+ "fortuitous_event_name80004": {
+  "en": "Small Ruins",
+  "ch": "小型遗迹",
+  "pt": "Pequenas Ruínas"
+ },
+ "fortuitous_event_name80011": {
+  "en": "Medium Dragon Vein",
+  "ch": "中型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Veia do Dragão Média"
+ },
+ "fortuitous_event_name80012": {
+  "en": "Medium Herb Garden",
+  "ch": "中型药园",
+  "pt": "Jardim de Ervas Médio"
+ },
+ "fortuitous_event_name80013": {
+  "en": "Medium Ore Deposit",
+  "ch": "中型矿藏",
+  "pt": "Depósito de Minério de Tamanho Médio"
+ },
+ "fortuitous_event_name80014": {
+  "en": "Medium Ruins",
+  "ch": "中型遗迹",
+  "pt": "Ruínas de Nível Médio"
+ },
+ "fortuitous_event_name80021": {
+  "en": "Large Dragon Vein",
+  "ch": "大型龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Grande Veia do Dragão"
+ },
+ "fortuitous_event_name80022": {
+  "en": "Large Herb Garden",
+  "ch": "大型药园",
+  "pt": "Grande Jardim de Ervas"
+ },
+ "fortuitous_event_name80023": {
+  "en": "Large Ore Deposit",
+  "ch": "大型矿藏",
+  "pt": "Grande depósito de minério"
+ },
+ "fortuitous_event_name80024": {
+  "en": "Large Ruins",
+  "ch": "大型遗迹",
+  "pt": "Grandes Ruínas"
+ },
+ "fortuitous_event_name80031": {
+  "en": "Huge Dragon Vein",
+  "ch": "特大龙脉",
+  "nomes": {
+   "Dragon Vein": "Veia do Dragão"
+  },
+  "pt": "Enorme Veia do Dragão"
+ },
+ "handlekey_queding": {
+  "en": "OK",
+  "ch": "确定",
+  "pt": "OK"
+ },
+ "handlekey_qwgezi": {
+  "en": "Go to grid",
+  "ch": "前往格子",
+  "pt": "Ir para a grade"
+ },
+ "handlekey_schoolWar_backpackTips": {
+  "en": "You can open your backpack",
+  "ch": "可以打开背包",
+  "pt": "Você pode abrir sua mochila."
+ },
+ "handlekey_school_ecstiaoguo": {
+  "en": "Press and hold <b>+</b> to skip",
+  "ch": "按住 <b>+</b> 跳过",
+  "pt": "Pressione e segure <b>+</b> para pular"
+ },
+ "handlekey_shanchucundang": {
+  "en": "Delete archive",
+  "ch": "删除存档",
+  "pt": "Excluir arquivo"
+ },
+ "handlekey_tingzhi": {
+  "en": "Stop moving",
+  "ch": "停止移动",
+  "pt": "Pare de se mover"
+ },
+ "handlekey_tip_duihua": {
+  "en": "Interact",
+  "ch": "互动",
+  "pt": "Interagir"
+ },
+ "handlekey_title": {
+  "en": "Key diagram",
+  "ch": "按键示意图",
+  "pt": "Diagrama chave"
+ },
+ "handlekey_uiPlayerBagExtend_ptextDragTips": {
+  "en": "Press Y to discard items in bulk",
+  "ch": "按Y可批量丢弃道具",
+  "pt": "Pressione Y para descartar itens em massa."
+ },
+ "handlekey_ui_gogEyeTipsConnect": {
+  "en": "<size=20>Functions:</size><size=2>\n\n</size>1. The power of the Eye of Providence can give you a wider range of vision on the world map.\n2.The Eye of Providence gives you a chance to see items that are not yet visible in the Inventories of other Cultivators.\n3. When in danger in battle, the Eye of Providence can activate Heavenly Path Protection to help the player leave battle. However, after activating the power, the Eye of Providence will enter be broken (can be repaired).\n4. The Eye of Providence gives you a chance to identify the weaknesses of Monsters in battle, and by attacking the weaknesses, you can gain Insight into the skills of the Monsters and use them for yourself.\n\n<size=20>How to Use\n</size><size=2>\n\n</size>1.Open the Eye of Providence Artifact interface.\n2. After successfully gaining Insight into the skill, you can Push button the button to equip and switch among the comprehended Beast Skills.\n3. Press the <r>Y</r> key in battle to use the equipped Beast Skill.\n4. After gaining Insight into the skills of 5 collected higher-Realm Monsters of the specified Realm, you can Push button the Breakthrough button to level up the Realm of the comprehended skills.\n5. When the Eye of Providence activates Heavenly Path Protection and is damaged, you can repair it on the Artifact page. It costs a certain amount of Spirit Stones, and the cost increases with the Realm and the number of times it is repaired.\n<r>(※The Eye of Providence cannot be repaired in Chaos mode※)</r>\n6. When the Eye of Providence is broken, you cannot activate Heavenly Path Protection again. You also cannot use the equipped Beast Skills, but you can still gain Insight into new Beast Skills.\n<r>(※The Eye of Providence cannot be repaired in Chaos mode※)</r>",
+  "ch": "<size=20>功能介绍：</size><size=2>\n\n</size>1.昊天眼的神力可以令你在世界地图上视野范围更广\n2.昊天眼有概率看破其他修仙者背包中尚不可见的物品\n3.当在战斗中陷入危难之时，昊天眼可以发动天道庇佑救助玩家脱离战斗，但发动了神力之后昊天眼会进入破损状态（可以进行修复）\n4.昊天眼神器在战斗中有概率识破妖兽的弱点，将弱点击破即可领悟妖兽的技能并为你所用\n\n<size=20>使用说明\n</size><size=2>\n\n</size>1.角色菜单中可打开昊天眼神器界面\n2.成功领悟技能后，可以在已领悟妖兽技能中进行装配和切换\n3.战斗中按<r>Y</r>键，可以释放装配中的妖兽技能\n4.领悟收集指定境界的5个更高境界的妖兽技能后，可选择突破按钮来提升已领悟技能的境界\n5.当昊天眼发动天道庇佑损坏后，可以在神器页面中对其进行修复。需要花费一定灵石，且所需费用会随着境界和修复次数变化而提升\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>\n6.当昊天眼处于破损状态时，无法再次发动天道庇佑；同时也无法使用已装配的妖兽技能，但仍可领悟新的妖兽技能\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>",
+  "pt": "<size=20>Funções:</size><size=2>\n\n</size>1. O poder do Artefato Olho da Providência permite uma visão mais ampla do mapa do mundo.\n2. O Olho da Providência dá a chance de ver itens ainda não visíveis nos Inventários de outros Cultivadores.\n3. Em momentos de perigo durante uma batalha, o Olho da Providência pode ativar a Proteção do Caminho Celestial, ajudando o jogador a sair da batalha. Porém, após ativar esse poder, o Artefato ficará danificado (podendo ser reparado).\n4. O Olho da Providência permite identificar as fraquezas dos Monstros em combate; ao atacar tais fraquezas, é possível obter Percepção sobre as habilidades dos Monstros e utilizá-las para si mesmo.\n\n<size=20>Como Utilizar\n</size><size=2>\n\n</size>1. Abra a interface do Artefato Olho da Providência.\n2. Após obter Percepção sobre uma habilidade, clique no botão para equipar e alternar entre as Habilidades de Fera compreendidas.\n3. Pressione a tecla <r>Y</r> durante a batalha para usar a Habilidade de Fera equipada.\n4. Depois de obter Percepção sobre as habilidades de 5 Monstros de Reino superior, do mesmo Reino, clique no botão Avanço para elevar o nível do Reino das habilidades compreendidas.\n5. Quando o Olho da Providência ativa a Proteção do Caminho Celestial e sofre danos, é possível repará-lo na página do Artefato. Isso custa certa quantidade de Pedras Espirituais; esse custo aumenta conforme o Reino e o número de reparos já feitos.\n<r>(※O Olho da Providência não pode ser reparado no modo Caos※)</r>\n6. Quando o Olho da Providência se quebrar, não será possível ativar novamente a Proteção do Caminho Celestial, nem usar as Habilidades de Fera equipadas. Contudo, ainda será possível obter Percepção sobre novas Habilidades de Fera.\n<r>(※O Olho da Providência não pode ser reparado no modo Caos※)</r>"
+ },
+ "handlekey_ui_inputKeyTip": {
+  "en": "Current input key",
+  "ch": "当前输入按键",
+  "pt": "Tecla de entrada atual"
+ },
+ "handlekey_ui_inputKeyTip2": {
+  "en": "Enter any of the following keys to set a new key command",
+  "ch": "输入以下任意按键来设置新的按键指令",
+  "pt": "Digite qualquer uma das seguintes teclas para definir um novo comando de tecla."
+ },
+ "handlekey_ui_scribbles_textStartTips": {
+  "en": "Press ZL and twist the right stick to draw the line. \n Click the button below to complete the drawing.",
+  "ch": "按压 ZL 并扭动右摇杆绘画线条，\n点击下方按钮完成画符。",
+  "pt": "Pressione ZL e gire o stick direito para desenhar a linha.  \nClique no botão abaixo para concluir o desenho."
+ },
+ "handlekey_ui_zmdbdj_keyTips": {
+  "en": "Select the item and press the A button to make the field disciples use it.",
+  "ch": "选中道具按下A键即可令场上弟子使用。",
+  "pt": "Selecione o item e pressione o botão A para fazer com que os discípulos do domínio o utilizem."
+ },
+ "handlekey_ui_zmdbdj_stopTime": {
+  "en": "There's a pause in combat!",
+  "ch": "战斗暂停中！",
+  "pt": "Há uma pausa no combate!"
+ },
+ "handlekey_ui_zmdblts_textMovCamTips": {
+  "en": "The Right Joystick moves the lens",
+  "ch": "右摇杆移动镜头",
+  "pt": "O joystick direito move a lente"
+ },
+ "handlekey_ui_zmdblts_tipsUnitDialogue": {
+  "en": "Info",
+  "ch": "查看信息",
+  "pt": "Informações"
+ },
+ "handlekey_uibattleimmortal_wanfashuoming2": {
+  "en": "Fairy method usage description \n1. Fairy power of fairy method operation will <r> gradually grow with time </r> \n2. When causing damage to the enemy, you can <r> speed up the </r> fairy operation speed \n3. When fairy operation reaches <r> complete </r>, you can <r> long press the ZL key </r> to summon your fairy ring and communicate with heaven and earth \n4. Fairy ring fairy force expansion to <r> limit </r> when the communication world is successful, <r> Let go of the ZL key </r> can release the current equipment fairy method \n5. If the <r> is interrupted or the communication </r> is temporarily interrupted in the process of communication </r>, it will cause the fairy law to enter a <r> freeze period </r>\n6. <r> in this copy </r> Fairy power has reached 90%",
+  "ch": "仙法使用方式说明\n1. 仙法运转的仙力会<r>随时间</r>逐渐壮大\n2. 对敌人造成伤害时可以<r>加快</r>仙力运转速度\n3. 仙力运转达到<r>圆满</r>时，可以<r>长按ZL键</r>召唤自身仙环并沟通天地\n4. 仙环仙力膨胀到<r>极限</r>时则沟通天地成功，<r>放开ZL键</r>可以释放当前装备的仙法\n5. 若在沟通过程中<r>被打断或临时中断沟通</r>，会使仙法进入5秒的<r>凝滞期</r>\n6. <r>本次副本</r>中仙力已经运转达到90%",
+  "pt": "Descrição do uso do método da Fada  \n1. O poder da Fada durante a operação do método <r> aumentará gradualmente com o tempo </r>  \n2. Ao causar dano ao inimigo, é possível <r> acelerar </r> a velocidade de operação da Fada  \n3. Quando a operação da Fada atingir <r> o estágio completo </r>, você pode <r> pressionar e segurar a tecla ZL </r> para invocar o anel da Fada e comunicar-se com o céu e terra  \n4. Quando a expansão da força da Fada no anel atingir <r> o limite </r> após sucesso na comunicação, <r> solte a tecla ZL </r> para liberar o método da Fada equipado no momento  \n5. Se <r> houver interrupção ou a comunicação </r> for temporariamente interrompida durante o processo de comunicação </r>, isso fará com que o método da Fada entre em um período de <r> congelamento </r>  \n6. <r> Nesta fase </r> o poder da Fada já atingiu 90%"
+ },
+ "handlekey_xianshitips": {
+  "en": "Show tips",
+  "ch": "显示tips",
+  "pt": "Dicas de apresentação"
+ },
+ "item_output_desc1011463": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName2}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName2}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName2}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Você pode obter este item na <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName2}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName2}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName2}</g>.</root1>"
+ },
+ "item_output_desc1011464": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName2}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName2}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName2}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Para obter este item, você deve utilizar a <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e as <g>Ervas</g>).</root0> <root1>A <g>Receita</g> para produzi-lo pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName2}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName2}</g>.</root1> <root1>As <g>Ervas</g> podem ser adquiridas nos <g>Mercados</g> em <g>{#areaName2}</g>.</root1>"
+ },
+ "item_output_desc1011465": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName2}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName2}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName2}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName2}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName2}</g>.</root1> <root1>As <g>Ervas</g> são encontradas nos <g>Mercados</g> de <g>{#areaName2}</g>.</root1>"
+ },
+ "item_output_desc1011466": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName2}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName2}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName2}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName2}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName2}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName2}</g>.</root1>"
+ },
+ "item_output_desc1011471": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011472": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011473": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011474": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Você pode obter este item na <g>Alquimia</g> (é necessário possuir uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser adquiridas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011475": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessária uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011476": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011531": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser adquiridas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011532": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011533": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (requer <g>Receita de Elixir</g>, <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011534": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser adquiridas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011535": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011536": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser adquiridas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011541": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011542": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011543": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011544": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário possuir a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011545": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item na <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011546": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName4}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName4}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName4}</g>.</root1>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>)。</root0><root1><g>丹方</g>可在<g>{#areaName4}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName4}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName4}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (requer a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName4}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das diversas seitas em <g>{#areaName4}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> em <g>{#areaName4}</g>.</root1>"
+ },
+ "item_output_desc1011551": {
+  "en": "<root0>Redeem this item in the Treasure Pavilion of certain Sects. Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root2>Herbs available in different sects are different.</root2>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root2>每个宗门可以兑换到的药材不同。</root2>",
+  "pt": "<root0>Resgate este item no Pavilhão do Tesouro de determinadas Seitas. Você pode obter este item por meio da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e as <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> também podem ser compradas no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root2>As Ervas disponíveis variam conforme a seita.</root2>"
+ },
+ "item_output_desc1011552": {
+  "en": "<root0>Redeem this item in the Treasure Pavilion of certain Sects. Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root2>Herbs available in different sects are different.</root2>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root2>每个宗门可以兑换到的药材不同。</root2>",
+  "pt": "<root0>Resgate este item no Pavilhão do Tesouro de determinadas Seitas. Você pode obter este item por meio da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e as <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> também podem ser compradas no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root2>As Ervas disponíveis variam conforme a seita.</root2>"
+ },
+ "item_output_desc1011553": {
+  "en": "<root0>Redeem this item in the Treasure Pavilion of certain Sects. Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root2>Herbs available in different sects are different.</root2>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root2>每个宗门可以兑换到的药材不同。</root2>",
+  "pt": "<root0>Resgate este item no Pavilhão do Tesouro de certas Seitas. Você pode obter este item por meio da <g>Alquimia</g> (requer <g>Receita de Elixir</g>, <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> também podem ser compradas no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root2>As Ervas disponíveis variam conforme a seita.</root2>"
+ },
+ "item_output_desc1011554": {
+  "en": "<root0>Redeem this item in the Treasure Pavilion of certain Sects. Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root2>Herbs available in different sects are different.</root2>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root2>每个宗门可以兑换到的药材不同。</root2>",
+  "pt": "<root0>Resgate este item no Pavilhão do Tesouro de determinadas Seitas. Você pode obter este item por meio da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e as <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> também podem ser compradas no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root2>As Ervas disponíveis variam conforme a seita.</root2>"
+ },
+ "item_output_desc1011555": {
+  "en": "<root0>Redeem this item in the Treasure Pavilion of certain Sects. Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root2>Herbs available in different sects are different.</root2>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root2>每个宗门可以兑换到的药材不同。</root2>",
+  "pt": "<root0>Resgate este item no Pavilhão do Tesouro de determinadas Seitas. Você pode obter este item por meio da <g>Alquimia</g> (é necessário possuir a <g>Receita de Elixir</g>, a <g>Fornalha</g> e as <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> também podem ser compradas no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root2>As Ervas disponíveis variam conforme a seita.</root2>"
+ },
+ "item_output_desc1011556": {
+  "en": "<root0>Redeem this item in the Treasure Pavilion of certain Sects. Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root2>Herbs available in different sects are different.</root2>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root2>每个宗门可以兑换到的药材不同。</root2>",
+  "pt": "<root0>Resgate este item no Pavilhão do Tesouro de determinadas Seitas. Você pode obter este item por meio da <g>Alquimia</g> (necessita de <g>Receita de Elixir</g>, <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> também podem ser adquiridas no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root2>As Ervas disponíveis variam conforme a seita.</root2>"
+ },
+ "item_output_desc1011581": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName6}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName6}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> em <g>{#areaName6}</g>.</root3>"
+ },
+ "item_output_desc1011582": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName6}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName6}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coleta</g>das.</root1> <root2>Para fazer a <g>Coleta de uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName6}</g>.</root3>"
+ },
+ "item_output_desc1011583": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName6}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName6}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> de <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> de <g>{#areaName6}</g>.</root3>"
+ },
+ "item_output_desc1011584": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName6}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName6}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das diversas seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, é necessário primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName6}</g>.</root3>"
+ },
+ "item_output_desc1011585": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName6}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName6}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName6}</g>.</root3>"
+ },
+ "item_output_desc1011586": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName6}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName6}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName6}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName6}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName6}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName6}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName6}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName6}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> em <g>{#areaName6}</g>.</root3>"
+ },
+ "item_output_desc1011591": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das diversas seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> de <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011592": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas situadas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> de <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011593": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Para obter este item, você precisa utilizar <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> situados em <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011594": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coleta</g>das.</root1> <root2>Para <g>Coleta de uma Erva</g>, é preciso primeiro conhecer sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> de <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011595": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coleta</g>das.</root1> <root2>Para <g>Coleta uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011596": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> de <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011601": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011602": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Para obter este item, você precisa realizar <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, primeiro é preciso aprender sua respectiva <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> de <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011603": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, é preciso antes aprender sua respectiva <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> em <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011604": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário dispor da <g>Receita de Elixir</g>, da <g>Fornalha</g> e de algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> localizadas em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das diversas seitas situadas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, é necessário primeiro conhecer sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida nos <g>Mercados</g> de <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011605": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessária uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, primeiro é necessário aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011606": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName8}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName8}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased at <g>Markets</g> in <g>{#areaName8}</g>.</root3>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName8}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName8}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName8}</g>区域内的城镇的<g>坊市</g>中购买获得。</root3>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName8}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName8}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada nos <g>Mercados</g> em <g>{#areaName8}</g>.</root3>"
+ },
+ "item_output_desc1011621": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root3> <root4>As Prescrições disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011623": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser colhidas através da <g>Coleta</g>.</root1> <root2>Para fazer a <g>Coleta de uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root3> <root4>As Prescrições disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011624": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item por meio da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser previamente <g>Coletadas</g>.</root1> <root2>Para <g>Coletar uma Erva</g>, é preciso primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g></root3> <root4>As Prescrições disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011625": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (requer uma <g>Receita de Elixir</g>, uma <g>Fornalha</g> e algumas <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser coletadas.</root1> <root2>Para <g>Coleta de Erva</g>, é necessário primeiro aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root3> <root4>As <g>Prescrições</g> disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011626": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item por meio da <g>Alquimia</g> (é necessária a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser <g>Coleta</g>.</root1> <root2>Para fazer a <g>Coleta de uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g></root3> <root4>As Prescrições disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011631": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, uma <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser adquirida nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root3> <root4>As Prescrições disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011635": {
+  "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName10}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g>.</root1> <root1><g>Herbs</g> need to be <g>gathered</g>.</root1> <root2><g>Gathering an Herb</g> requires learning its <g>Prescription</g> first.</root2> <root3>Its <g>Prescription</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName10}</g></root3> <root4>Prescriptions available in different sects are different.</root4>",
+  "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName10}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>需要通过<g>采药</g>获得。</root1><root2><g>采药</g>需要先学习对应的<g>药谱</g>。</root2><root3><g>药谱</g>可在<g>{#areaName10}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root3><root4>每个宗门可以兑换到的药谱不同。</root4>",
+  "pt": "<root0>Obtenha este item através da <g>Alquimia</g> (é necessário ter a <g>Receita de Elixir</g>, a <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> em <g>{#areaName10}</g>.</root1> <root1>A <g>Fornalha</g> pode ser adquirida no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g>.</root1> <root1>As <g>Ervas</g> precisam ser <g>coletadas</g>.</root1> <root2>Para <g>coletar uma Erva</g>, primeiro é preciso aprender sua <g>Prescrição</g>.</root2> <root3>Sua <g>Prescrição</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas em <g>{#areaName10}</g></root3> <root4>As Prescrições disponíveis variam conforme a seita.</root4>"
+ },
+ "item_output_desc1011845": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName1}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName1}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName1}</g>).</root0>"
+ },
+ "item_output_desc1011855": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName2}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName2}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName2}</g>).</root0>"
+ },
+ "item_output_desc1011865": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName2}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName2}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vilas Grandes</g> em <g>{#areaName2}</g>).</root0>"
+ },
+ "item_output_desc1011875": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName2}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName2}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Grandes Vila</g> em <g>{#areaName2}</g>).</root0>"
+ },
+ "item_output_desc1011885": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName4}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName4}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName4}</g>).</root0>"
+ },
+ "item_output_desc1011895": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName4}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName4}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName4}</g>).</root0>"
+ },
+ "item_output_desc1011905": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName4}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName4}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vilas Grandes</g> em <g>{#areaName4}</g>).</root0>"
+ },
+ "item_output_desc1011915": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName4}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName4}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vila Grandes</g> em <g>{#areaName4}</g>).</root0>"
+ },
+ "item_output_desc1011925": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName6}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName6}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName6}</g>).</root0>"
+ },
+ "item_output_desc1011935": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName6}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName6}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName6}</g>).</root0>"
+ },
+ "item_output_desc1011945": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName6}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName6}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vilas Grandes</g> em <g>{#areaName6}</g>).</root0>"
+ },
+ "item_output_desc1011955": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName6}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName6}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vila Grandes</g> em <g>{#areaName6}</g>).</root0>"
+ },
+ "item_output_desc1011965": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName8}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName8}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName8}</g>).</root0>"
+ },
+ "item_output_desc1011975": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName8}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName8}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName8}</g>).</root0>"
+ },
+ "item_output_desc1011985": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName8}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName8}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vilas Grandes</g> em <g>{#areaName8}</g>).</root0>"
+ },
+ "item_output_desc1011995": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName8}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName8}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vilas Grandes</g> em <g>{#areaName8}</g>).</root0>"
+ },
+ "item_output_desc1012005": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName10}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName10}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName10}</g>).</root0>"
+ },
+ "item_output_desc1012015": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (Towns in <g>{#areaName10}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName10}</g>的城镇中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (Vilas em <g>{#areaName10}</g>).</root0>"
+ },
+ "item_output_desc1012025": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName10}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName10}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Grandes Vila</g> em <g>{#areaName10}</g>).</root0>"
+ },
+ "item_output_desc1012035": {
+  "en": "<root0>Purchase this item at <g>Markets</g> (<g>Big Towns</g> in <g>{#areaName10}</g>).</root0>",
+  "ch": "<root0>可在<g>{#areaName10}</g>的<g>大城镇</g>中的<g>坊市</g>中购买获得。</root0>",
+  "pt": "<root0>Compre este item nos <g>Mercados</g> (<g>Vilas Grandes</g> em <g>{#areaName10}</g>).</root0>"
+ },
+ "item_output_desc5031846": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) for a chance to obtain <g>Condensed Fire Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName8}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>火灵斗气碎片</g>。</root0><root1>在<g>{#areaName8}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗气。</root1>",
+  "nomes": {
+   "Fire Qi": "Qi de Fogo",
+   "Condensed Fire Qi": "Qi condensado do Fogo"
+  },
+  "pt": "<root0>Mate monstros em <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) para ter a chance de obter <g>Fragmentos de Qi Condensado de Fogo</g>.</root0> <root1>Os Fragmentos podem ser combinados nas <g>Oficinas</g> de diversas <g>Vilas</g> (<g>{#areaName8}</g>).</root1> <root1>Feras Míticas podem aparecer em <r>{#building1001Name1}</r>. Mate-as para obter Qi Condensado completo.</root1>"
+ },
+ "item_output_desc5031866": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) for a chance to obtain <g>Condensed Lightning Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName8}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>雷灵斗气碎片</g>。</root0><root1>在<g>{#areaName8}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗气。</root1>",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Qi": "Qi de Relâmpago",
+   "Condensed Lightning Qi": "Qi Condensado do Relâmpago"
+  },
+  "pt": "<root0>Mate monstros na <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) para ter a chance de obter <g>Fragmentos de Qi Condensado de Relâmpago</g>.</root0> <root1>Os Fragmentos podem ser combinados nas <g>Oficinas</g> de diversas <g>Vilas</g> (<g>{#areaName8}</g>).</root1> <root1>Feras Míticas podem aparecer em <r>{#building1001Name1}</r>. Mate-as para conseguir Qi Condensado completo.</root1>"
+ },
+ "item_output_desc5031876": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) for a chance to obtain <g>Condensed Wind Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName8}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>风灵斗气碎片</g>。</root0><root1>在<g>{#areaName8}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗气。</root1>",
+  "nomes": {
+   "Wind Qi": "Qi de Vento",
+   "Condensed Wind Qi": "Qi Condensado do Vento"
+  },
+  "pt": "<root0>Mate monstros na <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) para ter a chance de obter <g>Fragmentos de Qi Condensado de Vento</g>.</root0> <root1>Os Fragmentos podem ser combinados nas <g>Oficinas</g> de várias <g>Vilas</g> (<g>{#areaName8}</g>).</root1> <root1>Feras Míticas podem aparecer em <r>{#building1001Name1}</r>. Mate-as para conseguir Qi Condensado completo.</root1>"
+ },
+ "item_output_desc5031906": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) for a chance to obtain <g>Condensed Fire Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName10}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName10}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>火灵斗珠碎片</g>。</root0><root1>在<g>{#areaName10}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗珠。</root1>",
+  "nomes": {
+   "Fire Qi": "Qi de Fogo",
+   "Fire Qi Orb": "Orbe de Qi do Fogo",
+   "Condensed Fire Qi": "Qi condensado do Fogo",
+   "Condensed Fire Qi Orb": "Orbe de Qi Condensado do Fogo"
+  },
+  "pt": "<root0>Mate monstros na <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) para ter a chance de obter <g>Fragmentos de Orbe de Qi Condensado de Fogo</g>.</root0> <root1>Os Fragmentos podem ser combinados nas <g>Oficinas</g> de várias <g>Vilas</g> (<g>{#areaName10}</g>).</root1> <root1>Feras Míticas podem aparecer em <r>{#building1001Name1}</r>. Mate-as para obter Orbes de Qi Condensado completos.</root1>"
+ },
+ "item_output_desc5031916": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) for a chance to obtain <g>Condensed Water Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName10}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName10}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>水灵斗珠碎片</g>。</root0><root1>在<g>{#areaName10}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗珠。</root1>",
+  "nomes": {
+   "Water Qi": "Qi de Água",
+   "Water Qi Orb": "Orbe de Qi da Água",
+   "Condensed Water Qi": "Qi Condensado da Água",
+   "Condensed Water Qi Orb": "Orbe de Qi da Água Condensada"
+  },
+  "pt": "<root0>Mate monstros em <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) para ter a chance de conseguir <g>Fragmentos do Orbe de Qi Condensado da Água</g>.</root0> <root1>Os Fragmentos podem ser combinados nas <g>Oficinas</g> de diversas <g>Vilas</g> (<g>{#areaName10}</g>).</root1> <root1>Feras Míticas podem aparecer em <r>{#building1001Name1}</r>. Mate-as para obter Orbes de Qi Condensado completos.</root1>"
+ },
+ "item_output_desc5031926": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) for a chance to obtain <g>Condensed Lightning Qi Orb Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName10}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi Orbs.</root1>",
+  "ch": "<root0>在<g>{#areaName10}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>雷灵斗珠碎片</g>。</root0><root1>在<g>{#areaName10}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗珠。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗珠。</root1>",
+  "nomes": {
+   "Lightning": "Relâmpago",
+   "Lightning Qi": "Qi de Relâmpago",
+   "Lightning Qi Orb": "Orbe de Qi do Relâmpago",
+   "Condensed Lightning Qi": "Qi Condensado do Relâmpago",
+   "Condensed Lightning Qi Orb": "Orbe de Qi do Relâmpago Condensada"
+  },
+  "pt": "<root0>Mate monstros em <r>{#building1001Name1}</r> (<g>{#areaName10}</g>) para ter a chance de obter <g>Fragmentos de Orbe de Qi Condensado contendo Relâmpago</g>.</root0> <root1>Os Fragmentos podem ser combinados nas <g>Oficinas</g> de diversas <g>Vilas</g> (<g>{#areaName10}</g>).</root1> <root1>Feras Míticas podem aparecer em <r>{#building1001Name1}</r>. Mate-as para obter Orbes de Qi Condensado completos.</root1>"
+ },
+ "item_output_desc5081015": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName2}</g>). Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem aparecer em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName2}</g>). Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081025": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) para ter uma pequena chance de conseguir este item.</root0>"
+ },
+ "item_output_desc5081035": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081045": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) para ter uma pequena chance de conseguir este item.</root0>"
+ },
+ "item_output_desc5081055": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081065": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName2}</g>) para ter grandes chances de obter este item.</root0>"
+ },
+ "item_output_desc5081075": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <g>{#areaName3}</g>. Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName3}</g>区域内的有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem surgir em <g>{#areaName3}</g>. Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081085": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081095": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma pequena chance de obter esse item.</root0>"
+ },
+ "item_output_desc5081105": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081115": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081125": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081135": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081145": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName3}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName3}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName3}</g> para ter uma grande chance de obter esse item.</root0>"
+ },
+ "item_output_desc5081155": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>). Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem aparecer em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>). Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081165": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081175": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081185": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma pequena chance de conseguir este item.</root0>"
+ },
+ "item_output_desc5081195": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081205": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081215": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081225": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081235": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter grandes chances de obter este item.</root0>"
+ },
+ "item_output_desc5081245": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName4}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName4}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081255": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <g>{#areaName5}</g>. Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName5}</g>区域内的有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem aparecer em <g>{#areaName5}</g>. Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081265": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081275": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081285": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081295": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081305": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma grande chance de obter esse item.</root0>"
+ },
+ "item_output_desc5081315": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma grande chance de obter esse item.</root0>"
+ },
+ "item_output_desc5081325": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName5}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName5}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName5}</g> para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081335": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>). Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem aparecer em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>). Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081345": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081355": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081365": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081375": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081385": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081395": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081405": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081415": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081425": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081435": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter grandes chances de obter este item.</root0>"
+ },
+ "item_output_desc5081445": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name7}</r> and <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName6}</g>区域内的<r>{#building1001Name7}</r>、<r>{#building1001Name8}</r>中有出现的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name7}</r> e <r>{#building1001Name8}</r> (<g>{#areaName6}</g>) para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081455": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <g>{#areaName7}</g>. Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName7}</g>区域内的有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem aparecer em <g>{#areaName7}</g>. Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081465": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081475": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081485": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma pequena chance de obter esse item.</root0>"
+ },
+ "item_output_desc5081495": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081505": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081515": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081525": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <g>{#areaName7}</g> for a large chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName7}</g>区域内的<g>大妖兽</g>时有大概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <g>{#areaName7}</g> para ter uma grande chance de obter este item.</root0>"
+ },
+ "item_output_desc5081535": {
+  "en": "<root0><g>Mythical Beast Lords</g> may spawn in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName8}</g>). Kill <g>Mythical Beast Lords</g> to obtain this item.</root0>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有概率会出现<g>大妖兽之王</g>，击杀<g>大妖兽之王</g>可掉落获得。</root0>",
+  "pt": "<root0><g>Senhores das Feras Míticas</g> podem aparecer em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName8}</g>). Mate os <g>Senhores das Feras Míticas</g> para obter este item.</root0>"
+ },
+ "item_output_desc5081545": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081555": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) para ter uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081565": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Matar <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) dá uma pequena chance de obter este item.</root0>"
+ },
+ "item_output_desc5081575": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) para ter uma pequena chance de obter esse item.</root0>"
+ },
+ "item_output_desc5081585": {
+  "en": "<root0>Kill <g>Mythical Beasts</g> in <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r>, and <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) for a small chance to obtain this item.</root0>",
+  "ch": "<root0>击杀在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>、<r>{#building1001Name2}</r>、<r>{#building1001Name3}</r>、<r>{#building1001Name4}</r>、<r>{#building1001Name5}</r>、<r>{#building1001Name6}</r>中有出现的<g>大妖兽</g>时有小概率掉落获得。</root0>",
+  "pt": "<root0>Mate <g>Feras Míticas</g> em <r>{#building1001Name1}</r>, <r>{#building1001Name2}</r>, <r>{#building1001Name3}</r>, <r>{#building1001Name4}</r>, <r>{#building1001Name5}</r> e <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) para ter uma pequena chance de conseguir este item.</root0>"
+ }
+}

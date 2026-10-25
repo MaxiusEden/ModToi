@@ -39,3 +39,32 @@ Instruções para a sessão do Claude Code na nuvem que traduz os lotes desta pa
   - Faça um lote por vez, na ordem, com commit e push ao fim de cada um, como nos anteriores.
   - **Pare depois de cada 5 lotes** (05, 10, 15, 20, 25) e espere o usuário mandar continuar: ele confere o crédito entre um bloco e outro.
   - Em lotes grandes, grave a saída em partes se precisar, mas o `out_restoNN.json` final tem todas as chaves do lote, na ordem.
+  - Feitos em 2026-10-25.
+- `src_extra.json` (11 entradas): as últimas que o tradutor local errou. Traduza como os outros lotes, com `out_extra.json` e `relatorio_extra.md`.
+
+## Revisão das traduções do tradutor local (`traducao/nuvem/revisao/`)
+
+`revisao/src_revNN.json` (47 lotes, 31.961 entradas; 01–17 interface, 18–47 narrativas) traz, além de `en`, `ch` e `nomes`, o campo `pt`: a tradução que o tradutor local (Hy-MT2) fez e que já passou na validação automática de marcadores. A tarefa é revisar, não retraduzir.
+
+1. Para cada entrada, compare `pt` com `en` (e `ch` quando ajudar) e corrija só o que estiver errado:
+   - sentido trocado, omitido ou inventado;
+   - termo do glossário obrigatório trocado, ou nome dado em `nomes` diferente;
+   - tratamento errado ("tu", "te", "ti", "vos" no lugar de "você"; pessoa diferente do `en`);
+   - maiúscula a mais no meio da frase, alternativas com barra, trecho deixado em inglês;
+   - erro de concordância ou português que soa a tradução de máquina.
+   Se a tradução estiver aceitável, deixe como está: não reescreva por estilo.
+2. Grave `revisao/out_revNN.json` só com as entradas corrigidas: `{"chave": "tradução corrigida"}`, na ordem do lote. Se nada precisar de correção, grave `{}`.
+3. Rode o verificador no modo parcial e corrija todo `ERRO`:
+
+   ```bash
+   python tools/ptbr/nuvem_checar.py --parcial traducao/nuvem/revisao/src_revNN.json traducao/nuvem/revisao/out_revNN.json
+   ```
+
+4. Escreva `revisao/relatorio_revNN.md` (no máximo 15 linhas): quantas entradas corrigiu, os tipos de erro mais comuns e as dúvidas de termo.
+5. Faça commit só de `out_revNN.json` e `relatorio_revNN.md` (`Revisa revNN na nuvem`) e push.
+
+Os lotes são independentes e podem ser feitos em paralelo, cada um por uma thread. A ordem de prioridade é a numérica: interface antes de narrativa.
+
+## Consistência de termos
+
+`revisao/relatorio_consistencia.md`: uma lista das variações de tradução de um mesmo termo entre as saídas da nuvem (`out_*.json` e `revisao/out_rev*.json`), por exemplo "Sopro" e "Respiração", ou "fera sagrada" e "fera lendária". Para cada termo: as variantes, quantas vezes cada uma aparece e a sugestão de unificação segundo o glossário. Só o relatório; não altere as traduções por isso.

@@ -1,0 +1,5179 @@
+{
+ "schoolMap_tip2": {
+  "en": "Sect Takeover Gameplay Rules\n\nThe Sect Leader can open up the Sect sandbox in the Sect Council Hall.\nClick on a resource point in the sandbox and details about that resource point will appear.\nIf the resource point can be attacked, the attack button will be displayed in the lower right corner.\nA resource point will be protected for 6 months after it is taken for the first time.\nThe resource point is protected from further attacks for 2 months whether the attack was successful or not.\n\nAfter the Sect Leader clicks the attack button, an attack selection window will pop up if there are enough resources and people.\nWhen choosing to attack a stronghold, a certain amount of Sect resources will have to be consumed based on the distance to the resource point.\nThe attack on the resource point will commence officially 2 months after member selection is complete.\nIf there is a player selected as the attacking character when attacking, an attack notice will pop up after 2 months.\nClick to confirm and enter the Takeover Battlefield.\n\nTakeover Battlefield Rules\n\nOn the Takeover Battlefield, the red side is the attacking side and the green side is the defending side.\nThe time limit for takeover is 5 minutes.\nSeveral strongholds will be created on the battlefield based on the size of the resource point.\nWhen there is only one character in the stronghold, the power of the stronghold will lean towards that side.\nThe max power of a stronghold is 100 points.\n\nTo win|n\nThe attacking side has to turn all strongholds red within 5 minutes for a successful takeover.\nIf time runs out on the battlefield, the defense is successful.\n\nTakeover Benefits\n\nAfter taking over a resource point, you get Sect resources regularly every month and also get special output from different resource points, which are produced and put on the Sect treasure shelf, and disciples can exchange Sect Contribution points to obtain them.",
+  "ch": "宗门占领战玩法说明\n\n宗门宗主可以在宗门议事大厅界面打开宗门沙盘。\n点击沙盘上的资源点，会出现该资源点的详细信息。\n若该资源点可以被进攻，则右下角会显示进攻按钮。\n资源点首次被占领后会有6个月的保护期无法被进攻。\n资源点再次被攻打无论成功与否都会进入2个月的保护期无法被进攻。\n\n宗主点击进攻按钮后，若资源和人数足够会弹出进攻选员界面。\n选择进攻据点时，根据与资源点的距离需要消耗一定的宗门资源。\n选员结束后2个月后会正式开始进攻该资源点。\n若进攻时有选择到玩家为进攻角色，则会在2个月后弹出进攻提示弹窗。\n点击确认进入占领战场。\n\n占领战场规则\n\n占领战场中，红方为进攻方，绿方为防守方。\n占领战场限时5分钟。\n战场中根据资源点的规模会生成若干据点。\n当据点中有且只有一方角色时，据点的势力值会向该方倾斜。\n据点的势力值最大100点。\n\n胜负条件\n\n进攻方在5分钟内使所有据点颜色转变为红色。则占领成功。\n战场时间耗尽，则防守成功。\n\n占领收益\n\n占领资源点后除了每月会定期获得宗门资源外，还会根据不同的资源点有独特的产出产出至宗门藏宝阁中，弟子们可以使用宗门贡献换取。",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "Regras de Gameplay da Tomada de Controle\n\nO Líder da Seita pode abrir o ambiente de simulação da Seita no Salão do Conselho da Seita.\nClique em um ponto de recurso no ambiente de simulação; os detalhes desse ponto serão exibidos.\nSe o ponto de recurso puder ser atacado, o botão de ataque aparecerá no canto inferior direito.\nUm ponto de recurso fica protegido por 6 meses após ser tomado pela primeira vez.\nAlém disso, permanece protegido de novos ataques por 2 meses, independentemente do sucesso ou não do ataque.\n\nApós o Líder da Seita clicar no botão de ataque, uma janela de seleção de ataque se abre caso haja recursos e discípulos suficientes.\nAo optar por atacar uma fortaleza, uma certa quantidade de recursos da Seita será consumida, dependendo da distância até o ponto de recurso.\nO ataque ao ponto de recurso só terá início oficialmente 2 meses após a seleção dos membros.\nSe um jogador tiver sido escolhido como personagem atacante, uma notificação de ataque será exibida após esse período.\nClique para confirmar e acessar o Campo de Batalha da Tomada de Controle.\n\nRegras do Campo de Batalha da Tomada de Controle\n\nNo Campo de Batalha da Tomada de Controle, o lado vermelho representa os atacantes e o lado verde, os defensores.\nO tempo limite para a tomada é de 5 minutos.\nDiversas fortalezas são criadas no campo com base no tamanho do ponto de recurso.\nQuando há apenas um personagem em uma fortaleza, o poder dessa fortaleza fica sob o controle daquele lado.\nO poder máximo de uma fortaleza equivale a 100 pontos.\n\nPara vencer|n\nOs atacantes precisam tornar todas as fortalezas vermelhas em 5 minutos para que a tomada seja bem-sucedida.\nCaso o tempo se esgote no campo de batalha, a defesa será considerada bem-sucedida.\n\nBenefícios da Tomada de Controle\n\nApós tomarem um ponto de recurso, as Seitas recebem recursos mensalmente, além de obterem produção especial proveniente dos diferentes pontos de recurso. Essa produção é armazenada na prateleira de tesouros da Seita, onde os discípulos podem trocar pontos de Contribuição da Seita para adquiri-la."
+ },
+ "schoolMap_warTips1": {
+  "en": "Declare war on {0}?",
+  "ch": "确认向{0}宣战吗？",
+  "pt": "Declarar guerra a {0}?"
+ },
+ "schoolMap_warTips2": {
+  "en": "Friendly Sects of the Target will develop intense hatred towards your Sect.\nWhen war breaks out, all garrisoned Disciples must be recalled to fight in the Sect War. Resource Points may be lost in the fighting.\nDeployed troops can use Sect resources to forge Energy Cannons and break enemy formations.\nCauses reduction in Sect Prestige and Reputation and inflicts Disciple casualties.",
+  "ch": "对方的友好宗门会对自己的宗门产出极大的仇恨度。\n开战需要召回所有驻守的弟子参与宗门战，可能会被乘虚占领资源点。\n出兵需要消耗大量宗门资源来炼制灵力炮破开对方大阵。\n将造成宗门名誉、自身声望下降，造成弟子伤亡。",
+  "pt": "As Seitas amigas do alvo desenvolverão um ódio intenso em relação à sua Seita.  \nQuando a guerra começar, todos os Discípulos lotados devem ser chamados de volta para lutar na Guerra das Seitas. Pontos de recursos podem ser perdidos durante os combates.  \nAs tropas destacadas podem usar os recursos da Seita para forjar Canhões de Energia e quebrar as formações inimigas.  \nIsso resulta na redução do Prestígio e da Reputação da Seita, além de causar baixas entre os Discípulos."
+ },
+ "schoolMap_yingxiang": {
+  "en": "Influence",
+  "ch": "影响力",
+  "pt": "Influência"
+ },
+ "schoolMap_zhushou": {
+  "en": "Resident Member",
+  "ch": "驻守成员",
+  "pt": "Membro Residente"
+ },
+ "schoolNameFirst1": {
+  "en": "Zheng",
+  "ch": "正",
+  "pt": "Zheng"
+ },
+ "schoolNameFirst10": {
+  "en": "Meng",
+  "ch": "梦",
+  "pt": "Meng"
+ },
+ "schoolNameFirst101": {
+  "en": "Real ",
+  "ch": "正",
+  "pt": "Real "
+ },
+ "schoolNameFirst102": {
+  "en": "Major ",
+  "ch": "御",
+  "pt": "Major "
+ },
+ "schoolNameFirst103": {
+  "en": "Right ",
+  "ch": "律",
+  "pt": "Correto "
+ },
+ "schoolNameFirst104": {
+  "en": "Refined ",
+  "ch": "炼",
+  "pt": "Refinado "
+ },
+ "schoolNameFirst105": {
+  "en": "Sacred ",
+  "ch": "圣",
+  "pt": "Sagrado "
+ },
+ "schoolNameFirst106": {
+  "en": "Slash ",
+  "ch": "斩",
+  "pt": "Barra "
+ },
+ "schoolNameFirst107": {
+  "en": "Perfect ",
+  "ch": "极",
+  "pt": "Perfeito "
+ },
+ "schoolNameFirst108": {
+  "en": "Frozen ",
+  "ch": "凝",
+  "pt": "Congelado "
+ },
+ "schoolNameFirst109": {
+  "en": "Illusive ",
+  "ch": "幻",
+  "pt": "Ilusório "
+ },
+ "schoolNameFirst11": {
+  "en": "Dang",
+  "ch": "荡",
+  "pt": "Dang"
+ },
+ "schoolNameFirst111": {
+  "en": "Clear ",
+  "ch": "荡",
+  "pt": "Claro "
+ },
+ "schoolNameFirst112": {
+  "en": "Tangled ",
+  "ch": "缠",
+  "pt": "Emaranhado "
+ },
+ "schoolNameFirst113": {
+  "en": "Hidden ",
+  "ch": "藏",
+  "pt": "Oculto "
+ },
+ "schoolNameFirst114": {
+  "en": "Dim ",
+  "ch": "黯",
+  "pt": "Dom "
+ },
+ "schoolNameFirst115": {
+  "en": "Vigilant ",
+  "ch": "惊",
+  "pt": "Vigilante "
+ },
+ "schoolNameFirst116": {
+  "en": "Surreal ",
+  "ch": "妄",
+  "pt": "Surreal "
+ },
+ "schoolNameFirst117": {
+  "en": "Dominant ",
+  "ch": "霸",
+  "pt": "Dominante "
+ },
+ "schoolNameFirst118": {
+  "en": "Gray ",
+  "ch": "苍",
+  "pt": "Cinza "
+ },
+ "schoolNameFirst119": {
+  "en": "Resonant ",
+  "ch": "鸣",
+  "pt": "Resonante "
+ },
+ "schoolNameFirst12": {
+  "en": "Chan",
+  "ch": "缠",
+  "pt": "Chan"
+ },
+ "schoolNameFirst120": {
+  "en": "Fervid ",
+  "ch": "狂",
+  "pt": "Ebulição "
+ },
+ "schoolNameFirst121": {
+  "en": "Fierce ",
+  "ch": "震",
+  "pt": "Feroz "
+ },
+ "schoolNameFirst122": {
+  "en": "Arcane ",
+  "ch": "玄",
+  "pt": "Arcano "
+ },
+ "schoolNameFirst123": {
+  "en": "Divine ",
+  "ch": "神",
+  "pt": "Divino "
+ },
+ "schoolNameFirst124": {
+  "en": "Winged ",
+  "ch": "鸿",
+  "pt": "Alado "
+ },
+ "schoolNameFirst125": {
+  "en": "Heavenly ",
+  "ch": "天",
+  "pt": "Celestial "
+ },
+ "schoolNameFirst126": {
+  "en": "Ultimate ",
+  "ch": "太",
+  "pt": "Supremo "
+ },
+ "schoolNameFirst127": {
+  "en": "Infinite ",
+  "ch": "万",
+  "pt": "Infinito "
+ },
+ "schoolNameFirst128": {
+  "en": "Sharp ",
+  "ch": "灵",
+  "pt": "Sharp "
+ },
+ "schoolNameFirst129": {
+  "en": "Ruby ",
+  "ch": "丹",
+  "pt": "Ruby "
+ },
+ "schoolNameFirst13": {
+  "en": "Cang",
+  "ch": "藏",
+  "pt": "Cang"
+ },
+ "schoolNameFirst130": {
+  "en": "Pale ",
+  "ch": "白",
+  "pt": "Pálido "
+ },
+ "schoolNameFirst131": {
+  "en": "Golden ",
+  "ch": "金",
+  "pt": "Dourado "
+ },
+ "schoolNameFirst132": {
+  "en": "Inky ",
+  "ch": "墨",
+  "pt": "Inky "
+ },
+ "schoolNameFirst133": {
+  "en": "Bright ",
+  "ch": "锦",
+  "pt": "Brilhante "
+ },
+ "schoolNameFirst134": {
+  "en": "Cyan ",
+  "ch": "碧",
+  "pt": "Ciano "
+ },
+ "schoolNameFirst135": {
+  "en": "Azure ",
+  "ch": "青",
+  "pt": "Azure "
+ },
+ "schoolNameFirst136": {
+  "en": "Violet ",
+  "ch": "紫",
+  "pt": "Violeta "
+ },
+ "schoolNameFirst137": {
+  "en": "Calm ",
+  "ch": "止",
+  "pt": "Calmo "
+ },
+ "schoolNameFirst138": {
+  "en": "Serene ",
+  "ch": "定",
+  "pt": "Sereno "
+ },
+ "schoolNameFirst139": {
+  "en": "Soaring ",
+  "ch": "凌",
+  "pt": "Ascensão "
+ },
+ "schoolNameFirst14": {
+  "en": "An",
+  "ch": "黯",
+  "pt": "An"
+ },
+ "schoolNameFirst140": {
+  "en": "Focused ",
+  "ch": "慎",
+  "pt": "Focado "
+ },
+ "schoolNameFirst141": {
+  "en": "Arcane ",
+  "ch": "玄",
+  "pt": "Arcano "
+ },
+ "schoolNameFirst142": {
+  "en": "Holding ",
+  "ch": "揽",
+  "pt": "Holding "
+ },
+ "schoolNameFirst143": {
+  "en": "Subtle ",
+  "ch": "妙",
+  "pt": "Sutil "
+ },
+ "schoolNameFirst144": {
+  "en": "Watchful ",
+  "ch": "观",
+  "pt": "Vigilante "
+ },
+ "schoolNameFirst15": {
+  "en": "Jing",
+  "ch": "惊",
+  "pt": "Jing"
+ },
+ "schoolNameFirst155": {
+  "en": "Focused ",
+  "ch": "慎",
+  "pt": "Focado "
+ },
+ "schoolNameFirst156": {
+  "en": "Calm ",
+  "ch": "止",
+  "pt": "Calmo "
+ },
+ "schoolNameFirst157": {
+  "en": "Serene ",
+  "ch": "定",
+  "pt": "Sereno "
+ },
+ "schoolNameFirst158": {
+  "en": "Soaring ",
+  "ch": "凌",
+  "pt": "Em ascensão "
+ },
+ "schoolNameFirst159": {
+  "en": "Dragon",
+  "ch": "御",
+  "pt": "Dragão"
+ },
+ "schoolNameFirst16": {
+  "en": "Wang",
+  "ch": "妄",
+  "pt": "Wang"
+ },
+ "schoolNameFirst160": {
+  "en": "Arcane ",
+  "ch": "玄",
+  "pt": "Arcano "
+ },
+ "schoolNameFirst161": {
+  "en": "Holding ",
+  "ch": "揽",
+  "pt": "Holding "
+ },
+ "schoolNameFirst162": {
+  "en": "Subtle ",
+  "ch": "妙",
+  "pt": "Sutil "
+ },
+ "schoolNameFirst17": {
+  "en": "Ba",
+  "ch": "霸",
+  "pt": "Ba"
+ },
+ "schoolNameFirst18": {
+  "en": "Cang",
+  "ch": "苍",
+  "pt": "Cang"
+ },
+ "schoolNameFirst19": {
+  "en": "Ming",
+  "ch": "鸣",
+  "pt": "Ming"
+ },
+ "schoolNameFirst2": {
+  "en": "Yu",
+  "ch": "御",
+  "pt": "Yu"
+ },
+ "schoolNameFirst20": {
+  "en": "Kuang",
+  "ch": "狂",
+  "pt": "Kuang"
+ },
+ "schoolNameFirst21": {
+  "en": "Zhen",
+  "ch": "震",
+  "pt": "Zhen"
+ },
+ "schoolNameFirst22": {
+  "en": "Xuan",
+  "ch": "玄",
+  "pt": "Xuan"
+ },
+ "schoolNameFirst23": {
+  "en": "Shen",
+  "ch": "神",
+  "pt": "Shen"
+ },
+ "schoolNameFirst24": {
+  "en": "Hong",
+  "ch": "鸿",
+  "pt": "Hong"
+ },
+ "schoolNameFirst25": {
+  "en": "Tian",
+  "ch": "天",
+  "pt": "Tian"
+ },
+ "schoolNameFirst26": {
+  "en": "Tai",
+  "ch": "太",
+  "pt": "Tai"
+ },
+ "schoolNameFirst27": {
+  "en": "Wan",
+  "ch": "万",
+  "pt": "Wan"
+ },
+ "schoolNameFirst28": {
+  "en": "Ling",
+  "ch": "灵",
+  "pt": "Ling"
+ },
+ "schoolNameFirst29": {
+  "en": "Dan",
+  "ch": "丹",
+  "pt": "Dan"
+ },
+ "schoolNameFirst3": {
+  "en": "Lu",
+  "ch": "律",
+  "pt": "Lu"
+ },
+ "schoolNameFirst30": {
+  "en": "Bai",
+  "ch": "白",
+  "pt": "Bai"
+ },
+ "schoolNameFirst31": {
+  "en": "Jin",
+  "ch": "金",
+  "pt": "Jin"
+ },
+ "schoolNameFirst32": {
+  "en": "Mo",
+  "ch": "墨",
+  "pt": "Mo"
+ },
+ "schoolNameFirst33": {
+  "en": "Jin",
+  "ch": "锦",
+  "pt": "Jin"
+ },
+ "schoolNameFirst34": {
+  "en": "Bi",
+  "ch": "碧",
+  "pt": "Bi"
+ },
+ "schoolNameFirst35": {
+  "en": "Qing",
+  "ch": "青",
+  "pt": "Qing"
+ },
+ "schoolNameFirst36": {
+  "en": "Zi",
+  "ch": "紫",
+  "pt": "Zi"
+ },
+ "schoolNameFirst37": {
+  "en": "Zhi",
+  "ch": "止",
+  "pt": "Zhi"
+ },
+ "schoolNameFirst38": {
+  "en": "Ding",
+  "ch": "定",
+  "pt": "Ding"
+ },
+ "schoolNameFirst39": {
+  "en": "Ling",
+  "ch": "凌",
+  "pt": "Ling"
+ },
+ "schoolNameFirst4": {
+  "en": "Lian",
+  "ch": "炼",
+  "pt": "Lian"
+ },
+ "schoolNameFirst40": {
+  "en": "Shen",
+  "ch": "慎",
+  "pt": "Shen"
+ },
+ "schoolNameFirst41": {
+  "en": "Xuan",
+  "ch": "玄",
+  "pt": "Xuan"
+ },
+ "schoolNameFirst42": {
+  "en": "Lan",
+  "ch": "揽",
+  "pt": "Lan"
+ },
+ "schoolNameFirst43": {
+  "en": "Miao",
+  "ch": "妙",
+  "pt": "Miao"
+ },
+ "schoolNameFirst44": {
+  "en": "Guan",
+  "ch": "观",
+  "pt": "Guan"
+ },
+ "schoolNameFirst5": {
+  "en": "Sheng",
+  "ch": "圣",
+  "pt": "Sheng"
+ },
+ "schoolNameFirst51": {
+  "en": "Qian",
+  "ch": "乾",
+  "pt": "Qian"
+ },
+ "schoolNameFirst52": {
+  "en": "Kan",
+  "ch": "坎",
+  "pt": "Kan"
+ },
+ "schoolNameFirst53": {
+  "en": "Gen",
+  "ch": "艮",
+  "pt": "Gen"
+ },
+ "schoolNameFirst54": {
+  "en": "Zhen",
+  "ch": "震",
+  "pt": "Zhen"
+ },
+ "schoolNameFirst55": {
+  "en": "Xun",
+  "ch": "巽",
+  "pt": "Xun"
+ },
+ "schoolNameFirst56": {
+  "en": "Li",
+  "ch": "离",
+  "pt": "Li"
+ },
+ "schoolNameFirst57": {
+  "en": "Kun",
+  "ch": "坤",
+  "pt": "Kun"
+ },
+ "schoolNameFirst58": {
+  "en": "Dui",
+  "ch": "兑",
+  "pt": "Dui"
+ },
+ "schoolNameFirst59": {
+  "en": "Yu",
+  "ch": "御",
+  "pt": "Yu"
+ },
+ "schoolNameFirst6": {
+  "en": "Zhan",
+  "ch": "斩",
+  "pt": "Zhan"
+ },
+ "schoolNameFirst60": {
+  "en": "Qian",
+  "ch": "乾",
+  "pt": "Qian"
+ },
+ "schoolNameFirst61": {
+  "en": "Kan",
+  "ch": "坎",
+  "pt": "Kan"
+ },
+ "schoolNameFirst62": {
+  "en": "Gen",
+  "ch": "艮",
+  "pt": "Gen"
+ },
+ "schoolNameFirst63": {
+  "en": "Zhen",
+  "ch": "震",
+  "pt": "Zhen"
+ },
+ "schoolNameFirst64": {
+  "en": "Xun",
+  "ch": "巽",
+  "pt": "Xun"
+ },
+ "schoolNameFirst65": {
+  "en": "Li",
+  "ch": "离",
+  "pt": "Li"
+ },
+ "schoolNameFirst66": {
+  "en": "Kun",
+  "ch": "坤",
+  "pt": "Kun"
+ },
+ "schoolNameFirst67": {
+  "en": "Dui",
+  "ch": "兑",
+  "pt": "Dui"
+ },
+ "schoolNameFirst7": {
+  "en": "Ji",
+  "ch": "极",
+  "pt": "Ji"
+ },
+ "schoolNameFirst8": {
+  "en": "Ning",
+  "ch": "凝",
+  "pt": "Ning"
+ },
+ "schoolNameFirst9": {
+  "en": "Huan",
+  "ch": "幻",
+  "pt": "Huan"
+ },
+ "schoolNameFirstFinal151": {
+  "en": "Ultimate ",
+  "ch": "太",
+  "pt": "Supremo "
+ },
+ "schoolNameFirstFinal152": {
+  "en": "Ultimate ",
+  "ch": "太",
+  "pt": "Supremo "
+ },
+ "schoolNameFirstFinal153": {
+  "en": "Nine ",
+  "ch": "九",
+  "pt": "Nove "
+ },
+ "schoolNameFirstFinal154": {
+  "en": "Thousand ",
+  "ch": "千",
+  "pt": "Milhares "
+ },
+ "schoolNameFirstFinal164": {
+  "en": "Slash ",
+  "ch": "斩",
+  "pt": "Barra "
+ },
+ "schoolNameFirstFinal165": {
+  "en": "Crimson ",
+  "ch": "赤",
+  "pt": "Carmesim "
+ },
+ "schoolNameFirstFinal166": {
+  "en": "Gray ",
+  "ch": "苍",
+  "pt": "Cinza "
+ },
+ "schoolNameFirstFinal167": {
+  "en": "Dense ",
+  "ch": "绛",
+  "pt": "Denso "
+ },
+ "schoolNameFirstFinal168": {
+  "en": "Heavenly ",
+  "ch": "天",
+  "pt": "Celestial "
+ },
+ "schoolNameFirstFinal169": {
+  "en": "Heavenly ",
+  "ch": "天",
+  "pt": "Celestial "
+ },
+ "schoolNameFirstFinal170": {
+  "en": "Sharp ",
+  "ch": "灵",
+  "pt": "Sharp "
+ },
+ "schoolNameFirstFinal171": {
+  "en": "Soaring ",
+  "ch": "凌",
+  "pt": "Disparando para cima "
+ },
+ "schoolNameFirstFinal51": {
+  "en": "Ultimate ",
+  "ch": "太",
+  "pt": "Supremo "
+ },
+ "schoolNameFirstFinal52": {
+  "en": "Ultimate ",
+  "ch": "太",
+  "pt": "Supremo "
+ },
+ "schoolNameFirstFinal53": {
+  "en": "Nine ",
+  "ch": "九",
+  "pt": "Nove "
+ },
+ "schoolNameFirstFinal54": {
+  "en": "Thousand ",
+  "ch": "千",
+  "pt": "Mil "
+ },
+ "schoolNameFirstFinal64": {
+  "en": "Slash ",
+  "ch": "斩",
+  "pt": "Barra "
+ },
+ "schoolNameFirstFinal65": {
+  "en": "Crimson ",
+  "ch": "赤",
+  "pt": "Carmesim "
+ },
+ "schoolNameFirstFinal66": {
+  "en": "Gray ",
+  "ch": "苍",
+  "pt": "Cinza "
+ },
+ "schoolNameFirstFinal67": {
+  "en": "Dense ",
+  "ch": "绛",
+  "pt": "Denso "
+ },
+ "schoolNameFirstFinal68": {
+  "en": "Heavenly ",
+  "ch": "天",
+  "pt": "Celestial "
+ },
+ "schoolNameFirstFinal69": {
+  "en": "Heavenly ",
+  "ch": "天",
+  "pt": "Celestial "
+ },
+ "schoolNameFirstFinal70": {
+  "en": "Sharp ",
+  "ch": "灵",
+  "pt": "Sharp "
+ },
+ "schoolNameFirstFinal71": {
+  "en": "Soaring ",
+  "ch": "凌",
+  "pt": "Disparando para cima "
+ },
+ "schoolNameFix_tip": {
+  "en": "<color=#DB0000>Only the Sect rules can be modified. The Sect will automatically generate new Purpose based on rules and traits.</color>",
+  "ch": "<color=#DB0000>只可修改门规，宗门会根据门规及特质自动生成新的宗旨</color>",
+  "pt": "<color=#DB0000>Apenas as regras da Seita podem ser modificadas. A Seita gerará automaticamente novos Propósitos com base nas regras e características.</color>"
+ },
+ "schoolNameSecond1": {
+  "en": "Hun",
+  "ch": "魂",
+  "pt": "Hun"
+ },
+ "schoolNameSecond10": {
+  "en": "Ji",
+  "ch": "寂",
+  "pt": "Ji"
+ },
+ "schoolNameSecond101": {
+  "en": "Soul",
+  "ch": "魂",
+  "pt": "Alma"
+ },
+ "schoolNameSecond102": {
+  "en": "Spirit",
+  "ch": "魄",
+  "pt": "Espírito"
+ },
+ "schoolNameSecond103": {
+  "en": "Sun",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "schoolNameSecond104": {
+  "en": "Sky",
+  "ch": "天",
+  "pt": "Céu"
+ },
+ "schoolNameSecond105": {
+  "en": "Canopy",
+  "ch": "穹",
+  "pt": "Dossel"
+ },
+ "schoolNameSecond106": {
+  "en": "Blaze",
+  "ch": "曜",
+  "pt": "Chama"
+ },
+ "schoolNameSecond107": {
+  "en": "Myth",
+  "ch": "玄",
+  "pt": "Mito"
+ },
+ "schoolNameSecond108": {
+  "en": "Senses",
+  "ch": "情",
+  "pt": "Sentidos"
+ },
+ "schoolNameSecond109": {
+  "en": "Peace",
+  "ch": "幽",
+  "pt": "Paz"
+ },
+ "schoolNameSecond11": {
+  "en": "Xing",
+  "ch": "星",
+  "pt": "Xing"
+ },
+ "schoolNameSecond110": {
+  "en": "Silence",
+  "ch": "寂",
+  "pt": "Silêncio"
+ },
+ "schoolNameSecond111": {
+  "en": "Stars",
+  "ch": "星",
+  "pt": "Estrelas"
+ },
+ "schoolNameSecond112": {
+  "en": "Snow",
+  "ch": "雪",
+  "pt": "Neve"
+ },
+ "schoolNameSecond113": {
+  "en": "Moon",
+  "ch": "月",
+  "pt": "Lua"
+ },
+ "schoolNameSecond114": {
+  "en": "Frost",
+  "ch": "霜",
+  "pt": "Geada"
+ },
+ "schoolNameSecond115": {
+  "en": "Dragon",
+  "ch": "龙",
+  "pt": "Dragão"
+ },
+ "schoolNameSecond116": {
+  "en": "Phantoms",
+  "ch": "灵",
+  "pt": "Fantasmas"
+ },
+ "schoolNameSecond117": {
+  "en": "Flames",
+  "ch": "焰",
+  "pt": "Chamas"
+ },
+ "schoolNameSecond118": {
+  "en": "Cosmos",
+  "ch": "宇",
+  "pt": "Cosmos"
+ },
+ "schoolNameSecond119": {
+  "en": "Hours",
+  "ch": "辰",
+  "pt": "Horas"
+ },
+ "schoolNameSecond12": {
+  "en": "Xue",
+  "ch": "雪",
+  "pt": "Xue"
+ },
+ "schoolNameSecond120": {
+  "en": "Hills",
+  "ch": "岳",
+  "pt": "Colinas"
+ },
+ "schoolNameSecond121": {
+  "en": "Waves",
+  "ch": "涛",
+  "pt": "Ondas"
+ },
+ "schoolNameSecond122": {
+  "en": "Weight",
+  "ch": "钧",
+  "pt": "Peso"
+ },
+ "schoolNameSecond123": {
+  "en": "Abyss",
+  "ch": "渊",
+  "pt": "Abismo"
+ },
+ "schoolNameSecond124": {
+  "en": "Horizon",
+  "ch": "霄",
+  "pt": "Horizonte"
+ },
+ "schoolNameSecond125": {
+  "en": "Ocean",
+  "ch": "沧",
+  "pt": "Oceano"
+ },
+ "schoolNameSecond126": {
+  "en": "Flow",
+  "ch": "衍",
+  "pt": "Fluxo"
+ },
+ "schoolNameSecond127": {
+  "en": "Void",
+  "ch": "虚",
+  "pt": "Vazio"
+ },
+ "schoolNameSecond128": {
+  "en": "Puzzles",
+  "ch": "机",
+  "pt": "Quebra-cabeças"
+ },
+ "schoolNameSecond129": {
+  "en": "Rainbow",
+  "ch": "虹",
+  "pt": "Arco-íris"
+ },
+ "schoolNameSecond13": {
+  "en": "Yue",
+  "ch": "月",
+  "pt": "Yue"
+ },
+ "schoolNameSecond130": {
+  "en": "Sun",
+  "ch": "阳",
+  "pt": "Sol"
+ },
+ "schoolNameSecond131": {
+  "en": "Cloud",
+  "ch": "云",
+  "pt": "Nuvem"
+ },
+ "schoolNameSecond132": {
+  "en": "Glow",
+  "ch": "霞",
+  "pt": "Brilho"
+ },
+ "schoolNameSecond133": {
+  "en": "Mist",
+  "ch": "岚",
+  "pt": "Nebloba"
+ },
+ "schoolNameSecond134": {
+  "en": "Skies",
+  "ch": "霄",
+  "pt": "Céus"
+ },
+ "schoolNameSecond135": {
+  "en": "Firebird",
+  "ch": "鸾",
+  "nomes": {
+   "Firebird": "Fênix"
+  },
+  "pt": "Firebird"
+ },
+ "schoolNameSecond136": {
+  "en": "Phoenix",
+  "ch": "凤",
+  "pt": "Fênix"
+ },
+ "schoolNameSecond137": {
+  "en": "Dusts",
+  "ch": "微",
+  "pt": "Poeiras"
+ },
+ "schoolNameSecond138": {
+  "en": "Villa",
+  "ch": "阙",
+  "pt": "Vila"
+ },
+ "schoolNameSecond139": {
+  "en": "Cut",
+  "ch": "伤",
+  "pt": "Corte"
+ },
+ "schoolNameSecond14": {
+  "en": "Shuang",
+  "ch": "霜",
+  "pt": "Shuang"
+ },
+ "schoolNameSecond140": {
+  "en": "Pause",
+  "ch": "休",
+  "pt": "Pausa"
+ },
+ "schoolNameSecond141": {
+  "en": "Cloud",
+  "ch": "云",
+  "pt": "Nuvem"
+ },
+ "schoolNameSecond142": {
+  "en": "Moon",
+  "ch": "月",
+  "pt": "Lua"
+ },
+ "schoolNameSecond143": {
+  "en": "Lotus",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "schoolNameSecond144": {
+  "en": "Stars",
+  "ch": "星",
+  "pt": "Estrelas"
+ },
+ "schoolNameSecond15": {
+  "en": "Long",
+  "ch": "龙",
+  "pt": "Long"
+ },
+ "schoolNameSecond155": {
+  "en": "Pause",
+  "ch": "休",
+  "pt": "Pausa"
+ },
+ "schoolNameSecond156": {
+  "en": "Dusts",
+  "ch": "微",
+  "pt": "Poeiras"
+ },
+ "schoolNameSecond157": {
+  "en": "Villa",
+  "ch": "阙",
+  "pt": "Vila"
+ },
+ "schoolNameSecond158": {
+  "en": "Cut",
+  "ch": "伤",
+  "pt": "Corte"
+ },
+ "schoolNameSecond159": {
+  "en": "{#kong}",
+  "ch": "龙",
+  "pt": "{#kong}"
+ },
+ "schoolNameSecond16": {
+  "en": "Ling",
+  "ch": "灵",
+  "pt": "Ling"
+ },
+ "schoolNameSecond160": {
+  "en": "Cloud",
+  "ch": "云",
+  "pt": "Nuvem"
+ },
+ "schoolNameSecond161": {
+  "en": "Moon",
+  "ch": "月",
+  "pt": "Lua"
+ },
+ "schoolNameSecond162": {
+  "en": "Lotus",
+  "ch": "莲",
+  "pt": "Lótus"
+ },
+ "schoolNameSecond163": {
+  "en": "Stars",
+  "ch": "星",
+  "pt": "Estrelas"
+ },
+ "schoolNameSecond17": {
+  "en": "Yang",
+  "ch": "焰",
+  "pt": "Yang"
+ },
+ "schoolNameSecond18": {
+  "en": "Yu",
+  "ch": "宇",
+  "pt": "Yu"
+ },
+ "schoolNameSecond19": {
+  "en": "Chen",
+  "ch": "辰",
+  "pt": "Chen"
+ },
+ "schoolNameSecond2": {
+  "en": "Po",
+  "ch": "魄",
+  "pt": "Po"
+ },
+ "schoolNameSecond20": {
+  "en": "Yue",
+  "ch": "岳",
+  "pt": "Yue"
+ },
+ "schoolNameSecond21": {
+  "en": "Tao",
+  "ch": "涛",
+  "pt": "Tao"
+ },
+ "schoolNameSecond22": {
+  "en": "Jun",
+  "ch": "钧",
+  "pt": "Jun"
+ },
+ "schoolNameSecond23": {
+  "en": "Yuan",
+  "ch": "渊",
+  "pt": "Yuan"
+ },
+ "schoolNameSecond24": {
+  "en": "Xiao",
+  "ch": "霄",
+  "pt": "Xiao"
+ },
+ "schoolNameSecond25": {
+  "en": "Cang",
+  "ch": "沧",
+  "pt": "Cang"
+ },
+ "schoolNameSecond26": {
+  "en": "Yan",
+  "ch": "衍",
+  "pt": "Yan"
+ },
+ "schoolNameSecond27": {
+  "en": "Xu",
+  "ch": "虚",
+  "pt": "Xu"
+ },
+ "schoolNameSecond28": {
+  "en": "Ji",
+  "ch": "机",
+  "pt": "Ji"
+ },
+ "schoolNameSecond29": {
+  "en": "Hong",
+  "ch": "虹",
+  "pt": "Hong"
+ },
+ "schoolNameSecond3": {
+  "en": "Yang",
+  "ch": "阳",
+  "pt": "Yang"
+ },
+ "schoolNameSecond30": {
+  "en": "Yang",
+  "ch": "阳",
+  "pt": "Yang"
+ },
+ "schoolNameSecond31": {
+  "en": "Yun",
+  "ch": "云",
+  "pt": "Yun"
+ },
+ "schoolNameSecond32": {
+  "en": "Xia",
+  "ch": "霞",
+  "pt": "Xia"
+ },
+ "schoolNameSecond33": {
+  "en": "Lan",
+  "ch": "岚",
+  "pt": "Lan"
+ },
+ "schoolNameSecond34": {
+  "en": "Xiao",
+  "ch": "霄",
+  "pt": "Xiao"
+ },
+ "schoolNameSecond35": {
+  "en": "Luan",
+  "ch": "鸾",
+  "pt": "Luan"
+ },
+ "schoolNameSecond36": {
+  "en": "Feng",
+  "ch": "凤",
+  "pt": "Feng"
+ },
+ "schoolNameSecond37": {
+  "en": "Wei",
+  "ch": "微",
+  "pt": "Wei"
+ },
+ "schoolNameSecond38": {
+  "en": "Jue",
+  "ch": "阙",
+  "pt": "Jue"
+ },
+ "schoolNameSecond39": {
+  "en": "Shang",
+  "ch": "伤",
+  "pt": "Shang"
+ },
+ "schoolNameSecond4": {
+  "en": "Tian",
+  "ch": "天",
+  "pt": "Tian"
+ },
+ "schoolNameSecond40": {
+  "en": "Xiu",
+  "ch": "休",
+  "pt": "Xiu"
+ },
+ "schoolNameSecond41": {
+  "en": "Yun",
+  "ch": "云",
+  "pt": "Yun"
+ },
+ "schoolNameSecond42": {
+  "en": "Yue",
+  "ch": "月",
+  "pt": "Yue"
+ },
+ "schoolNameSecond43": {
+  "en": "Lian",
+  "ch": "莲",
+  "pt": "Lian"
+ },
+ "schoolNameSecond44": {
+  "en": "Xing",
+  "ch": "星",
+  "pt": "Xing"
+ },
+ "schoolNameSecond5": {
+  "en": "Qiong",
+  "ch": "穹",
+  "pt": "Qiong"
+ },
+ "schoolNameSecond51": {
+  "en": "Xiu",
+  "ch": "休",
+  "pt": "Xiu"
+ },
+ "schoolNameSecond52": {
+  "en": "Sheng",
+  "ch": "生",
+  "pt": "Sheng"
+ },
+ "schoolNameSecond53": {
+  "en": "Shang",
+  "ch": "伤",
+  "pt": "Shang"
+ },
+ "schoolNameSecond54": {
+  "en": "Du",
+  "ch": "杜",
+  "pt": "Du"
+ },
+ "schoolNameSecond55": {
+  "en": "Jing",
+  "ch": "景",
+  "pt": "Jing"
+ },
+ "schoolNameSecond56": {
+  "en": "Si",
+  "ch": "死",
+  "pt": "Si"
+ },
+ "schoolNameSecond57": {
+  "en": "Jing",
+  "ch": "惊",
+  "pt": "Jing"
+ },
+ "schoolNameSecond58": {
+  "en": "Kai",
+  "ch": "开",
+  "pt": "Kai"
+ },
+ "schoolNameSecond59": {
+  "en": "Long",
+  "ch": "龙",
+  "pt": "Long"
+ },
+ "schoolNameSecond6": {
+  "en": "Yao",
+  "ch": "曜",
+  "pt": "Yao"
+ },
+ "schoolNameSecond60": {
+  "en": "Rest",
+  "ch": "休",
+  "pt": "Restante"
+ },
+ "schoolNameSecond61": {
+  "en": "Life",
+  "ch": "生",
+  "pt": "Vida"
+ },
+ "schoolNameSecond62": {
+  "en": "Injury",
+  "ch": "伤",
+  "pt": "Lesão"
+ },
+ "schoolNameSecond63": {
+  "en": "Restrict",
+  "ch": "杜",
+  "pt": "Restringir"
+ },
+ "schoolNameSecond64": {
+  "en": "Scene",
+  "ch": "景",
+  "pt": "Cena"
+ },
+ "schoolNameSecond65": {
+  "en": "Death",
+  "ch": "死",
+  "pt": "Morte"
+ },
+ "schoolNameSecond66": {
+  "en": "Alarm",
+  "ch": "惊",
+  "pt": "Alarme"
+ },
+ "schoolNameSecond67": {
+  "en": "Open",
+  "ch": "开",
+  "pt": "Aberto"
+ },
+ "schoolNameSecond7": {
+  "en": "Xuan",
+  "ch": "玄",
+  "pt": "Xuan"
+ },
+ "schoolNameSecond8": {
+  "en": "Qing",
+  "ch": "情",
+  "pt": "Qing"
+ },
+ "schoolNameSecond9": {
+  "en": "You",
+  "ch": "幽",
+  "pt": "You"
+ },
+ "schoolNameSecondFinal151": {
+  "en": "Flow",
+  "ch": "衍",
+  "pt": "Fluxo"
+ },
+ "schoolNameSecondFinal152": {
+  "en": "Ocean",
+  "ch": "沧",
+  "pt": "Oceano"
+ },
+ "schoolNameSecondFinal153": {
+  "en": "Mirages",
+  "ch": "幻",
+  "pt": "Miragens"
+ },
+ "schoolNameSecondFinal154": {
+  "en": "Myths",
+  "ch": "玄",
+  "pt": "Mitos"
+ },
+ "schoolNameSecondFinal164": {
+  "en": "Moon",
+  "ch": "月",
+  "pt": "Lua"
+ },
+ "schoolNameSecondFinal165": {
+  "en": "Stars",
+  "ch": "星",
+  "pt": "Estrelas"
+ },
+ "schoolNameSecondFinal166": {
+  "en": "Cloud",
+  "ch": "云",
+  "pt": "Nuvem"
+ },
+ "schoolNameSecondFinal167": {
+  "en": "Snow",
+  "ch": "雪",
+  "pt": "Neve"
+ },
+ "schoolNameSecondFinal168": {
+  "en": "Weight",
+  "ch": "钧",
+  "pt": "Peso"
+ },
+ "schoolNameSecondFinal169": {
+  "en": "Abyss",
+  "ch": "渊",
+  "pt": "Abismo"
+ },
+ "schoolNameSecondFinal170": {
+  "en": "Horizon",
+  "ch": "霄",
+  "pt": "Horizonte"
+ },
+ "schoolNameSecondFinal171": {
+  "en": "Horizon",
+  "ch": "霄",
+  "pt": "Horizonte"
+ },
+ "schoolNameSecondFinal51": {
+  "en": "Flow",
+  "ch": "衍",
+  "pt": "Fluxo"
+ },
+ "schoolNameSecondFinal52": {
+  "en": "Ocean",
+  "ch": "沧",
+  "pt": "Oceano"
+ },
+ "schoolNameSecondFinal53": {
+  "en": "Mirages",
+  "ch": "幻",
+  "pt": "Miragens"
+ },
+ "schoolNameSecondFinal54": {
+  "en": "Myths",
+  "ch": "玄",
+  "pt": "Mitos"
+ },
+ "schoolNameSecondFinal64": {
+  "en": "Moon",
+  "ch": "月",
+  "pt": "Lua"
+ },
+ "schoolNameSecondFinal65": {
+  "en": "Stars",
+  "ch": "星",
+  "pt": "Estrelas"
+ },
+ "schoolNameSecondFinal66": {
+  "en": "Cloud",
+  "ch": "云",
+  "pt": "Nuvem"
+ },
+ "schoolNameSecondFinal67": {
+  "en": "Snow",
+  "ch": "雪",
+  "pt": "Neve"
+ },
+ "schoolNameSecondFinal68": {
+  "en": "Weight",
+  "ch": "钧",
+  "pt": "Peso"
+ },
+ "schoolNameSecondFinal69": {
+  "en": "Abyss",
+  "ch": "渊",
+  "pt": "Abismo"
+ },
+ "schoolNameSecondFinal70": {
+  "en": "Horizon",
+  "ch": "霄",
+  "pt": "Horizonte"
+ },
+ "schoolNameSecondFinal71": {
+  "en": "Horizon",
+  "ch": "霄",
+  "pt": "Horizonte"
+ },
+ "schoolPointMainLobby_MenberTitle": {
+  "en": "Sect Member",
+  "ch": "宗门成员",
+  "pt": "Membro da Seita"
+ },
+ "schoolPointMainLobby_chakan": {
+  "en": "View Disciple",
+  "ch": "查看弟子",
+  "pt": "Visualizar Discípulo"
+ },
+ "schoolPointMainLobby_overViewProperty": {
+  "en": "Sect Info",
+  "ch": "宗门信息",
+  "pt": "Informações sobre a Seita"
+ },
+ "schoolPointMainLobby_overViewPurpose": {
+  "en": "Sect Purpose",
+  "ch": "宗门宗旨",
+  "pt": "Propósito da Seita"
+ },
+ "schoolPointMainLobby_overViewRule": {
+  "en": "Sect Rules",
+  "ch": "宗门门规",
+  "pt": "Regras da Seita"
+ },
+ "schoolPointMainLobby_schoolMain": {
+  "en": "Sect Leader",
+  "ch": "宗门宗主",
+  "pt": "Líder da Seita"
+ },
+ "schoolPostElder_BecomeElderTip": {
+  "en": "The promotion has been cancelled because you have been promoted to Elder.",
+  "ch": "因已被提拔为长老，本次晋升取消。",
+  "pt": "A promoção foi cancelada porque você foi promovido a Ancião."
+ },
+ "schoolPost_canUpPost": {
+  "en": "<color=#00FF10>Can be promoted</color>",
+  "ch": "<color=#00FF10>可晋升</color>",
+  "pt": "<color=#00FF10>Pode ser promovido</color>"
+ },
+ "schoolPost_getInheritTip": {
+  "en": "<r>If the Sect Leader is near-death within the Sect territory</r>, a Tradition effect will occur, providing protection.\nA Sect Tradition effect can only trigger once every 2 years. (Available after <r>{0}</r> month(s))\n<r>If the Sect Leader is near-death in a Sect war and attacking the sect</r>, the Tradition effect may trigger once regardless of cooldown.",
+  "ch": "在宗门领地内，当<r>宗主濒死时会触发一次</r>传承的效果，得到传承的保护。\n宗门传承2年内最多只可触发1次。（<r>{0}</r>个月后可再次触发）\n在<r>攻击本宗的宗门战</r>中宗主濒死时无论传承是否处于冷却均可触发一次。",
+  "pt": "<r>Caso o Líder da Seita esteja à beira da morte dentro do território da Seita</r>, um efeito da Tradição será acionado, proporcionando proteção.\nO efeito da Tradição da Seita só pode ser acionado uma vez a cada 2 anos. (Disponível após <r>{0}</r> mês(es))\n<r>Se o Líder da Seita estiver à beira da morte durante uma guerra entre Seitas, atacando a própria Seita</r>, o efeito da Tradição poderá ser acionado uma vez, independentemente do tempo de recarga."
+ },
+ "schoolPost_getInheritTip1": {
+  "en": "<r>If the Sect Leader is near-death within the Sect territory</r>, a Tradition effect will occur, providing protection.\nA Sect Tradition effect can only trigger once every 2 years. (<g>Can trigger now</g>)\n<r>If the Sect Leader is near-death in a Sect war and attacking the sect</r>, the Tradition effect may trigger once regardless of cooldown.",
+  "ch": "在宗门领地内，当<r>宗主濒死时会触发一次</r>传承的效果，得到传承的保护。\n宗门传承2年内最多只可触发1次。（<g>当前可触发</g>）\n在<r>攻击本宗的宗门战</r>中宗主濒死时无论传承是否处于冷却均可触发一次。",
+  "pt": "<r>Se o Líder da Seita estiver à beira da morte dentro do território da Seita</r>, um efeito de Tradição será acionado, proporcionando proteção.\nO efeito de Tradição da Seita só pode ser acionado uma vez a cada 2 anos. (<g>Pode ser acionado agora</g>)\n<r>Se o Líder da Seita estiver à beira da morte durante uma guerra entre Seitas, atacando a própria Seita</r>, o efeito de Tradição poderá ser acionado uma vez, independentemente do tempo de recarga."
+ },
+ "schoolPost_inheritCanChallenge": {
+  "en": "<color=#ad270d>Can be challenged</color>",
+  "ch": "<color=#ad270d>可挑战</color>",
+  "pt": "<color=#ad270d>Pode ser desafiado</color>"
+ },
+ "schoolPost_isMain": {
+  "en": "You already earned the approval of the Sect Tradition. No need to challenge again.",
+  "ch": "你已获得了传承的认可，不需要再挑战了",
+  "pt": "Você já ganhou a aprovação da Tradição da Seita. Não há necessidade de desafiar novamente."
+ },
+ "schoolPost_joinOtherSchool": {
+  "en": "You have applied to enter another sect.",
+  "ch": "你已向其他宗门提出入门申请",
+  "pt": "Você solicitou ingressar em outra seita."
+ },
+ "schoolPost_notSchoolMainTip": {
+  "en": "Sect Leader with no Traditional acknowledgement.",
+  "ch": "没有传承认可的宗主",
+  "pt": "Líder da Seita, sem reconhecimento tradicional."
+ },
+ "schoolPost_notUp": {
+  "en": "<r>This Branch already has an Elder so promotion cannot continue. Further promotion is only possible at the Main Sect.</r>",
+  "ch": "<r>此分舵已有长老掌管，在此分舵不能继续晋升，只有在总舵才可继续晋升。</r>",
+  "pt": "<r>Esta Seita já possui um Ancião; portanto, a promoção não pode prosseguir. Promoções adicionais só são possíveis na Seita Principal.</r>"
+ },
+ "schoolPost_nowPost": {
+  "en": "Current Position",
+  "ch": "现任职",
+  "pt": "Posição atual"
+ },
+ "schoolPost_postCanUp": {
+  "en": "Can be promoted",
+  "ch": "可晋升",
+  "pt": "Pode ser promovido"
+ },
+ "schoolPost_selectBigElder": {
+  "en": "Select a Grand Elder to carry out Challenge",
+  "ch": "请先选择一个大长老进行挑战",
+  "pt": "Selecione um Grão-Ancião para realizar o Desafio."
+ },
+ "schoolPost_selectElder": {
+  "en": "Select a division and repeat Challenge",
+  "ch": "请先选择一个堂口再进行挑战",
+  "pt": "Selecione uma divisão e repita o Desafio"
+ },
+ "schoolPost_selectTeacher": {
+  "en": "Select a Master and repeat Challenge",
+  "ch": "请先选择一个师父再进行挑战",
+  "pt": "Selecione um Mestre e repita o Desafio."
+ },
+ "schoolPost_textHonor": {
+  "en": "Honor List",
+  "ch": "荣誉榜",
+  "pt": "Lista de Honra"
+ },
+ "schoolPost_tip": {
+  "en": "(Satisfy the following conditions to challenge)",
+  "ch": "（满足以下所有条件，即可挑战）",
+  "pt": "(Satisfaça as seguintes condições para participar)"
+ },
+ "schoolRange_kuangcaibuzu": {
+  "en": "Not enough Sect Ore",
+  "ch": "宗门矿材不足",
+  "pt": "Não há Seita Minério suficiente"
+ },
+ "schoolRange_kuazhangchenggong": {
+  "en": "Expanded",
+  "ch": "扩张成功",
+  "pt": "Expandido"
+ },
+ "schoolRange_kuozhang1": {
+  "en": "Territory Expansion",
+  "ch": "领地扩张",
+  "pt": "Expansão territorial"
+ },
+ "schoolRange_kuozhang2": {
+  "en": "Expand Territory",
+  "ch": "扩张领地",
+  "pt": "Expandir território"
+ },
+ "schoolRange_kuozhang3": {
+  "en": "Requirements to Expand",
+  "ch": "扩张需求",
+  "pt": "Requisitos para Expansão"
+ },
+ "schoolRange_kuozhang4": {
+  "en": "Cost to Expand",
+  "ch": "扩张消耗",
+  "pt": "Custo para Expandir"
+ },
+ "schoolRange_lingdishangxian": {
+  "en": "Territory range has been expanded to the maximum",
+  "ch": "领地范围已经扩张到上限",
+  "pt": "O alcance do território foi expandido ao máximo"
+ },
+ "schoolRange_lingshibuzu": {
+  "en": "Not enough Sect Spirit Stones",
+  "ch": "宗门灵石不足",
+  "pt": "Não há pedras espirituais suficientes para a Seita."
+ },
+ "schoolRange_mingyubuzu": {
+  "en": "Not enough Prestige",
+  "ch": "名誉不足",
+  "pt": "Prestígio insuficiente"
+ },
+ "schoolRange_renkoubuzu": {
+  "en": "Not enough people",
+  "ch": "需求人口总数不足",
+  "pt": "Não há pessoas suficientes"
+ },
+ "schoolRank_gongxijiaru": {
+  "en": "Congratulations to the Cultivators below on joining our sect!",
+  "ch": "恭喜以下道友加入本宗！",
+  "pt": "Parabéns aos Cultivadores listados abaixo por terem se juntado à nossa seita!"
+ },
+ "schoolRank_gongxijinsheng": {
+  "en": "Congratulations to the Cultivators below on becoming {0} members!",
+  "ch": "恭喜以下道友晋升为{0}",
+  "pt": "Parabéns aos Cultivadores listados abaixo por se tornarem membros {0}!"
+ },
+ "schoolRefiningPool_bookname": {
+  "en": "Divine Physique Sutra",
+  "ch": "九转炼体经",
+  "pt": "Sutra da Física Divino"
+ },
+ "schoolRefiningPool_citiaokong": {
+  "en": "Empty (Can be equipped)",
+  "ch": "空（可装配）",
+  "pt": "Vazio (Pode ser equipado)"
+ },
+ "schoolRefiningPool_citiaomanji": {
+  "en": "Max Level",
+  "ch": "满级",
+  "pt": "Nível Máximo"
+ },
+ "schoolRefiningPool_citiaoshengji": {
+  "en": "Upgrade Successful",
+  "ch": "词条升级成功",
+  "pt": "Atualização realizada com sucesso"
+ },
+ "schoolRefiningPool_citiaozuidadengji": {
+  "en": "Max Level reached",
+  "ch": "词条已达到最大等级",
+  "pt": "Nível Máximo alcançado"
+ },
+ "schoolRefiningPool_ctsjan": {
+  "en": "Upgrade",
+  "ch": "升级",
+  "pt": "Atualização"
+ },
+ "schoolRefiningPool_des": {
+  "en": "Physique Pool Game Rules",
+  "ch": "炼体池玩法说明",
+  "pt": "Regras do Jogo de Bilhar Physique"
+ },
+ "schoolRefiningPool_ji": {
+  "en": "Lv.",
+  "ch": "级",
+  "pt": "Nív."
+ },
+ "schoolRefiningPool_jieshaobiaoti": {
+  "en": "Game Rules",
+  "ch": "玩法说明",
+  "pt": "Regras do Jogo"
+ },
+ "schoolRefiningPool_jiesuocitiao": {
+  "en": "Unlock?",
+  "ch": "是否解锁词条？",
+  "pt": "Desbloquear?"
+ },
+ "schoolRefiningPool_jihuo": {
+  "en": "Activate",
+  "ch": "激活",
+  "pt": "Ativar"
+ },
+ "schoolRefiningPool_jihuochenggong": {
+  "en": "Activation Complete",
+  "ch": "激活成功",
+  "pt": "Ativação concluída"
+ },
+ "schoolRefiningPool_jihuolitichi": {
+  "en": "Activate Physique Pool?",
+  "ch": "是否要激活炼体池？",
+  "pt": "Ativar o Pool de Fisique?"
+ },
+ "schoolRefiningPool_jihuotishi": {
+  "en": "Please activate the Physique Pool first",
+  "ch": "请先激活炼体池",
+  "pt": "Por favor, ative primeiro o Physique Pool."
+ },
+ "schoolRefiningPool_jsctcg": {
+  "en": "Unlock Successful",
+  "ch": "解锁词条成功",
+  "pt": "Desbloqueio bem-sucedido"
+ },
+ "schoolRefiningPool_keshengji": {
+  "en": "Can Upgrade",
+  "ch": "可升级",
+  "pt": "Pode ser atualizado"
+ },
+ "schoolRefiningPool_kongweijiesuotishi": {
+  "en": "<color=#D02C29>{0}</color> Requires Divine Physique Sutra to Unlock",
+  "ch": "<color=#D02C29>{0}</color>九转炼体经可解锁",
+  "pt": "<color=#D02C29>{0}</color> Requer o Sutra da Fisiopatia Divino para ser desbloqueado"
+ },
+ "schoolRefiningPool_kongweitishi": {
+  "en": "Please select all empty slots for equipping",
+  "ch": "请选择需要装备的孔位",
+  "pt": "Por favor, selecione todos os espaços vazios para equipar."
+ },
+ "schoolRefiningPool_level1": {
+  "en": "Level 1",
+  "ch": "一重",
+  "pt": "Nível 1"
+ },
+ "schoolRefiningPool_level10": {
+  "en": "Level 10",
+  "ch": "十重",
+  "pt": "Nível 10"
+ },
+ "schoolRefiningPool_level2": {
+  "en": "Level 2",
+  "ch": "二重",
+  "pt": "Nível 2"
+ },
+ "schoolRefiningPool_level3": {
+  "en": "Level 3",
+  "ch": "三重",
+  "pt": "Nível 3"
+ },
+ "schoolRefiningPool_level4": {
+  "en": "Level 4",
+  "ch": "四重",
+  "pt": "Nível 4"
+ },
+ "schoolRefiningPool_level5": {
+  "en": "Level 5",
+  "ch": "五重",
+  "pt": "Nível 5"
+ },
+ "schoolRefiningPool_level6": {
+  "en": "Level 6",
+  "ch": "六重",
+  "pt": "Nível 6"
+ },
+ "schoolRefiningPool_level7": {
+  "en": "Level 7",
+  "ch": "七重",
+  "pt": "Nível 7"
+ },
+ "schoolRefiningPool_level8": {
+  "en": "Level 8",
+  "ch": "八重",
+  "pt": "Nível 8"
+ },
+ "schoolRefiningPool_level9": {
+  "en": "Level 9",
+  "ch": "九重",
+  "pt": "Nível 9"
+ },
+ "schoolRefiningPool_liantichijinjiebuzhu": {
+  "en": "Insufficient Physique Pool Realm",
+  "ch": "炼体池境界不足",
+  "pt": "Reino com pool de físicos insuficiente"
+ },
+ "schoolRefiningPool_liantichizuidadengji": {
+  "en": "Physique Pool has reached max level",
+  "ch": "炼体池已到达最大等级",
+  "pt": "O Physique Pool atingiu o nível máximo"
+ },
+ "schoolRefiningPool_liantizhi": {
+  "en": "<color=#969896>Physique Value: </color><color=#FFFFFF>{0}</color>",
+  "ch": "<color=#969896>炼体值：</color><color=#FFFFFF>{0}</color>",
+  "pt": "<color=#969896>Valor da Fisiologia: </color><color=#FFFFFF>{0}</color>"
+ },
+ "schoolRefiningPool_liantizhibuzhu": {
+  "en": "Insufficient Physique",
+  "ch": "炼体值不足",
+  "pt": "Constituição física insuficiente"
+ },
+ "schoolRefiningPool_manji": {
+  "en": "Max Level Reached",
+  "ch": "已满级",
+  "pt": "Nível máximo alcançado"
+ },
+ "schoolRefiningPool_quanbucitiao": {
+  "en": "All",
+  "ch": "全部词条",
+  "pt": "Todos"
+ },
+ "schoolRefiningPool_shengji": {
+  "en": "Upgrade",
+  "ch": "升级",
+  "pt": "Atualização"
+ },
+ "schoolRefiningPool_shengjicitiao": {
+  "en": "Upgrade?",
+  "ch": "是否升级词条？",
+  "pt": "Atualização?"
+ },
+ "schoolRefiningPool_shengjitishi": {
+  "en": "Upgrade?",
+  "ch": "是否升级？",
+  "pt": "Atualização?"
+ },
+ "schoolRefiningPool_shubentishi": {
+  "en": "The following Stats will be available after activation",
+  "ch": "激活后可获得以下属性",
+  "pt": "Os seguintes Atributos estarão disponíveis após a ativação."
+ },
+ "schoolRefiningPool_tihuan": {
+  "en": "Replace",
+  "ch": "替换",
+  "pt": "Substituir"
+ },
+ "schoolRefiningPool_tihuancitiao": {
+  "en": "Replace?",
+  "ch": "是否替换词条？",
+  "pt": "Substituir?"
+ },
+ "schoolRefiningPool_tisheng": {
+  "en": "Upgraded",
+  "ch": "升级成功",
+  "pt": "Atualizado"
+ },
+ "schoolRefiningPool_xhdd": {
+  "en": "<color=#F5FF00><space=0.3em><voffset=-0.1em><size=130%><sprite name=daodian><size=100%></voffset><space=0.3em>0 points</color>",
+  "ch": "<color=#F5FF00><space=0.3em><voffset=-0.1em><size=130%><sprite name=daodian><size=100%></voffset><space=0.3em>0点</color>",
+  "pt": "<color=#F5FF00><space=0.3em><voffset=-0.1em><size=130%><sprite name=daodian><size=100%></voffset><space=0.3em>0 pontos</color>"
+ },
+ "schoolRefiningPool_xiaohaojinyan": {
+  "en": "<color=#F4BC29>Low Level</color>Required Physique Value: <color={0}>{1}</color>",
+  "ch": "<color=#F4BC29>下级</color>需要炼体值：<color={0}>{1}</color>",
+  "pt": "<color=#F4BC29>Nível Baixo</color>Valor de Fisicidade Requerido: <color={0}>{1}</color>"
+ },
+ "schoolRefiningPool_xuliantizhi": {
+  "en": "Physique Value <color={0}>{1}</color>",
+  "ch": "需炼体值 <color={0}>{1}</color>",
+  "pt": "Valor Físico <color={0}>{1}</color>"
+ },
+ "schoolRefiningPool_yanxi": {
+  "en": "Researched ({0}/{1})",
+  "ch": "已研习（{0}/{1}）",
+  "pt": "Pesquisado ({0}/{1})"
+ },
+ "schoolRefiningPool_yijiesuo": {
+  "en": "Locked: <color=#FFFFFF>{0}</color>/{1}",
+  "ch": "已解锁：<color=#FFFFFF>{0}</color>/{1}",
+  "pt": "Bloqueado: <color=#FFFFFF>{0}</color>/{1}"
+ },
+ "schoolRefiningPool_zbsxts": {
+  "en": "The following Stats will be available after equipping\n    ",
+  "ch": "装备后可获得以下属性\n    ",
+  "pt": "Os seguintes Atributos estarão disponíveis após o equipamento.\n    "
+ },
+ "schoolRefiningPool_zhuangbeicitiao": {
+  "en": "Equip?",
+  "ch": "是否装备词条？",
+  "pt": "Equipamento?"
+ },
+ "schoolRefiningPool_zhuangpei": {
+  "en": "Equip",
+  "ch": "装配",
+  "pt": "Equipamento"
+ },
+ "schoolRefiningPool_zongmendengjibuzhu": {
+  "en": "Sect level is too low!",
+  "ch": "宗门等级不足",
+  "pt": "O nível da Seita está muito baixo!"
+ },
+ "schoolRelocate_dingyueqi": {
+  "en": "Relocation Flag",
+  "ch": "取定岳旗",
+  "nomes": {
+   "Relocation Flag": "Bandeira de Realocação"
+  },
+  "pt": "Bandeira de Realocação"
+ },
+ "schoolRelocate_dingyueqi_desc": {
+  "en": "1. Take the Relocation Flag.\n2. Go to a higher-level area and use the Relocation Flag in your Bag to set the location.\n3. Return here to start the relocation.",
+  "ch": "1.先取走定岳旗。\n2.前往更高级的区域使用背包中的定岳旗在当前格子进行定位。\n3.回到这里开始迁移。",
+  "nomes": {
+   "Relocation Flag": "Bandeira de Realocação"
+  },
+  "pt": "1. Pegue a Bandeira de Realocação.  \n2. Vá para uma área de nível superior e use a Bandeira de Realocação em sua Bolsa para definir a localização.  \n3. Volte aqui para iniciar a realocação."
+ },
+ "schoolRelocate_dingyueqi_tip": {
+  "en": "You can't take another Relocation Flag",
+  "ch": "不可以重复获取定岳旗",
+  "nomes": {
+   "Relocation Flag": "Bandeira de Realocação"
+  },
+  "pt": "Você não pode pegar outra Bandeira de Realocação."
+ },
+ "schoolRelocate_feizhou_tip1": {
+  "en": "Sect relocation starts",
+  "ch": "宗门迁移开始",
+  "pt": "Início do realocamento da Seita"
+ },
+ "schoolRelocate_feizhou_tip2": {
+  "en": "Destination reached",
+  "ch": "成功到达目的地",
+  "pt": "Destino alcançado"
+ },
+ "schoolRelocate_fenduo_no_move": {
+  "en": "Sect branches cannot be relocated",
+  "ch": "分舵无法搬迁",
+  "pt": "Os ramos da Seita não podem ser realocados."
+ },
+ "schoolRelocate_kaisiqiyi": {
+  "en": "Start Relocation",
+  "ch": "开始迁移",
+  "pt": "Iniciar Relocalização"
+ },
+ "schoolRelocate_medicina": {
+  "en": "<link><u color=#004FCA><color=#004FCA>Herb</color></u></link>: {0}",
+  "ch": "<link><u color=#004FCA><color=#004FCA>药材</color></u></link>：{0}",
+  "pt": "<link><u color=#004FCA><color=#004FCA>Erva</color></u></link>: {0}"
+ },
+ "schoolRelocate_meidingwei": {
+  "en": "Place the Relocation Flag in a higher-level area first",
+  "ch": "请先到更高区域使用定岳旗进行定位",
+  "nomes": {
+   "Relocation Flag": "Bandeira de Realocação"
+  },
+  "pt": "Primeiro, coloque a Bandeira de Realocação em uma área de nível mais alto."
+ },
+ "schoolRelocate_mine": {
+  "en": "<link><u color=#004FCA><color=#004FCA>Ore</color></u></link>:{0}",
+  "ch": "<link><u color=#004FCA><color=#004FCA>矿材</color></u></link>：{0}",
+  "pt": "<link><u color=#004FCA><color=#004FCA>Minério</color></u></link>:{0}"
+ },
+ "schoolRelocate_money": {
+  "en": "<link><u color=#004FCA><color=#004FCA>Spirit Stone</color></u></link>: {0}",
+  "ch": "<link><u color=#004FCA><color=#004FCA>灵石</color></u></link>：{0}",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  },
+  "pt": "<link><u color=#004FCA><color=#004FCA>Pedra Espiritual</color></u></link>: {0}"
+ },
+ "schoolRelocate_no_main": {
+  "en": "Only the Sect Leader may relocate the sect",
+  "ch": "非本门宗主，无权干涉搬迁事宜",
+  "pt": "Apenas o Líder da Seita pode realocar a seita."
+ },
+ "schoolRelocate_qyfs_info": {
+  "en": "Relocating from {0} to {1}",
+  "ch": "将从{0}迁移至{1}",
+  "pt": "Realocando de {0} para {1}"
+ },
+ "schoolRelocate_qyfs_lxfd": {
+  "en": "Create Branch",
+  "ch": "留下分舵",
+  "pt": "Criar Branch"
+ },
+ "schoolRelocate_qyfs_lxfd_desc": {
+  "en": "Create a sect branch at the current location and move the headquarters to {0}",
+  "ch": "在此地留下宗门分舵，将宗门本部迁移至{0}",
+  "pt": "Crie uma filial da seita no local atual e mova a sede para {0}"
+ },
+ "schoolRelocate_qyfs_qbqy": {
+  "en": "Full Relocation",
+  "ch": "全部迁移",
+  "pt": "Realocação completa"
+ },
+ "schoolRelocate_qyfs_qbqy_desc": {
+  "en": "All sect members head to {0}",
+  "ch": "宗门全员一同前往{0}",
+  "pt": "Todos os membros da seita se dirigem para {0}"
+ },
+ "schoolRelocate_qyfs_tip": {
+  "en": "Select relocation mode:",
+  "ch": "请选择迁移方式：",
+  "pt": "Selecione o modo de realocação:"
+ },
+ "schoolRelocate_qylx_tip": {
+  "en": "Select sect relocation mode:",
+  "ch": "请选择宗门迁移类型",
+  "pt": "Selecione o modo de realocação da seita:"
+ },
+ "schoolRelocate_sydyq": {
+  "en": "Relocate to {0}?",
+  "ch": "是否要定位于{0}",
+  "pt": "Mudar para {0}?"
+ },
+ "schoolRelocate_sydyq_cg": {
+  "en": "New sect coordinates set",
+  "ch": "成功定位新宗门坐标",
+  "pt": "Novas coordenadas da seita definidas"
+ },
+ "schoolRelocate_sydyq_tip1": {
+  "en": "Please relocate to a higher-level area",
+  "ch": "请前往更高区域进行定位",
+  "pt": "Por favor, mova-se para uma área de nível mais alto."
+ },
+ "schoolRelocate_sydyq_tip2": {
+  "en": "This place is too close to another sect's territory",
+  "ch": "此地过于接近其他宗门的势力范围",
+  "pt": "Este lugar fica muito perto do território de outra seita."
+ },
+ "schoolRelocate_sydyq_tip3": {
+  "en": "This place is too close to another building",
+  "ch": "此地过于接近其他建筑的范围",
+  "pt": "Este lugar está muito próximo de outro prédio."
+ },
+ "schoolRelocate_sydyq_tip4": {
+  "en": "The terrain is not suitable for building a sect",
+  "ch": "此地地形不适合建造宗门",
+  "pt": "O terreno não é adequado para a construção de uma seita."
+ },
+ "schoolRelocate_weixian_tip": {
+  "en": "The road to {0} is too dangerous for your disciples. Many would lose their lives on the way. Continue anyway?",
+  "ch": "通往{0}的道路危机四伏，本门弟子实力薄弱，恐怕会有不少弟子葬身于途中，是否执意前往？",
+  "pt": "O caminho para {0} é perigoso demais para os seus discípulos. Muitos perderiam a vida no trajeto. Mesmo assim deseja continuar?"
+ },
+ "schoolRelocate_xzdz": {
+  "en": "Select entourage disciples",
+  "ch": "选择携带的弟子",
+  "pt": "Selecione os discípulos do séquito."
+ },
+ "schoolRelocate_xzdz_info": {
+  "en": "Other disciples will remain at {0} {1} Branch ({2})",
+  "ch": "其余弟子将会留在{0}·{1}·分舵({2})",
+  "pt": "Outros discípulos permanecerão no Ramo {0} {1} ({2})"
+ },
+ "schoolRelocate_xzfdz": {
+  "en": "Carry Disciple",
+  "ch": "携带弟子",
+  "pt": "Leve o Discípulo"
+ },
+ "schoolRelocate_xzfdz_info": {
+  "en": "The branch leader will remain at {0} {1} Branch ({2})",
+  "ch": "分舵主将会留在{0}·{1}·分舵({2})",
+  "pt": "O líder da filial permanecerá em {0} {1} Filial ({2})"
+ },
+ "schoolRelocate_xzfdz_tip": {
+  "en": "Select branch leader",
+  "ch": "请选择一名分舵主",
+  "pt": "Selecionar líder do ramo"
+ },
+ "schoolRelocate_xzzy_info": {
+  "en": "Other disciples and resources will remain at {0} {1} Branch ({2})",
+  "ch": "其余弟子和资源将留在{0}·{1}·分舵({2})",
+  "pt": "Outros discípulos e recursos permanecerão na Filial {0} {1} ({2})"
+ },
+ "schoolRelocate_xzzy_tip": {
+  "en": "Select resources to take",
+  "ch": "选择携带的资源",
+  "pt": "Selecione os recursos a serem usados"
+ },
+ "schoolRelocate_zzfj_btn": {
+  "en": "Build Flying Canoe",
+  "ch": "建造飞舟",
+  "nomes": {
+   "Flying Canoe": "Canoa Voadora"
+  },
+  "pt": "Construa a Canoa Voadora"
+ },
+ "schoolRelocate_zzfj_cailiaobuzu": {
+  "en": "Insufficient materials to build the Flying Canoe",
+  "ch": "建造的飞舟材料不足",
+  "nomes": {
+   "Flying Canoe": "Canoa Voadora"
+  },
+  "pt": "Material insuficiente para construir a Canoa Voadora"
+ },
+ "schoolRelocate_zzfj_desc": {
+  "en": "1. If you want to relocate the Sect to <b>{0}</b>, you must first build the Flying Canoe.\n2. Get the Relocation Flag and go to <b>{0}</b> to look for a suitable location to plant it, then you can return to the Sect and start the relocation.",
+  "ch": "1.若想要将宗门迁移至<b>{0}</b>，必须要先建造飞舟。\n2.取定岳旗，前往<b>{0}</b>寻找合适的位置并进行定位，便可以回到宗门开始进行迁移。",
+  "nomes": {
+   "Flying Canoe": "Canoa Voadora",
+   "Relocation Flag": "Bandeira de Realocação"
+  },
+  "pt": "1. Se você deseja realocar a Seita para <b>{0}</b>, primeiro precisa construir a Canoa Voadora.\n2. Obtenha a Bandeira de Realocação e vá até <b>{0}</b> para encontrar um local adequado onde plantá-la. Depois disso, você poderá voltar para a Seita e iniciar a realocação."
+ },
+ "schoolRelocate_zzfj_tip1": {
+  "en": "The following materials are required:",
+  "ch": "建造飞舟需要以下材料：",
+  "pt": "Os seguintes materiales são necessários:"
+ },
+ "schoolRelocate_zzfj_tip2": {
+  "en": "Currently have:",
+  "ch": "宗门已持有材料：",
+  "pt": "Atualmente tenho:"
+ },
+ "schoolRelocate_zzfj_tisi": {
+  "en": "Confirm to build the Flying Canoe?",
+  "ch": "是否确认建造飞舟？",
+  "nomes": {
+   "Flying Canoe": "Canoa Voadora"
+  },
+  "pt": "Confirmar a construção do Canoa Voadora?"
+ },
+ "schoolRuleDesc1": {
+  "en": "Forbidden: Theft",
+  "ch": "禁止偷窃",
+  "pt": "Proibido: Roubo"
+ },
+ "schoolRuleDesc10": {
+  "en": "Forbidden: Fire Skills",
+  "ch": "禁止修炼火灵根功法",
+  "pt": "Proibido: Habilidades de Fogo"
+ },
+ "schoolRuleDesc11": {
+  "en": "Forbidden: Water Skills",
+  "ch": "禁止修炼水灵根功法",
+  "pt": "Proibido: Habilidades com Água"
+ },
+ "schoolRuleDesc12": {
+  "en": "Forbidden: Lightning Skills",
+  "ch": "禁止修炼雷灵根功法",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  },
+  "pt": "Proibido: Habilidades de Relâmpago"
+ },
+ "schoolRuleDesc13": {
+  "en": "Forbidden: Wind Skills",
+  "ch": "禁止修炼风灵根功法",
+  "pt": "Proibido: Habilidades relacionadas ao Vento"
+ },
+ "schoolRuleDesc14": {
+  "en": "Forbidden: Earth Skills",
+  "ch": "禁止修炼土灵根功法",
+  "pt": "Proibido: Habilidades da Terra"
+ },
+ "schoolRuleDesc15": {
+  "en": "Forbidden: Wood Skills",
+  "ch": "禁止修炼木灵根功法",
+  "pt": "Proibido: Habilidades com Madeira"
+ },
+ "schoolRuleDesc16": {
+  "en": "Forbidden: Spar",
+  "ch": "禁止切磋",
+  "pt": "Proibido: Spar"
+ },
+ "schoolRuleDesc17": {
+  "en": "Forbidden: Learning skills from outsiders",
+  "ch": "禁止请教外人功法",
+  "pt": "Proibido: Aprender habilidades de pessoas de fora."
+ },
+ "schoolRuleDesc18": {
+  "en": "Forbidden: Teaching outsiders skills",
+  "ch": "禁止授与外人功法",
+  "pt": "Proibido: Ensinar habilidades a pessoas de fora."
+ },
+ "schoolRuleDesc19": {
+  "en": "Forbidden: Sending gifts to outsiders",
+  "ch": "禁止向外人赠送道具",
+  "pt": "Proibido: Enviar presentes para pessoas de fora."
+ },
+ "schoolRuleDesc2": {
+  "en": "Forbidden: Tomb Raiding",
+  "ch": "禁止挖坟掘墓",
+  "pt": "Proibido: Saquear túmulos"
+ },
+ "schoolRuleDesc20": {
+  "en": "Forbidden: Receiving gifts from outsiders",
+  "ch": "禁止向外人索要道具",
+  "pt": "Proibido: Receber presentes de pessoas de fora"
+ },
+ "schoolRuleDesc21": {
+  "en": "Forbidden: Killing other Cultivators",
+  "ch": "禁止杀人",
+  "pt": "Proibido: Matar outros Cultivadores"
+ },
+ "schoolRuleDesc22": {
+  "en": "Forbidden: Alchemy",
+  "ch": "禁止炼丹",
+  "pt": "Proibido: Alquimia"
+ },
+ "schoolRuleDesc23": {
+  "en": "Forbidden: Concocting Elixirs for outsiders",
+  "ch": "禁止为外人炼丹",
+  "pt": "Proibido: Preparar Elixires para estrangeiros"
+ },
+ "schoolRuleDesc24": {
+  "en": "Forbidden: Forge",
+  "ch": "禁止炼器",
+  "pt": "Proibido: Forja"
+ },
+ "schoolRuleDesc25": {
+  "en": "Forbidden: Forging Artifacts for outsiders",
+  "ch": "禁止为外人炼器",
+  "pt": "Proibido: Forjar Artefatos para estrangeiros"
+ },
+ "schoolRuleDesc26": {
+  "en": "Forbidden: Using Artifacts",
+  "ch": "禁止使用法宝",
+  "pt": "Proibido: Utilizar Artefatos"
+ },
+ "schoolRuleDesc27": {
+  "en": "Forbidden: Becoming a Sworn Sibling of outsiders",
+  "ch": "禁止与外人结拜",
+  "pt": "Proibido: Tornar-se irmão ou irmã jurado de estranhos"
+ },
+ "schoolRuleDesc28": {
+  "en": "Forbidden: Becoming a Sworn Sibling of enemies",
+  "ch": "禁止与敌道之人结拜",
+  "pt": "Proibido: Tornar-se irmão jurado de inimigos"
+ },
+ "schoolRuleDesc29": {
+  "en": "Forbidden: Marrying outsiders",
+  "ch": "禁止与外人通婚",
+  "pt": "Proibido: Casar com estrangeiros"
+ },
+ "schoolRuleDesc3": {
+  "en": "Forbidden: Alcohol",
+  "ch": "禁止饮酒",
+  "pt": "Proibido: Álcool"
+ },
+ "schoolRuleDesc30": {
+  "en": "Forbidden: Marrying enemies",
+  "ch": "禁止与敌道之人通婚",
+  "pt": "Proibido: Casar-se com inimigos"
+ },
+ "schoolRuleDesc31": {
+  "en": "Forbidden: Asking an outsider to be your master",
+  "ch": "禁止向外人拜师",
+  "pt": "Proibido: Pedir a um estranho para ser seu mestre"
+ },
+ "schoolRuleDesc32": {
+  "en": "Forbidden: Asking an enemy to be your master",
+  "ch": "禁止向敌道之人拜师",
+  "pt": "Proibido: Pedir a um inimigo para ser seu mestre"
+ },
+ "schoolRuleDesc33": {
+  "en": "Forbidden: Accepting an outsider as your apprentice",
+  "ch": "禁止收外人为徒",
+  "pt": "Proibido: Aceitar um estranho como seu aprendiz."
+ },
+ "schoolRuleDesc34": {
+  "en": "Forbidden: Accepting an enemy as your apprentice",
+  "ch": "禁止收敌道之人为徒",
+  "pt": "Proibido: Aceitar um inimigo como seu aprendiz."
+ },
+ "schoolRuleDesc37": {
+  "en": "Forbidden: Using Qi in the wilderness for Cultivation",
+  "ch": "禁止使用野外灵气修炼",
+  "pt": "Proibido: Utilizar Qi na natureza para fins de Cultivo."
+ },
+ "schoolRuleDesc38": {
+  "en": "Forbidden: Gathering Herbs in the wilderness",
+  "ch": "禁止在野外采集药材",
+  "pt": "Proibido: Fazer Coleta de Ervas na natureza"
+ },
+ "schoolRuleDesc39": {
+  "en": "Forbidden: Mining in the wilderness",
+  "ch": "禁止在野外挖矿",
+  "pt": "Proibido: Mineração na natureza selvagem"
+ },
+ "schoolRuleDesc4": {
+  "en": "Forbidden: Sword Skills",
+  "ch": "禁止修炼剑法",
+  "pt": "Proibido: Habilidades com Espada"
+ },
+ "schoolRuleDesc40": {
+  "en": "Forbidden: Looting caravans",
+  "ch": "禁止劫镖",
+  "pt": "Proibido: Saquear caravanas"
+ },
+ "schoolRuleDesc41": {
+  "en": "Forbidden: Marriage",
+  "ch": "禁止结婚",
+  "pt": "Proibido: Casamento"
+ },
+ "schoolRuleDesc42": {
+  "en": "Forbidden: Taking revenge",
+  "ch": "禁止复仇",
+  "pt": "Proibido: Tomar vingança"
+ },
+ "schoolRuleDesc43": {
+  "en": "Forbidden: Dating multiple people",
+  "ch": "禁止滥情",
+  "pt": "Proibido: Namorar várias pessoas"
+ },
+ "schoolRuleDesc44": {
+  "en": "Forbidden: Hurting other members from the same sect",
+  "ch": "禁止同门相残",
+  "pt": "Proibido: Ferir outros membros da mesma seita"
+ },
+ "schoolRuleDesc45": {
+  "en": "Forbidden: Using poisonous Elixirs",
+  "ch": "禁止使用毒性丹药",
+  "pt": "Proibido: Utilizar Elixires venenosos."
+ },
+ "schoolRuleDesc46": {
+  "en": "Forbidden: Killing dragons",
+  "ch": "禁止杀戮龙族生物",
+  "pt": "Proibido: Matar dragões"
+ },
+ "schoolRuleDesc47": {
+  "en": "Forbidden: Putting items up for auction",
+  "ch": "禁止拍卖道具",
+  "pt": "Proibido: Colocar itens em leilão"
+ },
+ "schoolRuleDesc48": {
+  "en": "Forbidden: Bidding for items at auctions",
+  "ch": "禁止竞拍道具",
+  "pt": "Proibido: Licitar por items em leilões"
+ },
+ "schoolRuleDesc5": {
+  "en": "Forbidden: Blade Skills",
+  "ch": "禁止修炼刀法",
+  "pt": "Proibido: Habilidades da Lâmina"
+ },
+ "schoolRuleDesc6": {
+  "en": "Forbidden: Spear Skills",
+  "ch": "禁止修炼枪法",
+  "pt": "Proibido: Habilidades com Lança"
+ },
+ "schoolRuleDesc7": {
+  "en": "Forbidden: Fist Skills",
+  "ch": "禁止修炼拳法",
+  "pt": "Proibido: Habilidades do Punho"
+ },
+ "schoolRuleDesc8": {
+  "en": "Forbidden: Palm Skills",
+  "ch": "禁止修炼掌法",
+  "pt": "Proibido: Habilidades da Palma"
+ },
+ "schoolRuleDesc9": {
+  "en": "Forbidden: Finger Skills",
+  "ch": "禁止修炼指法",
+  "pt": "Proibido: Habilidades com os Dedos"
+ },
+ "schoolSelect_choose": {
+  "en": "Selected",
+  "ch": "已选定",
+  "pt": "Selecionado"
+ },
+ "schoolSelect_kong": {
+  "en": "Vacant",
+  "ch": "空缺",
+  "pt": "Vago"
+ },
+ "schoolSelect_tip": {
+  "en": "Please select the Disciple(s) to compete in Sect Competition",
+  "ch": "请选择参加宗门大比的弟子",
+  "pt": "Por favor, selecione o(s) Discípulo(s) que competirão na Competição da Seita."
+ },
+ "schoolSelect_tip1": {
+  "en": "Selected: {0}/{1}",
+  "ch": "已选择：{0}/{1}",
+  "pt": "Selecionados: {0}/{1}"
+ },
+ "schoolSelect_title1": {
+  "en": "Select a Disciple",
+  "ch": "选择弟子",
+  "pt": "Selecione um Discípulo"
+ },
+ "schoolSelect_title2": {
+  "en": "Competitor",
+  "ch": "参赛弟子",
+  "pt": "Concorrente"
+ },
+ "schoolSelect_title3": {
+  "en": "Candidate",
+  "ch": "参选弟子",
+  "pt": "Candidato"
+ },
+ "schoolShop_mineTip": {
+  "en": "Every 12 months, or when the Sect Herbs reach {0}, the Sect will use the Herbs once (max cost {1}), to replenish the corresponding materials. The more Herbs used, the greater the quantity and quality replenished.",
+  "ch": "每12个月或是宗门药材达到{0}时，宗门会消耗一次药材（最多可消耗{1}），补充对应的材料。消耗的药材越多，补充的道具越多，品质也越高。",
+  "pt": "A cada 12 meses, ou quando as Ervas da Seita atingirem {0}, a Seita utilizará essas Ervas uma vez (custo máximo {1}) para repor os respectivos material. Quanto mais Ervas forem usadas, maior será a quantidade e a qualidade dos material repostos."
+ },
+ "schoolShop_stoneTip": {
+  "en": "Every 12 months, or when the Sect Ores reach {0}, the Sect will use the Ores once (max cost {1}), to replenish the corresponding materials. The more Ores used, the greater the quantity and quality replenished.",
+  "ch": "每12个月或是宗门矿材达到{0}时，宗门会消耗一次矿材（最多可消耗{1}），补充对应的材料。消耗的矿材越多，补充的道具越多，品质也越高。",
+  "pt": "A cada 12 meses, ou quando os Minério da Seita atingirem {0}, a Seita utilizará esses Minério uma vez (custo máximo de {1}) para reabastecer os materiales correspondentes. Quanto mais Minério for usado, maior será a quantidade e a qualidade dos materiales reabastecidos."
+ },
+ "schoolShop_updateTip1": {
+  "en": "　　The higher the Sect Prestige, the better and more Manuals the Manual Library produces!",
+  "ch": "　　宗门矿材及药材越多，刷出的材料越多，品质也越高！",
+  "pt": "　　Quanto maior o Prestígio da Seita, melhor e mais Manuais a Biblioteca de Manuais consegue produzir!"
+ },
+ "schoolShop_updateTip2": {
+  "en": "　　The higher the number of Herbs and Ore used by the Sect, the higher the number of treasures that appear when exchanging in the Treasure Pavilion, and the higher the chance of rare treasures appearing.",
+  "ch": "　　宗门支出的药材与矿材数量越多，则置换时聚宝仙楼中出现的宝物数量越多，出现稀有宝物的概率越高。",
+  "pt": "　　Quanto maior a quantidade de Ervas e Minério utilizada pela Seita, maior será o número de tesouros que aparecem nas trocas no Pavilhão do Tesouro, além de aumentar as chances de aparecimento de tesouros raros."
+ },
+ "schoolSlogan141": {
+  "en": "Soaring Sky Ascension",
+  "ch": "腾则登天",
+  "pt": "Ascensão ao Céu Elevado"
+ },
+ "schoolSlogan142": {
+  "en": "Deep Power",
+  "ch": "盘则潜渊",
+  "pt": "Poder Profundo"
+ },
+ "schoolSlogan143": {
+  "en": "Starting Storms",
+  "ch": "动起风云",
+  "pt": "Tempestades iniciais"
+ },
+ "schoolSlogan144": {
+  "en": "Fixing Heaven and Earth",
+  "ch": "静定乾坤",
+  "pt": "Consertando o Céu e Terra"
+ },
+ "schoolSlogan211": {
+  "en": "Secluded from the World",
+  "ch": "三山归隐",
+  "pt": "Isolado do mundo"
+ },
+ "schoolSlogan212": {
+  "en": "Know Thy Place",
+  "ch": "不出其位",
+  "pt": "Conheça o seu lugar"
+ },
+ "schoolSlogan213": {
+  "en": "Impregnable",
+  "ch": "固守贞常",
+  "pt": "Inexpugnável"
+ },
+ "schoolSlogan214": {
+  "en": "Secure the Borders",
+  "ch": "知进知退",
+  "pt": "Proteger as fronteiras"
+ },
+ "schoolSlogan215": {
+  "en": "Fair and Righteous",
+  "ch": "中正理法",
+  "pt": "Justo e imparcial"
+ },
+ "schoolSlogan216": {
+  "en": "Know Thy Strength",
+  "ch": "量力而为",
+  "pt": "Conheça suas forças"
+ },
+ "schoolSlogan217": {
+  "en": "Self-Preserving",
+  "ch": "明哲保身",
+  "pt": "Auto-preservação"
+ },
+ "schoolSlogan218": {
+  "en": "Lying in Wait",
+  "ch": "静待良机",
+  "pt": "À espreita"
+ },
+ "schoolSlogan221": {
+  "en": "Moral and Robust",
+  "ch": "刚健之质",
+  "pt": "Ético e robusto"
+ },
+ "schoolSlogan222": {
+  "en": "Nourishing the Land",
+  "ch": "泽润万物",
+  "pt": "Nutrindo a Terra"
+ },
+ "schoolSlogan223": {
+  "en": "Knowledge Through Discourse",
+  "ch": "讲经论道",
+  "pt": "Conhecimento através do discurso"
+ },
+ "schoolSlogan224": {
+  "en": "Well-Traveled",
+  "ch": "增广见闻",
+  "pt": "Bem viajado"
+ },
+ "schoolSlogan225": {
+  "en": "Self-Disciplined",
+  "ch": "自律操守",
+  "pt": "Autodisciplinado"
+ },
+ "schoolSlogan226": {
+  "en": "All Are One",
+  "ch": "和乐群伦",
+  "pt": "Todos São Um"
+ },
+ "schoolSlogan227": {
+  "en": "A Gentle Touch",
+  "ch": "外抱柔和",
+  "pt": "Um toque suave"
+ },
+ "schoolSlogan228": {
+  "en": "Keeping to My Way",
+  "ch": "确守我道",
+  "pt": "Seguindo meu próprio caminho"
+ },
+ "schoolSlogan311": {
+  "en": "As Fate Wills",
+  "ch": "应运而起",
+  "pt": "Os Destinos do Destino"
+ },
+ "schoolSlogan312": {
+  "en": "Calm and Steady",
+  "ch": "镇静沉着",
+  "pt": "Calmo e estável"
+ },
+ "schoolSlogan313": {
+  "en": "Grace Under Pressure",
+  "ch": "处变不惊",
+  "pt": "Grace sob pressão"
+ },
+ "schoolSlogan314": {
+  "en": "Improvisational and Adaptable",
+  "ch": "随机应变",
+  "pt": "Improvisador e adaptável"
+ },
+ "schoolSlogan315": {
+  "en": "Humble in Word and Deed",
+  "ch": "谦逊慎重",
+  "pt": "Humilde em palavras e ações"
+ },
+ "schoolSlogan316": {
+  "en": "Courage and Boldness",
+  "ch": "勇往直前",
+  "pt": "Coragem e ousadia"
+ },
+ "schoolSlogan317": {
+  "en": "Open Doors",
+  "ch": "顺伏容人",
+  "pt": "Portas Abertas"
+ },
+ "schoolSlogan318": {
+  "en": "Spread Cultivation of Ordinary Karma",
+  "ch": "广修凡缘",
+  "pt": "Promova o Cultivo do Karma Comum"
+ },
+ "schoolSlogan321": {
+  "en": "Honor and Integrity",
+  "ch": "心亨有尚",
+  "pt": "Honra e Integridade"
+ },
+ "schoolSlogan322": {
+  "en": "Ever-Flowing",
+  "ch": "长流不滞",
+  "pt": "Sempre fluindo"
+ },
+ "schoolSlogan323": {
+  "en": "Into the Flame",
+  "ch": "行险用险",
+  "pt": "Dentro da Chama"
+ },
+ "schoolSlogan324": {
+  "en": "Paradise Heart",
+  "ch": "心有洞天",
+  "nomes": {
+   "Paradise": "Paraíso"
+  },
+  "pt": "Coração do Paraíso"
+ },
+ "schoolSlogan325": {
+  "en": "Asceticism",
+  "ch": "苦行为常",
+  "pt": "Ascetismo"
+ },
+ "schoolSlogan326": {
+  "en": "On Guard",
+  "ch": "防患未然",
+  "pt": "Em guarda"
+ },
+ "schoolSlogan327": {
+  "en": "Cautious and Keen",
+  "ch": "谨小慎微",
+  "pt": "Cauteloso e entusiasta"
+ },
+ "schoolSlogan328": {
+  "en": "Pure of Heart",
+  "ch": "坚守本心",
+  "pt": "Puro de Coração"
+ },
+ "schoolSlogan411": {
+  "en": "Reverent of the Elders",
+  "ch": "敬天法祖",
+  "pt": "Respeitoso para com os Anciãos"
+ },
+ "schoolSlogan412": {
+  "en": "Perceptive and Ever-Changing",
+  "ch": "穷神知化",
+  "pt": "Perspicaz e em constante mudança"
+ },
+ "schoolSlogan413": {
+  "en": "Perseverant in Challenge",
+  "ch": "百折不挠",
+  "pt": "Perseverante diante dos desafios"
+ },
+ "schoolSlogan414": {
+  "en": "Virtuous and Enterprising",
+  "ch": "进业修德",
+  "pt": "Virtuosos e empreendedores"
+ },
+ "schoolSlogan415": {
+  "en": "Tao Purist",
+  "ch": "恪守道心",
+  "pt": "Dao Purista"
+ },
+ "schoolSlogan416": {
+  "en": "Forward Ever Forward",
+  "ch": "自强不息",
+  "pt": "Sempre adiante, para a frente!"
+ },
+ "schoolSlogan417": {
+  "en": "Might and Righteousness",
+  "ch": "刚健中正",
+  "pt": "Força e Justiça"
+ },
+ "schoolSlogan418": {
+  "en": "Loyal, Filial, Moral, Just",
+  "ch": "忠孝仁义",
+  "pt": "Leal, filial, moral, justo"
+ },
+ "schoolSlogan421": {
+  "en": "Dauntless and Daring",
+  "ch": "无惧无畏",
+  "pt": "Destemidos e Audaciosos"
+ },
+ "schoolSlogan422": {
+  "en": "Rejuvenated",
+  "ch": "奋发振作",
+  "pt": "Revitalizado"
+ },
+ "schoolSlogan423": {
+  "en": "Beginning and End",
+  "ch": "有始有终",
+  "pt": "Começo e Fim"
+ },
+ "schoolSlogan424": {
+  "en": "Perseverant and Upstanding",
+  "ch": "刚毅正直",
+  "pt": "Perseverante e íntegro"
+ },
+ "schoolSlogan425": {
+  "en": "Always Prepared",
+  "ch": "有备无患",
+  "pt": "Sempre preparado"
+ },
+ "schoolSlogan426": {
+  "en": "Vigilant in Peace",
+  "ch": "居安思危",
+  "pt": "Vigilantes na Paz"
+ },
+ "schoolSlogan427": {
+  "en": "Of One Mind",
+  "ch": "爱憎分明",
+  "pt": "De uma só mente"
+ },
+ "schoolSlogan428": {
+  "en": "No Regrets",
+  "ch": "自立不羁",
+  "pt": "Sem arrependimentos"
+ },
+ "schoolSlogan431": {
+  "en": "Fearless",
+  "ch": "包容万象",
+  "pt": "Destemido"
+ },
+ "schoolSlogan432": {
+  "en": "Mind and Body",
+  "ch": "炼形存神",
+  "pt": "Mente e Corpo"
+ },
+ "schoolSlogan433": {
+  "en": "Strength through Gentleness",
+  "ch": "以柔克刚",
+  "pt": "Força através da gentileza"
+ },
+ "schoolSlogan434": {
+  "en": "Virtue and Acceptance",
+  "ch": "厚德载物",
+  "nomes": {
+   "Virtue and Acceptance": "Virtude e Aceitação"
+  },
+  "pt": "Virtude e Aceitação"
+ },
+ "schoolSlogan435": {
+  "en": "Still Hearts, Calm Minds",
+  "ch": "修心养性",
+  "pt": "Corações serenos, mentes calmas"
+ },
+ "schoolSlogan436": {
+  "en": "Passing the Torch",
+  "ch": "薪火相传",
+  "pt": "Passando o bastão"
+ },
+ "schoolSlogan437": {
+  "en": "Heaven-Sent",
+  "ch": "顺承天道",
+  "pt": "Enviado pelo Céu"
+ },
+ "schoolSlogan438": {
+  "en": "No Qualms",
+  "ch": "无愧于心",
+  "pt": "Sem escrúpulos"
+ },
+ "schoolSlogan441": {
+  "en": "Welcome All",
+  "ch": "豪迎八方",
+  "pt": "Bem-vindos a todos"
+ },
+ "schoolSlogan443": {
+  "en": "With Roaring Spirit",
+  "ch": "激昂斗志",
+  "pt": "Com o Espírito rugindo"
+ },
+ "schoolSlogan444": {
+  "en": "Forging Ahead",
+  "ch": "砥砺前行",
+  "pt": "Avançando sem parar"
+ },
+ "schoolSlogan445": {
+  "en": "Avoid Harm",
+  "ch": "趋利避害",
+  "pt": "Evite danos"
+ },
+ "schoolSlogan446": {
+  "en": "Follow the Heart",
+  "ch": "顺逆随心",
+  "pt": "Siga o Coração"
+ },
+ "schoolSlogan447": {
+  "en": "Steadfast and Progressive",
+  "ch": "笃实进取",
+  "pt": "Firme e Progressivo"
+ },
+ "schoolSlogan448": {
+  "en": "Guileless and Transparent",
+  "ch": "内空外明",
+  "pt": "Inocente e transparente"
+ },
+ "schoolSloganDesc141": {
+  "en": "An exclusive building called Greenscale Spring that is used to nurture Following Bug.",
+  "ch": "具有用于培养跟屁虫的专属建筑青鳞池。",
+  "nomes": {
+   "Following Bug": "Grudento"
+  },
+  "pt": "Um edifício exclusivo chamado Greenscale Spring, utilizado para criar Grudentos."
+ },
+ "schoolSloganDesc142": {
+  "en": "When there is Breakthrough, Following Bug Series Rewrite Destiny is guaranteed to appear.",
+  "ch": "突破时必定会出现跟屁虫系列逆天改命。",
+  "nomes": {
+   "Following Bug": "Grudento"
+  },
+  "pt": "Quando ocorre um Avanço, é garantido que a série Grudento: Reescrever o Destino seja lançada."
+ },
+ "schoolSloganDesc143": {
+  "en": "Forbidden to talk about our Sect when in other Sect territories.",
+  "ch": "禁止在其他宗门领地内谈论我方宗门。",
+  "pt": "É proibido falar sobre a nossa Seita quando estivermos em territórios de outras Seitas."
+ },
+ "schoolSloganDesc144": {
+  "en": "Forbidden for Sect Leader to claim wages.",
+  "ch": "禁止宗主领取俸禄。",
+  "pt": "Proibido ao Líder da Seita reivindicar salários."
+ },
+ "schoolSloganDesc211": {
+  "en": "The Stability of the Sect decreases more slowly",
+  "ch": "宗门的安定度下降速度更慢",
+  "pt": "A estabilidade da Seita diminui mais lentamente."
+ },
+ "schoolSloganDesc212": {
+  "en": "Spot people from enemy Sects more easily within the Sect",
+  "ch": "更容易发现敌对宗门进入我宗的人",
+  "pt": "É mais fácil identificar pessoas de Seitas inimigas dentro da própria Seita."
+ },
+ "schoolSloganDesc213": {
+  "en": "Lower losses from the Sect array",
+  "ch": "宗门大阵的损耗率更低",
+  "pt": "Menores perdas na formação da Seita"
+ },
+ "schoolSloganDesc214": {
+  "en": "Sparring between Sect Disciples give greater rewards",
+  "ch": "宗门弟子间切磋获得的收获更多",
+  "pt": "Os treinos entre Discípulos da Seita rendem recompensas maiores."
+ },
+ "schoolSloganDesc215": {
+  "en": "Forbidden: Dual Cultivation outside of Spouses or Partners",
+  "ch": "禁止和夫妻、道侣以外的人双修",
+  "pt": "Proibido: Cultivo Dual entre pessoas que não sejam cônjuges ou parceiros."
+ },
+ "schoolSloganDesc216": {
+  "en": "Forbidden: Gossiping about enemies with other Sects",
+  "ch": "禁止与其他宗门的人谈论仇人",
+  "pt": "Proibido: Fofocar sobre inimigos com outros Seitas."
+ },
+ "schoolSloganDesc217": {
+  "en": "Forbidden: Attacking members of friendly Sects",
+  "ch": "禁止攻击友方宗门弟子",
+  "pt": "Proibido: Atacar membros de Seitas aliadas."
+ },
+ "schoolSloganDesc218": {
+  "en": "Forbidden: Geomancy on enemy Sect territories",
+  "ch": "禁止在敌方领地内堪舆",
+  "pt": "Proibido: Utilizar Geomancia em territórios de Seitas inimigas."
+ },
+ "schoolSloganDesc221": {
+  "en": "Sect Prestige increases more quickly",
+  "ch": "宗门名誉提升得更快",
+  "pt": "O Prestígio da Seita aumenta mais rapidamente"
+ },
+ "schoolSloganDesc222": {
+  "en": "Higher chance of leaving safely when in enemy Sect territory",
+  "ch": "在敌对宗门的领地时更容易安全离开",
+  "pt": "Maior chance de sair ileso ao estar em território da Seita inimiga."
+ },
+ "schoolSloganDesc223": {
+  "en": "More rewards from Debates between Disciples",
+  "ch": "宗门弟子间论道获得的收获更多",
+  "pt": "Mais recompensas provenientes dos Debates entre Discípulos"
+ },
+ "schoolSloganDesc224": {
+  "en": "More generous rewards from Bounty Board Missions",
+  "ch": "城镇悬赏榜的任务奖励更丰厚",
+  "pt": "Recompensas mais generosas nas Missões do Quadro de Recompensas"
+ },
+ "schoolSloganDesc225": {
+  "en": "Forbidden: Sparring with a person from the hostile position",
+  "ch": "禁止与敌对立场的人切磋",
+  "pt": "Proibido: Treinar com uma pessoa da posição hostil"
+ },
+ "schoolSloganDesc226": {
+  "en": "Forbidden: Gossiping about enemies with other Sects",
+  "ch": "禁止与其他宗门的人谈论仇人",
+  "pt": "Proibido: Fofocar sobre inimigos com outros Seitas."
+ },
+ "schoolSloganDesc227": {
+  "en": "Forbidden: Stealing from people in similar positions.",
+  "ch": "禁止偷窃相同立场的人",
+  "pt": "Proibido: Roubar pessoas em posições semelhantes."
+ },
+ "schoolSloganDesc228": {
+  "en": "Forbidden: Attacking characters with positive Affinity",
+  "ch": "禁止攻击有好感度的角色",
+  "pt": "Proibido: Atacar personagens com Afinidade positiva"
+ },
+ "schoolSloganDesc311": {
+  "en": "Cultivation is quicker in the Spirit Pavilion of the Sect",
+  "ch": "在本宗灵阁内修炼的速度更快",
+  "pt": "O Cultivo é mais rápido no Pavilhão do Espírito da Seita."
+ },
+ "schoolSloganDesc312": {
+  "en": "Higher chance of leaving safely when in enemy Sect territory",
+  "ch": "在敌对宗门的领地时更容易安全离开",
+  "pt": "Maior chance de sair ileso ao estar em território da Seita inimiga."
+ },
+ "schoolSloganDesc313": {
+  "en": "Easier to deepen relationship with hostile Sects",
+  "ch": "与敌对宗门的关系更容易好转",
+  "pt": "É mais fácil aprofundar o relacionamento com Seitas hostis."
+ },
+ "schoolSloganDesc314": {
+  "en": "Less losses when resource points are looted",
+  "ch": "资源点被掠夺时损失更少",
+  "pt": "Menos perdas quando os pontos de recurso são saqueados"
+ },
+ "schoolSloganDesc315": {
+  "en": "Forbidden: Gossiping with hostile Sects about the Sect",
+  "ch": "禁止与敌对宗门的人谈论自己的宗门",
+  "pt": "Proibido: Fofocar com Seitas hostis sobre a própria Seita."
+ },
+ "schoolSloganDesc316": {
+  "en": "Forbidden: Establishing familial relations with members of hostile Sects",
+  "ch": "禁止与敌对立场的人缔结亲族关系",
+  "pt": "Proibido: Estabelecer relações familiares com membros de Seitas hostis"
+ },
+ "schoolSloganDesc317": {
+  "en": "Forbidden: Theft on own Sect Territory",
+  "ch": "禁止在我方宗门领地内偷窃",
+  "pt": "Proibido: Roubo no território da própria Seita"
+ },
+ "schoolSloganDesc318": {
+  "en": "Forbidden: Gossiping about enemies with other Sects",
+  "ch": "禁止与其他宗门之人谈论仇人",
+  "pt": "Proibido: Fofocar sobre inimigos com outros Seitas."
+ },
+ "schoolSloganDesc321": {
+  "en": "Other Sects have Affinity for the Sect more easily",
+  "ch": "其他宗门更容易对我宗产生好感度",
+  "pt": "Outras seitas têm afinidade com essa seita mais facilmente."
+ },
+ "schoolSloganDesc322": {
+  "en": "Easier to deepen relationship with hostile Sects",
+  "ch": "与敌对宗门的关系更容易好转",
+  "pt": "É mais fácil aprofundar o relacionamento com Seitas hostis."
+ },
+ "schoolSloganDesc323": {
+  "en": "Chance of Disciples dying while on Missions reduced",
+  "ch": "弟子执行任务时死亡率更低",
+  "pt": "Chance de os Discípulos morrerem durante as Missões foi reduzida."
+ },
+ "schoolSloganDesc324": {
+  "en": "More rewards from Debates between Sect Disciples",
+  "ch": "宗门弟子间论道获得的收获更多",
+  "pt": "Mais recompensas obtidas nos Debates entre Discípulos da Seita"
+ },
+ "schoolSloganDesc325": {
+  "en": "Forbidden: Theft on own Sect Territory",
+  "ch": "禁止在我方宗门领地内偷窃",
+  "pt": "Proibido: Roubo no território da própria Seita"
+ },
+ "schoolSloganDesc326": {
+  "en": "Forbidden: Establishing familial relations with members of hostile Sects",
+  "ch": "禁止与敌对立场的人缔结亲族关系",
+  "pt": "Proibido: Estabelecer relações familiares com membros de Seitas hostis."
+ },
+ "schoolSloganDesc327": {
+  "en": "Forbidden: Talking with hostile positions about the Sect",
+  "ch": "禁止与其他敌对立场的人谈论宗门",
+  "pt": "Proibido: Falar com posturas hostis sobre a Seita."
+ },
+ "schoolSloganDesc328": {
+  "en": "Forbidden: Requesting items from hostile positions",
+  "ch": "禁止向敌对立场的人索取物品",
+  "pt": "Proibido: Solicitar item de posições hostis."
+ },
+ "schoolSloganDesc411": {
+  "en": "Higher Sect Mission success rate for Disciples",
+  "ch": "弟子进行宗门任务的成功率会更高",
+  "pt": "Taxa de sucesso da Missão da Seita para os Discípulos"
+ },
+ "schoolSloganDesc412": {
+  "en": "More monthly refreshed Missions",
+  "ch": "每月刷新的任务数量更多",
+  "pt": "Mais Missões que são atualizadas mensalmente"
+ },
+ "schoolSloganDesc413": {
+  "en": "Lower fatality rate on Missions for Disciples",
+  "ch": "弟子执行任务时死亡率更低",
+  "pt": "Menor taxa de mortalidade nas Missões entre os Discípulos"
+ },
+ "schoolSloganDesc414": {
+  "en": "Sect Mission rewards are more generous",
+  "ch": "宗门任务的奖励更加丰厚",
+  "pt": "As recompensas da Missão da Seita são mais generosas."
+ },
+ "schoolSloganDesc415": {
+  "en": "Forbidden: Gifting items to the hostile position",
+  "ch": "禁止赠送物品给敌对立场的人",
+  "pt": "Proibido: Presentear itens à posição hostil."
+ },
+ "schoolSloganDesc416": {
+  "en": "Forbidden: Dual Cultivation on enemy Sect territory",
+  "ch": "禁止在敌方宗门领地内双修",
+  "pt": "Proibido: Cultivo Duplo em território de uma Seita inimiga"
+ },
+ "schoolSloganDesc417": {
+  "en": "Forbidden: Stealing from people of the same position",
+  "ch": "禁止偷窃相同立场的人",
+  "pt": "Proibido: Roubar de pessoas do mesmo nível"
+ },
+ "schoolSloganDesc418": {
+  "en": "Forbidden: Attacking characters with positive Affinity",
+  "ch": "禁止攻击有好感度的角色",
+  "pt": "Proibido: Atacar personagens com Afinidade positiva"
+ },
+ "schoolSloganDesc421": {
+  "en": "Higher efficiency in gaining resources from resource points",
+  "ch": "从资源点中获取资源的效率更高",
+  "pt": "Maior eficiência na obtenção de recursos a partir dos pontos de recurso."
+ },
+ "schoolSloganDesc422": {
+  "en": "Stamina of Sect Disciples increased",
+  "ch": "宗门弟子的精力更加充沛",
+  "pt": "O Vigor dos Discípulos da Seita aumentou."
+ },
+ "schoolSloganDesc423": {
+  "en": "Become closer with friendly Sects",
+  "ch": "与友好宗门的关系会越发亲近",
+  "pt": "Aproxime-se das Seitas amigáveis."
+ },
+ "schoolSloganDesc424": {
+  "en": "More rewards from Debates between Sect Disciples",
+  "ch": "宗门弟子间论道获得的收获更多",
+  "pt": "Mais recompensas provenientes de debates entre Discípulos da Seita"
+ },
+ "schoolSloganDesc425": {
+  "en": "Forbidden: Dual Cultivation with enemy Sect",
+  "ch": "禁止与敌对宗门的人双修",
+  "pt": "Proibido: Cultivo Duplo com membros de uma Seita inimiga"
+ },
+ "schoolSloganDesc426": {
+  "en": "Forbidden: Gifting items to the hostile position",
+  "ch": "禁止赠送物品给敌对立场的人",
+  "pt": "Proibido: Oferecer itens à posição hostil."
+ },
+ "schoolSloganDesc427": {
+  "en": "Forbidden: Requesting items from hostile positions",
+  "ch": "禁止向敌对立场的人索要物品",
+  "pt": "Proibido: Solicitar items de posições hostis."
+ },
+ "schoolSloganDesc428": {
+  "en": "Forbidden: Establishing familial relations with members of hostile Sects",
+  "ch": "禁止与敌对立场的人缔结亲族关系",
+  "pt": "Proibido: Estabelecer relações familiares com membros de Seitas hostis."
+ },
+ "schoolSloganDesc431": {
+  "en": "Sparring between Sect Disciples give greater rewards",
+  "ch": "宗门弟子间切磋获得的收获更多",
+  "pt": "Os combates entre Discípulos da Seita rendem recompensas maiores."
+ },
+ "schoolSloganDesc432": {
+  "en": "More Manuals produced by the Manual Library",
+  "ch": "藏经阁产出的秘籍更多",
+  "pt": "Mais Manuais produzidos pela Biblioteca de Manuais"
+ },
+ "schoolSloganDesc433": {
+  "en": "Lower chance of Disciples getting hurt on Missions",
+  "ch": "弟子执行任务时的受伤率更低",
+  "pt": "Menor chance de os Discípulos se ferirem durante as Missões."
+ },
+ "schoolSloganDesc434": {
+  "en": "Territories can be expanded more easily",
+  "ch": "领地更容易得到扩张",
+  "pt": "Os territórios podem ser expandidos mais facilmente"
+ },
+ "schoolSloganDesc435": {
+  "en": "Forbidden: Dual Cultivation with a person from the hostile position",
+  "ch": "禁止与敌对立场的人双修",
+  "pt": "Proibido: Cultivo Duplo com uma pessoa do lado inimigo"
+ },
+ "schoolSloganDesc436": {
+  "en": "Forbidden: Attacking Disciples of friendly Sects",
+  "ch": "禁止攻击友方宗门弟子",
+  "pt": "Proibido: Atacar Discípulos de Seitas aliadas."
+ },
+ "schoolSloganDesc437": {
+  "en": "Forbidden: Requesting items from hostile positions",
+  "ch": "禁止向敌对立场的人索要物品",
+  "pt": "Proibido: Solicitar item de posições hostis."
+ },
+ "schoolSloganDesc438": {
+  "en": "Forbidden: Stealing from people in similar positions.",
+  "ch": "禁止偷窃相同立场的人",
+  "pt": "Proibido: Roubar pessoas em posições semelhantes."
+ },
+ "schoolSloganDesc441": {
+  "en": "Less contribution required to exchange items in the Sect",
+  "ch": "宗门内兑换物品所需的贡献更少",
+  "pt": "É necessária menos contribuição para trocar items na Seita."
+ },
+ "schoolSloganDesc442": {
+  "en": "Higher chance of leaving safely when in other Sect territory",
+  "ch": "在其他宗门的领地内更容易安全离开",
+  "pt": "Maior chance de sair em segurança quando estiver em território de outras Seitas."
+ },
+ "schoolSloganDesc443": {
+  "en": "Sparring between Sect Disciples give greater rewards",
+  "ch": "宗门弟子间切磋获得的收获更多",
+  "pt": "Os treinos entre Discípulos da Seita rendem recompensas maiores."
+ },
+ "schoolSloganDesc444": {
+  "en": "Higher tax gains in Sect territory",
+  "ch": "宗门领地的税收更高",
+  "pt": "Maiores ganhos fiscais no território da Seita"
+ },
+ "schoolSloganDesc445": {
+  "en": "Forbidden: Gravedigging in Sect territory",
+  "ch": "禁止在本宗领地内挖掘坟墓",
+  "pt": "Proibido: Escavação de túmulos em território da Seita"
+ },
+ "schoolSloganDesc446": {
+  "en": "Forbidden: Theft on own Sect Territory",
+  "ch": "禁止在我方宗门领地内偷窃",
+  "pt": "Proibido: Roubo no território da própria Seita"
+ },
+ "schoolSloganDesc447": {
+  "en": "Forbidden: Requests to enemy Sects",
+  "ch": "禁止向敌方宗门的人索取",
+  "pt": "Proibido: Solicitações a Seitas inimigas"
+ },
+ "schoolSloganDesc448": {
+  "en": "Forbidden: Inviting a person from the hostile position",
+  "ch": "禁止与敌对立场的人邀约",
+  "pt": "Proibido: Convidar uma pessoa da posição hostil"
+ },
+ "schoolSoul_getTip": {
+  "en": "You have already obtained the Sect's exclusive Rewrite Destiny and you will not obtain this Rewrite Destiny at this Breakthrough",
+  "ch": "你已获得宗门专属逆天改命，本次突破将无法获得该逆天改命",
+  "pt": "Você já obteve o Reescrever o Destino exclusivo da Seita; portanto, não receberá esse Reescrever o Destino neste Avanço."
+ },
+ "schoolSoul_title": {
+  "en": "Breakthrough here can lead to comprehending the Sect's exclusive Rewrite Destiny",
+  "ch": "在此突破可领悟宗门专属逆天改命",
+  "pt": "Esse Avanço pode ajudar a compreender o método exclusivo da Seita para Reescrever o Destino."
+ },
+ "schoolStatic_no_main": {
+  "en": "Only the Sect Leader of the Sect can decide Sect strategy.",
+  "ch": "只有本门宗主才可决定宗门战略",
+  "pt": "Apenas o Líder da Seita pode decidir sobre a estratégia da Seita."
+ },
+ "schoolTaskDesc101": {
+  "en": "Recruit",
+  "ch": "招募任务",
+  "pt": "Recrutar"
+ },
+ "schoolTaskDesc102": {
+  "en": "Collecting Herbs",
+  "ch": "收集药材",
+  "pt": "Colhendo Ervas"
+ },
+ "schoolTaskDesc10250": {
+  "en": "The need for elixirs has increased rapidly in the Sect. Take some of the new Initiates to gather 10 Taixuan Matsutake. They can be gathered in the Hua Feng and Hundred Thousand Hills areas, or from killing the monsters in these areas.",
+  "ch": "宗门内丹药所需急增，请你带同几名新进入门的外门弟子采集10个太玄松茸。太玄松茸可于华封州、十万大山区域内采集获得，亦可通过击杀华封州、十万大山区域内的怪物获得。",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "A necessidade por elixires aumentou rapidamente na Seita. Leve alguns dos novos Iniciados para coletar 10 cogumelos Taixuan Matsutake. Eles podem ser encontrados nas regiões de Hua Feng e Cento Mil Colinas, ou ao matar os monstros que habitam essas áreas."
+ },
+ "schoolTaskDesc10251": {
+  "en": "The need for elixirs has increased rapidly in the Sect. Take some of the new Initiates to gather 10 Taixuan Matsutake. They can be gathered in the Hua Feng and Hundred Thousand Hills areas, or from killing the monsters in these areas.",
+  "ch": "宗门内丹药所需急增，请你带同几名新进入门的外门弟子采集10个太玄松茸。太玄松茸可于华封州、十万大山区域内采集获得，亦可通过击杀华封州、十万大山区域内的怪物获得。",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "A necessidade por elixires aumentou rapidamente na Seita. Leve alguns dos novos Iniciados para coletar 10 cogumelos Taixuan Matsutake. Eles podem ser encontrados nas regiões de Hua Feng e Colinas das Cem Mil, ou ao matar os monstros que habitam essas áreas."
+ },
+ "schoolTaskDesc10252": {
+  "en": "The need for elixirs has increased rapidly in the Sect. Take some of the new Initiates to gather 10 Taixuan Matsutake. They can be gathered in the Hua Feng and Hundred Thousand Hills areas, or from killing the monsters in these areas.",
+  "ch": "宗门内丹药所需急增，请你带同几名新进入门的外门弟子采集10个太玄松茸。太玄松茸可于华封州、十万大山区域内采集获得，亦可通过击杀华封州、十万大山区域内的怪物获得。",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "A necessidade por elixires aumentou rapidamente na Seita. Leve alguns dos novos Iniciados para colher 10 cogumelos Taixuan Matsutake. Eles podem ser encontrados nas regiões de Hua Feng e Colinas das Cem Mil, ou ao matar os monstros que habitam essas áreas."
+ },
+ "schoolTaskDesc10253": {
+  "en": "The need for elixirs has increased rapidly in the Sect. Take some of the new Initiates to gather 10 Taixuan Matsutake. They can be gathered in the Hua Feng and Hundred Thousand Hills areas, or from killing the monsters in these areas.",
+  "ch": "宗门内丹药所需急增，请你带同几名新进入门的外门弟子采集10个太玄松茸。太玄松茸可于华封州、十万大山区域内采集获得，亦可通过击杀华封州、十万大山区域内的怪物获得。",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "A necessidade por elixires aumentou rapidamente na Seita. Leve alguns dos novos Iniciados para colherem 10 cogumelos Taixuan Matsutake. Eles podem ser encontrados nas regiões de Hua Feng e nas Colinas das Cem Mil, ou ao matar os monstros que habitam essas áreas."
+ },
+ "schoolTaskDesc10254": {
+  "en": "The need for elixirs has increased rapidly in the Sect. Take some of the new Initiates to gather 10 Taixuan Matsutake. They can be gathered in the Hua Feng and Hundred Thousand Hills areas, or from killing the monsters in these areas.",
+  "ch": "宗门内丹药所需急增，请你带同几名新进入门的外门弟子采集10个太玄松茸。太玄松茸可于华封州、十万大山区域内采集获得，亦可通过击杀华封州、十万大山区域内的怪物获得。",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "A necessidade por elixires aumentou rapidamente na Seita. Leve alguns dos novos Iniciados para coletar 10 cogumelos Taixuan Matsutake. Eles podem ser encontrados nas regiões de Hua Feng e Colinas das Cem Mil, ou ao matar os monstros que habitam essas áreas."
+ },
+ "schoolTaskDesc10270": {
+  "en": "The sect’s Guardian has been crying constantly recently. The elder analyzed the situation and believes that the Guardian's physical condition is affected. He has asked you to gather 10 Osmanthus to make medicine for the Guardian. It can be gathered in the Bai Yuan, Yong Ning, and Lei Ze areas, or from killing monsters in these areas.",
+  "ch": "宗门神兽最近夜夜枭啼，经过长老诊断，认为神兽身体出现状况，他让你前往采集10个双桂草，为神兽入药。双桂草可在白源区、永宁州、雷泽内采集获得，亦可通过击杀白源区、永宁州、雷泽区域内怪物获得。",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "O Guardião da seita tem chorado sem parar ultimamente. O ancião analisou a situação e acredita que a condição física do Guardião está se deteriorando. Ele pediu que você reunisse 10 flores de osmanto para preparar um remédio para o Guardião. Elas podem ser encontradas nas regiões de Bai Yuan, Yong Ning e Lei Ze, ou ao matar monstros nessas áreas."
+ },
+ "schoolTaskDesc10271": {
+  "en": "The sect’s Guardian has been crying constantly recently. The elder analyzed the situation and believes that the Guardian's physical condition is affected. He has asked you to gather 10 Osmanthus to make medicine for the Guardian. It can be gathered in the Bai Yuan, Yong Ning, and Lei Ze areas, or from killing monsters in these areas.",
+  "ch": "宗门神兽最近夜夜枭啼，经过长老诊断，认为神兽身体出现状况，他让你前往采集10个双桂草，为神兽入药。双桂草可在白源区、永宁州、雷泽内采集获得，亦可通过击杀白源区、永宁州、雷泽区域内怪物获得。",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "O Guardião da seita tem chorado constantemente ultimamente. O ancião analisou a situação e acredita que a condição física do Guardião está sendo afetada. Ele pediu que você reunisse 10 flores de osmanthus para preparar um remédio para o Guardião. Elas podem ser encontradas nas áreas de Bai Yuan, Yong Ning e Lei Ze, ou obtidas ao matar monstros nesses locais."
+ },
+ "schoolTaskDesc10272": {
+  "en": "The sect’s Guardian has been crying constantly recently. The elder analyzed the situation and believes that the Guardian's physical condition is affected. He has asked you to gather 10 Osmanthus to make medicine for the Guardian. It can be gathered in the Bai Yuan, Yong Ning, and Lei Ze areas, or from killing monsters in these areas.",
+  "ch": "宗门神兽最近夜夜枭啼，经过长老诊断，认为神兽身体出现状况，他让你前往采集10个双桂草，为神兽入药。双桂草可在白源区、永宁州、雷泽内采集获得，亦可通过击杀白源区、永宁州、雷泽区域内怪物获得。",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "O Guardião da seita tem chorado constantemente ultimamente. O ancião analisou a situação e acredita que a condição física do Guardião está se deteriorando. Ele pediu que você reunisse 10 flores de osmanto para preparar um remédio para o Guardião. Elas podem ser encontradas nas áreas de Bai Yuan, Yong Ning e Lei Ze, ou obtidas ao matar monstros nessas regiões."
+ },
+ "schoolTaskDesc10273": {
+  "en": "The sect’s Guardian has been crying constantly recently. The elder analyzed the situation and believes that the Guardian's physical condition is affected. He has asked you to gather 10 Osmanthus to make medicine for the Guardian. It can be gathered in the Bai Yuan, Yong Ning, and Lei Ze areas, or from killing monsters in these areas.",
+  "ch": "宗门神兽最近夜夜枭啼，经过长老诊断，认为神兽身体出现状况，他让你前往采集10个双桂草，为神兽入药。双桂草可在白源区、永宁州、雷泽内采集获得，亦可通过击杀白源区、永宁州、雷泽区域内怪物获得。",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "O Guardião da seita tem chorado constantemente ultimamente. O ancião analisou a situação e acredita que a condição física do Guardião está comprometida. Ele pediu que você reunisse 10 flores de osmanthus para preparar um remédio para o Guardião. Elas podem ser encontradas nas regiões de Bai Yuan, Yong Ning e Lei Ze, ou obtidas ao matar monstros nessas áreas."
+ },
+ "schoolTaskDesc10274": {
+  "en": "The sect’s Guardian has been crying constantly recently. The elder analyzed the situation and believes that the Guardian's physical condition is affected. He has asked you to gather 10 Osmanthus to make medicine for the Guardian. It can be gathered in the Bai Yuan, Yong Ning, and Lei Ze areas, or from killing monsters in these areas.",
+  "ch": "宗门神兽最近夜夜枭啼，经过长老诊断，认为神兽身体出现状况，他让你前往采集10个双桂草，为神兽入药。双桂草可在白源区、永宁州、雷泽内采集获得，亦可通过击杀白源区、永宁州、雷泽区域内怪物获得。",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "O Guardião da seita tem chorado sem parar ultimamente. O ancião analisou a situação e acredita que a condição física do Guardião está sendo afetada. Ele pediu que você reunisse 10 folhas de osmanthus para preparar um remédio para o Guardião. Elas podem ser encontradas nas regiões de Bai Yuan, Yong Ning e Lei Ze, ou ao matar monstros nessas áreas."
+ },
+ "schoolTaskDesc103": {
+  "en": "Elixir Concoction",
+  "ch": "炼制丹药",
+  "pt": "Preparação de Elixir"
+ },
+ "schoolTaskDesc104": {
+  "en": "Monster Sweep",
+  "ch": "清理怪物",
+  "pt": "Varredura de Monstros"
+ },
+ "schoolTaskDesc10411": {
+  "en": "A large number of monsters have appeared recently. The Sect suspects that there must be a monster nest nearby. Go exterminate them so that the Sect can make countermeasures.",
+  "ch": "最近大量妖兽无端出没，宗门怀疑附近必有妖怪巢穴，请你前往剿灭，好让宗门作出对策。",
+  "pt": "Recentemente, um grande número de monstros apareceu. A Seita suspeita que deve haver um ninho de monstros nas proximidades. Vá e elimine-os para que a Seita possa tomar as devidas medidas."
+ },
+ "schoolTaskDesc10412": {
+  "en": "A large number of monsters have appeared recently. The Sect suspects that there must be a monster nest nearby. Go exterminate them so that the Sect can make countermeasures.",
+  "ch": "最近大量妖兽无端出没，宗门怀疑附近必有妖怪巢穴，请你前往剿灭，好让宗门作出对策。",
+  "pt": "Recentemente, um grande número de monstros apareceu. A Seita suspeita que deve haver um ninho de monstros nas proximidades. Vá eliminá-los para que a Seita possa tomar as devidas medidas."
+ },
+ "schoolTaskDesc10413": {
+  "en": "A large number of monsters have appeared recently. The Sect suspects that there must be a monster nest nearby. Go exterminate them so that the Sect can make countermeasures.",
+  "ch": "最近大量妖兽无端出没，宗门怀疑附近必有妖怪巢穴，请你前往剿灭，好让宗门作出对策。",
+  "pt": "Recentemente, um grande número de monstros apareceu. A Seita suspeita que deve haver um ninho de monstros nas proximidades. Vá e extermine-os para que a Seita possa tomar as medidas necessárias."
+ },
+ "schoolTaskDesc10414": {
+  "en": "A large number of monsters have appeared recently. The Sect suspects that there must be a monster nest nearby. Go exterminate them so that the Sect can make countermeasures.",
+  "ch": "最近大量妖兽无端出没，宗门怀疑附近必有妖怪巢穴，请你前往剿灭，好让宗门作出对策。",
+  "pt": "Recentemente, um grande número de monstros apareceu. A Seita suspeita que deve haver um ninho de monstros nas proximidades. Vá e extermine-os para que a Seita possa tomar as devidas medidas."
+ },
+ "schoolTaskDesc10415": {
+  "en": "A large number of monsters have appeared recently. The Sect suspects that there must be a monster nest nearby. Go exterminate them so that the Sect can make countermeasures.",
+  "ch": "最近大量妖兽无端出没，宗门怀疑附近必有妖怪巢穴，请你前往剿灭，好让宗门作出对策。",
+  "pt": "Recentemente, um grande número de monstros apareceu. A Seita suspeita que deve haver um ninho de monstros nas proximidades. Vá e extermine-os, para que a Seita possa tomar as devidas medidas de contenção."
+ },
+ "schoolTaskDesc10416": {
+  "en": "Recruitment is looking for newcomers and would like you to eliminate the monsters nearby to build up the Sect's prestige.",
+  "ch": "招贤堂为广招新人，想请你剿灭附近盘踞的怪物，为宗门立威。",
+  "pt": "O Recrutamento está à procura de novos membros e gostaria que você eliminasse os monstros próximos, a fim de aumentar o prestígio da Seita."
+ },
+ "schoolTaskDesc10417": {
+  "en": "Recruitment is looking for newcomers and would like you to eliminate the monsters nearby to build up the Sect's prestige.",
+  "ch": "招贤堂为广招新人，想请你剿灭附近盘踞的怪物，为宗门立威。",
+  "pt": "O recrutamento está à procura de novos membros e gostaria que você eliminasse os monstros próximos, a fim de aumentar o prestígio da Seita."
+ },
+ "schoolTaskDesc10418": {
+  "en": "Recruitment is looking for newcomers and would like you to eliminate the monsters nearby to build up the Sect's prestige.",
+  "ch": "招贤堂为广招新人，想请你剿灭附近盘踞的怪物，为宗门立威。",
+  "pt": "O recrutamento está à procura de novos membros e gostaria que você eliminasse os monstros próximos, a fim de aumentar o prestígio da Seita."
+ },
+ "schoolTaskDesc10419": {
+  "en": "Recruitment is looking for newcomers and would like you to eliminate the monsters nearby to build up the Sect's prestige.",
+  "ch": "招贤堂为广招新人，想请你剿灭附近盘踞的怪物，为宗门立威。",
+  "pt": "O recrutamento está à procura de novos membros e gostaria que você eliminasse os monstros próximos, a fim de elevar o prestígio da Seita."
+ },
+ "schoolTaskDesc10420": {
+  "en": "Recruitment is looking for newcomers and would like you to eliminate the monsters nearby to build up the Sect's prestige.",
+  "ch": "招贤堂为广招新人，想请你剿灭附近盘踞的怪物，为宗门立威。",
+  "pt": "O Recrutamento está à procura de novos membros e gostaria que você eliminasse os monstros próximos, a fim de aumentar o prestígio da Seita."
+ },
+ "schoolTaskDesc105": {
+  "en": "Territory Garrison",
+  "ch": "驻守领地",
+  "pt": "Guarnição Territorial"
+ },
+ "schoolTaskDesc106": {
+  "en": "Pacifying Rebellions",
+  "ch": "平定叛乱",
+  "pt": "Pacificando rebeliões"
+ },
+ "schoolTaskDesc107": {
+  "en": "Elixir Delivery",
+  "ch": "运送丹药",
+  "pt": "Entrega de Elixir"
+ },
+ "schoolTaskDesc108": {
+  "en": "Territory Expansion",
+  "ch": "扩张领地",
+  "pt": "Expansão territorial"
+ },
+ "schoolTaskDesc109": {
+  "en": "Enemy Elimination",
+  "ch": "击杀敌道",
+  "pt": "Eliminação de inimigos"
+ },
+ "schoolTaskDesc110": {
+  "en": "Tending Herb Garden",
+  "ch": "打理灵草园",
+  "pt": "Cuidados no Jardim de Ervas"
+ },
+ "schoolTaskDesc11350": {
+  "en": "An artifact that has always been upgraded has disappeared from the Hall. We found out that the artifact was stolen, so we ask our Disciples to recover it.",
+  "ch": "堂中一件培养已久的法器无端失踪。我堂已经查明，乃是州中盗魁窃走宝物，现请门人设法追回。",
+  "pt": "Um artefato que sempre foi atualizado desapareceu do Salão. Descobrimos que o artefato foi roubado, por isso pedimos aos nossos Discípulos que o recuperem."
+ },
+ "schoolTaskDesc11351": {
+  "en": "An artifact that has always been upgraded has disappeared from the Hall. We found out that the artifact was stolen, so we ask our Disciples to recover it.",
+  "ch": "堂中一件培养已久的法器无端失踪。我堂已经查明，乃是州中盗魁窃走宝物，现请门人设法追回。",
+  "pt": "Um artefato que sempre foi atualizado desapareceu do Salão. Descobrimos que o artefato foi roubado, por isso pedimos aos nossos Discípulos que o recuperem."
+ },
+ "schoolTaskDesc11352": {
+  "en": "An artifact that has always been upgraded has disappeared from the Hall. We found out that the artifact was stolen, so we ask our Disciples to recover it.",
+  "ch": "堂中一件培养已久的法器无端失踪。我堂已经查明，乃是州中盗魁窃走宝物，现请门人设法追回。",
+  "pt": "Um artefato que sempre foi atualizado desapareceu do Salão. Descobrimos que o artefato foi roubado, por isso pedimos aos nossos Discípulos que o recuperem."
+ },
+ "schoolTaskDesc11353": {
+  "en": "An artifact that has always been upgraded has disappeared from the Hall. We found out that the artifact was stolen, so we ask our Disciples to recover it.",
+  "ch": "堂中一件培养已久的法器无端失踪。我堂已经查明，乃是州中盗魁窃走宝物，现请门人设法追回。",
+  "pt": "Um artefato que sempre foi atualizado desapareceu do Salão. Descobrimos que o artefato foi roubado, por isso pedimos aos nossos Discípulos que o recuperem."
+ },
+ "schoolTaskDesc11354": {
+  "en": "An artifact that has always been upgraded has disappeared from the Hall. We found out that the artifact was stolen, so we ask our Disciples to recover it.",
+  "ch": "堂中一件培养已久的法器无端失踪。我堂已经查明，乃是州中盗魁窃走宝物，现请门人设法追回。",
+  "pt": "Um artefato que sempre foi atualizado desapareceu do Salão. Descobrimos que o artefato foi roubado, por isso pedimos aos nossos Discípulos que o recuperem."
+ },
+ "schoolTaskDesc11355": {
+  "en": "The cultivation levels of the wager Recruitment disciples are generally not high, and they often encounter difficulty when they wander outside. They ask you for help and as a sort of elder disciple, you are obliged to save them.",
+  "ch": "外出招贤弟子修为普遍不高，闯荡在外常常遇到危难，他们发出求救，请你速速前往救援。",
+  "pt": "Os níveis de cultivo dos discípulos recrutados através do desafio geralmente não são altos, e eles frequentemente enfrentam dificuldades ao se aventurarem fora. Eles pedem sua ajuda, e, como um tipo de discípulo ancião, você é obrigado a salvá-los."
+ },
+ "schoolTaskDesc11356": {
+  "en": "The cultivation levels of the wager Recruitment disciples are generally not high, and they often encounter difficulty when they wander outside. They ask you for help and as a sort of elder disciple, you are obliged to save them.",
+  "ch": "外出招贤弟子修为普遍不高，闯荡在外常常遇到危难，他们发出求救，请你速速前往救援。",
+  "pt": "Os níveis de cultivo dos discípulos recrutados para a missão geralmente não são elevados, e eles frequentemente enfrentam dificuldades quando vagueiam pelo mundo exterior. Eles pedem sua ajuda; como um tipo de ancião entre os discípulos, você tem a obrigação de salvá-los."
+ },
+ "schoolTaskDesc11357": {
+  "en": "The cultivation levels of the wager Recruitment disciples are generally not high, and they often encounter difficulty when they wander outside. They ask you for help and as a sort of elder disciple, you are obliged to save them.",
+  "ch": "外出招贤弟子修为普遍不高，闯荡在外常常遇到危难，他们发出求救，请你速速前往救援。",
+  "pt": "Os níveis de cultivo dos discípulos recrutados geralmente não são elevados, e eles frequentemente enfrentam dificuldades quando vagueiam pelo mundo exterior. Eles pedem sua ajuda, e, como um tipo de ancião entre os discípulos, você é obrigado a salvá-los."
+ },
+ "schoolTaskDesc11358": {
+  "en": "The cultivation levels of the wager Recruitment disciples are generally not high, and they often encounter difficulty when they wander outside. They ask you for help and as a sort of elder disciple, you are obliged to save them.",
+  "ch": "外出招贤弟子修为普遍不高，闯荡在外常常遇到危难，他们发出求救，请你速速前往救援。",
+  "pt": "Os níveis de cultivo dos discípulos recrutados em geral não são altos, e eles frequentemente enfrentam dificuldades quando vagueiam por fora. Eles pedem sua ajuda; como uma espécie de ancião entre os discípulos, você é obrigado a salvá-los."
+ },
+ "schoolTaskDesc11359": {
+  "en": "The cultivation levels of the wager Recruitment disciples are generally not high, and they often encounter difficulty when they wander outside. They ask you for help and as a sort of elder disciple, you are obliged to save them.",
+  "ch": "外出招贤弟子修为普遍不高，闯荡在外常常遇到危难，他们发出求救，请你速速前往救援。",
+  "pt": "Os níveis de cultivo dos discípulos recrutados geralmente não são altos, e eles frequentemente enfrentam dificuldades quando vagueiam pelo exterior. Eles pedem sua ajuda; como um tipo de discípulo ancião, você é obrigado a salvá-los."
+ },
+ "schoolTaskDesc11360": {
+  "en": "A disciple who has recently been spying on other sects has fallen into the hands of monsters. You are an outstanding skilled one, so please go to the rescue!",
+  "ch": "近日在外刺探其他宗门情报的弟子失陷妖物之手，你乃门中出类拔萃的高手，请速速前往救援！",
+  "pt": "Um discípulo que recentemente espionava outras seitas caiu nas mãos de monstros. Você é um guerreiro excepcionalmente habilidoso; por isso, por favor, vá resgatá-lo!"
+ },
+ "schoolTaskDesc11361": {
+  "en": "A disciple who has recently been spying on other sects has fallen into the hands of monsters. You are an outstanding skilled one, so please go to the rescue!",
+  "ch": "近日在外刺探其他宗门情报的弟子失陷妖物之手，你乃门中出类拔萃的高手，请速速前往救援！",
+  "pt": "Um discípulo que recentemente espionava outras seitas acabou caindo nas mãos de monstros. Você é um guerreiro excepcionalmente habilidoso; por favor, vá em seu resgate!"
+ },
+ "schoolTaskDesc11362": {
+  "en": "A disciple who has recently been spying on other sects has fallen into the hands of monsters. You are an outstanding skilled one, so please go to the rescue!",
+  "ch": "近日在外刺探其他宗门情报的弟子失陷妖物之手，你乃门中出类拔萃的高手，请速速前往救援！",
+  "pt": "Um discípulo que recentemente espionava outras seitas caiu nas mãos de alguns monstros. Você é um guerreiro habilidoso e excepcional; por isso, por favor, vá em seu resgate!"
+ },
+ "schoolTaskDesc11363": {
+  "en": "A disciple who has recently been spying on other sects has fallen into the hands of monsters. You are an outstanding skilled one, so please go to the rescue!",
+  "ch": "近日在外刺探其他宗门情报的弟子失陷妖物之手，你乃门中出类拔萃的高手，请速速前往救援！",
+  "pt": "Um discípulo que recentemente espionava outras seitas acabou caindo nas mãos de monstros. Você é um guerreiro extremamente habilidoso; por isso, por favor, vá em seu resgate!"
+ },
+ "schoolTaskDesc11364": {
+  "en": "A disciple who has recently been spying on other sects has fallen into the hands of monsters. You are an outstanding skilled one, so please go to the rescue!",
+  "ch": "近日在外刺探其他宗门情报的弟子失陷妖物之手，你乃门中出类拔萃的高手，请速速前往救援！",
+  "pt": "Um discípulo que recentemente espionava outras seitas caiu nas mãos de monstros. Você é um guerreiro excepcionalmente habilidoso; por isso, por favor, vá em seu resgate!"
+ },
+ "schoolTaskDesc11365": {
+  "en": "Construction is conducting a topographical survey of the caves near the Sect. Some disciples have gone missing for no reason. Construction wants you to find them.",
+  "ch": "修筑堂正在进行宗门周边的洞天地形勘察，部分弟子竟无端失踪。修筑堂希望你设法将他们寻回。",
+  "pt": "A Construction está realizando um levantamento topográfico nas cavernas próximas à Seita. Alguns discípulos desapareceram sem motivo algum. A Construction quer que você os encontre."
+ },
+ "schoolTaskDesc11366": {
+  "en": "Construction is conducting a topographical survey of the caves near the Sect. Some disciples have gone missing for no reason. Construction wants you to find them.",
+  "ch": "修筑堂正在进行宗门周边的洞天地形勘察，部分弟子竟无端失踪。修筑堂希望你设法将他们寻回。",
+  "pt": "A Construction está realizando um levantamento topográfico das cavernas próximas à Seita. Alguns discípulos desapareceram sem qualquer motivo. A Construction quer que você os encontre."
+ },
+ "schoolTaskDesc11367": {
+  "en": "Construction is conducting a topographical survey of the caves near the Sect. Some disciples have gone missing for no reason. Construction wants you to find them.",
+  "ch": "修筑堂正在进行宗门周边的洞天地形勘察，部分弟子竟无端失踪。修筑堂希望你设法将他们寻回。",
+  "pt": "A Construction está realizando um levantamento topográfico das cavernas próximas à Seita. Alguns discípulos desapareceram sem motivo aparente. A Construction quer que você os encontre."
+ },
+ "schoolTaskDesc11368": {
+  "en": "Construction is conducting a topographical survey of the caves near the Sect. Some disciples have gone missing for no reason. Construction wants you to find them.",
+  "ch": "修筑堂正在进行宗门周边的洞天地形勘察，部分弟子竟无端失踪。修筑堂希望你设法将他们寻回。",
+  "pt": "A Construction está realizando um levantamento topográfico das cavernas próximas à Seita. Alguns discípulos desapareceram sem motivo algum. A Construction quer que você os encontre."
+ },
+ "schoolTaskDesc11369": {
+  "en": "Construction is conducting a topographical survey of the caves near the Sect. Some disciples have gone missing for no reason. Construction wants you to find them.",
+  "ch": "修筑堂正在进行宗门周边的洞天地形勘察，部分弟子竟无端失踪。修筑堂希望你设法将他们寻回。",
+  "pt": "A Construction está realizando um levantamento topográfico das cavernas próximas à Seita. Alguns discípulos desapareceram sem motivo algum. A Construction quer que você os encontre."
+ },
+ "schoolTaskDesc11370": {
+  "en": "The sect is clearing out the bandits and the disciples are stuck in battle. You have to come to their rescue.",
+  "ch": "宗门正在扫荡贼寇，弟子战斗陷入僵局，你要出手相救。",
+  "pt": "A seita está eliminando os bandidos, enquanto os discípulos estão presos na batalha. Você precisa vir em seu socorro."
+ },
+ "schoolTaskDesc11371": {
+  "en": "The sect is clearing out the bandits and the disciples are stuck in battle. You have to come to their rescue.",
+  "ch": "宗门正在扫荡贼寇，弟子战斗陷入僵局，你要出手相救。",
+  "pt": "A seita está eliminando os bandidos, enquanto os discípulos estão presos na batalha. Você precisa vir em seu socorro."
+ },
+ "schoolTaskDesc11372": {
+  "en": "The sect is clearing out the bandits and the disciples are stuck in battle. You have to come to their rescue.",
+  "ch": "宗门正在扫荡贼寇，弟子战斗陷入僵局，你要出手相救。",
+  "pt": "A seita está eliminando os bandidos, enquanto os discípulos estão presos na batalha. Você precisa vir em seu resgate."
+ },
+ "schoolTaskDesc11373": {
+  "en": "The sect is clearing out the bandits and the disciples are stuck in battle. You have to come to their rescue.",
+  "ch": "宗门正在扫荡贼寇，弟子战斗陷入僵局，你要出手相救。",
+  "pt": "A seita está eliminando os bandidos, enquanto os discípulos estão presos na batalha. Você precisa vir em seu socorro."
+ },
+ "schoolTaskDesc11374": {
+  "en": "The sect is clearing out the bandits and the disciples are stuck in battle. You have to come to their rescue.",
+  "ch": "宗门正在扫荡贼寇，弟子战斗陷入僵局，你要出手相救。",
+  "pt": "A seita está eliminando os bandidos, e os discípulos estão presos na batalha. Você precisa vir em seu auxílio."
+ },
+ "schoolTaskDesc11375": {
+  "en": "A Disciple has lost control of cultivation, and they are confused. They stole the most valuable treasure from the Sect and fled. The treasure cannot be lost outside, and it is critical for this Disciple to be apprehended immediately.",
+  "ch": "一名弟子练功失控，神志不清，竟窃去堂中至宝，窜逃在外。门中至宝不能失落在外，追回这名弟子急在眉睫。",
+  "pt": "O Discípulo perdeu o controle sobre o seu cultivo e está confuso. Ele roubou o tesouro mais valioso da Seita e fugiu. Esse tesouro não pode se perder, por isso é fundamental que este Discípulo seja capturado imediatamente."
+ },
+ "schoolTaskDesc11376": {
+  "en": "A Disciple has lost control of cultivation, and they are confused. They stole the most valuable treasure from the Sect and fled. The treasure cannot be lost outside, and it is critical for this Disciple to be apprehended immediately.",
+  "ch": "一名弟子练功失控，神志不清，竟窃去堂中至宝，窜逃在外。门中至宝不能失落在外，追回这名弟子急在眉睫。",
+  "pt": "O Discípulo perdeu o controle sobre o seu cultivo e está confuso. Ele roubou o tesouro mais valioso da Seita e fugiu. O tesouro não pode se perder, e é fundamental que esse Discípulo seja capturado imediatamente."
+ },
+ "schoolTaskDesc11377": {
+  "en": "A Disciple has lost control of cultivation, and they are confused. They stole the most valuable treasure from the Sect and fled. The treasure cannot be lost outside, and it is critical for this Disciple to be apprehended immediately.",
+  "ch": "一名弟子练功失控，神志不清，竟窃去堂中至宝，窜逃在外。门中至宝不能失落在外，追回这名弟子急在眉睫。",
+  "pt": "O Discípulo perdeu o controle sobre o cultivo e está confuso. Ele roubou o tesouro mais valioso da Seita e fugiu. É imprescindível que esse tesouro não se perca, portanto é fundamental que este Discípulo seja capturado imediatamente."
+ },
+ "schoolTaskDesc11378": {
+  "en": "A Disciple has lost control of cultivation, and they are confused. They stole the most valuable treasure from the Sect and fled. The treasure cannot be lost outside, and it is critical for this Disciple to be apprehended immediately.",
+  "ch": "一名弟子练功失控，神志不清，竟窃去堂中至宝，窜逃在外。门中至宝不能失落在外，追回这名弟子急在眉睫。",
+  "pt": "O Discípulo perdeu o controle sobre o seu cultivo e está confuso. Ele roubou o tesouro mais valioso da Seita e fugiu. O tesouro não pode se perder, e é fundamental que esse Discípulo seja capturado imediatamente."
+ },
+ "schoolTaskDesc11379": {
+  "en": "A Disciple has lost control of cultivation, and they are confused. They stole the most valuable treasure from the Sect and fled. The treasure cannot be lost outside, and it is critical for this Disciple to be apprehended immediately.",
+  "ch": "一名弟子练功失控，神志不清，竟窃去堂中至宝，窜逃在外。门中至宝不能失落在外，追回这名弟子急在眉睫。",
+  "pt": "O Discípulo perdeu o controle sobre seu cultivo e agora está confuso. Ele roubou o tesouro mais valioso da Seita e fugiu. O tesouro não pode se perder, por isso é fundamental que esse Discípulo seja capturado imediatamente."
+ },
+ "schoolTaskDesc11380": {
+  "en": "Disciples who are ready to join the sect are waiting at meeting points nearby the sect. The sect has sent you to guide them, and this is quite an important task! Hurry to the areas nearby and bring them back to the sect!",
+  "ch": "一批准备入门的弟子已到宗门附近各集合点等候，宗门委派你接引他们，可说十分看重！赶紧前往宗门附近去将他们接到宗门大家庭来吧！",
+  "pt": "Os Discípulos que estão prontos para ingressar na seita aguardam em pontos de encontro nas proximidades. A seita o enviou para guiá-los; esta é uma tarefa bastante importante! Apresse-se até essas áreas e traga-os de volta para a seita!"
+ },
+ "schoolTaskDesc11381": {
+  "en": "Disciples who are ready to join the sect are waiting at meeting points nearby the sect. The sect has sent you to guide them, and this is quite an important task! Hurry to the areas nearby and bring them back to the sect!",
+  "ch": "一批准备入门的弟子已到宗门附近各集合点等候，宗门委派你接引他们，可说十分看重！赶紧前往宗门附近去将他们接到宗门大家庭来吧！",
+  "pt": "Os Discípulos que estão prontos para se unirem à seita aguardam em pontos de encontro próximos à sede da seita. A seita enviou você para guiá-los; esta é uma tarefa muito importante! Apresse-se até as áreas próximas e traga-os de volta à seita!"
+ },
+ "schoolTaskDesc11382": {
+  "en": "Disciples who are ready to join the sect are waiting at meeting points nearby the sect. The sect has sent you to guide them, and this is quite an important task! Hurry to the areas nearby and bring them back to the sect!",
+  "ch": "一批准备入门的弟子已到宗门附近各集合点等候，宗门委派你接引他们，可说十分看重！赶紧前往宗门附近去将他们接到宗门大家庭来吧！",
+  "pt": "Os Discípulos que estão prontos para ingressar na seita aguardam em pontos de encontro próximos à sede da seita. A seita o enviou para guiá-los; esta é uma tarefa muito importante! Apresse-se até as áreas próximas e traga-os de volta à seita!"
+ },
+ "schoolTaskDesc11383": {
+  "en": "Disciples who are ready to join the sect are waiting at meeting points nearby the sect. The sect has sent you to guide them, and this is quite an important task! Hurry to the areas nearby and bring them back to the sect!",
+  "ch": "一批准备入门的弟子已到宗门附近各集合点等候，宗门委派你接引他们，可说十分看重！赶紧前往宗门附近去将他们接到宗门大家庭来吧！",
+  "pt": "Os Discípulos que estão prontos para ingressar na seita aguardam nos pontos de encontro próximos à seita. A seita enviou você para guiá-los; esta é uma tarefa muito importante! Apresse-se até as áreas próximas e traga-os de volta à seita!"
+ },
+ "schoolTaskDesc11384": {
+  "en": "Disciples who are ready to join the sect are waiting at meeting points nearby the sect. The sect has sent you to guide them, and this is quite an important task! Hurry to the areas nearby and bring them back to the sect!",
+  "ch": "一批准备入门的弟子已到宗门附近各集合点等候，宗门委派你接引他们，可说十分看重！赶紧前往宗门附近去将他们接到宗门大家庭来吧！",
+  "pt": "Os Discípulos que estão prontos para ingressar na seita aguardam em pontos de encontro próximos à seita. A seita enviou você para guiá-los; esta é uma tarefa muito importante! Apresse-se até as áreas próximas e traga-os de volta à seita!"
+ },
+ "schoolTaskDesc11390": {
+  "en": "There are monsters wandering around the Sect's spirit mines, greatly interrupting the mining. Disciples with high cultivation should exterminate the monsters.",
+  "ch": "有妖物在宗门灵矿附近徘徊骚扰，极大妨碍我堂挖掘灵矿，希望修为高深弟子前往剿灭。",
+  "pt": "Há monstros vagando pelas minas de espírito da Seita, interrompendo bastante as atividades de extração. Os Discípulos com alto nível de cultivo devem exterminar esses monstros."
+ },
+ "schoolTaskDesc11391": {
+  "en": "There are monsters wandering around the Sect's spirit mines, greatly interrupting the mining. Disciples with high cultivation should exterminate the monsters.",
+  "ch": "有妖物在宗门灵矿附近徘徊骚扰，极大妨碍我堂挖掘灵矿，希望修为高深弟子前往剿灭。",
+  "pt": "Há monstros vagando pelas minas de espírito da Seita, interrompendo bastante as atividades de extração. Os Discípulos com alto nível de cultivo devem exterminar esses monstros."
+ },
+ "schoolTaskDesc11392": {
+  "en": "There are monsters wandering around the Sect's spirit mines, greatly interrupting the mining. Disciples with high cultivation should exterminate the monsters.",
+  "ch": "有妖物在宗门灵矿附近徘徊骚扰，极大妨碍我堂挖掘灵矿，希望修为高深弟子前往剿灭。",
+  "pt": "Há monstros vagando pelas minas de espírito da Seita, interrompendo bastante as atividades de extração. Os Discípulos com alto nível de cultivo devem exterminar esses monstros."
+ },
+ "schoolTaskDesc11393": {
+  "en": "There are monsters wandering around the Sect's spirit mines, greatly interrupting the mining. Disciples with high cultivation should exterminate the monsters.",
+  "ch": "有妖物在宗门灵矿附近徘徊骚扰，极大妨碍我堂挖掘灵矿，希望修为高深弟子前往剿灭。",
+  "pt": "Há monstros vagando pelas minas de espírito da Seita, interrompendo bastante as atividades de extração. Os Discípulos com alto nível de cultivo devem exterminar esses monstros."
+ },
+ "schoolTaskDesc11394": {
+  "en": "There are monsters wandering around the Sect's spirit mines, greatly interrupting the mining. Disciples with high cultivation should exterminate the monsters.",
+  "ch": "有妖物在宗门灵矿附近徘徊骚扰，极大妨碍我堂挖掘灵矿，希望修为高深弟子前往剿灭。",
+  "pt": "Há monstros perambulando pelas minas de espírito da Seita, interrompendo bastante as atividades de extração. Os Discípulos com alto nível de cultivo devem exterminar esses monstros."
+ },
+ "schoolTaskDesc11395": {
+  "en": "You receive a secret message delivery mission from the sect.",
+  "ch": "你受到宗门对密信传递任务。",
+  "pt": "Você recebe uma missão de entrega de mensagem secreta da seita."
+ },
+ "schoolTaskDesc11396": {
+  "en": "You receive a secret message delivery mission from the sect.",
+  "ch": "你受到宗门对密信传递任务。",
+  "pt": "Você recebe uma missão de entrega de mensagem secreta da seita."
+ },
+ "schoolTaskDesc11397": {
+  "en": "You receive a secret message delivery mission from the sect.",
+  "ch": "你受到宗门对密信传递任务。",
+  "pt": "Você recebe uma missão de entrega de mensagem secreta da seita."
+ },
+ "schoolTaskDesc11398": {
+  "en": "You receive a secret message delivery mission from the sect.",
+  "ch": "你受到宗门对密信传递任务。",
+  "pt": "Você recebe uma missão de entrega de mensagem secreta da seita."
+ },
+ "schoolTaskDesc11399": {
+  "en": "You receive a secret message delivery mission from the sect.",
+  "ch": "你受到宗门对密信传递任务。",
+  "pt": "Você recebe uma missão de entrega de uma mensagem secreta da seita."
+ },
+ "schoolTaskDesc11450": {
+  "en": "External Affairs has discovered that there is a traitor in the Sect. They hope competent Disciples will go on patrol and try to capture the traitor.",
+  "ch": "外务堂发现门中出现内奸，希望得力门人出外巡逻，设法将内奸捉回。",
+  "pt": "O Departamento de Assuntos Externos descobriu que há um traidor na Seita. Eles esperam que Discípulos competentes realizem patrulhas para tentar capturar o traidor."
+ },
+ "schoolTaskDesc11451": {
+  "en": "External Affairs has discovered that there is a traitor in the Sect. They hope competent Disciples will go on patrol and try to capture the traitor.",
+  "ch": "外务堂发现门中出现内奸，希望得力门人出外巡逻，设法将内奸捉回。",
+  "pt": "O Departamento de Assuntos Externos descobriu que há um traidor na Seita. Eles esperam que Discípulos competentes façam patrulhas e tentem capturar o traidor."
+ },
+ "schoolTaskDesc11452": {
+  "en": "External Affairs has discovered that there is a traitor in the Sect. They hope competent Disciples will go on patrol and try to capture the traitor.",
+  "ch": "外务堂发现门中出现内奸，希望得力门人出外巡逻，设法将内奸捉回。",
+  "pt": "O Departamento de Assuntos Externos descobriu que há um traidor na Seita. Eles esperam que Discípulos competentes realizem patrulhas e tentem capturar o traidor."
+ },
+ "schoolTaskDesc11453": {
+  "en": "External Affairs has discovered that there is a traitor in the Sect. They hope competent Disciples will go on patrol and try to capture the traitor.",
+  "ch": "外务堂发现门中出现内奸，希望得力门人出外巡逻，设法将内奸捉回。",
+  "pt": "O Departamento de Assuntos Externos descobriu que há um traidor na Seita. Eles esperam que Discípulos competentes façam patrulhas e tentem capturar o traidor."
+ },
+ "schoolTaskDesc11454": {
+  "en": "External Affairs has discovered that there is a traitor in the Sect. They hope competent Disciples will go on patrol and try to capture the traitor.",
+  "ch": "外务堂发现门中出现内奸，希望得力门人出外巡逻，设法将内奸捉回。",
+  "pt": "O Departamento de Relações Externas descobriu que há um traidor na Seita. Eles esperam que Discípulos competentes façam patrulhas e tentem capturar o traidor."
+ },
+ "schoolTaskDesc11601": {
+  "en": "There are many Taoist temples in the Sect and it takes a lot of work to clean them every day. Please proceed to clean and maintain these places.",
+  "ch": "宗门之中宫观林立，日常打扫起来也颇费工夫。现请你前往打扫维护。",
+  "pt": "Existem muitos templos Daoístas na Seita, e é preciso muito trabalho para limpá-los todos os dias. Por favor, proceda à limpeza e manutenção desses locais."
+ },
+ "schoolTaskDesc11602": {
+  "en": "There are many Taoist temples in the Sect and it takes a lot of work to clean them every day. Please proceed to clean and maintain these places.",
+  "ch": "宗门之中宫观林立，日常打扫起来也颇费工夫。现请你前往打扫维护。",
+  "pt": "Existem muitos templos Daoístas na Seita, e é muito trabalho limpá-los todos os dias. Por favor, procedam à limpeza e manutenção desses locais."
+ },
+ "schoolTaskDesc11603": {
+  "en": "There are many Taoist temples in the Sect and it takes a lot of work to clean them every day. Please proceed to clean and maintain these places.",
+  "ch": "宗门之中宫观林立，日常打扫起来也颇费工夫。现请你前往打扫维护。",
+  "pt": "Existem muitos Templos Daoístas na Seita, e é preciso muito trabalho para limpá-los todos os dias. Por favor, proceda à limpeza e manutenção desses locais."
+ },
+ "schoolTaskDesc11604": {
+  "en": "There are many Taoist temples in the Sect and it takes a lot of work to clean them every day. Please proceed to clean and maintain these places.",
+  "ch": "宗门之中宫观林立，日常打扫起来也颇费工夫。现请你前往打扫维护。",
+  "pt": "Existem muitos Templos Daoístas na Seita, e é preciso muito trabalho para limpá-los todos os dias. Por favor, proceda à limpeza e manutenção desses locais."
+ },
+ "schoolTaskDesc11605": {
+  "en": "There are many Taoist temples in the Sect and it takes a lot of work to clean them every day. Please proceed to clean and maintain these places.",
+  "ch": "宗门之中宫观林立，日常打扫起来也颇费工夫。现请你前往打扫维护。",
+  "pt": "Existem muitos Templos Daoístas na Seita, e é preciso muito trabalho para limpá-los todos os dias. Por favor, proceda à limpeza e manutenção desses locais."
+ },
+ "schoolTaskDesc11606": {
+  "en": "Recruitment needs to use the Holy Spring to cleanse the newcomers of dust. We ask those who have high cultivation to approach the Holy Spring and draw water with the immortal ladle to bring it back to the Sect.",
+  "ch": "招贤堂需用灵泉为新人洗净尘劳，现请修为高深，可以靠近灵泉者以仙瓢汲水，将灵泉带回门中。",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "O recrutamento exige o uso da Fonte Sagrada para purificar os recém-chegados da poeira. Pedimos àqueles que possuem alto nível de cultivo que se aproximem da Fonte Sagrada, peguem água com a concha imortal e a tragam de volta para a Seita."
+ },
+ "schoolTaskDesc11607": {
+  "en": "Recruitment needs to use the Holy Spring to cleanse the newcomers of dust. We ask those who have high cultivation to approach the Holy Spring and draw water with the immortal ladle to bring it back to the Sect.",
+  "ch": "招贤堂需用灵泉为新人洗净尘劳，现请修为高深，可以靠近灵泉者以仙瓢汲水，将灵泉带回门中。",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "O recrutamento exige que se utilize a Fonte Sagrada para purificar os recém-chegados da poeira. Pedimos àqueles que possuem alto nível de cultivo que se aproximem da Fonte Sagrada, retirem água com a colher imortal e a tragam de volta para a Seita."
+ },
+ "schoolTaskDesc11608": {
+  "en": "Recruitment needs to use the Holy Spring to cleanse the newcomers of dust. We ask those who have high cultivation to approach the Holy Spring and draw water with the immortal ladle to bring it back to the Sect.",
+  "ch": "招贤堂需用灵泉为新人洗净尘劳，现请修为高深，可以靠近灵泉者以仙瓢汲水，将灵泉带回门中。",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "O recrutamento exige o uso da Fonte Sagrada para purificar os novatos da poeira que os contamina. Pedimos àqueles que possuem alto nível de cultivo que se aproximem da Fonte Sagrada, retirem água com a concha imortal e a tragam de volta à Seita."
+ },
+ "schoolTaskDesc11609": {
+  "en": "Recruitment needs to use the Holy Spring to cleanse the newcomers of dust. We ask those who have high cultivation to approach the Holy Spring and draw water with the immortal ladle to bring it back to the Sect.",
+  "ch": "招贤堂需用灵泉为新人洗净尘劳，现请修为高深，可以靠近灵泉者以仙瓢汲水，将灵泉带回门中。",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "O recrutamento exige o uso da Fonte Sagrada para purificar os recém-chegados da poeira. Pedimos àqueles que possuem alto nível de cultivo que se aproximem da Fonte Sagrada, peguem água com a concha imortal e a tragam de volta para a Seita."
+ },
+ "schoolTaskDesc11610": {
+  "en": "Recruitment needs to use the Holy Spring to cleanse the newcomers of dust. We ask those who have high cultivation to approach the Holy Spring and draw water with the immortal ladle to bring it back to the Sect.",
+  "ch": "招贤堂需用灵泉为新人洗净尘劳，现请修为高深，可以靠近灵泉者以仙瓢汲水，将灵泉带回门中。",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "O recrutamento exige o uso da Fonte Sagrada para purificar os recém-chegados da poeira. Pedimos àqueles que possuem alto nível de cultivo que se aproximem da Fonte Sagrada, retirem água com a colher imortal e a tragam de volta para a Seita."
+ },
+ "schoolTaskDesc11611": {
+  "en": "The Sect has always welcomed esteemed guests, and we invite people of great repute to visit the Sect for a period of time. Please go receive an old man and invite him to the Sect.",
+  "ch": "宗门素来敬宾重客，时时盛情邀请周遭颇具名望之人来宗门一会。请你前往接待一位老者，将之请到宗门之中。",
+  "pt": "A Seita sempre recebeu hóspedes ilustres, e convidamos pessoas de grande reputação para visitarem a Seita por um determinado período. Por favor, vá receber um velho e convide-o a entrar na Seita."
+ },
+ "schoolTaskDesc11612": {
+  "en": "The Sect has always welcomed esteemed guests, and we invite people of great repute to visit the Sect for a period of time. Please go receive an old man and invite him to the Sect.",
+  "ch": "宗门素来敬宾重客，时时盛情邀请周遭颇具名望之人来宗门一会。请你前往接待一位老者，将之请到宗门之中。",
+  "pt": "A Seita sempre recebeu convidados ilustres; convidamos pessoas de grande reputação a visitarem a Seita por algum tempo. Por favor, vá receber um velho e convide-o a entrar na Seita."
+ },
+ "schoolTaskDesc11613": {
+  "en": "The Sect has always welcomed esteemed guests, and we invite people of great repute to visit the Sect for a period of time. Please go receive an old man and invite him to the Sect.",
+  "ch": "宗门素来敬宾重客，时时盛情邀请周遭颇具名望之人来宗门一会。请你前往接待一位老者，将之请到宗门之中。",
+  "pt": "A Seita sempre recebeu convidados ilustres, e convidamos pessoas de grande reputação a visitarem a Seita por um determinado período. Por favor, vá receber um velho e convide-o a entrar na Seita."
+ },
+ "schoolTaskDesc11614": {
+  "en": "The Sect has always welcomed esteemed guests, and we invite people of great repute to visit the Sect for a period of time. Please go receive an old man and invite him to the Sect.",
+  "ch": "宗门素来敬宾重客，时时盛情邀请周遭颇具名望之人来宗门一会。请你前往接待一位老者，将之请到宗门之中。",
+  "pt": "A Seita sempre recebeu convidados ilustres; convidamos pessoas de grande reputação a visitarem a Seita por um período. Por favor, vá receber um velho e convide-o a entrar na Seita."
+ },
+ "schoolTaskDesc11615": {
+  "en": "The Sect has always welcomed esteemed guests, and we invite people of great repute to visit the Sect for a period of time. Please go receive an old man and invite him to the Sect.",
+  "ch": "宗门素来敬宾重客，时时盛情邀请周遭颇具名望之人来宗门一会。请你前往接待一位老者，将之请到宗门之中。",
+  "pt": "A Seita sempre recebeu convidados ilustres; convidamos pessoas de grande reputação a visitarem a Seita por um período. Por favor, vá receber um velho e convide-o a entrar na Seita."
+ },
+ "schoolTaskDesc11616": {
+  "en": "There are many abandoned Ruins in the Sect, and Disciples need to check and maintain them from time to time. You have been assigned to take care of a deserted Taoist temple. See if there is anything to discover.",
+  "ch": "宗门之中，多有荒废遗迹，弟子需时常查探维护。现派遣你去打理一处荒废已久的道观，看看有无发现。",
+  "pt": "Existem muitas Ruínas abandonadas na Seita, e os Discípulos precisam inspecioná-las e fazer sua manutenção de tempos em tempos. Você foi designado para cuidar de um templo Daoísta abandonado. Veja se há algo digno de ser descoberto por lá."
+ },
+ "schoolTaskDesc11617": {
+  "en": "There are many abandoned Ruins in the Sect, and Disciples need to check and maintain them from time to time. You have been assigned to take care of a deserted Taoist temple. See if there is anything to discover.",
+  "ch": "宗门之中，多有荒废遗迹，弟子需时常查探维护。现派遣你去打理一处荒废已久的道观，看看有无发现。",
+  "pt": "Existem muitas Ruínas abandonadas na Seita, e os Discípulos precisam inspecioná-las e mantê-las de tempos em tempos. Você foi designado para cuidar de um templo Daoísta deserto. Veja se há algo interessante a ser descoberto."
+ },
+ "schoolTaskDesc11618": {
+  "en": "There are many abandoned Ruins in the Sect, and Disciples need to check and maintain them from time to time. You have been assigned to take care of a deserted Taoist temple. See if there is anything to discover.",
+  "ch": "宗门之中，多有荒废遗迹，弟子需时常查探维护。现派遣你去打理一处荒废已久的道观，看看有无发现。",
+  "pt": "Existem muitas Ruínas abandonadas na Seita, e os Discípulos precisam inspecioná-las e fazer sua manutenção de tempos em tempos. Você foi designado para cuidar de um templo Daoísta abandonado. Veja se há algo interessante a ser descoberto."
+ },
+ "schoolTaskDesc11619": {
+  "en": "There are many abandoned Ruins in the Sect, and Disciples need to check and maintain them from time to time. You have been assigned to take care of a deserted Taoist temple. See if there is anything to discover.",
+  "ch": "宗门之中，多有荒废遗迹，弟子需时常查探维护。现派遣你去打理一处荒废已久的道观，看看有无发现。",
+  "pt": "Existem muitas Ruínas abandonadas na Seita, e os Discípulos precisam inspecioná-las e mantê-las de tempos em tempos. Você foi designado para cuidar de um templo Daoísta abandonado. Veja se há algo a ser descoberto por lá."
+ },
+ "schoolTaskDesc11620": {
+  "en": "There are many abandoned Ruins in the Sect, and Disciples need to check and maintain them from time to time. You have been assigned to take care of a deserted Taoist temple. See if there is anything to discover.",
+  "ch": "宗门之中，多有荒废遗迹，弟子需时常查探维护。现派遣你去打理一处荒废已久的道观，看看有无发现。",
+  "pt": "Existem muitas Ruínas abandonadas na Seita, e os Discípulos precisam inspecioná-las e fazer sua manutenção de tempos em tempos. Você foi designado para cuidar de um templo Daoísta abandonado. Veja se há algo interessante a ser descoberto."
+ },
+ "schoolTaskDesc11621": {
+  "en": "The Sect has detected a Feng Shui treasure in a nearby village. You are being sent to verify and investigate.",
+  "ch": "门中侦查到附近村落竟有一处风水宝地，现派你前往核实，调查情况。",
+  "pt": "A Seita detectou um tesouro relacionado ao Feng Shui em uma aldeia próxima. Você foi enviado para verificar e investigar."
+ },
+ "schoolTaskDesc11622": {
+  "en": "The Sect has detected a Feng Shui treasure in a nearby village. You are being sent to verify and investigate.",
+  "ch": "门中侦查到附近村落竟有一处风水宝地，现派你前往核实，调查情况。",
+  "pt": "A Seita detectou um tesouro relacionado ao Feng Shui em uma aldeia próxima. Você foi enviado para verificar e investigar."
+ },
+ "schoolTaskDesc11623": {
+  "en": "The Sect has detected a Feng Shui treasure in a nearby village. You are being sent to verify and investigate.",
+  "ch": "门中侦查到附近村落竟有一处风水宝地，现派你前往核实，调查情况。",
+  "pt": "A Seita detectou um tesouro relacionado ao Feng Shui em uma aldeia próxima. Você foi enviado para verificar e investigar."
+ },
+ "schoolTaskDesc11624": {
+  "en": "The Sect has detected a Feng Shui treasure in a nearby village. You are being sent to verify and investigate.",
+  "ch": "门中侦查到附近村落竟有一处风水宝地，现派你前往核实，调查情况。",
+  "pt": "A Seita detectou um tesouro relacionado ao Feng Shui em uma aldeia próxima. Você foi enviado para verificar e investigar."
+ },
+ "schoolTaskDesc11625": {
+  "en": "The Sect has detected a Feng Shui treasure in a nearby village. You are being sent to verify and investigate.",
+  "ch": "门中侦查到附近村落竟有一处风水宝地，现派你前往核实，调查情况。",
+  "pt": "A Seita detectou um tesouro relacionado ao Feng Shui em uma aldeia próxima. Você foi enviado para verificar e investigar a situação."
+ },
+ "schoolTaskDesc11626": {
+  "en": "To prevent monsters from hiding in mortal villages and killing mortals, you are sent to the villages to distribute Charms. And clear out those monsters too.",
+  "ch": "为了避免妖物藏匿于凡人村落内，残害凡人性命，现派你前往凡人村落发放驱妖符箓。并将妖物统统清剿。",
+  "pt": "Para evitar que os monstros se escondam nas aldeias dos mortais e os matem, você é enviado às aldeias para distribuir Talismãs. Também deve eliminar esses monstros."
+ },
+ "schoolTaskDesc11627": {
+  "en": "To prevent monsters from hiding in mortal villages and killing mortals, you are sent to the villages to distribute Charms. And clear out those monsters too.",
+  "ch": "为了避免妖物藏匿于凡人村落内，残害凡人性命，现派你前往凡人村落发放驱妖符箓。并将妖物统统清剿。",
+  "pt": "Para impedir que os monstros se escondam nas aldeias dos mortais e os matem, você é enviado às aldeias para distribuir Talismãs. Também deve eliminar esses monstros."
+ },
+ "schoolTaskDesc11628": {
+  "en": "To prevent monsters from hiding in mortal villages and killing mortals, you are sent to the villages to distribute Charms. And clear out those monsters too.",
+  "ch": "为了避免妖物藏匿于凡人村落内，残害凡人性命，现派你前往凡人村落发放驱妖符箓。并将妖物统统清剿。",
+  "pt": "Para impedir que os monstros se escondam nas aldeias dos mortais e os matem, você é enviado às aldeias para distribuir Talismãs. Também deve eliminar esses monstros."
+ },
+ "schoolTaskDesc11629": {
+  "en": "To prevent monsters from hiding in mortal villages and killing mortals, you are sent to the villages to distribute Charms. And clear out those monsters too.",
+  "ch": "为了避免妖物藏匿于凡人村落内，残害凡人性命，现派你前往凡人村落发放驱妖符箓。并将妖物统统清剿。",
+  "pt": "Para impedir que os monstros se escondam nas aldeias dos mortais e os matem, você é enviado às aldeias para distribuir Talismãs. E também para eliminar esses monstros."
+ },
+ "schoolTaskDesc11630": {
+  "en": "To prevent monsters from hiding in mortal villages and killing mortals, you are sent to the villages to distribute Charms. And clear out those monsters too.",
+  "ch": "为了避免妖物藏匿于凡人村落内，残害凡人性命，现派你前往凡人村落发放驱妖符箓。并将妖物统统清剿。",
+  "pt": "Para evitar que os monstros se escondam nas aldeias dos mortais e os matem, você é enviado às aldeias para distribuir Talismãs. E também para eliminar esses monstros."
+ },
+ "schoolTaskDesc11631": {
+  "en": "A certain mortal village in the Sect's territory has not transferred Spirit Stones for quite some time. Please find the cause of this.",
+  "ch": "宗门领地内的某处凡人村落拖欠了许久也未上缴灵石，请你前去探明缘由。",
+  "pt": "Uma determinada aldeia de mortais no território da Seita não transfere Pedras Espirituais há algum tempo. Por favor, descubra o motivo disso."
+ },
+ "schoolTaskDesc11632": {
+  "en": "A certain mortal village in the Sect's territory has not transferred Spirit Stones for quite some time. Please find the cause of this.",
+  "ch": "宗门领地内的某处凡人村落拖欠了许久也未上缴灵石，请你前去探明缘由。",
+  "pt": "Uma determinada aldeia de mortais no território da Seita há bastante tempo não transfere Pedras Espirituais. Por favor, descubra o motivo disso."
+ },
+ "schoolTaskDesc11633": {
+  "en": "A certain mortal village in the Sect's territory has not transferred Spirit Stones for quite some time. Please find the cause of this.",
+  "ch": "宗门领地内的某处凡人村落拖欠了许久也未上缴灵石，请你前去探明缘由。",
+  "pt": "Uma determinada aldeia de mortais no território da Seita não transfere Pedras Espirituais há bastante tempo. Por favor, descubra o motivo disso."
+ },
+ "schoolTaskDesc11634": {
+  "en": "A certain mortal village in the Sect's territory has not transferred Spirit Stones for quite some time. Please find the cause of this.",
+  "ch": "宗门领地内的某处凡人村落拖欠了许久也未上缴灵石，请你前去探明缘由。",
+  "pt": "Uma determinada aldeia de mortais no território da Seita não transfere Pedras Espirituais há algum tempo. Por favor, descubra a razão disso."
+ },
+ "schoolTaskDesc11635": {
+  "en": "A certain mortal village in the Sect's territory has not transferred Spirit Stones for quite some time. Please find the cause of this.",
+  "ch": "宗门领地内的某处凡人村落拖欠了许久也未上缴灵石，请你前去探明缘由。",
+  "pt": "Uma determinada aldeia de mortais no território da Seita não transfere Pedras Espirituais há bastante tempo. Por favor, descubra a razão disso."
+ },
+ "schoolTaskDesc11636": {
+  "en": "Rumors say that a group of people outside town have formed a private Black Market and they are selling items that are rarely available on the market. You have been sent to investigate the truth.",
+  "ch": "据说城镇之外有一伙人私下组建黑市，流通贩卖一些市面上鲜有的物品，现派你前去打探虚实。",
+  "pt": "Rumores dizem que um grupo de pessoas fora da vila formou um mercado negro privado, onde vendem itens que raramente estão disponíveis no mercado comum. Você foi enviado para investigar a veracidade disso."
+ },
+ "schoolTaskDesc11637": {
+  "en": "Rumors say that a group of people outside town have formed a private Black Market and they are selling items that are rarely available on the market. You have been sent to investigate the truth.",
+  "ch": "据说城镇之外有一伙人私下组建黑市，流通贩卖一些市面上鲜有的物品，现派你前去打探虚实。",
+  "pt": "Os rumores dizem que um grupo de pessoas fora da vila formou um mercado negro clandestino, onde vendem itens que raramente estão disponíveis no mercado comum. Você foi enviado para investigar a veracidade disso."
+ },
+ "schoolTaskDesc11638": {
+  "en": "Rumors say that a group of people outside town have formed a private Black Market and they are selling items that are rarely available on the market. You have been sent to investigate the truth.",
+  "ch": "据说城镇之外有一伙人私下组建黑市，流通贩卖一些市面上鲜有的物品，现派你前去打探虚实。",
+  "pt": "Os rumores dizem que um grupo de pessoas fora da vila formou um mercado negro particular, onde vendem itens que raramente estão disponíveis no mercado comum. Você foi enviado para investigar se isso é verdade."
+ },
+ "schoolTaskDesc11639": {
+  "en": "Rumors say that a group of people outside town have formed a private Black Market and they are selling items that are rarely available on the market. You have been sent to investigate the truth.",
+  "ch": "据说城镇之外有一伙人私下组建黑市，流通贩卖一些市面上鲜有的物品，现派你前去打探虚实。",
+  "pt": "Os rumores dizem que um grupo de pessoas fora da vila formou um mercado negro privado, onde vendem itens que raramente são encontrados no mercado comum. Você foi enviado para investigar a veracidade disso."
+ },
+ "schoolTaskDesc11640": {
+  "en": "Rumors say that a group of people outside town have formed a private Black Market and they are selling items that are rarely available on the market. You have been sent to investigate the truth.",
+  "ch": "据说城镇之外有一伙人私下组建黑市，流通贩卖一些市面上鲜有的物品，现派你前去打探虚实。",
+  "pt": "Os rumores dizem que um grupo de pessoas fora da vila formou um mercado negro clandestino, onde vendem itemes que raramente estão disponíveis no mercado comum. Você foi enviado para investigar se isso é verdade."
+ },
+ "schoolTaskDesc11641": {
+  "en": "Fuxi, the legendary Chinese emperor, looked up at astronomy and down to examine geography, then drew the Eight Trigrams. Now, the Sect will teach you the essence of the Eight Trigrams. Hopefully, you will be able to explain ans discuss this with other Disciples after you study.",
+  "ch": "伏羲仰观天文俯察地理，画八卦于卦台山，现宗门将八卦精义传授于你，希望你在研习之后能为其他弟子开坛讲解。",
+  "pt": "Fuxi, o lendário imperador chinês, observou os astros e estudou a geografia, para então criar os Oito Trigramas. Agora, a Seita lhe ensinará a essência dos Oito Trigramas. Esperamos que, após os estudos, você consiga explicar e discutir esse assunto com outros Discípulos."
+ },
+ "schoolTaskDesc11642": {
+  "en": "Fuxi, the legendary Chinese emperor, looked up at astronomy and down to examine geography, then drew the Eight Trigrams. Now, the Sect will teach you the essence of the Eight Trigrams. Hopefully, you will be able to explain ans discuss this with other Disciples after you study.",
+  "ch": "伏羲仰观天文俯察地理，画八卦于卦台山，现宗门将八卦精义传授于你，希望你在研习之后能为其他弟子开坛讲解。",
+  "pt": "Fuxi, o lendário imperador chinês, observou os astros e estudou a geografia, para depois criar os Oito Trigramas. Agora, esta Seita ensinará a vocês a essência dos Oito Trigramas. Esperamos que, após os estudos, vocês consigam explicar e discutir esse tema com outros Discípulos."
+ },
+ "schoolTaskDesc11643": {
+  "en": "Fuxi, the legendary Chinese emperor, looked up at astronomy and down to examine geography, then drew the Eight Trigrams. Now, the Sect will teach you the essence of the Eight Trigrams. Hopefully, you will be able to explain ans discuss this with other Disciples after you study.",
+  "ch": "伏羲仰观天文俯察地理，画八卦于卦台山，现宗门将八卦精义传授于你，希望你在研习之后能为其他弟子开坛讲解。",
+  "pt": "Fuxi, o lendário imperador chinês, observou os astros no céu e estudou a geografia da Terra; em seguida, criou os Oito Trigramas. Agora, esta Seita ensinará a você a essência dos Oito Trigramas. Esperamos que, após os estudos, você consiga explicar e discutir esse tema com outros Discípulos."
+ },
+ "schoolTaskDesc11644": {
+  "en": "Fuxi, the legendary Chinese emperor, looked up at astronomy and down to examine geography, then drew the Eight Trigrams. Now, the Sect will teach you the essence of the Eight Trigrams. Hopefully, you will be able to explain ans discuss this with other Disciples after you study.",
+  "ch": "伏羲仰观天文俯察地理，画八卦于卦台山，现宗门将八卦精义传授于你，希望你在研习之后能为其他弟子开坛讲解。",
+  "pt": "Fuxi, o lendário imperador chinês, observou os astros e estudou a geografia, para depois criar os Oito Trigramas. Agora, a Seita ensinará a vocês a essência dos Oito Trigramas. Esperamos que, após os estudos, consigam explicar e discutir esse tema com outros Discípulos."
+ },
+ "schoolTaskDesc11645": {
+  "en": "Fuxi, the legendary Chinese emperor, looked up at astronomy and down to examine geography, then drew the Eight Trigrams. Now, the Sect will teach you the essence of the Eight Trigrams. Hopefully, you will be able to explain ans discuss this with other Disciples after you study.",
+  "ch": "伏羲仰观天文俯察地理，画八卦于卦台山，现宗门将八卦精义传授于你，希望你在研习之后能为其他弟子开坛讲解。",
+  "pt": "Fuxi, o lendário imperador chinês, observou os astros no céu e estudou a geografia da Terra; em seguida, criou os Oito Trigramas. Agora, esta Seita lhe ensinará a essência dos Oito Trigramas. Esperamos que, após os estudos, você consiga explicar e discutir esse tema com outros Discípulos."
+ },
+ "schoolTaskDesc11646": {
+  "en": "The Sect Protection Array always has Disciples inspecting and maintaining it, but normal Disciples are not allowed to go near the three Array Cores. You have been sent to patrol the area.",
+  "ch": "护宗大阵虽一直有弟子们巡查维护，但普通弟子不可靠近三处核心阵眼，现派你前去巡查。",
+  "pt": "A Formação de Proteção da Seita sempre conta com Discípulos encarregados de inspecioná-la e mantê-la, mas os Discípulos comuns não têm permissão para se aproximar dos três Núcleos da Formação. Você foi enviado para patrulhar a área."
+ },
+ "schoolTaskDesc11647": {
+  "en": "The Sect Protection Array always has Disciples inspecting and maintaining it, but normal Disciples are not allowed to go near the three Array Cores. You have been sent to patrol the area.",
+  "ch": "护宗大阵虽一直有弟子们巡查维护，但普通弟子不可靠近三处核心阵眼，现派你前去巡查。",
+  "pt": "A Formação de Proteção da Seita sempre conta com Discípulos para inspecioná-la e fazer sua manutenção, mas os Discípulos comuns não têm permissão para se aproximar dos três Núcleos da Formação. Você foi enviado para patrulhar a área."
+ },
+ "schoolTaskDesc11648": {
+  "en": "The Sect Protection Array always has Disciples inspecting and maintaining it, but normal Disciples are not allowed to go near the three Array Cores. You have been sent to patrol the area.",
+  "ch": "护宗大阵虽一直有弟子们巡查维护，但普通弟子不可靠近三处核心阵眼，现派你前去巡查。",
+  "pt": "A Formação de Proteção da Seita sempre conta com Discípulos encarregados de inspecioná-la e mantê-la, mas os Discípulos comuns não têm permissão para se aproximar dos três Núcleos da Formação. Você foi enviado para patrulhar a área."
+ },
+ "schoolTaskDesc11649": {
+  "en": "The Sect Protection Array always has Disciples inspecting and maintaining it, but normal Disciples are not allowed to go near the three Array Cores. You have been sent to patrol the area.",
+  "ch": "护宗大阵虽一直有弟子们巡查维护，但普通弟子不可靠近三处核心阵眼，现派你前去巡查。",
+  "pt": "A Formação de Proteção da Seita sempre conta com Discípulos para inspecioná-la e realizar sua manutenção; porém, os Discípulos comuns não têm permissão para se aproximar dos três Núcleos da Formação. Você foi enviado para patrulhar a área."
+ },
+ "schoolTaskDesc11650": {
+  "en": "The Sect Protection Array always has Disciples inspecting and maintaining it, but normal Disciples are not allowed to go near the three Array Cores. You have been sent to patrol the area.",
+  "ch": "护宗大阵虽一直有弟子们巡查维护，但普通弟子不可靠近三处核心阵眼，现派你前去巡查。",
+  "pt": "A Formação de Proteção da Seita sempre conta com Discípulos encarregados de inspecioná-la e mantê-la, mas os Discípulos comuns não têm permissão para se aproximar dos três Núcleos da Formação. Você foi enviado para patrulhar a área."
+ },
+ "schoolTaskDesc11651": {
+  "en": "There are various secret members in Sects who covertly contact each other. You are now required to go to another Sect and pass on a secret message.",
+  "ch": "宗门之间各有隐秘人员暗中联系。现需派遣你前往其他宗门，将我宗的一封密信传递过去。",
+  "pt": "Existem vários membros secretos nas Seitas que mantêm contato uns com os outros de forma discreta. Agora, você deve ir até outra Seita e transmitir uma mensagem secreta."
+ },
+ "schoolTaskDesc11652": {
+  "en": "There are various secret members in Sects who covertly contact each other. You are now required to go to another Sect and pass on a secret message.",
+  "ch": "宗门之间各有隐秘人员暗中联系。现需派遣你前往其他宗门，将我宗的一封密信传递过去。",
+  "pt": "Existem vários membros secretos nas Seitas que mantêm contato uns com os outros de forma discreta. Agora, você deve ir até outra Seita e transmitir uma mensagem secreta."
+ },
+ "schoolTaskDesc11653": {
+  "en": "There are various secret members in Sects who covertly contact each other. You are now required to go to another Sect and pass on a secret message.",
+  "ch": "宗门之间各有隐秘人员暗中联系。现需派遣你前往其他宗门，将我宗的一封密信传递过去。",
+  "pt": "Existem vários membros secretos nas Seitas que mantêm contato uns com os outros de forma discreta. Agora, você precisa ir até outra Seita e transmitir uma mensagem secreta."
+ },
+ "schoolTaskDesc11654": {
+  "en": "There are various secret members in Sects who covertly contact each other. You are now required to go to another Sect and pass on a secret message.",
+  "ch": "宗门之间各有隐秘人员暗中联系。现需派遣你前往其他宗门，将我宗的一封密信传递过去。",
+  "pt": "Existem vários membros secretos nas Seitas que mantêm contato uns com os outros de forma discreta. Agora, você deve ir até outra Seita e transmitir uma mensagem secreta."
+ },
+ "schoolTaskDesc11655": {
+  "en": "There are various secret members in Sects who covertly contact each other. You are now required to go to another Sect and pass on a secret message.",
+  "ch": "宗门之间各有隐秘人员暗中联系。现需派遣你前往其他宗门，将我宗的一封密信传递过去。",
+  "pt": "Existem vários membros secretos nas Seitas que mantêm contato uns com os outros de forma clandestina. Agora, você precisa ir até outra Seita e transmitir uma mensagem secreta."
+ },
+ "schoolTaskDesc11656": {
+  "en": "A letter requesting help has come from a nearby Mayor. It says that ghosts are causing trouble near the town. You have been sent to solve this problem.",
+  "ch": "附近城主来信求援，说城镇附近闹鬼，现派遣你前去将其解决。",
+  "pt": "Chegou uma carta de um prefeito das proximidades solicitando ajuda. Nela, ele relata que fantasmas estão causando problemas perto da vila. Você foi enviado para resolver esse problema."
+ },
+ "schoolTaskDesc11657": {
+  "en": "A letter requesting help has come from a nearby Mayor. It says that ghosts are causing trouble near the town. You have been sent to solve this problem.",
+  "ch": "附近城主来信求援，说城镇附近闹鬼，现派遣你前去将其解决。",
+  "pt": "Recebemos uma carta do prefeito de uma vila próxima, solicitando ajuda. Nela, ele diz que fantasmas estão causando problemas nas redondezas da vila. Você foi enviado para resolver esse problema."
+ },
+ "schoolTaskDesc11658": {
+  "en": "A letter requesting help has come from a nearby Mayor. It says that ghosts are causing trouble near the town. You have been sent to solve this problem.",
+  "ch": "附近城主来信求援，说城镇附近闹鬼，现派遣你前去将其解决。",
+  "pt": "Chegou uma carta de um prefeito das redondezas solicitando ajuda. Nela, ele diz que fantasmas estão causando problemas perto da vila. Você foi enviado para resolver esse problema."
+ },
+ "schoolTaskDesc11659": {
+  "en": "A letter requesting help has come from a nearby Mayor. It says that ghosts are causing trouble near the town. You have been sent to solve this problem.",
+  "ch": "附近城主来信求援，说城镇附近闹鬼，现派遣你前去将其解决。",
+  "pt": "Uma carta solicitando ajuda foi enviada pelo prefeito de uma vila próxima. Nela, ele diz que fantasmas estão causando problemas nas redondezas da vila. Você foi enviado para resolver esse problema."
+ },
+ "schoolTaskDesc11660": {
+  "en": "A letter requesting help has come from a nearby Mayor. It says that ghosts are causing trouble near the town. You have been sent to solve this problem.",
+  "ch": "附近城主来信求援，说城镇附近闹鬼，现派遣你前去将其解决。",
+  "pt": "Recebemos uma carta do prefeito de uma vila vizinha pedindo ajuda. Nela, ele relata que fantasmas estão causando problemas nas proximidades da vila. Você foi enviado para resolver esse problema."
+ },
+ "schoolTaskDesc11801": {
+  "en": "Cultivators do not have to cut themselves off from the mortal world completely. Once in a while they should nourish themselves with meat. Go to the pastures in the mountains behind the Sect and collect ingredients for the kitchen.",
+  "ch": "修仙之人未必就非得断绝人间烟火，偶尔也可以选择肉食来补充营养。前往宗门后山放牧之地为火灶房捕获食材。",
+  "pt": "Os Cultivadores não precisam se afastar completamente do mundo mortal. De vez em quando, devem se alimentar de carne. Vão aos pastos nas montanhas atrás da Seita e recolham ingredientes para a cozinha."
+ },
+ "schoolTaskDesc11802": {
+  "en": "Cultivators do not have to cut themselves off from the mortal world completely. Once in a while they should nourish themselves with meat. Go to the pastures in the mountains behind the Sect and collect ingredients for the kitchen.",
+  "ch": "修仙之人未必就非得断绝人间烟火，偶尔也可以选择肉食来补充营养。前往宗门后山放牧之地为火灶房捕获食材。",
+  "pt": "Os Cultivadores não precisam se afastar completamente do mundo mortal. De vez em quando, devem se alimentar de carne. Vão aos pastos nas montanhas atrás da Seita e colham ingredientes para a cozinha."
+ },
+ "schoolTaskDesc11803": {
+  "en": "Cultivators do not have to cut themselves off from the mortal world completely. Once in a while they should nourish themselves with meat. Go to the pastures in the mountains behind the Sect and collect ingredients for the kitchen.",
+  "ch": "修仙之人未必就非得断绝人间烟火，偶尔也可以选择肉食来补充营养。前往宗门后山放牧之地为火灶房捕获食材。",
+  "pt": "Os Cultivadores não precisam se afastar completamente do mundo mortal. De vez em quando, devem se alimentar de carne. Vão aos pastos nas montanhas atrás da Seita e recolham ingredientes para a cozinha."
+ },
+ "schoolTaskDesc11804": {
+  "en": "Cultivators do not have to cut themselves off from the mortal world completely. Once in a while they should nourish themselves with meat. Go to the pastures in the mountains behind the Sect and collect ingredients for the kitchen.",
+  "ch": "修仙之人未必就非得断绝人间烟火，偶尔也可以选择肉食来补充营养。前往宗门后山放牧之地为火灶房捕获食材。",
+  "pt": "Os Cultivadores não precisam se afastar completamente do mundo mortal. De vez em quando, devem se alimentar de carne. Vão aos pastos nas montanhas atrás da Seita e coletem ingredientes para a cozinha."
+ },
+ "schoolTaskDesc11805": {
+  "en": "Cultivators do not have to cut themselves off from the mortal world completely. Once in a while they should nourish themselves with meat. Go to the pastures in the mountains behind the Sect and collect ingredients for the kitchen.",
+  "ch": "修仙之人未必就非得断绝人间烟火，偶尔也可以选择肉食来补充营养。前往宗门后山放牧之地为火灶房捕获食材。",
+  "pt": "Os Cultivadores não precisam se afastar completamente do mundo mortal. De vez em quando, devem se alimentar de carne. Vão até os pastos nas montanhas atrás da Seita e recolham ingredientes para a cozinha."
+ },
+ "schoolTaskDesc11806": {
+  "en": "All things have their season. If fruit is not picked, it will wither on the vine. Go to the orchards in the mountains behind the Sect and pick the Spiritual Fruit.",
+  "ch": "万物自有其生长的周期，果实若是不摘也会自行腐败。前往宗门后山园林之地采摘灵果。",
+  "pt": "Todas as coisas têm seu tempo certo. Se o fruto não for colhido, ele murchará no pé. Vá aos pomares nas montanhas atrás da Seita e colha o Fruto Espiritual."
+ },
+ "schoolTaskDesc11807": {
+  "en": "All things have their season. If fruit is not picked, it will wither on the vine. Go to the orchards in the mountains behind the Sect and pick the Spiritual Fruit.",
+  "ch": "万物自有其生长的周期，果实若是不摘也会自行腐败。前往宗门后山园林之地采摘灵果。",
+  "pt": "Todas as coisas têm seu tempo certo. Se o fruto não for colhido, ele murchará no pé. Vá aos pomares nas montanhas atrás da Seita e colha o Fruto Espiritual."
+ },
+ "schoolTaskDesc11808": {
+  "en": "All things have their season. If fruit is not picked, it will wither on the vine. Go to the orchards in the mountains behind the Sect and pick the Spiritual Fruit.",
+  "ch": "万物自有其生长的周期，果实若是不摘也会自行腐败。前往宗门后山园林之地采摘灵果。",
+  "pt": "Todas as coisas têm seu tempo certo. Se o fruto não for colhido, ele murchará no galho. Vá aos pomares nas montanhas atrás da Seita e colha o Fruto Espiritual."
+ },
+ "schoolTaskDesc11809": {
+  "en": "All things have their season. If fruit is not picked, it will wither on the vine. Go to the orchards in the mountains behind the Sect and pick the Spiritual Fruit.",
+  "ch": "万物自有其生长的周期，果实若是不摘也会自行腐败。前往宗门后山园林之地采摘灵果。",
+  "pt": "Todas as coisas têm seu tempo certo. Se o fruto não for colhido, ele murchará no pé. Vá aos pomares nas montanhas atrás da Seita e colha o Fruto Espiritual."
+ },
+ "schoolTaskDesc11810": {
+  "en": "All things have their season. If fruit is not picked, it will wither on the vine. Go to the orchards in the mountains behind the Sect and pick the Spiritual Fruit.",
+  "ch": "万物自有其生长的周期，果实若是不摘也会自行腐败。前往宗门后山园林之地采摘灵果。",
+  "pt": "Todas as coisas têm seu tempo certo. Se o fruto não for colhido, ele murchará no pé. Vá aos pomares nas montanhas atrás da Seita e colha o Fruto Espiritual."
+ },
+ "schoolTaskDesc11811": {
+  "en": "While Cultivators aspire to be free from hunger, it doesn't mean they don't feel hungry sometimes. Go to the oven in the mountains behind the Sect and make some soup.",
+  "ch": "修仙虽要辟谷，但口腹之欲实乃人之常情。前往宗门后山的野外灶台上烹饪出一道浓汤。",
+  "pt": "Embora os Cultivadores aspirem a ficar livres da fome, isso não significa que às vezes não sintam fome. Vá até o forno nas montanhas atrás da Seita e prepare uma sopa."
+ },
+ "schoolTaskDesc11812": {
+  "en": "While Cultivators aspire to be free from hunger, it doesn't mean they don't feel hungry sometimes. Go to the oven in the mountains behind the Sect and make some soup.",
+  "ch": "修仙虽要辟谷，但口腹之欲实乃人之常情。前往宗门后山的野外灶台上烹饪出一道浓汤。",
+  "pt": "Embora os Cultivadores aspirem a estar livres da fome, isso não significa que às vezes não sintam fome. Vá até o forno nas montanhas atrás da Seita e prepare uma sopa."
+ },
+ "schoolTaskDesc11813": {
+  "en": "While Cultivators aspire to be free from hunger, it doesn't mean they don't feel hungry sometimes. Go to the oven in the mountains behind the Sect and make some soup.",
+  "ch": "修仙虽要辟谷，但口腹之欲实乃人之常情。前往宗门后山的野外灶台上烹饪出一道浓汤。",
+  "pt": "Embora os Cultivadores aspirem a ficar livres da fome, isso não significa que às vezes não sintam fome. Vá até o forno nas montanhas atrás da Seita e prepare uma sopa."
+ },
+ "schoolTaskDesc11814": {
+  "en": "While Cultivators aspire to be free from hunger, it doesn't mean they don't feel hungry sometimes. Go to the oven in the mountains behind the Sect and make some soup.",
+  "ch": "修仙虽要辟谷，但口腹之欲实乃人之常情。前往宗门后山的野外灶台上烹饪出一道浓汤。",
+  "pt": "Embora os Cultivadores aspirem a ficar livres da fome, isso não significa que às vezes não sintam fome. Vá até o forno nas montanhas atrás da Seita e prepare uma sopa."
+ },
+ "schoolTaskDesc11815": {
+  "en": "While Cultivators aspire to be free from hunger, it doesn't mean they don't feel hungry sometimes. Go to the oven in the mountains behind the Sect and make some soup.",
+  "ch": "修仙虽要辟谷，但口腹之欲实乃人之常情。前往宗门后山的野外灶台上烹饪出一道浓汤。",
+  "pt": "Embora os Cultivadores aspirem a ficar livres da fome, isso não significa que às vezes não sintam fome. Vá até o forno nas montanhas atrás da Seita e prepare uma sopa."
+ },
+ "schoolTaskLobby_allotStudent": {
+  "en": "Allocate Disciples",
+  "ch": "分配弟子",
+  "pt": "Alocar Discípulos"
+ },
+ "schoolTaskLobby_allotStudentCount": {
+  "en": "Disciples that can be allocated:",
+  "ch": "可分配弟子:",
+  "pt": "Discípulos que podem ser alocados:"
+ },
+ "schoolTaskLobby_andingdu": {
+  "en": "Stability",
+  "ch": "安定度",
+  "pt": "Estabilidade"
+ },
+ "schoolTaskLobby_bigElderClassDescTitle": {
+  "en": "{0} last month mission debrief:",
+  "ch": "{0}上月任务汇报:",
+  "pt": "{0} resumo da missão do mês passado:"
+ },
+ "schoolTaskLobby_bigElderDesc": {
+  "en": "A total of {0} missions assigned and {1} completed.",
+  "ch": "共分配了{0}个任务，完成{1}个。",
+  "pt": "Um total de {0} missões atribuídas e {1} concluídas."
+ },
+ "schoolTaskLobby_bigElderDescTitle": {
+  "en": "{0} total mission debrief:",
+  "ch": "{0}总任务汇报:",
+  "pt": "{0} resumo geral da missão:"
+ },
+ "schoolTaskLobby_canAllotNum": {
+  "en": "Available Disciples:",
+  "ch": "可分配弟子数量:",
+  "pt": "Discípulos disponíveis:"
+ },
+ "schoolTaskLobby_elderInfo": {
+  "en": "Last month's missions: Completed {0}, failed {1}",
+  "ch": "上个月任务：完成{0}个，失败{1}个",
+  "pt": "Missões do mês passado: concluídas {0}, falhas {1}"
+ },
+ "schoolTaskLobby_fenpei": {
+  "en": "Assign Mission",
+  "ch": "分配任务",
+  "pt": "Atribuir Missão"
+ },
+ "schoolTaskLobby_getMess": {
+  "en": "Ask for info",
+  "ch": "打听情报",
+  "pt": "Solicitar informações"
+ },
+ "schoolTaskLobby_mingyu": {
+  "en": "Sect Prestige",
+  "ch": "宗门名誉",
+  "pt": "Prestígio da Seita"
+ },
+ "schoolTaskLobby_normalLogDesc": {
+  "en": "{0}: {1} common missions assigned, {2} completed.",
+  "ch": "{0}：分配了{1}个普通任务，完成{2}个。",
+  "pt": "{0}: {1} missões comuns foram atribuídas, {2} foram concluídas."
+ },
+ "schoolTaskLobby_notGetTaskTip": {
+  "en": "This is not a lower Branch of your Sect, and the Missions issued by it are only available to Disciples of that Branch.",
+  "ch": "此地为你所属宗门的下宗分舵，其发布的任务仅限该分舵内的弟子领取。",
+  "pt": "Esta não é uma filial secundária da sua Seita; as Missões emitidas por ela são acessíveis apenas aos Discípulos dessa filial."
+ },
+ "schoolTaskLobby_npctalk1": {
+  "en": "What Mission do you want to claim today?",
+  "ch": "今天想要领取什么任务",
+  "pt": "Que Missão você deseja assumir hoje?"
+ },
+ "schoolTaskLobby_npctalk2": {
+  "en": "What info are you looking for?",
+  "ch": "想要打听什么情报",
+  "pt": "Que informações você está procurando?"
+ },
+ "schoolTaskLobby_npctalk3": {
+  "en": "What Mission are you submitting today?",
+  "ch": "今天要提交什么任务",
+  "pt": "Qual Missão você está enviando hoje?"
+ },
+ "schoolTaskLobby_qingbao": {
+  "en": "Info",
+  "ch": "情报",
+  "pt": "Informações"
+ },
+ "schoolTaskLobby_qingbaotip": {
+  "en": "　　The more Disciples sent, the more info you will get.\nWhen info reaches the limit, special Missions can be unlocked.",
+  "ch": "　　派遣的弟子数量越多，获得的情报越多。\n当情报值达到上限后，便可解锁特殊任务。",
+  "pt": "　　Quanto mais Discípulos você enviar, mais informações receberá.\nQuando as informações atingirem o limite, Missões especiales poderão ser desbloqueadas."
+ },
+ "schoolTaskLobby_renkou": {
+  "en": "Population",
+  "ch": "宗门人数",
+  "pt": "População"
+ },
+ "schoolTaskLobby_schoolAdd": {
+  "en": "Sect Benefit:",
+  "ch": "宗门提升:",
+  "pt": "Benefício da Seita:"
+ },
+ "schoolTaskLobby_schoolGet": {
+  "en": "Sect Earning:",
+  "ch": "宗门所得:",
+  "pt": "Ganhos da Seita:"
+ },
+ "schoolTaskLobby_siwanglv": {
+  "en": "The higher the Mission difficulty, the higher the disciple mortality rate",
+  "ch": "任务难度越高，弟子死亡率越高",
+  "pt": "Quanto maior a dificuldade da Missão, maior a taxa de mortalidade dos discípulos."
+ },
+ "schoolTaskLobby_specialLogDesc": {
+  "en": "{0} special missions assigned, {1} completed.",
+  "ch": "分配了{0}个特殊任务，完成{1}个。",
+  "pt": "{0} missões especiales atribuídas, {1} concluídas."
+ },
+ "schoolTaskLobby_studentAllot": {
+  "en": "Disciple Allocation:",
+  "ch": "弟子分配:",
+  "pt": "Alocação de Discípulos:"
+ },
+ "schoolTaskLobby_studentInfo": {
+  "en": "Last month's missions: Received {0}, completed {1}",
+  "ch": "上个月任务：领取 {0}个，完成{1}个",
+  "pt": "Missões do mês passado: Recebidas {0}, concluídas {1}"
+ },
+ "schoolTaskLobby_tisheng": {
+  "en": "Sect Benefit of {0} {1}",
+  "ch": "宗门提升了{0}点{1}",
+  "pt": "Benefício da Seita {0} {1}"
+ },
+ "schoolTaskLobby_tuodongfenpei": {
+  "en": "　　Use the scrollbar or enter a number to assign Disciples to perform a Mission.\n　　Assigned Disciples will move on to the new Mission at the end of the current month.\n　　Unassigned Disciples in the hall will automatically accept other Missions from the Sect.",
+  "ch": "　　拖动滚动条，或输入人数即可分配相应的弟子数量进行任务\n　　受到分配的弟子，在本月结束后会开始执行任务\n　　在本月中，若当前堂口中存在未受到分配的弟子，则这些弟子会自行领取宗门现有的任务执行。",
+  "pt": "　　Use a barra de rolagem ou insira um número para designar Discípulos para executar uma Missão.\n　　Os Discípulos designados passarão para a nova Missão no final do mês atual.\n　　Os Discípulos não designados no salão aceitarão automaticamente outras Missões da Seita."
+ },
+ "schoolTaskLobby_wasAllot": {
+  "en": "Allocated : {0}/{1}",
+  "ch": "已分配：{0}/{1}",
+  "pt": "Alocado: {0}/{1}"
+ },
+ "schoolTaskLobby_wasAllotCount": {
+  "en": "　　Grand Elders and the Sect Leader may assign division Disciples to each department to carry out Missions.\n　　In this month, unassigned Disciples will go to their division and find Missions by themselves.",
+  "ch": "　　大长老和宗主可以分配记名弟子到各个堂口中去执行任务。\n　　在本月中，若宗门中存在未受到分配的弟子，则这些弟子会自行前往各个堂口中执行任务。",
+  "pt": "　　O Grão-Ancião e o Líder da Seita podem designar os Discípulos de cada divisão para executarem as Missões.\n　　Neste mês, os Discípulos não designados irão até suas divisões e procurarão Missões por conta própria."
+ },
+ "schoolTaskLobby_wasAllotCount1": {
+  "en": "　　In this hall, Elders can assign Disciples to perform Missions.\nDuring the current month, if there are Disciples in the division who have not been assigned Missions, these Disciples can carry out the Missions according to their own preferences.",
+  "ch": "　　在本堂中，长老可以分配弟子去执行任务。\n　　在本月中，若堂口中存在未受到分配的弟子，则这些弟子会按自己的喜好执行本堂中的任务。",
+  "pt": "　　Neste salão, os Anciãos podem designar Discípulos para realizarem Missões.  \nDurante este mês, se houver Discípulos na divisão que ainda não receberam Missões, eles poderão executar as Missões conforme suas próprias preferências."
+ },
+ "schoolTaskLobby_willGet": {
+  "en": "Estimated Benefit:",
+  "ch": "预计提升:",
+  "pt": "Benefício estimado:"
+ },
+ "schoolTaskLobby_wurensiwang": {
+  "en": "No deaths",
+  "ch": "无人死亡",
+  "pt": "Nenhuma morte"
+ },
+ "schoolTaskLobby_yourensiwang": {
+  "en": "{0} death(s) in all",
+  "ch": "共{0}人死亡",
+  "pt": "{0} morte(s) no total"
+ },
+ "schoolTaskLobby_zhongchengdu": {
+  "en": "Loyalty",
+  "ch": "忠诚度",
+  "pt": "Lealdade"
+ },
+ "schoolTaskName1": {
+  "en": "Recruit",
+  "ch": "招募任务",
+  "pt": "Recrutar"
+ },
+ "schoolTaskName10": {
+  "en": "Tending Herb Garden",
+  "ch": "打理灵草园",
+  "pt": "Cuidados com o Jardim de Ervas"
+ },
+ "schoolTaskName10250": {
+  "en": "Gather Taixuan Matsutake",
+  "ch": "收集太玄松茸",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "Colha os Matsutake Taixuan"
+ },
+ "schoolTaskName10251": {
+  "en": "Gather Taixuan Matsutake",
+  "ch": "收集太玄松茸",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "Colha os cogumelos Taixuan Matsutake"
+ },
+ "schoolTaskName10252": {
+  "en": "Gather Taixuan Matsutake",
+  "ch": "收集太玄松茸",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "Colha os cogumelos Taixuan Matsutake"
+ },
+ "schoolTaskName10253": {
+  "en": "Gather Taixuan Matsutake",
+  "ch": "收集太玄松茸",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "Colha os cogumelos Taixuan Matsutake"
+ },
+ "schoolTaskName10254": {
+  "en": "Gather Taixuan Matsutake",
+  "ch": "收集太玄松茸",
+  "nomes": {
+   "Taixuan Matsutake": "Taixuan Matsutake"
+  },
+  "pt": "Colha os Taixuan Matsutake"
+ },
+ "schoolTaskName10270": {
+  "en": "Collect Osmanthus",
+  "ch": "收集双桂草",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "Colher Osmanthus"
+ },
+ "schoolTaskName10271": {
+  "en": "Collect Osmanthus",
+  "ch": "收集双桂草",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "Colher Osmanthus"
+ },
+ "schoolTaskName10272": {
+  "en": "Collect Osmanthus",
+  "ch": "收集双桂草",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "Colher Osmanthus"
+ },
+ "schoolTaskName10273": {
+  "en": "Collect Osmanthus",
+  "ch": "收集双桂草",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "Colher Osmanthus"
+ },
+ "schoolTaskName10274": {
+  "en": "Collect Osmanthus",
+  "ch": "收集双桂草",
+  "nomes": {
+   "Osmanthus": "Osmanthus"
+  },
+  "pt": "Colher Osmanthus"
+ },
+ "schoolTaskName10411": {
+  "en": "Unexpected Monsters",
+  "ch": "惊现妖巢",
+  "pt": "Monstros Inesperados"
+ },
+ "schoolTaskName10412": {
+  "en": "Unexpected Monsters",
+  "ch": "惊现妖巢",
+  "pt": "Monstros inesperados"
+ },
+ "schoolTaskName10413": {
+  "en": "Unexpected Monsters",
+  "ch": "惊现妖巢",
+  "pt": "Monstros inesperados"
+ },
+ "schoolTaskName10414": {
+  "en": "Unexpected Monsters",
+  "ch": "惊现妖巢",
+  "pt": "Monstros inesperados"
+ },
+ "schoolTaskName10415": {
+  "en": "Unexpected Monsters",
+  "ch": "惊现妖巢",
+  "pt": "Monstros inesperados"
+ },
+ "schoolTaskName10416": {
+  "en": "Build Prestige to Recruit",
+  "ch": "立威招贤",
+  "pt": "Construa Prestígio para Recrutar"
+ },
+ "schoolTaskName10417": {
+  "en": "Build Prestige to Recruit",
+  "ch": "立威招贤",
+  "pt": "Construa Prestígio para Recrutar"
+ },
+ "schoolTaskName10418": {
+  "en": "Build Prestige to Recruit",
+  "ch": "立威招贤",
+  "pt": "Construa Prestígio para Recrutar"
+ },
+ "schoolTaskName10419": {
+  "en": "Build Prestige to Recruit",
+  "ch": "立威招贤",
+  "pt": "Construa Prestígio para Recrutar"
+ },
+ "schoolTaskName10420": {
+  "en": "Build Prestige to Recruit",
+  "ch": "立威招贤",
+  "pt": "Construa Prestígio para Recrutar"
+ },
+ "schoolTaskName11": {
+  "en": "Collecting Ores",
+  "ch": "收集矿材",
+  "pt": "Coletando Minérios"
+ },
+ "schoolTaskName11350": {
+  "en": "Lost Artifact",
+  "ch": "法宝失窃",
+  "pt": "Artefato Perdido"
+ },
+ "schoolTaskName11351": {
+  "en": "Lost Artifact",
+  "ch": "法宝失窃",
+  "pt": "Artefato Perdido"
+ },
+ "schoolTaskName11352": {
+  "en": "Lost Artifact",
+  "ch": "法宝失窃",
+  "pt": "Artefato Perdido"
+ },
+ "schoolTaskName11353": {
+  "en": "Lost Artifact",
+  "ch": "法宝失窃",
+  "pt": "Artefato Perdido"
+ },
+ "schoolTaskName11354": {
+  "en": "Lost Artifact",
+  "ch": "法宝失窃",
+  "pt": "Artefato Perdido"
+ },
+ "schoolTaskName11355": {
+  "en": "Save the Recruitment Disciples",
+  "ch": "拯救招贤堂弟子",
+  "pt": "Salvem os Discípulos do Recrutamento."
+ },
+ "schoolTaskName11356": {
+  "en": "Save the Recruitment Disciples",
+  "ch": "拯救招贤堂弟子",
+  "pt": "Salvem os Discípulos do Recrutamento."
+ },
+ "schoolTaskName11357": {
+  "en": "Save the Recruitment Disciples",
+  "ch": "拯救招贤堂弟子",
+  "pt": "Salvem os Discípulos Recrutadores."
+ },
+ "schoolTaskName11358": {
+  "en": "Save the Recruitment Disciples",
+  "ch": "拯救招贤堂弟子",
+  "pt": "Salvem os Discípulos Recrutadores."
+ },
+ "schoolTaskName11359": {
+  "en": "Save the Recruitment Disciples",
+  "ch": "拯救招贤堂弟子",
+  "pt": "Salvem os Discípulos Recrutadores."
+ },
+ "schoolTaskName11360": {
+  "en": "Failed to Spy",
+  "ch": "刺探情报失利",
+  "pt": "Falha ao espionar"
+ },
+ "schoolTaskName11361": {
+  "en": "Failed to Spy",
+  "ch": "刺探情报失利",
+  "pt": "Falha ao espionar"
+ },
+ "schoolTaskName11362": {
+  "en": "Failed to Spy",
+  "ch": "刺探情报失利",
+  "pt": "Falha ao espionar"
+ },
+ "schoolTaskName11363": {
+  "en": "Failed to Spy",
+  "ch": "刺探情报失利",
+  "pt": "Falha ao espionar"
+ },
+ "schoolTaskName11364": {
+  "en": "Failed to Spy",
+  "ch": "刺探情报失利",
+  "pt": "Falha ao espionar"
+ },
+ "schoolTaskName11365": {
+  "en": "Construction Surveying Accident",
+  "ch": "修筑堂勘察意外",
+  "pt": "Acidente em levantamento topográfico na construção"
+ },
+ "schoolTaskName11366": {
+  "en": "Construction Surveying Accident",
+  "ch": "修筑堂勘察意外",
+  "pt": "Acidente em levantamento topográfico na construção"
+ },
+ "schoolTaskName11367": {
+  "en": "Construction Surveying Accident",
+  "ch": "修筑堂勘察意外",
+  "pt": "Acidente em levantamento topográfico na construção"
+ },
+ "schoolTaskName11368": {
+  "en": "Construction Surveying Accident",
+  "ch": "修筑堂勘察意外",
+  "pt": "Acidente em levantamento topográfico de construção"
+ },
+ "schoolTaskName11369": {
+  "en": "Construction Surveying Accident",
+  "ch": "修筑堂勘察意外",
+  "pt": "Acidente em levantamento topográfico de construção"
+ },
+ "schoolTaskName11370": {
+  "en": "Assist in the Battle",
+  "ch": "协助荡寇",
+  "pt": "Ajude na Batalha."
+ },
+ "schoolTaskName11371": {
+  "en": "Assist in the Battle",
+  "ch": "协助荡寇",
+  "pt": "Ajude na Batalha."
+ },
+ "schoolTaskName11372": {
+  "en": "Assist in the Battle",
+  "ch": "协助荡寇",
+  "pt": "Ajude na Batalha."
+ },
+ "schoolTaskName11373": {
+  "en": "Assist in the Battle",
+  "ch": "协助荡寇",
+  "pt": "Ajude na Batalha."
+ },
+ "schoolTaskName11374": {
+  "en": "Assist in the Battle",
+  "ch": "协助荡寇",
+  "pt": "Ajude na Batalha."
+ },
+ "schoolTaskName11375": {
+  "en": "Capture the Thieving Disciple",
+  "ch": "追回窃宝弟子",
+  "pt": "Capture o Discípulo Ladrão"
+ },
+ "schoolTaskName11376": {
+  "en": "Capture the Thieving Disciple",
+  "ch": "追回窃宝弟子",
+  "pt": "Capture o Discípulo Ladrão"
+ },
+ "schoolTaskName11377": {
+  "en": "Capture the Thieving Disciple",
+  "ch": "追回窃宝弟子",
+  "pt": "Capture o Discípulo Ladrão"
+ },
+ "schoolTaskName11378": {
+  "en": "Capture the Thieving Disciple",
+  "ch": "追回窃宝弟子",
+  "pt": "Capture o Discípulo Ladrão"
+ },
+ "schoolTaskName11379": {
+  "en": "Capture the Thieving Disciple",
+  "ch": "追回窃宝弟子",
+  "pt": "Capture o Discípulo Ladrão"
+ },
+ "schoolTaskName11380": {
+  "en": "Fetch the Disciples Nearby the Sect",
+  "ch": "将在宗门附近的弟子接到宗门",
+  "pt": "Chame os Discípulos que estão perto da Seita."
+ },
+ "schoolTaskName11381": {
+  "en": "Fetch the Disciples Nearby the Sect",
+  "ch": "将在宗门附近的弟子接到宗门",
+  "pt": "Chame os Discípulos que estão perto da Seita."
+ },
+ "schoolTaskName11382": {
+  "en": "Fetch the Disciples Nearby the Sect",
+  "ch": "将在宗门附近的弟子接到宗门",
+  "pt": "Chame os Discípulos que estão perto da Seita."
+ },
+ "schoolTaskName11383": {
+  "en": "Fetch the Disciples Nearby the Sect",
+  "ch": "将在宗门附近的弟子接到宗门",
+  "pt": "Chame os Discípulos que estão perto da Seita."
+ },
+ "schoolTaskName11384": {
+  "en": "Fetch the Disciples Nearby the Sect",
+  "ch": "将在宗门附近的弟子接到宗门",
+  "pt": "Chame os Discípulos que estão perto da Seita."
+ },
+ "schoolTaskName11390": {
+  "en": "Monsters Rampant in the Spirit Mines",
+  "ch": "妖物肆虐灵矿",
+  "pt": "Monstros à solta nas Minas do Espírito"
+ },
+ "schoolTaskName11391": {
+  "en": "Monsters Rampant in the Spirit Mines",
+  "ch": "妖物肆虐灵矿",
+  "pt": "Monstros à solta nas Minas do Espírito"
+ },
+ "schoolTaskName11392": {
+  "en": "Monsters Rampant in the Spirit Mines",
+  "ch": "妖物肆虐灵矿",
+  "pt": "Monstros à solta nas Minas do Espírito"
+ },
+ "schoolTaskName11393": {
+  "en": "Monsters Rampant in the Spirit Mines",
+  "ch": "妖物肆虐灵矿",
+  "pt": "Monstros à solta nas Minas do Espírito"
+ },
+ "schoolTaskName11394": {
+  "en": "Monsters Rampant in the Spirit Mines",
+  "ch": "妖物肆虐灵矿",
+  "pt": "Monstros à solta nas Minas do Espírito"
+ },
+ "schoolTaskName11395": {
+  "en": "Hand the Letter to the Recipient",
+  "ch": "将信件投递到位",
+  "pt": "Entregue a Carta ao destinatário."
+ },
+ "schoolTaskName11396": {
+  "en": "Hand the Letter to the Recipient",
+  "ch": "将信件投递到位",
+  "pt": "Entregue a Carta ao destinatário."
+ },
+ "schoolTaskName11397": {
+  "en": "Hand the Letter to the Recipient",
+  "ch": "将信件投递到位",
+  "pt": "Entregue a Carta ao destinatário."
+ },
+ "schoolTaskName11398": {
+  "en": "Hand the Letter to the Recipient",
+  "ch": "将信件投递到位",
+  "pt": "Entregue a Carta ao destinatário."
+ },
+ "schoolTaskName11399": {
+  "en": "Hand the Letter to the Recipient",
+  "ch": "将信件投递到位",
+  "pt": "Entregue a Carta ao destinatário."
+ },
+ "schoolTaskName11450": {
+  "en": "External Affairs Traitor",
+  "ch": "外务堂内奸",
+  "pt": "Traidor dos Assuntos Externos"
+ },
+ "schoolTaskName11451": {
+  "en": "External Affairs Traitor",
+  "ch": "外务堂内奸",
+  "pt": "Traidor dos Assuntos Externos"
+ },
+ "schoolTaskName11452": {
+  "en": "External Affairs Traitor",
+  "ch": "外务堂内奸",
+  "pt": "Traidor dos Assuntos Externos"
+ },
+ "schoolTaskName11453": {
+  "en": "External Affairs Traitor",
+  "ch": "外务堂内奸",
+  "pt": "Traidor dos Assuntos Externos"
+ },
+ "schoolTaskName11454": {
+  "en": "External Affairs Traitor",
+  "ch": "外务堂内奸",
+  "pt": "Traidor dos Assuntos Externos"
+ },
+ "schoolTaskName11601": {
+  "en": "Sect Building Maintenance",
+  "ch": "宗门建筑维护",
+  "pt": "Manutenção de Edifícios da Seita"
+ },
+ "schoolTaskName11602": {
+  "en": "Sect Building Maintenance",
+  "ch": "宗门建筑维护",
+  "pt": "Manutenção de Edifícios da Seita"
+ },
+ "schoolTaskName11603": {
+  "en": "Sect Building Maintenance",
+  "ch": "宗门建筑维护",
+  "pt": "Manutenção de Edifícios da Seita"
+ },
+ "schoolTaskName11604": {
+  "en": "Sect Building Maintenance",
+  "ch": "宗门建筑维护",
+  "pt": "Manutenção de Edifícios da Seita"
+ },
+ "schoolTaskName11605": {
+  "en": "Sect Building Maintenance",
+  "ch": "宗门建筑维护",
+  "pt": "Manutenção de Edifícios da Seita"
+ },
+ "schoolTaskName11606": {
+  "en": "The Recruitment Holy Spring",
+  "ch": "招贤堂的灵泉",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "A Fonte Sagrada de Recrutamento"
+ },
+ "schoolTaskName11607": {
+  "en": "The Recruitment Holy Spring",
+  "ch": "招贤堂的灵泉",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "A Fonte Sagrada de Recrutamento"
+ },
+ "schoolTaskName11608": {
+  "en": "The Recruitment Holy Spring",
+  "ch": "招贤堂的灵泉",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "A Fonte Sagrada de Recrutamento"
+ },
+ "schoolTaskName11609": {
+  "en": "The Recruitment Holy Spring",
+  "ch": "招贤堂的灵泉",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "A Fonte Sagrada de Recrutamento"
+ },
+ "schoolTaskName11610": {
+  "en": "The Recruitment Holy Spring",
+  "ch": "招贤堂的灵泉",
+  "nomes": {
+   "Holy Spring": "Fonte Sagrada"
+  },
+  "pt": "A Fonte Sagrada de Recrutamento"
+ },
+ "schoolTaskName11611": {
+  "en": "Greeting Guests",
+  "ch": "接引宾客",
+  "pt": "Recebendo os convidados"
+ },
+ "schoolTaskName11612": {
+  "en": "Greeting Guests",
+  "ch": "接引宾客",
+  "pt": "Recebendo os convidados"
+ },
+ "schoolTaskName11613": {
+  "en": "Greeting Guests",
+  "ch": "接引宾客",
+  "pt": "Recebendo os convidados"
+ },
+ "schoolTaskName11614": {
+  "en": "Greeting Guests",
+  "ch": "接引宾客",
+  "pt": "Recebendo os convidados"
+ },
+ "schoolTaskName11615": {
+  "en": "Greeting Guests",
+  "ch": "接引宾客",
+  "pt": "Recebendo os convidados"
+ },
+ "schoolTaskName11616": {
+  "en": "Patrol the Nearby Deserted Area",
+  "ch": "巡查附近荒观",
+  "pt": "Patrulhar a área deserta próxima"
+ },
+ "schoolTaskName11617": {
+  "en": "Patrol the Nearby Deserted Area",
+  "ch": "巡查附近荒观",
+  "pt": "Patrulhar a área deserta próxima"
+ },
+ "schoolTaskName11618": {
+  "en": "Patrol the Nearby Deserted Area",
+  "ch": "巡查附近荒观",
+  "pt": "Patrulhar a área deserta próxima"
+ },
+ "schoolTaskName11619": {
+  "en": "Patrol the Nearby Deserted Area",
+  "ch": "巡查附近荒观",
+  "pt": "Patrulhar a área deserta próxima"
+ },
+ "schoolTaskName11620": {
+  "en": "Patrol the Nearby Deserted Area",
+  "ch": "巡查附近荒观",
+  "pt": "Patrulhar a área deserta próxima"
+ },
+ "schoolTaskName11621": {
+  "en": "Inspect the Feng Shui of the Land",
+  "ch": "巡查风水之地",
+  "pt": "Examine o Feng Shui do terreno."
+ },
+ "schoolTaskName11622": {
+  "en": "Inspect the Feng Shui of the Land",
+  "ch": "巡查风水之地",
+  "pt": "Inspecione o Feng Shui do terreno."
+ },
+ "schoolTaskName11623": {
+  "en": "Inspect the Feng Shui of the Land",
+  "ch": "巡查风水之地",
+  "pt": "Inspecione o Feng Shui do terreno."
+ },
+ "schoolTaskName11624": {
+  "en": "Inspect the Feng Shui of the Land",
+  "ch": "巡查风水之地",
+  "pt": "Inspecione o Feng Shui do terreno."
+ },
+ "schoolTaskName11625": {
+  "en": "Inspect the Feng Shui of the Land",
+  "ch": "巡查风水之地",
+  "pt": "Inspecione o Feng Shui do terreno."
+ },
+ "schoolTaskName11626": {
+  "en": "Talismans to Drive Away Monsters",
+  "ch": "画符驱妖",
+  "pt": "Talismãs para afastar Monstros"
+ },
+ "schoolTaskName11627": {
+  "en": "Talismans to Drive Away Monsters",
+  "ch": "画符驱妖",
+  "pt": "Talismãs para afastar Monstros"
+ },
+ "schoolTaskName11628": {
+  "en": "Talismans to Drive Away Monsters",
+  "ch": "画符驱妖",
+  "pt": "Talismãs para afastar Monstros"
+ },
+ "schoolTaskName11629": {
+  "en": "Talismans to Drive Away Monsters",
+  "ch": "画符驱妖",
+  "pt": "Talismãs para afastar Monstros"
+ },
+ "schoolTaskName11630": {
+  "en": "Talismans to Drive Away Monsters",
+  "ch": "画符驱妖",
+  "pt": "Talismãs para afastar Monstros"
+ },
+ "schoolTaskName11631": {
+  "en": "Levy Taxes",
+  "ch": "征收赋税",
+  "pt": "Cobrança de impostos"
+ },
+ "schoolTaskName11632": {
+  "en": "Levy Taxes",
+  "ch": "征收赋税",
+  "pt": "Cobrança de impostos"
+ },
+ "schoolTaskName11633": {
+  "en": "Levy Taxes",
+  "ch": "征收赋税",
+  "pt": "Cobrança de impostos"
+ },
+ "schoolTaskName11634": {
+  "en": "Levy Taxes",
+  "ch": "征收赋税",
+  "pt": "Cobrança de impostos"
+ },
+ "schoolTaskName11635": {
+  "en": "Levy Taxes",
+  "ch": "征收赋税",
+  "pt": "Cobrança de impostos"
+ },
+ "schoolTaskName11636": {
+  "en": "Black Market Merchant",
+  "ch": "黑市商人",
+  "pt": "Comerciante do Mercado Negro"
+ },
+ "schoolTaskName11637": {
+  "en": "Black Market Merchant",
+  "ch": "黑市商人",
+  "pt": "Comerciante do Mercado Negro"
+ },
+ "schoolTaskName11638": {
+  "en": "Black Market Merchant",
+  "ch": "黑市商人",
+  "pt": "Comerciante do Mercado Negro"
+ },
+ "schoolTaskName11639": {
+  "en": "Black Market Merchant",
+  "ch": "黑市商人",
+  "pt": "Comerciante do Mercado Negro"
+ },
+ "schoolTaskName11640": {
+  "en": "Black Market Merchant",
+  "ch": "黑市商人",
+  "pt": "Comerciante do Mercado Negro"
+ },
+ "schoolTaskName11641": {
+  "en": "Lecture on the Eight Trigram Skills",
+  "ch": "讲演卦法",
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas"
+ },
+ "schoolTaskName11642": {
+  "en": "Lecture on the Eight Trigram Skills",
+  "ch": "讲演卦法",
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas"
+ },
+ "schoolTaskName11643": {
+  "en": "Lecture on the Eight Trigram Skills",
+  "ch": "讲演卦法",
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas"
+ },
+ "schoolTaskName11644": {
+  "en": "Lecture on the Eight Trigram Skills",
+  "ch": "讲演卦法",
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas"
+ },
+ "schoolTaskName11645": {
+  "en": "Lecture on the Eight Trigram Skills",
+  "ch": "讲演卦法",
+  "pt": "Palestra sobre as Habilidades dos Oito Trigramas"
+ },
+ "schoolTaskName11646": {
+  "en": "Patrol the Array Core",
+  "ch": "巡查阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Patrulhe o Núcleo da Formação"
+ },
+ "schoolTaskName11647": {
+  "en": "Patrol the Array Core",
+  "ch": "巡查阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Patrulhe o Núcleo da Formação"
+ },
+ "schoolTaskName11648": {
+  "en": "Patrol the Array Core",
+  "ch": "巡查阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Patrulhe o Núcleo da Formação"
+ },
+ "schoolTaskName11649": {
+  "en": "Patrol the Array Core",
+  "ch": "巡查阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Patrulhe o Núcleo da Formação"
+ },
+ "schoolTaskName11650": {
+  "en": "Patrol the Array Core",
+  "ch": "巡查阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Patrulhe o Núcleo da Formação"
+ },
+ "schoolTaskName11651": {
+  "en": "Delivering Secret Messages",
+  "ch": "传递密信",
+  "pt": "Transmitindo mensagens secretas"
+ },
+ "schoolTaskName11652": {
+  "en": "Delivering Secret Messages",
+  "ch": "传递密信",
+  "pt": "Transmitindo mensagens secretas"
+ },
+ "schoolTaskName11653": {
+  "en": "Delivering Secret Messages",
+  "ch": "传递密信",
+  "pt": "Transmitindo mensagens secretas"
+ },
+ "schoolTaskName11654": {
+  "en": "Delivering Secret Messages",
+  "ch": "传递密信",
+  "pt": "Transmitindo mensagens secretas"
+ },
+ "schoolTaskName11655": {
+  "en": "Delivering Secret Messages",
+  "ch": "传递密信",
+  "pt": "Entregando mensagens secretas"
+ },
+ "schoolTaskName11656": {
+  "en": "Exorcism and Monster Hunting",
+  "ch": "驱邪捉妖",
+  "pt": "Exorcismo e Caça aos Monstros"
+ },
+ "schoolTaskName11657": {
+  "en": "Exorcism and Monster Hunting",
+  "ch": "驱邪捉妖",
+  "pt": "Exorcismo e Caça aos Monstros"
+ },
+ "schoolTaskName11658": {
+  "en": "Exorcism and Monster Hunting",
+  "ch": "驱邪捉妖",
+  "pt": "Exorcismo e Caça aos Monstros"
+ },
+ "schoolTaskName11659": {
+  "en": "Exorcism and Monster Hunting",
+  "ch": "驱邪捉妖",
+  "pt": "Exorcismo e Caça aos Monstros"
+ },
+ "schoolTaskName11660": {
+  "en": "Exorcism and Monster Hunting",
+  "ch": "驱邪捉妖",
+  "pt": "Exorcismo e Caça aos Monstros"
+ },
+ "schoolTaskName11801": {
+  "en": "Pick Ingredients",
+  "ch": "拣取食材",
+  "pt": "Escolha os ingredientes"
+ },
+ "schoolTaskName11802": {
+  "en": "Pick Ingredients",
+  "ch": "拣取食材",
+  "pt": "Escolha os ingredientes"
+ },
+ "schoolTaskName11803": {
+  "en": "Pick Ingredients",
+  "ch": "拣取食材",
+  "pt": "Escolha os ingredientes"
+ },
+ "schoolTaskName11804": {
+  "en": "Pick Ingredients",
+  "ch": "拣取食材",
+  "pt": "Escolha os ingredientes"
+ },
+ "schoolTaskName11805": {
+  "en": "Pick Ingredients",
+  "ch": "拣取食材",
+  "pt": "Escolha os ingredientes"
+ },
+ "schoolTaskName11806": {
+  "en": "Harvest Spiritual Fruit",
+  "ch": "采摘灵果",
+  "pt": "Colha o Fruto Espiritual"
+ },
+ "schoolTaskName11807": {
+  "en": "Harvest Spiritual Fruit",
+  "ch": "采摘灵果",
+  "pt": "Colher Fruto Espiritual"
+ },
+ "schoolTaskName11808": {
+  "en": "Harvest Spiritual Fruit",
+  "ch": "采摘灵果",
+  "pt": "Colher Fruto Espiritual"
+ },
+ "schoolTaskName11809": {
+  "en": "Harvest Spiritual Fruit",
+  "ch": "采摘灵果",
+  "pt": "Colher Fruto Espiritual"
+ },
+ "schoolTaskName11810": {
+  "en": "Harvest Spiritual Fruit",
+  "ch": "采摘灵果",
+  "pt": "Colher Fruto Espiritual"
+ },
+ "schoolTaskName11811": {
+  "en": "Make Soup",
+  "ch": "熬制汤品",
+  "pt": "Faça sopa"
+ },
+ "schoolTaskName11812": {
+  "en": "Make Soup",
+  "ch": "熬制汤品",
+  "pt": "Faça sopa"
+ },
+ "schoolTaskName11813": {
+  "en": "Make Soup",
+  "ch": "熬制汤品",
+  "pt": "Faça Sopa"
+ },
+ "schoolTaskName11814": {
+  "en": "Make Soup",
+  "ch": "熬制汤品",
+  "pt": "Faça Sopa"
+ },
+ "schoolTaskName11815": {
+  "en": "Make Soup",
+  "ch": "熬制汤品",
+  "pt": "Faça Sopa"
+ },
+ "schoolTaskName12": {
+  "en": "Subduing Monsters",
+  "ch": "降服妖物",
+  "pt": "Domando Monstros"
+ },
+ "schoolTaskName13": {
+  "en": "Find Sect Arcane Manual",
+  "ch": "寻找宗门秘法",
+  "pt": "Encontre o Manual Arcano da Seita."
+ },
+ "schoolTaskName14": {
+  "en": "Kill Sect Enemy",
+  "ch": "击杀宗门敌人",
+  "pt": "Mate o inimigo da Seita"
+ },
+ "schoolTaskName15": {
+  "en": "Kill the Qi Deviated Cultivator",
+  "ch": "击杀走火入魔的修仙者",
+  "nomes": {
+   "Qi Deviated Cultivator": "Cultivador Desviado pelo Qi",
+   "Qi Deviated": "Desviado do Qi",
+   "Cultivator": "Cultivador"
+  },
+  "pt": "Mate o Cultivador com Qi Desviado."
+ },
+ "schoolTaskName2": {
+  "en": "Collecting Herbs",
+  "ch": "收集药材",
+  "pt": "Colhendo Ervas"
+ },
+ "schoolTaskName3": {
+  "en": "Elixir Concoction",
+  "ch": "炼制丹药",
+  "pt": "Elixir: Preparação"
+ },
+ "schoolTaskName4": {
+  "en": "Monster Sweep",
+  "ch": "清理怪物",
+  "pt": "Varredura de Monstros"
+ },
+ "schoolTaskName5": {
+  "en": "Territory Garrison",
+  "ch": "驻守领地",
+  "pt": "Guarnição do Território"
+ },
+ "schoolTaskName6": {
+  "en": "Pacifying Rebellions",
+  "ch": "平定叛乱",
+  "pt": "Pacificando rebeliões"
+ },
+ "schoolTaskName7": {
+  "en": "Elixir Delivery",
+  "ch": "运送丹药",
+  "pt": "Entrega de Elixir"
+ },
+ "schoolTaskName8": {
+  "en": "Territory Expansion",
+  "ch": "扩张领地",
+  "pt": "Expansão Territorial"
+ },
+ "schoolTaskName9": {
+  "en": "Enemy Elimination",
+  "ch": "击杀敌道",
+  "pt": "Eliminação de inimigos"
+ },
+ "schoolTask_dailingqu": {
+  "en": "Claim",
+  "ch": "待领取",
+  "pt": "Reclamação"
+ },
+ "schoolTask_dailingqujiangli": {
+  "en": "Mission complete. Reward to be claimed",
+  "ch": "已完成，待领取奖励",
+  "pt": "Missão concluída. A recompensa pode ser resgatada agora."
+ },
+ "schoolTask_fangqirenwu": {
+  "en": "Abandon",
+  "ch": "放弃任务",
+  "pt": "Abandono"
+ },
+ "schoolTask_fangqirenwutishi": {
+  "en": "Abandon this mission?",
+  "ch": "确定放弃任务？",
+  "pt": "Abandonar essa missão?"
+ },
+ "schoolTask_gongxian": {
+  "en": "Sect Contribution",
+  "ch": "宗门贡献",
+  "nomes": {
+   "Sect Contribution": "Contribuição da Seita"
+  },
+  "pt": "Contribuição da Seita"
+ },
+ "schoolTask_jiangli": {
+  "en": "Reward: ",
+  "ch": "任务奖励：",
+  "pt": "Recompensa: "
+ },
+ "schoolTask_jindu": {
+  "en": "Progress: ",
+  "ch": "任务进度：",
+  "pt": "Progresso: "
+ },
+ "schoolTask_jinxingzhong": {
+  "en": "In progress",
+  "ch": "进行中",
+  "pt": "Em andamento"
+ },
+ "schoolTask_jinxingzhong2": {
+  "en": "In progress...",
+  "ch": "进行中...",
+  "pt": "Em andamento..."
+ },
+ "schoolTask_juli": {
+  "en": "Distance: {0}",
+  "ch": "当前距离{0}格",
+  "pt": "Distância: {0}"
+ },
+ "schoolTask_lingjiangli": {
+  "en": "Claim Reward",
+  "ch": "领奖励",
+  "pt": "Resgatar recompensa"
+ },
+ "schoolTask_lingqu": {
+  "en": "Claimed",
+  "ch": "领取成功",
+  "pt": "Reivindicado"
+ },
+ "schoolTask_nandu": {
+  "en": "Difficulty: ",
+  "ch": "任务难度：",
+  "pt": "Dificuldade: "
+ },
+ "schoolTask_renwushangxian": {
+  "en": "You can no longer accept any more missions.",
+  "ch": "领取任务数量达到上限",
+  "pt": "Você não pode mais aceitar nenhuma missão."
+ },
+ "schoolTask_shengyushijian": {
+  "en": " month(s)",
+  "ch": "个月",
+  "pt": " mês(es)"
+ },
+ "schoolTask_shijian": {
+  "en": "Time: ",
+  "ch": "任务时间：",
+  "pt": "Horário: "
+ },
+ "schoolTask_tijiaorenwu": {
+  "en": "Submit",
+  "ch": "提交任务",
+  "pt": "Enviar"
+ },
+ "schoolTask_weiwancheng": {
+  "en": "Not completed",
+  "ch": "未完成",
+  "pt": "Não concluído"
+ },
+ "schoolTask_ziyuanbuzu": {
+  "en": "Not enough resources or the destination doesn't exist.",
+  "ch": "资源不足或目的地不存在",
+  "pt": "Recursos insuficientes ou o destino não existe."
+ },
+ "schoolTask_zizhibuzhu": {
+  "en": "Stat too low",
+  "ch": "资质不足",
+  "pt": "Estatística muito baixa"
+ },
+ "schoolTask_zuoguode": {
+  "en": "Missions completed",
+  "ch": "做过的任务",
+  "pt": "Missões concluídas"
+ },
+ "schoolUpPostSelect_cancel": {
+  "en": "Refund all contribution cost from promotion sign up.",
+  "ch": "返还晋升报名所消耗的贡献",
+  "pt": "Reembolse todo o custo da contribuição referente à inscrição na promoção."
+ },
+ "schoolUpPost_giveUp": {
+  "en": "Give up on duel?",
+  "ch": "是否放弃小比？",
+  "pt": "Desistir do duelo?"
+ },
+ "schoolUpPost_selectTip2": {
+  "en": "Select a Grand Elder to challenge",
+  "ch": "请选择要挑战的大长老",
+  "pt": "Selecione um Grão-Ancião para desafiar."
+ },
+ "schoolUpPost_selectTip3": {
+  "en": "Select an Elder to challenge",
+  "ch": "请选择要挑战的长老职位",
+  "pt": "Selecione um Ancião para desafiar."
+ },
+ "schoolUpPost_selectTip4": {
+  "en": "Select an Elder to sign up",
+  "ch": "请选择要报名的长老",
+  "pt": "Selecione um Ancião para se inscrever."
+ },
+ "schoolUpPost_selectTip4_1": {
+  "en": "Select a True Disciple to challenge",
+  "ch": "请选择要挑战的真传弟子位置",
+  "pt": "Selecione um Discípulo verdadeiro para desafiar."
+ },
+ "schoolWar": {
+  "en": "Sect battle",
+  "ch": "宗门战",
+  "pt": "Batalha da Seita"
+ },
+ "schoolWarRes_checkAttack": {
+  "en": "Confirm going into battle?",
+  "ch": "确定出战吗？",
+  "pt": "Confirmar entrada na batalha?"
+ },
+ "schoolWarRes_notEnough": {
+  "en": "Insufficient resources to start a battle!",
+  "ch": "资源不够无法发动战争！",
+  "pt": "Recursos insuficientes para iniciar uma batalha!"
+ },
+ "schoolWarRes_tooFew": {
+  "en": "Carrying too few resources!",
+  "ch": "携带资源太少！",
+  "pt": "Carregando muito poucos recursos!"
+ },
+ "schoolWarRes_tooMuch": {
+  "en": "Carrying too many resources leads to waste. Confirm battle?",
+  "ch": "携带资源太多造成浪费，确定出战吗？",
+  "pt": "Carregar muitos recursos resulta em desperdício. Confirmar a batalha?"
+ },
+ "schoolWarSelectRoom": {
+  "en": "Select an inner battlefield",
+  "ch": "选择一个内部战场",
+  "pt": "Selecione um campo de batalha interno"
+ },
+ "schoolWar_agencySchoolMainTip": {
+  "en": "Select one Disciple to represent the Sect Leader in battle against {0}",
+  "ch": "选择一名弟子代表宗主出战{0}",
+  "pt": "Escolha um Discípulo para representar o Líder da Seita na batalha contra {0}."
+ },
+ "schoolWar_agencySchoolMainTitle": {
+  "en": "Select Disciple(s)",
+  "ch": "选择弟子",
+  "pt": "Selecione um ou mais Discípulos"
+ },
+ "schoolWar_backpackTips": {
+  "en": "Press the B button to open the Bag.",
+  "ch": "按下B键可以打开背包",
+  "pt": "Pressione o botão B para abrir a Bolsa."
+ },
+ "schoolWar_baohu": {
+  "en": "Opponent Sect's array has just been reinforced and cannot be breached for {0} months",
+  "ch": "对方宗门大阵刚被加固过，{0}个月内无法攻破",
+  "pt": "A formação da Seita adversária acaba de ser reforçada e não pode ser penetrada por {0} meses."
+ },
+ "schoolWar_bossDizz_tip": {
+  "en": "The Guardian is stunned. Disciples, attack with all your might!",
+  "ch": "神兽已晕眩，请各个弟子全力攻击",
+  "pt": "O Guardião está atônito. Discípulos, ataquem com toda a sua força!"
+ },
+ "schoolWar_canzhanrenyuan": {
+  "en": "Battle Participant",
+  "ch": "参战人员",
+  "pt": "Participante da Batalha"
+ },
+ "schoolWar_counterName": {
+  "en": "Survivor",
+  "ch": "余孽",
+  "pt": "Sobrevivente"
+ },
+ "schoolWar_cuowu": {
+  "en": "Cannot declare war on opponent",
+  "ch": "无法向对方发起宣战",
+  "pt": "Não é possível declarar guerra ao oponente"
+ },
+ "schoolWar_dangqianfangjian": {
+  "en": "Current Room",
+  "ch": "当前房间",
+  "pt": "Quarto atual"
+ },
+ "schoolWar_danyaotisi": {
+  "en": "Only Elixirs can be equipped in battle",
+  "ch": "战斗中只能装备丹药",
+  "pt": "Apenas Elixires podem ser equipados durante uma batalha."
+ },
+ "schoolWar_dazhenmingzi": {
+  "en": "Sect Array Durability",
+  "ch": "宗门大阵耐久",
+  "pt": "Durabilidade da Formação da Seita"
+ },
+ "schoolWar_difangziyuan": {
+  "en": "Opponent Resources",
+  "ch": "敌方资源",
+  "pt": "Recursos para o adversário"
+ },
+ "schoolWar_direnzongzhu": {
+  "en": "Opponent Sect Leader",
+  "ch": "敌方宗主",
+  "pt": "Líder da Seita adversário"
+ },
+ "schoolWar_end_tip1": {
+  "en": "Our team's morale is overwhelming. Unleash a morale blast on the enemy Sect Leader.",
+  "ch": "我方士气如虹，向敌方宗主释放士气冲击",
+  "pt": "O moral da nossa equipe está nas alturas. Dispare um impulso de moral contra o Líder da Seita inimigo."
+ },
+ "schoolWar_end_tip2": {
+  "en": "The enemy's morale is overwhelming. Unleash a morale blast on our team's Sect Leader.",
+  "ch": "敌方士气如虹，向我方宗主释放士气冲击",
+  "pt": "O moral do inimigo é impressionante. Dispare um impulso de moral no Líder da Seita do nosso time."
+ },
+ "schoolWar_eye_1": {
+  "en": "Array Core: Li",
+  "ch": "离位阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Formação Core: Li"
+ },
+ "schoolWar_eye_2": {
+  "en": "Array Core: Dui",
+  "ch": "兑位阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Formação Core: Dui"
+ },
+ "schoolWar_eye_3": {
+  "en": "Array Core: Zhen",
+  "ch": "震位阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Formação Principal: Zhen"
+ },
+ "schoolWar_eye_4": {
+  "en": "Array Core: Qian",
+  "ch": "乾位阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Núcleo da Formação: Qian"
+ },
+ "schoolWar_eye_5": {
+  "en": "Array Core: Kun",
+  "ch": "坤位阵眼",
+  "nomes": {
+   "Array Core": "Núcleo da Formação"
+  },
+  "pt": "Núcleo da Formação: Kun"
+ }
+}
