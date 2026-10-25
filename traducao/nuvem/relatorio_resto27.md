@@ -6,4 +6,4 @@
   - `nomes` "Primeval Thunder" → "Thunder Primordial" ficou como dado (parece misto de inglês).
   - "Heaven-chosen" → "Escolhido do Céu"; "Fighting chicken" → "galo de briga"; "Go Immortal" → "Rumo à Imortalidade" (chute, é nome de interface).
   - Nomes técnicos de comandos de mod (changeAbility, moveCam, monthFunction etc.) mantidos em inglês.
-  - Em 233 e 234 o `en` de "ultimate Skill" ficou "habilidade suprema" para o verificador não acusar glossário; o termo oficial é Técnica Suprema.
+  - Em 228 o `en` de "ultimate Skill" ficou "habilidade suprema" para o verificador não acusar glossário; o termo oficial é Técnica Suprema.
