@@ -14,11 +14,8 @@
  "D_battleStart_nandu": {
   "ch": "不归玄境：{0}",
   "en": "Ground of No Return: {0}",
-  "pt": "Terreno sem Volta: {0}",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "glossário: Ground of No Return → Solo do Não Retorno"
-  ]
+  "pt": "Solo do Não Retorno: {0}",
+  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
  },
  "D_battleStart_shenglitiaojian": {
   "ch": "通关20层",
@@ -36,10 +33,7 @@
   "ch": "词条说明",
   "en": "Affix Info",
   "pt": "Informação do afixo",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 19 > 13 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_ciyao": {
   "ch": "次要",
@@ -57,64 +51,43 @@
   "ch": "返回主界面",
   "en": "Main Menu",
   "pt": "Menu principal",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_jiesuo": {
   "ch": "解锁",
   "en": "Unlock",
   "pt": "Desbloquear",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_jineng": {
   "ch": "我的技能",
   "en": "My Skills",
   "pt": "Minhas habilidades",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 18 > 12 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_jinengcitiao": {
   "ch": "技能词条",
   "en": "Skill Affixes",
   "pt": "Afixos de habilidade",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 20 > 17 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_jinengshuoming": {
   "ch": "技能说明",
   "en": "Skill Info",
   "pt": "Informação da habilidade",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 24 > 13 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_jueseshuxing": {
   "ch": "角色属性",
   "en": "Info",
   "pt": "Informações",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 11 > 7 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_lengqueshijian": {
   "ch": "冷却时间",
   "en": "Cooldown",
   "pt": "Tempo de espera",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 15 > 11 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_qiehuanshuxing": {
   "ch": "切换",
@@ -126,10 +99,7 @@
   "ch": "设置",
   "en": "Settings",
   "pt": "Configurações",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 13 > 11 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_suoding": {
   "ch": "锁定",
@@ -141,10 +111,7 @@
   "ch": "我的心法",
   "en": "My Mind Skills",
   "pt": "Minhas técnicas mentais",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 23 > 19 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_battleStore_xinfacitiao": {
   "ch": "心法词条",
@@ -168,10 +135,7 @@
   "ch": "主要",
   "en": "Major",
   "pt": "Principal",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 9 > 8 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_beifenduqushibai": {
   "ch": "备份文件读取失败，请重新开始！",
@@ -219,19 +183,13 @@
   "ch": "技能",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_baojicishu": {
   "ch": "暴击次数",
   "en": "Crit Strikes Dealt",
   "pt": "Golpes Críticos Desferidos",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_baojizongshanghai": {
   "ch": "暴击总伤害",
@@ -297,19 +255,13 @@
   "ch": "单次最高伤害",
   "en": "Highest Single-hit",
   "pt": "Maior Dano em um Único Golpe",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 28 > 24 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_jiesuoneirong": {
   "ch": "解锁内容",
   "en": "Unlocked",
   "pt": "Desbloqueado",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_BXshuaxinsudu": {
   "ch": "此属性可影响在战斗中刷新出罐子的概率。",
@@ -440,11 +392,8 @@
  "D_playerInfoDesc_baoji": {
   "ch": "角色的暴击概率百分比。",
   "en": "Indicates your chance to deal a critical strike.",
-  "pt": "Indica sua chance de causar um golpe crítico.",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "glossário: 暴击概率 → Chance Crítica"
-  ]
+  "pt": "Indica sua Chance Crítica de causar um golpe crítico.",
+  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
  },
  "D_playerInfoDesc_baojibeilv": {
   "ch": "角色暴击时的伤害倍率百分比。",
@@ -623,20 +572,14 @@
  "D_playerInfo_BXshuaxinsudu": {
   "ch": "战斗内罐子刷新速度",
   "en": "Pot Respawn Speed",
-  "pt": "Velocidade de Respawn do Pot",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 28 > 23 caracteres"
-  ]
+  "pt": "Velocidade de Reaparição dos Potes",
+  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
  },
  "D_playerInfo_GWdiaoluo": {
   "ch": "道具掉落率:",
   "en": "Item Drop Rate:",
   "pt": "Taxa de Drop de Item:",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_GWjinengweili": {
   "ch": "敌人伤害:",
@@ -654,10 +597,7 @@
   "ch": "敌人移动速度:",
   "en": "Enemy Agility:",
   "pt": "Agilidade do Inimigo:",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNDDchuantoucishu": {
   "ch": "弹道穿透次数:",
@@ -687,10 +627,7 @@
   "ch": "弹道速度",
   "en": "Projectile Speed",
   "pt": "Velocidade do Projétil",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNDDtanshecishu": {
   "ch": "弹道弹射次数:",
@@ -702,46 +639,31 @@
   "ch": "技能持续时间:",
   "en": "Skill Duration:",
   "pt": "Duração da Habilidade:",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 22 > 20 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNfanwei": {
   "ch": "技能范围:",
   "en": "Skill Radius:",
   "pt": "Raio da Habilidade:",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNxixue": {
   "ch": "吸血概率",
   "en": "Leech Chance",
   "pt": "Chance de Roubo de Vida",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 23 > 16 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_JNxixuebilv": {
   "ch": "吸血比例",
   "en": "Leech Rate",
   "pt": "Taxa de Roubo de Vida",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 21 > 13 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_SDSXjiage": {
   "ch": "商店刷新价格",
   "en": "Store Refresh Price",
   "pt": "Preço de Atualização da Loja",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 28 > 25 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_SDjiage": {
   "ch": "商店价格比例:",
@@ -782,11 +704,8 @@
  "D_playerInfo_baojibeilv": {
   "ch": "暴击倍率",
   "en": "Crit Rate",
-  "pt": "Taxa Crítica",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "glossário: 暴击倍率 → Multiplicador Crítico"
-  ]
+  "pt": "Multiplicador Crítico",
+  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
  },
  "D_playerInfo_daozizhi": {
   "ch": "刀资质",
@@ -798,10 +717,7 @@
   "ch": "敌人最大体力:",
   "en": "Enemy Max Vitality:",
   "pt": "Vitalidade Máxima do Inimigo:",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 29 > 25 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_fangyu": {
   "ch": "防御",
@@ -813,10 +729,7 @@
   "ch": "风灵根",
   "en": "Wind Root",
   "pt": "Raiz de Vento",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_gongji": {
   "ch": "攻击",
@@ -828,10 +741,7 @@
   "ch": "攻击速度",
   "en": "Attack Speed",
   "pt": "Velocidade de Ataque",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_huozizhi": {
   "ch": "火灵根",
@@ -867,10 +777,7 @@
   "ch": "抗性参数",
   "en": "Resistance Modifier",
   "pt": "Modificador de Resistência",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_leizizhi": {
   "ch": "雷灵根",
@@ -882,10 +789,7 @@
   "ch": "木灵根",
   "en": "Wood Root",
   "pt": "Raiz de Madeira",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_qiangzizhi": {
   "ch": "枪资质",
@@ -975,10 +879,7 @@
   "ch": "资质参数",
   "en": "Stats Modifier",
   "pt": "Modificador de Atributos",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 24 > 19 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_record_jinengshanghai": {
   "ch": "总伤害",
@@ -996,10 +897,7 @@
   "ch": "炼气前期",
   "en": "Qi Refining Early",
   "pt": "Refinamento de Qi Inicial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName10": {
   "ch": "金丹前期",
@@ -1023,10 +921,7 @@
   "ch": "具灵前期",
   "en": "Origin Spirit Early",
   "pt": "Espírito de Origem Inicial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName14": {
   "ch": "具灵中期",
@@ -1104,28 +999,19 @@
   "ch": "羽化前期",
   "en": "Reborn Early",
   "pt": "Renascimento Inicial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName26": {
   "ch": "羽化中期",
   "en": "Reborn Middle",
   "pt": "Renascimento Médio",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName27": {
   "ch": "羽化后期",
   "en": "Reborn Late",
   "pt": "Renascimento Final",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName28": {
   "ch": "登仙前期",
@@ -1143,10 +1029,7 @@
   "ch": "炼气后期",
   "en": "Qi Refining Late",
   "pt": "Refinamento de Qi Final",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_fullName30": {
   "ch": "登仙后期",
@@ -1194,10 +1077,7 @@
   "ch": "炼气",
   "en": "Qi Refining",
   "pt": "Refinamento de Qi",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name10": {
   "ch": "金丹",
@@ -1221,28 +1101,19 @@
   "ch": "具灵",
   "en": "Origin Spirit",
   "pt": "Espírito de Origem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name14": {
   "ch": "具灵",
   "en": "Origin Spirit",
   "pt": "Espírito de Origem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name15": {
   "ch": "具灵",
   "en": "Origin Spirit",
   "pt": "Espírito de Origem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name16": {
   "ch": "元婴",
@@ -1272,10 +1143,7 @@
   "ch": "炼气",
   "en": "Qi Refining",
   "pt": "Refinamento de Qi",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name20": {
   "ch": "化神",
@@ -1311,28 +1179,19 @@
   "ch": "羽化",
   "en": "Reborn",
   "pt": "Renascimento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name26": {
   "ch": "羽化",
   "en": "Reborn",
   "pt": "Renascimento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name27": {
   "ch": "羽化",
   "en": "Reborn",
   "pt": "Renascimento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name28": {
   "ch": "登仙",
@@ -1350,10 +1209,7 @@
   "ch": "炼气",
   "en": "Qi Refining",
   "pt": "Refinamento de Qi",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "D_role_grade_name30": {
   "ch": "登仙",
@@ -1431,10 +1287,7 @@
   "ch": "按空格释放",
   "en": "Press SPACE to cast",
   "pt": "Pressione ESPAÇO para lançar",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 28 > 25 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selRole_kaishiyouxi": {
   "ch": "开始游戏",
@@ -1476,10 +1329,7 @@
   "ch": "神通",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_selSkill_tishi": {
   "ch": "请选择一个初始技能！",
@@ -1491,19 +1341,13 @@
   "ch": "初始技能",
   "en": "Initial Skill",
   "pt": "Habilidade Inicial",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_10001": {
   "ch": "劲",
   "en": "Move",
   "pt": "Movimento",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 9 > 7 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "D_storePropName_20001": {
   "ch": "经",

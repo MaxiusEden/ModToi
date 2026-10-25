@@ -14,11 +14,8 @@
  "storePropNameS102": {
   "ch": "狂血斩",
   "en": "Crazeblood Cleave",
-  "pt": "Golpe Sangrento Enlouquecido",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 23 caracteres"
-  ]
+  "pt": "Corte do Sangue Enlouquecido",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS103": {
   "ch": "绝情斩",
@@ -48,10 +45,7 @@
   "ch": "踏火术",
   "en": "Firerider",
   "pt": "Cavaleiro do Fogo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1201": {
   "ch": "灵流术",
@@ -63,19 +57,13 @@
   "ch": "冰晶爆",
   "en": "Ice Blast",
   "pt": "Explosão de Gelo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1203": {
   "ch": "噬灵术",
   "en": "Soulreaper",
   "pt": "Ceifador de Almas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1301": {
   "ch": "紫电闪",
@@ -105,28 +93,19 @@
   "ch": "风缚术",
   "en": "Windbound",
   "pt": "Amarras do Vento",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 16 > 12 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS1402": {
   "ch": "飞沙术",
   "en": "Sandstorm",
   "pt": "Tempestade de Areia",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 19 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1403": {
   "ch": "狂风术",
   "en": "Wild Wind",
   "pt": "Vento Selvagem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS1501": {
   "ch": "灵岩术",
@@ -138,28 +117,19 @@
   "ch": "陨石阵",
   "en": "Meteorfall",
   "pt": "Queda de Meteoros",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 17 > 13 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS1503": {
   "ch": "石傀术",
   "en": "Rock Puppet",
   "pt": "Fantoche de Rocha",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1601": {
   "ch": "活元术",
   "en": "Primal Energy",
   "pt": "Energia Primordial",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS1602": {
   "ch": "毒沼术",
@@ -177,10 +147,7 @@
   "ch": "活力术",
   "en": "Thorny Spirit",
   "pt": "Espírito Espinhoso",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS20001": {
   "ch": "经",
@@ -197,11 +164,8 @@
  "storePropNameS202": {
   "ch": "真龙破",
   "en": "True Dragon Rising",
-  "pt": "O Despertar do Dragão Verdadeiro",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 32 > 24 caracteres"
-  ]
+  "pt": "Ascensão do Dragão Verdadeiro",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS203": {
   "ch": "贯龙枪",
@@ -237,10 +201,7 @@
   "ch": "落日剑",
   "en": "Sunset Sword",
   "pt": "Espada do Pôr do Sol",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS304": {
   "ch": "七星剑",
@@ -270,10 +231,7 @@
   "ch": "宿铁",
   "en": "Aged Iron Blade",
   "pt": "Lâmina de Ferro Envelhecido",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400005": {
   "ch": "挟翼銮铃",
@@ -321,19 +279,13 @@
   "ch": "卷宗残页",
   "en": "Tome Pages",
   "pt": "Páginas do Tomo",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 15 > 13 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS400012": {
   "ch": "太泽指钉",
   "en": "Taize Finger Awl",
-  "pt": "Aguçador de Dedos Taize",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "pt": "Sovela de Dedo Taize",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400013": {
   "ch": "琉璃盏",
@@ -351,10 +303,7 @@
   "ch": "天启录",
   "en": "Record of Storm",
   "pt": "Registro da Tempestade",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400016": {
   "ch": "火莲焰",
@@ -372,10 +321,7 @@
   "ch": "万钧锤",
   "en": "Sky Hammer",
   "pt": "Martelo Celestial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400019": {
   "ch": "神州志",
@@ -387,19 +333,13 @@
   "ch": "玉净瓶",
   "en": "Jade Vial",
   "pt": "Frasco de Jade",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS400021": {
   "ch": "树妖的种子",
   "en": "Evergreen's Seed",
-  "pt": "Semente do Sempre-Verde",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "pt": "Semente do Demônio da Árvore",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400022": {
   "ch": "望月琴",
@@ -429,10 +369,7 @@
   "ch": "宝雕弓",
   "en": "Bejeweled Bow",
   "pt": "Arco Incrustado de Pedras Preciosas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 35 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400027": {
   "ch": "侍卫心得",
@@ -444,10 +381,7 @@
   "ch": "追影奇丸",
   "en": "Shadowchase Pill",
   "pt": "Pílula Perseguidora de Sombras",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 30 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400029": {
   "ch": "无双铠",
@@ -459,10 +393,7 @@
   "ch": "腾风履",
   "en": "Windtamer",
   "pt": "Domador de Ventos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400031": {
   "ch": "破虏冠",
@@ -480,10 +411,7 @@
   "ch": "长者白衫",
   "en": "White Gown",
   "pt": "Vestido Branco",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400034": {
   "ch": "照夜白驹",
@@ -525,19 +453,13 @@
   "ch": "吸气甲",
   "en": "Turtle Armor",
   "pt": "Armadura de Tartaruga",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400041": {
   "ch": "黄金锏",
   "en": "Fiery Spearhead",
   "pt": "Cabeça de Lança Inflamada",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400042": {
   "ch": "乌纱",
@@ -567,19 +489,13 @@
   "ch": "铁箍梁",
   "en": "Iron Beam",
   "pt": "Viga de Ferro",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "storePropNameS400047": {
   "ch": "黄龙法阵",
   "en": "Dragon Array",
   "pt": "Formação de Dragões",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS400048": {
   "ch": "釜甑",
@@ -603,10 +519,7 @@
   "ch": "杏黄旗",
   "en": "Apricot Banner",
   "pt": "Estandarte de Damasco",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400052": {
   "ch": "混元金斗",
@@ -624,10 +537,7 @@
   "ch": "烁金枣木杠",
   "en": "Coated Hardwood Bar",
   "pt": "Barra de Madeira Dura Revestida",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 31 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400055": {
   "ch": "三尖两刃刀",
@@ -747,10 +657,7 @@
   "ch": "司教金钗",
   "en": "Instructor's Hairpin",
   "pt": "Grampo de Cabelo do Instrutor",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 29 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS400075": {
   "ch": "雌雄剑",
@@ -798,19 +705,13 @@
   "ch": "崩山拳",
   "en": "Hillbreaker Fist",
   "pt": "Punho Destruidor de Colinas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS403": {
   "ch": "金刚拳",
   "en": "Ironbody Fist",
   "pt": "Punho de Corpo de Ferro",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "storePropNameS410001": {
   "ch": "地元仙根·分元",
@@ -888,10 +789,7 @@
   "ch": "摧山掌",
   "en": "Landslide Palm",
   "pt": "Palma do Deslizamento",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "storePropNameS503": {
   "ch": "定海掌",

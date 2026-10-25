@@ -141,10 +141,7 @@
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName103002": {
   "ch": "平定叛乱",
@@ -156,46 +153,31 @@
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName103102": {
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName103103": {
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName103104": {
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName103105": {
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName104001": {
   "ch": "驻守领地",
@@ -368,11 +350,8 @@
  "taskName110019": {
   "ch": "寻得《问心》",
   "en": "Find Ask Thy Heart",
-  "pt": "Encontre Pergunte ao Seu Coração",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 32 > 24 caracteres"
-  ]
+  "pt": "Encontre \"Pergunte ao Seu Coração\"",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName110020": {
   "ch": "将《问心》交给愿知",
@@ -425,11 +404,8 @@
  "taskName1108116": {
   "ch": "击杀树妖",
   "en": "Evergreen Battle",
-  "pt": "Batalha do Sempre-Verde",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "pt": "Batalha do Demônio da Árvore",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1109001": {
   "ch": "前往擎天寨",
@@ -459,10 +435,7 @@
   "ch": "向村民打听消息",
   "en": "Inquiry",
   "pt": "Investigação",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "taskName1110004": {
   "ch": "前往太行山",
@@ -546,19 +519,13 @@
   "ch": "回到东海",
   "en": "Back to East Sea",
   "pt": "De volta ao Mar do Leste",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1110017": {
   "ch": "寻找人面鸮之王",
   "en": "Find the Harpy Lord",
   "pt": "Encontre o Senhor das Harpias.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 30 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110018": {
   "ch": "与后羿会合",
@@ -588,10 +555,7 @@
   "ch": "寻找人面鸮之王",
   "en": "Find the Harpy Lord",
   "pt": "Encontre o Senhor das Harpias.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 30 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110023": {
   "ch": "将金羽交给后羿",
@@ -621,10 +585,7 @@
   "ch": "寻找人面鸮之王",
   "en": "Find the Harpy Lord",
   "pt": "Encontre o Senhor das Harpias.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 30 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110034": {
   "ch": "传说中的扶桑树",
@@ -642,10 +603,7 @@
   "ch": "回到东海",
   "en": "Back to East Sea",
   "pt": "De volta ao Mar do Leste",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1110037": {
   "ch": "抢夺扶桑树枝",
@@ -753,10 +711,7 @@
   "ch": "送女孩回家",
   "en": "Escort the Girl Home",
   "pt": "Escorte a garota até a casa dela.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 33 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110063": {
   "ch": "前往永恒冰原",
@@ -786,10 +741,7 @@
   "ch": "看看阿夸发生了什么",
   "en": "Check Up On Agar",
   "pt": "Verifique como Agar está",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110068": {
   "ch": "帮助阿夸追逐太阳",
@@ -801,19 +753,13 @@
   "ch": "看看阿夸遇到了什么",
   "en": "Check Up On Agar",
   "pt": "Verifique como Agar está",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110070": {
   "ch": "看看阿夸遇到了什么",
   "en": "Check Up On Agar",
   "pt": "Verifique como Agar está",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1110071": {
   "ch": "驱赶这片区域的旱魃",
@@ -831,10 +777,7 @@
   "ch": "前往宗门",
   "en": "To Sect",
   "pt": "Para a Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1110102": {
   "ch": "前往魔宗",
@@ -906,19 +849,13 @@
   "ch": "突破金丹境",
   "en": "Reach Golden Core",
   "pt": "Alcance o Núcleo Dourado.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1111008": {
   "ch": "突破具灵境",
   "en": "Reach Origin Spirit",
   "pt": "Alcance o Espírito de Origem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1111009": {
   "ch": "突破元婴境",
@@ -942,10 +879,7 @@
   "ch": "突破羽化境",
   "en": "Reach Reborn",
   "pt": "Alcance o Renascimento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1111013": {
   "ch": "突破登仙境",
@@ -957,10 +891,7 @@
   "ch": "战胜血魔",
   "en": "Defeat Blood Lord",
   "pt": "Derrote o Senhor do Sangue",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName1111015": {
   "ch": "前往城镇",
@@ -984,10 +915,7 @@
   "ch": "学习功法",
   "en": "Learn Special Skill",
   "pt": "Aprenda a Técnica Especial",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName1111019": {
   "ch": "装备功法",
@@ -1593,10 +1521,7 @@
   "ch": "阿夸之忧",
   "en": "Agar's Concern",
   "pt": "A Preocupação de Agar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110103": {
   "ch": "探查荒土",
@@ -1626,10 +1551,7 @@
   "ch": "寻找果树",
   "en": "Find the Fruit Tree",
   "pt": "Encontre a Árvore de Frutos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110108": {
   "ch": "寻找灵泉",
@@ -1647,19 +1569,13 @@
   "ch": "横抢硬夺",
   "en": "The Hard Way",
   "pt": "O Caminho Difícil",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110111": {
   "ch": "君子之约",
   "en": "Fair Trade",
   "pt": "Comércio Justo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110112": {
   "ch": "回到渭水",
@@ -1719,19 +1635,13 @@
   "ch": "铁尺寻踪",
   "en": "Iron Shard Hunt",
   "pt": "Caça aos Fragmentos de Ferro",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 28 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110203": {
   "ch": "猎兽取血",
   "en": "Beast Blood Hunt",
   "pt": "Caça ao Sangue de Fera",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110204": {
   "ch": "返回洞穴",
@@ -1767,10 +1677,7 @@
   "ch": "铁尺寻踪",
   "en": "Iron Shard Hunt",
   "pt": "Caça aos Fragmentos de Ferro",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110303": {
   "ch": "拯救阿嬉",
@@ -1782,10 +1689,7 @@
   "ch": "天道禁制",
   "en": "Heavenly Path Seal",
   "pt": "Selo do Caminho Celestial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110305": {
   "ch": "抵御刺客",
@@ -1797,10 +1701,7 @@
   "ch": "阿嬉呼唤",
   "en": "Xi's Call",
   "pt": "O Chamado de Xi",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110402": {
   "ch": "收集丹药",
@@ -1818,37 +1719,25 @@
   "ch": "铁尺寻踪",
   "en": "Iron Shard Hunt",
   "pt": "Caça aos Fragmentos de Ferro",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110405": {
   "ch": "觐见之礼",
   "en": "Paying Homage",
   "pt": "Prestando homenagem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110406": {
   "ch": "涂山之狐",
   "en": "Fox of Tushan",
   "pt": "A Raposa de Tushan",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110407": {
   "ch": "狐灵宝玉",
   "en": "Fox Spirit Orb",
-  "pt": "Orbe do Espírito Raposo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 23 > 19 caracteres"
-  ]
+  "pt": "Orbe do Espírito da Raposa",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110408": {
   "ch": "收集源魂",
@@ -2154,19 +2043,13 @@
   "ch": "查看地理图",
   "en": "Check Map",
   "pt": "Verifique o Mapa",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 16 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110611": {
   "ch": "融合冥种",
   "en": "Blend Nether Seeds",
   "pt": "Misture as Sementes do Submundo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 31 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110612": {
   "ch": "精金矿藏",
@@ -2178,10 +2061,7 @@
   "ch": "采集焰芯冰葵",
   "en": "Gather Flame Begonia",
   "pt": "Reúna as Begônias de Chama.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 27 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110621": {
   "ch": "城墙维护",
@@ -2205,10 +2085,7 @@
   "ch": "百城主事",
   "en": "Library Manager",
   "pt": "Gerente da Biblioteca",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110625": {
   "ch": "后方妖兽",
@@ -2226,10 +2103,7 @@
   "ch": "冥气仙卫",
   "en": "Nether Air Guard",
   "pt": "Guardião do Ar do Submundo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110628": {
   "ch": "黑雾汹涌",
@@ -2241,10 +2115,7 @@
   "ch": "妖兽斥候",
   "en": "Monster Scout",
   "pt": "Batedor de Monstros",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110630": {
   "ch": "墙外隐穴",
@@ -2256,10 +2127,7 @@
   "ch": "布置陷阱",
   "en": "Set Trap",
   "pt": "Armar Armadilha",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 15 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110632": {
   "ch": "捕捉妖兽",
@@ -2372,11 +2240,8 @@
  "taskName2110682": {
   "ch": "震鸣之墟",
   "en": "Howl Ruins",
-  "pt": "Ruínas de Howl",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "pt": "Ruínas do Uivo",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110683": {
   "ch": "魅谷",
@@ -2394,10 +2259,7 @@
   "ch": "寂寞沙洲",
   "en": "Desolate Sandbar",
   "pt": "Banco de Areia Desolado",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110686": {
   "ch": "永宁州·冥种幽窟",
@@ -2451,10 +2313,7 @@
   "ch": "树阵主脑",
   "en": "Tree Array Brain",
   "pt": "Cérebro de Formações em Árvore",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 30 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110695": {
   "ch": "木神句芒",
@@ -2646,10 +2505,7 @@
   "ch": "再次寻找九婴",
   "en": "Find Jiuying Again",
   "pt": "Encontre Jiuying novamente",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110727": {
   "ch": "怪木",
@@ -2745,19 +2601,13 @@
   "ch": "冥气之晶",
   "en": "Nether Air Crystal",
   "pt": "Cristal do Ar do Submundo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110805": {
   "ch": "古怪征兆",
   "en": "Strange Omen",
   "pt": "Presságio Estranho",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110806": {
   "ch": "收集冥晶",
@@ -2889,10 +2739,7 @@
   "ch": "转交利锥",
   "en": "Transfer Sharp Awl",
   "pt": "Transferir Estilete Afiado",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110828": {
   "ch": "骆瑛的请求",
@@ -2928,10 +2775,7 @@
   "ch": "使用风符",
   "en": "Use Wind Charm",
   "pt": "Use o Talismã do Vento.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110834": {
   "ch": "玉髓冰宫",
@@ -3033,10 +2877,7 @@
   "ch": "魔族之急",
   "en": "Demon’s Trouble",
   "pt": "Os Problemas do Demônio",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110950": {
   "ch": "帮助顾鸢儿",
@@ -3048,19 +2889,13 @@
   "ch": "利锥线索",
   "en": "Sharp Awl Clue",
   "pt": "Pista de Estilete Afiado",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110952": {
   "ch": "与李四一会",
   "en": "Meet with Jo",
   "pt": "Encontre-se com Jo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2110953": {
   "ch": "彻查洞穴",
@@ -3078,10 +2913,7 @@
   "ch": "履行嘱托",
   "en": "Cave Inside a Cave",
   "pt": "Caverna dentro de uma caverna",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 29 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2110956": {
   "ch": "回到天元山",
@@ -3243,10 +3075,7 @@
   "ch": "阴谋",
   "en": "Plot Against You",
   "pt": "Conspiração contra você",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2111207": {
   "ch": "主府的阴谋",
@@ -3282,10 +3111,7 @@
   "ch": "劫后丹师",
   "en": "Alchemists Survived",
   "pt": "Os Alquimistas Sobreviveram",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2111213": {
   "ch": "祖师云房",
@@ -3315,10 +3141,7 @@
   "ch": "赏玩游览",
   "en": "Walk Around and Look",
   "pt": "Passeie por ali e dê uma olhada",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 31 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2111218": {
   "ch": "查看丹方辑录",
@@ -3426,19 +3249,13 @@
   "ch": "击杀血魔",
   "en": "Kill Blood Lord",
   "pt": "Mate o Senhor do Sangue",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2111316": {
   "ch": "查看阿禹",
   "en": "Inspect Yu",
   "pt": "Inspecionar Yu",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2111317": {
   "ch": "归故里",
@@ -3492,10 +3309,7 @@
   "ch": "别来一聚",
   "en": "Meet Yu Again",
   "pt": "Encontre Yu novamente",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2111400": {
   "ch": "取得界元石",
@@ -3615,28 +3429,19 @@
   "ch": "出行",
   "en": "Set Out",
   "pt": "Ponha-se a Caminho",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2112004": {
   "ch": "出行",
   "en": "Set Out",
   "pt": "Ponha-se a Caminho",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2112005": {
   "ch": "横生突变",
   "en": "Sudden Upheaval",
   "pt": "Reviravolta Repentina",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName2112006": {
   "ch": "寻找秘籍",
@@ -3672,10 +3477,7 @@
   "ch": "寻找天道之气",
   "en": "Find Heaven Aura",
   "pt": "Encontre a Aura do Céu.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName2112200": {
   "ch": "",
@@ -3867,10 +3669,7 @@
   "ch": "寻找一只药灵",
   "en": "Find a Mushroom Man",
   "pt": "Encontre um Homem Cogumelo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "taskName3000002": {
   "ch": "钓鱼",
@@ -3882,10 +3681,7 @@
   "ch": "寻找药材",
   "en": "Find Herb",
   "pt": "Encontre a Erva",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName3000031": {
   "ch": "帝江的材料",
@@ -3921,28 +3717,19 @@
   "ch": "采花",
   "en": "Pick Flower",
   "pt": "Escolha uma flor",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName3000037": {
   "ch": "采花",
   "en": "Pick Flower",
   "pt": "Escolha uma flor",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName3000038": {
   "ch": "采花",
   "en": "Pick Flower",
   "pt": "Escolha uma flor",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName3000039": {
   "ch": "仙菌复兴计划",
@@ -4032,10 +3819,7 @@
   "ch": "前往昆吾仙祠",
   "en": "Go to Kunwu Shrine",
   "pt": "Vá ao Santuário de Kunwu.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName3000054": {
   "ch": "前往剑碑",
@@ -4095,10 +3879,7 @@
   "ch": "击杀仇人",
   "en": "Kill Enemy",
   "pt": "Mate o inimigo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName8000834": {
   "ch": "购买衣服",
@@ -4134,10 +3915,7 @@
   "ch": "回家",
   "en": "The Way Back",
   "pt": "O Caminho de Volta",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName8000845": {
   "ch": "抉择",
@@ -4197,10 +3975,7 @@
   "ch": "",
   "en": "Welcome Drink",
   "pt": "Bebida de boas-vindas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName8000909": {
   "ch": "",
@@ -4212,10 +3987,7 @@
   "ch": "清理冥妖",
   "en": "Nether Demon Sweep",
   "pt": "Varredura de Demônios do Submundo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 33 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName8001002": {
   "ch": "清除障碍",
@@ -4239,10 +4011,7 @@
   "ch": "摆脱追踪",
   "en": "Evading Pursuit",
   "pt": "Evitando a perseguição",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "taskName8001050": {
   "ch": "抉择",

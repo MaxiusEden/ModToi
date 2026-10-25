@@ -8,11 +8,8 @@
  "town_baoming": {
   "ch": "报名",
   "en": "Sign Up",
-  "pt": "Cadastre-se",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 11 > 10 caracteres"
-  ]
+  "pt": "Inscrever-se",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_baomingchenggong": {
   "ch": "报名成功",
@@ -120,19 +117,13 @@
   "ch": "储物空间",
   "en": "Storage",
   "pt": "Armazenamento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_cunru": {
   "ch": "存入",
   "en": "Store",
   "pt": "Armazenar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 9 > 8 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_cunrutishi": {
   "ch": "你的背包中有新的书籍，将自动存入书库。",
@@ -144,10 +135,7 @@
   "ch": "存入书籍完成！",
   "en": "Books stored!",
   "pt": "Livros armazenados!",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_dangqianbaojia": {
   "ch": "当前报价：",
@@ -159,19 +147,13 @@
   "ch": "点击出售",
   "en": "Click to sell",
   "pt": "Clique para vender",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_dianjigoumai": {
   "ch": "点击购买",
   "en": "Click to buy",
   "pt": "Clique para comprar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_dianjiquhui": {
   "ch": "点击取回",
@@ -225,19 +207,13 @@
   "ch": "购买",
   "en": "Buy",
   "pt": "Comprar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 7 > 6 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_goumaidanfang": {
   "ch": "购买丹方：",
   "en": "Buy Elixir Recipe:",
   "pt": "Compre a Receita de Elixir:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_goumaidanfangtishi": {
   "ch": "未学习此丹方，请先购买并学习此丹方。",
@@ -267,10 +243,7 @@
   "ch": "黑市交易",
   "en": "Black Market Trade",
   "pt": "Comércio no mercado negro",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_hejiutishi": {
   "ch": "达到{0}才能在{1}喝酒！",
@@ -360,10 +333,7 @@
   "ch": "建木空间已满！",
   "en": "Tree Vault is full!",
   "pt": "A Árvore-Cofre está cheia!",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_kuaisujingpai": {
   "ch": "快速竞拍",
@@ -423,10 +393,7 @@
   "ch": "（流拍物品）",
   "en": "(Bought-In Items)",
   "pt": "(Itens adquiridos de terceiros)",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 31 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_lundaotishi": {
   "ch": "必须加入{0}的任意宗门，才能参加升仙大会！",
@@ -456,19 +423,13 @@
   "ch": "天级委托",
   "en": "Expert Mission",
   "pt": "Missão de Especialistas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_mission7": {
   "ch": "黄级委托",
   "en": "Novice Mission",
   "pt": "Missão para Iniciantes",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_mission8": {
   "ch": "玄级委托",
@@ -492,10 +453,7 @@
   "ch": "拍卖行管理员",
   "en": "Auction Clerk",
   "pt": "Oficial de Leilões",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_paimaihuijieshu": {
   "ch": "拍卖会已结束",
@@ -543,28 +501,19 @@
   "ch": "风灵珠",
   "en": "Wind Qi Orb",
   "pt": "Orbe de Qi do Vento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_refine_name11": {
   "ch": "土灵珠",
   "en": "Earth Qi Orb",
   "pt": "Orbe de Qi da Terra",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_refine_name12": {
   "ch": "木灵珠",
   "en": "Wood Qi Orb",
   "pt": "Orbe de Qi da Madeira",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name13": {
   "ch": "天道之气",
@@ -618,10 +567,7 @@
   "ch": "木灵斗气",
   "en": "Condensed Wood Qi",
   "pt": "Qi Condensado da Madeira",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name21": {
   "ch": "火灵斗珠",
@@ -729,10 +675,7 @@
   "ch": "风灵气",
   "en": "Wind Qi",
   "pt": "Qi de Vento",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 11 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name5": {
   "ch": "土灵气",
@@ -744,37 +687,25 @@
   "ch": "木灵气",
   "en": "Wood Qi",
   "pt": "Qi de Madeira",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 13 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name7": {
   "ch": "火灵珠",
   "en": "Fire Qi Orb",
   "pt": "Orbe de Qi do Fogo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_refine_name8": {
   "ch": "水灵珠",
   "en": "Water Qi Orb",
   "pt": "Orbe de Qi da Água",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_refine_name9": {
   "ch": "雷灵珠",
   "en": "Lightning Qi Orb",
   "pt": "Orbe de Qi do Relâmpago",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "town_renwutishi": {
   "ch": "此任务不能同时接取多个！",
@@ -816,10 +747,7 @@
   "ch": "投宿",
   "en": "Rest",
   "pt": "Descanso",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 8 > 7 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_tuodongtishi": {
   "ch": "到底了！",
@@ -861,10 +789,7 @@
   "ch": "已参加",
   "en": "Joined",
   "pt": "Participou",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 10 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "town_yichushou": {
   "ch": "已拍卖",

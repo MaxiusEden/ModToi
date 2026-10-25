@@ -147,28 +147,19 @@
   "ch": "属性最小值",
   "en": "Stat min value",
   "pt": "Valor mínimo do atributo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_attr_value4Name": {
   "ch": "属性最大值",
   "en": "Stat max value",
   "pt": "Valor máximo do atributo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_attribute_value1Name": {
   "ch": "指定的属性",
   "en": "Specified stat",
   "pt": "Atributo especificado",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_attribute_value2Name": {
   "ch": "属性需求最小值",
@@ -198,10 +189,7 @@
   "ch": "对比的属性",
   "en": "Compared stats",
   "pt": "Atributos comparados",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_basCompare_value3Name": {
   "ch": "最高排名（1代表第一名）",
@@ -351,10 +339,7 @@
   "ch": "剧情ID",
   "en": "Plot ID",
   "pt": "ID do Enredo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_dialogueTime_value2Name": {
   "ch": "触发过剧情，并过了多长时间（月）",
@@ -366,10 +351,7 @@
   "ch": "剧情ID",
   "en": "Plot ID",
   "pt": "ID do Enredo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_doubleTrain_value3Name": {
   "ch": "多少个月后",
@@ -399,28 +381,19 @@
   "ch": "剧情ID",
   "en": "Plot ID",
   "pt": "ID do Enredo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_dungeonLevel_value1Name": {
   "ch": "等级最小值",
   "en": "Level min value",
   "pt": "Valor mínimo do nível",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_dungeonLevel_value2Name": {
   "ch": "等级最大值",
   "en": "Level max value",
   "pt": "Valor máximo do nível",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_equipMartial_value2Name": {
   "ch": "装备的技能数量",
@@ -492,19 +465,13 @@
   "ch": "境界最小值",
   "en": "Realm min value",
   "pt": "Valor mínimo do Reino",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_grade_value3Name": {
   "ch": "境界最大值",
   "en": "Realm max value",
   "pt": "Valor máximo do Reino",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_heresyCloseCompare_value1Name": {
   "ch": "神秘组织1",
@@ -624,10 +591,7 @@
   "ch": "副本ID",
   "en": "Dungeon ID",
   "pt": "ID da masmorra",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_lastItemEffectType_value1Name": {
   "ch": "道具品质大于等于指定值",
@@ -663,10 +627,7 @@
   "ch": "所需指定数量",
   "en": "Required Amount",
   "pt": "Quantidade necessária",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_nearSchool_value2Name": {
   "ch": "距离",
@@ -684,19 +645,13 @@
   "ch": "指定角色",
   "en": "Specify characters",
   "pt": "Especifique os personagens",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modCondition_numInRelationList_value4Name": {
   "ch": "比较的数量",
   "en": "Quantity to compare",
   "pt": "Quantidade a ser comparada",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modCondition_passiveMethodEquip_value2Name": {
   "ch": "判断的值",

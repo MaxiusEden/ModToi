@@ -223,10 +223,7 @@
   "ch": "议事大堂",
   "en": "Council Hall",
   "pt": "Salão do Conselho",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "gemini-2.5-flash"
  },
  "school_building_zhuqifang": {
   "ch": "铸器房",
@@ -317,9 +314,6 @@
   "en": "{0}F",
   "pt": "Andar {0}",
   "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 9 > 7 caracteres"
-  ],
   "revisado": true
  },
  "school_dipan": {
@@ -813,10 +807,7 @@
   "ch": "矿材",
   "en": "Ore",
   "pt": "Minério",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 7 > 6 caracteres"
-  ]
+  "auto": "gemini-2.5-flash"
  },
  "school_money": {
   "ch": "灵石",
@@ -1126,11 +1117,8 @@
  "school_renwujiangli": {
   "ch": "任务奖励：",
   "en": "Reward: ",
-  "pt": "Recompensa:",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 11 > 10 caracteres"
-  ]
+  "pt": "Recompensa: ",
+  "auto": "gemini-2.5-flash+revisao-nuvem"
  },
  "school_renwuliebiao": {
   "ch": "宗门任务列表",
@@ -1196,10 +1184,7 @@
   "ch": "任务说明：",
   "en": "Info:",
   "pt": "Informações:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 8 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_renwuzuobiao": {
   "ch": "任务坐标：{0}（距你{1}格）",
@@ -1265,10 +1250,7 @@
   "ch": "选择弟子",
   "en": "Select Disciple(s)",
   "pt": "Selecione o(s) Discípulo(s)",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_selectStudentNum": {
   "ch": "选择弟子{0}/{1}",
@@ -1317,10 +1299,7 @@
   "ch": "是否加入{0}？",
   "en": "Join {0}?",
   "pt": "Entrar em {0}?",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "gemini-2.5-flash"
  },
  "school_shuaxinmiji": {
   "ch": "是否花费{0}宗门贡献刷新秘籍？",
@@ -1543,10 +1522,7 @@
   "ch": "消耗灵石",
   "en": "Spirit Stone Cost",
   "pt": "Custo da Pedra Espiritual",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_xiaohaogongxian": {
   "ch": "消耗贡献",
@@ -1558,19 +1534,13 @@
   "ch": "心法",
   "en": "Mind Skill",
   "pt": "Técnica Mental",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_xinqingbuzu": {
   "ch": "心情不足",
   "en": "Mood too low",
   "pt": "Humor muito baixo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_xiulianchenggong": {
   "ch": "修炼成功！",
@@ -1702,10 +1672,7 @@
   "ch": "宗门执事",
   "en": "Sect Clerk",
   "pt": "Secretário da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_zhiwei": {
   "ch": "职位：",
@@ -1735,10 +1702,7 @@
   "ch": "宗门宗旨",
   "en": "Sect Purpose",
   "pt": "Propósito da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_zhunrujianzu": {
   "ch": "准入建筑",
@@ -1756,10 +1720,7 @@
   "ch": "资质",
   "en": "Stat",
   "pt": "Atributo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 8 > 7 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "school_zongmengongxian": {
   "ch": "累计宗门贡献",
@@ -1777,10 +1738,7 @@
   "ch": "宗门亲密度",
   "en": "Sect Affinity",
   "pt": "Afinidade entre Seitas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_zongmenrizhi1": {
   "ch": "{0}名记名弟子执行{1}任务，\n{2}名记名弟子不幸陨落。",
@@ -1798,10 +1756,7 @@
   "ch": "宗门特质",
   "en": "Sect Traits",
   "pt": "Características da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "school_zongmentuijianxin": {
   "ch": "宗门推荐信",
@@ -1813,9 +1768,6 @@
   "ch": "最少携带",
   "en": "Min Amount Carried",
   "pt": "Valor mínimo a ser carregado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  }
 }

@@ -6699,10 +6699,7 @@
   "ch": "当武技/灵技为自身叠加的效果达到&8200101_xqcs&层时，每秒可恢复自身体力&8200101_hftl&点。",
   "en": "If you've received &8200101_xqcs& stacks of effects from your Martial/Spiritual Skills, you'll restore &8200101_hftl& Vitality every second.",
   "pt": "Se você tiver recebido &8200101_xqcs& acúmulos de efeitos provenientes de suas Técnicas Marciais ou Espirituais, recuperará &8200101_hftl& de Vitalidade a cada segundo.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8200102_hftl": {
   "ch": "战斗中每击杀一个<p>精英单位</p>时，可恢复自身体力&8200102_hftl&点。",
@@ -7194,10 +7191,7 @@
   "ch": "当自身消耗了$s_jueqing$时，武技/灵技在命中敌人时有&8600106_cfgl&%的概率为其叠加一层$s_xueren$，每消耗一层$s_jueqing$，此效果的持续时间增加&8600106_cxsj&秒。",
   "en": "If you consume $s_jueqing$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600106_cfgl&% chance to inflict a stack of $s_xueren$. For every stack of $s_jueqing$ consumed, the duration of this effect will be extended by &8600106_cxsj&s.",
   "pt": "Ao consumir $s_jueqing$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600106_cfgl&% de aplicar uma pilha de $s_xueren$. Para cada pilha de $s_jueqing$ consumida, a duração desse efeito será aumentada em &8600106_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600111_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600111_drsl&个敌人叠加一层$s_xueren$。",
@@ -7245,10 +7239,7 @@
   "ch": "当自身消耗了$s_poshi$时，武技/灵技在命中敌人时有&8600206_cfgl&%的概率为其叠加一层$s_pojia$，每消耗一层$s_poshi$，此效果的持续时间增加&8600206_cxsj&秒。",
   "en": "If you consume $s_poshi$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600206_cfgl&% chance to inflict a stack of $s_pojia$. For every stack of $s_poshi$ consumed, the duration of this effect will be extended by &8600206_cxsj&s.",
   "pt": "Ao consumir $s_poshi$, ao atingir um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600206_cfgl&% de aplicar uma pilha de $s_pojia$. Para cada pilha de $s_poshi$ consumida, a duração desse efeito será aumentada em &8600206_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600211_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600211_drsl&个敌人叠加一层$s_pojia$。",
@@ -7296,10 +7287,7 @@
   "ch": "当自身消耗了$s_jianzhan$时，武技/灵技在命中敌人时有&8600306_cfgl&%的概率为其叠加一层$s_liuxue$，每消耗一层$s_jianzhan$，此效果的持续时间增加&8600306_cxsj&秒。",
   "en": "If you consume $s_jianzhan$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600306_cfgl&% chance to inflict a stack of $s_liuxue$. For every stack of $s_jianzhan$ consumed, the duration of this effect will be extended by &8600306_cxsj&s.",
   "pt": "Ao consumir $s_jianzhan$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600306_cfgl&% de aplicar uma pilha de $s_liuxue$. Para cada pilha de $s_jianzhan$ consumida, a duração desse efeito será aumentada em &8600306_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600311_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600311_drsl&个敌人叠加一层$s_liuxue$。",
@@ -7347,10 +7335,7 @@
   "ch": "每次引爆$s_hudun$时，在接下来的&8600406_cxsj&秒内，武技/灵技在命中敌人时有&8600406_cfgl&%的概率为其叠加一层$s_suigu$。",
   "en": "Every time $s_hudun$ is detonated, for the next &8600406_cxsj&s, your Martial/Spiritual Skills have a &8600406_cfgl&% chance to inflict a stack of $s_suigu$ upon hitting an enemy.",
   "pt": "Toda vez que $s_hudun$ é detonado, durante os próximos &8600406_cxsj&s, suas Técnicas Marciais/Espirituais têm uma chance de &8600406_cfgl&% de aplicar uma pilha de $s_suigu$ ao atingir um inimigo.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600411_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600411_drsl&个敌人叠加一层$s_suigu$。",
@@ -7482,10 +7467,7 @@
   "ch": "当自身消耗了$s_ranhun$时，武技/灵技在命中敌人时有&8600706_cfgl&%的概率为其叠加一层$s_zhuoshao$，每消耗一层$s_ranhun$，此效果的持续时间增加&8600706_cxsj&秒。",
   "en": "If you consume $s_ranhun$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600706_cfgl&% chance to inflict a stack of $s_zhuoshao$. For every stack of $s_ranhun$ consumed, the duration of this effect will be extended by &8600706_cxsj&s.",
   "pt": "Ao consumir $s_ranhun$, ao atingir um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600706_cfgl&% de aplicar uma pilha de $s_zhuoshao$. Para cada pilha de $s_ranhun$ consumida, a duração deste efeito será prolongada em &8600706_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600711_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600711_drsl&个敌人叠加一层$s_zhuoshao$。",
@@ -7527,10 +7509,7 @@
   "ch": "当自身消耗了$s_lingyong$时，武技/灵技在命中敌人时有&8600806_cfgl&%的概率为其叠加一层$s_hanshuang$，每消耗一层$s_lingyong$，此效果的持续时间增加&8600806_cxsj&秒。",
   "en": "If you consume $s_lingyong$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600806_cfgl&% chance to inflict a stack of $s_hanshuang$. For every stack of $s_lingyong$ consumed, the duration of this effect will be extended by &8600806_cxsj&s.",
   "pt": "Ao consumir $s_lingyong$, ao atingir um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600806_cfgl&% de aplicar uma pilha de $s_hanshuang$. Para cada pilha de $s_lingyong$ consumida, a duração desse efeito será aumentada em &8600806_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600811_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600811_drsl&个敌人叠加一层$s_hanshuang$。",
@@ -7578,10 +7557,7 @@
   "ch": "当自身消耗了$s_leiyong$时，武技/灵技在命中敌人时有&8600906_cfgl&%的概率为其叠加一层$s_luanliu$，每消耗一层$s_leiyong$，此效果的持续时间增加&8600906_cxsj&秒。",
   "en": "If you consume $s_leiyong$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8600906_cfgl&% chance to inflict a stack of $s_luanliu$. For every stack of $s_leiyong$ consumed, the duration of this effect will be extended by &8600906_cxsj&s.",
   "pt": "Ao consumir $s_leiyong$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma chance de &8600906_cfgl&% de aplicar uma pilha de $s_luanliu$. Para cada pilha de $s_leiyong$ consumida, a duração desse efeito será aumentada em &8600906_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8600911_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8600911_drsl&个敌人叠加一层$s_luanliu$。",
@@ -7677,10 +7653,7 @@
   "ch": "当自身消耗了$s_shifu$时，武技/灵技在命中敌人时有&8601106_cfgl&%的概率为其叠加一层$s_chidun$，每消耗一层$s_shifu$，此效果的持续时间增加&8601106_cxsj&秒。",
   "en": "If you consume $s_shifu$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8601106_cfgl&% chance to inflict a stack of $s_chidun$. For every stack of $s_shifu$ consumed, the duration of this effect will be extended by &8601106_cxsj&s.",
   "pt": "Ao consumir $s_shifu$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma &8601106_cfgl&% de chance de aplicar uma pilha de $s_chidun$. Para cada pilha de $s_shifu$ consumida, a duração desse efeito será aumentada em &8601106_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8601111_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8601111_drsl&个敌人叠加一层$s_chidun$。",
@@ -7728,10 +7701,7 @@
   "ch": "当自身消耗了$s_hualing$时，武技/灵技在命中敌人时有&8601206_cfgl&%的概率为其叠加一层$s_duci$，每消耗一层$s_hualing$，此效果的持续时间增加&8601206_cxsj&秒。",
   "en": "If you consume $s_hualing$, upon hitting an enemy, your Martial/Spiritual Skill will have a &8601206_cfgl&% chance to inflict a stack of $s_duci$. For every stack of $s_hualing$ consumed, the duration of this effect will be extended by &8601206_cxsj&s.",
   "pt": "Ao consumir $s_hualing$, ao acertar um inimigo, sua Técnica Marcial/Espiritual terá uma &8601206_cfgl&% de chance de aplicar uma pilha de $s_duci$. Para cada pilha de $s_hualing$ consumida, a duração desse efeito será aumentada em &8601206_cxsj& segundos.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "glossário: Spiritual Skill → Técnica Espiritual"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_8601211_drsl": {
   "ch": "在每个房间的战斗开始前，可为场上随机&8601211_drsl&个敌人叠加一层$s_duci$。",
@@ -8553,10 +8523,7 @@
   "ch": "冰眼",
   "en": "Icy Eye",
   "pt": "Olhar Gélido",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_buff": {
   "ch": "战斗效果",
@@ -8628,10 +8595,7 @@
   "ch": "冻结",
   "en": "Freeze",
   "pt": "Congelamento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_dongjie_desc": {
   "ch": "被冻结的单位无法行动，持续&42111_djsj&秒。",
@@ -8751,10 +8715,7 @@
   "ch": "风神",
   "en": "Wind God",
   "pt": "Divindade do Vento",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_fushi": {
   "ch": "腐蚀",
@@ -8874,10 +8835,7 @@
   "ch": "活力",
   "en": "Thorny Spirit",
   "pt": "Espírito Espinhoso",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_huoli_desc": {
   "ch": "受到活力强化的单位，最大体力提升&56116_tstl&点，且攻击弹道在碰撞到敌人时会爆开，可伤害范围&56116_zjbk&内的所有敌人，每次强化可增加爆开范围，每个单位最多可被强化&56112_qhcs&次。",
@@ -8907,19 +8865,13 @@
   "ch": "火神",
   "en": "Fire Deity",
   "pt": "Divindade do Fogo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_huoyuan": {
   "ch": "活元",
   "en": "Primal Energy",
   "pt": "Energia Primordial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_huoyuan_desc": {
   "ch": "受到活元强化的单位，最大体力提升&56112_tstl&点，且攻击间隔&56112_tsgs&%，每个单位最多可被强化&56112_qhcs&次。",
@@ -8949,10 +8901,7 @@
   "ch": "剑魂",
   "en": "Sword Soul",
   "pt": "Alma da Espada",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_jianying": {
   "ch": "剑影",
@@ -9006,10 +8955,7 @@
   "ch": "巨灵傀儡",
   "en": "Spirit Giant Golem",
   "pt": "Golem Gigante de Espírito",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_julingkuilei_desc": {
   "ch": "大型单位，使用巨大的石锤向前方猛击，对前方一条线上的敌人造成威力&65112_jnwl&的$s_tu$伤害。\n继承召唤者的体力&65112_jltl&%，攻击&65112_jlgj&%，防御&65112_jlfy&%。\n持续&65112_jlsj&秒。",
@@ -9135,10 +9081,7 @@
   "ch": "流血",
   "en": "Bleed",
   "pt": "Sangramento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 11 > 8 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_liuxue_desc": {
   "ch": "每层可使效果携带者受到&14111_kdsh&点/秒$s_jian$伤害，持续&14111_duration&秒，最多可叠加&14111_layCount&层。",
@@ -9198,10 +9141,7 @@
   "ch": "秒杀",
   "en": "Instakill",
   "pt": "Morte Instantânea",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 17 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_miaosha_desc": {
   "ch": "使用雷系绝技时有几率秒杀普通怪物。（对精英怪物和大妖兽无效）",
@@ -9291,10 +9231,7 @@
   "ch": "逆风",
   "en": "Headwind",
   "pt": "Vento Contrário",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 15 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_nifeng_desc": {
   "ch": "每层可使效果携带者的移动速度&44111_jdys&%，持续&44111_duration&秒，最多可叠加&44111_layCount&层。",
@@ -9312,10 +9249,7 @@
   "ch": "破甲",
   "en": "Break Armor",
   "pt": "Quebra de Armadura",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_pojia_desc": {
   "ch": "每层可使效果携带者的防御&13111_jsfy&点，持续&13111_duration&秒，最多可叠加&13111_layCount&层。",
@@ -9381,10 +9315,7 @@
   "ch": "神火核",
   "en": "Fire Core",
   "pt": "Núcleo de Fogo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_shenhuohe_desc": {
   "ch": "远古单位，可缓慢跟随敌人移动，并持续向四周喷出火焰，每道火焰对敌人造成威力&61111_dmg&的$s_huo$伤害。\n持续&61111_hhsj&秒。",
@@ -9420,19 +9351,13 @@
   "ch": "属性",
   "en": "Stats",
   "pt": "Atributos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 9 > 8 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_spell": {
   "ch": "施法方式",
   "en": "Casting Mechanic",
   "pt": "Mecânica de Lançamento",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_suigu": {
   "ch": "碎骨",
@@ -9456,10 +9381,7 @@
   "ch": "铜皮",
   "en": "Brass Skin",
   "pt": "Pele de Bronze",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_tongpi_desc": {
   "ch": "获得此效果时，可为自身叠加&15112_hdts&点护盾值，护盾持续&15112_hdsj&秒，护盾值上限为&15112_hdsx&点。",
@@ -9507,10 +9429,7 @@
   "ch": "尸傀战士",
   "en": "Ghost Warrior",
   "pt": "Guerreiro Fantasma",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_wangling1_desc": {
   "ch": "中型单位，使用带锈的刀对敌人进行攻击，对敌人造成威力&700022_gjwl&的$s_dao$伤害。\n继承召唤者的体力&700022_jctl&%，攻击&700022_jcsx&%，防御&700022_jcsx&%。",
@@ -9522,10 +9441,7 @@
   "ch": "尸傀弓手",
   "en": "Ghost Archer",
   "pt": "Arqueiro Fantasma",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_wangling2_desc": {
   "ch": "中型单位，使用残破的弓箭射击敌人，对敌人造成威力&700023_gjwl&的$s_jian$伤害。\n继承召唤者的体力&700023_jctl&%，攻击&700023_jcsx&%，防御&700023_jcsx&%。",
@@ -9597,10 +9513,7 @@
   "ch": "血刃",
   "en": "Blood Blade",
   "pt": "Lâmina de Sangue",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_xueren_desc": {
   "ch": "每层可使效果携带者受到的伤害提升&12111_shts&%，持续&12111_duration&秒，最多可叠加&12111_layCount&层。",
@@ -9612,10 +9525,7 @@
   "ch": "蓄力施法",
   "en": "Charged Skill",
   "pt": "Habilidade Carregada",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_xulishifa1_desc": {
   "ch": "按住鼠标即可开始蓄力，蓄力时会降低自身的移动速度，松开鼠标即可停止蓄力并施放技能，蓄力时间越长，技能的威力越高、射程（范围）越大。\n在蓄力达到最大时间的瞬间施放技能，即可达成<y>完美蓄力</y>，此次施放的技能将会获得&26113_ewwl&%的威力提升。",
@@ -9627,10 +9537,7 @@
   "ch": "蓄力施法",
   "en": "Charged Skill",
   "pt": "Habilidade Carregada",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 20 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_xulishifa2_desc": {
   "ch": "按住鼠标即可开始蓄力，蓄力时会降低自身的移动速度，松开鼠标即可停止蓄力并施放技能，蓄力时间越长，技能的威力越高、伤害范围越大，可提前结束蓄力，但是会降低技能的威力及伤害范围。",
@@ -9642,10 +9549,7 @@
   "ch": "虚弱",
   "en": "Weakened",
   "pt": "Enfraquecido",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_xuruo_desc": {
   "ch": "自身造成的伤害&51112_xrgj&%，移动速度&51112_xrys&%。",
@@ -9657,10 +9561,7 @@
   "ch": "晕眩",
   "en": "Stun",
   "pt": "Atordoamento",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 12 > 7 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_yunxuan_desc": {
   "ch": "被晕眩的单位无法行动。",
@@ -9672,10 +9573,7 @@
   "ch": "战斗资质",
   "en": "Skill Stats",
   "pt": "Aptidões Marciais",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_zhandouzizhi_desc": {
   "ch": "战斗资质包括：所有功法资质与灵根资质。",
@@ -9699,10 +9597,7 @@
   "ch": "掌风",
   "en": "Palm Wind",
   "pt": "Vento da Palma",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "s_zhangfeng_desc": {
   "ch": "一道向外扩散的掌风，对范围&16112_zffw&内的敌人造成威力&16112_zfsh&的$s_zhang$伤害。",
@@ -9738,10 +9633,7 @@
   "ch": "灼烧",
   "en": "Scorch",
   "pt": "Queimadura",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 10 > 9 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "s_zhuoshao_desc": {
   "ch": "每层可使效果携带者受到威力&41111_shwl&/秒的$s_huo$伤害，持续&41111_duration&秒，最多可叠加&41111_layCount&层。",

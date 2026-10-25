@@ -267,19 +267,13 @@
   "ch": "",
   "en": "<color=#CE0000>Stunning</color>",
   "pt": "<color=#CE0000>Deslumbrante</color>",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name11": {
   "ch": "",
   "en": "<color=#CE0000>Breathtaking</color>",
   "pt": "<color=#CE0000>De tirar o fôlego</color>",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "role_beauty_name12": {
   "ch": "",
@@ -417,10 +411,7 @@
   "ch": "为人仁善，对其它人都比较友好。",
   "en": "Kind to most people",
   "pt": "Gentil com a maioria das pessoas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 32 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "role_character_desc4": {
   "ch": "为人中庸，对所有人都是一样的。",
@@ -734,10 +725,7 @@
   "ch": "炼气后期",
   "en": "Qi Refining Late",
   "pt": "Refinamento de Qi Final",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase22": {
   "ch": "筑基中期",
@@ -827,19 +815,13 @@
   "ch": "羽化中期",
   "en": "Reborn Middle",
   "pt": "Renascimento Médio",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_phase93": {
   "ch": "羽化后期",
   "en": "Reborn Late",
   "pt": "Renascimento Final",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "role_grade_grow_quality102": {
   "ch": "黄道登仙",
@@ -1037,10 +1019,7 @@
   "ch": "羽化",
   "en": "Reborn (IX)",
   "pt": "Renascimento (IX)",
-  "auto": "gemini/gemini-2.5-flash",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ]
+  "auto": "gemini/gemini-2.5-flash"
  },
  "role_grade_phase1": {
   "ch": "初期",
@@ -1178,10 +1157,7 @@
   "ch": "晴天",
   "en": "Sunny",
   "pt": "Ensolarado",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 10 > 8 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_hobby_name103": {
   "ch": "雪天",
@@ -1295,10 +1271,7 @@
   "ch": "冥妖",
   "en": "Nether Demon",
   "pt": "Demônio do Submundo",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_race_human": {
   "ch": "人族",
@@ -1327,11 +1300,8 @@
  "role_reputation_name2": {
   "ch": "初出茅庐",
   "en": "Unproven",
-  "pt": "Incomprovado",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "pt": "Não Comprovado",
+  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
  },
  "role_reputation_name3": {
   "ch": "崭露头角",
@@ -1373,10 +1343,7 @@
   "ch": "名满天下",
   "en": "Revered",
   "pt": "Reverenciado",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "role_sex_female": {
   "ch": "女",
@@ -1388,9 +1355,6 @@
   "ch": "男",
   "en": "Male",
   "pt": "Masculino",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 9 > 7 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  }
 }

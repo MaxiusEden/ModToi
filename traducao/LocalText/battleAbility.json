@@ -9,10 +9,7 @@
   "ch": "珍珠令·",
   "en": "[Pearl Collector]",
   "pt": "[Colecionador de Pérolas]",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10008": {
   "ch": "采桑子·",
@@ -36,10 +33,7 @@
   "ch": "雪满天·",
   "en": "[Flurry Snowflakes]",
   "pt": "[Rajada de Flocos de Neve]",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10012": {
   "ch": "玉龙吟·",
@@ -129,10 +123,7 @@
   "ch": "望海潮·",
   "en": "[Stormy Sea]",
   "pt": "[Mar Tempestuoso]",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitCall10027": {
   "ch": "宴火令·",
@@ -180,10 +171,7 @@
   "ch": "遥天引·",
   "en": "[Eternity Rover]",
   "pt": "[Errante da Eternidade]",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10000": {
   "ch": "若没有装备其它套装心法，则自身伤害提升10%，受到伤害-10%。",
@@ -225,10 +213,7 @@
   "ch": "技能冷却-10%。",
   "en": "Skill Cooldown -10%.",
   "pt": "Recarga da Habilidade -10%.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 27 > 26 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10007": {
   "ch": "出售道具时，获得灵石+50%。",
@@ -546,10 +531,7 @@
   "ch": "大荒诀",
   "en": "Barren Knack",
   "pt": "Arte da Desolação",
-  "auto": "nuvem/claude-sonnet-5-5",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battleAbility_suitName10001": {
   "ch": "玄天秘卷",
@@ -561,10 +543,7 @@
   "ch": "吸星大法",
   "en": "Star Sucking Skill",
   "pt": "Habilidade de Sugar Estrelas",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 28 > 24 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10003": {
   "ch": "洞玄经",
@@ -594,10 +573,7 @@
   "ch": "珍珠令",
   "en": "Pearl Collector",
   "pt": "Colecionador de Pérolas",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10008": {
   "ch": "采桑子",
@@ -627,10 +603,7 @@
   "ch": "玉龙吟",
   "en": "Clinking Jade",
   "pt": "Dragão de Jade Tinindo",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 22 > 17 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10013": {
   "ch": "断关河",
@@ -641,11 +614,8 @@
  "battleAbility_suitName10014": {
   "ch": "夜飞红",
   "en": "Fallen Petals",
-  "pt": "Pétalas Voadoras da Noite",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 25 > 17 caracteres"
-  ]
+  "pt": "Pétalas Caídas",
+  "auto": "cohere/command-a-reasoning-08-2025+revisao-nuvem"
  },
  "battleAbility_suitName10015": {
   "ch": "梨花影",
@@ -680,11 +650,8 @@
  "battleAbility_suitName10020": {
   "ch": "舞天涯",
   "en": "Tireless Dancer",
-  "pt": "Dançarino Sem Limites",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "pt": "Dançarino Incansável",
+  "auto": "cohere/command-a-reasoning-08-2025+revisao-nuvem"
  },
  "battleAbility_suitName10021": {
   "ch": "洞玄歌",
@@ -720,10 +687,7 @@
   "ch": "望海潮",
   "en": "Stormy Sea",
   "pt": "Mar Tempestuoso",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 15 > 13 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10027": {
   "ch": "宴火令",
@@ -765,18 +729,12 @@
   "ch": "踏云行",
   "en": "Thunder Tamer",
   "pt": "Domador de Trovões",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitName10034": {
   "ch": "遥天引",
   "en": "Eternity Rover",
-  "pt": "Viajante da Eternidade",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "largura: 22 > 19 caracteres"
-  ]
+  "pt": "Errante da Eternidade",
+  "auto": "cohere/command-a-reasoning-08-2025+revisao-nuvem"
  }
 }

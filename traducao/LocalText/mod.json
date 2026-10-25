@@ -141,10 +141,7 @@
   "ch": "导入模组数据",
   "en": "Import mod data",
   "pt": "Importar dados do mod",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_bendi9": {
   "ch": "选择下载好的模组文件“ModExportData.cache”。",
@@ -180,10 +177,7 @@
   "ch": "代码编写",
   "en": "Write Code",
   "pt": "Escrever código",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_bianxiedaima1": {
   "ch": "打开代码目录",
@@ -207,10 +201,7 @@
   "ch": "代码命名空间：",
   "en": "Code naming space:",
   "pt": "Espaço de nomes de código:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_bianxiedaima5": {
   "ch": "默认命名空间是模组的ID，除非与其他模组的命名空间冲突，一般不需要重新定义命名空间。\n\n如果你手动更改了模组代码的命名空间，需要同步修改此位置的命名空间，否则DLL将加载失败！！！",
@@ -443,19 +434,13 @@
   "ch": "消耗道具",
   "en": "Item Cost",
   "pt": "Custo do Item",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_cangbaotu7": {
   "ch": "消耗道具数量",
   "en": "Item Cost Quantity",
   "pt": "Quantidade de custo do item",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_caozuoshuoming": {
   "ch": "Ctrl+C：复制数据\nCtrl+V：粘贴数据\nCtrl+D：新建数据并粘贴",
@@ -521,19 +506,13 @@
   "ch": "身法",
   "en": "Motion Skill",
   "pt": "Técnica de Movimento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_chanchushuoming4": {
   "ch": "心法",
   "en": "Mind Skill",
   "pt": "Técnica Mental",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_chanchushuoming5": {
   "ch": "神通",
@@ -731,10 +710,7 @@
   "ch": "自定义属性",
   "en": "Customize Stats",
   "pt": "Personalize os Atributos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_chuangjianqiyu": {
   "ch": "创建奇遇",
@@ -860,10 +836,7 @@
   "ch": "是否可装备",
   "en": "Equippable or not",
   "pt": "Pode ser equipado ou não",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_danyaozhuangbeitishi": {
   "ch": "只有增加体灵念的丹药，装备后在副本中才能生效。",
@@ -875,10 +848,7 @@
   "ch": "选择保存的路径",
   "en": "Choose a save path",
   "pt": "Escolha um caminho para salvar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 30 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_daochuchenggong": {
   "ch": "导出模组成功",
@@ -938,10 +908,7 @@
   "ch": "所属UI大分类",
   "en": "UI Main Category",
   "pt": "Categoria principal da interface do usuário",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 43 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_daoju4": {
   "ch": "一般用于UI显示和查找归类。",
@@ -953,10 +920,7 @@
   "ch": "所属UI小分类",
   "en": "UI Subcategory",
   "pt": "Subcategoria da interface do usuário",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 36 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_daoju6": {
   "ch": "一般用于UI显示和查找归类。",
@@ -968,19 +932,13 @@
   "ch": "道具图标",
   "en": "Item Icon",
   "pt": "Ícone do Item",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_daoju8": {
   "ch": "道具品质",
   "en": "Item Rarity",
   "pt": "Raridade do Item",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_daoju9": {
   "ch": "道具说明",
@@ -1016,10 +974,7 @@
   "ch": "道具数量",
   "en": "Item Quantity",
   "pt": "Quantidade do Item",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_daojushuliang2": {
   "ch": "产出的道具数量",
@@ -1031,10 +986,7 @@
   "ch": "道具图标",
   "en": "Item Icon",
   "pt": "Ícone do Item",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_daoruchengong": {
   "ch": "导入成功",
@@ -1057,11 +1009,8 @@
  "mod_daorushuju": {
   "ch": "选择导入的数据",
   "en": "Select Import Data",
-  "pt": "Selecione \"Importar Dados\"",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "pt": "Selecione os dados a importar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_daorutishi1": {
   "ch": "选择导出的模组数据文件夹“Mod_xxxxxx”",
@@ -1091,10 +1040,7 @@
   "ch": "点击编辑...",
   "en": "Click Edit...",
   "pt": "Clique em Editar...",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_dianjishurutishi": {
   "ch": "点击数值编辑，输入想要的属性值，最高资质会影响NPC的初始技能类型。",
@@ -1106,10 +1052,7 @@
   "ch": "点击随机ID",
   "en": "Click Random ID",
   "pt": "Clique em ID Aleatório",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_dianzan": {
   "ch": "评分",
@@ -1163,10 +1106,7 @@
   "ch": "大地图位置",
   "en": "World Map Location",
   "pt": "Localização no Mapa Mundial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_dituweizhishuoming": {
   "ch": "大地图位置一般在任务，奇遇上会使用，如任务目标点（通过大地图位置功能，可以查找指定事件的位置）",
@@ -1178,10 +1118,7 @@
   "ch": "大地图位置",
   "en": "World Map Location",
   "pt": "Localização no Mapa Mundial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_diushitishi1": {
   "ch": "清理丢失提示",
@@ -1253,10 +1190,7 @@
   "ch": "教程列表",
   "en": "Tutorial List",
   "pt": "Lista de Tutoriais",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_feiqibiaoji": {
   "ch": "标记废弃",
@@ -1292,10 +1226,7 @@
   "ch": "分享给朋友",
   "en": "Share to friend",
   "pt": "Compartilhar com um amigo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_fenxiang3": {
   "ch": "1：点击“导出模组”，会生成模组文件。\n2：打开主界面的“本地模组”导入后模组才能生效。",
@@ -1385,10 +1316,7 @@
   "ch": "精英怪物列表",
   "en": "Elite Monster List",
   "pt": "Lista de Monstros de Elite",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_fuben11": {
   "ch": "精英怪物每波创建数量",
@@ -1418,10 +1346,7 @@
   "ch": "BOSS怪物列表",
   "en": "BOSS Monster List",
   "pt": "Lista de Monstros Chefes",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_fuben16": {
   "ch": "创建BOSS时，会在怪物列表里根据配置的权重，随机选择创建一个BOSS。",
@@ -1511,10 +1436,7 @@
   "ch": "房间数量",
   "en": "Room Qty",
   "pt": "Quantidade de salas",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 19 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_fuben5": {
   "ch": "决定创建几个普通房间，如果设置创建BOSS房间，则会额外多出一个BOSS房间。\n\n提示：房间数量可以配置为0，设置创建BOSS房间，则只会有一个BOSS房间，没有普通房间。",
@@ -1544,10 +1466,7 @@
   "ch": "精英怪物波数",
   "en": "Elite Monster Waves",
   "pt": "Ondas de Monstros de Elite",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_fumianqiyun": {
   "ch": "（负面）",
@@ -1589,19 +1508,13 @@
   "ch": "更新",
   "en": "Update",
   "pt": "Atualização",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_gengxinriqi": {
   "ch": "更新日期：",
   "en": "Update Date:",
   "pt": "Data da atualização:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_geyue": {
   "ch": "{0}个月",
@@ -1631,10 +1544,7 @@
   "ch": "怪物列表",
   "en": "Monster List",
   "pt": "Lista de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_guaiwu12": {
   "ch": "怪物",
@@ -1658,19 +1568,13 @@
   "ch": "指定属性",
   "en": "Specified Stats",
   "pt": "Atributos Especificados",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_guaiwu16": {
   "ch": "属性缩放百分比",
   "en": "Stats Scale",
   "pt": "Escala dos Atributos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_guaiwu17": {
   "ch": "默认100（一倍），例如指定属性hp，缩放1000，则怪物最终的血量比正常的高10倍。",
@@ -1742,10 +1646,7 @@
   "ch": "所有怪物",
   "en": "All Monsters",
   "pt": "Todos os Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_guaiwu28": {
   "ch": "普通怪物",
@@ -1775,10 +1676,7 @@
   "ch": "预览",
   "en": "Preview",
   "pt": "Visualização",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_guaiwu32": {
   "ch": "场景背景音乐",
@@ -1808,10 +1706,7 @@
   "ch": "首次击杀后掉落的物品",
   "en": "First Kill Item Drop",
   "pt": "Item solto na primeira morte",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 28 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_guaiwu6": {
   "ch": "如果配置了首次击杀掉落，则第一次杀死此怪物会走首次掉落，不走普通掉落。",
@@ -1859,10 +1754,7 @@
   "ch": "壶妖",
   "en": "Imp",
   "pt": "Diabrete",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 8 > 6 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_idchongtutishi": {
   "ch": "注意：如果是ID冲突错误，冲突的ID如果无法在模组中找到，则此ID是导出模组时动态创建的，只需要重新导出模组即可！",
@@ -1898,10 +1790,7 @@
   "ch": "已取消加载！",
   "en": "Unsubscribed!",
   "pt": "Inscrição cancelada!",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 20 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_jiazai2": {
   "ch": "成功加载到游戏中！",
@@ -1931,10 +1820,7 @@
   "ch": "加载模组项目",
   "en": "Load a Mod Project",
   "pt": "Carregar um projeto de mod",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_jiazaimozutishi": {
   "ch": "此存档游玩过以下模组。",
@@ -1958,10 +1844,7 @@
   "ch": "基本配置",
   "en": "Basic settings",
   "pt": "Configurações básicas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_jichugongneng": {
   "ch": "基础功能",
@@ -2033,19 +1916,13 @@
   "ch": "技能特效",
   "en": "Skill Effects",
   "pt": "Efeitos da Habilidade",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_jineng18": {
   "ch": "身体特效",
   "en": "Body Effects",
   "pt": "Efeitos Corporais",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_jineng19": {
   "ch": "是否销毁上一个特效",
@@ -2141,10 +2018,7 @@
   "ch": "技艺书籍",
   "en": "Artisanship Book",
   "pt": "Livro sobre artesanato",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_jueshetiaojian": {
   "ch": "角色条件",
@@ -2180,10 +2054,7 @@
   "ch": "跳转的下一个剧情",
   "en": "Next Plot",
   "pt": "Próximo Enredo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 14 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_juqing11": {
   "ch": "此剧情跳转的下一个剧情是什么（可通过剧情选项按钮设置不同分支）",
@@ -2231,10 +2102,7 @@
   "ch": "剧情标题",
   "en": "Plot Title",
   "pt": "Título do enredo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_juqing19": {
   "ch": "剧情插图",
@@ -2264,10 +2132,7 @@
   "ch": "剧情打开权重",
   "en": "Plot opening weight",
   "pt": "Peso de abertura do enredo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_juqing4": {
   "ch": "同时打开多个剧情时，根据权重随机打开其中一个剧情。",
@@ -2279,10 +2144,7 @@
   "ch": "剧情文本内容",
   "en": "Plot Text Content",
   "pt": "Conteúdo do texto do enredo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_juqing6": {
   "ch": "剧情背景音乐",
@@ -2300,10 +2162,7 @@
   "ch": "剧情音效",
   "en": "Plot SFX",
   "pt": "Efeitos sonoros de enredo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_juqing9": {
   "ch": "打开剧情时播放的音效（如剧情文本的语音内容）",
@@ -2381,10 +2240,7 @@
   "ch": "剧情NPC",
   "en": "Plot NPC",
   "pt": "NPC do enredo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_juqingnpc1": {
   "ch": "重置抓取的左边NPC（NPC-A）",
@@ -2426,10 +2282,7 @@
   "ch": "矿材技艺",
   "en": "Ore Artisanship",
   "pt": "Artesanato em Minério",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_kuangjiatishi1": {
   "ch": "模组框架未启动，是否启动模组框架？不启动模组框架，模组将无法正常运行。\n\n启动模组框架后，如遇到在某些电脑游戏EXE无法打开，则需要自己禁用模组框架，禁用模组框架需要手动打开游戏安装目录删除“version.dll”文件。",
@@ -2447,10 +2300,7 @@
   "ch": "下次在说",
   "en": "Maybe next time",
   "pt": "Talvez da próxima vez",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_kuangjiatishi4": {
   "ch": "打开模组框架成功，重启游戏后生效！",
@@ -2534,19 +2384,13 @@
   "ch": "命令列表",
   "en": "Command list",
   "pt": "Lista de comandos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_minglinglieboap": {
   "ch": "命令列表",
   "en": "Command list",
   "pt": "Lista de comandos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_minglingshuoming": {
   "ch": "命令就是函数，可以通过命令打开剧情、创建大地图事件、增加属性、产出道具等功能。",
@@ -2588,10 +2432,7 @@
   "ch": "模组管理",
   "en": "Mod Management",
   "pt": "Gerenciamento de Mods",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_mozuid": {
   "ch": "模组{0}",
@@ -2603,10 +2444,7 @@
   "ch": "模组开发",
   "en": "Mod Development",
   "pt": "Desenvolvimento de Mods",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_mozuleixing": {
   "ch": "商店模组分类",
@@ -2660,10 +2498,7 @@
   "ch": "最近热门",
   "en": "Hot",
   "pt": "Em alta",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 7 > 6 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_mozupaixu2": {
   "ch": "最多人玩",
@@ -2687,10 +2522,7 @@
   "ch": "最近更新",
   "en": "Latest Updates",
   "pt": "Atualizações mais recentes",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_mozushangdian": {
   "ch": "模组商店",
@@ -2720,10 +2552,7 @@
   "ch": "交流与分享",
   "en": "Interact & Share",
   "pt": "Interaja e compartilhe",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_mozushangdian5": {
   "ch": "管理本地模组",
@@ -2735,10 +2564,7 @@
   "ch": "模组数据",
   "en": "Mod data",
   "pt": "Dados do mod",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_mozutiaoshi": {
   "ch": "模组制作过程中，不需要频繁导出导入模组数据，可以直接进入游戏调试此模组。",
@@ -2900,10 +2726,7 @@
   "ch": "自动保存",
   "en": "Auto Save",
   "pt": "Salvamento automático",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_npc_zuidajuli": {
   "ch": "生成时距离玩家最大距离",
@@ -2921,19 +2744,13 @@
   "ch": "NPC烦恼",
   "en": "NPC trouble",
   "pt": "Problemas com NPCs",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_npcfannaoleixing": {
   "ch": "NPC烦恼类型",
   "en": "NPC trouble type",
   "pt": "Tipo de problema do NPC",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_npcjingjie": {
   "ch": "NPC初始境界",
@@ -3005,10 +2822,7 @@
   "ch": "预览剧情UI",
   "en": "Preview Plot UI",
   "pt": "Visualização da interface do enredo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 35 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_putongzongmen1": {
   "ch": "创建普通宗门",
@@ -3224,10 +3038,7 @@
   "ch": "升级组",
   "en": "Upgrade Group",
   "pt": "Grupo de Aprimoramentos",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 23 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_qiyun_shengjizushuoming": {
   "ch": "如果两个逆天改命升级组ID一样，突破时必须拥有低级逆天改命，才能随机出高级气运（例如小、中、大李飞剑），左边气运列表中最下面的气运数据是最高级的，排序越往下越高级。",
@@ -3461,10 +3272,7 @@
   "ch": "模组标签",
   "en": "Mod Tags",
   "pt": "Tags de mods",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shangchuan13": {
   "ch": "先天气运",
@@ -3512,10 +3320,7 @@
   "ch": "仅自己可见",
   "en": "Only Visible to Self",
   "pt": "Visível apenas para o próprio usuário",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 37 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shangchuan20": {
   "ch": "开始上传",
@@ -3545,10 +3350,7 @@
   "ch": "模组上传工具",
   "en": "Mod Upload Tool",
   "pt": "Ferramenta de Upload de Mods",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shangchuan25": {
   "ch": "{0}（进度{1}%）",
@@ -3578,10 +3380,7 @@
   "ch": "工作根目录",
   "en": "Work Root Directory",
   "pt": "Diretório raiz de trabalho",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shangchuan3": {
   "ch": "仅好友可见",
@@ -3635,10 +3434,7 @@
   "ch": "预览图片",
   "en": "Preview Image",
   "pt": "Imagem de pré-visualização",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_shangchuanchuangyi": {
   "ch": "上传到创意工坊",
@@ -3680,10 +3476,7 @@
   "ch": "上传分享模组",
   "en": "Upload & Share Mod",
   "pt": "Enviar e compartilhar mod",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_shangchuanggongfangtishi": {
   "ch": "上传到创意工坊后，其他玩家可以通过模组商店下载你的模组，你也可以在商店订阅自己的模组！",
@@ -3773,10 +3566,7 @@
   "ch": "模组大小：",
   "en": "Mod size:",
   "pt": "Tamanho do mod:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shangdian15": {
   "ch": "点赞该模组！",
@@ -3800,10 +3590,7 @@
   "ch": "取消订阅",
   "en": "Unsubscribe",
   "pt": "Cancelar inscrição",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shangdian19": {
   "ch": "标签：",
@@ -3947,10 +3734,7 @@
   "ch": "事件名称",
   "en": "Event name",
   "pt": "Nome do evento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shijian10": {
   "ch": "玩家移动到图标上，执行的命令",
@@ -3980,10 +3764,7 @@
   "ch": "大地图事件图标",
   "en": "World map event icon",
   "pt": "Ícone de evento de mapa mundial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 31 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_shijian3": {
   "ch": "生成事件时执行的命令",
@@ -4139,37 +3920,25 @@
   "ch": "添加成功！",
   "en": "Added!",
   "pt": "Adicionado!",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_tianjiashengying": {
   "ch": "添加新的声音",
   "en": "Add a new sound",
   "pt": "Adicionar um novo som",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_tianjiashuju": {
   "ch": "添加[{0}]",
   "en": "Add [{0}]",
   "pt": "Adicionar [{0}]",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_tianjiatietu": {
   "ch": "添加新的图片",
   "en": "Add a new pic",
   "pt": "Adicionar uma nova imagem",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 25 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_tianjiatishi": {
   "ch": "<size=26>载入了以下模组（导入模组可能会产生未知的错误和BUG，导致存档损坏，<b><u><size=30>请注意备份存档！</b></size></u>）</size>",
@@ -4264,19 +4033,13 @@
   "ch": "结束调试模组：",
   "en": "End debugging Mod:",
   "pt": "Encerrar a depuração do mod:",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 28 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_tiaoshi3": {
   "ch": "进入游戏调试",
   "en": "Go to game debugging",
   "pt": "Ir para a depuração do jogo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_tiaoshi4": {
   "ch": "路径：",
@@ -4408,10 +4171,7 @@
   "ch": "文本内容",
   "en": "Text content",
   "pt": "Conteúdo do texto",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_wu": {
   "ch": "无",
@@ -4489,10 +4249,7 @@
   "ch": "加载模组失败！",
   "en": "Mod load failed!",
   "pt": "Falha ao carregar o mod!",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiangmu9": {
   "ch": "模组已从游戏中卸载！",
@@ -4504,19 +4261,13 @@
   "ch": "模组工程目录：",
   "en": "Mod Project List:",
   "pt": "Lista de Projetos de Mod:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaoditutubiao": {
   "ch": "小地图图标",
   "en": "Region map icon",
   "pt": "Ícone do mapa da região",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaoditutubiao2": {
   "ch": "当设置了小地图图标后，在小地图上会显示出事件位置。",
@@ -4582,10 +4333,7 @@
   "ch": "入宗资质要求",
   "en": "Required Stat",
   "pt": "Atributo necessário",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_xiaozongmen18": {
   "ch": "玩家的资质必须达到宗门的任意主修功法资质要求。",
@@ -4651,10 +4399,7 @@
   "ch": "初始矿材",
   "en": "Initial Ores",
   "pt": "Minérios iniciais",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaozongmen28": {
   "ch": "宗门的初始矿材数量",
@@ -4792,46 +4537,31 @@
   "ch": "宗门宗旨1",
   "en": "Sect Purpose 1",
   "pt": "Propósito da Seita 1",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaozongmen49": {
   "ch": "宗门宗旨2",
   "en": "Sect Purpose 2",
   "pt": "Propósito da Seita 2",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaozongmen5": {
   "ch": "宗门名字",
   "en": "Sect name",
   "pt": "Nome da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaozongmen50": {
   "ch": "宗门门规1",
   "en": "Sect Rules 1",
   "pt": "Regras da Seita 1",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaozongmen51": {
   "ch": "宗门门规2",
   "en": "Sect Rules 2",
   "pt": "Regras da Seita 2",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiaozongmen6": {
   "ch": "宗门特殊逆天改命",
@@ -4891,19 +4621,13 @@
   "ch": "新建、编辑数据",
   "en": "Add/edit data",
   "pt": "Adicionar/editar dados",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiugaipeizhi1": {
   "ch": "修改游戏配置",
   "en": "Modify game config",
   "pt": "Modificar a configuração do jogo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 32 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiugaipeizhi2": {
   "ch": "可以通过修改配置的方式，制作你的模组，首次接触的玩家，最好阅读一遍教程。",
@@ -4915,19 +4639,13 @@
   "ch": "当前配置ID：",
   "en": "Current Config ID:",
   "pt": "ID da Configuração Atual:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiugaipeizhi4": {
   "ch": "重置ID",
   "en": "Reset ID",
   "pt": "Redefinir ID",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiugaipeizhi5": {
   "ch": "配置ID是所有配置的索引起点，除非遇到多模组冲突情况，否则无需改动。",
@@ -4957,10 +4675,7 @@
   "ch": "配置修改",
   "en": "Modify Config",
   "pt": "Modificar Configuração",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xiugaizhi": {
   "ch": "修改的数值",
@@ -5032,10 +4747,7 @@
   "ch": "选择",
   "en": "Select",
   "pt": "Selecionar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 10 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_xuanzelujing": {
   "ch": "选择存放模组项目路径",
@@ -5107,10 +4819,7 @@
   "ch": "音效",
   "en": "SFX",
   "pt": "Efeitos sonoros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 6 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yinxiaogeshi": {
   "ch": "只能添加wav格式的声音",
@@ -5128,10 +4837,7 @@
   "ch": "选择",
   "en": "Select",
   "pt": "Selecionar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 10 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yulanbiaoti1": {
   "ch": "法宝",
@@ -5149,19 +4855,13 @@
   "ch": "身法",
   "en": "Motion skill",
   "pt": "Técnica de Movimento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yulanbiaoti12": {
   "ch": "大地图事件",
   "en": "World map event",
   "pt": "Evento do mapa mundial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yulanbiaoti13": {
   "ch": "性格",
@@ -5197,10 +4897,7 @@
   "ch": "大地图区域",
   "en": "World map region",
   "pt": "Região do mapa mundial",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yulanbiaoti7": {
   "ch": "道具",
@@ -5218,10 +4915,7 @@
   "ch": "心法",
   "en": "Mind skill",
   "pt": "Técnica Mental",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yulantu1": {
   "ch": "额外预览图（可选）",
@@ -5233,28 +4927,19 @@
   "ch": "设置",
   "en": "Settings",
   "pt": "Configurações",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_yulantu3": {
   "ch": "（预览图{0}）：",
   "en": "(Preview Image {0}):",
   "pt": "(Imagem de pré-visualização {0}):",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 33 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_yulantu4": {
   "ch": "预览图{0}",
   "en": "Preview Image {0}",
   "pt": "Imagem de pré-visualização {0}",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 30 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_yulantupianchichun": {
   "ch": "（{0}）不能大于1MB！",
@@ -5434,10 +5119,7 @@
   "ch": "预览图：",
   "en": "Preview Image",
   "pt": "Imagem de pré-visualização",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zhunbeizhuaqu": {
   "ch": "准备抓取的NPC",
@@ -5449,10 +5131,7 @@
   "ch": "输入自定义ID",
   "en": "Enter customized ID",
   "pt": "Insira um ID personalizado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zidingyiid2": {
   "ch": "如若知道游戏中的ID，或者其他模组自定义的ID，可以直接输入ID。",
@@ -5482,10 +5161,7 @@
   "ch": "自定义宗门主舵",
   "en": "Customize Sect Base",
   "pt": "Personalize a Base da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zidingyizongmen5": {
   "ch": "只能自定义已有宗门主舵的数据。\n\n下面列表统计出了游戏中所有正道和魔道宗门的主舵。\n\n例如可把慕仙州正道第一个宗门改为：剑宗。",
@@ -5515,10 +5191,7 @@
   "ch": "宗门名字",
   "en": "Sect name",
   "pt": "Nome da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zongmenrenwu": {
   "ch": "宗门任务",
@@ -5536,10 +5209,7 @@
   "ch": "宗门宗旨",
   "en": "Sect Purpose",
   "pt": "Propósito da Seita",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zongmozu": {
   "ch": "共{0}个模组",
@@ -5551,10 +5221,7 @@
   "ch": "坐骑特效",
   "en": "Mount Effect",
   "pt": "Efeito da Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zoqitexiao10": {
   "ch": "背景特效",
@@ -5602,10 +5269,7 @@
   "ch": "坐骑特效层级",
   "en": "Mount Effect Level",
   "pt": "Nível do Efeito da Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zoqitexiao3": {
   "ch": "0-在坐骑前面",
@@ -5623,19 +5287,13 @@
   "ch": "坐骑特效偏移：",
   "en": "Mount Effect Offset:",
   "pt": "Deslocamento do Efeito da Montaria:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 35 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zoqitexiao6": {
   "ch": "坐骑特效缩放：",
   "en": "Mount Effect Zoom:",
   "pt": "Zoom do Efeito da Montaria:",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zoqitexiao7": {
   "ch": "坐骑特效（点击选择）",
@@ -5665,19 +5323,13 @@
   "ch": "坐骑效果",
   "en": "Mount Effect",
   "pt": "Efeito da Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqi2": {
   "ch": "坐骑模型",
   "en": "Mount Model",
   "pt": "Modelo da Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqi3": {
   "ch": "大地图行走的声音",
@@ -5707,10 +5359,7 @@
   "ch": "1-上下移动",
   "en": "1- Up and down",
   "pt": "1- Para cima e para baixo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqidonghua10": {
   "ch": "10-上下移动+平面旋转（中速）",
@@ -5830,19 +5479,13 @@
   "ch": "坐骑模型",
   "en": "Mount Model",
   "pt": "Modelo da Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing1": {
   "ch": "坐骑模型",
   "en": "Mount Model",
   "pt": "Modelo da Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing10": {
   "ch": "地图一个格子大小：宽125*高125。",
@@ -5854,19 +5497,13 @@
   "ch": "添加坐骑模型",
   "en": "Add Mount Model",
   "pt": "Adicionar modelo de Montaria",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing29": {
   "ch": "UI模型偏移：",
   "en": "UI Model Offset:",
   "pt": "Deslocamento do Modelo de UI:",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 29 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zuoqimoxing3": {
   "ch": "UI模型背景大小参考：宽510*高700。\n\n需要使用专用工具制作透明图片模型。",
@@ -5878,19 +5515,13 @@
   "ch": "坐骑模型偏移：",
   "en": "Mount Model Offset:",
   "pt": "Deslocamento do modelo da Montaria:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 35 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing31": {
   "ch": "玩家模型偏移：",
   "en": "Player Model Offset:",
   "pt": "Deslocamento do modelo do jogador:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 34 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing32": {
   "ch": "请添加UI模型图片",
@@ -5902,28 +5533,19 @@
   "ch": "请添加坐骑图片",
   "en": "Please add Mount Pic",
   "pt": "Por favor, adicione a imagem da Montaria.",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 41 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zuoqimoxing34": {
   "ch": "UI模型缩放：",
   "en": "UI Model Zoom:",
   "pt": "Zoom do Modelo de UI:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing35": {
   "ch": "坐骑模型缩放：",
   "en": "Mount Model Zoom:",
   "pt": "Zoom do Modelo da Montaria:",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 27 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zuoqimoxing36": {
   "ch": "玩家动画类型",
@@ -5935,10 +5557,7 @@
   "ch": "1-坐着",
   "en": "1- Sit",
   "pt": "1- Sentado",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 10 > 9 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zuoqimoxing38": {
   "ch": "2-站立",
@@ -5949,11 +5568,8 @@
  "mod_zuoqimoxing39": {
   "ch": "3-半蹲",
   "en": "3- Squat",
-  "pt": "3- Agachamento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 14 > 11 caracteres"
-  ]
+  "pt": "3- Agachado",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zuoqimoxing4": {
   "ch": "UI模型动画类型",
@@ -5965,10 +5581,7 @@
   "ch": "添加UI模型图片",
   "en": "Add UI Model Pic",
   "pt": "Adicionar imagem do modelo de UI",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 32 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "mod_zuoqimoxing6": {
   "ch": "大地图模型动画类型",
@@ -5980,10 +5593,7 @@
   "ch": "添加坐骑图片",
   "en": "Add Mount Pic",
   "pt": "Adicionar imagem da Montaria",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 28 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "mod_zuoqimoxing8": {
   "ch": "地图一个格子大小：宽125*高125。\n\n需要使用专用工具制作透明图片模型。",

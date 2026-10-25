@@ -75,19 +75,13 @@
   "ch": "交谈",
   "en": "Talk",
   "pt": "Conversar",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 9 > 7 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_effectLevel1": {
   "ch": "初生",
   "en": "Birth",
   "pt": "Nascimento",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 10 > 8 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_effectLevel2": {
   "ch": "凝华",
@@ -111,10 +105,7 @@
   "ch": "倾颓",
   "en": "Decay",
   "pt": "Decadência",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 10 > 8 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_effectLevel_3": {
   "ch": "消弭",
@@ -222,10 +213,7 @@
   "ch": "一阶",
   "en": "First Stage",
   "pt": "Primeiro Estágio",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jieduan2": {
   "ch": "二阶",
@@ -237,10 +225,7 @@
   "ch": "三阶",
   "en": "Third Stage",
   "pt": "Terceiro Estágio",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 16 > 15 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_jiejie": {
   "ch": "姐姐",
@@ -264,10 +249,7 @@
   "ch": "装备技能",
   "en": "Skills equipped",
   "pt": "Habilidades equipadas",
-  "auto": "gemini/gemini-2.5-flash",
-  "revisar": [
-   "largura: 21 > 20 caracteres"
-  ]
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_jinglibuzu": {
   "ch": "精力不足",
@@ -315,10 +297,7 @@
   "ch": "冥妖",
   "en": "Nether Demon",
   "pt": "Demônio do Submundo",
-  "auto": "gemini/gemini-2.5-flash",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "gemini/gemini-2.5-flash"
  },
  "npcInfo_moshengbeibao": {
   "ch": "陌生人不可查看背包",
@@ -438,28 +417,19 @@
   "ch": "人物技能",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_renwushuxing": {
   "ch": "人物属性",
   "en": "Stats",
   "pt": "Atributos",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 9 > 8 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_shenfa": {
   "ch": "身法",
   "en": "Motion Skill",
   "pt": "Técnica de Movimento",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_shifu": {
   "ch": "师父",
@@ -495,10 +465,7 @@
   "ch": "谈心",
   "en": "Sincere Talk",
   "pt": "Conversar Sinceramente",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "largura: 22 > 16 caracteres"
-  ]
+  "auto": "cohere/command-a-vision-07-2025"
  },
  "npcInfo_tiaojiannanxing": {
   "ch": "对方必须是男性",
@@ -677,11 +644,8 @@
  "npcInfo_yizinv": {
   "ch": "义子女",
   "en": "Adoptive Child",
-  "pt": "Filho/Filha Adotivo(a)",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 22 > 19 caracteres"
-  ]
+  "pt": "Filhos Adotivos",
+  "auto": "gemini/gemini-3-flash-preview+revisao-nuvem"
  },
  "npcInfo_yunhunxiaosan": {
   "ch": "对方元魂已消散，只允许赠送东西给对方",
@@ -699,10 +663,7 @@
   "ch": "赠送",
   "en": "Gift",
   "pt": "Presentear",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 10 > 7 caracteres"
-  ]
+  "auto": "gemini/gemini-3-flash-preview"
  },
  "npcInfo_zhanglao": {
   "ch": "长老",
@@ -743,11 +704,8 @@
  "npcInfo_zinv": {
   "ch": "子女",
   "en": "Child",
-  "pt": "Filho/Filha",
-  "auto": "gemini/gemini-3-flash-preview",
-  "revisar": [
-   "largura: 11 > 8 caracteres"
-  ]
+  "pt": "Filhos",
+  "auto": "gemini/gemini-3-flash-preview+revisao-nuvem"
  },
  "npcInfo_zongzhu": {
   "ch": "宗主",

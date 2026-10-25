@@ -15,10 +15,7 @@
   "ch": "道点",
   "en": "Skill Point",
   "pt": "Ponto de Habilidade",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_atk": {
   "ch": "攻击力",
@@ -30,19 +27,13 @@
   "ch": "最高的一条战斗资质",
   "en": "Highest Battle Stats",
   "pt": "Maiores Atributos de Batalha",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basAllMin": {
   "ch": "最低的一条战斗资质",
   "en": "Lowest Battle Stats",
   "pt": "Menores Atributos de Batalha",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basArtAll": {
   "ch": "所有技艺资质（炼器、炼丹、画符等）",
@@ -78,10 +69,7 @@
   "ch": "炼器资质",
   "en": "Forge Stat",
   "pt": "Atributo de Forja",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 17 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_basFinger": {
   "ch": "指法资质",
@@ -111,10 +99,7 @@
   "ch": "风水资质",
   "en": "Feng Shui Stat",
   "pt": "Atributo de Feng Shui",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 19 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_basHerb": {
   "ch": "药材资质",
@@ -126,10 +111,7 @@
   "ch": "所有灵根",
   "en": "All Spiritual Roots",
   "pt": "Todas as Raízes Espirituais",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basMgMax": {
   "ch": "最高的一条灵根资质",
@@ -147,10 +129,7 @@
   "ch": "矿材资质",
   "en": "Ore",
   "pt": "Minério",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 7 > 6 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basPalm": {
   "ch": "掌法资质",
@@ -162,10 +141,7 @@
   "ch": "炼丹资质",
   "en": "Alchemy Stat",
   "pt": "Atributo de Alquimia",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_basSpear": {
   "ch": "枪法资质",
@@ -195,28 +171,19 @@
   "ch": "风灵根",
   "en": "Wind Root",
   "pt": "Raiz de Vento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basWood": {
   "ch": "木灵根",
   "en": "Wood Root",
   "pt": "Raiz de Madeira",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basWpAll": {
   "ch": "所有武器资质",
   "en": "All Weapon Stats",
   "pt": "Todos os Atributos das Armas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_basWpMax": {
   "ch": "最高的一条功法资质",
@@ -258,10 +225,7 @@
   "ch": "会心倍率",
   "en": "Crit Rate",
   "pt": "Multiplicador Crítico",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 21 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_def": {
   "ch": "防御力",
@@ -351,10 +315,7 @@
   "ch": "脚力",
   "en": "Travel Speed",
   "pt": "Velocidade de Viagem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_guard": {
   "ch": "护心",
@@ -366,19 +327,13 @@
   "ch": "护心倍率",
   "en": "Crit RES Rate",
   "pt": "Taxa de RES Crítico",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_hateStable": {
   "ch": "仇恨度变化速度",
   "en": "Hatred Change Speed",
   "pt": "Velocidade de mudança do ódio",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 29 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType1Name_health": {
   "ch": "健康",
@@ -414,10 +369,7 @@
   "ch": "体力回复",
   "en": "Vitality Recovery",
   "pt": "Recuperação de Vitalidade",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_life": {
   "ch": "寿命（月）",
@@ -507,10 +459,7 @@
   "ch": "背包格子数量",
   "en": "Bag slot quantity",
   "pt": "Quantidade de espaços da mochila",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 32 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_reputation": {
   "ch": "声望",
@@ -636,10 +585,7 @@
   "ch": "脚力",
   "en": "Travel Speed",
   "pt": "Velocidade de Viagem",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType2Name_moodLock": {
   "ch": "心情",
@@ -687,19 +633,13 @@
   "ch": "风灵根",
   "en": "Wind Root",
   "pt": "Raiz de Vento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType2Name_woodLock": {
   "ch": "木灵根",
   "en": "Wood Root",
   "pt": "Raiz de Madeira",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3Title_addFeature": {
   "ch": "有概率获得指定的气运",
@@ -1249,10 +1189,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_attachAttrByArtifact_value3Name": {
   "ch": "提升的数值",
@@ -1264,10 +1201,7 @@
   "ch": "指定的属性",
   "en": "Specified Stats",
   "pt": "Atributos especificados",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_attrEffect_value2Name": {
   "ch": "属性达到最小值",
@@ -1285,10 +1219,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_attrEffect_value5Name": {
   "ch": "提升的数值",
@@ -1354,10 +1285,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_changeAbility_value4Name": {
   "ch": "提升的数值",
@@ -1369,10 +1297,7 @@
   "ch": "增加的值",
   "en": "Value to increase",
   "pt": "Valor a ser incrementado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_clearFeature_value1Name": {
   "ch": "移除气运概率",
@@ -1408,19 +1333,13 @@
   "ch": "NPC编辑",
   "en": "NPC Edit",
   "pt": "Edição de NPC",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_doubleReduceDaoxin_value1Name": {
   "ch": "数值变化百分比",
   "en": "Stat change (in %)",
   "pt": "Alteração de estatística (em %)",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 31 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_drillClose_value1Name": {
   "ch": "切磋战斗胜利后，好感度增加值",
@@ -1450,10 +1369,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_equipAbility_value3Name": {
   "ch": "提升的数值",
@@ -1513,10 +1429,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_forgetEffect_value3Name": {
   "ch": "提升的数值",
@@ -1534,10 +1447,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_gradeEffect_value4Name": {
   "ch": "提升的数值",
@@ -1549,10 +1459,7 @@
   "ch": "增加的值",
   "en": "Value to increase",
   "pt": "Valor a ser incrementado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_graveLife_value3Name": {
   "ch": "触发概率",
@@ -1606,10 +1513,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_killNpcEffect_value4Name": {
   "ch": "提升的数值",
@@ -1627,10 +1531,7 @@
   "ch": "产出次数",
   "en": "No. of spawns",
   "pt": "Número de surgimentos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_killNpcReward_value5Name": {
   "ch": "触发间隔（月）",
@@ -1666,10 +1567,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_learnEffect_value3Name": {
   "ch": "提升的数值",
@@ -1789,10 +1687,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_moneyEffect_value3Name": {
   "ch": "提升的数值",
@@ -1810,10 +1705,7 @@
   "ch": "增加的属性",
   "en": "Stats Added",
   "pt": "Atributos adicionados",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_monthAttrAdd_value2Name": {
   "ch": "增加的值",
@@ -1897,10 +1789,7 @@
   "ch": "产出次数",
   "en": "No. of spawns",
   "pt": "Número de surgimentos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modEffectType3_monthProbableReward_value4Name": {
   "ch": "触发间隔（月）",
@@ -2020,10 +1909,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_relationEffect_value5Name": {
   "ch": "提升的数值",
@@ -2071,10 +1957,7 @@
   "ch": "提升的属性",
   "en": "Stats to upgrade",
   "pt": "Atributos para aprimorar",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_skillColorEffect_value5Name": {
   "ch": "提升的数值",

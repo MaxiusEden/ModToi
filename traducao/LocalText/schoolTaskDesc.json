@@ -81,10 +81,7 @@
   "ch": "清理怪物",
   "en": "Monster Sweep",
   "pt": "Varredura de Monstros",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "schoolTaskDesc10411": {
   "ch": "最近大量妖兽无端出没，宗门怀疑附近必有妖怪巢穴，请你前往剿灭，好让宗门作出对策。",
@@ -179,11 +176,8 @@
  "schoolTaskDesc110": {
   "ch": "打理灵草园",
   "en": "Tending Herb Garden",
-  "pt": "Cuidados no Jardim de Ervas",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 25 caracteres"
-  ]
+  "pt": "Cuidados com o Jardim de Ervas",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "schoolTaskDesc11350": {
   "ch": "堂中一件培养已久的法器无端失踪。我堂已经查明，乃是州中盗魁窃走宝物，现请门人设法追回。",

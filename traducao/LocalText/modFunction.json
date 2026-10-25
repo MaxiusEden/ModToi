@@ -3,28 +3,19 @@
   "ch": "指定角色1",
   "en": "Specify character 1",
   "pt": "Especifique o personagem 1",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_abCloseSet_value2Name": {
   "ch": "指定角色2",
   "en": "Specify character 2",
   "pt": "Especifique o personagem 2",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_abCloseSet_value3Name": {
   "ch": "设置的亲密度",
   "en": "Affinity set",
   "pt": "Afinidade a definir",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_abClose_value1Name": {
   "ch": "角色1",
@@ -54,19 +45,13 @@
   "ch": "指定角色",
   "en": "Specify character",
   "pt": "Especifique o personagem",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_addAppellation_value2Name": {
   "ch": "增加的道号",
   "en": "Taoist Title added",
   "pt": "Título Daoísta adicionado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_addAttr_value3Desc": {
   "ch": "正数增加属性，负数减少属性",
@@ -144,10 +129,7 @@
   "ch": "随机范围",
   "en": "Random range",
   "pt": "Intervalo aleatório",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_addGridArrtRange_value4Name": {
   "ch": "增加的值",
@@ -171,10 +153,7 @@
   "ch": "壶妖境界",
   "en": "Imp Realm",
   "pt": "Reino dos Diabretes",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 19 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_addPotmon_value3Name": {
   "ch": "是否设置为护卫",
@@ -210,10 +189,7 @@
   "ch": "副本等级偏移",
   "en": "Dungeon level offset",
   "pt": "Deslocamento do nível da masmorra",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 33 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_battleSkillTrainUp_value3Name": {
   "ch": "增加的值（经验/等级）",
@@ -225,10 +201,7 @@
   "ch": "延时时间",
   "en": "Delay time",
   "pt": "Tempo de atraso",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 15 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_callDrama_value1Desc": {
   "ch": "可以填入多个剧情ID，所有达成条件的剧情，根据权重随机打开一个。",
@@ -240,10 +213,7 @@
   "ch": "剧情ID",
   "en": "Plot ID",
   "pt": "ID do enredo",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 12 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_chatUpClose_value1Name": {
   "ch": "额外增加的亲密度",
@@ -261,19 +231,13 @@
   "ch": "删除的事件ID",
   "en": "Event ID to delete",
   "pt": "ID do evento a ser excluído",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_clearEventID_value2Name": {
   "ch": "创建的事件ID",
   "en": "Event ID to create",
   "pt": "ID do evento a ser criado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_clearFeature_value1Name": {
   "ch": "清除的气运ID（-1清除所有负面气运）",
@@ -309,10 +273,7 @@
   "ch": "随机最小范围",
   "en": "Random min range",
   "pt": "Intervalo mínimo aleatório",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_createDungeonInRange_value2Desc": {
   "ch": "副本距离玩家最大多少格",
@@ -324,10 +285,7 @@
   "ch": "随机最大范围",
   "en": "Random max range",
   "pt": "Intervalo máximo aleatório",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 26 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_createDungeon_value3Name": {
   "ch": "副本等级偏移随机最小值",
@@ -369,19 +327,13 @@
   "ch": "最小随机范围",
   "en": "Min random range",
   "pt": "Intervalo aleatório mínimo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_createEventInRange_value2Name": {
   "ch": "最大随机范围",
   "en": "Max random range",
   "pt": "Intervalo aleatório máximo",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_createEventPointIngoreTree_value2Name": {
   "ch": "大地图X坐标",
@@ -417,10 +369,7 @@
   "ch": "死亡说明",
   "en": "Death info",
   "pt": "Informações sobre a morte",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_dramaPackageRoleUpgrade_value3Name": {
   "ch": "动画持续时间",
@@ -432,19 +381,13 @@
   "ch": "随机最小距离",
   "en": "Random min distance",
   "pt": "Distância mínima aleatória",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_fleeNPC_value3Name": {
   "ch": "随机最大距离",
   "en": "Random max distance",
   "pt": "Distância máxima aleatória",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 26 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_forceTrains_value1Name": {
   "ch": "角色1",
@@ -474,10 +417,7 @@
   "ch": "指定角色",
   "en": "Specify character",
   "pt": "Especifique o personagem",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_intoDungeon_value3Desc": {
   "ch": "副本等级限制在1-50级，一个境界对应5级，如筑基期，10级副本代表筑基期最难副本，6级副本代表筑基期最简单副本。\n\n副本等级类型说明\n0-固定等级：副本等级偏移可以输入1-50，固定副本等级。\n\n1：例如当玩家是筑基境时，副本基础等级是10级，偏移填-4，那么副本等级就是6级。\n\n2：例如当玩家在白源区（练气境）时，副本基础等级是5，偏移填-3，那么副本等级是2级。",
@@ -489,10 +429,7 @@
   "ch": "副本等级偏移",
   "en": "Dungeon level offset",
   "pt": "Deslocamento do nível da masmorra",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 33 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemQuantityTimes_value2Name": {
   "ch": "设置成百分之多少",
@@ -504,10 +441,7 @@
   "ch": "选择UI上的提示文本",
   "en": "Select UI tip text",
   "pt": "Selecionar texto de dica da interface",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 37 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelectAll_value2Name": {
   "ch": "需要选择的数量",
@@ -525,10 +459,7 @@
   "ch": "选择UI上的提示文本",
   "en": "Select UI tip text",
   "pt": "Selecionar texto de dica da interface",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 37 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelectElement_value2Name": {
   "ch": "需要选择的数量",
@@ -540,37 +471,25 @@
   "ch": "秘籍最小等级",
   "en": "Manual min level",
   "pt": "Nível mínimo do Manual",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelectElement_value4Name": {
   "ch": "秘籍最大等级",
   "en": "Manual max level",
   "pt": "Nível máximo do Manual",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 22 > 21 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelectLevel_value1Name": {
   "ch": "提示文本",
   "en": "Tip text",
   "pt": "Texto de dica",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelectLevel_value2Name": {
   "ch": "选择的物品数量",
   "en": "Selected Item Qty",
   "pt": "Quantidade do Item Selecionado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 30 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelectLevel_value3Name": {
   "ch": "最小物品品质",
@@ -588,19 +507,13 @@
   "ch": "物品大分类",
   "en": "Item Main Category",
   "pt": "Categoria principal do Item",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 27 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelect_value1Name": {
   "ch": "选择UI上的提示文本",
   "en": "Select UI tip text",
   "pt": "Selecionar texto de dica da interface",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 37 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_itemSelect_value2Name": {
   "ch": "需要选择的数量",
@@ -624,10 +537,7 @@
   "ch": "指定角色",
   "en": "Specify character",
   "pt": "Especifique o personagem",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_killNPC_value1Name": {
   "ch": "杀人者",
@@ -645,10 +555,7 @@
   "ch": "查看的角色",
   "en": "Character to inspect",
   "pt": "Personagem a ser inspecionado",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 29 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_lootNpcSpecifiedItem_value4Name": {
   "ch": "固定值/百分比",
@@ -864,10 +771,7 @@
   "ch": "事件ID",
   "en": "Event ID",
   "pt": "ID do evento",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 12 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_setEventDuration_value2Name": {
   "ch": "剩余时间（月，-1无限）",
@@ -885,19 +789,13 @@
   "ch": "指定角色",
   "en": "Specify character",
   "pt": "Especifique o personagem",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_setSchoolPost_value2Name": {
   "ch": "设置的职位",
   "en": "Position set",
   "pt": "Posição a definir",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 17 > 16 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modFunction_setUnitAttr_value4Name": {
   "ch": "属性值",
@@ -963,10 +861,7 @@
   "ch": "获取的道具数量",
   "en": "Obtained Item Qty",
   "pt": "Quantidade de Item obtida",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 25 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_stealTownNpcItem_value4Desc": {
   "ch": "当在NPC身上获取不到道具时，产出此道具，否则产出获取的道具。",
@@ -990,10 +885,7 @@
   "ch": "提示文本",
   "en": "Tip text",
   "pt": "Texto de dica",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 11 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "modFunction_systemTips_value2Name": {
   "ch": "持续时间（毫秒）",

@@ -1845,10 +1845,7 @@
   "ch": "极难",
   "en": "Very Hard",
   "pt": "Muito difícil",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "skill_effect_keyword_desc1": {
   "ch": "每秒受到威力50的火属性伤害。",
@@ -2106,10 +2103,7 @@
   "ch": "技能说明",
   "en": "Skill Info",
   "pt": "Informações sobre a Habilidade",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 30 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "skill_jingjieyaoqiu": {
   "ch": "境界要求：{0}",
@@ -2139,10 +2133,7 @@
   "ch": "冷却：",
   "en": "Cooldown:",
   "pt": "Tempo de recarga:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "skill_lingji": {
   "ch": "灵技",
@@ -3114,10 +3105,7 @@
   "ch": "冷却：",
   "en": "Cooldown: ",
   "pt": "Tempo de recarga: ",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 17 > 12 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "skill_ui_lengqueyue": {
   "ch": "冷却：{0}个月",
@@ -3159,19 +3147,13 @@
   "ch": "修炼后增加属性：",
   "en": "Stat Bonus: ",
   "pt": "Bônus de Atributo: ",
-  "auto": "local/hy-mt2+revisao-nuvem",
-  "revisar": [
-   "largura: 18 > 15 caracteres"
-  ]
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_ui_zhandoulengque": {
   "ch": "战斗中冷却：",
   "en": "Cooldown in combat: ",
   "pt": "Tempo de recarga em combate: ",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "skill_ui_zhandouxiaohao": {
   "ch": "战斗中消耗：",

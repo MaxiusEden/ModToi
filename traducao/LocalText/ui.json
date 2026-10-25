@@ -83,19 +83,13 @@
   "ch": "技能",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "gemini-3-flash-preview",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "gemini-3-flash-preview"
  },
  "ui_battleInfo_skill1": {
   "ch": "技能",
   "en": "Skills",
   "pt": "Habilidades",
-  "auto": "gemini-3-flash-preview",
-  "revisar": [
-   "largura: 11 > 9 caracteres"
-  ]
+  "auto": "gemini-3-flash-preview"
  },
  "ui_battleInfo_wingmanAttack": {
   "ch": "收起冥羽中……",
@@ -293,10 +287,7 @@
   "ch": "身    法",
   "en": "Motion Skill",
   "pt": "Técnica de Movimento",
-  "auto": "gemini-3-flash-preview",
-  "revisar": [
-   "largura: 20 > 16 caracteres"
-  ]
+  "auto": "gemini-3-flash-preview"
  },
  "ui_damgeTestSummon": {
   "ch": "召 唤 物",
@@ -1233,9 +1224,6 @@
   "en": "Stone Array",
   "pt": "Formação de Pedra",
   "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 17 > 15 caracteres"
-  ],
   "revisado": true
  },
  "ui_minmap_tishi1": {
@@ -1545,10 +1533,7 @@
   "ch": "契约",
   "en": "Bind",
   "pt": "Vincular",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 8 > 7 caracteres"
-  ]
+  "auto": "gemini-2.5-flash"
  },
  "ui_potmonList_TipsGrade": {
   "ch": "壶妖获得足够的修为后可以突破境界。突破需要消耗专属道具<r>壶妖境界丹</r>，该道具可以通过壶妖历练获得；而壶妖修为可以通过历练提升，或使用历练中获得的道具<r>壶妖修为丹</r>提升修为",
@@ -1907,10 +1892,7 @@
   "ch": "资质道具",
   "en": "Stat Items",
   "pt": "Itens de Atributo",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "largura: 17 > 13 caracteres"
-  ]
+  "auto": "gemini-2.5-flash"
  },
  "ui_propinfo_schoolauraChange1": {
   "ch": "当前没有宗门",
@@ -2217,11 +2199,8 @@
  "ui_taoistSelect_challenge": {
   "ch": "选择要挑战的道号",
   "en": "Select Taoist Title to challenge",
-  "pt": "Selecione Nome Daoísta para desafiar",
-  "auto": "gemini-2.5-flash",
-  "revisar": [
-   "glossário: Taoist Title → Título Daoísta"
-  ]
+  "pt": "Selecione o Título Daoísta para desafiar",
+  "auto": "gemini-2.5-flash+revisao-nuvem"
  },
  "ui_teachSkillTip": {
   "ch": "选择一个技能进行指导",
@@ -2664,10 +2643,7 @@
   "ch": "选择弟子",
   "en": "Select Disciple(s)",
   "pt": "Selecione um ou mais Discípulos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 31 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_textStart": {
   "ch": "确认",
@@ -2739,10 +2715,7 @@
   "ch": "已结束",
   "en": "Ended",
   "pt": "Encerrado",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 9 > 8 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_tipsSelect0001": {
   "ch": "乱中求胜，需用好手",
@@ -2844,10 +2817,7 @@
   "ch": "积分赛规则：",
   "en": "Points Race Rules:",
   "pt": "Regras da Corrida de Pontos:",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_watchBattle": {
   "ch": "观看战斗",
@@ -2865,10 +2835,7 @@
   "ch": "全选",
   "en": "Select All",
   "pt": "Selecionar Todos",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 16 > 13 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbjfs_watchTextTips": {
   "ch": "勾选感兴趣的弟子<#ad0000>进行观战</color>",
@@ -2898,10 +2865,7 @@
   "ch": "备战中",
   "en": "Preparing for battle",
   "pt": "Preparando-se para a batalha",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 26 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_challengersTips": {
   "ch": "{0}剩余弟子{1}人",
@@ -2985,19 +2949,13 @@
   "ch": "",
   "en": "Enable Auto Start",
   "pt": "Ativar início automático",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textBtnScore": {
   "ch": "排行榜",
   "en": "Ranking",
   "pt": "Classificação",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textBtnTips": {
   "ch": "规则",
@@ -3009,19 +2967,13 @@
   "ch": "胜",
   "en": "Win",
   "pt": "Vitória",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 7 > 6 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_textMovCamTips": {
   "ch": "鼠标中键可以拖动屏幕",
   "en": "Use MMB to drag",
-  "pt": "Use o MMB para arrastar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "pt": "Use o botão do meio do mouse para arrastar",
+  "auto": "local/hy-mt2+revisao-nuvem"
  },
  "ui_zmdblts_textTglAssign": {
   "ch": "指派",
@@ -3069,10 +3021,7 @@
   "ch": "排名",
   "en": "Ranking",
   "pt": "Classificação",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 13 > 10 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdblts_titleBatInfoScore": {
   "ch": "积分",
@@ -3096,28 +3045,19 @@
   "ch": "头筹奖励",
   "en": "First Place Reward",
   "pt": "Recompensa pelo primeiro lugar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 30 > 24 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbphb_btnChestTitle2": {
   "ch": "次席奖励",
   "en": "Second Place Reward",
   "pt": "Recompensa pelo segundo lugar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 29 > 25 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbphb_btnChestTitle3": {
   "ch": "末席奖励",
   "en": "Last Place Reward",
   "pt": "Recompensa pelo último lugar",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 28 > 23 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbqd_cancel": {
   "ch": "取消",
@@ -3141,10 +3081,7 @@
   "ch": "再想想",
   "en": "Think it over",
   "pt": "Pense bem sobre isso.",
-  "auto": "local/hy-mt2",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "auto": "local/hy-mt2"
  },
  "ui_zmdbqd_textYes": {
   "ch": "放弃大比",
