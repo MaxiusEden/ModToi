@@ -1,0 +1,1596 @@
+{
+ "item_desc6061201": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 100. This Furnace has 5 material slots.\n[Perpetual]: Concocting Elixirs consumes no Stamina.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到100才能使用，此丹炉拥有5个材料槽。\n【玄力】炼丹丹药时不需要消耗精力。"
+ },
+ "item_desc6061211": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 100. This Furnace has 5 material slots.\n[Energizing] (Active skill. You must click to use it.): Consume 1 Durability to randomly increase an element that hasn't met its requirement by 100-300. This skill can only be used 3 times per concoction.\n[Gilded]: Durability -8 when the Furnace explodes.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到100才能使用，此丹炉拥有5个材料槽。\n【升灵】主动点击使用：随机使一个当前未满足的元素增加100~300点，消耗1点丹炉耐久度，每次炼丹最多可使用3次。\n【锈金】炸炉时消耗8点耐久度。"
+ },
+ "item_desc6061221": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 100. This Furnace has 5 material slots.\n[Magic Star] (Active skill. You must click to use it.): Consume 1 Durability to add an additional material to the slot. This skill can only be used 2 times per concoction.\n[Waste]: Every time you add a material, you have a 20% chance to reduce all elements by 10%.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到100才能使用，此丹炉拥有5个材料槽。\n【幻星】主动点击使用：额外增加一个材料放入槽位，消耗1点丹炉耐久度，每次炼丹最多可使用2次。\n【损元】每次放入材料时，有20%的概率使当前全元素减少10%。"
+ },
+ "item_desc6061231": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 100. This Furnace has 5 material slots.\n[Void Star]: Add an additional material to the slot.\n[Exhaustion]: Stamina Cost +30% when concocting Elixirs.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到100才能使用，此丹炉拥有5个材料槽。\n【空星】额外增加一个材料放入槽位。\n【钝力】炼丹时的精力消耗增加30%。"
+ },
+ "item_desc6061241": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 5 material slots.\n[Elemental Recharge] (Active skill. You must click to use it.): Consume 4 Durability to increase all elements by 300. This skill can only be used 1 time per concoction.\n[Ease]: Stamina Cost -30% when concocting Elixirs.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有5个材料槽。\n【充元】主动点击使用：使所有元素增加300点，消耗4点耐久度，每次炼丹只能使用1次。\n【隐力】炼丹时的精力消耗减少30%。"
+ },
+ "item_desc6061251": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 5 material slots.\n[Fire Recharge] (Active skill. You must click to use it.): Consume 1 Durability to increase the Fire element by 200-400. This skill can only be used 2 times per concoction.\n[Water Recharge]: Consume 1 Durability to increase the Water element by 200-400. This skill can only be used 2 times per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有5个材料槽。\n【充焰】主动点击使用：使火元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。\n【充露】主动点击使用：使水元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。"
+ },
+ "item_desc6061261": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 5 material slots.\n[Lightning Recharge] (Active skill. You must click to use it.): Consume 1 Durability to increase the Lightning element by 200-400. This skill can only be used 2 times per concoction.\n[Wind Recharge]: Consume 1 Durability to increase the Wind element by 200-400. This skill can only be used 2 times per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有5个材料槽。\n【充雷】主动点击使用：使雷元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。\n【充云】主动点击使用：使风元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6061271": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 5 material slots.\n[Earth Recharge] (Active skill. You must click to use it.): Consume 1 Durability to increase the Earth element by 200-400. This skill can only be used 2 times per concoction.\n[Wood Recharge]: Consume 1 Durability to increase the Wood element by 200-400. This skill can only be used 2 times per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有5个材料槽。\n【充岩】主动点击使用：使土元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。\n【充核】主动点击使用：使木元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。"
+ },
+ "item_desc6061281": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 5 material slots.\n[Yin Recharge] (Active skill. You must click to use it.): Consume 1 Durability to increase the Yin element by 200-400. This skill can only be used 2 times per concoction.\n[Yin Conversion]: Every time you add a material, you convert all Yang in the material into Yin.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有5个材料槽。\n【阴冥】主动点击使用：使阴元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。\n【冥化】每次放入材料时，将材料中的阳元素转化成阴元素。"
+ },
+ "item_desc6061291": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 6 material slots.\n[Yang Recharge] (Active skill. You must click to use it.): Consume 1 Durability to increase the Yang element by 200-400. This skill can only be used 2 times per concoction.\n[Yang Conversion]: Every time you add a material, you convert all Ying in the material into Yang.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有6个材料槽。\n【纯阳】主动点击使用：使阳元素随机增加200~400点，消耗1点丹炉耐久度，每次炼丹最多可使用2次。\n【阳化】每次放入材料时，将材料中的阴元素转化成阳元素。"
+ },
+ "item_desc6061301": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 6 material slots.\n[Kismet]: Alchemy stat +30 temporarily when you use this Furnace.\n[Stalwart]: Durability -1 when the Furnace explodes.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有6个材料槽。\n【天计】使用此丹炉炼丹时，可临时提升30点炼丹资质。\n【金身】炸炉时消耗的耐久度为1。"
+ },
+ "item_desc6061311": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 6 material slots.\n[Virtual Star] (Active skill. You must click to use it.): Consume 1 Durability to add an additional material to the slot. This skill can only be used 1 time per concoction.\n[Burst]: Every time you add a material, you have a 20% chance to double the elements in this material.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有6个材料槽。\n【虚星】主动点击使用：额外增加一个材料放入槽位，消耗1点丹炉耐久度，每次炼丹最多可使用1次。\n【充灵】每次放入材料时，有20%的概率使用该材料所含的元素值翻倍。"
+ },
+ "item_desc6061321": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 6 material slots.\n[Perpetual]: Concocting Elixirs consumes no Stamina.\n[Holy Jade]: Chance of the Furnace exploding -15%",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有6个材料槽。\n【玄力】炼丹丹药时不需要消耗精力。\n【圣玉】炸炉的概率降低15%。"
+ },
+ "item_desc6061331": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 200. This Furnace has 6 material slots.\n[Zen]: You'll receive 80% more Elixir Recipe Proficiency every time you concoct an Elixir.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到200才能使用，此丹炉拥有6个材料槽。\n【慧悟】可获得额外80%的丹方熟练度提升。"
+ },
+ "item_desc6061341": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 6 material slots.\n[Fire Invigoration] (Active skill. You must click to use it.): Consume 1 Durability to increase the Fire element by 50%. This skill can only be used 2 times per concoction.\n[Lightning Invigoration]: Consume 1 Durability to increase the Lightning element by 50%. This skill can only be used 2 times per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有6个材料槽。\n【盈焰】主动点击使用：使当前的火元素提升50%，消耗1点耐久度，每次炼丹最多可使用2次。\n【盈雷】主动点击使用：使当前的雷元素提升50%，消耗1点耐久度，每次炼丹最多可使用2次。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6061351": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 6 material slots.\n[Water Invigoration] (Active skill. You must click to use it.): Consume 1 Durability to increase the Water element by 50%. This skill can only be used 2 times per concoction.\n[Earth Invigoration]: Consume 1 Durability to increase the Earth element by 50%. This skill can only be used 2 times per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有6个材料槽。\n【盈霜】主动点击使用：使当前的水元素提升50%，消耗1点耐久度，每次炼丹最多可使用2次。\n【盈岩】主动点击使用：使当前的土元素提升50%，消耗1点耐久度，每次炼丹最多可使用2次。"
+ },
+ "item_desc6061361": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 6 material slots.\n[Yang Invigoration] (Active skill. You must click to use it.): Consume 1 Durability to increase the Yang element by 50%. This skill can only be used 2 times per concoction.\n[Yin Invigoration]: Consume 1 Durability to increase the Yin element by 50%. This skill can only be used 2 times per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有6个材料槽。\n【烈阳】主动点击使用：使当前的阳元素提升50%，消耗1点耐久度，每次炼丹最多可使用2次。\n【幽阴】主动点击使用：使当前的阴元素提升50%，消耗1点耐久度，每次炼丹最多可使用2次。"
+ },
+ "item_desc6061371": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 6 material slots.\n[Elemental Invigoration] (Active skill. You must click to use it.): Consume 9 Durability to double all elements. This skill can only be used 1 time per concoction.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有6个材料槽。\n【盈元】主动点击使用：使当前所有元素翻倍，消耗9点耐久度，每次炼丹最多只能使用1次。"
+ },
+ "item_desc6061381": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 7 material slots.\n[Heavenly Path]: Alchemy stat +90 temporarily when you use this Furnace.\n[Burnout]: Stamina Cost +100% when concocting Elixirs.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有7个材料槽。\n【天道】使用此丹炉炼丹时，可临时提升90点炼丹资质。\n【真力】炼丹时的精力消耗提升100%。"
+ },
+ "item_desc6061391": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 7 material slots.\n[Fate]: Alchemy stat +60 temporarily when you use this Furnace.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有7个材料槽。\n【天命】使用此丹炉炼丹时，可临时提升60点炼丹资质。"
+ },
+ "item_desc6061401": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 400. This Furnace has 7 material slots.\n[Perpetual]: Concocting Elixirs consumes no Stamina.\n[Bulwark]: The Furnace never explodes.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到400才能使用，此丹炉拥有7个材料槽。\n【玄力】炼丹丹药时不需要消耗精力。\n【金刚】永不炸炉。"
+ },
+ "item_desc6071014": {
+  "en": "<g>{0}</g> is recruiting! Core members of this sect will give out this recommendation letter to those they believe are capable. If you happen to have received one, you're invited to join the Sect Tryouts. Pass the tryouts, and you can join the sect!",
+  "ch": "<g>{0}</g>正在向天下广揽人才，此推荐信由宗门的执事长老所书，并派发给宗门的核心弟子，让弟子在游历的过程中，转交给有能之人，利用此推荐信即可直接参加宗门的入门小比。"
+ },
+ "item_desc6081011": {
+  "en": "A rather old jade charm. Its function is unknown. The words engraved on its back say \"'When the world was first created, only those who have all five virtues may receive the blessings of the immortals.\"",
+  "ch": "这玉符看起来有些年代感了，却不知其作用。玉符背面写有箴言“无为无欲无念无尘天地，有情有义有德有善人间。”"
+ },
+ "item_desc6081013": {
+  "en": "使用灵谷符引，可以开启通往灵谷秘境的传送阵法，进入到灵谷秘境中去。",
+  "ch": "使用灵谷符引，可以开启通往灵谷秘境的传送阵法，进入到灵谷秘境中去。"
+ },
+ "item_desc6082012": {
+  "en": "Cannot use any skills after the use, but is fast and has aftereffects. Deals Lightning Stats Damage when touching an enemy; lasts 10 seconds. Once it stops, 10% of the maximum Vitality per second is deducted.",
+  "ch": "使用后无法使用任何技能，但速度很快，有拖尾，碰到敌人会造成雷属性伤害。持续10秒，如果停止下来，则会每秒扣最大体力10%。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082013": {
+  "en": "Converts 30% of the maximum Energy into a shield for 15 seconds.",
+  "ch": "把最大值30%的灵力转化为护盾，持续15秒。"
+ },
+ "item_desc6082014": {
+  "en": "1 talisman summons 1 random minion with a special effect. The minion's Power Realm is positively correlated with the player. (There is a small probability that 2 additional stronger minions will be summoned.)",
+  "ch": "一张符可随机召唤1只带有特殊效果的小兵，小兵的实力境界和玩家正相关。（会小概率额外召唤出2种更强的小怪）"
+ },
+ "item_desc6082015": {
+  "en": "The Summoning Array lasts 10 seconds; enemies killed in the array during the 10 seconds will turn into bullets and attack other enemies.",
+  "ch": "召唤法阵持续10秒，作用时间内在法阵中被击杀的敌人会变为子弹攻击其他敌人。"
+ },
+ "item_desc6082020": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082021": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082022": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082023": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082024": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082025": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082026": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082027": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082028": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082029": {
+  "en": "Release the power of lightning to cover its user, granting additional &608201_jsgd& Agility and dealing &608203_qtsh& Lightning damage to enemies touched in &608206_cxsj&s. Under the Charm's power, its user cannot cast skills or use items and will take &608203_qtsh& Lightning damage from lightning tribulations. The lightning bolts will also strike other units (allied and enemies), dealing &608203_qtsh& damage to them.\n<size=12><b>●Run, quickly! Or the lightning bolts will fall on your head! -- A scribble on the charm</b></size>",
+  "ch": "释放符纸内的雷电之力覆盖自身，使移动速度上升&608201_jsgd&，给予触碰自身的敌人造成雷属性伤害&608203_qtsh&，持续&608206_cxsj&秒。期间由于雷电之力的干扰，使用者将无法使用技能和道具，同时会不间断引发雷劫劈向自身，造成雷属性伤害&608203_qtsh&，若命中其他单位（包括友方），则造成&608203_qtsh&的伤害。\n<size=12><b>●跑快点,莫让天雷击中你的天灵盖！--符法上潦草写着这样的文字</b></size>",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc6082030": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082031": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082032": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082033": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082034": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082035": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082036": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082037": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082038": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082039": {
+  "en": "Consume &608211_kcll&% current Energy from its user to create a Shield lasting for &608211_cxsj&s. The transformation ratio will increase with the Charm's quality.\n<size=12><b>●Know the inevitable matters, accept them, and face them when the day comes.</b></size>",
+  "ch": "吸收使用者当前&608211_kcll&%的灵力，转化为保护自身的护盾，护盾持续&608211_cxsj&秒。符箓越好，转化效率越高。\n<size=12><b>●知其不可奈何而安之若命，荡然逝也。</b></size>"
+ },
+ "item_desc6082040": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082041": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082042": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082043": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082044": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082045": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082046": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082047": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082048": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082049": {
+  "en": "Communicate with resentful ghosts and summon them into the battlefield to fight for you!\n<size=12><b>●Fallen warriors, rise! Line up and go!</b></size>",
+  "ch": "以符为媒介，沟通此地郁结的怨气，使之化为实体出现在战场内！\n<size=12><b>●临兵斗者，皆列阵前行！急急如律令！</b></size>"
+ },
+ "item_desc6082050": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082051": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082052": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082053": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082054": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082055": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082056": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082057": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082058": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6082059": {
+  "en": "Connect with the Earth's veins and capture the soul of creatures in &608213_ghfw& range, reducing the Agility of enemies in it. Units died under the effect will fight against your enemies for &608213_cxsj&s, dealing &608213_shwl& damage of your highest Stat.\n<size=12><b>●If each day we take half of it, we can endlessly halve it.</b></size>",
+  "ch": "以符之力，沟通地脉，锁住&608213_ghfw&范围内生灵的部分灵魂之力，延缓范围内敌人的移动速度；若期间有生机消散，则使之自动攻击你的敌人，造成&608213_shwl&最高资质伤害，持续&608213_cxsj&秒。\n<size=12><b>●日取其半，万世不竭。</b></size>"
+ },
+ "item_desc6083010": {
+  "en": "Unleash the power from the Earth's veins to mark the tile you're currently on. You can teleport to the marked tile by clicking on the Mark icon on your map.\n<size=12><b>●The flow beneath the ground can carry us everywhere. -- A Feng Shui master</b></size>",
+  "ch": "沟通地脉之力标记脚下格子，打开小地图单击标记图标可进行传送。\n<size=12><b>●沟通八荒地脉，即可一步到天涯。--风水师</b></size>"
+ },
+ "item_desc6083020": {
+  "en": "The talisman is burned to connect with Feng Shui and spiritual veins of heaven and earth and form a natural Confusion Array. Once trapped in it, nobody can find their way out.",
+  "ch": "燃烧符纸沟通天地风水灵脉，以形成天然迷惑大阵，陷入其中将很难离开。"
+ },
+ "item_desc6083030": {
+  "en": "Connecting with the Water and Wood Qi forms dewdrops that help nourish the body and have healing effects too.",
+  "ch": "沟通水木灵气形成能够滋养身躯的露珠，有一定的治疗效果。",
+  "nomes": {
+   "Wood Qi": "Qi de Madeira"
+  }
+ },
+ "item_desc6083040": {
+  "en": "Connect with the Divine Eyes to expand one's vision. The charm enables one to detect things that are not easily perceptible, but sometimes one may get caught up in some undesirable things.\n<size=12><b>●There will be no room for evils.</b></size>",
+  "ch": "沟通神目之力使视野拓展，能发现常人无法觉察到的情况，但有时也会被不好的东西缠上。\n<size=12><b>●魑魅魍魉，必将无所遁形。</b></size>"
+ },
+ "item_desc6083050": {
+  "en": "Set up an altar to change the weather with primordial power!\n<size=12><b>●The Cosmos treats everything as nothing; the sage treats everybody as nobody.</b></size>",
+  "ch": "设下法坛，沟通天地之力，改变天气！\n<size=12><b>●天地不仁，以万物为刍狗，圣人不仁，以百姓为刍狗。</b></size>"
+ },
+ "item_desc6083060": {
+  "en": "A peculiar breath is emitted that draws strange monsters to gather in the vicinity.",
+  "ch": "散发特殊的气息，引来不明的妖兽聚集在附近。"
+ },
+ "item_desc6084010": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084011": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084012": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084013": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084014": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084015": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084016": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084017": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084018": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6084019": {
+  "en": "This charm needs to be activated by shattering it with combined energy from 2 cultivators. Once activated, the cultivators will be teleported to an ancient ruin in Hundred Thousand Hills.",
+  "ch": "此物需要2名修仙者使用灵力对撞才能击碎，击碎时可将破坏者传到此符连接在十万大山内的遗迹。"
+ },
+ "item_desc6091013": {
+  "en": "A book that Jagu always carries around on her.",
+  "ch": "武罗一直随身携带的书籍。"
+ },
+ "item_desc6091023": {
+  "en": "The deputy sent a book instead of a letter... Perhaps there aren't a lot of resources available in the camp.",
+  "ch": "二当家以书作信，怕是营寨中条件有限。"
+ },
+ "item_desc6091036": {
+  "en": "A book recording the secret history of the Celestial Palace.",
+  "ch": "记载着星耀宫秘史的书籍"
+ },
+ "item_desc6091046": {
+  "en": "A book recording the secret history of the Celestial Palace.",
+  "ch": "记载着星耀宫秘史的书籍"
+ },
+ "item_desc6091056": {
+  "en": "A book recording the secret history of the Celestial Palace.",
+  "ch": "记载着星耀宫秘史的书籍"
+ },
+ "item_desc6091066": {
+  "en": "A book recording the secret history of the Celestial Palace.",
+  "ch": "记载着星耀宫秘史的书籍"
+ },
+ "item_desc6091076": {
+  "en": "A book recording the secret history of the Celestial Palace.",
+  "ch": "记载着星耀宫秘史的书籍"
+ },
+ "item_desc6091081": {
+  "en": "This note records Mystery Man Jo' hidden treasures.I don't know whether Sage Tianbao is a good fortune-teller... The locations are quite far apart... it seems not quite reliable.",
+  "ch": "记载着神秘人李四藏宝地点的纸条。也不知天宝真人算得灵不灵，这几处区域相距甚远，似乎不太靠谱的样子……"
+ },
+ "item_desc6092020": {
+  "en": "Documents how to draw the Thunder Talisman.",
+  "ch": "记载着迅雷符的绘制方式。",
+  "nomes": {
+   "Thunder Talisman": "Talismã do Trovão"
+  }
+ },
+ "item_desc6092030": {
+  "en": "Documents how to draw the Spiritual Shield Talisman.",
+  "ch": "记载着灵盾符的绘制方式。",
+  "nomes": {
+   "Shield Talisman": "Talismã de Escudo",
+   "Spiritual Shield Talisman": "Talismã do Escudo Espiritual"
+  }
+ },
+ "item_desc6092040": {
+  "en": "Documents how to draw the Necromancer's Talisman.",
+  "ch": "记载着凶卫符的绘制方式。",
+  "nomes": {
+   "Necromancer's Talisman": "Talismã do Necromante"
+  }
+ },
+ "item_desc6092050": {
+  "en": "Documents how to draw the Soul Cage Talisman.",
+  "ch": "记载着拘灵符的绘制方式。",
+  "nomes": {
+   "Soul Cage Talisman": "Talismã da Alma"
+  }
+ },
+ "item_desc6093010": {
+  "en": "Documents how to draw the Teleportation Talisman.",
+  "ch": "记载着瞬移符的绘制方式。",
+  "nomes": {
+   "Teleportation Talisman": "Talismã de Teletransporte"
+  }
+ },
+ "item_desc6093020": {
+  "en": "Documents how to draw the Blockage Talisman.",
+  "ch": "记载着封锁符的绘制方式。",
+  "nomes": {
+   "Blockage Talisman": "Talismã de Bloqueio"
+  }
+ },
+ "item_desc6093030": {
+  "en": "Documents how to draw the Manna Talisman.",
+  "ch": "记载着甘露符的绘制方式。",
+  "nomes": {
+   "Manna Talisman": "Talismã de Mana"
+  }
+ },
+ "item_desc6093040": {
+  "en": "Documents how to draw the Divine Eye Talisman.",
+  "ch": "记载着神目符的绘制方式。",
+  "nomes": {
+   "Divine Eye Talisman": "Talismã do Olho Divino"
+  }
+ },
+ "item_desc6093050": {
+  "en": "Documents how to draw the Sky Prayer Talisman.",
+  "ch": "记载着祈天符的绘制方式。",
+  "nomes": {
+   "Sky Prayer Talisman": "Talismã de Oração ao Céu"
+  }
+ },
+ "item_desc6093060": {
+  "en": "Documents how to draw the Monster Lure Talisman.",
+  "ch": "记载着诱兽符的绘制方式。",
+  "nomes": {
+   "Monster Lure Talisman": "Talismã de Atração de Monstros"
+  }
+ },
+ "item_desc6101011": {
+  "en": "An exquisite, precious accessory.",
+  "ch": "价值较高的饰品，小巧而精致。"
+ },
+ "item_desc6111016": {
+  "en": "A charm that teleports you to a town.",
+  "ch": "能够传送至城镇的符篆。"
+ },
+ "item_desc6111026": {
+  "en": "A charm that tracks down your target.",
+  "ch": "能够寻到目标踪迹的符篆。"
+ },
+ "item_desc6121016": {
+  "en": "A branch from the Divine Mulberry. Use it to make a weapon powerful enough to slay gods.",
+  "ch": "从扶桑树中取下的一截树枝。若用于锻造神兵，其威可弑神。"
+ },
+ "item_desc6121026": {
+  "en": "Divine water fetched from Kunlun Pond. It contains enormous Energy.",
+  "ch": "昆仑仙池中取来的神水，蕴含着极为庞大的灵力。"
+ },
+ "item_desc6121036": {
+  "en": "A keepsake given by Chongming to the Priest. It contains enormous power.",
+  "ch": "重明赐予神官的信物，其中蕴含着极其庞大的能量。"
+ },
+ "item_desc6121046": {
+  "en": "A piece of divine wood. People use it to pray to Luwu.",
+  "ch": "人们常用神木来祭祀陆吾，以表自己对陆吾的敬畏。"
+ },
+ "item_desc6131015": {
+  "en": "Essence found inside Tiangou's body. Use to increase your stats.",
+  "ch": "天狗体内凝聚的精华，服用后能够改善修仙者的体质。",
+  "nomes": {
+   "Tiangou": "Tiangou"
+  }
+ },
+ "item_desc6131016": {
+  "en": "A rare feather obtained from the Harpy Lord.",
+  "ch": "从异兽人面鸮之王身上取下的羽毛，是不可多得的宝物。",
+  "nomes": {
+   "Harpy Lord": "Senhor das Harpias"
+  }
+ },
+ "item_desc6131026": {
+  "en": "Dangkang blood, possesses traces of demonic power, could potentially attract Mythical Beasts with a taste for blood.",
+  "ch": "当康的血液，其中隐约有妖力渗透，似乎可能吸引某些嗜血的强大妖兽靠近。",
+  "nomes": {
+   "Dangkang": "Dangkang"
+  }
+ },
+ "item_desc6131036": {
+  "en": "The empty heart of bamboo, cultivated from its root, its power is soft and easily absorbed, a treasure of great rarity.",
+  "ch": "竹本空心，修炼化形后则以根为心，其中妖力平淡柔和、易于吸收，实乃不可多得的宝物。"
+ },
+ "item_desc6141012": {
+  "en": "An abundance of gold can be found on the southern hill facing the sun on Mt. Qi, while the northern hill is plentiful in jade and mystic gems! One of such gems radiates a refreshing chill when held and is helpful for maintaining a clear mind. It has thus earned the name \"Heaven's Yin\".",
+  "ch": "在岐山向阳的南坡上，蕴藏着大量的黄金，而背阴的北坡上，则布遍了各式各样的美玉与奇石。这其中有一种宝石，持在手中便能感受其中散发出的丝丝凉意，可使人保持神志清醒，故称其为天阴。",
+  "nomes": {
+   "Heaven's Yin": "Yin Celestial"
+  }
+ },
+ "item_desc6141013": {
+  "en": "This rare item holds the powers of both yin and yang and is therefore known as the \"stone of duality\". Wear it to be immune from all diseases.",
+  "ch": "其中蕴含着一阴一阳之力，故此被人称为双仪，乃天地间罕见的奇石！据说此物还可使佩戴者免受疾病之灾。"
+ },
+ "item_desc6141014": {
+  "en": "Legends have it that when the pillar of the heavens crumbled and the skies collapsed, Nüwa smelted these stones on Mt. Tiantai to rebuild the heavens.",
+  "ch": "相传，在擎天大柱折断，天地崩塌之际，娲皇在天台山上炼化的便是这种石头。"
+ },
+ "item_desc6141015": {
+  "en": "Humans pray to the heavens, earth, the sun, the moon, wind, rain, mountains, rivers, and their ancestors. They not only perform such rituals themselves but may also hire shamans to act as a messenger between humans and gods, heavens and earth. These mysterious beings can communicate with those from above.",
+  "ch": "人们祭祀的对象包括天、地、日、月、风、雨、山川、祖先等神灵，如此繁杂的祭祀典礼除了自己举行外，还会请巫代而进行。传说巫能沟通人神、往返天地，拥有通天的修为，非常神秘。"
+ },
+ "item_desc6141025": {
+  "en": "These stone drums come with narrow tops, thick bottoms and a round tip. It's hard to tell what material they're made of. A \"stone drum inscription\" can be found carved on each of these items, detailing profound principles of the heavens and earth.",
+  "ch": "石鼓先天而成，形像鼓而上细下粗顶微圆，材质不明每个石鼓上面都镌刻 “石鼓文”，蕴含天地至理。"
+ },
+ "item_desc6151012": {
+  "en": "Carved jade of the highest quality from the frigid pond in Mt. Gui. Emits a hauntingly cold aura.",
+  "ch": "以騩山的万年寒潭中的美玉雕琢而成，玉中散发着冰寒彻骨的气息。"
+ },
+ "item_desc6151013": {
+  "en": "Jadeware rumored to be used in the rituals of Bear Mountain. Said to hold the blessings of the mountain gods and the power to extend one's life span.",
+  "ch": "传说中用于祭祀熊山的玉器，玉中带有山神的祝福，有着延年益寿之效。"
+ },
+ "item_desc6151014": {
+  "en": "Sculpted from quality jade from Mt. Fengyu. Quite valuable.",
+  "ch": "以风雨山中出产的美玉所雕琢而成，在八荒世界中有着较高的价值。"
+ },
+ "item_desc6151015": {
+  "en": "Mt. Shouyang, also known as Mt. Leishou, is rich in minerals and jades instead of flora and fauna. This legendary item is in fact carved from jade found on Mt. Shouyang.",
+  "ch": "首阳山又称雷首山，山中没有生长花草树木，却蕴含着丰富的矿物与精美的玉石！赤灵便是首阳山中的玉石雕琢而成的名品。"
+ },
+ "item_desc6151016": {
+  "en": "Those who worship dragons all, to some degree, revere snakes as well. Judging from the serpent pattern on this figure's clothing, he is likely one of a highly status.",
+  "ch": "崇奉着神龙的人，似乎对蛇也有着某种敬畏。此像所雕刻的人物的服饰中布满了蛇纹，他可能是一个拥有较高的身份和地位的人。"
+ },
+ "item_desc6151026": {
+  "en": "On this jade vessel, an ethereal, robust figure of a dragon gliding through the clouds is carved. Its airy, graceful form is truly one of an immortal.",
+  "ch": "这件玉器中所雕刻的即是苍劲飘逸的神龙，游走于缭绕翻腾的云海中，轻灵飘洒的姿态透露出一股仙家之气。"
+ },
+ "item_desc6151036": {
+  "en": "This slightly-chipped jade hoop comes with entwining dragon patterns. It's cool to the touch and beautifully lucent.",
+  "ch": "以寒玉精炼而成，环形有缺，龙纹盘附，晶莹剔透，冰寒彻骨。"
+ },
+ "item_desc6161012": {
+  "en": "Made of maple wood, this lovely guqin is covered with patterns of flying fish. It produces notes that sound as sweet and soothing as the wind.",
+  "ch": "由枫木所制，琴身上雕刻着许多文鳐鱼。奏响之音犹如清风拂过，可平静人的内心。"
+ },
+ "item_desc6161013": {
+  "en": "The arch of this instrument is carved from the best jade found on Mt. Yiwang. It's capable of producing hundreds of different sounds and can also repel evil auras.",
+  "ch": "琴柱是以翼望山中所取的上好玉石雕琢而成！此琴能奏出数百种不同的声音，还可避除凶邪之气。"
+ },
+ "item_desc6161014": {
+  "en": "An instrument made using white deer hair, which is quite rare—it takes a deer a thousand years to develop a pale pelt, and another five hundred for the fur to turn white.",
+  "ch": "以白鹿之毛发为弦所制的琴。据说普通的鹿生长千年毛皮便会变成苍色，再生长五百年后才会变为白色，足见白鹿之珍贵！"
+ },
+ "item_desc6161015": {
+  "en": "The strings of this guqin is made of mystic silk and produces sounds as pleasant as that of jade stones clinking together.",
+  "ch": "此琴以天玄丝为弦而制，琴动之声玉石碰撞般悦耳，十分动听！"
+ },
+ "item_desc6161025": {
+  "en": "The face of this guqin is made out of parasol wood and its bottom out of cedar. It's painted all over in purple and covered in a snake-belly pattern. The grey color of deer antlers peeks out from under the pattern, and underneath it is coarse grass fabric.",
+  "ch": "琴以梧桐作面，杉木为底，通体髹紫漆，多处跦漆修补，发小蛇腹断纹，纯鹿角灰胎显现于磨平之断纹处，鹿角灰胎下用葛布为底。"
+ },
+ "item_desc6161035": {
+  "en": "In the center of the world stands Mt. Tian Yuan, on which peak is a stone platform, where a guqin is placed. For thousands of years, no one has been able to play it. All people know about it is its name: \"Music of the Ancients\".",
+  "ch": "八荒正中有一山曰天元，峰巅之上有一石台上置一琴，数千年来无人可拨动琴弦，无人知其玄妙，只有其名流传于世，“太古遗音”。",
+  "nomes": {
+   "Music of the Ancients": "Música dos Antigos"
+  }
+ },
+ "item_desc6161392": {
+  "en": "A textbook about forging Artifacts. Use to increase Cultivator Forge stat.",
+  "ch": "记载着炼器之法的道典，阅读后可提升修仙者的炼器资质。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6161393": {
+  "en": "A textbook about forging Artifacts. Use to increase Cultivator Forge stat.",
+  "ch": "记载着炼器之法的道典，阅读后可提升修仙者的炼器资质。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6161394": {
+  "en": "A textbook about forging Artifacts. Use to increase Cultivator Forge stat.",
+  "ch": "记载着炼器之法的道典，阅读后可提升修仙者的炼器资质。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6161395": {
+  "en": "A textbook about forging Artifacts. Use to increase Cultivator Forge stat.",
+  "ch": "记载着炼器之法的道典，阅读后可提升修仙者的炼器资质。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6161396": {
+  "en": "A textbook about forging Artifacts. Use to increase Cultivator Forge stat.",
+  "ch": "记载着炼器之法的道典，阅读后可提升修仙者的炼器资质。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6161397": {
+  "en": "A book about the most profound theories in concocting Elixirs. Read to increase your Alchemy stat.",
+  "ch": "记录丹道极致理论的典籍，阅读后能提升修仙者的炼丹资质。"
+ },
+ "item_desc6161398": {
+  "en": "A book about the most profound theories in concocting Elixirs. Read to increase your Alchemy stat.",
+  "ch": "记录丹道极致理论的典籍，阅读后能提升修仙者的炼丹资质。"
+ },
+ "item_desc6161399": {
+  "en": "A book about the most profound theories in concocting Elixirs. Read to increase your Alchemy stat.",
+  "ch": "记录丹道极致理论的典籍，阅读后能提升修仙者的炼丹资质。"
+ },
+ "item_desc6161400": {
+  "en": "A book about the most profound theories in concocting Elixirs. Read to increase your Alchemy stat.",
+  "ch": "记录丹道极致理论的典籍，阅读后能提升修仙者的炼丹资质。"
+ },
+ "item_desc6161401": {
+  "en": "A book about the most profound theories in concocting Elixirs. Read to increase your Alchemy stat.",
+  "ch": "记录丹道极致理论的典籍，阅读后能提升修仙者的炼丹资质。"
+ },
+ "item_desc6161402": {
+  "en": "A manual compiled by generations of master Geomancers. Read to increase your Feng Shui stat.",
+  "ch": "远古时八荒堪舆师的心血记录，查阅后即能提升修仙者的风水资质。"
+ },
+ "item_desc6161403": {
+  "en": "A manual compiled by generations of master Geomancers. Read to increase your Feng Shui stat.",
+  "ch": "远古时八荒堪舆师的心血记录，查阅后即能提升修仙者的风水资质。"
+ },
+ "item_desc6161404": {
+  "en": "A manual compiled by generations of master Geomancers. Read to increase your Feng Shui stat.",
+  "ch": "远古时八荒堪舆师的心血记录，查阅后即能提升修仙者的风水资质。"
+ },
+ "item_desc6161405": {
+  "en": "A manual compiled by generations of master Geomancers. Read to increase your Feng Shui stat.",
+  "ch": "远古时八荒堪舆师的心血记录，查阅后即能提升修仙者的风水资质。"
+ },
+ "item_desc6161406": {
+  "en": "A manual compiled by generations of master Geomancers. Read to increase your Feng Shui stat.",
+  "ch": "远古时八荒堪舆师的心血记录，查阅后即能提升修仙者的风水资质。"
+ },
+ "item_desc6161407": {
+  "en": "An illustrated encyclopedia of all known herbs. Read to increase your Herb stat.",
+  "ch": "详细记录诸般草药性状的图文辑录，精研后能提升修仙者的药材资质。"
+ },
+ "item_desc6161408": {
+  "en": "An illustrated encyclopedia of all known herbs. Read to increase your Herb stat.",
+  "ch": "详细记录诸般草药性状的图文辑录，精研后能提升修仙者的药材资质。"
+ },
+ "item_desc6161409": {
+  "en": "An illustrated encyclopedia of all known herbs. Read to increase your Herb stat.",
+  "ch": "详细记录诸般草药性状的图文辑录，精研后能提升修仙者的药材资质。"
+ },
+ "item_desc6161410": {
+  "en": "An illustrated encyclopedia of all known herbs. Read to increase your Herb stat.",
+  "ch": "详细记录诸般草药性状的图文辑录，精研后能提升修仙者的药材资质。"
+ },
+ "item_desc6161411": {
+  "en": "An illustrated encyclopedia of all known herbs. Read to increase your Herb stat.",
+  "ch": "详细记录诸般草药性状的图文辑录，精研后能提升修仙者的药材资质。"
+ },
+ "item_desc6161412": {
+  "en": "A handbook about precious ores and minerals. Read to increase your Ore stat.",
+  "ch": "记录各种珍稀矿物的图录，钻研此书即能提升修仙者的矿材资质。"
+ },
+ "item_desc6161413": {
+  "en": "A handbook about precious ores and minerals. Read to increase your Ore stat.",
+  "ch": "记录各种珍稀矿物的图录，钻研此书即能提升修仙者的矿材资质。"
+ },
+ "item_desc6161414": {
+  "en": "A handbook about precious ores and minerals. Read to increase your Ore stat.",
+  "ch": "记录各种珍稀矿物的图录，钻研此书即能提升修仙者的矿材资质。"
+ },
+ "item_desc6161415": {
+  "en": "A handbook about precious ores and minerals. Read to increase your Ore stat.",
+  "ch": "记录各种珍稀矿物的图录，钻研此书即能提升修仙者的矿材资质。"
+ },
+ "item_desc6161416": {
+  "en": "A handbook about precious ores and minerals. Read to increase your Ore stat.",
+  "ch": "记录各种珍稀矿物的图录，钻研此书即能提升修仙者的矿材资质。"
+ },
+ "item_desc6161417": {
+  "en": "A tome about the finest techniques in forging. Read to increase your Forge stat.",
+  "ch": "书中记录各种炼器的精微之道，细读后即可提升修仙者的炼器资质。"
+ },
+ "item_desc6161418": {
+  "en": "A tome about the finest techniques in forging. Read to increase your Forge stat.",
+  "ch": "书中记录各种炼器的精微之道，细读后即可提升修仙者的炼器资质。"
+ },
+ "item_desc6161419": {
+  "en": "A tome about the finest techniques in forging. Read to increase your Forge stat.",
+  "ch": "书中记录各种炼器的精微之道，细读后即可提升修仙者的炼器资质。"
+ },
+ "item_desc6161420": {
+  "en": "A tome about the finest techniques in forging. Read to increase your Forge stat.",
+  "ch": "书中记录各种炼器的精微之道，细读后即可提升修仙者的炼器资质。"
+ },
+ "item_desc6161421": {
+  "en": "A tome about the finest techniques in forging. Read to increase your Forge stat.",
+  "ch": "书中记录各种炼器的精微之道，细读后即可提升修仙者的炼器资质。"
+ },
+ "item_desc6171012": {
+  "en": "Sandalwood and paper mulberries are abundant on Mt. Lai. These trees are the favorite perch of countless Roro Birds, which are insanely fierce man-eating creatures.Their feathers are often used for decoration, for example on the Ferro flute.",
+  "ch": "莱山中有许许多多的檀香树和构树，而这些树中活跃着无数的罗罗鸟。罗罗鸟异常凶猛，可食人！其羽常常被匠人用于装饰物品，飞罗笛便是其一。"
+ },
+ "item_desc6171013": {
+  "en": "A jade flute covered with intricate patterns of flying fish. Rumored to be capable of warding off disasters involving weapons and conflict.",
+  "ch": "以玉石所制的笛，笛身上细刻了许许多多的飞鱼，据说可避免兵刃之灾。"
+ },
+ "item_desc6171014": {
+  "en": "Legend has it that a hunter once climbed a strange mountain by accident and encountered a beast resembling a monkey that's striped all over. It's said that the hunter made this flute using the beast's bones.",
+  "ch": "传闻中有一猎户在偶然之间闯入了一座奇山，他在山中遇到到了一种形似猕猴，全身都带有斑纹的野兽。据说此笛就是用那猎户所带回的兽骨所制的。"
+ },
+ "item_desc6171015": {
+  "en": "A translucent flute that is cool to the touch. Produces a soothing melody.",
+  "ch": "笛身晶莹剔透，散发着阵阵凉气，奏响之音可安抚心神。"
+ },
+ "item_desc6171025": {
+  "en": "A quaint flute that produces music that captivates the soul of those who hear it.",
+  "ch": "材质古朴的笛子，奏响的魔音可夺魂摄魄。"
+ },
+ "item_desc6171102": {
+  "en": "After learning the {#item_name6171102} you will be able to recognise East Sea Coral.",
+  "ch": "习得了{#item_name6171102}后，就能够辨认出东海礁石。",
+  "nomes": {
+   "East Sea Coral": "Coral do Mar Oriental"
+  }
+ },
+ "item_desc6171103": {
+  "en": "After learning the {#item_name6171103} you will be able to recognise the Earth Core Stone.",
+  "ch": "习得了{#item_name6171103}后，就能够辨认出地心熔石。",
+  "nomes": {
+   "Earth Core Stone": "Pedra do Núcleo da Terra"
+  }
+ },
+ "item_desc6171104": {
+  "en": "After learning the {#item_name6171104} you will be able to recognise the Netherworld Stone.",
+  "ch": "习得了{#item_name6171104}后，就能够辨认出九幽冥石。",
+  "nomes": {
+   "Netherworld Stone": "Pedra do Submundo"
+  }
+ },
+ "item_desc6171105": {
+  "en": "After learning the {#item_name6171105} you will be able to recognise the Deep Divinity Stone.",
+  "ch": "习得了{#item_name6171105}后，就能够辨认出天元玄石。",
+  "nomes": {
+   "Deep Divinity Stone": "Pedra da Divina Profundidade"
+  }
+ },
+ "item_desc6171202": {
+  "en": "After learning the {#item_name6171202} you will be able to recognise the Green Rosetta.",
+  "ch": "习得了{#item_name6171202}后，就能够辨认出碧落断瑰。",
+  "nomes": {
+   "Green Rosetta": "Roseta Verde"
+  }
+ },
+ "item_desc6171203": {
+  "en": "After learning the {#item_name6171203} you will be able to recognise Blue Crow Jade.",
+  "ch": "习得了{#item_name6171203}后，就能够辨认出鸦灵寒玉。",
+  "nomes": {
+   "Blue Crow Jade": "Jade do Corvo Azul"
+  }
+ },
+ "item_desc6171204": {
+  "en": "After learning the {#item_name6171204} you will be able to recognise the Purplestone.",
+  "ch": "习得了{#item_name6171204}后，就能够辨认出紫霄晶珏。",
+  "nomes": {
+   "Purplestone": "Pedra Púrpura"
+  }
+ },
+ "item_desc6171205": {
+  "en": "After learning the {#item_name6171205} you will be able to recognise the Broken Harmony Talisman.",
+  "ch": "习得了{#item_name6171205}后，就能够辨认出鸿蒙残璧。",
+  "nomes": {
+   "Broken Harmony Talisman": "Talismã da Harmonia Quebrada"
+  }
+ },
+ "item_desc6171302": {
+  "en": "After learning the {#item_name6171302} you will be able to recognise Feather Vine Essence.",
+  "ch": "习得了{#item_name6171302}后，就能够辨认出羽缕萝精。",
+  "nomes": {
+   "Feather Vine Essence": "Essência de Videira de Pena"
+  }
+ },
+ "item_desc6171303": {
+  "en": "After learning the {#item_name6171303} you will be able to recognise Thunderstone Essence.",
+  "ch": "习得了{#item_name6171303}后，就能够辨认出云锡岩精。",
+  "nomes": {
+   "Thunderstone Essence": "Essência de Pedra do Trovão"
+  }
+ },
+ "item_desc6171304": {
+  "en": "After learning the {#item_name6171304} you will be able to recognise Deathrow Essence.",
+  "ch": "习得了{#item_name6171304}后，就能够辨认出罪骨幻精。",
+  "nomes": {
+   "Deathrow Essence": "Essência do corredor da morte"
+  }
+ },
+ "item_desc6171305": {
+  "en": "After learning the {#item_name6171305} you will be able to recognise Ethereal Blood Essence.",
+  "ch": "习得了{#item_name6171305}后，就能够辨认出天魂血精。",
+  "nomes": {
+   "Ethereal Blood Essence": "Essência de Sangue Etérea"
+  }
+ },
+ "item_desc6171402": {
+  "en": "After learning the {#item_name6171402} you will be able to recognise {#item_name5131101}.",
+  "ch": "习得了{#item_name6171402}后，就能够辨认出{#item_name5131101}。"
+ },
+ "item_desc6171403": {
+  "en": "After learning the {#item_name6171403} you will be able to recognise {#item_name5131102}.",
+  "ch": "习得了{#item_name6171403}后，就能够辨认出{#item_name5131102}。"
+ },
+ "item_desc6171404": {
+  "en": "After learning the {#item_name6171404} you will be able to recognise {#item_name5131103}.",
+  "ch": "习得了{#item_name6171404}后，就能够辨认出{#item_name5131103}。"
+ },
+ "item_desc6171405": {
+  "en": "After learning the {#item_name6171405} you will be able to recognise {#item_name5131104}.",
+  "ch": "习得了{#item_name6171405}后，就能够辨认出{#item_name5131104}。"
+ },
+ "item_desc6181012": {
+  "en": "There's said to be a grassless mountain abundant in jades of all kinds. On the mountain lives the Bi Fang, a bird shaped like a crane, but with blue feathers and a white beak. It's known as the symbol of longevity, and its feathers are therefore used in manufacturing all sorts of items.",
+  "ch": "传说中有一座寸草不生，却布遍着各种美玉的山。山中有一种禽鸟，其形似仙鹤，有着青色的羽毛与白色的嘴巴，被人视为长寿的象征。于是，便有人用毕方的羽毛制作各种各样的物品。",
+  "nomes": {
+   "Bi Fang": "Bi Fang"
+  }
+ },
+ "item_desc6181013": {
+  "en": "An instrument that's absorbed the powers of the sun. Wear it to gain energy and good health. The high notes it produces may shatter all evil.",
+  "ch": "凝聚了天地间的阳之力所制的乐器。能使所佩之人精神饱满，身体健康。奏响之时，高昂之音可震慑一切邪物。"
+ },
+ "item_desc6181014": {
+  "en": "On Mt. Yufa is a monster called Chao that's half-bird, half-fish. Though resembling a carp, it's got chicken feet. Its flesh, when eaten, can cure tumors. Its bones can be used to play ethereal music.",
+  "ch": "在狱法山中，生长着一种半鱼半鸟的怪物，其形像鲤鱼却又长着鸡爪子，名为䲃鱼。食用了䲃鱼的肉可治愈赘瘤，其骨所制的乐器也能奏出动听的仙音。"
+ },
+ "item_desc6181015": {
+  "en": "Legend has it that on Mt. Guang where Jimeng lives, there's a crystalline jade well beloved by Jimeng. It can be used to forge an exquisite instrument that plays glorious music.",
+  "ch": "传说在计蒙居住的光山中，有一种晶莹剔透的美玉，深受计蒙的喜爱。用此玉所制成的乐器不但精致美观，也能奏出动听的声音。"
+ },
+ "item_desc6181025": {
+  "en": "Whenever the bamboo flute sounds, a refreshing breeze arrives, the colorful evening clouds meet, swans glide in the skies in pairs, peacocks flock to the edges of the forests, and all birds sing together for hours before scattering.",
+  "ch": "萧声至，清风来，奏响之时彩云四合，白鹤成对翔舞空中，孔雀数双栖集林际，百鸟合鸣经时方散。"
+ },
+ "item_desc6181110": {
+  "en": "After learning the {#item_name6181110} you will be able to concoct the {#item_name3031101}.",
+  "ch": "习得了{#item_name6181110}后，就能炼制{#item_name3031101}。"
+ },
+ "item_desc6181210": {
+  "en": "After learning the {#item_name6181210} you will be able to concoct the {#item_name3031102}.",
+  "ch": "习得了{#item_name6181210}后，就能炼制{#item_name3031102}。"
+ },
+ "item_desc6181310": {
+  "en": "After learning the {#item_name6181310} you will be able to concoct the {#item_name3031103}.",
+  "ch": "习得了{#item_name6181310}后，就能炼制{#item_name3031103}。"
+ },
+ "item_desc6181410": {
+  "en": "After learning the {#item_name6181410} you will be able to concoct the {#item_name3031104}.",
+  "ch": "习得了{#item_name6181410}后，就能炼制{#item_name3031104}。"
+ },
+ "item_desc6181510": {
+  "en": "After learning the {#item_name6181510} you will be able to concoct the {#item_name3031105}.",
+  "ch": "习得了{#item_name6181510}后，就能炼制{#item_name3031105}。"
+ },
+ "item_desc6181610": {
+  "en": "After learning the {#item_name6181610} you will be able to concoct the {#item_name3031106}.",
+  "ch": "习得了{#item_name6181610}后，就能炼制{#item_name3031106}。"
+ },
+ "item_desc6181710": {
+  "en": "After learning the {#item_name6181710} you will be able to concoct the {#item_name3031107}.",
+  "ch": "习得了{#item_name6181710}后，就能炼制{#item_name3031107}。"
+ },
+ "item_desc6181910": {
+  "en": "After learning the {#item_name6181910}, you will be able to forge the {#item_name3031109}.",
+  "ch": "习得了{#item_name6181910}后，就能炼制{#item_name3031109}。"
+ },
+ "item_desc6182010": {
+  "en": "After learning the {#item_name6182010}, you will be able to forge the {#item_name3031110}.",
+  "ch": "习得了{#item_name6182010}后，就能炼制{#item_name3031110}。"
+ },
+ "item_desc6191012": {
+  "en": "Legend has it that these \"musical stones\" are often found in the Luo River. When clanging together, they produce a loud sound. They can be used to forge an instrument capable of warding off all evil. It's not only expensive but also represents status and power.",
+  "ch": "传说在洛水中盛产鸣石，撞击后能发出巨大的声音。奏响由鸣石所制的乐器时，能够震慑一切邪物！此物不仅是造价较高的乐器，也是地位与权力的象征。"
+ },
+ "item_desc6191013": {
+  "en": "An red copper instrument that's widely used in all rituals.",
+  "ch": "由赤铜矿所制的乐器，在各种仪典中广泛使用的乐器。"
+ },
+ "item_desc6191014": {
+  "en": "It's said that humans could summon ghosts by playing a Daphne bell in certain rituals. The Daphne bell is therefore also known as the spirit-gatherer bell.",
+  "ch": "传说在一些仪式中，人可以通过奏响槐芫可招来鬼魂，因此槐芫也被称为聚阴钟。"
+ },
+ "item_desc6191024": {
+  "en": "A quaintly-made instrument. Only a rare few craftsmen are skilled enough to forge such an item.",
+  "ch": "工艺古朴的乐器，即便是在八荒大陆中，能够做出此类乐器的匠人也是少之又少。"
+ },
+ "item_desc6201012": {
+  "en": "Back in ancient times, the ancestors worshiped the dragon totem and would pray to it for rain.",
+  "ch": "在远古时期，先民对龙的图腾十分崇拜，将龙当作了神的意象以祈求雨水。"
+ },
+ "item_desc6201022": {
+  "en": "According to legends, the sun is a manifestation of a divine bird. It rises in the east and sinks in the west, bringing warmth to the world. This accessory symbolizes the humans' worshiping of the divine bird as the sun god.",
+  "ch": "相传，太阳是由神鸟所化，每日东升西沉的温暖着整个世界。这件饰品便是象征着人们将神鸟视作太阳神一般崇拜着。"
+ },
+ "item_desc6201023": {
+  "en": "Legend has it that the Yellow Emperor once held a meeting for monsters and gods on Mt. Xitai. Chiyou attended, leading a horde of tigers, wolves, flying phoenixes and crawling snakes. It was a truly somber and impressive procession.",
+  "ch": "传说黄帝在西泰山召开“鬼神大会”，蚩尤带领着一群虎狼在前面开路，更有凤凰飞舞在空中，腾蛇伏窜在地上，整个队伍盛大而庄严。"
+ },
+ "item_desc6201033": {
+  "en": "Legend has it that Xingtian got his head cut off while dueling the Yellow Emperor, yet his body continued to fight on. This statue is made to commemorate his perseverance even in death.",
+  "ch": "传说刑天在与黄帝的战斗中被斩下了头颅，但其身躯依旧在不屈不挠的战斗着。人们为了歌颂他宁死不屈的精神而制作了这一尊雕像。",
+  "nomes": {
+   "Xingtian": "Xingtian"
+  }
+ },
+ "item_desc6201034": {
+  "en": "Camels are a beast often found on Mt. Yao. They have great endurance as they store water and nutrition in their humps and can in fact go dozens of days without eating or drinking.",
+  "ch": "虢山中的野兽以骆驼居多，因背上的肉峰可以贮存水分和养料，可数十天不饮不食，具有极佳的耐力。"
+ },
+ "item_desc6201044": {
+  "en": "In legends, there's a huge Leaning Mulberry, with its bottom half under the water and its branches above. This bronze statue is sculpted according to what the artist imagines the tree to look like.",
+  "ch": "传说中有一棵十分巨大的扶桑树，它的下半截在水下，树枝则伸出水面上。人们根据自己的想象，制作了这一尊青铜树雕像。"
+ },
+ "item_desc6201045": {
+  "en": "The dragon is a symbol worshiped by many, and all living beings related to the dragon are considered godly in a way. Vessels shaped like a dragon or with dragon patterns, too, are often seen as grand and dignified.",
+  "ch": "龙是人们非常崇拜的图腾，但凡是与龙沾边的生灵，皆被赋予某种神性。而龙形或具有龙纹的器物，也就显得更加的尊贵。"
+ },
+ "item_desc6201055": {
+  "en": "Humans love to make wine vessels in the shape of animals. Especially auspicious ones thought to repel bad luck.",
+  "ch": "人们总是喜欢将酒尊做成动物的形状，特别是一些被认为可辟邪的祥瑞之兽。"
+ },
+ "item_desc6201056": {
+  "en": "The vermillion bird is a legendary bird and the god of the south, revered by humans the same way they worship phoenixes. This cup, depicting a vermillion bird with a ring in its beak, is not only intricately done but also highly auspicious.",
+  "ch": "朱雀是传说中的神鸟、南方之神，被人们当作同凤凰一类的神鸟加以崇拜。这件朱雀衔环杯不仅造型精美，更是一件吉祥之物。"
+ },
+ "item_desc6201066": {
+  "en": "Some believe that divine powers are what brings luck on the battlefield, and carving various patterns on weapons will therefore grant them better powers as well as victory.",
+  "ch": "有些人认为胜利取决于神性的力量，于是便在兵器上雕刻着种种纹路，将会使神更多的赐予他们力量，赐予他们战争的胜利。"
+ },
+ "item_desc6201076": {
+  "en": "The powers of the heavens and earth are feared by many. Humans, therefore, would pray towards gods of all types and bring tributes to them in hopes of being granted peace and prosperity.",
+  "ch": "强大的天地之力总是会让人产生敬畏，于是人们便开始向各路神灵加以祭祀，祈求能借献祭来换取平安。"
+ },
+ "item_desc6211012": {
+  "en": "Humans believe that if they carve certain special patterns on vessels, the vessels become blessed by the gods.",
+  "ch": "人们认为将一些特殊的纹路刻画在器皿之上，便可以使得器皿被赋予某种祝福。"
+ },
+ "item_desc6211013": {
+  "en": "There's a species of fox with four paws and nine tails that lives on the Green Hills. They're known as \"Ninetails\", Sanshou, or Wangshou.",
+  "ch": "在青丘内栖息着一种狐狸，长着四只爪子九条尾巴，人们将其称为九尾狐。九尾狐这种神兽，有人叫它三寿，也有人叫它王寿。"
+ },
+ "item_desc6211014": {
+  "en": "Fishing is an important industry for humans. This dual-handled vessel with a small opening has fish patterns on its surface, a tribute from humans to their food source.",
+  "ch": "捕鱼是人们重要的生产方式之一。这只小口双耳瓶的腹部绘有形象化的鱼纹，表现出了人们对食物来源的重视。"
+ },
+ "item_desc6211015": {
+  "en": "In legends, the mountain god usually has a human body and a dragon's head. Mortals come up with all sorts of rituals to pray to him. The dance depicted on this vessel is one of those rituals.",
+  "ch": "传说中山神都是人身龙头的模样，人们为了祭祀他们，想出了各种各样的仪式，此壶中所刻画的舞蹈便是其中之一。"
+ },
+ "item_desc6211025": {
+  "en": "Made with fine red clay, this vessel has a wide, curled opening adorned with strips of black ribbon and two inked, matching human-faced-fish patterns on the inside.",
+  "ch": "由细泥红陶制成，敞口卷唇，口沿处绘间断黑彩带，内壁以黑彩绘出两组对称人面鱼纹。"
+ },
+ "item_desc6211035": {
+  "en": "This clay falcon tripod is styled like a standing male falcon, with the vessel's opening set between its wings. A truly brilliant blend of the tripod's sleek form and the falcon's striking shape.",
+  "ch": "陶鹰鼎采用伫足站立的雄鹰造型，鼎口设置于背部与两翼之间，将鼎形器物特征与鹰的动物美感巧妙地融为一体。"
+ },
+ "item_desc6221012": {
+  "en": "Since ancient times, our ancestors have noticed certain rules and patterns reoccurring in the natural world, for example the paths of the sun and moon, the changing of seasons and the flourishing and dying of plants. Based on such principles, Fuxi learned that the heavens and earth, day and night, men and women are parallel existences and gained insight to the concept of yin and yang, thus creating the trigrams.",
+  "ch": "在远古时期，先民在劳动过程中，逐渐发现了一些自然界的变化规律，如日月运行、四季变化、草木荣衰等。在此基础上，伏羲意识到天和地，白天和黑夜，男人和女人等都是相对应的存在，于是悟出了阴阳概念，并按四面八方排列创造了八卦。"
+ },
+ "item_desc6221022": {
+  "en": "Xingtian lost his head while dueling the Yellow Emperor, but he didn't die nor surrender. Using his torso as face, nipples as eyes, belly button as mouth, he held steadfastly onto his shield and axe and continued to fight. The \"shield and axe\" dance was choreographed based on such an image in an celebration of Xingtian's perseverance.",
+  "ch": "刑天在与黄帝的决战中被斩下了头颅，但他并没有死去，也没有屈服，他以身为脸，乳为目，脐为口，一手持盾，一手持斧，欲与黄帝再决胜负。他这一形象衍生出了一种“干戚”的舞蹈，模仿刑天不屈不挠的战神精神。",
+  "nomes": {
+   "Xingtian": "Xingtian"
+  }
+ },
+ "item_desc6221023": {
+  "en": "The Wuxian Kingdom is a nation of wizards. All inhabitants hold a green serpent in the left and a red serpent in the right, a truly intimidating sight. There's a Mt. Dengbao in Wuxian, considered a channel between the heavens and earth. The wizards often ascend to the top to speak to the gods about the wishes of the humans, and bring the gods' decrees back to the humans.",
+  "ch": "巫咸国是一个由巫师组成的国家，所有的人右手握着一条青蛇，左手握着一条红蛇，样貌十分诡异。巫咸国境内有座登葆山，是巫师来往于天上与人间的通道，他们到天上把人民的请求传达给天帝，随后又从那里下来向人民转达天帝的旨意。"
+ },
+ "item_desc6221033": {
+  "en": "Legends have it that the people of the Shenmu Kingdom have only one eye, embedded deep in the socket. They walk around with one hand in the air, as if waving at passers-by.",
+  "ch": "传说中，深目国之人脸上只有一只眼，深深的陷在眼眶中，平时总是举起一只手，就像是在与人打招呼的样子。",
+  "nomes": {
+   "Shenmu Kingdom": "Reino Shenmu"
+  }
+ },
+ "item_desc6221034": {
+  "en": "When the Yellow Emperor was holding the celebratory banquet after defeating Chiyou, a goddess came gliding down from the heavens. She called herself the silkworm goddess, bearing quality silk as tribute. The Yellow Emperor asked her to teach the women of the nation to weave textiles, and his wife, Leizu, started raising silkworms herself while also promoting the industry among the people.",
+  "ch": "黄帝打败了蚩尤，大摆庆功宴之时，天上突然飘然降下一位女神。这位女神自称是蚕神，特地赶来将精美的蚕丝献给黄帝，作为庆功宴上的贺礼。黄帝后来便让蚕神教导妇女缫丝纺绸，黄帝的妻子嫘祖也亲自培育幼蚕，并在百姓中推广。"
+ },
+ "item_desc6221044": {
+  "en": "Legends have it that some mystic spirits called Mei lives in the mountain bogs. They're shaped like humans, but with their heads lolling back, long hair an absolute mess. Their eyes and eyebrows are vertical.",
+  "ch": "传说在山泽之中有一种鬼魅，人们将其称为“祙”。祙这种怪物身形似人，脑袋拉耷在后边，披散着头发，脸上的眼睛和眉毛都是竖着生长的。"
+ },
+ "item_desc6221045": {
+  "en": "Before humans learned to farm, they had the innate ability to hunt. Though they tended to work together in groups, they were still weak compared to other forces of nature. This picture depicts the reverence and fear humans have for nature.",
+  "ch": "在农耕之前，人类与生俱来的本领便是在大自然中猎取食物。虽然人们采取了集体围猎的方式，但人的力量依旧显得很薄弱。此图表现出了人们对大自然的崇拜与敬畏之心。"
+ },
+ "item_desc6221055": {
+  "en": "In legends, there was a cardinal that flew past the Yan Emperor's head with nine wheat stalks in its beak. Some of them landed in front of the Yan Emperor, who picked them up and planted them in a field in a suitable season. Once the wheat was ripe, he distributed them to the people and taught them to farm. That was how agriculture came to be for humans, who no longer survived off the blood and flesh of animals. The Yan Emperor, from then on, was known as the \"Legendary Farmer\".",
+  "ch": "传说有一丹雀衔九穗飞过炎帝头顶，正好有几个稻谷掉落在炎帝面前，炎帝将其拾起，在合适的季节种于田中，等禾苗成熟后又将其分给百姓，并教会了他们耕种之法。从此，人间有了农耕，告别了茹毛饮血的时代，于是人们将炎帝称为“神农”。"
+ },
+ "item_desc6221065": {
+  "en": "The legendary bird, phoenix, is a symbol of great virtues and peace in the world. As it is also beautiful, many consider it a positive metaphor for women and is therefore a common motif in women's clothing and accessories.",
+  "ch": "神鸟凤凰，代表了高尚的德行，乃天下太平的祥瑞之兆。同时，它美丽的姿态又是对女子美好的祝福与比喻，常常出现在女子的衣物与饰品当中。"
+ },
+ "item_desc6221066": {
+  "en": "Some believe that the mountain beast depicted is a monster that lives in the mountains, while some believe it's a maiden priestess. If it weren't for the plants growing all over her body and the accompanying mountain creatures, she could very well be mistaken for a noble lady.",
+  "ch": "有的人认为图中的山鬼是山中的鬼怪，而有的人则认为山鬼是巫山神女。若不是身上披着植被，身旁有野兽相伴，几乎会被误认为是一位大家闺秀。"
+ },
+ "item_desc6221076": {
+  "en": "According to legends, Cangjie once climbed Mt. Yangxu and walked the shores of the Xuanhu and Luo Rivers. The mystic turtle in the river gifted him with a divine book, which content Cangjie used to create characters in the Chinese language.",
+  "ch": "传说中仓颉曾登临阳虚山，并在玄扈水、洛水之畔漫步，河中的灵龟便将内有丹甲青文的天书传授给了他，仓颉便以此为基础，创造了文字。"
+ },
+ "item_desc6221086": {
+  "en": "Mt. Guang is surrounded by cerulean waters, while the mountain itself is abundant in translucent jades. The god Jimeng, with a human form and a dragon's head, lives in these mountains. He'd often swim about in the depths of the Zhang waters, bringing storms wherever he goes.",
+  "ch": "光山下绿水环绕，而山中则布遍着晶莹剔透的美玉。天神计蒙便居住在这座山中，其形貌为人身龙头。他常在漳水的深渊中畅游，所到之处必定伴随着狂风暴雨。"
+ },
+ "item_desc6231012": {
+  "en": "Made from the bone of fowl, this item can be used to imitate the call of monsters, thus attracting other monsters, making it easy to kill them.",
+  "ch": "用禽类的骨管所制的，可以模拟妖兽的鸣叫将其吸引，从而伺机猎杀。"
+ },
+ "item_desc6231013": {
+  "en": "There's a monster living on Mt. Guanti named Nafu, looking much like your common ox, but with a white tail. Its whines are like a human's loud cries. Grind its horns into powder and swallow it to cure throat aches.",
+  "ch": "灌题山中栖息着一种野兽，其名为那父。它形状像普通的牛，但身后却拖着一条白色的尾巴，它发出的声音就犹如人在高声呼唤。他的角在入药后，能够缓解咽喉疼痛。"
+ },
+ "item_desc6231014": {
+  "en": "Turtles are extremely long-lived, and the patterns on their shells also hold endless mysteries, which is why humans often use them for divination. It's said that you may hear the voices of the heavens if you bake a turtle shell.",
+  "ch": "龟的寿命极长，它的坚甲上的纹路也充满了无穷无尽的奥妙。人们常用龟甲进行占卜，在使用烈火灼烤龟甲时，似乎能够听到传说中的天道之音。"
+ },
+ "item_desc6231024": {
+  "en": "Made by stringing the teeth of several mystic beasts together. Wear it to live a long life.",
+  "ch": "以多枚异兽之牙穿成，有延年益寿之效。"
+ },
+ "item_desc6231034": {
+  "en": "A drumstick forged from the bone of a kui and a drum made with the kui's skin. Play this drum and the world will hear.",
+  "ch": "以夔之骨精炼而成的鼓槌，再以夔之皮制成鼓。鼓槌槌鼓，音达万里，声震四方。"
+ },
+ "item_desc6241016": {
+  "en": "{0}'s Interspatial Ring. It contains a large amount of resources.",
+  "ch": "{0}的储物戒，里面装有大量的物资。"
+ },
+ "item_desc6241026": {
+  "en": "A top-notch Interspatial Ring that contains items of great importance to {0}.",
+  "ch": "一枚质地上好的储物戒，里面装了{0}最重要的东西。"
+ },
+ "item_desc626": {
+  "en": "Lamp",
+  "ch": "灯"
+ },
+ "item_desc6281016": {
+  "en": "{0}'s Spiritual Pet. It's had a woeful look since it was caught.",
+  "ch": "{0}饲养的灵宠，被逮住之后露出了十分绝望的表情。"
+ },
+ "item_desc6281026": {
+  "en": "{0}'s Spiritual Pet. Despite its innocent looks, it actually has a short temper.",
+  "ch": "{0}饲养的灵宠，看似憨厚老实，脾气却非常暴躁。"
+ },
+ "item_desc6281036": {
+  "en": "{0}'s Spiritual Pet. Despite its innocent looks, it actually has a short temper.",
+  "ch": "{0}饲养的灵宠，看似憨厚老实，脾气却非常暴躁。"
+ },
+ "item_desc6281046": {
+  "en": "{0}'s Spiritual Pet. Despite its innocent looks, it actually has a short temper.",
+  "ch": "{0}饲养的灵宠，看似憨厚老实，脾气却非常暴躁。"
+ },
+ "item_desc6291011": {
+  "en": "Contains enormous power. Use to receive Skill Points.",
+  "ch": "蕴含着强大的法则之力，服用后可以增加修仙者的道点。"
+ },
+ "item_desc6291012": {
+  "en": "Contains enormous power. Use to receive Skill Points.",
+  "ch": "蕴含着强大的法则之力，服用后可以增加修仙者的道点。"
+ },
+ "item_desc6291013": {
+  "en": "Contains enormous power. Use to receive Skill Points.",
+  "ch": "蕴含着强大的法则之力，服用后可以增加修仙者的道点。"
+ },
+ "item_desc6291014": {
+  "en": "Contains enormous power. Use to receive Skill Points.",
+  "ch": "蕴含着强大的法则之力，服用后可以增加修仙者的道点。"
+ },
+ "item_desc6291015": {
+  "en": "Contains enormous power. Use to receive Skill Points.",
+  "ch": "蕴含着强大的法则之力，服用后可以增加修仙者的道点。"
+ },
+ "item_desc6291016": {
+  "en": "Contains enormous power. Use to receive Skill Points.",
+  "ch": "蕴含着强大的法则之力，服用后可以增加修仙者的道点。"
+ },
+ "item_desc6301015": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301025": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301035": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301045": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301046": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301055": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301065": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301075": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301085": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6301086": {
+  "en": "Infuse a large amount of Energy into this map to locate Mythical Beasts.",
+  "ch": "将大量的灵力注入图中，便能够寻找到山岳中正在渡劫的大妖兽的位置。"
+ },
+ "item_desc6311016": {
+  "en": "{0}'s Arcane Manual containing the secrets of {0}.",
+  "ch": "{0}的宗门秘法，记载着{0}的不传之秘。"
+ },
+ "item_desc6321016": {
+  "en": "A location is marked on this map. Use this item to discover the general location of the Qi Deviated Cultivator. Once you get to that area, perform Geomancy to pinpoint this Cultivator's exact location.",
+  "ch": "记载着某一处位置的地图。凭借此物便能够寻到邪修的老巢附近，在附近使用堪舆便能找到邪修老巢的准确位置。",
+  "nomes": {
+   "Qi Deviated Cultivator": "Cultivador Desviado pelo Qi",
+   "Qi Deviated": "Desviado do Qi",
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6321026": {
+  "en": "A location is marked on this map. Use this item to discover the general location of the Qi Deviated Cultivator. Once you get to that area, perform Geomancy to pinpoint this Cultivator's exact location.",
+  "ch": "记载着某一处位置的地图。凭借此物便能够寻到邪修的老巢附近，在附近使用堪舆便能找到邪修老巢的准确位置。",
+  "nomes": {
+   "Qi Deviated Cultivator": "Cultivador Desviado pelo Qi",
+   "Qi Deviated": "Desviado do Qi",
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6321036": {
+  "en": "A location is marked on this map. Use this item to discover the general location of the Qi Deviated Cultivator. Once you get to that area, perform Geomancy to pinpoint this Cultivator's exact location.",
+  "ch": "记载着某一处位置的地图。凭借此物便能够寻到邪修的老巢附近，在附近使用堪舆便能找到邪修老巢的准确位置。",
+  "nomes": {
+   "Qi Deviated Cultivator": "Cultivador Desviado pelo Qi",
+   "Qi Deviated": "Desviado do Qi",
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6321046": {
+  "en": "A location is marked on this map. Use this item to discover the general location of the Qi Deviated Cultivator. Once you get to that area, perform Geomancy to pinpoint this Cultivator's exact location.",
+  "ch": "记载着某一处位置的地图。凭借此物便能够寻到邪修的老巢附近，在附近使用堪舆便能找到邪修老巢的准确位置。",
+  "nomes": {
+   "Qi Deviated Cultivator": "Cultivador Desviado pelo Qi",
+   "Qi Deviated": "Desviado do Qi",
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6321056": {
+  "en": "A location is marked on this map. Use this item to discover the general location of the Qi Deviated Cultivator. Once you get to that area, perform Geomancy to pinpoint this Cultivator's exact location.",
+  "ch": "记载着某一处位置的地图。凭借此物便能够寻到邪修的老巢附近，在附近使用堪舆便能找到邪修老巢的准确位置。",
+  "nomes": {
+   "Qi Deviated Cultivator": "Cultivador Desviado pelo Qi",
+   "Qi Deviated": "Desviado do Qi",
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6321066": {
+  "en": "A location in {#areaName8} is marked on this broken map.",
+  "ch": "一张破损的地图，上面似乎记载着{#areaName8}中的某一处地点。"
+ },
+ "item_desc6321076": {
+  "en": "Infuse Energy into this Magic Wind Stone to locate {itemLink6121036}.",
+  "ch": "往幻风石中注入灵力，便能寻到{itemLink6121036}所在的方位。",
+  "nomes": {
+   "Magic Wind Stone": "Pedra Mágica do Vento"
+  }
+ },
+ "item_desc6331001": {
+  "en": "Detects Qi in the surroundings. Use to discover special places within <g>40 spaces</g> ({#building1001Name1}, {#building1001Name2}, {#building1001Name3}, {#building1001Name4}, {#building1001Name5}, {#building1001Name3}, Land of the Spirits, and Land of the Arcane).\n<g>●</g>Can be used in <g>{#areaName2}</g> and <g>{#areaName3}</g>.",
+  "ch": "可暂时沟通八荒世界灵气潮汐，探查一定范围内灵气分布。使用后可探明周围<g>40格</g>内特殊地点（包括：{#building1001Name1}、{#building1001Name2}、{#building1001Name3}、{#building1001Name4}、{#building1001Name5}、{#building1001Name3}、通灵秘境、玄灵秘境）。\n<g>●</g>可在<g>{#areaName2}</g>与<g>{#areaName3}</g>区域内使用。"
+ },
+ "item_desc6331002": {
+  "en": "Detects Qi in the surroundings. Use to discover special places within <g>40 spaces</g> ({#building1001Name1}, {#building1001Name2}, {#building1001Name3}, {#building1001Name4}, {#building1001Name5}, {#building1001Name3}, Spiritlock Circle, Demonseal Circle, and Cloud Cave).\n<g>●</g>Can be used in <g>{#areaName4}</g> and <g>{#areaName5}</g>.",
+  "ch": "可暂时沟通八荒世界灵气潮汐，探查一定范围内灵气分布。使用后可探明周围<g>40格</g>内特殊地点（包括：{#building1001Name1}、{#building1001Name2}、{#building1001Name3}、{#building1001Name4}、{#building1001Name5}、{#building1001Name3}、残破锁灵阵、残破封魔阵、碧云洞天、{#fortuitous_event_name60011}、{#fortuitous_event_name5104}）。\n<g>●</g>可在<g>{#areaName4}</g>与<g>{#areaName5}</g>区域内使用。"
+ },
+ "item_desc6331003": {
+  "en": "Detects Qi in the surroundings. Use to discover special places within <g>40 spaces</g> ({#building1001Name7}, {#building1001Name8}, {#fortuitous_event_name4001}, and {#fortuitous_event_name4006}).\n<g>●</g>Can be used in <g>{#areaName6}</g> and <g>{#areaName7}</g>.",
+  "ch": "可暂时沟通八荒世界灵气潮汐，探查一定范围内灵气分布。使用后可探明周围<g>40格</g>内特殊地点（包括：{#building1001Name7}、{#building1001Name8}、{#fortuitous_event_name4001}、{#fortuitous_event_name4006}、{#fortuitous_event_name60012}、{#fortuitous_event_name5106}）。\n<g>●</g>可在<g>{#areaName6}</g>与<g>{#areaName7}</g>区域内使用。"
+ },
+ "item_desc6331004": {
+  "en": "Detects Qi in the surroundings. Use to discover special places within <g>40 spaces</g> (Tao Realms).\n<g>●</g>Can be used in <g>{#areaName8}</g> and <g>{#areaName9}</g>.",
+  "ch": "可暂时沟通八荒世界灵气潮汐，探查一定范围内灵气分布。使用后可探明周围<g>40格</g>内特殊地点（包括：道界、{#fortuitous_event_name60013}、{#fortuitous_event_name5108}）。\n<g>●</g>可在<g>{#areaName8}</g>与<g>{#areaName9}</g>区域内使用。"
+ },
+ "item_desc6331005": {
+  "en": "Detects Qi in the surroundings. Use to discover special places within <g>40 spaces</g>. (Includes {#fortuitous_event_name60014} and {#fortuitous_event_name5110})\n<g>●</g>Can be used in <g>{#areaName10}</g>.",
+  "ch": "可暂时沟通八荒世界灵气潮汐，探查一定范围内灵气分布。使用后可探明周围<g>40格</g>内特殊地点（包括：{#fortuitous_event_name60014}、{#fortuitous_event_name5110}）。\n<g>●</g>可在<g>{#areaName10}</g>区域内使用。"
+ },
+ "item_desc6331011": {
+  "en": "Burn this item to attract monsters. After using this item, you'll have a higher chance of encountering monsters in {#areaName2} and {#areaName3} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味可吸引八方妖兽聚集。使用后可提升在{#areaName2}、{#areaName3}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331012": {
+  "en": "Burn this item to attract monsters. After using this item, you'll have a higher chance of encountering monsters in {#areaName4} and {#areaName5} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味可吸引八方妖兽聚集。使用后可提升在{#areaName4}、{#areaName5}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331013": {
+  "en": "Burn this item to attract monsters. After using this item, you'll have a higher chance of encountering monsters in {#areaName6} and {#areaName7} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味可吸引八方妖兽聚集。使用后可提升在{#areaName6}、{#areaName7}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331014": {
+  "en": "Burn this item to attract monsters. After using this item, you'll have a higher chance of encountering monsters in {#areaName8} and {#areaName9} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味可吸引八方妖兽聚集。使用后可提升在{#areaName8}、{#areaName9}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331015": {
+  "en": "Burn this item to attract monsters. After using this item, you'll have a higher chance of encountering monsters in {#areaName10} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味可吸引八方妖兽聚集。使用后可提升在{#areaName10}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331021": {
+  "en": "Burn this item to drive away monsters. After using this item, you'll have a lower chance of encountering monsters in {#areaName2} and {#areaName3} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味幽香，但妖兽对此气味避而远之。使用后可降低在{#areaName2}、{#areaName3}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331022": {
+  "en": "Burn this item to drive away monsters. After using this item, you'll have a lower chance of encountering monsters in {#areaName4} and {#areaName5} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味幽香，但妖兽对此气味避而远之。使用后可降低在{#areaName4}、{#areaName5}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331023": {
+  "en": "Burn this item to drive away monsters. After using this item, you'll have a lower chance of encountering monsters in {#areaName6} and {#areaName7} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味幽香，但妖兽对此气味避而远之。使用后可降低在{#areaName6}、{#areaName7}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331024": {
+  "en": "Burn this item to drive away monsters. After using this item, you'll have a lower chance of encountering monsters in {#areaName8} and {#areaName9} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味幽香，但妖兽对此气味避而远之。使用后可降低在{#areaName8}、{#areaName9}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331025": {
+  "en": "Burn this item to drive away monsters. After using this item, you'll have a lower chance of encountering monsters in {#areaName10} for 3 months.",
+  "ch": "将符咒点燃，符咒燃烧的气味幽香，但妖兽对此气味避而远之。使用后可降低在{#areaName10}区域内行走时遇到怪物的概率，持续3个月。"
+ },
+ "item_desc6331031": {
+  "en": "A charm originated from the beginning of time. Use to teleport to a town or sect of your choosing in {#areaName2}. Note: You must reach its Affinity requirement to teleport to a sect.",
+  "ch": "可以穿越空间的符咒，记录了八荒世界开天辟地时的一丝气息。使用后可传送至{#areaName2}区域内的城镇或可传送的宗门（宗门好感度达到传送的要求）。"
+ },
+ "item_desc6331033": {
+  "en": "A charm originated from the beginning of time. Use to teleport to a town or sect of your choosing in {#areaName6}. Note: You must reach its Affinity requirement to teleport to a sect.",
+  "ch": "可以穿越空间的符咒，记录了八荒世界开天辟地时的一丝气息。使用后可传送至{#areaName6}区域内的城镇或可传送的宗门（宗门好感度达到传送的要求）。"
+ },
+ "item_desc6331034": {
+  "en": "A charm originated from the beginning of time. Use to teleport to a town or sect of your choosing in {#areaName8}. Note: You must reach its Affinity requirement to teleport to a sect.",
+  "ch": "可以穿越空间的符咒，记录了八荒世界开天辟地时的一丝气息。使用后可传送至{#areaName8}区域内的城镇或可传送的宗门（宗门好感度达到传送的要求）。"
+ },
+ "item_desc6331035": {
+  "en": "A charm originated from the beginning of time. Use to teleport to a town or sect of your choosing in {#areaName10}. Note: You must reach its Affinity requirement to teleport to a sect.",
+  "ch": "可以穿越空间的符咒，记录了八荒世界开天辟地时的一丝气息。使用后可传送至{#areaName10}区域内的城镇或可传送的宗门（宗门好感度达到传送的要求）。"
+ },
+ "item_desc6331041": {
+  "en": "When this charm is triggered, it causes your aura to contract, making it difficult for other cultivators to pinpoint our current location. Using it will reduce the frequency of other cultivators finding you and interacting with you in {#areaName1}, {#areaName2} and {#areaName3}. Effect lasts for 12 months.",
+  "ch": "将符咒激发后，可将自身散发的气息收敛，使其他修仙者更难寻找到自己当前的位置。使用后可降低自己在{#areaName1}、{#areaName2}、{#areaName3}区域内被其他修仙者找到并进行互动的频率，持续12个月。"
+ },
+ "item_desc6331042": {
+  "en": "When this charm is triggered, it causes your aura to contract, making it difficult for other cultivators to pinpoint our current location. Using it will reduce the frequency of other cultivators finding you and interacting with you in {#areaName4}, {#areaName5} and preceding areas. Effect lasts for 12 months.",
+  "ch": "将符咒激发后，可将自身散发的气息收敛，使其他修仙者更难寻找到自己当前的位置。使用后可降低自己在{#areaName4}、{#areaName5}及其之前的区域内被其他修仙者找到并进行互动的频率，持续12个月。"
+ },
+ "item_desc6331043": {
+  "en": "When this charm is triggered, it causes your aura to contract, making it difficult for other cultivators to pinpoint our current location. Using it will reduce the frequency of other cultivators finding you and interacting with you in {#areaName6}, {#areaName7} and preceding areas. Effect lasts for 12 months.",
+  "ch": "将符咒激发后，可将自身散发的气息收敛，使其他修仙者更难寻找到自己当前的位置。使用后可降低自己在{#areaName6}、{#areaName7}及其之前的区域内被其他修仙者找到并进行互动的频率，持续12个月。"
+ },
+ "item_desc6331044": {
+  "en": "When this charm is triggered, it causes your aura to contract, making it difficult for other cultivators to pinpoint our current location. Using it will reduce the frequency of other cultivators finding you and interacting with you in {#areaName8}, {#areaName9} and preceding areas. Effect lasts for 12 months.",
+  "ch": "将符咒激发后，可将自身散发的气息收敛，使其他修仙者更难寻找到自己当前的位置。使用后可降低自己在{#areaName8}、{#areaName9}及其之前的区域内被其他修仙者找到并进行互动的频率，持续12个月。"
+ },
+ "item_desc6331045": {
+  "en": "When this charm is triggered, it causes your aura to contract, making it difficult for other cultivators to pinpoint our current location. Using it will reduce the frequency of other cultivators finding you and interacting with you in {#areaName10} and preceding areas. Effect lasts for 12 months.",
+  "ch": "将符咒激发后，可将自身散发的气息收敛，使其他修仙者更难寻找到自己当前的位置。使用后可降低自己在{#areaName10}及其之前的区域内被其他修仙者找到并进行互动的频率，持续12个月。"
+ },
+ "item_desc6341016": {
+  "en": "A local delicacy only eaten during holidays. Symbolizes reunions and happiness.\nUse to obtain Destiny (Nurture) \"<r>Udderly Lucky</r>\" and gain 20 Luck within 12 years.",
+  "ch": "逢年过节时才能够吃上的民间美食，有团圆美满之意。\n使用后可获得后天气运“<r>牛气冲天</r>”，12年内增加20点幸运。"
+ },
+ "item_desc6351016": {
+  "en": "A highly valued item passed down from generation to generation in the Ghost Valley sect. If a mortal gains insight to this treasure, they would immediately earn a huge amount of experience. However, countless talented individuals have failed to do so and ended up living their entire lives in regret.",
+  "ch": "鬼谷一门的秘传重宝，相传凡人若参透此物，则可炼化神魂、修为陡增。此一道坎可谓是登仙之门，无数惊才绝艳之辈在此门前止步，抱憾终老，越过此境者可称八荒修士中罕见的强者。"
+ },
+ "item_desc6361016": {
+  "en": "A sweet spiritual fruit. Agar may eat it to recover vitality. \"There's a plant on the Kunlun hills named Satang. The fruit tastes like plums, but does not have a core. Those who eat it gain water-wielding powers and can never drown.\"—Classic of the Mountains: West",
+  "ch": "《山海经·西山经》：“﹝昆仑之丘﹞有木焉……其味如李而无核，名曰沙棠；可以御水，食之使人不溺。”一枚香甜可口的灵果，阿夸食用后可以恢复体力值。"
+ },
+ "item_desc6361026": {
+  "en": "Blessed spring water from the Luo River. Agar may drink it to recover Stamina and Health. \"Another 350 kilometers west is Mt. Huanju, where the Luo waters originate. The river flows to the northeast into the Xuanhu waters, where a beast called Machang is often found.\"—Classic of the Mountains: West",
+  "ch": "《山海经·西山经》：“又西三百五十里曰讙举之山。洛水出焉,而东北流注于玄扈之水,其中多马肠之物。此二山者,洛间也。”一斛充满灵力的洛水之泉，阿夸饮用后可以恢复精力和健康。"
+ },
+ "item_desc6371016": {
+  "en": "Treasure passed down in the family of a Foolish Old Man, nothing special in the hands of the girl Xi, but shines strangely when shown to a Cultivator, as though a repository of many secrets.",
+  "ch": "据说是愚公一家世代相传的宝贝，拿在阿嬉手中时平平无奇，但一旦接触到修仙者，就能散发奇异的幽光，期内似乎蕴藏着什么秘密。",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6371026": {
+  "en": "Mysterious stone that contains incredible heat, said to be a fragment of the sun. Enables people to survive in extreme cold.",
+  "ch": "蕴含庞大热量的神秘石头，传言是太阳的一块碎片。可以让人在极寒的环境中维持身体机能的正常运转。"
+ },
+ "item_desc6371036": {
+  "en": "Nine Tails' greatest treasure, they say whenever a Ten Tails falls from Heaven into the underworld, they leave behind a belt ornament in the mortal world. Significantly increases Fox Cultivation Speed.",
+  "ch": "九尾狐一族的至宝，相传每当仙界中有十尾仙狐坠入冥界时，会把它的玉佩留在凡间，该玉佩能极大提升八荒界狐族的修炼速度。",
+  "nomes": {
+   "Nine Tails": "Nove Caudas"
+  }
+ },
+ "item_desc6371046": {
+  "en": "Treasure containing supreme essence of Tao, can be used to meddle with natural laws under special circumstances, though time is not one of them.",
+  "ch": "蕴含无上道法规则的精华宝物。在特定情况下，可以用来强行逆转自然法则。无法用来影响时间。"
+ },
+ "item_desc6381001": {
+  "en": "An object containing the happy memories of Jagu and Yu. Though simple and wholesome, it contains divine traces of the Heavenly Path. Use it to modify Rewrite Destiny in Foundation, Qi Condensation, and Golden Core realms. One use only. If you use this object in the Sect, you are bound to gain insight into the Sect's exclusive Rewrite Destiny as a choice.",
+  "ch": "封存武罗与阿禹美好回忆的物件，虽然质朴却饱含深情，隐约蕴含天道法则神力。使用后可以更改筑基、结晶、金丹境的逆天改命，使用一次后失效。若在宗门中使用此物，则必然会领悟宗门专属的逆天改命以供选择。"
+ },
+ "item_desc6381002": {
+  "en": "An item containing memories of Bi Fang's rebirth, engraved with unforgettable moments. It contains divine traces of the Heavenly Path. Use it to modify Rewrite Destiny in Nascent Soul realm and below. One use only. If you use this object in the Sect, you are bound to gain insight into the Sect's exclusive Rewrite Destiny as a choice.",
+  "ch": "封存毕方重生回忆的物件，镌刻着令人永生难忘的瞬间，隐约蕴含天道法则之力，使用后可以更改元婴境及以下的逆天改命，使用一次后失效。若在宗门中使用此物，则必然会领悟宗门专属的逆天改命以供选择。",
+  "nomes": {
+   "Bi Fang": "Bi Fang"
+  }
+ },
+ "item_desc6381004": {
+  "en": "A memento that seals the indomitable minds of Xingtian into it. You could feel his struggle between killing and forgiving, as well as a hint of the heavenly power of the Law. Use it to Rewrite Destiny in and below Reborn realm, available for 1 use.",
+  "ch": "封存刑天不灭之意志的物件，镌刻着战神杀意与和平的挣扎，隐约蕴含天道法则神力。使用后可以更改羽化期及以下的逆天改命，使用一次后失效。",
+  "nomes": {
+   "Xingtian": "Xingtian"
+  }
+ },
+ "item_desc6391016": {
+  "en": "Letter entrusted to a Cultivator by girl in Yukong Village, whose name appears to be Xi. Perhaps something terrible has happened in Yukong Village. Hopefully the letter will shed some light on things.",
+  "ch": "愚村女孩委托修仙者捎带的来信，看样子女孩名叫阿嬉。愚村似乎发生了什么不得了的事情，信中也许会说明吧？",
+  "nomes": {
+   "Cultivator": "Cultivador"
+  }
+ },
+ "item_desc6391026": {
+  "en": "Letter entrusted to a Cultivator by Xi, looks like she's asking for an accomplished Cultivator this time, someone with breeding. Goodness knows if she'll able to achieve it.",
+  "ch": "阿嬉委托修仙者捎带的纸条，看样子她这次拜托的人物修为高深、来历不凡，也不知她是如何办到的。",
+  "nomes": {
+   "Cultivator": "Cultivador",
+   "Goodness": "Bondade"
+  }
+ },
+ "item_desc6391031": {
+  "en": "Records of the secret history of the Dragon Mountain Hamlet. They seem like the remains from a chapter in a larger work. It's not clear who compiled it, but much of it seems to be embellished.",
+  "ch": "记录着御龙山庄隐秘历史的书籍，似乎是一整套书的某个篇章残卷。不知由谁编纂而成，大概半真半假，演义成分居多。"
+ },
+ "item_desc6391032": {
+  "en": "Records of the secret history of the Dragon Mountain Hamlet. They seem like the remains from a chapter in a larger work. It's not clear who compiled it, but much of it seems to be embellished.",
+  "ch": "记录着御龙山庄隐秘历史的书籍，似乎是一整套书的某个篇章残卷。不知由谁编纂而成，大概半真半假，演义成分居多。"
+ },
+ "item_desc6391033": {
+  "en": "Records of the secret history of the Dragon Mountain Hamlet. They seem like the remains from a chapter in a larger work. It's not clear who compiled it, but much of it seems to be embellished.",
+  "ch": "记录着御龙山庄隐秘历史的书籍，似乎是一整套书的某个篇章残卷。不知由谁编纂而成，大概半真半假，演义成分居多。"
+ },
+ "item_desc6391034": {
+  "en": "Records of the secret history of the Dragon Mountain Hamlet. They seem like the remains from a chapter in a larger work. It's not clear who compiled it, but much of it seems to be embellished.",
+  "ch": "记录着御龙山庄隐秘历史的书籍，似乎是一整套书的某个篇章残卷。不知由谁编纂而成，大概半真半假，演义成分居多。"
+ },
+ "item_desc6440014": {
+  "en": "A Chest made of ordinary wood, but hopefully there are some valuable items in it.",
+  "ch": "用寻常木头打制而成的宝箱，但愿其中有些许值钱的物件吧。"
+ },
+ "item_desc6440015": {
+  "en": "A Chest made of rare Ore and fine gold, shimmering with luxury. What's inside must be expensive.",
+  "ch": "用稀有矿材精金打造的宝箱，奢华之气扑面而来，其中之物必然价格高昂。"
+ },
+ "item_desc6440016": {
+  "en": "A Chest made of rare dark crystal. What rests within must be the best of what the world has to offer.",
+  "ch": "用稀世玄晶打造而成的宝箱，其中存放之物想必是八荒绝品，难以想象。"
+ },
+ "item_desc6440034": {
+  "en": "A Chest made of ordinary wood, but hopefully there are some valuable items in it.",
+  "ch": "用寻常木头打制而成的宝箱，但愿其中有些许值钱的物件吧。"
+ },
+ "item_desc6440035": {
+  "en": "A Chest made of rare Ore and fine gold, shimmering with luxury. What's inside must be expensive.",
+  "ch": "用稀有矿材精金打造的宝箱，奢华之气扑面而来，其中之物必然价格高昂。"
+ },
+ "item_desc6440036": {
+  "en": "A Chest made of rare dark crystal. What rests within must be the best of what the world has to offer.",
+  "ch": "用稀世玄晶打造而成的宝箱，其中存放之物想必是八荒绝品，难以想象。"
+ },
+ "item_desc6440054": {
+  "en": "A Chest made of ordinary wood, but hopefully there are some valuable items in it.",
+  "ch": "用寻常木头打制而成的宝箱，但愿其中有些许值钱的物件吧。"
+ },
+ "item_desc6440055": {
+  "en": "A Chest made of rare Ore and fine gold, shimmering with luxury. What's inside must be expensive.",
+  "ch": "用稀有矿材精金打造的宝箱，奢华之气扑面而来，其中之物必然价格高昂。"
+ },
+ "item_desc6440056": {
+  "en": "A Chest made of rare dark crystal. What rests within must be the best of what the world has to offer.",
+  "ch": "用稀世玄晶打造而成的宝箱，其中存放之物想必是八荒绝品，难以想象。"
+ },
+ "item_desc6440074": {
+  "en": "A Chest made of ordinary wood, but hopefully there are some valuable items in it.",
+  "ch": "用寻常木头打制而成的宝箱，但愿其中有些许值钱的物件吧。"
+ },
+ "item_desc6440075": {
+  "en": "A Chest made of rare Ore and fine gold, shimmering with luxury. What's inside must be expensive.",
+  "ch": "用稀有矿材精金打造的宝箱，奢华之气扑面而来，其中之物必然价格高昂。"
+ },
+ "item_desc6440076": {
+  "en": "A Chest made of rare dark crystal. What rests within must be the best of what the world has to offer.",
+  "ch": "用稀世玄晶打造而成的宝箱，其中存放之物想必是八荒绝品，难以想象。"
+ },
+ "item_desc6440094": {
+  "en": "A Chest made of ordinary wood, but hopefully there are some valuable items in it.",
+  "ch": "用寻常木头打制而成的宝箱，但愿其中有些许值钱的物件吧。"
+ },
+ "item_desc6440095": {
+  "en": "A Chest made of rare Ore and fine gold, shimmering with luxury. What's inside must be expensive.",
+  "ch": "用稀有矿材精金打造的宝箱，奢华之气扑面而来，其中之物必然价格高昂。"
+ },
+ "item_desc6440096": {
+  "en": "A Chest made of rare dark crystal. What rests within must be the best of what the world has to offer.",
+  "ch": "用稀世玄晶打造而成的宝箱，其中存放之物想必是八荒绝品，难以想象。"
+ },
+ "item_desc7000001": {
+  "en": "A lamp emitting a faint blue light. The ghost merchant sold it to you for 5000 Spirit Stones.",
+  "ch": "一盏发出幽幽蓝光的灯，鬼魂商人以5000灵石的高价卖给你了。"
+ },
+ "item_desc7000002": {
+  "en": "A map marking the location of the artifact. The Soul Lamp is needed to obtain the artifact, though.",
+  "ch": "记载着秘宝位置的宝图，似乎需要魂灯才能获得其中秘宝。",
+  "nomes": {
+   "Soul Lamp": "Lâmpada da Alma"
+  }
+ },
+ "item_desc7000003": {
+  "en": "<g>Pushing branches into the fire, I heat my wine up. Soothed by the wind in the trees, I caress my jade cup.\nOn the journey to immortality, often will one be charmed by jade so green. On the path of cultivation, often will one dream of gold so magnificent.\nPolish bowls and they may shine once more, but youth, once gone, never returns.\nCherish every sunrise and setting of the moon, for the years of youth will never come back.</g>\n—Written after the Adventure of the Delicate Soul Lamp",
+  "ch": "<g>推柴炙酒燃红叶，捻风敲枝抚玉杯。\n寻仙常迷滴翠瓦，觅道总失淌金瑰。\n碗盏纳光仍再焕，青春将去不复归。\n且惜日出怜月落，何处再借一春晖。</g>\n[玲珑魂灯奇遇纪念]",
+  "nomes": {
+   "Soul Lamp": "Lâmpada da Alma"
+  }
+ },
+ "item_desc7000004": {
+  "en": "A superior manual given to you by a sect elder. He hopes that it'll help you weather the storm caused by the Soul Lamp.",
+  "ch": "宗门老者给与的高级心法，望能助你渡过魂灯劫难。",
+  "nomes": {
+   "Soul Lamp": "Lâmpada da Alma"
+  }
+ },
+ "item_desc7000005": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense a change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上麋鹿，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000006": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000007": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000008": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000009": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000010": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000011": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000012": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000013": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000014": {
+  "en": "It was a mystic beast when it was alive. Stand next to it and you'll sense the change in qi in your surroundings. Ride it to travel freely between the worlds of yin and yang.",
+  "ch": "生前定是坐镇一方的灵兽，即使是现在只要站在它身旁，你也能感受到周围灵气的变化，骑上驺吾，顿时觉得自己在阴阳两界穿梭自如。"
+ },
+ "item_desc7000015": {
+  "en": "A small, colorful banner. Stare at it and you'll feel like you were surrounded by thousands of spirit wisps.",
+  "ch": "一杆五彩斑斓的小幡，凝视此物似有万千幽魂就在身旁。"
+ },
+ "item_desc7000016": {
+  "en": "A soul lamp that attracts souls and guides them on their way to reincarnation. Protects the holder in dire situations as well.",
+  "ch": "一盏能汇聚灵魂的魂灯，指引灵魂重回轮回，还能在危险关头保护持有者。"
+ },
+ "item_desc7000017": {
+  "en": "A heavenly carrot from the rabbit spirit. She's promised to bring you some Ether Rocks and has left you her favorite carrot as a token.",
+  "ch": "兔妖留给你的仙界胡萝卜，她保证一定会将补天石带给你，留给你最喜欢的胡萝卜就是对承诺的证明吧。"
+ },
+ "item_desc7000018": {
+  "en": "A heavenly carrot from the rabbit spirit. She's promised to bring you some Ether Rocks and has left you her favorite carrot as a token.",
+  "ch": "兔妖留给你的仙界胡萝卜，她保证一定会将补天石带给你，留给你最喜欢的胡萝卜就是对承诺的证明吧。"
+ },
+ "item_desc7000019": {
+  "en": "A heavenly carrot from the rabbit spirit. She's promised to bring you some Ether Rocks and has left you her favorite carrot as a token.",
+  "ch": "兔妖留给你的仙界胡萝卜，她保证一定会将补天石带给你，留给你最喜欢的胡萝卜就是对承诺的证明吧。"
+ },
+ "item_desc7000020": {
+  "en": "A broken ghost-commanding banner. Retains most of its functions, but is much less effective.",
+  "ch": "一杆受到损坏的御鬼幡，虽然还能保留有大部分功能，但是效力大打折扣。"
+ },
+ "item_desc7000021": {
+  "en": "A magical banner that can be used to command ghost warriors to fight for the wielder. Consumes a huge amount of energy, and thus not even a highly experienced wielder can use it for a long time.",
+  "ch": "能够操控鬼将助阵的神奇幡旗，使用时会消耗使用者大量灵力，就是修为很高之人也无法连续使用。"
+ },
+ "item_desc7000022": {
+  "en": "Made with a type of mystic rock that's been hit by lightning nine times yet remains intact. Rumor has it that a sect has been collecting these rocks to forge powerful artifacts.",
+  "ch": "由遭受九雷而不裂的异石所制，据说有宗门遍寻此石制造秘宝，制成的秘宝威力极大。"
+ },
+ "item_desc7000023": {
+  "en": "You're not sure how this mirror ended up in your pocket—perhaps it has a story to tell? The Dreamode Mirror can be used to create two mirror images of you, both with the same stats and skills as yours, to fight alongside you for 20 secs.",
+  "ch": "不知为何这面镜子会出现在你的口袋，也许它只是为了向人诉说一段故事吧。诗梦镜：创造两个与你属性和技能一样的镜像与你一同战斗，持续20秒。",
+  "nomes": {
+   "Dreamode Mirror": "Espelho dos Sonhos Lúcidos"
+  }
+ },
+ "item_desc7000030": {
+  "en": "A cube-shaped jade you found in a taoist priest's grave. A little bit has been chipped off in a corner.",
+  "ch": "你在道士的墓中找到的一块方玉，方玉的一角已然缺损。"
+ },
+ "item_desc7000031": {
+  "en": "A soul pill containing experience worth hundreds of years of training. Use it to gain a large amount of experience at once.",
+  "ch": "汇聚月精数百年修为的魂丹。使用后能大幅增加修为。"
+ }
+}

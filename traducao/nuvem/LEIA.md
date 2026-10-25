@@ -34,4 +34,8 @@ Instruções para a sessão do Claude Code na nuvem que traduz os lotes desta pa
 ## Lotes
 
 - `src_piloto.json`: 100 entradas de teste (descrições de itens, talentos, traços, opções de diálogo, habilidades e casos difíceis de marcador). Feito em 2026-10-25 (`out_piloto.json`).
-- `src_falhas1.json`, `src_falhas2.json`, `src_falhas3.json` (494 entradas no total, liberados em 2026-10-25): entradas em que o tradutor local falhou na validação, quase sempre por marcador perdido ou estragado, alternativa com barra ou texto deixado em inglês. Faça um lote por vez, na ordem, com commit e push ao fim de cada um, para o trabalho poder ser retomado. Nomes em pinyin que ficam iguais ao inglês são esperados; se o verificador acusar "idêntico ao inglês" num nome assim, deixe como está e cite no relatório.
+- `src_falhas1.json`, `src_falhas2.json`, `src_falhas3.json` (494 entradas no total, liberados em 2026-10-25): entradas em que o tradutor local falhou na validação, quase sempre por marcador perdido ou estragado, alternativa com barra ou texto deixado em inglês. Feitos em 2026-10-25. Nomes em pinyin que ficam iguais ao inglês são esperados; se o verificador acusar "idêntico ao inglês" num nome assim, deixe como está e cite no relatório.
+- `src_resto01.json` … `src_resto30.json` (10.700 entradas, liberados em 2026-10-25): todo o texto que ainda falta, reservado para esta sessão até 2026-11-05. Cada lote tem até ~60 mil caracteres de inglês. Os lotes 25 (parte) a 30 são notas de atualização do jogo (`startGameTipDesc`), longas e de menor prioridade.
+  - Faça um lote por vez, na ordem, com commit e push ao fim de cada um, como nos anteriores.
+  - **Pare depois de cada 5 lotes** (05, 10, 15, 20, 25) e espere o usuário mandar continuar: ele confere o crédito entre um bloco e outro.
+  - Em lotes grandes, grave a saída em partes se precisar, mas o `out_restoNN.json` final tem todas as chaves do lote, na ordem.

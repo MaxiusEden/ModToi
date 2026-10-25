@@ -1,0 +1,2047 @@
+{
+ "prefixDescS1603003": {
+  "en": "Skill Damage &1603_dmg%3&\nPoisonous Plant Duration &1603_lifeTime%1&s",
+  "ch": "此技能威力&1603_dmg%3&\n毒株持续时间&1603_lifeTime%1&秒"
+ },
+ "prefixDescS1603004": {
+  "en": "Skill Damage &1603_dmg%4&\nExplosion Radius &1603_haloRange%1&",
+  "ch": "此技能威力&1603_dmg%4&\n爆炸的范围&1603_haloRange%1&"
+ },
+ "prefixDescS1603005": {
+  "en": "Skill Damage &1603_dmg%5&\nPoisonous Thorn Stacks &1603_telsonSum%1&",
+  "ch": "此技能威力&1603_dmg%5&\n施加的毒刺&1603_telsonSum%1&层",
+  "nomes": {
+   "Poisonous Thorn": "Espinho Venenoso"
+  }
+ },
+ "prefixDescS1603006": {
+  "en": "Enemies with Poisonous Thorns deal &1603_dmgProb&% damage",
+  "ch": "带有毒刺效果的敌人造成的伤害&1603_dmgProb&%"
+ },
+ "prefixDescS1603007": {
+  "en": "Poisonous Plants can move slowly\nExplosion Radius &1603_haloRange%2&",
+  "ch": "毒株可缓慢移动\n爆炸范围&1603_haloRange%2&"
+ },
+ "prefixDescS1604001": {
+  "en": "Small Flower Faerie Damage &1604_dmg%1&",
+  "ch": "小花妖威力&1604_dmg%1&",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores"
+  }
+ },
+ "prefixDescS1604002": {
+  "en": "Small Flower Faerie Damage &1604_dmg%2&\nEntangle Radius &1604_twineRange%1&",
+  "ch": "小花妖威力&1604_dmg%2&\n荆棘的范围&1604_twineRange%1&",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores",
+   "Entangle": "Emaranhar"
+  }
+ },
+ "prefixDescS1604003": {
+  "en": "Small Flower Faerie Damage &1604_dmg%3&\nCooldown &1604_cd%1&s",
+  "ch": "小花妖威力&1604_dmg%3&\n冷却&1604_cd%1&秒",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores"
+  }
+ },
+ "prefixDescS1604004": {
+  "en": "Small Flower Faerie Damage &1604_dmg%4&\nFlower Faerie's Range &16011_callRange%1&",
+  "ch": "小花妖威力&1604_dmg%4&\n小花妖的射程&16011_callRange%1&",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores",
+   "Small Flower Faerie": "Pequena Fada das Flores"
+  }
+ },
+ "prefixDescS1604005": {
+  "en": "&16011_waterProb%1& chance to inflict Frost on enemies upon they are hit by Small Flower Faeries",
+  "ch": "小花妖攻击命中敌人时有&16011_waterProb%1&概率附加霜冻"
+ },
+ "prefixDescS1604006": {
+  "en": "Entangle Duration &1604_twineTime%1&s\nInflict &1604_twineSum& Stacks of Poisonous Thorn",
+  "ch": "荆棘缠绕的时间&1604_twineTime%1&秒\n会给敌人施加&1604_twineSum&层毒刺",
+  "nomes": {
+   "Poisonous Thorn": "Espinho Venenoso",
+   "Entangle": "Emaranhar"
+  }
+ },
+ "prefixDescS1604007": {
+  "en": "The skill will grant &1604_sevenSum& Projectiles for random &1604_sevenSum& Small Flower Faeries if cast after the amount of Small Flower Faeries has reached the max. Projectiles from a single Flower Faerie cannot exceed 5.",
+  "ch": "当小花妖达到上限时，使用此技能后，可令任意&1604_sevenSum&只小花妖的弹道数量&1604_sevenSum&（小花妖的弹道数量不能超过5）",
+  "nomes": {
+   "Flower Faerie": "Fada das Flores"
+  }
+ },
+ "prefixDescS201001": {
+  "en": "Skill Damage &201_dmg%1&",
+  "ch": "此技能威力&201_dmg%1&"
+ },
+ "prefixDescS201002": {
+  "en": "Skill Damage &201_dmg%2&\nRange &201_range%1&",
+  "ch": "此技能威力&201_dmg%2&\n射程&201_range%1&"
+ },
+ "prefixDescS201003": {
+  "en": "Skill Damage &201_dmg%3&\nCooldown &201_cd%1&s",
+  "ch": "此技能威力&201_dmg%3&\n冷却&201_cd%1&秒"
+ },
+ "prefixDescS201004": {
+  "en": "Skill Damage &201_dmg%4&\nResistance Reduce by &201_pfrDown%1&",
+  "ch": "此技能威力&201_dmg%4&\n敌方抗性降低&201_pfrDown%1&"
+ },
+ "prefixDescS201005": {
+  "en": "Skill Damage &201_dmg%5&\nSpear Amount &201_bullet%1&",
+  "ch": "此技能威力&201_dmg%5&\n枪影数量&201_bullet%1&"
+ },
+ "prefixDescS201006": {
+  "en": "Projectile Angle &201_angularInterval%1&%, Range &201_range%2&. For every &201_rangeRequire& Range, increase Damage by &201_rangeToDmg&",
+  "ch": "此技能的弹道间隔角度&201_angularInterval%1&%，射程&201_range%2&，且每&201_rangeRequire&射程可&201_rangeToDmg&威力"
+ },
+ "prefixDescS201007": {
+  "en": "Projectiles will return after reaching max range.",
+  "ch": "此技能的弹道在达到最远射程时返回"
+ },
+ "prefixDescS202001": {
+  "en": "Skill Damage &202_dmg%1&",
+  "ch": "此技能威力&202_dmg%1&"
+ },
+ "prefixDescS202002": {
+  "en": "Skill Damage &202_dmg%2&\nRecharging Interval &202_chargePointCD%1&s",
+  "ch": "此技能威力&202_dmg%2&\n充能时间&202_chargePointCD%1&秒",
+  "nomes": {
+   "Recharging": "Recarregando"
+  }
+ },
+ "prefixDescS202003": {
+  "en": "Skill Damage &202_dmg%3&\nCharge Distance &202_chargeRange%1&",
+  "ch": "此技能威力&202_dmg%3&\n冲刺距离&202_chargeRange%1&"
+ },
+ "prefixDescS202004": {
+  "en": "Skill Damage &202_dmg%4&\nFor every 1 enemy hit by the charging,\nIncrease the damage this time by &202_dmgUp&%",
+  "ch": "此技能威力&202_dmg%4&\n幻像冲刺每命中1个敌人\n可使此次技能伤害&202_dmgUp&%"
+ },
+ "prefixDescS202005": {
+  "en": "Skill Damage &202_dmg%5&. &202_chargePointProb&% chance to gain a Recharging Point from every Spear skill cast",
+  "ch": "此技能威力&202_dmg%5&，使用任意枪法技能时，有&202_chargePointProb&%的概率获得1点充能点",
+  "nomes": {
+   "Recharging": "Recarregando"
+  }
+ },
+ "prefixDescS202006": {
+  "en": "&202_blastProb%1&% chance to trigger a Blast at the location of the enemy hit, dealing an extra time of damage to enemies within &202_blastRange& Range",
+  "ch": "有&202_blastProb%1&%的概率在冲刺命中的敌人位置处引发一次灵爆，对&202_blastRange&范围内的敌人额外造成一次伤害"
+ },
+ "prefixDescS202007": {
+  "en": "Skill Damage &202_dmg%6&\nCreate extra &202_mirrorNum%1& Phantoms after 0.5s",
+  "ch": "此技能威力&202_dmg%6&\n生成幻像&202_mirrorNum%1&（延迟0.5秒生成）"
+ },
+ "prefixDescS203001": {
+  "en": "Skill Damage &203_dmg%1&",
+  "ch": "此技能威力&203_dmg%1&"
+ },
+ "prefixDescS203002": {
+  "en": "Skill Damage &203_dmg%2&\nCooldown &203_cd%1&s",
+  "ch": "此技能威力&203_dmg%2&\n冷却&203_cd%1&秒"
+ },
+ "prefixDescS203003": {
+  "en": "Skill Damage &203_dmg%3&\nResistance Reduce by &203_pfrDown%1&",
+  "ch": "此技能威力&203_dmg%3&\n敌方抗性降低&203_pfrDown%1&"
+ },
+ "prefixDescS203004": {
+  "en": "Skill Damage &203_dmg%4&\nSplit Projectile Range &203_subRange%1&",
+  "ch": "此技能威力&203_dmg%4&\n分裂后的射程&203_subRange%1&"
+ },
+ "prefixDescS203005": {
+  "en": "Skill Damage &203_dmg%5&\nSplit Projectiles &203_subBullet%1&",
+  "ch": "此技能威力&203_dmg%5&\n分裂后的弹道数&203_subBullet%1&"
+ },
+ "prefixDescS203006": {
+  "en": "The spear will split in every direction (360 degrees)\nDouble Split Projectiles",
+  "ch": "变为360度分裂\n弹道数量翻倍"
+ },
+ "prefixDescS203007": {
+  "en": "Upgrade",
+  "ch": "升级"
+ },
+ "prefixDescS30101": {
+  "en": "EXP Gained &30101_expUp&%\nMax Vitality &30101_luckDown&",
+  "ch": "获得修为&30101_expUp&%\n最大体力&30101_luckDown&"
+ },
+ "prefixDescS30102": {
+  "en": "EXP Gained &30102_expUp&%",
+  "ch": "获得修为&30102_expUp&%"
+ },
+ "prefixDescS30103": {
+  "en": "Luck &30103_luckUp&",
+  "ch": "幸运&30103_luckUp&"
+ },
+ "prefixDescS30104": {
+  "en": "Luck &30104_luckUp&\nDamage &30104_powerDown&%",
+  "ch": "幸运&30104_luckUp&\n伤害&30104_powerDown&%"
+ },
+ "prefixDescS30105": {
+  "en": "Luck &30105_luckUp&\nMax Vitality &30105_mspDown&",
+  "ch": "幸运&30105_luckUp&\n最大体力&30105_mspDown&"
+ },
+ "prefixDescS30106": {
+  "en": "Item Pick-up Radius &30106_prgUp&",
+  "ch": "拾取道具范围&30106_prgUp&"
+ },
+ "prefixDescS30107": {
+  "en": "Item Pick-up Radius &30107_prgUp&",
+  "ch": "拾取道具范围&30107_prgUp&"
+ },
+ "prefixDescS30108": {
+  "en": "Item Pick-up Radius &30108_prgUp&\nDodge &30108_evadeDown&%",
+  "ch": "拾取道具范围&30108_prgUp&\n闪避&30108_evadeDown&%"
+ },
+ "prefixDescS30109": {
+  "en": "Item Pick-up Radius &30109_prgUp&\nAgility &30109_mspUp&",
+  "ch": "拾取道具范围&30109_prgUp&\n移动速度&30109_mspUp&"
+ },
+ "prefixDescS30110": {
+  "en": "Free Store Refreshes &30110_storeRefreshUp&",
+  "ch": "商店免费刷新次数&30110_storeRefreshUp&"
+ },
+ "prefixDescS30111": {
+  "en": "Pot Respawn Speed &30111_jarRefreshUp&%",
+  "ch": "战斗内罐子刷新速度&30111_jarRefreshUp&%"
+ },
+ "prefixDescS30112": {
+  "en": "Damage &30112_powerUp&%\nEnemy Respawn Amount &30112_enemyCountUp&",
+  "ch": "伤害&30112_powerUp&%\n敌人刷新数量&30112_enemyCountUp&"
+ },
+ "prefixDescS30113": {
+  "en": "Enemy Agility &30113_enemyMspUp&\nCharacter Agility &30113_mspUp&",
+  "ch": "敌人移动速度&30113_enemyMspUp&\n自身移动速度&30113_mspUp&"
+ },
+ "prefixDescS30114": {
+  "en": "Enemy Skill Damage &30114_enemyPowUp&%\nEnemy Max Vitality &30114_enemyMaxhpFixDown&%",
+  "ch": "敌人技能威力&30114_enemyPowUp&%\n敌人最大体力&30114_enemyMaxhpFixDown&%"
+ },
+ "prefixDescS30115": {
+  "en": "Enemy Skill Damage &30115_enemyPowUp&%\nLuck &30115_luckUp&",
+  "ch": "敌人技能威力&30115_enemyPowUp&%\n幸运&30115_luckUp&"
+ },
+ "prefixDescS30116": {
+  "en": "Gain &30116_expGain&% EXP at the current grade",
+  "ch": "获得&30116_expGain&%的当前等级修为"
+ },
+ "prefixDescS30117": {
+  "en": "Max Vitality &30117_hpMaxUp&\nSpawn extra &30117_extraEliteEnemy& Elite enemies in the next battle",
+  "ch": "最大体力&30117_hpMaxUp&\n下一场战斗额外出现&30117_extraEliteEnemy&个精英怪"
+ },
+ "prefixDescS30118": {
+  "en": "Gain 50 Spirit Stones\nBegin the next battle with &30118_hpLeft& Vitality",
+  "ch": "获得50灵石\n下一场战斗以&30118_hpLeft&点体力开始战斗"
+ },
+ "prefixDescS30119": {
+  "en": "Gain an extra &30119_manaStoneUp&% of the current Spirit Stone after finishing a battle",
+  "ch": "每次完成一场战斗时，额外获得当前灵石&30119_manaStoneUp&%的奖励",
+  "nomes": {
+   "Spirit Stone": "Pedra Espiritual"
+  }
+ },
+ "prefixDescS30120": {
+  "en": "Gain &30120_expUp&% EXP after finishing a battle",
+  "ch": "每次完成一场战斗时，修为&30120_expUp&%"
+ },
+ "prefixDescS30121": {
+  "en": "Gain &30121_poweUp&% Damage and &30121_mspUp& Agility after finished a battle",
+  "ch": "每次完成一场战斗时，伤害&30121_poweUp&%、移动速度&30121_mspUp&"
+ },
+ "prefixDescS30122": {
+  "en": "Vitality &30122_hpMaxUp&",
+  "ch": "体力&30122_hpMaxUp&"
+ },
+ "prefixDescS30123": {
+  "en": "Damage &30123_powerUp&%",
+  "ch": "伤害&30123_powerUp&%"
+ },
+ "prefixDescS30124": {
+  "en": "Damage &30124_powerUp&%",
+  "ch": "伤害&30124_powerUp&%"
+ },
+ "prefixDescS30125": {
+  "en": "Resistance &30125_prfUp&",
+  "ch": "抗性&30125_prfUp&"
+ },
+ "prefixDescS30126": {
+  "en": "Attack Speed &30126_agileUp&%",
+  "ch": "攻击速度&30126_agileUp&%"
+ },
+ "prefixDescS30127": {
+  "en": "Crit Chance &30127_critUp&%",
+  "ch": "暴击概率&30127_critUp&%"
+ },
+ "prefixDescS30128": {
+  "en": "Crit Rate &30128_critVUp&%",
+  "ch": "暴击倍率&30128_critVUp&%"
+ },
+ "prefixDescS30129": {
+  "en": "Agility &30129_mspUp&",
+  "ch": "移动速度&30129_mspUp&"
+ },
+ "prefixDescS30130": {
+  "en": "Luck &30130_luckUp&",
+  "ch": "幸运&30130_luckUp&"
+ },
+ "prefixDescS30131": {
+  "en": "Summoned Unit Damage &30131_zhshUp&%",
+  "ch": "召唤物伤害&30131_zhshUp&%"
+ },
+ "prefixDescS30132": {
+  "en": "Summoned Unit Duration &30132_zhsjUp&%",
+  "ch": "召唤物持续时间&30132_zhsjUp&%"
+ },
+ "prefixDescS30133": {
+  "en": "Skill Radius &30133_jnfwUp&%",
+  "ch": "技能范围&30133_jnfwUp&%"
+ },
+ "prefixDescS30134": {
+  "en": "Skill Duration &30134_jncxUp&%",
+  "ch": "技能持续时间&30134_jncxUp&%"
+ },
+ "prefixDescS30135": {
+  "en": "Blade &30135_basBladeUp&",
+  "ch": "刀法资质&30135_basBladeUp&"
+ },
+ "prefixDescS30136": {
+  "en": "Blade &30136_basBladeUp&",
+  "ch": "刀法资质&30136_basBladeUp&"
+ },
+ "prefixDescS30137": {
+  "en": "Spear &30137_basSpearUp&",
+  "ch": "枪法资质&30137_basSpearUp&"
+ },
+ "prefixDescS30138": {
+  "en": "Spear &30138_basSpearUp&",
+  "ch": "枪法资质&30138_basSpearUp&"
+ },
+ "prefixDescS30139": {
+  "en": "Sword &30139_basSwordUp&",
+  "ch": "剑法资质&30139_basSwordUp&"
+ },
+ "prefixDescS30140": {
+  "en": "Sword &30140_basSwordUp&",
+  "ch": "剑法资质&30140_basSwordUp&"
+ },
+ "prefixDescS30141": {
+  "en": "Fist &30141_basFistUp&",
+  "ch": "拳法资质&30141_basFistUp&"
+ },
+ "prefixDescS30142": {
+  "en": "Fist &30142_basFistUp&",
+  "ch": "拳法资质&30142_basFistUp&"
+ },
+ "prefixDescS30143": {
+  "en": "Palm &30143_basPalmUp&",
+  "ch": "掌法资质&30143_basPalmUp&"
+ },
+ "prefixDescS30144": {
+  "en": "Palm &30144_basPalmUp&",
+  "ch": "掌法资质&30144_basPalmUp&"
+ },
+ "prefixDescS30145": {
+  "en": "Finger &30145_basFingerUp&",
+  "ch": "指法资质&30145_basFingerUp&"
+ },
+ "prefixDescS30146": {
+  "en": "Finger &30146_basFingerUp&",
+  "ch": "指法资质&30146_basFingerUp&"
+ },
+ "prefixDescS30147": {
+  "en": "Fire Root &30147_basFireUp&",
+  "ch": "火灵根&30147_basFireUp&"
+ },
+ "prefixDescS30148": {
+  "en": "Fire Root &30148_basFireUp&",
+  "ch": "火灵根&30148_basFireUp&"
+ },
+ "prefixDescS30149": {
+  "en": "Water Root &30149_basFrozeUp&",
+  "ch": "水灵根&30149_basFrozeUp&"
+ },
+ "prefixDescS30150": {
+  "en": "Water Root &30150_basFrozeUp&",
+  "ch": "水灵根&30150_basFrozeUp&"
+ },
+ "prefixDescS30151": {
+  "en": "Lightning Root &30151_basThunderUp&",
+  "ch": "雷灵根&30151_basThunderUp&",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "prefixDescS30152": {
+  "en": "Lightning Root &30152_basThunderUp&",
+  "ch": "雷灵根&30152_basThunderUp&",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "prefixDescS30153": {
+  "en": "Wind Root &30153_basWindUp&",
+  "ch": "风灵根&30153_basWindUp&"
+ },
+ "prefixDescS30154": {
+  "en": "Wind Root &30154_basWindUp&",
+  "ch": "风灵根&30154_basWindUp&"
+ },
+ "prefixDescS30155": {
+  "en": "Earth Root &30155_basEarthUp&",
+  "ch": "土灵根&30155_basEarthUp&"
+ },
+ "prefixDescS30156": {
+  "en": "Earth Root &30156_basEarthUp&",
+  "ch": "土灵根&30156_basEarthUp&"
+ },
+ "prefixDescS30157": {
+  "en": "Wood Root &30157_basWoodUp&",
+  "ch": "木灵根&30157_basWoodUp&"
+ },
+ "prefixDescS30159": {
+  "en": "Vitality &30159_hpMaxUp&\nDamage &30159_mspDonw&%",
+  "ch": "体力&30159_hpMaxUp&\n伤害&30159_mspDonw&%"
+ },
+ "prefixDescS30160": {
+  "en": "Vitality &30160_hpMaxUp&\nLuck &30160_luckDonw&",
+  "ch": "体力&30160_hpMaxUp&\n幸运&30160_luckDonw&"
+ },
+ "prefixDescS30161": {
+  "en": "Vitality &30161_hpMaxUp&\nSkill Radius &30161_jnfwUp&",
+  "ch": "体力&30161_hpMaxUp&\n技能范围&30161_jnfwUp&"
+ },
+ "prefixDescS30162": {
+  "en": "Vitality &30162_hpMaxUp&\nLuck &30162_zhshDown&",
+  "ch": "体力&30162_hpMaxUp&\n幸运&30162_zhshDown&"
+ },
+ "prefixDescS30163": {
+  "en": "Vitality &30163_hpMaxUp&",
+  "ch": "体力&30163_hpMaxUp&"
+ },
+ "prefixDescS30164": {
+  "en": "Vitality &30164_hpMaxUp&\nCrit Chance &30164_pfrDown&%",
+  "ch": "体力&30164_hpMaxUp&\n暴击概率&30164_pfrDown&%"
+ },
+ "prefixDescS30165": {
+  "en": "Vitality &30165_hpMaxUp&\nDodge &30165_evadeUp&%",
+  "ch": "体力&30165_hpMaxUp&\n闪避&30165_evadeUp&%"
+ },
+ "prefixDescS30166": {
+  "en": "Vitality &30166_hpMaxUp&\nSkill Duration &30166_jncxUp&%",
+  "ch": "体力&30166_hpMaxUp&\n技能持续时间&30166_jncxUp&%"
+ },
+ "prefixDescS30167": {
+  "en": "Vitality &30167_hpMaxUp&",
+  "ch": "体力&30167_hpMaxUp&"
+ },
+ "prefixDescS30168": {
+  "en": "Vitality &30168_hpMaxUp&\nDodge &30168_evadeDown&%",
+  "ch": "体力&30168_hpMaxUp&\n闪避&30168_evadeDown&%"
+ },
+ "prefixDescS30169": {
+  "en": "Vitality &30169_hpMaxUp&\nCrit Rate &30169_hpRestoreDown&%",
+  "ch": "体力&30169_hpMaxUp&\n暴击倍率&30169_hpRestoreDown&%"
+ },
+ "prefixDescS30170": {
+  "en": "Vitality &30170_hpMaxUp&\nAttack Speed &30170_agileUp&%",
+  "ch": "体力&30170_hpMaxUp&\n攻击速度&30170_agileUp&%"
+ },
+ "prefixDescS30171": {
+  "en": "You will randomly cast an equipped skill upon every picking up of peaches. (Not applicable to continuous, summoning, or charge skills.)",
+  "ch": "拾取桃子时可随机释放一个已装备的非持续施法，召唤或蓄力的技能。"
+ },
+ "prefixDescS30172": {
+  "en": "Monsters have a &30172_luckCoefficient|x#luck|+30172_basicProb|/100|f2&% chance to drop a peach. A higher Luck will grant you an additional drop rate.",
+  "ch": "击杀怪物时有&30172_luckCoefficient|x#luck|+30172_basicProb|/100|f2&%的概率掉落桃子（幸运越高掉落概率越高）"
+ },
+ "prefixDescS30173": {
+  "en": "You may break the pots with one strike. The Vitality recovery from the peach is now a healing over time effect.",
+  "ch": "对罐子一击必杀，拾取桃子时桃子的回复效果变成持续回复"
+ },
+ "prefixDescS302001": {
+  "en": "Skill Damage &302_dmg%1&",
+  "ch": "此技能威力&302_dmg%1&"
+ },
+ "prefixDescS302002": {
+  "en": "Skill Damage &302_dmg%2&\nSword Amount &302_bullet%1&",
+  "ch": "此技能威力&302_dmg%2&\n剑气数量&302_bullet%1&"
+ },
+ "prefixDescS302003": {
+  "en": "Skill Damage &302_dmg%3&\nRange &302_range%1&",
+  "ch": "此技能威力&302_dmg%3&\n射程&302_range%1&"
+ },
+ "prefixDescS302004": {
+  "en": "Skill Damage &302_dmg%4&\nBleed Chance &302_bleedProb%1&%",
+  "ch": "此技能威力&302_dmg%4&\n施加流血的概率&302_bleedProb%1&%"
+ },
+ "prefixDescS302005": {
+  "en": "Skill Damage &302_dmg%5&\nSword Amount &302_bullet%2&",
+  "ch": "此技能威力&302_dmg%5&\n剑气数量&302_bullet%2&"
+ },
+ "prefixDescS302006": {
+  "en": "Projectile Penetrations &302_penetrationNum&",
+  "ch": "此技能穿透次数&302_penetrationNum&"
+ },
+ "prefixDescS302007": {
+  "en": "This skill no longer inflicts Bleed. Instead, it removes all stacks of Slow on enemies hit if they are slowed. Every stack of Slow removed will reduce the skill's Cooldown by &302_cdDown&s",
+  "ch": "此技能命中有减速效果的敌人时，不再施加流血，改为移除敌人身上的所有减速效果，每移除一个效果，立即减少此技能&302_cdDown&秒冷却"
+ },
+ "prefixDescS303001": {
+  "en": "Skill Damage &303_dmg%1&",
+  "ch": "此技能威力&303_dmg%1&"
+ },
+ "prefixDescS303002": {
+  "en": "Skill Damage &303_dmg%2&\nRadius &303_fieldRange%1&",
+  "ch": "此技能威力&303_dmg%2&\n剑雨范围&303_fieldRange%1&"
+ },
+ "prefixDescS303003": {
+  "en": "Skill Damage &303_dmg%3&\nExtra Damage Ratio &303_fieldBonusDmg%1&%",
+  "ch": "此技能威力&303_dmg%3&\n额外伤害比例&303_fieldBonusDmg%1&%"
+ },
+ "prefixDescS303004": {
+  "en": "Skill Damage &303_dmg%4&\nDuration &303_fieldTime%1&s",
+  "ch": "此技能威力&303_dmg%4&\n剑雨持续时间&303_fieldTime%1&秒"
+ },
+ "prefixDescS303005": {
+  "en": "Skill Damage &303_dmg%5&\nCooldown &303_cd%1&",
+  "ch": "此技能威力&303_dmg%5&\n冷却&303_cd%1&"
+ },
+ "prefixDescS303006": {
+  "en": "Skill Damage &303_fieldDmgUp6& for every enemy in its area of effect.",
+  "ch": "范围内每有一个敌人，此技能威力&303_fieldDmgUp6&"
+ },
+ "prefixDescS303007": {
+  "en": "Radius &303_fieldRange%2&. Every &303_mspRequire& Agility will &303_speedToRange& its Radius",
+  "ch": "剑雨范围&303_fieldRange%2&，每有&303_mspRequire&点移动速度，此技能的范围&303_speedToRange&"
+ },
+ "prefixDescS304001": {
+  "en": "Skill Damage &304_dmg%1&",
+  "ch": "此技能威力&304_dmg%1&"
+ },
+ "prefixDescS304002": {
+  "en": "Skill Damage &304_dmg%2&\nBleed Chance &304_bleedProb%1&%",
+  "ch": "此技能威力&304_dmg%2&\n施加流血的概率&304_bleedProb%1&%"
+ },
+ "prefixDescS304003": {
+  "en": "Skill Damage &304_dmg%3&\nCooldown &304_cd%1&s",
+  "ch": "此技能威力&304_dmg%3&\n冷却&304_cd%1&秒"
+ },
+ "prefixDescS304004": {
+  "en": "Skill Damage &304_dmg%4&\nRange &304_range%1&",
+  "ch": "此技能威力&304_dmg%4&\n射程&304_range%1&"
+ },
+ "prefixDescS304005": {
+  "en": "Skill Damage &304_dmg%5&\nSpinning Sword Duration &304_time%1&s",
+  "ch": "此技能威力&304_dmg%5&\n旋转剑持续时间&304_time%1&秒"
+ },
+ "prefixDescS304006": {
+  "en": "Projectiles gain &304_penetrationNum& penetrations",
+  "ch": "此技能的弹道变为可穿透&304_penetrationNum&次"
+ },
+ "prefixDescS304007": {
+  "en": "&304_num%1& Additional Spinning Swords",
+  "ch": "增加&304_num%1&把旋转剑"
+ },
+ "prefixDescS400001": {
+  "en": "Blade and Spear &400001_basUp&.",
+  "ch": "刀、枪资质&400001_basUp&。"
+ },
+ "prefixDescS400002": {
+  "en": "Blade and Sword &400002_basUp&.",
+  "ch": "刀、剑资质&400002_basUp&。"
+ },
+ "prefixDescS400003": {
+  "en": "Spear and Sword &400003_basUp2&.",
+  "ch": "枪、剑资质&400003_basUp2&。"
+ },
+ "prefixDescS400004": {
+  "en": "Blade &400004_basUp&.",
+  "ch": "刀资质&400004_basUp&。"
+ },
+ "prefixDescS400005": {
+  "en": "Spear &400005_basUp2&.",
+  "ch": "枪资质&400005_basUp2&。"
+ },
+ "prefixDescS400006": {
+  "en": "Sword &400006_basUp3&.",
+  "ch": "剑资质&400006_basUp3&。"
+ },
+ "prefixDescS400007": {
+  "en": "Fist and Palm &400007_basUp&.",
+  "ch": "拳、掌资质&400007_basUp&。"
+ },
+ "prefixDescS400008": {
+  "en": "Fist and Finger &400008_basUp&.",
+  "ch": "拳、指资质&400008_basUp&。"
+ },
+ "prefixDescS400009": {
+  "en": "Palm and Finger &400009_basUp2&.",
+  "ch": "掌、指资质&400009_basUp2&。"
+ },
+ "prefixDescS400010": {
+  "en": "Fist &400010_basUp&.",
+  "ch": "拳资质&400010_basUp&。"
+ },
+ "prefixDescS400011": {
+  "en": "Palm &400011_basUp2&.",
+  "ch": "掌资质&400011_basUp2&。"
+ },
+ "prefixDescS400012": {
+  "en": "Finger &400012_basUp3&.",
+  "ch": "指资质&400012_basUp3&。"
+ },
+ "prefixDescS400013": {
+  "en": "Fire and Water roots &400013_basUp&.",
+  "ch": "火、水灵根&400013_basUp&。"
+ },
+ "prefixDescS400014": {
+  "en": "Fire and Lightning roots &400014_basUp&.",
+  "ch": "火、雷灵根&400014_basUp&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "prefixDescS400015": {
+  "en": "Water and Lightning roots &400015_basUp2&.",
+  "ch": "水、雷灵根&400015_basUp2&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "prefixDescS400016": {
+  "en": "Fire Root &400016_basUp&.",
+  "ch": "火灵根&400016_basUp&。"
+ },
+ "prefixDescS400017": {
+  "en": "Water Root &400017_basUp2&.",
+  "ch": "水灵根&400017_basUp2&。"
+ },
+ "prefixDescS400018": {
+  "en": "Lightning Root &400018_basUp3&.",
+  "ch": "雷灵根&400018_basUp3&。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "prefixDescS400019": {
+  "en": "Wind and Earth roots &400019_basUp&.",
+  "ch": "风、土灵根&400019_basUp&。"
+ },
+ "prefixDescS400020": {
+  "en": "Wind and Wood roots &400020_basUp&.",
+  "ch": "风、木灵根&400020_basUp&。"
+ },
+ "prefixDescS400021": {
+  "en": "Earth and Wood roots &400021_basUp2&.",
+  "ch": "土、木灵根&400021_basUp2&。"
+ },
+ "prefixDescS400022": {
+  "en": "Wind Root &400022_basUp&.",
+  "ch": "风灵根&400022_basUp&。"
+ },
+ "prefixDescS400023": {
+  "en": "Earth Root &400023_basUp2&.",
+  "ch": "土灵根&400023_basUp2&。"
+ },
+ "prefixDescS400024": {
+  "en": "Wood Root &400024_basUp3&.",
+  "ch": "木灵根&400024_basUp3&。"
+ },
+ "prefixDescS400025": {
+  "en": "Luck &400025_luckUp&.",
+  "ch": "幸运&400025_luckUp&。"
+ },
+ "prefixDescS400026": {
+  "en": "Range &400026_jnsc&%.",
+  "ch": "射程&400026_jnsc&%。"
+ },
+ "prefixDescS400027": {
+  "en": "Attack Speed &400027_agile&%.",
+  "ch": "攻击速度&400027_agile&%。"
+ },
+ "prefixDescS400028": {
+  "en": "Spawn an egg after every &700179_xdjl& distance moved. The egg will explode after &700179_zbsj&s or upon being touched by an enemy, dealing &700179_bzwl& damage to enemies within its area of effect.",
+  "ch": "每移动&700179_xdjl&距离后在生出一个蛋，蛋出生后&700179_zbsj&秒、或被敌人碰触后将会爆炸，对范围内的所有敌人造成&700179_bzwl&威力的伤害。"
+ },
+ "prefixDescS400029": {
+  "en": "Vitality &400029_hpMaxUp&, Vitality Recovery &400029_hpRestoreUp&, Resistance &400029_pfrUp&.",
+  "ch": "体力&400029_hpMaxUp&，体力恢复&400029_hpRestoreUp&，抗性&400029_pfrUp&。"
+ },
+ "prefixDescS400030": {
+  "en": "Damage Bonus &400030_powerUp&%, Attack Speed &400030_agileUp&%, Agility &400030_mspUp&.",
+  "ch": "伤害加成&400030_powerUp&%，攻击速度&400030_agileUp&%，移动速度&400030_mspUp&。"
+ },
+ "prefixDescS400031": {
+  "en": "Crit Chance &400031_critUp&%, Crit Rate &400031_critVUp&%, Dodge &400031_evadeUp&.",
+  "ch": "暴击概率&400031_critUp&%，暴击倍率&400031_critVUp&%，闪避&400031_evadeUp&。"
+ },
+ "prefixDescS400032": {
+  "en": "Luck &400032_luckUp&.",
+  "ch": "幸运&400032_luckUp&。"
+ },
+ "prefixDescS400033": {
+  "en": "Vitality &400033_hpMaxUp&, Damage Bonus &400033_powerUp&%.",
+  "ch": "体力&400033_hpMaxUp&，伤害加成&400033_powerUp&%。"
+ },
+ "prefixDescS400034": {
+  "en": "Vitality &400034_hpMaxUp&, Agility &400034_mspUp&.",
+  "ch": "体力&400034_hpMaxUp&，移速&400034_mspUp&。"
+ },
+ "prefixDescS400035": {
+  "en": "Damage Bonus &400035_powerUp&%, Agility &400035_mspUp&.",
+  "ch": "伤害加成&400035_powerUp&%，移速&400035_mspUp&。"
+ },
+ "prefixDescS400036": {
+  "en": "Vitality &400036_hpMaxUp&.",
+  "ch": "体力&400036_hpMaxUp&。"
+ },
+ "prefixDescS400037": {
+  "en": "Damage Bonus &400037_powerUp&%.",
+  "ch": "伤害加成&400037_powerUp&%。"
+ },
+ "prefixDescS400038": {
+  "en": "Agility &400038_mspUp&.",
+  "ch": "移速&400038_mspUp&。"
+ },
+ "prefixDescS400039": {
+  "en": "Vitality Restoration &400039_hpRestoreUp&, Attack Speed &400039_agileUp&%.",
+  "ch": "体力回复&400039_hpRestoreUp&，攻击速度&400039_agileUp&%。"
+ },
+ "prefixDescS400040": {
+  "en": "Vitality Restoration &400040_hpRestoreUp&, Crit Rate &400040_critVUp&%.",
+  "ch": "体力回复&400040_hpRestoreUp&，暴击倍率&400040_critVUp&%。"
+ },
+ "prefixDescS400041": {
+  "en": "Attack Speed &400041_agileUp&%, Crit Rate &400041_critVUp&%.",
+  "ch": "攻击速度&400041_agileUp&%，暴击倍率&400041_critVUp&%。"
+ },
+ "prefixDescS400042": {
+  "en": "Vitality Restoration &400042_hpRestoreUp&.",
+  "ch": "体力回复&400042_hpRestoreUp&。"
+ },
+ "prefixDescS400043": {
+  "en": "Attack Speed &400043_agileUp&%.",
+  "ch": "攻击速度&400043_agileUp&%。"
+ },
+ "prefixDescS400044": {
+  "en": "Crit Rate &400044_critVUp&%.",
+  "ch": "暴击倍率&400044_critVUp&%。"
+ },
+ "prefixDescS400045": {
+  "en": "Resistance &400045_pfrUp&, Dodge &400045_evadeUp&.",
+  "ch": "抗性&400045_pfrUp&，闪避&400045_evadeUp&。"
+ },
+ "prefixDescS400046": {
+  "en": "Resistance &400046_pfrUp&, Crit Chance &400046_critUp&%.",
+  "ch": "抗性&400046_pfrUp&，暴击概率&400046_critUp&%。"
+ },
+ "prefixDescS400047": {
+  "en": "Dodge &400047_evadeUp&, Crit Chance &400047_critUp&%.",
+  "ch": "闪避&400047_evadeUp&，暴击概率&400047_critUp&%。"
+ },
+ "prefixDescS400048": {
+  "en": "Resistance &400048_pfrUp&.",
+  "ch": "抗性&400048_pfrUp&。"
+ },
+ "prefixDescS400049": {
+  "en": "Dodge &400049_evadeUp&.",
+  "ch": "闪避&400049_evadeUp&。"
+ },
+ "prefixDescS400050": {
+  "en": "Crit Chance &400050_critUp&%.",
+  "ch": "暴击概率&400050_critUp&%。"
+ },
+ "prefixDescS400051": {
+  "en": "Vitality &400051_hpMaxUp&.",
+  "ch": "体力&400051_hpMaxUp&。"
+ },
+ "prefixDescS400052": {
+  "en": "Vitality Restoration &400052_hpRestoreUp&.",
+  "ch": "体力回复&400052_hpRestoreUp&。"
+ },
+ "prefixDescS400053": {
+  "en": "Resistance &400053_pfrUp&.",
+  "ch": "抗性&400053_pfrUp&。"
+ },
+ "prefixDescS400054": {
+  "en": "Damage Bonus &400054_powerUp&%.",
+  "ch": "伤害加成&400054_powerUp&%。"
+ },
+ "prefixDescS400055": {
+  "en": "Attack Speed &400055_agileUp&%.",
+  "ch": "攻击速度&400055_agileUp&%。"
+ },
+ "prefixDescS400056": {
+  "en": "Agility &400056_mspUp&.",
+  "ch": "移动速度&400056_mspUp&。"
+ },
+ "prefixDescS400057": {
+  "en": "Crit Chance &400057_critUp&%.",
+  "ch": "暴击概率&400057_critUp&%。"
+ },
+ "prefixDescS400058": {
+  "en": "Crit Rate &400058_critVUp&%.",
+  "ch": "暴击倍率&400058_critVUp&%。"
+ },
+ "prefixDescS400059": {
+  "en": "Dodge &400059_evadeUp&.",
+  "ch": "闪避&400059_evadeUp&。"
+ },
+ "prefixDescS400060": {
+  "en": "Vitality &400060_hpMaxUp&, Vitality Recovery &400060_hpRestoreUp&, Resistance &400060_pfrUp&.",
+  "ch": "体力&400060_hpMaxUp&，体力恢复&400060_hpRestoreUp&，抗性&400060_pfrUp&。"
+ },
+ "prefixDescS400061": {
+  "en": "Damage Bonus &400061_powerUp&%, Attack Speed &400061_agileUp&%, Agility &400061_mspUp&.",
+  "ch": "伤害加成&400061_powerUp&%，攻击速度&400061_agileUp&%，移动速度&400061_mspUp&。"
+ },
+ "prefixDescS400062": {
+  "en": "Crit Chance &400062_critUp&%, Crit Rate &400062_critVUp&%, Dodge &400062_evadeUp&.",
+  "ch": "暴击概率&400062_critUp&%，暴击倍率&400062_critVUp&%，闪避&400062_evadeUp&。"
+ },
+ "prefixDescS400063": {
+  "en": "Skill Radius &400063_jnfwUp&%.",
+  "ch": "技能范围&400063_jnfwUp&%。"
+ },
+ "prefixDescS400064": {
+  "en": "Skill Duration &400064_jncxUp&%.",
+  "ch": "技能持续时间&400064_jncxUp&%。"
+ },
+ "prefixDescS400065": {
+  "en": "Projectile Range &400065_jnscUp&%.",
+  "ch": "弹道射程&400065_jnscUp&%。"
+ },
+ "prefixDescS400066": {
+  "en": "Summoned Unit Damage Bonus &400066_zhshUp&%.",
+  "ch": "召唤物伤害加成&400066_zhshUp&%。"
+ },
+ "prefixDescS400067": {
+  "en": "Summoned Unit Duration &400067_zhsjUp&%.",
+  "ch": "召唤物持续时间&400067_zhsjUp&%。"
+ },
+ "prefixDescS400068": {
+  "en": "Summoned Unit Attack Speed &400068_zhgjsdUp&%.",
+  "ch": "召唤物攻击速度&400068_zhgjsdUp&%。"
+ },
+ "prefixDescS400069": {
+  "en": "Skill Radius &400069_jnfwUp&%.",
+  "ch": "技能范围&400069_jnfwUp&%。"
+ },
+ "prefixDescS400070": {
+  "en": "Skill Duration &400070_jncxUp&%.",
+  "ch": "技能持续时间&400070_jncxUp&%。"
+ },
+ "prefixDescS400071": {
+  "en": "Projectile Range &400071_jnscUp&%.",
+  "ch": "弹道射程&400071_jnscUp&%。"
+ },
+ "prefixDescS400072": {
+  "en": "Summoned Unit Damage Bonus &400072_zhshUp&%.",
+  "ch": "召唤物伤害加成&400072_zhshUp&%。"
+ },
+ "prefixDescS400073": {
+  "en": "Summoned Unit Duration &400073_zhsjUp&%.",
+  "ch": "召唤物持续时间&400073_zhsjUp&%。"
+ },
+ "prefixDescS400074": {
+  "en": "Summoned Unit Attack Speed &400074_zhgjsdUp&%.",
+  "ch": "召唤物攻击速度&400074_zhgjsdUp&%。"
+ },
+ "prefixDescS400075": {
+  "en": "Skill Radius &400075_jnfwUp&%, Skill Duration &400075_jncxUp&%.",
+  "ch": "技能范围&400075_jnfwUp&%，技能持续时间&400075_jncxUp&%。"
+ },
+ "prefixDescS400076": {
+  "en": "Skill Radius &400076_jnfwUp&%, Projectile Range &400076_jnscUp&%.",
+  "ch": "技能范围&400076_jnfwUp&%，弹道射程&400076_jnscUp&%。"
+ },
+ "prefixDescS400077": {
+  "en": "Skill Duration &400077_jncxUp&%, Projectile Range &400077_jnscUp&%.",
+  "ch": "技能持续时间&400077_jncxUp&%，弹道射程&400077_jnscUp&%。"
+ },
+ "prefixDescS400078": {
+  "en": "Summoned Unit Damage Bonus &400078_zhshUp&%, Summoned Unit Duration &400078_zhsjUp&%.",
+  "ch": "召唤物伤害加成&400078_zhshUp&%，召唤物持续时间&400078_zhsjUp&%。"
+ },
+ "prefixDescS400079": {
+  "en": "Summoned Unit Damage Bonus &400079_zhshUp&%, Summoned Unit Attack Speed &400079_zhgjsdUp&%.",
+  "ch": "召唤物伤害加成&400079_zhshUp&%，召唤物攻击速度&400079_zhgjsdUp&%。"
+ },
+ "prefixDescS400080": {
+  "en": "Summoned Unit Duration &400080_zhsjUp&%, Summoned Unit Attack Speed &400080_zhgjsdUp&%.",
+  "ch": "召唤物持续时间&400080_zhsjUp&%，召唤物攻击速度&400080_zhgjsdUp&%。"
+ },
+ "prefixDescS401001": {
+  "en": "Skill Damage &401_dmg%1&",
+  "ch": "此技能威力&401_dmg%1&"
+ },
+ "prefixDescS401002": {
+  "en": "Skill Damage &401_dmg%2&\nShield HP &401_shield%1&",
+  "ch": "此技能威力&401_dmg%2&\n获得护盾&401_shield%1&"
+ },
+ "prefixDescS401003": {
+  "en": "Skill Damage &401_dmg%3&\nCooldown &401_cd%1&s",
+  "ch": "此技能威力&401_dmg%3&\n冷却&401_cd%1&秒"
+ },
+ "prefixDescS401004": {
+  "en": "Skill Damage &401_dmg%4&\nFist Amount &401_bullet%1&",
+  "ch": "此技能威力&401_dmg%4&\n拳影数量&401_bullet%1&"
+ },
+ "prefixDescS401005": {
+  "en": "Skill Damage &401_dmg%5&\nShield Chance &401_shieldProb%1&%",
+  "ch": "此技能威力&401_dmg%5&\n获得护盾概率&401_shieldProb%1&%"
+ },
+ "prefixDescS401006": {
+  "en": "&401_passiveProb&% chance to cast the skill instantly upon being hit. (Trigger at max 5 times per second)",
+  "ch": "每次受到伤害时，有&401_passiveProb&%的概率立即使用一次此技能（每秒最多触发5次）"
+ },
+ "prefixDescS401007": {
+  "en": "Every &401_shieldLost& Shield HP lost (either from damage and from the cost of other skills) will grant the skill &401_rangeUp& extra Range and &401_critUp&% extra Crit Chance upon its next cast",
+  "ch": "每损失&401_shieldLost&点护盾（无论是受伤消耗还是其它技能消耗），下次使用此技能时，射程&401_rangeUp&，暴击概率&401_critUp&%"
+ },
+ "prefixDescS402001": {
+  "en": "Skill Damage &402_dmg%1&",
+  "ch": "此技能威力&402_dmg%1&"
+ },
+ "prefixDescS402002": {
+  "en": "Skill Damage &402_dmg%2&\nShield HP per Second: &402_shield%1&",
+  "ch": "此技能威力&402_dmg%2&\n每秒获得护盾值&402_shield%1&"
+ },
+ "prefixDescS402003": {
+  "en": "Skill Damage &402_dmg%3&\nCooldown &402_cd%1&s",
+  "ch": "此技能威力&402_dmg%3&\n冷却&402_cd%1&秒"
+ },
+ "prefixDescS402004": {
+  "en": "Skill Damage &402_dmg%4&\nBlast Range &402_range%1&",
+  "ch": "此技能威力&402_dmg%4&\n灵爆范围&402_range%1&"
+ },
+ "prefixDescS402005": {
+  "en": "&402_dmgUp& Skill Damage for every &402_hpLost&% current Vitality lost",
+  "ch": "当前每缺失&402_hpLost&%的体力，此技能威力&402_dmgUp&"
+ },
+ "prefixDescS402006": {
+  "en": "&402_shieldReturn&% Shield HP cost will be refunded right after cast",
+  "ch": "此技能在消耗护盾后，立即返还&402_shieldReturn&%消耗的护盾"
+ },
+ "prefixDescS402007": {
+  "en": "This skill may cost &402_hpCost&% Max Vitality if Vitality is above &402_hpRequire&%. The skill's damage will &402_hpToDmg&% for every 3 Vitality cost",
+  "ch": "当体力大于&402_hpRequire&%时，可消耗&402_hpCost&%的最大体力，每消耗3点体力，伤害&402_hpToDmg&%"
+ },
+ "prefixDescS403001": {
+  "en": "Skill Damage &403_dmg%1&",
+  "ch": "此技能威力&403_dmg%1&"
+ },
+ "prefixDescS403002": {
+  "en": "Skill Damage &403_dmg%2&\nCooldown &403_cd%1&s",
+  "ch": "此技能威力&403_dmg%2&\n冷却&403_cd%1&秒"
+ },
+ "prefixDescS403003": {
+  "en": "Skill Damage &403_dmg%3&\nBlocks &403_block%1&",
+  "ch": "此技能威力&403_dmg%3&\n抵挡弹道伤害次数&403_block%1&"
+ },
+ "prefixDescS403004": {
+  "en": "Skill Damage &403_dmg%4&\nDuration &403_shieldTime%1&",
+  "ch": "此技能威力&403_dmg%4&\n盾影持续时间&403_shieldTime%1&"
+ },
+ "prefixDescS403005": {
+  "en": "Skill Damage &403_dmg%5&\nShield Circling Speed &403_shieldRotateSpeedUp&%",
+  "ch": "此技能威力&403_dmg%5&\n盾影的环绕速度&403_shieldRotateSpeedUp&%"
+ },
+ "prefixDescS403006": {
+  "en": "Create another layer of circling shields at &403_range|+100|f0& distance away",
+  "ch": "在距离&403_range|+100|f0&的位置再加一层盾影"
+ },
+ "prefixDescS403007": {
+  "en": "Release a shield blast to enemies. Trigger at max 2 times per second",
+  "ch": "向敌人发射一道盾影冲击，每秒最多可触发2次"
+ },
+ "prefixDescS410001": {
+  "en": "Max Vitality &410001_carrotHp&",
+  "ch": "最大体力&410001_carrotHp&"
+ },
+ "prefixDescS410002": {
+  "en": "Restore &410002_carrotRecoverHP&% Vitality every &410002_carrotRecoverCD&s",
+  "ch": "每&410002_carrotRecoverCD&秒回复&410002_carrotRecoverHP&%体力"
+ },
+ "prefixDescS410003": {
+  "en": "Vitality Restoration &20102_hpRestoreDown&. Max Vitality &20102_hpMaxUp& after entering battle (will not affect Current Vitality), character size &20102_modelSizeUp|+100|f0&%",
+  "ch": "体力回复&20102_hpRestoreDown&。进入战斗后，最大体力&20102_hpMaxUp&（当前体力不变），体型大小改为&20102_modelSizeUp|+100|f0&%"
+ },
+ "prefixDescS410004": {
+  "en": "Attack Speed &410004_agileUp&%",
+  "ch": "攻击速度&410004_agileUp&%"
+ },
+ "prefixDescS410005": {
+  "en": "Jo's Flying Sword III Acquired",
+  "ch": "领悟大李飞剑",
+  "nomes": {
+   "Jo's Flying Sword III": "Espada Voadora do Jo III",
+   "Flying Sword": "Espada Voadora"
+  }
+ },
+ "prefixDescS410006": {
+  "en": "EXP Gained &410006_expUp&%",
+  "ch": "修为获取&410006_expUp&%"
+ },
+ "prefixDescS410008": {
+  "en": "After every 10 blocks, your shield will release a shockwave that deals damage to enemies on the battlefield, reducing their Damage by &700012_jdsh&% and their Agility by &700011_jdys&% for &700012_jdsj&s. Can be triggered once every &700012_shockCD&s.",
+  "ch": "盾牌每抵挡10次伤害，会发射一道震波，对场上所有敌人造成伤害，使敌人造成的伤害降低&700012_jdsh&%、减速&700011_jdys&%效果，持续&700012_jdsj&秒。（每&700012_shockCD&秒最多触发1次）"
+ },
+ "prefixDescS501001": {
+  "en": "Skill Damage &501_dmg%1&",
+  "ch": "此技能威力&501_dmg%1&"
+ },
+ "prefixDescS501002": {
+  "en": "Skill Damage &501_dmg%2&\nRange &501_range%1&",
+  "ch": "此技能威力&501_dmg%2&\n射程&501_range%1&"
+ },
+ "prefixDescS501003": {
+  "en": "Skill Damage &501_dmg%3&\nCooldown &501_cd%2&s",
+  "ch": "此技能威力&501_dmg%3&\n冷却&501_cd%2&秒"
+ },
+ "prefixDescS501004": {
+  "en": "Skill Damage &501_dmg%4&\nCooldown &501_cd%1&s",
+  "ch": "此技能威力&501_dmg%4&\n冷却&501_cd%1&秒"
+ },
+ "prefixDescS501005": {
+  "en": "Skill Damage &501_dmg%5&\nPalm Wind Damage &501_windRealDmg%1&%",
+  "ch": "此技能威力&501_dmg%5&\n掌风伤害&501_windRealDmg%1&%",
+  "nomes": {
+   "Palm Wind": "Vento da Palma"
+  }
+ },
+ "prefixDescS501006": {
+  "en": "Generate 2 Palm Winds in series\nRange of the second Palm Wind &501_windSizeUp&",
+  "ch": "此技能可连续生成2道掌风\n第2道掌风的范围&501_windSizeUp&",
+  "nomes": {
+   "Palm Wind": "Vento da Palma"
+  }
+ },
+ "prefixDescS501007": {
+  "en": "Projectile Penetrations &501_penetrationNum&\nNo longer generate Palm Winds upon hitting enemies. Instead, a Palm Wind will generate after every &501_wind3Space& distance the projectile moved",
+  "ch": "此弹道的穿透次数&501_penetrationNum&\n命中敌人后不再生成掌风，改为每前进&501_wind3Space&距离自动生成一道掌风",
+  "nomes": {
+   "Palm Wind": "Vento da Palma"
+  }
+ },
+ "prefixDescS502001": {
+  "en": "Skill Damage &502_dmg%1&",
+  "ch": "此技能威力&502_dmg%1&"
+ },
+ "prefixDescS502002": {
+  "en": "Skill Damage &502_dmg%2&\nPalm Marks &502_waveNum%1&",
+  "ch": "此技能威力&502_dmg%2&\n掌波&502_waveNum%1&"
+ },
+ "prefixDescS502003": {
+  "en": "Skill Damage &502_dmg%3&\nCharging Time: &502_chargeCoefficient%1&%\nDouble Projectile Amount in Charging",
+  "ch": "此技能威力&502_dmg%3&\n蓄力时间&502_chargeCoefficient%1&%\n蓄力时的弹道数量翻倍"
+ },
+ "prefixDescS502004": {
+  "en": "Skill Damage &502_dmg%4&\nRange &502_range%1&",
+  "ch": "此技能威力&502_dmg%4&\n射程&502_range%1&"
+ },
+ "prefixDescS502005": {
+  "en": "Skill Damage &502_dmg%5&\nAgility &502_speedUp&% after charging for &502_speedUpTime%1&s",
+  "ch": "此技能威力&502_dmg%5&\n蓄力施放此技能后，移动速度&502_speedUp&%，持续&502_speedUpTime%1&秒"
+ },
+ "prefixDescS502006": {
+  "en": "This skill will inflict an Internal Injury on enemies hit. Internal Injury lasts for &502_injuryTime&s, stackable at max &502_injurySuperposition& stacks\nWhen an enemy with Internal Injury takes Palm damage, they will also take fixed damage of Internal Injury stacks *&502_injuryDmg&",
+  "ch": "此技能在命中敌人时，可对其施加一层内伤（持续&502_injuryTime&秒，最多可叠加&502_injurySuperposition&层\n有内伤的敌人受到掌法伤害时，会额外受到层数*&502_injuryDmg&的固定伤害）",
+  "nomes": {
+   "Internal Injury": "Ferimento Interno"
+  }
+ },
+ "prefixDescS502007": {
+  "en": "This skill's Cooldown &502_reduceCurrentCD&s after every cast of Charge Skills",
+  "ch": "每施放一次蓄力技能，此技能的冷却时间立即&502_reduceCurrentCD&秒"
+ },
+ "prefixDescS503001": {
+  "en": "Skill Damage &503_dmg%1&",
+  "ch": "此技能威力&503_dmg%1&"
+ },
+ "prefixDescS503002": {
+  "en": "Skill Damage &503_dmg%2&\nInitial Palm Marks &503_bulletNum%1&",
+  "ch": "此技能威力&503_dmg%2&\n初始掌印数&503_bulletNum%1&"
+ },
+ "prefixDescS503003": {
+  "en": "Skill Damage &503_dmg%3&\nCooldown &503_cd%1&s",
+  "ch": "此技能威力&503_dmg%3&\n冷却&503_cd%1&秒"
+ },
+ "prefixDescS503004": {
+  "en": "Skill Damage &503_dmg%4&\nCharging Time &503_chargeCoefficient%1&%\nDouble Palm Marks from Charging",
+  "ch": "此技能威力&503_dmg%4&\n蓄力时间&503_chargeCoefficient%1&%\n蓄力时增加的掌印数量翻倍"
+ },
+ "prefixDescS503005": {
+  "en": "Skill Damage &503_dmg%5&\nPalm Mark Size &503_dmgRangeCoefficient%1&%",
+  "ch": "此技能威力&503_dmg%5&\n掌印大小&503_dmgRangeCoefficient%1&%"
+ },
+ "prefixDescS503006": {
+  "en": "Generate a Palm Wind at the character's location every &503_windCD&s of cast. Palm Wind Size &501_windSize1%1& for &503_windTime&s",
+  "ch": "使用技能时，每&503_windCD&秒在自身脚下生成一道掌风，且生成的掌风范围&501_windSize1%1&，持续&503_windTime&秒",
+  "nomes": {
+   "Palm Wind": "Vento da Palma"
+  }
+ },
+ "prefixDescS503007": {
+  "en": "This skill will inflict an Internal Injury on enemies hit. Internal Injury lasts for &502_injuryTime&s, stackable at max &502_injurySuperposition& stacks\nWhen an enemy with Internal Injury takes Palm damage, they will also take fixed damage of Internal Injury stacks *&502_injuryDmg&",
+  "ch": "此技能在命中敌人时，可对其施加一层内伤（持续&502_injuryTime&秒，最多可叠加&502_injurySuperposition&层\n有内伤的敌人受到掌法伤害时，会额外受到层数*&502_injuryDmg&的固定伤害）",
+  "nomes": {
+   "Internal Injury": "Ferimento Interno"
+  }
+ },
+ "prefixDescS601001": {
+  "en": "Skill Damage &601_dmg%1&",
+  "ch": "此技能威力&601_dmg%1&"
+ },
+ "prefixDescS601002": {
+  "en": "Skill Damage &601_dmg%2&\nFinger Shadow Amount &601_num%1&",
+  "ch": "此技能威力&601_dmg%2&\n指影数量&601_num%1&"
+ },
+ "prefixDescS601003": {
+  "en": "Skill Damage &601_dmg%3&\nCooldown &601_cd%1&s",
+  "ch": "此技能威力&601_dmg%3&\n冷却&601_cd%1&秒"
+ },
+ "prefixDescS601004": {
+  "en": "Skill Damage &601_dmg%4&\nDouble Blast Damage from Spirit Seals",
+  "ch": "此技能威力&601_dmg%4&\n封灵引发的灵爆伤害翻倍"
+ },
+ "prefixDescS601005": {
+  "en": "Skill Damage &601_dmg%5&\nBlast Radius &601_sealBlastField%1&",
+  "ch": "此技能威力&601_dmg%5&\n封灵引发的灵爆范围&601_sealBlastField%1&"
+ },
+ "prefixDescS601006": {
+  "en": "Spirit Blast may also be triggered after &601_blastLag&s of inflicting Spirit Seal, but the effect will be removed after it",
+  "ch": "封灵效果不需要敌人死亡时才引发，而是在施加后的&601_blastLag&秒也可引发（引发后移除封灵效果）"
+ },
+ "prefixDescS601007": {
+  "en": "This skill always deals Crit damage to enemies with Spirit Seal",
+  "ch": "此技能对封灵的敌人必定暴击"
+ },
+ "prefixDescS602001": {
+  "en": "Skill Damage &602_dmg%1&",
+  "ch": "此技能威力&602_dmg%1&"
+ },
+ "prefixDescS602002": {
+  "en": "Skill Damage &602_dmg%2&\nCooldown &602_cd%1&s",
+  "ch": "此技能威力&602_dmg%2&\n冷却&602_cd%1&秒"
+ },
+ "prefixDescS602003": {
+  "en": "Skill Damage &602_dmg%3&\nSpirit Orbs &602_num%1&",
+  "ch": "此技能威力&602_dmg%3&\n灵球数量&602_num%1&"
+ },
+ "prefixDescS602004": {
+  "en": "Skill Damage &602_dmg%4&\nHalf Blast Delay",
+  "ch": "此技能威力&602_dmg%4&\n灵爆延迟时间减半"
+ },
+ "prefixDescS602005": {
+  "en": "Skill Damage &602_dmg%5&\nBlast Radius &602_ballField%1&",
+  "ch": "此技能威力&602_dmg%5&\n灵爆范围&602_ballField%1&"
+ },
+ "prefixDescS602006": {
+  "en": "Every Blast triggered in this battle will grant the skill &602_blastToDmgUp& damage, effective to the end of the battle.",
+  "ch": "在本场战斗中，每生成过一次灵爆，此技能的威力&602_blastToDmgUp&，直到本场战斗结束"
+ },
+ "prefixDescS602007": {
+  "en": "The Spirit Orbs will explode in a cross pattern",
+  "ch": "此技能改为十字灵爆"
+ },
+ "prefixDescS603001": {
+  "en": "Skill Damage &603_dmg%1&",
+  "ch": "此技能威力&603_dmg%1&"
+ },
+ "prefixDescS603002": {
+  "en": "Skill Damage &603_dmg%2&\nCooldown &603_cd%1&s",
+  "ch": "此技能威力&603_dmg%2&\n冷却&603_cd%1&秒"
+ },
+ "prefixDescS603003": {
+  "en": "Skill Damage &603_dmg%3&\nRange &603_range%1&",
+  "ch": "此技能威力&603_dmg%3&\n射程&603_range%1&"
+ },
+ "prefixDescS603004": {
+  "en": "Skill Damage &603_dmg%4&\nDuration &603_time%1&s",
+  "ch": "此技能威力&603_dmg%4&\n持续时间&603_time%1&秒"
+ },
+ "prefixDescS603005": {
+  "en": "Skill Damage &603_dmg%5&\nDamage per Second &603_dmgUpRate%1&%",
+  "ch": "此技能威力&603_dmg%5&\n持续时间内，每秒的伤害&603_dmgUpRate%1&%"
+ },
+ "prefixDescS603006": {
+  "en": "&603_blastSwitch%1&% chance to trigger a Blast upon inflicting damage with the skill, dealing damage equal to &603_blastDmg&% of the skill in &603_blastRange& Radius. (Trigger at max 5 times per second)",
+  "ch": "此技能在造成伤害时，有&603_blastSwitch%1&%的概率引发一次灵爆（范围&603_blastRange&，威力为此技能的&603_blastDmg&%，每秒最多触发5次）"
+ },
+ "prefixDescS603007": {
+  "en": "Every Blast triggered in this battle will grant the skill &603_blastToDmgUp& damage, effective to the end of the battle.",
+  "ch": "在本场战斗中，每生成过一次灵爆，此技能的威力&603_blastToDmgUp&，直到本场战斗结束"
+ },
+ "role_feature_congenital_intro1001": {
+  "en": "You were born with a remarkable physique. Blessed with strong muscles and unbreakable bones, you were never heavily injured. Your workout habit has only made you even stronger over time.",
+  "ch": "你从小身强体壮，骨骼惊奇。强大的体魄与坚硬的骨骼让你从未受过重伤，长期的锻炼也让你的身体越来越强。"
+ },
+ "role_feature_congenital_intro1002": {
+  "en": "You've always had trouble controlling your energy. The constant feeling that you can't contain it is a reminder that you have a much higher energy level than ordinary people.",
+  "ch": "从小你就没有办法控制好自己的灵力。时不时就喷涌而出需要进行压制的感觉都在告诉你，你身体中的能量异于常人。"
+ },
+ "role_feature_congenital_intro1003": {
+  "en": "You almost feel like everyone is blind except you. You see things other can't, like the ant nest on the wall of the neighboring tavern or the hairstyle of the birds flying in the sky. In combat, it's also easier for you to see your opponents' weaknesses.",
+  "ch": "你差点就认为世界上除了你自己，所有人都是瞎子。你能看到常人所不能看到的细节，你能够看到隔壁小镇酒馆砖墙上的蚂蚁窝，也能够看清天空中燕雀的发型。在战斗中，你更容易看清敌人的弱点。"
+ },
+ "role_feature_congenital_intro1004": {
+  "en": "You have a unique understanding of movement. No matter the destination, you always arrive the earliest. You're known to be the fastest person in town.",
+  "ch": "你对于移动的方式有着自己独特的理解，你永远都能够快人一步到达目的地，最速之人的名号在你的家乡无人不知无人不晓。"
+ },
+ "role_feature_congenital_intro1005": {
+  "en": "Your face was wounded in an accident. Now, the only expression on your face is a smile. People laugh at you for it and treat you like a clown. But none of that ever stopped you from doing the right thing.",
+  "ch": "你的面容受到过破坏，只能呈现微笑，这使得你受人污辱，像小丑一样被人“欢迎”但你仍然坚持心中的正义"
+ },
+ "role_feature_congenital_intro1006": {
+  "en": "You're blessed with natural beauty, which makes you the center of attention wherever you go. Your gentle temperament and elegant manner further increase your popularity.",
+  "ch": "你生的眉清目秀、丽质天成，无论走到什么地方都是人们关注的焦点。加上你性情温柔，举止优雅，深受所有人的喜爱。"
+ },
+ "role_feature_congenital_intro1101": {
+  "en": "You don't panic about anything. No amount of pressure will ever faze you. People in your village like your composed manner.",
+  "ch": "一直以来你养成了一个习惯，遇到什么事情都不会慌张。这种泰山崩于前，而面不改色的气质，让你在村里倍受好评。"
+ },
+ "role_feature_congenital_intro1102": {
+  "en": "When you were little, you had a chance to have a broad bean snack. Since then, its anise flavor has stuck in your head. You love it so much that wherever you go now, you keep some beans in your pocket.",
+  "ch": "你小时候，在村口酒楼吃上一口茴香豆，从那以后你就再也忘不了那种味道。口袋里总是少不了一把茴香豆，并且逢人就问茴香豆的茴字有几种写法。"
+ },
+ "role_feature_congenital_intro1103": {
+  "en": "Everyone in your family lives a long life. You grandma, for example, lived 150 years. Perhaps it's because of your longevity genes that you've always been healthy.",
+  "ch": "你的家族一直都很长寿，你的奶奶居然活到了150多岁，被当地人传为佳话。或许是这个原因，你从小就很强壮，不怎么生病。"
+ },
+ "role_feature_congenital_intro1104": {
+  "en": "You were born with a congenital disorder. It was so serious a condition that your doctor only gave you 30 years to live. Though sickly and weak child from birth, you're blessed with a natural ability to learn things quickly.",
+  "ch": "你从出生时便患有先天顽疾，大夫断你绝活不过30岁。你常年体弱多病，但你天资过人，无论学习什么都能够轻易的融会贯通。"
+ },
+ "role_feature_congenital_intro1105": {
+  "en": "Both your parents died shortly after you were born. Those close to you, plants or people, all died quickly. Over time, no one dared get near you. This caused hatred to accumulate inside you. In this chaotic world, you're more ruthless than others.",
+  "ch": "你出生时父母双亡，方圆十里寸草不生，所有与你亲近的人最后都会身亡，久而久之，周围不再有人与你亲近。你从小仇天恨地，攻击性比较强。在乱世中摸爬滚打，使你下手比别人更狠。"
+ },
+ "role_feature_congenital_intro1106": {
+  "en": "You love to fight. You're good at it, too. Your extraordinary combat skills and experience allow you to win almost every time.",
+  "ch": "你非常喜欢战斗，拥有超越绝大多数人的战斗熟练度，身经百战的你在与战斗中总是能以老辣的经验轻取胜利。"
+ },
+ "role_feature_congenital_intro1201": {
+  "en": "You're aggressive and easy to anger. When you lose your head, you tend to say things without thinking. Others will then use the flaws in your arguments to attack you, which makes you angrier. And a vicious cycle begins...",
+  "ch": "你的性格比较有攻击性，容易发火，这往往会让别人抓住你言辞上的漏洞进行反击。于是你更加恼怒，变得口不择言。这是一个死循环，但是非常难改。"
+ },
+ "role_feature_congenital_intro1202": {
+  "en": "You learned woodworking from Wang in the neighboring village. He taught you that a good carpenter must have keen eyes, dexterous hands, quick thinking, and patience.",
+  "ch": "你跟着隔壁村的老王学了一手木工活，老王一直教导你，做木工眼要准，手要勤，脑要活，慢工才能出细活。"
+ },
+ "role_feature_congenital_intro1203": {
+  "en": "Your grandpa taught you how to butcher a pig. He believed it's a livelihood you could always rely on to put food on the table. After years of practice, you're now a skilled butcher who can kill a fat pig with one clean cut.",
+  "ch": "你曾经和你爷爷学习过如何屠猪。你爷爷说，有了这门技艺，以后不愁饿死。经过几年的实操，你已达到了可以只用一刀就可以放倒一头大肥猪的境界。"
+ },
+ "role_feature_congenital_intro1204": {
+  "en": "You truly believe you're the strongest in the world and that no one comes close to your strength. Your attacks are decisive and ruthless, but, at the same time, leave many openings for your opponents. Others are annoyed by your arrogance.",
+  "ch": "你从来不把任何对手放在眼里，坚信自己天下第一，出手果断且凌厉！这让你浑身都是破绽，并且你的为人也让身边的人对你产生反感。"
+ },
+ "role_feature_congenital_intro1301": {
+  "en": "You've always been the rebellious type. You must do things your way and refuse to be restrained. You took a beating when you were little, but it never changed you. You laugh at the consequences of your reckless behavior without considering others' feelings.",
+  "ch": "你天生就倔，做事随心所欲，不愿意被约束。这让你从小就挨打，但是依然改不了。干了坏事，你还偷着乐，不管他人感受。"
+ },
+ "role_feature_congenital_intro1302": {
+  "en": "Perhaps influenced by the old scholar in your village, you grew up to be an upstanding person who would despise anything dishonorable. You always try to do the right thing, and others respect you for that.",
+  "ch": "不知道是不是受到村里老学究的影响，你为人特别正直，看不惯苟且之人。一切事情，都要谈谈正义与否，这让其它人对你非常友好。"
+ },
+ "role_feature_congenital_intro1303": {
+  "en": "You were born a meatball, which terrified your whole village. It was a stormy day. Murky clouds covered the whole sky, and the roof of your house was struck by lightning many times. When you were 5, your village chief was scared to death when he saw you lifting a millstone. No one in your village likes you, but you couldn't care less what others think of you. You know what you want.",
+  "ch": "你生下来的时候是个黑肉球，差点吓坏了全村人。那天天空乌云密布，电闪雷鸣，闪电击中你家屋顶好几次。五岁时，你就可以举起村口的大石磨，吓死了村长。村里人都不喜欢你，你性格怪癖，对外界的言语根本不关心，你只知道你自己想要什么。"
+ },
+ "role_feature_congenital_intro1304": {
+  "en": "You've always felt you were different. You're good-looking, smart, and righteous. In fact, you refuse to tolerate any wrongdoing. The local bullies understand this firsthand. You fought them many times and won every single time without even a scratch. A fortuneteller said you were blessed.",
+  "ch": "小时候你就发现自己和别人不一样，你生得五官端正、一表人才，而且你天生就正义凛然，眼里揉不得沙子，隔壁村的二牛就被你打过好几次，而且每次打架你都发现你不容易受伤。有个算命的说过你是天生道子。"
+ },
+ "role_feature_congenital_intro1305": {
+  "en": "As an experienced fighter, you attack your enemies where they're most vulnerable with no mercy. People are afraid of you and keep their distance.",
+  "ch": "身经百战的你在战斗中能够非常熟练的去攻击敌人的要害，并且出手十分狠毒。这使得周围的人对你产生畏惧并逐渐远离。"
+ },
+ "role_feature_congenital_intro1401": {
+  "en": "You have an extraordinary understanding of sword techniques, but many inexplicable images that appear in your head make you want to hurt people. In your dreams, you often see a blurry shadow waving its sword in the sky.",
+  "ch": "你对剑有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你凶性大发。你梦中还总能见到一个残影在天空挥剑。"
+ },
+ "role_feature_congenital_intro1402": {
+  "en": "You have an extraordinary understanding of blade techniques, but many inexplicable images that appear in your head make you want to hurt people. In your dreams, you often see a blurry shadow waving its blade in the sky.",
+  "ch": "你对刀有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你凶性大发。你梦中还总能见到一个残影在天空挥刀。"
+ },
+ "role_feature_congenital_intro1403": {
+  "en": "You have an extraordinary understanding of spear techniques, but many inexplicable images that appear in your head make you want to hurt people. In your dreams, you often see a blurry shadow waving its spear in the sky.",
+  "ch": "你对枪有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你凶性大发。你梦中还总能见到一个残影在天空挥枪。"
+ },
+ "role_feature_congenital_intro1404": {
+  "en": "You have an extraordinary understanding of fist techniques, but many inexplicable images that appear in your head make you want to hurt people. In your dreams, you often see a blurry shadow waving its fists in the sky.",
+  "ch": "你对拳有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你凶性大发。你梦中还总能见到一个残影在天空挥拳。"
+ },
+ "role_feature_congenital_intro1405": {
+  "en": "You have an extraordinary understanding of finger techniques, but many inexplicable images that appear in your head make you want to hurt people. In your dreams, you often see a blurry shadow waving its fingers in the sky.",
+  "ch": "你对指有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你凶性大发。你梦中还总能见到一个残影在天空以指御气。"
+ },
+ "role_feature_congenital_intro1406": {
+  "en": "You have an extraordinary understanding of palm techniques, but many inexplicable images that appear in your head make you want to hurt people. In your dreams, you often see a blurry shadow waving its palms in the sky.",
+  "ch": "你对掌有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你凶性大发。你梦中还总能见到一个残影在天空挥掌。"
+ },
+ "role_feature_congenital_intro1407": {
+  "en": "You have an extraordinary understanding of sword techniques, and many inexplicable images that appear in your head make you want to help people. In your dreams, you often see a man in white waving his sword in the sky.",
+  "ch": "你对剑有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你正义凛然。你梦中还总能见到一个白衣人在天空御剑。"
+ },
+ "role_feature_congenital_intro1408": {
+  "en": "You have an extraordinary understanding of blade techniques, and many inexplicable images that appear in your head make you want to help people. In your dreams, you often see a man in white waving his blade in the sky.",
+  "ch": "你对刀有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你正义凛然。你梦中还总能见到一个白衣人在天空御刀。"
+ },
+ "role_feature_congenital_intro1409": {
+  "en": "You have an extraordinary understanding of spear techniques, and many inexplicable images that appear in your head make you want to help people. In your dreams, you often see a man in white waving his spear in the sky.",
+  "ch": "你对枪有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你正义凛然。你梦中还总能见到一个白衣人在天空舞枪如龙。"
+ },
+ "role_feature_congenital_intro1410": {
+  "en": "You have an extraordinary understanding of fist techniques, and many inexplicable images that appear in your head make you want to help people. In your dreams, you often see a man in white waving his fists in the sky.",
+  "ch": "你对拳有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你正义凛然。你梦中还总能见到一个白衣人在天空挥拳。"
+ },
+ "role_feature_congenital_intro1411": {
+  "en": "You have an extraordinary understanding of finger techniques, and many inexplicable images that appear in your head make you want to help people. In your dreams, you often see a man in white waving his fingers in the sky.",
+  "ch": "你对指有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你正义凛然。你梦中还总能见到一个白衣人在天空以指御气。"
+ },
+ "role_feature_congenital_intro1412": {
+  "en": "You have an extraordinary understanding of palm techniques, and many inexplicable images that appear in your head make you want to help people. In your dreams, you often see a man in white waving his palms in the sky.",
+  "ch": "你对掌有不一般的领悟力。你的脑海里总能浮现一些莫名其妙的画面，让你正义凛然。你梦中还总能见到一个白衣人在天空挥掌。"
+ },
+ "role_feature_congenital_intro1413": {
+  "en": "You carry your sword or blade wherever you go. It's a dangerous world, and the weapon in your hand is your protection. You live by your code of honor. Over the years, you've helped many in need.",
+  "ch": "行走于江湖之中的你刀剑不离身。在这人心险恶的世道里，手里的镔铁便是最强硬的护身符。你谨记自己的处世之道，路见不平拔刀相助。也办下过不少善行。"
+ },
+ "role_feature_congenital_intro1414": {
+  "en": "People know little of you except that you're a spearmaster. What most don't know is that your fingers are another lethal weapon of yours. Rumor has it you've mastered the Vajra Finger skill, but it's never been verified, as those who've witnessed it are all dead.",
+  "ch": "没人知道你的来历，但是都知道你一手枪上功夫了得。常常以一敌多。但是寻常人所不知道的是，你的指劲儿之大也非同小可。有好事人传言你曾练过金刚指的功夫。只可惜见识过你指劲的人，都不曾生还。"
+ },
+ "role_feature_congenital_intro1415": {
+  "en": "Hand-to-hand combat is your strong suit. One time when you were drunk, you killed a cow monster with your bare hands.",
+  "ch": "以肉搏之法为人所知的你拳掌功夫颇为了得。曾在喝醉酒后空手打死了一头牛妖，并且凭借一手破桃式常在争斗中占取上风。"
+ },
+ "role_feature_congenital_intro1416": {
+  "en": "The first sword you ever held was made of wood. You wielded it like you'd been practicing swordsmanship for a long time. Later, you found out that it's not just swords: you have a natural gift in all martial arts involving swords, blades, and spears. Starting from then, you made up your mind to study martial arts in order to eliminate any injustice.",
+  "ch": "你第一次拿起一把木剑，就舞得呼呼生风。后来你发现，对于剑、刀、枪，都有着特别的领悟力。从此你就有了个决心：潜心悟学武技，以除魔卫道为已任。"
+ },
+ "role_feature_congenital_intro1417": {
+  "en": "The first time you ever threw a punch, you knocked out the other guy in an instant. You realized that you had a natural gift in all martial arts involving fists, palms, and fingers. Starting from then, you made up your mind to walk your own path, using your great strength for personal gain.",
+  "ch": "你第一次抡起拳头就把二虎打趴在地，你力大无穷，对于拳法、掌法、指法，都有着特别的领悟力。从此你就有了个决心：要凭自己的力量，走自己的道！"
+ },
+ "role_feature_congenital_intro1418": {
+  "en": "Showing a great interest in martial arts at a young age, you have an intuitive comprehension of all kinds of combat techniques.",
+  "ch": "你从小就喜欢舞刀弄枪，对各种武器、拳脚功夫有着近乎直觉的领悟力。"
+ },
+ "role_feature_congenital_intro1419": {
+  "en": "Your family runs a small business selling roasted chestnuts. When you were little, your father taught you how to roast chestnuts, but you weren't strong enough to toss the wok. You had to practice a lot, which made your palms stronger, but you no longer can help your mother with delicate needlework.",
+  "ch": "你的家里一直是开板栗铺的。小时候父亲就一直教你炒板栗，但是贫弱的身子实难支撑你翻炒板栗。长久的翻炒让你手掌力气大了不少，却难以帮助母亲去做些小巧细碎的针线活了。"
+ },
+ "role_feature_congenital_intro1420": {
+  "en": "Shooting birds is your passion, and all you need is a slingshot. You were the best amongst all your playmates in your village. No one else even came close. After years of practice, you almost never miss. One stone, one bird.",
+  "ch": "打鸟是你的拿手绝活。弹弓一支，眼睛半眯，一颗石子被喂到弹巢里绷紧了皮筋。弹弓声响，鸟便应声而倒。多年的锻炼让你技艺愈发精湛。曾几何时，你就是村里最厉害的打鸟童，无人可出你左右。"
+ },
+ "role_feature_congenital_intro1421": {
+  "en": "Your family couldn't afford to buy you any martial arts manuals, but that never stopped you from dreaming of becoming a martial artist. You'd hang a big sack full of sand on the house beam, then use it as a punching bag. Your mother warned you that it could do you harm, but you kept on practicing. Thick calluses on your tiny hands are the best proof.",
+  "ch": "虽然家里没有钱给你买武功秘籍，你还是期待能像大侠那样仗剑走江湖。你给自己扎了一个大袋子，里面装满沙，挂在横梁上。没事就喜欢砸上几拳。母亲劝你不要伤了身子，但你全当耳旁风。稚嫩的小手竟打出了一层厚实的老茧。"
+ },
+ "role_feature_congenital_intro1422": {
+  "en": "The storyteller in your village once told you a tale about the monkey king and his magical rod. You were fascinated about the monkey king and would mimic his moves using a carrying pole. People joked about it and referred to your moves as a pole dance. You had no idea why it was funny, but whatever it should be called, you've become very good at it.",
+  "ch": "每当挑担子上山时，你就趁着机会拿起扁担一通挥耍。村边讲故事的老爷爷给你讲过一只猴子耍棒子的故事，你便学那猴，整天拿着扁担当棒使。久而久之，你的扁担舞的有模有样，也算得上一手绝活。"
+ },
+ "role_feature_congenital_intro1423": {
+  "en": "Your family cooked food using a log burner, and you were responsible for chopping wood. You became good at it. In fact, you'd often show off this skill of yours to other kids and laugh at them when they failed. Over time, more and more kids from your village came to you for help, and you had to chop wood for other households.",
+  "ch": "帮着父母劈柴烧饭久了，你也有了不少自己的心得。每次看到别人家的孩子笨拙地劈柴时，你便意气风发前去卖弄一番。时间长了，整个村子的孩子都开始找上门来。你只得苦眉皱脸地挨个儿去帮人家劈柴。"
+ },
+ "role_feature_congenital_intro1424": {
+  "en": "When your mother tried to teach you how to cook, you showed no interest in the actual cooking process. Instead, you found yourself fascinated by the spatula. You ran around the house waving it and wouldn't let go of it. Your mother had to ask your father to intervene, and you took a beating and had to apologize.",
+  "ch": "母亲教你做饭，你偏要拿着锅铲耍个不停。母亲训斥你，你便抱着锅铲满屋子跑。抓你不着，母亲去向父亲告状。父亲可不管三七二十一，抓起你就是一顿打，接着找个坏了的锅铲插在你背后，让你去向母亲负荆请罪。"
+ },
+ "role_feature_congenital_intro1425": {
+  "en": "You've always loved heroic stories. You dreamed about becoming a hero yourself, helping the needy and punishing evil with your spear. One day, you found a wooden stick and attached a chopstick to its tip. And that became your first spear.",
+  "ch": "你一直都爱听说书人讲的关于英雄的故事。也常常幻想自己会像他一样行侠仗义，一杆枪打遍天下无敌手。后来你不知从何处顺来了根木棍，顶头绑上一根筷子，整天当做枪来使。"
+ },
+ "role_feature_congenital_intro1426": {
+  "en": "You prefer using weapons over hand-to-hand combat. No matter the type, you learned how to wield them quickly.",
+  "ch": "比起拳脚功夫，你更擅长使用各种各样的武器对抗敌人，无论是哪一种武器你都能够轻松上手，而且进步飞快。"
+ },
+ "role_feature_congenital_intro1427": {
+  "en": "You have a different understanding of fist and palm techniques. Rather than limiting yourself to traditional moves, you combine the moves from the two techniques to achieve a greater power.",
+  "ch": "你对拳法与掌法的理解与常人有所不同，你不拘泥于传统的招式，更懂得在拳法与掌法之中取长补短。当你将这两种招式组合在一起时，会爆发出更大的威力。"
+ },
+ "role_feature_congenital_intro1428": {
+  "en": "As you learned martial arts, you discovered the differences but also similarities between spear and finger techniques. Combining both would make it much harder for your enemies to defend. Your spear can be your finger, and the other way around, too.",
+  "ch": "你在学武的过程中偶然发现了枪法与指法的不同而又相通之处，将两者结合后的招式往往让敌人难以招架。以枪为指，也可以指为枪，打法多变，令人胆寒。"
+ },
+ "role_feature_congenital_intro1429": {
+  "en": "When you were little, you had the chance to witness a duel between two legendary swordmasters. It was at that moment that you realized swordsmanship would be your lifetime passion.",
+  "ch": "你幼时曾见过两位传奇剑圣为了第一的名号同台展开激烈的较量。此时你便已经明白，剑将会是你一生的挚爱。"
+ },
+ "role_feature_congenital_intro1431": {
+  "en": "As the child of a great swordmaster, you're gifted in sword techniques. Under the influence of your family, you're much better with a sword than those your age.",
+  "ch": "身为当代剑神之子，本身就有着不俗的剑法天赋。加上常年受到长辈的影响，你在剑法上的造诣比同龄人要高出许多。"
+ },
+ "role_feature_congenital_intro1432": {
+  "en": "As the child of a great blademaster, you're gifted in blade techniques. Under the influence of your family, you're much better with a blade than those your age.",
+  "ch": "身为当代刀神之子，本身就有着不俗的刀法天赋。加上常年受到长辈的影响，你在刀法上的造诣比同龄人要高出许多。"
+ },
+ "role_feature_congenital_intro1433": {
+  "en": "As the child of a great spearmaster, you're gifted in blade techniques. Under the influence of your family, you're much better with a spear than those of your age.",
+  "ch": "身为当代枪神之子，本身就有着不俗的枪法天赋。加上常年受到长辈的影响，你在枪法上的造诣比同龄人要高出许多。"
+ },
+ "role_feature_congenital_intro1434": {
+  "en": "You're the youngest of the seven children of a cult leader. Outcast and framed by your older brothers, you were kicked out from your own home by your father. Since then, you've made all the cults your enemy.",
+  "ch": "你曾经是一位魔道大能生出的七子中的第七子，由于被几位兄长联合排挤、诬陷，导致这位魔道大能大怒，将你赶出家门，你从此与魔道势不两立。"
+ },
+ "role_feature_congenital_intro1435": {
+  "en": "You were a talented disciple in a righteous sect. Your sect was growing quickly and becoming too powerful for the other sects. Out of jealousy, they joined forces and killed every one of your sect members but you. You survived and swore to take revenge.",
+  "ch": "你曾经是正道门派中资质上乘的精英弟子，由于你的师门逐步壮大，让其它正道门派都感到了威胁。最终你的师门在其它正道门派的围剿中覆灭，你苟活了下来，并与他们势不两立！"
+ },
+ "role_feature_congenital_intro1501": {
+  "en": "There was deafening thunder and continuous lightning when you were born, almost like a sign that you'd be gifted with a natural ability to control the lightning element.",
+  "ch": "你出生的时候，电闪雷鸣。似乎这已经预示了你对雷元素有着不一般的掌控力。"
+ },
+ "role_feature_congenital_intro1502": {
+  "en": "Your birth was accompanied by an earthquake, almost like a sign that you'd be gifted with a natural ability to control the earth element.",
+  "ch": "你出生的时候，山崩地裂。似乎这已经预示了你对土元素有着不一般的掌控力。"
+ },
+ "role_feature_congenital_intro1503": {
+  "en": "Your whole village was on fire when you were born, almost like a sign that you'd be gifted with a natural ability to control the fire element.",
+  "ch": "你出生的时候，村里到处起火。似乎这已经预示了你对火元素有着不一般的掌控力。"
+ },
+ "role_feature_congenital_intro1504": {
+  "en": "Heavy rain was pouring down when you were born, almost like a sign that you'd be gifted with a natural ability to control the water element.",
+  "ch": "你出生的时候，暴雨如注。似乎这已经预示了你对水元素有着不一般的掌控力。"
+ },
+ "role_feature_congenital_intro1505": {
+  "en": "Strong winds blew when you were born, almost like a sign that you'd be gifted with a natural ability to control the wind element.",
+  "ch": "你出生的时候，狂风大作。似乎这已经预示了你对风元素有着不一般的掌控力。"
+ },
+ "role_feature_congenital_intro1506": {
+  "en": "Fragrant flowers bloomed when you were born, almost like a sign that you'd be gifted with a natural ability to control the wood element.",
+  "ch": "你出生的时候，花香四溢。似乎这已经预示了你对木元素有着不一般的掌控力。"
+ },
+ "role_feature_congenital_intro1507": {
+  "en": "There's something strange about you. You were struck by lightning multiple times, but apart from losing all your hair, you weren't hurt in the slightest.",
+  "ch": "这是一件很奇怪的事，你被雷击过好几次，但是居然除了头发没了，其它地方都完好无损。"
+ },
+ "role_feature_congenital_intro1508": {
+  "en": "You were trapped in fire multiple times but never burned. As a matter of fact, you became stronger afterwards every time.",
+  "ch": "你被火烧过好几次，可是一次都没有烧伤。而且似乎变得更强壮了。"
+ },
+ "role_feature_congenital_intro1509": {
+  "en": "You were taught to hold your breath when learning to swim, and so you did. As it turned out, you could easily hold your breath for half a day.",
+  "ch": "你很小的时候就会游泳闭气，而且一憋就憋半天。"
+ },
+ "role_feature_congenital_intro1510": {
+  "en": "Your grandpa believed your family house had bad feng shui because there were no mountains behind it. You surprised everyone by forming a hill with your bare hands in three years.",
+  "ch": "你爷爷说祖屋风水不太好，屋后没有山。于是你干了一件惊人的事，你用三年挖土推了个小山。"
+ },
+ "role_feature_congenital_intro1511": {
+  "en": "Your little brother likes all kinds of fruits, so you planted many fruit trees around your house. And every one of them grew extremely well.",
+  "ch": "为了能让弟弟吃上各种水果，你在屋前屋后种植了大量的果树。而且每一棵都长势惊人。"
+ },
+ "role_feature_congenital_intro1512": {
+  "en": "People always say you're like wind, especially when you're running.",
+  "ch": "风一样的孩子，说的就是你，你跑起来的时候似乎与风一样飘逸。"
+ },
+ "role_feature_congenital_intro1513": {
+  "en": "When thunderstorms hit, neighbors' kid are always scared and cry, but all you feel is excitement. One time, you stood atop a mountain and were hit by a lightning bolt. It didn't hurt you, but your hair stood on end.",
+  "ch": "雷雨滂沱之时，邻居家的小孩尚在哭哭啼啼，你却对每一次雷鸣兴奋莫名。直到有一次你站在山巅之上，终于被一道雷霆打中——你的发型变成了爆炸头。"
+ },
+ "role_feature_congenital_intro1514": {
+  "en": "Though flints aren't valuable, you always carry one with you. Whenever you're bored, you play with it. You love to see the sparks, as if they're dancing for you. Your parents warn you that if you play with fire, you'll pee the bed, but you just can't stop.",
+  "ch": "火石从来不是什么贵重之物，你却时刻把他带在身边。无聊的时候拿出来打一打，扑闪的火花便不断拨动着你的心弦。虽然父母一直告诫你说，小孩玩火会尿床，但你就是停不下来。"
+ },
+ "role_feature_congenital_intro1515": {
+  "en": "You're known to be a great swimmer. Whenever it's too hot in the summer, you lead the kids in your village to the river and play with water. Because of that, other kids consider you their leader.",
+  "ch": "你是村里公认的善于水性。每逢六月旱热之际，你就叫上村里的会水的孩子，整天去溪水河流里玩水。时间长了，大家都认你当老大。"
+ },
+ "role_feature_congenital_intro1516": {
+  "en": "You love the earth beneath you too much. If your parents didn't have an animal hide for you to cover your body, they would never allow you to roll in the dirt like you do every day.",
+  "ch": "如果不是因为家里有一件兽皮制成的衣物，扎实的紧，家里人也绝不会允许你一天到晚躺在地上滚来滚去。但是没办法，你就是那么喜欢脚下的土地，哪怕滚过一天浑身尘土，你也意犹未尽。"
+ },
+ "role_feature_congenital_intro1517": {
+  "en": "You've never liked playing with other kids. You don't have the time anyway, as you have tons of plants to look after. Waking up under the shades of your plants every day is your biggest joy. Occasionally, when other kids would knock over a potted plant of yours, you'd angrily kick them out immediately.",
+  "ch": "你对于玩闹之事一直不上心，因为家里有一堆盆植等着你去打理。每天在绿荫遮蔽下醒来是你最大的享受。有时候一两株盆植被小孩疯闹撞坏了，你就会恶狠狠地把那个孩子给踹出去。"
+ },
+ "role_feature_congenital_intro1518": {
+  "en": "When you were little, your father made a paper kite for you. Since then, kites have been an important part of your life. You have a dream you never told others. You dream of flying high in the skies. And when you fly a kite, you feel as though you're, too, flying with it.",
+  "ch": "小时候你的父亲亲自糊了一个纸风筝送给你，从那以后你的生活就离不开风筝相伴。每当放飞纸鸢之时，你的心也跟着飘到了九霄之外。有一个梦想你一直埋在心里，从未和任何人述说——你想像风筝一样翱翔于蓝天。"
+ },
+ "role_feature_congenital_intro1519": {
+  "en": "The powers of wind and thunder are heavenly powers. You were born with a natural understanding of these two powers. With their influence, you've grown to be an upstanding person.",
+  "ch": "风力与雷力是天道的力量，而你却自出生以来，就对这两种力量有不一般的领悟力。在这两种力量的影响下，你眉宇之间，多了点正气。"
+ },
+ "role_feature_congenital_intro1520": {
+  "en": "The powers of earth and wood are earthly powers. You were born with a natural understanding of these two powers. With their influence, you've grown to be an upstanding person.",
+  "ch": "土力与木力是地道的力量，而你却自出生以来，就对这两种力量有不一般的领悟力。在这两种力量的影响下，你眉宇之间，多了点正气。"
+ },
+ "role_feature_congenital_intro1521": {
+  "en": "When wind and fire meet, they devour everything. You possess these two terrifying powers. With their influence, you've grown to be a wicked person.",
+  "ch": "当风与火结合后，就会吞噬一切，这两种恐怖的力量，你却可以轻松掌握。受这种力量的影响，你的眉宇之间，多了点魔气。"
+ },
+ "role_feature_congenital_intro1522": {
+  "en": "When earth and water meet, they flood everything. You possess these two terrifying powers. With their influence, you've grown to be a wicked person.",
+  "ch": "当土与水结合后，就会淹没一切，这两种恐怖的力量，你却可以轻松掌握。受这种力量的影响，你的眉宇之间，多了点魔气。"
+ },
+ "role_feature_congenital_intro1523": {
+  "en": "Heaven holds three types of energy, namely wind, lightning, and fire. You were born with the ability to control them.",
+  "ch": "天有三才，曰风、雷、火；你天生对这三种能量有着超越凡人的掌控力。"
+ },
+ "role_feature_congenital_intro1524": {
+  "en": "Earth holds three types of energy, namely earth, wood, and water. You were born with the ability to control them.",
+  "ch": "地有三才，曰土、木、水；你天生对这三种能量有着超越凡人的掌控力。"
+ },
+ "role_feature_congenital_intro1525": {
+  "en": "There are six Spiritual Roots, namely Lightning, Earth, Fire, Water, Wind, and Earth. You have a certain control ability over all of them, but it's difficult for you to stay focused, which makes it hard for you to use artifacts and elixirs.",
+  "ch": "六根俱有，你对雷、土、火、水、风、土的力量有一定的掌控力，但是精神总是无法精中，对外物掌控力过于分散，无法更好的使用法宝、丹药。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "role_feature_congenital_intro1526": {
+  "en": "It's effortless for you to be observant and stay focused, which allows you to be a master of artifacts and elixirs. But compared with others, you have a harder time controlling the Spiritual Roots.",
+  "ch": "天生心力专一，精神集中，观察入微，御物如神，可以更好的使用法宝、丹药。但是对于天地六灵根却比常人更难掌控。"
+ },
+ "role_feature_congenital_intro1527": {
+  "en": "When you were little, a self-proclaimed immortal warned you to give up cultivation as you have unstable Spiritual Roots. He couldn't have been more wrong. The fact is that you can control all six elements with ease, and even your weakest Spiritual Root is stronger than most.",
+  "ch": "你在幼年时就被一个路过自称“仙人”的家伙判断六根不净，不适合修炼。但事实无绝对，你不但能熟练的使用六种灵根进行战斗，就连你最弱的灵根都能碾压寻常人最强的灵根。"
+ },
+ "role_feature_congenital_intro1528": {
+  "en": "Growing up in a canal town, you have an inexplicable affinity for water. Those long hours staying in water have made you paler than most.",
+  "ch": "你自幼生活在水乡，对水有着莫名的亲和感，因为在水中待的时间很长，所以你比平常人白很多，使人看的喜欢。"
+ },
+ "role_feature_congenital_intro1529": {
+  "en": "Growing up in a forest, you have an inexplicable affinity for trees. Perhaps because you're blessed by nature, all creatures like you instinctively.",
+  "ch": "你自幼生活在森林，对于树木有着莫名的亲和感，或许因为受到大自然的庇护，所有的生物都本能的对你感到亲切。"
+ },
+ "role_feature_congenital_intro1530": {
+  "en": "Both your parents are masters of fire. As their child, you were born with a strong Fire Root. Your personality is influenced by fire, too. Warm and cheerful, you leave a good impression on everyone around you.",
+  "ch": "你的双亲都是火系强者。作为他们的后代，你的火灵根自然不会差到哪去。或许是受到灵根的影响，你的性格热情开朗，周围的人都对你有着不错的印象。"
+ },
+ "role_feature_congenital_intro1531": {
+  "en": "You're naturally sensitive to earth. With that, you often successfully predict landslides and earthquakes. People like your personality and the fact that you saved them many times.",
+  "ch": "你天生对土系敏感，多次凭感觉避免掉了山体滑坡、地震等天灾。你为人憨厚，大家都觉得你很亲切。"
+ },
+ "role_feature_congenital_intro1532": {
+  "en": "You've always liked chasing wind. To you, wind is freedom. Running with it makes you feel free. Perhaps because you're blessed by nature, all creatures like you instinctively.",
+  "ch": "你从小就喜欢追逐风与自由，享受着与风相互交融的感觉。或许因为受到大自然的庇护，所有的生物都本能的对你感到亲切。"
+ },
+ "role_feature_congenital_intro1533": {
+  "en": "You were born with a strong Lightning Root. Affected by it, you're decisive, and people like you for that.",
+  "ch": "你天生就有着强大的雷系。受到灵根你影响，你做事迅速果断，丝毫不拖泥带水，大家都觉得你很帅。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "role_feature_congenital_intro1601": {
+  "en": "When you were little, you learned alchemy from an immortal. That's something you should have been proud of your whole life, but you were too young, so over time, you've forgotten most of what you learned. Now, you know barely more than amateurs.",
+  "ch": "你很小的时候曾经跟着一位仙人学过炼丹，这件事足够你吹上一辈子。但是因为那时实在太小，你对炼丹之法早就忘了大半，仅比外行多一些浅薄的认识。"
+ },
+ "role_feature_congenital_intro1602": {
+  "en": "Alchemy is a craft passed down in your family. That is, until your family was slaughtered by its enemies. You were the only survivor. To avenge your loved ones, you began studying the forbidden alchemy method, awaiting your opportunity to make your enemies suffer.",
+  "ch": "丹道是你祖传的技艺，但是你的家族被仇人屠尽，只有你一人侥幸逃了出来。后来你发了疯似的开始修习被列为丹道禁法的禁术，你梦想着等到时机成熟那天，你亲手将仇人折磨至死。"
+ },
+ "role_feature_congenital_intro1603": {
+  "en": "You have an extraordinary understanding of alchemy. One time, you concocted a special elixir that unfortunately poisoned all the pigs in your village.",
+  "ch": "你对炼丹似乎有着不同寻常的领悟力，有一次你炼出了一种奇怪的丹药，毒死了全村的猪。"
+ },
+ "role_feature_congenital_intro1604": {
+  "en": "You have an extraordinary understanding of alchemy. When a plague hit one year, you concocted an antidote that saved your entire village.",
+  "ch": "你对炼丹似乎有着不同寻常的领悟力，有一年村里发生瘟疫，你炼出一种避瘟丹，让全村人躲过了灾难。"
+ },
+ "role_feature_congenital_intro1605": {
+  "en": "Doodling is hardly a useful skill, but you just love it. You're good at drawing all kinds of charms, though few understand the meaning of them. As you grew better and better, you developed a solid comprehension of feng shui.",
+  "ch": "虽然乱涂乱画并不能算一种技能，但是不知为何的，你很擅长画一些同样莫名其妙的符咒。专注于手里的活让你对于画符的控制能力提升了不少，也锻炼了你的神识。"
+ },
+ "role_feature_congenital_intro1606": {
+  "en": "When you were little, you read a book about moving mountains to fill up an ocean. The book was probably fictional, but it did help you learn the basics of feng shui.",
+  "ch": "小时候你见到过一本书，里面讲的是移山填海之术。虽然书里的讲述略有夸大，但是仍旧帮助你增长了不少查探风水的基础知识。"
+ },
+ "role_feature_congenital_intro1607": {
+  "en": "Your bagua board is a family heirloom and the most precious thing you own. In fact, it's your livelihood. Though the super rich aren't impressed by your geomancy skill, plenty of common folks are willing to pay you to read feng shui for them.",
+  "ch": "家传的一个卦象盘是你身上最值钱的宝贝。一直以来你都以此为生。“卦生天地，象守四方”是你挂在嘴边的口头禅。虽然富家豪庭看不上你的勘舆之术，但总会一些手头有闲钱的人愿意请你做事。"
+ },
+ "role_feature_congenital_intro1608": {
+  "en": "It's almost as though you have an invisible third eye, which makes you see things others can't. But you're physically weak and get sick a lot.",
+  "ch": "你似乎长了一只无形的第三只眼睛，很多时候你可以看到常人看不到东西。但是你的身体却比较瘦弱。"
+ },
+ "role_feature_congenital_intro1609": {
+  "en": "Your father is a blacksmith. Growing up helping him in the smithy, you never paid much attention to your appearance. Others don't like you because of it, but over the years, you've grown quite skilled in forging.",
+  "ch": "你随父亲打铁为生。常年于燥热的铁匠铺里生活，不注重打点的你外貌并不遭人喜欢。但是打铁的技艺却经年磨砺，愈发精湛。"
+ },
+ "role_feature_congenital_intro1610": {
+  "en": "You're no different than others, except what you experienced in your childhood made you grow interested in alchemy and forging. In your spare time, you like to study relevant books and experiment with what you read. You failed most of your experiments but never gave up. If anything, the failures made you more driven.",
+  "ch": "你和其他人并没有什么不同，但是幼年的遭遇让你对丹器二事颇为上心。有事无事你都会收集一些相关的书籍翻阅，并且经常自己动手尝试。虽然成功率经常为零，但你却乐此不疲，夜以继日研习经典。"
+ },
+ "role_feature_congenital_intro1611": {
+  "en": "Your natural sense of herbs is different than that of ordinary people. You have an innate ability to separate toxins from various herbs and elixirs, which allows you to more effectively refine herbs into elixirs.",
+  "ch": "你天生对药材的感觉就异于常人，你的体质能够自行从各类药材和丹药中自行分解其毒素。相对于普通人，你更懂得合理的利用药材炼制丹药。"
+ },
+ "role_feature_congenital_intro1701": {
+  "en": "Fortune favors the foolish. It's true in your case. It's hard for you to understand things, but because of it, you have a detached temperament. You're also going to live longer and are generally lucky.",
+  "ch": "傻人有傻福，古人说的一点不错。你的悟性极低，似乎对很多事都看得很淡，所以比常人活得更久，幸运之道力也似乎比较照顾你。"
+ },
+ "role_feature_congenital_intro1702": {
+  "en": "Your intelligence is unmatched, but being too smart can be a curse. You find it hard to get excited by anything, and others don't like to spend time with you.",
+  "ch": "你的悟性可以用前无古人，后无来者来形容。这种绝顶的智力，让你心情难有波动。然而由于你过于聪慧，别人似乎不喜欢与你相处。"
+ },
+ "role_feature_congenital_intro1703": {
+  "en": "You're smarter than most. Your receding hairline is the proof.",
+  "ch": "你比一般人更聪明，但是你的头发很少。"
+ },
+ "role_feature_congenital_intro1704": {
+  "en": "You're simple and honest but a bit slow. Everyone gets along well with you.",
+  "ch": "你的性格比较憨厚，反应也有点迟钝，不过大家都喜欢与你相处。"
+ },
+ "role_feature_congenital_intro1705": {
+  "en": "You're unintelligent to the point that you could be called slow, but you've got a good heart. You don't care about winning or losing, and you don't let others influence your mood.",
+  "ch": "你的悟性非常低，可以说有点呆呆傻傻的，不过你的心情一直很好，根本不在意得失，外人也很难影响你那快乐的心境。"
+ },
+ "role_feature_congenital_intro1706": {
+  "en": "You're very intelligent and good at both calculation and dealing with others. However, whenever something doesn't go your way, you bemoan your bad luck.",
+  "ch": "你很聪明，善于计算，也善于与他人相处，就是经常会发生一些不在你计划内的事，你总是抱怨说运气不是特别好。"
+ },
+ "role_feature_congenital_intro1707": {
+  "en": "You're highly intelligent—smarter than most others—but have no interest in monetary matters. Though perhaps this could be considered part of your intelligence?",
+  "ch": "你悟性超凡，智慧过人。你对钱财却一直是一种不是特别在乎的态度。可能这也是你的智慧所在吧。"
+ },
+ "role_feature_congenital_intro1708": {
+  "en": "You've been restless since you were young, always curious about your surroundings. You'd often spend the entire day outside, only corralled back when your parents sent someone after you. The trees, the grass, the clouds—all of it fascinates you.",
+  "ch": "你从小就是个闲不住的主儿，对周遭的事物好奇而敏感。经常跑出家门在外面一待就是一整天。如果不是父母托人四处寻你，你便是连家也顾不得回去。草生树长，风卷云舒，你都看的津津有味。"
+ },
+ "role_feature_congenital_intro1709": {
+  "en": "You've been trained in martial arts by your father since you were young, the strenuous and dreary days robbing you of the youthful vigor of your peers and turning you into quite the reticent child. The constant training did, however, make you incredibly strong.",
+  "ch": "从小你就被父亲要求练习武技。日复一日艰难而枯燥的生活让你不像其他的孩子那样活泼好动，而是变得安静沉稳。坚持不断的体能训练以及武技磨炼也让你变得愈发强大。"
+ },
+ "role_feature_congenital_intro1710": {
+  "en": "You were always borrowing books from others and getting lost in all the new knowledge they provided you. Coming from a destitute household, you often had to engage in hard, laborious work, but the continued lack of nourishment eventually rendered your body quite weak.",
+  "ch": "你时常从旁边人家借阅书籍，新奇的知识总能让你整天整天地沉迷其中。虽然因为家徒四壁你也经常做些体力活，但常年缺乏食物滋补的身体终归是瘦弱无力。"
+ },
+ "role_feature_congenital_intro1711": {
+  "en": "Born into a family of scholars, you've been well-versed in poetry since you were a child, and other families often used you as a model for their own children. Your many years of accumulating knowledge has made it easy for you to uncover the true essence of the books you read, but your frail form has made it difficult for you to engage in martial arts endeavors.",
+  "ch": "出生于书香门第的你自幼熟读诗词文章，身边的大人们也都以把你当做自家孩子的榜样。常年知识的积累让你更容易领悟书中真谛，但是你那弱不禁风的身子骨着实难以舞刀弄枪。"
+ },
+ "role_feature_congenital_intro1712": {
+  "en": "Your family's lack of money couldn't suppress your innate curiosity and passion for martial arts, and you'd often use tree branches to practice your craft. After coming across a rare martial arts manual, you'd spend entire days lost in your own martial arts world.",
+  "ch": "家境贫寒阻挡不住你天生爱好习武的热情。随手拾得树枝木棍都能在你手里舞的像模像样。后来不知道从哪里捡来一本武功秘籍，你便整天沉浸在自己的武术世界里不能自拔。"
+ },
+ "role_feature_congenital_intro1713": {
+  "en": "Born into a family of martial artists, you've always had a keen interest in various fighting techniques. Though your family always had many books around the house, you couldn't have cared less. Others suspected you couldn't read the characters, but were always too scared to mention it—instead acting nothing but respectful.",
+  "ch": "出生于武道世家的你最喜好拨弄兵器，习武强身。虽然家里也有不少书籍，你却丝毫不感兴趣。旁人虽嫌你斗大的字不认识一个，却害怕得罪了使得一手好兵器的你。一直对你敬奉有加。"
+ },
+ "role_feature_congenital_intro1714": {
+  "en": "You've always been optimistic no matter the snags you run into. Though you've never had the best of luck, your healthy attitude towards life has always made you popular.",
+  "ch": "无论遇到什么样的挫折，你永远都会保持乐观向上的态度，虽然运气不是特别好，但是你健康的生活态度让你变得更加受欢迎。"
+ },
+ "role_feature_congenital_intro1715": {
+  "en": "Born into a poor family, your parents have been struggling to make ends meet since you can remember. The many harsh years have made you more resilient than others.",
+  "ch": "年幼的你家境贫寒，从记事起你便已经跟随父母在为了生计问题而努力挣扎。长时间的苦力活使得你能够比常人的内心更加坚强。"
+ },
+ "role_feature_congenital_intro1716": {
+  "en": "Everyone's first impression of you is that you're incredibly strong. Even if you do happen to use up all your energy, after only a short rest, you're primed and ready to go again.",
+  "ch": "周围的人对你的第一印象往往就是非常的坚挺，哪怕你已经精疲力竭了，在短暂的休息之后便能立刻恢复过来。"
+ },
+ "role_feature_congenital_intro1717": {
+  "en": "You once received a musical score called the Moon Mirrored in the Pool. From it, you were able to feel life's hardships and gain considerable knowledge.",
+  "ch": "你曾经得到过，一本叫做二泉映月的歌谱，你从中感受到了人生的辛酸，获得了智慧与许多感悟"
+ },
+ "role_feature_congenital_intro1718": {
+  "en": "You're the grandchild of the most powerful cult leader. When you were born, he gave you a manual he believed to be suitable for you.",
+  "ch": "你是当代魔道巨擘之.....孙，出生的时候，你的爷爷，就给了你一本适合自己的魔道功法。"
+ },
+ "role_feature_congenital_intro1719": {
+  "en": "You're the successor to the leader of those who stood up again evil—and also the man who saved countless people. Though you've never seen him again, his heroic deeds and martial arts techniques follow you to this day.",
+  "ch": "你是当年领袖了正道势力抗争邪祟，并且守护了无数人的英雄传人。即便你从很小的时候就再也没见过他，但是他的英雄气概以及功法传承依然伴随你至今。"
+ },
+ "role_feature_congenital_intro1720": {
+  "en": "As a disciple in Ghost Valley, the most mysterious sect in all the world, your talents exceed those of ordinary people!",
+  "ch": "身为世上最神秘门派鬼谷的外门弟子，你的天赋异于常人！"
+ },
+ "role_feature_congenital_intro1801": {
+  "en": "You were born holding a piece of jade in your mouth, and upon closer look, it was discovered to be a jade fox. The village elder said you must have had unfinished business in your past life.",
+  "ch": "你生下来的时候，口中衔着一块玉，仔细一看，居然是一只玉佩狐狸。长老说你还有前世有未了的缘分。"
+ },
+ "role_feature_congenital_intro1802": {
+  "en": "You were born with many scales on your body, causing those in the village to think you a reincarnated monster, while others thought you a god descended from Heaven. But what was the actual reason?",
+  "ch": "你生下来的时候，身上长了很多鳞片，周边村里不知所以的人们有的以为你是妖物转世，有的说你是神仙下凡，究竟是什么原因呢？"
+ },
+ "role_feature_congenital_intro1803": {
+  "en": "When you were born, your palms were astonishingly thick, almost like those of a bear's, and you possessed incredible strength. What could have been the reason?",
+  "ch": "你生下来的时候，手掌就特别厚，似乎像极了熊的手掌，而且力量奇大。这会是什么原因呢？"
+ },
+ "role_feature_congenital_intro1901": {
+  "en": "It's said that your ancestor once entered the heavenly realm and left something behind. Once you were a little older, the chief passed this on to you.",
+  "ch": "据说你的祖上曾入仙界游历，并留下了一个物件。你稍长大后，族长传给了你。"
+ },
+ "role_feature_congenital_intro1902": {
+  "en": "Fate works in mysterious ways. When you were little, you found something with a strange aura while playing in the mud. While you didn't know what it was, you've since kept it safe.",
+  "ch": "命运总是很奇特，你小时候玩泥巴，结果在泥巴里找到了一个带有神秘气息的物件，你不知道是什么，但是却一直小心亦亦的收在身上。"
+ },
+ "role_feature_congenital_intro1903": {
+  "en": "Born into a family of martial artists, it's said that your ancestor once entered the heavenly realm. Because of this, you've studied martial arts since you were young, and once you were a little older, the chief gave you a martial arts manual that had been passed down for generations.",
+  "ch": "因为你生在一个武学世家。据说你的祖上也曾入仙界。所以你从小习武，在你稍长大后，族长给了你一本家传武学。"
+ },
+ "role_feature_congenital_intro1904": {
+  "en": "You once met a bearded old man beneath a tree who said you had the perfect figure to be a martial artist and wanted to make you his apprentice. You, however, couldn't be convinced, so the man gave you a manual and said that if fate was so inclined, you'd meet again. You still don't understand what the manual says.",
+  "ch": "你曾经在一棵大树下遇到一个白胡子老头，他说你根骨极佳，要收你为徒，可是你却不愿意，无奈下他给了你一本秘籍，说以后有缘再见，不过你一直看不懂。"
+ },
+ "role_feature_congenital_intro1905": {
+  "en": "Your family has always had money, which was quite a good thing. And since you were young, you've wanted to ascend to Heaven. It's been said that doing so requires spirit stones, so you spent a fortune in the black market to buy shiny stones, unsure if they're spirit stones or not.",
+  "ch": "家里有钱，其实也是个挺不错的事情。你早就向往修真飞升，听说修真界是使用灵石的，所以千方百计在黑市，化了几十块大金饼换了些闪闪发光的石头，也不知道是真是假。"
+ },
+ "role_feature_congenital_intro1906": {
+  "en": "When you were little, you fell into a hole, where you found a pile of shiny gems. Unfortunately, you don't know how to use them.",
+  "ch": "你少年时，掉进了一处洞天福地，无意中获得一堆看上去闪闪发光的宝石，但是一直不知道有什么用处。"
+ },
+ "role_feature_congenital_intro1907": {
+  "en": "When you were little, you fell into a hole, where you found a pile of amazing things. Unfortunately, you don't know how to use them.",
+  "ch": "你少年时，掉进了一处洞天福地，无意中获得一堆看上去有点厉害的东西。至今你也没搞清到底有什么用。"
+ },
+ "role_feature_congenital_intro1908": {
+  "en": "When you were little, you fell into a hole, where you found a pile of exceptionally amazing things. Unfortunately, you don't know how to use them.",
+  "ch": "你少年时，掉进了一处洞天福地，无意中获得一堆看上去特别厉害的东西。至今你也没搞清到底有什么用。"
+ },
+ "role_feature_congenital_intro1909": {
+  "en": "When you were very young, your family married you off and put an old ring around your neck. One day, you happened to discover that it was an interspatial ring that can store things.",
+  "ch": "在你很小的时候，家族就给你指定了一门亲事。而且还在你的脖子上系了一枚老旧的戒指。偶然的一天，你发现这个戒指里面居然可以装东西。"
+ },
+ "role_feature_congenital_intro1910": {
+  "en": "You were once given a ring by a fairy in a dream. When you awoke, that same ring was on your finger. One day, you happened to discover that it was an interspatial ring that can store things.",
+  "ch": "曾经在梦中你见到一位与你同龄的仙子，她送了一枚戒指给你。醒来后，发现戒指真的就戴在手上。偶然的一天，你发现这个戒指里面可以装东西。"
+ },
+ "role_feature_congenital_intro1911": {
+  "en": "Your ancestor once traversed the world of immortals and became extremely wealthy. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且富可敌国。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro1912": {
+  "en": "When you were young, you saw an immortal zooming across the skies riding on a sword. You became obsessed with swords since then. You always hugged a wooden sword when you sleep, despite your family's rejection. It was also quite uncomfortable.",
+  "ch": "年幼的你抬头仰望天空的时候曾目睹大能御剑赶路，从此你爱上了剑，无法自拔。你不顾家人的反对每天都抱着一把木剑睡，尽管很难睡着。"
+ },
+ "role_feature_congenital_intro1913": {
+  "en": "You had never been able to afford shoes as a kid, but somehow you still grew to be extraordinarily fleet-footed. You had always made it out in one piece when you were young, no matter it was rabid dogs or mad chickens.",
+  "ch": "家境贫寒的你从小就没有鞋穿，但是也造就了你非凡的天赋，小时候无论是被狗撵还是被鸡赶，你总能逃出生天。"
+ },
+ "role_feature_congenital_intro1914": {
+  "en": "You loved playing with fire as a kid, so you often wet your bed back then - just like the old saying goes. To your surprise, the opposing energies of Water and Fire has been running in harmony in your body since then.",
+  "ch": "小时候的你喜欢玩火，所以经常尿床，但是你惊奇的发现从此以后身体里多了水火这两种相反的能量在你的体内和谐共存。"
+ },
+ "role_feature_congenital_intro1915": {
+  "en": "Your family was so poor that it had nothing but four walls. That somehow matched the thick and sturdy characteristics of the element of earth, and boosted your affinity with it.",
+  "ch": "你的家里很穷，啥也没有，只有四面墙，无意中却增加了你和大地厚重之力的亲密度。"
+ },
+ "role_feature_congenital_intro1916": {
+  "en": "Your family was so poor that it had nothing but four walls, and still you kept trying to dig through them to steal light from next door - and got beatings instead. You suffered some internal injuries, but also gradually became thick-skinned.",
+  "ch": "由于你家只有四面墙，你还经常凿，所以经常挨打，导致你受了一些内伤，但好在日后慢慢的变得皮糙肉厚。"
+ },
+ "role_feature_congenital_intro2001": {
+  "en": "Almost as though you've been chosen by Heaven itself, everything goes eerily smoothly for you. Why in the world are you this lucky?",
+  "ch": "你就是天选之人，命中注定就是你！干什么事都那么顺利，简直不可思议。为什么你的运气这么好？"
+ },
+ "role_feature_congenital_intro2002": {
+  "en": "Strange things happened all over the world as soon as you were born. Even at a young age, your strength reigned supreme, and no one could challenge you. Once you'd grown older, you were so strong, you could lift a cauldron and uproot a willow. Your fame has spread across the land.",
+  "ch": "你刚出生时异象频生，天地变色。幼时便气力过人，没人是你的对手，成年后更是力能扛鼎，倒拔垂柳。名声传遍四野八乡。"
+ },
+ "role_feature_congenital_intro2003": {
+  "en": "Your origin remains a mystery, but the golden blood flowing in your veins is a constant reminder that you're different. Though your blocked meridians once prevented you from cultivation, an immortal in white helped you with your ascension to Heaven.",
+  "ch": "没人知道你从哪里来，只是身体里流淌的金色血脉时刻提醒着你与常人不同。虽然经脉堵塞让你一度难以修炼，但在一位白衣神王的帮助下，你成功踏上求仙之路。"
+ },
+ "role_feature_congenital_intro2004": {
+  "en": "Raised by the leader of a killers' cult, you rose above all the other disciples and followed the way of killing. However, there was a limit to how far you could go—killing people was your only skill. So the leader eventually abandoned you, leaving you to wander the world alone.",
+  "ch": "在杀神的培养之下，你从数名弟子里脱颖而出，走向杀戮之道的极致。可过于追求极致却又让你偏向一个极端。除了杀人，你什么也不会。杀神最终舍弃了你，任你一人流落四方。"
+ },
+ "role_feature_congenital_intro2005": {
+  "en": "A pitiable child, your parents died by bandits, leaving you to fend for yourself. Deciding to leave this world, you flung yourself off a cliff, however, you were luckily (or unluckily) saved by a demonic immortal. From that point on, you became his disciple, and you began studying the Six Paths of Reincarnation, determined to kill those the world deemed should be killed.",
+  "ch": "你是一个可怜的孩子，父母都在匪患中逝世，生存成了你最大的问题。那天，你从悬崖上跳了下去，决定离开这个世界。然而不知是幸运还是不幸，你被一个隐居谷底的魔修救了下来。从此你便拜他为师，跟着他学习六道轮回之法。决心杀尽世间该杀之人。"
+ },
+ "role_feature_congenital_intro2006": {
+  "en": "Inheriting the way of the shepherd from your ancestors, you'd often dig up graves during the middle of the night to develop your skills. Sometimes discovered and chased away, you eventually became well known for your grave-digging antics, and people began to tell scary stories about you. Your fame as the Zombie Shepherd spread far and wide.",
+  "ch": "祖辈传给你赶尸之法，你为了练习此法，经常夜里去掘人坟墓。有时候被人发现了便仓皇出逃。久而久之，很多人都知道有一个喜欢夜里掘墓的小孩子，他们开始口口相传关于你的恐怖故事。赶尸道童的称号便也举世皆知。"
+ },
+ "role_feature_congenital_intro2007": {
+  "en": "Born to the previous emperor, it seemed you would be the one to restore your family's glory. However, throughout the long and arduous journey, you gradually lost your original passion. While the martial arts passed down by your family provided you with the needs to protect yourself, you found yourself unable to sleep at night, almost as though your enemy would appear in front of you at any second.",
+  "ch": "前朝皇族出生的你似乎天生就背负着复兴家族的使命，但是在艰难的求生途中你逐渐忘记了自己的初心。家族祖传的功法让你有一定的自保能力，但是你每天都睡不安稳，似乎自己的仇人下一秒便会出现在眼前。"
+ },
+ "role_feature_congenital_intro2008": {
+  "en": "You are a Naissant Demon, the flesh-and-blood incarnation of a northern spirit. It is said that wherever a Naissant Demon goes, death and destruction follows. Though the rumors are false, you have still suffered a life of rigor ever since you displayed your innate powers in your childhood.",
+  "ch": "北域之灵，化生人形，世人称之为魔婴。据传魔婴所到之处，生人丧命，流血漂橹。幸好他们并不知道你就是那个传说中的魔婴。世人所传皆是谣言，你只知道因为小时候在世人前展现过神通，自己这一生已经难以平凡度过。"
+ },
+ "role_feature_congenital_intro2009": {
+  "en": "The day the carp leaped over the dragon gate was the day you received your human form. With your innate luck, you were always able to turn even the worst of situations in your favor. However, your beauty ultimately brought disaster upon you too soon. An immortal saw through you and now wants to use your flesh for alchemical purposes.",
+  "ch": "锦鲤跃龙门之日，便是你修成人身之时。天生的气运让你经常逢凶化吉。然而，若不是你生的俊美，惹人注意，可能祸事还不会太早降临到你的头上。一个仙家宗门看穿了你的出身，并且想要夺取你的肉身炼化金丹。"
+ },
+ "role_feature_congenital_intro2010": {
+  "en": "Ambitions are more than just ideas. To achieve your ambitions, you've always been hard on yourself. Mastering all martial arts, you became as strong as an ox and fierce as a tiger. And you showed no mercy to those standing in your way. When it comes to talent, few come close to you.",
+  "ch": "鸿鹄之士，皆是胸中满含豪情壮志之人。你从小就对自己要求颇为严格。十八般武艺样样精通，壮如蛮牛，势若猛虎。但凡挡在自己成仙路上的家伙，并不二话，动辄兵戎相向，毫不留情。论资质，你是真正的人中龙凤。"
+ },
+ "role_feature_congenital_intro2101": {
+  "en": "Your interest in alchemy helped you develop a deep sense of acumen even from a young age. You infused your passion into every elixir you ever made. Some might not look pretty, but none could argue they were not effective.",
+  "ch": "你对丹道的追求让你在很小的时候就有了很深的感悟。赤子丹心，炼化世间。只要是你经手炼制的丹药，哪怕成色再差，也从未失败过。"
+ },
+ "role_feature_congenital_intro2102": {
+  "en": "As a money-making tool for your master from a young age, there was no artifact you couldn't forge. But after being hunted down by an enemy, you and your master became separated, and though you now wander the world, you've still yet to find him again.",
+  "ch": "从小你就是师父的赚钱工具，但凡客人拿出任何器具，没有你炼不成的。后来被仇家追杀，逃命途中你与师父走散了。天涯沦落至今你也未寻见你师父。"
+ },
+ "role_feature_congenital_intro2103": {
+  "en": "A masterful painter, wherever you go, you paint the scenery. After becoming the disciple to a charm master, your Talismans skills have only improved.",
+  "ch": "由于从小热爱绘画，你走到哪儿画到哪儿。自从被一位符文师收为弟子之后，你画符的技艺一日千里。"
+ },
+ "role_feature_congenital_intro2104": {
+  "en": "Dragon veins are Feng Shui principles used to denote sources of great life energy and the paths by which they flow. You made a fortune helping many find their dragon veins, only to unfortunately lose it to a thief.",
+  "ch": "祖传望龙气寻龙脉的本领到你这并没有失传，你凭借着这看家本领赚了很多钱，后来却疏忽大意被小偷偷光了。"
+ },
+ "role_feature_congenital_intro2105": {
+  "en": "As a former disciple in the pavilion of the three purities, you have a deeper understanding of Taoism than most. Though you left the pavilion, the cultivation experience you had there will ensure a smoother path in your ascension to an immortal.",
+  "ch": "曾经在三清阁做过道童的你对道法的理解远超旁人。虽然后来因为种种原因你离开了三清阁，但是珍贵的修道的经历让你的成仙之路更加平坦。"
+ },
+ "role_feature_congenital_intro2106": {
+  "en": "You're the grandchild of the chosen one, and your luck is positively explosive! Despite you often getting yourself into dangerous situations, you always manage to turn calamities into blessings.",
+  "ch": "你就是天选之人的孙子，命中注定！你的运气好到爆炸，常常经历危险的事，也能逢凶化吉。"
+ },
+ "role_feature_congenital_intro2107": {
+  "en": "No one ever told you that your hair was too long—that is, until an assassin came to kill you, and your hair blocked his attack.",
+  "ch": "从来没有人跟你说你的头发太长了，以至于当刺客前来暗杀你的时候，他发出的暗器被你的长头发挡了下来。"
+ },
+ "role_feature_congenital_intro2108": {
+  "en": "Rumor has it whenever the Windchaser Sword appears, someone's head will roll. The rumor is true. The frightening sword belongs to you, and people see you as death. Though killing is never a virtue for a martial artist, you believe you could never be more careful. Kill or be killed, it's a simple choice for you.",
+  "ch": "坊间传闻道，追风剑至，人头落地。这在你的手里并非虚言。一柄宝剑追风，让你成为了他人眼里死神的代名词。虽然嗜杀不应是习武之人的习惯。但你常常叹息世间奸恶阴险之徒实多，立下决心自己虽一人一剑，也定要见一个杀一个。"
+ },
+ "role_feature_congenital_intro2109": {
+  "en": "The Dragon Spear penetrates all defense, just like its wielder eradicates all evil. Some say that this world has changed, becoming a cesspool of the despicable. You don't bother to argue, but every time you draw your spear, you make the world a cleaner place, even only by a little.",
+  "ch": "龙枪锋锐无坚不摧，一如使枪之徒肝胆赤心无恶不除。有人说这世道变了，变得小人横行奸臣当道。手握龙枪之人虽不屑流于世俗，但每当雷鸣龙降之刻，便是污浊洗净之时。"
+ },
+ "role_feature_congenital_intro2110": {
+  "en": "When your homeland was destroyed by war, you fled with everyone. Your hardships, however, were not to end there, for banditry soon became everyone's largest worry. People lived in fear until they noticed fewer and fewer bandits would attack them. Then they saw you and the blade in your hand. People were in awe and excitement, and you became the worst nightmare of even the most ferocious bandits.",
+  "ch": "因为家乡被战乱摧毁，你跟着众人四处逃难。尚未脱离苦海，日渐猖獗的匪患又成了众人最大的担忧。在一次又一次的洗劫中，无数冤魂四散纷飞，可抢劫你们的匪徒却越来越少。同行的人纷纷望着你后背，满是敬畏与激动。魔刀之名，便也在亡命之徒的嘴里愈发恐怖。"
+ },
+ "role_feature_congenital_intro2111": {
+  "en": "Your hand-to-hand combat skills have earned you high respect and the nickname The Immovable. But, at the same time, being too strong makes enemies. Many have tried to best you. And though none have succeeded so far, you can never be sure about the future.",
+  "ch": "稳如石磐，重如泰山是外人对你最高的评价。一身了得的拳脚功夫哪怕在江湖上也足以名列前茅。但是正所谓过刚易折，也有不少人暗地里想要暗算你这尊不动明王。虽然迄今为止无人成功。但是未来的事情，谁又说得准呢。"
+ },
+ "role_feature_congenital_intro2112": {
+  "en": "You were raised by a mysterious old man, and not having enough toys was one of your last worries. What made you curious though, was how so many Cultivators would come over for him. They refer to him as the Divine Hand, and they would come from places afar just to beg for an Artifact. And when they do, the old man would just brush them off with one of your old and broken toys. When you turned six, the old man gave you a giant purple rock. He told you to keep it on you and clean it daily. Then, he left like the wind. Ten years have passed, and your unending polishing routine has finally elevated the rock into the shiniest mirror. You felt elated at the perfection, and that was when the rock cracked and an Artifact, bearing an Artifact Spirit, popped out.",
+  "ch": "你被一位神秘老者抚养长大，从小便有数不尽的玩具。令你好奇的是，每天门外都有无数修仙者络绎不绝前来拜访老者，他们口尊老者为“神匠”，不远万里只为求取一件法宝。每至此时，老者就会从被你玩坏的玩具中随便挑一件扔过去。当你六岁时，老者将一块紫色巨石交给你，嘱托你日夜背负、勤加搓揉，随后便飘然离去。十年之后，你终于将这块巨石盘得圆润光滑，正当你欣喜之时，石头裂开了，一件自带器灵的法宝从中诞生。"
+ },
+ "role_feature_congenital_intro2113": {
+  "en": "When you were born, a meteorite fell from the sky, destroying your entire village. Though the survivors left in search of a new life, when you were 12, the meteorites returned, killing everyone in the village. You used the materials you gathered from the meteorites to create all variety of items and develop your forging skills. As a result, your knowledge of crafting artifacts is much greater than normal people's.",
+  "ch": "出生之时，陨星降落，毁坏了整个村庄，幸存者离开村庄后重新生活，但在你12岁那年，陨石震荡，屠灭了除你以外的所有村民，你利用这些陨铁打造出了各种各样的道具，并且从中参悟了一些冶炼技巧，使你的炼器的理解比一般人要更加的深。"
+ },
+ "role_feature_congenital_intro2114": {
+  "en": "In your past life, you wandered the world of the immortals and successfully ascended to Foundation - Heaven. You're now prepared to make that same journey.",
+  "ch": "你前世曾经在山海八荒界游历过，并且成功的进入了天道筑基境界。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2115": {
+  "en": "In your past life, you wandered the world of the immortals and successfully ascended to G1 Golden Core. You've now prepared yourself to make that same journey.",
+  "ch": "你前世曾经在山海八荒界游历过，并且成功的进入了一品金丹境界。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2116": {
+  "en": "In your past life, you wandered the world of the immortals and successfully ascended to Nascent Soul - Heaven. You've now prepared yourself to make that same journey.",
+  "ch": "你前世曾经在山海八荒界游历过，并且成功的进入了天道元婴境界。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2201": {
+  "en": "Before rumbling thunder is heard, terrifying lighting strikes first. There's nothing that can't be destroyed by a lightning bolt. Even if there were, it surely would be destroyed by two.",
+  "ch": "九天雷动，念至电达。没有什么是一根粗壮的闪电炸裂不了的，如果有，就两根。"
+ },
+ "role_feature_congenital_intro2202": {
+  "en": "The deadly lightning can be a source of power. You often bath in the middle of lightning storms, and the only thing you feel is refreshed and powerful.",
+  "ch": "蚀体魔电，极紫雷光。时常沐浴在狂暴的闪电之中，你唯有感到神清气爽，力量无穷。"
+ },
+ "role_feature_congenital_intro2203": {
+  "en": "Flames of heaven, burning of an all-devouring Yang. Arguably the most destructive weapon, fire is your friend. And you use it to burn anything unjust, leaving behind naught but ashes.",
+  "ch": "炽火元阳，焚尽苍生。这世间最可怖的武器，却是常伴你身的伙伴。但凡路见不平，必将炽火燎原，只留下一地碳化的死物四散纷飞尽。"
+ },
+ "role_feature_congenital_intro2204": {
+  "en": "Flames of nether, burning of an all-devouring Yin. Often you awake at night on a woodpile of dying flames, discomforted by the chilly night wind. Yet when the ghastly underground fires rise from the heart of the embers, even the nipping winds would not dare to approach.",
+  "ch": "幽冥地火，阴煞噬人。经常夜里醒来，你发现自己是睡在一堆熄灭的火堆里。微凉的空气让你不太舒服。当地火从焦炭的内心燃起之时，哪怕是风也被驱逐远去。"
+ },
+ "role_feature_congenital_intro2205": {
+  "en": "A deadly flood destroyed your family but also made you born anew, especially after you realized you had the ability to control the power of floods. No mountains could withstand the all-devouring waves.",
+  "ch": "瀚海百川，无尽波涛。气吞山河之势的大洪水是摧毁你家族的罪魁祸首，却又让你沐浴新生。当你发现自己能如臂使指驱使这般伟力，似乎再大的山川，也挡不住这无尽碧波。"
+ },
+ "role_feature_congenital_intro2206": {
+  "en": "Your favorite thing to do when you were young was bathe in the water and soak up the summer sun. One day, however, you floated farther and farther away until you became quite lost. It was at that moment that you discovered you could breathe underwater, which approached up a whole new world for you.",
+  "ch": "幽水恒流，水打石穿。你童年最大的爱好就是整天泡在水里，享受炎夏少有的清凉。但是有一天你飘着飘着就迷路了，当你发现你能在水下呼吸时，仿佛打开了了一扇新世界的大门。"
+ },
+ "role_feature_congenital_intro2207": {
+  "en": "The chilling northernmost wind reaches heaven. You were no stranger to the northern wind, but none could compare with what howled before you. This raging wind was sharp enough to break any metal, but you walked into the center of it unscathed, you and the wind becoming one.",
+  "ch": "极北寒风，啸达天神。北域的风你见过不少，再大也不若眼前的这支。风啸犀利，断金裂铁。但是你毫发无损地走进它的中心，感觉自己仿佛和这狂风融为一体，不分彼此。"
+ },
+ "role_feature_congenital_intro2208": {
+  "en": "The wind in the wild howled the deepest sorrow. As you touched the sadness in the wind of late autumn, the wind spirit sneaked into your body. From then on, wind blew wherever you laid your eyes on.",
+  "ch": "旷野之风，悲凉若绝。当你从深秋的风里触摸到悲意时，这丝丝风之灵便潜入你的体内，你目之所及，风流不息。"
+ },
+ "role_feature_congenital_intro2209": {
+  "en": "Where is earth, there is home. When you traverse the world, the sky is your blanket and the earth is your bed. As the earth beneath you grows heavier, you reach closer to your destination.",
+  "ch": "皇土仁厚，布达四极。云游天下之际，脚下的大地让你不再居无定所。天为被，地为床。你浑身都散发出后煌之土的气息，宽广敦厚，重逾千斤。"
+ },
+ "role_feature_congenital_intro2210": {
+  "en": "You long wandered the earth, never again believing the earth did not have a spirit. Late at night when all is quiet, you sleep atop the earth, only to suddenly feel the earth beneath you grow heavy. When you open your eyes, you're deep below the ground, but you can still breathe.",
+  "ch": "尘土蕴气，灵涤八方。长年行走在土地上，你不再认为土卑无灵。夜深人静之时，你睡在地上，感受到自己身下的大地安静而厚重。睁开双眼，你已深埋地下，却呼吸如常。"
+ },
+ "role_feature_congenital_intro2211": {
+  "en": "You fell in love with that forest. However, whenever you touched one of the trees, it would instantly shrivel up. Before long, all the trees had died, and you'd lost your forest.",
+  "ch": "绝生木灵，森罗万象。你爱上了那片森林，可让你苦恼的是，只要你触摸过的树，总有那么几颗会加速枯萎。久而久之，整片古树林再无活木，你也失去了那片森林。"
+ },
+ "role_feature_congenital_intro2212": {
+  "en": "Ancient trees wither but never die. When spring comes, they grow again. Before you were born, your hometown relied on farming for a living. After you were born, your hometown began to sell timber. The reason was simple—the spiritual trees grew endlessly.",
+  "ch": "古藤有道，枯木逢春。在你出生前，你的家乡以种田为生。而你出生后，你的家乡开始卖起了木材。无它，灵木疯长，伐之不绝。"
+ },
+ "role_feature_congenital_intro2301": {
+  "en": "While crossing the street, you were hit and killed by a car; however, your soul strangely remained tied to the body of a child of this world. You often impress villagers, and you've become well known for your strange way of speaking.",
+  "ch": "在过马路的时候，你遭遇车祸不幸丧生，灵魂却莫名其妙附身到这个世界一个孩童的身上。你在与村里人相处的过程中时时展露不凡，并且因为一些奇怪的口头禅被人熟知。"
+ },
+ "role_feature_congenital_intro2401": {
+  "en": "Since you were little, your place of refuge has been with the mountains. Whether playing in the water or running through the trees, you could feel something throbbing faintly inside of you, though you don't know what this means.",
+  "ch": "从小你就出生在一个世外桃源，青山绿水相伴为乐。每当你在水里嬉戏或是奔走于林木之间时，体内总有隐隐约约的悸动感。谁也不知道这究竟意味着什么。"
+ },
+ "role_feature_congenital_intro2402": {
+  "en": "Different from others, you've always enjoyed storms. Feeling the wild wind whipping your body has always given you a sense of comfort. However, you don't like lightning, as the booming thunder always gives you a fright.",
+  "ch": "和别人不一样的是，你最喜欢暴风雨天气，狂风卷着雨点打在你身上的时候，你感到由衷的舒适。但你又很害怕雷雨天气，因为轰鸣的雷声总是能吓得你肝胆俱颤。"
+ },
+ "role_feature_congenital_intro2403": {
+  "en": "There's nowhere you'd rather be than sitting by a bonfire. The warmth of its flames always gives you a sense of comfort. When the wind comes and whips up the embers, however, your whole body unconsciously shakes, your mind filled with visions of flame and wind.",
+  "ch": "坐在篝火旁时，你就哪儿也不想去。温热的火焰总能让你通体舒泰。当一阵疾风袭来。风助火势让篝火跃出火舌，你的身体不由自主颤动了起来，脑海里不由得浮现出风火燎原之势。"
+ },
+ "role_feature_congenital_intro2404": {
+  "en": "You've always liked firecrackers since you were a child. You have a firecracker-like temper, too. As the leader of a group of kids, you demanded absolute obedience. And long-term exercise made you physically strong.",
+  "ch": "你从小就对爆竹炮仗之类的小玩意十分感兴趣，在小孩子团队里，你是眼里容不得沙子的孩子王。火爆的脾气让你做什么都雷厉风行，长期坚持锻炼也让你身体愈加强壮。"
+ },
+ "role_feature_congenital_intro2405": {
+  "en": "People in your village saw you as a pushover. They'd always tell you to do this, help with that. You didn't mind. Instead, you stayed focused and did everything you were asked meticulously. Over time, you earned the respect of others.",
+  "ch": "在村子里，你是最敦厚老实的那个，这使得别人总是对你指手画脚，呼来唤去。但你不管做什么事都是专心致志，细致入微。这让你逐渐变得胆大心细，也越来越受到大家的尊重。"
+ },
+ "role_feature_congenital_intro2406": {
+  "en": "You were banished from your sect for breaking the legendary glass lamp. Out of bitterness, you went to a village ruled by your old sect and murdered several civilians. Since then, you've been living the life of a fugitive.",
+  "ch": "由于打翻了琉璃盏，你被一家无良教派赶出山门。你愤愤不平使出神通杀了教派治下村庄的几个凡人，并且在教派的追杀令下潜逃至今。"
+ },
+ "role_feature_congenital_intro2407": {
+  "en": "You're a bookworm who loves nothing more than talking about books. Though the years of acquiring knowledge have given you a keen acumen for cultivation, the lack of exercise has made you quite frail.",
+  "ch": "你是一个书呆子，平生最大的爱好就是品书论道。虽然多年的积累让你在修仙感悟上有了不少心得，但是长时间的缺乏锻炼也让你体质较弱。"
+ },
+ "role_feature_congenital_intro2408": {
+  "en": "An ancient tree appeared when you were born, and then your skin turned wrinkled like the bark of the ancient tree, turning people away from you. However, this skin gave you a high level of defense, an affinity with wood, and a kind heart.",
+  "ch": "出生时浮现出参天古树，你一出生皮肤宛如古树皮一般，处处皱褶，因此你被人各种嫌弃，但是树皮一般的皮肤也给了你不俗的防御力，木灵力和一颗善良的心。"
+ },
+ "role_feature_congenital_intro2409": {
+  "en": "Dragon blood flows through your veins. You were born with a mightier strength and endurance than ordinary people, and you're also luckier.",
+  "ch": "你有着龙的血脉，天生力气和耐打能力就此一般人强，而且似乎你比别人幸运一些。"
+ },
+ "role_feature_congenital_intro2410": {
+  "en": "Phoenix blood flows through your veins. You were born with a mightier strength than ordinary people, and you're also luckier.",
+  "ch": "你有着凤的血脉，天生力量就比一般人要强大，而且似乎你要比别人幸运得多。"
+ },
+ "role_feature_congenital_intro2411": {
+  "en": "Tiger blood flows through your veins. You were born with a mightier strength than ordinary people, and you're talented in close combat.",
+  "ch": "你有着虎的血脉，天生力气就比一般人要强大很多，而且似乎你比别人更擅长搏杀。"
+ },
+ "role_feature_congenital_intro2412": {
+  "en": "Elephant blood flows through your veins. Your natural physique allows you to withstand attacks better, and you're also luckier.",
+  "ch": "你有着象的血脉，天生的体魄和抗击打能力要比一般人强大很多，而且似乎你比别人幸运一些。"
+ },
+ "role_feature_congenital_intro2413": {
+  "en": "You met an old beggar when you were a child. He gave you a martial arts manual. After years of practice, however, you didn't grow stronger, rather better looking.",
+  "ch": "你小的时候，遇到一个老乞丐，老乞丐对你说，他与你有缘送了你一本书让你修炼，可是你练了好几年也只是变得好看一点！"
+ },
+ "role_feature_congenital_intro2414": {
+  "en": "Where the dragon veins lie, good fortune follows. Those who rule an empire or are the leaders of sects are all blessed by the mighty dragon, and so are the people under them.",
+  "ch": "在有龙脉之地会受天地气运护体，龙脉护体作为一国之君或宗门之首，麾下子民，弟子，都会收到庇护，受到龙神庇佑。"
+ },
+ "role_feature_congenital_intro2415": {
+  "en": "Graced by the phoenix, you possess the essence of both heaven and earth. You're more talented and better looking than ordinary people.",
+  "ch": "天地精华于一身的你，资质上就要更胜普通人一筹，容颜更是迷倒世间芳华。"
+ },
+ "role_feature_congenital_intro2416": {
+  "en": "Your ancestor once traversed the world of immortals and helped Yukong, the foolish old man, move Taihang Mountains and Wangwu Mountains. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且帮助愚公移平了太行山与王屋山。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2417": {
+  "en": "Your ancestor once traversed the world of immortals and helped Hou Yi defeat the Three-legged Crow. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且帮助后羿打败了三足乌。你盛装待发，准备再次前往山海八荒界。",
+  "nomes": {
+   "Three-legged Crow": "Corvo de Três Pernas"
+  }
+ },
+ "role_feature_congenital_intro2418": {
+  "en": "Your ancestor once traversed the world of immortals and helped Jingwei fill up the East Sea. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且帮助精卫填平了东海。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2419": {
+  "en": "Your ancestor once traversed the world of immortals and helped Suiren acquire the very first fire. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且帮助燧人氏取得了火种。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2420": {
+  "en": "Your ancestor once traversed the world of immortals and made the acquaintance of Kuafu. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且与夸父有过一番交集。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2421": {
+  "en": "Your ancestor once traversed the world of immortals and defeated Xingtian. You've now prepared yourself to make that same journey.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且打败了刑天残魂。你盛装待发，准备再次前往山海八荒界。",
+  "nomes": {
+   "Xingtian": "Xingtian"
+  }
+ },
+ "role_feature_congenital_intro2422": {
+  "en": "Your ancestor once traversed the world of immortals and made many enemies. You've now prepared yourself to avoid those same mistakes.",
+  "ch": "你的上一代人曾经在山海八荒界游历过，并且四面树敌。你盛装待发，准备再次前往山海八荒界。"
+ },
+ "role_feature_congenital_intro2423": {
+  "en": "Your fists have enormous power. When you throw a punch, the air trembles with sparks. You once killed a tiger with your bare hands when you were young.",
+  "ch": "你年少之时，曾经一人打死了一只巨虎，你的拳头力量奇大，拳风之中还隐隐带有火光一般，真是惊人。"
+ },
+ "role_feature_congenital_intro2424": {
+  "en": "When you were young, three flowers in the shapes of fire, earth, and lightning would grow atop you head. You had no idea what they meant. As you grew older, you realized you had the ability to control these three powers.",
+  "ch": "你在少年之时，发现头上经常会凝聚出火、土、雷一样的三种虚幻的花朵，虽然你也不知道怎么回事，但是随着你的成长，你发现你可以以心力激发这三种力量。"
+ },
+ "role_feature_congenital_intro2425": {
+  "en": "It's said that when you were born, exotic flowers bloomed around your house and the trees bore fruit overnight. Some say you were born with the power of the ancient tree spirit.",
+  "ch": "据说你出生之时，屋前屋后奇花盛开，香气四溢，桃李果实一晚便结满树头。有人说你身上带有上古建木的灵力。"
+ },
+ "role_feature_congenital_intro2426": {
+  "en": "Your hardships paid off as you were finally recognized by Ghost Valley, the most mysterious sect in all the world. Though you never really knew where it was located.",
+  "ch": "经过在山海八荒界的一番历练，你似乎已经被那个神秘的门派认可了。虽然你从来也没不知道这个门派在哪里。"
+ },
+ "role_feature_congenital_intro2501": {
+  "en": "You have a disposition as graceful as the luster of jade. You're deemed the definition of perfection and sweep many off their feet. Spending most of your time in your study, you have an unmatched charm but are also frail.",
+  "ch": "翩翩君子，温润如玉；守拙归朴，抱元求真。你是所有人心里最完美的样子，也是许多人暗地里幻想的对象。每日观文于书阁之中，你的气质无以伦比，身子骨却有些羸弱。"
+ },
+ "role_feature_congenital_intro2502": {
+  "en": "Your son has a disposition as graceful as the luster of jade. Though not as young and handsome as your son, as the father of the most eligible bachelor in town, you possess an extraordinary temperament. You're also tall and strong, which makes you more than capable of handling any labor work around the house.",
+  "ch": "翩翩君子，温润如玉；家有父，人称君父。作为国民岳父的你虽然没有孩子那么年轻俊美，却也是身姿挺拔，气质不凡。宽大而健壮的身材足以让你胜任家里的苦力活。"
+ },
+ "role_feature_congenital_intro2503": {
+  "en": "Staying single makes you happy. Your positive attitude has also earned you a good reputation.",
+  "ch": "在没有另一半的世界里，你过得很快乐。这也吸引着你身边的落魄之人向你投递出热情的眼神。"
+ },
+ "role_feature_congenital_intro2504": {
+  "en": "You're a loud talker. Too loud, in fact. You once scared a donkey to death only by shouting. As a result, you have had little luck in finding love. After all, no one enjoys staying too close to a megaphone all the time. But you do have quite the reputation. Everyone knows not to get on the wrong side of you for the sake of their ears.",
+  "ch": "你曾大声暴喝吓死了一头驴。这也让你的异性缘并不太好，毕竟没有谁愿意整天和一个扩音喇叭待在一起。但是十里八乡皆知你的威名，大家都有一个共识，惹谁也不能惹你，否则耳朵就得遭殃。"
+ },
+ "role_feature_congenital_intro2601": {
+  "en": "Apart from being left-handed, you're no different than most. Your mother told you left-handed people are smarter, and you believed her. Others beg to differ, though.",
+  "ch": "你从小就是一个左撇子，但是你并没有表现得太与众不同。母亲跟你说左撇子比常人更聪明，你觉得确实是这么一回事。但是似乎其他人并不这么认为。"
+ },
+ "role_feature_congenital_intro2602": {
+  "en": "You love to travel and meet all kinds of people. The places you've been, the things you've seen—they give you a certain aura that makes you out of this world but also approachable.",
+  "ch": "你喜欢云游天下，这帮你积累了大量的人脉；而你那因为见多识广而磨砺出来的一种出尘的气质，常常让别人喜欢与你多聊几句。"
+ },
+ "role_feature_congenital_intro2603": {
+  "en": "People assume you have good luck because you're the great grandchild of the chosen one. But quite the contrary, all sorts of misfortunes tend to happen to you...",
+  "ch": "原本大家以为你是天命者的曾孙，运气一定很好，但倒霉的事情却常常发生在你身上…"
+ },
+ "role_feature_congenital_intro2604": {
+  "en": "There's something about you that brings joy to people. You're liked by righteous sects but hated by demonic sects. During your cultivation journey, be sure to watch out for demonic sect members.",
+  "ch": "副正道根，时不时会有正气溢出，让人心旷神怡，受正道宗门之喜爱，魔道中人之厌恶。行走修仙界，要多多小心魔道中人。"
+ },
+ "role_feature_congenital_intro2605": {
+  "en": "There's something about you that strikes fear into people's heart. You're liked by evil sects but hated by righteous sects. During your cultivation journey, be sure to watch out for righteous sect members.",
+  "ch": "为人邪恶，常常伴有魔气缠身，让人心生畏惧，受魔道中人之喜欢，正道宗门之厌恶。行走修仙界，要多多小心正道宗门。"
+ },
+ "role_feature_congenital_intro2708": {
+  "en": "Proactive instead of reactive, that's your business secret. More often than not, you can get the same product for a cheaper price.",
+  "ch": "在推销自己的东西时，你总是比常人更加的积极和主动，懂得让别人理解自己的产品优势，往往能让自己的商品获得更多的利润。"
+ },
+ "role_feature_congenital_intro2709": {
+  "en": "Using your brain and experience, you always try to maximize your profit. People don't like you because that's all you care about.",
+  "ch": "在做买卖的过程中，你擅长利用自己的阅历与头脑，是自己的收益能够达到最大化。同时你只看重利益的嘴脸让周围的人都对你产生厌恶感。"
+ }
+}
