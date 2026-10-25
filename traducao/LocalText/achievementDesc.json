@@ -1019,11 +1019,8 @@
  "achievementDesc300031": {
   "ch": "通关且获得过宗门大比第一名20次",
   "en": "Complete the game and win First Place in Sect Tournaments 20 times.",
-  "pt": "Complete o jogo e vença o Torneio da Seita em 1º lugar 20 vezes.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Complete o jogo e conquiste o Primeiro Lugar nos Torneios da Seita 20 vezes.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "achievementDesc300032": {
   "ch": "通关且消灭过100000只小怪",

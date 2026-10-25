@@ -352,11 +352,8 @@
  "item_horse_desc_3011031": {
   "ch": "　　驺吾是古代中国神话传说中的仁兽。林氏国一种十分珍贵的神兽，个体如老虎一般，身上有五彩斑斓的花纹，尾巴比身子要长，像白毛黑纹的虎，但不吃活的禽兽，很能走，骑上能日行千里。",
   "en": "  The Zouyu is a rarely-spotted legendary beast from the Lin Kingdom. It resembles a tiger, but with white fur and black patterns and a tail longer than its body. It is not a predator of living creatures and can walk over a thousand kilometers a day, making it an excellent mount.",
-  "pt": "　　O Zouyu é uma fera lendária raramente vista do Reino de Lin. Ele se assemelha a um tigre, mas com pelagem branca e padrões pretos e uma cauda mais longa que seu corpo. Não é um predador de criaturas vivas e pode caminhar mais de mil quilômetros por dia, tornando-se uma excelente montaria.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "  O Zouyu é uma fera lendária raramente vista do Reino de Lin. Parece um tigre, mas com pelagem branca e padrões pretos e uma cauda mais longa que o corpo. Não se alimenta de criaturas vivas e consegue percorrer mais de mil quilômetros por dia, sendo uma excelente montaria.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "item_horse_desc_3021011": {
   "ch": "驺吾是古代中国神话传说中的仁兽。林氏国一种十分珍贵的神兽，个体如老虎一般，身上有五彩斑斓的花纹，尾巴比身子要长，像白毛黑纹的虎，但不吃活的禽兽，很能走，骑上能日行千里。",
@@ -607,20 +604,14 @@
  "item_horse_desc_8103221": {
   "ch": "乘黄是八荒世界传说中的异兽。《山海经·海外西经》：“白民之国在龙鱼北，白身披发。有乘黄，其状如狐，其背上有角，乘之寿二千岁。 ”",
   "en": "The Tenghuang is a mystic beast. \"The Nation of the White People is located to the north of where the Longyu can be found. The people there are white-skinned and long-haired. In the kingdom there's a beast called Tenghuang, which resembles a fox but with a horn on its back. Those who ride it shall live to two thousand years old.\" —Classic of Regions Beyond the Seas: West",
-  "pt": "A Tenghuang é uma fera mística. “A Nação dos Povos Brancos está localizada ao norte de onde o Longyu pode ser encontrado. As pessoas de lá têm a pele branca e cabelos longos. No reino há uma fera chamada Tenghuang, que semelha-se a uma raposa, mas com um chifre em suas costas. Aqueles que a montam viverão até os dois mil anos.” —Clássico das Regiões Além dos Mares: Oeste",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "O Tenghuang é uma fera mística. \"A Nação dos Brancos fica ao norte de onde se encontra o Longyu. Seu povo tem pele branca e cabelos longos. No reino há uma fera chamada Tenghuang, que se parece com uma raposa, mas com um chifre nas costas. Quem a montar viverá até dois mil anos.\" —Clássico das Regiões Além dos Mares: Oeste",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "item_horse_desc_8103231": {
   "ch": "《山海经·海外西经》：“龙鱼陵居在其北，状如貍。一曰鰕。”",
   "en": "\"To its north is the home of the Longyu. This fish resembles the common carp, though some say it's larger, with long whiskers.\" —Classic of Regions Beyond the Seas: West",
-  "pt": "“Ao norte está o lar do Longyu. Este peixe semelha-se ao carpim comum, embora alguns digam que é maior, com bigodes longos.” —Clássico das Regiões Além dos Mares: Oeste",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "\"Ao norte dele fica o lar do Longyu. Este peixe se parece com a carpa comum, embora alguns digam que é maior, com bigodes longos.\" —Clássico das Regiões Além dos Mares: Oeste",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "item_horse_desc_8103241": {
   "ch": "凡铁铸造而成，因材料极差，无法用于战斗，遂被制成代步之物。",

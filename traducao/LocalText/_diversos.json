@@ -1700,10 +1700,7 @@
   "ch": "张三",
   "en": "Zhang San",
   "pt": "Zhang San",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalMethod_desc1000": {
   "ch": "施放剑斩斩击全场，对所有敌人多次造成威力&710001_xfwl&的伤害，并释放1次斩击剑气。",
@@ -1902,10 +1899,7 @@
   "ch": "剑一",
   "en": "Jianyi",
   "pt": "Jianyi",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1002": {
   "ch": "芦花王",
@@ -1923,109 +1917,73 @@
   "ch": "东方茗雪",
   "en": "Mingxue",
   "pt": "Mingxue",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1005": {
   "ch": "离珠",
   "en": "Lizhu",
   "pt": "Lizhu",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1006": {
   "ch": "沧泷",
   "en": "Canglong",
   "pt": "Canglong",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1007": {
   "ch": "季沽魂",
   "en": "Ji Guhun",
   "pt": "Ji Guhun",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1008": {
   "ch": "梁渠",
   "en": "Liangqu",
   "pt": "Liangqu",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1009": {
   "ch": "双双",
   "en": "Shuangshuang",
   "pt": "Shuangshuang",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1010": {
   "ch": "风灵兰",
   "en": "Feng Linglan",
   "pt": "Feng Linglan",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1011": {
   "ch": "帝江",
   "en": "Dijiang",
   "pt": "Dijiang",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1012": {
   "ch": "瑶姬",
   "en": "Yaoji",
   "pt": "Yaoji",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1013": {
   "ch": "苏墨白",
   "en": "Su Mobai",
   "pt": "Su Mobai",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1014": {
   "ch": "厉寒珊",
   "en": "Li Hanshan",
   "pt": "Li Hanshan",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1015": {
   "ch": "鹿林溪",
   "en": "Lu Linxi",
   "pt": "Lu Linxi",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ImmortalName1016": {
   "ch": "紫姑",
@@ -2049,10 +2007,7 @@
   "ch": "张三",
   "en": "Zhang San",
   "pt": "Zhang San",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ItemHobbyLevel1": {
   "ch": "残品",
@@ -3827,10 +3782,10 @@
  "UIFairyLeagueAchievement_textRankFlagHeader": {
   "ch": "排名",
   "en": "Ranking",
-  "pt": "Ranking",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Classificação",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 13 > 10 caracteres"
   ]
  },
  "UIGetReward_dengxianjingyantishi": {
@@ -4710,10 +4665,7 @@
   "ch": "经",
   "en": "Sutra",
   "pt": "Sutra",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "ability_name_last3": {
   "ch": "式",
@@ -4913,10 +4865,7 @@
   "ch": "敖瑶",
   "en": "Ao Yao",
   "pt": "Ao Yao",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "appellationMgr_daohaoshixiao": {
   "ch": "未装备武技或绝技，且未佩戴相关道号，化解敌方伤害的效果将不生效",
@@ -4958,10 +4907,7 @@
   "ch": "天元",
   "en": "Tian Yuan",
   "pt": "Tian Yuan",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "areaName12": {
   "ch": "冥山",
@@ -4988,10 +4934,7 @@
   "ch": "雷泽",
   "en": "Lei Ze",
   "pt": "Lei Ze",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "areaName4": {
   "ch": "华封州",
@@ -5012,10 +4955,7 @@
   "ch": "云陌州",
   "en": "Yun Mo",
   "pt": "Yun Mo",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "areaName7": {
   "ch": "永恒冰原",
@@ -5983,11 +5923,8 @@
  "banben": {
   "ch": "版本",
   "en": "Patch",
-  "pt": "Patch",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Versão",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "banbenjihua": {
   "ch": "更新历程",
@@ -6773,10 +6710,7 @@
   "ch": "祭坛",
   "en": "Altar",
   "pt": "Altar",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "building10005Name_1701": {
   "ch": "漂浮的器鼎",
@@ -6928,11 +6862,8 @@
  "building1001Name8": {
   "ch": "坤元境",
   "en": "Land of the Beginning",
-  "pt": "坤元境",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Terra do Começo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "building2501Name": {
   "ch": "东海",
@@ -7315,20 +7246,14 @@
  "buildingDesc_1671": {
   "ch": "似乎是远古时期遗留至今的阵法…",
   "en": "It seems to be an array from the ancient times...",
-  "pt": "Parece ser uma Formação de tempos antigos…",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Parece ser uma formação dos tempos antigos...",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "buildingDesc_1681": {
   "ch": "站在远处都能感受到此树散发的灵气，树上似乎结了不少灵果…",
   "en": "Even from afar, you could feel the Qi emanating from the tree. There seems to be a number of spiritual fruits growing on it...",
-  "pt": "Mesmo de longe, é possível sentir o Qi emanando da árvore. Parece haver vários Frutos Espirituais crescendo nela…",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Mesmo de longe, dá para sentir o Qi emanando da árvore. Parece haver vários frutos espirituais crescendo nela...",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "buildingDesc_1691": {
   "ch": "战斗副本",
@@ -7434,20 +7359,19 @@
  "callSchool_shijie": {
   "ch": "师姐",
   "en": "{name|A}",
-  "pt": "{name|A}",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Irmã Marcial {name|A}",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 21 > 11 caracteres"
   ]
  },
  "callSchool_shixiong": {
   "ch": "师兄",
   "en": "{name|A}",
-  "pt": "{name|Mestre}",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Irmão Marcial {name|A}",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "largura: 13 > 11 caracteres"
+   "largura: 22 > 11 caracteres"
   ]
  },
  "canwu_canwutishi": {
@@ -7870,11 +7794,8 @@
  "careerAssessDesc16": {
   "ch": "酒醒只在花前坐，酒醉还来花下眠。于双修之中，你收益良多，终寻大道。",
   "en": "\"We'd drink under blossoms and have a tipsy nap amid fragrance.\" You believe the path to immortality should be traveled together, and you proved it through Dual Cultivation.",
-  "pt": "“Beberíamos sob as flores e tiraríamos uma soneca embriagados pela fragrância.” Você acredita que o caminho para a imortalidade deve ser trilhado juntos, e você provou isso através do Cultivo Dual.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "\"Beberíamos sob as flores e tiraríamos uma soneca embriagada em meio à fragrância.\" Você acredita que o caminho da imortalidade deve ser trilhado em companhia, e provou isso por meio do Cultivo Duplo.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerAssessDesc17": {
   "ch": "你对风水，阴阳之道颇有研究，鬼见鬼怕，魂见魂愁。 最终，你以毕生之经历，创作了一本小说《寻墓日记》，此书在八荒大陆广泛传播。",
@@ -7885,11 +7806,8 @@
  "careerAssessDesc18": {
   "ch": "在天愿作比翼鸟,在地愿为连理枝。",
   "en": "\"We'll be forever at the other's side, like birds soaring together and branches growing entwined.\"",
-  "pt": "“Estaremos para sempre ao lado um do outro, como pássaros voando juntos e galhos crescendo entrelaçados.”",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "\"Estaremos para sempre ao lado um do outro, como pássaros voando juntos e galhos crescendo entrelaçados.\"",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerAssessDesc19": {
   "ch": "你对炼丹之道颇有见解，且积极帮助其他人提高丹道的理解，你坚信好的丹药是能给人带来笑容的，只是被你喂下丹药的人们应该不会这么认为...",
@@ -7942,11 +7860,8 @@
  "careerAssessDesc26": {
   "ch": "“恭喜发财，材料拿来”，开局伸个手，终成天上仙！ 你的事迹让人忍俊不禁，广为流传。",
   "en": "\"I know an extraordinary cultivator who's always willing to give materials to friends...\" You are skilled in putting forward your requests; to your surprise, your tactic usually works.",
-  "pt": "“Conheço um cultivador extraordinário que está sempre disposto a dar materiais aos amigos...” Você é habilidoso em apresentar seus pedidos; para sua surpresa, sua tática geralmente funciona.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "\"Conheço um cultivador extraordinário que sempre dá materiais de bom grado aos amigos...\" Você tem habilidade para fazer seus pedidos; para sua surpresa, sua tática costuma funcionar.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerAssessDesc27": {
   "ch": "曾受大能恩惠，现希望传承。你深感修行之路不易，心怀恻隐，遂收下无数弟子，悉心指引。",
@@ -7981,29 +7896,20 @@
  "careerAssessDesc31": {
   "ch": "百舸争流千帆竞,借海扬帆奋者先！",
   "en": "\"Our arena is an open sea for the valiant to raise their sails of courage and venture into a world where only the most daring shall prevail!\"",
-  "pt": "“Nossa arena é um mar aberto para os valentes içarem as velas da coragem e se aventurarem em um mundo onde apenas os mais ousados prevalecerão!”",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "\"Nossa arena é um mar aberto para os valentes içarem as velas da coragem e se aventurarem num mundo onde só os mais audaciosos prevalecerão!\"",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerAssessDesc32": {
   "ch": "破邪佞，斩妖魔！",
   "en": "\"I'm here to clean up all evil!\"",
-  "pt": "“Estou aqui para purificar todo o Maligno!”",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "\"Vim para eliminar todo o mal!\"",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerAssessDesc33": {
   "ch": "读万卷书，行万里路。",
   "en": "Read and travel - they are the two ways of understanding the world.",
-  "pt": "Ler e viajar – são as duas maneiras de entender o mundo.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Ler e viajar: são os dois caminhos para compreender o mundo.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerAssessDesc34": {
   "ch": "你风流倜傥，身边常有佳人相伴，自然引来了很多不必要的麻烦事儿，可每次这一让人为难的抉择总能被你一一解决。",
@@ -8111,10 +8017,7 @@
   "ch": "{careerTime}，",
   "en": "{careerTime},",
   "pt": "{careerTime},",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerLogFairyLeague": {
   "ch": "{careerTime}，你加入了仙盟。",
@@ -8186,10 +8089,7 @@
   "ch": "{careerTime}，",
   "en": "{careerTime},",
   "pt": "{careerTime},",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerLogFirstRoleStealSucc": {
   "ch": "{careerTime}，首次偷窃了{name|B}的{0}。",
@@ -8207,19 +8107,13 @@
   "ch": "{careerTime}，",
   "en": "{careerTime},",
   "pt": "{careerTime},",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerLogFirstSchoolResBattle": {
   "ch": "{careerTime}，",
   "en": "{careerTime},",
   "pt": "{careerTime},",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerLogGeomanticCount": {
   "ch": "共堪舆{0}次。",
@@ -8291,19 +8185,13 @@
   "ch": "{careerTime}，",
   "en": "{careerTime},",
   "pt": "{careerTime},",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerLogNPCUpgradeSucc": {
   "ch": "{careerTime}，",
   "en": "{careerTime},",
   "pt": "{careerTime},",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerLogRefineElixirCount": {
   "ch": "共炼丹{0}次。",
@@ -8386,131 +8274,118 @@
  "careerLogRoleAppellation1001": {
   "ch": "{careerTime}，你获得了道号永宁州第一刀修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Blade Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Lâmina Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lâmina de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1002": {
   "ch": "{careerTime}，你获得了道号永宁州第一枪修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Spear Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Lança Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lança de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1003": {
   "ch": "{careerTime}，你获得了道号永宁州第一剑修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Sword Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Espada Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Espada de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1004": {
   "ch": "{careerTime}，你获得了道号永宁州第一拳修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Fist Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Punho Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Punho de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1005": {
   "ch": "{careerTime}，你获得了道号永宁州第一掌修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Palm Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Palma Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Palma de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1006": {
   "ch": "{careerTime}，你获得了道号永宁州第一指修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Finger Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Dedo Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Dedo de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1007": {
   "ch": "{careerTime}，你获得了道号永宁州第一火修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Fire Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Fogo Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Fogo de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1008": {
   "ch": "{careerTime}，你获得了道号永宁州第一水修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Water Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Água Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Água de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1009": {
   "ch": "{careerTime}，你获得了道号永宁州第一雷修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Lightning Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Relâmpago Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Relâmpago de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1010": {
   "ch": "{careerTime}，你获得了道号永宁州第一风修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Wind Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Vento Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Vento de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1011": {
   "ch": "{careerTime}，你获得了道号永宁州第一土修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Earth Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Terra Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Terra de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1012": {
   "ch": "{careerTime}，你获得了道号永宁州第一木修。",
   "en": "{careerTime}, you won the Taoist Title of Yong Ning No. 1 Wood Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Madeira Nº 1 de Yong Ning.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Madeira de Yong Ning.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1101": {
   "ch": "{careerTime}，你获得了道号华封州第一刀修。",
   "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Blade Cultivator.",
-  "pt": "{careerTime}, você ganhou o Nome Daoísta de Cultivador de Lâmina Nº 1 de Hua Feng.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lâmina de Hua Feng.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "glossário: Taoist Title → Título Daoísta"
+   "glossário: Cultivator → Cultivador"
   ]
  },
  "careerLogRoleAppellation1102": {
@@ -9017,11 +8892,8 @@
  "careerLogUpgradeSuccess": {
   "ch": "{careerTime}，你成功{0}，将境界突破至{1}。",
   "en": "{careerTime}, you tried to reach {0} and succeeded.",
-  "pt": "{careerTime}, você tentou alcançar {0} e conseguiu, elevando seu cultivo a {1}.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "{careerTime}, você tentou alcançar {0} e conseguiu.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "careerPressTip": {
   "ch": "按住鼠标左键",
@@ -9092,11 +8964,8 @@
  "cautiousTacticScopeDes": {
   "ch": "进攻的频率降低，并且长老对敌方资源点发动进攻时，需要询问宗主的意见。",
   "en": "The rate of attacks is reduced, and Elders must seek the Sect Leader's opinion on whether to launch an attack on an enemy's resource point.",
-  "pt": "A frequência de ataques é reduzida, e os <color=#00FF00>Anciãos</color> devem buscar a opinião do <color=#00FF00>Líder da Seita</color> antes de atacar um ponto de recurso inimigo.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "A frequência dos ataques diminui, e os Anciãos precisam consultar o Líder da Seita antes de atacar um ponto de recursos inimigo.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "chat_sinian": {
   "ch": "表达思念",
@@ -10892,20 +10761,14 @@
  "dlc_skill_attack_desc41101": {
   "ch": "点击空格释放，展开一片紫色领域，每点幸运转化为&41101_luckToAgile&点攻击速度，持续&41101_netherField&秒，冷却时间&41101_cd&秒。所有敌方单位持续受到冥气伤害，并且受到的伤害提升&41101_vulnerable&%。但领域内掉落的灵石将有&41101_manaMelt&%的概率被冥气消融掉（幸运越高，此概率越低）。",
   "en": "Press SPACE to cast. Unfold a violet canopy, gaining &41101_luckToAgile& Attack Speed from every Luck for &41101_netherField&s, cooldown: &41101_cd&s. All enemies will take damage over time from Nether Air, and their damage taken &41101_vulnerable&%. All Spirit Stones dropped inside the canopy have a &41101_manaMelt&% chance to melt, but a higher Luck will reduce the probability.",
-  "pt": "Pressione <color=#00FF00>ESPAÇO</color> para lançar. Desdobre um dossel violeta, ganhando <color=#00FF00>&41101_luckToAgile&</color> de Velocidade de Ataque por cada ponto de Sorte por <color=#00FF00>&41101_netherField&</color>s, recarga: <color=#00FF00>&41101_cd&</color>s. Todos os inimigos sofrerão dano contínuo do Ar do Submundo e terão o dano recebido aumentado em <color=#00FF00>&41101_vulnerable&</color>%. Pedras Espirituais soltas dentro do dossel têm <color=#00FF00>&41101_manaMelt&</color>% de chance de derreter, mas alta Sorte reduz a probabilidade.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Pressione ESPAÇO para lançar. Abre um dossel violeta que concede &41101_luckToAgile& de Velocidade de Ataque por cada ponto de Sorte durante &41101_netherField&s, recarga: &41101_cd&s. Todos os inimigos sofrem dano contínuo do Ar do Submundo, e o dano que recebem &41101_vulnerable&%. Todas as Pedras Espirituais que caírem dentro do dossel têm &41101_manaMelt&% de chance de derreter, mas uma Sorte maior reduz essa probabilidade.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc41102": {
   "ch": "展开一片绿色领域，持续&41102_flowerField&秒，冷却时间&41102_cd&秒。所有单位每秒回复&41102_hpRecover&%最大体力。在领域内召唤出食人花，食人花能吃掉附近的妖兽并吐出道具。",
   "en": "Unfold a verdant canopy for &41102_flowerField&s, cooldown: &41102_cd&s. Restore &41102_hpRecover&% of Max Vitality per second for all units (including enemies) in it, and spawn devouring flowers inside the canopy to eat monsters and spit out their drops.",
-  "pt": "Desdobre um domínio verdejante por &41102_flowerField&s, tempo de recarga: &41102_cd&s. Restaura &41102_hpRecover&% de <color=#00FF00FF>Vitalidade Máx.</color> por segundo para todas as unidades (incluindo inimigos) dentro dele, e evoca flores devoradoras no interior do domínio para comer <color=#00FFFF>monstros</color> e cuspir seus <color=#FFA500FF>drops</color>.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Abre um dossel verdejante por &41102_flowerField&s, recarga: &41102_cd&s. Restaura &41102_hpRecover&% da Vitalidade Máx. por segundo de todas as unidades dentro dele (inclusive inimigos) e faz surgir flores devoradoras no dossel, que comem monstros e cospem seus itens.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc41111": {
   "ch": "释放一颗会爆炸的灵球对周围敌人造成伤害。",
@@ -10916,20 +10779,14 @@
  "dlc_skill_attack_desc42101": {
   "ch": "随机复制一个友方召唤物并且与他们相连接，持续&42101_time&秒，连接后，召唤物将额外获得武罗的全部攻击速度加成，并且召唤物造成伤害时可为武罗吸血7%，冷却时间&42101_cd&秒。",
   "en": "Duplicate a random allied summoned unit and connect it for &42101_time&s. The summoned unit will gain a bonus Attack Speed equaling to Jagu's, and Jagu will gain a Vitality restoration equaling to 7% of the summoned unit's damage every time it attacks enemies. Cooldown: &42101_cd&s.",
-  "pt": "Duplique uma unidade invocada aliada aleatória e conecte-a por &42101_time&s. A unidade invocada ganhará um bônus de <color=#00FF00FF>Velocidade de Ataque</color> igual ao de Jagu, e Jagu ganhará uma <color=#00FF00FF>Recuperação de Vitalidade</color> igual a 7% do dano da unidade invocada sempre que ela atacar inimigos. Tempo de recarga: &42101_cd&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Duplica uma unidade invocada aliada aleatória e a conecta a você por &42101_time&s. A unidade invocada ganha um bônus de Velocidade de Ataque igual ao de Jagu, e Jagu recupera Vitalidade equivalente a 7% do dano da unidade invocada sempre que ela ataca inimigos. Recarga: &42101_cd&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc42102": {
   "ch": "为场上所有己方召唤物附加自身的攻击速度和暴击率，持续&42102_time&秒。",
   "en": "Grant all summoned units in the battlefield an additional Attack Speed and Crit Chance equal to yours for &42102_time&s.",
-  "pt": "Concede a todas as unidades invocadas no campo de batalha <color=#00FF00FF>Velocidade de Ataque</color> e <color=#00FF00FF>Chance Crítica</color> adicionais iguais aos seus por &42102_time&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Concede a todas as unidades invocadas no campo de batalha, por &42102_time&s, Velocidade de Ataque e Chance Crítica adicionais iguais às suas.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc43101": {
   "ch": "点击空格释放，快速向最近的敌人发射箭矢，箭矢对敌人造成少量伤害及击退，持续&43101_time&秒，且持续时间内，自身的技能会攻击范围内最远的目标。",
@@ -10940,11 +10797,8 @@
  "dlc_skill_attack_desc43102": {
   "ch": "点击空格释放，&43102_time&秒内获得强化，弹道数量&43102_ddslUp&，技能弹道射程&43102_jnscUp&%，攻击速度&43102_agileUp&%。",
   "en": "Press SPACE to cast. Gain &43102_ddslUp& extra Projectiles, &43102_jnscUp&% Skill Projectile Range, and &43102_agileUp&% Attack Speed in &43102_time&s.",
-  "pt": "Pressione ESPAÇO para lançar. Ganhe &43102_ddslUp& projéteis extras, &43102_jnscUp&% de <color=#00FF00FF>Alcance do Projétil</color> de <color=#00FF00FF>Habilidades</color> e &43102_agileUp&% de <color=#00FF00FF>Velocidade de Ataque</color> por &43102_time&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Pressione ESPAÇO para lançar. Em &43102_time&s, ganha &43102_ddslUp& Projéteis extras, &43102_jnscUp&% de Alcance do Projétil das Habilidades e &43102_agileUp&% de Velocidade de Ataque.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc43111": {
   "ch": "发射一道可穿透的箭矢攻击路径上所有的敌人",
@@ -10961,20 +10815,17 @@
  "dlc_skill_attack_desc45101": {
   "ch": "魅惑场上&45101_enchantRate&%的敌人（精英怪、大妖兽除外），被魅惑的敌人会暂时成为友方单位，并在&45101_enchantTime&秒后死亡，该技能每&45101_cd&秒可使用一次。",
   "en": "Charm &45101_enchantRate&% of the enemies (except for elite enemies and Mythical Beasts) on the battlefield. Enemies charmed will become your allies and will die after &45101_enchantTime&s. Cooldown: &45101_cd&s.",
-  "pt": "<color=#00FF00FF>Talismã</color> &45101_enchantRate&% dos inimigos (exceto inimigos de elite e <color=#00FF00FF>Feras Míticas</color>) no campo de batalha. Inimigos encantados se tornam seus aliados e morrem após &45101_enchantTime&s. Tempo de recarga: &45101_cd&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Enfeitiça &45101_enchantRate&% dos inimigos no campo de batalha (exceto inimigos de elite e Feras Míticas). Os inimigos enfeitiçados tornam-se seus aliados e morrem após &45101_enchantTime&s. Recarga: &45101_cd&s.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "glossário: Charm → Talismã"
   ]
  },
  "dlc_skill_attack_desc46101": {
   "ch": "蓄力&46101_chargeTime&秒后进行冲刺，冲刺后可击退周围的敌人，此技能蓄力满施放后，可刷新其它蓄力技能的CD，该技能每&46101_cd&秒可使用一次。",
   "en": "Dash forward after &46101_chargeTime&s of charging and knock enemies at your destination back. A full-charged cast of the skill will reset the Cooldown of other charge Skills. Cooldown: &46101_cd&s.",
-  "pt": "Avançe após &46101_chargeTime&s de <color=#00FF00FF>Carga</color> e repela inimigos no destino. Um lançamento totalmente carregado redefinirá o Tempo de Recarga de outras habilidades de <color=#00FF00FF>Carga</color>. Tempo de recarga: &46101_cd&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Avança em disparada após &46101_chargeTime&s de carga e empurra para trás os inimigos no destino. Um uso com carga completa reinicia a recarga das outras Habilidades de carga. Recarga: &46101_cd&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_name_middle41101": {
   "ch": "紫垣碧天",
@@ -10994,11 +10845,8 @@
  "dlc_skill_name_middle41111": {
   "ch": "夜雨楼初始技能",
   "en": "Night Rain Beginning Skill",
-  "pt": "<color=#00FF00FF>Habilidade</color> Inicial da <color=#00FF00FF>Chuva Noturna</color>",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Habilidade Inicial da Chuva Noturna",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_name_middle42101": {
   "ch": "予物通灵",
@@ -11030,29 +10878,20 @@
  "dlc_skill_name_middle43111": {
   "ch": "后羿初始技能",
   "en": "Hou Yi Beginning Skill",
-  "pt": "<color=#00FF00FF>Habilidade</color> Inicial de Hou Yi",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Habilidade Inicial de Hou Yi",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_name_middle44101": {
   "ch": "三清秘术",
   "en": "Qi Triplication",
-  "pt": "<color=#00FF00FF>Triplicação de Qi</color>",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Triplicação de Qi",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_name_middle45101": {
   "ch": "惑心魅形",
   "en": "Lethal Charm",
-  "pt": "<color=#00FF00FF>Talismã</color> Letal",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Talismã Letal",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_name_middle46101": {
   "ch": "猪突猛进",
@@ -11549,29 +11388,20 @@
  "drama_kuafu4": {
   "ch": "阿夸的精力小于<r>20</r>%时，每个月阿夸的移动距离<r>-1</r>。",
   "en": "When Agar's vitality is lower than <r>20</r>%, Agar's monthly move distance will decrease by 1.",
-  "pt": "Quando a vitalidade de Agar estiver abaixo de <r>20</r>%, a distância mensal de movimento <r>-1</r>.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Quando a vitalidade de Agar estiver abaixo de <r>20</r>%, a distância de movimento mensal de Agar diminuirá em 1.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "drama_kuafu5": {
   "ch": "阿夸的精力大于<g>20</g>%时，每个月阿夸的移动距离<g>+1</g>。",
   "en": "When Agar's vitality is larger than <g>20</g>%, Agar's monthly move distance will increase by 1.",
-  "pt": "Quando a vitalidade de Agar estiver acima de <g>20</g>%, a distância mensal de movimento <g>+1</g>.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Quando a vitalidade de Agar estiver acima de <g>20</g>%, a distância de movimento mensal de Agar aumentará em 1.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "drama_kuafu6": {
   "ch": "阿夸的精力大于<g>40</g>%时，每个月阿夸的移动距离<g>+2</g>。",
   "en": "When Agar's vitality is larger than <g>40</g>%, Agar's monthly move distance will increase by 2.",
-  "pt": "Quando a vitalidade de Agar estiver acima de <g>40</g>%, a distância mensal de movimento <g>+2</g>.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Quando a vitalidade de Agar estiver acima de <g>40</g>%, a distância de movimento mensal de Agar aumentará em 2.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "drama_kuafu7": {
   "ch": "阿夸的精力大于<g>60</g>%时，每个月阿夸的移动距离<g>+3</g>。",
@@ -11792,11 +11622,8 @@
  "drama_task_dialogueTEST": {
   "ch": "哈哈哈哈哈哈。。。。。",
   "en": "Hahahahaha...",
-  "pt": "Hahahahaha...",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Rá, rá, rá, rá...",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dramakuafu_dangqianzhuangtai": {
   "ch": "当前状态",
@@ -11930,11 +11757,8 @@
  "dungeon_enemy_num3": {
   "ch": "中等",
   "en": "Normal",
-  "pt": "Normal",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Médio",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dungeon_enemy_num4": {
   "ch": "较多",
@@ -11963,11 +11787,8 @@
  "dungeon_power_desc2": {
   "ch": "中等",
   "en": "Normal",
-  "pt": "Normal",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Médio",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dungeon_power_desc3": {
   "ch": "困难",
@@ -12092,11 +11913,8 @@
  "dungeon_typeDesc24": {
   "ch": "比试",
   "en": "Arena",
-  "pt": "Arena",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Duelo",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "dungeon_typeDesc3": {
   "ch": "雷劫",
@@ -12479,19 +12297,19 @@
  "dynDefDesc": {
   "ch": "防御增加{fixValue点}",
   "en": "DEF +{fixValue}",
-  "pt": "DEF +{fixValue}",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em {fixValue}",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 27 > 20 caracteres"
   ]
  },
  "dynDefDesc1": {
   "ch": "防御减少{fixValue点}",
   "en": "DEF -{fixValue}",
-  "pt": "DEF -{fixValue}",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Reduz a DEF em {fixValue}",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 25 > 20 caracteres"
   ]
  },
  "dynHPMAXDesc": {
@@ -13046,28 +12864,19 @@
   "ch": "蛟龙",
   "en": "Jiaolong",
   "pt": "Jiaolong",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderName2": {
   "ch": "勾陈",
   "en": "Gouchen",
   "pt": "Gouchen",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderName3": {
   "ch": "玄龟",
   "en": "Xuangui",
   "pt": "Xuangui",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderName4": {
   "ch": "陆吾",
@@ -13079,10 +12888,7 @@
   "ch": "重明",
   "en": "Chongming",
   "pt": "Chongming",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc1": {
   "ch": "在战斗中，每使用一次绝技，可提升&27100_tssh&%的伤害，最多可提升&27100_tssh|x27100_djcs|f0&%。",
@@ -13129,10 +12935,10 @@
  "elderSkillDesc17": {
   "ch": "防御提升&27107_tsfy&点。",
   "en": "DEF +&27107_tsfy&",
-  "pt": "DEF +&27107_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27107_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc18": {
@@ -13168,11 +12974,8 @@
  "elderSkillDesc23": {
   "ch": "在战斗中，每次使用神通时可激发一次勾陈之缚，在目标位置产生一个锁灵阵，阵内的敌人受到牵引效果，无法使用任何技能，并对阵内的敌人造成威力为&27203_shwl&/秒的特长资质伤害，封印阵持续&27203_cxsj&秒。",
   "en": "In battle, every time you cast an Ultimate Skill, you'll trigger Gouchen's Bond, which generates a Soultrap Formation that lasts &27203_cxsj&/s at the target location. Enemies inside the Soultrap Formation can't cast any skills and receive &27203_shwl&/s damage. This damage's type matches your highest stat.",
-  "pt": "Em <color=#00FF00FF>batalha</color:>, a cada uso de uma <color=#00FF00FF>Técnica Suprema</color:>, você ativa <color=#00FF00FF>Vínculo de Gouchen</color:>, gerando uma <color=#00FF00FF>Formação de Armadilha de Alma</color:> que dura &27203_cxsj&/s no local do alvo. Inimigos dentro da Formação de Armadilha de Alma não podem usar nenhuma <color=#00FF00FF>habilidade</color:> e recebem &27203_shwl&/s de <color=#00FF00FF>dano</color:>. Este dano corresponde ao seu atributo mais alto.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Em batalha, toda vez que você lançar uma Técnica Suprema, ativará o Vínculo de Gouchen, que gera uma Formação Prende-Alma por &27203_cxsj&s no local do alvo. Os inimigos dentro da Formação Prende-Alma não podem lançar nenhuma habilidade e recebem &27203_shwl&/s de dano. O tipo desse dano corresponde ao seu atributo mais alto.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc24": {
   "ch": "灵力上限提升&27204_tsll&点。",
@@ -13207,110 +13010,92 @@
  "elderSkillDesc29": {
   "ch": "防御提升&27209_tsfy&点。",
   "en": "DEF +&27209_tsfy&",
-  "pt": "<color=#00FF00FF>DEF</color:> +&27209_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27209_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc3": {
   "ch": "在战斗中，每累计受到&27300_ljsh&%最大体力的伤害时，可激发一次玄龟之甲，在&27300_cxsj&秒内减免大量受到的伤害。此效果每&27300_nzcd&秒最多触发一次。",
   "en": "In battle, after every (&27300_ljsh&% of your Max Vitality) damage you receive, you'll trigger Xuangui Shell, reducing incoming damage by a large amount for &27300_cxsj&s. This effect cannot occur more than once every &27300_nzcd&s.",
-  "pt": "Em <color=#00FF00FF>batalha</color:>, após receber dano equivalente a (&27300_ljsh&% da sua <color=#00FF00FF>Vitalidade Máx.</color:>), você ativa <color=#00FF00FF>Casca de Xuangui</color:>, reduzindo drasticamente o dano recebido por &27300_cxsj&s. Este efeito só pode ser ativado uma vez a cada &27300_nzcd&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Em batalha, a cada (&27300_ljsh&% da sua Vitalidade Máx.) de dano recebido, você ativará a Carapaça de Xuangui, reduzindo bastante o dano recebido por &27300_cxsj&s. Esse efeito não pode ocorrer mais de uma vez a cada &27300_nzcd&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc31": {
   "ch": "防御提升&27301_tsfy&点。",
   "en": "DEF +&27301_tsfy&",
-  "pt": "<color=#00FF00FF>DEF</color:> +&27301_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27301_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc32": {
   "ch": "防御提升&27302_tsfy&点。",
   "en": "DEF +&27302_tsfy&",
-  "pt": "<color=#00FF00FF>DEF</color:> +&27302_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27302_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc33": {
   "ch": "在战斗中，每次受到大于&27303_sdsh&%的最大体力的伤害时，可激发玄龟之吼，对周围的敌人造成威力&27303_shwl&的特长资质伤害，并使其晕眩&27303_yxsj&秒。",
   "en": "In battle, every time you receive damage more than &27303_sdsh&% of your Max Vitality, you'll trigger Xuangui's Roar, dealing &27303_shwl& damage to surrounding enemies and stunning them for &27303_yxsj&s. This damage's type matches your highest stat.",
-  "pt": "Em <color=#00FF00FF>batalha</color:>, ao receber dano superior a &27303_sdsh&% da sua <color=#00FF00FF>Vitalidade Máx.</color:>, você ativa <color=#00FF00FF>Rugido de Xuangui</color:>, causando &27303_shwl& de <color=#00FF00FF>dano</color:> em inimigos próximos e atordoando-os por &27303_yxsj&s. Este dano corresponde ao seu atributo mais alto.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Em batalha, toda vez que você receber dano superior a &27303_sdsh&% da sua Vitalidade Máx., ativará o Rugido de Xuangui, causando &27303_shwl& de dano aos inimigos ao redor e atordoando-os por &27303_yxsj&s. O tipo desse dano corresponde ao seu atributo mais alto.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc34": {
   "ch": "防御提升&27304_tsfy&点。",
   "en": "DEF +&27304_tsfy&",
-  "pt": "<color=#00FF00FF>DEF</color:> +&27304_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27304_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc35": {
   "ch": "在激发玄龟之甲时，还会引发全场地震，持续在全场的随机位置降下巨石，对命中的敌人造成威力&27305_shwl&的特长资质伤害，并使其晕眩&27305_yxsj&秒。",
   "en": "When Xuangui Shell is triggered, an earthquake will hit the entire battlefield, dropping boulders at random locations. Each boulder deals &27305_shwl& damage and stun the target for &27305_yxsj&s. This damage's type matches your highest stat.",
-  "pt": "Ao ativar a Casca de Xuangui, um <color=#00FF00FF>terremoto</color:> atinge todo o campo de batalha, fazendo <color=#00FF00FF>rochedos</color:> caírem em locais aleatórios. Cada rochedo causa &27305_shwl& de <color=#00FF00FF>dano</color:> e atordoa o alvo por &27305_yxsj&s. Este dano corresponde ao seu atributo mais alto.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Quando a Carapaça de Xuangui é ativada, um terremoto atinge todo o campo de batalha, derrubando pedregulhos em locais aleatórios. Cada pedregulho causa &27305_shwl& de dano e atordoa o alvo por &27305_yxsj&s. O tipo desse dano corresponde ao seu atributo mais alto.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc36": {
   "ch": "防御提升&27306_tsfy&点。",
   "en": "DEF +&27306_tsfy&",
-  "pt": "<color=#00FF00FF>DEF</color:> +&27306_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27306_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc37": {
   "ch": "体力上限提升&27307_tstl&点。",
   "en": "Max Vitality +&27307_tstl&",
-  "pt": "<color=#00FF00FF>Vitalidade Máx.</color:> +&27307_tstl&",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Vitalidade Máx. +&27307_tstl&",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc38": {
   "ch": "防御提升&27308_tsfy&点。",
   "en": "DEF +&27308_tsfy&",
-  "pt": "<color=#00FF00FF>DEF</color:> +&27308_tsfy&",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Aumenta a DEF em &27308_tsfy&",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 29 > 23 caracteres"
   ]
  },
  "elderSkillDesc39": {
   "ch": "念力上限提升&27309_tsnl&点。",
   "en": "Max Focus +&27309_tsnl&",
-  "pt": "<color=#00FF00FF>Foco Máx.</color:> +&27309_tsnl&",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Foco Máx. +&27309_tsnl&",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc4": {
   "ch": "在战斗中，每使用一次身法，可提升&27400_tsys&点移动速度，最多可提升&27400_tsys|x27400_djcs|f0&点。",
   "en": "In battle, every time you use a Motion Skill, you'll increase your Agility by &27400_tsys& (up to &27400_tsys|x27400_djcs|f0&).",
-  "pt": "Em <color=#00FF00FF>batalha</color:>, a cada uso de uma <color=#00FF00FF>Técnica de Movimento</color:>, sua <color=#00FF00FF>Agilidade</color:> aumenta em &27400_tsys& (até &27400_tsys|x27400_djcs|f0&).",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Em batalha, toda vez que você usar uma Técnica de Movimento, aumentará sua Agilidade em &27400_tsys& (até &27400_tsys|x27400_djcs|f0&).",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc41": {
   "ch": "念力上限提升&27401_tsnl&点。",
@@ -13327,12 +13112,8 @@
  "elderSkillDesc43": {
   "ch": "在战斗中，每次使用身法时，可召唤一个陆吾幻像，幻像在有敌人靠近时，会自动扑向敌人，并造成威力&27403_shwl&/秒的特长资质伤害，并使其移动速度&27403_jdys&%，持续&27403_jssj&秒。",
   "en": "In battle, every time you cast a Motion Skill, you'll summon Luwu's Phantom. The phantom will attack any approaching enemy, dealing &27403_shwl&/s damage. This damage's type matches your highest stat. Affected enemies' Agility &27403_jdys&% for &27403_jssj&s.",
-  "pt": "Em <color=#00FF00FF>batalha</color: 00FF00FF>, a cada <color=#00FF00FF>Habilidade de Movimento</color: 00FF00FF> lançada, você invoca o <color=#00FF00FF>Fantasma</color: 00FF00FF> de Luwu. O fantasma atacará qualquer inimigo que se aproximar, causando &27403_shwl& de dano/s. O tipo de dano corresponde ao seu atributo mais alto. Inimigos afetados têm <color=#0000FFFF>Agilidade</color: 0000FFFF> reduzida em &27403_jdys&% por &27403_jssj&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false",
-   "glossário: Motion Skill → Técnica de Movimento"
-  ]
+  "pt": "Em batalha, toda vez que você lançar uma Técnica de Movimento, invocará o Fantasma de Luwu. O fantasma atacará qualquer inimigo que se aproxime, causando &27403_shwl&/s de dano. O tipo desse dano corresponde ao seu atributo mais alto. A Agilidade dos inimigos atingidos &27403_jdys&% por &27403_jssj&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc44": {
   "ch": "念力上限提升&27404_tsnl&点。",
@@ -13343,10 +13124,10 @@
  "elderSkillDesc45": {
   "ch": "陆吾幻像每次扑向敌人后，有&27405_cfgl&%的概率激发陆吾冲击，每次冲击对命中的敌人造成威力&27405_cjsh&的特长资质伤害，并使其移动速度&27405_jdys&%，持续&27405_jssj&秒。",
   "en": "Every time Luwu's Phantom attacks an enemy, it has a &27405_cfgl&% chance to trigger Luwu's Charge, dealing &27405_cjsh& damage. This damage's type matches your highest stat. Affected enemies' Agility &27405_jdys&% for &27405_jssj&s.",
-  "pt": "Toda vez que o Fantasma de Luwu ataca um inimigo, há uma chance de &27405_cfgl&% de ativar a <color=#00FF00FF>Carga</color: 00FF00FF> de Luwu, causando &27405_cjsh& de dano. O tipo de dano corresponde ao seu atributo mais alto. Inimigos afetados têm <color=#0000FFFF>Agilidade</color: 0000FFFF> reduzida em &27405_jdys&% por &27405_jssj&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Toda vez que o Fantasma de Luwu ataca um inimigo, há &27405_cfgl&% de chance de ativar a Investida de Luwu, causando &27405_cjsh& de dano. O tipo desse dano corresponde ao seu atributo mais alto. A Agilidade dos inimigos atingidos &27405_jdys&% por &27405_jssj&s.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "glossário: Charge → Carga"
   ]
  },
  "elderSkillDesc46": {
@@ -13376,11 +13157,8 @@
  "elderSkillDesc5": {
   "ch": "当进入一个新的房间时，若体力低于&27500_tllj&%，则可回复&27500_hftl&%的体力。",
   "en": "Every time you enter a new room with less than &27500_tllj&% Vitality, you'll instantly restore &27500_hftl&% Vitality.",
-  "pt": "Ao entrar em uma nova sala com menos de &27500_tllj&% de <color=#00FF00FF>Vitalidade</color: 00FF00FF>, você recupera &27500_hftl&% de <color=#00FF00FF>Vitalidade</color: 00FF00FF> instantaneamente.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Toda vez que você entrar em uma nova sala com menos de &27500_tllj&% de Vitalidade, restaurará instantaneamente &27500_hftl&% de Vitalidade.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc51": {
   "ch": "体力上限提升&27501_tstl&点。",
@@ -13397,10 +13175,10 @@
  "elderSkillDesc53": {
   "ch": "当受到伤害时，可激发一次重明冲击，对命中的敌人造成威力&27503_shwl&的特长资质伤害，此效果每&27503_jncd&秒最多触发一次。",
   "en": "Every time you receive damage, you'll trigger Chongming Charge, dealing &27503_shwl& damage. This damage's type matches your highest stat. This effect cannot occur more than once every &27503_jncd&s.",
-  "pt": "Ao receber dano, você ativa a <color=#00FF00FF>Carga</color: 00FF00FF> de Chongming, causando &27503_shwl& de dano. O tipo de dano corresponde ao seu atributo mais alto. Este efeito não pode ocorrer mais de uma vez a cada &27503_jncd&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Toda vez que você receber dano, ativará a Investida de Chongming, causando &27503_shwl& de dano. O tipo desse dano corresponde ao seu atributo mais alto. Esse efeito não pode ocorrer mais de uma vez a cada &27503_jncd&s.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "glossário: Charge → Carga"
   ]
  },
  "elderSkillDesc54": {
@@ -13412,10 +13190,10 @@
  "elderSkillDesc55": {
   "ch": "重明冲击还可命中友方单位，命中友方单位时，可使友方单位回复&27505_hftl&点体力。",
   "en": "Chongming Charge also takes effect on allies. Every time it hits an ally, it'll restore the ally's Vitality by &27505_hftl&.",
-  "pt": "A <color=#00FF00FF>Carga</color: 00FF00FF> de Chongming também afeta aliados. A cada acerto em um aliado, restaura &27505_hftl& de <color=#00FF00FF>Vitalidade</color: 00FF00FF> do aliado.",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "A Investida de Chongming também afeta aliados. Toda vez que atinge um aliado, restaura &27505_hftl& de Vitalidade dele.",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "glossário: Charge → Carga"
   ]
  },
  "elderSkillDesc56": {
@@ -13445,11 +13223,8 @@
  "elderSkill_jinengshuoming": {
   "ch": "神魂技能说明",
   "en": "Divine Soul Skill Info",
-  "pt": "Informações sobre <color=#00FF00FF>Habilidade Divina</color: 00FF00FF> da <color=#00FF00FF>Alma</color: 00FF00FF>",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Informações da Habilidade da Alma Divina",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkill_qianghua": {
   "ch": "强化",
@@ -13906,62 +13681,38 @@
  "fieldSkillDesc11": {
   "ch": "领域内的敌人在每次使用技能时会受到&321001_jcsh&点$s_dao$伤害，且其使用技能若消耗了灵力，则会额外受到消耗灵力的&321001_cxsj&倍的$s_dao$伤害。",
   "en": "Every time an enemy inside the Field casts a skill, they'll receive &321001_jcsh& $s_dao$ damage. If this skill consumed Energy, the enemy will additionally receive (Energy consumed x&321001_cxsj&) $s_dao$ damage.",
-  "pt": "Toda vez que um inimigo dentro do {0} lança uma {1}, ele recebe &321001_jcsh& $s_dao$ de {2}. Se essa {1} consumiu {3}, o inimigo receberá {4} (consumo de {3} x&321001_cxsj&) $s_dao$ de {2}.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false",
-   "glossário: Energy → Energia"
-  ]
+  "pt": "Toda vez que um inimigo dentro do Campo lançar uma habilidade, receberá &321001_jcsh& de dano de $s_dao$. Se essa habilidade consumiu Energia, o inimigo receberá adicionalmente (Energia consumida x&321001_cxsj&) de dano de $s_dao$.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc111": {
   "ch": "领域内的敌人在受到效果造成的伤害时，将获得一层熔甲效果（每一层可降低&331001_jsfy&点防御，最多可叠加&331001_djcs&层，领域技能结束时，也移除所有敌人身上的此效果）。",
   "en": "Every time an enemy inside the Field receives damage from debuffs, they'll be inflicted with a stack of Melted Armor: Each stack of Melted Armor reduces DEF by &331001_jsfy& (up to &331001_djcs& stacks). When this Field Skill ends, all stacks of Scar will be removed from enemies.",
-  "pt": "Toda vez que um inimigo dentro do {0} recebe {1} de efeitos, ele ganha uma carga de Armadura Derretida: Cada carga de Armadura Derretida reduz a {5} em &331001_jsfy& (até &331001_djcs& cargas). Quando essa {6} termina, todas as cargas de {7} são removidas dos inimigos.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false",
-   "glossário: DEF → DEF",
-   "glossário: Skill → Habilidade"
-  ]
+  "pt": "Toda vez que um inimigo dentro do Campo receber dano de efeitos contínuos, ele sofrerá um acúmulo de Armadura Derretida: cada acúmulo de Armadura Derretida reduz a DEF em &331001_jsfy& (até &331001_djcs& acúmulos). Quando esta Habilidade de Campo terminar, todos os acúmulos de Cicatriz serão removidos dos inimigos.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc112": {
   "ch": "领域内的友方单位（包括自身）每受到一次伤害时，可获得一层浴火效果（每一层可提升自身的伤害&331002_tssh&%，且每秒回复&331002_hftl&点体力，持续&331002_cxsj&秒）。",
   "en": "Every time an ally (including yourself) inside the Field receives damage, they'll receive a stack of Trial by Fire: Every stack of Trial by Fire increases damage by &331002_tssh&% and restores &331002_hftl& Vitality every second for &331002_cxsj&s.",
-  "pt": "Toda vez que um aliado (incluindo você) dentro do {0} recebe {1}, ele ganha uma carga de Prova de Fogo: Cada carga de Prova de Fogo aumenta o {2} em &331002_tssh&% e restaura &331002_hftl& de {8} por segundo por &331002_cxsj&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false",
-   "glossário: Vitality → Vitalidade"
-  ]
+  "pt": "Toda vez que um aliado (incluindo você) dentro do Campo receber dano, ele ganhará um acúmulo de Provação do Fogo: cada acúmulo de Provação do Fogo aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vitalidade por segundo durante &331002_cxsj&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc113": {
   "ch": "领域内的友方单位（包括自身）每受到一次伤害时，可获得一层浴火效果（每一层可提升自身的伤害&331003_tssh&%，且每秒回复&331003_hftl&点体力，持续&331003_cxsj&秒）。",
   "en": "Every time an ally (including yourself) inside the Field receives damage, they'll receive a stack of Trial by Fire: Every stack of Trial by Fire increases damage by &331003_tssh&% and restores &331003_hftl& Vitality every second for &331003_cxsj&s.",
-  "pt": "Toda vez que um aliado (incluindo você) dentro do {0} recebe {1}, ele ganha uma carga de Prova de Fogo: Cada carga de Prova de Fogo aumenta o {2} em &331003_tssh&% e restaura &331003_hftl& de {8} por segundo por &331003_cxsj&s.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false",
-   "glossário: Vitality → Vitalidade"
-  ]
+  "pt": "Toda vez que um aliado (incluindo você) dentro do Campo receber dano, ele ganhará um acúmulo de Provação do Fogo: cada acúmulo de Provação do Fogo aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vitalidade por segundo durante &331003_cxsj&s.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc12": {
   "ch": "自身获得&321002_xxbl&%的吸血，并使领域内的所有单位（无论敌我），造成的伤害提升&321003_tssh&%。",
   "en": "You convert &321002_xxbl&% of damage done into your Vitality and increase the damage of all units (both allies and enemies) inside the Field by &321003_tssh&%.",
-  "pt": "Você converte &321002_xxbl&% do {2} recebido em {8} e aumenta o {2} de todas as unidades (aliados e inimigos) dentro do {0} em &321003_tssh&%.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false",
-   "glossário: Vitality → Vitalidade"
-  ]
+  "pt": "Você converte &321002_xxbl&% do dano causado em Vitalidade e aumenta em &321003_tssh&% o dano de todas as unidades (aliadas e inimigas) dentro do Campo.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc121": {
   "ch": "领域内的敌人死亡时，有&332001_zhgl&%的概率召唤一个敌人的幻像，幻像会自动移动和攻击，承受&332001_sjcs&次攻击后死亡。",
   "en": "Every time an enemy inside the Field dies, you have a &332001_zhgl&% chance to summon a phantom of the dead enemy. The phantom moves and attacks automatically and dies after receiving &332001_sjcs& attacks.",
-  "pt": "Toda vez que um inimigo dentro do {0} morre, você tem &332001_zhgl&% de chance de invocar um {9} do inimigo morto. O {9} se move e ataca automaticamente e morre após receber &332001_sjcs& ataques.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Toda vez que um inimigo dentro do Campo morrer, há &332001_zhgl&% de chance de invocar um fantasma do inimigo morto. O fantasma se move e ataca automaticamente e morre após receber &332001_sjcs& ataques.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc122": {
   "ch": "每1秒燃烧自身当前&332002_xhll&%的灵力，对领域内的所有敌人造成$s_shui$伤害，每燃烧1点灵力，可使伤害的威力增加&332002_shwl&。",
@@ -15648,11 +15399,10 @@
  "ghostMountPillar_txtMatInfo2": {
   "ch": "（持有：",
   "en": "Owned:",
-  "pt": "（Possuídos:",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "(Em posse:",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "largura: 11 > 9 caracteres"
+   "largura: 10 > 9 caracteres"
   ]
  },
  "ghostMountPillar_txtMatInfo3": {
@@ -16672,11 +16422,8 @@
  "handlekey_lianqi_shuoming": {
   "ch": "按下指定按键可摧毁能量球，摧毁杂质球并保留纯度球，纯度越高法宝炼制成功率越高。",
   "en": "Press the specified button to destroy the energy ball, destroy the impurity ball and retain the purity ball, the higher the purity of the magic weapon refining success rate.",
-  "pt": "Pressione o botão especificado para destruir a bola de {Energy|Energia}, destruir a bola de impureza e reter a bola de pureza. Quanto maior a pureza, maior a taxa de sucesso na refinação da arma mágica.",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Pressione a tecla indicada para destruir a esfera de energia: destrua a esfera de impureza e preserve a esfera de pureza. Quanto maior a pureza, maior a chance de sucesso na refinação do artefato.",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "handlekey_modTips": {
   "ch": "订阅MOD及本地MOD的开启与关闭操作已进行手柄适配，其他MOD功能如编辑MOD、导入/导出等功能的操作需要使用键鼠。",
@@ -16849,38 +16596,26 @@
  "herdBattlelog1001": {
   "ch": "{0}号城墙惊现{1}，请仙盟顶尖战力速速前往，将其剿灭！",
   "en": "{1} appears at Wall No. {0}! Please go there and exterminate it!",
-  "pt": "{1} aparece no Muro nº {0}! Vá até lá e extermine-o!",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "{1} apareceu na Muralha nº {0}! Vá até lá e extermine-o!",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "herdBattlelog1002": {
   "ch": "在仙盟众人的齐心努力下，{0}号城墙的冥妖已被彻底斩杀！",
   "en": "Nether Demons in Wall No. {0} are cleared by Alliance warriors!",
-  "pt": "Demônios do Submundo no Muro nº {0} foram eliminados pelos guerreiros da Aliança!",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Os Demônios do Submundo da Muralha nº {0} foram eliminados pelos guerreiros da Aliança!",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "herdBattlelog1003": {
   "ch": "未曾想到，{0}号城墙的{1}竟已被{2}击杀！",
   "en": "{1} at Wall No. {0} was killed by {2}!",
-  "pt": "{1} no Muro nº {0} foi morto por {2}!",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "{1} da Muralha nº {0} foi morto por {2}!",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "herdBattlelog1004": {
   "ch": "{0}号城墙的{1}已然幻化真身，对仙盟产生严重威胁！",
   "en": "{1} at Wall No. {0} has transformed into true form. A serious threat!",
-  "pt": "{1} no Muro nº {0} se transformou em sua forma verdadeira. Uma ameaça séria!",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "{1} da Muralha nº {0} assumiu sua verdadeira forma. Uma séria ameaça!",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "herdMonstLevel-1": {
   "ch": "怪物",
@@ -17762,10 +17497,7 @@
   "ch": "第{0}层",
   "en": "第{0}层",
   "pt": "{0}º andar",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "honor_text51": {
   "ch": "已通关",
@@ -17777,10 +17509,7 @@
   "ch": "第{0}层",
   "en": "第{0}层",
   "pt": "{0}º andar",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "honor_text53": {
   "ch": "左键选择一个奖励",
@@ -17863,11 +17592,8 @@
  "honor_text65": {
   "ch": "位",
   "en": "{#kong}",
-  "pt": "Posição",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "{#kong}",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "honor_text66": {
   "ch": "层",
@@ -17935,29 +17661,20 @@
  "iconStyle_dark": {
   "ch": "Steam Drak",
   "en": "Steam Drak",
-  "pt": "Steam Drak",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Steam Escuro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "iconStyle_knockout": {
   "ch": "Steam Knockout",
   "en": "Steam Knockout",
-  "pt": "Steam Knockout",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Steam Vazado",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "iconStyle_light": {
   "ch": "Steam Light",
   "en": "Steam Light",
-  "pt": "Steam Light",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Steam Claro",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "iconStyle_local": {
   "ch": "默认",
@@ -18324,19 +18041,13 @@
   "ch": "材料",
   "en": "Material",
   "pt": "Material",
-  "auto": "gemini/gemini-2.5-flash",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "itemType_danyao": {
   "ch": "丹药",
   "en": "Elixir",
   "pt": "Elixir",
-  "auto": "gemini/gemini-2.5-flash",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "itemType_fabao": {
   "ch": "法宝",
@@ -18705,11 +18416,8 @@
  "letterContent1001": {
   "ch": "我在{0}被{1}打败，并且肉身被毁，仅剩一丝游魂，需要一颗{2}才可重塑肉身！",
   "en": "I was defeated by {1} in {0}. Now, I'm on my last breath and need a {2} to reconstruct my body!",
-  "pt": "Fui derrotado por {1} em {0}. Agora, estou no meu último {0} e preciso de uma {2} para reconstruir meu corpo!",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Fui derrotado por {1} em {0}. Agora estou no meu último suspiro e preciso de um {2} para reconstruir meu corpo!",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "letterContent101": {
   "ch": "你的拍卖品{0}在{1}已竞拍成功，拍卖行已扣除了部分佣金, 你获得了{2}灵石。",
@@ -18744,11 +18452,8 @@
  "letterContent201": {
   "ch": "你身为本宗的{0}，理应要成为{1}之人，但你当前只是{2}，因你不注重自己的名誉，从而沾污了宗门之名望，作为惩戒，你本年的俸禄将减少{3}！",
   "en": "你身为本宗的{0}，理应要成为{1}之人，但你当前只是{2}，因你不注重自己的名誉，从而沾污了宗门之名望，作为惩戒，你本年的俸禄将减少{3}！",
-  "pt": "Como {0} desta {1}, você deveria ser um exemplo de {2}, mas atualmente é apenas {3}. Por negligenciar sua reputação, manchaste o prestígio da {1}. Como punição, sua renda anual será reduzida em {4}!",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Como {0} desta seita, você deveria ser alguém {1}, mas atualmente é apenas {2}. Por não zelar pela própria reputação e ter manchado o nome da seita, como punição seu salário deste ano será reduzido em {3}!",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "letterContent202": {
   "ch": "本宗为正道之宗，不容许宗内有堕入魔道之徒！念你入魔未深，还有改邪归正之机会，故宗门向你发出此警告，望你能明辨是非，迷途知返！此次作为惩罚，宗门将扣除你当前{0}%的宗门贡献！",
@@ -18849,11 +18554,8 @@
  "letterContent227": {
   "ch": "{1}，见信如面。\n回想我们相识后的往事，在离开前还是决定向你辞别。\n自从传承认可你为宗主以后，我确实一度有些消沉。\n虽然心有不甘但更多的是对自己能力不足，未能尽好宗主之职的悔恨。\n我打算外出游历一番，望君勿念，他日或许还会再见！\n{0}",
   "en": "{1}, I wish I could be seeing you in person like the letter.\nWe had went through a lot together, and I want to say goodbye before I leave.\nI was once in a slump after the Tradition has recognized you as the Sect Leader.\nI was envious, but I was actually more frustrated - that I was incapable as a Sect Leader.\nI have decided to go venture the world. Rest assured, and see you then!\n{0}",
-  "pt": "{1}, gostaria de poder vê-lo pessoalmente como esta carta.\nPassamos por muita coisa juntos, e quero me despedir antes de partir.\nEstive em uma depressão após a Tradição ter reconhecido você como Líder da Seita.\nEstava com inveja, mas na verdade estava mais frustrado — por ser incapaz como Líder da Seita.\nDecidi me aventurar pelo mundo. Fique tranquilo, e nos vemos depois!\n{0}",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "{1}, queria poder ver você em pessoa, como se esta carta fosse o rosto.\nPassamos por muita coisa juntos, e quero me despedir antes de partir.\nEu fiquei abatido depois que a Tradição reconheceu você como Líder da Seita.\nSenti inveja, mas na verdade me senti mais frustrado - por não ter sido capaz como Líder da Seita.\nDecidi viajar pelo mundo. Fique tranquilo, e até breve!\n{0}",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "letterContent301": {
   "ch": "你我约定在{0}举办婚事，为何却不见你的踪影！没想到你是这般薄情之人，我最近都不想见到你了！",
@@ -19840,19 +19542,13 @@
   "ch": "女儿红",
   "en": "Nu Er Hong",
   "pt": "Nu Er Hong",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "liquorName1002": {
   "ch": "十八仙",
   "en": "18 Luohan",
   "pt": "18 Luohan",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "liquorName1003": {
   "ch": "醉生梦死",
@@ -25373,28 +25069,19 @@
   "ch": "当康",
   "en": "Dangkang",
   "pt": "Dangkang",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace10002": {
   "ch": "雷神",
   "en": "Hatuibwari",
   "pt": "Hatuibwari",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace10003": {
   "ch": "鸣蛇",
   "en": "Coatl",
   "pt": "Coatl",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace10004": {
   "ch": "山挥",
@@ -25406,19 +25093,13 @@
   "ch": "长乘",
   "en": "Leonid",
   "pt": "Leonid",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace10006": {
   "ch": "鲮鱼",
   "en": "Carpia",
   "pt": "Carpia",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace10007": {
   "ch": "孟极",
@@ -25430,19 +25111,13 @@
   "ch": "梼杌",
   "en": "Taowu",
   "pt": "Taowu",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace10009": {
   "ch": "饕餮",
   "en": "Taotie",
   "pt": "Taotie",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1001": {
   "ch": "树妖",
@@ -25520,19 +25195,13 @@
   "ch": "褚犍",
   "en": "Zhujian",
   "pt": "Zhujian",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1012": {
   "ch": "饕餮",
   "en": "Taotie",
   "pt": "Taotie",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1013": {
   "ch": "朱厌",
@@ -25553,10 +25222,7 @@
   "ch": "穷奇",
   "en": "Qiongqi",
   "pt": "Qiongqi",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1016": {
   "ch": "英招",
@@ -25568,10 +25234,7 @@
   "ch": "奢比尸",
   "en": "Sagittar",
   "pt": "Sagittar",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1018": {
   "ch": "长右",
@@ -25583,10 +25246,7 @@
   "ch": "当康",
   "en": "Dangkang",
   "pt": "Dangkang",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1020": {
   "ch": "人面鸮",
@@ -25598,10 +25258,7 @@
   "ch": "开明兽",
   "en": "Lydra",
   "pt": "Lydra",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1022": {
   "ch": "山挥",
@@ -25613,10 +25270,7 @@
   "ch": "计蒙",
   "en": "Jimeng",
   "pt": "Jimeng",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1024": {
   "ch": "孟极",
@@ -25634,10 +25288,7 @@
   "ch": "梼杌",
   "en": "Taowu",
   "pt": "Taowu",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1027": {
   "ch": "狰",
@@ -25655,28 +25306,19 @@
   "ch": "鸣蛇",
   "en": "Coatl",
   "pt": "Coatl",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1030": {
   "ch": "雷神",
   "en": "Hatuibwari",
   "pt": "Hatuibwari",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1031": {
   "ch": "酸与",
   "en": "Suanyu",
   "pt": "Suanyu",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1032": {
   "ch": "鬿雀",
@@ -25700,19 +25342,13 @@
   "ch": "长乘",
   "en": "Leonid",
   "pt": "Leonid",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1036": {
   "ch": "鲮鱼",
   "en": "Carpia",
   "pt": "Carpia",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmonRace1037": {
   "ch": "旱魃",
@@ -25724,10 +25360,7 @@
   "ch": "竹妖",
   "en": "Bambuki",
   "pt": "Bambuki",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "potmon_fangshengtishi1": {
   "ch": "壶妖已契约，无法放生",

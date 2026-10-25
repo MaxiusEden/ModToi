@@ -68,11 +68,8 @@
  "effect_name10641": {
   "ch": "嗜血",
   "en": "嗜血",
-  "pt": "Sede de {Blood|Sangue}",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Sede de Sangue",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_name10651": {
   "ch": "横扫",
@@ -95,11 +92,10 @@
  "effect_name110016": {
   "ch": "血池",
   "en": "Blood Pool",
-  "pt": "Poço de {Blood|Sangue}",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Poça de Sangue",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false",
-   "largura: 22 > 13 caracteres"
+   "largura: 14 > 13 caracteres"
   ]
  },
  "effect_name120": {
@@ -123,11 +119,8 @@
  "effect_name141": {
   "ch": "识灵护体",
   "en": "Spirit of Inspiration",
-  "pt": "{Spirit|Espírito} da Inspiração",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Espírito da Inspiração",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_name200006": {
   "ch": "老树回血",

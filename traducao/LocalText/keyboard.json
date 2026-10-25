@@ -69,10 +69,7 @@
   "ch": "AltGr",
   "en": "AltGr",
   "pt": "AltGr",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_Ampersand": {
   "ch": "&",
@@ -120,10 +117,7 @@
   "ch": "Break",
   "en": "Break",
   "pt": "Break",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_C": {
   "ch": "C",
@@ -135,10 +129,7 @@
   "ch": "CapsLock",
   "en": "Caps Lock",
   "pt": "Caps Lock",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_Caret": {
   "ch": "^",
@@ -149,11 +140,8 @@
  "keyboard_Clear": {
   "ch": "Clear",
   "en": "Clear",
-  "pt": "Clear",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Limpar",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_Colon": {
   "ch": ":",
@@ -176,11 +164,8 @@
  "keyboard_Delete": {
   "ch": "Delete",
   "en": "Delete",
-  "pt": "Delete",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "Del",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_Dollar": {
   "ch": "$",
@@ -780,10 +765,7 @@
   "ch": "Enter",
   "en": "Enter",
   "pt": "Enter",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_RightAlt": {
   "ch": "右RAlt",
@@ -876,10 +858,7 @@
   "ch": "SysReq",
   "en": "SysReq",
   "pt": "SysReq",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "keyboard_T": {
   "ch": "T",

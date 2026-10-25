@@ -303,10 +303,7 @@
   "ch": "论道",
   "en": "Debate",
   "pt": "Debate",
-  "auto": "gemini/gemini-2.5-flash",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "npcInfo_meimei": {
   "ch": "妹妹",
@@ -411,10 +408,7 @@
   "ch": "人际关系",
   "en": "Social",
   "pt": "Social",
-  "auto": "cohere/command-a-vision-07-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "npcInfo_renshushangxian": {
   "ch": "宗门人数已达上限！",

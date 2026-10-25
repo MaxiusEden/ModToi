@@ -1809,54 +1809,39 @@
   "ch": "雷泽",
   "en": "Lei Ze",
   "pt": "Lei Ze",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battle_dungeon_name1032": {
   "ch": "雷泽",
   "en": "Lei Ze",
   "pt": "Lei Ze",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battle_dungeon_name1033": {
   "ch": "雷泽",
   "en": "Lei Ze",
   "pt": "Lei Ze",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battle_dungeon_name1034": {
   "ch": "雷泽",
   "en": "Lei Ze",
   "pt": "Lei Ze",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battle_dungeon_name1035": {
   "ch": "雷泽",
   "en": "Lei Ze",
   "pt": "Lei Ze",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battle_dungeon_name104": {
   "ch": "灵狐青丘",
   "en": "Foxhill",
-  "pt": "Foxhill",
-  "auto": "cohere/command-a-reasoning-08-2025",
+  "pt": "Colina da Raposa",
+  "auto": "nuvem/claude-sonnet-5-5",
   "revisar": [
-   "omni ok=false"
+   "largura: 16 > 10 caracteres"
   ]
  },
  "battle_dungeon_name1041": {
@@ -3375,10 +3360,7 @@
   "ch": "{mapData125}",
   "en": "{mapData125}",
   "pt": "{mapData125}",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "battle_dungeon_name8002041": {
   "ch": "",

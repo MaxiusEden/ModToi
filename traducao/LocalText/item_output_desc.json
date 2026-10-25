@@ -2,20 +2,14 @@
  "item_output_desc1011461": {
   "ch": "<root0>可在一些<g>宗门</g>中的<g>聚宝仙楼</g>中兑换获得。</root0><root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
   "en": "<root0>Redeem this item in the <g>Treasure Pavilion</g> of certain <g>Sects</g>.</root0> <root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName2}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName2}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName2}</g>.</root1>",
-  "pt": "<root0>Resgate este item no <g>Pavilhão do Tesourog> de certas <g>Seitasg>.</root0> <root0>Obtenha este item através de <g>Alquimiag> (requer <g>Receita de Elixirg>, <g>Fornalhag> e <g>Ervasg>).</root0> <root1>Sua <g>Receitag> pode ser comprada em <g>Oficinasg> em <g>{#areaName2}g>.</root1> <root1>A <g>Fornalhag> pode ser comprada no <g>Pavilhão do Tesourog> das seitas em <g>{#areaName2}g>.</root1> <root1><g>Ervasg> podem ser compradas em <g>Mercadosg> em <g>{#areaName2}g>.</root1>",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "<root0>Resgate este item no <g>Pavilhão do Tesouro</g> de certas <g>Seitas</g>.</root0> <root0>Obtenha este item por meio de <g>Alquimia</g> (requer <g>Receita de Elixir</g>, <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> de <g>{#areaName2}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas de <g>{#areaName2}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName2}</g>.</root1>",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "item_output_desc1011462": {
   "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
   "en": "<root0>Obtain this item from <g>Alchemy</g> (requires <g>Elixir Recipe</g>, <g>Furnace</g>, and <g>Herbs</g>).</root0> <root1>Its <g>Recipe</g> can be purchased at <g>Workshops</g> in <g>{#areaName2}</g>.</root1> <root1>The <g>Furnace</g> can be purchased in the <g>Treasure Pavilion</g> of sects in <g>{#areaName2}</g>.</root1> <root1><g>Herbs</g> can be purchased at <g>Markets</g> in <g>{#areaName2}</g>.</root1>",
-  "pt": "<root0>Obtenha este item através de <g>Alquimiag> (requer <g>Receita de Elixirg>, <g>Fornalhag> e <g>Ervasg>).</root0> <root1>Sua <g>Receitag> pode ser comprada em <g>Oficinasg> em <g>{#areaName2}g>.</root1> <root1>A <g>Fornalhag> pode ser comprada no <g>Pavilhão do Tesourog> das seitas em <g>{#areaName2}g>.</root1> <root1><g>Ervasg> podem ser compradas em <g>Mercadosg> em <g>{#areaName2}g>.</root1>",
-  "auto": "cohere/command-a-reasoning-08-2025",
-  "revisar": [
-   "omni ok=false"
-  ]
+  "pt": "<root0>Obtenha este item por meio de <g>Alquimia</g> (requer <g>Receita de Elixir</g>, <g>Fornalha</g> e <g>Ervas</g>).</root0> <root1>Sua <g>Receita</g> pode ser comprada nas <g>Oficinas</g> de <g>{#areaName2}</g>.</root1> <root1>A <g>Fornalha</g> pode ser comprada no <g>Pavilhão do Tesouro</g> das seitas de <g>{#areaName2}</g>.</root1> <root1>As <g>Ervas</g> podem ser compradas nos <g>Mercados</g> de <g>{#areaName2}</g>.</root1>",
+  "auto": "nuvem/claude-sonnet-5-5"
  },
  "item_output_desc1011463": {
   "ch": "<root0>可通过<g>炼丹</g>获得（炼丹需要：<g>丹方</g>、<g>丹炉</g>、<g>药材</g>）。</root0><root1><g>丹方</g>可在<g>{#areaName2}</g>区域内的城镇的<g>工坊</g>中购买获得。</root1><root1><g>丹炉</g>可在<g>{#areaName2}</g>区域内的宗门中的<g>聚宝仙楼</g>中兑换获得。</root1><root1><g>药材</g>可在<g>{#areaName2}</g>区域内的城镇的<g>坊市</g>中购买获得。</root1>",
