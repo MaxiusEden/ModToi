@@ -2,6 +2,7 @@
 import argparse
 import collections
 import contextlib
+import http.client
 import json
 import os
 import re
@@ -598,7 +599,7 @@ def local_alive():
     try:
         with urllib.request.urlopen(f'{LOCAL_URL}/api/v1/model', timeout=5) as r:
             return json.loads(r.read().decode('utf-8')).get('result')
-    except (OSError, ValueError):
+    except (OSError, ValueError, http.client.HTTPException):  # IncompleteRead quando o KoboldCpp corta a resposta
         return None
 
 
