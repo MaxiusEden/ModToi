@@ -1,6 +1,6 @@
 # Relatório rev11 (revisão de `src_rev11.json`)
 
-- Modelo: Claude (revisão direta, entrada por entrada). 1000 entradas revisadas, 282 corrigidas em `out_rev11.json`.
+- Modelo: Claude (revisão direta, entrada por entrada). 1000 entradas revisadas, 281 corrigidas em `out_rev11.json`.
 - Verificador `--parcial`: 0 ERRO; 2 AVISO falsos (`skillDescS1604` "emaranha" no lugar de "Emaranhar", `skillDescS202` "Recarregando" vs "Ponto de Recarga").
 - Erros mais comuns:
   - Prefixos de nome de habilidade (`skillPrefixName*`, um caractere chinês no `en`): traduções soltas ou erradas ("月" Mês, "镇" Cidade, "穿" Vestir, "气" Ar, "仞" ren, "苍" Azul-claro/cinza, "御" Respeitosamente). Unificadas por caractere.
