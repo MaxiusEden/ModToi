@@ -1,0 +1,9 @@
+# Revisão rev05
+
+- Modelo: Claude (sessão na nuvem); revisão de `pt` (Hy-MT2) sobre 1000 entradas.
+- Corrigidas: 270 entradas em `out_rev05.json`. Verificador `--parcial`: 0 ERRO, 0 AVISO.
+- Erros mais comuns: sentido trocado ("Player" virou "Reprodutor", "Still" virou "Ainda", "Sit/Stand" virou "Situação/Suporte", "Subscribed" virou "Assinante", "Claim" virou "Reclamação"); "Plot" vertido como "Gráfico"/"lote"; "item" sem plural e "materiales"; nomes de NPC com ordem trocada ("Portal Guarda", "Venerável Tartaruga", "Vilão" no lugar de "Aldeão"); nomes em inglês deixados soltos (Spotted Pig, Butler, Frank Villager, Flaming Bill); "Early/Middle/Late" como "Cedo/Atrasado"; tratamento "a senhorita" no lugar de "você".
+- Diálogos de seita/NPC (en em chinês): "Dao"/"caminho justo/demoníaco" no lugar de "vida monástica" e "magia"; singular no lugar do plural ("Sejam bem-vindos, companheiros").
+- Consistência: cargos repetidos de NPC (Auction Clerk, Innkeeper, Bounty Board Clerk, Tavern Owner) unificados na forma mais usada; "Aldeia da Montanha do Dragão" unificada; "Pavilhão dos Manuais" para o pavilhão de escrituras.
+- Passivas de Arte Imortal: plural "Artes Imortais", "Cortes de Espada", "Vontade da Espada" (nome da 1001 igual ao do nome: Trovão Ardente); maiúsculas dos nomes das passivas.
+- Dúvidas de termo para o usuário: (1) `nomes` de `potmonName10001..10009` ("Novenário", "Celeste", "Arranha-Céu") parecem estranhos para "Cloud Nine", "Cerulean", "Skyscraper"; usei os dados com o sufixo "(Espírito)". (2) `nomes` "Leviatan", "Ninfeta do Grotão", "Sacerdote da Montanha da Lua Caindo", "Corvo de Três Pernas Piro", "Sunny = Solar" seguidos como dados, embora soem fracos. (3) "Rank" dos Imortais da Terra virou "Nível". (4) Deixei sem mudança "Sanguine Riverstar" e "Canopy Cloud" (nomes em inglês sem tradução aprovada).
