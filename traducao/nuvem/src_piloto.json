@@ -1,0 +1,453 @@
+{
+ "drama_dialogue70641": {
+  "en": "You're back! How did it go?",
+  "ch": "你回来了？此行收获如何？"
+ },
+ "drama_option81100083": {
+  "en": "{getUnitProp|A|2}",
+  "ch": "{getUnitProp|A|2}"
+ },
+ "drama_option81100162": {
+  "en": "{getUnitProp|A|1}",
+  "ch": "{getUnitProp|A|1}"
+ },
+ "drama_option81100081": {
+  "en": "{getUnitProp|A|0}",
+  "ch": "{getUnitProp|A|0}"
+ },
+ "drama_option80101312": {
+  "en": "I'll look for it again",
+  "ch": "我再找找"
+ },
+ "drama_option90030022": {
+  "en": "What's the word \"strange\" mean?",
+  "ch": "怪怪的是什么意思？"
+ },
+ "effect_desct9901112": {
+  "en": "When you use a Motion Skill, a Following Bug Phantom is generated. The Phantom deals &9901112_shjd|+10000|f0&% damage. A Phantom can be generated once per &9901112_lqsj& seconds at most. The generated Phantom lasts &9901112_cxsj&s.",
+  "ch": "使用身法时，可生成一个跟屁虫的幻影，幻影造成的伤害为&9901112_shjd|+10000|f0&%。每&9901112_lqsj&秒最多生成一个幻影，生成的幻影持续&9901112_cxsj&秒。",
+  "nomes": {
+   "Following Bug": "Grudento"
+  }
+ },
+ "effect_value_desc262": {
+  "en": "召唤雷印概率：{0}%",
+  "ch": "召唤雷印概率：{0}%"
+ },
+ "fateStoryDesc700110": {
+  "en": "After your breakthrough, the same strange thing still appears sometimes after you kill an enemy. But now, you've learned how to use it better and make it appear more often.",
+  "ch": "你再次突破后，似乎对击杀敌人时出现的东西有了更多的了解，现在你能运用它的其他效果同时让它们更容易出现。"
+ },
+ "item_book_desc_8103101": {
+  "en": "Nice to meet you, peer cultivator! My name is {name_packageUnit_220_1}, and I have witnessed the power of your beasts in my journey. I believe it would be great for me to have a master cultivator like you as a friend, and I will visit you after 3 months with a little gift.",
+  "ch": "道友幸会，多有叨扰。在下名叫{name_packageUnit_220_1}，有幸在游历时与阁下的妖兽有过交集。非常想与阁下结识一番，三个月后定会备上薄礼登门拜访。"
+ },
+ "item_desc6181810": {
+  "en": "After learning the {#item_name6181810} you will be able to concoct the {#item_name3031108}.",
+  "ch": "习得了{#item_name6181810}后，就能炼制{#item_name3031108}。"
+ },
+ "item_desc5081425": {
+  "en": "Hard to spot with the naked eye. Very good at hiding.\nCultivators in the Origin Spirit stage, when reaching the Nascent Soul stage via a Breakthrough, may use this treasure to gain excellent stats.\n<g>●</g>May be obtained by slaying the <r>Mythical Beast</r> in {#building1001Name7}, {#building1001Name8} in the <g>{#areaName6}</g> area.\n<g>●</g>You may obtain the <g>Mythical Beast Map</g> in the <g>Land of Beyond</g> of the <g>{#areaName6}</g> area. Activate the <g>Mythical Beast Map</g> to find <r>{#battle_dungeon_name7241}</r>, where you may slay the <r>Mythical Beast</r> for a chance to obtain this item.",
+  "ch": "纤薄如细肉眼难见，有隐匿之能\n具灵境的修仙者在突破至元婴境时，辅以此天材地宝，可以大幅提升修仙者的属性。\n<g>●</g>可在<g>{#areaName6}</g>区域内的{#building1001Name7}、{#building1001Name8}内，击杀其中出现的<r>大妖兽</r>有概率获得。\n<g>●</g>可在<g>{#areaName6}</g>区域内的<g>无极之境</g>中获得<g>五岳真形图</g>，激活<g>五岳真形图</g>即可寻找到<r>{#battle_dungeon_name7241}</r>，击杀其中的<r>大妖兽</r>有概率获得。"
+ },
+ "item_desc5031203": {
+  "en": "A rather low-rarity Herb for concocting Elixirs used for Breakthroughs.\n<g>●</g>Obtain by killing monsters in <g>Cloud Cave</g> (<g>{#areaName5}</g>) (learning its Prescription will increase its drop quantity).",
+  "ch": "生长在山海界中的中低阶罕见药材，可以用于炼制突破境界的丹药。\n<g>●</g>可通过击杀<g>{#areaName5}</g>区域内<g>碧云洞天</g>中的怪物获得（学习药谱后可增加掉落）"
+ },
+ "item_desc1011463": {
+  "en": "An Elixir that helps Cultivators break through Qi Refining and reach Foundation - Mortal. It increases the Breakthrough's success rate.\n<g>●</g>Its Recipe can be purchased at <g>Workshops</g> in {mapData102}. The Furnace can be purchased in the <g>Markets</g> or the <g>Treasure Pavilion</g> of sects. Once you've obtained the Elixir Recipe and the Furnace, as well as all the Herbs needed, you can try concocting this Elixir.\n<g>●</g>Alternatively, after collecting all the Herbs needed, you can have the <g>Workshops</g> in {mapData102} concoct this Elixir for you. By doing so, you don't need to buy the Elixir Recipe and the Furnace, but the Elixir concocted will have a low rarity.",
+  "ch": "能够帮助炼气境的修真者突破至人道筑基境的丹药，是大部分炼气境修真者的目标。增加突破人道筑基境成功概率。\n<g>●</g>在{mapData102}中的<g>工坊</g>中可购买丹方，在<g>坊市</g>或宗门的<g>聚宝仙楼</g>中可购买丹炉，集齐丹方所需要的药材，即可炼丹。\n<g>●</g>也可集齐丹方所需要的药材，在{mapData102}中的<g>工坊</g>中代炼丹药。（代炼丹药不需要购买丹方及丹炉，但炼制出的丹药品质较低）"
+ },
+ "item_desc6331032": {
+  "en": "A charm originated from the beginning of time. Use to teleport to a town or sect of your choosing in {#areaName4}. Note: You must reach its Affinity requirement to teleport to a sect.",
+  "ch": "可以穿越空间的符咒，记录了八荒世界开天辟地时的一丝气息。使用后可传送至{#areaName4}区域内的城镇或可传送的宗门（宗门好感度达到传送的要求）。"
+ },
+ "item_desc1081003": {
+  "en": "Restores &1081003_smhf&% of max HP.\nRemoves <#791515>Heavily Wounded</color>.",
+  "ch": "恢复最大生命&1081003_smhf&%。\n解除 <#791515>重伤状态</color>。"
+ },
+ "item_desc2021143": {
+  "en": "After learning this Prescription, you'll be able to identify Sky Grass, which can be gathered in <g>{#areaName4} and {#areaName5}</g>. Learning its Prescription also increases its drop quantity when you kill monsters.",
+  "ch": "习得了向天草药谱后，就能够辨认出向天草。能够在<g>{#areaName4}、{#areaName5}</g>区域内采集到向天草。并且可提升击杀怪物时掉落的向天草",
+  "nomes": {
+   "Sky Grass": "Grama do Céu"
+  }
+ },
+ "item_desc5031666": {
+  "en": "A high-rarity Herb for concocting Elixirs used by Cultivators in high Realms.\n<g>●</g>Gather it in <g>{#areaName10} and {#areaName11}</g> (requires learning its Prescription first).\n<g>●</g>Alternatively, you can obtain it by killing monsters in <g>{#areaName10} and {#areaName11}</g> (learning its Prescription will increase its drop quantity).",
+  "ch": "生长在山海界中的高阶药材，可以用于炼制一些高境界使用的丹药。\n<g>●</g>可在<g>{#areaName10}、{#areaName11}</g>区域内采集获得（需要先学习药谱）\n<g>●</g>可通过击杀<g>{#areaName10}、{#areaName11}</g>区域内的怪物获得（学习药谱后可增加掉落）"
+ },
+ "item_desc2021022": {
+  "en": "After learning this Prescription, you'll be able to identify Chi-Ji Grass, which can be gathered in <g>{#areaName1}, {#areaName2}, and {#areaName3}</g>. Learning its Prescription also increases its drop quantity when you kill monsters.",
+  "ch": "习得了赤精草药谱后，就能够辨认出赤精草。能够在<g>{#areaName1}、{#areaName2}、{#areaName3}</g>区域内采集到赤精草。并且可提升击杀怪物时掉落的赤精草",
+  "nomes": {
+   "Chi-Ji Grass": "Chi-Ji Grass"
+  }
+ },
+ "item_desc6381003": {
+  "en": "An item containing memories of Tushan Jun and Yu's life and death, a condensation of their entangled emotions, it contains divine traces of the Heavenly Path. Use it to modify Rewrite Destiny in Enlightenment realm and below. One use only. If you use this object in the Sect, you are bound to gain insight into the Sect's exclusive Rewrite Destiny as a choice.",
+  "ch": "封存涂山珺与阿禹生死回忆的物件，凝练着两者复杂纠结的情感，隐约蕴含天道法则神力。使用后可以更改悟道境及以下的逆天改命，使用一次后失效。若在宗门中使用此物，则必然会领悟宗门专属的逆天改命以供选择。"
+ },
+ "item_desc1011102": {
+  "en": "The most common Energy Elixir. Use to recover Energy by a small amount.",
+  "ch": "最为常见的能够恢复灵力的丹药，使用后能够恢复少量的灵力值。"
+ },
+ "item_desc7000416": {
+  "en": "A painting given to you by Zigu. She painted you into it, maybe that’s what you look like in her eyes.",
+  "ch": "紫姑所赠之画，里面画着你，似乎这就是紫姑心中你的样子。"
+ },
+ "item_desc3031106": {
+  "en": "Artifact forged with a Teardrop Jade as a core, a tremendous help to the user.",
+  "ch": "使用泪玉之瞳为核心炼制而成的器形，唤之可以给自身带来无穷的帮助。",
+  "nomes": {
+   "Teardrop Jade": "Jade Lágrima"
+  }
+ },
+ "item_desc3000641": {
+  "en": "Effective for 1 month. Use to adjust male Dangkang's desire for reproduction. Contains a high concentration of Dangkang's Yang essence. Caution: keep at a safe place and avoid accidental ingestion.",
+  "ch": "此药蕴含极浓的当康元阳，可在一个月内有效调节雄性当康的繁殖热情。需要妥善保管，不可误食！",
+  "nomes": {
+   "Dangkang": "Dangkang"
+  }
+ },
+ "item_desc6061151": {
+  "en": "A Furnace used for concocting Elixirs. Required Alchemy stat: 100. This Furnace has 4 material slots.\n[White Lightning] (Active skill. You must click to use it.): Consume 1 Durability to convert 50% of Lightning into Wind. This skill can only be used 3 times per concoction.\n[Ascending Lightning]: Every time you add a material, you have a 20% chance to double the Lightning element in the material.",
+  "ch": "用于炼制丹药的器炉，要求炼丹资质达到100才能使用，此丹炉拥有4个材料槽。\n【白雷】主动点击使用：将当前50%雷元素转化为风元素，消耗1点丹炉耐久度，每次炼丹最多可使用3次。\n【升雷】每次放入材料时，有20%的概率使材料中的雷元素翻倍。",
+  "nomes": {
+   "Lightning": "Relâmpago"
+  }
+ },
+ "item_desc3010322": {
+  "en": "This elixir could accelerate the flow of Energy inside the body and facilitate its accumulation. Available in battle: grant charging time reduction to Charge Skills.",
+  "ch": "服用此丹可暂时让自身灵力运转加快，更易积蓄灵力。战斗中使用此丹可使蓄力技能更易施放。"
+ },
+ "item_desc5281101": {
+  "en": "Essence of fire and water, hard ice that can burn the flesh.",
+  "ch": "水火之精，一块可灼伤人肤的坚冰。"
+ },
+ "item_desc6051161": {
+  "en": "A set of instructions for concocting the Blood Sun Elixir.\nBlood Sun Elixir: Legend has it, all those who took this Elixir received mighty power, but, at the same time, lost control of themselves and became bloodthirsty killing machines. Use to temporarily increase ATK by an enormous amount.",
+  "ch": "记录着血煞破阳丹的炼制方法。\n血煞破阳丹：传说服用了此丹药之人，全都迷失了自我，成为嗜血好战的杀人机器，同时也将自身的实力提升到了一个未知的境界。使用后能暂时提升大量的攻击。"
+ },
+ "potmonSkillLifeDesc2011": {
+  "en": "Chance to obtain <o>condensed Mushroom Man's Breath</o> when adventuring in the world.",
+  "ch": "有概率在外出历练时获得<o>药灵凝结之息</o>。",
+  "nomes": {
+   "Mushroom Man": "Homem Cogumelo"
+  }
+ },
+ "prefixDescS30158": {
+  "en": "Wood Root &30158_basWoodUp&",
+  "ch": "木灵根&30158_basWoodUp&"
+ },
+ "prefixDescS410007": {
+  "en": "Resolves your misfortune and disappears after it, granting you &410007_hpRestoreUp& Vitality Restoration and &410007_expUp&% EXP Gained in your next battle.",
+  "ch": "可解除灾厄，且下一场战斗中体力回复&410007_hpRestoreUp&，获得修为&410007_expUp&%。解除灾厄后会自行消散。"
+ },
+ "prefixDescS1202007": {
+  "en": "Generate a chasing Ice Cone when the skill hits an enemy. The Ice Cone also has a chance to inflict Frost when dealing damage",
+  "ch": "此技能每命中一个敌人，可生成一道追踪的冰锥，自动攻击敌人，冰锥同时也有概率加霜冻"
+ },
+ "role_feature_postnatal_tips700203": {
+  "en": "Now you can concoct Elixirs with your Mirage Pot, and you'll receive &700203_shjd&% damage from behind. You could bring &700203_dysl& elixirs into battle. (Select to replace Mirage Pot; can be upgraded to Mirage Pot I)",
+  "ch": "可以使用幻灵锅炼制丹药，使自身受到来自背面的伤害&700203_shjd&%，携带进入战斗的丹药数量&700203_dysl&。（选择后替换幻灵锅，可升级为天级幻灵锅）",
+  "nomes": {
+   "Mirage Pot": "Pote da Miragem",
+   "Mirage Pot I": "Pote da Miragem I"
+  }
+ },
+ "role_feature_postnatal_tips700086": {
+  "en": "When you're dying, you'll instantly burrow into the ground, recovering &700086_hfxl&% Vitality every second for &700086_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to Burrow II)",
+  "ch": "在战斗中濒临死亡时，立刻遁入地下，且每秒回复&700086_hfxl&%的体力，持续&700086_cxsj&秒。（每场战斗只能触发一次，可升级为金蝉假影）"
+ },
+ "role_feature_postnatal_tips700001": {
+  "en": "Each of your attacks has a &700001_bxgl&% chance to turn the target into a harmless chicken for &700001_cxsj&s. (Can be upgraded to Witchcraft II; ineffective on Mythical Beasts and other Cultivators)",
+  "ch": "你的攻击注入了妖法之术，在攻击时有&700001_bxgl&%的概率将目标变形成一只无害的小鸡，持续&700001_cxsj&秒。（可升级为妖术进阶，对大妖兽与修仙者无效）"
+ },
+ "role_feature_postnatal_tips700149": {
+  "en": "Increased &700149_jlzj&% rewards from Mission completion",
+  "ch": "每次完成任务获得的奖励增加&700149_jlzj&%"
+ },
+ "role_feature_postnatal_tips700144": {
+  "en": "Agility increased by &700144_ysts&% and immune to damage every &700144_jgsj&s",
+  "ch": "移动速度提高&700144_ysts&%，且每&700144_jgsj&秒免疫一次伤害"
+ },
+ "role_feature_postnatal_tips700073": {
+  "en": "Receive &700073_tsdd& Skill Points.",
+  "ch": "获得&700073_tsdd&道点。"
+ },
+ "role_feature_postnatal_tips700072": {
+  "en": "Receive &700072_tsdd& Skill Points.",
+  "ch": "获得&700072_tsdd&道点。"
+ },
+ "role_feature_postnatal_tips8805228": {
+  "en": "Power secretly entered by the Sect Leader makes your whole body meridians flow smoothly and your strength increase greatly. Max HP +20%.",
+  "ch": "宗主暗中输入的一道罡气，让你全身经脉畅行，实力大增。血量上限+20%"
+ },
+ "role_feature_congenital_tips1106": {
+  "en": "ATK +2, Demonic +50, Charisma -100",
+  "ch": "攻击力+2,魔道+50，魅力-100"
+ },
+ "role_feature_postnatal_tips9300102": {
+  "en": "Chance to trigger events of requesting another character with high Affinity into a relationship",
+  "ch": "有概率出现与亲密度较高的其他角色请求结成关系"
+ },
+ "role_feature_postnatal_tips20001": {
+  "en": "Crit DMG doubles, ATK +10%",
+  "ch": "增加一倍暴击伤害，增加10%攻击力"
+ },
+ "role_feature_congenital_intro1430": {
+  "en": "You were raised by wolves. Growing up in the jungle has trained you to be physically quick and strong, but on the other hand, you are not very liked by others.",
+  "ch": "你自幼被狼养大，丛林生活让你的拳脚功夫和速度了得，不过你似乎不怎么招人喜欢。"
+ },
+ "role_feature_postnatal_tips7011": {
+  "en": "You can't use Elixirs.",
+  "ch": "不能使用丹药。"
+ },
+ "role_feature_postnatal_tips700133": {
+  "en": "Artifact Spirit Favored Skills do not have to meet casting conditions",
+  "ch": "使用器灵的本命技能无需达成施展条件。"
+ },
+ "skill_attack_desc44113": {
+  "en": "Unleash a small storm that lasts &44113_ddsj&s at the target location within &44113_range&. The storm stops at the target location, dealing &44113_dmg&/s $s_feng$ damage to every enemy it hits.",
+  "ch": "朝距离&44113_range&以内的目标位置发射一道持续&44113_ddsj&秒的小型风暴，风暴在到达目标位置后会停止移动，并持续对碰撞到的敌人造成威力&44113_dmg&/秒的$s_feng$伤害。"
+ },
+ "skill_attack_desc41112": {
+  "en": "Unleash a flame forward (range: &41112_range&), dealing &41112_dmg& $s_huo$ damage.",
+  "ch": "持续向前方范围&41112_range&内喷出一道火焰，对敌人造成威力&41112_dmg&的$s_huo$伤害。"
+ },
+ "skill_attack_desc11614": {
+  "en": "向前方快速释放剑影，对敌人造成伤害，且有50%概率为自己叠加一层剑心状态，最多可叠加3层。",
+  "ch": "向前方快速释放剑影，对敌人造成伤害，且有50%概率为自己叠加一层剑心状态，最多可叠加3层。"
+ },
+ "skill_attack_desc8061": {
+  "en": "The Roc deals a powerful strike with its sharp talons.",
+  "ch": "鲲鹏挥动其锋利的爪子对敌人发动迅猛一击。"
+ },
+ "spriteTalent_unlockDesc100831": {
+  "en": "Kill {0}/1 Human-faced Feline to unlock. (Monster - chance to find in Nether Air Guard (Alliance Mission) and Wave of Monsters)",
+  "ch": "击杀怪物类{0}/1个后解锁。（仙盟任务-冥气仙卫和兽潮中有较高概率出现此怪物）",
+  "nomes": {
+   "Human-faced Feline": "Felino com rosto humano"
+  }
+ },
+ "spriteTalent_unlockDesc100728": {
+  "en": "Requires Spirit Stones x{0}/10000.",
+  "ch": "需要灵石{0}/10000。"
+ },
+ "spriteTalent_unlockDesc100407": {
+  "en": "Kill Leonid (Mythical Beast) x{0}/2 to unlock.",
+  "ch": "击杀大妖兽长乘{0}/2个后解锁。"
+ },
+ "spriteTalentDesc100615": {
+  "en": "When you're equipped with an Artifact combined with this Artifact Spirit, for every &91051_sxll& Energy you have, your ATK will increase by &91051_llgj& (max increase of 1,000 ATK). The previous effect will be overwritten.",
+  "ch": "装备了此器灵所融合的法宝时，在战斗中法宝所有者当前每有&91051_sxll&点灵力，可提升&91051_llgj&点攻击（最大可提升1000点攻击）。覆盖之前的效果。"
+ },
+ "spriteTalentDesc202209": {
+  "en": "{#sprite_race_7_passive_1}'s cooldown -&910743_bjjg%1+1&s.",
+  "ch": "{#sprite_race_7_passive_1}的间隔时间缩短&910743_bjjg%1+1&秒。"
+ },
+ "spriteTalent_unlockDesc100441": {
+  "en": "Kill Reed (Normal Monster) x{0}/20 to unlock.",
+  "ch": "击杀普通怪物草精{0}/20个后解锁。"
+ },
+ "spriteTalent_unlockDesc202207": {
+  "en": "Requires Spirit Stones x{0}/10000.",
+  "ch": "需要灵石{0}/10000。"
+ },
+ "spriteTalent_unlockDesc202006": {
+  "en": "Submit Manual of Martial Skill (Spiritual Skill) x{0}/1 with Epic or above rarity to unlock.",
+  "ch": "提交{0}/1本紫色及以上品质的武技（灵技）后解锁。"
+ },
+ "spriteTalentDesc202205": {
+  "en": "Duration of the artifact this Artifact Spirit is combined with +10%",
+  "ch": "所融合法宝的持续时间提升10%。"
+ },
+ "spriteTalentDesc200901": {
+  "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
+  "ch": "所融合法宝的体力上限提升5%。"
+ },
+ "spriteTalentDesc202221": {
+  "en": "Crit DR of the artifact this Artifact Spirit is combined with +30%",
+  "ch": "所融合法宝的抗暴倍率提升30%。"
+ },
+ "spriteTalentDesc200406": {
+  "en": "Crit DR of the artifact this Artifact Spirit is combined with +30%",
+  "ch": "所融合法宝的抗暴倍率提升30%。"
+ },
+ "spriteTalentDesc100824": {
+  "en": "The artifact this Artifact Spirit is combined with consumes 7% less Focus to cast its skill.",
+  "ch": "所融合法宝的念力消耗-7%。"
+ },
+ "spriteTalentDesc202420": {
+  "en": "Crit Rate of the artifact this Artifact Spirit is combined with +30%",
+  "ch": "所融合法宝的暴击倍率提升30%。"
+ },
+ "spriteTalentDesc200529": {
+  "en": "DEF of the artifact this Artifact Spirit is combined with +3%",
+  "ch": "所融合法宝的防御提升3%。"
+ },
+ "startGameTipDesc183": {
+  "en": "<size=25>[0.8.5009 Patch Notes]</size> Updated at 18:00 on January 26, 2022\n1. Changed the town and sect buildings to Chinese New Year themed icons.\n2. Changed the background music of the town to Chinese New Year themed music.\n3. Optimized the problem of dynamic drawings taking up too much RAM storage.",
+  "ch": "<size=25>【0.8.5009 版本更新内容】</size>2022年1月26日18时更新\n1.将城镇与宗门的建筑改为了春节主题的图标。\n2.将城镇的背景音乐改为了春节主题的音乐。\n3.优化了动态立绘占用运行内存过多的问题。"
+ },
+ "taskDesc3000002": {
+  "en": "Go to {destination}, and bring the fish you harvested to Liangqu.",
+  "ch": "前往{destination}，并将钓的鱼交给梁渠。"
+ },
+ "taskDesc1111008": {
+  "en": "Increase your Realm to <g>Origin Spirit</g>.\n<g>●</g>Origin Spirit:\nRequired materials: {itemLink1011551} or a Spirit Transformation Elixir of a higher rarity, as well as <g>4</g> types of <g>Heaven and Earth Treasure</g>.\n\n<g>Heaven and Earth Treasure</g> <y>greatly increases</y> your stats after a Breakthrough. The <g>Heaven and Earth Treasure</g> available for the Origin Spirit Realm:\n<g>●</g>{itemLink5081255}\n<g>●</g>{itemLink5081265}\n<g>●</g>{itemLink5081275}\n<g>●</g>{itemLink5081285}\n<g>●</g>{itemLink5081295}\n<g>●</g>{itemLink5081305}\n<g>●</g>{itemLink5081315}\n<g>●</g>{itemLink5081325}\n\nFor more Breakthrough details, please check the [Rewrite Destiny] interface.",
+  "ch": "将境界提升至<g>具灵境</g>。\n<g>●</g>具灵：\n使用{itemLink1011551}或更高品的化灵丹，并辅以<g>4</g>种<g>天材地宝</g>，方可进行具灵。\n\n突破时辅以<g>天材地宝</g>可<y>大幅提升</y>突破后的属性，具灵可用的<g>天材地宝</g>如下：\n<g>●</g>{itemLink5081255}\n<g>●</g>{itemLink5081265}\n<g>●</g>{itemLink5081275}\n<g>●</g>{itemLink5081285}\n<g>●</g>{itemLink5081295}\n<g>●</g>{itemLink5081305}\n<g>●</g>{itemLink5081315}\n<g>●</g>{itemLink5081325}\n\n关于突破的更多详情可在【逆天改命】界面中查看。",
+  "nomes": {
+   "Transformation Elixir": "Elixir de Transformação"
+  }
+ },
+ "taskDesc2110962": {
+  "en": "Escort the cultivator to the residence of Night Rain to help him find the antidote.",
+  "ch": "护送此名修仙者前往夜雨楼的住处寻找解药。",
+  "nomes": {
+   "Night Rain": "Chuva Noturna"
+  }
+ },
+ "taskDesc2110816": {
+  "en": "Alliance Master invites you for a gathering outside the town. It's no small matter. Be prepared before you go.",
+  "ch": "盟主邀请你到城外一聚，此事绝不简单。此去必须作充分准备。"
+ },
+ "skill_name_middle7631": {
+  "en": "Clawing",
+  "ch": "爪击"
+ },
+ "skill_name_middle79431": {
+  "en": "Berserk",
+  "ch": "狂暴"
+ },
+ "drama_dialogue2000351": {
+  "en": "Bitterfly?",
+  "ch": "蝶怨？"
+ },
+ "item_output_desc5031726": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName2}</g>) for a chance to obtain <g>Fire Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName2}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName2}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>火灵气碎片</g>。</root0><root1>在<g>{#areaName2}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵气。</root1>",
+  "nomes": {
+   "Fire Qi": "Qi de Fogo"
+  }
+ },
+ "spriteName2006": {
+  "en": "Jiuzhu",
+  "ch": "酒祝"
+ },
+ "prefixNameS304006": {
+  "en": "Thrusting",
+  "ch": "穿空"
+ },
+ "GodEyeSkills_desc_7224": {
+  "en": "Summons a belt of fireballs around yourself that lasts for &7224_ddzq&s, dealing &7224_shwl& damage to the enemy touched.",
+  "ch": "召唤一圈火球环绕自身，持续&7224_ddzq&秒，对碰到的单位造成威力&7224_shwl&的伤害。"
+ },
+ "modEnum1021EnumName7": {
+  "en": "7- Everfrost",
+  "ch": "7-永恒冰原"
+ },
+ "drama_dialogue24235": {
+  "en": "The <g>Taoist Mind Pavilion</g> continues to watch over the <g>Taoist Devine Tree</g>, but every 3 years some of the <g>Taoist Fruit</g> crop is shared with the other sects. During the Immortal Tournament great sects compete for the <g>Taoist Fruit</g> which are distributed according to rank. The stronger you are, the more <g>Taoist Fruit</g> you win! It's all up to you!",
+  "ch": "<g>道心神树</g>依旧由<g>道心阁</g>拥有并守护，但是每3年神树结果时，需要拿出一部分<g>道心果</g>给其它门派分享，而这升仙大会便是各大宗门争取<g>道心果</g>的一场比试，在比试中获得的名次越高，得到的<g>道心果</g>也越多，全凭个人实力！"
+ },
+ "item_output_desc5031886": {
+  "en": "<root0>Kill monsters in <r>{#building1001Name1}</r> (<g>{#areaName8}</g>) for a chance to obtain <g>Condensed Earth Qi Shards</g>.</root0> <root1>Shards can be combined in <g>Workshops</g> in various <g>Towns</g> (<g>{#areaName8}</g>).</root1> <root1>Mythical Beasts may spawn in <r>{#building1001Name1}</r>. Kill them to obtain complete Condensed Qi.</root1>",
+  "ch": "<root0>在<g>{#areaName8}</g>区域内的<r>{#building1001Name1}</r>中击杀怪物有概率掉落<g>土灵斗气碎片</g>。</root0><root1>在<g>{#areaName8}</g>区域内的<g>城镇</g>的<g>工坊</g>中可将碎片合成为对应的灵斗气。</root1><root1><r>{#building1001Name1}</r>中还有概率会出现大妖兽，击杀大妖兽可以掉落完整的灵斗气。</root1>",
+  "nomes": {
+   "Earth Qi": "Qi de Terra",
+   "Condensed Earth Qi": "Qi Condensado da Terra"
+  }
+ },
+ "drama_option80003071": {
+  "en": "Skinny",
+  "ch": "骨瘦如柴"
+ },
+ "wingmanBaseName1003": {
+  "en": "Miemeng",
+  "ch": "灭蒙"
+ },
+ "skill_name_middle800107": {
+  "en": "Earthfall",
+  "ch": "裂山崩"
+ },
+ "drama_option25020621": {
+  "en": "Enter",
+  "ch": "进入"
+ },
+ "town_wodebeibao": {
+  "en": "Inventory",
+  "ch": "我的背包"
+ },
+ "modEnum10079EnumName2": {
+  "en": "2-Elixir",
+  "ch": "2-丹药"
+ },
+ "zhiZhuNv": {
+  "en": "Tianxiang",
+  "ch": "天香"
+ },
+ "storePropNameS400020": {
+  "en": "Jade Vial",
+  "ch": "玉净瓶"
+ },
+ "skillPrefixName5411656": {
+  "en": "瑕",
+  "ch": "瑕"
+ },
+ "skill_name_first37": {
+  "en": "荒",
+  "ch": "荒"
+ },
+ "item_desc1011166": {
+  "en": "The most common ATK Elixir popular amongst cultivation beginners. Use to temporarily increase ATK by a small amount.",
+  "ch": "最常见的增加功力的丹药，深受低阶的修真者欢迎。使用后能暂时提升少量的攻击。"
+ },
+ "item_desc3010356": {
+  "en": "This elixir could accelerate the flow of Energy inside the body and facilitate its accumulation. Available in battle: grant charging time reduction to Charge Skills.",
+  "ch": "服用此丹可暂时让自身灵力运转加快，更易积蓄灵力。战斗中使用此丹可使蓄力技能更易施放。"
+ },
+ "taskDesc2110656": {
+  "en": "Transcribe the Aether Breath Manual in the mysterious cave, and teach Feng Pingmo with the hope that she can use it to improve her cultivation and hold her breath to explore the inside of the Nether Mountains.",
+  "ch": "摘录不远处的神秘洞府的《玄息》秘本并传授风萍末，希望她借此增进修为凝气屏息，探索冥山内部。"
+ },
+ "item_desc3000324": {
+  "en": "\"Amid the vast white nothingness protrudes a branch of blood-red blossoms.\" This poisonous elixir is colorless, odorless, and tasteless. However, once taken, its poison will be effective on those who harbor enmity. Under the elixir's effect, they will become furious and vengeful against those who have troubled them. The effect lasts for 4 months.",
+  "ch": "此毒入身无感，无色无味、无知无觉；一旦心中存有一丝介怀，则会郁成心火，心火化怒，引人发狂。发狂者将对其介怀之物发出最纯粹的攻击性，持续四个月。 皑皑白雪上，怒长一枝梅"
+ },
+ "spriteTalent_unlockDesc202406": {
+  "en": "Requires G1 Spear Fruit x{0}/1.",
+  "ch": "需要一品枪灵果{0}/1个。",
+  "nomes": {
+   "G1 Spear Fruit": "Fruto de Lança Grau 1"
+  }
+ },
+ "taskDesc2110682": {
+  "en": "According to the Reborn Canon, you need to obtain Wind Charm to locate the Nether Seed Cavern. Monsters in Hua Feng are fighting for the Charm, and you could find the item as long as you encounter the monsters fighting for it.",
+  "ch": "《羽化真诰》记载，需取得风符才能找到冥种幽窟确切位置，而风符在华封州之中为妖兽争夺。只要找到交战的妖兽，就能找到风符。",
+  "nomes": {
+   "Wind Charm": "Talismã do Vento"
+  }
+ },
+ "fateStoryDesc700208": {
+  "en": "Just as you attain Breakthrough, you fall into a mysterious illusion. There, you see an intact, shiny black elixir cracking and splitting into smaller pieces. The sheds of the elixir melt into a dark liquid, and the liquid vaporizes into steam. The steam flows into your body, and you wake up. The black elixir is nowhere to be found, but you still smell a hint of herbal scent around.",
+  "ch": "突破之际，你仿佛遁入一片虚幻之中。在那里，你看见一颗完整锃亮的黑色丹丸正逐渐瓦解分裂。分裂的药质慢慢化为黑色液体，又由液体渐渐转为烟气为你吸收。就在此时，你再度清醒过来，眼前并无丹药，鼻间却微闻药香。"
+ },
+ "item_desc3010854": {
+  "en": "Crush the elixir with your fingers and generate a poisonous cloud. Then, raindrops will fall from the cloud, dealing damage to all units on the battlefield. (Damage dealt to allied units will be lower)",
+  "ch": "捏碎此丹可在附近生成一片毒云，随后毒云降下毒雨，对场上所有单位造成伤害（对己方伤害较低）。"
+ },
+ "item_desc5031896": {
+  "en": "Condensed Qi containing the wood element. It's one of the 6 Condensed Qi and can help Cultivators reach Enlightenment. The higher its purity, the greater help it'll provide.\n<g>●</g>Obtain it by killing <r>{#battle_unit_name712}</r> in <r>{#building1001Name6}</r> (<g>{#areaName8}</g>). If <r>{#building1001Name6}</r> hasn't been generated on the map, <r>{#battle_unit_name712}</r> will appear elsewhere.\n<g>●</g>Alternatively, you can kill monsters in <r>{#building1001Name6}</r> (<g>{#areaName8}</g>) to obtain <g>Condensed Wood Qi Shards</g>, then combine them in Workshops in various towns.",
+  "ch": "吸收了大量木属性而诞生的灵斗气，六道灵斗气之一，能够在修真者冲击悟道境时提供帮助。纯度越高，在突破时能够给修真者提供的帮助就越大。\n<g>●</g>可通过击杀<g>{#areaName8}</g>区域内的<r>{#building1001Name6}</r>中的<r>{#battle_unit_name712}</r>获得(若未生成<r>{#building1001Name6}</r>，<r>{#battle_unit_name712}</r>也会在其它地方出现）\n<g>●</g>可通过击杀<g>{#areaName8}</g>区域内的<r>{#building1001Name6}</r>中的怪物获得<g>木灵斗气碎片</g>，并在城镇内的工坊中进行合成获得。",
+  "nomes": {
+   "Wood Qi": "Qi de Madeira",
+   "Condensed Wood Qi": "Qi Condensado da Madeira"
+  }
+ },
+ "item_desc3010313": {
+  "en": "This elixir could accelerate the flow of Energy inside the body and facilitate its accumulation. Available in battle: grant charging time reduction to Charge Skills.",
+  "ch": "服用此丹可暂时让自身灵力运转加快，更易积蓄灵力。战斗中使用此丹可使蓄力技能更易施放。"
+ }
+}
