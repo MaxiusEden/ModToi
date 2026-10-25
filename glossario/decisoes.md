@@ -57,6 +57,10 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | `school_name_first*` / `school_name_second*` | não traduzir | O `en` oficial está em chinês (sílabas de nome de seita); com o jogo em inglês valem `schoolNameFirst/Second`. Traduzir o sentido ("Luz", "Céu") quebraria a regra do pinyin. |
 | Branch (分舵) | Filial | `Branch Leader` → Líder de Filial. |
 | Taoist Title (道号) | Título Daoísta | Decidido em 2026-10-24. No jogo é um título que se equipa (`AppellationTitle`), e "Nome Daoista" soava como nome próprio. O "í" existe em todas as fontes do jogo menos na `cutiHanwen`, que não tem nenhum acento. Em 2026-10-25 os outros termos (`Taoist`, `Daoist`, `Fellow Daoist`) também passaram a "Daoísta", com acento, e as traduções já feitas foram corrigidas. |
+| Unificação de 2026-10-25 (relatório de consistência da nuvem) | obrigatórios novos | Iron Shard → Fragmento de Ferro; Mindsnap (Temple) → (Templo) Quebra-Mente; Everfrost → Geada Eterna; Ground of No Return → Solo do Não Retorno; Wayward Desert → Deserto Errante; Rogue Cultivator → Cultivador Errante ("renegado" soa como traidor); Interspatial Ring → Anel Interespacial; Legendary Beast → Fera Lendária; Divine Beast → Fera Divina; Boss/BOSS → Chefe (CHEFE só onde o `en` é rótulo em caixa alta). |
+| `No. 1` em títulos (regra 11) | Nº 1 | Decidido em 2026-10-25: "Nº 1 em <Arma> de <Lugar>". O "º" e o "ª" foram liberados no validador e na ponte: `hanwen`, `heiti`, `LiberationSans` e `cutiHanwen` têm os dois; `cuti` e `HYShangWeiShouShuW` não, mas também não têm "ç" e "ã". |
+| casket | pelo contexto | "caixão" quando guarda um morto; "caixa" quando é recipiente de item. |
+| Upgrade | pelo contexto | "aprimorar/aprimoramento" para item, habilidade e construção; "atualização" só para atualização do jogo (notas de patch). |
 
 ## Interface apertada (teste do piloto em 2026-10-23)
 

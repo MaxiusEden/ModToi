@@ -27,7 +27,8 @@ def problemas(key, entry, pt):
     b = collections.Counter(ptbr.PLACEHOLDER.findall(pt))
     if a != b:
         erros.append(f'marcadores: faltando {list((a - b).elements())} sobrando {list((b - a).elements())}')
-    fora = sorted({c for c in pt if ord(c) >= 128 and not 'À' <= c <= 'ÿ' and c not in en})
+    fora = sorted({c for c in pt if ord(c) >= 128 and not 'À' <= c <= 'ÿ' and c not in ptbr.ORDINAIS
+                   and c not in en})
     if fora:
         erros.append(f'caracteres não permitidos: {fora} (use aspas, reticências e hífen do teclado)')
     if '/' in pt and '/' not in en:
