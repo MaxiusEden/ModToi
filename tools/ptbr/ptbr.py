@@ -469,6 +469,13 @@ def placeholders_ok(src: str, dst: str) -> bool:
     return all(ord(ch) < 128 or "\u00c0" <= ch <= "\u00ff" or ch in allowed for ch in dst or "")
 
 
+def local_judge(en, pt, finish=None):
+    """ok da saída do Hy-MT2, com os critérios da ponte; a fila reaplica no merge, então mudar aqui vale para saídas antigas."""
+    if finish == 'length' or not placeholders_ok(en, pt):
+        return False
+    return not (len(en.strip()) > 4 and any(c.islower() for c in en) and pt.strip() == en.strip())
+
+
 def local_alive():
     """ID do modelo carregado no KoboldCpp, ou None se o servidor não responder."""
     try:
@@ -591,9 +598,7 @@ def cmd_local(args):
             # O modelo apara espaços e quebras das pontas; devolve as do en para não contar como marcador perdido.
             lead, trail = en[:len(en) - len(en.lstrip())], en[len(en.rstrip()):]
             pt = normalize_punct(en, lead + pt.strip() + trail)
-            ok = finish != 'length' and placeholders_ok(en, pt)
-            if ok and len(en.strip()) > 12 and pt.strip() == en.strip():
-                ok = False
+            ok = local_judge(en, pt, finish)
             out[key] = {'pt': pt, 'ok': ok, 'model': LOCAL_MODEL}
             n_ok += ok
             n_bad += not ok

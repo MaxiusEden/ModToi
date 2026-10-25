@@ -304,7 +304,7 @@ def etapa_local(work, simular):
             if o is None:
                 reservadas.add(k)
                 por_lote[src] = por_lote.get(src, 0) + 1
-            elif o.get('ok'):
+            elif o.get('ok') and ptbr.local_judge(e['en'], o.get('pt', '')):
                 juntar[k] = o
             else:
                 falhas.append(k)
