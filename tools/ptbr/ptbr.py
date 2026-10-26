@@ -491,12 +491,36 @@ def cmd_build(args):
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps(result, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
     print(f'{len(result)} traduções em {OUT_JSON.relative_to(REPO)}')
+    build_rolelog()
     if unreviewed:
         print(f'{unreviewed} fora por "{OMNI_BAD}" ainda não revisado')
     if skipped:
         print(f'{len(skipped)} fora por erro de validação (rode validate): {skipped[:10]}')
         return 1
     return 0
+
+
+ROLELOG_WORK = REPO / 'traducao/RoleLogLocal.json'
+ROLELOG_OUT = OUT_JSON.parent / 'RoleLogLocal.json'
+
+
+def build_rolelog():
+    """traducao/RoleLogLocal.json (id -> {keyID, ch, en, pt}) -> ModAssets/ptbr/RoleLogLocal.json (id -> pt),
+    só com as traduções sem erro de marcador. O patch RoleLogLocalPtBr do mod aplica no jogo."""
+    work = read_json(ROLELOG_WORK)
+    if not work:
+        return
+    result, skipped = {}, 0
+    for id_, e in work.items():
+        if not e.get('pt'):
+            continue
+        if check({'en': e['en'], 'ch': e.get('ch', ''), 'pt': e['pt']})[0]:
+            skipped += 1
+        else:
+            result[id_] = e['pt']
+    ROLELOG_OUT.write_text(json.dumps(result, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
+    print(f'{len(result)} traduções de RoleLogLocal em {ROLELOG_OUT.relative_to(REPO)}'
+          + (f' ({skipped} fora por erro de marcador)' if skipped else ''))
 
 
 def load_glossary(name):

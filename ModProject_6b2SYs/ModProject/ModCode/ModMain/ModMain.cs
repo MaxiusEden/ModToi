@@ -56,6 +56,14 @@ namespace MOD_6b2SYs
             {
                 try
                 {
+                    RoleLogLocalPtBr.TryApply();
+                }
+                catch (Exception e)
+                {
+                    MelonLoader.MelonLogger.Error("[PtBr] RoleLogLocal: " + e);
+                }
+                try
+                {
                     ScreenTextPtBr.Prepare();
                     screenTextOn = true;
                 }

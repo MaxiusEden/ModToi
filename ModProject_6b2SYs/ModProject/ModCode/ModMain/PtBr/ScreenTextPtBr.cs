@@ -42,6 +42,7 @@ namespace MOD_6b2SYs
                 ? JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(path, Encoding.UTF8))
                 : new Dictionary<string, string>();
             logPath = Path.Combine(root, "ptbr_tela_desconhecidas.txt");
+            NameOrderPtBr.Prepare(Path.Combine(root, "ModAssets", "ptbr", "LocalText.json"));
 
             known = new HashSet<string>();
             knownTemplates = new HashSet<string>();
@@ -110,8 +111,9 @@ namespace MOD_6b2SYs
             string t = text.Trim();
             if (!map.TryGetValue(t, out result))
             {
-                result = null;
-                if (!known.Contains(t) && Letter.IsMatch(t) && !knownTemplates.Contains(Template(t)))
+                // Nomes de seita e cidade montados na ordem inglesa pelo jogo.
+                result = NameOrderPtBr.Rewrite(text);
+                if (result == null && !known.Contains(t) && Letter.IsMatch(t) && !knownTemplates.Contains(Template(t)))
                 {
                     LogUnknown(t, where());
                 }
