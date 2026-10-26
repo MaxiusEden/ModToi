@@ -4483,8 +4483,8 @@
  "achievement_kejiesuo": {
   "ch": "可解锁：",
   "en": "Unlockable:",
-  "pt": "Desbloqueável:",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Liberável:",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "achievement_title": {
   "ch": "成就",
@@ -4495,8 +4495,8 @@
  "achievement_yijiesuo": {
   "ch": "已解锁",
   "en": "Unlocked: ",
-  "pt": "Desbloqueado: ",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Liberado: ",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "acttips101101": {
   "ch": "遭受受到妖兽的袭击3个月内不可使用",
@@ -4890,8 +4890,8 @@
  "artifactShape_jinengshuoming": {
   "ch": "技能说明",
   "en": "Skill Info",
-  "pt": "Informações da Habilidade",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Detalhes",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "artifactShape_jinengxiaohao": {
   "ch": "技能消耗",
@@ -4932,8 +4932,8 @@
  "artifactShape_meimiaoxiaohao": {
   "ch": "在场时每秒消耗",
   "en": "Cost/second while present",
-  "pt": "Custo por segundo enquanto estiver presente",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Custo/s em campo",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "artifactShape_naijiu": {
   "ch": "耐久度：{0}",
@@ -5010,8 +5010,8 @@
  "artifactShape_shiyonglengque": {
   "ch": "使用冷却",
   "en": "Use cooldown",
-  "pt": "Tempo de espera para uso",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Recarga de uso",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "artifactShape_shiyongxiaohao": {
   "ch": "使用消耗",
@@ -5058,8 +5058,8 @@
  "artifactShape_zaohuilengque": {
   "ch": "召回冷却",
   "en": "Recall cooldown",
-  "pt": "Tempo de espera para recall",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Recarga de recall",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "artifactShape_zhanyongnianli": {
   "ch": "装备占用念力",
@@ -5352,8 +5352,8 @@
  "artifactTalent_Unlock": {
   "ch": "解锁",
   "en": "Unlock",
-  "pt": "Desbloquear",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Liberar",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "artifactTalent_fabaohunlibuzu": {
   "ch": "法宝可容纳魂力不足",
@@ -5814,8 +5814,8 @@
  "battleRule_daojie": {
   "ch": "{0}道界",
   "en": "{0} Realm",
-  "pt": "{0} Reino",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Reino Dao {0}",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "battleRule_guanbidaojie": {
   "ch": "是否确定关闭？关闭后在通关下个房间之前无法再次刷新已解锁的属性！",
@@ -8279,8 +8279,8 @@
  "casual_event_cost_type1": {
   "ch": "消耗　{0}天",
   "en": "Time needed: {0}d",
-  "pt": "Tempo necessário: {0} dias",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tempo: {0}d",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "casual_event_cost_type2": {
   "ch": "需要　{0}",
@@ -9097,7 +9097,7 @@
   "ch": "互动",
   "en": "Interact",
   "pt": "Interagir",
-  "auto": "gemini-3-flash-preview"
+  "auto": "gemini-3-flash-preview+teste-jogo"
  },
  "defaultKeysKeyText_114": {
   "ch": "领域",
@@ -9318,20 +9318,20 @@
  "diffDescribe1": {
   "ch": "怪物体力伤害一般",
   "en": "Normal enemy Vitality and Damage.",
-  "pt": "Vitalidade e Dano inimigos normais.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Vitalidade e Dano normais dos inimigos.",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffDescribe2": {
   "ch": "怪物体力伤害有所提升\n<r>开始出现特殊的精英怪！</r>",
   "en": "Increased enemy Vitality and Damage.\n<r>Elite enemies will spawn.</r>",
-  "pt": "Aumentou a Vitalidade e o Dano inimigos.\n<r>Inimigos elites começarão a aparecer.</r>",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Vitalidade e Dano dos inimigos aumentados.\n<r>Surgem inimigos de elite.</r>",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffDescribe3": {
   "ch": "怪物体力伤害进一步提升\n更多强力的精英怪",
   "en": "Further increased enemy Vitality and Damage.\nMore elite enemies will spawn.",
-  "pt": "Aumentou ainda mais a Vitalidade e o Dano inimigos.\nMais inimigos elites aparecerão.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Vitalidade e Dano dos inimigos bem maiores.\nSurgem mais inimigos de elite.",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffDescribe4": {
   "ch": "怪物体力伤害较高\n精英怪的种类更加丰富了！\n<r>更多的强力大妖兽将登场</r>",
@@ -9548,20 +9548,20 @@
  "diffPrice3": {
   "ch": "较高",
   "en": " Very High",
-  "pt": "Muito Alto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": " Muito Alto",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffPrice4": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": "Extremamente Alto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": " Extremo",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffPrice5": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": "Extremamente Alto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": " Extremo",
+  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffPriceTips": {
   "ch": "影响八荒世界中所有商店出售道具的价格。",
@@ -9675,19 +9675,19 @@
   "ch": "较高",
   "en": " Very High",
   "pt": " Muito alto",
-  "auto": "local/hy-mt2"
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitDmg4": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": " Extremamente alto",
-  "auto": "local/hy-mt2"
+  "pt": " Extremo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitDmg5": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": " Extremamente alto",
-  "auto": "local/hy-mt2"
+  "pt": " Extremo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitDmgTips": {
   "ch": "影响八荒世界内所有怪物的伤害威力。",
@@ -9699,7 +9699,7 @@
   "ch": "怪物伤害",
   "en": "Monster Damage",
   "pt": "Dano do Monstro",
-  "auto": "local/hy-mt2"
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitHp1": {
   "ch": "正常",
@@ -9717,19 +9717,19 @@
   "ch": "较高",
   "en": " Very High",
   "pt": " Muito alto",
-  "auto": "local/hy-mt2"
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitHp4": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": " Extremamente alto",
-  "auto": "local/hy-mt2"
+  "pt": " Extremo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitHp5": {
   "ch": "极高",
   "en": " Extremely High",
-  "pt": " Extremamente alto",
-  "auto": "local/hy-mt2"
+  "pt": " Extremo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitHpTips": {
   "ch": "影响八荒世界内所有怪物的体力。",
@@ -9740,8 +9740,8 @@
  "diffUnitHpTitle": {
   "ch": "怪物体力",
   "en": "Monster Vitality",
-  "pt": "Vitalidade do Monstro",
-  "auto": "local/hy-mt2"
+  "pt": "Vit. do Monstro",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitNum1": {
   "ch": "正常",
@@ -9759,19 +9759,19 @@
   "ch": "较多",
   "en": " Very High",
   "pt": " Muito alto",
-  "auto": "local/hy-mt2"
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitNum4": {
   "ch": "极多",
   "en": " Extremely High",
-  "pt": " Extremamente alto",
-  "auto": "local/hy-mt2"
+  "pt": " Extremo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitNum5": {
   "ch": "极多",
   "en": " Extremely High",
-  "pt": " Extremamente alto",
-  "auto": "local/hy-mt2"
+  "pt": " Extremo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnitNumTips": {
   "ch": "影响八荒世界内所有战斗中的怪物数量。",
@@ -9782,8 +9782,8 @@
  "diffUnitNumTitle": {
   "ch": "怪物数量",
   "en": "Monster Quantity",
-  "pt": "Quantidade de Monstros",
-  "auto": "local/hy-mt2"
+  "pt": "Qtd. de Monstros",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "diffUnlock2": {
   "ch": "<r>普通模式通关后解锁此模式</r>",
@@ -9920,8 +9920,8 @@
  "dlcSkillInfo_jiesuo": {
   "ch": "解锁",
   "en": "Unlock",
-  "pt": "Desbloquear",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Liberar",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "dlcSkillInfo_xinzeng": {
   "ch": "新增",
@@ -13032,8 +13032,8 @@
  "fieldSkill_jinengshuoming": {
   "ch": "技能说明",
   "en": "Skill Info",
-  "pt": "Informações da Habilidade",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Detalhes",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "fieldSkill_jinengxiaohao": {
   "ch": "技能消耗",
@@ -13409,8 +13409,8 @@
  "game_baocunbizhi": {
   "ch": "保存壁纸",
   "en": "Save Wallpaper",
-  "pt": "Salvar Papel de Parede",
-  "auto": "local/hy-mt2"
+  "pt": "Salvar Fundo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "game_baocuncundang1": {
   "ch": "选择保存的位置。",
@@ -13571,20 +13571,20 @@
  "game_cundangwenti": {
   "ch": "存档问题",
   "en": "Save File Issues",
-  "pt": "Problemas ao salvar arquivos",
-  "auto": "local/hy-mt2"
+  "pt": "Problemas de Save",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "game_daochucundang": {
   "ch": "导出存档",
   "en": "Export Saves",
-  "pt": "Exportar salvamentos",
-  "auto": "local/hy-mt2"
+  "pt": "Exportar Saves",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "game_daorucundang": {
   "ch": "导入存档",
   "en": "Import Saves",
-  "pt": "Importar Salvamentos",
-  "auto": "local/hy-mt2"
+  "pt": "Importar Saves",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "game_fuben": {
   "ch": "副本",
@@ -13673,8 +13673,8 @@
  "game_tiaoshirizhi": {
   "ch": "输出调试日志",
   "en": "Export Debug Log",
-  "pt": "Exportar log de depuração",
-  "auto": "local/hy-mt2"
+  "pt": "Exportar Log",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "game_weikaifang": {
   "ch": "此版本暂未开放！",
@@ -14729,8 +14729,8 @@
  "grid_xiaohao": {
   "ch": "需要消耗{0}天",
   "en": "Time needed: {0}d",
-  "pt": "Tempo necessário: {0} dias",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tempo: {0}d",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "grid_yaocaibuzu": {
   "ch": "此地药材值过低，无法采集。",
@@ -15498,7 +15498,7 @@
   "ch": "互动",
   "en": "Interact",
   "pt": "Interagir",
-  "auto": "local/hy-mt2"
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "handlekey_title": {
   "ch": "按键示意图",
@@ -16433,8 +16433,8 @@
  "honor_text4": {
   "ch": "解锁",
   "en": "解锁",
-  "pt": "Desbloquear",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Liberar",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "honor_text40": {
   "ch": "开始闯关",
@@ -18465,14 +18465,14 @@
  "liquorName1001": {
   "ch": "女儿红",
   "en": "Nu Er Hong",
-  "pt": "Nu Er Hong",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Vinho Nu Er Hong",
+  "auto": "nuvem/claude-sonnet-5-5+teste-jogo"
  },
  "liquorName1002": {
   "ch": "十八仙",
   "en": "18 Luohan",
-  "pt": "18 Luohan",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Licor dos 18 Luohan",
+  "auto": "nuvem/claude-sonnet-5-5+teste-jogo"
  },
  "liquorName1003": {
   "ch": "醉生梦死",
@@ -21049,8 +21049,8 @@
  "mobilePaper_baocunbizhi": {
   "ch": "保存壁纸",
   "en": "Save Wallpaper",
-  "pt": "Salvar papel de parede",
-  "auto": "local/hy-mt2"
+  "pt": "Salvar Fundo",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "mobilePaper_biaoqing": {
   "ch": "表情",
@@ -22123,8 +22123,8 @@
  "nameFix_BranchName": {
   "ch": "改分舵名称",
   "en": "Change branch name",
-  "pt": "Alterar nome do ramo",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Alterar nome da filial",
+  "auto": "local/hy-mt2+revisao-nuvem+teste-jogo"
  },
  "nameFix_FixItem1": {
   "ch": "改宗门门规",
@@ -22159,8 +22159,8 @@
  "nameFix_branchNameTitle": {
   "ch": "修改分舵名称",
   "en": "Edit branch name",
-  "pt": "Editar nome do ramo",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Editar nome da filial",
+  "auto": "local/hy-mt2+revisao-nuvem+teste-jogo"
  },
  "nameFix_check": {
   "ch": "确认将<r>{0}</r>修改为<r>{1}</r>吗？",
@@ -24579,8 +24579,8 @@
  "pub_text3": {
   "ch": "请大家喝一杯",
   "en": "Buy everyone a drink",
-  "pt": "Pague uma bebida para todo mundo",
-  "auto": "local/hy-mt2"
+  "pt": "Pagar rodada",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "pub_text4": {
   "ch": "你好，欢迎光临，要来一杯吗？",
@@ -24836,8 +24836,8 @@
  "refineElixir_text2": {
   "ch": "丹方",
   "en": "Elixir Recipe",
-  "pt": "Receita de Elixir",
-  "auto": "local/hy-mt2"
+  "pt": "Receita",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "refineElixir_text20": {
   "ch": "阴",
@@ -26361,8 +26361,8 @@
  "schoolAllot_tiaopeidizi": {
   "ch": "分舵调度 ",
   "en": "Branch dispatch ",
-  "pt": "Despacho de Ramos ",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Despacho de Filiais ",
+  "auto": "local/hy-mt2+revisao-nuvem+teste-jogo"
  },
  "schoolAllot_tiaopeidizi1": {
   "ch": "左键点击弟子，可将其调配至相同区域内的同源宗门",
@@ -26451,14 +26451,14 @@
  "schoolAura_tip": {
   "ch": "在灵阁突破到下境界，可获得宗门独特的逆天改命",
   "en": "Breakthrough in the Spirit Pavilion and reach the next Realm, and you can obtain the Sect's special Rewrite Destiny.",
-  "pt": "Ao conseguir um Avanço no Pavilhão do Espírito e alcançar o próximo Reino, você poderá obter o Reescrever o Destino especial da Seita.",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Ao avançar no Pavilhão do Espírito e chegar ao próximo Reino, obtenha o Reescrever Destino especial da Seita.",
+  "auto": "local/hy-mt2+revisao-nuvem+teste-jogo"
  },
  "schoolBranch": {
   "ch": "分舵",
   "en": "Branch",
-  "pt": "Ramo",
-  "auto": "local/hy-mt2"
+  "pt": "Filial",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "schoolBuildingName1001": {
   "ch": "议事大厅",
@@ -26700,8 +26700,8 @@
  "schoolGodBeast_talk": {
   "ch": "交流",
   "en": "Interact",
-  "pt": "Interagir",
-  "auto": "local/hy-mt2"
+  "pt": "Usar",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "schoolGodBeast_tip1": {
   "ch": "点击神兽互动",
@@ -30578,14 +30578,14 @@
  "shezhi_anjianfengge": {
   "ch": "手柄按键图标风格",
   "en": "Joysticks Icon Style",
-  "pt": "Estilo de ícone dos joysticks",
-  "auto": "local/hy-mt2"
+  "pt": "Ícones do Controle",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "shezhi_shoubingtishi": {
   "ch": "手柄接入提示",
   "en": "Controller Access Indication",
-  "pt": "Indicação de Acesso ao Controlador",
-  "auto": "local/hy-mt2"
+  "pt": "Aviso do Controle",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "shezhi_shuru": {
   "ch": "操作方式",
@@ -34777,8 +34777,8 @@
  "task_renwuneirong": {
   "ch": "任务内容",
   "en": "Mission Info",
-  "pt": "Informações da Missão",
-  "auto": "local/hy-mt2"
+  "pt": "Detalhes",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "task_renwuwancheng": {
   "ch": "完成任务“{0}”。",
@@ -40893,14 +40893,14 @@
  "wuxue_jinenglengque": {
   "ch": "技能冷却：",
   "en": "Cooldown:",
-  "pt": "Tempo de recarga:",
-  "auto": "local/hy-mt2"
+  "pt": "Recarga:",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "wuxue_jinengshuoming": {
   "ch": "技能说明",
   "en": "Skill Info",
-  "pt": "Informações sobre a Habilidade",
-  "auto": "local/hy-mt2"
+  "pt": "Detalhes",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "wuxue_jinengxiulian": {
   "ch": "技能修炼",
