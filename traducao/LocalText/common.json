@@ -215,8 +215,8 @@
  "common_nan": {
   "ch": "男",
   "en": "Male",
-  "pt": "Homem",
-  "auto": "gemini-3-flash-preview",
+  "pt": "Masc.",
+  "auto": "gemini-3-flash-preview+teste-jogo",
   "revisado": true
  },
  "common_neizaixingge": {
@@ -240,8 +240,8 @@
  "common_nv": {
   "ch": "女",
   "en": "Female",
-  "pt": "Mulher",
-  "auto": "gemini-3-flash-preview",
+  "pt": "Fem.",
+  "auto": "gemini-3-flash-preview+teste-jogo",
   "revisado": true
  },
  "common_qianfa": {
@@ -480,8 +480,8 @@
  "common_waimao": {
   "ch": "外貌",
   "en": "Appearance",
-  "pt": "Aparência",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Visual",
+  "auto": "gemini-3-flash-preview+teste-jogo"
  },
  "common_waizaixingge": {
   "ch": "外在性格",
