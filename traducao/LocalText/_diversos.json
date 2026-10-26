@@ -8279,8 +8279,8 @@
  "casual_event_cost_type1": {
   "ch": "消耗　{0}天",
   "en": "Time needed: {0}d",
-  "pt": "Tempo necessário: {0} dias",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tempo: {0}d",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "casual_event_cost_type2": {
   "ch": "需要　{0}",
@@ -14729,8 +14729,8 @@
  "grid_xiaohao": {
   "ch": "需要消耗{0}天",
   "en": "Time needed: {0}d",
-  "pt": "Tempo necessário: {0} dias",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tempo: {0}d",
+  "auto": "cohere/command-a-reasoning-08-2025+teste-jogo"
  },
  "grid_yaocaibuzu": {
   "ch": "此地药材值过低，无法采集。",
@@ -18465,14 +18465,14 @@
  "liquorName1001": {
   "ch": "女儿红",
   "en": "Nu Er Hong",
-  "pt": "Nu Er Hong",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Vinho Nu Er Hong",
+  "auto": "nuvem/claude-sonnet-5-5+teste-jogo"
  },
  "liquorName1002": {
   "ch": "十八仙",
   "en": "18 Luohan",
-  "pt": "18 Luohan",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Licor dos 18 Luohan",
+  "auto": "nuvem/claude-sonnet-5-5+teste-jogo"
  },
  "liquorName1003": {
   "ch": "醉生梦死",
