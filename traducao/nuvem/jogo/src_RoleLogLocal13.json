@@ -1,0 +1,2670 @@
+{
+ "1015201": {
+  "en": "Do you want to raid the resource point? (Costs 50 Stamina)",
+  "ch": "你是否要对资源点进行掠夺？（消耗50精力）"
+ },
+ "1015301": {
+  "en": "How dare you! I will chop off your hand if you come again!",
+  "ch": "岂有此理！下次再来我剁掉你的手！"
+ },
+ "1015401": {
+  "en": "Don't get any funny ideas! I have my eyes on you!",
+  "ch": "不要动什么歪心思，我会一直盯着你！"
+ },
+ "1015501": {
+  "en": "We put you back because we didn't want to waste any more food on you!",
+  "ch": "把你放回去，只是因为我们不愿意再为你浪费口粮！"
+ },
+ "1015601": {
+  "en": "Our Sect will have a promising future if we take this resource point. Let's all do our best!",
+  "ch": "拿下资源点，宗门未来可期，请诸位尽力！"
+ },
+ "1015701": {
+  "en": "We must take the resource point this time! Everyone, let's give it our all!",
+  "ch": "此次我宗必须攻下资源点，请各位尽力！"
+ },
+ "1015801": {
+  "en": "The survival of the Sect is at stake! All disciples, do your best to defend it!",
+  "ch": "事关宗门存亡，一应弟子都应努力防守！"
+ },
+ "1015901": {
+  "en": "A beautiful victory. We shall still rely on you afterwards to do your best to defend it.",
+  "ch": "此战胜得漂亮，但之后仍需仰赖各位要努力守护。"
+ },
+ "1016001": {
+  "en": "We lost this time, but we will have another chance in the future! Don't lose heart, everyone!",
+  "ch": "此回虽败，但来日仍有机会，各位不必灰心！"
+ },
+ "1016101": {
+  "en": "I knew the resource point could be guarded with you at the helm.",
+  "ch": "我就知道有你坐镇，定能守住资源点。"
+ },
+ "1016201": {
+  "en": "I can't believe we failed!",
+  "ch": "竟然功败垂成！"
+ },
+ "1016301": {
+  "en": "The resource point is rich in supplies so we should do our best to manage it as a business.",
+  "ch": "该资源点物资十分丰富，我们要好好经营一番才是。"
+ },
+ "1016401": {
+  "en": "We broke through the opponent's defense as soon as we clashed, and the territory is now our Sect's territory.",
+  "ch": "才一交锋，我们便攻破对方防守，领地眼下已归入我宗版图。"
+ },
+ "1016501": {
+  "en": "We cleverly neutralized the enemy's attack, and the Sect is defended.",
+  "ch": "敌人攻势都被我方巧妙化解，宗门由此守住。"
+ },
+ "1016601": {
+  "en": "The enemy's defenses were so tight that we could not achieve victory in the attack.",
+  "ch": "敌方防守严密，于进攻行动中，我们未能取得胜利。"
+ },
+ "1016701": {
+  "en": "The enemy sect swarmed out of their nest, broke through our defenses, and took the territory!",
+  "ch": "敌宗部队空巢而出，攻破我们防线将领地夺去！"
+ },
+ "1016801": {
+  "en": "Give me command, Sect Leader. I will lead the disciples to take the {defendName}{eventName}!",
+  "ch": "属下请命，希望带同弟子前往拿下{defendName}{eventName}，盼宗主成全！"
+ },
+ "1016901": {
+  "en": "The enemy is ambitious in trying to use this resource point to take over our clan. Drive away the opponents and protect the sect!",
+  "ch": "敌人狼子野心企图借此资源点蚕食我宗，请各位赶走对手，保护宗门！"
+ },
+ "1017001": {
+  "en": "The Sect is determined to win this resource point, so I must ask you to go forth personally and repel the defending enemy.",
+  "ch": "这个资源点宗门志在必得，务必请你亲身前往击退防守敌人。"
+ },
+ "1017101": {
+  "en": "(Our Sect's assault on {defendName}'s {eventName} has begun. Do you want to provide support?)",
+  "ch": "(我宗进攻{defendName}{eventName}的战斗已经开始了，要过去支援吗？)"
+ },
+ "1017201": {
+  "en": "({attackName} is about to launch an attack on our {eventName}. Do you want to provide support?)",
+  "ch": "({attackName}似乎开始对我宗的{eventName}发动进攻了，要过去支援吗？)"
+ },
+ "1017301": {
+  "en": "(The battle has started. Do you wish to fight?)",
+  "ch": "（战斗已经开始了，是否要参战？）"
+ },
+ "600001": {
+  "en": "Do you want to join {0}? Sect Arena will be convened at {0} in {1}. All those confident in their prowess from {2} are cordially invited! When the time comes, those who excel will get a chance to join {0}.",
+  "ch": "你想要加入{0}吗？我们将会在{1}后在{0}中举办宗门比试，我们诚邀{2}中的各路强者参与！届时，表现优异者将有机会加入{0}。"
+ },
+ "600002": {
+  "en": "Sect Arena is about to begin. Defeat all adversaries you encounter!",
+  "ch": "宗门比试即将开始，击败你遇到的所有对手吧！"
+ },
+ "600003": {
+  "en": "{name|B} at your service!",
+  "ch": "在下{name|B}，请指教！"
+ },
+ "600004": {
+  "en": "I win! You are good, but I am better!",
+  "ch": "承让了！你非常厉害，但是我更强！"
+ },
+ "600005": {
+  "en": "Well done. You passed the test! You are now a {1} of {0}!",
+  "ch": "恭喜你通过了比试！从今日起，你便是我{0}的{1}了！"
+ },
+ "600006": {
+  "en": "You're very good! I am persuaded.",
+  "ch": "你很强！此次落败，我心服口服。"
+ },
+ "600007": {
+  "en": "To reach {0}, return to the sect in {1} and join in the Sect Arena! Defeat the other {2} and you will be promoted to {0}.",
+  "ch": "想要晋升为{0}，便在{1}后回到宗门中参与宗门比试吧！战胜了其他{2}，你便能够晋升为{0}。"
+ },
+ "600009": {
+  "en": "At last we meet! I am {name|B}. I will be your opponent.",
+  "ch": "在下{name|B}，久仰阁下大名，请赐教！"
+ },
+ "6000111": {
+  "en": "The sect has decided to award you an additional 50 points of Sect Contribution for saving {2} from {0} during {#areaName1}. Keep striding boldly down the Path of Cultivation and bring further glory to {0}!",
+  "ch": "由于你在{#areaName1}中救了我们{0}的{2}，宗门决定额外奖励你50点宗门贡献。希望日后你能更加刻苦的修炼，耀我{0}之威！"
+ },
+ "600013": {
+  "en": "You must be {name|A} the {post|A} of {school|A}? The Immortal Tournament will start in {0} at {1}. Don't be late!",
+  "ch": "你就是{school|A}的{post|A}{name|A}吧？升仙大会将会在{0}后开始，届时要准时来{1}哦。"
+ },
+ "600014": {
+  "en": "You are about to fight the best warriors from each of the Great Sects. Be sure to bring your A game.",
+  "ch": "接下来你将会与各大门派中的精英进行对决，千万不可大意。"
+ },
+ "600017": {
+  "en": "Well done. You fought with distinction in this Immortal Tournament. Please claim your reward.",
+  "ch": "恭喜你在本次升仙大会中取得不俗的战果，请收下你的奖励吧。"
+ },
+ "600018": {
+  "en": "Well done. You were victorious in this Immortal Tournament. Please claim your reward.",
+  "ch": "恭喜你在本次升仙大会中胜利，请收下你的奖励吧。"
+ },
+ "600020": {
+  "en": "{name|A}, I never thought I'd have to fight you here... I will show you no mercy! Do your worst!",
+  "ch": "{name|A}，想不到竟然会在这个地方与你对决…我不会手下留情的，放马过来吧！"
+ },
+ "600021": {
+  "en": "I got lucky this time! You are very good {name|A}!",
+  "ch": "看来这次是我侥幸赢了！{name|A}，你也很强啊！"
+ },
+ "600022": {
+  "en": "You win. You're so strong! You're gonna win for sure {name|A}!",
+  "ch": "我输了，你真的很强！{name|A}，你一定要取得优胜呀！"
+ },
+ "600023": {
+  "en": "Ha! So it's you, {name|A}! I'll have you picking up your teeth in no time!",
+  "ch": "{name|A}，想不到竟然是你！看我今日不把你打得满地找牙！"
+ },
+ "600024": {
+  "en": "{name|A}, thank your lucky stars this tournament is non-lethal! Otherwise you would be dead by now!",
+  "ch": "{name|A}，你真应该庆幸此次比武不允许杀人，否则你必死无疑！"
+ },
+ "600025": {
+  "en": "Don't celebrate too soon. I'll kill you someday!",
+  "ch": "可恶！你别得意，我早晚会杀了你！"
+ },
+ "600026": {
+  "en": "{name|A}, I will show you no mercy! That {postV|1|B} position is mine!",
+  "ch": "{name|A}，我是不会手下留情的！我也想要晋升为{postV|1|B}。"
+ },
+ "600028": {
+  "en": "You win {name|A}. You're so strong! You'll be promoted to {postV|1|B} for sure!",
+  "ch": "我输了，你真的很强！{name|A}，你一定要晋升为{postV|1|B}呀！"
+ },
+ "600032": {
+  "en": "{name|A}, I will show you no mercy! I shall be champion of the Immortal Tournament!",
+  "ch": "{name|A}，我不会手下留情的！我一定要取得升仙大会的优胜！"
+ },
+ "600033": {
+  "en": "This time I win. Good fight.",
+  "ch": "承让，这次是我赢了。"
+ },
+ "610001": {
+  "en": "What do I have to worry about with you by my side {call|B|A}? That guy who stole my Interspatial Ring {0} is a lowly {1} cultivator and no match for you. Best of luck.",
+  "ch": "{call|B|A}，若得你相助，何愁此事不成？那夺我储物戒之人{0}只是区区{1}修仙者，想必不是你的对手，我祝你马到成功。"
+ },
+ "610002": {
+  "en": "It's you! I knew you would come and help me, {call|B|A}. That {0} grabbed by my Interspatial Ring using {1} cultivation. I want it back, but I'm outmatched. I really need your help, please!",
+  "ch": "是你！我便知{call|B|A}你会前来助我。那{0}仗着{1}修为，竟然强夺我的储物戒，我欲夺回己物却力不从心，此事只能多多拜托你了。"
+ },
+ "610003": {
+  "en": "Haha, I knew if you helped me I would get it back easily. I've got a gift for you here. Please accept it, {call|B|A}.",
+  "ch": "哈哈，我早知若是你出手，取回此物定是易如反掌。在下略备薄礼于此，还望{call|B|A}你勿要见外推辞。"
+ },
+ "610004": {
+  "en": "{call|B|A}, by agreeing to perform this task and return my ring, you have done me a great favor. Please accept this small gift as a token of my appreciation.",
+  "ch": "{call|B|A}，自你承应此事，我便晓储物戒已回，我自知难偿你的一番人情，奉上区区薄礼略表心意。"
+ },
+ "610005": {
+  "en": "So it is you, {call|B|A}! If you accompany me on this journey, I will fear no evil. Everything will turn out fine, haha.",
+  "ch": "原来是{call|B|A}你呀，这一趟若有你同行，便是刀山火海我也心安如常，哈哈。"
+ },
+ "610006": {
+  "en": "Hahaha, lucky I've got your help on this trip, {call|B|A}. Success is assured. Let's go!",
+  "ch": "哈哈哈，此一趟在下有幸得{call|B|A}你相助，那便如同大功告成了，我们走吧！"
+ },
+ "610007": {
+  "en": "{call|B|A}, you go ahead of me. My cultivation could be better. I'll get your back.",
+  "ch": "{call|B|A}你先行一步，在下修为浅薄，权且帮你殿后。"
+ },
+ "610008": {
+  "en": "I'm not strong enough to take on the enemy's frontline monsters. If you wouldn't mind taking the lead, {call|B|A}...",
+  "ch": "以我如今实力尚不足抵敌前方妖兽，还望{call|B|A}你走在当先。"
+ },
+ "610009": {
+  "en": "Hahaha! Your Tao is impressive. No wonder I admire you!",
+  "ch": "哈哈哈！{call|B|A}你道法精深，不愧是我看重之人！"
+ },
+ "610010": {
+  "en": "Hahaha! I knew that monster was no match for you!",
+  "ch": "哈哈哈！我早料到此怪非{call|B|A}你一合之敌。"
+ },
+ "610011": {
+  "en": "{call|B|A}, I'll be blunt with you. No point in pretending. You put up quite a fight, but you must be exhausted. Surrender now and let me have the treasure, and I MIGHT spare your life.",
+  "ch": "{call|B|A}，事到如今我也不用再装了，经历一场大战，想必你已是强弩之末，若你放弃挣扎、让出宝物，我念在交情上或可饶你一命。"
+ },
+ "610012": {
+  "en": "Don't blame me, {call|B|A}. The Path of Cultivation is dangerous. I'm doing you a favor by teaching you a lesson now. Be smart, put it down and back away.",
+  "ch": "{call|B|A}，你休要怪我无情无义，这修仙之路尽是艰难险阻，我趁早给你上一课也是为你好，识相的还不快放下宝物走远点？"
+ },
+ "610015": {
+  "en": "We are not strangers, {call|B|A}. You fought the monsters. We can split the treasure. I'd like you to take this {0} as a token of my esteem. What do you think?",
+  "ch": "{call|B|A}，咱俩之间无需见外。你既力敌妖兽，此处宝藏当你我共享。我愿把这{0}赠予你，略表我一番心意，你看如何？"
+ },
+ "610016": {
+  "en": "You've used your Ultimate Skill a lot during this trip, {call|B|A}, so I'd like you to have this {0}. What do you say?",
+  "ch": "此行多有仰仗{call|B|A}你之神通，既如此，除开应允之物，这宝藏中的{0}我欲一并赠予你，不知你意下如何？"
+ },
+ "610017": {
+  "en": "My heart rejoices to be with you, {call|B|A}. If I can be of any use to you in the future, please let me know.",
+  "ch": "{call|B|A}，与你相处我心甚悦，以后若有用我之时，请务必告知于我。"
+ },
+ "610018": {
+  "en": "You're such a pleasure to be around, {call|B|A}. The events of this day will be deeply inscribed upon my heart.",
+  "ch": "{call|B|A}，与你一行真叫我满心舒畅，今日之事我当深深铭记。"
+ },
+ "610019": {
+  "en": "You surprise me, {call|B|A}! That being the case you force my hand!",
+  "ch": "{call|B|A}，我从没料想过你竟是这等样人！事到如今我也不得不拼死动手了！"
+ },
+ "610020": {
+  "en": "Haha, {call|B|A}, so you're treasure hungry just like the rest. I must have been blind! Draw steel!",
+  "ch": "呵呵，原来{call|B|A}你也不过是这等见宝起意之辈，我算是瞎了眼！动手吧！"
+ },
+ "610023": {
+  "en": "This is the place, {call|B|A}. After you.",
+  "ch": "就是此地了，{call|B|A}，请。"
+ },
+ "610024": {
+  "en": "{call|B|A}, this is the place I meant.",
+  "ch": "{call|B|A}，此处便是我所指之地。"
+ },
+ "610039": {
+  "en": "{call|B|A}, there you are at last! I was about to come and find you. {1} is trapped in a Monster Lair. You're the only one who can help!",
+  "ch": "{call|B|A}，你终于来了，我正要去找你。{1}被困兽巢，眼下只能靠你前去解救了！"
+ },
+ "610040": {
+  "en": "{call|B|A}, I knew you'd come and help me! {1} is trapped inside a Monster Lair. It's life and death! Everything depends on you!",
+  "ch": "{call|B|A}，我就知道你会来帮我！{1}身陷兽巢危在旦夕，一切可都全靠你了！"
+ },
+ "610041": {
+  "en": "Alas, my cultivation is too weak. I couldn't protect everyone.",
+  "ch": "唉，都怪我修为不精，没能护其周全。"
+ },
+ "610042": {
+  "en": "I don't know if they're dead or alive. I'm sick with worry. It's eating me up inside.",
+  "ch": "也不知其是生是死，真叫我茶饭不思、心急如焚。"
+ },
+ "610043": {
+  "en": "There are lots of monsters here. Wait till I kill them, then send in help.",
+  "ch": "此地妖兽众多，且待我将其剿灭再施援手。"
+ },
+ "610044": {
+  "en": "Uh, I can't rescue anyone while there are still monsters around.",
+  "ch": "呼，看来妖兽不灭我无法施救。"
+ },
+ "610045": {
+  "en": "Hah. Stupid beast.",
+  "ch": "哼，真是不开眼的孽畜。"
+ },
+ "610046": {
+  "en": "You nobodies dare to attack me!",
+  "ch": "哼，区区蝼蚁，安敢伤我！"
+ },
+ "610047": {
+  "en": "It's you, {call|B|A}. I knew you'd save me!",
+  "ch": "{call|B|A}，是你，我就知道你一定会来救我的！"
+ },
+ "610048": {
+  "en": "I didn't think I'd live to see you again, {call|B|A}!",
+  "ch": "{call|B|A}，我还能活着见到你，真是太好了！"
+ },
+ "610049": {
+  "en": "These last few days have been hard, {call|A|B}. We should leave this troublesome place.",
+  "ch": "{call|A|B}，这些时日多受苦了，咱们赶紧离开这是非之地！"
+ },
+ "610050": {
+  "en": "It's not safe here, {call|A|B}. We should leave, sooner rather than later!",
+  "ch": "{call|A|B}，此地不宜久留，咱们还是先走为好！"
+ },
+ "610051": {
+  "en": "Ah... Survivors are blessed with a second life! How will I ever repay you, {call|B|A}...?",
+  "ch": "啊……劫后余生宛如两世为人，{call|B|A}之大恩叫我如何偿还……"
+ },
+ "610052": {
+  "en": "Regardless of what I think of you, {call|B|A}, you saved my life and I will never forget it.",
+  "ch": "{call|B|A}，无论我对你如何，你对我的这救命之恩我当永世铭记。"
+ },
+ "610053": {
+  "en": "Words cannot express my gratitude, {call|B|A}. If our paths should cross on the road to immortality, I will find other ways to repay you.",
+  "ch": "{call|B|A}，大恩不言谢，日后若仙途相逢，我必有一番表示。"
+ },
+ "610054": {
+  "en": "You two are very important to me, {call|B|A}. Thank heavens you both made it back, safe and sound.",
+  "ch": "{call|B|A}，你二人皆是我生命中重要之人，如今你们都平安归来，真叫我喜不自胜。"
+ },
+ "610055": {
+  "en": "{call|B|A}, if you avenge me by killing {0}, then our meeting will not have been in vain.",
+  "ch": "{call|B|A}，你若愿意替我报仇、杀了那{0}，我算是此生没与你白白相遇一场。"
+ },
+ "610056": {
+  "en": "{0} has wronged me many times. If you can avenge me, then our meeting will not have been in vain.",
+  "ch": "{0}与我积怨已久，我势必取其性命，{call|B|A}你若帮我办到，也不枉我们相识一场。"
+ },
+ "610057": {
+  "en": "Hahaha, I was right about you, {call|B|A}. You ended many years of resentment with a single cut! Remarkable!",
+  "ch": "哈哈哈，我看重之人果然不同凡响，{call|B|A}你这一出手将我多年积怨了却，妙哉，妙哉！"
+ },
+ "610058": {
+  "en": "To be able to watch that person die has brought me great peace. How will I ever repay you, {call|B|A}?",
+  "ch": "能眼睁睁看此人毙亡，实乃我平生之愿，今{call|B|A}你为我实现，我实在是无以为报。"
+ },
+ "610059": {
+  "en": "{name|A} (me): If you know what's good for you, let the Cai Girl go now—or else I'll tear this Qingtian Fort down!",
+  "ch": "{name|A}（我）：若是识相，便赶紧将蔡家女子放走。否则，今日我必将灭了你这擎天寨！"
+ },
+ "610060": {
+  "en": "{name|A} (me): (What's the meaning of that? ...Could it be... self-sacrifice?)",
+  "ch": "{name|A}（我）：（此言何意？…莫非是…刚烈自尽？！）"
+ },
+ "610061": {
+  "en": "Your Breakthrough to the {grade|A} stage is successful! Suddenly, a fiendish roar rips through your head...",
+  "ch": "你成功突破至{grade|A}，此时…你的脑海中传来一阵凶神恶煞的嘶吼！"
+ },
+ "610062": {
+  "en": "You're hoping to capture {0}? {0} is considered very influential in {1}, so you'd better be careful. All you need to do is bring back {2}. Try not to get on {0}'s bad side if you can help it.",
+  "ch": "你要缉拿{0}？{0}是{1}的强者，你可要小心。你只需取回{2}即可，若不是万不得已，切勿与{0}结仇。"
+ },
+ "610063": {
+  "en": "Can't believe I could get to see my interspatial ring again! I'll be forever grateful towards you!",
+  "ch": "想不到有一日还能取回我的储物戒！今日大恩，我必铭记于心！"
+ },
+ "610064": {
+  "en": "Yes, this is {0}'s interspatial ring. Too bad its owner is no longer around... Anyway, here's your reward.",
+  "ch": "嗯，这确实是{0}的储物戒，可惜储物戒的主人已死于非命…这是你的奖励，请收下吧。"
+ },
+ "610065": {
+  "en": "Are you the one who accepted my mission? Let me warn you in advance that it's going to be a perilous journey. Please come with me if you dare.",
+  "ch": "便是你领取了我发布的任务？事先告诉你，这一趟行程十分凶险，你若是不惧，便跟来吧。"
+ },
+ "610066": {
+  "en": "The treasure I detected is up ahead. A fierce monster has made its home next to it.",
+  "ch": "我先前所探到的宝物就在前方，有一只十分强大的妖兽栖息栖息在宝物旁。"
+ },
+ "610067": {
+  "en": "Let's go, then! I'll support you from behind.",
+  "ch": "那么便走吧！我在后方接应你。"
+ },
+ "610068": {
+  "en": "Ha! Didn't expect you to really defeat this monster!",
+  "ch": "哈哈哈！没想到你竟真的打败了这个怪物！"
+ },
+ "610069": {
+  "en": "Perfect, perfect! All these goodies are mine now!",
+  "ch": "好！好！好！！！这些宝贝都是我的啦！"
+ },
+ "610070": {
+  "en": "Heh, you don't have any strength to fight back anymore, hm? Hand over everything you have if you don't want to die!",
+  "ch": "嘿嘿！你已经没有余力了吧？若是不想死，便将你所有的宝贝给我交出来！"
+ },
+ "610071": {
+  "en": "Very well. Don't blame me for what's coming next—your own fault for being stubborn.",
+  "ch": "哼！既然你执意反抗，那就别怪我不客气了！"
+ },
+ "610073": {
+  "en": "Here's your reward we agreed upon. Gotta thank you for helping me with this monster! Take this {0} too.",
+  "ch": "依照约定，这是你的报酬。能击败这个怪物，你功不可没！宝物中的{0}也送给你吧。"
+ },
+ "610074": {
+  "en": "Ha! I had fun on this journey. I hope we'll have more chances to work together in the future.",
+  "ch": "哈哈哈！此行非常愉快，希望以后我们还能有机会合作。"
+ },
+ "610075": {
+  "en": "What exactly do you want? I didn't expect you to be the rotten type. Lemme teach you a lesson!",
+  "ch": "你想做什么？！没想到你竟是这等卑劣之人！我和你拼了！"
+ },
+ "610076": {
+  "en": "Who do you think you're kidding with this? Looks like I have to teach you a lesson today!",
+  "ch": "就这点东西，糊弄谁呢？！看来今日非得给你一些教训不可！"
+ },
+ "610077": {
+  "en": "Are you the one who accepted my mission? Let me warn you in advance that it's going to be a perilous journey. You could very well die.",
+  "ch": "便是你领取了我发布的任务？我事先告诉你，这一趟行程十分凶险，恐怕会有性命之忧。"
+ },
+ "610078": {
+  "en": "I found a treasure-hiding spot—bet there's some good loot there. Too bad a fierce monster lives next to the place, making it difficult for us to get close.",
+  "ch": "我先前寻到了一处宝地，恐怕里面有不少好东西。只是可惜，宝贝附近栖息着一只强大的妖兽，想要获得宝贝，恐怕得费不少功夫。"
+ },
+ "610079": {
+  "en": "Come with me if you dare. The helpers I hired will be waiting there.",
+  "ch": "你若是不惧，便跟上来吧。我雇的人已经在那边等着了。"
+ },
+ "610080": {
+  "en": "This is the place. There's a formidable monster inside.",
+  "ch": "就是此地了，里面有一只十分强大的妖兽。"
+ },
+ "610081": {
+  "en": "Let's go! We'll be providing support from behind.",
+  "ch": "走吧！我们在后边接应你。"
+ },
+ "610085": {
+  "en": "Very well. Don't blame me for what's coming next—your own fault for being stubborn. Bros, teach {0} a lesson!",
+  "ch": "哼！既然你执意反抗，那就别怪我们不客气了！弟兄们，给{0}一点教训！"
+ },
+ "610089": {
+  "en": "What exactly do you want? I didn't expect you to be the rotten type. You think we'd just let this slide? Get 'em, bros!",
+  "ch": "你想做什么？！没想到你竟是这等卑劣之人！真当我们是吃素的？！弟兄们，叫{0}尝尝我们的厉害！"
+ },
+ "610090": {
+  "en": "Are you the one who accepted my mission? Wonderful. My {0}, {1}, has been trapped in the Monster Lair for days.",
+  "ch": "你便是揭榜人？太好了，我的{0}{1}先前遇难，已经被困在妖兽巢穴许多时日了。"
+ },
+ "610091": {
+  "en": "If you can bring my {0} home, I'll make sure to repay you handsomely one day.",
+  "ch": "你若有这个本事能够救回我的{0}，日后我必定会报答阁下的大恩。"
+ },
+ "610092": {
+  "en": "Looks like this is {0}. I need to find a way to help {1}...",
+  "ch": "看来这人便是{0}了，我得想办法帮{1}…"
+ },
+ "610093": {
+  "en": "I sense something highly threatening in the air! A massive enemy must be close!",
+  "ch": "好强的杀气！似乎有个大家伙！"
+ },
+ "610094": {
+  "en": "Uh... Who are you?",
+  "ch": "唔…你是谁？"
+ },
+ "610095": {
+  "en": "Your {0}, {1}, sent me to help. Please follow me out of this forsaken place.",
+  "ch": "我受你的{0}{1}之托前来助你，快随我离开此地吧。"
+ },
+ "610096": {
+  "en": "Whew... Finally safe!",
+  "ch": "太好了…终于得救了。"
+ },
+ "610097": {
+  "en": "Thank you for saving my {0}. I'll never forget your kind deed!",
+  "ch": "谢谢你救了我的{0}。今日之恩，在下永世不忘！"
+ },
+ "610098": {
+  "en": "No way... {0} sent you to help me... yet he died before I could return. How tragic... but I'll never forget your kindness for sure!",
+  "ch": "想不到{0}让你来救我，自己却死于非命…阁下的救命之恩，在下永世不忘！"
+ },
+ "610099": {
+  "en": "You're here to hunt {0}? {0} is considered very powerful in {1}, so you'd better be careful.",
+  "ch": "你想要狩猎{0}？{0}可是{1}强者，切勿大意。"
+ },
+ "610100": {
+  "en": "Can't believe you really got rid of {0}! I could never have done it myself. I'll never forget you and what you did for me today!",
+  "ch": "没想到你竟然真的将{0}给除去了！我全仰仗阁下才得以报此大仇，我定不会忘记阁下今日之恩！"
+ },
+ "610101": {
+  "en": "I heard you slayed the {0}, but too bad... {1}, the one who hired you, is dead and can't be here to thank you in person. Anyway, here's your reward.",
+  "ch": "我听说你除掉了{0}，但可惜你的雇主{1}已死于非命，无法亲自向你道谢了…这是你的报酬，请收下吧。"
+ },
+ "610102": {
+  "en": "The scripture holding a Secret Technique belonging to {0} got stolen by {1}. Please retrieve it for us immediately.",
+  "ch": "我们{0}的宗门秘法先前被{1}所窃，你即刻去将秘法带回来吧。"
+ },
+ "610103": {
+  "en": "Hmm... this is indeed the Secret Technique belonging to {0}. Here's your reward.",
+  "ch": "嗯…这的确是我{0}。这是给你的奖励，请收下吧。"
+ },
+ "610105": {
+  "en": "...Who dares disturb my sleep?",
+  "ch": "…何人扰我长眠？"
+ },
+ "610106": {
+  "en": "How dare you steal from me?",
+  "ch": "竟敢擅自盗取我的东西，真是好大的胆子！"
+ },
+ "610107": {
+  "en": "...Well, if you really want it, I could just give it to you... as long as you complete a task for me first.",
+  "ch": "…哼！你若确实想要，倒也不是不行。只是，你必须要替我去完成一件事情。"
+ },
+ "610108": {
+  "en": "Please bring my remaining belongings to my {1}, {2}. You can have the rest.",
+  "ch": "将我的遗物交给我的{1}{2}，剩下的东西便全送给你了。"
+ },
+ "610109": {
+  "en": "All right. I'll give you {0}. If you don't bring the item to {1} before that, I'll make sure you never hear the end of it!",
+  "ch": "好！我给你{0}的时间，你若是没有及时将东西送给{1}，我绝不放过你！"
+ },
+ "610110": {
+  "en": "You're truly a foolish one. I guess I'll have to make sure you don't leave this place alive!",
+  "ch": "不识好歹！既如此，今日我便让你埋葬于此！"
+ },
+ "610111": {
+  "en": "Filthy traitor, you will pay today! DIEEEE!!!",
+  "ch": "背信弃义的家伙，今日我便要让你付出代价！受死吧！"
+ },
+ "610112": {
+  "en": "(Looks like {0} is nearby. Would you like to talk to {0}?)",
+  "ch": "（{0}似乎就在附近，要上前和{0}对话吗？）"
+ },
+ "610113": {
+  "en": "What do you want?",
+  "ch": "你有何事？"
+ },
+ "610114": {
+  "en": "Didn't expect to receive {0}'s belongings after so long. Thanks for coming all the way.",
+  "ch": "没想到时隔多日还能收到{0}的遗物，有劳你了。"
+ },
+ "610115": {
+  "en": "{0}! How could you, shameless scoundrel? I'm already dead, yet you would not leave me alone. Watch me rip you to shreds today!",
+  "ch": "{0}！没想到竟是你这无耻之徒！我都死了你还不肯放过我，今日我定要将你碎尸万段！"
+ },
+ "610116": {
+  "en": "It can't end like this... it can't!",
+  "ch": "我不甘心…我不甘心呐！！！"
+ },
+ "610117": {
+  "en": "{0}, didn't expect it to be you...",
+  "ch": "{0}，没想到竟然是你…"
+ },
+ "610118": {
+  "en": "Well, if it has to be you, then please at least take my remaining belongings with you...",
+  "ch": "唉，既然是你，那么便将我生前所留之物一并带走吧…"
+ },
+ "610119": {
+  "en": "I have one request, though... I may be dead, but {0}, my nemesis, is still living. I can't rest easy knowing that {0} is still around! Can you... avenge me, please?",
+  "ch": "只是我有一个请求…我虽已身死，但是我最恨的人{0}还活着…{0}一日不死，我便一日无法安息！你…你能否替我报仇？"
+ },
+ "610120": {
+  "en": "Forget it, then. I'm glad to have had the chance to meet you once more. Well, it's time I go on my way. Take care, friend.",
+  "ch": "那么就算了吧…很高兴能够再次遇见你，我也是是时候该上路了，保重…"
+ },
+ "610121": {
+  "en": "Thank you...",
+  "ch": "谢谢你…"
+ },
+ "610122": {
+  "en": "Finally avenged {0}... This whole affair is over at last.",
+  "ch": "终于是帮{0}报得了此仇…此事终于告一段落了。"
+ },
+ "610123": {
+  "en": "(Looks like a solitary grave. Should I take a closer look?)",
+  "ch": "（似乎是一座孤坟，要不要过去看看？）"
+ },
+ "610124": {
+  "en": "Thank you for promising to avenging me... I can go on my way with my mind at ease now. May we meet in our next life.",
+  "ch": "谢谢你愿意替我报仇…那么我便安心上路了，来世再见…"
+ },
+ "610125": {
+  "en": "(Looks like some more treasure is buried up ahead. Should I get a closer look?)",
+  "ch": "（前方似乎埋藏着一些宝藏，要过去看看吗？）"
+ },
+ "610126": {
+  "en": "Hey, young'un! What's the hurry? Come over to {positionName|1001}, I've got something good for you.",
+  "ch": "年轻人，先不要急着走…到{positionName|1001}来一趟，我有好东西要交给你。"
+ },
+ "610127": {
+  "en": "Who in the world are you?",
+  "ch": "你是谁？！"
+ },
+ "610128": {
+  "en": "Heh, don't get your underpants in a twist, young one. Just come and you'll know.",
+  "ch": "嘿嘿！年轻人，不要心急…来了便知。"
+ },
+ "610129": {
+  "en": "(Should I go to {positionName|1001} and see?)",
+  "ch": "（要不要回去{positionName|1001}看看呢…）"
+ },
+ "610130": {
+  "en": "Why have you summoned me here?",
+  "ch": "前辈唤我来此，所为何事？"
+ },
+ "610131": {
+  "en": "Heh, let me ask you... Do you have the ancient artifact, {artifactName}?",
+  "ch": "嘿嘿嘿~我且问你，上古神器{artifactName}是否在你手中？"
+ },
+ "610132": {
+  "en": "Aha, I knew it! See, I have something I want the owner of {artifactName} to have.",
+  "ch": "哈哈哈，果然没错！把你叫过来，是有一个东西想要交给{artifactName}的主人。"
+ },
+ "610133": {
+  "en": "Come with me into the Tree Vault.",
+  "ch": "你且随我到建木中来。"
+ },
+ "610134": {
+  "en": "Come on, no need to be on your guard. All I want is to give a little something to the owner of {artifactName}.",
+  "ch": "哈哈哈，不要这么警惕嘛！我不过是想将一样东西交给{artifactName}的主人。"
+ },
+ "610136": {
+  "en": "Have you heard of the Tree Vault, young one? They're the largest, most mysterious old trees in the world. They've been around since the world was first born from chaos.",
+  "ch": "年轻人，你可曾听闻过建木之名？这可是八荒世界中最巨大且最为神秘的古树！在上古的鸿蒙时期，就已经有建木的存在了。"
+ },
+ "610137": {
+  "en": "Today, I'm granting you access to some of the space in the Tree Vault. You can store excess baggage here and take it out when you need it.",
+  "ch": "今日，我便将这建木空间的部分使用权交给于你。你可以将多余的物品暂存于建木之中，待到需要之时再将其取出。"
+ },
+ "610138": {
+  "en": "You can find Tree Vaults in multiple locations in the world. The roots and branches of these trees are all linked, so you can store your items in one Tree Vault and retrieve them in any other Tree Vault.",
+  "ch": "你可以在八荒世界的许多地方寻找到建木的踪迹，建木的所有树根与枝干都是相通的，你可以在任意一处建木的树根中取得你所寄存的物品。"
+ },
+ "610139": {
+  "en": "By the way, any books you collect can be stored in the Tree Vault Library to be read later.",
+  "ch": "对了，你所收集到的多余的书籍，也可以存入建木的书库中，日后在闲暇之余不妨查阅一番。"
+ },
+ "610140": {
+  "en": "All right, I think I've told you all you need to know. May we meet again someday.",
+  "ch": "好了，该交代的事情我也交代得差不多了…有缘再见。"
+ },
+ "610142": {
+  "en": "Hey over there! Do you have some spare time to lend me a hand?",
+  "ch": "这位道友，若无要事，可否帮我一个忙？"
+ },
+ "610143": {
+  "en": "My spiritual pet that's been my companion for years has gone missing... I've been searching for days but can't find it anywhere.",
+  "ch": "与我相伴多年的灵宠突然走失…我找寻多日，却一直没有发现它的踪迹。"
+ },
+ "610144": {
+  "en": "Can you help me search, my friend? It can't have gone far... I'll pay you handsomely if you find it, of course!",
+  "ch": "道友，你能帮我找找吗？它应该就在附近…你若是能帮我寻回灵宠，我必有重谢！"
+ },
+ "610145": {
+  "en": "All right... In that case, I won't force you.",
+  "ch": "好吧…既然如此，那我也不勉强。"
+ },
+ "610146": {
+  "en": "It's a large rooster. Quite pretty, but rather temperamental.",
+  "ch": "它是一只大公鸡，长得十分漂亮，就是脾气有些大…"
+ },
+ "610147": {
+  "en": "Thanks a lot, friend! It can't have gone far, but I've searched for days and still nothing. Your help is really appreciated.",
+  "ch": "多谢道友！它一定就离此地不远，可我寻了多日却没有发现丝毫线索…只能劳烦道友了。"
+ },
+ "610148": {
+  "en": "(Got it! Time to bring {0} back.)",
+  "ch": "（得手了！这就将{0}送回去吧。）"
+ },
+ "610149": {
+  "en": "Whoa! You found my big rooster!",
+  "ch": "啊！没想到你真的找回了我的大公鸡！"
+ },
+ "610150": {
+  "en": "I'm very grateful. Here, take this {0} as reward. Do come see me if you ever need help in the future!",
+  "ch": "大恩不言谢，这里的{0}便送给道友作为谢礼了！日后若是有需要我帮忙的地方，尽管开口！"
+ },
+ "610151": {
+  "en": "I'm so grateful. I'd love to repay you, but I have no money on me right now...",
+  "ch": "大恩不言谢，虽然我非常想报答你，但我现在身无分文…"
+ },
+ "610152": {
+  "en": "I'll be sure to repay you someday in the future!",
+  "ch": "来日，我定会报答你的大恩大德！"
+ },
+ "610153": {
+  "en": "Would you like to return {0} to {1}?",
+  "ch": "是否要将{0}还给{1}？"
+ },
+ "610154": {
+  "en": "Young one, have you encountered a bottleneck in your cultivation process? No worries, I've got a spiritual pill that'd help you break through to the Qi Refining Middle stage in one go!",
+  "ch": "小家伙，修炼遇到瓶颈了吧？别着急，我有一枚仙丹，定能助你一举突破至炼气中期！"
+ },
+ "610155": {
+  "en": "Heh, this <g>Qi Refining Pill I</g> I've got here could go for 800 Spirit Stones in your average market—but it's so rare that not even a billionaire could always obtain one if he wanted to!",
+  "ch": "嘿嘿嘿~我这<g>聚气丸</g>，在寻常的坊市中，能卖到800灵石的天价！关键是有价无市，即便你身缠万贯，还不一定能买得到呢！"
+ },
+ "610156": {
+  "en": "Anyway, judging from your form and posture, I know you're a talented, one-in-a-million cultivator. Since fate has brought us together, I'd like you to have this <g>Qi Refining Pill I</g> worth 800 Spirit Stones for just 400 Spirit Stones. What do you think?",
+  "ch": "但是，我见你天生骨骼惊奇，是万中无一的修道奇才！既然你我有缘，我又有心想要助你一臂之力…这原价800灵石的<g>聚气丸</g>，现在只需要400灵石我便转让给你。你意如何？"
+ },
+ "610157": {
+  "en": "Heh, I know you're a smart one. This <g>Qi Refining Pill I</g> is all yours now!",
+  "ch": "嘿嘿嘿~果然够爽快，这枚<g>聚气丸</g>是你的了！"
+ },
+ "610158": {
+  "en": "Tch, what a fool. You don't deserve my wares anyway.",
+  "ch": "啧…不识好歹，不买就拉倒！我还不想卖呢！"
+ },
+ "610159": {
+  "en": "What's up?",
+  "ch": "别来无恙啊。"
+ },
+ "610160": {
+  "en": "No need to worry about me. I can take care of myself.",
+  "ch": "不用太为我费心，我能照顾好自己。"
+ },
+ "610161": {
+  "en": "Thank you.",
+  "ch": "谢谢你。"
+ },
+ "610163": {
+  "en": "This is for you.",
+  "ch": "这个给你。"
+ },
+ "610164": {
+  "en": "It's been a while.",
+  "ch": "好久没看到你了。"
+ },
+ "610166": {
+  "en": "Hello there. Doesn't look like you're from Yun Mo! Are you new?",
+  "ch": "这位道友，你似乎…并非云陌州之人啊！莫非刚来此地不久？"
+ },
+ "610167": {
+  "en": "Ah... You've chosen a really bad time to visit.",
+  "ch": "唉…你来得可真不是时候。"
+ },
+ "610168": {
+  "en": "In recent years, the righteous faction and the Untamed in Yun Mo have been feuding constantly. If you get caught in the crossfires by accident, you could very well end up dead.",
+  "ch": "近年来，云陌州中的正道势力与妖修的争斗愈发激烈…若是被卷入其中，稍有不慎便会万劫不复。"
+ },
+ "610169": {
+  "en": "(Looks like there are people fighting up ahead...)",
+  "ch": "（前方似乎有人正在战斗…）"
+ },
+ "610170": {
+  "en": "Surrender now, demons!",
+  "ch": "你们这帮妖魔，还不快快束手就擒！"
+ },
+ "610171": {
+  "en": "You so-called \"righteous ones\" are none but a bunch of big bullies! Even if we're doomed, we would never surrender to you!",
+  "ch": "可恨，你们正道之人就会以多欺少！今日即便我等在劫难逃，也绝不会屈服！"
+ },
+ "610172": {
+  "en": "(What should I do?)",
+  "ch": "（我该怎么做？）"
+ },
+ "610173": {
+  "en": "Thanks for the help, friend!",
+  "ch": "道友，感谢你出手相助！"
+ },
+ "610174": {
+  "en": "These demons aren't humans, even though they may pretend to be. Bunch of rascals...",
+  "ch": "这些妖魔并非人类，却伪装成人类的样子，着实可恶！"
+ },
+ "610175": {
+  "en": "Our mission here is done now. Farewell and may we meet again!",
+  "ch": "如此一来，我们的任务也告一段落了。就此别过，有缘再会！"
+ },
+ "610176": {
+  "en": "Thank you for lending us a hand, friend! If it weren't for you, we'd be dead by now.",
+  "ch": "这位朋友，感谢你愿意出手相助！若不是你，今日我等恐怕在劫难逃。"
+ },
+ "610177": {
+  "en": "We may not look like ordinary humans, but we've never done anything bad! Yet these so-called \"righteous ones\" are out for our blood for some reason.",
+  "ch": "我们虽与常人有异，但却从未做过伤天害理之事！这些所谓的名门正道，不知为何非要将我们赶尽杀绝。"
+ },
+ "610178": {
+  "en": "We can't stay here for long. I've obtained these from those guys. They're all yours now! It's time for us to leave. May we meet again!",
+  "ch": "我不能在此久留，这些东西是我从他们手中得到的，便赠于你吧！我们必须离开此地了，后会有期。"
+ },
+ "610179": {
+  "en": "Hey there! Do you know why those righteous ones hate the Untamed so much?",
+  "ch": "嘿嘿！这位朋友，你可知道正道之人为何要刻意针对那些半人半妖的家伙嘛？"
+ },
+ "610180": {
+  "en": "I've heard a few rumors about that. If you're interested, you can pay <g>500 Spirit Stones</g> and I'll spill. You won't be disappointed, I promise!",
+  "ch": "我这里有一些小道消息。你若是感兴趣，可愿用<g>500灵石</g>来换取？放心！绝对不会让你失望的！"
+ },
+ "610181": {
+  "en": "Eh, you'll regret this.",
+  "ch": "哼！你一定会后悔的！"
+ },
+ "610182": {
+  "en": "Heh, clever choice!",
+  "ch": "嘿嘿嘿！果然够爽快！"
+ },
+ "610183": {
+  "en": "I've heard that these Untamed actually have an interesting background. They're few in numbers but they've stood firm against those so-called righteous ones in Yun Mo for years, which means they must be very skilled. Do you know the reason behind that?",
+  "ch": "据说，这些家伙体内的妖族血脉似乎还有些来头！他们人数虽少，却能在云陌州中与那群正道的王八蛋抗衡这么多年，你可知这是为何？"
+ },
+ "610184": {
+  "en": "They're a decently cultivated bunch with powerful demon ancestry. Of course they're on an entirely different level!",
+  "ch": "他们修为不弱，再加上强大的妖魔血脉，让他们的实力提升了不止一个档次！"
+ },
+ "610185": {
+  "en": "Especially their leader, Feng Yunchuo. Quite the mysterious one, no one knows much about him—except that he's the most powerful of all in the entire Yun Mo!",
+  "ch": "特别是他们的首领风允婼，虽然此人极其神秘，有关于他的情报少之又少。但有一点却是可以肯定的，整个云陌州中，绝无一人能与他为敌！"
+ },
+ "610186": {
+  "en": "That's pretty much all I know. You can find the headquarters of the Untamed in southeast Yun Mo, but I wouldn't suggest you to head there unless you're asking to be killed.",
+  "ch": "更详细的我就不知道啦！这群半人半妖的家伙的大本营就在云陌州的西南方，你若是不想死于非命，最好不要随便接近。"
+ },
+ "610187": {
+  "en": "Clearly they're in possession of something powerful... something those righteous ones would pay any price to get their hands on!",
+  "ch": "唉…能让正道之人付出这么大的代价也要得到的东西，只怕不会那么简单呀！"
+ },
+ "610188": {
+  "en": "Oh, right, I remember the elites of the righteous sects once ganged up on Feng Yunchuo, yet the Untamed still ended up victorious.",
+  "ch": "对了…先前风允婼被各大正道宗门中的高手联手围攻，最终妖人们力压正道宗门，取得了胜利。"
+ },
+ "610189": {
+  "en": "However, while retreating, Feng Yunchuo's family was ambushed, and an assassin abducted his daughter.",
+  "ch": "但是风允婼的家眷似乎在撤离时遭遇暗算，他的女儿似乎被刺客给掳走了…"
+ },
+ "610190": {
+  "en": "Feng Yunchuo wouldn't let them go that easily! Let's just wait and see what happens!",
+  "ch": "风允婼是一定不会善罢甘休的。咱们啊，就等着看好戏吧！"
+ },
+ "610192": {
+  "en": "(I sense a change in the air... Something's approaching.)",
+  "ch": "（这个气息…似乎有什么东西要过来了。）"
+ },
+ "610193": {
+  "en": "O-out of my way! Don't block my path unless you're asking for death!",
+  "ch": "快…快让开！不想死，就别拦着我！"
+ },
+ "610194": {
+  "en": "(Judging from his trembling breaths, this guy must be mortally wounded...)",
+  "ch": "（此人气息紊乱，似乎已经身受重伤…）"
+ },
+ "610195": {
+  "en": "Hello there. Did a wounded man pass by here?",
+  "ch": "这位道友，你刚才可有见到一名受伤的男子？"
+ },
+ "610196": {
+  "en": "He may look like a human, but he's actually a demon and murderer! We're sent by Starnight here to capture him. Please tell me where he's gone.",
+  "ch": "他外表形似人类，其实是一个杀人不眨眼的妖魔！我等奉命星夜追杀至此，还希望道友能告诉我那妖魔的去向。"
+ },
+ "610197": {
+  "en": "Thanks, pal! Let's go!",
+  "ch": "多谢道友！我们快追！"
+ },
+ "610199": {
+  "en": "Ugh, I knew it, you're one of them! You die today!",
+  "ch": "哼！果不其然，你果然是妖魔的同党！今日，你必死无疑！"
+ },
+ "610200": {
+  "en": "I'll kill you!",
+  "ch": "我跟你拼了！"
+ },
+ "610201": {
+  "en": "Thanks for the help, bud! We've been pursuing this demon for days, and he nearly escaped yet again.",
+  "ch": "多谢这位道友出手！我们已追寻这妖魔多日，却还是差点让他逃了。"
+ },
+ "610202": {
+  "en": "Here's a little something for you. We've got something else on our agenda, so we've gotta go. See you!",
+  "ch": "此物便赠于道友，以表心意。我们还有任务在身，便不在此久留了…再会！"
+ },
+ "610203": {
+  "en": "Ha, didn't expect this, huh? You're all mine now!",
+  "ch": "哈哈哈，想不到你这小畜生竟会落入我手中！"
+ },
+ "610204": {
+  "en": "For years I endured strenuous training in {school|B}. But no matter how hard I tried, I've never advanced beyond Initiate...",
+  "ch": "这么多年来， 我在{school|B}中忍辱负重，刻苦修行…但无论我如何努力，却还始终都只是一个外门弟子…"
+ },
+ "610205": {
+  "en": "Things are different now! Now that I have you as hostage, I can lure Feng Yunchuo and slay him. And then I, {name|B}, will become renowned all over the world!",
+  "ch": "可如今就不一样了！我只要擒住了你，定能以你为挟杀死风允婼！到了那时，我{name|B}必将名扬天下！"
+ },
+ "610207": {
+  "en": "(What should I do...?)",
+  "ch": "（我该如何是好…）"
+ },
+ "610208": {
+  "en": "Who dares ruin my fun? I'll kill you here and now!",
+  "ch": "哪来的家伙？竟敢坏我的好事！哼，我先杀了你！"
+ },
+ "610209": {
+  "en": "You okay? Are you hurt?",
+  "ch": "你没事吧？可有受伤？"
+ },
+ "610210": {
+  "en": "I'm fine.",
+  "ch": "无碍。"
+ },
+ "610211": {
+  "en": "Good. That was close.",
+  "ch": "那就好，刚才真是太危险了。"
+ },
+ "610212": {
+  "en": "But you hurt him... I'm worried that he'll be back for revenge...",
+  "ch": "可是，你伤了他…我担心他日后会寻仇…"
+ },
+ "610213": {
+  "en": "But you killed him... His sect won't let you off the hook that easily...",
+  "ch": "可是，你杀了他…他的宗门恐怕不会轻易放过你…"
+ },
+ "610214": {
+  "en": "That's not important now...",
+  "ch": "比起这个…"
+ },
+ "610215": {
+  "en": "I'm Feng Lixi, the daughter of Feng Yunchuo.",
+  "ch": "我叫风里希，是风允婼的女儿…"
+ },
+ "610216": {
+  "en": "When Father was fighting the righteous sect members, the rest of the family rushed to hide, but we got attacked on the way.",
+  "ch": "之前父亲在与正道宗门决战时，曾让我们到远处去避难，但我们却在途中遇袭…"
+ },
+ "610217": {
+  "en": "We all fought hard, but there were way too many of them. And I, with the least experience out of everyone, became an easy target...",
+  "ch": "大家都在奋力抵抗，但对方人多势众，修为微末的我自然成为了他们的目标…"
+ },
+ "610218": {
+  "en": "I'm so glad you came for me. Otherwise, who knows what they'd do to me...",
+  "ch": "还好你救了我。否则，真不知道他们会怎么对待我。"
+ },
+ "610219": {
+  "en": "Most of the members of our camp were people Father rescued from all over the world. We may be different from the average human, but we've never hurt anyone...",
+  "ch": "寨子里的人，大多是以前父亲从各地中救过的人。我们虽然与常人有异，却从未行过伤天害理之事…"
+ },
+ "610220": {
+  "en": "But, for some reason, people always called us monsters. The righteous sects were the worst—they've never stopped hunting us.",
+  "ch": "但不知为何…人们总是把我们视作妖怪，正道修仙者更是以此为由而迫害我们。"
+ },
+ "610221": {
+  "en": "The more members we have in our camp, the more well-known we've become. More and more of our kind joined our ranks, but more and more factions started seeing us as their sworn enemies...",
+  "ch": "随着寨中的人越来越多，我们的名声也越来越响，于是便有更多的同胞前来投靠我们。同时，也有越来越多的势力将我们视为眼中钉…"
+ },
+ "610222": {
+  "en": "Now all we can do is live in seclusion in a corner of Yun Mo. But as Father often says, we can't hide forever. Besides, we're too close to the Nether Mountains right now. If we don't move somewhere else sooner or later, our people will al perish from the deathly aura the mountains emit...",
+  "ch": "如今的我们，也只能偏安于云陌州的一角…但父亲常说，偏安者断不能久安，更何况我们所处的位置太过接近冥山…如若不能改变现状，同胞们定会因冥气的影响而早早死去…"
+ },
+ "610223": {
+  "en": "My family and I live in southwest Yun Mo...",
+  "ch": "我和我的家人都生活在云陌州的西南方…"
+ },
+ "610224": {
+  "en": "If you stay here, your life could be in danger. Let me take you back to your home.",
+  "ch": "你留在此地恐怕会有性命之忧…既然如此，不如便由我送你回去吧。"
+ },
+ "610225": {
+  "en": "But... if you travel with me, the righteous sects will see you as their enemy.",
+  "ch": "可是…跟我在一起，你恐怕会被正道宗门给盯上的。"
+ },
+ "610226": {
+  "en": "I've already hurt some of them in order to get to you. Why should I fear them?",
+  "ch": "我既然出手救了你，又何惧于他们？"
+ },
+ "610227": {
+  "en": "Okay then... Thank you.",
+  "ch": "那好吧…谢谢你。"
+ },
+ "610228": {
+  "en": "Stop right there!",
+  "ch": "给我站住！"
+ },
+ "610229": {
+  "en": "I'll rip you to shreds today for killing my sect members and consorting with this demon girl! Die!",
+  "ch": "杀害我正道之人，还袒护妖女，今日我定要将你碎尸万段！纳命来！"
+ },
+ "610230": {
+  "en": "I'll rip you to shreds today for hurting my sect members and consorting with this demon girl! Die!",
+  "ch": "伤害我正道之人，还袒护妖女，今日我定要将你碎尸万段！纳命来！"
+ },
+ "610231": {
+  "en": "(<b>Feng Lixi</b> seems to have something to say to me.)",
+  "ch": "（<b>风里希</b>似乎有话想和我说。）"
+ },
+ "610232": {
+  "en": "I wonder how everyone's doing...",
+  "ch": "也不知道大家怎么样了…"
+ },
+ "610233": {
+  "en": "Are you worried about your family?",
+  "ch": "你是在担心你的家人吗？"
+ },
+ "610234": {
+  "en": "Yeah...",
+  "ch": "嗯…"
+ },
+ "610235": {
+  "en": "They're powerful people. Not even an alliance of several factions could harm them. There's nothing to worry about.",
+  "ch": "他们实力强大，数个势力联手都无法奈何他们，你大可不必担心。"
+ },
+ "610236": {
+  "en": "Well, actually... the real reason the righteous sects haven't been able to defeat us yet is the terrain where our camp is built. The location is surrounded by the Nether Mountains, making it strategically easy to defend.",
+  "ch": "其实…正道之所以无法彻底击败我们，是因为我们的所驻之地地势险要，且周围皆是冥山，易守难攻。"
+ },
+ "610237": {
+  "en": "But the place is also affected by the deathly aura from the mountains. We can't remain there forever...",
+  "ch": "但也正因如此，大家都被冥气所影响。如此下去恐怕不是长久之计…"
+ },
+ "610240": {
+  "en": "I can't believe a human would dare to stand against humans for the sake of defending a demon! There's no turning back now. I shall teach you a lesson on behalf of the heavens!",
+  "ch": "我没想到，竟有人会为了袒护妖魔而与人类对立！事已至此，今日我便要替天行道！"
+ },
+ "610241": {
+  "en": "How dare you enter our territory? You must be asking for death. Surrender now!",
+  "ch": "竟然敢闯入我们的地盘，我看你是活腻了！快快束手就擒吧！"
+ },
+ "610244": {
+  "en": "Stop it! {gender|A} is my friend.",
+  "ch": "你们快住手！{gender|A}是我的朋友。"
+ },
+ "610245": {
+  "en": "Milady, you're home! The boss's almost gone crazy after those humans abducted you.",
+  "ch": "小姐？！你回来啦！老大听说你消失后，都快疯了！"
+ },
+ "610246": {
+  "en": "Hurry back into the camp to see him!",
+  "ch": "你快回到寨中找他吧。"
+ },
+ "610247": {
+  "en": "All right, I'm sorry for making everyone worry. I'll go see Father immediately.",
+  "ch": "嗯，让你们担心了。我这就去找父亲。"
+ },
+ "610248": {
+  "en": "I'll leave you alone since you're a friend of Milady's. But I must warn you, human, to stay out of our business.",
+  "ch": "你既然是小姐的朋友，我也不便多说什么。但你身为人类，最好还是不要掺和我们的事。"
+ },
+ "610249": {
+  "en": "Is it really you, Lixi?",
+  "ch": "里希，真的是你？！"
+ },
+ "610250": {
+  "en": "I have returned, Father.",
+  "ch": "父亲，我回来了。"
+ },
+ "610251": {
+  "en": "You're back... Thank goodness you're back!",
+  "ch": "回来就好…回来就好啊！"
+ },
+ "610252": {
+  "en": "If it weren't for {name|A} who rescued me, I would have...",
+  "ch": "多亏了这位{name|A}相救，否则…"
+ },
+ "610253": {
+  "en": "Ah, I see...",
+  "ch": "嗯，原来如此…"
+ },
+ "610254": {
+  "en": "Thank you, friend, for helping my daughter.",
+  "ch": "朋友，感谢你愿意挺身而出搭救小女。"
+ },
+ "610255": {
+  "en": "I should've held a banquet to thank you for bringing Lixi all the way back... But our camp is a bit shabby right now, so please forgive us...",
+  "ch": "你千里迢迢的将里希送回来，我本该布下宴席为你们接风洗尘…却奈何寨中条件简陋，环境恶劣，望阁下见谅…"
+ },
+ "610256": {
+  "en": "Boss, some of our people have succumbed to the deathly aura in the north.",
+  "ch": "老大，北边又有弟兄被冥气侵蚀了。"
+ },
+ "610257": {
+  "en": "...Again? How many have been affected already? This can't go on!",
+  "ch": "…这已经是第几次了？绝对不能再这样下去了！"
+ },
+ "610258": {
+  "en": "How are they doing now?",
+  "ch": "他们的状况如何？"
+ },
+ "610259": {
+  "en": "Old Zhu has been taking care of them. Life signs are stable, and they're not currently in danger.",
+  "ch": "朱老头已经稳定了他们的情况，暂时没有生命危险。"
+ },
+ "610260": {
+  "en": "If only we had the Holy Flame...",
+  "ch": "若是能得到圣火的话…"
+ },
+ "610261": {
+  "en": "You're still thinking about that, Boss?",
+  "ch": "老大，您还在惦记着这事呢…"
+ },
+ "610262": {
+  "en": "It's just a myth... Besides, Everfrost is heavily populated with dangerous beasts. Anyone who enters will be devoured whole if not careful! Come on, a little bit of evil aura can't be that bad. If you go seeking the Holy Flame and lose your life... Now our people really won't be able to handle that!",
+  "ch": "那不过是一个传说罢了，永恒冰原中异兽无数…稍有一个不慎，那便会死无葬身之地啊！小不忍则乱大谋，小小邪气算的了什么？！若是失去了老大你，那才真的叫人绝望！"
+ },
+ "610263": {
+  "en": "But you have all trusted me with your lives. As your leader, of course I must try my best for my people! I can't let trivial hardships hold me back.",
+  "ch": "你们既已将性命托付于我，那么我身为领袖，岂能因为这点困难而驻足不前？此事我当仁不让！"
+ },
+ "610264": {
+  "en": "Father, I heard that those big sects would periodically send their elite disciples out on adventures. While Everfrost may be dangerous, many disciples have been there and returned safely. Even if the Holy Flame really existed, they'd probably have taken it already...",
+  "ch": "父亲，据说各大宗门每隔一段时间都会组织精英弟子到秘境中去历练。永恒冰原固然危险，可也已经有不少修仙之人从中平安归来，若是真有圣火，恐怕也已经被他们收入囊中了…"
+ },
+ "610265": {
+  "en": "...Okay.",
+  "ch": "…我晓得了。"
+ },
+ "610266": {
+  "en": "Friend, I see you already know about our situation. While I don't want to be inhospitable, I'm afraid that if you stay for longer, you'd be affected by the deathly aura as well...",
+  "ch": "朋友，我们的情况你也已经知晓。我没有逐客的意思，但如果你长时间的停留在此处，恐怕也会与我们一样被冥气所侵蚀…"
+ },
+ "610267": {
+  "en": "So if you don't have anything else to do here, you should leave as soon as you can. Anyway, I have to go now. I have some other affairs to tend to.",
+  "ch": "若无其他要事，便尽早离去吧…我还有些事要处理，就不奉陪了。"
+ },
+ "610268": {
+  "en": "Father is right... If you stay here for too long, you can become ill too.",
+  "ch": "父亲说得没错…若是在此待得久了，恐怕会遭冥气入体。"
+ },
+ "610269": {
+  "en": "I see. I'll take my leave then.",
+  "ch": "嗯，那我便不叨扰了，这就离开吧。"
+ },
+ "610270": {
+  "en": "Please let me see you off...",
+  "ch": "抱歉，我送送你吧…"
+ },
+ "610271": {
+  "en": "I'll turn back here now.",
+  "ch": "就到这吧。"
+ },
+ "610272": {
+  "en": "The situation is dire between us and the righteous sects. I don't know if we'll ever meet again...",
+  "ch": "如今正道势力与我们的关系越来越紧张。今日一别，不知要何时才能再见…"
+ },
+ "610273": {
+  "en": "We have our own different paths to walk on. Once everyone's settled down, we might see each other again.",
+  "ch": "我们都有各自的路要走，待此间事了，我们定还有再见的机缘。"
+ },
+ "610274": {
+  "en": "Yeah. Take care.",
+  "ch": "嗯，保重。"
+ },
+ "610276": {
+  "en": "What are you doing here?",
+  "ch": "你为何会在此？"
+ },
+ "610277": {
+  "en": "Father left the camp recently on his own. We think he must be headed to Everfrost!",
+  "ch": "前些日子，父亲独自离开了营寨中，他一定是到永恒冰原去了！"
+ },
+ "610278": {
+  "en": "I'm very worried about him... Could you go after him for me?",
+  "ch": "我非常担心他的安危，你能帮我去找找他吗？"
+ },
+ "610279": {
+  "en": "According to legends, there's a special item called the Holy Flame that can be found in Everfrost. The flames are said to be able to purify all evil! Our people have been suffering from the deathly aura for a while, and Father has often considered going to Everfrost in search for the Holy Flame...",
+  "ch": "…传说永恒冰原中孕育着圣火，这种火焰能够净化天地间一切邪祟。寨中的同胞久受冥气入体之苦，他从很早之前就想要去冰原中寻找圣火了…"
+ },
+ "610280": {
+  "en": "I can't thank you enough!",
+  "ch": "拜托你了！"
+ },
+ "610281": {
+  "en": "You come a huge tree in Everfrost, with Feng Yunchuo standing at its foot.",
+  "ch": "你在冰原中找到了一棵巨大的树，在大树下找到了风允婼。"
+ },
+ "610282": {
+  "en": "Suddenly, you hear a suspicious noise and glance up to see several strange birds eating atop the tree.",
+  "ch": "此时，周围传来了异样的响声，你们抬头看去，只见上方有数只异鸟正在树上进食。"
+ },
+ "610283": {
+  "en": "Noticing you standing there, the strange birds swoop upon you.",
+  "ch": "异鸟发现了你的存在，迅速的朝你们袭来。"
+ },
+ "610284": {
+  "en": "{name|A}? What are you doing here?",
+  "ch": "{name|A}？你怎会来此？"
+ },
+ "610285": {
+  "en": "...Forget it, let's deal with what's in front of us first. These guys are tough. Please distract the monsters for me and I'll take care of the big one!",
+  "ch": "…罢了，先解决眼前的麻烦吧！这些家伙似乎不好对付，你帮我牵制住这些妖兽，我来对付这个大家伙！"
+ },
+ "610286": {
+  "en": "In the end, Feng Yunchuo blasts open a hole in the giant tree.",
+  "ch": "最终，巨大的树木被风允婼破开了一个窟窿。"
+ },
+ "610287": {
+  "en": "Soon, a blue flame appears, floating, in front of you.",
+  "ch": "片刻后，一缕青蓝色的火焰浮现在你们眼前…"
+ },
+ "610288": {
+  "en": "So this is the seed of the Holy Flame... I can feel it vibrating with energy. Its powers must be difficult to harness.",
+  "ch": "这就是圣火的火种…真是惊人的威能，看来想要驾驭它并非易事。"
+ },
+ "610289": {
+  "en": "Now that we've got what we need, let's get out of here as soon as we can.",
+  "ch": "既已取得火种，这便离开冰原吧！免得夜长梦多。"
+ },
+ "610290": {
+  "en": "Boss! I knew you'd come back safely... *sobbing*",
+  "ch": "老大！我就知道你一定会平安回来的…呜呜呜…"
+ },
+ "610291": {
+  "en": "What are you crying for? Pathetic!",
+  "ch": "哭什么哭？能不能别丢人了！"
+ },
+ "610292": {
+  "en": "Our boss has been to the legendary Tian Yuan Mountain and back. He's the first in Yun Mo to have ever done so! Everfrost is a piece of cake to him.",
+  "ch": "咱们老大可是闯荡过天元山的强者，云陌州的第一人！小小冰原，岂能困得住老大？"
+ },
+ "610293": {
+  "en": "Tch, shut it!",
+  "ch": "哼…聒噪！"
+ },
+ "610294": {
+  "en": "Thank you, {name|A}, for bringing Father back safely. And I really must apologize...",
+  "ch": "{name|A}…谢谢你将父亲平安的带回来。还有，对不起…"
+ },
+ "610295": {
+  "en": "I shouldn't have asked you to go to Everfrost out of my own selfish motives. If you got hurt because of that, I'd never forgive myself...",
+  "ch": "我不该任性的请求你去往永恒冰原的…若是你因此而遇害，我一定会内疚一辈子…"
+ },
+ "610296": {
+  "en": "No need to worry. I have great ambitions to see the world. Everfrost is just one of my many stops.",
+  "ch": "不必在意…我志在远方，踏入永恒冰原是早晚的事。"
+ },
+ "610297": {
+  "en": "Ha, well said! A true cultivator must be ambitious indeed. Can't be intimidated by the tiniest obstacle.",
+  "ch": "哈哈哈，说得好！修行之人志当存高远，岂能因眼前的困难而驻足？"
+ },
+ "610298": {
+  "en": "So you've been to Tian Yuan Mountain? Can you tell me where it is?",
+  "ch": "方才听说，你曾去过天元山…可否告诉我，天元山位于何处？"
+ },
+ "610299": {
+  "en": "Oh? You want to go to Tian Yuan Mountain? Why? It's quite the mysterious place.",
+  "ch": "哦？你想要去天元山？那个地方神秘的很，你去那做什么？"
+ },
+ "610300": {
+  "en": "Anyway, yes, I've been to Tian Yuan Mountain many years ago. A place overflowing with Qi... with monsters at every corner you turn! It's far more dangerous than Everfrost.",
+  "ch": "罢了……不错，我多年前的确曾闯入过天元山，那个地方灵气浓郁，妖兽更是异常凶猛！危险程度可不是区区冰原可比拟的。"
+ },
+ "610301": {
+  "en": "Tian Yuan Mountain lies in Tian Yuan, located at the very center of the continent.",
+  "ch": "天元山便耸立于天元中，而天元 则处于整个八荒大陆最中心的位置。"
+ },
+ "610302": {
+  "en": "Starting from Yun Mo, you have to travel across Everfrost towards the west to arrive at Mu Xian. And from there, you go through the Wayward Desert to get to Chi You.",
+  "ch": "从云陌州跨越永恒冰原，一直往西走，便能够抵达暮仙州，再从暮仙州跨越了迷途荒漠，便可以抵达赤幽州…"
+ },
+ "610303": {
+  "en": "Chi You is where you need to be if you want to get to Tian Yuan. Once you're there, you should ask around for directions to the mountain.",
+  "ch": "赤幽州便是前往天元的关键。具体情况，你还是到了赤幽州后寻人打听为好。"
+ },
+ "610304": {
+  "en": "Thanks for the tip! I'll set off to Mu Xian then.",
+  "ch": "多谢相告！那我这便出发前往暮仙州吧！"
+ },
+ "610305": {
+  "en": "{name|A}, you've done so much for our sect. There's really nothing we can do to repay you... But if you need anything in the future, feel free to come to me!",
+  "ch": "{name|A}，你对我们部落相助良多，实在无以为报…日后若有所需，风某定在所不辞！"
+ },
+ "610306": {
+  "en": "{name|A}... Once you've gone to Tian Yuan... Will you ever visit us again?",
+  "ch": "{name|A}…你去了天元，还会再回来吗？"
+ },
+ "610307": {
+  "en": "Of course. It's a date!",
+  "ch": "好，一言为定！"
+ },
+ "610308": {
+  "en": "I see... But I believe in destiny. We'll definitely meet again one day.",
+  "ch": "这样啊…但我相信，我们一定还有再见的机缘。"
+ },
+ "610309": {
+  "en": "W-what is this?",
+  "ch": "这…这是…"
+ },
+ "610310": {
+  "en": "Oh, hello, little one. Sorry, didn't see you there.",
+  "ch": "唔…你好，小不点，很抱歉吓到你了。"
+ },
+ "610311": {
+  "en": "Who are you?",
+  "ch": "你是谁？"
+ },
+ "610312": {
+  "en": "Me? I'm Agar from the Kuafu Clan.",
+  "ch": "我啊？我是夸父族的族人，大家都叫我阿夸。"
+ },
+ "610313": {
+  "en": "Where are you headed?",
+  "ch": "你这是要去哪？"
+ },
+ "610314": {
+  "en": "See that sun in the sky? I'm gonna catch up with it!",
+  "ch": "我呀，我要去追那天上的太阳。"
+ },
+ "610315": {
+  "en": "Huh? Why'd you want to do that?",
+  "ch": "什么？！你为什么要追太阳？"
+ },
+ "610316": {
+  "en": "Heh, no particular reason... I just want to. Maybe I'm just curious where it usually sets.",
+  "ch": "哈哈哈，没有为什么，我就是想追太阳。或许，我就是想看看它会落在何处吧…"
+ },
+ "610317": {
+  "en": "Why do you want to know where the sun sets? What's the point?",
+  "ch": "为何想要知道日落何处？这有什么意义吗？"
+ },
+ "610318": {
+  "en": "There are too many unanswered questions in the world. Maybe I was born to find out the answer to one of these questions.",
+  "ch": "这个世界上有太多的问题没有答案，而我只想解决其中一个问题。"
+ },
+ "610319": {
+  "en": "Which is the location of the sun's setting spot.",
+  "ch": "那就是太阳最终会落在哪里。"
+ },
+ "610320": {
+  "en": "Don't you have any questions you're seeking the answer to?",
+  "ch": "难道…你就没有想要寻找的答案吗？"
+ },
+ "610321": {
+  "en": "Ha, that's the spirit!",
+  "ch": "哈哈哈，这就对了！"
+ },
+ "610322": {
+  "en": "Ha! In that case, what's keeping you motivated while you're walking on this path unordained by the heavens?",
+  "ch": "哈哈哈！若真是如此，又是什么支撑着你在逆天之路上前行的呢？"
+ },
+ "610323": {
+  "en": "Nature is robust and tenacious. A true gentleman should strive to be like that and always pursue excellence! As long as we live, we should continue to seek the answers to questions we have.",
+  "ch": "天行健，君子以自强不息！只要我们还活着，就应该不断的去追寻我们的目标，去寻找自己想要的答案。"
+ },
+ "610324": {
+  "en": "Now, I'm off to chase the sun! As for you, you'd better think your life over.",
+  "ch": "我要去追太阳了！你呀，就好好想想吧！"
+ },
+ "610326": {
+  "en": "I'm so thirsty... Why did it get so hot all of a sudden as soon as I stepped in here?",
+  "ch": "口好渴…为何在步入了此地后就倍感炎热？"
+ },
+ "610327": {
+  "en": "Ugh, no time to waste. I need to continue on my way.",
+  "ch": "可恶，不能再浪费时间了！我必须继续前行。"
+ },
+ "610328": {
+  "en": "Hey, it's you!",
+  "ch": "啊，是你呀！"
+ },
+ "610329": {
+  "en": "I think there might be some peculiar monster in the area.",
+  "ch": "这附近似乎出现了一个不得了的家伙！"
+ },
+ "610330": {
+  "en": "It's different from your usual harmless monster—it radiates so much heat that when I passed by its territory I got instantly thirsty. I could barely walk!",
+  "ch": "它可不同于寻常的山精水怪。它散发出来的惊人热量，让我在途径它的地盘时被烤得口干舌燥，完全迈不动步子！"
+ },
+ "610331": {
+  "en": "If my guess is correct, it must be a highly cultivated Drought Demon. If we leave it be, other innocent people will suffer.",
+  "ch": "若是我猜得不错，恐怕是一只修为通天的旱魃。放任不管的话，其他人早晚会因此而遭殃。"
+ },
+ "610332": {
+  "en": "I see you're a talented one. Would you take the monster out for the sake of the people?",
+  "ch": "我见你的实力很是不凡，可否前去为八荒除去一害？"
+ },
+ "610333": {
+  "en": "Ha, I knew I could trust in you! I'll leave it to you then!",
+  "ch": "哈哈哈，我果然没看错你！那便交给你了！"
+ },
+ "610334": {
+  "en": "This heat has got me all dehydrated. I can barely move! Please get rid of the monster as soon as you can!",
+  "ch": "这股热量烤得我口干舌燥，实在是迈不动步子了！赶快把它赶走吧！"
+ },
+ "610335": {
+  "en": "Are you leaving? Farewell, then!",
+  "ch": "你要走了吗？后会有期！"
+ },
+ "610336": {
+  "en": "You find an old crypt on the scorched land. However, the sand on the ground at the crypt's opening looks a bit wet...",
+  "ch": "你在焦荒的土地上找到了一座古墓，墓穴洞口的沙土似乎有些潮湿…"
+ },
+ "610337": {
+  "en": "Who are you? How dare you step into my cave mansion?",
+  "ch": "你是何人？！擅闯我洞府，是何居心？"
+ },
+ "610338": {
+  "en": "(Looks like that's the Drought Demon... Now what do I do?)",
+  "ch": "（看来它就是旱魃了…现在我该怎么做？）"
+ },
+ "610339": {
+  "en": "You're very bold! Show me what you've got, then.",
+  "ch": "好胆！我倒要看看你究竟有几分本事！"
+ },
+ "610340": {
+  "en": "Ugh, just you wait! I will have the last laugh!",
+  "ch": "可恶！你别得意，咱们走着瞧！"
+ },
+ "610341": {
+  "en": "What? I'm simply going on with my cultivation, following the will of heaven, just like you humans. I've never wronged you in anyway.",
+  "ch": "怎么？我顺应天道，与你们人类同是利用天地之力进行修炼，可从未招惹过你们。"
+ },
+ "610342": {
+  "en": "And now you just barge in and tell me to move houses? You think I was made of clay or something?",
+  "ch": "如今你一句话便想让我迁移洞府，真当我是泥捏的不成？！"
+ },
+ "610343": {
+  "en": "This location is abundant in Qi and rain. It's the perfect place for me to work on my cultivation.",
+  "ch": "此地灵气浓郁，雨水充沛，对我来说是不可多得的修炼宝地。"
+ },
+ "610344": {
+  "en": "But if you really want me to move, I suppose we can make a deal.",
+  "ch": "哼！但你若非要我走，也不是完全没有商量的余地。"
+ },
+ "610345": {
+  "en": "I happen to need some Darkwind Grass. If you can find it for me, I'll leave. What do you think?",
+  "ch": "眼下我正需要一个乌风草…你若是能为我寻来，我便离开这里。你意如何？"
+ },
+ "610346": {
+  "en": "Great! A grand auction will be held in {mapData1} in {mapData2}. I'm sure you'll be able to find the Darkwind Grass there.",
+  "ch": "很好！{mapData2}后，{mapData1}将会举办一场盛大的拍卖会，届时乌风草定会现世！"
+ },
+ "610347": {
+  "en": "I've heard that the Darkwind Grass is a revered artifact owned by the {0} Sect. Not sure if that's just a rumor though, since I've never seen it with my own eyes.",
+  "ch": "听闻{0}的镇宗之宝似乎也是乌风草，是真是假就不知道了…我也没有亲眼见过。"
+ },
+ "610348": {
+  "en": "Please leave now and don't return unless you have the Darkwind Grass.",
+  "ch": "快走吧！没有找到乌风草前，就不要再过来了。"
+ },
+ "610349": {
+  "en": "(This monster looks tough. I shouldn't come back until I'm prepared.)",
+  "ch": "（这妖物看上去实力强横，我还是准备好了再来吧。）"
+ },
+ "610351": {
+  "en": "You again? Why do you keep barging into my home? Is this a challenge?",
+  "ch": "又是你？接连的闯入我的洞府，莫不是在向我挑衅？！"
+ },
+ "610352": {
+  "en": "You can't waltz in and out just like that. Out with it—what do you want?",
+  "ch": "哼！此地岂是你想来便来想走便走的？说，到底有何意图？！"
+ },
+ "610353": {
+  "en": "Oh, it's you? Shouldn't you be looking for the Darkwind Grass? What are you doing here?",
+  "ch": "是你？你不去寻乌风草，跑来这干什么？"
+ },
+ "610354": {
+  "en": "Or are you going back on your promise?",
+  "ch": "莫非，是想要反悔了？"
+ },
+ "610355": {
+  "en": "That's more like it. Go.",
+  "ch": "这才像样，快去吧。"
+ },
+ "610356": {
+  "en": "Tch, I see you still don't have much of a brain. I'm not letting you go this easily this time!",
+  "ch": "哼！侥幸存活却还是不长记性，这次我一定要杀了你！"
+ },
+ "610357": {
+  "en": "This smell... Very well. I can tell you've obtained the Darkwind Grass all right.",
+  "ch": "这个味道…错不了，看来你确实是得到乌风草了。"
+ },
+ "610358": {
+  "en": "Excellent. You've fulfilled your end of the promise, and I'll fulfill mine. Also...",
+  "ch": "不错…你既然让我如愿以偿，我定然会信守承诺。除此之外…"
+ },
+ "610359": {
+  "en": "I have a Martial Arts manual here that can be used by human cultivators. It's yours now.",
+  "ch": "我这里有一本适合人类修炼的功法，今日也一并送给你吧。"
+ },
+ "610360": {
+  "en": "That way, we don't owe each other anything. Farewell, and may we never meet again.",
+  "ch": "如此一来，你我两不相欠。就此别过，后会无期…"
+ },
+ "610361": {
+  "en": "Great, the Drought Demon's finally gone!",
+  "ch": "哎呀！这个旱魃总算是走了！"
+ },
+ "610362": {
+  "en": "I'm hot and thirsty now... I wonder if there's a place nearby where I can get a drink...",
+  "ch": "我现在呀，真的是又热又渴…也不知道附近有没有地方能让我喝上一口水…"
+ },
+ "610363": {
+  "en": "Let me see... there's a river over there! Ha, I'm in luck!",
+  "ch": "我瞧瞧…那边似乎有一条河！哈哈哈，运气似乎不错！"
+ },
+ "610364": {
+  "en": "I'm so thirsty... Feels like the world is spinning... What's going on?",
+  "ch": "口好渴…感觉整个世界都在摇晃…我这是怎么了？"
+ },
+ "610365": {
+  "en": "What is it, Little One?",
+  "ch": "小不点，怎么啦？"
+ },
+ "610366": {
+  "en": "There's a lot of Spiritual Fruit in the area. Can you gather some for me?",
+  "ch": "附近似乎有不少灵果，你能不能去帮我采来一些？"
+ },
+ "610367": {
+  "en": "Great. I'll leave it to you!",
+  "ch": "好，那就麻烦你啦！"
+ },
+ "610368": {
+  "en": "Oh... Okay.",
+  "ch": "这样啊…那好吧。"
+ },
+ "610369": {
+  "en": "Ha, thanks a lot!",
+  "ch": "哈哈哈，谢谢你呀！"
+ },
+ "610370": {
+  "en": "Hey, that's unreasonable! How could you not let me drink?",
+  "ch": "嘿…你怎能如此蛮不讲理？！凭什么不让我喝水？"
+ },
+ "610371": {
+  "en": "You've been here for just a few minutes and you've already drunk up half the river.",
+  "ch": "你来到此地不过半炷香的时间，河水便已被你喝去大半。"
+ },
+ "610372": {
+  "en": "If you keep drinking like this, all humans and animals living along the river will have no water to live on.",
+  "ch": "再让你喝下去，依附着河水的生灵今后该如何存活？"
+ },
+ "610373": {
+  "en": "Come on, kid! If I'm hungry, I eat. If I'm thirsty, I drink. Isn't that basic common sense?",
+  "ch": "你这小娃子真是烦人！饿了就要吃饭，渴了就要喝水，这不是天经地义的事吗？"
+ },
+ "610374": {
+  "en": "If you don't get out of my way, I'm gonna have to make you move myself!",
+  "ch": "你要再不让开，我就不客气了！"
+ },
+ "610378": {
+  "en": "I won't let you destroy my homeland... even if it means losing my life in the process!",
+  "ch": "我就算是死，也绝不会让你们毁了我的家园！"
+ },
+ "610379": {
+  "en": "This water isn't nearly enough for me... I'm still thirsty...",
+  "ch": "就这么点水，压根就不够解渴…"
+ },
+ "610380": {
+  "en": "Eh, no time to dwell on something like this. If I waste more time the sun will be gone.",
+  "ch": "不管了那么多了…再磨蹭下去，太阳就要跑了。"
+ },
+ "610381": {
+  "en": "Fine, I'll stop drinking.",
+  "ch": "那好吧，我不喝便是。"
+ },
+ "610382": {
+  "en": "Time to go... I've got the sun to chase! If I waste more time the sun will be gone.",
+  "ch": "走了走了，我还要忙着追太阳呢！再磨蹭下去，太阳就要跑了。"
+ },
+ "610383": {
+  "en": "Young Master Ji from {mapData108} lost contact with his family when he was traveling and hasn't returned so far. The Ji family posted a missing person poster at {mapData108}. Whoever could find Young Master Ji and bring him back will be handsomely rewarded.",
+  "ch": "{mapData108}的季家少主在出游时与季家断了联系，至今仍然未归。季家在{mapData108}中发布了悬赏，若有人能够寻回季家少主，则可获得一笔丰厚的酬劳。"
+ },
+ "610384": {
+  "en": "All right. Come see me after you've thought it over.",
+  "ch": "好吧，若是考虑清楚了，可以随时回来找我。"
+ },
+ "610385": {
+  "en": "Here's a map. You can find Young Master Ji's travel destination marked on it. You can look around the area and hopefully you'll come across some clues.",
+  "ch": "这里有一份地图，上面标注了季家少主出游的目的地，你可以到这附近去寻找，希望你能有所发现。"
+ },
+ "610386": {
+  "en": "Sigh. The weather's been rather extreme these days. I think something big is going to happen. You'd better hurry!",
+  "ch": "唉…最近这段时间，八荒的天象愈发古怪，只怕是有大事要发生了…你快去快回吧！"
+ },
+ "610387": {
+  "en": "(I can sense a powerful aura from up ahead. If Young Master Ji is here, he must be in huge trouble...)",
+  "ch": "（在这里都能感受到前方传来了的强大的气息，若是季家少主误入了此处，就麻烦了…）"
+ },
+ "610388": {
+  "en": "(Should I enter and see?)",
+  "ch": "（要进去看看吗？）"
+ },
+ "610389": {
+  "en": "...I hear the faint sound of sword clanging somewhere close. Let me check it out.",
+  "ch": "…附近似乎有一道微弱的剑鸣，先过去看看吧。"
+ },
+ "610390": {
+  "en": "You must be quite talented to have found this place following the sword sounds.",
+  "ch": "能够追寻剑意寻到此处，资质尚可。"
+ },
+ "610391": {
+  "en": "But you shouldn't be here. If you value your life, I suggest you to leave as soon as you can.",
+  "ch": "但这不是你该来的地方。若是不想死于非命，我劝你还是赶紧离开为好。"
+ },
+ "610392": {
+  "en": "The Ji family from {mapData108} has sent me here to seek Ji Hongfu, their young master. I do not come bearing ill will.",
+  "ch": "我来到此地，是受{mapData108}的季家所妥，前来寻找季家的少主季洪福，并无歹意。"
+ },
+ "610393": {
+  "en": "So Father's finally sent someone after me?",
+  "ch": "父亲终于派人来救我了吗？"
+ },
+ "610394": {
+  "en": "What took you so long? Do you even know how much poor Young Master has suffered here?",
+  "ch": "你来得也未免太慢了！你可知小爷在此地受到了什么样的待遇？！"
+ },
+ "610395": {
+  "en": "Why so quiet? Cat got your tongue? Now you're afraid, huh? Told ya, if you get on my bad side, you'll have the whole Ji family of {mapData108} after you!",
+  "ch": "怎么不说话？现在知道害怕了？！早跟你说过，得罪了我，便是得罪了{mapData108}的季家！"
+ },
+ "610396": {
+  "en": "...No, in fact, all inhabitants of Mu Xian will be after you!",
+  "ch": "我保证，以后整个暮仙州，都不会有你的容身之所！"
+ },
+ "610397": {
+  "en": "If you untie me now and then kneel before me and kowtow a few times, Young Master just might let you off the hook!",
+  "ch": "你若是主动将我放开，再磕几个响头，虔诚的向我认错，小爷也不是不能放你一马！"
+ },
+ "610398": {
+  "en": "...This man forced his way into a forbidden area and nearly broke a seal that has been carefully maintained for a thousand years.",
+  "ch": "…此人擅闯禁地，将维系了千年的封印差点便毁在他手中。"
+ },
+ "610399": {
+  "en": "Forbidden area? I found the place because I was cool and talented. Who are you to keep me from entering?",
+  "ch": "我凭本事寻到的洞天福地，你凭啥不让我进去？"
+ },
+ "610400": {
+  "en": "...So you're here to, uh, rescue him?",
+  "ch": "…你可是想要救他回去？"
+ },
+ "610401": {
+  "en": "Help, chivalrous knight!",
+  "ch": "大侠，救命啊！"
+ },
+ "610402": {
+  "en": "I'm the Young Master of the Ji family from {mapData108}! If you save me today, once we return to {mapData108}, I'll reward you handsomely!",
+  "ch": "我是{mapData108}季家的少主！今日你救我出去，待我回到了{mapData108}后，一定不会亏待于你！"
+ },
+ "610403": {
+  "en": "You want to save this guy? Well, in that case...",
+  "ch": "你想救他？倒也不是不行…"
+ },
+ "610404": {
+  "en": "My sword hasn't been used in a duel for hundreds of years...",
+  "ch": "我这把剑，已有数百年未曾与人交锋…"
+ },
+ "610405": {
+  "en": "If you can entertain my sword for a bit today, I'll release the guy. What do you think?",
+  "ch": "今日，你若是能陪它玩尽兴了，我便放人…你看如何？"
+ },
+ "610406": {
+  "en": "All right. You'd better be careful!",
+  "ch": "好，那你可要当心了！"
+ },
+ "610407": {
+  "en": "That's okay. You can come back when you're ready.",
+  "ch": "无妨…准备好了再来吧。"
+ },
+ "610411": {
+  "en": "Too bad, you almost had it.",
+  "ch": "可惜啊…功亏一篑。"
+ },
+ "610412": {
+  "en": "You can come back when you're ready.",
+  "ch": "等你准备好了，再来过吧！"
+ },
+ "610413": {
+  "en": "(Should I challenge the swordmaster now?)",
+  "ch": "（现在要开始挑战那名剑修吗？）"
+ },
+ "610414": {
+  "en": "Are you ready?",
+  "ch": "准备好了吗？"
+ },
+ "610415": {
+  "en": "Very impressive... {name|A}.",
+  "ch": "很不错啊…{name|A}。"
+ },
+ "610416": {
+  "en": "You know my name?",
+  "ch": "你认识我？"
+ },
+ "610417": {
+  "en": "...A long time ago, a Tiangou arrived in Mu Xian from Tian Yuan Mountain.",
+  "ch": "…很久以前，曾经有一只天狗从天元山来到了暮仙州。"
+ },
+ "610418": {
+  "en": "It was a violent and destructive monster that brought disaster everywhere it went. Not a single person in Mu Xian could take it down.",
+  "ch": "此妖生性暴戾，破坏力极强！出现时，往往都会伴随着天灾…暮仙州中，无人能与其正面抗衡。"
+ },
+ "610419": {
+  "en": "After a while, a renowned swordmaster arrived in Mu Xian and sealed the Tiangou underground.",
+  "ch": "后来…那位被称为剑仙的人独自一人来到了暮仙州，将天狗封印与地底之下。"
+ },
+ "610420": {
+  "en": "However, a few days ago, the seal that he's been tirelessly maintaining for thousands of years was ruined because of this entitled fool.",
+  "ch": "但是在前几日，维持了许久的封印却因一个傻子而毁于一旦。"
+ },
+ "610421": {
+  "en": "...{name|A}, if you insist on take this guy's side, then you must take responsibility for what he's done.",
+  "ch": "…{name|A}，今日你既然插手了这件事，那么日后所造成的后果，便由你来承担吧。"
+ },
+ "610422": {
+  "en": "Farewell. May we meet again...",
+  "ch": "就此别过，日后有缘再会…"
+ },
+ "610423": {
+  "en": "Finally I can go back to {mapData108}! Hahahaha!",
+  "ch": "终于能回{mapData108}了！哈哈哈！"
+ },
+ "610424": {
+  "en": "Let's go! Once Young Master is back safely in {mapData108}, you'll be rewarded for sure.",
+  "ch": "走吧！护送小爷回到了{mapData108}，自然少不了你的好处。"
+ },
+ "610425": {
+  "en": "Wait... Where are you going?",
+  "ch": "等等…你要去哪里呀？"
+ },
+ "610426": {
+  "en": "Don't leave me here all alone!",
+  "ch": "不要丢下我一个人呀！"
+ },
+ "610427": {
+  "en": "If that lunatic comes back again, we'll be in big trouble... Eh, let's get out of here now!",
+  "ch": "若是那个疯子半路杀回来，可就麻烦了…哎，赶紧走吧！"
+ },
+ "610428": {
+  "en": "Young Master, you've finally returned! We've been searching for days! We thought you were—",
+  "ch": "少主，您终于回来了…我等苦寻多日无果，还以为您…"
+ },
+ "610429": {
+  "en": "This kind cultivator saved my life. Please thank him well for me. And now... I'm gonna head back home!",
+  "ch": "这次多亏了这位修仙者出手相助，你便替我好好答谢一番吧…我就先回去了。"
+ },
+ "610430": {
+  "en": "Thank you, kind one, for saving our Young Master. This is the promised reward... and take these Elixirs I happen to have on me too.",
+  "ch": "感谢阁下救了我们家少主…这些是原先答应好的报酬，我身上还有一些丹药，也一并赠予阁下吧。"
+ },
+ "610431": {
+  "en": "(The Tiangou is still somewhat weakened by the seal. I should take care of it now!)",
+  "ch": "（天狗似乎还没有摆脱封印的影响，趁现在了结了它吧！）"
+ },
+ "610432": {
+  "en": "The <r>Tiangou</r> attacks you immediately when he notices you arrive.",
+  "ch": "<r>天狗</r>在察觉了你的到来后，迅速的朝你袭来。"
+ },
+ "610433": {
+  "en": "You defeat the Tiangou and watch as its gigantic form dissipates into thin air.",
+  "ch": "天狗最终败在了你的手中，庞大的身躯逐渐的消散在天地间…"
+ },
+ "610434": {
+  "en": "A while later, you find a crystal on the ground where the Tiangou once was. You pick it up and leave.",
+  "ch": "片刻后，你在天狗消失的地方寻到了一颗晶石…你拾起晶石，离开了此地。"
+ },
+ "610435": {
+  "en": "(The Tiangou seems to have already arrived in Mu Xian! What should I do next?)",
+  "ch": "（天狗似乎已经出现在暮仙州了，接下来该怎么做？）"
+ },
+ "610436": {
+  "en": "ROAR!!!",
+  "ch": "吼！！！"
+ },
+ "610437": {
+  "en": "Is this...",
+  "ch": "这究竟是…"
+ },
+ "610438": {
+  "en": "This monster looks like a difficult opponent. I must be careful.",
+  "ch": "此物似乎不好对付，必须要谨慎应对。"
+ },
+ "610439": {
+  "en": "It's been a while, {call|B|A}. How have you been?",
+  "ch": "{call|B|A}，多日不见，别来无恙乎？"
+ },
+ "610440": {
+  "en": "Just spill it.",
+  "ch": "你有何事，但讲无妨。"
+ },
+ "610441": {
+  "en": "I happened to pass through Bai Yuan, and heard wailing from Yukong Village. I was taking a stroll and tried to take another path, but a girl stopped me.",
+  "ch": "在下前些天路过白源区，发现愚村中哀声一片。那日我正好漫步散心，便想从旁绕行，哪知却被一个小女孩阻住了去路。"
+ },
+ "610442": {
+  "en": "I think she was from the village. I don't know how she knew that I was a cultivator, but she asked if I knew you as soon as she stopped me. I see that your reputation has preceded you. I'm envious, ha ha ha.",
+  "ch": "那女孩似是愚村民女，也不晓她如何瞧出我乃修仙之人，见面竟开口便问我认不认识你……看来阁下之威名已然传遍八荒大陆，真是羡煞旁人啊，哈哈哈。"
+ },
+ "610443": {
+  "en": "Ahem. Anyway, as soon as she mentioned you, {call|B|A}, I had to respond. She took out a letter and asked me to give it to you, then she ran back to the village.",
+  "ch": "咳咳，一见那女孩提起{call|B|A}你的大名，我怎有不应之理，没想到女孩二话不说，从怀中掏出一封信让我务必转交于你，随后就跑回村了。"
+ },
+ "610444": {
+  "en": "I spent more than half of my life cultivating, and somehow I became a mailman for the girl. However, if what's in the letter matters to you, {call|B|A}, then I did not travel in vain. Now I bid you a farewell.",
+  "ch": "可叹我求道半生，竟在一个凡人女孩的要求下化作鸿雁飞鸽。不过若此信对{call|B|A}你的确有用，也不枉我劳苦一遭，告辞。"
+ },
+ "610446": {
+  "en": "I must admit, I was asked to come here.",
+  "ch": "实不相瞒，在下此番前来，乃是受人之托。"
+ },
+ "610447": {
+  "en": "I can't believe you're gone already. We had our differences, but I respected you. I guess no one can fight their destiny...",
+  "ch": "唉，好好的人说走就走了，虽然你我观念相悖，但你永远是我尊重的村长呐……不过生死有命，谁也逃不开这轮回，罢了罢了……"
+ },
+ "610448": {
+  "en": "Oh, it's you. I heard all about you from him throughout the years.",
+  "ch": "嗯？原来是你呀，这些年里，那老头儿可没少跟我念叨你啊……"
+ },
+ "610449": {
+  "en": "Grandpa, will the person I'm waiting for ever show up? Will he tell me monster stories like you do?",
+  "ch": "爷爷，您要我等的人究竟会不会来啊？他也会和您一样给我讲妖怪的故事吗……"
+ },
+ "610451": {
+  "en": "Who are you? I don't think I've seen you before. Are you a cultivator from another place? Do you know {name|A}?",
+  "ch": "啊！你是谁啊，我好像从没见过你，难道也是外边来的修仙者？那你认识{name|A}吗？"
+ },
+ "610452": {
+  "en": "Pipe down. This is the person that helped your grandpa open the path to the outside.",
+  "ch": "阿嬉快别闹了，这位就是帮助你爷爷打开愚村到外界之通道的人。"
+ },
+ "610453": {
+  "en": "It's you! Are you really that good? I mean, you look the same as us!",
+  "ch": "喔喔！就是你吗？你真的有那么厉害吗？为啥我觉得你看上去和我们也没两样呀……"
+ },
+ "610454": {
+  "en": "Shut up and leave the guest alone!",
+  "ch": "快住口，你这女娃，休要与外人嬉闹！"
+ },
+ "610455": {
+  "en": "But grandpa said he was just going to another world, and asked me to stay happy.",
+  "ch": "可是爷爷明明说，他只是去另一个世界了，要我像以前一样活得开心自在呀。"
+ },
+ "610456": {
+  "en": "Right, he was smiling just before he left, and he asked me not to cry. Well, I... I'm trying not to.",
+  "ch": "是吧，爷爷临走时一脸笑意，还告诉我不许哭，我……我……我可听爷爷话了……"
+ },
+ "610457": {
+  "en": "He did live a full life with no regrets. Why is she crying again?",
+  "ch": "唉，愚老头此生确实称得上无憾二字，诶？这小妮子，怎么说着说着又哭了。"
+ },
+ "610458": {
+  "en": "I did spend a good part of my life clashing with him, but I had to give it to him.",
+  "ch": "嗯，我虽半生与他针锋相对，但终究是不得不佩服啊！"
+ },
+ "610459": {
+  "en": "Does that mean my grandpa was better than you flying cultivators?",
+  "ch": "哇~那这么说，我爷爷比你们这些在天上飞来飞去的修仙者还要厉害吗？"
+ },
+ "610460": {
+  "en": "He was always like that. Harsh on the outside, especially to me, but he was extremely kind to the kids.",
+  "ch": "这老头儿就是这样，表面严厉，尤其是对我，背地里对孩子们好着呢。"
+ },
+ "610461": {
+  "en": "Well, you did anger him, didn't you?",
+  "ch": "嗯嗯，谁让你以前总惹爷爷生气了，哼~"
+ },
+ "610462": {
+  "en": "Right, {name|A}, grandpa told me to give this to you. I've never told anyone else about this.",
+  "ch": "对了，{name|A}，爷爷还悄悄告诉我，要把这一件东西交给你，这事儿我可从未和别人说起过哟。"
+ },
+ "610463": {
+  "en": "Xi takes out a piece of black metal.",
+  "ch": "说罢，阿嬉拿出了一件东西，却是一截黑乎乎的金属块。"
+ },
+ "610464": {
+  "en": "Isn't this your family heirloom? Was he out of his mind? Did he really tell you to give this away?",
+  "ch": "啊！这不是你家的传家之宝吗，这愚老头一定是疯了，竟拿此物送人。"
+ },
+ "610465": {
+  "en": "You study the object, which an iron ingot. Suddenly, the dim object glows and floats in the air, then points in a certain direction after spinning several times.",
+  "ch": "你接过此物，仔细端详下，感觉此物像是一截铁尺。就在这时，原本黯淡无光的铁尺突然幽芒大放，它蓦然腾空飞起，急转几圈后，隐约有所指向。"
+ },
+ "610466": {
+  "en": "Why is it glowing? Wait, it's flying away!",
+  "ch": "啊啊啊！它怎么会发光！呀！它飞走了！"
+ },
+ "610467": {
+  "en": "You follow the iron ingot to a cave, noticing a cold breeze coming from within. This is probably not somewhere you want to linger.",
+  "ch": "你跟随铁尺的指引来到洞穴外侧，迎面只觉洞内渗出阵阵阴风，这里似乎不是什么好地方。"
+ },
+ "610468": {
+  "en": "It's humid and cold inside the dark and meandering cave.",
+  "ch": "洞内阴冷潮湿、寒气逼人，人沿着墙壁往里看去只觉深邃幽暗，似无尽头。"
+ },
+ "610469": {
+  "en": "The ingot travels through the cave, lighting up the walls as it goes. There are faint scratch marks that definitely do not look natural.",
+  "ch": "铁尺绕着洞内旋转徘徊，其上的光芒映照在墙壁上，似乎能看见墙上隐约有些似是人为的划痕。"
+ },
+ "610470": {
+  "en": "Hm? Who goes there?",
+  "ch": "嗯？谁呀……"
+ },
+ "610471": {
+  "en": "Loud rustling noises suddenly break out in the silent cave. You notice many pairs of eyes watching you.",
+  "ch": "就在这时，原本滴水可闻的洞穴中突然响起了窸窸窣窣一阵嘈杂的声音，一双双眼睛似乎在黑暗中凝视着你。"
+ },
+ "610472": {
+  "en": "Ahhhhh!",
+  "ch": "啊啊啊啊！"
+ },
+ "610473": {
+  "en": "You feel the demonic aura around you as countless fiends attack you.",
+  "ch": "突然间，团团妖气从洞中渗出，无数妖兽向你袭来。"
+ },
+ "610474": {
+  "en": "That was close! I guess I wasn't meant to die here.",
+  "ch": "呼！好险，看来我还算命大。"
+ },
+ "610476": {
+  "en": "I know what you want to say, but my grandpa did say that I cannot give this away for free. I had to see where it would fly to, because I might discover a secret or two.",
+  "ch": "我知道你想说什么，但我爷爷还说了，这传家宝可不能白送，我得跟过来看看它会飞到哪里，说不定能探查出什么秘密呢。"
+ },
+ "610477": {
+  "en": "It looks like there are paintings on the walls, but they're covered in dust.",
+  "ch": "这墙上似乎有壁画，不过年代过于久远，其表面蒙上了泥尘。"
+ },
+ "610478": {
+  "en": "I often see Elder Zhi washing the walls with water from the mountains. I brought some with me, so let me try.",
+  "ch": "平日里我常看智爷爷用山泉水冲刷墙壁，想必此物有用，我出门时正好带了一点，你且让我试试。"
+ },
+ "610479": {
+  "en": "Xi washes the walls with water from the mountains. Several paintings are revealed.",
+  "ch": "阿嬉用山泉水涂抹墙壁，墙上显露出几幅壁画来。"
+ },
+ "610480": {
+  "en": "It looks like a story about a boy and a girl. In the first painting, they're playing in the mountains and enjoying themselves.",
+  "ch": "那壁画似乎描绘了一男一女两个小孩的故事。第一幅画中，他们在山林间玩闹，好不自在。"
+ },
+ "610481": {
+  "en": "In the second one, they encounter an antelope-like beast. The boy hides behind a tree as the girl looks back at him.",
+  "ch": "第二幅，两个孩子遇到了一只羚羊模样的野兽，男孩躲在树后远远避开，女孩则歪着脑袋回头看着男孩。"
+ },
+ "610482": {
+  "en": "Then the boy is running away as the girl, now riding the antelope, goes after him.",
+  "ch": "紧接着画面一转，男孩满头大汗拼命逃跑，女孩则骑着羚羊在男孩身后穷追不舍。"
+ },
+ "610483": {
+  "en": "Finally, the antelope rests on the grass obediently. The girl tries to get the boy to pet the antelope, but he is scared and wants to run away.",
+  "ch": "最后，羚羊乖巧地坐在草地上，女孩拉着男孩的手抚摸羚羊的头，男孩仍然十分害怕，双腿弯曲身子后倾，似乎随时要拔腿逃跑。"
+ },
+ "610484": {
+  "en": "The rest of the wall seems to be covered in something else that can't be washed away by the water from the mountains.",
+  "ch": "再往后，那墙壁似乎被糊满了其他东西，山泉水也无法将其洗刷。"
+ },
+ "610485": {
+  "en": "I feel something evil coming out from the dirt on the wall.",
+  "ch": "这墙壁的污垢中，似乎隐约有妖气溢出……"
+ },
+ "610486": {
+  "en": "Something evil? I have another idea. Elder Zhi used to repel curses from villagers with blood from the beasts.",
+  "ch": "喔？如果是妖气的话，我倒有个主意。智爷爷曾经用兽血来给中了邪祟的村民驱邪，此之谓以毒攻毒。"
+ },
+ "610487": {
+  "en": "Let's find some and see if we can get rid of the dirt.",
+  "ch": "我们去找些兽血来，看看能否冲洗掉这墙上的污垢。"
+ },
+ "610488": {
+  "en": "This place is full of demonic aura. Enter anyway?",
+  "ch": "此地妖气浓郁，确定要进入吗？"
+ },
+ "610489": {
+  "en": "More paintings are revealed after cleaning the wall with bestial blood.",
+  "ch": "用兽血涂抹墙壁，果然后面的壁画又显现出来了。"
+ },
+ "610490": {
+  "en": "The boy and the girl are in their teens in the newly revealed paintings. The girl rests on a rock, looking like she is injured.",
+  "ch": "壁画再次浮现，这一次，两个孩子已经长到十五六岁的模样。画上的女孩似乎受了伤，腿脚不便，坐在石头上休息。"
+ },
+ "610491": {
+  "en": "A roaring tiger appears before them with menacing fangs and paws. The boy doesn't move, and the girl quietly watches the boy and the beast.",
+  "ch": "突然，一只猛虎出现在两人的身前。此虎张牙舞爪，咆哮怒吼，男孩在原地一动未动，女孩在他身后静静望着前方的一人一兽。"
+ },
+ "610492": {
+  "en": "The tiger leaps at the two of them. The boy stands in front of the girl with arms wide open, looking up and possibly waiting for certain death, as the girl watches on.",
+  "ch": "下一幕，老虎高高跃起，张开爪子扑向二人。男孩的姿态却变了，只见他双臂展开，挡在女孩身前，头一仰似乎是在等待死亡降临，女子在他身后愣愣地看着他的背影。"
+ },
+ "610493": {
+  "en": "In the last painting, the tiger rests by the girl and rubs its head on her face. The girl pets the tiger, but the boy is still looking up at the sky, with arms wide open.",
+  "ch": "最后一幕，老虎蹲在女孩身边，用头蹭着女孩的脸，女孩伸手抚摸虎头，男孩还站在一旁保持原来仰头展臂的动作。"
+ },
+ "610494": {
+  "en": "Hmm.",
+  "ch": "喔喔~"
+ },
+ "610496": {
+  "en": "There's more... wait, what's that?",
+  "ch": "后面好像还有……啊啊啊！那是什么！"
+ },
+ "610497": {
+  "en": "The light from the entrance is blocked by a huge creature. Did a monster follow the blood? Xi, however, looks unfazed because she knows you can handle it.",
+  "ch": "洞口处的亮光被一个庞然大物遮住，莫非是某妖兽循着血迹找了过来？阿嬉在一旁却是胸有成竹的样子，看来她知道你能对付得了目前的状况。"
+ },
+ "610498": {
+  "en": "The Coatl is still in the cave. Fight it?",
+  "ch": "鸣蛇还在洞穴内，是否要与它交战？"
+ },
+ "610499": {
+  "en": "Use the blood on the wall?",
+  "ch": "是否要对墙壁使用兽血？"
+ },
+ "610500": {
+  "en": "On the last painting, there is nothing but water. The girl, with the boy in tow, is trying to swimming toward the top of the mountain.",
+  "ch": "最后一幅画，画上只有漫天的洪水，女孩拖着男孩艰难地往山上游。"
+ },
+ "610501": {
+  "en": "There is nothing more after this.",
+  "ch": "画面到此戛然而止。"
+ },
+ "610502": {
+  "en": "The flood!",
+  "ch": "呀！是洪水！"
+ },
+ "610503": {
+  "en": "What do you know about it?",
+  "ch": "你知道些什么吗？"
+ },
+ "610504": {
+  "en": "I heard from grandpa that there was a massive flood many years ago. It was everywhere and flooded many village. I think it lasted for years...",
+  "ch": "我听爷爷说起过，多年前，八荒曾发生了一次大洪水，那洪水漫天彻地，许多村庄就此被淹没，这种情况持续了好多年……"
+ },
+ "610506": {
+  "en": "It's flying again!",
+  "ch": "诶，你快看，这东西又飞起来了！"
+ },
+ "610507": {
+  "en": "The airborne ingot taps the painting twice before leaving the cave.",
+  "ch": "铁尺突然飞起，在壁画上轻敲两下，随后迅速向外飞去。"
+ },
+ "610508": {
+  "en": "You hurt Boyi first, but you call me one of your own and want me to come with you? No! I'm not going with bad people like you!",
+  "ch": "你们打伤猼訑在先，还敢口口声声称我为同胞，要我随你等同行？我才不要跟你们这些坏人回去！"
+ },
+ "610509": {
+  "en": "Um, it was our fault that we decided to hunt here. But divination shows that a sage in the southwest would help us alleviate the flood and return peace to the world. If you won't come with us, what should we do?",
+  "ch": "呃……贸然进山打猎实乃我等之误，可卦象有云，西南方圣人将出，带领我等治理洪水、还天下太平。您若不允，这可如何是好……"
+ },
+ "610510": {
+  "en": "That's none of my business! I grew up here and was never one of you humans. Leave me alone! If you hurt my companions again, you will pay!",
+  "ch": "哼！洪水滔天与我何干？我自幼长在此处，便不属你人类氏族，你等速速离去，勿扰了我的清静，若再敢伤我伙伴，小心我与你等拼命！"
+ },
+ "610511": {
+  "en": "Why are you behaving like a child? It's in everyone's instincts to look for their root. Your people needs you...",
+  "ch": "唉，你都长这么大了，怎么还爱耍小孩子脾气……寻根溯源乃万物本性，何况眼下你的族人需要你……"
+ },
+ "610512": {
+  "en": "I don't care. I just want to be with you and protect you for the rest of my life.",
+  "ch": "我不管！我此生只想守在你身边，好好保护你！"
+ },
+ "610513": {
+  "en": "You... It's not like I don't want to stay out here with you...",
+  "ch": "你……我又何尝不愿与你久居世外……"
+ },
+ "610514": {
+  "en": "But with the flood raging, how can the world live in peace? Even a monster like me would like to see the flood alleviated and protect the people of Bai Yuan.",
+  "ch": "然则这洪水当前，八荒众生如何能够安居？我一介妖物，也愿待道法有成，下山治水，护白源区一方百姓周全！"
+ },
+ "610515": {
+  "en": "Oh...",
+  "ch": "这……"
+ },
+ "610516": {
+  "en": "In that case, I will alleviate the flood in this area for you. I don't know if I will succeed, but I will do what I can. We shall meet again when it's done. Goodbye.",
+  "ch": "呼，如此说来，我便为你一人消除此地水患，虽不晓此行或成或败，对你我也无憾了……等水患平定，你我如约再见。告辞！"
+ },
+ "610517": {
+  "en": "Take care of yourself. You can always come back if you don't want to continue.",
+  "ch": "一定记得保重身体……如果不愿继续，就随时回来……"
+ },
+ "610518": {
+  "en": "(Silly... I would never push you away...)",
+  "ch": "（唉……傻孩子，我怎么可能忍心赶你走……）"
+ },
+ "610519": {
+  "en": "Ugh, my head hurts. What just happened? Was it a dream? But it was so realistic...",
+  "ch": "头好痛，刚才发生了什么？是梦吗？我怎么好像看到了一些无比真实的画面……"
+ },
+ "610520": {
+  "en": "You're finally awake! I saw you reaching for the bamboo chip, then you went down and passed out...",
+  "ch": "呀！你终于醒了，我就见你把手伸向那块竹片，然后就一头栽倒不省人事了。"
+ },
+ "610522": {
+  "en": "(The bamboo chip is infused with magic, which must be removed by a treasure of the same type. The bamboo fiends in this area are too weak, so I'll need to find a powerful one...)",
+  "ch": "（这块竹片似乎被施加了封印，必须用同属性的至宝才能将其解除。此处竹精甚多，然其大多妖力低微，无法满足破印需要，我还需寻一只修为不俗的竹精取用才是。）"
+ },
+ "610524": {
+  "en": "Try to remove the magic on the bamboo chip?",
+  "ch": "是否要尝试解开封印？"
+ },
+ "610525": {
+  "en": "The magic fades and the bamboo chip finally falls into your hand.",
+  "ch": "竹心缓缓融化，只见这封印果然也跟着消失了，那块柔韧轻薄的竹片终于落到了你的手中。"
+ },
+ "610526": {
+  "en": "You study the bamboo chip and see the word \"Yu\" carved into it, albeit a little crooked.",
+  "ch": "你捡起竹片仔细端详，竹片上歪歪扭扭刻着“阿禹”两个字。"
+ },
+ "610528": {
+  "en": "What's that? Yu? Sounds like a boy's name. I wonder if he was from my village.",
+  "ch": "喔？阿……阿什么来着？“阿禹”？看起来像个男孩的名字呢，莫非也是我们村的人？"
+ },
+ "610529": {
+  "en": "(The girl must have been the young Jagu...)",
+  "ch": "（那女孩想必便是少时的武罗了……）"
+ },
+ "610530": {
+  "en": "The iron ingot suddenly touches the bamboo chip, and you feel dizzy again...",
+  "ch": "就在此刻，铁尺突然轻触竹片，一股莫名的眩晕感自你脑海中骤然浮现……"
+ },
+ "610531": {
+  "en": "Yu! Yu, stop!",
+  "ch": "阿禹！阿禹你别跑！"
+ },
+ "610532": {
+  "en": "I'm going to get mad if you keep running!",
+  "ch": "你要是再跑，我可要生气了！"
+ },
+ "610533": {
+  "en": "I can't! It'll eat me if I don't run!",
+  "ch": "不行啊！我不跑，它会把我吃掉的！"
+ },
+ "610534": {
+  "en": "Says who? These cute animals won't hurt you!",
+  "ch": "谁说的，这些小动物多可爱，它们不会伤害你的！"
+ },
+ "610535": {
+  "en": "I don't believe you! I don't want to die!",
+  "ch": "我不信！还是小命要紧，我先去也！"
+ },
+ "610536": {
+  "en": "Slow down! Wait for me, and don't trip!",
+  "ch": "你跑慢点！哎，等等我啊，小心别摔着！"
+ },
+ "610538": {
+  "en": "Yu? What are you doing? Get out of my way!",
+  "ch": "阿禹，你干嘛？快让开啊！"
+ },
+ "610539": {
+  "en": "No, I can't leave you behind!",
+  "ch": "不，我不不……不能丢下你！"
+ },
+ "610540": {
+  "en": "That's not what I mean. Get out of my way first!",
+  "ch": "我不是这个意思，你先让开！"
+ },
+ "610541": {
+  "en": "I... I'm supposed to protect you!",
+  "ch": "男……男人就应该挡挡在……挡在女人身前！"
+ },
+ "610543": {
+  "en": "I... I'll protect you... B-But... I'm still young! I don't want to die!",
+  "ch": "我我我……我一定会保护好你……啊啊啊啊，我还年轻，还不想死啊！"
+ },
+ "610544": {
+  "en": "...He's just playing with me. What are you blabbering about?",
+  "ch": "……人家是来找我玩的，你在这添什么乱呢？"
+ },
+ "610546": {
+  "en": "Some time later...",
+  "ch": "许久……"
+ },
+ "610547": {
+  "en": "You fainted again, Did something happen? Are all Cultivators weak like you?",
+  "ch": "你怎么啦？突然又晕倒过去，是出了什么事吗？还是说你们修仙者都这么弱不禁风的？"
+ },
+ "610549": {
+  "en": "Is this what you're looking for?",
+  "ch": "你是在找这个东西吗？"
+ },
+ "610550": {
+  "en": "Xi holds out her hand and shows you the dim ingot.",
+  "ch": "阿嬉说着，把手伸了出来，那截铁尺黯淡无光，正静静地躺在她的手中。"
+ },
+ "610551": {
+  "en": "I thought so. It flew from your head into my hand. I think it likes me better. Maybe I'll keep it for you.",
+  "ch": "嘿嘿，我看也是，它从你头顶飞到我手里，看来似乎比较喜欢我。那我就替你先保管着它吧。"
+ },
+ "610552": {
+  "en": "Don't worry, you can take the bamboo chip.",
+  "ch": "没关系，这块竹片你还能拿去留个纪念。"
+ },
+ "610553": {
+  "en": "I guess this is it for now. See you when I see you!",
+  "ch": "那么，咱们就此分别，有缘再见啦！"
+ },
+ "610554": {
+  "en": "Sure. Catch this!",
+  "ch": "嗯好，给，你可要接好了。"
+ },
+ "610555": {
+  "en": "The iron ingot returns to Xi as soon as you touch it.",
+  "ch": "就在你的手触碰到铁尺的瞬间，铁尺竟自发弹开了你的手，随后钻入阿嬉的怀中。"
+ },
+ "610556": {
+  "en": "I think it likes me better. I'll keep it for you for now.",
+  "ch": "嘿嘿，看来似乎比较喜欢我。那我就替你先保管着它吧。"
+ },
+ "610559": {
+  "en": "Hey, {name|A}! What are you doing here?",
+  "ch": "嘿！你好呀{name|A}，怎么你也在这里！"
+ },
+ "610561": {
+  "en": "Did this thing tell you to come here? It's been circling above the village, and scared a lot of the livestock. I was just following it when I saw you!",
+  "ch": "莫非也是它指引你来的？这宝贝最近总在村中盘旋，把不少牲畜都惊到了。我一路跟着它跑出来，没想到竟然遇到了你。"
+ },
+ "610562": {
+  "en": "Maybe it's trying to lead me to you? Wait, it's gone again. What are you waiting for? Bring it back!",
+  "ch": "哎？莫非是它想要带着我来找你？哎哎哎，它怎么又飞了，你还愣着干啥？还不快把它抓回来！"
+ },
+ "610563": {
+  "en": "The ingot spins a few times in the air, then flies away.",
+  "ch": "说话间，铁尺在半空嗖嗖转了几圈，随后往远处飞去。"
+ },
+ "610564": {
+  "en": "You come up to a hole that smells like blood. Something scary is probably being held in the hole.",
+  "ch": "此处有一个深坑，里面血气浓郁，似乎有什么可怕的东西被封印其中。"
+ },
+ "610565": {
+  "en": "Hm? Something smells familiar. Who could it be?",
+  "ch": "嗯？周围有股熟悉的气息，唔，让本座想想……"
+ },
+ "610566": {
+  "en": "It's you! Good to see you again. Do you remember me? I'm Sanguine Riverstar! We were mortal enemies in your past life, but we were also friends. It's been such a long time, so you probably reincarnated and don't remember a thing.",
+  "ch": "啊！是你，哈哈哈，小家伙你又来了！你可还记得我血星河血某人？本座与你前世可有一段恩怨，咱俩真是不打不相识啊。这么多年过去，想必你已转世重生，那些过往也不记得了吧。"
+ },
+ "610567": {
+  "en": "Are you here to ask me for something? Like before, just move the Divine Stone and let me out, and I'll grand you one wish. You of all people should know that I never go back on my word.",
+  "ch": "你此来必仍是有求于本座，老规矩，只要你帮本座把此处的神石移开让本座离开此地，本座便满足你一个要求。我血星河血某人的信誉可没人比你更清楚了，哈哈哈。"
+ },
+ "610569": {
+  "en": "I was right about you! Even though I killed you in your past life, you attacked first and almost killed me! Ahem. Anyway, we don't need to talk about that. If you can let it go, that means you're a good man.",
+  "ch": "哈哈哈，本座果然没有看错你！你前世虽是被本座所杀，但毕竟也重伤了本座，且是你出手在先。咳咳，往事不必再提，你既是能放下恩怨，也说明你乃英雄豪杰。"
+ },
+ "610570": {
+  "en": "Since you saved me today, I will help you with alleviating the flood in Bai Yuan. Looking back, I was put away by the Phoenix because of this. I guess what goes around comes around. Anyway, I don't care anymore!",
+  "ch": "今日你既愿意搭救本座，也不枉本座信守诺言帮你平定白源区的水患了……哎，遥想当年，为你这事，本座还被那火鸟再度封于此地，这世间因果轮回果然奇妙，但血某人快意逍遥，自不在意。"
+ },
+ "610572": {
+  "en": "I thought I sensed something familiar. You were the one that killed my infused spirits! You ruined what I took a hundred years to accomplish, and you stopped me from escaping. It's time you pay for what you've done!",
+  "ch": "嗯？我说怎么还有一股熟悉的气息，原来灭我分魂之人也在此处！你坏我近百年修为，又阻我逃生之机，今日本座正愁没活人滋补，纳命来！"
+ },
+ "610573": {
+  "en": "Suddenly you sense nothing but overwhelming hatred coming from Sanguine Riverstar.",
+  "ch": "一阵血气翻涌，血星河全身杀意翻涌，威势惊人。"
+ },
+ "610574": {
+  "en": "Please, stop! I was mistaken and thought you were someone else. I just realized that you saved me, and I'm very sorry for what I've done.",
+  "ch": "道友住手，刚才是老朽一时眼花，错认了人，原来是道友将老朽从地下救出，多有得罪还望海涵。"
+ },
+ "610575": {
+  "en": "I've been around long enough, and I always repay those who helped me. Since you already saved me, I would owe you two lives if you would let me go.",
+  "ch": "我血星河行走八荒百年，一向有恩必报，如今道友救我在先，若肯再放我一马，便是两命之恩，老朽必然不会亏待道友。"
+ },
+ "610576": {
+  "en": "These are some of the things I came across during my travels. Feel free to take anything you like.",
+  "ch": "此处是老朽走遍八荒多年的一点收获，道友若有看上之物，还请随意取走。"
+ },
+ "610577": {
+  "en": "Even though we just met, I feel like we're already good friends. I must leave now, but I believe we will meet again.",
+  "ch": "哈哈哈哈，本座与道友虽是初次见面，但一看便知道友乃性情中人。东西拿好，今日暂且别过，他日定当再会。"
+ },
+ "610578": {
+  "en": "If you must do so, then I will fight!",
+  "ch": "哼，道友若非要苦苦相逼，老朽也只能抵死一战了！"
+ },
+ "610579": {
+  "en": "Hm? I kept my word and helped you alleviate the flood in Bai Yuan, but you attacked me. Then I was trapped here by the Phoenix because of you! Are you going to turn your back on me?",
+  "ch": "嗯？之前本座信守诺言帮你平定了白源区的水患，你还对本座出手。之后，本座又因你而被那火鸟困于此处，如今你竟忘恩负义，不愿助本座脱困？"
+ },
+ "610580": {
+  "en": "Or are you too afraid of me because you died at my hands in your past life?",
+  "ch": "还是说，因为你前世死于本座之手，如今转世重生仍然不敢面对我？"
+ },
+ "610581": {
+  "en": "The iron ingot trembles with rage as it rushes down the hole. After some rumbling, an old man jumps out from the hole.",
+  "ch": "铁尺微微颤抖，似乎愤怒至极，随后竟直直往地底砸去。一阵烟尘翻滚后，一位老者从地底蹦了出来。"
+ },
+ "610582": {
+  "en": "You have not changed. Even though you didn't want to help me, you couldn't ignore my words. Ha!",
+  "ch": "你果然还是如此冲动，便是不愿帮我也逃不掉我这激将之法，哈哈哈哈！"
+ },
+ "610586": {
+  "en": "Sanguine Riverstar is still here. What do you do?",
+  "ch": "血星河还在原地，现在该如何行事？"
+ },
+ "610588": {
+  "en": "Sanguine Riverstar's figure fades, but you taste blood in your throat and your vision blurs.",
+  "ch": "血星河的身影逐渐消散，你突然感到一股异样的血气入喉，眼前不由得一阵恍惚。"
+ },
+ "610589": {
+  "en": "Mmm, smells like a living human. I've never seen someone so full of vitality!",
+  "ch": "哈哈哈，是活人的气息，这么饱满充沛的血气，就连本座也是平生仅见啊，嗯~"
+ },
+ "610590": {
+  "en": "Who's talking?",
+  "ch": "啊啊啊啊啊！是谁在说话！"
+ },
+ "610591": {
+  "en": "(Ahem, my apology. I'm trapped underground by the Divine Stone, I suppose I should ask for help first...)",
+  "ch": "（咳咳，本座失言了，如今被神石封印地底，还是先求助凡人吧……）"
+ },
+ "610592": {
+  "en": "Little one, I'm trapped down here by a bad person. If you let me out, I will grand you one wish!",
+  "ch": "小家伙，我被歹人埋入了地下，你若肯救我出去，我便答应你一个要求！"
+ },
+ "610593": {
+  "en": "Trying to charm me? Just what kind of monster are you?",
+  "ch": "啊？你是何方妖孽，竟然想蛊惑我！"
+ },
+ "610594": {
+  "en": "Not a monster, but not a sage either. I'm just a cultivator who was tricked into my predicament by someone from my Sect.",
+  "ch": "非也非也，我并非妖孽，也不是什么神仙，只是一介修仙者，修仙之道充满尔虞我诈，我也是被同门陷害流落至此的。"
+ },
+ "610596": {
+  "en": "I still have some energy left, definitely enough to grand you a lifetime of wealth. But if you don't hurry up...",
+  "ch": "趁现在我这老骨头还剩下点灵力，帮你等凡人实现一生荣华富贵倒也绝非难事，若是晚了……"
+ },
+ "610597": {
+  "en": "Will you get rid of the flood in Bai Yuan for me?",
+  "ch": "那，你可以帮我移走白源区的洪水吗？"
+ },
+ "610598": {
+  "en": "A little flood? Done!",
+  "ch": "哼哼，区区洪水，何足挂齿！"
+ },
+ "610601": {
+  "en": "The Blood Lord left a red and blue feather behind, but it's wrapped in a seal, stopping you from getting any closer.",
+  "ch": "血魔消失后，原地留下了一根羽毛，此羽红蓝相间，被包裹在一团禁制内，你无法靠近。"
+ },
+ "610602": {
+  "en": "Xi, looking pale and lifeless, lies on the ground.",
+  "ch": "一旁，阿嬉栽倒在地上，面色惨白、毫无生气，宛如一具尸体。"
+ },
+ "610603": {
+  "en": "Xi!",
+  "ch": "阿嬉！"
+ },
+ "610604": {
+  "en": "(Her life force was devoured in the blink of an eye by Sanguine Riverstar. I need an elixir to save her!)",
+  "ch": "（此女的生机竟在片刻间就被那血星河吸干了，我得赶紧寻找丹药救她性命！）"
+ },
+ "610605": {
+  "en": "Xi is heavily wounded and unconscious. Save her?",
+  "ch": "阿嬉重伤不醒，是否要救她？"
+ },
+ "610607": {
+  "en": "Are you alright?",
+  "ch": "你还好吗？"
+ },
+ "610608": {
+  "en": "Phew. I... I...",
+  "ch": "呼……，我刚才……刚才……"
+ },
+ "610609": {
+  "en": "I saw smoke coming out of the ground, and suddenly it was freezing... Freezing...",
+  "ch": "地下冒出一阵烟，我突然就感觉好冷……好冷……"
+ },
+ "610610": {
+  "en": "Don't be scared. You're alright now.",
+  "ch": "别怕，现在没事了。"
+ },
+ "610611": {
+  "en": "Right...",
+  "ch": "哦，哦……"
+ },
+ "610612": {
+  "en": "The floating feather catches her attention immediately.",
+  "ch": "那根尾羽静静漂浮在空中，一下子吸引住了阿嬉的目光。"
+ },
+ "610613": {
+  "en": "The feather! The colors...",
+  "ch": "啊！这个颜色的羽毛，不就是……"
+ },
+ "610615": {
+  "en": "Grandpa mentioned that during the flood many years ago, a sage arrived at the village. He looked menacing, but he alleviated the flood for us with his magic.",
+  "ch": "我依稀记得爷爷曾和我讲起，多年前那场大洪水来临时，不知从哪儿来了一位仙长，此人虽一脸煞气，却作法为愚村疏通水患。"
+ },
+ "610616": {
+  "en": "Then a bird in blue and red flew from the mountains and started fighting the sage, driving him away from the village. The villagers really hated the bird...",
+  "ch": "后来，山中飞来一只红蓝二色的鸟，它浑身燃起烈火就同那位仙长打了起来，随后竟把仙长打跑了，那时的村民都对此鸟深恶痛绝……"
+ },
+ "610617": {
+  "en": "Maybe the feather came from that bird.",
+  "ch": "这根羽毛，似乎就是从那只鸟身上掉下来的，"
+ },
+ "610618": {
+  "en": "(So the feather belongs to Bi Fang. I think this is what the iron ingot was trying to find.)",
+  "ch": "（果然这根羽毛是毕方的吗？想必此羽便是铁尺的目标。）"
+ },
+ "610619": {
+  "en": "Grandpa also said that since then, there have been strange phenomenons in Taihang Mountains, like seasons that were out of order, or that day and night flipped...",
+  "ch": "爷爷还说，在那之后，太行山中常现天地异象，四季颠倒、昼夜不明。"
+ },
+ "610620": {
+  "en": "(That means the bird might have been cultivating here by drawing the Heaven Aura. I wonder if this can break its seal.)",
+  "ch": "（如此说来，此鸟或许在抽取天道之气修炼，我且试试此物能否破解其禁制。）"
+ },
+ "610621": {
+  "en": "Bi Fang's feather is covered by a seal.",
+  "ch": "毕方的尾羽笼罩在一片禁制之中。"
+ },
+ "610622": {
+  "en": "The seal eventually fades and Bi Fang's feather falls onto your palm. A powerful thought enters your mind.",
+  "ch": "笼罩其上的禁制逐渐消失，毕方的尾羽轻飘飘地落在了你的手上，一股强烈的意念涌入你的识海。"
+ },
+ "610623": {
+  "en": "Jagu, why is the water rising so fast?",
+  "ch": "武罗姐姐，这山外的水势怎会涨得如此迅猛！"
+ },
+ "610624": {
+  "en": "I don't know. Nearby villages are all flooded, and many died. Build a fire for the people that managed to climb up.",
+  "ch": "我也不知，临近的城镇都被淹没了，许多人葬身洪水，你快点生火给这些爬上岸的人取暖。"
+ },
+ "610626": {
+  "en": "I went into the mountains, and found a strange man performing magic to get rid of the flood. Look!",
+  "ch": "姐姐，我去山里探查了一番，发现一个怪人正在作法驱水，您看山下！"
+ },
+ "610627": {
+  "en": "Let me see...",
+  "ch": "嗯？让我去看看……"
+ },
+ "610628": {
+  "en": "The smell of blood... This is no ordinary mortal. He looks like a cultivator that has taken the wrong path. We are no match for him.",
+  "ch": "呀！好浓的血气，此人绝非寻常人类，似乎是堕入魔道的修仙者，你我怕都不是他的对手。"
+ },
+ "610629": {
+  "en": "In the water, a cultivator stands by the mountain. He raises his hand and moves the water away, like a divine being that descended upon the land. A figure behind a tree further away is quietly watching all of this unfold...",
+  "ch": "滔天洪水中，一名修仙者矗立山脚下，抬手间便将洪水凝聚催动，把山中的积水全都倾倒至山外，宛如天神下凡。远处的树后似乎有一道人影正偷偷打量着这一切……"
+ },
+ "610630": {
+  "en": "He saved us on that day, so we must repay with our death. He entrusted you with his descendants, so I shall take on the evil in the mountains!",
+  "ch": "当日那人救下你我，我等便当以死相报，他既将其子嗣托付给你，那这山下妖人便交由我来对付！"
+ },
+ "610631": {
+  "en": "Be careful!",
+  "ch": "啊！你可千万小心！"
+ },
+ "610632": {
+  "en": "Bi Fang engages the Blood Lord, but the flames around him can't seem to make up the difference in their skills. The figure behind the tree doesn't move.",
+  "ch": "毕方浑身散发着浓烈的火焰，与那血魔战在一处，但似乎依然无法填补两者在实力上的差距，树后的人影依旧一动不动。"
+ },
+ "610634": {
+  "en": "Yu clenches his fists as tears stream down his face.",
+  "ch": "小阿禹的双拳不禁握紧，眼中似有泪水滑落。"
+ },
+ "610635": {
+  "en": "Eat this!",
+  "ch": "妖人看剑！"
+ },
+ "610636": {
+  "en": "You're suddenly assaulted by several sword auras.",
+  "ch": "突然间，一声厉喝伴随着数道剑气向你袭来。"
+ },
+ "610637": {
+  "en": "The assassin is still here. What do you do?",
+  "ch": "神秘女刺客还在原地，现在该如何行事？"
+ },
+ "610638": {
+  "en": "No wonder you're the Blood Lord that could revive himself with infused spirits after dying so many times. Now I have seen it all.",
+  "ch": "可恶！不愧是死了无数次还能凝练分魂复活的血魔老祖，在下死之前也算是见识了！"
+ },
+ "610640": {
+  "en": "I have lost. Do with me what you will. Why are you not leeching my life yet?",
+  "ch": "我既已败，要杀要剐悉听尊便，你为何还不动手吸我血气……"
+ },
+ "610641": {
+  "en": "You smell like blood and murder. How can I admit my mistake?",
+  "ch": "嗯？阁下身上血气浓郁，如何叫我认错？"
+ },
+ "610642": {
+  "en": "I was just fighting a Qi Deviated Cultivator, so...",
+  "ch": "我刚与那邪修大战一番，所以……"
+ },
+ "610643": {
+  "en": "Right, that explains it. I thought I was going to die here!",
+  "ch": "呼……这样啊……那你为啥不早说！害得人家差点以为这回死定了！"
+ },
+ "610644": {
+  "en": "Um, anyway. My name is Jiang Lanyan. I apologize for my brash behavior.",
+  "ch": "唔……道友您好，在下名叫江岚燕，此次多有冒犯，还请阁下恕罪。"
+ },
+ "610646": {
+  "en": "I... I should get going. Goodbye.",
+  "ch": "不好意思，我……我还有要事在身，就先告辞了。"
+ },
+ "610647": {
+  "en": "By the way, if you encounter my master, please don't tell her what happened here today.",
+  "ch": "对了，阁下以后若是遇到我师父，可千万别把今天发生的事情告诉她老人家呀！"
+ },
+ "610648": {
+  "en": "The swordmaster quickly leaves the scene.",
+  "ch": "女剑修飞也似地逃开了。"
+ },
+ "610650": {
+  "en": "You!",
+  "ch": "你你你！！！"
+ },
+ "610651": {
+  "en": "You can kill me, but you can't insult me! I am Jiang Lanyan, the descendant of a family tasked with keeping this world safe. I'll kill you for what you've done!",
+  "ch": "士可杀不可辱！我江岚燕乃名门之后，肩负八荒安危之任，岂容你这等妖人玷污，我跟你拼了！"
+ },
+ "610652": {
+  "en": "Just go. I'm no Blood Lord. I was just fighting a Qi Deviated Cultivator.",
+  "ch": "你走吧，我并不是血魔，这身血气只是方才与那邪修大战一场所致。"
+ },
+ "610653": {
+  "en": "R-Really?",
+  "ch": "真……真的？"
+ },
+ "610655": {
+  "en": "I don't like you!",
+  "ch": "我讨厌你！"
+ },
+ "610657": {
+  "en": "I didn't think the demonic ones followed rules.",
+  "ch": "呦呵，没想到魔道之人也有讲原则的。"
+ },
+ "610658": {
+  "en": "Well, I lost today because my skills were inferior. When you meet my master, he will put you away forever!",
+  "ch": "也罢，今日死于你手乃是我技不如人，他年我师父至此，必将你封入冥界，永世不得重见天日！"
+ },
+ "610660": {
+  "en": "Remember me. My name is Jiang Lanyan. Now, just do it!",
+  "ch": "洗干净耳朵听好了，你姑奶奶大名江岚燕，可以了吗？赶紧动手吧！"
+ },
+ "610666": {
+  "en": "Eh...",
+  "ch": "呃……"
+ },
+ "610667": {
+  "en": "The iron ingot suddenly glows and touches Bi Fang's feather. You feel dizzy and stumble.",
+  "ch": "突然间，铁尺幽光大放，竟轻轻触碰到了那根毕方的尾羽，你只觉头晕目眩，状如酩酊。"
+ },
+ "610668": {
+  "en": "The menacing Blood Lord has his hands around Bi Fang's throat, ready to kill him. Jagu takes out a pill and gets ready to die with the Blood Lord. Yu trembles with his head down, trying to overcome something in his mind.",
+  "ch": "血魔一手掐着毕方的脖子，满脸狰狞，仿佛随时可取对方性命。山上的小武罗祭出内丹，似乎要与血魔同归于尽。角落里的小阿禹垂着头，浑身颤抖，大概内心正经历着煎熬。"
+ },
+ "610669": {
+  "en": "No!",
+  "ch": "不要啊！！！"
+ },
+ "610670": {
+  "en": "A determined Yu runs toward the Blood Lord. Is he going to take on the fiend?",
+  "ch": "小阿禹下定了决心，竟大步流星地冲向血魔，难道他要以一介凡人的血肉之躯对抗血魔吗？"
+ },
+ "610671": {
+  "en": "I helped you! What do you think you're doing?",
+  "ch": "哼，不知死活的家伙，本座好心帮你，你竟想对我不利？"
+ },
+ "610672": {
+  "en": "The Blood Lord is surprised, but scoffs. He helped Yu, who removed his seal, but he didn't think Yu was stupid enough to attack him.",
+  "ch": "血魔略微一惊，随后又轻蔑一笑，他看在阿禹帮他解开封印的份上助其一次，却不想这凡人竟不知天高地厚地要和自己动手。"
+ },
+ "610673": {
+  "en": "The Blood Lord swings his blade through Yu's body. Strangely, his blood glows gold. And when the blood drops touch the Blood Lord, they make a sizzling sound.",
+  "ch": "下一瞬，血魔一击斩下，无数血光刺穿了小阿禹的胸膛，但奇异的是，阿禹的血液却泛着金色，当这些血液迸溅到血魔身体上时，竟发出溶解血肉的“嘶嘶”声。"
+ },
+ "610674": {
+  "en": "Ahhhhh! It burns! What is this?!",
+  "ch": "啊啊啊啊！！！这是什么，好烫！！"
+ },
+ "610675": {
+  "en": "The Blood Lord, an expert in blood cultivation, can see that there's something unusual about this blood. The golden glow means Yu is either a king or a sage, and his blood is very powerful against evil.",
+  "ch": "血魔见状大惊，他本是修炼血功之人，自能瞧出这血液的不凡之处。血有金光则此人非仙即王，而且此血至刚至阳，专克天下阴邪之物。"
+ },
+ "610676": {
+  "en": "But he has also seen his share of danger, and does not hesitate to leave the scene, leaving Bi Fang behind.",
+  "ch": "但他毕竟是见过大风大浪之人，他丝毫没有迟疑，一手撒开毕方，仓皇向山外逃去。"
+ },
+ "610677": {
+  "en": "Yu's body shatters. His blood becomes rays of golden light when they touch Bi Fang, flowing into its body and rejuvenating Bi Fang. The blood also infuses the soil with its power.",
+  "ch": "阿禹的身体逐渐支离破碎，他的血液接触到垂死的毕方时，竟化作道道金光流入其体内，毕方似乎瞬息间恢复了生命力。而那些流入泥土的血液，似乎给这块土壤也带来了神力。"
+ },
+ "610678": {
+  "en": "Bi Fang, you...",
+  "ch": "毕方妹妹，你……"
+ },
+ "610679": {
+  "en": "Bi Fang takes a handful of soil and runs after the Blood Lord.",
+  "ch": "只见毕方抓起泥土，没做休整便飞出山外追着血魔踪迹而去。"
+ },
+ "610680": {
+  "en": "Phew..",
+  "ch": "呼……"
+ },
+ "610681": {
+  "en": "Yu... Bi Fang... (You look around and don't see Xi, who might have left because you were unconscious for too long.)",
+  "ch": "阿禹……毕方……（你环顾四周，早已不见阿嬉的身影，想必是她见你昏沉太久，耐不住性子先行离去了吧）"
+ },
+ "610682": {
+  "en": "Off to Yun Mo, {mapData106}!",
+  "ch": "云陌州，{mapData106}，速去！"
+ },
+ "610684": {
+  "en": "A shadow runs by. You cover your pockets but realize there's something new in your Inventory.",
+  "ch": "一道人影闪过，你下意识捂住口袋，却发现背包中似乎多了件东西。"
+ },
+ "610685": {
+  "en": "You're finally here, {name|A}.",
+  "ch": "{name|A}，你终于来了啊！"
+ },
+ "610687": {
+  "en": "I wrote everything down. I'm not a cultivator, so I can't fly. Traveling here was very difficult.",
+  "ch": "该说的我都写在纸条上了。人家又不是修仙者，又不会飞，走这么远的路，真的太辛苦啦！"
+ },
+ "610689": {
+  "en": "This iron ingot contains the secrets of my ancestors. It's my duty to see it through.",
+  "ch": "没办法，谁叫这铁块上似乎隐藏着我愚村先祖的秘密呢？使命如此，我必须要坚持到最后！"
+ },
+ "610691": {
+  "en": "But it's pointing somewhere deep under the tundra. There's no way a mortal like me can reach that place.",
+  "ch": "但是，这铁尺似乎是指向冰原深处的一处所在，那地方以我凡人之躯根本不可能到达。"
+ },
+ "610692": {
+  "en": "So...",
+  "ch": "那……"
+ },
+ "610693": {
+  "en": "Don't worry, I know how to get around it. A masked lady arrived the other day, and I think she's very fond of me. I asked her about the tundra, and she told me that there are two ways.",
+  "ch": "不过嘛，你别担心，我已然知晓破解之法。前两天这里来了一位戴面具的大姐姐，她可喜欢我了，我向她问起怎么能进入冰原，她说有两种方法。"
+ },
+ "610694": {
+  "en": "I can get an elixir. Let's see... An Enlightenment Elixir that's G3 or above? What a strange name. She said it gives mortals enough S-Power to withstand the cold.",
+  "ch": "一种方法就是搞一颗丹药，叫什么来着我想想……喔，好像是要三品及以上的悟道丹？名字可真奇怪。大姐姐说那玩意可以让凡人暂时拥有灵力，用来抵御严寒绰绰有余。"
+ },
+ "610695": {
+  "en": "The other solution is to get something called a Solar Stone, which keeps giving off heat, so that those without S-Power are kept warm in the tundra. She said I can find it in the auctions here.",
+  "ch": "另一种方法，就是去弄一枚叫做旸鼎石的秘宝，它可以持续散发温和的热量，让没有灵力的人在冰原中御寒，据说它会在这个城里的拍卖会中出现哟~"
+ },
+ "610696": {
+  "en": "I've never had any elixirs brewed by cultivators. I really want one, though.",
+  "ch": "喔喔，好的，我还从来没有吃过修仙者炼制的丹药，这回可得让我解解馋！"
+ },
+ "610697": {
+  "en": "I'll wait for you outside of Everfrost. Don't take too long.",
+  "ch": "那么，我就先去永恒冰原的外面等你了，你可要快些来呀。"
+ },
+ "610698": {
+  "en": "You're here! Did you bring me that G3 something elixir?",
+  "ch": "喔，你来了！有把那什么三品以上的什么丹带给我吗？"
+ },
+ "610699": {
+  "en": "So that's what it looks like. Doesn't look that different from the candies I have at home.",
+  "ch": "哇！原来它长这样，看着跟我在家常吃的饴糖没啥区别啊。"
+ },
+ "610700": {
+  "en": "Let's see...",
+  "ch": "我尝尝……"
+ },
+ "610701": {
+  "en": "Ahhhh! Feels like there's a... vortex... in my body. {name|A} H-Help me...",
+  "ch": "啊啊啊啊！我体内……好像有一股旋涡，{name|A}，快……快救我……"
+ },
+ "610702": {
+  "en": "Xi is full of energy and gives off a frightening aura.",
+  "ch": "阿嬉体内充满了灵力，一时间气势磅礴，令人畏惧。"
+ },
+ "610704": {
+  "en": "I think we can enter Everfrost now. Shall we?",
+  "ch": "呼……好了，这下应该就能进入永恒冰原了，我们赶紧上路吧！"
+ },
+ "610705": {
+  "en": "Good luck.",
+  "ch": "噢，那你可要加把劲哟，快去吧。"
+ },
+ "610706": {
+  "en": "Sure. I've never seen anything wonderful like this before. Feels like it's more useful than the iron ingot.",
+  "ch": "喔喔，好的，我还从来没有见过这么神奇的玩意，感觉比那截只会到处乱飞的铁强多了！"
+ },
+ "610708": {
+  "en": "There you are. Did you bring me the stone that gives off heat?",
+  "ch": "喔，你来了！有把那个什么会发热的石头带给我吗？"
+ },
+ "610709": {
+  "en": "So that's what it looks like. Just like the flint in the village...",
+  "ch": "哇！原来它长这样，看着跟村里刚流行的燧石没啥区别啊。"
+ },
+ "610711": {
+  "en": "It's hot and sends warmth through my finger...",
+  "ch": "喔喔！它不仅很温暖，还似乎会产生一股热流顺着指尖流进我的体内……"
+ },
+ "610712": {
+  "en": "The stone in Xi's hand gives off a lot of heat, some of which entered her body and became Qi.",
+  "ch": "阿嬉手中的石头散发着热量，这股热量甚至流入了她的体内，化作道道灵气。"
+ },
+ "610716": {
+  "en": "What do you mean?",
+  "ch": "嗯？你怎么可以这样！"
+ },
+ "610717": {
+  "en": "Leave! I don't want to see you again....",
+  "ch": "你快走开，我不想见到你！呜呜呜……"
+ }
+}

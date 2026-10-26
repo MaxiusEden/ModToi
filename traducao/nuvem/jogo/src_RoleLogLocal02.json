@@ -1,0 +1,3382 @@
+{
+ "100": {
+  "en": "Your Focus: {0}",
+  "ch": "自身激发念力({0})"
+ },
+ "200": {
+  "en": "Target's Focus: {0}",
+  "ch": "对方防备念力({0})"
+ },
+ "300": {
+  "en": "Target let their guard down because of the Affinity ({0}) between you two",
+  "ch": "对方防备受到亲密度({0})影响而下降"
+ },
+ "400": {
+  "en": "Stealing...",
+  "ch": "偷窃判定中"
+ },
+ "500": {
+  "en": "Stealing succeeded!",
+  "ch": "偷窃成功！"
+ },
+ "600": {
+  "en": "Stealing failed!",
+  "ch": "偷窃失败！"
+ },
+ "700": {
+  "en": "Your Charisma: {0}",
+  "ch": "己方魅力({0})"
+ },
+ "800": {
+  "en": "Covering up...",
+  "ch": "掩盖行为判定中"
+ },
+ "900": {
+  "en": "Cover-up succeeded! The target didn't notice you.",
+  "ch": "掩盖成功！对方丝毫没有察觉！"
+ },
+ "1000": {
+  "en": "Cover-up failed! The target noticed you.",
+  "ch": "掩盖失败！被对方察觉到了！"
+ },
+ "1300": {
+  "en": "You let your guard down because of the Affinity ({0}) between you two",
+  "ch": "自身防备受到亲密度({0})影响而下降"
+ },
+ "1400": {
+  "en": "Target's Charisma: {0}",
+  "ch": "对方魅力({0})"
+ },
+ "1500": {
+  "en": "Cover-up succeeded! You didn't notice the target.",
+  "ch": "掩盖成功！没有察觉到对方的行动！"
+ },
+ "1600": {
+  "en": "Cover-up failed! You noticed the target.",
+  "ch": "掩盖失败！已察觉出对方的身份！"
+ },
+ "1700": {
+  "en": "Successfully stole {name|B}'s {0}! Obtained {1} x{2}.",
+  "ch": "偷窃{name|B}的{0}成功！获得了{1}*{2}。"
+ },
+ "1800": {
+  "en": "Failed to steal {name|B}'s {0}!",
+  "ch": "偷窃{name|B}的{0}失败！"
+ },
+ "1900": {
+  "en": "The target didn't notice.",
+  "ch": "所幸未被对方察觉！"
+ },
+ "2000": {
+  "en": "But the target noticed.",
+  "ch": "不幸被对方发现，"
+ },
+ "2100": {
+  "en": "The target expressed disdain but didn't stop the stealing.",
+  "ch": "对方露出了厌恶的表情，但却并未阻止！"
+ },
+ "2200": {
+  "en": "The target was furious and launched an attack!",
+  "ch": "对方怒气冲天，发起了攻击！"
+ },
+ "2300": {
+  "en": "{0} x{1} stolen by {name|A}.",
+  "ch": "被{name|A}偷窃了{0}*{1}。"
+ },
+ "2400": {
+  "en": "{name|A} tried to steal my {0} but failed. Affinity dropped.",
+  "ch": "{name|A}尝试偷窃我的{0}失败，对其好感度下降了。"
+ },
+ "2500": {
+  "en": "A shadow flashed by and stole {0} x{1}.",
+  "ch": "一道人影闪过，回过神之后发现被对方偷窃了{0}*{1}。"
+ },
+ "2700": {
+  "en": "I didn't stop the stealing, but my Hatred towards them grew.",
+  "ch": "而我未阻止，任其离去，但心中产生了怨恨。"
+ },
+ "2800": {
+  "en": "I noticed the stealing and launched an attack!",
+  "ch": "在我察觉之后，向对方发起了攻击！"
+ },
+ "2900": {
+  "en": "Your Travel Speed: {0}",
+  "ch": "自身脚力({0})"
+ },
+ "3000": {
+  "en": "Target's Travel Speed: {0}",
+  "ch": "对方脚力({0})"
+ },
+ "3100": {
+  "en": "Escaping...",
+  "ch": "逃跑判定中"
+ },
+ "3200": {
+  "en": "Escaped!",
+  "ch": "逃跑成功！"
+ },
+ "3300": {
+  "en": "Failed to escape!",
+  "ch": "逃跑失败！"
+ },
+ "3600": {
+  "en": "Attacked by {name|B}. Tried to get away from the fight and eventually succeeded!",
+  "ch": "遭到{name|B}的攻击，意欲避战，几经周旋摆脱了对方！"
+ },
+ "3700": {
+  "en": "Attacked by {name|B}. Tried to get away from the fight but failed!",
+  "ch": "遭到{name|B}的攻击，意欲避战，不料被对方截住了去路！"
+ },
+ "3800": {
+  "en": "Launched an attack, but {name|A} got away!",
+  "ch": "向{name|A}发起攻击，不料却被其逃脱！"
+ },
+ "3900": {
+  "en": "Launched an attack at {name|A}. The target tried to escape but failed!",
+  "ch": "向{name|A}发起攻击，对方意欲逃脱，未能得逞！"
+ },
+ "4000": {
+  "en": "Monster Quantity: {0}",
+  "ch": "怪物数量({0})"
+ },
+ "4100": {
+  "en": "Your Luck: {0}",
+  "ch": "自身幸运({0})"
+ },
+ "4400": {
+  "en": "Defeated {0} and spared the target's life!",
+  "ch": "与{0}进行战斗，战胜了对方后，心生慈念，放走了对方！"
+ },
+ "4500": {
+  "en": "Defeated {0} and killed the target!",
+  "ch": "与{0}进行战斗，战胜了对方，并痛下杀手，将对方杀死！"
+ },
+ "4600": {
+  "en": "Fought with {0}. The target was {1} but managed to escape!",
+  "ch": "与{0}进行战斗，将对方击成{1}后，被对方逃脱了！"
+ },
+ "4700": {
+  "en": "Defeated by {0} but was spared.",
+  "ch": "与{0}进行战斗，被对方击败后放了一条生路！"
+ },
+ "4800": {
+  "en": "Defeated and killed by {0}!",
+  "ch": "与{0}进行战斗，被对方击败后，惨遭毒手，被对方击杀！"
+ },
+ "4900": {
+  "en": "Fought with {0} and was {1}. Managed to escape when the target wasn't paying attention!",
+  "ch": "与{0}进行战斗，身受{1}，趁对方露出破绽时，成功脱离战斗！"
+ },
+ "5000": {
+  "en": "Attacked by {name|A}!",
+  "ch": "遭到{name|A}的攻击！"
+ },
+ "5100": {
+  "en": "Reconstructed body after a while.",
+  "ch": "经过一段时间，终于成功重塑肉身！"
+ },
+ "5200": {
+  "en": "Sent 1 {0} to {1} for Body Reconstruction. {2} was grateful!",
+  "ch": "赠送了一颗{0}给{1}，以助其重塑肉身，{2}非常感激！"
+ },
+ "5300": {
+  "en": "Received {0}'s {1} in the crucial moment. Very grateful to {2}!",
+  "ch": "在危难之际收到{0}赠送的{1}，对{2}非常感激！"
+ },
+ "5400": {
+  "en": "The request for {0} was granted by {name|B}. Obtained {1} x{2}.",
+  "ch": "向{name|B}索取{0}成功！获得了{1}*{2}。"
+ },
+ "5500": {
+  "en": "The request for {0} was ignored by {name|B}.",
+  "ch": "向{name|B}索取{0}，对方并未理睬。"
+ },
+ "5600": {
+  "en": "{name|A} asked me for {0}. I gave out {1} x{2}.",
+  "ch": "{name|A}向我索取{0}，给予了{1}*{2}。"
+ },
+ "5700": {
+  "en": "{name|A} asked me for {0}. I ignored this request.",
+  "ch": "{name|A}向我索取{0}，但没有理睬对方。"
+ },
+ "5800": {
+  "en": "Asked {0} for a spar. The request was accepted.",
+  "ch": "向{0}请求切磋，对方同意了并进行了切磋！"
+ },
+ "5900": {
+  "en": "Asked {0} for a spar. The request was rejected.",
+  "ch": "向{0}请求切磋，对方拒绝了切磋的请求！"
+ },
+ "6000": {
+  "en": "Received {0}'s request to spar and accepted it.",
+  "ch": "收到{0}的切磋请求，与对方进行了切磋！"
+ },
+ "6100": {
+  "en": "Received {0}'s request to spar but rejected it.",
+  "ch": "收到{0}的切磋请求，但没有理会对方！"
+ },
+ "6200": {
+  "en": "Began escorting the Caravan from {0} to {1}.",
+  "ch": "押运镖车从{0}出发，目的地为{1}！"
+ },
+ "6300": {
+  "en": "Intercepted by {0}, who was trying to loot the Caravan.",
+  "ch": "被{0}截住去路，意图劫镖！"
+ },
+ "6400": {
+  "en": "Was no match for {0} and lost the Caravan.",
+  "ch": "因实力不敌，镖车被{0}劫走了！"
+ },
+ "6500": {
+  "en": "Safely escorted the Caravan to {0}!",
+  "ch": "成功将镖车押送到了{0}！"
+ },
+ "6600": {
+  "en": "Intercepted {0}'s Caravan and launched an attack!",
+  "ch": "截住了{0}的镖车，对其发起攻击！"
+ },
+ "6700": {
+  "en": "Defeated {0} and took the Caravan!",
+  "ch": "击败了{0}，将其押运的镖车劫下！"
+ },
+ "6800": {
+  "en": "Abandoned the mission of escorting the Caravan.",
+  "ch": "放弃了押镖任务！"
+ },
+ "6900": {
+  "en": "Sent {0} to {name|B}. The target accepted the gift.",
+  "ch": "赠送{0}给{name|B}，对方收下了赠物。"
+ },
+ "7000": {
+  "en": "Sent {0} to {name|B}. The target turned down the gift.",
+  "ch": "赠送{0}给{name|B}，但被对方拒绝了！"
+ },
+ "7100": {
+  "en": "{name|A} gave me {0} as a gift.",
+  "ch": "{name|A}向我赠送了{0}。"
+ },
+ "7200": {
+  "en": "{name|A} gave me {0} as a gift, but I turned it down.",
+  "ch": "{name|A}向我赠送{0}，但我拒绝了对方的赠物。"
+ },
+ "7300": {
+  "en": "Had a nice conversation with {0}. Afterwards, {1} became an Adoptive Father!",
+  "ch": "与{0}相谈甚欢，于是拜{1}为义父！"
+ },
+ "7400": {
+  "en": "Asked {0} to be an Adoptive Father, but the request was rejected!",
+  "ch": "请求拜{0}为义父，但话不投机，被对方拒绝了！"
+ },
+ "7500": {
+  "en": "Had a nice conversation with {0}. Afterwards, {1} became an Adoptive Mother!",
+  "ch": "与{0}相谈甚欢，于是拜{1}为义母！"
+ },
+ "7600": {
+  "en": "Asked {0} to be an Adoptive Mother, but the request was rejected!",
+  "ch": "请求拜{0}为义母，但话不投机，被对方拒绝了！"
+ },
+ "7700": {
+  "en": "Became Sworn Brothers with the like-minded {0}!",
+  "ch": "与{0}志同道合，遂结为了义兄弟关系！"
+ },
+ "7800": {
+  "en": "Asked {0} to be a Sworn Brother, but the request was rejected!",
+  "ch": "请求与{0}结为义兄弟，但话不投机，被对方拒绝了！"
+ },
+ "8100": {
+  "en": "Became Sworn Sisters with the like-minded {0}!",
+  "ch": "与{0}志同道合，遂结为了义姊妹关系！"
+ },
+ "8200": {
+  "en": "Asked {0} to be a Sworn Sister, but the request was rejected!",
+  "ch": "请求与{0}结为义姊妹，但话不投机，被对方拒绝了！"
+ },
+ "8500": {
+  "en": "Had a nice conversation with {0} and took {1} in as an Adoptive Son!",
+  "ch": "与{0}相谈甚欢，于是收{1}为义子！"
+ },
+ "8600": {
+  "en": "Asked {0} to be an Adoptive Son, but the request was rejected!",
+  "ch": "意欲收{0}为义子，但话不投机，被对方拒绝了！"
+ },
+ "8700": {
+  "en": "Had a nice conversation with {0} and took {1} in as an Adoptive Daughter!",
+  "ch": "与{0}相谈甚欢，于是收{1}为义女！"
+ },
+ "8800": {
+  "en": "Asked {0} to be an Adoptive Daughter, but the request was rejected!",
+  "ch": "意欲收{0}为义女，但话不投机，被对方拒绝了！"
+ },
+ "8900": {
+  "en": "Became Partners with the like-minded {0}!",
+  "ch": "与{0}情投意合，结为了道侣关系！"
+ },
+ "9000": {
+  "en": "Confessed love to {0} but was turned down!",
+  "ch": "向{0}表达爱慕之心，但话不投机，被对方拒绝了！"
+ },
+ "9100": {
+  "en": "Tied the knot with {0}!",
+  "ch": "与{0}情深似海，关系更进一步，结为了夫妻！"
+ },
+ "9200": {
+  "en": "Proposed to {0}, but {1} turned down the proposal!",
+  "ch": "向{0}表达了情意，欲结为夫妻，但{1}觉得时机未到而拒绝了！"
+ },
+ "9300": {
+  "en": "Had a nice conversation with {0}. Afterwards, {1} became a Master!",
+  "ch": "对{0}相谈甚欢，于是拜{1}为师父！"
+ },
+ "9400": {
+  "en": "Asked {0} to be a Master, but the request was rejected!",
+  "ch": "请求拜{0}为师父，但话不投机，被对方拒绝了！"
+ },
+ "9500": {
+  "en": "Had a nice conversation with {0} and took {1} in as an Apprentice!",
+  "ch": "与{0}相谈甚欢，于是收{1}为徒弟！"
+ },
+ "9600": {
+  "en": "Asked {0} to be an Apprentice, but the request was rejected!",
+  "ch": "意欲收{0}为徒弟，但话不投机，被对方拒绝了！"
+ },
+ "9700": {
+  "en": "Had a nice conversation with {0} and agreed to become their Adoptive Father.",
+  "ch": "与{0}相谈甚欢，同意了对方拜为义父的请求！"
+ },
+ "9800": {
+  "en": "Had a bad conversation with {0} and refused to become their Adoptive Father.",
+  "ch": "与{0}话不投机，拒绝了对方拜为义父的请求！"
+ },
+ "9900": {
+  "en": "Had a nice conversation with {0} and agreed to become their Adoptive Mother.",
+  "ch": "与{0}相谈甚欢，同意了对方拜为义母的请求！"
+ },
+ "10000": {
+  "en": "Had a bad conversation with {0} and refused to become their Adoptive Mother.",
+  "ch": "与{0}话不投机，拒绝了对方拜为义母的请求！"
+ },
+ "10100": {
+  "en": "Had a nice conversation with {0} and agreed to become his Sworn Brother.",
+  "ch": "与{0}志同道合，同意了对方结为义兄弟的请求！"
+ },
+ "10200": {
+  "en": "Had a bad conversation with {0} and refused to become his Sworn Brother.",
+  "ch": "与{0}话不投机，拒绝了对方结为义兄弟的请求！"
+ },
+ "10500": {
+  "en": "Had a nice conversation with {0} and agreed to become her Sworn Sister.",
+  "ch": "与{0}志同道合，同意了对方结为义姊妹的请求！"
+ },
+ "10600": {
+  "en": "Had a bad conversation with {0} and refused to become her Sworn Sister.",
+  "ch": "与{0}话不投机，拒绝了对方结为义姊妹的请求！"
+ },
+ "10900": {
+  "en": "Had a nice conversation with {0} and agreed to take him in as an Adoptive Son.",
+  "ch": "与{0}相谈甚欢，同意了对方收为义子的请求！"
+ },
+ "11000": {
+  "en": "Had a bad conversation with {0} and refused to take him in as an Adoptive Son.",
+  "ch": "与{0}话不投机，拒绝了对方收为义子的请求！"
+ },
+ "11100": {
+  "en": "Had a nice conversation with {0} and agreed to take her in as an Adoptive Daughter.",
+  "ch": "与{0}相谈甚欢，同意了对方收为义女的请求！"
+ },
+ "11200": {
+  "en": "Had a bad conversation with {0} and refused to take her in as an Adoptive Daughter.",
+  "ch": "与{0}话不投机，拒绝了对方收为义女的请求！"
+ },
+ "11300": {
+  "en": "Shared mutual feelings with {0} and agreed to become Partners with {1}!",
+  "ch": "与{0}情投意合，同意了{1}结为道侣关系的请求！"
+ },
+ "11400": {
+  "en": "Had a bad conversation with {0} and refused to become Partners with {1}!",
+  "ch": "与{0}话不投机，拒绝了{1}结为道侣关系的请求！"
+ },
+ "11500": {
+  "en": "Loved {0} so much and agreed to marry {1}!",
+  "ch": "与{0}情深似海，同意了{1}结为夫妻关系的请求！"
+ },
+ "11600": {
+  "en": "Rejected {0}'s marriage proposal!",
+  "ch": "拒绝了{0}结为夫妻的请求！"
+ },
+ "11700": {
+  "en": "Had a nice conversation with {0} and agreed to become their Master.",
+  "ch": "与{0}相谈甚欢，同意了对方拜为师父的请求！"
+ },
+ "11800": {
+  "en": "Had a bad conversation with {0} and refused to become their Master.",
+  "ch": "与{0}话不投机，拒绝了对方拜为师父的请求！"
+ },
+ "11900": {
+  "en": "Had a nice conversation with {0} and agreed to become their Apprentice.",
+  "ch": "与{0}相谈甚欢，同意了对方收为徒弟的请求！"
+ },
+ "12000": {
+  "en": "Had a bad conversation with {0} and refused to become their Apprentice.",
+  "ch": "与{0}话不投机，拒绝了对方收为徒弟的请求！"
+ },
+ "12100": {
+  "en": "Married {0} in {1}!",
+  "ch": "与{0}在{1}举办了婚事！正式结为夫妻关系！"
+ },
+ "12200": {
+  "en": "Failed to marry {0} in {1} during the agreed-upon time frame. The engagement was annulled!",
+  "ch": "未能在约定的时间内在{0}与{1}举办婚事，此婚约作废！"
+ },
+ "12400": {
+  "en": "Waited in {0} for a long time, but {1} was a no-show during the agreed-upon time frame. The engagement was annulled!",
+  "ch": "在{0}等待许久，却仍不见{1}现身，约定时间已过，此婚约作废！"
+ },
+ "12500": {
+  "en": "Had a nice conversation with {0}. The Affinity between each other increased!",
+  "ch": "与{0}进行交谈，气氛融洽，与对方的亲密度提升了！"
+ },
+ "12600": {
+  "en": "Had a conversation with {0} but couldn't come to an understanding. Both were unhappy about each other.",
+  "ch": "与{0}进行交谈，但话不投机，彼此心里产生了怨恨！"
+ },
+ "12601": {
+  "en": "Chatted with {0}. The Affinity between each other increased!",
+  "ch": "与{0}叙旧，双方对彼此的亲密度提升了！"
+ },
+ "12602": {
+  "en": "Talked to {0} about {1}. {0} agreed with me and had higher Affinity toward {1}!",
+  "ch": "与{0}谈论{1}，{0}认为我言之有理，对{1}的亲密度提升了！"
+ },
+ "12603": {
+  "en": "Talked to {0} about {1}. {0} disagreed with me. Both were unhappy about each other.",
+  "ch": "与{0}谈论{1}，{0}认为我胡言乱语，彼此心里都产生了不满的情绪。"
+ },
+ "12604": {
+  "en": "Talked to {0} about {1}. {0} agreed with me and expressed Hatred for {1}!",
+  "ch": "与{0}谈论{1}，{0}认为我言之有理，表达了自己对{1}的厌恶！"
+ },
+ "12606": {
+  "en": "Talked to {0} about {1}. {0}'s admiration toward {1} grew even more.",
+  "ch": "与{0}谈论{1}，{0}对{1}愈发敬仰。"
+ },
+ "12608": {
+  "en": "Talked to {0} about the {1} faction. {0}'s admiration toward {1} Cultivators grew even more.",
+  "ch": "与{0}谈论{1}，{0}对{1}之人愈发敬仰。"
+ },
+ "12612": {
+  "en": "Criticized {1} in front of {0}. {0} agreed with me and had lower Affinity toward {1}.",
+  "ch": "向{0}诋毁{1}，{0}认为我言之有理，对{1}的亲密度下降了。"
+ },
+ "12613": {
+  "en": "Criticized {1} in front of {0}. {0} disagreed with me. Both were unhappy about each other.",
+  "ch": "向{0}诋毁{1}，{0}认为我胡言乱语，彼此心里都产生了不满的情绪。"
+ },
+ "12700": {
+  "en": "{0} and I had a nice conversation. The Affinity between us increased!",
+  "ch": "{0}与我进行交谈，气氛融洽，与对方的亲密度提升了！"
+ },
+ "12800": {
+  "en": "{0} and I had a conversation, but we couldn't come to an understanding. Both of us were unhappy about each other.",
+  "ch": "{0}与我进行交谈，但话不投机，彼此心里产生了怨恨！"
+ },
+ "12801": {
+  "en": "{0} chatted with me. The Affinity between us increased!",
+  "ch": "{0}与我叙旧，双方对彼此的亲密度提升了！"
+ },
+ "12802": {
+  "en": "{0} talked about {1} with me. I agreed with {0}, and my Affinity toward {1} increased.",
+  "ch": "{0}与我谈论了{1}，我认为{0}言之有理，对{1}的亲密度提升了。"
+ },
+ "12803": {
+  "en": "{0} talked about {1} with me. I disagreed with {0}. Both of us were unhappy about each other.",
+  "ch": "{0}与我谈论了{1}，我认为{0}胡言乱语，彼此心里都产生了不满的情绪。"
+ },
+ "12804": {
+  "en": "{0} talked about {1} with me. I agreed with {0}, and my Hatred for {1} increased.",
+  "ch": "{0}与我谈论了{1}，我认为{0}言之有理，对{1}的仇恨度提升了。"
+ },
+ "12806": {
+  "en": "{0} talked about {1} with me. My admiration toward {1} grew even more.",
+  "ch": "{0}与我谈论了{1}，我对{1}愈发敬仰。"
+ },
+ "12808": {
+  "en": "{0} talked about the {1} faction with me. My admiration toward {1} Cultivators grew even more.",
+  "ch": "{0}与我谈论了{1}，我对{1}之人愈发敬仰。"
+ },
+ "12812": {
+  "en": "{0} criticized {1}. I agreed with {0}, and my Affinity toward {1} decreased.",
+  "ch": "{0}向我诋毁{1}，我认为{0}言之有理，对{1}的亲密度下降了。"
+ },
+ "12813": {
+  "en": "{0} criticized {1}. I disagreed with {0}. Both of us were unhappy about each other.",
+  "ch": "{0}向我诋毁{1}，我认为{0}胡言乱语，彼此心里都产生了不满的情绪。"
+ },
+ "12900": {
+  "en": "Trained together with {0}. Both gained EXP and became closer!",
+  "ch": "与{0}进行双修，修为提升了并且双方的关系更加亲密了！"
+ },
+ "13000": {
+  "en": "Asked {0} to dual cultivation, but this request was rejected.",
+  "ch": "邀请与{0}进行双修，但却被对方拒绝了！"
+ },
+ "13100": {
+  "en": "{0} and I trained together. Both of us gained EXP, and we became closer!",
+  "ch": "{0}与我进行双修，修为提升了并且双方的关系更加亲密了！"
+ },
+ "13200": {
+  "en": "I turned down {0}'s request to dual cultivation.",
+  "ch": "{0}请求与我进行双修，拒绝了对方的请求！"
+ },
+ "13210": {
+  "en": "Finally learned {0} and greatly increased power!",
+  "ch": "经过一番苦心钻研，终于学会了{0}，实力大涨！"
+ },
+ "13220": {
+  "en": "Studied {0} hard but still couldn't learn {0}!",
+  "ch": "耗费大量心血研究{0}，却仍不得其要领，没能习得{0}！"
+ },
+ "13230": {
+  "en": "Finally upgraded {0} to {1} and greatly increased power!",
+  "ch": "经过刻苦修炼{0}，终于将技能修炼至{1}境，实力大涨！"
+ },
+ "13240": {
+  "en": "Finally comprehended {0} and had a better understanding of {0}!",
+  "ch": "潜心参悟{0}，终于悟出其中的些许奥秘，对{0}的理解有了更高造诣！"
+ },
+ "13250": {
+  "en": "{0} wanted to improve their power, so they took some Cultivator Alliance secret pills, and the cultivation of the Transcendent Realm increased by a little.",
+  "ch": "{0}为使实力更进一步，服用了些许仙盟秘制内丹，其登仙境的修为再度提升了少许。"
+ },
+ "13260": {
+  "en": "{0} accidentally gained the creation of the world while cultivating, and successfully entered {1}, gaining the recognition of the Immortal Remains. Eventually, their Immortal Power increased, and cultivation was greatly improved.",
+  "ch": "{0}在修行时偶获天地造化，成功进入{1}并获得仙人遗存的认可，最终仙力提升，修为大进。"
+ },
+ "13270": {
+  "en": "{0} happened to have a jolly accident while cultivating, and successfully entered {1}, gaining the teachings of the Immortal Remains. Eventually, they comprehended the Heavenly Art {2}, and their power increased by leaps and bounds.",
+  "ch": "{0}在修行时偶得旷世奇遇，成功进入{1}并获得仙人遗存的传授，最终领悟仙法{2}，实力提升一跃千里。"
+ },
+ "13280": {
+  "en": "{0} was suddenly struck by disaster, and killed by the Nether Demon {1}.",
+  "ch": "{0}突遭横祸，不幸被冥妖{1}杀害。"
+ },
+ "13281": {
+  "en": "{0} was attacked by the Nether Demon {1} and managed to escape.",
+  "ch": "{0}遭到冥妖{1}袭击，侥幸逃脱。"
+ },
+ "13282": {
+  "en": "{0} killed Nether Demon {1}.",
+  "ch": "{0}击杀了冥妖{1}。"
+ },
+ "13300": {
+  "en": "Purchased {2} x{3} from the {1} in {0}.",
+  "ch": "在{0}的{1}中购买了{2}*{3}。"
+ },
+ "13301": {
+  "en": "Purchased {2} from the {1} in {0}.",
+  "ch": "在{0}的{1}中购买了{2}。"
+ },
+ "13400": {
+  "en": "Sold some items at a Market in {0}.",
+  "ch": "在{0}的坊市中出售了一些多余的道具。"
+ },
+ "13500": {
+  "en": "Cultivated for many days in the sect's {0} and increased EXP!",
+  "ch": "在宗门的{0}中修炼了些许时日。修为提升了！"
+ },
+ "13600": {
+  "en": "Cultivated for many days in a place full of Qi and increased EXP!",
+  "ch": "在一处灵气充裕的区域中修炼了些许时日，修为提升了！"
+ },
+ "13700": {
+  "en": "Practiced for many days in the sect's {0} and increased Skill Proficiency!",
+  "ch": "在宗门的{0}中练习了些许时日，技能的熟练度提升了！"
+ },
+ "13800": {
+  "en": "Recuperated in the sect's {0} and recovered!",
+  "ch": "在宗门的{0}中休养了一段时日，自身状态恢复了！"
+ },
+ "13900": {
+  "en": "Recuperated in the {1} in {0} and recovered!",
+  "ch": "在{0}的{1}中休养了一段时日，自身状态恢复了！"
+ },
+ "14000": {
+  "en": "Killed some monsters in {0} and obtained materials!",
+  "ch": "进入{0}，击杀了一些怪物，获得了怪物材料！"
+ },
+ "14100": {
+  "en": "Defeated by {1} in {0}!",
+  "ch": "进入{0}，被{1}击败！"
+ },
+ "14200": {
+  "en": "Entered {0} but escaped from battle when things started to go south.",
+  "ch": "进入{0}，形势不妙，逃离了战斗！"
+ },
+ "14300": {
+  "en": "Entered {0} but soon left after having a bad feeling.",
+  "ch": "进入{0}，有其他顾虑，离开了此地。"
+ },
+ "14400": {
+  "en": "Put up {1} for auction in the Auction House in {0}.",
+  "ch": "在{0}中的拍卖行中寄拍了{1}。"
+ },
+ "14500": {
+  "en": "Bought {0} from the action in {1}.",
+  "ch": "在{0}中的拍卖会中拍得了{1}。"
+ },
+ "14600": {
+  "en": "Finally reached {0} after many trials! Power greatly increased!",
+  "ch": "经历重重天劫，终于{0}成功！实力大增！"
+ },
+ "14700": {
+  "en": "Failed the trial in {0} and obtained {1}.",
+  "ch": "在{0}时，渡劫失败！获得气运{1}！"
+ },
+ "14800": {
+  "en": "Joined {0} and became {1}'s {2}.",
+  "ch": "拜入了{0}，成为了{1}{2}！"
+ },
+ "14900": {
+  "en": "Promoted to {0}'s {1} after making enough Contribution.",
+  "ch": "由于对宗门贡献巨大，晋升为{0}{1}了！"
+ },
+ "14901": {
+  "en": "Participated in the Sect duel and is promoted to {0}{1}!",
+  "ch": "参加宗门比武，晋升为{0}{1}了！"
+ },
+ "14902": {
+  "en": "Participated in the Sect duel and obtained {0}{1}'s recognition. Promoted to {2}{3}!",
+  "ch": "参加宗门比武，获得{0}{1}的赏识，晋升为{2}{3}了！"
+ },
+ "14903": {
+  "en": "You hard work has earned the approval of the Sect Leader. You're promoted to {0}{1}!",
+  "ch": "经过不懈努力，获得了宗门传承的认可，晋升为{0}{1}了！"
+ },
+ "15000": {
+  "en": "Accepted the sect mission ({0}).",
+  "ch": "在宗门中任取了{0}任务。"
+ },
+ "15010": {
+  "en": "Entered this world.",
+  "ch": "初入八荒。"
+ },
+ "15100": {
+  "en": "But got lost while heading to the destination.",
+  "ch": "由于此行路途遥远，在途中迷路了！"
+ },
+ "15200": {
+  "en": "Accepted the sect mission ({1}) from the Bounty Board in {0}.",
+  "ch": "在{0}的悬赏榜中任取了{1}任务。"
+ },
+ "15201": {
+  "en": "Lost the position of True Disciple and became a Disciple due to a change in the position of the Elder.",
+  "ch": "由于长老的职位发生变动，失去了真传弟子身份，成为内门弟子。"
+ },
+ "15202": {
+  "en": "Promoted by {1} to {2} of {0}.",
+  "ch": "被{1}晋升为{2}的{0}。"
+ },
+ "15203": {
+  "en": "Demoted by {1} to {2} of {0}.",
+  "ch": "被{1}降级为{2}的{0}。"
+ },
+ "15204": {
+  "en": "Accepted {1}'s invitation and became {2}'s {0}.",
+  "ch": "接受{1}的邀请，成为了{2}的{0}。"
+ },
+ "15205": {
+  "en": "Was reappointed as {2}'s {0} by {1}.",
+  "ch": "被{1}调职为{2}的{0}。"
+ },
+ "15300": {
+  "en": "Relationship formed. {0} became: Adoptive Father.",
+  "ch": "拜{0}为义父。"
+ },
+ "15301": {
+  "en": "Relationship formed. {0} became: Adoptive Mother.",
+  "ch": "拜{0}为义母。"
+ },
+ "15302": {
+  "en": "Relationship formed. {0} became: Adoptive Son.",
+  "ch": "收{0}为义子。"
+ },
+ "15303": {
+  "en": "Relationship formed. {0} became: Adoptive Daughter.",
+  "ch": "收{0}为义女。"
+ },
+ "15304": {
+  "en": "Relationship formed. {0} became: Sworn Brother.",
+  "ch": "与{0}结为义兄弟。"
+ },
+ "15306": {
+  "en": "Relationship formed. {0} became: Sworn Sister.",
+  "ch": "与{0}结为义姊妹。"
+ },
+ "15308": {
+  "en": "Relationship formed. {0} became: Master.",
+  "ch": "拜{0}为师父。"
+ },
+ "15309": {
+  "en": "Relationship formed. {0} became: Apprentice:",
+  "ch": "收{0}为徒弟。"
+ },
+ "15310": {
+  "en": "Became Partners with {0}.",
+  "ch": "与{0}结为道侣。"
+ },
+ "15312": {
+  "en": "I became {0}'s Adoptive Father.",
+  "ch": "{0}拜我为义父。"
+ },
+ "15313": {
+  "en": "I became {0}'s Adoptive Mother.",
+  "ch": "{0}拜我为义母。"
+ },
+ "15314": {
+  "en": "I became {0}'s Adoptive Son.",
+  "ch": "{0}将我收为义子。"
+ },
+ "15315": {
+  "en": "I became {0}'s Adoptive Daughter.",
+  "ch": "{0}将我收为义女。"
+ },
+ "15316": {
+  "en": "I became {0}'s Sworn Brother.",
+  "ch": "{0}与我结为义兄弟。"
+ },
+ "15318": {
+  "en": "I became {0}'s Sworn Sister.",
+  "ch": "{0}与我结为义姊妹。"
+ },
+ "15320": {
+  "en": "I became {0}'s Master.",
+  "ch": "{0}拜我为师父。"
+ },
+ "15321": {
+  "en": "I became {0}'s Apprentice.",
+  "ch": "{0}收我为徒弟。"
+ },
+ "15324": {
+  "en": "Reached {0} ({1} Realm).",
+  "ch": "{0}成功，突破至{1}。"
+ },
+ "15326": {
+  "en": "Promoted to {0}'s {1}.",
+  "ch": "晋升为{0}{1}。"
+ },
+ "15327": {
+  "en": "Killed by {0}.",
+  "ch": "被{0}杀死。"
+ },
+ "15329": {
+  "en": "You fought with distinction in the Promotion Duel (Disciple) and have been promoted to Disciple.",
+  "ch": "在外门小比中脱颖而出，晋升为内门弟子。"
+ },
+ "15330": {
+  "en": "You did not fight well in the Promotion Duel (Disciple) and will not be promoted to Disciple.",
+  "ch": "在外门小比中发挥不佳，未能晋升内门弟子。"
+ },
+ "15331": {
+  "en": "You do not have Elder approval to compete, abandon Promotion Duel (Disciple).",
+  "ch": "没有长老许可参赛，放弃内门小比。"
+ },
+ "15332": {
+  "en": "You were defeated in the Promotion Duel (Disciple) and will not be promoted to True Disciple.",
+  "ch": "内门小比中落败，未能晋升真传弟子。"
+ },
+ "15333": {
+  "en": "You were victorious in the Promotion Duel (Disciple) but lost to the Elder's True Disciple and will not be promoted.",
+  "ch": "内门小比获胜，却败于长老的真传弟子，未能晋升真传弟子。"
+ },
+ "15334": {
+  "en": "Promoted to True Disciple.",
+  "ch": "成功晋升为真传弟子。"
+ },
+ "15335": {
+  "en": "Promoted to {0} {1} Elder.",
+  "ch": "成功晋升为{0}{1}长老。"
+ },
+ "15336": {
+  "en": "Challenge to {0} Elder failed, you will not be promoted to {0} Elder",
+  "ch": "挑战{0}长老失败，未能晋升{0}长老"
+ },
+ "15337": {
+  "en": "{0} issues a Challenge, taking the position of {1} Elder. You are demoted to {2}.",
+  "ch": "受到{0}的挑战，被夺走{1}长老之位，职位降为{2}。"
+ },
+ "15338": {
+  "en": "{0} issues a Challenge. You defeat the challenger and defend the position of {1} Elder.",
+  "ch": "受到{0}的挑战，成功击败了挑战者，守住了{1}长老之位。"
+ },
+ "15339": {
+  "en": "You are caught up in {0} Elder's fall from grace, and are demoted to {1}.",
+  "ch": "受到{0}长老职位降低的牵连，职位降为{1}。"
+ },
+ "15340": {
+  "en": "Because of {0} Elder's fall, you are demoted to Disciple.",
+  "ch": "因{0}长老陨落，被降为内门弟子。"
+ },
+ "15341": {
+  "en": "Promoted to {0} Grand Elder",
+  "ch": "成功晋升为{0}大长老"
+ },
+ "15342": {
+  "en": "Challenge to Grand Elder failed, you will not be promoted to Grand Elder.",
+  "ch": "挑战大长老失败，未能晋升大长老。"
+ },
+ "15343": {
+  "en": "{0} issues a Challenge, taking the position of Grand Elder. You are demoted to {1}.",
+  "ch": "受到{0}的挑战，被夺走大长老之位，职位降为{1}"
+ },
+ "15344": {
+  "en": "{0} issues a Challenge. You defeat the challenger and defend the position of Grand Elder.",
+  "ch": "受到{0}的挑战，成功击败了挑战者，守住了大长老之位。"
+ },
+ "15345": {
+  "en": "{0} Elder has been promoted to Grand Elder, and promotes you to {1} Elder. You have been promoted to {1} Elder.",
+  "ch": "{0}长老晋升大长老，提拔你为{1}长老，你晋升为{1}长老。"
+ },
+ "15346": {
+  "en": "{0} Grand Elder has promoted you to {1} Elder.",
+  "ch": "被{0}大长老提拔为{1}长老。"
+ },
+ "15347": {
+  "en": "Because {0} Elder has been promoted to Grand Elder, True Disciples have automatically been demoted to Disciples.",
+  "ch": "因{0}长老晋升为大长老，原真传弟子自动降为内门弟子。"
+ },
+ "15348": {
+  "en": "You fought with distinction in Grand Elder and have been promoted to Grand Elder.",
+  "ch": "在长老中脱颖而出，晋升为大长老"
+ },
+ "15349": {
+  "en": "Your ability has been recognized in eyes of the Sect. You are promoted to Grand Elder.",
+  "ch": "能力为宗门所看中，晋升为大长老"
+ },
+ "15350": {
+  "en": "Elder {0} has fallen from grace. You are demoted to {1}.",
+  "ch": "因{0}长老陨落，职位降为{1}。"
+ },
+ "15351": {
+  "en": "Through great trials you have finally earned approval of the Sect Tradition to become {0} Sect Leader.",
+  "ch": "通过艰难的试炼终于获得宗门传承的认可，成为了{0}的宗主！"
+ },
+ "15352": {
+  "en": "Having left the Sect, you apprehend the Heavenly Path more fully on the road, attaining {0}.",
+  "ch": "离开宗门以后，于游历中感悟天道，境界突破至{0}。"
+ },
+ "15353": {
+  "en": "Tradition has recognized a new Sect Leader. Your position is changed to {0}.",
+  "ch": "传承认可了新的宗主，职位变更为{0}。"
+ },
+ "15354": {
+  "en": "{0} {1} left the Sect due to reduced wage.",
+  "ch": "因宗门未能发放足够俸禄，{0}{1}离开了宗门。"
+ },
+ "15355": {
+  "en": "Found the prospect of promotion bleak due to nepotism in the Sect and left {0}.",
+  "ch": "因宗门任人唯亲，感到晋升无望，离开了{0}。"
+ },
+ "15356": {
+  "en": "Found the prospect of promotion bleak due to the overly large number of Disciples in the Sect and left {0}.",
+  "ch": "因宗门弟子人数众多，感到晋升无望，离开了{0}。"
+ },
+ "15357": {
+  "en": "Got disappointed in the Sect due to the Disciples' low Loyalty and left {0}.",
+  "ch": "因本宗弟子忠诚度低对宗门失望，离开了{0}。"
+ },
+ "15358": {
+  "en": "Earned approval of the Sect Tradition and became the Sect Leader of {0}.",
+  "ch": "得到宗门传承的认可，成为{0}的宗主。"
+ },
+ "15400": {
+  "en": "You left {0}.",
+  "ch": "离开了{0}。"
+ },
+ "15401": {
+  "en": "You're kicked out of {0}.",
+  "ch": "被逐出了{0}。"
+ },
+ "15500": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Blade Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一刀修的道号。"
+ },
+ "15501": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Spear Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一枪修的道号。"
+ },
+ "15502": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Sword Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一剑修的道号。"
+ },
+ "15503": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Fist Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一拳修的道号。"
+ },
+ "15504": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Palm Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一掌修的道号。"
+ },
+ "15505": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Finger Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一指修的道号。"
+ },
+ "15506": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Fire Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一火修的道号。"
+ },
+ "15507": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Water Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一水修的道号。"
+ },
+ "15508": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Lightning Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一雷修的道号。"
+ },
+ "15509": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Wind Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一风修的道号。"
+ },
+ "15510": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Earth Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一土修的道号。"
+ },
+ "15511": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yong Ning No.1 Wood Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了永宁州第一木修的道号。"
+ },
+ "15524": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Blade Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一刀修的道号。"
+ },
+ "15525": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Spear Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一枪修的道号。"
+ },
+ "15526": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Sword Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一剑修的道号。"
+ },
+ "15527": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Fist Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一拳修的道号。"
+ },
+ "15528": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Palm Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一掌修的道号。"
+ },
+ "15529": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Finger Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一指修的道号。"
+ },
+ "15530": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Fire Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一火修的道号。"
+ },
+ "15531": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Water Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一水修的道号。"
+ },
+ "15532": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Lightning Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一雷修的道号。"
+ },
+ "15533": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Wind Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一风修的道号。"
+ },
+ "15534": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Earth Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一土修的道号。"
+ },
+ "15535": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Hua Feng No.1 Wood Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了华封州第一木修的道号。"
+ },
+ "15536": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Blade Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一刀修的道号。"
+ },
+ "15537": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Spear Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一枪修的道号。"
+ },
+ "15538": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Sword Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一剑修的道号。"
+ },
+ "15539": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Fist Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一拳修的道号。"
+ },
+ "15540": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Palm Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一掌修的道号。"
+ },
+ "15541": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Finger Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一指修的道号。"
+ },
+ "15542": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Fire Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一火修的道号。"
+ },
+ "15543": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Water Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一水修的道号。"
+ },
+ "15544": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Lightning Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一雷修的道号。"
+ },
+ "15545": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Wind Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一风修的道号。"
+ },
+ "15546": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Earth Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一土修的道号。"
+ },
+ "15547": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Yun Mo No.1 Wood Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了云陌州第一木修的道号。"
+ },
+ "15548": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Blade Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一刀修的道号。"
+ },
+ "15549": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Spear Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一枪修的道号。"
+ },
+ "15550": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Sword Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一剑修的道号。"
+ },
+ "15551": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Fist Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一拳修的道号。"
+ },
+ "15552": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Palm Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一掌修的道号。"
+ },
+ "15553": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Finger Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一指修的道号。"
+ },
+ "15554": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Fire Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一火修的道号。"
+ },
+ "15555": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Water Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一水修的道号。"
+ },
+ "15556": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Lightning Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一雷修的道号。"
+ },
+ "15557": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Wind Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一风修的道号。"
+ },
+ "15558": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Earth Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一土修的道号。"
+ },
+ "15559": {
+  "en": "Was challenged to a Taoist Title duel by {2} and was defeated, losing the Taoist Title of Mu Xian No.1 Wood Cultivator.",
+  "ch": "被{2}发起道号挑战，未能战胜此人，失去了暮仙州第一木修的道号。"
+ },
+ "16000": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Blade Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一刀修的道号。"
+ },
+ "16001": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Spear Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一枪修的道号。"
+ },
+ "16002": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Sword Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一剑修的道号。"
+ },
+ "16003": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Fist Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一拳修的道号。"
+ },
+ "16004": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Palm Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一掌修的道号。"
+ },
+ "16005": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Finger Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一指修的道号。"
+ },
+ "16006": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Fire Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一火修的道号。"
+ },
+ "16007": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Water Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一水修的道号。"
+ },
+ "16008": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Lightning Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一雷修的道号。"
+ },
+ "16009": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Wind Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一风修的道号。"
+ },
+ "16010": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Earth Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一土修的道号。"
+ },
+ "16011": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yong Ning No.1 Wood Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了永宁州第一木修的道号。"
+ },
+ "16024": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Blade Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一刀修的道号。"
+ },
+ "16025": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Spear Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一枪修的道号。"
+ },
+ "16026": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Sword Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一剑修的道号。"
+ },
+ "16027": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Fist Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一拳修的道号。"
+ },
+ "16028": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Palm Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一掌修的道号。"
+ },
+ "16029": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Finger Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一指修的道号。"
+ },
+ "16030": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Fire Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一火修的道号。"
+ },
+ "16031": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Water Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一水修的道号。"
+ },
+ "16032": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Lightning Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一雷修的道号。"
+ },
+ "16033": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Wind Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一风修的道号。"
+ },
+ "16034": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Earth Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一土修的道号。"
+ },
+ "16035": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Hua Feng No.1 Wood Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了华封州第一木修的道号。"
+ },
+ "16036": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Blade Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一刀修的道号。"
+ },
+ "16037": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Spear Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一枪修的道号。"
+ },
+ "16038": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Sword Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一剑修的道号。"
+ },
+ "16039": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Fist Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一拳修的道号。"
+ },
+ "16040": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Palm Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一掌修的道号。"
+ },
+ "16041": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Finger Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一指修的道号。"
+ },
+ "16042": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Fire Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一火修的道号。"
+ },
+ "16043": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Water Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一水修的道号。"
+ },
+ "16044": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Lightning Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一雷修的道号。"
+ },
+ "16045": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Wind Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一风修的道号。"
+ },
+ "16046": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Earth Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一土修的道号。"
+ },
+ "16047": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Yun Mo No.1 Wood Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了云陌州第一木修的道号。"
+ },
+ "16048": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Blade Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一刀修的道号。"
+ },
+ "16049": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Spear Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一枪修的道号。"
+ },
+ "16050": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Sword Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一剑修的道号。"
+ },
+ "16051": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Fist Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一拳修的道号。"
+ },
+ "16052": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Palm Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一掌修的道号。"
+ },
+ "16053": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Finger Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一指修的道号。"
+ },
+ "16054": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Fire Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一火修的道号。"
+ },
+ "16055": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Water Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一水修的道号。"
+ },
+ "16056": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Lightning Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一雷修的道号。"
+ },
+ "16057": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Wind Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一风修的道号。"
+ },
+ "16058": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Earth Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一土修的道号。"
+ },
+ "16059": {
+  "en": "Challenged {1} to a Taoist Title duel and defeated the opponent, winning the Taoist Title of Mu Xian No.1 Wood Cultivator.",
+  "ch": "向{1}发起道号挑战，成功战胜此人，得到了暮仙州第一木修的道号。"
+ },
+ "16500": {
+  "en": "Trained hard in Blade for years and became the Yong Ning No.1 Blade Cultivator.",
+  "ch": "勤练刀法数载，成为永宁州第一刀修。"
+ },
+ "16501": {
+  "en": "Trained hard in Spear for years and became the Yong Ning No.1 Spear Cultivator.",
+  "ch": "勤练枪法数载，成为永宁州第一枪修。"
+ },
+ "16502": {
+  "en": "Trained hard in Sword for years and became the Yong Ning No.1 Sword Cultivator.",
+  "ch": "勤练剑法数载，成为永宁州第一剑修。"
+ },
+ "16503": {
+  "en": "Trained hard in Fist for years and became the Yong Ning No.1 Fist Cultivator.",
+  "ch": "勤练拳法数载，成为永宁州第一拳修。"
+ },
+ "16504": {
+  "en": "Trained hard in Palm for years and became the Yong Ning No.1 Palm Cultivator.",
+  "ch": "勤练掌法数载，成为永宁州第一掌修。"
+ },
+ "16505": {
+  "en": "Trained hard in Finger for years and became the Yong Ning No.1 Finger Cultivator.",
+  "ch": "勤练指法数载，成为永宁州第一指修。"
+ },
+ "16506": {
+  "en": "Trained hard in Fire for years and became the Yong Ning No.1 Fire Cultivator.",
+  "ch": "勤练火法数载，成为永宁州第一火修。"
+ },
+ "16507": {
+  "en": "Trained hard in Water for years and became the Yong Ning No.1 Water Cultivator.",
+  "ch": "勤练水法数载，成为永宁州第一水修。"
+ },
+ "16508": {
+  "en": "Trained hard in Lightning for years and became the Yong Ning No.1 Lightning Cultivator.",
+  "ch": "勤练雷法数载，成为永宁州第一雷修。"
+ },
+ "16509": {
+  "en": "Trained hard in Wind for years and became the Yong Ning No.1 Wind Cultivator.",
+  "ch": "勤练风法数载，成为永宁州第一风修。"
+ },
+ "16510": {
+  "en": "Trained hard in Earth for years and became the Yong Ning No.1 Earth Cultivator.",
+  "ch": "勤练土法数载，成为永宁州第一土修。"
+ },
+ "16511": {
+  "en": "Trained hard in Wood for years and became the Yong Ning No.1 Wood Cultivator.",
+  "ch": "勤练木法数载，成为永宁州第一木修。"
+ },
+ "16512": {
+  "en": "Trained hard in Blade for years and became the Hua Feng No.1 Blade Cultivator.",
+  "ch": "勤练刀法数载，成为华封州第一刀修。"
+ },
+ "16513": {
+  "en": "Trained hard in Spear for years and became the Hua Feng No.1 Spear Cultivator.",
+  "ch": "勤练枪法数载，成为华封州第一枪修。"
+ },
+ "16514": {
+  "en": "Trained hard in Sword for years and became the Hua Feng No.1 Sword Cultivator.",
+  "ch": "勤练剑法数载，成为华封州第一剑修。"
+ },
+ "16515": {
+  "en": "Trained hard in Fist for years and became the Hua Feng No.1 Fist Cultivator.",
+  "ch": "勤练拳法数载，成为华封州第一拳修。"
+ },
+ "16516": {
+  "en": "Trained hard in Palm for years and became the Hua Feng No.1 Palm Cultivator.",
+  "ch": "勤练掌法数载，成为华封州第一掌修。"
+ },
+ "16517": {
+  "en": "Trained hard in Finger for years and became the Hua Feng No.1 Finger Cultivator.",
+  "ch": "勤练指法数载，成为华封州第一指修。"
+ },
+ "16518": {
+  "en": "Trained hard in Fire for years and became the Hua Feng No.1 Fire Cultivator.",
+  "ch": "勤练火法数载，成为华封州第一火修。"
+ },
+ "16519": {
+  "en": "Trained hard in Water for years and became the Hua Feng No.1 Water Cultivator.",
+  "ch": "勤练水法数载，成为华封州第一水修。"
+ },
+ "16520": {
+  "en": "Trained hard in Lightning for years and became the Hua Feng No.1 Lightning Cultivator.",
+  "ch": "勤练雷法数载，成为华封州第一雷修。"
+ },
+ "16521": {
+  "en": "Trained hard in Wind for years and became the Hua Feng No.1 Wind Cultivator.",
+  "ch": "勤练风法数载，成为华封州第一风修。"
+ },
+ "16522": {
+  "en": "Trained hard in Earth for years and became the Hua Feng No.1 Earth Cultivator.",
+  "ch": "勤练土法数载，成为华封州第一土修。"
+ },
+ "16523": {
+  "en": "Trained hard in Wood for years and became the Hua Feng No.1 Wood Cultivator.",
+  "ch": "勤练木法数载，成为华封州第一木修。"
+ },
+ "16524": {
+  "en": "Trained hard in Blade for years and became the Yun Mo No.1 Blade Cultivator.",
+  "ch": "勤练刀法数载，成为云陌州第一刀修。"
+ },
+ "16525": {
+  "en": "Trained hard in Spear for years and became the Yun Mo No.1 Spear Cultivator.",
+  "ch": "勤练枪法数载，成为云陌州第一枪修。"
+ },
+ "16526": {
+  "en": "Trained hard in Sword for years and became the Yun Mo No.1 Sword Cultivator.",
+  "ch": "勤练剑法数载，成为云陌州第一剑修。"
+ },
+ "16527": {
+  "en": "Trained hard in Fist for years and became the Yun Mo No.1 Fist Cultivator.",
+  "ch": "勤练拳法数载，成为云陌州第一拳修。"
+ },
+ "16528": {
+  "en": "Trained hard in Palm for years and became the Yun Mo No.1 Palm Cultivator.",
+  "ch": "勤练掌法数载，成为云陌州第一掌修。"
+ },
+ "16529": {
+  "en": "Trained hard in Finger for years and became the Yun Mo No.1 Finger Cultivator.",
+  "ch": "勤练指法数载，成为云陌州第一指修。"
+ },
+ "16530": {
+  "en": "Trained hard in Fire for years and became the Yun Mo No.1 Fire Cultivator.",
+  "ch": "勤练火法数载，成为云陌州第一火修。"
+ },
+ "16531": {
+  "en": "Trained hard in Water for years and became the Yun Mo No.1 Water Cultivator.",
+  "ch": "勤练水法数载，成为云陌州第一水修。"
+ },
+ "16532": {
+  "en": "Trained hard in Lightning for years and became the Yun Mo No.1 Lightning Cultivator.",
+  "ch": "勤练雷法数载，成为云陌州第一雷修。"
+ },
+ "16533": {
+  "en": "Trained hard in Wind for years and became the Yun Mo No.1 Wind Cultivator.",
+  "ch": "勤练风法数载，成为云陌州第一风修。"
+ },
+ "16534": {
+  "en": "Trained hard in Earth for years and became the Yun Mo No.1 Earth Cultivator.",
+  "ch": "勤练土法数载，成为云陌州第一土修。"
+ },
+ "16535": {
+  "en": "Trained hard in Wood for years and became the Yun Mo No.1 Wood Cultivator.",
+  "ch": "勤练木法数载，成为云陌州第一木修。"
+ },
+ "16536": {
+  "en": "Trained hard in Blade for years and became the Mu Xian No.1 Blade Cultivator.",
+  "ch": "勤练刀法数载，成为暮仙州第一刀修。"
+ },
+ "16537": {
+  "en": "Trained hard in Spear for years and became the Mu Xian No.1 Spear Cultivator.",
+  "ch": "勤练枪法数载，成为暮仙州第一枪修。"
+ },
+ "16538": {
+  "en": "Trained hard in Sword for years and became the Mu Xian No.1 Sword Cultivator.",
+  "ch": "勤练剑法数载，成为暮仙州第一剑修。"
+ },
+ "16539": {
+  "en": "Trained hard in Fist for years and became the Mu Xian No.1 Fist Cultivator.",
+  "ch": "勤练拳法数载，成为暮仙州第一拳修。"
+ },
+ "16540": {
+  "en": "Trained hard in Palm for years and became the Mu Xian No.1 Palm Cultivator.",
+  "ch": "勤练掌法数载，成为暮仙州第一掌修。"
+ },
+ "16541": {
+  "en": "Trained hard in Finger for years and became the Mu Xian No.1 Finger Cultivator.",
+  "ch": "勤练指法数载，成为暮仙州第一指修。"
+ },
+ "16542": {
+  "en": "Trained hard in Fire for years and became the Mu Xian No.1 Fire Cultivator.",
+  "ch": "勤练火法数载，成为暮仙州第一火修。"
+ },
+ "16543": {
+  "en": "Trained hard in Water for years and became the Mu Xian No.1 Water Cultivator.",
+  "ch": "勤练水法数载，成为暮仙州第一水修。"
+ },
+ "16544": {
+  "en": "Trained hard in Lightning for years and became the Mu Xian No.1 Lightning Cultivator.",
+  "ch": "勤练雷法数载，成为暮仙州第一雷修。"
+ },
+ "16545": {
+  "en": "Trained hard in Wind for years and became the Mu Xian No.1 Wind Cultivator.",
+  "ch": "勤练风法数载，成为暮仙州第一风修。"
+ },
+ "16546": {
+  "en": "Trained hard in Earth for years and became the Mu Xian No.1 Earth Cultivator.",
+  "ch": "勤练土法数载，成为暮仙州第一土修。"
+ },
+ "16547": {
+  "en": "Trained hard in Wood for years and became the Mu Xian No.1 Wood Cultivator.",
+  "ch": "勤练木法数载，成为暮仙州第一木修。"
+ },
+ "16548": {
+  "en": "Trained hard in Blade for years and became the World No.1 Blade Cultivator.",
+  "ch": "勤练刀法数载，成为八荒第一刀修。"
+ },
+ "16549": {
+  "en": "Trained hard in Spear for years and became the World No.1 Spear Cultivator.",
+  "ch": "勤练枪法数载，成为八荒第一枪修。"
+ },
+ "16550": {
+  "en": "Trained hard in Sword for years and became the World No.1 Sword Cultivator.",
+  "ch": "勤练剑法数载，成为八荒第一剑修。"
+ },
+ "16551": {
+  "en": "Trained hard in Fist for years and became the World No.1 Fist Cultivator.",
+  "ch": "勤练拳法数载，成为八荒第一拳修。"
+ },
+ "16552": {
+  "en": "Trained hard in Palm for years and became the World No.1 Palm Cultivator.",
+  "ch": "勤练掌法数载，成为八荒第一掌修。"
+ },
+ "16553": {
+  "en": "Trained hard in Finger for years and became the World No.1 Finger Cultivator.",
+  "ch": "勤练指法数载，成为八荒第一指修。"
+ },
+ "16554": {
+  "en": "Trained hard in Fire for years and became the World No.1 Fire Cultivator.",
+  "ch": "勤练火法数载，成为八荒第一火修。"
+ },
+ "16555": {
+  "en": "Trained hard in Water for years and became the World No.1 Water Cultivator.",
+  "ch": "勤练水法数载，成为八荒第一水修。"
+ },
+ "16556": {
+  "en": "Trained hard in Lightning for years and became the World No.1 Lightning Cultivator.",
+  "ch": "勤练雷法数载，成为八荒第一雷修。"
+ },
+ "16557": {
+  "en": "Trained hard in Wind for years and became the World No.1 Wind Cultivator.",
+  "ch": "勤练风法数载，成为八荒第一风修。"
+ },
+ "16558": {
+  "en": "Trained hard in Earth for years and became the World No.1 Earth Cultivator.",
+  "ch": "勤练土法数载，成为八荒第一土修。"
+ },
+ "16559": {
+  "en": "Trained hard in Wood for years and became the World No.1 Wood Cultivator.",
+  "ch": "勤练木法数载，成为八荒第一木修。"
+ },
+ "16600": {
+  "en": "Became the Charmer Disciple for having many Partners.",
+  "ch": "因为拥有众多道侣，成为风流道子。"
+ },
+ "16601": {
+  "en": "Became the Charmer Priest for having many Partners.",
+  "ch": "因为拥有众多道侣，成为风流道人。"
+ },
+ "16602": {
+  "en": "Became the Charmer Sage for having many Partners.",
+  "ch": "因为拥有众多道侣，成为风流真人。"
+ },
+ "16603": {
+  "en": "Became the Charmer Sovereign for having many Partners.",
+  "ch": "因为拥有众多道侣，成为风流真君。"
+ },
+ "16604": {
+  "en": "Became the Charmer Deity for having many Partners.",
+  "ch": "因为拥有众多道侣，成为风流天尊。"
+ },
+ "16700": {
+  "en": "Had an excellent performance in the Sect Tournament Open Challenge Match and won the first place, becoming the Yong Ning Champion.",
+  "ch": "在宗门大比擂台赛上表现尤为出色，并夺得魁首，成为永宁魁首。"
+ },
+ "16701": {
+  "en": "Had an excellent performance in the Sect Tournament Open Challenge Match and won the first place, becoming the Hua Feng Champion.",
+  "ch": "在宗门大比擂台赛上表现尤为出色，并夺得魁首，成为华封魁首。"
+ },
+ "16702": {
+  "en": "Had an excellent performance in the Sect Tournament Open Challenge Match and won the first place, becoming the Yun Mo Champion.",
+  "ch": "在宗门大比擂台赛上表现尤为出色，并夺得魁首，成为云陌魁首。"
+ },
+ "16703": {
+  "en": "Had an excellent performance in the Sect Tournament Open Challenge Match and won the first place, becoming the Mu Xian Champion.",
+  "ch": "在宗门大比擂台赛上表现尤为出色，并夺得魁首，成为暮仙魁首。"
+ },
+ "16704": {
+  "en": "Had an excellent performance in the Sect Tournament Open Challenge Match and won the first place, becoming the Chi You Champion.",
+  "ch": "在宗门大比擂台赛上表现尤为出色，并夺得魁首，成为赤幽魁首。"
+ },
+ "16705": {
+  "en": "Had excellent performances and won the first place in the Open Challenge Matches everywhere from Hua Feng to Chi You, becoming the World Champion.",
+  "ch": "从华封州到赤幽州，各州的擂台赛上均有出色表现，且夺得魁首，成为八荒魁首。"
+ },
+ "16800": {
+  "en": "Was generous with money and became the Benefactor Disciple.",
+  "ch": "平日出手阔绰，成为散财道子。"
+ },
+ "16801": {
+  "en": "Was generous with money and became the Benefactor Priest.",
+  "ch": "平日出手阔绰，成为散财道人。"
+ },
+ "16802": {
+  "en": "Was generous with money and became the Benefactor Sage.",
+  "ch": "平日出手阔绰，成为散财真人。"
+ },
+ "16803": {
+  "en": "Was generous with money and became the Benefactor Sovereign.",
+  "ch": "平日出手阔绰，成为散财真君。"
+ },
+ "16804": {
+  "en": "Was generous with money and became the Benefactor Deity.",
+  "ch": "平日出手阔绰，成为散财天尊。"
+ },
+ "16900": {
+  "en": "Became the Fashion Connoisseur for having many outfits.",
+  "ch": "因为拥有众多服饰，成为霓裳仙君。"
+ },
+ "16901": {
+  "en": "Became the Fashion Connoisseuse for having many outfits.",
+  "ch": "因为拥有众多服饰，成为霓裳仙子。"
+ },
+ "17000": {
+  "en": "Achieved great strength as a Rogue Cultivator who had never joined a Sect, becoming the Carefree Disciple.",
+  "ch": "作为一介从未加入过宗门的散修，仍实力非凡，成为逍遥道子。"
+ },
+ "17001": {
+  "en": "Achieved great strength as a Rogue Cultivator who had never joined a Sect, becoming the Carefree Priest.",
+  "ch": "作为一介从未加入过宗门的散修，仍实力非凡，成为逍遥道人。"
+ },
+ "17002": {
+  "en": "Achieved great strength as a Rogue Cultivator who had never joined a Sect, becoming the Carefree Sage.",
+  "ch": "作为一介从未加入过宗门的散修，仍实力非凡，成为逍遥真人。"
+ },
+ "17003": {
+  "en": "Achieved great strength as a Rogue Cultivator who had never joined a Sect, becoming the Carefree Sovereign.",
+  "ch": "作为一介从未加入过宗门的散修，仍实力非凡，成为逍遥真君。"
+ },
+ "17004": {
+  "en": "Achieved great strength as a Rogue Cultivator who had never joined a Sect, becoming the Carefree Deity.",
+  "ch": "作为一介从未加入过宗门的散修，仍实力非凡，成为逍遥天尊。"
+ },
+ "17005": {
+  "en": "Gain proficiency in various kinds of elixir recipes to become an Elixir Priest.",
+  "ch": "精通各种丹方，成为灵丹道人。"
+ },
+ "17006": {
+  "en": "Gain proficiency in various kinds of elixir recipes to become an Elixir Sage.",
+  "ch": "精通各种丹方，成为灵丹真人。"
+ },
+ "17007": {
+  "en": "Gain proficiency in various kinds of elixir recipes to become an Elixir Sovereign.",
+  "ch": "精通各种丹方，成为灵丹真君。"
+ },
+ "17008": {
+  "en": "Gain proficiency in various kinds of elixir recipes to become an Elixir Deity.",
+  "ch": "精通各种丹方，成为灵丹天尊。"
+ },
+ "17009": {
+  "en": "Gain proficiency in various kinds of forge charts to become a Forge Priest.",
+  "ch": "精通各种器谱，成为灵宝道人。"
+ },
+ "17010": {
+  "en": "Gain proficiency in various kinds of forge charts to become a Forge Sage.",
+  "ch": "精通各种器谱，成为灵宝真人。"
+ },
+ "17011": {
+  "en": "Gain proficiency in various kinds of forge charts to become a Forge Sovereign.",
+  "ch": "精通各种器谱，成为灵宝真君。"
+ },
+ "17012": {
+  "en": "Gain proficiency in various kinds of forge charts to become a Forge Deity.",
+  "ch": "精通各种器谱，成为灵宝天尊。"
+ },
+ "17013": {
+  "en": "Become skilled in the various Heavenly Arts and become the Blessed Deity.",
+  "ch": "精通各种仙法，成为万法天尊。"
+ },
+ "17014": {
+  "en": "Train the various Immortal Chickens and obtain many of them to become the Immortal Chicken Cultivator.",
+  "ch": "善于训练各种仙鸡，并拥有诸多仙鸡，成为御鸡道人。"
+ },
+ "17015": {
+  "en": "Train the various Immortal Chickens and obtain many of them to become the Chicken Commander.",
+  "ch": "善于训练各种仙鸡，并拥有诸多仙鸡，成为御鸡真人。"
+ },
+ "17016": {
+  "en": "Train the various Immortal Chickens and obtain many of them to become the Chicken Marshal.",
+  "ch": "善于训练各种仙鸡，并拥有诸多仙鸡，成为御鸡真君。"
+ },
+ "17017": {
+  "en": "Train the various Immortal Chickens and obtain many of them to become the Chicken Deity.",
+  "ch": "善于训练各种仙鸡，并拥有诸多仙鸡，成为御鸡天尊。"
+ },
+ "17018": {
+  "en": "Fight bravely when the wave of monsters invades, slaying numerous monsters to become the Defender Deity.",
+  "ch": "在兽潮来袭时，奋勇杀敌，斩杀诸多妖兽，成为斩妖天尊。"
+ },
+ "17621": {
+  "en": "Defeat King Luhua the Battle Soul, and become the Chicken Deity.",
+  "ch": "战胜了斗魂-芦花王，成为御鸡天尊。"
+ },
+ "17700": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Blade Cultivator.",
+  "ch": "失去了永宁州第一刀修的道号。"
+ },
+ "17701": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Spear Cultivator.",
+  "ch": "失去了永宁州第一枪修的道号。"
+ },
+ "17702": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Sword Cultivator.",
+  "ch": "失去了永宁州第一剑修的道号。"
+ },
+ "17703": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Fist Cultivator.",
+  "ch": "失去了永宁州第一拳修的道号。"
+ },
+ "17704": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Palm Cultivator.",
+  "ch": "失去了永宁州第一掌修的道号。"
+ },
+ "17705": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Finger Cultivator.",
+  "ch": "失去了永宁州第一指修的道号。"
+ },
+ "17706": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Fire Cultivator.",
+  "ch": "失去了永宁州第一火修的道号。"
+ },
+ "17707": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Water Cultivator.",
+  "ch": "失去了永宁州第一水修的道号。"
+ },
+ "17708": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Lightning Cultivator.",
+  "ch": "失去了永宁州第一雷修的道号。"
+ },
+ "17709": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Wind Cultivator.",
+  "ch": "失去了永宁州第一风修的道号。"
+ },
+ "17710": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Earth Cultivator.",
+  "ch": "失去了永宁州第一土修的道号。"
+ },
+ "17711": {
+  "en": "Lost the Taoist Title of Yong Ning No.1 Wood Cultivator.",
+  "ch": "失去了永宁州第一木修的道号。"
+ },
+ "17712": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Blade Cultivator.",
+  "ch": "失去了华封州第一刀修的道号。"
+ },
+ "17713": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Spear Cultivator.",
+  "ch": "失去了华封州第一枪修的道号。"
+ },
+ "17714": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Sword Cultivator.",
+  "ch": "失去了华封州第一剑修的道号。"
+ },
+ "17715": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Fist Cultivator.",
+  "ch": "失去了华封州第一拳修的道号。"
+ },
+ "17716": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Palm Cultivator.",
+  "ch": "失去了华封州第一掌修的道号。"
+ },
+ "17717": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Finger Cultivator.",
+  "ch": "失去了华封州第一指修的道号。"
+ },
+ "17718": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Fire Cultivator.",
+  "ch": "失去了华封州第一火修的道号。"
+ },
+ "17719": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Water Cultivator.",
+  "ch": "失去了华封州第一水修的道号。"
+ },
+ "17720": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Lightning Cultivator.",
+  "ch": "失去了华封州第一雷修的道号。"
+ },
+ "17721": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Wind Cultivator.",
+  "ch": "失去了华封州第一风修的道号。"
+ },
+ "17722": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Earth Cultivator.",
+  "ch": "失去了华封州第一土修的道号。"
+ },
+ "17723": {
+  "en": "Lost the Taoist Title of Hua Feng No.1 Wood Cultivator.",
+  "ch": "失去了华封州第一木修的道号。"
+ },
+ "17724": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Blade Cultivator.",
+  "ch": "失去了云陌州第一刀修的道号。"
+ },
+ "17725": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Spear Cultivator.",
+  "ch": "失去了云陌州第一枪修的道号。"
+ },
+ "17726": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Sword Cultivator.",
+  "ch": "失去了云陌州第一剑修的道号。"
+ },
+ "17727": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Fist Cultivator.",
+  "ch": "失去了云陌州第一拳修的道号。"
+ },
+ "17728": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Palm Cultivator.",
+  "ch": "失去了云陌州第一掌修的道号。"
+ },
+ "17729": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Finger Cultivator.",
+  "ch": "失去了云陌州第一指修的道号。"
+ },
+ "17730": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Fire Cultivator.",
+  "ch": "失去了云陌州第一火修的道号。"
+ },
+ "17731": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Water Cultivator.",
+  "ch": "失去了云陌州第一水修的道号。"
+ },
+ "17732": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Lightning Cultivator.",
+  "ch": "失去了云陌州第一雷修的道号。"
+ },
+ "17733": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Wind Cultivator.",
+  "ch": "失去了云陌州第一风修的道号。"
+ },
+ "17734": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Earth Cultivator.",
+  "ch": "失去了云陌州第一土修的道号。"
+ },
+ "17735": {
+  "en": "Lost the Taoist Title of Yun Mo No.1 Wood Cultivator.",
+  "ch": "失去了云陌州第一木修的道号。"
+ },
+ "17736": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Blade Cultivator.",
+  "ch": "失去了暮仙州第一刀修的道号。"
+ },
+ "17737": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Spear Cultivator.",
+  "ch": "失去了暮仙州第一枪修的道号。"
+ },
+ "17738": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Sword Cultivator.",
+  "ch": "失去了暮仙州第一剑修的道号。"
+ },
+ "17739": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Fist Cultivator.",
+  "ch": "失去了暮仙州第一拳修的道号。"
+ },
+ "17740": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Palm Cultivator.",
+  "ch": "失去了暮仙州第一掌修的道号。"
+ },
+ "17741": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Finger Cultivator.",
+  "ch": "失去了暮仙州第一指修的道号。"
+ },
+ "17742": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Fire Cultivator.",
+  "ch": "失去了暮仙州第一火修的道号。"
+ },
+ "17743": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Water Cultivator.",
+  "ch": "失去了暮仙州第一水修的道号。"
+ },
+ "17744": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Lightning Cultivator.",
+  "ch": "失去了暮仙州第一雷修的道号。"
+ },
+ "17745": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Wind Cultivator.",
+  "ch": "失去了暮仙州第一风修的道号。"
+ },
+ "17746": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Earth Cultivator.",
+  "ch": "失去了暮仙州第一土修的道号。"
+ },
+ "17747": {
+  "en": "Lost the Taoist Title of Mu Xian No.1 Wood Cultivator.",
+  "ch": "失去了暮仙州第一木修的道号。"
+ },
+ "17800": {
+  "en": "Lost the Taoist Title of Charmer Disciple.",
+  "ch": "失去了风流道子的道号。"
+ },
+ "17801": {
+  "en": "Lost the Taoist Title of Charmer Priest.",
+  "ch": "失去了风流道人的道号。"
+ },
+ "17802": {
+  "en": "Lost the Taoist Title of Charmer Sage.",
+  "ch": "失去了风流真人的道号。"
+ },
+ "17803": {
+  "en": "Lost the Taoist Title of Charmer Sovereign.",
+  "ch": "失去了风流真君的道号。"
+ },
+ "17804": {
+  "en": "Lost the Taoist Title of Charmer Deity.",
+  "ch": "失去了风流天尊的道号。"
+ },
+ "17900": {
+  "en": "Lost the Taoist Title of Yong Ning Champion.",
+  "ch": "失去了永宁魁首的道号。"
+ },
+ "17901": {
+  "en": "Lost the Taoist Title of Hua Feng Champion.",
+  "ch": "失去了华封魁首的道号。"
+ },
+ "17902": {
+  "en": "Lost the Taoist Title of Yun Mo Champion.",
+  "ch": "失去了云陌魁首的道号。"
+ },
+ "17903": {
+  "en": "Lost the Taoist Title of Mu Xian Champion.",
+  "ch": "失去了暮仙魁首的道号。"
+ },
+ "18000": {
+  "en": "Lost the Taoist Title of Fashion Connoisseur.",
+  "ch": "失去了霓裳仙君的道号。"
+ },
+ "18001": {
+  "en": "Lost the Taoist Title of Fashion Connoisseuse.",
+  "ch": "失去了霓裳仙子的道号。"
+ },
+ "18100": {
+  "en": "Lost the Taoist Title of Carefree Disciple.",
+  "ch": "失去了逍遥道子的道号。"
+ },
+ "18101": {
+  "en": "Lost the Taoist Title of Carefree Priest.",
+  "ch": "失去了逍遥道人的道号。"
+ },
+ "18102": {
+  "en": "Lost the Taoist Title of Carefree Sage.",
+  "ch": "失去了逍遥真人的道号。"
+ },
+ "18103": {
+  "en": "Lost the Taoist Title of Carefree Sovereign.",
+  "ch": "失去了逍遥真君的道号。"
+ },
+ "18104": {
+  "en": "Lost the Taoist Title of Carefree Deity.",
+  "ch": "失去了逍遥天尊的道号。"
+ },
+ "18105": {
+  "en": "Lost the title of Elixir Priest.",
+  "ch": "失去了灵丹道人的道号。"
+ },
+ "18106": {
+  "en": "Lost the title of Elixir Sage.",
+  "ch": "失去了灵丹真人的道号。"
+ },
+ "18107": {
+  "en": "Lost the title of Elixir Sovereign.",
+  "ch": "失去了灵丹真君的道号。"
+ },
+ "18108": {
+  "en": "Lost the title of Elixir Deity.",
+  "ch": "失去了灵丹天尊的道号。"
+ },
+ "18109": {
+  "en": "Lost the title of Forge Priest.",
+  "ch": "失去了灵宝道人的道号。"
+ },
+ "18110": {
+  "en": "Lost the title of Forge Sage.",
+  "ch": "失去了灵宝真人的道号。"
+ },
+ "18111": {
+  "en": "Lost the title of Forge Sovereign.",
+  "ch": "失去了灵宝真君的道号。"
+ },
+ "18112": {
+  "en": "Lost the title of Forge Deity.",
+  "ch": "失去了灵宝天尊的道号。"
+ },
+ "18113": {
+  "en": "Lost the Taoist title of Chicken Leader.",
+  "ch": "失去了御鸡道人的道号。"
+ },
+ "18114": {
+  "en": "Lost the Taoist title of Chicken Commander.",
+  "ch": "失去了御鸡真人的道号。"
+ },
+ "18115": {
+  "en": "Lost the Taoist title of Chicken Marshal.",
+  "ch": "失去了御鸡真君的道号。"
+ },
+ "18116": {
+  "en": "Lost the Taoist title of Chicken Deity.",
+  "ch": "失去了御鸡天尊的道号。"
+ },
+ "20001": {
+  "en": "There was a dramatic change in the sky when you went out, and you were struck by a lightning bolt that you could not avoid in time.",
+  "ch": "外出时遭逢天象剧变，躲闪不及被雷击中。"
+ },
+ "201000": {
+  "en": "Target is sizing you up.",
+  "ch": "对方正在注视着你"
+ },
+ "201100": {
+  "en": "Target is evaluating your power and background.",
+  "ch": "对方正在评估你的实力与背景"
+ },
+ "201200": {
+  "en": "Target is estimating their chance of defeating you.",
+  "ch": "对方正在估算获胜的概率"
+ },
+ "201300": {
+  "en": "Target is evaluating your faction and their relationship with you.",
+  "ch": "对方正在评估双方的立场与利害关系"
+ },
+ "201400": {
+  "en": "Target decides to fight you!",
+  "ch": "对方决定与你开战！"
+ },
+ "201500": {
+  "en": "Target doesn't want to fight you and is about to escape!",
+  "ch": "对方不想与你开战，准备逃跑！"
+ },
+ "201800": {
+  "en": "Target is checking the item you gave them.",
+  "ch": "对方正在查看你奉上的道具"
+ },
+ "201900": {
+  "en": "Target frowns and turns around, motioning for you to scram!",
+  "ch": "对方微微皱眉，转过头去，并向你做了一个快滚的手势！"
+ },
+ "202000": {
+  "en": "Target gives you a murderous look and decides to kill you!",
+  "ch": "对方目光一冷，决定将你斩杀！"
+ },
+ "202010": {
+  "en": "That person gives a sneer and decides to humiliate you!",
+  "ch": "对方冷笑一声，决定羞辱于你！"
+ },
+ "202100": {
+  "en": "Target can no longer fight back.",
+  "ch": "对方已经无力反击"
+ },
+ "202200": {
+  "en": "Target is weighing their options.",
+  "ch": "对方正在进行思想斗争"
+ },
+ "202300": {
+  "en": "Target is checking their Inventory.",
+  "ch": "对方正在查看自己的背包"
+ },
+ "202400": {
+  "en": "Target decides to beg for their life.",
+  "ch": "对方决定向你求饶！"
+ },
+ "202500": {
+  "en": "Target would rather die than surrender!",
+  "ch": "对方傲骨峥峥，宁死不屈！"
+ },
+ "202800": {
+  "en": "Target is evaluating your power.",
+  "ch": "对方正在评估你的实力"
+ },
+ "202900": {
+  "en": "Target frowns and leaves in a hurry.",
+  "ch": "对方眉头紧皱，匆匆的离开了！"
+ },
+ "203000": {
+  "en": "Target is furious and begins attacking you.",
+  "ch": "对方怒不可遏，向你发起了进攻！"
+ },
+ "203100": {
+  "en": "Target is evaluating the importance of this item.",
+  "ch": "对方正在评估此道具的重要性"
+ },
+ "203200": {
+  "en": "Target is trying to decide if this item is useful to a family member or friend.",
+  "ch": "对方正在考虑亲朋好友是否需要此道具"
+ },
+ "203300": {
+  "en": "Target is evaluating the relationship between you two.",
+  "ch": "对方正在审视你们之间的交情"
+ },
+ "203400": {
+  "en": "Target grants your request!",
+  "ch": "对方同意了你的索求！"
+ },
+ "203500": {
+  "en": "Target rejects your request!",
+  "ch": "对方拒绝了你的索求！"
+ },
+ "203600": {
+  "en": "Target is evaluating their own Stamina.",
+  "ch": "对方正在评估自己的精力"
+ },
+ "203800": {
+  "en": "Target is evaluating the power difference between you two.",
+  "ch": "对方正在考虑你们双方之间的实力差距"
+ },
+ "203900": {
+  "en": "Target grants your request to spar!",
+  "ch": "对方同意了你的切磋请求！"
+ },
+ "204000": {
+  "en": "Target rejects your request to spar!",
+  "ch": "对方拒绝了你的切磋请求！"
+ },
+ "204100": {
+  "en": "Target is looking at this item.",
+  "ch": "对方正在注视此道具"
+ },
+ "204200": {
+  "en": "Target is evaluating the value of this item.",
+  "ch": "对方正在打量此道具的价值"
+ },
+ "204400": {
+  "en": "Target accepts your gift!",
+  "ch": "对方接受了你的赠送！"
+ },
+ "204500": {
+  "en": "Target rejects your gift!",
+  "ch": "对方拒绝了你的赠送！"
+ },
+ "204600": {
+  "en": "Target is evaluating your appearance.",
+  "ch": "对方正在打量你的外貌"
+ },
+ "204700": {
+  "en": "Target is evaluating your personality.",
+  "ch": "对方正在思考你的性格"
+ },
+ "204801": {
+  "en": "Target is evaluating your reputation.",
+  "ch": "对方正在考虑你的声望！"
+ },
+ "204900": {
+  "en": "Target accepts your request!",
+  "ch": "对方决定接受你的请求！"
+ },
+ "205400": {
+  "en": "Target is evaluating their relationship with {0}.",
+  "ch": "对方正在考虑与{0}的关系"
+ },
+ "205600": {
+  "en": "Target is evaluating what their close ones would think.",
+  "ch": "对方正在考虑亲密的人的立场"
+ },
+ "205900": {
+  "en": "Target agrees with your opinion.",
+  "ch": "对方赞同了你的观点！"
+ },
+ "206000": {
+  "en": "Target objects to your opinion.",
+  "ch": "对方反对了你的观点！"
+ },
+ "206800": {
+  "en": "Target is evaluating your background.",
+  "ch": "对方正在考量你的背景"
+ },
+ "207100": {
+  "en": "Target agrees to quit bidding.",
+  "ch": "对方同意退出竞价！"
+ },
+ "207200": {
+  "en": "Target refuses to quit bidding.",
+  "ch": "对方拒绝退出竞价！"
+ },
+ "207600": {
+  "en": "Target agrees to leave.",
+  "ch": "对方同意离开！"
+ },
+ "207700": {
+  "en": "Target refuses to leave.",
+  "ch": "对方拒绝离开！"
+ },
+ "208100": {
+  "en": "{0} decides to help you!",
+  "ch": "{0}决定出手助你！"
+ },
+ "208200": {
+  "en": "{0} decides not to get involved!",
+  "ch": "{0}决定暂且观望！"
+ },
+ "208300": {
+  "en": "{0} is evaluating the relationship between you two.",
+  "ch": "{0}正在考虑与你的交情"
+ },
+ "208400": {
+  "en": "{0} is evaluating the enemy's power.",
+  "ch": "{0}正在审视敌人的实力"
+ },
+ "209700": {
+  "en": "Target is evaluating the friendship between you two.",
+  "ch": "对方正在考虑与你的交情"
+ },
+ "210900": {
+  "en": "Target is evaluating your appearance...",
+  "ch": "对方正在打量你的外貌......"
+ },
+ "211000": {
+  "en": "Target is evaluating your personality...",
+  "ch": "对方正在思考你的性格......"
+ },
+ "211100": {
+  "en": "Target is evaluating the relationship between you two...",
+  "ch": "对方正在审视你们之间的交情......"
+ },
+ "211400": {
+  "en": "{0} is checking out {1}'s appearance...",
+  "ch": "{0}正在打量{1}的外貌......"
+ },
+ "211500": {
+  "en": "{0} is thinking about {1}'s personality...",
+  "ch": "{0}正在思考{1}的性格......"
+ },
+ "211600": {
+  "en": "{0} is evaluating the relationship with {1}...",
+  "ch": "{0}正在审视与{1}之间的交情......"
+ },
+ "211700": {
+  "en": "{0} decides to obey your orders!",
+  "ch": "{0}决定服从你的分配！"
+ },
+ "211800": {
+  "en": "{0} objects to this assignment!",
+  "ch": "{0}对本次分配有异议！"
+ },
+ "212000": {
+  "en": "{0} agrees to your request!",
+  "ch": "{0}同意了你的请求！"
+ },
+ "212100": {
+  "en": "{0} refuses your request!",
+  "ch": "{0}拒绝了你的请求！"
+ },
+ "212200": {
+  "en": "{0} is evaluating the relationship between you two",
+  "ch": "{0}正在考虑与你的交情"
+ },
+ "212300": {
+  "en": "{0} is evaluating your power",
+  "ch": "{0}正在审视你的实力"
+ },
+ "212400": {
+  "en": "Target is checking your energy status...",
+  "ch": "对方正在检查自己的精神状态......"
+ },
+ "212600": {
+  "en": "Target is sizing up your energy status...",
+  "ch": "对方正在打量你的精神状态......"
+ },
+ "301000": {
+  "en": "To become stronger: ",
+  "ch": "基于自我成长的需求，"
+ },
+ "301200": {
+  "en": "For the sake of a Child: ",
+  "ch": "基于对子女的情感需求，"
+ },
+ "301300": {
+  "en": "For the sake of a Parent: ",
+  "ch": "基于对父母的情感需求，"
+ },
+ "301400": {
+  "en": "For the sake of love: ",
+  "ch": "基于对爱情的情感需求，"
+ },
+ "301600": {
+  "en": "For the sake of a Sibling: ",
+  "ch": "基于对兄弟姐妹的情感需求，"
+ },
+ "301700": {
+  "en": "For the sake of an Apprentice : ",
+  "ch": "基于对徒弟的情感需求，"
+ },
+ "301800": {
+  "en": "For the sake of a Master: ",
+  "ch": "基于对师父的情感需求，"
+ },
+ "301900": {
+  "en": "For the sake of friendship: ",
+  "ch": "基于对朋友的情感需求，"
+ },
+ "302000": {
+  "en": "Due to the hatred for an Enemy: ",
+  "ch": "基于对仇人的憎恨，"
+ },
+ "302100": {
+  "en": "To defend the honor of the clan: ",
+  "ch": "基于对宗门的捍卫，"
+ },
+ "302200": {
+  "en": "To defend the faction: ",
+  "ch": "基于对立场的捍卫，"
+ },
+ "302300": {
+  "en": "To help one's child reach a higher Realm soon",
+  "ch": "为了让子女早日突破至更高境界。"
+ },
+ "302400": {
+  "en": "To increase one's child's strength",
+  "ch": "为了让子女提升实力。"
+ },
+ "302500": {
+  "en": "To quickly increase one's child's strength after reaching a new Realm",
+  "ch": "为了让子女在突破之后迅速提升实力。"
+ },
+ "302600": {
+  "en": "To help lover reach a higher Realm soon.",
+  "ch": "为了让爱侣早日突破至更高境界。"
+ },
+ "302700": {
+  "en": "To increase lover's strength.",
+  "ch": "为了让爱侣提升实力。"
+ },
+ "303000": {
+  "en": "To help brothers and sisters reach a higher Realm soon.",
+  "ch": "为了让兄弟姐妹早日突破至更高境界。"
+ },
+ "303100": {
+  "en": "To help brothers and sisters increase their strength.",
+  "ch": "为了让兄弟姐妹提升实力。"
+ },
+ "303200": {
+  "en": "To help pprentice reach a higher Realm soon.",
+  "ch": "为了让徒弟早日突破至更高境界。"
+ },
+ "303300": {
+  "en": "To help increase student's strength.",
+  "ch": "为了让徒弟提升实力。"
+ },
+ "303400": {
+  "en": "To quickly increase student's strength after reaching a new Realm.",
+  "ch": "为了让徒弟在突破之后迅速提升实力。"
+ },
+ "310100": {
+  "en": "Searched for materials needed for reaching {0}.",
+  "ch": "以{0}为目标，寻找突破所需的材料。"
+ },
+ "310200": {
+  "en": "But couldn't find any suitable materials despite having searched for many days.",
+  "ch": "苦寻多日，也没有寻找到所需的材料。"
+ },
+ "310300": {
+  "en": "Wanted to reach {0}, but had to find the antidote first due to {1} (Destiny).",
+  "ch": "以{0}为目标，但受到气运{1}的影响，只能先寻找解药。"
+ },
+ "310400": {
+  "en": "But couldn't find any the antidote despite having searched for many days.",
+  "ch": "苦寻多日，也没有寻找到解药。"
+ },
+ "310500": {
+  "en": "Ready to breath through to {0} after collecting all the materials.",
+  "ch": "已收集齐所有材料，开始准备{0}渡劫。"
+ },
+ "310600": {
+  "en": "But had to cancel the plan due to an accident.",
+  "ch": "由于出现了一些意外，导致未能开始渡劫。"
+ },
+ "310700": {
+  "en": "Wanted to find more powerful Manuals.",
+  "ch": "认为自己的技能不够强大，想获得更强的秘籍。"
+ },
+ "310800": {
+  "en": "Traveled many places but still couldn't find a suitable Manual.",
+  "ch": "遍览多地，也没有找到更强的秘籍。"
+ },
+ "310900": {
+  "en": "Wanted to obtain more Elixirs.",
+  "ch": "认为当前的丹药不足够，想获得更多的丹药。"
+ },
+ "311000": {
+  "en": "Traveled many places but still couldn't find any suitable Elixirs.",
+  "ch": "遍览多地，也没有找到想要的丹药。"
+ },
+ "311100": {
+  "en": "Wanted to find more powerful Artifacts.",
+  "ch": "认为当前的法宝不够强大，想要更强的法宝。"
+ },
+ "311200": {
+  "en": "Traveled many places but still couldn't find any stronger Artifacts.",
+  "ch": "遍览多地，也没有找到更强的法宝。"
+ },
+ "311300": {
+  "en": "Wanted to cultivate in the sect.",
+  "ch": "认为自身修为不足，想回宗门进行修炼。"
+ },
+ "311500": {
+  "en": "Wanted to cultivate somewhere with richer Qi.",
+  "ch": "认为自身修为不足，想在附近寻找灵气高的地方进行修炼。"
+ },
+ "311600": {
+  "en": "But couldn't found a suitable place to cultivate due to an accident.",
+  "ch": "由于出现了一些意外，导致未能寻找到合适的地方修炼。"
+ },
+ "311700": {
+  "en": "Wanted to learn new skills.",
+  "ch": "想学习一些新的技能，以便提升自己的实力。"
+ },
+ "311900": {
+  "en": "Wanted to earn more Sect Contribution.",
+  "ch": "认为宗门贡献过少，想获取更多的宗门贡献。"
+ },
+ "312100": {
+  "en": "Wanted to kill enemies for the sect.",
+  "ch": "想为宗门铲除敌人。"
+ },
+ "312200": {
+  "en": "But couldn't find any sect enemies despite having searched for many days.",
+  "ch": "巡逻了多日，却没有遇到宗门的敌人。"
+ },
+ "312300": {
+  "en": "Wanted to pay a visit to {0}.",
+  "ch": "想念{0}，打算去看望一下对方。"
+ },
+ "312500": {
+  "en": "Wanted to take revenge on {0}!",
+  "ch": "想向仇人{0}报仇！"
+ },
+ "312700": {
+  "en": "Wanted to take revenge on {0}'s {1} {2}!",
+  "ch": "想向仇人{0}的{1}{2}报仇！"
+ },
+ "312900": {
+  "en": "Wanted to take revenge on {1} for {0}!",
+  "ch": "想为{0}向其仇人{1}报仇！"
+ },
+ "313100": {
+  "en": "Wanted to eliminate Cultivators from the enemy faction!",
+  "ch": "想要清除敌对立场的势力！"
+ },
+ "313200": {
+  "en": "But couldn't find any Cultivators from the enemy faction despite having searched for many days.",
+  "ch": "巡逻多日，却未遇到敌对立场的敌人。"
+ },
+ "313300": {
+  "en": "Wanted to find a Sword Manual.",
+  "ch": "想要收集一本剑法秘籍。"
+ },
+ "313400": {
+  "en": "Wanted to find a Blade Manual.",
+  "ch": "想要收集一本刀法秘籍。"
+ },
+ "313500": {
+  "en": "Wanted to find a Spear Manual.",
+  "ch": "想要收集一本枪法秘籍。"
+ },
+ "313600": {
+  "en": "Wanted to find a Fist Manual.",
+  "ch": "想要收集一本拳法秘籍。"
+ },
+ "313700": {
+  "en": "Wanted to find a Palm Manual.",
+  "ch": "想要收集一本掌法秘籍。"
+ },
+ "313800": {
+  "en": "Wanted to find a Finger Manual.",
+  "ch": "想要收集一本指法秘籍。"
+ },
+ "313900": {
+  "en": "Wanted to find a Fire Manual.",
+  "ch": "想要收集一本火系功法。"
+ },
+ "314000": {
+  "en": "Wanted to find a Water Manual.",
+  "ch": "想要收集一本水系功法。"
+ },
+ "314100": {
+  "en": "Wanted to find a Lightning Manual.",
+  "ch": "想要收集一本雷系功法。"
+ },
+ "314200": {
+  "en": "Wanted to find a Wind Manual.",
+  "ch": "想要收集一本风系功法。"
+ },
+ "314300": {
+  "en": "Wanted to find an Earth Manual.",
+  "ch": "想要收集一本土系功法。"
+ },
+ "314400": {
+  "en": "Wanted to find a Wood Manual.",
+  "ch": "想要收集一本木系功法。"
+ },
+ "314500": {
+  "en": "Wanted to spar with someone.",
+  "ch": "想要与人进行切磋。"
+ },
+ "314600": {
+  "en": "Wanted to learn skills from someone.",
+  "ch": "想向他人请教。"
+ },
+ "314700": {
+  "en": "Wanted to learn tips from someone.",
+  "ch": "想给予他人一些指点。"
+ },
+ "314800": {
+  "en": "Wanted to send items to someone.",
+  "ch": "想向他人赠送一些道具。"
+ },
+ "314900": {
+  "en": "Wanted to request items from someone.",
+  "ch": "想向他人索要一些道具。"
+ },
+ "315000": {
+  "en": "Wanted to steal from someone.",
+  "ch": "想对他人进行一次偷窃。"
+ },
+ "315100": {
+  "en": "Wanted to raid a tomb.",
+  "ch": "想进行一次挖墓。"
+ },
+ "315300": {
+  "en": "Wanted to kill someone.",
+  "ch": "难以抑制杀心，想大开杀戒一回。"
+ },
+ "315400": {
+  "en": "Wanted to concoct Elixirs.",
+  "ch": "想炼一炉丹。"
+ },
+ "315500": {
+  "en": "Wanted to forge Artifacts.",
+  "ch": "想进行一次炼器。"
+ },
+ "315600": {
+  "en": "Wanted to collect an Artifact.",
+  "ch": "想要收集一个法宝。"
+ },
+ "315700": {
+  "en": "Wanted to collect some Elixirs.",
+  "ch": "想要收集一些丹药。"
+ },
+ "315800": {
+  "en": "Wanted to collect some Poisons.",
+  "ch": "想要收集一些毒丹。"
+ },
+ "315900": {
+  "en": "Wanted to interact with male Cultivators.",
+  "ch": "想与男性进行交流和互动。"
+ },
+ "316000": {
+  "en": "Wanted to interact with female Cultivators.",
+  "ch": "想与女性进行交流和互动。"
+ },
+ "316100": {
+  "en": "Wanted to cultivate quietly for a while.",
+  "ch": "想潜心修炼一段时日。"
+ },
+ "316200": {
+  "en": "Wanted to gather some Herbs.",
+  "ch": "想要采集一些药草。"
+ },
+ "316300": {
+  "en": "Wanted to mine some Ores.",
+  "ch": "想要挖掘一些矿石。"
+ },
+ "316400": {
+  "en": "Wanted to loot a nearby Caravan.",
+  "ch": "想对附近的镖车下手。"
+ },
+ "316500": {
+  "en": "Wanted to take revenge on enemies.",
+  "ch": "想向仇人复仇。"
+ },
+ "316600": {
+  "en": "Wanted to fight monsters to practice.",
+  "ch": "想找点怪练练手。"
+ },
+ "316700": {
+  "en": "Wanted to escort a Caravan.",
+  "ch": "想押运一趟镖车。"
+ },
+ "318100": {
+  "en": "Traveled many places but still couldn't anyone to spar with.",
+  "ch": "游历多日，却没有找到合适的切磋对象。"
+ },
+ "318200": {
+  "en": "Traveled many places but still couldn't find anyone to learn skills from.",
+  "ch": "游历多日，却没有找到合适的请教对象。"
+ },
+ "318300": {
+  "en": "Traveled many places but still couldn't find anyone to learn tips from.",
+  "ch": "游历多日，却没有找到合适的指点对象。"
+ },
+ "318400": {
+  "en": "Traveled many places but still couldn't find anyone to send items to.",
+  "ch": "游历多日，却没有找到合适的赠送对象。"
+ },
+ "318500": {
+  "en": "Traveled many places but still couldn't find anyone to request items from.",
+  "ch": "游历多日，却没有找到合适的索要对象。"
+ },
+ "318600": {
+  "en": "Traveled many places but still couldn't find anyone to steal from.",
+  "ch": "游历多日，却没有找到合适的偷窃对象。"
+ },
+ "318700": {
+  "en": "Traveled many places but still couldn't a suitable tomb.",
+  "ch": "探寻多日，没有找到合适的墓穴。"
+ },
+ "318900": {
+  "en": "Traveled many places but still couldn't any suitable targets.",
+  "ch": "游荡多时，却没有找到合适的下手对象。"
+ },
+ "319000": {
+  "en": "Couldn't find all the materials needed despite having searched for many days.",
+  "ch": "准备多日，却没有收集齐所需要的材料。"
+ },
+ "319200": {
+  "en": "Traveled many places but still couldn't find any suitable Artifacts.",
+  "ch": "遍览多地，也没有找到适合的法宝。"
+ },
+ "319500": {
+  "en": "Traveled many places but still couldn't find anyone suitable to interact with.",
+  "ch": "游历多日，却没有找到合适的交流对象。"
+ },
+ "319800": {
+  "en": "Traveled many places but still couldn't find a suitable place to gather Herbs from.",
+  "ch": "探寻多日，没有找到合适的药谷。"
+ },
+ "319900": {
+  "en": "Traveled many places but still couldn't find a suitable place to mine Ores from.",
+  "ch": "探寻多日，没有找到合适的矿山。"
+ },
+ "320100": {
+  "en": "But couldn't find the enemy despite having searched for many days.",
+  "ch": "追寻多日，却没有找到仇人。"
+ },
+ "320300": {
+  "en": "But the sect didn't have a Caravan to escort.",
+  "ch": "但宗门目前好像没有需要押运的镖车。"
+ },
+ "320500": {
+  "en": "For the sake of Health: Needed to restore Stamina.",
+  "ch": "基于健康的考虑，感觉精力不足，想要恢复一些精力。"
+ },
+ "320700": {
+  "en": "For the sake of survival: Needed to restore Health.",
+  "ch": "基于生存的考虑，感觉健康低下，想要恢复一些健康。"
+ },
+ "320900": {
+  "en": "For the sake of Health: Needed to do something fun to increase Mood.",
+  "ch": "基于健康的考虑，目前心情低落，想要做些有趣的事情来提升心情。"
+ },
+ "321100": {
+  "en": "For the sake of survival: Needed to save self.",
+  "ch": "基于对生存的需求，尝试进行自救。"
+ },
+ "321200": {
+  "en": "But didn't have any lifesaving Elixirs.",
+  "ch": "但身上却没有救命的丹药。"
+ },
+ "321300": {
+  "en": "For the sake of survival: Wanted to send letters to all friends and family members for help.",
+  "ch": "基于对生存的需求，向所有亲朋好友发出了求救信件。"
+ },
+ "321500": {
+  "en": "Wanted to get more Spirit Stones.",
+  "ch": "觉得身上的灵石过少，想获得一些灵石。"
+ },
+ "321700": {
+  "en": "Wanted to sort out Inventory, freeing up more space to store new items.",
+  "ch": "想清理一下背包，以免背包满了无法再获得道具了。"
+ },
+ "321900": {
+  "en": "Wanted to recuperate somewhere to remove negative Destinies.",
+  "ch": "想找个地方休养，以清除掉身上的一些负面气运。"
+ },
+ "322100": {
+  "en": "Wanted to use antidotes to remove negative Destinies.",
+  "ch": "想使用解药来解除身上的一些负面气运。"
+ },
+ "322300": {
+  "en": "Wanted to find antidotes to remove negative Destinies.",
+  "ch": "想找到解药来解除身上的一些负面气运。"
+ },
+ "322500": {
+  "en": "Successfully used {0} to remove {1} (Destiny).",
+  "ch": "使用了{0}，成功解除了{1}气运。"
+ },
+ "322600": {
+  "en": "Used {0} but failed to remove {1} (Destiny).",
+  "ch": "使用了{0}，但仍未解除{1}气运。"
+ },
+ "322700": {
+  "en": "Wanted to find Elixirs that increase stats.",
+  "ch": "想寻找一些可以提升属性的丹药。"
+ },
+ "322900": {
+  "en": "Wanted to avenge {0}.",
+  "ch": "想为死去的{0}报仇。"
+ },
+ "323100": {
+  "en": "Wanted to earn Spirit Stones by completing bounty missions.",
+  "ch": "认为灵石较少，想通过悬赏赚取一些灵石。"
+ },
+ "323200": {
+  "en": "But couldn't find any suitable missions.",
+  "ch": "观察多日，没能找到合适的悬赏任务。"
+ },
+ "323300": {
+  "en": "Wanted to find the antidote to save the dying {0}.",
+  "ch": "因为{0}危在旦夕，想要寻找解药去救对方。"
+ },
+ "323400": {
+  "en": "But couldn't find it despite having searched for many days.",
+  "ch": "苦寻多日，却仍然没有找到解药。"
+ },
+ "323500": {
+  "en": "Wanted to deliver the antidote to save the dying {0}.",
+  "ch": "因为{0}危在旦夕，想要将身上的解药送去给对方。"
+ },
+ "323700": {
+  "en": "Wanted to go to {2} and marry {0} in {1} as promised.",
+  "ch": "与{0}约定在{1}举办婚事，所以想前往{2}。"
+ },
+ "323900": {
+  "en": "Wanted to wait in {2} and marry {0} in {1} as promised.",
+  "ch": "与{0}约定在{1}举办婚事，所以在{2}等待对方的到来。"
+ },
+ "324100": {
+  "en": "Wanted to discuss {1} with {0}, hoping to improve the relationship between {0} and {1}.",
+  "ch": "想与{0}谈论{1}，提升{0}与{1}之间的关系。"
+ },
+ "324200": {
+  "en": "But couldn't find {0} despite having searched for many days.",
+  "ch": "寻找多日，并未找到{0}的踪影。"
+ },
+ "324300": {
+  "en": "Wanted to discuss {1} with {0}, hoping to resolve the differences between {0} and {1}.",
+  "ch": "想与{0}谈论{1}，化解{0}与{1}之间的恩怨。"
+ },
+ "324500": {
+  "en": "Wanted to discuss {1} with {0}, hoping to worsen the relationship between {0} and {1}.",
+  "ch": "想与{0}谈论{1}，恶化{0}与{1}之间的关系。"
+ },
+ "324700": {
+  "en": "Wanted to discuss {1} with {0}, letting them know how powerful {1} is.",
+  "ch": "想与{0}谈论{1}，宣扬{1}的强大。"
+ },
+ "324900": {
+  "en": "Wanted to discuss {1} with {0}, hoping {0} could defect to the {1} faction.",
+  "ch": "想与{0}谈论{1}，希望{0}投向{1}。"
+ },
+ "324901": {
+  "en": "Wanted to talk to {0}.",
+  "ch": "想与{0}交谈。"
+ },
+ "325100": {
+  "en": "Wanted to find a better mount.",
+  "ch": "对当前的坐骑不甚满意，想寻找更强大的坐骑。"
+ },
+ "325200": {
+  "en": "Traveled many places but still couldn't find any suitable mounts.",
+  "ch": "遍览多地，也没有找到满意的坐骑。"
+ },
+ "325300": {
+  "en": "Wanted to find a better ring.",
+  "ch": "对当前的戒指不甚满意，想寻找更强大的戒指。"
+ },
+ "325400": {
+  "en": "Traveled many places but still couldn't find any suitable rings.",
+  "ch": "遍览多地，也没有找到满意的戒指。"
+ },
+ "325500": {
+  "en": "Wanted to get stronger by increasing skill stats.",
+  "ch": "认为提升技能的属性可令自己的实力大增，决定专心修炼技能。"
+ },
+ "325600": {
+  "en": "This plan failed due to the lack of materials.",
+  "ch": "由于修炼的材料不足，导致无法修炼技能。"
+ },
+ "325700": {
+  "en": "Wanted to get stronger by enhancing skill effects.",
+  "ch": "认为提升技能的效果可令自己的实力大增，决定专心修炼技能。"
+ },
+ "325900": {
+  "en": "Wanted to discuss {name|C} with {name|B}, hoping to sabotage the relationship between {name|B} and {name|C}.",
+  "ch": "想与{name|B}谈论{name|C}，破坏{name|B}与{name|C}之间的关系。"
+ },
+ "326000": {
+  "en": "But couldn't find {name|B} despite having searched for many days.",
+  "ch": "寻找多日，并未找到{name|B}的踪影。"
+ },
+ "326100": {
+  "en": "Wanted to discuss {name|C} with {name|B}, hoping to worsen the relationship between {name|B} and {name|C}.",
+  "ch": "想与{name|B}谈论{name|C}，恶化{name|B}与{name|C}之间的关系。"
+ },
+ "326500": {
+  "en": "Wanted nothing to do with {0} as Hatred for {0} growing by the day.",
+  "ch": "对{0}的怨念与日俱增，与{0}恩断义绝！"
+ },
+ "326600": {
+  "en": "Relationship with {0} changed to: {1}.",
+  "ch": "与{0}的关系变为{1}。"
+ },
+ "326700": {
+  "en": "Wanted to get more Skill Points by talking to someone powerful.",
+  "ch": "认为自身的道点不足，想与强者进行交流，提升自己的修道心得。"
+ },
+ "326800": {
+  "en": "Traveled many places but still couldn't find anyone suitable.",
+  "ch": "遍览多地，也没有找到合适的强者。"
+ },
+ "326900": {
+  "en": "{0} was killed by {1} and I want revenge!",
+  "ch": "想为死去的{0}向其仇人{1}报仇！"
+ },
+ "327000": {
+  "en": "Due to the hatred for an enemy, {0} was killed by {1} and I want revenge!",
+  "ch": "基于对仇人的憎恨，想为死去的{0}向其仇人{1}报仇！"
+ },
+ "327100": {
+  "en": "I want to thank {0} for sending me clothes.",
+  "ch": "因收到{0}赠送的衣服，想与对方表示感谢。"
+ },
+ "327200": {
+  "en": "You don't find the other person after looking everywhere.",
+  "ch": "遍览多地，也没有找到对方。"
+ },
+ "327300": {
+  "en": "An artifact's durability is low, and you want to repair it.",
+  "ch": "发现法宝的耐久度不足，想要修复法宝。"
+ },
+ "327500": {
+  "en": "Perished while on a Sect Mission!",
+  "ch": "在执行宗门任务的过程中，不幸陨落！"
+ },
+ "327600": {
+  "en": "Became dissatisfied with the Sect and decided to leave.",
+  "ch": "因为对宗门心生不满，退出了宗门！"
+ },
+ "327601": {
+  "en": "You don't get along with the other Disciples and leave the Sect.",
+  "ch": "与同宗弟子不和，离开宗门。"
+ },
+ "327602": {
+  "en": "You're kicked out of the Sect due to rule violation.",
+  "ch": "触犯门规被驱逐。"
+ },
+ "327603": {
+  "en": "You haven't obtained enough cultivation resources and leave the Sect.",
+  "ch": "获得的修炼资源不足 离开宗门。"
+ },
+ "327700": {
+  "en": "Went on a date with {0} and missed the True Disciple test.",
+  "ch": "因为与{0}邀约错过了真传弟子比试。"
+ },
+ "327800": {
+  "en": "Submitted a request to {0}{1} to redistribute staffing among different departments of the Sect.",
+  "ch": "向{0}{1}请求重新分配宗门部门人口配比。"
+ },
+ "327801": {
+  "en": "{0}{1} agreed to the request!",
+  "ch": "{0}{1}同意了请求！"
+ },
+ "327802": {
+  "en": "{0}{1} rejected the request!",
+  "ch": "{0}{1}拒绝了请求！"
+ },
+ "327901": {
+  "en": "Feels inadequate and wishes to improve {0}.",
+  "ch": "认为自己的实力还不够强大，想要提升自身的{0}。"
+ },
+ "327902": {
+  "en": "After days of training, was unable to improve.",
+  "ch": "苦修多日，也没能提升实力。"
+ },
+ "327903": {
+  "en": "Feels inadequate and wishes to improve their own skills.",
+  "ch": "认为自己的实力还不够强大，想要提升自身的实力。"
+ },
+ "327905": {
+  "en": "Wanted to challenge {1} {2} in pursuit of {0}.",
+  "ch": "基于对{0}的追求，想要向{1}{2}发起挑战。"
+ },
+ "328000": {
+  "en": "Wishes to find a like-minded {0} fighter in search of {0}.",
+  "ch": "基于对{0}的追追求，想要寻找志同道合的{0}高手。"
+ },
+ "328100": {
+  "en": "You've grown distant from {0}. You're no longer in a mentorship with {0}.",
+  "ch": "与{0}的关系日渐疏远，解除了与{0}的师徒关系。"
+ },
+ "328200": {
+  "en": "You've grown distant from {0}. {0} no longer wants to be in a mentorship with you.",
+  "ch": "与{0}的关系日渐疏远，{0}解除了与我的师徒关系。"
+ },
+ "328300": {
+  "en": "You completed Sect Mission <b>{0}</b>",
+  "ch": "完成了宗门任务<b>{0}</b>。"
+ },
+ "328301": {
+  "en": "You completed Sect Assignment <b>{0}</b>",
+  "ch": "完成了宗门派遣任务<b>{0}</b>。"
+ },
+ "328302": {
+  "en": "Carry out Sect Mission <b>{0}</b> failed.",
+  "ch": "执行宗门任务<b>{0}</b>失败。"
+ },
+ "328303": {
+  "en": "Carry out Sect Assignment <b>{0}</b> failed.",
+  "ch": "执行宗门派遣任务<b>{0}</b>失败。"
+ },
+ "331101": {
+  "en": "Posted a lost and found bounty in {0}.",
+  "ch": "在{0}发布了寻找物品的悬赏。"
+ },
+ "331102": {
+  "en": "Retrieved {1} thanks to {0}'s help.",
+  "ch": "受{0}的帮助，找回了{1}。"
+ },
+ "331103": {
+  "en": "Helped {0} retrieve {1}.",
+  "ch": "帮助{0}找回了{1}"
+ },
+ "331104": {
+  "en": "Wanted to retrieve a lost item.",
+  "ch": "想要寻回失物。"
+ },
+ "331105": {
+  "en": "Posted a bounty in {0} asking for help.",
+  "ch": "在{0}发布了寻求帮助的悬赏。"
+ },
+ "331106": {
+  "en": "Looted {0}.",
+  "ch": "洗劫了{0}。"
+ },
+ "331107": {
+  "en": "Looted by {0}.",
+  "ch": "被{0}洗劫。"
+ },
+ "331108": {
+  "en": "Successfully cleared a Monster Lair thanks to {0}'s help.",
+  "ch": "受{0}的帮助，成功讨伐妖兽巢穴。"
+ },
+ "331109": {
+  "en": "Helped {0} clear a Monster Lair.",
+  "ch": "帮助{0}讨伐了妖兽巢穴。"
+ },
+ "331115": {
+  "en": "Posted a bounty in {1} asking someone to rescue {0} because {0} was in great danger.",
+  "ch": "因为{0}危在旦夕，在{1}发布了救助{0}的悬赏。"
+ },
+ "331116": {
+  "en": "Trapped inside a Monster Lair and was in great danger.",
+  "ch": "受困于妖兽巢穴，性命危在旦夕。"
+ },
+ "331117": {
+  "en": "Successfully rescued {1} from the Monster Lair with {0}'s help.",
+  "ch": "受到{0}的帮助后，成功将{1}从妖兽巢穴中救出。"
+ },
+ "331118": {
+  "en": "Helped {0} rescue {1} from the Monster Lair.",
+  "ch": "帮助了{0}将{1}从妖兽巢穴中救出。"
+ },
+ "331119": {
+  "en": "Escaped from the Monster Lair with {0}'s hep.",
+  "ch": "受到{0}的帮助，成功从妖兽巢穴中逃离。"
+ },
+ "331120": {
+  "en": "Finally escaped from the Monster Lair after being trapped for days.",
+  "ch": "受困多日后，终于寻到机会逃离了妖兽巢穴。"
+ },
+ "331121": {
+  "en": "Finally rescued by {0} from the Monster Lair after being trapped for days.",
+  "ch": "受困多日后，在{0}的帮助下逃离了妖兽巢穴。"
+ },
+ "331122": {
+  "en": "Posted a bounty in {0} asking to kill {1}.",
+  "ch": "在{0}发布了击杀{1}的悬赏。"
+ },
+ "331123": {
+  "en": "Helped {0} kill {1}.",
+  "ch": "帮助{0}击杀了{1}。"
+ },
+ "331124": {
+  "en": "Retrieved {0}'s {1} and completed the sect mission.",
+  "ch": "寻回了{0}的{1}，完成了宗门任务。"
+ },
+ "331125": {
+  "en": "Completed the sect mission by killing the enemy.",
+  "ch": "完成了击杀敌道的宗门任务。"
+ },
+ "331126": {
+  "en": "Asked {0} for help. {0} agreed.",
+  "ch": "向{0}寻求帮助，{0}答应了我的请求。"
+ },
+ "331127": {
+  "en": "Asked {0} for help. {0} refused.",
+  "ch": "向{0}寻求帮助，{0}拒绝帮助我。"
+ },
+ "331128": {
+  "en": "Agreed to help {0} find their lost item.",
+  "ch": "答应了帮助{0}寻回失物。"
+ },
+ "331129": {
+  "en": "Refused to help {0} find their lost item.",
+  "ch": "拒绝帮助{0}寻回失物。"
+ },
+ "331130": {
+  "en": "Had a meaningful debate with {0}. Both gained Knowledge and became closer!",
+  "ch": "与{0}进行论道，气氛融洽，获得了心得并且双方的关系更加亲密了！"
+ },
+ "331131": {
+  "en": "Had a fight with {0} during a debate. Both gained Knowledge, but the relationship worsened.",
+  "ch": "与{0}进行论道，论道过程中发生了争执，获得了心得并且双方的关系下降了！"
+ },
+ "331132": {
+  "en": "The request for a debate was turned down by {0}.",
+  "ch": "邀请{0}进行论道，但却被对方拒绝了！"
+ },
+ "331133": {
+  "en": "{0} and I had a meaningful debate. Both of us gained Knowledge, and we became closer!",
+  "ch": "{0}与我进行论道，气氛融洽，获得了心得并且双方的关系更加亲密了！"
+ },
+ "331134": {
+  "en": "{0} and I had a fight during our debate. We both gained Knowledge, but our relationship worsened.",
+  "ch": "{0}与我进行论道，论道过程中发生了争执，获得了心得并且双方的关系下降了！"
+ },
+ "331135": {
+  "en": "I turned down {0}'s request for a debate.",
+  "ch": "{0}请求与我进行论道，拒绝了对方的请求！"
+ },
+ "331136": {
+  "en": "Asked {0} to go on a trip near {1}. The target accepted this invitation.",
+  "ch": "邀约{0}到{1}附近同游，对方接受了邀请。"
+ },
+ "331137": {
+  "en": "Asked {0} to go on a trip near {1}. The target turned down this invitation.",
+  "ch": "邀约{0}到{1}附近同游，对方拒绝了。"
+ },
+ "331138": {
+  "en": "Went on a date with {0} near {1}.",
+  "ch": "与{0}邀约一同前往{1}附近。"
+ },
+ "331139": {
+  "en": "{0} asked me to go on a trip near {1}. I turned down this invitation.",
+  "ch": "{0}邀约我到{1}附近同游，我拒绝了。"
+ },
+ "331140": {
+  "en": "Went on a date with {0} near {1}. It went so well that the Affinity between each other increased afterwards.",
+  "ch": "与{0}邀约在{1}附近，气氛融洽，双方的亲密度提升了。"
+ },
+ "331141": {
+  "en": "Had to cancel the date with {0} near {1} due to an accident.",
+  "ch": "与{0}邀约在{1}附近，途中出现了变故，双方未能如愿。"
+ },
+ "331144": {
+  "en": "Had to cancel the date with {0} near {1} because the other party didn't show up.",
+  "ch": "与{0}邀约在{1}附近，由于对方爽约，双方不欢而散。"
+ },
+ "331145": {
+  "en": "Encountered {1} on the way to meet {0} and ended up fighting {1}.",
+  "ch": "与{0}邀约的途中遇见了{1}，与{1}大打出手。"
+ },
+ "331148": {
+  "en": "Fought with {0}. The target was Heavily Wounded but managed to escape!",
+  "ch": "与{0}进行战斗，将对方击成重伤后，被对方逃脱了！"
+ },
+ "331151": {
+  "en": "Fought with {0} and was Heavily Wounded. Managed to escape when the target wasn't paying attention!",
+  "ch": "与{0}进行战斗，身受重伤，趁对方露出破绽时，成功脱离战斗！"
+ },
+ "331152": {
+  "en": "Encountered {1} on the way to meet {0}. {0} and {1} ended up having a fight.",
+  "ch": "与{0}邀约的途中遇见了{1}，{0}与{1}大打出手。"
+ },
+ "331153": {
+  "en": "Helped {0} fight {1}.",
+  "ch": "帮助{0}与{1}进行战斗。"
+ },
+ "331154": {
+  "en": "{0} and {1} had a fight. {0} defeated {1}. {0} showed mercy and let {1} go.",
+  "ch": "{0}与{1}进行战斗，{0}战胜了{1}后，{0}心生慈念，放走了{1}！"
+ },
+ "331155": {
+  "en": "{0} and {1} had a fight. {0} defeated {1} and killed {1}!",
+  "ch": "{0}与{1}进行战斗，{0}战胜了{1}，并痛下杀手，将{1}杀死！"
+ },
+ "331156": {
+  "en": "{0} and {1} had a fight. {0} was Heavily Wounded by {1}. {1} managed to escape!",
+  "ch": "{0}与{1}进行战斗，{0}将{1}击成重伤后，被{1}逃脱了！"
+ },
+ "331157": {
+  "en": "{0} and {1} had a fight. {0} was defeated but spared by {1}.",
+  "ch": "{0}与{1}进行战斗，{0}战败后被{1}放了一条生路！"
+ },
+ "331158": {
+  "en": "{0} and {1} had a fight. {0} was defeated by {1} and killed by {1}!",
+  "ch": "{0}与{1}进行战斗，{0}被{1}击败后，惨遭毒手，被{1}击杀！"
+ },
+ "331159": {
+  "en": "{0} fought with {1} and was Heavily Wounded. {0} managed to escape when {1} wasn't paying attention!",
+  "ch": "{0}与{1}进行战斗，身受重伤，{0}趁{1}露出破绽时，成功脱离战斗！"
+ },
+ "331160": {
+  "en": "Had a fight with {0} while traveling near {mapData126}.",
+  "ch": "在{mapData126}附近游玩时，与{0}大打出手。"
+ },
+ "331167": {
+  "en": "Encountered {1} on the way to meet {0}. {0} and {1} had a fight. {0} defeated {1}. {0} showed mercy and let {1} go.",
+  "ch": "与{0}邀约的途中遇见了{1}，{0}与{1}进行战斗。{0}战胜了{1}后，{0}心生慈念，放走了{1}！"
+ },
+ "331168": {
+  "en": "Encountered {1} on the way to meet {0}. {0} and {1} had a fight. {1} defeated {0}. {1} showed mercy and let {0} go.",
+  "ch": "与{0}邀约的途中遇见了{1}，{0}与{1}进行战斗。{1}战胜了{0}后，{1}心生慈念，放走了{0}！"
+ },
+ "331169": {
+  "en": "Encountered {1} on the way to meet {0}. {1} and {0} had a fight. {0} defeated {1}. {0} showed mercy and let {1} go.",
+  "ch": "与{0}邀约的途中遇见了{1}，{1}与{0}进行战斗。{0}战胜了{1}后，{0}心生慈念，放走了{1}！"
+ },
+ "331170": {
+  "en": "Encountered {1} on the way to meet {0}. {1} and {0} had a fight. {1} defeated {0}. {1} showed mercy and let {0} go.",
+  "ch": "与{0}邀约的途中遇见了{1}，{1}与{0}进行战斗。{1}战胜了{0}后，{1}心生慈念，放走了{0}！"
+ },
+ "331171": {
+  "en": "Encountered {1} on the way to meet {0}. I quickly escaped.",
+  "ch": "与{0}邀约的途中遇见了{1}，我逃离了此地。"
+ },
+ "331172": {
+  "en": "Encountered {1} on the way to meet {0}. {1} was persuaded to leave.",
+  "ch": "与{0}邀约的途中遇见了{1}，{1}被劝离了此地。"
+ },
+ "331173": {
+  "en": "Encountered {1} on the way to meet {0} and had to fight {1}. Showed mercy and let {1} go after defeating {1}.",
+  "ch": "与{0}邀约的途中遇见了{1}，与{1}进行战斗。战胜了{1}后，心生慈念，放走了{1}！"
+ },
+ "331174": {
+  "en": "Encountered {1} on the way to meet {0} and had to fight {1}. Was showed mercy after being defeated.",
+  "ch": "与{0}邀约的途中遇见了{1}，与{1}进行战斗。被对方击败后放了一条生路！"
+ },
+ "331175": {
+  "en": "Encountered {1} on the way to meet {0}. {0} quickly escaped.",
+  "ch": "与{0}邀约的途中遇见了{1}，{0}逃离了此地。"
+ },
+ "331176": {
+  "en": "Encountered {1} on the way to meet {0}. {1} was persuaded by {0} to leave.",
+  "ch": "与{0}邀约的途中遇见了{1}，{1}被{0}劝离了此地。"
+ },
+ "331177": {
+  "en": "Encountered {0} on the way to meet {mapData126}.",
+  "ch": "在{mapData126}附近游玩时，遇见了{0}。"
+ },
+ "331180": {
+  "en": "{0} escaped.",
+  "ch": "{0}逃离了此地。"
+ },
+ "331181": {
+  "en": "I was persuaded by {0} to leave.",
+  "ch": "{0}劝我离开，我答应了对方的请求。"
+ },
+ "331300": {
+  "en": "You requested {0} to help you take down {1}, and the player agreed.",
+  "ch": "请求{0}一同密谋寻{1}报仇，对方接受了！"
+ },
+ "331400": {
+  "en": "You requested {0} to help you take down {1}, and the player declined.",
+  "ch": "请求{0}一同密谋寻{1}报仇，对方拒绝了！"
+ },
+ "331500": {
+  "en": "Accepted {0}'s invitation to take down {1}.",
+  "ch": "{0}邀请我一同密谋寻{1}报仇，接受了对方的邀请！"
+ },
+ "331600": {
+  "en": "Declined {0}'s invitation to take down {1}.",
+  "ch": "{0}邀请我一同密谋寻{1}报仇，拒绝了对方的邀请！"
+ },
+ "331700": {
+  "en": "I love the clothes {0} sent me, so I thanked {0}.",
+  "ch": "{0}赠送给我的衣服我非常喜欢，向{0}表示了感谢！"
+ },
+ "331800": {
+  "en": "{0} liked the clothes I gave them very much, so {0} thanked me.",
+  "ch": "我赠送给{0}的衣服对方非常喜欢，{0}向我表示了感谢！"
+ },
+ "331900": {
+  "en": "Forged {1} at {0}.",
+  "ch": "在{0}炼制了{1}！"
+ },
+ "332000": {
+  "en": "Obtained Artifact Spirit: {0} while passing through Nether Mountains!",
+  "ch": "途径冥山，机缘巧合获得了器灵{0}！"
+ },
+ "332100": {
+  "en": "Unlocked {0}talent{1}.",
+  "ch": "解锁了{0}天赋{1}！"
+ },
+ "332200": {
+  "en": "Leveled up {0} to {1}.",
+  "ch": "{0}成功升级到{1}！"
+ },
+ "332300": {
+  "en": "{0} was damaged in battle, but {0} is now repaired.",
+  "ch": "由于{0}在战斗中受损，修复了{0}！"
+ },
+ "332400": {
+  "en": "Wanted to search for some suitable breakthrough materials for {0}, but failed after great effort.",
+  "ch": "想为{0}寻找一些合适的突破材料，但经过多方寻找，却未能寻找合适的材料。"
+ },
+ "332500": {
+  "en": "Wanted to search for breakthrough material {1} for {0}, and finally found {1} after great effort.",
+  "ch": "想为{0}寻找突破材料{1}，经过多方寻找，终于获得了{1}。"
+ },
+ "332600": {
+  "en": "Wanted to search for breakthrough material {1} for {0}, but failed to find {1}.",
+  "ch": "想为{0}寻找突破材料{1}，但经过多方寻找，仍然未能寻得{1}。"
+ },
+ "332700": {
+  "en": "Wanted to search for a suitable manual for {0}, and finally found {1} after great effort.",
+  "ch": "想为{0}寻找一本合适的秘籍，经过多方寻找，终于获得了{1}。"
+ },
+ "332800": {
+  "en": "Wanted to search for a suitable manual for {0}, but failed after great effort.",
+  "ch": "想为{0}寻找一本适合的秘籍，但经过多方寻找，仍然未能寻得。"
+ },
+ "332900": {
+  "en": "Improved in strength after days of training!",
+  "ch": "经过多日苦修，实力提升了！"
+ },
+ "333000": {
+  "en": "Gained insight into {0} after days of training.",
+  "ch": "经过多日苦修，领悟了{0}。"
+ },
+ "333100": {
+  "en": "Inner Demon has been defeated! The Taoist Seed becomes more tangible.",
+  "ch": "成功战胜了心魔，道种愈发凝实了！"
+ },
+ "333200": {
+  "en": "Defeated by the Inner Demon. The Taoist Seed seems fainter.",
+  "ch": "被心魔击败，道种似乎黯淡了一分。"
+ },
+ "333300": {
+  "en": "After many ordeals, you use the newly acquired {0} Taoist Mind to leap ahead and become Heaven-chosen!",
+  "ch": "历经磨难，用于成功凝结出了{0}道心，由此一步登天，成为天骄！"
+ },
+ "333400": {
+  "en": "The Taoist Mind disintegrates, vanishing without a trace. The title of Heaven-chosen is lost.",
+  "ch": "由于种种原因，道心土崩瓦解，消散无影，就此失去天骄之名。"
+ },
+ "333500": {
+  "en": "Pass the {0}'s Taoist Seed on to {1}.",
+  "ch": "将{0}的道种传授给{1}。"
+ },
+ "333700": {
+  "en": "Obtained {1}'s Taoist Seed from {0}.",
+  "ch": "从{0}手中获得了{1}的道种。"
+ },
+ "333800": {
+  "en": "Challenged and defeated {0} {1}, snatching the Taoist Title of {0}.",
+  "ch": "向{0}{1}发起挑战，成功战胜了对方，获得了{0}的道号。"
+ },
+ "333900": {
+  "en": "Lost the Taoist Title of {1} as {0} challenged and defeated me.",
+  "ch": "{0}向我发起挑战，因自身实力不济，败给了对方，失去了{1}的道号。"
+ },
+ "334100": {
+  "en": "Challenged {0} {1}, but was defeated.",
+  "ch": "向{0}{1}发起挑战，因自身实力不济，在本次挑战中败给了对方。"
+ },
+ "334300": {
+  "en": "Defended the Taoist Title of {1} as {0} challenged me but was defeated.",
+  "ch": "{0}向我发起挑战，成功战胜了对方，守住了{1}的道号。"
+ },
+ "340100": {
+  "en": "Due to the influence of {0}, I intended to divorce {1}. But I didn't make it.",
+  "ch": "基于{0}的影响，打算去和{1}断绝婚姻关系，最终没有成功。"
+ },
+ "340200": {
+  "en": "Due to the influence of {0}, I intended to sever my relationship with {1}. But I dropped the idea because of some concerns.",
+  "ch": "基于{0}的影响，打算去和{1}断绝关系。由于一些顾虑，此事不了了之。"
+ },
+ "340300": {
+  "en": "{0} doesn't seem to work and my body is fine today!",
+  "ch": "{0}似乎没有生效，今日身体无事发生！"
+ },
+ "340400": {
+  "en": "Due to the influence of {0}, I intended to sever my relationship with {1}. But I went back for some reason.",
+  "ch": "由于{0}的影响，打算去和{1}断绝关系。由于一些原因，又折返了回去。"
+ },
+ "340500": {
+  "en": "I tried so hard to resist the influence of {0} that I passed out.",
+  "ch": "极力抵抗{0}的影响，最终晕厥了过去。"
+ },
+ "340600": {
+  "en": "I ignored the effects of {0} due to my character traits.",
+  "ch": "由于自身性格，无视了{0}的效果。"
+ },
+ "340700": {
+  "en": "Due to the influence of {0}, I intended to sever my relationship with {1}. But I didn't have the heart to say it due to my character traits.",
+  "ch": "基于{0}的影响，打算去和{1}断绝关系。由于自身性格，未能说出口。"
+ },
+ "340800": {
+  "en": "Due to the influence of {0}, I went to sever my relationship with {1}.",
+  "ch": "基于{0}的影响，去和{1}断绝了关系。"
+ },
+ "340900": {
+  "en": "{0} had zero effect on me.",
+  "ch": "{0}对其毫无影响。"
+ },
+ "341000": {
+  "en": "I felt nothing different after taking {0}.",
+  "ch": "服下{0}后，并未感觉到有任何异样。"
+ },
+ "341100": {
+  "en": "After taking {0}, I went everywhere looking for a Partner and eventually formed a relationship with {1}.",
+  "ch": "服下{0}后，到处与人结缘，最后与{1}结成关系。"
+ },
+ "341200": {
+  "en": "Due to the influence of {0}, I went looking for {1} and formed a familial relationship.",
+  "ch": "由于{0}的影响，去找了{1}并成功缔结亲族关系。"
+ },
+ "341300": {
+  "en": "Due to the influence of {0}, I went looking for {1}. {1}This person also liked me and we formed a mentorship relationship.",
+  "ch": "由于{0}的影响，去找了{1}。{1}对其表示好感，成功缔结了师徒关系。"
+ },
+ "341400": {
+  "en": "Due to the influence of {0}, I went looking for {1} and expressed my fondness. {1}We liked each other and formed a relationship.",
+  "ch": "由于{0}的影响，找到了{1}表示好感。{1}对其同样表示好感，成功缔结关系。"
+ },
+ "341500": {
+  "en": "Due to the influence of {0}, I asked {1} to be my family. And then we agreed to form a relationship.",
+  "ch": "由于{0}的影响，尝试向{1}请求结为家人，对方也正有此意，成功缔结关系。"
+ },
+ "341600": {
+  "en": "Due to the influence of {0}, I went looking for {1}, who liked me and {1}agreed to form a relationship.",
+  "ch": "基于{0}的 影响，找到了{1}，本就对其心生好感的{1}同意与其缔结关系。"
+ },
+ "341700": {
+  "en": "Due to the influence of {0}, I became completely listless.",
+  "ch": "由于{0}的影响，整日浑浑噩噩。"
+ },
+ "341800": {
+  "en": "Due to the influence of {0}, I went looking for {1} {1}and expressed my admiration. We agreed to form a mentorship relationship.",
+  "ch": "由于{0}的影响，去找了{1}。{1}对其表示崇拜，成功缔结了师徒关系。"
+ },
+ "341900": {
+  "en": "{0} tired and failed to lure me to attack others, because I remained firm and unaffected.",
+  "ch": "{0}引诱其去攻击其他人，此人心智坚定，未能成功。"
+ },
+ "342000": {
+  "en": "Due to the influence of {0}, I couldn't help but attack {1}.",
+  "ch": "由于{0}的影响，抑制不住杀意，向{1}发起攻击。"
+ },
+ "342100": {
+  "en": "The Elixir power of {0} only disturbed my mind.",
+  "ch": "{0}的丹力仅能扰其心神。"
+ },
+ "342200": {
+  "en": "Due to the influence of {0}, I stole something from {1}.",
+  "ch": "由于{0}的影响，对{1}进行了偷窃。"
+ },
+ "342300": {
+  "en": "The Elixir power of {0} didn't work on me.",
+  "ch": "{0}的丹力未能在其身上发挥作用。"
+ },
+ "342400": {
+  "en": "Due to the influence of {0}, I decided to give all my things away to {1}.",
+  "ch": "由于{0}的影响，准备散掉家财，把东西送给了{1}。"
+ },
+ "342500": {
+  "en": "{0}'s poison was so strong that all I could think about was a female Dangkang. In case I did something I would regret, I had no choice but to knock myself out.",
+  "ch": "{0}的毒让其脑中都是母当康的面容，为防止自己做出后悔之事，选择打晕了自己。"
+ },
+ "342600": {
+  "en": "{0}'s poison was super effective. I wanted to find Dangkang's lair!",
+  "ch": "{0}的毒对其异常有效，尝试去找当康巢穴！"
+ },
+ "342700": {
+  "en": "Due to my character traits, {0} didn't work.",
+  "ch": "因自身性格，{0}未能对其生效。"
+ },
+ "342800": {
+  "en": "Motivated by {0}, I felt righteous and struck the demonic men I saw.",
+  "ch": "被{0}点燃了正道之心，对周身的魔道之人出手了。"
+ },
+ "342900": {
+  "en": "Due to my character traits, I wasn't fooled by {0}.",
+  "ch": "基于自身性格，未能被{0}所惑。"
+ },
+ "343000": {
+  "en": "Motivated by {0}, I felt demonic and struck the righteous men I saw.",
+  "ch": "被{0}点燃了魔道之心，对周身的正道之人出手了。"
+ },
+ "350100": {
+  "en": "{0}'s Elixir power was running amok in my body.",
+  "ch": "{0}的丹力在体内乱窜。"
+ },
+ "351100": {
+  "en": "After being fed {0}, I went everywhere looking for a Partner and eventually formed a relationship with {1}.",
+  "ch": "被人喂食了{0}，选择到处与人结缘，最终与{1}成功缔结关系。"
+ },
+ "351200": {
+  "en": "Due to the influence of {0}, I found {1} and formed a familial relationship.",
+  "ch": "由于{0}的影响，找到了{1}并成功缔结亲族关系。"
+ },
+ "351900": {
+  "en": "{0}'s Elixir power was running amok in my body, and I was attacking people indiscriminately.",
+  "ch": "{0}的丹力在体内乱窜，正在胡乱攻击他人。"
+ }
+}

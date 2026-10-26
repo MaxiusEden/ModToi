@@ -1,0 +1,634 @@
+{
+ "710001": {
+  "en": "You received {0} (Destiny) due to your low Mood.",
+  "ch": "由于你当前的心情过低，获得了气运{0}。"
+ },
+ "710002": {
+  "en": "You lost {0} Vitality due to your low Health.",
+  "ch": "由于你当前的健康过低，损失了{0}体力。"
+ },
+ "710003": {
+  "en": "Your Lifespan was reduced by {0} due to your low Health.",
+  "ch": "由于你当前的健康过低，损失了{0}年寿命。"
+ },
+ "710004": {
+  "en": "You lost {1} due to {0} (Destiny).",
+  "ch": "由于受到气运{0}的影响，你损失了{1}。"
+ },
+ "710005": {
+  "en": "Your Lifespan was reduced by {0} because you raided someone's tomb.",
+  "ch": "由于挖掘他人的坟墓，你损失了{0}年寿命。"
+ },
+ "710006": {
+  "en": "{0} and {1} talked about you. {0} wanted to improve the relationship between {1} and you. {1} agreed with {0}'s opinion. {1}'s Affinity toward you increased.",
+  "ch": "{0}与{1}谈论了你，{0}想要提升{1}与你之间的关系。{1}赞同了{0}的观点，{1}对你的亲密度提升了。"
+ },
+ "710007": {
+  "en": "{0} and {1} talked about you. {0} wanted to resolve the differences between {1} and you. {1} agreed with {0}'s opinion. {1}'s Hatred toward you decreased.",
+  "ch": "{0}与{1}谈论了你，{0}想要化解{1}与你之间的恩怨。{1}赞同了{0}的观点，{1}对你的仇恨度下降了。"
+ },
+ "710008": {
+  "en": "{0} and {1} talked about you. {0} wanted to worsen the relationship between {1} and you. {1} agreed with {0}'s opinion. {1}'s Hatred toward you increased.",
+  "ch": "{0}与{1}谈论了你，{0}想要恶化{1}与你之间的关系。{1}赞同了{0}的观点，{1}对你的仇恨度提升了。"
+ },
+ "710009": {
+  "en": "{0} attacked {1}. {2} won, and {3} had to flee after being heavily wounded.",
+  "ch": "{0}向{1}发起攻击，{2}大获全胜，{3}燃烧精血逃遁而去。"
+ },
+ "710010": {
+  "en": "{0} attacked {1}. {2} won but spared {3}'s life.",
+  "ch": "{0}向{1}发起攻击，{2}大获全胜，饶了{3}一命。"
+ },
+ "710011": {
+  "en": "{0} attacked {1}. {2} won and killed {3}.",
+  "ch": "{0}向{1}发起攻击，{2}大获全胜，将{3}杀死。"
+ },
+ "710012": {
+  "en": "{0} was attacked by {1}. {2} won, and {3} had to flee after being heavily wounded.",
+  "ch": "{0}遭到{1}的攻击，{2}大获全胜，{3}燃烧精血逃遁而去。"
+ },
+ "710013": {
+  "en": "{0} was attacked by {1}. {2} won but spared {3}'s life.",
+  "ch": "{0}遭到{1}的攻击，{2}大获全胜，饶了{3}一命。"
+ },
+ "710014": {
+  "en": "{0} was attacked by {1}. {2} won and killed {3}.",
+  "ch": "{0}遭到{1}的攻击，{2}大获全胜，将{3}杀死。"
+ },
+ "710015": {
+  "en": "{0} passed the Trial of Lightning and reached {1}!",
+  "ch": "{0}在经过重重雷劫后，成功突破至{1}，实力大增！"
+ },
+ "710019": {
+  "en": "{1} was attacked by {0}. {2} won, and {3} had to flee after being heavily wounded.",
+  "ch": "{1}遭到{0}的攻击，{2}大获全胜，{3}燃烧精血逃遁而去。"
+ },
+ "710020": {
+  "en": "{1} was attacked by {0}. {2} won but spared {3}'s life.",
+  "ch": "{1}遭到{0}的攻击，{2}大获全胜，饶了{3}一命。"
+ },
+ "710021": {
+  "en": "{1} was attacked by {0}. {2} won and killed {3}.",
+  "ch": "{1}遭到{0}的攻击，{2}大获全胜，将{3}杀死。"
+ },
+ "710022": {
+  "en": "Head to {0} and join the auction there! Tons of precious items and Manuals of the {1} Realm are for sale. Make sure that you bring enough Spirit Stones, or you might miss your dream items!",
+  "ch": "{0}的商会最近筹备了一次拍卖会，各种{1}的奇珍异宝、各式书籍、丹药、天材地宝应有尽有！可能会有想不到的惊喜！请准备好充足的灵石，不然就走宝了。"
+ },
+ "710023": {
+  "en": "An auction will start ({1}) in {0}. Tons of precious items of the {2} Realm are for sale. Make sure that you bring enough Spirit Stones, or you might miss your dream items!",
+  "ch": "{0}将在{1}举办一场盛大的拍卖会，各种{2}的奇珍异宝应有尽有！请准备好充足的灵石，不然就走宝了。"
+ },
+ "710024": {
+  "en": "{0}{1}{2} and {3}{4}{5} fought. {6} won a sweeping victory, and {7} had to spend their life essence to make a run.",
+  "ch": "{0}{1}{2}与{3}{4}{5}展开战斗，{6}大获全胜，{7}燃烧精血逃遁而去。"
+ },
+ "710025": {
+  "en": "{0}{1}{2} and {3}{4}{5} fought. {6} won a sweeping victory and spared {7}.",
+  "ch": "{0}{1}{2}与{3}{4}{5}展开战斗，{6}大获全胜，饶了{7}一命。"
+ },
+ "710026": {
+  "en": "{0}{1}{2} and {3}{4}{5} fought. {6} won a sweeping victory and killed {7}.",
+  "ch": "{0}{1}{2}与{3}{4}{5}展开战斗，{6}大获全胜，将{7}杀死。"
+ },
+ "710027": {
+  "en": "{0}{1}{2} was promoted to {3} as a reward for their great contribution.",
+  "ch": "{0}{1}{2}对宗门贡献巨大，被推举为{3}。"
+ },
+ "710028": {
+  "en": "{0} {1} {2} passed the Trial of Lightning and reached {3}!",
+  "ch": "{0}{1}{2}在经过重重雷劫后，成功突破至{3}，实力大增！"
+ },
+ "710029": {
+  "en": "<r>{0}</r> changed the weather in <b>{1}</b> to {2}.",
+  "ch": "受到<r>{0}</r>的影响，<b>{1}</b>的天气变为{2}。"
+ },
+ "710030": {
+  "en": "What <r>{0}</r> did to {1} united the Cultivators to fight back. <r>{0}</r> was eventually defeated.",
+  "ch": "因<r>{0}</r>对{1}造成的影响过大，各路修仙者纷纷合力与其对抗。<r>{0}</r>最终被击败了。"
+ },
+ "710031": {
+  "en": "Many lives were lost in <b>{1}</b> due to <r>{0}</r>.",
+  "ch": "受到<r>{0}</r>的影响，<b>{1}</b>中一片生灵涂炭。"
+ },
+ "710032": {
+  "en": "New items arrived at the Markets in <b>{0}</b>! Check them out when you have time!",
+  "ch": "听说<b>{0}</b>的坊市又进了各种各样的奇珍异宝！若有机会，不妨到各个城镇去看看。"
+ },
+ "710033": {
+  "en": "Rumor has it, <r>{2}</r> appeared in <g>{1}</g> near <b>{0}</b>.",
+  "ch": "传闻<b>{0}</b>附近的<g>{1}</g>中出现了<r>{2}</r>。"
+ },
+ "710034": {
+  "en": "New Manuals arrived at the Manual Pavilion in <b>{0}</b>! Check them out when you have time!",
+  "ch": "听说<b>{0}</b>的琅琊阁又进了各种各样的武功秘籍！若有机会，不妨到各个城镇去看看。"
+ },
+ "710035": {
+  "en": "New Manuals are available in the <b>Manual Library</b> of your <g>sect</g>. Check them out when you have time!",
+  "ch": "<b>宗门</b>的<g>藏经阁</g>又研究出了新的武功秘籍！若有机会，不妨回去看看。"
+ },
+ "710036": {
+  "en": "Monsters in <b>{0}</b> took many lives!",
+  "ch": "<b>{0}</b>的妖兽凶性大发，无数人因此而遇害。"
+ },
+ "710037": {
+  "en": "<g>{1}</g> in <b>{0}</b> was destroyed by an evil force and became a <r>{2}</r>.",
+  "ch": "<b>{0}</b>中的<g>{1}</g>被邪祟覆灭，成为了一座<r>{2}</r>。"
+ },
+ "710038": {
+  "en": "Rumor has it, a member of the Kuafu Clan died in {0}.",
+  "ch": "传闻有一名夸父族的族人在{0}中丧命。"
+ },
+ "710039": {
+  "en": "In <g>{0}</g> months, the Sect Arena will kick off in <b>{1}</b>.",
+  "ch": "<g>{0}</g>个月后将会在<b>{1}</b>开启宗门比试。"
+ },
+ "710040": {
+  "en": "The Sect Arena started in <g>{0}</g>.",
+  "ch": "宗门比试在<g>{0}</g>中正式开始。"
+ },
+ "710041": {
+  "en": "In <g>{0}</g> months, the Immortal Tournament will kick off in <b>{1}</b>.",
+  "ch": "<g>{0}</g>个月后将会在<b>{1}</b>开启升仙大会。"
+ },
+ "710042": {
+  "en": "The Immortal Tournament started in <b>{0}</b>.",
+  "ch": "升仙大会在<b>{0}</b>中正式开始。"
+ },
+ "710043": {
+  "en": "A Qi Deviated Alchemist appeared near <g>{1}</g> in <b>{0}</b> and killed many innocent people.",
+  "ch": "<b>{0}</b>的<g>{1}</g>附近有一名修仙者因痴迷炼丹而走火入魔，对附近的无辜之人大开杀戒！"
+ },
+ "710044": {
+  "en": "The Qi Deviated Alchemist near <b>{1}</b> was defeated by a Cultivator near <b>{0}</b>.",
+  "ch": "<b>{1}</b>附近的炼丹狂魔因滥杀无辜，被<b>{0}</b>附近的修仙者击败了！"
+ },
+ "710045": {
+  "en": "A Cultivator near <b>{1}</b> in <b>{0}</b> turned into a Blood Puppet!",
+  "ch": "<b>{0}</b>的<b>{1}</b>附近有一名修仙者因修习风水禁术，在死后成为了血傀！"
+ },
+ "710046": {
+  "en": "The Blood Puppet near <b>{1}</b> was defeated by a Cultivator near <b>{0}</b>.",
+  "ch": "<b>{1}</b>附近的血傀因滥杀无辜，被<b>{0}</b>附近的修仙者击败了！"
+ },
+ "710047": {
+  "en": "Your sect ({0}) made you an <g>{Honored Disciple}</g>. Now, you can leave and continue your cultivation in a bigger sect.",
+  "ch": "由于你的境界远远高于{0}中的同门，因此宗门决定将你列为<g>【荣誉弟子】</g>。从此以后，你可以加入更加强大的宗门，继续追求更高的境界。"
+ },
+ "710048": {
+  "en": "A <r>Mushroom Man</r> appeared near {1} in {0}.",
+  "ch": "{0}的{1}附近蔓延着淡淡的药香味，似乎有<r>药灵</r>出没。"
+ },
+ "710049": {
+  "en": "The <r>Mushroom Man</r> near {1} was defeated by a Cultivator in {0}.",
+  "ch": "{1}附近的<r>药灵</r>被{0}中的修仙者击败了。"
+ },
+ "710050": {
+  "en": "Your Reputation dropped by {1} after you killed {0}, someone from the same faction but of a lower Realm.",
+  "ch": "由于你杀害境界低于你的同道之人{0}，你的声望降低了{1}。"
+ },
+ "710051": {
+  "en": "What {2} did to {1} united the Cultivators to fight back. {2} was eventually defeated.",
+  "ch": "因{2}对{1}造成的影响过大，各路修仙者纷纷合力与其对抗。{2}最终被击败了。"
+ },
+ "710052": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Fire Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得火灵气。"
+ },
+ "710053": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Water Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得水灵气。"
+ },
+ "710054": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Lightning Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得雷灵气。"
+ },
+ "710055": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Wind Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得风灵气。"
+ },
+ "710056": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Earth Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得土灵气。"
+ },
+ "710057": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Wood Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得木灵气。"
+ },
+ "710058": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Fire Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得火灵珠。"
+ },
+ "710059": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Water Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得水灵珠。"
+ },
+ "710060": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Lightning Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得雷灵珠。"
+ },
+ "710061": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Wind Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得风灵珠。"
+ },
+ "710062": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Earth Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得土灵珠。"
+ },
+ "710063": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Wood Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得木灵珠。"
+ },
+ "710064": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Heaven Auras.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得天道之气。"
+ },
+ "710065": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Earth Auras.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得地道之气。"
+ },
+ "710066": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Fire Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得火灵斗气。"
+ },
+ "710067": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Water Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得水灵斗气。"
+ },
+ "710068": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Lightning Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得雷灵斗气。"
+ },
+ "710069": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Wind Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得风灵斗气。"
+ },
+ "710070": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Earth Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得土灵斗气。"
+ },
+ "710071": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Wood Qi.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得木灵斗气。"
+ },
+ "710072": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Fire Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得火灵斗珠。"
+ },
+ "710073": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Water Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得水灵斗珠。"
+ },
+ "710074": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Lightning Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得雷灵斗珠。"
+ },
+ "710075": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Wind Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得风灵斗珠。"
+ },
+ "710076": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Earth Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得土灵斗珠。"
+ },
+ "710077": {
+  "en": "Rumor has it, {2} appeared in {1} near {0}. Defeat it to obtain Condensed Wood Qi Orbs.",
+  "ch": "传闻{0}附近的{1}中出现了{2}，将其击败可获得木灵斗珠。"
+ },
+ "710078": {
+  "en": "The person you marked ({0}) was killed by {2} in {1}.",
+  "ch": "你所标记的{0}在{1}中被{2}杀害。"
+ },
+ "710079": {
+  "en": "The person you marked ({0}) died in {1}.",
+  "ch": "你所标记的{0}在{1}中死亡。"
+ },
+ "710080": {
+  "en": "Your Lifespan will reach its limit in {0}. Your character will die afterwards.",
+  "ch": "你的寿命在{0}后将达到最大上限。当寿命达到最大上限后，角色将会死亡。"
+ },
+ "710081": {
+  "en": "Tiangou appeared in Mu Xian. Everyone in the area is panicked.",
+  "ch": "天狗现世，整个暮仙州陷入了恐慌之中。"
+ },
+ "710082": {
+  "en": "Tiangou in Mu Xian greatly increased its power. Many Cultivators were killed.",
+  "ch": "暮仙州中的天狗实力大增，无数修仙者因此而遇害。"
+ },
+ "710083": {
+  "en": "The Cultivators in Mu Xian killed Tiangou and eliminated its threat.",
+  "ch": "由于天狗对暮仙州危害过大，被修仙者铲除了。"
+ },
+ "710084": {
+  "en": "In an abandoned village, a Blood Lord kills everyone in sight as it completes the required training for Power of Blood.",
+  "ch": "荒村内，血魔肆意屠杀过往行人，已将血魇大法修至大成。"
+ },
+ "710085": {
+  "en": "There are frequent earthquakes near <g>{0}</g>, <b>{1}</b>. Maybe there are <r>crystal spirits</r> in the area.",
+  "ch": "<b>{0}</b>的<g>{1}</g>附近发生了地龙翻身之事，似乎有<r>石灵</r>现世。"
+ },
+ "710086": {
+  "en": "The <r>crystal spirits</r> near <g>{1}</g> was defeated by a cultivator from <b>{0}</b>.",
+  "ch": "<g>{1}</g>附近的<r>石灵</r>被<b>{0}</b>中的修仙者击败了。"
+ },
+ "710087": {
+  "en": "Strange laughter is heard at night near <g>{1}</g>, <b>{0}</b>. Maybe there is <r>Artifact Fiend</r>.",
+  "ch": "<b>{0}</b>的<g>{1}</g>附近夜深人静时偶有怪笑声传来，似乎出现了<r>入魔成精的法宝</r>。"
+ },
+ "710088": {
+  "en": "The <r>Artifact Fiend</r> near <g>{1}</g> was defeated by a cultivator from <b>{0}</b>.",
+  "ch": "<g>{1}</g>附近的<r>入魔法宝</r>被<b>{0}</b>中的修仙者摧毁了。"
+ },
+ "710089": {
+  "en": "I heard {#townBuildingName2013} in <b>{0}</b> made some new clothes. Check them out when you get a chance.",
+  "ch": "听说<b>{0}</b>的{#townBuildingName2013}又制作了一批新衣服！若有机会，不妨去看看。"
+ },
+ "710090": {
+  "en": "Sect Competition will start in <g>{0}</g> year(s)",
+  "ch": "<g>{0}</g>年后将会开启宗门大比。"
+ },
+ "710091": {
+  "en": "Sect Competition will start in <g>{0}</g> month(s). True Disciples are preparing for battle as we speak.",
+  "ch": "<g>{0}</g>个月后将会开启宗门大比。门中真传弟子正在积极进行备战。"
+ },
+ "710092": {
+  "en": "Rain pours in Mu Xian and the water of the <b>Wei</b> rises. Someone extraordinary seems to have appeared.",
+  "ch": "暮仙州天降暴雨，<b>渭河</b>水势大涨，似有超凡之人现世。"
+ },
+ "710093": {
+  "en": "The Sect Competition at {0} has officially begun. The True Disciples of the Sect have headed there to participate. Please wait for the results. Those who emerge victorious can claim corresponding rewards from the Sect's Leaderboard.",
+  "ch": "{0}的宗门大比正式开始。门中真传弟子已前往参与大比，请静待比赛结果，若在大比中拔得头筹可回宗门到荣誉榜中领取对应奖励。"
+ },
+ "710094": {
+  "en": "The Sect Arena started in {0}.",
+  "ch": "宗门比试在{0}中正式开始。"
+ },
+ "710095": {
+  "en": "Sect Arena will start at {1} in {0} month(s).",
+  "ch": "{0}个月后将会在{1}开启宗门比试。"
+ },
+ "710101": {
+  "en": "{1} challenged and defeated {2}, snatching the Taoist Title of {0} from {2}.",
+  "ch": "{1}成功战胜了{2}，从{2}手中成功夺取了{0}的道号。"
+ },
+ "710113": {
+  "en": "Somehow, the Taoist Title of <r>{0}</r> does not belong to its previous owner <b>{1}</b> anymore. Now is the best time to snatch it.",
+  "ch": "传闻由于某种原因，<r>{0}</r>之名已然不再属于原主<b>{1}</b>。此刻正是夺得该道号的最佳时机。"
+ },
+ "710125": {
+  "en": "Nothing is impossible for a willing heart. The Taoist Title of {0} belongs to {1} now!",
+  "ch": "皇天不负有心人，今日，修仙者{1}终于获得了{0}之名！"
+ },
+ "710137": {
+  "en": "Someone witnessed several sneaky black-robed persons performing a ritual in the wild.",
+  "ch": "有人在荒野中目击到，几名行踪诡异的黑袍人在进行着某种仪式。"
+ },
+ "710138": {
+  "en": "Rumors say that there was a bloodbath recently close to <b>{positionName|1401}</b>. A Nether Demon lurked about and attacked passing Cultivators. Due to its ruthlessness and unpredictability, no one has been able to exterminate it yet, and there have been hundreds of casualties so far. The Cultivators <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have been tragically killed.",
+  "ch": "传闻近期<b>{positionName|1401}</b>附近发生了一起血案，有冥妖潜伏此地袭击过路的修仙者，由于其手段狠辣、神出鬼没，尚无人能将其灭杀，截至目前已造成数百人员伤亡。仙盟中的修仙者<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等已然不幸遇害。"
+ },
+ "710139": {
+  "en": "According to witnesses, a Nether Demon appeared close to <b>{positionName|1402}</b> and wantonly attacked humans. The demon is exceptionally strong, and is still causing great damage. <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have already been killed.",
+  "ch": "据目击者称，<b>{positionName|1402}</b>附近出现了大肆攻击人类的冥妖，此妖实力异常强大、以一敌百，目前仍在行凶作乱之中。仙盟麾下的<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等修仙者已横遭毒手。"
+ },
+ "710140": {
+  "en": "Recently, there has been a sudden increase in the concentration of Nether Air close to <b>{positionName|1403}</b>. It is suspected that this is due to Nether Demons. The Cultivator Alliance has sent hundreds of the righteous to explore the area, but none of them have returned, including <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and other skilled members.",
+  "ch": "近日<b>{positionName|1403}</b>附近冥气浓度陡然提升，疑似有冥妖在此作乱，仙盟派遣数百正义之士前往一探却均有去无回，其中包括<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等仙盟之才。"
+ },
+ "710141": {
+  "en": "Recently, hundreds of Cultivators have disappeared mysteriously at <b>{positionName|1404}</b>. The Cultivator Alliance is highly suspicious that an unknown small amount of Nether Demon forces have invaded this place and are devouring humans to grow their strength. Poor <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and other loyal people have died.",
+  "ch": "近期<b>{positionName|1404}</b>数百修仙者神秘失踪，仙盟方严重怀疑是有未知的小股冥妖力量入侵了此地并吞噬人类进行成长所致，可怜<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等我族忠良一命呜呼。"
+ },
+ "710142": {
+  "en": "Rumors say that a demonic Cultivator has appeared close to <b>{positionName|1405}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Currently, the Cultivator Alliance is calling for an urgent trapping and elimination of this demon, in a vow to avenge those who have died, <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and others.",
+  "ch": "据说，<b>{positionName|1405}</b>附近出现了一名妖异的修仙者，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟方正对此妖进行紧急围剿，誓要为<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等烈士报仇。"
+ },
+ "710143": {
+  "en": "According to rumors, the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Close to <b>{positionName|1406}</b>, the corpses of <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and hundreds of Cultivators were discovered. Most of their souls had dissipated, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{positionName|1406}</b>附近发现<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等数百修仙者的尸骸，大部分人已然元魂消散，已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。"
+ },
+ "710144": {
+  "en": "Rumors say that there was a bloodbath recently close to <b>{positionName|1407}</b>. A Nether Demon lurked about and attacked passing Cultivators. Due to its ruthlessness and unpredictability, no one has been able to exterminate it yet, and there have been hundreds of casualties so far. The Cultivators <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have been tragically killed.",
+  "ch": "传闻近期<b>{positionName|1407}</b>附近发生了一起血案，有冥妖潜伏此地袭击过路的修仙者，由于其手段狠辣、神出鬼没，尚无人能将其灭杀，截至目前已造成数百人员伤亡。仙盟中的修仙者<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等已然不幸遇害。"
+ },
+ "710145": {
+  "en": "According to witnesses, a Nether Demon appeared close to <b>{positionName|1408}</b> and wantonly attacked humans. The demon is exceptionally strong, and is still causing great damage. <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have already been killed.",
+  "ch": "据目击者称，<b>{positionName|1408}</b>附近出现了大肆攻击人类的冥妖，此妖实力异常强大、以一敌百，目前仍在行凶作乱之中。仙盟麾下的<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等修仙者已横遭毒手。"
+ },
+ "710146": {
+  "en": "Recently, there has been a sudden increase in the concentration pf Nether Air close to <b>{positionName|1409}</b>. It is suspected that this is due to Nether Demons. The Cultivator Alliance has sent hundreds of the righteous to explore the area, but none of them have returned, including <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and other skilled members.",
+  "ch": "近日<b>{positionName|1409}</b>附近冥气浓度陡然提升，疑似有冥妖在此作乱，仙盟派遣数百正义之士前往一探却均有去无回，其中包括<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等仙盟之才。"
+ },
+ "710147": {
+  "en": "Recently, hundreds of Cultivators have disappeared mysteriously at <b>{positionName|1410}</b>. The Cultivator Alliance is highly suspicious that an unknown small amount of Nether Demon forces have invaded this place and are devouring humans to grow their strength. Poor <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and other loyal people have died.",
+  "ch": "近期<b>{positionName|1410}</b>数百修仙者神秘失踪，仙盟方严重怀疑是有未知的小股冥妖力量入侵了此地并吞噬人类进行成长所致，可怜<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等我族忠良一命呜呼。"
+ },
+ "710148": {
+  "en": "Rumors say that a demonic Cultivator has appeared close to <b>{positionName|1411}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Currently, the Cultivator Alliance is calling for an urgent trapping and elimination of this demon, in a vow to avenge those who have died, <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and others.",
+  "ch": "据说，<b>{positionName|1411}</b>附近出现了一名妖异的修仙者，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟方正对此妖进行紧急围剿，誓要为<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等烈士报仇。"
+ },
+ "710149": {
+  "en": "According to rumors, the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Close to <b>{positionName|1412}</b>, the corpses of <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and hundreds of Cultivators were discovered. Most of their souls had dissipated, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{positionName|1412}</b>附近发现<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等数百修仙者的尸骸，大部分人已然元魂消散，已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。"
+ },
+ "710151": {
+  "en": "Rumors say that there's been a great change in the Nether Demon inheritance, and <r>{1}</r> has replaced <r>{0}</r> to be the new commander of the Netherworld!",
+  "ch": "传闻冥妖一脉发生变故，<r>{1}</r>取代<r>{0}</r>成为了新任的冥域统帅！"
+ },
+ "710152": {
+  "en": "Rumors say that there was a bloodbath recently close to <b>{positionName|1401}</b>. A Nether Demon lurked about and attacked passing Cultivators. Due to its ruthlessness and unpredictability, no one has been able to exterminate it yet, and there have been hundreds of casualties so far.",
+  "ch": "传闻近期<b>{positionName|1401}</b>附近发生了一起血案，有冥妖潜伏此地袭击过路的修仙者，由于其手段狠辣、神出鬼没，尚无人能将其灭杀，截至目前已造成数百人员伤亡。"
+ },
+ "710153": {
+  "en": "According to witnesses, a Nether Demon appeared close to <b>{positionName|1402}</b> and wantonly attacked humans. This Nether Demon is unusually powerful and is currently in the midst of wreaking great havoc.",
+  "ch": "据目击者称，<b>{positionName|1402}</b>附近出现了大肆攻击人类的冥妖，此妖实力异常强大、以一敌百，目前仍在行凶作乱之中。"
+ },
+ "710154": {
+  "en": "Recently, there has been a sudden increase in the concentration of Nether Air close to <b>{positionName|1403}</b>. It is suspected that this is due to Nether Demons. The Cultivator Alliance has sent hundreds of the righteous to explore the area, but none of them have returned.",
+  "ch": "近日<b>{positionName|1403}</b>附近冥气浓度陡然提升，疑似有冥妖在此作乱，仙盟派遣数百正义之士前往一探却均有去无回。"
+ },
+ "710155": {
+  "en": "Recently, hundreds of Cultivators have disappeared mysteriously at <b>{positionName|1404}</b>. The Cultivator Alliance is highly suspicious that an unknown small amount of Nether Demon forces have invaded this place and are devouring humans to grow their strength.",
+  "ch": "近期<b>{positionName|1404}</b>数百修仙者神秘失踪，仙盟方严重怀疑是有未知的小股冥妖力量入侵了此地并吞噬人类进行成长所致。"
+ },
+ "710156": {
+  "en": "Rumors say that a demonic Cultivator has appeared close to <b>{positionName|1405}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Currently, the Cultivator Alliance is calling for urgent trapping and elimination of this demon.",
+  "ch": "据说，<b>{positionName|1405}</b>附近出现了一名妖异的修仙者，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟方正对此妖进行紧急围剿。"
+ },
+ "710157": {
+  "en": "According to rumors, the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Many Cultivators near <b>{positionName|1406}</b> were seriously wounded, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{positionName|1406}</b>附近许多修仙者身负重伤，目前已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。"
+ },
+ "710161": {
+  "en": "Rumors say that there was a bloodbath recently close to <b>{4}</b>. A Nether Demon lurked about and attacked passing Cultivators. Due to its ruthlessness and unpredictability, no one has been able to exterminate it yet, and there have been hundreds of casualties so far. The Cultivators <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have been tragically killed.",
+  "ch": "传闻近期<b>{4}</b>附近发生了一起血案，有冥妖潜伏此地袭击过路的修仙者，由于其手段狠辣、神出鬼没，尚无人能将其灭杀，截至目前已造成数百人员伤亡。仙盟中的修仙者<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等已然不幸遇害。"
+ },
+ "710162": {
+  "en": "According to witnesses, a Nether Demon appeared close to <b>{4}</b> and wantonly attacked humans. The demon is exceptionally strong, and is still causing great damage. <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have already been killed.",
+  "ch": "据目击者称，<b>{4}</b>附近出现了大肆攻击人类的冥妖，此妖实力异常强大、以一敌百，目前仍在行凶作乱之中。仙盟麾下的<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等修仙者已横遭毒手。"
+ },
+ "710163": {
+  "en": "Recently, there has been a sudden increase in the concentration of Nether Air close to <b>{4}</b>. It is suspected that this is due to Nether Demons. The Cultivator Alliance has sent hundreds of the righteous to explore the area, but none of them have returned, including <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and other skilled members.",
+  "ch": "近日<b>{4}</b>附近冥气浓度陡然提升，疑似有冥妖在此作乱，仙盟派遣数百正义之士前往一探却均有去无回，其中包括<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等仙盟之才。"
+ },
+ "710164": {
+  "en": "Recently, hundreds of Cultivators have disappeared mysteriously at <b>{4}</b>. The Cultivator Alliance is highly suspicious that an unknown small amount of Nether Demon forces have invaded this place and are devouring humans to grow their strength. Poor <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and other loyal people have died.",
+  "ch": "近期<b>{4}</b>数百修仙者神秘失踪，仙盟方严重怀疑是有未知的小股冥妖力量入侵了此地并吞噬人类进行成长所致，可怜<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等我族忠良一命呜呼。"
+ },
+ "710165": {
+  "en": "Rumors say that a demonic Cultivator has appeared close to <b>{4}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Currently, the Cultivator Alliance is calling for urgent trapping and elimination of this demon, in a vow to avenge those who have died, <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and others.",
+  "ch": "据说，<b>{4}</b>附近出现了一名妖异的修仙者，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟方正对此妖进行紧急围剿，誓要为<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等烈士报仇。"
+ },
+ "710166": {
+  "en": "According to rumors, the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Close to <b>{4}</b>, the corpses of <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and hundreds of Cultivators were discovered. Most of their souls had dissipated, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{4}</b>附近发现<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等数百修仙者的尸骸，大部分人已然元魂消散，已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。"
+ },
+ "710172": {
+  "en": "According to rumors, the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Close to <b>{4}</b>, the corpses of <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and hundreds of Cultivators were discovered. Most of their souls had dissipated, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people. The Cultivator Alliance strongly advises sensible cultivator behavior and not to panic.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{4}</b>附近发现<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等数百修仙者的尸骸，大部分人已然元魂消散，已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。对此情形，仙盟方严正声明：理智修仙，无需恐慌。"
+ },
+ "710173": {
+  "en": "Rumors say that there was a bloodbath recently close to <b>{1}</b>. A Nether Demon lurked about and attacked passing Cultivators. Due to its ruthlessness and unpredictability, no one has been able to exterminate it yet, and there have been hundreds of casualties so far.",
+  "ch": "传闻近期<b>{1}</b>附近发生了一起血案，有冥妖潜伏此地袭击过路的修仙者，由于其手段狠辣、神出鬼没，尚无人能将其灭杀，截至目前已造成数百人员伤亡。"
+ },
+ "710174": {
+  "en": "According to witnesses, a Nether Demon appeared close to <b>{1}</b> and wantonly attacked humans. This Nether Demon is unusually powerful and is currently in the midst of wreaking great havoc.",
+  "ch": "据目击者称，<b>{1}</b>附近出现了大肆攻击人类的冥妖，此妖实力异常强大、以一敌百，目前仍在行凶作乱之中。"
+ },
+ "710175": {
+  "en": "Recently, there has been a sudden increase in the concentration of Nether Air close to <b>{1}</b>. It is suspected that this is due to Nether Demons. The Cultivator Alliance has sent hundreds of the righteous to explore the area, but none of them have returned.",
+  "ch": "近日<b>{1}</b>附近冥气浓度陡然提升，疑似有冥妖在此作乱，仙盟派遣数百正义之士前往一探却均有去无回。"
+ },
+ "710176": {
+  "en": "Recently, hundreds of Cultivators have disappeared mysteriously at <b>{1}</b>. The Cultivator Alliance is highly suspicious that an unknown small amount of Nether Demon forces have invaded this place and are devouring humans to grow their strength.",
+  "ch": "近期<b>{1}</b>数百修仙者神秘失踪，仙盟方严重怀疑是有未知的小股冥妖力量入侵了此地并吞噬人类进行成长所致。"
+ },
+ "710177": {
+  "en": "Rumors say that a demonic Cultivator has appeared close to <b>{1}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Currently, the Cultivator Alliance is calling for urgent trapping and elimination of this demon.",
+  "ch": "据说，<b>{1}</b>附近出现了一名妖异的修仙者，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟方正对此妖进行紧急围剿。"
+ },
+ "710178": {
+  "en": "According to rumors, the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Many Cultivators near <b>{1}</b> were seriously wounded, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{1}</b>附近许多修仙者身负重伤，目前已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。"
+ },
+ "710179": {
+  "en": "Rumors say that there was an attack recently close to <b>{positionName|1401}</b>. A Nether Demon lurked about and attacked passing Cultivators. Due to its ruthlessness and unpredictability, no one has been able to exterminate it yet, and there have been hundreds of casualties so far. The Cultivators <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have been severely injured.",
+  "ch": "传闻近期<b>{positionName|1401}</b>附近发生了袭击案，有冥妖潜伏此地袭击过路的修仙者，由于其手段狠辣、神出鬼没，尚无人能将其灭杀，截至目前已造成数百人员伤亡。仙盟中的修仙者<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等身受重伤。"
+ },
+ "710180": {
+  "en": "According to witnesses, a Nether Demon appeared close to <b>{positionName|1402}</b> and wantonly attacked humans. The demon is exceptionally strong, and is still causing great damage. <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance have been injured.",
+  "ch": "据目击者称，<b>{positionName|1402}</b>附近出现了大肆攻击人类的冥妖，此妖实力异常强大、以一敌百，目前仍在行凶作乱之中。仙盟麾下的<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等修仙者已在战斗中受伤。"
+ },
+ "710181": {
+  "en": "Recently, there has been a sudden increase in the concentration of Nether Air close to <b>{positionName|1403}</b>. It is suspected that this is due to Nether Demons. The Cultivator Alliance has sent hundreds of the righteous to explore the area, and all of them have been injured, including <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and other skilled members.",
+  "ch": "近日<b>{positionName|1403}</b>附近冥气浓度陡然提升，疑似有冥妖在此作乱，仙盟派遣数百正义之士前往一探却均负伤归来，其中包括<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等仙盟之才。"
+ },
+ "710182": {
+  "en": "Recently, hundreds of Cultivators have disappeared mysteriously at <b>{positionName|1404}</b>. The Cultivator Alliance is highly suspicious that an unknown small amount of Nether Demon forces have invaded this place and are devouring humans to grow their strength. Poor <b>{1}</b>, <b>{2}</b>, <b>{3}</b> and other loyal members have been severely injured.",
+  "ch": "近期<b>{positionName|1404}</b>数百修仙者神秘失踪，仙盟方严重怀疑是有未知的小股冥妖力量入侵了此地并吞噬人类进行成长所致，<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等我族忠良已被重伤。"
+ },
+ "710183": {
+  "en": "Rumor has it that a demonic Cultivator has appeared close to <b>{positionName|1405}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Currently, the Cultivator Alliance is calling for urgent trapping and elimination of this demon, in a vow to avenge <b>{1}</b>, <b>{2}</b>, and <b>{3}</b>, who have been severely injured.",
+  "ch": "据说，<b>{positionName|1405}</b>附近出现了一名妖异的修仙者，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟方正对此妖进行紧急围剿，誓要为被其重伤的<b>{1}</b>、<b>{2}</b>、<b>{3}</b>报仇。"
+ },
+ "710184": {
+  "en": "Rumor has it that the activities of the Nether Demons have picked up recently, and the Cultivator Alliance could not gain the momentum to deal with them. Close to <b>{positionName|1406}</b>, <b>{1}</b>, <b>{2}</b>, and <b>{3}</b>, as well as hundreds of other injured Cultivators were discovered. Most of their souls had dissipated, and it was confirmed to be the work of Nether Demons. Everyone in the Chi You Realm is in danger, and the smell of demons scares people.",
+  "ch": "小道消息称，近期冥妖活动愈发频繁，仙盟隐隐有把握不住的势头，在<b>{positionName|1406}</b>附近发现<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等数百负伤修仙者，大部分人已然元魂消散，已被证实乃冥妖所为。赤幽州境内人人自危，闻妖色变。"
+ },
+ "710191": {
+  "en": "Nether Demon <b>{0}</b> appeared near <b>{positionName|1402}</b> and wantonly attacked humans. Fortunately, the demon has been killed by <b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and others from the Cultivator Alliance.",
+  "ch": "<b>{positionName|1402}</b>附近出现了大肆攻击人类的冥妖<b>{0}</b>，仙盟麾下的<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等修仙者已联手将其击杀。"
+ },
+ "710192": {
+  "en": "<b>{1}</b>, <b>{2}</b>, <b>{3}</b>, and other cultivators found Nether Demon <b>{0}</b> near <b>{positionName|1406}</b> and killed it.",
+  "ch": "<b>{1}</b>、<b>{2}</b>、<b>{3}</b>等修仙者在<b>{positionName|1406}</b>附近发现冥妖<b>{0}</b>踪迹，已联手将其击杀。"
+ },
+ "710193": {
+  "en": "Rumors say that a demonic Cultivator <b>{0}</b> has appeared close to <b>{positionName|1405}</b>. That person is said to be shrouded in demonic energy, and was only revealed to be a Nether Demon after killing dozens of fellow Cultivators. Fortunately, the Cultivator Alliance has sent <b>{1}</b>, <b>{2}</b>, and <b>{3}</b> for urgent trapping and elimination of this demon, and their task is successful.",
+  "ch": "据说，<b>{positionName|1405}</b>附近出现了一名妖异的修仙者<b>{0}</b>，此人妖气缠身，在连杀数十位同道后才被揭露出其冥妖真身。目前仙盟派出<b>{1}</b>、<b>{2}</b>、<b>{3}</b>对此妖进行紧急围剿，已将其击杀。"
+ },
+ "5121049": {
+  "en": "The Sect Tournament has started. Our Sect was disqualified due to insufficient Disciples.",
+  "ch": "宗门大比已经开始，我宗由于弟子不足，被龙门组织取消了参赛资格。"
+ },
+ "5121050": {
+  "en": "The Sect Tournament has started. Our Sect was disqualified due to lack of a leader.",
+  "ch": "宗门大比已经开始，我宗由于缺少首领，被龙门组织取消了参赛资格。"
+ },
+ "5140273": {
+  "en": "We <r>{0}</r> hereby declare war against <r>{1}</r>, and will mount an attack next month.",
+  "ch": "我<r>{0}</r>向<r>{1}</r>宣战，将于下个月发动进攻。"
+ },
+ "5140274": {
+  "en": "<r>{0}</r> has declared war against our <r>{1}</r>, and will mount an attack next month.",
+  "ch": "<r>{0}</r>向我<r>{1}</r>宣战，将于下个月发动进攻。"
+ },
+ "7007904": {
+  "en": "Because of the low Qi density in Yong Ning, the Dragon Gate cannot be summoned here, therefore this place is denied access to the Sect Competition.",
+  "ch": "由于永宁州灵气稀薄，龙门无法降临在这片区域，故此地无法进行宗门大比。"
+ },
+ "7007905": {
+  "en": "The Sect Competition has started, and the participants from all the sects are heading to the battleground.",
+  "ch": "宗门大比正式开始，各宗门参赛者正在前往会场。"
+ },
+ "7007913": {
+  "en": "Due to {0} in this province, the Dragon Gate decided to cancel this Sect Tournament.",
+  "ch": "由于本州{0}，龙门组织决定取消举办本届宗门大比。"
+ },
+ "7007914": {
+  "en": "There are more than 6 Sects in this Sect Tournament. {0}, the Sect with the lowest Sect Prestige, is consequently disqualified.",
+  "ch": "本次宗门大比参与宗门超出6个，宗门名誉最低的{0}被龙门组织取消了参赛资格。"
+ },
+ "7009901": {
+  "en": "After <b>{0}</b> month(s), the Nether Demon Elite will lead armies of monsters to attack the walls. Please, Cultivators, hurry back to the Cultivator Alliance to repel the wave of monsters!",
+  "ch": "<b>{0}</b>个月后，冥妖精锐就会率领妖兽大军进攻城墙，请各位修仙者速速返回仙盟，抵御兽潮！"
+ },
+ "7009902": {
+  "en": "The wave of monsters approaches. Cultivators, head to the Cultivator Alliance <b>Monster Resisting Altar</b> to protect humanity together as a united front!",
+  "ch": "兽潮即将开始，请各位修仙者前往仙盟<b>御妖台</b>处抵御兽潮，共同保卫人族疆土！"
+ },
+ "7009903": {
+  "en": "The Shattered Altar has been activated!",
+  "ch": "破碎祭坛开启了！"
+ },
+ "9102702": {
+  "en": "Rumor has it that in the auction held in <g>Yong Ning</g>, a rare treasure called <b>Aeon Remnant Scroll</b> will be up for grabs. This treasure can rewrite a sect's destiny and all major sects will scramble for it.",
+  "ch": "传闻本次在<g>永宁州</g>举办的拍卖会中，有稀世珍宝<b>太古残卷</b>现世，此物可更改宗门逆天改命，势必成为各大宗门的必争之物。"
+ },
+ "9102703": {
+  "en": "Rumor has it that in the auction held in <g>Hua Feng</g>, a rare treasure called <b>Aeon Remnant Scroll</b> will be up for grabs. This treasure can rewrite a sect's destiny and all major sects will scramble for it.",
+  "ch": "传闻本次在<g>华封州</g>举办的拍卖会中，有稀世珍宝<b>太古残卷</b>现世，此物可更改宗门逆天改命，势必成为各大宗门的必争之物。"
+ },
+ "9102704": {
+  "en": "Rumor has it that in the auction held in <g>Yun Mo</g>, a rare treasure called <b>Aeon Remnant Scroll</b> will be up for grabs. This treasure can rewrite a sect's destiny and all major sects will scramble for it.",
+  "ch": "传闻本次在<g>云陌州</g>举办的拍卖会中，有稀世珍宝<b>太古残卷</b>现世，此物可更改宗门逆天改命，势必成为各大宗门的必争之物。"
+ },
+ "9102705": {
+  "en": "Rumor has it that in the auction held in <g>Mu Xian</g>, a rare treasure called <b>Aeon Remnant Scroll</b> will be up for grabs. This treasure can rewrite a sect's destiny and all major sects will scramble for it.",
+  "ch": "传闻本次在<g>暮仙州</g>举办的拍卖会中，有稀世珍宝<b>太古残卷</b>现世，此物可更改宗门逆天改命，势必成为各大宗门的必争之物。"
+ },
+ "9102706": {
+  "en": "Rumor has it that in the auction held in <g>Chi You</g>, a rare treasure called <b>Aeon Remnant Scroll</b> will be up for grabs. This treasure can rewrite a sect's destiny and all major sects will scramble for it.",
+  "ch": "传闻本次在<g>赤幽州</g>举办的拍卖会中，有稀世珍宝<b>太古残卷</b>现世，此物可更改宗门逆天改命，势必成为各大宗门的必争之物。"
+ },
+ "10400211": {
+  "en": "Under the leadership of Sect Leader {1} and Elder {0}, the sect is standing united and has recruited {2} backup disciples. We are now one step closer to unifying the world under our sect's rule!",
+  "ch": "在宗主{1}与长老{0}的带领下，全宗上下众志成城，为宗门招募到{2}位记名弟子。我宗一统八荒指日可待！"
+ },
+ "10400212": {
+  "en": "Under the leadership of Sect Leader {1} and Elder {0}, the sect is standing united and has boosted our sect prestige by {2}. We are now one step closer to unifying the world under our sect's rule!",
+  "ch": "在宗主{1}与长老{0}的带领下，全宗上下众志成城，为宗门增加了名誉{2}。我宗一统八荒指日可待！"
+ },
+ "10400213": {
+  "en": "Under the leadership of Sect Leader {1} and Elder {0}, the sect is standing united and has boosted our sect stability by {2}. We are now one step closer to unifying the world under our sect's rule!",
+  "ch": "在宗主{1}与长老{0}的带领下，全宗上下众志成城，为宗门增加了安定度{2}。我宗一统八荒指日可待！"
+ },
+ "10400214": {
+  "en": "Under the leadership of Sect Leader {1} and Elder {0}, the sect is standing united and has increased the number of spirit stones by {2}. We are now one step closer to unifying the world under our sect's rule!",
+  "ch": "在宗主{1}与长老{0}的带领下，全宗上下众志成城，为宗门增加了灵石{2}。我宗一统八荒指日可待！"
+ },
+ "10400215": {
+  "en": "Under the leadership of Sect Leader {1} and Elder {0}, the sect is standing united and the herbs and ore we've gathered now stand at {2}. We are now one step closer to unifying the world under our sect's rule!",
+  "ch": "在宗主{1}与长老{0}的带领下，全宗上下众志成城，为宗门筹措了药材和矿材共计{2}。我宗一统八荒指日可待！"
+ }
+}

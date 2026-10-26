@@ -1,0 +1,4450 @@
+{
+ "510001": {
+  "en": "{name|A}, it's been a long time since we last met... I'd like to see more of you, if we can find the time.",
+  "ch": "{name|A}，先前一别，已有许久未见…若有闲暇，希望能与你多聚聚。"
+ },
+ "510002": {
+  "en": "{relation|A|B}, it's been a while. {relation|B|A} has missed you... You should come by and see me when you get a chance.",
+  "ch": "{relation|A|B}，许久未曾见你，{relation|B|A}甚是想念…若有闲暇，常来看看我。"
+ },
+ "510003": {
+  "en": "Disciple, it's been a long time since we last met. Master has missed you... I hope everything is well with you.",
+  "ch": "徒儿，你我自先前一别，已有许久未曾相见，为师甚是想念…望你一切安好。"
+ },
+ "510004": {
+  "en": "Master, it's been a while. I have missed you... You should come by and see me when you get a chance.",
+  "ch": "师父，已有许久未曾见你了，我甚是想念…希望师父若有闲暇，能常来看看我。"
+ },
+ "510005": {
+  "en": "{name|A}, it's been a long time since we last met. {relation|B|A} has missed you... I hope everything is well with you.",
+  "ch": "{name|A}，你我自先前一别，已有许久未曾相见，{relation|B|A}甚是想念…望你一切安好。"
+ },
+ "510006": {
+  "en": "{relation|A|B}, it's been a while. I have missed you... Hope {relation|A|B} can come by and see me when you get a chance.",
+  "ch": "{relation|A|B}，已有许久未曾见你了，我甚是想念…希望{relation|A|B}若有闲暇，能常来看看我。"
+ },
+ "510007": {
+  "en": "{name|A}, it's been a while. Are you well? I have missed you... You should come by and see me when you get a chance.",
+  "ch": "{name|A}，许久未曾见你，你可还安好？自先前一别，我甚是想念…他日若有闲暇，常来看看我。"
+ },
+ "510008": {
+  "en": "{name|A}, it's been a while. Are you well? I have missed you... Don't forget your {relation|B|A}!",
+  "ch": "{name|A}，许久未曾见你，你可还安好？自先前一别，我甚是想念…希望你不要忘了我这个{relation|B|A}。"
+ },
+ "510009": {
+  "en": "{name|A}, you should not have taken my {item}... If you wanted {item}, you could have just asked me. I would have given it to you, no problem. I hope you can change your ways. I still think of you as a friend.",
+  "ch": "{name|A}，你不该偷窃我的{item}…你若有所需，可与我商量，将{item}赠于你也未尝不可。希望你能改过自新，我依然把你当朋友。"
+ },
+ "510010": {
+  "en": "{name|A}, just because I didn't lose it when you took my item the other day doesn't mean I have forgotten about it. You will pay for your wickedness, one way or another!",
+  "ch": "{name|A}，当日你偷窃我的所有之物时，我虽没有翻脸，但并不代表我不计较此事…若有机会，我定会让你为你的恶行付出惨痛的代价！"
+ },
+ "510011": {
+  "en": "{relation|A|B}, if you wanted my {item} we could have talked about it. Stealing is a last resort... Think it over. There's still time to turn over a new leaf.",
+  "ch": "{relation|A|B}，你若是需要{item}大可与我商量，行偷窃之事实乃下下之策…希望你能自省，早日改过自新。"
+ },
+ "510012": {
+  "en": "Disciple, I am willing to overlook the theft of my {item}... You are my Disciple, after all.",
+  "ch": "徒儿，你先前偷窃了{item}一事，为师不予计较…你依然是我的弟子。"
+ },
+ "510013": {
+  "en": "Master, if you wanted my {item} we could have talked about it... All you had to do was ask, and I would have given {item} to you freely. Please don't steal from me again.",
+  "ch": "师父，你若是需要{item}，大可与我商量…你即为我的师父，只要你开口，我愿意将{item}赠于你，希望你以后不要再行鸡鸣狗盗之事。"
+ },
+ "510014": {
+  "en": "{name|A}, your {relation|B|A} I, am willing to overlook the theft of my {item}... You are my {relation|A|B}, after all.",
+  "ch": "{name|A}，你先前偷窃了{item}一事，{relation|B|A}不予计较…你依然是我的{relation|A|B}。"
+ },
+ "510015": {
+  "en": "{relation|A|B}, if you wanted my {item} we could have talked about it... You are my {relation|A|B} after all. All you had to do was ask, and I would have given {item} to you freely. Please don't steal from me again.",
+  "ch": "{relation|A|B}，你若是需要{item}，大可与我商量…你即为我的{relation|A|B}，只要你开口，我愿意将{item}赠于你，希望你以后不要再行鸡鸣狗盗之事。"
+ },
+ "510016": {
+  "en": "{name|A}, please don't steal from me again... If you wanted {item}, you could have asked.",
+  "ch": "{name|A}，希望你以后莫要再行鸡鸣狗盗之事…你若是需要{item}，可直接开口向我索取。"
+ },
+ "510018": {
+  "en": "{name|A}, you took my {item} but I've forgiven you already! Water under the bridge old friend...",
+  "ch": "{name|A}，你先前偷我{item}的事，我已经原谅你了！这件事就此揭过，我依然把你当朋友…"
+ },
+ "510019": {
+  "en": "{name|A}, just because I didn't lose it when you took my {item} the other day doesn't mean I have forgotten about it! One day you will pay a terrible price for your wickedness, I swear it!",
+  "ch": "{name|A}，你前些时日偷我的{item}，我虽没有当场翻脸，但此事我一直记在心里！我终会让你为你的恶行付出惨痛的代价！"
+ },
+ "510027": {
+  "en": "{name|A}, I can't believe you took my {item} and wounded me in the process!... You need to take a good hard look at yourself. There's still time to turn over a new leaf.",
+  "ch": "{name|A}，想不到你为了{item}不仅行鸡鸣狗盗之事，还重伤于我…希望你能反思自己的行为，早日改过自新。"
+ },
+ "510028": {
+  "en": "{name|A}, I can't believe you attacked me to get my {item}! You really hurt me. I'll pay you back, hateful scoundrel!",
+  "ch": "{name|A}，你不仅对我的{item}起贪念，更是重伤于我！如此深仇大恨，翌日我必让你付出代价！"
+ },
+ "510029": {
+  "en": "{relation|A|B}, I can't believe you attacked me and took my {item}... You need to take a good hard look at yourself. There's still time to turn over a new leaf.",
+  "ch": "{relation|A|B}，想不到你竟然会为了得到{item}而重伤于我…希望你能反思自己的行为，早日改过自新。"
+ },
+ "510030": {
+  "en": "Disciple, I can't believe you attacked me just for my {item}! Traitor, you wounded me deeply!... Wake up to yourself. There's still time to turn over a new leaf.",
+  "ch": "徒儿，想不到你为了{item}，竟会做出如此大逆不道之举！不仅行偷窃之事，更是将为师打成重伤…作为师父，希望你能够及时醒悟，改过自新。"
+ },
+ "510031": {
+  "en": "Master, you stole my {item} like a common thief, hurting me badly in the process... I beg you Master, wake up to yourself. There's still time to turn over a new leaf.",
+  "ch": "师父，你为了{item}不仅行鸡鸣狗盗之事，更是重伤于我…作为弟子，我恳求师父能够及时醒悟，改过自新。"
+ },
+ "510032": {
+  "en": "{name|A}, I can't believe you attacked me just for my {item}! Traitor, you wounded me deeply...! As your {relation|B|A}, I hope you can wake up to yourself. There's still time to turn over a new leaf.",
+  "ch": "{name|A}，想不到你为了{item}，竟会做出如此大逆不道之举！不仅行偷窃之事，更是将我打成重伤…作为{relation|B|A}，希望你能够及时醒悟，改过自新。"
+ },
+ "510033": {
+  "en": "{relation|A|B}, you stole my {item} like a common thief, hurting me badly in the process... As your {relation|B|A}, I beg you, {relation|A|B}, there's still time to turn over a new leaf.",
+  "ch": "{relation|A|B}，你为了{item}不仅行鸡鸣狗盗之事，更是重伤于我…作为{relation|B|A}，我恳求{relation|A|B}能够及时醒悟，改过自新。"
+ },
+ "510034": {
+  "en": "{name|A}, I can't believe you attacked me for my {item}... but you must have your reasons. I don't hate you for it.",
+  "ch": "{name|A}，想不到你竟为了{item}对我下此毒手…我相信你一定有你的苦衷，此事我不恨你。"
+ },
+ "510063": {
+  "en": "{name|A}, I can't believe you took my {item} and broke my body... You need to take a good hard look at yourself. There's still time to turn over a new leaf.",
+  "ch": "{name|A}，想不到你为了{item}不仅行鸡鸣狗盗之事，还毁我肉身…希望你能反思自己的行为，早日改过自新。"
+ },
+ "510064": {
+  "en": "{name|A}, I can't believe you attacked me to get my {item}! You almost broke me. I'll pay you back, hateful scoundrel!",
+  "ch": "{name|A}，你不仅对我的{item}起贪念，更是毁去我肉身！如此深仇大恨，翌日我必让你付出代价！"
+ },
+ "510065": {
+  "en": "{relation|A|B}, I can't believe you broke my body and took my {item}... You need to take a good hard look at yourself. There's still time to turn over a new leaf.",
+  "ch": "{relation|A|B}，想不到你竟然会为了得到{item}而毁我肉身…希望你能反思自己的行为，早日改过自新。"
+ },
+ "510066": {
+  "en": "Disciple, I can't believe you attacked me just for my {item}! Traitor, you almost broke me!... Wake up to yourself. There's still time to turn over a new leaf.",
+  "ch": "徒儿，想不到你为了{item}，竟会做出如此大逆不道之举！不仅行偷窃之事，更是将为师的肉身毁去…作为师父，希望你能够及时醒悟，改过自新。"
+ },
+ "510067": {
+  "en": "Master, you stole my {item} like a common thief, almosst breaking me in the process... I beg you Master, wake up to yourself. There's still time to turn over a new leaf.",
+  "ch": "师父，你为了{item}不仅行鸡鸣狗盗之事，更是毁去我肉身…作为弟子，我恳求师父能够及时醒悟，改过自新。"
+ },
+ "510068": {
+  "en": "{name|A}, I can't believe you attacked me just for my {item}! Traitor, you even destroyed my body...! As your {relation|B|A}, I hope you can wake up to yourself. There's still time to turn over a new leaf.",
+  "ch": "{name|A}，想不到你为了{item}，竟会做出如此大逆不道之举！不仅行偷窃之事，更是将我肉身毁去…作为{relation|B|A}，希望你能够及时醒悟，改过自新。"
+ },
+ "510069": {
+  "en": "{relation|A|B}, you stole my {item} like a common thief, even destroying my body... As your {relation|B|A}, I beg you, {relation|A|B}, there's still time to turn over a new leaf.",
+  "ch": "{relation|A|B}，你为了{item}不仅行鸡鸣狗盗之事，更是毁我肉身…作为{relation|B|A}，我恳求{relation|A|B}能够及时醒悟，改过自新。"
+ },
+ "510081": {
+  "en": "{name|A}, it's been a while... That {item} you gave me has been very useful. You should come by and see me when you get a chance.",
+  "ch": "{name|A}，许久未见…你先前所赠送的{item}助我良多。你若有闲暇，常来看看我。"
+ },
+ "510082": {
+  "en": "{name|A}, you and I have had our differences and I still don't like you that much... but I really appreciate the {item} you gave me.",
+  "ch": "{name|A}，我们之间是有些仇怨，至今我仍不喜欢你…但我非常感激你先前所赠的{item}。"
+ },
+ "510083": {
+  "en": "{relation|A|B}, thank you for the {item} you gave me. It has taken my cultivation to the next level! You should come by and see me when you get a chance.",
+  "ch": "{relation|A|B}，感谢你先前所赠的{item}，此物助我良多，如今我的修为已更进了一步！他日若有闲暇，记得常来看我。"
+ },
+ "510084": {
+  "en": "Disciple, it's been a while since I saw you last... Thank you for the {item} you gave me. It has taken my cultivation to the next level! You should come by and see me when you get a chance.",
+  "ch": "徒儿，先前一别，已有多日未曾见过你…还有，感谢你孝敬给为师的{item}，此物助我良多，如今我的修为已更进了一步！你若有闲暇，常来看看我。"
+ },
+ "510085": {
+  "en": "Master, that {item} you gave me has been a big help. I think I have improved a lot! If you've got a moment Master, could you give me some pointers?",
+  "ch": "师父，你先前赠送的{item}助我良多，如今我修为想必先前精进了不少！他日师父若有闲暇，可否给我指点一二？"
+ },
+ "510086": {
+  "en": "{name|A}, it's been a while since I saw you last... Thank you for giving {relation|B|A} {item}. It has taken my cultivation to the next level! You should come by and see me when you get a chance.",
+  "ch": "{name|A}，先前一别，已有多日未曾见过你…还有，感谢你孝敬给{relation|B|A}的{item}，此物助我良多，如今我的修为已更进了一步！你若有闲暇，常来看看我。"
+ },
+ "510087": {
+  "en": "{relation|A|B}, that {item} you gave me has been a big help. I think I have improved a lot! If you've got a moment {relation|A|B}, could you give me some pointers?",
+  "ch": "{relation|A|B}，你先前赠送的{item}助我良多，如今我修为想必先前精进了不少！他日{relation|A|B}若有闲暇，可否给我指点一二？"
+ },
+ "510088": {
+  "en": "{name|A}, thank you for the {item}. Sadly I haven't seen much of you since the day you gave it to me... You should drop in and see me when you get a chance.",
+  "ch": "{name|A}，谢谢你先前所赠的{item}。只是在那日之后就再也没见过你…你若有闲暇，可否与我见上一面？"
+ },
+ "510089": {
+  "en": "{name|A}, thank you for the {item}. Sadly I haven't seen much of you since the day you gave it to me... I know you're busy, but try not to forget about {relation|B|A}!",
+  "ch": "{name|A}，谢谢你先前所赠的{item}。只是在那日之后就再也没见过你…即便再忙，希望你也不要忘了我这个{relation|B|A}。"
+ },
+ "510090": {
+  "en": "{name|A}, it's been a while... Have you had a chance to use that {item} I gave you yet? You should come by and see me sometime.",
+  "ch": "{name|A}，许久未见…先前赠你的{item}可有派上用场？你若有闲暇，常来看看我。"
+ },
+ "510091": {
+  "en": "{relation|A|B}, have you found a use for that {item}?... I haven't really seen much of you since I gave it to you. You should come by and see me when you get a chance.",
+  "ch": "{relation|A|B}，也不知先前赠于你的{item}是否对你有帮助…只是在那日之后却再也没有见过你了。你若有闲暇，常来看看我。"
+ },
+ "510092": {
+  "en": "Disciple, it's been a while. Have you found a use for that {item} I gave you?... You should come by and visit your old Master when you get a chance.",
+  "ch": "徒儿，许久未曾见你，也不知先前赠你的{item}是否有对你有帮助…希望你能常来看看为师。"
+ },
+ "510093": {
+  "en": "Master, have you found a use for that {item} I gave you?... You should come by and see me when you get a chance.",
+  "ch": "师父，也不知先前孝敬你的{item}是否有派上用场…希望你能常来看看我。"
+ },
+ "510094": {
+  "en": "{name|A}, it's been a while. Have you found a use for that {item} I gave you?... You should come by and visit your {relation|B|A} when you get a chance.",
+  "ch": "{name|A}，许久未曾见你，也不知先前赠你的{item}是否有对你有帮助…希望你能常来看看{relation|B|A}。"
+ },
+ "510095": {
+  "en": "{relation|A|B}, have you found a use for that {item} I gave you?... You should come by and see me when you get a chance.",
+  "ch": "{relation|A|B}，也不知先前孝敬你的{item}是否有派上用场…希望你能常来看看我。"
+ },
+ "510096": {
+  "en": "{name|A}, has that {item} I gave you come in handy? It's been a while... You should come by and see me when you get a chance.",
+  "ch": "{name|A},先前给你的{item}是否对你有帮助呢？许久未曾见你了…希望你若有时间，能常来看我。"
+ },
+ "510097": {
+  "en": "{name|A}, has that {item} I gave you come in handy? It's been a while... You should come by and see your {relation|B|A}, me, when you get a chance.",
+  "ch": "{name|A},先前给你的{item}是否对你有帮助呢？许久未曾见你了…希望你不要忘了我这个{relation|B|A}。"
+ },
+ "530001": {
+  "en": "Persuade them to leave",
+  "ch": "劝对方离开"
+ },
+ "530002": {
+  "en": "Attack them",
+  "ch": "攻击对方"
+ },
+ "530003": {
+  "en": "See who they are",
+  "ch": "看看对方是谁"
+ },
+ "530004": {
+  "en": "Leave",
+  "ch": "离开此地"
+ },
+ "530007": {
+  "en": "Accept",
+  "ch": "接受"
+ },
+ "530008": {
+  "en": "Decline",
+  "ch": "拒绝"
+ },
+ "530009": {
+  "en": "Enter",
+  "ch": "进入其中"
+ },
+ "530010": {
+  "en": "Wait",
+  "ch": "先等等"
+ },
+ "530011": {
+  "en": "Play Go",
+  "ch": "对弈"
+ },
+ "530012": {
+  "en": "Debate",
+  "ch": "论道"
+ },
+ "530013": {
+  "en": "Dual Cultivation",
+  "ch": "双修"
+ },
+ "530014": {
+  "en": "Enjoy Tea",
+  "ch": "品茗"
+ },
+ "530016": {
+  "en": "Feed Fish",
+  "ch": "喂鱼"
+ },
+ "530017": {
+  "en": "Drink Alcohol",
+  "ch": "饮酒"
+ },
+ "530019": {
+  "en": "View Flowers",
+  "ch": "赏花"
+ },
+ "530020": {
+  "en": "Spar",
+  "ch": "切磋"
+ },
+ "530021": {
+  "en": "Small Talk",
+  "ch": "闲聊"
+ },
+ "530022": {
+  "en": "Gift",
+  "ch": "赠送道具"
+ },
+ "530024": {
+  "en": "Leave this area",
+  "ch": "离开当前区域"
+ },
+ "530028": {
+  "en": "Escape",
+  "ch": "逃离此地"
+ },
+ "530029": {
+  "en": "Leave now, we will speak later.",
+  "ch": "你且先离开，待日后再说"
+ },
+ "530030": {
+  "en": "Enough, just leave!",
+  "ch": "少废话，赶紧滚！"
+ },
+ "530032": {
+  "en": "Help {name|B}",
+  "ch": "帮助{name|B}"
+ },
+ "530033": {
+  "en": "Help {name|C}",
+  "ch": "帮助{name|C}"
+ },
+ "530034": {
+  "en": "Remain silent",
+  "ch": "沉默不语"
+ },
+ "530038": {
+  "en": "Give Elixir",
+  "ch": "给予丹药"
+ },
+ "530040": {
+  "en": "Sure.",
+  "ch": "无妨"
+ },
+ "530041": {
+  "en": "Beat them up first!",
+  "ch": "揍一顿再说！"
+ },
+ "530044": {
+  "en": "Dying of old age is something that should be celebrated.",
+  "ch": "寿尽而亡乃是人生幸事"
+ },
+ "530045": {
+  "en": "Foolish Old Man is our role model.",
+  "ch": "愚公之志乃我辈之榜样"
+ },
+ "530046": {
+  "en": "I didn't know he had a soft side.",
+  "ch": "没想到愚公也有温情一面"
+ },
+ "530047": {
+  "en": "Investigate",
+  "ch": "一探究竟"
+ },
+ "530051": {
+  "en": "Eliminate",
+  "ch": "出手剿灭"
+ },
+ "530053": {
+  "en": "Use item",
+  "ch": "使用道具"
+ },
+ "530059": {
+  "en": "This is a very rare item. Since it is your heirloom, I shall not take it.",
+  "ch": "此物玄奥异常，既是你传家之宝，我当奉还"
+ },
+ "530060": {
+  "en": "If the Foolish Old Man gave it to me, then I will gladly take it.",
+  "ch": "此物既是愚公所赠，我便恭敬不如从命了"
+ },
+ "530061": {
+  "en": "OK",
+  "ch": "确定"
+ },
+ "530064": {
+  "en": "Help the Blood Lord Elder with removing the Divine Stone.",
+  "ch": "帮助血魔老祖，移开神石"
+ },
+ "530065": {
+  "en": "Ignore the Blood Lord Elder.",
+  "ch": "不帮血魔老祖，不予理睬"
+ },
+ "530066": {
+  "en": "Several Spirit Stones",
+  "ch": "灵石若干"
+ },
+ "530067": {
+  "en": "Several Elixirs",
+  "ch": "丹药若干"
+ },
+ "530068": {
+  "en": "Several treasures",
+  "ch": "珍品若干"
+ },
+ "530069": {
+  "en": "Martial arts manuals",
+  "ch": "功法秘籍"
+ },
+ "530070": {
+  "en": "I want them all",
+  "ch": "我全都要"
+ },
+ "530071": {
+  "en": "Leave everything behind, including your life.",
+  "ch": "东西留下，命也留下"
+ },
+ "530073": {
+  "en": "Hide for now.",
+  "ch": "暂避锋芒"
+ },
+ "530079": {
+  "en": "Leave for now",
+  "ch": "暂时离开"
+ },
+ "530080": {
+  "en": "Fight",
+  "ch": "进入战斗"
+ },
+ "530083": {
+  "en": "You got the wrong person!",
+  "ch": "你认错人了！"
+ },
+ "530084": {
+  "en": "I don't want to hurt you.",
+  "ch": "我可舍不得对你下手。"
+ },
+ "530085": {
+  "en": "I only kill those that have made a name for themselves.",
+  "ch": "本座手下不死无名之鬼！"
+ },
+ "530086": {
+  "en": "I'll give you a G3 Enlightenment Elixir.",
+  "ch": "给你弄三品及以上的悟道丹"
+ },
+ "530087": {
+  "en": "Let me get you a solar stone.",
+  "ch": "给你搞旸鼎石"
+ },
+ "530088": {
+  "en": "I won't take you. Wait here.",
+  "ch": "就不带你进去，乖乖在这里等着"
+ },
+ "530089": {
+  "en": "I have it",
+  "ch": "带来了"
+ },
+ "530091": {
+  "en": "Not yet",
+  "ch": "还没有"
+ },
+ "530095": {
+  "en": "Maybe she's older than you by three, or even five thousand years.",
+  "ch": "说不定她可比你大了三五千岁"
+ },
+ "530096": {
+  "en": "Maybe the females of the Fox tribe are just like that.",
+  "ch": "或许狐族的女孩就这么矜持"
+ },
+ "530097": {
+  "en": "Let's figure out what gift to bring.",
+  "ch": "还是想想她说的觐见之礼是什么吧"
+ },
+ "530098": {
+  "en": "Hand over the gift.",
+  "ch": "奉上礼物"
+ },
+ "530099": {
+  "en": "Hold on.",
+  "ch": "待在下三思"
+ },
+ "530100": {
+  "en": "Give item",
+  "ch": "给予物品"
+ },
+ "530101": {
+  "en": "Not yet.",
+  "ch": "尚未寻得"
+ },
+ "530104": {
+  "en": "Fight the fiend.",
+  "ch": "迎战妖兽"
+ },
+ "530106": {
+  "en": "I'll take care of it.",
+  "ch": "此事就交给我吧"
+ },
+ "530107": {
+  "en": "My condolences.",
+  "ch": "节哀顺变"
+ },
+ "530108": {
+  "en": "Thank you for your kindness.",
+  "ch": "多谢族长好意"
+ },
+ "530109": {
+  "en": "Will the chief be able to regain her body?",
+  "ch": "族长还能修出真身吗"
+ },
+ "530110": {
+  "en": "I'm very sorry...",
+  "ch": "世事无常，唉……"
+ },
+ "530122": {
+  "en": "Fight to the death",
+  "ch": "誓死抵抗"
+ },
+ "5105333": {
+  "en": "We could roast it!",
+  "ch": "要么我们将它烤了吧！"
+ },
+ "5105334": {
+  "en": "Heaven has the virtue of cherishing life. Let it go!",
+  "ch": "上天有好生之德，放生！"
+ },
+ "5106184": {
+  "en": "A true gentleman should keep silent while watching a chess game",
+  "ch": "观棋不语真君子"
+ },
+ "5106185": {
+  "en": "Secretly give directions to the middle-aged man",
+  "ch": "暗中指点中年人"
+ },
+ "5106186": {
+  "en": "Secretly give directions to the old man",
+  "ch": "暗中指点老者"
+ },
+ "5106187": {
+  "en": "Drink their wine while they concentrate on chess",
+  "ch": "趁两人专心对弈，偷喝其酒"
+ },
+ "5106188": {
+  "en": "Shorten the max lifespan of the one who hates you most",
+  "ch": "减少最仇视你之人的寿命上限"
+ },
+ "5106189": {
+  "en": "Do not want to shorten other's life",
+  "ch": "不愿伤人寿数"
+ },
+ "5106190": {
+  "en": "Lengthen the max lifespan of the one who loves you most",
+  "ch": "增加最亲近你之人的寿命上限"
+ },
+ "5106191": {
+  "en": "Not intend to be rewarded",
+  "ch": "并无讨赏之意"
+ },
+ "5106192": {
+  "en": "Check this person",
+  "ch": "查看此人"
+ },
+ "5106293": {
+  "en": "Feed Elixir",
+  "ch": "喂服丹药"
+ },
+ "5106294": {
+  "en": "Take some exercises to heal the wound",
+  "ch": "运功疗伤"
+ },
+ "5106295": {
+  "en": "Seize the chance to kill",
+  "ch": "趁机杀害"
+ },
+ "5106297": {
+  "en": "I remember you",
+  "ch": "我记得你"
+ },
+ "5106299": {
+  "en": "I'll accept this",
+  "ch": "我收下了"
+ },
+ "5106300": {
+  "en": "Don't mention it",
+  "ch": "何必言谢"
+ },
+ "5106301": {
+  "en": "Thanks for the help",
+  "ch": "多谢相助"
+ },
+ "5106302": {
+  "en": "Don't risk your life for me again",
+  "ch": "勿再为我涉险"
+ },
+ "5106303": {
+  "en": "Wanna escape?",
+  "ch": "还想跑?"
+ },
+ "5106304": {
+  "en": "Prepare to die!",
+  "ch": "受死吧!"
+ },
+ "5106305": {
+  "en": "Wait!",
+  "ch": "慢着!"
+ },
+ "5106307": {
+  "en": "I was wronged indeed!",
+  "ch": "着实冤枉!"
+ },
+ "5106308": {
+  "en": "I confess...",
+  "ch": "我认罪..."
+ },
+ "5106309": {
+  "en": "There is absolutely no such thing!",
+  "ch": "绝无此事!"
+ },
+ "5106310": {
+  "en": "Maybe it was me...",
+  "ch": "好像是我…"
+ },
+ "5106315": {
+  "en": "Never afraid to say who I am",
+  "ch": "行不更名"
+ },
+ "5106316": {
+  "en": "Never hesitate to say who I am",
+  "ch": "坐不改姓"
+ },
+ "5106317": {
+  "en": "I'd like to join you for some training",
+  "ch": "我也想与你双修"
+ },
+ "5106318": {
+  "en": "Get out",
+  "ch": "你走"
+ },
+ "5106319": {
+  "en": "Fine, fine",
+  "ch": "好说好说"
+ },
+ "5106320": {
+  "en": "I charge a lot",
+  "ch": "我收费很贵的"
+ },
+ "5106321": {
+  "en": "You are welcome",
+  "ch": "不必客气"
+ },
+ "5106322": {
+  "en": "How about my reward?",
+  "ch": "报酬呢?"
+ },
+ "5106323": {
+  "en": "I came here specially to see you",
+  "ch": "特来看望"
+ },
+ "5106324": {
+  "en": "Where is the opportunity you promised?",
+  "ch": "说好的机缘呢?"
+ },
+ "5106325": {
+  "en": "If I could have the honor",
+  "ch": "若能有幸"
+ },
+ "5106326": {
+  "en": "Take it out",
+  "ch": "快拿出来"
+ },
+ "5119001": {
+  "en": "Delightfully accept.",
+  "ch": "欣然接受"
+ },
+ "5119002": {
+  "en": "Coldly disregard.",
+  "ch": "冷漠无视"
+ },
+ "5119003": {
+  "en": "Set aside misgivings and take from the pot.",
+  "ch": "放下成见，中饱私囊"
+ },
+ "5119004": {
+  "en": "Remain unmoved and keep up the fight.",
+  "ch": "不为所动，坚持作战"
+ },
+ "5119005": {
+  "en": "Pretend to acquiesce then strike unawares.",
+  "ch": "假装答应，趁机偷袭"
+ },
+ "5119006": {
+  "en": "Abandon the resources and return to the rescue.",
+  "ch": "放弃资源，立刻回救"
+ },
+ "5119007": {
+  "en": "Ignore him and continue the raid.",
+  "ch": "无视此人，继续掠夺"
+ },
+ "5119008": {
+  "en": "Agree to the duel.",
+  "ch": "答应单挑"
+ },
+ "5119009": {
+  "en": "Refuse the duel.",
+  "ch": "拒绝单挑"
+ },
+ "5120004": {
+  "en": "Agree",
+  "ch": "同意"
+ },
+ "5120005": {
+  "en": "Refuse",
+  "ch": "拒绝"
+ },
+ "5131001": {
+  "en": "Confirm attack",
+  "ch": "确定攻击"
+ },
+ "5131002": {
+  "en": "Never mind",
+  "ch": "还是算了"
+ },
+ "5140101": {
+  "en": "Attack",
+  "ch": "发动攻击"
+ },
+ "5140102": {
+  "en": "Let them cultivate",
+  "ch": "任其修炼"
+ },
+ "5140103": {
+  "en": "Clear Monsters",
+  "ch": "清剿妖兽"
+ },
+ "5140113": {
+  "en": "Deal",
+  "ch": "成交"
+ },
+ "5140114": {
+  "en": "Silent",
+  "ch": "沉默"
+ },
+ "5140129": {
+  "en": "The world works in mysterious ways.",
+  "ch": "冥冥之中，自有定数"
+ },
+ "5140130": {
+  "en": "Do your best. Nothing else matters.",
+  "ch": "尽力而为，余者不论"
+ },
+ "7006251": {
+  "en": "Disguise yourself and fight personally (Costs one month)",
+  "ch": "伪装身份，亲自出战（消耗一个月）"
+ },
+ "7006252": {
+  "en": "Go along with it and take the position of command (Costs one month)",
+  "ch": "随同前往，坐镇指挥（消耗一个月）"
+ },
+ "7006253": {
+  "en": "You are busy and cannot participate.",
+  "ch": "还有要事，无法参加"
+ },
+ "7007922": {
+  "en": "Good, I'll join the fight.",
+  "ch": "甚好，我当亲自出战"
+ },
+ "7007923": {
+  "en": "No need, I'll take up the reins of command.",
+  "ch": "不必，我坐镇指挥即可"
+ },
+ "7030042": {
+  "en": "Okay",
+  "ch": "好"
+ },
+ "7030043": {
+  "en": "Don't",
+  "ch": "别"
+ },
+ "7030044": {
+  "en": "Turn your head",
+  "ch": "马上回头"
+ },
+ "7030045": {
+  "en": "Walk in undisturbed",
+  "ch": "坦然进入"
+ },
+ "7030052": {
+  "en": "I'll be back soon",
+  "ch": "去去即回"
+ },
+ "7030053": {
+  "en": "Don't worry about me",
+  "ch": "不必牵挂"
+ },
+ "7030054": {
+  "en": "Display your strength",
+  "ch": "出手震慑"
+ },
+ "7030055": {
+  "en": "Turn and leave",
+  "ch": "转身离去"
+ },
+ "7030123": {
+  "en": "I get it",
+  "ch": "明白了"
+ },
+ "7030124": {
+  "en": "I don't understand",
+  "ch": "不明白"
+ },
+ "7030175": {
+  "en": "Grant",
+  "ch": "同意给予"
+ },
+ "7030176": {
+  "en": "Ask why",
+  "ch": "询问目的"
+ },
+ "7030177": {
+  "en": "Withhold",
+  "ch": "我就不给"
+ },
+ "7030178": {
+  "en": "Indeed",
+  "ch": "确实如此"
+ },
+ "7030180": {
+  "en": "Admit",
+  "ch": "直承其事"
+ },
+ "7030181": {
+  "en": "Deny",
+  "ch": "谦虚否认"
+ },
+ "7060531": {
+  "en": "Go to battle",
+  "ch": "启程出征"
+ },
+ "7060532": {
+  "en": "Skip battle",
+  "ch": "跳过战斗"
+ },
+ "7060533": {
+  "en": "Ready for battle",
+  "ch": "严阵以待"
+ },
+ "7060551": {
+  "en": "Lead retaliation yourself",
+  "ch": "御驾亲征"
+ },
+ "7060552": {
+  "en": "Send sect members instead",
+  "ch": "点将代劳"
+ },
+ "7060553": {
+  "en": "Ignore them",
+  "ch": "放任自流"
+ },
+ "7060582": {
+  "en": "Send someone in your stead",
+  "ch": "点将代劳"
+ },
+ "7060621": {
+  "en": "Go help them",
+  "ch": "前往支援"
+ },
+ "7060623": {
+  "en": "Confirm",
+  "ch": "确定"
+ },
+ "7060624": {
+  "en": "Send someone to help them",
+  "ch": "点将支援"
+ },
+ "7075021": {
+  "en": "Offer advice",
+  "ch": "指点一二"
+ },
+ "7075022": {
+  "en": "Save it for another time",
+  "ch": "日后再议"
+ },
+ "8221501": {
+  "en": "Lend a hand",
+  "ch": "出手相救"
+ },
+ "8221502": {
+  "en": "Don't rescue",
+  "ch": "不救"
+ },
+ "8221701": {
+  "en": "Step in to stop it",
+  "ch": "出手拦住"
+ },
+ "8221702": {
+  "en": "Don't stop it",
+  "ch": "不拦"
+ },
+ "8221801": {
+  "en": "Bring her",
+  "ch": "带她去"
+ },
+ "8221902": {
+  "en": "Yes",
+  "ch": "是"
+ },
+ "8222001": {
+  "en": "No",
+  "ch": "否"
+ },
+ "8222202": {
+  "en": "Express gratitude for the rescue",
+  "ch": "感谢相救"
+ },
+ "8241501": {
+  "en": "!! Dueling Mode (Loser loses the Immortal Chicken)",
+  "ch": "!!决斗模型（败方失去仙鸡）"
+ },
+ "8241502": {
+  "en": "Cockfighting Spar",
+  "ch": "斗鸡切磋"
+ },
+ "8241601": {
+  "en": "Cancel",
+  "ch": "取消"
+ },
+ "8241602": {
+  "en": "(I choose white)",
+  "ch": "（我选择白色）"
+ },
+ "8241701": {
+  "en": "(I choose black)",
+  "ch": "（我选择黑色）"
+ },
+ "8242592": {
+  "en": "Gladly accept",
+  "ch": "欣然同意"
+ },
+ "8242593": {
+  "en": "Refuse politely",
+  "ch": "委婉拒绝"
+ },
+ "8242594": {
+  "en": "Step forward and stop it",
+  "ch": "上前阻止"
+ },
+ "8242595": {
+  "en": "Walk away quietly",
+  "ch": "默默走开"
+ },
+ "8242596": {
+  "en": "Ask questions",
+  "ch": "追问"
+ },
+ "8242597": {
+  "en": "Continue questioning",
+  "ch": "继续追问"
+ },
+ "8242598": {
+  "en": "Continue cautioning",
+  "ch": "继续劝阻"
+ },
+ "8242602": {
+  "en": "Regroup",
+  "ch": "复合"
+ },
+ "8242603": {
+  "en": "Say goodbye",
+  "ch": "告别"
+ },
+ "8242604": {
+  "en": "I still like you",
+  "ch": "我依旧喜欢你"
+ },
+ "8242605": {
+  "en": "I'm worried about you",
+  "ch": "我担心你"
+ },
+ "8242606": {
+  "en": "Accept the item and let this person go",
+  "ch": "收下物品，放过此人"
+ },
+ "8242607": {
+  "en": "Kill",
+  "ch": "击杀此人"
+ },
+ "8242608": {
+  "en": "Accept the item and humiliate this person",
+  "ch": "收下物品，羞辱此人"
+ },
+ "8242609": {
+  "en": "Refuse the item and teach this person a lesson",
+  "ch": "不要物品，教训此人"
+ },
+ "8242610": {
+  "en": "Bow and beg for mercy",
+  "ch": "低头求饶"
+ },
+ "8242611": {
+  "en": "Allow the matter to be handled",
+  "ch": "任凭处置"
+ },
+ "8242612": {
+  "en": "Mediate",
+  "ch": "出面调解"
+ },
+ "8242613": {
+  "en": "Leave quietly",
+  "ch": "悄悄离开"
+ },
+ "8242614": {
+  "en": "Give to {name|B}",
+  "ch": "给{name|B}"
+ },
+ "8242615": {
+  "en": "Give to {name|C}",
+  "ch": "给{name|C}"
+ },
+ "8242616": {
+  "en": "This piece of clothing does not suit you",
+  "ch": "这件衣服配不上你们"
+ },
+ "8242619": {
+  "en": "Willing",
+  "ch": "愿意"
+ },
+ "8242620": {
+  "en": "Disagree",
+  "ch": "不愿"
+ },
+ "8242621": {
+  "en": "None of your business",
+  "ch": "与你无关"
+ },
+ "8242622": {
+  "en": "What if I don't give it to you?",
+  "ch": "若我不给呢"
+ },
+ "8242623": {
+  "en": "Refuse right away",
+  "ch": "直接拒绝"
+ },
+ "8242624": {
+  "en": "Hand it over obediently",
+  "ch": "老实交出"
+ },
+ "8242629": {
+  "en": "Hand over the item and beg for mercy",
+  "ch": "给出物品求饶"
+ },
+ "8242631": {
+  "en": "Recall",
+  "ch": "记得"
+ },
+ "8242632": {
+  "en": "Don't recall",
+  "ch": "不记得"
+ },
+ "8242652": {
+  "en": "What then?",
+  "ch": "否则如何"
+ },
+ "8242661": {
+  "en": "Console",
+  "ch": "安慰"
+ },
+ "8242662": {
+  "en": "Take action",
+  "ch": "出手"
+ },
+ "8242664": {
+  "en": "Just kill",
+  "ch": "那便杀了"
+ },
+ "8242665": {
+  "en": "Spare their life",
+  "ch": "饶其一命"
+ },
+ "8242666": {
+  "en": "Accept the item",
+  "ch": "收下物品"
+ },
+ "8242667": {
+  "en": "Refuse the item",
+  "ch": "不要物品"
+ },
+ "8242672": {
+  "en": "Let the person go",
+  "ch": "让此人离开"
+ },
+ "8242673": {
+  "en": "Teach the person a lesson",
+  "ch": "教训此人一顿"
+ },
+ "8242674": {
+  "en": "Quietly console",
+  "ch": "轻声安慰"
+ },
+ "8242675": {
+  "en": "Threaten again",
+  "ch": "再度威胁"
+ },
+ "8242682": {
+  "en": "Give it a try",
+  "ch": "可以一试"
+ },
+ "8242683": {
+  "en": "Don't need",
+  "ch": "不需要"
+ },
+ "8242686": {
+  "en": "Let others make a move",
+  "ch": "让其出手"
+ },
+ "8242687": {
+  "en": "Make a move yourself",
+  "ch": "亲自出手"
+ },
+ "8242688": {
+  "en": "Kill this person",
+  "ch": "杀了此人"
+ },
+ "8242689": {
+  "en": "Let this person go",
+  "ch": "放了此人"
+ },
+ "8242690": {
+  "en": "Take all",
+  "ch": "全部拿走"
+ },
+ "8242691": {
+  "en": "Take half",
+  "ch": "只要一半"
+ },
+ "8242692": {
+  "en": "Don't take any",
+  "ch": "不要"
+ },
+ "8242693": {
+  "en": "Watch the battle",
+  "ch": "观看战斗"
+ },
+ "8242694": {
+  "en": "Accept tradition",
+  "ch": "接受传承"
+ },
+ "8242695": {
+  "en": "Refuse tradition",
+  "ch": "拒绝传承"
+ },
+ "8242696": {
+  "en": "Take as master",
+  "ch": "拜其为师"
+ },
+ "8242697": {
+  "en": "Refuse to take as master",
+  "ch": "拒绝拜师"
+ },
+ "8242698": {
+  "en": "Accept challenge",
+  "ch": "接受挑战"
+ },
+ "8242699": {
+  "en": "Refuse challenge",
+  "ch": "拒绝挑战"
+ },
+ "8242899": {
+  "en": "Battle",
+  "ch": "战斗"
+ },
+ "8242917": {
+  "en": "Enter the cave",
+  "ch": "进入洞府"
+ },
+ "8242920": {
+  "en": "It's you!",
+  "ch": "原来是你"
+ },
+ "8242921": {
+  "en": "I'm not interested",
+  "ch": "不感兴趣"
+ },
+ "8243145": {
+  "en": "Retreat for now.",
+  "ch": "暂时退避"
+ },
+ "8243146": {
+  "en": "Shut up and fight.",
+  "ch": "废话少说，速速开战"
+ },
+ "8243147": {
+  "en": "This seems to mean something. Let's confirm it.",
+  "ch": "似有所指，确认一番"
+ },
+ "8243148": {
+  "en": "This battle can't be won. Retreat for now.",
+  "ch": "不可力敌，暂时退去"
+ },
+ "8243149": {
+  "en": "I have no clue what you're talking about.",
+  "ch": "阁下所言，在下实在不知"
+ },
+ "8243150": {
+  "en": "I understand everything you said.",
+  "ch": "阁下所言，在下尽皆知晓"
+ },
+ "8243151": {
+  "en": "Take action quickly and kill the demon.",
+  "ch": "速速出手，击杀冥妖"
+ },
+ "8243152": {
+  "en": "Avoid battle and leave silently.",
+  "ch": "避而不战，悄然离去"
+ },
+ "8243153": {
+  "en": "Go investigate.",
+  "ch": "前往探查"
+ },
+ "8243154": {
+  "en": "Take a detour.",
+  "ch": "绕路离开"
+ },
+ "8243155": {
+  "en": "Attack the Nether Demon.",
+  "ch": "攻击冥妖"
+ },
+ "8243156": {
+  "en": "Attack the Cultivator.",
+  "ch": "攻击修仙者"
+ },
+ "8243158": {
+  "en": "Fight the black smoke.",
+  "ch": "迎战黑雾"
+ },
+ "8243160": {
+  "en": "Attack the rogue to avenge the dead.",
+  "ch": "攻击此獠，为死者报仇"
+ },
+ "8243161": {
+  "en": "Save your strength and leave quickly.",
+  "ch": "保存实力，迅速离去"
+ },
+ "8243162": {
+  "en": "Go back and investigate.",
+  "ch": "折返探查"
+ },
+ "8243163": {
+  "en": "Stride away.",
+  "ch": "快步离开"
+ },
+ "8243166": {
+  "en": "Attack the male Nether Demon.",
+  "ch": "攻击男性冥妖"
+ },
+ "8243167": {
+  "en": "Attack the female Nether Demon.",
+  "ch": "攻击女性冥妖"
+ },
+ "8243168": {
+  "en": "Watch and wait",
+  "ch": "静观其变"
+ },
+ "8243169": {
+  "en": "Leave silently",
+  "ch": "悄然离去"
+ },
+ "8243170": {
+  "en": "What would a Nether Demon have to say?",
+  "ch": "一介冥妖有何话说？"
+ },
+ "8243171": {
+  "en": "Talk nonsense and you'll be punished.",
+  "ch": "胡言乱语，势必诛之"
+ },
+ "8243172": {
+  "en": "There must be a reason. Let's listen.",
+  "ch": "似有缘故，听其所言"
+ },
+ "8243173": {
+  "en": "Turn a deaf ear and leave quickly.",
+  "ch": "置若罔闻，飞身离去"
+ },
+ "8243174": {
+  "en": "Nether Air invasion?",
+  "ch": "冥气侵蚀？"
+ },
+ "8243175": {
+  "en": "Agree.",
+  "ch": "答应对方"
+ },
+ "8243176": {
+  "en": "Refuse them.",
+  "ch": "拒绝对方"
+ },
+ "8243189": {
+  "en": "Loot the body.",
+  "ch": "搜刮尸体"
+ },
+ "8243191": {
+  "en": "Attack and kill.",
+  "ch": "直接击杀"
+ },
+ "8243192": {
+  "en": "Protect.",
+  "ch": "庇护起来"
+ },
+ "8243221": {
+  "en": "See you",
+  "ch": "有缘再见"
+ },
+ "8243222": {
+  "en": "Forget about returning the favor. I don't want to have anything to do with you",
+  "ch": "不必报恩，我无意与你有过多关联"
+ },
+ "8243346": {
+  "en": "Now that I'm spotted, I'll show myself.",
+  "ch": "既然发现，那便露面。"
+ },
+ "8243347": {
+  "en": "He's trying to fool me. I'll ignore him.",
+  "ch": "他在诓我，暂不回应。"
+ },
+ "8243348": {
+  "en": "Show myself",
+  "ch": "选择露面"
+ },
+ "8243349": {
+  "en": "Accept Martial Arts transference",
+  "ch": "接受传功"
+ },
+ "8243350": {
+  "en": "With misgivings",
+  "ch": "心有顾虑"
+ },
+ "8243351": {
+  "en": "What is this for?",
+  "ch": "此物何用？"
+ },
+ "8243352": {
+  "en": "If you had never met me, Mentor…",
+  "ch": "若前辈未遇到我……"
+ },
+ "8243354": {
+  "en": "What tribulation would have happened?",
+  "ch": "会是何劫难？"
+ },
+ "8243356": {
+  "en": "Refuse Martial Arts transference",
+  "ch": "拒绝传功"
+ },
+ "8243357": {
+  "en": "Accept the gift",
+  "ch": "接受赠礼"
+ },
+ "8243358": {
+  "en": "Refuse the gift",
+  "ch": "拒绝赠礼"
+ },
+ "8243364": {
+  "en": "No problem…",
+  "ch": "不辛苦……"
+ },
+ "8243365": {
+  "en": "Thanks a lot…",
+  "ch": "辛苦……"
+ },
+ "8243378": {
+  "en": "Don't kill this person. Feed this person an Elixir.",
+  "ch": "不杀此人，喂其丹药"
+ },
+ "8251002": {
+  "en": "Stay silent",
+  "ch": "不发一言"
+ },
+ "8251003": {
+  "en": "Why did you help me?",
+  "ch": "为什么要帮我？"
+ },
+ "8251005": {
+  "en": "Who are you, really?",
+  "ch": "你究竟是谁？"
+ },
+ "8251006": {
+  "en": "Why do you call me a goofball?",
+  "ch": "你为什么喊我笨蛋？"
+ },
+ "8251008": {
+  "en": "I want to",
+  "ch": "想"
+ },
+ "8251009": {
+  "en": "I don't want to know anymore",
+  "ch": "我不想知道了"
+ },
+ "8251011": {
+  "en": "Open the golden chest",
+  "ch": "打开金匮"
+ },
+ "8251014": {
+  "en": "You've got something to tell me, don't you?",
+  "ch": "你是不是有什么要交代？"
+ },
+ "8251015": {
+  "en": "What's the deal with the manual?",
+  "ch": "秘本究竟是什么？"
+ },
+ "8251016": {
+  "en": "Why are these people working with monsters?",
+  "ch": "为什么这些人会和妖兽一起行动？"
+ },
+ "8251017": {
+  "en": "You put me in danger",
+  "ch": "你将我陷在风险之中"
+ },
+ "8251019": {
+  "en": "He said they're neither human nor ghost?",
+  "ch": "他说你人不人鬼不鬼？"
+ },
+ "8251020": {
+  "en": "Why did that person burst into flames?",
+  "ch": "这人为何自己烧起来了？"
+ },
+ "8251021": {
+  "en": "How do you know about Purple Mist?",
+  "ch": "你怎么知道紫罗烟的事"
+ },
+ "8251022": {
+  "en": "Who are these people?",
+  "ch": "他们是什么人？"
+ },
+ "8251024": {
+  "en": "Channel energy to sense the surroundings",
+  "ch": "运用灵力，默察四方"
+ },
+ "8251025": {
+  "en": "What are your real intentions?",
+  "ch": "你究竟有何目的？"
+ },
+ "8251026": {
+  "en": "Are you using me to get out of trouble?",
+  "ch": "你借我之手脱困？"
+ },
+ "8251027": {
+  "en": "What's really going on here?",
+  "ch": "究竟是怎么回事？"
+ },
+ "8251028": {
+  "en": "That depends on whether you're being honest",
+  "ch": "那要视乎你是不是诚实"
+ },
+ "8251029": {
+  "en": "I'll help you",
+  "ch": "我帮你"
+ },
+ "8251030": {
+  "en": "I can't help you",
+  "ch": "我不能帮你"
+ },
+ "8251032": {
+  "en": "Get ready first",
+  "ch": "稍作准备"
+ },
+ "8251033": {
+  "en": "You didn't warn me about the monsters",
+  "ch": "你没跟我说有妖物"
+ },
+ "8251034": {
+  "en": "What were you doing while I was fighting the monsters off?",
+  "ch": "我击退妖怪时你在做什么？"
+ },
+ "8251035": {
+  "en": "Why are there Nether Air monsters here?",
+  "ch": "为何此地有冥气之妖？"
+ },
+ "8251039": {
+  "en": "Knock the manual out of her hand",
+  "ch": "拍掉她手中的秘籍"
+ },
+ "8251040": {
+  "en": "They say you're an evil cultivator",
+  "ch": "他们说你是邪修"
+ },
+ "8251041": {
+  "en": "Are you using me?",
+  "ch": "你在利用我？"
+ },
+ "8251042": {
+  "en": "You're the one who got me involved in this geomantic mess",
+  "ch": "但你让我中了堪舆术"
+ },
+ "8251043": {
+  "en": "Are you just going to abandon me now?",
+  "ch": "你弃我不顾？"
+ },
+ "8251044": {
+  "en": "Give a cold stare and leave",
+  "ch": "冷眼相对，就此离开"
+ },
+ "8251045": {
+  "en": "We're on different paths. We can't work together",
+  "ch": "道不同不相为谋"
+ },
+ "8251046": {
+  "en": "It doesn't matter, as long as I get something out of it",
+  "ch": "那也没怎样，有好处就行"
+ },
+ "8251047": {
+  "en": "You were just trying to save yourself",
+  "ch": "你只是为自己脱困"
+ },
+ "8251048": {
+  "en": "I guess I owe you one",
+  "ch": "看来我该给你道谢"
+ },
+ "8251049": {
+  "en": "Forcefully pry open her hand",
+  "ch": "狠狠打开她的手"
+ },
+ "8251050": {
+  "en": "Allow the caress",
+  "ch": "任其抚摸"
+ },
+ "8251051": {
+  "en": "Violently swat it away",
+  "ch": "狠狠拍掉"
+ },
+ "8251052": {
+  "en": "Cry out in pain",
+  "ch": "发声喊痛"
+ },
+ "8251053": {
+  "en": "Need help",
+  "ch": "需要帮忙"
+ },
+ "8251055": {
+  "en": "You're already free?",
+  "ch": "你已经脱困了？"
+ },
+ "8251056": {
+  "en": "What are you planning now?",
+  "ch": "你又有什么图谋？"
+ },
+ "8251057": {
+  "en": "Accept the manual",
+  "ch": "收下秘籍"
+ },
+ "8251058": {
+  "en": "You used me again last time, didn't you?",
+  "ch": "上回又利用我了吧？"
+ },
+ "8251059": {
+  "en": "And then you left me high and dry",
+  "ch": "然后顺便把麻烦留给我了"
+ },
+ "8251060": {
+  "en": "Praise the library",
+  "ch": "夸赞书屋"
+ },
+ "8251061": {
+  "en": "Why'd you invite me here?",
+  "ch": "邀我来此有何目的？"
+ },
+ "8251062": {
+  "en": "Why didn't you tell me sooner?",
+  "ch": "之前为何不说？"
+ },
+ "8251063": {
+  "en": "How'd you get stuck in the book?",
+  "ch": "为何受困书中？"
+ },
+ "8251064": {
+  "en": "So, what's the plan now?",
+  "ch": "所以你现在有什么目的？"
+ },
+ "8251065": {
+  "en": "You're still out for revenge, aren't you?",
+  "ch": "你还要报仇吧？"
+ },
+ "8251066": {
+  "en": "Just cut to the chase",
+  "ch": "够了，有话直说"
+ },
+ "8251069": {
+  "en": "Help villagers",
+  "ch": "帮助村民"
+ },
+ "8251070": {
+  "en": "That's not my problem",
+  "ch": "与我无关"
+ },
+ "8251073": {
+  "en": "Why do you help the villagers?",
+  "ch": "为什么帮助村民？"
+ },
+ "8251074": {
+  "en": "Keep her company",
+  "ch": "陪她坐坐"
+ },
+ "8251075": {
+  "en": "The right thing to do",
+  "ch": "义所当为"
+ },
+ "8251076": {
+  "en": "Those you want to save",
+  "ch": "你想救的"
+ },
+ "8251077": {
+  "en": "Get closer...",
+  "ch": "凑上去……"
+ },
+ "8251078": {
+  "en": "Hold your ground",
+  "ch": "不动如山"
+ },
+ "8251079": {
+  "en": "What's this place?",
+  "ch": "这是什么地方？"
+ },
+ "8251080": {
+  "en": "Enter together",
+  "ch": "随同进入"
+ },
+ "8251081": {
+  "en": "Just a moment",
+  "ch": "稍等片刻"
+ },
+ "8251082": {
+  "en": "Check out the Pavilion railing",
+  "ch": "查看阁楼栏杆"
+ },
+ "8251083": {
+  "en": "Look around",
+  "ch": "查看四处物件"
+ },
+ "8251084": {
+  "en": "Check the wall-mounted bookshelf",
+  "ch": "查看壁上书柜"
+ },
+ "8251085": {
+  "en": "Skip this and meet up with <ta1>",
+  "ch": "无心查看，汇合{name|B}"
+ },
+ "8251086": {
+  "en": "What are you doing?",
+  "ch": "你在做什么？"
+ },
+ "8251087": {
+  "en": "You seemed pretty upset when you left",
+  "ch": "你离开时失魂落魄"
+ },
+ "8251088": {
+  "en": "Need a hand with anything?",
+  "ch": "有需要帮忙的吗？"
+ },
+ "8251089": {
+  "en": "I want the manual",
+  "ch": "我想要秘籍"
+ },
+ "8251091": {
+  "en": "So what are you up to?",
+  "ch": "那你干嘛？"
+ },
+ "8251092": {
+  "en": "Alright",
+  "ch": "可以"
+ },
+ "8251093": {
+  "en": "Remove the seal",
+  "ch": "解除禁制"
+ },
+ "8251095": {
+  "en": "Steady the Azure Dragon's vapor",
+  "ch": "定住烟气青龙"
+ },
+ "8251096": {
+  "en": "Steady the Vermilion Bird's vapor",
+  "ch": "定住烟气朱雀"
+ },
+ "8251097": {
+  "en": "Steady the Black Tortoise's vapor",
+  "ch": "定住烟气玄武"
+ },
+ "8251098": {
+  "en": "Steady the White Tiger's vapor",
+  "ch": "定住烟气白虎"
+ },
+ "8251099": {
+  "en": "Look around carefully",
+  "ch": "四处查看"
+ },
+ "8251101": {
+  "en": "Something felt off last time",
+  "ch": "上回去的有蹊跷"
+ },
+ "8251104": {
+  "en": "You're showing off how to unseal it",
+  "ch": "你故意试演解封之法"
+ },
+ "8251105": {
+  "en": "You didn't want me to unseal it",
+  "ch": "你的本意不是要我去解封"
+ },
+ "8251106": {
+  "en": "You sent me there to trap me",
+  "ch": "你让我去那边是要困住我"
+ },
+ "8251107": {
+  "en": "Check the charred spiritual item",
+  "ch": "查看烧焦的灵物"
+ },
+ "8251108": {
+  "en": "Check the bookshelf",
+  "ch": "查看书柜"
+ },
+ "8251111": {
+  "en": "Mood",
+  "ch": "心情"
+ },
+ "8251112": {
+  "en": "Final showdown",
+  "ch": "决战"
+ },
+ "8251113": {
+  "en": "Close",
+  "ch": "关闭"
+ },
+ "8251114": {
+  "en": "Enter this area",
+  "ch": "进入此地"
+ },
+ "8251116": {
+  "en": "You're going to throw yourself into the fray without me?",
+  "ch": "作死不叫我？"
+ },
+ "8251117": {
+  "en": "Guess this is what they mean by \"a good, honest sweat\"?",
+  "ch": "这是不是叫香汗淋漓？"
+ },
+ "8251118": {
+  "en": "Hey!",
+  "ch": "喂！"
+ },
+ "8251119": {
+  "en": "I won't let you go through this alone",
+  "ch": "不会让你独自应对"
+ },
+ "8251120": {
+  "en": "Alright, I'm out of here",
+  "ch": "好，我这就走。"
+ },
+ "8251121": {
+  "en": "What will you do if I run?",
+  "ch": "我逃了你怎么办？"
+ },
+ "8251122": {
+  "en": "No way",
+  "ch": "绝不"
+ },
+ "8251123": {
+  "en": "Run",
+  "ch": "逃走"
+ },
+ "8251124": {
+  "en": "You can't make it",
+  "ch": "你根本没有办法"
+ },
+ "8251129": {
+  "en": "What are you up to now?",
+  "ch": "你又有什么意图？"
+ },
+ "8251131": {
+  "en": "Stand still",
+  "ch": "站定"
+ },
+ "8251133": {
+  "en": "What else do you need to do?",
+  "ch": "你还处理什么？"
+ },
+ "8251135": {
+  "en": "Who trapped you?",
+  "ch": "困住你的人是谁？"
+ },
+ "8251136": {
+  "en": "Why did she trap you?",
+  "ch": "她为什么困住你？"
+ },
+ "8251137": {
+  "en": "How does she mess with you?",
+  "ch": "她怎么跟你开玩笑？"
+ },
+ "8251138": {
+  "en": "How do you know what she's really thinking?",
+  "ch": "你怎么知道她的深意？"
+ },
+ "8251139": {
+  "en": "I don't want to know right now",
+  "ch": "暂时不想知道"
+ },
+ "8251140": {
+  "en": "These petty criminals aren't worth our time",
+  "ch": "宵小不足挂齿"
+ },
+ "8251141": {
+  "en": "Handle your own enemies",
+  "ch": "你应该自己对付敌人"
+ },
+ "8251142": {
+  "en": "What's there to fear if the world becomes our enemy?",
+  "ch": "即与天下为敌又有何惧"
+ },
+ "8251143": {
+  "en": "You shouldn't have made enemies for me",
+  "ch": "你不该给我树敌"
+ },
+ "8251144": {
+  "en": "What is there to fear?",
+  "ch": "何惧之有？"
+ },
+ "8251145": {
+  "en": "I'd rather not make enemies",
+  "ch": "不想结交仇怨"
+ },
+ "8251146": {
+  "en": "I'll avenge and ask no questions",
+  "ch": "为其出气，其余不问"
+ },
+ "8251147": {
+  "en": "Don't make too many enemies",
+  "ch": "不要多树仇敌"
+ },
+ "8251148": {
+  "en": "Go talk to them",
+  "ch": "过去说话"
+ },
+ "8251150": {
+  "en": "Fear will only hold you back",
+  "ch": "怕，只会什么都做不成"
+ },
+ "8251151": {
+  "en": "You're the reason I have more enemies now",
+  "ch": "你害我仇人变多"
+ },
+ "8251152": {
+  "en": "Then I'll be the one coming after you",
+  "ch": "那下次就是我找你麻烦"
+ },
+ "8251153": {
+  "en": "Great deeds require looking past the details",
+  "ch": "成大事者不拘小节"
+ },
+ "8251154": {
+  "en": "It's my duty",
+  "ch": "义不容辞"
+ },
+ "8251155": {
+  "en": "You can't keep causing me trouble",
+  "ch": "你不能一直给我添麻烦"
+ },
+ "8251156": {
+  "en": "There are still past things I don't understand",
+  "ch": "有些前事我还是不明白"
+ },
+ "8253001": {
+  "en": "These monsters are adorable",
+  "ch": "妖兽长得真可爱"
+ },
+ "8253002": {
+  "en": "Haven't seen any...",
+  "ch": "没见过……"
+ },
+ "8253003": {
+  "en": "Yes, I saw in that lair (tell a lie)",
+  "ch": "见过，在那边妖巢（误导他）"
+ },
+ "8253004": {
+  "en": "Never seen what you said",
+  "ch": "没见过"
+ },
+ "8253005": {
+  "en": "Why do you sneer?",
+  "ch": "何故冷笑？"
+ },
+ "8253007": {
+  "en": "All changes are from a thread of fate",
+  "ch": "天地变幻，俱是由一丝变数而来"
+ },
+ "8253009": {
+  "en": "Why are you here?",
+  "ch": "你怎么在这？"
+ },
+ "8253010": {
+  "en": "Call out",
+  "ch": "招呼"
+ },
+ "8253012": {
+  "en": "Tell the truth",
+  "ch": "告以实情"
+ },
+ "8253013": {
+  "en": "Do you know about Ao Yao?",
+  "ch": "你了解敖瑶？"
+ },
+ "8253014": {
+  "en": "What should I do?",
+  "ch": "我该怎么做？"
+ },
+ "8253015": {
+  "en": "What would you do?",
+  "ch": "那你会怎么做？"
+ },
+ "8253016": {
+  "en": "Drop the subject",
+  "ch": "不谈此事"
+ },
+ "8253019": {
+  "en": "I'm glad",
+  "ch": "很高兴"
+ },
+ "8253020": {
+  "en": "I'm sad",
+  "ch": "很难过"
+ },
+ "8253021": {
+  "en": "I feel nothing",
+  "ch": "没感觉"
+ },
+ "8253022": {
+  "en": "You seem quite interested in Ao Yao",
+  "ch": "你似乎很关注敖瑶"
+ },
+ "8253024": {
+  "en": "Join the battle",
+  "ch": "参与战斗"
+ },
+ "8253026": {
+  "en": "Is this the demon you're after?",
+  "ch": "这就是你要追的妖怪？"
+ },
+ "8253027": {
+  "en": "Looks quite different from your drawing",
+  "ch": "这妖怪和你画的差别有点大"
+ },
+ "8253028": {
+  "en": "This demon isn't much to look at",
+  "ch": "妖怪不怎么样嘛"
+ },
+ "8253030": {
+  "en": "Has this demon hurt anyone?",
+  "ch": "这妖害人了？"
+ },
+ "8253031": {
+  "en": "She's escaped. What do we do now?",
+  "ch": "她跑了，接下来怎么办？"
+ },
+ "8253034": {
+  "en": "Why are they after you?",
+  "ch": "为何缠着你？"
+ },
+ "8253037": {
+  "en": "Who won the fight?",
+  "ch": "谁胜谁负？"
+ },
+ "8253038": {
+  "en": "Darling?",
+  "ch": "可人儿？"
+ },
+ "8253039": {
+  "en": "Then why don't you go help her?",
+  "ch": "那你去给她拉把手"
+ },
+ "8253040": {
+  "en": "Let's go help her then",
+  "ch": "那我们去给她拉把手"
+ },
+ "8253041": {
+  "en": "I really can't make sense of it...",
+  "ch": "这画我属实看不懂……"
+ },
+ "8253042": {
+  "en": "She went that way",
+  "ch": "她往那边去了"
+ },
+ "8253043": {
+  "en": "I don't know",
+  "ch": "我不知道"
+ },
+ "8253044": {
+  "en": "What do you want with her?",
+  "ch": "你找她干嘛？"
+ },
+ "8253045": {
+  "en": "Go and say hi",
+  "ch": "过去招呼"
+ },
+ "8253047": {
+  "en": "You know her?",
+  "ch": "你知道她？"
+ },
+ "8253048": {
+  "en": "Are you spying on her?",
+  "ch": "你监视她？"
+ },
+ "8253049": {
+  "en": "Sounds like you're talking about yourself",
+  "ch": "你似乎是在说自己"
+ },
+ "8253050": {
+  "en": "She did what she wanted to do",
+  "ch": "她做了自己想做的事"
+ },
+ "8253051": {
+  "en": "Why are you so interested in her?",
+  "ch": "你为何留意她？"
+ },
+ "8253052": {
+  "en": "Stop responding",
+  "ch": "不再回应"
+ },
+ "8253053": {
+  "en": "I must disagree",
+  "ch": "我不敢苟同"
+ },
+ "8253054": {
+  "en": "Indeed interesting",
+  "ch": "确实有趣"
+ },
+ "8253055": {
+  "en": "What's this?",
+  "ch": "这是什么？"
+ },
+ "8253056": {
+  "en": "Why are you giving this to me?",
+  "ch": "为什么送给我？"
+ },
+ "8253058": {
+  "en": "No regrets",
+  "ch": "不后悔"
+ },
+ "8253059": {
+  "en": "Then I'll decline",
+  "ch": "那我不要了"
+ },
+ "8253060": {
+  "en": "Go explore",
+  "ch": "前往一探"
+ },
+ "8253062": {
+  "en": "Save her",
+  "ch": "出手救援"
+ },
+ "8253064": {
+  "en": "Have you been pursuing this arachnid all along?",
+  "ch": "你一直在追这蜘蛛？"
+ },
+ "8253065": {
+  "en": "Why do you keep tracking it?",
+  "ch": "为何一直追踪"
+ },
+ "8253066": {
+  "en": "What's so special about this demon?",
+  "ch": "这妖怪有什么特别的？"
+ },
+ "8253067": {
+  "en": "What just happened?",
+  "ch": "刚刚发生什么事？"
+ },
+ "8253070": {
+  "en": "What is the Frost Palace of Snow?",
+  "ch": "寒宫雪府是什么？"
+ },
+ "8253071": {
+  "en": "Offer help",
+  "ch": "前往扶持"
+ },
+ "8253073": {
+  "en": "Why are you still so calm?",
+  "ch": "为何你还如此冷静"
+ },
+ "8253074": {
+  "en": "How can I save you?",
+  "ch": "我要怎么救你？"
+ },
+ "8253075": {
+  "en": "I'm helpless",
+  "ch": "束手无策"
+ },
+ "8253076": {
+  "en": "Look at <ta4>",
+  "ch": "看向天香"
+ },
+ "8253077": {
+  "en": "May I take a look?",
+  "ch": "看下不可以？"
+ },
+ "8253078": {
+  "en": "Then show me",
+  "ch": "那你展示一下"
+ },
+ "8253079": {
+  "en": "You're talking nonsense",
+  "ch": "你这是在说胡话"
+ },
+ "8253080": {
+  "en": "Aren't you afraid the frost will kill you?",
+  "ch": "身中寒气不怕会死？"
+ },
+ "8253081": {
+  "en": "What's your purpose?",
+  "ch": "你的目的"
+ },
+ "8253082": {
+  "en": "Her efforts to change are admirable",
+  "ch": "她努力改变，值得敬佩"
+ },
+ "8253083": {
+  "en": "I helped her",
+  "ch": "我帮助了她"
+ },
+ "8253084": {
+  "en": "I have nothing to say",
+  "ch": "无话可说"
+ },
+ "8253085": {
+  "en": "What are you up to?",
+  "ch": "你这是干嘛？"
+ },
+ "8253086": {
+  "en": "You've pinned me against the wall",
+  "ch": "你把我按在墙上了"
+ },
+ "8253087": {
+  "en": "What are you doing with your hand?",
+  "ch": "你的手在干嘛？"
+ },
+ "8253088": {
+  "en": "Why is your hand on my waist?",
+  "ch": "你为什么搭在我腰上"
+ },
+ "8253089": {
+  "en": "Why isn't it safe to stay here?",
+  "ch": "为何此地不宜久留"
+ },
+ "8253090": {
+  "en": "Let's go",
+  "ch": "走吧"
+ },
+ "8253091": {
+  "en": "Go rescue",
+  "ch": "前往解救"
+ },
+ "8253092": {
+  "en": "Ignore",
+  "ch": "漠视不理"
+ },
+ "8253093": {
+  "en": "What happened?",
+  "ch": "发生何事？"
+ },
+ "8253094": {
+  "en": "Why do you keep pursuing this demon?",
+  "ch": "你为何一直追踪此妖"
+ },
+ "8253095": {
+  "en": "I don't want to know anything",
+  "ch": "我什么都不想知道"
+ },
+ "8253096": {
+  "en": "You're tracking a monster?",
+  "ch": "你在追踪妖兽？"
+ },
+ "8253097": {
+  "en": "I've never heard of it doing anything evil",
+  "ch": "没听过那妖作恶"
+ },
+ "8253098": {
+  "en": "Do you have other intentions for it?",
+  "ch": "你对那妖有别的想法？"
+ },
+ "8253099": {
+  "en": "What brings you here?",
+  "ch": "你来此作甚？"
+ },
+ "8253100": {
+  "en": "That's not true at all",
+  "ch": "哪有此事"
+ },
+ "8253101": {
+  "en": "She's pitiful",
+  "ch": "她很可怜"
+ },
+ "8253102": {
+  "en": "You speak so coldly",
+  "ch": "你说话真冷漠"
+ },
+ "8253103": {
+  "en": "But what caught your interest?",
+  "ch": "你又对什么感兴趣呢？"
+ },
+ "8253104": {
+  "en": "A feeling of schadenfreude",
+  "ch": "幸灾乐祸的感觉"
+ },
+ "8253105": {
+  "en": "Why don't you help her?",
+  "ch": "何不去帮帮她？"
+ },
+ "8253106": {
+  "en": "Why are you gazing at Chi You?",
+  "ch": "为何看着赤幽州？"
+ },
+ "8253108": {
+  "en": "Why did you do this?",
+  "ch": "为何这么做？"
+ },
+ "8253110": {
+  "en": "Are these demons being commanded?",
+  "ch": "妖物都是受驱使来的？"
+ },
+ "8253111": {
+  "en": "Should we expose the mastermind behind this?",
+  "ch": "要不要揪出幕后之人？"
+ },
+ "8253113": {
+  "en": "Your adversary is formidable",
+  "ch": "你的对头不简单"
+ },
+ "8253114": {
+  "en": "What should we do now?",
+  "ch": "现在怎么办？"
+ },
+ "8253115": {
+  "en": "Something interesting?",
+  "ch": "有意思的事？"
+ },
+ "8253117": {
+  "en": "Why is it on me?",
+  "ch": "为何在我身上？"
+ },
+ "8253118": {
+  "en": "You have it too?",
+  "ch": "你身上也有？"
+ },
+ "8253119": {
+  "en": "What can we do about it?",
+  "ch": "那怎么办？"
+ },
+ "8253120": {
+  "en": "Alright!",
+  "ch": "好！"
+ },
+ "8253122": {
+  "en": "I never thought it would affect the world",
+  "ch": "没想会对八荒造成影响"
+ },
+ "8253123": {
+  "en": "You're quite philosophical about this",
+  "ch": "你真看得开"
+ },
+ "8253124": {
+  "en": "Finally, we've done it",
+  "ch": "总算成功了"
+ },
+ "8253125": {
+  "en": "You're right",
+  "ch": "你说得对"
+ },
+ "8253126": {
+  "en": "At least we have a choice",
+  "ch": "至少我们能选择"
+ },
+ "8253128": {
+  "en": "Why are you leaving?",
+  "ch": "为什么要离开？"
+ },
+ "8253129": {
+  "en": "What have you done to help me?",
+  "ch": "你帮了我什么？"
+ },
+ "8253130": {
+  "en": "Oh, thanks a lot",
+  "ch": "哦，我谢谢你"
+ },
+ "8253131": {
+  "en": "Thank you! (sincerely)",
+  "ch": "谢谢（由衷）"
+ },
+ "8253134": {
+  "en": "Why are you hunting her down?",
+  "ch": "你怎么追杀她？"
+ },
+ "8253137": {
+  "en": "Drive away the monster",
+  "ch": "驱赶妖兽"
+ },
+ "8253139": {
+  "en": "Why are you so determined to capture her?",
+  "ch": "你为何一定要抓她？"
+ },
+ "8253140": {
+  "en": "Where do you think she went?",
+  "ch": "你认为她去哪了？"
+ },
+ "8253141": {
+  "en": "Attack the Six-Eyed Bright Pupil",
+  "ch": "攻击六目明瞳"
+ },
+ "8253142": {
+  "en": "Move closer to examine",
+  "ch": "走近细看"
+ },
+ "8253143": {
+  "en": "I only found it thanks to your gift",
+  "ch": "借助你的礼物才找到"
+ },
+ "8253144": {
+  "en": "Why did the thread knot react?",
+  "ch": "缠丝百结为什么会有反应？"
+ },
+ "8253145": {
+  "en": "You are the Six-Eyed Bright Pupil",
+  "ch": "你是六目明瞳"
+ },
+ "8253146": {
+  "en": "Why did you deceive me?",
+  "ch": "为什么骗我？"
+ },
+ "8253147": {
+  "en": "What really happened that day?",
+  "ch": "那天究竟发生何事？"
+ },
+ "8253148": {
+  "en": "Yet the cultivators of Chi You want you dead",
+  "ch": "赤幽州修士却要杀你"
+ },
+ "8253149": {
+  "en": "What were you doing in Chi You?",
+  "ch": "你在赤幽州做什么？"
+ },
+ "8253150": {
+  "en": "What's the purpose behind all this?",
+  "ch": "这是为了什么？"
+ },
+ "8253151": {
+  "en": "How long will this ultimately take?",
+  "ch": "最终是多久？"
+ },
+ "8253152": {
+  "en": "Xiang Laichi seems to bear no ill will toward you?",
+  "ch": "向来痴似乎对你没恶意？"
+ },
+ "8253153": {
+  "en": "Why does he want to capture you?",
+  "ch": "他为什么要抓你？"
+ },
+ "8253155": {
+  "en": "Help her up",
+  "ch": "相扶"
+ },
+ "8253156": {
+  "en": "What's wrong?",
+  "ch": "怎么了？"
+ },
+ "8253157": {
+  "en": "You seem very tired?",
+  "ch": "你似乎很累？"
+ },
+ "8253162": {
+  "en": "The Nether Demon seems to have a purpose",
+  "ch": "冥妖似乎有目的"
+ },
+ "8253163": {
+  "en": "Thank you",
+  "ch": "多谢"
+ },
+ "8253164": {
+  "en": "You didn't object either",
+  "ch": "你也没有不同意"
+ },
+ "8253166": {
+  "en": "Won't you collect the ley line information?",
+  "ch": "不收集地脉信息？"
+ },
+ "8253167": {
+  "en": "Are you tired?",
+  "ch": "你是累了吗？"
+ },
+ "8253168": {
+  "en": "You dare order me around?",
+  "ch": "你命令我？"
+ },
+ "8253169": {
+  "en": "Go over and sit down",
+  "ch": "过去一坐"
+ },
+ "8253170": {
+  "en": "Stay here",
+  "ch": "不过去"
+ },
+ "8253171": {
+  "en": "That's perfectly normal",
+  "ch": "那是正常的"
+ },
+ "8253172": {
+  "en": "There's nothing strange about you",
+  "ch": "你不奇怪"
+ },
+ "8253173": {
+  "en": "You're too detached from things",
+  "ch": "你看事太过冷漠"
+ },
+ "8253174": {
+  "en": "You're always so composed",
+  "ch": "你总是十分冷静"
+ },
+ "8253175": {
+  "en": "You're always so condescending",
+  "ch": "你总是高高在上"
+ },
+ "8253176": {
+  "en": "I can't think of any flaws in you",
+  "ch": "我想不到你的缺点"
+ },
+ "8253177": {
+  "en": "Keep her company for a moment",
+  "ch": "陪她稍坐"
+ },
+ "8253178": {
+  "en": "Stand up and leave",
+  "ch": "站起离开"
+ },
+ "8253181": {
+  "en": "So you're actually helping her?",
+  "ch": "你其实在帮她？"
+ },
+ "8253182": {
+  "en": "Why are you helping her?",
+  "ch": "你为什么帮她？"
+ },
+ "8253183": {
+  "en": "What danger is she in?",
+  "ch": "她陷入什么危险？"
+ },
+ "8253184": {
+  "en": "What will be the consequences?",
+  "ch": "这会有什么后果？"
+ },
+ "8253185": {
+  "en": "Which forces in Chi You are hunting her down?",
+  "ch": "赤幽州什么势力追杀她？"
+ },
+ "8253186": {
+  "en": "Why are the cultivators hunting her down?",
+  "ch": "修士为何追杀她？"
+ },
+ "8253187": {
+  "en": "Why are the Nether Demons hunting her down?",
+  "ch": "冥妖为何追杀她？"
+ },
+ "8253188": {
+  "en": "Why are the demons hunting her down?",
+  "ch": "妖怪为何追杀她？"
+ },
+ "8253192": {
+  "en": "Drive off the monsters",
+  "ch": "驱散妖兽"
+ },
+ "8253194": {
+  "en": "You seem in danger",
+  "ch": "你似乎很危险"
+ },
+ "8253195": {
+  "en": "Try to avoid the monsters",
+  "ch": "设法避开妖兽吧"
+ },
+ "8253196": {
+  "en": "Kill the Nether Demon",
+  "ch": "击杀冥妖"
+ },
+ "8253198": {
+  "en": "I hope you won't stay here any longer",
+  "ch": "我希望你不要在留在此处"
+ },
+ "8253199": {
+  "en": "Perhaps the ley lines aren't worth it",
+  "ch": "地脉的事也许不值得"
+ },
+ "8253200": {
+  "en": "Let me take you away from here",
+  "ch": "带你走"
+ },
+ "8253201": {
+  "en": "I just want to see you",
+  "ch": "就看看你"
+ },
+ "8253202": {
+  "en": "You don't seem like yourself anymore",
+  "ch": "你看起来已经不是你了"
+ },
+ "8253203": {
+  "en": "So this is who you really are?",
+  "ch": "原来你是这样的？"
+ },
+ "8253204": {
+  "en": "Did you cause all this commotion?",
+  "ch": "你闹出来的动静？"
+ },
+ "8253205": {
+  "en": "I came to see you",
+  "ch": "我是来看你的"
+ },
+ "8253206": {
+  "en": "Did you eliminate the Nether Demons?",
+  "ch": "冥妖是你清理的？"
+ },
+ "8253207": {
+  "en": "And you drove off the monsters too?",
+  "ch": "妖兽也是你"
+ },
+ "8253208": {
+  "en": "Why did you attack the cultivators?",
+  "ch": "为何攻击修仙者"
+ },
+ "8253209": {
+  "en": "What did you do to them?",
+  "ch": "你把他们怎么了"
+ },
+ "8253210": {
+  "en": "Nothing",
+  "ch": "没什么"
+ },
+ "8253211": {
+  "en": "I'm worried you'll be in danger",
+  "ch": "我怕你会危险"
+ },
+ "8253212": {
+  "en": "The Nether Air will corrupt you",
+  "ch": "冥气会侵蚀你"
+ },
+ "8253213": {
+  "en": "What will become of you in the end?",
+  "ch": "最后你会怎么样"
+ },
+ "8253214": {
+  "en": "You speak of it so casually",
+  "ch": "你说得如此轻描淡写"
+ },
+ "8253218": {
+  "en": "There's more to the Leader of the Cultivator Alliance",
+  "ch": "仙盟之主，不只如此"
+ },
+ "8253219": {
+  "en": "That's all that can be displayed",
+  "ch": "也就如此而已"
+ },
+ "8253220": {
+  "en": "I will tell you",
+  "ch": "我会告诉你的"
+ },
+ "8253222": {
+  "en": "I won't tell you",
+  "ch": "我不会告诉你的"
+ },
+ "8253223": {
+  "en": "What's going on with the earth fire?",
+  "ch": "地火是怎么回事？"
+ },
+ "8253224": {
+  "en": "How is she in danger?",
+  "ch": "她怎么危险呢？"
+ },
+ "8253225": {
+  "en": "How is she doing now?",
+  "ch": "她现在怎样了呢？"
+ },
+ "8253226": {
+  "en": "What should we do then?",
+  "ch": "那该怎么办？"
+ },
+ "8253227": {
+  "en": "Go on",
+  "ch": "说下去"
+ },
+ "8253228": {
+  "en": "You're being controlled by the Nether Air",
+  "ch": "你被冥气操控了"
+ },
+ "8253229": {
+  "en": "Sever the threads",
+  "ch": "截断丝线"
+ },
+ "8253230": {
+  "en": "But I need this",
+  "ch": "但我需要"
+ },
+ "8253233": {
+  "en": "Peace in Chi You",
+  "ch": "赤幽州安宁"
+ },
+ "8253234": {
+  "en": "Pull it out",
+  "ch": "要走一起走"
+ },
+ "8253237": {
+  "en": "Let go",
+  "ch": "放走"
+ },
+ "8253238": {
+  "en": "Why did you launch this sneak attack?",
+  "ch": "为何出手偷袭？"
+ },
+ "8253239": {
+  "en": "Huh, a very important demon",
+  "ch": "不想那妖对你如此重要"
+ },
+ "8253245": {
+  "en": "What are you arguing about?",
+  "ch": "你们在争吵什么？"
+ },
+ "8253246": {
+  "en": "He's been chasing you all this time because of that?",
+  "ch": "他为此一直追着你？"
+ },
+ "8253247": {
+  "en": "How did he find you?",
+  "ch": "他怎么找到你的？"
+ },
+ "8253248": {
+  "en": "What's your plan for the future?",
+  "ch": "今后有何打算？"
+ },
+ "8253249": {
+  "en": "Can you really let it go?",
+  "ch": "你真的能放下？"
+ },
+ "8253250": {
+  "en": "What did you find?",
+  "ch": "你发现了什么？"
+ },
+ "8253253": {
+  "en": "The threads suddenly snap...",
+  "ch": "手中丝结崩断了……"
+ },
+ "8253254": {
+  "en": "Examine behind the estate",
+  "ch": "查看院落后方"
+ },
+ "8253255": {
+  "en": "Examine the main building",
+  "ch": "查看宅子主楼"
+ },
+ "8253256": {
+  "en": "Examine the secret house",
+  "ch": "查看秘密房子"
+ },
+ "8253257": {
+  "en": "Examine the thread-bound tower",
+  "ch": "查看缠丝高塔"
+ },
+ "8253258": {
+  "en": "Loose papers",
+  "ch": "夹杂纸张"
+ },
+ "8253259": {
+  "en": "Journal Entry I",
+  "ch": "日志之一"
+ },
+ "8253260": {
+  "en": "Journal Entry II",
+  "ch": "日志之二"
+ },
+ "8253261": {
+  "en": "Journal Entry III",
+  "ch": "日志之三"
+ },
+ "8253262": {
+  "en": "How did I end up here?",
+  "ch": "我怎会在此？"
+ },
+ "8253263": {
+  "en": "So you mean to imprison me?",
+  "ch": "意思是监禁我？"
+ },
+ "8253264": {
+  "en": "What is the meaning of this?",
+  "ch": "这是为何？"
+ },
+ "8253265": {
+  "en": "Are you jealous?",
+  "ch": "你嫉妒？"
+ },
+ "8253266": {
+  "en": "What do you want to do?",
+  "ch": "你想干嘛？"
+ },
+ "8253267": {
+  "en": "You can't force what isn't meant to be",
+  "ch": "强扭的瓜不香"
+ },
+ "8253268": {
+  "en": "I see you've lost your mind",
+  "ch": "看来你疯了"
+ },
+ "8253269": {
+  "en": "Where am I?",
+  "ch": "这是哪？"
+ },
+ "8253270": {
+  "en": "Who are you and what do you want?",
+  "ch": "你们干嘛的？"
+ },
+ "8253272": {
+  "en": "I'm leaving",
+  "ch": "我要走了"
+ },
+ "8253273": {
+  "en": "Leave her alone",
+  "ch": "不要纠缠{name|B}"
+ },
+ "8253277": {
+  "en": "You just won't leave her alone",
+  "ch": "你只会对{name|B}纠缠不休"
+ },
+ "8260913": {
+  "en": "Of course not",
+  "ch": "当然不会"
+ },
+ "8260914": {
+  "en": "It depends",
+  "ch": "视情况而定"
+ },
+ "8260915": {
+  "en": "You will, someday",
+  "ch": "你会有的"
+ },
+ "8260916": {
+  "en": "I'm here with you too",
+  "ch": "我不也陪着你吗"
+ },
+ "8260917": {
+  "en": "There'll be plenty of time with your beloved",
+  "ch": "有的是机会陪挚爱"
+ },
+ "8260918": {
+  "en": "I'll settle this once and for all",
+  "ch": "我会做个了断的"
+ },
+ "8260919": {
+  "en": "We've grown apart, haven't we?",
+  "ch": "我们好像生分了"
+ },
+ "8260920": {
+  "en": "Won't you explore the Mystic Realm?",
+  "ch": "不探索秘境吗？"
+ },
+ "8260921": {
+  "en": "I want to help you",
+  "ch": "我想帮你"
+ },
+ "8260922": {
+  "en": "Anything else to say?",
+  "ch": "你没别的话吗？"
+ },
+ "8260999": {
+  "en": "Why?",
+  "ch": "这是为何？"
+ },
+ "8261000": {
+  "en": "Sure, sure!",
+  "ch": "好啊好啊"
+ },
+ "8261001": {
+  "en": "I'm not going anywhere",
+  "ch": "我不走"
+ },
+ "8261002": {
+  "en": "Go away",
+  "ch": "走开"
+ },
+ "8261003": {
+  "en": "But I wanted to find you",
+  "ch": "可我想找你"
+ },
+ "8261004": {
+  "en": "Why not?",
+  "ch": "为什么不能？"
+ },
+ "8261005": {
+  "en": "Why all these sighs?",
+  "ch": "为何唉声叹气"
+ },
+ "8261007": {
+  "en": "Deal!",
+  "ch": "有何不可？"
+ },
+ "8261011": {
+  "en": "Go to greet",
+  "ch": "上前招呼"
+ },
+ "8261021": {
+  "en": "I care more about you",
+  "ch": "我更在乎你"
+ },
+ "8261174": {
+  "en": "I feel the same way",
+  "ch": "我也这么觉得"
+ },
+ "8261175": {
+  "en": "Not necessarily",
+  "ch": "未必这样"
+ },
+ "8261176": {
+  "en": "I'll keep this up",
+  "ch": "我会一直保持的"
+ },
+ "8261177": {
+  "en": "Not everything is for the best",
+  "ch": "不见得什么都好"
+ },
+ "8261178": {
+  "en": "I value this one greatly",
+  "ch": "我很看重此人"
+ },
+ "8261179": {
+  "en": "It's nothing special",
+  "ch": "不值一提"
+ },
+ "8261181": {
+  "en": "I'm afraid that's unlikely",
+  "ch": "只怕未必"
+ },
+ "8261182": {
+  "en": "You're absolutely right!",
+  "ch": "你说得不错！"
+ },
+ "8261183": {
+  "en": "Life is for doing what I want",
+  "ch": "活着就该快意恩仇"
+ },
+ "8261185": {
+  "en": "Such sincerity is truly precious",
+  "ch": "真性情难能可贵"
+ },
+ "8261188": {
+  "en": "You speak true",
+  "ch": "确如所言"
+ },
+ "8261189": {
+  "en": "You're overthinking it",
+  "ch": "你想太多了"
+ },
+ "8261190": {
+  "en": "I'll do my best to keep my distance from her",
+  "ch": "我会尽量远离她的"
+ },
+ "8261191": {
+  "en": "I just want to help her as much as I can",
+  "ch": "我只是想尽量帮助她"
+ },
+ "8261192": {
+  "en": "I'll try to talk some sense into her",
+  "ch": "我会劝她的"
+ },
+ "8261193": {
+  "en": "We live with danger every day",
+  "ch": "我们每天都活在危险之中"
+ },
+ "8261196": {
+  "en": "Hand over items",
+  "ch": "交与物品"
+ },
+ "8261198": {
+  "en": "You're the one who needs help",
+  "ch": "你才是最需要帮助的"
+ },
+ "8261199": {
+  "en": "I have the right to make my own choice",
+  "ch": "我有权自己选择"
+ },
+ "8261200": {
+  "en": "If you care about me, then surely you know me",
+  "ch": "既替我着想，那么也能理解我想帮你吧？"
+ },
+ "8261201": {
+  "en": "Indeed, you need to come to terms with it",
+  "ch": "确实，首先得要你自己想通"
+ },
+ "8261202": {
+  "en": "I won't give up on you, and you can't give up on yourself!",
+  "ch": "我不放弃你，你也不能放弃自己！"
+ },
+ "8261203": {
+  "en": "You shouldn't do this",
+  "ch": "你不该如此"
+ },
+ "8261204": {
+  "en": "I want to be there with you through hard times",
+  "ch": "想陪着你度过难关"
+ },
+ "8261205": {
+  "en": "By helping others, you help yourself",
+  "ch": "助人者自助"
+ },
+ "8261219": {
+  "en": "I'll be here waiting for your return",
+  "ch": "我等你回来"
+ },
+ "8261220": {
+  "en": "Try to stay out of trouble this time",
+  "ch": "回去别再那么淘气了"
+ },
+ "10302001": {
+  "en": "Go",
+  "ch": "出发"
+ },
+ "10302002": {
+  "en": "Stay",
+  "ch": "不去"
+ },
+ "10302025": {
+  "en": "Rob",
+  "ch": "抢夺"
+ },
+ "10302026": {
+  "en": "Don't rob",
+  "ch": "不抢"
+ },
+ "10592325": {
+  "en": "Ask his constitution",
+  "ch": "询问此人体质"
+ },
+ "10592326": {
+  "en": "Greet him",
+  "ch": "问好"
+ },
+ "10592327": {
+  "en": "Your fate lies in your hands",
+  "ch": "命运掌握在自己手中"
+ },
+ "10592328": {
+  "en": "I see",
+  "ch": "原来如此"
+ },
+ "10592329": {
+  "en": "Say thanks",
+  "ch": "道谢"
+ },
+ "10592330": {
+  "en": "Ask why he gives you a gift",
+  "ch": "询问送礼原因"
+ },
+ "10592331": {
+  "en": "Hey, don't give up",
+  "ch": "喂，不要放弃啊"
+ },
+ "10592332": {
+  "en": "Let him go",
+  "ch": "任其离去"
+ },
+ "10592333": {
+  "en": "Ask {name|B}",
+  "ch": "询问{name|B}"
+ },
+ "10592334": {
+  "en": "Ignore and leave",
+  "ch": "不顾而去"
+ },
+ "10592335": {
+  "en": "Cheer up him",
+  "ch": "打气"
+ },
+ "10592337": {
+  "en": "Comfort him",
+  "ch": "上前安慰"
+ },
+ "10592341": {
+  "en": "What are you looking at?",
+  "ch": "你在看什么？"
+ },
+ "10592343": {
+  "en": "What will you do on that day?",
+  "ch": "那到时你想做什么呢？"
+ },
+ "10592344": {
+  "en": "The day will certainly come",
+  "ch": "会有这么一天的"
+ },
+ "10592345": {
+  "en": "Turn and leave with a smile",
+  "ch": "微笑不语，转身离去"
+ },
+ "10592346": {
+  "en": "A great talent matures slowly",
+  "ch": "大器晚成，不必争此朝夕之长"
+ },
+ "10592350": {
+  "en": "Because you're extraordinary",
+  "ch": "非常人自有非常人的经历"
+ },
+ "10592351": {
+  "en": "Please keep going",
+  "ch": "请继续保持下去"
+ },
+ "10592352": {
+  "en": "Feel free to rest if tired",
+  "ch": "觉得累了就休息一下"
+ },
+ "10592353": {
+  "en": "Better to give it up",
+  "ch": "放弃吧"
+ },
+ "10592354": {
+  "en": "Please be sober up",
+  "ch": "你该清醒一下"
+ },
+ "10592355": {
+  "en": "Let him be",
+  "ch": "不管此人"
+ },
+ "10592356": {
+  "en": "Please don't do that",
+  "ch": "你该消停了"
+ },
+ "10592358": {
+  "en": "Drain the cup in one gulp",
+  "ch": "一饮而尽"
+ },
+ "10592361": {
+  "en": "Sit beside him silently",
+  "ch": "默默陪他坐会"
+ },
+ "10592362": {
+  "en": "Please cheer up",
+  "ch": "打起精神来吧"
+ },
+ "10592363": {
+  "en": "Keep going and you'll make it",
+  "ch": "仍未做到就继续"
+ },
+ "10592365": {
+  "en": "Encourage him",
+  "ch": "鼓励"
+ },
+ "10592368": {
+  "en": "Help",
+  "ch": "帮忙"
+ },
+ "10592370": {
+  "en": "Dispel the monster",
+  "ch": "驱逐妖兽"
+ },
+ "10592372": {
+  "en": "Have you found the cure?",
+  "ch": "可已寻得根治之法？"
+ },
+ "10592375": {
+  "en": "Nod",
+  "ch": "点头"
+ },
+ "10592376": {
+  "en": "Save him",
+  "ch": "救人"
+ },
+ "10592378": {
+  "en": "Why do you risk yourself here?",
+  "ch": "为何陷身险地？"
+ },
+ "10592379": {
+  "en": "Let's leave here right now",
+  "ch": "赶紧离开吧"
+ },
+ "10592380": {
+  "en": "What will you do?",
+  "ch": "你要怎么做？"
+ },
+ "10592381": {
+  "en": "Maybe give them the artifact?",
+  "ch": "不如将法器交出？"
+ },
+ "10592384": {
+  "en": "Ask what happened",
+  "ch": "上前询问"
+ },
+ "10592390": {
+  "en": "Lead {name|B} the way",
+  "ch": "走在前方，为{name|B}引路"
+ },
+ "10592391": {
+  "en": "Send {name|B} up with a spell",
+  "ch": "施法送{name|B}上去"
+ },
+ "10592393": {
+  "en": "Don't feel frustrated",
+  "ch": "不要灰心"
+ },
+ "10592395": {
+  "en": "Then I'll wait for you there",
+  "ch": "我在那边等你？"
+ },
+ "10592396": {
+  "en": "Cure the constitution before it",
+  "ch": "那你首先得除去体内三阴绝脉体"
+ },
+ "10592399": {
+  "en": "Ask about his spiritual roots",
+  "ch": "询问灵根"
+ },
+ "10592400": {
+  "en": "Ask about his situation",
+  "ch": "询问近况"
+ },
+ "10592402": {
+  "en": "You may decide it yourself now",
+  "ch": "你已独当一面，凡事应有主见"
+ },
+ "10592403": {
+  "en": "Better to be prudent in it",
+  "ch": "不宜仓促收徒"
+ },
+ "10592404": {
+  "en": "Let's slay it together",
+  "ch": "我们同去歼灭此妖"
+ },
+ "10592405": {
+  "en": "You can do it",
+  "ch": "你可以的"
+ },
+ "10592408": {
+  "en": "Look at {name|B}",
+  "ch": "注视{name|B}"
+ },
+ "10592409": {
+  "en": "Urge him to leave",
+  "ch": "催促离开"
+ },
+ "10592410": {
+  "en": "Pat his shoulder gently",
+  "ch": "轻轻拍他肩膀"
+ },
+ "10592411": {
+  "en": "Let's go, cultivator",
+  "ch": "走吧，修仙者"
+ },
+ "10592412": {
+  "en": "Yes. Any questions?",
+  "ch": "不对吗？"
+ },
+ "10303346": {
+  "en": "Protect her",
+  "ch": "保护此人"
+ },
+ "10303347": {
+  "en": "Stand aside and watch",
+  "ch": "袖手旁观"
+ },
+ "10303349": {
+  "en": "Why do they chase you?",
+  "ch": "他们为何追杀你？"
+ },
+ "10303351": {
+  "en": "No, I can't.",
+  "ch": "抱歉，不可以"
+ },
+ "10303352": {
+  "en": "Why do they want to kill you?",
+  "ch": "为何加害于你？"
+ },
+ "10303357": {
+  "en": "Where are you going?",
+  "ch": "你要外出吗？"
+ },
+ "10303359": {
+  "en": "That's good",
+  "ch": "甚好"
+ },
+ "10303360": {
+  "en": "No. I am not available now",
+  "ch": "不要，身上仍有要事"
+ },
+ "10303362": {
+  "en": "You seem to be disappointed",
+  "ch": "你似乎有些失望？"
+ },
+ "10303363": {
+  "en": "What are you searching for?",
+  "ch": "你到底在找什么？"
+ },
+ "10303364": {
+  "en": "Leave here now, it's dangerous",
+  "ch": "周围潜伏危机，快快离开"
+ },
+ "10303367": {
+  "en": "Have you been injured?",
+  "ch": "可有受伤？"
+ },
+ "10303368": {
+  "en": "They're from the Mindsnap Temple?",
+  "ch": "是蚀心殿之人？"
+ },
+ "10303369": {
+  "en": "Seems that it's not safe around",
+  "ch": "看来这附近也不安全"
+ },
+ "10303370": {
+  "en": "Let's be back",
+  "ch": "回去吧"
+ },
+ "10303371": {
+  "en": "Inspect",
+  "ch": "上前查看"
+ },
+ "10303373": {
+  "en": "Enter for investigation",
+  "ch": "进入查探"
+ },
+ "10303375": {
+  "en": "Read the booklet",
+  "ch": "翻看书册"
+ },
+ "10303376": {
+  "en": "Maybe you want poison?",
+  "ch": "你似乎想配一味毒药？"
+ },
+ "10303377": {
+  "en": "I'm leaving since you're not here.",
+  "ch": "特来看望，不过屋中无人，便要离开"
+ },
+ "10303378": {
+  "en": "Sorry. Am I annoyed you?",
+  "ch": "抱歉，你生气了？"
+ },
+ "10303379": {
+  "en": "The booklet has been opened",
+  "ch": "薄册摊开，不经意看见"
+ },
+ "10303382": {
+  "en": "The sun is setting and I must go",
+  "ch": "日暮向晚，我该走了"
+ },
+ "10303385": {
+  "en": "Ignore for now",
+  "ch": "暂不理会"
+ },
+ "10303386": {
+  "en": "You should rest",
+  "ch": "你应该静养"
+ },
+ "10303387": {
+  "en": "I'll go with you",
+  "ch": "我与你同去"
+ },
+ "10303389": {
+  "en": "Maybe later",
+  "ch": "稍等片刻"
+ },
+ "10303390": {
+  "en": "That's not true",
+  "ch": "没有此事"
+ },
+ "10303391": {
+  "en": "Perhaps",
+  "ch": "也许吧"
+ },
+ "10303392": {
+  "en": "Let's enter it",
+  "ch": "进去吧"
+ },
+ "10303394": {
+  "en": "Just say what you want.",
+  "ch": "你有话要说？"
+ },
+ "10303395": {
+  "en": "Let's leave here",
+  "ch": "我们走吧"
+ },
+ "10303399": {
+  "en": "Are you hurt?",
+  "ch": "你受伤了？"
+ },
+ "10303400": {
+  "en": "They are not from the Temple",
+  "ch": "他们并非蚀心殿之人"
+ },
+ "10303401": {
+  "en": "Why do you kill them?",
+  "ch": "为何下杀手？"
+ },
+ "10303402": {
+  "en": "I'll escort you back",
+  "ch": "我送你回去吧"
+ },
+ "10303403": {
+  "en": "Who... is she? (Murmuring)",
+  "ch": "她……是谁？（低语）"
+ },
+ "10303404": {
+  "en": "See {name|B} leaving",
+  "ch": "目送{name|B}"
+ },
+ "10303406": {
+  "en": "You should rest to heal yourself",
+  "ch": "你应该养伤"
+ },
+ "10303407": {
+  "en": "You seem to be different",
+  "ch": "为何感觉你跟平时不一样"
+ },
+ "10303408": {
+  "en": "I'll be together with you",
+  "ch": "我陪着你吧"
+ },
+ "10303409": {
+  "en": "I'll go anywhere with you",
+  "ch": "水里火里，在所不辞"
+ },
+ "10303410": {
+  "en": "Then I must get prepared first",
+  "ch": "那我只好先准备一下"
+ },
+ "10303411": {
+  "en": "You should be back for a rest",
+  "ch": "你应该回去休息"
+ },
+ "10303412": {
+  "en": "You'll rest forever if die here",
+  "ch": "别停下，你累死以后就可以好好休息了"
+ },
+ "10303415": {
+  "en": "Open the booklet",
+  "ch": "上前翻开"
+ },
+ "10303417": {
+  "en": "Sorry, I shouldn't read it.",
+  "ch": "抱歉，我不该看的"
+ },
+ "10303421": {
+  "en": "Maybe I should decline",
+  "ch": "那不要了"
+ },
+ "10303423": {
+  "en": "Why do you give me this?",
+  "ch": "为何送我此物？"
+ },
+ "10303426": {
+  "en": "Leave this to me",
+  "ch": "交给我吧"
+ },
+ "10303427": {
+  "en": "Are you trying to trap me?",
+  "ch": "你坑人呢？"
+ },
+ "10303428": {
+  "en": "Why do you crush it?",
+  "ch": "为何掐碎晶石？"
+ },
+ "10303429": {
+  "en": "Why do you give it to me?",
+  "ch": "为何送我？"
+ },
+ "10303433": {
+  "en": "What do they want to say?",
+  "ch": "他想说什么？"
+ },
+ "10303434": {
+  "en": "Why did they attack you",
+  "ch": "为何惹来对手"
+ },
+ "10303435": {
+  "en": "You should stay home and rest",
+  "ch": "你该留在家中养伤"
+ },
+ "10303436": {
+  "en": "What are you going to drink?",
+  "ch": "你要喝什么？"
+ },
+ "10303437": {
+  "en": "Knock the pot down",
+  "ch": "打掉瓦罐"
+ },
+ "10303440": {
+  "en": "What happened to you?",
+  "ch": "你……到底是怎么回事？"
+ },
+ "10303443": {
+  "en": "Enter to help her",
+  "ch": "入内援助"
+ },
+ "10303447": {
+  "en": "It's unimportant",
+  "ch": "那不重要"
+ },
+ "10303448": {
+  "en": "What's your condition?",
+  "ch": "你这是个什么情况？"
+ },
+ "10303449": {
+  "en": "What's your plan?",
+  "ch": "你今后有何打算？"
+ },
+ "10303450": {
+  "en": "You are under the two orders?",
+  "ch": "你们分别效力道心阁与蚀心殿？"
+ },
+ "10303451": {
+  "en": "Will it be harmful to you?",
+  "ch": "这样是否对你有害？"
+ },
+ "10303452": {
+  "en": "Could it be cured?",
+  "ch": "能根除这种情况吗？"
+ },
+ "10303453": {
+  "en": "I don't have questions",
+  "ch": "我没有什么想要知道"
+ },
+ "10303454": {
+  "en": "Talk to her",
+  "ch": "上前对话"
+ },
+ "10303456": {
+  "en": "Have you really decided?",
+  "ch": "你真想好了？"
+ },
+ "10303457": {
+  "en": "Come with me",
+  "ch": "你跟我走"
+ },
+ "10303458": {
+  "en": "Rescue {name|B}",
+  "ch": "救援{name|B}"
+ },
+ "10303459": {
+  "en": "Encourage the lady in Pavilion",
+  "ch": "鼓励属于道心阁一方的人格"
+ },
+ "10303460": {
+  "en": "Encourage the lady in Temple",
+  "ch": "鼓励属于蚀心殿一方的人格"
+ },
+ "10303461": {
+  "en": "Greet the person",
+  "ch": "走近确认"
+ },
+ "10303464": {
+  "en": "What happened that day?",
+  "ch": "当日发生什么事了？"
+ },
+ "10303466": {
+  "en": "But Bitterfly killed you",
+  "ch": "蝶怨明明杀死了你"
+ },
+ "10303467": {
+  "en": "Why did she lose vitality?",
+  "ch": "“她”为什么失去活力？"
+ },
+ "10303468": {
+  "en": "I don't have other questions",
+  "ch": "我没有想知道的了"
+ },
+ "10303471": {
+  "en": "You survived?",
+  "ch": "你安然无恙？"
+ },
+ "10303474": {
+  "en": "But Tianxuan killed you",
+  "ch": "天玄明明杀死了你"
+ },
+ "10303671": {
+  "en": "Thank you. I'll accept this.",
+  "ch": "谢谢，我收下了"
+ },
+ "10303675": {
+  "en": "Turn back and leave",
+  "ch": "不顾离开"
+ },
+ "10303676": {
+  "en": "Do you have any worries?",
+  "ch": "有心事？"
+ },
+ "10303677": {
+  "en": "You seem to be unwell",
+  "ch": "你好像不舒服？"
+ },
+ "10303678": {
+  "en": "Maybe you could talk to me",
+  "ch": "试着说说？"
+ },
+ "10303679": {
+  "en": "Don't ask again",
+  "ch": "不再询问"
+ },
+ "10303680": {
+  "en": "It's just a dream",
+  "ch": "一场梦而已"
+ },
+ "10303681": {
+  "en": "That's what the world is like",
+  "ch": "世界就是这样"
+ },
+ "10303682": {
+  "en": "Life is valuable since it will end",
+  "ch": "生命有限，所以可贵"
+ },
+ "10303683": {
+  "en": "Life is a travel toward death",
+  "ch": "生者逆旅，死为归宿"
+ },
+ "10303686": {
+  "en": "I'm here to visit you",
+  "ch": "特意来看望你的"
+ },
+ "10303687": {
+  "en": "But you're whiling away time too",
+  "ch": "你不也站着发呆"
+ },
+ "10303688": {
+  "en": "You look different from before",
+  "ch": "你好像和之前不一样"
+ },
+ "10303691": {
+  "en": "An unexpected place",
+  "ch": "意想不到的地方"
+ },
+ "10303692": {
+  "en": "Put it into your heart",
+  "ch": "放在你心里"
+ },
+ "10303693": {
+  "en": "Sit at her side",
+  "ch": "陪她坐一会"
+ },
+ "10303695": {
+  "en": "Are you preoccupied?",
+  "ch": "很不开心？"
+ },
+ "10303696": {
+  "en": "What are you thinking about?",
+  "ch": "在想什么？"
+ },
+ "10303697": {
+  "en": "Everything will pass",
+  "ch": "一切会过去的"
+ },
+ "10303698": {
+  "en": "That's normal in the world",
+  "ch": "世事就是这样的"
+ },
+ "10303699": {
+  "en": "Let's talk about something else",
+  "ch": "换个话题"
+ },
+ "10303700": {
+  "en": "She's fierce",
+  "ch": "她很凶"
+ },
+ "10303701": {
+  "en": "She's deceitful",
+  "ch": "她很阴险"
+ },
+ "10303702": {
+  "en": "She resembles you",
+  "ch": "她跟你很像"
+ },
+ "10303703": {
+  "en": "She's not as good as you",
+  "ch": "她没你好"
+ },
+ "10303704": {
+  "en": "Okay, I'll tell her about it",
+  "ch": "好啊，我替你传达。"
+ },
+ "10303705": {
+  "en": "No, you won't want if you know",
+  "ch": "不，你不会想的"
+ },
+ "10303706": {
+  "en": "She's not happy and we had a talk",
+  "ch": "她不开心，跟我说了会话"
+ },
+ "10303707": {
+  "en": "We just talked about you",
+  "ch": "我们刚刚聊到你"
+ },
+ "10303708": {
+  "en": "She wants to talk to you",
+  "ch": "她想跟你说话"
+ },
+ "10303709": {
+  "en": "Maybe try to reconcile with her?",
+  "ch": "我觉得你可以试着和她和解"
+ },
+ "10303712": {
+  "en": "I'll be sad if you died",
+  "ch": "你死掉我会很难受"
+ },
+ "10303713": {
+  "en": "I'll try to save you",
+  "ch": "我会想办法救你的"
+ },
+ "10304257": {
+  "en": "Take a look",
+  "ch": "过去"
+ },
+ "10304259": {
+  "en": "Why are you trapped here?",
+  "ch": "你怎么困在这里？"
+ },
+ "10304260": {
+  "en": "Inspect it... that's all?",
+  "ch": "真的只是查探？"
+ },
+ "10304261": {
+  "en": "What will I get from saving you?",
+  "ch": "救你，于我有什么好处吗？"
+ },
+ "10304262": {
+  "en": "Tell me how much you will pay.",
+  "ch": "不要废话，有什么好处？"
+ },
+ "10304263": {
+  "en": "So that's the price of your life?",
+  "ch": "所以你的命就值这么多？"
+ },
+ "10304264": {
+  "en": "I know you can pay more",
+  "ch": "我还要更多"
+ },
+ "10304266": {
+  "en": "Think before taking action",
+  "ch": "先考虑一下"
+ },
+ "10304268": {
+  "en": "Scold him",
+  "ch": "上前问罪"
+ },
+ "10304270": {
+  "en": "Where is the promised thing?",
+  "ch": "说好给我的东西呢？"
+ },
+ "10304271": {
+  "en": "When will you give it to me?",
+  "ch": "什么时候能给我？"
+ },
+ "10304272": {
+  "en": "What on earth is it?",
+  "ch": "那到底是个什么东西？"
+ },
+ "10304273": {
+  "en": "Stop fobbing me off!",
+  "ch": "不要给我闪烁其词！"
+ },
+ "10304274": {
+  "en": "Are you lying to me?",
+  "ch": "你骗我？"
+ },
+ "10304275": {
+  "en": "Tell me, what will you do?",
+  "ch": "你只说你打算怎么办？"
+ },
+ "10304276": {
+  "en": "And you even want me to help?",
+  "ch": "你竟还要我当你帮手？"
+ },
+ "10304277": {
+  "en": "I have no more questions",
+  "ch": "不再追问"
+ },
+ "10304278": {
+  "en": "Agree to help",
+  "ch": "帮助"
+ },
+ "10304279": {
+  "en": "Decline to help",
+  "ch": "不帮"
+ },
+ "10304280": {
+  "en": "Let's set off now",
+  "ch": "这就走吧"
+ },
+ "10304281": {
+  "en": "Decline the request",
+  "ch": "拒绝所请"
+ },
+ "10304284": {
+  "en": "You shouldn't do that",
+  "ch": "你不该这么做的"
+ },
+ "10304285": {
+  "en": "Don't accept it",
+  "ch": "不收宝物"
+ },
+ "10304286": {
+  "en": "Accept it",
+  "ch": "收下宝物"
+ },
+ "10304287": {
+  "en": "I'm interested",
+  "ch": "有兴趣"
+ },
+ "10304288": {
+  "en": "Think about it first",
+  "ch": "考虑一下"
+ },
+ "10304289": {
+  "en": "Walk to it",
+  "ch": "走过去"
+ },
+ "10304291": {
+  "en": "Are you a fool?",
+  "ch": "你是蠢吗？"
+ },
+ "10304292": {
+  "en": "Did you intend to do so?",
+  "ch": "你故意的吗？"
+ },
+ "10304293": {
+  "en": "Fool, get ready to fight!",
+  "ch": "傻子，准备应战"
+ },
+ "10304294": {
+  "en": "Just leave with the treasure",
+  "ch": "取宝离开即可"
+ },
+ "10304295": {
+  "en": "I'll follow your decision",
+  "ch": "你做主便是"
+ },
+ "10304296": {
+  "en": "Read the slips and the books",
+  "ch": "翻看竹简书籍"
+ },
+ "10304299": {
+  "en": "I prefer not to go",
+  "ch": "我不去了"
+ },
+ "10304300": {
+  "en": "Enter it now",
+  "ch": "马上进去"
+ },
+ "10304302": {
+  "en": "Could you please get away?",
+  "ch": "你可以别碍事吗？"
+ },
+ "10304303": {
+  "en": "I'll deal with them!",
+  "ch": "我来应付！"
+ },
+ "10304305": {
+  "en": "Stop pretending death",
+  "ch": "别装了"
+ },
+ "10304306": {
+  "en": "Lie here if you like",
+  "ch": "你喜欢躺着就躺着吧"
+ },
+ "10304307": {
+  "en": "What is the treasure mentioned in the notes?",
+  "ch": "你家中案台上笔记中的秘宝是什么？"
+ },
+ "10304308": {
+  "en": "Maybe it will harm you a lot",
+  "ch": "此物似乎对人颇有害处"
+ },
+ "10304309": {
+  "en": "Did you plan such an escape?",
+  "ch": "刚才是故意脱身的吧？"
+ },
+ "10304311": {
+  "en": "Go to {name|B}'s dwelling",
+  "ch": "查探{name|B}住处"
+ },
+ "10304314": {
+  "en": "Nod and greet",
+  "ch": "与之点头示意"
+ },
+ "10304317": {
+  "en": "Why are you so preoccupied?",
+  "ch": "为何沉默寡言？"
+ },
+ "10304318": {
+  "en": "I can wait some more days",
+  "ch": "你答应的事，可以宽限些时日"
+ },
+ "10304319": {
+  "en": "Make good on your promise now",
+  "ch": "赶紧兑现答应我的事吧"
+ },
+ "10304326": {
+  "en": "It's me who defeated them",
+  "ch": "那是我打倒的"
+ },
+ "10304329": {
+  "en": "Is there something strange?",
+  "ch": "什么怪事？"
+ },
+ "10304330": {
+  "en": "Leave this place",
+  "ch": "离开此处"
+ },
+ "10304331": {
+  "en": "Check the slips",
+  "ch": "查看竹简"
+ },
+ "10304332": {
+  "en": "Check the books",
+  "ch": "查看书籍"
+ },
+ "10304333": {
+  "en": "Check the handwritten pages",
+  "ch": "查看手写文书"
+ },
+ "10304335": {
+  "en": "Go for a clarification",
+  "ch": "问个明白"
+ },
+ "10304337": {
+  "en": "Note on meeting sworn brother",
+  "ch": "关于遇见义兄的记载"
+ },
+ "10304338": {
+  "en": "Note on worrying about brother",
+  "ch": "关于担心义兄的记载"
+ },
+ "10304339": {
+  "en": "Note on brother got burnt out",
+  "ch": "关于义兄损耗心力的记载"
+ },
+ "10304340": {
+  "en": "Note on honoring brother's will",
+  "ch": "关于完成义兄遗志的记载"
+ },
+ "10304341": {
+  "en": "Close the notebook",
+  "ch": "合上笔记"
+ },
+ "10304342": {
+  "en": "Are you releasing a monster?",
+  "ch": "你在释放妖兽？"
+ },
+ "10304343": {
+  "en": "A cultivator said you're breaking the monster's seal",
+  "ch": "一名修仙者声称你在解开妖兽封印"
+ },
+ "10304344": {
+  "en": "What's this? (Give him the pages)",
+  "ch": "这是什么？（递上“手写文书”）"
+ },
+ "10304345": {
+  "en": "What on earth are you doing?",
+  "ch": "你到底在做什么？"
+ },
+ "10304346": {
+  "en": "Prevent {name|B}",
+  "ch": "阻止{name|B}"
+ },
+ "10304347": {
+  "en": "Let {name|B} go",
+  "ch": "放走{name|B}"
+ },
+ "10304348": {
+  "en": "How will you deal with him?",
+  "ch": "你要怎么处置他？"
+ },
+ "10304349": {
+  "en": "Let him be brought back",
+  "ch": "任其带走"
+ },
+ "10304352": {
+  "en": "Dig out the Illusion Root",
+  "ch": "挖出九幻灵根"
+ },
+ "10304354": {
+  "en": "Assist them in the fight",
+  "ch": "协助战斗"
+ },
+ "10304356": {
+  "en": "Give him the clue",
+  "ch": "交出“线索”"
+ },
+ "10304357": {
+  "en": "Conceal the clue",
+  "ch": "隐瞒“线索”"
+ },
+ "10304358": {
+  "en": "You may die if you dig it out",
+  "ch": "挖出九幻灵根，你可能会死的"
+ },
+ "10304360": {
+  "en": "You could give up the plan",
+  "ch": "你可以不挖出九幻灵根的"
+ },
+ "10304362": {
+  "en": "Time to tell all of this to me",
+  "ch": "你现在该说说一切的来龙去脉了吧？"
+ },
+ "10304363": {
+  "en": "Why did you release the monster?",
+  "ch": "为何释放妖兽？"
+ },
+ "10304364": {
+  "en": "Didn't you know its risk?",
+  "ch": "你不觉得这样做太过冒险？"
+ },
+ "10304365": {
+  "en": "Did you use me under the name of exploration?",
+  "ch": "挖宝探秘其实是在利用我吧？"
+ },
+ "10304366": {
+  "en": "Tell me about the monster's bane",
+  "ch": "关于妖兽克制之物？"
+ },
+ "10304367": {
+  "en": "Why did you want the Root so much",
+  "ch": "为何执着于九幻灵根"
+ },
+ "10304368": {
+  "en": "What will happen after sacrificing your lifespan?",
+  "ch": "你折损寿元，有何后果？"
+ },
+ "10304371": {
+  "en": "Why you couldn't keep it?",
+  "ch": "为何宝物不能留在你手？"
+ },
+ "10304372": {
+  "en": "Better destroy it since it consumes life",
+  "ch": "此物折人寿元，应当毁去"
+ },
+ "10304373": {
+  "en": "But your lifespan has been cost",
+  "ch": "你折损寿元，如何是好？"
+ },
+ "10304374": {
+  "en": "I'll plant it somewhere else",
+  "ch": "我另在别处种下"
+ },
+ "10304375": {
+  "en": "Okay, I'll do it as you said",
+  "ch": "便依你所言吧"
+ },
+ "10304376": {
+  "en": "Plant the Illusion Root",
+  "ch": "种下九幻灵根"
+ },
+ "10304381": {
+  "en": "You should stop",
+  "ch": "你应该罢手了"
+ },
+ "10304382": {
+  "en": "Leave him alone",
+  "ch": "不再管他"
+ },
+ "10304385": {
+  "en": "Shake the tree's root",
+  "ch": "摇动树根"
+ },
+ "10304458": {
+  "en": "Enter with him",
+  "ch": "陪同进入"
+ },
+ "10304460": {
+  "en": "How could you feel happy now?",
+  "ch": "你到底在开心个什么鬼？"
+ },
+ "10304461": {
+  "en": "You hoodwinked me again!",
+  "ch": "你又把我拖进坑里！"
+ },
+ "10304462": {
+  "en": "Will you flee and leave me here?",
+  "ch": "你不会撇下我逃跑吧？"
+ },
+ "10304463": {
+  "en": "Get aside! I'll defeat them",
+  "ch": "你走开，我来抵挡！"
+ },
+ "10304464": {
+  "en": "Then why would you come here?",
+  "ch": "你明知这样还跑来这边？"
+ },
+ "10304465": {
+  "en": "Are you scheming against me?",
+  "ch": "你这是在算计我吧？"
+ },
+ "10304466": {
+  "en": "I'll fend them off. Get aside!",
+  "ch": "我来抵挡，你闪开！"
+ },
+ "10304467": {
+  "en": "But they're here now!",
+  "ch": "可现在明明就有妖兽！"
+ },
+ "10304468": {
+  "en": "You made me speechless...",
+  "ch": "拿你没办法！"
+ },
+ "10304469": {
+  "en": "I'll deal with them. Get away!",
+  "ch": "不要碍手碍脚，我来抵挡！"
+ },
+ "10304501": {
+  "en": "What on earth are you doing now?",
+  "ch": "你又捣什么鬼？"
+ },
+ "10305021": {
+  "en": "Quit while ahead",
+  "ch": "见好就收"
+ },
+ "10305022": {
+  "en": "Draw again",
+  "ch": "再抽一次"
+ },
+ "10305023": {
+  "en": "End drawing",
+  "ch": "结束抽签"
+ },
+ "10306510": {
+  "en": "Consume soul",
+  "ch": "吞噬元魂"
+ },
+ "10306514": {
+  "en": "Hunt down",
+  "ch": "追杀"
+ },
+ "10306515": {
+  "en": "Spare",
+  "ch": "放过"
+ },
+ "10306518": {
+  "en": "Give Up",
+  "ch": "取消"
+ },
+ "10307723": {
+  "en": "View soul fragment stats",
+  "ch": "查看残魂属性"
+ },
+ "10310510": {
+  "en": "Examine",
+  "ch": "观察"
+ },
+ "10310511": {
+  "en": "Rescue",
+  "ch": "救援"
+ },
+ "10310517": {
+  "en": "What are your plans now?",
+  "ch": "接下来有什么打算？"
+ },
+ "10310518": {
+  "en": "You're a puppet, aren't you?",
+  "ch": "你是一具木偶？"
+ },
+ "10310521": {
+  "en": "What are you drawing?",
+  "ch": "你在画什么？"
+ },
+ "10310522": {
+  "en": "Are these buildings?",
+  "ch": "这是房子吗？"
+ },
+ "10310529": {
+  "en": "I brought what you needed",
+  "ch": "东西带来了"
+ },
+ "10310531": {
+  "en": "Your hand is fixed?",
+  "ch": "你的手好了？"
+ },
+ "10310532": {
+  "en": "This house is...?",
+  "ch": "这所房子？"
+ },
+ "10310533": {
+  "en": "Do you need any help?",
+  "ch": "需要帮忙吗？"
+ },
+ "10310534": {
+  "en": "What are you, really?",
+  "ch": "你究竟是什么？"
+ },
+ "10310536": {
+  "en": "What's the Origin Box for?",
+  "ch": "归元木匣是做什么？"
+ },
+ "10310537": {
+  "en": "Inspect the interior",
+  "ch": "查探屋内"
+ },
+ "10310539": {
+  "en": "Examine the sand table",
+  "ch": "查看沙盘"
+ },
+ "10310541": {
+  "en": "Walk away",
+  "ch": "暂离"
+ },
+ "10310542": {
+  "en": "What did this person do to you?",
+  "ch": "此人对你做什么了？"
+ },
+ "10310543": {
+  "en": "Drive the person away",
+  "ch": "赶走此人"
+ },
+ "10310545": {
+  "en": "Reason with the person",
+  "ch": "与其理论"
+ },
+ "10310546": {
+  "en": "I actually meant to let him go",
+  "ch": "我的意思其实将他放走"
+ },
+ "10310547": {
+  "en": "Show mercy when you can",
+  "ch": "得饶人处且饶人"
+ },
+ "10310548": {
+  "en": "You weren't wrong, but this might create enemies",
+  "ch": "这样没错，但可能招来仇恨"
+ },
+ "10310549": {
+  "en": "An eye for an eye, you did right",
+  "ch": "以牙还牙并没错"
+ },
+ "10310551": {
+  "en": "The person meant no harm",
+  "ch": "此人是一片好意"
+ },
+ "10310552": {
+  "en": "She didn't mean to...",
+  "ch": "她不是故意的……"
+ },
+ "10310553": {
+  "en": "Let's treat the wounds",
+  "ch": "我们给他治伤"
+ },
+ "10310554": {
+  "en": "What do you think we should do?",
+  "ch": "你觉得应该怎么办？"
+ },
+ "10310555": {
+  "en": "Here's the G4 Blood Circulation Elixir",
+  "ch": "这是四品活血丹"
+ },
+ "10310557": {
+  "en": "She didn't know any better",
+  "ch": "不知者不罪"
+ },
+ "10310558": {
+  "en": "An apology will do",
+  "ch": "道歉就好"
+ },
+ "10310559": {
+  "en": "Here's the pills (Require G4 Blood Circulation Elixir x2)",
+  "ch": "这是四品活血丹（需四品活血丹X2）"
+ },
+ "10310563": {
+  "en": "Be quiet...",
+  "ch": "你闭嘴……"
+ },
+ "10310564": {
+  "en": "Apologize now...",
+  "ch": "你道歉……"
+ },
+ "10310569": {
+  "en": "Sand Table Log II",
+  "ch": "沙盘日志之二"
+ },
+ "10310570": {
+  "en": "Find {name|B}",
+  "ch": "寻找{name|B}"
+ },
+ "10310572": {
+  "en": "Give what he needs (Require Spirit Stones x1,000, Wind Essence Bamboo x2)",
+  "ch": "给他所需"
+ },
+ "10310575": {
+  "en": "Remember now, you shouldn't do this...",
+  "ch": "记住不可如此……"
+ },
+ "10310576": {
+  "en": "Tell me what you're thinking first before taking action, okay...",
+  "ch": "先跟我说你的想法然后再动手嘛……"
+ },
+ "10310577": {
+  "en": "They're just sparring...",
+  "ch": "在比武切磋……"
+ },
+ "10310578": {
+  "en": "Let's not disturb them...",
+  "ch": "别妨碍人家……"
+ },
+ "10310579": {
+  "en": "They're trying to eat each other's mouths",
+  "ch": "要吃掉对方嘴巴"
+ },
+ "10310580": {
+  "en": "They're expressing their love",
+  "ch": "在表达爱意"
+ },
+ "10310581": {
+  "en": "Eating that increases power",
+  "ch": "吃了可增修为"
+ },
+ "10310582": {
+  "en": "They're showing their true feelings",
+  "ch": "其实在展现真心"
+ },
+ "10310583": {
+  "en": "Sand Table Log III",
+  "ch": "沙盘日志之三"
+ },
+ "10310586": {
+  "en": "Why come to the Fallen Valley?",
+  "ch": "为何来陨幽谷"
+ },
+ "10310587": {
+  "en": "Lovers wouldn't meet in a place like this",
+  "ch": "其实情侣不会来此相会"
+ },
+ "10310588": {
+  "en": "Let's enter",
+  "ch": "进去吧"
+ },
+ "10310590": {
+  "en": "Died for greed",
+  "ch": "人为财死"
+ },
+ "10310591": {
+  "en": "Lost their way here",
+  "ch": "误入此地"
+ },
+ "10310592": {
+  "en": "Why aren't they worthy?",
+  "ch": "为何没资格？"
+ },
+ "10310594": {
+  "en": "What do you mean...",
+  "ch": "什么男女……"
+ },
+ "10310596": {
+  "en": "You're curious, aren't you?",
+  "ch": "你是好奇吧？"
+ },
+ "10310598": {
+  "en": "What are you going in there for?",
+  "ch": "你进去干嘛？"
+ },
+ "10310601": {
+  "en": "Your house is already very nice",
+  "ch": "你的房子已经很好了"
+ },
+ "10310604": {
+  "en": "The man loved the woman and courted her",
+  "ch": "男人喜欢女人，他向其求爱"
+ },
+ "10310605": {
+  "en": "Better left unsaid",
+  "ch": "不说也罢"
+ },
+ "10310606": {
+  "en": "It's another way of showing affection",
+  "ch": "也是表达喜欢的意思"
+ },
+ "10310610": {
+  "en": "Is something troubling you?",
+  "ch": "你有烦恼？"
+ },
+ "10310624": {
+  "en": "Check the research log",
+  "ch": "查看研发日志"
+ },
+ "10310627": {
+  "en": "Were you having a nightmare?",
+  "ch": "你在做恶梦？"
+ },
+ "10310628": {
+  "en": "You seem exhausted",
+  "ch": "看来你太累了"
+ },
+ "10310631": {
+  "en": "Why did you bring me here?",
+  "ch": "为何带我来？"
+ },
+ "10310632": {
+  "en": "How did you find this place?",
+  "ch": "怎么发现此地？"
+ },
+ "10310633": {
+  "en": "Actually... what are you?",
+  "ch": "其实……你是什么？"
+ },
+ "10310634": {
+  "en": "Nothing in this world is perfect",
+  "ch": "世上没有完美的东西"
+ },
+ "10310635": {
+  "en": "None of us are perfect, but we can all become better",
+  "ch": "我们都不完美，但我们可以变得更好"
+ },
+ "10310637": {
+  "en": "Is your wrist okay?",
+  "ch": "你的手没事吗？"
+ },
+ "10310638": {
+  "en": "Can I help you with anything?",
+  "ch": "我能帮你什么吗？"
+ },
+ "10310639": {
+  "en": "Can we talk this out?",
+  "ch": "有话好说"
+ },
+ "10310640": {
+  "en": "Try to separate them",
+  "ch": "尝试分开两人"
+ },
+ "10310642": {
+  "en": "I can help you",
+  "ch": "我可以帮你"
+ },
+ "10310643": {
+  "en": "Calm down, or you'll make trouble",
+  "ch": "冷静，否则你会闯祸"
+ },
+ "10310644": {
+  "en": "Don't blame her",
+  "ch": "不予责怪"
+ },
+ "10310645": {
+  "en": "Give items (Wind Essence Bamboo x2)",
+  "ch": "给予物品"
+ },
+ "10310648": {
+  "en": "What's really going on?",
+  "ch": "到底怎么了？"
+ },
+ "10310649": {
+  "en": "So you'll do the same thing?",
+  "ch": "所以你也要这样？"
+ },
+ "10310652": {
+  "en": "Haste makes waste",
+  "ch": "欲速则不达"
+ },
+ "10310653": {
+  "en": "Touch the sand table",
+  "ch": "触动沙盘"
+ },
+ "10310659": {
+  "en": "Let her rest",
+  "ch": "待其休息"
+ },
+ "10310660": {
+  "en": "It was just a dream",
+  "ch": "那只是梦"
+ },
+ "10310661": {
+  "en": "Stay strong",
+  "ch": "坚强一点"
+ },
+ "10310662": {
+  "en": "You're very adorable",
+  "ch": "你很讨人喜欢"
+ },
+ "10310663": {
+  "en": "Why say such silly things?",
+  "ch": "说什么傻话？"
+ },
+ "10310664": {
+  "en": "Stop making a fuss over nothing",
+  "ch": "不要无病呻吟"
+ },
+ "10310665": {
+  "en": "Activate Yang Mirage Sand Table",
+  "ch": "触发阳·幻尘沙盘"
+ },
+ "10310666": {
+  "en": "Activate Yin Mirage Sand Table",
+  "ch": "触发阴·幻尘沙盘"
+ },
+ "10310667": {
+  "en": "Activate Primal Mirage Sand Table",
+  "ch": "触发混元·幻尘沙盘"
+ },
+ "10310668": {
+  "en": "She's in grave danger and needs immediate rescue",
+  "ch": "她有危险，极需营救"
+ },
+ "10310671": {
+  "en": "Warn of danger",
+  "ch": "告知危险"
+ },
+ "10310672": {
+  "en": "Stand your ground",
+  "ch": "坚持不走"
+ },
+ "10310674": {
+  "en": "Put into it",
+  "ch": "放入"
+ },
+ "10310675": {
+  "en": "Reconstruct (Require 500 Lifespan, Netherworld Stone x10)",
+  "ch": "重塑（需20年寿命、鸦灵寒玉X10）"
+ },
+ "10310677": {
+  "en": "Tell me about your past",
+  "ch": "我想了解你之前的事"
+ },
+ "10310678": {
+  "en": "Is something still troubling you?",
+  "ch": "你还有心事吗？"
+ },
+ "10310682": {
+  "en": "How did you break free?",
+  "ch": "你怎么摆脱你的主人？"
+ },
+ "10310683": {
+  "en": "So that's why you're trapped there?",
+  "ch": "因此你陷身陨幽谷中？"
+ },
+ "10310684": {
+  "en": "What are the Three Principles?",
+  "ch": "何谓三绝律？"
+ },
+ "10310685": {
+  "en": "So you've been rebuilding it ever since?",
+  "ch": "因此那之后你一直重建归元木匣？"
+ },
+ "10310686": {
+  "en": "How did you come back to life?",
+  "ch": "你如何重生？"
+ },
+ "10310687": {
+  "en": "You're no longer a puppet now?",
+  "ch": "你现在已不是木偶了吧？"
+ },
+ "10310688": {
+  "en": "Then why did the Origin Box explode?",
+  "ch": "那为何归元木匣发生爆炸？"
+ },
+ "10310689": {
+  "en": "Say no more. It's good to have you back",
+  "ch": "不必说了，回来就好"
+ },
+ "10310690": {
+  "en": "Why call yourself a failure?",
+  "ch": "为何自贬失败之作？"
+ },
+ "10310691": {
+  "en": "Your suffering came for your perfection",
+  "ch": "你遭此劫难，恰是因为太过完美"
+ },
+ "10310692": {
+  "en": "Nobody is perfect",
+  "ch": "没人是完美的"
+ },
+ "10310693": {
+  "en": "Only the future matters",
+  "ch": "都过去了，重要的是今后"
+ },
+ "10310694": {
+  "en": "But you changed your own destiny",
+  "ch": "但你改变自己命运了"
+ },
+ "10310695": {
+  "en": "Do you regret it?",
+  "ch": "你后悔吗？"
+ },
+ "10310696": {
+  "en": "Then make amends",
+  "ch": "那就作出补偿"
+ },
+ "10310697": {
+  "en": "What's hard-earned should be cherished",
+  "ch": "既是得来不易，就应该更加珍惜"
+ },
+ "10310698": {
+  "en": "I'll be here with you from now on",
+  "ch": "今后我也会陪着你"
+ },
+ "10310699": {
+  "en": "Have some faith in yourself",
+  "ch": "给自己一点信心"
+ },
+ "10310700": {
+  "en": "What's on your mind?",
+  "ch": "你在想什么？"
+ }
+}
