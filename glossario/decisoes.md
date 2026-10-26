@@ -61,6 +61,9 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | `No. 1` em títulos (regra 11) | Nº 1 | Decidido em 2026-10-25: "Nº 1 em <Arma> de <Lugar>". O "º" e o "ª" foram liberados no validador e na ponte: `hanwen`, `heiti`, `LiberationSans` e `cutiHanwen` têm os dois; `cuti` e `HYShangWeiShouShuW` não, mas também não têm "ç" e "ã". |
 | casket | pelo contexto | "caixão" quando guarda um morto; "caixa" quando é recipiente de item. |
 | Upgrade | pelo contexto | "aprimorar/aprimoramento" para item, habilidade e construção; "atualização" só para atualização do jogo (notas de patch). |
+| Grau de elixir/pílula (`G1`…`G6`) | sempre no fim do nome | Decidido em 2026-10-26: "Elixir Guanglin G6", nunca "G6 Elixir Guanglin" nem "Grau 6"/"de Sexta Classe". Vale para `item_name`, `effect_name`/`effect_desc` (1ª linha) e `achievementTitle` ("Núcleo Dourado G1"). Com qualificador entre parênteses, o grau vem antes dele: "Elixir de Fundação G6 (Mortal)". |
+| Reescrever Destino (`fateName*`) | `pt` = `ch` | Decidido em 2026-10-26: os nomes (inscrições) dos destinos reescritos aparecem em estilo vertical, que não serve ao alfabeto ocidental; voltam ao chinês original. Risco: se a fonte do jogo em inglês não tiver os caracteres, aparecem quadrados. |
+| Reino Dao (`battleRule_daojie`) | "Reino Dao {0}" | Decidido em 2026-10-26: o tipo vem depois, na ordem portuguesa ("Reino Dao Palma da Água"). |
 
 ## Interface apertada (teste do piloto em 2026-10-23)
 
