@@ -29,6 +29,24 @@ namespace MOD_6b2SYs
         private static readonly Dictionary<int, string> lastSeen = new Dictionary<int, string>();
         private static readonly Regex Placeholder = new Regex(@"\{[^{}]*\}|\d+(?:[.,]\d+)*");
         private static readonly Regex Letter = new Regex(@"\p{L}.*\p{L}");
+
+        // Textos que o jogo monta juntando pedaços na ordem do inglês ou cortando uma palavra do nome.
+        private static readonly KeyValuePair<Regex, string>[] Parts = {
+            // Alquimia: o jogo tira "Receita" (refineElixir_text2) de "Receita de Elixir X" e sobra "de Elixir X".
+            new KeyValuePair<Regex, string>(new Regex(@"^de (Elixir\b.*)$", RegexOptions.Singleline), "$1"),
+            // Salão de Missões: ano + " Ano" + mês + " Mês" (common_nian, common_yue).
+            new KeyValuePair<Regex, string>(new Regex(@"^(\d+) Ano (\d+) Mês$"), "Ano $1 Mês $2"),
+            // Talismãs, materiais de cada nível: sem "Talismã do", o nome e o material cabem na linha.
+            new KeyValuePair<Regex, string>(new Regex(@"^(<color=#\w+>)Talismã d[aeo]s? "), "$1"),
+        };
+
+        // Placa de andar do Pavilhão dos Manuais (school_dijiceng): caixa de 30 px, uma letra por linha.
+        private static readonly Regex FloorSign = new Regex(@"^Piso (\d+)$");
+        private const string FloorNumber = "PtBrPisoNum";
+        private const float FloorSignMaxWidth = 50f;
+        private const float FloorLettersDx = -7f;
+        private const float FloorNumberDx = 11f;
+
         private static string logPath;
         private static float nextScan;
         private static bool applying;
@@ -112,8 +130,9 @@ namespace MOD_6b2SYs
             string t = text.Trim();
             if (!map.TryGetValue(t, out result))
             {
+                result = RewriteParts(t);
                 // Nomes de seita e cidade montados na ordem inglesa pelo jogo.
-                result = NameOrderPtBr.Rewrite(text);
+                result = NameOrderPtBr.Rewrite(result ?? text) ?? result;
                 // Nomes de técnica que não passaram pelo GetName.
                 result = TechniqueNamePtBr.Rewrite(result ?? text) ?? result;
                 if (result == null && !known.Contains(t) && Letter.IsMatch(t) && !knownTemplates.Contains(Template(t)))
@@ -127,6 +146,50 @@ namespace MOD_6b2SYs
             }
             cache[text] = result;
             return result;
+        }
+
+        private static string RewriteParts(string t)
+        {
+            foreach (var part in Parts)
+            {
+                if (part.Key.IsMatch(t))
+                {
+                    return part.Key.Replace(t, part.Value);
+                }
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// "Piso 3" na placa estreita vira "P/i/s/o" em coluna, com o número numa cópia do texto ao lado, centrado na
+        /// altura. Devolve true se tratou o texto.
+        /// </summary>
+        private static bool ApplyFloorSign(UnityEngine.UI.Text t)
+        {
+            var m = FloorSign.Match(t.text ?? "");
+            var rt = t.rectTransform;
+            if (!m.Success || t.name == FloorNumber || rt.sizeDelta.x > FloorSignMaxWidth)
+            {
+                return false;
+            }
+            applying = true;
+            try
+            {
+                t.text = "P\ni\ns\no";
+                var numTr = rt.parent.Find(FloorNumber);
+                if (numTr == null)
+                {
+                    var go = UnityEngine.Object.Instantiate(t.gameObject, rt.parent).Cast<UnityEngine.GameObject>();
+                    go.name = FloorNumber;
+                    numTr = go.transform;
+                    numTr.Cast<UnityEngine.RectTransform>().anchoredPosition =
+                        rt.anchoredPosition + new UnityEngine.Vector2(FloorNumberDx, 0f);
+                    rt.anchoredPosition += new UnityEngine.Vector2(FloorLettersDx, 0f);
+                }
+                numTr.GetComponent<UnityEngine.UI.Text>().text = m.Groups[1].Value;
+            }
+            finally { applying = false; }
+            return true;
         }
 
         private static void LogUnknown(string t, string where)
@@ -175,7 +238,7 @@ namespace MOD_6b2SYs
 
         private static void Apply(UnityEngine.UI.Text t)
         {
-            if (applying || t == null)
+            if (applying || t == null || ApplyFloorSign(t))
             {
                 return;
             }

@@ -868,8 +868,9 @@
  "role_grade_grow_quality30": {
   "ch": "结晶",
   "en": "Qi Condensation (III)",
-  "pt": "Condensação de Qi (III)",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Condensação de Qi",
+  "auto": "gemini/gemini-3-flash-preview",
+  "revisado": true
  },
  "role_grade_grow_quality41": {
   "ch": "五品金丹",
@@ -898,8 +899,9 @@
  "role_grade_grow_quality45": {
   "ch": "一品金丹",
   "en": "G1 Golden Core",
-  "pt": "Núcleo Dourado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Núcleo Dourado G1",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisado": true
  },
  "role_grade_grow_quality50": {
   "ch": "具灵",
@@ -1018,8 +1020,9 @@
  "role_grade_name9": {
   "ch": "羽化",
   "en": "Reborn (IX)",
-  "pt": "Renascimento (IX)",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Renascimento",
+  "auto": "gemini/gemini-2.5-flash",
+  "revisado": true
  },
  "role_grade_phase1": {
   "ch": "初期",

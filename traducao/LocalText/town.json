@@ -254,8 +254,9 @@
  "town_huafei": {
   "ch": "灵石{0} 需要{1}天",
   "en": "Cost: {0} Spirit Stones, Duration: {1}d",
-  "pt": "Custo: {0} Pedras Espirituais ({1}d)",
-  "auto": "local/hy-mt2+teste-jogo"
+  "pt": "Custo: {0} Pedras Espirituais\nDuração: {1}d",
+  "auto": "local/hy-mt2+teste-jogo",
+  "revisado": true
  },
  "town_huishou": {
   "ch": "回收道具",

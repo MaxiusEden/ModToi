@@ -2185,8 +2185,9 @@
  "SchoolLibrary_ChangeTitle": {
   "ch": "主修功法",
   "en": "Main Martial Arts",
-  "pt": "Artes Marciais Principais",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Artes Principais",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisado": true
  },
  "SchoolLibrary_ChangeTitle2": {
   "ch": "功法库",
@@ -2449,8 +2450,9 @@
  "SchoolTaskLobby_Report": {
   "ch": "任务汇报",
   "en": "Mission Debrief",
-  "pt": "Debrief de Missão",
-  "auto": "cohere/command-r-plus-08-2024"
+  "pt": "Relatórios",
+  "auto": "cohere/command-r-plus-08-2024",
+  "revisado": true
  },
  "SchoolTaskLobby_StudentDo": {
   "ch": "你作为{0}可在此领取任务",
@@ -4854,8 +4856,9 @@
  "artifactShape_QuickBtn": {
   "ch": "一键放入",
   "en": "Auto-Add",
-  "pt": "Adicionar Automaticamente",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preencher",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisado": true
  },
  "artifactShape_beicuihuitishi": {
   "ch": "若法宝在持续时间内被击败，则使用冷却时间会增加",
@@ -22335,14 +22338,16 @@
  "nitian_text18": {
   "ch": "以下所有材料",
   "en": "All the materials below",
-  "pt": "Todos os materiais abaixo",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": ": todos os materiais abaixo.",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "nitian_text19": {
   "ch": "需要以下（{0}）个材料",
   "en": "Requires {0} of the materials from below",
-  "pt": "É necessário {0} do material listado abaixo.",
-  "auto": "local/hy-mt2"
+  "pt": ": é necessário {0} do material listado abaixo.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "nitian_text2": {
   "ch": "修炼速度",
@@ -22371,8 +22376,9 @@
  "nitian_text23": {
   "ch": "需要以下（{0}）个天材地宝",
   "en": "Requires {0} of the Heaven and Earth Treasures from below",
-  "pt": "É necessário {0} dos Tesouros do Céu e da Terra listados abaixo.",
-  "auto": "local/hy-mt2"
+  "pt": ": é necessário {0} dos Tesouros do Céu e da Terra listados abaixo.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "nitian_text3": {
   "ch": "道点",
@@ -34875,14 +34881,16 @@
  "task_zhixianrenwu": {
   "ch": "支线任务",
   "en": "Side Mission",
-  "pt": "Missão Secundária",
-  "auto": "local/hy-mt2"
+  "pt": "Secundária",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "task_zhu": {
   "ch": "勾选“    ”",
   "en": "Select \"   \"",
-  "pt": "Selecione \"   \"",
-  "auto": "local/hy-mt2"
+  "pt": "Marque \"   \"",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "task_zhuxian": {
   "ch": "主",
@@ -34893,8 +34901,9 @@
  "task_zhuxianrenwu": {
   "ch": "主线任务",
   "en": "Main Mission",
-  "pt": "Missão Principal",
-  "auto": "local/hy-mt2"
+  "pt": "Principal",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "task_zongmen": {
   "ch": "宗",
@@ -34911,8 +34920,9 @@
  "task_zongmenrenwu": {
   "ch": "宗门任务",
   "en": "Sect Mission",
-  "pt": "Missão da Seita",
-  "auto": "local/hy-mt2"
+  "pt": "Seita",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "task_zuixinrenwu": {
   "ch": "最新任务",
@@ -39403,8 +39413,9 @@
  "upGrade_kuaisufangru": {
   "ch": "快速放入",
   "en": "Auto Add",
-  "pt": "Adicionar Automaticamente",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Preencher",
+  "auto": "gemini/gemini-2.5-flash",
+  "revisado": true
  },
  "upGrade_needWing": {
   "ch": "需要凝聚冥羽",
@@ -40824,8 +40835,9 @@
  "wuxue_canwu": {
   "ch": "参悟技能",
   "en": "Comprehend Skill",
-  "pt": "Compreenda a Habilidade",
-  "auto": "local/hy-mt2"
+  "pt": "Compreender",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "wuxue_canwubiaoti": {
   "ch": "参悟",
@@ -41184,8 +41196,9 @@
  "wuxue_zuidaxiulianshijian": {
   "ch": "最大修炼时间",
   "en": "Max Cultivation Time",
-  "pt": "Tempo máximo de Cultivo",
-  "auto": "local/hy-mt2"
+  "pt": "Tempo Máximo",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "xYHpIyXs": {
   "ch": "",
