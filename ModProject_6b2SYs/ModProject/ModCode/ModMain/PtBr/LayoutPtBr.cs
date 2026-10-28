@@ -20,14 +20,16 @@ namespace MOD_6b2SYs
         // Filtro do Pavilhão da Seita: ícone e nome vão para a esquerda, longe da caixa de marcar à direita.
         private const float FilterLeft = 20f;
         private const float FilterMaxWidth = 100f;
+        private const float FilterBoxRight = 25f;
         // Aprimorar Habilidade: "Cultivo", o ícone e os dias vão para a direita, longe do botão Máx.
-        private const float TrainDaysRight = 10f;
+        private const float TrainDaysRight = 15f;
         private const int MaxPlaced = 5000;
 
         private class Rule
         {
-            // Nome do objeto (null: qualquer um), começo do nome, nome do pai, de um ancestral e um nome a pular.
-            public string Window, Name, Prefix, Parent, Under, Except;
+            // Nome do objeto (null: qualquer um), começo do nome, nome do pai, começo do nome do pai, de um
+            // ancestral, um nome a pular e um começo de nome a pular.
+            public string Window, Name, Prefix, Parent, ParentPrefix, Under, Except, ExceptPrefix;
             public Func<RectTransform, Vector2> Offset;
             // > 0: liga o best fit do texto com essa fonte mínima.
             public int FitMin;
@@ -39,9 +41,8 @@ namespace MOD_6b2SYs
             public int Size;
             // > 0: diminui a fonte até a linha caber nessa largura.
             public float MaxWidth;
-            // > 0: texto que se ajusta à largura (ContentSizeFitter) e passa dela quebra em linhas com a fonte WrapSize.
-            public float WrapWidth;
-            public int WrapSize;
+            // > 0: alarga o pai (o botão) até o texto caber numa linha com essa folga.
+            public float GrowParent;
         }
 
         private class Placed
@@ -75,11 +76,14 @@ namespace MOD_6b2SYs
             // Promoção: Lista de Honra e o nome do cargo ("Discípulo Verdadeiro" cobria o ícone da posição atual).
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
             new Rule { Window = "SchoolPost", Name = "Text", Parent = "Toggle", Under = "G:goPostItem_En(Clone)",
-                WrapWidth = 100f, WrapSize = 16 },
+                GrowParent = 24f },
             // Pavilhão da Seita: filtro de manuais ("Relâmpago" passava para baixo da caixa de marcar).
             new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Except = "G:textFilterTitle",
                 Under = "Group:MartialFilter", NoWrap = true, MaxWidth = FilterMaxWidth,
                 Offset = rt => new Vector2(-FilterLeft, 0f) },
+            // A caixa de marcar (tudo do item menos o nome) vai para a direita.
+            new Rule { Window = "SchoolLibrary", ParentPrefix = "G:tglFilter", ExceptPrefix = "G:text",
+                Under = "Group:MartialFilter", Offset = rt => new Vector2(FilterBoxRight, 0f) },
             // Aprimorar Habilidade: dias de cultivo.
             new Rule { Window = "MartialTrain", Name = "G:textDayTitle", Parent = "G:goTrainManExp",
                 Offset = rt => new Vector2(TrainDaysRight, 0f) },
@@ -94,6 +98,7 @@ namespace MOD_6b2SYs
             new Rule { Window = "SchoolTaskLobby", Name = "G:textMess", FitMin = 11 },
             // Membros da Seita: Expulsar, Redistribuir, Marcar.
             new Rule { Window = "SchoolAdmin", Prefix = "G:text", Under = "ViewState", FitMin = 11 },
+            new Rule { Window = "SchoolAdmin", Name = "G:textAdmin", Under = "ViewState", GrowParent = 20f },
         };
 
         private static readonly Dictionary<IntPtr, Placed> placed = new Dictionary<IntPtr, Placed>();
@@ -160,6 +165,8 @@ namespace MOD_6b2SYs
         {
             return (rule.Name == null || rule.Name == name) && name != rule.Except
                 && (rule.Prefix == null || name.StartsWith(rule.Prefix, StringComparison.Ordinal))
+                && (rule.ExceptPrefix == null || !name.StartsWith(rule.ExceptPrefix, StringComparison.Ordinal))
+                && (rule.ParentPrefix == null || parent.StartsWith(rule.ParentPrefix, StringComparison.Ordinal))
                 && (rule.Parent == null || rule.Parent == parent)
                 && (rule.Under == null || ancestors.Contains(rule.Under));
         }
@@ -223,22 +230,13 @@ namespace MOD_6b2SYs
                     t.fontSize = Math.Max(1, (int)(t.fontSize * rule.MaxWidth / width));
                 }
             }
-            if (rule.WrapWidth > 0f && t.preferredWidth > rule.WrapWidth)
+            if (rule.GrowParent > 0f)
             {
-                var fitter = t.GetComponent<UnityEngine.UI.ContentSizeFitter>();
-                if (fitter != null && fitter.enabled)
+                var button = t.transform.parent == null ? null : t.transform.parent.TryCast<RectTransform>();
+                float missing = button == null ? 0f : t.preferredWidth + rule.GrowParent - button.rect.width;
+                if (missing > 0.5f)
                 {
-                    fitter.enabled = false;
-                }
-                t.horizontalOverflow = HorizontalWrapMode.Wrap;
-                if (t.fontSize != rule.WrapSize)
-                {
-                    t.fontSize = rule.WrapSize;
-                }
-                var rt = t.rectTransform;
-                if (rt.sizeDelta.x != rule.WrapWidth)
-                {
-                    rt.sizeDelta = new Vector2(rule.WrapWidth, rt.sizeDelta.y);
+                    button.sizeDelta += new Vector2(missing, 0f);
                 }
             }
         }

@@ -10,7 +10,7 @@ namespace MOD_6b2SYs
 {
     /// <summary>
     /// Diagnóstico de layout: com F9, grava em ptbr_layout.txt todos os textos visíveis com caminho, posição e
-    /// tamanho, para achar o objeto que precisa ser movido numa tela.
+    /// tamanho, e as imagens com o nome do sprite, para achar o objeto que precisa ser movido numa tela.
     /// </summary>
     public static class LayoutDumpPtBr
     {
@@ -51,6 +51,16 @@ namespace MOD_6b2SYs
                 {
                     Line(sb, "Text", t, t.text, t.fontSize, t.horizontalOverflow + "/" + t.verticalOverflow, t.preferredHeight);
                     n++;
+                }
+            }
+            // Imagens (ícones, caixas de marcar, placas com texto desenhado): o "texto" é o nome do sprite.
+            var images = UnityEngine.Object.FindObjectsOfType(Il2CppType.Of<UnityEngine.UI.Image>());
+            for (int i = 0; i < images.Length; i++)
+            {
+                var img = images[i].TryCast<UnityEngine.UI.Image>();
+                if (img != null && img.isActiveAndEnabled)
+                {
+                    Line(sb, "Img", img, img.sprite == null ? "-" : img.sprite.name, 0f, "", 0f);
                 }
             }
             string path = Path.Combine(g.mod.GetModPathRoot(ModSoleID), "ptbr_layout.txt");
