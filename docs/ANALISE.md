@@ -252,9 +252,12 @@ Resultado do teste (2026-10-22):
   - na criação de personagem, o valor do Reino desce até a primeira linha ficar na altura de "Reino:";
   - na ficha do NPC, Traços Internos e Externos (`Item2`) descem 28 unidades;
   - no Pavilhão dos Manuais, nome, preços e botão de cada manual descem 6 unidades (tudo do `Root` do item menos o `Icon`);
-  - *best fit*: reino e nome das técnicas (Aprimorar Habilidade e aba Habil.), prescrições da Herbologia, materiais dos Talismãs, regras/propósito/características da seita e "Lista de Honra".
-  - no filtro do Pavilhão da Seita, ícone e nome de cada elemento vão 8 unidades para a direita e o nome não quebra linha ("Relâmpago" mandava o "o" para baixo da caixa de marcar);
-  - Minhas Missões: o texto virou `Marque "   "`, do tamanho de `Select "   "`, em vez de deslocar `Selecione`.
+  - *best fit*: reino e nome das técnicas (Aprimorar Habilidade e aba Habil.), prescrições da Herbologia, materiais dos Talismãs, regras/propósito/características da seita (características até fonte 9), "Lista de Honra", o botão Informações do Salão de Missões e os botões de Membros da Seita.
+  - no filtro do Pavilhão da Seita (caixa de marcar à direita), ícone e nome vão 20 unidades para a esquerda, o nome não quebra linha e a fonte diminui se ele passar de 100 de largura;
+  - em Aprimorar Habilidade, "Cultivo", o ícone e os dias vão 10 unidades para a direita, longe do botão Máx;
+  - na promoção, o cargo que passa de 100 de largura (Discípulo Verdadeiro) desliga o ContentSizeFitter e quebra em duas linhas na fonte 16;
+  - na Estalagem, o custo não corta na altura (a duração fica na segunda linha); a aba Relatórios do Salão de Missões tem fonte 12;
+  - Minhas Missões: o texto virou `Marque` seguido de espaços (sem aspas), onde a caixa falsa se encaixa, em vez de deslocar `Selecione`.
 - **Textos montados por pedaços** (`ScreenTextPtBr.Parts`): a alquimia tira "Receita" (`refineElixir_text2`) de "Receita de Elixir X" e sobrava "de Elixir X"; o Salão de Missões junta "24" + " Ano" + "3" + " Mês"; os materiais de talismã perdem o "Talismã do" para caber. Na tela de avanço, o jogo cola o nome do reino antes de `nitian_text18/19/23`, por isso esses PT começam com ": ".
 - **Placa de andar** (`school_dijiceng` = "Piso {0}"): numa caixa de até 50 de largura, vira "P/i/s/o" em coluna e o número vai para uma cópia do texto (`PtBrPisoNum`) ao lado, centrado na altura.
 - **Bandeira da seita** (`G:textSchoolName_En` dentro de `LanguageGroup`, no Salão do Conselho e na Lista de Honra): o nome vira uma palavra por linha, centradas, sem quebra automática, com a fonte do prefab reduzida até a palavra mais larga caber; com mais de 4 palavras a fonte diminui também para a altura ficar a de 4 linhas.

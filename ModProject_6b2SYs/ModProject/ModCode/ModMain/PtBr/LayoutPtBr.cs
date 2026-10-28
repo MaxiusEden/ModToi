@@ -17,8 +17,11 @@ namespace MOD_6b2SYs
         private const float TraitsDown = 28f;
         // Pavilhão dos Manuais: nome, preços e botão descem para sair da moldura do ícone.
         private const float ManualDown = 6f;
-        // Filtro do Pavilhão da Seita: ícone e nome vão para a direita, longe da caixa de marcar.
-        private const float FilterRight = 8f;
+        // Filtro do Pavilhão da Seita: ícone e nome vão para a esquerda, longe da caixa de marcar à direita.
+        private const float FilterLeft = 20f;
+        private const float FilterMaxWidth = 100f;
+        // Aprimorar Habilidade: "Cultivo", o ícone e os dias vão para a direita, longe do botão Máx.
+        private const float TrainDaysRight = 10f;
         private const int MaxPlaced = 5000;
 
         private class Rule
@@ -30,6 +33,15 @@ namespace MOD_6b2SYs
             public int FitMin;
             // Não quebra a linha: a palavra que passa um pouco da caixa não perde a última letra para a linha de baixo.
             public bool NoWrap;
+            // Não corta na altura: a segunda linha que passa da caixa continua visível.
+            public bool NoClip;
+            // > 0: fonte fixa.
+            public int Size;
+            // > 0: diminui a fonte até a linha caber nessa largura.
+            public float MaxWidth;
+            // > 0: texto que se ajusta à largura (ContentSizeFitter) e passa dela quebra em linhas com a fonte WrapSize.
+            public float WrapWidth;
+            public int WrapSize;
         }
 
         private class Placed
@@ -59,12 +71,29 @@ namespace MOD_6b2SYs
             // Seita: regras, propósito e características.
             new Rule { Window = "School", Name = "G:textRule_En", FitMin = 11 },
             new Rule { Window = "School", Name = "G:textTenet_En", FitMin = 11 },
-            new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", FitMin = 11 },
-            // Promoção: Lista de Honra.
+            new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", FitMin = 9 },
+            // Promoção: Lista de Honra e o nome do cargo ("Discípulo Verdadeiro" cobria o ícone da posição atual).
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
-            // Pavilhão da Seita: filtro de manuais ("Relâmpago" quebrava o "o" para baixo da caixa de marcar).
-            new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Under = "Group:MartialFilter", NoWrap = true,
-                Offset = rt => new Vector2(FilterRight, 0f) },
+            new Rule { Window = "SchoolPost", Name = "Text", Parent = "Toggle", Under = "G:goPostItem_En(Clone)",
+                WrapWidth = 100f, WrapSize = 16 },
+            // Pavilhão da Seita: filtro de manuais ("Relâmpago" passava para baixo da caixa de marcar).
+            new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Except = "G:textFilterTitle",
+                Under = "Group:MartialFilter", NoWrap = true, MaxWidth = FilterMaxWidth,
+                Offset = rt => new Vector2(-FilterLeft, 0f) },
+            // Aprimorar Habilidade: dias de cultivo.
+            new Rule { Window = "MartialTrain", Name = "G:textDayTitle", Parent = "G:goTrainManExp",
+                Offset = rt => new Vector2(TrainDaysRight, 0f) },
+            new Rule { Window = "MartialTrain", Name = "Text", Parent = "G:goTrainManExp",
+                Offset = rt => new Vector2(TrainDaysRight, 0f) },
+            new Rule { Window = "MartialTrain", Name = "G:textTrainCostDay", Parent = "G:goTrainManExp",
+                Offset = rt => new Vector2(TrainDaysRight, 0f) },
+            // Estalagem: custo e, na linha de baixo, a duração.
+            new Rule { Window = "TownHotel", Name = "G:textCost", NoClip = true },
+            // Salão de Missões: aba Relatórios e botão de pedir informações.
+            new Rule { Window = "SchoolTaskLobby", Name = "G:textTglReportTask_En", Size = 12 },
+            new Rule { Window = "SchoolTaskLobby", Name = "G:textMess", FitMin = 11 },
+            // Membros da Seita: Expulsar, Redistribuir, Marcar.
+            new Rule { Window = "SchoolAdmin", Prefix = "G:text", Under = "ViewState", FitMin = 11 },
         };
 
         private static readonly Dictionary<IntPtr, Placed> placed = new Dictionary<IntPtr, Placed>();
@@ -137,19 +166,10 @@ namespace MOD_6b2SYs
 
         private static void Apply(Rule rule, Transform tr)
         {
-            if (rule.FitMin > 0 || rule.NoWrap)
+            var t = tr.GetComponent<UnityEngine.UI.Text>();
+            if (t != null)
             {
-                var t = tr.GetComponent<UnityEngine.UI.Text>();
-                if (t != null && rule.FitMin > 0 && !t.resizeTextForBestFit)
-                {
-                    t.resizeTextMaxSize = t.fontSize;
-                    t.resizeTextMinSize = Math.Min(rule.FitMin, t.fontSize);
-                    t.resizeTextForBestFit = true;
-                }
-                if (t != null && rule.NoWrap && t.horizontalOverflow != HorizontalWrapMode.Overflow)
-                {
-                    t.horizontalOverflow = HorizontalWrapMode.Overflow;
-                }
+                ApplyText(rule, t);
             }
             if (rule.Offset == null)
             {
@@ -173,6 +193,54 @@ namespace MOD_6b2SYs
                 rt.anchoredPosition = target;
             }
             p.Applied = target;
+        }
+
+        private static void ApplyText(Rule rule, UnityEngine.UI.Text t)
+        {
+            if (rule.FitMin > 0 && !t.resizeTextForBestFit)
+            {
+                t.resizeTextMaxSize = t.fontSize;
+                t.resizeTextMinSize = Math.Min(rule.FitMin, t.fontSize);
+                t.resizeTextForBestFit = true;
+            }
+            if (rule.NoWrap && t.horizontalOverflow != HorizontalWrapMode.Overflow)
+            {
+                t.horizontalOverflow = HorizontalWrapMode.Overflow;
+            }
+            if (rule.NoClip && t.verticalOverflow != VerticalWrapMode.Overflow)
+            {
+                t.verticalOverflow = VerticalWrapMode.Overflow;
+            }
+            if (rule.Size > 0 && t.fontSize != rule.Size)
+            {
+                t.fontSize = rule.Size;
+            }
+            if (rule.MaxWidth > 0f)
+            {
+                float width = t.preferredWidth;
+                if (width > rule.MaxWidth)
+                {
+                    t.fontSize = Math.Max(1, (int)(t.fontSize * rule.MaxWidth / width));
+                }
+            }
+            if (rule.WrapWidth > 0f && t.preferredWidth > rule.WrapWidth)
+            {
+                var fitter = t.GetComponent<UnityEngine.UI.ContentSizeFitter>();
+                if (fitter != null && fitter.enabled)
+                {
+                    fitter.enabled = false;
+                }
+                t.horizontalOverflow = HorizontalWrapMode.Wrap;
+                if (t.fontSize != rule.WrapSize)
+                {
+                    t.fontSize = rule.WrapSize;
+                }
+                var rt = t.rectTransform;
+                if (rt.sizeDelta.x != rule.WrapWidth)
+                {
+                    rt.sizeDelta = new Vector2(rule.WrapWidth, rt.sizeDelta.y);
+                }
+            }
         }
 
         /// <summary>Texto de várias linhas centrado no rótulo: desce até a primeira linha ficar na altura dele.</summary>

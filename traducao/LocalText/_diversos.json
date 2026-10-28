@@ -16414,8 +16414,9 @@
  "honor_text33": {
   "ch": "亲密度：",
   "en": "亲密度：",
-  "pt": "Afinidade:",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Relação:",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "honor_text34": {
   "ch": "技能：",
@@ -26243,8 +26244,9 @@
  "schoolAdmin_doState": {
   "ch": "调配弟子",
   "en": "Redeploy Disciples",
-  "pt": "Redistribuir Discípulos",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Redistribuir",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolAdmin_doTip": {
   "ch": "可通过左键点击及拖动调配弟子",
@@ -26261,8 +26263,9 @@
  "schoolAdmin_exitState": {
   "ch": "逐出弟子",
   "en": "Expel Disciples",
-  "pt": "Expulsar os Discípulos",
-  "auto": "local/hy-mt2"
+  "pt": "Expulsar",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolAdmin_expel": {
   "ch": "是否要逐出该弟子\n被逐出的弟子在一定时间内<r>不会</r>再加入本宗门",
@@ -26273,8 +26276,9 @@
  "schoolAdmin_mark": {
   "ch": "标记弟子",
   "en": "Mark Disciple",
-  "pt": "Marcar Discípulo",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Marcar",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolAdmin_move": {
   "ch": "是否将{0}分配至{1}",
@@ -26840,8 +26844,9 @@
  "schoolLibrary_jichuxinfa": {
   "ch": "基础心法",
   "en": "Basic Mind Skill",
-  "pt": "Técnica Mental Básica",
-  "auto": "local/hy-mt2"
+  "pt": "Técnica Mental",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolLibrary_meiyoumiji": {
   "ch": "没有符合筛选条件的秘籍",
@@ -29564,8 +29569,9 @@
  "schoolTaskLobby_getMess": {
   "ch": "打听情报",
   "en": "Ask for info",
-  "pt": "Solicitar informações",
-  "auto": "local/hy-mt2"
+  "pt": "Informações",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolTaskLobby_mingyu": {
   "ch": "宗门名誉",
@@ -34888,7 +34894,7 @@
  "task_zhu": {
   "ch": "勾选“    ”",
   "en": "Select \"   \"",
-  "pt": "Marque \"   \"",
+  "pt": "Marque     ",
   "auto": "local/hy-mt2",
   "revisado": true
  },
@@ -41196,7 +41202,7 @@
  "wuxue_zuidaxiulianshijian": {
   "ch": "最大修炼时间",
   "en": "Max Cultivation Time",
-  "pt": "Tempo Máximo",
+  "pt": "Máx",
   "auto": "local/hy-mt2",
   "revisado": true
  },
