@@ -253,9 +253,11 @@ Resultado do teste (2026-10-22):
   - na ficha do NPC, Traços Internos e Externos (`Item2`) descem 28 unidades;
   - no Pavilhão dos Manuais, nome, preços e botão de cada manual descem 6 unidades (tudo do `Root` do item menos o `Icon`);
   - *best fit*: reino e nome das técnicas (Aprimorar Habilidade e aba Habil.), prescrições da Herbologia, materiais dos Talismãs, regras/propósito/características da seita (características até fonte 9), "Lista de Honra", o botão Informações do Salão de Missões e os botões de Membros da Seita.
-  - no filtro do Pavilhão da Seita (caixa de marcar à direita), ícone e nome vão 20 unidades para a esquerda, o nome não quebra linha e a fonte diminui se ele passar de 100 de largura; o resto do item (a caixa) vai 25 para a direita;
+  - no filtro do Pavilhão da Seita (caixa de marcar à direita), ícone e nome vão 20 unidades para a esquerda, o nome não quebra linha e a fonte diminui se ele passar de 100 de largura; a caixa de marcar (`Background`, filha do nome) vai 32 para a direita;
+  - nos Pavilhões dos Manuais da Seita e da vila, a placa do reino (`G:imgGrade`, imagem) desce 49, da altura da placa do tipo para a do "Requer ...";
+  - no Território da Seita, os ícones da afinidade (filhos de `G:textSchoolHaogan`) vão para depois de "Afinidade:";
   - em Aprimorar Habilidade, "Cultivo", o ícone e os dias vão 15 unidades para a direita, longe do botão Máx;
-  - na promoção, o botão do cargo (`Toggle`) e, em Membros da Seita, o botão Redistribuir Discípulos alargam até o texto caber numa linha;
+  - na promoção, o botão do cargo (`Toggle`) e, em Membros da Seita, o botão Redistribuir Discípulos quebram o texto em duas linhas e crescem na altura (o do cargo volta à largura 150, que o jogo alargava até cobrir o ícone da posição);
   - na Estalagem, o custo não corta na altura (a duração fica na segunda linha); a aba Relatórios do Salão de Missões tem fonte 12;
   - Minhas Missões: o texto virou `Marque` seguido de espaços (sem aspas), onde a caixa falsa se encaixa, em vez de deslocar `Selecione`.
 - **Textos montados por pedaços** (`ScreenTextPtBr.Parts`): a alquimia tira "Receita" (`refineElixir_text2`) de "Receita de Elixir X" e sobrava "de Elixir X"; o Salão de Missões junta "24" + " Ano" + "3" + " Mês"; os materiais de talismã perdem o "Talismã do" para caber. Na tela de avanço, o jogo cola o nome do reino antes de `nitian_text18/19/23`, por isso esses PT começam com ": ".

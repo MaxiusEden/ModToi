@@ -17,10 +17,17 @@ namespace MOD_6b2SYs
         private const float TraitsDown = 28f;
         // Pavilhão dos Manuais: nome, preços e botão descem para sair da moldura do ícone.
         private const float ManualDown = 6f;
-        // Filtro do Pavilhão da Seita: ícone e nome vão para a esquerda, longe da caixa de marcar à direita.
+        // Filtro do Pavilhão da Seita: ícone e nome vão para a esquerda; a caixa de marcar, presa ao fim do nome,
+        // vai para a borda direita do item.
         private const float FilterLeft = 20f;
         private const float FilterMaxWidth = 100f;
-        private const float FilterBoxRight = 25f;
+        private const float FilterBoxRight = 32f;
+        // Pavilhões dos Manuais: a placa do reino desce da altura da placa do tipo para a do "Requer ...".
+        private const float RealmDown = 49f;
+        // Território da Seita: espaço entre "Afinidade:" e os ícones.
+        private const float AffinityGap = 6f;
+        // Botão que cresce na altura: fonte mínima para a palavra mais longa caber na largura.
+        private const int TallMinSize = 11;
         // Aprimorar Habilidade: "Cultivo", o ícone e os dias vão para a direita, longe do botão Máx.
         private const float TrainDaysRight = 15f;
         private const int MaxPlaced = 5000;
@@ -28,8 +35,8 @@ namespace MOD_6b2SYs
         private class Rule
         {
             // Nome do objeto (null: qualquer um), começo do nome, nome do pai, começo do nome do pai, de um
-            // ancestral, um nome a pular e um começo de nome a pular.
-            public string Window, Name, Prefix, Parent, ParentPrefix, Under, Except, ExceptPrefix;
+            // ancestral e um nome a pular.
+            public string Window, Name, Prefix, Parent, ParentPrefix, Under, Except;
             public Func<RectTransform, Vector2> Offset;
             // > 0: liga o best fit do texto com essa fonte mínima.
             public int FitMin;
@@ -41,8 +48,12 @@ namespace MOD_6b2SYs
             public int Size;
             // > 0: diminui a fonte até a linha caber nessa largura.
             public float MaxWidth;
-            // > 0: alarga o pai (o botão) até o texto caber numa linha com essa folga.
-            public float GrowParent;
+            // > 0: quebra o texto em linhas e aumenta a altura do pai (o botão) até elas caberem com essa folga.
+            public float GrowTall;
+            // Com GrowTall: largura do texto quando não cabe numa linha e largura fixa do botão (que o jogo alarga).
+            public float WrapWidth, ButtonWidth;
+            // > 0: os ícones filhos do texto vão para depois da última letra, com esse espaço.
+            public float IconsAfter;
         }
 
         private class Placed
@@ -76,14 +87,18 @@ namespace MOD_6b2SYs
             // Promoção: Lista de Honra e o nome do cargo ("Discípulo Verdadeiro" cobria o ícone da posição atual).
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
             new Rule { Window = "SchoolPost", Name = "Text", Parent = "Toggle", Under = "G:goPostItem_En(Clone)",
-                GrowParent = 24f },
+                GrowTall = 12f, WrapWidth = 120f, ButtonWidth = 150f },
             // Pavilhão da Seita: filtro de manuais ("Relâmpago" passava para baixo da caixa de marcar).
             new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Except = "G:textFilterTitle",
                 Under = "Group:MartialFilter", NoWrap = true, MaxWidth = FilterMaxWidth,
                 Offset = rt => new Vector2(-FilterLeft, 0f) },
-            // A caixa de marcar (tudo do item menos o nome) vai para a direita.
-            new Rule { Window = "SchoolLibrary", ParentPrefix = "G:tglFilter", ExceptPrefix = "G:text",
+            new Rule { Window = "SchoolLibrary", Name = "Background", ParentPrefix = "G:textFilter",
                 Under = "Group:MartialFilter", Offset = rt => new Vector2(FilterBoxRight, 0f) },
+            // Pavilhões dos Manuais da Seita e da vila: placa do reino ("SoulFormation") que a placa do tipo cobria.
+            new Rule { Window = "SchoolLibrary", Name = "G:imgGrade", Offset = rt => new Vector2(0f, -RealmDown) },
+            new Rule { Window = "TownMarketBook", Name = "G:imgGrade", Offset = rt => new Vector2(0f, -RealmDown) },
+            // Território da Seita: ícones da afinidade em cima de "Afinidade:".
+            new Rule { Window = "SchoolMap", Name = "G:textSchoolHaogan", IconsAfter = AffinityGap },
             // Aprimorar Habilidade: dias de cultivo.
             new Rule { Window = "MartialTrain", Name = "G:textDayTitle", Parent = "G:goTrainManExp",
                 Offset = rt => new Vector2(TrainDaysRight, 0f) },
@@ -97,11 +112,13 @@ namespace MOD_6b2SYs
             new Rule { Window = "SchoolTaskLobby", Name = "G:textTglReportTask_En", Size = 12 },
             new Rule { Window = "SchoolTaskLobby", Name = "G:textMess", FitMin = 11 },
             // Membros da Seita: Expulsar, Redistribuir, Marcar.
-            new Rule { Window = "SchoolAdmin", Prefix = "G:text", Under = "ViewState", FitMin = 11 },
-            new Rule { Window = "SchoolAdmin", Name = "G:textAdmin", Under = "ViewState", GrowParent = 20f },
+            new Rule { Window = "SchoolAdmin", Prefix = "G:text", Except = "G:textAdmin", Under = "ViewState",
+                FitMin = 11 },
+            new Rule { Window = "SchoolAdmin", Name = "G:textAdmin", Under = "ViewState", GrowTall = 8f },
         };
 
         private static readonly Dictionary<IntPtr, Placed> placed = new Dictionary<IntPtr, Placed>();
+        private static readonly Dictionary<IntPtr, Vector2> buttonBase = new Dictionary<IntPtr, Vector2>();
         private static readonly List<string> ancestors = new List<string>();
         private static readonly HashSet<string> walked = new HashSet<string>();
         private static int frame;
@@ -133,6 +150,7 @@ namespace MOD_6b2SYs
                 if (placed.Count > MaxPlaced)
                 {
                     placed.Clear();
+                    buttonBase.Clear();
                 }
             }
             catch (Exception e)
@@ -165,7 +183,6 @@ namespace MOD_6b2SYs
         {
             return (rule.Name == null || rule.Name == name) && name != rule.Except
                 && (rule.Prefix == null || name.StartsWith(rule.Prefix, StringComparison.Ordinal))
-                && (rule.ExceptPrefix == null || !name.StartsWith(rule.ExceptPrefix, StringComparison.Ordinal))
                 && (rule.ParentPrefix == null || parent.StartsWith(rule.ParentPrefix, StringComparison.Ordinal))
                 && (rule.Parent == null || rule.Parent == parent)
                 && (rule.Under == null || ancestors.Contains(rule.Under));
@@ -230,15 +247,130 @@ namespace MOD_6b2SYs
                     t.fontSize = Math.Max(1, (int)(t.fontSize * rule.MaxWidth / width));
                 }
             }
-            if (rule.GrowParent > 0f)
+            if (rule.GrowTall > 0f)
             {
-                var button = t.transform.parent == null ? null : t.transform.parent.TryCast<RectTransform>();
-                float missing = button == null ? 0f : t.preferredWidth + rule.GrowParent - button.rect.width;
-                if (missing > 0.5f)
+                GrowTall(rule, t);
+            }
+            if (rule.IconsAfter > 0f)
+            {
+                IconsAfterText(t, rule.IconsAfter);
+            }
+        }
+
+        /// <summary>Botão com texto longo: o texto quebra em linhas e o botão cresce na altura, não na largura.</summary>
+        private static void GrowTall(Rule rule, UnityEngine.UI.Text t)
+        {
+            var button = t.transform.parent == null ? null : t.transform.parent.TryCast<RectTransform>();
+            var rt = t.rectTransform;
+            float width = rule.WrapWidth > 0f ? rule.WrapWidth : rt.rect.width;
+            if (button == null || t.preferredWidth <= width)
+            {
+                return;
+            }
+            Vector2 size;
+            if (!buttonBase.TryGetValue(button.Pointer, out size))
+            {
+                size = button.sizeDelta;
+                buttonBase[button.Pointer] = size;
+            }
+            if (rule.WrapWidth > 0f)
+            {
+                // O ContentSizeFitter deixaria o texto com a largura da linha inteira.
+                var fitter = t.GetComponent<UnityEngine.UI.ContentSizeFitter>();
+                if (fitter != null && fitter.enabled)
                 {
-                    button.sizeDelta += new Vector2(missing, 0f);
+                    fitter.enabled = false;
+                }
+                if (rt.sizeDelta.x != rule.WrapWidth)
+                {
+                    rt.sizeDelta = new Vector2(rule.WrapWidth, rt.sizeDelta.y);
                 }
             }
+            if (t.horizontalOverflow != HorizontalWrapMode.Wrap)
+            {
+                t.horizontalOverflow = HorizontalWrapMode.Wrap;
+            }
+            if (t.verticalOverflow != VerticalWrapMode.Overflow)
+            {
+                t.verticalOverflow = VerticalWrapMode.Overflow;
+            }
+            while (t.fontSize > TallMinSize && WidestWord(t) > width - 4f)
+            {
+                t.fontSize--;
+            }
+            var target = new Vector2(rule.ButtonWidth > 0f ? rule.ButtonWidth : size.x,
+                Math.Max(size.y, t.preferredHeight + rule.GrowTall));
+            Vector2 old = button.sizeDelta;
+            if ((target - old).sqrMagnitude < 0.25f)
+            {
+                return;
+            }
+            // Destaque e seleção têm o tamanho do botão.
+            for (int i = 0; i < button.childCount; i++)
+            {
+                var child = button.GetChild(i).TryCast<RectTransform>();
+                if (child != null && child.Pointer != rt.Pointer && child.sizeDelta == old)
+                {
+                    child.sizeDelta = target;
+                }
+            }
+            button.sizeDelta = target;
+        }
+
+        private static float WidestWord(UnityEngine.UI.Text t)
+        {
+            var settings = t.GetGenerationSettings(Vector2.zero);
+            var generator = t.cachedTextGeneratorForLayout;
+            float widest = 0f;
+            foreach (string word in t.text.Split(' ', '\n'))
+            {
+                widest = Math.Max(widest, generator.GetPreferredWidth(word, settings) / t.pixelsPerUnit);
+            }
+            return widest;
+        }
+
+        /// <summary>Ícones filhos do texto: vão para a direita até ficarem depois da última letra.</summary>
+        private static void IconsAfterText(UnityEngine.UI.Text t, float gap)
+        {
+            var rt = t.rectTransform;
+            Rect rect = rt.rect;
+            float width = t.preferredWidth;
+            int align = (int)t.alignment % 3;
+            float start = align == 0 ? rect.xMin : align == 1 ? rect.center.x - width / 2f : rect.xMax - width;
+            float left = float.MaxValue;
+            for (int i = 0; i < rt.childCount; i++)
+            {
+                left = Math.Min(left, LeftEdge(rt, rt.GetChild(i)));
+            }
+            float shift = start + width + gap - left;
+            if (left == float.MaxValue || shift < 0.5f)
+            {
+                return;
+            }
+            for (int i = 0; i < rt.childCount; i++)
+            {
+                rt.GetChild(i).localPosition += new Vector3(shift, 0f, 0f);
+            }
+        }
+
+        /// <summary>Borda esquerda do objeto ativo e dos filhos dele, nas coordenadas de root.</summary>
+        private static float LeftEdge(RectTransform root, Transform tr)
+        {
+            float left = float.MaxValue;
+            if (!tr.gameObject.activeSelf)
+            {
+                return left;
+            }
+            var rt = tr.TryCast<RectTransform>();
+            if (rt != null && rt.rect.width > 0f)
+            {
+                left = root.InverseTransformPoint(rt.TransformPoint(new Vector3(rt.rect.xMin, 0f, 0f))).x;
+            }
+            for (int i = 0; i < tr.childCount; i++)
+            {
+                left = Math.Min(left, LeftEdge(root, tr.GetChild(i)));
+            }
+            return left;
         }
 
         /// <summary>Texto de várias linhas centrado no rótulo: desce até a primeira linha ficar na altura dele.</summary>
