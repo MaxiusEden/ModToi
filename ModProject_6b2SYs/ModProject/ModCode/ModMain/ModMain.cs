@@ -64,6 +64,14 @@ namespace MOD_6b2SYs
                 }
                 try
                 {
+                    TechniquePrefixPtBr.TryApply();
+                }
+                catch (Exception e)
+                {
+                    MelonLoader.MelonLogger.Error("[PtBr] Tecnicas: " + e);
+                }
+                try
+                {
                     ScreenTextPtBr.Prepare();
                     screenTextOn = true;
                 }

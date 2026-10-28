@@ -38,6 +38,8 @@
     <Compile Include="PtBr\NameOrderPtBr.cs" />
     <Compile Include="PtBr\RoleLogLocalPtBr.cs" />
     <Compile Include="PtBr\ScreenTextPtBr.cs" />
+    <Compile Include="PtBr\TechniqueNamePtBr.cs" />
+    <Compile Include="PtBr\TechniquePrefixPtBr.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

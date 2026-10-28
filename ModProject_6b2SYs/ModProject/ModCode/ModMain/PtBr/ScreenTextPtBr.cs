@@ -114,6 +114,8 @@ namespace MOD_6b2SYs
             {
                 // Nomes de seita e cidade montados na ordem inglesa pelo jogo.
                 result = NameOrderPtBr.Rewrite(text);
+                // Nomes de técnica que não passaram pelo GetName.
+                result = TechniqueNamePtBr.Rewrite(result ?? text) ?? result;
                 if (result == null && !known.Contains(t) && Letter.IsMatch(t) && !knownTemplates.Contains(Template(t)))
                 {
                     LogUnknown(t, where());
