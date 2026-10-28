@@ -28,16 +28,22 @@ namespace MOD_6b2SYs
         // Pisos 4 e 5 do Acervo: a placa encostava numa estante do fundo.
         private static readonly HashSet<string> ShelfFloors = new HashSet<string> { "4", "5" };
         private const float ShelfRight = 5f;
-        // Acervo: "Característica da Seita: ..." passava da borda direita; o grupo dela vai para a borda esquerda da
-        // moldura (o jogo reposiciona o texto dentro do grupo, então move-se o grupo).
-        private const float DiscountLeft = 1400f;
+        // Acervo: "Característica da Seita: ..." passava da borda direita; o grupo dela vai para o lado esquerdo da
+        // barra de contribuição, no meio do espaço livre (o jogo reposiciona o texto dentro do grupo, então move-se o
+        // grupo).
+        private const float DiscountLeft = 1286f;
         // Salão do Conselho: botões Território/Táticas mais largos (140 → 170), um pouco para fora para não se
         // encostarem, e a largura máxima do texto dentro deles.
         private const float InterfactWidth = 170f;
+        private const float TerritoryWidth = 180f;
         private const float InterfactOut = 12f;
         private const float InterfactMaxWidth = 128f;
-        // Abas verticais: altura máxima das letras empilhadas (a aba tem 116 com as pontas).
+        // Abas verticais: a palavra mais longa (Minério, 7 letras) cabe em 90 de altura (a aba tem 116 com as pontas);
+        // as outras usam o mesmo espaço entre letras.
         private const float VerticalMaxHeight = 90f;
+        private const int VerticalMaxLetters = 7;
+        // Herbologia: nomes das prescrições, que ficam a 135 uma da outra (o texto tinha 150 e invadia o vizinho).
+        private const float HerbNameWidth = 128f;
         // Salão de Missões: "Benefício da Seita:" alinha com a descrição e as recompensas.
         private const float RewardTitleRight = 34f;
         // Picos dos Behemoths: os botões sobem e o rótulo PT fica embaixo de cada um.
@@ -122,7 +128,11 @@ namespace MOD_6b2SYs
             new Rule { Window = "PlayerInfo", Name = "TextGrade", Under = "Group:Skill", FitMin = 10 },
             new Rule { Window = "PlayerInfo", Name = "TextName", Under = "Group:Skill", FitMin = 10 },
             // Artesanato, Herbologia: nome da prescrição.
-            new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "G:goArtItemRoot3", FitMin = 11 },
+            new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "G:goArtItemRoot3", FitMin = 11,
+                Width = HerbNameWidth },
+            // Alquimia, receita escolhida: nome longo em duas linhas e dificuldade com o atributo numa linha só.
+            new Rule { Window = "RefinePillFormula", Name = "G:textPillName_En", FitMin = 14 },
+            new Rule { Window = "RefinePillFormula", Name = "G:textLevel", NoWrap = true },
             // Talismãs: material de cada nível.
             new Rule { Window = "RefineRuneFormula", Name = "Text", Parent = "G:goMaterialItem(Clone)", FitMin = 11 },
             // Seita: regras, propósito e características.
@@ -130,9 +140,10 @@ namespace MOD_6b2SYs
             new Rule { Window = "School", Name = "G:textTenet_En", Scroll = true },
             new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", Scroll = true },
             // Salão do Conselho: botões Território da Seita e Táticas da Seita numa linha.
-            new Rule { Window = "SchoolMainLobby", Name = "Button", Parent = "Build", Under = "G:goInterfactRoot",
-                Width = InterfactWidth,
-                Offset = rt => new Vector2(rt.parent.parent.name == "G:btnInterfact0" ? -InterfactOut : InterfactOut, 0f) },
+            new Rule { Window = "SchoolMainLobby", Name = "Button", Parent = "Build", Under = "G:btnInterfact0",
+                Width = InterfactWidth, Offset = rt => new Vector2(-InterfactOut, 0f) },
+            new Rule { Window = "SchoolMainLobby", Name = "Button", Parent = "Build", Under = "G:btnInterfact1",
+                Width = TerritoryWidth, Offset = rt => new Vector2(InterfactOut, 0f) },
             new Rule { Window = "SchoolMainLobby", Name = "Text", Parent = "Button", Under = "G:goInterfactRoot",
                 NoWrap = true, MaxWidth = InterfactMaxWidth },
             // Pavilhão do Tesouro: abas Todos, Minério, Erva (caixa de 35 de largura).
@@ -187,6 +198,7 @@ namespace MOD_6b2SYs
             // Salão de Missões: aba Relatórios e botão de pedir informações.
             new Rule { Window = "SchoolTaskLobby", Name = "G:textTglReportTask_En", Size = 12 },
             new Rule { Window = "SchoolTaskLobby", Name = "G:textMess", FitMin = 11 },
+            new Rule { Window = "SchoolTaskLobby", Name = "Text", Parent = "G:goRewardTextRoot", NoWrap = true },
             new Rule { Window = "SchoolTaskLobby", Name = "G:textRewardTextTitle",
                 Offset = rt => new Vector2(RewardTitleRight, 0f) },
             // Membros da Seita: Expulsar, Redistribuir, Marcar.
@@ -383,12 +395,9 @@ namespace MOD_6b2SYs
             t.verticalOverflow = VerticalWrapMode.Overflow;
             t.lineSpacing = 1f;
             t.text = string.Join("\n", letters);
-            // Palavra longa ("Minério"): as linhas se aproximam até caberem na aba.
-            float height = t.preferredHeight;
-            if (height > VerticalMaxHeight)
-            {
-                t.lineSpacing = VerticalMaxHeight / height;
-            }
+            // As linhas se aproximam como se a palavra tivesse VerticalMaxLetters letras em VerticalMaxHeight.
+            float line = t.preferredHeight / s.Length;
+            t.lineSpacing = VerticalMaxHeight / (VerticalMaxLetters * line);
         }
 
         /// <summary>
