@@ -10,8 +10,9 @@ namespace MOD_6b2SYs
     /// <summary>
     /// Reordena os nomes que o jogo monta peça por peça na ordem inglesa (código nativo, sem formato no LocalText):
     /// "Supremo Horizonte Seita Estado Hua Feng Filial" -> "Seita do Horizonte Supremo Filial Estado Hua Feng",
-    /// "HangXiu Cidade" -> "Cidade HangXiu". As peças vêm do LocalText traduzido (schoolNameFirst/Second 101+,
-    /// school_name_last, schoolLastName); gênero e número dos substantivos estão nas tabelas abaixo.
+    /// "HangXiu Cidade" -> "Cidade da Jornada do Cultivo". As peças vêm do LocalText traduzido (schoolNameFirst/Second
+    /// 101+, school_name_last, schoolLastName); gênero e número dos substantivos estão nas tabelas abaixo. Os nomes de
+    /// cidade vêm de ModAssets/ptbr/Cidades.json (pinyin -> "do Herói Sem Nome"; gerado por tools/ptbr/cidades.py).
     /// </summary>
     public static class NameOrderPtBr
     {
@@ -33,27 +34,46 @@ namespace MOD_6b2SYs
         private static readonly HashSet<string> Invariable = new HashSet<string> {
             "Rubi", "Cinza", "Violeta", "Carmesim", "Ciano", "Azul-celeste", "Maior", "Menor", "Superior", "Inferior" };
 
+        // Cidade e Vila são femininas: "para HengZhi Vila" -> "para a Vila de Ananke".
+        private static readonly Dictionary<string, string> Contraction = new Dictionary<string, string> {
+            { "para", "para a" }, { "Para", "Para a" }, { "em", "na" }, { "Em", "Na" }, { "de", "da" }, { "De", "Da" } };
+        private const string Before = @"(?:(?<pre>[Pp]ara|[Ee]m|[Dd]e) )?";
+
         private static Regex sect;
         private static Regex pinyin;
         private static Regex town;
+        private static Regex townPhrase;
+        private static Dictionary<string, string> towns = new Dictionary<string, string>();
 
-        public static void Prepare(string localTextJson)
+        public static void Prepare(string localTextJson, string townsJson)
         {
-            Prepare(File.Exists(localTextJson)
-                ? JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(localTextJson, Encoding.UTF8))
-                : new Dictionary<string, string>());
+            Prepare(ReadJson(localTextJson), ReadJson(townsJson));
         }
 
-        /// <summary>Monta as regras a partir do LocalText traduzido (chave -> pt).</summary>
-        public static void Prepare(Dictionary<string, string> pt)
+        private static Dictionary<string, string> ReadJson(string path)
         {
+            return File.Exists(path)
+                ? JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(path, Encoding.UTF8))
+                : new Dictionary<string, string>();
+        }
+
+        /// <summary>Monta as regras a partir do LocalText traduzido (chave -> pt) e dos nomes de cidade
+        /// (pinyin -> "do Herói Sem Nome"; nome com espaço -> nome inteiro).</summary>
+        public static void Prepare(Dictionary<string, string> pt, Dictionary<string, string> townNames)
+        {
+            towns = townNames;
+            var phrases = towns.Keys.Where(k => k.IndexOf(' ') >= 0).OrderByDescending(k => k.Length).Select(Regex.Escape);
+            string alt = string.Join("|", phrases);
+            // O jogo mostra "Cultivador Aliança" sem sufixo; se vier com um, ele some.
+            townPhrase = alt.Length == 0 ? null : new Regex(
+                @"(?<!\p{L})" + Before + "(?<name>" + alt + @")(?: (?:Cidade|Vila|Aldeia))?(?!\p{L})");
             string firsts = Alternation(pt, "schoolNameFirst");
             string seconds = Alternation(pt, "schoolNameSecond");
             sect = firsts.Length == 0 || seconds.Length == 0 ? null : new Regex(
                 @"(?<!\p{L})(?<adj>" + firsts + ") (?<noun>" + seconds + ") (?<last>" + Lasts + ")" + Branch + @"(?!\p{L})");
             // Nomes em pinyin juntam duas sílabas ("HangXiu"); só a ordem muda.
             pinyin = new Regex(@"(?<!\p{L})(?<name>\p{Lu}\p{Ll}+\p{Lu}\p{Ll}+) (?<last>" + Lasts + ")" + Branch + @"(?!\p{L})");
-            town = new Regex(@"(?<!\p{L})(?<name>\p{Lu}\p{Ll}+\p{Lu}\p{Ll}+) (?<last>Cidade|Vila|Aldeia)(?!\p{L})");
+            town = new Regex(@"(?<!\p{L})" + Before + @"(?<name>\p{Lu}\p{Ll}+\p{Lu}\p{Ll}+) (?<last>Cidade|Vila|Aldeia)(?!\p{L})");
         }
 
         /// <summary>Texto com os nomes reordenados, ou null se não havia nome para mudar.</summary>
@@ -65,8 +85,24 @@ namespace MOD_6b2SYs
             }
             string s = sect.Replace(text, SectName);
             s = pinyin.Replace(s, m => m.Groups["last"].Value + " " + m.Groups["name"].Value + BranchOf(m));
-            s = town.Replace(s, m => m.Groups["last"].Value + " " + m.Groups["name"].Value);
+            s = town.Replace(s, TownName);
+            if (townPhrase != null)
+            {
+                s = townPhrase.Replace(s, m => Pre(m) + towns[m.Groups["name"].Value]);
+            }
             return s == text ? null : s;
+        }
+
+        /// <summary>"HengZhi Vila" -> "Vila de Ananke"; pinyin fora da planilha só muda de ordem.</summary>
+        private static string TownName(Match m)
+        {
+            string name = m.Groups["name"].Value, pt;
+            return Pre(m) + m.Groups["last"].Value + " " + (towns.TryGetValue(name, out pt) ? pt : name);
+        }
+
+        private static string Pre(Match m)
+        {
+            return m.Groups["pre"].Success ? Contraction[m.Groups["pre"].Value] + " " : "";
         }
 
         /// <summary>As peças de sentido: a série "Final" inteira e, na outra, os números 101 em diante

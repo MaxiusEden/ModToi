@@ -42,7 +42,8 @@ namespace MOD_6b2SYs
                 ? JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(path, Encoding.UTF8))
                 : new Dictionary<string, string>();
             logPath = Path.Combine(root, "ptbr_tela_desconhecidas.txt");
-            NameOrderPtBr.Prepare(Path.Combine(root, "ModAssets", "ptbr", "LocalText.json"));
+            NameOrderPtBr.Prepare(Path.Combine(root, "ModAssets", "ptbr", "LocalText.json"),
+                Path.Combine(root, "ModAssets", "ptbr", "Cidades.json"));
 
             known = new HashSet<string>();
             knownTemplates = new HashSet<string>();
