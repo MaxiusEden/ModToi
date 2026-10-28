@@ -25,7 +25,7 @@ namespace MOD_6b2SYs
         // Pavilhões dos Manuais: a placa do reino desce da altura da placa do tipo para a do "Requer ...".
         private const float RealmDown = 49f;
         private const float RealmRight = 5f;
-        // Território da Seita: espaço entre "Afinidade:" e os ícones.
+        // Território da Seita: espaço entre o ":" de "Afinidade:" e os ícones.
         private const float IconGap = 0f;
         // Promoção: o jogo dá ao botão do cargo a largura do texto + 50; com 100, fica nos 150 dos outros. Só quebra
         // o que passa de 115 ("Líder da Seita" cabe numa linha).
@@ -33,6 +33,8 @@ namespace MOD_6b2SYs
         private const float PostWrapAbove = 115f;
         // Promoção: o custo do desafio sobe, longe do botão Promoção.
         private const float TipCostUp = 16f;
+        // Promoção: a coluna de requisitos e método vai para a esquerda (o ")" de Relâmpago tocava a borda).
+        private const float NeedLeft = 10f;
         // Botão que cresce na altura: fonte mínima para a palavra mais longa caber na largura.
         private const int TallMinSize = 11;
         // Aprimorar Habilidade: "Cultivo", o ícone e os dias vão para a direita, longe do botão Máx.
@@ -98,6 +100,7 @@ namespace MOD_6b2SYs
                 GrowTall = 26f, WrapWidth = PostTextWidth, WrapAbove = PostWrapAbove },
             // Promoção, à direita: "Qualquer Aptidão Marcial abaixo atinge 480" passava da borda, e o custo do
             // desafio, empurrado para baixo pela descrição longa, ficava embaixo do botão Promoção.
+            new Rule { Window = "SchoolPost", Name = "G:goNeedGroup", Offset = rt => new Vector2(-NeedLeft, 0f) },
             new Rule { Window = "SchoolPost", Name = "G:textCertificationTitle", MaxWidth = 300f },
             new Rule { Window = "SchoolPost", Name = "G:textTipDesc", Size = 14 },
             new Rule { Window = "SchoolPost", Name = "G:textTipGroup", Size = 14,
@@ -346,14 +349,19 @@ namespace MOD_6b2SYs
 
         private static float WidestWord(UnityEngine.UI.Text t)
         {
-            var settings = t.GetGenerationSettings(Vector2.zero);
-            var generator = t.cachedTextGeneratorForLayout;
             float widest = 0f;
             foreach (string word in t.text.Split(' ', '\n'))
             {
-                widest = Math.Max(widest, generator.GetPreferredWidth(word, settings) / t.pixelsPerUnit);
+                widest = Math.Max(widest, LineWidth(t, word));
             }
             return widest;
+        }
+
+        /// <summary>Largura de uma linha com a fonte do texto, sem quebrar.</summary>
+        private static float LineWidth(UnityEngine.UI.Text t, string line)
+        {
+            var settings = t.GetGenerationSettings(Vector2.zero);
+            return t.cachedTextGeneratorForLayout.GetPreferredWidth(line, settings) / t.pixelsPerUnit;
         }
 
         /// <summary>Ícones filhos do texto: vão para a direita até ficarem depois da última letra.</summary>
@@ -369,7 +377,8 @@ namespace MOD_6b2SYs
             {
                 left = Math.Min(left, LeftEdge(rt, rt.GetChild(i)));
             }
-            float shift = start + width + gap - left;
+            // O fim é o da última letra, sem o espaço que o jogo põe depois de "Afinidade:".
+            float shift = start + LineWidth(t, t.text.TrimEnd()) + gap - left;
             if (left == float.MaxValue || shift < 0.5f)
             {
                 return;
