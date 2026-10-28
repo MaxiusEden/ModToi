@@ -40,6 +40,10 @@ namespace MOD_6b2SYs
             new KeyValuePair<Regex, string>(new Regex(@"^(<color=#\w+>)Talismã d[aeo]s? "), "$1"),
             // Regras e características da seita (Salão do Conselho): o jogo numera com "1," (common_dian).
             new KeyValuePair<Regex, string>(new Regex(@"(?m)^(\d+),(?=\p{L})"), "$1. "),
+            // Salão de Missões: "Recompensa: " + nome do item (item_name10011) + valor, e "Contribuição da Seita: N"
+            // no quadro do discípulo; o rótulo é só "Contribuição".
+            new KeyValuePair<Regex, string>(new Regex(@"Contribuição da Seita(?=(?:</color>)?\s*(?:[:+x×]|\d|<color))"),
+                "Contribuição"),
         };
 
         // Propósito da seita: o jogo junta dois lemas (schoolSlogan*) por linha com "，" e "。" chineses.

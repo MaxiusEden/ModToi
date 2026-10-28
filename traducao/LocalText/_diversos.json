@@ -26739,8 +26739,12 @@
  "schoolGodBeast_talk": {
   "ch": "交流",
   "en": "Interact",
-  "pt": "Usar",
-  "auto": "local/hy-mt2+teste-jogo"
+  "pt": "Interagir",
+  "auto": "local/hy-mt2+teste-jogo",
+  "revisado": true,
+  "revisar": [
+   "largura: 9 > 4 caracteres"
+  ]
  },
  "schoolGodBeast_tip1": {
   "ch": "点击神兽互动",

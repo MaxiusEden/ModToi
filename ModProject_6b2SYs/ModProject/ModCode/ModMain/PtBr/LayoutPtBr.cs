@@ -28,10 +28,18 @@ namespace MOD_6b2SYs
         // Pisos 4 e 5 do Acervo: a placa encostava numa estante do fundo.
         private static readonly HashSet<string> ShelfFloors = new HashSet<string> { "4", "5" };
         private const float ShelfRight = 5f;
-        // Acervo: "Característica da Seita: ..." começa na borda esquerda do grupo (passava da borda direita).
-        private const float DiscountLeft = 54f;
-        // Salão do Conselho: largura dos textos dos botões Território/Táticas (botão de 140).
-        private const float InterfactMaxWidth = 118f;
+        // Acervo: "Característica da Seita: ..." passava da borda direita; o grupo dela vai para a borda esquerda da
+        // moldura (o jogo reposiciona o texto dentro do grupo, então move-se o grupo).
+        private const float DiscountLeft = 1400f;
+        // Salão do Conselho: botões Território/Táticas mais largos (140 → 170), um pouco para fora para não se
+        // encostarem, e a largura máxima do texto dentro deles.
+        private const float InterfactWidth = 170f;
+        private const float InterfactOut = 12f;
+        private const float InterfactMaxWidth = 128f;
+        // Abas verticais: altura máxima das letras empilhadas (a aba tem 116 com as pontas).
+        private const float VerticalMaxHeight = 90f;
+        // Salão de Missões: "Benefício da Seita:" alinha com a descrição e as recompensas.
+        private const float RewardTitleRight = 34f;
         // Picos dos Behemoths: os botões sobem e o rótulo PT fica embaixo de cada um.
         private const float BeastUp = 40f;
         private const string BeastLabel = "PtBrRotulo";
@@ -72,6 +80,8 @@ namespace MOD_6b2SYs
             public int Size;
             // > 0: diminui a fonte até a linha caber nessa largura.
             public float MaxWidth;
+            // > 0: largura fixa do objeto.
+            public float Width;
             // > 0: quebra o texto em linhas e aumenta a altura do pai (o botão) até elas caberem com essa folga.
             public float GrowTall;
             // Com GrowTall: largura do texto quando não cabe numa linha e, > 0, a largura de linha a partir da qual
@@ -120,6 +130,9 @@ namespace MOD_6b2SYs
             new Rule { Window = "School", Name = "G:textTenet_En", Scroll = true },
             new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", Scroll = true },
             // Salão do Conselho: botões Território da Seita e Táticas da Seita numa linha.
+            new Rule { Window = "SchoolMainLobby", Name = "Button", Parent = "Build", Under = "G:goInterfactRoot",
+                Width = InterfactWidth,
+                Offset = rt => new Vector2(rt.parent.parent.name == "G:btnInterfact0" ? -InterfactOut : InterfactOut, 0f) },
             new Rule { Window = "SchoolMainLobby", Name = "Text", Parent = "Button", Under = "G:goInterfactRoot",
                 NoWrap = true, MaxWidth = InterfactMaxWidth },
             // Pavilhão do Tesouro: abas Todos, Minério, Erva (caixa de 35 de largura).
@@ -127,7 +140,7 @@ namespace MOD_6b2SYs
             // Acervo de Manuais: só a contribuição que sobra (a total não serve para nada), e a característica da
             // seita começa na borda esquerda.
             new Rule { Window = "SchoolLibrary", Name = "G:textTotalMoney", Hide = true },
-            new Rule { Window = "SchoolLibrary", Name = "G:textSchoolDiscount", Under = "dingcheng",
+            new Rule { Window = "SchoolLibrary", Name = "G:goDiscount", Parent = "dingcheng",
                 Offset = rt => new Vector2(-DiscountLeft, 0f) },
             // Pavilhão do Espírito, transformar: "化灵" fixo no prefab.
             new Rule { Window = "SchoolGetSoul", Name = "Text", Parent = "G:btnOK", Text = "Transformar" },
@@ -174,6 +187,8 @@ namespace MOD_6b2SYs
             // Salão de Missões: aba Relatórios e botão de pedir informações.
             new Rule { Window = "SchoolTaskLobby", Name = "G:textTglReportTask_En", Size = 12 },
             new Rule { Window = "SchoolTaskLobby", Name = "G:textMess", FitMin = 11 },
+            new Rule { Window = "SchoolTaskLobby", Name = "G:textRewardTextTitle",
+                Offset = rt => new Vector2(RewardTitleRight, 0f) },
             // Membros da Seita: Expulsar, Redistribuir, Marcar.
             new Rule { Window = "SchoolAdmin", Prefix = "G:text", Except = "G:textAdmin", Under = "ViewState",
                 FitMin = 11 },
@@ -265,6 +280,14 @@ namespace MOD_6b2SYs
             if (t != null)
             {
                 ApplyText(rule, t);
+            }
+            if (rule.Width > 0f)
+            {
+                var box = tr.TryCast<RectTransform>();
+                if (box != null && box.sizeDelta.x != rule.Width)
+                {
+                    box.sizeDelta = new Vector2(rule.Width, box.sizeDelta.y);
+                }
             }
             if (rule.Offset == null)
             {
@@ -358,7 +381,14 @@ namespace MOD_6b2SYs
                 letters[i] = s[i].ToString();
             }
             t.verticalOverflow = VerticalWrapMode.Overflow;
+            t.lineSpacing = 1f;
             t.text = string.Join("\n", letters);
+            // Palavra longa ("Minério"): as linhas se aproximam até caberem na aba.
+            float height = t.preferredHeight;
+            if (height > VerticalMaxHeight)
+            {
+                t.lineSpacing = VerticalMaxHeight / height;
+            }
         }
 
         /// <summary>

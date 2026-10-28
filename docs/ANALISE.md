@@ -257,9 +257,10 @@ Resultado do teste (2026-10-22):
   - nos Pavilhões dos Manuais da Seita e da vila, a placa do reino (`G:imgGrade`, imagem) desce 49 e vai 5 para a direita, da altura da placa do tipo para a do "Requer ...";
   - no Território da Seita, os ícones da afinidade (filhos de `G:textSchoolHaogan`) vão para logo depois de "Afinidade: " (colados no ":", sem o espaço que o jogo põe no fim; só as imagens contam para a borda, porque o objeto de cada ícone é mais largo que ela);
   - regras, propósito e características da seita (tela inicial) ficam com a fonte normal numa caixa com rolagem (`PtBrRolagem`: `RectMask2D` + `ScrollRect`, arrastar ou roda do mouse) quando não cabem;
-  - no Salão do Conselho, os botões Território/Táticas da Seita ficam numa linha (fonte reduz até 118 de largura);
-  - no Pavilhão do Tesouro, as abas Todos/Minério/Erva têm uma letra por linha;
-  - no Acervo de Manuais, "Contribuição Total" some (fica só "Contribuição:", a que sobra), "Característica da Seita" vai 54 para a esquerda e a placa do reino dos pisos 4 e 5 vai mais 5 para a direita (estante do fundo);
+  - no Salão do Conselho, os botões Território/Táticas da Seita passam de 140 para 170 de largura, afastados 12 para fora, e o texto fica numa linha (fonte reduz até 128 de largura);
+  - no Pavilhão do Tesouro, as abas Todos/Minério/Erva têm uma letra por linha, e as linhas se aproximam (`lineSpacing`) até a coluna caber em 90 de altura;
+  - no Salão de Missões, "Benefício da Seita:" vai 34 para a direita, alinhado com a descrição e as recompensas, e "Contribuição da Seita" seguido de ":", "+" ou valor vira só "Contribuição" (reescrita de tela);
+  - no Acervo de Manuais, "Contribuição Total" some (fica só "Contribuição:", a que sobra), o grupo `G:goDiscount` de "Característica da Seita" vai 1400 para a esquerda, até a borda esquerda da moldura (mover o texto piscava: o jogo o reposiciona dentro do grupo), e a placa do reino dos pisos 4 e 5 vai mais 5 para a direita (estante do fundo);
   - no Pavilhão do Espírito, o "化灵" fixo do prefab vira "Transformar" (botão) e "Transformação" (título);
   - nos Picos dos Behemoths, os três botões sobem 40, mostram o hanzi original (化灵, 喂养, 交流) e o PT vai para um rótulo preto (`PtBrRotulo`) embaixo de cada um;
   - em Aprimorar Habilidade, "Cultivo", o ícone e os dias vão 15 unidades para a direita, longe do botão Máx;
