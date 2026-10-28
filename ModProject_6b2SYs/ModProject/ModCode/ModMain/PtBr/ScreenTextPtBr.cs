@@ -271,12 +271,26 @@ namespace MOD_6b2SYs
         }
 
         /// <summary>
-        /// Os nomes de cidade e seita no cenário: o rótulo pode ser escrito fora da tela, onde a varredura não chega.
+        /// Os nomes de cidade e seita no cenário. Trocar o texto do rótulo depois não muda o que aparece (o jogo já
+        /// montou o desenho), então o nome é trocado na entrada; o Postfix só registra o resultado.
         /// </summary>
         [HarmonyPatch(typeof(GridBaseUI), nameof(GridBaseUI.SetBuildName))]
         private static class GridBuildName
         {
             private static readonly HashSet<string> seen = new HashSet<string>();
+
+            private static void Prefix(ref string name)
+            {
+                try
+                {
+                    string rep = Process(name, () => "cenario");
+                    if (rep != null)
+                    {
+                        name = rep;
+                    }
+                }
+                catch (Exception e) { MelonLogger.Warning("[PtBr] Tela (cenario): " + e.Message); }
+            }
 
             private static void Postfix(GridBaseUI __instance, string name)
             {
