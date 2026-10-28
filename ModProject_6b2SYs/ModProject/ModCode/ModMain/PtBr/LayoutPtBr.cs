@@ -17,15 +17,19 @@ namespace MOD_6b2SYs
         private const float TraitsDown = 28f;
         // Pavilhão dos Manuais: nome, preços e botão descem para sair da moldura do ícone.
         private const float ManualDown = 6f;
+        // Filtro do Pavilhão da Seita: ícone e nome vão para a direita, longe da caixa de marcar.
+        private const float FilterRight = 8f;
         private const int MaxPlaced = 5000;
 
         private class Rule
         {
-            // Nome do objeto (null: qualquer um), nome do pai, de um ancestral e um nome a pular.
-            public string Window, Name, Parent, Under, Except;
+            // Nome do objeto (null: qualquer um), começo do nome, nome do pai, de um ancestral e um nome a pular.
+            public string Window, Name, Prefix, Parent, Under, Except;
             public Func<RectTransform, Vector2> Offset;
             // > 0: liga o best fit do texto com essa fonte mínima.
             public int FitMin;
+            // Não quebra a linha: a palavra que passa um pouco da caixa não perde a última letra para a linha de baixo.
+            public bool NoWrap;
         }
 
         private class Placed
@@ -58,6 +62,9 @@ namespace MOD_6b2SYs
             new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", FitMin = 11 },
             // Promoção: Lista de Honra.
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
+            // Pavilhão da Seita: filtro de manuais ("Relâmpago" quebrava o "o" para baixo da caixa de marcar).
+            new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Under = "Group:MartialFilter", NoWrap = true,
+                Offset = rt => new Vector2(FilterRight, 0f) },
         };
 
         private static readonly Dictionary<IntPtr, Placed> placed = new Dictionary<IntPtr, Placed>();
@@ -123,20 +130,25 @@ namespace MOD_6b2SYs
         private static bool Matches(Rule rule, string name, string parent)
         {
             return (rule.Name == null || rule.Name == name) && name != rule.Except
+                && (rule.Prefix == null || name.StartsWith(rule.Prefix, StringComparison.Ordinal))
                 && (rule.Parent == null || rule.Parent == parent)
                 && (rule.Under == null || ancestors.Contains(rule.Under));
         }
 
         private static void Apply(Rule rule, Transform tr)
         {
-            if (rule.FitMin > 0)
+            if (rule.FitMin > 0 || rule.NoWrap)
             {
                 var t = tr.GetComponent<UnityEngine.UI.Text>();
-                if (t != null && !t.resizeTextForBestFit)
+                if (t != null && rule.FitMin > 0 && !t.resizeTextForBestFit)
                 {
                     t.resizeTextMaxSize = t.fontSize;
                     t.resizeTextMinSize = Math.Min(rule.FitMin, t.fontSize);
                     t.resizeTextForBestFit = true;
+                }
+                if (t != null && rule.NoWrap && t.horizontalOverflow != HorizontalWrapMode.Overflow)
+                {
+                    t.horizontalOverflow = HorizontalWrapMode.Overflow;
                 }
             }
             if (rule.Offset == null)

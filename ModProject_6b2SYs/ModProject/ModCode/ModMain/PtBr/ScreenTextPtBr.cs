@@ -47,6 +47,14 @@ namespace MOD_6b2SYs
         private const float FloorLettersDx = -7f;
         private const float FloorNumberDx = 11f;
 
+        // Bandeira da seita (Salão do Conselho, Lista de Honra): uma palavra por linha, centradas, na maior fonte que
+        // cabe na largura. Mais de 4 palavras também diminuem a fonte, para a altura ficar a de 4 linhas.
+        private const string BannerName = "G:textSchoolName_En";
+        private const string BannerParent = "LanguageGroup";
+        private const int BannerMaxLines = 4;
+        private const int BannerMinSize = 10;
+        private static readonly Dictionary<int, int> bannerSize = new Dictionary<int, int>();
+
         private static string logPath;
         private static float nextScan;
         private static bool applying;
@@ -192,6 +200,45 @@ namespace MOD_6b2SYs
             return true;
         }
 
+        private static void ApplyBanner(UnityEngine.UI.Text t)
+        {
+            var parent = t.transform.parent;
+            if (t.name != BannerName || parent == null || parent.name != BannerParent)
+            {
+                return;
+            }
+            string[] words = (t.text ?? "").Split(new[] { ' ', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+            if (words.Length == 0)
+            {
+                return;
+            }
+            // A fonte do prefab: a cada nome novo o tamanho é recalculado a partir dela.
+            int id = t.GetInstanceID();
+            int size;
+            if (!bannerSize.TryGetValue(id, out size))
+            {
+                size = t.fontSize;
+                bannerSize[id] = size;
+            }
+            applying = true;
+            try
+            {
+                t.text = string.Join("\n", words);
+                t.horizontalOverflow = UnityEngine.HorizontalWrapMode.Overflow;
+                t.alignment = (UnityEngine.TextAnchor)((int)t.alignment / 3 * 3 + 1);
+                t.resizeTextForBestFit = false;
+                t.fontSize = size;
+                float scale = Math.Min(1f, (float)BannerMaxLines / words.Length);
+                float width = t.preferredWidth;
+                if (width > 0f)
+                {
+                    scale = Math.Min(scale, t.rectTransform.rect.width / width);
+                }
+                t.fontSize = Math.Max(BannerMinSize, (int)(size * scale));
+            }
+            finally { applying = false; }
+        }
+
         private static void LogUnknown(string t, string where)
         {
             if (logPath == null || logged.Count >= MaxLogged || !logged.Add(t))
@@ -248,6 +295,7 @@ namespace MOD_6b2SYs
                 applying = true;
                 try { t.text = rep; } finally { applying = false; }
             }
+            ApplyBanner(t);
         }
 
         /// <summary>
