@@ -325,8 +325,9 @@
  "school_disCount": {
   "ch": "特权：",
   "en": "Privilege:",
-  "pt": "Privilégio:",
-  "auto": "gemini-2.5-flash"
+  "pt": "Contribuição:",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_dizi": {
   "ch": "弟子",
@@ -446,8 +447,12 @@
  "school_hp": {
   "ch": "体力：",
   "en": "Vitality: ",
-  "pt": "Vitalidade: ",
-  "auto": "gemini-2.5-flash"
+  "pt": "Vida:  ",
+  "auto": "gemini-2.5-flash",
+  "revisado": true,
+  "revisar": [
+   "glossário: Vitality → Vitalidade"
+  ]
  },
  "school_huangmo": {
   "ch": "荒漠秘境",
@@ -1286,8 +1291,9 @@
  "school_shengyugongxian": {
   "ch": "剩余贡献：",
   "en": "Remaining Contribution:",
-  "pt": "Contribuição Restante:",
-  "auto": "gemini-2.5-flash"
+  "pt": "Contribuição:",
+  "auto": "gemini-2.5-flash",
+  "revisado": true
  },
  "school_shengyushijian": {
   "ch": "剩余时间",
@@ -1437,8 +1443,9 @@
  "school_tiaozhantiaojian4": {
   "ch": "（真传弟子满足以下所有条件，即可挑战长老小比）",
   "en": "After meeting all the requirements below, True Disciple Disciples can challenge Promotion Duel (Elder)",
-  "pt": "Após atender a todos os requisitos abaixo, os Verdadeiros Discípulos podem participar do Duelo de Promoção (Ancião).",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Após atender a todos os requisitos abaixo, os Discípulos Verdadeiros podem participar do Duelo de Promoção (Ancião).",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "school_tiaozhantiaojian5": {
   "ch": "（长老满足以下所有条件，即可挑战大长老小比）",
@@ -1689,8 +1696,9 @@
  "school_zhiwutishi": {
   "ch": "你现在成为长老了，能调整自己属下弟子的职务，是否需要挑选几个弟子成为你的真传弟子？（你随时可以在职务界面调整自己下属的职务）",
   "en": "Now that you are an Elder, you can reallocate the positions of your Disciples. Do you want to select a few Disciples to become your True Disciples? (Reallocate the positions of your subordinates on the Positions tab at any time)",
-  "pt": "Agora que você é um Ancião, pode reatribuir as posições dos seus Discípulos. Deseja selecionar alguns Discípulos para se tornarem seus Verdadeiros Discípulos? (Você pode reatribuir as posições de seus subordinados na aba \"Posições\" a qualquer momento.)",
-  "auto": "local/hy-mt2"
+  "pt": "Agora que você é um Ancião, pode reatribuir as posições dos seus Discípulos. Deseja selecionar alguns Discípulos para se tornarem seus Discípulos Verdadeiros? (Você pode reatribuir as posições de seus subordinados na aba \"Posições\" a qualquer momento.)",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "school_zhixu": {
   "ch": "宗门秩序：",

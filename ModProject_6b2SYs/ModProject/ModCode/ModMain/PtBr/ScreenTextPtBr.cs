@@ -38,7 +38,12 @@ namespace MOD_6b2SYs
             new KeyValuePair<Regex, string>(new Regex(@"^(\d+) Ano (\d+) Mês$"), "Ano $1 Mês $2"),
             // Talismãs, materiais de cada nível: sem "Talismã do", o nome e o material cabem na linha.
             new KeyValuePair<Regex, string>(new Regex(@"^(<color=#\w+>)Talismã d[aeo]s? "), "$1"),
+            // Regras e características da seita (Salão do Conselho): o jogo numera com "1," (common_dian).
+            new KeyValuePair<Regex, string>(new Regex(@"(?m)^(\d+),(?=\p{L})"), "$1. "),
         };
+
+        // Propósito da seita: o jogo junta dois lemas (schoolSlogan*) por linha com "，" e "。" chineses.
+        private static readonly Regex SloganLine = new Regex(@"(?m)^([^，。\n]+)，(\p{Lu})([^，。\n]*)。");
 
         // Placa de andar do Pavilhão dos Manuais (school_dijiceng): caixa de 30 px, uma letra por linha.
         private static readonly Regex FloorSign = new Regex(@"^Piso (\d+)$");
@@ -158,6 +163,11 @@ namespace MOD_6b2SYs
 
         private static string RewriteParts(string t)
         {
+            if (SloganLine.IsMatch(t))
+            {
+                return SloganLine.Replace(t, m => m.Groups[1].Value + ", " + m.Groups[2].Value.ToLowerInvariant()
+                    + m.Groups[3].Value + ".");
+            }
             foreach (var part in Parts)
             {
                 if (part.Key.IsMatch(t))

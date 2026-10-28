@@ -17499,8 +17499,9 @@
  "letterContent209": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办内门弟子晋升小比，选择{2}名优秀的内门弟子晋升为真传弟子！",
   "en": "To further develop {0}, we've decided to hold Promotion Duels (True Disciple) in <y>{1} months</y>. {2} members will be promoted to Disciple!",
-  "pt": "Para desenvolver ainda mais {0}, decidimos realizar Duelo de Promoção (Verdadeiro Discípulo) em <y>{1} meses</y>. {2} membros serão promovidos a Discípulos!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Para desenvolver ainda mais {0}, decidimos realizar Duelo de Promoção (Discípulo Verdadeiro) em <y>{1} meses</y>. {2} membros serão promovidos a Discípulos!",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "letterContent210": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办真传弟子晋升比试，选择{2}名优秀的真传弟子晋升为长老！",
@@ -17529,14 +17530,16 @@
  "letterContent223": {
   "ch": "为了{0}的长远发展之计，本宗门决定将于<y>{1}个月后</y>举办真传弟子晋升小比，选择优秀的外门及内门弟子晋升为真传弟子！",
   "en": "To further develop {0}, we've decided to hold Promotion Duel (True Disciple) in <y>{1} months</y>. Members will be promoted to True Disciple!",
-  "pt": "Para desenvolver ainda mais {0}, decidimos realizar Duelo de Promoção (Verdadeiro Discípulo) em <y>{1} meses</y>. Membros serão promovidos a Verdadeiros Discípulos!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Para desenvolver ainda mais {0}, decidimos realizar Duelo de Promoção (Discípulo Verdadeiro) em <y>{1} meses</y>. Membros serão promovidos a Discípulos Verdadeiros!",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "letterContent224": {
   "ch": "你报名晋升长老，{0}决定将于<y>{1}个月后</y>举办长老晋升比试，欢迎优秀的真传弟子晋升为长老！",
   "en": "{0} will hold Promotion Duel (Elder) in <y>{1} months</y>. The chosen True Disciple will be promoted to Elder!",
-  "pt": "{0} realizará Duelo de Promoção (Ancião) em <y>{1} meses</y>. O Verdadeiro Discípulo escolhido será promovido a Ancião!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "{0} realizará Duelo de Promoção (Ancião) em <y>{1} meses</y>. O Discípulo Verdadeiro escolhido será promovido a Ancião!",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "letterContent225": {
   "ch": "你报名晋升大长老，{0}决定将于<y>{1}个月后</y>举办大长老晋升比试，欢迎优秀的长老晋升为大长老！",
@@ -20785,8 +20788,12 @@
  "map_zongmengongxian": {
   "ch": "宗门贡献：",
   "en": "Sect Contribution:",
-  "pt": "Contribuição da Seita:",
-  "auto": "local/hy-mt2"
+  "pt": "Contribuição:",
+  "auto": "local/hy-mt2",
+  "revisado": true,
+  "revisar": [
+   "glossário: Sect → Seita"
+  ]
  },
  "mapkuangcaitishi1": {
   "ch": "矿材丰盛",
@@ -26257,8 +26264,9 @@
  "schoolAdmin_elderNotChange": {
   "ch": "长老不能调为当前堂口的真传弟子",
   "en": "Elders cannot be transferred to become True Disciples of the current division.",
-  "pt": "Os Anciãos não podem ser transferidos para se tornarem Verdadeiros Discípulos da divisão atual.",
-  "auto": "local/hy-mt2"
+  "pt": "Os Anciãos não podem ser transferidos para se tornarem Discípulos Verdadeiros da divisão atual.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolAdmin_exitState": {
   "ch": "逐出弟子",
@@ -26682,8 +26690,9 @@
  "schoolGodBeast_jie": {
   "ch": "饥饿",
   "en": "Starving",
-  "pt": "Morrendo de fome",
-  "auto": "local/hy-mt2"
+  "pt": "Faminto",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolGodBeast_lianghao": {
   "ch": "良好",
@@ -27013,8 +27022,9 @@
  "schoolMainHall_zhenchuandizhi": {
   "ch": "真传弟子：",
   "en": "True Disciple:",
-  "pt": "Verdadeiro Discípulo:",
-  "auto": "local/hy-mt2"
+  "pt": "Discípulo Verdadeiro:",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolMainHall_zhengdao": {
   "ch": "正道",
@@ -27103,8 +27113,9 @@
  "schoolMainLobby_schoolMain": {
   "ch": "宗门宗主",
   "en": "Sect and Sect Leader",
-  "pt": "Seita e Líder da Seita",
-  "auto": "local/hy-mt2"
+  "pt": "Líder da Seita",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolMainLobby_weiwangtip": {
   "ch": "宗门的名誉主要作用于藏经阁的秘籍产出，名誉越高，产出的秘籍越多、品质也越高。\n宗门名誉可通过完成名誉相关的宗门任务提升，也可通过一些宗门活动（如宗门大比）提升。",
@@ -28681,14 +28692,16 @@
  "schoolSlogan141": {
   "ch": "腾则登天",
   "en": "Soaring Sky Ascension",
-  "pt": "Ascensão ao Céu Elevado",
-  "auto": "local/hy-mt2"
+  "pt": "Ascensão ao céu elevado",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan142": {
   "ch": "盘则潜渊",
   "en": "Deep Power",
-  "pt": "Poder Profundo",
-  "auto": "local/hy-mt2"
+  "pt": "Poder profundo",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan143": {
   "ch": "动起风云",
@@ -28699,8 +28712,9 @@
  "schoolSlogan144": {
   "ch": "静定乾坤",
   "en": "Fixing Heaven and Earth",
-  "pt": "Consertando o Céu e a Terra",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Consertando o céu e a terra",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSlogan211": {
   "ch": "三山归隐",
@@ -28759,8 +28773,9 @@
  "schoolSlogan222": {
   "ch": "泽润万物",
   "en": "Nourishing the Land",
-  "pt": "Nutrindo a Terra",
-  "auto": "local/hy-mt2"
+  "pt": "Nutrindo a terra",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan223": {
   "ch": "讲经论道",
@@ -28783,8 +28798,9 @@
  "schoolSlogan226": {
   "ch": "和乐群伦",
   "en": "All Are One",
-  "pt": "Todos São Um",
-  "auto": "local/hy-mt2"
+  "pt": "Todos são um",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan227": {
   "ch": "外抱柔和",
@@ -28801,8 +28817,9 @@
  "schoolSlogan311": {
   "ch": "应运而起",
   "en": "As Fate Wills",
-  "pt": "Como o Destino Quiser",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Como o destino quiser",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSlogan312": {
   "ch": "镇静沉着",
@@ -28837,20 +28854,23 @@
  "schoolSlogan317": {
   "ch": "顺伏容人",
   "en": "Open Doors",
-  "pt": "Portas Abertas",
-  "auto": "local/hy-mt2"
+  "pt": "Portas abertas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan318": {
   "ch": "广修凡缘",
   "en": "Spread Cultivation of Ordinary Karma",
-  "pt": "Promova o Cultivo do Karma Comum",
-  "auto": "local/hy-mt2"
+  "pt": "Promova o cultivo do karma comum",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan321": {
   "ch": "心亨有尚",
   "en": "Honor and Integrity",
-  "pt": "Honra e Integridade",
-  "auto": "local/hy-mt2"
+  "pt": "Honra e integridade",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan322": {
   "ch": "长流不滞",
@@ -28861,14 +28881,16 @@
  "schoolSlogan323": {
   "ch": "行险用险",
   "en": "Into the Flame",
-  "pt": "Dentro da Chama",
-  "auto": "local/hy-mt2"
+  "pt": "Dentro da chama",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan324": {
   "ch": "心有洞天",
   "en": "Paradise Heart",
-  "pt": "Coração do Paraíso",
-  "auto": "local/hy-mt2"
+  "pt": "Coração do paraíso",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan325": {
   "ch": "苦行为常",
@@ -28885,20 +28907,23 @@
  "schoolSlogan327": {
   "ch": "谨小慎微",
   "en": "Cautious and Keen",
-  "pt": "Cauteloso e Perspicaz",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Cauteloso e perspicaz",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSlogan328": {
   "ch": "坚守本心",
   "en": "Pure of Heart",
-  "pt": "Puro de Coração",
-  "auto": "local/hy-mt2"
+  "pt": "Puro de coração",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan411": {
   "ch": "敬天法祖",
   "en": "Reverent of the Elders",
-  "pt": "Respeitoso para com os Anciãos",
-  "auto": "local/hy-mt2"
+  "pt": "Respeitoso para com os anciãos",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan412": {
   "ch": "穷神知化",
@@ -28915,8 +28940,9 @@
  "schoolSlogan414": {
   "ch": "进业修德",
   "en": "Virtuous and Enterprising",
-  "pt": "Virtuoso e Empreendedor",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Virtuoso e empreendedor",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSlogan415": {
   "ch": "恪守道心",
@@ -28933,8 +28959,9 @@
  "schoolSlogan417": {
   "ch": "刚健中正",
   "en": "Might and Righteousness",
-  "pt": "Força e Justiça",
-  "auto": "local/hy-mt2"
+  "pt": "Força e justiça",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan418": {
   "ch": "忠孝仁义",
@@ -28945,8 +28972,9 @@
  "schoolSlogan421": {
   "ch": "无惧无畏",
   "en": "Dauntless and Daring",
-  "pt": "Destemido e Audaz",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Destemido e audaz",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSlogan422": {
   "ch": "奋发振作",
@@ -28957,8 +28985,9 @@
  "schoolSlogan423": {
   "ch": "有始有终",
   "en": "Beginning and End",
-  "pt": "Começo e Fim",
-  "auto": "local/hy-mt2"
+  "pt": "Começo e fim",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan424": {
   "ch": "刚毅正直",
@@ -28975,8 +29004,9 @@
  "schoolSlogan426": {
   "ch": "居安思危",
   "en": "Vigilant in Peace",
-  "pt": "Vigilante na Paz",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Vigilante na paz",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSlogan427": {
   "ch": "爱憎分明",
@@ -28999,8 +29029,9 @@
  "schoolSlogan432": {
   "ch": "炼形存神",
   "en": "Mind and Body",
-  "pt": "Mente e Corpo",
-  "auto": "local/hy-mt2"
+  "pt": "Mente e corpo",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan433": {
   "ch": "以柔克刚",
@@ -29011,8 +29042,9 @@
  "schoolSlogan434": {
   "ch": "厚德载物",
   "en": "Virtue and Acceptance",
-  "pt": "Virtude e Aceitação",
-  "auto": "local/hy-mt2"
+  "pt": "Virtude e aceitação",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan435": {
   "ch": "修心养性",
@@ -29029,8 +29061,9 @@
  "schoolSlogan437": {
   "ch": "顺承天道",
   "en": "Heaven-Sent",
-  "pt": "Enviado pelo Céu",
-  "auto": "local/hy-mt2"
+  "pt": "Enviado pelo céu",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan438": {
   "ch": "无愧于心",
@@ -29053,8 +29086,9 @@
  "schoolSlogan443": {
   "ch": "激昂斗志",
   "en": "With Roaring Spirit",
-  "pt": "Com o Espírito rugindo",
-  "auto": "local/hy-mt2"
+  "pt": "Com o espírito rugindo",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan444": {
   "ch": "砥砺前行",
@@ -29071,14 +29105,16 @@
  "schoolSlogan446": {
   "ch": "顺逆随心",
   "en": "Follow the Heart",
-  "pt": "Siga o Coração",
-  "auto": "local/hy-mt2"
+  "pt": "Siga o coração",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan447": {
   "ch": "笃实进取",
   "en": "Steadfast and Progressive",
-  "pt": "Firme e Progressivo",
-  "auto": "local/hy-mt2"
+  "pt": "Firme e progressivo",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSlogan448": {
   "ch": "内空外明",
@@ -29185,8 +29221,9 @@
  "schoolSloganDesc225": {
   "ch": "禁止与敌对立场的人切磋",
   "en": "Forbidden: Sparring with a person from the hostile position",
-  "pt": "Proibido: Treinar com uma pessoa da posição hostil",
-  "auto": "local/hy-mt2"
+  "pt": "Proibido: Treinar com uma pessoa de seitas inimigas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSloganDesc226": {
   "ch": "禁止与其他宗门的人谈论仇人",
@@ -29293,14 +29330,16 @@
  "schoolSloganDesc327": {
   "ch": "禁止与其他敌对立场的人谈论宗门",
   "en": "Forbidden: Talking with hostile positions about the Sect",
-  "pt": "Proibido: Falar com posturas hostis sobre a Seita.",
-  "auto": "local/hy-mt2"
+  "pt": "Proibido: Falar sobre a Seita com pessoas de seitas inimigas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSloganDesc328": {
   "ch": "禁止向敌对立场的人索取物品",
   "en": "Forbidden: Requesting items from hostile positions",
-  "pt": "Proibido: Solicitar itens de posições hostis",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Proibido: Solicitar itens de seitas inimigas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSloganDesc411": {
   "ch": "弟子进行宗门任务的成功率会更高",
@@ -29329,8 +29368,9 @@
  "schoolSloganDesc415": {
   "ch": "禁止赠送物品给敌对立场的人",
   "en": "Forbidden: Gifting items to the hostile position",
-  "pt": "Proibido: Presentear itens à posição hostil.",
-  "auto": "local/hy-mt2"
+  "pt": "Proibido: Presentear itens a pessoas de seitas inimigas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSloganDesc416": {
   "ch": "禁止在敌方宗门领地内双修",
@@ -29383,14 +29423,16 @@
  "schoolSloganDesc426": {
   "ch": "禁止赠送物品给敌对立场的人",
   "en": "Forbidden: Gifting items to the hostile position",
-  "pt": "Proibido: Oferecer itens à posição hostil.",
-  "auto": "local/hy-mt2"
+  "pt": "Proibido: Oferecer itens a pessoas de seitas inimigas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSloganDesc427": {
   "ch": "禁止向敌对立场的人索要物品",
   "en": "Forbidden: Requesting items from hostile positions",
-  "pt": "Proibido: Solicitar itens de posições hostis",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Proibido: Solicitar itens de seitas inimigas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSloganDesc428": {
   "ch": "禁止与敌对立场的人缔结亲族关系",
@@ -29425,8 +29467,9 @@
  "schoolSloganDesc435": {
   "ch": "禁止与敌对立场的人双修",
   "en": "Forbidden: Dual Cultivation with a person from the hostile position",
-  "pt": "Proibido: Cultivo Duplo com uma pessoa do lado inimigo",
-  "auto": "local/hy-mt2"
+  "pt": "Proibido: Cultivo Duplo com uma pessoa de seitas inimigas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSloganDesc436": {
   "ch": "禁止攻击友方宗门弟子",
@@ -29437,8 +29480,9 @@
  "schoolSloganDesc437": {
   "ch": "禁止向敌对立场的人索要物品",
   "en": "Forbidden: Requesting items from hostile positions",
-  "pt": "Proibido: Solicitar itens de posições hostis",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Proibido: Solicitar itens de seitas inimigas",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolSloganDesc438": {
   "ch": "禁止偷窃相同立场的人",
@@ -29491,8 +29535,9 @@
  "schoolSloganDesc448": {
   "ch": "禁止与敌对立场的人邀约",
   "en": "Forbidden: Inviting a person from the hostile position",
-  "pt": "Proibido: Convidar uma pessoa da posição hostil",
-  "auto": "local/hy-mt2"
+  "pt": "Proibido: Convidar uma pessoa de seitas inimigas",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolSoul_getTip": {
   "ch": "你已获得宗门专属逆天改命，本次突破将无法获得该逆天改命",
@@ -29744,8 +29789,12 @@
  "schoolTask_gongxian": {
   "ch": "宗门贡献",
   "en": "Sect Contribution",
-  "pt": "Contribuição da Seita",
-  "auto": "local/hy-mt2"
+  "pt": "Contribuição:",
+  "auto": "local/hy-mt2",
+  "revisado": true,
+  "revisar": [
+   "glossário: Sect → Seita"
+  ]
  },
  "schoolTask_jiangli": {
   "ch": "任务奖励：",
@@ -30249,8 +30298,9 @@
  "schoolpost_challengeTip3": {
   "ch": "1.挑战行为可能大幅度<r>降低</r>对方及其真传弟子的亲密度。\n2.每次挑战需<r>消耗</r>{0}点宗门贡献。",
   "en": "1. This may significantly <r>decrease</r> Affinity of the NPC and their True Disciples.\n2. <r>Cost: {0} Sect Contribution</r>.",
-  "pt": "1. Isso pode reduzir significativamente a <r>Afinidade</r> do NPC e de seus Verdadeiros Discípulos.\n2. <r>Custo: {0} Contribuição da Seita</r>.",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "1. Isso pode reduzir significativamente a <r>Afinidade</r> do NPC e de seus Discípulos Verdadeiros.\n2. <r>Custo: {0} Contribuição da Seita</r>.",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolpost_challengeTip4": {
   "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献",
@@ -30390,14 +30440,16 @@
  "schoolpost_updatePostDesc31": {
   "ch": "挑战长老，并在本次挑战中<r>依次战胜</r>对方真传弟子及长老本人才可晋升{1}。",
   "en": "Challenge and defeat <r>the Elder and their True Disciples</r> to be promoted to {1}.",
-  "pt": "Desafie e derrote <r>o Ancião e seus Verdadeiros Discípulos</r> para ser promovido a {1}.",
-  "auto": "local/hy-mt2"
+  "pt": "Desafie e derrote <r>o Ancião e seus Discípulos Verdadeiros</r> para ser promovido a {1}.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolpost_updatePostDesc41": {
   "ch": "比试时选择一位长老报名。\n与报名者竞争并取得前两名。\n战胜长老的一位真传弟子。",
   "en": "Choose an Elder to sign up when competing.\nCompete with the person who signed up and obtain the top two.\n Defeat one of the Elder's True Disciples.",
-  "pt": "Escolha um Ancião para se inscrever ao competir.\nCompita com a pessoa que se inscreveu e consiga as duas melhores colocações.\nDerrote um dos Verdadeiros Discípulos do Ancião.",
-  "auto": "local/hy-mt2"
+  "pt": "Escolha um Ancião para se inscrever ao competir.\nCompita com a pessoa que se inscreveu e consiga as duas melhores colocações.\nDerrote um dos Discípulos Verdadeiros do Ancião.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolpost_updatePostDesc51": {
   "ch": "在外门小比中战胜其他竞争者获得<r>第一名</r>即可晋升{1}。",
@@ -30420,8 +30472,9 @@
  "scool_yaoqingtishi": {
   "ch": "{0}没有长老\n不可招纳真传弟子！",
   "en": "{0}Without an Elder,\nyou cannot recruit a True Disciple!",
-  "pt": "{0}Sem um Ancião,\nvocê não pode recrutar um Verdadeiro Discípulo!",
-  "auto": "local/hy-mt2"
+  "pt": "{0}Sem um Ancião,\nvocê não pode recrutar um Discípulo Verdadeiro!",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "selectItem_xuanzhe": {
   "ch": "选择道具",

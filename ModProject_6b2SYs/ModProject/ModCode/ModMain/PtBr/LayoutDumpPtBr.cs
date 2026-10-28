@@ -31,7 +31,7 @@ namespace MOD_6b2SYs
             count++;
             sb.Append("=== F9 #").Append(count).Append(' ').Append(DateTime.Now.ToString("HH:mm:ss"))
                 .Append(" tela ").Append(Screen.width).Append('x').Append(Screen.height).Append('\n');
-            sb.Append("tipo\tcaminho\ttexto\tanchoredPos\tsizeDelta\tpivot\tanchorMin\tanchorMax\tfonte\tquebra\taltura pref.\tlayout do pai\n");
+            sb.Append("tipo\tcaminho\ttexto\tanchoredPos\tsizeDelta\tpivot\tanchorMin\tanchorMax\tfonte\tquebra\taltura pref.\tlayout do pai\tna tela (x0..x1,y0..y1)\n");
             int n = 0;
             var tmps = UnityEngine.Object.FindObjectsOfType(Il2CppType.Of<TMPro.TMP_Text>());
             for (int i = 0; i < tmps.Length; i++)
@@ -101,7 +101,23 @@ namespace MOD_6b2SYs
                 sb.Append("\t\t\t\t");
             }
             sb.Append('\t').Append(fontSize.ToString("0.#")).Append('\t').Append(wrap).Append('\t')
-                .Append(preferredHeight.ToString("0.#")).Append('\t').Append(layout.Trim()).Append('\n');
+                .Append(preferredHeight.ToString("0.#")).Append('\t').Append(layout.Trim()).Append('\t')
+                .Append(OnScreen(c, rt)).Append('\n');
+        }
+
+        /// <summary>Retângulo nas coordenadas do Canvas raiz, para comparar objetos de ramos diferentes.</summary>
+        private static string OnScreen(Component c, RectTransform rt)
+        {
+            var canvas = c.GetComponentInParent<Canvas>();
+            if (rt == null || canvas == null)
+            {
+                return "";
+            }
+            var root = canvas.rootCanvas.transform;
+            Rect r = rt.rect;
+            Vector3 a = root.InverseTransformPoint(rt.TransformPoint(new Vector3(r.xMin, r.yMin, 0f)));
+            Vector3 b = root.InverseTransformPoint(rt.TransformPoint(new Vector3(r.xMax, r.yMax, 0f)));
+            return a.x.ToString("0") + ".." + b.x.ToString("0") + "," + a.y.ToString("0") + ".." + b.y.ToString("0");
         }
 
         private static string V(Vector2 v)

@@ -25,6 +25,21 @@ namespace MOD_6b2SYs
         // Pavilhões dos Manuais: a placa do reino desce da altura da placa do tipo para a do "Requer ...".
         private const float RealmDown = 49f;
         private const float RealmRight = 5f;
+        // Pisos 4 e 5 do Acervo: a placa encostava numa estante do fundo.
+        private static readonly HashSet<string> ShelfFloors = new HashSet<string> { "4", "5" };
+        private const float ShelfRight = 5f;
+        // Acervo: "Característica da Seita: ..." começa na borda esquerda do grupo (passava da borda direita).
+        private const float DiscountLeft = 54f;
+        // Salão do Conselho: largura dos textos dos botões Território/Táticas (botão de 140).
+        private const float InterfactMaxWidth = 118f;
+        // Picos dos Behemoths: os botões sobem e o rótulo PT fica embaixo de cada um.
+        private const float BeastUp = 40f;
+        private const string BeastLabel = "PtBrRotulo";
+        private const int BeastLabelSize = 20;
+        private const float BeastLabelWidth = 200f;
+        // Caixa com rolagem criada em volta do texto.
+        private const string ScrollName = "PtBrRolagem";
+        private const float ScrollSensitivity = 20f;
         // Território da Seita: espaço entre o ":" de "Afinidade:" e os ícones.
         private const float IconGap = 0f;
         // Promoção: o jogo dá ao botão do cargo a largura do texto + 50; com 100, fica nos 150 dos outros. Só quebra
@@ -64,6 +79,16 @@ namespace MOD_6b2SYs
             public float WrapWidth, WrapAbove;
             // Os ícones filhos do texto vão para depois da última letra, com IconGap de espaço.
             public bool IconsAfter;
+            // Uma letra por linha (abas estreitas).
+            public bool Vertical;
+            // Esconde o objeto.
+            public bool Hide;
+            // Texto que o jogo mostra fora da tradução (hanzi fixo no prefab).
+            public string Text;
+            // Texto que não cabe na caixa: fonte normal e caixa com rolagem (arrastar ou roda do mouse).
+            public bool Scroll;
+            // Botão redondo: o hanzi original fica dentro e o PT vai para um rótulo preto embaixo.
+            public string Hanzi;
         }
 
         private class Placed
@@ -91,9 +116,27 @@ namespace MOD_6b2SYs
             // Talismãs: material de cada nível.
             new Rule { Window = "RefineRuneFormula", Name = "Text", Parent = "G:goMaterialItem(Clone)", FitMin = 11 },
             // Seita: regras, propósito e características.
-            new Rule { Window = "School", Name = "G:textRule_En", FitMin = 11 },
-            new Rule { Window = "School", Name = "G:textTenet_En", FitMin = 11 },
-            new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", FitMin = 9 },
+            new Rule { Window = "School", Name = "G:textRule_En", Scroll = true },
+            new Rule { Window = "School", Name = "G:textTenet_En", Scroll = true },
+            new Rule { Window = "School", Name = "G:textIdiosyncrasy_En", Scroll = true },
+            // Salão do Conselho: botões Território da Seita e Táticas da Seita numa linha.
+            new Rule { Window = "SchoolMainLobby", Name = "Text", Parent = "Button", Under = "G:goInterfactRoot",
+                NoWrap = true, MaxWidth = InterfactMaxWidth },
+            // Pavilhão do Tesouro: abas Todos, Minério, Erva (caixa de 35 de largura).
+            new Rule { Window = "SchoolStore", Prefix = "Text", Under = "TagGroup", Vertical = true },
+            // Acervo de Manuais: só a contribuição que sobra (a total não serve para nada), e a característica da
+            // seita começa na borda esquerda.
+            new Rule { Window = "SchoolLibrary", Name = "G:textTotalMoney", Hide = true },
+            new Rule { Window = "SchoolLibrary", Name = "G:textSchoolDiscount", Under = "dingcheng",
+                Offset = rt => new Vector2(-DiscountLeft, 0f) },
+            // Pavilhão do Espírito, transformar: "化灵" fixo no prefab.
+            new Rule { Window = "SchoolGetSoul", Name = "Text", Parent = "G:btnOK", Text = "Transformar" },
+            new Rule { Window = "SchoolGetSoul", Name = "G:textTitle", Parent = "Image", Text = "Transformação" },
+            // Picos dos Behemoths: os três botões sobem; dentro, o hanzi; embaixo, o PT.
+            new Rule { Window = "SchoolGodBeast", Name = "G:goBtnGroup", Offset = rt => new Vector2(0f, BeastUp) },
+            new Rule { Window = "SchoolGodBeast", Name = "G:textGet", Hanzi = "化灵" },
+            new Rule { Window = "SchoolGodBeast", Name = "G:textFeed", Hanzi = "喂养" },
+            new Rule { Window = "SchoolGodBeast", Name = "G:textExchange", Hanzi = "交流" },
             // Promoção: Lista de Honra e o nome do cargo ("Discípulo Verdadeiro" cobria o ícone da posição atual).
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
             new Rule { Window = "SchoolPost", Name = "Text", Parent = "Toggle", Under = "G:goPostItem_En(Clone)",
@@ -113,7 +156,8 @@ namespace MOD_6b2SYs
                 Under = "Group:MartialFilter", Offset = rt => new Vector2(FilterBoxRight, 0f) },
             // Pavilhões dos Manuais da Seita e da vila: placa do reino ("SoulFormation") que a placa do tipo cobria.
             new Rule { Window = "SchoolLibrary", Name = "G:imgGrade",
-                Offset = rt => new Vector2(RealmRight, -RealmDown) },
+                Offset = rt => new Vector2(RealmRight + (ShelfFloors.Contains(rt.parent.name) ? ShelfRight : 0f),
+                    -RealmDown) },
             new Rule { Window = "TownMarketBook", Name = "G:imgGrade",
                 Offset = rt => new Vector2(RealmRight, -RealmDown) },
             // Território da Seita: ícones da afinidade em cima de "Afinidade:".
@@ -209,6 +253,14 @@ namespace MOD_6b2SYs
 
         private static void Apply(Rule rule, Transform tr)
         {
+            if (rule.Hide)
+            {
+                if (tr.gameObject.activeSelf)
+                {
+                    tr.gameObject.SetActive(false);
+                }
+                return;
+            }
             var t = tr.GetComponent<UnityEngine.UI.Text>();
             if (t != null)
             {
@@ -274,6 +326,145 @@ namespace MOD_6b2SYs
             {
                 IconsAfterText(t, IconGap);
             }
+            if (rule.Text != null && t.text != rule.Text)
+            {
+                t.text = rule.Text;
+            }
+            if (rule.Vertical)
+            {
+                Vertical(t);
+            }
+            if (rule.Scroll)
+            {
+                Scroll(t);
+            }
+            if (rule.Hanzi != null)
+            {
+                HanziInside(t, rule.Hanzi);
+            }
+        }
+
+        /// <summary>Uma letra por linha; "Todos" vira "T\no\nd\no\ns".</summary>
+        private static void Vertical(UnityEngine.UI.Text t)
+        {
+            string s = t.text;
+            if (s.Length < 2 || s.IndexOf('\n') >= 0)
+            {
+                return;
+            }
+            var letters = new string[s.Length];
+            for (int i = 0; i < s.Length; i++)
+            {
+                letters[i] = s[i].ToString();
+            }
+            t.verticalOverflow = VerticalWrapMode.Overflow;
+            t.text = string.Join("\n", letters);
+        }
+
+        /// <summary>
+        /// Põe o texto numa caixa com rolagem do tamanho que ele tinha: o texto fica com a fonte normal e a altura
+        /// inteira, e a parte que não cabe aparece ao arrastar ou com a roda do mouse.
+        /// </summary>
+        private static void Scroll(UnityEngine.UI.Text t)
+        {
+            var rt = t.rectTransform;
+            var parent = rt.parent;
+            if (parent == null)
+            {
+                return;
+            }
+            RectTransform view;
+            if (parent.name == ScrollName)
+            {
+                view = parent.TryCast<RectTransform>();
+            }
+            else
+            {
+                if (t.resizeTextForBestFit)
+                {
+                    t.resizeTextForBestFit = false;
+                }
+                var go = new GameObject(ScrollName);
+                view = go.AddComponent<RectTransform>();
+                view.SetParent(parent, false);
+                view.SetSiblingIndex(rt.GetSiblingIndex());
+                view.anchorMin = rt.anchorMin;
+                view.anchorMax = rt.anchorMax;
+                view.pivot = rt.pivot;
+                view.anchoredPosition = rt.anchoredPosition;
+                view.sizeDelta = rt.sizeDelta;
+                go.AddComponent<UnityEngine.UI.RectMask2D>();
+                // Imagem transparente: recebe o arrasto e a roda do mouse fora das letras.
+                go.AddComponent<UnityEngine.UI.Image>().color = new Color(0f, 0f, 0f, 0f);
+                var scroll = go.AddComponent<UnityEngine.UI.ScrollRect>();
+                scroll.horizontal = false;
+                scroll.vertical = true;
+                scroll.movementType = UnityEngine.UI.ScrollRect.MovementType.Clamped;
+                scroll.scrollSensitivity = ScrollSensitivity;
+                scroll.viewport = view;
+                rt.SetParent(view, false);
+                rt.anchorMin = new Vector2(0f, 1f);
+                rt.anchorMax = new Vector2(1f, 1f);
+                rt.pivot = new Vector2(0.5f, 1f);
+                rt.anchoredPosition = Vector2.zero;
+                rt.sizeDelta = new Vector2(0f, view.rect.height);
+                t.verticalOverflow = VerticalWrapMode.Overflow;
+                scroll.content = rt;
+            }
+            if (view == null)
+            {
+                return;
+            }
+            float height = Math.Max(view.rect.height, t.preferredHeight);
+            if (Math.Abs(rt.sizeDelta.y - height) > 0.5f)
+            {
+                rt.sizeDelta = new Vector2(0f, height);
+            }
+        }
+
+        /// <summary>
+        /// Botão redondo com texto grande demais: o hanzi original volta para dentro e o PT vai para um rótulo
+        /// preto, copiado do texto, logo abaixo do botão.
+        /// </summary>
+        private static void HanziInside(UnityEngine.UI.Text t, string hanzi)
+        {
+            var button = t.transform.parent == null ? null : t.transform.parent.TryCast<RectTransform>();
+            if (button == null || t.text == hanzi)
+            {
+                return;
+            }
+            var found = button.Find(BeastLabel);
+            UnityEngine.UI.Text label;
+            if (found == null)
+            {
+                var go = UnityEngine.Object.Instantiate(t.gameObject, button);
+                go.name = BeastLabel;
+                // Contorno e sombra do texto do botão não combinam com o preto.
+                foreach (var shadow in go.GetComponents<UnityEngine.UI.Shadow>())
+                {
+                    UnityEngine.Object.Destroy(shadow);
+                }
+                label = go.GetComponent<UnityEngine.UI.Text>();
+                var lrt = label.rectTransform;
+                lrt.anchorMin = new Vector2(0.5f, 0.5f);
+                lrt.anchorMax = new Vector2(0.5f, 0.5f);
+                lrt.pivot = new Vector2(0.5f, 1f);
+                lrt.sizeDelta = new Vector2(BeastLabelWidth, BeastLabelSize * 2f);
+                lrt.anchoredPosition = new Vector2(0f, -button.rect.height / 2f);
+                label.color = Color.black;
+                label.resizeTextForBestFit = false;
+                label.fontSize = BeastLabelSize;
+                label.alignment = TextAnchor.UpperCenter;
+                label.horizontalOverflow = HorizontalWrapMode.Wrap;
+                label.verticalOverflow = VerticalWrapMode.Overflow;
+                label.raycastTarget = false;
+            }
+            else
+            {
+                label = found.GetComponent<UnityEngine.UI.Text>();
+            }
+            label.text = t.text;
+            t.text = hanzi;
         }
 
         /// <summary>Botão com texto longo: o texto quebra em linhas e o botão cresce na altura, não na largura.</summary>
@@ -397,8 +588,9 @@ namespace MOD_6b2SYs
             {
                 return left;
             }
+            // Só o que aparece: o objeto de cada ícone é mais largo que a imagem dele.
             var rt = tr.TryCast<RectTransform>();
-            if (rt != null && rt.rect.width > 0f)
+            if (rt != null && rt.rect.width > 0f && tr.GetComponent<UnityEngine.UI.Graphic>() != null)
             {
                 left = root.InverseTransformPoint(rt.TransformPoint(new Vector3(rt.rect.xMin, 0f, 0f))).x;
             }
