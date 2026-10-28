@@ -26,9 +26,13 @@ namespace MOD_6b2SYs
         private const float RealmDown = 49f;
         private const float RealmRight = 5f;
         // Território da Seita: espaço entre "Afinidade:" e os ícones.
-        private const float AffinityGap = 3f;
-        // Promoção: o jogo dá ao botão do cargo a largura do texto + 50; com 100, fica nos 150 dos outros.
+        private const float IconGap = 0f;
+        // Promoção: o jogo dá ao botão do cargo a largura do texto + 50; com 100, fica nos 150 dos outros. Só quebra
+        // o que passa de 115 ("Líder da Seita" cabe numa linha).
         private const float PostTextWidth = 100f;
+        private const float PostWrapAbove = 115f;
+        // Promoção: o custo do desafio sobe, longe do botão Promoção.
+        private const float TipCostUp = 16f;
         // Botão que cresce na altura: fonte mínima para a palavra mais longa caber na largura.
         private const int TallMinSize = 11;
         // Aprimorar Habilidade: "Cultivo", o ícone e os dias vão para a direita, longe do botão Máx.
@@ -53,10 +57,11 @@ namespace MOD_6b2SYs
             public float MaxWidth;
             // > 0: quebra o texto em linhas e aumenta a altura do pai (o botão) até elas caberem com essa folga.
             public float GrowTall;
-            // Com GrowTall: largura do texto quando não cabe numa linha.
-            public float WrapWidth;
-            // > 0: os ícones filhos do texto vão para depois da última letra, com esse espaço.
-            public float IconsAfter;
+            // Com GrowTall: largura do texto quando não cabe numa linha e, > 0, a largura de linha a partir da qual
+            // quebra (senão, a do texto).
+            public float WrapWidth, WrapAbove;
+            // Os ícones filhos do texto vão para depois da última letra, com IconGap de espaço.
+            public bool IconsAfter;
         }
 
         private class Placed
@@ -90,7 +95,13 @@ namespace MOD_6b2SYs
             // Promoção: Lista de Honra e o nome do cargo ("Discípulo Verdadeiro" cobria o ícone da posição atual).
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
             new Rule { Window = "SchoolPost", Name = "Text", Parent = "Toggle", Under = "G:goPostItem_En(Clone)",
-                GrowTall = 26f, WrapWidth = PostTextWidth },
+                GrowTall = 26f, WrapWidth = PostTextWidth, WrapAbove = PostWrapAbove },
+            // Promoção, à direita: "Qualquer Aptidão Marcial abaixo atinge 480" passava da borda, e o custo do
+            // desafio, empurrado para baixo pela descrição longa, ficava embaixo do botão Promoção.
+            new Rule { Window = "SchoolPost", Name = "G:textCertificationTitle", MaxWidth = 300f },
+            new Rule { Window = "SchoolPost", Name = "G:textTipDesc", Size = 14 },
+            new Rule { Window = "SchoolPost", Name = "G:textTipGroup", Size = 14,
+                Offset = rt => new Vector2(0f, TipCostUp) },
             // Pavilhão da Seita: filtro de manuais ("Relâmpago" passava para baixo da caixa de marcar).
             new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Except = "G:textFilterTitle",
                 Under = "Group:MartialFilter", NoWrap = true, MaxWidth = FilterMaxWidth,
@@ -103,7 +114,7 @@ namespace MOD_6b2SYs
             new Rule { Window = "TownMarketBook", Name = "G:imgGrade",
                 Offset = rt => new Vector2(RealmRight, -RealmDown) },
             // Território da Seita: ícones da afinidade em cima de "Afinidade:".
-            new Rule { Window = "SchoolMap", Name = "G:textSchoolHaogan", IconsAfter = AffinityGap },
+            new Rule { Window = "SchoolMap", Name = "G:textSchoolHaogan", IconsAfter = true },
             // Aprimorar Habilidade: dias de cultivo.
             new Rule { Window = "MartialTrain", Name = "G:textDayTitle", Parent = "G:goTrainManExp",
                 Offset = rt => new Vector2(TrainDaysRight, 0f) },
@@ -256,9 +267,9 @@ namespace MOD_6b2SYs
             {
                 GrowTall(rule, t);
             }
-            if (rule.IconsAfter > 0f)
+            if (rule.IconsAfter)
             {
-                IconsAfterText(t, rule.IconsAfter);
+                IconsAfterText(t, IconGap);
             }
         }
 
@@ -268,7 +279,7 @@ namespace MOD_6b2SYs
             var button = t.transform.parent == null ? null : t.transform.parent.TryCast<RectTransform>();
             var rt = t.rectTransform;
             float width = rule.WrapWidth > 0f ? rule.WrapWidth : rt.rect.width;
-            if (button == null || t.preferredWidth <= width)
+            if (button == null || t.preferredWidth <= (rule.WrapAbove > 0f ? rule.WrapAbove : width))
             {
                 return;
             }
@@ -305,12 +316,9 @@ namespace MOD_6b2SYs
             }
             Vector2 old = button.sizeDelta;
             var target = new Vector2(old.x, Math.Max(baseHeight, t.preferredHeight + rule.GrowTall));
-            if (Math.Abs(target.y - old.y) < 0.5f)
-            {
-                return;
-            }
-            // Destaque e seleção têm o tamanho do botão; o que fica acima do meio ("Pode ser promovido") sobe com
-            // a borda de cima.
+            bool taller = Math.Abs(target.y - old.y) >= 0.5f;
+            // Destaque e seleção (com a largura do botão, que o jogo acerta) ficam sempre com a altura dele; o que
+            // fica acima do meio ("Pode ser promovido") sobe com a borda de cima.
             for (int i = 0; i < button.childCount; i++)
             {
                 var child = button.GetChild(i).TryCast<RectTransform>();
@@ -318,16 +326,22 @@ namespace MOD_6b2SYs
                 {
                     continue;
                 }
-                if (child.sizeDelta == old)
+                if (Math.Abs(child.sizeDelta.x - old.x) < 0.5f)
                 {
-                    child.sizeDelta = target;
+                    if (child.sizeDelta != target)
+                    {
+                        child.sizeDelta = target;
+                    }
                 }
-                else if (child.anchoredPosition.y > 0f)
+                else if (taller && child.anchoredPosition.y > 0f)
                 {
                     child.anchoredPosition += new Vector2(0f, (target.y - old.y) / 2f);
                 }
             }
-            button.sizeDelta = target;
+            if (taller)
+            {
+                button.sizeDelta = target;
+            }
         }
 
         private static float WidestWord(UnityEngine.UI.Text t)

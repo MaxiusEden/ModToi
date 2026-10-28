@@ -30236,8 +30236,9 @@
  "schoolpost_challengeTip0": {
   "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献。",
   "en": "1. Each challenge <r>costs</r> {0} Sect Contribution.",
-  "pt": "1. Cada desafio <r>tem um custo</r> de {0} Contribuição da Seita.",
-  "auto": "local/hy-mt2"
+  "pt": "1. Cada desafio <r>custa</r> {0} de Contribuição da Seita.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolpost_challengeTip2": {
   "ch": "1.挑战行为可能大幅度<r>降低</r>双方亲密度。\n2.每次挑战需<r>消耗</r>{0}点宗门贡献。",
@@ -30254,14 +30255,16 @@
  "schoolpost_challengeTip4": {
   "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献",
   "en": "1. Each challenge <r>costs</r> {0} Sect Contribution",
-  "pt": "1. Cada desafio <r>tem um custo</r> de {0} Contribuição da Seita.",
-  "auto": "local/hy-mt2"
+  "pt": "1. Cada desafio <r>custa</r> {0} de Contribuição da Seita.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "schoolpost_challengeTip5": {
   "ch": "1.每次挑战需<r>消耗</r>{0}点宗门贡献",
   "en": "1. Each challenge <r>costs</r> {0} Sect Contribution",
-  "pt": "1. Cada desafio <r>tem um custo</r> de {0} Contribuição da Seita.",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "1. Cada desafio <r>custa</r> {0} de Contribuição da Seita.",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolpost_chuancheng": {
   "ch": "传承效果",
@@ -30278,8 +30281,9 @@
  "schoolpost_linggenzige": {
   "ch": "以下任意战斗资质到达{0}",
   "en": "Any one Skill Stat below reaches {0}",
-  "pt": "Qualquer Aptidão Marcial abaixo atinge {0}",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Uma Aptidão Marcial abaixo atinge {0}",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "schoolpost_notChoose": {
   "ch": "请先选择你要挑战的长老",
