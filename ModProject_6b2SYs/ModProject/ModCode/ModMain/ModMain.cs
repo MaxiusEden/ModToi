@@ -99,6 +99,14 @@ namespace MOD_6b2SYs
             {
                 TryApplyPtBr();
             }
+            try
+            {
+                LayoutDumpPtBr.Tick();
+            }
+            catch (Exception e)
+            {
+                MelonLoader.MelonLogger.Error("[PtBr] Layout: " + e);
+            }
             if (screenTextOn)
             {
                 try
