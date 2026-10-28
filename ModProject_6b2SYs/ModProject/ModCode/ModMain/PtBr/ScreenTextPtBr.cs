@@ -202,6 +202,8 @@ namespace MOD_6b2SYs
                 if (t != null && Changed(t.GetInstanceID(), t.text))
                 {
                     Apply(t);
+                    // Guarda o texto já trocado: se o jogo voltar ao original, a próxima varredura troca de novo.
+                    lastSeen[t.GetInstanceID()] = t.text;
                 }
             }
             var texts = UnityEngine.Object.FindObjectsOfType(Il2CppType.Of<UnityEngine.UI.Text>());
@@ -211,6 +213,7 @@ namespace MOD_6b2SYs
                 if (t != null && Changed(t.GetInstanceID(), t.text))
                 {
                     Apply(t);
+                    lastSeen[t.GetInstanceID()] = t.text;
                 }
             }
             if (lastSeen.Count > MaxCache)
@@ -237,6 +240,31 @@ namespace MOD_6b2SYs
             {
                 try { Apply(__instance); }
                 catch (Exception e) { MelonLogger.Warning("[PtBr] Tela (TMP): " + e.Message); }
+            }
+        }
+
+        /// <summary>
+        /// O mapa-múndi escreve os nomes com TMP_Text.SetText(string, ...), que não passa pelo setter de text.
+        /// </summary>
+        [HarmonyPatch]
+        private static class TmpSetTextMethod
+        {
+            private static IEnumerable<System.Reflection.MethodBase> TargetMethods()
+            {
+                foreach (var m in typeof(TMPro.TMP_Text).GetMethods())
+                {
+                    var ps = m.GetParameters();
+                    if (m.Name == "SetText" && ps.Length > 0 && ps[0].ParameterType == typeof(string))
+                    {
+                        yield return m;
+                    }
+                }
+            }
+
+            private static void Postfix(TMPro.TMP_Text __instance)
+            {
+                try { Apply(__instance); }
+                catch (Exception e) { MelonLogger.Warning("[PtBr] Tela (TMP SetText): " + e.Message); }
             }
         }
 

@@ -254,7 +254,7 @@
  "town_huafei": {
   "ch": "灵石{0} 需要{1}天",
   "en": "Cost: {0} Spirit Stones, Duration: {1}d",
-  "pt": "Custo: {0} Pedras Espirituais, Duração: {1}d",
+  "pt": "Custo: {0} Pedras Espirituais ({1}d)",
   "auto": "local/hy-mt2+teste-jogo"
  },
  "town_huishou": {
@@ -746,8 +746,8 @@
  "town_tousu": {
   "ch": "投宿",
   "en": "Rest",
-  "pt": "Descanso",
-  "auto": "local/hy-mt2"
+  "pt": "Dormir",
+  "auto": "local/hy-mt2+teste-jogo"
  },
  "town_tuodongtishi": {
   "ch": "到底了！",

@@ -38,6 +38,15 @@ namespace MOD_6b2SYs
         private static readonly Dictionary<string, string> Contraction = new Dictionary<string, string> {
             { "para", "para a" }, { "Para", "Para a" }, { "em", "na" }, { "Em", "Na" }, { "de", "da" }, { "De", "Da" } };
         private const string Before = @"(?:(?<pre>[Pp]ara|[Ee]m|[Dd]e) )?";
+        // Reino é masculino: "para LâminaEspada Reino Dao" -> "para o Reino Dao da Lâmina e da Espada".
+        private static readonly Dictionary<string, string> ContractionMasc = new Dictionary<string, string> {
+            { "para", "para o" }, { "Para", "Para o" }, { "em", "no" }, { "Em", "No" }, { "de", "do" }, { "De", "Do" } };
+        // Artes e elementos que o jogo cola antes de "Reino Dao" (s_dao, s_jian... e s_huo, s_shui...), com o gênero.
+        private static readonly Dictionary<string, bool> DaoRealmFeminine = new Dictionary<string, bool> {
+            { "Lâmina", true }, { "Espada", true }, { "Lança", true }, { "Punho", false }, { "Palma", true }, { "Dedo", false },
+            { "Fogo", false }, { "Água", true }, { "Relâmpago", false }, { "Vento", false }, { "Terra", true }, { "Madeira", true } };
+        private static readonly Regex DaoRealm = new Regex(@"(?<!\p{L})" + Before + "(?<a>" + string.Join("|", DaoRealmFeminine.Keys)
+            + ")(?<b>" + string.Join("|", DaoRealmFeminine.Keys) + @")? Reino Dao(?!\p{L})");
 
         private static Regex sect;
         private static Regex pinyin;
@@ -73,7 +82,9 @@ namespace MOD_6b2SYs
                 @"(?<!\p{L})(?<adj>" + firsts + ") (?<noun>" + seconds + ") (?<last>" + Lasts + ")" + Branch + @"(?!\p{L})");
             // Nomes em pinyin juntam duas sílabas ("HangXiu"); só a ordem muda.
             pinyin = new Regex(@"(?<!\p{L})(?<name>\p{Lu}\p{Ll}+\p{Lu}\p{Ll}+) (?<last>" + Lasts + ")" + Branch + @"(?!\p{L})");
-            town = new Regex(@"(?<!\p{L})" + Before + @"(?<name>\p{Lu}\p{Ll}+\p{Lu}\p{Ll}+) (?<last>Cidade|Vila|Aldeia)(?!\p{L})");
+            // O título das lojas cola o prédio e "Filial": "WenFeng VilaPavilhão dos ManuaisFilial".
+            town = new Regex(@"(?<!\p{L})" + Before + @"(?<name>\p{Lu}\p{Ll}+\p{Lu}\p{Ll}+) (?<last>Cidade|Vila|Aldeia)"
+                + @"(?:(?<bld>\p{Lu}[\p{L} ]*?)Filial)?(?!\p{L})");
         }
 
         /// <summary>Texto com os nomes reordenados, ou null se não havia nome para mudar.</summary>
@@ -90,14 +101,35 @@ namespace MOD_6b2SYs
             {
                 s = townPhrase.Replace(s, m => Pre(m) + towns[m.Groups["name"].Value]);
             }
+            s = DaoRealm.Replace(s, DaoRealmName);
             return s == text ? null : s;
         }
 
-        /// <summary>"HengZhi Vila" -> "Vila de Ananke"; pinyin fora da planilha só muda de ordem.</summary>
+        /// <summary>"HengZhi Vila" -> "Vila de Ananke"; pinyin fora da planilha só muda de ordem.
+        /// Com prédio: "WenFeng VilaPavilhão dos ManuaisFilial" -> "Pavilhão dos Manuais da Vila da Leitura Divina".</summary>
         private static string TownName(Match m)
         {
             string name = m.Groups["name"].Value, pt;
-            return Pre(m) + m.Groups["last"].Value + " " + (towns.TryGetValue(name, out pt) ? pt : name);
+            string place = m.Groups["last"].Value + " " + (towns.TryGetValue(name, out pt) ? pt : name);
+            if (m.Groups["bld"].Success)
+            {
+                string pre = m.Groups["pre"].Success ? m.Groups["pre"].Value + " " : "";
+                return pre + m.Groups["bld"].Value.Trim() + " da " + place;
+            }
+            return Pre(m) + place;
+        }
+
+        /// <summary>"LâminaEspada Reino Dao" -> "Reino Dao da Lâmina e da Espada".</summary>
+        private static string DaoRealmName(Match m)
+        {
+            string a = m.Groups["a"].Value, b = m.Groups["b"].Value;
+            string name = "Reino Dao " + Of(a) + (b.Length > 0 ? " e " + Of(b) : "");
+            return m.Groups["pre"].Success ? ContractionMasc[m.Groups["pre"].Value] + " " + name : name;
+        }
+
+        private static string Of(string art)
+        {
+            return (DaoRealmFeminine[art] ? "da " : "do ") + art;
         }
 
         private static string Pre(Match m)
