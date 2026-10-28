@@ -270,6 +270,39 @@ namespace MOD_6b2SYs
             }
         }
 
+        /// <summary>
+        /// Os nomes de cidade e seita no cenário: o rótulo pode ser escrito fora da tela, onde a varredura não chega.
+        /// </summary>
+        [HarmonyPatch(typeof(GridBaseUI), nameof(GridBaseUI.SetBuildName))]
+        private static class GridBuildName
+        {
+            private static readonly HashSet<string> seen = new HashSet<string>();
+
+            private static void Postfix(GridBaseUI __instance, string name)
+            {
+                try
+                {
+                    var go = __instance.goName;
+                    if (go == null)
+                    {
+                        return;
+                    }
+                    var tmps = go.GetComponentsInChildren<TMPro.TMP_Text>(true);
+                    string shown = null;
+                    for (int i = 0; i < tmps.Length; i++)
+                    {
+                        Apply(tmps[i]);
+                        lastSeen[tmps[i].GetInstanceID()] = shown = tmps[i].text;
+                    }
+                    if (name != null && seen.Count < 500 && seen.Add(name))
+                    {
+                        MelonLogger.Msg(string.Format("[PtBr] Cenario: \"{0}\" -> \"{1}\" ({2} textos)", name, shown, tmps.Length));
+                    }
+                }
+                catch (Exception e) { MelonLogger.Warning("[PtBr] Tela (cenario): " + e.Message); }
+            }
+        }
+
         [HarmonyPatch(typeof(UnityEngine.UI.Text), nameof(UnityEngine.UI.Text.text), MethodType.Setter)]
         private static class UiSetText
         {
