@@ -24,8 +24,11 @@ namespace MOD_6b2SYs
         private const float FilterBoxRight = 32f;
         // Pavilhões dos Manuais: a placa do reino desce da altura da placa do tipo para a do "Requer ...".
         private const float RealmDown = 49f;
+        private const float RealmRight = 5f;
         // Território da Seita: espaço entre "Afinidade:" e os ícones.
-        private const float AffinityGap = 6f;
+        private const float AffinityGap = 3f;
+        // Promoção: o jogo dá ao botão do cargo a largura do texto + 50; com 100, fica nos 150 dos outros.
+        private const float PostTextWidth = 100f;
         // Botão que cresce na altura: fonte mínima para a palavra mais longa caber na largura.
         private const int TallMinSize = 11;
         // Aprimorar Habilidade: "Cultivo", o ícone e os dias vão para a direita, longe do botão Máx.
@@ -50,8 +53,8 @@ namespace MOD_6b2SYs
             public float MaxWidth;
             // > 0: quebra o texto em linhas e aumenta a altura do pai (o botão) até elas caberem com essa folga.
             public float GrowTall;
-            // Com GrowTall: largura do texto quando não cabe numa linha e largura fixa do botão (que o jogo alarga).
-            public float WrapWidth, ButtonWidth;
+            // Com GrowTall: largura do texto quando não cabe numa linha.
+            public float WrapWidth;
             // > 0: os ícones filhos do texto vão para depois da última letra, com esse espaço.
             public float IconsAfter;
         }
@@ -87,7 +90,7 @@ namespace MOD_6b2SYs
             // Promoção: Lista de Honra e o nome do cargo ("Discípulo Verdadeiro" cobria o ícone da posição atual).
             new Rule { Window = "SchoolPost", Name = "G:textHonor", FitMin = 12 },
             new Rule { Window = "SchoolPost", Name = "Text", Parent = "Toggle", Under = "G:goPostItem_En(Clone)",
-                GrowTall = 12f, WrapWidth = 120f, ButtonWidth = 150f },
+                GrowTall = 26f, WrapWidth = PostTextWidth },
             // Pavilhão da Seita: filtro de manuais ("Relâmpago" passava para baixo da caixa de marcar).
             new Rule { Window = "SchoolLibrary", Prefix = "G:textFilter", Except = "G:textFilterTitle",
                 Under = "Group:MartialFilter", NoWrap = true, MaxWidth = FilterMaxWidth,
@@ -95,8 +98,10 @@ namespace MOD_6b2SYs
             new Rule { Window = "SchoolLibrary", Name = "Background", ParentPrefix = "G:textFilter",
                 Under = "Group:MartialFilter", Offset = rt => new Vector2(FilterBoxRight, 0f) },
             // Pavilhões dos Manuais da Seita e da vila: placa do reino ("SoulFormation") que a placa do tipo cobria.
-            new Rule { Window = "SchoolLibrary", Name = "G:imgGrade", Offset = rt => new Vector2(0f, -RealmDown) },
-            new Rule { Window = "TownMarketBook", Name = "G:imgGrade", Offset = rt => new Vector2(0f, -RealmDown) },
+            new Rule { Window = "SchoolLibrary", Name = "G:imgGrade",
+                Offset = rt => new Vector2(RealmRight, -RealmDown) },
+            new Rule { Window = "TownMarketBook", Name = "G:imgGrade",
+                Offset = rt => new Vector2(RealmRight, -RealmDown) },
             // Território da Seita: ícones da afinidade em cima de "Afinidade:".
             new Rule { Window = "SchoolMap", Name = "G:textSchoolHaogan", IconsAfter = AffinityGap },
             // Aprimorar Habilidade: dias de cultivo.
@@ -114,11 +119,11 @@ namespace MOD_6b2SYs
             // Membros da Seita: Expulsar, Redistribuir, Marcar.
             new Rule { Window = "SchoolAdmin", Prefix = "G:text", Except = "G:textAdmin", Under = "ViewState",
                 FitMin = 11 },
-            new Rule { Window = "SchoolAdmin", Name = "G:textAdmin", Under = "ViewState", GrowTall = 8f },
+            new Rule { Window = "SchoolAdmin", Name = "G:textAdmin", Under = "ViewState", GrowTall = 18f },
         };
 
         private static readonly Dictionary<IntPtr, Placed> placed = new Dictionary<IntPtr, Placed>();
-        private static readonly Dictionary<IntPtr, Vector2> buttonBase = new Dictionary<IntPtr, Vector2>();
+        private static readonly Dictionary<IntPtr, float> buttonBase = new Dictionary<IntPtr, float>();
         private static readonly List<string> ancestors = new List<string>();
         private static readonly HashSet<string> walked = new HashSet<string>();
         private static int frame;
@@ -267,11 +272,11 @@ namespace MOD_6b2SYs
             {
                 return;
             }
-            Vector2 size;
-            if (!buttonBase.TryGetValue(button.Pointer, out size))
+            float baseHeight;
+            if (!buttonBase.TryGetValue(button.Pointer, out baseHeight))
             {
-                size = button.sizeDelta;
-                buttonBase[button.Pointer] = size;
+                baseHeight = button.sizeDelta.y;
+                buttonBase[button.Pointer] = baseHeight;
             }
             if (rule.WrapWidth > 0f)
             {
@@ -298,20 +303,28 @@ namespace MOD_6b2SYs
             {
                 t.fontSize--;
             }
-            var target = new Vector2(rule.ButtonWidth > 0f ? rule.ButtonWidth : size.x,
-                Math.Max(size.y, t.preferredHeight + rule.GrowTall));
             Vector2 old = button.sizeDelta;
-            if ((target - old).sqrMagnitude < 0.25f)
+            var target = new Vector2(old.x, Math.Max(baseHeight, t.preferredHeight + rule.GrowTall));
+            if (Math.Abs(target.y - old.y) < 0.5f)
             {
                 return;
             }
-            // Destaque e seleção têm o tamanho do botão.
+            // Destaque e seleção têm o tamanho do botão; o que fica acima do meio ("Pode ser promovido") sobe com
+            // a borda de cima.
             for (int i = 0; i < button.childCount; i++)
             {
                 var child = button.GetChild(i).TryCast<RectTransform>();
-                if (child != null && child.Pointer != rt.Pointer && child.sizeDelta == old)
+                if (child == null || child.Pointer == rt.Pointer)
+                {
+                    continue;
+                }
+                if (child.sizeDelta == old)
                 {
                     child.sizeDelta = target;
+                }
+                else if (child.anchoredPosition.y > 0f)
+                {
+                    child.anchoredPosition += new Vector2(0f, (target.y - old.y) / 2f);
                 }
             }
             button.sizeDelta = target;
