@@ -35,6 +35,7 @@
     <Compile Include="Example\Example.cs" />
     <Compile Include="ModMain.cs" />
     <Compile Include="PtBr\LayoutDumpPtBr.cs" />
+    <Compile Include="PtBr\LayoutPtBr.cs" />
     <Compile Include="PtBr\LocalTextPtBr.cs" />
     <Compile Include="PtBr\NameOrderPtBr.cs" />
     <Compile Include="PtBr\RoleLogLocalPtBr.cs" />

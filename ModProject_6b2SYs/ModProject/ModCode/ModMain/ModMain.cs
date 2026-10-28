@@ -102,6 +102,7 @@ namespace MOD_6b2SYs
             try
             {
                 LayoutDumpPtBr.Tick();
+                LayoutPtBr.Tick();
             }
             catch (Exception e)
             {
