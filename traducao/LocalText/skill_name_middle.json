@@ -2621,8 +2621,12 @@
  "skill_name_middle7534": {
   "ch": "天门剑决",
   "en": "Skygate Blades",
-  "pt": "Lâminas do Portal Celeste",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Lâminas do Portão Celestial",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true,
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "skill_name_middle7541": {
   "ch": "邪瞳覆世",
@@ -4169,8 +4173,12 @@
  "skill_name_middle8643": {
   "ch": "天门剑决",
   "en": "Skygate Blades",
-  "pt": "Lâminas do Portal Celeste",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Lâminas do Portão Celestial",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true,
+  "revisar": [
+   "largura: 27 > 25 caracteres"
+  ]
  },
  "skill_name_middle8644": {
   "ch": "星元领域",

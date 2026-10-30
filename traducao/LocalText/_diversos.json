@@ -34090,8 +34090,12 @@
  "suit_historyName11": {
   "ch": "——天门引者",
   "en": "-- Skygate Keeper",
-  "pt": "-- Guardião do Skygate",
-  "auto": "local/hy-mt2"
+  "pt": "-- Guardião do Portão Celestial",
+  "auto": "local/hy-mt2",
+  "revisado": true,
+  "revisar": [
+   "largura: 31 > 23 caracteres"
+  ]
  },
  "suit_historyName12": {
   "ch": "——斗魂·芦花王",
@@ -34240,8 +34244,9 @@
  "suit_historyName8": {
   "ch": "——血星河",
   "en": "-- Sanguine Riverstar",
-  "pt": "-- Estrela Fluvial Sanguínea",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "-- Rio Estelar Sanguíneo",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisado": true
  },
  "suit_historyName9": {
   "ch": "——季沽魂",
