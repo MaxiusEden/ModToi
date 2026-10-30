@@ -42,6 +42,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 
 | Termo | Decisão | Motivo |
 |---|---|---|
+| Tao Realm (`battle_jiejie`), Move (`ability_name_last1`) | Reino Dao, Movimentação | Não mudar: o código do mod reordena os nomes com estas palavras (NameOrderPtBr, Tecnicas.json). |
 | Save (arquivo de jogo) | save, saves | Decidido pelo usuário em 2026-10-30: nada de "salvamento" nem "arquivo de salvamento". O verbo continua "salvar". |
 | Ward Pool (归一池), Sanguine Riverstar (血星河), Skygate (天门) | Poço da Proteção, Rio Estelar Sanguíneo, Portão Celestial | Decidido pelo usuário em 2026-10-30; a revisão da nuvem tinha deixado em inglês. "Riverstar" sozinho vira "Rio Estelar". |
 | Taoist Mind (道心) | Coração do Dao | É a forma consagrada de 道心; "mente taoista" soa estranho. |

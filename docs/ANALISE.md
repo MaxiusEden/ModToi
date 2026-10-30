@@ -268,6 +268,7 @@ Resultado do teste (2026-10-22):
   - na Casa de Leilões, o nome do item usa duas linhas (preço e reino descem 12), "Itens leiloados (Clique para sacar)" não quebra e o aviso de reinos tem 140 de largura; na arena, o nome do locutor fica numa linha e o aviso do Pavilhão do Coração do Dao usa verde claro;
   - na tela inicial, os botões ficam em uma linha, com até 160 de largura de texto; em Problemas de Save, cada botão tem a largura do texto + 20 (`ParentPad`), a folga do botão do log;
   - várias telas usam `NoWrap`/`MaxWidth` ou best fit onde a segunda linha era cortada: abas e colunas das fichas, forja e alquimia da vila, nomes dos manuais, território da seita e nomes das teclas;
+  - na ficha do jogador e do NPC, a linha de "Carisma:" vai 27 para a direita e começa na coluna de "Sexo:"; textos fixos em chinês usam `Translate` (trocados na varredura desta classe, sem esperar os 3 s da varredura geral);
   - no Pavilhão do Espírito, o "化灵" fixo do prefab vira "Transformar" (botão) e "Transformação" (título);
   - nos Picos dos Behemoths, os três botões sobem 40, mostram o hanzi original (化灵, 喂养, 交流) e o PT vai para um rótulo preto (`PtBrRotulo`) embaixo de cada um;
   - em Aprimorar Habilidade, "Cultivo", o ícone e os dias vão 15 unidades para a direita, longe do botão Máx;

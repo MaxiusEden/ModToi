@@ -40,6 +40,8 @@ namespace MOD_6b2SYs
         private const float MartialTypeDown = 70f;
         private const float AuctionNameDown = 3f;
         private const float AuctionRowsDown = 12f;
+        // Ficha: "Carisma:" tem 27 a mais de largura que "Sexo:", e os dois são alinhados à direita.
+        private const float CharmRight = 27f;
         private const float LoginButtonMaxWidth = 160f;
         private const float CacheButtonPad = 20f;
         private const float TabTextMaxWidth = 62f;
@@ -123,6 +125,10 @@ namespace MOD_6b2SYs
             public string AfterLabel;
             // "99540Pedra Espiritual" vira "99540 Pedras Espirituais".
             public bool CountPlural;
+            // Passa o texto pela troca da tela nesta varredura (texto fixo do prefab, que o jogo não escreve de novo).
+            public bool Translate;
+            // Só vale para o objeto com este texto; e o Offset move também este irmão.
+            public string TextIs, Sibling;
         }
 
         private class Placed
@@ -218,6 +224,39 @@ namespace MOD_6b2SYs
             new Rule { Window = "SchoolMap", Name = "textName", Parent = "imgName", NoWrap = true, MaxWidth = 70f },
             new Rule { Window = "SchoolTaskLobby", Name = "G:textHumanInfo", FitMin = 13 },
             new Rule { Window = "TaoistHeart", Name = "G:textAddSeed", NoWrap = true, MaxWidth = 250f },
+            // Coração do Dao: o "?" ficava em cima do "(Terceiro Estágio)"; vai para depois do título.
+            new Rule { Window = "TaoistHeart", Name = "G:goHeartTips", AfterLabel = "G:textHeartName" },
+            // Textos fixos em chinês: trocados a cada varredura desta classe, sem esperar a varredura geral da tela.
+            new Rule { Window = "CacheHelper", Name = "G:textTitle", Translate = true },
+            new Rule { Window = "ArtifactInfo", Name = "G:textSell", Translate = true },
+            new Rule { Window = "GameSetting", Name = "G:textCameraShake", Under = "GuiFixDataItem", Translate = true },
+            new Rule { Window = "GameSetting", Name = "G:textSystemOK", Under = "GuiFixDataItem", Translate = true },
+            new Rule { Window = "TextInfoLong", Name = "G:textOK", Translate = true },
+            // Configurações: textos de duas linhas ("Exportar Log de Depuração").
+            new Rule { Window = "GameSetting", Name = "G:textLog", FitMin = 11 },
+            new Rule { Window = "GameSetting", Name = "G:textDynPortraitPlayAnim", FitMin = 11 },
+            new Rule { Window = "GameSetting", Name = "G:textEffectTitle", FitMin = 11 },
+            new Rule { Window = "GameSetting", Name = "G:textTextureTitle", FitMin = 11 },
+            // Ficha do jogador e do NPC: "Carisma:" encostava no reino; a linha começa na coluna de "Sexo:".
+            new Rule { Window = "PlayerInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Carisma:", Sibling = "Text2",
+                Offset = rt => new Vector2(CharmRight, 0f) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Carisma:", Sibling = "Text2",
+                Offset = rt => new Vector2(CharmRight, 0f) },
+            // Conquistas e dificuldade.
+            new Rule { Window = "Achievement", Name = "G:textGetNum", NoWrap = true, MaxWidth = 195f },
+            new Rule { Window = "Difficulty", Name = "G:textDieDesc_En", Size = 16 },
+            // Outras telas com a segunda linha cortada.
+            new Rule { Window = "MinMap", Prefix = "G:textTgl", NoWrap = true, MaxWidth = 124f },
+            new Rule { Window = "PlayerInfo", Name = "G:textMartialTrain", NoWrap = true, MaxWidth = 146f },
+            new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "Group:Art", FitMin = 11 },
+            new Rule { Window = "ElderSkillInfo", Name = "G:textDescTitle", NoWrap = true },
+            new Rule { Window = "ElderSkillInfo", Name = "G:textPrefixTitle", NoWrap = true },
+            new Rule { Window = "ElderSkillInfo", Name = "G:textTrainSli", NoWrap = true },
+            new Rule { Window = "ArtifactBookInfo", Name = "G:textPropCommon", NoWrap = true, MaxWidth = 196f },
+            new Rule { Window = "ArtifactBookInfo", Name = "G:textPropRare", NoWrap = true, MaxWidth = 196f },
+            new Rule { Window = "RefineRuneFormula", Name = "Text", Parent = "G:goOptionItem_En(Clone)", NoWrap = true,
+                MaxWidth = 150f },
+            new Rule { Window = "RefinePillFormula", Name = "G:textElementTitle", NoWrap = true },
             // Arena: "Locutor do Torneio Imortal" perdia a segunda linha.
             new Rule { Window = "TownFight", Name = "G:textNPC", NoWrap = true, MaxWidth = NpcNameMaxWidth },
             // Artesanato, Herbologia: nome da prescrição.
@@ -396,6 +435,10 @@ namespace MOD_6b2SYs
                 return;
             }
             var t = tr.GetComponent<UnityEngine.UI.Text>();
+            if (rule.TextIs != null && (t == null || t.text == null || t.text.Trim() != rule.TextIs))
+            {
+                return;
+            }
             if (t != null)
             {
                 ApplyText(rule, t);
@@ -421,6 +464,18 @@ namespace MOD_6b2SYs
             {
                 return;
             }
+            Vector2 offset = rule.Offset(rt);
+            MoveBy(rt, offset);
+            var sibling = rule.Sibling == null ? null : tr.parent.Find(rule.Sibling);
+            var siblingRt = sibling == null ? null : sibling.TryCast<RectTransform>();
+            if (siblingRt != null)
+            {
+                MoveBy(siblingRt, offset);
+            }
+        }
+
+        private static void MoveBy(RectTransform rt, Vector2 offset)
+        {
             Vector2 cur = rt.anchoredPosition;
             Placed p;
             if (!placed.TryGetValue(rt.Pointer, out p) || cur != p.Applied)
@@ -428,7 +483,7 @@ namespace MOD_6b2SYs
                 p = new Placed { Base = cur };
                 placed[rt.Pointer] = p;
             }
-            Vector2 target = p.Base + rule.Offset(rt);
+            Vector2 target = p.Base + offset;
             if (target != cur)
             {
                 rt.anchoredPosition = target;
@@ -463,6 +518,10 @@ namespace MOD_6b2SYs
                 {
                     t.fontSize = Math.Max(1, (int)(t.fontSize * rule.MaxWidth / width));
                 }
+            }
+            if (rule.Translate)
+            {
+                ScreenTextPtBr.Refresh(t);
             }
             if (rule.ParentPad > 0f)
             {
@@ -742,21 +801,22 @@ namespace MOD_6b2SYs
             }
         }
 
-        /// <summary>Move o grupo para o que está dentro dele começar logo depois do fim do texto.</summary>
+        /// <summary>
+        /// Move o objeto para o que está nele começar logo depois do fim do texto, que é irmão dele ou do pai dele.
+        /// </summary>
         private static void AfterLabel(Transform group, string labelName)
         {
-            var panel = group.parent == null ? null : group.parent.parent;
-            var label = panel == null ? null : panel.Find(labelName);
+            var label = group.parent == null ? null : group.parent.Find(labelName);
+            if (label == null && group.parent != null && group.parent.parent != null)
+            {
+                label = group.parent.parent.Find(labelName);
+            }
             var t = label == null ? null : label.GetComponent<UnityEngine.UI.Text>();
             if (t == null)
             {
                 return;
             }
-            float left = float.MaxValue;
-            for (int i = 0; i < group.childCount; i++)
-            {
-                left = Math.Min(left, LeftEdge(t.rectTransform, group.GetChild(i)));
-            }
+            float left = LeftEdge(t.rectTransform, group);
             float shift = TextEnd(t) + AfterLabelGap - left;
             if (left != float.MaxValue && Math.Abs(shift) >= 0.5f)
             {

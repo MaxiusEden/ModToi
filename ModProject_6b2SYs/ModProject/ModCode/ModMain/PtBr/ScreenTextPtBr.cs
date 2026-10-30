@@ -47,6 +47,10 @@ namespace MOD_6b2SYs
             // Arena: o <g> do jogo vira um verde escuro, ilegível sobre o fundo dessa tela.
             new KeyValuePair<Regex, string>(new Regex(@"^<color=#057600>(O Pavilhão do Coração do Dao cresceu.*)$",
                 RegexOptions.Singleline), "<color=#7CFF7C>$1"),
+            // Dificuldade: "Pontos de Jade Bagua:9", sem o espaço que os outros atributos têm.
+            new KeyValuePair<Regex, string>(new Regex(@"^Pontos de Jade Bagua:(?=\d)"), "Pontos de Jade Bagua: "),
+            // Mod de reparo do save: resumo depois de carregar.
+            new KeyValuePair<Regex, string>(new Regex(@"^删除(\d+)个无效月结日志$"), "Excluídos $1 registros mensais inválidos"),
             // Espírito do Artefato: preço de venda escrito em chinês no código do jogo.
             new KeyValuePair<Regex, string>(new Regex(@"^出售价格：(\d+)灵石$"), "Preço de venda: $1 Pedras Espirituais"),
             // Leilão: "Formação da Alma、Iluminação", reinos que o jogo junta com a vírgula chinesa.
@@ -375,6 +379,12 @@ namespace MOD_6b2SYs
                 applying = true;
                 try { t.text = rep; } finally { applying = false; }
             }
+        }
+
+        /// <summary>Troca o texto agora, sem esperar a próxima varredura geral.</summary>
+        public static void Refresh(UnityEngine.UI.Text t)
+        {
+            Apply(t);
         }
 
         private static void Apply(UnityEngine.UI.Text t)
