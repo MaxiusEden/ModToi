@@ -16,3 +16,4 @@ p015: 27 corrigidas
 p016: 45 corrigidas (espaços iniciais restaurados; Série Dragão Grudento; aviso de glossário em daohao_yiwangtishi é plural, falso alarme)
 p017: 23 corrigidas
 p018: 24 corrigidas
+p019: 87 corrigidas (nomes de santuário alinhados aos aprovados; 'Pode ser obtido')
