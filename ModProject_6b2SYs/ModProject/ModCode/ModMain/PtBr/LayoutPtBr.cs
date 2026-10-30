@@ -37,6 +37,8 @@ namespace MOD_6b2SYs
         private const float InterfactWidth = 170f;
         private const float TerritoryWidth = 180f;
         private const float PropOptionMaxWidth = 84f;
+        private const float PointOutputRight = 35f;
+        private const float PointRewardRight = 25f;
         private const float InterfactOut = 12f;
         private const float InterfactMaxWidth = 128f;
         // Abas verticais: a palavra mais longa (Minério, 7 letras) cabe em 90 de altura (a aba tem 116 com as pontas);
@@ -197,6 +199,14 @@ namespace MOD_6b2SYs
                 Offset = rt => new Vector2(RealmRight, -RealmDown) },
             // Território da Seita: ícones da afinidade em cima de "Afinidade:".
             new Rule { Window = "SchoolMap", Name = "G:textSchoolHaogan", IconsAfter = true },
+            // Território da Seita, ponto de recurso: os itens começavam em cima de "Produção Mensal:" e
+            // "Produção Especial:"; os dois grupos vão para a direita e ficam alinhados.
+            new Rule { Window = "SchoolMap", Name = "G:goPointPointOutput_En",
+                Offset = rt => new Vector2(PointOutputRight, 0f) },
+            new Rule { Window = "SchoolMap", Name = "G:goPointReward_En",
+                Offset = rt => new Vector2(PointRewardRight, 0f) },
+            // Coração do Dao de quem não tem semente: as pontas do texto ficavam cortadas.
+            new Rule { Window = "NPCInfo", Name = "G:textWu", Size = 26 },
             // Aprimorar Habilidade: dias de cultivo.
             new Rule { Window = "MartialTrain", Name = "G:textDayTitle", Parent = "G:goTrainManExp",
                 Offset = rt => new Vector2(TrainDaysRight, 0f) },

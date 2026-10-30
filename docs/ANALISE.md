@@ -263,6 +263,7 @@ Resultado do teste (2026-10-22):
   - no Acervo de Manuais, "Contribuição Total" some (fica só "Contribuição:", a que sobra), o grupo `G:goDiscount` de "Característica da Seita" vai 1286 para a esquerda, para o meio do espaço livre à esquerda da barra de contribuição (mover o texto piscava: o jogo o reposiciona dentro do grupo), e a placa do reino dos pisos 4 e 5 vai mais 5 para a direita (estante do fundo);
   - na Alquimia, o nome da receita escolhida usa best fit (mínimo 14) e a dificuldade ("Dificuldade: X (Alquimia: N)") não quebra a linha; na Herbologia, o nome de cada prescrição tem 128 de largura (ficam a 135 uma da outra; com 150 invadiam a vizinha);
   - no menu de opções do item (`PropInfo`), o texto dos botões não quebra a linha e a fonte reduz até 84 de largura ("Uso em Massa" perdia a segunda palavra);
+  - no Território da Seita, ao selecionar um ponto de recurso, os itens de Produção Mensal e Produção Especial vão 35 e 25 para a direita (alinhados, fora do rótulo); no Coração do Dao, "Ainda não formou uma Semente Daoísta" usa fonte 26;
   - no Pavilhão do Espírito, o "化灵" fixo do prefab vira "Transformar" (botão) e "Transformação" (título);
   - nos Picos dos Behemoths, os três botões sobem 40, mostram o hanzi original (化灵, 喂养, 交流) e o PT vai para um rótulo preto (`PtBrRotulo`) embaixo de cada um;
   - em Aprimorar Habilidade, "Cultivo", o ícone e os dias vão 15 unidades para a direita, longe do botão Máx;
