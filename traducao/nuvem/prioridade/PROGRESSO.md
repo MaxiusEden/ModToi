@@ -92,3 +92,4 @@ p090: 2 corrigidas (AVISO 'Freeze → Congelamento' em 2300236 é falso alarme: 
 p091: 0 corrigidas
 p092: 0 corrigidas
 p093: 2 corrigidas (dúvida: 'Sanguine Riverstar' ficou sem tradução; é o nome do Senhor do Sangue)
+p094: 0 corrigidas
