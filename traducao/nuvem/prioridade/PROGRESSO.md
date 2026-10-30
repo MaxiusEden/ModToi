@@ -60,3 +60,4 @@ p059: 4 corrigidas
 p060: 1 corrigida (dúvida: 'Poço Ward' em 2000357-2000359, 'Ward Pool' sem tradução definida)
 p061: 3 corrigidas
 p062: 1 corrigida
+p063: 0 corrigidas
