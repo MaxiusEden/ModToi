@@ -17,3 +17,4 @@ p016: 45 corrigidas (espaços iniciais restaurados; Série Dragão Grudento; avi
 p017: 23 corrigidas
 p018: 24 corrigidas
 p019: 87 corrigidas (nomes de santuário alinhados aos aprovados; 'Pode ser obtido')
+p020: 47 corrigidas; dúvida: 体力 (honor_*) = Vitalidade; Tian Yuan Mountain padronizada
