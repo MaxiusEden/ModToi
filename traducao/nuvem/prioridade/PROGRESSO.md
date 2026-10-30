@@ -41,3 +41,4 @@ p040: 39 corrigidas; dúvida: Felblade = Lâmina Maligna; 'Rank' = Nível
 p041: 32 corrigidas (citações dos clássicos que estavam cortadas; carpim/succeedem)
 p042: 2 corrigidas
 p043: 61 corrigidas (Grupo B). Avisos de nomes: Frost Lead/Darkwind Grass/Leviathan seguem os itens renomeados nos lotes A. IMPORTANTE: nomes aprovados trazem 'Sempre-Verde'; revertei meu 'Sempreverde' em p013, p021, p028, p032, p033, p034, p039
+p044: 23 corrigidas; revertido 'Homem-cogumelo' nos nomes (aprovado: 'Homem Cogumelo') em p023, p032, p036
