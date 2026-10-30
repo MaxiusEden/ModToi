@@ -34,8 +34,8 @@ namespace MOD_6b2SYs
         private static readonly KeyValuePair<Regex, string>[] Parts = {
             // Alquimia: o jogo tira "Receita" (refineElixir_text2) de "Receita de Elixir X" e sobra "de Elixir X".
             new KeyValuePair<Regex, string>(new Regex(@"^de (Elixir\b.*)$", RegexOptions.Singleline), "$1"),
-            // Salão de Missões: ano + " Ano" + mês + " Mês" (common_nian, common_yue).
-            new KeyValuePair<Regex, string>(new Regex(@"^(\d+) Ano (\d+) Mês$"), "Ano $1 Mês $2"),
+            // Datas: ano + " Ano" + mês + " Mês" (common_nian, common_yue), às vezes sem espaço ("21 Ano6 Mês:").
+            new KeyValuePair<Regex, string>(new Regex(@"^(\d+) Ano ?(\d+) Mês(:?)$"), "Ano $1 Mês $2$3"),
             // Talismãs, materiais de cada nível: sem "Talismã do", o nome e o material cabem na linha.
             new KeyValuePair<Regex, string>(new Regex(@"^(<color=#\w+>)Talismã d[aeo]s? "), "$1"),
             // Regras e características da seita (Salão do Conselho): o jogo numera com "1," (common_dian).
@@ -64,9 +64,6 @@ namespace MOD_6b2SYs
 
         // Prazos: "começará em 7 Mês" (número + common_yue/common_nian) vira "começará em 7 meses".
         private static readonly Regex TimeCount = new Regex(@"(?<=\b(?:em|cada)(?: \d+ Ano)? )(\d+) (Mês|Ano)\b");
-
-        // Duração colada pelo jogo: "6 Ano7 Mês" (sem espaço; com espaço é a data, tratada em Parts).
-        private static readonly Regex YearsMonths = new Regex(@"^(\d+) Ano(\d+) Mês$");
 
         // Mensagens de outro mod, de reparo do save, escritas em chinês durante o carregamento.
         private static readonly Regex SaveCheck = new Regex(@"^(检测|存档修复完成|大鬼修复存档)");
@@ -241,12 +238,6 @@ namespace MOD_6b2SYs
                     t = t.Replace(term.Key, term.Value);
                 }
                 return t;
-            }
-            var duration = YearsMonths.Match(t);
-            if (duration.Success)
-            {
-                string y = duration.Groups[1].Value, m = duration.Groups[2].Value;
-                return y + (y == "1" ? " ano e " : " anos e ") + m + (m == "1" ? " mês" : " meses");
             }
             if (TimeCount.IsMatch(t))
             {

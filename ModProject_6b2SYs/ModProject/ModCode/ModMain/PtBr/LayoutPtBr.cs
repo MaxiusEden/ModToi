@@ -42,6 +42,17 @@ namespace MOD_6b2SYs
         private const float AuctionRowsDown = 12f;
         // Ficha: "Carisma:" tem 27 a mais de largura que "Sexo:", e os dois são alinhados à direita.
         private const float CharmRight = 27f;
+        // Largura dos rótulos de referência das fichas (alinhados à direita).
+        private const float ReputationWidth = 89.3f;
+        private const float InterestsWidth = 88f;
+        // Pavilhão dos Manuais: o balão tem uma ponta embaixo, e só a parte de cima serve para o texto.
+        private const float BookBalloonBase = 86f;
+        private const float BookBalloonHeight = 108f;
+        private const int FactoryListPad = 12;
+        // Mapa-múndi: o ícone maior do filtro vai até 11 depois do começo do texto.
+        private const float MapFilterRight = 11f;
+        // Quadro do guardião: rótulo + valor até o fim da linha separadora (225 de largura).
+        private const float BeastRowWidth = 215f;
         private const float LoginButtonMaxWidth = 160f;
         private const float CacheButtonPad = 20f;
         private const float TabTextMaxWidth = 62f;
@@ -100,8 +111,12 @@ namespace MOD_6b2SYs
             public int Size;
             // > 0: diminui a fonte até a linha caber nessa largura.
             public float MaxWidth;
-            // > 0: largura fixa do objeto.
-            public float Width;
+            // > 0: largura e altura fixas do objeto.
+            public float Width, Height;
+            // > 0: como MaxWidth, mas descontando a largura do pai (o rótulo antes do valor).
+            public float MaxRowWidth;
+            // > 0: folga no topo do LayoutGroup do objeto.
+            public int PadTop;
             // > 0: o pai (o botão) fica com a largura do texto mais esta folga.
             public float ParentPad;
             // > 0: quebra o texto em linhas e aumenta a altura do pai (o botão) até elas caberem com essa folga.
@@ -210,7 +225,7 @@ namespace MOD_6b2SYs
             new Rule { Window = "SchoolAura", Name = "G:textTip", FitMin = 11 },
             new Rule { Window = "SchoolHospital", Name = "G:textOK_En", NoWrap = true, MaxWidth = 110f },
             new Rule { Window = "SchoolGodBeast", Name = "texItem", Parent = "G:textMessageItem(Clone)", NoWrap = true,
-                MaxWidth = 138f },
+                MaxRowWidth = BeastRowWidth },
             new Rule { Window = "SchoolAdmin", Name = "G:textTitle", Under = "BG", NoWrap = true },
             new Rule { Window = "SchoolAdmin", Name = "Text", Parent = "Button", FitMin = 12 },
             new Rule { Window = "SchoolMainLobby", Name = "Text", Parent = "Toggle", FitMin = 16 },
@@ -240,13 +255,43 @@ namespace MOD_6b2SYs
             // Ficha do jogador e do NPC: "Carisma:" encostava no reino; a linha começa na coluna de "Sexo:".
             new Rule { Window = "PlayerInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Carisma:", Sibling = "Text2",
                 Offset = rt => new Vector2(CharmRight, 0f) },
-            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Carisma:", Sibling = "Text2",
-                Offset = rt => new Vector2(CharmRight, 0f) },
+            // Ficha do jogador: a coluna da esquerda começa na mesma posição de "Reputação:" e "Interesses:".
+            new Rule { Window = "PlayerInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Sobrenome:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            new Rule { Window = "PlayerInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Nome:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            new Rule { Window = "PlayerInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Posição:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            new Rule { Window = "PlayerInfo", Name = "Text1", Under = "G:goInfoRoot_En", TextIs = "Reino:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            // Ficha do NPC: Nome, Raça, Sexo e Carisma na coluna de "Interesses:"; Seita, Posição e Reino na de "Reputação:".
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Nome:", Sibling = "Text2",
+                Offset = LabelColumn(InterestsWidth) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Raça:", Sibling = "Text2",
+                Offset = LabelColumn(InterestsWidth) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Sexo:", Sibling = "Text2",
+                Offset = LabelColumn(InterestsWidth) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Carisma:", Sibling = "Text2",
+                Offset = LabelColumn(InterestsWidth) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Seita:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Posição:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            new Rule { Window = "NPCInfo", Name = "Text1", Under = "G:goInfoRoot", TextIs = "Reino:", Sibling = "Text2",
+                Offset = LabelColumn(ReputationWidth) },
+            // Pavilhão dos Manuais: o balão cresce para baixo até caber a fala da atendente.
+            new Rule { Window = "TownMarketBook", Name = "Image (1)", Parent = "G:goDialogue", Height = BookBalloonHeight,
+                Offset = rt => new Vector2(0f, -(BookBalloonHeight - BookBalloonBase) / 2f) },
+            // Forja: a primeira linha descia cortada pela borda da lista.
+            new Rule { Window = "TownFactoryMadeShape", Name = "G:goItemRoot_En", PadTop = FactoryListPad },
             // Conquistas e dificuldade.
             new Rule { Window = "Achievement", Name = "G:textGetNum", NoWrap = true, MaxWidth = 195f },
             new Rule { Window = "Difficulty", Name = "G:textDieDesc_En", Size = 16 },
             // Outras telas com a segunda linha cortada.
-            new Rule { Window = "MinMap", Prefix = "G:textTgl", NoWrap = true, MaxWidth = 124f },
+            // Mapa-múndi: o texto do filtro começa depois do ícone e termina dentro do botão.
+            new Rule { Window = "MinMap", Prefix = "G:textTgl", Under = "G:goFilterItemRoot", NoWrap = true, MaxWidth = 108f,
+                Offset = rt => new Vector2(MapFilterRight, 0f) },
+            new Rule { Window = "MinMap", Prefix = "G:textTgl", Under = "G:goUnitFilter_En", NoWrap = true, MaxWidth = 52f },
             new Rule { Window = "PlayerInfo", Name = "G:textMartialTrain", NoWrap = true, MaxWidth = 146f },
             new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "Group:Art", FitMin = 11 },
             new Rule { Window = "ElderSkillInfo", Name = "G:textDescTitle", NoWrap = true },
@@ -447,12 +492,23 @@ namespace MOD_6b2SYs
             {
                 AfterLabel(tr, rule.AfterLabel);
             }
-            if (rule.Width > 0f)
+            if (rule.Width > 0f || rule.Height > 0f)
             {
                 var box = tr.TryCast<RectTransform>();
-                if (box != null && box.sizeDelta.x != rule.Width)
+                Vector2 size = box == null ? Vector2.zero
+                    : new Vector2(rule.Width > 0f ? rule.Width : box.sizeDelta.x, rule.Height > 0f ? rule.Height : box.sizeDelta.y);
+                if (box != null && box.sizeDelta != size)
                 {
-                    box.sizeDelta = new Vector2(rule.Width, box.sizeDelta.y);
+                    box.sizeDelta = size;
+                }
+            }
+            if (rule.PadTop > 0)
+            {
+                var layout = tr.GetComponent<UnityEngine.UI.LayoutGroup>();
+                if (layout != null && layout.padding.top != rule.PadTop)
+                {
+                    layout.padding.top = rule.PadTop;
+                    UnityEngine.UI.LayoutRebuilder.MarkLayoutForRebuild(tr.TryCast<RectTransform>());
                 }
             }
             if (rule.Offset == null)
@@ -511,12 +567,17 @@ namespace MOD_6b2SYs
             {
                 t.fontSize = rule.Size;
             }
-            if (rule.MaxWidth > 0f)
+            float maxWidth = rule.MaxWidth;
+            if (rule.MaxRowWidth > 0f)
+            {
+                maxWidth = rule.MaxRowWidth - t.rectTransform.parent.TryCast<RectTransform>().rect.width;
+            }
+            if (maxWidth > 0f)
             {
                 float width = t.preferredWidth;
-                if (width > rule.MaxWidth)
+                if (width > maxWidth)
                 {
-                    t.fontSize = Math.Max(1, (int)(t.fontSize * rule.MaxWidth / width));
+                    t.fontSize = Math.Max(1, (int)(t.fontSize * maxWidth / width));
                 }
             }
             if (rule.Translate)
@@ -858,6 +919,14 @@ namespace MOD_6b2SYs
         }
 
         /// <summary>Texto de várias linhas centrado no rótulo: desce até a primeira linha ficar na altura dele.</summary>
+        /// <summary>
+        /// Rótulo alinhado à direita passa a começar onde começa um rótulo desta largura; o valor anda junto.
+        /// </summary>
+        private static Func<RectTransform, Vector2> LabelColumn(float width)
+        {
+            return rt => new Vector2(rt.rect.width - width, 0f);
+        }
+
         private static Vector2 FirstLineOnLabel(RectTransform rt)
         {
             var t = rt.GetComponent<UnityEngine.UI.Text>();

@@ -16,6 +16,9 @@ namespace MOD_6b2SYs
     {
         private const string ModSoleID = "6b2SYs";
         private static int count;
+        private static readonly System.Text.RegularExpressions.Regex Hanzi =
+            new System.Text.RegularExpressions.Regex(@"[一-鿿]");
+        private static readonly HashSet<string> LongHanzi = new HashSet<string>();
 
         public static void Tick()
         {
@@ -75,6 +78,12 @@ namespace MOD_6b2SYs
             string clean = text.Replace("\r", "").Replace("\n", "\\n").Replace("\t", " ");
             if (clean.Length > 80)
             {
+                // Texto longo ainda em chinês: guarda inteiro, para poder ser traduzido.
+                if (Hanzi.IsMatch(clean) && LongHanzi.Add(clean))
+                {
+                    File.AppendAllText(Path.Combine(g.mod.GetModPathRoot(ModSoleID), "ptbr_hanzi_longos.txt"),
+                        clean + "\n", new UTF8Encoding(false));
+                }
                 clean = clean.Substring(0, 80) + "…";
             }
             var parent = c.transform.parent;

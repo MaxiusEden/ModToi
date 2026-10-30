@@ -41674,8 +41674,12 @@
  "yinyangEyeSoul3007": {
   "ch": "防盗魂",
   "en": "Ward Soul",
-  "pt": "Alma Guardiã",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Alma Protetora",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true,
+  "revisar": [
+   "largura: 14 > 12 caracteres"
+  ]
  },
  "yinyangEyeSoul3008": {
   "ch": "劫掠魂",
