@@ -106,3 +106,4 @@ p103: 2 corrigidas
 p104: 4 corrigidas
 p105: 0 corrigidas
 p106: 2 corrigidas (dúvida: 'loach' traduzido como 'dojô' em 6001202-6001272; 'dojô' também é o salão de artes marciais)
+p107: 1 corrigida
