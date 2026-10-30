@@ -480,8 +480,11 @@
  "common_waimao": {
   "ch": "外貌",
   "en": "Appearance",
-  "pt": "Visual",
-  "auto": "gemini-3-flash-preview+teste-jogo"
+  "pt": "Aparência",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 9 > 6 caracteres"
+  ]
  },
  "common_waizaixingge": {
   "ch": "外在性格",
@@ -540,8 +543,8 @@
  "common_yifu": {
   "ch": "衣服",
   "en": "Outfit ",
-  "pt": "Roupa ",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Traje ",
+  "auto": "nuvem/revisao-prioridade"
  },
  "common_youlian": {
   "ch": "右脸",

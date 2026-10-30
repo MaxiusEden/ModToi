@@ -134,8 +134,8 @@
  "taskDesc102001": {
   "ch": "使用宗门提供的素材{costItem}，炼制一炉丹药，并将炼成的丹药上交给宗门，若炼制失败则此任务失败。",
   "en": "Use the material ({costItem}) provided by your sect to concoct Elixirs, then submit them to your sect. If the concoction fails, this mission will fail.",
-  "pt": "Use o material ({costItem}) fornecido pela sua seita para preparar Elixires e depois entregue-os à sua seita. Se a preparação falhar, esta missão fracassará.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Use o material ({costItem}) fornecido pela sua seita para preparar Elixires e depois entregue-os à sua seita. Se a preparação falhar, esta missão falhará.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc103001": {
   "ch": "清理一个宗门领地内的怪物。",
@@ -494,8 +494,8 @@
  "taskDesc1101004": {
   "ch": "前往云陌州拍卖会取得冰铅转交给霜凌。",
   "en": "Acquire Frost Lead at the Yun Mo Auction and deliver it to Shuang Ling.",
-  "pt": "Adquira Chumbo Frost no Leilão de Yun Mo e entregue-o a Shuang Ling.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Adquira Chumbo Gélido no Leilão de Yun Mo e entregue-o a Shuang Ling.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc1108116": {
   "ch": "前往{dungeonID}消灭{dungeonBoss}，取其魂珠。",
@@ -866,8 +866,8 @@
  "taskDesc1110072": {
   "ch": "帮助魃取来乌风草。\n据说乌风草会在{#areaName8}中的拍卖会上出现。\n拍卖会每隔2年举办一次。",
   "en": "Get Darkwind Grass for the Drought Demon.\nDarkwind Grass is auctioned off in {#areaName8}.\nThe auction there happens every 2 years.",
-  "pt": "Consiga Grama Darkwind para o Demônio da Seca.\nA Grama Darkwind é leiloada em {#areaName8}.\nO leilão de lá acontece a cada 2 anos.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Consiga a Grama do Vento Sombrio para o Demônio da Seca.\nA Grama do Vento Sombrio é leiloada em {#areaName8}.\nO leilão de lá acontece a cada 2 anos.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc1110101": {
   "ch": "魂灯里传出奇怪的声音，你打算去宗门里问问同门。",
@@ -1028,14 +1028,14 @@
  "taskDesc1111021": {
   "ch": "炼制一次法宝。\n\n\n法宝炼制之法：\n击杀<r>玄晶石灵</r>与<r>黯炎邪面</r>可分别获得用于提升矿材资质与炼器资质的书籍。\n在各区域城镇的<r>工坊</r>内，可以购买各个法宝的炼器谱，学习后便可通过<r>技艺</r>进行炼器。\n炼器需要核心材料、辅助材料、稀有材料与炼器真火四种物品。\n核心材料可以通过击杀各区域的<r>妖兽之王</r>获得。\n辅助材料可以通过击杀普通怪物、挑战陨幽谷或在各大区域挖矿获得。\n稀有材料可以通过华封州的六处特殊区域、云陌州的乾坤元境、永恒冰原的五处镇灵、暮仙州的六处道界等区域产出。\n炼器真火可以通过宗门贡献在宗门<r>聚宝仙楼</r>中兑换得到。",
   "en": "Forge an artifact.\n\n\nForging Artifacts:\nKill <r>Dark Crystal Spirit</r> and <r>Darkfire Mask</r> to obtain books that increase your Ore and Forge stats.\nBuy Forge Charts from <r>Workshops</r> in various Towns. Learn them to forge the corresponding artifacts via <r>artisanship</r>.\nForging an artifacts consumes a Core Material, as well as Supplementary Materials, Rare Materials, and the matching type of Samadhi Flame.\nKill <r>Mythical Beast Lords</r> in various areas to obtain Core Materials.\nKill normal monsters or challenge Fallen Valley to obtain Supplementary Materials. They can also be mined in various areas.\nRare Materials are obtained from the 6 special areas in Hua Feng, Land of the Beginning (Yun Mo), the 5 sealed creatures in Everfrost, the 6 Tao Realms in Mu Xian, etc.\nSpend Sect Contribution to redeem Samadhi Flames at the <r>Treasure Pavilion</r> in your sect.",
-  "pt": "Forje um artefato.\n\n\nForja de Artefatos:\nMate o <r>Espírito do Cristal Negro</r> e a <r>Máscara de Fogo Negro</r> para obter livros que aumentam seus atributos de Minério e Forja.\nCompre Diagramas de Forja nas <r>Oficinas</r> de várias Vilas. Aprenda-os para forjar os artefatos correspondentes por meio do <r>artesanato</r>.\nForjar um artefato consome um Material Central, além de Materiais Complementares, Materiais Raros e o tipo correspondente de Chama Samadhi.\nMate <r>Senhores das Feras Míticas</r> em várias regiões para obter Materiais Centrais.\nMate monstros comuns ou desafie o Vale Caído para obter Materiais Complementares. Eles também podem ser minerados em várias regiões.\nOs Materiais Raros são obtidos nas 6 áreas especiais de Hua Feng, na Terra do Princípio (Yun Mo), nas 5 criaturas seladas de Geada Eterna, nos 6 Reinos do Dao de Mu Xian, etc.\nGaste Contribuição da Seita para trocar por Chamas Samadhi no <r>Pavilhão do Tesouro</r> da sua seita.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Forje um artefato.\n\n\nForja de Artefatos:\nMate o <r>Espírito do Cristal Negro</r> e a <r>Máscara de Fogo Negro</r> para obter livros que aumentam seus atributos de Minério e Forja.\nCompre Diagramas de Forja nas <r>Oficinas</r> de várias Vilas. Aprenda-os para forjar os artefatos correspondentes por meio do <r>artesanato</r>.\nForjar um artefato consome um Material Central, além de Materiais Suplementares, Materiais Raros e o tipo correspondente de Chama Samadhi.\nMate <r>Senhores das Feras Míticas</r> em várias regiões para obter Materiais Centrais.\nMate monstros comuns ou desafie o Vale Caído para obter Materiais Suplementares. Eles também podem ser minerados em várias regiões.\nOs Materiais Raros são obtidos nas 6 áreas especiais de Hua Feng, na Terra do Começo (Yun Mo), nas 5 criaturas seladas de Geada Eterna, nos 6 Reinos do Dao de Mu Xian, etc.\nGaste Contribuição da Seita para trocar por Chamas Samadhi no <r>Pavilhão do Tesouro</r> da sua seita.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc1111022": {
   "ch": "蝶怨仙子委托你为蚀心殿的发展做出贡献——将一名天骄的道心粉碎。",
   "en": "Bitterfly Spirit tasked you with a job that will help the Mindsnap Temple: Shatter the Taoist Mind of a Heaven-chosen.",
-  "pt": "Espírito Bitterfly lhe deu uma tarefa que ajudará o Templo Quebra-Mente: Despedaçar o Coração do Dao de um Escolhido do Céu.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "O Espírito Borboleta lhe deu uma tarefa que ajudará o Templo Quebra-Mente: Despedaçar o Coração do Dao de um Escolhido do Céu.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc1111023": {
   "ch": "积攒修为，突破至下一境界。",
@@ -1436,32 +1436,32 @@
  "taskDesc117001": {
   "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
   "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
-  "pt": "Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Cumpra o último desejo de {dieName} entregando os pertences de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc117002": {
   "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
   "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
-  "pt": "Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Cumpra o último desejo de {dieName} entregando os pertences de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc117003": {
   "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
   "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
-  "pt": "Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Cumpra o último desejo de {dieName} entregando os pertences de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc117004": {
   "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
   "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
-  "pt": "Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Cumpra o último desejo de {dieName} entregando os pertences de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc117005": {
   "ch": "为了满足{dieName}的心愿，将{dieName}的遗物交给{targetName}吧！如若在{taskTime}内没有达成，似乎会有不好的事情发生…",
   "en": "Fulfill {dieName}'s dying wish by giving {dieName}'s belonging to {targetName}! Something bad will happen if you fail to do so within {taskTime}.",
-  "pt": "Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Cumpra o último desejo de {dieName} entregando os pertences de {dieName} a {targetName}! Algo ruim acontecerá se você não conseguir fazê-lo em {taskTime}.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc126001": {
   "ch": "帮助{unitName}寻找{troubleDesc}——将其所需之物寻得并通过赠送给予此人便可助其消除烦恼，完成任务。",
@@ -1484,8 +1484,8 @@
  "taskDesc129001": {
   "ch": "与{npcName}一同掠夺{eventName}。",
   "en": "Raid {eventName} with {npcName}.",
-  "pt": "Ataque {eventName} com {npcName}.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Invada {eventName} com {npcName}.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc130001": {
   "ch": "进攻{attackName}{eventName}",
@@ -1526,8 +1526,8 @@
  "taskDesc131001": {
   "ch": "为了重振御龙山庄，需要先将宗门的名誉提升至<r>{attrValue}</r>。\n完成宗门任务或派遣记名弟子执行外务堂的任务即可提升宗门名誉。",
   "en": "In order to restore Dragon Mountain Hamlet, you must first raise the Prestige of the Sect to <r>{attrValue}</r>.\nCompleting Sect Missions or dispatching notable disciples to take care of External Affair missions will increase Sect Prestige.",
-  "pt": "Para restaurar o Povoado da Montanha do Dragão, você precisa primeiro elevar o Prestígio da Seita a <r>{attrValue}</r>.\nConcluir Missões da Seita ou enviar discípulos notáveis para cuidar das missões de Assuntos Externos aumentará o Prestígio da Seita.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Para restaurar o Aldeia da Montanha do Dragão, você precisa primeiro elevar o Prestígio da Seita a <r>{attrValue}</r>.\nConcluir Missões da Seita ou enviar discípulos notáveis para cuidar das missões de Assuntos Externos aumentará o Prestígio da Seita.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc132001": {
   "ch": "将{dieName}的{targetPropsName}交给{targetUnitName}。根据{dieName}的消息去{townName}的酒馆打听一下吧。",
@@ -1634,8 +1634,8 @@
  "taskDesc2110105": {
   "ch": "为了让旱魃离开此地，帮助魃寻找乌风草。\n据说乌风草会在{#areaName8}中的拍卖会上出现。\n拍卖会每隔2年举办一次。",
   "en": "Get Darkwind Grass for the Drought Demon so that she'll leave this area.\nDarkwind Grass is auctioned off in {#areaName8}.\nThe auction there happens every 2 years.",
-  "pt": "Consiga Grama Darkwind para o Demônio da Seca para que ela deixe esta região.\nA Grama Darkwind é leiloada em {#areaName8}.\nO leilão de lá acontece a cada 2 anos.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Consiga a Grama do Vento Sombrio para o Demônio da Seca para que ela deixe esta região.\nA Grama do Vento Sombrio é leiloada em {#areaName8}.\nO leilão de lá acontece a cada 2 anos.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110106": {
   "ch": "阿夸就快不行了，赶紧前去帮助他恢复状态吧。\n给予夸父{itemLink6361026}可帮助夸父回复体力；给予夸父{itemLink6361016}可帮助夸父回复精力与健康。",
@@ -1670,8 +1670,8 @@
  "taskDesc2110111": {
   "ch": "为了借到溟霖鼎，帮助计蒙收集他喜欢的东西。\n将任意3个<r>玉器</r>交给计蒙。",
   "en": "Get Jimeng what he wants so that he'll lend you the Water Dragon Tripod.\nCollect any 3 pieces of <r>Jadeware</r> for Jimeng.",
-  "pt": "Consiga para Jimeng o que ele quer, para que ele lhe empreste o Tripé do Dragão de Água.\nColete 3 peças quaisquer de <r>Peças de Jade</r> para Jimeng.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Consiga para Jimeng o que ele quer, para que ele lhe empreste o Tripé do Dragão de Água.\nColete 3 peças quaisquer de <r>artefatos de Jade</r> para Jimeng.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110112": {
   "ch": "回到渭水边上，使用溟霖鼎为暮仙州祈雨。",
@@ -2048,8 +2048,8 @@
  "taskDesc2110551": {
   "ch": "云涯让我收集<r>玄黄母气</r>补充青鳞池灵气。\n此物可在<g>{#areaName4}</g>区域内的{#building1001Name1}、{#building1001Name2}、{#building1001Name3}、{#building1001Name4}、{#building1001Name5}、{#building1001Name6}内，击杀其中出现的<r>大妖兽</r>有概率获得。\n亦可在<g>{#areaName4}</g>区域内的<g>残破锁灵阵</g>中获得<y>（非首次通关）</y>（<g>残破锁灵阵</g>的位置可以去酒馆中打听打听）。（返回青鳞池交任务）",
   "en": "Yun Ya allows me to collect <r>Cosmos Essence</r> to replenish the Qi of the Greenscale Spring.\nWith this, in {#building1001Name1}, {#building1001Name2}, {#building1001Name3}, {#building1001Name4}, {#building1001Name5}, and {#building1001Name6} within the <g>{#areaName4}</g> region, there will be a opportunity to attack the <r>Mythical Beasts</r> that appear.\nThis is also possible in <g>Spiritlock Circle</g> within <g>{#areaName4}</g> <y>(So long as you have already completed the level once)</y> (You can ask about the location of the <g>Spiritlock Circle</g> at the Tavern). (Return to Greenscale Spring to submit)",
-  "pt": "Yun Ya me permite coletar <r>Essência Cósmica</r> para reabastecer o Qi da Fonte de Escamas Verdes.\nCom isso, em {#building1001Name1}, {#building1001Name2}, {#building1001Name3}, {#building1001Name4}, {#building1001Name5} e {#building1001Name6} dentro da região de <g>{#areaName4}</g>, haverá uma oportunidade de atacar as <r>Feras Míticas</r> que aparecerem.\nIsso também é possível no <g>Círculo Prende-Espíritos</g> dentro de <g>{#areaName4}</g> <y>(desde que você já tenha concluído o nível uma vez)</y> (Você pode perguntar sobre a localização do <g>Círculo Prende-Espíritos</g> na Taverna). (Volte à Fonte de Escamas Verdes para entregar)",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Yun Ya me permite coletar <r>Essência Cósmica</r> para reabastecer o Qi da Fonte da Escama Verde.\nCom isso, em {#building1001Name1}, {#building1001Name2}, {#building1001Name3}, {#building1001Name4}, {#building1001Name5} e {#building1001Name6} dentro da região de <g>{#areaName4}</g>, haverá uma oportunidade de atacar as <r>Feras Míticas</r> que aparecerem.\nIsso também é possível no <g>Círculo de Bloqueio de Espíritos</g> dentro de <g>{#areaName4}</g> <y>(desde que você já tenha concluído o nível uma vez)</y> (Você pode perguntar sobre a localização do <g>Círculo de Bloqueio de Espíritos</g> na Taverna). (Volte à Fonte da Escama Verde para entregar)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110552": {
   "ch": "钦原宗门附近伤害百姓，为了宗门附近安宁，必须再次驱逐这只妖怪。",
@@ -2072,8 +2072,8 @@
  "taskDesc2110556": {
   "ch": "这些竹妖成群结队，都往一个地方逃去，像是有人在暗中指挥。不妨跟随过去看看究竟是什么人在捣鬼。",
   "en": "These Bambukis are all escaping in the same direction. There seems to be someone commanding them. I should go after them to find out the mastermind.",
-  "pt": "Estes Bambukis estão todos fugindo na mesma direção. Parece que há alguém comandando-os. Devo ir atrás deles para descobrir o mentor.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Estes Bambuki estão todos fugindo na mesma direção. Parece que há alguém comandando-os. Devo ir atrás deles para descobrir o mentor.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110557": {
   "ch": "回宗门议事大厅找云涯。",
@@ -2096,8 +2096,8 @@
  "taskDesc2110560": {
   "ch": "云涯猜测神秘人竟是觊觎山庄失传秘宝幻龙鳞，此时最重要的便是前往龙涎涧找到龙鳞保证其不被神秘人所得。",
   "en": "Yun Ya thinks the mystery man is coveting the Emerald Dragon Scale, a lost treasure of the hamlet. We must hurry to the Dragon Saliva Gully, find the Dragon Scale, and save it from the mystery man.",
-  "pt": "Yun Ya acha que o homem misterioso cobiça a Escama do Dragão Esmeralda, um tesouro perdido do povoado. Precisamos correr à Ravina da Saliva do Dragão, encontrar a Escama do Dragão e salvá-la do homem misterioso.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Yun Ya acha que o homem misterioso cobiça a Escama do Dragão Esmeralda, um tesouro perdido da aldeia. Precisamos correr à Vala da Saliva do Dragão, encontrar a Escama do Dragão e salvá-la do homem misterioso.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110561": {
   "ch": "云涯近日除去处理宗门事务之外，总在山庄藏经阁逗留，不如前往看望，看看他可有什么难处？",
@@ -2108,8 +2108,8 @@
  "taskDesc2110562": {
   "ch": "云涯似乎正在为什么事情而烦恼，他目前就在山庄门户之外，不妨前去一探。",
   "en": "Yun Ya seems to be worried about something. He's outside the hamlet gate. You should pay him a visit.",
-  "pt": "Yun Ya parece preocupado com algo. Ele está do lado de fora do portão do povoado. Você deveria visitá-lo.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Yun Ya parece preocupado com algo. Ele está do lado de fora do portão da aldeia. Você deveria visitá-lo.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110601": {
   "ch": "有人似乎正在找你……不过却因为什么要事先行赶往了魔族营地，要不要去看看呢……",
@@ -2132,8 +2132,8 @@
  "taskDesc2110604": {
   "ch": "蝶怨仙子邀请你前往蚀心殿一叙，此地绝非寻常修仙之人可入，想必是一番莫大机缘。",
   "en": "Bitterfly Spirit invites you to a chat in the Mindsnap Temple. It's not some place every cultivator can visit. It must be a rare opportunity waiting for you.",
-  "pt": "Espírito Bitterfly convida você para uma conversa no Templo Quebra-Mente. Não é um lugar que todo cultivador pode visitar. Deve haver uma rara oportunidade esperando por você.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "O Espírito Borboleta convida você para uma conversa no Templo Quebra-Mente. Não é um lugar que todo cultivador pode visitar. Deve haver uma rara oportunidade esperando por você.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110610": {
   "ch": "查看李四所赠的幽窟地理图地理图。",
@@ -2270,8 +2270,8 @@
  "taskDesc2110656": {
   "ch": "摘录不远处的神秘洞府的《玄息》秘本并传授风萍末，希望她借此增进修为凝气屏息，探索冥山内部。",
   "en": "Transcribe the Aether Breath Manual in the mysterious cave, and teach Feng Pingmo with the hope that she can use it to improve her cultivation and hold her breath to explore the inside of the Nether Mountains.",
-  "pt": "Transcreva o Manual do Sopro de Éter na caverna misteriosa e ensine-o a Feng Pingmo, na esperança de que ela o use para melhorar seu cultivo e prender a respiração para explorar o interior das Montanhas do Submundo.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Transcreva o Manual do Sopro do Éter na caverna misteriosa e ensine-o a Feng Pingmo, na esperança de que ela o use para melhorar seu cultivo e prender a respiração para explorar o interior das Montanhas do Submundo.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110657": {
   "ch": "风萍末发现冥山内部的开合缝隙，得赶紧将此消息告诉李四，以待下一步营救安排。",
@@ -2330,8 +2330,8 @@
  "taskDesc2110681": {
   "ch": "《羽化真诰》记载，需到幻虚竹海之中取得灵物竹空木心才能借此查得永宁州冥种幽窟的准确位置。",
   "en": "According to the Reborn Canon, you need to obtain Spiritual Item - Bamboo Heart in Illusory Bamboo Forest before locating the Nether Seed Cavern in Yong Ning with it.",
-  "pt": "Segundo o Cânone do Renascimento, você precisa obter o Item Espiritual - Coração de Bambu na Floresta de Bambu Ilusória antes de usá-lo para localizar a Caverna da Semente do Submundo em Yong Ning.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Segundo o Cânone do Renascimento, você precisa obter o Item Espiritual - Coração de Bambu na Floresta Ilusória de Bambu antes de usá-lo para localizar a Caverna da Semente do Submundo em Yong Ning.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110682": {
   "ch": "《羽化真诰》记载，需取得风符才能找到冥种幽窟确切位置，而风符在华封州之中为妖兽争夺。只要找到交战的妖兽，就能找到风符。",
@@ -2348,8 +2348,8 @@
  "taskDesc2110684": {
   "ch": "《羽化真诰》记载，玉髓冰宫在暮仙州中西部空中漂浮不定。而冰芷在这座冰宫之中。",
   "en": "According to the Reborn Canon, the Jade-cored Ice Palace floats above Mu Xian, and the Ice Angelica is grown inside it.",
-  "pt": "Segundo o Cânone do Renascimento, o Palácio de Gelo de Núcleo de Jade flutua sobre Mu Xian, e a Angelica do Gelo cresce dentro dele.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Segundo o Cânone do Renascimento, o Palácio de Gelo com Núcleo de Jade flutua sobre Mu Xian, e a Angelica do Gelo cresce dentro dele.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110685": {
   "ch": "《羽化真诰》记载，只要在洞天之地寂寞沙洲找到<r>汞源</r>，就能借此让冥种幽窟显形。",
@@ -2834,8 +2834,8 @@
  "taskDesc2110827": {
   "ch": "将法宝利锥交给骆瑛。",
   "en": "Give artifact Sharp Awl to Luo Ying.",
-  "pt": "Entregue o artefato Furador Afiado a Luo Ying.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Entregue o artefato Estilete Afiado a Luo Ying.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110828": {
   "ch": "骆瑛坚持想请你就任盟主一职，她仍在问机别院等候你的佳音。",
@@ -2876,8 +2876,8 @@
  "taskDesc2110834": {
   "ch": "侦察出永恒冰原的冰花在玉髓冰宫之上。此天上冰宫已在附近，赶紧设法进入取得冰花。",
   "en": "You have known that the Ice Flower of the Everfrost is on top of the Jade-cored Ice Palace. Now you are near the palace, and you should enter it for the flower as soon as possible.",
-  "pt": "Você soube que a Flor de Gelo de Geada Eterna fica no topo do Palácio de Gelo de Núcleo de Jade. Agora você está perto do palácio e deve entrar nele atrás da flor o quanto antes.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Você soube que a Flor de Gelo de Geada Eterna fica no topo do Palácio de Gelo com Núcleo de Jade. Agora você está perto do palácio e deve entrar nele atrás da flor o quanto antes.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110850": {
   "ch": "刑天近日出现不同寻常的动静，危机迫在眉睫。请你尽快挑战刑天。",
@@ -2948,8 +2948,8 @@
  "taskDesc2110885": {
   "ch": "顾鸢儿打算从古籍里寻找锥子的故事，她打算<r>一个月后</r>找出辟魔的故事。",
   "en": "Gu Yuan’er intends to find the story of the awl from ancient books. She estimates the Exorciser’s story could be found <r>after 1 month</r>.",
-  "pt": "Gu Yuan'er pretende encontrar a história do furador em livros antigos. Ela calcula que a história do Exorcista poderá ser encontrada <r>em 1 mês</r>.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Gu Yuan'er pretende encontrar a história do estilete em livros antigos. Ela calcula que a história do Exorcista poderá ser encontrada <r>em 1 mês</r>.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2110886": {
   "ch": "仙盟回到旧日防线，诸事已逐步安定下来。<r>两个月后</r>便该<r>回仙盟</r>与骆瑛商量今后大事。",
@@ -3230,8 +3230,8 @@
  "taskDesc2111216": {
   "ch": "师青邀请你前往她主持的神鼎观分舵以解除身上的阳亢之毒。",
   "en": "Shi Qing invites you to the branch of the Divine Cauldron Temple managed by her to cure your Surging Yang Poison.",
-  "pt": "Shi Qing convida você à filial do Templo do Caldeirão Divino administrada por ela para curar seu Veneno do Yang Impetuoso.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Shi Qing convida você à filial do Templo do Caldeirão Divino administrada por ela para curar seu Veneno do Yang Turbulento.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2111217": {
   "ch": "药辰尊外出处理事情之前请你在神鼎观周边附近游玩。",
@@ -3296,8 +3296,8 @@
  "taskDesc2111307": {
   "ch": "带领阿禹和阿嬉前往东海遗址。",
   "en": "Travel with Xi and Yu to the remnant in the East Sea.",
-  "pt": "Viaje com Xi e Yu até o vestígio no Mar Oriental.",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Viaje com Xi e Yu até o vestígio no Mar do Leste.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "taskDesc2111308": {
   "ch": "阿禹来到十万大山正四处查看，眼看是十分开心和兴奋。这便跟上阿禹吧。",

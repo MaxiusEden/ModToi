@@ -174,8 +174,8 @@
  "school_building_qinglongyuan": {
   "ch": "青龙渊",
   "en": "青龙渊",
-  "pt": "Abismo do Dragão Azure",
-  "auto": "gemini-2.5-flash"
+  "pt": "Abismo do Dragão Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_building_renwuting": {
   "ch": "任务厅",
@@ -240,8 +240,8 @@
  "school_cansaitishi": {
   "ch": "是否花费{0}点贡献参加小比？",
   "en": "Spend {0} Contribution to fight Duel?",
-  "pt": "Gastar {0} Contribuição para lutar um Duelo?",
-  "auto": "gemini-2.5-flash"
+  "pt": "Gastar {0} Contribuição para disputar um Duelo?",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_cansaitishi2": {
   "ch": "挑战长老将大幅度降低长老对你的好感，是否花费{0}点贡献挑战？",
@@ -264,8 +264,8 @@
  "school_chiyou": {
   "ch": "持有",
   "en": "Owned",
-  "pt": "Possuído",
-  "auto": "gemini-2.5-flash"
+  "pt": "Em posse",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_chuanchengtishi": {
   "ch": "是否花费{0}点贡献挑战宗门传承？",
@@ -1050,8 +1050,11 @@
  "school_paimingtisheng": {
   "ch": "排名提升",
   "en": "Rank Increased",
-  "pt": "Rank Aumentado",
-  "auto": "gemini-2.5-flash"
+  "pt": "Classificação Aumentada",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 23 > 19 caracteres"
+  ]
  },
  "school_point1": {
   "ch": "已被占领资源点",
@@ -1352,32 +1355,32 @@
  "school_task_get42": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": "{0} entregou a Missão: {1}",
-  "auto": "gemini-2.5-flash"
+  "pt": "{0} entregou a missão: {1}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_task_get51": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": "{0} aceitou a Missão: {1}",
-  "auto": "gemini-2.5-flash"
+  "pt": "{0} aceitou a missão: {1}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_task_get52": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": "{0} entregou a Missão: {1}",
-  "auto": "gemini-2.5-flash"
+  "pt": "{0} entregou a missão: {1}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_task_get61": {
   "ch": "{0}接取了任务：{1}",
   "en": "{0} accepted the mission: {1}",
-  "pt": "{0} aceitou a Missão: {1}",
-  "auto": "gemini-2.5-flash"
+  "pt": "{0} aceitou a missão: {1}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_task_get62": {
   "ch": "{0}提交了任务：{1}",
   "en": "{0} submitted the mission: {1}",
-  "pt": "{0} entregou a Missão: {1}",
-  "auto": "gemini-2.5-flash"
+  "pt": "{0} entregou a missão: {1}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_teshuchanchu": {
   "ch": "特殊产出",
@@ -1425,20 +1428,20 @@
  "school_tiaozhantiaojian1": {
   "ch": "（散修满足以下任意条件，即可挑战入门小比）",
   "en": "After meeting any requirement below, Rogue Cultivators can challenge Sect Tryouts",
-  "pt": "(Após cumprir qualquer requisito abaixo, Cultivadores Errantes podem desafiar a Peneira da Seita)",
-  "auto": "gemini-2.5-flash"
+  "pt": "Após cumprir qualquer requisito abaixo, Cultivadores Errantes podem desafiar a Peneira da Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_tiaozhantiaojian2": {
   "ch": "（外门弟子满足以下所有条件，即可挑战内门小比）",
   "en": "After meeting all the requirements below, Initiate Disciples can challenge Promotion Duel (Disciple)",
-  "pt": "(Após cumprir todos os requisitos abaixo, Discípulos Externos podem desafiar o Duelo de Promoção (Discípulo Interno))",
-  "auto": "gemini-2.5-flash"
+  "pt": "Após cumprir todos os requisitos abaixo, Discípulos Externos podem desafiar o Duelo de Promoção (Discípulo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_tiaozhantiaojian3": {
   "ch": "（内门弟子满足以下所有条件，即可挑战真传小比）",
   "en": "After meeting all the requirements below, Disciple Disciples can challenge Promotion Duel (True Disciple)",
-  "pt": "(Após cumprir todos os requisitos abaixo, Discípulos Internos podem desafiar o Duelo de Promoção (Discípulo Verdadeiro))",
-  "auto": "gemini-2.5-flash"
+  "pt": "Após cumprir todos os requisitos abaixo, Discípulos Internos podem desafiar o Duelo de Promoção (Discípulo Verdadeiro)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "school_tiaozhantiaojian4": {
   "ch": "（真传弟子满足以下所有条件，即可挑战长老小比）",

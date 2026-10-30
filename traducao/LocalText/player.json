@@ -162,8 +162,11 @@
  "player_huixinbeilv": {
   "ch": "暴击倍数",
   "en": "CRIT DMG",
-  "pt": "Dano Crítico",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Mult. Crítico",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 13 > 12 caracteres"
+  ]
  },
  "player_huolinggen": {
   "ch": "火灵根",
@@ -518,8 +521,8 @@
  "player_woodGrowRate": {
   "ch": "木属性法技能熟练度提升倍率",
   "en": "Wood Skill Proficiency Increase Rate",
-  "pt": "Taxa de Aumento de Proficiência de Habilidade de Madeira",
-  "auto": "gemini-2.5-flash"
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Madeira",
+  "auto": "nuvem/revisao-prioridade"
  },
  "player_wumian": {
   "ch": "功法抗性",

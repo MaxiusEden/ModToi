@@ -26,8 +26,11 @@
  "storePropNameS104": {
   "ch": "邪刃",
   "en": "Felblade",
-  "pt": "Lâmina Vil",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Lâmina Maligna",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "storePropNameS1101": {
   "ch": "豪火术",

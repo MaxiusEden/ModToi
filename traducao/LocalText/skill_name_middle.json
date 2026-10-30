@@ -1082,8 +1082,11 @@
  "skill_name_middle22115": {
   "ch": "邪刃",
   "en": "Felblade",
-  "pt": "Lâmina Vil",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Lâmina Maligna",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "skill_name_middle22116": {
   "ch": "横扫刀",
@@ -1712,7 +1715,7 @@
  "skill_name_middle56114": {
   "ch": "活灵术",
   "en": "Floral Spirit",
-  "pt": "Espírito Vital",
+  "pt": "Espírito Floral",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_name_middle56115": {
@@ -2318,7 +2321,7 @@
  "skill_name_middle7383": {
   "ch": "天崩地裂",
   "en": "Sundering Strike",
-  "pt": "Golpe Sundering",
+  "pt": "Golpe Cindidor",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_name_middle7384": {
@@ -3260,13 +3263,13 @@
  "skill_name_middle8041": {
   "ch": "孽刃尖刺",
   "en": "Vile Spikes",
-  "pt": "Espinhos Vilões",
+  "pt": "Espinhos Vis",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_name_middle804166": {
   "ch": "孽刃尖刺",
   "en": "Vile Spikes",
-  "pt": "Espinhos Vilões",
+  "pt": "Espinhos Vis",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_name_middle8042": {

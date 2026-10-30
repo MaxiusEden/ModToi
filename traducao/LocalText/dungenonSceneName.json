@@ -224,8 +224,8 @@
  "dungenonSceneName26": {
   "ch": "宗门战-神兽头部",
   "en": "Sect Battle - Guardian Head",
-  "pt": "Batalha da Seita - Cabeça da Besta Divina",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Batalha da Seita - Cabeça do Guardião",
+  "auto": "nuvem/revisao-prioridade"
  },
  "dungenonSceneName2671": {
   "ch": "化神天路",
@@ -254,14 +254,14 @@
  "dungenonSceneName2811": {
   "ch": "噬魂塔",
   "en": "Soul Devouring Pagoda",
-  "pt": "Pagode Devorador de Almas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pagoda Devoradora de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "dungenonSceneName2871": {
   "ch": "噬魂塔",
   "en": "Soul Devouring Pagoda",
-  "pt": "Pagode Devorador de Almas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pagoda Devoradora de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "dungenonSceneName29": {
   "ch": "宗门战-蛫-左下",
@@ -290,8 +290,8 @@
  "dungenonSceneName31": {
   "ch": "宗门战-蛫-右上",
   "en": "Sect Battle - Gui - Top Right",
-  "pt": "Batalha da Seita - Gui - Superior Direito",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Batalha da Seita - Gui - Parte Superior Direita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "dungenonSceneName3101": {
   "ch": "宗门大比-积分赛（高级）",
@@ -566,8 +566,11 @@
  "dungenonSceneName6100": {
   "ch": "澎湖仙境",
   "en": "Penghu Wonderland",
-  "pt": "Maravilha de Penghu",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "País das Maravilhas de Penghu",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 23 caracteres"
+  ]
  },
  "dungenonSceneName6200": {
   "ch": "琅琊阁深处",
@@ -602,8 +605,8 @@
  "dungenonSceneName7171": {
   "ch": "仙池",
   "en": "Sacred Pond",
-  "pt": "Lagoa Sagrada",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lago Sagrado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "dungenonSceneName7201": {
   "ch": "精卫海",

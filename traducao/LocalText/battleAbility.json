@@ -68,8 +68,8 @@
  "battleAbility_suitCall10017": {
   "ch": "震山河·",
   "en": "[Overlord]",
-  "pt": "[Suserano]",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "[Soberano]",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitCall10018": {
   "ch": "乾坤转·",
@@ -224,8 +224,8 @@
  "battleAbility_suitDesc1_10008": {
   "ch": "对怪物造成伤害时，有概率掉落灵石。",
   "en": "Dealing damage to monsters has a certain chance to drop Spirit Stones.",
-  "pt": "Causar dano a monstros tem uma certa chance de dropar Pedras Espirituais.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Causar dano a monstros tem uma certa chance de soltar Pedras Espirituais.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc1_10009": {
   "ch": "造成伤害+10%。",
@@ -260,8 +260,8 @@
  "battleAbility_suitDesc1_10014": {
   "ch": "刀系武技造成伤害后，增加邪刃数量+1，最大叠加20层。",
   "en": "After Blade Martial Skills deal damage, the amount of Felblade is increased by 1. Stackable at max 20 times.",
-  "pt": "Após Técnicas Marciais de Lâmina causarem dano, a quantidade de Lâmina Má aumenta em 1. Empilhável até 20 vezes.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Após Técnicas Marciais de Lâmina causarem dano, a quantidade de Lâmina Maligna aumenta em 1. Acumulável até 20 vezes.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc1_10015": {
   "ch": "鬼狱枪的范围和数量变为3倍。",
@@ -278,8 +278,8 @@
  "battleAbility_suitDesc1_10017": {
   "ch": "当震天拳使敌人晕眩后，在10秒内，震天拳的蓄力时间降低为0.1秒。",
   "en": "During the 10s after Colossal Fist stuns an enemy, Colossal Fist charging time is reduced to 0.1s.",
-  "pt": "Durante os 10s após o Punho Colosso atordoar um inimigo, o tempo de carregamento do Punho Colosso é reduzido para 0.1s.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Durante os 10s após o Punho Colosso atordoar um inimigo, o tempo de carregamento do Punho Colosso é reduzido para 0,1s.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc1_10018": {
   "ch": "若你拥有护盾，则每次使用裂地拳时，会消耗10%的护盾（且最大不超过5000），每消耗100点护盾可提升裂地拳的范围和伤害。",
@@ -302,8 +302,8 @@
  "battleAbility_suitDesc1_10021": {
   "ch": "每使用1次指法绝技，有25%的概率升级轮回指，最多可升到3级。",
   "en": "Each cast of a Finger Special Skill has a 25% chance to upgrade Boomerang Finger, up to Rank 3.",
-  "pt": "Cada uso de uma Técnica Especial de Dedo tem 25% de chance de melhorar o Dedo Bumerangue, até o Rank 3.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Cada uso de uma Técnica Especial de Dedo tem 25% de chance de melhorar o Dedo Bumerangue, até o Nível 3.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc1_10022": {
   "ch": "在隐身状态下使用灵影指，可使本次灵影指的持续时间变为5倍。",
@@ -368,8 +368,8 @@
  "battleAbility_suitDesc1_10032": {
   "ch": "当场上存在3个及以上的土傀儡时（包括超级土傀儡），获得效果：每秒随机在一个土傀儡的位置产生一次震爆。",
   "en": "After there are 3 or more Earth Golems (including Advanced Earth Golems) exist on the battlefield, one blast is triggered at the position of a random Earth Golem per sec.",
-  "pt": "Com 3 ou mais Golem de Terra (incluindo Golem de Terra Avançado) no campo de batalha, um impacto é desencadeado na posição de um Golem de Terra aleatório por segundo.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Com 3 ou mais Golems de Terra (incluindo Golems de Terra Avançados) no campo de batalha, um impacto é desencadeado por segundo na posição de um Golem de Terra aleatório.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc1_10033": {
   "ch": "使用雷系身法后，可获得一次闪避效果，不可叠加。",
@@ -392,8 +392,8 @@
  "battleAbility_suitDesc2_10012": {
   "ch": "斩龙剑气造成超过&8036001_shcs&次伤害后，下一次绝影剑剑影数量+&8036001_ddsl&。",
   "en": "After your Dragonslayer Sword Aura deals &8036001_shcs& times of damage, the amount of Sword Shadows of your next Shadowless Sword +&8036001_ddsl&.",
-  "pt": "Após sua Aura da Espada Matadora de Dragões causar mais de &8036001_shcs& vezes de dano, a quantidade de Sombras de Espada da sua próxima Espada Sem Sombra +&8036001_ddsl&.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Após sua Aura da Espada Matadora de Dragões causar dano &8036001_shcs& vezes, a quantidade de Sombras de Espada da sua próxima Espada Sem Sombra +&8036001_ddsl&.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc2_10013": {
   "ch": "霸道斩改为不跟随自身，而是改为自动寻敌。并且旋转时间越久伤害越高。",
@@ -404,20 +404,20 @@
  "battleAbility_suitDesc2_10014": {
   "ch": "邪刃在达到最远距离后会变更追踪刀刃再次进行攻击。",
   "en": "After reaching the farthest point, Felblade changes its tracking blade to attack again.",
-  "pt": "Ao atingir o ponto mais distante, a Lamina Sombria muda sua lâmina de rastreamento para atacar novamente.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ao atingir o ponto mais distante, a Lâmina Maligna muda sua lâmina de rastreamento para atacar novamente.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc2_10015": {
   "ch": "鬼狱枪每造成一次伤害，碎玉枪的CD-0.1秒。",
   "en": "Each time Hellspear deals damage, Crackling Jade Spear cooldown -0.1s.",
-  "pt": "A cada dano causado pela Lança do Inferno, a recarga da Lança de Jade Estilhaçada diminui 0,1s.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "A cada dano causado pela Lança do Inferno, a recarga da Lança de Jade Crepitante diminui 0,1s.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc2_10016": {
   "ch": "场上每有一个幻像，枪系武技的攻击数量+1。",
   "en": "For every phantom present, Spear Martial Skill's attack attempts +1.",
-  "pt": "Para cada Fantasma presente, as tentativas de ataque da Técnica Marcial de Lança +1.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Para cada fantasma presente, as tentativas de ataque da Técnica Marcial de Lança +1.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitDesc2_10017": {
   "ch": "金刚拳持续期间，每次释放震天拳会额外使所有盾影进行爆发。",
@@ -578,14 +578,14 @@
  "battleAbility_suitName10008": {
   "ch": "采桑子",
   "en": "Mulberry Picker",
-  "pt": "Colhedor de Amora",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Colhedor de Amoras",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10009": {
   "ch": "梦行云",
   "en": "Misty Nimbus",
-  "pt": "Nuvem de Sonho",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Nimbus Nebuloso",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10010": {
   "ch": "破阵子",
@@ -596,20 +596,23 @@
  "battleAbility_suitName10011": {
   "ch": "雪满天",
   "en": "Flurry Snowflakes",
-  "pt": "Nevasca de Flocos",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Rajada de Flocos de Neve",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 24 > 23 caracteres"
+  ]
  },
  "battleAbility_suitName10012": {
   "ch": "玉龙吟",
   "en": "Clinking Jade",
-  "pt": "Dragão de Jade Tinindo",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jade Tilintante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10013": {
   "ch": "断关河",
   "en": "Crimson Land",
-  "pt": "Rio Carmesim",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Terra Carmesim",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10014": {
   "ch": "夜飞红",
@@ -626,20 +629,20 @@
  "battleAbility_suitName10016": {
   "ch": "过龙门",
   "en": "Defiant One",
-  "pt": "O Destemido",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "O Desafiante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10017": {
   "ch": "震山河",
   "en": "Overlord",
-  "pt": "Suserano",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Soberano",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10018": {
   "ch": "乾坤转",
   "en": "Destined Challenger",
-  "pt": "Desafiante do Destino",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Desafiante Predestinado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10019": {
   "ch": "凌波曲",
@@ -662,8 +665,8 @@
  "battleAbility_suitName10022": {
   "ch": "镜中人",
   "en": "Existence Imaged",
-  "pt": "Imagem da Existência",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Existência Refletida",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10023": {
   "ch": "蝶恋花",
@@ -674,8 +677,8 @@
  "battleAbility_suitName10024": {
   "ch": "乱芳华",
   "en": "Spilled Perfume",
-  "pt": "Perfume Derramado",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fragrância Espalhada",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battleAbility_suitName10025": {
   "ch": "潜龙渊",
@@ -704,8 +707,11 @@
  "battleAbility_suitName10029": {
   "ch": "浪淘沙",
   "en": "Finest Sifter",
-  "pt": "Peneira Suprema",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Peneirador Supremo",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 18 > 17 caracteres"
+  ]
  },
  "battleAbility_suitName10030": {
   "ch": "风凌霄",
@@ -722,8 +728,11 @@
  "battleAbility_suitName10032": {
   "ch": "荒灵衍",
   "en": "Earthcracker",
-  "pt": "Quebra-Terra",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Rachador de Terra",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 17 > 16 caracteres"
+  ]
  },
  "battleAbility_suitName10033": {
   "ch": "踏云行",

@@ -80,8 +80,8 @@
  "GodEyeSkills_name_110063": {
   "ch": "送葬墓碑",
   "en": "Lethal Tombstone",
-  "pt": " lápide Mortal",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lápide Mortal",
+  "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_name_110076": {
   "ch": "草木灵生",
@@ -272,14 +272,17 @@
  "GodEyeSkills_name_7321": {
   "ch": "冰棱之印",
   "en": "Icicle Mark",
-  "pt": "Marca do Sículo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Marca do Pingente de Gelo",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 15 caracteres"
+  ]
  },
  "GodEyeSkills_name_7322": {
   "ch": "裂冰风暴",
   "en": "Ice Blizzard",
-  "pt": "Blizzard de Gelo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Nevasca de Gelo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_name_7323": {
   "ch": "冰封三界",
@@ -398,8 +401,8 @@
  "GodEyeSkills_name_7384": {
   "ch": "天崩地裂",
   "en": "Sundering Strike",
-  "pt": "Golpe Sundering",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Golpe Cindidor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_name_7402": {
   "ch": "月食灵珠",
@@ -530,8 +533,11 @@
  "GodEyeSkills_name_7683": {
   "ch": "魔瞳幻术",
   "en": "Pupil Sorcery",
-  "pt": "Feitiçaria do Aluno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Feitiçaria da Pupila",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "GodEyeSkills_name_7684": {
   "ch": "千瞳缭乱",
@@ -554,8 +560,8 @@
  "GodEyeSkills_name_7922": {
   "ch": "灾祸之石",
   "en": "Calamity Stone",
-  "pt": "Pedra do Calamidade",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Pedra da Calamidade",
+  "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_name_79231": {
   "ch": "深渊咆哮",
@@ -578,8 +584,8 @@
  "GodEyeSkills_name_804188": {
   "ch": "孽刃尖刺",
   "en": "Vile Spikes",
-  "pt": "Espinhos Vilões",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espinhos Vis",
+  "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_name_832288": {
   "ch": "炼狱荆棘",

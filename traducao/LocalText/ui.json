@@ -144,14 +144,14 @@
  "ui_cantFindNpc": {
   "ch": "无法定位此人元魂！",
   "en": "Unable to locate this person's soul!",
-  "pt": "Incapaz de localizar a alma desta pessoa!",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Não foi possível localizar a alma desta pessoa!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_common_allRead": {
   "ch": "全部已读",
   "en": "All read",
-  "pt": "Lido tudo",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Tudo lido",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_common_allReadEmail": {
   "ch": "邮件全部已读",
@@ -593,8 +593,8 @@
  "ui_godEyeList_title": {
   "ch": "妖兽技能提升至【{0}】",
   "en": "Upgrade beast skill to [{0}]",
-  "pt": "Melhorar habilidade da fera para [{0}]",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Aprimorar habilidade da fera para [{0}]",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_godEye_bkxf": {
   "ch": "洪荒模式下无法修复",
@@ -760,8 +760,8 @@
  "ui_gogEyeTipsConnect": {
   "ch": "<size=20>功能介绍：</size><size=2>\n\n</size>1.昊天眼的神力可以令你在世界地图上视野范围更广\n2.昊天眼有概率看破其他修仙者背包中尚不可见的物品\n3.当在战斗中陷入危难之时，昊天眼可以发动天道庇佑救助玩家脱离战斗，但发动了神力之后昊天眼会进入破损状态（可以进行修复）\n4.昊天眼神器在战斗中有概率识破妖兽的弱点，将弱点击破即可领悟妖兽的技能并为你所用\n\n<size=20>使用说明\n</size><size=2>\n\n</size>1.战斗外按<r>F</r>键，可快速打开昊天眼神器界面\n2.成功领悟技能后，可以在已领悟妖兽技能中点击按钮进行装配和切换\n3.战斗中按<r>F</r>键，可以释放装配中的妖兽技能\n4.领悟收集指定境界的5个更高境界的妖兽技能后，可点击突破按钮来提升已领悟技能的境界\n5.当昊天眼发动天道庇佑损坏后，可以在神器页面中对其进行修复。需要花费一定灵石，且所需费用会随着境界和修复次数变化而提升\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>\n6.当昊天眼处于破损状态时，无法再次发动天道庇佑；同时也无法使用已装配的妖兽技能，但仍可领悟新的妖兽技能\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>",
   "en": "<size=20>Functions:</size><size=2>\n\n</size>1. The power of the Eye of Providence can give you a wider range of vision on the world map.\n2.The Eye of Providence gives you a chance to see items that are not yet visible in the Inventories of other Cultivators.\n3. When in danger in battle, the Eye of Providence can activate Heavenly Path Protection to help the player leave battle. However, after activating the power, the Eye of Providence will enter be broken (can be repaired).\n4. The Eye of Providence gives you a chance to identify the weaknesses of Monsters in battle, and by attacking the weaknesses, you can gain Insight into the skills of the Monsters and use them for yourself.\n\n<size=20>How to Use\n</size><size=2>\n\n</size>1. Press the <r>F</r> key outside of battle to quickly open the Eye of Providence Artifact interface.\n2. After successfully gaining Insight into the skill, you can click the button to equip and switch among the comprehended Beast Skills.\n3. Press the <r>F</r> key in battle to use the equipped Beast Skill.\n4. After gaining Insight into the skills of 5 collected higher-Realm Monsters of the specified Realm, you can click the Breakthrough button to level up the Realm of the comprehended skills.\n5. When the Eye of Providence activates Heavenly Path Protection and is damaged, you can repair it on the Artifact page. It costs a certain amount of Spirit Stones, and the cost increases with the Realm and the number of times it is repaired.\n<r>(※The Eye of Providence cannot be repaired in Chaos mode※)</r>\n6. When the Eye of Providence is broken, you cannot activate Heavenly Path Protection again. You also cannot use the equipped Beast Skills, but you can still gain Insight into new Beast Skills.\n<r>(※The Eye of Providence cannot be repaired in Chaos mode※)</r>",
-  "pt": "<size=20>Funções:</size><size=2>\n\n</size>1. O Poder do Olho da Providência pode lhe dar um alcance de visão maior no Mapa mundial.\n2. O Olho da Providência lhe dá uma chance de ver Itens que ainda não estão visíveis nos Inventários de outros Cultivadores.\n3. Quando em perigo na Batalha, o Olho da Providência pode ativar a Proteção do Caminho Celestial para ajudar o jogador a sair da Batalha. No entanto, após ativar o Poder, o Olho da Providência ficará quebrado (pode ser reparado).\n4. O Artefato Olho da Providência na Batalha tem uma chance de identificar as fraquezas de Monstros, e ao atacar as fraquezas, você pode obter Percepção sobre as Habilidades dos Monstros e usá-las para si mesmo.\n\n<size=20>Como Usar\n</size><size=2>\n\n</size>1. Pressione a tecla <r>F</r> fora da Batalha para abrir rapidamente a interface do Artefato Olho da Providência.\n2. Após obter Percepção com sucesso sobre a Habilidade, você pode clicar no botão para equipar e alternar entre as Habilidades de Fera compreendidas.\n3. Pressione a tecla <r>F</r> na Batalha para usar a Habilidade de Fera equipada.\n4. Após obter Percepção sobre as Habilidades de 5 Monstros de Reinos superiores coletados do Reino especificado, você pode clicar no botão Avanço para aumentar o Reino das Habilidades compreendidas.\n5. Quando o Olho da Providência ativa a Proteção do Caminho Celestial e está danificado, você pode repará-lo na página do Artefato. Custa uma certa quantidade de Pedras Espirituais, e o Custo aumenta com o Reino e o número de vezes que é reparado.\n<r>(※No modo Caos, o Olho da Providência não pode ser reparado※)</r>\n6. Quando o Olho da Providência está quebrado, você não pode ativar a Proteção do Caminho Celestial novamente. Você também não pode usar as Habilidades de Fera equipadas, mas ainda pode obter Percepção sobre novas Habilidades de Fera.\n<r>(※No modo Caos, o Olho da Providência não pode ser reparado※)</r>",
-  "auto": "gemini-2.5-flash"
+  "pt": "<size=20>Funções:</size><size=2>\n\n</size>1. O poder do Olho da Providência pode lhe dar um alcance de visão maior no mapa mundial.\n2. O Olho da Providência lhe dá uma chance de ver itens que ainda não estão visíveis nos Inventários de outros Cultivadores.\n3. Quando em perigo na batalha, o Olho da Providência pode ativar a Proteção do Caminho Celestial para ajudar o jogador a sair da batalha. No entanto, após ativar o poder, o Olho da Providência ficará quebrado (pode ser reparado).\n4. O Olho da Providência lhe dá uma chance de identificar as fraquezas de Monstros na batalha e, ao atacar as fraquezas, você pode obter Percepção sobre as habilidades dos Monstros e usá-las para si mesmo.\n\n<size=20>Como Usar\n</size><size=2>\n\n</size>1. Pressione a tecla <r>F</r> fora da batalha para abrir rapidamente a interface do Artefato Olho da Providência.\n2. Após obter Percepção com sucesso sobre a habilidade, você pode clicar no botão para equipar e alternar entre as Habilidades de Fera compreendidas.\n3. Pressione a tecla <r>F</r> na batalha para usar a Habilidade de Fera equipada.\n4. Após obter Percepção sobre as habilidades de 5 Monstros de Reinos superiores coletados do Reino especificado, você pode clicar no botão Avanço para elevar o Reino das habilidades compreendidas.\n5. Quando o Olho da Providência ativa a Proteção do Caminho Celestial e é danificado, você pode repará-lo na página do Artefato. Custa uma certa quantidade de Pedras Espirituais, e o custo aumenta com o Reino e o número de vezes que é reparado.\n<r>(※No modo Caos, o Olho da Providência não pode ser reparado※)</r>\n6. Quando o Olho da Providência está quebrado, você não pode ativar a Proteção do Caminho Celestial novamente. Você também não pode usar as Habilidades de Fera equipadas, mas ainda pode obter Percepção sobre novas Habilidades de Fera.\n<r>(※No modo Caos, o Olho da Providência não pode ser reparado※)</r>",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_gogEyeTipsTitle": {
   "ch": "神器使用指南",
@@ -791,8 +791,8 @@
  "ui_gongfaxuanzetishi": {
   "ch": "请选择要升级的功法。",
   "en": "Select a Martial Art to upgrade",
-  "pt": "Por favor, selecione uma Arte Marcial para aprimorar.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Selecione uma Arte Marcial para aprimorar",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_gongfaxuanzetishi2": {
   "ch": "请选择升级获得的词条。",
@@ -839,8 +839,8 @@
  "ui_immortalHallCantTranTips": {
   "ch": "此仙祠未注入过仙力，无法传送",
   "en": "This Shrine has not been infused with Heavenly Power, unable to teleport",
-  "pt": "Este Santuário não foi infundido com Poder Celestial, incapaz de teleportar",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Este Santuário não foi infundido com Poder Celestial; não é possível teletransportar",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_immortalHall_PropTitle": {
   "ch": "选择需要供奉给仙人的物品",
@@ -985,8 +985,8 @@
  "ui_mibaoge_ptextDesc": {
   "ch": "1.投入灵石<#791515>催动莲台</color>生成3个秘宝。\n2.<#791515>取出</color>一个秘宝后其他的秘宝会消失。\n3.每次休整期可以<#791515>催动三次</color>莲台（擂台赛前六次）。\n4.离开秘宝阁后可以将秘宝赐予并<#309841>督战</color>指定弟子。\n5.在适当的时机可以指挥弟子使用秘宝，逆转战局。\n6.离开龙门后秘宝会自行<#791515>消失</color>。",
   "en": "1. Use Spirits Stones to <#791515>Activate Lotus Throne</color> and produce 3 Treasures.\n2. Once a Treasure has been <#791515>Extracted</color> the other treasures disappear.\n3. Each rest period you can <#791515>activate the Lotus Throne 3 times</color> (6 times before the Open Challenge Match).\n4. After leaving the Treasure Vault, give the treasure to and <#309841>Commission</color> an appointed Disciple.\n5. At the appropriate moment, order the Disciple to use the Treasure and turn the tide of battle.\n6. The Treasure will automatically <#791515>Disappear</color> after leaving the Dragon Gate.",
-  "pt": "1. Use Pedras Espirituais para <#791515>Ativar o Trono de Lótus</color> e produzir 3 Tesouros.\n2. Assim que um Tesouro for <#791515>Extraído</color>, os outros tesouros desaparecem.\n3. A cada período de descanso, você pode <#791515>ativar o Trono de Lótus 3 vezes</color> (6 vezes antes da Partida de Desafio Aberto).\n4. Após sair do Cofre de Tesouros, dê o tesouro e <#309841>Comissione</color> um Discípulo designado.\n5. No momento apropriado, ordene ao Discípulo que use o Tesouro e mude o rumo da batalha.\n6. O Tesouro irá <#791515>Desaparecer</color> automaticamente após sair do Portão do Dragão.",
-  "auto": "gemini-3-flash-preview"
+  "pt": "1. Use Pedras Espirituais para <#791515>Ativar o Trono de Lótus</color> e produzir 3 Tesouros.\n2. Assim que um Tesouro for <#791515>Extraído</color>, os outros tesouros desaparecem.\n3. A cada período de descanso, você pode <#791515>ativar o Trono de Lótus 3 vezes</color> (6 vezes antes da Partida de Desafio Aberto).\n4. Após sair do Cofre de Tesouros, entregue o tesouro a um Discípulo designado e <#309841>Comissione</color>-o.\n5. No momento apropriado, ordene ao Discípulo que use o Tesouro e mude o rumo da batalha.\n6. O Tesouro irá <#791515>Desaparecer</color> automaticamente após sair do Portão do Dragão.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_mibaoge_textAutoSubmit": {
   "ch": "",
@@ -1040,8 +1040,8 @@
  "ui_mibaoge_textTimes": {
   "ch": "此次休整还可催动<color=#ff0000>{0}</color>次",
   "en": "Active this rest <color=#ff0000>{0}</color> more times",
-  "pt": "Ainda pode ativar nesta pausa <color=#ff0000>{0}</color> vezes",
-  "auto": "gemini-2.5-flash"
+  "pt": "Ativações restantes neste descanso: <color=#ff0000>{0}</color>",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_mibaoge_times_1": {
   "ch": "一",
@@ -1307,8 +1307,8 @@
  "ui_noHasSkill_lvup": {
   "ch": "背包中没有携带或自身已学习任何符合升级境界的功法！",
   "en": "Does not include in Inventory or has learned any Martial Arts that qualify for the Upgrade Realm!",
-  "pt": "Não possui no Inventário ou não aprendeu nenhuma Arte Marcial que se qualifique para o aprimoramento do Reino!",
-  "auto": "gemini-2.5-flash"
+  "pt": "Não há no Inventário nem foi aprendida nenhuma Arte Marcial que se qualifique para o aprimoramento de Reino!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_noHasSkill_lvup1": {
   "ch": "此宝典的品质无法生成此词条效果。",
@@ -1917,8 +1917,8 @@
  "ui_quxiaoguanzhan": {
   "ch": "",
   "en": "Stop Spectating",
-  "pt": "Parar de Observar",
-  "auto": "gemini-2.5-flash"
+  "pt": "Parar de Assistir",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_rebornSkillInfo_attackState": {
   "ch": "当前：自动攻击",
@@ -2021,8 +2021,8 @@
  "ui_scribbles_textStartTips": {
   "ch": "按压鼠标左键绘画线条，\n点击下方按钮完成画符。",
   "en": "Press and hold LMB to draw.\nClick the button below to finish.",
-  "pt": "Pressione e segure o LMB para desenhar.\nClique no botão abaixo para finalizar.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Pressione e segure o botão esquerdo do mouse para desenhar.\nClique no botão abaixo para finalizar.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_scribbles_wanfashuoming": {
   "ch": "玩法说明：\n<o>参照笔迹图形的虚影部分，按住鼠标左键进行描绘，将虚影部分绘制完成，点击按钮提交完成画符</o>\n1.画符共有3次机会，其中通过1次即可获得符箓产出；但3次均为通过画符将会失败，无法获得符箓产出\n2.符箓绘制需要在限定时间内完成，光标外圈的金色圆环即为倒计时标记；超时将损失1次画符机会\n3.提交绘制结果后，会将已绘制部分与虚影部分进行比对计算，虚影均被涂满且未涂出范围外方可判定通过\n4.拖动鼠标绘制的过程可以中断，无需将将整个笔迹图形一笔画完",
@@ -2352,8 +2352,8 @@
  "ui_xuanzeshengjicitiao": {
   "ch": "请选择升级技能词条",
   "en": "Please select an upgraded skill affix",
-  "pt": "Selecione um afixo de Habilidade aprimorado",
-  "auto": "gemini-2.5-flash"
+  "pt": "Selecione um afixo de habilidade aprimorada",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zhangonghuangongxian": {
   "ch": "兑换宗门贡献",
@@ -2370,20 +2370,20 @@
  "ui_zmdbdj_dragTips": {
   "ch": "可以通过长按鼠标左键拖动道具图标来调换秘宝位置。",
   "en": "Change the location of the Treasure by long pressing the left mouse button and dragging the item icon.",
-  "pt": "Mude a localização do Tesouro pressionando e arrastando o ícone do Item com o botão esquerdo do mouse.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Mude a localização do Tesouro mantendo pressionado o botão esquerdo do mouse e arrastando o ícone do item.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbdj_keyTips": {
   "ch": "键盘点击F1~F5或者左键点击道具即可令场上弟子使用。",
   "en": "Use F1–F5 of the keyboard or click on the item to make Disciples on the battlefield use it.",
-  "pt": "Use F1–F5 do teclado ou clique no Item para que os Discípulos no Campo de Batalha o utilizem.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Use F1–F5 do teclado ou clique no item para que os Discípulos no campo de batalha o utilizem.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbdj_tips": {
   "ch": "宗门的<u>下属弟子</u>可以进行<#55FF33>督战</color>，拥有该弟子督战权限时可为该弟子分配秘宝。当观战督战弟子战斗时，可以<#FF0000>指挥其在对应时机使用秘宝</color>。",
   "en": "The <u>subordinate Disciple</u> of the Sect can carry out a <#55FF33>Commission</color>. When you have the authority to Commission that Disciple's battle, you can assign a Treasure. When watching the Disciple fight, you can <#FF0000>command the Disciple to use the Treasure at the corresponding time</color>.",
-  "pt": "O <u>Discípulo subordinado</u> da Seita pode realizar uma <#55FF33>Supervisão</color>. Quando você tem autoridade para Supervisionar a batalha desse Discípulo, você pode atribuir um Tesouro. Ao observar o Discípulo lutar, você pode <#FF0000>ordenar que o Discípulo use o Tesouro no momento correspondente</color>.",
-  "auto": "gemini-2.5-flash"
+  "pt": "O <u>Discípulo subordinado</u> da Seita pode realizar uma <#55FF33>Comissão</color>. Quando você tem autoridade para comissionar a batalha desse Discípulo, você pode atribuir um Tesouro. Ao observar o Discípulo lutar, você pode <#FF0000>ordenar que o Discípulo use o Tesouro no momento correspondente</color>.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_1": {
   "ch": "一",
@@ -2450,14 +2450,14 @@
  "ui_zmdbjfs_contentIntro": {
   "ch": "宗门积分赛为分别与其它宗门逐一对战的循环赛，胜利<#791515>积3分</color>，平局双方<#791515>各积1分</color>，失败<#791515>不积分</color>。\n积分赛结束时，积分<#791515>前三名</color>可以获得擂台赛<#791515>出战资格</color>，最终角逐宗门大比的前三席位。",
   "en": "The Sect Points Race is a round robin competition against other Sects. Get <#791515>3 points</color> for victory. Both sides earn <#791515>1 point each</color> for a tie, and defeat means <#791515>no points</color>.\nAt the end of the Points Race, the <#791515>Top 3</color> in terms of points can obtain the <#791515>right to participate</color> in the Open Challenge Match, and eventually compete for the top 3 spots in the Sect Tournament.",
-  "pt": "A Corrida de Pontos da Seita é uma competição de pontos corridos contra outras Seitas. Ganhe <#791515>3 Pontos</color> pela vitória. Ambos os lados ganham <#791515>1 Ponto cada</color> por um empate, e a derrota significa <#791515>nenhum Ponto</color>.\nAo final da Corrida de Pontos, os <#791515>3 Melhores</color> em termos de Pontos podem obter o <#791515>direito de participar</color> na Partida de Desafio Aberto, e eventualmente competir pelas 3 primeiras posições no Torneio da Seita.",
-  "auto": "gemini-2.5-flash"
+  "pt": "A Corrida de Pontos da Seita é uma competição de pontos corridos contra outras Seitas. Ganhe <#791515>3 pontos</color> pela vitória. Ambos os lados ganham <#791515>1 ponto cada</color> por um empate, e a derrota significa <#791515>nenhum ponto</color>.\nAo final da Corrida de Pontos, os <#791515>3 melhores</color> em pontos podem obter o <#791515>direito de participar</color> da Partida de Desafio Aberto, e eventualmente competir pelas 3 primeiras posições no Torneio da Seita.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_explain": {
   "ch": "宗门大比积分赛说明：\n1.宗门大比积分赛采用五局三胜循环赛制，先获得三胜方获得本轮胜利。\n2.上一局获胜方先选择出战弟子。对阵过程中允许使用道具栏上的道具和秘宝阁求取的秘宝。",
   "en": "Sect Tournament Points Race Rules:\n1. The Sect Tournament Points Race is a round-robin system where you have to win three out of five. The first to get three wins will win the round.\n2. The winner of the previous round will select Disciples first. During the match, it is allowed to use the items in the item bar and treasures obtained from the Treasury.",
-  "pt": "Regras da Corrida de Pontos do Torneio da Seita:\n1. A Corrida de Pontos do Torneio da Seita é um sistema de pontos corridos onde você tem que vencer três de cinco. O primeiro a conseguir três vitórias vencerá a rodada.\n2. O vencedor da rodada anterior selecionará os Discípulos primeiro. Durante a partida, é permitido usar os Itens na barra de Itens e Tesouros obtidos do Salão do Tesouro.",
-  "auto": "gemini-2.5-flash"
+  "pt": "Regras da Corrida de Pontos do Torneio da Seita:\n1. A Corrida de Pontos do Torneio da Seita é um sistema de pontos corridos onde você tem que vencer três de cinco. O primeiro a conseguir três vitórias vencerá a rodada.\n2. O vencedor da rodada anterior selecionará os Discípulos primeiro. Durante a partida, é permitido usar os itens na barra de itens e os tesouros obtidos no Salão do Tesouro.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_opp": {
   "ch": "对方",
@@ -2516,8 +2516,8 @@
  "ui_zmdbjfs_scoreTextBtnOkPromoted": {
   "ch": "进入擂台赛",
   "en": "Enter Sect Open Challenge Match",
-  "pt": "Entrar na Luta de Desafio Aberto da Seita",
-  "auto": "gemini-2.5-flash"
+  "pt": "Entrar na Partida de Desafio Aberto da Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_scoreTextTips": {
   "ch": "未获得擂台赛资格",
@@ -2608,38 +2608,38 @@
  "ui_zmdbjfs_textSchRank1": {
   "ch": "第一名",
   "en": "1st",
-  "pt": "1o",
-  "auto": "local/hy-mt2"
+  "pt": "1º",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_textSchRank2": {
   "ch": "第二名",
   "en": "2nd",
-  "pt": "2o",
-  "auto": "local/hy-mt2"
+  "pt": "2º",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_textSchRank3": {
   "ch": "第三名",
   "en": "3rd",
-  "pt": "3o",
-  "auto": "local/hy-mt2"
+  "pt": "3º",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_textSchRank4": {
   "ch": "第四名",
   "en": "4th",
-  "pt": "4o",
-  "auto": "local/hy-mt2"
+  "pt": "4º",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_textSchRank5": {
   "ch": "第五名",
   "en": "5th",
-  "pt": "5o",
-  "auto": "local/hy-mt2"
+  "pt": "5º",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_textSchRank6": {
   "ch": "第六名",
   "en": "6th",
-  "pt": "6o",
-  "auto": "local/hy-mt2"
+  "pt": "6º",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_textSelectStud": {
   "ch": "选择弟子",
@@ -2674,8 +2674,8 @@
  "ui_zmdbjfs_tipsBattleTextTitle": {
   "ch": "<color=#FFC700>{0}</color>的秘宝",
   "en": "<color=#FFC700>{0}</color>'s Treasure",
-  "pt": "<color=#FFC700>{0}</color>'s Tesouro",
-  "auto": "local/hy-mt2"
+  "pt": "Tesouro de <color=#FFC700>{0}</color>",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_tipsNotStart": {
   "ch": "暂未开始",
@@ -2824,8 +2824,8 @@
  "ui_zmdbjfs_watchBattle": {
   "ch": "观看战斗",
   "en": "Watch the battle",
-  "pt": "Assista à batalha",
-  "auto": "local/hy-mt2"
+  "pt": "Assistir à batalha",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjfs_watchTextBtnOk": {
   "ch": "确定",
@@ -2842,8 +2842,8 @@
  "ui_zmdbjfs_watchTextTips": {
   "ch": "勾选感兴趣的弟子<#ad0000>进行观战</color>",
   "en": "Check Disciple of interest <#ad0000>to watch the battle</color>",
-  "pt": "Verifique o Discípulo de interesse <#ad0000>para assistir à batalha</color>",
-  "auto": "local/hy-mt2"
+  "pt": "Marque o Discípulo de interesse <#ad0000>para assistir à batalha</color>",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbjg_textBtnClose": {
   "ch": "关闭",
@@ -2914,14 +2914,14 @@
  "ui_zmdblts_readyEnterTips": {
   "ch": "申请下一轮上擂挑战",
   "en": "Apply for the next round of the stage challenge",
-  "pt": "Inscreva-se na próxima rodada do desafio de etapas",
-  "auto": "local/hy-mt2"
+  "pt": "Inscreva-se na próxima rodada do desafio no palco",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdblts_readyEnterTipsCancel": {
   "ch": "取消上擂申请",
   "en": "Cancel stage application",
-  "pt": "Cancelar solicitação de estágio",
-  "auto": "local/hy-mt2"
+  "pt": "Cancelar inscrição no palco",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdblts_speedTextTips": {
   "ch": "点击调整观看速度",
@@ -3016,8 +3016,8 @@
  "ui_zmdblts_titleBatInfoKills": {
   "ch": "击败",
   "en": "Defeat",
-  "pt": "Derrota",
-  "auto": "local/hy-mt2"
+  "pt": "Vencidos",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdblts_titleBatInfoRank": {
   "ch": "排名",
@@ -3082,14 +3082,14 @@
  "ui_zmdbqd_textNo": {
   "ch": "再想想",
   "en": "Think it over",
-  "pt": "Pense bem sobre isso.",
-  "auto": "local/hy-mt2"
+  "pt": "Pensar melhor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbqd_textYes": {
   "ch": "放弃大比",
   "en": "Give up on Tournament",
-  "pt": "Desista do Torneio.",
-  "auto": "local/hy-mt2"
+  "pt": "Desistir do Torneio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "ui_zmdbxr_contentCallPlayer": {
   "ch": "宗门大比即将举行，是否参加？",

@@ -278,32 +278,32 @@
  "item_name1011092": {
   "ch": "五品九转圣阳丹",
   "en": "G5 Sacred Sun Elixir",
-  "pt": "Elixir Sagrado do Sol G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Sol Sagrado G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011093": {
   "ch": "四品九转圣阳丹",
   "en": "G4 Sacred Sun Elixir",
-  "pt": "Elixir Sagrado do Sol G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Sol Sagrado G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011094": {
   "ch": "三品九转圣阳丹",
   "en": "G3 Sacred Sun Elixir",
-  "pt": "Elixir Sagrado do Sol G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Sol Sagrado G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011095": {
   "ch": "二品九转圣阳丹",
   "en": "G2 Sacred Sun Elixir",
-  "pt": "Elixir Sagrado do Sol G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Sol Sagrado G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011096": {
   "ch": "一品九转圣阳丹",
   "en": "G1 Sacred Sun Elixir",
-  "pt": "Elixir Sagrado do Sol G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Sol Sagrado G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011101": {
   "ch": "六品聚气丹",
@@ -518,8 +518,8 @@
  "item_name1011156": {
   "ch": "一品幽冥饮魄丹",
   "en": "G1 Souldrinking Elixir",
-  "pt": "Elixir de Absorção de Alma G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir Bebe-Almas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011161": {
   "ch": "六品蓄力丹",
@@ -632,8 +632,8 @@
  "item_name1011191": {
   "ch": "六品龙力丹",
   "en": "G6 Dragon Force Elixir",
-  "pt": "Elixir da Força do Dragão G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir de Força do Dragão G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011192": {
   "ch": "五品龙力丹",
@@ -1208,32 +1208,47 @@
  "item_name1011351": {
   "ch": "六品十精丸",
   "en": "G6 Deca Essence Pill",
-  "pt": "Pílula de Deca Essência G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Pílula das Dez Essências G6",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "item_name1011352": {
   "ch": "五品十精丸",
   "en": "G5 Deca Essence Pill",
-  "pt": "Pílula de Deca Essência G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Pílula das Dez Essências G5",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "item_name1011353": {
   "ch": "四品十精丸",
   "en": "G4 Deca Essence Pill",
-  "pt": "Pílula de Deca Essência G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Pílula das Dez Essências G4",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "item_name1011354": {
   "ch": "三品十精丸",
   "en": "G3 Deca Essence Pill",
-  "pt": "Pílula de Deca Essência G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Pílula das Dez Essências G3",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "item_name1011355": {
   "ch": "二品十精丸",
   "en": "G2 Deca Essence Pill",
-  "pt": "Pílula de Deca Essência G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Pílula das Dez Essências G2",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "item_name1011356": {
   "ch": "一品十精丸",
@@ -1358,32 +1373,32 @@
  "item_name1011392": {
   "ch": "五品琉璃驻颜丹",
   "en": "G5 Lasting Beauty Elixir",
-  "pt": "Elixir da Beleza Duradoura G5",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Elixir de Beleza Duradoura G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011393": {
   "ch": "四品琉璃驻颜丹",
   "en": "G4 Lasting Beauty Elixir",
-  "pt": "Elixir da Beleza Duradoura G4",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Elixir de Beleza Duradoura G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011394": {
   "ch": "三品琉璃驻颜丹",
   "en": "G3 Lasting Beauty Elixir",
-  "pt": "Elixir da Beleza Duradoura G3",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Elixir de Beleza Duradoura G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011395": {
   "ch": "二品琉璃驻颜丹",
   "en": "G2 Lasting Beauty Elixir",
-  "pt": "Elixir da Beleza Duradoura G2",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Elixir de Beleza Duradoura G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011396": {
   "ch": "一品琉璃驻颜丹",
   "en": "G1 Lasting Beauty Elixir",
-  "pt": "Elixir da Beleza Duradoura G1",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Elixir de Beleza Duradoura G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011401": {
   "ch": "六品开阳丹",
@@ -1478,20 +1493,20 @@
  "item_name1011424": {
   "ch": "三品融灵丹",
   "en": "G3 Spirit Melting Elixir",
-  "pt": "Elixir Fundidor de Espírito G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Fusão Espiritual G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011425": {
   "ch": "二品融灵丹",
   "en": "G2 Spirit Melting Elixir",
-  "pt": "Elixir Fundidor de Espírito G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Fusão Espiritual G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011426": {
   "ch": "一品融灵丹",
   "en": "G1 Spirit Melting Elixir",
-  "pt": "Elixir Fundidor de Espírito G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Fusão Espiritual G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011431": {
   "ch": "六品炼神丹",
@@ -1598,8 +1613,8 @@
  "item_name1011456": {
   "ch": "一品炼魂丹",
   "en": "G1 Soul Refining Elixir",
-  "pt": "Elixir de Refino de Alma G1",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir Refinador de Alma G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011461": {
   "ch": "六品筑基丹",
@@ -2216,38 +2231,38 @@
  "item_name1011631": {
   "ch": "六品登仙丹",
   "en": "G6 Transcendent Elixir (Yellow)",
-  "pt": "Elixir da Transcendência (Amarelo) G6",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Elixir da Transcendência G6 (Amarelo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011632": {
   "ch": "五品登仙丹",
   "en": "G5 Transcendent Elixir (Yellow)",
-  "pt": "Elixir da Transcendência (Amarelo) G5",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Elixir da Transcendência G5 (Amarelo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011633": {
   "ch": "四品登仙丹",
   "en": "G4 Transcendent Elixir (Yellow)",
-  "pt": "Elixir da Transcendência (Amarelo) G4",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Elixir da Transcendência G4 (Amarelo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011634": {
   "ch": "三品登仙丹",
   "en": "G3 Transcendent Elixir (Yellow)",
-  "pt": "Elixir da Transcendência (Amarelo) G3",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Elixir da Transcendência G3 (Amarelo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011635": {
   "ch": "二品登仙丹",
   "en": "G2 Transcendent Elixir (Yellow)",
-  "pt": "Elixir da Transcendência (Amarelo) G2",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Elixir da Transcendência G2 (Amarelo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011636": {
   "ch": "一品登仙丹",
   "en": "G1 Transcendent Elixir (Yellow)",
-  "pt": "Elixir da Transcendência (Amarelo) G1",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Elixir da Transcendência G1 (Amarelo)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011641": {
   "ch": "六品鸿蒙丹",
@@ -2360,38 +2375,38 @@
  "item_name1011671": {
   "ch": "六品青龙丹",
   "en": "G6 Azure Dragon Elixir",
-  "pt": "Elixir do Dragão Azure G6",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir do Dragão Azul G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011672": {
   "ch": "五品青龙丹",
   "en": "G5 Azure Dragon Elixir",
-  "pt": "Elixir do Dragão Azure G5",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir do Dragão Azul G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011673": {
   "ch": "四品青龙丹",
   "en": "G4 Azure Dragon Elixir",
-  "pt": "Elixir do Dragão Azure G4",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir do Dragão Azul G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011674": {
   "ch": "三品青龙丹",
   "en": "G3 Azure Dragon Elixir",
-  "pt": "Elixir do Dragão Azure G3",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir do Dragão Azul G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011675": {
   "ch": "二品青龙丹",
   "en": "G2 Azure Dragon Elixir",
-  "pt": "Elixir do Dragão Azure G2",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir do Dragão Azul G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011676": {
   "ch": "一品青龙丹",
   "en": "G1 Azure Dragon Elixir",
-  "pt": "Elixir do Dragão Azure G1",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir do Dragão Azul G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1011681": {
   "ch": "六品星罗丹",
@@ -3278,14 +3293,14 @@
  "item_name1041069": {
   "ch": "九天灵芝",
   "en": "Empyrean Lingzhi",
-  "pt": "Lingzhi Celestial",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lingzhi Empíreo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1041070": {
   "ch": "九天灵芝",
   "en": "Empyrean Lingzhi",
-  "pt": "Lingzhi Celestial",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lingzhi Empíreo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1041071": {
   "ch": "蟠桃果",
@@ -3866,14 +3881,14 @@
  "item_name1051072": {
   "ch": "五品火灵果",
   "en": "G5 Fire Fruit",
-  "pt": "Fruto do Fogo G5",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Fruto de Fogo G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1051073": {
   "ch": "四品火灵果",
   "en": "G4 Fire Fruit",
-  "pt": "Fruto do Fogo G4",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Fruto de Fogo G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name1051074": {
   "ch": "三品火灵果",
@@ -4604,8 +4619,8 @@
  "item_name2011036": {
   "ch": "巽风（终）",
   "en": "Gentle Wind (5)",
-  "pt": "Vento Suave (Final)",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Vento Suave (5)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2011042": {
   "ch": "定岳（一）",
@@ -4634,8 +4649,8 @@
  "item_name2011046": {
   "ch": "定岳（终）",
   "en": "Rocksunder (5)",
-  "pt": "Quebra-Rocha (Final)",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Quebra-Rocha (5)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2011052": {
   "ch": "阴阳（一）",
@@ -4664,8 +4679,8 @@
  "item_name2011056": {
   "ch": "阴阳（终）",
   "en": "Yin Yang Duality (5)",
-  "pt": "Dualidade Yin Yang (Final)",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Dualidade Yin Yang (5)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2011062": {
   "ch": "九星连珠（一）",
@@ -4694,8 +4709,8 @@
  "item_name2011066": {
   "ch": "九星连珠（终）",
   "en": "Planetary Alignment (5)",
-  "pt": "Alinhamento Planetário (Final)",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Alinhamento Planetário (5)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2011072": {
   "ch": "天魂鬼契（一）",
@@ -4724,8 +4739,8 @@
  "item_name2011076": {
   "ch": "天魂鬼契（终）",
   "en": "Ghost Deed (5)",
-  "pt": "Pacto Fantasma (Final)",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Pacto Fantasma (5)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021012": {
   "ch": "双桂草药谱",
@@ -4748,8 +4763,8 @@
  "item_name2021042": {
   "ch": "茯神药谱",
   "en": "Yam Prescription",
-  "pt": "Presc. de Poria Divina",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Presc. de Inhame",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021052": {
   "ch": "霓裳草药谱",
@@ -4820,8 +4835,8 @@
  "item_name2021153": {
   "ch": "黄休地丁药谱",
   "en": "Corydalis Prescription",
-  "pt": "Presc. de Corydalis",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Presc. de Corídalis",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021163": {
   "ch": "土茯苓药谱",
@@ -4869,26 +4884,32 @@
  "item_name2021234": {
   "ch": "深红矢车菊药谱",
   "en": "Crimson Cornflower Prescription",
-  "pt": "Presc. de Cornflower Carmesim",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Centáurea Carmesim",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021244": {
   "ch": "土银花药谱",
   "en": "Honeysuckle Prescription",
-  "pt": "Presc. de Honeysuckle",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Madressilva",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021254": {
   "ch": "固本肉苁蓉药谱",
   "en": "Desert Broomrape Prescription",
-  "pt": "Presc. de Desert Broomrape",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Cistanche do Deserto",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 30 > 26 caracteres"
+  ]
  },
  "item_name2021264": {
   "ch": "五爪藤药谱",
   "en": "Asiatic Tearthumb Prescription",
-  "pt": "Presc. de Asiatic Tearthumb",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Persicária Asiática",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 27 caracteres"
+  ]
  },
  "item_name2021274": {
   "ch": "月阳根药谱",
@@ -4899,20 +4920,23 @@
  "item_name2021284": {
   "ch": "胭脂安息香药谱",
   "en": "Carmine Flower Prescription",
-  "pt": "Presc. de Flor Carmine",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Flor Carmim",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021294": {
   "ch": "稀签曼药谱",
   "en": "Sigesbeckia Prescription",
-  "pt": "Presc. de Sigesbeckia",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Sigesbéquia",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021304": {
   "ch": "细叶雾水草药谱",
   "en": "Dew Grass Prescription",
-  "pt": "Presc. de Dew Grass",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Grama do Orvalho",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 26 > 19 caracteres"
+  ]
  },
  "item_name2021314": {
   "ch": "细叶杯苋草药谱",
@@ -4923,8 +4947,11 @@
  "item_name2021324": {
   "ch": "血莱菔花药谱",
   "en": "Bloodradish Blossom Prescription",
-  "pt": "Presc. de Flor de Bloodradish",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Flor de Rabanete de Sangue",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 36 > 29 caracteres"
+  ]
  },
  "item_name2021334": {
   "ch": "固元凤仙药谱",
@@ -4941,8 +4968,11 @@
  "item_name2021354": {
   "ch": "聚灵彩莲药谱",
   "en": "Spirit Gathering Lotus Prescription",
-  "pt": "Presc. de Lótus de Espírito Gathering",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Lótus de Reunião de Espírito",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 38 > 37 caracteres"
+  ]
  },
  "item_name2021355": {
   "ch": "炎莽仁药谱",
@@ -4953,8 +4983,11 @@
  "item_name2021365": {
   "ch": "玄元紫萁药谱",
   "en": "Aether Fern Prescription",
-  "pt": "Presc. de Fern Aether",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Presc. de Samambaia do Éter",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 21 caracteres"
+  ]
  },
  "item_name2021375": {
   "ch": "融血阳芝药谱",
@@ -4983,8 +5016,11 @@
  "item_name2021415": {
   "ch": "过江水虞草药谱",
   "en": "Aquatic Sage Prescription",
-  "pt": "Presc. de Sábio Aquático",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Presc. de Sálvia Aquática",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name2021425": {
   "ch": "金阳火榴果药谱",
@@ -5049,8 +5085,8 @@
  "item_name2021516": {
   "ch": "复盆麦门冬药谱",
   "en": "Dwarf Lilyturf Prescription",
-  "pt": "Presc. de Lilyturf Anã",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Presc. de Lírio-anão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2021526": {
   "ch": "九幽无义草药谱",
@@ -5163,8 +5199,8 @@
  "item_name2022051": {
   "ch": "玄沧仙玉",
   "en": "Exotic Sacred Jade",
-  "pt": "Jade Sagrada Exótica",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Jade Sagrado Exótico",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2022061": {
   "ch": "幽兰迷香",
@@ -5559,32 +5595,32 @@
  "item_name2822026": {
   "ch": "仙法之助6-蔽日仙菌",
   "en": "Heavenly Assistance 6 - Sun Blocking Mushroom",
-  "pt": "Assistência Celestial 6 - Cogumelo de Bloqueio Solar",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Assistência Celestial 6 - Cogumelo Bloqueador de Sol",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2822027": {
   "ch": "仙法之助7-蔽日仙菌",
   "en": "Heavenly Assistance 7 - Sun Blocking Mushroom",
-  "pt": "Assistência Celestial 7 - Cogumelo de Bloqueio Solar",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Assistência Celestial 7 - Cogumelo Bloqueador de Sol",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2822028": {
   "ch": "仙法之助8-蔽日仙菌",
   "en": "Heavenly Assistance 8 - Sun Blocking Mushroom",
-  "pt": "Assistência Celestial 8 - Cogumelo de Bloqueio Solar",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Assistência Celestial 8 - Cogumelo Bloqueador de Sol",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2822029": {
   "ch": "仙法之助9-蔽日仙菌",
   "en": "Heavenly Assistance 9 - Sun Blocking Mushroom",
-  "pt": "Assistência Celestial 9 - Cogumelo de Bloqueio Solar",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Assistência Celestial 9 - Cogumelo Bloqueador de Sol",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2822030": {
   "ch": "仙法之助10-蔽日仙菌",
   "en": "Heavenly Assistance 10 - Sun Blocking Mushroom",
-  "pt": "Assistência Celestial 10 - Cogumelo de Bloqueio Solar",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Assistência Celestial 10 - Cogumelo Bloqueador de Sol",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name2822031": {
   "ch": "仙法之助1-东方茗雪",
@@ -6399,122 +6435,122 @@
  "item_name3000442": {
   "ch": "五品魔障丹",
   "en": "G5 Avarice Elixir",
-  "pt": "Elixir de Avarícia G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000443": {
   "ch": "四品魔障丹",
   "en": "G4 Avarice Elixir",
-  "pt": "Elixir de Avarícia G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000444": {
   "ch": "三品魔障丹",
   "en": "G3 Avarice Elixir",
-  "pt": "Elixir de Avarícia G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000445": {
   "ch": "二品魔障丹",
   "en": "G2 Avarice Elixir",
-  "pt": "Elixir de Avarícia G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000446": {
   "ch": "一品魔障丹",
   "en": "G1 Avarice Elixir",
-  "pt": "Elixir de Avarícia G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000451": {
   "ch": "六品魔障丹",
   "en": "G6 Avarice Elixir",
-  "pt": "Elixir de Avarícia G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000452": {
   "ch": "五品魔障丹",
   "en": "G5 Avarice Elixir",
-  "pt": "Elixir de Avarícia G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000453": {
   "ch": "四品魔障丹",
   "en": "G4 Avarice Elixir",
-  "pt": "Elixir de Avarícia G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000454": {
   "ch": "三品魔障丹",
   "en": "G3 Avarice Elixir",
-  "pt": "Elixir de Avarícia G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000455": {
   "ch": "二品魔障丹",
   "en": "G2 Avarice Elixir",
-  "pt": "Elixir de Avarícia G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000456": {
   "ch": "一品魔障丹",
   "en": "G1 Avarice Elixir",
-  "pt": "Elixir de Avarícia G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Avareza G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000511": {
   "ch": "六品仁善丹",
   "en": "G6 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000512": {
   "ch": "五品仁善丹",
   "en": "G5 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000513": {
   "ch": "四品仁善丹",
   "en": "G4 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000514": {
   "ch": "三品仁善丹",
   "en": "G3 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000515": {
   "ch": "二品仁善丹",
   "en": "G2 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000516": {
   "ch": "一品仁善丹",
   "en": "G1 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000521": {
   "ch": "六品仁善丹",
   "en": "G6 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000522": {
   "ch": "五品仁善丹",
   "en": "G5 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000523": {
   "ch": "四品仁善丹",
   "en": "G4 Benevolence Elixir",
-  "pt": "Elixir de Benevolência G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir da Benevolência G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000524": {
   "ch": "三品仁善丹",
@@ -6759,68 +6795,68 @@
  "item_name3000642": {
   "ch": "五品元阳丹",
   "en": "G5 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000643": {
   "ch": "四品元阳丹",
   "en": "G4 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000644": {
   "ch": "三品元阳丹",
   "en": "G3 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000645": {
   "ch": "二品元阳丹",
   "en": "G2 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000646": {
   "ch": "一品元阳丹",
   "en": "G1 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000651": {
   "ch": "六品元阳丹",
   "en": "G6 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000652": {
   "ch": "五品元阳丹",
   "en": "G5 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000653": {
   "ch": "四品元阳丹",
   "en": "G4 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000654": {
   "ch": "三品元阳丹",
   "en": "G3 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000655": {
   "ch": "二品元阳丹",
   "en": "G2 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000656": {
   "ch": "一品元阳丹",
   "en": "G1 Lustrous Yang Elixir",
-  "pt": "Elixir Lustroso de Yang G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir do Yang Lustroso G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000711": {
   "ch": "六品浩气丹",
@@ -6999,188 +7035,188 @@
  "item_name3000756": {
   "ch": "一品浩气丹",
   "en": "G1 Lawbearer's Elixir",
-  "pt": "Elixir do Defensor da Lei G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Guardião da Lei G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000811": {
   "ch": "六品邪元丹",
   "en": "G6 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000812": {
   "ch": "五品邪元丹",
   "en": "G5 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000813": {
   "ch": "四品邪元丹",
   "en": "G4 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000814": {
   "ch": "三品邪元丹",
   "en": "G3 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000815": {
   "ch": "二品邪元丹",
   "en": "G2 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000816": {
   "ch": "一品邪元丹",
   "en": "G1 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000821": {
   "ch": "六品邪元丹",
   "en": "G6 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000822": {
   "ch": "五品邪元丹",
   "en": "G5 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000823": {
   "ch": "四品邪元丹",
   "en": "G4 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000824": {
   "ch": "三品邪元丹",
   "en": "G3 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000825": {
   "ch": "二品邪元丹",
   "en": "G2 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000826": {
   "ch": "一品邪元丹",
   "en": "G1 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000831": {
   "ch": "六品邪元丹",
   "en": "G6 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000832": {
   "ch": "五品邪元丹",
   "en": "G5 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000833": {
   "ch": "四品邪元丹",
   "en": "G4 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000834": {
   "ch": "三品邪元丹",
   "en": "G3 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000835": {
   "ch": "二品邪元丹",
   "en": "G2 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000836": {
   "ch": "一品邪元丹",
   "en": "G1 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000841": {
   "ch": "六品邪元丹",
   "en": "G6 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Elixir do Malfeitor G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000842": {
   "ch": "五品邪元丹",
   "en": "G5 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G5",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000843": {
   "ch": "四品邪元丹",
   "en": "G4 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G4",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000844": {
   "ch": "三品邪元丹",
   "en": "G3 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G3",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000845": {
   "ch": "二品邪元丹",
   "en": "G2 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G2",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000846": {
   "ch": "一品邪元丹",
   "en": "G1 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G1",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000851": {
   "ch": "六品邪元丹",
   "en": "G6 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G6",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000852": {
   "ch": "五品邪元丹",
   "en": "G5 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G5",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000853": {
   "ch": "四品邪元丹",
   "en": "G4 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G4",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000854": {
   "ch": "三品邪元丹",
   "en": "G3 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G3",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000855": {
   "ch": "二品邪元丹",
   "en": "G2 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G2",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000856": {
   "ch": "一品邪元丹",
   "en": "G1 Evildoer's Elixir",
-  "pt": "Elixir do Maligno G1",
-  "auto": "gemini/gemini-3-flash-preview+teste-jogo"
+  "pt": "Elixir do Malfeitor G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3000911": {
   "ch": "六品逆脉丹",
@@ -7959,128 +7995,128 @@
  "item_name3010424": {
   "ch": "三品血阳丹",
   "en": "G3 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G3",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010425": {
   "ch": "二品血阳丹",
   "en": "G2 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G2",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010426": {
   "ch": "一品血阳丹",
   "en": "G1 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G1",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010431": {
   "ch": "六品血阳丹",
   "en": "G6 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G6",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010432": {
   "ch": "五品血阳丹",
   "en": "G5 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G5",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010433": {
   "ch": "四品血阳丹",
   "en": "G4 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G4",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010434": {
   "ch": "三品血阳丹",
   "en": "G3 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G3",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010435": {
   "ch": "二品血阳丹",
   "en": "G2 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G2",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010436": {
   "ch": "一品血阳丹",
   "en": "G1 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G1",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010441": {
   "ch": "六品血阳丹",
   "en": "G6 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G6",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010442": {
   "ch": "五品血阳丹",
   "en": "G5 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G5",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010443": {
   "ch": "四品血阳丹",
   "en": "G4 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G4",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010444": {
   "ch": "三品血阳丹",
   "en": "G3 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G3",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010445": {
   "ch": "二品血阳丹",
   "en": "G2 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G2",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010446": {
   "ch": "一品血阳丹",
   "en": "G1 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G1",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010451": {
   "ch": "六品血阳丹",
   "en": "G6 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G6",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010452": {
   "ch": "五品血阳丹",
   "en": "G5 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G5",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010453": {
   "ch": "四品血阳丹",
   "en": "G4 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G4",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010454": {
   "ch": "三品血阳丹",
   "en": "G3 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G3",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010455": {
   "ch": "二品血阳丹",
   "en": "G2 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G2",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010456": {
   "ch": "一品血阳丹",
   "en": "G1 Blood Burning Elixir",
-  "pt": "Elixir de Sangue Ardente G1",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Elixir de Queima de Sangue G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010511": {
   "ch": "六品冰魄丹",
@@ -8199,68 +8235,101 @@
  "item_name3010542": {
   "ch": "五品冰魄丹",
   "en": "G5 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G5",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010543": {
   "ch": "四品冰魄丹",
   "en": "G4 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G4",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010544": {
   "ch": "三品冰魄丹",
   "en": "G3 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G3",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010545": {
   "ch": "二品冰魄丹",
   "en": "G2 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G2",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010546": {
   "ch": "一品冰魄丹",
   "en": "G1 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G1",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010551": {
   "ch": "六品冰魄丹",
   "en": "G6 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G6",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010552": {
   "ch": "五品冰魄丹",
   "en": "G5 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G5",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010553": {
   "ch": "四品冰魄丹",
   "en": "G4 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G4",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010554": {
   "ch": "三品冰魄丹",
   "en": "G3 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G3",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010555": {
   "ch": "二品冰魄丹",
   "en": "G2 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G2",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010556": {
   "ch": "一品冰魄丹",
   "en": "G1 Ice Soul Elixir",
-  "pt": "Elixir da Alma Gélida G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir da Alma de Gelo G1",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "item_name3010611": {
   "ch": "六品幻心魔香",
@@ -8439,122 +8508,122 @@
  "item_name3010656": {
   "ch": "一品幻心魔香",
   "en": "G1 Hallucination Incense",
-  "pt": "Incenso de Alucinação G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Incenso da Alucinação G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010711": {
   "ch": "六品魔焰灼腚珠",
   "en": "G6 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010712": {
   "ch": "五品魔焰灼腚珠",
   "en": "G5 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010713": {
   "ch": "四品魔焰灼腚珠",
   "en": "G4 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010714": {
   "ch": "三品魔焰灼腚珠",
   "en": "G3 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010715": {
   "ch": "二品魔焰灼腚珠",
   "en": "G2 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010716": {
   "ch": "一品魔焰灼腚珠",
   "en": "G1 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010721": {
   "ch": "六品魔焰灼腚珠",
   "en": "G6 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010722": {
   "ch": "五品魔焰灼腚珠",
   "en": "G5 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010723": {
   "ch": "四品魔焰灼腚珠",
   "en": "G4 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010724": {
   "ch": "三品魔焰灼腚珠",
   "en": "G3 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010725": {
   "ch": "二品魔焰灼腚珠",
   "en": "G2 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010726": {
   "ch": "一品魔焰灼腚珠",
   "en": "G1 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010731": {
   "ch": "六品魔焰灼腚珠",
   "en": "G6 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010732": {
   "ch": "五品魔焰灼腚珠",
   "en": "G5 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010733": {
   "ch": "四品魔焰灼腚珠",
   "en": "G4 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010734": {
   "ch": "三品魔焰灼腚珠",
   "en": "G3 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010735": {
   "ch": "二品魔焰灼腚珠",
   "en": "G2 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010736": {
   "ch": "一品魔焰灼腚珠",
   "en": "G1 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010741": {
   "ch": "六品魔焰灼腚珠",
   "en": "G6 Butt-searing Orb",
-  "pt": "Orbe de Queimadura G6",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Queima-nádegas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010742": {
   "ch": "五品魔焰灼腚珠",
@@ -8625,176 +8694,176 @@
  "item_name3010811": {
   "ch": "六品鸩雨丹",
   "en": "G6 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010812": {
   "ch": "五品鸩雨丹",
   "en": "G5 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010813": {
   "ch": "四品鸩雨丹",
   "en": "G4 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010814": {
   "ch": "三品鸩雨丹",
   "en": "G3 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010815": {
   "ch": "二品鸩雨丹",
   "en": "G2 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010816": {
   "ch": "一品鸩雨丹",
   "en": "G1 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010821": {
   "ch": "六品鸩雨丹",
   "en": "G6 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010822": {
   "ch": "五品鸩雨丹",
   "en": "G5 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010823": {
   "ch": "四品鸩雨丹",
   "en": "G4 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010824": {
   "ch": "三品鸩雨丹",
   "en": "G3 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010825": {
   "ch": "二品鸩雨丹",
   "en": "G2 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010826": {
   "ch": "一品鸩雨丹",
   "en": "G1 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010831": {
   "ch": "六品鸩雨丹",
   "en": "G6 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010832": {
   "ch": "五品鸩雨丹",
   "en": "G5 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010833": {
   "ch": "四品鸩雨丹",
   "en": "G4 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010834": {
   "ch": "三品鸩雨丹",
   "en": "G3 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010835": {
   "ch": "二品鸩雨丹",
   "en": "G2 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010836": {
   "ch": "一品鸩雨丹",
   "en": "G1 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010841": {
   "ch": "六品鸩雨丹",
   "en": "G6 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010842": {
   "ch": "五品鸩雨丹",
   "en": "G5 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010843": {
   "ch": "四品鸩雨丹",
   "en": "G4 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010844": {
   "ch": "三品鸩雨丹",
   "en": "G3 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010845": {
   "ch": "二品鸩雨丹",
   "en": "G2 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010846": {
   "ch": "一品鸩雨丹",
   "en": "G1 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G1",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010851": {
   "ch": "六品鸩雨丹",
   "en": "G6 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G6",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G6",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010852": {
   "ch": "五品鸩雨丹",
   "en": "G5 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G5",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010853": {
   "ch": "四品鸩雨丹",
   "en": "G4 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G4",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010854": {
   "ch": "三品鸩雨丹",
   "en": "G3 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G3",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010855": {
   "ch": "二品鸩雨丹",
   "en": "G2 Baneful Raindrops Elixir",
-  "pt": "Elixir Gotas de Chuva Nocivas G2",
-  "auto": "gemini/gemini-2.5-flash+teste-jogo"
+  "pt": "Elixir de Gotas de Chuva Nocivas G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3010856": {
   "ch": "一品鸩雨丹",
@@ -9087,8 +9156,8 @@
  "item_name3011181": {
   "ch": "上品星阳戒",
   "en": "Blessed Flare Ring",
-  "pt": "Anel da Labareda Abençoada",
-  "auto": "gemini/gemini-2.5-flash+revisao-nuvem"
+  "pt": "Anel da Labareda Abençoado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3011191": {
   "ch": "上品玉魄戒",
@@ -9267,8 +9336,8 @@
  "item_name3021206": {
   "ch": "碧檀玄舟",
   "en": "Sandalwood Boat",
-  "pt": "Barco de Sandalo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Barco de Sândalo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3021216": {
   "ch": "七彩祥云",
@@ -9363,158 +9432,158 @@
  "item_name3041001": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041002": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041003": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041004": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041005": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041006": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041007": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041008": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041009": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041010": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041011": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041012": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041013": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041014": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041015": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041016": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041017": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041018": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041019": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041020": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041021": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041022": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041023": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041024": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041025": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041026": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041027": {
   "ch": "衣服",
@@ -9759,482 +9828,482 @@
  "item_name3041067": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041068": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041069": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041070": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041071": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041072": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041073": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041074": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041075": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041076": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041077": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041078": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041079": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041080": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041081": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041082": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041083": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041084": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041085": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041086": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041087": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041088": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041089": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041090": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041091": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041092": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041093": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041094": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041095": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041096": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041097": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041098": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041099": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041100": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041101": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041102": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041103": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041104": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041105": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041106": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041107": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041108": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041109": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041110": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041111": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041112": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041113": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041114": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041115": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041116": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041117": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041118": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041119": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041120": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041121": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041122": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041123": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041124": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041125": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041126": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041127": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041128": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041129": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041130": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041131": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041132": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041133": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041134": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041135": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041136": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041137": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041138": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041139": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041140": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041141": {
   "ch": "衣服",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041145": {
   "ch": "",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041146": {
   "ch": "",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041147": {
   "ch": "",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041148": {
   "ch": "",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041149": {
   "ch": "",
   "en": "Outfit",
-  "pt": "Roupa",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": "Traje",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name3041150": {
   "ch": "",
@@ -11409,8 +11478,8 @@
  "item_name5021354": {
   "ch": "聚雷重鳞",
   "en": "Lightning Scale",
-  "pt": "Escala de Relâmpago",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escama de Relâmpago",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021364": {
   "ch": "云断利爪",
@@ -11535,26 +11604,26 @@
  "item_name5021462": {
   "ch": "凡品悟心砂",
   "en": "G5 Comprehension Sand",
-  "pt": "Areia da Compreensão G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Areia de Compreensão G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021463": {
   "ch": "良品悟心砂",
   "en": "G4 Comprehension Sand",
-  "pt": "Areia da Compreensão G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Areia de Compreensão G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021464": {
   "ch": "极品悟心砂",
   "en": "G3 Comprehension Sand",
-  "pt": "Areia da Compreensão G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Areia de Compreensão G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021465": {
   "ch": "仙品悟心砂",
   "en": "G2 Comprehension Sand",
-  "pt": "Areia da Compreensão G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Areia de Compreensão G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021466": {
   "ch": "圣品悟心砂",
@@ -11709,8 +11778,8 @@
  "item_name5021674": {
   "ch": "上品精风竹",
   "en": "Blessed Wind Essence Bamboo",
-  "pt": "Bambú da Essência do Vento Abençoado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Bambu Essência do Vento Abençoado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021684": {
   "ch": "上品紫电毛皮",
@@ -11745,26 +11814,26 @@
  "item_name5021734": {
   "ch": "良品炼魂玉",
   "en": "G4 Soul Refining Jade",
-  "pt": "Jade de Refinação de Alma G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Jade de Refino de Alma G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021744": {
   "ch": "极品炼魂玉",
   "en": "G3 Soul Refining Jade",
-  "pt": "Jade de Refinação de Alma G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Jade de Refino de Alma G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021754": {
   "ch": "仙品炼魂玉",
   "en": "G2 Soul Refining Jade",
-  "pt": "Jade de Refinação de Alma G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Jade de Refino de Alma G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5021764": {
   "ch": "圣品炼魂玉",
   "en": "G1 Soul Refining Jade",
-  "pt": "Jade de Refinação de Alma G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Jade de Refino de Alma G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031011": {
   "ch": "杂品药材",
@@ -11805,8 +11874,11 @@
  "item_name5031025": {
   "ch": "狐媚仙草",
   "en": "Vixen Sage",
-  "pt": "Sábio Vixen",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Sálvia da Raposa",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 16 > 13 caracteres"
+  ]
  },
  "item_name5031031": {
   "ch": "六品混合药材",
@@ -11865,8 +11937,8 @@
  "item_name5031071": {
   "ch": "茯神",
   "en": "Yam",
-  "pt": "Yam",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Inhame",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031081": {
   "ch": "霓裳草",
@@ -11943,8 +12015,8 @@
  "item_name5031183": {
   "ch": "土茯苓",
   "en": "Earth Fuling",
-  "pt": "Fuligem da Terra",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fuling da Terra",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031193": {
   "ch": "极寒鱼尾草",
@@ -11985,8 +12057,8 @@
  "item_name5031244": {
   "ch": "深红矢车菊",
   "en": "Crimson Cornflower",
-  "pt": "Cornflower Vermelho",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Centáurea Carmesim",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031254": {
   "ch": "土银花",
@@ -11997,14 +12069,14 @@
  "item_name5031264": {
   "ch": "固本肉苁蓉",
   "en": "Desert Broomrape",
-  "pt": "Rapariga do Deserto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cistanche do Deserto",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031274": {
   "ch": "五爪藤",
   "en": "Asiatic Tearthumb",
-  "pt": "Tearthumb Asiático",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Persicária Asiática",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031284": {
   "ch": "月阳根",
@@ -12039,8 +12111,11 @@
  "item_name5031325": {
   "ch": "血莱菔花",
   "en": "Bloodradish Blossom",
-  "pt": "Flor de Sangue de Radish",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Flor de Rabanete de Sangue",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 26 > 25 caracteres"
+  ]
  },
  "item_name5031335": {
   "ch": "固元凤仙",
@@ -12099,8 +12174,8 @@
  "item_name5031425": {
   "ch": "过江水虞草",
   "en": "Aquatic Sage",
-  "pt": "Sábio Aquático",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Sálvia Aquática",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031435": {
   "ch": "金阳火榴果",
@@ -12123,8 +12198,8 @@
  "item_name5031456": {
   "ch": "万年白茯神",
   "en": "Millennium Yam",
-  "pt": "Batata do Milênio",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Inhame Milenar",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031466": {
   "ch": "驻颜果",
@@ -12501,20 +12576,20 @@
  "item_name5031844": {
   "ch": "火灵斗气",
   "en": "Condensed Fire Qi",
-  "pt": "Qi condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Qi Condensado do Fogo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031845": {
   "ch": "火灵斗气",
   "en": "Condensed Fire Qi",
-  "pt": "Qi condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Qi Condensado do Fogo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031846": {
   "ch": "火灵斗气",
   "en": "Condensed Fire Qi",
-  "pt": "Qi condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Qi Condensado do Fogo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031854": {
   "ch": "水灵斗气",
@@ -12609,20 +12684,20 @@
  "item_name5031904": {
   "ch": "火灵斗珠",
   "en": "Condensed Fire Qi Orb",
-  "pt": "Orbe de Qi Condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Fogo Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031905": {
   "ch": "火灵斗珠",
   "en": "Condensed Fire Qi Orb",
-  "pt": "Orbe de Qi Condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Fogo Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031906": {
   "ch": "火灵斗珠",
   "en": "Condensed Fire Qi Orb",
-  "pt": "Orbe de Qi Condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Fogo Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031914": {
   "ch": "水灵斗珠",
@@ -12639,80 +12714,80 @@
  "item_name5031916": {
   "ch": "水灵斗珠",
   "en": "Condensed Water Qi Orb",
-  "pt": "Orbe de Qi da Água Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Água Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031924": {
   "ch": "雷灵斗珠",
   "en": "Condensed Lightning Qi Orb",
-  "pt": "Orbe de Qi do Relâmpago Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Relâmpago Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031925": {
   "ch": "雷灵斗珠",
   "en": "Condensed Lightning Qi Orb",
-  "pt": "Orbe de Qi do Relâmpago Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Relâmpago Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031926": {
   "ch": "雷灵斗珠",
   "en": "Condensed Lightning Qi Orb",
-  "pt": "Orbe de Qi do Relâmpago Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Relâmpago Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031934": {
   "ch": "风灵斗珠",
   "en": "Condensed Wind Qi Orb",
-  "pt": "Orbe de Qi do Vento Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Vento Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031935": {
   "ch": "风灵斗珠",
   "en": "Condensed Wind Qi Orb",
-  "pt": "Orbe de Qi do Vento Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Vento Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031936": {
   "ch": "风灵斗珠",
   "en": "Condensed Wind Qi Orb",
-  "pt": "Orbe de Qi do Vento Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi do Vento Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031944": {
   "ch": "土灵斗珠",
   "en": "Condensed Earth Qi Orb",
-  "pt": "Orbe de Qi da Terra Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Terra Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031945": {
   "ch": "土灵斗珠",
   "en": "Condensed Earth Qi Orb",
-  "pt": "Orbe de Qi da Terra Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Terra Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031946": {
   "ch": "土灵斗珠",
   "en": "Condensed Earth Qi Orb",
-  "pt": "Orbe de Qi da Terra Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Terra Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031954": {
   "ch": "木灵斗珠",
   "en": "Condensed Wood Qi Orb",
-  "pt": "Orbe de Qi da Madeira Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Madeira Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031955": {
   "ch": "木灵斗珠",
   "en": "Condensed Wood Qi Orb",
-  "pt": "Orbe de Qi da Madeira Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Madeira Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031956": {
   "ch": "木灵斗珠",
   "en": "Condensed Wood Qi Orb",
-  "pt": "Orbe de Qi da Madeira Condensada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Qi da Madeira Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5031964": {
   "ch": "天道之气",
@@ -12765,26 +12840,29 @@
  "item_name5041015": {
   "ch": "树妖魂珠",
   "en": "Evergreen's Soul Orb",
-  "pt": "Orbe de Alma do Demônio da Árvore",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Orbe de Alma do Sempre-Verde",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5041025": {
   "ch": "刑天魂珠",
   "en": "Xingtian's Soul Orb",
-  "pt": "Orbe de Alma de XingTian",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe de Alma de Xingtian",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5051016": {
   "ch": "引魂珠",
   "en": "Soul Lure",
-  "pt": "Atração de Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Isca de Alma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5051017": {
   "ch": "绝神砂",
   "en": "Ultima Sand",
-  "pt": "Areia Última",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Areia Derradeira",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "item_name5051018": {
   "ch": "冥魂之息",
@@ -12801,14 +12879,14 @@
  "item_name5061026": {
   "ch": "玄玉",
   "en": "Dark Jade",
-  "pt": "Jade Escura",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Jade Escuro",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5061036": {
   "ch": "金沉木",
   "en": "Golden Agarwood",
-  "pt": "Agarwood Dourado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Aloés Dourado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5061046": {
   "ch": "蕴灵果",
@@ -12897,44 +12975,44 @@
  "item_name5071135": {
   "ch": "火灵斗气碎片",
   "en": "Condensed Fire Qi Shard",
-  "pt": "Fragmento de Qi condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Qi Condensado do Fogo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071145": {
   "ch": "水灵斗气碎片",
   "en": "Condensed Water Qi Shard",
-  "pt": "Fragmento de Qi condensado da Água",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Qi Condensado da Água",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071155": {
   "ch": "雷灵斗气碎片",
   "en": "Condensed Lightning Qi Shard",
-  "pt": "Fragmento de Qi condensado do Relâmpago",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Qi Condensado do Relâmpago",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071165": {
   "ch": "风灵斗气碎片",
   "en": "Condensed Wind Qi Shard",
-  "pt": "Fragmento de Qi condensado do Vento",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Qi Condensado do Vento",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071175": {
   "ch": "土灵斗气碎片",
   "en": "Condensed Earth Qi Shard",
-  "pt": "Fragmento de Qi condensado da Terra",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Qi Condensado da Terra",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071185": {
   "ch": "木灵斗气碎片",
   "en": "Condensed Wood Qi Shard",
-  "pt": "Fragmento de Qi condensado da Madeira",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Qi Condensado da Madeira",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071195": {
   "ch": "火灵斗珠碎片",
   "en": "Condensed Fire Qi Orb Shard",
-  "pt": "Fragmento de Orbe de Qi condensado do Fogo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Orbe de Qi do Fogo Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071205": {
   "ch": "水灵斗珠碎片",
@@ -12945,26 +13023,26 @@
  "item_name5071215": {
   "ch": "雷灵斗珠碎片",
   "en": "Condensed Lightning Qi Orb Shard",
-  "pt": "Fragmento de Orbe de Qi condensado do Relâmpago",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Orbe de Qi do Relâmpago Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071225": {
   "ch": "风灵斗珠碎片",
   "en": "Condensed Wind Qi Orb Shard",
-  "pt": "Fragmento de Orbe de Qi condensado do Vento",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Orbe de Qi do Vento Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071235": {
   "ch": "土灵斗珠碎片",
   "en": "Condensed Earth Qi Orb Shard",
-  "pt": "Fragmento de Orbe de Qi condensado da Terra",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Orbe de Qi da Terra Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071245": {
   "ch": "木灵斗珠碎片",
   "en": "Condensed Wood Qi Orb Shard",
-  "pt": "Fragmento de Orbe de Qi condensado da Madeira",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragmento de Orbe de Qi da Madeira Condensado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5071255": {
   "ch": "天道之气碎片",
@@ -13059,8 +13137,8 @@
  "item_name5081085": {
   "ch": "绮罗幽香",
   "en": "Thorny Fragrance",
-  "pt": "Fragância Espinhosa",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fragrância Espinhosa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5081095": {
   "ch": "鬼哭藤",
@@ -13197,8 +13275,8 @@
  "item_name5081315": {
   "ch": "玄冥水",
   "en": "Underworld Water",
-  "pt": "Água do Submundo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Água do Inframundo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5081325": {
   "ch": "太阴真火",
@@ -13263,8 +13341,8 @@
  "item_name5081425": {
   "ch": "六翅金蝉羽",
   "en": "Six-winged Golden Cicada",
-  "pt": "Cicada Dourada de Seis Asas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cigarra Dourada de Seis Asas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5081435": {
   "ch": "镇魂之花",
@@ -13335,14 +13413,20 @@
  "item_name5081545": {
   "ch": "鸡冠凤尾花",
   "en": "Plumed Cockscomb",
-  "pt": "Pluma de Galo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Crista-de-galo Plumosa",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "item_name5081555": {
   "ch": "乌风草",
   "en": "Darkwind Grass",
-  "pt": "Grama Darkwind",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Grama do Vento Sombrio",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "item_name5081565": {
   "ch": "天府玉莲",
@@ -13371,8 +13455,11 @@
  "item_name5081605": {
   "ch": "朱萍",
   "en": "Duckweed",
-  "pt": "Erva-do-pato",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lentilha-d'água",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 15 > 12 caracteres"
+  ]
  },
  "item_name5081615": {
   "ch": "灵苏",
@@ -13383,8 +13470,11 @@
  "item_name5081625": {
   "ch": "颜仙草",
   "en": "Beauty Sage",
-  "pt": "Sábio da Beleza",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Sálvia da Beleza",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "item_name5081635": {
   "ch": "蜃气珠",
@@ -13461,8 +13551,8 @@
  "item_name5081755": {
   "ch": "紫霄空心竹",
   "en": "Purple Bamboo",
-  "pt": "Bambú Roxo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Bambu Roxo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5081765": {
   "ch": "凤羽",
@@ -13629,8 +13719,8 @@
  "item_name5082036": {
   "ch": "玄龟神魂",
   "en": "Xuangui's Divine Soul",
-  "pt": "Alma Divina de XuanGui",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Alma Divina de Xuangui",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5082046": {
   "ch": "陆吾神魂",
@@ -13713,14 +13803,14 @@
  "item_name5111201": {
   "ch": "七彩幽草",
   "en": "Hermit Grass",
-  "pt": "Erva Hermit",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Erva do Ermitão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5111301": {
   "ch": "天青水玉",
   "en": "Azure Jade",
-  "pt": "Jade Azurita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Jade Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5111302": {
   "ch": "幻彩水玉",
@@ -13791,26 +13881,26 @@
  "item_name5131101": {
   "ch": "下品淬凝胶",
   "en": "G5 Tempering Resin",
-  "pt": "Resina de Temperamento G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Resina de Têmpera G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5131102": {
   "ch": "中品淬凝胶",
   "en": "G4 Tempering Resin",
-  "pt": "Resina de Temperamento G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Resina de Têmpera G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5131103": {
   "ch": "上品淬凝胶",
   "en": "G3 Tempering Resin",
-  "pt": "Resina de Temperamento G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Resina de Têmpera G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5131104": {
   "ch": "极品淬凝胶",
   "en": "G2 Tempering Resin",
-  "pt": "Resina de Temperamento G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Resina de Têmpera G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name5181101": {
   "ch": "下品锻尘魄",
@@ -14367,14 +14457,14 @@
  "item_name6051031": {
   "ch": "复生丹丹方",
   "en": "Revival Elixir Recipe",
-  "pt": "Receita de Elixir de Revivificação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Reavivamento",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051041": {
   "ch": "融血丹丹方",
   "en": "Blood Melting Elixir Recipe",
-  "pt": "Receita de Elixir de Fusão Sanguínea",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Fusão de Sangue",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051051": {
   "ch": "九转圣阳丹丹方",
@@ -14397,8 +14487,8 @@
  "item_name6051081": {
   "ch": "玄元丹丹方",
   "en": "Unity Elixir Recipe",
-  "pt": "Receita de Elixir de Unidade",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Unidade",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051091": {
   "ch": "复灵丹丹方",
@@ -14415,8 +14505,8 @@
  "item_name6051111": {
   "ch": "幽冥饮魄丹丹方",
   "en": "Souldrinking Elixir Recipe",
-  "pt": "Receita de Elixir de Absorção de Almas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Bebe-Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051121": {
   "ch": "蓄力丹丹方",
@@ -14433,8 +14523,8 @@
  "item_name6051141": {
   "ch": "嗜血丹丹方",
   "en": "Bloodthirsty Elixir Recipe",
-  "pt": "Receita de Elixir Sedento de Sangue",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Sedento por Sangue",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051151": {
   "ch": "龙力丹丹方",
@@ -14463,8 +14553,8 @@
  "item_name6051191": {
   "ch": "子午丹丹方",
   "en": "Meridian Elixir Recipe",
-  "pt": "Receita de Elixir de Meridiano",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Meridiano",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051201": {
   "ch": "蜕骨丹丹方",
@@ -14499,8 +14589,8 @@
  "item_name6051251": {
   "ch": "补天丹丹方",
   "en": "Ether Elixir Recipe",
-  "pt": "Receita de Elixir de Éter",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Éter",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051261": {
   "ch": "茯苓丹丹方",
@@ -14517,8 +14607,8 @@
  "item_name6051281": {
   "ch": "九天禳寿丹丹方",
   "en": "Empyrean Longevity Elixir Recipe",
-  "pt": "Receita de Elixir de Longevidade Empíreo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Empíreo da Longevidade",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051291": {
   "ch": "黄精丸丹方",
@@ -14529,14 +14619,14 @@
  "item_name6051301": {
   "ch": "十全大补丸丹方",
   "en": "Shiquan Dabu Pill Recipe",
-  "pt": "Receita de Pílula de Shiquan Dabu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Pílula Shiquan Dabu",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051311": {
   "ch": "十精丸丹方",
   "en": "Deca Essence Pill Recipe",
-  "pt": "Receita de Pílula de Dez Essências",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Pílula das Dez Essências",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051321": {
   "ch": "人参养荣丸丹方",
@@ -14571,20 +14661,20 @@
  "item_name6051371": {
   "ch": "炼体丹丹方",
   "en": "Physique Elixir Recipe",
-  "pt": "Receita de Elixir de Física",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Físico",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051381": {
   "ch": "融灵丹丹方",
   "en": "Spirit Melting Elixir Recipe",
-  "pt": "Receita de Elixir de Fusão Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Fusão Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051391": {
   "ch": "炼神丹丹方",
   "en": "Energy Fortifying Elixir Recipe",
-  "pt": "Receita de Elixir de Fortificação de Energia",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Fortificador de Energia",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051401": {
   "ch": "蕴魂丹丹方",
@@ -14595,8 +14685,8 @@
  "item_name6051411": {
   "ch": "炼魂丹丹方",
   "en": "Soul Refining Elixir Recipe",
-  "pt": "Receita de Elixir de Refinação da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Refinador de Alma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051421": {
   "ch": "筑基丹丹方",
@@ -14631,14 +14721,14 @@
  "item_name6051471": {
   "ch": "聚灵丹丹方",
   "en": "Soul Gathering Elixir Recipe",
-  "pt": "Receita de Elixir de Coleta de Espíritos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Coleta de Alma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051481": {
   "ch": "玄微丹丹方",
   "en": "Subtlety Elixir Recipe",
-  "pt": "Receita de Elixir de Subtileza",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Sutileza",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051491": {
   "ch": "云中丹丹方",
@@ -14739,14 +14829,14 @@
  "item_name6051651": {
   "ch": "无相丹丹方",
   "en": "Signless Elixir Recipe",
-  "pt": "Receita de Elixir Sem Sinal",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir Sem Forma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051661": {
   "ch": "生骨丹丹方",
   "en": "Bone Repair Elixir Recipe",
-  "pt": "Receita de Elixir de Reparo Ósseo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Reparação Óssea",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6051671": {
   "ch": "大还丹丹方",
@@ -14949,92 +15039,92 @@
  "item_name6052061": {
   "ch": "幻心魔香丹方",
   "en": "Hallucination Incense Elixir Recipe",
-  "pt": "Receita de Elixir do Incenso Alucinógeno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Incenso da Alucinação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052062": {
   "ch": "幻心魔香丹方",
   "en": "Hallucination Incense Elixir Recipe",
-  "pt": "Receita de Elixir do Incenso Alucinógeno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Incenso da Alucinação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052063": {
   "ch": "幻心魔香丹方",
   "en": "Hallucination Incense Elixir Recipe",
-  "pt": "Receita de Elixir do Incenso Alucinógeno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Incenso da Alucinação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052064": {
   "ch": "幻心魔香丹方",
   "en": "Hallucination Incense Elixir Recipe",
-  "pt": "Receita de Elixir do Incenso Alucinógeno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Incenso da Alucinação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052065": {
   "ch": "幻心魔香丹方",
   "en": "Hallucination Incense Elixir Recipe",
-  "pt": "Receita de Elixir do Incenso Alucinógeno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Incenso da Alucinação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052071": {
   "ch": "魔焰灼腚珠丹方",
   "en": "Butt-searing Orb Elixir Recipe",
-  "pt": "Receita de Elixir da Orbe Queimadora de Glúteos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Orbe Queima-nádegas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052072": {
   "ch": "魔焰灼腚珠丹方",
   "en": "Butt-searing Orb Elixir Recipe",
-  "pt": "Receita de Elixir da Orbe Queimadora de Glúteos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Orbe Queima-nádegas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052073": {
   "ch": "魔焰灼腚珠丹方",
   "en": "Butt-searing Orb Elixir Recipe",
-  "pt": "Receita de Elixir da Orbe Queimadora de Glúteos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Orbe Queima-nádegas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052074": {
   "ch": "魔焰灼腚珠丹方",
   "en": "Butt-searing Orb Elixir Recipe",
-  "pt": "Receita de Elixir da Orbe Queimadora de Glúteos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Orbe Queima-nádegas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052075": {
   "ch": "魔焰灼腚珠丹方",
   "en": "Butt-searing Orb Elixir Recipe",
-  "pt": "Receita de Elixir da Orbe Queimadora de Glúteos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Orbe Queima-nádegas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052081": {
   "ch": "鸩雨丹丹方",
   "en": "Baneful Raindrops Elixir Recipe",
-  "pt": "Receita de Elixir das Gotas de Chuva Mortíferas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Gotas de Chuva Nocivas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052082": {
   "ch": "鸩雨丹丹方",
   "en": "Baneful Raindrops Elixir Recipe",
-  "pt": "Receita de Elixir das Gotas de Chuva Mortíferas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Gotas de Chuva Nocivas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052083": {
   "ch": "鸩雨丹丹方",
   "en": "Baneful Raindrops Elixir Recipe",
-  "pt": "Receita de Elixir das Gotas de Chuva Mortíferas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Gotas de Chuva Nocivas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052084": {
   "ch": "鸩雨丹丹方",
   "en": "Baneful Raindrops Elixir Recipe",
-  "pt": "Receita de Elixir das Gotas de Chuva Mortíferas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Gotas de Chuva Nocivas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052085": {
   "ch": "鸩雨丹丹方",
   "en": "Baneful Raindrops Elixir Recipe",
-  "pt": "Receita de Elixir das Gotas de Chuva Mortíferas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir de Gotas de Chuva Nocivas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6052091": {
   "ch": "冥元夺命丹丹方",
@@ -15099,32 +15189,32 @@
  "item_name6053021": {
   "ch": "情花散丹方",
   "en": "Passionate Powder Elixir Recipe",
-  "pt": "Receita de Elixir do Pó Apaixonado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Pó da Paixão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053022": {
   "ch": "情花散丹方",
   "en": "Passionate Powder Elixir Recipe",
-  "pt": "Receita de Elixir do Pó Apaixonado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Pó da Paixão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053023": {
   "ch": "情花散丹方",
   "en": "Passionate Powder Elixir Recipe",
-  "pt": "Receita de Elixir do Pó Apaixonado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Pó da Paixão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053024": {
   "ch": "情花散丹方",
   "en": "Passionate Powder Elixir Recipe",
-  "pt": "Receita de Elixir do Pó Apaixonado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Pó da Paixão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053025": {
   "ch": "情花散丹方",
   "en": "Passionate Powder Elixir Recipe",
-  "pt": "Receita de Elixir do Pó Apaixonado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Pó da Paixão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053031": {
   "ch": "雪上一枝梅丹方",
@@ -15159,32 +15249,32 @@
  "item_name6053041": {
   "ch": "魔障丹丹方",
   "en": "Avarice Elixir Recipe",
-  "pt": "Receita de Elixir da Avarícia",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Avareza",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053042": {
   "ch": "魔障丹丹方",
   "en": "Avarice Elixir Recipe",
-  "pt": "Receita de Elixir da Avarícia",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Avareza",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053043": {
   "ch": "魔障丹丹方",
   "en": "Avarice Elixir Recipe",
-  "pt": "Receita de Elixir da Avarícia",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Avareza",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053044": {
   "ch": "魔障丹丹方",
   "en": "Avarice Elixir Recipe",
-  "pt": "Receita de Elixir da Avarícia",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Avareza",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053045": {
   "ch": "魔障丹丹方",
   "en": "Avarice Elixir Recipe",
-  "pt": "Receita de Elixir da Avarícia",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir da Avareza",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053051": {
   "ch": "仁善丹丹方",
@@ -15249,62 +15339,62 @@
  "item_name6053071": {
   "ch": "浩气丹丹方",
   "en": "Lawbearer's Elixir Recipe",
-  "pt": "Receita de Elixir do Defensor da Lei",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Guardião da Lei",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053072": {
   "ch": "浩气丹丹方",
   "en": "Lawbearer's Elixir Recipe",
-  "pt": "Receita de Elixir do Defensor da Lei",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Guardião da Lei",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053073": {
   "ch": "浩气丹丹方",
   "en": "Lawbearer's Elixir Recipe",
-  "pt": "Receita de Elixir do Defensor da Lei",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Guardião da Lei",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053074": {
   "ch": "浩气丹丹方",
   "en": "Lawbearer's Elixir Recipe",
-  "pt": "Receita de Elixir do Defensor da Lei",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Guardião da Lei",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053075": {
   "ch": "浩气丹丹方",
   "en": "Lawbearer's Elixir Recipe",
-  "pt": "Receita de Elixir do Defensor da Lei",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Guardião da Lei",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053081": {
   "ch": "邪元丹丹方",
   "en": "Evildoer's Elixir Recipe",
-  "pt": "Receita de Elixir do Maligno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Malfeitor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053082": {
   "ch": "邪元丹丹方",
   "en": "Evildoer's Elixir Recipe",
-  "pt": "Receita de Elixir do Maligno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Malfeitor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053083": {
   "ch": "邪元丹丹方",
   "en": "Evildoer's Elixir Recipe",
-  "pt": "Receita de Elixir do Maligno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Malfeitor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053084": {
   "ch": "邪元丹丹方",
   "en": "Evildoer's Elixir Recipe",
-  "pt": "Receita de Elixir do Maligno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Malfeitor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053085": {
   "ch": "邪元丹丹方",
   "en": "Evildoer's Elixir Recipe",
-  "pt": "Receita de Elixir do Maligno",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receita de Elixir do Malfeitor",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6053091": {
   "ch": "逆脉丹丹方",
@@ -15537,8 +15627,8 @@
  "item_name6061301": {
   "ch": "天计丹炉",
   "en": "Kismet Furnace",
-  "pt": "Fornalha do Destino",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fornalha da Sina",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6061311": {
   "ch": "充灵丹炉",
@@ -15549,8 +15639,8 @@
  "item_name6061321": {
   "ch": "圣玉丹炉",
   "en": "Holy Jade Furnace",
-  "pt": "Fornalha da Jade Sagrada",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fornalha de Jade Sagrado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6061331": {
   "ch": "慧悟丹炉",
@@ -15639,122 +15729,125 @@
  "item_name6082015": {
   "ch": "拘灵符",
   "en": "Soul Cage Talisman",
-  "pt": "Talismã da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 26 > 24 caracteres"
+  ]
  },
  "item_name6082020": {
   "ch": "残·迅雷符",
   "en": "Remnant - Thunder Talisman",
-  "pt": "Talismã do Trovão Remanescente",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Remanescente - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082021": {
   "ch": "真·迅雷符",
   "en": "Exact - Thunder Talisman",
-  "pt": "Talismã do Trovão Preciso",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Exato - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082022": {
   "ch": "星·迅雷符",
   "en": "Star - Thunder Talisman",
-  "pt": "Talismã do Trovão Estelar",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Estrela - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082023": {
   "ch": "灵·迅雷符",
   "en": "Spirit - Thunder Talisman",
-  "pt": "Talismã do Trovão Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espírito - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082024": {
   "ch": "流·迅雷符",
   "en": "Flowing - Thunder Talisman",
-  "pt": "Talismã do Trovão Fluente",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fluente - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082025": {
   "ch": "绝·迅雷符",
   "en": "Special - Thunder Talisman",
-  "pt": "Talismã do Trovão Especial",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Especial - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082026": {
   "ch": "幽·迅雷符",
   "en": "Specter - Thunder Talisman",
-  "pt": "Talismã do Trovão Espectral",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espectro - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082027": {
   "ch": "禁·迅雷符",
   "en": "Ban - Thunder Talisman",
-  "pt": "Talismã do Trovão Proibido",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Proibição - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082028": {
   "ch": "苍·迅雷符",
   "en": "Dark - Thunder Talisman",
-  "pt": "Talismã do Trovão Sombrio",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escuridão - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082029": {
   "ch": "道·迅雷符",
   "en": "Path - Thunder Talisman",
-  "pt": "Talismã do Trovão do Caminho",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caminho - Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082030": {
   "ch": "残·灵盾符",
   "en": "Remnant - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Remanescente",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Remanescente - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082031": {
   "ch": "真·灵盾符",
   "en": "Exact - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Preciso",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Exato - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082032": {
   "ch": "星·灵盾符",
   "en": "Star - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Estelar",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Estrela - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082033": {
   "ch": "灵·灵盾符",
   "en": "Spirit - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espírito - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082034": {
   "ch": "流·灵盾符",
   "en": "Flowing - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Fluente",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fluente - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082035": {
   "ch": "绝·灵盾符",
   "en": "Special - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Especial",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Especial - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082036": {
   "ch": "幽·灵盾符",
   "en": "Specter - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Espectral",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espectro - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082037": {
   "ch": "禁·灵盾符",
   "en": "Ban - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Proibido",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Proibição - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082038": {
   "ch": "苍·灵盾符",
   "en": "Dark - Spiritual Shield Talisman",
-  "pt": "Talismã do Escudo Espiritual Sombrio",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escuridão - Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082039": {
   "ch": "道·灵盾符",
@@ -15825,62 +15918,62 @@
  "item_name6082050": {
   "ch": "残·拘灵符",
   "en": "Remnant - Soul Cage Talisman",
-  "pt": "Remanescente - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Remanescente - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082051": {
   "ch": "真·拘灵符",
   "en": "Exact - Soul Cage Talisman",
-  "pt": "Exato - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Exato - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082052": {
   "ch": "星·拘灵符",
   "en": "Star - Soul Cage Talisman",
-  "pt": "Estrela - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Estrela - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082053": {
   "ch": "灵·拘灵符",
   "en": "Spirit - Soul Cage Talisman",
-  "pt": "Espírito - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espírito - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082054": {
   "ch": "流·拘灵符",
   "en": "Flowing - Soul Cage Talisman",
-  "pt": "Fluente - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Fluente - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082055": {
   "ch": "绝·拘灵符",
   "en": "Special - Soul Cage Talisman",
-  "pt": "Especial - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Especial - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082056": {
   "ch": "幽·拘灵符",
   "en": "Specter - Soul Cage Talisman",
-  "pt": "Espectro - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espectro - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082057": {
   "ch": "禁·拘灵符",
   "en": "Ban - Soul Cage Talisman",
-  "pt": "Proibição - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Proibição - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082058": {
   "ch": "苍·拘灵符",
   "en": "Dark - Soul Cage Talisman",
-  "pt": "Escuridão - Talismã da Gaiola da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escuridão - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6082059": {
   "ch": "道·拘灵符",
   "en": "Path - Soul Cage Talisman",
-  "pt": "Caminho - Talismã da Alma",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caminho - Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6083010": {
   "ch": "瞬移符",
@@ -16029,26 +16122,26 @@
  "item_name6092020": {
   "ch": "迅雷符图谱",
   "en": "Thunder Talisman Chart",
-  "pt": "Diagrama do Talismã de Trovão",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama do Talismã do Trovão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6092030": {
   "ch": "灵盾符图谱",
   "en": "Spiritual Shield Talisman Chart",
-  "pt": "Diagrama do Talismã de Escudo Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama do Talismã do Escudo Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6092040": {
   "ch": "凶卫符图谱",
   "en": "Necromancer's Talisman Chart",
-  "pt": "Diagrama do Talismã de Necromante",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama do Talismã do Necromante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6092050": {
   "ch": "拘灵符图谱",
   "en": "Soul Cage Talisman Chart",
-  "pt": "Diagrama do Talismã de Gaiola de Almas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama do Talismã da Gaiola de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6093010": {
   "ch": "瞬移符图谱",
@@ -16071,8 +16164,8 @@
  "item_name6093040": {
   "ch": "神目符图谱",
   "en": "Divine Eye Talisman Chart",
-  "pt": "Diagrama do Talismã de Olho Divino",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama do Talismã do Olho Divino",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6093050": {
   "ch": "祈天符图谱",
@@ -16089,8 +16182,8 @@
  "item_name6101011": {
   "ch": "珠钗",
   "en": "Pearl Hairpin",
-  "pt": "Pérola de Cabelo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Grampo de Pérola",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6111016": {
   "ch": "传送符",
@@ -16119,8 +16212,8 @@
  "item_name6121036": {
   "ch": "浴火石",
   "en": "Flameward Stone",
-  "pt": "Pedra Flamejante",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Pedra Antichamas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6121046": {
   "ch": "昆仑神木",
@@ -16209,8 +16302,8 @@
  "item_name6151016": {
   "ch": "神秘玉人",
   "en": "Mysterious Figurine",
-  "pt": "Estátua Misteriosa",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Estatueta Misteriosa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6151026": {
   "ch": "云龙纹玉",
@@ -16263,32 +16356,47 @@
  "item_name6161392": {
   "ch": "炼器通论（一）",
   "en": "Forge Textbook (1)",
-  "pt": "Manual de Forja (1)",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Livro de Estudo de Forja (1)",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "item_name6161393": {
   "ch": "炼器通论（二）",
   "en": "Forge Textbook (2)",
-  "pt": "Manual de Forja (2)",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Livro de Estudo de Forja (2)",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "item_name6161394": {
   "ch": "炼器通论（三）",
   "en": "Forge Textbook (3)",
-  "pt": "Manual de Forja (3)",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Livro de Estudo de Forja (3)",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "item_name6161395": {
   "ch": "炼器通论（四）",
   "en": "Forge Textbook (4)",
-  "pt": "Manual de Forja (4)",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Livro de Estudo de Forja (4)",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "item_name6161396": {
   "ch": "炼器通论（终）",
   "en": "Forge Textbook (5)",
-  "pt": "Manual de Forja (5)",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Livro de Estudo de Forja (5)",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 28 > 24 caracteres"
+  ]
  },
  "item_name6161397": {
   "ch": "金丹论（一）",
@@ -16467,8 +16575,8 @@
  "item_name6171025": {
   "ch": "南荒笛",
   "en": "Southern Wilderness",
-  "pt": "Selvagem do Sul",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ermo do Sul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171102": {
   "ch": "东海礁石鉴识",
@@ -16479,20 +16587,20 @@
  "item_name6171103": {
   "ch": "地心熔石鉴识",
   "en": "Earth Core Stone Identification",
-  "pt": "Pedra de Identificação do Núcleo da Terra",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Pedra do Núcleo da Terra",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171104": {
   "ch": "九幽冥石鉴识",
   "en": "Netherworld Stone Identification",
-  "pt": "Pedra de Identificação do Submundo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Pedra do Submundo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171105": {
   "ch": "天元玄石鉴识",
   "en": "Deep Divinity Stone Identification",
-  "pt": "Pedra de Identificação da Divina Profundidade",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Pedra da Divina Profundidade",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171202": {
   "ch": "碧落断瑰鉴识",
@@ -16533,38 +16641,38 @@
  "item_name6171304": {
   "ch": "罪骨幻精鉴识",
   "en": "Deathrow Essence Identification",
-  "pt": "Identificação da Essência do Sangue Etéreo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Essência do Condenado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171305": {
   "ch": "天魂血精鉴识",
   "en": "Ethereal Blood Essence Identification",
-  "pt": "Identificação da Resina de Temperamento G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Essência de Sangue Etéreo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171402": {
   "ch": "下品淬凝胶鉴识",
   "en": "G5 Tempering Resin Identification",
-  "pt": "Identificação da Resina de Temperamento G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Resina de Têmpera G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171403": {
   "ch": "中品淬凝胶鉴识",
   "en": "G4 Tempering Resin Identification",
-  "pt": "Identificação da Resina de Temperamento G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Resina de Têmpera G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171404": {
   "ch": "上品淬凝胶鉴识",
   "en": "G3 Tempering Resin Identification",
-  "pt": "Identificação da Resina de Temperamento G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Identificação da Resina de Têmpera G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6171405": {
   "ch": "极品淬凝胶鉴识",
   "en": "G2 Tempering Resin Identification",
-  "pt": "Identificação de Resina de Temperagem G2",
-  "auto": "cohere/command-r-plus-08-2024"
+  "pt": "Identificação da Resina de Têmpera G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6181012": {
   "ch": "炽火",
@@ -16593,20 +16701,20 @@
  "item_name6181025": {
   "ch": "弄玉箫",
   "en": "Fair Princess",
-  "pt": "Princesa Justa",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Bela Princesa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6181110": {
   "ch": "荒炎号角炼器谱",
   "en": "Horn of Desolation Forge Chart",
-  "pt": "Diagrama da Forja do Corno da Desolação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama da Forja da Corneta da Desolação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6181210": {
   "ch": "斩雷晶锤炼器谱",
   "en": "Lightning Smasher Forge Chart",
-  "pt": "Diagrama da Forja do Triturador de Relâmpagos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama da Forja do Esmagador de Relâmpagos",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6181310": {
   "ch": "青冥玄钟炼器谱",
@@ -16647,14 +16755,14 @@
  "item_name6181910": {
   "ch": "吞天碧玺炼器谱",
   "en": "Skydevourer's Cyan Seal Forge Chart",
-  "pt": "Diagrama da Forja do Selo Cian do Devorador do Céu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama da Forja do Selo Ciano do Devorador de Céus",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6182010": {
   "ch": "离尘古琴炼器谱",
   "en": "Outlandish Guqin Forge Chart",
-  "pt": "Diagrama da Forja do Guqin do Deserto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Diagrama da Forja do Guqin Transcendente",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6191012": {
   "ch": "镇魂",
@@ -16677,8 +16785,8 @@
  "item_name6191024": {
   "ch": "天荒钟",
   "en": "Nightshade",
-  "pt": "Noite Sombria",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Beladona",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6201012": {
   "ch": "龙首形铜饰",
@@ -16893,8 +17001,8 @@
  "item_name6241026": {
   "ch": "{0}的遗物",
   "en": "{0}'s Belonging",
-  "pt": "Pertencimento de {0}",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Pertences de {0}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6281016": {
   "ch": "{0}的鸡",
@@ -17079,146 +17187,146 @@
  "item_name6331003": {
   "ch": "{#areaName6}寻灵符",
   "en": "{#areaName6} Psychic Charm",
-  "pt": "{#areaName6} Talismã Psíquico",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã Psíquico de {#areaName6}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331004": {
   "ch": "{#areaName8}寻灵符",
   "en": "{#areaName8} Psychic Charm",
-  "pt": "{#areaName8} Talismã Psíquico",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã Psíquico de {#areaName8}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331005": {
   "ch": "{#areaName10}寻灵符",
   "en": "{#areaName10} Psychic Charm",
-  "pt": "{#areaName10} Talismã Psíquico",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã Psíquico de {#areaName10}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331011": {
   "ch": "{#areaName3}引妖符",
   "en": "{#areaName3} Lure Charm",
-  "pt": "{#areaName3} Talismã de Atração",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Atração de {#areaName3}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331012": {
   "ch": "{#areaName5}引妖符",
   "en": "{#areaName5} Lure Charm",
-  "pt": "{#areaName5} Talismã de Atração",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Atração de {#areaName5}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331013": {
   "ch": "{#areaName7}引妖符",
   "en": "{#areaName7} Lure Charm",
-  "pt": "{#areaName7} Talismã de Atração",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Atração de {#areaName7}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331014": {
   "ch": "{#areaName9}引妖符",
   "en": "{#areaName9} Lure Charm",
-  "pt": "{#areaName9} Talismã de Atração",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Atração de {#areaName9}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331015": {
   "ch": "{#areaName10}引妖符",
   "en": "{#areaName10} Lure Charm",
-  "pt": "{#areaName10} Talismã de Atração",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Atração de {#areaName10}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331021": {
   "ch": "{#areaName3}避妖符",
   "en": "{#areaName3} Repellent Charm",
-  "pt": "{#areaName3} Talismã de Repelência",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Repelência de {#areaName3}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331022": {
   "ch": "{#areaName5}避妖符",
   "en": "{#areaName5} Repellent Charm",
-  "pt": "{#areaName5} Talismã de Repelência",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Repelência de {#areaName5}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331023": {
   "ch": "{#areaName7}避妖符",
   "en": "{#areaName7} Repellent Charm",
-  "pt": "{#areaName7} Talismã de Repelência",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Repelência de {#areaName7}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331024": {
   "ch": "{#areaName9}避妖符",
   "en": "{#areaName9} Repellent Charm",
-  "pt": "{#areaName9} Talismã de Repelência",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Repelência de {#areaName9}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331025": {
   "ch": "{#areaName10}避妖符",
   "en": "{#areaName10} Repellent Charm",
-  "pt": "{#areaName10} Talismã de Repelência",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Repelência de {#areaName10}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331031": {
   "ch": "{#areaName2}传送符",
   "en": "{#areaName2} Teleportation Charm",
-  "pt": "{#areaName2} Talismã de Teletransporte",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Teletransporte de {#areaName2}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331032": {
   "ch": "{#areaName4}传送符",
   "en": "{#areaName4} Teleportation Charm",
-  "pt": "{#areaName4} Talismã de Teletransporte",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Teletransporte de {#areaName4}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331033": {
   "ch": "{#areaName6}传送符",
   "en": "{#areaName6} Teleportation Charm",
-  "pt": "{#areaName6} Talismã de Teletransporte",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Teletransporte de {#areaName6}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331034": {
   "ch": "{#areaName8}传送符",
   "en": "{#areaName8} Teleportation Charm",
-  "pt": "{#areaName8} Talismã de Teletransporte",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Teletransporte de {#areaName8}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331035": {
   "ch": "{#areaName10}传送符",
   "en": "{#areaName10} Teleportation Charm",
-  "pt": "{#areaName10} Talismã de Teletransporte",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Talismã de Teletransporte de {#areaName10}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331041": {
   "ch": "{#areaName2}隐息符",
   "en": "{#areaName2} Cloaking Rune",
-  "pt": "{#areaName2} Runa de Ocultação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Runa de Ocultação de {#areaName2}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331042": {
   "ch": "{#areaName4}隐息符",
   "en": "{#areaName4} Cloaking Rune",
-  "pt": "{#areaName4} Runa de Ocultação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Runa de Ocultação de {#areaName4}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331043": {
   "ch": "{#areaName6}隐息符",
   "en": "{#areaName6} Cloaking Rune",
-  "pt": "{#areaName6} Runa de Ocultação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Runa de Ocultação de {#areaName6}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331044": {
   "ch": "{#areaName8}隐息符",
   "en": "{#areaName8} Cloaking Rune",
-  "pt": "{#areaName8} Runa de Ocultação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Runa de Ocultação de {#areaName8}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6331045": {
   "ch": "{#areaName10}隐息符",
   "en": "{#areaName10} Cloaking Rune",
-  "pt": "{#areaName10} Runa de Ocultação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Runa de Ocultação de {#areaName10}",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6341016": {
   "ch": "八宝饭",
   "en": "Eight Treasure Rice",
-  "pt": "Arroz de Tesouro dos Oito",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Arroz dos Oito Tesouros",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6351016": {
   "ch": "鬼谷秘卷-本经阴符化神",
@@ -17319,14 +17427,14 @@
  "item_name6391034": {
   "ch": "《百晓佚闻·灵虬降世》卷四",
   "en": "Divine Tale of the Heavenly Wyvern Volume 4",
-  "pt": "Divino Conto do Wyvern Celestial Volume 4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Conto Divino do Dragão Celestial Volume 4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6440014": {
   "ch": "凡品沉木宝箱",
   "en": "G5 Agarwood Chest",
-  "pt": "Caixa de Madeira de Agarwood G5",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caixa de Aloés G5",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6440015": {
   "ch": "凡品精金宝箱",
@@ -17343,8 +17451,8 @@
  "item_name6440034": {
   "ch": "良品沉木宝箱",
   "en": "G4 Agarwood Chest",
-  "pt": "Caixa de Madeira de Agarwood G4",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caixa de Aloés G4",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6440035": {
   "ch": "良品精金宝箱",
@@ -17361,8 +17469,8 @@
  "item_name6440054": {
   "ch": "上品沉木宝箱",
   "en": "G3 Agarwood Chest",
-  "pt": "Caixa de Madeira de Agarwood G3",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caixa de Aloés G3",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6440055": {
   "ch": "上品精金宝箱",
@@ -17379,8 +17487,8 @@
  "item_name6440074": {
   "ch": "极品沉木宝箱",
   "en": "G2 Agarwood Chest",
-  "pt": "Caixa de Madeira de Agarwood G2",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caixa de Aloés G2",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6440075": {
   "ch": "极品精金宝箱",
@@ -17397,8 +17505,8 @@
  "item_name6440094": {
   "ch": "仙品沉木宝箱",
   "en": "G1 Agarwood Chest",
-  "pt": "Caixa de Madeira de Agarwood G1",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Caixa de Aloés G1",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name6440095": {
   "ch": "仙品精金宝箱",
@@ -17505,26 +17613,26 @@
  "item_name7000016": {
   "ch": "寄宿着灵魂的玲珑魂灯",
   "en": "Soulbound Lamp",
-  "pt": "Lâmpada das Almas Encarnadas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lâmpada Vinculada à Alma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000017": {
   "ch": "兔妖的胡萝卜",
   "en": "Rabbit Spirit's Carrot",
-  "pt": "Cenoura do Espírito Coelho",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cenoura do Espírito do Coelho",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000018": {
   "ch": "兔妖的胡萝卜",
   "en": "Rabbit Spirit's Carrot",
-  "pt": "Cenoura do Espírito Coelho",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cenoura do Espírito do Coelho",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000019": {
   "ch": "兔妖的胡萝卜",
   "en": "Rabbit Spirit's Carrot",
-  "pt": "Cenoura do Espírito Coelho",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cenoura do Espírito do Coelho",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000020": {
   "ch": "破损的御鬼幡",
@@ -17643,8 +17751,8 @@
  "item_name7000047": {
   "ch": "冤魂珠",
   "en": "Ghost Orb",
-  "pt": "Orbe do Espírito Injustiçado",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Orbe Fantasma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000048": {
   "ch": "引魂灯",
@@ -17817,8 +17925,8 @@
  "item_name7000101": {
   "ch": "毛茸茸的白色尾巴",
   "en": "Fluffy White Tail",
-  "pt": "Cauda Branca e Fofo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cauda Branca e Fofa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000102": {
   "ch": "神秘内丹",
@@ -17883,8 +17991,8 @@
  "item_name7000151": {
   "ch": "冥山阳刻树雕",
   "en": "Nether Mountains Woodcarving",
-  "pt": "Madeira de Escultura das Montanhas do Submundo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escultura em Madeira das Montanhas do Submundo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7000152": {
   "ch": "扶桑枝碎屑",
@@ -18573,8 +18681,8 @@
  "item_name7021016": {
   "ch": "神秘玉人",
   "en": "Mysterious Figurine",
-  "pt": "Estátua Misteriosa",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Estatueta Misteriosa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7021026": {
   "ch": "云龙纹玉",
@@ -18633,26 +18741,26 @@
  "item_name7041013": {
   "ch": "玉衡笛",
   "en": "Alioth Flute",
-  "pt": "Flauta Alioth",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Flauta de Alioth",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7041014": {
   "ch": "通幽笛",
   "en": "Psychic Flute",
-  "pt": "Flauta psíquica",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Flauta Psíquica",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7041015": {
   "ch": "寒月冰魄",
   "en": "Cold Moon",
-  "pt": "Lua fria",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lua Fria",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7041016": {
   "ch": "南荒笛",
   "en": "Southern Wilderness",
-  "pt": "Selva do sul",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ermo do Sul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7051012": {
   "ch": "炽火",
@@ -18663,26 +18771,26 @@
  "item_name7051013": {
   "ch": "青耀",
   "en": "Green Radiance",
-  "pt": "Radiante verde",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Brilho Verde",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7051014": {
   "ch": "苍野",
   "en": "Vast Land",
-  "pt": "Terra vasta",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Terra Vasta",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7051015": {
   "ch": "碧云",
   "en": "Azure Cloud",
-  "pt": "Nuvem azul",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Nuvem Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7051016": {
   "ch": "弄玉箫",
   "en": "Fair Princess",
-  "pt": "Princesa justa",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Bela Princesa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7061012": {
   "ch": "镇魂",
@@ -18705,8 +18813,8 @@
  "item_name7061015": {
   "ch": "天荒钟",
   "en": "Nightshade",
-  "pt": "Noite sombria",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Beladona",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7071012": {
   "ch": "龙首形铜饰",
@@ -18723,38 +18831,44 @@
  "item_name7071023": {
   "ch": "雍和腾蛇像",
   "en": "Flying Serpent Idol",
-  "pt": "Ídolo serpente voadora",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ídolo da Serpente Voadora",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7071033": {
   "ch": "刑天像",
   "en": "Xingtian Idol",
-  "pt": "Ídolo Xingtian",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ídolo de Xingtian",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7071034": {
   "ch": "沙漠之舟",
   "en": "Ship of the Desert",
-  "pt": "Navio do deserto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Navio do Deserto",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7071044": {
   "ch": "青铜树",
   "en": "Mulberry Statue",
-  "pt": "Estátua de amoreira",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Estátua de Bronze da Amoreira",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 20 caracteres"
+  ]
  },
  "item_name7071045": {
   "ch": "夔龙壶",
   "en": "Dragon Vessel",
-  "pt": "Vaso dragão",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Vaso Dragão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7071055": {
   "ch": "错金银云纹犀尊",
   "en": "Silver Could Zun",
-  "pt": "Zun de prata e nuvens",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Taça de Prata com Nuvens",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 24 > 21 caracteres"
+  ]
  },
  "item_name7071056": {
   "ch": "朱雀衔环杯",
@@ -18765,8 +18879,8 @@
  "item_name7071066": {
   "ch": "祥纹匕首",
   "en": "Patterned Dagger",
-  "pt": "Adaga Ornamental",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Adaga com Padrão",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7071076": {
   "ch": "通灵卣",
@@ -18801,8 +18915,8 @@
  "item_name7081016": {
   "ch": "人面鱼纹彩陶盆",
   "en": "Painted Pottery Basin",
-  "pt": "Bacia de Cerâmica com Padrão de Pessoa e Peixe",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Bacia de Cerâmica Pintada",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7081026": {
   "ch": "陶鹰鼎",
@@ -18897,8 +19011,8 @@
  "item_name7101014": {
   "ch": "灵龟卜甲",
   "en": "Divination Shell",
-  "pt": "Concha de Adivinhação",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Casca de Divinação",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name7101015": {
   "ch": "异兽牙链",
@@ -18909,8 +19023,11 @@
  "item_name7101016": {
   "ch": "夔骨槌",
   "en": "Kui Bone Mallet",
-  "pt": "Malhete de Osso Kui",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Malhete de Osso de Kui",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 22 > 20 caracteres"
+  ]
  },
  "item_name8103101": {
   "ch": "丑道人的拜帖",
@@ -18963,8 +19080,8 @@
  "item_name8103205": {
   "ch": "黄色薄册残页",
   "en": "Yellow Booklet Pages",
-  "pt": "Páginas de Livre Amarelo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Páginas do Folheto Amarelo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8103206": {
   "ch": "带着泪迹的留书",
@@ -19107,8 +19224,8 @@
  "item_name8103511": {
   "ch": "冰铅",
   "en": "Frost Lead",
-  "pt": "Chumbo Frost",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Chumbo Gélido",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8103541": {
   "ch": "蓝色宝珠",
@@ -19119,8 +19236,8 @@
  "item_name8103551": {
   "ch": "青影明光",
   "en": "Azure Radiance",
-  "pt": "Radiante Azul",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Brilho Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8103561": {
   "ch": "紫色宝珠",
@@ -19353,8 +19470,8 @@
  "item_name8103746": {
   "ch": "",
   "en": "Wooden Nexus - Imperial",
-  "pt": "Conexão de Madeira - Imperial",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Nexus de Madeira - Imperial",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8103747": {
   "ch": "",
@@ -19371,14 +19488,14 @@
  "item_name8103749": {
   "ch": "",
   "en": "Vessel of the Soul · Lifeguard",
-  "pt": "Vaso da Alma · Guarda-vidas",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Receptáculo da Alma · Guarda-vidas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8103750": {
   "ch": "",
   "en": "Silken Knot: Spiderling",
-  "pt": "Nó de Seda: Aranha",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Nó de Seda: Aranhinha",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8103751": {
   "ch": "",
@@ -19497,8 +19614,8 @@
  "item_name8104130": {
   "ch": "噬魂剑·凝锋",
   "en": "Soul Reaver: Edge Manifest",
-  "pt": "Ceifador de Almas: Lâmina Manifest",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ceifador de Almas: Lâmina Manifesta",
+  "auto": "nuvem/revisao-prioridade"
  },
  "item_name8104131": {
   "ch": "噬魂剑·幽影",
@@ -19545,8 +19662,11 @@
  "item_name8104205": {
   "ch": "青色莲子",
   "en": "Cyan Lotus Seed",
-  "pt": "Semente de Lótus Cian",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Semente de Lótus Ciano",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "item_name8104206": {
   "ch": "蓝色莲子",

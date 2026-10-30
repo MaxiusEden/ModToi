@@ -2,8 +2,8 @@
  "effect_name100": {
   "ch": "身法沉默",
   "en": "身法沉默",
-  "pt": "Silêncio do Corpo",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Silêncio de Técnica de Movimento",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name100006": {
   "ch": "蛇毒",
@@ -362,20 +362,29 @@
  "effect_name3221111": {
   "ch": "吸血",
   "en": "Leech",
-  "pt": "Suga",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Roubo de Vida",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 13 > 8 caracteres"
+  ]
  },
  "effect_name3221132": {
   "ch": "斩杀吸血",
   "en": "Leech on Execute",
-  "pt": "Suga em Execução",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Roubo de Vida em Execução",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 21 caracteres"
+  ]
  },
  "effect_name3221153": {
   "ch": "邪刃",
   "en": "Felblade",
-  "pt": "Lâmina Vil",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lâmina Maligna",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 14 > 11 caracteres"
+  ]
  },
  "effect_name3221161": {
   "ch": "横扫",
@@ -386,8 +395,11 @@
  "effect_name3230011": {
   "ch": "撕裂",
   "en": "Rend",
-  "pt": "Lacerar",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Dilaceração",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 11 > 7 caracteres"
+  ]
  },
  "effect_name3230021": {
   "ch": "溃痕",
@@ -506,8 +518,8 @@
  "effect_name3321113": {
   "ch": "魔刃斩",
   "en": "Demonic Cleave",
-  "pt": "Corte Demoníaca",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Corte Demoníaco",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name3321122": {
   "ch": "霸道",
@@ -716,8 +728,8 @@
  "effect_name3561144": {
   "ch": "活灵",
   "en": "Floral Spirit",
-  "pt": "Espírito Vital",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Espírito Floral",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name3561154": {
   "ch": "毒粉",
@@ -830,26 +842,26 @@
  "effect_name4100001": {
   "ch": "小体力丹",
   "en": "小体力丹",
-  "pt": "Pequena Poção de Vigor",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pequena Pílula de Vitalidade",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name4100002": {
   "ch": "大体力丹",
   "en": "大体力丹",
-  "pt": "Grande Poção de Vigor",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Grande Pílula de Vitalidade",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name4100003": {
   "ch": "小灵力丹",
   "en": "小灵力丹",
-  "pt": "Pequena Pílula de Poder Espiritual",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pequena Pílula de Energia",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name4100004": {
   "ch": "大灵力丹",
   "en": "大灵力丹",
-  "pt": "Grande Pílula de Poder Espiritual",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Grande Pílula de Energia",
+  "auto": "nuvem/revisao-prioridade"
  },
  "effect_name4100005": {
   "ch": "攻击丹",
@@ -974,8 +986,11 @@
  "effect_name7000581": {
   "ch": "归一",
   "en": "Ward",
-  "pt": "Guarda",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Proteção",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "effect_name7000591": {
   "ch": "星耀",

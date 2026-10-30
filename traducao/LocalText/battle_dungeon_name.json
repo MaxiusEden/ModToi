@@ -14,8 +14,8 @@
  "battle_dungeon_name100002": {
   "ch": "对战青衣道人",
   "en": "Fight the Blue-Clad Cultivator",
-  "pt": "Lutar contra o Cultivador de Vestes Azuis",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lutar contra o Cultivador de Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100003": {
   "ch": "对战剑宗",
@@ -26,8 +26,8 @@
  "battle_dungeon_name100004": {
   "ch": "对战剑宗及青衣道人",
   "en": "Fight Sword Sect and the Blue-Clad Cultivator",
-  "pt": "Lutar contra a Seita da Espada e o Cultivador de Vestes Azuis",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lutar contra a Seita da Espada e o Cultivador de Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100005": {
   "ch": "拆除鬼屋",
@@ -68,8 +68,8 @@
  "battle_dungeon_name100013": {
   "ch": "对战树妖",
   "en": "Fight the Evergreen",
-  "pt": "Lutar contra o Demônio da Árvore",
-  "auto": "cohere/command-a-reasoning-08-2025+revisao-nuvem"
+  "pt": "Lutar contra o Sempre-Verde",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100022": {
   "ch": "对战猴子",
@@ -146,20 +146,20 @@
  "battle_dungeon_name100108": {
   "ch": "对战青衣道人",
   "en": "Fight the Blue-Clad Cultivator",
-  "pt": "Lutar contra o Cultivador de Vestes Azuis",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lutar contra o Cultivador de Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100109": {
   "ch": "对战剑宗和青衣道人",
   "en": "Fight Sword Sect and the Blue-Clad Cultivator",
-  "pt": "Lutar contra a Seita da Espada e o Cultivador de Vestes Azuis",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lutar contra a Seita da Espada e o Cultivador de Azul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100111": {
   "ch": "对战陌生女子",
   "en": "Fight the Female Stranger",
-  "pt": "Lutar contra a Estranha",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lutar contra a Mulher Desconhecida",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100121": {
   "ch": "宗门灵兽",
@@ -200,14 +200,14 @@
  "battle_dungeon_name100141": {
   "ch": "凶恶妖兽",
   "en": "Evil Monster",
-  "pt": "Monstro Maligno",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Monstro Malvado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100142": {
   "ch": "凶恶妖兽",
   "en": "Evil Monster",
-  "pt": "Monstro Maligno",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Monstro Malvado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100143": {
   "ch": "凶恶妖兽",
@@ -356,26 +356,29 @@
  "battle_dungeon_name100214": {
   "ch": "中型遗址掠夺战",
   "en": "Medium Ruins Raid",
-  "pt": "Raid de Ruínas Médias",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 23 caracteres"
+  ]
  },
  "battle_dungeon_name1002141": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002142": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": "Médias Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002143": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002144": {
   "ch": "特大遗迹",
@@ -386,56 +389,56 @@
  "battle_dungeon_name100221": {
   "ch": "大型龙脉掠夺战",
   "en": "Large Dragon Vein Raid",
-  "pt": "Raid da Veia do Dragão Grande",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002211": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": "Pequena Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Pequena",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002212": {
   "ch": "中型龙脉",
   "en": "Medium Dragon Vein",
-  "pt": "Média Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Média",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002213": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": "Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002214": {
   "ch": "特大龙脉",
   "en": "Huge Dragon Vein",
-  "pt": "Enorme Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100222": {
   "ch": "大型药园掠夺战",
   "en": "Large Herb Garden Raid",
-  "pt": "Raid do Jardim de Ervas Grande",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002221": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": "Pequeno Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002222": {
   "ch": "中型药园",
   "en": "Medium Herb Garden",
-  "pt": "Médio Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002223": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": "Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002224": {
   "ch": "特大药园",
@@ -446,8 +449,8 @@
  "battle_dungeon_name100223": {
   "ch": "大型矿藏掠夺战",
   "en": "Large Ore Deposit Raid",
-  "pt": "Raid do Depósito de Minério Grande",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Depósito de Minério Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002231": {
   "ch": "小型矿藏",
@@ -476,26 +479,26 @@
  "battle_dungeon_name100224": {
   "ch": "大型遗址掠夺战",
   "en": "Large Ruins Raid",
-  "pt": "Incursão às Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002241": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002242": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": "Médias Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002243": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002244": {
   "ch": "特大遗迹",
@@ -506,56 +509,56 @@
  "battle_dungeon_name100231": {
   "ch": "特大龙脉掠夺战",
   "en": "Huge Dragon Vein Raid",
-  "pt": "Incursão à Enorme Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Veia do Dragão Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002311": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": "Pequena Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Pequena",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002312": {
   "ch": "中型龙脉",
   "en": "Medium Dragon Vein",
-  "pt": "Média Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Média",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002313": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": "Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002314": {
   "ch": "特大龙脉",
   "en": "Huge Dragon Vein",
-  "pt": "Enorme Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100232": {
   "ch": "特大药园掠夺战",
   "en": "Huge Herb Garden Raid",
-  "pt": "Incursão ao Enorme Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Jardim de Ervas Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002321": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": "Pequeno Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002322": {
   "ch": "中型药园",
   "en": "Medium Herb Garden",
-  "pt": "Médio Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002323": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": "Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002324": {
   "ch": "特大药园",
@@ -566,8 +569,8 @@
  "battle_dungeon_name100233": {
   "ch": "特大矿藏掠夺战",
   "en": "Huge Ore Deposit Raid",
-  "pt": "Incursão ao Enorme Depósito de Minério",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Depósito de Minério Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002331": {
   "ch": "小型矿藏",
@@ -596,26 +599,26 @@
  "battle_dungeon_name100234": {
   "ch": "特大遗址掠夺战",
   "en": "Huge Ruins Raid",
-  "pt": "Incursão nas Ruínas Enormes",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Incursão em Ruínas Enormes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002341": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002342": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": "Médias Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002343": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002344": {
   "ch": "特大遗迹",
@@ -626,44 +629,44 @@
  "battle_dungeon_name1002411": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": "Pequena Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Pequena",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002412": {
   "ch": "中型龙脉",
   "en": "Medium Dragon Vein",
-  "pt": "Média Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Média",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002413": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": "Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002414": {
   "ch": "特大龙脉",
   "en": "Huge Dragon Vein",
-  "pt": "Enorme Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002421": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": "Pequeno Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002422": {
   "ch": "中型药园",
   "en": "Medium Herb Garden",
-  "pt": "Médio Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002423": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": "Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002424": {
   "ch": "特大药园",
@@ -698,20 +701,20 @@
  "battle_dungeon_name1002441": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002442": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": "Médias Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002443": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002444": {
   "ch": "特大遗迹",
@@ -722,44 +725,44 @@
  "battle_dungeon_name1002511": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": "Pequena Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Pequena",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002512": {
   "ch": "中型龙脉",
   "en": "Medium Dragon Vein",
-  "pt": "Média Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Média",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002513": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": "Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002514": {
   "ch": "特大龙脉",
   "en": "Huge Dragon Vein",
-  "pt": "Enorme Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002521": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": "Pequeno Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002522": {
   "ch": "中型药园",
   "en": "Medium Herb Garden",
-  "pt": "Médio Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002523": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": "Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002524": {
   "ch": "特大药园",
@@ -794,20 +797,20 @@
  "battle_dungeon_name1002541": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002542": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": "Médias Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002543": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1002544": {
   "ch": "特大遗迹",
@@ -830,8 +833,8 @@
  "battle_dungeon_name100303": {
   "ch": "小型矿藏占领战",
   "en": "Small Ore Deposit Takeover",
-  "pt": "Tomada de Minério Pequeno",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Depósito de Minério Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100304": {
   "ch": "小型遗址占领战",
@@ -908,44 +911,53 @@
  "battle_dungeon_name100313": {
   "ch": "中型矿藏占领战",
   "en": "Medium Ore Deposit Takeover",
-  "pt": "Tomada de Minério Médio",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Depósito de Minério Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003131": {
   "ch": "小型矿藏",
   "en": "Small Ore Deposit",
-  "pt": "Minério Pequeno",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Depósito de Minério Pequeno",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 23 caracteres"
+  ]
  },
  "battle_dungeon_name1003132": {
   "ch": "中型矿藏",
   "en": "Medium Ore Deposit",
-  "pt": "Minério Médio",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Depósito de Minério Médio",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 25 > 24 caracteres"
+  ]
  },
  "battle_dungeon_name1003133": {
   "ch": "大型矿藏",
   "en": "Large Ore Deposit",
-  "pt": "Minério Grande",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Depósito de Minério Grande",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 26 > 23 caracteres"
+  ]
  },
  "battle_dungeon_name1003134": {
   "ch": "特大矿藏",
   "en": "Huge Ore Deposit",
-  "pt": "Depósito Enorme de Minério",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Depósito de Minério Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name100314": {
   "ch": "中型遗址占领战",
   "en": "Medium Ruins Takeover",
-  "pt": "Ocupação das Ruínas Médias",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003141": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003142": {
   "ch": "中型遗迹",
@@ -956,8 +968,8 @@
  "battle_dungeon_name1003143": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003144": {
   "ch": "特大遗迹",
@@ -968,14 +980,14 @@
  "battle_dungeon_name100321": {
   "ch": "大型龙脉占领战",
   "en": "Large Dragon Vein Takeover",
-  "pt": "Ocupação da Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003211": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": "Pequena Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Pequena",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003212": {
   "ch": "中型龙脉",
@@ -986,8 +998,8 @@
  "battle_dungeon_name1003213": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": "Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003214": {
   "ch": "特大龙脉",
@@ -998,14 +1010,14 @@
  "battle_dungeon_name100322": {
   "ch": "大型药园占领战",
   "en": "Large Herb Garden Takeover",
-  "pt": "Ocupação do Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003221": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": "Pequeno Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003222": {
   "ch": "中型药园",
@@ -1016,8 +1028,8 @@
  "battle_dungeon_name1003223": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": "Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003224": {
   "ch": "特大药园",
@@ -1028,8 +1040,8 @@
  "battle_dungeon_name100323": {
   "ch": "大型矿藏占领战",
   "en": "Large Ore Deposit Takeover",
-  "pt": "Ocupação do Grande Depósito de Minério",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Depósito de Minério Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003231": {
   "ch": "小型矿藏",
@@ -1178,8 +1190,8 @@
  "battle_dungeon_name100334": {
   "ch": "特大遗址占领战",
   "en": "Huge Ruins Takeover",
-  "pt": "Tomada de Ruínas Gigantes",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tomada de Ruínas Enormes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003341": {
   "ch": "小型遗迹",
@@ -1292,8 +1304,8 @@
  "battle_dungeon_name1003443": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003444": {
   "ch": "特大遗迹",
@@ -1304,44 +1316,44 @@
  "battle_dungeon_name1003511": {
   "ch": "小型龙脉",
   "en": "Small Dragon Vein",
-  "pt": "Pequena Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Pequena",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003512": {
   "ch": "中型龙脉",
   "en": "Medium Dragon Vein",
-  "pt": "Média Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Média",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003513": {
   "ch": "大型龙脉",
   "en": "Large Dragon Vein",
-  "pt": "Grande Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003514": {
   "ch": "特大龙脉",
   "en": "Huge Dragon Vein",
-  "pt": "Enorme Veia do Dragão",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Veia do Dragão Enorme",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003521": {
   "ch": "小型药园",
   "en": "Small Herb Garden",
-  "pt": "Pequeno Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Pequeno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003522": {
   "ch": "中型药园",
   "en": "Medium Herb Garden",
-  "pt": "Médio Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003523": {
   "ch": "大型药园",
   "en": "Large Herb Garden",
-  "pt": "Grande Jardim de Ervas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Jardim de Ervas Grande",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003524": {
   "ch": "特大药园",
@@ -1376,20 +1388,20 @@
  "battle_dungeon_name1003541": {
   "ch": "小型遗迹",
   "en": "Small Ruins",
-  "pt": "Pequenas Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Pequenas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003542": {
   "ch": "中型遗迹",
   "en": "Medium Ruins",
-  "pt": "Médias Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Médias",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003543": {
   "ch": "大型遗迹",
   "en": "Large Ruins",
-  "pt": "Grandes Ruínas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ruínas Grandes",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1003544": {
   "ch": "特大遗迹",
@@ -1400,8 +1412,8 @@
  "battle_dungeon_name101": {
   "ch": "灵蕴竹林",
   "en": "Lingyun Forest",
-  "pt": "Floresta Lingyun",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Floresta de Lingyun",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name101011": {
   "ch": "神秘村落",
@@ -1424,8 +1436,8 @@
  "battle_dungeon_name101111": {
   "ch": "假扮河神的贼人",
   "en": "A thug who pretends to be the River God",
-  "pt": "Um bandido que se passa por o Deus do Rio",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Um bandido que se passa pelo Deus do Rio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1012": {
   "ch": "灵蕴竹林",
@@ -1622,20 +1634,20 @@
  "battle_dungeon_name104288": {
   "ch": "桃花幻境·宝藏",
   "en": "Peach Forest - Treasure",
-  "pt": "Floresta de Pêssego - Tesouro",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Floresta de Pêssegos - Tesouro",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1043": {
   "ch": "树人之森",
   "en": "Evergreen Forest",
-  "pt": "Floresta Perene",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Floresta Sempre-Verde",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name104388": {
   "ch": "树人之森·宝藏",
   "en": "Evergreen Forest - Treasure",
-  "pt": "Floresta Perene - Tesouro",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Floresta Sempre-Verde - Tesouro",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1044": {
   "ch": "桃花幻境",
@@ -1646,8 +1658,8 @@
  "battle_dungeon_name104488": {
   "ch": "桃花幻境·宝藏",
   "en": "Peach Forest - Treasure",
-  "pt": "Floresta de Pêssego - Tesouro",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Floresta de Pêssegos - Tesouro",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1045": {
   "ch": "树人之森",
@@ -1856,8 +1868,8 @@
  "battle_dungeon_name109": {
   "ch": "十万大山",
   "en": "Hundred Thousand Hills",
-  "pt": "Centenas de Colinas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Cem Mil Colinas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name1091": {
   "ch": "灵狐青丘",
@@ -1970,20 +1982,20 @@
  "battle_dungeon_name193": {
   "ch": "噬魂剑反噬",
   "en": "Soul Reaver's Retribution",
-  "pt": "Retribuição do Devorador de Almas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Retribuição do Ceifador de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name194": {
   "ch": "讨伐噬魂剑",
   "en": "Subdue the Soul Reaver",
-  "pt": "Subjugar o Devorador de Almas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Subjugar o Ceifador de Almas",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2001": {
   "ch": "贪金妖狐",
   "en": "Greedy Vulpus",
-  "pt": "Vulpus Ávido",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Vulpes Ávido",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2002": {
   "ch": "刀剑副本",
@@ -2054,32 +2066,32 @@
  "battle_dungeon_name2013": {
   "ch": "小小右报仇",
   "en": "Revenge: Lil' Right",
-  "pt": "Revanche: Pequeno Direito",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Vingança: Pequeno Direito",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2014": {
   "ch": "小小东报仇",
   "en": "Revenge: Lil' East",
-  "pt": "Revanche: Pequeno Leste",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Vingança: Pequeno Leste",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2015": {
   "ch": "小小西报仇",
   "en": "Revenge: Lil' West",
-  "pt": "Revanche: Pequeno Oeste",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Vingança: Pequeno Oeste",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2016": {
   "ch": "小小南报仇",
   "en": "Revenge: Lil' South",
-  "pt": "Revanche: Pequeno Sul",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Vingança: Pequeno Sul",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2017": {
   "ch": "小小北报仇",
   "en": "Revenge: Lil' North",
-  "pt": "Revanche: Pequeno Norte",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Vingança: Pequeno Norte",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2018": {
   "ch": "武罗",
@@ -2198,14 +2210,14 @@
  "battle_dungeon_name2037": {
   "ch": "击杀树妖",
   "en": "Evergreen Battle",
-  "pt": "Batalha do Demônio da Árvore",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Batalha do Sempre-Verde",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2101": {
   "ch": "灵蕴竹林",
   "en": "Lingyun Forest",
-  "pt": "Floresta Lingyun",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Floresta de Lingyun",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name2102": {
   "ch": "阴森荒地",
@@ -2732,20 +2744,20 @@
  "battle_dungeon_name6107": {
   "ch": "狂暴异兽",
   "en": "Berserk Beast",
-  "pt": "Fera Descontrolada",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fera Furiosa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name6108": {
   "ch": "狂暴异兽",
   "en": "Berserk Beast",
-  "pt": "Fera Descontrolada",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fera Furiosa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name6109": {
   "ch": "狂暴异兽",
   "en": "Berserk Beast",
-  "pt": "Fera Descontrolada",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fera Furiosa",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name7001": {
   "ch": "通灵秘境",
@@ -2840,8 +2852,8 @@
  "battle_dungeon_name7222": {
   "ch": "不归之境",
   "en": "Land of No Return",
-  "pt": "Terra do Não-Retorno",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Terra do Não Retorno",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_name7241": {
   "ch": "埋宝之地",
@@ -2882,20 +2894,29 @@
  "battle_dungeon_name7281": {
   "ch": "狂暴血傀",
   "en": "Berserk Blood Puppet",
-  "pt": "Fantoche de Sangue Furioso",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Marionete de Sangue Furiosa",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "battle_dungeon_name7282": {
   "ch": "狂暴血傀",
   "en": "Berserk Blood Puppet",
-  "pt": "Fantoche de Sangue Furioso",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Marionete de Sangue Furiosa",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "battle_dungeon_name7283": {
   "ch": "狂暴血傀",
   "en": "Berserk Blood Puppet",
-  "pt": "Fantoche de Sangue Furioso",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Marionete de Sangue Furiosa",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 27 > 26 caracteres"
+  ]
  },
  "battle_dungeon_name7661": {
   "ch": "{mapData125}",

@@ -2,9 +2,9 @@
 
 Instruções para a sessão do Claude Code na nuvem que traduz os lotes desta pasta. A exceção que permite isso está no `CLAUDE.md` (seção "Modelos de tradução", regra "O Claude não traduz em volume"), autorizada pelo usuário em 2026-10-25 e válida até 2026-11-05.
 
-## Tarefa atual: revisão por prioridade (crédito limitado)
+## Revisão por prioridade (crédito limitado)
 
-Esta é a única tarefa em aberto; as seções seguintes são o histórico das anteriores. Sobra pouco crédito, então gaste o mínimo em cada passo: o que não for feito aqui fica para depois, sem problema.
+Concluída: os 169 lotes foram feitos e juntados no `traducao/LocalText`. Não há tarefa em aberto nesta pasta; esta seção e as seguintes são o histórico.
 
 `prioridade/src_pNNN.json` (169 lotes, do mais ao menos importante; `prioridade/INDICE.md` lista o conteúdo). Grupo A (p001–p042): interface, nomes e descrições que nunca foram revisados. Grupo B (p043–p169): segunda leitura de missões e diálogos, sem o campo `ch`.
 

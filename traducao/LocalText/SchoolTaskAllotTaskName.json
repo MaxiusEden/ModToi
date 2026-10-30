@@ -152,8 +152,11 @@
  "SchoolTaskAllotTaskName11301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": "Conhecer Escolhido pelo Céu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Conhecer o Escolhido pelo Céu",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 27 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName11302": {
   "ch": "参加训练",
@@ -194,8 +197,8 @@
  "SchoolTaskAllotTaskName11308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": "Ensinar Taoismo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ensinar Daoísmo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName11401": {
   "ch": "宣传宗门",
@@ -248,8 +251,8 @@
  "SchoolTaskAllotTaskName11603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": "Concoctar Elixir",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preparar Elixir",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName11604": {
   "ch": "炼制法宝",
@@ -260,8 +263,8 @@
  "SchoolTaskAllotTaskName11605": {
   "ch": "救助伤员",
   "en": "Rescue the Injured",
-  "pt": "Rescatar os Feridos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Resgatar os Feridos",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName11606": {
   "ch": "夜观星象",
@@ -272,8 +275,8 @@
  "SchoolTaskAllotTaskName11607": {
   "ch": "援救弟子",
   "en": "Rescue Disciple",
-  "pt": "Rescatar Discípulo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Resgatar Discípulo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName11701": {
   "ch": "察看村庄",
@@ -326,8 +329,8 @@
  "SchoolTaskAllotTaskName12101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12102": {
   "ch": "帮助凡人",
@@ -338,8 +341,8 @@
  "SchoolTaskAllotTaskName12103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12104": {
   "ch": "无偿答疑",
@@ -362,14 +365,17 @@
  "SchoolTaskAllotTaskName12301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": "Conhecer Escolhido pelo Céu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Conhecer o Escolhido pelo Céu",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 27 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName12302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": "Participar de Treinamento",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Participar do Treinamento",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12303": {
   "ch": "解答疑问",
@@ -404,14 +410,14 @@
  "SchoolTaskAllotTaskName12308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": "Ensinar Taoismo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ensinar Daoísmo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12402": {
   "ch": "帮助凡人",
@@ -422,8 +428,8 @@
  "SchoolTaskAllotTaskName12403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12404": {
   "ch": "无偿答疑",
@@ -458,8 +464,8 @@
  "SchoolTaskAllotTaskName12603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": "Concoctar Elixir",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preparar Elixir",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName12604": {
   "ch": "炼制法宝",
@@ -560,8 +566,8 @@
  "SchoolTaskAllotTaskName1305": {
   "ch": "归档弟子信息",
   "en": "Filling Disciple Information",
-  "pt": "Preencher Informações de Discípulo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preencher Informações do Discípulo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName1306": {
   "ch": "讲解情理",
@@ -578,8 +584,8 @@
  "SchoolTaskAllotTaskName13101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName13102": {
   "ch": "帮助凡人",
@@ -590,8 +596,8 @@
  "SchoolTaskAllotTaskName13103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName13104": {
   "ch": "无偿答疑",
@@ -614,8 +620,11 @@
  "SchoolTaskAllotTaskName13301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": "Conhecer Escolhido pelo Céu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Conhecer o Escolhido pelo Céu",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 27 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName13302": {
   "ch": "参加训练",
@@ -656,8 +665,8 @@
  "SchoolTaskAllotTaskName13308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": "Ensinar Taoismo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ensinar Daoísmo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName13401": {
   "ch": "宣传宗门",
@@ -710,8 +719,8 @@
  "SchoolTaskAllotTaskName13603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": "Concoctar Elixir",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preparar Elixir",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName13604": {
   "ch": "炼制法宝",
@@ -782,8 +791,8 @@
  "SchoolTaskAllotTaskName13708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": "Atrair Veia Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Atrair para Veia Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName1401": {
   "ch": "接访来客",
@@ -800,8 +809,8 @@
  "SchoolTaskAllotTaskName1403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": "Assistir Cultivador Errante",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Ajudar Cultivador Errante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName1404": {
   "ch": "飞鸽传书",
@@ -824,8 +833,8 @@
  "SchoolTaskAllotTaskName1407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": "Reparo do Pavilhão Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Reparo do Pavilhão do Espírito",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName1408": {
   "ch": "修建景观",
@@ -836,14 +845,17 @@
  "SchoolTaskAllotTaskName1409": {
   "ch": "重建外墙",
   "en": "Rebuild Outer Wall",
-  "pt": "Reconstruir Muro Externo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Reconstruir a Muralha Externa",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 24 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName14101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14102": {
   "ch": "帮助凡人",
@@ -854,8 +866,8 @@
  "SchoolTaskAllotTaskName14103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14104": {
   "ch": "无偿答疑",
@@ -878,8 +890,11 @@
  "SchoolTaskAllotTaskName14301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": "Conhecer Escolhido pelo Céu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Conhecer o Escolhido pelo Céu",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 27 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName14302": {
   "ch": "参加训练",
@@ -920,14 +935,14 @@
  "SchoolTaskAllotTaskName14308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": "Ensinar Taoismo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ensinar Daoísmo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14402": {
   "ch": "帮助凡人",
@@ -938,8 +953,8 @@
  "SchoolTaskAllotTaskName14403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14404": {
   "ch": "无偿答疑",
@@ -974,8 +989,8 @@
  "SchoolTaskAllotTaskName14603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": "Concoctar Elixir",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preparar Elixir",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14604": {
   "ch": "炼制法宝",
@@ -1034,8 +1049,8 @@
  "SchoolTaskAllotTaskName14706": {
   "ch": "打探神秘组织情报",
   "en": "Look Into Secret Group Information",
-  "pt": "Buscar Informações sobre Grupo Secreto",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Investigar Informações de Grupo Secreto",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName14707": {
   "ch": "清扫妖兽巢",
@@ -1052,8 +1067,8 @@
  "SchoolTaskAllotTaskName15101": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15102": {
   "ch": "帮助凡人",
@@ -1064,8 +1079,8 @@
  "SchoolTaskAllotTaskName15103": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15104": {
   "ch": "无偿答疑",
@@ -1088,14 +1103,17 @@
  "SchoolTaskAllotTaskName15301": {
   "ch": "结识天骄",
   "en": "Meet Heaven-chosen",
-  "pt": "Conhecer Escolhido pelo Céu",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Conhecer o Escolhido pelo Céu",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 29 > 27 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName15302": {
   "ch": "参加训练",
   "en": "Participate in Training",
-  "pt": "Participar de Treinamento",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Participar do Treinamento",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15303": {
   "ch": "解答疑问",
@@ -1130,14 +1148,14 @@
  "SchoolTaskAllotTaskName15308": {
   "ch": "传授道法",
   "en": "Teach Taoism",
-  "pt": "Ensinar Taoismo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ensinar Daoísmo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15401": {
   "ch": "宣传宗门",
   "en": "Promote Sect",
-  "pt": "Promover Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Promover a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15402": {
   "ch": "帮助凡人",
@@ -1148,8 +1166,8 @@
  "SchoolTaskAllotTaskName15403": {
   "ch": "打扫宗门",
   "en": "Clean up Sect",
-  "pt": "Limpar Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Limpar a Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15404": {
   "ch": "无偿答疑",
@@ -1184,8 +1202,8 @@
  "SchoolTaskAllotTaskName15603": {
   "ch": "炼制丹药",
   "en": "Elixir Concoction",
-  "pt": "Concoctar Elixir",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Preparar Elixir",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName15604": {
   "ch": "炼制法宝",
@@ -1256,8 +1274,8 @@
  "SchoolTaskAllotTaskName15708": {
   "ch": "引入灵脉",
   "en": "Draw Into Spirit Vein",
-  "pt": "Atrair Veia Espiritual",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Atrair para Veia Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName1601": {
   "ch": "重申门规",
@@ -1304,8 +1322,8 @@
  "SchoolTaskAllotTaskName1608": {
   "ch": "宗门小聚",
   "en": "Sect Gathering",
-  "pt": "Reunião da Seita",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Encontro da Seita",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName1701": {
   "ch": "渗入敌对宗门",
@@ -1322,8 +1340,11 @@
  "SchoolTaskAllotTaskName1703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": "Espionar Militares",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espionar os Militares",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName1704": {
   "ch": "收集矿材",
@@ -1460,8 +1481,8 @@
  "SchoolTaskAllotTaskName2403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": "Assistir Cultivador Errante",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Ajudar Cultivador Errante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName2404": {
   "ch": "飞鸽传书",
@@ -1484,8 +1505,8 @@
  "SchoolTaskAllotTaskName2407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": "Reparo do Pavilhão dos Espíritos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Reparo do Pavilhão do Espírito",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName2408": {
   "ch": "修建景观",
@@ -1514,8 +1535,8 @@
  "SchoolTaskAllotTaskName2603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": "Escavar Veia de Espírito",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escavar Veia Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName2604": {
   "ch": "堪舆寻宝",
@@ -1556,14 +1577,17 @@
  "SchoolTaskAllotTaskName2702": {
   "ch": "击杀敌对宗门弟子",
   "en": "Kill Hostile Sect Disciple",
-  "pt": "Eliminar Discípulo de Seita Hostil",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Matar Discípulo de Seita Hostil",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName2703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": "Espionar Militares",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espionar os Militares",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName2704": {
   "ch": "收集矿材",
@@ -1700,8 +1724,8 @@
  "SchoolTaskAllotTaskName3403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": "Assistir Cultivador Errante",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Ajudar Cultivador Errante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName3404": {
   "ch": "飞鸽传书",
@@ -1724,8 +1748,8 @@
  "SchoolTaskAllotTaskName3407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": "Reparo do Pavilhão dos Espíritos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Reparo do Pavilhão do Espírito",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName3408": {
   "ch": "修建景观",
@@ -1754,8 +1778,8 @@
  "SchoolTaskAllotTaskName3603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": "Escavar Veia de Espírito",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escavar Veia Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName3604": {
   "ch": "堪舆寻宝",
@@ -1802,8 +1826,11 @@
  "SchoolTaskAllotTaskName3703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": "Espionar o Exército",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espionar os Militares",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName3704": {
   "ch": "收集矿材",
@@ -1940,8 +1967,8 @@
  "SchoolTaskAllotTaskName4403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": "Assistir Cultivador Errante",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Ajudar Cultivador Errante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName4404": {
   "ch": "飞鸽传书",
@@ -1964,8 +1991,8 @@
  "SchoolTaskAllotTaskName4407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": "Reparo do Pavilhão dos Espíritos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Reparo do Pavilhão do Espírito",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName4408": {
   "ch": "修建景观",
@@ -1994,8 +2021,8 @@
  "SchoolTaskAllotTaskName4603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": "Escavar Veia de Espírito",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escavar Veia Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName4604": {
   "ch": "堪舆寻宝",
@@ -2042,8 +2069,11 @@
  "SchoolTaskAllotTaskName4703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": "Espionar o Exército",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espionar os Militares",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName4704": {
   "ch": "收集矿材",
@@ -2180,8 +2210,8 @@
  "SchoolTaskAllotTaskName5403": {
   "ch": "协助散修",
   "en": "Assist Rogue Cultivator",
-  "pt": "Assistir Cultivador Errante",
-  "auto": "cohere/command-a-vision-07-2025+revisao-nuvem"
+  "pt": "Ajudar Cultivador Errante",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName5404": {
   "ch": "飞鸽传书",
@@ -2204,8 +2234,8 @@
  "SchoolTaskAllotTaskName5407": {
   "ch": "修缮灵阁",
   "en": "Spirit Pavilion Repair",
-  "pt": "Reparo do Pavilhão dos Espíritos",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Reparo do Pavilhão do Espírito",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName5408": {
   "ch": "修建景观",
@@ -2234,8 +2264,8 @@
  "SchoolTaskAllotTaskName5603": {
   "ch": "挖掘灵脉",
   "en": "Digging into Spirt Vein",
-  "pt": "Escavar Veia de Espírito",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Escavar Veia Espiritual",
+  "auto": "nuvem/revisao-prioridade"
  },
  "SchoolTaskAllotTaskName5604": {
   "ch": "堪舆寻宝",
@@ -2282,8 +2312,11 @@
  "SchoolTaskAllotTaskName5703": {
   "ch": "刺探军情",
   "en": "Spy on Military",
-  "pt": "Espionar o Exército",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Espionar os Militares",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 21 > 20 caracteres"
+  ]
  },
  "SchoolTaskAllotTaskName5704": {
   "ch": "收集矿材",

@@ -3254,8 +3254,11 @@
  "role_feature_postnatal_name8104205": {
   "ch": "青色莲子",
   "en": "Cyan Lotus Seed",
-  "pt": "Semente de Lótus Cian",
-  "auto": "nuvem/claude-sonnet-5-5"
+  "pt": "Semente de Lótus Ciano",
+  "auto": "nuvem/claude-sonnet-5-5",
+  "revisar": [
+   "largura: 22 > 21 caracteres"
+  ]
  },
  "role_feature_postnatal_name8104207": {
   "ch": "紫色莲子",
@@ -5138,7 +5141,7 @@
  "role_feature_postnatal_name9202111": {
   "ch": "长右之息",
   "en": "Fel Vermin's Breath",
-  "pt": "Sopro do Verme Felino",
+  "pt": "Sopro do Verme Fel",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_name9202112": {
@@ -5180,7 +5183,7 @@
  "role_feature_postnatal_name9202142": {
   "ch": "类之息",
   "en": "Human-faced Feline's Breath",
-  "pt": "Sopro do Felino com rosto humano",
+  "pt": "Sopro do Felino de Rosto Humano",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_name9202151": {
@@ -5204,7 +5207,7 @@
  "role_feature_postnatal_name9202172": {
   "ch": "环狗之息",
   "en": "Bipedal Hound's Breath",
-  "pt": "Sopro do Cão bípede",
+  "pt": "Sopro do Cão Bípede",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_name9202182": {

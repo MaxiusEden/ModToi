@@ -8,8 +8,8 @@
  "achievementTitle110002": {
   "ch": "后羿射日",
   "en": "Hou Yi Shoots the Suns",
-  "pt": "Hou Yi Atira nos Sóis",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Hou Yi Abate os Sóis",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle110003": {
   "ch": "精卫填海",
@@ -32,8 +32,8 @@
  "achievementTitle110006": {
   "ch": "刑天舞干戚",
   "en": "Xingtian Slayer",
-  "pt": "Xingtian Matador",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Matador de Xingtian",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle110051": {
   "ch": "循环往复",
@@ -170,8 +170,8 @@
  "achievementTitle120101": {
   "ch": "天道筑基境",
   "en": "Foundation - Heaven",
-  "pt": "Fundaçao - Céu",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fundação - Céu",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle120102": {
   "ch": "一品金丹境",
@@ -194,8 +194,11 @@
  "achievementTitle130002": {
   "ch": "饮魂",
   "en": "Bloodshed",
-  "pt": "Beber Alma",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Derramamento de Sangue",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 22 > 12 caracteres"
+  ]
  },
  "achievementTitle130003": {
   "ch": "饮魄",
@@ -218,26 +221,26 @@
  "achievementTitle140003": {
   "ch": "为人子女",
   "en": "Becoming a Sworn Child",
-  "pt": "Filho(a) Juramentado(a)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tornar-se um Filho Jurado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle140004": {
   "ch": "和蔼可亲",
   "en": "Becoming a Sworn Parent",
-  "pt": "Pai/Mãe Juramentado(a)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tornar-se um Pai Jurado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle140005": {
   "ch": "义结金兰",
   "en": "Becoming a Sworn Sibling",
-  "pt": "Irmão/Irmã Juramentado(a)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tornar-se um Irmão Jurado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle140006": {
   "ch": "亲友众多",
   "en": "Well Liked",
-  "pt": "Bem Quisto",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Muito Querido",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle140007": {
   "ch": "四海皆兄弟",
@@ -278,14 +281,14 @@
  "achievementTitle140103": {
   "ch": "齐人之福",
   "en": "Open Relationship",
-  "pt": "Relação Poliamorosa",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Relacionamento Aberto",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle150001": {
   "ch": "摸金校尉",
   "en": "Grave Robber",
-  "pt": "Saqueador de Túmulos",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ladrão de Túmulos",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle160001": {
   "ch": "盗亦有道",
@@ -320,8 +323,8 @@
  "achievementTitle160006": {
   "ch": "双修为道",
   "en": "Cultivation with Me",
-  "pt": "Cultivo em Pares",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Cultivo Duplo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle160007": {
   "ch": "口若悬河",
@@ -722,8 +725,8 @@
  "achievementTitle200001": {
   "ch": "洪荒筑基境",
   "en": "Foundation (Chaos)",
-  "pt": "Fundaçao (Caos)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fundação (Caos)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle200002": {
   "ch": "洪荒结晶境",
@@ -782,8 +785,8 @@
  "achievementTitle210002": {
   "ch": "九霄雷神",
   "en": "Cloud Nine Hatuibwari",
-  "pt": "Hatuibwari das Nuvens Celestes",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Nuvem Nove Hatuibwari",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle210003": {
   "ch": "苍魂鸣蛇",
@@ -830,8 +833,8 @@
  "achievementTitle300001": {
   "ch": "命途多舛",
   "en": "Chequered Career",
-  "pt": "Jornada Cheia de Revés",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Carreira Conturbada",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle300002": {
   "ch": "桀骜不驯",
@@ -842,14 +845,17 @@
  "achievementTitle300003": {
   "ch": "仙路坦途",
   "en": "Speed Runner",
-  "pt": "Corredor de Velocidade",
-  "auto": "cohere/command-a-reasoning-08-2025+revisao-nuvem"
+  "pt": "Speedrunner",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle300004": {
   "ch": "趋炎附势",
   "en": "Mentored Maven",
-  "pt": "Aliado aos Fortes",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Especialista Influente",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 22 > 19 caracteres"
+  ]
  },
  "achievementTitle300005": {
   "ch": "绝境逢生",
@@ -896,14 +902,14 @@
  "achievementTitle300013": {
   "ch": "仙师风范",
   "en": "Inspirational Mind",
-  "pt": "Mente Inspiradora",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Mestre Inspirador",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle300014": {
   "ch": "仁者无敌",
   "en": "Path of Pacifist",
-  "pt": "Caminho do Pacificador",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Caminho do Pacifista",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle300015": {
   "ch": "清心寡欲",
@@ -926,8 +932,8 @@
  "achievementTitle300019": {
   "ch": "丹毒双绝",
   "en": "Taste of Alchemy",
-  "pt": "Gosto pela Alquimia",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Sabor da Alquimia",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle300020": {
   "ch": "妙手空空",
@@ -968,8 +974,11 @@
  "achievementTitle300026": {
   "ch": "予取予求",
   "en": "Entitled Taker",
-  "pt": "Tomador por Direito",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Aproveitador Folgado",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 20 > 19 caracteres"
+  ]
  },
  "achievementTitle300027": {
   "ch": "桃李成林",
@@ -1004,8 +1013,8 @@
  "achievementTitle300032": {
   "ch": "凶兽克星",
   "en": "Beast's Bane",
-  "pt": "Flagelo das Feras",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Flagelo da Fera",
+  "auto": "nuvem/revisao-prioridade"
  },
  "achievementTitle300033": {
   "ch": "上天入地",
@@ -1022,7 +1031,7 @@
  "achievementTitle400001": {
   "ch": "噬魂魔剑",
   "en": "The Soul Reaver",
-  "pt": "O Devorador de Almas",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "O Ceifador de Almas",
+  "auto": "nuvem/revisao-prioridade"
  }
 }

@@ -20,8 +20,8 @@
  "D_battleStart_shenglitiaojian": {
   "ch": "通关20层",
   "en": "Level 20 Cleared",
-  "pt": "Nível 20 Limpo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Nível 20 concluído",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_battleStore_chiyoudaoju": {
   "ch": "持有道具",
@@ -39,7 +39,7 @@
   "ch": "次要",
   "en": "Minor",
   "pt": "Menor",
-  "auto": "cohere/command-a-vision-07-2025"
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_battleStore_fanhuiyouxi": {
   "ch": "回到游戏",
@@ -56,8 +56,8 @@
  "D_battleStore_jiesuo": {
   "ch": "解锁",
   "en": "Unlock",
-  "pt": "Liberar",
-  "auto": "cohere/command-a-vision-07-2025+teste-jogo"
+  "pt": "Desbloquear",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_battleStore_jineng": {
   "ch": "我的技能",
@@ -128,8 +128,8 @@
  "D_battleStore_yizhuangpei": {
   "ch": "升级",
   "en": "Upgrade",
-  "pt": "Atualizar",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Aprimorar",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_battleStore_zhuyao": {
   "ch": "主要",
@@ -152,8 +152,8 @@
  "D_cundangsunhuaitishi": {
   "ch": "当前存档已损坏，无法读取。是否读取最近一次备份的存档？",
   "en": "Unable to load selected save file. Load the latest backup save file instead?",
-  "pt": "Não foi possível carregar o arquivo de save selecionado. Carregar o último arquivo de save backup em vez disso?",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Não foi possível carregar o arquivo de salvamento selecionado. Carregar o arquivo de salvamento de backup mais recente?",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_diffPass": {
   "ch": "已通过",
@@ -218,8 +218,8 @@
  "D_end_jishaxiaoguai": {
   "ch": "击杀小怪",
   "en": "Minions Killed",
-  "pt": "Minions Derrotados",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Lacaios Derrotados",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_end_shanbicishu": {
   "ch": "闪避次数",
@@ -512,8 +512,8 @@
  "D_playerInfoDesc_shuizizhi": {
   "ch": "每1点水灵根可使水属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Water Root will +1 your Water damage. Capped at 99.",
-  "pt": "Cada 1 Raiz de Água aumentará seu dano de Água em 1. Limitado a 99.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cada 1 Raiz de Água aumenta seu dano de Água em +1. Limitado a 99.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_playerInfoDesc_tili": {
   "ch": "角色的体力值，体力为0时游戏失败。",
@@ -530,8 +530,8 @@
  "D_playerInfoDesc_tuzizhi": {
   "ch": "每1点土灵根可使土属性伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Earth Root will +1 your Earth damage. Capped at 99.",
-  "pt": "Cada 1 Raiz de Terra aumentará seu dano de Terra em 1. Limitado a 99.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cada 1 Raiz de Terra aumenta seu dano de Terra em +1. Limitado a 99.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_playerInfoDesc_weili": {
   "ch": "角色的伤害加成百分比，角色造成的大部分伤害都可受到此百分比的加成（此加成对部分特殊伤害无效，如百分比体力伤害等）。",
@@ -554,14 +554,14 @@
  "D_playerInfoDesc_zhangzizhi": {
   "ch": "每1点掌法资质可使掌法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Palm will +1 your Palm damage. Capped at 99.",
-  "pt": "Cada 1 Palma aumentará seu dano de Palma em 1. Limitado a 99.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cada 1 Palma aumenta seu dano de Palma em +1. Limitado a 99.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_playerInfoDesc_zhizizhi": {
   "ch": "每1点指法资质可使指法伤害+1，此属性上限为99，超过上限的部分无效。",
   "en": "Every 1 Finger will +1 your Finger damage. Capped at 99.",
-  "pt": "Cada 1 Dedo aumentará seu dano de Dedo em 1. Limitado a 99.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Cada 1 Dedo aumenta seu dano de Dedo em +1. Limitado a 99.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_playerInfoDesc_zizhicashu": {
   "ch": "0",
@@ -602,8 +602,8 @@
  "D_playerInfo_JNDDchuantoucishu": {
   "ch": "弹道穿透次数:",
   "en": "Projectile Penetrations:",
-  "pt": "Penetrações do Projétil:",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Perfurações do Projétil:",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_playerInfo_JNDDjituijuli": {
   "ch": "弹道击退距离",
@@ -1370,8 +1370,8 @@
  "D_storePropName_50001": {
   "ch": "录",
   "en": "Compendium",
-  "pt": "Compendio",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Compêndio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "D_storePropName_60001": {
   "ch": "秘卷",
@@ -1484,7 +1484,7 @@
  "D_tip4": {
   "ch": "商店会出售技能词条、心法词条\n角色可装备4个技能（特殊角色除外），每个技能的词条最多5个，已购买的技能可以回收\n角色装备心法数量无上限\n随着关卡的推进，商店出售的物品价格会提高\n消耗灵石刷新商店出售的物品，被锁定的道具不会被刷新\n随着刷新次数的增加，单次刷新的价格也会上涨\n锁定状态会持续存在，不会因为进入下一关而结束，需要手动取消锁定",
   "en": "You may buy Skill Affixes and Mind Skill Affixes in the store.\nUnless playing with special characters, you may equip 4 Skills at the same time, each with 5 Affixes at most. You may Unlearn acquired skills.\nThere is no limit to the amount of equipped Mind Skills.\nThe price in the store will increase as you press onward.\nYou may pay Spirit Stones to refresh the store's inventory list. Locked items will be retained in every refresh.\nThe price for each refresh will also increase with the amount of refreshes made.\nLocked items need to be Unlocked manually. Clearing a level will not get them unlocked.",
-  "pt": "Você pode comprar Habilidade de Afixos e Técnica Mental de Afixos na loja.\nA menos que esteja jogando com personagens especiais, você pode equipar 4 Habilidades ao mesmo tempo, cada uma com até 5 Afixos. Você pode desaprender habilidades adquiridas.\nNão há limite para a quantidade de Técnicas Mentais equipadas.\nO preço na loja aumentará conforme você avançar.\nVocê pode pagar Pedras Espirituais para atualizar a lista de itens da loja. Itens bloqueados serão retidos em cada atualização.\nO preço para cada atualização também aumentará com a quantidade de atualizações feitas.\nItens bloqueados precisam ser desbloqueados manualmente. Limpar um nível não os desbloqueará.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Você pode comprar Afixos de Habilidade e Afixos de Técnica Mental na loja.\nA menos que esteja jogando com personagens especiais, você pode equipar 4 Habilidades ao mesmo tempo, cada uma com até 5 Afixos. Você pode desaprender habilidades adquiridas.\nNão há limite para a quantidade de Técnicas Mentais equipadas.\nO preço na loja aumentará conforme você avançar.\nVocê pode pagar Pedras Espirituais para atualizar a lista de itens da loja. Itens bloqueados serão retidos em cada atualização.\nO preço para cada atualização também aumentará com a quantidade de atualizações feitas.\nItens bloqueados precisam ser desbloqueados manualmente. Concluir um nível não os desbloqueará.",
+  "auto": "nuvem/revisao-prioridade"
  }
 }

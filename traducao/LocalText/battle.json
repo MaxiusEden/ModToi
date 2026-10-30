@@ -218,8 +218,8 @@
  "battle_FtoMEtoE3": {
   "ch": "我们厮杀得难分难解，你的同伴万万不该介入的！",
   "en": "We were having a good fight. Your friend shouldn't have interfered!",
-  "pt": "Estávamos lutando bem. Seu Amigo não deveria ter interferido!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Estávamos lutando bem. Seu amigo não deveria ter interferido!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_FtoMF1": {
   "ch": "嗯？你们都在！正好，我们都一起行动吧！",
@@ -314,8 +314,8 @@
  "battle_MtoFE1": {
   "ch": "啊，你来得正好，快来帮我对付这厮！",
   "en": "Oh, perfect timing. Help me deal with this bastard!",
-  "pt": "Ah, que timing perfeito. Me ajude a lidar com esse canalha!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Ah, na hora certa. Me ajude a lidar com esse canalha!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_MtoFE2": {
   "ch": "不要帮我，我一个就能对付他！",
@@ -326,8 +326,8 @@
  "battle_MtoFE3": {
   "ch": "援手，同门！同门，援手！",
   "en": "Please help! I'm from your sect!",
-  "pt": "Por favor, ajudem! Sou da sua Seita!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Por favor, ajude! Sou da sua seita!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_MtoFEtoE1": {
   "ch": "不要以多欺少，有种就和我单打独斗！",
@@ -338,8 +338,8 @@
  "battle_MtoFEtoE2": {
   "ch": "废物，你就不敢和我单挑？！",
   "en": "You trash! Duel me one of one if you dare!",
-  "pt": "Lixo! Duelo um contra um se tiver coragem!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lixo! Enfrente-me um contra um se tiver coragem!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_MtoFEtoE3": {
   "ch": "来啊，你们一起上！我能打十个！",
@@ -536,8 +536,8 @@
  "battle_dungeon_desc4703": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Relâmpagos caem periodicamente nas Terras do Relâmpago.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4704": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
@@ -548,14 +548,14 @@
  "battle_dungeon_desc4705": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Areia Movediça aparece periodicamente no chão no Alcance da Areia Movediça.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4706": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": "Pântanos venenosos aparecem periodicamente no chão na Floresta das Flores Bêbadas.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta das Flores Ébrias.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4707": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
@@ -572,8 +572,8 @@
  "battle_dungeon_desc4709": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Relâmpagos caem periodicamente nas Terras do Relâmpago.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4710": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
@@ -584,14 +584,14 @@
  "battle_dungeon_desc4711": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Areia Movediça aparece periodicamente no chão no Alcance da Areia Movediça.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4712": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": "Pântanos venenosos aparecem periodicamente no chão na Floresta das Flores Bêbadas.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta das Flores Ébrias.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4713": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
@@ -608,26 +608,26 @@
  "battle_dungeon_desc4715": {
   "ch": "在雷罚之地中，周围会持续落下大量的天雷。",
   "en": "Lightning strikes periodically in the Lightning Lands.",
-  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Relâmpagos caem periodicamente nas Terras do Relâmpago.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4716": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
   "en": "Strong storms blow periodically in Stormvale.",
-  "pt": "Tempestades fortes sopram periodicamente em Stormvale.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tempestades fortes sopram periodicamente no Vale da Tempestade.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4717": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Areia Movediça aparece periodicamente no chão no Alcance da Areia Movediça.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4718": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta da Flor Embriagada.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta das Flores Ébrias.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4719": {
   "ch": "在炙炎之域中，你会持续受到高温的灼伤。",
@@ -650,20 +650,20 @@
  "battle_dungeon_desc4722": {
   "ch": "在暴风山谷中，周围会刮起强烈的飓风。",
   "en": "Strong storms blow periodically in Stormvale.",
-  "pt": "Tempestades fortes sopram periodicamente em Stormvale.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Tempestades fortes sopram periodicamente no Vale da Tempestade.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4723": {
   "ch": "在流沙之域中，地上会周期性的出现流沙。",
   "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
-  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Areia Movediça aparece periodicamente no chão no Alcance da Areia Movediça.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4724": {
   "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。",
   "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
-  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta da Flor Embriagada.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta das Flores Ébrias.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_dungeon_desc4725": {
   "ch": "在乾元界中，你会持续受到高温的灼伤。",
@@ -758,8 +758,8 @@
  "battle_jiejie": {
   "ch": "道界",
   "en": "Tao Realm",
-  "pt": "Reino Dao",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Reino do Dao",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_jiesuochengjiu": {
   "ch": "解锁成就",
@@ -854,8 +854,8 @@
  "battle_mingshoufazhen": {
   "ch": "危险！快进入<r>黄色界壁</r>躲避！！！",
   "en": "Danger! Quick, enter the <r>golden barrier</r> to dodge!",
-  "pt": "Perigo! Entre rapidamente na <r>barreira dourada</r> para esquivar!!!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Perigo! Entre rapidamente na <r>barreira dourada</r> para esquivar!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_runCool": {
   "ch": "逃跑冷却中，剩余{0}秒",
@@ -980,8 +980,8 @@
  "battle_static5": {
   "ch": "当前策略：无",
   "en": "Current Strategy: None",
-  "pt": "Estratégia Atual: Nenhuma",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Estratégia atual: Nenhuma",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_staticAttack": {
   "ch": "选择进攻目标：",
@@ -1040,8 +1040,8 @@
  "battle_text3": {
   "ch": "概率掉落",
   "en": "Possible Loot",
-  "pt": "Saque Possível",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Possível Saque",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_text4": {
   "ch": "进入战斗",
@@ -1100,14 +1100,14 @@
  "battle_wofang": {
   "ch": "（我方）",
   "en": "(Team)",
-  "pt": "(Time)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "(Equipe)",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_wufajinru": {
   "ch": "前方似乎有强大的结界无法进入!",
   "en": "A powerful barrier blocks your way!",
-  "pt": "Uma poderosa formação bloqueia seu caminho!",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Uma poderosa barreira bloqueia seu caminho!",
+  "auto": "nuvem/revisao-prioridade"
  },
  "battle_xiaohao": {
   "ch": "消耗",

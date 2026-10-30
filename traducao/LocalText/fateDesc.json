@@ -44,8 +44,8 @@
  "fateDesc100009": {
   "ch": "战斗中，每累积受到&700033_ljsh&%伤害，可使得伤害&700033_tssh&%（最大可增加100%)。",
   "en": "For every &700033_ljsh&% damage you receive in the battle, your damage dealt will &700033_tssh&%, up to 100%.",
-  "pt": "Para cada &700033_ljsh&% de dano recebido na batalha, seu dano causará &700033_tssh&%, até 100%.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Para cada &700033_ljsh&% de dano recebido na batalha, seu dano causado &700033_tssh&%, até 100%.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc100010": {
   "ch": "拳、掌、指法资质&100010_basUp&。",
@@ -98,8 +98,8 @@
  "fateDesc100018": {
   "ch": "当你在战斗中体力低于&700118_ljtl&%时，有概率会得到鸡王的出手相助。",
   "en": "When your Vitality drops below &700118_ljtl&% in battle, you have a chance to receive help from a Chicken King.",
-  "pt": "Quando sua Vitalidade cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei Galinha.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Quando sua Vitalidade cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei dos Frangos.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc100019": {
   "ch": "土、木灵根&100019_basUp&。",
@@ -206,8 +206,8 @@
  "fateDesc100044": {
   "ch": "荡尽尘寰增加额外持续时间的规则变为：每学习<g>5</g>个心法词条，此技能持续时间<g>+1</g>秒，上限<g>20</g>秒。",
   "en": "Thunderous Barrage's duration bonus is now calculated as: Every <g>5</g> Mind Skill Affixes learned will grant you <g>+1</g>s Duration for the skill, up to <g>20</g>s.",
-  "pt": "O bônus de duração da Chuva de Meteoros agora é calculado como: A cada <g>5</g> Afixos de Técnica Mental aprendidos, ganhe <g>+1</g>s de Duração para a habilidade, até <g>20</g>s.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "O bônus de duração da Barragem Trovejante agora é calculado como: a cada <g>5</g> Afixos de Técnica Mental aprendidos, ganhe <g>+1</g>s de Duração para a habilidade, até <g>20</g>s.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc100045": {
   "ch": "素心唤灵持续期间所产生的召唤物，其持续时间将延长&4210288_zhsjEx%88&%。",
@@ -230,8 +230,8 @@
  "fateDesc100048": {
   "ch": "在战斗中若所装备技能小于<r>4</r>个，则每少装备<g>1</g>个技能、伤害加成&1000471_powerUp&%。",
   "en": "Every <g>1</g> empty skill slot will grant you &1000471_powerUp&% Damage Bonus if your equipped skills are less than <r>4</r> in a battle.",
-  "pt": "A cada <g>1</g> slot de habilidade vazio, ganhe &1000471_powerUp&% de Bônus de Dano se suas habilidades equipadas forem menos de <r>4</r> em uma batalha.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "A cada <g>1</g> espaço de habilidade vazio, ganhe &1000471_powerUp&% de Bônus de Dano se suas habilidades equipadas forem menos de <r>4</r> em uma batalha.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc10104": {
   "ch": "刀法资质&10104_bladeBasUp&，每点刀法资质可使暴击倍率&10104_bladeToCritV&%。",
@@ -320,8 +320,8 @@
  "fateDesc20101": {
   "ch": "刀法资质&20101_bladeUp&",
   "en": "Blade &20101_bladeUp&",
-  "pt": "Habilidade com Lâmina &20101_bladeUp&.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Lâmina &20101_bladeUp&",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc20102": {
   "ch": "体力回复&20102_hpRestoreDown&。进入战斗后，最大体力&20102_hpMaxUp&（当前体力不变），体型大小改为&20102_modelSizeUp&%",
@@ -332,8 +332,8 @@
  "fateDesc20103": {
   "ch": "斩杀敌人的最低生命值&103_killHp%88&%，每斩杀一个敌人后，自身攻击速度&700313_gsts&%，持续&700313_cxsj&秒，最多可叠加&700313_djcs&层（仅对具备斩杀效果的技能生效）。",
   "en": "Enemy's Vitality threshold to trigger Execution &103_killHp%88&%. After every execution, your Attack Speed &700313_gsts&% for &700313_cxsj&s, up to &700313_djcs& stacks. Applicable only to skills with Execution effect.",
-  "pt": "O limite de Vitalidade do inimigo para ativar Execução é de &103_killHp%88&%. Após cada execução, sua Velocidade de Ataque aumenta em &700313_gsts&% por &700313_cxsj&s, até &700313_djcs& acúmulos. Aplicável apenas a habilidades com efeito de Execução.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "O limite de Vitalidade do inimigo para ativar Execução é de &103_killHp%88&%. Após cada execução, sua Velocidade de Ataque aumenta em &700313_gsts&% por &700313_cxsj&s, até &700313_djcs& camadas. Aplicável apenas a habilidades com efeito de Execução.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc2020003": {
   "ch": "召唤物伤害可发挥&42102_zhshFix&%效果，伤害仅发挥&42102_powerFix&%效果。",
@@ -530,8 +530,8 @@
  "fateDesc212001": {
   "ch": "闪避仅发挥&21012_evadeProb&%效果，每次获得护盾时，可额外获得&21012_shieldSum&点护盾。",
   "en": "Dodge is &21012_evadeProb&% less effective. Gain additional &21012_shieldSum& Shield HP in generating shields.",
-  "pt": "Esquiva é &21012_evadeProb&% menos eficaz. Ganhe &21012_shieldSum& PV de Escudo adicionais ao gerar escudos.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Esquiva é &21012_evadeProb&% menos eficaz. Ganhe &21012_shieldSum& de Escudo adicional ao gerar escudos.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc212002": {
   "ch": "使用功法技能时，功法技能的冷却&21012_timeCost&%。",
@@ -626,8 +626,8 @@
  "fateDesc21502": {
   "ch": "当场上有&21502_stoneSum&个土傀儡时，可合体为一个巨灵神（攻击范围大，可使敌人减速15%，持续&15021_lifeTime&秒）",
   "en": "Merge &21502_stoneSum& existing Earth Golems into a Spirit Giant with a bonus attack range and a 15% Slowing effect to enemies hit for &15021_lifeTime&s",
-  "pt": "Fundir &21502_stoneSum& Golem de Terra existentes em um Gigante Espiritual com aumento no alcance de ataque e efeito de lentidão de 15% aos inimigos atingidos por &15021_lifeTime&s",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Fundir &21502_stoneSum& Golems de Terra existentes em um Gigante Espiritual com alcance de ataque aumentado e efeito de Lentidão de 15% nos inimigos atingidos por &15021_lifeTime&s",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc216001": {
   "ch": "暴击倍率上限为&216001_critVBig&%，修为获得&216001_exp&%。",
@@ -638,8 +638,8 @@
  "fateDesc216002": {
   "ch": "对距离超过500码的敌人造成的伤害&216002_dmgDown&%。",
   "en": "Dealing &216002_dmgDown&% damage to enemies that are beyond 500 distance.",
-  "pt": "Causar &216002_dmgDown&% de dano a inimigos além de 500 distância.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Causar &216002_dmgDown&% de dano a inimigos a mais de 500 de distância.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc21601": {
   "ch": "木灵根&21601_wood&",

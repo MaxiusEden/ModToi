@@ -470,20 +470,23 @@
  "role_character_name12": {
   "ch": "爱家",
   "en": "Family-Oriented",
-  "pt": "Familiar",
-  "auto": "gemini-2.5-flash"
+  "pt": "Dedicado à Família",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_character_name13": {
   "ch": "名声",
   "en": "Glory Hound",
-  "pt": "Glória",
-  "auto": "gemini-2.5-flash"
+  "pt": "Ávido por Glória",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 16 > 15 caracteres"
+  ]
  },
  "role_character_name14": {
   "ch": "权力",
   "en": "Power-hungry",
-  "pt": "Poder",
-  "auto": "gemini-2.5-flash"
+  "pt": "Sedento de Poder",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_character_name15": {
   "ch": "睚眦",
@@ -568,8 +571,8 @@
  "role_grade_Desc12": {
   "ch": "必要材料：三花丹。丹药品质越高，突破时的成功概率越高。",
   "en": "Necessary materials: Three Flower Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
-  "pt": "Materiais necessários: Três Elixires de Flor. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
-  "auto": "local/hy-mt2"
+  "pt": "Materiais necessários: Elixir das Três Flores. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_grade_Desc13": {
   "ch": "必要材料：云中丹。丹药品质越高，突破时的成功概率越高。",
@@ -592,8 +595,8 @@
  "role_grade_Desc16": {
   "ch": "必要材料：所有六道灵珠。灵珠的纯度越高，突破时的成功概率越高。可辅用万河丹增加成功概率。",
   "en": "Necessary materials: All 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Thousand River Elixirs to increase your success rate.",
-  "pt": "Materiais necessários: os 6 Orbes de Qi. Quanto maior a pureza dos Orbes de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode usar Elixires do Rio Milenar para aumentar essa taxa de sucesso.",
-  "auto": "local/hy-mt2"
+  "pt": "Materiais necessários: os 6 Orbes de Qi. Quanto maior a pureza dos Orbes de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode usar Elixires dos Mil Rios para aumentar essa taxa de sucesso.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_grade_Desc19": {
   "ch": "必要材料：化灵丹。丹药品质越高，突破时的成功概率越高。",
@@ -640,14 +643,14 @@
  "role_grade_Desc32": {
   "ch": "必要材料：任意六道灵斗气之三。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
   "en": "Necessary materials: Any 3 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
-  "pt": "Materiais necessários: Quaisquer 3 dos 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação para Três Reinos a fim de aumentar essa taxa de sucesso.",
-  "auto": "local/hy-mt2"
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação dos Três Reinos a fim de aumentar essa taxa de sucesso.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_grade_Desc33": {
   "ch": "必要材料：所有六道灵斗气。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。",
   "en": "Necessary materials: All 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
-  "pt": "Materiais necessários: os 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação para os Três Reinos a fim de aumentar essa taxa de sucesso.",
-  "auto": "local/hy-mt2"
+  "pt": "Materiais necessários: os 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação dos Três Reinos a fim de aumentar essa taxa de sucesso.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_grade_Desc36": {
   "ch": "必要材料：羽化丹。丹药品质越高，突破时的成功概率越高。",
@@ -1033,8 +1036,8 @@
  "role_grade_phase2": {
   "ch": "中期",
   "en": " Middle",
-  "pt": " Meio",
-  "auto": "gemini/gemini-2.5-flash"
+  "pt": " Médio",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_grade_phase3": {
   "ch": "后期",
@@ -1165,8 +1168,8 @@
  "role_hobby_name103": {
   "ch": "雪天",
   "en": "Snowy",
-  "pt": "Nevoso",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Nevado",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_hobby_name104": {
   "ch": "打雷",
@@ -1339,8 +1342,8 @@
  "role_reputation_name8": {
   "ch": "声名远扬",
   "en": "Illustrious",
-  "pt": "Ilustrious",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Ilustre",
+  "auto": "nuvem/revisao-prioridade"
  },
  "role_reputation_name9": {
   "ch": "名满天下",

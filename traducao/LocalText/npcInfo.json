@@ -356,8 +356,8 @@
  "npcInfo_qiecuo": {
   "ch": "切磋",
   "en": "Spar",
-  "pt": "Desafio",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Treinar",
+  "auto": "nuvem/revisao-prioridade"
  },
  "npcInfo_qingjiao": {
   "ch": "请教",
@@ -452,8 +452,8 @@
  "npcInfo_sishengzinv": {
   "ch": "私生子女",
   "en": "Illegitimate Child",
-  "pt": "Filho ilegítimo",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Filho Ilegítimo",
+  "auto": "nuvem/revisao-prioridade"
  },
  "npcInfo_suoqu": {
   "ch": "索取",
@@ -543,8 +543,8 @@
  "npcInfo_xianjibuzu": {
   "ch": "仙鸡不足3只，无法进行比试",
   "en": "Unable to fight - Immortal Chickens less than 3.",
-  "pt": "Incapaz de lutar - Frangos Imortais menores que 3.",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Não é possível lutar - menos de 3 Frangos Imortais.",
+  "auto": "nuvem/revisao-prioridade"
  },
  "npcInfo_xiaohaojingli": {
   "ch": "需要消耗{0}精力",
@@ -567,8 +567,8 @@
  "npcInfo_xiongdijiemei": {
   "ch": "兄弟姐妹",
   "en": "Sibling",
-  "pt": "Irmão/Irmã",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Irmãos",
+  "auto": "nuvem/revisao-prioridade"
  },
  "npcInfo_xueyi": {
   "ch": "学艺",
@@ -633,8 +633,8 @@
  "npcInfo_yixiongdijiemei": {
   "ch": "义兄弟姐妹",
   "en": "Sworn Sibling",
-  "pt": "Irmão Jurado",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Irmãos Jurados",
+  "auto": "nuvem/revisao-prioridade"
  },
  "npcInfo_yizi": {
   "ch": "义子",
@@ -699,8 +699,11 @@
  "npcInfo_ziji": {
   "ch": "自己",
   "en": "Self",
-  "pt": "Próprio",
-  "auto": "gemini/gemini-3-flash-preview"
+  "pt": "Si mesmo",
+  "auto": "nuvem/revisao-prioridade",
+  "revisar": [
+   "largura: 8 > 7 caracteres"
+  ]
  },
  "npcInfo_zinv": {
   "ch": "子女",
