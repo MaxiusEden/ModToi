@@ -71,3 +71,4 @@ p070: 7 corrigidas (Anciã Shi no feminino; AVISO do glossário esperado)
 p071: 1 corrigida
 p072: 5 corrigidas (Anciã Shi no feminino)
 p073: 1 corrigida
+p074: 0 corrigidas
