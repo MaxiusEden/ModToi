@@ -33,3 +33,4 @@ p032: 67 corrigidas (battle_unit_name127 tinha nota de desenvolvedor no texto); 
 p033: 111 corrigidas (famílias de masmorra com um único esquema; Evergreen = Sempreverde em todos, ajustei out_p013 e out_p021)
 p034: 37 corrigidas; dúvida: 'Leonid' (criatura) fica 'Leonino' aqui (checador barra igual ao inglês) mas 'Leonid' em battle_unit_name
 p035: 57 corrigidas ('Rescatar' em espanhol; uma tradução por nome de tarefa)
+p036: 22 corrigidas; dúvida: achievementTitle140009 'Hater' = 'Odiado por Todos' ficou como estava
