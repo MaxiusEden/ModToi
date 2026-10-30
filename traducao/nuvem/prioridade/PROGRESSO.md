@@ -87,3 +87,6 @@ p086: 2 corrigidas
 p087: 0 corrigidas
 p088: 1 corrigida
 p089: 4 corrigidas
+p090: 2 corrigidas
+p090: 2 corrigidas (AVISO 'Freeze → Congelamento' em 2300236 é falso alarme: é o verbo)
+p091: 0 corrigidas
