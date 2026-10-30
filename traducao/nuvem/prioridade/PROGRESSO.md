@@ -94,3 +94,6 @@ p092: 0 corrigidas
 p093: 2 corrigidas (dúvida: 'Sanguine Riverstar' ficou sem tradução; é o nome do Senhor do Sangue)
 p094: 0 corrigidas
 p095: 1 corrigida
+p096: 2 corrigidas
+p096: 2 corrigidas
+p097: 0 corrigidas
