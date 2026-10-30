@@ -39,3 +39,4 @@ p038: 46 corrigidas (210005–210009 estavam em inglês)
 p039: 64 corrigidas (descrições de masmorra padronizadas; 'Imagine que criatura…' e 'Senhor Wormsnake')
 p040: 39 corrigidas; dúvida: Felblade = Lâmina Maligna; 'Rank' = Nível
 p041: 32 corrigidas (citações dos clássicos que estavam cortadas; carpim/succeedem)
+p042: 2 corrigidas
