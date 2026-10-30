@@ -67,3 +67,4 @@ p066: 0 corrigidas
 p067: 0 corrigidas
 p068: 0 corrigidas
 p069: 3 corrigidas
+p070: 7 corrigidas (Anciã Shi no feminino; AVISO do glossário esperado)
