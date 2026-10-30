@@ -6,3 +6,4 @@ p005: 22 corrigidas; dúvida: battle_static13 "Cercar a Si Mesmo" (包围自己)
 p006: 13 corrigidas; dúvida: nomes de reino sem o algarismo do en (role_grade_name*, '(I)') ficaram como estavam, pois o ch não tem
 p007: 3 corrigidas
 p008: 25 corrigidas (stack = camada, restos de inglês)
+p009: 31 corrigidas (stack em inglês, 'Sumaque')
