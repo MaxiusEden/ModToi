@@ -11,3 +11,4 @@ p010: 19 corrigidas (stack = camada; dardo x lança)
 p011: 33 corrigidas; dúvida: TaoistHeartName2006 Unobstructing = Ininterrupto (descrições alinhadas a ele)
 p012: 58 corrigidas (28 de 'Técnica Mental comum'; upgrade = aprimorar)
 p013: 39 corrigidas; dúvida: Fallen Valley = Vale Caído (p012 já usava), 1731 'Evergreen' ficou 'Demônio da Árvore' (ch)
+p014: 22 corrigidas; dúvida: Rollback = Reversão
