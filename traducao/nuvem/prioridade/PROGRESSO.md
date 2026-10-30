@@ -22,3 +22,4 @@ p021: 26 corrigidas; dúvida: Flameward Stone = Pedra Antichamas; Evergreen = De
 p022: 30 corrigidas; dúvida: Destiny (Nurture) = (Cultivado), Destiny (Nature) = (Natureza)
 p023: 35 corrigidas; dúvida: Evergreen = Sempreverde (potmonRace1001) x Demônio da Árvore (p013 1731, p021 itemTitle)
 p024: 28 corrigidas (nomes de série de elixir unificados); dúvida: Subtlety = Sutileza (p006 usa 'Subtileza')
+p025: 27 corrigidas; dúvida: ~70 itens 'Presc. de X' abreviam 'Prescrição' (glossário pede por extenso; deixei a série como estava); Windseek 'Busca pelo Vento' (itens) x 'Busca do Vento' (p007/p008); Rocksunder 'Quebra-Rocha' (itens) x 'Pedrasubter' (p008); Ghost Deed 'Pacto Fantasma' x 'Escritura Fantasma' (p008); nomes de ervas em LocalText ainda com Cornflower/Radish/Tearthumb/'Rapariga do Deserto'
