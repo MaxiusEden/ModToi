@@ -46,3 +46,4 @@ p045: 3 corrigidas (nomes de itens renomeados nos lotes A: Chumbo Gélido, Levia
 p046: 2 corrigidas
 p047: 10 corrigidas
 p048: 7 corrigidas
+p049: 3 corrigidas
