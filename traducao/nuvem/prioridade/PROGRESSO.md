@@ -32,3 +32,4 @@ p031: 43 corrigidas; dúvida: 4100001-4 (体力丹/灵力丹) = Pílula de Vital
 p032: 67 corrigidas (battle_unit_name127 tinha nota de desenvolvedor no texto); dúvida: Evergreen = Sempreverde em criaturas, mas p013/p021 usam 'Demônio da Árvore'
 p033: 111 corrigidas (famílias de masmorra com um único esquema; Evergreen = Sempreverde em todos, ajustei out_p013 e out_p021)
 p034: 37 corrigidas; dúvida: 'Leonid' (criatura) fica 'Leonino' aqui (checador barra igual ao inglês) mas 'Leonid' em battle_unit_name
+p035: 57 corrigidas ('Rescatar' em espanhol; uma tradução por nome de tarefa)
