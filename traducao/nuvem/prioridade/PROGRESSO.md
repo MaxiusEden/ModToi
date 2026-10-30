@@ -8,3 +8,4 @@ p007: 3 corrigidas
 p008: 25 corrigidas (stack = camada, restos de inglês)
 p009: 31 corrigidas (stack em inglês, 'Sumaque')
 p010: 19 corrigidas (stack = camada; dardo x lança)
+p011: 33 corrigidas; dúvida: TaoistHeartName2006 Unobstructing = Ininterrupto (descrições alinhadas a ele)
