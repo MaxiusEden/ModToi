@@ -136,3 +136,4 @@ p133: 1 corrigida (e Leviatã→Leviatan em p032, p043, p045, p047, conforme nom
 p134: 1 corrigida
 p135: 2 corrigidas
 p136: 0 corrigidas
+p137: 0 corrigidas
