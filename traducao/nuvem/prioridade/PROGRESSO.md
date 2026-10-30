@@ -26,3 +26,4 @@ p025: 27 corrigidas; dúvida: ~70 itens 'Presc. de X' abreviam 'Prescrição' (g
 p026: 62 corrigidas (séries de elixir unificadas; Evildoer = Malfeitor); ajuste em out_p022 (Elixir do Yang Lustroso)
 p027: 189 corrigidas (Outfit = Traje em todos; séries unificadas; ajuste em out_p003/out_p005 para Traje); dúvida: p016 'Roupas Exclusivas' (dlc_bowuzhitishi2) ainda diz Roupa
 p028: 69 corrigidas (ervas/materiais; Qi Condensado unificado; Sage = Sálvia); dúvida: Grass = Grama (itens) x Erva (prescrições p025); Avian Berry = Baga de Ave x Fruto Aviário
+p029: 85 corrigidas (receitas alinhadas ao nome do elixir; famílias de talismã com a ordem 'Prefixo - Nome')
