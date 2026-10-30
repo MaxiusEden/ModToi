@@ -35,3 +35,4 @@ p034: 37 corrigidas; dúvida: 'Leonid' (criatura) fica 'Leonino' aqui (checador 
 p035: 57 corrigidas ('Rescatar' em espanhol; uma tradução por nome de tarefa)
 p036: 22 corrigidas; dúvida: achievementTitle140009 'Hater' = 'Odiado por Todos' ficou como estava
 p037: 17 corrigidas (fateDesc100044 trocava Barragem Trovejante por Chuva de Meteoros); dúvida: p014 careerAssess16 'Cultivador Dual' x p037 'Cultivador Duplo'; p014 careerAssess999 'No Vazio' x conquista 'Para o Vazio'
+p038: 46 corrigidas (210005–210009 estavam em inglês)
