@@ -36,6 +36,7 @@ namespace MOD_6b2SYs
         // encostarem, e a largura máxima do texto dentro deles.
         private const float InterfactWidth = 170f;
         private const float TerritoryWidth = 180f;
+        private const float PropOptionMaxWidth = 84f;
         private const float InterfactOut = 12f;
         private const float InterfactMaxWidth = 128f;
         // Abas verticais: a palavra mais longa (Minério, 7 letras) cabe em 90 de altura (a aba tem 116 com as pontas);
@@ -127,6 +128,9 @@ namespace MOD_6b2SYs
             new Rule { Window = "MartialTrain", Name = "G:textInfoGrade_En", FitMin = 10 },
             new Rule { Window = "PlayerInfo", Name = "TextGrade", Under = "Group:Skill", FitMin = 10 },
             new Rule { Window = "PlayerInfo", Name = "TextName", Under = "Group:Skill", FitMin = 10 },
+            // Menu de opções do item: "Uso em Massa" numa linha só (o botão tem 88 de largura para o texto).
+            new Rule { Window = "PropInfo", Name = "Text", Parent = "G:goOptionItem(Clone)", NoWrap = true,
+                MaxWidth = PropOptionMaxWidth },
             // Artesanato, Herbologia: nome da prescrição.
             new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "G:goArtItemRoot3", FitMin = 11,
                 Width = HerbNameWidth },
@@ -144,6 +148,13 @@ namespace MOD_6b2SYs
                 Width = InterfactWidth, Offset = rt => new Vector2(-InterfactOut, 0f) },
             new Rule { Window = "SchoolMainLobby", Name = "Button", Parent = "Build", Under = "G:btnInterfact1",
                 Width = TerritoryWidth, Offset = rt => new Vector2(InterfactOut, 0f) },
+            // O mesmo para o botão que o jogo mostra no lugar dele ao passar o mouse ou selecionar.
+            new Rule { Window = "SchoolMainLobby", Name = "HightLightButton", Parent = "HightLight",
+                Under = "G:btnInterfact0", Width = InterfactWidth, Offset = rt => new Vector2(-InterfactOut, 0f) },
+            new Rule { Window = "SchoolMainLobby", Name = "HightLightButton", Parent = "HightLight",
+                Under = "G:btnInterfact1", Width = TerritoryWidth, Offset = rt => new Vector2(InterfactOut, 0f) },
+            new Rule { Window = "SchoolMainLobby", Name = "HightLightText", Parent = "HightLightButton",
+                Under = "G:goInterfactRoot", NoWrap = true, MaxWidth = InterfactMaxWidth },
             new Rule { Window = "SchoolMainLobby", Name = "Text", Parent = "Button", Under = "G:goInterfactRoot",
                 NoWrap = true, MaxWidth = InterfactMaxWidth },
             // Pavilhão do Tesouro: abas Todos, Minério, Erva (caixa de 35 de largura).

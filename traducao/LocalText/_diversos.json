@@ -23432,14 +23432,16 @@
  "playerRelation_NPCToPlayer": {
   "ch": "对方对我的亲密度",
   "en": "Target's Affinity toward you",
-  "pt": "A Afinidade do Alvo em relação a você",
-  "auto": "local/hy-mt2"
+  "pt": "Afinidade do Alvo",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "playerRelation_playerToNPC": {
   "ch": "我对对方的亲密度",
   "en": "Your Affinity toward target",
-  "pt": "Sua Afinidade em relação ao alvo",
-  "auto": "local/hy-mt2"
+  "pt": "Sua Afinidade",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "playerTask_ganggang": {
   "ch": "刚刚",
