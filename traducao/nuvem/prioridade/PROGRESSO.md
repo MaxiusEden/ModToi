@@ -73,7 +73,7 @@ p072: 5 corrigidas (Anciã Shi no feminino)
 p073: 1 corrigida
 p074: 0 corrigidas
 p075: 2 corrigidas
-p076: 0 corrigidas
+p076: 2 corrigidas
 p077: 3 corrigidas
 p078: 2 corrigidas
 p079: 1 corrigida
@@ -86,3 +86,4 @@ p085: 1 corrigida
 p086: 2 corrigidas
 p087: 0 corrigidas
 p088: 1 corrigida
+p089: 4 corrigidas
