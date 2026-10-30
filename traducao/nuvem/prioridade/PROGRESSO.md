@@ -141,3 +141,4 @@ p138: 1 corrigida
 p139: 3 corrigidas
 p140: 9 corrigidas
 p141: 3 corrigidas
+p142: 1 corrigida
