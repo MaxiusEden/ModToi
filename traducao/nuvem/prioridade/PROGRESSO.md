@@ -21,3 +21,4 @@ p020: 47 corrigidas; dúvida: 体力 (honor_*) = Vitalidade; Tian Yuan Mountain 
 p021: 26 corrigidas; dúvida: Flameward Stone = Pedra Antichamas; Evergreen = Demônio da Árvore (ch)
 p022: 30 corrigidas; dúvida: Destiny (Nurture) = (Cultivado), Destiny (Nature) = (Natureza)
 p023: 35 corrigidas; dúvida: Evergreen = Sempreverde (potmonRace1001) x Demônio da Árvore (p013 1731, p021 itemTitle)
+p024: 28 corrigidas (nomes de série de elixir unificados); dúvida: Subtlety = Sutileza (p006 usa 'Subtileza')
