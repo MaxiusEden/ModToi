@@ -14,3 +14,4 @@ p013: 39 corrigidas; dúvida: Fallen Valley = Vale Caído (p012 já usava), 1731
 p014: 22 corrigidas; dúvida: Rollback = Reversão
 p015: 27 corrigidas
 p016: 45 corrigidas (espaços iniciais restaurados; Série Dragão Grudento; aviso de glossário em daohao_yiwangtishi é plural, falso alarme)
+p017: 23 corrigidas
