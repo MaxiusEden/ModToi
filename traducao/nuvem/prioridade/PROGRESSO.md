@@ -27,3 +27,4 @@ p026: 62 corrigidas (séries de elixir unificadas; Evildoer = Malfeitor); ajuste
 p027: 189 corrigidas (Outfit = Traje em todos; séries unificadas; ajuste em out_p003/out_p005 para Traje); dúvida: p016 'Roupas Exclusivas' (dlc_bowuzhitishi2) ainda diz Roupa
 p028: 69 corrigidas (ervas/materiais; Qi Condensado unificado; Sage = Sálvia); dúvida: Grass = Grama (itens) x Erva (prescrições p025); Avian Berry = Baga de Ave x Fruto Aviário
 p029: 85 corrigidas (receitas alinhadas ao nome do elixir; famílias de talismã com a ordem 'Prefixo - Nome')
+p030: 67 corrigidas (6171304/6171305 estavam trocadas; nomes de forja alinhados a p027)
