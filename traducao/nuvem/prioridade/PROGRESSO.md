@@ -34,3 +34,4 @@ p033: 111 corrigidas (famílias de masmorra com um único esquema; Evergreen = S
 p034: 37 corrigidas; dúvida: 'Leonid' (criatura) fica 'Leonino' aqui (checador barra igual ao inglês) mas 'Leonid' em battle_unit_name
 p035: 57 corrigidas ('Rescatar' em espanhol; uma tradução por nome de tarefa)
 p036: 22 corrigidas; dúvida: achievementTitle140009 'Hater' = 'Odiado por Todos' ficou como estava
+p037: 17 corrigidas (fateDesc100044 trocava Barragem Trovejante por Chuva de Meteoros); dúvida: p014 careerAssess16 'Cultivador Dual' x p037 'Cultivador Duplo'; p014 careerAssess999 'No Vazio' x conquista 'Para o Vazio'
