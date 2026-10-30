@@ -37,8 +37,8 @@ namespace MOD_6b2SYs
         private const float InterfactWidth = 170f;
         private const float TerritoryWidth = 180f;
         private const float PropOptionMaxWidth = 84f;
-        private const float PointOutputRight = 35f;
-        private const float PointRewardRight = 25f;
+        // Território da Seita: espaço entre o ":" do rótulo e o valor que vem depois.
+        private const float AfterLabelGap = 6f;
         private const float InterfactOut = 12f;
         private const float InterfactMaxWidth = 128f;
         // Abas verticais: a palavra mais longa (Minério, 7 letras) cabe em 90 de altura (a aba tem 116 com as pontas);
@@ -108,6 +108,10 @@ namespace MOD_6b2SYs
             public bool Scroll;
             // Botão redondo: o hanzi original fica dentro e o PT vai para um rótulo preto embaixo.
             public string Hanzi;
+            // Grupo de valores que começa logo depois do fim deste texto (irmão do pai do grupo).
+            public string AfterLabel;
+            // "99540Pedra Espiritual" vira "99540 Pedras Espirituais".
+            public bool CountPlural;
         }
 
         private class Placed
@@ -199,12 +203,11 @@ namespace MOD_6b2SYs
                 Offset = rt => new Vector2(RealmRight, -RealmDown) },
             // Território da Seita: ícones da afinidade em cima de "Afinidade:".
             new Rule { Window = "SchoolMap", Name = "G:textSchoolHaogan", IconsAfter = true },
-            // Território da Seita, ponto de recurso: os itens começavam em cima de "Produção Mensal:" e
-            // "Produção Especial:"; os dois grupos vão para a direita e ficam alinhados.
-            new Rule { Window = "SchoolMap", Name = "G:goPointPointOutput_En",
-                Offset = rt => new Vector2(PointOutputRight, 0f) },
-            new Rule { Window = "SchoolMap", Name = "G:goPointReward_En",
-                Offset = rt => new Vector2(PointRewardRight, 0f) },
+            // Território da Seita, ponto de recurso: o que vem depois de "Produção Mensal:" e "Produção Especial:"
+            // começava em cima do rótulo; vai para logo depois do ":", e o número ganha espaço e plural.
+            new Rule { Window = "SchoolMap", Name = "G:goPointPointOutput_En", AfterLabel = "G:textPointOutput" },
+            new Rule { Window = "SchoolMap", Name = "G:goPointReward_En", AfterLabel = "G:textPointReward" },
+            new Rule { Window = "SchoolMap", Name = "G:goTextItem(Clone)", Under = "G:goPointPanel", CountPlural = true },
             // Coração do Dao de quem não tem semente: as pontas do texto ficavam cortadas.
             new Rule { Window = "NPCInfo", Name = "G:textWu", Size = 26 },
             // Aprimorar Habilidade: dias de cultivo.
@@ -314,6 +317,10 @@ namespace MOD_6b2SYs
             {
                 ApplyText(rule, t);
             }
+            if (rule.AfterLabel != null)
+            {
+                AfterLabel(tr, rule.AfterLabel);
+            }
             if (rule.Width > 0f)
             {
                 var box = tr.TryCast<RectTransform>();
@@ -397,6 +404,14 @@ namespace MOD_6b2SYs
             if (rule.Hanzi != null)
             {
                 HanziInside(t, rule.Hanzi);
+            }
+            if (rule.CountPlural)
+            {
+                string plural = PluralPtBr.Rewrite(t.text);
+                if (plural != null && plural != t.text)
+                {
+                    t.text = plural;
+                }
             }
         }
 
@@ -619,17 +634,12 @@ namespace MOD_6b2SYs
         private static void IconsAfterText(UnityEngine.UI.Text t, float gap)
         {
             var rt = t.rectTransform;
-            Rect rect = rt.rect;
-            float width = t.preferredWidth;
-            int align = (int)t.alignment % 3;
-            float start = align == 0 ? rect.xMin : align == 1 ? rect.center.x - width / 2f : rect.xMax - width;
             float left = float.MaxValue;
             for (int i = 0; i < rt.childCount; i++)
             {
                 left = Math.Min(left, LeftEdge(rt, rt.GetChild(i)));
             }
-            // O fim é o da última letra, sem o espaço que o jogo põe depois de "Afinidade:".
-            float shift = start + LineWidth(t, t.text.TrimEnd()) + gap - left;
+            float shift = TextEnd(t) + gap - left;
             if (left == float.MaxValue || shift < 0.5f)
             {
                 return;
@@ -638,6 +648,40 @@ namespace MOD_6b2SYs
             {
                 rt.GetChild(i).localPosition += new Vector3(shift, 0f, 0f);
             }
+        }
+
+        /// <summary>Move o grupo para o que está dentro dele começar logo depois do fim do texto.</summary>
+        private static void AfterLabel(Transform group, string labelName)
+        {
+            var panel = group.parent == null ? null : group.parent.parent;
+            var label = panel == null ? null : panel.Find(labelName);
+            var t = label == null ? null : label.GetComponent<UnityEngine.UI.Text>();
+            if (t == null)
+            {
+                return;
+            }
+            float left = float.MaxValue;
+            for (int i = 0; i < group.childCount; i++)
+            {
+                left = Math.Min(left, LeftEdge(t.rectTransform, group.GetChild(i)));
+            }
+            float shift = TextEnd(t) + AfterLabelGap - left;
+            if (left != float.MaxValue && Math.Abs(shift) >= 0.5f)
+            {
+                group.localPosition += new Vector3(shift, 0f, 0f);
+            }
+        }
+
+        /// <summary>
+        /// Fim da última letra nas coordenadas do texto, sem o espaço que o jogo põe depois de "Afinidade:".
+        /// </summary>
+        private static float TextEnd(UnityEngine.UI.Text t)
+        {
+            Rect rect = t.rectTransform.rect;
+            float width = t.preferredWidth;
+            int align = (int)t.alignment % 3;
+            float start = align == 0 ? rect.xMin : align == 1 ? rect.center.x - width / 2f : rect.xMax - width;
+            return start + LineWidth(t, t.text.TrimEnd());
         }
 
         /// <summary>Borda esquerda do objeto ativo e dos filhos dele, nas coordenadas de root.</summary>
