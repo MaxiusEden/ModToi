@@ -7,3 +7,4 @@ p006: 13 corrigidas; dúvida: nomes de reino sem o algarismo do en (role_grade_n
 p007: 3 corrigidas
 p008: 25 corrigidas (stack = camada, restos de inglês)
 p009: 31 corrigidas (stack em inglês, 'Sumaque')
+p010: 19 corrigidas (stack = camada; dardo x lança)
