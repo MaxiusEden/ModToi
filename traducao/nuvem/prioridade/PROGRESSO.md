@@ -29,3 +29,4 @@ p028: 69 corrigidas (ervas/materiais; Qi Condensado unificado; Sage = Sálvia); 
 p029: 85 corrigidas (receitas alinhadas ao nome do elixir; famílias de talismã com a ordem 'Prefixo - Nome')
 p030: 67 corrigidas (6171304/6171305 estavam trocadas; nomes de forja alinhados a p027)
 p031: 43 corrigidas; dúvida: 4100001-4 (体力丹/灵力丹) = Pílula de Vitalidade/Energia
+p032: 67 corrigidas (battle_unit_name127 tinha nota de desenvolvedor no texto); dúvida: Evergreen = Sempreverde em criaturas, mas p013/p021 usam 'Demônio da Árvore'
