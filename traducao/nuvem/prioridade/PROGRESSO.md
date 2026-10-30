@@ -13,3 +13,4 @@ p012: 58 corrigidas (28 de 'Técnica Mental comum'; upgrade = aprimorar)
 p013: 39 corrigidas; dúvida: Fallen Valley = Vale Caído (p012 já usava), 1731 'Evergreen' ficou 'Demônio da Árvore' (ch)
 p014: 22 corrigidas; dúvida: Rollback = Reversão
 p015: 27 corrigidas
+p016: 45 corrigidas (espaços iniciais restaurados; Série Dragão Grudento; aviso de glossário em daohao_yiwangtishi é plural, falso alarme)
