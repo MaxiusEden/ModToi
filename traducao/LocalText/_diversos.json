@@ -25131,8 +25131,12 @@
  "refineElixir_text7": {
   "ch": "选择丹方",
   "en": "Select Elixir Recipe",
-  "pt": "Selecione a Receita de Elixir",
-  "auto": "local/hy-mt2"
+  "pt": "Selecione a Receita",
+  "auto": "local/hy-mt2",
+  "revisado": true,
+  "revisar": [
+   "glossário: Elixir Recipe → Receita de Elixir"
+  ]
  },
  "refineElixir_text8": {
   "ch": "丹药预览：",

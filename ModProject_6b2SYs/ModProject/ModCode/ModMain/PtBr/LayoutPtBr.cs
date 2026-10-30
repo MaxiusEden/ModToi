@@ -37,6 +37,11 @@ namespace MOD_6b2SYs
         private const float InterfactWidth = 170f;
         private const float TerritoryWidth = 180f;
         private const float PropOptionMaxWidth = 84f;
+        private const float MartialTypeDown = 70f;
+        private const float AuctionNameDown = 3f;
+        private const float AuctionRowsDown = 12f;
+        private const float AuctionTipWidth = 140f;
+        private const float NpcNameMaxWidth = 195f;
         // Território da Seita: espaço entre o ":" do rótulo e o valor que vem depois.
         private const float AfterLabelGap = 6f;
         private const float InterfactOut = 12f;
@@ -137,6 +142,20 @@ namespace MOD_6b2SYs
             // Menu de opções do item: "Uso em Massa" numa linha só (o botão tem 88 de largura para o texto).
             new Rule { Window = "PropInfo", Name = "Text", Parent = "G:goOptionItem(Clone)", NoWrap = true,
                 MaxWidth = PropOptionMaxWidth },
+            // Detalhes da técnica: o ícone do tipo batia no nome; desce para a linha da recarga ou do custo em pontos.
+            new Rule { Window = "MartialInfo", Name = "G:goMartialType",
+                Offset = rt => new Vector2(0f, -MartialTypeDown) },
+            // Casa de Leilões: nome longo em duas linhas (a segunda sumia), com preço e reino mais abaixo.
+            new Rule { Window = "TownAuction", Name = "Name", Parent = "G:goPropItem(Clone)", NoClip = true,
+                Offset = rt => new Vector2(0f, -AuctionNameDown) },
+            new Rule { Window = "TownAuction", Name = "Price", Parent = "G:goPropItem(Clone)",
+                Offset = rt => new Vector2(0f, -AuctionRowsDown) },
+            new Rule { Window = "TownAuction", Name = "Grade", Parent = "G:goPropItem(Clone)",
+                Offset = rt => new Vector2(0f, -AuctionRowsDown) },
+            new Rule { Window = "TownAuction", Name = "G:textMyProp", NoWrap = true },
+            new Rule { Window = "TownAuction", Name = "G:textTipGrade1_En", Width = AuctionTipWidth, FitMin = 12 },
+            // Arena: "Locutor do Torneio Imortal" perdia a segunda linha.
+            new Rule { Window = "TownFight", Name = "G:textNPC", NoWrap = true, MaxWidth = NpcNameMaxWidth },
             // Artesanato, Herbologia: nome da prescrição.
             new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "G:goArtItemRoot3", FitMin = 11,
                 Width = HerbNameWidth },

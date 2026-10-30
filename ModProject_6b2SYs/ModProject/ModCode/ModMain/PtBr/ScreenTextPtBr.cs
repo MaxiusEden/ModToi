@@ -44,10 +44,58 @@ namespace MOD_6b2SYs
             // no quadro do discípulo; o rótulo é só "Contribuição".
             new KeyValuePair<Regex, string>(new Regex(@"Contribuição da Seita(?=(?:</color>)?\s*(?:[:+x×]|\d|<color))"),
                 "Contribuição"),
+            // Leilão: "Itens leiloados（Clique para sacar）", com os parênteses chineses que o jogo junta.
+            new KeyValuePair<Regex, string>(new Regex(@"^(.*\p{L})（(.+)）$", RegexOptions.Singleline), "$1 ($2)"),
         };
 
         // Propósito da seita: o jogo junta dois lemas (schoolSlogan*) por linha com "，" e "。" chineses.
         private static readonly Regex SloganLine = new Regex(@"(?m)^([^，。\n]+)，(\p{Lu})([^，。\n]*)。");
+
+        // Prazos: "começará em 7 Mês" (número + common_yue/common_nian) vira "começará em 7 meses".
+        private static readonly Regex TimeCount = new Regex(@"(?<=\b(?:em|cada)(?: \d+ Ano)? )(\d+) (Mês|Ano)\b");
+
+        // Mensagens de outro mod, de reparo do save, escritas em chinês durante o carregamento.
+        private static readonly Regex SaveCheck = new Regex(@"^(检测|存档修复完成|大鬼修复存档)");
+        private static readonly KeyValuePair<string, string>[] SaveCheckTerms = {
+            new KeyValuePair<string, string>("检测所有角色生平日志数据", "Verificando históricos dos personagens"),
+            new KeyValuePair<string, string>("检测角色数据", "Verificando personagens"),
+            new KeyValuePair<string, string>("检测建筑数据", "Verificando construções"),
+            new KeyValuePair<string, string>("检测坊市", "Verificando mercados"),
+            new KeyValuePair<string, string>("检测大地图副本", "Verificando masmorras do mapa"),
+            new KeyValuePair<string, string>("检测大地图事件", "Verificando eventos do mapa"),
+            new KeyValuePair<string, string>("检测壶妖数据", "Verificando diabretes"),
+            new KeyValuePair<string, string>("检测丹方", "Verificando receitas de elixir"),
+            new KeyValuePair<string, string>("检测信件数据", "Verificando cartas"),
+            new KeyValuePair<string, string>("检测数据完成，累计修复", "Verificação concluída: "),
+            new KeyValuePair<string, string>("存档修复完成，总共修补了", "Reparo do save concluído: "),
+            new KeyValuePair<string, string>("处错误。", " erros corrigidos."),
+            new KeyValuePair<string, string>("处错误", " erros corrigidos"),
+            new KeyValuePair<string, string>("本次修复存档耗时", "Tempo do reparo: "),
+            new KeyValuePair<string, string>("秒。", " s."),
+            new KeyValuePair<string, string>("八荒大鬼为你的存档保驾护航！", "O mod Bahuang Dagui protege o seu save!"),
+            new KeyValuePair<string, string>("大鬼修复存档MOD检测中", "Mod de reparo do save verificando"),
+            new KeyValuePair<string, string>("修复:", "Corrigidos: "),
+            new KeyValuePair<string, string>("境界", "Reino"),
+            new KeyValuePair<string, string>("天骄", "Escolhidos"),
+            new KeyValuePair<string, string>("性格", "Caráter"),
+            new KeyValuePair<string, string>("坊市道具", "Itens"),
+            new KeyValuePair<string, string>("道具", "Itens"),
+            new KeyValuePair<string, string>("秘籍", "Manuais"),
+            new KeyValuePair<string, string>("气运", "Destino"),
+            new KeyValuePair<string, string>("任务", "Missões"),
+            new KeyValuePair<string, string>("器灵", "Espíritos"),
+            new KeyValuePair<string, string>("道号", "Títulos"),
+            new KeyValuePair<string, string>("立绘", "Retratos"),
+            new KeyValuePair<string, string>("技能", "Habilidades"),
+            new KeyValuePair<string, string>("日志", "Históricos"),
+            new KeyValuePair<string, string>("宗门", "Seitas"),
+            new KeyValuePair<string, string>("建木", "Árvores-Cofre"),
+            new KeyValuePair<string, string>("副本", "Masmorras"),
+            new KeyValuePair<string, string>("壶妖", "Diabretes"),
+            new KeyValuePair<string, string>("丹方", "Receitas"),
+            new KeyValuePair<string, string>("事件", "Eventos"),
+            new KeyValuePair<string, string>("信件", "Cartas"),
+        };
 
         // Placa de andar do Pavilhão dos Manuais (school_dijiceng): caixa de 30 px, uma letra por linha.
         private static readonly Regex FloorSign = new Regex(@"^Piso (\d+)$");
@@ -104,7 +152,7 @@ namespace MOD_6b2SYs
                 foreach (var line in File.ReadAllLines(logPath, Encoding.UTF8))
                 {
                     int tab = line.IndexOf('\t');
-                    logged.Add(tab >= 0 ? line.Substring(0, tab) : line);
+                    logged.Add(Template(tab >= 0 ? line.Substring(0, tab) : line));
                 }
             }
             MelonLogger.Msg(string.Format("[PtBr] Tela: {0} trocas, {1} textos conhecidos, {2} desconhecidos ja registrados",
@@ -171,6 +219,20 @@ namespace MOD_6b2SYs
             {
                 return SloganLine.Replace(t, m => m.Groups[1].Value + ", " + m.Groups[2].Value.ToLowerInvariant()
                     + m.Groups[3].Value + ".");
+            }
+            if (SaveCheck.IsMatch(t))
+            {
+                foreach (var term in SaveCheckTerms)
+                {
+                    t = t.Replace(term.Key, term.Value);
+                }
+                return t;
+            }
+            if (TimeCount.IsMatch(t))
+            {
+                return TimeCount.Replace(t, m => m.Groups[1].Value + " " + (m.Groups[1].Value == "1"
+                    ? m.Groups[2].Value.ToLowerInvariant()
+                    : m.Groups[2].Value == "Ano" ? "anos" : "meses"));
             }
             foreach (var part in Parts)
             {
@@ -255,11 +317,13 @@ namespace MOD_6b2SYs
 
         private static void LogUnknown(string t, string where)
         {
-            if (logPath == null || logged.Count >= MaxLogged || !logged.Add(t))
+            string escaped = t.Replace("\r", "\\r").Replace("\n", "\\n").Replace("\t", "\\t");
+            // Um registro por modelo: textos que só mudam nos números (contadores) não enchem o arquivo.
+            if (logPath == null || logged.Count >= MaxLogged || !logged.Add(Template(escaped)))
             {
                 return;
             }
-            string line = t.Replace("\r", "\\r").Replace("\n", "\\n").Replace("\t", "\\t") + "\t" + where + "\n";
+            string line = escaped + "\t" + where + "\n";
             try
             {
                 File.AppendAllText(logPath, line, new UTF8Encoding(false));
