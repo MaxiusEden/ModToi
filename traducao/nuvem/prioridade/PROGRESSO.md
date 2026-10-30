@@ -25,3 +25,4 @@ p024: 28 corrigidas (nomes de série de elixir unificados); dúvida: Subtlety = 
 p025: 27 corrigidas; dúvida: ~70 itens 'Presc. de X' abreviam 'Prescrição' (glossário pede por extenso; deixei a série como estava); Windseek 'Busca pelo Vento' (itens) x 'Busca do Vento' (p007/p008); Rocksunder 'Quebra-Rocha' (itens) x 'Pedrasubter' (p008); Ghost Deed 'Pacto Fantasma' x 'Escritura Fantasma' (p008); nomes de ervas em LocalText ainda com Cornflower/Radish/Tearthumb/'Rapariga do Deserto'
 p026: 62 corrigidas (séries de elixir unificadas; Evildoer = Malfeitor); ajuste em out_p022 (Elixir do Yang Lustroso)
 p027: 189 corrigidas (Outfit = Traje em todos; séries unificadas; ajuste em out_p003/out_p005 para Traje); dúvida: p016 'Roupas Exclusivas' (dlc_bowuzhitishi2) ainda diz Roupa
+p028: 69 corrigidas (ervas/materiais; Qi Condensado unificado; Sage = Sálvia); dúvida: Grass = Grama (itens) x Erva (prescrições p025); Avian Berry = Baga de Ave x Fruto Aviário
