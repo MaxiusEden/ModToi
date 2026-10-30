@@ -40,3 +40,4 @@ p039: 64 corrigidas (descrições de masmorra padronizadas; 'Imagine que criatur
 p040: 39 corrigidas; dúvida: Felblade = Lâmina Maligna; 'Rank' = Nível
 p041: 32 corrigidas (citações dos clássicos que estavam cortadas; carpim/succeedem)
 p042: 2 corrigidas
+p043: 61 corrigidas (Grupo B). Avisos de nomes: Frost Lead/Darkwind Grass/Leviathan seguem os itens renomeados nos lotes A. IMPORTANTE: nomes aprovados trazem 'Sempre-Verde'; revertei meu 'Sempreverde' em p013, p021, p028, p032, p033, p034, p039
