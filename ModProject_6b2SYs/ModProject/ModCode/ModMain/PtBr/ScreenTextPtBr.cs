@@ -44,6 +44,9 @@ namespace MOD_6b2SYs
             // no quadro do discípulo; o rótulo é só "Contribuição".
             new KeyValuePair<Regex, string>(new Regex(@"Contribuição da Seita(?=(?:</color>)?\s*(?:[:+x×]|\d|<color))"),
                 "Contribuição"),
+            // Arena: o <g> do jogo vira um verde escuro, ilegível sobre o fundo dessa tela.
+            new KeyValuePair<Regex, string>(new Regex(@"^<color=#057600>(O Pavilhão do Coração do Dao cresceu.*)$",
+                RegexOptions.Singleline), "<color=#7CFF7C>$1"),
             // Leilão: "Itens leiloados（Clique para sacar）", com os parênteses chineses que o jogo junta.
             new KeyValuePair<Regex, string>(new Regex(@"^(.*\p{L})（(.+)）$", RegexOptions.Singleline), "$1 ($2)"),
         };
