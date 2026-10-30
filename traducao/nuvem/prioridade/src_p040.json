@@ -1,0 +1,612 @@
+{
+ "battle_dungeon_info2103": {
+  "en": "A wasteland occupied by monsters from the underworld.",
+  "pt": "Uma terra devastada ocupada por Monstros do submundo.",
+  "ch": "此处有一块弥漫着阴森之气的荒地，聚集了大量阴界魔怪。"
+ },
+ "battle_dungeon_info2104": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth.",
+  "pt": "Bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam uma riqueza considerável.",
+  "ch": "此处有一个山贼营地，山贼通过搜刮附近过路人的财物，积累了不少好东西。"
+ },
+ "battle_dungeon_info2105": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks if you barge in their territory.",
+  "pt": "Como o nome sugere, Foxhill é lar dos Vulpus. Espere ataques totais se invadir seu território.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，擅闯它们的领地将会受到疯狂的攻击。"
+ },
+ "battle_dungeon_info2106": {
+  "en": "Formidable Bambuki are inhabitants of this forest. They absorb Qi from nearby for their cultivation.",
+  "pt": "Formidáveis Bambuki habitam esta floresta. Absorvem Qi das proximidades para seu cultivo.",
+  "ch": "此处盘踞着众多的竹木之精，它们依靠着吸取附近的灵气修炼，拥有了不可小觑的战斗力。"
+ },
+ "battle_dungeon_info2107": {
+  "en": "Formidable Bambuki are inhabitants of this forest. They absorb Qi from nearby for their cultivation.",
+  "pt": "Formidáveis Bambuki habitam esta floresta. Absorvem Qi das proximidades para seu cultivo.",
+  "ch": "此处盘踞着众多的竹木之精，它们依靠着吸取附近的灵气修炼，拥有了不可小觑的战斗力。"
+ },
+ "battle_dungeon_info2108": {
+  "en": "A wasteland occupied by monsters from the underworld.",
+  "pt": "Uma terra desolada ocupada por monstros do submundo.",
+  "ch": "此处有一块弥漫着阴森之气的荒地，聚集了大量阴界魔怪。"
+ },
+ "battle_dungeon_info2109": {
+  "en": "Bandits set up their camp here. By robbing passersby, they've accumulated quite the wealth.",
+  "pt": "Bandidos montaram seu acampamento aqui. Ao roubar os viajantes, acumularam uma riqueza considerável.",
+  "ch": "此处有一个山贼营地，山贼通过搜刮附近过路人的财物，积累了不少好东西。"
+ },
+ "battle_dungeon_info2110": {
+  "en": "As its name suggests, Foxhill is home to the Vulpus. Expect full-on attacks if you barge in their territory.",
+  "pt": "Como o nome sugere, Foxhill é lar dos Vulpus. Espere ataques totais se invadir seu território.",
+  "ch": "此处是青丘之地，是灵狐一族的领地，擅闯它们的领地将会受到疯狂的攻击。"
+ },
+ "battle_dungeon_info3001": {
+  "en": "It's relatively safe on the outside of the Mystic Realm. Only some weak monsters appear here and there.",
+  "pt": "É relativamente seguro no exterior do Reino Místico. Apenas alguns monstros fracos aparecem aqui e ali.",
+  "ch": "秘境的边缘区域，散布着一些比较弱小的怪物，是比较安全的区域。"
+ },
+ "battle_dungeon_info3002": {
+  "en": "Elite monsters occasionally appear along the perimeter of the Mystic Realm. Stay alert if you want to be safe.",
+  "pt": "Monstros de elite aparecem ocasionalmente ao longo do perímetro do Reino Místico. Fique alerta se quiser estar seguro.",
+  "ch": "秘境的外围区域，偶尔会出现几个精英怪物，稍有大意便有可能陷入危险，是比较危险的区域。"
+ },
+ "battle_dungeon_info3003": {
+  "en": "Caution! As you go deeper into the Mystic Realm, you'll encounter more powerful monsters. Don't come here if you aren't prepared.",
+  "pt": "Cuidado! Ao ir mais fundo no Reino Místico, você encontrará monstros mais poderosos. Não venha aqui se não estiver preparado.",
+  "ch": "秘境的内部区域，盘踞着一些较强大的怪物，如果没有准备好就进入此区域的话，是非常危险的。"
+ },
+ "battle_dungeon_info3004": {
+  "en": "The depths of the Mystic Realm are dangerous to even the strongest Cultivators. Not just regular monsters, but also powerful mutants will tear you into pieces as soon as you let your guard down.",
+  "pt": "As profundezas do Reino Místico são perigosas até para os Cultivadores mais fortes. Não apenas monstros comuns, mas também mutantes poderosos o despedaçarão assim que você baixar a guarda.",
+  "ch": "秘境的深处区域，不但有强大的怪物，还会遭遇到一些异变的妖物的袭击，即使实力强大的人在此区域也需要非常小心。"
+ },
+ "battle_dungeon_info3006": {
+  "en": "It's relatively safe on the outside of the Mystic Realm. Only some weak monsters appear here and there.",
+  "pt": "É relativamente seguro no exterior do Reino Místico. Apenas alguns monstros fracos aparecem aqui e ali.",
+  "ch": "秘境的边缘区域，散布着一些比较弱小的怪物，是比较安全的区域。"
+ },
+ "battle_dungeon_info3007": {
+  "en": "Elite monsters occasionally appear along the perimeter of the Mystic Realm. Stay alert if you want to be safe.",
+  "pt": "Monstros de elite aparecem ocasionalmente ao longo do perímetro do Reino Místico. Fique alerta se quiser estar seguro.",
+  "ch": "秘境的外围区域，偶尔会出现几个精英怪物，稍有大意便有可能陷入危险，是比较危险的区域。"
+ },
+ "battle_dungeon_info3008": {
+  "en": "Caution! As you go deeper into the Mystic Realm, you'll encounter more powerful monsters. Don't come here if you aren't prepared.",
+  "pt": "Cuidado! Ao ir mais fundo no Reino Místico, você encontrará monstros mais poderosos. Não venha aqui se não estiver preparado.",
+  "ch": "秘境的内部区域，盘踞着一些较强大的怪物，如果没有准备好就进入此区域的话，是非常危险的。"
+ },
+ "battle_dungeon_info3009": {
+  "en": "The depths of the Mystic Realm are dangerous to even the strongest Cultivators. Not just regular monsters, but also powerful mutants will tear you into pieces as soon as you let your guard down.",
+  "pt": "As profundezas do Reino Místico são perigosas até para os Cultivadores mais fortes. Não apenas monstros comuns, mas também mutantes poderosos o despedaçarão assim que você baixar a guarda.",
+  "ch": "秘境的深处区域，不但有强大的怪物，还会遭遇到一些异变的妖物的袭击，即使实力强大的人在此区域也需要非常小心。"
+ },
+ "battle_dungeon_info3011": {
+  "en": "It's relatively safe on the outside of the Mystic Realm. Only some weak monsters appear here and there.",
+  "pt": "É relativamente seguro no exterior do Reino Místico. Apenas alguns monstros fracos aparecem aqui e ali.",
+  "ch": "秘境的边缘区域，散布着一些比较弱小的怪物，是比较安全的区域。"
+ },
+ "battle_dungeon_info3012": {
+  "en": "Elite monsters occasionally appear along the perimeter of the Mystic Realm. Stay alert if you want to be safe.",
+  "pt": "Monstros de elite aparecem ocasionalmente ao longo do perímetro do Reino Místico. Fique alerta se quiser estar seguro.",
+  "ch": "秘境的外围区域，偶尔会出现几个精英怪物，稍有大意便有可能陷入危险，是比较危险的区域。"
+ },
+ "battle_dungeon_info3013": {
+  "en": "Caution! As you go deeper into the Mystic Realm, you'll encounter more powerful monsters. Don't come here if you aren't prepared.",
+  "pt": "Cuidado! Ao ir mais fundo no Reino Místico, você encontrará monstros mais poderosos. Não venha aqui se não estiver preparado.",
+  "ch": "秘境的内部区域，盘踞着一些较强大的怪物，如果没有准备好就进入此区域的话，是非常危险的。"
+ },
+ "battle_dungeon_info3014": {
+  "en": "The depths of the Mystic Realm are dangerous to even the strongest Cultivators. Not just regular monsters, but also powerful mutants will tear you into pieces as soon as you let your guard down.",
+  "pt": "As profundezas do Reino Místico são perigosas até para os Cultivadores mais fortes. Não apenas Monstros comuns, mas também mutantes poderosos te despedaçarão assim que você baixar a guarda.",
+  "ch": "秘境的深处区域，不但有强大的怪物，还会遭遇到一些异变的妖物的袭击，即使实力强大的人在此区域也需要非常小心。"
+ },
+ "battle_dungeon_info3015": {
+  "en": "The core of the Mystic Realm is its most dangerous area. Ferocious monsters and harsh weather conditions will make your journey ahead extremely difficult—if not impossible.",
+  "pt": "O núcleo do Reino Místico é sua área mais perigosa. Monstros ferozes e condições climáticas extremas tornarão sua jornada adiante extremamente difícil — senão impossível.",
+  "ch": "秘境的中心区域，是整个秘境最危险的区域，不但有最强大的怪物出没，还有极端恶劣的气候，修为再强大的人都可能会寸步难行。"
+ },
+ "battle_dungeon_info3016": {
+  "en": "神秘的秘境，打败秘境中的怪物可以获得一些材料。",
+  "pt": "No Reino Místico, derrotar os Monstros permite obter alguns materiais.",
+  "ch": "神秘的秘境，打败秘境中的怪物可以获得一些材料。"
+ },
+ "battle_dungeon_info3017": {
+  "en": "神秘的秘境，打败秘境中的怪物可以获得一些材料。",
+  "pt": "No Reino Místico, derrotar os Monstros permite obter alguns materiais.",
+  "ch": "神秘的秘境，打败秘境中的怪物可以获得一些材料。"
+ },
+ "battle_dungeon_info3018": {
+  "en": "神秘的秘境，打败秘境中的怪物可以获得一些材料。",
+  "pt": "No Reino Místico, derrotar os Monstros permite obter alguns materiais.",
+  "ch": "神秘的秘境，打败秘境中的怪物可以获得一些材料。"
+ },
+ "battle_dungeon_info3019": {
+  "en": "神秘的秘境，打败秘境中的怪物可以获得一些材料。",
+  "pt": "No Reino Místico, derrotar os Monstros permite obter alguns materiais.",
+  "ch": "神秘的秘境，打败秘境中的怪物可以获得一些材料。"
+ },
+ "battle_dungeon_info3020": {
+  "en": "神秘的秘境，打败秘境中的怪物可以获得一些材料。",
+  "pt": "No Reino Místico, derrotar os Monstros permite obter alguns materiais.",
+  "ch": "神秘的秘境，打败秘境中的怪物可以获得一些材料。"
+ },
+ "battle_dungeon_info3021": {
+  "en": "神秘的秘境，打败秘境中的怪物可以获得一些材料。",
+  "pt": "No Reino Místico, derrotar os Monstros permite obter alguns materiais.",
+  "ch": "神秘的秘境，打败秘境中的怪物可以获得一些材料。"
+ },
+ "battle_dungeon_info3022": {
+  "en": "Fox Spirit Trial",
+  "pt": "Prova do Espírito da Raposa",
+  "ch": "妖狐渡劫"
+ },
+ "battle_dungeon_info3023": {
+  "en": "Canine Spirit Trial",
+  "pt": "Prova do Espírito Canino",
+  "ch": "妖犬渡劫"
+ },
+ "battle_dungeon_info3024": {
+  "en": "Serpent Spirit Trial",
+  "pt": "Prova do Espírito da Serpente",
+  "ch": "妖蛇渡劫"
+ },
+ "battle_dungeon_info3025": {
+  "en": "Toad Spirit Trial",
+  "pt": "Prova do Espírito do Sapo",
+  "ch": "妖蟾渡劫"
+ },
+ "battle_dungeon_info3026": {
+  "en": "Scorpion Spirit Trial",
+  "pt": "Prova do Espírito de Escorpião",
+  "ch": "妖蝎渡劫"
+ },
+ "battle_dungeon_info3027": {
+  "en": "Lizard Spirit Trial",
+  "pt": "Prova do Espírito do Lagarto",
+  "ch": "妖蜥渡劫"
+ },
+ "battle_dungeon_info3901": {
+  "en": "The foot of Tian Yuan Mountain is occupied by a large number of beasts. They've been drawn here by the Qi of this holy mountain.",
+  "pt": "O sopé da Montanha Tian Yuan é ocupado por um grande número de Feras. Elas foram atraídas para cá pelo Qi desta montanha sagrada.",
+  "ch": "天元山的山脚区域，有大量的异兽被天元山的气息所吸引，栖息在天元山的山脚处。"
+ },
+ "battle_dungeon_info3902": {
+  "en": "The foot of Tian Yuan Mountain is occupied by a large number of beasts. They've been drawn here by the Qi of this holy mountain.",
+  "pt": "O sopé da Montanha Tian Yuan é ocupado por um grande número de Feras. Elas foram atraídas para cá pelo Qi desta montanha sagrada.",
+  "ch": "天元山的山脚区域，有大量的异兽被天元山的气息所吸引，栖息在天元山的山脚处。"
+ },
+ "battle_dungeon_info3903": {
+  "en": "The foot of Tian Yuan Mountain is occupied by a large number of beasts. They've been drawn here by the Qi of this holy mountain.",
+  "pt": "O sopé da Montanha Tian Yuan é ocupado por um grande número de Feras. Elas foram atraídas para cá pelo Qi desta montanha sagrada.",
+  "ch": "天元山的山脚区域，有大量的异兽被天元山的气息所吸引，栖息在天元山的山脚处。"
+ },
+ "battle_dungeon_info3904": {
+  "en": "The foot of Tian Yuan Mountain is occupied by a large number of beasts. They've been drawn here by the Qi of this holy mountain.",
+  "pt": "O sopé da Montanha Tian Yuan é ocupado por um grande número de Feras. Elas foram atraídas para cá pelo Qi desta montanha sagrada.",
+  "ch": "天元山的山脚区域，有大量的异兽被天元山的气息所吸引，栖息在天元山的山脚处。"
+ },
+ "battle_dungeon_info3905": {
+  "en": "The foot of Tian Yuan Mountain is occupied by a large number of beasts. They've been drawn here by the Qi of this holy mountain.",
+  "pt": "O sopé da Montanha Tian Yuan é ocupado por um grande número de Feras. Elas foram atraídas para cá pelo Qi desta montanha sagrada.",
+  "ch": "天元山的山脚区域，有大量的异兽被天元山的气息所吸引，栖息在天元山的山脚处。"
+ },
+ "battle_dungeon_info3906": {
+  "en": "Qi is in abundance on the mountainside. Beasts cultivating here are strong in power and have a certain level of intelligence. Do NOT come unless you're powerful enough.",
+  "pt": "O Qi é abundante na encosta da montanha. Feras cultivando aqui são fortes em Poder e possuem certo nível de inteligência. NÃO venha a menos que seja poderoso o suficiente.",
+  "ch": "天元山的山腰区域，灵气极为浓郁！在此地修炼的异兽实力强横，拥有一定的灵智。若没有一定的实力，切勿闯入。"
+ },
+ "battle_dungeon_info3907": {
+  "en": "Qi is in abundance on the mountainside. Beasts cultivating here are strong in power and have a certain level of intelligence. Do NOT come unless you're powerful enough.",
+  "pt": "O Qi está em abundância no sopé da montanha. As Feras que cultivam aqui são poderosas e possuem certo nível de inteligência. NÃO venha a menos que seja forte o suficiente.",
+  "ch": "天元山的山腰区域，灵气极为浓郁！在此地修炼的异兽实力强横，拥有一定的灵智。若没有一定的实力，切勿闯入。"
+ },
+ "battle_dungeon_info3908": {
+  "en": "Qi is in abundance on the mountainside. Beasts cultivating here are strong in power and have a certain level of intelligence. Do NOT come unless you're powerful enough.",
+  "pt": "O Qi está em abundância no sopé da montanha. As Feras que cultivam aqui são poderosas e possuem certo nível de inteligência. NÃO venha a menos que seja forte o suficiente.",
+  "ch": "天元山的山腰区域，灵气极为浓郁！在此地修炼的异兽实力强横，拥有一定的灵智。若没有一定的实力，切勿闯入。"
+ },
+ "battle_dungeon_info3909": {
+  "en": "Qi is in abundance on the mountainside. Beasts cultivating here are strong in power and have a certain level of intelligence. Do NOT come unless you're powerful enough.",
+  "pt": "O Qi está em abundância no sopé da montanha. As Feras que cultivam aqui são poderosas e possuem certo nível de inteligência. NÃO venha a menos que seja forte o suficiente.",
+  "ch": "天元山的山腰区域，灵气极为浓郁！在此地修炼的异兽实力强横，拥有一定的灵智。若没有一定的实力，切勿闯入。"
+ },
+ "battle_dungeon_info3910": {
+  "en": "Qi is in abundance on the mountainside. Beasts cultivating here are strong in power and have a certain level of intelligence. Do NOT come unless you're powerful enough.",
+  "pt": "O Qi está em abundância no sopé da montanha. As Feras que cultivam aqui são poderosas e possuem certo nível de inteligência. NÃO venha a menos que seja forte o suficiente.",
+  "ch": "天元山的山腰区域，灵气极为浓郁！在此地修炼的异兽实力强横，拥有一定的灵智。若没有一定的实力，切勿闯入。"
+ },
+ "battle_dungeon_info3911": {
+  "en": "The summit of Tian Yuan Mountain is home to beasts with enormous power and high intelligence. Only the strongest Cultivators will survive here.",
+  "pt": "O cume da Montanha Tian Yuan abriga Feras de poder enorme e inteligência elevada. Apenas os Cultivadores mais fortes sobreviverão aqui.",
+  "ch": "天元山的山顶区域，此地的异兽都领悟了一定的法则之力，灵智极高，实力更是异常强大！寻常修仙者勿要乱闯！"
+ },
+ "battleAbility_suitCall10006": {
+  "en": "[Wandering Cloud]",
+  "pt": "[Nuvem Errante]",
+  "ch": "渡江云·"
+ },
+ "battleAbility_suitCall10007": {
+  "en": "[Pearl Collector]",
+  "pt": "[Colecionador de Pérolas]",
+  "ch": "珍珠令·"
+ },
+ "battleAbility_suitCall10008": {
+  "en": "[Mulberry Picker]",
+  "pt": "[Colhedor de Amoras]",
+  "ch": "采桑子·"
+ },
+ "battleAbility_suitCall10009": {
+  "en": "[Misty Nimbus]",
+  "pt": "[Nimbus Nebuloso]",
+  "ch": "梦行云·"
+ },
+ "battleAbility_suitCall10010": {
+  "en": "[Linebreaker]",
+  "pt": "[Quebra-Linhas]",
+  "ch": "破阵子·"
+ },
+ "battleAbility_suitCall10011": {
+  "en": "[Flurry Snowflakes]",
+  "pt": "[Rajada de Flocos de Neve]",
+  "ch": "雪满天·"
+ },
+ "battleAbility_suitCall10012": {
+  "en": "[Clinking Jade]",
+  "pt": "[Jade Tilintante]",
+  "ch": "玉龙吟·"
+ },
+ "battleAbility_suitCall10013": {
+  "en": "[Crimson Land]",
+  "pt": "[Terra Carmesim]",
+  "ch": "断关河·"
+ },
+ "battleAbility_suitCall10014": {
+  "en": "[Fallen Petals]",
+  "pt": "[Pétalas Caídas]",
+  "ch": "夜飞红·"
+ },
+ "battleAbility_suitCall10015": {
+  "en": "[Myriad Blossoms]",
+  "pt": "[Miríade de Flores]",
+  "ch": "梨花影·"
+ },
+ "battleAbility_suitCall10016": {
+  "en": "[Defiant One]",
+  "pt": "[O Desafiante]",
+  "ch": "过龙门·"
+ },
+ "battleAbility_suitCall10017": {
+  "en": "[Overlord]",
+  "pt": "[Suserano]",
+  "ch": "震山河·"
+ },
+ "battleAbility_suitCall10018": {
+  "en": "[Destined Challenger]",
+  "pt": "[Desafiante Predestinado]",
+  "ch": "乾坤转·"
+ },
+ "battleAbility_suitCall10019": {
+  "en": "[Soaring Tide]",
+  "pt": "[Maré Ascendente]",
+  "ch": "凌波曲·"
+ },
+ "battleAbility_suitCall10020": {
+  "en": "[Tireless Dancer]",
+  "pt": "[Dançarino Incansável]",
+  "ch": "舞天涯·"
+ },
+ "battleAbility_suitCall10021": {
+  "en": "[Arcane Portal]",
+  "pt": "[Portal Arcano]",
+  "ch": "洞玄歌·"
+ },
+ "battleAbility_suitCall10022": {
+  "en": "[Existence Imaged]",
+  "pt": "[Existência Refletida]",
+  "ch": "镜中人·"
+ },
+ "battleAbility_suitCall10023": {
+  "en": "[Blithe Butterfly]",
+  "pt": "[Borboleta Alegre]",
+  "ch": "蝶恋花·"
+ },
+ "battleAbility_suitCall10024": {
+  "en": "[Spilled Perfume]",
+  "pt": "[Fragrância Espalhada]",
+  "ch": "乱芳华·"
+ },
+ "battleAbility_suitCall10025": {
+  "en": "[Agile Dragon]",
+  "pt": "[Dragão Ágil]",
+  "ch": "潜龙渊·"
+ },
+ "battleAbility_suitCall10026": {
+  "en": "[Stormy Sea]",
+  "pt": "[Mar Tempestuoso]",
+  "ch": "望海潮·"
+ },
+ "battleAbility_suitCall10027": {
+  "en": "[Pyromancer]",
+  "pt": "[Piromante]",
+  "ch": "宴火令·"
+ },
+ "battleAbility_suitCall10028": {
+  "en": "[Singing Phoenix]",
+  "pt": "[Fênix Cantora]",
+  "ch": "丹凤吟·"
+ },
+ "battleAbility_suitCall10029": {
+  "en": "[Finest Sifter]",
+  "pt": "[Peneirador Supremo]",
+  "ch": "浪淘沙·"
+ },
+ "battleAbility_suitCall10030": {
+  "en": "[Tempest]",
+  "pt": "[Tempestade]",
+  "ch": "风凌霄·"
+ },
+ "battleAbility_suitCall10031": {
+  "en": "[Mountain Might]",
+  "pt": "[Poder da Montanha]",
+  "ch": "凝五岳·"
+ },
+ "battleAbility_suitCall10032": {
+  "en": "[Earthcracker]",
+  "pt": "[Rachador de Terra]",
+  "ch": "荒灵衍·"
+ },
+ "battleAbility_suitCall10033": {
+  "en": "[Thunder Tamer]",
+  "pt": "[Domador de Trovões]",
+  "ch": "踏云行·"
+ },
+ "battleAbility_suitCall10034": {
+  "en": "[Eternity Rover]",
+  "pt": "[Errante da Eternidade]",
+  "ch": "遥天引·"
+ },
+ "battleAbility_suitDesc1_10000": {
+  "en": "If no other set Mind Skill is equipped, Damage Done +10%, Damage Taken -10%.",
+  "pt": "Se nenhuma outra Técnica Mental de conjunto estiver equipada, Dano Causado +10%, Dano Recebido -10%.",
+  "ch": "若没有装备其它套装心法，则自身伤害提升10%，受到伤害-10%。"
+ },
+ "battleAbility_suitDesc1_10001": {
+  "en": "If less than 8 Mind Skills are equipped, Max Vitality +20%.",
+  "pt": "Se menos de 8 Técnicas Mentais estiverem equipadas, Vitalidade Máx. +20%.",
+  "ch": "若装备的心法数量小于8，则体力上限+20%。"
+ },
+ "battleAbility_suitDesc1_10002": {
+  "en": "If no other Mythic Mind Skill is equipped, gain 3% Vitality Steal and Energy Steal.",
+  "pt": "Se nenhuma outra Técnica Mental Mítica estiver equipada, ganhe 3% de Roubo de Vitalidade e Roubo de Energia.",
+  "ch": "若没有装备其它红色心法，则获得3%的体力和灵力偷取。"
+ },
+ "battleAbility_suitDesc1_10003": {
+  "en": "Cultivation efficiency +100%.",
+  "pt": "Eficiência de Cultivo +100%.",
+  "ch": "修炼效率提高100%。"
+ },
+ "battleAbility_suitDesc1_10004": {
+  "en": "Low Mood penalty -50%. There is a 50% chance to acquire 1 random Stat when in Low Mood at monthly summary.",
+  "pt": "Penalidade de Humor Baixo -50%. Há 50% de chance de adquirir 1 Atributo aleatório ao estar com Humor Baixo no resumo mensal.",
+  "ch": "心情低落惩罚降低50%，心情低落过月时，有50%概率获得1点任意资质。"
+ },
+ "battleAbility_suitDesc1_10005": {
+  "en": "Max Vitality and Max Energy recover by 40% after monthly summary.",
+  "pt": "Vitalidade Máx. e Energia Máx. se recuperam em 40% após o resumo mensal.",
+  "ch": "月结后最大体力和最大灵力恢复40%。"
+ },
+ "battleAbility_suitDesc1_10006": {
+  "en": "Skill Cooldown -10%.",
+  "pt": "Recarga da Habilidade -10%.",
+  "ch": "技能冷却-10%。"
+ },
+ "battleAbility_suitDesc1_10007": {
+  "en": "Obtain 50% more Spirit Stones when selling items.",
+  "pt": "Obtém 50% mais Pedras Espirituais ao vender itens.",
+  "ch": "出售道具时，获得灵石+50%。"
+ },
+ "battleAbility_suitDesc1_10008": {
+  "en": "Dealing damage to monsters has a certain chance to drop Spirit Stones.",
+  "pt": "Causar dano a monstros tem uma certa chance de dropar Pedras Espirituais.",
+  "ch": "对怪物造成伤害时，有概率掉落灵石。"
+ },
+ "battleAbility_suitDesc1_10009": {
+  "en": "Damage Done +10%.",
+  "pt": "Dano Causado +10%.",
+  "ch": "造成伤害+10%。"
+ },
+ "battleAbility_suitDesc1_10010": {
+  "en": "Convert 10% DEF to ATK.",
+  "pt": "Converte 10% de DEF para ATQ.",
+  "ch": "将10%的防御力转换为攻击力。"
+ },
+ "battleAbility_suitDesc1_10011": {
+  "en": "If you are equipped with an AoE Sword Special Skill, it is auto cast once every 5s for the duration of a sword Motion Skill.",
+  "pt": "Se você estiver equipado com uma Técnica Especial de Espada de Área de Efeito, ela é lançada automaticamente a cada 5s durante a duração de uma Técnica de Movimento de Espada.",
+  "ch": "若你装备了范围型剑法绝技，则在剑系身法持续时间，每5秒自动施放一次当前装备着的绝技。"
+ },
+ "battleAbility_suitDesc1_10012": {
+  "en": "Every time you cast a Sword Martial Skill, you will have a &8036001_jqgl&% chance to release an enemy-tracking Dragonslayer Sword Aura toward the nearest target, dealing &8036001_jqwl& damage.",
+  "pt": "Toda vez que você lança uma Técnica Marcial de Espada, você tem &8036001_jqgl&% de chance de liberar uma Aura da Espada Matadora de Dragões que rastreia inimigos em direção ao alvo mais próximo, causando dano de &8036001_jqwl&.",
+  "ch": "每次释放剑系武技会有&8036001_jqgl&%概率对最近目标施放一道极快的追踪斩龙剑气造成&8036001_jqwl&威力的伤害。"
+ },
+ "battleAbility_suitDesc1_10013": {
+  "en": "Greatly increase the area and damage increase of Crazeblood Cleave. Each use of Crazeblood Cleave increases Ultimate Skill duration by 5s, up to 30s.",
+  "pt": "Aumenta grandemente a área e o aumento de dano do Golpe de Sangue Furioso. Cada uso do Golpe de Sangue Furioso aumenta a duração da Técnica Suprema em 5s, até 30s.",
+  "ch": "大幅提升狂血斩加的范围和伤害，且每使用一次狂血斩，神通时间持续时间增加5秒，最多可增加30秒。"
+ },
+ "battleAbility_suitDesc1_10014": {
+  "en": "After Blade Martial Skills deal damage, the amount of Felblade is increased by 1. Stackable at max 20 times.",
+  "pt": "Após Técnicas Marciais de Lâmina causarem dano, a quantidade de Lâmina Má aumenta em 1. Empilhável até 20 vezes.",
+  "ch": "刀系武技造成伤害后，增加邪刃数量+1，最大叠加20层。"
+ },
+ "battleAbility_suitDesc1_10015": {
+  "en": "Hellspear area and quantity are tripled.",
+  "pt": "A área e a quantidade da Lança do Inferno são triplicadas.",
+  "ch": "鬼狱枪的范围和数量变为3倍。"
+ },
+ "battleAbility_suitDesc1_10016": {
+  "en": "Casting a Spear Motion Skill summons an invincible phantom for 30s that can imitate your Spear Special Skills upon casting them.",
+  "pt": "Lançar uma Técnica de Movimento de Lança invoca um fantasma invencível por 30s que pode imitar suas Técnicas Especiais de Lança ao lançá-las.",
+  "ch": "使用枪系身法会召唤一个免疫一切伤害且随自身释放枪系绝技的幻象，持续30秒。"
+ },
+ "battleAbility_suitDesc1_10017": {
+  "en": "During the 10s after Colossal Fist stuns an enemy, Colossal Fist charging time is reduced to 0.1s.",
+  "pt": "Durante os 10s após o Punho Colosso atordoar um inimigo, o tempo de carregamento do Punho Colosso é reduzido para 0.1s.",
+  "ch": "当震天拳使敌人晕眩后，在10秒内，震天拳的蓄力时间降低为0.1秒。"
+ },
+ "battleAbility_suitDesc1_10018": {
+  "en": "If you have a shield, casting Seismic Fist consumes 10% of the shield (up to 5000). Every 100 Shield consumed increases the area and damage of Seismic Fist.",
+  "pt": "Se você tiver um Escudo, lançar Punho Sísmico consome 10% do Escudo (até 5000). A cada 100 de Escudo consumido, aumenta a área e o dano do Punho Sísmico.",
+  "ch": "若你拥有护盾，则每次使用裂地拳时，会消耗10%的护盾（且最大不超过5000），每消耗100点护盾可提升裂地拳的范围和伤害。"
+ },
+ "battleAbility_suitDesc1_10019": {
+  "en": "After generating Palm Wind 10 times in a battle, Palm Wind to be generated becomes Super Palm Wind.",
+  "pt": "Após gerar Vento da Palma 10 vezes em uma batalha, o Vento da Palma a ser gerado se torna Super Vento da Palma.",
+  "ch": "战斗中生成10次掌风后，后续生成的掌风将变更为超级掌风。"
+ },
+ "battleAbility_suitDesc1_10020": {
+  "en": "Storm Palm range is doubled, and it tracks enemies automatically within range. Each cast of Storm Palm increases Storm Palm damage by 5% for the duration of a Palm Motion Skill.",
+  "pt": "O alcance da Palma da Tempestade é dobrado e ela rastreia inimigos automaticamente dentro do alcance. Cada lançamento da Palma da Tempestade aumenta o dano da Palma da Tempestade em 5% durante a duração de uma Técnica de Movimento de Palma.",
+  "ch": "暴风掌射程翻倍，且在范围内自动索敌。掌身法持续期间，每次施放暴风掌都会使暴风掌伤害提高5%。"
+ },
+ "battleAbility_suitDesc1_10021": {
+  "en": "Each cast of a Finger Special Skill has a 25% chance to upgrade Boomerang Finger, up to Rank 3.",
+  "pt": "Cada uso de uma Técnica Especial de Dedo tem 25% de chance de melhorar o Dedo Bumerangue, até o Rank 3.",
+  "ch": "每使用1次指法绝技，有25%的概率升级轮回指，最多可升到3级。"
+ },
+ "battleAbility_suitDesc1_10022": {
+  "en": "Shadowy Finger cast while invisible lasts 5 times longer.",
+  "pt": "Usar Dedo Sombrio enquanto invisível dura 5 vezes mais.",
+  "ch": "在隐身状态下使用灵影指，可使本次灵影指的持续时间变为5倍。"
+ },
+ "battleAbility_suitDesc1_10023": {
+  "en": "When summoning Flower Faerie Queen, all Small Flower Faeries present are enhanced randomly once.",
+  "pt": "Ao invocar a Rainha Fada das Flores, todas as Pequenas Fadas das Flores presentes são melhoradas aleatoriamente uma vez.",
+  "ch": "在召唤花妖后时，会立即对场上所有小花妖进行一次随机强化效果。"
+ },
+ "battleAbility_suitDesc1_10024": {
+  "en": "Poisonous Plants deal 2 additional attacks. After dealing damage to enemies, Poisonous Plants apply 1 x Feeble on them. Each stack of Feeble increases the damage from Poisonous Thorn by 5%, up to 125%.",
+  "pt": "Plantas Venenosas causam 2 ataques adicionais. Após causar dano, aplicam 1x Fragilidade. Cada camada aumenta o dano de Espinho Venenoso em 5%, até 125%.",
+  "ch": "毒株术会在进行攻击时额外攻击2次，且毒株术造成伤害后为敌方添加1层脆弱效果，每层效果使毒刺伤害提高5%，最大提高125%。"
+ },
+ "battleAbility_suitDesc1_10025": {
+  "en": "When Icy Aura deals damage, Water Motion Skill cooldown is reduced by 2s.",
+  "pt": "Quando a Aura Gélida causa dano, a recarga da Técnica de Movimento de Água é reduzida em 2s.",
+  "ch": "冰气术造成伤害时，降低水身法冷却2秒。"
+ },
+ "battleAbility_suitDesc1_10026": {
+  "en": "When you have more than 50% Energy, Spiritual Torrent consumes 0.25% Max Energy per sec to gain enhanced penetrative missiles, and deal 100% more damage.",
+  "pt": "Com mais de 50% de Energia, a Torrente Espiritual consome 0,25% da Energia Máx. por segundo para ganhar mísseis perfurantes aprimorados e causar 100% mais de dano.",
+  "ch": "当灵力大于50%时，灵流术每秒会消耗0.25%的最大灵力，强化使其能穿透，且伤害提升100%"
+ },
+ "battleAbility_suitDesc1_10027": {
+  "en": "Each time Fire Flare triggers Crit, the generation interval of the next Fire Sorrow is reduced by 10%, up to 50%.",
+  "pt": "Cada Crítico da Chama Explosiva reduz em 10% o intervalo de geração do próximo Lamento de Fogo, até 50%.",
+  "ch": "焰火术每次造成暴击伤害时，可降低下次离火术的生成间隔10%，最大降低50%。"
+ },
+ "battleAbility_suitDesc1_10028": {
+  "en": "During the extension of Sinful Flame, it consumes 5% Max Vitality per sec to gain increased damage and range. There is no longer a time limit to the extension.",
+  "pt": "Durante a extensão da Chama do Pecado, consome 5% da Vitalidade Máx. por segundo para aumentar o dano e o alcance. Não há mais limite de tempo para a extensão.",
+  "ch": "业火术透支时每秒会消耗自身5%的最大体力，并提升其伤害和射程。透支时间不再限制。"
+ },
+ "battleAbility_suitDesc1_10029": {
+  "en": "At 70% or higher Vitality, Sandstorm duration is doubled.",
+  "pt": "Com 70% ou mais de Vitalidade, a duração da Tempestade de Areia dobra.",
+  "ch": "当你体力大于70%时，飞沙术的持续施法时间翻倍。"
+ },
+ "battleAbility_suitDesc1_10030": {
+  "en": "When you are equipped with Wind Edge, after Wild Wind is cast for 3s, a rooted Wild Wind will be generated on its location for 7s.",
+  "pt": "Equipado com Lâmina de Vento, após usar Vento Selvagem por 3s, gera um Vento Selvagem enraizado no local por 7s.",
+  "ch": "若携带了风刃术时，狂风术持续施法超过3秒时，会在原地生成一个持续7秒的固定狂风术。"
+ },
+ "battleAbility_suitDesc1_10031": {
+  "en": "Rock Formation area and quantity are increased.",
+  "pt": "A área e a quantidade da Formação de Rochas são aumentadas.",
+  "ch": "增加聚石阵的范围和数量。"
+ },
+ "battleAbility_suitDesc1_10032": {
+  "en": "After there are 3 or more Earth Golems (including Advanced Earth Golems) exist on the battlefield, one blast is triggered at the position of a random Earth Golem per sec.",
+  "pt": "Com 3 ou mais Golem de Terra (incluindo Golem de Terra Avançado) no campo de batalha, um impacto é desencadeado na posição de um Golem de Terra aleatório por segundo.",
+  "ch": "当场上存在3个及以上的土傀儡时（包括超级土傀儡），获得效果：每秒随机在一个土傀儡的位置产生一次震爆。"
+ },
+ "battleAbility_suitDesc1_10033": {
+  "en": "After casting a Lightning Motion Skill, you gain a dodge attempt. This effect cannot stack.",
+  "pt": "Após usar uma Técnica de Movimento de Relâmpago, você ganha uma tentativa de Esquiva. Este efeito não pode ser acumulado.",
+  "ch": "使用雷系身法后，可获得一次闪避效果，不可叠加。"
+ },
+ "battleAbility_suitDesc1_10034": {
+  "en": "Casting a Lightning Special Skill summons a Lightning Beast. There can be at most 5 Lightning Beasts at a time.",
+  "pt": "Usar uma Técnica Especial de Relâmpago invoca uma Fera de Relâmpago. Pode haver no máximo 5 Feras de Relâmpago de cada vez.",
+  "ch": "每次使用雷系绝技时，可召唤一只雷兽，场上最多可存在5只雷兽。"
+ },
+ "battleAbility_suitDesc2_10011": {
+  "en": "Sword AoE Special Skill area is increased by 50%. When casting a sword AoE Special Skill, it is cast an extra time at the position of a random enemy.",
+  "pt": "A área da Técnica Especial de Espada em área é aumentada em 50%. Ao usar uma Técnica Especial de Espada em área, é lançada uma vez extra na posição de um inimigo aleatório.",
+  "ch": "剑系的范围类绝技的范围增加50%，在施放剑系的范围类绝技时，会随机在一个敌人的位置额外施放一次。"
+ },
+ "battleAbility_suitDesc2_10012": {
+  "en": "After your Dragonslayer Sword Aura deals &8036001_shcs& times of damage, the amount of Sword Shadows of your next Shadowless Sword +&8036001_ddsl&.",
+  "pt": "Após sua Aura da Espada Matadora de Dragões causar mais de &8036001_shcs& vezes de dano, a quantidade de Sombras de Espada da sua próxima Espada Sem Sombra +&8036001_ddsl&.",
+  "ch": "斩龙剑气造成超过&8036001_shcs&次伤害后，下一次绝影剑剑影数量+&8036001_ddsl&。"
+ },
+ "battleAbility_suitDesc2_10013": {
+  "en": "Overbearing Cleave tracks enemies automatically instead of following you. The longer it spins, the higher its damage.",
+  "pt": "O Talho Dominador rastreia inimigos automaticamente em vez de seguir você. Quanto mais gira, maior o dano.",
+  "ch": "霸道斩改为不跟随自身，而是改为自动寻敌。并且旋转时间越久伤害越高。"
+ },
+ "battleAbility_suitDesc2_10014": {
+  "en": "After reaching the farthest point, Felblade changes its tracking blade to attack again.",
+  "pt": "Ao atingir o ponto mais distante, a Lamina Sombria muda sua lâmina de rastreamento para atacar novamente.",
+  "ch": "邪刃在达到最远距离后会变更追踪刀刃再次进行攻击。"
+ },
+ "battleAbility_suitDesc2_10015": {
+  "en": "Each time Hellspear deals damage, Crackling Jade Spear cooldown -0.1s.",
+  "pt": "A cada dano causado pela Lança do Inferno, a recarga da Lança de Jade Estilhaçada diminui 0,1s.",
+  "ch": "鬼狱枪每造成一次伤害，碎玉枪的CD-0.1秒。"
+ },
+ "battleAbility_suitDesc2_10016": {
+  "en": "For every phantom present, Spear Martial Skill's attack attempts +1.",
+  "pt": "Para cada Fantasma presente, as tentativas de ataque da Técnica Marcial de Lança +1.",
+  "ch": "场上每有一个幻像，枪系武技的攻击数量+1。"
+ },
+ "battleAbility_suitName10002": {
+  "en": "Star Sucking Skill",
+  "pt": "Habilidade de Sugar Estrelas",
+  "ch": "吸星大法"
+ },
+ "battleAbility_suitName10003": {
+  "en": "Canon of Arcane Cavern",
+  "pt": "Cânone da Caverna Arcana",
+  "ch": "洞玄经"
+ },
+ "battleAbility_suitName10004": {
+  "en": "Move of Broken Sky",
+  "pt": "Golpe do Céu Partido",
+  "ch": "残天式"
+ },
+ "battleAbility_suitName10005": {
+  "en": "Force of Lying Dragon",
+  "pt": "Força do Dragão Adormecido",
+  "ch": "卧龙劲"
+ },
+ "battleAbility_suitName10006": {
+  "en": "Wandering Cloud",
+  "pt": "Nuvem Errante",
+  "ch": "渡江云"
+ },
+ "battleAbility_suitName10007": {
+  "en": "Pearl Collector",
+  "pt": "Colecionador de Pérolas",
+  "ch": "珍珠令"
+ },
+ "battleAbility_suitName10008": {
+  "en": "Mulberry Picker",
+  "pt": "Colhedor de Amora",
+  "ch": "采桑子"
+ },
+ "battleAbility_suitName10009": {
+  "en": "Misty Nimbus",
+  "pt": "Nuvem de Sonho",
+  "ch": "梦行云"
+ }
+}

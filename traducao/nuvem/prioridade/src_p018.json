@@ -1,0 +1,562 @@
+{
+ "fateFeature_tupodanyao1": {
+  "en": "Breakthrough Items will help you break through your Bottlenecks.",
+  "pt": "Itens de Avanço ajudarão você a superar seus Gargalos.",
+  "ch": "突破道具可以帮助修仙者突破瓶颈"
+ },
+ "fateFeature_tupopingjing": {
+  "en": "Breakthrough",
+  "pt": "Avanço",
+  "ch": "突破瓶颈"
+ },
+ "fate_qiwanghuida": {
+  "en": "(Desired Response)",
+  "pt": "(Resposta Desejada)",
+  "ch": "（期望回答）"
+ },
+ "fatefeature_zanweikaifang": {
+  "en": "Coming soon!",
+  "pt": "Em breve!",
+  "ch": "暂未开放！"
+ },
+ "fieldSkillDesc122": {
+  "en": "Every 1s, you'll consume &332002_xhll&% of your current Energy to deal $s_shui$ damage to all enemies inside the Field. For every 1 Energy consumed, this damage increases by &332002_shwl&.",
+  "pt": "A cada 1s, você consome &332002_xhll&% da sua Energia atual para causar $s_shui$ de dano a todos os inimigos dentro do Domínio. Para cada 1 de Energia consumida, esse dano aumenta em &332002_shwl&.",
+  "ch": "每1秒燃烧自身当前&332002_xhll&%的灵力，对领域内的所有敌人造成$s_shui$伤害，每燃烧1点灵力，可使伤害的威力增加&332002_shwl&。"
+ },
+ "fieldSkillDesc123": {
+  "en": "Every 1s, you'll consume &332003_xhll&% of your current Energy to deal $s_shui$ damage to all enemies inside the Field. For every 1 Energy consumed, this damage increases by &332003_shwl&.",
+  "pt": "A cada 1s, você consome &332003_xhll&% da sua Energia atual para causar $s_shui$ de dano a todos os inimigos dentro do Domínio. Para cada 1 de Energia consumida, esse dano aumenta em &332003_shwl&.",
+  "ch": "每1秒燃烧自身当前&332003_xhll&%的灵力，对领域内的所有敌人造成$s_shui$伤害，每燃烧1点灵力，可使伤害的威力增加&332003_shwl&。"
+ },
+ "fieldSkillDesc13": {
+  "en": "You convert &321004_xxbl&% of damage done into your Vitality and increase the damage of all units (both allies and enemies) inside the Field by &321005_tssh&%.",
+  "pt": "Você converte &321004_xxbl&% do dano causado em Vitalidade e aumenta o dano de todas as unidades (aliados e inimigos) dentro do Domínio em &321005_tssh&%.",
+  "ch": "自身获得&321004_xxbl&%的吸血，并使领域内的所有单位（无论敌我），造成的伤害提升&321005_tssh&%。"
+ },
+ "fieldSkillDesc131": {
+  "en": "Every &333001_jgsj&s, you'll create a clone of every enemy in their position. The clones attack nearby enemies automatically and can't be attacked. Each clone exists for &333001_cxsj&s.",
+  "pt": "A cada &333001_jgsj&s, você cria um clone de cada inimigo em sua posição. Os clones atacam inimigos próximos automaticamente e não podem ser atacados. Cada clone existe por &333001_cxsj&s.",
+  "ch": "每&333001_jgsj&秒在领域内所有敌人的位置处生成一个其自身的复制体，该复制体会主动攻击附近的敌人，不能被攻击，持续&333001_cxsj&秒。"
+ },
+ "fieldSkillDesc132": {
+  "en": "Blind all enemies inside the Field. The cooldown of your Martial/Spiritual Skills &333003_jscd&%, your damage &333003_shjd&. After every &333003_gjcs& Martial/Spiritual Skills, you'll generate a Ball of Lightning, which explodes after hitting an enemy, dealing &333003_shwl& $s_lei$ damage.",
+  "pt": "Cega todos os inimigos dentro do Domínio. O tempo de recarga das suas Técnicas Marciais/Técnicas Espirituais é &333003_jscd&%, seu dano &333003_shjd&. Após cada &333003_gjcs& Técnica Marcial/Técnica Espiritual, você gera uma Bola de Relâmpago, que explode após atingir um inimigo, causando &333003_shwl& $s_lei$ de dano.",
+  "ch": "领域内的所有敌人将受到致盲效果，自身武技/灵技的冷却时间&333003_jscd&%，造成的伤害&333003_shjd&，且每使用&333003_gjcs&次武技/灵技，可在领域内生成一个雷球，碰撞到敌人之后会爆开，造成威力&333003_shwl&的$s_lei$伤害。"
+ },
+ "fieldSkillDesc133": {
+  "en": "Blind all enemies inside the Field. The cooldown of your Martial/Spiritual Skills &333005_jscd&%, your damage &333005_shjd&. After every &333005_gjcs& Martial/Spiritual Skills, you'll generate a Ball of Lightning, which automatically moves toward a nearby enemy and explodes after hitting the enemy, dealing &333005_shwl& $s_lei$ damage.",
+  "pt": "Cega todos os inimigos dentro do Domínio. O tempo de recarga das suas Técnicas Marciais/Técnicas Espirituais é &333005_jscd&%, seu dano &333005_shjd&. Após cada &333005_gjcs& Técnica Marcial/Técnica Espiritual, você gera uma Bola de Relâmpago, que se move automaticamente em direção a um inimigo próximo e explode após atingi-lo, causando &333005_shwl& $s_lei$ de dano.",
+  "ch": "领域内的所有敌人将受到致盲效果，自身武技/灵技的冷却时间&333005_jscd&%，造成的伤害&333005_shjd&，且每使用&333005_gjcs&次武技/灵技，可在领域内生成一个雷球，雷球会自动向附近的敌人移动，碰撞到敌人之后会爆开，造成威力&333005_shwl&的$s_lei$伤害。"
+ },
+ "fieldSkillDesc141": {
+  "en": "Increase Agility of all allies (including yourself) inside the Field by &334001_tsys&%.",
+  "pt": "Aumenta a Agilidade de todos os aliados (incluindo você) dentro do Domínio em &334001_tsys&%.",
+  "ch": "领域内的友方单位（包括自身）的移动速度提升&334001_tsys&%"
+ },
+ "fieldSkillDesc142": {
+  "en": "When your allies (including yourself) inside the Field aren't taking any damage, their damage will increase by &334002_tssh&% every second. They also can cast skills while their Motion Skill is still taking effect.",
+  "pt": "Quando seus aliados (incluindo você) dentro do Domínio não estão recebendo dano, seu dano aumenta em &334002_tssh&% a cada segundo. Eles também podem lançar habilidades enquanto sua Técnica de Movimento ainda estiver em efeito.",
+  "ch": "领域内的友方单位（包括自身）在未受到伤害时，每秒可提升&334002_tssh&%的伤害。且自身在身法持续时间内也能使用技能。"
+ },
+ "fieldSkillDesc143": {
+  "en": "When your allies (including yourself) inside the Field aren't taking any damage, their damage will increase by &334004_tssh&% every second. They also can cast skills while their Motion Skill is still taking effect.",
+  "pt": "Quando seus aliados (incluindo você) dentro do Domínio não estão recebendo dano, seu dano aumenta em &334004_tssh&% a cada segundo. Eles também podem lançar habilidades enquanto sua Técnica de Movimento ainda estiver em efeito.",
+  "ch": "领域内的友方单位（包括自身）在未受到伤害时，每秒可提升&334004_tssh&%的伤害。且自身在身法持续时间内也能使用技能。"
+ },
+ "fieldSkillDesc151": {
+  "en": "Every time an ally inside the Field receives damage, your damage taken &335001_jdsh&% (up to &335001_jdsh|x335001_djcs|f0&%). When this Field Skill ends, this effect will be removed from all allies.",
+  "pt": "Toda vez que um aliado dentro do Domínio recebe dano, o dano recebido por você é &335001_jdsh&% (até &335001_jdsh|x335001_djcs|f0&%). Quando essa Habilidade de Domínio termina, esse efeito é removido de todos os aliados.",
+  "ch": "领域内的友方单位每受到一次伤害时，使自身受到的伤害&335001_jdsh&%（最多可&335001_jdsh|x335001_djcs|f0&%，领域技能结束时，移除所有友方单位的此效果）。"
+ },
+ "fieldSkillDesc152": {
+  "en": "Every time an ally (including yourself) inside the Field receives damage, they'll share &335003_jdsh&% of the incoming damage with all allies inside the Field. Every time an ally inside the Field receives damage, they have a &335003_cfgl&% chance to trigger a blast, dealing &335003_shfw& $s_tu$ damage to nearby enemies.",
+  "pt": "Toda vez que um aliado (incluindo você) dentro do Domínio recebe dano, eles compartilharão &335003_jdsh&% do dano recebido com todos os aliados dentro do Domínio. Toda vez que um aliado dentro do Domínio recebe dano, eles têm uma chance de &335003_cfgl&% de desencadear uma explosão, causando &335003_shfw& $s_tu$ de dano a inimigos próximos.",
+  "ch": "领域内的友方单位（包括自身）在受到伤害时，可将其中&335003_jdsh&%的伤害平摊至领域内的所有友方单位，并且领域内的友方单位在受到伤害时，有&335003_cfgl&%的概率触发一次震爆，对周围的敌人造成威力&335003_shfw&的$s_tu$伤害。"
+ },
+ "fieldSkillDesc153": {
+  "en": "Every time an ally (including yourself) inside the Field receives damage, they'll share &335004_jdsh&% of the incoming damage with all allies inside the Field. Every time an ally inside the Field receives damage, they have a &335004_cfgl&% chance to trigger a blast, dealing &335004_shwl& $s_tu$ damage to nearby enemies.",
+  "pt": "Toda vez que um aliado (incluindo você) dentro do Domínio recebe dano, eles compartilharão &335004_jdsh&% do dano recebido com todos os aliados dentro do Domínio. Toda vez que um aliado dentro do Domínio recebe dano, eles têm uma chance de &335004_cfgl&% de desencadear uma explosão, causando &335004_shwl& $s_tu$ de dano a inimigos próximos.",
+  "ch": "领域内的友方单位（包括自身）在受到伤害时，可将其中&335004_jdsh&%的伤害平摊至领域内的所有友方单位，并且领域内的友方单位在受到伤害时，有&335004_cfgl&%的概率触发一次震爆，对周围的敌人造成威力&335004_shwl&的$s_tu$伤害。"
+ },
+ "fieldSkillDesc161": {
+  "en": "Every time an ally inside the Field summons units, they have a &336001_cfgl&% chance to summon double the units.",
+  "pt": "Toda vez que um aliado dentro do Domínio invoca unidades, eles têm uma chance de &336001_cfgl&% de invocar o dobro das unidades.",
+  "ch": "领域内的友方单位时在召唤单位时，有&336001_cfgl&%概率可召唤出双倍数量的单位。"
+ },
+ "fieldSkillDesc162": {
+  "en": "Inside the Field, every time a unit summoned by an ally receives fatal damage, it'll keep on fighting for &336002_cxsj&s, and its attack interval &336002_jscd&%. This unit won't receive any damage.",
+  "pt": "Dentro do Domínio, toda vez que uma unidade invocada por um aliado recebe dano fatal, ela continuará lutando por &336002_cxsj&s, e seu intervalo de ataque é &336002_jscd&%. Essa unidade não receberá nenhum dano.",
+  "ch": "每当领域内的友方召唤物濒死时，不会立即死亡，而是可以继续战斗&336002_cxsj&秒且攻击间隔&336002_jscd&%，但是不能承受伤害。"
+ },
+ "fieldSkillDesc163": {
+  "en": "Inside the Field, every time a unit summoned by an ally receives fatal damage, it'll keep on fighting for &336003_cxsj&s, and its attack interval &336003_jscd&%. This unit won't receive any damage. Each of this dying unit's attacks has a &336003_cfgl&% chance to inflict a stack of Poisonous Thorn on the target.",
+  "pt": "Dentro do Domínio, toda vez que uma unidade invocada por um aliado recebe dano fatal, ela continuará lutando por &336003_cxsj&s, e seu intervalo de ataque é &336003_jscd&%. Essa unidade não receberá nenhum dano. Cada ataque dessa unidade moribunda tem uma chance de &336003_cfgl&% de infligir um acúmulo de Espinho Venenoso no alvo.",
+  "ch": "每当领域内的友方召唤物濒死时，不会立即死亡，而是可以继续战斗&336003_cxsj&秒且攻击间隔&336003_jscd&%，但是不能承受伤害，并且攻击时有&336003_cfgl&%的概率为目标叠加一层毒刺。"
+ },
+ "fieldSkillDesc21": {
+  "en": "Every &322001_jgsj&s, all enemies inside the Field will be inflicted with a stack of Shattered: The next incoming attack is guaranteed to be a critical strike, and one stack of Shattered will be removed.",
+  "pt": "A cada &322001_jgsj&s, todos os inimigos dentro do Domínio são afetados por um acúmulo de Despedaçado: O próximo ataque recebido é garantidamente um acerto Crítico, e um acúmulo de Despedaçado é removido.",
+  "ch": "每&322001_jgsj&秒为领域内的所有敌方单位施加一层击破效果（下一次受到伤害时，必定被暴击，然后消耗一层此效果）。"
+ },
+ "fieldSkillDesc22": {
+  "en": "Every time you cast a Special Skill, you'll inflict a stack of Soul Break on all enemies inside the Field: DEF &322002_jsfy& for every stack (up to &322002_djcs& stacks). When this Field Skill ends, all stacks of Soul Break will be removed from enemies.",
+  "pt": "Toda vez que você lança uma Técnica Especial, você inflige um acúmulo de Quebra de Alma a todos os inimigos dentro do Domínio: DEF &322002_jsfy& por acúmulo (até &322002_djcs& acúmulos). Quando essa Habilidade de Domínio termina, todos os acúmulos de Quebra de Alma são removidos dos inimigos.",
+  "ch": "自身每次使用绝技时，可为领域内的所有敌方单位施加一层裂魂效果（每层可使防御&322002_jsfy&点，最多可叠加&322002_djcs&层，领域技能结束时，也移除所有敌人身上的此效果）。"
+ },
+ "fieldSkillDesc23": {
+  "en": "Every time you cast a Special Skill, you'll inflict a stack of Soul Break on all enemies inside the Field: DEF &322003_jsfy& for every stack (up to &322003_djcs& stacks). When this Field Skill ends, all stacks of Soul Break will be removed from enemies.",
+  "pt": "Toda vez que você lança uma Técnica Especial, você inflige um acúmulo de Quebra de Alma a todos os inimigos dentro do Domínio: DEF &322003_jsfy& por acúmulo (até &322003_djcs& acúmulos). Quando essa Habilidade de Domínio termina, todos os acúmulos de Quebra de Alma são removidos dos inimigos.",
+  "ch": "自身每次使用绝技时，可为领域内的所有敌方单位施加一层裂魂效果（每层可使防御&322003_jsfy&点，最多可叠加&322003_djcs&层，领域技能结束时，也移除所有敌人身上的此效果）。"
+ },
+ "fieldSkillDesc31": {
+  "en": "Inflict all enemies inside the Field with Rend: For every &323001_ydjl& movement distance, the target will receive &323001_shwl& $s_jian$ damage.",
+  "pt": "Inflige a todos os inimigos dentro do Domínio com Dilaceração: Para cada &323001_ydjl& de distância percorrida, o alvo receberá &323001_shwl& $s_jian$ de dano.",
+  "ch": "领域内的所有敌人获得撕裂效果（每移动&323001_ydjl&距离，将受到一次威力为&323001_shwl&的$s_jian$伤害）。"
+ },
+ "fieldSkillDesc32": {
+  "en": "Every time an enemy inside the Field receives damage (excluding damage caused by debuffs), they'll be inflicted with a stack of Scar: Each stack of Scar increases the target's damage taken by &323002_tssh&% and reduces the target's Skill Range by &323002_jdsc&%. Scar stacks up to &323002_djcs& times. When this Field Skill ends, all stacks of Scar will be removed from enemies.",
+  "pt": "Toda vez que um inimigo dentro do Domínio recebe dano (excluindo dano causado por efeitos), eles são afetados por um acúmulo de Cicatriz: Cada acúmulo de Cicatriz aumenta o dano recebido pelo alvo em &323002_tssh&% e reduz o Alcance da Habilidade do alvo em &323002_jdsc&%. Cicatriz acumula até &323002_djcs& vezes. Quando essa Habilidade de Domínio termina, todos os acúmulos de Cicatriz são removidos dos inimigos.",
+  "ch": "领域内的敌人在受到非效果造成的伤害时，将获得一层溃痕效果（每一层可使受到的伤害提升&323002_tssh&%，最多叠加&323002_djcs&层，并且技能射程降低&323002_jdsc&%，领域技能结束时，也移除所有敌人身上的此效果）。"
+ },
+ "fieldSkillDesc33": {
+  "en": "Every time an enemy inside the Field receives damage (excluding damage caused by debuffs), they'll be inflicted with a stack of Scar: Each stack of Scar increases the target's damage taken by &323003_tssh&% and reduces the target's Skill Range by &323003_jdsc&%. Scar stacks up to &323003_djcs& times. When this Field Skill ends, all stacks of Scar will be removed from enemies.",
+  "pt": "Toda vez que um inimigo dentro do Domínio receber Dano (exceto dano causado por efeitos), ele receberá uma carga de Cicatriz: Cada carga de Cicatriz aumenta o Dano recebido pelo alvo em &323003_tssh&% e reduz o Alcance da Habilidade do alvo em &323003_jdsc&%. Cicatriz acumula até &323003_djcs& vezes. Quando esta Habilidade de Domínio terminar, todas as cargas de Cicatriz serão removidas dos inimigos.",
+  "ch": "领域内的敌人在受到非效果造成的伤害时，将获得一层溃痕效果（每一层可使受到的伤害提升&323003_tssh&%，最多叠加&323003_djcs&层，并且技能射程降低&323003_jdsc&%，领域技能结束时，也移除所有敌人身上的此效果）。"
+ },
+ "fieldSkillDesc41": {
+  "en": "For every enemy inside the Field, your damage will increase by &324001_tssh&%.",
+  "pt": "Para cada inimigo dentro do Domínio, seu Dano aumentará em &324001_tssh&%.",
+  "ch": "领域内每有一个敌人，可使自身的伤害提升&324001_tssh&%。"
+ },
+ "fieldSkillDesc42": {
+  "en": "Your damage taken &324002_jdsh&%. You'll draw attacks from enemies inside the Field. Every time you receive damage, you'll reflect &324002_fsbl&% of incoming damage back to the attacker.",
+  "pt": "Dano recebido &324002_jdsh&%. Você atrairá ataques de inimigos dentro do Domínio. Toda vez que receber Dano, você refletirá &324002_fsbl&% do Dano recebido de volta ao atacante.",
+  "ch": "自身受到的伤害&324002_jdsh&%，并强制领域内的敌人攻击自己，自身每次受到伤害时，可反馈&324002_fsbl&%的伤害给伤害来源者。"
+ },
+ "fieldSkillDesc43": {
+  "en": "Your damage taken &324004_jdsh&%. You'll draw attacks from enemies inside the Field. Every time you receive damage, you'll reflect &324004_fsbl&% of incoming damage back to the attacker.",
+  "pt": "Dano recebido &324004_jdsh&%. Você atrairá ataques de inimigos dentro do Domínio. Toda vez que receber Dano, você refletirá &324004_fsbl&% do Dano recebido de volta ao atacante.",
+  "ch": "自身受到的伤害&324004_jdsh&%，并强制领域内的敌人攻击自己，自身每次受到伤害时，可反馈&324004_fsbl&%的伤害给伤害来源者。"
+ },
+ "fieldSkillDesc51": {
+  "en": "Agility of all enemies inside the Field &325001_jdys&%",
+  "pt": "Agilidade de todos os inimigos dentro do Domínio &325001_jdys&%",
+  "ch": "领域内所有敌人的移动速度&325001_jdys&%。"
+ },
+ "fieldSkillDesc52": {
+  "en": "Every &325002_djjg&s, you'll inflict a stack of Panic on all enemies inside the Field: Every stack of Panic reduces the target's damage by &325002_jdsh&%. Affected enemies will also receive &325002_shwl& $s_zhang$ damage every second. When this Field Skill ends, all stacks of Panic will be removed from enemies.",
+  "pt": "A cada &325002_djjg&s, você infligirá uma carga de Pânico em todos os inimigos no Domínio: Cada carga de Pânico reduz o Dano causado pelo alvo em &325002_jdsh&%. Inimigos afetados também receberão &325002_shwl& de Dano de $s_zhang$ por segundo. Quando esta Habilidade de Domínio terminar, todas as cargas de Pânico serão removidas dos inimigos.",
+  "ch": "每&325002_djjg&秒为领域内的所有敌方单位施加一层失魂效果（每一层可使造成的伤害降低&325002_jdsh&%，且每秒受到一次威力为&325002_shwl&的$s_zhang$伤害，领域技能结束时，也移除所有敌人身上的此效果）。"
+ },
+ "fieldSkillDesc53": {
+  "en": "Every &325003_djjg&s, you'll inflict a stack of Panic on all enemies inside the Field: Every stack of Panic reduces the target's damage by &325003_jdsh&%. Affected enemies will also receive &325003_shwl& $s_zhang$ damage every second. When this Field Skill ends, all stacks of Panic will be removed from enemies.",
+  "pt": "A cada &325003_djjg&s, você infligirá uma carga de Pânico em todos os inimigos no Domínio: Cada carga de Pânico reduz o Dano causado pelo alvo em &325003_jdsh&%. Inimigos afetados também receberão &325003_shwl& de Dano de $s_zhang$ por segundo. Quando esta Habilidade de Domínio terminar, todas as cargas de Pânico serão removidas dos inimigos.",
+  "ch": "每&325003_djjg&秒为领域内的所有敌方单位施加一层失魂效果（每一层可使造成的伤害降低&325003_jdsh&%，且每秒受到一次威力为&325003_shwl&的$s_zhang$伤害，领域技能结束时，也移除所有敌人身上的此效果）。"
+ },
+ "fieldSkillDesc61": {
+  "en": "Skill Cooldown of all enemies inside the Field +&326001_zjcd&%",
+  "pt": "Recarga de Habilidade de todos os inimigos dentro do Domínio +&326001_zjcd&%",
+  "ch": "领域内的所有敌方单位的技能冷却时间增加&326001_zjcd&%。"
+ },
+ "fieldSkillDesc62": {
+  "en": "Reduce Crit RES of all enemies inside the Field by &326002_jdhx&%. Enemies will lose &326002_ssll&% of their current Energy every time they receive a critical strike.",
+  "pt": "Reduz a RES Crítico de todos os inimigos no Domínio em &326002_jdhx&%. Inimigos perderão &326002_ssll&% de sua Energia atual toda vez que sofrerem um acerto Crítico.",
+  "ch": "领域内的所有敌方单位的护心降低&326002_jdhx&%，被暴击的敌人将损失&326002_ssll&%的当前灵力。"
+ },
+ "fieldSkillDesc63": {
+  "en": "Reduce Crit RES of all enemies inside the Field by &326003_jdhx&%. Enemies will lose &326003_ssll&% of their current Energy every time they receive a critical strike.",
+  "pt": "Reduz a RES Crítico de todos os inimigos no Domínio em &326003_jdhx&%. Inimigos perderão &326003_ssll&% de sua Energia atual toda vez que sofrerem um acerto Crítico.",
+  "ch": "领域内的所有敌方单位的护心降低&326003_jdhx&%，被暴击的敌人将损失&326003_ssll&%的当前灵力。"
+ },
+ "fieldSkill_chixushijian": {
+  "en": "Duration",
+  "pt": "Duração",
+  "ch": "持续时间"
+ },
+ "fieldSkill_guizelingyu": {
+  "en": "Rule Field",
+  "pt": "Domínio de Regras",
+  "ch": "规则领域"
+ },
+ "fieldSkill_jinenglengque": {
+  "en": "Cooldown",
+  "pt": "Tempo de Recarga",
+  "ch": "技能冷却"
+ },
+ "fieldSkill_jinengmiaoshu": {
+  "en": "After entering battle, this skill will charge energy automatically. You can cast this skill once it's fully charged, creating a Rule Field around you. Units inside the Rule Field will receive the effects below.",
+  "pt": "Após entrar em Batalha, esta Habilidade acumulará Energia automaticamente. Você pode lançá-la quando estiver totalmente carregada, criando um Domínio de Regras ao seu redor. Unidades dentro do Domínio de Regras receberão os efeitos abaixo.",
+  "ch": "进入战斗后，此技能会自动开始蓄能，蓄能完成后即可释放。释放后将以自身为中心构建出一个规则领域，领域内的单位将会受到以下规则的效果。"
+ },
+ "fieldSkill_jinengshuoming": {
+  "en": "Skill Info",
+  "pt": "Detalhes",
+  "ch": "技能说明"
+ },
+ "fieldSkill_jinengxiaohao": {
+  "en": "Cost",
+  "pt": "Custo",
+  "ch": "技能消耗"
+ },
+ "fieldSkill_xunengshijian": {
+  "en": "Charge Time",
+  "pt": "Tempo de Carga",
+  "ch": "蓄能时间"
+ },
+ "fixData_changshixiufu": {
+  "en": "Try to Fix",
+  "pt": "Tentar Corrigir",
+  "ch": "尝试修复"
+ },
+ "fixData_desc": {
+  "en": "Some data is lost in this save file, unable to load. Click [Try to Fix] to fill in the missing data with default ones. (Note: Lost data cannot be recovered via this method since it only replaces them with default data and may result in discrepancies from the original save file.)",
+  "pt": "Alguns dados estão perdidos neste arquivo de salvamento, impossibilitando o carregamento. Clique em [Tentar Corrigir] para preencher os dados ausentes com os padrões. (Observação: Dados perdidos não podem ser recuperados por este método, pois ele apenas os substitui por dados padrão e pode resultar em discrepâncias do arquivo de salvamento original.)",
+  "ch": "此存档的部分数据丢失，无法正常进入！您可以点击[尝试修复]将丢失的数据使用默认数据填充（注意：此方法无法找回丢失的数据，只能使用默认的数据进行修复，修复后会出现部分数据与之前不一样的情况）"
+ },
+ "fixData_fail": {
+  "en": "Fix Failed",
+  "pt": "Correção Falhou",
+  "ch": "修复失败"
+ },
+ "fixData_quxiao": {
+  "en": "Cancel",
+  "pt": "Cancelar",
+  "ch": "取消"
+ },
+ "fixData_success": {
+  "en": "Fix Completed",
+  "pt": "Reparo Concluído",
+  "ch": "修复完成"
+ },
+ "fortuitous_title_20101": {
+  "en": "Steal",
+  "pt": "Roubo",
+  "ch": "偷盗"
+ },
+ "fortuitous_title_20301": {
+  "en": "Escape",
+  "pt": "Fuga",
+  "ch": "逃脱"
+ },
+ "fortuitous_title_20701": {
+  "en": "Trial",
+  "pt": "Provação",
+  "ch": "天劫"
+ },
+ "fortuitous_title_21001": {
+  "en": "Request",
+  "pt": "Pedido",
+  "ch": "索取"
+ },
+ "fortuitous_title_22501": {
+  "en": "Furnace Explosion",
+  "pt": "Explosão da Fornalha",
+  "ch": "炸炉"
+ },
+ "fortuitous_title_23401": {
+  "en": "Ambushed",
+  "pt": "Emboscado",
+  "ch": "袭击"
+ },
+ "fortuitous_title_610061": {
+  "en": "Adventure: Cliff",
+  "pt": "Aventura: Penhasco",
+  "ch": "悬崖奇遇"
+ },
+ "fortuitous_title_610091": {
+  "en": "Jade Lotus",
+  "pt": "Lótus de Jade",
+  "ch": "玉莲花"
+ },
+ "fortuitous_title_610111": {
+  "en": "Ether Hermit",
+  "pt": "Ermitão do Éter",
+  "ch": "苍冥剑居"
+ },
+ "fortuitous_title_610131": {
+  "en": "Eyes on You",
+  "pt": "Olhos em Você",
+  "ch": "怪异目光"
+ },
+ "fortuitous_title_610137": {
+  "en": "Lei Ze Adventure",
+  "pt": "Aventura de Lei Ze",
+  "ch": "雷泽奇遇"
+ },
+ "fortuitous_title_610144": {
+  "en": "Home of an Immortal",
+  "pt": "Lar de um Imortal",
+  "ch": "仙人洞府"
+ },
+ "fortuitous_title_610185": {
+  "en": "The Foolish Old Man Removes the Mountains",
+  "pt": "O Velho Tolo Remove as Montanhas",
+  "ch": "愚公移山"
+ },
+ "fortuitous_title_610411": {
+  "en": "Mystic Forest",
+  "pt": "Floresta Mística",
+  "ch": "圣山之森"
+ },
+ "fortuitous_title_610431": {
+  "en": "Burning Lotus",
+  "pt": "Lótus Ardente",
+  "ch": "冰焰妖莲"
+ },
+ "fortuitous_title_610451": {
+  "en": "Qingtian Fort",
+  "pt": "Fortaleza Qingtian",
+  "ch": "擎天寨"
+ },
+ "fortuitous_title_610520": {
+  "en": "Adventure: Holy Spring",
+  "pt": "Aventura: Fonte Sagrada",
+  "ch": "灵泉奇遇"
+ },
+ "fortuitous_title_610530": {
+  "en": "Adventure: Icy Pond",
+  "pt": "Aventura: Lago Gelado",
+  "ch": "寒潭奇遇"
+ },
+ "fortuitous_title_650011": {
+  "en": "An Unexpected Reward",
+  "pt": "Uma Recompensa Inesperada",
+  "ch": "意外收获"
+ },
+ "fortuitous_ui_title": {
+  "en": "Adventure",
+  "pt": "Aventura",
+  "ch": "奇遇"
+ },
+ "furnaceDurable": {
+  "en": "Durability: {0}",
+  "pt": "Durabilidade: {0}",
+  "ch": "耐久度：{0}"
+ },
+ "gaiming": {
+  "en": "Rewrite Destiny",
+  "pt": "Reescrever o Destino",
+  "ch": "逆天改命"
+ },
+ "gameLevel_nandu1": {
+  "en": "Normal",
+  "pt": "Normal",
+  "ch": "普通"
+ },
+ "gameLevel_nandu2": {
+  "en": "Hard",
+  "pt": "Difícil",
+  "ch": "困难"
+ },
+ "gameLevel_nandu3": {
+  "en": "Nightmare",
+  "pt": "Pesadelo",
+  "ch": "极难"
+ },
+ "gameLevel_nandu4": {
+  "en": "Hell",
+  "pt": "Inferno",
+  "ch": "地狱"
+ },
+ "gameLevel_nandu5": {
+  "en": "Chaos",
+  "pt": "Caos",
+  "ch": "洪荒"
+ },
+ "gamePlan1": {
+  "en": "1. Fix all the major bugs in the game.\n2. Add more adventures.\n3. New Realms: Soul Formation and Enlightenment. Release the main story: Kuafu Chases the Sun.",
+  "pt": "1. Corrigir todos os bugs principais do jogo.\n2. Adicionar mais aventuras.\n3. Novos Reinos: Formação da Alma e Iluminação. Lançamento da história principal: Kuafu Persegue o Sol.",
+  "ch": "1.密集修复线上重要的BUG。\n2.增加游戏内的奇遇事件。\n3.开放化神、悟道境界；开放夸父追日主线剧情。"
+ },
+ "gamePlan2": {
+  "en": "1. New feature: Forge Artifacts.\n2. Players' Workshop Alpha (Cancelled for the current version because of technical issues. Workshop feature will be delayed.)\n3. New feature: Re-choose Rewrite Destiny skill.\n4. New feature: Changing clothes.\n5. Game optimizations.",
+  "pt": "1. Nova funcionalidade: Forjar Artefatos.\n2. Oficina dos Jogadores Alpha (Cancelada na versão atual devido a problemas técnicos. A funcionalidade da Oficina será adiada.)\n3. Nova funcionalidade: Reescolher a Habilidade Reescrever o Destino.\n4. Nova funcionalidade: Trocar roupas.\n5. Otimizações do jogo.",
+  "ch": "1.炼器大师版本，开放炼制法宝功能。\n2.创意工坊Alpha版本（本版本将取消此功能，由于技术的原因，创意工坊需要延后上线）\n3.重选逆天改命功能。\n4.更换衣着功能。\n5.优化内容与体验。"
+ },
+ "gamePlan3": {
+  "en": "1. Optimization:.Artifact Spirit mechanics.\n2. Re-design: Sect mechanics.\n3. New mysterious organization appears.\n4. New feature: Heaven-chosen NPCs.",
+  "pt": "1. Otimização: mecânica do Espírito do Artefato.\n2. Reestruturação: mecânica da Seita.\n3. Aparece uma nova organização misteriosa.\n4. Nova funcionalidade: NPCs Escolhidos pelo Céu.",
+  "ch": "1.继续优化法宝器灵玩法。\n2.宗门玩法重构。\n3.神秘组织的出现。\n4.天骄NPC。"
+ },
+ "gamePlan4": {
+  "en": "1. Eye of Providence patch, activating the Artifact, Eye of Providence.\n2. NPC animation and expression functions.",
+  "pt": "1. Atualização Olho da Providência, ativando o Artefato Olho da Providência.\n2. Funções de animação e expressão de NPCs.",
+  "ch": "1.昊天眼版本，开放开局神器昊天眼。\n2.NPC的动态表情功能。"
+ },
+ "gamePlan5": {
+  "en": "MOD Tool Ver.1.0 BETA: Players will be able to design adventures, stories, events, characters, monsters, and dungeons.",
+  "pt": "Ferramenta MOD Ver.1.0 BETA: Os jogadores poderão criar aventuras, histórias, eventos, personagens, monstros e masmorras.",
+  "ch": "MOD制作工具1.0BETA版本，支持玩家设计奇遇、剧情、事件，支持玩家创建NPC、怪物、副本。"
+ },
+ "gamePlan7": {
+  "en": "1. New artifact: Mythical Gourd. It'll allow players to collect monster souls and refine them.\n2. Alchemy optimized. Now the basic features of an Alchemist are playable. (We will add more elixirs in the future)",
+  "pt": "1. Novo artefato: Cabaça Mítica. Permitirá que os jogadores coletem almas de monstros e as refinem.\n2. Alquimia otimizada. Agora as funcionalidades básicas de um Alquimista são jogáveis. (Adicionaremos mais elixires no futuro)",
+  "ch": "1.炼妖壶版本，开放开局神器炼妖壶。支持玩家收集妖兽元魂，养成系统。\n2.优化炼丹功能，初步塑造出一个炼丹师路线（各种新的丹药将会逐步更新）。"
+ },
+ "gamePlan8": {
+  "en": "1. Unlock Tian Yuan Mountain.\n2. Players' Workshop Ver.2.0: Players will be able to participate in more complicated game design and improvements.\n3. Talismans available.\n4. Feng Shui optimized.",
+  "pt": "1. Desbloquear Montanha Tian Yuan.\n2. Oficina dos Jogadores Ver.2.0: Os jogadores poderão participar em projetos e melhorias de jogo mais complexos.\n3. Talismãs disponíveis.\n4. Feng Shui otimizado.",
+  "ch": "1.天元山版本：开放天元山功能。\n2.创意工坊2.0版本，开放玩家对游戏进行更复杂的设计与改进。\n3.开放画符功能。\n4.优化风水功能。"
+ },
+ "gamePlanTime0": {
+  "en": "Follow the order",
+  "pt": "Seguir a ordem",
+  "ch": "依次"
+ },
+ "gamePlanTime1": {
+  "en": "Already updated",
+  "pt": "Já atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime2": {
+  "en": "Already updated",
+  "pt": "Já atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime3": {
+  "en": "Already updated",
+  "pt": "Já atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime4": {
+  "en": "Already updated",
+  "pt": "Já atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime5": {
+  "en": "Already updated",
+  "pt": "Já atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime6": {
+  "en": "Already updated",
+  "pt": "Já atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime7": {
+  "en": "Updated",
+  "pt": "Atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime8": {
+  "en": "Updated",
+  "pt": "Atualizado",
+  "ch": "已更新"
+ },
+ "gamePlanTime9": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "gamePlanTimeNext": {
+  "en": "Next",
+  "pt": "Próximo",
+  "ch": "下一阶段"
+ },
+ "gamePlanTimeTip": {
+  "en": "Planned Update Time: {0}",
+  "pt": "Hora da Atualização Planejada: {0}",
+  "ch": "预计{0}更新"
+ },
+ "gameSetting_busuoding": {
+  "en": "No cap",
+  "pt": "Sem limite",
+  "ch": "不锁定"
+ },
+ "gameSetting_cuizhitongbu": {
+  "en": "V-Sync",
+  "pt": "V-Sync",
+  "ch": "垂直同步"
+ },
+ "gameSetting_xinshouyindao": {
+  "en": "Tutorial",
+  "pt": "Tutorial",
+  "ch": "新手引导"
+ },
+ "gameSetting_zhenlv": {
+  "en": "FPS",
+  "pt": "FPS",
+  "ch": "帧率"
+ },
+ "gameSetting_zuigao30": {
+  "en": "Capped at 30",
+  "pt": "Limitado a 30",
+  "ch": "最高30"
+ },
+ "gameSetting_zuigao60": {
+  "en": "Capped at 60",
+  "pt": "Limitado a 60",
+  "ch": "最高60"
+ },
+ "game_baochunditi": {
+  "en": "Progress saved!",
+  "pt": "Progresso salvo!",
+  "ch": "进度已保存！"
+ },
+ "game_baochunshibai": {
+  "en": "Failed to save the game. Please try again.",
+  "pt": "Falha ao salvar o jogo. Por favor, tente novamente.",
+  "ch": "保存失败，请重试！"
+ },
+ "game_baocunbizhi": {
+  "en": "Save Wallpaper",
+  "pt": "Salvar Fundo",
+  "ch": "保存壁纸"
+ },
+ "game_baocuncundang1": {
+  "en": "Choose a folder to store your save.",
+  "pt": "Escolha uma pasta para armazenar seu save.",
+  "ch": "选择保存的位置。"
+ },
+ "game_baocuncundang2": {
+  "en": "Saves exported!",
+  "pt": "Salvos exportados!",
+  "ch": "导出存档成功！"
+ },
+ "game_baocuncundang3": {
+  "en": "Select the folder: CacheData!\nPlease select the folder: CacheData!",
+  "pt": "Selecione a pasta: CacheData!\nPor favor, selecione a pasta: CacheData!",
+  "ch": "选择CacheData存档文件夹！！！\n请选择《CacheData》文件夹！！！"
+ },
+ "game_baocuncundang4": {
+  "en": "Saves imported!",
+  "pt": "Salvos importados!",
+  "ch": "导入存档成功！"
+ },
+ "game_baocuncundang5": {
+  "en": "No saves found in your local storage!",
+  "pt": "Nenhum salvamento encontrado no seu armazenamento local!",
+  "ch": "本地无存档！"
+ },
+ "game_baocuncundang6": {
+  "en": "No saves in the selected folder!",
+  "pt": "Não há salvamentos na pasta selecionada!",
+  "ch": "选择的目录无存档！"
+ },
+ "game_baocuncundang7": {
+  "en": "{0} save(s) will be imported. You don't have enough save slots. Delete some current saves before trying again.",
+  "pt": "{0} salvamentos serão importados. Você não tem espaço suficiente para salvamentos. Exclua alguns salvamentos atuais antes de tentar novamente.",
+  "ch": "需要导入{0}个存档，存档位置不足！请先删除现有的存档！"
+ },
+ "game_baocuncundang8": {
+  "en": "Please select the folder: CacheData!",
+  "pt": "Por favor, selecione a pasta: CacheData!",
+  "ch": "请选择CacheData文件夹！"
+ },
+ "game_baocunzhong": {
+  "en": "Saving...",
+  "pt": "Salvando...",
+  "ch": "保存中"
+ },
+ "game_benyueshij1": {
+  "en": "No time left in the current month.",
+  "pt": "Não resta mais tempo no mês atual.",
+  "ch": "本月时间已用尽"
+ },
+ "game_benyueshij2": {
+  "en": "Skip Month",
+  "pt": "Pular mês",
+  "ch": "跳过本月"
+ }
+}

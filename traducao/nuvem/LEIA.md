@@ -2,6 +2,32 @@
 
 Instruções para a sessão do Claude Code na nuvem que traduz os lotes desta pasta. A exceção que permite isso está no `CLAUDE.md` (seção "Modelos de tradução", regra "O Claude não traduz em volume"), autorizada pelo usuário em 2026-10-25 e válida até 2026-11-05.
 
+## Tarefa atual: revisão por prioridade (crédito limitado)
+
+Esta é a única tarefa em aberto; as seções seguintes são o histórico das anteriores. Sobra pouco crédito, então gaste o mínimo em cada passo: o que não for feito aqui fica para depois, sem problema.
+
+`prioridade/src_pNNN.json` (169 lotes, do mais ao menos importante; `prioridade/INDICE.md` lista o conteúdo). Grupo A (p001–p042): interface, nomes e descrições que nunca foram revisados. Grupo B (p043–p169): segunda leitura de missões e diálogos, sem o campo `ch`.
+
+Como trabalhar:
+
+- Um lote por vez, na ordem numérica, começando pelo primeiro sem `out_pNNN.json`. Sem threads paralelas, sem subagentes e sem explicações entre os passos.
+- Leia uma vez `tools/ptbr/prompt_anthropic.md` e `glossario/obrigatorios.json`. Não leia `glossario/decisoes.md`, os relatórios, `traducao/LocalText` nem os lotes antigos.
+
+Para cada lote:
+
+1. Compare `pt` com `en` (e `ch`, se houver) e corrija só o que estiver errado: sentido trocado, omitido ou inventado; termo do glossário ou nome de `nomes` errado; tratamento errado; maiúscula a mais no meio da frase; trecho em inglês; concordância errada; português que soa a tradução de máquina. Se estiver aceitável, deixe como está: não reescreva por estilo.
+2. Interface (grupo A): não deixe o texto mais longo do que o `pt` atual, salvo para corrigir um erro; o espaço na tela é curto.
+3. Nomes de item, efeito, lugar e técnica: mude só com erro claro, porque outros textos usam esses nomes. Na dúvida, mantenha.
+4. Grave `prioridade/out_pNNN.json` só com as corrigidas: `{"chave": "tradução corrigida"}`. Se nada precisar de correção, grave `{}`.
+5. Rode o verificador e corrija todo `ERRO`; `AVISO` só se for de fato um erro seu:
+
+   ```bash
+   python tools/ptbr/nuvem_checar.py --parcial traducao/nuvem/prioridade/src_pNNN.json traducao/nuvem/prioridade/out_pNNN.json
+   ```
+
+6. Acrescente uma linha a `prioridade/PROGRESSO.md`: `pNNN: N corrigidas` e, só se houver, uma dúvida de termo em poucas palavras.
+7. Commit só desses dois arquivos (`Revisa pNNN na nuvem`) e push, antes de começar o próximo lote. Não edite os `src_*`.
+
 ## O que fazer
 
 1. Leia as regras em `tools/ptbr/prompt_anthropic.md` e o glossário:

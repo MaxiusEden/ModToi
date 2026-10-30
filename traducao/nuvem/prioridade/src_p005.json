@@ -1,0 +1,2117 @@
+{
+ "battle_mingshoufazhen": {
+  "en": "Danger! Quick, enter the <r>golden barrier</r> to dodge!",
+  "pt": "Perigo! Entre rapidamente na <r>barreira dourada</r> para esquivar!!!",
+  "ch": "危险！快进入<r>黄色界壁</r>躲避！！！"
+ },
+ "battle_runCool": {
+  "en": "Escape is on cooldown, {0} seconds remaining",
+  "pt": "A fuga está em tempo de espera, {0} segundos restantes",
+  "ch": "逃跑冷却中，剩余{0}秒"
+ },
+ "battle_runNo": {
+  "en": "Failed to escape",
+  "pt": "Falha ao escapar",
+  "ch": "逃跑失败"
+ },
+ "battle_runOk": {
+  "en": "Escaped",
+  "pt": "Escapou",
+  "ch": "逃跑成功"
+ },
+ "battle_shanbi": {
+  "en": "Dodge",
+  "pt": "Esquiva",
+  "ch": "闪避"
+ },
+ "battle_shoufang": {
+  "en": "(Defender)",
+  "pt": "(Defesa)",
+  "ch": "（守方）"
+ },
+ "battle_spacial_room1": {
+  "en": "Chest Room",
+  "pt": "Sala do Baú",
+  "ch": "宝箱房间"
+ },
+ "battle_static1": {
+  "en": "Current Strategy: Attack",
+  "pt": "Estratégia atual: Ataque",
+  "ch": "当前策略：进攻"
+ },
+ "battle_static11": {
+  "en": "F1: Attack Array Core",
+  "pt": "F1: Atacar o Núcleo da Formação",
+  "ch": "F1：进攻阵眼"
+ },
+ "battle_static12": {
+  "en": "F2: Guard Array Core",
+  "pt": "F2: Proteger o Núcleo da Formação",
+  "ch": "F2：严守阵眼"
+ },
+ "battle_static13": {
+  "en": "F3: Surround Self",
+  "pt": "F3: Cercar a Si Mesmo",
+  "ch": "F3：包围自己"
+ },
+ "battle_static14": {
+  "en": "F4: Prioritize Recovery",
+  "pt": "F4: Priorizar Recuperação",
+  "ch": "F4：优先恢复"
+ },
+ "battle_static15": {
+  "en": "F5: Cancel Command",
+  "pt": "F5: Cancelar Comando",
+  "ch": "F5：取消命令"
+ },
+ "battle_static2": {
+  "en": "Current Strategy: Defend",
+  "pt": "Estratégia atual: Defesa",
+  "ch": "当前策略：防守"
+ },
+ "battle_static21": {
+  "en": "F1: Select Array Core 1",
+  "pt": "F1: Selecionar Núcleo da Formação 1",
+  "ch": "F1：选择阵眼1"
+ },
+ "battle_static22": {
+  "en": "F2: Select Array Core 2",
+  "pt": "F2: Selecionar Núcleo da Formação 2",
+  "ch": "F2：选择阵眼2"
+ },
+ "battle_static23": {
+  "en": "F3: Select Array Core 3",
+  "pt": "F3: Selecionar Núcleo da Formação 3",
+  "ch": "F3：选择阵眼3"
+ },
+ "battle_static24": {
+  "en": "F4: Select Array Core 4",
+  "pt": "F4: Selecionar Núcleo da Formação 4",
+  "ch": "F4：选择阵眼4"
+ },
+ "battle_static25": {
+  "en": "F5: Select Array Core 5",
+  "pt": "F5: Selecionar Núcleo da Formação 5",
+  "ch": "F5：选择阵眼5"
+ },
+ "battle_static3": {
+  "en": "Current Strategy: Surround",
+  "pt": "Estratégia atual: Cercar",
+  "ch": "当前策略：包围"
+ },
+ "battle_static4": {
+  "en": "Current Strategy: Recover",
+  "pt": "Estratégia atual: Recuperação",
+  "ch": "当前策略：恢复"
+ },
+ "battle_static5": {
+  "en": "Current Strategy: None",
+  "pt": "Estratégia Atual: Nenhuma",
+  "ch": "当前策略：无"
+ },
+ "battle_staticAttack": {
+  "en": "Select attack target:",
+  "pt": "Selecione o alvo de ataque:",
+  "ch": "选择进攻目标："
+ },
+ "battle_staticDefend": {
+  "en": "Select defend target:",
+  "pt": "Selecione o alvo de defesa:",
+  "ch": "选择防守目标："
+ },
+ "battle_taopao": {
+  "en": "Escape",
+  "pt": "Fugir",
+  "ch": "逃跑"
+ },
+ "battle_taopaochenggong": {
+  "en": "Escaped",
+  "pt": "Fuga bem-sucedida",
+  "ch": "逃跑成功"
+ },
+ "battle_taopaoshibai": {
+  "en": "Failed to escape",
+  "pt": "Falha ao fugir",
+  "ch": "逃跑失败"
+ },
+ "battle_taopaoshijian": {
+  "en": "s: you may try to escape again",
+  "pt": "s: você pode tentar fugir novamente",
+  "ch": "秒后可尝试逃跑"
+ },
+ "battle_taopaotishi": {
+  "en": "Escape?",
+  "pt": "Fugir?",
+  "ch": "是否逃跑？"
+ },
+ "battle_text1": {
+  "en": "Difficulty",
+  "pt": "Dificuldade",
+  "ch": "难度"
+ },
+ "battle_text2": {
+  "en": "Monster",
+  "pt": "Monstro",
+  "ch": "怪物"
+ },
+ "battle_text3": {
+  "en": "Possible Loot",
+  "pt": "Saque Possível",
+  "ch": "概率掉落"
+ },
+ "battle_text4": {
+  "en": "Fight",
+  "pt": "Lutar",
+  "ch": "进入战斗"
+ },
+ "battle_tiliyiman": {
+  "en": "Vitality is full",
+  "pt": "Vitalidade está cheia",
+  "ch": "体力已满"
+ },
+ "battle_tishi1": {
+  "en": "Destroy all Array Cores before the reinforcement arrives",
+  "pt": "Destrua todos os Núcleos da Formação antes que os reforços cheguem",
+  "ch": "在支援到达前攻破所有阵眼"
+ },
+ "battle_tishi2": {
+  "en": "If the defender's reinforcement arrives, the offense fails",
+  "pt": "Se o reforço do defensor chegar, o ataque falha",
+  "ch": "守方支援到达意味着攻占失败"
+ },
+ "battle_tishi3": {
+  "en": "Click",
+  "pt": "Clique",
+  "ch": "点击"
+ },
+ "battle_tishi4": {
+  "en": "to see battlefield info",
+  "pt": "para ver as informações do campo de batalha",
+  "ch": "可以查看战场信息"
+ },
+ "battle_tishi5": {
+  "en": "Hold the Array Core until the team's support arrives.",
+  "pt": "Mantenha o Núcleo da Formação até que o apoio da equipe chegue",
+  "ch": "在我方支援到达前，守住所有阵眼"
+ },
+ "battle_tishi6": {
+  "en": "After all of the Array Core is breached, the defense fails.",
+  "pt": "Após todos os Núcleos da Formação serem violados, a defesa falha",
+  "ch": "所有阵眼被地方攻破后，防守失败"
+ },
+ "battle_tryRun": {
+  "en": "Attempt Escape",
+  "pt": "Tentar Fugir",
+  "ch": "尝试逃跑"
+ },
+ "battle_wofang": {
+  "en": "(Team)",
+  "pt": "(Time)",
+  "ch": "（我方）"
+ },
+ "battle_wufajinru": {
+  "en": "A powerful barrier blocks your way!",
+  "pt": "Uma poderosa formação bloqueia seu caminho!",
+  "ch": "前方似乎有强大的结界无法进入!"
+ },
+ "battle_xiaohao": {
+  "en": "Cost",
+  "pt": "Custo",
+  "ch": "消耗"
+ },
+ "battle_yitaoyao": {
+  "en": "{0} escaped!",
+  "pt": "{0} fugiu!",
+  "ch": "{0}已逃跑！"
+ },
+ "battle_yuji": {
+  "en": "Estimation",
+  "pt": "Estimativa",
+  "ch": "预计"
+ },
+ "battle_zhanting1": {
+  "en": "You can't pause the game in your current state.",
+  "pt": "Você não pode pausar o jogo no seu estado atual.",
+  "ch": "当前状态无法暂停游戏！"
+ },
+ "battle_zhanting2": {
+  "en": "Your character is dead. You can't pause the game.",
+  "pt": "Seu personagem está morto. Você não pode pausar o jogo.",
+  "ch": "人物已死亡无法暂停游戏！"
+ },
+ "battle_zhenyan": {
+  "en": "Array Core {0}",
+  "pt": "Núcleo da Formação {0}",
+  "ch": "第{0}阵眼"
+ },
+ "battle_zhiyuan1": {
+  "en": "Reinforcement arrives in",
+  "pt": "Reforço chega em",
+  "ch": "支援到达还有"
+ },
+ "battle_zhiyuan2": {
+  "en": "Reinforcement has arrived",
+  "pt": "Reforço chegou",
+  "ch": "支援到达"
+ },
+ "keyboard_A": {
+  "en": "A",
+  "pt": "A",
+  "ch": "A"
+ },
+ "keyboard_Alpha0": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "keyboard_Alpha1": {
+  "en": "1",
+  "pt": "1",
+  "ch": "1"
+ },
+ "keyboard_Alpha2": {
+  "en": "2",
+  "pt": "2",
+  "ch": "2"
+ },
+ "keyboard_Alpha3": {
+  "en": "3",
+  "pt": "3",
+  "ch": "3"
+ },
+ "keyboard_Alpha4": {
+  "en": "4",
+  "pt": "4",
+  "ch": "4"
+ },
+ "keyboard_Alpha5": {
+  "en": "5",
+  "pt": "5",
+  "ch": "5"
+ },
+ "keyboard_Alpha6": {
+  "en": "6",
+  "pt": "6",
+  "ch": "6"
+ },
+ "keyboard_Alpha7": {
+  "en": "7",
+  "pt": "7",
+  "ch": "7"
+ },
+ "keyboard_Alpha8": {
+  "en": "8",
+  "pt": "8",
+  "ch": "8"
+ },
+ "keyboard_Alpha9": {
+  "en": "9",
+  "pt": "9",
+  "ch": "9"
+ },
+ "keyboard_Ampersand": {
+  "en": "&",
+  "pt": "&",
+  "ch": "&"
+ },
+ "keyboard_Asterisk": {
+  "en": "英文",
+  "pt": "asterisco",
+  "ch": "*"
+ },
+ "keyboard_At": {
+  "en": "@",
+  "pt": "@",
+  "ch": "@"
+ },
+ "keyboard_B": {
+  "en": "B",
+  "pt": "B",
+  "ch": "B"
+ },
+ "keyboard_BackQuote": {
+  "en": "\"",
+  "pt": "\"",
+  "ch": "\""
+ },
+ "keyboard_Backslash": {
+  "en": "\\\\",
+  "pt": "\\\\",
+  "ch": "\\\\"
+ },
+ "keyboard_Backspace": {
+  "en": "←",
+  "pt": "←",
+  "ch": "←"
+ },
+ "keyboard_C": {
+  "en": "C",
+  "pt": "C",
+  "ch": "C"
+ },
+ "keyboard_Caret": {
+  "en": "^",
+  "pt": "^",
+  "ch": "^"
+ },
+ "keyboard_Colon": {
+  "en": ":",
+  "pt": ":",
+  "ch": ":"
+ },
+ "keyboard_Comma": {
+  "en": ",",
+  "pt": ",",
+  "ch": ","
+ },
+ "keyboard_D": {
+  "en": "D",
+  "pt": "D",
+  "ch": "D"
+ },
+ "keyboard_Dollar": {
+  "en": "$",
+  "pt": "$",
+  "ch": "$"
+ },
+ "keyboard_DoubleQuote": {
+  "en": "\"",
+  "pt": "\"",
+  "ch": "\""
+ },
+ "keyboard_DownArrow": {
+  "en": "↓",
+  "pt": "↓",
+  "ch": "方向键↓"
+ },
+ "keyboard_E": {
+  "en": "E",
+  "pt": "E",
+  "ch": "E"
+ },
+ "keyboard_End": {
+  "en": "End",
+  "pt": "End",
+  "ch": "End"
+ },
+ "keyboard_Equals": {
+  "en": "=",
+  "pt": "=",
+  "ch": "="
+ },
+ "keyboard_Escape": {
+  "en": "Esc",
+  "pt": "Esc",
+  "ch": "Esc"
+ },
+ "keyboard_Exclaim": {
+  "en": "!",
+  "pt": "!",
+  "ch": "!"
+ },
+ "keyboard_F": {
+  "en": "F",
+  "pt": "F",
+  "ch": "F"
+ },
+ "keyboard_F1": {
+  "en": "F1",
+  "pt": "F1",
+  "ch": "F1"
+ },
+ "keyboard_F10": {
+  "en": "F10",
+  "pt": "F10",
+  "ch": "F10"
+ },
+ "keyboard_F11": {
+  "en": "F11",
+  "pt": "F11",
+  "ch": "F11"
+ },
+ "keyboard_F12": {
+  "en": "F12",
+  "pt": "F12",
+  "ch": "F12"
+ },
+ "keyboard_F13": {
+  "en": "F13",
+  "pt": "F13",
+  "ch": "F13"
+ },
+ "keyboard_F14": {
+  "en": "F14",
+  "pt": "F14",
+  "ch": "F14"
+ },
+ "keyboard_F15": {
+  "en": "F15",
+  "pt": "F15",
+  "ch": "F15"
+ },
+ "keyboard_F2": {
+  "en": "F2",
+  "pt": "F2",
+  "ch": "F2"
+ },
+ "keyboard_F3": {
+  "en": "F3",
+  "pt": "F3",
+  "ch": "F3"
+ },
+ "keyboard_F4": {
+  "en": "F4",
+  "pt": "F4",
+  "ch": "F4"
+ },
+ "keyboard_F5": {
+  "en": "F5",
+  "pt": "F5",
+  "ch": "F5"
+ },
+ "keyboard_F6": {
+  "en": "F6",
+  "pt": "F6",
+  "ch": "F6"
+ },
+ "keyboard_F7": {
+  "en": "F7",
+  "pt": "F7",
+  "ch": "F7"
+ },
+ "keyboard_F8": {
+  "en": "F8",
+  "pt": "F8",
+  "ch": "F8"
+ },
+ "keyboard_F9": {
+  "en": "F9",
+  "pt": "F9",
+  "ch": "F9"
+ },
+ "keyboard_G": {
+  "en": "G",
+  "pt": "G",
+  "ch": "G"
+ },
+ "keyboard_Greater": {
+  "en": ">",
+  "pt": ">",
+  "ch": ">"
+ },
+ "keyboard_H": {
+  "en": "H",
+  "pt": "H",
+  "ch": "H"
+ },
+ "keyboard_Hash": {
+  "en": "Hash",
+  "pt": "Hash",
+  "ch": "Hash"
+ },
+ "keyboard_Help": {
+  "en": "Help",
+  "pt": "Ajuda",
+  "ch": "Help"
+ },
+ "keyboard_Home": {
+  "en": "Home",
+  "pt": "Início",
+  "ch": "Home"
+ },
+ "keyboard_I": {
+  "en": "I",
+  "pt": "I",
+  "ch": "I"
+ },
+ "keyboard_Insert": {
+  "en": "Insert",
+  "pt": "Inserir",
+  "ch": "Insert"
+ },
+ "keyboard_J": {
+  "en": "J",
+  "pt": "J",
+  "ch": "J"
+ },
+ "keyboard_K": {
+  "en": "K",
+  "pt": "K",
+  "ch": "K"
+ },
+ "keyboard_Keypad0": {
+  "en": "Numpad 0",
+  "pt": "Teclado Numérico 0",
+  "ch": "小键盘0"
+ },
+ "keyboard_Keypad1": {
+  "en": "Numpad 1",
+  "pt": "Teclado Numérico 1",
+  "ch": "小键盘1"
+ },
+ "keyboard_Keypad2": {
+  "en": "Numpad 2",
+  "pt": "Teclado Numérico 2",
+  "ch": "小键盘2"
+ },
+ "keyboard_Keypad3": {
+  "en": "Numpad 3",
+  "pt": "Teclado Numérico 3",
+  "ch": "小键盘3"
+ },
+ "keyboard_Keypad4": {
+  "en": "Numpad 4",
+  "pt": "Teclado Numérico 4",
+  "ch": "小键盘4"
+ },
+ "keyboard_Keypad5": {
+  "en": "Numpad 5",
+  "pt": "Teclado Numérico 5",
+  "ch": "小键盘5"
+ },
+ "keyboard_Keypad6": {
+  "en": "Numpad 6",
+  "pt": "Teclado Numérico 6",
+  "ch": "小键盘6"
+ },
+ "keyboard_Keypad7": {
+  "en": "Numpad 7",
+  "pt": "Teclado Numérico 7",
+  "ch": "小键盘7"
+ },
+ "keyboard_Keypad8": {
+  "en": "Numpad 8",
+  "pt": "Teclado Numérico 8",
+  "ch": "小键盘8"
+ },
+ "keyboard_Keypad9": {
+  "en": "Numpad 9",
+  "pt": "Teclado Numérico 9",
+  "ch": "小键盘9"
+ },
+ "keyboard_KeypadDivide": {
+  "en": "Numpad /",
+  "pt": "Teclado Numérico /",
+  "ch": "Num_/"
+ },
+ "keyboard_KeypadEnter": {
+  "en": "Numpad Enter",
+  "pt": "Teclado Numérico Enter",
+  "ch": "Num_Enter"
+ },
+ "keyboard_KeypadEquals": {
+  "en": "Numpad =",
+  "pt": "Teclado Numérico =",
+  "ch": "Num_="
+ },
+ "keyboard_KeypadMinus": {
+  "en": "Numpad -",
+  "pt": "Teclado Numérico -",
+  "ch": "Num_-"
+ },
+ "keyboard_KeypadMultiply": {
+  "en": "Numpad *",
+  "pt": "Teclado Numérico *",
+  "ch": "Num_*"
+ },
+ "keyboard_KeypadPeriod": {
+  "en": "Numpad .",
+  "pt": "Teclado Numérico .",
+  "ch": "Num_."
+ },
+ "keyboard_KeypadPlus": {
+  "en": "Numpad +",
+  "pt": "Teclado Numérico +",
+  "ch": "Num_+"
+ },
+ "keyboard_L": {
+  "en": "L",
+  "pt": "L",
+  "ch": "L"
+ },
+ "keyboard_LeftAlt": {
+  "en": "Left Alt",
+  "pt": "Alt Esquerdo",
+  "ch": "左Alt"
+ },
+ "keyboard_LeftArrow": {
+  "en": "←",
+  "pt": "←",
+  "ch": "方向键←"
+ },
+ "keyboard_LeftBracket": {
+  "en": "[",
+  "pt": "[",
+  "ch": "["
+ },
+ "keyboard_LeftControl": {
+  "en": "Right Ctrl",
+  "pt": "Ctrl Direito",
+  "ch": "左Ctrl"
+ },
+ "keyboard_LeftCurlyBracket": {
+  "en": "{",
+  "pt": "{",
+  "ch": "{"
+ },
+ "keyboard_LeftParen": {
+  "en": "(",
+  "pt": "(",
+  "ch": "("
+ },
+ "keyboard_LeftShift": {
+  "en": "Left Shift",
+  "pt": "Shift Esquerdo",
+  "ch": "左Shift"
+ },
+ "keyboard_LeftWindows": {
+  "en": "Left Windows",
+  "pt": "Windows Esquerdo",
+  "ch": "左Win"
+ },
+ "keyboard_Less": {
+  "en": "<",
+  "pt": "<",
+  "ch": "<"
+ },
+ "keyboard_M": {
+  "en": "M",
+  "pt": "M",
+  "ch": "M"
+ },
+ "keyboard_Menu": {
+  "en": "Menu",
+  "pt": "Menu",
+  "ch": "Menu"
+ },
+ "keyboard_Minus": {
+  "en": "-",
+  "pt": "-",
+  "ch": "-"
+ },
+ "keyboard_Mouse0": {
+  "en": "LMB",
+  "pt": "Botão Esquerdo do Mouse",
+  "ch": "鼠标左键"
+ },
+ "keyboard_Mouse1": {
+  "en": "RMB",
+  "pt": "Botão Direito do Mouse",
+  "ch": "鼠标右键"
+ },
+ "keyboard_Mouse2": {
+  "en": "MMB",
+  "pt": "Botão do Meio do Mouse",
+  "ch": "鼠标中键"
+ },
+ "keyboard_Mouse3": {
+  "en": "Mouse Button 3",
+  "pt": "Botão 3 do Mouse",
+  "ch": "Mouse3"
+ },
+ "keyboard_Mouse4": {
+  "en": "Mouse Button 4",
+  "pt": "Botão 4 do Mouse",
+  "ch": "Mouse4"
+ },
+ "keyboard_Mouse5": {
+  "en": "Mouse Button 5",
+  "pt": "Botão 5 do Mouse",
+  "ch": "Mouse5"
+ },
+ "keyboard_Mouse6": {
+  "en": "Mouse Button 6",
+  "pt": "Botão 6 do Mouse",
+  "ch": "Mouse6"
+ },
+ "keyboard_N": {
+  "en": "N",
+  "pt": "N",
+  "ch": "N"
+ },
+ "keyboard_Numlock": {
+  "en": "Num Lock",
+  "pt": "Bloq Num",
+  "ch": "NumLock"
+ },
+ "keyboard_O": {
+  "en": "O",
+  "pt": "O",
+  "ch": "O"
+ },
+ "keyboard_P": {
+  "en": "P",
+  "pt": "P",
+  "ch": "P"
+ },
+ "keyboard_PageDown": {
+  "en": "PageDown",
+  "pt": "Próxima Página",
+  "ch": "PageDown"
+ },
+ "keyboard_PageUp": {
+  "en": "PageUp",
+  "pt": "Página Anterior",
+  "ch": "PageUp"
+ },
+ "keyboard_Pause": {
+  "en": "Pause",
+  "pt": "Pausa",
+  "ch": "Pause"
+ },
+ "keyboard_Percent": {
+  "en": "%",
+  "pt": "%",
+  "ch": "%"
+ },
+ "keyboard_Period": {
+  "en": ".",
+  "pt": ".",
+  "ch": "."
+ },
+ "keyboard_Pipe": {
+  "en": "|",
+  "pt": "|",
+  "ch": "|"
+ },
+ "keyboard_Plus": {
+  "en": "+",
+  "pt": "+",
+  "ch": "+"
+ },
+ "keyboard_Print": {
+  "en": "Print",
+  "pt": "Impr.",
+  "ch": "Print"
+ },
+ "keyboard_Q": {
+  "en": "Q",
+  "pt": "Q",
+  "ch": "Q"
+ },
+ "keyboard_Question": {
+  "en": "?",
+  "pt": "?",
+  "ch": "?"
+ },
+ "keyboard_Quote": {
+  "en": "'",
+  "pt": "'",
+  "ch": "'"
+ },
+ "keyboard_R": {
+  "en": "R",
+  "pt": "R",
+  "ch": "R"
+ },
+ "keyboard_RightAlt": {
+  "en": "Right Alt",
+  "pt": "Alt Direito",
+  "ch": "右RAlt"
+ },
+ "keyboard_RightArrow": {
+  "en": "→",
+  "pt": "→",
+  "ch": "方向键→"
+ },
+ "keyboard_RightBracket": {
+  "en": "]",
+  "pt": "]",
+  "ch": "]"
+ },
+ "keyboard_RightControl": {
+  "en": "Left Ctrl",
+  "pt": "Ctrl Esquerdo",
+  "ch": "右Ctrl"
+ },
+ "keyboard_RightCurlyBracket": {
+  "en": "}",
+  "pt": "}",
+  "ch": "}"
+ },
+ "keyboard_RightParen": {
+  "en": ")",
+  "pt": ")",
+  "ch": ")"
+ },
+ "keyboard_RightShift": {
+  "en": "Right Shift",
+  "pt": "Shift Direito",
+  "ch": "右Shift"
+ },
+ "keyboard_RightWindows": {
+  "en": "Right Windows",
+  "pt": "Windows Direito",
+  "ch": "右Win"
+ },
+ "keyboard_S": {
+  "en": "S",
+  "pt": "S",
+  "ch": "S"
+ },
+ "keyboard_ScrollLock": {
+  "en": "Scroll Lock",
+  "pt": "Bloqueio de Rolagem",
+  "ch": "ScrollLock"
+ },
+ "keyboard_Semicolon": {
+  "en": ";",
+  "pt": ";",
+  "ch": ";"
+ },
+ "keyboard_Slash": {
+  "en": "/",
+  "pt": "/",
+  "ch": "/"
+ },
+ "keyboard_Space": {
+  "en": "Space Bar",
+  "pt": "Barra de Espaço",
+  "ch": "空格键"
+ },
+ "keyboard_T": {
+  "en": "T",
+  "pt": "T",
+  "ch": "T"
+ },
+ "keyboard_Tab": {
+  "en": "Tab",
+  "pt": "Tab",
+  "ch": "Tab"
+ },
+ "keyboard_Tilde": {
+  "en": "~",
+  "pt": "~",
+  "ch": "~"
+ },
+ "keyboard_U": {
+  "en": "U",
+  "pt": "U",
+  "ch": "U"
+ },
+ "keyboard_Underscore": {
+  "en": "_",
+  "pt": "_",
+  "ch": "_"
+ },
+ "keyboard_UpArrow": {
+  "en": "↑",
+  "pt": "Seta para Cima",
+  "ch": "方向键↑"
+ },
+ "keyboard_V": {
+  "en": "V",
+  "pt": "V",
+  "ch": "V"
+ },
+ "keyboard_W": {
+  "en": "W",
+  "pt": "W",
+  "ch": "W"
+ },
+ "keyboard_X": {
+  "en": "X",
+  "pt": "X",
+  "ch": "X"
+ },
+ "keyboard_Y": {
+  "en": "Y",
+  "pt": "Y",
+  "ch": "Y"
+ },
+ "keyboard_Z": {
+  "en": "Z",
+  "pt": "Z",
+  "ch": "Z"
+ },
+ "item_type_name0": {
+  "en": "Currency",
+  "pt": "Moeda",
+  "ch": "货币资源"
+ },
+ "item_type_name1": {
+  "en": "<size=14>Elixir/Charm</size>",
+  "pt": "<size=14>Elixir/Talismã</size>",
+  "ch": "丹符"
+ },
+ "item_type_name102": {
+  "en": "Poison",
+  "pt": "Veneno",
+  "ch": "毒丹"
+ },
+ "item_type_name105": {
+  "en": "Spiritual Fruit",
+  "pt": "Fruto Espiritual",
+  "ch": "灵果"
+ },
+ "item_type_name106": {
+  "en": "Special",
+  "pt": "Especial",
+  "ch": "特殊"
+ },
+ "item_type_name107": {
+  "en": "Radish",
+  "pt": "Rabanete",
+  "ch": "萝卜"
+ },
+ "item_type_name108": {
+  "en": "Sect Tournament Item",
+  "pt": "Item de Torneio de Seita",
+  "ch": "宗门大比道具"
+ },
+ "item_type_name109": {
+  "en": "Demonic Crystal",
+  "pt": "Cristal Demoníaco",
+  "ch": "妖晶"
+ },
+ "item_type_name111": {
+  "en": "Charm",
+  "pt": "Talismã",
+  "ch": "符箓"
+ },
+ "item_type_name112": {
+  "en": "Charm",
+  "pt": "Talismã",
+  "ch": "符箓"
+ },
+ "item_type_name2": {
+  "en": "Books",
+  "pt": "Livros",
+  "ch": "书籍"
+ },
+ "item_type_name3": {
+  "en": "Gear",
+  "pt": "Equipamento",
+  "ch": "装备"
+ },
+ "item_type_name301": {
+  "en": "Ring",
+  "pt": "Anel",
+  "ch": "戒指"
+ },
+ "item_type_name302": {
+  "en": "Mount",
+  "pt": "Montaria",
+  "ch": "坐骑"
+ },
+ "item_type_name303": {
+  "en": "Artifact",
+  "pt": "Artefato",
+  "ch": "法宝"
+ },
+ "item_type_name304": {
+  "en": "Outfit",
+  "pt": "Roupa",
+  "ch": "衣服"
+ },
+ "item_type_name4": {
+  "en": "Artifact",
+  "pt": "Artefato",
+  "ch": "法宝"
+ },
+ "item_type_name501": {
+  "en": "Ore",
+  "pt": "Minério",
+  "ch": "矿材"
+ },
+ "item_type_name502": {
+  "en": "Monster Material",
+  "pt": "Material de Monstro",
+  "ch": "妖兽材料"
+ },
+ "item_type_name503": {
+  "en": "Herb",
+  "pt": "Erva",
+  "ch": "药材"
+ },
+ "item_type_name504": {
+  "en": "Soul Orb",
+  "pt": "Orbe de Alma",
+  "ch": "魂珠"
+ },
+ "item_type_name505": {
+  "en": "Breath",
+  "pt": "Sopro",
+  "ch": "气息"
+ },
+ "item_type_name506": {
+  "en": "Tian Yuan Mountain Material",
+  "pt": "Material da Montanha Tian Yuan",
+  "ch": "天元山材料"
+ },
+ "item_type_name507": {
+  "en": "Breath",
+  "pt": "Sopro",
+  "ch": "气息"
+ },
+ "item_type_name508": {
+  "en": "Heaven and Earth Treasure",
+  "pt": "Tesouro do Céu e da Terra",
+  "ch": "天材地宝"
+ },
+ "item_type_name509": {
+  "en": "Tao Gem",
+  "pt": "Pedra do Dao",
+  "ch": "道界石"
+ },
+ "item_type_name510": {
+  "en": "True Fire",
+  "pt": "Fogo Verdadeiro",
+  "ch": "真火"
+ },
+ "item_type_name511": {
+  "en": "Garment Material",
+  "pt": "Material de Vestuário",
+  "ch": "制衣材料"
+ },
+ "item_type_name512": {
+  "en": "Monster Core",
+  "pt": "Núcleo de Monstro",
+  "ch": "妖兽核心"
+ },
+ "item_type_name513": {
+  "en": "Tempering Resin",
+  "pt": "Resina de Temperamento",
+  "ch": "淬凝胶"
+ },
+ "item_type_name514": {
+  "en": "Rare Plant",
+  "pt": "Planta Rara",
+  "ch": "灵植"
+ },
+ "item_type_name518": {
+  "en": "Forge Quartz",
+  "pt": "Quartzo de Forja",
+  "ch": "锻尘魄"
+ },
+ "item_type_name520": {
+  "en": "Repair Material",
+  "pt": "Material de Reparo",
+  "ch": "修复材料"
+ },
+ "item_type_name521": {
+  "en": "Combining Material",
+  "pt": "Material de Fusão",
+  "ch": "融合材料"
+ },
+ "item_type_name522": {
+  "en": "Flame",
+  "pt": "Chama",
+  "ch": "火焰"
+ },
+ "item_type_name524": {
+  "en": "Broken Artifact",
+  "pt": "Artefato Quebrado",
+  "ch": "残器"
+ },
+ "item_type_name525": {
+  "en": "Remains",
+  "pt": "Restos",
+  "ch": "遗骸"
+ },
+ "item_type_name526": {
+  "en": "Ore",
+  "pt": "Minério",
+  "ch": "矿石"
+ },
+ "item_type_name527": {
+  "en": "Gemstone",
+  "pt": "Pedra Preciosa",
+  "ch": "玉石"
+ },
+ "item_type_name528": {
+  "en": "Essence",
+  "pt": "Essência",
+  "ch": "精华"
+ },
+ "item_type_name529": {
+  "en": "Soul Devouring Stone",
+  "pt": "Pedra Devoradora de Almas",
+  "ch": "噬魂石"
+ },
+ "item_type_name530": {
+  "en": "Ancient Artifact",
+  "pt": "Artefato Antigo",
+  "ch": "远古物品"
+ },
+ "item_type_name531": {
+  "en": "Immortal Dew",
+  "pt": "Orvalho Imortal",
+  "ch": "仙露"
+ },
+ "item_type_name532": {
+  "en": "Soul Orb",
+  "pt": "Orbe de Alma",
+  "ch": "魂珠"
+ },
+ "item_type_name533": {
+  "en": "Sandalwood Scent",
+  "pt": "Perfume de Sândalo",
+  "ch": "尘檀水"
+ },
+ "item_type_name534": {
+  "en": "Dark Gold",
+  "pt": "Ouro Negro",
+  "ch": "玄金"
+ },
+ "item_type_name535": {
+  "en": "Nether Seed",
+  "pt": "Semente do Submundo",
+  "ch": "冥种"
+ },
+ "item_type_name536": {
+  "en": "Essence Air",
+  "pt": "Ar da Essência",
+  "ch": "本源之气"
+ },
+ "item_type_name6": {
+  "en": "Item",
+  "pt": "Item",
+  "ch": "道具"
+ },
+ "item_type_name601": {
+  "en": "Seed",
+  "pt": "Semente",
+  "ch": "种子"
+ },
+ "item_type_name602": {
+  "en": "Book",
+  "pt": "Livro",
+  "ch": "书"
+ },
+ "item_type_name603": {
+  "en": "Caravan",
+  "pt": "Caravana",
+  "ch": "镖车"
+ },
+ "item_type_name604": {
+  "en": "Alcohol",
+  "pt": "Álcool",
+  "ch": "酒"
+ },
+ "item_type_name605": {
+  "en": "Elixir Recipe",
+  "pt": "Receita de Elixir",
+  "ch": "丹方"
+ },
+ "item_type_name606": {
+  "en": "Furnace",
+  "pt": "Fornalha",
+  "ch": "丹炉"
+ },
+ "item_type_name607": {
+  "en": "Recommendation Letter",
+  "pt": "Carta de Recomendação",
+  "ch": "推荐信"
+ },
+ "item_type_name608": {
+  "en": "Charm",
+  "pt": "Talismã",
+  "ch": "符箓"
+ },
+ "item_type_name609": {
+  "en": "Books",
+  "pt": "Livros",
+  "ch": "书籍"
+ },
+ "item_type_name610": {
+  "en": "Accessory",
+  "pt": "Acessório",
+  "ch": "饰品"
+ },
+ "item_type_name611": {
+  "en": "Teleportation Charm",
+  "pt": "Talismã de Teletransporte",
+  "ch": "传送符"
+ },
+ "item_type_name612": {
+  "en": "Divine Material",
+  "pt": "Material Divino",
+  "ch": "仙材"
+ },
+ "item_type_name613": {
+  "en": "Monster Material",
+  "pt": "Material de Monstro",
+  "ch": "妖兽材料"
+ },
+ "item_type_name614": {
+  "en": "Feng Shui Book",
+  "pt": "Livro de Feng Shui",
+  "ch": "风水书"
+ },
+ "item_type_name615": {
+  "en": "Prescription",
+  "pt": "Prescrição",
+  "ch": "药谱"
+ },
+ "item_type_name616": {
+  "en": "Textbook",
+  "pt": "Livro de Estudo",
+  "ch": "通论道典"
+ },
+ "item_type_name617": {
+  "en": "Identification Manual",
+  "pt": "Manual de Identificação",
+  "ch": "鉴识书"
+ },
+ "item_type_name618": {
+  "en": "Chart",
+  "pt": "Diagrama",
+  "ch": "图谱"
+ },
+ "item_type_name624": {
+  "en": "Ring",
+  "pt": "Anel",
+  "ch": "戒指"
+ },
+ "item_type_name625": {
+  "en": "Charm",
+  "pt": "Talismã",
+  "ch": "符篆"
+ },
+ "item_type_name626": {
+  "en": "Lamp",
+  "pt": "Lâmpada",
+  "ch": "灯盏"
+ },
+ "item_type_name627": {
+  "en": "Amulet",
+  "pt": "Amuleto",
+  "ch": "护身符"
+ },
+ "item_type_name628": {
+  "en": "Spiritual Pet",
+  "pt": "Pet Espiritual",
+  "ch": "灵宠"
+ },
+ "item_type_name629": {
+  "en": "Skill Fruit",
+  "pt": "Fruto de Habilidade",
+  "ch": "道心果"
+ },
+ "item_type_name630": {
+  "en": "Mythical Beast Map",
+  "pt": "Mapa das Feras Míticas",
+  "ch": "五岳真形图"
+ },
+ "item_type_name631": {
+  "en": "Secret Technique",
+  "pt": "Técnica Secreta",
+  "ch": "秘法"
+ },
+ "item_type_name632": {
+  "en": "Map",
+  "pt": "Mapa",
+  "ch": "图纸"
+ },
+ "item_type_name633": {
+  "en": "Charm",
+  "pt": "Talismã",
+  "ch": "符箓"
+ },
+ "item_type_name634": {
+  "en": "Food",
+  "pt": "Alimento",
+  "ch": "杂粮"
+ },
+ "item_type_name635": {
+  "en": "Secret Technique",
+  "pt": "Técnica Secreta",
+  "ch": "秘法"
+ },
+ "item_type_name636": {
+  "en": "Spiritual Item",
+  "pt": "Item Espiritual",
+  "ch": "灵物"
+ },
+ "item_type_name637": {
+  "en": "Treasure",
+  "pt": "Tesouro",
+  "ch": "秘宝"
+ },
+ "item_type_name638": {
+  "en": "Memory",
+  "pt": "Memória",
+  "ch": "记忆"
+ },
+ "item_type_name639": {
+  "en": "Letter",
+  "pt": "Carta",
+  "ch": "书信"
+ },
+ "item_type_name643": {
+  "en": "Knot",
+  "pt": "Nó",
+  "ch": "绳结"
+ },
+ "item_type_name644": {
+  "en": "Treasure",
+  "pt": "Tesouro",
+  "ch": "宝箱"
+ },
+ "item_type_name645": {
+  "en": "Relocation Flag",
+  "pt": "Bandeira de Realocação",
+  "ch": "定岳旗"
+ },
+ "item_type_name646": {
+  "en": "Fortune Stick",
+  "pt": "Varinha da Sorte",
+  "ch": "灵签"
+ },
+ "item_type_name647": {
+  "en": "???",
+  "pt": "???",
+  "ch": "？？？"
+ },
+ "item_type_name648": {
+  "en": "Mysterious Fruit",
+  "pt": "Fruto Misterioso",
+  "ch": "诡异果实"
+ },
+ "item_type_name649": {
+  "en": "Mysterious Letter",
+  "pt": "Carta Misteriosa",
+  "ch": "神秘来信"
+ },
+ "item_type_name651": {
+  "en": "Spiritual Item",
+  "pt": "Item Espiritual",
+  "ch": "灵物"
+ },
+ "item_type_name652": {
+  "en": "Remaining Pages",
+  "pt": "Páginas Restantes",
+  "ch": "残页"
+ },
+ "item_type_name654": {
+  "en": "Heavenly",
+  "pt": "Celestial",
+  "ch": "仙物"
+ },
+ "item_type_name655": {
+  "en": "Incense Wood",
+  "pt": "Madeira de Incenso",
+  "ch": "香木"
+ },
+ "item_type_name656": {
+  "en": "Shrine Item",
+  "pt": "Item de Santuário",
+  "ch": "仙祠物品"
+ },
+ "item_type_name657": {
+  "en": "Feng Shui Items",
+  "pt": "Itens de Feng Shui",
+  "ch": "风水物品"
+ },
+ "item_type_name658": {
+  "en": "Talismans Chart",
+  "pt": "Diagrama de Talismãs",
+  "ch": "画符图谱"
+ },
+ "item_type_name659": {
+  "en": "Spiritual Item",
+  "pt": "Item Espiritual",
+  "ch": "灵物"
+ },
+ "item_type_name660": {
+  "en": "Soul Reaver",
+  "pt": "Ceifador de Almas",
+  "ch": "噬魂剑"
+ },
+ "item_type_name663": {
+  "en": "Yin Yang Orb",
+  "pt": "Orbe Yin Yang",
+  "ch": "阴阳珠"
+ },
+ "item_type_name664": {
+  "en": "Soul Reaver Crystal",
+  "pt": "Cristal do Ceifador de Almas",
+  "ch": "噬魂魔晶"
+ },
+ "item_type_name7": {
+  "en": "Special",
+  "pt": "Especial",
+  "ch": "特殊"
+ },
+ "item_type_name701": {
+  "en": "Stoneware",
+  "pt": "Artefato de Pedra",
+  "ch": "石器"
+ },
+ "item_type_name702": {
+  "en": "Jadeware",
+  "pt": "Artefato de Jade",
+  "ch": "玉器"
+ },
+ "item_type_name704": {
+  "en": "Flute",
+  "pt": "Flauta",
+  "ch": "笛"
+ },
+ "item_type_name705": {
+  "en": "Xiao",
+  "pt": "Xiao",
+  "ch": "箫"
+ },
+ "item_type_name707": {
+  "en": "Accessory",
+  "pt": "Acessório",
+  "ch": "饰品"
+ },
+ "item_type_name708": {
+  "en": "Pottery",
+  "pt": "Cerâmica",
+  "ch": "陶器"
+ },
+ "item_type_name709": {
+  "en": "Illustrated Books",
+  "pt": "Livros Ilustrados",
+  "ch": "图册"
+ },
+ "item_type_name710": {
+  "en": "Boneware",
+  "pt": "Artefato de Osso",
+  "ch": "骨器"
+ },
+ "D_battleInfo_dijiguan": {
+  "en": "Level {0}",
+  "pt": "Nível {0}",
+  "ch": "第{0}关"
+ },
+ "D_battleStart_biaoti": {
+  "en": "Victory Condition",
+  "pt": "Condição de Vitória",
+  "ch": "胜利条件"
+ },
+ "D_battleStart_nandu": {
+  "en": "Ground of No Return: {0}",
+  "pt": "Solo do Não Retorno: {0}",
+  "ch": "不归玄境：{0}"
+ },
+ "D_battleStart_shenglitiaojian": {
+  "en": "Level 20 Cleared",
+  "pt": "Nível 20 Limpo",
+  "ch": "通关20层"
+ },
+ "D_battleStore_chiyoudaoju": {
+  "en": "Items owned",
+  "pt": "Itens possuídos",
+  "ch": "持有道具"
+ },
+ "D_battleStore_citiaoshuoming": {
+  "en": "Affix Info",
+  "pt": "Informação do afixo",
+  "ch": "词条说明"
+ },
+ "D_battleStore_ciyao": {
+  "en": "Minor",
+  "pt": "Menor",
+  "ch": "次要"
+ },
+ "D_battleStore_fanhuiyouxi": {
+  "en": "Resume",
+  "pt": "Retomar",
+  "ch": "回到游戏"
+ },
+ "D_battleStore_fanhuizhujiemian": {
+  "en": "Main Menu",
+  "pt": "Menu principal",
+  "ch": "返回主界面"
+ },
+ "D_battleStore_jiesuo": {
+  "en": "Unlock",
+  "pt": "Liberar",
+  "ch": "解锁"
+ },
+ "D_battleStore_jineng": {
+  "en": "My Skills",
+  "pt": "Minhas habilidades",
+  "ch": "我的技能"
+ },
+ "D_battleStore_jinengcitiao": {
+  "en": "Skill Affixes",
+  "pt": "Afixos de habilidade",
+  "ch": "技能词条"
+ },
+ "D_battleStore_jinengshuoming": {
+  "en": "Skill Info",
+  "pt": "Detalhes",
+  "ch": "技能说明"
+ },
+ "D_battleStore_jueseshuxing": {
+  "en": "Info",
+  "pt": "Informações",
+  "ch": "角色属性"
+ },
+ "D_battleStore_lengqueshijian": {
+  "en": "Cooldown",
+  "pt": "Tempo de espera",
+  "ch": "冷却时间"
+ },
+ "D_battleStore_qiehuanshuxing": {
+  "en": "Switch",
+  "pt": "Alternar",
+  "ch": "切换"
+ },
+ "D_battleStore_shezhi": {
+  "en": "Settings",
+  "pt": "Configurações",
+  "ch": "设置"
+ },
+ "D_battleStore_suoding": {
+  "en": "Locked",
+  "pt": "Bloqueado",
+  "ch": "锁定"
+ },
+ "D_battleStore_xinfa": {
+  "en": "My Mind Skills",
+  "pt": "Minhas técnicas mentais",
+  "ch": "我的心法"
+ },
+ "D_battleStore_xinfacitiao": {
+  "en": "Mind Skill Affixes",
+  "pt": "Afixos de técnica mental",
+  "ch": "心法词条"
+ },
+ "D_battleStore_xinyouxi": {
+  "en": "New Game",
+  "pt": "Novo jogo",
+  "ch": "新游戏"
+ },
+ "D_battleStore_yizhuangpei": {
+  "en": "Upgrade",
+  "pt": "Atualizar",
+  "ch": "升级"
+ },
+ "D_battleStore_zhuyao": {
+  "en": "Major",
+  "pt": "Principal",
+  "ch": "主要"
+ },
+ "D_beifenduqushibai": {
+  "en": "Unable to load the backup save file. Please play with a new save.",
+  "pt": "Não foi possível carregar o arquivo de salvamento de backup. Por favor, comece um novo jogo.",
+  "ch": "备份文件读取失败，请重新开始！"
+ },
+ "D_boss_kuangbaoshengyushijian": {
+  "en": "Mythical Beast will go <r>Berserk</r> after {0}s",
+  "pt": "A Fera Mítica entrará em <r>Fúria</r> após {0}s",
+  "ch": "大妖兽将于{0}s后进入<r>狂暴状态</r>"
+ },
+ "D_cundangsunhuaitishi": {
+  "en": "Unable to load selected save file. Load the latest backup save file instead?",
+  "pt": "Não foi possível carregar o arquivo de save selecionado. Carregar o último arquivo de save backup em vez disso?",
+  "ch": "当前存档已损坏，无法读取。是否读取最近一次备份的存档？"
+ },
+ "D_diffPass": {
+  "en": "Cleared",
+  "pt": "Concluído",
+  "ch": "已通过"
+ },
+ "D_dlcMain_dangqianjuese": {
+  "en": "Current Character",
+  "pt": "Personagem Atual",
+  "ch": "当前角色"
+ },
+ "D_dlcMain_wanfaming": {
+  "en": "Select DLC Character",
+  "pt": "Selecionar Personagem DLC",
+  "ch": "选择DLC角色"
+ },
+ "D_dlcMain_xuanzejuese": {
+  "en": "Select Character",
+  "pt": "Selecionar Personagem",
+  "ch": "请选择角色"
+ },
+ "D_dlcMain_yongyoujineng": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "技能"
+ },
+ "D_end_baojicishu": {
+  "en": "Crit Strikes Dealt",
+  "pt": "Golpes Críticos Desferidos",
+  "ch": "暴击次数"
+ },
+ "D_end_baojizongshanghai": {
+  "en": "Total Crit Damage",
+  "pt": "Dano Crítico Total",
+  "ch": "暴击总伤害"
+ },
+ "D_end_guanqiashu": {
+  "en": "Level Reached",
+  "pt": "Nível Alcançado",
+  "ch": "到达关卡"
+ },
+ "D_end_huifutili": {
+  "en": "Vitality Restored",
+  "pt": "Vitalidade Restaurada",
+  "ch": "回复体力"
+ },
+ "D_end_jishaboss": {
+  "en": "Bosses Killed",
+  "pt": "Chefes Derrotados",
+  "ch": "击杀大妖兽"
+ },
+ "D_end_jishaxiaoguai": {
+  "en": "Minions Killed",
+  "pt": "Minions Derrotados",
+  "ch": "击杀小怪"
+ },
+ "D_end_shanbicishu": {
+  "en": "Successful Dodges",
+  "pt": "Esquivas Bem-sucedidas",
+  "ch": "闪避次数"
+ },
+ "D_end_shoushangcishu": {
+  "en": "Hits Received",
+  "pt": "Acertos Recebidos",
+  "ch": "受伤次数"
+ },
+ "D_end_shoushangzongshanghai": {
+  "en": "Total Damage Taken",
+  "pt": "Dano Total Recebido",
+  "ch": "受到总伤害"
+ },
+ "D_end_zhandouhaoshi": {
+  "en": "Battle Duration",
+  "pt": "Duração da Batalha",
+  "ch": "战斗耗时"
+ },
+ "D_end_zongshanghai": {
+  "en": "Total Damage",
+  "pt": "Dano Total",
+  "ch": "总伤害"
+ },
+ "D_end_zuigaoshanghai": {
+  "en": "Highest Single-hit",
+  "pt": "Maior Dano em um Único Golpe",
+  "ch": "单次最高伤害"
+ },
+ "D_jiesuoneirong": {
+  "en": "Unlocked",
+  "pt": "Desbloqueado",
+  "ch": "解锁内容"
+ },
+ "D_playerInfoDesc_BXshuaxinsudu": {
+  "en": "Indicates how frequently the breakable pots respawn in battles.",
+  "pt": "Indica com que frequência os vasos quebráveis reaparecem nas batalhas.",
+  "ch": "此属性可影响在战斗中刷新出罐子的概率。"
+ },
+ "D_playerInfoDesc_GWdiaoluo": {
+  "en": "The percent of enemies' drops in battle.",
+  "pt": "O percentual de drops dos inimigos em batalha.",
+  "ch": "战斗中敌人的掉落百分比。"
+ },
+ "D_playerInfoDesc_GWjinengweili": {
+  "en": "The percent of enemies' damage dealt in battle.",
+  "pt": "O percentual de dano infligido pelos inimigos em batalha.",
+  "ch": "战斗中敌人的伤害百分比。"
+ },
+ "D_playerInfoDesc_GWshuaxinshulaing": {
+  "en": "The percent of respawned enemies' amount in battle.",
+  "pt": "O percentual da quantidade de inimigos que reaparecem em batalha.",
+  "ch": "战斗中敌人的刷新数量百分比。"
+ },
+ "D_playerInfoDesc_GWyidongsudu": {
+  "en": "The percent of enemies' movement speed in battle.",
+  "pt": "O percentual da velocidade de movimento dos inimigos em batalha.",
+  "ch": "战斗中敌人的移动速度百分比。"
+ },
+ "D_playerInfoDesc_JNDDchuantoucishu": {
+  "en": "Indicates how many enemies your skill's projectile could pierce.",
+  "pt": "Indica quantos inimigos o projétil da sua habilidade pode atravessar.",
+  "ch": "角色的弹道穿透次数可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNDDjituijuli": {
+  "en": "Indicates your projectile's knock-back distance.",
+  "pt": "Indica a distância de recuo do seu projétil.",
+  "ch": "角色的击退距离可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNDDshecheng": {
+  "en": "Indicates the farthest distance your skill's projectiles could reach.",
+  "pt": "Indica o alcance máximo dos projéteis da sua habilidade.",
+  "ch": "角色的技能射程可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNDDshuliang": {
+  "en": "Indicates your skill's projectile amounts.",
+  "pt": "Indica a quantidade de projéteis da sua habilidade.",
+  "ch": "角色的弹道数量可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNDDsudu": {
+  "en": "Indicates how fast your projectiles move.",
+  "pt": "Indica a velocidade dos seus projéteis.",
+  "ch": "角色的弹道速度可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNDDtanshecishu": {
+  "en": "Indicates how many times your skill's projectile could bounce among enemies.",
+  "pt": "Indica quantas vezes o projétil da sua habilidade pode ricochetear entre inimigos.",
+  "ch": "角色的弹道弹射次数可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNchixu": {
+  "en": "Indicates the effective time of your skills.",
+  "pt": "Indica o tempo de efeito das suas habilidades.",
+  "ch": "角色的技能持续时间可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNfanwei": {
+  "en": "Indicates the radius of your skill's area of effect.",
+  "pt": "Indica o raio de alcance das suas habilidades.",
+  "ch": "角色的技能范围可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_JNxixue": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "D_playerInfoDesc_JNxixuebilv": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "D_playerInfoDesc_SDSXjiage": {
+  "en": "Indicates the price to be paid in refreshing the store's list.",
+  "pt": "Indica o preço a ser pago para atualizar a lista da loja.",
+  "ch": "此属性可影响商店中刷新道具的价格。"
+ },
+ "D_playerInfoDesc_SDjiage": {
+  "en": "Indicates the price of manuals you purchased in the store.",
+  "pt": "Indica o preço dos manuais que você comprou na loja.",
+  "ch": "此属性可影响商店中出售的秘籍价格。"
+ },
+ "D_playerInfoDesc_SDshuaxincishu": {
+  "en": "Indicates your free opportunities to refresh the store for another selection of items.",
+  "pt": "Indica suas oportunidades gratuitas de atualizar a loja para outra seleção de itens.",
+  "ch": "在商店中可免费刷新的次数。"
+ },
+ "D_playerInfoDesc_ZHWchixu": {
+  "en": "The bonus percent of the existing time for summoned units.",
+  "pt": "O bônus percentual do tempo existente para unidades convocadas.",
+  "ch": "召唤物的持续时间可受到此百分比的加成。"
+ },
+ "D_playerInfoDesc_ZHWgongsu": {
+  "en": "The bonus percent of the Attack Speed for summoned units.",
+  "pt": "O bônus percentual da Velocidade de Ataque para unidades convocadas.",
+  "ch": "召唤物的攻击速度可受到此百分比的加成。"
+ },
+ "D_playerInfoDesc_ZHWweili": {
+  "en": "The bonus percent of damage dealt by summoned units.",
+  "pt": "O bônus percentual de dano causado por unidades convocadas.",
+  "ch": "召唤物造成的伤害可受到此百分比的加成。"
+ },
+ "D_playerInfoDesc_baoji": {
+  "en": "Indicates your chance to deal a critical strike.",
+  "pt": "Indica sua Chance Crítica de causar um golpe crítico.",
+  "ch": "角色的暴击概率百分比。"
+ },
+ "D_playerInfoDesc_baojibeilv": {
+  "en": "The amplified percent of your Crit damage.",
+  "pt": "O percentual ampliado de seu dano crítico.",
+  "ch": "角色暴击时的伤害倍率百分比。"
+ },
+ "D_playerInfoDesc_daozizhi": {
+  "en": "Every 1 Blade will +1 your Blade damage. Capped at 99.",
+  "pt": "Cada 1 Lâmina aumenta seu dano de Lâmina em +1. Limitado a 99.",
+  "ch": "每1点刀法资质可使刀法伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_enemyMaxhpfix": {
+  "en": "The percent of enemies' max health points in battle.",
+  "pt": "O percentual dos pontos máximos de saúde dos inimigos em batalha.",
+  "ch": "战斗中敌人的最大体力百分比。"
+ },
+ "D_playerInfoDesc_fangyu": {
+  "en": "Defense of your character.",
+  "pt": "A defesa de seu personagem.",
+  "ch": "角色的防御力。"
+ },
+ "D_playerInfoDesc_fengzizh": {
+  "en": "Every 1 Wind Root will +1 your Wind damage. Capped at 99.",
+  "pt": "Cada 1 Raiz de Vento aumenta seu dano de Vento em +1. Limitado a 99.",
+  "ch": "每1点风灵根可使风属性伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_gongji": {
+  "en": "Attack of your character.",
+  "pt": "O ataque de seu personagem.",
+  "ch": "角色的攻击力。"
+ },
+ "D_playerInfoDesc_gongjisudu": {
+  "en": "Indicates your frequency in casting skills that are acquired from the store. A higher Attack Speed will bring you a shorter skill cooldown.",
+  "pt": "Indica sua frequência em lançar habilidades adquiridas na loja. Uma Velocidade de Ataque maior reduzirá o tempo de espera entre usos de habilidades.",
+  "ch": "角色使用在商店购买的技能的频率，此属性越高，技能的冷却时间越短。"
+ },
+ "D_playerInfoDesc_huozizhi": {
+  "en": "Every 1 Fire Root will +1 your Fire damage. Capped at 99.",
+  "pt": "Cada 1 Raiz de Fogo aumenta seu dano de Fogo em +1. Limitado a 99.",
+  "ch": "每1点火灵根可使火属性伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_jianzizhi": {
+  "en": "Every 1 Sword will +1 your Sword damage. Capped at 99.",
+  "pt": "Cada 1 Espada aumenta seu dano de Espada em +1. Limitado a 99.",
+  "ch": "每1点剑法资质可使剑法伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_jingyanbeilv": {
+  "en": "The percent of EXP gained from defeating enemies.",
+  "pt": "O percentual de EXP ganho ao derrotar inimigos.",
+  "ch": "角色在击败敌人时获得修为的百分比。"
+ },
+ "D_playerInfoDesc_jituijuli": {
+  "en": "Indicates your knock-back distance.",
+  "pt": "Indica sua distância de recuo.",
+  "ch": "角色的击退距离可受到此属性的加成。"
+ },
+ "D_playerInfoDesc_kangxing": {
+  "en": "Indicates your damage reduction. Higher Resistance will bring you a higher damage reduction percentage.",
+  "pt": "Indica sua redução de dano. Maior Resistência resultará em uma porcentagem maior de redução de dano.",
+  "ch": "角色的免伤能力，抗性越高，可免伤的百分比越高。"
+ },
+ "D_playerInfoDesc_kangxingcanshu": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "D_playerInfoDesc_leizizhi": {
+  "en": "Every 1 Lightning Root will +1 your Lightning damage. Capped at 99.",
+  "pt": "Cada 1 Raiz de Relâmpago aumenta seu dano de Relâmpago em +1. Limitado a 99.",
+  "ch": "每1点雷灵根可使雷属性伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_muzizhi": {
+  "en": "Every 1 Wood Root will +1 your Wood damage. Capped at 99.",
+  "pt": "Cada 1 Raiz de Madeira aumenta seu dano de Madeira em +1. Limitado a 99.",
+  "ch": "每1点木灵根可使木属性伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_qiangzizhi": {
+  "en": "Every 1 Spear will +1 your Spear damage. Capped at 99.",
+  "pt": "Cada 1 Lança aumenta seu dano de Lança em +1. Limitado a 99.",
+  "ch": "每1点枪法资质可使枪法伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_quanzizhi": {
+  "en": "Every 1 Fist will +1 your Fist damage. Capped at 99.",
+  "pt": "Cada 1 Punho aumenta seu dano de Punho em +1. Limitado a 99.",
+  "ch": "每1点拳法资质可使拳法伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_shanbi": {
+  "en": "Indicates your chance to evade an imminent attack. Capped at 60%.",
+  "pt": "Indica sua chance de esquivar um ataque iminente. Limitado a 60%.",
+  "ch": "角色的闪避百分比，此属性上限为60%，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_shiqufanwei": {
+  "en": "The maximum distance that allows your character to pick up items.",
+  "pt": "A distância máxima que permite que seu personagem recolha itens.",
+  "ch": "角色拾取道具的最远距离。"
+ },
+ "D_playerInfoDesc_shuizizhi": {
+  "en": "Every 1 Water Root will +1 your Water damage. Capped at 99.",
+  "pt": "Cada 1 Raiz de Água aumentará seu dano de Água em 1. Limitado a 99.",
+  "ch": "每1点水灵根可使水属性伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_tili": {
+  "en": "Your character's health points. You'll lose the game when your Vitality drops to 0.",
+  "pt": "Os pontos de saúde do seu personagem. Você perderá o jogo quando sua Vitalidade cair para 0.",
+  "ch": "角色的体力值，体力为0时游戏失败。"
+ },
+ "D_playerInfoDesc_tilihuifu": {
+  "en": "The amount of vitality automatically recovered per second during battle.",
+  "pt": "A quantidade de vitalidade recuperada automaticamente por segundo durante a batalha.",
+  "ch": "角色在战斗中每秒可自动恢复的体力值。"
+ },
+ "D_playerInfoDesc_tuzizhi": {
+  "en": "Every 1 Earth Root will +1 your Earth damage. Capped at 99.",
+  "pt": "Cada 1 Raiz de Terra aumentará seu dano de Terra em 1. Limitado a 99.",
+  "ch": "每1点土灵根可使土属性伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_weili": {
+  "en": "The bonus percent of your character's damage. It applies to most types of damage you dealt, but is ineffective to some special damage types like percent damage to Vitality.",
+  "pt": "O bônus percentual do dano do seu personagem. Ele se aplica à maioria dos tipos de dano que você causar, mas é ineficaz para alguns tipos de dano especiais, como dano percentual à Vitalidade.",
+  "ch": "角色的伤害加成百分比，角色造成的大部分伤害都可受到此百分比的加成（此加成对部分特殊伤害无效，如百分比体力伤害等）。"
+ },
+ "D_playerInfoDesc_xingyun": {
+  "en": "Indicates your character's chance to find high-quality items from the battlefield and the store.",
+  "pt": "Indica a chance do seu personagem encontrar itens de alta qualidade no campo de batalha e na loja.",
+  "ch": "此属性越高，角色在战斗及商店中出现高品质的道具概率越高。"
+ },
+ "D_playerInfoDesc_yidongsudu": {
+  "en": "Your character's movement speed during combat.",
+  "pt": "A velocidade de movimento do seu personagem durante o combate.",
+  "ch": "角色在战斗中的移动速度。"
+ },
+ "D_playerInfoDesc_zhangzizhi": {
+  "en": "Every 1 Palm will +1 your Palm damage. Capped at 99.",
+  "pt": "Cada 1 Palma aumentará seu dano de Palma em 1. Limitado a 99.",
+  "ch": "每1点掌法资质可使掌法伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_zhizizhi": {
+  "en": "Every 1 Finger will +1 your Finger damage. Capped at 99.",
+  "pt": "Cada 1 Dedo aumentará seu dano de Dedo em 1. Limitado a 99.",
+  "ch": "每1点指法资质可使指法伤害+1，此属性上限为99，超过上限的部分无效。"
+ },
+ "D_playerInfoDesc_zizhicashu": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "D_playerInfo_BXshuaxinsudu": {
+  "en": "Pot Respawn Speed",
+  "pt": "Velocidade de Reaparição dos Potes",
+  "ch": "战斗内罐子刷新速度"
+ },
+ "D_playerInfo_GWdiaoluo": {
+  "en": "Item Drop Rate:",
+  "pt": "Taxa de Drop de Item:",
+  "ch": "道具掉落率:"
+ },
+ "D_playerInfo_GWjinengweili": {
+  "en": "Enemy Damage:",
+  "pt": "Dano do Inimigo:",
+  "ch": "敌人伤害:"
+ },
+ "D_playerInfo_GWshuaxinshulaing": {
+  "en": "Enemies:",
+  "pt": "Inimigos:",
+  "ch": "敌人数量:"
+ },
+ "D_playerInfo_GWyidongsudu": {
+  "en": "Enemy Agility:",
+  "pt": "Agilidade do Inimigo:",
+  "ch": "敌人移动速度:"
+ },
+ "D_playerInfo_JNDDchuantoucishu": {
+  "en": "Projectile Penetrations:",
+  "pt": "Penetrações do Projétil:",
+  "ch": "弹道穿透次数:"
+ },
+ "D_playerInfo_JNDDjituijuli": {
+  "en": "Projectile Knock-back",
+  "pt": "Recuo do Projétil",
+  "ch": "弹道击退距离"
+ },
+ "D_playerInfo_JNDDshecheng": {
+  "en": "Projectile Range:",
+  "pt": "Alcance do Projétil:",
+  "ch": "弹道射程:"
+ },
+ "D_playerInfo_JNDDshuliang": {
+  "en": "Projectile Amount Bonus:",
+  "pt": "Bônus de Quantidade de Projétil:",
+  "ch": "弹道数量加成:"
+ },
+ "D_playerInfo_JNDDsudu": {
+  "en": "Projectile Speed",
+  "pt": "Velocidade do Projétil",
+  "ch": "弹道速度"
+ },
+ "D_playerInfo_JNDDtanshecishu": {
+  "en": "Projectile Bounces:",
+  "pt": "Rebotes do Projétil:",
+  "ch": "弹道弹射次数:"
+ },
+ "D_playerInfo_JNchixu": {
+  "en": "Skill Duration:",
+  "pt": "Duração da Habilidade:",
+  "ch": "技能持续时间:"
+ },
+ "D_playerInfo_JNfanwei": {
+  "en": "Skill Radius:",
+  "pt": "Raio da Habilidade:",
+  "ch": "技能范围:"
+ },
+ "D_playerInfo_JNxixue": {
+  "en": "Leech Chance",
+  "pt": "Chance de Roubo de Vida",
+  "ch": "吸血概率"
+ },
+ "D_playerInfo_JNxixuebilv": {
+  "en": "Leech Rate",
+  "pt": "Taxa de Roubo de Vida",
+  "ch": "吸血比例"
+ },
+ "D_playerInfo_SDSXjiage": {
+  "en": "Store Refresh Price",
+  "pt": "Preço de Atualização da Loja",
+  "ch": "商店刷新价格"
+ },
+ "D_playerInfo_SDjiage": {
+  "en": "Store Price Modifier:",
+  "pt": "Modificador de Preço da Loja:",
+  "ch": "商店价格比例:"
+ },
+ "D_playerInfo_SDshuaxincishu": {
+  "en": "Free Store Refreshes:",
+  "pt": "Atualizações Grátis da Loja:",
+  "ch": "商店免费刷新:"
+ },
+ "D_playerInfo_ZHWchixu": {
+  "en": "Summoned Unit Duration:",
+  "pt": "Duração da Unidade Invocada:",
+  "ch": "召唤物持续时间:"
+ },
+ "D_playerInfo_ZHWgongsu": {
+  "en": "Summoned Unit Attack Speed",
+  "pt": "Velocidade de Ataque da Unidade Invocada",
+  "ch": "召唤物攻击速度"
+ },
+ "D_playerInfo_ZHWweili": {
+  "en": "Summoned Unit Damage Bonus:",
+  "pt": "Bônus de Dano da Unidade Invocada:",
+  "ch": "召唤物伤害加成:"
+ },
+ "D_playerInfo_baoji": {
+  "en": "Crit Chance",
+  "pt": "Chance Crítica",
+  "ch": "暴击概率"
+ },
+ "D_playerInfo_baojibeilv": {
+  "en": "Crit Rate",
+  "pt": "Multiplicador Crítico",
+  "ch": "暴击倍率"
+ },
+ "D_playerInfo_daozizhi": {
+  "en": "Blade",
+  "pt": "Lâmina",
+  "ch": "刀资质"
+ },
+ "D_playerInfo_enemyMaxhpfix": {
+  "en": "Enemy Max Vitality:",
+  "pt": "Vitalidade Máxima do Inimigo:",
+  "ch": "敌人最大体力:"
+ },
+ "D_playerInfo_fangyu": {
+  "en": "DEF",
+  "pt": "DEF",
+  "ch": "防御"
+ },
+ "D_playerInfo_fengzizh": {
+  "en": "Wind Root",
+  "pt": "Raiz de Vento",
+  "ch": "风灵根"
+ },
+ "D_playerInfo_gongji": {
+  "en": "ATK",
+  "pt": "ATQ",
+  "ch": "攻击"
+ },
+ "D_playerInfo_gongjisudu": {
+  "en": "Attack Speed",
+  "pt": "Velocidade de Ataque",
+  "ch": "攻击速度"
+ },
+ "D_playerInfo_huozizhi": {
+  "en": "Fire Root",
+  "pt": "Raiz de Fogo",
+  "ch": "火灵根"
+ },
+ "D_playerInfo_jianzizhi": {
+  "en": "Sword",
+  "pt": "Espada",
+  "ch": "剑资质"
+ },
+ "D_playerInfo_jingyanbeilv": {
+  "en": "EXP Bonus:",
+  "pt": "Bônus de EXP:",
+  "ch": "修为加成:"
+ },
+ "D_playerInfo_jituijuli": {
+  "en": "Knock-back Distance",
+  "pt": "Distância de Recuo",
+  "ch": "击退距离"
+ }
+}

@@ -1,0 +1,802 @@
+{
+ "careerAssessDesc8": {
+  "en": "You are glad to bring wounded peers back from death's door. 100 cultivators in their Last Breath received your kind help, and people titled you their Doctor Sage.",
+  "pt": "Você se alegra em trazer colegas feridos de volta do limiar da morte. 100 Cultivadores em seu Último Suspiro receberam sua gentil ajuda, e as pessoas lhe deram o Título de Doutor Sábio.",
+  "ch": "你在修仙路上热衷于救死扶伤，共帮助了100位即将消散元魂的修仙者重塑肉身，被人们誉为医圣转世。"
+ },
+ "careerAssessDesc9": {
+  "en": "Maybe you are the incarnation of an unknown deity of war. You engaged in numerous Death Fights and displayed your unrivaled skill, as well as your bloodthirst, to your opponents. A few were lucky enough to finish Body Reconstruction, but others dispersed and vanished into a strain of dust.",
+  "pt": "Talvez você seja a encarnação de uma desconhecida Divindade da guerra. Você se envolveu em inúmeras Lutas de Morte e exibiu sua Habilidade inigualável, bem como sua sede de Sangue, para seus oponentes. Alguns tiveram a sorte de completar a Reconstrução do Corpo, mas outros se dispersaram e desapareceram em uma nuvem de poeira.",
+  "ch": "你仿佛是为了战斗而生的，一生中经历了无数场生死决斗，战力超群，却嗜血好杀，败在你脚下的修仙者不计其数，其中大多数修仙者在被你杀死后都未能重塑肉身，最终化为八荒烟尘。"
+ },
+ "careerAssessDesc999": {
+  "en": "A journey into the emptiness is a path to ultimate perfection.",
+  "pt": "Uma jornada ao vazio é um caminho para a perfeição suprema.",
+  "ch": "空明其性,因静而能明,因清而能悦。"
+ },
+ "careerAssessTitle": {
+  "en": "You attain ascension, leaving plenty of legends...",
+  "pt": "Você atinge a ascensão, deixando muitas lendas...",
+  "ch": "仙者飞升去，八荒自留名"
+ },
+ "careerLogAskforCount": {
+  "en": "You requested items {0} times.",
+  "pt": "Você solicitou itens {0} vezes.",
+  "ch": "向他人索要道具{0}次。"
+ },
+ "careerLogBrotherCount": {
+  "en": "You took Sworn Brother {0} times.",
+  "pt": "Você fez Irmão de Juramento {0} vezes.",
+  "ch": "与他人结为义兄弟{0}次。"
+ },
+ "careerLogDaughterCount": {
+  "en": "You took Adoptive Daughter {0} times.",
+  "pt": "Você adotou Filha {0} vezes.",
+  "ch": "收他人为义女{0}次。"
+ },
+ "careerLogDigGraveCount": {
+  "en": "You raided {0} tombs.",
+  "pt": "Você invadiu {0} tumbas.",
+  "ch": "共盗墓{0}次"
+ },
+ "careerLogDiscoveryCount": {
+  "en": "You debated {0} times.",
+  "pt": "Você debateu {0} vezes.",
+  "ch": "共与他人论道{0}次。"
+ },
+ "careerLogDrillCount": {
+  "en": "You sparred {0} times.",
+  "pt": "Você treinou em combates {0} vezes.",
+  "ch": "共与他人切磋{0}次。"
+ },
+ "careerLogEntryWorld": {
+  "en": "{careerTime}, you entered this world.",
+  "pt": "{careerTime}, você entrou neste mundo.",
+  "ch": "{careerTime}，你初入鬼谷。"
+ },
+ "careerLogFairyLeague": {
+  "en": "{careerTime}, you joined Cultivator Alliance.",
+  "pt": "{careerTime}, você entrou para a Aliança dos Cultivadores.",
+  "ch": "{careerTime}，你加入了仙盟。"
+ },
+ "careerLogFairyLeagueLeader": {
+  "en": "{careerTime}, you became Cultivator Alliance's Master.",
+  "pt": "{careerTime}, você se tornou o Mestre da Aliança dos Cultivadores.",
+  "ch": "{careerTime}，你成为了仙盟盟主。"
+ },
+ "careerLogFatherCount": {
+  "en": "You took Adoptive Father {0} times.",
+  "pt": "Você aceitou {0} vezes um Pai Adotivo.",
+  "ch": "拜他人为义父{0}次。"
+ },
+ "careerLogFianceCount": {
+  "en": "You made Partner {0} times.",
+  "pt": "Você formou {0} Parcerias.",
+  "ch": "与他人结成道侣{0}次。"
+ },
+ "careerLogFirstBattleFail": {
+  "en": "{careerTime}, you engaged in your first fight against a cultivator called {0}, but was defeated.",
+  "pt": "{careerTime}, você travou sua primeira batalha contra um Cultivador chamado {0}, mas foi derrotado.",
+  "ch": "{careerTime}，你首次与其他修仙者进行战斗，对方是{0}，你技不如人，被对方打败了。"
+ },
+ "careerLogFirstBattleWin": {
+  "en": "{careerTime}, you engaged in your first fight against a cultivator called {0}, and won.",
+  "pt": "{careerTime}, você travou sua primeira batalha contra um Cultivador chamado {0} e venceu.",
+  "ch": "{careerTime}，你首次与其他修仙者进行战斗，对方是{0}，你技高一筹，获得了胜利。"
+ },
+ "careerLogFirstRoleBreedTaoistSeed": {
+  "en": "{careerTime}, you passed the Taoist Seed of {0} on to {1}.",
+  "pt": "{careerTime}, você passou a Semente Daoísta de {0} para {1}.",
+  "ch": "{careerTime}，你将{0}的道种传授给{1}。"
+ },
+ "careerLogFirstRoleEscape": {
+  "en": "{careerTime}, you escaped from the battle against {0} for the first time.",
+  "pt": "{careerTime}, você escapou pela primeira vez da batalha contra {0}.",
+  "ch": "{careerTime}，你在与{0}的战斗中，首次逃离战斗。"
+ },
+ "careerLogFirstRoleInviteFail": {
+  "en": "{careerTime}, you had to cancel the date with {0} near {1} due to an accident.",
+  "pt": "{careerTime}, você teve que cancelar o encontro com {0} perto de {1} devido a um acidente.",
+  "ch": "{careerTime}，与{0}邀约在{1}附近，途中出现了变故，双方未能如愿。"
+ },
+ "careerLogFirstRoleInviteSucc": {
+  "en": "{careerTime}, you went to your first date with {0} in a place near {1}.",
+  "pt": "{careerTime}, você foi ao seu primeiro encontro com {0} em um lugar perto de {1}.",
+  "ch": "{careerTime}，首次与{0}在{1}附近约会。"
+ },
+ "careerLogFirstRoleSave": {
+  "en": "{careerTime}, you gifted a {0} to {1} and helped a cultivator to revive for the first time.",
+  "pt": "{careerTime}, você deu um {0} a {1} e ajudou um Cultivador a reviver pela primeira vez.",
+  "ch": "{careerTime}，你赠送了一颗{0}给{1}，首次帮助他人重塑肉身。"
+ },
+ "careerLogFirstRoleStealSucc": {
+  "en": "{careerTime}, you made your first try to steal, aiming at {name|B}'s {0}.",
+  "pt": "{careerTime}, você fez sua primeira tentativa de roubo, visando o {0} de {name|B}.",
+  "ch": "{careerTime}，首次偷窃了{name|B}的{0}。"
+ },
+ "careerLogFirstRoleTrain": {
+  "en": "{careerTime}, you made your first Dual Cultivation with {0}.",
+  "pt": "{careerTime}, você realizou seu primeiro Cultivo Duplo com {0}.",
+  "ch": "{careerTime}，首次与{0}双修。"
+ },
+ "careerLogGeomanticCount": {
+  "en": "You did geomancy {0} times.",
+  "pt": "Você praticou geomancia {0} vezes.",
+  "ch": "共堪舆{0}次。"
+ },
+ "careerLogGiveCount": {
+  "en": "You gifted items {0} times.",
+  "pt": "Você presenteou itens {0} vezes.",
+  "ch": "向他人赠送道具{0}次。"
+ },
+ "careerLogHerbCount": {
+  "en": "You foraged for herbs {0} times.",
+  "pt": "Você coletou ervas {0} vezes.",
+  "ch": "共采药{0}次。"
+ },
+ "careerLogInviteCount": {
+  "en": "You went on dates {0} times.",
+  "pt": "Você teve encontros {0} vezes.",
+  "ch": "共与他人邀约{0}次。"
+ },
+ "careerLogKillBossCount": {
+  "en": "You killed {0} Mythical Beasts.",
+  "pt": "Você matou {0} Feras Míticas.",
+  "ch": "共消灭大妖兽{0}只。"
+ },
+ "careerLogKillMonsterCount": {
+  "en": "You killed {0} monsters.",
+  "pt": "Você matou {0} monstros.",
+  "ch": "共消灭小怪{0}只。"
+ },
+ "careerLogKillNPCCount": {
+  "en": "You defeated cultivators {0} times.",
+  "pt": "Você derrotou cultivadores {0} vezes.",
+  "ch": "共击败修仙者{0}次。"
+ },
+ "careerLogLoverCount": {
+  "en": "You made Spouse {0} times.",
+  "pt": "Você se casou {0} vezes.",
+  "ch": "与他人结成夫妻{0}次。"
+ },
+ "careerLogMasterCount": {
+  "en": "You asked others to be Master {0} times.",
+  "pt": "Você pediu a outros para serem seu Mestre {0} vezes.",
+  "ch": "共拜师{0}次。"
+ },
+ "careerLogMineCount": {
+  "en": "You mined for ores {0} times.",
+  "pt": "Você minerou minérios {0} vezes.",
+  "ch": "共采矿{0}次。"
+ },
+ "careerLogMotherCount": {
+  "en": "You took Adoptive Mother {0} times.",
+  "pt": "Você tomou uma Mãe Adotiva {0} vezes.",
+  "ch": "拜他人为义母{0}次。"
+ },
+ "careerLogRefineElixirCount": {
+  "en": "You made elixir {0} times.",
+  "pt": "Você refinou elixir {0} vezes.",
+  "ch": "共炼丹{0}次。"
+ },
+ "careerLogRefineWeaponCount": {
+  "en": "You forged artifact {0} times.",
+  "pt": "Você forjou artefato {0} vezes.",
+  "ch": "共炼器{0}次。"
+ },
+ "careerLogRelationBreakWith": {
+  "en": "{careerTime}, you cut relationship with {0}.",
+  "pt": "{careerTime}, você cortou relações com {0}.",
+  "ch": "{careerTime}，你与{0}断绝了关系。"
+ },
+ "careerLogRelationBrother": {
+  "en": "{careerTime}, you made {0} your Sworn Brother.",
+  "pt": "{careerTime}, você fez {0} seu Irmão Juramentado.",
+  "ch": "{careerTime}，你与{0}结为了义兄弟。"
+ },
+ "careerLogRelationChildrenBackM": {
+  "en": "{careerTime}, you took {1} your Adoptive Son.",
+  "pt": "{careerTime}, você tomou {1} como Filho Adotivo.",
+  "ch": "{careerTime}，你收了{1}为义子。"
+ },
+ "careerLogRelationChildrenBackW": {
+  "en": "{careerTime}, you took {1} your Adoptive Daughter.",
+  "pt": "{careerTime}, você tomou {1} como Filha Adotiva.",
+  "ch": "{careerTime}，你收了{1}为义女。"
+ },
+ "careerLogRelationLover": {
+  "en": "{careerTime}, you made {0} your Partner.",
+  "pt": "{careerTime}, você fez de {0} seu(sua) Parceiro(a) Daoísta.",
+  "ch": "{careerTime}，你与{0}结为了道侣。"
+ },
+ "careerLogRelationMarry": {
+  "en": "{careerTime}, you married {0} on the wedding ceremony held in {1}.",
+  "pt": "{careerTime}, você se casou com {0} na cerimônia de casamento realizada em {1}.",
+  "ch": "{careerTime}，你与{0}在{1}举办了婚事，与对方结为了夫妻。"
+ },
+ "careerLogRelationMaster": {
+  "en": "{careerTime}, you took {1} your Master.",
+  "pt": "{careerTime}, você aceitou {1} como seu Mestre.",
+  "ch": "{careerTime}，你拜了{1}为师父。"
+ },
+ "careerLogRelationParentbackM": {
+  "en": "{careerTime}, you took {1} your Adoptive Father.",
+  "pt": "{careerTime}, você aceitou {1} como seu Pai Adotivo.",
+  "ch": "{careerTime}，你拜了{1}为义父。"
+ },
+ "careerLogRelationParentbackW": {
+  "en": "{careerTime}, you took {1} your Adoptive Mother.",
+  "pt": "{careerTime}, você aceitou {1} como sua Mãe Adotiva.",
+  "ch": "{careerTime}，你拜了{1}为义母。"
+ },
+ "careerLogRelationSister": {
+  "en": "{careerTime}, you made {0} your Sworn Sister.",
+  "pt": "{careerTime}, você fez de {0} sua Irmã Jurada.",
+  "ch": "{careerTime}，你与{0}结为了义姊妹。"
+ },
+ "careerLogRelationStudent": {
+  "en": "{careerTime}, you took {1} your Apprentice.",
+  "pt": "{careerTime}, você aceitou {1} como seu Aprendiz.",
+  "ch": "{careerTime}，你收了{1}为徒弟。"
+ },
+ "careerLogRoleAppellation1102": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Spear Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lança de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一枪修。"
+ },
+ "careerLogRoleAppellation1103": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Sword Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Espada de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一剑修。"
+ },
+ "careerLogRoleAppellation1104": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Fist Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Punho de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一拳修。"
+ },
+ "careerLogRoleAppellation1105": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Palm Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Palma de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一掌修。"
+ },
+ "careerLogRoleAppellation1106": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Finger Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Dedo de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一指修。"
+ },
+ "careerLogRoleAppellation1107": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Fire Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Fogo de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一火修。"
+ },
+ "careerLogRoleAppellation1108": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Water Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Água de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一水修。"
+ },
+ "careerLogRoleAppellation1109": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Lightning Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Relâmpago de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一雷修。"
+ },
+ "careerLogRoleAppellation1110": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Wind Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Vento de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一风修。"
+ },
+ "careerLogRoleAppellation1111": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Earth Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Terra de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一土修。"
+ },
+ "careerLogRoleAppellation1112": {
+  "en": "{careerTime}, you won the Taoist Title of Hua Feng No. 1 Wood Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Madeira de Hua Feng.",
+  "ch": "{careerTime}，你获得了道号华封州第一木修。"
+ },
+ "careerLogRoleAppellation1201": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Blade Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lâmina de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一刀修。"
+ },
+ "careerLogRoleAppellation1202": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Spear Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lança de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一枪修。"
+ },
+ "careerLogRoleAppellation1203": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Sword Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Espada de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一剑修。"
+ },
+ "careerLogRoleAppellation1204": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Fist Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Punho de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一拳修。"
+ },
+ "careerLogRoleAppellation1205": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Palm Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Palma de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一掌修。"
+ },
+ "careerLogRoleAppellation1206": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Finger Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Dedo de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一指修。"
+ },
+ "careerLogRoleAppellation1207": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Fire Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Fogo de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一火修。"
+ },
+ "careerLogRoleAppellation1208": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Water Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Água de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一水修。"
+ },
+ "careerLogRoleAppellation1209": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Lightning Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Relâmpago de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一雷修。"
+ },
+ "careerLogRoleAppellation1210": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Wind Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Vento de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一风修。"
+ },
+ "careerLogRoleAppellation1211": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Earth Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Terra de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一土修。"
+ },
+ "careerLogRoleAppellation1212": {
+  "en": "{careerTime}, you won the Taoist Title of Yun Mo No. 1 Wood Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Madeira de Yun Mo.",
+  "ch": "{careerTime}，你获得了道号云陌州第一木修。"
+ },
+ "careerLogRoleAppellation1301": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Blade Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lâmina de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一刀修。"
+ },
+ "careerLogRoleAppellation1302": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Spear Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lança de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一枪修。"
+ },
+ "careerLogRoleAppellation1303": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Sword Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Espada de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一剑修。"
+ },
+ "careerLogRoleAppellation1304": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Fist Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Punho de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一拳修。"
+ },
+ "careerLogRoleAppellation1305": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Palm Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Palma de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一掌修。"
+ },
+ "careerLogRoleAppellation1306": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Finger Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Dedo de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一指修。"
+ },
+ "careerLogRoleAppellation1307": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Fire Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Fogo de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一火修。"
+ },
+ "careerLogRoleAppellation1308": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Water Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Água de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一水修。"
+ },
+ "careerLogRoleAppellation1309": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Lightning Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Relâmpago de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一雷修。"
+ },
+ "careerLogRoleAppellation1310": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Wind Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Vento de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一风修。"
+ },
+ "careerLogRoleAppellation1311": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Earth Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Terra de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一土修。"
+ },
+ "careerLogRoleAppellation1312": {
+  "en": "{careerTime}, you won the Taoist Title of Mu Xian No. 1 Wood Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Madeira de Mu Xian.",
+  "ch": "{careerTime}，你获得了道号暮仙州第一木修。"
+ },
+ "careerLogRoleAppellation1401": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Blade Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lâmina do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一刀修。"
+ },
+ "careerLogRoleAppellation1402": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Spear Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Lança do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一枪修。"
+ },
+ "careerLogRoleAppellation1403": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Sword Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Espada do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一剑修。"
+ },
+ "careerLogRoleAppellation1404": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Fist Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Punho do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一拳修。"
+ },
+ "careerLogRoleAppellation1405": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Palm Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Palma do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一掌修。"
+ },
+ "careerLogRoleAppellation1406": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Finger Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Dedo do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一指修。"
+ },
+ "careerLogRoleAppellation1407": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Fire Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Fogo do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一火修。"
+ },
+ "careerLogRoleAppellation1408": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Water Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Água do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一水修。"
+ },
+ "careerLogRoleAppellation1409": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Lightning Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Relâmpago do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一雷修。"
+ },
+ "careerLogRoleAppellation1410": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Wind Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Vento do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一风修。"
+ },
+ "careerLogRoleAppellation1411": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Earth Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Terra do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一土修。"
+ },
+ "careerLogRoleAppellation1412": {
+  "en": "{careerTime}, you won the Taoist Title of World No. 1 Wood Cultivator.",
+  "pt": "{careerTime}, você conquistou o título daoísta de Nº 1 em Madeira do Mundo.",
+  "ch": "{careerTime}，你获得了道号八荒第一木修。"
+ },
+ "careerLogRoleChatCount": {
+  "en": "You talked to others {0} times.",
+  "pt": "Você conversou com outros {0} vezes.",
+  "ch": "共与他人交谈{0}次。"
+ },
+ "careerLogSchoolBigFight": {
+  "en": "{careerTime}, you participated in Sect Tournament with disciples and won First Place for the first time.",
+  "pt": "{careerTime}, você participou do Torneio da Seita com discípulos e venceu o Primeiro Lugar pela primeira vez.",
+  "ch": "{careerTime}，你带领宗门弟子参与了宗门大比，并首次取得了第一。"
+ },
+ "careerLogSchoolJoin": {
+  "en": "{careerTime}, you passed {0}'s Sect Tryouts and became its {2}.",
+  "pt": "{careerTime}, você passou na seleção da Seita {0} e se tornou seu {2}.",
+  "ch": "{careerTime}，你参加了{0}的宗门小比并脱颖而出，加入了宗门成为了{2}。"
+ },
+ "careerLogSchoolMain": {
+  "en": "{careerTime}, you united {0} and became its {1}.",
+  "pt": "{careerTime}, você unificou {0} e se tornou {1}.",
+  "ch": "{careerTime}，你一统{0}，成为了{1}。"
+ },
+ "careerLogSchoolPost": {
+  "en": "{careerTime}, you became {0}'s {1}.",
+  "pt": "{careerTime}, você foi promovido a {1} em {0}.",
+  "ch": "{careerTime}，你在{0}晋升成为{1}。"
+ },
+ "careerLogSisterCount": {
+  "en": "You took Sworn Sister {0} times.",
+  "pt": "Você se tornou Irmã Jurada {0} vezes.",
+  "ch": "与他人结为义姊妹{0}次。"
+ },
+ "careerLogSonCount": {
+  "en": "You took Adoptive Son {0} times.",
+  "pt": "Você adotou Filhos {0} vezes.",
+  "ch": "收他人为义子{0}次。"
+ },
+ "careerLogStealCount": {
+  "en": "You stole items {0} times.",
+  "pt": "Você roubou itens {0} vezes.",
+  "ch": "共偷窃他人{0}次。"
+ },
+ "careerLogStealedCount": {
+  "en": "Your items were stolen {0} times.",
+  "pt": "Seus itens foram roubados {0} vezes.",
+  "ch": "被他人偷窃{0}次。"
+ },
+ "careerLogStudentCount": {
+  "en": "You asked others to be Apprentice {0} times.",
+  "pt": "Você aceitou Aprendizes {0} vezes.",
+  "ch": "共收徒{0}次。"
+ },
+ "careerLogSymbolCount": {
+  "en": "You made talismans {0} times.",
+  "pt": "Você criou talismãs {0} vezes.",
+  "ch": "共画符{0}次。"
+ },
+ "careerLogTrainCount": {
+  "en": "You performed Dual Cultivation {0} times.",
+  "pt": "Você realizou Cultivo Dual {0} vezes.",
+  "ch": "共与他人双修{0}次。"
+ },
+ "careerLogUpgradeFail": {
+  "en": "{careerTime}, you tried to reach {0} but failed.",
+  "pt": "{careerTime}, você tentou alcançar {0} mas falhou.",
+  "ch": "{careerTime}，你尝试进行{0}失败。"
+ },
+ "careerPressTip": {
+  "en": "Press and hold LMB",
+  "pt": "Mantenha pressionado o botão esquerdo do mouse",
+  "ch": "按住鼠标左键"
+ },
+ "careerPressTip02": {
+  "en": "to speed up",
+  "pt": "para acelerar",
+  "ch": "加速"
+ },
+ "careerSumLogTitle": {
+  "en": "Moments in an eventful career shine like stars...",
+  "pt": "Momentos de uma carreira agitada brilham como estrelas...",
+  "ch": "红尘多少事，滚滚长河中"
+ },
+ "careerTime": {
+  "en": "Year {0} Month {1}",
+  "pt": "Ano {0} Mês {1}",
+  "ch": "{0}年{1}月"
+ },
+ "careerTimeLogTitle": {
+  "en": "You traveled a long way into Tian Yuan Mountain...",
+  "pt": "Você percorreu um longo caminho até a Montanha Tian Yuan...",
+  "ch": "危危天元山，漫漫登仙路"
+ },
+ "careerViewTip": {
+  "en": "Mouse Wheel",
+  "pt": "Roda do mouse",
+  "ch": "鼠标滚轮"
+ },
+ "careerViewTip02": {
+  "en": "to scroll through records",
+  "pt": "para rolar os registros",
+  "ch": "上下滑动查看记录"
+ },
+ "casual_event_cost_type1": {
+  "en": "Time needed: {0}d",
+  "pt": "Tempo: {0}d",
+  "ch": "消耗　{0}天"
+ },
+ "casual_event_cost_type2": {
+  "en": "Requires {0}",
+  "pt": "Requer {0}",
+  "ch": "需要　{0}"
+ },
+ "cautiousTacticScope": {
+  "en": "Wait for an opportunity",
+  "pt": "Aguardar uma oportunidade",
+  "ch": "伺机而动"
+ },
+ "chat_sinian": {
+  "en": "I've missed you",
+  "pt": "Senti sua falta",
+  "ch": "表达思念"
+ },
+ "chat_tanlunlichang": {
+  "en": "Discuss Views",
+  "pt": "Discutir posições",
+  "ch": "谈论立场"
+ },
+ "chat_tanlunmouren": {
+  "en": "Discuss {0}",
+  "pt": "Discutir {0}",
+  "ch": "谈论{0}"
+ },
+ "chat_tanlunzongmen": {
+  "en": "Discuss {0}",
+  "pt": "Discutir {0}",
+  "ch": "谈论{0}"
+ },
+ "chat_xianliao": {
+  "en": "Small Talk",
+  "pt": "Bate-papo",
+  "ch": "闲聊"
+ },
+ "chicken_gongjisudu": {
+  "en": "Attack Speed",
+  "pt": "Velocidade de Ataque",
+  "ch": "攻击速度"
+ },
+ "chicken_xianjicao": {
+  "en": "Immortal Skill Slot",
+  "pt": "Slot de Habilidade Imortal",
+  "ch": "仙技槽"
+ },
+ "chicken_xianlidian": {
+  "en": "Immortal Power Pts",
+  "pt": "Pontos de Poder Imortal",
+  "ch": "仙力点"
+ },
+ "chickenskillname_2820011": {
+  "en": "Special - Flame Ray",
+  "pt": "Especial - Rajada de Chama",
+  "ch": "绝·火神炮"
+ },
+ "chickenskillname_2820021": {
+  "en": "Special - Blazing Meteors",
+  "pt": "Especial - Meteoros Flamejantes",
+  "ch": "绝·天火降临"
+ },
+ "chickenskillname_2824031": {
+  "en": "Skysplitting Cut",
+  "pt": "Corte que Rasga os Céus",
+  "ch": "断天一剑"
+ },
+ "chickenskillname_2824041": {
+  "en": "Moon Chaser",
+  "pt": "Perseguidor da Lua",
+  "ch": "流星赶月"
+ },
+ "chickenskillname_2824051": {
+  "en": "Clattering Bells",
+  "pt": "Sinos Retintindo",
+  "ch": "銮铃之声"
+ },
+ "chickenskillname_2824061": {
+  "en": "Divine Wheels",
+  "pt": "Roda Divina Dançante",
+  "ch": "天舞宝轮"
+ },
+ "chickenskillname_2825011": {
+  "en": "Field of Thunderstorm",
+  "pt": "Domínio da Tempestade",
+  "ch": "绝影霹雳"
+ },
+ "chickenskillname_2825021": {
+  "en": "Souleater’s Flame",
+  "pt": "Chama Devoradora de Almas",
+  "ch": "噬魂紫焰"
+ },
+ "chickenskillname_2825031": {
+  "en": "Steeds of Thunderbolt",
+  "pt": "Corcéis do Trovão",
+  "ch": "爪黄飞电"
+ },
+ "chickenskillname_2825041": {
+  "en": "Ray of Incineration",
+  "pt": "Raio Incinerante",
+  "ch": "魔贯光炮"
+ },
+ "chickenskillname_2825051": {
+  "en": "Flash of Lightning",
+  "pt": "Lampejo de Relâmpago",
+  "ch": "疾光电影"
+ },
+ "chickenskillname_2825061": {
+  "en": "Eagle’s Flight",
+  "pt": "Voo da Águia",
+  "ch": "鹰击长空"
+ },
+ "chickenskillname_2825071": {
+  "en": "Raptor’s Plunge",
+  "pt": "Mergulho do Raptor",
+  "ch": "猛禽狂袭"
+ },
+ "chickenskillname_2825081": {
+  "en": "Set Evil Against Evil",
+  "pt": "Usar o Maligno contra o Maligno",
+  "ch": "驱虎吞狼"
+ },
+ "chickenskillname_2825091": {
+  "en": "Ultimate Sword Array",
+  "pt": "Formação Suprema da Espada",
+  "ch": "无极剑阵"
+ },
+ "chickenskillname_2826011": {
+  "en": "A Half Victory",
+  "pt": "Impulso Inicial",
+  "ch": "一鼓作气"
+ },
+ "chickenskillname_2826021": {
+  "en": "Blessing Shield",
+  "pt": "Escudo da Benção",
+  "ch": "神佑之盾"
+ },
+ "chongsu": {
+  "en": "Reshape",
+  "pt": "Remodelar",
+  "ch": "重塑"
+ },
+ "chuansong": {
+  "en": "Teleport",
+  "pt": "Teleporte",
+  "ch": "传送"
+ },
+ "compareUnitAreaGrade": {
+  "en": "Determine character 1's Realm and compare it with the Realm of the area that Character 2 is currently in",
+  "pt": "Determinar o Reino do personagem 1 e compará-lo com o Reino da área onde o personagem 2 está atualmente",
+  "ch": "判断角色1的境界对比角色2的当前位置所在区域境界"
+ },
+ "conclusionText1001": {
+  "en": "\\tWe, the developers from Guigu Studio, would like to express our heartfelt gratitude to our peer cultivators worldwide. Thank you for your four years of support since 2019, when our game's first lines of code were written. Your advice, insights, and suggestions are always a source of great inspiration for us, and we know we are all persons endeavoring to rewrite our destinies, no matter how difficult the path would be.\n\\tThe story in Tian Yuan Mountain has ended, but our story as individuals will continue. Dear cultivators, may you have an incredible journey and a steadfast determination to challenge the impossible.",
+  "pt": "\\tNós, os desenvolvedores do Estúdio Guigu, gostaríamos de expressar nossa mais profunda gratidão aos nossos companheiros cultivadores ao redor do mundo. Obrigado pelo apoio nos quatro anos desde 2019, quando as primeiras linhas de código do jogo foram escritas. Seus conselhos, percepções e sugestões sempre foram uma grande fonte de inspiração para nós, e sabemos que todos estamos nos esforçando para reescrever nossos destinos, não importa quão difícil seja o caminho.\n\\tA história na Montanha Tian Yuan terminou, mas nossa jornada como indivíduos continua. Queridos cultivadores, que vocês tenham uma jornada incrível e uma determinação firme para desafiar o impossível.",
+  "ch": "\\t从2019年第一行代码开始，磕磕碰碰至今已四年，感谢全球各路道友的热情支持、建议、批评与指正。八荒修行的路途中，我们有共同的汗水与热血，再大的困难亦挡不住我等逆天改命之心。\n\\t天元山的故事落下帷幕，现实中的故事才刚刚开始，我想，众多天命道友亦能在实际生活与工作中，克服困难，再创佳绩。"
+ },
+ "conclusionText1002": {
+  "en": "\\tWe are also profoundly grateful for the generous support and encouragement from game media, fan content creators, livestreamers, and platforms. Thanks for your talent and devotion. Your creativity has enlivened our virtual world and brought Tale of Immortal to countless others.\n\\tWe are fortunate to share the moment with you, where the Tale is whole, the final chapter penned, and the story complete. We will strive to bring new worlds of splendid adventures to players everywhere. And as always, may we all enjoy good health, and may the game industry's future shine for us all!\n\n\\t\\t\\t\\t\\tGuigu Studio\n\\t\\t\\t\\t\\tFebruary 2023",
+  "pt": "\\tTambém somos profundamente gratos pelo generoso apoio e incentivo dos veículos de jogos, criadores de conteúdo, streamers e plataformas. Obrigado pelo talento e dedicação. Sua criatividade deu vida ao nosso mundo virtual e trouxe Tale of Immortal para incontáveis outras pessoas.\n\\tSomos afortunados por compartilhar esse momento com vocês, onde a História está completa, o capítulo final escrito e a jornada terminada. Nos esforçaremos para trazer novos mundos de aventuras esplêndidas para jogadores em todos os lugares. E, como sempre, que todos nós desfrutemos de boa saúde e que o futuro da indústria de jogos brilhe para todos nós!\n\n\\t\\t\\t\\t\\tEstúdio Guigu\n\\t\\t\\t\\t\\tFevereiro de 2023",
+  "ch": "\\t感谢各位玩家、媒体朋友、自媒体、UP主、主播以及平台的支持与厚爱，因为你们的支持与分享，很多人知道了鬼谷八荒，以及八荒中的好笑的故事。\n\\t我们是幸运的，以后更需要不懈的努力去制作更好的产品，希望行业生态更好，大家更好，身体健康！\n\n\\t\\t\\t\\t  鬼谷工作室\n\\t\\t\\t\\t  2023年2月"
+ },
+ "conditionDesc173201": {
+  "en": "Not enough Soul Devouring Stones",
+  "pt": "Pedras Devoradoras de Alma insuficientes",
+  "ch": "噬魂石不足"
+ },
+ "conditionDesc173202": {
+  "en": "Not enough Soul Devouring Stones",
+  "pt": "Pedras Devoradoras de Alma insuficientes",
+  "ch": "噬魂石不足"
+ },
+ "conditionDesc173203": {
+  "en": "Not enough Soul Devouring Stones",
+  "pt": "Pedras Devoradoras de Alma insuficientes",
+  "ch": "噬魂石不足"
+ },
+ "conditionDesc173204": {
+  "en": "Not enough Soul Devouring Stones",
+  "pt": "Pedras Devoradoras de Alma insuficientes",
+  "ch": "噬魂石不足"
+ },
+ "cost_daoju": {
+  "en": "Not enough items!",
+  "pt": "Itens insuficientes!",
+  "ch": "道具不足！"
+ },
+ "cost_tianshu": {
+  "en": "Not enough days left in this month.",
+  "pt": "Dias restantes insuficientes neste mês.",
+  "ch": "本月天数不足！"
+ },
+ "createPlayer_benpao": {
+  "en": "Sprint",
+  "pt": "Corrida",
+  "ch": "奔跑"
+ },
+ "createPlayer_fanhuicaidan": {
+  "en": "Main Menu",
+  "pt": "Menu Principal",
+  "ch": "返回主界面"
+ },
+ "createPlayer_gongji": {
+  "en": "Attack",
+  "pt": "Ataque",
+  "ch": "攻击"
+ },
+ "createPlayer_huode": {
+  "en": "Obtained:",
+  "pt": "Obtido:",
+  "ch": "获得："
+ },
+ "createPlayer_wanjiazhuanshu": {
+  "en": "Player Exclusive",
+  "pt": "Exclusivo do Jogador",
+  "ch": "玩家专属"
+ },
+ "cundang_chongqi": {
+  "en": "Please restart the game",
+  "pt": "Por favor, reinicie o jogo",
+  "ch": "请重启游戏"
+ }
+}

@@ -1,0 +1,1202 @@
+{
+ "cundang_gengxin1": {
+  "en": "Wait for the game to be updated or contact the devs.",
+  "pt": "Aguarde a atualização do jogo ou entre em contato com os desenvolvedores.",
+  "ch": "请等待游戏更新，或联系开发团队。"
+ },
+ "cundang_gengxin2": {
+  "en": "Error occurred while loading this save. Delete it?\n(You can wait for the game to be updated or contact the devs.)",
+  "pt": "Erro ao carregar o salvamento. Excluí-lo?\n(Aguarde atualizações do jogo ou contate os desenvolvedores.)",
+  "ch": "存档读取错误，是否删除存档？\n（可等待游戏更新版本补丁，或联系开发团队。）"
+ },
+ "cundang_shengji": {
+  "en": "This save is being updated. Please wait.",
+  "pt": "Salvamento sendo atualizado. Aguarde!!!",
+  "ch": "存档升级中，请等待！！！"
+ },
+ "cundangchuli1": {
+  "en": "Processing the save: {0}...",
+  "pt": "Processando o salvamento: {0}...",
+  "ch": "正在处理存档{0}！"
+ },
+ "cundangshengji": {
+  "en": "The save is being updated. Closing the game now will corrupt the save!",
+  "pt": "Salvamento sendo atualizado. Não feche o jogo ou o salvamento será corrompido!!!",
+  "ch": "存档升级中，请勿关闭游戏，否则将导致存档损坏！！！"
+ },
+ "cundangtishi": {
+  "en": "Click Save to enter the game",
+  "pt": "Clique em Salvar para entrar no jogo",
+  "ch": "点击存档进入游戏"
+ },
+ "cundangxiufu": {
+  "en": "The save is being updated. Closing the game now will corrupt the save!",
+  "pt": "Salvamento sendo atualizado. Não feche o jogo ou o salvamento será corrompido!!!",
+  "ch": "存档升级中，请勿关闭游戏，否则将导致存档损坏！！！"
+ },
+ "cxsj": {
+  "en": "Duration: {0}s",
+  "pt": "Duração: {0}s",
+  "ch": "持续时间：{0}秒"
+ },
+ "daohao_yiwangtishi": {
+  "en": "After unlearning all {0} Martial Skill, Spiritual Skill, and Special Skill, you will lose the {1} Taoist Title. Confirm unlearning?",
+  "pt": "Após esquecer todas as {0} Técnica Marcial, Técnica Espiritual e Técnica Especial, você perderá o {1} Título Daoísta. Confirmar esquecimento?",
+  "ch": "遗忘所有{0}的武技、灵技与绝技后，你将会失去{1}的道号，是否确认遗忘？"
+ },
+ "daoru_tishi1": {
+  "en": "Import global data? (Key bindings, unlocked difficulty levels, etc.)",
+  "pt": "Importar dados globais? (Configurações de teclas, níveis de dificuldade desbloqueados, etc.)",
+  "ch": "是否导入全局数据？（键位设置、难度解锁等）"
+ },
+ "decorate_shuxingdayu": {
+  "en": "Entering this area requires {0} to be higher than {1}",
+  "pt": "Entrar nesta área requer que {0} seja maior que {1}",
+  "ch": "{0}必须大于{1}才能进入此区域"
+ },
+ "decorate_shuxingdengyu": {
+  "en": "Entering this area requires {0} to be {1}",
+  "pt": "Entrar nesta área requer que {0} seja {1}",
+  "ch": "{0}必须等于{1}才能进入此区域"
+ },
+ "decorate_shuxingxiaoyu": {
+  "en": "Entering this area requires {0} to be lower than {1}",
+  "pt": "Entrar nesta área requer que {0} seja menor que {1}",
+  "ch": "{0}必须小于{1}才能进入此区域"
+ },
+ "defaultKeysGroupText_1": {
+  "en": "Key Bindings (In Combat)",
+  "pt": "Atalhos (Em Combate)",
+  "ch": "战斗内键位"
+ },
+ "defaultKeysGroupText_2": {
+  "en": "Key Bindings (World Map)",
+  "pt": "Atalhos (Mapa Mundi)",
+  "ch": "大地图键位"
+ },
+ "defaultKeysKeyText_100": {
+  "en": "Up",
+  "pt": "Cima",
+  "ch": "上"
+ },
+ "defaultKeysKeyText_101": {
+  "en": "Down",
+  "pt": "Baixo",
+  "ch": "下"
+ },
+ "defaultKeysKeyText_102": {
+  "en": "Left",
+  "pt": "Esquerda",
+  "ch": "左"
+ },
+ "defaultKeysKeyText_103": {
+  "en": "Right",
+  "pt": "Direita",
+  "ch": "右"
+ },
+ "defaultKeysKeyText_107": {
+  "en": "Ultimate Skill",
+  "pt": "Técnica Suprema",
+  "ch": "神通"
+ },
+ "defaultKeysKeyText_108": {
+  "en": "Item 1",
+  "pt": "Item 1",
+  "ch": "道具1"
+ },
+ "defaultKeysKeyText_109": {
+  "en": "Item 2",
+  "pt": "Item 2",
+  "ch": "道具2"
+ },
+ "defaultKeysKeyText_110": {
+  "en": "Item 3",
+  "pt": "Item 3",
+  "ch": "道具3"
+ },
+ "defaultKeysKeyText_111": {
+  "en": "Item 4",
+  "pt": "Item 4",
+  "ch": "道具4"
+ },
+ "defaultKeysKeyText_112": {
+  "en": "Item 5",
+  "pt": "Item 5",
+  "ch": "道具5"
+ },
+ "defaultKeysKeyText_113": {
+  "en": "Interact",
+  "pt": "Interagir",
+  "ch": "互动"
+ },
+ "defaultKeysKeyText_114": {
+  "en": "Field",
+  "pt": "Domínio",
+  "ch": "领域"
+ },
+ "defaultKeysKeyText_200": {
+  "en": "Up",
+  "pt": "Cima",
+  "ch": "上"
+ },
+ "defaultKeysKeyText_201": {
+  "en": "Down",
+  "pt": "Baixo",
+  "ch": "下"
+ },
+ "defaultKeysKeyText_202": {
+  "en": "Left",
+  "pt": "Esquerda",
+  "ch": "左"
+ },
+ "defaultKeysKeyText_203": {
+  "en": "Right",
+  "pt": "Direita",
+  "ch": "右"
+ },
+ "defaultKeysKeyText_205": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "技能"
+ },
+ "defaultKeysKeyText_206": {
+  "en": "Inventory",
+  "pt": "Inventário",
+  "ch": "背包"
+ },
+ "defaultKeysKeyText_207": {
+  "en": "Mission",
+  "pt": "Missão",
+  "ch": "任务"
+ },
+ "defaultKeysKeyText_208": {
+  "en": "Mail",
+  "pt": "Correio",
+  "ch": "信件"
+ },
+ "defaultKeysKeyText_211": {
+  "en": "Artisanship",
+  "pt": "Artesanato",
+  "ch": "技艺"
+ },
+ "defaultKeysKeyText_212": {
+  "en": "Skip Month",
+  "pt": "Pular Mês",
+  "ch": "跳过本月"
+ },
+ "defaultKeysKeyText_214": {
+  "en": "Artifacts",
+  "pt": "Artefatos",
+  "ch": "神器"
+ },
+ "defaultKeysKeyText_215": {
+  "en": "Heavenly Art",
+  "pt": "Arte Imortal",
+  "ch": "仙法"
+ },
+ "defendTacticScope": {
+  "en": "Conceal strength and wait",
+  "pt": "Esconder força e esperar",
+  "ch": "韬光养晦"
+ },
+ "defendTacticScopeDes": {
+  "en": "Protect your own territory, and do not initiate attacks against the enemy.",
+  "pt": "Proteger seu território e não iniciar ataques contra o inimigo.",
+  "ch": "坚守己方的领土，不主动对敌方发起进攻。"
+ },
+ "delecttishi": {
+  "en": "Deletion is not recoverable",
+  "pt": "A exclusão não pode ser recuperada",
+  "ch": "删除将不可恢复"
+ },
+ "devilAbsorbQTETip": {
+  "en": "Press E to Absorb",
+  "pt": "Pressione E para Absorver",
+  "ch": "按E键吸收妖兽"
+ },
+ "devilAbsorbQTETip1": {
+  "en": "Absorb Failed",
+  "pt": "Absorção Falhou",
+  "ch": "吸收失败"
+ },
+ "devilAbsorbQTETip2": {
+  "en": "Press",
+  "pt": "Pressione",
+  "ch": "按"
+ },
+ "devilAbsorbQTETip3": {
+  "en": "to Absorb",
+  "pt": "para Absorver",
+  "ch": "键吸收妖兽"
+ },
+ "devilDemon_damage": {
+  "en": "The Mythical Gourd is broken",
+  "pt": "A Cabaça Mítica está quebrada",
+  "ch": "炼妖壶已损坏"
+ },
+ "dialogRoleChat61": {
+  "en": "(What do you want to talk about?)",
+  "pt": "(Sobre o que você quer falar?)",
+  "ch": "（要与对方谈论什么？）"
+ },
+ "dieFortuitous610061": {
+  "en": "Devoured by a <color=#ff0000>large, bloody mouth</color>",
+  "pt": "Devorado por uma <color=#ff0000>boca sangrenta gigante</color>",
+  "ch": "死于<color=#ff0000>崖底巨兽</color>之口"
+ },
+ "difDieTitle": {
+  "en": "Other",
+  "pt": "Outros",
+  "ch": "其它说明"
+ },
+ "difRoleTitle": {
+  "en": "Character",
+  "pt": "Personagem",
+  "ch": "角色"
+ },
+ "difUnitTitle": {
+  "en": "Monster",
+  "pt": "Monstro",
+  "ch": "怪物"
+ },
+ "diff5Info1": {
+  "en": "You only have 1 Bagua Jade Point in Chaos mode. If you die after already using it, your save will be permanently deleted!\nIn Chaos mode, <r>the Eye of Providence is broken after you die and cannot be repaired!</r>\nThe monsters in this mode are also extremely ferocious!\nSo are the NPCs in the game!\nBut you'll find better Manuals in various towns and sects.",
+  "pt": "Você só tem 1 ponto de Jade Bagua no modo Caos. Se você morrer depois de já tê-lo usado, seu save será permanentemente deletado!\nNo modo Caos, <r>o Olho da Providência é quebrado depois que você morre e não pode ser reparado!</r>\nOs monstros neste modo também são extremamente ferozes!\nAssim como os NPCs no jogo!\nMas você encontrará melhores Manuais em várias vilas e seitas.",
+  "ch": "洪荒世界中双鱼佩只有1点充能，当充能点数用完之后，死亡即会删档！\n洪荒世界中<r>死亡后昊天眼破损，且不能修复！</r>\n并且妖兽异常凶猛！\n修仙者的实力也不容小觑！\n各大城镇与宗门中出售的秘籍也更高级！"
+ },
+ "diff5Title1": {
+  "en": "Chaos",
+  "pt": "Caos",
+  "ch": "洪荒世界"
+ },
+ "diff5Title2": {
+  "en": "Other",
+  "pt": "Outros",
+  "ch": "其他说明"
+ },
+ "diffDescribe1": {
+  "en": "Normal enemy Vitality and Damage.",
+  "pt": "Vitalidade e Dano normais dos inimigos.",
+  "ch": "怪物体力伤害一般"
+ },
+ "diffDescribe2": {
+  "en": "Increased enemy Vitality and Damage.\n<r>Elite enemies will spawn.</r>",
+  "pt": "Vitalidade e Dano dos inimigos aumentados.\n<r>Surgem inimigos de elite.</r>",
+  "ch": "怪物体力伤害有所提升\n<r>开始出现特殊的精英怪！</r>"
+ },
+ "diffDescribe3": {
+  "en": "Further increased enemy Vitality and Damage.\nMore elite enemies will spawn.",
+  "pt": "Vitalidade e Dano dos inimigos bem maiores.\nSurgem mais inimigos de elite.",
+  "ch": "怪物体力伤害进一步提升\n更多强力的精英怪"
+ },
+ "diffDescribe4": {
+  "en": "Considerably increased enemy Vitality and Damage.\nMore types of elite enemies.\n<r>More types of Mythical Beasts.</r>",
+  "pt": "Aumentou significativamente a Vitalidade e o Dano inimigos.\nMais tipos de inimigos elites.\n<r>Mais tipos de Feras Míticas.</r>",
+  "ch": "怪物体力伤害较高\n精英怪的种类更加丰富了！\n<r>更多的强力大妖兽将登场</r>"
+ },
+ "diffDescribe5": {
+  "en": "Drastically increased enemy Vitality and Damage.\n<r>May spawn 2 elite enemies in some levels.</r>\n<r>May spawn multiple Mythical Beasts.</r>",
+  "pt": "Aumentou drasticamente a Vitalidade e o Dano inimigos.\n<r>Pode aparecer 2 inimigos elites em alguns níveis.</r>\n<r>Pode aparecer múltiplas Feras Míticas.</r>",
+  "ch": "怪物凶猛异常，体力伤害极高\n<r>部分关卡会同时出现两只精英怪</r>\n<r>大妖兽将组队来袭！</r>"
+ },
+ "diffFeature1": {
+  "en": " Standard",
+  "pt": "Padrão",
+  "ch": "标准"
+ },
+ "diffFeature2": {
+  "en": " Standard",
+  "pt": "Padrão",
+  "ch": "标准"
+ },
+ "diffFeature3": {
+  "en": " Standard",
+  "pt": "Padrão",
+  "ch": "标准"
+ },
+ "diffFeature4": {
+  "en": " Standard",
+  "pt": "Padrão",
+  "ch": "标准"
+ },
+ "diffFeature5": {
+  "en": " Standard",
+  "pt": "Padrão",
+  "ch": "标准"
+ },
+ "diffFeatureTips": {
+  "en": "Available Destinies (Nature) when you create your character.",
+  "pt": "Destinos (Natureza) disponíveis quando você cria seu personagem.",
+  "ch": "影响创建角色时可用的先天气运池。"
+ },
+ "diffFeatureTitle": {
+  "en": "Destiny (Nature)",
+  "pt": "Destino (Natureza)",
+  "ch": "先天气运"
+ },
+ "diffFishTips": {
+  "en": "Available Bagua Jade Points when you start a new game.",
+  "pt": "Pontos de Jade Bagua disponíveis quando você começa um novo jogo.",
+  "ch": "影响双鱼佩在开始游戏时的可用复活点数。"
+ },
+ "diffFishTitle": {
+  "en": "Bagua Jade Points",
+  "pt": "Pontos de Jade Bagua",
+  "ch": "双鱼佩点数"
+ },
+ "diffGasTips": {
+  "en": "Qi quantity in each space on the world map.",
+  "pt": "Quantidade de Qi em cada espaço no mapa mundial.",
+  "ch": "影响大地图中每个格子内的灵气属性。"
+ },
+ "diffGasTitle": {
+  "en": "Qi",
+  "pt": "Qi",
+  "ch": "灵气"
+ },
+ "diffHerb1": {
+  "en": " High",
+  "pt": "Alto",
+  "ch": "丰富"
+ },
+ "diffHerb2": {
+  "en": " Medium",
+  "pt": "Médio",
+  "ch": "一般"
+ },
+ "diffHerb3": {
+  "en": " Low",
+  "pt": "Baixo",
+  "ch": "稀少"
+ },
+ "diffHerb4": {
+  "en": " Very Low",
+  "pt": "Muito Baixo",
+  "ch": "贫乏"
+ },
+ "diffHerb5": {
+  "en": " Very Low",
+  "pt": "Muito Baixo",
+  "ch": "贫乏"
+ },
+ "diffHerbTitle": {
+  "en": "Herb",
+  "pt": "Erva",
+  "ch": "药材"
+ },
+ "diffMine1": {
+  "en": " High",
+  "pt": "Alto",
+  "ch": "丰富"
+ },
+ "diffMine2": {
+  "en": " Medium",
+  "pt": "Médio",
+  "ch": "一般"
+ },
+ "diffMine3": {
+  "en": " Low",
+  "pt": "Baixo",
+  "ch": "稀少"
+ },
+ "diffMine4": {
+  "en": " Very Low",
+  "pt": "Muito Baixo",
+  "ch": "贫乏"
+ },
+ "diffMine5": {
+  "en": " Very Low",
+  "pt": "Muito Baixo",
+  "ch": "贫乏"
+ },
+ "diffMineTips": {
+  "en": "Ore quantity in each space on the world map.",
+  "pt": "Quantidade de Minério em cada espaço no mapa mundial.",
+  "ch": "影响大地图中每个格子内的矿材属性。"
+ },
+ "diffMineTitle": {
+  "en": "Ore",
+  "pt": "Minério",
+  "ch": "矿材"
+ },
+ "diffName1": {
+  "en": "Normal",
+  "pt": "Normal",
+  "ch": "普通"
+ },
+ "diffName2": {
+  "en": "Hard",
+  "pt": "Difícil",
+  "ch": "困难"
+ },
+ "diffName3": {
+  "en": "Nightmare",
+  "pt": "Pesadelo",
+  "ch": "极难"
+ },
+ "diffName4": {
+  "en": "Hell",
+  "pt": "Inferno",
+  "ch": "地狱"
+ },
+ "diffName5": {
+  "en": "Chaos",
+  "pt": "Caos",
+  "ch": "残酷地狱"
+ },
+ "diffPrice1": {
+  "en": " Low",
+  "pt": "Baixo",
+  "ch": "适宜"
+ },
+ "diffPrice2": {
+  "en": " High",
+  "pt": "Alto",
+  "ch": "偏高"
+ },
+ "diffPrice3": {
+  "en": " Very High",
+  "pt": " Muito Alto",
+  "ch": "较高"
+ },
+ "diffPrice4": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极高"
+ },
+ "diffPrice5": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极高"
+ },
+ "diffPriceTips": {
+  "en": "Item prices in all the shops.",
+  "pt": "Preços dos itens em todas as lojas.",
+  "ch": "影响八荒世界中所有商店出售道具的价格。"
+ },
+ "diffPriceTitle": {
+  "en": "Price",
+  "pt": "Preço",
+  "ch": "物价"
+ },
+ "diffPunish1": {
+  "en": "Body Reconstruction takes <r>{0} min</r> after your character dies.",
+  "pt": "A Reconstrução do Corpo leva <r>{0} min</r> após seu personagem morrer.",
+  "ch": "死亡后将需要<r>{0}分钟</r>的时间重塑肉身！"
+ },
+ "diffPunish2": {
+  "en": "Body Reconstruction takes <r>{0} min</r> after your character dies.",
+  "pt": "A Reconstrução do Corpo leva <r>{0} min</r> após seu personagem morrer.",
+  "ch": "死亡后将需要<r>{0}分钟</r>的时间重塑肉身！"
+ },
+ "diffPunish3": {
+  "en": "Your save will be <r>permanently deleted</r> if you die before reaching {0}!\nIf you die after reaching {1}, Body Reconstruction will take <r>{2} min</r>.\n",
+  "pt": "Seu save será <r>permanentemente deletado</r> se você morrer antes de alcançar {0}!\nSe você morrer após alcançar {1}, a Reconstrução do Corpo levará <r>{2} min</r>.\n",
+  "ch": "{0}境之前死亡将<r>永久删档！</r>\n{1}境之后死亡将需要<r>{2}分钟</r>的时间重塑肉身！"
+ },
+ "diffPunish4": {
+  "en": "Your save will be <r>permanently deleted</r> if you die!",
+  "pt": "Seu save será <r>permanentemente deletado</r> se você morrer!",
+  "ch": "死亡将<r>永久删档</r>！"
+ },
+ "diffPunish5": {
+  "en": "Your save will be <r>permanently deleted</r> if you die!\nThis difficulty level is extremely challenging. We don't recommend it for new players.",
+  "pt": "Seu salvamento será <r>excluído permanentemente</r> caso você morrer!  \nEste nível de dificuldade é extremamente desafiador. Não o recomendamos para novos jogadores.",
+  "ch": "死亡将<r>永久删档</r>！\n此模式极具挑战，不推荐新手尝试。"
+ },
+ "diffPunishTips": {
+  "en": "Your character will die for good when you run out of Bagua Jade Points.",
+  "pt": "Seu personagem morrerá definitivamente quando você ficar sem Pontos de Jade Bagua.",
+  "ch": "当双鱼佩没有可用的复活点数时，角色将会真正的死亡。"
+ },
+ "diffRoleAttr1": {
+  "en": " Standard",
+  "pt": " Padrão",
+  "ch": "标准"
+ },
+ "diffRoleAttr2": {
+  "en": " Low",
+  "pt": " Baixo",
+  "ch": "低"
+ },
+ "diffRoleAttr3": {
+  "en": " Low",
+  "pt": " Baixo",
+  "ch": "低"
+ },
+ "diffRoleAttr4": {
+  "en": " Low",
+  "pt": " Baixo",
+  "ch": "低"
+ },
+ "diffRoleAttr5": {
+  "en": " Low",
+  "pt": " Baixo",
+  "ch": "低"
+ },
+ "diffRoleAttrTips": {
+  "en": "Your character's stats when it's first created.",
+  "pt": "As estatísticas do seu personagem quando ele é criado pela primeira vez.",
+  "ch": "影响创建角色时的初始属性。"
+ },
+ "diffRoleAttrTitle": {
+  "en": "Initial Stats",
+  "pt": "Atributos iniciais",
+  "ch": "初始属性"
+ },
+ "diffState1": {
+  "en": "Info",
+  "pt": "Informações",
+  "ch": "说明"
+ },
+ "diffUnitDmg1": {
+  "en": " Normal",
+  "pt": " Normal",
+  "ch": "正常"
+ },
+ "diffUnitDmg2": {
+  "en": " High",
+  "pt": " Alto",
+  "ch": "偏高"
+ },
+ "diffUnitDmg3": {
+  "en": " Very High",
+  "pt": " Muito alto",
+  "ch": "较高"
+ },
+ "diffUnitDmg4": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极高"
+ },
+ "diffUnitDmg5": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极高"
+ },
+ "diffUnitDmgTips": {
+  "en": "Damage of all monsters.",
+  "pt": "Dano de todos os monstros.",
+  "ch": "影响八荒世界内所有怪物的伤害威力。"
+ },
+ "diffUnitDmgTitle": {
+  "en": "Monster Damage",
+  "pt": "Dano do Monstro",
+  "ch": "怪物伤害"
+ },
+ "diffUnitHp1": {
+  "en": " Normal",
+  "pt": " Normal",
+  "ch": "正常"
+ },
+ "diffUnitHp2": {
+  "en": " High",
+  "pt": " Alto",
+  "ch": "偏高"
+ },
+ "diffUnitHp3": {
+  "en": " Very High",
+  "pt": " Muito alto",
+  "ch": "较高"
+ },
+ "diffUnitHp4": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极高"
+ },
+ "diffUnitHp5": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极高"
+ },
+ "diffUnitHpTips": {
+  "en": "Vitality of all monsters.",
+  "pt": "Vitalidade de todos os monstros.",
+  "ch": "影响八荒世界内所有怪物的体力。"
+ },
+ "diffUnitHpTitle": {
+  "en": "Monster Vitality",
+  "pt": "Vit. do Monstro",
+  "ch": "怪物体力"
+ },
+ "diffUnitNum1": {
+  "en": " Normal",
+  "pt": " Normal",
+  "ch": "正常"
+ },
+ "diffUnitNum2": {
+  "en": " High",
+  "pt": " Alto",
+  "ch": "偏多"
+ },
+ "diffUnitNum3": {
+  "en": " Very High",
+  "pt": " Muito alto",
+  "ch": "较多"
+ },
+ "diffUnitNum4": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极多"
+ },
+ "diffUnitNum5": {
+  "en": " Extremely High",
+  "pt": " Extremo",
+  "ch": "极多"
+ },
+ "diffUnitNumTips": {
+  "en": "Number of monsters in each battle.",
+  "pt": "Número de monstros em cada batalha.",
+  "ch": "影响八荒世界内所有战斗中的怪物数量。"
+ },
+ "diffUnitNumTitle": {
+  "en": "Monster Quantity",
+  "pt": "Qtd. de Monstros",
+  "ch": "怪物数量"
+ },
+ "diffUnlock2": {
+  "en": "<r>Complete Normal difficulty to unlock</r>",
+  "pt": "<r>Complete a dificuldade Normal para desbloquear</r>",
+  "ch": "<r>普通模式通关后解锁此模式</r>"
+ },
+ "diffUnlock3": {
+  "en": "<r>Complete Hard difficulty to unlock</r>",
+  "pt": "<r>Complete a dificuldade Difícil para desbloquear</r>",
+  "ch": "<r>困难模式通关后解锁此模式</r>"
+ },
+ "diffUnlock4": {
+  "en": "<r>Complete Nightmare difficulty to unlock</r>",
+  "pt": "<r>Complete a dificuldade Pesadelo para desbloquear</r>",
+  "ch": "<r>极难模式通关后解锁此模式</r>"
+ },
+ "diffUnlock5": {
+  "en": "<r>Complete Hell difficulty to unlock</r>",
+  "pt": "<r>Complete a dificuldade Inferno para desbloquear</r>",
+  "ch": "<r>地狱模式通关后解锁此模式</r>"
+ },
+ "diffUnlockDesc2": {
+  "en": "Reach {0} in Normal mode to unlock this difficulty level.",
+  "pt": "Alcance {0} no modo Normal para desbloquear este nível de dificuldade.",
+  "ch": "普通模式下达到{0}可解锁此难度"
+ },
+ "diffUnlockDesc3": {
+  "en": "Reach {0} in Normal mode to unlock this difficulty level.",
+  "pt": "Alcance {0} no modo Normal para desbloquear este nível de dificuldade.",
+  "ch": "普通模式下达到{0}可解锁此难度"
+ },
+ "diffUnlockDesc4": {
+  "en": "Reach {0} in Nightmare mode to unlock this difficulty level.",
+  "pt": "Alcance {0} no modo Pesadelo para desbloquear este nível de dificuldade.",
+  "ch": "极难模式下达到{0}可解锁此难度"
+ },
+ "diffUnlockDesc5": {
+  "en": "Reach {0} in Nightmare mode and {1} in any mode\nto unlock this difficulty level.",
+  "pt": "Alcance {0} no modo Pesadelo e {1} em qualquer modo\npara desbloquear este nível de dificuldade.",
+  "ch": "极难模式下达到{0}且任意模式下达到{1}\n可解锁此难度"
+ },
+ "diffWorldTitle": {
+  "en": "World",
+  "pt": "Mundo",
+  "ch": "世界"
+ },
+ "diff_nandu5tishi": {
+  "en": "Chaos mode is extremely difficult. It can be frustrating, so think twice before choosing this difficulty level.\nChoose Chaos level?",
+  "pt": "O modo Caos é extremamente difícil. Pode ser frustrante, portanto pense duas vezes antes de escolher esse nível de dificuldade.\nDeseja escolher o nível Caos?",
+  "ch": "洪荒难度极大，可能会有一些不够良好的体验，请谨慎选择！\n确认选择洪荒难度吗？"
+ },
+ "diff_xuanzenandu": {
+  "en": "Select Difficulty",
+  "pt": "Selecionar Dificuldade",
+  "ch": "选择难度"
+ },
+ "diff_xuanzenandu1": {
+  "en": "Select an unlocked difficulty!",
+  "pt": "Selecione uma dificuldade desbloqueada!",
+  "ch": "请选择一个已解锁的难度"
+ },
+ "ditu": {
+  "en": "Region Map",
+  "pt": "Mapa da Região",
+  "ch": "小地图"
+ },
+ "ditu_chuansong": {
+  "en": "Teleport to",
+  "pt": "Teletransportar-se para",
+  "ch": "传送到"
+ },
+ "ditu_chuansongtishi": {
+  "en": "Spend {0} to teleport to {1}?",
+  "pt": "Gastar {0} para se teletransportar para {1}?",
+  "ch": "是否消耗{0}传送至{1}？"
+ },
+ "ditu_wufachuansong": {
+  "en": "{0} has no Portal. Unable to teleport to {0}.",
+  "pt": "{0} não possui Portal. Não é possível teletransportar-se para {0}.",
+  "ch": "{0}没有传送阵，无法传送至{0}"
+ },
+ "dlcBook_abilityHead": {
+  "en": "Mind Skills",
+  "pt": "Técnicas Mentais",
+  "ch": "心法"
+ },
+ "dlcBook_fateHead": {
+  "en": "Rewrite Destinies",
+  "pt": "Reescrever Destinos",
+  "ch": "逆天改命"
+ },
+ "dlcBook_kejiesuo": {
+  "en": "Unlocked:",
+  "pt": "Destravado:",
+  "ch": "已解锁："
+ },
+ "dlcBook_propHead": {
+  "en": "Items",
+  "pt": "Itens",
+  "ch": "道具"
+ },
+ "dlcBook_skillHead": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "技能"
+ },
+ "dlcBook_title": {
+  "en": "Encyclopedia",
+  "pt": "Enciclopédia",
+  "ch": "图鉴"
+ },
+ "dlcSkillInfo_jiesuo": {
+  "en": "Unlock",
+  "pt": "Liberar",
+  "ch": "解锁"
+ },
+ "dlcSkillInfo_xinzeng": {
+  "en": "New",
+  "pt": "Novo",
+  "ch": "新增"
+ },
+ "dlcSkillInfo_zhongji": {
+  "en": "Ult",
+  "pt": "Sup",
+  "ch": "终极"
+ },
+ "dlcSkillInfo_zhongjiTip": {
+  "en": "You may have only 1 Ultimate Affix of a skill at the same time.",
+  "pt": "Você só pode ter 1 Afixo Supremo de uma habilidade por vez.",
+  "ch": "终极词条无法同时拥有，只能持有其中一条。"
+ },
+ "dlcUI_unlockAbility": {
+  "en": "Unlock Mind Skills",
+  "pt": "Desbloquear Técnicas Mentais",
+  "ch": "解锁心法"
+ },
+ "dlcUI_unlockFate": {
+  "en": "Unlock Destinies",
+  "pt": "Desbloquear Destinos",
+  "ch": "解锁逆天改命"
+ },
+ "dlcUI_unlockProp": {
+  "en": "Unlock Items",
+  "pt": "Desbloquear Itens",
+  "ch": "解锁道具"
+ },
+ "dlcUI_unlockRole": {
+  "en": "Unlock Characters",
+  "pt": "Desbloquear Personagens",
+  "ch": "解锁角色"
+ },
+ "dlcUI_unlockSkill": {
+  "en": "Unlock Skills",
+  "pt": "Desbloquear Habilidades",
+  "ch": "解锁技能"
+ },
+ "dlc_battleDieBtn": {
+  "en": "Campaign Summary",
+  "pt": "Resumo da Campanha",
+  "ch": "战斗结算"
+ },
+ "dlc_bowuzhitishi": {
+  "en": "This save file requires Archive of the Realm DLC. Please check if you owned the DLC before loading the save file.",
+  "pt": "Este arquivo de salvamento requer a DLC Arquivo do Reino. Verifique se você possui a DLC antes de carregar o arquivo.",
+  "ch": "此存档包含“八荒博物志”内容，未拥有“八荒博物志”DLC不可进入此存档。"
+ },
+ "dlc_bowuzhitishi2": {
+  "en": "This save file contains Exclusive Outfits from participating in the crowdfunding for the Archive of the Realm Artbook. Default outfits will be used instead.",
+  "pt": "Este arquivo contém Roupas Exclusivas do financiamento coletivo do Livro de Arte Arquivo do Reino. Roupas padrão serão usadas.",
+  "ch": "此存档包含“实体版八荒博物志众筹专属服装”内容，将使用默认服装替代专属服装。"
+ },
+ "dlc_dieUnitTitle": {
+  "en": "Monster",
+  "pt": "Monstro",
+  "ch": "怪物"
+ },
+ "dlc_name": {
+  "en": "Ground of No Return",
+  "pt": "Solo do Não Retorno",
+  "ch": "不归玄境"
+ },
+ "dlc_siwangyuanyin": {
+  "en": "Killed by {0}",
+  "pt": "Morto por {0}",
+  "ch": "死于{0}之手"
+ },
+ "dlc_skill_attack_desc41111": {
+  "en": "Release an explosive spirit orb, dealing damage to enemies around.",
+  "pt": "Libere um orbe espiritual explosivo, causando dano aos inimigos ao redor.",
+  "ch": "释放一颗会爆炸的灵球对周围敌人造成伤害。"
+ },
+ "dlc_skill_attack_desc43101": {
+  "en": "Press SPACE to cast. Shoot arrows toward the nearest enemy for &43101_time&s, dealing slight damage to them and knocking them back. In its duration, your skills will inflict damage on the farthest target in the range.",
+  "pt": "Pressione ESPAÇO para lançar. Atire flechas em direção ao inimigo mais próximo por &43101_time&s, causando dano leve e os repelindo. Durante o efeito, suas habilidades infligirão dano ao alvo mais distante no alcance.",
+  "ch": "点击空格释放，快速向最近的敌人发射箭矢，箭矢对敌人造成少量伤害及击退，持续&43101_time&秒，且持续时间内，自身的技能会攻击范围内最远的目标。"
+ },
+ "dlc_skill_attack_desc43111": {
+  "en": "Shoot a penetrative bolt, dealing damage to all enemies on its course.",
+  "pt": "Dispare uma flecha penetrante, causando dano a todos os inimigos em seu trajeto.",
+  "ch": "发射一道可穿透的箭矢攻击路径上所有的敌人"
+ },
+ "dlc_skill_attack_desc44101": {
+  "en": "Summon &44101_mirrorNum& immobile and invincible mirror images into the battlefield for &44101_time&s. Mirror images will cast skills automatically, and your enemies will pick images as their target.",
+  "pt": "Evoca &44101_mirrorNum& imagens de espelho imóveis e invencíveis no campo de batalha por &44101_time&s. Imagens de espelho lançam habilidades automaticamente, e seus inimigos priorizarão imagens como alvos.",
+  "ch": "召唤&44101_mirrorNum&个不可移动且无敌的镜像在战场中间，镜像会自动使用技能，所有怪物会优先攻击镜像，持续&44101_time&秒。"
+ },
+ "dlc_skill_name_middle41101": {
+  "en": "Violet Cosmos",
+  "pt": "Cosmos Violeta",
+  "ch": "紫垣碧天"
+ },
+ "dlc_skill_name_middle41102": {
+  "en": "Verdant Field",
+  "pt": "Domínio Verdejante",
+  "ch": "紫垣碧天"
+ },
+ "dlc_skill_name_middle42101": {
+  "en": "Connected Soul",
+  "pt": "Alma Conectada",
+  "ch": "予物通灵"
+ },
+ "dlc_skill_name_middle42102": {
+  "en": "Ally of Spirits",
+  "pt": "Aliado dos Espíritos",
+  "ch": "素心唤灵"
+ },
+ "dlc_skill_name_middle43101": {
+  "en": "Sunset Bolts",
+  "pt": "Flechas do Crepúsculo",
+  "ch": "落日穿星"
+ },
+ "dlc_skill_name_middle43102": {
+  "en": "Constellation Archery",
+  "pt": "Arco da Constelação",
+  "ch": "飞星联珠"
+ },
+ "dlc_skill_name_middle46101": {
+  "en": "Fuse Dash",
+  "pt": "Investida Impetuosa",
+  "ch": "猪突猛进"
+ },
+ "dlc_wuduojinhua1": {
+  "en": "Five Blooms",
+  "pt": "Cinco Florescências",
+  "ch": "五朵金花"
+ },
+ "dlc_wuduojinhua2": {
+  "en": "Join five lady cultivators on their journeys, befriending them and learning about their stories.\nAo Yao: Story triggers while exploring Yong Ning.\nLan You: Story triggers when reading Manuals in Yong Ning.\nShuang Ling: Story triggers while exploring Hua Feng.\nYin'er: Story triggers in the Fallen Valley of Hua Feng.\nTianxiang: Story triggers in Chi You after encountering her in Yong Ning and Hua Feng.",
+  "pt": "Acompanhe cinco cultivadoras especiais em suas jornadas, faça amizade com elas e conheça suas histórias.\nAo Yao: História ativada ao explorar Yong Ning.\nLan You: História ativada ao ler Manuais em Yong Ning.\nShuang Ling: História ativada ao explorar Hua Feng.\nYin'er: História ativada no Vale Caído de Hua Feng.\nTianxiang: História ativada em Chi You após encontrá-la em Yong Ning e Hua Feng.",
+  "ch": "与五名特殊女修一同克服波折困难，结为友人，体会她们各自心情。\n敖瑶：于永宁州行走可触发相关剧情。\n兰幽：于永宁州阅读秘籍触发相关剧情。\n霜凌：于华封州行走触发相关剧情。\n银耳：前往华封州陨幽谷触发相关剧情。\n天香：于永宁州、华封州遭遇后，最终在赤幽州触发相关剧情。"
+ },
+ "dlc_wuduojinhuaxianzhi": {
+  "en": "This save file requires Five Blooms DLC. Please check if you owned the DLC before loading the save file.",
+  "pt": "Este arquivo de salvamento requer o DLC Cinco Florescências. Verifique se você possui o DLC antes de carregar o arquivo.",
+  "ch": "此存档包含“五朵金花”内容，未拥有“五朵金花”DLC不可进入此存档。"
+ },
+ "dlcjihuotishi": {
+  "en": "DLC not in library. Please acquire it from Store Page and try again.",
+  "pt": "DLC não encontrada na biblioteca. Adquira-a na página da loja e tente novamente.",
+  "ch": "暂未拥有此DLC，请在游戏的STEAM主页中获取此DLC后再试。"
+ },
+ "dlcjihuotishi2": {
+  "en": "DLC not owned.",
+  "pt": "DLC não adquirida.",
+  "ch": "暂未拥有此DLC。"
+ },
+ "douhao": {
+  "en": ",",
+  "pt": ",",
+  "ch": "，"
+ },
+ "dragonDoor_activeEffectTips": {
+  "en": "<size=14><color=#af0000>(Activation requires {0})</color></size>",
+  "pt": "<size=14><color=#af0000>(Ativação requer {0})</color></size>",
+  "ch": "<size=14><color=#af0000>(激活此词条需要拥有{0})</color></size>"
+ },
+ "dragonDoor_boy": {
+  "en": "Bristles",
+  "pt": "Espinhos",
+  "ch": "毛芒芒"
+ },
+ "dragonDoor_change1": {
+  "en": "Switched to Crimson Dragon Form",
+  "pt": "Transformação ativada: Forma de Dragão Carmesim",
+  "ch": "已切换至赤龙形态"
+ },
+ "dragonDoor_change2": {
+  "en": "Switched to Azure Dragon Form",
+  "pt": "Transformação ativada: Forma de Dragão Azul",
+  "ch": "已切换至青龙形态"
+ },
+ "dragonDoor_change3": {
+  "en": "Switched to Yellow Dragon Form",
+  "pt": "Transformação ativada: Forma de Dragão Amarelo",
+  "ch": "已切换至黄龙形态"
+ },
+ "dragonDoor_changeClick": {
+  "en": "Switch",
+  "pt": "Alternar",
+  "ch": "点击切换"
+ },
+ "dragonDoor_changeTips": {
+  "en": "Transformation limit exceeded",
+  "pt": "Limite de transformações excedido",
+  "ch": "变身状态切换过于频繁"
+ },
+ "dragonDoor_des": {
+  "en": "1. The Following Dragon Series Rewrite Destiny can produce completely new skills through immersion in different levels of Greenscale Spring.\n2. Using a certain amount of Sect resources will upgrade the Greenscale Spring.\n3.The Greenscale Spring will gain secret special properties once it reaches a certain level\n4. Within the Greenscale Spring, you can select the Following Dragon Series Rewrite Destiny to interact with it and improve your relationship. You gain 1 interaction opportunity every 2 months and can store a maximum of 3 at the same time.",
+  "pt": "1. A Reescrever o Destino da Série Dragão Seguidor pode gerar Habilidades totalmente novas através da imersão em diferentes níveis da Fonte da Escama Verde.\n2. Usar certa quantidade de recursos da Seita atualiza a Fonte da Escama Verde.\n3. A Fonte da Escama Verde ganha propriedades especiais secretas ao atingir níveis específicos.\n4. Na Fonte da Escama Verde, selecione a Reescrever o Destino da Série Dragão Seguidor para interagir e melhorar o relacionamento. Você ganha 1 oportunidade de interação a cada 2 meses e pode acumular até 3.",
+  "ch": "1.跟屁龙系列逆天改命可以通过浸泡化不同级别的青鳞池获得全新的效果。\n2.消耗一定的宗门资源可以升级青鳞池。\n3.青鳞池达到一定级别之后，会有神秘的特殊效果。\n4.在青鳞池中，可以点击跟屁龙系列逆天改命进行互动促进感情，互动次数每2个月增加1次，最多可以累计3次互动次数。"
+ },
+ "dragonDoor_desTitle": {
+  "en": "Gameplay Info",
+  "pt": "Informações de Jogabilidade",
+  "ch": "玩法介绍"
+ },
+ "dragonDoor_effectTitle": {
+  "en": "Greenscale Spring Level {0} Effect",
+  "pt": "Efeito Nível {0} da Fonte da Escama Verde",
+  "ch": "青鳞池{0}级效果"
+ },
+ "dragonDoor_effectTitle2": {
+  "en": "Unlocks at Level {0}",
+  "pt": "Desbloqueado no Nível {0}",
+  "ch": "等级{0} 解锁"
+ },
+ "dragonDoor_gongxiao": {
+  "en": "Modify Effect",
+  "pt": "Modificar Efeito",
+  "ch": "修改功效"
+ },
+ "dragonDoor_gril": {
+  "en": "Jujubes",
+  "pt": "Jujubas",
+  "ch": "毛枣枣"
+ },
+ "dragonDoor_intimacy": {
+  "en": "Affinity",
+  "pt": "Afinidade",
+  "ch": "好感度"
+ },
+ "dragonDoor_level": {
+  "en": "Lv.{0}",
+  "pt": "Nível {0}",
+  "ch": "等级{0}"
+ },
+ "dragonDoor_levelMaxTips": {
+  "en": "Greenscale Spring can be upgraded to a new level only once per region. If you currently cannot upgrade, you will be able to upgrade once you move.",
+  "pt": "A Fonte da Escama Verde pode ser atualizada para um novo nível apenas uma vez por região. Se você não pode atualizar no momento, poderá após se mudar.",
+  "ch": "青鳞池每个区域只能提升一次等级，若当前无法升级，搬迁后即可继续提升等级。"
+ },
+ "dragonDoor_levelTips": {
+  "en": "When upgrading Greenscale Spring to a new level, you will be able to get new effects for the Following Dragon Series Rewrite Destiny.",
+  "pt": "Ao atualizar a Fonte da Escama Verde para um novo nível, você obterá novos efeitos para Reescrever o Destino da Série Grudento.",
+  "ch": "青鳞池等级提升时，可以为跟屁虫系列逆天改命提供新的效果。"
+ },
+ "dragonDoor_levelUp": {
+  "en": "Breakthrough",
+  "pt": "Avanço",
+  "ch": "突破"
+ },
+ "dragonDoor_levelUpTips": {
+  "en": "A Breakthrough here requires the Following Dragon series Rewrite Destiny",
+  "pt": "Um Avanço aqui requer Reescrever o Destino da Série Grudento.",
+  "ch": "在此突破必定获得跟屁龙系列逆天改命"
+ },
+ "dragonDoor_levelUpTips2": {
+  "en": "This region's Energy does not support further upgrading of Greenscale Spring",
+  "pt": "A Energia desta região não suporta mais atualizações da Fonte da Escama Verde.",
+  "ch": "当前区域灵力无法承受青鳞池继续升级"
+ },
+ "dragonDoor_lockTips": {
+  "en": "Only the Sect Leaders of this Sect may access the Greenscale Spring",
+  "pt": "Apenas os Líderes da Seita desta Seita podem acessar a Fonte da Escama Verde.",
+  "ch": "非本门宗主禁止进入青鳞池"
+ },
+ "dragonDoor_maxLevel": {
+  "en": "Max Region Level\nLevel {0}",
+  "pt": "Nível Máximo da Região\nNível {0}",
+  "ch": "区域等级上限\n等级{0}"
+ },
+ "dragonDoor_money1": {
+  "en": "Spirit Stone <size=26><sprite name=\"zm_lingshi\"></size>: {0}",
+  "pt": "Pedra Espiritual <size=26><sprite name=\"zm_lingshi\"></size>: {0}",
+  "ch": "灵石<size=26><sprite name=\"zm_lingshi\"></size>：{0}"
+ },
+ "dragonDoor_money2": {
+  "en": "Ore <size=26><sprite name=\"zm_kuangshi\"></size>: {0}",
+  "pt": "Minério <size=26><sprite name=\"zm_kuangshi\"></size>: {0}",
+  "ch": "矿石<size=26><sprite name=\"zm_kuangshi\"></size>：{0}"
+ },
+ "dragonDoor_money3": {
+  "en": "Herb <size=26><sprite name=\"zm_yaocai\"></size>: {0}",
+  "pt": "Erva <size=26><sprite name=\"zm_yaocai\"></size>: {0}",
+  "ch": "药材<size=26><sprite name=\"zm_yaocai\"></size>：{0}"
+ },
+ "dragonDoor_selectEffectTitle": {
+  "en": "Chose an effect",
+  "pt": "Escolha um efeito",
+  "ch": "选择一个功效"
+ },
+ "dragonDoor_selectSex": {
+  "en": "Select",
+  "pt": "Selecionar",
+  "ch": "选择"
+ },
+ "dragonDoor_selectSexTips": {
+  "en": "Select form {0}",
+  "pt": "Selecione a forma {0}",
+  "ch": "选择化形为{0}"
+ },
+ "dragonDoor_sexCancel": {
+  "en": "Think it over",
+  "pt": "Pense de novo",
+  "ch": "再想想"
+ },
+ "dragonDoor_sexOk": {
+  "en": "Confirm",
+  "pt": "Confirmar",
+  "ch": "确定"
+ },
+ "dragonDoor_sexTips": {
+  "en": "Change into dragon {0}? Remember, this cannot be undone!",
+  "pt": "Transformar-se em dragão {0}? Lembre-se, isso não pode ser desfeito!",
+  "ch": "是否选择龙族{0}为化形目标？选定之后将无法改变，请慎重考虑！"
+ },
+ "dragonDoor_taskTips1": {
+  "en": "Complete the Mission \"Following Bug's Request 1\" to continue upgrading.",
+  "pt": "Complete a Missão 'Pedido do Grudento 1' para continuar atualizando.",
+  "ch": "必须完成“跟屁虫需求之一”任务才能继续升级。"
+ },
+ "dragonDoor_taskTips2": {
+  "en": "Complete the Mission \"Following Bug's Request 2\" to continue upgrading.",
+  "pt": "Complete a Missão 'Pedido do Grudento 2' para continuar atualizando.",
+  "ch": "必须完成“跟屁虫需求之二”任务才能继续升级。"
+ },
+ "dragonDoor_taskTips3": {
+  "en": "Complete the Mission \"Following Bug's Request 3\" to continue upgrading.",
+  "pt": "Complete a Missão \"Pedido do Grudento 3\" para continuar aprimorando.",
+  "ch": "必须完成“跟屁虫需求之三”任务才能继续升级。"
+ },
+ "dragonDoor_taskTips4": {
+  "en": "Complete the Mission \"Following Bug's Request 4\" to continue upgrading.",
+  "pt": "Complete a Missão \"Pedido do Grudento 4\" para continuar aprimorando.",
+  "ch": "必须完成“跟屁虫需求之四”任务才能继续升级。"
+ },
+ "dragonDoor_transOk": {
+  "en": "Select any key to continue",
+  "pt": "Selecione qualquer tecla para continuar",
+  "ch": "点击任意键继续"
+ },
+ "dragonDoor_transfiguration": {
+  "en": "Change Form",
+  "pt": "Transformação",
+  "ch": "化形"
+ },
+ "dragonDoor_transfigurationFail1": {
+  "en": "Greenscale Spring level too low. You cannot change form",
+  "pt": "Nível da Fonte da Escama Verde muito baixo. Não é possível realizar a transformação",
+  "ch": "青鳞池等级太低，无法完成化形"
+ },
+ "dragonDoor_transfigurationFail2": {
+  "en": "Form changed",
+  "pt": "Transformação já realizada",
+  "ch": "已经化形了"
+ },
+ "dragonDoor_transfigurationFail3": {
+  "en": "You have no Following Dragon",
+  "pt": "Você não possui um Dragão Grudento",
+  "ch": "你没有跟屁龙"
+ },
+ "dragonDoor_unLockTips": {
+  "en": "Requires Greenscale Spring to break through level {0}",
+  "pt": "Requer a Fonte da Escama Verde para superar o nível {0}",
+  "ch": "需先突破{0}级青鳞池"
+ },
+ "dragonDoor_unLockTips2": {
+  "en": "Activate level 1 Greenscale Spring to unlock",
+  "pt": "Ative a Fonte da Escama Verde nível 1 para desbloquear",
+  "ch": "激活1级青鳞池解锁"
+ },
+ "dragonDoor_upgrade": {
+  "en": "Upgrade",
+  "pt": "Aprimorar",
+  "ch": "升级"
+ },
+ "dragonDoor_upgradeCostTips": {
+  "en": "Required Greenscale Spring Level",
+  "pt": "Nível Requerido da Fonte da Escama Verde",
+  "ch": "青鳞池升级所需"
+ },
+ "dragonDoor_upgradeEffectTips": {
+  "en": "Greenscale Spring Efficacy",
+  "pt": "Eficácia da Fonte da Escama Verde",
+  "ch": "青鳞池功效"
+ },
+ "dragonDoor_upgradeFailCost": {
+  "en": "Insufficient resources",
+  "pt": "Recursos insuficientes",
+  "ch": "资源不足"
+ },
+ "dragonDoor_upgradeFailMax": {
+  "en": "This region's Energy does not support further upgrading of Greenscale Spring",
+  "pt": "A Energia desta região não suporta mais aprimoramentos da Fonte da Escama Verde",
+  "ch": "当前区域灵力无法承受青鳞池继续升级"
+ },
+ "dragonDoor_upgradeMax": {
+  "en": "Greenscale Spring: Max Level Reached",
+  "pt": "Fonte da Escama Verde: Nível Máximo Alcançado",
+  "ch": "青鳞池等级已满"
+ },
+ "dragonDoor_upgradeNotLuckTips": {
+  "en": "Upgrade requires {0}",
+  "pt": "Aprimoramento requer {0}",
+  "ch": "升级需要拥有{0}"
+ },
+ "dragonschool_tips_9901110": {
+  "en": "Energy cannot support continuous repair of the Draconic Pond in this area. Please visit the Sect and try repairing there.",
+  "pt": "A Energia não pode suportar a reparação contínua do Poço Dracônico nesta área. Por favor, visite a Seita e tente reparar lá.",
+  "ch": "此地区灵力无法支撑化龙池继续修复，请在宗门搬迁后再尝试修复。"
+ },
+ "dramaDialogue_kuaisutiaoguo": {
+  "en": "You can skip dialogue without choices",
+  "pt": "Você pode pular diálogos sem escolhas",
+  "ch": "可快速跳过无选项的对话"
+ },
+ "dramaFunction_xiliandengji": {
+  "en": "Your cultivation in {0} increased by {1}.",
+  "pt": "Seu Cultivo em {0} aumentou em {1}.",
+  "ch": "你的{0}修炼等级提升了{1}"
+ },
+ "dramaFunction_xiulianmanji": {
+  "en": "Your {0} cultivation is complete.",
+  "pt": "Seu Cultivo em {0} está completo.",
+  "ch": "你的{0}修炼进度已达上限"
+ },
+ "dramaSelectItem203021": {
+  "en": "Select an item to help you escape",
+  "pt": "Selecione um item para ajudar você a escapar",
+  "ch": "选择一个道具辅助你逃跑"
+ },
+ "dramaSelectItem237031": {
+  "en": "Select the item you want to ask about",
+  "pt": "Selecione o item sobre o qual deseja perguntar",
+  "ch": "选择你要询问的道具"
+ }
+}

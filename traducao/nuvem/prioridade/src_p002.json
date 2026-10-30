@@ -1,0 +1,1154 @@
+{
+ "ui_minMap_geoMap_abandonClueConfirmTips": {
+  "en": "Give up the divination of the current diagram?\n<r>Unused Feng Shui clues will be lost.</r>",
+  "pt": "Desistir da adivinhação do diagrama atual?\n<r>Pistas de Feng Shui não utilizadas serão perdidas.</r>",
+  "ch": "是否放弃推演当前风水图？\n<r>放弃线索将直接消失</r>"
+ },
+ "ui_minMap_geoMap_cancel": {
+  "en": "Give up divination",
+  "pt": "Desistir da adivinhação",
+  "ch": "放弃推演"
+ },
+ "ui_minMap_geoMap_tipRules": {
+  "en": "Here, you can find clues to the Dragon Vein hidden in this world. You may find more clues through Geomancy near the indicated location.",
+  "pt": "Aqui, você pode encontrar pistas da Veia do Dragão escondida neste mundo. Você pode encontrar mais pistas através da Geomancia perto do local indicado.",
+  "ch": "记录着暗藏在八荒世界中龙脉的线索，可以前往地点通过堪舆进一步寻找线索。"
+ },
+ "ui_minMap_geoMap_title": {
+  "en": "Feng Shui Diagram",
+  "pt": "Diagrama de Feng Shui",
+  "ch": "风水图"
+ },
+ "ui_minmap_chengzhen": {
+  "en": "Town",
+  "pt": "Vila",
+  "ch": "城镇"
+ },
+ "ui_minmap_cunzhuang": {
+  "en": "Village",
+  "pt": "Aldeia",
+  "ch": "村庄"
+ },
+ "ui_minmap_dangqianrenwu": {
+  "en": "Current Mission",
+  "pt": "Missão Atual",
+  "ch": "当前任务"
+ },
+ "ui_minmap_dayaoshou": {
+  "en": "Mythical Beast",
+  "pt": "Fera Mítica",
+  "ch": "大妖兽"
+ },
+ "ui_minmap_didian": {
+  "en": "Location",
+  "pt": "Local",
+  "ch": "地点"
+ },
+ "ui_minmap_guanxi": {
+  "en": "Relationship",
+  "pt": "Relação",
+  "ch": "关系"
+ },
+ "ui_minmap_haoyoudanwei": {
+  "en": "Friends",
+  "pt": "Amigos",
+  "ch": "好友"
+ },
+ "ui_minmap_patternTransTip1": {
+  "en": "Teleport here will remove the mark.",
+  "pt": "Teleportar para cá removerá a marca.",
+  "ch": "传送后此标记点消失。"
+ },
+ "ui_minmap_qinggandanwei": {
+  "en": "Affinities",
+  "pt": "Afinidades",
+  "ch": "情感"
+ },
+ "ui_minmap_qinshudanwei": {
+  "en": "Relatives",
+  "pt": "Parentes",
+  "ch": "亲属"
+ },
+ "ui_minmap_quanbu": {
+  "en": "All",
+  "pt": "Todos",
+  "ch": "全部"
+ },
+ "ui_minmap_quanbudanwei": {
+  "en": "All",
+  "pt": "Todos",
+  "ch": "全部"
+ },
+ "ui_minmap_tishi1": {
+  "en": "Show/Hide Location",
+  "pt": "Mostrar/Ocultar Local",
+  "ch": "显示/隐藏地点"
+ },
+ "ui_minmap_tupocailiao": {
+  "en": "Breakthrough Material",
+  "pt": "Material de Avanço",
+  "ch": "突破材料"
+ },
+ "ui_minmap_yangjichang": {
+  "en": "Chicken House",
+  "pt": "Galinheiro",
+  "ch": "养鸡场"
+ },
+ "ui_minmap_yaoyuan": {
+  "en": "Herb Garden",
+  "pt": "Jardim de Ervas",
+  "ch": "药园"
+ },
+ "ui_minmap_yiji": {
+  "en": "Ruins",
+  "pt": "Ruínas",
+  "ch": "遗迹"
+ },
+ "ui_minmap_zongmen": {
+  "en": "Sect",
+  "pt": "Seita",
+  "ch": "宗门"
+ },
+ "ui_minmap_zongmenziyuan": {
+  "en": "Sect Resources",
+  "pt": "Recursos da Seita",
+  "ch": "宗门资源"
+ },
+ "ui_noHasSkill_lvup": {
+  "en": "Does not include in Inventory or has learned any Martial Arts that qualify for the Upgrade Realm!",
+  "pt": "Não possui no Inventário ou não aprendeu nenhuma Arte Marcial que se qualifique para o aprimoramento do Reino!",
+  "ch": "背包中没有携带或自身已学习任何符合升级境界的功法！"
+ },
+ "ui_noHasSkill_lvup1": {
+  "en": "The quality of this Book cannot generate this Term Effect.",
+  "pt": "A qualidade deste Livro não pode gerar este Efeito de Termo.",
+  "ch": "此宝典的品质无法生成此词条效果。"
+ },
+ "ui_noHasSkill_lvup2": {
+  "en": "The number of this term has reached its upper limit.",
+  "pt": "A quantidade deste termo atingiu seu limite máximo.",
+  "ch": "此词条已经达到获取数量上限。"
+ },
+ "ui_noHasSkill_lvup3": {
+  "en": "The quality of this Martial Art is too low to upgrade and generate this Term Effect.",
+  "pt": "A qualidade desta Arte Marcial é muito baixa para aprimorar e gerar este Efeito de Termo.",
+  "ch": "此功法品质过低，无法升级出此词条效果。"
+ },
+ "ui_noHasSkill_lvup4": {
+  "en": "This Term Effect cannot be upgraded because it has no prefix.",
+  "pt": "Este Efeito de Termo não pode ser aprimorado porque não tem prefixo.",
+  "ch": "此词条因没有前置词条，无法升级此词条效果。"
+ },
+ "ui_noHasSkill_lvup5": {
+  "en": "This Term Effect cannot be upgraded because there is a mutually exclusive term.",
+  "pt": "Este Efeito de Termo não pode ser aprimorado porque há um termo mutuamente exclusivo.",
+  "ch": "此词条因已有互斥词条，无法升级此词条效果。"
+ },
+ "ui_npcInfo_tiaozhan": {
+  "en": "Challenge",
+  "pt": "Desafiar",
+  "ch": "挑战"
+ },
+ "ui_playerInfoDamgeTest": {
+  "en": "Practice",
+  "pt": "Praticar",
+  "ch": "练习"
+ },
+ "ui_playerinfo_selectType": {
+  "en": "Filter by Type",
+  "pt": "Filtrar por Tipo",
+  "ch": "类型筛选"
+ },
+ "ui_potmonListWork_againAsk": {
+  "en": "Send the current team into adventure again?",
+  "pt": "Enviar a equipe atual para a aventura novamente?",
+  "ch": "是否要让当前编队再次出发历练？"
+ },
+ "ui_potmonListWork_rest": {
+  "en": "Take a rest",
+  "pt": "Descansar",
+  "ch": "暂时休息"
+ },
+ "ui_potmonListWork_studyFileSkill": {
+  "en": "Adventure Skill Learned",
+  "pt": "Habilidade de Aventura Aprendida",
+  "ch": "领悟历练技能"
+ },
+ "ui_potmonListWork_workDesc": {
+  "en": "Adventure History",
+  "pt": "Histórico de Aventura",
+  "ch": "历练历程"
+ },
+ "ui_potmonListWork_workProp": {
+  "en": "Items Obtained",
+  "pt": "Itens Obtidos",
+  "ch": "获得道具"
+ },
+ "ui_potmonList_BattleSkillsTips": {
+  "en": "About Battle Skills: Once learned, the Guarding Imp will use these skills during battle. Imps may learn more battle skills from participating in battles. New battle skills can also be learned from an Imp's adventure.",
+  "pt": "Sobre Habilidades de Batalha: Uma vez aprendidas, o Diabrete Guardião usará essas habilidades durante a batalha. Diabretes podem aprender mais habilidades de batalha participando de batalhas. Novas habilidades de batalha também podem ser aprendidas na aventura de um Diabrete.",
+  "ch": "壶妖的战斗技能，设为护卫的壶妖在战斗中将使用持有的战斗技能。壶妖可能会在出战时领悟更多的战斗技能；同时在壶妖参与历练时，也有可能领悟新的战斗技能。"
+ },
+ "ui_potmonList_CanFurry": {
+  "en": "Ready to Change Form",
+  "pt": "Pronto para Mudar de Forma",
+  "ch": "可化形"
+ },
+ "ui_potmonList_Dying": {
+  "en": "Dying",
+  "pt": "Morrendo",
+  "ch": "濒死"
+ },
+ "ui_potmonList_DyingTips": {
+  "en": "Can use {0} for a quick recovery.",
+  "pt": "Pode usar {0} para uma recuperação rápida.",
+  "ch": "可使用{0}快速恢复"
+ },
+ "ui_potmonList_FurryStayState": {
+  "en": "Binding",
+  "pt": "Vinculando",
+  "ch": "契约中"
+ },
+ "ui_potmonList_Give": {
+  "en": "Transfer Arts",
+  "pt": "Transferir Artes",
+  "ch": "传功"
+ },
+ "ui_potmonList_GiveUp": {
+  "en": "Set Free",
+  "pt": "Libertar",
+  "ch": "放生"
+ },
+ "ui_potmonList_Hurt": {
+  "en": "Wounded",
+  "pt": "Ferido",
+  "ch": "重伤"
+ },
+ "ui_potmonList_HurtTips": {
+  "en": "Need {1} month(s) to recover. Can <color=#C21414>feed it {0}</color> for a quick recovery.",
+  "pt": "Precisa de {1} mês(es) para recuperar. Pode <color=#C21414>alimentá-lo com {0}</color> para uma recuperação rápida.",
+  "ch": "恢复需要{1}个月，可<color=#C21414>喂养{0}</color>快速恢复"
+ },
+ "ui_potmonList_InputName": {
+  "en": "Enter a new name",
+  "pt": "Inserir novo nome",
+  "ch": "输入要修改的名称"
+ },
+ "ui_potmonList_NeedDyingTips": {
+  "en": "Not enough {itemName2823003}",
+  "pt": "Não há {itemName2823003} suficiente",
+  "ch": "缺少道具{itemName2823003}"
+ },
+ "ui_potmonList_NeedHurtTips": {
+  "en": "Not enough {itemName2823003}",
+  "pt": "Não há {itemName2823003} suficiente",
+  "ch": "缺少道具{itemName2823003}"
+ },
+ "ui_potmonList_Stay": {
+  "en": "Bind",
+  "pt": "Vincular",
+  "ch": "契约"
+ },
+ "ui_potmonList_Tran": {
+  "en": "Change Form",
+  "pt": "Mudar Forma",
+  "ch": "化形"
+ },
+ "ui_potmonList_UseDyingTips": {
+  "en": "Use {itemName2823003} for a quick recovery?",
+  "pt": "Usar {itemName2823003} para uma recuperação rápida?",
+  "ch": "确定使用{itemName2823003}快速恢复吗？"
+ },
+ "ui_potmonList_battleCantWork": {
+  "en": "It cannot join in adventure when guarding.",
+  "pt": "Não pode participar da aventura enquanto guarda.",
+  "ch": "护卫中无法参与历练"
+ },
+ "ui_potmonList_battleingTips": {
+  "en": "It is assigned now.",
+  "pt": "Está designado agora.",
+  "ch": "当前正在出战中。"
+ },
+ "ui_potmonList_btnClear": {
+  "en": "Clear",
+  "pt": "Limpar",
+  "ch": "清空"
+ },
+ "ui_potmonList_btnRecall": {
+  "en": "Recall",
+  "pt": "Recolher",
+  "ch": "召回"
+ },
+ "ui_potmonList_btnSend": {
+  "en": "Send",
+  "pt": "Enviar",
+  "ch": "出发"
+ },
+ "ui_potmonList_canUpLevel": {
+  "en": "Ready for Breakthrough",
+  "pt": "Pronto para Avanço",
+  "ch": "可突破"
+ },
+ "ui_potmonList_cantBattle": {
+  "en": "It cannot be assigned now.",
+  "pt": "Não pode ser designado agora.",
+  "ch": "当前状态无法出战。"
+ },
+ "ui_potmonList_cantConver": {
+  "en": "It cannot change form now.",
+  "pt": "Não pode mudar de forma agora.",
+  "ch": "当前状态无法化形"
+ },
+ "ui_potmonList_cantUpGradeTips": {
+  "en": "Breakthrough requirements are not fulfilled",
+  "pt": "Requisitos de Avanço não foram atendidos",
+  "ch": "当前未满足突破条件"
+ },
+ "ui_potmonList_checkRecall": {
+  "en": "Recall the team now? (Reward from adventure this month will be lost)",
+  "pt": "Recolher a equipe agora? (A recompensa da aventura deste mês será perdida)",
+  "ch": "是否立刻召回历练队伍？（本月历练奖励将会损失）"
+ },
+ "ui_potmonList_converCantWork": {
+  "en": "It cannot join in adventure now.",
+  "pt": "Não pode participar da aventura agora.",
+  "ch": "当前状态无法进行历练"
+ },
+ "ui_potmonList_dying": {
+  "en": "Dying",
+  "pt": "Morrendo",
+  "ch": "濒死"
+ },
+ "ui_potmonList_giveFail": {
+  "en": "Already learned manual this month",
+  "pt": "Já aprendeu manual este mês",
+  "ch": "本月已经学习了秘籍"
+ },
+ "ui_potmonList_healthCantWork": {
+  "en": "It cannot join in adventure after changing form.",
+  "pt": "Não pode participar da aventura após mudar de forma.",
+  "ch": "化形后无法进行历练"
+ },
+ "ui_potmonList_hurt": {
+  "en": "Wounded",
+  "pt": "Ferido",
+  "ch": "重伤"
+ },
+ "ui_potmonList_isOnTeam": {
+  "en": "It is in a team now.",
+  "pt": "Está em uma equipe agora.",
+  "ch": "当前在队伍中。"
+ },
+ "ui_potmonList_lockTeam": {
+  "en": "(Reach {0} to unlock)",
+  "pt": "(Alcance {0} para desbloquear)",
+  "ch": "（达到{0}即可解锁）"
+ },
+ "ui_potmonList_opTips": {
+  "en": "Click or drag with |shubiaozuoji| to adjust the team",
+  "pt": "Clique ou arraste com |shubiaozuoji| para ajustar a equipe",
+  "ch": "使用|shubiaozuoji|点击或拖动调整编队"
+ },
+ "ui_potmonList_teamName1": {
+  "en": "Team 1",
+  "pt": "Equipe 1",
+  "ch": "小队一"
+ },
+ "ui_potmonList_teamName2": {
+  "en": "Team 2",
+  "pt": "Equipe 2",
+  "ch": "小队二"
+ },
+ "ui_potmonList_teamName3": {
+  "en": "Team 3",
+  "pt": "Equipe 3",
+  "ch": "小队三"
+ },
+ "ui_potmonList_teamName4": {
+  "en": "Team 4",
+  "pt": "Equipe 4",
+  "ch": "小队四"
+ },
+ "ui_potmonList_titleDirection": {
+  "en": "Adventuring:",
+  "pt": "Aventurando:",
+  "ch": "历练中："
+ },
+ "ui_potmonList_unlockTeam": {
+  "en": "(Unlock on new teams)",
+  "pt": "(Desbloquear em novas equipes)",
+  "ch": "（新小队可解锁）"
+ },
+ "ui_potmonList_unlockUnit": {
+  "en": "Unlockable",
+  "pt": "Desbloqueável",
+  "ch": "可解锁"
+ },
+ "ui_potmonList_upGradeTips": {
+  "en": "Use {itemName2823002} to help {0} make Breakthrough?",
+  "pt": "Usar {itemName2823002} para ajudar {0} a fazer um Avanço?",
+  "ch": "是否确定使用{itemName2823002}帮助{0}突破境界"
+ },
+ "ui_potmonList_workCantWork": {
+  "en": "It cannot change team during adventuring",
+  "pt": "Não pode mudar de equipe durante a aventura",
+  "ch": "正在历练中无法更换队伍"
+ },
+ "ui_potmonList_working": {
+  "en": "Adventuring",
+  "pt": "Aventurando",
+  "ch": "历练中"
+ },
+ "ui_potmonList_working2": {
+  "en": "Adventuring:",
+  "pt": "Aventurando:",
+  "ch": "历练中:"
+ },
+ "ui_potmonList_workingTips": {
+  "en": "It is in adventure now.",
+  "pt": "Está em aventura agora.",
+  "ch": "当前正在历练中。"
+ },
+ "ui_potmonRefineState": {
+  "en": "Absorb into the Gourd",
+  "pt": "Absorver na Cabaça",
+  "ch": "收入壶中"
+ },
+ "ui_potmonWorkTitle": {
+  "en": "Imp's Adventure",
+  "pt": "Aventura do Diabrete",
+  "ch": "壶妖历练"
+ },
+ "ui_promptwarning_PLM": {
+  "en": "You don't have <r>{#role_feature_postnatal_name76211}</r> and can't resist the chill after entering {#fortuitous_event_name4601}. Enter anyway?",
+  "pt": "Você não tem <r>{#role_feature_postnatal_name76211}</r> e não consegue resistir ao frio após entrar em {#fortuitous_event_name4601}. Entrar mesmo assim?",
+  "ch": "你没有<r>{#role_feature_postnatal_name76211}</r>，进入{#fortuitous_event_name4601}无法抵御寒气，是否仍要进入？"
+ },
+ "ui_propUsebasAttr_level1": {
+  "en": "G6",
+  "pt": "G6",
+  "ch": "六品"
+ },
+ "ui_propUsebasAttr_level2": {
+  "en": "G5",
+  "pt": "G5",
+  "ch": "五品"
+ },
+ "ui_propUsebasAttr_level3": {
+  "en": "G4",
+  "pt": "G4",
+  "ch": "四品"
+ },
+ "ui_propUsebasAttr_level4": {
+  "en": "G3",
+  "pt": "G3",
+  "ch": "三品"
+ },
+ "ui_propUsebasAttr_level5": {
+  "en": "G2",
+  "pt": "G2",
+  "ch": "二品"
+ },
+ "ui_propUsebasAttr_level6": {
+  "en": "G1",
+  "pt": "G1",
+  "ch": "一品"
+ },
+ "ui_propUsebasAttr_shiyongtishi": {
+  "en": "Please select at least 1 item",
+  "pt": "Por favor, selecione pelo menos 1 item",
+  "ch": "请至少选择1个道具"
+ },
+ "ui_propUsebasAttr_shiyongtishi1": {
+  "en": "Bulk use successful.",
+  "pt": "Uso em massa bem-sucedido.",
+  "ch": "批量使用成功。"
+ },
+ "ui_propUsebasAttr_shiyongtishi2": {
+  "en": "Bulk use successful. Items that are no longer usable have been ignored.",
+  "pt": "Uso em massa bem-sucedido. Itens que não podem mais ser usados foram ignorados.",
+  "ch": "批量使用成功，已忽略使用失败的道具。"
+ },
+ "ui_propUsebasAttr_tishi": {
+  "en": "Click the item's icon to select. Items that exceed the using cap will be automatically returned.",
+  "pt": "Clique no ícone do item para selecionar. Itens que excederem o limite de uso serão automaticamente devolvidos.",
+  "ch": "点击道具图标进行选择，超出使用上限的道具会自动返还。"
+ },
+ "ui_propUsebasAttr_yixuanze": {
+  "en": "Selected:",
+  "pt": "Selecionado:",
+  "ch": "已选择："
+ },
+ "ui_propUsebasAttr_zizhidaoju": {
+  "en": "Stat Items",
+  "pt": "Itens de Atributo",
+  "ch": "资质道具"
+ },
+ "ui_propinfo_schoolauraChange2": {
+  "en": "Rewrite Destiny is disabled for your current Sect",
+  "pt": "Reescrever o Destino está desabilitado para sua Seita atual",
+  "ch": "所在宗门无法获得逆天改命"
+ },
+ "ui_propinfo_schoolauraChange3": {
+  "en": "Available to Sect Leader only",
+  "pt": "Disponível apenas para o Líder da Seita",
+  "ch": "该物品只有宗主能够使用"
+ },
+ "ui_quxiaoguanzhan": {
+  "en": "Stop Spectating",
+  "pt": "Parar de Observar"
+ },
+ "ui_rebornSkillInfo_attackState1": {
+  "en": "Now: Manual Attack",
+  "pt": "Agora: Ataque Manual",
+  "ch": "当前：手动攻击"
+ },
+ "ui_rebornSkillInfo_attacktip": {
+  "en": "Left-click to toggle Attack mode",
+  "pt": "Clique esquerdo para alternar o modo de Ataque",
+  "ch": "左键点击即可切换攻击状态"
+ },
+ "ui_rebornSkillInfo_change": {
+  "en": "Switch to another Attack mode?",
+  "pt": "Mudar para outro modo de Ataque?",
+  "ch": "是否切换攻击方式"
+ },
+ "ui_rensubuzu": {
+  "en": "Not enough people",
+  "pt": "Pessoas insuficientes",
+  "ch": "人数不足"
+ },
+ "ui_schoolAuraChange_end": {
+  "en": "Sect Rewrite Destiny Replaced!",
+  "pt": "Reescrever o Destino da Seita Substituído!",
+  "ch": "宗门逆天改命修改成功！"
+ },
+ "ui_schoolAuraChange_jinggao": {
+  "en": "Select this Rewrite Destiny?",
+  "pt": "Selecionar este Reescrever o Destino?",
+  "ch": "是否选择该逆天改命"
+ },
+ "ui_schoolMainLobby_diaoduquanxian": {
+  "en": "Dispatch Authority",
+  "pt": "Autoridade de Despacho",
+  "ch": "调度权限"
+ },
+ "ui_school_chengyuan": {
+  "en": "Alliance Members",
+  "pt": "Membros da Aliança",
+  "ch": "仙盟成员"
+ },
+ "ui_school_mengzhu": {
+  "en": "Alliance Master",
+  "pt": "Mestre da Aliança",
+  "ch": "仙盟盟主"
+ },
+ "ui_school_renwu_biaoti1": {
+  "en": "All",
+  "pt": "Todos",
+  "ch": "全部"
+ },
+ "ui_school_renwu_biaoti2": {
+  "en": "Patrol and Guard",
+  "pt": "Patrulha e Guarda",
+  "ch": "巡防"
+ },
+ "ui_school_renwu_biaoti3": {
+  "en": "Routine Operation",
+  "pt": "Operação Rotineira",
+  "ch": "城务"
+ },
+ "ui_school_renwu_biaoti4": {
+  "en": "Bounty on Monsters",
+  "pt": "Recompensa por Monstros",
+  "ch": "妖患"
+ },
+ "ui_scribbles_textRetry": {
+  "en": "Available Retries: {0}",
+  "pt": "Tentativas Restantes: {0}",
+  "ch": "剩余重试次数：{0}"
+ },
+ "ui_scribbles_textStartTips": {
+  "en": "Press and hold LMB to draw.\nClick the button below to finish.",
+  "pt": "Pressione e segure o LMB para desenhar.\nClique no botão abaixo para finalizar.",
+  "ch": "按压鼠标左键绘画线条，\n点击下方按钮完成画符。"
+ },
+ "ui_setting_jianweikong": {
+  "en": "There are unset keys!",
+  "pt": "Existem teclas não definidas!",
+  "ch": "存在未设置的按键!"
+ },
+ "ui_shengji": {
+  "en": "Upgrade",
+  "pt": "Aprimorar",
+  "ch": "升级"
+ },
+ "ui_shengjijinengcitiao": {
+  "en": "Upgraded Skill Affixes",
+  "pt": "Afixos de Habilidade Aprimorada",
+  "ch": "升级技能词条"
+ },
+ "ui_shengjishuoming_des": {
+  "en": "Upgrade Instruction: 1. The original <r>affixes</r> of the skill to be upgraded will remain unchanged, and the new affix could be selected from a certain scope decided by the rarity of the item used in the upgrade\n　　　　 2. If the upgraded <r>Martial Art</r> is added a new <r>Martial Arts affix</r>, the rarity of the Martial Art may increase. New affixes cannot be added to a Martial Art when its <r>affix slots are full</r>.",
+  "pt": "Instruções de Aprimoramento: 1. Os <r>afixos</r> originais da habilidade a ser aprimorada permanecerão inalterados, e o novo afixo poderá ser selecionado dentro de um certo escopo determinado pela raridade do item usado no aprimoramento.\n　　　　 2. Se um novo <r>afixo de Arte Marcial</r> for adicionado à <r>Arte Marcial</r> aprimorada, a raridade da Arte Marcial poderá aumentar. Novos afixos não podem ser adicionados a uma Arte Marcial quando seus <r>espaços de afixo estiverem cheios</r>.",
+  "ch": "升级说明:1.升级技能时会保留原有<r>词条</r>，并根据使用的升级道具品质，提供一定范围的词条进行选择添加\n　　　　 2.若升级的<r>功法</r>新增了<r>功法词条</r>有可能会导致功法品质提升，若功法<r>没有更多的词条栏位</r>，则无法添加词条。"
+ },
+ "ui_shentonghun_tips": {
+  "en": "The Soul's memory is broken",
+  "pt": "A memória da Alma está fragmentada",
+  "ch": "残魂记忆残缺"
+ },
+ "ui_skill_cantUpGradeTips": {
+  "en": "Breakthrough conditions not met. Cannot upgrade Eye of Providence!",
+  "pt": "Condições de Avanço não atendidas. Não é possível aprimorar o Olho da Providência!",
+  "ch": "未满足突破条件，无法升级昊天眼！"
+ },
+ "ui_skill_dangqianyaoshou": {
+  "en": "Current Beast",
+  "pt": "Fera Atual",
+  "ch": "当前妖兽"
+ },
+ "ui_skill_ganwujineng": {
+  "en": "Comprehended Beast Skill",
+  "pt": "Habilidade de Fera Compreendida",
+  "ch": "已领悟的妖兽技能"
+ },
+ "ui_skill_ganwushuliang": {
+  "en": "({0}/{1})",
+  "pt": "({0}/{1})",
+  "ch": "({0}/{1})"
+ },
+ "ui_skill_jinengtishi": {
+  "en": "You can switch the skills of other Beast Skills you've already comprehended here.",
+  "pt": "É possível trocar as Habilidades de Fera que você já compreendeu aqui.",
+  "ch": "可在此切换已领悟的其他妖兽技能"
+ },
+ "ui_skill_kaiguang": {
+  "en": "Breakthrough",
+  "pt": "Avanço",
+  "ch": "突破"
+ },
+ "ui_skill_kaiguangSkill": {
+  "en": "Unlock and defeat {0} Realm Beast: {1}/{2}",
+  "pt": "Desbloqueie e derrote Fera do Reino {0}: {1}/{2}",
+  "ch": "解锁并击败{0}境的妖兽：{1}/{2}"
+ },
+ "ui_skill_shengjitishi": {
+  "en": "Gain Insight into the Skills of the Beast, and they will be unlocked and appear in the list. Unlock and kill 5 higher Realm Beasts, and you can click on Breakthrough to increase the corresponding Beast Skill Realm. Higher Realm Beasts can be found in towns, Sect Mission dungeons, or in higher Realm areas like the Souleater Tower, Tao Realm, and so on.",
+  "pt": "Ao obter Percepção nas Habilidades da Fera, elas serão desbloqueadas e aparecerão na lista. Desbloqueie e mate 5 Feras de Reino superior, e você poderá clicar em Avanço para aumentar o Reino da Habilidade da Fera correspondente. Feras de Reino superior podem ser encontradas em vilas, masmorras de Missões da Seita, ou em áreas de Reino superior como a Torre Devoradora de Almas, Reino do Dao, e assim por diante.",
+  "ch": "成功领悟其技能的妖兽，将会在列表中解锁显示。解锁并击杀5个更高境界的妖兽后，可点击按钮突破，使对应境界的妖兽技能境界提升一级。更高境界的妖兽可能会会于城镇、宗门任务副本，或更高境界的区域，以及噬魂塔、道界等处出没。"
+ },
+ "ui_skill_skillDesUnkown": {
+  "en": "???",
+  "pt": "???",
+  "ch": "？？？"
+ },
+ "ui_skill_skillNameUnkown": {
+  "en": "???",
+  "pt": "???",
+  "ch": "？？？"
+ },
+ "ui_skill_unknowName": {
+  "en": "???",
+  "pt": "???",
+  "ch": "？？？"
+ },
+ "ui_skill_zhuangpeizhong": {
+  "en": "Equipped",
+  "pt": "Equipado",
+  "ch": "装配中"
+ },
+ "ui_switch_StorageTips": {
+  "en": "Press Y for quick access to items",
+  "pt": "Pressione Y para acesso rápido a itens",
+  "ch": "按Y可快速存取道具"
+ },
+ "ui_switch_fangda": {
+  "en": "Blow up",
+  "pt": "Ampliar",
+  "ch": "放大"
+ },
+ "ui_switch_propSell_caozuotishi": {
+  "en": "Press Y for quick operation",
+  "pt": "Pressione Y para operação rápida",
+  "ch": "按Y可快捷操作"
+ },
+ "ui_switch_schoolGetSoul_Tip4": {
+  "en": "Press Y to batch the spirit fruit and press - to empty the spirit fruit",
+  "pt": "Pressione Y para adicionar Frutos Espirituais em lote e pressione - para esvaziar os Frutos Espirituais",
+  "ch": "按下Y批量放入灵果，按-清空放入的灵果"
+ },
+ "ui_switch_suoxiao": {
+  "en": "minification",
+  "pt": "Reduzir",
+  "ch": "缩小"
+ },
+ "ui_switch_yidongguangbiao": {
+  "en": "Moving cursor",
+  "pt": "Mover cursor",
+  "ch": "移动光标"
+ },
+ "ui_taoistSelect_challenge": {
+  "en": "Select Taoist Title to challenge",
+  "pt": "Selecione o Título Daoísta para desafiar",
+  "ch": "选择要挑战的道号"
+ },
+ "ui_teachSkillTip": {
+  "en": "Select a Skill to teach",
+  "pt": "Selecione uma Habilidade para ensinar",
+  "ch": "选择一个技能进行指导"
+ },
+ "ui_tianming_piaodaiwenben": {
+  "en": "Fate",
+  "pt": "Destino",
+  "ch": "天命"
+ },
+ "ui_townFight_daoxingetishi2": {
+  "en": "<r>Taoist Mind Pavilion suffered a setback, and the number of Taoist Fruits rewarded in Immortal Tournament is consequently decreased.</g>",
+  "pt": "<r>O Pavilhão do Coração do Dao sofreu um revés, e o número de Frutos do Dao recompensados no Torneio Imortal consequentemente diminuiu.</g>",
+  "ch": "<r>由于道心阁发展受挫，升仙大会中奖励的道心果有所减少</g>"
+ },
+ "ui_uischoolAuraChange_Tip": {
+  "en": "The selected Rewrite Destiny will replace the one currently in the Spirit Pavilion of your Sect. Obtain it by making Breakthrough in the Spirit Pavilion (Rewrite Destiny is unavailable for special Sects like Dragon Mountain Hamlet and Sects in Chi You)",
+  "pt": "O Reescrever o Destino selecionado substituirá o que está atualmente no Pavilhão do Espírito da sua Seita. Obtenha-o fazendo um Avanço no Pavilhão do Espírito (Reescrever o Destino não está disponível para Seitas especiais como Aldeia da Montanha do Dragão e Seitas em Chi You)",
+  "ch": "选择后的逆天改命将替换原本灵阁中的逆天改命，需在灵阁中突破从而获取（御龙山庄等特殊宗门及赤幽州的宗门无逆天改命）"
+ },
+ "ui_upGradePropCheck": {
+  "en": "Use {0} to upgrade realm?",
+  "pt": "Usar {0} para aprimorar o reino?",
+  "ch": "是否确定使用{0}升级境界"
+ },
+ "ui_upGradePropOk": {
+  "en": "{0} is upgraded to {1}",
+  "pt": "{0} foi aprimorado para {1}",
+  "ch": "{0}成功升级至{1}"
+ },
+ "ui_upGradeUnequipTips": {
+  "en": "To upgrade the Martial Art, you should unequip it first. Continue anyway?",
+  "pt": "Para aprimorar a Arte Marcial, você deve desequipá-la primeiro. Continuar mesmo assim?",
+  "ch": "升级功法需要先卸下，是否继续？"
+ },
+ "ui_warning_SDNPC": {
+  "en": "1 Cultivator wielding the Soul Reaver will be spawned in this game",
+  "pt": "1 Cultivador empunhando o Ceifador de Almas aparecerá neste jogo"
+ },
+ "ui_warning_noSDNPC": {
+  "en": "No cultivator wielding the Soul Reaver will be spawned in this game",
+  "pt": "Nenhum cultivador empunhando o Ceifador de Almas aparecerá neste jogo"
+ },
+ "ui_weidaoshoucao": {
+  "en": "Wave of Monsters has not emerged now",
+  "pt": "A Onda de Monstros ainda não surgiu",
+  "ch": "未到兽潮开始时间"
+ },
+ "ui_weizhuangpeihuwei": {
+  "en": "No guard assigned",
+  "pt": "Nenhum guarda atribuído",
+  "ch": "暂未装配护卫"
+ },
+ "ui_wingManSceneSelectEffect": {
+  "en": "Select the current effect?",
+  "pt": "Selecionar o efeito atual?",
+  "ch": "是否选择当前效果"
+ },
+ "ui_wingmanChange_Title": {
+  "en": "Select Nether Feather",
+  "pt": "Selecionar Pena do Submundo",
+  "ch": "选择冥羽"
+ },
+ "ui_wingmanChange_dangqian": {
+  "en": "Former Feather",
+  "pt": "Pena Anterior",
+  "ch": "原先冥羽"
+ },
+ "ui_wingmanChange_select": {
+  "en": "Select this Nether Feather?",
+  "pt": "Selecionar esta Pena do Submundo?",
+  "ch": "是否选择此冥羽"
+ },
+ "ui_wingmanChange_xin": {
+  "en": "New Feather",
+  "pt": "Nova Pena",
+  "ch": "新凝冥羽"
+ },
+ "ui_xiageyuediyu": {
+  "en": "Will defend {0}'s attack next month!",
+  "pt": "Defenderá o ataque de {0} no próximo mês!",
+  "ch": "下个月将抵御{0}的进攻！"
+ },
+ "ui_xiageyuejingong": {
+  "en": "Will attack {0} next month!",
+  "pt": "Atacará {0} no próximo mês!",
+  "ch": "下个月将进攻{0}！"
+ },
+ "ui_xianfa_wzbxf": {
+  "en": "No Heavenly Art equipped",
+  "pt": "Nenhuma Arte Imortal equipada",
+  "ch": "未装备仙法"
+ },
+ "ui_xianfa_xfwcy": {
+  "en": "Heavenly Art not fully charged",
+  "pt": "Arte Imortal não totalmente carregada",
+  "ch": "仙法未充盈"
+ },
+ "ui_xianfa_xfzbz": {
+  "en": "Preparing Heavenly Art...",
+  "pt": "Preparando Arte Imortal...",
+  "ch": "仙法准备中"
+ },
+ "ui_xinzeng": {
+  "en": "New",
+  "pt": "Novo",
+  "ch": "新增"
+ },
+ "ui_xuanzeshengjicitiao": {
+  "en": "Please select an upgraded skill affix",
+  "pt": "Selecione um afixo de Habilidade aprimorado",
+  "ch": "请选择升级技能词条"
+ },
+ "ui_zhangonghuangongxian": {
+  "en": "Exchange for Sect Contribution",
+  "pt": "Trocar por Contribuição da Seita",
+  "ch": "兑换宗门贡献"
+ },
+ "ui_zmbdjfs_zhongshang": {
+  "en": "Wounded",
+  "pt": "Ferido",
+  "ch": "重伤"
+ },
+ "ui_zmdbdj_dragTips": {
+  "en": "Change the location of the Treasure by long pressing the left mouse button and dragging the item icon.",
+  "pt": "Mude a localização do Tesouro pressionando e arrastando o ícone do Item com o botão esquerdo do mouse.",
+  "ch": "可以通过长按鼠标左键拖动道具图标来调换秘宝位置。"
+ },
+ "ui_zmdbdj_keyTips": {
+  "en": "Use F1–F5 of the keyboard or click on the item to make Disciples on the battlefield use it.",
+  "pt": "Use F1–F5 do teclado ou clique no Item para que os Discípulos no Campo de Batalha o utilizem.",
+  "ch": "键盘点击F1~F5或者左键点击道具即可令场上弟子使用。"
+ },
+ "ui_zmdbdj_tips": {
+  "en": "The <u>subordinate Disciple</u> of the Sect can carry out a <#55FF33>Commission</color>. When you have the authority to Commission that Disciple's battle, you can assign a Treasure. When watching the Disciple fight, you can <#FF0000>command the Disciple to use the Treasure at the corresponding time</color>.",
+  "pt": "O <u>Discípulo subordinado</u> da Seita pode realizar uma <#55FF33>Supervisão</color>. Quando você tem autoridade para Supervisionar a batalha desse Discípulo, você pode atribuir um Tesouro. Ao observar o Discípulo lutar, você pode <#FF0000>ordenar que o Discípulo use o Tesouro no momento correspondente</color>.",
+  "ch": "宗门的<u>下属弟子</u>可以进行<#55FF33>督战</color>，拥有该弟子督战权限时可为该弟子分配秘宝。当观战督战弟子战斗时，可以<#FF0000>指挥其在对应时机使用秘宝</color>。"
+ },
+ "ui_zmdbjfs_1": {
+  "en": "1",
+  "pt": "1",
+  "ch": "一"
+ },
+ "ui_zmdbjfs_2": {
+  "en": "2",
+  "pt": "2",
+  "ch": "二"
+ },
+ "ui_zmdbjfs_3": {
+  "en": "3",
+  "pt": "3",
+  "ch": "三"
+ },
+ "ui_zmdbjfs_4": {
+  "en": "The opponent Sect has no more Disciples to put in play.\nYour Sect wins this round.",
+  "pt": "A Seita oponente não tem mais Discípulos para colocar em jogo.\nSua Seita vence esta rodada.",
+  "ch": "对方宗门已无弟子可上场\n本局我方宗门获胜"
+ },
+ "ui_zmdbjfs_5": {
+  "en": "Your Sect has no more Disciples to put in play.\nThe opponent Sects wins this round.",
+  "pt": "Sua Seita não tem mais Discípulos para colocar em jogo.\nA Seita oponente vence esta rodada.",
+  "ch": "我方宗门已无弟子可上场\n本局对方宗门获胜"
+ },
+ "ui_zmdbjfs_6": {
+  "en": "Both Sects have no more Disciples to put into play. The match is a tie.",
+  "pt": "Ambas as Seitas não têm mais Discípulos para colocar em jogo. A partida é um empate.",
+  "ch": "双方宗门已无弟子可上场，本局平局。"
+ },
+ "ui_zmdbjfs_battleTextAbstained": {
+  "en": "Forfeit",
+  "pt": "Desistir",
+  "ch": "弃权"
+ },
+ "ui_zmdbjfs_battleTextRule": {
+  "en": "Victory condition: Win {1}/{0}",
+  "pt": "Condição de vitória: Vencer {1}/{0}",
+  "ch": "获胜条件：{0}局{1}胜"
+ },
+ "ui_zmdbjfs_contentIntro": {
+  "en": "The Sect Points Race is a round robin competition against other Sects. Get <#791515>3 points</color> for victory. Both sides earn <#791515>1 point each</color> for a tie, and defeat means <#791515>no points</color>.\nAt the end of the Points Race, the <#791515>Top 3</color> in terms of points can obtain the <#791515>right to participate</color> in the Open Challenge Match, and eventually compete for the top 3 spots in the Sect Tournament.",
+  "pt": "A Corrida de Pontos da Seita é uma competição de pontos corridos contra outras Seitas. Ganhe <#791515>3 Pontos</color> pela vitória. Ambos os lados ganham <#791515>1 Ponto cada</color> por um empate, e a derrota significa <#791515>nenhum Ponto</color>.\nAo final da Corrida de Pontos, os <#791515>3 Melhores</color> em termos de Pontos podem obter o <#791515>direito de participar</color> na Partida de Desafio Aberto, e eventualmente competir pelas 3 primeiras posições no Torneio da Seita.",
+  "ch": "宗门积分赛为分别与其它宗门逐一对战的循环赛，胜利<#791515>积3分</color>，平局双方<#791515>各积1分</color>，失败<#791515>不积分</color>。\n积分赛结束时，积分<#791515>前三名</color>可以获得擂台赛<#791515>出战资格</color>，最终角逐宗门大比的前三席位。"
+ },
+ "ui_zmdbjfs_explain": {
+  "en": "Sect Tournament Points Race Rules:\n1. The Sect Tournament Points Race is a round-robin system where you have to win three out of five. The first to get three wins will win the round.\n2. The winner of the previous round will select Disciples first. During the match, it is allowed to use the items in the item bar and treasures obtained from the Treasury.",
+  "pt": "Regras da Corrida de Pontos do Torneio da Seita:\n1. A Corrida de Pontos do Torneio da Seita é um sistema de pontos corridos onde você tem que vencer três de cinco. O primeiro a conseguir três vitórias vencerá a rodada.\n2. O vencedor da rodada anterior selecionará os Discípulos primeiro. Durante a partida, é permitido usar os Itens na barra de Itens e Tesouros obtidos do Salão do Tesouro.",
+  "ch": "宗门大比积分赛说明：\n1.宗门大比积分赛采用五局三胜循环赛制，先获得三胜方获得本轮胜利。\n2.上一局获胜方先选择出战弟子。对阵过程中允许使用道具栏上的道具和秘宝阁求取的秘宝。"
+ },
+ "ui_zmdbjfs_opp": {
+  "en": "Opponent",
+  "pt": "Oponente",
+  "ch": "对方"
+ },
+ "ui_zmdbjfs_own": {
+  "en": "Team",
+  "pt": "Equipe",
+  "ch": "我方"
+ },
+ "ui_zmdbjfs_restHpRecovery": {
+  "en": "Rest and recover Vitality.",
+  "pt": "Descanse e recupere a Vitalidade.",
+  "ch": "休整回复体力"
+ },
+ "ui_zmdbjfs_schBattleReady": {
+  "en": "Preparing...",
+  "pt": "Preparando...",
+  "ch": "准备中..."
+ },
+ "ui_zmdbjfs_scoreRankStr1": {
+  "en": "First Place",
+  "pt": "Primeiro Lugar",
+  "ch": "第一名"
+ },
+ "ui_zmdbjfs_scoreRankStr2": {
+  "en": "Second Place",
+  "pt": "Segundo Lugar",
+  "ch": "第二名"
+ },
+ "ui_zmdbjfs_scoreRankStr3": {
+  "en": "Third Place",
+  "pt": "Terceiro Lugar",
+  "ch": "第三名"
+ },
+ "ui_zmdbjfs_scoreSchTextScore": {
+  "en": "{0} Points",
+  "pt": "{0} Pontos",
+  "ch": "积分  {0}"
+ },
+ "ui_zmdbjfs_scoreTextBtnOk": {
+  "en": "Withdraw from Sect Tournament",
+  "pt": "Sair do Torneio da Seita",
+  "ch": "退出宗门大比"
+ },
+ "ui_zmdbjfs_scoreTextBtnOkPromoted": {
+  "en": "Enter Sect Open Challenge Match",
+  "pt": "Entrar na Luta de Desafio Aberto da Seita",
+  "ch": "进入擂台赛"
+ },
+ "ui_zmdbjfs_scoreTextTips": {
+  "en": "Not qualified for Open Challenge",
+  "pt": "Não qualificado para Desafio Aberto",
+  "ch": "未获得擂台赛资格"
+ },
+ "ui_zmdbjfs_scoreTextTipsPromoted": {
+  "en": "Qualified for Open Challenge",
+  "pt": "Qualificado para Desafio Aberto",
+  "ch": "获得进入擂台赛资格"
+ },
+ "ui_zmdbjfs_scoreTextTitlePromoted": {
+  "en": "Advance",
+  "pt": "Avançar",
+  "ch": "晋级"
+ },
+ "ui_zmdbjfs_textBattleItemIndex": {
+  "en": "VS {0}",
+  "pt": "VS {0}",
+  "ch": "对阵{0}"
+ },
+ "ui_zmdbjfs_textOptStartBattle": {
+  "en": "Start",
+  "pt": "Começar",
+  "ch": "开始"
+ },
+ "ui_zmdbjfs_textPropsTitle": {
+  "en": "{0} owns items:",
+  "pt": "{0} possui itens:",
+  "ch": "{0}已持有道具："
+ },
+ "ui_zmdbjfs_textRound1": {
+  "en": "Round 1",
+  "pt": "Rodada 1",
+  "ch": "第一轮"
+ },
+ "ui_zmdbjfs_textRound2": {
+  "en": "Round 2",
+  "pt": "Rodada 2",
+  "ch": "第二轮"
+ },
+ "ui_zmdbjfs_textRound3": {
+  "en": "Round 3",
+  "pt": "Rodada 3",
+  "ch": "第三轮"
+ },
+ "ui_zmdbjfs_textRound4": {
+  "en": "Round 4",
+  "pt": "Rodada 4",
+  "ch": "第四轮"
+ },
+ "ui_zmdbjfs_textRound5": {
+  "en": "Round 5",
+  "pt": "Rodada 5",
+  "ch": "第五轮"
+ },
+ "ui_zmdbjfs_textRound6": {
+  "en": "Round 6",
+  "pt": "Rodada 6",
+  "ch": "第六轮"
+ },
+ "ui_zmdbjfs_textSchRank1": {
+  "en": "1st",
+  "pt": "1o",
+  "ch": "第一名"
+ },
+ "ui_zmdbjfs_textSchRank2": {
+  "en": "2nd",
+  "pt": "2o",
+  "ch": "第二名"
+ },
+ "ui_zmdbjfs_textSchRank3": {
+  "en": "3rd",
+  "pt": "3o",
+  "ch": "第三名"
+ },
+ "ui_zmdbjfs_textSchRank4": {
+  "en": "4th",
+  "pt": "4o",
+  "ch": "第四名"
+ },
+ "ui_zmdbjfs_textSchRank5": {
+  "en": "5th",
+  "pt": "5o",
+  "ch": "第五名"
+ },
+ "ui_zmdbjfs_textSchRank6": {
+  "en": "6th",
+  "pt": "6o",
+  "ch": "第六名"
+ },
+ "ui_zmdbjfs_textSelectStud": {
+  "en": "Select Disciple(s)",
+  "pt": "Selecione um ou mais Discípulos",
+  "ch": "选择弟子"
+ },
+ "ui_zmdbjfs_textStart": {
+  "en": "Confirm",
+  "pt": "Confirmar",
+  "ch": "确认"
+ },
+ "ui_zmdbjfs_textStartAsLeader": {
+  "en": "Fight",
+  "pt": "Lutar",
+  "ch": "开始战斗"
+ },
+ "ui_zmdbjfs_tipsAfterRoundFinished": {
+  "en": "Waiting for {0} results...",
+  "pt": "Aguardando {0} resultados...",
+  "ch": "等待{0}结束..."
+ },
+ "ui_zmdbjfs_tipsBattleTextBtnStart": {
+  "en": "Start",
+  "pt": "Iniciar",
+  "ch": "开 始"
+ },
+ "ui_zmdbjfs_tipsBattleTextTitle": {
+  "en": "<color=#FFC700>{0}</color>'s Treasure",
+  "pt": "<color=#FFC700>{0}</color>'s Tesouro",
+  "ch": "<color=#FFC700>{0}</color>的秘宝"
+ },
+ "ui_zmdbjfs_tipsNotStart": {
+  "en": "Starting soon!",
+  "pt": "Começando em breve!",
+  "ch": "暂未开始"
+ },
+ "ui_zmdbjfs_tipsOppChoose": {
+  "en": "Opponent's choice",
+  "pt": "Escolha do oponente",
+  "ch": "对方选择"
+ },
+ "ui_zmdbjfs_tipsOwnChoose": {
+  "en": "Our choice",
+  "pt": "Nossa escolha",
+  "ch": "我方选择"
+ },
+ "ui_zmdbjfs_tipsResultDraw": {
+  "en": "Equal strength",
+  "pt": "Força igual",
+  "ch": "实力相当"
+ },
+ "ui_zmdbjfs_tipsResultWin": {
+  "en": "{0} wins",
+  "pt": "{0} vence",
+  "ch": "{0}获胜"
+ },
+ "ui_zmdbjfs_tipsSchBattling": {
+  "en": "In Formation",
+  "pt": "Em Formação",
+  "ch": "对阵中"
+ },
+ "ui_zmdbjfs_tipsSchFinished": {
+  "en": "Ended",
+  "pt": "Encerrado",
+  "ch": "已结束"
+ },
+ "ui_zmdbjfs_tipsSelect0001": {
+  "en": "Good players are needed to win in chaos",
+  "pt": "São necessários bons jogadores para vencer no caos.",
+  "ch": "乱中求胜，需用好手"
+ },
+ "ui_zmdbjfs_tipsSelect0002": {
+  "en": "Lead in scores to retain advantage",
+  "pt": "Liderar nas pontuações para manter a vantagem",
+  "ch": "比分领先，可作保留"
+ },
+ "ui_zmdbjfs_tipsSelect0003": {
+  "en": "You can only compete if the opponent is strong",
+  "pt": "Só se pode competir se o oponente for forte.",
+  "ch": "对方势强，只可争锋"
+ },
+ "ui_zmdbjfs_tipsSelect0004": {
+  "en": "Victory comes easily if the opponent is weak",
+  "pt": "A vitória vem facilmente se o adversário for fraco.",
+  "ch": "对方势弱，必能轻取"
+ },
+ "ui_zmdbjfs_tipsSelect0005": {
+  "en": "If the opponent is strong, show them you are weak",
+  "pt": "Se o oponente for forte, mostre a ele que você é fraco.",
+  "ch": "对方势强，示敌以弱"
+ },
+ "ui_zmdbjfs_tipsSelect0006": {
+  "en": "If the opponent is too strong, forfeit to avoid damage",
+  "pt": "Se o oponente for muito forte, desista para evitar danos.",
+  "ch": "对方势强，弃权以避"
+ },
+ "ui_zmdbjfs_tipsSelect0007": {
+  "en": "If the opponent is strong, fight to the death",
+  "pt": "Se o adversário for forte, lute até a morte.",
+  "ch": "对方势强，殊死一搏"
+ },
+ "ui_zmdbjfs_tipsSelect0008": {
+  "en": "Fight full force to the end of the competition",
+  "pt": "Lute com toda a força até o fim da competição",
+  "ch": "比赛尾声，拼尽全力"
+ },
+ "ui_zmdbjfs_tipsSelectChkOppPow": {
+  "en": "{0} {1} is examining the disciples {2} sent out",
+  "pt": "{0} {1} está examinando os discípulos {2} que foram enviados",
+  "ch": "{0}{1}正在审视{2}派出弟子"
+ },
+ "ui_zmdbjfs_tipsSelectChkOppState": {
+  "en": "{0} {1} is considering their Disciples' status",
+  "pt": "{0} {1} está avaliando a situação dos seus Discípulos.",
+  "ch": "{0}{1}正在思考其弟子状态"
+ },
+ "ui_zmdbjfs_tipsSelectChkOppUnit": {
+  "en": "{0} {1} is considering their Disciples' cultivation levels",
+  "pt": "{0} {1} está avaliando os níveis de cultivo dos seus Discípulos.",
+  "ch": "{0}{1}正在思考其弟子修为"
+ },
+ "ui_zmdbjfs_tipsSelectChkOwnPow": {
+  "en": "{0} {1} is considering the strength of Sect {2}",
+  "pt": "{0} {1} está avaliando a força da Seita {2}",
+  "ch": "{0}{1}正在思考{2}宗门实力"
+ },
+ "ui_zmdbjfs_tipsSelectChkScore": {
+  "en": "{0}{1} is considering the current score",
+  "pt": "{0}{1} está analisando a pontuação atual",
+  "ch": "{0}{1}正在思考目前比分"
+ }
+}

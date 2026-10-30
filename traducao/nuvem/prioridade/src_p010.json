@@ -1,0 +1,621 @@
+{
+ "ImmortalMethod_specialEffectDesc4000": {
+  "en": "<o>Immortal Path</o>\nDuring it, the damage dealt will increase by &710004_shts&%.\nThe Heavenly Art deals &810018_dxsh|-10000|f0&% damage to Immortals\nThe Heavenly Art deals &810019_dysh|-10000|f0&% damage to Nether Demons",
+  "pt": "<o>Caminho Imortal</o>\nDurante este período, o dano infligido aumentará em &710004_shts&%.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
+  "ch": "<o>仙道</o>\n持续期间，自身伤害提高&710004_shts&%。\n仙法对仙人的伤害&810018_dxsh|-10000|f0&%\n仙法对冥妖的伤害&810019_dysh|-10000|f0&%"
+ },
+ "ImmortalMethod_specialEffectDesc5000": {
+  "en": "<o>Music Immortal's Power</o>\nWhen casting Ultimate Skill, a clone of the Music Immortal will be summoned onto the battlefield to issue a kick on the target with the highest HP, dealing damage to it. Cooldown for the kick: &710005_ftCD&s.\nAfter hitting the enemy, the kick will generate &710005_ybsl& sound waves every second on its location. The sound waves last for &710005_sfybsj&s, and will affect units within &710005_ybbzfw& range.\nThe sound waves will deal &710005_ybwl& damage to enemies hit, and Confuse them for &710005_hlsj&s.\nThe sound waves will increase the Agility of the affected allied units by &710005_tsysbl&%, and decrease their cooldown of Martial Skills by &710005_lqjdbl&%. Allied effects are stackable for max &710005_ybcs& layers, lasting for &710005_ybcxsj&s.\nThe Heavenly Art deals &810018_dxsh|-10000|f0&% damage to Immortals\nThe Heavenly Art deals &810019_dysh|-10000|f0&% damage to Nether Demons",
+  "pt": "<o>Poder do Imortal da Música</o>\nAo lançar a Técnica Suprema, um clone do Imortal da Música será convocado ao campo de batalha para emitir um chute no alvo com a maior quantidade de HP, causando dano a ele. Tempo de recarga para o chute: &710005_ftCD& segundos.\nDepois de acertar o inimigo, o chute gerará &710005_ybsl& ondas sonoras a cada segundo em sua localização. As ondas sonoras duram por &710005_sfybsj& segundos e afetarão unidades dentro de um alcance de &710005_ybbzfw&.\nAs ondas sonoras causarão &710005_ybwl& de dano aos inimigos atingidos e os deixarão Confusos por &710005_hlsj& segundos.\nAs ondas sonoras aumentarão a Agilidade das unidades aliadas afetadas em &710005_tsysbl&% e diminuirão o tempo de recarga das suas Técnicas Marciais em &710005_lqjdbl&%. Os efeitos aliados são acumuláveis até um máximo de &710005_ybcs& camadas, durando por &710005_ybcxsj& segundos.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
+  "ch": "<o>乐仙仙力</o>\n释放神通时，会召唤乐仙的分身对血量最高的目标进行一次飞踢攻击造成伤害，冷却时间&710005_ftCD&秒。\n飞踢击中敌人后会在原地每秒产生&710005_ybsl&个音波，持续&710005_sfybsj&秒，影响&710005_ybbzfw&范围内的单位。\n音波对波及的敌方单位造成威力&710005_ybwl&的伤害，并使其处于敌我不分的状态，持续&710005_hlsj&秒。\n音波使波及的友方单位，移动速度提升&710005_tsysbl&%，武技冷却&710005_lqjdbl&%，最大可叠加&710005_ybcs&层，持续&710005_ybcxsj&秒。\n仙法对仙人的伤害&810018_dxsh|-10000|f0&%\n仙法对冥妖的伤害&810019_dysh|-10000|f0&%"
+ },
+ "ImmortalMethod_specialEffectDesc6000": {
+  "en": "<o>Lizhu's Fighting Soul</o>\nMartial Skill: In continuous casting: Pierce &710006_qccs& times toward the direction of the mouse, dealing &710006_qcwl& damage every second.\nSpecial Skill: Throw a javelin of &710006_tqjl& range, dealing &710006_tqwl& damage to the unit hit, and leave the javelin on the ground. Cooldown: &710006_tqcd&s. Cost: &710006_tqllxh& Energy.\nMotion Skill: Rush to the javelin closest to the mouse. The distance passed when rushing will be illuminated by spear lights, dealing &710006_ccwl& damage to enemies on the way, and consume the javelin. Cooldown: &710006_cccd&s. Cost: &710006_ccllxh& Energy.\nUltimate Skill: Call a huge spear of light falling from the sky, dealing &710006_dgqbzwl& damage to all enemies on the battlefield, and end Transformation. Cooldown: &710006_dgqcd&s.\nIf the user dies as Lizhu's Fighting Soul, the Ultimate Skill in the Transformation will be auto-cast, and the Transformation will be auto-ended.\nThe Heavenly Art deals &810018_dxsh|-10000|f0&% damage to Immortals\nThe Heavenly Art deals &810019_dysh|-10000|f0&% damage to Nether Demons",
+  "pt": "<o>Alma de Combate de Lizhu</o>\nTécnica Marcial: Em lançamento contínuo: Perfura &710006_qccs& vezes em direção do mouse, causando &710006_qcwl& de dano a cada segundo.\nTécnica Especial: Lança uma lança de alcance &710006_tqjl&, causando &710006_tqwl& de dano à unidade atingida e deixando a lança no chão. Tempo de recarga: &710006_tqcd& segundos. Custo: &710006_tqllxh& Energia.\nTécnica de Movimento: Corre até a lança mais próxima do mouse. A distância percorrida ao correr será iluminada por luzes de lança, causando &710006_ccwl& de dano aos inimigos no caminho e consumindo a lança. Tempo de recarga: &710006_cccd& segundos. Custo: &710006_ccllxh& Energia.\nTécnica Suprema: Invoca uma enorme lança de luz do céu, causando &710006_dgqbzwl& de dano a todos os inimigos no campo de batalha e encerrando a Transformação. Tempo de recarga: &710006_dgqcd& segundos.\nSe o usuário morrer como a Alma de Combate de Lizhu, a Técnica Suprema na Transformação será lançada automaticamente e a Transformação será encerrada automaticamente, retornando ao estado anterior à transformação.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
+  "ch": "<o>离珠斗神体</o>\n武技：持续释放：每秒对鼠标方向进行&710006_qccs&次枪刺攻击，每秒造成威力&710006_qcwl&的伤害。\n绝技：投出一根射程&710006_tqjl&的长枪，命中单位后造成威力&710006_tqwl&的伤害并留下一根光枪插在地上。冷却时间&710006_tqcd&秒，灵力消耗&710006_tqllxh&。\n身法：冲刺到距离鼠标最近的一根光枪处，冲刺时对冲刺方向的整条直线发出枪芒，对路径上造成威力&710006_ccwl&的伤害并消耗该光枪。冷却时间&710006_cccd&秒，灵力消耗&710006_ccllxh&。\n神通：从天而降一把巨大光枪，对全屏造成威力&710006_dgqbzwl&的伤害并取消变身状态。冷却时间&710006_dgqcd&秒。\n处于离珠斗神体期间若死亡会自动释放巨大光枪技能并取消变身状态，恢复变身前的状态。\n仙法对仙人的伤害&810018_dxsh|-10000|f0&%\n仙法对冥妖的伤害&810019_dysh|-10000|f0&%"
+ },
+ "ImmortalMethod_specialEffectDesc7000": {
+  "en": "<o>Canglong's Power</o>\nEvery time casting a Special Skill, Canglong will assist in attacking by smashing the hammer down, dealing &710007_czjcwl& damage to all units at the location of the mouse, and generating a gravity array of &710007_czshfw& range. Cooldown: &710007_cjCD&s.\nThe gravity array will Confine all units within it for &710007_jgsj&s. Afterwards, the array will explode, dealing &710007_zlbzwl& damage.\nThe Heavenly Art deals &810018_dxsh|-10000|f0&% damage to Immortals\nThe Heavenly Art deals &810019_dysh|-10000|f0&% damage to Nether Demons",
+  "pt": "<o>Poder de Canglong</o>\nA cada vez que lançar uma Técnica Especial, Canglong ajudará no ataque esmagando o martelo para baixo, causando &710007_czjcwl& de dano a todas as unidades na localização do mouse e gerando uma matriz de gravidade de alcance &710007_czshfw&. Tempo de recarga: &710007_cjCD& segundos.\nA matriz de gravidade prenderá todas as unidades dentro dela por &710007_jgsj& segundos. Depois disso, a matriz explodirá, causando &710007_zlbzwl& de dano.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
+  "ch": "<o>沧泷仙力</o>\n每次施放绝技时，沧泷都会协同攻击，砸下锤子，对鼠标位置所有单位造成威力&710007_czjcwl&的伤害，并生成一个范围&710007_czshfw&的重力法阵，冷却时间&710007_cjCD&秒。\n重力法阵会禁锢范围内所有单位，持续&710007_jgsj&秒。结束后，法阵爆炸造成威力&710007_zlbzwl&的伤害。\n仙法对仙人的伤害&810018_dxsh|-10000|f0&%\n仙法对冥妖的伤害&810019_dysh|-10000|f0&%"
+ },
+ "ImmortalName1000": {
+  "en": "Metallic Iridescence",
+  "pt": "Irisdescência Metálica",
+  "ch": "金虹破晓"
+ },
+ "ImmortalName1002": {
+  "en": "King Luhua",
+  "pt": "Rei Luhua",
+  "ch": "芦花王"
+ },
+ "ImmortalName1003": {
+  "en": "Sun Blocking Heavenly Mushroom",
+  "pt": "Cogumelo Celestial Bloqueador do Sol",
+  "ch": "蔽日仙菌"
+ },
+ "ImmortalName1016": {
+  "en": "Zigu",
+  "pt": "Zigu",
+  "ch": "紫姑"
+ },
+ "ImmortalName1017": {
+  "en": "Shattered Altar",
+  "pt": "Altar Despedaçado",
+  "ch": "破碎祭坛"
+ },
+ "ImmortalName1018": {
+  "en": "Soul Devouring Pagoda",
+  "pt": "Pagoda Devoradora de Almas",
+  "ch": "噬魂塔"
+ },
+ "ItemHobbyLevel1": {
+  "en": "N",
+  "pt": "N",
+  "ch": "残品"
+ },
+ "ItemHobbyLevel2": {
+  "en": "R",
+  "pt": "R",
+  "ch": "精品"
+ },
+ "ItemHobbyLevel3": {
+  "en": "SR",
+  "pt": "SR",
+  "ch": "珍品"
+ },
+ "ItemHobbyLevel4": {
+  "en": "SSR",
+  "pt": "SSR",
+  "ch": "绝品"
+ },
+ "ItemHobbyLevel5": {
+  "en": "UR",
+  "pt": "UR",
+  "ch": "八荒奇珍"
+ },
+ "ItemHobbyLevelDiss": {
+  "en": "You're not interested in {0} items.",
+  "pt": "Você não está interessado em itens {0}.",
+  "ch": "你现在对{0}的道具不感兴趣"
+ },
+ "KuaFuStatusPrompt": {
+  "en": "Giving spirit fruits restores stamina, while giving spirit spring water restores energy and health.",
+  "pt": "Dar frutas espirituais restaura o vigor, enquanto dar água da fonte espiritual restaura a energia e a saúde."
+ },
+ "LifeSkill_CD": {
+  "en": "On cooldown",
+  "pt": "Em espera",
+  "ch": "冷却中"
+ },
+ "LifeSkill_CanUse": {
+  "en": "Available",
+  "pt": "Disponível",
+  "ch": "可使用"
+ },
+ "LifeSkill_Cost": {
+  "en": "Stamina Cost: ",
+  "pt": "Custo de Vigor: ",
+  "ch": "消耗精力："
+ },
+ "LifeSkill_NotUse": {
+  "en": "Already in effect.",
+  "pt": "Já em efeito.",
+  "ch": "被动技能已生效"
+ },
+ "LifeSkill_State": {
+  "en": "Skill Status: ",
+  "pt": "Estado da Habilidade: ",
+  "ch": "技能状态："
+ },
+ "LifeSkill_Time": {
+  "en": "Cooldown: ",
+  "pt": "Tempo de Espera: ",
+  "ch": "冷却时间："
+ },
+ "LifeSkill_Use": {
+  "en": "Use the life skill: ",
+  "pt": "Usar a habilidade de vida: ",
+  "ch": "是否使用生活技能:"
+ },
+ "PlayerInfo_daojutishi": {
+  "en": "Note: There are 5 item slots available for combat. Only Elixirs and Artifacts can be equipped.\nEach slot can be equipped with up to 5 Elixirs.",
+  "pt": "Nota: Existem 5 espaços de itens disponíveis para combate. Apenas Elixires e Artefatos podem ser equipados.\nCada espaço pode ser equipado com até 5 Elixires.",
+  "ch": "注：五个道具栏可以带入战斗，只可以装入丹药、法宝。\n每个槽位最多可携带5颗丹药。"
+ },
+ "PlayerInfo_kuangshi": {
+  "en": "Ore",
+  "pt": "Minério",
+  "ch": "矿石"
+ },
+ "PlayerInfo_yaocai": {
+  "en": "Herbology",
+  "pt": "Herbologia",
+  "ch": "药材"
+ },
+ "RuleDungeonName1": {
+  "en": "Blade",
+  "pt": "Lâmina",
+  "ch": "刀"
+ },
+ "RuleDungeonName11": {
+  "en": "Fire",
+  "pt": "Fogo",
+  "ch": "火"
+ },
+ "RuleDungeonName12": {
+  "en": "Water",
+  "pt": "Água",
+  "ch": "水"
+ },
+ "RuleDungeonName13": {
+  "en": "Lightning",
+  "pt": "Relâmpago",
+  "ch": "雷"
+ },
+ "RuleDungeonName14": {
+  "en": "Wind",
+  "pt": "Vento",
+  "ch": "风"
+ },
+ "RuleDungeonName15": {
+  "en": "Earth",
+  "pt": "Terra",
+  "ch": "土"
+ },
+ "RuleDungeonName16": {
+  "en": "Wood",
+  "pt": "Madeira",
+  "ch": "木"
+ },
+ "RuleDungeonName2": {
+  "en": "Spear",
+  "pt": "Lança",
+  "ch": "枪"
+ },
+ "RuleDungeonName3": {
+  "en": "Sword",
+  "pt": "Espada",
+  "ch": "剑"
+ },
+ "RuleDungeonName4": {
+  "en": "Fist",
+  "pt": "Punho",
+  "ch": "拳"
+ },
+ "RuleDungeonName5": {
+  "en": "Palm",
+  "pt": "Palma",
+  "ch": "掌"
+ },
+ "RuleDungeonName6": {
+  "en": "Finger",
+  "pt": "Dedo",
+  "ch": "指"
+ },
+ "SchoolDepartmentName1": {
+  "en": "Recruitment",
+  "pt": "Recrutamento",
+  "ch": "招贤堂"
+ },
+ "SchoolDepartmentName2": {
+  "en": "Patrol",
+  "pt": "Patrulha",
+  "ch": "巡查堂"
+ },
+ "SchoolDepartmentName3": {
+  "en": "External Affair",
+  "pt": "Assuntos Externos",
+  "ch": "外务堂"
+ },
+ "SchoolDepartmentName4": {
+  "en": "Construction",
+  "pt": "Construção",
+  "ch": "修筑堂"
+ },
+ "SchoolDepartmentName5": {
+  "en": "Treasure Department",
+  "pt": "Departamento de Tesouros",
+  "ch": "贮宝堂"
+ },
+ "SchoolLibrary_ChangeTip": {
+  "en": "Click to replace the corresponding Martial Arts direction",
+  "pt": "Clique para substituir a direção correspondente das Artes Marciais",
+  "ch": "点击更换相应功法方向"
+ },
+ "SchoolLibrary_ChangeTitle2": {
+  "en": "Martial Arts Library",
+  "pt": "Biblioteca de Artes Marciais",
+  "ch": "功法库"
+ },
+ "SchoolLibrary_noMain": {
+  "en": "You are not the Sect Leader and have no right to interfere with the Manual Library's main Martial Arts direction",
+  "pt": "Você não é o Líder da Seita e não tem direito de interferir na direção principal das Artes Marciais da Biblioteca de Manuais",
+  "ch": "你非本宗宗主，无权干涉藏经阁主修功法方向"
+ },
+ "SchoolLibrary_wasWear": {
+  "en": "Equipped",
+  "pt": "Equipado",
+  "ch": "已装备"
+ },
+ "SchoolMainLobby_ForeignAffairsEnemys": {
+  "en": "Hostile Sect",
+  "pt": "Seita Hostil",
+  "ch": "敌对宗门："
+ },
+ "SchoolMainLobby_ForeignAffairsFriends": {
+  "en": "Friendly Sect",
+  "pt": "Seita Amiga",
+  "ch": "友好宗门："
+ },
+ "SchoolMainLobby_ForeignAffairsInformation": {
+  "en": "Sect Intelligence",
+  "pt": "Inteligência da Seita",
+  "ch": "宗门情报"
+ },
+ "SchoolMainLobby_ForeignAffairsTitle": {
+  "en": "Sect Relationship",
+  "pt": "Relacionamento entre Seitas",
+  "ch": "宗门关系"
+ },
+ "SchoolMainLobby_MenberTitle": {
+  "en": "Sect Member",
+  "pt": "Membro da Seita",
+  "ch": "宗门成员"
+ },
+ "SchoolMainLobby_TacticalDurable": {
+  "en": "Array Durability",
+  "pt": "Durabilidade da Formação",
+  "ch": "大阵耐久"
+ },
+ "SchoolMainLobby_TacticalEye": {
+  "en": "Array Occult Eye",
+  "pt": "Olho Oculto da Formação",
+  "ch": "大阵阵眼"
+ },
+ "SchoolMainLobby_lastMonth": {
+  "en": "Last month",
+  "pt": "Último mês",
+  "ch": "上个月"
+ },
+ "SchoolMainLobby_mySchoolList": {
+  "en": "Sect of same origin:",
+  "pt": "Seitas da mesma origem:",
+  "ch": "同源宗门："
+ },
+ "SchoolMainLobby_overViewManor": {
+  "en": "Sect Territory",
+  "pt": "Território da Seita",
+  "ch": "宗门领地"
+ },
+ "SchoolMainLobby_overViewMove": {
+  "en": "Sect Relocation",
+  "pt": "Relocação da Seita",
+  "ch": "宗门迁移"
+ },
+ "SchoolMainLobby_overViewProperty": {
+  "en": "Sect Stats",
+  "pt": "Atributos da Seita",
+  "ch": "宗门属性"
+ },
+ "SchoolMainLobby_overViewPurpose": {
+  "en": "Sect Calling",
+  "pt": "Chamado da Seita",
+  "ch": "宗门宗旨"
+ },
+ "SchoolMainLobby_overViewRule": {
+  "en": "Sect Rules",
+  "pt": "Regras da Seita",
+  "ch": "宗门门规"
+ },
+ "SchoolMainLobby_overViewStrategy": {
+  "en": "Sect Tactics",
+  "pt": "Táticas da Seita",
+  "ch": "宗门战略"
+ },
+ "SchoolMainLobby_overViewfanrong": {
+  "en": "Prosperity",
+  "pt": "Prosperidade",
+  "ch": "繁荣度"
+ },
+ "SchoolMainLobby_title0": {
+  "en": "Brief",
+  "pt": "Resumo",
+  "ch": "概况"
+ },
+ "SchoolMainLobby_title1": {
+  "en": "Member",
+  "pt": "Membros",
+  "ch": "成员"
+ },
+ "SchoolMainLobby_title2": {
+  "en": "Internal Affairs",
+  "pt": "Assuntos Internos",
+  "ch": "记事"
+ },
+ "SchoolMainLobby_title3": {
+  "en": "External Affairs",
+  "pt": "Assuntos Externos",
+  "ch": "外务"
+ },
+ "SchoolMainLobby_title4": {
+  "en": "Array",
+  "pt": "Formação",
+  "ch": "大阵"
+ },
+ "SchoolTaskLobby_ClassDesc0": {
+  "en": "The Mission Hall is the place in the Sect where Missions are assigned and accepted. All Missions from all Halls are gathered here for the all Disciples to pick and accept, and it is also convenient for the Elders assign and deploy.",
+  "pt": "O Salão de Missões é o lugar na Seita onde as Missões são atribuídas e aceitas. Todas as Missões de todos os Salões são reunidas aqui para que todos os Discípulos possam escolher e aceitar, e também é conveniente para os Anciãos atribuírem e distribuírem.",
+  "ch": "任务大厅是宗门中发布及领取任务的地方，所有堂口的任务都会汇集于此，供全宗弟子挑选接取，同时也方便长老进行派遣调配。"
+ },
+ "SchoolTaskLobby_ClassDesc1": {
+  "en": "Recruitment is the place in the Sect responsible for recruiting and managing Disciples. Most Missions issued here are related to the recruitment and safety of disciples.",
+  "pt": "O Recrutamento é o lugar na Seita responsável por recrutar e gerenciar Discípulos. A maioria das Missões emitidas aqui estão relacionadas ao recrutamento e segurança dos discípulos.",
+  "ch": "招贤堂是宗门中负责招纳新人和管理弟子的地方，此处发布的任务大多与弟子的招募与人身安全相关。"
+ },
+ "SchoolTaskLobby_ClassDesc2": {
+  "en": "Patrol is the place in the Sect responsible for order and rule enforcement. Most Missions issued here are related to removing potential threats to the Sect and dealing with Disciples who violate Sect rules.",
+  "pt": "A Patrulha é o lugar na Seita responsável pela ordem e aplicação das regras. A maioria das Missões emitidas aqui estão relacionadas à remoção de ameaças potenciais à Seita e ao tratamento de Discípulos que violam as regras da Seita.",
+  "ch": "巡查堂是宗门中负责治安与执法的地方，此处发布的任务大多与清除宗门潜在威胁和处理违反门规的弟子相关。"
+ },
+ "SchoolTaskLobby_ClassDesc3": {
+  "en": "External Affairs is the place in the Sect responsible for diplomacy. Most Missions issued here are related to dealing with Sect relations and maintaining the interests of the Sect.",
+  "pt": "Os Assuntos Externos é o lugar na Seita responsável pela diplomacia. A maioria das Missões emitidas aqui estão relacionadas a lidar com relações entre Seitas e manter os interesses da Seita.",
+  "ch": "外务堂是宗门中负责外交的地方，此处发布的任务大多与处理宗门关系和维护宗门利益相关。"
+ },
+ "SchoolTaskLobby_ClassDesc4": {
+  "en": "Construction is the place in the Sect responsible for cultivating herbs and mining ore. Most Missions issued here are related to collecting items and developing and building Sect facilities.",
+  "pt": "A Construção é o lugar na Seita responsável por cultivar ervas e extrair minérios. A maioria das Missões emitidas aqui estão relacionadas à coleta de itens e ao desenvolvimento e construção de instalações da Seita.",
+  "ch": "修筑堂是宗门中负责培植草药、开采矿材的地方，此处发布的任务大多与收集物品、发展建设宗门设施相关。"
+ },
+ "SchoolTaskLobby_ClassDesc5": {
+  "en": "The Treasure Department is the place in the Sect responsible for managing Spirit Stones. Most Missions issued here are related to obtaining Spirit Stones.",
+  "pt": "O Departamento do Tesouro é o lugar na Seita responsável por gerenciar Pedras Espirituais. A maioria das Missões emitidas aqui estão relacionadas à obtenção de Pedras Espirituais.",
+  "ch": "贮宝堂是宗门中负责管理灵石的地方，此处发布的任务大多与获取灵石相关。"
+ },
+ "SchoolTaskLobby_ClassDescSub": {
+  "en": "<color=#262626>{0} is controlled by {1}.</color>",
+  "pt": "<color=#262626>{0} é controlado por {1}.</color>",
+  "ch": "<color=#262626>{0}是{1}的地方。</color>"
+ },
+ "SchoolTaskLobby_ClassName0": {
+  "en": "All",
+  "pt": "Todos",
+  "ch": "全部"
+ },
+ "SchoolTaskLobby_ClassName00": {
+  "en": "Mission Hall",
+  "pt": "Salão de Missões",
+  "ch": "任务大厅"
+ },
+ "SchoolTaskLobby_ClassName1": {
+  "en": "Recruitment",
+  "pt": "Recrutamento",
+  "ch": "招贤堂"
+ },
+ "SchoolTaskLobby_ClassName2": {
+  "en": "Patrol",
+  "pt": "Patrulha",
+  "ch": "巡查堂"
+ },
+ "SchoolTaskLobby_ClassName3": {
+  "en": "External Affair",
+  "pt": "Assuntos Externos",
+  "ch": "外务堂"
+ },
+ "SchoolTaskLobby_ClassName4": {
+  "en": "Construction",
+  "pt": "Construção",
+  "ch": "修筑堂"
+ },
+ "SchoolTaskLobby_ClassName5": {
+  "en": "Treasure Department",
+  "pt": "Departamento do Tesouro",
+  "ch": "贮宝堂"
+ },
+ "SchoolTaskLobby_Elder": {
+  "en": "<color=#1a1a1a>{0} Elder: </color><b>{1}</b>",
+  "pt": "<color=#1a1a1a>{0} Ancião: </color><b>{1}</b>",
+  "ch": "<color=#1a1a1a>{0}长老：</color><b>{1}</b>"
+ },
+ "SchoolTaskLobby_ElderDo": {
+  "en": "As {0}, you may assign missions here.",
+  "pt": "Como {0}, você pode atribuir missões aqui.",
+  "ch": "你作为{0}可在此分配任务"
+ },
+ "SchoolTaskLobby_MainDesc0": {
+  "en": "Disciples may accept missions here.",
+  "pt": "Os Discípulos podem aceitar missões aqui.",
+  "ch": "弟子们可在此领取各堂任务"
+ },
+ "SchoolTaskLobby_MainDesc1": {
+  "en": "Elders may assign department missions here.",
+  "pt": "Os Anciãos podem atribuir missões de departamento aqui.",
+  "ch": "长老们可在此分配本堂任务。"
+ },
+ "SchoolTaskLobby_MainDesc2": {
+  "en": "Grand Elders may assign all missions here.",
+  "pt": "Grão-Anciões podem designar todas as missões aqui.",
+  "ch": "大长老们可在此分配各堂任务。"
+ },
+ "SchoolTaskLobby_StudentDo": {
+  "en": "As {0}, you may accept missions here.",
+  "pt": "Como {0}, você pode aceitar missões aqui.",
+  "ch": "你作为{0}可在此领取任务"
+ },
+ "SchoolTaskLobby_bumenquanxian": {
+  "en": "You do not have the authority to redeploy Disciples in {0}",
+  "pt": "Você não tem autoridade para redesdobrar Discípulos em {0}",
+  "ch": "你无权调动{0}的弟子"
+ },
+ "SchoolTaskTypeBase1": {
+  "en": "Help {ownerUnitName} retrieve their lost Sect Arcane Manual.",
+  "pt": "Ajude {ownerUnitName} a recuperar o Manual Arcano perdido da Seita.",
+  "ch": "帮助{ownerUnitName}寻回丢失的宗门秘法。"
+ },
+ "SchoolTaskTypeBase2": {
+  "en": "Kill the sect's enemy: {killUnitName}.",
+  "pt": "Mate o inimigo da seita: {killUnitName}.",
+  "ch": "击杀宗门的敌人{killUnitName}。"
+ },
+ "SearchTip": {
+  "en": "Insert Item Name",
+  "pt": "Insira o Nome do Item",
+  "ch": "输入道具名称"
+ },
+ "Skill86181Tip1": {
+  "en": "Pick up the Willpower on the ground immediately!",
+  "pt": "Pegue a Força de Vontade no chão imediatamente!",
+  "ch": "立刻拾取地上的愿力！"
+ },
+ "Skill86181Tip2": {
+  "en": "Enter the array to save your skin now!",
+  "pt": "Entre na formação agora para se proteger!",
+  "ch": "马上进入法阵躲避伤害！"
+ },
+ "SkillGroupName1001": {
+  "en": "Water Sword",
+  "pt": "Espada de Água",
+  "ch": "水剑"
+ },
+ "SkillGroupName1002": {
+  "en": "Fire Fist",
+  "pt": "Punho de Fogo",
+  "ch": "火拳"
+ },
+ "SkillGroupName1003": {
+  "en": "Wind Sword",
+  "pt": "Espada de Vento",
+  "ch": "风剑"
+ },
+ "SkillGroupName1004": {
+  "en": "Pure Blade",
+  "pt": "Lâmina Pura",
+  "ch": "纯刀"
+ },
+ "SkillGroupName1005": {
+  "en": "Pure Sword+",
+  "pt": "Espada Pura+",
+  "ch": "纯剑+"
+ },
+ "SkillGroupName1006": {
+  "en": "Pure Spear",
+  "pt": "Lança Pura",
+  "ch": "纯枪"
+ },
+ "SkillGroupName1007": {
+  "en": "Stun Fist",
+  "pt": "Punho Atordoante",
+  "ch": "晕眩拳"
+ },
+ "SkillGroupName1008": {
+  "en": "Freezing Palm",
+  "pt": "Palma Congelante",
+  "ch": "寒冰掌"
+ },
+ "SkillGroupName1009": {
+  "en": "Triple-drain Finger",
+  "pt": "Dedo Triplo-Drenagem",
+  "ch": "三吸指"
+ },
+ "SkillGroupName1010": {
+  "en": "Pure Fire",
+  "pt": "Fogo Puro",
+  "ch": "纯火"
+ },
+ "SkillGroupName1011": {
+  "en": "Water Cultivation",
+  "pt": "Cultivo da Água",
+  "ch": "水修"
+ },
+ "SkillGroupName1012": {
+  "en": "Lightning Cultivation",
+  "pt": "Cultivo do Relâmpago",
+  "ch": "雷修"
+ },
+ "SkillGroupName1013": {
+  "en": "Pure Wind",
+  "pt": "Vento Puro",
+  "ch": "纯风"
+ },
+ "SkillGroupName1014": {
+  "en": "Pure Wood",
+  "pt": "Madeira Pura",
+  "ch": "纯木"
+ },
+ "SkillGroupName1015": {
+  "en": "Lightning Fire",
+  "pt": "Fogo do Relâmpago",
+  "ch": "雷火"
+ },
+ "SkillGroupName1016": {
+  "en": "Fiery Flame Damage Increase",
+  "pt": "Aumento de Dano da Chama Ardente",
+  "ch": "烈焰增伤"
+ },
+ "SkillGroupName1017": {
+  "en": "Pure Earth",
+  "pt": "Terra Pura",
+  "ch": "纯土"
+ },
+ "SpecificNpcClothingName6088": {
+  "en": "Carefree Wanderer",
+  "pt": "Errante Desimpedido",
+  "ch": "梦中客"
+ },
+ "SpecificNpcClothingName6089": {
+  "en": "Violet Melody",
+  "pt": "Melodia Violeta",
+  "ch": "紫璇天韵"
+ },
+ "SpecificNpcClothingName6090": {
+  "en": "Immortal In White",
+  "pt": "Imortal de Branco",
+  "ch": "素衣授仙"
+ },
+ "SpecificNpcClothingName6091": {
+  "en": "Solitary Skylark",
+  "pt": "Cotovia Solitária",
+  "ch": "燕处超然"
+ },
+ "SpecificNpcClothingName6097": {
+  "en": "Dark Cynosure",
+  "pt": "Estrela Sombria",
+  "ch": "景星凤麟"
+ },
+ "SpecificSkillAttackDesc22113": {
+  "en": "Slash enemies in front with the blade, dealing &22113_zjwl& $s_dao$ damage. This skill also produces a blade's wind forward, dealing &22113_jqwl& $s_dao$ damage to enemies. If the target has $s_xueren$, detonate the target's $s_xueren$. For every stack detonated, a blood slash will be triggered to attack enemies within &22113_xzfw& range of the target, dealing &22113_xzsh|x22113_dmg|/100|f0& $s_dao$ damage.",
+  "pt": "Corte os inimigos à frente com a lâmina, causando &22113_zjwl& $s_dao$ de dano. Essa habilidade também produz um vento da lâmina para frente, causando &22113_jqwl& $s_dao$ de dano aos inimigos. Se o alvo tiver $s_xueren$, detona o $s_xueren$ do alvo. Para cada acúmulo detonado, um corte de sangue será desencadeado para atacar inimigos dentro de &22113_xzfw& de alcance do alvo, causando &22113_xzsh|x22113_dmg|/100|f0& $s_dao$ de dano.",
+  "ch": "挥动长刃斩击面前的敌人，对敌人造成威力&22113_zjwl&的$s_dao$伤害，同时会朝前方斩出一道刀气，对敌人造成威力&22113_jqwl&的$s_dao$伤害。若目标带有$s_xueren$，则引爆目标身上的$s_xueren$，每引爆一层，在目标的位置落下一道血斩，对范围&22113_xzfw&内的敌人造成威力&22113_xzsh|x22113_dmg|/100|f0&的$s_dao$伤害。"
+ },
+ "SpecificSkillAttackDesc23112": {
+  "en": "Consume 1 $s_chongneng$ to trigger True Dragon Possession. You'll dash forward &23112_tjjl&, dealing &23112_dmg& $s_qiang$ damage to every enemy you hit and consuming all stacks of $s_poshi$. Every stack of $s_poshi$ consumed will increase this skill's damage by &23112_shts&%. When the skill hit the first enemy, &23112_hxsl& spears will generate around it and launch at it, dealing 50% of this skill's damage.",
+  "pt": "Consome 1 $s_chongneng$ para ativar a Possessão do Dragão Verdadeiro. Você avançará &23112_tjjl&, causando &23112_dmg& $s_qiang$ de dano a cada inimigo atingido e consumindo todas as acumulações de $s_poshi$. Cada acúmulo de $s_poshi$ consumido aumentará o dano dessa habilidade em &23112_shts&%. Quando a habilidade atingir o primeiro inimigo, &23112_hxsl& lanças serão geradas ao redor dele e lançadas contra ele, causando 50% do dano dessa habilidade.",
+  "ch": "消耗1点$s_chongneng$，使龙魂附体向前突进&23112_tjjl&距离，对碰撞到的敌人造成威力&23112_dmg&的$s_qiang$伤害，且消耗掉自身所有$s_poshi$，每消耗一层$s_poshi$可使此技能的伤害提升&23112_shts&%。此技能会在首个命中的敌人周围生成&23112_hxsl&道枪刺并冲向敌人，造成此技能50%的伤害。"
+ },
+ "SpecificSkillAttackDesc23114": {
+  "en": "Consume 1 $s_chongneng$ to trigger True Dragon Possession. You'll dash forward &23112_tjjl&, dealing &23114_dmg& $s_qiang$ damage to every enemy you hit. If you have $s_poshi$ when you hit an enemy, you'll consume 1 stack of $s_poshi$ to utter a roar, dealing &23114_pxsh& $s_qiang$ damage to all enemies within &23114_pxfw&. When the skill hit the first enemy, &23112_hxsl& spears will generate around it and launch at it, dealing 50% of this skill's damage.",
+  "pt": "Consome 1 $s_chongneng$ para ativar a Possessão do Dragão Verdadeiro. Você avançará &23112_tjjl&, causando &23114_dmg& $s_qiang$ de dano a cada inimigo atingido. Se você tiver $s_poshi$ ao atingir um inimigo, consumirá 1 acúmulo de $s_poshi$ para rugir, causando &23114_pxsh& $s_qiang$ de dano a todos os inimigos dentro de &23114_pxfw&. Quando a habilidade atingir o primeiro inimigo, &23112_hxsl& lanças serão geradas ao redor dele e lançadas contra ele, causando 50% do dano dessa habilidade.",
+  "ch": "消耗1点$s_chongneng$，使龙魂附体向前突进&23112_tjjl&距离，对碰撞到的敌人造成威力&23114_dmg&的$s_qiang$伤害，若自身拥有$s_poshi$，则在碰撞敌人时，消耗一层$s_poshi$并发出咆哮，对范围&23114_pxfw&的敌人造成威力&23114_pxsh&的$s_qiang$伤害。此技能会在首个命中的敌人周围生成&23112_hxsl&道枪刺并冲向敌人，造成此技能50%的伤害。"
+ },
+ "SpecificSkillAttackDesc23115": {
+  "en": "Trigger True Dragon Possession. You'll dash forward &23112_tjjl&, dealing &23115_dmg& $s_qiang$ damage to every enemy you hit. If the target has $s_pojia$, 1 stack of $s_pojia$ will be detonated, and the target will additionally receive &23115_ewsh|x23115_dmg|/100|f0& $s_qiang$ damage. When the skill hit the first enemy, &23112_hxsl& spears will generate around it and launch at it, dealing 50% of this skill's damage.",
+  "pt": "Ative a Possessão do Dragão Verdadeiro. Você avançará &23112_tjjl&, causando &23115_dmg& $s_qiang$ de dano a cada inimigo atingido. Se o alvo tiver $s_pojia$, 1 acúmulo de $s_pojia$ será detonado, e o alvo receberá adicionalmente &23115_ewsh|x23115_dmg|/100|f0& $s_qiang$ de dano. Quando a habilidade atingir o primeiro inimigo, &23112_hxsl& lanças serão geradas ao redor dele e lançadas contra ele, causando 50% do dano dessa habilidade.",
+  "ch": "使龙魂附体向前突进&23112_tjjl&距离，对碰撞到的敌人造成威力&23115_dmg&的$s_qiang$伤害，若敌人带有$s_pojia$，则引爆其一层$s_pojia$并对其额外造成一次威力&23115_ewsh|x23115_dmg|/100|f0&的$s_qiang$伤害。此技能会在首个命中的敌人周围生成&23112_hxsl&道枪刺并冲向敌人，造成此技能50%的伤害。"
+ },
+ "SpecificSkillAttackDesc23116": {
+  "en": "Consume 1 $s_chongneng$ to trigger True Dragon Possession. You'll dash forward &23112_tjjl&, dealing &23116_dmg& $s_qiang$ damage to every enemy you hit. If you have &23116_xhps& stacks of $s_poshi$, you'll consume &23116_xhps& stacks of $s_poshi$ to increase this skill's damage by &23116_tssh&% for &23116_tssj&s. When the skill hit the first enemy, &23112_hxsl& spears will generate around it and launch at it, dealing 50% of this skill's damage.",
+  "pt": "Consome 1 $s_chongneng$ para ativar a Possessão do Dragão Verdadeiro. Você avançará &23112_tjjl&, causando &23116_dmg& $s_qiang$ de dano a cada inimigo atingido. Se você tiver &23116_xhps& acumulações de $s_poshi$, consumirá &23116_xhps& acumulações de $s_poshi$ para aumentar o dano dessa habilidade em &23116_tssh&% por &23116_tssj&s. Quando a habilidade atingir o primeiro inimigo, &23112_hxsl& lanças serão geradas ao redor dele e lançadas contra ele, causando 50% do dano dessa habilidade.",
+  "ch": "消耗1点$s_chongneng$，使龙魂附体向前突进&23112_tjjl&距离，对碰撞到的敌人造成威力&23116_dmg&的$s_qiang$伤害，若自身有&23116_xhps&层$s_poshi$，则消耗&23116_xhps&层$s_poshi$，使此技能伤害在&23116_tssj&秒内提升&23116_tssh&%。此技能会在首个命中的敌人周围生成&23112_hxsl&道枪刺并冲向敌人，造成此技能50%的伤害。"
+ },
+ "SpecificSkillAttackDesc24111": {
+  "en": "Release &24111_qhsl& empyrean sword auras to chase down enemies within &24111_qhsc&, dealing &24111_qhwl& $s_jian$ damage. If the target has $s_liuxue$, 1 stack of $s_liuxue$ will be detonated, and the target will additionally receive &24111_ewsh|x24111_dmg|/10000|f0& $s_jian$ damage.",
+  "pt": "Libere &24111_qhsl& auras de espada celestial para perseguir inimigos dentro de &24111_qhsc&, causando &24111_qhwl& $s_jian$ de dano. Se o alvo tiver $s_liuxue$, 1 acúmulo de $s_liuxue$ será detonado, e o alvo receberá adicionalmente &24111_ewsh|x24111_dmg|/10000|f0& $s_jian$ de dano.",
+  "ch": "向四周发出&24111_qhsl&道天翎剑气，追踪并打击范围&24111_qhsc&内的敌人，对目标造成威力&24111_qhwl&的$s_jian$伤害，若敌人带有$s_liuxue$，则引爆一层$s_liuxue$并对目标额外造成一次威力&24111_ewsh|x24111_dmg|/10000|f0&的$s_jian$伤害。"
+ },
+ "SpecificSkillAttackDesc24113": {
+  "en": "Condense sword's will at the target location in &24113_jysc& distance, dealing &24113_xjwl|x5|f2& $s_jian$ damage per sec to enemies within &24113_xjfw& range. Then drop a greatsword after &24113_xjsj&s at the target location, dealing &24113_jjwl& $s_jian$ damage to enemies within &24113_jjfw& range. If the target has $s_liuxue$, 1 stack of $s_liuxue$ will be detonated upon every time the damage has been dealt, and the target will additionally receive &24113_ewsh& $s_jian$ damage.",
+  "pt": "Condense a vontade da espada no local-alvo a &24113_jysc& de distância, causando &24113_xjwl|x5|f2& $s_jian$ de dano por segundo a inimigos dentro de &24113_xjfw& de alcance. Então, após &24113_xjsj&s, solte uma espada gigante no local-alvo, causando &24113_jjwl& $s_jian$ de dano a inimigos dentro de &24113_jjfw& de alcance. Se o alvo tiver $s_liuxue$, 1 acúmulo de $s_liuxue$ será detonado a cada vez que o dano for causado, e o alvo receberá adicionalmente &24113_ewsh& $s_jian$ de dano.",
+  "ch": "在距离&24113_jysc&内的目标位置凝聚剑意，持续对范围&24113_xjfw&内的敌人造成威力&24113_xjwl|x5|f2&/秒的$s_jian$伤害，并在&24113_xjsj&秒后斩下一道大剑，对范围&24113_jjfw&内的敌人造成威力&24113_jjwl&的$s_jian$伤害。每次造成伤害时，若目标带有$s_liuxue$，则引爆目标一层$s_liuxue$并对其额外一次威力&24113_ewsh&的$s_jian$伤害。"
+ }
+}

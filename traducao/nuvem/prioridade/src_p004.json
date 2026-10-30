@@ -1,0 +1,1442 @@
+{
+ "player_spearGrowRate": {
+  "en": "Spear Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Lança",
+  "ch": "枪法技能熟练度提升倍率"
+ },
+ "player_stepGrowRate": {
+  "en": "Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência",
+  "ch": "身法熟练度提升倍率"
+ },
+ "player_swordGrowRate": {
+  "en": "Sword Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Espada",
+  "ch": "剑法技能熟练度提升倍率"
+ },
+ "player_thunderGrowRate": {
+  "en": "Lightning Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Relâmpago",
+  "ch": "雷属性法技能熟练度提升倍率"
+ },
+ "player_tilishangxian": {
+  "en": "Max Vitality",
+  "pt": "Vitalidade Máx.",
+  "ch": "体力上限"
+ },
+ "player_townBuyDeclineRate": {
+  "en": "Spirit Stone Cost Rate in Market",
+  "pt": "Taxa de Custo de Pedra Espiritual no Mercado",
+  "ch": "坊市购买消耗灵石倍率"
+ },
+ "player_tulinggen": {
+  "en": "Earth",
+  "pt": "Terra",
+  "ch": "土灵根"
+ },
+ "player_windGrowRate": {
+  "en": "Wind Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Vento",
+  "ch": "风属性法技能熟练度提升倍率"
+ },
+ "player_wodebeibao": {
+  "en": "Inventory",
+  "pt": "Inventário",
+  "ch": "我的背包"
+ },
+ "player_woodGrowRate": {
+  "en": "Wood Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência de Habilidade de Madeira",
+  "ch": "木属性法技能熟练度提升倍率"
+ },
+ "player_wumian": {
+  "en": "Martial RES",
+  "pt": "RES Marcial",
+  "ch": "功法抗性"
+ },
+ "player_wuxing": {
+  "en": "Insight",
+  "pt": "Percepção",
+  "ch": "悟性"
+ },
+ "player_xiantianqiyun": {
+  "en": "Destiny (Nature)",
+  "pt": "Destino (Natureza)",
+  "ch": "先天气运"
+ },
+ "player_xingyun": {
+  "en": "Luck",
+  "pt": "Sorte",
+  "ch": "幸运"
+ },
+ "player_xinqing": {
+  "en": "Mood",
+  "pt": "Humor",
+  "ch": "心情"
+ },
+ "player_xinqingshangxian": {
+  "en": "Max Mood",
+  "pt": "Humor Máx.",
+  "ch": "心情上限"
+ },
+ "player_yaocai": {
+  "en": "Herbology",
+  "pt": "Herbologia",
+  "ch": "药材资质"
+ },
+ "player_yidongsudu": {
+  "en": "Agility",
+  "pt": "Agilidade",
+  "ch": "移动速度"
+ },
+ "player_yisu": {
+  "en": "Agility",
+  "pt": "Agilidade",
+  "ch": "移速"
+ },
+ "player_zhangfa": {
+  "en": "Palm",
+  "pt": "Palma",
+  "ch": "掌法"
+ },
+ "player_zhangfazizi": {
+  "en": "Palm",
+  "pt": "Palma",
+  "ch": "掌法资质"
+ },
+ "player_zhengdaozhi": {
+  "en": "Righteous Points",
+  "pt": "Pontos Justos",
+  "ch": "正道值"
+ },
+ "player_zhifa": {
+  "en": "Finger",
+  "pt": "Dedo",
+  "ch": "指法"
+ },
+ "player_zhifazizi": {
+  "en": "Finger",
+  "pt": "Dedo",
+  "ch": "指法资质"
+ },
+ "player_zuidigongfa": {
+  "en": "Lowest Martial Arts Stat",
+  "pt": "Menor Atributo de Artes Marciais",
+  "ch": "最低一项功法资质"
+ },
+ "player_zuidijiyi": {
+  "en": "Lowest Artisanship Stat",
+  "pt": "Menor Atributo de Artesanato",
+  "ch": "最低一项技艺资质"
+ },
+ "player_zuidilinggen": {
+  "en": "Lowest Spiritual Root Stat",
+  "pt": "Menor Atributo de Raiz Espiritual",
+  "ch": "最低一项灵根资质"
+ },
+ "player_zuigaogongfa": {
+  "en": "Highest Martial Arts Stat",
+  "pt": "Maior Atributo de Artes Marciais",
+  "ch": "最高一项功法资质"
+ },
+ "player_zuigaojiyi": {
+  "en": "Highest Artisanshipn Stat",
+  "pt": "Maior Atributo de Artesanato",
+  "ch": "最高一项技艺资质"
+ },
+ "player_zuigaolinggen": {
+  "en": "Highest Spiritual Root Stat",
+  "pt": "Maior Atributo de Raiz Espiritual",
+  "ch": "最高一项灵根资质"
+ },
+ "npcInfo_biaoji": {
+  "en": "Mark",
+  "pt": "Marcar",
+  "ch": "标记"
+ },
+ "npcInfo_bukejiaohu": {
+  "en": "Interaction is unavailable in your current state.",
+  "pt": "A interação não está disponível no seu estado atual.",
+  "ch": "当前状态不可互动！"
+ },
+ "npcInfo_caozhuotishi": {
+  "en": "Two people must be in the same space!",
+  "pt": "Duas pessoas devem estar no mesmo espaço!",
+  "ch": "必须移动同一个位置进行操作"
+ },
+ "npcInfo_chakanxiangqing": {
+  "en": "View Details",
+  "pt": "Ver Detalhes",
+  "ch": "查看详情"
+ },
+ "npcInfo_chongxinkaolv": {
+  "en": "Reconsider",
+  "pt": "Reconsiderar",
+  "ch": "重新考虑"
+ },
+ "npcInfo_chouren": {
+  "en": "Enemy",
+  "pt": "Inimigo",
+  "ch": "仇人"
+ },
+ "npcInfo_daoxinjiandingdu": {
+  "en": "Taoist Mind Dedication",
+  "pt": "Dedicação do Coração do Dao",
+  "ch": "道心坚定度"
+ },
+ "npcInfo_daoxinposui": {
+  "en": "Taoist Mind Shattered",
+  "pt": "Coração do Dao Despedaçado",
+  "ch": "道心破碎"
+ },
+ "npcInfo_dazhanglao": {
+  "en": "Grand Elder",
+  "pt": "Grão-Ancião",
+  "ch": "大长老"
+ },
+ "npcInfo_didi": {
+  "en": "Younger Brother",
+  "pt": "Irmão Mais Novo",
+  "ch": "弟弟"
+ },
+ "npcInfo_diren": {
+  "en": "Enemy",
+  "pt": "Inimigo",
+  "ch": "仇视"
+ },
+ "npcInfo_douji": {
+  "en": "Cockfight Chicken",
+  "pt": "Galo de Briga",
+  "ch": "斗鸡"
+ },
+ "npcInfo_duihua": {
+  "en": "Talk",
+  "pt": "Conversar",
+  "ch": "交谈"
+ },
+ "npcInfo_effectLevel1": {
+  "en": "Birth",
+  "pt": "Nascimento",
+  "ch": "初生"
+ },
+ "npcInfo_effectLevel2": {
+  "en": "Essence",
+  "pt": "Essência",
+  "ch": "凝华"
+ },
+ "npcInfo_effectLevel3": {
+  "en": "Perfection",
+  "pt": "Perfeição",
+  "ch": "结粹"
+ },
+ "npcInfo_effectLevel_1": {
+  "en": "Shaken",
+  "pt": "Abalado",
+  "ch": "动摇"
+ },
+ "npcInfo_effectLevel_2": {
+  "en": "Decay",
+  "pt": "Decadência",
+  "ch": "倾颓"
+ },
+ "npcInfo_effectLevel_3": {
+  "en": "Disappeared",
+  "pt": "Desaparecido",
+  "ch": "消弭"
+ },
+ "npcInfo_erzi": {
+  "en": "Son",
+  "pt": "Filho",
+  "ch": "儿子"
+ },
+ "npcInfo_fabaodaoju": {
+  "en": "Artifact",
+  "pt": "Artefato",
+  "ch": "法宝道具"
+ },
+ "npcInfo_fuchou": {
+  "en": "Revenge",
+  "pt": "Vingança",
+  "ch": "复仇"
+ },
+ "npcInfo_fujun": {
+  "en": "Husband",
+  "pt": "Marido",
+  "ch": "丈夫"
+ },
+ "npcInfo_fumu": {
+  "en": "Parent",
+  "pt": "Pais",
+  "ch": "父母"
+ },
+ "npcInfo_fuqi": {
+  "en": "Spouse",
+  "pt": "Cônjuge",
+  "ch": "夫妻"
+ },
+ "npcInfo_fuqin": {
+  "en": "Father",
+  "pt": "Pai",
+  "ch": "父亲"
+ },
+ "npcInfo_gege": {
+  "en": "Older Brother",
+  "pt": "Irmão Mais Velho",
+  "ch": "哥哥"
+ },
+ "npcInfo_gongji": {
+  "en": "Attack",
+  "pt": "Atacar",
+  "ch": "攻击"
+ },
+ "npcInfo_guanxichenggong": {
+  "en": "Relationship formed with {0}: {1}!\n{2} and their people now have a higher Affinity with you!",
+  "pt": "Relação formada com {0}: {1}!\n{2} e seu povo agora têm uma Afinidade maior com você!",
+  "ch": "成功将{0}{1}关系！\n{2}和他的族人对你的亲密度提升了！"
+ },
+ "npcInfo_guanxiqueren": {
+  "en": "Request to form {1} relationship with {0}?",
+  "pt": "Solicitar formar relação de {1} com {0}?",
+  "ch": "确定向{0}请求{1}关系吗？"
+ },
+ "npcInfo_guanxitishi": {
+  "en": "Select a {0}",
+  "pt": "Selecione um {0}",
+  "ch": "选择请求{0}的关系"
+ },
+ "npcInfo_hunshi": {
+  "en": "Marriage",
+  "pt": "Casamento",
+  "ch": "婚事"
+ },
+ "npcInfo_jiaoyi": {
+  "en": "Trade",
+  "pt": "Trocar",
+  "ch": "交易"
+ },
+ "npcInfo_jiebiao": {
+  "en": "Loot",
+  "pt": "Saquear",
+  "ch": "劫镖"
+ },
+ "npcInfo_jiebiaoshibai": {
+  "en": "Your Inventory is full. Looting unavailable.",
+  "pt": "Seu inventário está cheio. Saque indisponível.",
+  "ch": "背包已满不可劫镖"
+ },
+ "npcInfo_jieduan1": {
+  "en": "First Stage",
+  "pt": "Primeiro Estágio",
+  "ch": "一阶"
+ },
+ "npcInfo_jieduan2": {
+  "en": "Second Stage",
+  "pt": "Segundo Estágio",
+  "ch": "二阶"
+ },
+ "npcInfo_jieduan3": {
+  "en": "Third Stage",
+  "pt": "Terceiro Estágio",
+  "ch": "三阶"
+ },
+ "npcInfo_jiejie": {
+  "en": "Older Sister",
+  "pt": "Irmã Mais Velha",
+  "ch": "姐姐"
+ },
+ "npcInfo_jieyi": {
+  "en": "Bond",
+  "pt": "Vínculo",
+  "ch": "结义"
+ },
+ "npcInfo_jieyuan": {
+  "en": "Partner",
+  "pt": "Parceiro",
+  "ch": "结缘"
+ },
+ "npcInfo_jineng": {
+  "en": "Skills equipped",
+  "pt": "Habilidades equipadas",
+  "ch": "装备技能"
+ },
+ "npcInfo_jinglibuzu": {
+  "en": "Stamina too low",
+  "pt": "Vigor muito baixo",
+  "ch": "精力不足"
+ },
+ "npcInfo_jinjie": {
+  "en": "Progress",
+  "pt": "Progresso",
+  "ch": "进阶"
+ },
+ "npcInfo_juezhao": {
+  "en": "Special Skill",
+  "pt": "Técnica Especial",
+  "ch": "绝技"
+ },
+ "npcInfo_kechuanshou": {
+  "en": "Taoist Seed can be imparted to others!",
+  "pt": "Semente Daoísta pode ser transmitida a outros!",
+  "ch": "可传授道种给其他人！"
+ },
+ "npcInfo_kongque": {
+  "en": "Vacant",
+  "pt": "Vago",
+  "ch": "空缺"
+ },
+ "npcInfo_meimei": {
+  "en": "Younger Sister",
+  "pt": "Irmã Mais Nova",
+  "ch": "妹妹"
+ },
+ "npcInfo_mingyao": {
+  "en": "Nether Demon",
+  "pt": "Demônio do Submundo",
+  "ch": "冥妖"
+ },
+ "npcInfo_moshengbeibao": {
+  "en": "You can't inspect the Inventory of a Stranger.",
+  "pt": "Não é possível inspecionar o Inventário de um Estranho.",
+  "ch": "陌生人不可查看背包"
+ },
+ "npcInfo_moshengcaozuo": {
+  "en": "Action not allowed. The target is a Stranger.",
+  "pt": "Ação não permitida. O alvo é um Estranho.",
+  "ch": "陌生人不可进行此行为"
+ },
+ "npcInfo_moshengren": {
+  "en": "Stranger",
+  "pt": "Estranho",
+  "ch": "陌生人"
+ },
+ "npcInfo_muqin": {
+  "en": "Mother",
+  "pt": "Mãe",
+  "ch": "母亲"
+ },
+ "npcInfo_neizaixingge": {
+  "en": "Internal Traits",
+  "pt": "Traços Internos",
+  "ch": "内在性格"
+ },
+ "npcInfo_niangzi": {
+  "en": "Wife",
+  "pt": "Esposa",
+  "ch": "妻子"
+ },
+ "npcInfo_nver": {
+  "en": "Daughter",
+  "pt": "Filha",
+  "ch": "女儿"
+ },
+ "npcInfo_pengyou": {
+  "en": "Friend",
+  "pt": "Amigo",
+  "ch": "好友"
+ },
+ "npcInfo_posui": {
+  "en": "Shatter",
+  "pt": "Estilhaçar",
+  "ch": "破碎"
+ },
+ "npcInfo_qiecuo": {
+  "en": "Spar",
+  "pt": "Desafio",
+  "ch": "切磋"
+ },
+ "npcInfo_qingjiao": {
+  "en": "Learn",
+  "pt": "Aprender",
+  "ch": "请教"
+ },
+ "npcInfo_qingjiaoTip": {
+  "en": "Learn Martial Arts from this person. After successful learning, you need some time to practice before the next learning.",
+  "pt": "Aprenda Artes Marciais com esta pessoa. Após aprender com sucesso, você precisa de algum tempo para praticar antes de aprender novamente.",
+  "ch": "需要一定的时间精进功法，暂时不可再向他人学习功法"
+ },
+ "npcInfo_qingren": {
+  "en": "Partner",
+  "pt": "Parceiro",
+  "ch": "道侣"
+ },
+ "npcInfo_qinzu": {
+  "en": "Family",
+  "pt": "Família",
+  "ch": "亲族关系"
+ },
+ "npcInfo_renshushangxian": {
+  "en": "Sect population limit reached!",
+  "pt": "Limite de população da seita atingido!",
+  "ch": "宗门人数已达上限！"
+ },
+ "npcInfo_renwudaoxin": {
+  "en": "Taoist Mind",
+  "pt": "Coração do Dao",
+  "ch": "人物道心"
+ },
+ "npcInfo_renwuguanxi": {
+  "en": "Relationship",
+  "pt": "Relacionamento",
+  "ch": "人物关系"
+ },
+ "npcInfo_renwugushi": {
+  "en": "Backstory",
+  "pt": "História",
+  "ch": "人物故事"
+ },
+ "npcInfo_renwujineng": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "人物技能"
+ },
+ "npcInfo_renwushuxing": {
+  "en": "Stats",
+  "pt": "Atributos",
+  "ch": "人物属性"
+ },
+ "npcInfo_shenfa": {
+  "en": "Motion Skill",
+  "pt": "Técnica de Movimento",
+  "ch": "身法"
+ },
+ "npcInfo_shifu": {
+  "en": "Master",
+  "pt": "Mestre",
+  "ch": "师父"
+ },
+ "npcInfo_shitu": {
+  "en": "Mentorship",
+  "pt": "Mentoria",
+  "ch": "师徒"
+ },
+ "npcInfo_shuangxiu": {
+  "en": "Dual Cultivation",
+  "pt": "Cultivo Duplo",
+  "ch": "双修"
+ },
+ "npcInfo_sishengzinv": {
+  "en": "Illegitimate Child",
+  "pt": "Filho ilegítimo",
+  "ch": "私生子女"
+ },
+ "npcInfo_suoqu": {
+  "en": "Request",
+  "pt": "Solicitar",
+  "ch": "索取"
+ },
+ "npcInfo_tanxin": {
+  "en": "Sincere Talk",
+  "pt": "Conversar Sinceramente",
+  "ch": "谈心"
+ },
+ "npcInfo_tiaojiannanxing": {
+  "en": "Target must be male",
+  "pt": "O alvo deve ser masculino",
+  "ch": "对方必须是男性"
+ },
+ "npcInfo_tiaojiannianlingdi": {
+  "en": "You must be at least {0} years younger than the target",
+  "pt": "Você deve ser pelo menos {0} anos mais novo que o alvo",
+  "ch": "年龄必须比对方低{0}以上"
+ },
+ "npcInfo_tiaojiannianlinggao": {
+  "en": "You must be at least {0} years older than the target",
+  "pt": "Você deve ser pelo menos {0} anos mais velho que o alvo",
+  "ch": "年龄必须比对方高{0}以上"
+ },
+ "npcInfo_tiaojiannvxing": {
+  "en": "Target must be female",
+  "pt": "O alvo deve ser do sexo feminino",
+  "ch": "对方必须是女性"
+ },
+ "npcInfo_tiaojianyixing": {
+  "en": "Target must be of the opposite gender",
+  "pt": "O alvo deve ser do sexo oposto",
+  "ch": "对方必须是异性"
+ },
+ "npcInfo_touqieshibai": {
+  "en": "Nothing found",
+  "pt": "Nada encontrado",
+  "ch": "一无所获"
+ },
+ "npcInfo_toushi": {
+  "en": "Observe",
+  "pt": "Observar",
+  "ch": "偷师"
+ },
+ "npcInfo_tudi": {
+  "en": "Apprentice",
+  "pt": "Aprendiz",
+  "ch": "徒弟"
+ },
+ "npcInfo_waizaixingge": {
+  "en": "External Traits",
+  "pt": "Traços Externos",
+  "ch": "外在性格"
+ },
+ "npcInfo_wuji": {
+  "en": "Martial Skill",
+  "pt": "Técnica Marcial",
+  "ch": "武技"
+ },
+ "npcInfo_wuxiaohao": {
+  "en": "No cost",
+  "pt": "Sem custo",
+  "ch": "无消耗"
+ },
+ "npcInfo_xianjibuzu": {
+  "en": "Unable to fight - Immortal Chickens less than 3.",
+  "pt": "Incapaz de lutar - Frangos Imortais menores que 3.",
+  "ch": "仙鸡不足3只，无法进行比试"
+ },
+ "npcInfo_xiaohaojingli": {
+  "en": "Stamina Cost: {0}",
+  "pt": "Custo de Vigor: {0}",
+  "ch": "需要消耗{0}精力"
+ },
+ "npcInfo_xinfa": {
+  "en": "Mind Skills equipped",
+  "pt": "Técnicas Mentais equipadas",
+  "ch": "装备心法"
+ },
+ "npcInfo_xingge": {
+  "en": "Character Traits",
+  "pt": "Traços de Caráter",
+  "ch": "性格"
+ },
+ "npcInfo_xiongdijiemei": {
+  "en": "Sibling",
+  "pt": "Irmão/Irmã",
+  "ch": "兄弟姐妹"
+ },
+ "npcInfo_xueyi": {
+  "en": "Learn",
+  "pt": "Aprender",
+  "ch": "学艺"
+ },
+ "npcInfo_yaoyue": {
+  "en": "Invite",
+  "pt": "Convidar",
+  "ch": "邀约"
+ },
+ "npcInfo_yidi": {
+  "en": "Sworn Younger Brother",
+  "pt": "Irmão Jurado Mais Novo",
+  "ch": "义弟"
+ },
+ "npcInfo_yifu": {
+  "en": "Adoptive Father",
+  "pt": "Pai Adotivo",
+  "ch": "义父"
+ },
+ "npcInfo_yifumu": {
+  "en": "Adoptive Parent",
+  "pt": "Pais Adotivos",
+  "ch": "义父母"
+ },
+ "npcInfo_yige": {
+  "en": "Adoptive Mother",
+  "pt": "Mãe Adotiva",
+  "ch": "义母"
+ },
+ "npcInfo_yijie": {
+  "en": "Sworn Older Sister",
+  "pt": "Irmã Jurada Mais Velha",
+  "ch": "义姐"
+ },
+ "npcInfo_yimei": {
+  "en": "Sworn Younger Sister",
+  "pt": "Irmã Jurada Mais Nova",
+  "ch": "义妹"
+ },
+ "npcInfo_yinv": {
+  "en": "Adoptive Daughter",
+  "pt": "Filha Adotiva",
+  "ch": "义女"
+ },
+ "npcInfo_yixiong": {
+  "en": "Sworn Older Brother",
+  "pt": "Irmão Jurado Mais Velho",
+  "ch": "义兄"
+ },
+ "npcInfo_yixiongdijiemei": {
+  "en": "Sworn Sibling",
+  "pt": "Irmão Jurado",
+  "ch": "义兄弟姐妹"
+ },
+ "npcInfo_yizi": {
+  "en": "Adoptive Son",
+  "pt": "Filho Adotivo",
+  "ch": "义子"
+ },
+ "npcInfo_yizinv": {
+  "en": "Adoptive Child",
+  "pt": "Filhos Adotivos",
+  "ch": "义子女"
+ },
+ "npcInfo_yunhunxiaosan": {
+  "en": "Target is dead. You can only send gifts to the target.",
+  "pt": "O alvo está morto. Você só pode enviar presentes para o alvo.",
+  "ch": "对方元魂已消散，只允许赠送东西给对方"
+ },
+ "npcInfo_yuwoxiangguan": {
+  "en": "Concerning Me",
+  "pt": "Relacionado a Mim",
+  "ch": "与我相关"
+ },
+ "npcInfo_zengsong": {
+  "en": "Gift",
+  "pt": "Presente",
+  "ch": "赠送"
+ },
+ "npcInfo_zhanglao": {
+  "en": "Elder",
+  "pt": "Ancião",
+  "ch": "长老"
+ },
+ "npcInfo_zhaona": {
+  "en": "Recruitment",
+  "pt": "Recrutamento",
+  "ch": "招纳"
+ },
+ "npcInfo_zhidian": {
+  "en": "Teach",
+  "pt": "Ensinar",
+  "ch": "指点"
+ },
+ "npcInfo_zhidianTip": {
+  "en": "Teach the person Martial Arts. After successful teaching, you need some time to restore power before the next teaching.",
+  "pt": "Ensine Artes Marciais à pessoa. Após o ensino bem-sucedido, você precisará de tempo para restaurar o poder antes do próximo ensino.",
+  "ch": "需要一定的时间恢复功力，暂时不可再向他人传授功法"
+ },
+ "npcInfo_zhidingnitian": {
+  "en": "For {0}, in the next Breakthrough, provide feedback for the selected Rewrite Destiny.",
+  "pt": "Para {0}, no próximo Avanço, forneça feedback para o Reescrever o Destino selecionado.",
+  "ch": "请为{0}在下次突破时，选择的逆天改命提供建议。"
+ },
+ "npcInfo_ziji": {
+  "en": "Self",
+  "pt": "Próprio",
+  "ch": "自己"
+ },
+ "npcInfo_zinv": {
+  "en": "Child",
+  "pt": "Filhos",
+  "ch": "子女"
+ },
+ "npcInfo_zongzhu": {
+  "en": "Sect Leader",
+  "pt": "Líder da Seita",
+  "ch": "宗主"
+ },
+ "battle61_chonga": {
+  "en": "Charge",
+  "pt": "Carga",
+  "ch": "冲啊"
+ },
+ "battle73_wingmantips": {
+  "en": "Press E to activate the array",
+  "pt": "Pressione E para ativar a Formação",
+  "ch": "按下E键开启阵法"
+ },
+ "battle77_liule": {
+  "en": "Gotta get outta here.",
+  "pt": "Tenho que sair daqui.",
+  "ch": "溜了溜了"
+ },
+ "battle_CoreBeAttack": {
+  "en": "The Array Core is under attack!",
+  "pt": "O Núcleo da Formação está sob ataque!",
+  "ch": "阵眼被进攻！"
+ },
+ "battle_EtoM1": {
+  "en": "Humph! Alright, since you are all alone here, let's duel!",
+  "pt": "Humpf! Tudo bem, já que você está sozinho aqui, vamos duelar!",
+  "ch": "哼！好啊，现在只有你一个，咱们决斗吧！"
+ },
+ "battle_EtoM2": {
+  "en": "Oh, it's you!",
+  "pt": "Ah, é você!",
+  "ch": "啊，是你！"
+ },
+ "battle_EtoM3": {
+  "en": "Are you alone? For real?",
+  "pt": "Só tem você aqui? Sério?",
+  "ch": "这里只有你一个？真的？"
+ },
+ "battle_EtoME1": {
+  "en": "I got it. You want to steal the credit for killing the enemy!",
+  "pt": "Entendi. Você quer roubar os méritos por matar o inimigo!",
+  "ch": "哦，我明白了，你要独占杀死对手的功劳！"
+ },
+ "battle_EtoME2": {
+  "en": "Ha! I see a chance. Let's join forces and kill him!",
+  "pt": "Ha! Vejo uma chance. Vamos unir forças e matá-lo!",
+  "ch": "哈！好机会，我们合力将他毙了！"
+ },
+ "battle_EtoME3": {
+  "en": "Don't push yourself. You hurt your back at the Sect Arena 10 years ago. Let me deal with him!",
+  "pt": "Não se esforce. Você machucou as costas na Arena da Seita há 10 anos. Deixe-me lidar com ele!",
+  "ch": "不要逞强，你十年前宗门比试伤了老腰，我来会他！"
+ },
+ "battle_EtoMEtoE1": {
+  "en": "The enemy is strong. Help me!",
+  "pt": "O inimigo é forte. Ajude-me!",
+  "ch": "对手不弱，快来助我！"
+ },
+ "battle_EtoMEtoE2": {
+  "en": "I can handle him alone easily. Don't interfere. Wait, the opponent is strong. Help me!",
+  "pt": "Consigo lidar com ele sozinho facilmente. Não interfira. Espere, o oponente é forte. Ajude-me!",
+  "ch": "我一个人就能轻易对付他，你不要插手。咦！对手很强，快来帮我。"
+ },
+ "battle_EtoMEtoE3": {
+  "en": "What are you waiting for? Help me!",
+  "pt": "O que está esperando? Ajude-me!",
+  "ch": "还愣着干嘛，帮我啊！"
+ },
+ "battle_EtoMF1": {
+  "en": "Not good. It's the reinforcement!",
+  "pt": "Problema. É o reforço!",
+  "ch": "不好，来了帮手！"
+ },
+ "battle_EtoMF2": {
+  "en": "Alas!",
+  "pt": "Ai de mim!",
+  "ch": "呜呼哀哉！"
+ },
+ "battle_EtoMF3": {
+  "en": "Two enemies, yet I'm alone. Looks like I'm going to die here!",
+  "pt": "Dois inimigos e eu estou sozinho. Parece que vou morrer aqui!",
+  "ch": "敌人有两个，我只孤身一人，今天要交代在这了！"
+ },
+ "battle_EtoMFE1": {
+  "en": "Two on one is unfair. Let me even out the numbers!",
+  "pt": "Dois contra um é injusto. Deixe-me igualar os números!",
+  "ch": "哼，以二敌一，胜之不武！我来帮你！"
+ },
+ "battle_EtoMFE2": {
+  "en": "Now, this is much better. Two versus two!",
+  "pt": "Agora isso está muito melhor. Dois contra dois!",
+  "ch": "现在我们各有两人，打起来才有点意思！"
+ },
+ "battle_EtoMFE3": {
+  "en": "Are you guys bullying my friend?",
+  "pt": "Vocês estão intimidando meu amigo?",
+  "ch": "好啊，你们仗着人多欺负我的同伴么？"
+ },
+ "battle_EtoMFEtoF1": {
+  "en": "Great! Now, this is a fair fight, so don't complain if you die!",
+  "pt": "Ótimo! Agora a luta é justa, então não reclame se morrer!",
+  "ch": "好！现在我们可没占你便宜，死了可别抱怨！"
+ },
+ "battle_EtoMFEtoF2": {
+  "en": "What a nuisance! They have help!",
+  "pt": "Que incômodo! Eles têm ajuda!",
+  "ch": "真麻烦，对方来帮手了！"
+ },
+ "battle_EtoMFEtoF3": {
+  "en": "Enemy's help is here. Let's kill this lone one now!",
+  "pt": "O reforço do inimigo chegou. Vamos matar esse solitário agora!",
+  "ch": "咦，敌人来帮手了，赶紧杀了这个落单的！"
+ },
+ "battle_EtoMFtoF1": {
+  "en": "It's your own fault to be alone! We'll crush you!",
+  "pt": "É culpa sua estar sozinho! Vamos esmagar você!",
+  "ch": "哼，怪就怪你落单了！我们一起上！"
+ },
+ "battle_EtoMFtoF2": {
+  "en": "You asked for this!",
+  "pt": "Você pediu por isso!",
+  "ch": "天堂有路你不走，地狱无门你闯进来！"
+ },
+ "battle_EtoMFtoF3": {
+  "en": "Only one enemy? Yours or mine?",
+  "pt": "Apenas um inimigo? Seu ou meu?",
+  "ch": "只有一个？你来对付还是我来对付？"
+ },
+ "battle_FleeFail1": {
+  "en": "This is bad. There's no hope to escape.",
+  "pt": "Isso é ruim. Não há esperança de escapar.",
+  "ch": "不妙，今日跑不掉了。"
+ },
+ "battle_FleeFail2": {
+  "en": "Blast. I might die here today!",
+  "pt": "Droga. Posso morrer aqui hoje!",
+  "ch": "完了，要交代在这了！"
+ },
+ "battle_FleeFail3": {
+  "en": "I didn't expect to be buried in such a place!",
+  "pt": "Não esperava ser enterrado em um lugar como este!",
+  "ch": "没想到这里便是我埋骨之所！"
+ },
+ "battle_FtoM1": {
+  "en": "Being alone is dangerous. I'll join you!",
+  "pt": "Estar sozinho é perigoso. Vou me juntar a você!",
+  "ch": "你单独行动，只怕不安全，我来陪你！"
+ },
+ "battle_FtoM2": {
+  "en": "This place is dangerous. Let's watch each other's back.",
+  "pt": "Este lugar é perigoso. Vamos nos cobrir.",
+  "ch": "这里十分危险，你不该独自行动，我们互相照应吧。"
+ },
+ "battle_FtoM3": {
+  "en": "Where are the enemies?",
+  "pt": "Onde estão os inimigos?",
+  "ch": "敌人呢？！"
+ },
+ "battle_FtoME1": {
+  "en": "Huh? Are you fighting enemies? I'm coming to help!",
+  "pt": "Ah? Você está lutando contra inimigos? Vou ajudar!",
+  "ch": "啊？原来你在这里遇上敌人了？我来帮你！"
+ },
+ "battle_FtoME2": {
+  "en": "Don't worry, I'm here to help.",
+  "pt": "Não se preocupe, estou aqui para ajudar.",
+  "ch": "别急，我来帮你对付敌人。"
+ },
+ "battle_FtoME3": {
+  "en": "There's only one enemy. You can deal with that, right?",
+  "pt": "Há apenas um inimigo. Você consegue lidar, certo?",
+  "ch": "区区一个敌人，你能应付吧？"
+ },
+ "battle_FtoMEtoE1": {
+  "en": "More help? All of you will die here!",
+  "pt": "Mais ajuda? Todos vocês morrerão aqui!",
+  "ch": "哼！来了同伙了？今日来一个杀一个，来一双杀一双！"
+ },
+ "battle_FtoMEtoE2": {
+  "en": "Hey, don't you help your sect fellows!",
+  "pt": "Ei, não ajude seus companheiros de Seita!",
+  "ch": "喂喂，你可不许帮你同门对付我！"
+ },
+ "battle_FtoMEtoE3": {
+  "en": "We were having a good fight. Your friend shouldn't have interfered!",
+  "pt": "Estávamos lutando bem. Seu Amigo não deveria ter interferido!",
+  "ch": "我们厮杀得难分难解，你的同伴万万不该介入的！"
+ },
+ "battle_FtoMF1": {
+  "en": "Huh? You are all here! Perfect, I'll tag along and join you!",
+  "pt": "Ah? Vocês estão todos aqui! Perfeito, vou me juntar a vocês!",
+  "ch": "嗯？你们都在！正好，我们都一起行动吧！"
+ },
+ "battle_FtoMF2": {
+  "en": "Many hands make light work!",
+  "pt": "Muitas mãos tornam o trabalho mais leve!",
+  "ch": "人多好办事，人多好办事啊！"
+ },
+ "battle_FtoMF3": {
+  "en": "If we kill or capture enemies, you won't steal my credit, right?",
+  "pt": "Se matarmos ou capturarmos inimigos, vocês não vão roubar meu crédito, certo?",
+  "ch": "若是杀死又或拿下敌人，你们不会跟我争功吧？"
+ },
+ "battle_FtoMFE1": {
+  "en": "Did you run into enemies? Need a hand?",
+  "pt": "Encontrou inimigos? Precisa de ajuda?",
+  "ch": "啊？遇上敌人了？要我帮忙么？"
+ },
+ "battle_FtoMFE2": {
+  "en": "You aim at the torso, and he attacks the legs. Wait, what about me?",
+  "pt": "Você ataca a parte superior, ele a inferior. Espere, e eu?",
+  "ch": "你攻上三路，他攻下三路，咦，那我呢？"
+ },
+ "battle_FtoMFE3": {
+  "en": "Let me help you guys!",
+  "pt": "Deixe-me ajudar vocês!",
+  "ch": "我来帮你们一把！"
+ },
+ "battle_FtoMFEtoE1": {
+  "en": "Even if there are three of you. I'm not afraid!",
+  "pt": "Mesmo sendo três contra um, não tenho medo!",
+  "ch": "哼！你们就是以三敌一，我又何惧？"
+ },
+ "battle_FtoMFEtoE2": {
+  "en": "You shameless! Are you going to attack me all at once?",
+  "pt": "Que vergonha! Vão me atacar todos de uma vez?",
+  "ch": "无耻之徒，你们真要一起上么?"
+ },
+ "battle_FtoMFEtoE3": {
+  "en": "Bullying the outnumbered. Shame on you!",
+  "pt": "Atacar em maioria é covardia! Que vergonha!",
+  "ch": "以多欺少，真不要脸！"
+ },
+ "battle_MtoEtoE1": {
+  "en": "Look, a fish that slipped away!",
+  "pt": "Olha, um peixe que escapou!",
+  "ch": "嗯？漏网之鱼！"
+ },
+ "battle_MtoEtoE2": {
+  "en": "... Are you alone?",
+  "pt": "... Está sozinho?",
+  "ch": "……你只有一人？"
+ },
+ "battle_MtoEtoE3": {
+  "en": "Look at who's behind you?!",
+  "pt": "Olha quem está atrás de você?!",
+  "ch": "你看你后面是谁？！"
+ },
+ "battle_MtoF1": {
+  "en": "I feel much less nervous since you're here!",
+  "pt": "Fico muito mais tranquilo desde que você chegou!",
+  "ch": "你来了以后我心中镇静不少！"
+ },
+ "battle_MtoF2": {
+  "en": "It's you? Excellent! Come, you go first!",
+  "pt": "É você? Excelente! Venha, você vai na frente!",
+  "ch": "是你？太好了！来，你走前面！"
+ },
+ "battle_MtoF3": {
+  "en": "I was so worried that it was an enemy!",
+  "pt": "Estava tão preocupado que fosse um inimigo!",
+  "ch": "我真怕来人是敌人啊！"
+ },
+ "battle_MtoFE1": {
+  "en": "Oh, perfect timing. Help me deal with this bastard!",
+  "pt": "Ah, que timing perfeito. Me ajude a lidar com esse canalha!",
+  "ch": "啊，你来得正好，快来帮我对付这厮！"
+ },
+ "battle_MtoFE2": {
+  "en": "Don't help me. I can deal with him myself!",
+  "pt": "Não me ajude. Posso lidar com ele sozinho!",
+  "ch": "不要帮我，我一个就能对付他！"
+ },
+ "battle_MtoFE3": {
+  "en": "Please help! I'm from your sect!",
+  "pt": "Por favor, ajudem! Sou da sua Seita!",
+  "ch": "援手，同门！同门，援手！"
+ },
+ "battle_MtoFEtoE1": {
+  "en": "Do you dare fight me one on one?!",
+  "pt": "Ousam lutar comigo um contra um?!",
+  "ch": "不要以多欺少，有种就和我单打独斗！"
+ },
+ "battle_MtoFEtoE2": {
+  "en": "You trash! Duel me one of one if you dare!",
+  "pt": "Lixo! Duelo um contra um se tiver coragem!",
+  "ch": "废物，你就不敢和我单挑？！"
+ },
+ "battle_MtoFEtoE3": {
+  "en": "Bring it on! I can take out ten of you at a time!",
+  "pt": "Vamos lá! Consigo derrotar dez de vocês de uma vez!",
+  "ch": "来啊，你们一起上！我能打十个！"
+ },
+ "battle_TryFlee1": {
+  "en": "This is looking bad. Let's retreat and prepare for our comeback!",
+  "pt": "As coisas estão feias. Vamos recuar e nos preparar para o retorno!",
+  "ch": "情况不妙，不如先行撤退，改日准备好了再卷土重来！"
+ },
+ "battle_TryFlee2": {
+  "en": "There's no shame in a strategic retreat. Let's go!",
+  "pt": "Não há vergonha em uma retirada estratégica. Vamos!",
+  "ch": "包羞忍耻才是大人物本色，我们撤！"
+ },
+ "battle_TryFlee3": {
+  "en": "Let's retreat for now and fight back when their momentum gets weak.",
+  "pt": "Vamos recuar por agora e contra-atacar quando o ímpeto deles enfraquecer.",
+  "ch": "我们先行撤吧，等敌人锐气殆尽，我们再马上反击。"
+ },
+ "battle_ataticMessage1": {
+  "en": "Received {0} voice: Order Disciples close to the Array Core {1} position to support the battle at Array Core {1}.",
+  "pt": "Recebido {0} voz: Ordenar que os Discípulos próximos ao Núcleo da Formação {1} apoiem a batalha no Núcleo da Formação {1}.",
+  "ch": "收到{0}传音：号令阵眼{1}位置附近的弟子前往援助阵眼{1}的战斗。"
+ },
+ "battle_ataticMessage2": {
+  "en": "Received {0} voice: Order all Disciples to fight to the death/protect to their last breath at Array Core {1}.",
+  "pt": "Recebido {0} voz: Ordene que todos os Discípulos lutem até a morte/protejam até o último suspiro no Núcleo da Formação {1}.",
+  "ch": "收到{0}传音：号令所有弟子死攻/死守阵眼{1}。"
+ },
+ "battle_ataticMessage3": {
+  "en": "Received {0} voice: Order all Disciples to gather by the Elder.",
+  "pt": "Recebido {0} voz: Ordene que todos os Discípulos se reúnam perto do Ancião.",
+  "ch": "收到{0}传音：号令所有弟子到长老身边集合。"
+ },
+ "battle_ataticMessage4": {
+  "en": "Received {0} voice: Order all Disciples to prioritize their own safety.",
+  "pt": "Recebido {0} voz: Ordene que todos os Discípulos priorizem sua própria segurança.",
+  "ch": "收到{0}传音：号令所有弟子，优先顾全自身安全。"
+ },
+ "battle_ataticMessage5": {
+  "en": "Received {0} voice: Everyone is to fight as they please.",
+  "pt": "Recebido {0} voz: Todos lutem como desejarem.",
+  "ch": "收到{0}传音：大家自由发挥。"
+ },
+ "battle_baoji": {
+  "en": "Crit",
+  "pt": "Crítico",
+  "ch": "暴击"
+ },
+ "battle_baoxiangtishi": {
+  "en": "Press {0} to open",
+  "pt": "Pressione {0} para abrir",
+  "ch": "按{0}键打开"
+ },
+ "battle_beKillLostEffect": {
+  "en": "{0} was defeated, and the effect gained disappeared!",
+  "pt": "{0} foi derrotado e o efeito obtido desapareceu!",
+  "ch": "{0}被击败，获得效果消失！"
+ },
+ "battle_bukeshiyongdaoju": {
+  "en": "Can't use items!",
+  "pt": "Não pode usar itens!",
+  "ch": "不可使用道具！"
+ },
+ "battle_bunengfuhuo1": {
+  "en": "Body Reconstruction",
+  "pt": "Reconstrução do Corpo",
+  "ch": "重塑肉身"
+ },
+ "battle_bunengfuhuo2": {
+  "en": "You can no longer be revived",
+  "pt": "Você não pode mais ser revivido",
+  "ch": "复活次数不足"
+ },
+ "battle_bunengfuhuo3": {
+  "en": "Main Menu",
+  "pt": "Menu Principal",
+  "ch": "返回主界面"
+ },
+ "battle_bunengfuhuo4": {
+  "en": "Body Reconstruction is unavailable in the current difficulty level",
+  "pt": "Reconstrução do Corpo não está disponível no nível de dificuldade atual",
+  "ch": "当前难度无法重塑肉身"
+ },
+ "battle_buzu": {
+  "en": "Insufficient",
+  "pt": "Insuficiente",
+  "ch": "不足"
+ },
+ "battle_cantAttackFriend": {
+  "en": "You cannot attack your own territory.",
+  "pt": "Você não pode atacar seu próprio território.",
+  "ch": "你不能攻击自己的领地"
+ },
+ "battle_chakan": {
+  "en": "View",
+  "pt": "Ver",
+  "ch": "查看"
+ },
+ "battle_chengfa1": {
+  "en": "Deducted {0} points of your Sect Contribution",
+  "pt": "Deduzidos {0} pontos da sua Contribuição da Seita",
+  "ch": "扣除你{0}点宗门贡献"
+ },
+ "battle_chengfa2": {
+  "en": "Deducted all of your Sect Contribution",
+  "pt": "Deduzida toda a sua Contribuição da Seita",
+  "ch": "扣除你全部的宗门贡献"
+ },
+ "battle_chengfa3": {
+  "en": "Exiled you",
+  "pt": "Você foi exilado",
+  "ch": "你被逐出宗门"
+ },
+ "battle_chengfa4": {
+  "en": "Disciple Loyalty reduced by {0} points",
+  "pt": "Lealdade do Discípulo reduzida em {0} pontos",
+  "ch": "弟子的忠诚度降低了{0}点"
+ },
+ "battle_chengfa5": {
+  "en": "Sect Reputation reduced by {0} points",
+  "pt": "Reputação da Seita reduzida em {0} pontos",
+  "ch": "宗门声望降低了{0}点"
+ },
+ "battle_chengfa6": {
+  "en": "Sect Disciple Hatred towards you increases",
+  "pt": "Ódio do Discípulo da Seita em relação a você aumenta",
+  "ch": "宗门弟子对你的仇恨度增加"
+ },
+ "battle_chengfa7": {
+  "en": "Sect Disciple Affinity towards you increases",
+  "pt": "Afinidade do Discípulo da Seita em relação a você aumenta",
+  "ch": "宗门弟子对你的亲密度增加"
+ },
+ "battle_chengfa8": {
+  "en": "Sect Disciple Hatred towards you decreases",
+  "pt": "Ódio do Discípulo da Seita em relação a você diminui",
+  "ch": "宗门弟子对你的仇恨度降低"
+ },
+ "battle_chengfa9": {
+  "en": "Sect Disciple Affinity towards you decreases",
+  "pt": "Afinidade do Discípulo da Seita em relação a você diminui",
+  "ch": "宗门弟子对你的亲密度降低"
+ },
+ "battle_didang": {
+  "en": "Block",
+  "pt": "Bloquear",
+  "ch": "抵挡"
+ },
+ "battle_dungeon_desc4701": {
+  "en": "You'll be inflicted with Burn in the Blazing Lands.",
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "ch": "在炙炎之域中，你会持续受到高温的灼伤。"
+ },
+ "battle_dungeon_desc4702": {
+  "en": "You'll lose Energy over time in the Arctic Field.",
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "ch": "在极寒之地中，你会持续损失灵力值。"
+ },
+ "battle_dungeon_desc4703": {
+  "en": "Lightning strikes periodically in the Lightning Lands.",
+  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
+  "ch": "在雷罚之地中，周围会持续落下大量的天雷。"
+ },
+ "battle_dungeon_desc4704": {
+  "en": "Strong storms blow periodically in Stormvale.",
+  "pt": "Tempestades fortes sopram periodicamente no Vale da Tempestade.",
+  "ch": "在暴风山谷中，周围会刮起强烈的飓风。"
+ },
+ "battle_dungeon_desc4705": {
+  "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "ch": "在流沙之域中，地上会周期性的出现流沙。"
+ },
+ "battle_dungeon_desc4706": {
+  "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
+  "pt": "Pântanos venenosos aparecem periodicamente no chão na Floresta das Flores Bêbadas.",
+  "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。"
+ },
+ "battle_dungeon_desc4707": {
+  "en": "You'll be inflicted with Burn in the Blazing Lands.",
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "ch": "在炙炎之域中，你会持续受到高温的灼伤。"
+ },
+ "battle_dungeon_desc4708": {
+  "en": "You'll lose Energy over time in the Arctic Field.",
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "ch": "在极寒之地中，你会持续损失灵力值。"
+ },
+ "battle_dungeon_desc4709": {
+  "en": "Lightning strikes periodically in the Lightning Lands.",
+  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
+  "ch": "在雷罚之地中，周围会持续落下大量的天雷。"
+ },
+ "battle_dungeon_desc4710": {
+  "en": "Strong storms blow periodically in Stormvale.",
+  "pt": "Tempestades fortes sopram periodicamente no Vale da Tempestade.",
+  "ch": "在暴风山谷中，周围会刮起强烈的飓风。"
+ },
+ "battle_dungeon_desc4711": {
+  "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "ch": "在流沙之域中，地上会周期性的出现流沙。"
+ },
+ "battle_dungeon_desc4712": {
+  "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
+  "pt": "Pântanos venenosos aparecem periodicamente no chão na Floresta das Flores Bêbadas.",
+  "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。"
+ },
+ "battle_dungeon_desc4713": {
+  "en": "You'll be inflicted with Burn in the Blazing Lands.",
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "ch": "在炙炎之域中，你会持续受到高温的灼伤。"
+ },
+ "battle_dungeon_desc4714": {
+  "en": "You'll lose Energy over time in the Arctic Field.",
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "ch": "在极寒之地中，你会持续损失灵力值。"
+ },
+ "battle_dungeon_desc4715": {
+  "en": "Lightning strikes periodically in the Lightning Lands.",
+  "pt": "Relâmpagos caem periodicamente nas Terras dos Relâmpagos.",
+  "ch": "在雷罚之地中，周围会持续落下大量的天雷。"
+ },
+ "battle_dungeon_desc4716": {
+  "en": "Strong storms blow periodically in Stormvale.",
+  "pt": "Tempestades fortes sopram periodicamente em Stormvale.",
+  "ch": "在暴风山谷中，周围会刮起强烈的飓风。"
+ },
+ "battle_dungeon_desc4717": {
+  "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "ch": "在流沙之域中，地上会周期性的出现流沙。"
+ },
+ "battle_dungeon_desc4718": {
+  "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta da Flor Embriagada.",
+  "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。"
+ },
+ "battle_dungeon_desc4719": {
+  "en": "You'll be inflicted with Burn in the Blazing Lands.",
+  "pt": "Você receberá Queimadura nas Terras Flamejantes.",
+  "ch": "在炙炎之域中，你会持续受到高温的灼伤。"
+ },
+ "battle_dungeon_desc4720": {
+  "en": "You'll lose Energy over time in the Arctic Field.",
+  "pt": "Você perderá Energia gradualmente no Domínio Ártico.",
+  "ch": "在极寒之地中，你会持续损失灵力值。"
+ },
+ "battle_dungeon_desc4721": {
+  "en": "Lightning strikes periodically in the Lightning Lands.",
+  "pt": "Relâmpagos caem periodicamente nas Terras do Relâmpago.",
+  "ch": "在雷罚之地中，周围会持续落下大量的天雷。"
+ },
+ "battle_dungeon_desc4722": {
+  "en": "Strong storms blow periodically in Stormvale.",
+  "pt": "Tempestades fortes sopram periodicamente em Stormvale.",
+  "ch": "在暴风山谷中，周围会刮起强烈的飓风。"
+ },
+ "battle_dungeon_desc4723": {
+  "en": "Quicksand spawns periodically on the ground in Quicksand's Reach.",
+  "pt": "Areia Movediça aparece periodicamente no chão em Alcance da Areia Movediça.",
+  "ch": "在流沙之域中，地上会周期性的出现流沙。"
+ },
+ "battle_dungeon_desc4724": {
+  "en": "Poisonous swamps spawn periodically on the ground in Drunk Flower Forest.",
+  "pt": "Pântanos venenosos surgem periodicamente no chão na Floresta da Flor Embriagada.",
+  "ch": "在醉花林境中，地上会周期性的生成剧毒沼泽。"
+ },
+ "battle_dungeon_desc4725": {
+  "en": "You'll be inflicted with Burn in the Realm of Origin.",
+  "pt": "Você receberá Queimadura no Reino da Origem.",
+  "ch": "在乾元界中，你会持续受到高温的灼伤。"
+ },
+ "battle_dungeon_desc4726": {
+  "en": "You'll lose Energy over time in the Land of the Beginning.",
+  "pt": "Você perderá Energia gradualmente na Terra do Começo.",
+  "ch": "在坤元境中，你会持续损失灵力值。"
+ },
+ "battle_fuhuoanniu1": {
+  "en": "Revive Now",
+  "pt": "Reviver Agora",
+  "ch": "立即复活"
+ },
+ "battle_fuhuoanniu2": {
+  "en": "Revive on World Map",
+  "pt": "Reviver no Mapa Mundial",
+  "ch": "大世界复活"
+ },
+ "battle_fuhuotishi1": {
+  "en": "Cost: {0} Bagua Jade Points",
+  "pt": "Custo: {0} Pontos de Jade Bagua",
+  "ch": "消耗{0}点双鱼佩"
+ },
+ "battle_fuhuotishi2": {
+  "en": "You'll lose all the items obtained from this battle",
+  "pt": "Você perderá todos os itens obtidos nesta batalha",
+  "ch": "你将失去在本场战斗已获得的道具"
+ },
+ "battle_gongfang": {
+  "en": "(Attacker)",
+  "pt": "(Atacante)",
+  "ch": "（攻方）"
+ },
+ "battle_gongjibatishi": {
+  "en": "Attack the Drought Demon?",
+  "pt": "Atacar o Demônio da Seca?",
+  "ch": "是否要攻击魃？"
+ },
+ "battle_guize": {
+  "en": "Rule",
+  "pt": "Regra",
+  "ch": "规则"
+ },
+ "battle_huajie": {
+  "en": "Neutralize",
+  "pt": "Neutralizar",
+  "ch": "化解"
+ },
+ "battle_huodedaoju": {
+  "en": "Items",
+  "pt": "Itens",
+  "ch": "获得道具"
+ },
+ "battle_intoMyPoint": {
+  "en": "{eventName} is an important strategic resource for our Sect. Do not intrude rashly.",
+  "pt": "O {eventName} é um recurso estratégico importante para nossa Seita. Não invada imprudentemente.",
+  "ch": "{eventName}乃我宗重要战略资源，不能贸然闯入"
+ },
+ "battle_intoNeutralPoint": {
+  "en": "{eventName} is dangerous. It's best not to be involved.",
+  "pt": "{eventName} é perigoso. É melhor não se envolver.",
+  "ch": "{eventName}危机四伏，还是不要贸然闯入为好"
+ },
+ "battle_intoOtherPoint": {
+  "en": "{eventName} is {defendName}'s territory. It's best not to be involved.",
+  "pt": "{eventName} é o território de {defendName}. É melhor não se envolver.",
+  "ch": "{eventName}乃是{defendName}的领地，还是不要贸然闯入为好"
+ },
+ "battle_jibai": {
+  "en": "Defeat",
+  "pt": "Derrota",
+  "ch": "击败"
+ },
+ "battle_jiejie": {
+  "en": "Tao Realm",
+  "pt": "Reino Dao",
+  "ch": "道界"
+ },
+ "battle_jiesuochengjiu": {
+  "en": "Achievement",
+  "pt": "Conquista",
+  "ch": "解锁成就"
+ },
+ "battle_jinengtupo": {
+  "en": "Skill Breakthrough",
+  "pt": "Avanço de Habilidade",
+  "ch": "技能突破"
+ },
+ "battle_jingyan": {
+  "en": "EXP",
+  "pt": "EXP",
+  "ch": "获得修为"
+ },
+ "battle_jinruzhandou": {
+  "en": "Fight",
+  "pt": "Lutar",
+  "ch": "进入战斗"
+ },
+ "battle_jixu": {
+  "en": "Continue",
+  "pt": "Continuar",
+  "ch": "继  续"
+ },
+ "battle_juan": {
+  "en": "卷",
+  "pt": "Vol.",
+  "ch": "卷"
+ },
+ "battle_killAddTime": {
+  "en": "{0} killed {1} people in a row and gained {2} seconds of attack time!",
+  "pt": "{0} abateu {1} pessoas seguidas e ganhou {2} segundos de tempo de ataque!",
+  "ch": "{0}连斩{1}人，争取了{2}秒进攻时间！"
+ },
+ "battle_killCount": {
+  "en": "{0} killed {1} people in a row, boosting all morale!",
+  "pt": "{0} abateu {1} pessoas seguidas, elevando a moral de todos!",
+  "ch": "{0}连斩{1}人，全体士气大振！"
+ },
+ "battle_killCount2": {
+  "en": "{0} killed {1} people in total, boosting all morale!",
+  "pt": "{0} abateu um total de {1} pessoas, elevando a moral de todos!",
+  "ch": "{0}累计击杀{1}人，全体士气大振！"
+ },
+ "battle_lingliyiman": {
+  "en": "Energy is full",
+  "pt": "Energia está cheia",
+  "ch": "灵力已满"
+ },
+ "battle_lingyu": {
+  "en": "Field",
+  "pt": "Domínio",
+  "ch": "领域"
+ },
+ "battle_loseCore": {
+  "en": "Array Core {0} has been occupied.",
+  "pt": "Núcleo da Formação {0} foi ocupado.",
+  "ch": "阵眼{0}已经占领。"
+ },
+ "battle_loseCoreAddTime": {
+  "en": "The attacking party has captured the Array Core, and gained {0} seconds of attack time!",
+  "pt": "A parte atacante capturou o Núcleo da Formação, ganhando {0} segundos de tempo de ataque!",
+  "ch": "进攻方夺得阵眼，争取了{0}秒进攻时间！"
+ },
+ "battle_meiren": {
+  "en": "Not enough people to send to battle",
+  "pt": "Número insuficiente de pessoas para enviar à batalha",
+  "ch": "出征人数不足"
+ },
+ "battle_miao": {
+  "en": "s",
+  "pt": "s",
+  "ch": "秒"
+ }
+}

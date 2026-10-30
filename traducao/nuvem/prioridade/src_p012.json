@@ -1,0 +1,1212 @@
+{
+ "UISchoolHononr_schoolRank3": {
+  "en": "Last Place",
+  "pt": "Último Lugar",
+  "ch": "末席"
+ },
+ "UISchoolHononr_schoolRewardTip": {
+  "en": "Excellent results we achieved in the Sect Tournament, leaving everyone in awe. The Sect Leader has decided to reward all Disciples.",
+  "pt": "Resultados excelentes foram alcançados no Torneio da Seita, deixando todos em admiração. O Líder da Seita decidiu recompensar todos os Discípulos.",
+  "ch": "此次宗门大比成绩优异，威震八方，宗主决定犒赏各位弟子"
+ },
+ "UISchoolHononr_schoolScore": {
+  "en": "Sect score:",
+  "pt": "Pontuação da Seita:",
+  "ch": "宗门得分:"
+ },
+ "UITaoistHeart_chuanshou": {
+  "en": "Teach Taoist Seed",
+  "pt": "Ensinar Semente Daoísta",
+  "ch": "传授道种"
+ },
+ "UITaoistHeart_chuanshougei": {
+  "en": "Pass on the Taoist Seed",
+  "pt": "Passar a Semente Daoísta",
+  "ch": "为其传送道种"
+ },
+ "UITaoistHeart_heartTips": {
+  "en": "The character's Seed Condensation will gradually increase with time.\nWhen the character's Seed Condensation reaches the limit, a Wayborne Seed will be formed.\nThe person holding the Wayborne Seed can teach the Wayborne Seed to other characters.",
+  "pt": "A Condensação da Semente do personagem aumentará gradualmente com o tempo.\nQuando a Condensação da Semente do personagem atingir o limite, uma Semente do Dao será formada.\nQuem possui a Semente do Dao pode ensiná-la a outros personagens.",
+  "ch": "角色的凝种值会随着时间的流逝逐渐增长。\n当角色的凝种值达到上限后，便会衍化出道种。\n持道种之人，可将道种传授于其他角色。"
+ },
+ "UITaoistHeart_heartTitle": {
+  "en": "Seed Condensation",
+  "pt": "Condensação da Semente",
+  "ch": "凝种值"
+ },
+ "UITaoistHeart_meimubiao": {
+  "en": "Select a target to teach!",
+  "pt": "Selecione um alvo para ensinar!",
+  "ch": "请选择传道的目标！"
+ },
+ "UITaoistHeart_youdaoxin": {
+  "en": "They already have a Taoist Mind!",
+  "pt": "Eles já possuem um Coração do Dao!",
+  "ch": "对方已经有道心了！"
+ },
+ "UITaoistHeart_youdaozhong": {
+  "en": "They already have a Taoist Seed!",
+  "pt": "Eles já possuem uma Semente Daoísta!",
+  "ch": "对方已经有道种了！"
+ },
+ "UITownFactory_lianzhitishi1": {
+  "en": "Automatically obtain the missing materials from Tree Vault.",
+  "pt": "Obtenha automaticamente os materiais faltantes da Árvore-Cofre.",
+  "ch": "必要材料不足部分自动从建木中获取。"
+ },
+ "UI_SoulDevourSwordEscapeAlert": {
+  "en": "If you are discovered devouring souls, powerful cultivators will come to eliminate you. <r>It would be extremely dangerous!</r>\nAre you sure you want to let them leave?",
+  "pt": "Se a devoração de almas for descoberta, Cultivadores poderosos virão para eliminá-lo. <r>Isso seria extremamente perigoso!</r>\nTem certeza de que deseja deixá-los partir?",
+  "ch": "吞噬元魂被附近修仙者发现将招来强大的修仙者除妖，<r>极其危险！</r>\n真的要放任其离开吗?"
+ },
+ "UI_jifensaibeizhan_tips": {
+  "en": "The Sect Leader will select the Disciples to fight in matches. The defeated side enters a heavily wounded state and cannot be deployed.",
+  "pt": "O Líder da Seita selecionará os Discípulos para lutar em partidas. O lado derrotado entra em estado Gravemente Ferido e não pode ser enviado.",
+  "ch": "宗主会选定出战弟子进行对战，对战失败方会进入重伤状态，无法再次上场。"
+ },
+ "UI_jifensaimianban_tips": {
+  "en": "After every round of the Points Race, all Disciples who are not heavily wounded recover 20% of lost HP. After the Points Race, and before entering the Open Challenge Match, all heavily wounded Disciples recover 30% of max HP.",
+  "pt": "Após cada rodada da Corrida de Pontos, todos os Discípulos que não estão Gravemente Feridos recuperam 20% do HP perdido. Após a Corrida de Pontos e antes de entrar no Desafio Aberto, todos os Discípulos Gravemente Feridos recuperam 30% do HP máximo.",
+  "ch": "积分赛每轮结束休整后，所有未重伤弟子会恢复已损失生命20%。积分赛结束进入擂台赛前的休整所有为重伤弟子会恢复最大生命30%。"
+ },
+ "UI_leitaisai_rule": {
+  "en": "1. The <#e92828>Open Challenge Match</color> ends when all Disciples have participated in it, or when no other Sect Disciples can participate, and the Sect's grand contest ends.\n2. <#e92828>Sect Tournament</color> final rankings are based on the sum of the Points Race score and the Open Challenge Match score to decide the <#e6ac0e>top three places</color>.\n3. The Disciple who <#e6ac0e>earned the most personal points</color> will be the <#ff7800>Champion</color>.",
+  "pt": "1. O <#e92828>Desafio Aberto</color> termina quando todos os Discípulos participarem ou quando nenhum outro Discípulo da Seita puder participar, e o grande torneio da Seita termina.\n2. As classificações finais do <#e92828>Torneio da Seita</color> são baseadas na soma da pontuação da Corrida de Pontos e da pontuação do Desafio Aberto para decidir os <#e6ac0e>três primeiros lugares</color>.\n3. O Discípulo que <#e6ac0e>ganhou mais pontos pessoais</color> será o <#ff7800>Campeão</color>.",
+  "ch": "1.<#e92828>擂台赛</color>所有弟子完成上擂或没有其他宗门弟子可以上擂时，结束本次宗门大赛。\n2.<#e92828>宗门大比</color>最终的排名是根据积分赛得分和擂台赛得分总和来决出<#e6ac0e>前三名</color>。\n3.个人<#e6ac0e>得分最高</color>的弟子会获得本次宗门大比的<#ff7800>魁首</color>。"
+ },
+ "UI_leitaisai_tips": {
+  "en": "During the Open Challenge Match, tap the button on top to <#791515>get on the stage</color>. You are not allowed to challenge <#791515>other members of your own sect</color>.",
+  "pt": "Durante o Desafio Aberto, toque no botão no topo para <#791515>subir ao palco</color>. Não é permitido desafiar <#791515>outros membros da sua própria Seita</color>.",
+  "ch": "擂台赛进行时，参赛者可以点击上方<#791515>上擂按钮</color>进行上擂，当场上弟子为<#791515>本宗弟子</color>时不可上擂挑战。"
+ },
+ "UI_mibaofenpei_textZhongShang": {
+  "en": "Heavily Wounded\nCannot Battle",
+  "pt": "Gravemente Ferido\nNão Pode Lutar",
+  "ch": "重伤状态\n无法上场"
+ },
+ "UI_mibaofenpei_tips": {
+  "en": "Drag the Treasure to the selected Disciple to give it to the. If the Disciple is heavily wounded, give them the Treasure to recover from that state.",
+  "pt": "Arraste o Tesouro para o Discípulo selecionado para entregá-lo. Se o Discípulo estiver Gravemente Ferido, dê a ele o Tesouro para se recuperar desse estado.",
+  "ch": "拖动秘宝到指定督战弟子，可将该秘宝赐予弟子。若弟子重伤状态，给与恢复重伤的秘宝治疗重伤状态。"
+ },
+ "UI_mibaoge_tips": {
+  "en": "Treasures can be granted to the supervisor Disciple in the Assign interface after the Treasury has ended. While supervising the battle, you can command the Disciple to use the Treasure at the right time to get the effect. Heavily wounded Disciples cannot receive treasures, but they can use it to recover from heavy wounds.",
+  "pt": "Os Tesouros podem ser concedidos ao Discípulo supervisor na interface de Atribuição após o Tesouro terminar. Enquanto supervisiona a batalha, você pode comandar o Discípulo a usar o Tesouro no momento certo para obter o efeito. Discípulos Gravemente Feridos não podem receber tesouros, mas podem usá-lo para se recuperar de ferimentos graves.",
+  "ch": "秘宝可以在秘宝阁结束后的分配界面赐予督战弟子。督战时，可以指挥弟子在合适的时机使用秘宝获得效果。重伤弟子无法接受秘宝，但可以使用恢复重伤的秘宝进行恢复。"
+ },
+ "UI_zhongshangbiaozhi_tips": {
+  "en": "<#791515>Cannot partake</color> while <#791515>Heavily Wounded</color>.",
+  "pt": "<#791515>Não pode participar</color> enquanto <#791515>Gravemente Ferido</color>.",
+  "ch": "<#791515>重伤</color>状态<#791515>无法上场</color>。"
+ },
+ "UnitMonth": {
+  "en": " month(s)",
+  "pt": " mês(es)",
+  "ch": "个月"
+ },
+ "abilityPrefixDescA100101": {
+  "en": "移动速度增加30。",
+  "pt": "Aumento de 30 na velocidade de movimento.",
+  "ch": "移动速度增加30。"
+ },
+ "abilityPrefixDescA100102": {
+  "en": "移动速度增加35。",
+  "pt": "Aumento de 35 na velocidade de movimento.",
+  "ch": "移动速度增加35。"
+ },
+ "abilityPrefixDescA100103": {
+  "en": "移动速度增加40。",
+  "pt": "Aumento de 40 na velocidade de movimento.",
+  "ch": "移动速度增加40。"
+ },
+ "abilityPrefixDescA100104": {
+  "en": "移动速度增加45。",
+  "pt": "Aumento de 45 na velocidade de movimento.",
+  "ch": "移动速度增加45。"
+ },
+ "abilityPrefixDescB100101": {
+  "en": "身法冷却降低3秒。",
+  "pt": "Redução de 3 segundos na recarga da técnica corporal.",
+  "ch": "身法冷却降低3秒。"
+ },
+ "abilityPrefixDescB100102": {
+  "en": "身法灵力消耗减少5。",
+  "pt": "Redução de 5 no consumo de energia espiritual da técnica corporal.",
+  "ch": "身法灵力消耗减少5。"
+ },
+ "abilityPrefixDescB100103": {
+  "en": "身法灵力消耗减少5。",
+  "pt": "Redução de 5 no consumo de energia espiritual da técnica corporal.",
+  "ch": "身法灵力消耗减少5。"
+ },
+ "abilityPrefixDescB100104": {
+  "en": "身法冷却降低3秒。",
+  "pt": "Redução de 3 segundos na recarga da técnica corporal.",
+  "ch": "身法冷却降低3秒。"
+ },
+ "abilityPrefixDescB100105": {
+  "en": "概率+10。",
+  "pt": "Probabilidade +10.",
+  "ch": "概率+10。"
+ },
+ "abilityPrefixDescB100106": {
+  "en": "概率+15。",
+  "pt": "Probabilidade +15.",
+  "ch": "概率+15。"
+ },
+ "abilityPrefixDescB100107": {
+  "en": "叠加层数+1。",
+  "pt": "Camadas acumuladas +1.",
+  "ch": "叠加层数+1。"
+ },
+ "abilityPrefixDescB100108": {
+  "en": "叠加层数+1。",
+  "pt": "Camadas acumuladas +1.",
+  "ch": "叠加层数+1。"
+ },
+ "abilityPrefixDescB100109": {
+  "en": "目标敌人数+1。",
+  "pt": "Número de alvos inimigos +1.",
+  "ch": "目标敌人数+1。"
+ },
+ "abilityPrefixDescB100110": {
+  "en": "目标敌人数+2。",
+  "pt": "Número de alvos inimigos +2.",
+  "ch": "目标敌人数+2。"
+ },
+ "abilityPrefixDescC100101": {
+  "en": "身法灵力消耗减少5。",
+  "pt": "Redução de 5 no consumo de energia espiritual da técnica corporal.",
+  "ch": "身法灵力消耗减少5。"
+ },
+ "abilityPrefixDescC100102": {
+  "en": "闪烁距离提升100码。",
+  "pt": "Aumento de 100 metros na distância do teletransporte.",
+  "ch": "闪烁距离提升100码。"
+ },
+ "abilityPrefixDescC100103": {
+  "en": "身法冷却降低5秒。",
+  "pt": "Redução de 5 segundos na recarga da técnica corporal.",
+  "ch": "身法冷却降低5秒。"
+ },
+ "abilityPrefixDescC100104": {
+  "en": "身法冷却降低5秒。",
+  "pt": "Redução de 5 segundos na recarga da técnica corporal.",
+  "ch": "身法冷却降低5秒。"
+ },
+ "abilityPrefixDescC100105": {
+  "en": "概率+15。",
+  "pt": "Probabilidade +15.",
+  "ch": "概率+15。"
+ },
+ "abilityPrefixDescC100106": {
+  "en": "概率+25。",
+  "pt": "Probabilidade +25.",
+  "ch": "概率+25。"
+ },
+ "abilityPrefixDescC100107": {
+  "en": "叠加层数+1。",
+  "pt": "Contagem de camadas acumuladas +1.",
+  "ch": "叠加层数+1。"
+ },
+ "abilityPrefixDescC100108": {
+  "en": "叠加层数+2。",
+  "pt": "Contagem de camadas acumuladas +2.",
+  "ch": "叠加层数+2。"
+ },
+ "abilityPrefixDescC100109": {
+  "en": "目标敌人数+2。",
+  "pt": "Número de alvos inimigos +2.",
+  "ch": "目标敌人数+2。"
+ },
+ "abilityPrefixDescC100110": {
+  "en": "目标敌人数+3。",
+  "pt": "Número de alvos inimigos +3.",
+  "ch": "目标敌人数+3。"
+ },
+ "ability_beidongtisheng": {
+  "en": "Passive Boost:",
+  "pt": "Aumento Passivo:",
+  "ch": "被动提升："
+ },
+ "ability_dadao": {
+  "en": "reaches",
+  "pt": "atinge",
+  "ch": "达到"
+ },
+ "ability_desc_effect1001": {
+  "en": "Equip to get the stat below\n    ATK: &1001_gongji&",
+  "pt": "Equipar para obter o seguinte atributo\n    ATQ: &1001_gongji&",
+  "ch": "装备后可获得以下属性\n    攻击：&1001_gongji&"
+ },
+ "ability_desc_effect2001": {
+  "en": "Equip to get the stat below\n    Max Vitality: &2001_tili&",
+  "pt": "Equipar para obter o seguinte atributo\n    Vitalidade Máx.: &2001_tili&",
+  "ch": "装备后可获得以下属性\n    体力上限：&2001_tili&"
+ },
+ "ability_desc_effect3001": {
+  "en": "Equip to get the stat below\n    DEF: &3001_fangyu&",
+  "pt": "Equipar para obter o seguinte atributo\n    DEF: &3001_fangyu&",
+  "ch": "装备后可获得以下属性\n    防御：&3001_fangyu&"
+ },
+ "ability_desc_effect4001": {
+  "en": "Equip to get the stat below\n    Max Energy: &4001_lingli&",
+  "pt": "Equipar para obter o seguinte atributo\n    Energia Máx.: &4001_lingli&",
+  "ch": "装备后可获得以下属性\n    灵力上限：&4001_lingli&"
+ },
+ "ability_desc_effect5001": {
+  "en": "Equip to get the stat below\n    Max Focus: &5001_nianli&",
+  "pt": "Equipar para obter o seguinte atributo\n    Foco Máx.: &5001_nianli&",
+  "ch": "装备后可获得以下属性\n    念力上限：&5001_nianli&"
+ },
+ "ability_desc_effect6001": {
+  "en": "Equip to get the stat below\n    Spiritual RES: &6001_mokang&",
+  "pt": "Equipar para obter o seguinte atributo\n    RES Espiritual: &6001_mokang&",
+  "ch": "装备后可获得以下属性\n    灵根抗性：&6001_mokang&"
+ },
+ "ability_desc_effect7001": {
+  "en": "Equip to get the stat below\n    Martial RES: &7001_wukang&",
+  "pt": "Equipar para obter o seguinte atributo\n    RES Marcial: &7001_wukang&",
+  "ch": "装备后可获得以下属性\n    功法抗性：&7001_wukang&"
+ },
+ "ability_desc_effect8001": {
+  "en": "Equip to get the stat below\n    Crit: &8001_huixin&",
+  "pt": "Equipar para obter o seguinte atributo\n    Crítico: &8001_huixin&",
+  "ch": "装备后可获得以下属性\n    会心：&8001_huixin&"
+ },
+ "ability_extra_desc_effect1": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1001": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1002": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1003": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1004": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1005": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1006": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1007": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1008": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1009": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1010": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1011": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1012": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1013": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1014": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1015": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1016": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1017": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1018": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1019": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1020": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1021": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1022": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1023": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1024": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1025": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1026": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1027": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1028": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1029": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1030": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1031": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1032": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1033": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1034": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1035": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1036": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1037": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1038": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1039": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1040": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1041": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1042": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1043": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1044": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1045": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental comum.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1046": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1047": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1048": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1049": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1050": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1051": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1052": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1053": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1054": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1055": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1056": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1057": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1058": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1059": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1060": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1061": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1062": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1063": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1064": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect1065": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect2": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect3": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect4": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect5": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect6": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect7": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect8": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_extra_desc_effect9": {
+  "en": "An ordinary Mind Skill.",
+  "pt": "Uma Técnica Mental ordinária.",
+  "ch": "这是一本普通的心法。"
+ },
+ "ability_name_last1": {
+  "en": "Move",
+  "pt": "Movimentação",
+  "ch": "劲"
+ },
+ "ability_name_last3": {
+  "en": "Technique",
+  "pt": "Técnica",
+  "ch": "式"
+ },
+ "ability_name_last4": {
+  "en": "Guide",
+  "pt": "Guia",
+  "ch": "诀"
+ },
+ "ability_name_last5": {
+  "en": "Compendium",
+  "pt": "Compêndio",
+  "ch": "录"
+ },
+ "ability_name_last6": {
+  "en": "Secret Manual",
+  "pt": "Manual Secreto",
+  "ch": "秘卷"
+ },
+ "ability_name_last7": {
+  "en": "Divine Power",
+  "pt": "Poder Divino",
+  "ch": "神功"
+ },
+ "ability_name_last8": {
+  "en": "Mastery",
+  "pt": "Mestria",
+  "ch": "大法"
+ },
+ "ability_zhuangbeiyiben": {
+  "en": "已装备了同类型心法《{0}》",
+  "pt": "Você equipou uma técnica mental do mesmo tipo {0}",
+  "ch": "已装备同类型心法《{0}》"
+ },
+ "abortiveAuctionDesc1": {
+  "en": "The item you put up for auction at {0} wasn't sold. Please retrieve it.",
+  "pt": "O item leiloado em {0} não foi vendido. Por favor, retire-o.",
+  "ch": "你在{0}的商会拍卖的道具流拍了，请尽早取回。"
+ },
+ "abortiveAuctionName1": {
+  "en": "Item Not Sold",
+  "pt": "Item Não Vendido",
+  "ch": "道具流拍"
+ },
+ "achievement_kejiesuo": {
+  "en": "Unlockable:",
+  "pt": "Liberável:",
+  "ch": "可解锁："
+ },
+ "achievement_title": {
+  "en": "Achievement",
+  "pt": "Conquista",
+  "ch": "成就"
+ },
+ "achievement_yijiesuo": {
+  "en": "Unlocked: ",
+  "pt": "Liberado: ",
+  "ch": "已解锁"
+ },
+ "acttips101101": {
+  "en": "Attacked by monsters. Unavailable in 3 months.",
+  "pt": "Atacado por monstros. Indisponível por 3 meses.",
+  "ch": "遭受受到妖兽的袭击3个月内不可使用"
+ },
+ "ancestralHallName1": {
+  "en": "Kunwu Shrine",
+  "pt": "Santuário Kunwu",
+  "ch": "昆吾仙祠"
+ },
+ "ancestralHallName10": {
+  "en": "Flaming Wind Shrine",
+  "pt": "Santuário do Vento Flamejante",
+  "ch": "烽岚仙祠"
+ },
+ "ancestralHallName11": {
+  "en": "Placid Water Shrine",
+  "pt": "Santuário da Água Plácida",
+  "ch": "止水仙祠"
+ },
+ "ancestralHallName12": {
+  "en": "Battle Soul Shrine",
+  "pt": "Santuário da Alma da Batalha",
+  "ch": "斗魂仙祠"
+ },
+ "ancestralHallName13": {
+  "en": "Destiny Catcher Shrine",
+  "pt": "Santuário do Capturador de Destino",
+  "ch": "缚命仙祠"
+ },
+ "ancestralHallName14": {
+  "en": "Ethereal Illusion Shrine",
+  "pt": "Santuário da Ilusão Etérea",
+  "ch": "天幻仙祠"
+ },
+ "ancestralHallName15": {
+  "en": "Jade Blossom Shrine",
+  "pt": "Santuário da Flor de Jade",
+  "ch": "琼芳仙祠"
+ },
+ "ancestralHallName2": {
+  "en": "Iridescent Cat Shrine",
+  "pt": "Santuário do Gato Iridescente",
+  "ch": "霓狸仙祠"
+ },
+ "ancestralHallName3": {
+  "en": "Noble Medic Shrine",
+  "pt": "Santuário do Médico Nobre",
+  "ch": "悬壶仙祠"
+ },
+ "ancestralHallName4": {
+  "en": "Gleaming Pieces Shrine",
+  "pt": "Santuário das Peças Brilhantes",
+  "ch": "星主仙祠"
+ },
+ "ancestralHallName5": {
+  "en": "Shadowslayer Shrine",
+  "pt": "Santuário do Matador de Sombras",
+  "ch": "影弑仙祠"
+ },
+ "ancestralHallName6": {
+  "en": "Outlandish One Shrine",
+  "pt": "Santuário do Errante",
+  "ch": "离尘仙祠"
+ },
+ "ancestralHallName7": {
+  "en": "Lunar Orchid Shrine",
+  "pt": "Santuário da Orquídea Lunar",
+  "ch": "月兰仙祠"
+ },
+ "ancestralHallName8": {
+  "en": "Sun Blocking One Shrine",
+  "pt": "Santuário do Bloqueador do Sol",
+  "ch": "擎苍仙祠"
+ },
+ "ancestralHallName9": {
+  "en": "Divine Eyes Shrine",
+  "pt": "Santuário dos Olhos Divinos",
+  "ch": "神目仙祠"
+ },
+ "appellationMgr_daohaoshixiao": {
+  "en": "No Martial Skill or Special Skill equipped, and no related Taoist Title equipped. The effect to mitigate enemy damage is not activated.",
+  "pt": "Sem Técnica Marcial ou Técnica Especial equipada, e sem Título Daoísta relacionado equipado. O efeito para mitigar o dano inimigo não está ativado.",
+  "ch": "未装备武技或绝技，且未佩戴相关道号，化解敌方伤害的效果将不生效"
+ },
+ "appellation_wudaohao": {
+  "en": "No Taoist Title",
+  "pt": "Sem Título Daoísta",
+  "ch": "无道号"
+ },
+ "areaName1": {
+  "en": "Bai Yuan",
+  "pt": "Distrito Bai Yuan",
+  "ch": "白源区"
+ },
+ "areaName10": {
+  "en": "Chi You",
+  "pt": "Estado Chi You",
+  "ch": "赤幽州"
+ },
+ "areaName12": {
+  "en": "Nether Mountains",
+  "pt": "Montanhas do Submundo",
+  "ch": "冥山"
+ },
+ "areaName13": {
+  "en": "Taihang Mountains",
+  "pt": "Montanhas Taihang",
+  "ch": "太行山"
+ },
+ "areaName2": {
+  "en": "Yong Ning",
+  "pt": "Estado Yong Ning",
+  "ch": "永宁州"
+ },
+ "areaName4": {
+  "en": "Hua Feng",
+  "pt": "Estado Hua Feng",
+  "ch": "华封州"
+ },
+ "areaName5": {
+  "en": "Hundred Thousand Hills",
+  "pt": "Colinas das Cem Mil",
+  "ch": "十万大山"
+ },
+ "areaName7": {
+  "en": "Everfrost",
+  "pt": "Geada Eterna",
+  "ch": "永恒冰原"
+ },
+ "areaName8": {
+  "en": "Mu Xian",
+  "pt": "Estado Mu Xian",
+  "ch": "暮仙州"
+ },
+ "areaName9": {
+  "en": "Wayward Desert",
+  "pt": "Deserto Errante",
+  "ch": "迷途荒漠"
+ },
+ "artifactBook_hexincailiao": {
+  "en": "Core Material",
+  "pt": "Material Central",
+  "ch": "核心材料"
+ },
+ "artifactBook_lianzhi": {
+  "en": "Forge",
+  "pt": "Forja",
+  "ch": "炼制"
+ },
+ "artifactBook_tongyongcailiao": {
+  "en": "Normal Supplementary Materials",
+  "pt": "Materiais Suplementares Comuns",
+  "ch": "通用辅助材料"
+ },
+ "artifactBook_xiyoucailiao": {
+  "en": "Rare Supplementary Materials",
+  "pt": "Materiais Suplementares Raros",
+  "ch": "稀有辅助材料"
+ },
+ "artifactFire_lianzhicishu": {
+  "en": "Forged",
+  "pt": "Forjado",
+  "ch": "炼制次数"
+ },
+ "artifactInfo_hunli": {
+  "en": "Spirit Power",
+  "pt": "Poder Espiritual",
+  "ch": "魂力"
+ },
+ "artifactMixed": {
+  "en": "Impurities: {0}",
+  "pt": "Impurezas: {0}",
+  "ch": "杂质：{0}"
+ },
+ "artifactShapeRefine_choosePrefix": {
+  "en": "Select the properties you want to replace",
+  "pt": "Selecione as propriedades que deseja substituir",
+  "ch": "请选择更换的词条"
+ },
+ "artifactShapeRefine_chooseShape": {
+  "en": "Add the artifact you want to refine first.",
+  "pt": "Adicione primeiro o artefato que deseja refinar.",
+  "ch": "请先放入要精炼的器形"
+ },
+ "artifactShapeRefine_jinglian": {
+  "en": "Refine",
+  "pt": "Refinar",
+  "ch": "精炼器形"
+ },
+ "artifactShapeRefine_jinglianstone": {
+  "en": "Refining Material",
+  "pt": "Material de Refino",
+  "ch": "精炼材料"
+ },
+ "artifactShapeRefine_jingliantishi": {
+  "en": "Spend {0} Spirit Stones to refine {1}?",
+  "pt": "Gastar {0} Pedras Espirituais para refinar {1}?",
+  "ch": "确定花费{0}灵石精炼法宝{1}吗？"
+ },
+ "artifactShapeRefine_success": {
+  "en": "Refined",
+  "pt": "Refinado",
+  "ch": "精炼成功"
+ },
+ "artifactShapeRepair_chooseShape": {
+  "en": "Add the artifact you want to repair first.",
+  "pt": "Adicione primeiro o artefato que deseja reparar.",
+  "ch": "请先放入要修复的器形"
+ },
+ "artifactShapeRepair_success": {
+  "en": "Repaired",
+  "pt": "Reparado",
+  "ch": "修复成功"
+ },
+ "artifactShapeRepair_xiufutishi": {
+  "en": "Spend {0} Spirit Stones to repair {1}?",
+  "pt": "Gastar {0} Pedras Espirituais para reparar {1}?",
+  "ch": "确定花费{0}灵石修复法宝{1}吗？"
+ },
+ "artifactShapeRepair_zazhitishi": {
+  "en": "Impurities can't be higher than {0}",
+  "pt": "As impurezas não podem ser maiores que {0}",
+  "ch": "杂质不得高于{0}"
+ },
+ "artifactShapeUpGrade_chooseShape": {
+  "en": "Add the artifact you want to upgrade first.",
+  "pt": "Adicione primeiro o artefato que deseja melhorar.",
+  "ch": "请先放入要升级的器形"
+ },
+ "artifactShapeUpGrade_stone": {
+  "en": "Fusion Stone",
+  "pt": "Pedra de Fusão",
+  "ch": "融合石"
+ },
+ "artifactShapeUpgrade_rongheshi": {
+  "en": "Heavenly Materials",
+  "pt": "Materiais Celestes",
+  "ch": "凝乾乳"
+ },
+ "artifactShapeUpgrade_shengjitishi": {
+  "en": "Spend {0} Spirit Stones to upgrade {1}?",
+  "pt": "Gastar {0} Pedras Espirituais para melhorar {1}?",
+  "ch": "确定花费{0}灵石升级法宝{1}吗？"
+ },
+ "artifactShapeUpgrade_wasWear": {
+  "en": "This artifact is currently equipped. Remove it before upgrading it.",
+  "pt": "Este artefato está equipado no momento. Remova-o antes de melhorá-lo.",
+  "ch": "当前法宝已装备，请脱下再升级"
+ },
+ "artifactShape_LevelMax": {
+  "en": "This artifact has reached its max level!",
+  "pt": "Este artefato atingiu seu nível máximo!",
+  "ch": "该法宝已满级，无法再升级"
+ },
+ "artifactShape_beicuihuitishi": {
+  "en": "If an Artifact is defeated, the cooldown time will increase.",
+  "pt": "Se um Artefato for derrotado, o tempo de recarga aumentará.",
+  "ch": "若法宝在持续时间内被击败，则使用冷却时间会增加"
+ },
+ "artifactShape_cailiaoqixing": {
+  "en": "Upgrading Material",
+  "pt": "Material de Upgrade",
+  "ch": "升级材料"
+ },
+ "artifactShape_chixushijian": {
+  "en": "Duration",
+  "pt": "Duração",
+  "ch": "持续时间"
+ },
+ "artifactShape_fireWhereGet": {
+  "en": "Samadhi Flames can be redeemed at the Treasure Pavilion of your sect.",
+  "pt": "As Chamas Samadhi podem ser resgatadas no Pavilhão do Tesouro da sua seita.",
+  "ch": "真火可在宗门中的聚宝仙楼中兑换获得。"
+ },
+ "artifactShape_iswear": {
+  "en": "Identical artifacts not allowed!",
+  "pt": "Artefatos idênticos não são permitidos!",
+  "ch": "不能装备相同的器形"
+ },
+ "artifactShape_jichushuxing": {
+  "en": "Basic Stats",
+  "pt": "Atributos Básicos",
+  "ch": "基础属性"
+ },
+ "artifactShape_jiechuchenggon": {
+  "en": "Separated",
+  "pt": "Separado",
+  "ch": "解除成功"
+ },
+ "artifactShape_jinenglengque": {
+  "en": "Cooldown",
+  "pt": "Recarga",
+  "ch": "技能冷却"
+ },
+ "artifactShape_jinengshuoming": {
+  "en": "Skill Info",
+  "pt": "Detalhes",
+  "ch": "技能说明"
+ },
+ "artifactShape_jinengxiaohao": {
+  "en": "Cost",
+  "pt": "Custo",
+  "ch": "技能消耗"
+ },
+ "artifactShape_jinglian": {
+  "en": "Refine",
+  "pt": "Refinar",
+  "ch": "精炼"
+ },
+ "artifactShape_lianqi": {
+  "en": "Forge",
+  "pt": "Forjar",
+  "ch": "炼器"
+ },
+ "artifactShape_lianzhichenggon": {
+  "en": "Forged",
+  "pt": "Forjado",
+  "ch": "炼制成功"
+ },
+ "artifactShape_lianzhitishi": {
+  "en": "Spend {0} Spirit Stones to forge {1}?",
+  "pt": "Gastar {0} Pedras Espirituais para forjar {1}?",
+  "ch": "确定花费{0}灵石炼制法宝{1}吗？"
+ },
+ "artifactShape_mainStoneWhereGet": {
+  "en": "Kill Mythical Beast Lords in special areas to obtain Core Materials.",
+  "pt": "Derrote Fera Mítica Senhor em áreas especiais para obter Materiais Principais.",
+  "ch": "核心材料可通过击杀特殊区域中的大妖兽王获得。"
+ },
+ "artifactShape_meimiaoxiaohao": {
+  "en": "Cost/second while present",
+  "pt": "Custo/s em campo",
+  "ch": "在场时每秒消耗"
+ },
+ "artifactShape_naijiu": {
+  "en": "Durability: {0}",
+  "pt": "Durabilidade: {0}",
+  "ch": "耐久度：{0}"
+ },
+ "artifactShape_posunqixing": {
+  "en": "Broken Artifact",
+  "pt": "Artefato Quebrado",
+  "ch": "破损器形"
+ },
+ "artifactShape_refineMatWhereGet": {
+  "en": "Kill Darkfire Mask to obtain Refining Materials. They can also be mined in various areas.",
+  "pt": "Derrote Máscara de Fogo Negro para obter Materiais de Refinação. Eles também podem ser extraídos em várias áreas.",
+  "ch": "精炼材料可通过击杀黯炎邪面或在各大区域挖矿获得。"
+ },
+ "artifactShape_ronghechenggon": {
+  "en": "Combined",
+  "pt": "Combinado",
+  "ch": "融合成功"
+ },
+ "artifactShape_rongheqilingtishi": {
+  "en": "Combine an Artifact Spirit with this artifact",
+  "pt": "Combine um Espírito do Artefato com este artefato",
+  "ch": "选择一个器灵和法宝融合"
+ },
+ "artifactShape_rongheqilingtishi1": {
+  "en": "Already combined with an artifact!",
+  "pt": "Já combinado com um artefato!",
+  "ch": "已融合法宝"
+ },
+ "artifactShape_rongheqilingtishi2": {
+  "en": "Not enough Spirit Power Capacity!",
+  "pt": "Capacidade de Poder Espiritual insuficiente!",
+  "ch": "可容纳魂力不足"
+ },
+ "artifactShape_rongnahunli": {
+  "en": "Spirit Power Capacity",
+  "pt": "Capacidade de Poder Espiritual",
+  "ch": "容纳魂力"
+ },
+ "artifactShape_shengji": {
+  "en": "Upgrade",
+  "pt": "Atualizar",
+  "ch": "升级"
+ },
+ "artifactShape_shengjichenggon": {
+  "en": "Upgraded",
+  "pt": "Atualizado",
+  "ch": "升级成功"
+ },
+ "artifactShape_shengjicitiao": {
+  "en": "Properties",
+  "pt": "Propriedades",
+  "ch": "词条属性"
+ },
+ "artifactShape_shengjiqixing": {
+  "en": "Upgrade",
+  "pt": "Atualizar",
+  "ch": "升级器形"
+ },
+ "artifactShape_shiyonglengque": {
+  "en": "Use cooldown",
+  "pt": "Recarga de uso",
+  "ch": "使用冷却"
+ },
+ "artifactShape_shiyongxiaohao": {
+  "en": "Use cost",
+  "pt": "Custo de uso",
+  "ch": "使用消耗"
+ },
+ "artifactShape_upgradeMatWhereGet": {
+  "en": "Obtain Upgrading Materials from Soul Devouring Pagoda in {0}.",
+  "pt": "Obtenha Materiais de Atualização na Pagoda Devoradora de Almas em {0}.",
+  "ch": "升级材料可在{0}的噬魂塔获得。"
+ },
+ "artifactShape_upgradeStoneWhereGet": {
+  "en": "Obtain Heavenly Materials in Fallen Valley.",
+  "pt": "Obtenha Materiais Celestiais no Vale Caído.",
+  "ch": "凝乾乳可在陨幽谷获得。"
+ },
+ "artifactShape_xiaohaonianli": {
+  "en": "Focus Cost",
+  "pt": "Custo de Foco",
+  "ch": "释放消耗念力"
+ },
+ "artifactShape_xiufu": {
+  "en": "Repair",
+  "pt": "Reparar",
+  "ch": "修复"
+ },
+ "artifactShape_xiufuqixing": {
+  "en": "Repair",
+  "pt": "Reparar",
+  "ch": "修复器形"
+ },
+ "artifactShape_xiufushi": {
+  "en": "Earthly Materials",
+  "pt": "Materiais Terrestres",
+  "ch": "缝坤乳"
+ },
+ "artifactShape_zaohuilengque": {
+  "en": "Recall cooldown",
+  "pt": "Recarga de recall",
+  "ch": "召回冷却"
+ },
+ "artifactShape_zhanyongnianli": {
+  "en": "Focus used",
+  "pt": "Foco usado",
+  "ch": "装备占用念力"
+ },
+ "artifactShapre_NormalStoneWhereGet": {
+  "en": "Kill normal monsters or challenge Fallen Valley to obtain Supplementary Materials. They can also be mined in various areas.",
+  "pt": "Derrote monstros normais ou desafie o Vale Caído para obter Materiais Suplementares. Eles também podem ser minerados em várias áreas.",
+  "ch": "辅助材料可通过击杀普通怪物、陨幽谷或各大区域挖矿获得。"
+ },
+ "artifactShapre_repairStoneWhereGet": {
+  "en": "Obtain Earthly Materials in Fallen Valley.",
+  "pt": "Obtenha Materiais Terrenos no Vale Caído.",
+  "ch": "缝坤乳可在陨幽谷获得。"
+ },
+ "artifactSpriteLifeSkillFail1": {
+  "en": "Too far away to use the living skill.",
+  "pt": "Muito longe para usar a habilidade de vida.",
+  "ch": "距离过远，无法使用生活技能。"
+ },
+ "artifactSpriteLifeSkillFail2": {
+  "en": "No Manuals to learn.",
+  "pt": "Não há Manuais para aprender.",
+  "ch": "没有可学习的秘籍。"
+ },
+ "artifactSpriteShow_btnOkExit": {
+  "en": "OK",
+  "pt": "OK",
+  "ch": "确定"
+ },
+ "artifactSpriteShow_btnOkNext": {
+  "en": "Next",
+  "pt": "Próximo",
+  "ch": "下一个"
+ },
+ "artifactSpriteShow_level": {
+  "en": "Lv.{0}",
+  "pt": "Nível {0}",
+  "ch": "等级{0}"
+ },
+ "artifactSpriteShow_produceTips": {
+  "en": "Possible Artifact Spirits in this area",
+  "pt": "Espíritos do Artefato possíveis nesta área",
+  "ch": "本区域有概率出现的器灵"
+ },
+ "artifactSpriteShow_upgraded": {
+  "en": "Upgraded",
+  "pt": "Atualizado",
+  "ch": "等级提升"
+ },
+ "artifactSpriteTalent_benmingjiesuo": {
+  "en": "Form a pact to unlock",
+  "pt": "Faça um pacto para desbloquear",
+  "ch": "成为本命器灵可解锁"
+ },
+ "artifactSpriteTalent_dengjibuzu": {
+  "en": "Artifact Spirit's level is too low!",
+  "pt": "O nível do Espírito do Artefato é muito baixo!",
+  "ch": "器灵等级不足"
+ }
+}

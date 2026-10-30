@@ -1,0 +1,962 @@
+{
+ "fateDesc2050002": {
+  "en": "Damage Bonus is &45101_powerFix&% less effective.",
+  "pt": "Bônus de Dano é &45101_powerFix&% menos eficaz.",
+  "ch": "伤害加成仅发挥&45101_powerFix&%效果。"
+ },
+ "fateDesc20501": {
+  "en": "Palm &20501_palmUp&",
+  "pt": "Palma &20501_palmUp&",
+  "ch": "掌法资质&20501_palmUp&"
+ },
+ "fateDesc20502": {
+  "en": "All Charge skills' Cooldown &20502_skillCDDown&s",
+  "pt": "Recarga de todas as Habilidades de Carga &20502_skillCDDown&s",
+  "ch": "所有蓄力类型的技能冷却时间&20502_skillCDDown&秒"
+ },
+ "fateDesc20503": {
+  "en": "Gain &700351_evade& Dodge, &700351_pfr& Resistance, and &700351_prg& Pick-up Radius when standing still.",
+  "pt": "Ganhe &700351_evade& de Esquiva, &700351_pfr& de Resistência e &700351_prg& de Raio de Coleta ao ficar parado.",
+  "ch": "站立不动时，闪避&700351_evade&，抗性&700351_pfr&，拾取范围&700351_prg&。"
+ },
+ "fateDesc2060001": {
+  "en": "Dangkang's Agility is &46101_mspFix&% less effective.",
+  "pt": "A Agilidade de Dangkang é &46101_mspFix&% menos eficaz.",
+  "ch": "当康无法正常移动，移动速度仅发挥&46101_mspFix&%效果。"
+ },
+ "fateDesc2060002": {
+  "en": "Gain &46101_pfrUp& Resistance and &46101_hpRestoreUp& Vitality Restoration when you're standing still.",
+  "pt": "Ao ficar parado, ganhe &46101_pfrUp& de Resistência e &46101_hpRestoreUp& de Recuperação de Vitalidade.",
+  "ch": "保持静止时，抗性&46101_pfrUp&，生命回复&46101_hpRestoreUp&。"
+ },
+ "fateDesc20601": {
+  "en": "Finger &20601_fistUp&",
+  "pt": "Dedo &20601_fistUp&",
+  "ch": "指法资质&20601_fistUp&"
+ },
+ "fateDesc20602": {
+  "en": "For skills with Blast, &20602_blastProb&% chance to trigger the Blast again at its location after a delay of &20602_blastLag&s. (Not applicable to Blasts triggered by this effect)",
+  "pt": "Para habilidades com Explosão, &20602_blastProb&% de chance de acionar a Explosão novamente em sua localização após um atraso de &20602_blastLag&s. (Não aplicável a Explosões acionadas por este efeito)",
+  "ch": "任何灵爆结束后，有&20602_blastProb&%的概率在&20602_blastLag&秒后原地再爆一次（不会再次触发）"
+ },
+ "fateDesc20603": {
+  "en": "Blast Radius &50001_blastRangeCoefficient%88&%, Blast Damage &50001_blastDmgCoefficient%88&%.",
+  "pt": "Raio de Explosão &50001_blastRangeCoefficient%88&%, Dano de Explosão &50001_blastDmgCoefficient%88&%.",
+  "ch": "灵爆范围&50001_blastRangeCoefficient%88&%，灵爆伤害&50001_blastDmgCoefficient%88&%。"
+ },
+ "fateDesc20604": {
+  "en": "Skill Duration &20604_jncx&%.",
+  "pt": "Duração da Habilidade &20604_jncx&%.",
+  "ch": "技能持续时间&20604_jncx&%。"
+ },
+ "fateDesc20605": {
+  "en": "Damage dealt &700364_dmg&%. The effect will expire after a total of &7003641_counts& casts of skills in a battle.",
+  "pt": "Dano causado &700364_dmg&%. O efeito expirará após um total de &7003641_counts& usos de habilidades em uma batalha.",
+  "ch": "伤害加成&700364_dmg&%，每场战斗中累计使用&7003641_counts&次任意技能后，该效果消失。"
+ },
+ "fateDesc211001": {
+  "en": "Dodge &21011_evadeSumTwo&, Agility &21011_speedSum&.",
+  "pt": "Esquiva &21011_evadeSumTwo&, Agilidade &21011_speedSum&.",
+  "ch": "闪避&21011_evadeSumTwo&，移动速度&21011_speedSum&。"
+ },
+ "fateDesc211002": {
+  "en": "Resistance is &21011_hpMaxProb&% less effective. Summoned Unit Damage &21011_zhshSum&%.",
+  "pt": "Resistência é &21011_hpMaxProb&% menos eficaz. Dano de Unidades Invocadas &21011_zhshSum&%.",
+  "ch": "抗性仅发挥&21011_hpMaxProb&%效果，召唤物伤害&21011_zhshSum&%。"
+ },
+ "fateDesc21101": {
+  "en": "Fire Root &21101_fire&",
+  "pt": "Raiz de Fogo &21101_fire&",
+  "ch": "火灵根&21101_fire&"
+ },
+ "fateDesc21102": {
+  "en": "Summon a phoenix to scorch your enemies with Fiery Flames after every &21102_hpCostSum& time of actively consuming Vitality.",
+  "pt": "Invoca uma fênix para queimar seus inimigos com Chamas Ardentes após cada &21102_hpCostSum& vezes de consumo ativo de Vitalidade.",
+  "ch": "体力消耗的次数达到&21102_hpCostSum&次时（受到伤害不算），可召唤凤凰进入战场，朝地面喷火，产生烈焰"
+ },
+ "fateDesc212001": {
+  "en": "Dodge is &21012_evadeProb&% less effective. Gain additional &21012_shieldSum& Shield HP in generating shields.",
+  "pt": "Esquiva é &21012_evadeProb&% menos eficaz. Ganhe &21012_shieldSum& PV de Escudo adicionais ao gerar escudos.",
+  "ch": "闪避仅发挥&21012_evadeProb&%效果，每次获得护盾时，可额外获得&21012_shieldSum&点护盾。"
+ },
+ "fateDesc212002": {
+  "en": "Martial Arts cooldown &21012_timeCost&%.",
+  "pt": "Tempo de recarga de Artes Marciais &21012_timeCost&%.",
+  "ch": "使用功法技能时，功法技能的冷却&21012_timeCost&%。"
+ },
+ "fateDesc21201": {
+  "en": "Water Root &21201_water&",
+  "pt": "Raiz de Água &21201_water&",
+  "ch": "水灵根&21201_water&"
+ },
+ "fateDesc21202": {
+  "en": "Cap your damage taken at &21202_hurtMax&% of your Max Vitality and inflict Frost on all enemies when the imminent damage is over &21202_hurtHpMax&% of your Max Vitality. Cooldown: &21202_cd&s",
+  "pt": "Limita o dano recebido a &21202_hurtMax&% da sua Vitalidade Máx. e inflige Gelo a todos os inimigos quando o dano iminente exceder &21202_hurtHpMax&% da sua Vitalidade Máx. Recarga: &21202_cd&s",
+  "ch": "当受到超过&21202_hurtHpMax&%最大体力的伤害时，改为&21202_hurtMax&%的最大体力伤害，并引发一次全场霜冻，对所有敌人施加霜冻效果，每&21202_cd&秒最多触发一次"
+ },
+ "fateDesc21203": {
+  "en": "Phantom Duration &1201_waterTime%88&s. Upon its disappearance, the phantom will trigger a Blast of &12017_waterRange& Range at the nearby enemy's location, dealing &12011_dmg|x50001_blastDmgCoefficient|/10000|f0& damage.",
+  "pt": "Duração do Fantasma &1201_waterTime%88&s. Ao desaparecer, o fantasma acionará uma Explosão de Raio &12017_waterRange& na localização do inimigo próximo, causando &12011_dmg|x50001_blastDmgCoefficient|/10000|f0& de dano.",
+  "ch": "幻象持续时间&1201_waterTime%88&秒。幻象消失时，在附近敌人位置引发一次范围&12017_waterRange&、威力&12011_dmg|x50001_blastDmgCoefficient|/10000|f0&的灵爆。"
+ },
+ "fateDesc213001": {
+  "en": "All Spiritual Roots &210131_bas&, Agility &210131_speed&.",
+  "pt": "Todas as Raízes Espirituais &210131_bas&, Agilidade &210131_speed&.",
+  "ch": "所有灵根&210131_bas&，移动速度&210131_speed&。"
+ },
+ "fateDesc213002": {
+  "en": "Store Price and Refresh Cost &210132_price&%.",
+  "pt": "Preço da Loja e Custo de Atualização &210132_price&%.",
+  "ch": "商店售价与刷新价格&210132_price&%。"
+ },
+ "fateDesc21301": {
+  "en": "Lightning Root &21301_lighting&",
+  "pt": "Raiz de Relâmpago &21301_lighting&",
+  "ch": "雷灵根&21301_lighting&"
+ },
+ "fateDesc21302": {
+  "en": "&21302_lightingProb&% chance to summon a thunderbolt when inflicting Spear damage, dealing Lightning damage to enemies. Can be triggered &21302_cd& times per second",
+  "pt": "&21302_lightingProb&% de chance de invocar um raio ao causar dano de Lança, causando dano de Relâmpago aos inimigos. Pode ser acionado &21302_cd& vezes por segundo.",
+  "ch": "造成枪法伤害时，有&21302_lightingProb&%概率会额外引发一道雷击，对目标造成雷属性伤害，每秒最多触发&21302_cd&次"
+ },
+ "fateDesc214001": {
+  "en": "Every time you take damage, you deal damage equaling to &210141_dmgLost&% of your Max Vitality to the enemy that hit you.",
+  "pt": "Toda vez que você recebe dano, causa dano igual a &210141_dmgLost&% da sua Vitalidade Máx. ao inimigo que o atingiu.",
+  "ch": "每次受到伤害时，会对伤害来源造成最大体力的&210141_dmgLost&%的伤害。"
+ },
+ "fateDesc214002": {
+  "en": "Max Vitality &210142_hpMax&, all stats are &210142_efficiency&% less effective.",
+  "pt": "Vitalidade Máx. &210142_hpMax&, todos os atributos são &210142_efficiency&% menos eficazes.",
+  "ch": "最大体力&210142_hpMax&，所有资质仅能发挥&210142_efficiency&%效果。"
+ },
+ "fateDesc21401": {
+  "en": "Wind Root &21401_wind&",
+  "pt": "Raiz de Vento &21401_wind&",
+  "ch": "风灵根&21401_wind&"
+ },
+ "fateDesc21402": {
+  "en": "Inflict True Damage on enemies when they are knocked back. Every &21402_move& Distance of knock-back will &21402_realHurt& the effect's damage",
+  "pt": "Causar Dano Verdadeiro aos inimigos quando eles são rebatidos. A cada &21402_move& de distância de recuo, o dano do efeito é &21402_realHurt&.",
+  "ch": "击退敌人时可对其造成真实伤害，每击退&21402_move&码，伤害&21402_realHurt&"
+ },
+ "fateDesc215001": {
+  "en": "Cap the amount of equipped active Skills at 2. Agility &215001_speed&.",
+  "pt": "Limitar a quantidade de Habilidades ativas equipadas a 2. Agilidade &215001_speed&.",
+  "ch": "仅能装备2个主动技能，移动速度&215001_speed&。"
+ },
+ "fateDesc215002": {
+  "en": "Generate a mushroom every &215002_intervalTine&s in the battlefield, restoring &215002_hpBack& Vitality after picking it up.",
+  "pt": "Gerar um cogumelo a cada &215002_intervalTine&s no campo de batalha, restaurando &215002_hpBack& de Vitalidade ao coletá-lo.",
+  "ch": "每&215002_intervalTine&秒在场上生成一个蘑菇，拾取后可回复&215002_hpBack&点体力。"
+ },
+ "fateDesc21501": {
+  "en": "Earth Root &21501_stone&",
+  "pt": "Raiz de Terra &21501_stone&",
+  "ch": "土灵根&21501_stone&"
+ },
+ "fateDesc21502": {
+  "en": "Merge &21502_stoneSum& existing Earth Golems into a Spirit Giant with a bonus attack range and a 15% Slowing effect to enemies hit for &15021_lifeTime&s",
+  "pt": "Fundir &21502_stoneSum& Golem de Terra existentes em um Gigante Espiritual com aumento no alcance de ataque e efeito de lentidão de 15% aos inimigos atingidos por &15021_lifeTime&s",
+  "ch": "当场上有&21502_stoneSum&个土傀儡时，可合体为一个巨灵神（攻击范围大，可使敌人减速15%，持续&15021_lifeTime&秒）"
+ },
+ "fateDesc216001": {
+  "en": "Crit Rate is capped at &216001_critVBig&%, EXP Gained &216001_exp&%.",
+  "pt": "Multiplicador Crítico limitado a &216001_critVBig&%, EXP obtida &216001_exp&%.",
+  "ch": "暴击倍率上限为&216001_critVBig&%，修为获得&216001_exp&%。"
+ },
+ "fateDesc216002": {
+  "en": "Dealing &216002_dmgDown&% damage to enemies that are beyond 500 distance.",
+  "pt": "Causar &216002_dmgDown&% de dano a inimigos além de 500 distância.",
+  "ch": "对距离超过500码的敌人造成的伤害&216002_dmgDown&%。"
+ },
+ "fateDesc21601": {
+  "en": "Wood Root &21601_wood&",
+  "pt": "Raiz de Madeira &21601_wood&",
+  "ch": "木灵根&21601_wood&"
+ },
+ "fateDesc21602": {
+  "en": "Effective only once. When there are &21602_unitSum& summoned units, summon a Flower Faerie Queen with penetrative projectiles and Poisonous Thorn effect at the center of the battlefield.",
+  "pt": "Efetivo apenas uma vez. Quando há &21602_unitSum& unidades invocadas, invocar a Rainha Fada das Flores com projéteis penetrantes e efeito de Espinho Venenoso no centro do campo de batalha.",
+  "ch": "当场上存在&21602_unitSum&只召唤物时，可在战场中心召唤出花妖后（穿透攻击，带毒刺，仅生效一次）"
+ },
+ "fateDesc217001": {
+  "en": "Mingxue will automatically cast &21017_windSum& Wind Blades every &21017_orTime&s. Attack Speed is &21017_xiuzhenglv&% less effective.",
+  "pt": "Mingxue lançará automaticamente &21017_windSum& Lâminas de Vento a cada &21017_orTime&s. Velocidade de Ataque é &21017_xiuzhenglv&% menos eficaz.",
+  "ch": "东方茗雪每间隔&21017_orTime&秒可自动施放&21017_windSum&道风刃。攻击速度仅发挥&21017_xiuzhenglv&%的效果。"
+ },
+ "fateDesc217002": {
+  "en": "Dodge &21017_evade&. Release &21017_windSumTwo& Wind Blades every time you and your Mirror Images made a successful Dodging.",
+  "pt": "Esquiva &21017_evade&. Liberar &21017_windSumTwo& Lâminas de Vento toda vez que você e suas Imagens de Espelho realizarem uma Esquiva bem-sucedida.",
+  "ch": "闪避&21017_evade&，自身及镜像每次触发闪避时，可施放&21017_windSumTwo&道风刃。"
+ },
+ "achievementDesc110001": {
+  "en": "Complete the main mission: The Foolish Old Man Removes the Mountains.",
+  "pt": "Complete a missão principal: O Velho Tolo Remove as Montanhas.",
+  "ch": "完成愚公移山主线剧情。"
+ },
+ "achievementDesc110002": {
+  "en": "Complete the main mission: Hou Yi Shoots the Suns.",
+  "pt": "Complete a missão principal: Hou Yi Atira nos Sóis.",
+  "ch": "完成后羿射日主线剧情。"
+ },
+ "achievementDesc110003": {
+  "en": "Complete the main mission: Jingwei Fills Up the Sea.",
+  "pt": "Complete a missão principal: Jingwei Enche o Mar.",
+  "ch": "完成精卫填海主线剧情。"
+ },
+ "achievementDesc110004": {
+  "en": "Complete the main mission: Suiren Kindles the First Flame.",
+  "pt": "Complete a missão principal: Suiren Acende a Primeira Chama.",
+  "ch": "完成钻木取火主线剧情。"
+ },
+ "achievementDesc110005": {
+  "en": "Complete the main mission: Kuafu Chases the Sun.",
+  "pt": "Complete a missão principal: Kuafu Persegue o Sol.",
+  "ch": "完成夸父逐日主线剧情。"
+ },
+ "achievementDesc110006": {
+  "en": "Complete the main mission: Xingtian Slayer.",
+  "pt": "Complete a missão principal: Xingtian, o Matador.",
+  "ch": "完成刑天舞干戚主线剧情。"
+ },
+ "achievementDesc110051": {
+  "en": "Unlock the ending: Unbroken Circle",
+  "pt": "Desbloqueie o final: Círculo Ininterrupto",
+  "ch": "达成结局循环往复。"
+ },
+ "achievementDesc110052": {
+  "en": "Unlock the ending: Chosen Successor",
+  "pt": "Desbloqueie o final: Sucessor Escolhido",
+  "ch": "达成结局后继之人。"
+ },
+ "achievementDesc110053": {
+  "en": "Unlock the ending: Narrow Escape",
+  "pt": "Desbloqueie o final: Escape por um TriZ",
+  "ch": "达成结局劫后余生。"
+ },
+ "achievementDesc110054": {
+  "en": "Unlock the ending: Last Counterattack",
+  "pt": "Desbloqueie o final: Último Contra-ataque",
+  "ch": "达成结局反戈一击。"
+ },
+ "achievementDesc110055": {
+  "en": "Unlock the ending: Ultimate Solution",
+  "pt": "Desbloqueie o final: Solução Suprema",
+  "ch": "达成结局斩草除根。"
+ },
+ "achievementDesc110101": {
+  "en": "Complete the adventure: Celestial Palace.",
+  "pt": "Complete a aventura: Palácio Celestial.",
+  "ch": "完成星耀宫奇遇。"
+ },
+ "achievementDesc110102": {
+  "en": "Complete the adventure: Truth Seeker",
+  "pt": "Complete a aventura: Buscador da Verdade",
+  "ch": "完成愿知愿求奇遇。"
+ },
+ "achievementDesc110103": {
+  "en": "Complete the adventure: Journey of You Yuanzhi",
+  "pt": "Complete a aventura: Jornada de You Yuanzhi",
+  "ch": "完成远致游人奇遇。"
+ },
+ "achievementDesc110104": {
+  "en": "Complete the adventure: Feather of Golden Crow",
+  "pt": "Complete a aventura: Pena do Corvo Dourado",
+  "ch": "完成金乌玉羽奇遇。"
+ },
+ "achievementDesc110105": {
+  "en": "Complete the adventure: Mind to Share",
+  "pt": "Complete a aventura: Mente para Compartilhar",
+  "ch": "完成道心惟微奇遇。"
+ },
+ "achievementDesc110106": {
+  "en": "Complete the adventure: Mind to Snap",
+  "pt": "Complete a aventura: Mente para Agir",
+  "ch": "完成人心惟危奇遇。"
+ },
+ "achievementDesc110107": {
+  "en": "Complete the Adventure: Heroine Feng Pingmo",
+  "pt": "Complete a Aventura: Heroína Feng Pingmo",
+  "ch": "完成风起萍末奇遇。"
+ },
+ "achievementDesc110108": {
+  "en": "Complete the Adventure: Alchemist's Ambition",
+  "pt": "Complete a aventura: Ambição do Alquimista",
+  "ch": "完成丹道真意奇遇。"
+ },
+ "achievementDesc120001": {
+  "en": "Reach Foundation.",
+  "pt": "Atingir a Fundação.",
+  "ch": "成功突破至筑基境。"
+ },
+ "achievementDesc120002": {
+  "en": "Reach Qi Condensation.",
+  "pt": "Atingir a Condensação de Qi.",
+  "ch": "成功突破至结晶境。"
+ },
+ "achievementDesc120003": {
+  "en": "Reach Golden Core.",
+  "pt": "Atingir o Núcleo Dourado.",
+  "ch": "成功突破至金丹境。"
+ },
+ "achievementDesc120004": {
+  "en": "Reach Origin Spirit.",
+  "pt": "Atingir o Espírito de Origem.",
+  "ch": "成功突破至具灵境。"
+ },
+ "achievementDesc120005": {
+  "en": "Reach Nascent Soul.",
+  "pt": "Atingir a Alma Nascente.",
+  "ch": "成功突破至元婴境。"
+ },
+ "achievementDesc120006": {
+  "en": "Reach Soul Formation.",
+  "pt": "Atingir a Formação da Alma.",
+  "ch": "成功突破至化神境。"
+ },
+ "achievementDesc120007": {
+  "en": "Reach Enlightenment.",
+  "pt": "Atingir a Iluminação.",
+  "ch": "成功突破至悟道境。"
+ },
+ "achievementDesc120008": {
+  "en": "Reach Reborn.",
+  "pt": "Atingir o Renascimento.",
+  "ch": "成功突破至羽化境。"
+ },
+ "achievementDesc120009": {
+  "en": "Reach Transcendent.",
+  "pt": "Atingir a Transcendência.",
+  "ch": "成功突破至登仙境。"
+ },
+ "achievementDesc120101": {
+  "en": "Reach Foundation - Heaven.",
+  "pt": "Atingir a Fundação - Céu.",
+  "ch": "成功突破至天道筑基境。"
+ },
+ "achievementDesc120102": {
+  "en": "Reach G1 Golden Core.",
+  "pt": "Atingir o Núcleo Dourado G1.",
+  "ch": "成功突破至一品金丹境。"
+ },
+ "achievementDesc120103": {
+  "en": "Reach Nascent Soul - Heaven.",
+  "pt": "Atingir a Alma Nascente - Céu.",
+  "ch": "成功突破至天道元婴境。"
+ },
+ "achievementDesc130001": {
+  "en": "Kill someone.",
+  "pt": "Matar alguém.",
+  "ch": "第一次杀人。"
+ },
+ "achievementDesc130002": {
+  "en": "Kill 10 Cultivators.",
+  "pt": "Matar 10 Cultivadores.",
+  "ch": "杀死10名修仙者。"
+ },
+ "achievementDesc130003": {
+  "en": "Kill 50 Cultivators.",
+  "pt": "Mate 50 Cultivadores.",
+  "ch": "杀死50名修仙者。"
+ },
+ "achievementDesc140001": {
+  "en": "Get an Apprentice.",
+  "pt": "Obtenha um Aprendiz.",
+  "ch": "拥有1个徒弟。"
+ },
+ "achievementDesc140002": {
+  "en": "Get a Master.",
+  "pt": "Obtenha um Mestre.",
+  "ch": "拥有1个师父。"
+ },
+ "achievementDesc140003": {
+  "en": "Get an Adoptive Parent.",
+  "pt": "Obtenha Pais Adotivos.",
+  "ch": "拥有1个义父母。"
+ },
+ "achievementDesc140004": {
+  "en": "Get an Adoptive Child.",
+  "pt": "Obtenha um Filho Adotivo ou Filha Adotiva.",
+  "ch": "拥有1个义子女。"
+ },
+ "achievementDesc140005": {
+  "en": "Get a Sworn Sibling.",
+  "pt": "Obtenha um Irmão Juramentado ou Irmã Juramentada.",
+  "ch": "拥有1个义兄弟或义姊妹。"
+ },
+ "achievementDesc140006": {
+  "en": "Form a positive relationship with 10 people.",
+  "pt": "Estabeleça um relacionamento positivo com 10 pessoas.",
+  "ch": "拥有10个良性关系。"
+ },
+ "achievementDesc140007": {
+  "en": "Form a positive relationship with 20 people.",
+  "pt": "Estabeleça um relacionamento positivo com 20 pessoas.",
+  "ch": "拥有20个良性关系。"
+ },
+ "achievementDesc140008": {
+  "en": "Hate 1 Cultivator.",
+  "pt": "Odeie 1 Cultivador.",
+  "ch": "你仇视的修仙者数量达到1人。"
+ },
+ "achievementDesc140009": {
+  "en": "Hate 10 Cultivators.",
+  "pt": "Odeie 10 Cultivadores.",
+  "ch": "你仇视的修仙者数量达到10人。"
+ },
+ "achievementDesc140010": {
+  "en": "Marry a Cultivator.",
+  "pt": "Case-se com um Cultivador.",
+  "ch": "成功与一名修仙者结婚。"
+ },
+ "achievementDesc140101": {
+  "en": "At least 1 Cultivator hates you.",
+  "pt": "Pelo menos 1 Cultivador te odeia.",
+  "ch": "至少有1名修仙者仇视你。"
+ },
+ "achievementDesc140102": {
+  "en": "At least 10 Cultivators hate you.",
+  "pt": "Pelo menos 10 Cultivadores te odeiam.",
+  "ch": "至少有10名修仙者仇视你。"
+ },
+ "achievementDesc140103": {
+  "en": "Get a Partner while married.",
+  "pt": "Obtenha um Parceiro(a) enquanto casado(a).",
+  "ch": "在已结婚的情况下拥有一名道侣。"
+ },
+ "achievementDesc150001": {
+  "en": "Raid others' tombs 10 times.",
+  "pt": "Saqueie os túmulos de outros 10 vezes.",
+  "ch": "成功挖掘10次他人的坟墓。"
+ },
+ "achievementDesc160001": {
+  "en": "Steal from others 10 times.",
+  "pt": "Roube de outros 10 vezes.",
+  "ch": "偷窃10次他人的物品。"
+ },
+ "achievementDesc160002": {
+  "en": "Initiate attacks on other Cultivators 10 times.",
+  "pt": "Inicie ataques contra outros Cultivadores 10 vezes.",
+  "ch": "主动攻击其他修仙者10次。"
+ },
+ "achievementDesc160003": {
+  "en": "Send gifts to other Cultivators 10 times.",
+  "pt": "Envie presentes para outros Cultivadores 10 vezes.",
+  "ch": "成功赠送任意物品给其他修仙者10次。"
+ },
+ "achievementDesc160004": {
+  "en": "Request gifts from other Cultivators 10 times.",
+  "pt": "Solicite presentes de outros Cultivadores 10 vezes.",
+  "ch": "成功向其他修仙者索取物品10次。"
+ },
+ "achievementDesc160005": {
+  "en": "Spar with other Cultivators 10 times.",
+  "pt": "Treine com outros Cultivadores 10 vezes.",
+  "ch": "成功与其他修仙者进行切磋10次。"
+ },
+ "achievementDesc160006": {
+  "en": "Train together with other Cultivators 10 times.",
+  "pt": "Treinar junto com outros Cultivadores 10 vezes.",
+  "ch": "成功与其他修仙者进行双修10次。"
+ },
+ "achievementDesc160007": {
+  "en": "Debate with other Cultivators 10 times.",
+  "pt": "Debater com outros Cultivadores 10 vezes.",
+  "ch": "成功与其他修仙者进行论道10次。"
+ },
+ "achievementDesc160101": {
+  "en": "Steal from other Cultivators 10 times without getting noticed.",
+  "pt": "Roubar de outros Cultivadores 10 vezes sem ser notado.",
+  "ch": "成功偷窃了其他修仙者的物品10次，并且尚未被察觉。"
+ },
+ "achievementDesc170001": {
+  "en": "Join a sect.",
+  "pt": "Entrar para uma Seita.",
+  "ch": "成功加入任意一个宗门。"
+ },
+ "achievementDesc170002": {
+  "en": "Become a Disciple.",
+  "pt": "Tornar-se um Discípulo.",
+  "ch": "成为内门弟子。"
+ },
+ "achievementDesc170003": {
+  "en": "Become an Elder in your sect.",
+  "pt": "Tornar-se um Ancião na sua Seita.",
+  "ch": "晋升为长老。"
+ },
+ "achievementDesc170004": {
+  "en": "Become a Grand Elder in your sect.",
+  "pt": "Tornar-se um Grão-Ancião na sua Seita.",
+  "ch": "晋升为大长老。"
+ },
+ "achievementDesc170005": {
+  "en": "Become Sect Leader.",
+  "pt": "Tornar-se Líder da Seita.",
+  "ch": "成为宗主。"
+ },
+ "achievementDesc180001": {
+  "en": "Increase Reputation to 500.",
+  "pt": "Eleve a Reputação a 500.",
+  "ch": "声望达到500。"
+ },
+ "achievementDesc180002": {
+  "en": "Increase Reputation to 1500.",
+  "pt": "Eleve a Reputação a 1500.",
+  "ch": "声望达到1500。"
+ },
+ "achievementDesc180003": {
+  "en": "Increase Reputation to 2500.",
+  "pt": "Eleve a Reputação a 2500.",
+  "ch": "声望达到2500。"
+ },
+ "achievementDesc180004": {
+  "en": "Increase Reputation to 5000.",
+  "pt": "Eleve a Reputação a 5000.",
+  "ch": "声望达到5000。"
+ },
+ "achievementDesc180005": {
+  "en": "Increase Reputation to 8000.",
+  "pt": "Eleve a Reputação a 8000.",
+  "ch": "声望达到8000。"
+ },
+ "achievementDesc180006": {
+  "en": "Increase Reputation to 15000.",
+  "pt": "Eleve a Reputação a 15000.",
+  "ch": "声望达到15000。"
+ },
+ "achievementDesc180007": {
+  "en": "Increase Reputation to 25000.",
+  "pt": "Eleve a Reputação a 25000.",
+  "ch": "声望达到25000。"
+ },
+ "achievementDesc180008": {
+  "en": "Increase Reputation to 40000.",
+  "pt": "Eleve a Reputação a 40000.",
+  "ch": "声望达到40000。"
+ },
+ "achievementDesc180009": {
+  "en": "Increase Reputation to 60000.",
+  "pt": "Eleve a Reputação a 60000.",
+  "ch": "声望达到60000。"
+ },
+ "achievementDesc180010": {
+  "en": "Increase Reputation to 100000.",
+  "pt": "Eleve a Reputação a 100000.",
+  "ch": "声望达到100000。"
+ },
+ "achievementDesc180011": {
+  "en": "Increase Charisma to 450.",
+  "pt": "Eleve o Carisma a 450.",
+  "ch": "魅力达到450。"
+ },
+ "achievementDesc180012": {
+  "en": "Increase Charisma to 650.",
+  "pt": "Eleve o Carisma a 650.",
+  "ch": "魅力达到650。"
+ },
+ "achievementDesc180013": {
+  "en": "Charisma rating becomes \"Abomination\".",
+  "pt": "Avaliação de Carisma se torna \"Abominação\".",
+  "ch": "角色魅力评价为“憎呕”。"
+ },
+ "achievementDesc180014": {
+  "en": "As a righteous Cultivator, increase your Blade stat to 100.",
+  "pt": "Cultivador Justo: aumente Lâmina a 100.",
+  "ch": "刀法资质达到100，并且角色的立场为正道。"
+ },
+ "achievementDesc180015": {
+  "en": "As a righteous Cultivator, increase your Spear stat to 100.",
+  "pt": "Cultivador Justo: aumente Lança a 100.",
+  "ch": "枪法资质达到100，并且角色的立场为正道。"
+ },
+ "achievementDesc180016": {
+  "en": "As a righteous Cultivator, increase your Sword stat to 100.",
+  "pt": "Cultivador Justo: aumente Espada a 100.",
+  "ch": "剑法资质达到100，并且角色的立场为正道。"
+ },
+ "achievementDesc180017": {
+  "en": "As a righteous Cultivator, increase your Fist stat to 100.",
+  "pt": "Cultivador Justo: aumente Punho a 100.",
+  "ch": "拳法资质达到100，并且角色的立场为正道。"
+ },
+ "achievementDesc180018": {
+  "en": "As a righteous Cultivator, increase your Palm stat to 100.",
+  "pt": "Cultivador Justo: aumente Palma a 100.",
+  "ch": "掌法资质达到100，并且角色的立场为正道。"
+ },
+ "achievementDesc180019": {
+  "en": "As a righteous Cultivator, increase your Finger stat to 100.",
+  "pt": "Cultivador Justo: aumente Dedo a 100.",
+  "ch": "指法资质达到100，并且角色的立场为正道。"
+ },
+ "achievementDesc180020": {
+  "en": "As a demonic Cultivator, increase your Blade stat to 100.",
+  "pt": "Cultivador Demoníaco: aumente Lâmina a 100.",
+  "ch": "刀法资质达到100，并且角色的立场为魔道。"
+ },
+ "achievementDesc180021": {
+  "en": "As a demonic Cultivator, increase your Spear stat to 100.",
+  "pt": "Cultivador Demoníaco: aumente Lança a 100.",
+  "ch": "枪法资质达到100，并且角色的立场为魔道。"
+ },
+ "achievementDesc180022": {
+  "en": "As a demonic Cultivator, increase your Sword stat to 100.",
+  "pt": "Cultivador Demoníaco: aumente Espada a 100.",
+  "ch": "剑法资质达到100，并且角色的立场为魔道。"
+ },
+ "achievementDesc180023": {
+  "en": "As a demonic Cultivator, increase your Fist stat to 100.",
+  "pt": "Cultivador Demoníaco: aumente Punho a 100.",
+  "ch": "拳法资质达到100，并且角色的立场为魔道。"
+ },
+ "achievementDesc180024": {
+  "en": "As a demonic Cultivator, increase your Palm stat to 100.",
+  "pt": "Cultivador Demoníaco: aumente Palma a 100.",
+  "ch": "掌法资质达到100，并且角色的立场为魔道。"
+ },
+ "achievementDesc180025": {
+  "en": "As a demonic Cultivator, increase your Finger stat to 100.",
+  "pt": "Cultivador Demoníaco: aumente Dedo a 100.",
+  "ch": "指法资质达到100，并且角色的立场为魔道。"
+ },
+ "achievementDesc180026": {
+  "en": "Increase Fire Root to 100.",
+  "pt": "Eleve a Raiz de Fogo a 100.",
+  "ch": "火灵根达到100。"
+ },
+ "achievementDesc180027": {
+  "en": "Increase Water Root to 100.",
+  "pt": "Eleve a Raiz de Água a 100.",
+  "ch": "水灵根达到100。"
+ },
+ "achievementDesc180028": {
+  "en": "Increase Lightning Root to 100.",
+  "pt": "Eleve a Raiz de Relâmpago a 100.",
+  "ch": "雷灵根达到100。"
+ },
+ "achievementDesc180029": {
+  "en": "Increase Wind Root to 100.",
+  "pt": "Eleve a Raiz de Vento a 100.",
+  "ch": "风灵根达到100。"
+ },
+ "achievementDesc180030": {
+  "en": "Increase Earth Root to 100.",
+  "pt": "Eleve a Raiz de Terra a 100.",
+  "ch": "土灵根达到100。"
+ },
+ "achievementDesc180031": {
+  "en": "Increase Wood Root to 100.",
+  "pt": "Eleve a Raiz de Madeira a 100.",
+  "ch": "木灵根达到100。"
+ },
+ "achievementDesc180032": {
+  "en": "Increase Fire Root to 130.",
+  "pt": "Eleve a Raiz de Fogo a 130.",
+  "ch": "火灵根达到130。"
+ },
+ "achievementDesc180033": {
+  "en": "Increase Water Root to 130.",
+  "pt": "Eleve a Raiz de Água a 130.",
+  "ch": "水灵根达到130。"
+ },
+ "achievementDesc180034": {
+  "en": "Increase Lightning Root to 130.",
+  "pt": "Eleve a Raiz de Relâmpago a 130.",
+  "ch": "雷灵根达到130。"
+ },
+ "achievementDesc180035": {
+  "en": "Increase Wind Root to 130.",
+  "pt": "Eleve a Raiz de Vento a 130.",
+  "ch": "风灵根达到130。"
+ },
+ "achievementDesc180036": {
+  "en": "Increase Earth Root to 130.",
+  "pt": "Eleve a Raiz de Terra a 130.",
+  "ch": "土灵根达到130。"
+ },
+ "achievementDesc180037": {
+  "en": "Increase Wood Root to 130.",
+  "pt": "Eleve a Raiz de Madeira a 130.",
+  "ch": "木灵根达到130。"
+ },
+ "achievementDesc180038": {
+  "en": "Increase all Martial Arts stats to 50.",
+  "pt": "Eleve todas as Artes Marciais a 50.",
+  "ch": "所有功法资质达到50。"
+ },
+ "achievementDesc180039": {
+  "en": "Increase all Spiritual Roots to 50.",
+  "pt": "Eleve todas as Raízes Espirituais a 50.",
+  "ch": "所有灵根达到50。"
+ },
+ "achievementDesc190001": {
+  "en": "Own 1000 Spirit Stones.",
+  "pt": "Possua 1000 Pedras Espirituais.",
+  "ch": "拥有1000灵石。"
+ },
+ "achievementDesc190002": {
+  "en": "Own 2000 Spirit Stones.",
+  "pt": "Possua 2000 Pedras Espirituais.",
+  "ch": "拥有2000灵石。"
+ },
+ "achievementDesc190003": {
+  "en": "Own 5000 Spirit Stones.",
+  "pt": "Possua 5000 Pedras Espirituais.",
+  "ch": "拥有5000灵石。"
+ },
+ "achievementDesc190004": {
+  "en": "Own 10000 Spirit Stones.",
+  "pt": "Possua 10000 Pedras Espirituais.",
+  "ch": "拥有10000灵石。"
+ },
+ "achievementDesc190005": {
+  "en": "Own 20000 Spirit Stones.",
+  "pt": "Possua 20000 Pedras Espirituais.",
+  "ch": "拥有20000灵石。"
+ },
+ "achievementDesc190006": {
+  "en": "Own 50000 Spirit Stones.",
+  "pt": "Possua 50000 Pedras Espirituais.",
+  "ch": "拥有50000灵石。"
+ },
+ "achievementDesc190007": {
+  "en": "Own 100000 Spirit Stones.",
+  "pt": "Possua 100000 Pedras Espirituais.",
+  "ch": "拥有100000灵石。"
+ },
+ "achievementDesc190008": {
+  "en": "Own 200000 Spirit Stones.",
+  "pt": "Possua 200000 Pedras Espirituais.",
+  "ch": "拥有200000灵石。"
+ },
+ "achievementDesc190009": {
+  "en": "Own 500000 Spirit Stones.",
+  "pt": "Possua 500000 Pedras Espirituais.",
+  "ch": "拥有500000灵石。"
+ },
+ "achievementDesc190010": {
+  "en": "Own 1000000 Spirit Stones.",
+  "pt": "Possua 1000000 Pedras Espirituais.",
+  "ch": "拥有1000000灵石。"
+ },
+ "achievementDesc190011": {
+  "en": "Own 100 Contribution.",
+  "pt": "Possua 100 Contribuição.",
+  "ch": "拥有100贡献。"
+ },
+ "achievementDesc190012": {
+  "en": "Own 200 Contribution.",
+  "pt": "Possua 200 Contribuição.",
+  "ch": "拥有200贡献。"
+ },
+ "achievementDesc190013": {
+  "en": "Own 500 Contribution.",
+  "pt": "Possua 500 Contribuição.",
+  "ch": "拥有500贡献。"
+ },
+ "achievementDesc190014": {
+  "en": "Own 1000 Contribution.",
+  "pt": "Possuir 1000 Contribuição.",
+  "ch": "拥有1000贡献。"
+ },
+ "achievementDesc190015": {
+  "en": "Own 2000 Contribution.",
+  "pt": "Possuir 2000 Contribuição.",
+  "ch": "拥有2000贡献。"
+ },
+ "achievementDesc190016": {
+  "en": "Own 5000 Contribution.",
+  "pt": "Possuir 5000 Contribuição.",
+  "ch": "拥有5000贡献。"
+ },
+ "achievementDesc190017": {
+  "en": "Own 10000 Contribution.",
+  "pt": "Possuir 10000 Contribuição.",
+  "ch": "拥有10000贡献。"
+ },
+ "achievementDesc190018": {
+  "en": "Own 20000 Contribution.",
+  "pt": "Possuir 20000 Contribuição.",
+  "ch": "拥有20000贡献。"
+ },
+ "achievementDesc190019": {
+  "en": "Own 50000 Contribution.",
+  "pt": "Possuir 50000 Contribuição.",
+  "ch": "拥有50000贡献。"
+ },
+ "achievementDesc190020": {
+  "en": "Own 100000 Contribution.",
+  "pt": "Possuir 100000 Contribuição.",
+  "ch": "拥有100000贡献。"
+ },
+ "achievementDesc200001": {
+  "en": "Reach Foundation in Chaos mode.",
+  "pt": "Alcançar a Fundação no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至筑基境。"
+ },
+ "achievementDesc200002": {
+  "en": "Reach Qi Condensation in Chaos mode.",
+  "pt": "Alcançar a Condensação de Qi no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至结晶境。"
+ },
+ "achievementDesc200003": {
+  "en": "Reach Golden Core in Chaos mode.",
+  "pt": "Alcançar o Núcleo Dourado no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至金丹境。"
+ },
+ "achievementDesc200004": {
+  "en": "Reach Origin Spirit in Chaos mode.",
+  "pt": "Alcançar o Espírito de Origem no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至具灵境。"
+ },
+ "achievementDesc200005": {
+  "en": "Reach Nascent Soul in Chaos mode.",
+  "pt": "Alcançar a Alma Nascente no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至元婴境。"
+ },
+ "achievementDesc200006": {
+  "en": "Reach Soul Formation in Chaos mode.",
+  "pt": "Alcançar a Formação da Alma no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至化神境。"
+ },
+ "achievementDesc200007": {
+  "en": "Reach Enlightenment in Chaos mode.",
+  "pt": "Alcançar a Iluminação no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至悟道境。"
+ },
+ "achievementDesc200008": {
+  "en": "Reach Reborn in Chaos mode.",
+  "pt": "Alcançar o Renascimento no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至羽化境。"
+ },
+ "achievementDesc200009": {
+  "en": "Reach Transcendent in Chaos mode.",
+  "pt": "Alcançar a Transcendência no modo Caos.",
+  "ch": "在洪荒模式中，成功突破至登仙境。"
+ },
+ "achievementDesc210001": {
+  "en": "Defeat Hellish Dangkang in Chaos mode.",
+  "pt": "Derrotar Dangkang Infernal no modo Caos.",
+  "ch": "在洪荒模式中，击败炼狱当康。"
+ },
+ "achievementDesc210002": {
+  "en": "Defeat Cloud Nine Hatuibwari in Chaos mode.",
+  "pt": "Derrotar Hatuibwari dos Nove Céus no modo Caos.",
+  "ch": "在洪荒模式中，击败九霄雷神。"
+ },
+ "achievementDesc210003": {
+  "en": "Defeat Cerulean Coatl in Chaos mode.",
+  "pt": "Derrotar Coatl Cerúleo no modo Caos.",
+  "ch": "在洪荒模式中，击败苍魂鸣蛇。"
+ },
+ "achievementDesc210004": {
+  "en": "Defeat Dreambreaker Mountain Specter in Chaos mode.",
+  "pt": "Derrotar o Espectro da Montanha Quebra-Sonhos no modo Caos.",
+  "ch": "在洪荒模式中，击败碎梦山挥。"
+ },
+ "achievementDesc210005": {
+  "en": "Defeat Lonely Cloud Leonid in Chaos mode.",
+  "pt": "Derrote Lonely Cloud Leonid no modo Caos.",
+  "ch": "在洪荒模式中，击败孤云长乘。"
+ },
+ "achievementDesc210006": {
+  "en": "Defeat Bloodspell Carpia in Chaos mode.",
+  "pt": "Derrote Bloodspell Carpia no modo Caos.",
+  "ch": "在洪荒模式中，击败血魅鲮鱼。"
+ },
+ "achievementDesc210007": {
+  "en": "Defeat Skyscraper Abomination in Chaos mode.",
+  "pt": "Derrote Skyscraper Abomination no modo Caos.",
+  "ch": "在洪荒模式中，击败破云孟极。"
+ },
+ "achievementDesc210008": {
+  "en": "Defeat Netherimage Taowu in Chaos mode.",
+  "pt": "Derrote Netherimage Taowu no modo Caos.",
+  "ch": "在洪荒模式中，击败幻幽梼杌。"
+ },
+ "achievementDesc210009": {
+  "en": "Defeat Skydevourer Taotie in Chaos mode.",
+  "pt": "Derrote Skydevourer Taotie no modo Caos.",
+  "ch": "在洪荒模式中，击败吞天饕餮。"
+ },
+ "achievementDesc300001": {
+  "en": "Complete the game and be defeated 50 times.",
+  "pt": "Complete o jogo e seja derrotado 50 vezes.",
+  "ch": "通关且战斗失败50次"
+ },
+ "achievementDesc300002": {
+  "en": "Complete the game and never beg for mercy.",
+  "pt": "Complete o jogo e nunca implore por misericórdia.",
+  "ch": "直至通关未求饶1次"
+ },
+ "achievementDesc300003": {
+  "en": "Complete the game and reach Transcendent in 50 years.",
+  "pt": "Complete o jogo e alcance a Transcendência em 50 anos.",
+  "ch": "通关且50年内达到登仙境"
+ },
+ "achievementDesc300004": {
+  "en": "Complete the game and have 10 or more Masters or Adoptive Parents.",
+  "pt": "Complete o jogo e tenha 10 ou mais Mestres ou Pais Adotivos.",
+  "ch": "通关且有过10位以上的师父或义父母"
+ },
+ "achievementDesc300005": {
+  "en": "Complete the game and be attacked by cultivators 100 times.",
+  "pt": "Complete o jogo e seja atacado por cultivadores 100 vezes.",
+  "ch": "通关且被其他修仙者攻击100次"
+ },
+ "achievementDesc300006": {
+  "en": "Complete the game and unlock all Imps.",
+  "pt": "Complete o jogo e desbloqueie todos os Diabretes.",
+  "ch": "通关且解锁了所有炼妖壶的壶妖"
+ },
+ "achievementDesc300007": {
+  "en": "Complete the game and learn all Elixir Recipes.",
+  "pt": "Complete o jogo e aprenda todas as Receitas de Elixir.",
+  "ch": "通关且学习了所有丹方"
+ },
+ "achievementDesc300008": {
+  "en": "Complete the game and rescue 20 cultivators in Last Breath.",
+  "pt": "Complete o jogo e salve 20 cultivadores em Último Suspiro.",
+  "ch": "通关且救助了20位一丝元魂的修仙者"
+ },
+ "achievementDesc300009": {
+  "en": "Complete the game and kill 100 cultivators.",
+  "pt": "Complete o jogo e mate 100 cultivadores.",
+  "ch": "通关且消灭过100个修仙者"
+ },
+ "achievementDesc300011": {
+  "en": "Complete the game and conquer all Sects.",
+  "pt": "Complete o jogo e conquiste todas as Seitas.",
+  "ch": "通关时统一了所有宗门"
+ },
+ "achievementDesc300012": {
+  "en": "Complete the game and never request or steal items from cultivators.",
+  "pt": "Complete o jogo e nunca peça ou roube itens de cultivadores.",
+  "ch": "通关且从未索取或偷窃过其他修仙者的道具"
+ },
+ "achievementDesc300013": {
+  "en": "Complete the game and teach 20 Taoist Minds.",
+  "pt": "Complete o jogo e ensine 20 Corações do Dao.",
+  "ch": "通关且传授了20次道心"
+ },
+ "achievementDesc300014": {
+  "en": "Complete the game and never kill any cultivator.",
+  "pt": "Complete o jogo e nunca mate nenhum cultivador.",
+  "ch": "通关且从未消灭过其他修仙者"
+ },
+ "achievementDesc300015": {
+  "en": "Complete the game and never perform Dual Cultivation.",
+  "pt": "Complete o jogo e nunca realize Cultivo Duplo.",
+  "ch": "通关且从未进行过双修"
+ },
+ "achievementDesc300016": {
+  "en": "Complete the game and perform Dual Cultivation 250 times.",
+  "pt": "Complete o jogo e realize Cultivo Duplo 250 vezes.",
+  "ch": "通关且双修过250次"
+ },
+ "achievementDesc300017": {
+  "en": "Complete the game and raid 50 tombs.",
+  "pt": "Complete o jogo e saqueie 50 túmulos.",
+  "ch": "通关且盗墓过50次"
+ }
+}

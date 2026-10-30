@@ -1,0 +1,590 @@
+{
+ "SpecificSkillAttackDesc25112": {
+  "en": "Unleash Lion's Roar Fist at a cone-shaped area (radius: &25112_range&) &25112_csdd& times and detonate all your $s_hudun$ points. For every &25112_ybds& $s_hudun$ detonated, 1 Fist Shadow will be generated (up to &25112_ybcs|+25112_csdd|f0&). Each Fist Shadow deals &25112_dmg& $s_quan$ damage. The Fish Shadows will explode upon disappearing, dealing 70% of this skill's damage.",
+  "pt": "Desencadeie o Punho do Rugido do Leão em uma área cônicA (raio: &25112_range&) &25112_csdd& vezes e detona todos os seus pontos de $s_hudun$. Para cada &25112_ybds& $s_hudun$ detonado, 1 Sombra de Punho será gerada (máx. &25112_ybcs|+25112_csdd|f0&). Cada Sombra de Punho causa &25112_dmg& $s_quan$ de dano. As Sombras de Peixe explodem ao desaparecer, causando 70% do dano dessa habilidade.",
+  "ch": "向前方距离&25112_range&的扇形区域打出&25112_csdd&道狮吼拳，并引爆自身的$s_hudun$，每引爆&25112_ybds&点$s_hudun$可增加一个拳影，每个拳影对敌人造成威力&25112_dmg&的$s_quan$伤害，每次最多可打出&25112_ybcs|+25112_csdd|f0&个拳影，拳影在消失时会引发一次气爆，对范围内的敌人造成此技能70%的伤害。"
+ },
+ "TalentTip_AddSoul": {
+  "en": "Once activated, the Artifact Spirit will gain {0} Spirit Power.",
+  "pt": "Ao ativar, o Espírito do Artefato ganhará {0} de Poder Espiritual.",
+  "ch": "激活后器灵将增加{0}魂力"
+ },
+ "TaoistHeartDescribe1": {
+  "en": "The purest of Hearts passed down through the ages, capable of attaining mighty powers when Breaking Through to new Realms!",
+  "pt": "O mais puro dos Corações transmitido ao longo das eras, capaz de alcançar poderes poderosos ao Avançar para novos Reinos!",
+  "ch": "上古传承最淳朴的初心，在突破境界时会获得各种强大的力量！"
+ },
+ "TaoistHeartDescribe10001": {
+  "en": "The Tao of Holy follows the law of nature to protect the lives and the law of stars to unravel the mystery of nature.\n<r>Ordinary people cannot understand the Tao of Holy. When someone with Taoist Mind - Holy teaches Taoist Seed to another cultivator, the student can only grasp a normal Taoist Seed according to their own stats.</r>",
+  "pt": "O Dao Sagrado segue a lei da natureza para proteger a vida e a lei das estrelas para desvendar o mistério da natureza.\n<r>Pessoas comuns não podem compreender o Dao Sagrado. Quando alguém com Coração do Dao - Sagrado ensina uma Semente Daoísta a outro Cultivador, o aluno só pode dominar uma Semente Daoísta normal de acordo com seus próprios Atributos.</r>",
+  "ch": "天机之道，以顺承天道法则、维护八荒生息为己任，循演星象、参悟天机，乃道心阁秘传。\n<r>常人无法领悟天机之道，持此道心向其他修仙者传授道种时，修仙者会根据自身的资质领悟一个普通道种。</r>"
+ },
+ "TaoistHeartDescribe10002": {
+  "en": "The Tao of Unique assimilates the doctrines of various schools and merges the essence of diverse sects to generalize a universal Tao.\n<r>Ordinary people cannot understand the Tao of Unique. When someone with Taoist Mind - Unique teaches Taoist Seed to another cultivator, the student can only grasp a normal Taoist Seed according to their own stats.</r>",
+  "pt": "O Dao Único assimila as doutrinas de várias escolas e funde a Essência de diversas Seitas para generalizar um Dao universal.\n<r>Pessoas comuns não podem compreender o Dao Único. Quando alguém com Coração do Dao - Único ensina uma Semente Daoísta a outro Cultivador, o aluno só pode dominar uma Semente Daoísta normal de acordo com seus próprios Atributos.</r>",
+  "ch": "归一之道，以融合天下至理、荟萃百家道心为目标，海纳百川、万法归宗，乃蚀心殿秘传。\n<r>常人无法领悟归一之道，持此道心向其他修仙者传授道种时，修仙者会根据自身的资质领悟一个普通道种。</r>"
+ },
+ "TaoistHeartDescribe1001": {
+  "en": "Nameless the beginning of Heaven and Earth, named the source of all things. Not one in many of a myriad pursuits, unpredictable mystery, encompassing all.",
+  "pt": "Sem nome, o início do Céu e da Terra; nomeado, a fonte de todas as coisas. Aqueles que possuem esse Coração do Dao são um em dez mil, com buscas diversas, mistério imprevisível e abrangendo tudo.",
+  "ch": "无名，天地之始，有名，万物之母。持该道心者万中无一，追求各异，神秘莫测，包容万象。"
+ },
+ "TaoistHeartDescribe10101": {
+  "en": "The Tao of Holy follows the law of nature to protect the lives and the law of stars to unravel the mystery of nature.\nMerging it with the nameless Taoist Mind and pursuing it relentlessly will fully realize its devastating power.\n<r>Ordinary people cannot understand the Tao of Holy. When someone with Taoist Mind - Holy teaches Taoist Seed to another cultivator, the student can only grasp a normal Taoist Seed according to their own stats.</r>",
+  "pt": "O Dao Sagrado segue a lei da natureza para proteger a vida e a lei das estrelas para desvendar o mistério da natureza.\nFundindo-o com o Coração do Dao sem nome e perseguindo-o implacavelmente, seu poder devastador será totalmente realizado.\n<r>Pessoas comuns não podem compreender o Dao Sagrado. Quando alguém com Coração do Dao - Sagrado ensina uma Semente Daoísta a outro Cultivador, o aluno só pode dominar uma Semente Daoísta normal de acordo com seus próprios Atributos.</r>",
+  "ch": "天机之道，以顺承天道法则、维护八荒生息为己任，循演星象、参悟天机，乃道心阁秘传。\n以无名道心将其融合，心有所向，威能莫测。\n<r>常人无法领悟天机之道，持此道心向其他修仙者传授道种时，修仙者会根据自身的资质领悟一个普通道种。</r>"
+ },
+ "TaoistHeartDescribe10102": {
+  "en": "The Tao of Unique assimilates the doctrines of various schools and merges the essence of diverse sects to generalize a universal Tao.\nMerging it with the nameless Taoist Mind and pursuing it relentlessly will fully realize its devastating power.\n<r>Ordinary people cannot understand the Tao of Unique. When someone with Taoist Mind - Unique teaches Taoist Seed to another cultivator, the student can only grasp a normal Taoist Seed according to their own stats.</r>",
+  "pt": "O Dao Único assimila as doutrinas de várias escolas e funde a Essência de diversas Seitas para generalizar um Dao universal.\nFundindo-o com o Coração do Dao sem nome e perseguindo-o implacavelmente, seu poder devastador será totalmente realizado.\n<r>Pessoas comuns não podem compreender o Dao Único. Quando alguém com Coração do Dao - Único ensina uma Semente Daoísta a outro Cultivador, o aluno só pode dominar uma Semente Daoísta normal de acordo com seus próprios Atributos.</r>",
+  "ch": "归一之道，以融合天下至理、荟萃百家道心为目标，海纳百川、万法归宗，乃蚀心殿秘传。\n以无名道心将其融合，心有所向，威能莫测。\n<r>常人无法领悟归一之道，持此道心向其他修仙者传授道种时，修仙者会根据自身的资质领悟一个普通道种。</r>"
+ },
+ "TaoistHeartDescribe2": {
+  "en": "A heart that longs for the Sword, strengthening in the face of adversity, capable of acquiring stronger insights into the Way of the Sword during Breakthroughs!",
+  "pt": "Um coração que anseia pela Espada, fortalecendo-se diante da adversidade, capaz de adquirir Percepções mais fortes no Caminho da Espada durante Avanços!",
+  "ch": "一心求剑，遇强则强，可在突破时获得更强的剑道领悟！"
+ },
+ "TaoistHeartDescribe2001": {
+  "en": "The Way of Restlessness cultivates one's self-reliance. Advance with vigor, advocate diligent cultivation, and seek XII.",
+  "pt": "O Caminho da Constância cultiva a autossuficiência. Avance com vigor, defenda o Cultivo diligente e busque o XII.",
+  "ch": "不息之道，在于修身自立、昂扬奋进，崇尚勤修不辍、求索大道。"
+ },
+ "TaoistHeartDescribe2002": {
+  "en": "The Way of Will bows to the mind as the commander, controlling all bones. Advocate the unity of body and mind, and wield laws as desired.",
+  "pt": "O Caminho do Controle reverencia a mente como comandante, controlando todos os ossos. Defende a unidade de corpo e mente, e o uso das leis conforme desejado.",
+  "ch": "宰御之道，在于以念为帅、统御百骸，崇尚体念合一、运法随心。"
+ },
+ "TaoistHeartDescribe2003": {
+  "en": "The Way of Nature encompasses all living being, to incorporate all. Advocate the laws of a hundred schools, and adopt the strengths of all.",
+  "pt": "O Caminho da Natureza abrange todos os seres vivos, incorporando tudo. Defende as leis de cem escolas e adota as forças de todas.",
+  "ch": "万象之道，在于包罗众生、兼收并蓄，崇尚取法百家、博采众长。"
+ },
+ "TaoistHeartDescribe2004": {
+  "en": "The Way of Obeying Heaven is to follow heavenly principles, to sense the heavens. Advocate following natural order.",
+  "pt": "O Caminho da Obediência Celestial segue os princípios celestiais, sentindo os Céus. Defende seguir a ordem natural.",
+  "ch": "循天之道，在于遵循天理、感天应时，崇尚顺其自然、因势利导。"
+ },
+ "TaoistHeartDescribe2005": {
+  "en": "The Way of Goodness lies in respecting virtue, treating people with generosity. Advocate the accumulation of goodness into virtue, and sensing the heavens with goodness.",
+  "pt": "O Caminho da Bondade reside em respeitar a virtude, tratando as pessoas com generosidade. Defende a acumulação de bondade em virtude e a percepção dos Céus através da bondade.",
+  "ch": "上善之道，在于尊尚德行、宽以待人，崇尚积善成德、以善感天。"
+ },
+ "TaoistHeartDescribe2006": {
+  "en": "The Way of Unobstructing is to face obstacles in the way and proceed steadily. Advocate a steady root of the Way, and put an end to reckless advance.",
+  "pt": "O Caminho da Superação enfrenta obstáculos no caminho e avança com firmeza. Defende uma base firme no Caminho e põe fim ao avanço imprudente.",
+  "ch": "化碍之道，在于直面道阻、沉淀修行，崇尚稳扎道根、杜绝冒进。"
+ },
+ "TaoistHeartDescribe2007": {
+  "en": "The Way of Brightness is to shine the light of one's self and of others. Advocate to express oneself and influence others.",
+  "pt": "O Caminho da Luz irradia a luz de si mesmo e dos outros. Defende expressar-se e influenciar os outros.",
+  "ch": "继明之道，在于一己之光、照拂众人，崇尚表达自我、影响他人。"
+ },
+ "TaoistHeartDescribe2008": {
+  "en": "The Way of Kindling lies in seeking old and new, but not forgetting the first feeling. Advocate perseverance in the Heavenly Path, and no regrets unto death.",
+  "pt": "O Caminho da Persistência reside em buscar o velho e o novo, mas sem esquecer o primeiro sentimento. Defende a perseverança no Caminho Celestial, sem arrependimentos até a morte.",
+  "ch": "枯燃之道，在于上下求索、不忘初心，崇尚执著天道、至死不悔。"
+ },
+ "TaoistHeartDescribe2009": {
+  "en": "The Way of Mindfulness is to be aware of external objects, to look within. Advocate spiritual introspection, and perceive heavenly principles.",
+  "pt": "O Caminho da Consciência reside em estar ciente dos objetos externos, olhando para dentro. Defende a introspecção Espiritual e a percepção dos princípios celestiais.",
+  "ch": "修省之道，在于体察外物、反观内心，崇尚精神内省、感悟天理。"
+ },
+ "TaoistHeartDescribe2010": {
+  "en": "The Way of Blamelessness lies in righteousness, and to not be involved in dispute. Be careful with words and actions, and avoid fault.",
+  "pt": "O Caminho da Inocência reside na retidão, e em não se envolver em disputas. Seja cuidadoso com palavras e ações, e evite falhas.",
+  "ch": "无咎之道，在于居中行正、不涉争端，强调谨言慎行、避免过失。"
+ },
+ "TaoistHeartDescribe2011": {
+  "en": "The Way of Seclusion is to be introverted in form and spirit, free from the mundane and secluded. Advocate tranquility, inaction, and to be free from contention with the world.",
+  "pt": "O Caminho do Recolhimento reside em ser introvertido em forma e Espírito, livre do mundano e recluso. Defende a tranquilidade, a inação e a liberdade de contender com o mundo.",
+  "ch": "归藏之道，在于形神内敛、脱俗隐世，崇尚清静无为、与世无争。"
+ },
+ "TaoistHeartDescribe2012": {
+  "en": "The Way of Temperance is to guard one's thoughts inside and keep the mind on the Way. Advocate peace and self-discipline, and to stop delusions.",
+  "pt": "O Caminho da Moderação reside em guardar os pensamentos internamente e manter a mente no Dao. Defende a paz e a autodisciplina, e o fim das ilusões.",
+  "ch": "止逾之道，在于意念内守、正心向道，崇尚安分守己、杜绝妄念。"
+ },
+ "TaoistHeartDescribe2013": {
+  "en": "The way of inconclusiveness lies in improvisation and adaptation, and seeing the opportunity to act. It advocates planning strategies and unpredictable change.",
+  "pt": "O caminho da inconclusividade reside na improvisação e adaptação, e em ver a oportunidade de agir. Defende o planejamento de estratégias e mudanças imprevisíveis.",
+  "ch": "无定之道，在于随机应变、见机行事，崇尚运筹帷幄、变幻莫测。"
+ },
+ "TaoistHeartDescribe2014": {
+  "en": "The way of permanence lies in perseverance and determination in the face of trials and tribulations. It advocates firm will and indomitable spirit.",
+  "pt": "O caminho da permanência reside na perseverança e determinação diante de provações e tribulações. Defende a vontade firme e o espírito indomável.",
+  "ch": "长恒之道，在于千磨万击、矢志不渝，崇尚坚定意志、百折不挠。"
+ },
+ "TaoistHeartDescribe2015": {
+  "en": "The way of fortune lies in the harmony of people and support of allies. It advocates the joy of meeting people and making good friends.",
+  "pt": "O caminho da fortuna reside na harmonia entre as pessoas e no apoio de aliados. Defende a alegria de conhecer pessoas e fazer bons amigos.",
+  "ch": "福生之道，在于人情和合、四方襄助，崇尚见人则喜，广交良友。"
+ },
+ "TaoistHeartDescribe2016": {
+  "en": "The way of dawning lies in being active in the world, to explore and seek knowledge. It advocates travel and accumulation of knowledge of the world.",
+  "pt": "O caminho do amanhecer reside em ser ativo no mundo, explorar e buscar conhecimento. Defende viajar e acumular conhecimento do mundo.",
+  "ch": "百晓之道，在于积极入世、探索求知，崇尚游历天下、博闻强识。"
+ },
+ "TaoistHeartDescribe3": {
+  "en": "Gain insight into the mysteries of long life, and acquire the power of Longevity during Breakthroughs!",
+  "pt": "Obtenha percepção dos mistérios da longa vida e adquira o poder da Longevidade durante Avanços!",
+  "ch": "领悟长生之奥义，可在突破时获得长生的力量！"
+ },
+ "TaoistHeartDescribe3001": {
+  "en": "Unknown",
+  "pt": "Desconhecido"
+ },
+ "TaoistHeartDescribe4": {
+  "en": "Peer into the essence of the Way of the Spirit, and acquire powerful techniques during Breakthroughs!",
+  "pt": "Visite a essência do Caminho do Espírito e adquira técnicas poderosas durante Avanços!",
+  "ch": "看透灵法之本源，可在突破时获得强大的法术！"
+ },
+ "TaoistHeartName1": {
+  "en": "Essence Heart",
+  "pt": "Coração da Essência",
+  "ch": "本源之心"
+ },
+ "TaoistHeartName10001": {
+  "en": "Holy",
+  "pt": "Sagrado",
+  "ch": "天机"
+ },
+ "TaoistHeartName10002": {
+  "en": "Unique",
+  "pt": "Único",
+  "ch": "归一"
+ },
+ "TaoistHeartName1001": {
+  "en": "Nameless",
+  "pt": "Sem Nome",
+  "ch": "无名"
+ },
+ "TaoistHeartName10101": {
+  "en": "Nameless - Holy",
+  "pt": "Sem Nome - Sagrado",
+  "ch": "无名·天机"
+ },
+ "TaoistHeartName10102": {
+  "en": "Nameless - Unique",
+  "pt": "Sem Nome - Único",
+  "ch": "无名·归一"
+ },
+ "TaoistHeartName2": {
+  "en": "Sword Heart",
+  "pt": "Coração da Espada",
+  "ch": "剑尘本心"
+ },
+ "TaoistHeartName2001": {
+  "en": "Restlessness",
+  "pt": "Inquietação",
+  "ch": "不息"
+ },
+ "TaoistHeartName2002": {
+  "en": "Will",
+  "pt": "Vontade",
+  "ch": "宰御"
+ },
+ "TaoistHeartName2003": {
+  "en": "Nature",
+  "pt": "Natureza",
+  "ch": "万象"
+ },
+ "TaoistHeartName2004": {
+  "en": "Obeying Heaven",
+  "pt": "Obedecendo ao Céu",
+  "ch": "循天"
+ },
+ "TaoistHeartName2005": {
+  "en": "Goodness",
+  "pt": "Bondade",
+  "ch": "上善"
+ },
+ "TaoistHeartName2006": {
+  "en": "Unobstructing",
+  "pt": "Ininterrupto",
+  "ch": "化碍"
+ },
+ "TaoistHeartName2007": {
+  "en": "Brightness",
+  "pt": "Brilho",
+  "ch": "继明"
+ },
+ "TaoistHeartName2008": {
+  "en": "Kindling",
+  "pt": "Acendimento",
+  "ch": "枯燃"
+ },
+ "TaoistHeartName2009": {
+  "en": "Mindfulness",
+  "pt": "Atenção Plena",
+  "ch": "修省"
+ },
+ "TaoistHeartName2010": {
+  "en": "Blamelessness",
+  "pt": "Sem Culpa",
+  "ch": "无咎"
+ },
+ "TaoistHeartName2011": {
+  "en": "Seclusion",
+  "pt": "Reclusão",
+  "ch": "归藏"
+ },
+ "TaoistHeartName2012": {
+  "en": "Temperance",
+  "pt": "Temperança",
+  "ch": "止逾"
+ },
+ "TaoistHeartName2013": {
+  "en": "Inconclusiveness",
+  "pt": "Indefinição",
+  "ch": "无定"
+ },
+ "TaoistHeartName2014": {
+  "en": "Permanence",
+  "pt": "Permanência",
+  "ch": "长恒"
+ },
+ "TaoistHeartName2015": {
+  "en": "Fortune",
+  "pt": "Fortuna",
+  "ch": "福生"
+ },
+ "TaoistHeartName2016": {
+  "en": "Dawning",
+  "pt": "Alvorada",
+  "ch": "百晓"
+ },
+ "TaoistHeartName3": {
+  "en": "Way of Longevity",
+  "pt": "Caminho da Longevidade",
+  "ch": "长生之道"
+ },
+ "TaoistHeartName3001": {
+  "en": "Unknown",
+  "pt": "Desconhecido"
+ },
+ "TaoistHeartName4": {
+  "en": "Spirit Heart",
+  "pt": "Coração do Espírito",
+  "ch": "灵法之心"
+ },
+ "TaoistSeedDescribe1": {
+  "en": "The purest of Hearts passed down through the ages, capable of transforming into all possible enlightened ways, and maturing into many different Taoist Mind!",
+  "pt": "O Coração mais puro passado através das eras, capaz de se transformar em todos os caminhos iluminados possíveis e amadurecer em muitos Corações do Dao diferentes!",
+  "ch": "上古传承最淳朴的初心，此道可演化三千大道，成长为各种道心！"
+ },
+ "TaoistSeedDescribe10001": {
+  "en": "The secret teaching of Taoist Mind Pavilion, the Tao of Holy follows the law of nature to protect the lives and the law of stars to unravel the mystery of nature.",
+  "pt": "O ensinamento secreto do Pavilhão do Coração do Dao, o Dao Sagrado segue a lei da natureza para proteger as vidas e a lei das estrelas para desvendar o mistério da natureza.",
+  "ch": "天机之道，以顺承天道法则、维护八荒生息为己任，循演星象、参悟天机，乃道心阁秘传。"
+ },
+ "TaoistSeedDescribe10002": {
+  "en": "The secret teaching of Mindsnap Temple, the Tao of Unique assimilates the doctrines of various schools and merges the essence of diverse sects to generalize a universal Tao.",
+  "pt": "O ensinamento secreto do Templo Quebra-Mente, o Dao da Unidade assimila as doutrinas de várias escolas e funde a essência de diversas seitas para generalizar um Dao universal.",
+  "ch": "归一之道，以融合天下至理、荟萃百家道心为目标，海纳百川、万法归宗，乃蚀心殿秘传。"
+ },
+ "TaoistSeedDescribe1001": {
+  "en": "Nameless the beginning of Heaven and Earth, named the source of all things. Not one in many of a myriad pursuits, unpredictable mystery, encompassing all.",
+  "pt": "Sem nome, o início do Céu e Terra; nomeado, a fonte de todas as coisas. Não um entre muitos de miríades de buscas, mistério imprevisível, abrangendo tudo.",
+  "ch": "无名，天地之始，有名，万物之母。持该道心者万中无一，追求各异，神秘莫测，包容万象。"
+ },
+ "TaoistSeedDescribe2": {
+  "en": "A Way passed down through the ages that leads to peerless insights into the Way of the Sword!",
+  "pt": "Um Caminho passado através das eras que leva a percepções incomparáveis do Caminho da Espada!",
+  "ch": "上古传承之一，此道可领悟剑道最高境界！"
+ },
+ "TaoistSeedDescribe2001": {
+  "en": "The Way of Restlessness cultivates one's self-reliance. Advance with vigor, advocate diligent cultivation, and seek XII.",
+  "pt": "O Caminho da Inquietação cultiva a autossuficiência. Avance com vigor, defenda o cultivo diligente e busque XII.",
+  "ch": "不息之道，在于修身自立、昂扬奋进，崇尚勤修不辍、求索大道。"
+ },
+ "TaoistSeedDescribe2002": {
+  "en": "The Way of Will bows to the mind as the commander, controlling all bones. Advocate the unity of body and mind, and wield laws as desired.",
+  "pt": "O Caminho da Vontade reverencia a mente como o comandante, controlando todos os ossos. Defende a unidade entre corpo e mente, e empunhe as leis como desejar.",
+  "ch": "宰御之道，在于以念为帅、统御百骸，崇尚体念合一、运法随心。"
+ },
+ "TaoistSeedDescribe2003": {
+  "en": "The Way of Nature encompasses all living being, to incorporate all. Advocate the laws of a hundred schools, and adopt the strengths of all.",
+  "pt": "O Caminho da Natureza abrange todos os seres vivos, incorporando tudo. Defende as leis de cem escolas e adota as forças de todas.",
+  "ch": "万象之道，在于包罗众生、兼收并蓄，崇尚取法百家、博采众长。"
+ },
+ "TaoistSeedDescribe2004": {
+  "en": "The Way of Obeying Heaven is to follow heavenly principles, to sense the heavens. Advocate following natural order.",
+  "pt": "O Caminho da Obediência ao Céu segue os princípios celestiais, sentindo os céus. Defende seguir a ordem natural.",
+  "ch": "循天之道，在于遵循天理、感天应时，崇尚顺其自然、因势利导。"
+ },
+ "TaoistSeedDescribe2005": {
+  "en": "The Way of Goodness lies in respecting virtue, treating people with generosity. Advocate the accumulation of goodness into virtue, and sensing the heavens with goodness.",
+  "pt": "O Caminho da Bondade reside em respeitar a virtude, tratando as pessoas com generosidade. Defende a acumulação de bondade em virtude e sentir os céus com bondade.",
+  "ch": "上善之道，在于尊尚德行、宽以待人，崇尚积善成德、以善感天。"
+ },
+ "TaoistSeedDescribe2006": {
+  "en": "The Way of Unobstructing is to face obstacles in the way and proceed steadily. Advocate a steady root of the Way, and put an end to reckless advance.",
+  "pt": "O Caminho da Superação de Obstáculos reside em enfrentar obstáculos no caminho e avançar constantemente. Defende uma raiz firme do Caminho e põe fim ao avanço imprudente.",
+  "ch": "化碍之道，在于直面道阻、沉淀修行，崇尚稳扎道根、杜绝冒进。"
+ },
+ "TaoistSeedDescribe2007": {
+  "en": "The Way of Brightness is to shine the light of one's self and of others. Advocate to express oneself and influence others.",
+  "pt": "O Caminho do Brilho reside em brilhar a luz de si mesmo e dos outros. Defende expressar-se e influenciar os outros.",
+  "ch": "继明之道，在于一己之光、照拂众人，崇尚表达自我、影响他人。"
+ },
+ "TaoistSeedDescribe2008": {
+  "en": "The Way of Kindling lies in seeking old and new, but not forgetting the first feeling. Advocate perseverance in the Heavenly Path, and no regrets unto death.",
+  "pt": "O Caminho da Chama Persistente reside em buscar o velho e o novo, mas não esquecendo o primeiro sentimento. Defende a perseverança no Caminho Celestial e sem arrependimentos até a morte.",
+  "ch": "枯燃之道，在于上下求索、不忘初心，崇尚执著天道、至死不悔。"
+ },
+ "TaoistSeedDescribe2009": {
+  "en": "The Way of Mindfulness is to be aware of external objects, to look within. Advocate spiritual introspection, and perceive heavenly principles.",
+  "pt": "O Caminho da Atenção Plena reside em estar ciente dos objetos externos, olhar para dentro. Defende a introspecção espiritual e perceber os princípios celestiais.",
+  "ch": "修省之道，在于体察外物、反观内心，崇尚精神内省、感悟天理。"
+ },
+ "TaoistSeedDescribe2010": {
+  "en": "The Way of Blamelessness lies in righteousness, and to not be involved in dispute. Be careful with words and actions, and avoid fault.",
+  "pt": "O Caminho Sem Culpa reside na justiça e em não se envolver em disputas. Tenha cuidado com palavras e ações e evite falhas.",
+  "ch": "无咎之道，在于居中行正、不涉争端，强调谨言慎行、避免过失。"
+ },
+ "TaoistSeedDescribe2011": {
+  "en": "The Way of Seclusion is to be introverted in form and spirit, free from the mundane and secluded. Advocate tranquility, inaction, and to be free from contention with the world.",
+  "pt": "O Caminho do Recolhimento reside em ser introvertido em forma e espírito, livre do mundano e recluso. Defende a tranquilidade, a inação e estar livre de contendas com o mundo.",
+  "ch": "归藏之道，在于形神内敛、脱俗隐世，崇尚清静无为、与世无争。"
+ },
+ "TaoistSeedDescribe2012": {
+  "en": "The Way of Temperance is to guard one's thoughts inside and keep the mind on the Way. Advocate peace and self-discipline, and to stop delusions.",
+  "pt": "O Caminho da Moderação reside em guardar os pensamentos internamente e manter a mente no Caminho. Defende a paz e a autodisciplina, e parar com ilusões.",
+  "ch": "止逾之道，在于意念内守、正心向道，崇尚安分守己、杜绝妄念。"
+ },
+ "TaoistSeedDescribe2013": {
+  "en": "The way of inconclusiveness lies in improvisation and adaptation, and seeing the opportunity to act. It advocates planning strategies and unpredictable change.",
+  "pt": "O caminho da improvização reside na improvisação e adaptação, e ver a oportunidade de agir. Defende planejar estratégias e mudanças imprevisíveis.",
+  "ch": "无定之道，在于随机应变、见机行事，崇尚运筹帷幄、变幻莫测。"
+ },
+ "TaoistSeedDescribe2014": {
+  "en": "The way of permanence lies in perseverance and determination in the face of trials and tribulations. It advocates firm will and indomitable spirit.",
+  "pt": "O caminho da permanência reside na perseverança e determinação diante de provações e tribulações. Defende uma vontade firme e um espírito indomável.",
+  "ch": "长恒之道，在于千磨万击、矢志不渝，崇尚坚定意志、百折不挠。"
+ },
+ "TaoistSeedDescribe2015": {
+  "en": "The way of fortune lies in the harmony of people and support of allies. It advocates the joy of meeting people and making good friends.",
+  "pt": "O caminho da fortuna reside na harmonia entre as pessoas e no apoio de aliados. Defende a alegria de conhecer pessoas e fazer bons amigos.",
+  "ch": "福生之道，在于人情和合、四方襄助，崇尚见人则喜，广交良友。"
+ },
+ "TaoistSeedDescribe2016": {
+  "en": "The way of dawning lies in being active in the world, to explore and seek knowledge. It advocates travel and accumulation of knowledge of the world.",
+  "pt": "O caminho do amanhecer reside em ser ativo no mundo, explorar e buscar conhecimento. Defende viajar e acumular conhecimento do mundo.",
+  "ch": "百晓之道，在于积极入世、探索求知，崇尚游历天下、博闻强识。"
+ },
+ "TaoistSeedDescribe3": {
+  "en": "Embarking on the Way of Longevity opens one's mind to the mysteries of long life!",
+  "pt": "Embrenhar-se no Caminho da Longevidade abre a mente para os mistérios da vida longa!",
+  "ch": "追求长生，此道可领悟长生之奥义！"
+ },
+ "TaoistSeedDescribe4": {
+  "en": "Embarking on the Way of the Spirit leads to ever-more powerful Spirit Skills!",
+  "pt": "Embrenhar-se no Caminho do Espírito leva a Habilidades Espirituais cada vez mais poderosas!",
+  "ch": "追求强大的灵法，此道可获得更强的灵法！"
+ },
+ "TaoistSeedName1": {
+  "en": "Essence Seed",
+  "pt": "Semente da Essência",
+  "ch": "本源之种"
+ },
+ "TaoistSeedName10001": {
+  "en": "Taoist Seed (Holy)",
+  "pt": "Semente Daoísta (Sagrada)",
+  "ch": "道种（天机）"
+ },
+ "TaoistSeedName10002": {
+  "en": "Taoist Seed (Unique)",
+  "pt": "Semente Daoísta (Única)",
+  "ch": "道种（归一）"
+ },
+ "TaoistSeedName1001": {
+  "en": "Taoist Seed",
+  "pt": "Semente Daoísta",
+  "ch": "道种"
+ },
+ "ThanksCloseTip": {
+  "en": "Press ESC to close",
+  "pt": "Pressione ESC para fechar",
+  "ch": "按Esc退出"
+ },
+ "ThanksTipsTitle": {
+  "en": "CREDITS",
+  "pt": "CRÉDITOS",
+  "ch": "鸣谢"
+ },
+ "TownBookstore1": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore2": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore3": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore4": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore5": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore6": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore7": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore8": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBookstore9": {
+  "en": "0",
+  "pt": "0",
+  "ch": "0"
+ },
+ "TownBountyDesc108": {
+  "en": "A Mythical Beast has appeared in the town nearby. Kill the Mythical Beast to prevent it from hurting the townsfolk.",
+  "pt": "Uma Fera Mítica apareceu na vila próxima. Mate a Fera Mítica para evitar que ela machuque os moradores da vila.",
+  "ch": "近日在城镇附近出现了一只大妖兽，消灭此妖兽，避免其伤害到附近的百姓。"
+ },
+ "TownBountyDesc112": {
+  "en": "Help {ownerUnitName} retrieve their lost Interspatial Ring.",
+  "pt": "Ajude {ownerUnitName} a recuperar seu Anel Interespacial perdido.",
+  "ch": "帮助{ownerUnitName}寻回丢失的储物戒。"
+ },
+ "TownBountyDesc113": {
+  "en": "Help {releaseUnitName} locate the Monster Lair. Perform Geomancy near the lair to pinpoint its location.",
+  "pt": "Ajude {releaseUnitName} a localizar o Covil de Monstros. Use Geomancia perto do covil para identificar sua localização.",
+  "ch": "帮助{releaseUnitName}搜寻妖兽巢穴。在妖兽巢穴附近使用堪舆，便能找到妖兽巢穴的位置。"
+ },
+ "TownBountyDesc114": {
+  "en": "Help {releaseUnitName} locate the Monster Lair.",
+  "pt": "Ajude {releaseUnitName} a localizar o Covil de Monstros.",
+  "ch": "帮助{releaseUnitName}搜寻妖兽巢穴。"
+ },
+ "TownBountyDesc115": {
+  "en": "Help {releaseUnitName} rescue {salvationUnitName} from the Monster Lair.",
+  "pt": "Ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Monstros.",
+  "ch": "帮助{releaseUnitName}将{salvationUnitName}从妖兽巢穴中救出。"
+ },
+ "TownBountyDesc116": {
+  "en": "Kill {releaseUnitName}'s enemy: {killUnitName}.",
+  "pt": "Mate o inimigo de {releaseUnitName}: {killUnitName}.",
+  "ch": "击杀{releaseUnitName}的仇人{killUnitName}。"
+ },
+ "UIFairyChickenFight_targetsTextSearch": {
+  "en": "Fight",
+  "pt": "Luta",
+  "ch": "决 斗"
+ },
+ "UIFairyChickenFight_textConditionDesc": {
+  "en": "The two players choose 3 Immortal Chickens respectively, and put them into fight\nThe player who defeats all 3 opponent chickens will win\nUnder Fight mode,\nThe winner will pick 1 chicken from the 3 chickens sent by the opponent\nAs their reward",
+  "pt": "Os dois jogadores escolhem 3 Galinhas Imortais respectivamente e as colocam para lutar\nO jogador que derrotar todas as 3 galinhas do oponente vencerá\nNo modo Luta,\nO vencedor escolherá 1 galinha das 3 galinhas enviadas pelo oponente\nComo recompensa",
+  "ch": "玩家双方分别派遣3只仙鸡出战\n率先击败对手所有仙鸡的一方将获得胜利\n在决斗模式下，\n获胜的一方将从对手出场的3只仙鸡中抽选1只\n作为获胜的奖励"
+ },
+ "UIFairyChickenFight_textConditionTip": {
+  "en": "Rules",
+  "pt": "Regras",
+  "ch": "决斗规则"
+ },
+ "UIFairyChickenFight_textSearch": {
+  "en": "Search Opponent",
+  "pt": "Procurar Oponente",
+  "ch": "寻找对手"
+ },
+ "UIFairyLeagueAchievement_Header": {
+  "en": "Monster Resisting Altar",
+  "pt": "Altar de Resistência a Monstros",
+  "ch": "御妖台"
+ },
+ "UIFairyLeagueAchievement_MyAchievement": {
+  "en": "My Battle Contribution {0}",
+  "pt": "Minha Contribuição na Batalha {0}",
+  "ch": "我的战功{0}"
+ },
+ "UIFairyLeagueAchievement_MyRanking": {
+  "en": "My Ranking {0}",
+  "pt": "Meu Ranking {0}",
+  "ch": "我的排名{0}"
+ },
+ "UIFairyLeagueAchievement_NextBattleTip": {
+  "en": "The next Wave of Monsters will arrive in {0} months",
+  "pt": "A próxima Onda de Monstros chegará em {0} meses",
+  "ch": "下次兽潮将于{0}个月后来袭"
+ },
+ "UIFairyLeagueAchievement_PreviousAchievement": {
+  "en": "Total Battle Contribution in Last Wave of Monsters: {0}",
+  "pt": "Contribuição Total na Batalha na Última Onda de Monstros: {0}",
+  "ch": "上次兽潮累计战功：{0}"
+ },
+ "UIFairyLeagueAchievement_RankingHeader": {
+  "en": "Ranking in Last Wave of Monsters",
+  "pt": "Ranking na Última Onda de Monstros",
+  "ch": "上次兽潮排名"
+ },
+ "UIFairyLeagueAchievement_StartBattle": {
+  "en": "Repel Wave of Monsters",
+  "pt": "Repelir Onda de Monstros",
+  "ch": "抵御兽潮"
+ },
+ "UIGetReward_dengxianjingyantishi": {
+  "en": "<r>After Transcendent, you could only gain EXP by using {itemName2821005}</r>",
+  "pt": "<r>Após a Transcendência, você só poderá ganhar EXP usando {itemName2821005}</r>",
+  "ch": "<r>登仙境界后必须使用道具{itemName2821005}才能获得修为</r>"
+ },
+ "UIMartial_citiaotihuan1": {
+  "en": "The current mythic affix has been replaced, confirm?",
+  "pt": "O afixo mítico atual será substituído. Confirmar?",
+  "ch": "已有的红色词条将被替换 ，是否确定？"
+ },
+ "UIMartial_citiaotihuan2": {
+  "en": "The new mythic affix is not in use, confirm?",
+  "pt": "Há novos afixos míticos não utilizados. Confirmar?",
+  "ch": "有新的红色词条未被替换，是否确定？"
+ },
+ "UIMartial_citiaotihuan3": {
+  "en": "The current mythic affix has been replaced, and the new mythic affix is not in use, confirm?",
+  "pt": "O afixo mítico atual será substituído e há novos afixos míticos não utilizados. Confirmar?",
+  "ch": "已有的红色词条将被替换，并且有新的红色词条未被替换，是否确定？"
+ },
+ "UIPropInfo_jianmuchiyou": {
+  "en": "Tree Vault storage:",
+  "pt": "Armazenamento da Árvore-Cofre:",
+  "ch": "建木存放："
+ },
+ "UISchoolHononr_member": {
+  "en": "Participant",
+  "pt": "Participante",
+  "ch": "参赛人员"
+ },
+ "UISchoolHononr_schoolRank": {
+  "en": "Match ranking:",
+  "pt": "Classificação da competição:",
+  "ch": "大赛排名:"
+ },
+ "UISchoolHononr_schoolRank1": {
+  "en": "First Place",
+  "pt": "Primeiro Lugar",
+  "ch": "头筹"
+ },
+ "UISchoolHononr_schoolRank2": {
+  "en": "Second Place",
+  "pt": "Segundo Lugar",
+  "ch": "次席"
+ }
+}

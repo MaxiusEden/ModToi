@@ -1,0 +1,803 @@
+{
+ "ui_UIMartialRealize_CheckPoupTip": {
+  "en": "Every attempt to comprehend will cost material. Once Confirmed, the current affixes will be replaced.",
+  "pt": "Cada tentativa de compreender custará material. Uma vez Confirmado, os afixos atuais serão substituídos.",
+  "ch": "每次参悟都会消耗材料，点击确定后将会替换掉已有的词条"
+ },
+ "ui_achievementItem_other": {
+  "en": "And another {0} Achievements.",
+  "pt": "E outras {0} Conquistas.",
+  "ch": "以及其余{0}个成就"
+ },
+ "ui_animation_beforend_01": {
+  "en": "The conflict in Tian Yuan Mountain has come to an end.",
+  "pt": "O conflito na Montanha Tian Yuan chegou ao fim.",
+  "ch": "天元山之事已告一段落。"
+ },
+ "ui_animation_beforend_02": {
+  "en": "The disturbances have finally been settled...",
+  "pt": "Os distúrbios foram finalmente resolvidos...",
+  "ch": "八荒喧嚣，终于尘埃落定…"
+ },
+ "ui_animation_beforend_03": {
+  "en": "And your story pauses here.",
+  "pt": "E sua história faz uma pausa aqui.",
+  "ch": "你在八荒的故事已暂告一段落了。"
+ },
+ "ui_animation_beforend_04": {
+  "en": "However, the world still goes on. Its lives flourish and die; its time flows from the past to the future...",
+  "pt": "No entanto, o mundo ainda continua. Suas vidas florescem e morrem; seu tempo flui do passado para o futuro...",
+  "ch": "然而，八荒的一切仍在延续。生老病死，枯荣盛衰，流转如常。"
+ },
+ "ui_animation_beforend_05": {
+  "en": "... and forms an endless circle, just as the vast cosmos.",
+  "pt": "... e forma um círculo sem fim, assim como o vasto cosmos.",
+  "ch": "一如这无垠宇宙，往复循环，无休无止…"
+ },
+ "ui_battleDie_htyts": {
+  "en": "The Eye of Providence emits a strange energy that wraps around you.\nThe space around you twists and collapses, and golden light will turn back time to before you were heavily wounded.\nYou will lose all the items you obtained in this battle.",
+  "pt": "O Olho da Providência emite uma energia estranha que envolve você.\nO espaço ao seu redor se torce e colapsa, e uma luz dourada fará o tempo voltar para antes de você ser gravemente ferido.\nVocê perderá todos os itens que obteve nesta batalha.",
+  "ch": "昊天眼散发出一股奇异能量将你包裹\n四周空间扭曲坍塌 金色光芒将时间倒流至重伤之前\n你将失去在本场战斗中已获得的道具"
+ },
+ "ui_battleDie_tlzd": {
+  "en": "Leave Battle",
+  "pt": "Sair da Batalha",
+  "ch": "脱离战斗"
+ },
+ "ui_battleDie_zmsh": {
+  "en": "You are about to take fatal damage.",
+  "pt": "Você está prestes a sofrer dano fatal.",
+  "ch": "你即将受到致命伤害"
+ },
+ "ui_battleImm_fazeClickTips": {
+  "en": "Press and hold Left Shift\nTo cast Power of Law",
+  "pt": "Pressione e segure Shift Esquerdo\nPara conjurar o Poder da Lei",
+  "ch": "长按左Shift蓄力\n释放法则之力"
+ },
+ "ui_battleInfo_skill": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "技能"
+ },
+ "ui_battleInfo_skill1": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "技能"
+ },
+ "ui_battleInfo_wingmanAttack": {
+  "en": "Folding Nether Feathers...",
+  "pt": "Recolhendo Penas do Submundo...",
+  "ch": "收起冥羽中……"
+ },
+ "ui_battleInfo_wingmanWait": {
+  "en": "Summoning Nether Feathers...",
+  "pt": "Invocando Penas do Submundo...",
+  "ch": "召唤冥羽中……"
+ },
+ "ui_beibao": {
+  "en": "Inventory",
+  "pt": "Inventário",
+  "ch": "背包"
+ },
+ "ui_beifen_loadBackUp": {
+  "en": "Set this save file as the latest and load it?",
+  "pt": "Definir este arquivo como o mais recente e carregá-lo?",
+  "ch": "是否把该存档设为最新存档并加载？"
+ },
+ "ui_beifen_loadNew": {
+  "en": "Load the latest save file?",
+  "pt": "Carregar o arquivo de salvamento mais recente?",
+  "ch": "是否加载最新存档？"
+ },
+ "ui_bossZhangsanTips": {
+  "en": "Qi Triplication? You must defeat all his clones at nearly the same time to cut his Qi, or the fight will be tricky!",
+  "pt": "Triplicação de Qi? Você deve derrotar todos os clones quase ao mesmo tempo para cortar o Qi dele, ou a luta será complicada!",
+  "ch": "一气化三清？需要短时间内一齐灭掉三清才可断其气！不然难缠至极！"
+ },
+ "ui_cantFindNpc": {
+  "en": "Unable to locate this person's soul!",
+  "pt": "Incapaz de localizar a alma desta pessoa!",
+  "ch": "无法定位此人元魂！"
+ },
+ "ui_common_allRead": {
+  "en": "All read",
+  "pt": "Lido tudo",
+  "ch": "全部已读"
+ },
+ "ui_common_allReadEmail": {
+  "en": "Mails all read",
+  "pt": "E-mails lidos",
+  "ch": "邮件全部已读"
+ },
+ "ui_common_allReadTask": {
+  "en": "Missions all read",
+  "pt": "Missões lidas",
+  "ch": "任务全部已读"
+ },
+ "ui_damgeTestCustom": {
+  "en": "Customize",
+  "pt": "Personalizar",
+  "ch": "自定义"
+ },
+ "ui_damgeTestDefend": {
+  "en": "DEF",
+  "pt": "DEF",
+  "ch": "防御"
+ },
+ "ui_damgeTestFixCustom": {
+  "en": "Change Customize Stats",
+  "pt": "Alterar Atributos Personalizados",
+  "ch": "修改自定义"
+ },
+ "ui_damgeTestFixOK": {
+  "en": "Customized Dummy Changed",
+  "pt": "Boneco Personalizado Alterado",
+  "ch": "成功修改自定义木桩"
+ },
+ "ui_damgeTestGodEye": {
+  "en": "Eye of Providence",
+  "pt": "Olho da Providência",
+  "ch": "昊 天 眼"
+ },
+ "ui_damgeTestHp": {
+  "en": "Vitality",
+  "pt": "Vitalidade",
+  "ch": "体力"
+ },
+ "ui_damgeTestImmortal": {
+  "en": "Immortal Skill",
+  "pt": "Habilidade Imortal",
+  "ch": "仙    法"
+ },
+ "ui_damgeTestIngoreCondition": {
+  "en": "Remove unleash conditions",
+  "pt": "Remover condições de ativação",
+  "ch": "去除释放条件"
+ },
+ "ui_damgeTestLeftSkill": {
+  "en": "Martial Skill",
+  "pt": "Técnica Marcial",
+  "ch": "武    技"
+ },
+ "ui_damgeTestMagicDefenf": {
+  "en": "Spiritual RES",
+  "pt": "RES Espiritual",
+  "ch": "灵根抗性"
+ },
+ "ui_damgeTestOther": {
+  "en": "Others",
+  "pt": "Outros",
+  "ch": "其    他"
+ },
+ "ui_damgeTestPhysicsDefend": {
+  "en": "Martial RES",
+  "pt": "RES Marcial",
+  "ch": "功法抗性"
+ },
+ "ui_damgeTestProtectHeart": {
+  "en": "Crit RES",
+  "pt": "RES Crítico",
+  "ch": "护心"
+ },
+ "ui_damgeTestRightSkill": {
+  "en": "Special Skill",
+  "pt": "Técnica Especial",
+  "ch": "绝    技"
+ },
+ "ui_damgeTestSecDamge": {
+  "en": "DPS",
+  "pt": "DPS",
+  "ch": "每秒伤害"
+ },
+ "ui_damgeTestStep": {
+  "en": "Motion Skill",
+  "pt": "Técnica de Movimento",
+  "ch": "身    法"
+ },
+ "ui_damgeTestSummon": {
+  "en": "Summons",
+  "pt": "Invocações",
+  "ch": "召 唤 物"
+ },
+ "ui_damgeTestSwitchOk": {
+  "en": "Dummy Realm Changed",
+  "pt": "Reino do Boneco Alterado",
+  "ch": "切换木桩境界成功"
+ },
+ "ui_damgeTestTotalDamge": {
+  "en": "Total DMG",
+  "pt": "Dano Total",
+  "ch": "总 伤 害"
+ },
+ "ui_damgeTestUltimate": {
+  "en": "Ultimate Skill",
+  "pt": "Técnica Suprema",
+  "ch": "神    通"
+ },
+ "ui_damgeTestWingMan": {
+  "en": "Nether Feather",
+  "pt": "Pena do Submundo",
+  "ch": "冥    羽"
+ },
+ "ui_difficultyLess": {
+  "en": "Sparse",
+  "pt": "Escasso",
+  "ch": "较少"
+ },
+ "ui_difficultyLessTips": {
+  "en": "Generate about 50% of max NPCs",
+  "pt": "Gera cerca de 50% do máximo de NPCs",
+  "ch": "生成约50%的最大NPC数量"
+ },
+ "ui_difficultyMedium": {
+  "en": "Normal",
+  "pt": "Normal",
+  "ch": "中等"
+ },
+ "ui_difficultyMediumTips": {
+  "en": "Generate about 75% of max NPCs",
+  "pt": "Gera cerca de 75% do máximo de NPCs",
+  "ch": "生成约75%的最大NPC数量"
+ },
+ "ui_difficultyMore": {
+  "en": "Plentiful",
+  "pt": "Abundante",
+  "ch": "较多"
+ },
+ "ui_difficultyMoreTips": {
+  "en": "Generate 100% of max NPCs",
+  "pt": "Gera 100% do máximo de NPCs",
+  "ch": "生成100%最大NPC数量"
+ },
+ "ui_difficultyNpcCount": {
+  "en": "Amount of NPCs",
+  "pt": "Quantidade de NPCs",
+  "ch": "生成NPC数量"
+ },
+ "ui_elderAIOption_biaoti": {
+  "en": "Sect Dispatch Authority",
+  "pt": "Autoridade de Despacho da Seita",
+  "ch": "宗门调度权限"
+ },
+ "ui_elderAIOption_option1": {
+  "en": "Automatic adjustment",
+  "pt": "Ajuste automático",
+  "ch": "自动调整"
+ },
+ "ui_elderAIOption_option2": {
+  "en": "Request permission from me",
+  "pt": "Solicitar minha permissão",
+  "ch": "向我请示"
+ },
+ "ui_elderAIOption_option3": {
+  "en": "Never adjust",
+  "pt": "Nunca ajustar",
+  "ch": "永不调整"
+ },
+ "ui_elderAIOption_optionSky1": {
+  "en": "Grand Elders or Elders within jurisdiction (including Branches) will act according to the Sect situation and automatically dispatch Disciples in the Sect.",
+  "pt": "Grão-Anciões ou Anciões sob sua jurisdição (incluindo Filiais) agirão de acordo com a situação da Seita e enviarão automaticamente Discípulos na Seita.",
+  "ch": "自身管辖范围内（包括分舵）的大长老或长老将会根据宗门情况，自行调度宗门内的弟子。"
+ },
+ "ui_elderAIOption_optionSky2": {
+  "en": "Grand Elders or Elders within jurisdiction (including Branches) will act according to the Sect situation and request permission from you before dispatching Disciples in the Sect.",
+  "pt": "Grão-Anciões ou Anciões sob sua jurisdição (incluindo Filiais) agirão de acordo com a situação da Seita e solicitarão sua permissão antes de enviar Discípulos na Seita.",
+  "ch": "自身管辖范围内（包括分舵）的大长老或长老将会根据宗门情况，向自身请示后调度宗门内的弟子。"
+ },
+ "ui_elderAIOption_optionSky3": {
+  "en": "Grand Elders or Elders within jurisdiction (including Branches) will not make any changes to the Disciples in the Sect.",
+  "pt": "Grão-Anciões ou Anciões sob sua jurisdição (incluindo Filiais) não farão nenhuma alteração nos Discípulos na Seita.",
+  "ch": "自身管辖范围内（包括分舵）的大长老或长老将不会对宗门内弟子做任何调整。"
+ },
+ "ui_elderAIOption_tishi": {
+  "en": "Adjust the authority of the Grand Elders or Elders in your jurisdiction to dispatch Disciples.",
+  "pt": "Ajuste a autoridade dos Grão-Anciões ou Anciões sob sua jurisdição para enviar Discípulos.",
+  "ch": "调整自身管辖范围内的大长老或长老调度弟子的权限"
+ },
+ "ui_fairyLeagueStore_btntreasure": {
+  "en": "View Treasure",
+  "pt": "Ver Tesouro",
+  "ch": "查看秘宝"
+ },
+ "ui_fairyLeagueStore_martial": {
+  "en": "Manual",
+  "pt": "Manual",
+  "ch": "秘籍"
+ },
+ "ui_fairyLeagueStore_props": {
+  "en": "Elixir",
+  "pt": "Elixir",
+  "ch": "丹药"
+ },
+ "ui_fairyLeagueStore_treasure": {
+  "en": "Treasure",
+  "pt": "Tesouro",
+  "ch": "秘宝"
+ },
+ "ui_fairyLeagueStore_unLock": {
+  "en": "Unlock upon {0} Battle Contribution",
+  "pt": "Desbloqueia com {0} de Contribuição de Batalha",
+  "ch": "累计战功到达{0}解锁"
+ },
+ "ui_fateFeature_wingmanstate": {
+  "en": "Nether Feather Status",
+  "pt": "Status da Pena do Submundo",
+  "ch": "冥羽状态"
+ },
+ "ui_fateFeature_wingmanstate1": {
+  "en": "Manual Attack <color=#16278b><u>Toggle</u></color>",
+  "pt": "Ataque Manual <color=#16278b><u>Alternar</u></color>",
+  "ch": "手动攻击<color=#16278b><u>切换</u></color>"
+ },
+ "ui_gameSetting_cursorSizeL": {
+  "en": "Large",
+  "pt": "Grande",
+  "ch": "大号"
+ },
+ "ui_gameSetting_cursorSizeM": {
+  "en": "Medium",
+  "pt": "Médio",
+  "ch": "中号"
+ },
+ "ui_gameSetting_cursorSizeS": {
+  "en": "Small",
+  "pt": "Pequeno",
+  "ch": "小号"
+ },
+ "ui_gameSetting_cursorTitle": {
+  "en": "Cursor",
+  "pt": "Cursor",
+  "ch": "鼠标光标"
+ },
+ "ui_game_biaoqingdonghua": {
+  "en": "Play Expression Animation",
+  "pt": "Reproduzir Animação de Expressão",
+  "ch": "播放表情动画"
+ },
+ "ui_game_dongtailihui": {
+  "en": "Animated Portrait",
+  "pt": "Retrato Animado",
+  "ch": "动态立绘"
+ },
+ "ui_game_hanyu": {
+  "en": "한국어",
+  "pt": "한국어",
+  "ch": "한국어"
+ },
+ "ui_game_qiehuanyuyan1": {
+  "en": "Language changed. It'll take effect after you save the settings and return to the Main Menu or restart the game.",
+  "pt": "Idioma alterado. Terá efeito após salvar as configurações e retornar ao Menu Principal ou reiniciar o jogo.",
+  "ch": "切换语言成功，保存设置后返回主界面或重启游戏生效。"
+ },
+ "ui_game_qiehuanyuyan2": {
+  "en": "Language changed. It'll take effect after you save the settings and restart the game.",
+  "pt": "Idioma alterado. Terá efeito após salvar as configurações e reiniciar o jogo.",
+  "ch": "切换语言成功，保存设置后重启游戏生效。"
+ },
+ "ui_game_yingwen": {
+  "en": "English (Alpha)",
+  "pt": "Inglês (Alpha)",
+  "ch": "English（Alpha）"
+ },
+ "ui_game_yuyan": {
+  "en": "Language",
+  "pt": "Idioma",
+  "ch": "语言"
+ },
+ "ui_geomancyGameTip_guize": {
+  "en": "<b>To recover the compass, you may spin its parts to connect all elements into a line in the corresponding direction according to the diagram shown around the Exquisite Stone Plate</b>\n1. Click on each ring area to make it turn 1 tile clockwise;\n2. While moving, other rings may move 1-2 tiles in the same or opposite direction at the same time according to certain rules.\n3. Please recover the Feng Shui compass within the limited number of steps indicated at the center of it.",
+  "pt": "<b>Para recuperar a bússola, você deve girar suas partes para conectar todos os elementos em uma linha na direção correspondente, de acordo com o diagrama mostrado ao redor da Placa de Pedra Requintada</b>\n1. Clique em cada área de anel para fazê-la girar 1 espaço no sentido horário;\n2. Ao mover, outros anéis podem se mover 1-2 espaços na mesma direção ou na direção oposta ao mesmo tempo, de acordo com certas regras.\n3. Por favor, recupere a bússola de Feng Shui dentro do número limitado de passos indicado no centro dela.",
+  "ch": "<b>参照玲珑石盘周围所示的各元素方位，操作机关旋转，令所有元素在对应的方位上连成一线，即可复原成功</b>\n1.鼠标点击各环状区域可使其发生时针转动1格;\n2.移动的同时，可能会照一定规则使其他圆环同时发生方向相同或相反的圆环移动1-2格。\n3.中心汉字所示数字为剩余步数，请在限定的步数内完成风水盘的修复。"
+ },
+ "ui_geomancyGameTip_tishi1": {
+  "en": "Got it!",
+  "pt": "Entendi!",
+  "ch": "我知道了"
+ },
+ "ui_geomancyGameTip_tishi2": {
+  "en": "Don't show again",
+  "pt": "Não mostrar novamente",
+  "ch": "不再提示"
+ },
+ "ui_geomancy_dangqiannandu": {
+  "en": "Current difficulty: {0}",
+  "pt": "Dificuldade atual: {0}",
+  "ch": "当前难度：{0}"
+ },
+ "ui_geomancy_dangqiannandu1": {
+  "en": "<g>Normal</g>",
+  "pt": "<g>Normal</g>",
+  "ch": "<g>普通</g>"
+ },
+ "ui_geomancy_dangqiannandu2": {
+  "en": "<b>Normal</b>",
+  "pt": "<b>Normal</b>",
+  "ch": "<b>普通</b>"
+ },
+ "ui_geomancy_dangqiannandu3": {
+  "en": "<r>Hard</r>",
+  "pt": "<r>Difícil</r>",
+  "ch": "<r>困难</r>"
+ },
+ "ui_geomancy_wanfashuoming": {
+  "en": "Game Rules:\n<o>To recover the compass, you may spin its parts to connect all elements into a line in the corresponding direction according to the diagram shown around the Exquisite Stone Plate.</o>\n1. Click on each ring area to make it turn 1 tile clockwise;\n2. While moving, other rings may also move 1-2 tiles in the same or opposite direction according to certain rules.\n3. Please finish recovering elements in their directions within the limited number of steps indicated at the center of the compass.\n4. Your Feng Shui stat will bring you bonus steps.",
+  "pt": "Regras do Jogo:\n<o>Para recuperar a bússola, você pode girar suas partes para conectar todos os elementos em uma linha na direção correspondente, de acordo com o diagrama mostrado ao redor da Placa de Pedra Requintada.</o>\n1. Clique em cada área do anel para fazê-lo girar 1 bloco no sentido horário;\n2. Ao se mover, outros anéis também podem se mover 1-2 blocos na mesma direção ou na oposta, de acordo com certas regras.\n3. Por favor, termine de recuperar os elementos em suas direções dentro do número limitado de passos indicado no centro da bússola.\n4. Seu atributo de Feng Shui lhe trará passos extras.",
+  "ch": "玩法说明：\n<o>参照玲珑石盘周围所示的各元素方位，操作机关旋转，令所有元素在对应的方位上连成一线，即可复原成功</o>\n1.鼠标点击各环状区域可使其发生时针转动1格;\n2.移动的同时，可能会照一定规则使其他圆环同时发生方向相同或相反的圆环移动1-2格。\n3.中心汉字所示数字为剩余步数，请按在限定的步数内调整机关的排布，使所有元素在对应的方位上连成一线，即可复原成功。\n4.风水资质可以增加额外的可操作步数。"
+ },
+ "ui_godEyeGradeTips": {
+  "en": "The Realm Breakthrough of the Eye of Providence cannot exceed the character's current Realm.",
+  "pt": "O Avanço de Reino do Olho da Providência não pode exceder o Reino atual do personagem.",
+  "ch": "昊天眼的境界突破不能超过玩家角色的当前境界"
+ },
+ "ui_godEyeList_title": {
+  "en": "Upgrade beast skill to [{0}]",
+  "pt": "Melhorar habilidade da fera para [{0}]",
+  "ch": "妖兽技能提升至【{0}】"
+ },
+ "ui_godEye_bkxf": {
+  "en": "Cannot repair in Chaos mode.",
+  "pt": "Não é possível reparar no modo Caos.",
+  "ch": "洪荒模式下无法修复"
+ },
+ "ui_godEye_bossName": {
+  "en": "From Beast: {0}",
+  "pt": "Da Fera: {0}",
+  "ch": "所属妖兽：{0}"
+ },
+ "ui_godEye_desc": {
+  "en": "In battle, Eye of Providence has a certain chance to spot the weakness of a Mythical Beast or Mythical Beast Lord. Shatter its weakness, and you will master the beast's skill. After mastering it, you may tap the corresponding Beast icon button in Artifact page to equip or switch beast skill.",
+  "pt": "Em batalha, o Olho da Providência tem uma certa chance de detectar a fraqueza de uma Fera Mítica ou Senhor das Feras Míticas. Destrua sua fraqueza e você dominará a habilidade da fera. Após dominá-la, você pode tocar no botão do ícone da Fera correspondente na página de Artefato para equipar ou trocar a habilidade da fera.",
+  "ch": "昊天眼在战斗中有概率可以识破大妖兽或妖兽王的弱点，将其弱点击破后，即可领悟妖兽技能；领悟成功后，可在神器页面中点击相应的妖兽图标按钮进行妖兽技能的装配或切换"
+ },
+ "ui_godEye_jinengmiaoshu": {
+  "en": "Skill description:",
+  "pt": "Descrição da habilidade:",
+  "ch": "技能描述："
+ },
+ "ui_godEye_jinengtexing": {
+  "en": "Affix properties:",
+  "pt": "Propriedades do afixo:",
+  "ch": "词条属性："
+ },
+ "ui_godEye_kejinjie": {
+  "en": "Ready to progress",
+  "pt": "Pronto para progredir",
+  "ch": "可进阶"
+ },
+ "ui_godEye_kqhts": {
+  "en": "You can switch the skills of other Beast Skills you've already comprehended here.",
+  "pt": "Você pode trocar as habilidades de outras Habilidades de Fera que já compreendeu aqui.",
+  "ch": "可在此切换已领悟的其他妖兽技能"
+ },
+ "ui_godEye_name": {
+  "en": "Eye of Providence",
+  "pt": "Olho da Providência",
+  "ch": "昊天眼"
+ },
+ "ui_godEye_reqairtip": {
+  "en": "The Spirit Stone cost to repair Eye of Providence increases as character Realm or the number of repairs already made increases.\nIt takes {0} month(s) to repair Eye of Providence.\nWhile it's under repair, Heavenly Path Protection cannot be triggered, and monster skills cannot be used or mastered. It can function properly again once repair work is finished.",
+  "pt": "O custo em Pedras Espirituais para reparar o Olho da Providência aumenta conforme o Reino do personagem ou o número de reparos já feitos.\nLeva {0} mês(es) para reparar o Olho da Providência.\nEnquanto estiver em reparo, a Proteção do Caminho Celestial não pode ser ativada, e habilidades de monstro não podem ser usadas ou dominadas. Ele poderá funcionar corretamente novamente assim que o reparo for concluído.",
+  "ch": "修复昊天眼需要花费的灵石数量会随角色的境界提升及修复次数增多而不断上涨\n修复昊天眼将耗时{0}个月\n处于修复中状态时，仍暂时无法触发天道庇护且无法使用和领悟怪物技能，直到修复完成为止"
+ },
+ "ui_godEye_skillDesc": {
+  "en": "When you are in peril (dying) in battle, the Eye of Providence will activate the Heavenly Path Protection to save you.",
+  "pt": "Quando você estiver em perigo (morrendo) em batalha, o Olho da Providência ativará a Proteção do Caminho Celestial para salvá-lo.",
+  "ch": "当在战斗中陷入危难之时（濒死状态），昊天眼将触发天道的庇佑，帮助你脱离危险。"
+ },
+ "ui_godEye_title1": {
+  "en": "Heavenly Path Protection",
+  "pt": "Proteção do Caminho Celestial",
+  "ch": "天道庇佑"
+ },
+ "ui_godEye_title2": {
+  "en": "(Heavenly Path Protection)",
+  "pt": "(Proteção do Caminho Celestial)",
+  "ch": "（天道庇佑）"
+ },
+ "ui_godEye_weizhuangbei": {
+  "en": "Skill not equipped",
+  "pt": "Habilidade não equipada",
+  "ch": "技能未装配"
+ },
+ "ui_godEye_xc": {
+  "en": "[Blemish]",
+  "pt": "[Defeito]",
+  "ch": "【瑕疵】"
+ },
+ "ui_godEye_xfqr": {
+  "en": "Spend {0} Spirit Stones to repair Eye of Providence? It will take {1} month(s), during which all its functions are disabled.",
+  "pt": "Gastar {0} Pedras Espirituais para reparar o Olho da Providência? Levará {1} mês(es), durante o qual todas as suas funções estarão desativadas.",
+  "ch": "是否花费{0}灵石修复昊天眼？修复工作需要耗时{1}个月，期间仍无法使用昊天眼的所有功能"
+ },
+ "ui_godEye_xiufu": {
+  "en": "Repair",
+  "pt": "Reparar",
+  "ch": "修复"
+ },
+ "ui_godEye_xiufutip": {
+  "en": "Repair costs {0} month(s)",
+  "pt": "Reparo leva {0} mês(es)",
+  "ch": "修复需要耗时{0}个月"
+ },
+ "ui_godEye_xiufuzhong": {
+  "en": "Under repair",
+  "pt": "Em reparo",
+  "ch": "修复中"
+ },
+ "ui_godEye_xunhuaitip": {
+  "en": "Eye of Providence is damaged and cannot activate <color=#964D4D>[Heavenly Path Protection]</color>, and you <color=#964D4D>cannot use or master</color> beast skills now.",
+  "pt": "O Olho da Providência está danificado e não pode ativar <color=#964D4D>[Proteção do Caminho Celestial]</color>, e você <color=#964D4D>não pode usar ou dominar</color> Habilidades de Fera agora.",
+  "ch": "因昊天眼损坏，无法触发<color=#964D4D>【天道庇佑】</color>，且<color=#964D4D>无法使用和领悟</color>妖兽技能"
+ },
+ "ui_godEye_xunhuaitip1": {
+  "en": "Eye of Providence is damaged and cannot activate <r>[Heavenly Path Protection]</r>, and you <r>cannot use</r> beast skills now.",
+  "pt": "O Olho da Providência está danificado e não pode ativar <r>[Proteção do Caminho Celestial]</r>, e você <r>não pode usar</r> Habilidades de Fera agora.",
+  "ch": "因昊天眼损坏，无法触发<r>【天道庇佑】</r>，且<r>无法使用</r>妖兽技能"
+ },
+ "ui_godEye_xuyao": {
+  "en": "Requires:",
+  "pt": "Requer:",
+  "ch": "需要："
+ },
+ "ui_gogEyeTipsConnect": {
+  "en": "<size=20>Functions:</size><size=2>\n\n</size>1. The power of the Eye of Providence can give you a wider range of vision on the world map.\n2.The Eye of Providence gives you a chance to see items that are not yet visible in the Inventories of other Cultivators.\n3. When in danger in battle, the Eye of Providence can activate Heavenly Path Protection to help the player leave battle. However, after activating the power, the Eye of Providence will enter be broken (can be repaired).\n4. The Eye of Providence gives you a chance to identify the weaknesses of Monsters in battle, and by attacking the weaknesses, you can gain Insight into the skills of the Monsters and use them for yourself.\n\n<size=20>How to Use\n</size><size=2>\n\n</size>1. Press the <r>F</r> key outside of battle to quickly open the Eye of Providence Artifact interface.\n2. After successfully gaining Insight into the skill, you can click the button to equip and switch among the comprehended Beast Skills.\n3. Press the <r>F</r> key in battle to use the equipped Beast Skill.\n4. After gaining Insight into the skills of 5 collected higher-Realm Monsters of the specified Realm, you can click the Breakthrough button to level up the Realm of the comprehended skills.\n5. When the Eye of Providence activates Heavenly Path Protection and is damaged, you can repair it on the Artifact page. It costs a certain amount of Spirit Stones, and the cost increases with the Realm and the number of times it is repaired.\n<r>(※The Eye of Providence cannot be repaired in Chaos mode※)</r>\n6. When the Eye of Providence is broken, you cannot activate Heavenly Path Protection again. You also cannot use the equipped Beast Skills, but you can still gain Insight into new Beast Skills.\n<r>(※The Eye of Providence cannot be repaired in Chaos mode※)</r>",
+  "pt": "<size=20>Funções:</size><size=2>\n\n</size>1. O Poder do Olho da Providência pode lhe dar um alcance de visão maior no Mapa mundial.\n2. O Olho da Providência lhe dá uma chance de ver Itens que ainda não estão visíveis nos Inventários de outros Cultivadores.\n3. Quando em perigo na Batalha, o Olho da Providência pode ativar a Proteção do Caminho Celestial para ajudar o jogador a sair da Batalha. No entanto, após ativar o Poder, o Olho da Providência ficará quebrado (pode ser reparado).\n4. O Artefato Olho da Providência na Batalha tem uma chance de identificar as fraquezas de Monstros, e ao atacar as fraquezas, você pode obter Percepção sobre as Habilidades dos Monstros e usá-las para si mesmo.\n\n<size=20>Como Usar\n</size><size=2>\n\n</size>1. Pressione a tecla <r>F</r> fora da Batalha para abrir rapidamente a interface do Artefato Olho da Providência.\n2. Após obter Percepção com sucesso sobre a Habilidade, você pode clicar no botão para equipar e alternar entre as Habilidades de Fera compreendidas.\n3. Pressione a tecla <r>F</r> na Batalha para usar a Habilidade de Fera equipada.\n4. Após obter Percepção sobre as Habilidades de 5 Monstros de Reinos superiores coletados do Reino especificado, você pode clicar no botão Avanço para aumentar o Reino das Habilidades compreendidas.\n5. Quando o Olho da Providência ativa a Proteção do Caminho Celestial e está danificado, você pode repará-lo na página do Artefato. Custa uma certa quantidade de Pedras Espirituais, e o Custo aumenta com o Reino e o número de vezes que é reparado.\n<r>(※No modo Caos, o Olho da Providência não pode ser reparado※)</r>\n6. Quando o Olho da Providência está quebrado, você não pode ativar a Proteção do Caminho Celestial novamente. Você também não pode usar as Habilidades de Fera equipadas, mas ainda pode obter Percepção sobre novas Habilidades de Fera.\n<r>(※No modo Caos, o Olho da Providência não pode ser reparado※)</r>",
+  "ch": "<size=20>功能介绍：</size><size=2>\n\n</size>1.昊天眼的神力可以令你在世界地图上视野范围更广\n2.昊天眼有概率看破其他修仙者背包中尚不可见的物品\n3.当在战斗中陷入危难之时，昊天眼可以发动天道庇佑救助玩家脱离战斗，但发动了神力之后昊天眼会进入破损状态（可以进行修复）\n4.昊天眼神器在战斗中有概率识破妖兽的弱点，将弱点击破即可领悟妖兽的技能并为你所用\n\n<size=20>使用说明\n</size><size=2>\n\n</size>1.战斗外按<r>F</r>键，可快速打开昊天眼神器界面\n2.成功领悟技能后，可以在已领悟妖兽技能中点击按钮进行装配和切换\n3.战斗中按<r>F</r>键，可以释放装配中的妖兽技能\n4.领悟收集指定境界的5个更高境界的妖兽技能后，可点击突破按钮来提升已领悟技能的境界\n5.当昊天眼发动天道庇佑损坏后，可以在神器页面中对其进行修复。需要花费一定灵石，且所需费用会随着境界和修复次数变化而提升\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>\n6.当昊天眼处于破损状态时，无法再次发动天道庇佑；同时也无法使用已装配的妖兽技能，但仍可领悟新的妖兽技能\n<r>（※在洪荒模式中，昊天眼无法修复※）</r>"
+ },
+ "ui_gogEyeTipsTitle": {
+  "en": "Artifact Guide",
+  "pt": "Guia do Artefato",
+  "ch": "神器使用指南"
+ },
+ "ui_gongfashengjibane": {
+  "en": "Upgrade [{0}] to [{1}]",
+  "pt": "Aprimorar [{0}] para [{1}]",
+  "ch": "将【{0}】升级为【{1}】"
+ },
+ "ui_gongfashengjitishi": {
+  "en": "Unable to obtain affix in this upgrade. Continue anyway?",
+  "pt": "Não é possível obter afixo neste aprimoramento. Continuar mesmo assim?",
+  "ch": "本次升级无法获得词条，是否继续升级？"
+ },
+ "ui_gongfaxuanzetishi": {
+  "en": "Select a Martial Art to upgrade",
+  "pt": "Por favor, selecione uma Arte Marcial para aprimorar.",
+  "ch": "请选择要升级的功法。"
+ },
+ "ui_gongfaxuanzetishi2": {
+  "en": "Please select an affix from this upgrade.",
+  "pt": "Por favor, selecione um afixo deste aprimoramento.",
+  "ch": "请选择升级获得的词条。"
+ },
+ "ui_gouxuanshengjicitiao": {
+  "en": "Select {0} upgraded skill affix(es)",
+  "pt": "Selecione {0} afixo(s) de Habilidade aprimorada(s)",
+  "ch": "勾选{0}个升级技能词条"
+ },
+ "ui_guanzhan": {
+  "en": "Spectate",
+  "pt": "Assistir"
+ },
+ "ui_haotianyan_fuhuotishi": {
+  "en": "Triggered Eye of Providence - Heavenly Path Protection",
+  "pt": "Olho da Providência - Proteção do Caminho Celestial ativado",
+  "ch": "触发昊天眼天道庇佑"
+ },
+ "ui_haotianyan_jiesuotishi": {
+  "en": "<r>Must Breakthrough to {0} on any Difficulty or unlock Chaos Mode to select</r>",
+  "pt": "<r>Deve fazer um Avanço para {0} em qualquer Dificuldade ou desbloquear o Modo Caos para selecionar</r>",
+  "ch": "<r>需要在任意难度下突破至{0}或解锁洪荒模式后方可选择</r>"
+ },
+ "ui_haotianyan_posui": {
+  "en": "Eye of Providence Shattered",
+  "pt": "Olho da Providência Despedaçado",
+  "ch": "昊天眼已破碎"
+ },
+ "ui_haotianyan_shandang": {
+  "en": "Eye of Providence Shattered. Save has been deleted!",
+  "pt": "Olho da Providência Despedaçado. O salvamento foi excluído!",
+  "ch": "昊天眼破碎，存档已删除！"
+ },
+ "ui_immortalHallCantTranTips": {
+  "en": "This Shrine has not been infused with Heavenly Power, unable to teleport",
+  "pt": "Este Santuário não foi infundido com Poder Celestial, incapaz de teleportar",
+  "ch": "此仙祠未注入过仙力，无法传送"
+ },
+ "ui_immortalHall_PropTitle": {
+  "en": "Select an item for sacrifice",
+  "pt": "Selecione um item para sacrifício",
+  "ch": "选择需要供奉给仙人的物品"
+ },
+ "ui_immortal_giveCd": {
+  "en": "Already offered this month",
+  "pt": "Já ofertado este mês",
+  "ch": "本月供奉过了"
+ },
+ "ui_ji001": {
+  "en": "WANTED",
+  "pt": "PROCURADO",
+  "ch": "缉"
+ },
+ "ui_jifensai_kaiqijiasu": {
+  "en": "Fast",
+  "pt": "Rápido"
+ },
+ "ui_jitan_wenben1": {
+  "en": "Shattered Altar",
+  "pt": "Altar Despedaçado",
+  "ch": "破碎祭坛"
+ },
+ "ui_jitan_wenben2": {
+  "en": "Level {0}",
+  "pt": "Nível {0}",
+  "ch": "第{0}关"
+ },
+ "ui_jitan_wenben3": {
+  "en": "Image in this Level",
+  "pt": "Imagem neste Nível",
+  "ch": "本关幻象"
+ },
+ "ui_jitan_wenben4": {
+  "en": "Reward in this Level",
+  "pt": "Recompensa neste Nível",
+  "ch": "本关奖励"
+ },
+ "ui_jitan_wenben5": {
+  "en": "Best Record",
+  "pt": "Melhor Recorde",
+  "ch": "最佳通关"
+ },
+ "ui_jitan_wenben6": {
+  "en": "Challenge",
+  "pt": "Desafio",
+  "ch": "开始挑战"
+ },
+ "ui_jitan_wenben7": {
+  "en": "Cleared",
+  "pt": "Concluído",
+  "ch": "通关"
+ },
+ "ui_lianyaohu_posui": {
+  "en": "Mythical Gourd is broken",
+  "pt": "Cabaça Mítica está quebrada",
+  "ch": "炼妖壶破碎"
+ },
+ "ui_mapBattlePre_notAttack": {
+  "en": "Cannot enter challenge now. Quit?",
+  "pt": "Não é possível entrar no desafio agora. Sair?",
+  "ch": "目前无法进行挑战，是否退出"
+ },
+ "ui_materialLimitCount": {
+  "en": "Equipped skills of higher realm: {0}",
+  "pt": "Habilidades de reino superior equipadas: {0}",
+  "ch": "当前装备高境界功法{0}"
+ },
+ "ui_materialMaxLimitCount": {
+  "en": "Amount of equipped higher realm skills has reached limit.",
+  "pt": "A quantidade de habilidades de reino superior equipadas atingiu o limite.",
+  "ch": "当前装备的高境界功法已达上限。"
+ },
+ "ui_mibaoge_exitCheckContent": {
+  "en": "You can still activate Lotus Throne. Do you want to quit?",
+  "pt": "Você ainda pode ativar o Trono de Lótus. Deseja sair?",
+  "ch": "还能催动莲花，是否退出？"
+ },
+ "ui_mibaoge_exitCheckTitle": {
+  "en": "Tip",
+  "pt": "Dica",
+  "ch": "提示"
+ },
+ "ui_mibaoge_noEnoughCostProp": {
+  "en": "Not enough Spirit Stones!",
+  "pt": "Pedras Espirituais insuficientes!"
+ },
+ "ui_mibaoge_noTimes": {
+  "en": "Activations exhausted for this rest",
+  "pt": "Ativações esgotadas para este descanso",
+  "ch": "此次休整催动次数已耗尽"
+ },
+ "ui_mibaoge_overCheckContent": {
+  "en": "Lotus Throne activations exhausted",
+  "pt": "Ativações do Trono de Lótus esgotadas",
+  "ch": "催动莲台次数已耗尽"
+ },
+ "ui_mibaoge_overCheckTitle": {
+  "en": "Tip",
+  "pt": "Dica",
+  "ch": "提示"
+ },
+ "ui_mibaoge_ptextDesc": {
+  "en": "1. Use Spirits Stones to <#791515>Activate Lotus Throne</color> and produce 3 Treasures.\n2. Once a Treasure has been <#791515>Extracted</color> the other treasures disappear.\n3. Each rest period you can <#791515>activate the Lotus Throne 3 times</color> (6 times before the Open Challenge Match).\n4. After leaving the Treasure Vault, give the treasure to and <#309841>Commission</color> an appointed Disciple.\n5. At the appropriate moment, order the Disciple to use the Treasure and turn the tide of battle.\n6. The Treasure will automatically <#791515>Disappear</color> after leaving the Dragon Gate.",
+  "pt": "1. Use Pedras Espirituais para <#791515>Ativar o Trono de Lótus</color> e produzir 3 Tesouros.\n2. Assim que um Tesouro for <#791515>Extraído</color>, os outros tesouros desaparecem.\n3. A cada período de descanso, você pode <#791515>ativar o Trono de Lótus 3 vezes</color> (6 vezes antes da Partida de Desafio Aberto).\n4. Após sair do Cofre de Tesouros, dê o tesouro e <#309841>Comissione</color> um Discípulo designado.\n5. No momento apropriado, ordene ao Discípulo que use o Tesouro e mude o rumo da batalha.\n6. O Tesouro irá <#791515>Desaparecer</color> automaticamente após sair do Portão do Dragão.",
+  "ch": "1.投入灵石<#791515>催动莲台</color>生成3个秘宝。\n2.<#791515>取出</color>一个秘宝后其他的秘宝会消失。\n3.每次休整期可以<#791515>催动三次</color>莲台（擂台赛前六次）。\n4.离开秘宝阁后可以将秘宝赐予并<#309841>督战</color>指定弟子。\n5.在适当的时机可以指挥弟子使用秘宝，逆转战局。\n6.离开龙门后秘宝会自行<#791515>消失</color>。"
+ },
+ "ui_mibaoge_textAutoSubmit": {
+  "en": "Auto Activate Lotus Throne",
+  "pt": "Ativar Trono de Lótus Automaticamente"
+ },
+ "ui_mibaoge_textBtnChoose": {
+  "en": "Extract",
+  "pt": "Extrair",
+  "ch": "取出"
+ },
+ "ui_mibaoge_textBtnSubmit": {
+  "en": "Activate Lotus Throne",
+  "pt": "Ativar Trono de Lótus",
+  "ch": "催动莲台"
+ },
+ "ui_mibaoge_textDescTitle": {
+  "en": "Treasury Gameplay:",
+  "pt": "Jogabilidade do Tesouro:",
+  "ch": "秘宝阁玩法说明："
+ },
+ "ui_mibaoge_textPrice": {
+  "en": "{0}/times",
+  "pt": "{0}/vez",
+  "ch": "{0}/次"
+ },
+ "ui_mibaoge_textPropsTitle": {
+  "en": "Items owned:",
+  "pt": "Itens possuídos:",
+  "ch": "已持有道具："
+ },
+ "ui_mibaoge_textSliTips": {
+  "en": "Use Spirit Stones to Activate Lotus Throne",
+  "pt": "Use Pedras Espirituais para Ativar o Trono de Lótus",
+  "ch": "拉动注入灵石以催动莲台"
+ },
+ "ui_mibaoge_textTimes": {
+  "en": "Active this rest <color=#ff0000>{0}</color> more times",
+  "pt": "Ainda pode ativar nesta pausa <color=#ff0000>{0}</color> vezes",
+  "ch": "此次休整还可催动<color=#ff0000>{0}</color>次"
+ },
+ "ui_mibaoge_times_1": {
+  "en": "1",
+  "pt": "1",
+  "ch": "一"
+ },
+ "ui_mibaoge_times_2": {
+  "en": "2",
+  "pt": "2",
+  "ch": "二"
+ },
+ "ui_mibaoge_times_3": {
+  "en": "3",
+  "pt": "3",
+  "ch": "三"
+ },
+ "ui_mibaoge_times_4": {
+  "en": "4",
+  "pt": "4",
+  "ch": "四"
+ },
+ "ui_mibaoge_times_5": {
+  "en": "5",
+  "pt": "5",
+  "ch": "五"
+ },
+ "ui_mibaoge_times_6": {
+  "en": "6",
+  "pt": "6",
+  "ch": "六"
+ },
+ "ui_mibaozengsong_textBottomTips": {
+  "en": "Gift the treasure to Disciples with the authority to supervise the battle so they can better deal with opponents.",
+  "pt": "Presenteie o Tesouro aos Discípulos com autoridade para supervisionar a Batalha, para que possam lidar melhor com os oponentes.",
+  "ch": "对有督战权限的下属弟子赠送秘宝，以备弟子更好的应对大比"
+ },
+ "ui_mibaozengsong_textDuZhan": {
+  "en": "Can be commissioned",
+  "pt": "Pode ser comissionado",
+  "ch": "可督战"
+ },
+ "ui_mibaozengsong_textStudentsTitle": {
+  "en": "Competing Disciples",
+  "pt": "Discípulos Competidores",
+  "ch": "参赛弟子"
+ },
+ "ui_mibaozengsong_textTreasureTitle": {
+  "en": "Treasure List",
+  "pt": "Lista de Tesouros",
+  "ch": "秘宝列表"
+ }
+}

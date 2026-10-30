@@ -1,0 +1,441 @@
+{
+ "BattleEffectDesc7052102": {
+  "en": "Martial Skill/Spiritual Skill stack +&7052101_tsst&",
+  "pt": "Camadas de Técnica Marcial/Técnica Espiritual +&7052101_tsst&",
+  "ch": "武技/灵技效果的叠加层数+&7052101_tsst&"
+ },
+ "BattleEffectDesc7113101": {
+  "en": "Damage taken is &7113101_msbl&%",
+  "pt": "Dano recebido é &7113101_msbl&%",
+  "ch": "受到的伤害&7113101_msbl&%"
+ },
+ "BattleEffectDesc71211": {
+  "en": "Recover &7121_hftl&% Vitality every &7121_hfjg&s",
+  "pt": "Recupera &7121_hftl&% de Vitalidade a cada &7121_hfjg& segundos",
+  "ch": "每&7121_hfjg&秒回复&7121_hftl&%的体力"
+ },
+ "BattleEffectDesc712201": {
+  "en": "Agility increases by &712201_tsys&%",
+  "pt": "Agilidade aumenta em &712201_tsys&%",
+  "ch": "移动速度提升&712201_tsys&%"
+ },
+ "BattleEffectDesc71261": {
+  "en": "Every stack increases damage taken by &7126_sdsh&%",
+  "pt": "Cada camada aumenta o dano recebido em &7126_sdsh&%",
+  "ch": "每层可使受到的伤害提升&7126_sdsh&%"
+ },
+ "BattleEffectDesc71282": {
+  "en": "Every stack gives Crit rate +&7122_zjbj&%",
+  "pt": "Cada camada aumenta a Chance Crítica em +&7122_zjbj&%",
+  "ch": "每层可使暴击率+&7122_zjbj&%"
+ },
+ "BattleEffectDesc715101": {
+  "en": "Agility increases by &715101_tsys&%",
+  "pt": "Agilidade aumenta em &715101_tsys&%",
+  "ch": "移动速度提升&715101_tsys&%"
+ },
+ "BattleEffectDesc715203": {
+  "en": "Ultimate Skill power increases by &715201_tsst&%",
+  "pt": "Poder da Técnica Suprema aumenta em &715201_tsst&%",
+  "ch": "每层可使神通威力提升&715201_tsst&%"
+ },
+ "BattleEffectDesc716203": {
+  "en": "Every stack gives Crit rate +&716201_bjgl&%",
+  "pt": "Cada camada aumenta a Chance Crítica em +&716201_bjgl&%",
+  "ch": "每层可使暴击率+&716201_bjgl&%"
+ },
+ "BattleEffectDesc717102": {
+  "en": "Martial Skill/Spiritual Skill stack +&717101_tsgl&%",
+  "pt": "Camadas de Técnica Marcial/Técnica Espiritual +&717101_tsgl&%",
+  "ch": "武技/灵技效果的叠加概率+&717101_tsgl&%"
+ },
+ "BattleEffectDesc7204": {
+  "en": "Agility &7204_ydsd&%",
+  "pt": "Agilidade &7204_ydsd&%",
+  "ch": "移动速度&7204_ydsd&%"
+ },
+ "BattleEffectDesc721202": {
+  "en": "Every stack gives Crit rate +&721201_bjgl&%",
+  "pt": "Cada camada aumenta a Chance Crítica em +&721201_bjgl&%",
+  "ch": "每层可使暴击率+&721201_bjgl&%"
+ },
+ "BattleEffectDesc72212": {
+  "en": "Every stack increases damage taken by &7222_sdsh&%",
+  "pt": "Cada camada aumenta o dano recebido em &7222_sdsh&%",
+  "ch": "每层可使受到的伤害提升&7222_sdsh&%"
+ },
+ "BattleEffectDesc722302": {
+  "en": "Martial Skill/Spiritual Skill stack +&722301_tsst&",
+  "pt": "Camadas de Técnica Marcial/Técnica Espiritual +&722301_tsst&",
+  "ch": "武技/灵技效果的叠加层数+&722301_tsst&"
+ },
+ "BattleEffectDesc722401": {
+  "en": "Damage taken is &722401_msbl&%",
+  "pt": "Dano recebido é &722401_msbl&%",
+  "ch": "受到的伤害&722401_msbl&%"
+ },
+ "BattleEffectDesc726101": {
+  "en": "Ultimate Skill power increases by &726101_tsst&%",
+  "pt": "Poder da Técnica Suprema aumenta em &726101_tsst&%",
+  "ch": "每层可使神通威力提升&726101_tsst&%"
+ },
+ "BattleEffectDesc732102": {
+  "en": "Damage dealt increases by &732101_tssh&%",
+  "pt": "Dano infligido aumenta em &732101_tssh&%",
+  "ch": "造成的伤害提升&732101_tssh&%"
+ },
+ "BattleEffectDesc732403": {
+  "en": "Every stack gives Crit rate +&732401_bjbl&",
+  "pt": "Cada camada aumenta o Multiplicador Crítico em +&732401_bjbl&",
+  "ch": "每层可使暴击倍率+&732401_bjbl&"
+ },
+ "BattleEffectDesc734111": {
+  "en": "Damage dealt increases by &7341_tssh&%",
+  "pt": "Dano infligido aumenta em &7341_tssh&%",
+  "ch": "造成的伤害提升&7341_tssh&%"
+ },
+ "BattleEffectDesc735322": {
+  "en": "Damage dealt increases by &7353_zcsh&%",
+  "pt": "Dano infligido aumenta em &7353_zcsh&%",
+  "ch": "造成的伤害提升&7353_zcsh&%"
+ },
+ "BattleEffectDesc735402": {
+  "en": "Agility increases by &735401_tsys&%",
+  "pt": "Agilidade aumenta em &735401_tsys&%",
+  "ch": "移动速度提升&735401_tsys&%"
+ },
+ "BattleEffectDesc736222": {
+  "en": "Damage taken &7362_sdsh&%",
+  "pt": "Dano recebido &7362_sdsh&%",
+  "ch": "受到的伤害&7362_sdsh&%"
+ },
+ "BattleEffectDesc736322": {
+  "en": "Damage dealt increases by &7363_zcsh&%",
+  "pt": "Dano causado aumenta em &7363_zcsh&%",
+  "ch": "造成的伤害提升&7363_zcsh&%"
+ },
+ "BattleEffectDesc736403": {
+  "en": "Recover &736401_hlbl&% Vitality every &736401_hljg&s",
+  "pt": "Recupera &736401_hlbl&% de Vitalidade a cada &736401_hljg& segundos",
+  "ch": "每&736401_hljg&秒回复&736401_hlbl&%的体力"
+ },
+ "BattleEffectDesc73711": {
+  "en": "Every stack increases Agility by &7373_ydsd&%",
+  "pt": "Cada camada aumenta a Agilidade em &7373_ydsd&%",
+  "ch": "每层可使移动速度提升&7373_ydsd&%"
+ },
+ "BattleEffectDesc738102": {
+  "en": "Martial Skill/Spiritual Skill stack +&738101_tsst&",
+  "pt": "Camadas de Técnica Marcial/Espiritual +&738101_tsst&",
+  "ch": "武技/灵技效果的叠加层数+&738101_tsst&"
+ },
+ "BattleEffectDesc738402": {
+  "en": "Neutralize all types of damage when attacked",
+  "pt": "Neutraliza todos os tipos de dano quando atacado",
+  "ch": "受到攻击时，可化解所有类型的伤害"
+ },
+ "BattleEffectDesc754111": {
+  "en": "Every stack gives Crit rate +&7541_bjgl&%",
+  "pt": "Cada camada aumenta a Chance Crítica em +&7541_bjgl&%",
+  "ch": "每层可使暴击率+&7541_bjgl&%"
+ },
+ "BattleEffectDesc754222": {
+  "en": "Damage dealt increases by &7542_tssh&%",
+  "pt": "Dano causado aumenta em &7542_tssh&%",
+  "ch": "造成的伤害提升&7542_tssh&%"
+ },
+ "BattleEffectDesc75432": {
+  "en": "Every stack increases damage taken by &7543_sdsh&%",
+  "pt": "Cada camada aumenta o dano recebido em &7543_sdsh&%",
+  "ch": "每层可使受到的伤害提升&7543_sdsh&%"
+ },
+ "BattleEffectDesc755302": {
+  "en": "Ultimate Skill power increases by &755301_tsst&%",
+  "pt": "Poder da Técnica Suprema aumenta em &755301_tsst&%",
+  "ch": "神通威力提升&755301_tsst&%"
+ },
+ "BattleEffectDesc75541": {
+  "en": "Every stack increases damage taken by &7554_sdsh&%",
+  "pt": "Cada camada aumenta o dano recebido em &7554_sdsh&%",
+  "ch": "每层可使受到的伤害提升&7554_sdsh&%"
+ },
+ "BattleEffectDesc7572101": {
+  "en": "Every stack gives Crit rate +&7572101_bjbl&",
+  "pt": "Cada camada aumenta o Multiplicador Crítico em +&7572101_bjbl&",
+  "ch": "每层可使暴击倍率+&7572101_bjbl&"
+ },
+ "BattleEffectDesc757322": {
+  "en": "Damage dealt increases by &7573_tssh&%",
+  "pt": "Dano causado aumenta em &7573_tssh&%",
+  "ch": "造成的伤害提升&7573_tssh&%"
+ },
+ "BattleEffectDesc758201": {
+  "en": "Agility increases by &768401_tsys&%",
+  "pt": "Agilidade aumenta em &768401_tsys&%",
+  "ch": "移动速度提升&768401_tsys&%"
+ },
+ "BattleEffectDesc758422": {
+  "en": "Damage taken &7584_sdsh&%",
+  "pt": "Dano recebido &7584_sdsh&%",
+  "ch": "受到的伤害&7584_sdsh&%"
+ },
+ "BattleEffectDesc766204": {
+  "en": "Recover &766201_hlbl&% Vitality every &766201_hljg&s",
+  "pt": "Recupera &766201_hlbl&% de Vitalidade a cada &766201_hljg& segundos",
+  "ch": "每&766201_hljg&秒回复&766201_hlbl&%的体力"
+ },
+ "BattleEffectDesc766211": {
+  "en": "Neutralize all types of damage when attacked",
+  "pt": "Neutraliza todos os tipos de dano quando atacado",
+  "ch": "受到攻击时，可化解所有类型的伤害"
+ },
+ "BattleEffectDesc767203": {
+  "en": "Recover &767201_hlbl&% Energy every &767201_hljg&s",
+  "pt": "Recupera &767201_hlbl&% de Energia a cada &767201_hljg& segundos",
+  "ch": "每&767201_hljg&秒回复&767201_hlbl&%的灵力"
+ },
+ "BattleEffectDesc768111": {
+  "en": "Recover &7681_hfll&% Energy every &7681_hfjg&s",
+  "pt": "Recupera &7681_hfll&% de Energia a cada &7681_hfjg& segundos",
+  "ch": "每&7681_hfjg&秒回复&7681_hfll&%的灵力"
+ },
+ "BattleEffectDesc768401": {
+  "en": "Agility increases by &768401_tsys&%",
+  "pt": "Agilidade aumenta em &768401_tsys&%",
+  "ch": "移动速度提升&768401_tsys&%"
+ },
+ "ConsultTitle1001": {
+  "en": "About Sect Mission...",
+  "pt": "Sobre a Missão da Seita...",
+  "ch": "关于宗门任务…"
+ },
+ "ConsultTitle1002": {
+  "en": "How do I teach Taoist Seed?",
+  "pt": "Como ensino a Semente Daoísta?",
+  "ch": "如何传授道种？"
+ },
+ "ConsultTitle1003": {
+  "en": "How do I obtain Sect resources?",
+  "pt": "Como obtenho recursos da Seita?",
+  "ch": "如何获得宗门资源？"
+ },
+ "ConsultTitle1004": {
+  "en": "How do I expand Sect territory?",
+  "pt": "Como expando o território da Seita?",
+  "ch": "如何扩张宗门领地？"
+ },
+ "ConsultTitle1005": {
+  "en": "How do I redeploy Sect Disciples?",
+  "pt": "Como redistribuo os Discípulos da Seita?",
+  "ch": "如何调配宗门弟子？"
+ },
+ "ConsultTitle1006": {
+  "en": "How do I increase Sect Stats?",
+  "pt": "Como aumento os Atributos da Seita?",
+  "ch": "如何提升宗门属性？"
+ },
+ "ConsultTitle1007": {
+  "en": "How do I get promoted to Sect Leader of my Sect?",
+  "pt": "Como sou promovido a Líder da Seita da minha Seita?",
+  "ch": "如何晋升为本门宗主？"
+ },
+ "ConsultTitle1008": {
+  "en": "How do I relocate the Sect?",
+  "pt": "Como realoco a Seita?",
+  "ch": "如何迁移宗门？"
+ },
+ "ConsultTitle1009": {
+  "en": "How do I get Sect Contribution?",
+  "pt": "Como ganho Contribuição da Seita?",
+  "ch": "如何获得宗门贡献？"
+ },
+ "ConsultTitle1010": {
+  "en": "How do I attack other Sects?",
+  "pt": "Como ataco outras Seitas?",
+  "ch": "如何攻击其他宗门？"
+ },
+ "ConsultTitle1011": {
+  "en": "What is the importance of Sect strategy?",
+  "pt": "Qual é a importância da estratégia da Seita?",
+  "ch": "宗门战略有何作用？"
+ },
+ "ConsultTitle1012": {
+  "en": "What is the Taoist Mind?",
+  "pt": "O que é o Coração do Dao?",
+  "ch": "何为道心？"
+ },
+ "ConsultTitle1013": {
+  "en": "What is the Sect's main Martial Arts?",
+  "pt": "Qual é a principal Arte Marcial da Seita?",
+  "ch": "何为宗门主修功法？"
+ },
+ "ConsultTitle1014": {
+  "en": "How do I increase my Stats?",
+  "pt": "Como aumento meus próprios Atributos?",
+  "ch": "如何提升自身的资质？"
+ },
+ "ConsultTitle1015": {
+  "en": "How do I gain insight into Sect ultimate teachings?",
+  "pt": "Como ganho percepção sobre os ensinamentos supremos da Seita?",
+  "ch": "如何领悟宗门绝学？"
+ },
+ "ConsultTitle1016": {
+  "en": "About the Treasure Pavilion...",
+  "pt": "Sobre o Pavilhão do Tesouro...",
+  "ch": "关于聚宝仙楼…"
+ },
+ "ConsultTitle1017": {
+  "en": "What is the Heaven-chosen?",
+  "pt": "O que é o Escolhido pelo Céu?",
+  "ch": "何为天骄？"
+ },
+ "ConsultTitle1018": {
+  "en": "How do I loot the resources of others?",
+  "pt": "Como saqueio os recursos dos outros?",
+  "ch": "如何掠夺他人的资源？"
+ },
+ "ConsultTitle1019": {
+  "en": "How do I declare war on other Sects?",
+  "pt": "Como declaro guerra a outras Seitas?",
+  "ch": "如何向其他宗门宣战？"
+ },
+ "ConsultTitle1020": {
+  "en": "How do I get more main Martial Arts?",
+  "pt": "Como obtenho mais Artes Marciais principais?",
+  "ch": "如何获得更多的主修功法？"
+ },
+ "DLCSelectRole_Unlock_dangkang_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_doushenfenglazi_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_houyi_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_jingwei_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_jiuweihu_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_kanyushi_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_kuafu_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_langyagezhu_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_mogujing_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_suirenshi_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_wuluo_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCSelectRole_Unlock_zhangsan_D": {
+  "en": "Prerequisites",
+  "pt": "Pré-requisitos",
+  "ch": "解锁条件"
+ },
+ "DLCdungenonSceneName1": {
+  "en": "Ravine of Minds",
+  "pt": "Ravina das Mentes",
+  "ch": "祸根心峡"
+ },
+ "DLCdungenonSceneName2": {
+  "en": "Fiery Landscape",
+  "pt": "Paisagem Flamejante",
+  "ch": "万里炎荒"
+ },
+ "DLCdungenonSceneName3": {
+  "en": "Mirage of Clouds",
+  "pt": "Miragem das Nuvens",
+  "ch": "云鸿胜景"
+ },
+ "DLCdungenonSceneName4": {
+  "en": "Skies Beyond",
+  "pt": "Céus Além",
+  "ch": "浮云太空"
+ },
+ "DefenseaultKeysKeyText_210": {
+  "en": "Map",
+  "pt": "Mapa"
+ },
+ "DevilDemonAbsorb_Tip": {
+  "en": "This Mythical Beast can be absorbed into the Gourd",
+  "pt": "Esta Fera Mítica pode ser absorvida na Cabaça",
+  "ch": "该大妖兽可被炼妖壶吸收"
+ },
+ "DevilDemonBattle_State1": {
+  "en": "The Artifact is under cooldown",
+  "pt": "O Artefato está em cooldown",
+  "ch": "神器在冷却中"
+ },
+ "DevilDemonBattle_State2": {
+  "en": "Imp is defeated",
+  "pt": "O Diabrete foi derrotado",
+  "ch": "壶妖已战败"
+ },
+ "DevilDemonBroken_Tip": {
+  "en": "The Mythical Gourd is broken",
+  "pt": "A Cabaça Mítica está quebrada",
+  "ch": "炼妖壶已损坏"
+ },
+ "DramaSelectItem6000042": {
+  "en": "Select 3 fire manuals to give to the girl",
+  "pt": "Selecione 3 manuais de fogo para dar à garota",
+  "ch": "选择3本火属性功法秘籍给少女"
+ },
+ "FAQ_text_info": {
+  "en": "<size=28><align=\"center\"><color=#000000><blod>Lag During Battles</blod></color></align></size>\n1.<indent=2.5%>Casting too many skills in a short time may lead to a lag. You may reduce the lag by using skills less frequently.</indent>\n2.<indent=2.5%>The game may also experience a lag when too many units (allies and enemies) are in the same room. If so, please try to fight with fewer summoned units.</indent>\n3.<indent=2.5%>You may also apply lower Graphics and VFX quality in battles for better performance by following these steps: Settings - Battle Graphics Quality (and Battle VFX Quality) - Low.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Too Long Time for Monthly Summary Calculation</blod></color></align></size>\n1.<indent=2.5%>The time spent on the calculation at the end of every month is affected by the amount of existing NPCs. You may select Sparse NPCs in creating a new save for a shorter calculation time.</indent>\n2.<indent=2.5%>Some Mods will affect the end-of-month calculation time. You may play with the Mods unchecked to see if the time needed has been reduced.</indent>\n3.<indent=2.5%>There are some months with specific events like Auctions or Sect Tournaments that require additional computing. The game will take a longer time in the end-of-month calculation of them than in other months.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Freeze or Crash to Desktop in Playing</blod></color></align></size>\n<size=22><color=#000000><blod>For modded save files:</blod></color></size>\n1.<indent=2.5%>You may uncheck the mods and fix the save file with corresponding tools in the Workshop.</indent>\n2.<indent=2.5%>Some mods may be incompatible with the current game version. You may consult their creators for further update plans.</indent>\n3.<indent=2.5%>You may provide us necessary files at <link=\"005\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"006\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze or CTD, as well as more details such as what were you about to do or the events triggered at that time. Game logs may be found at <link=\"007\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size><size=18><color=#ff0000> (If the username here cannot be found, please go to C:\\\\Users and check if any of the folders corresponds to the username you're looking for.)</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"008\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> </indent>\n\n<size=22><color=#000000><blod>For unmodded save files:</blod></color></size>\n<indent=2.5%>Please kindly provide us necessary files at <link=\"001\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"002\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze or CTD, as well as more details such as what were you about to do or the events triggered at that time. Game logs may be found at <link=\"009\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size></indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Freeze in Loading Save File</blod></color></align></size><size=24><align=\"center\">\n<color=#000000><blod>(Game stops responding on the loading screen)</blod></color></align></size>\n1.<indent=2.5%>If your save file has been modded, please uncheck the mods and fix the save file with the corresponding tools in the Workshop. Please note that the tools may be unable to fix save files that are too extensively modified.</indent>\n2.<indent=2.5%>Some mods may be incompatible with the current game version. You may consult their creators for further update plans.</indent>\n3.<indent=2.5%>Please kindly provide us necessary files at <link=\"003\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> or <link=\"004\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (click to copy)</color></size> to help us find and fix the problem. These files may include your save file and game logs (Player.log and Player-prev.log) at the time of Freeze, as well as more details at that time. Game logs may be found at <link=\"0011\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size> You may also send us the Debug folder (if any) at that time, which may be found at <link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\(your username)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (click to open).</color></size></indent>",
+  "pt": "<size=28><align=\"center\"><color=#000000><blod>Lag Durante Batalhas</blod></color></align></size>\n1.<indent=2.5%>A execução de muitas habilidades em um curto período de tempo pode causar lag. Você pode reduzir o lag usando habilidades com menos frequência.</indent>\n2.<indent=2.5%>O jogo também pode experimentar lag quando há muitas unidades (aliados e inimigos) na mesma sala. Se isso acontecer, tente lutar com menos unidades convocadas.</indent>\n3.<indent=2.5%>Você também pode aplicar qualidade gráfica e de efeitos visuais mais baixa nas batalhas para obter melhor desempenho, seguindo estas etapas: Configurações - Qualidade Gráfica de Batalha (e Qualidade de Efeitos Visuais de Batalha) - Baixa.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Tempo Longo de Cálculo de Resumo Mensal</blod></color></align></size>\n1.<indent=2.5%>O tempo gasto no cálculo do final de cada mês é afetado pela quantidade de NPCs existentes. Você pode selecionar NPCs Esparsos na criação de um novo save para um tempo de cálculo mais curto.</indent>\n2.<indent=2.5%>Alguns Mods podem afetar o tempo de cálculo do final do mês. Você pode jogar sem os Mods para ver se o tempo necessário foi reduzido.</indent>\n3.<indent=2.5%>Existem alguns meses com eventos específicos, como Leilões ou Torneios de Seita, que exigem cálculos adicionais. O jogo levará mais tempo no cálculo do final do mês para esses meses do que para outros.</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Congelamento ou Fechamento Inesperado do Jogo</blod></color></align></size>\n<size=22><color=#000000><blod>Para arquivos de save modificados:</blod></color></size>\n1.<indent=2.5%>Você pode desmarcar os mods e corrigir o arquivo de save com as ferramentas correspondentes na Oficina.</indent>\n2.<indent=2.5%>Alguns mods podem ser incompatíveis com a versão atual do jogo. Você pode consultar os criadores para obter mais informações sobre planos de atualização.</indent>\n3.<indent=2.5%>Você pode fornecer arquivos necessários para <link=\"005\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (clique para copiar)</color></size> ou <link=\"006\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (clique para copiar)</color></size> para nos ajudar a encontrar e corrigir o problema. Esses arquivos podem incluir seu arquivo de save e registros de jogo (Player.log e Player-prev.log) no momento do congelamento ou fechamento inesperado, bem como mais detalhes sobre o que você estava fazendo ou os eventos desencadeados naquele momento. Os registros de jogo podem ser encontrados em <link=\"007\"><color=#004FCA><u>C:\\\\Usr\\\\(seu nome de usuário)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (clique para abrir).</color></size><size=18><color=#ff0000> (Se o nome de usuário aqui não for encontrado, vá para C:\\\\Users e verifique se há uma pasta correspondente ao nome de usuário que você está procurando.)</color></size> Você também pode enviar a pasta Debug (se houver) naquele momento, que pode ser encontrada em <link=\"008\"><color=#004FCA><u>C:\\\\Usr\\\\(seu nome de usuário)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (clique para abrir).</color></size> </indent>\n\n<size=22><color=#000000><blod>Para arquivos de save não modificados:</blod></color></size>\n<indent=2.5%>Por favor, forneça arquivos necessários para <link=\"001\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (clique para copiar)</color></size> ou <link=\"002\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (clique para copiar)</color></size> para nos ajudar a encontrar e corrigir o problema. Esses arquivos podem incluir seu arquivo de save e registros de jogo (Player.log e Player-prev.log) no momento do congelamento ou fechamento inesperado, bem como mais detalhes sobre o que você estava fazendo ou os eventos desencadeados naquele momento. Os registros de jogo podem ser encontrados em <link=\"009\"><color=#004FCA><u>C:\\\\Usr\\\\(seu nome de usuário)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (clique para abrir).</color></size> Você também pode enviar a pasta Debug (se houver) naquele momento, que pode ser encontrada em <link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\(seu nome de usuário)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (clique para abrir).</color></size></indent>\n\n<size=28><align=\"center\"><color=#000000><blod>Congelamento ao Carregar Arquivo de Save</blod></color></align></size><size=24><align=\"center\">\n<color=#000000><blod>(O jogo trava na tela de carregamento)</blod></color></align></size>\n1.<indent=2.5%>Se o seu arquivo de save foi modificado, tente desmarcar os mods e corrigir o arquivo de save com as ferramentas correspondentes na Oficina. Observe que as ferramentas podem não conseguir corrigir arquivos de save que foram modificados extensivamente.</indent>\n2.<indent=2.5%>Alguns mods podem ser incompatíveis com a versão atual do jogo. Você pode consultar os criadores para obter mais informações sobre planos de atualização.</indent>\n3.<indent=2.5%>Por favor, forneça arquivos necessários para <link=\"003\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a> (clique para copiar)</color></size> ou <link=\"004\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a> (clique para copiar)</color></size> para nos ajudar a encontrar e corrigir o problema. Esses arquivos podem incluir seu arquivo de save e registros de jogo (Player.log e Player-prev.log) no momento do congelamento, bem como mais detalhes sobre o que você estava fazendo ou os eventos desencadeados naquele momento. Os registros de jogo podem ser encontrados em <link=\"0011\"><color=#004FCA><u>C:\\\\Usr\\\\(seu nome de usuário)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a> (clique para abrir).</color></size> Você também pode enviar a pasta Debug (se houver) naquele momento, que pode ser encontrada em <link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\(seu nome de usuário)\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a> (clique para abrir).</color></size></indent>",
+  "ch": "<size=28><align=\"center\"><color=#000000><blod>游戏战斗时卡顿的问题</blod></color></align></size>\n1.<indent=2.5%>技能施放频率非常高时，可能会引起卡顿，可尝试降低技能的使用频率。</indent>\n2.<indent=2.5%>某些副本的同屏单位（包括召唤物和敌人）数量较多时，也可能会引起卡顿，可尝试降低召唤物的数量。</indent>\n3.<indent=2.5%>尝试降低游戏图像及特效质量，可在设置中找到战斗图像质量选项和战斗特效质量选项，均调成【低】即可。</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>游戏过月结算时间长的问题。</blod></color></align></size>\n1.<indent=2.5%>NPC数量较多时，可能会使过月结算时间变长，此情况可以在创建存档时，选择NPC人数【较少】进入游戏。</indent>\n2.<indent=2.5%>使用了一些MOD也有可能会使过月时间变长，此情况下可以尝试取消MOD进入游戏。</indent>\n3.<indent=2.5%>在某些特定月份的时候，因为要执行一些系统运算（如拍卖会、宗门大比等），也可能会使当月的结算时间变长，此类问题一般不会经常出现。</indent>\n\n<size=28><align=\"center\"><color=#000000><blod>游戏运行中卡死或闪退的问题</blod></color></align></size>\n<size=22><color=#000000><blod>若使用了MOD，在游玩过程中时发生卡死或闪退。</blod></color></size>\n1.<indent=2.5%>可尝试取消MOD后，使用创意工坊中的【修复存档数据】MOD将存档修复后再进入游戏。</indent>\n2.<indent=2.5%>若游戏进行了版本更新，可能是MOD未适配最新版本，可等待MOD作者更新适配。</indent>\n3.<indent=2.5%>可提供卡死或闪退的问题说明（比如进行了什么操作或是触发了什么事件等）、存档、游戏卡死或闪退时的日志:<link=\"007\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录）</color></size><size=18><color=#ff0000>（路径中“用户”如果找不到，请打开“C:\\\\Users”目录，此目录下的文件夹都是您电脑中的用户文件数据。）</color></size>目录下的Player.log 和 Player-prev.log及卡死或闪退时的Debug目录:<link=\"008\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录，若没有此目录则不用发送此目录）</color></size>发送至反馈邮箱：<link=\"005\"><color=#0000ff><u>bug@guigu.fun </u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> 或 <link=\"006\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> </indent>\n\n<size=22><color=#000000><blod>若没有使用MOD，在游玩过程中发生卡死或闪退。</blod></color></size>\n<indent=2.5%>可提供卡死或闪退的问题说明（比如进行了什么操作或是触发了什么事件等）、存档、游戏卡死或闪退时的日志:<link=\"009\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录）</color></size>目录下的Player.log 和 Player-prev.log及卡死或闪退时的Debug目录:<link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录，若没有此目录则不用发送此目录）</color></size>发送至反馈邮箱：<link=\"001\"><color=#0000ff><u>bug@guigu.fun</u></color></link> <size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> 或 <link=\"002\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> </indent>\n\n<size=28><align=\"center\"><color=#000000><blod>进入存档时卡死的问题</blod></color></align></size><size=24><align=\"center\">\n<color=#000000><blod>（一直卡在加载存档的界面中，无法进入存档）</blod></color></align></size>\n1.<indent=2.5%>若存档使用了MOD，可尝试取消MOD后，使用创意工坊中的【修复存档数据】MOD将存档修复后再进入游戏。但如果存档使用MOD修改的数据较深的话，可能无法修复成功。</indent>\n2.<indent=2.5%>若游戏进行了版本更新，可能是MOD未适配最新版本，可等待MOD作者更新适配。</indent>\n3.<indent=2.5%>可提供卡死的问题说明、存档、游戏卡死或闪退时的日志:<link=\"0011\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录）</color></size>目录下的Player.log 和 Player-prev.log及卡死或闪退时的Debug目录:<link=\"0010\"><color=#004FCA><u>C:\\\\Usr\\\\用户\\\\AppData\\\\LocalLow\\\\guigugame\\\\guigubahuang\\\\Steam\\\\Debuglog</u></color></link><size=18><color=#1a1a1a>（点击链接跳转到目录，若没有此目录则不用发送此目录）</color></size>发送至反馈邮箱：<link=\"003\"><color=#0000ff><u>bug@guigu.fun</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> 或 <link=\"004\"><color=#0000ff><u>info@lightning.games</u></color></link><size=18><color=#1a1a1a>（点击链接复制邮箱）</color></size> </indent>"
+ },
+ "FAQ_text_title": {
+  "en": "FAQ",
+  "pt": "FAQ",
+  "ch": "FAQ"
+ },
+ "GeomancySkilDesc2011012": {
+  "en": "Learn Windseek to expand the area your Geomancy covers.",
+  "pt": "Aprenda Busca do Vento para expandir a área que sua Geomancia cobre.",
+  "ch": "习得寻风术后，可提升堪舆的范围。"
+ },
+ "GeomancySkilDesc2011013": {
+  "en": "Learn Windseek to expand the area your Geomancy covers.",
+  "pt": "Aprenda Busca do Vento para expandir a área que sua Geomancia cobre.",
+  "ch": "习得寻风术后，可提升堪舆的范围。"
+ },
+ "GeomancySkilDesc2011014": {
+  "en": "Learn Windseek to expand the area your Geomancy covers.",
+  "pt": "Aprenda Busca do Vento para expandir a área que sua Geomancia cobre.",
+  "ch": "习得寻风术后，可提升堪舆的范围。"
+ }
+}

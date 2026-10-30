@@ -1,0 +1,1203 @@
+{
+ "dramaSelectItem6106901": {
+  "en": "Give the tributes to the ginseng",
+  "pt": "Ofereça os tributos ao ginseng",
+  "ch": "将贡品献给人参娃娃"
+ },
+ "dramaSelectItem6107571": {
+  "en": "Give the spiritual fruit to the Shennong Member",
+  "pt": "Entregue o fruto espiritual ao membro de Shennong",
+  "ch": "将灵果交还给神农族人"
+ },
+ "dramaSelectItem6300241": {
+  "en": "Select an elixir for the old lady",
+  "pt": "Selecione um elixir para a senhora idosa",
+  "ch": "选择1个丹药给老婆婆"
+ },
+ "drama_dungeon91BuildText": {
+  "en": "You're gonna do what with {name|B}...?",
+  "pt": "O que você vai fazer com {name|B}...?",
+  "ch": "要和{name|B}做什么…"
+ },
+ "drama_jibalaile": {
+  "en": "Chicken King's Here!",
+  "pt": "O Rei dos Frangos está aqui!",
+  "ch": "大哥来了！"
+ },
+ "drama_kuafu1": {
+  "en": "Agar uses <r>300</r> vitality to move every month. Agar will die at <r>0</r> vitality.",
+  "pt": "Agar usa <r>300</r> de vitalidade para se mover todo mês. Agar morrerá ao atingir <r>0</r> de vitalidade.",
+  "ch": "阿夸每个月移动都需要消耗<r>300</r>点体力。当阿夸的体力为<r>0</r>时，阿夸则会死亡。"
+ },
+ "drama_kuafu10": {
+  "en": "Agar uses <r>50</r> health to move every month. Agar might gain negative status effects if his health is too low.",
+  "pt": "Agar usa <r>50</r> de saúde para se mover todo mês. Agar pode receber efeitos negativos se sua saúde estiver muito baixa.",
+  "ch": "阿夸每个月移动都需要消耗<r>50</r>点健康。如果阿夸的健康过低，则阿夸每个月都有概率会获得一个负面效果。"
+ },
+ "drama_kuafu11": {
+  "en": "When Agar's health is lower than <r>20</r>%, Agar will have an 80% chance to gain a negative status effect at the end of the month.",
+  "pt": "Quando a saúde de Agar estiver abaixo de <r>20</r>%, ele terá 80% de chance de receber um efeito negativo no fim do mês.",
+  "ch": "阿夸的健康小于<r>20</r>%时，每个月阿夸会有80%的概率获得一个负面效果。"
+ },
+ "drama_kuafu12": {
+  "en": "When Agar's health is lower than <r>40</r>%, Agar will have a 60% chance to gain a negative status effect at the end of the month.",
+  "pt": "Quando a saúde de Agar estiver abaixo de <r>40</r>%, ele terá 60% de chance de receber um efeito negativo no fim do mês.",
+  "ch": "阿夸的健康小于<r>40</r>%时，每个月阿夸会有60%的概率获得一个负面效果。"
+ },
+ "drama_kuafu13": {
+  "en": "When Agar's health is lower than <r>60</r>%, Agar will have a 40% chance to gain a negative status effect at the end of the month.",
+  "pt": "Quando a saúde de Agar estiver abaixo de <r>60</r>%, ele terá 40% de chance de receber um efeito negativo no fim do mês.",
+  "ch": "阿夸的健康小于<r>60</r>%时，每个月阿夸会有40%的概率获得一个负面效果。"
+ },
+ "drama_kuafu14": {
+  "en": "When Agar's health is lower than <r>80</r>%, Agar will have a 20% chance to gain a negative status effect at the end of the month.",
+  "pt": "Quando a saúde de Agar estiver abaixo de <r>80</r>%, ele terá 20% de chance de receber um efeito negativo no fim do mês.",
+  "ch": "阿夸的健康小于<r>80</r>%时，每个月阿夸会有20%的概率获得一个负面效果。"
+ },
+ "drama_kuafu15": {
+  "en": "When Agar's health is higher than <g>80</g>%, Agar will not gain any negative status effects at the end of the month.",
+  "pt": "Quando a saúde de Agar estiver acima de <g>80</g>%, ele não receberá efeitos negativos no fim do mês.",
+  "ch": "阿夸的健康大于<g>80</g>%时，阿夸不会获得任何负面效果。"
+ },
+ "drama_kuafu16": {
+  "en": "You can give Agar water to help him replenish health.",
+  "pt": "Você pode dar água a Agar para ajudá-lo a repor saúde.",
+  "ch": "可以通过给予阿夸水源来帮助阿夸回复健康。"
+ },
+ "drama_kuafu2": {
+  "en": "You can give Agar spiritual fruits to help him replenish vitality.",
+  "pt": "Você pode dar frutos espirituais a Agar para ajudá-lo a repor vitalidade.",
+  "ch": "可以通过给予阿夸灵果来帮助阿夸回复体力。"
+ },
+ "drama_kuafu3": {
+  "en": "Agar uses <r>100</r> vitality to move every month. Agar's vitality will affect his monthly move distance.",
+  "pt": "Agar usa <r>100</r> de vitalidade para se mover todo mês. Sua vitalidade afeta a distância mensal de movimento.",
+  "ch": "阿夸每个月移动都需要消耗<r>100</r>点精力，精力会影响阿夸每个月所移动的距离。"
+ },
+ "drama_kuafu7": {
+  "en": "When Agar's vitality is larger than <g>60</g>%, Agar's monthly move distance will increase by 3.",
+  "pt": "Quando a vitalidade de Agar for maior que <g>60</g>%, a distância de movimento mensal de Agar aumentará em 3.",
+  "ch": "阿夸的精力大于<g>60</g>%时，每个月阿夸的移动距离<g>+3</g>。"
+ },
+ "drama_kuafu8": {
+  "en": "When Agar's vitality is larger than <g>80</g>%, Agar's monthly move distance will increase by 4.",
+  "pt": "Quando a vitalidade de Agar for maior que <g>80</g>%, a distância de movimento mensal de Agar aumentará em 4.",
+  "ch": "阿夸的精力大于<g>80</g>%时，每个月阿夸的移动距离<g>+4</g>。"
+ },
+ "drama_kuafu9": {
+  "en": "You can give Agar water to help him replenish stamina.",
+  "pt": "Você pode dar água a Agar para ajudar a repor o vigor.",
+  "ch": "可以通过给予阿夸水源来帮助阿夸回复精力。"
+ },
+ "drama_lisilaiye": {
+  "en": "Jo's Here!",
+  "pt": "Jo está aqui!",
+  "ch": "李四来也！"
+ },
+ "drama_monthLog20467": {
+  "en": "Rain pours in Mu Xian and the water of the <b>Wei</b> rises. Someone extraordinary seems to have appeared.",
+  "pt": "Chuvas torrenciais caem em Mu Xian e as águas do rio <b>Wei</b> sobem. Alguém extraordinário parece ter aparecido.",
+  "ch": "暮仙州天降暴雨，<b>渭河</b>水势大涨，似有超凡之人现世。"
+ },
+ "drama_monthLog21425": {
+  "en": "Some said that there are new Traditional manual on Martial Arts available in the Main Manual Pavilion of the Alliance! Perhaps it is an opportunity to find uncommon manuals there.",
+  "pt": "Dizem que há novos manuais tradicionais de Artes Marciais disponíveis no Pavilhão dos Manuais Principal da Aliança! Talvez seja uma oportunidade para encontrar manuais incomuns lá.",
+  "ch": "听说仙盟的琅琊主阁又进了各种各样的传承武学秘籍！若有机会，不妨去看看。"
+ },
+ "dramakuafu_dangqianzhuangtai": {
+  "en": "Current Status",
+  "pt": "Status Atual",
+  "ch": "当前状态"
+ },
+ "dramakuafu_jiyuwupin": {
+  "en": "Give item",
+  "pt": "Dar item",
+  "ch": "给予物品"
+ },
+ "dramakuafu_meiyueyidong": {
+  "en": "Monthly Move Distance: {0} Space(s)",
+  "pt": "Distância de Movimento Mensal: {0} espaço(s)",
+  "ch": "每月移动范围：{0}格"
+ },
+ "dramakuafu_qiyun": {
+  "en": "Destiny: ",
+  "pt": "Destino: ",
+  "ch": "气运："
+ },
+ "duihua": {
+  "en": "Dialogue",
+  "pt": "Diálogo",
+  "ch": "对话"
+ },
+ "dungeonBoss100451": {
+  "en": "Sage Tianxuan",
+  "pt": "Sábio Tianxuan",
+  "ch": "天玄真人"
+ },
+ "dungeonBoss100453": {
+  "en": "Bitterfly Spirit",
+  "pt": "Espírito Borboleta",
+  "ch": "蝶怨仙子"
+ },
+ "dungeonInfo_zeirenyingzai": {
+  "en": "A group of bandits is gathered here",
+  "pt": "Um grupo de bandidos está reunido aqui",
+  "ch": "此处聚集了一帮山贼"
+ },
+ "dungeon_active_bribe_succeed": {
+  "en": "Monsters calmed down!\nThis dungeon has become easier.",
+  "pt": "Monstros acalmados!\nEsta masmorra ficou mais fácil.",
+  "ch": "收买内应成功！\n你进入此副本时，难度将会降低。"
+ },
+ "dungeon_active_desc1": {
+  "en": "Dispel all monsters from this area.",
+  "pt": "Disperse todos os monstros desta área.",
+  "ch": "直接清除掉此地聚集的怪物。"
+ },
+ "dungeon_active_desc2": {
+  "en": "Spend Spirit Stones to calm down the monsters. This dungeon will become easier.",
+  "pt": "Gaste Pedras Espirituais para acalmar os monstros. Esta masmorra ficará mais fácil.",
+  "ch": "花费灵石，收买内应，则在进入战斗时，此副本的难度会因为有内应的帮助而降低。"
+ },
+ "dungeon_active_desc3": {
+  "en": "Spend Spirit Stones to empower the monsters. This dungeon will become harder.",
+  "pt": "Forneça Pedras Espirituais para fortalecer os monstros. Esta masmorra ficará mais difícil.",
+  "ch": "为盘踞在此的怪物提供灵石支持，可使其变得更加强大，此副本的难度也会因此而提高。"
+ },
+ "dungeon_active_disperse_failed": {
+  "en": "Failed to dispel!",
+  "pt": "Falha ao dispersar!",
+  "ch": "驱散失败！"
+ },
+ "dungeon_active_disperse_succeed": {
+  "en": "Dispelled!\nMonsters in this area have disappeared.",
+  "pt": "Dispersados!\nOs monstros desta área desapareceram.",
+  "ch": "驱散成功！\n此地的怪物已消失。"
+ },
+ "dungeon_active_name1": {
+  "en": "Dispel (success rate: {0})",
+  "pt": "Dispersar (taxa de sucesso: {0})",
+  "ch": "驱散（成功率{0}）"
+ },
+ "dungeon_active_name2": {
+  "en": "Calm Down ({0} Spirit Stones)",
+  "pt": "Acalmar ({0} Pedras Espirituais)",
+  "ch": "收买内应（{0}灵石）"
+ },
+ "dungeon_active_name3": {
+  "en": "Empower ({0} Spirit Stones)",
+  "pt": "Fortalecer ({0} Pedras Espirituais)",
+  "ch": "暗中支持（{0}灵石）"
+ },
+ "dungeon_active_support_succeed": {
+  "en": "Monsters empowered!\nThis dungeon has become harder.",
+  "pt": "Monstros fortalecidos!\nEsta masmorra ficou mais difícil.",
+  "ch": "暗中支持成功！\n此副本的难度已经提高了。"
+ },
+ "dungeon_enemy_num1": {
+  "en": "Very few",
+  "pt": "Muito poucos",
+  "ch": "少量"
+ },
+ "dungeon_enemy_num2": {
+  "en": "A few",
+  "pt": "Poucos",
+  "ch": "较少"
+ },
+ "dungeon_enemy_num4": {
+  "en": "Quite a few",
+  "pt": "Bastante",
+  "ch": "较多"
+ },
+ "dungeon_enemy_num5": {
+  "en": "A lot",
+  "pt": "Muitos",
+  "ch": "大量"
+ },
+ "dungeon_enemy_num6": {
+  "en": "A massive amount",
+  "pt": "Uma quantidade enorme",
+  "ch": "极多"
+ },
+ "dungeon_power_desc1": {
+  "en": "Easy",
+  "pt": "Fácil",
+  "ch": "容易"
+ },
+ "dungeon_power_desc3": {
+  "en": "Hard",
+  "pt": "Difícil",
+  "ch": "困难"
+ },
+ "dungeon_power_desc4": {
+  "en": "Nightmare",
+  "pt": "Pesadelo",
+  "ch": "极难"
+ },
+ "dungeon_power_desc5": {
+  "en": "Hell",
+  "pt": "Inferno",
+  "ch": "地狱"
+ },
+ "dungeon_typeDesc1": {
+  "en": "Death Fight",
+  "pt": "Luta de Vida ou Morte",
+  "ch": "生死决战"
+ },
+ "dungeon_typeDesc10": {
+  "en": "Resource Takeover",
+  "pt": "Tomada de Recursos",
+  "ch": "资源占领战"
+ },
+ "dungeon_typeDesc100411": {
+  "en": "Challenge",
+  "pt": "Desafio",
+  "ch": "挑战"
+ },
+ "dungeon_typeDesc100450": {
+  "en": "Hidden Place",
+  "pt": "Local Oculto",
+  "ch": "隐秘之处"
+ },
+ "dungeon_typeDesc101011": {
+  "en": "Labor",
+  "pt": "Trabalho",
+  "ch": "劳动"
+ },
+ "dungeon_typeDesc101012": {
+  "en": "Labor",
+  "pt": "Trabalho",
+  "ch": "劳动"
+ },
+ "dungeon_typeDesc120": {
+  "en": "Sect Points Race",
+  "pt": "Corrida de Pontos da Seita",
+  "ch": "宗门积分赛"
+ },
+ "dungeon_typeDesc121": {
+  "en": "Sect Open Challenge Match",
+  "pt": "Desafio Aberto da Seita",
+  "ch": "宗门擂台赛"
+ },
+ "dungeon_typeDesc122": {
+  "en": "Sect Array Core Battle",
+  "pt": "Batalha do Núcleo da Formação da Seita",
+  "ch": "宗门阵眼战"
+ },
+ "dungeon_typeDesc123": {
+  "en": "Sect battle",
+  "pt": "Batalha da Seita",
+  "ch": "宗门战"
+ },
+ "dungeon_typeDesc124": {
+  "en": "Sect Flying Canoe Battle",
+  "pt": "Batalha da Canoa Voadora da Seita",
+  "ch": "宗门飞舟战"
+ },
+ "dungeon_typeDesc125": {
+  "en": "Sect Guardian Battle",
+  "pt": "Batalha do Guardião da Seita",
+  "ch": "宗门神兽战"
+ },
+ "dungeon_typeDesc141": {
+  "en": "Lightning Retribution",
+  "pt": "Retribuição do Relâmpago",
+  "ch": "九霄天雷劫"
+ },
+ "dungeon_typeDesc150": {
+  "en": "Array of Gathering Nether Feathers",
+  "pt": "Formação da Coleta das Penas do Submundo",
+  "ch": "五冥凝羽阵"
+ },
+ "dungeon_typeDesc2": {
+  "en": "Spar",
+  "pt": "Duelo",
+  "ch": "切磋"
+ },
+ "dungeon_typeDesc3": {
+  "en": "Trial of Lightning",
+  "pt": "Prova do Relâmpago",
+  "ch": "雷劫"
+ },
+ "dungeon_typeDesc4": {
+  "en": "Loot",
+  "pt": "Pilhagem",
+  "ch": "劫镖"
+ },
+ "dungeon_typeDesc5": {
+  "en": "Explore",
+  "pt": "Exploração",
+  "ch": "探索"
+ },
+ "dungeon_typeDesc6": {
+  "en": "Conquest",
+  "pt": "Conquista",
+  "ch": "讨伐战"
+ },
+ "dungeon_typeDesc7": {
+  "en": "Skirmish",
+  "pt": "Escaramuça",
+  "ch": "遭遇战"
+ },
+ "dungeon_typeDesc8": {
+  "en": "Adventure Battle",
+  "pt": "Batalha de Aventura",
+  "ch": "奇遇战"
+ },
+ "dungeon_typeDesc9": {
+  "en": "Resource Raid",
+  "pt": "Incursão por Recursos",
+  "ch": "资源掠夺战"
+ },
+ "dungeon_typeDesc_Mount1": {
+  "en": "Path to emptiness",
+  "pt": "Caminho do Vazio",
+  "ch": "蹈虚幽径"
+ },
+ "dungeon_typeDesc_Mount2": {
+  "en": "Sandbank of mist",
+  "pt": "Atol de Névoa",
+  "ch": "雾海烟渚"
+ },
+ "dungeon_typeDesc_Mount3": {
+  "en": "Altar of immortality",
+  "pt": "Altar da Imortalidade",
+  "ch": "望仙圣台"
+ },
+ "dungeon_typeDesc_Mount4": {
+  "en": "Junction of Earth's veins",
+  "pt": "Convergência das Veias da Terra",
+  "ch": "地脉关元"
+ },
+ "dungeon_typeDesc_Mount5": {
+  "en": "Sea of images",
+  "pt": "Mar de Ilusões",
+  "ch": "妄象镜海"
+ },
+ "dungeon_typeDesc_Mount6": {
+  "en": "Top of Tian Yuan Mountain",
+  "pt": "Pico da Montanha Tian Yuan",
+  "ch": "天元山巅"
+ },
+ "dungeon_typeDesc_Mount7": {
+  "en": "Ghost Valley",
+  "pt": "Vale dos Fantasmas",
+  "ch": "世外鬼谷"
+ },
+ "dungeon_victory_Mount_1": {
+  "en": "Defeat Jo's Huge Flying Sword.",
+  "pt": "Derrotar a Espada Voadora Gigante de Jo.",
+  "ch": "击败巨李飞剑。"
+ },
+ "dungeon_victory_Mount_2": {
+  "en": "Defeat Black Dragon.",
+  "pt": "Derrotar o Dragão Negro.",
+  "ch": "击败苍龙。"
+ },
+ "dungeon_victory_Mount_3": {
+  "en": "Defeat Feng Lixi.",
+  "pt": "Derrotar Feng Lixi.",
+  "ch": "击败风里希。"
+ },
+ "dungeon_victory_Mount_4": {
+  "en": "Defeat Hengtian.",
+  "pt": "Derrotar Hengtian.",
+  "ch": "击败衡天。"
+ },
+ "dungeon_victory_Mount_5": {
+  "en": "Defeat Night Rain.",
+  "pt": "Derrotar Chuva Noturna.",
+  "ch": "击败夜雨楼。"
+ },
+ "dungeon_victory_Mount_6": {
+  "en": "Defeat Hengtian.",
+  "pt": "Derrote Hengtian.",
+  "ch": "击败衡天。"
+ },
+ "dungeon_victory_Mount_7": {
+  "en": "Defeat Zhang San.",
+  "pt": "Derrote Zhang San.",
+  "ch": "击败张三。"
+ },
+ "dungeon_victory_desc_1": {
+  "en": "Kill the Mythical Beast.",
+  "pt": "Mate a Fera Mítica.",
+  "ch": "击杀怪物的大妖兽。"
+ },
+ "dungeon_victory_desc_100": {
+  "en": "Defeat your opponent.",
+  "pt": "Derrote seu oponente.",
+  "ch": "击败对方。"
+ },
+ "dungeon_victory_desc_100071": {
+  "en": "Defeat the enemy and open the chest.",
+  "pt": "Derrote o inimigo e abra o baú.",
+  "ch": "击败敌人，开启宝箱。"
+ },
+ "dungeon_victory_desc_100081": {
+  "en": "Open the chest.",
+  "pt": "Abra o baú.",
+  "ch": "开启宝箱。"
+ },
+ "dungeon_victory_desc_100092": {
+  "en": "Kill as many enemies as possible within the time limit.",
+  "pt": "Mate o máximo de inimigos possível dentro do limite de tempo.",
+  "ch": "在限定时间内击杀尽可能多的敌人"
+ },
+ "dungeon_victory_desc_101": {
+  "en": "Story completed.",
+  "pt": "Evento concluído.",
+  "ch": "完成事件。"
+ },
+ "dungeon_victory_desc_101001": {
+  "en": "Take the challenge of defeating Xuanming, the deity of Water.",
+  "pt": "Aceite o desafio de derrotar Xuanming, a Divindade da Água.",
+  "ch": "迎接挑战，战胜水神玄冥。"
+ },
+ "dungeon_victory_desc_101004": {
+  "en": "Defeat Sunny and Bingyi.",
+  "pt": "Derrote Sunny e Bingyi.",
+  "ch": "制服圣阳和冰夷。"
+ },
+ "dungeon_victory_desc_101005": {
+  "en": "Take the challenge of defeating the Mirror Image of Houtu.",
+  "pt": "Aceite o desafio de derrotar a Imagem de Espelho de Houtu.",
+  "ch": "迎接挑战，击败后土幻身。"
+ },
+ "dungeon_victory_desc_101011": {
+  "en": "Finish daily life event.",
+  "pt": "Conclua o evento da vida diária.",
+  "ch": "完成生活事件。"
+ },
+ "dungeon_victory_desc_101012": {
+  "en": "Finish daily life event.",
+  "pt": "Conclua o evento da vida diária.",
+  "ch": "完成生活事件。"
+ },
+ "dungeon_victory_desc_101013": {
+  "en": "Defeat the mysterious Taoist.",
+  "pt": "Derrote o misterioso Daoísta.",
+  "ch": "制服神秘道人"
+ },
+ "dungeon_victory_desc_141": {
+  "en": "Endure the trials prepared for the Cultivators by the Law of the world",
+  "pt": "Resista a todos os testes preparados pela Lei do mundo para os Cultivadores.",
+  "ch": "抵御住八荒天地法则对意欲登仙之人的全部考验"
+ },
+ "dungeon_victory_desc_150": {
+  "en": "Defeat all mirror images of Nether Feathers, merge them and enhance them to the last stage",
+  "pt": "Derrote todas as Imagens de Espelho das Penas do Submundo, fundindo-as e aprimorando-as até o estágio final.",
+  "ch": "战胜全部冥羽幻身，融合冥羽并使其强化到最后阶段"
+ },
+ "dungeon_victory_desc_2": {
+  "en": "Kill all monsters.",
+  "pt": "Mate todos os Monstros.",
+  "ch": "击杀所有怪物。"
+ },
+ "dungeon_victory_desc_2303": {
+  "en": "Please hold for 30s in the Mystic Realm, till the bamboo spears stop falling.",
+  "pt": "Resista por 30s no Reino Místico até que as lanças de bambu parem de cair.",
+  "ch": "请在秘境中坚持30秒，直到竹矛不再落下。"
+ },
+ "dungeon_victory_desc_2380": {
+  "en": "Please defeat and capture the Monster within 120s. Or the Monster will know your intention and flee.",
+  "pt": "Derrote e capture o Monstro em 120s. Caso contrário, o Monstro perceberá sua intenção e fugirá.",
+  "ch": "请在120秒内将妖兽击败拿下，否则妖兽便会察觉你意图远遁而去。"
+ },
+ "dungeon_victory_desc_3": {
+  "en": "Kill the Mythical Beast within the time limit.",
+  "pt": "Mate a Fera Mítica dentro do limite de tempo.",
+  "ch": "在限定时间内击杀大妖兽即胜利。"
+ },
+ "dungeon_victory_desc_4": {
+  "en": "Kill the Mythical Beast within the time limit.",
+  "pt": "Derrote a Fera Mítica dentro do limite de tempo.",
+  "ch": "在限定时间内击杀大妖兽即胜利。"
+ },
+ "dungeon_victory_desc_5": {
+  "en": "Defeat everyone.",
+  "pt": "Derrote todos.",
+  "ch": "击败所有人。"
+ },
+ "dungeon_victory_desc_5016850": {
+  "en": "Defeat the Mind Demon",
+  "pt": "Derrote o Demônio da Mente.",
+  "ch": "击败心魔"
+ },
+ "dungeon_victory_desc_62": {
+  "en": "Your Sect ranks in the top three in points.",
+  "pt": "Sua Seita está entre as três primeiras em Pontos.",
+  "ch": "我宗积分名列前三"
+ },
+ "dungeon_victory_desc_63": {
+  "en": "Your Sect ranks first in the number of victories.",
+  "pt": "Sua Seita está em primeiro lugar no número de vitórias.",
+  "ch": "我宗胜场数名列第一"
+ },
+ "dungeon_victory_desc_64": {
+  "en": "Break the Array Core.",
+  "pt": "Quebre o Núcleo da Formação.",
+  "ch": "击破阵眼"
+ },
+ "dungeon_victory_desc_65": {
+  "en": "Defeat opponent Sect.",
+  "pt": "Derrote a Seita oponente.",
+  "ch": "击败敌方宗门"
+ },
+ "dungeon_victory_desc_66": {
+  "en": "Defeat the enemy.",
+  "pt": "Derrote o inimigo.",
+  "ch": "击退敌人"
+ },
+ "dungeon_victory_desc_67": {
+  "en": "Defeat the Sect Guardian.",
+  "pt": "Derrote a Fera Mítica Guardiã da Seita.",
+  "ch": "击败宗门神兽"
+ },
+ "dungeon_victory_desc_68": {
+  "en": "Finish the award tournament.",
+  "pt": "Conclua o Torneio de premiação.",
+  "ch": "完成颁奖大会"
+ },
+ "dungeon_victory_desc_dakaibaoxiang": {
+  "en": "Defeat the Wood Sprite and open the chest.",
+  "pt": "Derrote o Espírito de Madeira e abra o baú.",
+  "ch": "击败木精，开启宝箱。"
+ },
+ "dungeon_victory_desc_kaijujuqing": {
+  "en": "Find the exit.",
+  "pt": "Encontre a saída.",
+  "ch": "寻找出口"
+ },
+ "dungeon_victory_desc_shengcun": {
+  "en": "Survive until designated time",
+  "pt": "Sobreviva até o tempo designado.",
+  "ch": "到时间结束时仍然生存"
+ },
+ "dungeon_victory_desc_tianjie": {
+  "en": "Dodge lightning until the time is up.",
+  "pt": "Esquive os relâmpagos até o tempo acabar.",
+  "ch": "躲避天雷，直到时间结束"
+ },
+ "dungeon_victory_desc_xianshi120": {
+  "en": "Fend off monster attacks until they leave.\nYou'll fail if there are 50 monsters on the map.",
+  "pt": "Repela os ataques dos monstros até que eles partam.\nVocê falhará se houver 50 monstros no mapa.",
+  "ch": "抵抗妖兽的进攻，直到兽潮退散\n当场上的妖兽数量达到50个时，战斗失败"
+ },
+ "dunhao": {
+  "en": ",",
+  "pt": ",",
+  "ch": "、"
+ },
+ "dutyEventDesc101001": {
+  "en": "举办剑法比武大会",
+  "pt": "Realize o Torneio de Técnicas de Espada.",
+  "ch": "举办剑法比武大会"
+ },
+ "dutyEventDesc101002": {
+  "en": "举办刀法比武大会",
+  "pt": "Realize o Torneio de Técnicas de Lâmina.",
+  "ch": "举办刀法比武大会"
+ },
+ "dutyEventName101001": {
+  "en": "剑法比武大会",
+  "pt": "Torneio de Técnicas de Espada.",
+  "ch": "剑法比武大会"
+ },
+ "dutyEventName101002": {
+  "en": "刀法比武大会",
+  "pt": "Torneio de Técnicas de Lâmina.",
+  "ch": "刀法比武大会"
+ },
+ "dynAtkDesc": {
+  "en": "ATK +{fixValue}",
+  "pt": "ATQ +{fixValue}",
+  "ch": "攻击增加{fixValue}点"
+ },
+ "dynAtkDesc1": {
+  "en": "ATK -{fixValue}",
+  "pt": "ATQ -{fixValue}",
+  "ch": "攻击减少{fixValue}点"
+ },
+ "dynHPMAXDesc": {
+  "en": "Max HP +{fixValue}",
+  "pt": "HP Máx. +{fixValue}",
+  "ch": "生命上限增加{fixValue}点"
+ },
+ "dynHPMAXDesc1": {
+  "en": "Max HP -{fixValue}",
+  "pt": "HP Máx. -{fixValue}",
+  "ch": "生命上限减少{fixValue}点"
+ },
+ "dynHuixingDesc": {
+  "en": "Crit +{fixValue}",
+  "pt": "Crítico +{fixValue}",
+  "ch": "会心增加{fixValue}点"
+ },
+ "dynHuixingDesc1": {
+  "en": "Crit -{fixValue}",
+  "pt": "Crítico -{fixValue}",
+  "ch": "会心减少{fixValue}点"
+ },
+ "dynMPMAXDesc": {
+  "en": "Energy +{fixValue}",
+  "pt": "Energia +{fixValue}",
+  "ch": "灵力增加{fixValue点}"
+ },
+ "dynMPMAXDesc1": {
+  "en": "Max Energy -{fixValue}",
+  "pt": "Energia Máx. -{fixValue}",
+  "ch": "灵力上限减少{fixValue点}"
+ },
+ "dynSpeedDesc": {
+  "en": "Agility +{fixValue}",
+  "pt": "Agilidade +{fixValue}",
+  "ch": "移动速度增加{fixValue}点"
+ },
+ "dynSpeedDesc1": {
+  "en": "Agility -{fixValue}",
+  "pt": "Agilidade -{fixValue}",
+  "ch": "移动速度减少{fixValue}点"
+ },
+ "effectClassName1001": {
+  "en": "Poison",
+  "pt": "Veneno",
+  "ch": "毒"
+ },
+ "effectClassName1002": {
+  "en": "Bleed",
+  "pt": "Sangramento",
+  "ch": "出血"
+ },
+ "effectClassName2101": {
+  "en": "Burn",
+  "pt": "Queimadura",
+  "ch": "燃烧"
+ },
+ "effectClassName2601": {
+  "en": "灵",
+  "pt": "Espírito",
+  "ch": "灵"
+ },
+ "effectClassName4001": {
+  "en": "Power Down",
+  "pt": "Poder Reduzido",
+  "ch": "威力下降"
+ },
+ "effectClassName4002": {
+  "en": "Perfect Charge",
+  "pt": "Carga Perfeita",
+  "ch": "完美蓄力"
+ },
+ "effectClassName4003": {
+  "en": "Poison",
+  "pt": "Veneno",
+  "ch": "毒"
+ },
+ "effectClassName4004": {
+  "en": "Stun",
+  "pt": "Atordoamento",
+  "ch": "晕眩"
+ },
+ "effect_nameShenfa": {
+  "en": "Continuous Skill",
+  "pt": "Habilidade Contínua",
+  "ch": "持续施法"
+ },
+ "elderName4": {
+  "en": "Luwu",
+  "pt": "Luwu",
+  "ch": "陆吾"
+ },
+ "elderSkillDesc1": {
+  "en": "In battle, every time you use a Special Skill, your damage will increase by &27100_tssh&% (up to &27100_tssh|x27100_djcs|f0&%).",
+  "pt": "Em batalha, toda vez que você usa uma Técnica Especial, seu dano aumenta em &27100_tssh&% (até &27100_tssh|x27100_djcs|f0&%).",
+  "ch": "在战斗中，每使用一次绝技，可提升&27100_tssh&%的伤害，最多可提升&27100_tssh|x27100_djcs|f0&%。"
+ },
+ "elderSkillDesc11": {
+  "en": "ATK +&27101_tsgj&",
+  "pt": "ATQ +&27101_tsgj&",
+  "ch": "攻击提升&27101_tsgj&点。"
+ },
+ "elderSkillDesc12": {
+  "en": "ATK +&27102_tsgj&",
+  "pt": "ATQ +&27102_tsgj&",
+  "ch": "攻击提升&27102_tsgj&点。"
+ },
+ "elderSkillDesc13": {
+  "en": "In battle, after every &27103_jjcs& Special Skills, you'll summon Jiaolong to charge at enemies, dealing &27103_shwl& damage to every enemy it hits. This damage's type matches your highest stat. The damage of enemies hit &27103_jssh&% for &27103_cxsj&s.",
+  "pt": "Em batalha, a cada &27103_jjcs& Técnicas Especiais, você invoca Jiaolong para investir contra os inimigos, causando &27103_shwl& de dano a cada inimigo atingido. O tipo de dano corresponde ao seu atributo mais alto. O dano causado pelos inimigos atingidos é reduzido em &27103_jssh&% por &27103_cxsj&s.",
+  "ch": "在战斗中，每使用&27103_jjcs&次绝技，可召唤蛟龙冲击，对命中的敌人造成威力为&27103_shwl&的特长资质伤害，并使敌人造成的伤害&27103_jssh&%，持续&27103_cxsj&秒。"
+ },
+ "elderSkillDesc14": {
+  "en": "ATK +&27104_tsgj&",
+  "pt": "ATQ +&27104_tsgj&",
+  "ch": "攻击提升&27104_tsgj&点。"
+ },
+ "elderSkillDesc15": {
+  "en": "Every time you enter a new room, you'll activate Jiaolong's Fury, which continuously triggers Jiaolong's Roar at random locations, dealing &27105_shwl& damage to every enemy it hits. This damage's type matches your highest stat. Jiaolong's Fury lasts &27105_shjg|x27105_cxsj|f0&s.",
+  "pt": "Ao entrar em uma nova sala, você ativa a Fúria de Jiaolong, que dispara continuamente o Rugido de Jiaolong em locais aleatórios, causando &27105_shwl& de dano a cada inimigo atingido. O tipo de dano corresponde ao seu atributo mais alto. A Fúria de Jiaolong dura &27105_shjg|x27105_cxsj|f0&s.",
+  "ch": "当进入一个新的房间时，将会激活一次蛟龙之怒，持续在全场随机位置引发龙啸，对命中的敌人造成威力为&27105_shwl&的特长资质伤害，蛟龙之怒持续&27105_shjg|x27105_cxsj|f0&秒。"
+ },
+ "elderSkillDesc16": {
+  "en": "ATK +&27106_tsgj&",
+  "pt": "ATQ +&27106_tsgj&",
+  "ch": "攻击提升&27106_tsgj&点。"
+ },
+ "elderSkillDesc18": {
+  "en": "ATK +&27108_tsgj&",
+  "pt": "ATQ +&27108_tsgj&",
+  "ch": "攻击提升&27108_tsgj&点。"
+ },
+ "elderSkillDesc19": {
+  "en": "Max Energy +&27109_tsll&",
+  "pt": "Energia Máx. +&27109_tsll&",
+  "ch": "灵力上限提升&27109_tsll&点。"
+ },
+ "elderSkillDesc2": {
+  "en": "In battle, a seal will appear underneath a random enemy every &27200_cfjg&s. Each seal lasts &27200_cxsj&s, and sealed enemies can't cast Motion Skills.",
+  "pt": "Em batalha, a cada &27200_cfjg&s, um selo aparece sob um inimigo aleatório. Cada selo dura &27200_cxsj&s e inimigos selados não podem usar Técnicas de Movimento.",
+  "ch": "在战斗中，每间隔&27200_cfjg&秒会在随机在一个敌人的脚下生成一个持续&27200_cxsj&秒的封印，被封印的敌人无法使用身法。"
+ },
+ "elderSkillDesc21": {
+  "en": "Max Energy +&27201_tsll&",
+  "pt": "Energia Máx. +&27201_tsll&",
+  "ch": "灵力上限提升&27201_tsll&点。"
+ },
+ "elderSkillDesc22": {
+  "en": "Max Energy +&27202_tsll&",
+  "pt": "Energia Máx. +&27202_tsll&",
+  "ch": "灵力上限提升&27202_tsll&点。"
+ },
+ "elderSkillDesc24": {
+  "en": "Max Energy +&27204_tsll&",
+  "pt": "Energia Máx. +&27204_tsll&",
+  "ch": "灵力上限提升&27204_tsll&点。"
+ },
+ "elderSkillDesc25": {
+  "en": "Absorb &27205_xqll&% of their Max Energy every second from sealed enemies.",
+  "pt": "Absorve &27205_xqll&% da Energia Máx. de inimigos selados a cada segundo.",
+  "ch": "成功封印敌人时，每秒可吸取其&27205_xqll&%的最大灵力。"
+ },
+ "elderSkillDesc26": {
+  "en": "Max Energy +&27206_tsll&",
+  "pt": "Energia Máx. +&27206_tsll&",
+  "ch": "灵力上限提升&27206_tsll&点。"
+ },
+ "elderSkillDesc27": {
+  "en": "Max Focus +&27207_tsnl&",
+  "pt": "Foco Máx. +&27207_tsnl&",
+  "ch": "念力上限提升&27207_tsnl&点。"
+ },
+ "elderSkillDesc28": {
+  "en": "Max Energy +&27208_tsll&",
+  "pt": "Energia Máx. +&27208_tsll&",
+  "ch": "灵力上限提升&27208_tsll&点。"
+ },
+ "elderSkillDesc41": {
+  "en": "Max Focus +&27401_tsnl&",
+  "pt": "Foco Máx. +&27401_tsnl&",
+  "ch": "念力上限提升&27401_tsnl&点。"
+ },
+ "elderSkillDesc42": {
+  "en": "Max Focus +&27402_tsnl&",
+  "pt": "Foco Máx. +&27402_tsnl&",
+  "ch": "念力上限提升&27402_tsnl&点。"
+ },
+ "elderSkillDesc44": {
+  "en": "Max Focus +&27404_tsnl&",
+  "pt": "Foco Máx. +&27404_tsnl&",
+  "ch": "念力上限提升&27404_tsnl&点。"
+ },
+ "elderSkillDesc46": {
+  "en": "Max Focus +&27406_tsnl&",
+  "pt": "Foco Máx. +&27406_tsnl&",
+  "ch": "念力上限提升&27406_tsnl&点。"
+ },
+ "elderSkillDesc47": {
+  "en": "ATK +&27407_tsgj&",
+  "pt": "ATQ +&27407_tsgj&",
+  "ch": "攻击提升&27407_tsgj&点。"
+ },
+ "elderSkillDesc48": {
+  "en": "Max Focus +&27408_tsnl&",
+  "pt": "Foco Máx. +&27408_tsnl&",
+  "ch": "念力上限提升&27408_tsnl&点。"
+ },
+ "elderSkillDesc49": {
+  "en": "Max Vitality +&27409_tstl&",
+  "pt": "Vitalidade Máx. +&27409_tstl&",
+  "ch": "体力上限提升&27409_tstl&点。"
+ },
+ "elderSkillDesc51": {
+  "en": "Max Vitality +&27501_tstl&",
+  "pt": "Vitalidade Máx. +&27501_tstl&",
+  "ch": "体力上限提升&27501_tstl&点。"
+ },
+ "elderSkillDesc52": {
+  "en": "Max Vitality +&27502_tstl&",
+  "pt": "Vitalidade Máx. +&27502_tstl&",
+  "ch": "体力上限提升&27502_tstl&点。"
+ },
+ "elderSkillDesc54": {
+  "en": "Max Vitality +&27504_tstl&",
+  "pt": "Vitalidade Máx. +&27504_tstl&",
+  "ch": "体力上限提升&27504_tstl&点。"
+ },
+ "elderSkillDesc56": {
+  "en": "Max Vitality +&27506_tstl&",
+  "pt": "Vitalidade Máx. +&27506_tstl&",
+  "ch": "体力上限提升&27506_tstl&点。"
+ },
+ "elderSkillDesc57": {
+  "en": "Max Energy +&27507_tsll&",
+  "pt": "Energia Máx. +&27507_tsll&",
+  "ch": "灵力上限提升&27507_tsll&点。"
+ },
+ "elderSkillDesc58": {
+  "en": "Max Vitality +&27508_tstl&",
+  "pt": "Vitalidade Máx. +&27508_tstl&",
+  "ch": "体力上限提升&27508_tstl&点。"
+ },
+ "elderSkillDesc59": {
+  "en": "ATK +&27509_tsgj&",
+  "pt": "ATQ +&27509_tsgj&",
+  "ch": "攻击提升&27509_tsgj&点。"
+ },
+ "elderSkill_qianghua": {
+  "en": "Enhance",
+  "pt": "Aprimorar",
+  "ch": "强化"
+ },
+ "elderSkill_qianghuajindu": {
+  "en": "Enhancing Progress",
+  "pt": "Progresso de Aprimoramento",
+  "ch": "神魂强化进度"
+ },
+ "elderSkill_shenhunqianghua": {
+  "en": "Divine Soul Enhance",
+  "pt": "Aprimoramento da Alma Divina",
+  "ch": "神魂强化"
+ },
+ "elderSkill_weijiesuo": {
+  "en": "??? (Reach {0} to unlock)",
+  "pt": "??? (Atingir {0} para desbloquear)",
+  "ch": "???({0}可解锁)"
+ },
+ "elderSkill_yimanji": {
+  "en": "Max Level",
+  "pt": "Nível Máximo",
+  "ch": "已满级"
+ },
+ "elderSkill_zuojiantishi": {
+  "en": "Left-click to open the Divine Soul Enhance interface.",
+  "pt": "Clique com o botão esquerdo para abrir a interface de Aprimoramento da Alma Divina.",
+  "ch": "点击【左键】打开神魂强化界面"
+ },
+ "elderskill_shuxingtishi": {
+  "en": "Consume this Divine Soul for Soul Formation Breakthrough to increase the following stats.<r> (Once consumed, the Divine Soul and its skill will disappear. If you choose to keep the Divine Soul, no stats will be increased.)</r>",
+  "pt": "Consuma esta Alma Divina para um Avanço na Formação da Alma e aumente os seguintes atributos.<r> (Após o consumo, a Alma Divina e sua habilidade desaparecerão. Se optar por manter a Alma Divina, os atributos não serão aumentados.)</r>",
+  "ch": "化神突破时选择消耗此神魂注入四气，可以增加以下属性<r>（若选择消耗，此神魂及其携带的技能将会消失，仅增加属性。若选择保留，将无法增加属性，仅保留此神魂的技能。）</r>"
+ },
+ "elementNames": {
+  "en": "Fire: {0}|Water: {0}|Lightning: {0}|Wind: {0}|Earth: {0}|Wood: {0}|Yin: {0}|Yang: {0}",
+  "pt": "Fogo: {0}|Água: {0}|Relâmpago: {0}|Vento: {0}|Terra: {0}|Madeira: {0}|Yin: {0}|Yang: {0}",
+  "ch": "火元素：{0}|水元素：{0}|雷元素：{0}|风元素：{0}|土元素：{0}|木元素：{0}|阴元素：{0}|阳元素：{0}"
+ },
+ "elixirtips1001": {
+  "en": "Its Qi has been drained. Unavailable for 3 months.",
+  "pt": "Seu Qi foi drenado. Indisponível por 3 meses.",
+  "ch": "灵气尽失，3个月内不可使用。"
+ },
+ "email_shanchusuoyou": {
+  "en": "Delete Read",
+  "pt": "Excluir Lidos",
+  "ch": "删除已读邮件"
+ },
+ "email_shanchutishi": {
+  "en": "Deleted!",
+  "pt": "Excluído!",
+  "ch": "删除成功！"
+ },
+ "energyUiRuins1003": {
+  "en": "Stamina too low. Unable to invite.",
+  "pt": "Vigor muito baixo. Não é possível convidar.",
+  "ch": "精力不足！无法进行邀约！"
+ },
+ "eshouhuangyan612001": {
+  "en": "Select manuals to give to the Rabbit Spirit",
+  "pt": "Selecione os manuais para dar ao Espírito do Coelho",
+  "ch": "选择给兔妖的秘籍"
+ },
+ "fabao_yishoushun": {
+  "en": "This artifact is broken!",
+  "pt": "Este artefato está quebrado!",
+  "ch": "法宝已受损！"
+ },
+ "fairyChickenName3001": {
+  "en": "Proud Forager",
+  "pt": "Orgulhosa Colhedora",
+  "ch": "傲易丝鸾"
+ },
+ "fairyChickenName3002": {
+  "en": "Delightful Chord",
+  "pt": "Acorde Encantador",
+  "ch": "怀琴丹凤"
+ },
+ "fairyChickenName3003": {
+  "en": "Underworld Flame",
+  "pt": "Chama do Submundo",
+  "ch": "冥熙火凰"
+ },
+ "fairyChickenName3004": {
+  "en": "Budding Lotus",
+  "pt": "Lótus Brotanto",
+  "ch": "初芙青鸾"
+ },
+ "fairyChickenName3005": {
+  "en": "Cerulean Canopy",
+  "pt": "Dossel Cerúleo",
+  "ch": "青凝仪凤"
+ },
+ "fairyChickenName3006": {
+  "en": "Icy Jade",
+  "pt": "Jade Gélido",
+  "ch": "冷幽玉凰"
+ },
+ "fairyChickenName4001": {
+  "en": "Feathered Charger",
+  "pt": "Carregadora de Penas",
+  "ch": "成空和鸾"
+ },
+ "fairyChickenName4002": {
+  "en": "Flamboyant Plumage",
+  "pt": "Plumagem Ostentosa",
+  "ch": "流鬓彩凤"
+ },
+ "fairyChickenName4003": {
+  "en": "Maple Dweller",
+  "pt": "Habitante do Bordo",
+  "ch": "沐枫鸣凰"
+ },
+ "fairyChickenName4004": {
+  "en": "Wise Hermit",
+  "pt": "Ermitão Sábio",
+  "ch": "宿臾独鸾"
+ },
+ "fairyChickenName4005": {
+  "en": "Gentle Whisper",
+  "pt": "Sussurro Gentil",
+  "ch": "清语只凤"
+ },
+ "fairyChickenName4006": {
+  "en": "Solitary Phoenix",
+  "pt": "Fênix Solitária",
+  "ch": "眉峰孤凰"
+ },
+ "fairyChickenName5001": {
+  "en": "Mulberry Blossom",
+  "pt": "Flor de Amora",
+  "ch": "桑花角鸾"
+ },
+ "fairyChickenName5002": {
+  "en": "Thunderstorm Breaker",
+  "pt": "Quebradora de Tempestades",
+  "ch": "寄晴雷凤"
+ },
+ "fairyChickenName5003": {
+  "en": "Dreamy Mizzle",
+  "pt": "Chuviscada Sonhadora",
+  "ch": "悦梦雨凰"
+ },
+ "fairyChickenName5004": {
+  "en": "Divine Vanguard",
+  "pt": "Vanguarda Divina",
+  "ch": "浮晖圣鸾"
+ },
+ "fairyChickenName5005": {
+  "en": "Southern Pearl",
+  "pt": "Pérola do Sul",
+  "ch": "嗣南珠凤"
+ },
+ "fairyChickenName5006": {
+  "en": "Verdant Foliage",
+  "pt": "Folhagem Verdejante",
+  "ch": "九荟圆凰"
+ },
+ "fairyChickenName6001": {
+  "en": "Aerial Explorer",
+  "pt": "Exploradora Aérea",
+  "ch": "飞鸾"
+ },
+ "fairyChickenName6002": {
+  "en": "Ethereal Inspiration",
+  "pt": "Inspiração Etérea",
+  "ch": "渡心灵凤"
+ },
+ "fairyChickenName6003": {
+  "en": "Blessing Bestowed",
+  "pt": "Benção Concedida",
+  "ch": "祉凰"
+ },
+ "fairyChickenName6004": {
+  "en": "Cloudburst Fighter",
+  "pt": "Lutadora de Nuvens",
+  "ch": "饶云斗鸾"
+ },
+ "fairyChickenName6005": {
+  "en": "Frosty Echoes",
+  "pt": "Ecos Gélidos",
+  "ch": "述寒乌凤"
+ },
+ "fairyChickenName6006": {
+  "en": "Utmost Perfection",
+  "pt": "Perfeição Suprema",
+  "ch": "绝凰"
+ },
+ "fairyChickenTriggerType0": {
+  "en": "Triggered passively",
+  "pt": "Ativado passivamente",
+  "ch": "被动触发"
+ },
+ "fairyChickenTriggerType1": {
+  "en": "Triggered when attacking",
+  "pt": "Ativado ao atacar",
+  "ch": "攻击触发"
+ },
+ "fairyChickenTriggerType2": {
+  "en": "Triggered upon entrance",
+  "pt": "Acionado ao entrar",
+  "ch": "入场触发"
+ },
+ "fairyChickenTriggerType3": {
+  "en": "Triggered upon death",
+  "pt": "Acionado ao morrer",
+  "ch": "死亡触发"
+ },
+ "fairyChicken_notAllowReason1": {
+  "en": "<color=red>Cannot discard Immortal Chicken in the Arena</color>",
+  "pt": "<color=red>Não é possível descartar o Frango Imortal na Arena</color>",
+  "ch": "<color=red>斗鸡场内无法丢弃仙鸡</color>"
+ },
+ "fairyStoreTip": {
+  "en": "Cannot purchase due to insufficient accumulated Contribution.",
+  "pt": "Não é possível comprar devido à Contribuição acumulada insuficiente."
+ },
+ "fairyStoreTip1": {
+  "en": "Sold Out",
+  "pt": "Esgotado"
+ },
+ "fairyStoreTip2": {
+  "en": "This item will not restock.",
+  "pt": "Este item não será reposto."
+ },
+ "fate700018": {
+  "en": "Destiny triggered: <y>Pickpocket</y>!",
+  "pt": "Destino acionado: <y>Mão Leve</y>!",
+  "ch": "触发气运：<y>咸猪手</y>！"
+ },
+ "fate700020": {
+  "en": "Destiny triggered: <y>Quick Escape</y>!",
+  "pt": "Destino acionado: <y>Fuga Rápida</y>!",
+  "ch": "触发气运：<y>脚底抹油</y>！"
+ },
+ "fate700021": {
+  "en": "Destiny triggered: <y>Fleeing Beauty</y>!",
+  "pt": "Destino acionado: <y>Beleza em Fuga</y>!",
+  "ch": "触发气运：<y>跑得很帅</y>！"
+ },
+ "fate700030": {
+  "en": "Destiny triggered: <y>Respectable Opponent</y>!",
+  "pt": "Destino acionado: <y>Oponente Respeitável</y>!",
+  "ch": "触发气运：<y>肉搏之交</y>！"
+ },
+ "fate700031": {
+  "en": "<y>Killer Vibe</y> triggered: You have less chance to be attacked by monsters.",
+  "pt": "<y>Aura Assassina</y> acionada: Menos chance de ser atacado por monstros.",
+  "ch": "<y>煞气</y>遇怪概率降低！"
+ },
+ "fate7000311": {
+  "en": "Destiny triggered: <y>Killer Vibe</y>!",
+  "pt": "Destino acionado: <y>Aura Assassina</y>!",
+  "ch": "触发气运：<y>煞气</y>！"
+ },
+ "fate700032": {
+  "en": "<y>Training Partner</y> triggered: More EXP earned from \"Dual Cultivation.\"",
+  "pt": "<y>Parceiro de Treino</y> acionado: Mais EXP obtido em \"Cultivo Dual\".",
+  "ch": "触发气运：<y>双修大法</y>双修收益提高！"
+ },
+ "fate7000321": {
+  "en": "<y>Training Partner</y> triggered: Your partner gave you an item.",
+  "pt": "<y>Parceiro de Treino</y> acionado: Seu parceiro lhe deu um item.",
+  "ch": "触发气运：<y>双修大法</y>对方向你赠送道具！"
+ },
+ "fate700045": {
+  "en": "<y>To the Fullest</y> triggered: +{0} EXP",
+  "pt": "<y>Ao Máximo</y> acionado: +{0} EXP",
+  "ch": "触发气运：<y>物尽其用</y>获得{0}修为！"
+ },
+ "fate700047": {
+  "en": "<y></y> triggered: You learned {0}.",
+  "pt": "<y>Olho do Céu</y> acionado: Você aprendeu {0}.",
+  "ch": "触发气运：<y>通天之眼</y>习得{0}！"
+ },
+ "fate700049": {
+  "en": "<y></y> triggered: You recovered some of your stats.",
+  "pt": "<y>Essência dos Céus e Terra</y> acionada: Você recuperou parte dos seus Atributos.",
+  "ch": "触发气运：<y>天地精华</y>恢复部分状态！"
+ },
+ "fate700145": {
+  "en": "Destiny triggered: <y>Aggressor</y> spar rewards increased!",
+  "pt": "Destino acionado: <y>Agressor</y> recompensas de duelo aumentadas!",
+  "ch": "触发气运：<y>战斗狂人</y>切磋收益提高！"
+ },
+ "fate700146": {
+  "en": "Destiny triggered: <y>Enlightenment</y> reaches {0} and is raised to your current Realm!",
+  "pt": "Destino acionado: <y>Iluminação</y> atinge {0} e é elevada ao seu Reino atual!",
+  "ch": "触发气运：<y>醍醐灌顶</y>习得{0}并将其提升到自身当前境界！"
+ },
+ "fate8505": {
+  "en": "Calamities Retreat: Reduces the chance of monsters initiating attacks.",
+  "pt": "Retiro das Calamidades: Reduz a chance de monstros iniciarem ataques."
+ },
+ "fateFeatureReset_jingjiebuzu": {
+  "en": "Reach {0} to use",
+  "pt": "Alcance {0} para usar",
+  "ch": "达到{0}可使用"
+ },
+ "fateFeatureReset_shanchu": {
+  "en": "Delete",
+  "pt": "Deletar",
+  "ch": "删除"
+ },
+ "fateFeatureReset_tishi1": {
+  "en": "Please select a Destiny below {0}",
+  "pt": "Por favor, selecione um Destino abaixo de {0}",
+  "ch": "请选择一个{0}以下的逆天改命"
+ },
+ "fateFeatureReset_tishi2": {
+  "en": "Delete {0}? ",
+  "pt": "Deletar {0}?",
+  "ch": "是否删除逆天改命{0}? "
+ },
+ "fateFeatureReset_tishi3": {
+  "en": "Select a Destiny to replace {1} (obtained from {0})",
+  "pt": "Selecione um Destino para substituir {1} (obtido de {0})",
+  "ch": "选择一个逆天改命替换{0}获得的{1}"
+ },
+ "fateFeatureReset_xianyou": {
+  "en": "Current Rewritten Destinies",
+  "pt": "Destinos Reescritos Atuais",
+  "ch": "现有逆天改命"
+ },
+ "fateFeatureReset_xuanze": {
+  "en": "Select the Destiny you want to delete",
+  "pt": "Selecione o Destino que deseja deletar",
+  "ch": "选择要删除的逆天改命"
+ },
+ "fateFeature_tupodanyao": {
+  "en": "Breakthrough Items",
+  "pt": "Itens de Avanço",
+  "ch": "突破道具"
+ }
+}

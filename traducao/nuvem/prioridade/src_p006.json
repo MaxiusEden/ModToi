@@ -1,0 +1,1322 @@
+{
+ "D_playerInfo_kangxing": {
+  "en": "Resistance",
+  "pt": "Resistência",
+  "ch": "抗性"
+ },
+ "D_playerInfo_kangxingcanshu": {
+  "en": "Resistance Modifier",
+  "pt": "Modificador de Resistência",
+  "ch": "抗性参数"
+ },
+ "D_playerInfo_leizizhi": {
+  "en": "Lightning Root",
+  "pt": "Raiz de Relâmpago",
+  "ch": "雷灵根"
+ },
+ "D_playerInfo_muzizhi": {
+  "en": "Wood Root",
+  "pt": "Raiz de Madeira",
+  "ch": "木灵根"
+ },
+ "D_playerInfo_qiangzizhi": {
+  "en": "Spear",
+  "pt": "Lança",
+  "ch": "枪资质"
+ },
+ "D_playerInfo_quanzizhi": {
+  "en": "Fist",
+  "pt": "Punho",
+  "ch": "拳资质"
+ },
+ "D_playerInfo_shanbi": {
+  "en": "Dodge",
+  "pt": "Esquiva",
+  "ch": "闪避"
+ },
+ "D_playerInfo_shiqufanwei": {
+  "en": "Item Pick-up Radius:",
+  "pt": "Raio de Coleta de Itens:",
+  "ch": "拾取道具范围:"
+ },
+ "D_playerInfo_shuizizhi": {
+  "en": "Water Root",
+  "pt": "Raiz de Água",
+  "ch": "水灵根"
+ },
+ "D_playerInfo_tili": {
+  "en": "Vitality",
+  "pt": "Vitalidade",
+  "ch": "体力"
+ },
+ "D_playerInfo_tilihuifu": {
+  "en": "Vitality Restoration",
+  "pt": "Recuperação de Vitalidade",
+  "ch": "体力回复"
+ },
+ "D_playerInfo_tilishangxian": {
+  "en": "Max Vitality",
+  "pt": "Vitalidade Máx.",
+  "ch": "体力上限"
+ },
+ "D_playerInfo_tuzizhi": {
+  "en": "Earth Root",
+  "pt": "Raiz de Terra",
+  "ch": "土灵根"
+ },
+ "D_playerInfo_weili": {
+  "en": "Damage Bonus",
+  "pt": "Bônus de Dano",
+  "ch": "伤害加成"
+ },
+ "D_playerInfo_xingyun": {
+  "en": "Luck",
+  "pt": "Sorte",
+  "ch": "幸运"
+ },
+ "D_playerInfo_yidongsudu": {
+  "en": "Agility",
+  "pt": "Agilidade",
+  "ch": "移动速度"
+ },
+ "D_playerInfo_zhangzizhi": {
+  "en": "Palm",
+  "pt": "Palma",
+  "ch": "掌资质"
+ },
+ "D_playerInfo_zhizizhi": {
+  "en": "Finger",
+  "pt": "Dedo",
+  "ch": "指资质"
+ },
+ "D_playerInfo_zizhicashu": {
+  "en": "Stats Modifier",
+  "pt": "Modificador de Atributos",
+  "ch": "资质参数"
+ },
+ "D_record_jinengshanghai": {
+  "en": "Total Damage",
+  "pt": "Dano Total",
+  "ch": "总伤害"
+ },
+ "D_record_zhaohuanwu": {
+  "en": "Summoned Units",
+  "pt": "Unidades Invocadas",
+  "ch": "召唤物"
+ },
+ "D_role_grade_fullName1": {
+  "en": "Qi Refining Early",
+  "pt": "Refinamento de Qi Inicial",
+  "ch": "炼气前期"
+ },
+ "D_role_grade_fullName10": {
+  "en": "Golden Core Early",
+  "pt": "Núcleo Dourado Inicial",
+  "ch": "金丹前期"
+ },
+ "D_role_grade_fullName11": {
+  "en": "Golden Core Middle",
+  "pt": "Núcleo Dourado Médio",
+  "ch": "金丹中期"
+ },
+ "D_role_grade_fullName12": {
+  "en": "Golden Core Late",
+  "pt": "Núcleo Dourado Final",
+  "ch": "金丹后期"
+ },
+ "D_role_grade_fullName13": {
+  "en": "Origin Spirit Early",
+  "pt": "Espírito de Origem Inicial",
+  "ch": "具灵前期"
+ },
+ "D_role_grade_fullName14": {
+  "en": "Origin Spirit Middle",
+  "pt": "Espírito de Origem Médio",
+  "ch": "具灵中期"
+ },
+ "D_role_grade_fullName15": {
+  "en": "Origin Spirit Late",
+  "pt": "Espírito de Origem Final",
+  "ch": "具灵后期"
+ },
+ "D_role_grade_fullName16": {
+  "en": "Nascent Soul Early",
+  "pt": "Alma Nascente Inicial",
+  "ch": "元婴前期"
+ },
+ "D_role_grade_fullName17": {
+  "en": "Nascent Soul Middle",
+  "pt": "Alma Nascente Médio",
+  "ch": "元婴中期"
+ },
+ "D_role_grade_fullName18": {
+  "en": "Nascent Soul Late",
+  "pt": "Alma Nascente Final",
+  "ch": "元婴后期"
+ },
+ "D_role_grade_fullName19": {
+  "en": "Soul Formation Early",
+  "pt": "Formação da Alma Inicial",
+  "ch": "化神前期"
+ },
+ "D_role_grade_fullName2": {
+  "en": "Qi Refining Middle",
+  "pt": "Refinamento de Qi Médio",
+  "ch": "炼气中期"
+ },
+ "D_role_grade_fullName20": {
+  "en": "Soul Formation Middle",
+  "pt": "Formação da Alma Médio",
+  "ch": "化神中期"
+ },
+ "D_role_grade_fullName21": {
+  "en": "Soul Formation Late",
+  "pt": "Formação da Alma Final",
+  "ch": "化神后期"
+ },
+ "D_role_grade_fullName22": {
+  "en": "Enlightenment Early",
+  "pt": "Iluminação Inicial",
+  "ch": "悟道前期"
+ },
+ "D_role_grade_fullName23": {
+  "en": "Enlightenment Middle",
+  "pt": "Iluminação Médio",
+  "ch": "悟道中期"
+ },
+ "D_role_grade_fullName24": {
+  "en": "Enlightenment Late",
+  "pt": "Iluminação Final",
+  "ch": "悟道后期"
+ },
+ "D_role_grade_fullName25": {
+  "en": "Reborn Early",
+  "pt": "Renascimento Inicial",
+  "ch": "羽化前期"
+ },
+ "D_role_grade_fullName26": {
+  "en": "Reborn Middle",
+  "pt": "Renascimento Médio",
+  "ch": "羽化中期"
+ },
+ "D_role_grade_fullName27": {
+  "en": "Reborn Late",
+  "pt": "Renascimento Final",
+  "ch": "羽化后期"
+ },
+ "D_role_grade_fullName28": {
+  "en": "Transcendent Early",
+  "pt": "Transcendência Inicial",
+  "ch": "登仙前期"
+ },
+ "D_role_grade_fullName29": {
+  "en": "Transcendent Middle",
+  "pt": "Transcendência Médio",
+  "ch": "登仙中期"
+ },
+ "D_role_grade_fullName3": {
+  "en": "Qi Refining Late",
+  "pt": "Refinamento de Qi Final",
+  "ch": "炼气后期"
+ },
+ "D_role_grade_fullName30": {
+  "en": "Transcendent Late",
+  "pt": "Transcendência Final",
+  "ch": "登仙后期"
+ },
+ "D_role_grade_fullName4": {
+  "en": "Foundation Early",
+  "pt": "Fundação Inicial",
+  "ch": "筑基前期"
+ },
+ "D_role_grade_fullName5": {
+  "en": "Foundation Middle",
+  "pt": "Fundação Médio",
+  "ch": "筑基中期"
+ },
+ "D_role_grade_fullName6": {
+  "en": "Foundation Late",
+  "pt": "Fundação Final",
+  "ch": "筑基后期"
+ },
+ "D_role_grade_fullName7": {
+  "en": "Qi Condensation Early",
+  "pt": "Condensação de Qi Inicial",
+  "ch": "结晶前期"
+ },
+ "D_role_grade_fullName8": {
+  "en": "Qi Condensation Middle",
+  "pt": "Condensação de Qi Médio",
+  "ch": "结晶中期"
+ },
+ "D_role_grade_fullName9": {
+  "en": "Qi Condensation Late",
+  "pt": "Condensação de Qi Final",
+  "ch": "结晶后期"
+ },
+ "D_role_grade_name1": {
+  "en": "Qi Refining",
+  "pt": "Ref. de Qi",
+  "ch": "炼气"
+ },
+ "D_role_grade_name10": {
+  "en": "Golden Core",
+  "pt": "N. Dourado",
+  "ch": "金丹"
+ },
+ "D_role_grade_name11": {
+  "en": "Golden Core",
+  "pt": "N. Dourado",
+  "ch": "金丹"
+ },
+ "D_role_grade_name12": {
+  "en": "Golden Core",
+  "pt": "N. Dourado",
+  "ch": "金丹"
+ },
+ "D_role_grade_name13": {
+  "en": "Origin Spirit",
+  "pt": "Esp. Origem",
+  "ch": "具灵"
+ },
+ "D_role_grade_name14": {
+  "en": "Origin Spirit",
+  "pt": "Esp. Origem",
+  "ch": "具灵"
+ },
+ "D_role_grade_name15": {
+  "en": "Origin Spirit",
+  "pt": "Esp. Origem",
+  "ch": "具灵"
+ },
+ "D_role_grade_name16": {
+  "en": "Nascent Soul",
+  "pt": "Alma Nasc.",
+  "ch": "元婴"
+ },
+ "D_role_grade_name17": {
+  "en": "Nascent Soul",
+  "pt": "Alma Nasc.",
+  "ch": "元婴"
+ },
+ "D_role_grade_name18": {
+  "en": "Nascent Soul",
+  "pt": "Alma Nasc.",
+  "ch": "元婴"
+ },
+ "D_role_grade_name19": {
+  "en": "Soul Formation",
+  "pt": "Form. Alma",
+  "ch": "化神"
+ },
+ "D_role_grade_name2": {
+  "en": "Qi Refining",
+  "pt": "Ref. de Qi",
+  "ch": "炼气"
+ },
+ "D_role_grade_name20": {
+  "en": "Soul Formation",
+  "pt": "Form. Alma",
+  "ch": "化神"
+ },
+ "D_role_grade_name21": {
+  "en": "Soul Formation",
+  "pt": "Form. Alma",
+  "ch": "化神"
+ },
+ "D_role_grade_name22": {
+  "en": "Enlightenment",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "D_role_grade_name23": {
+  "en": "Enlightenment",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "D_role_grade_name24": {
+  "en": "Enlightenment",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "D_role_grade_name25": {
+  "en": "Reborn",
+  "pt": "Renascimento",
+  "ch": "羽化"
+ },
+ "D_role_grade_name26": {
+  "en": "Reborn",
+  "pt": "Renascimento",
+  "ch": "羽化"
+ },
+ "D_role_grade_name27": {
+  "en": "Reborn",
+  "pt": "Renascimento",
+  "ch": "羽化"
+ },
+ "D_role_grade_name28": {
+  "en": "Transcendent",
+  "pt": "Transcend.",
+  "ch": "登仙"
+ },
+ "D_role_grade_name29": {
+  "en": "Transcendent",
+  "pt": "Transcend.",
+  "ch": "登仙"
+ },
+ "D_role_grade_name3": {
+  "en": "Qi Refining",
+  "pt": "Ref. de Qi",
+  "ch": "炼气"
+ },
+ "D_role_grade_name30": {
+  "en": "Transcendent",
+  "pt": "Transcend.",
+  "ch": "登仙"
+ },
+ "D_role_grade_name4": {
+  "en": "Foundation",
+  "pt": "Fundação",
+  "ch": "筑基"
+ },
+ "D_role_grade_name5": {
+  "en": "Foundation",
+  "pt": "Fundação",
+  "ch": "筑基"
+ },
+ "D_role_grade_name6": {
+  "en": "Foundation",
+  "pt": "Fundação",
+  "ch": "筑基"
+ },
+ "D_role_grade_name7": {
+  "en": "Qi Condensation",
+  "pt": "Cond. de Qi",
+  "ch": "结晶"
+ },
+ "D_role_grade_name8": {
+  "en": "Qi Condensation",
+  "pt": "Cond. de Qi",
+  "ch": "结晶"
+ },
+ "D_role_grade_name9": {
+  "en": "Qi Condensation",
+  "pt": "Cond. de Qi",
+  "ch": "结晶"
+ },
+ "D_selAttr_xuanzeshuxing": {
+  "en": "Attribute to Boost",
+  "pt": "Atributo para Aumentar",
+  "ch": "选择提升属性"
+ },
+ "D_selFate_tupojingjie": {
+  "en": "{0}",
+  "pt": "{0}",
+  "ch": "突破{0}"
+ },
+ "D_selFate_xuanzeqiyun": {
+  "en": "Rewrite Destiny",
+  "pt": "Reescrever o Destino",
+  "ch": "选择逆天改命"
+ },
+ "D_selProp_lianhuadaoju": {
+  "en": "Sell",
+  "pt": "Vender",
+  "ch": "出售"
+ },
+ "D_selProp_shouxiadaoju": {
+  "en": "Collect",
+  "pt": "Receber",
+  "ch": "收下"
+ },
+ "D_selRole_jinengtishi": {
+  "en": "Press SPACE to cast",
+  "pt": "Pressione ESPAÇO para lançar",
+  "ch": "按空格释放"
+ },
+ "D_selRole_kaishiyouxi": {
+  "en": "Start",
+  "pt": "Iniciar",
+  "ch": "开始游戏"
+ },
+ "D_selRole_weijiesuo": {
+  "en": "You need to unlock the character first.",
+  "pt": "Você precisa desbloquear o personagem primeiro.",
+  "ch": "角色暂未解锁！"
+ },
+ "D_selRole_wujinmoshi": {
+  "en": "Endless Mode",
+  "pt": "Modo Infinito",
+  "ch": "无尽模式"
+ },
+ "D_selRole_xiantianqiyun": {
+  "en": "Destiny (Nature)",
+  "pt": "Destino (Natureza)",
+  "ch": "先天气运"
+ },
+ "D_selRole_xuanzenandu": {
+  "en": "Select Difficulty",
+  "pt": "Selecionar Dificuldade",
+  "ch": "选择难度"
+ },
+ "D_selRole_xuanzjuese": {
+  "en": "Select Character",
+  "pt": "Selecionar Personagem",
+  "ch": "选择角色"
+ },
+ "D_selRole_zhudongjineng": {
+  "en": "Skills",
+  "pt": "Habilidades",
+  "ch": "神通"
+ },
+ "D_selSkill_tishi": {
+  "en": "Please select a skill.",
+  "pt": "Por favor, selecione uma habilidade.",
+  "ch": "请选择一个初始技能！"
+ },
+ "D_selSkill_title": {
+  "en": "Initial Skill",
+  "pt": "Habilidade Inicial",
+  "ch": "初始技能"
+ },
+ "D_storePropName_10001": {
+  "en": "Move",
+  "pt": "Movimento",
+  "ch": "劲"
+ },
+ "D_storePropName_30001": {
+  "en": "Technique",
+  "pt": "Técnica",
+  "ch": "式"
+ },
+ "D_storePropName_40001": {
+  "en": "Guide",
+  "pt": "Guia",
+  "ch": "诀"
+ },
+ "D_storePropName_50001": {
+  "en": "Compendium",
+  "pt": "Compendio",
+  "ch": "录"
+ },
+ "D_storePropName_60001": {
+  "en": "Secret Manual",
+  "pt": "Manual Secreto",
+  "ch": "秘卷"
+ },
+ "D_storePropName_70001": {
+  "en": "Divine Power",
+  "pt": "Poder Divino",
+  "ch": "神功"
+ },
+ "D_storePropName_80001": {
+  "en": "Mastery",
+  "pt": "Mestria",
+  "ch": "大法"
+ },
+ "D_store_bossWarning": {
+  "en": "Mythical Beast Appears After {0} Levels",
+  "pt": "Fera Mítica Aparece Após {0} Níveis",
+  "ch": "大妖兽将于{0}关后来袭"
+ },
+ "D_store_chiyoulingshi": {
+  "en": "Spirit Stones:",
+  "pt": "Pedras Espirituais:",
+  "ch": "持有灵石"
+ },
+ "D_store_huodedaoju": {
+  "en": "Items",
+  "pt": "Itens",
+  "ch": "获得道具"
+ },
+ "D_store_jinengshuliang": {
+  "en": "You have learned too many skills. Unlearn a skill to purchase a new one.",
+  "pt": "Você aprendeu muitas habilidades. Esqueça uma habilidade para comprar uma nova.",
+  "ch": "技能数量达到上限，遗忘已拥有的技能后，可购买新技能"
+ },
+ "D_store_keyiwangjineng": {
+  "en": "Unlearn a Skill may refund you some Spirit Stones",
+  "pt": "Esquecer uma Habilidade pode devolver algumas Pedras Espirituais",
+  "ch": "遗忘技能可返还部分灵石"
+ },
+ "D_store_lingshibuzu": {
+  "en": "Not enough Spirit Stones",
+  "pt": "Pedras Espirituais insuficientes",
+  "ch": "灵石不足"
+ },
+ "D_store_shuaxin": {
+  "en": "Refresh",
+  "pt": "Atualizar",
+  "ch": "刷新"
+ },
+ "D_store_title": {
+  "en": "Cryptic Milestone",
+  "pt": "Marco Misterioso",
+  "ch": "无名界碑"
+ },
+ "D_store_wujineng": {
+  "en": "Skill not acquired. Purchase unavailable.",
+  "pt": "Habilidade não adquirida. Compra indisponível.",
+  "ch": "未获得此技能，无法购买！"
+ },
+ "D_store_yiwang": {
+  "en": "Unlearn",
+  "pt": "Esquecer",
+  "ch": "遗忘"
+ },
+ "D_store_yiwangtishi": {
+  "en": "Unlearn the skill?",
+  "pt": "Esquecer a habilidade?",
+  "ch": "是否遗忘此技能？"
+ },
+ "D_store_zhandou": {
+  "en": "Fight",
+  "pt": "Lutar",
+  "ch": "战斗"
+ },
+ "D_tip1": {
+  "en": "The attribute is {0} less effective. Now it will be calculated as {1}",
+  "pt": "O atributo é {0} menos eficaz. Agora será calculado como {1}",
+  "ch": "仅发挥{0}效果，现在该属性生效数值为{1}"
+ },
+ "D_tip2": {
+  "en": "The attribute is {0} more effective. Now it will be calculated as {1}",
+  "pt": "O atributo é {0} mais eficaz. Agora será calculado como {1}",
+  "ch": "可发挥{0}效果，现在该属性生效数值为{1}"
+ },
+ "D_tip3": {
+  "en": "This is the amount of the Spirit Stones not picked in the previous battle. They will be consumed when you pick up Spirit Stones the next time and will double your amount of Spirit Stones picked.",
+  "pt": "Esta é a quantidade de Pedras Espirituais não coletadas na batalha anterior. Elas serão consumidas quando você coletar Pedras Espirituais na próxima vez e dobrarão a quantidade de Pedras Espirituais coletadas.",
+  "ch": "上一轮战斗中未拾取的灵石，下次拾取灵石时，将会被消耗此处累计的灵石并获得双倍灵石。"
+ },
+ "D_tip4": {
+  "en": "You may buy Skill Affixes and Mind Skill Affixes in the store.\nUnless playing with special characters, you may equip 4 Skills at the same time, each with 5 Affixes at most. You may Unlearn acquired skills.\nThere is no limit to the amount of equipped Mind Skills.\nThe price in the store will increase as you press onward.\nYou may pay Spirit Stones to refresh the store's inventory list. Locked items will be retained in every refresh.\nThe price for each refresh will also increase with the amount of refreshes made.\nLocked items need to be Unlocked manually. Clearing a level will not get them unlocked.",
+  "pt": "Você pode comprar Habilidade de Afixos e Técnica Mental de Afixos na loja.\nA menos que esteja jogando com personagens especiais, você pode equipar 4 Habilidades ao mesmo tempo, cada uma com até 5 Afixos. Você pode desaprender habilidades adquiridas.\nNão há limite para a quantidade de Técnicas Mentais equipadas.\nO preço na loja aumentará conforme você avançar.\nVocê pode pagar Pedras Espirituais para atualizar a lista de itens da loja. Itens bloqueados serão retidos em cada atualização.\nO preço para cada atualização também aumentará com a quantidade de atualizações feitas.\nItens bloqueados precisam ser desbloqueados manualmente. Limpar um nível não os desbloqueará.",
+  "ch": "商店会出售技能词条、心法词条\n角色可装备4个技能（特殊角色除外），每个技能的词条最多5个，已购买的技能可以回收\n角色装备心法数量无上限\n随着关卡的推进，商店出售的物品价格会提高\n消耗灵石刷新商店出售的物品，被锁定的道具不会被刷新\n随着刷新次数的增加，单次刷新的价格也会上涨\n锁定状态会持续存在，不会因为进入下一关而结束，需要手动取消锁定"
+ },
+ "role_character_name1": {
+  "en": "Selfless",
+  "pt": "Altruísta",
+  "ch": "无私"
+ },
+ "role_character_name10": {
+  "en": "Protective",
+  "pt": "Protetor",
+  "ch": "护短"
+ },
+ "role_character_name11": {
+  "en": "Self-centered",
+  "pt": "Egocêntrico",
+  "ch": "孤僻"
+ },
+ "role_character_name12": {
+  "en": "Family-Oriented",
+  "pt": "Familiar",
+  "ch": "爱家"
+ },
+ "role_character_name13": {
+  "en": "Glory Hound",
+  "pt": "Glória",
+  "ch": "名声"
+ },
+ "role_character_name14": {
+  "en": "Power-hungry",
+  "pt": "Poder",
+  "ch": "权力"
+ },
+ "role_character_name15": {
+  "en": "Vengeful",
+  "pt": "Vingativo",
+  "ch": "睚眦"
+ },
+ "role_character_name17": {
+  "en": "Romantic",
+  "pt": "Romântico",
+  "ch": "情种"
+ },
+ "role_character_name18": {
+  "en": "Traditional",
+  "pt": "Tradicional",
+  "ch": "传承"
+ },
+ "role_character_name19": {
+  "en": "Faithful",
+  "pt": "Fiel",
+  "ch": "忠贞"
+ },
+ "role_character_name2": {
+  "en": "Upstanding",
+  "pt": "Íntegro",
+  "ch": "正直"
+ },
+ "role_character_name3": {
+  "en": "Kind",
+  "pt": "Bondoso",
+  "ch": "仁善"
+ },
+ "role_character_name5": {
+  "en": "Wicked",
+  "pt": "Perverso",
+  "ch": "狂邪"
+ },
+ "role_character_name6": {
+  "en": "Selfish",
+  "pt": "Egoísta",
+  "ch": "利已"
+ },
+ "role_character_name7": {
+  "en": "Evil",
+  "pt": "Maligno",
+  "ch": "邪恶"
+ },
+ "role_character_name8": {
+  "en": "Caring",
+  "pt": "Afetuoso",
+  "ch": "天伦"
+ },
+ "role_character_name9": {
+  "en": "Loyal to friends",
+  "pt": "Leal aos amigos",
+  "ch": "义气"
+ },
+ "role_grade_Desc12": {
+  "en": "Necessary materials: Three Flower Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Três Elixires de Flor. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：三花丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc13": {
+  "en": "Necessary materials: Cloud Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir das Nuvens. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：云中丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc14": {
+  "en": "Necessary materials: Any 1 of the 6 Qi Orbs. The higher the Qi Orb's Purity, the higher the success rate of your Breakthrough. You can also use Subtlety Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Qualquer um dos 6 Orbes de Qi. Quanto maior a pureza do Orbe de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode usar Elixires de Subtileza para aumentar essa taxa de sucesso.",
+  "ch": "必要材料：任意六道灵珠之一。灵珠的纯度越高，突破时的成功概率越高。可辅用玄微丹增加成功概率。"
+ },
+ "role_grade_Desc15": {
+  "en": "Necessary materials: Any 3 of the 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Soul Gathering Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 Orbes de Qi. Quanto maior a pureza dos Orbes de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Coleta de Alma para aumentar essa taxa de sucesso.",
+  "ch": "必要材料：任意六道灵珠之三。灵珠的纯度越高，突破时的成功概率越高。可辅用聚灵丹增加成功概率。"
+ },
+ "role_grade_Desc16": {
+  "en": "Necessary materials: All 6 Qi Orbs. The higher the Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Thousand River Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: os 6 Orbes de Qi. Quanto maior a pureza dos Orbes de Qi, maior será a taxa de sucesso do seu Avanço. Você também pode usar Elixires do Rio Milenar para aumentar essa taxa de sucesso.",
+  "ch": "必要材料：所有六道灵珠。灵珠的纯度越高，突破时的成功概率越高。可辅用万河丹增加成功概率。"
+ },
+ "role_grade_Desc19": {
+  "en": "Necessary materials: Spirit Transformation Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir de Transformação do Espírito. Quanto mais raro for o Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：化灵丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc22": {
+  "en": "Necessary materials: Nascent Soul Elixir (Mortal). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir da Alma Nascente (Mortal). Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：结婴丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc23": {
+  "en": "Necessary materials: Earth Aura. The higher its Purity, the higher the success rate of your Breakthrough. You can also use Nascent Soul Elixirs (Earth) to increase your success rate.",
+  "pt": "Materiais necessários: Aura da Terra. Quanto maior a pureza dessa Aura, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Alma Nascente (Terra) para aumentar essa taxa de sucesso.",
+  "ch": "必要材料：地道之气。气息纯度越高，突破时的成功概率越高。可辅用破茧丹增加成功概率。"
+ },
+ "role_grade_Desc24": {
+  "en": "Necessary materials: Heaven Aura. The higher its Purity, the higher the success rate of your Breakthrough. You can also use Nascent Soul Elixirs (Heaven) to increase your success rate.",
+  "pt": "Materiais necessários: Aura do Céu. Quanto maior a pureza dessa Aura, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Alma Nascente (Céu) para aumentar essa taxa de sucesso.",
+  "ch": "必要材料：天道之气。气息纯度越高，突破时的成功概率越高。可辅用六窍丹增加成功概率。"
+ },
+ "role_grade_Desc27": {
+  "en": "Necessary materials: Soul Reconstruction Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir de Reconstrução da Alma. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：化神丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc30": {
+  "en": "Necessary materials: Enlightenment Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir da Iluminação. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：悟道丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc31": {
+  "en": "Necessary materials: Any 1 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Qualquer um dos 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação dos Três Reinos para aumentar essa taxa de sucesso.",
+  "ch": "必要材料：任意六道灵斗气之一。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。"
+ },
+ "role_grade_Desc32": {
+  "en": "Necessary materials: Any 3 of the 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação para Três Reinos a fim de aumentar essa taxa de sucesso.",
+  "ch": "必要材料：任意六道灵斗气之三。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。"
+ },
+ "role_grade_Desc33": {
+  "en": "Necessary materials: All 6 Condensed Qi. The higher the Condensed Qi's Purity, the higher the success rate of your Breakthrough. You can also use Three Realm Enlightenment Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: os 6 tipos de Qi Condensado. Quanto maior a pureza do Qi Condensado, maior será a taxa de sucesso do seu Avanço. Você também pode utilizar Elixires de Iluminação para os Três Reinos a fim de aumentar essa taxa de sucesso.",
+  "ch": "必要材料：所有六道灵斗气。灵斗气纯度越高，突破时的成功概率越高。可辅用天化丹增加成功概率。"
+ },
+ "role_grade_Desc36": {
+  "en": "Necessary materials: Reborn Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir de Renascimento. Quanto maior a raridade do Elixir, maior será a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：羽化丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc39": {
+  "en": "Necessary materials: Transcendent Elixir (Yellow). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir da Transcendência (Amarelo). Quanto maior a raridade do Elixir, maior a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：登仙丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_Desc4": {
+  "en": "Necessary materials: Foundation Elixir (Mortal). The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir da Fundação (Mortal). Quanto maior a raridade do Elixir, maior a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：筑基丹。丹药品质越高，突破时的成功率越高。"
+ },
+ "role_grade_Desc40": {
+  "en": "Necessary materials: Any 1 of the 6 Condensed Qi Orbs. The higher the Condensed Qi Orb's Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Qualquer 1 dos 6 Orbes de Qi Condensado. Quanto maior a Pureza do Orbe de Qi Condensado, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Transcendência dos Três Caminhos para aumentar sua taxa de sucesso.",
+  "ch": "必要材料：任意六道灵斗珠之一。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。"
+ },
+ "role_grade_Desc41": {
+  "en": "Necessary materials: Any 3 of the 6 Condensed Qi Orbs. The higher the Condensed Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 Orbes de Qi Condensado. Quanto maior a Pureza dos Orbes de Qi Condensado, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Transcendência dos Três Caminhos para aumentar sua taxa de sucesso.",
+  "ch": "必要材料：任意六道灵斗珠之三。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。"
+ },
+ "role_grade_Desc42": {
+  "en": "Necessary materials: All 6 Condensed Qi Orbs. The higher the Condensed Qi Orbs' Purity, the higher the success rate of your Breakthrough. You can also use Three Path Transcendent Elixirs to increase your success rate.",
+  "pt": "Materiais necessários: Todos os 6 Orbes de Qi Condensado. Quanto maior a Pureza dos Orbes de Qi Condensado, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Transcendência dos Três Caminhos para aumentar sua taxa de sucesso.",
+  "ch": "必要材料：所有六道灵斗珠。灵斗珠纯度越高，突破时的成功概率越高。可辅用鸿蒙丹增加成功概率。"
+ },
+ "role_grade_Desc5": {
+  "en": "Necessary materials: Any 3 of the 6 Qi. The higher the Qi's Purity, the higher the success rate of your Breakthrough. You can also use Foundation Elixirs (Earth) to increase your success rate.",
+  "pt": "Materiais necessários: Quaisquer 3 dos 6 Qi. Quanto maior a Pureza do Qi, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Fundação (Terra) para aumentar sua taxa de sucesso.",
+  "ch": "必要材料：任意六道灵气之三。灵气的纯度越高，突破时的成功率越高。可辅用地坤丹增加成功概率。"
+ },
+ "role_grade_Desc6": {
+  "en": "Necessary materials: All 6 Qi. The higher the Qi's Purity, the higher the success rate of your Breakthrough. You can also use Foundation Elixirs (Heaven) to increase your success rate.",
+  "pt": "Materiais necessários: Todos os 6 Qi. Quanto maior a Pureza do Qi, maior a taxa de sucesso do seu Avanço. Você também pode usar Elixires da Fundação (Céu) para aumentar sua taxa de sucesso.",
+  "ch": "必要材料：所有六道灵气。灵气的纯度越高，突破时的成功率越高。可辅用天乾丹增加成功概率。"
+ },
+ "role_grade_Desc9": {
+  "en": "Necessary materials: Qi Condensation Elixir. The higher the Elixir's rarity, the higher the success rate of your Breakthrough.",
+  "pt": "Materiais necessários: Elixir da Condensação de Qi. Quanto maior a raridade do Elixir, maior a taxa de sucesso do seu Avanço.",
+  "ch": "必要材料：化晶丹。丹药品质越高，突破时的成功概率越高。"
+ },
+ "role_grade_grow_phase102": {
+  "en": "Transcendent Middle",
+  "pt": "Transcendência Médio",
+  "ch": "登仙中期"
+ },
+ "role_grade_grow_phase103": {
+  "en": "Transcendent Late",
+  "pt": "Transcendência Final",
+  "ch": "登仙后期"
+ },
+ "role_grade_grow_phase12": {
+  "en": "Qi Refining Middle",
+  "pt": "Refinamento de Qi Médio",
+  "ch": "炼气中期"
+ },
+ "role_grade_grow_phase13": {
+  "en": "Qi Refining Late",
+  "pt": "Refinamento de Qi Final",
+  "ch": "炼气后期"
+ },
+ "role_grade_grow_phase22": {
+  "en": "Foundation Middle",
+  "pt": "Fundação Médio",
+  "ch": "筑基中期"
+ },
+ "role_grade_grow_phase23": {
+  "en": "Foundation Late",
+  "pt": "Fundação Final",
+  "ch": "筑基后期"
+ },
+ "role_grade_grow_phase32": {
+  "en": "Qi Condensation Middle",
+  "pt": "Condensação de Qi Médio",
+  "ch": "结晶中期"
+ },
+ "role_grade_grow_phase33": {
+  "en": "Qi Condensation Late",
+  "pt": "Condensação de Qi Final",
+  "ch": "结晶后期"
+ },
+ "role_grade_grow_phase42": {
+  "en": "Golden Core Middle",
+  "pt": "Núcleo Dourado Médio",
+  "ch": "金丹中期"
+ },
+ "role_grade_grow_phase43": {
+  "en": "Golden Core Late",
+  "pt": "Núcleo Dourado Final",
+  "ch": "金丹后期"
+ },
+ "role_grade_grow_phase52": {
+  "en": "Origin Spirit Middle",
+  "pt": "Espírito de Origem Médio",
+  "ch": "具灵中期"
+ },
+ "role_grade_grow_phase53": {
+  "en": "Origin Spirit Late",
+  "pt": "Espírito de Origem Final",
+  "ch": "具灵后期"
+ },
+ "role_grade_grow_phase62": {
+  "en": "Nascent Soul Middle",
+  "pt": "Alma Nascente Médio",
+  "ch": "元婴中期"
+ },
+ "role_grade_grow_phase63": {
+  "en": "Nascent Soul Late",
+  "pt": "Alma Nascente Final",
+  "ch": "元婴后期"
+ },
+ "role_grade_grow_phase72": {
+  "en": "Soul Formation Middle",
+  "pt": "Formação da Alma Médio",
+  "ch": "化神中期"
+ },
+ "role_grade_grow_phase73": {
+  "en": "Soul Formation Late",
+  "pt": "Formação da Alma Final",
+  "ch": "化神后期"
+ },
+ "role_grade_grow_phase82": {
+  "en": "Enlightenment Middle",
+  "pt": "Iluminação Médio",
+  "ch": "悟道中期"
+ },
+ "role_grade_grow_phase83": {
+  "en": "Enlightenment Late",
+  "pt": "Iluminação Final",
+  "ch": "悟道后期"
+ },
+ "role_grade_grow_phase92": {
+  "en": "Reborn Middle",
+  "pt": "Renascimento Médio",
+  "ch": "羽化中期"
+ },
+ "role_grade_grow_phase93": {
+  "en": "Reborn Late",
+  "pt": "Renascimento Final",
+  "ch": "羽化后期"
+ },
+ "role_grade_grow_quality102": {
+  "en": "Transcendent - Yellow",
+  "pt": "Transcendência - Amarelo",
+  "ch": "黄道登仙"
+ },
+ "role_grade_grow_quality103": {
+  "en": "Transcendent - Dark",
+  "pt": "Transcendência - Sombrio",
+  "ch": "玄道登仙"
+ },
+ "role_grade_grow_quality104": {
+  "en": "Transcendent - Earth",
+  "pt": "Transcendência - Terra",
+  "ch": "地道登仙"
+ },
+ "role_grade_grow_quality105": {
+  "en": "Transcendent",
+  "pt": "Transcendência",
+  "ch": "登仙"
+ },
+ "role_grade_grow_quality21": {
+  "en": "Foundation - Mortal",
+  "pt": "Fundação - Mortal",
+  "ch": "人道筑基"
+ },
+ "role_grade_grow_quality23": {
+  "en": "Foundation - Earth",
+  "pt": "Fundação - Terra",
+  "ch": "地道筑基"
+ },
+ "role_grade_grow_quality25": {
+  "en": "Foundation - Heaven",
+  "pt": "Fundação - Céu",
+  "ch": "天道筑基"
+ },
+ "role_grade_grow_quality41": {
+  "en": "G5 Golden Core",
+  "pt": "Núcleo Dourado G5",
+  "ch": "五品金丹"
+ },
+ "role_grade_grow_quality42": {
+  "en": "G4 Golden Core",
+  "pt": "Núcleo Dourado G4",
+  "ch": "四品金丹"
+ },
+ "role_grade_grow_quality43": {
+  "en": "G3 Golden Core",
+  "pt": "Núcleo Dourado G3",
+  "ch": "三品金丹"
+ },
+ "role_grade_grow_quality44": {
+  "en": "G2 Golden Core",
+  "pt": "Núcleo Dourado G2",
+  "ch": "二品金丹"
+ },
+ "role_grade_grow_quality50": {
+  "en": "Origin Spirit (V)",
+  "pt": "Espírito de Origem",
+  "ch": "具灵"
+ },
+ "role_grade_grow_quality61": {
+  "en": "Nascent Soul - Mortal",
+  "pt": "Alma Nascente - Mortal",
+  "ch": "人道元婴"
+ },
+ "role_grade_grow_quality63": {
+  "en": "Nascent Soul - Earth",
+  "pt": "Alma Nascente - Terra",
+  "ch": "地道元婴"
+ },
+ "role_grade_grow_quality65": {
+  "en": "Nascent Soul - Heaven",
+  "pt": "Alma Nascente - Céu",
+  "ch": "天道元婴"
+ },
+ "role_grade_grow_quality70": {
+  "en": "Soul Formation (VII)",
+  "pt": "Formação da Alma",
+  "ch": "化神"
+ },
+ "role_grade_grow_quality82": {
+  "en": "Enlightenment (VIII)",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "role_grade_grow_quality83": {
+  "en": "Enlightenment (VIII)",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "role_grade_grow_quality84": {
+  "en": "Enlightenment (VIII)",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "role_grade_grow_quality85": {
+  "en": "Enlightenment (VIII)",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "role_grade_grow_quality90": {
+  "en": "Reborn (IX)",
+  "pt": "Renascimento",
+  "ch": "羽化"
+ },
+ "role_grade_name1": {
+  "en": "Qi Refining (I)",
+  "pt": "Refinamento de Qi",
+  "ch": "炼气"
+ },
+ "role_grade_name10": {
+  "en": "Transcendent (X)",
+  "pt": "Transcendência",
+  "ch": "登仙"
+ },
+ "role_grade_name2": {
+  "en": "Foundation (II)",
+  "pt": "Fundação",
+  "ch": "筑基"
+ },
+ "role_grade_name3": {
+  "en": "Qi Condensation (III)",
+  "pt": "Condensação de Qi",
+  "ch": "结晶"
+ },
+ "role_grade_name4": {
+  "en": "Golden Core (IV)",
+  "pt": "Núcleo Dourado",
+  "ch": "金丹"
+ },
+ "role_grade_name5": {
+  "en": "Origin Spirit (V)",
+  "pt": "Espírito de Origem",
+  "ch": "具灵"
+ },
+ "role_grade_name6": {
+  "en": "Nascent Soul (VI)",
+  "pt": "Alma Nascente",
+  "ch": "元婴"
+ },
+ "role_grade_name7": {
+  "en": "Soul Formation (VII)",
+  "pt": "Formação da Alma",
+  "ch": "化神"
+ },
+ "role_grade_name8": {
+  "en": "Enlightenment (VIII)",
+  "pt": "Iluminação",
+  "ch": "悟道"
+ },
+ "role_grade_phase1": {
+  "en": " Early",
+  "pt": " Inicial",
+  "ch": "初期"
+ },
+ "role_grade_phase2": {
+  "en": " Middle",
+  "pt": " Meio",
+  "ch": "中期"
+ },
+ "role_grade_phase3": {
+  "en": " Late",
+  "pt": " Final",
+  "ch": "后期"
+ },
+ "role_hobby_name101": {
+  "en": "Rainy",
+  "pt": "Chuvoso",
+  "ch": "雨天"
+ },
+ "role_hobby_name102": {
+  "en": "Sunny",
+  "pt": "Ensolarado",
+  "ch": "晴天"
+ },
+ "role_hobby_name103": {
+  "en": "Snowy",
+  "pt": "Nevoso",
+  "ch": "雪天"
+ },
+ "role_hobby_name104": {
+  "en": "Thunderstorm",
+  "pt": "Tempestade",
+  "ch": "打雷"
+ },
+ "role_hobby_name105": {
+  "en": "Cloudy",
+  "pt": "Nublado",
+  "ch": "阴天"
+ },
+ "role_hobby_name202": {
+  "en": "Flute",
+  "pt": "Flauta",
+  "ch": "笛"
+ },
+ "role_hobby_name203": {
+  "en": "Xiao",
+  "pt": "Xiao",
+  "ch": "箫"
+ },
+ "role_hobby_name205": {
+  "en": "Illustrated Books",
+  "pt": "Livros Ilustrados",
+  "ch": "图册"
+ },
+ "role_hobby_name206": {
+  "en": "Plants",
+  "pt": "Plantas",
+  "ch": "花草"
+ },
+ "role_hobby_name207": {
+  "en": "Bambooware",
+  "pt": "Bambus",
+  "ch": "竹器"
+ },
+ "role_hobby_name208": {
+  "en": "Books",
+  "pt": "Livros",
+  "ch": "书籍"
+ },
+ "role_hobby_name209": {
+  "en": "Boneware",
+  "pt": "Ossos",
+  "ch": "骨器"
+ },
+ "role_hobby_name210": {
+  "en": "Jadeware",
+  "pt": "Jade",
+  "ch": "玉器"
+ },
+ "role_hobby_name211": {
+  "en": "Stoneware",
+  "pt": "Pedra",
+  "ch": "石器"
+ },
+ "role_hobby_name212": {
+  "en": "Pottery",
+  "pt": "Cerâmica",
+  "ch": "陶器"
+ },
+ "role_hobby_name213": {
+  "en": "Accessory",
+  "pt": "Acessório",
+  "ch": "饰品"
+ },
+ "role_race_demon": {
+  "en": "Untamed",
+  "pt": "Indomado",
+  "ch": "妖族"
+ },
+ "role_race_herd": {
+  "en": "Nether Demon",
+  "pt": "Demônio do Submundo",
+  "ch": "冥妖"
+ },
+ "role_race_human": {
+  "en": "Human",
+  "pt": "Humano",
+  "ch": "人族"
+ },
+ "role_reputation_name1": {
+  "en": "Obscure",
+  "pt": "Obscuro",
+  "ch": "默默无闻"
+ },
+ "role_reputation_name10": {
+  "en": "Exalted",
+  "pt": "Exaltado",
+  "ch": "举世闻名"
+ },
+ "role_reputation_name11": {
+  "en": "Legendary",
+  "pt": "Lendário",
+  "ch": "名垂青史"
+ },
+ "role_reputation_name2": {
+  "en": "Unproven",
+  "pt": "Não Comprovado",
+  "ch": "初出茅庐"
+ },
+ "role_reputation_name3": {
+  "en": "Recognized",
+  "pt": "Reconhecido",
+  "ch": "崭露头角"
+ },
+ "role_reputation_name4": {
+  "en": "Prominent",
+  "pt": "Prominente",
+  "ch": "石破天惊"
+ },
+ "role_reputation_name5": {
+  "en": "Esteemed",
+  "pt": "Estimado",
+  "ch": "名震一时"
+ },
+ "role_reputation_name6": {
+  "en": "Famed",
+  "pt": "Famoso",
+  "ch": "闻名遐迩"
+ },
+ "role_reputation_name7": {
+  "en": "Renowned",
+  "pt": "Renomado",
+  "ch": "大名鼎鼎"
+ },
+ "role_reputation_name8": {
+  "en": "Illustrious",
+  "pt": "Ilustrious",
+  "ch": "声名远扬"
+ },
+ "role_reputation_name9": {
+  "en": "Revered",
+  "pt": "Reverenciado",
+  "ch": "名满天下"
+ },
+ "AltarStartText": {
+  "en": "Shattered Altar is brimmed with energy!",
+  "pt": "O Altar Despedaçado está cheio de energia!",
+  "ch": "破碎祭坛的能量已充盈！"
+ },
+ "ArtBook_Back": {
+  "en": "Back",
+  "pt": "Voltar",
+  "ch": "返回"
+ },
+ "ArtBook_Last": {
+  "en": "Prev",
+  "pt": "Anterior",
+  "ch": "上一页"
+ },
+ "ArtBook_Menu": {
+  "en": "Back",
+  "pt": "Voltar",
+  "ch": "返回目录"
+ },
+ "ArtBook_Move": {
+  "en": "Pan",
+  "pt": "Panorâmica",
+  "ch": "移动画集"
+ },
+ "ArtBook_Next": {
+  "en": "Next",
+  "pt": "Próxima",
+  "ch": "下一页"
+ },
+ "ArtBook_Option": {
+  "en": "Select",
+  "pt": "Selecionar",
+  "ch": "选择"
+ },
+ "ArtBook_Scale": {
+  "en": "Zoom",
+  "pt": "Zoom",
+  "ch": "放大缩小"
+ },
+ "ArtBook_Select": {
+  "en": "OK",
+  "pt": "OK",
+  "ch": "确定"
+ },
+ "Battle77_changeRoom": {
+  "en": "Not time yet",
+  "pt": "Ainda não é hora",
+  "ch": "时间未到"
+ },
+ "BattleEffectDesc100721": {
+  "en": "Agility &100721_ydsd&%",
+  "pt": "Agilidade &100721_ydsd&%",
+  "ch": "移动速度&100721_ydsd&%"
+ },
+ "BattleEffectDesc100722": {
+  "en": "Every stack increases damage taken by &100722_sdsh&%",
+  "pt": "Cada camada aumenta o dano recebido em &100722_sdsh&%",
+  "ch": "每层可使受到的伤害提升&100722_sdsh&%"
+ },
+ "BattleEffectDesc1007241": {
+  "en": "Every stack increases Special Skill power by &100724_tssh&%",
+  "pt": "Cada camada aumenta o poder da Técnica Especial em &100724_tssh&%",
+  "ch": "每层可使绝技威力提升&100724_tssh&%"
+ },
+ "BattleEffectDesc11002203": {
+  "en": "Martial Skill/Spiritual Skill stack +&11002201_tsgl&%",
+  "pt": "Probabilidade de acúmulo de Técnica Marcial/Técnica Espiritual +&11002201_tsgl&%",
+  "ch": "武技/灵技效果的叠加概率+&11002201_tsgl&%"
+ },
+ "BattleEffectDesc110023": {
+  "en": "Every stack increases damage taken by &110023_sdsh&%",
+  "pt": "Cada camada aumenta o dano recebido em &110023_sdsh&%",
+  "ch": "每层可使受到的伤害提升&110023_sdsh&%"
+ },
+ "BattleEffectDesc1100311": {
+  "en": "Damage dealt increases by &110031_zcsh&%",
+  "pt": "O dano infligido aumenta em &110031_zcsh&%",
+  "ch": "造成的伤害提升&110031_zcsh&%"
+ },
+ "BattleEffectDesc11003203": {
+  "en": "Recover &11003201_hlbl&% Energy every &11003201_hljg&s",
+  "pt": "Recupera &11003201_hlbl&% de Energia a cada &11003201_hljg& segundos",
+  "ch": "每&11003201_hljg&秒回复&11003201_hlbl&%的灵力"
+ },
+ "BattleEffectDesc11004103": {
+  "en": "Every stack increases Special Skill power by &11004101_tsjj&%",
+  "pt": "Cada camada aumenta o poder da Técnica Especial em &11004101_tsjj&%",
+  "ch": "每层可使绝技威力提升&11004101_tsjj&%"
+ },
+ "BattleEffectDesc1100633": {
+  "en": "Damage taken &110063_sdsh&%",
+  "pt": "Dano recebido &110063_sdsh&%",
+  "ch": "受到的伤害&110063_sdsh&%"
+ },
+ "BattleEffectDesc515103": {
+  "en": "Every stack gives Crit rate +&515101_bjgl&%",
+  "pt": "Cada camada aumenta a Chance Crítica em +&515101_bjgl&%",
+  "ch": "每层可使暴击率+&515101_bjgl&%"
+ },
+ "BattleEffectDesc5152113": {
+  "en": "Every stack gives Crit rate +&51522_bjbl&",
+  "pt": "Cada camada aumenta o Multiplicador Crítico em +&51522_bjbl&",
+  "ch": "每层可使暴击倍率+&51522_bjbl&"
+ },
+ "BattleEffectDesc70511": {
+  "en": "Damage dealt increases by &7051_tssh&%",
+  "pt": "O dano infligido aumenta em &7051_tssh&%",
+  "ch": "造成的伤害提升&7051_tssh&%"
+ }
+}

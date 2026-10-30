@@ -1,0 +1,1901 @@
+{
+ "ui_zmdbjfs_tipsSelectDecided": {
+  "en": "{0}{1} decides to send out {2}",
+  "pt": "{0}{1} decide enviar {2}",
+  "ch": "{0}{1}决定派出{2}"
+ },
+ "ui_zmdbjfs_tipsSelectGiveUp": {
+  "en": "{0}{1} decides to forfeit this round",
+  "pt": "{0}{1} decide desistir desta rodada",
+  "ch": "{0}{1}决定本场比赛弃权"
+ },
+ "ui_zmdbjfs_tipsWinChoose": {
+  "en": "Winner's choice",
+  "pt": "Escolha do vencedor",
+  "ch": "胜方选择"
+ },
+ "ui_zmdbjfs_titleIntro": {
+  "en": "Points Race Rules:",
+  "pt": "Regras da Corrida de Pontos:",
+  "ch": "积分赛规则："
+ },
+ "ui_zmdbjfs_watchBattle": {
+  "en": "Watch the battle",
+  "pt": "Assista à batalha",
+  "ch": "观看战斗"
+ },
+ "ui_zmdbjfs_watchTextBtnOk": {
+  "en": "Confirm",
+  "pt": "Confirmar",
+  "ch": "确定"
+ },
+ "ui_zmdbjfs_watchTextTglAll": {
+  "en": "Select All",
+  "pt": "Selecionar Todos",
+  "ch": "全选"
+ },
+ "ui_zmdbjfs_watchTextTips": {
+  "en": "Check Disciple of interest <#ad0000>to watch the battle</color>",
+  "pt": "Verifique o Discípulo de interesse <#ad0000>para assistir à batalha</color>",
+  "ch": "勾选感兴趣的弟子<#ad0000>进行观战</color>"
+ },
+ "ui_zmdbjg_textBtnClose": {
+  "en": "Close",
+  "pt": "Fechar",
+  "ch": "关闭"
+ },
+ "ui_zmdbjg_textBtnCloseExit": {
+  "en": "Leave Sect Tournament",
+  "pt": "Sair do Torneio da Seita",
+  "ch": "离开宗门大比"
+ },
+ "ui_zmdbjg_textSchScore": {
+  "en": "Points: {0}",
+  "pt": "Pontos: {0}",
+  "ch": "积分：{0}"
+ },
+ "ui_zmdblts_assignTextSelected": {
+  "en": "Preparing for battle",
+  "pt": "Preparando-se para a batalha",
+  "ch": "备战中"
+ },
+ "ui_zmdblts_challengersTips": {
+  "en": "{0} has {1} remaining Disciples.",
+  "pt": "{0} tem {1} Discípulos restantes.",
+  "ch": "{0}剩余弟子{1}人"
+ },
+ "ui_zmdblts_givePropsRemainsContent": {
+  "en": "Not all Treasure has been given away. Treasure will disappear when Open Challenge Match ends.",
+  "pt": "Nem todo o Tesouro foi distribuído. O Tesouro desaparecerá quando o Desafio Aberto terminar.",
+  "ch": "秘宝还没全部赠与，擂台赛结束后秘宝将会消失。"
+ },
+ "ui_zmdblts_givePropsRemainsTitle": {
+  "en": "Tip",
+  "pt": "Dica",
+  "ch": "提示"
+ },
+ "ui_zmdblts_mibaotips": {
+  "en": "Left click the Treasure to command the Disciples on the battlefield to unlock the corresponding Treasure. Disciples gain the Treasure effect after using it.",
+  "pt": "Clique com o botão esquerdo no Tesouro para ordenar aos Discípulos no campo de batalha que desbloqueiem o Tesouro correspondente. Os Discípulos recebem o efeito do Tesouro após utilizá-lo.",
+  "ch": "左键点击秘宝可以指挥场上弟子释放对应秘宝，弟子使用后会获得秘宝对应效果。"
+ },
+ "ui_zmdblts_optCancelEnterBattle": {
+  "en": "Cancel going up on stage",
+  "pt": "Cancelar a subida ao palco",
+  "ch": "取消上擂"
+ },
+ "ui_zmdblts_optEnterBattle": {
+  "en": "Get on the stage",
+  "pt": "Suba ao palco",
+  "ch": "上擂"
+ },
+ "ui_zmdblts_optExitBattle": {
+  "en": "Get off the stage",
+  "pt": "Saia do palco",
+  "ch": "下擂"
+ },
+ "ui_zmdblts_readyEnterTips": {
+  "en": "Apply for the next round of the stage challenge",
+  "pt": "Inscreva-se na próxima rodada do desafio de etapas",
+  "ch": "申请下一轮上擂挑战"
+ },
+ "ui_zmdblts_readyEnterTipsCancel": {
+  "en": "Cancel stage application",
+  "pt": "Cancelar solicitação de estágio",
+  "ch": "取消上擂申请"
+ },
+ "ui_zmdblts_speedTextTips": {
+  "en": "Click to adjust viewing speed",
+  "pt": "Clique para ajustar a velocidade de exibição",
+  "ch": "点击调整观看速度"
+ },
+ "ui_zmdblts_speedTextTips1": {
+  "en": "Speeding up battle...",
+  "pt": "Acelerando a batalha...",
+  "ch": "对战加速运行中…"
+ },
+ "ui_zmdblts_textAssignItemBattling": {
+  "en": "In Battle",
+  "pt": "Em Batalha",
+  "ch": "战斗中"
+ },
+ "ui_zmdblts_textAssignTitle": {
+  "en": "Assign a disciple to fight",
+  "pt": "Designe um discípulo para lutar",
+  "ch": "指派弟子上场"
+ },
+ "ui_zmdblts_textAutoBegin": {
+  "en": "Enable Auto Start",
+  "pt": "Ativar início automático"
+ },
+ "ui_zmdblts_textBtnScore": {
+  "en": "Ranking",
+  "pt": "Classificação",
+  "ch": "排行榜"
+ },
+ "ui_zmdblts_textBtnTips": {
+  "en": "Rule",
+  "pt": "Regra",
+  "ch": "规则"
+ },
+ "ui_zmdblts_textComboTitle": {
+  "en": "Win",
+  "pt": "Vitória",
+  "ch": "胜"
+ },
+ "ui_zmdblts_textMovCamTips": {
+  "en": "Use MMB to drag",
+  "pt": "Use o botão do meio do mouse para arrastar",
+  "ch": "鼠标中键可以拖动屏幕"
+ },
+ "ui_zmdblts_textTglAssign": {
+  "en": "Assign",
+  "pt": "Atribuir",
+  "ch": "指派"
+ },
+ "ui_zmdblts_tipsExitBattleContent": {
+  "en": "You cannot return to the stage if you leave. Continue?",
+  "pt": "Você não poderá retornar ao palco se sair. Continuar?",
+  "ch": "下擂后将不能重返擂台，是否继续？"
+ },
+ "ui_zmdblts_tipsExitBattleTitle": {
+  "en": "Notice",
+  "pt": "Aviso",
+  "ch": "提示"
+ },
+ "ui_zmdblts_tipsUnitDialogue": {
+  "en": "Press E to view information",
+  "pt": "Pressione E para visualizar informações",
+  "ch": "按E查看信息"
+ },
+ "ui_zmdblts_tipsWaitChallenger": {
+  "en": "Waiting for the challenger to come up on the stage",
+  "pt": "Aguardando o desafiante subir ao palco.",
+  "ch": "等待挑战者上擂"
+ },
+ "ui_zmdblts_titleBatInfoChallengers": {
+  "en": "Participant",
+  "pt": "Participante",
+  "ch": "参赛者"
+ },
+ "ui_zmdblts_titleBatInfoKills": {
+  "en": "Defeat",
+  "pt": "Derrota",
+  "ch": "击败"
+ },
+ "ui_zmdblts_titleBatInfoRank": {
+  "en": "Ranking",
+  "pt": "Classificação",
+  "ch": "排名"
+ },
+ "ui_zmdblts_titleBatInfoScore": {
+  "en": "Points",
+  "pt": "Pontos",
+  "ch": "积分"
+ },
+ "ui_zmdblts_titleRoundPrepare": {
+  "en": "Ready",
+  "pt": "Pronto",
+  "ch": "准备"
+ },
+ "ui_zmdblts_zhanLetter": {
+  "en": "Battle",
+  "pt": "Batalha",
+  "ch": "战"
+ },
+ "ui_zmdbphb_btnChestTitle1": {
+  "en": "First Place Reward",
+  "pt": "Recompensa pelo primeiro lugar",
+  "ch": "头筹奖励"
+ },
+ "ui_zmdbphb_btnChestTitle2": {
+  "en": "Second Place Reward",
+  "pt": "Recompensa pelo segundo lugar",
+  "ch": "次席奖励"
+ },
+ "ui_zmdbphb_btnChestTitle3": {
+  "en": "Last Place Reward",
+  "pt": "Recompensa pelo último lugar",
+  "ch": "末席奖励"
+ },
+ "ui_zmdbqd_cancel": {
+  "en": "Cancel",
+  "pt": "Cancelar",
+  "ch": "取消"
+ },
+ "ui_zmdbqd_confirm": {
+  "en": "Confirm",
+  "pt": "Confirmar",
+  "ch": "确定"
+ },
+ "ui_zmdbqd_describe": {
+  "en": "Give up on this Sect Tournament?",
+  "pt": "Desistir desse Torneio da Seita?",
+  "ch": "是否放弃本届宗门大比？"
+ },
+ "ui_zmdbqd_textNo": {
+  "en": "Think it over",
+  "pt": "Pense bem sobre isso.",
+  "ch": "再想想"
+ },
+ "ui_zmdbqd_textYes": {
+  "en": "Give up on Tournament",
+  "pt": "Desista do Torneio.",
+  "ch": "放弃大比"
+ },
+ "ui_zmdbxr_contentCallPlayer": {
+  "en": "The Sect Tournament will be held soon. Participate?",
+  "pt": "O Torneio da Seita será realizado em breve. Você vai participar?",
+  "ch": "宗门大比即将举行，是否参加？"
+ },
+ "ui_zmdbxr_selectAccept": {
+  "en": "Agree",
+  "pt": "Concordo",
+  "ch": "同意"
+ },
+ "ui_zmdbxr_selectReject": {
+  "en": "Disagree",
+  "pt": "Discordo",
+  "ch": "反对"
+ },
+ "ui_zmdbxr_titleCallPlayer": {
+  "en": "Notice",
+  "pt": "Aviso",
+  "ch": "提示"
+ },
+ "ui_zongji": {
+  "en": "Trace detected",
+  "pt": "Rastro detectado",
+  "ch": "发现踪迹"
+ },
+ "common_bizi": {
+  "en": "Nose ",
+  "pt": "Nariz ",
+  "ch": "鼻子"
+ },
+ "common_caozuoshibai": {
+  "en": "Not enough days left in this month",
+  "pt": "Dias insuficientes restantes neste mês",
+  "ch": "本月时间不足"
+ },
+ "common_cundangsunhuai": {
+  "en": "This save is corrupted",
+  "pt": "Este arquivo de salvamento está corrompido",
+  "ch": "此存档已损坏"
+ },
+ "common_di": {
+  "en": "#",
+  "pt": "#",
+  "ch": "第"
+ },
+ "common_dian": {
+  "en": ",",
+  "pt": ",",
+  "ch": "、"
+ },
+ "common_dianjijixu": {
+  "en": "Click here to continue...",
+  "pt": "Clique aqui para continuar...",
+  "ch": "点击继续......"
+ },
+ "common_diuqi": {
+  "en": "Discard {0}?",
+  "pt": "Descartar {0}?",
+  "ch": "是否丢弃{0}？"
+ },
+ "common_familyName": {
+  "en": "Surname",
+  "pt": "Sobrenome",
+  "ch": "姓"
+ },
+ "common_fen": {
+  "en": "min",
+  "pt": "min",
+  "ch": "分"
+ },
+ "common_fou": {
+  "en": "No",
+  "pt": "Não",
+  "ch": "否"
+ },
+ "common_fuzhi": {
+  "en": "Copy",
+  "pt": "Copiar",
+  "ch": "复制"
+ },
+ "common_ganggang": {
+  "en": "Just now",
+  "pt": "Agora mesmo",
+  "ch": "刚刚"
+ },
+ "common_ge": {
+  "en": "{#kong}",
+  "pt": "{#kong}",
+  "ch": "个"
+ },
+ "common_gezibuzu": {
+  "en": "Max number of skills learned. Unlearn some skills or increase your Realm to have more skill slots.",
+  "pt": "Número máximo de habilidades aprendidas. Esqueça algumas habilidades ou aumente seu Reino para ter mais espaços de habilidade.",
+  "ch": "学习技能数量达到上限，可遗忘技能或提升境界，获得更多的技能槽位。"
+ },
+ "common_houbei": {
+  "en": "Back ",
+  "pt": "Costas ",
+  "ch": "后背"
+ },
+ "common_houfa": {
+  "en": "Back Hair ",
+  "pt": "Cabelo de Trás ",
+  "ch": "后发"
+ },
+ "common_jilu": {
+  "en": "Record",
+  "pt": "Registro",
+  "ch": "记录"
+ },
+ "common_jinggao": {
+  "en": "Warning",
+  "pt": "Aviso",
+  "ch": "警告"
+ },
+ "common_jingjie": {
+  "en": "Realm",
+  "pt": "Reino",
+  "ch": "境界"
+ },
+ "common_jingjiebuzu": {
+  "en": "Realm too low",
+  "pt": "Reino muito baixo",
+  "ch": "境界不足"
+ },
+ "common_kaishiyouxi": {
+  "en": "START GAME",
+  "pt": "INICIAR JOGO",
+  "ch": "开始游戏"
+ },
+ "common_kuangxie": {
+  "en": "Wicked",
+  "pt": "Perverso",
+  "ch": "狂邪"
+ },
+ "common_lianshi": {
+  "en": "Facial Feature ",
+  "pt": "Acessório Facial ",
+  "ch": "脸饰"
+ },
+ "common_liji": {
+  "en": "Selfish",
+  "pt": "Egoísta",
+  "ch": "利己"
+ },
+ "common_lingshibuzu": {
+  "en": "Not enough Spirit Stones!",
+  "pt": "Pedras Espirituais insuficientes!",
+  "ch": "灵石不足！"
+ },
+ "common_maozi": {
+  "en": "Headwear ",
+  "pt": "Chapéu ",
+  "ch": "帽子"
+ },
+ "common_meili": {
+  "en": "Charisma",
+  "pt": "Carisma",
+  "ch": "魅力"
+ },
+ "common_meixin": {
+  "en": "Glabella ",
+  "pt": "Glabela ",
+  "ch": "眉心"
+ },
+ "common_miao": {
+  "en": " s",
+  "pt": " s",
+  "ch": "秒"
+ },
+ "common_mo": {
+  "en": "Demonic",
+  "pt": "Demoníaco",
+  "ch": "魔"
+ },
+ "common_monstNan": {
+  "en": "M",
+  "pt": "M",
+  "ch": "雄"
+ },
+ "common_monstNv": {
+  "en": "F",
+  "pt": "F",
+  "ch": "雌"
+ },
+ "common_neizaixingge": {
+  "en": "Internal Traits",
+  "pt": "Traços Internos",
+  "ch": "内在性格"
+ },
+ "common_nian": {
+  "en": " Year",
+  "pt": " Ano",
+  "ch": "年"
+ },
+ "common_nianling": {
+  "en": " Age",
+  "pt": " Idade",
+  "ch": "年龄"
+ },
+ "common_qita": {
+  "en": "Other",
+  "pt": "Outros",
+  "ch": "其它"
+ },
+ "common_queding": {
+  "en": "OK",
+  "pt": "OK",
+  "ch": "确定"
+ },
+ "common_queding2": {
+  "en": "OK",
+  "pt": "OK",
+  "ch": "确 定"
+ },
+ "common_queren": {
+  "en": "Confirm",
+  "pt": "Confirmar",
+  "ch": "确认"
+ },
+ "common_queshao": {
+  "en": "Missing: {0}!",
+  "pt": "Faltando: {0}!",
+  "ch": "缺少{0}！"
+ },
+ "common_quxiao": {
+  "en": "Cancel",
+  "pt": "Cancelar",
+  "ch": "取消"
+ },
+ "common_renlei": {
+  "en": "Human",
+  "pt": "Humano",
+  "ch": "人类"
+ },
+ "common_ri": {
+  "en": "Day",
+  "pt": "Dia",
+  "ch": "日"
+ },
+ "common_shenfen": {
+  "en": "Position",
+  "pt": "Posição",
+  "ch": "身份"
+ },
+ "common_shenwang": {
+  "en": "Reputation",
+  "pt": "Reputação",
+  "ch": "声望"
+ },
+ "common_shi": {
+  "en": "Yes",
+  "pt": "Sim",
+  "ch": "是"
+ },
+ "common_suzi1": {
+  "en": "一",
+  "pt": "Um",
+  "ch": "一"
+ },
+ "common_suzi10": {
+  "en": "十",
+  "pt": "Dez",
+  "ch": "十"
+ },
+ "common_suzi2": {
+  "en": "二",
+  "pt": "Dois",
+  "ch": "二"
+ },
+ "common_suzi3": {
+  "en": "三",
+  "pt": "Três",
+  "ch": "三"
+ },
+ "common_suzi4": {
+  "en": "四",
+  "pt": "Quatro",
+  "ch": "四"
+ },
+ "common_suzi5": {
+  "en": "五",
+  "pt": "Cinco",
+  "ch": "五"
+ },
+ "common_suzi6": {
+  "en": "六",
+  "pt": "Seis",
+  "ch": "六"
+ },
+ "common_suzi7": {
+  "en": "七",
+  "pt": "Sete",
+  "ch": "七"
+ },
+ "common_suzi8": {
+  "en": "八",
+  "pt": "Oito",
+  "ch": "八"
+ },
+ "common_suzi9": {
+  "en": "九",
+  "pt": "Nove",
+  "ch": "九"
+ },
+ "common_ta1": {
+  "en": "he",
+  "pt": "ele",
+  "ch": "他"
+ },
+ "common_ta2": {
+  "en": "she",
+  "pt": "ela",
+  "ch": "她"
+ },
+ "common_ta3": {
+  "en": "his",
+  "pt": "dele",
+  "ch": "他的"
+ },
+ "common_ta4": {
+  "en": "her",
+  "pt": "dela",
+  "ch": "她的"
+ },
+ "common_ta5": {
+  "en": "him",
+  "pt": "ele",
+  "ch": "他"
+ },
+ "common_ta6": {
+  "en": "her",
+  "pt": "ela",
+  "ch": "她"
+ },
+ "common_tian": {
+  "en": "d",
+  "pt": "d",
+  "ch": "天"
+ },
+ "common_tianshubuzu": {
+  "en": "Not enough days left in this month",
+  "pt": "Dias insuficientes restantes neste mês",
+  "ch": "本月时间不足"
+ },
+ "common_tiaoguobenyue": {
+  "en": "Skip the current month?",
+  "pt": "Pular o mês atual?",
+  "ch": "本月天数不足，是否跳过本月。"
+ },
+ "common_tishi": {
+  "en": "Notice",
+  "pt": "Aviso",
+  "ch": "提示"
+ },
+ "common_tou": {
+  "en": "Face ",
+  "pt": "Rosto ",
+  "ch": "脸型"
+ },
+ "common_tuichuyouxi": {
+  "en": "Quit the game?",
+  "pt": "Sair do jogo?",
+  "ch": "你确定退出游戏吗？"
+ },
+ "common_waimao": {
+  "en": "Appearance",
+  "pt": "Visual",
+  "ch": "外貌"
+ },
+ "common_waizaixingge": {
+  "en": "External Traits",
+  "pt": "Traços Externos",
+  "ch": "外在性格"
+ },
+ "common_wu": {
+  "en": "N/A",
+  "pt": "N/A",
+  "ch": "无"
+ },
+ "common_xiaoshi": {
+  "en": "h",
+  "pt": "h",
+  "ch": "时"
+ },
+ "common_xingbie": {
+  "en": "Sex",
+  "pt": "Sexo",
+  "ch": "性别"
+ },
+ "common_xingming": {
+  "en": "Name",
+  "pt": "Nome",
+  "ch": "姓名"
+ },
+ "common_xuyao2": {
+  "en": "Enable",
+  "pt": "Habilitar",
+  "ch": "需要"
+ },
+ "common_yanjing": {
+  "en": "Eyes ",
+  "pt": "Olhos ",
+  "ch": "眼睛"
+ },
+ "common_yifu": {
+  "en": "Outfit ",
+  "pt": "Roupa ",
+  "ch": "衣服"
+ },
+ "common_youshan": {
+  "en": "Kind",
+  "pt": "Bondoso",
+  "ch": "友善"
+ },
+ "common_yue": {
+  "en": " Month",
+  "pt": " Mês",
+  "ch": "月"
+ },
+ "common_yuetishi": {
+  "en": "month(s) ago",
+  "pt": "mês(es) atrás",
+  "ch": "个月前"
+ },
+ "common_zheng": {
+  "en": "Righteous",
+  "pt": "Justo",
+  "ch": "正"
+ },
+ "common_zhengzhi": {
+  "en": "Upstanding",
+  "pt": "Íntegro",
+  "ch": "正直"
+ },
+ "common_zhizi": {
+  "en": "Stat",
+  "pt": "Aptidão",
+  "ch": "资质"
+ },
+ "common_zhongzu": {
+  "en": "Race",
+  "pt": "Raça",
+  "ch": "种族"
+ },
+ "common_zongmen": {
+  "en": "Sect",
+  "pt": "Seita",
+  "ch": "宗门"
+ },
+ "common_zuiba": {
+  "en": "Mouth ",
+  "pt": "Boca ",
+  "ch": "嘴巴"
+ },
+ "school_attackEveryYear": {
+  "en": "You may declare war up to twice a year",
+  "pt": "Você pode declarar guerra até duas vezes por ano",
+  "ch": "每年最多宣战两次"
+ },
+ "school_autoSelect": {
+  "en": "Quick Select",
+  "pt": "Seleção Rápida",
+  "ch": "快速选择"
+ },
+ "school_baishi1": {
+  "en": "Ask {0} to be your master",
+  "pt": "Pedir a {0} para ser seu mestre",
+  "ch": "拜{0}为师"
+ },
+ "school_baishi2": {
+  "en": "No master needed",
+  "pt": "Não preciso de mestre",
+  "ch": "谁都不拜"
+ },
+ "school_benyuetishi": {
+  "en": "You've already participated in this month's Sect Duel!",
+  "pt": "Você já participou do Duelo da Seita deste mês!",
+  "ch": "你已经参加过本月的宗门小比了！"
+ },
+ "school_biguan": {
+  "en": "Cultivate",
+  "pt": "Cultivar",
+  "ch": "闭关"
+ },
+ "school_biguanxiulian": {
+  "en": "Cultivate",
+  "pt": "Cultivar",
+  "ch": "闭关修炼"
+ },
+ "school_bishi1": {
+  "en": "Sect Tryouts",
+  "pt": "Peneira da Seita",
+  "ch": "入门小比"
+ },
+ "school_bishi2": {
+  "en": "Promotion Duel (Disciple)",
+  "pt": "Duelo de Promoção (Discípulo)",
+  "ch": "外门小比"
+ },
+ "school_bishi3": {
+  "en": "Promotion Duel (True Disciple)",
+  "pt": "Duelo de Promoção (Discípulo Verdadeiro)",
+  "ch": "内门小比"
+ },
+ "school_bishi4": {
+  "en": "Promotion Duel (Elder)",
+  "pt": "Duelo de Promoção (Ancião)",
+  "ch": "真传大比"
+ },
+ "school_bishi5": {
+  "en": "Promotion Duel (Grand Elder)",
+  "pt": "Duelo de Promoção (Grão-Ancião)",
+  "ch": "长老大比"
+ },
+ "school_building_chuansongzhen": {
+  "en": "Portal",
+  "pt": "Portal",
+  "ch": "传送阵"
+ },
+ "school_building_duanbinggu": {
+  "en": "断兵谷",
+  "pt": "Vale das Armas Quebradas",
+  "ch": "断兵谷"
+ },
+ "school_building_fengshuilou": {
+  "en": "风水楼",
+  "pt": "Torre de Feng Shui",
+  "ch": "风水楼"
+ },
+ "school_building_huzongdazhen": {
+  "en": "护宗大阵",
+  "pt": "Grande Formação Protetora da Seita",
+  "ch": "护宗大阵"
+ },
+ "school_building_jianzhong": {
+  "en": "一刀两剑冢",
+  "pt": "Túmulo de Uma Lâmina e Duas Espadas",
+  "ch": "一刀两剑冢"
+ },
+ "school_building_julingzhen": {
+  "en": "Spirit Pavilion",
+  "pt": "Pavilhão do Espírito",
+  "ch": "灵阁"
+ },
+ "school_building_kuangdong": {
+  "en": "矿洞",
+  "pt": "Mina",
+  "ch": "矿洞"
+ },
+ "school_building_kufang": {
+  "en": "库房",
+  "pt": "Armazém",
+  "ch": "库房"
+ },
+ "school_building_liandanfang": {
+  "en": "炼丹房",
+  "pt": "Sala de Alquimia",
+  "ch": "炼丹房"
+ },
+ "school_building_longguzhidi": {
+  "en": "龙骨之地",
+  "pt": "Terra dos Ossos de Dragão",
+  "ch": "龙骨之地"
+ },
+ "school_building_lunhuitai": {
+  "en": "轮回台",
+  "pt": "Plataforma da Reencarnação",
+  "ch": "轮回台"
+ },
+ "school_building_murenzhuang": {
+  "en": "木人桩",
+  "pt": "Boneco de Treino de Madeira",
+  "ch": "木人桩"
+ },
+ "school_building_qinglongyuan": {
+  "en": "青龙渊",
+  "pt": "Abismo do Dragão Azure",
+  "ch": "青龙渊"
+ },
+ "school_building_renwuting": {
+  "en": "Mission Hall",
+  "pt": "Salão de Missões",
+  "ch": "任务厅"
+ },
+ "school_building_xiangfang": {
+  "en": "厢房",
+  "pt": "Alojamento",
+  "ch": "厢房"
+ },
+ "school_building_xianshu": {
+  "en": "仙树",
+  "pt": "Árvore Imortal",
+  "ch": "仙树"
+ },
+ "school_building_xuanwuchi": {
+  "en": "玄武池",
+  "pt": "Lago Xuanwu",
+  "ch": "玄武池"
+ },
+ "school_building_xuechi": {
+  "en": "血池",
+  "pt": "Lago de Sangue",
+  "ch": "血池"
+ },
+ "school_building_yanwutang": {
+  "en": "Martial Arts Hall",
+  "pt": "Salão de Artes Marciais",
+  "ch": "演武堂"
+ },
+ "school_building_yaogu": {
+  "en": "药谷",
+  "pt": "Vale da Medicina",
+  "ch": "药谷"
+ },
+ "school_building_yishidatang": {
+  "en": "Council Hall",
+  "pt": "Salão do Conselho",
+  "ch": "议事大堂"
+ },
+ "school_building_zhuqifang": {
+  "en": "铸器房",
+  "pt": "Forjaria",
+  "ch": "铸器房"
+ },
+ "school_building_zhuquechao": {
+  "en": "朱雀巢",
+  "pt": "Ninho da Fênix Vermelha",
+  "ch": "朱雀巢"
+ },
+ "school_cansaitishi": {
+  "en": "Spend {0} Contribution to fight Duel?",
+  "pt": "Gastar {0} Contribuição para lutar um Duelo?",
+  "ch": "是否花费{0}点贡献参加小比？"
+ },
+ "school_cansaitishi2": {
+  "en": "Challenging the Elder will significantly reduce the Elder's fondness for you. Do you want to spend {0} Contribution to Challenge anyway?",
+  "pt": "Desafiar o Ancião reduzirá significativamente a afeição dele por você. Deseja gastar {0} Contribuição para Desafiar mesmo assim?",
+  "ch": "挑战长老将大幅度降低长老对你的好感，是否花费{0}点贡献挑战？"
+ },
+ "school_canwu": {
+  "en": "Comprehend",
+  "pt": "Compreender",
+  "ch": "参悟"
+ },
+ "school_changjinggetishi": {
+  "en": "The Manual Library contains many useful Manuals, but one needs a keen eye to find them.",
+  "pt": "A Biblioteca de Manuais contém muitos Manuais úteis, mas é preciso um olhar atento para encontrá-los.",
+  "ch": "藏经阁内绝学众多，但需要有缘人用心去发现。"
+ },
+ "school_chiyou": {
+  "en": "Owned",
+  "pt": "Possuído",
+  "ch": "持有"
+ },
+ "school_chuanchengtishi": {
+  "en": "Spend {0} Contribution to challenge Sect Tradition?",
+  "pt": "Gastar {0} Contribuição para desafiar a Tradição da Seita?",
+  "ch": "是否花费{0}点贡献挑战宗门传承？"
+ },
+ "school_cichilueduo": {
+  "en": "Loots for Sect from this raid",
+  "pt": "Espólios para a Seita desta incursão",
+  "ch": "此次掠夺为宗门获取了"
+ },
+ "school_congxinxunzhao": {
+  "en": "Search Again",
+  "pt": "Buscar Novamente",
+  "ch": "重新寻找"
+ },
+ "school_dacheng": {
+  "en": "This skill has reached VIII",
+  "pt": "Esta Habilidade atingiu VIII",
+  "ch": "此技能已大成"
+ },
+ "school_dazhanglaotishi": {
+  "en": "Challenging the Grand Elder will significantly reduce the Grand Elder's fondness for you. Do you want to spend {0} Contribution to Challenge anyway?",
+  "pt": "Desafiar o Grão-Ancião reduzirá significativamente a afeição do Grão-Ancião por você. Deseja gastar {0} de Contribuição para Desafiar mesmo assim?",
+  "ch": "挑战大长老将大幅度降低大长老对你的好感，是否花费{0}点贡献挑战？"
+ },
+ "school_dazhanglaotishi2": {
+  "en": "Since you have been promoted to Grand Elder, your True Disciples are temporarily demoted to Disciples. Do you wish to reallocate Sect personnel?",
+  "pt": "Como você foi promovido a Grão-Ancião, seus Discípulos Verdadeiros foram temporariamente rebaixados a Discípulos. Deseja realocar o pessoal da Seita?",
+  "ch": "因为你晋升到大长老，你的真传弟子现在暂时降级为内门弟子，是否现在调整宗门人事。"
+ },
+ "school_diduizhongmen": {
+  "en": "Enemy Sects",
+  "pt": "Seitas Inimigas",
+  "ch": "敌对宗门"
+ },
+ "school_dipan": {
+  "en": "Sect Territory: {0} Spaces",
+  "pt": "Território da Seita: {0} Espaços",
+  "ch": "宗门地盘：{0}格"
+ },
+ "school_dizi": {
+  "en": "Disciple",
+  "pt": "Discípulo",
+  "ch": "弟子"
+ },
+ "school_duihuan": {
+  "en": "Redeem",
+  "pt": "Resgatar",
+  "ch": "兑换"
+ },
+ "school_duihuantishi": {
+  "en": "Exchange {0} Sect Contribution for {1}?",
+  "pt": "Trocar {0} de Contribuição da Seita por {1}?",
+  "ch": "是否花费{0}宗门贡献兑换{1}？"
+ },
+ "school_duihuantishi2": {
+  "en": "Requires {0} and {1} Contribution",
+  "pt": "Requer {0} e {1} de Contribuição",
+  "ch": "{0}且累计贡献达到{1}可兑换此层"
+ },
+ "school_duihuantishi3": {
+  "en": "Requires {0}",
+  "pt": "Requer {0}",
+  "ch": "{0}可兑换此层"
+ },
+ "school_ecstiaoguo": {
+  "en": "Hold Esc to Skip",
+  "pt": "Segure Esc para Pular",
+  "ch": "按住 Esc 键跳过"
+ },
+ "school_enemy1": {
+  "en": "Declare War",
+  "pt": "Declarar Guerra",
+  "ch": "宣战"
+ },
+ "school_enemy2": {
+  "en": "Declaring War on Sects will lead to a Sect War in three months' time.",
+  "pt": "Declarar Guerra contra Seitas levará a uma Guerra de Seitas em três meses.",
+  "ch": "与宗门宣战，将在三个月后进行宗门大战。"
+ },
+ "school_fangbei": {
+  "en": "Alarm",
+  "pt": "Alarme",
+  "ch": "防备"
+ },
+ "school_fenduoming": {
+  "en": "{0} Branch",
+  "pt": "Filial {0}",
+  "ch": "{0}分舵"
+ },
+ "school_fenglu": {
+  "en": "Monthly Wage: {0} Spirit Stones",
+  "pt": "Salário Mensal: {0} Pedras Espirituais",
+  "ch": "每月俸禄：{0}灵石"
+ },
+ "school_fenglu2": {
+  "en": "Wage",
+  "pt": "Salário",
+  "ch": "俸禄"
+ },
+ "school_free": {
+  "en": "Free",
+  "pt": "Grátis",
+  "ch": "免费"
+ },
+ "school_friend1": {
+  "en": "Forge Alliance",
+  "pt": "Forjar Aliança",
+  "ch": "结盟"
+ },
+ "school_friend2": {
+  "en": "Allied Sects may come to your aid at pivotal moments.",
+  "pt": "Seitas Aliadas podem vir em sua ajuda em momentos cruciais.",
+  "ch": "与宗门同盟，可在关键时刻助你一臂之力。"
+ },
+ "school_gongxian": {
+  "en": "Contribution",
+  "pt": "Contribuição",
+  "ch": "贡献"
+ },
+ "school_gongxianbuzu": {
+  "en": "Contribution too low",
+  "pt": "Contribuição muito baixa",
+  "ch": "贡献不足"
+ },
+ "school_goumaitishi": {
+  "en": "Spend {0} Contribution to buy {1}?",
+  "pt": "Gastar {0} Contribuição para comprar {1}?",
+  "ch": "确定花费{0}贡献购买{1}秘籍吗？"
+ },
+ "school_huangmo": {
+  "en": "荒漠秘境",
+  "pt": "Reino Secreto do Deserto",
+  "ch": "荒漠秘境"
+ },
+ "school_ji": {
+  "en": "Lv.",
+  "pt": "Nv.",
+  "ch": "级"
+ },
+ "school_jiankang": {
+  "en": "Health: ",
+  "pt": "Saúde: ",
+  "ch": "健康："
+ },
+ "school_jiarutiaoj1": {
+  "en": "(Meet one of the requirements below to join)",
+  "pt": "(Cumpra um dos requisitos abaixo para entrar)",
+  "ch": "（以下条件达成一条即可）"
+ },
+ "school_jiarutiaoj2": {
+  "en": "{0} Stat: {1} ({2})",
+  "pt": "{0} Atributo: {1} ({2})",
+  "ch": "{0}达到{1}（{2}）"
+ },
+ "school_jiarutiaoj3": {
+  "en": "{0} Sect Affinity ({1})",
+  "pt": "{0} Afinidade com a Seita ({1})",
+  "ch": "与本宗门亲密度达到{0}（{1}）"
+ },
+ "school_jiarutiaoj4": {
+  "en": "Sect Recommendation Letter ({0}/1)",
+  "pt": "Carta de Recomendação da Seita ({0}/1)",
+  "ch": "拥有本宗门推荐信（{0}/1）"
+ },
+ "school_jiarutishi1": {
+  "en": "You must have at least {0} Sect Affinity to join the sect",
+  "pt": "Você deve ter pelo menos {0} de Afinidade com a Seita para entrar na seita",
+  "ch": "与宗门亲密度达到{0}方可加入宗门"
+ },
+ "school_jiarutishi2": {
+  "en": "Joining the sect requires {1} {0}",
+  "pt": "Para entrar na seita, é necessário {1} de {0}",
+  "ch": "{0}资质达到{1}方可加入宗门"
+ },
+ "school_jiarutishi3": {
+  "en": "You left this sect earlier. You must wait {0} month(s) before joining again",
+  "pt": "Você deixou esta seita anteriormente. Você deve esperar {0} mês(es) antes de entrar novamente",
+  "ch": "你退出过此宗门，{0}个月后才可加入宗门。"
+ },
+ "school_jiaruzongmen": {
+  "en": "You joined the sect: {0}!",
+  "pt": "Você entrou na seita: {0}!",
+  "ch": "成功加入{0}宗门！"
+ },
+ "school_jingjiebuzu": {
+  "en": "Realm too low",
+  "pt": "Reino muito baixo",
+  "ch": "境界不足"
+ },
+ "school_jingjiezhong": {
+  "en": "Target has had war declared on them",
+  "pt": "O alvo teve guerra declarada contra ele",
+  "ch": "该目标已被他人宣战"
+ },
+ "school_jingli": {
+  "en": "Stamina: ",
+  "pt": "Vigor: ",
+  "ch": "精力："
+ },
+ "school_jingsheng": {
+  "en": "Promotion",
+  "pt": "Promoção",
+  "ch": "职位晋升"
+ },
+ "school_jingyanyiman": {
+  "en": "Bottleneck reached!",
+  "pt": "Gargalo alcançado!",
+  "ch": "修为已达到瓶颈！"
+ },
+ "school_jinrutishi1": {
+  "en": "You must reach {0} to enter {1}",
+  "pt": "Você deve alcançar {0} para entrar em {1}",
+  "ch": "达到{0}方可进入{1}"
+ },
+ "school_jinrutishi2": {
+  "en": "You must have at least {0} Sect Affinity to enter {1}",
+  "pt": "Você deve ter pelo menos {0} de Afinidade com a Seita para entrar em {1}",
+  "ch": "宗门亲密度达到{0}以上才可进入{1}"
+ },
+ "school_jinrutishi3": {
+  "en": "Outsiders can't enter this building",
+  "pt": "Forasteiros não podem entrar neste edifício",
+  "ch": "外人不可进入此建筑"
+ },
+ "school_jinrutishi4": {
+  "en": "Members above {0} can't accept this mission",
+  "pt": "Membros acima de {0} não podem aceitar esta missão",
+  "ch": "{0}以上不可接取此任务"
+ },
+ "school_jinrutishi5": {
+  "en": "You must reach {0} to accept this mission",
+  "pt": "Você deve alcançar {0} para aceitar esta missão",
+  "ch": "达到{0}方可接取此任务"
+ },
+ "school_jinrutishi6": {
+  "en": "Members above {0} can't enter {1}",
+  "pt": "Membros acima de {0} não podem entrar em {1}",
+  "ch": "{0}以上不可进入{1}"
+ },
+ "school_jinshengtishi1": {
+  "en": "Any Sect main stat reaches {0}!",
+  "pt": "Qualquer atributo principal da Seita atinge {0}!",
+  "ch": "任意宗门主修资质达到{0}！"
+ },
+ "school_jinshengtishi2": {
+  "en": "Realm must reach {0}!",
+  "pt": "O Reino deve alcançar {0}!",
+  "ch": "需要境界达到{0}！"
+ },
+ "school_kaiqibishi": {
+  "en": "Activate {0}?",
+  "pt": "Ativar {0}?",
+  "ch": "是否开启{0}"
+ },
+ "school_kechayue": {
+  "en": "可兑换此层",
+  "pt": "Pode trocar por este andar",
+  "ch": "可兑换此层"
+ },
+ "school_kelingfengle": {
+  "en": "Wage claimable: {0} Spirit Stones",
+  "pt": "Salário resgatável: {0} Pedras Espirituais",
+  "ch": "可领俸禄：{0}灵石"
+ },
+ "school_kelingqurenwu": {
+  "en": "Available Missions",
+  "pt": "Missões Disponíveis",
+  "ch": "可领取任务"
+ },
+ "school_kongque": {
+  "en": "Vacant\n",
+  "pt": "Vago\n",
+  "ch": "空\n缺"
+ },
+ "school_leijigongxian": {
+  "en": "Total Contribution: ",
+  "pt": "Contribuição Total: ",
+  "ch": "累计贡献："
+ },
+ "school_leijigongxiandadao": {
+  "en": "Total Sect Contribution",
+  "pt": "Contribuição Total da Seita",
+  "ch": "累计宗门贡献达到"
+ },
+ "school_level_1": {
+  "en": "D",
+  "pt": "D",
+  "ch": "丁"
+ },
+ "school_level_2": {
+  "en": "C",
+  "pt": "C",
+  "ch": "丙"
+ },
+ "school_level_3": {
+  "en": "B",
+  "pt": "B",
+  "ch": "已"
+ },
+ "school_level_4": {
+  "en": "A",
+  "pt": "A",
+  "ch": "甲"
+ },
+ "school_liaoshang": {
+  "en": "Recuperate",
+  "pt": "Recuperar",
+  "ch": "疗伤休养"
+ },
+ "school_liaoshang1": {
+  "en": "Recuperate (5 days)",
+  "pt": "Recuperar (5 dias)",
+  "ch": "疗伤休养（5天）"
+ },
+ "school_liaoshangtishi": {
+  "en": "Recuperation has a chance to remove negative Destinies. Recuperating lasts 5 days.",
+  "pt": "A recuperação tem chance de remover Destinos negativos. Recuperar dura 5 dias.",
+  "ch": "疗伤休养还有概率移负面气运，每次疗伤需要消耗5天。"
+ },
+ "school_liaoyangxiaohao": {
+  "en": "Cost: {0} Contribution, Duration: {1}d",
+  "pt": "Custo: {0} Contribuição, Duração: {1}d",
+  "ch": "贡献{0} 需要{1}天"
+ },
+ "school_liaoyangxiaohao2": {
+  "en": "Cost: {0} Spirit Stones, Duration: {1}d",
+  "pt": "Custo: {0} Pedras Espirituais, Duração: {1}d",
+  "ch": "灵石{0} 需要{1}天"
+ },
+ "school_lingqurenwu": {
+  "en": "Accept",
+  "pt": "Aceitar",
+  "ch": "领取任务"
+ },
+ "school_lingqurenwuliebiao": {
+  "en": "Sect Missions accepted",
+  "pt": "Missões da Seita aceitas",
+  "ch": "已领取的宗门任务"
+ },
+ "school_man": {
+  "en": "Full",
+  "pt": "Cheio",
+  "ch": "满"
+ },
+ "school_maxStudent": {
+  "en": "A max of {0} Disciples can be selected!",
+  "pt": "Um máximo de {0} Discípulos pode ser selecionado!",
+  "ch": "最多选择{0}名弟子！"
+ },
+ "school_medicina": {
+  "en": "Herb",
+  "pt": "Erva",
+  "ch": "药材"
+ },
+ "school_meikong": {
+  "en": "Already attacking another Sect.",
+  "pt": "Já atacando outra Seita.",
+  "ch": "正在攻打其他宗门"
+ },
+ "school_meinianfenglu": {
+  "en": "Yearly Wage:",
+  "pt": "Salário Anual:",
+  "ch": "每年俸禄："
+ },
+ "school_meiqian": {
+  "en": "Insufficient resources.",
+  "pt": "Recursos insuficientes.",
+  "ch": "出战资源不足"
+ },
+ "school_meiren": {
+  "en": "Insufficient battle-ready units.",
+  "pt": "Unidades prontas para a batalha insuficientes.",
+  "ch": "可出战人员不足"
+ },
+ "school_meiyuechanchu": {
+  "en": "Monthly Output",
+  "pt": "Produção Mensal",
+  "ch": "每月产出"
+ },
+ "school_member": {
+  "en": "Backup Disciple",
+  "pt": "Discípulo Reserva",
+  "ch": "记名弟子"
+ },
+ "school_mengui": {
+  "en": "Sect Rules",
+  "pt": "Regras da Seita",
+  "ch": "宗门门规"
+ },
+ "school_mine": {
+  "en": "Ore",
+  "pt": "Minério",
+  "ch": "矿材"
+ },
+ "school_money": {
+  "en": "Spirit Stone",
+  "pt": "Pedra Espiritual",
+  "ch": "灵石"
+ },
+ "school_mostUp": {
+  "en": "<color=#00ffff>Can only be promoted to {0} in this Branch.\nIf you want to be promoted to the next Branch, you can go to the next Branch area (or headquarters)</color>",
+  "pt": "<color=#00ffff>Só pode ser promovido a {0} nesta Filial.\nSe quiser ser promovido para a próxima Filial, pode ir para a área da próxima Filial (ou sede)</color>",
+  "ch": "<color=#00ffff>在本分舵最多只可晋升到{0}\n想要晋升更高职位可前往下一区域的分舵（或总舵）</color>"
+ },
+ "school_mozhiqibuzu": {
+  "en": "魔之气不足",
+  "pt": "Qi Demoníaco Insuficiente",
+  "ch": "魔之气不足"
+ },
+ "school_mp": {
+  "en": "Energy: ",
+  "pt": "Energia: ",
+  "ch": "灵力："
+ },
+ "school_name_last1": {
+  "en": " Sect",
+  "pt": " Seita",
+  "ch": "宗"
+ },
+ "school_name_last2": {
+  "en": " Sect",
+  "pt": " Seita",
+  "ch": "门"
+ },
+ "school_name_last3": {
+  "en": " Sect",
+  "pt": " Seita",
+  "ch": "谷"
+ },
+ "school_name_last4": {
+  "en": " Sect",
+  "pt": " Seita",
+  "ch": "派"
+ },
+ "school_name_last5": {
+  "en": " Sect",
+  "pt": " Seita",
+  "ch": "山"
+ },
+ "school_name_last6": {
+  "en": " Sect",
+  "pt": " Seita",
+  "ch": "教"
+ },
+ "school_needStudent": {
+  "en": "Please select at least {0} Disciple!",
+  "pt": "Por favor, selecione pelo menos {0} Discípulo!",
+  "ch": "至少选择{0}名弟子！"
+ },
+ "school_paimingtisheng": {
+  "en": "Rank Increased",
+  "pt": "Rank Aumentado",
+  "ch": "排名提升"
+ },
+ "school_point1": {
+  "en": "Occupied Resource Point",
+  "pt": "Ponto de Recurso Ocupado",
+  "ch": "已被占领资源点"
+ },
+ "school_point2": {
+  "en": "Unoccupied Resource Point",
+  "pt": "Ponto de Recurso Não Ocupado",
+  "ch": "未被占领资源点"
+ },
+ "school_qianghua": {
+  "en": "Enhance",
+  "pt": "Aprimorar",
+  "ch": "强化"
+ },
+ "school_qingqiu": {
+  "en": "大山秘境",
+  "pt": "Reino Secreto da Grande Montanha",
+  "ch": "大山秘境"
+ },
+ "school_qinmitishi1": {
+  "en": "Sect Affinity:",
+  "pt": "Afinidade da Seita:",
+  "ch": "当前宗门亲密度："
+ },
+ "school_qinmitishi2": {
+  "en": "Sect Affinity above {0}: Price x{1}",
+  "pt": "Afinidade da Seita acima de {0}: Preço x{1}",
+  "ch": "宗门亲密度大于{0}：价格倍数{1}倍"
+ },
+ "school_qinmitishi3": {
+  "en": "Increase your Affinity with a sect to lower the Spirit Stones you have to pay for the same item. Sect Affinity is determined by the sect members' attitudes toward you. Improve your relationships with the members of a sect to increase your Affinity with the sect.",
+  "pt": "Aumente sua Afinidade com uma seita para diminuir as Pedras Espirituais que você precisa pagar pelo mesmo item. A Afinidade da Seita é determinada pelas atitudes dos membros da seita em relação a você. Melhore seus relacionamentos com os membros de uma seita para aumentar sua Afinidade com a seita.",
+  "ch": "与该宗门的亲密度越高，在该宗门消费时所需要的灵石就越少。宗门亲密度由该宗门的门人对你的评价而决定，与该宗门中的门人提升关系就能够提升与该宗门的亲密度。"
+ },
+ "school_qinmitishi4": {
+  "en": "Current Price: x{0}",
+  "pt": "Preço Atual: x{0}",
+  "ch": "当前价格倍数：{0}倍"
+ },
+ "school_quanburenwu": {
+  "en": "All Missions",
+  "pt": "Todas as Missões",
+  "ch": "全部任务"
+ },
+ "school_querenxiaobi": {
+  "en": "Enter the sect duel?",
+  "pt": "Entrar no duelo da seita?",
+  "ch": "确认进入小比吗？"
+ },
+ "school_renshuyiman": {
+  "en": "Sect is full!",
+  "pt": "Seita cheia!",
+  "ch": "宗门人数已满"
+ },
+ "school_renwujiangli": {
+  "en": "Reward: ",
+  "pt": "Recompensa: ",
+  "ch": "任务奖励："
+ },
+ "school_renwuliebiao": {
+  "en": "Sect Missions",
+  "pt": "Missões da Seita",
+  "ch": "宗门任务列表"
+ },
+ "school_renwumubiao": {
+  "en": "Objective: ",
+  "pt": "Objetivo:",
+  "ch": "任务目标："
+ },
+ "school_renwunandu": {
+  "en": "Difficulty: ",
+  "pt": "Dificuldade:",
+  "ch": "任务难度："
+ },
+ "school_renwunandu1": {
+  "en": "<g>Easy</g>",
+  "pt": "<g>Fácil</g>",
+  "ch": "<g>简单</g>"
+ },
+ "school_renwunandu2": {
+  "en": "<b>Normal</b>",
+  "pt": "<b>Normal</b>",
+  "ch": "<b>普通</b>"
+ },
+ "school_renwunandu3": {
+  "en": "<p>Hard</p>",
+  "pt": "<p>Difícil</p>",
+  "ch": "<p>困难</p>"
+ },
+ "school_renwunandu4": {
+  "en": "<y>Nightmare</y>",
+  "pt": "<y>Pesadelo</y>",
+  "ch": "<y>极难</y>"
+ },
+ "school_selectStudentNum": {
+  "en": "Select Disciple(s) {0}/{1}",
+  "pt": "Selecionar Discípulo(s) {0}/{1}",
+  "ch": "选择弟子{0}/{1}"
+ },
+ "school_selectTeacher": {
+  "en": "Select Branch Leader",
+  "pt": "Selecionar Líder de Filial",
+  "ch": "选择领队"
+ },
+ "school_selectTeacherNum": {
+  "en": "Select Branch Leader {0}/{1}",
+  "pt": "Selecionar Líder de Filial {0}/{1}",
+  "ch": "选择领队{0}/{1}"
+ },
+ "school_shengwang": {
+  "en": "Reputation: ",
+  "pt": "Reputação: ",
+  "ch": "声望状态："
+ },
+ "school_shengyushijian": {
+  "en": "Time Remaining",
+  "pt": "Tempo Restante",
+  "ch": "剩余时间"
+ },
+ "school_shifoujiaru": {
+  "en": "Join {0}?",
+  "pt": "Entrar em {0}?",
+  "ch": "是否加入{0}？"
+ },
+ "school_shuaxinmiji": {
+  "en": "Spend {0} Sect Contribution to refresh the Manuals?",
+  "pt": "Gastar {0} Contribuição da Seita para atualizar os Manuais?",
+  "ch": "是否花费{0}宗门贡献刷新秘籍？"
+ },
+ "school_sp": {
+  "en": "Focus: ",
+  "pt": "Foco: ",
+  "ch": "念力："
+ },
+ "school_task_get21": {
+  "en": "{0} accepted the mission: {1}",
+  "pt": "{0} aceitou a missão: {1}",
+  "ch": "{0}接取了任务：{1}"
+ },
+ "school_task_get22": {
+  "en": "{0} submitted the mission: {1}",
+  "pt": "{0} entregou a missão: {1}",
+  "ch": "{0}提交了任务：{1}"
+ },
+ "school_task_get31": {
+  "en": "{0} accepted the mission: {1}",
+  "pt": "{0} aceitou a missão: {1}",
+  "ch": "{0}接取了任务：{1}"
+ },
+ "school_task_get32": {
+  "en": "{0} submitted the mission: {1}",
+  "pt": "{0} entregou a missão: {1}",
+  "ch": "{0}提交了任务：{1}"
+ },
+ "school_task_get41": {
+  "en": "{0} accepted the mission: {1}",
+  "pt": "{0} aceitou a missão: {1}",
+  "ch": "{0}接取了任务：{1}"
+ },
+ "school_task_get42": {
+  "en": "{0} submitted the mission: {1}",
+  "pt": "{0} entregou a Missão: {1}",
+  "ch": "{0}提交了任务：{1}"
+ },
+ "school_task_get51": {
+  "en": "{0} accepted the mission: {1}",
+  "pt": "{0} aceitou a Missão: {1}",
+  "ch": "{0}接取了任务：{1}"
+ },
+ "school_task_get52": {
+  "en": "{0} submitted the mission: {1}",
+  "pt": "{0} entregou a Missão: {1}",
+  "ch": "{0}提交了任务：{1}"
+ },
+ "school_task_get61": {
+  "en": "{0} accepted the mission: {1}",
+  "pt": "{0} aceitou a Missão: {1}",
+  "ch": "{0}接取了任务：{1}"
+ },
+ "school_task_get62": {
+  "en": "{0} submitted the mission: {1}",
+  "pt": "{0} entregou a Missão: {1}",
+  "ch": "{0}提交了任务：{1}"
+ },
+ "school_teshuchanchu": {
+  "en": "Special Output",
+  "pt": "Produção Especial",
+  "ch": "特殊产出"
+ },
+ "school_tiaojian": {
+  "en": "Stats reached {0} ({1})",
+  "pt": "Atributos atingiram {0} ({1})",
+  "ch": "以下资质到达{0}（{1}）"
+ },
+ "school_tiaojiantishi1": {
+  "en": "Sect Contribution too low",
+  "pt": "Contribuição da Seita insuficiente",
+  "ch": "宗门贡献不足"
+ },
+ "school_tiaojiantishi2": {
+  "en": "Reputation too low",
+  "pt": "Reputação insuficiente",
+  "ch": "声望不足"
+ },
+ "school_tiaozhanshibai": {
+  "en": "Challenge failed!",
+  "pt": "Desafio falhou!",
+  "ch": "挑战失败！"
+ },
+ "school_tiaozhanshijian": {
+  "en": "Your previous challenge failed. Try again in {0} month(s).",
+  "pt": "Seu desafio anterior falhou. Tente novamente em {0} mês(es).",
+  "ch": "上次挑战已失败，请{0}个月后在挑战。"
+ },
+ "school_tiaozhantiaojian1": {
+  "en": "After meeting any requirement below, Rogue Cultivators can challenge Sect Tryouts",
+  "pt": "(Após cumprir qualquer requisito abaixo, Cultivadores Errantes podem desafiar a Peneira da Seita)",
+  "ch": "（散修满足以下任意条件，即可挑战入门小比）"
+ },
+ "school_tiaozhantiaojian2": {
+  "en": "After meeting all the requirements below, Initiate Disciples can challenge Promotion Duel (Disciple)",
+  "pt": "(Após cumprir todos os requisitos abaixo, Discípulos Externos podem desafiar o Duelo de Promoção (Discípulo Interno))",
+  "ch": "（外门弟子满足以下所有条件，即可挑战内门小比）"
+ },
+ "school_tiaozhantiaojian3": {
+  "en": "After meeting all the requirements below, Disciple Disciples can challenge Promotion Duel (True Disciple)",
+  "pt": "(Após cumprir todos os requisitos abaixo, Discípulos Internos podem desafiar o Duelo de Promoção (Discípulo Verdadeiro))",
+  "ch": "（内门弟子满足以下所有条件，即可挑战真传小比）"
+ },
+ "player_bladeGrowRate": {
+  "en": "Blade Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Lâmina",
+  "ch": "刀法技能熟练度提升倍率"
+ },
+ "player_chiyou": {
+  "en": "Owned: {0} Spirit Stones",
+  "pt": "Possui: {0} Pedras Espirituais",
+  "ch": "持有：{0}灵石"
+ },
+ "player_daofa": {
+  "en": "Blade",
+  "pt": "Lâmina",
+  "ch": "刀法"
+ },
+ "player_daoli": {
+  "en": "Tao Power",
+  "pt": "Poder do Dao",
+  "ch": "道力"
+ },
+ "player_earthGrowRate": {
+  "en": "Earth Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Terra",
+  "ch": "土属性法技能熟练度提升倍率"
+ },
+ "player_energyDownRate": {
+  "en": "Stamina Decrease Rate",
+  "pt": "Taxa de Diminuição de Vigor",
+  "ch": "精力下降倍率"
+ },
+ "player_energyUpRate": {
+  "en": "Stamina Increase Rate",
+  "pt": "Taxa de Aumento de Vigor",
+  "ch": "精力上升倍率"
+ },
+ "player_expGrowRate": {
+  "en": "EXP Increase Rate",
+  "pt": "Taxa de Aumento de EXP",
+  "ch": "经验提升倍率"
+ },
+ "player_fangyu": {
+  "en": "DEF",
+  "pt": "DEF",
+  "ch": "防御"
+ },
+ "player_fenglinggen": {
+  "en": "Wind",
+  "pt": "Vento",
+  "ch": "风灵根"
+ },
+ "player_fengshui": {
+  "en": "Feng Shui",
+  "pt": "Feng Shui",
+  "ch": "风水"
+ },
+ "player_fengshuizizi": {
+  "en": "Feng Shui",
+  "pt": "Feng Shui",
+  "ch": "风水资质"
+ },
+ "player_fingerGrowRate": {
+  "en": "Finger Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Dedo",
+  "ch": "指法技能熟练度提升倍率"
+ },
+ "player_fireGrowRate": {
+  "en": "Fire Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Fogo",
+  "ch": "火属性法技能熟练度提升倍率"
+ },
+ "player_fistGrowRate": {
+  "en": "Fist Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Punho",
+  "ch": "拳法技能熟练度提升倍率"
+ },
+ "player_frozeGrowRate": {
+  "en": "Water Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Água",
+  "ch": "水属性法技能熟练度提升倍率"
+ },
+ "player_gongji": {
+  "en": "ATK",
+  "pt": "ATQ",
+  "ch": "攻击"
+ },
+ "player_hateStable": {
+  "en": "Hatred Change Rate",
+  "pt": "Taxa de Mudança de Ódio",
+  "ch": "仇恨度变化倍率"
+ },
+ "player_healthUpRate": {
+  "en": "Health Increase Rate",
+  "pt": "Taxa de Aumento de Saúde",
+  "ch": "健康上升倍率"
+ },
+ "player_huafu": {
+  "en": "Talismans",
+  "pt": "Talismãs",
+  "ch": "画符"
+ },
+ "player_huafuzizi": {
+  "en": "Talismans",
+  "pt": "Talismãs",
+  "ch": "画符资质"
+ },
+ "player_huixin": {
+  "en": "CRIT",
+  "pt": "Crítico",
+  "ch": "会心"
+ },
+ "player_huixinbeilv": {
+  "en": "CRIT DMG",
+  "pt": "Dano Crítico",
+  "ch": "暴击倍数"
+ },
+ "player_huolinggen": {
+  "en": "Fire",
+  "pt": "Fogo",
+  "ch": "火灵根"
+ },
+ "player_huxin": {
+  "en": "CRIT RES",
+  "pt": "RES Crítico",
+  "ch": "护心"
+ },
+ "player_jianfa": {
+  "en": "Sword",
+  "pt": "Espada",
+  "ch": "剑法"
+ },
+ "player_jianfazizi": {
+  "en": "Sword",
+  "pt": "Espada",
+  "ch": "剑法资质"
+ },
+ "player_jiankang": {
+  "en": "Health",
+  "pt": "Saúde",
+  "ch": "健康"
+ },
+ "player_jiankangshangxian": {
+  "en": "Max Health",
+  "pt": "Saúde Máx.",
+  "ch": "健康上限"
+ },
+ "player_jingli": {
+  "en": "Stamina",
+  "pt": "Vigor",
+  "ch": "精力"
+ },
+ "player_jinglishangxian": {
+  "en": "Max Stamina",
+  "pt": "Vigor Máx.",
+  "ch": "精力上限"
+ },
+ "player_jingyan": {
+  "en": "EXP",
+  "pt": "EXP",
+  "ch": "经验"
+ },
+ "player_jiyi": {
+  "en": "Artisanship",
+  "pt": "Artesanato",
+  "ch": "技艺"
+ },
+ "player_kuangcai": {
+  "en": "Mining",
+  "pt": "Mineração",
+  "ch": "矿材资质"
+ },
+ "player_leilinggen": {
+  "en": "Lightning",
+  "pt": "Relâmpago",
+  "ch": "雷灵根"
+ },
+ "player_liandan": {
+  "en": "Alchemy",
+  "pt": "Alquimia",
+  "ch": "炼丹"
+ },
+ "player_liandanzizi": {
+  "en": "Alchemy",
+  "pt": "Alquimia",
+  "ch": "炼丹资质"
+ },
+ "player_lianqi": {
+  "en": "Forge",
+  "pt": "Forja",
+  "ch": "炼器"
+ },
+ "player_lianqizizi": {
+  "en": "Forge",
+  "pt": "Forja",
+  "ch": "炼器资质"
+ },
+ "player_linggen": {
+  "en": "Spiritual Root",
+  "pt": "Raiz Espiritual",
+  "ch": "灵根"
+ },
+ "player_lingli": {
+  "en": "Energy",
+  "pt": "Energia",
+  "ch": "灵力"
+ },
+ "player_linglishangxian": {
+  "en": "Max Energy",
+  "pt": "Energia Máx.",
+  "ch": "灵力上限"
+ },
+ "player_modaozhi": {
+  "en": "Demonic Points",
+  "pt": "Pontos Demoníacos",
+  "ch": "魔道值"
+ },
+ "player_momian": {
+  "en": "Spiritual RES",
+  "pt": "RES Espiritual",
+  "ch": "灵根抗性"
+ },
+ "player_moodDownRate": {
+  "en": "Mood Decrease Rate",
+  "pt": "Taxa de Queda de Humor",
+  "ch": "心情减少倍率"
+ },
+ "player_moodUpRate": {
+  "en": "Mood Increase Rate",
+  "pt": "Taxa de Ganho de Humor",
+  "ch": "心情上升倍率"
+ },
+ "player_mulinggen": {
+  "en": "Wood",
+  "pt": "Madeira",
+  "ch": "木灵根"
+ },
+ "player_nianli": {
+  "en": "Focus",
+  "pt": "Foco",
+  "ch": "念力"
+ },
+ "player_nianlihuifu": {
+  "en": "Focus Recovery",
+  "pt": "Recuperação de Foco",
+  "ch": "念力恢复"
+ },
+ "player_nianlishangxian": {
+  "en": "Max Focus",
+  "pt": "Foco Máx.",
+  "ch": "念力上限"
+ },
+ "player_palmGrowRate": {
+  "en": "Palm Skill Proficiency Increase Rate",
+  "pt": "Taxa de Aumento de Proficiência em Habilidade de Palma",
+  "ch": "掌法技能熟练度提升倍率"
+ },
+ "player_qiangfa": {
+  "en": "Spear",
+  "pt": "Lança",
+  "ch": "枪法"
+ },
+ "player_qiangfazizi": {
+  "en": "Spear",
+  "pt": "Lança",
+  "ch": "枪法资质"
+ },
+ "player_quanfa": {
+  "en": "Fist",
+  "pt": "Punho",
+  "ch": "拳法"
+ },
+ "player_quanfazizi": {
+  "en": "Fist",
+  "pt": "Punho",
+  "ch": "拳法资质"
+ },
+ "player_quangognfa": {
+  "en": "All Martial Arts Stats",
+  "pt": "Todos os Atributos de Artes Marciais",
+  "ch": "全功法资质"
+ },
+ "player_quanjiyi": {
+  "en": "All Artisanship Stats",
+  "pt": "Todos os Atributos de Artesanato",
+  "ch": "全技艺资质"
+ },
+ "player_quanlinggen": {
+  "en": "All Spiritual Roots",
+  "pt": "Todas as Raízes Espirituais",
+  "ch": "全灵根"
+ },
+ "player_renyigongfa": {
+  "en": "Any one Martial Arts Stat",
+  "pt": "Qualquer Atributo de Artes Marciais",
+  "ch": "任意一项功法资质"
+ },
+ "player_renyilinggen": {
+  "en": "Any one Spiritual Root Stat",
+  "pt": "Qualquer Atributo de Raiz Espiritual",
+  "ch": "任意一项灵根资质"
+ },
+ "player_schoolBuyDeclineRate": {
+  "en": "Sect Cost Contribution Multiplier",
+  "pt": "Multiplicador de Custo de Contribuição da Seita",
+  "ch": "宗门消耗贡献倍率"
+ },
+ "player_shanxiu": {
+  "en": "Rogue Cultivator",
+  "pt": "Cultivador Errante",
+  "ch": "散修"
+ },
+ "player_shuilinggen": {
+  "en": "Water",
+  "pt": "Água",
+  "ch": "水灵根"
+ }
+}
