@@ -44,3 +44,4 @@ p043: 61 corrigidas (Grupo B). Avisos de nomes: Frost Lead/Darkwind Grass/Leviat
 p044: 23 corrigidas; revertido 'Homem-cogumelo' nos nomes (aprovado: 'Homem Cogumelo') em p023, p032, p036
 p045: 3 corrigidas (nomes de itens renomeados nos lotes A: Chumbo Gélido, Leviatã, Grama do Vento Sombrio); avisos de nomes esperados; ajuste em out_p043 (Senhora Cai)
 p046: 2 corrigidas
+p047: 10 corrigidas
