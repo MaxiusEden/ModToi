@@ -104,8 +104,9 @@
  "modFunctionTitle_addWorldData": {
   "ch": "增加存档中指定key的数据",
   "en": "Add the specified key's data in the save file",
-  "pt": "Adicione os dados da chave especificada no arquivo de salvamento.",
-  "auto": "local/hy-mt2"
+  "pt": "Adicione os dados da chave especificada no save.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "modFunctionTitle_areaDungeon": {
   "ch": "在指定区域随机位置创建一个副本",
@@ -272,8 +273,9 @@
  "modFunctionTitle_clearWorldData": {
   "ch": "清除存档中指定key的数据",
   "en": "Delete the specified key's data in the save file",
-  "pt": "Exclua os dados da chave especificada no arquivo de salvamento.",
-  "auto": "local/hy-mt2"
+  "pt": "Exclua os dados da chave especificada no save.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "modFunctionTitle_closeMapUI": {
   "ch": "关闭大地图上所有UI",
@@ -1010,8 +1012,9 @@
  "modFunctionTitle_setWorldData": {
   "ch": "设置存档中指定key的数据",
   "en": "Configure the specified key's data in the save file",
-  "pt": "Configure os dados da chave especificada no arquivo de salvamento.",
-  "auto": "local/hy-mt2"
+  "pt": "Configure os dados da chave especificada no save.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "modFunctionTitle_showEvent": {
   "ch": "显示指定ID的大地图事件",

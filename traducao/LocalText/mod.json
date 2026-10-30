@@ -2726,8 +2726,9 @@
  "mod_npc_zidongbaocun": {
   "ch": "自动保存",
   "en": "Auto Save",
-  "pt": "Salvamento automático",
-  "auto": "local/hy-mt2"
+  "pt": "Save automático",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "mod_npc_zuidajuli": {
   "ch": "生成时距离玩家最大距离",
@@ -4058,8 +4059,9 @@
  "mod_tiaoshinpc2": {
   "ch": "调试模组时，可以取消创建NPC选项，则创建新档时，不会创建普通NPC，极大的提高建档速度。",
   "en": "When debugging the mod, you may turn off the option to create NPC so that no normal NPCs will be generated in the new save data, which will make the process much faster.",
-  "pt": "Ao depurar o mod, você pode desativar a opção de criar NPCs, de modo que nenhum NPC normal seja gerado nos novos dados de salvamento, o que tornará o processo muito mais rápido.",
-  "auto": "local/hy-mt2"
+  "pt": "Ao depurar o mod, você pode desativar a opção de criar NPCs, de modo que nenhum NPC normal seja gerado nos novos dados de save, o que tornará o processo muito mais rápido.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "mod_tiaoshishuoming": {
   "ch": "模组制作过程中，不需要导出，可以直接进入游戏调试。\n\n<o>调试过程中按“Ctrl+F12”打开控制台查看打印</o>",

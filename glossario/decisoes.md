@@ -42,6 +42,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 
 | Termo | Decisão | Motivo |
 |---|---|---|
+| Save (arquivo de jogo) | save, saves | Decidido pelo usuário em 2026-10-30: nada de "salvamento" nem "arquivo de salvamento". O verbo continua "salvar". |
 | Ward Pool (归一池), Sanguine Riverstar (血星河), Skygate (天门) | Poço da Proteção, Rio Estelar Sanguíneo, Portão Celestial | Decidido pelo usuário em 2026-10-30; a revisão da nuvem tinha deixado em inglês. "Riverstar" sozinho vira "Rio Estelar". |
 | Taoist Mind (道心) | Coração do Dao | É a forma consagrada de 道心; "mente taoista" soa estranho. |
 | Crit Rate | Pelo `ch` (regra 10) | Conferido em 2026-10-22: das 60 entradas com "Crit Rate", 39 são multiplicador (暴击倍率 35, 会心倍率 4) e 20 são chance em % (暴击率 12, 暴击概率 8). Ex.: `BattleEffectDesc515103` "Every stack gives Crit rate +&515101_bjgl&%" = 暴击率. |

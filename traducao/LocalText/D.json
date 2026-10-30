@@ -140,8 +140,9 @@
  "D_beifenduqushibai": {
   "ch": "备份文件读取失败，请重新开始！",
   "en": "Unable to load the backup save file. Please play with a new save.",
-  "pt": "Não foi possível carregar o arquivo de salvamento de backup. Por favor, comece um novo jogo.",
-  "auto": "cohere/command-a-vision-07-2025"
+  "pt": "Não foi possível carregar o save de backup. Por favor, comece um novo jogo.",
+  "auto": "cohere/command-a-vision-07-2025",
+  "revisado": true
  },
  "D_boss_kuangbaoshengyushijian": {
   "ch": "大妖兽将于{0}s后进入<r>狂暴状态</r>",
@@ -152,8 +153,9 @@
  "D_cundangsunhuaitishi": {
   "ch": "当前存档已损坏，无法读取。是否读取最近一次备份的存档？",
   "en": "Unable to load selected save file. Load the latest backup save file instead?",
-  "pt": "Não foi possível carregar o arquivo de salvamento selecionado. Carregar o arquivo de salvamento de backup mais recente?",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Não foi possível carregar o save selecionado. Carregar o save de backup mais recente?",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "D_diffPass": {
   "ch": "已通过",

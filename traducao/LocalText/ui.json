@@ -125,8 +125,9 @@
  "ui_beifen_loadNew": {
   "ch": "是否加载最新存档？",
   "en": "Load the latest save file?",
-  "pt": "Carregar o arquivo de salvamento mais recente?",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Carregar o save mais recente?",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_beifen_title": {
   "ch": "最新存档",
@@ -833,8 +834,9 @@
  "ui_haotianyan_shandang": {
   "ch": "昊天眼破碎，存档已删除！",
   "en": "Eye of Providence Shattered. Save has been deleted!",
-  "pt": "Olho da Providência Despedaçado. O salvamento foi excluído!",
-  "auto": "gemini-3-flash-preview"
+  "pt": "Olho da Providência Despedaçado. O save foi excluído!",
+  "auto": "gemini-3-flash-preview",
+  "revisado": true
  },
  "ui_immortalHallCantTranTips": {
   "ch": "此仙祠未注入过仙力，无法传送",

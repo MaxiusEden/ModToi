@@ -266,6 +266,8 @@ Resultado do teste (2026-10-22):
   - no Território da Seita, ao selecionar um ponto de recurso, o que vem depois de "Produção Mensal:" e "Produção Especial:" começa logo depois do ":", medido a partir do fim do rótulo, e número seguido de nome ganha espaço e plural (`PluralPtBr`: "99540 Pedras Espirituais"; 0 também leva plural, só as palavras antes da primeira preposição mudam); no Coração do Dao, "Ainda não formou uma Semente Daoísta" usa fonte 26;
   - nos detalhes da técnica (`MartialInfo`), o ícone do tipo desce 70, para a linha da recarga ou do custo em pontos;
   - na Casa de Leilões, o nome do item usa duas linhas (preço e reino descem 12), "Itens leiloados (Clique para sacar)" não quebra e o aviso de reinos tem 140 de largura; na arena, o nome do locutor fica numa linha e o aviso do Pavilhão do Coração do Dao usa verde claro;
+  - na tela inicial, os botões ficam em uma linha, com até 160 de largura de texto; em Problemas de Save, cada botão tem a largura do texto + 20 (`ParentPad`), a folga do botão do log;
+  - várias telas usam `NoWrap`/`MaxWidth` ou best fit onde a segunda linha era cortada: abas e colunas das fichas, forja e alquimia da vila, nomes dos manuais, território da seita e nomes das teclas;
   - no Pavilhão do Espírito, o "化灵" fixo do prefab vira "Transformar" (botão) e "Transformação" (título);
   - nos Picos dos Behemoths, os três botões sobem 40, mostram o hanzi original (化灵, 喂养, 交流) e o PT vai para um rótulo preto (`PtBrRotulo`) embaixo de cada um;
   - em Aprimorar Habilidade, "Cultivo", o ícone e os dias vão 15 unidades para a direita, longe do botão Máx;

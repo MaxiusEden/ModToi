@@ -47,6 +47,10 @@ namespace MOD_6b2SYs
             // Arena: o <g> do jogo vira um verde escuro, ilegível sobre o fundo dessa tela.
             new KeyValuePair<Regex, string>(new Regex(@"^<color=#057600>(O Pavilhão do Coração do Dao cresceu.*)$",
                 RegexOptions.Singleline), "<color=#7CFF7C>$1"),
+            // Espírito do Artefato: preço de venda escrito em chinês no código do jogo.
+            new KeyValuePair<Regex, string>(new Regex(@"^出售价格：(\d+)灵石$"), "Preço de venda: $1 Pedras Espirituais"),
+            // Leilão: "Formação da Alma、Iluminação", reinos que o jogo junta com a vírgula chinesa.
+            new KeyValuePair<Regex, string>(new Regex(@"(?<=\p{L})、(?=\p{L})"), ", "),
             // Leilão: "Itens leiloados（Clique para sacar）", com os parênteses chineses que o jogo junta.
             new KeyValuePair<Regex, string>(new Regex(@"^(.*\p{L})（(.+)）$", RegexOptions.Singleline), "$1 ($2)"),
         };
@@ -56,6 +60,9 @@ namespace MOD_6b2SYs
 
         // Prazos: "começará em 7 Mês" (número + common_yue/common_nian) vira "começará em 7 meses".
         private static readonly Regex TimeCount = new Regex(@"(?<=\b(?:em|cada)(?: \d+ Ano)? )(\d+) (Mês|Ano)\b");
+
+        // Duração colada pelo jogo: "6 Ano7 Mês" (sem espaço; com espaço é a data, tratada em Parts).
+        private static readonly Regex YearsMonths = new Regex(@"^(\d+) Ano(\d+) Mês$");
 
         // Mensagens de outro mod, de reparo do save, escritas em chinês durante o carregamento.
         private static readonly Regex SaveCheck = new Regex(@"^(检测|存档修复完成|大鬼修复存档)");
@@ -230,6 +237,12 @@ namespace MOD_6b2SYs
                     t = t.Replace(term.Key, term.Value);
                 }
                 return t;
+            }
+            var duration = YearsMonths.Match(t);
+            if (duration.Success)
+            {
+                string y = duration.Groups[1].Value, m = duration.Groups[2].Value;
+                return y + (y == "1" ? " ano e " : " anos e ") + m + (m == "1" ? " mês" : " meses");
             }
             if (TimeCount.IsMatch(t))
             {

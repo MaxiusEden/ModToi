@@ -40,7 +40,11 @@ namespace MOD_6b2SYs
         private const float MartialTypeDown = 70f;
         private const float AuctionNameDown = 3f;
         private const float AuctionRowsDown = 12f;
-        private const float AuctionTipWidth = 140f;
+        private const float LoginButtonMaxWidth = 160f;
+        private const float CacheButtonPad = 20f;
+        private const float TabTextMaxWidth = 62f;
+        private const float BookDialogueDown = 6f;
+        private const float BuyTextMaxWidth = 56f;
         private const float NpcNameMaxWidth = 195f;
         // Território da Seita: espaço entre o ":" do rótulo e o valor que vem depois.
         private const float AfterLabelGap = 6f;
@@ -96,6 +100,8 @@ namespace MOD_6b2SYs
             public float MaxWidth;
             // > 0: largura fixa do objeto.
             public float Width;
+            // > 0: o pai (o botão) fica com a largura do texto mais esta folga.
+            public float ParentPad;
             // > 0: quebra o texto em linhas e aumenta a altura do pai (o botão) até elas caberem com essa folga.
             public float GrowTall;
             // Com GrowTall: largura do texto quando não cabe numa linha e, > 0, a largura de linha a partir da qual
@@ -153,7 +159,65 @@ namespace MOD_6b2SYs
             new Rule { Window = "TownAuction", Name = "Grade", Parent = "G:goPropItem(Clone)",
                 Offset = rt => new Vector2(0f, -AuctionRowsDown) },
             new Rule { Window = "TownAuction", Name = "G:textMyProp", NoWrap = true },
-            new Rule { Window = "TownAuction", Name = "G:textTipGrade1_En", Width = AuctionTipWidth, FitMin = 12 },
+            new Rule { Window = "TownAuction", Name = "G:textTipGrade1_En", FitMin = 12 },
+            // Tela inicial: botões de 175 de largura com o texto em uma linha, sem tocar a borda.
+            new Rule { Window = "Login", Prefix = "G:text", Under = "btnGroup", NoWrap = true,
+                MaxWidth = LoginButtonMaxWidth },
+            // Problemas de save: o botão acompanha o texto, com a folga do botão do log (texto 230 em botão 250).
+            new Rule { Window = "CacheHelper", Prefix = "G:textOpen", ParentPad = CacheButtonPad },
+            new Rule { Window = "CacheHelper", Name = "G:textTitle", Parent = "Image", NoWrap = true },
+            new Rule { Window = "CacheHelper", Name = "G:textCacheTip", FitMin = 12 },
+            new Rule { Window = "CacheHelper", Name = "G:textCacheBackTip", FitMin = 12 },
+            // Atalhos: nomes das teclas em duas linhas ("Botão Esquerdo do Mouse").
+            new Rule { Window = "GameSetting", Name = "TextKey", FitMin = 10 },
+            // Criação de personagem: abas do menu e o aviso dos Destinos.
+            new Rule { Window = "CreatePlayer", Prefix = "G:text", Parent = "Checkmark", Under = "Grid_En", NoWrap = true,
+                MaxWidth = TabTextMaxWidth },
+            new Rule { Window = "CreatePlayer", Name = "G:textBornLuck2_Key_En", FitMin = 11 },
+            // Pavilhões dos Manuais: fala da atendente, título do requisito e nome dos manuais.
+            new Rule { Window = "TownMarketBook", Name = "G:textDialogue", NoClip = true,
+                Offset = rt => new Vector2(0f, -BookDialogueDown) },
+            new Rule { Window = "TownMarketBook", Name = "G:textTitle", Parent = "Image", NoWrap = true, MaxWidth = 196f },
+            new Rule { Window = "TownMarketBook", Name = "G:textTokenTitle_En", NoWrap = true, MaxWidth = 155f },
+            new Rule { Window = "TownMarketBook", Name = "TextName", FitMin = 10 },
+            new Rule { Window = "SchoolLibrary", Name = "TextName", FitMin = 10 },
+            // Forja e alquimia da vila: nome do diagrama e botão Comprar.
+            new Rule { Window = "TownFactoryMadeShape", Name = "TextName", FitMin = 10 },
+            new Rule { Window = "TownFactoryMadeShape", Name = "TextBuy", NoWrap = true, MaxWidth = BuyTextMaxWidth },
+            new Rule { Window = "TownFactoryRefineElixir", Name = "TextBuy", NoWrap = true, MaxWidth = BuyTextMaxWidth },
+            // Detalhes da técnica: títulos que perdiam a segunda linha.
+            new Rule { Window = "MartialInfo", Name = "G:textPrefixTitle", NoWrap = true },
+            new Rule { Window = "MartialInfo", Name = "G:textTrainSli", NoWrap = true },
+            // Ficha do jogador e do NPC: abas, títulos e colunas de uma linha só.
+            new Rule { Window = "NPCInfo", Name = "G:textTitle1", NoWrap = true, MaxWidth = 96f },
+            new Rule { Window = "NPCInfo", Name = "G:textTitle2", NoWrap = true, MaxWidth = 96f },
+            new Rule { Window = "NPCInfo", Name = "Name", Parent = "G:goItemMy", NoWrap = true, MaxWidth = 98f },
+            new Rule { Window = "PlayerInfo", Name = "G:textLogTitle1_En", NoWrap = true, MaxWidth = 96f },
+            new Rule { Window = "PlayerInfo", Name = "G:textLogTitle2_En", NoWrap = true, MaxWidth = 96f },
+            new Rule { Window = "PlayerInfo", Name = "G:textEquipTitle", NoWrap = true, MaxWidth = 96f },
+            new Rule { Window = "PlayerInfo", Name = "G:textArt", Parent = "Checkmark", NoWrap = true,
+                MaxWidth = TabTextMaxWidth },
+            new Rule { Window = "PlayerInfo", Name = "G:textPropTip", FitMin = 12 },
+            new Rule { Window = "PlayerInfo", Name = "Text2", Parent = "Item", NoWrap = true, MaxWidth = 148f },
+            // Seita: nome no topo, aura, hospital, Behemoths, membros, conselho, território e missões.
+            new Rule { Window = "School", Name = "G:textName_En", Parent = "Image_En", NoWrap = true, MaxWidth = 470f },
+            new Rule { Window = "SchoolAura", Name = "G:textTip", FitMin = 11 },
+            new Rule { Window = "SchoolHospital", Name = "G:textOK_En", NoWrap = true, MaxWidth = 110f },
+            new Rule { Window = "SchoolGodBeast", Name = "texItem", Parent = "G:textMessageItem(Clone)", NoWrap = true,
+                MaxWidth = 138f },
+            new Rule { Window = "SchoolAdmin", Name = "G:textTitle", Under = "BG", NoWrap = true },
+            new Rule { Window = "SchoolAdmin", Name = "Text", Parent = "Button", FitMin = 12 },
+            new Rule { Window = "SchoolMainLobby", Name = "Text", Parent = "Toggle", FitMin = 16 },
+            new Rule { Window = "SchoolMainLobby", Name = "Selected", Parent = "Toggle", FitMin = 16 },
+            new Rule { Window = "SchoolMap", Name = "G:textAreaPoint1", NoWrap = true, MaxWidth = 220f },
+            new Rule { Window = "SchoolMap", Name = "G:textAreaPoint2", NoWrap = true, MaxWidth = 220f },
+            new Rule { Window = "SchoolMap", Name = "G:textInherit", NoWrap = true, MaxWidth = 148f },
+            new Rule { Window = "SchoolMap", Name = "G:textSchoolCelue", NoWrap = true, MaxWidth = 236f },
+            new Rule { Window = "SchoolMap", Name = "G:textSchoolName", Under = "G:goSchoolPanel", NoWrap = true,
+                MaxWidth = 188f },
+            new Rule { Window = "SchoolMap", Name = "textName", Parent = "imgName", NoWrap = true, MaxWidth = 70f },
+            new Rule { Window = "SchoolTaskLobby", Name = "G:textHumanInfo", FitMin = 13 },
+            new Rule { Window = "TaoistHeart", Name = "G:textAddSeed", NoWrap = true, MaxWidth = 250f },
             // Arena: "Locutor do Torneio Imortal" perdia a segunda linha.
             new Rule { Window = "TownFight", Name = "G:textNPC", NoWrap = true, MaxWidth = NpcNameMaxWidth },
             // Artesanato, Herbologia: nome da prescrição.
@@ -398,6 +462,15 @@ namespace MOD_6b2SYs
                 if (width > rule.MaxWidth)
                 {
                     t.fontSize = Math.Max(1, (int)(t.fontSize * rule.MaxWidth / width));
+                }
+            }
+            if (rule.ParentPad > 0f)
+            {
+                var button = t.rectTransform.parent.TryCast<RectTransform>();
+                float padded = t.preferredWidth + rule.ParentPad;
+                if (button != null && Math.Abs(button.sizeDelta.x - padded) > 0.5f)
+                {
+                    button.sizeDelta = new Vector2(padded, button.sizeDelta.y);
                 }
             }
             if (rule.GrowTall > 0f)

@@ -8856,26 +8856,30 @@
  "cundang_gengxin2": {
   "ch": "存档读取错误，是否删除存档？\n（可等待游戏更新版本补丁，或联系开发团队。）",
   "en": "Error occurred while loading this save. Delete it?\n(You can wait for the game to be updated or contact the devs.)",
-  "pt": "Erro ao carregar o salvamento. Excluí-lo?\n(Aguarde atualizações do jogo ou contate os desenvolvedores.)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Erro ao carregar o save. Excluí-lo?\n(Aguarde atualizações do jogo ou contate os desenvolvedores.)",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "cundang_shengji": {
   "ch": "存档升级中，请等待！！！",
   "en": "This save is being updated. Please wait.",
-  "pt": "Salvamento sendo atualizado. Aguarde.",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Save sendo atualizado. Aguarde.",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "cundangchuli1": {
   "ch": "正在处理存档{0}！",
   "en": "Processing the save: {0}...",
-  "pt": "Processando o salvamento: {0}...",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Processando o save: {0}...",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "cundangshengji": {
   "ch": "存档升级中，请勿关闭游戏，否则将导致存档损坏！！！",
   "en": "The save is being updated. Closing the game now will corrupt the save!",
-  "pt": "Salvamento sendo atualizado. Não feche o jogo ou o salvamento será corrompido!",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Save sendo atualizado. Não feche o jogo ou o save será corrompido!",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "cundangtishi": {
   "ch": "点击存档进入游戏",
@@ -8886,8 +8890,9 @@
  "cundangxiufu": {
   "ch": "存档升级中，请勿关闭游戏，否则将导致存档损坏！！！",
   "en": "The save is being updated. Closing the game now will corrupt the save!",
-  "pt": "Salvamento sendo atualizado. Não feche o jogo ou o salvamento será corrompido!",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Save sendo atualizado. Não feche o jogo ou o save será corrompido!",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "cxsj": {
   "ch": "持续时间：{0}秒",
@@ -9645,14 +9650,16 @@
  "diffPunish4": {
   "ch": "死亡将<r>永久删档</r>！",
   "en": "Your save will be <r>permanently deleted</r> if you die!",
-  "pt": "Seu salvamento será <r>excluído permanentemente</r> se você morrer!",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Seu save será <r>excluído permanentemente</r> se você morrer!",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "diffPunish5": {
   "ch": "死亡将<r>永久删档</r>！\n此模式极具挑战，不推荐新手尝试。",
   "en": "Your save will be <r>permanently deleted</r> if you die!\nThis difficulty level is extremely challenging. We don't recommend it for new players.",
-  "pt": "Seu salvamento será <r>excluído permanentemente</r> se você morrer!\nEste nível de dificuldade é extremamente desafiador. Não o recomendamos para novos jogadores.",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Seu save será <r>excluído permanentemente</r> se você morrer!\nEste nível de dificuldade é extremamente desafiador. Não o recomendamos para novos jogadores.",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "diffPunishTips": {
   "ch": "当双鱼佩没有可用的复活点数时，角色将会真正的死亡。",
@@ -10032,8 +10039,9 @@
  "dlc_bowuzhitishi": {
   "ch": "此存档包含“八荒博物志”内容，未拥有“八荒博物志”DLC不可进入此存档。",
   "en": "This save file requires Archive of the Realm DLC. Please check if you owned the DLC before loading the save file.",
-  "pt": "Este arquivo de salvamento requer a DLC Arquivo do Reino. Verifique se você possui a DLC antes de carregar o arquivo.",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Este save requer a DLC Arquivo do Reino. Verifique se você possui a DLC antes de carregar o arquivo.",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "dlc_bowuzhitishi2": {
   "ch": "此存档包含“实体版八荒博物志众筹专属服装”内容，将使用默认服装替代专属服装。",
@@ -10206,8 +10214,9 @@
  "dlc_wuduojinhuaxianzhi": {
   "ch": "此存档包含“五朵金花”内容，未拥有“五朵金花”DLC不可进入此存档。",
   "en": "This save file requires Five Blooms DLC. Please check if you owned the DLC before loading the save file.",
-  "pt": "Este arquivo de salvamento requer a DLC Cinco Florescências. Verifique se você possui a DLC antes de carregar o arquivo.",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Este save requer a DLC Cinco Florescências. Verifique se você possui a DLC antes de carregar o arquivo.",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "dlcjihuotishi": {
   "ch": "暂未拥有此DLC，请在游戏的STEAM主页中获取此DLC后再试。",
@@ -13112,8 +13121,9 @@
  "fixData_desc": {
   "ch": "此存档的部分数据丢失，无法正常进入！您可以点击[尝试修复]将丢失的数据使用默认数据填充（注意：此方法无法找回丢失的数据，只能使用默认的数据进行修复，修复后会出现部分数据与之前不一样的情况）",
   "en": "Some data is lost in this save file, unable to load. Click [Try to Fix] to fill in the missing data with default ones. (Note: Lost data cannot be recovered via this method since it only replaces them with default data and may result in discrepancies from the original save file.)",
-  "pt": "Alguns dados estão perdidos neste arquivo de salvamento, impossibilitando o carregamento. Clique em [Tentar Corrigir] para preencher os dados ausentes com os padrões. (Observação: Dados perdidos não podem ser recuperados por este método, pois ele apenas os substitui por dados padrão e pode resultar em discrepâncias do arquivo de salvamento original.)",
-  "auto": "cohere/command-a-reasoning-08-2025"
+  "pt": "Alguns dados estão perdidos neste save, impossibilitando o carregamento. Clique em [Tentar Corrigir] para preencher os dados ausentes com os padrões. (Observação: Dados perdidos não podem ser recuperados por este método, pois ele apenas os substitui por dados padrão e pode resultar em discrepâncias do save original.)",
+  "auto": "cohere/command-a-reasoning-08-2025",
+  "revisado": true
  },
  "fixData_fail": {
   "ch": "修复失败",
@@ -13481,17 +13491,16 @@
  "game_baocuncundang1": {
   "ch": "选择保存的位置。",
   "en": "Choose a folder to store your save.",
-  "pt": "Escolha uma pasta para armazenar seu salvamento.",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Escolha uma pasta para armazenar seu save.",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "game_baocuncundang2": {
   "ch": "导出存档成功！",
   "en": "Saves exported!",
-  "pt": "Salvamentos exportados!",
+  "pt": "Saves exportados!",
   "auto": "nuvem/revisao-prioridade",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "revisado": true
  },
  "game_baocuncundang3": {
   "ch": "选择CacheData存档文件夹！！！\n请选择《CacheData》文件夹！！！",
@@ -13502,29 +13511,30 @@
  "game_baocuncundang4": {
   "ch": "导入存档成功！",
   "en": "Saves imported!",
-  "pt": "Salvamentos importados!",
+  "pt": "Saves importados!",
   "auto": "nuvem/revisao-prioridade",
-  "revisar": [
-   "largura: 23 > 20 caracteres"
-  ]
+  "revisado": true
  },
  "game_baocuncundang5": {
   "ch": "本地无存档！",
   "en": "No saves found in your local storage!",
-  "pt": "Nenhum salvamento encontrado no seu armazenamento local!",
-  "auto": "local/hy-mt2"
+  "pt": "Nenhum save encontrado no seu armazenamento local!",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "game_baocuncundang6": {
   "ch": "选择的目录无存档！",
   "en": "No saves in the selected folder!",
-  "pt": "Não há salvamentos na pasta selecionada!",
-  "auto": "local/hy-mt2"
+  "pt": "Não há saves na pasta selecionada!",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "game_baocuncundang7": {
   "ch": "需要导入{0}个存档，存档位置不足！请先删除现有的存档！",
   "en": "{0} save(s) will be imported. You don't have enough save slots. Delete some current saves before trying again.",
-  "pt": "{0} salvamento(s) serão importados. Você não tem espaços de salvamento suficientes. Exclua alguns salvamentos atuais antes de tentar novamente.",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "{0} save(s) serão importados. Você não tem espaços de save suficientes. Exclua alguns saves atuais antes de tentar novamente.",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "game_baocuncundang8": {
   "ch": "请选择CacheData文件夹！",
@@ -13643,20 +13653,23 @@
  "game_cundangwenti": {
   "ch": "存档问题",
   "en": "Save File Issues",
-  "pt": "Problemas de Salvamento",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Problemas de Save",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "game_daochucundang": {
   "ch": "导出存档",
   "en": "Export Saves",
-  "pt": "Exportar Salvamentos",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Exportar Saves",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "game_daorucundang": {
   "ch": "导入存档",
   "en": "Import Saves",
-  "pt": "Importar Salvamentos",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Importar Saves",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "game_fuben": {
   "ch": "副本",
@@ -13757,8 +13770,9 @@
  "game_wenjianbeizhanyong": {
   "ch": "存档文件被占用！",
   "en": "The save file is currently being used.",
-  "pt": "O arquivo de salvamento está sendo usado no momento.",
-  "auto": "local/hy-mt2"
+  "pt": "O save está sendo usado no momento.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "game_wufatupo": {
   "ch": "存在无法进行突破的气运",
@@ -13769,17 +13783,16 @@
  "game_xuanzecundang": {
   "ch": "选择存档",
   "en": "Choose a Save",
-  "pt": "Escolha um Salvamento",
+  "pt": "Escolha um Save",
   "auto": "nuvem/revisao-prioridade",
-  "revisar": [
-   "largura: 21 > 17 caracteres"
-  ]
+  "revisado": true
  },
  "game_xuanzecundang1": {
   "ch": "选择一个存档，可使用存档中角色与器灵等进行     手机壁纸制作  ",
   "en": "Choose a Save and use its characters and Artifact Spirits to   create mobile wallpaper  ",
-  "pt": "Escolha um Salvamento e use seus personagens e Espíritos do Artefato para criar um papel de parede para celular.  ",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Escolha um Save e use seus personagens e Espíritos do Artefato para criar um papel de parede para celular.  ",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "game_zhendong": {
   "ch": "相机抖动",
@@ -19315,11 +19328,9 @@
  "login_shanchucundang": {
   "ch": "你确定删除这个存档吗？",
   "en": "Delete this save?",
-  "pt": "Excluir este salvamento?",
+  "pt": "Excluir este save?",
   "auto": "nuvem/revisao-prioridade",
-  "revisar": [
-   "largura: 24 > 23 caracteres"
-  ]
+  "revisado": true
  },
  "login_shanhaiwangshi": {
   "ch": "八荒往事",
@@ -19376,11 +19387,9 @@
  "login_xincundang": {
   "ch": "（创建存档 +）",
   "en": "(New Save +)",
-  "pt": "(Novo Salvamento +)",
+  "pt": "(Novo Save +)",
   "auto": "nuvem/revisao-prioridade",
-  "revisar": [
-   "largura: 19 > 16 caracteres"
-  ]
+  "revisado": true
  },
  "login_zuiduosange": {
   "ch": "最多选择三个先天气运",
@@ -30618,8 +30627,9 @@
  "setting_chongzaitishi": {
   "ch": "确定重新载入当前所保存的存档吗？（未保存的数据将丢失）",
   "en": "Reload the current save file? (Any unsaved progress will be lost)",
-  "pt": "Recarregar o arquivo de salvamento atual? (Qualquer progresso não salvo será perdido)",
-  "auto": "nuvem/revisao-prioridade"
+  "pt": "Recarregar o save atual? (Qualquer progresso não salvo será perdido)",
+  "auto": "nuvem/revisao-prioridade",
+  "revisado": true
  },
  "setting_chuangkou": {
   "ch": "窗口模式",
@@ -32200,20 +32210,23 @@
  "skyMonthBackUpCache": {
   "ch": "读取进入天元山之前的存档",
   "en": "Load save file before final questline",
-  "pt": "Carregar o arquivo de salvamento antes da última missão",
-  "auto": "local/hy-mt2"
+  "pt": "Carregar o save antes da última missão",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "skyMonthCurCache": {
   "ch": "读取当前存档",
   "en": "Load current save file",
-  "pt": "Carregar arquivo de salvamento atual",
-  "auto": "local/hy-mt2"
+  "pt": "Carregar save atual",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "skyMonthPassTip": {
   "ch": "存档已通关，是否要读取进入天元山之前的存档重新挑战？",
   "en": "This save file has completed Tian Yuan Mountain questline. Load a previous save file and start this questline again?",
-  "pt": "Este arquivo de salvamento já completou a sequência de missões da Montanha Tian Yuan. Deseja carregar um arquivo de salvamento anterior e iniciar essa sequência de missões novamente?",
-  "auto": "local/hy-mt2"
+  "pt": "Este save já completou a sequência de missões da Montanha Tian Yuan. Deseja carregar um save anterior e iniciar essa sequência de missões novamente?",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "smooth": {
   "ch": "流畅",
@@ -36088,26 +36101,30 @@
  "uiCacheHelper_cundang": {
   "ch": "打开存档目录",
   "en": "Open save file directory",
-  "pt": "Abrir o diretório de arquivos salvos",
-  "auto": "local/hy-mt2"
+  "pt": "Abrir o diretório de saves",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "uiCacheHelper_cundangbeifen": {
   "ch": "打开存档备份目录",
   "en": "Open save backup directory",
-  "pt": "Abrir diretório de backup de salvamento",
-  "auto": "local/hy-mt2"
+  "pt": "Abrir diretório de backup de save",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "uiCacheHelper_cundangbeifenmiaoshu": {
   "ch": "游戏中有存档备份功能，如若存档因为某种原因损坏无法进入游戏，可在此文件夹中找到其他时间节点自动保存的存档。\n点击进入后找到存档本体复制到上面的存档目录中进行替换。",
   "en": "We provide in-game save file backups. If you encounter save file corruption due to unknown reasons, please click here to open the folder for backups auto-saved at previous checkpoints.\nThere you could find a save file to replace the corrupted one by pasting it to the corresponding save file directory (see above).",
-  "pt": "Oferecemos backups dos arquivos de salvamento do jogo. Caso você encontre corrupção nos arquivos de salvamento por motivos desconhecidos, clique aqui para abrir a pasta com os backups salvos automaticamente nos pontos de verificação anteriores.\nLá, você encontrará um arquivo de salvamento que pode substituir o arquivo corrompido, basta colá-lo no diretório correspondente (veja acima).",
-  "auto": "local/hy-mt2"
+  "pt": "Oferecemos backups dos saves do jogo. Caso você encontre corrupção nos saves por motivos desconhecidos, clique aqui para abrir a pasta com os backups salvos automaticamente nos pontos de verificação anteriores.\nLá, você encontrará um save que pode substituir o arquivo corrompido, basta colá-lo no diretório correspondente (veja acima).",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "uiCacheHelper_cundangmiaoshu": {
   "ch": "如若存档出现问题可点击进入此文件夹，把出现问题的存档压缩后发送给制作组。\n存档文件夹的开头数字即为存档的序号。",
   "en": "If you encounter save file errors, please click here to open the folder and find the nonworking save file, and send it in zipped format to us.\nThe number at the beginning of its name is the serial number of the save file.",
-  "pt": "Caso encontre erros nos arquivos de salvamento, por favor, clique aqui para abrir a pasta, localizar o arquivo de salvamento com problema e enviá-lo para nós em formato zip.\nO número no início do nome do arquivo é o número de série do arquivo de salvamento.",
-  "auto": "local/hy-mt2"
+  "pt": "Caso encontre erros nos saves, por favor, clique aqui para abrir a pasta, localizar o save com problema e enviá-lo para nós em formato zip.\nO número no início do nome do arquivo é o número de série do save.",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "uiCacheHelper_cuowurizhi": {
   "ch": "打开DebugLog目录",
@@ -41063,8 +41080,12 @@
  "wuxue_daodianxiaohao": {
   "ch": "道点消耗：",
   "en": "Skill Point Cost:",
-  "pt": "Custo em Pontos de Habilidade:",
-  "auto": "local/hy-mt2"
+  "pt": "Custo em Pontos:",
+  "auto": "local/hy-mt2",
+  "revisado": true,
+  "revisar": [
+   "glossário: Skill → Habilidade"
+  ]
  },
  "wuxue_dian": {
   "ch": "点",

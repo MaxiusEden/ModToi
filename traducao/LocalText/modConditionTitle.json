@@ -296,8 +296,9 @@
  "modConditionTitle_checkSmallSchool": {
   "ch": "判断当前存档的小宗门是否是特殊宗门（例如：御龙山庄）",
   "en": "Determines if the minor sect in the current save file a special sect (e.g. Dragon Mountain Hamlet)",
-  "pt": "Determina se a seita menor no arquivo de salvamento atual é uma seita especial (por exemplo, Aldeia na Montanha do Dragão).",
-  "auto": "local/hy-mt2"
+  "pt": "Determina se a seita menor no save atual é uma seita especial (por exemplo, Aldeia na Montanha do Dragão).",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "modConditionTitle_close": {
   "ch": "与ID为105的NPC角色好感度至少为95",
@@ -1239,8 +1240,9 @@
  "modConditionTitle_worldData": {
   "ch": "存档里数据的key值的value大小判断（制作奇遇时，可以充当标记使用）",
   "en": "Determines the value size of \"key\" in the save file (Can be used as a tag when creating Adventures)",
-  "pt": "Determina o tamanho do valor de \"key\" no arquivo de salvamento (Pode ser usado como tag ao criar Aventuras)",
-  "auto": "local/hy-mt2"
+  "pt": "Determina o tamanho do valor de \"key\" no save (Pode ser usado como tag ao criar Aventuras)",
+  "auto": "local/hy-mt2",
+  "revisado": true
  },
  "modConditionTitle_xxClose": {
   "ch": "指定两个角色的亲密度判定（第一个角色对第二个角色的亲密度）",

@@ -327,8 +327,9 @@
  "town_kejipai": {
   "ch": "可寄拍以下境界道具：",
   "en": "Only items of the following realms can be put up for the auction:",
-  "pt": "Apenas itens dos seguintes reinos podem ser colocados no leilão:",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Só itens destes reinos podem ir a leilão:",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "town_kongjianyiman": {
   "ch": "建木空间已满！",
@@ -801,8 +802,9 @@
  "town_yifushuaxintishi": {
   "ch": "距离下次刷新衣服\n还有{0}个月",
   "en": "Outfits will be refreshed in\n{0} month(s)",
-  "pt": "Os Trajes serão atualizados em\n{0} mês(es)",
-  "auto": "local/hy-mt2+revisao-nuvem"
+  "pt": "Novos trajes em\n{0} mês(es)",
+  "auto": "local/hy-mt2+revisao-nuvem",
+  "revisado": true
  },
  "town_yijipai": {
   "ch": "已寄拍物品",
