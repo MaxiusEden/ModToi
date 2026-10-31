@@ -252,7 +252,7 @@ namespace MOD_6b2SYs
             new Rule { Window = "GameSetting", Name = "G:textCameraShake", Under = "GuiFixDataItem", Translate = true },
             new Rule { Window = "GameSetting", Name = "G:textSystemOK", Under = "GuiFixDataItem", Translate = true },
             // Venda, taverna, leilão em andamento, forja e preparação da batalha: textos com a segunda linha cortada.
-            new Rule { Window = "PropSell", Name = "Name", FitMin = 10 },
+            new Rule { Window = "PropSell", Name = "Name", FitMin = 10, Height = 26f },
             new Rule { Window = "PropSell", Name = "Text", Parent = "Button", FitMin = 13 },
             new Rule { Window = "PropSell", Name = "G:textTip", NoWrap = true, MaxWidth = 480f },
             new Rule { Window = "PropSell", Name = "G:textPrice", NoWrap = true, MaxWidth = 290f },
