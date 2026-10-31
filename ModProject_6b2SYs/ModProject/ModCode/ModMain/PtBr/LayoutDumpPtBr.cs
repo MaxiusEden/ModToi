@@ -52,7 +52,9 @@ namespace MOD_6b2SYs
                 var t = texts[i].TryCast<UnityEngine.UI.Text>();
                 if (t != null && t.isActiveAndEnabled && !string.IsNullOrEmpty(t.text))
                 {
-                    Line(sb, "Text", t, t.text, t.fontSize, t.horizontalOverflow + "/" + t.verticalOverflow, t.preferredHeight);
+                    // Com ajuste automático, a fonte desenhada é a do gerador, não a de fontSize.
+                    string fit = t.resizeTextForBestFit ? "/ajuste " + t.cachedTextGenerator.fontSizeUsedForBestFit : "";
+                    Line(sb, "Text", t, t.text, t.fontSize, t.horizontalOverflow + "/" + t.verticalOverflow + fit, t.preferredHeight);
                     n++;
                 }
             }

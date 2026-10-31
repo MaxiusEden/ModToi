@@ -49,10 +49,11 @@ namespace MOD_6b2SYs
         private const float BookBalloonBase = 86f;
         private const float BookBalloonHeight = 108f;
         private const int FactoryListPad = 12;
-        // Mapa-múndi: o ícone maior do filtro vai até 11 depois do começo do texto.
-        private const float MapFilterRight = 11f;
+        // Mapa-múndi: entre o maior ícone do filtro e o fim do botão há 112 de largura, centrados 4 à direita do original.
+        private const float MapFilterRight = 4f;
+        private const float MapFilterWidth = 112f;
         // Quadro do guardião: rótulo + valor até o fim da linha separadora (225 de largura).
-        private const float BeastRowWidth = 215f;
+        private const float BeastRowWidth = 222f;
         private const float LoginButtonMaxWidth = 160f;
         private const float CacheButtonPad = 20f;
         private const float TabTextMaxWidth = 62f;
@@ -289,9 +290,9 @@ namespace MOD_6b2SYs
             new Rule { Window = "Difficulty", Name = "G:textDieDesc_En", Size = 16 },
             // Outras telas com a segunda linha cortada.
             // Mapa-múndi: o texto do filtro começa depois do ícone e termina dentro do botão.
-            new Rule { Window = "MinMap", Prefix = "G:textTgl", Under = "G:goFilterItemRoot", NoWrap = true, MaxWidth = 108f,
-                Offset = rt => new Vector2(MapFilterRight, 0f) },
-            new Rule { Window = "MinMap", Prefix = "G:textTgl", Under = "G:goUnitFilter_En", NoWrap = true, MaxWidth = 52f },
+            new Rule { Window = "MinMap", Prefix = "G:textTgl", Under = "G:goFilterItemRoot", NoWrap = true,
+                MaxWidth = MapFilterWidth, Offset = rt => new Vector2(MapFilterRight, 0f) },
+            new Rule { Window = "MinMap", Prefix = "G:textTgl", Under = "G:goUnitFilter_En", NoWrap = true, MaxWidth = 56f },
             new Rule { Window = "PlayerInfo", Name = "G:textMartialTrain", NoWrap = true, MaxWidth = 146f },
             new Rule { Window = "PlayerInfo", Name = "Text", Parent = "Open", Under = "Group:Art", FitMin = 11 },
             new Rule { Window = "ElderSkillInfo", Name = "G:textDescTitle", NoWrap = true },
@@ -574,6 +575,11 @@ namespace MOD_6b2SYs
             }
             if (maxWidth > 0f)
             {
+                // Numa linha só, o ajuste automático olha só a altura e ignoraria a fonte calculada aqui.
+                if (rule.FitMin == 0 && t.resizeTextForBestFit && t.horizontalOverflow == HorizontalWrapMode.Overflow)
+                {
+                    t.resizeTextForBestFit = false;
+                }
                 float width = t.preferredWidth;
                 if (width > maxWidth)
                 {
