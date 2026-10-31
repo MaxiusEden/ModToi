@@ -54,6 +54,10 @@ namespace MOD_6b2SYs
         private const float MapFilterWidth = 112f;
         // Quadro do guardião: rótulo + valor até o fim da linha separadora (225 de largura).
         private const float BeastRowWidth = 222f;
+        // Menu do mod de reparo: o último botão termina onde começa o resumo ("Excluídos..."), que desce até a altura dele.
+        private const float RepairMenuRight = 660f;
+        private const float RepairButtonWidth = 150f;
+        private const float RepairRowDown = 80f;
         private const float LoginButtonMaxWidth = 160f;
         private const float CacheButtonPad = 20f;
         private const float TabTextMaxWidth = 62f;
@@ -248,6 +252,13 @@ namespace MOD_6b2SYs
             new Rule { Window = "GameSetting", Name = "G:textCameraShake", Under = "GuiFixDataItem", Translate = true },
             new Rule { Window = "GameSetting", Name = "G:textSystemOK", Under = "GuiFixDataItem", Translate = true },
             new Rule { Window = "TextInfoLong", Name = "G:textOK", Translate = true },
+            // Mod de reparo: os botões nascem contados a partir da borda esquerda e ficam fora da área visível.
+            new Rule { Window = "TextInfoLong", Name = "G:btnOK(Clone)", Parent = "New Game Object",
+                Offset = rt => new Vector2(RepairMenuRight, 0f) },
+            new Rule { Window = "TextInfoLong", Name = "G:textOK", Under = "New Game Object", NoWrap = true,
+                MaxWidth = RepairButtonWidth },
+            new Rule { Window = "TextInfoLong", Name = "G:ptextInfo(Clone)", Parent = "New Game Object",
+                Offset = rt => new Vector2(0f, -RepairRowDown) },
             // Configurações: textos de duas linhas ("Exportar Log de Depuração").
             new Rule { Window = "GameSetting", Name = "G:textLog", FitMin = 11 },
             new Rule { Window = "GameSetting", Name = "G:textDynPortraitPlayAnim", FitMin = 11 },
