@@ -2,9 +2,33 @@
 
 Instruções para a sessão do Claude Code na nuvem que traduz os lotes desta pasta. A exceção que permite isso está no `CLAUDE.md` (seção "Modelos de tradução", regra "O Claude não traduz em volume"), autorizada pelo usuário em 2026-10-25 e válida até 2026-11-05.
 
+## Falas que faltavam (tarefa em aberto, crédito limitado)
+
+Esta é a única tarefa em aberto nesta pasta; as seções seguintes são o histórico. `falas/src_fNN.json` traz, do mais ao menos importante, falas de diálogo que ainda não têm tradução: `{"chave": {"en": "texto"}}`. Não há `ch`, para o lote custar menos.
+
+Como trabalhar:
+
+- Um lote por vez, na ordem numérica, começando pelo primeiro sem `out_fNN.json`. Sem threads paralelas, sem subagentes e sem explicações entre os passos: o crédito é pouco, e o trabalho pode parar a qualquer momento.
+- Leia uma vez `tools/ptbr/prompt_anthropic.md` e `glossario/obrigatorios.json`. Não leia `glossario/decisoes.md`, os relatórios, `traducao/LocalText` inteiro nem os lotes antigos. Só para um nome de item, técnica ou lugar que você não conheça, procure esse nome com `grep` em `traducao/LocalText`.
+
+Para cada lote:
+
+1. Traduza cada `en` para português do Brasil, você mesmo, em tom de conversa natural. Termos desta rodada: Vitality = Vida, Stamina = Vigor, Five Blooms = Cinco Florescências. Os lotes são falas em sequência: mantenha o mesmo tratamento dentro de uma conversa.
+2. Grave `falas/out_fNN.json`: `{"chave": "tradução"}`, com todas as chaves do lote, na mesma ordem, em UTF-8 (`ensure_ascii=False`, `indent=1`).
+3. Rode o verificador e corrija todo `ERRO`; `AVISO` só se for de fato um erro seu:
+
+   ```bash
+   python tools/ptbr/nuvem_checar.py traducao/nuvem/falas/src_fNN.json traducao/nuvem/falas/out_fNN.json
+   ```
+
+4. Acrescente uma linha a `falas/PROGRESSO.md`: `fNN: N traduzidas` e, só se houver, uma dúvida de termo em poucas palavras.
+5. Commit só desses dois arquivos (`Traduz fNN na nuvem`) e push na branch `traducao-nuvem`, antes de começar o próximo lote. Não edite os `src_*`.
+
+Se uma frase repetir outra do lote, use a mesma tradução. As regras da seção "Limites" valem aqui.
+
 ## Revisão por prioridade (crédito limitado)
 
-Concluída: os 169 lotes foram feitos e juntados no `traducao/LocalText`. Não há tarefa em aberto nesta pasta; esta seção e as seguintes são o histórico.
+Concluída: os 169 lotes foram feitos e juntados no `traducao/LocalText`.
 
 `prioridade/src_pNNN.json` (169 lotes, do mais ao menos importante; `prioridade/INDICE.md` lista o conteúdo). Grupo A (p001–p042): interface, nomes e descrições que nunca foram revisados. Grupo B (p043–p169): segunda leitura de missões e diálogos, sem o campo `ch`.
 
