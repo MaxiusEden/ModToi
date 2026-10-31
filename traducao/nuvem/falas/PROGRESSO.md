@@ -1,2 +1,3 @@
 f01: 105 traduzidas
 f02: 94 traduzidas; dúvida: Chi You (lugar/pessoa?) mantido em pinyin, 'ley lines' como 'linhas de ley'
+f03: 91 traduzidas; dúvida: {gender1|C} (possessivo) em 10442578 pode ficar estranho em PT
