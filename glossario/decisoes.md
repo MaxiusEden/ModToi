@@ -43,6 +43,7 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Termo | Decisão | Motivo |
 |---|---|---|
 | Tao Realm (`battle_jiejie`), Move (`ability_name_last1`) | Reino Dao, Movimentação | Não mudar: o código do mod reordena os nomes com estas palavras (NameOrderPtBr, Tecnicas.json). |
+| Vitality (体力) | Vida | Decidido pelo usuário em 2026-10-31: nada de "Vitalidade". Stamina (精力) continua Vigor, inclusive nas falas de Agar. |
 | Save (arquivo de jogo) | save, saves | Decidido pelo usuário em 2026-10-30: nada de "salvamento" nem "arquivo de salvamento". O verbo continua "salvar". |
 | Ward Pool (归一池), Sanguine Riverstar (血星河), Skygate (天门) | Poço da Proteção, Rio Estelar Sanguíneo, Portão Celestial | Decidido pelo usuário em 2026-10-30; a revisão da nuvem tinha deixado em inglês. "Riverstar" sozinho vira "Rio Estelar". |
 | Taoist Mind (道心) | Coração do Dao | É a forma consagrada de 道心; "mente taoista" soa estranho. |
@@ -326,9 +327,9 @@ Chaves em chinês (ex.: `暴击倍率`) são conferidas contra o `ch`; as demais
 | Max Energy | Energia Máx. | obrigatório | 97 | 最大灵力 |
 | Energy Recovery | Recuperação de Energia | obrigatório | 14 | 灵力恢复 |
 | Energy Cost | Custo de Energia | obrigatório | 111 |  |
-| Vitality | Vitalidade | obrigatório | 757 | 体力 |
-| Max Vitality | Vitalidade Máx. | obrigatório | 293 | 最大体力 |
-| Vitality Restoration | Recuperação de Vitalidade | obrigatório | 23 | 体力回复 |
+| Vitality | Vida | obrigatório | 757 | 体力 |
+| Max Vitality | Vida Máx. | obrigatório | 293 | 最大体力 |
+| Vitality Restoration | Recuperação de Vida | obrigatório | 23 | 体力回复 |
 | Focus | Foco | obrigatório | 266 | 念力 |
 | Max Focus | Foco Máx. | obrigatório | 74 | 念力上限 |
 | Stamina | Vigor | obrigatório | 76 | 精力 |

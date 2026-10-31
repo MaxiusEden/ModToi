@@ -2,7 +2,7 @@
  "prefixDescS10101": {
   "ch": "最大体力&10101_hpMaxUp&\n抗性&10101_prfDown&",
   "en": "Max Vitality &10101_hpMaxUp&\nResistance &10101_prfDown&",
-  "pt": "Vitalidade Máx. &10101_hpMaxUp&\nResistência &10101_prfDown&",
+  "pt": "Vida Máx. &10101_hpMaxUp&\nResistência &10101_prfDown&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10102": {
@@ -14,7 +14,7 @@
  "prefixDescS10103": {
   "ch": "吸血概率&1001_leechProb%1&%（仅对有吸血的技能生效）\n体力回复&10103_hpRestoreDown&",
   "en": "Leech Chance &1001_leechProb%1&%, effective only to skills with Leech effect\nVitality Restoration &10103_hpRestoreDown&",
-  "pt": "Chance de Roubo de Vida &1001_leechProb%1&%, efetiva apenas para habilidades com efeito de Roubo de Vida\nRecuperação de Vitalidade &10103_hpRestoreDown&",
+  "pt": "Chance de Roubo de Vida &1001_leechProb%1&%, efetiva apenas para habilidades com efeito de Roubo de Vida\nRecuperação de Vida &10103_hpRestoreDown&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10104": {
@@ -26,13 +26,13 @@
  "prefixDescS10105": {
   "ch": "每10点最大体力可使暴击倍率&10105_hpToCritV&%",
   "en": "Every 10 Max Vitality will &10105_hpToCritV&% of your Crit Rate",
-  "pt": "A cada 10 de Vitalidade Máx., o seu Multiplicador Crítico muda em &10105_hpToCritV&%",
+  "pt": "A cada 10 de Vida Máx., o seu Multiplicador Crítico muda em &10105_hpToCritV&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10106": {
   "ch": "当体力小于&10106_hpRequire&%时，吸血比例&1002_leechRate%1&%（仅对有吸血的技能生效）",
   "en": "Leech Rate &1002_leechRate%1&% when Vitality is below &10106_hpRequire&%, applicable only to skills with Leeching effect.",
-  "pt": "Taxa de Roubo de Vida &1002_leechRate%1&% quando a Vitalidade está abaixo de &10106_hpRequire&%, aplicável apenas a habilidades com efeito de Roubo de Vida.",
+  "pt": "Taxa de Roubo de Vida &1002_leechRate%1&% quando a Vida está abaixo de &10106_hpRequire&%, aplicável apenas a habilidades com efeito de Roubo de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10107": {
@@ -50,19 +50,19 @@
  "prefixDescS10109": {
   "ch": "当体力小于&10109_hpRequire&%时，暴击概率&10109_critUp&%",
   "en": "Crit Chance &10109_critUp&% when Vitality is below &10109_hpRequire&%",
-  "pt": "Chance Crítica &10109_critUp&% quando a Vitalidade está abaixo de &10109_hpRequire&%",
+  "pt": "Chance Crítica &10109_critUp&% quando a Vida está abaixo de &10109_hpRequire&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10110": {
   "ch": "体力每降低&10110_hpReduce&%，吸血概率提高&10110_hpSuckUp&%（仅对有吸血的技能生效）",
   "en": "Every &10110_hpReduce&% lost Vitality will &10110_hpSuckUp&% of your Leech Chance, applicable only to skills with Leeching effect.",
-  "pt": "A cada &10110_hpReduce&% de Vitalidade perdida, a sua Chance de Roubo de Vida aumenta em &10110_hpSuckUp&%, aplicável apenas a habilidades com efeito de Roubo de Vida.",
+  "pt": "A cada &10110_hpReduce&% de Vida perdida, a sua Chance de Roubo de Vida aumenta em &10110_hpSuckUp&%, aplicável apenas a habilidades com efeito de Roubo de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10111": {
   "ch": "魔煞附体，当体力大于80%时，魔煞会消耗当前5%的体力，使用断斩技能，每3秒使用一次",
   "en": "Possessed by a demon. It will cast Sever every 3 seconds at the cost of your 5% Current Vitality if your Vitality is above 80%",
-  "pt": "Possuído por um demônio. Lançará Decepar a cada 3 segundos ao custo de 5% da sua Vitalidade Atual, se a sua Vitalidade estiver acima de 80%",
+  "pt": "Possuído por um demônio. Lançará Decepar a cada 3 segundos ao custo de 5% da sua Vida Atual, se a sua Vida estiver acima de 80%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10112": {
@@ -74,13 +74,13 @@
  "prefixDescS10113": {
   "ch": "战斗中每触发&10112_leechNum&次吸血，最大体力永久&10112_hpMaxUp&，每场战斗最多增加&10112_hpUpMax&点",
   "en": "Every &10112_leechNum& Leeching in battle will &10112_hpMaxUp& your Max Vitality permanently, up to &10112_hpUpMax& in every battle",
-  "pt": "A cada &10112_leechNum& Roubos de Vida na batalha, a sua Vitalidade Máx. muda em &10112_hpMaxUp& permanentemente, até &10112_hpUpMax& em cada batalha",
+  "pt": "A cada &10112_leechNum& Roubos de Vida na batalha, a sua Vida Máx. muda em &10112_hpMaxUp& permanentemente, até &10112_hpUpMax& em cada batalha",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10114": {
   "ch": "每&int_1|/10113_hpMaxToJnfw|f0&点最大体力，技能范围&10113_hpMaxToJnfw&%",
   "en": "Every &int_1|/10113_hpMaxToJnfw|f0& Max Vitality will &10113_hpMaxToJnfw&% of your skill's Radius",
-  "pt": "A cada &int_1|/10113_hpMaxToJnfw|f0& de Vitalidade Máx., o Raio da sua habilidade muda em &10113_hpMaxToJnfw&%",
+  "pt": "A cada &int_1|/10113_hpMaxToJnfw|f0& de Vida Máx., o Raio da sua habilidade muda em &10113_hpMaxToJnfw&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS102001": {
@@ -116,7 +116,7 @@
  "prefixDescS102006": {
   "ch": "当体力小于&102_lifeNeed&%时，此技能的吸血概率&102_leechProbUp6&%",
   "en": "Leech Chance &102_leechProbUp6&% when Vitality is below &102_lifeNeed&%",
-  "pt": "Chance de Roubo de Vida &102_leechProbUp6&% quando a Vitalidade está abaixo de &102_lifeNeed&%",
+  "pt": "Chance de Roubo de Vida &102_leechProbUp6&% quando a Vida está abaixo de &102_lifeNeed&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS102007": {
@@ -158,7 +158,7 @@
  "prefixDescS10206": {
   "ch": "每次消耗充能点时可回复&10206_hpRecover&体力",
   "en": "Restore &10206_hpRecover& Vitality upon every consuming of Recharging Points",
-  "pt": "Recupera &10206_hpRecover& de Vitalidade a cada consumo de Pontos Recarregando",
+  "pt": "Recupera &10206_hpRecover& de Vida a cada consumo de Pontos Recarregando",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10207": {
@@ -194,7 +194,7 @@
  "prefixDescS103003": {
   "ch": "此技能威力&103_dmg%3&\n每次触发斩杀时\n可回复&103_hpRecover&点体力",
   "en": "Skill Damage &103_dmg%3&\nFor every triggering of execution\nRestore &103_hpRecover& Vitality",
-  "pt": "Dano da Habilidade &103_dmg%3&\nA cada ativação da execução\nRecupera &103_hpRecover& de Vitalidade",
+  "pt": "Dano da Habilidade &103_dmg%3&\nA cada ativação da execução\nRecupera &103_hpRecover& de Vida",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS103004": {
@@ -212,13 +212,13 @@
  "prefixDescS103006": {
   "ch": "使用此技能时，若体力大于&103_hpNeed6&%，则消耗&103_hpCost6&体力，使此技能的威力+40",
   "en": "Cost &103_hpCost6& Vitality to increase Skill Damage by 40 if Vitality is above &103_hpNeed6&% upon cast",
-  "pt": "Custa &103_hpCost6& de Vitalidade para aumentar o Dano da Habilidade em 40 se a Vitalidade estiver acima de &103_hpNeed6&% ao lançar",
+  "pt": "Custa &103_hpCost6& de Vida para aumentar o Dano da Habilidade em 40 se a Vida estiver acima de &103_hpNeed6&% ao lançar",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS103007": {
   "ch": "每&103_hpTransfer&点最大体力可此技能的暴击倍率&103_critVUp7&%",
   "en": "Every &103_hpTransfer& Max Vitality will increase the skill's Crit Rate by &103_critVUp7&%",
-  "pt": "A cada &103_hpTransfer& de Vitalidade Máx., aumenta o Multiplicador Crítico da habilidade em &103_critVUp7&%",
+  "pt": "A cada &103_hpTransfer& de Vida Máx., aumenta o Multiplicador Crítico da habilidade em &103_critVUp7&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS103008": {
@@ -314,13 +314,13 @@
  "prefixDescS104006": {
   "ch": "使用此技能时，若体力大于&104_hpNeed6&%，则消耗&104_hpCost6&点体力，使此技能的弹道可弹射&104_ejectNum%1&次",
   "en": "Cost &104_hpCost6& Vitality to bounce the projectile for &104_ejectNum%1& times if Vitality is above &104_hpNeed6&% upon cast",
-  "pt": "Custa &104_hpCost6& de Vitalidade para fazer o projétil ricochetear &104_ejectNum%1& vezes se a Vitalidade estiver acima de &104_hpNeed6&% ao lançar",
+  "pt": "Custa &104_hpCost6& de Vida para fazer o projétil ricochetear &104_ejectNum%1& vezes se a Vida estiver acima de &104_hpNeed6&% ao lançar",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS104007": {
   "ch": "每有&104_hpRequire&点当前体力，此技能的暴击概率&104_currentHpToCrit&%",
   "en": "For every &104_hpRequire& Current Vitality, increase the skill's Crit Chance by &104_currentHpToCrit&%",
-  "pt": "A cada &104_hpRequire& de Vitalidade Atual, aumenta a Chance Crítica da habilidade em &104_currentHpToCrit&%",
+  "pt": "A cada &104_hpRequire& de Vida Atual, aumenta a Chance Crítica da habilidade em &104_currentHpToCrit&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10401": {
@@ -338,7 +338,7 @@
  "prefixDescS10403": {
   "ch": "最大体力&10403_hpMaxUp&\n技能射程&10403_rangeDown&%",
   "en": "Max Vitality &10403_hpMaxUp&\nSkill Range &10403_rangeDown&%",
-  "pt": "Vitalidade Máx. &10403_hpMaxUp&\nAlcance da Habilidade &10403_rangeDown&%",
+  "pt": "Vida Máx. &10403_hpMaxUp&\nAlcance da Habilidade &10403_rangeDown&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10404": {
@@ -374,7 +374,7 @@
  "prefixDescS10409": {
   "ch": "消耗护盾时，回复等量的体力\n体力回复&10409_hpRestoreDown&\n吸血比例&10409_hpSuckVDown&（仅对有吸血的技能生效）",
   "en": "Restore Vitality equal to the amount absorbed by your Shield when it takes damage\nVitality Restoration &10409_hpRestoreDown&\nLeech Rate &10409_hpSuckVDown&, applicable only to skills with Leeching effect.",
-  "pt": "Recupera Vitalidade igual à quantidade absorvida pelo seu Escudo quando ele sofre dano\nRecuperação de Vitalidade &10409_hpRestoreDown&\nTaxa de Roubo de Vida &10409_hpSuckVDown&, aplicável apenas a habilidades com efeito de Roubo de Vida.",
+  "pt": "Recupera Vida igual à quantidade absorvida pelo seu Escudo quando ele sofre dano\nRecuperação de Vida &10409_hpRestoreDown&\nTaxa de Roubo de Vida &10409_hpSuckVDown&, aplicável apenas a habilidades com efeito de Roubo de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10410": {
@@ -422,7 +422,7 @@
  "prefixDescS10501": {
   "ch": "闪避&10501_evadeUp&%\n体力上限&10501_agileDown&",
   "en": "Dodge &10501_evadeUp&%\nMax Vitality &10501_agileDown&",
-  "pt": "Esquiva &10501_evadeUp&%\nVitalidade Máx. &10501_agileDown&",
+  "pt": "Esquiva &10501_evadeUp&%\nVida Máx. &10501_agileDown&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS10502": {
@@ -560,7 +560,7 @@
  "prefixDescS1101007": {
   "ch": "使用此技能时，若体力大于&1101_sevenHp&%，则消耗&1101_costHp&%的体力，使此技能的弹道进行一次弹跳",
   "en": "Cost &1101_costHp&% Vitality to bounce the projectile for 1 time if Vitality is above &1101_sevenHp&% upon cast",
-  "pt": "Custa &1101_costHp&% de Vitalidade para fazer o projétil ricochetear 1 vez se a Vitalidade estiver acima de &1101_sevenHp&% ao lançar",
+  "pt": "Custa &1101_costHp&% de Vida para fazer o projétil ricochetear 1 vez se a Vida estiver acima de &1101_sevenHp&% ao lançar",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1102001": {
@@ -596,7 +596,7 @@
  "prefixDescS1102006": {
   "ch": "使用此技能时，若体力大于&1102_sixHp&%，则消耗&1102_costHp&%的体力，使此技能的持续时间&1102_sixTime&秒",
   "en": "Cost &1102_costHp&% Vitality to extend the skill's duration by &1102_sixTime&s if Vitality is above &1102_sixHp&% upon cast",
-  "pt": "Custa &1102_costHp&% de Vitalidade para estender a duração da habilidade em &1102_sixTime&s se a Vitalidade estiver acima de &1102_sixHp&% ao lançar",
+  "pt": "Custa &1102_costHp&% de Vida para estender a duração da habilidade em &1102_sixTime&s se a Vida estiver acima de &1102_sixHp&% ao lançar",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1102007": {
@@ -638,7 +638,7 @@
  "prefixDescS1103006": {
   "ch": "使用此技能时，若体力大于&1103_sixHp&%，则消耗&1103_costHp&%的体力，在技能持续时间移动速度&1103_sixSpeed&%",
   "en": "Cost &1103_costHp&% Vitality to increase Agility by &1103_sixSpeed&% in the skill's effect time if Vitality is above &1103_sixHp&% upon cast",
-  "pt": "Custa &1103_costHp&% de Vitalidade para aumentar a Agilidade em &1103_sixSpeed&% durante o tempo de efeito da habilidade se a Vitalidade estiver acima de &1103_sixHp&% ao lançar",
+  "pt": "Custa &1103_costHp&% de Vida para aumentar a Agilidade em &1103_sixSpeed&% durante o tempo de efeito da habilidade se a Vida estiver acima de &1103_sixHp&% ao lançar",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1103007": {
@@ -656,7 +656,7 @@
  "prefixDescS11102": {
   "ch": "最大体力&11102_hpSum&\n召唤物攻击速度&11102_attSpeedSum&%",
   "en": "Max Vitality &11102_hpSum&\nSummoned Unit Attack Speed &11102_attSpeedSum&%",
-  "pt": "Vitalidade Máx. &11102_hpSum&\nVelocidade de Ataque das Unidades Invocadas &11102_attSpeedSum&%",
+  "pt": "Vida Máx. &11102_hpSum&\nVelocidade de Ataque das Unidades Invocadas &11102_attSpeedSum&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11103": {
@@ -674,7 +674,7 @@
  "prefixDescS11105": {
   "ch": "每拥有&11105_fireSum&点当前体力可烈焰持续时间&11105_fireRange&秒",
   "en": "Every &11105_fireSum& current Vitality will &11105_fireRange&s Fiery Flame Duration",
-  "pt": "A cada &11105_fireSum& de Vitalidade atual, a Duração da Chama Ardente muda em &11105_fireRange&s",
+  "pt": "A cada &11105_fireSum& de Vida atual, a Duração da Chama Ardente muda em &11105_fireRange&s",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11106": {
@@ -698,7 +698,7 @@
  "prefixDescS11109": {
   "ch": "当自身站在烈焰上，获得体力回复&11109_hpRestore&",
   "en": "Gain &11109_hpRestore& Vitality Restoration when standing in Fiery Flame",
-  "pt": "Ganha &11109_hpRestore& de Recuperação de Vitalidade ao ficar sobre a Chama Ardente",
+  "pt": "Ganha &11109_hpRestore& de Recuperação de Vida ao ficar sobre a Chama Ardente",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11110": {
@@ -734,13 +734,13 @@
  "prefixDescS11115": {
   "ch": "体力&11115_hp&，烈焰范围&11115_fireRange&%",
   "en": "Vitality &11115_hp&, Fiery Flame Radius &11115_fireRange&%",
-  "pt": "Vitalidade &11115_hp&, Raio da Chama Ardente &11115_fireRange&%",
+  "pt": "Vida &11115_hp&, Raio da Chama Ardente &11115_fireRange&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11116": {
   "ch": "烈焰伤害&11116_fireDmg&%，体力&11116_hp&",
   "en": "Fiery Flame Damage &11116_fireDmg&%, Vitality &11116_hp&",
-  "pt": "Dano da Chama Ardente &11116_fireDmg&%, Vitalidade &11116_hp&",
+  "pt": "Dano da Chama Ardente &11116_fireDmg&%, Vida &11116_hp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11201": {
@@ -752,7 +752,7 @@
  "prefixDescS11202": {
   "ch": "体力回复&11202_hpBack&\n闪避&11202_mspSum&%",
   "en": "Vitality Restoration &11202_hpBack&\nDodge &11202_mspSum&%",
-  "pt": "Recuperação de Vitalidade &11202_hpBack&\nEsquiva &11202_mspSum&%",
+  "pt": "Recuperação de Vida &11202_hpBack&\nEsquiva &11202_mspSum&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11203": {
@@ -764,7 +764,7 @@
  "prefixDescS11204": {
   "ch": "每点水灵根可使体力回复&11204_hpBack&",
   "en": "Every Water root will &11204_hpBack& Vitality Restoration",
-  "pt": "Cada Raiz de Água altera a sua Recuperação de Vitalidade em &11204_hpBack&",
+  "pt": "Cada Raiz de Água altera a sua Recuperação de Vida em &11204_hpBack&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11205": {
@@ -782,7 +782,7 @@
  "prefixDescS11207": {
   "ch": "每&11207_hpMax&点最大体力可使体力回复&11207_hpBack&",
   "en": "Every &11207_hpMax& Max Vitality will &11207_hpBack& your Vitality Restoration",
-  "pt": "A cada &11207_hpMax& de Vitalidade Máx., a sua Recuperação de Vitalidade muda em &11207_hpBack&",
+  "pt": "A cada &11207_hpMax& de Vida Máx., a sua Recuperação de Vida muda em &11207_hpBack&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11208": {
@@ -830,7 +830,7 @@
  "prefixDescS11215": {
   "ch": "伤害&11215_one&%\n最大体力&11215_two&",
   "en": "Damage &11215_one&%\nMax Vitality &11215_two&",
-  "pt": "Dano &11215_one&%\nVitalidade Máx. &11215_two&",
+  "pt": "Dano &11215_one&%\nVida Máx. &11215_two&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11301": {
@@ -926,7 +926,7 @@
  "prefixDescS11316": {
   "ch": "移动速度&11316_hpSuck&\n体力回复&11316_hpRestore&",
   "en": "Agility &11316_hpSuck&\nVitality Restoration &11316_hpRestore&",
-  "pt": "Agilidade &11316_hpSuck&\nRecuperação de Vitalidade &11316_hpRestore&",
+  "pt": "Agilidade &11316_hpSuck&\nRecuperação de Vida &11316_hpRestore&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11317": {
@@ -950,7 +950,7 @@
  "prefixDescS11320": {
   "ch": "每关体力值首次降到&11320_hp&%以下时，获得&11320_wudiTIme&秒无敌\n同时向四周发出雷牢，麻痹命中的敌人&11320_conTime&秒",
   "en": "Become Invincible for &11320_wudiTIme&s when your Vitality drops below &11320_hp&% for the first time in every level.\nThis effect will also trigger a Thunder Shock and Paralyze affected enemies for &11320_conTime&s.",
-  "pt": "Fica Invencível por &11320_wudiTIme&s quando a sua Vitalidade cair abaixo de &11320_hp&% pela primeira vez em cada nível.\nEste efeito também aciona um Choque de Trovão e aplica Paralisia aos inimigos afetados por &11320_conTime&s.",
+  "pt": "Fica Invencível por &11320_wudiTIme&s quando a sua Vida cair abaixo de &11320_hp&% pela primeira vez em cada nível.\nEste efeito também aciona um Choque de Trovão e aplica Paralisia aos inimigos afetados por &11320_conTime&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11321": {
@@ -1022,7 +1022,7 @@
  "prefixDescS11409": {
   "ch": "最大体力&11409_hpMax&\n闪避&11409_evade&%",
   "en": "Max Vitality &11409_hpMax&\nDodge &11409_evade&%",
-  "pt": "Vitalidade Máx. &11409_hpMax&\nEsquiva &11409_evade&%",
+  "pt": "Vida Máx. &11409_hpMax&\nEsquiva &11409_evade&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11410": {
@@ -1064,13 +1064,13 @@
  "prefixDescS11416": {
   "ch": "体力回复&11416_hpMax&\n闪避&11416_evade&%",
   "en": "Vitality Restoration &11416_hpMax&\nDodge &11416_evade&%",
-  "pt": "Recuperação de Vitalidade &11416_hpMax&\nEsquiva &11416_evade&%",
+  "pt": "Recuperação de Vida &11416_hpMax&\nEsquiva &11416_evade&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11417": {
   "ch": "移动速度达到&11417_msp&后获得体力回复&11417_hpRestore&",
   "en": "Gain &11417_hpRestore& Vitality Restoration if your Agility reaches &11417_msp&",
-  "pt": "Ganha &11417_hpRestore& de Recuperação de Vitalidade se a sua Agilidade chegar a &11417_msp&",
+  "pt": "Ganha &11417_hpRestore& de Recuperação de Vida se a sua Agilidade chegar a &11417_msp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11418": {
@@ -1094,7 +1094,7 @@
  "prefixDescS11421": {
   "ch": "自身每闪避一次，可永久&11421_hpMax&最大体力值，每关最大&11421_hpMaxEnd&",
   "en": "Every successful Dodging will &11421_hpMax& your Max Vitality permanently, up to &11421_hpMaxEnd& every level",
-  "pt": "Cada Esquiva bem-sucedida altera a sua Vitalidade Máx. em &11421_hpMax& permanentemente, até &11421_hpMaxEnd& por nível",
+  "pt": "Cada Esquiva bem-sucedida altera a sua Vida Máx. em &11421_hpMax& permanentemente, até &11421_hpMaxEnd& por nível",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11422": {
@@ -1106,7 +1106,7 @@
  "prefixDescS11423": {
   "ch": "体力值降于&11423_hpLost&%以下时，获得短暂的移速增加，&11423_cdWind&秒可触发一次",
   "en": "Gain an Agility bonus in a short duration if your Vitality is below &11423_hpLost&%. Can be triggered once every &11423_cdWind&s",
-  "pt": "Ganha um bônus de Agilidade por pouco tempo se a sua Vitalidade estiver abaixo de &11423_hpLost&%. Pode ser ativado uma vez a cada &11423_cdWind&s",
+  "pt": "Ganha um bônus de Agilidade por pouco tempo se a sua Vida estiver abaixo de &11423_hpLost&%. Pode ser ativado uma vez a cada &11423_cdWind&s",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11424": {
@@ -1184,7 +1184,7 @@
  "prefixDescS11509": {
   "ch": "每秒掉&11509_one&%血量，召唤物伤害&11509_two&%，生命值低于&11509_three&%时失效",
   "en": "Lose &11509_one&% Vitality every second to gain &11509_two&% Bonus Summoned Unit Damage. Your Vitality will not be sacrificed if it is below &11509_three&%",
-  "pt": "Perde &11509_one&% de Vitalidade por segundo para ganhar &11509_two&% de Dano de bônus nas Unidades Invocadas. A sua Vitalidade não será sacrificada se estiver abaixo de &11509_three&%",
+  "pt": "Perde &11509_one&% de Vida por segundo para ganhar &11509_two&% de Dano de bônus nas Unidades Invocadas. A sua Vida não será sacrificada se estiver abaixo de &11509_three&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11510": {
@@ -1196,7 +1196,7 @@
  "prefixDescS11511": {
   "ch": "召唤物消失时，自身回复&11511_one&点体力",
   "en": "Gain &11511_one& Vitality Restoration upon the disappearance of your summoned units",
-  "pt": "Ganha &11511_one& de Recuperação de Vitalidade quando as suas unidades invocadas desaparecem",
+  "pt": "Ganha &11511_one& de Recuperação de Vida quando as suas unidades invocadas desaparecem",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11512": {
@@ -1226,13 +1226,13 @@
  "prefixDescS11604": {
   "ch": "每点木灵根可使最大体力&11604_hpMax&",
   "en": "Every Wood root will &11604_hpMax& your Max Vitality",
-  "pt": "Cada Raiz de Madeira altera a sua Vitalidade Máx. em &11604_hpMax&",
+  "pt": "Cada Raiz de Madeira altera a sua Vida Máx. em &11604_hpMax&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11605": {
   "ch": "每点体力回复可使小花妖的攻击速度&11605_flowerAgile&%",
   "en": "Every Vitality Restoration will &11605_flowerAgile&% Small Flower Faerie's Attack Speed",
-  "pt": "Cada ponto de Recuperação de Vitalidade altera a Velocidade de Ataque da Pequena Fada das Flores em &11605_flowerAgile&%",
+  "pt": "Cada ponto de Recuperação de Vida altera a Velocidade de Ataque da Pequena Fada das Flores em &11605_flowerAgile&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11606": {
@@ -1244,7 +1244,7 @@
  "prefixDescS11607": {
   "ch": "当带有毒刺的敌人死亡时，可为自身回复&11607_hpBack&点体力",
   "en": "Restore &11607_hpBack& Vitality every time an enemy with Poisonous Thorn dies",
-  "pt": "Recupera &11607_hpBack& de Vitalidade toda vez que um inimigo com Espinho Venenoso morre",
+  "pt": "Recupera &11607_hpBack& de Vida toda vez que um inimigo com Espinho Venenoso morre",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS11608": {
@@ -1304,7 +1304,7 @@
  "prefixDescS1201005": {
   "ch": "此技能的幻像消失时，可回复自身&1201_backHp&点体力",
   "en": "Gain &1201_backHp& Vitality recovery upon disappearing of the phantom",
-  "pt": "Ganha &1201_backHp& de recuperação de Vitalidade quando o fantasma desaparece",
+  "pt": "Ganha &1201_backHp& de recuperação de Vida quando o fantasma desaparece",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1201006": {
@@ -1388,7 +1388,7 @@
  "prefixDescS1203005": {
   "ch": "此技能威力&1203_dmg%5&\n吸取体力&1203_hpSum%1&",
   "en": "Skill Damage &1203_dmg%5&\nVitality Drawn &1203_hpSum%1&",
-  "pt": "Dano da Habilidade &1203_dmg%5&\nVitalidade Drenada &1203_hpSum%1&",
+  "pt": "Dano da Habilidade &1203_dmg%5&\nVida Drenada &1203_hpSum%1&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1203006": {
@@ -1400,7 +1400,7 @@
  "prefixDescS1203007": {
   "ch": "当受到伤害时，若体力低于&1203_sevenHp&%，则立即连续施放&1203_sevenSum&次此技能（无需蓄力，每场战斗最多触发1次）",
   "en": "If your Vitality drops below &1203_sevenHp&% after taking damage, the skill will be instantly cast &1203_sevenSum& times. The instant casts do not require charging, but the effect can be triggered only 1 time every battle.",
-  "pt": "Se a sua Vitalidade cair abaixo de &1203_sevenHp&% após sofrer dano, a habilidade será lançada instantaneamente &1203_sevenSum& vezes. Os lançamentos instantâneos não exigem carga, mas o efeito só pode ser ativado 1 vez por batalha.",
+  "pt": "Se a sua Vida cair abaixo de &1203_sevenHp&% após sofrer dano, a habilidade será lançada instantaneamente &1203_sevenSum& vezes. Os lançamentos instantâneos não exigem carga, mas o efeito só pode ser ativado 1 vez por batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1301001": {
@@ -1820,7 +1820,7 @@
  "prefixDescS1601007": {
   "ch": "当你受到致命伤害时，若场上有小花妖，则会牺牲&1601_sevenKillSum&只小花妖，使自身无敌&1601_sevenUnTime&秒并回复&1601_sevenBackHp&%体力，每场战斗只能使用一次",
   "en": "You may sacrifice &1601_sevenKillSum& Small Flower Faeries to block imminent fatal damage and be Invincible in the next &1601_sevenUnTime&s, and restore &1601_sevenBackHp&% Vitality. The effect can be triggered only once in every battle.",
-  "pt": "Você pode sacrificar &1601_sevenKillSum& Pequenas Fadas das Flores para bloquear um dano fatal iminente, ficar Invencível nos próximos &1601_sevenUnTime&s e recuperar &1601_sevenBackHp&% de Vitalidade. O efeito só pode ser ativado uma vez por batalha.",
+  "pt": "Você pode sacrificar &1601_sevenKillSum& Pequenas Fadas das Flores para bloquear um dano fatal iminente, ficar Invencível nos próximos &1601_sevenUnTime&s e recuperar &1601_sevenBackHp&% de Vida. O efeito só pode ser ativado uma vez por batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS1603001": {
@@ -2036,7 +2036,7 @@
  "prefixDescS30101": {
   "ch": "获得修为&30101_expUp&%\n最大体力&30101_luckDown&",
   "en": "EXP Gained &30101_expUp&%\nMax Vitality &30101_luckDown&",
-  "pt": "EXP Ganha &30101_expUp&%\nVitalidade Máx. &30101_luckDown&",
+  "pt": "EXP Ganha &30101_expUp&%\nVida Máx. &30101_luckDown&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30102": {
@@ -2060,7 +2060,7 @@
  "prefixDescS30105": {
   "ch": "幸运&30105_luckUp&\n最大体力&30105_mspDown&",
   "en": "Luck &30105_luckUp&\nMax Vitality &30105_mspDown&",
-  "pt": "Sorte &30105_luckUp&\nVitalidade Máx. &30105_mspDown&",
+  "pt": "Sorte &30105_luckUp&\nVida Máx. &30105_mspDown&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30106": {
@@ -2114,7 +2114,7 @@
  "prefixDescS30114": {
   "ch": "敌人技能威力&30114_enemyPowUp&%\n敌人最大体力&30114_enemyMaxhpFixDown&%",
   "en": "Enemy Skill Damage &30114_enemyPowUp&%\nEnemy Max Vitality &30114_enemyMaxhpFixDown&%",
-  "pt": "Dano da Habilidade do Inimigo &30114_enemyPowUp&%\nVitalidade Máx. do Inimigo &30114_enemyMaxhpFixDown&%",
+  "pt": "Dano da Habilidade do Inimigo &30114_enemyPowUp&%\nVida Máx. do Inimigo &30114_enemyMaxhpFixDown&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30115": {
@@ -2132,13 +2132,13 @@
  "prefixDescS30117": {
   "ch": "最大体力&30117_hpMaxUp&\n下一场战斗额外出现&30117_extraEliteEnemy&个精英怪",
   "en": "Max Vitality &30117_hpMaxUp&\nSpawn extra &30117_extraEliteEnemy& Elite enemies in the next battle",
-  "pt": "Vitalidade Máx. &30117_hpMaxUp&\nGera &30117_extraEliteEnemy& inimigos de Elite extras na próxima batalha",
+  "pt": "Vida Máx. &30117_hpMaxUp&\nGera &30117_extraEliteEnemy& inimigos de Elite extras na próxima batalha",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30118": {
   "ch": "获得50灵石\n下一场战斗以&30118_hpLeft&点体力开始战斗",
   "en": "Gain 50 Spirit Stones\nBegin the next battle with &30118_hpLeft& Vitality",
-  "pt": "Ganha 50 Pedras Espirituais\nComeça a próxima batalha com &30118_hpLeft& de Vitalidade",
+  "pt": "Ganha 50 Pedras Espirituais\nComeça a próxima batalha com &30118_hpLeft& de Vida",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30119": {
@@ -2162,7 +2162,7 @@
  "prefixDescS30122": {
   "ch": "体力&30122_hpMaxUp&",
   "en": "Vitality &30122_hpMaxUp&",
-  "pt": "Vitalidade &30122_hpMaxUp&",
+  "pt": "Vida &30122_hpMaxUp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30123": {
@@ -2384,73 +2384,73 @@
  "prefixDescS30159": {
   "ch": "体力&30159_hpMaxUp&\n伤害&30159_mspDonw&%",
   "en": "Vitality &30159_hpMaxUp&\nDamage &30159_mspDonw&%",
-  "pt": "Vitalidade &30159_hpMaxUp&\nDano &30159_mspDonw&%",
+  "pt": "Vida &30159_hpMaxUp&\nDano &30159_mspDonw&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30160": {
   "ch": "体力&30160_hpMaxUp&\n幸运&30160_luckDonw&",
   "en": "Vitality &30160_hpMaxUp&\nLuck &30160_luckDonw&",
-  "pt": "Vitalidade &30160_hpMaxUp&\nSorte &30160_luckDonw&",
+  "pt": "Vida &30160_hpMaxUp&\nSorte &30160_luckDonw&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30161": {
   "ch": "体力&30161_hpMaxUp&\n技能范围&30161_jnfwUp&",
   "en": "Vitality &30161_hpMaxUp&\nSkill Radius &30161_jnfwUp&",
-  "pt": "Vitalidade &30161_hpMaxUp&\nRaio da Habilidade &30161_jnfwUp&",
+  "pt": "Vida &30161_hpMaxUp&\nRaio da Habilidade &30161_jnfwUp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30162": {
   "ch": "体力&30162_hpMaxUp&\n幸运&30162_zhshDown&",
   "en": "Vitality &30162_hpMaxUp&\nLuck &30162_zhshDown&",
-  "pt": "Vitalidade &30162_hpMaxUp&\nSorte &30162_zhshDown&",
+  "pt": "Vida &30162_hpMaxUp&\nSorte &30162_zhshDown&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30163": {
   "ch": "体力&30163_hpMaxUp&",
   "en": "Vitality &30163_hpMaxUp&",
-  "pt": "Vitalidade &30163_hpMaxUp&",
+  "pt": "Vida &30163_hpMaxUp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30164": {
   "ch": "体力&30164_hpMaxUp&\n暴击概率&30164_pfrDown&%",
   "en": "Vitality &30164_hpMaxUp&\nCrit Chance &30164_pfrDown&%",
-  "pt": "Vitalidade &30164_hpMaxUp&\nChance Crítica &30164_pfrDown&%",
+  "pt": "Vida &30164_hpMaxUp&\nChance Crítica &30164_pfrDown&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30165": {
   "ch": "体力&30165_hpMaxUp&\n闪避&30165_evadeUp&%",
   "en": "Vitality &30165_hpMaxUp&\nDodge &30165_evadeUp&%",
-  "pt": "Vitalidade &30165_hpMaxUp&\nEsquiva &30165_evadeUp&%",
+  "pt": "Vida &30165_hpMaxUp&\nEsquiva &30165_evadeUp&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30166": {
   "ch": "体力&30166_hpMaxUp&\n技能持续时间&30166_jncxUp&%",
   "en": "Vitality &30166_hpMaxUp&\nSkill Duration &30166_jncxUp&%",
-  "pt": "Vitalidade &30166_hpMaxUp&\nDuração da Habilidade &30166_jncxUp&%",
+  "pt": "Vida &30166_hpMaxUp&\nDuração da Habilidade &30166_jncxUp&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30167": {
   "ch": "体力&30167_hpMaxUp&",
   "en": "Vitality &30167_hpMaxUp&",
-  "pt": "Vitalidade &30167_hpMaxUp&",
+  "pt": "Vida &30167_hpMaxUp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30168": {
   "ch": "体力&30168_hpMaxUp&\n闪避&30168_evadeDown&%",
   "en": "Vitality &30168_hpMaxUp&\nDodge &30168_evadeDown&%",
-  "pt": "Vitalidade &30168_hpMaxUp&\nEsquiva &30168_evadeDown&%",
+  "pt": "Vida &30168_hpMaxUp&\nEsquiva &30168_evadeDown&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30169": {
   "ch": "体力&30169_hpMaxUp&\n暴击倍率&30169_hpRestoreDown&%",
   "en": "Vitality &30169_hpMaxUp&\nCrit Rate &30169_hpRestoreDown&%",
-  "pt": "Vitalidade &30169_hpMaxUp&\nMultiplicador Crítico &30169_hpRestoreDown&%",
+  "pt": "Vida &30169_hpMaxUp&\nMultiplicador Crítico &30169_hpRestoreDown&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30170": {
   "ch": "体力&30170_hpMaxUp&\n攻击速度&30170_agileUp&%",
   "en": "Vitality &30170_hpMaxUp&\nAttack Speed &30170_agileUp&%",
-  "pt": "Vitalidade &30170_hpMaxUp&\nVelocidade de Ataque &30170_agileUp&%",
+  "pt": "Vida &30170_hpMaxUp&\nVelocidade de Ataque &30170_agileUp&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS30171": {
@@ -2468,7 +2468,7 @@
  "prefixDescS30173": {
   "ch": "对罐子一击必杀，拾取桃子时桃子的回复效果变成持续回复",
   "en": "You may break the pots with one strike. The Vitality recovery from the peach is now a healing over time effect.",
-  "pt": "Você pode quebrar os potes com um só golpe. A recuperação de Vitalidade do pêssego agora é uma cura ao longo do tempo.",
+  "pt": "Você pode quebrar os potes com um só golpe. A recuperação de Vida do pêssego agora é uma cura ao longo do tempo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS302001": {
@@ -2768,7 +2768,7 @@
  "prefixDescS400029": {
   "ch": "体力&400029_hpMaxUp&，体力恢复&400029_hpRestoreUp&，抗性&400029_pfrUp&。",
   "en": "Vitality &400029_hpMaxUp&, Vitality Recovery &400029_hpRestoreUp&, Resistance &400029_pfrUp&.",
-  "pt": "Vitalidade &400029_hpMaxUp&, Recuperação de Vitalidade &400029_hpRestoreUp&, Resistência &400029_pfrUp&.",
+  "pt": "Vida &400029_hpMaxUp&, Recuperação de Vida &400029_hpRestoreUp&, Resistência &400029_pfrUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400030": {
@@ -2792,13 +2792,13 @@
  "prefixDescS400033": {
   "ch": "体力&400033_hpMaxUp&，伤害加成&400033_powerUp&%。",
   "en": "Vitality &400033_hpMaxUp&, Damage Bonus &400033_powerUp&%.",
-  "pt": "Vitalidade &400033_hpMaxUp&, Bônus de Dano &400033_powerUp&%.",
+  "pt": "Vida &400033_hpMaxUp&, Bônus de Dano &400033_powerUp&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400034": {
   "ch": "体力&400034_hpMaxUp&，移速&400034_mspUp&。",
   "en": "Vitality &400034_hpMaxUp&, Agility &400034_mspUp&.",
-  "pt": "Vitalidade &400034_hpMaxUp&, Agilidade &400034_mspUp&.",
+  "pt": "Vida &400034_hpMaxUp&, Agilidade &400034_mspUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400035": {
@@ -2810,7 +2810,7 @@
  "prefixDescS400036": {
   "ch": "体力&400036_hpMaxUp&。",
   "en": "Vitality &400036_hpMaxUp&.",
-  "pt": "Vitalidade &400036_hpMaxUp&.",
+  "pt": "Vida &400036_hpMaxUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400037": {
@@ -2828,13 +2828,13 @@
  "prefixDescS400039": {
   "ch": "体力回复&400039_hpRestoreUp&，攻击速度&400039_agileUp&%。",
   "en": "Vitality Restoration &400039_hpRestoreUp&, Attack Speed &400039_agileUp&%.",
-  "pt": "Recuperação de Vitalidade &400039_hpRestoreUp&, Velocidade de Ataque &400039_agileUp&%.",
+  "pt": "Recuperação de Vida &400039_hpRestoreUp&, Velocidade de Ataque &400039_agileUp&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400040": {
   "ch": "体力回复&400040_hpRestoreUp&，暴击倍率&400040_critVUp&%。",
   "en": "Vitality Restoration &400040_hpRestoreUp&, Crit Rate &400040_critVUp&%.",
-  "pt": "Recuperação de Vitalidade &400040_hpRestoreUp&, Multiplicador Crítico &400040_critVUp&%.",
+  "pt": "Recuperação de Vida &400040_hpRestoreUp&, Multiplicador Crítico &400040_critVUp&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400041": {
@@ -2846,7 +2846,7 @@
  "prefixDescS400042": {
   "ch": "体力回复&400042_hpRestoreUp&。",
   "en": "Vitality Restoration &400042_hpRestoreUp&.",
-  "pt": "Recuperação de Vitalidade &400042_hpRestoreUp&.",
+  "pt": "Recuperação de Vida &400042_hpRestoreUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400043": {
@@ -2900,13 +2900,13 @@
  "prefixDescS400051": {
   "ch": "体力&400051_hpMaxUp&。",
   "en": "Vitality &400051_hpMaxUp&.",
-  "pt": "Vitalidade &400051_hpMaxUp&.",
+  "pt": "Vida &400051_hpMaxUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400052": {
   "ch": "体力回复&400052_hpRestoreUp&。",
   "en": "Vitality Restoration &400052_hpRestoreUp&.",
-  "pt": "Recuperação de Vitalidade &400052_hpRestoreUp&.",
+  "pt": "Recuperação de Vida &400052_hpRestoreUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400053": {
@@ -2954,7 +2954,7 @@
  "prefixDescS400060": {
   "ch": "体力&400060_hpMaxUp&，体力恢复&400060_hpRestoreUp&，抗性&400060_pfrUp&。",
   "en": "Vitality &400060_hpMaxUp&, Vitality Recovery &400060_hpRestoreUp&, Resistance &400060_pfrUp&.",
-  "pt": "Vitalidade &400060_hpMaxUp&, Recuperação de Vitalidade &400060_hpRestoreUp&, Resistência &400060_pfrUp&.",
+  "pt": "Vida &400060_hpMaxUp&, Recuperação de Vida &400060_hpRestoreUp&, Resistência &400060_pfrUp&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS400061": {
@@ -3146,7 +3146,7 @@
  "prefixDescS402005": {
   "ch": "当前每缺失&402_hpLost&%的体力，此技能威力&402_dmgUp&",
   "en": "&402_dmgUp& Skill Damage for every &402_hpLost&% current Vitality lost",
-  "pt": "&402_dmgUp& de Dano da Habilidade a cada &402_hpLost&% de Vitalidade atual perdida",
+  "pt": "&402_dmgUp& de Dano da Habilidade a cada &402_hpLost&% de Vida atual perdida",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS402006": {
@@ -3158,7 +3158,7 @@
  "prefixDescS402007": {
   "ch": "当体力大于&402_hpRequire&%时，可消耗&402_hpCost&%的最大体力，每消耗3点体力，伤害&402_hpToDmg&%",
   "en": "This skill may cost &402_hpCost&% Max Vitality if Vitality is above &402_hpRequire&%. The skill's damage will &402_hpToDmg&% for every 3 Vitality cost",
-  "pt": "Esta habilidade pode custar &402_hpCost&% da Vitalidade Máx. se a Vitalidade estiver acima de &402_hpRequire&%. O dano da habilidade irá &402_hpToDmg&% a cada 3 de Vitalidade gasta",
+  "pt": "Esta habilidade pode custar &402_hpCost&% da Vida Máx. se a Vida estiver acima de &402_hpRequire&%. O dano da habilidade irá &402_hpToDmg&% a cada 3 de Vida gasta",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS403001": {
@@ -3206,19 +3206,19 @@
  "prefixDescS410001": {
   "ch": "最大体力&410001_carrotHp&",
   "en": "Max Vitality &410001_carrotHp&",
-  "pt": "Vitalidade Máx. &410001_carrotHp&",
+  "pt": "Vida Máx. &410001_carrotHp&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS410002": {
   "ch": "每&410002_carrotRecoverCD&秒回复&410002_carrotRecoverHP&%体力",
   "en": "Restore &410002_carrotRecoverHP&% Vitality every &410002_carrotRecoverCD&s",
-  "pt": "Restaura &410002_carrotRecoverHP&% de Vitalidade a cada &410002_carrotRecoverCD&s",
+  "pt": "Restaura &410002_carrotRecoverHP&% de Vida a cada &410002_carrotRecoverCD&s",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS410003": {
   "ch": "体力回复&20102_hpRestoreDown&。进入战斗后，最大体力&20102_hpMaxUp&（当前体力不变），体型大小改为&20102_modelSizeUp|+100|f0&%",
   "en": "Vitality Restoration &20102_hpRestoreDown&. Max Vitality &20102_hpMaxUp& after entering battle (will not affect Current Vitality), character size &20102_modelSizeUp|+100|f0&%",
-  "pt": "Recuperação de Vitalidade &20102_hpRestoreDown&. Vitalidade Máx. &20102_hpMaxUp& ao entrar em batalha (não afeta a Vitalidade Atual), tamanho do personagem &20102_modelSizeUp|+100|f0&%",
+  "pt": "Recuperação de Vida &20102_hpRestoreDown&. Vida Máx. &20102_hpMaxUp& ao entrar em batalha (não afeta a Vida Atual), tamanho do personagem &20102_modelSizeUp|+100|f0&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS410004": {
@@ -3242,7 +3242,7 @@
  "prefixDescS410007": {
   "ch": "可解除灾厄，且下一场战斗中体力回复&410007_hpRestoreUp&，获得修为&410007_expUp&%。解除灾厄后会自行消散。",
   "en": "Resolves your misfortune and disappears after it, granting you &410007_hpRestoreUp& Vitality Restoration and &410007_expUp&% EXP Gained in your next battle.",
-  "pt": "Remove o seu infortúnio e desaparece depois dele, concedendo &410007_hpRestoreUp& de Recuperação de Vitalidade e &410007_expUp&% de EXP Ganha na sua próxima batalha.",
+  "pt": "Remove o seu infortúnio e desaparece depois dele, concedendo &410007_hpRestoreUp& de Recuperação de Vida e &410007_expUp&% de EXP Ganha na sua próxima batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "prefixDescS410008": {

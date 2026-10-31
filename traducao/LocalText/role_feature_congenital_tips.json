@@ -14,7 +14,7 @@
  "role_feature_congenital_tips1001": {
   "ch": "防御力+5，体力+130",
   "en": "DEF +5, Vitality +130",
-  "pt": "DEF +5, Vitalidade +130",
+  "pt": "DEF +5, Vida +130",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_tips1002": {
@@ -914,7 +914,7 @@
  "role_feature_congenital_tips2003": {
   "ch": "攻击力+8，悟性+10，幸运+10，体力上限+100，魅力+100",
   "en": "ATK +8, Insight +10, Luck +10, Max Vitality +100, Charisma +100",
-  "pt": "ATQ +8, Percepção +10, Sorte +10, Vitalidade Máx. +100, Carisma +100",
+  "pt": "ATQ +8, Percepção +10, Sorte +10, Vida Máx. +100, Carisma +100",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_tips2004": {
@@ -1202,7 +1202,7 @@
  "role_feature_congenital_tips2412": {
   "ch": "防御力+5，体力上限+100，幸运+10",
   "en": "DEF +5, Max Vitality +100, Luck +10",
-  "pt": "DEF +5, Vitalidade Máx. +100, Sorte +10",
+  "pt": "DEF +5, Vida Máx. +100, Sorte +10",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_tips2413": {
@@ -1226,7 +1226,7 @@
  "role_feature_congenital_tips2416": {
   "ch": "体力上限+80，精力上限+10，念力上限+50",
   "en": "Max Vitality +80, Max Stamina +10, Max Focus +50",
-  "pt": "Vitalidade Máx. +80, Vigor Máx. +10, Foco Máx. +50",
+  "pt": "Vida Máx. +80, Vigor Máx. +10, Foco Máx. +50",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_tips2417": {
@@ -1256,13 +1256,13 @@
  "role_feature_congenital_tips2421": {
   "ch": "攻击力+10，防御力-3，体力上限+100",
   "en": "ATK +10, DEF -3, Max Vitality +100",
-  "pt": "ATQ +10, DEF -3, Vitalidade Máx. +100",
+  "pt": "ATQ +10, DEF -3, Vida Máx. +100",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_tips2422": {
   "ch": "魅力-300，攻击力+10，幸运+10，体力上限+50",
   "en": "Charisma -300, ATK +10, Luck +10, Max Vitality +50",
-  "pt": "Carisma -300, ATQ +10, Sorte +10, Vitalidade Máx. +50",
+  "pt": "Carisma -300, ATQ +10, Sorte +10, Vida Máx. +50",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_congenital_tips2423": {

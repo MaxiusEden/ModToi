@@ -338,7 +338,7 @@
  "skill_attack_desc110036": {
   "ch": "飞吻命中敌人以后，敌人会受到迷惑帮助壶妖攻击其他敌人，同时壶妖会持续吸取该敌人的体力。",
   "en": "Sends an air kiss to the enemy. Enemy hit by the kiss will be confused and will assist the Imp to attack its enemies. Meanwhile, the Imp will continuously absorb the confused enemy's Vitality.",
-  "pt": "Envia um beijo no ar ao inimigo. O inimigo atingido pelo beijo fica confuso e ajuda o Diabrete a atacar seus inimigos. Enquanto isso, o Diabrete absorve continuamente a Vitalidade do inimigo confuso.",
+  "pt": "Envia um beijo no ar ao inimigo. O inimigo atingido pelo beijo fica confuso e ajuda o Diabrete a atacar seus inimigos. Enquanto isso, o Diabrete absorve continuamente a Vida do inimigo confuso.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc110041": {
@@ -734,19 +734,19 @@
  "skill_attack_desc12111": {
   "ch": "向前方挥出一道刀光，对前方范围&12111_range&以内的敌人造成威力&12111_dmg&的$s_dao$伤害。\n装备此技能后，可吸血&12113_xxbl&%。",
   "en": "Release a blade aura forward (range: &12111_range&), dealing &12111_dmg& $s_dao$ damage.\nEquip this skill to convert &12113_xxbl&% of damage done into your Vitality.",
-  "pt": "Libere uma aura de lâmina à frente (alcance: &12111_range&), causando &12111_dmg& de dano de $s_dao$.\nEquipe esta habilidade para converter &12113_xxbl&% do dano causado em Vitalidade sua.",
+  "pt": "Libere uma aura de lâmina à frente (alcance: &12111_range&), causando &12111_dmg& de dano de $s_dao$.\nEquipe esta habilidade para converter &12113_xxbl&% do dano causado em Vida sua.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc12112": {
   "ch": "向前方发射&12112_ddsl&道射程&12112_range&的刀痕，对敌人造成威力&12112_dmg&的$s_dao$伤害。\n装备此技能后，可吸血&12113_xxbl&%。",
   "en": "Release &12112_ddsl& Blade Marks forward (range: &12112_range&), dealing &12112_dmg& $s_dao$ damage.\nEquip this skill to convert &12113_xxbl&% of damage done into your Vitality.",
-  "pt": "Libere &12112_ddsl& Marcas de Lâmina à frente (alcance: &12112_range&), causando &12112_dmg& de dano de $s_dao$.\nEquipe esta habilidade para converter &12113_xxbl&% do dano causado em Vitalidade sua.",
+  "pt": "Libere &12112_ddsl& Marcas de Lâmina à frente (alcance: &12112_range&), causando &12112_dmg& de dano de $s_dao$.\nEquipe esta habilidade para converter &12113_xxbl&% do dano causado em Vida sua.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc12113": {
   "ch": "向四周挥出一道围绕自身的刀光，对范围&12113_range&以内的敌人造成威力&12113_dmg&的$s_dao$伤害。\n装备此技能后，可吸血&12113_xxbl&%。",
   "en": "Generate a blade aura that surrounds yourself to attack enemies within &12113_range&, dealing &12113_dmg& $s_dao$ damage.\nEquip this skill to convert &12113_xxbl&% of damage done into your Vitality.",
-  "pt": "Gere uma aura de lâmina que o envolve para atacar os inimigos a até &12113_range&, causando &12113_dmg& de dano de $s_dao$.\nEquipe esta habilidade para converter &12113_xxbl&% do dano causado em Vitalidade sua.",
+  "pt": "Gere uma aura de lâmina que o envolve para atacar os inimigos a até &12113_range&, causando &12113_dmg& de dano de $s_dao$.\nEquipe esta habilidade para converter &12113_xxbl&% do dano causado em Vida sua.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc13111": {
@@ -1064,7 +1064,7 @@
  "skill_attack_desc214166": {
   "ch": "酸与释放出自己的一枚邪眼，会将周围敌人向邪眼牵引，同时吸取受影响的敌人的体力治疗玩家，一定时间后，邪眼会发生爆炸，对全场造成伤害。",
   "en": "Suanyu releases an evil eyeball into the battlefield. Nearby enemies will be drawn toward the eyeball, and it will absorb the Vitality of the affected enemies to heal the player. After a while, the eyeball will explode, dealing damage to all enemies on the battlefield.",
-  "pt": "Suanyu solta um globo ocular maligno no campo de batalha. Os inimigos próximos são atraídos para o globo, que absorve a Vitalidade dos inimigos afetados para curar o jogador. Depois de um tempo, o globo explode, causando dano a todos os inimigos no campo de batalha.",
+  "pt": "Suanyu solta um globo ocular maligno no campo de batalha. Os inimigos próximos são atraídos para o globo, que absorve a Vida dos inimigos afetados para curar o jogador. Depois de um tempo, o globo explode, causando dano a todos os inimigos no campo de batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc22111": {
@@ -1532,7 +1532,7 @@
  "skill_attack_desc32111": {
   "ch": "当自身的体力低于&32111_conditionValue&%时可施展此神通。召唤刀魔附体，提升自身的伤害&32111_tsgj&%，并使自身受到的伤害&32111_tsfy&%，继承刀魔的武技$s_mieshenzhan$与绝技$s_morenzhan$，持续&32111_bssj&秒。",
   "en": "You can cast this Ultimate Skill when your Vitality is below &32111_conditionValue&%: Trigger Blade Possession, allowing you to deal &32111_tsgj&% more damage and receive &32111_tsfy&% damage. You'll also be able to cast $s_mieshenzhan$ and $s_morenzhan$ for &32111_bssj&s.",
-  "pt": "Você pode usar esta Técnica Suprema quando sua Vitalidade estiver abaixo de &32111_conditionValue&%: ativa a Possessão da Lâmina, fazendo você causar &32111_tsgj&% a mais de dano e receber &32111_tsfy&% de dano. Você também poderá usar $s_mieshenzhan$ e $s_morenzhan$ por &32111_bssj&s.",
+  "pt": "Você pode usar esta Técnica Suprema quando sua Vida estiver abaixo de &32111_conditionValue&%: ativa a Possessão da Lâmina, fazendo você causar &32111_tsgj&% a mais de dano e receber &32111_tsfy&% de dano. Você também poderá usar $s_mieshenzhan$ e $s_morenzhan$ por &32111_bssj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc321111": {
@@ -1586,7 +1586,7 @@
  "skill_attack_desc35112": {
   "ch": "自身每受到一次伤害时，可获得一层$s_feixue$，当$s_feixue$达到&35112_conditionValue&层时可施展此神通。消耗所有$s_feixue$，在范围&35112_range&快速打出巨王拳，每道巨王拳可造成威力为&35112_dmg&的$s_quan$伤害，并回复体力&35112_tlhf&点/秒，持续&35112_cxsj&秒。",
   "en": "You'll receive a stack of $s_feixue$ every time you receive damage. You can cast this Ultimate Skill when you have &35112_conditionValue& stacks of $s_feixue$: Consume all stacks of $s_feixue$ to unleash Titan Fist multiple times, attacking enemies within &35112_range&. Each Titan Fist deals &35112_dmg& $s_quan$ damage to the target and restores your Vitality by &35112_tlhf& every second for &35112_cxsj&s.",
-  "pt": "Você recebe um acúmulo de $s_feixue$ toda vez que sofrer dano. Você pode usar esta Técnica Suprema quando tiver &35112_conditionValue& acúmulos de $s_feixue$: consome todos os acúmulos de $s_feixue$ para liberar o Punho de Titã várias vezes, atacando os inimigos a até &35112_range&. Cada Punho de Titã causa &35112_dmg& de dano de $s_quan$ ao alvo e restaura &35112_tlhf& da sua Vitalidade por segundo durante &35112_cxsj&s.",
+  "pt": "Você recebe um acúmulo de $s_feixue$ toda vez que sofrer dano. Você pode usar esta Técnica Suprema quando tiver &35112_conditionValue& acúmulos de $s_feixue$: consome todos os acúmulos de $s_feixue$ para liberar o Punho de Titã várias vezes, atacando os inimigos a até &35112_range&. Cada Punho de Titã causa &35112_dmg& de dano de $s_quan$ ao alvo e restaura &35112_tlhf& da sua Vida por segundo durante &35112_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc36111": {
@@ -1994,7 +1994,7 @@
  "skill_attack_desc63112": {
   "ch": "装备带有$s_leiji$的$s_lei$绝技有引发$s_leiji$的能力。每次引发$s_leiji$时，可获得一层$s_leifa$，当$s_leifa$达到&63112_conditionValue&层时可施展此神通。在目标位置召唤一个雷罚之石，雷罚神石将持续打击范围&63112_lffw&内的&63112_lfmb&个体力最少的敌人，对目标造成威力&63112_dmg&/秒的$s_lei$伤害，雷罚之石持续&63112_lfsj&秒。",
   "en": "When you're equipped with a $s_lei$ Special Skill with $s_leiji$ effect, you'll have the ability to trigger $s_leiji$s. Every time you trigger a $s_leiji$, you'll receive a stack of $s_leifa$. You can cast this Ultimate Skill when you have &63112_conditionValue& stacks of $s_leifa$: Summon a Lightning Punishment Stone to continuously attack the &63112_lfmb& enemies with the lowest Vitality within &63112_lffw&, dealing &63112_dmg&/s $s_lei$ damage. The Lightning Punishment Stone exists for &63112_lfsj&s.",
-  "pt": "Quando você está equipado com uma Técnica Especial de $s_lei$ com efeito de $s_leiji$, você ganha a capacidade de ativar $s_leiji$s. Toda vez que ativar um $s_leiji$, recebe um acúmulo de $s_leifa$. Você pode usar esta Técnica Suprema quando tiver &63112_conditionValue& acúmulos de $s_leifa$: invoca uma Pedra da Punição do Relâmpago para atacar continuamente os &63112_lfmb& inimigos com menos Vitalidade a até &63112_lffw&, causando &63112_dmg&/s de dano de $s_lei$. A Pedra da Punição do Relâmpago existe por &63112_lfsj&s.",
+  "pt": "Quando você está equipado com uma Técnica Especial de $s_lei$ com efeito de $s_leiji$, você ganha a capacidade de ativar $s_leiji$s. Toda vez que ativar um $s_leiji$, recebe um acúmulo de $s_leifa$. Você pode usar esta Técnica Suprema quando tiver &63112_conditionValue& acúmulos de $s_leifa$: invoca uma Pedra da Punição do Relâmpago para atacar continuamente os &63112_lfmb& inimigos com menos Vida a até &63112_lffw&, causando &63112_dmg&/s de dano de $s_lei$. A Pedra da Punição do Relâmpago existe por &63112_lfsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc64111": {
@@ -2360,7 +2360,7 @@
  "skill_attack_desc7285": {
   "ch": "以自身气血凝聚大量火灵。",
   "en": "Condense a lot of Fire Spirits with its vitality.",
-  "pt": "Condensa muitos Espíritos do Fogo com sua vitalidade.",
+  "pt": "Condensa muitos Espíritos do Fogo com sua vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc7301": {
@@ -2402,7 +2402,7 @@
  "skill_attack_desc7316": {
   "ch": "旱魃凝练火灵气，放出大量火元攻击敌人，火元给敌人造成伤害后可以汲取敌人的体力治疗旱魃。",
   "en": "The Drought Demon launches many fiery essences with Fire Qi toward the enemy. The fiery essences could draw Vitality from the enemy inflicted to heal the Drought Demon.",
-  "pt": "O Demônio da Seca lança contra o inimigo muitas essências flamejantes com Qi de Fogo. As essências flamejantes podem sugar Vitalidade do inimigo atingido para curar o Demônio da Seca.",
+  "pt": "O Demônio da Seca lança contra o inimigo muitas essências flamejantes com Qi de Fogo. As essências flamejantes podem sugar Vida do inimigo atingido para curar o Demônio da Seca.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc7317": {
@@ -2997,7 +2997,7 @@
  "skill_attack_desc7613": {
   "ch": "凝聚自身气血引动周身发生爆炸",
   "en": "Condenses its vitality and triggers an explosion around it.",
-  "pt": "Condensa sua vitalidade e provoca uma explosão ao seu redor.",
+  "pt": "Condensa sua vida e provoca uma explosão ao seu redor.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc7614": {
@@ -3081,7 +3081,7 @@
  "skill_attack_desc768366": {
   "ch": "酸与释放出自己的一枚邪眼，会将周围敌人向邪眼牵引，同时吸取受影响的敌人的体力治疗玩家，一定时间后，邪眼会发生爆炸，对全场造成伤害。",
   "en": "Suanyu releases an evil eyeball into the battlefield. Nearby enemies will be drawn toward the eyeball, and it will absorb the Vitality of the affected enemies to heal the player. After a while, the eyeball will explode, dealing damage to all enemies on the battlefield.",
-  "pt": "Suanyu solta um globo ocular maligno no campo de batalha. Os inimigos próximos são atraídos para o globo, que absorve a Vitalidade dos inimigos afetados para curar o jogador. Depois de um tempo, o globo explode, causando dano a todos os inimigos no campo de batalha.",
+  "pt": "Suanyu solta um globo ocular maligno no campo de batalha. Os inimigos próximos são atraídos para o globo, que absorve a Vida dos inimigos afetados para curar o jogador. Depois de um tempo, o globo explode, causando dano a todos os inimigos no campo de batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc7684": {
@@ -3297,7 +3297,7 @@
  "skill_attack_desc7924": {
   "ch": "受伤越重，体内的凶性就越强。",
   "en": "Increases its power as its Vitality decreases.",
-  "pt": "Aumenta seu poder à medida que sua Vitalidade diminui.",
+  "pt": "Aumenta seu poder à medida que sua Vida diminui.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc7931": {
@@ -3381,13 +3381,13 @@
  "skill_attack_desc7943": {
   "ch": "体力不支时会发动狂暴，部分技能获得极大强化。",
   "en": "Goes berserk and gains considerable enhancement on certain skills if its Vitality is too low.",
-  "pt": "Enfurece-se e ganha fortalecimento considerável em certas habilidades se sua Vitalidade estiver muito baixa.",
+  "pt": "Enfurece-se e ganha fortalecimento considerável em certas habilidades se sua Vida estiver muito baixa.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc79431": {
   "ch": "体力不支时会发动狂暴，部分技能获得极大强化。",
   "en": "Goes berserk and gains considerable enhancement on certain skills if its Vitality is too low.",
-  "pt": "Enfurece-se e ganha fortalecimento considerável em certas habilidades se sua Vitalidade estiver muito baixa.",
+  "pt": "Enfurece-se e ganha fortalecimento considerável em certas habilidades se sua Vida estiver muito baixa.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc7951": {
@@ -3465,7 +3465,7 @@
  "skill_attack_desc800105": {
   "ch": "每10秒回复全体友方10%的最大体力。",
   "en": "Recover 10% Max Vitality for all allied units every 10s.",
-  "pt": "Recupera 10% da Vitalidade Máx. de todas as unidades aliadas a cada 10s.",
+  "pt": "Recupera 10% da Vida Máx. de todas as unidades aliadas a cada 10s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc800106": {
@@ -3525,7 +3525,7 @@
  "skill_attack_desc8044": {
   "ch": "暂时控制石柱并召唤至战场，引导后释放出其中部分的力量，泯灭全场敌人。引导期间石柱被攻击到一定次数则会脱离梼杌的控制。梼杌的生命力越强，被封印吸收的力量就越多。",
   "en": "Temporarily gains control of the stone pillar and summons it into the battlefield. After channeling, some of its power will be released to annihilate all enemies on the battlefield. If the pillar is attacked for certain times during channeling, Taowu will lose control of it. The power commanded by the seal will increase as Taowu's vitality raises.",
-  "pt": "Ganha temporariamente o controle do pilar de pedra e o invoca para o campo de batalha. Após a canalização, parte de seu poder é liberada para aniquilar todos os inimigos no campo de batalha. Se o pilar for atacado certo número de vezes durante a canalização, Taowu perde o controle dele. O poder comandado pelo selo aumenta conforme a vitalidade de Taowu se eleva.",
+  "pt": "Ganha temporariamente o controle do pilar de pedra e o invoca para o campo de batalha. Após a canalização, parte de seu poder é liberada para aniquilar todos os inimigos no campo de batalha. Se o pilar for atacado certo número de vezes durante a canalização, Taowu perde o controle dele. O poder comandado pelo selo aumenta conforme a vida de Taowu se eleva.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc8051": {
@@ -3681,13 +3681,13 @@
  "skill_attack_desc81522": {
   "ch": "以自身气血创造大山之灵，大山之灵受伤则后土受伤。",
   "en": "Creates the Spirit of Mountains with her vitality. Damage done to the Spirit will be conducted to Houtu.",
-  "pt": "Cria o Espírito das Montanhas com sua vitalidade. O dano causado ao Espírito é transferido para Houtu.",
+  "pt": "Cria o Espírito das Montanhas com sua vida. O dano causado ao Espírito é transferido para Houtu.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc8153": {
   "ch": "召唤大量土元素，修复后土的气血。",
   "en": "Summons a lot of earth elements to gain vitality recovery.",
-  "pt": "Invoca muitos elementos da terra para ganhar recuperação de vitalidade.",
+  "pt": "Invoca muitos elementos da terra para ganhar recuperação de vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc8161": {
@@ -3801,7 +3801,7 @@
  "skill_attack_desc8261": {
   "ch": "气血越低，实力越强。",
   "en": "It will grow more powerful as its Vitality decreases.",
-  "pt": "Fica mais poderoso à medida que sua Vitalidade diminui.",
+  "pt": "Fica mais poderoso à medida que sua Vida diminui.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_attack_desc8262": {

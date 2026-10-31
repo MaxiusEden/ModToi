@@ -8,7 +8,7 @@
  "spriteTalentDesc100102": {
   "ch": "习得被动技能“{#sprite_race_1_passive_1}”。场上有单位使用技能消耗灵力时，可以为此器灵所融合的法宝回复&95011_nxsh|x0.01|f2&倍的体力。",
   "en": "Learned \"{#sprite_race_1_passive_1}.\" Every time a unit consumes Energy to cast a skill, the Artifact combined with this Artifact Spirit will recover &95011_nxsh|x0.01|f2&x Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100103": {
@@ -80,7 +80,7 @@
  "spriteTalentDesc100114": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100115": {
@@ -152,7 +152,7 @@
  "spriteTalentDesc100126": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100127": {
@@ -224,7 +224,7 @@
  "spriteTalentDesc100138": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100139": {
@@ -236,7 +236,7 @@
  "spriteTalentDesc100140": {
   "ch": "所融合法宝的体力上限提升12%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +12%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +12%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +12%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100141": {
@@ -296,7 +296,7 @@
  "spriteTalentDesc100150": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100151": {
@@ -314,7 +314,7 @@
  "spriteTalentDesc100153": {
   "ch": "{#sprite_race_1_passive_1}回复效果额外提升&95011_nxsh%1+1|x0.01|f2&倍。",
   "en": "{#sprite_race_1_passive_1} additionally recovers &95011_nxsh%1+1|x0.01|f2&x Vitality.",
-  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%1+1|x0.01|f2&x de Vitalidade.",
+  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%1+1|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100201": {
@@ -368,7 +368,7 @@
  "spriteTalentDesc100209": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100210": {
@@ -398,7 +398,7 @@
  "spriteTalentDesc100214": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100215": {
@@ -416,7 +416,7 @@
  "spriteTalentDesc100217": {
   "ch": "装备了此器灵所融合的法宝时，每&91061_sjjg&秒为场上移速低于&91061_yqys&的友方单位叠加&91061_hdhd&点护盾。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every &91061_sjjg&s, allies with lower than &91061_yqys& Agility will receive &91061_hdhd& Shield Vitality.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_sjjg&s, os aliados com Agilidade abaixo de &91061_yqys& recebem &91061_hdhd& de Vitalidade do Escudo.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_sjjg&s, os aliados com Agilidade abaixo de &91061_yqys& recebem &91061_hdhd& de Vida do Escudo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100218": {
@@ -440,7 +440,7 @@
  "spriteTalentDesc100221": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每造成&91061_hdcs&次伤害，可叠加&91061_djhd&%的护盾值。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, for every &91061_hdcs& times you deal damage, you'll receive &91061_djhd&% Shield Vitality.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_hdcs& vezes que você causar dano, recebe &91061_djhd&% de Vitalidade do Escudo.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_hdcs& vezes que você causar dano, recebe &91061_djhd&% de Vida do Escudo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100222": {
@@ -470,7 +470,7 @@
  "spriteTalentDesc100226": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100227": {
@@ -494,7 +494,7 @@
  "spriteTalentDesc100230": {
   "ch": "使用{#skill_name_middle91063}所需要的护盾比例&91061_hdbl+1&%。",
   "en": "The required Shield Vitality percentage for casting {#skill_name_middle91063} &91061_hdbl+1&%",
-  "pt": "A porcentagem de Vitalidade do Escudo exigida para usar {#skill_name_middle91063} &91061_hdbl+1&%",
+  "pt": "A porcentagem de Vida do Escudo exigida para usar {#skill_name_middle91063} &91061_hdbl+1&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100231": {
@@ -512,7 +512,7 @@
  "spriteTalentDesc100233": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每造成&91061_hdcs&次伤害，可叠加&91061_djhd|+91061_djhd%1+1|f0&%的护盾值。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, for every &91061_hdcs& times you deal damage, you'll receive &91061_djhd|+91061_djhd%1+1|f0&% Shield Vitality. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_hdcs& vezes que você causar dano, recebe &91061_djhd|+91061_djhd%1+1|f0&% de Vitalidade do Escudo. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_hdcs& vezes que você causar dano, recebe &91061_djhd|+91061_djhd%1+1|f0&% de Vida do Escudo. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100234": {
@@ -542,7 +542,7 @@
  "spriteTalentDesc100238": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100239": {
@@ -560,7 +560,7 @@
  "spriteTalentDesc100241": {
   "ch": "装备了此器灵所融合的法宝时，每&91061_sjjg|+91061_sjjg%1+1|f2&秒为场上移速低于&91061_yqys&的友方单位叠加&91061_hdhd&点护盾。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every &91061_sjjg|+91061_sjjg%1+1|f2&s, allies with lower than &91061_yqys& Agility will receive &91061_hdhd& Shield Vitality. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_sjjg|+91061_sjjg%1+1|f2&s, os aliados com Agilidade abaixo de &91061_yqys& recebem &91061_hdhd& de Vitalidade do Escudo. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_sjjg|+91061_sjjg%1+1|f2&s, os aliados com Agilidade abaixo de &91061_yqys& recebem &91061_hdhd& de Vida do Escudo. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100242": {
@@ -572,7 +572,7 @@
  "spriteTalentDesc100243": {
   "ch": "{#skill_name_middle91061}转化的护盾提升&91061_shbl+1&%。",
   "en": "{#skill_name_middle91061} converts &91061_shbl+1&% more damage done into the Vitality of your shield.",
-  "pt": "{#skill_name_middle91061} converte &91061_shbl+1&% a mais do dano causado em Vitalidade do seu escudo.",
+  "pt": "{#skill_name_middle91061} converte &91061_shbl+1&% a mais do dano causado em Vida do seu escudo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100244": {
@@ -584,7 +584,7 @@
  "spriteTalentDesc100245": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每造成&91061_hdcs&次伤害，可叠加&91061_djhd|+91061_djhd%1+1|+91061_djhd%2+1|f0&%的护盾值。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, for every &91061_hdcs& times you deal damage, you'll receive &91061_djhd|+91061_djhd%1+1|+91061_djhd%2+1|f0&% Shield Vitality. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_hdcs& vezes que você causar dano, recebe &91061_djhd|+91061_djhd%1+1|+91061_djhd%2+1|f0&% de Vitalidade do Escudo. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_hdcs& vezes que você causar dano, recebe &91061_djhd|+91061_djhd%1+1|+91061_djhd%2+1|f0&% de Vida do Escudo. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100246": {
@@ -614,7 +614,7 @@
  "spriteTalentDesc100250": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100251": {
@@ -632,7 +632,7 @@
  "spriteTalentDesc100253": {
   "ch": "装备了此器灵所融合的法宝时，每&91061_sjjg|+91061_sjjg%1+1|+91061_sjjg%2+1|f2&秒为场上移速低于&91061_yqys&的友方单位叠加&91061_hdhd&点护盾。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every &91061_sjjg|+91061_sjjg%1+1|+91061_sjjg%2+1|f2&s, allies with lower than &91061_yqys& Agility will receive &91061_hdhd& Shield Vitality. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_sjjg|+91061_sjjg%1+1|+91061_sjjg%2+1|f2&s, os aliados com Agilidade abaixo de &91061_yqys& recebem &91061_hdhd& de Vitalidade do Escudo. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a cada &91061_sjjg|+91061_sjjg%1+1|+91061_sjjg%2+1|f2&s, os aliados com Agilidade abaixo de &91061_yqys& recebem &91061_hdhd& de Vida do Escudo. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100301": {
@@ -716,7 +716,7 @@
  "spriteTalentDesc100314": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100315": {
@@ -746,7 +746,7 @@
  "spriteTalentDesc100319": {
   "ch": "习得被动技能“{#sprite_race_4_passive_2}”。场上有敌人受到暴击时，此器灵所融合的法宝可回复&95021_bjtl&点体力。",
   "en": "Learned \"{#sprite_race_4_passive_2}.\" Every time an enemy receives a critical strike, the Artifact combined with this Artifact Spirit will recover &95021_bjtl& Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100320": {
@@ -788,7 +788,7 @@
  "spriteTalentDesc100326": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100327": {
@@ -806,7 +806,7 @@
  "spriteTalentDesc100329": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每次回复体力将提升&91021_hfbj&%暴击率， 最多提升&91021_hbsx|x91021_hfbj|x0.01|f0&%。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you recover Vitality, your Crit Rate will increase by &91021_hfbj&% (up to &91021_hbsx|x91021_hfbj|x0.01|f0&%).",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Vitalidade, sua Chance Crítica aumenta em &91021_hfbj&% (até &91021_hbsx|x91021_hfbj|x0.01|f0&%).",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Vida, sua Chance Crítica aumenta em &91021_hfbj&% (até &91021_hbsx|x91021_hfbj|x0.01|f0&%).",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100330": {
@@ -860,7 +860,7 @@
  "spriteTalentDesc100338": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100339": {
@@ -878,7 +878,7 @@
  "spriteTalentDesc100341": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每次回复体力将提升&91021_hfbj&%暴击率， 最多提升&91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you recover Vitality, your Crit Rate will increase by &91021_hfbj&% (up to &91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%). The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Vitalidade, sua Chance Crítica aumenta em &91021_hfbj&% (até &91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%). O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Vida, sua Chance Crítica aumenta em &91021_hfbj&% (até &91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%). O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100342": {
@@ -890,13 +890,13 @@
  "spriteTalentDesc100343": {
   "ch": "{#sprite_race_4_passive_2}回复的体力额外提升&95021_bjtl%1+1&点。",
   "en": "{#sprite_race_4_passive_2} recovers &95021_bjtl%1+1& more Vitality.",
-  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%1+1& a mais de Vitalidade.",
+  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%1+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100344": {
   "ch": "所融合法宝的体力上限提升14%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +14%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +14%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +14%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100345": {
@@ -932,7 +932,7 @@
  "spriteTalentDesc100350": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100351": {
@@ -950,13 +950,13 @@
  "spriteTalentDesc100353": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每次回复体力将提升&91021_hfbj&%暴击率， 最多提升&91021_hbsx%2+1|+91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you recover Vitality, your Crit Rate will increase by &91021_hfbj&% (up to &91021_hbsx%2+1|+91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%). The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Vitalidade, sua Chance Crítica aumenta em &91021_hfbj&% (até &91021_hbsx%2+1|+91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%). O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Vida, sua Chance Crítica aumenta em &91021_hfbj&% (até &91021_hbsx%2+1|+91021_hbsx%1+1|+91021_hbsx|x91021_hfbj|x0.01|f0&%). O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100401": {
   "ch": "习得被动技能“{#sprite_race_2_passive_1}”。此器灵所融合的法宝每秒回复&95051_hftl&%的体力。",
   "en": "Learned \"{#sprite_race_2_passive_1}.\" The Artifact combined with Artifact Spirit recovers &95051_hftl&% Vitality every second.",
-  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vitalidade por segundo.",
+  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vida por segundo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100402": {
@@ -980,19 +980,19 @@
  "spriteTalentDesc100405": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者在战斗中回复灵力，将同时回复&91031_bhbl|x0.01|f2&倍的体力。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you recover Energy, you'll also recover &91031_bhbl|x0.01|f2&x Vitality.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Energia, também recupera &91031_bhbl|x0.01|f2&x de Vitalidade.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Energia, também recupera &91031_bhbl|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100406": {
   "ch": "{#skill_name_middle91033}受到伤害时回复的体力额外提升&91031_shtl+1&%。",
   "en": "{#skill_name_middle91033} recovers &91031_shtl+1&% more Vitality when this Artifact Spirit or you receive damage.",
-  "pt": "{#skill_name_middle91033} recupera &91031_shtl+1&% a mais de Vitalidade quando este Espírito do Artefato ou você receber dano.",
+  "pt": "{#skill_name_middle91033} recupera &91031_shtl+1&% a mais de Vida quando este Espírito do Artefato ou você receber dano.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100407": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100408": {
@@ -1004,7 +1004,7 @@
  "spriteTalentDesc100409": {
   "ch": "{#sprite_race_2_passive_1}的效果额外回复体力&95051_hftl%1+1&%。",
   "en": "{#sprite_race_2_passive_1} recovers &95051_hftl%1+1&% more Vitality.",
-  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%1+1&% a mais de Vitalidade.",
+  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%1+1&% a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100410": {
@@ -1034,7 +1034,7 @@
  "spriteTalentDesc100414": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100415": {
@@ -1058,7 +1058,7 @@
  "spriteTalentDesc100418": {
   "ch": "使用{#skill_name_middle91033}所需要的当前体力提升&91031_zstl+1&%。",
   "en": "The requirement for casting {#skill_name_middle91033} is lowered (requires &91031_zstl+1&% less Vitality drop).",
-  "pt": "O requisito para usar {#skill_name_middle91033} foi reduzido (exige &91031_zstl+1&% a menos de queda de Vitalidade).",
+  "pt": "O requisito para usar {#skill_name_middle91033} foi reduzido (exige &91031_zstl+1&% a menos de queda de Vida).",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100419": {
@@ -1106,13 +1106,13 @@
  "spriteTalentDesc100426": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100427": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者在战斗中回复灵力，将同时回复&91031_bhbl|+91031_bhbl%1+1|x0.01|f2&倍的体力。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you recover Energy, you'll also recover &91031_bhbl|+91031_bhbl%1+1|x0.01|f2&x Vitality. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Energia, também recupera &91031_bhbl|+91031_bhbl%1+1|x0.01|f2&x de Vitalidade. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Energia, também recupera &91031_bhbl|+91031_bhbl%1+1|x0.01|f2&x de Vida. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100428": {
@@ -1136,7 +1136,7 @@
  "spriteTalentDesc100431": {
   "ch": "{#skill_name_middle91032}回复的体力额外提升&91031_hftl+1&点。",
   "en": "{#skill_name_middle91032} recovers &91031_hftl+1& more Vitality.",
-  "pt": "{#skill_name_middle91032} recupera &91031_hftl+1& a mais de Vitalidade.",
+  "pt": "{#skill_name_middle91032} recupera &91031_hftl+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100432": {
@@ -1178,13 +1178,13 @@
  "spriteTalentDesc100438": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100439": {
   "ch": "{#sprite_race_2_passive_1}的回复比例额外提升&95051_hftl%5+1&%。",
   "en": "{#sprite_race_2_passive_1} recovers &95051_hftl%5+1&% more Vitality.",
-  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%5+1&% a mais de Vitalidade.",
+  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%5+1&% a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100440": {
@@ -1250,13 +1250,13 @@
  "spriteTalentDesc100450": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100451": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者在战斗中回复灵力，将同时回复&91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2&倍的体力。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, every time you recover Energy, you'll also recover &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2&x Vitality. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Energia, também recupera &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2&x de Vitalidade. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, toda vez que recuperar Energia, também recupera &91031_bhbl|+91031_bhbl%1+1|+91031_bhbl%2+1|x0.01|f2&x de Vida. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100452": {
@@ -1316,7 +1316,7 @@
  "spriteTalentDesc100508": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100509": {
@@ -1352,7 +1352,7 @@
  "spriteTalentDesc100514": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100515": {
@@ -1424,7 +1424,7 @@
  "spriteTalentDesc100526": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100527": {
@@ -1496,7 +1496,7 @@
  "spriteTalentDesc100538": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100539": {
@@ -1568,7 +1568,7 @@
  "spriteTalentDesc100550": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100551": {
@@ -1592,7 +1592,7 @@
  "spriteTalentDesc100601": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100602": {
@@ -1616,7 +1616,7 @@
  "spriteTalentDesc100605": {
   "ch": "习得被动技能“{#sprite_race_6_passive_1}”。此器灵所融合的法宝每损失体力上限&95041_sstl&%的体力，提升此器灵所融合的法宝&95041_shts&%的伤害。",
   "en": "Learned \"{#sprite_race_6_passive_1}.\" For every &95041_sstl&% of Max Vitality lost, the Artifact combined with this Artifact Spirit's damage increases by &95041_shts&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vitalidade Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vida Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100606": {
@@ -1670,7 +1670,7 @@
  "spriteTalentDesc100614": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100615": {
@@ -1694,7 +1694,7 @@
  "spriteTalentDesc100618": {
   "ch": "{#skill_name_middle91053}的转化体力增加&91051_hztl+1&%。",
   "en": "{#skill_name_middle91053} converts &91051_hztl+1&% more of damage done into your Max Vitality.",
-  "pt": "{#skill_name_middle91053} converte &91051_hztl+1&% a mais do dano causado em sua Vitalidade Máx.",
+  "pt": "{#skill_name_middle91053} converte &91051_hztl+1&% a mais do dano causado em sua Vida Máx.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100619": {
@@ -1742,7 +1742,7 @@
  "spriteTalentDesc100626": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100627": {
@@ -1754,7 +1754,7 @@
  "spriteTalentDesc100628": {
   "ch": "习得被动技能“{#sprite_race_6_passive_2}”。出场时场上每有一个敌人，此器灵所融合的法宝体力及体力上限提升&95041_tlsx&%。",
   "en": "Learned \"{#sprite_race_6_passive_2}.\" Upon entering battle, for every enemy on the battlefield, the Artifact combined with this Artifact Spirit's Vitality and Max Vitality increase by &95041_tlsx&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vitalidade e a Vitalidade Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vida e a Vida Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100629": {
@@ -1814,7 +1814,7 @@
  "spriteTalentDesc100638": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100639": {
@@ -1886,7 +1886,7 @@
  "spriteTalentDesc100650": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100651": {
@@ -1898,7 +1898,7 @@
  "spriteTalentDesc100652": {
   "ch": "{#sprite_race_6_passive_2}的效果额外提升体力和体力上限&95041_tlsx%1+1&%。",
   "en": "{#sprite_race_6_passive_2} additionally increases Vitality and Max Vitality by &95041_tlsx%1+1&%.",
-  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vitalidade e a Vitalidade Máx. em &95041_tlsx%1+1&%.",
+  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vida e a Vida Máx. em &95041_tlsx%1+1&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100653": {
@@ -1940,7 +1940,7 @@
  "spriteTalentDesc100706": {
   "ch": "所融合的法宝体力上限提升10%",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100707": {
@@ -1952,7 +1952,7 @@
  "spriteTalentDesc100708": {
   "ch": "习得技能{#skill_name_middle91072}，每&91072_htjg&秒在随机敌人脚下生成寒潭，持续对范围内的敌人造成威力&91072_pgwl&的伤害并使其移速&91072_jsbl&%，当友方对寒潭内的敌人造成伤害时，为造成伤害的友方回复&91072_hftl&点体力，触发间隔&91072_hfjg&秒。",
   "en": "Learned {#skill_name_middle91072}. Generate a cold pool under a random enemy's feet every &91072_htjg&s, dealing &91072_pgwl& damage over time to enemies within the area and &91072_jsbl&% their Agility. When an ally deals damage to an enemy within the cold pool, restore &91072_hftl& Vitality for the damage-dealing ally (no more than once every &91072_hfjg&s).",
-  "pt": "Aprendeu {#skill_name_middle91072}. Gera uma poça gélida sob os pés de um inimigo aleatório a cada &91072_htjg&s, causando &91072_pgwl& de dano ao longo do tempo aos inimigos dentro da área e &91072_jsbl&% de Agilidade. Quando um aliado causar dano a um inimigo dentro da poça gélida, restaura &91072_hftl& de Vitalidade ao aliado que causou o dano (no máximo uma vez a cada &91072_hfjg&s).",
+  "pt": "Aprendeu {#skill_name_middle91072}. Gera uma poça gélida sob os pés de um inimigo aleatório a cada &91072_htjg&s, causando &91072_pgwl& de dano ao longo do tempo aos inimigos dentro da área e &91072_jsbl&% de Agilidade. Quando um aliado causar dano a um inimigo dentro da poça gélida, restaura &91072_hftl& de Vida ao aliado que causou o dano (no máximo uma vez a cada &91072_hfjg&s).",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100709": {
@@ -1988,7 +1988,7 @@
  "spriteTalentDesc100714": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100715": {
@@ -2018,7 +2018,7 @@
  "spriteTalentDesc100719": {
   "ch": "{#skill_name_middle91072}为友军回复体力增加&91072_hftl%1+1&点。",
   "en": "{#skill_name_middle91072}'s Vitality restoration for allies +&91072_hftl%1+1&.",
-  "pt": "Restauração de Vitalidade aos aliados de {#skill_name_middle91072} +&91072_hftl%1+1&.",
+  "pt": "Restauração de Vida aos aliados de {#skill_name_middle91072} +&91072_hftl%1+1&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100720": {
@@ -2060,7 +2060,7 @@
  "spriteTalentDesc100726": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100727": {
@@ -2102,7 +2102,7 @@
  "spriteTalentDesc100733": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每次回复体力时，获得一个回复量&910742_hdbl&%的护盾，触发间隔&910742_hdjg&秒",
   "en": "When you're equipped with the artifact this Artifact Spirit is combined with, whenever you recover Vitality, you gain a shield of &910742_hdbl&% recovered amount. Cooldown: &910742_hdjg&s.",
-  "pt": "Quando você está equipado com o artefato combinado com este Espírito do Artefato, sempre que recuperar Vitalidade, você ganha um escudo de &910742_hdbl&% do valor recuperado. Recarga: &910742_hdjg&s.",
+  "pt": "Quando você está equipado com o artefato combinado com este Espírito do Artefato, sempre que recuperar Vida, você ganha um escudo de &910742_hdbl&% do valor recuperado. Recarga: &910742_hdjg&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100734": {
@@ -2132,13 +2132,13 @@
  "spriteTalentDesc100738": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100739": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者每次回复体力时，获得一个回复量&910742_hdbl|+910742_hdbl%2+1|f0&%的护盾，间隔&910742_hdjg&秒",
   "en": "When you're equipped with the artifact this Artifact Spirit is combined with, whenever you recover Vitality, you gain a shield of &910742_hdbl|+910742_hdbl%2+1|f0&% recovered amount. Cooldown: &910742_hdjg&s.",
-  "pt": "Quando você está equipado com o artefato combinado com este Espírito do Artefato, sempre que recuperar Vitalidade, você ganha um escudo de &910742_hdbl|+910742_hdbl%2+1|f0&% do valor recuperado. Recarga: &910742_hdjg&s.",
+  "pt": "Quando você está equipado com o artefato combinado com este Espírito do Artefato, sempre que recuperar Vida, você ganha um escudo de &910742_hdbl|+910742_hdbl%2+1|f0&% do valor recuperado. Recarga: &910742_hdjg&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100740": {
@@ -2204,7 +2204,7 @@
  "spriteTalentDesc100750": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100751": {
@@ -2252,7 +2252,7 @@
  "spriteTalentDesc100805": {
   "ch": "所融合的法宝体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%.",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%.",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100806": {
@@ -2270,7 +2270,7 @@
  "spriteTalentDesc100808": {
   "ch": "习得“{#skill_name_middle91082}”，成功夺取敌人的血液&91082_xjcs&次后可使用。献祭&91082_xjtl|x-1|f0&%自身当前的体力，并持续链接范围&91082_ljfw&内的一名敌人，使目标移动速度&91082_ljjs&%且无法使用身法，并使目标造成的伤害&91082_ljjdsh&%，持续&91082_jlcj&秒。",
   "en": "Learned \"{#skill_name_middle91082}\". Available after stealing enemy blood &91082_xjcs& times. Sacrifice &91082_xjtl|x-1|f0&% of your current Vitality and keep binding an enemy within &91082_ljfw& range, &91082_ljjs&% its Agility, disabling its Motion Skills, and &91082_ljjdsh&% its damage done for &91082_jlcj&s.",
-  "pt": "Aprendeu \"{#skill_name_middle91082}\". Disponível depois de roubar sangue de inimigos &91082_xjcs& vezes. Sacrifica &91082_xjtl|x-1|f0&% da sua Vitalidade atual e mantém um inimigo a até &91082_ljfw& preso, com sua Agilidade &91082_ljjs&%, suas Técnicas de Movimento desativadas e seu dano causado &91082_ljjdsh&% por &91082_jlcj&s.",
+  "pt": "Aprendeu \"{#skill_name_middle91082}\". Disponível depois de roubar sangue de inimigos &91082_xjcs& vezes. Sacrifica &91082_xjtl|x-1|f0&% da sua Vida atual e mantém um inimigo a até &91082_ljfw& preso, com sua Agilidade &91082_ljjs&%, suas Técnicas de Movimento desativadas e seu dano causado &91082_ljjdsh&% por &91082_jlcj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100809": {
@@ -2306,7 +2306,7 @@
  "spriteTalentDesc100814": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100815": {
@@ -2318,7 +2318,7 @@
  "spriteTalentDesc100816": {
   "ch": "{#skill_name_middle91081}使敌人中毒每秒损失的体力提升&91081_dqtl%1+1&点。",
   "en": "Vitality loss per sec of {#skill_name_middle91081}'s poison effect +&91081_dqtl%1+1&.",
-  "pt": "Perda de Vitalidade por segundo do efeito de veneno de {#skill_name_middle91081} +&91081_dqtl%1+1&.",
+  "pt": "Perda de Vida por segundo do efeito de veneno de {#skill_name_middle91081} +&91081_dqtl%1+1&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100817": {
@@ -2378,7 +2378,7 @@
  "spriteTalentDesc100826": {
   "ch": "所融合法宝的体力上限提升7%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +7%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +7%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +7%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100827": {
@@ -2450,7 +2450,7 @@
  "spriteTalentDesc100838": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100839": {
@@ -2522,7 +2522,7 @@
  "spriteTalentDesc100850": {
   "ch": "所融合法宝的体力上限提升13%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +13%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +13%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +13%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc100851": {
@@ -2546,7 +2546,7 @@
  "spriteTalentDesc200101": {
   "ch": "习得被动技能“{#sprite_race_1_passive_1}”。场上有单位使用技能消耗灵力时，可以为此器灵所融合的法宝回复&95011_nxsh|x0.01|f2&倍的体力。",
   "en": "Learned \"{#sprite_race_1_passive_1}.\" Every time a unit consumes Energy to cast a skill, the Artifact combined with this Artifact Spirit will recover &95011_nxsh|x0.01|f2&x Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200102": {
@@ -2702,7 +2702,7 @@
  "spriteTalentDesc200127": {
   "ch": "{#sprite_race_1_passive_1}回复效果额外提升&95011_nxsh%2+1|x0.01|f2&倍。",
   "en": "{#sprite_race_1_passive_1} additionally recovers &95011_nxsh%2+1|x0.01|f2&x Vitality.",
-  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%2+1|x0.01|f2&x de Vitalidade.",
+  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%2+1|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200128": {
@@ -2786,7 +2786,7 @@
  "spriteTalentDesc200141": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200201": {
@@ -2804,7 +2804,7 @@
  "spriteTalentDesc200203": {
   "ch": "习得被动技能“{#sprite_race_1_passive_1}”。场上有单位使用技能消耗灵力时，可以为此器灵所融合的法宝回复&95011_nxsh|x0.01|f2&倍的体力。",
   "en": "Learned \"{#sprite_race_1_passive_1}.\" Every time a unit consumes Energy to cast a skill, the Artifact combined with this Artifact Spirit will recover &95011_nxsh|x0.01|f2&x Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200204": {
@@ -2840,7 +2840,7 @@
  "spriteTalentDesc200209": {
   "ch": "{#sprite_race_1_passive_1}回复效果额外提升&95011_nxsh%3+1|x0.01|f2&倍。",
   "en": "{#sprite_race_1_passive_1} additionally recovers &95011_nxsh%3+1|x0.01|f2&x Vitality.",
-  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%3+1|x0.01|f2&x de Vitalidade.",
+  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%3+1|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200210": {
@@ -3032,7 +3032,7 @@
  "spriteTalentDesc200241": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200301": {
@@ -3044,7 +3044,7 @@
  "spriteTalentDesc200302": {
   "ch": "习得被动技能“{#sprite_race_1_passive_1}”。场上有单位使用技能消耗灵力时，可以为此器灵所融合的法宝回复&95011_nxsh|x0.01|f2&倍的体力。",
   "en": "Learned \"{#sprite_race_1_passive_1}.\" Every time a unit consumes Energy to cast a skill, the Artifact combined with this Artifact Spirit will recover &95011_nxsh|x0.01|f2&x Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_1_passive_1}.\" Toda vez que uma unidade gasta Energia para usar uma habilidade, o Artefato combinado com este Espírito do Artefato recupera &95011_nxsh|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200303": {
@@ -3218,7 +3218,7 @@
  "spriteTalentDesc200331": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200332": {
@@ -3278,7 +3278,7 @@
  "spriteTalentDesc200341": {
   "ch": "{#sprite_race_1_passive_1}回复效果额外提升&95011_nxsh%4+1|x0.01|f2&倍。",
   "en": "{#sprite_race_1_passive_1} additionally recovers &95011_nxsh%4+1|x0.01|f2&x Vitality.",
-  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%4+1|x0.01|f2&x de Vitalidade.",
+  "pt": "{#sprite_race_1_passive_1} recupera adicionalmente &95011_nxsh%4+1|x0.01|f2&x de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200401": {
@@ -3458,7 +3458,7 @@
  "spriteTalentDesc200430": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200431": {
@@ -3572,7 +3572,7 @@
  "spriteTalentDesc200508": {
   "ch": "使用{#skill_name_middle92082}所需要的护盾&92081_sxhd+1&。",
   "en": "The required Shield Vitality for casting {#skill_name_middle92082} &92081_sxhd+1&",
-  "pt": "A Vitalidade do Escudo exigida para usar {#skill_name_middle92082} &92081_sxhd+1&",
+  "pt": "A Vida do Escudo exigida para usar {#skill_name_middle92082} &92081_sxhd+1&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200509": {
@@ -3704,7 +3704,7 @@
  "spriteTalentDesc200530": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200531": {
@@ -3770,7 +3770,7 @@
  "spriteTalentDesc200541": {
   "ch": "{#skill_name_middle92081}叠加的护盾值增加&92081_pghd+1&点。",
   "en": "{#skill_name_middle92081}'s Shield Vitality +&92081_pghd+1&",
-  "pt": "Vitalidade do Escudo de {#skill_name_middle92081} +&92081_pghd+1&",
+  "pt": "Vida do Escudo de {#skill_name_middle92081} +&92081_pghd+1&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200601": {
@@ -3806,13 +3806,13 @@
  "spriteTalentDesc200606": {
   "ch": "{#skill_name_middle92092}消耗额外&92091_hdtl+1&点的体力转化为法宝所有者的护盾。",
   "en": "{#skill_name_middle92092} converts &92091_hdtl+1& more Vitality into the Vitality of your shield.",
-  "pt": "{#skill_name_middle92092} converte &92091_hdtl+1& a mais de Vitalidade em Vitalidade do seu escudo.",
+  "pt": "{#skill_name_middle92092} converte &92091_hdtl+1& a mais de Vida em Vida do seu escudo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200607": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者进入战斗将叠加&91061_jrhd&点护盾。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, you'll receive a shield with &91061_jrhd& Vitality upon entering battle.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, você recebe um escudo com &91061_jrhd& de Vitalidade ao entrar em batalha.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, você recebe um escudo com &91061_jrhd& de Vida ao entrar em batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200608": {
@@ -3956,7 +3956,7 @@
  "spriteTalentDesc200631": {
   "ch": "装备了此器灵所融合的法宝时，法宝所有者进入战斗将叠加&91061_jrhd|+91061_jrhd%1+1|f0&点护盾。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, you'll receive a shield with &91061_jrhd|+91061_jrhd%1+1|f0& Vitality upon entering battle. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, você recebe um escudo com &91061_jrhd|+91061_jrhd%1+1|f0& de Vitalidade ao entrar em batalha. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, você recebe um escudo com &91061_jrhd|+91061_jrhd%1+1|f0& de Vida ao entrar em batalha. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200632": {
@@ -4016,7 +4016,7 @@
  "spriteTalentDesc200641": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200701": {
@@ -4118,7 +4118,7 @@
  "spriteTalentDesc200717": {
   "ch": "习得被动技能“{#sprite_race_4_passive_2}”。场上有敌人受到暴击时，此器灵所融合的法宝可回复&95021_bjtl&点体力。",
   "en": "Learned \"{#sprite_race_4_passive_2}.\" Every time an enemy receives a critical strike, the Artifact combined with this Artifact Spirit will recover &95021_bjtl& Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200718": {
@@ -4190,13 +4190,13 @@
  "spriteTalentDesc200729": {
   "ch": "{#sprite_race_4_passive_2}回复的体力额外提升&95021_bjtl%2+1&点。",
   "en": "{#sprite_race_4_passive_2} recovers &95021_bjtl%2+1& more Vitality.",
-  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%2+1& a mais de Vitalidade.",
+  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%2+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200730": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200731": {
@@ -4268,7 +4268,7 @@
  "spriteTalentDesc200801": {
   "ch": "习得被动技能“{#sprite_race_4_passive_2}”。场上有敌人受到暴击时，此器灵所融合的法宝可回复&95021_bjtl&点体力。",
   "en": "Learned \"{#sprite_race_4_passive_2}.\" Every time an enemy receives a critical strike, the Artifact combined with this Artifact Spirit will recover &95021_bjtl& Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200802": {
@@ -4370,7 +4370,7 @@
  "spriteTalentDesc200818": {
   "ch": "{#sprite_race_4_passive_2}回复的体力额外提升&95021_bjtl%3+1&点。",
   "en": "{#sprite_race_4_passive_2} recovers &95021_bjtl%3+1& more Vitality.",
-  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%3+1& a mais de Vitalidade.",
+  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%3+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200819": {
@@ -4442,7 +4442,7 @@
  "spriteTalentDesc200830": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200831": {
@@ -4514,7 +4514,7 @@
  "spriteTalentDesc200901": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato ao qual este Espírito do Artefato está combinado +5%",
+  "pt": "Vida Máx. do artefato ao qual este Espírito do Artefato está combinado +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200902": {
@@ -4598,7 +4598,7 @@
  "spriteTalentDesc200915": {
   "ch": "习得被动技能“{#sprite_race_4_passive_2}”。场上有敌人受到暴击时，此器灵所融合的法宝可回复&95021_bjtl&点体力。",
   "en": "Learned \"{#sprite_race_4_passive_2}.\" Every time an enemy receives a critical strike, the Artifact combined with this Artifact Spirit will recover &95021_bjtl& Vitality.",
-  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vitalidade.",
+  "pt": "Aprendeu \"{#sprite_race_4_passive_2}.\" Toda vez que um inimigo sofrer um golpe crítico, o Artefato combinado com este Espírito do Artefato recupera &95021_bjtl& de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200916": {
@@ -4706,7 +4706,7 @@
  "spriteTalentDesc200933": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200934": {
@@ -4742,7 +4742,7 @@
  "spriteTalentDesc200939": {
   "ch": "{#sprite_race_4_passive_2}回复的体力额外提升&95021_bjtl%4+1&点。",
   "en": "{#sprite_race_4_passive_2} recovers &95021_bjtl%4+1& more Vitality.",
-  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%4+1& a mais de Vitalidade.",
+  "pt": "{#sprite_race_4_passive_2} recupera &95021_bjtl%4+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc200940": {
@@ -4766,7 +4766,7 @@
  "spriteTalentDesc201002": {
   "ch": "习得被动技能“{#sprite_race_2_passive_1}”。此器灵所融合的法宝每秒回复&95051_hftl&%的体力。",
   "en": "Learned \"{#sprite_race_2_passive_1}.\" The Artifact combined with Artifact Spirit recovers &95051_hftl&% Vitality every second.",
-  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vitalidade por segundo.",
+  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vida por segundo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201003": {
@@ -4862,7 +4862,7 @@
  "spriteTalentDesc201018": {
   "ch": "{#sprite_race_2_passive_1}的回复比例额外提升&95051_hftl%2+1&%。",
   "en": "{#sprite_race_2_passive_1} recovers &95051_hftl%2+1&% more Vitality.",
-  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%2+1&% a mais de Vitalidade.",
+  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%2+1&% a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201019": {
@@ -4934,7 +4934,7 @@
  "spriteTalentDesc201030": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201031": {
@@ -5018,7 +5018,7 @@
  "spriteTalentDesc201103": {
   "ch": "习得被动技能“{#sprite_race_2_passive_1}”。此器灵所融合的法宝每秒回复&95051_hftl&%的体力。",
   "en": "Learned \"{#sprite_race_2_passive_1}.\" The Artifact combined with Artifact Spirit recovers &95051_hftl&% Vitality every second.",
-  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vitalidade por segundo.",
+  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vida por segundo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201104": {
@@ -5120,7 +5120,7 @@
  "spriteTalentDesc201120": {
   "ch": "{#sprite_race_2_passive_1}的回复比例额外提升&95051_hftl%3+1&%。",
   "en": "{#sprite_race_2_passive_1} recovers &95051_hftl%3+1&% more Vitality.",
-  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%3+1&% a mais de Vitalidade.",
+  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%3+1&% a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201121": {
@@ -5240,7 +5240,7 @@
  "spriteTalentDesc201140": {
   "ch": "所融合法宝的体力上限提升8%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +8%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +8%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +8%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201141": {
@@ -5252,7 +5252,7 @@
  "spriteTalentDesc201201": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201202": {
@@ -5276,7 +5276,7 @@
  "spriteTalentDesc201205": {
   "ch": "习得被动技能“{#sprite_race_2_passive_1}”。此器灵所融合的法宝每秒回复&95051_hftl&%的体力。",
   "en": "Learned \"{#sprite_race_2_passive_1}.\" The Artifact combined with Artifact Spirit recovers &95051_hftl&% Vitality every second.",
-  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vitalidade por segundo.",
+  "pt": "Aprendeu \"{#sprite_race_2_passive_1}.\" O Artefato combinado com o Espírito do Artefato recupera &95051_hftl&% de Vida por segundo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201206": {
@@ -5342,7 +5342,7 @@
  "spriteTalentDesc201216": {
   "ch": "{#sprite_race_2_passive_1}的回复比例额外提升&95051_hftl%4+1&%。",
   "en": "{#sprite_race_2_passive_1} recovers &95051_hftl%4+1&% more Vitality.",
-  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%4+1&% a mais de Vitalidade.",
+  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%4+1&% a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201217": {
@@ -5354,7 +5354,7 @@
  "spriteTalentDesc201218": {
   "ch": "{#skill_name_middle92151}回复的体力额外提升&92151_rntl+1&点。",
   "en": "{#skill_name_middle92151} recovers &92151_rntl+1& more Vitality.",
-  "pt": "{#skill_name_middle92151} recupera &92151_rntl+1& a mais de Vitalidade.",
+  "pt": "{#skill_name_middle92151} recupera &92151_rntl+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201219": {
@@ -5420,7 +5420,7 @@
  "spriteTalentDesc201229": {
   "ch": "装备了此器灵所融合的法宝时，所有友方召唤物的体力上限提升&91031_zdtl&%。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, the Max Vitality of all units summoned by allies will increase by &91031_zdtl&%.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a Vitalidade Máx. de todas as unidades invocadas por aliados aumenta em &91031_zdtl&%.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a Vida Máx. de todas as unidades invocadas por aliados aumenta em &91031_zdtl&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201230": {
@@ -5444,7 +5444,7 @@
  "spriteTalentDesc201233": {
   "ch": "{#skill_name_middle92152}回复的体力额外提升&92151_zntl+1&点。",
   "en": "{#skill_name_middle92152} recovers &92151_zntl+1& more Vitality.",
-  "pt": "{#skill_name_middle92152} recupera &92151_zntl+1& a mais de Vitalidade.",
+  "pt": "{#skill_name_middle92152} recupera &92151_zntl+1& a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201234": {
@@ -5480,19 +5480,19 @@
  "spriteTalentDesc201239": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201240": {
   "ch": "{#sprite_race_2_passive_1}的回复比例额外提升&95051_hftl%6+1&%。",
   "en": "{#sprite_race_2_passive_1} recovers &95051_hftl%6+1&% more Vitality.",
-  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%6+1&% a mais de Vitalidade.",
+  "pt": "{#sprite_race_2_passive_1} recupera &95051_hftl%6+1&% a mais de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201241": {
   "ch": "装备了此器灵所融合的法宝时，所有友方召唤物的体力上限提升&91031_zdtl|+91031_zdtl%1+1|f2&%。覆盖之前的效果。",
   "en": "When you're equipped with an Artifact combined with this Artifact Spirit, the Max Vitality of all units summoned by allies will increase by &91031_zdtl|+91031_zdtl%1+1|f2&%. The previous effect will be overwritten.",
-  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a Vitalidade Máx. de todas as unidades invocadas por aliados aumenta em &91031_zdtl|+91031_zdtl%1+1|f2&%. O efeito anterior será substituído.",
+  "pt": "Quando você está equipado com um Artefato combinado com este Espírito do Artefato, a Vida Máx. de todas as unidades invocadas por aliados aumenta em &91031_zdtl|+91031_zdtl%1+1|f2&%. O efeito anterior será substituído.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201301": {
@@ -5690,7 +5690,7 @@
  "spriteTalentDesc201333": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201334": {
@@ -5930,7 +5930,7 @@
  "spriteTalentDesc201432": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201433": {
@@ -6230,25 +6230,25 @@
  "spriteTalentDesc201541": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201601": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201602": {
   "ch": "习得被动技能“{#sprite_race_6_passive_2}”。出场时场上每有一个敌人，此器灵所融合的法宝体力及体力上限提升&95041_tlsx&%。",
   "en": "Learned \"{#sprite_race_6_passive_2}.\" Upon entering battle, for every enemy on the battlefield, the Artifact combined with this Artifact Spirit's Vitality and Max Vitality increase by &95041_tlsx&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vitalidade e a Vitalidade Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vida e a Vida Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201603": {
   "ch": "习得被动技能“{#sprite_race_6_passive_1}”。此器灵所融合的法宝每损失体力上限&95041_sstl&%的体力，提升此器灵所融合的法宝&95041_shts&%的伤害。",
   "en": "Learned \"{#sprite_race_6_passive_1}.\" For every &95041_sstl&% of Max Vitality lost, the Artifact combined with this Artifact Spirit's damage increases by &95041_shts&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vitalidade Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vida Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201604": {
@@ -6476,13 +6476,13 @@
  "spriteTalentDesc201641": {
   "ch": "{#sprite_race_6_passive_2}的效果额外提升体力和体力上限&95041_tlsx%2+1&%。",
   "en": "{#sprite_race_6_passive_2} additionally increases Vitality and Max Vitality by &95041_tlsx%2+1&%.",
-  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vitalidade e a Vitalidade Máx. em &95041_tlsx%2+1&%.",
+  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vida e a Vida Máx. em &95041_tlsx%2+1&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201701": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201702": {
@@ -6494,7 +6494,7 @@
  "spriteTalentDesc201703": {
   "ch": "习得被动技能“{#sprite_race_6_passive_2}”。出场时场上每有一个敌人，此器灵所融合的法宝体力及体力上限提升&95041_tlsx&%。",
   "en": "Learned \"{#sprite_race_6_passive_2}.\" Upon entering battle, for every enemy on the battlefield, the Artifact combined with this Artifact Spirit's Vitality and Max Vitality increase by &95041_tlsx&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vitalidade e a Vitalidade Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vida e a Vida Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201704": {
@@ -6518,7 +6518,7 @@
  "spriteTalentDesc201707": {
   "ch": "习得被动技能“{#sprite_race_6_passive_1}”。此器灵所融合的法宝每损失体力上限&95041_sstl&%的体力，提升此器灵所融合的法宝&95041_shts&%的伤害。",
   "en": "Learned \"{#sprite_race_6_passive_1}.\" For every &95041_sstl&% of Max Vitality lost, the Artifact combined with this Artifact Spirit's damage increases by &95041_shts&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vitalidade Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vida Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201708": {
@@ -6602,7 +6602,7 @@
  "spriteTalentDesc201721": {
   "ch": "{#sprite_race_6_passive_2}的效果额外提升体力和体力上限&95041_tlsx%3+1&%。",
   "en": "{#sprite_race_6_passive_2} additionally increases Vitality and Max Vitality by &95041_tlsx%3+1&%.",
-  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vitalidade e a Vitalidade Máx. em &95041_tlsx%3+1&%.",
+  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vida e a Vida Máx. em &95041_tlsx%3+1&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201722": {
@@ -6710,7 +6710,7 @@
  "spriteTalentDesc201739": {
   "ch": "{#skill_name_middle92112}的效果额外提升体力上限&92111_tlsx+1&。",
   "en": "{#skill_name_middle92112} additionally increases Max Vitality by &92111_tlsx+1&.",
-  "pt": "{#skill_name_middle92112} aumenta adicionalmente a Vitalidade Máx. em &92111_tlsx+1&.",
+  "pt": "{#skill_name_middle92112} aumenta adicionalmente a Vida Máx. em &92111_tlsx+1&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201740": {
@@ -6728,7 +6728,7 @@
  "spriteTalentDesc201801": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201802": {
@@ -6770,13 +6770,13 @@
  "spriteTalentDesc201808": {
   "ch": "习得被动技能“{#sprite_race_6_passive_2}”。出场时场上每有一个敌人，此器灵所融合的法宝体力及体力上限提升&95041_tlsx&%。",
   "en": "Learned \"{#sprite_race_6_passive_2}.\" Upon entering battle, for every enemy on the battlefield, the Artifact combined with this Artifact Spirit's Vitality and Max Vitality increase by &95041_tlsx&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vitalidade e a Vitalidade Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_2}.\" Ao entrar em batalha, para cada inimigo no campo de batalha, a Vida e a Vida Máx. do Artefato combinado com este Espírito do Artefato aumentam em &95041_tlsx&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201809": {
   "ch": "习得被动技能“{#sprite_race_6_passive_1}”。此器灵所融合的法宝每损失体力上限&95041_sstl&%的体力，提升此器灵所融合的法宝&95041_shts&%的伤害。",
   "en": "Learned \"{#sprite_race_6_passive_1}.\" For every &95041_sstl&% of Max Vitality lost, the Artifact combined with this Artifact Spirit's damage increases by &95041_shts&%.",
-  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vitalidade Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
+  "pt": "Aprendeu \"{#sprite_race_6_passive_1}.\" A cada &95041_sstl&% da Vida Máx. perdida, o dano do Artefato combinado com este Espírito do Artefato aumenta em &95041_shts&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201810": {
@@ -6908,13 +6908,13 @@
  "spriteTalentDesc201831": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201832": {
   "ch": "{#sprite_race_6_passive_2}的效果额外提升体力和体力上限&95041_tlsx%4+1&%。",
   "en": "{#sprite_race_6_passive_2} additionally increases Vitality and Max Vitality by &95041_tlsx%4+1&%.",
-  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vitalidade e a Vitalidade Máx. em &95041_tlsx%4+1&%.",
+  "pt": "{#sprite_race_6_passive_2} aumenta adicionalmente a Vida e a Vida Máx. em &95041_tlsx%4+1&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201833": {
@@ -6974,7 +6974,7 @@
  "spriteTalentDesc201901": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201902": {
@@ -7166,7 +7166,7 @@
  "spriteTalentDesc201933": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc201934": {
@@ -7394,7 +7394,7 @@
  "spriteTalentDesc202030": {
   "ch": "所融合法宝的体力上限提升10%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +10%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +10%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202031": {
@@ -7460,7 +7460,7 @@
  "spriteTalentDesc202041": {
   "ch": "{#skill_name_middle92311}回复的体力增加&92311_hftl%1+1&。",
   "en": "{#skill_name_middle92311}'s Vitality recovery +&92311_hftl%1+1&.",
-  "pt": "Recuperação de Vitalidade de {#skill_name_middle92311} +&92311_hftl%1+1&.",
+  "pt": "Recuperação de Vida de {#skill_name_middle92311} +&92311_hftl%1+1&.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202101": {
@@ -7646,7 +7646,7 @@
  "spriteTalentDesc202131": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202132": {
@@ -7952,13 +7952,13 @@
  "spriteTalentDesc202241": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202301": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato combinado com este Espírito do Artefato +5%",
+  "pt": "Vida Máx. do artefato combinado com este Espírito do Artefato +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202302": {
@@ -8138,7 +8138,7 @@
  "spriteTalentDesc202331": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato ao qual este Espírito do Artefato está fundido +5%",
+  "pt": "Vida Máx. do artefato ao qual este Espírito do Artefato está fundido +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202332": {
@@ -8378,7 +8378,7 @@
  "spriteTalentDesc202430": {
   "ch": "所融合法宝的体力上限提升5%。",
   "en": "Max Vitality of the artifact this Artifact Spirit is combined with +5%",
-  "pt": "Vitalidade Máx. do artefato ao qual este Espírito do Artefato está fundido +5%",
+  "pt": "Vida Máx. do artefato ao qual este Espírito do Artefato está fundido +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "spriteTalentDesc202431": {

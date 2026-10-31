@@ -104,7 +104,7 @@
  "effect_desc282310": {
   "ch": "自食其果：吃下了自己种的毒蘑菇，损失<r>95%</r>的体力，造成的伤害降低<r>97%</r>",
   "en": "Had a bitter harvest by eating the poisonous mushrooms sown before. Lose <r>95%</r> Vitality, and all damage dealt reduce by <r>97%</r>",
-  "pt": "Tive uma colheita amarga ao comer os cogumelos venenosos semeados anteriormente. Perco <r>95%</r> de Vitalidade, e todo o dano causado é reduzido em <r>97%</r>.",
+  "pt": "Tive uma colheita amarga ao comer os cogumelos venenosos semeados anteriormente. Perco <r>95%</r> de Vida, e todo o dano causado é reduzido em <r>97%</r>.",
   "auto": "local/hy-mt2"
  },
  "effect_desc300001": {
@@ -170,7 +170,7 @@
  "effect_desc312112": {
   "ch": "每层可提升自身的斩杀上限（对敌人造成刀法伤害后，若其体力低于斩杀上限则可立即将其斩杀）。",
   "en": "Increase your Execute's Vitality Threshold. When dealing Blade damage to an enemy with Vitality lower than the Vitality Threshold, you'll instantly kill this enemy.",
-  "pt": "Aumente o limiar de Vitalidade para o seu Execute. Ao causar dano com a Lâmina em um inimigo cuja Vitalidade seja inferior a esse limiar, você o matará instantaneamente.",
+  "pt": "Aumente o limiar de Vida para o seu Execute. Ao causar dano com a Lâmina em um inimigo cuja Vida seja inferior a esse limiar, você o matará instantaneamente.",
   "auto": "local/hy-mt2"
  },
  "effect_desc313111": {
@@ -182,7 +182,7 @@
  "effect_desc313112": {
   "ch": "每层可提升自身对体力大于一定比例的敌人造成的额外伤害。",
   "en": "Increase your damage against enemies with Vitality above a certain percentage.",
-  "pt": "Aumente o seu dano contra inimigos cuja Vitalidade esteja acima de uma determinada porcentagem.",
+  "pt": "Aumente o seu dano contra inimigos cuja Vida esteja acima de uma determinada porcentagem.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3141111": {
@@ -206,7 +206,7 @@
  "effect_desc314112": {
   "ch": "每层可提升自身对体力小于一定比例的敌人造成的伤害。",
   "en": "Increase your damage against enemies with Vitality below a certain percentage.",
-  "pt": "Aumente o seu dano contra inimigos cuja Vitalidade esteja abaixo de uma determinada porcentagem.",
+  "pt": "Aumente o seu dano contra inimigos cuja Vida esteja abaixo de uma determinada porcentagem.",
   "auto": "local/hy-mt2"
  },
  "effect_desc315111": {
@@ -218,7 +218,7 @@
  "effect_desc315112": {
   "ch": "每次获得效果时可为自身叠加护盾值（护盾值可以抵消受到的伤害）。",
   "en": "Increase Shield Vitality every time you receive this effect. Shield Vitality is used to block incoming damage.",
-  "pt": "Aumente a Vitalidade do Escudo toda vez que receber este efeito. A Vitalidade do Escudo é utilizada para bloquear o dano recebido.",
+  "pt": "Aumente a Vida do Escudo toda vez que receber este efeito. A Vida do Escudo é utilizada para bloquear o dano recebido.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3151121": {
@@ -314,19 +314,19 @@
  "effect_desc3221111": {
   "ch": "使用此技能造成伤害时可从伤害中吸取一部分至自身的体力。",
   "en": "This skill converts some of its damage done into your Vitality.",
-  "pt": "Essa habilidade converte parte do dano causado em Vitalidade para você.",
+  "pt": "Essa habilidade converte parte do dano causado em Vida para você.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3221132": {
   "ch": "使用此技能每斩杀一个敌人，回复自身的体力。",
   "en": "For every enemy this skill executes, you'll restore some Vitality.",
-  "pt": "Para cada inimigo que essa habilidade eliminar, você recuperará um pouco de Vitalidade.",
+  "pt": "Para cada inimigo que essa habilidade eliminar, você recuperará um pouco de Vida.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3221153": {
   "ch": "持续受到伤害并使附近的敌人可从此伤害中吸取一部分至其自身回复体力。",
   "en": "Receive damage over time. Nearby enemies will also convert some of this damage into their Vitality.",
-  "pt": "Recebe dano ao longo do tempo. Inimigos próximos também convertem parte desse dano em sua Vitalidade.",
+  "pt": "Recebe dano ao longo do tempo. Inimigos próximos também convertem parte desse dano em sua Vida.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3221161": {
@@ -428,7 +428,7 @@
  "effect_desc3310011": {
   "ch": "每一层可提升自身的伤害&331003_tssh&%，且每秒回复&331003_hftl&点体力，持续&331003_cxsj&秒。",
   "en": "Every stack increases damage by &331003_tssh&% and restores &331003_hftl& Vitality every second for &331003_cxsj&s.",
-  "pt": "Cada pilha aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vitalidade por segundo por &331003_cxsj&s.",
+  "pt": "Cada pilha aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vida por segundo por &331003_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc3310023": {
@@ -440,7 +440,7 @@
  "effect_desc3310033": {
   "ch": "每一层可提升自身的伤害&331002_tssh&%，且每秒回复&331002_hftl&点体力，持续&331002_cxsj&秒。",
   "en": "Every stack increases damage by &331002_tssh&% and restores &331002_hftl& Vitality every second for &331002_cxsj&s.",
-  "pt": "Cada pilha aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vitalidade por segundo por &331002_cxsj&s.",
+  "pt": "Cada pilha aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vida por segundo por &331002_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desc3321111": {
@@ -662,13 +662,13 @@
  "effect_desc3561124": {
   "ch": "可提升小花妖的攻击伤害、攻击距离及攻击速度，且最大体力值翻倍，回复所有体力，并使其召唤持续时间增加&56112_cxsj&秒。",
   "en": "Increase the Small Flower Faerie's Attack Power, Attack Range, and Attack Speed. Also double its Max Vitality and restore its Vitality to full. The Small Flower Faerie will exist for &56112_cxsj& more seconds.",
-  "pt": "Aumenta o Poder de Ataque, o alcance de ataque e a Velocidade de Ataque da Pequena Fada das Flores. Além disso, dobra-se sua Vitalidade Máx. e sua Vitalidade é restaurada completamente. A Pequena Fada das Flores permanecerá presente por &56112_cxsj& segundos.",
+  "pt": "Aumenta o Poder de Ataque, o alcance de ataque e a Velocidade de Ataque da Pequena Fada das Flores. Além disso, dobra-se sua Vida Máx. e sua Vida é restaurada completamente. A Pequena Fada das Flores permanecerá presente por &56112_cxsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3561144": {
   "ch": "可提升小花妖的技能弹道数量及攻击速度，且最大体力值翻倍，回复所有体力，并使其召唤持续时间增加&56112_cxsj&秒。",
   "en": "Increase the Small Flower Faerie's projectile quantity and Attack Speed. Also double its Max Vitality and restore its Vitality to full. The Small Flower Faerie will exist for &56112_cxsj& more seconds.",
-  "pt": "Aumente a quantidade de projéteis e a Velocidade de Ataque da Pequena Fada das Flores. Além disso, dobre sua Vitalidade Máx. e restaure toda a sua Vitalidade. A Pequena Fada das Flores permanecerá por &56112_cxsj& segundos.",
+  "pt": "Aumente a quantidade de projéteis e a Velocidade de Ataque da Pequena Fada das Flores. Além disso, dobre sua Vida Máx. e restaure toda a sua Vida. A Pequena Fada das Flores permanecerá por &56112_cxsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desc3561154": {
@@ -680,7 +680,7 @@
  "effect_desc3561163": {
   "ch": "可提升小花妖的攻击速度，并且技能在命中敌人时会爆开，造成额外的范围伤害，最大体力值翻倍，回复所有体力，并使其召唤持续时间增加&56112_cxsj&秒。",
   "en": "Increase the Small Flower Faerie's Attack Speed. Upon hitting an enemy, its skill will explode, dealing extra AoE damage. Also double its Max Vitality and restore its Vitality to full. The Small Flower Faerie will exist for &56112_cxsj& more seconds.",
-  "pt": "Aumenta a Velocidade de Ataque da Pequena Fada das Flores. Ao atingir um inimigo, sua habilidade explode, causando dano adicional em área. Além disso, a Vitalidade Máx. dela também é duplicada e sua Vitalidade é restaurada completamente. A Pequena Fada das Flores permanecerá ativa por mais &56112_cxsj& segundos.",
+  "pt": "Aumenta a Velocidade de Ataque da Pequena Fada das Flores. Ao atingir um inimigo, sua habilidade explode, causando dano adicional em área. Além disso, a Vida Máx. dela também é duplicada e sua Vida é restaurada completamente. A Pequena Fada das Flores permanecerá ativa por mais &56112_cxsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desc36011": {
@@ -692,13 +692,13 @@
  "effect_desc36021": {
   "ch": "对目标造成额外木属性伤害，伤害值为最大体力值的百分比。",
   "en": "对目标造成额外木属性伤害，伤害值为最大体力值的百分比。",
-  "pt": "Causa dano adicional de madeira ao alvo, equivalente a uma porcentagem da Vitalidade Máx.",
+  "pt": "Causa dano adicional de madeira ao alvo, equivalente a uma porcentagem da Vida Máx.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc36031": {
   "ch": "回复自身的体力。",
   "en": "回复自身的体力。",
-  "pt": "Restaura a própria Vitalidade.",
+  "pt": "Restaura a própria Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3611122": {
@@ -752,7 +752,7 @@
  "effect_desc3661113": {
   "ch": "吞噬可直接消灭普通单位，吞噬敌人之后，需要一些时间进行消化敌人的体力，在消化时无法进行其它行为，每秒可消化攻击的&66111_xhwl&%的体力值。",
   "en": "Devour kills normal monsters instantly. Every time the unit devours an enemy, it'll take some time to digest it, during which time, the unit can't take other action. (&66111_xhwl&% of ATK) Vitality is digested every second.",
-  "pt": "Devorar mata monstros normais instantaneamente. Sempre que a unidade devora um inimigo, leva algum tempo para digeri-lo; durante esse período, a unidade não pode realizar outras ações. (&66111_xhwl&% do ATQ) de Vitalidade é digerida a cada segundo.",
+  "pt": "Devorar mata monstros normais instantaneamente. Sempre que a unidade devora um inimigo, leva algum tempo para digeri-lo; durante esse período, a unidade não pode realizar outras ações. (&66111_xhwl&% do ATQ) de Vida é digerida a cada segundo.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc3661119": {
@@ -794,13 +794,13 @@
  "effect_desc4100001": {
   "ch": "回复200体力",
   "en": "回复200体力",
-  "pt": "Restaura 200 de Vitalidade",
+  "pt": "Restaura 200 de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100002": {
   "ch": "回复500体力",
   "en": "回复500体力",
-  "pt": "Restaura 500 de Vitalidade",
+  "pt": "Restaura 500 de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4100003": {
@@ -830,7 +830,7 @@
  "effect_desc4100011": {
   "ch": "回复体力：{0}",
   "en": "回复体力：{0}",
-  "pt": "Restaura Vitalidade: {0}",
+  "pt": "Restaura Vida: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc4111002": {
@@ -1100,19 +1100,19 @@
  "effect_desc7001047": {
   "ch": "体力上限提升&700104_tlsx&",
   "en": "Max Vitality +&700104_tlsx&",
-  "pt": "Vitalidade Máx. +&700104_tlsx&",
+  "pt": "Vida Máx. +&700104_tlsx&",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7001058": {
   "ch": "体力上限提升&700105_tlsx&",
   "en": "Max Vitality +&700105_tlsx&",
-  "pt": "Vitalidade Máx. +&700105_tlsx&",
+  "pt": "Vida Máx. +&700105_tlsx&",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc7001069": {
   "ch": "体力上限提升&700106_tlsx&",
   "en": "Max Vitality +&700106_tlsx&",
-  "pt": "Vitalidade Máx. +&700106_tlsx&",
+  "pt": "Vida Máx. +&700106_tlsx&",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desc70013043": {

@@ -208,7 +208,7 @@
  "D_end_huifutili": {
   "ch": "回复体力",
   "en": "Vitality Restored",
-  "pt": "Vitalidade Restaurada",
+  "pt": "Vida Restaurada",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_end_jishaboss": {
@@ -520,13 +520,13 @@
  "D_playerInfoDesc_tili": {
   "ch": "角色的体力值，体力为0时游戏失败。",
   "en": "Your character's health points. You'll lose the game when your Vitality drops to 0.",
-  "pt": "Os pontos de saúde do seu personagem. Você perderá o jogo quando sua Vitalidade cair para 0.",
+  "pt": "Os pontos de saúde do seu personagem. Você perderá o jogo quando sua Vida cair para 0.",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_tilihuifu": {
   "ch": "角色在战斗中每秒可自动恢复的体力值。",
   "en": "The amount of vitality automatically recovered per second during battle.",
-  "pt": "A quantidade de vitalidade recuperada automaticamente por segundo durante a batalha.",
+  "pt": "A quantidade de vida recuperada automaticamente por segundo durante a batalha.",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_tuzizhi": {
@@ -538,7 +538,7 @@
  "D_playerInfoDesc_weili": {
   "ch": "角色的伤害加成百分比，角色造成的大部分伤害都可受到此百分比的加成（此加成对部分特殊伤害无效，如百分比体力伤害等）。",
   "en": "The bonus percent of your character's damage. It applies to most types of damage you dealt, but is ineffective to some special damage types like percent damage to Vitality.",
-  "pt": "O bônus percentual do dano do seu personagem. Ele se aplica à maioria dos tipos de dano que você causar, mas é ineficaz para alguns tipos de dano especiais, como dano percentual à Vitalidade.",
+  "pt": "O bônus percentual do dano do seu personagem. Ele se aplica à maioria dos tipos de dano que você causar, mas é ineficaz para alguns tipos de dano especiais, como dano percentual à Vida.",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfoDesc_xingyun": {
@@ -718,7 +718,7 @@
  "D_playerInfo_enemyMaxhpfix": {
   "ch": "敌人最大体力:",
   "en": "Enemy Max Vitality:",
-  "pt": "Vitalidade Máxima do Inimigo:",
+  "pt": "Vida Máxima do Inimigo:",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_fangyu": {
@@ -826,19 +826,19 @@
  "D_playerInfo_tili": {
   "ch": "体力",
   "en": "Vitality",
-  "pt": "Vitalidade",
+  "pt": "Vida",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tilihuifu": {
   "ch": "体力回复",
   "en": "Vitality Restoration",
-  "pt": "Recuperação de Vitalidade",
+  "pt": "Recuperação de Vida",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tilishangxian": {
   "ch": "体力上限",
   "en": "Max Vitality",
-  "pt": "Vitalidade Máx.",
+  "pt": "Vida Máx.",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "D_playerInfo_tuzizhi": {

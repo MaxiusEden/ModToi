@@ -254,7 +254,7 @@
  "role_feature_postnatal_tips141": {
   "ch": "在解开本命器灵的契约时，损失了部分命魂。最大体力和灵力降低20%，且无法绑定本命器灵。",
   "en": "When a Favored Artifact Spirit Compact is broken, part of the Life Soul is lost. Max Vitality and Energy are reduced by 20% and cannot bind Favored Artifact.",
-  "pt": "Quando um Pacto do Espírito do Artefato Favorito é rompido, parte da Alma Vital se perde. A Vitalidade Máx. e a Energia Máx. são reduzidas em 20% e não é possível vincular o Artefato Favorito.",
+  "pt": "Quando um Pacto do Espírito do Artefato Favorito é rompido, parte da Alma Vital se perde. A Vida Máx. e a Energia Máx. são reduzidas em 20% e não é possível vincular o Artefato Favorito.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips142": {
@@ -302,7 +302,7 @@
  "role_feature_postnatal_tips2006": {
   "ch": "体力上限增加15%，灵力上限增加15%",
   "en": "Increases Max Vitality by 15% and Max Energy by 15%",
-  "pt": "Aumenta a Vitalidade Máx. em 15% e a Energia Máx. em 15%",
+  "pt": "Aumenta a Vida Máx. em 15% e a Energia Máx. em 15%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips2007": {
@@ -314,7 +314,7 @@
  "role_feature_postnatal_tips2800001": {
   "ch": "体力、灵力上限增加10%，维持1个月",
   "en": "Max Vitality +10%, Max Energy +10% for 1 month",
-  "pt": "Vitalidade Máx. +10%, Energia Máx. +10% por 1 mês",
+  "pt": "Vida Máx. +10%, Energia Máx. +10% por 1 mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips2800002": {
@@ -380,7 +380,7 @@
  "role_feature_postnatal_tips5004": {
   "ch": "增加10%最大体力",
   "en": "Max Vitality +10%",
-  "pt": "Vitalidade Máx. +10%",
+  "pt": "Vida Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5005": {
@@ -416,7 +416,7 @@
  "role_feature_postnatal_tips501": {
   "ch": "每个月体力-200",
   "en": "Vitality -200 every month",
-  "pt": "Vitalidade -200 a cada mês",
+  "pt": "Vida -200 a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5010": {
@@ -428,7 +428,7 @@
  "role_feature_postnatal_tips5011": {
   "ch": "体力上限暂时减少30%",
   "en": "Max Vitality is temporarily reduced by 30%",
-  "pt": "A Vitalidade Máx. é reduzida temporariamente em 30%",
+  "pt": "A Vida Máx. é reduzida temporariamente em 30%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5012": {
@@ -548,7 +548,7 @@
  "role_feature_postnatal_tips503": {
   "ch": "每个月体力-300，精力-60",
   "en": "Vitality -300 and Stamina -60 every month",
-  "pt": "Vitalidade -300 e Vigor -60 a cada mês",
+  "pt": "Vida -300 e Vigor -60 a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5030": {
@@ -578,19 +578,19 @@
  "role_feature_postnatal_tips5034": {
   "ch": "体力、灵力、念力+10%，所有灵根资质+10，持续12个月",
   "en": "Vitality, Energy, and Focus +10%, All Spiritual Roots +10. Duration: 12 months",
-  "pt": "Vitalidade, Energia e Foco +10%, Todas as Raízes Espirituais +10. Duração: 12 meses",
+  "pt": "Vida, Energia e Foco +10%, Todas as Raízes Espirituais +10. Duração: 12 meses",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5035": {
   "ch": "攻击+10%，体力上限-10%，持续12个月",
   "en": "ATK +10%, Max Vitality -10%. Duration: 12 months",
-  "pt": "ATQ +10%, Vitalidade Máx. -10%. Duração: 12 meses",
+  "pt": "ATQ +10%, Vida Máx. -10%. Duração: 12 meses",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5036": {
   "ch": "体力上限+10%，持续12个月",
   "en": "Max Vitality +10% for 12 months",
-  "pt": "Vitalidade Máx. +10% por 12 meses",
+  "pt": "Vida Máx. +10% por 12 meses",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5037": {
@@ -818,37 +818,37 @@
  "role_feature_postnatal_tips5074": {
   "ch": "将体内的火灵根全部逼出体外，进行炼化成珠，逼出灵根后，体力、灵力、念力分别降低15%。",
   "en": "You push your Fire Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.",
-  "pt": "Você expulsa sua Raiz de Fogo do corpo e a forja em um orbe. Sua Vitalidade, Energia e Foco são reduzidos em 15%.",
+  "pt": "Você expulsa sua Raiz de Fogo do corpo e a forja em um orbe. Sua Vida, Energia e Foco são reduzidos em 15%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5075": {
   "ch": "将体内的水灵根全部逼出体外，进行炼化成珠，逼出灵根后，体力、灵力、念力分别降低15%。",
   "en": "You push your Water Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.",
-  "pt": "Você expulsa sua Raiz de Água do corpo e a forja em um orbe. Sua Vitalidade, Energia e Foco são reduzidos em 15%.",
+  "pt": "Você expulsa sua Raiz de Água do corpo e a forja em um orbe. Sua Vida, Energia e Foco são reduzidos em 15%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5076": {
   "ch": "将体内的雷灵根全部逼出体外，进行炼化成珠，逼出灵根后，体力、灵力、念力分别降低15%。",
   "en": "You push your Lightning Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.",
-  "pt": "Você expulsa sua Raiz de Relâmpago do corpo e a forja em um orbe. Sua Vitalidade, Energia e Foco são reduzidos em 15%.",
+  "pt": "Você expulsa sua Raiz de Relâmpago do corpo e a forja em um orbe. Sua Vida, Energia e Foco são reduzidos em 15%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5077": {
   "ch": "将体内的风灵根全部逼出体外，进行炼化成珠，逼出灵根后，体力、灵力、念力分别降低15%。",
   "en": "You push your Wind Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.",
-  "pt": "Você expulsa sua Raiz de Vento do corpo e a forja em um orbe. Sua Vitalidade, Energia e Foco são reduzidos em 15%.",
+  "pt": "Você expulsa sua Raiz de Vento do corpo e a forja em um orbe. Sua Vida, Energia e Foco são reduzidos em 15%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5078": {
   "ch": "将体内的土灵根全部逼出体外，进行炼化成珠，逼出灵根后，体力、灵力、念力分别降低15%。",
   "en": "You push your Earth Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.",
-  "pt": "Você expulsa sua Raiz de Terra do corpo e a forja em um orbe. Sua Vitalidade, Energia e Foco são reduzidos em 15%.",
+  "pt": "Você expulsa sua Raiz de Terra do corpo e a forja em um orbe. Sua Vida, Energia e Foco são reduzidos em 15%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5079": {
   "ch": "将体内的木灵根全部逼出体外，进行炼化成珠，逼出灵根后，体力、灵力、念力分别降低15%。",
   "en": "You push your Wood Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.",
-  "pt": "Você expulsa sua Raiz de Madeira do corpo e a forja em um orbe. Sua Vitalidade, Energia e Foco são reduzidos em 15%.",
+  "pt": "Você expulsa sua Raiz de Madeira do corpo e a forja em um orbe. Sua Vida, Energia e Foco são reduzidos em 15%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips5080": {
@@ -902,13 +902,13 @@
  "role_feature_postnatal_tips6114221": {
   "ch": "战斗中濒死时立即回复全部体力灵力和念力，只可触发一次，触发后气运消失。",
   "en": "When you're dying, you'll instantly recover your Vitality, Energy, and Focus to full. This Destiny will disappear once triggered.",
-  "pt": "Quando você estiver morrendo, recuperará instantaneamente a Vitalidade, a Energia e o Foco por completo. Este Destino desaparecerá depois de ativado.",
+  "pt": "Quando você estiver morrendo, recuperará instantaneamente a Vida, a Energia e o Foco por completo. Este Destino desaparecerá depois de ativado.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips6120001": {
   "ch": "体力低于20%时触发，召唤4个鬼将，其中一个带有特技每隔5秒回复玩家最大生命值的5%。一场战斗只能触发一次，总共能触发3次，次数用完后气运消失。（已使用次数：{luckUseCount}/3）",
   "en": "When your Vitality drops below 20%, you'll summon 4 ghosts, one of which will heal you for 5% of your Max Vitality every 5s. This Destiny can only be triggered once per battle and will disappear once triggered 3 times in total. (Triggered: {luckUseCount}/3)",
-  "pt": "Quando sua Vitalidade cair abaixo de 20%, você invocará 4 fantasmas, um dos quais curará você em 5% da sua Vitalidade Máx. a cada 5s. Este Destino só pode ser ativado uma vez por batalha e desaparecerá depois de ativado 3 vezes no total. (Ativado: {luckUseCount}/3)",
+  "pt": "Quando sua Vida cair abaixo de 20%, você invocará 4 fantasmas, um dos quais curará você em 5% da sua Vida Máx. a cada 5s. Este Destino só pode ser ativado uma vez por batalha e desaparecerá depois de ativado 3 vezes no total. (Ativado: {luckUseCount}/3)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips6120002": {
@@ -920,7 +920,7 @@
  "role_feature_postnatal_tips6120003": {
   "ch": "一面破损的御鬼幡，但还是保留了它的部分力量。体力低于20%时触发，召唤2个鬼将。一场战斗只能触发一次，总共能触发2次，次数用完后气运消失。（已使用次数：{luckUseCount}/2）",
   "en": "A broken Ghost Summoning Banner with some of its power left. When your Vitality drops below 20%, you'll summon 2 ghosts. This Destiny can only be triggered once per battle and will disappear once triggered 2 times in total. (Triggered: {luckUseCount}/2)",
-  "pt": "Um Estandarte de Invocação de Fantasmas quebrado, com um pouco de poder restante. Quando sua Vitalidade cair abaixo de 20%, você invocará 2 fantasmas. Este Destino só pode ser ativado uma vez por batalha e desaparecerá depois de ativado 2 vezes no total. (Ativado: {luckUseCount}/2)",
+  "pt": "Um Estandarte de Invocação de Fantasmas quebrado, com um pouco de poder restante. Quando sua Vida cair abaixo de 20%, você invocará 2 fantasmas. Este Destino só pode ser ativado uma vez por batalha e desaparecerá depois de ativado 2 vezes no total. (Ativado: {luckUseCount}/2)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips6120004": {
@@ -932,7 +932,7 @@
  "role_feature_postnatal_tips6120411": {
   "ch": "体力低于20%时触发，召唤3个骷髅，其中一个带有特技每隔5秒回复玩家最大生命值的5%。一场战斗只能触发一次，总共能触发3次，次数用完后气运消失。（已使用次数：{luckUseCount}/3）",
   "en": "When your Vitality drops below 20%, you'll summon 3 skeletons, one of which will heal you for 5% of your Max Vitality every 5s. This Destiny can only be triggered once per battle and will disappear once triggered 3 times in total. (Triggered: {luckUseCount}/3)",
-  "pt": "Quando sua Vitalidade cair abaixo de 20%, você invocará 3 esqueletos, um dos quais curará você em 5% da sua Vitalidade Máx. a cada 5s. Este Destino só pode ser ativado uma vez por batalha e desaparecerá depois de ativado 3 vezes no total. (Ativado: {luckUseCount}/3)",
+  "pt": "Quando sua Vida cair abaixo de 20%, você invocará 3 esqueletos, um dos quais curará você em 5% da sua Vida Máx. a cada 5s. Este Destino só pode ser ativado uma vez por batalha e desaparecerá depois de ativado 3 vezes no total. (Ativado: {luckUseCount}/3)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips6121371": {
@@ -1184,7 +1184,7 @@
  "role_feature_postnatal_tips700026": {
   "ch": "在进入战斗时，你的体力只保留10点并将剩余的体力全部转化为护盾（护盾至少有&700026_zxhd&%），在结束战斗时，会将未消耗的护盾转换回体力。",
   "en": "After entering battle, you'll only keep 10 Vitality. The remaining Vitality will be converted into a shield (at least &700026_zxhd&% Vitality). After the battle ends, the unused shield Vitality will be converted back into your Vitality.",
-  "pt": "Ao entrar em batalha, você manterá apenas 10 de Vitalidade. A Vitalidade restante será convertida em um escudo (pelo menos &700026_zxhd&% da Vitalidade). Quando a batalha terminar, a Vitalidade não usada do escudo será convertida de volta em sua Vitalidade.",
+  "pt": "Ao entrar em batalha, você manterá apenas 10 de Vida. A Vida restante será convertida em um escudo (pelo menos &700026_zxhd&% da Vida). Quando a batalha terminar, a Vida não usada do escudo será convertida de volta em sua Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700027": {
@@ -1196,13 +1196,13 @@
  "role_feature_postnatal_tips700028": {
   "ch": "你对范围&700028_xxjl&以内的敌人造成伤害时，可吸血&700028_xxbl&%。（可升级为血煞大法）",
   "en": "When you deal damage to the enemies within &700028_xxjl&, you'll convert &700028_xxbl&% of damage done into your Vitality. (Can be upgraded to Blood Power II)",
-  "pt": "Quando você causa dano aos inimigos em até &700028_xxjl&, converte &700028_xxbl&% do dano causado em Vitalidade. (Pode ser aprimorado para Poder do Sangue II)",
+  "pt": "Quando você causa dano aos inimigos em até &700028_xxjl&, converte &700028_xxbl&% do dano causado em Vida. (Pode ser aprimorado para Poder do Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700029": {
   "ch": "当你的体力低于&700029_xllj&%时，你将会变成战斗疯魔（受到的伤害&700029_jdsh&%，造成的伤害&700029_tssh&%，但是会疯狂的追踪敌人，不受控制）。",
   "en": "When your Vitality drops below &700029_xllj&%, you'll turn into a mad fighter (damage done &700029_jdsh&%, damage taken &700029_tssh&%). You'll lose control of your character, but the mad fighter attacks enemies automatically.",
-  "pt": "Quando sua Vitalidade cair abaixo de &700029_xllj&%, você se transformará em um lutador louco (dano causado &700029_jdsh&%, dano sofrido &700029_tssh&%). Você perderá o controle do personagem, mas o lutador louco ataca os inimigos automaticamente.",
+  "pt": "Quando sua Vida cair abaixo de &700029_xllj&%, você se transformará em um lutador louco (dano causado &700029_jdsh&%, dano sofrido &700029_tssh&%). Você perderá o controle do personagem, mas o lutador louco ataca os inimigos automaticamente.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700030": {
@@ -1322,7 +1322,7 @@
  "role_feature_postnatal_tips700049": {
   "ch": "每次在大地图中修炼时，可回复部分体力、灵力、念力。",
   "en": "You'll recover some of your Vitality, Energy, and Focus every time you perform Cultivation on the world map.",
-  "pt": "Você recuperará um pouco de Vitalidade, Energia e Foco toda vez que realizar Cultivo no mapa-múndi.",
+  "pt": "Você recuperará um pouco de Vida, Energia e Foco toda vez que realizar Cultivo no mapa-múndi.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700050": {
@@ -1334,7 +1334,7 @@
  "role_feature_postnatal_tips700051": {
   "ch": "战斗过程中，每次暴击都有概率生成一只灵蝶（颜色随便啦）在角色周围飞舞，蝴蝶持续10s，消失时为角色恢复5%的最大生命值。角色在战斗中死亡时，变成一只茧。每只蝴蝶为茧提供人物5%的最大血量和防御，持续5秒后角色复活，恢复角色相应比例的血量。此效果每次战斗只有一次效果。（即化茧后效果消失）",
   "en": "Every time you land a critical strike in battle, you have a chance to generate a butterfly spirit that flies around and lasts 10s. When the butterfly disappears, it'll heal you for 5% of your Vitality. You'll turn into a cocoon when you die. Each butterfly spirit will provide 5% of your Max Vitality and DEF to the cocoon. You'll then revive in 5s with the recovered Vitality and DEF. (Cannot occur more than once per battle)",
-  "pt": "Toda vez que você acerta um golpe crítico em batalha, tem uma chance de gerar um espírito de borboleta que voa ao redor por 10s. Quando a borboleta desaparece, ela cura você em 5% da sua Vitalidade. Você se transformará em um casulo quando morrer. Cada espírito de borboleta fornecerá 5% da sua Vitalidade Máx. e DEF ao casulo. Você então reviverá em 5s com a Vitalidade e a DEF recuperadas. (Não pode ocorrer mais de uma vez por batalha)",
+  "pt": "Toda vez que você acerta um golpe crítico em batalha, tem uma chance de gerar um espírito de borboleta que voa ao redor por 10s. Quando a borboleta desaparece, ela cura você em 5% da sua Vida. Você se transformará em um casulo quando morrer. Cada espírito de borboleta fornecerá 5% da sua Vida Máx. e DEF ao casulo. Você então reviverá em 5s com a Vida e a DEF recuperadas. (Não pode ocorrer mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700052": {
@@ -1346,31 +1346,31 @@
  "role_feature_postnatal_tips700053": {
   "ch": "当你在战斗中濒死时，将会变身成一只药灵，并回复&700053_hftl&%的体力，持续&700053_cxsj&秒。",
   "en": "When you're dying, you'll transform into a Mushroom Man, and &700053_hftl&% Vitality will be recovered. Duration: &700053_cxsj&s.",
-  "pt": "Quando você estiver morrendo, se transformará em um Homem Cogumelo, e &700053_hftl&% da Vitalidade será recuperada. Duração: &700053_cxsj&s.",
+  "pt": "Quando você estiver morrendo, se transformará em um Homem Cogumelo, e &700053_hftl&% da Vida será recuperada. Duração: &700053_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips7000531": {
   "ch": "魅力&7000531_mlxj&，每月回复体力&7000531_hftl&%，持续6个月。",
   "en": "Charisma &7000531_mlxj&. &7000531_hftl&% Vitality is recovered every month for 6 months",
-  "pt": "Carisma &7000531_mlxj&. &7000531_hftl&% da Vitalidade é recuperada a cada mês por 6 meses",
+  "pt": "Carisma &7000531_mlxj&. &7000531_hftl&% da Vida é recuperada a cada mês por 6 meses",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700054": {
   "ch": "在战斗中每间隔&700054_zxjg&秒至&700054_zdjg&秒可在附近生长出一个可食用的小蘑菇。当你在战斗中濒死时，将会变身成一只药灵，并回复&700054_hftl&%的体力，持续&700054_cxsj&秒。",
   "en": "Every &700054_zxjg&s-&700054_zdjg&s, an edible mushroom will spawn nearby. When you're dying, you'll transform into a Mushroom Man, and &700054_hftl&% Vitality will be recovered. Duration: &700054_cxsj&s.",
-  "pt": "A cada &700054_zxjg&s-&700054_zdjg&s, um cogumelo comestível surge por perto. Quando você estiver morrendo, se transformará em um Homem Cogumelo, e &700054_hftl&% da Vitalidade será recuperada. Duração: &700054_cxsj&s.",
+  "pt": "A cada &700054_zxjg&s-&700054_zdjg&s, um cogumelo comestível surge por perto. Quando você estiver morrendo, se transformará em um Homem Cogumelo, e &700054_hftl&% da Vida será recuperada. Duração: &700054_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700055": {
   "ch": "你对范围&700055_xxjl&以内的敌人造成伤害时，可吸血&700055_xxbl&%。（选择后替换血魔大法，可升级为血魇大法）",
   "en": "When you deal damage to the enemies within &700055_xxjl&, you'll convert &700055_xxbl&% of damage done into your Vitality. (Select to replace Blood Power I; can be upgraded to Blood Power II)",
-  "pt": "Quando você causa dano aos inimigos em até &700055_xxjl&, converte &700055_xxbl&% do dano causado em Vitalidade. (Selecione para substituir Poder do Sangue I; pode ser aprimorado para Poder do Sangue II)",
+  "pt": "Quando você causa dano aos inimigos em até &700055_xxjl&, converte &700055_xxbl&% do dano causado em Vida. (Selecione para substituir Poder do Sangue I; pode ser aprimorado para Poder do Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700056": {
   "ch": "你对范围&700056_xxjl&以内的敌人造成伤害时，可吸血&700056_xxbl&%。（选择后替换血煞大法）",
   "en": "When you deal damage to the enemies within &700056_xxjl&, you'll convert &700056_xxbl&% of damage done into your Vitality. (Select to replace Blood Power II)",
-  "pt": "Quando você causa dano aos inimigos em até &700056_xxjl&, converte &700056_xxbl&% do dano causado em Vitalidade. (Selecione para substituir Poder do Sangue II)",
+  "pt": "Quando você causa dano aos inimigos em até &700056_xxjl&, converte &700056_xxbl&% do dano causado em Vida. (Selecione para substituir Poder do Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700057": {
@@ -1514,55 +1514,55 @@
  "role_feature_postnatal_tips700080": {
   "ch": "在战斗中濒临死亡时，可获得一个&700080_tshd&%体力的护盾。（每场战斗只能触发一次，可升级为盾灵进阶）",
   "en": "When you're dying, you'll receive a shield with &700080_tshd&% Vitality. (Cannot trigger more than once per battle; can be upgraded to Shield Spirit II)",
-  "pt": "Quando você estiver morrendo, receberá um escudo com &700080_tshd&% de Vitalidade. (Não pode ser ativado mais de uma vez por batalha; pode ser aprimorado para Espírito do Escudo II)",
+  "pt": "Quando você estiver morrendo, receberá um escudo com &700080_tshd&% de Vida. (Não pode ser ativado mais de uma vez por batalha; pode ser aprimorado para Espírito do Escudo II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700081": {
   "ch": "在战斗中濒临死亡时，可获得一个&700081_tshd&%体力的护盾，并且在&700081_fssj&秒内，可对敌人造成&700081_fsbl&%的反伤伤害。（选择后替换盾灵入门，可升级为盾灵精通，每场战斗只能触发一次）",
   "en": "When you're dying, you'll receive a shield with &700081_tshd&% Vitality. For the next &700081_fssj&s, the shield will deal &700081_fsbl&% damage to enemies. (Select to replace Shield Spirit I; can be upgraded to Shield Spirit III; cannot trigger more than once per battle)",
-  "pt": "Quando você estiver morrendo, receberá um escudo com &700081_tshd&% de Vitalidade. Pelos próximos &700081_fssj&s, o escudo causará &700081_fsbl&% de dano aos inimigos. (Selecione para substituir Espírito do Escudo I; pode ser aprimorado para Espírito do Escudo III; não pode ser ativado mais de uma vez por batalha)",
+  "pt": "Quando você estiver morrendo, receberá um escudo com &700081_tshd&% de Vida. Pelos próximos &700081_fssj&s, o escudo causará &700081_fsbl&% de dano aos inimigos. (Selecione para substituir Espírito do Escudo I; pode ser aprimorado para Espírito do Escudo III; não pode ser ativado mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700082": {
   "ch": "在战斗中濒临死亡时，可获得一个&700082_tshd&%体力的护盾，并且在&700082_fssj&秒内，可对敌人造成&700082_fsbl&%的反伤伤害。当护盾值为0时会发生爆炸，对范围&700082_bzfw&内的敌人造成威力&700082_bzwl&的$s_quan$伤害。（选择后替换盾灵进阶，每场战斗只能触发一次）",
   "en": "When you're dying, you'll receive a shield with &700082_tshd&% Vitality. For the next &700082_fssj&s, the shield will deal &700082_fsbl&% damage to enemies. When the shield's Vitality drops to 0, it'll explode, dealing &700082_bzwl& $s_quan$ damage to the enemies within &700082_bzfw&. (Select to replace Shield Spirit II; cannot trigger more than once per battle)",
-  "pt": "Quando você estiver morrendo, receberá um escudo com &700082_tshd&% de Vitalidade. Pelos próximos &700082_fssj&s, o escudo causará &700082_fsbl&% de dano aos inimigos. Quando a Vitalidade do escudo cair a 0, ele explodirá, causando &700082_bzwl& de dano de $s_quan$ aos inimigos em até &700082_bzfw&. (Selecione para substituir Espírito do Escudo II; não pode ser ativado mais de uma vez por batalha)",
+  "pt": "Quando você estiver morrendo, receberá um escudo com &700082_tshd&% de Vida. Pelos próximos &700082_fssj&s, o escudo causará &700082_fsbl&% de dano aos inimigos. Quando a Vida do escudo cair a 0, ele explodirá, causando &700082_bzwl& de dano de $s_quan$ aos inimigos em até &700082_bzfw&. (Selecione para substituir Espírito do Escudo II; não pode ser ativado mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700083": {
   "ch": "在战斗中濒临死亡时，立刻回复&700083_hfxl&%体力，并且移动速度提升&700083_tsys&%，持续&700083_cxsj&秒。（每场战斗只能触发一次，可升级为潜能进阶）",
   "en": "When you're dying, you'll instantly recover &700083_hfxl&% Vitality, and your Agility will increase by &700083_tsys&% for &700083_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to Hidden Potential II)",
-  "pt": "Quando você estiver morrendo, recuperará instantaneamente &700083_hfxl&% de Vitalidade, e sua Agilidade aumentará em &700083_tsys&% por &700083_cxsj&s. (Não pode ser ativado mais de uma vez por batalha; pode ser aprimorado para Potencial Oculto II)",
+  "pt": "Quando você estiver morrendo, recuperará instantaneamente &700083_hfxl&% de Vida, e sua Agilidade aumentará em &700083_tsys&% por &700083_cxsj&s. (Não pode ser ativado mais de uma vez por batalha; pode ser aprimorado para Potencial Oculto II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700084": {
   "ch": "在战斗中濒临死亡时，立刻回复&700084_hfxl&%体力，并且移动速度提升&700084_tsys&%，造成的伤害提升&700084_tssh&%，持续&700084_cxsj&秒。（选择后替换潜能入门，可升级为潜能精通，每场战斗只能触发一次）",
   "en": "When you're dying, you'll instantly recover &700084_hfxl&% Vitality, and your Agility and damage will increase by &700084_tsys&% and &700084_tssh&% for &700084_cxsj&s. (Select to replace Hidden Potential I; can be upgraded to Hidden Potential III; cannot trigger more than once per battle)",
-  "pt": "Quando você estiver morrendo, recuperará instantaneamente &700084_hfxl&% de Vitalidade, e sua Agilidade e seu dano aumentarão em &700084_tsys&% e &700084_tssh&% por &700084_cxsj&s. (Selecione para substituir Potencial Oculto I; pode ser aprimorado para Potencial Oculto III; não pode ser ativado mais de uma vez por batalha)",
+  "pt": "Quando você estiver morrendo, recuperará instantaneamente &700084_hfxl&% de Vida, e sua Agilidade e seu dano aumentarão em &700084_tsys&% e &700084_tssh&% por &700084_cxsj&s. (Selecione para substituir Potencial Oculto I; pode ser aprimorado para Potencial Oculto III; não pode ser ativado mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700085": {
   "ch": "在战斗中濒临死亡时，立刻回复&700085_hfxl&%体力，并且移动速度提升&700085_tsys&%，造成的伤害提升&700085_tssh&%，所有技能的冷却时间&700085_jdcd&%，持续&700085_cxsj&秒。（选择后替换潜能进阶，每场战斗只能触发一次）",
   "en": "When you're dying, you'll instantly recover &700085_hfxl&% Vitality, and your Agility and damage will increase by &700085_tsys&% and &700085_tssh&% for &700085_cxsj&s. In addition, all your skills' cooldown &700085_jdcd&%. (Select to replace Hidden Potential II; cannot trigger more than once per battle)",
-  "pt": "Quando você estiver morrendo, recuperará instantaneamente &700085_hfxl&% de Vitalidade, e sua Agilidade e seu dano aumentarão em &700085_tsys&% e &700085_tssh&% por &700085_cxsj&s. Além disso, a recarga de todas as suas habilidades &700085_jdcd&%. (Selecione para substituir Potencial Oculto II; não pode ser ativado mais de uma vez por batalha)",
+  "pt": "Quando você estiver morrendo, recuperará instantaneamente &700085_hfxl&% de Vida, e sua Agilidade e seu dano aumentarão em &700085_tsys&% e &700085_tssh&% por &700085_cxsj&s. Além disso, a recarga de todas as suas habilidades &700085_jdcd&%. (Selecione para substituir Potencial Oculto II; não pode ser ativado mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700086": {
   "ch": "在战斗中濒临死亡时，立刻遁入地下，且每秒回复&700086_hfxl&%的体力，持续&700086_cxsj&秒。（每场战斗只能触发一次，可升级为金蝉假影）",
   "en": "When you're dying, you'll instantly burrow into the ground, recovering &700086_hfxl&% Vitality every second for &700086_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to Burrow II)",
-  "pt": "Quando você estiver morrendo, vai se enterrar instantaneamente no chão, recuperando &700086_hfxl&% de Vitalidade por segundo durante &700086_cxsj&s. (Não pode ser ativado mais de uma vez por batalha; pode ser aprimorado para Escavação II)",
+  "pt": "Quando você estiver morrendo, vai se enterrar instantaneamente no chão, recuperando &700086_hfxl&% de Vida por segundo durante &700086_cxsj&s. (Não pode ser ativado mais de uma vez por batalha; pode ser aprimorado para Escavação II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700087": {
   "ch": "在战斗中濒临死亡时，立刻遁入地下，且每秒回复&700087_hfxl&%的体力，持续&700087_cxsj&秒，遁地时会在原地召唤一个幻影（造成&700087_hysh&的伤害，持续&700087_hysj&秒）。（选择后替换金蝉无影，可升级为金蝉血影，每场战斗只能触发一次）",
   "en": "When you're dying, you'll instantly burrow into the ground, recovering &700087_hfxl&% Vitality every second for &700087_cxsj&s. Meanwhile, a phantom will spawn, dealing &700087_hysh& damage. The phantom exists for &700087_hysj&s. (Select to replace Burrow I; can be upgraded to Burrow III; cannot trigger more than once per battle)",
-  "pt": "Quando você estiver morrendo, se enterrará instantaneamente no chão, recuperando &700087_hfxl&% de Vitalidade por segundo durante &700087_cxsj&s. Enquanto isso, um fantasma surgirá, causando &700087_hysh& de dano. O fantasma existe por &700087_hysj&s. (Selecione para substituir Escavação I; pode ser aprimorada para Escavação III; não pode ser ativada mais de uma vez por batalha)",
+  "pt": "Quando você estiver morrendo, se enterrará instantaneamente no chão, recuperando &700087_hfxl&% de Vida por segundo durante &700087_cxsj&s. Enquanto isso, um fantasma surgirá, causando &700087_hysh& de dano. O fantasma existe por &700087_hysj&s. (Selecione para substituir Escavação I; pode ser aprimorada para Escavação III; não pode ser ativada mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700088": {
   "ch": "在战斗中濒临死亡时，立刻遁入地下，且每秒回复&700088_hfxl&%的体力，持续&700088_cxsj&秒，遁地时会在原地召唤一个幻影（造成&700088_hysh&的伤害，持续&700088_hysj&秒，死亡时会发生爆炸，对范围&700088_bzfw&的敌人造成威力&700088_bzwl&的$s_shui$伤害）。（选择后替换金蝉假影，每场战斗只能触发一次）",
   "en": "When you're dying, you'll instantly burrow into the ground, recovering &700088_hfxl&% Vitality every second for &700088_cxsj&s. Meanwhile, a phantom will spawn, dealing &700088_hysh& damage. The phantom exists for &700088_hysj&s. If the phantom dies, it'll explode, dealing &700088_bzwl& $s_shui$ damage to the enemies within &700088_bzfw&. (Select to replace Burrow II; cannot trigger more than once per battle)",
-  "pt": "Quando você estiver morrendo, se enterrará instantaneamente no chão, recuperando &700088_hfxl&% de Vitalidade por segundo durante &700088_cxsj&s. Enquanto isso, um fantasma surgirá, causando &700088_hysh& de dano. O fantasma existe por &700088_hysj&s. Se o fantasma morrer, explodirá, causando &700088_bzwl& de dano de $s_shui$ aos inimigos em até &700088_bzfw&. (Selecione para substituir Escavação II; não pode ser ativada mais de uma vez por batalha)",
+  "pt": "Quando você estiver morrendo, se enterrará instantaneamente no chão, recuperando &700088_hfxl&% de Vida por segundo durante &700088_cxsj&s. Enquanto isso, um fantasma surgirá, causando &700088_hysh& de dano. O fantasma existe por &700088_hysj&s. Se o fantasma morrer, explodirá, causando &700088_bzwl& de dano de $s_shui$ aos inimigos em até &700088_bzfw&. (Selecione para substituir Escavação II; não pode ser ativada mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700089": {
@@ -1586,19 +1586,19 @@
  "role_feature_postnatal_tips700092": {
   "ch": "战斗中，当你灵力不足时，可消耗体力来施放技能，消耗的数值为灵力的&700092_xhtl&倍。（可升级为血灵进阶）",
   "en": "When you don't have enough Energy in battle, you can consume Vitality (&700092_xhtl&x the Energy cost) to cast skills. (Can be upgraded to Blood Energy II)",
-  "pt": "Quando você não tem Energia suficiente em batalha, pode consumir Vitalidade (&700092_xhtl&x o custo de Energia) para lançar habilidades. (Pode ser aprimorada para Energia do Sangue II)",
+  "pt": "Quando você não tem Energia suficiente em batalha, pode consumir Vida (&700092_xhtl&x o custo de Energia) para lançar habilidades. (Pode ser aprimorada para Energia do Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700093": {
   "ch": "战斗中，当你灵力不足时，可消耗体力来施放技能，消耗的数值为灵力的&700093_xhtl&倍，通过消耗体力施放的技能，其伤害可提升&700093_tssh&%。（选择后替换血灵入门，可升级为血灵精通）",
   "en": "When you don't have enough Energy in battle, you can consume Vitality (&700093_xhtl&x the Energy cost) to cast skills. Skills cast using Vitality deal &700093_tssh&% more damage. (Select to replace Blood Energy I; can be upgraded to Blood Energy III)",
-  "pt": "Quando você não tem Energia suficiente em batalha, pode consumir Vitalidade (&700093_xhtl&x o custo de Energia) para lançar habilidades. As habilidades lançadas com Vitalidade causam &700093_tssh&% mais dano. (Selecione para substituir Energia do Sangue I; pode ser aprimorada para Energia do Sangue III)",
+  "pt": "Quando você não tem Energia suficiente em batalha, pode consumir Vida (&700093_xhtl&x o custo de Energia) para lançar habilidades. As habilidades lançadas com Vida causam &700093_tssh&% mais dano. (Selecione para substituir Energia do Sangue I; pode ser aprimorada para Energia do Sangue III)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700094": {
   "ch": "战斗中，当你灵力不足时，可消耗体力来施放技能，消耗的数值为灵力的&700094_xhtl&倍，通过消耗体力施放的技能，其伤害可提升&700094_tssh&%，冷却时间&700094_jscd&%。（选择后替换血灵进阶）",
   "en": "When you don't have enough Energy in battle, you can consume Vitality (&700094_xhtl&x the Energy cost) to cast skills. Skills cast using Vitality deal &700094_tssh&% more damage, and their cooldown &700094_jscd&%. (Select to replace Blood Energy II)",
-  "pt": "Quando você não tem Energia suficiente em batalha, pode consumir Vitalidade (&700094_xhtl&x o custo de Energia) para lançar habilidades. As habilidades lançadas com Vitalidade causam &700094_tssh&% mais dano, e a recarga delas &700094_jscd&%. (Selecione para substituir Energia do Sangue II)",
+  "pt": "Quando você não tem Energia suficiente em batalha, pode consumir Vida (&700094_xhtl&x o custo de Energia) para lançar habilidades. As habilidades lançadas com Vida causam &700094_tssh&% mais dano, e a recarga delas &700094_jscd&%. (Selecione para substituir Energia do Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700095": {
@@ -1622,13 +1622,13 @@
  "role_feature_postnatal_tips700098": {
   "ch": "体力上限提升&700098_tstl&%。",
   "en": "Max Vitality +&700098_tstl&%",
-  "pt": "Vitalidade Máx. +&700098_tstl&%",
+  "pt": "Vida Máx. +&700098_tstl&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700099": {
   "ch": "体力上限提升&700099_tstl&%。",
   "en": "Max Vitality +&700099_tstl&%",
-  "pt": "Vitalidade Máx. +&700099_tstl&%",
+  "pt": "Vida Máx. +&700099_tstl&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips7001": {
@@ -1640,7 +1640,7 @@
  "role_feature_postnatal_tips700100": {
   "ch": "体力上限提升&700100_tstl&%。",
   "en": "Max Vitality +&700100_tstl&%",
-  "pt": "Vitalidade Máx. +&700100_tstl&%",
+  "pt": "Vida Máx. +&700100_tstl&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700101": {
@@ -1664,19 +1664,19 @@
  "role_feature_postnatal_tips700104": {
   "ch": "战斗中，可燃烧体力凝聚一只血爪，血爪在&700104_njsj&秒后可聚成，并会在你下次攻击时放出，碰撞到的敌人后爆开，对范围&700104_bzfw&内的敌人造成威力&700104_bzsh&的特长功法伤害，并使自身体力上限提升&700104_tlsx&，最多可提升&700104_tlsx|x700104_tlcs|f2&。凝聚血爪每秒需要消耗&700104_xhtl&点体力，当体力低于&700104_ljtl&%时不凝聚。（可升级为血祭进阶）",
   "en": "In battle, you can consume Vitality to form a blood claw. The blood claw takes &700104_njsj&s to be formed and will be released upon your subsequent attack. The blood claw explodes upon hitting an enemy, dealing &700104_bzsh& damage to the enemies within &700104_bzfw& and increasing your Max Vitality by &700104_tlsx& (capped at &700104_tlsx|x700104_tlcs|f2&). This damage's type matches your highest Martial Art. Forming the blood claw consumes &700104_xhtl& Vitality every second. You can't form it if your Vitality is below &700104_ljtl&%. (Can be upgraded to Blood Claw II)",
-  "pt": "Em batalha, você pode consumir Vitalidade para formar uma garra de sangue. A garra de sangue leva &700104_njsj&s para se formar e será liberada no seu ataque seguinte. A garra de sangue explode ao atingir um inimigo, causando &700104_bzsh& de dano aos inimigos em até &700104_bzfw& e aumentando sua Vitalidade Máx. em &700104_tlsx& (limitado a &700104_tlsx|x700104_tlcs|f2&). O tipo desse dano corresponde à sua maior Arte Marcial. Formar a garra de sangue consome &700104_xhtl& de Vitalidade por segundo. Você não pode formá-la se sua Vitalidade estiver abaixo de &700104_ljtl&%. (Pode ser aprimorada para Garra de Sangue II)",
+  "pt": "Em batalha, você pode consumir Vida para formar uma garra de sangue. A garra de sangue leva &700104_njsj&s para se formar e será liberada no seu ataque seguinte. A garra de sangue explode ao atingir um inimigo, causando &700104_bzsh& de dano aos inimigos em até &700104_bzfw& e aumentando sua Vida Máx. em &700104_tlsx& (limitado a &700104_tlsx|x700104_tlcs|f2&). O tipo desse dano corresponde à sua maior Arte Marcial. Formar a garra de sangue consome &700104_xhtl& de Vida por segundo. Você não pode formá-la se sua Vida estiver abaixo de &700104_ljtl&%. (Pode ser aprimorada para Garra de Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700105": {
   "ch": "战斗中，可燃烧体力凝聚一只血爪，血爪在&700105_njsj&秒后可聚成，并会在你下次攻击时放出，碰撞到的敌人后爆开，对范围&700105_bzfw&内的敌人造成威力&700105_bzsh&的特长功法伤害，并使自身体力上限提升&700105_tlsx&，最多可提升&700105_tlsx|x700105_tlcs|f2&，血爪爆发后会在地面上留下一个持续&700105_xzsj&秒的血阵，持续对敌人造成伤害。凝聚血爪每秒需要消耗&700105_xhtl&点体力，当体力低于&700105_ljtl&%时不凝聚。（选择后替换血祭入门，可升级为血祭精通）",
   "en": "In battle, you can consume Vitality to form a blood claw. The blood claw takes &700105_njsj&s to be formed and will be released upon your subsequent attack. The blood claw explodes upon hitting an enemy, dealing &700105_bzsh& damage to the enemies within &700105_bzfw& and increasing your Max Vitality by &700105_tlsx& (capped at &700105_tlsx|x700105_tlcs|f2&). This damage's type matches your highest Martial Art. The explosion will also leave a pool of blood on the ground that lasts &700105_xzsj&s, dealing damage over time to the enemies inside. Forming the blood claw consumes &700105_xhtl& Vitality every second. You can't form it if your Vitality is below &700105_ljtl&%. (Select to replace Blood Claw I; can be upgraded to Blood Claw III)",
-  "pt": "Em batalha, você pode consumir Vitalidade para formar uma garra de sangue. A garra de sangue leva &700105_njsj&s para se formar e será liberada no seu ataque seguinte. A garra de sangue explode ao atingir um inimigo, causando &700105_bzsh& de dano aos inimigos em até &700105_bzfw& e aumentando sua Vitalidade Máx. em &700105_tlsx& (limitado a &700105_tlsx|x700105_tlcs|f2&). O tipo desse dano corresponde à sua maior Arte Marcial. A explosão também deixa uma poça de sangue no chão que dura &700105_xzsj&s, causando dano ao longo do tempo aos inimigos dentro dela. Formar a garra de sangue consome &700105_xhtl& de Vitalidade por segundo. Você não pode formá-la se sua Vitalidade estiver abaixo de &700105_ljtl&%. (Selecione para substituir Garra de Sangue I; pode ser aprimorada para Garra de Sangue III)",
+  "pt": "Em batalha, você pode consumir Vida para formar uma garra de sangue. A garra de sangue leva &700105_njsj&s para se formar e será liberada no seu ataque seguinte. A garra de sangue explode ao atingir um inimigo, causando &700105_bzsh& de dano aos inimigos em até &700105_bzfw& e aumentando sua Vida Máx. em &700105_tlsx& (limitado a &700105_tlsx|x700105_tlcs|f2&). O tipo desse dano corresponde à sua maior Arte Marcial. A explosão também deixa uma poça de sangue no chão que dura &700105_xzsj&s, causando dano ao longo do tempo aos inimigos dentro dela. Formar a garra de sangue consome &700105_xhtl& de Vida por segundo. Você não pode formá-la se sua Vida estiver abaixo de &700105_ljtl&%. (Selecione para substituir Garra de Sangue I; pode ser aprimorada para Garra de Sangue III)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700106": {
   "ch": "战斗中，可燃烧体力凝聚一只血爪，血爪在&700106_njsj&秒后可聚成，并会在你下次攻击时放出，碰撞到的敌人后爆开，对范围&700106_bzfw&内的敌人造成威力&700106_bzsh&的特长功法伤害，并使自身体力上限提升&700106_tlsx&，最多可提升&700106_tlsx|x700106_tlcs|f2&，血爪爆发后会在地面上留下一个持续&700106_xzsj&秒的血阵，持续对敌人造成伤害及对自身进行回复（每秒回复&700106_hftl&点体力）。凝聚血爪每秒需要消耗&700106_xhtl&点体力，当体力低于&700106_ljtl&%时不凝聚。（选择后替换血祭进阶）",
   "en": "In battle, you can consume Vitality to form a blood claw. The blood claw takes &700106_njsj&s to be formed and will be released upon your subsequent attack. The blood claw explodes upon hitting an enemy, dealing &700106_bzsh& damage to the enemies within &700106_bzfw& and increasing your Max Vitality by &700106_tlsx& (capped at &700106_tlsx|x700106_tlcs|f2&). This damage's type matches your highest Martial Art. The explosion will also leave a pool of blood on the ground that lasts &700106_xzsj&s, dealing damage over time to the enemies inside while healing you (&700106_hftl& Vitality per second). Forming the blood claw consumes &700106_xhtl& Vitality every second. You can't form it if your Vitality is below &700106_ljtl&%. (Select to replace Blood Claw II)",
-  "pt": "Em batalha, você pode consumir Vitalidade para formar uma garra de sangue. A garra de sangue leva &700106_njsj&s para se formar e será liberada no seu ataque seguinte. A garra de sangue explode ao atingir um inimigo, causando &700106_bzsh& de dano aos inimigos em até &700106_bzfw& e aumentando sua Vitalidade Máx. em &700106_tlsx& (limitado a &700106_tlsx|x700106_tlcs|f2&). O tipo desse dano corresponde à sua maior Arte Marcial. A explosão também deixa uma poça de sangue no chão que dura &700106_xzsj&s, causando dano ao longo do tempo aos inimigos dentro dela e curando você (&700106_hftl& de Vitalidade por segundo). Formar a garra de sangue consome &700106_xhtl& de Vitalidade por segundo. Você não pode formá-la se sua Vitalidade estiver abaixo de &700106_ljtl&%. (Selecione para substituir Garra de Sangue II)",
+  "pt": "Em batalha, você pode consumir Vida para formar uma garra de sangue. A garra de sangue leva &700106_njsj&s para se formar e será liberada no seu ataque seguinte. A garra de sangue explode ao atingir um inimigo, causando &700106_bzsh& de dano aos inimigos em até &700106_bzfw& e aumentando sua Vida Máx. em &700106_tlsx& (limitado a &700106_tlsx|x700106_tlcs|f2&). O tipo desse dano corresponde à sua maior Arte Marcial. A explosão também deixa uma poça de sangue no chão que dura &700106_xzsj&s, causando dano ao longo do tempo aos inimigos dentro dela e curando você (&700106_hftl& de Vida por segundo). Formar a garra de sangue consome &700106_xhtl& de Vida por segundo. Você não pode formá-la se sua Vida estiver abaixo de &700106_ljtl&%. (Selecione para substituir Garra de Sangue II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700107": {
@@ -1694,13 +1694,13 @@
  "role_feature_postnatal_tips700109": {
   "ch": "在战斗中每击杀一个敌人时，有&700109_dlgl&%概率掉落一个精魄，拾取精魄可回复&700109_hftl&%的体力。（可升级为猎精）",
   "en": "Every enemy you kill in battle has a &700109_dlgl&% chance to drop a Vitality Essence. Pick it up to recover &700109_hftl&% Vitality. (Can be upgraded to Vitality Essence II)",
-  "pt": "Cada inimigo que você mata em batalha tem &700109_dlgl&% de chance de largar uma Essência de Vitalidade. Pegue-a para recuperar &700109_hftl&% de Vitalidade. (Pode ser aprimorada para Essência de Vitalidade II)",
+  "pt": "Cada inimigo que você mata em batalha tem &700109_dlgl&% de chance de largar uma Essência de Vida. Pegue-a para recuperar &700109_hftl&% de Vida. (Pode ser aprimorada para Essência de Vida II)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700110": {
   "ch": "在战斗中每击杀一个敌人时，有&700110_dlgl&%概率掉落一个精魄，拾取精魄可回复&700109_hftl&%的体力，并在&700110_cxsj&秒内提升&700110_tsys&点移动速度。（选择后替换视精）",
   "en": "Every enemy you kill in battle has a &700110_dlgl&% chance to drop a Vitality Essence. Pick it up to recover &700109_hftl&% Vitality and increase your Agility by &700110_tsys& for &700110_cxsj&s. (Select to replace Vitality Essence I)",
-  "pt": "Cada inimigo que você mata em batalha tem &700110_dlgl&% de chance de largar uma Essência de Vitalidade. Pegue-a para recuperar &700109_hftl&% de Vitalidade e aumentar sua Agilidade em &700110_tsys& por &700110_cxsj&s. (Selecione para substituir Essência de Vitalidade I)",
+  "pt": "Cada inimigo que você mata em batalha tem &700110_dlgl&% de chance de largar uma Essência de Vida. Pegue-a para recuperar &700109_hftl&% de Vida e aumentar sua Agilidade em &700110_tsys& por &700110_cxsj&s. (Selecione para substituir Essência de Vida I)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700111": {
@@ -1742,13 +1742,13 @@
  "role_feature_postnatal_tips700117": {
   "ch": "当你在战斗中体力低于&700117_ljtl&%时，有一定的概率会得到神秘人李四的出手相助。（每场战斗只能触发一次）",
   "en": "When your Vitality drops below &700117_ljtl&% in battle, you have a chance to receive help from the Mystery Man Jo. (Cannot trigger more than once per battle)",
-  "pt": "Quando sua Vitalidade cair abaixo de &700117_ljtl&% em batalha, você tem uma chance de receber ajuda do Homem Misterioso Jo. (Não pode ser ativado mais de uma vez por batalha)",
+  "pt": "Quando sua Vida cair abaixo de &700117_ljtl&% em batalha, você tem uma chance de receber ajuda do Homem Misterioso Jo. (Não pode ser ativado mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700118": {
   "ch": "当你在战斗中体力低于&700118_ljtl&%时，有一定的概率会得到鸡王的出手相助。（每场战斗只能触发一次）",
   "en": "When your Vitality drops below &700118_ljtl&% in battle, you have a chance to receive help from the Chicken King. (Cannot trigger more than once per battle)",
-  "pt": "Quando sua Vitalidade cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei dos Frangos. (Não pode ser ativado mais de uma vez por batalha)",
+  "pt": "Quando sua Vida cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei dos Frangos. (Não pode ser ativado mais de uma vez por batalha)",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700119": {
@@ -1784,13 +1784,13 @@
  "role_feature_postnatal_tips700131": {
   "ch": "在战斗中每&700131_csjg&秒在场上体力最高的敌人的位置处出现一面持续&700131_cxsj&秒的战鼓，战鼓每秒会对周围的敌人造成7次伤害，每次的伤害威力为&700131_shwl&，并且使范围内的敌人造成的伤害&700131_jdsh&%。",
   "en": "Every &700131_csjg&s, a war drum that exists for &700131_cxsj&s will spawn next to the enemy with the highest Vitality. The war drum deals damage to nearby enemies 7 times per second, each time dealing &700131_shwl& damage. The enemies within range will deal &700131_jdsh&% damage.",
-  "pt": "A cada &700131_csjg&s, um tambor de guerra que existe por &700131_cxsj&s surge ao lado do inimigo com maior Vitalidade. O tambor de guerra causa dano aos inimigos próximos 7 vezes por segundo, causando &700131_shwl& de dano a cada vez. Os inimigos ao alcance causarão &700131_jdsh&% de dano.",
+  "pt": "A cada &700131_csjg&s, um tambor de guerra que existe por &700131_cxsj&s surge ao lado do inimigo com maior Vida. O tambor de guerra causa dano aos inimigos próximos 7 vezes por segundo, causando &700131_shwl& de dano a cada vez. Os inimigos ao alcance causarão &700131_jdsh&% de dano.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700132": {
   "ch": "每装备一个法宝可以提升&700132_tssx&%的最大体力",
   "en": "Each artifact equipped increases Max Vitality by &700132_tssx&%",
-  "pt": "Cada artefato equipado aumenta a Vitalidade Máx. em &700132_tssx&%",
+  "pt": "Cada artefato equipado aumenta a Vida Máx. em &700132_tssx&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700133": {
@@ -1820,7 +1820,7 @@
  "role_feature_postnatal_tips700137": {
   "ch": "濒临死亡时，获得无敌状态持续&700137_wdsj&秒，并对全场所有敌人造成该敌人最大体力&700137_blsh&%的伤害。每场战斗最多触发一次。",
   "en": "Gain Invincibility when on the verge of death for &700137_wdsj&s, dealing damage to all enemies that is &700137_blsh&% of their max Vitality. Triggered 1 time max per battle.",
-  "pt": "Ganha Invencibilidade por &700137_wdsj&s à beira da morte, causando a todos os inimigos dano igual a &700137_blsh&% da Vitalidade máxima deles. Ativado no máximo 1 vez por batalha.",
+  "pt": "Ganha Invencibilidade por &700137_wdsj&s à beira da morte, causando a todos os inimigos dano igual a &700137_blsh&% da Vida máxima deles. Ativado no máximo 1 vez por batalha.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700138": {
@@ -1964,7 +1964,7 @@
  "role_feature_postnatal_tips700161": {
   "ch": "每个友方召唤物会提供自身&700161_shts&%的伤害，最多提升&700161_shts|x700161_djcs|f2&%。当自身受到致命伤害时，会由一个召唤物代替死亡并回复自身最大体力的&700161_tlhf&%，代替死亡效果每&700161_lqsj&秒最多触发一次。",
   "en": "Every ally summoner gives &700161_shts&% of their damage, up to a max of &700161_shts|x700161_djcs|f2&%. When taking fatal damage, one summoner will die in your place and restore &700161_tlhf&% of your max Vitality. The replacement death effect is triggered max 1 time every &700161_lqsj&s.",
-  "pt": "Cada invocador aliado fornece &700161_shts&% do seu dano, até um máximo de &700161_shts|x700161_djcs|f2&%. Ao receber dano fatal, um invocador morrerá em seu lugar e restaurará &700161_tlhf&% da sua Vitalidade máxima. O efeito de morte substituta é ativado no máximo 1 vez a cada &700161_lqsj&s.",
+  "pt": "Cada invocador aliado fornece &700161_shts&% do seu dano, até um máximo de &700161_shts|x700161_djcs|f2&%. Ao receber dano fatal, um invocador morrerá em seu lugar e restaurará &700161_tlhf&% da sua Vida máxima. O efeito de morte substituta é ativado no máximo 1 vez a cada &700161_lqsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700162": {
@@ -2004,7 +2004,7 @@
  "role_feature_postnatal_tips700168": {
   "ch": "战斗中有多于1个修仙者队友时有概率触发，当队伍中有体力低于&700168_tlbl&%的修仙者队友时，消耗&700168_xhtl&%当前生命值，使所有的敌方角色造成的伤害降低&700168_shjd&%，受到伤害提高&700168_shzj&%。持续&700168_chxj&秒，冷却时间&700168_lqsj&秒。",
   "en": "Chance to trigger when there are multiple Cultivator teammates. When Vitality of a Cultivator teammate is lower than &700168_tlbl&%, &700168_xhtl& of current HP is used, and all enemies deal &700168_shjd&% less damage and take &700168_shzj&% more damage. Lasts &700168_chxj&s, cooldown &700168_lqsj&s.",
-  "pt": "Chance de ativar quando há vários companheiros Cultivadores. Quando a Vitalidade de um companheiro Cultivador estiver abaixo de &700168_tlbl&%, &700168_xhtl& do PV atual é usado, e todos os inimigos causam &700168_shjd&% menos dano e recebem &700168_shzj&% mais dano. Dura &700168_chxj&s, recarga &700168_lqsj&s.",
+  "pt": "Chance de ativar quando há vários companheiros Cultivadores. Quando a Vida de um companheiro Cultivador estiver abaixo de &700168_tlbl&%, &700168_xhtl& do PV atual é usado, e todos os inimigos causam &700168_shjd&% menos dano e recebem &700168_shzj&% mais dano. Dura &700168_chxj&s, recarga &700168_lqsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700169": {
@@ -2072,13 +2072,13 @@
  "role_feature_postnatal_tips700180": {
   "ch": "当进入战斗后有概率使场内降下持续&700180_bysj&秒的暴雨。在暴雨持续时间内，令场上所有敌人移动速度&700180_byjs&%；每&700180_llcd&秒会在当前体力最多的友方单位（包括玩家角色）位置降下落雷，对该单位造成威力&700180_yswl&的伤害，并同时对以其为中心半径&700180_llfw&范围内的所有敌人造成威力&700180_llwl&的伤害；效果冷却时间&700180_jncd&秒。",
   "en": "Chance to trigger after entering battle. The rainstorm lasts &700180_bysj&s and reduces all enemy Agility by &700180_byjs&%. While the rainstorm is active, lightning falls on the ally (including the player character) with the highest Vitality every &700180_llcd&s, dealing &700180_yswl& damage to the ally and enemies within a range of &700180_llfw& take &700180_llwl& damage. Cooldown &700180_jncd&s.",
-  "pt": "Chance de ativar após entrar em batalha. A tempestade dura &700180_bysj&s e reduz a Agilidade de todos os inimigos em &700180_byjs&%. Enquanto a tempestade estiver ativa, um relâmpago cai sobre o aliado (incluindo o personagem do jogador) com maior Vitalidade a cada &700180_llcd&s, causando &700180_yswl& de dano ao aliado, e os inimigos em um alcance de &700180_llfw& recebem &700180_llwl& de dano. Recarga &700180_jncd&s.",
+  "pt": "Chance de ativar após entrar em batalha. A tempestade dura &700180_bysj&s e reduz a Agilidade de todos os inimigos em &700180_byjs&%. Enquanto a tempestade estiver ativa, um relâmpago cai sobre o aliado (incluindo o personagem do jogador) com maior Vida a cada &700180_llcd&s, causando &700180_yswl& de dano ao aliado, e os inimigos em um alcance de &700180_llfw& recebem &700180_llwl& de dano. Recarga &700180_jncd&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700181": {
   "ch": "战斗中有概率触发，当场上有修仙者队友被击倒后，有概率会出现医疗队来救人，被救的人会在&700181_fcsj&秒后重返战场，回复&700181_ylhf&%的体力。",
   "en": "Chance to trigger after entering battle. When a Cultivator ally is defeated in battle, there is a chance that a medical team will appear with a stretcher to save the ally. The saved ally rejoins the battle after &700181_fcsj&s and recovers &700181_ylhf&% Vitality.",
-  "pt": "Chance de ativar após entrar em batalha. Quando um aliado Cultivador é derrotado em batalha, há uma chance de uma equipe médica aparecer com uma maca para salvar o aliado. O aliado salvo volta à batalha após &700181_fcsj&s e recupera &700181_ylhf&% de Vitalidade.",
+  "pt": "Chance de ativar após entrar em batalha. Quando um aliado Cultivador é derrotado em batalha, há uma chance de uma equipe médica aparecer com uma maca para salvar o aliado. O aliado salvo volta à batalha após &700181_fcsj&s e recupera &700181_ylhf&% de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700182": {
@@ -2144,7 +2144,7 @@
  "role_feature_postnatal_tips700193": {
   "ch": "使用神通时，若场上没有自身所召唤的珠蟞鱼王，则扣除场上所有自身召唤物&700193_blsh&%当前体力召唤珠蟞鱼王，并根据所有扣除召唤物体力总和的&700193_tlbl&倍提升珠蟞鱼王的最大体力。珠蟞鱼王在场上时，每&700193_xqjg&秒会吸取场上所有自身召唤物&700193_xqsh&点体力，并根据所吸取体力的&700193_hfbl&%回复珠蟞鱼王的体力。场上每存在一个自身的召唤物，都会使珠蟞鱼王的伤害提升&700193_shts&%，最高可提升珠蟞鱼王&700193_shsx|x700193_shts|/100|f0&%的伤害。",
   "en": "When unleashing Ultimate Skill, if there is no Crab King present summoned by yourself, all your summoned units' current Vitality are reduced by &700193_blsh&%, summoning the Crab King, and increases its Max Vitality based on the total &700193_tlbl& times Vitality of all the summoned units reduced. As long as Crab King is present, it absorbs &700193_xqsh& Vitality from all the summoned units present every &700193_xqjg&s, and recovers Vitality equal to &700193_hfbl&% of the Vitality absorbed. Each of your summoned unit present increases Crab King's damage by &700193_shts&%, up to &700193_shsx|x700193_shts|/100|f0&%.",
-  "pt": "Ao liberar a Técnica Suprema, se não houver um Rei Caranguejo invocado por você, a Vitalidade atual de todas as suas unidades invocadas é reduzida em &700193_blsh&%, invocando o Rei Caranguejo, e aumenta a Vitalidade máx. dele com base em &700193_tlbl& vezes o total de Vitalidade reduzida de todas as unidades invocadas. Enquanto o Rei Caranguejo estiver presente, ele absorve &700193_xqsh& de Vitalidade de todas as unidades invocadas presentes a cada &700193_xqjg&s e recupera Vitalidade igual a &700193_hfbl&% da Vitalidade absorvida. Cada unidade invocada sua presente aumenta o dano do Rei Caranguejo em &700193_shts&%, até &700193_shsx|x700193_shts|/100|f0&%.",
+  "pt": "Ao liberar a Técnica Suprema, se não houver um Rei Caranguejo invocado por você, a Vida atual de todas as suas unidades invocadas é reduzida em &700193_blsh&%, invocando o Rei Caranguejo, e aumenta a Vida máx. dele com base em &700193_tlbl& vezes o total de Vida reduzida de todas as unidades invocadas. Enquanto o Rei Caranguejo estiver presente, ele absorve &700193_xqsh& de Vida de todas as unidades invocadas presentes a cada &700193_xqjg&s e recupera Vida igual a &700193_hfbl&% da Vida absorvida. Cada unidade invocada sua presente aumenta o dano do Rei Caranguejo em &700193_shts&%, até &700193_shsx|x700193_shts|/100|f0&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700194": {
@@ -2222,7 +2222,7 @@
  "role_feature_postnatal_tips700205": {
   "ch": "丹药回复体力与灵力的效果提升&700205_hftl&%。",
   "en": "Recovery of Vitality and Energy from elixirs +&700205_hftl&%.",
-  "pt": "Recuperação de Vitalidade e Energia dos elixires +&700205_hftl&%.",
+  "pt": "Recuperação de Vida e Energia dos elixires +&700205_hftl&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700206": {
@@ -2246,7 +2246,7 @@
  "role_feature_postnatal_tips700209": {
   "ch": "战斗内，炼妖壶的冷却时间&7002091_lyhlq&%，壶妖未幻化真身时可每&7002092_mmhf&秒回复最大体力&7002092_hyhx&%。",
   "en": "Gain &7002091_lyhlq&% Cooldown reduction for your Mythical Gourd during battle. If your Imp is not in its true form, it can gain &7002092_hyhx&% Max Vitality recovery every &7002092_mmhf&s.",
-  "pt": "Ganha &7002091_lyhlq&% de redução de Recarga para a sua Cabaça Mítica durante a batalha. Se o seu Diabrete não estiver na forma verdadeira, ele pode ganhar &7002092_hyhx&% de recuperação de Vitalidade máx. a cada &7002092_mmhf&s.",
+  "pt": "Ganha &7002091_lyhlq&% de redução de Recarga para a sua Cabaça Mítica durante a batalha. Se o seu Diabrete não estiver na forma verdadeira, ele pode ganhar &7002092_hyhx&% de recuperação de Vida máx. a cada &7002092_mmhf&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips700210": {
@@ -2420,7 +2420,7 @@
  "role_feature_postnatal_tips8000105": {
   "ch": "",
   "en": "Enraged by Ao Yao's verbal assault, my fury caused my blood to flow in reverse. Max Vitality -35%",
-  "pt": "Enfurecido pelos ataques verbais de Ao Yao, minha fúria fez meu sangue fluir ao contrário. Vitalidade Máx. -35%",
+  "pt": "Enfurecido pelos ataques verbais de Ao Yao, minha fúria fez meu sangue fluir ao contrário. Vida Máx. -35%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000106": {
@@ -2450,7 +2450,7 @@
  "role_feature_postnatal_tips8000110": {
   "ch": "",
   "en": "Max Vitality -35%",
-  "pt": "Vitalidade Máx. -35%",
+  "pt": "Vida Máx. -35%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000111": {
@@ -2462,13 +2462,13 @@
  "role_feature_postnatal_tips8000112": {
   "ch": "",
   "en": "Ao Yao brought you through spatial rifts during a critical moment, helping you escape your opponent. However, you also suffered from interdimensional forces and got wounded. Max Vitality -30%, Travel Speed -30%",
-  "pt": "Ao Yao levou você através de fendas espaciais num momento crítico, ajudando-o a escapar do oponente. No entanto, você também sofreu com as forças interdimensionais e se feriu. Vitalidade Máx. -30%, Velocidade de Viagem -30%",
+  "pt": "Ao Yao levou você através de fendas espaciais num momento crítico, ajudando-o a escapar do oponente. No entanto, você também sofreu com as forças interdimensionais e se feriu. Vida Máx. -30%, Velocidade de Viagem -30%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000113": {
   "ch": "",
   "en": "ATK +10%, Max Vitality +10%, +5 Stamina and Health recovery every month",
-  "pt": "ATQ +10%, Vitalidade Máx. +10%, +5 de recuperação de Vigor e Saúde a cada mês",
+  "pt": "ATQ +10%, Vida Máx. +10%, +5 de recuperação de Vigor e Saúde a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000115": {
@@ -2492,7 +2492,7 @@
  "role_feature_postnatal_tips8000151": {
   "ch": "",
   "en": "Max Vitality +10%",
-  "pt": "Vitalidade Máx. +10%",
+  "pt": "Vida Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000152": {
@@ -2516,13 +2516,13 @@
  "role_feature_postnatal_tips8000157": {
   "ch": "",
   "en": "Martial Arts Stats +18, Water Root +50, ATK +5%, DEF +5%, Max Vitality +10%",
-  "pt": "Atributos de Artes Marciais +18, Raiz de Água +50, ATQ +5%, DEF +5%, Vitalidade Máx. +10%",
+  "pt": "Atributos de Artes Marciais +18, Raiz de Água +50, ATQ +5%, DEF +5%, Vida Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000158": {
   "ch": "",
   "en": "Spiritual Roots Stats +30, ATK +5%, DEF +5%, Max Vitality +10%",
-  "pt": "Atributos de Raízes Espirituais +30, ATQ +5%, DEF +5%, Vitalidade Máx. +10%",
+  "pt": "Atributos de Raízes Espirituais +30, ATQ +5%, DEF +5%, Vida Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000200": {
@@ -2552,7 +2552,7 @@
  "role_feature_postnatal_tips8000300": {
   "ch": "",
   "en": "Lan You induced a mass of miasma into her opponent, making her victim laugh uncontrollably and dissipate energy, thus wrecking their power. Max Vitality -30%, ATK -30%, DEF -30%",
-  "pt": "Lan You induziu uma massa de miasma em seu oponente, fazendo a vítima rir sem controle e dissipar energia, destruindo assim o poder dela. Vitalidade Máx. -30%, ATQ -30%, DEF -30%",
+  "pt": "Lan You induziu uma massa de miasma em seu oponente, fazendo a vítima rir sem controle e dissipar energia, destruindo assim o poder dela. Vida Máx. -30%, ATQ -30%, DEF -30%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000301": {
@@ -2570,7 +2570,7 @@
  "role_feature_postnatal_tips8000403": {
   "ch": "",
   "en": "Got cornered and lectured by Yin'er nonstop for four whole hours, leaving only a dizzy and confused mind. Max Vitality -20%, ATK -30%, DEF -30%",
-  "pt": "Encurralado e sermoneado sem parar por Yin'er durante quatro horas inteiras, restou apenas uma mente tonta e confusa. Vitalidade Máx. -20%, ATQ -30%, DEF -30%",
+  "pt": "Encurralado e sermoneado sem parar por Yin'er durante quatro horas inteiras, restou apenas uma mente tonta e confusa. Vida Máx. -20%, ATQ -30%, DEF -30%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8000407": {
@@ -2594,7 +2594,7 @@
  "role_feature_postnatal_tips8002": {
   "ch": "体力上限+100",
   "en": "Max Vitality +100",
-  "pt": "Vitalidade Máx. +100",
+  "pt": "Vida Máx. +100",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8003": {
@@ -2630,7 +2630,7 @@
  "role_feature_postnatal_tips8008": {
   "ch": "每个月恢复体力200",
   "en": "200 Vitality is recovered every month",
-  "pt": "200 de Vitalidade são recuperados a cada mês",
+  "pt": "200 de Vida são recuperados a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8009": {
@@ -2654,7 +2654,7 @@
  "role_feature_postnatal_tips8011316": {
   "ch": "最大体力-40%，最大脚力-80%，持续三个月。",
   "en": "Max Vitality -40%, Max Travel Speed -80%. Lasts for 3 months.",
-  "pt": "Vitalidade Máx. -40%, Velocidade de Viagem Máx. -80%. Dura 3 meses.",
+  "pt": "Vida Máx. -40%, Velocidade de Viagem Máx. -80%. Dura 3 meses.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8011401": {
@@ -2918,25 +2918,25 @@
  "role_feature_postnatal_tips8012201": {
   "ch": "体力最大值+10%",
   "en": "Max Vitality +10%",
-  "pt": "Vitalidade Máx. +10%",
+  "pt": "Vida Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8012202": {
   "ch": "体力与灵力最大值+10%",
   "en": "Max Vitality and Energy +10%",
-  "pt": "Vitalidade Máx. e Energia Máx. +10%",
+  "pt": "Vida Máx. e Energia Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8012210": {
   "ch": "气血提高+10%，攻击+3%",
   "en": "Vitality +10%, ATK +3%",
-  "pt": "Vitalidade +10%, ATQ +3%",
+  "pt": "Vida +10%, ATQ +3%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8012211": {
   "ch": "攻击+1%，体力上限+3%；感觉背包内的某物似乎正发出微弱的共鸣",
   "en": "ATK +1%, Max Vitality +3%. Something in your inventory begins to ring faintly.",
-  "pt": "ATQ +1%, Vitalidade Máx. +3%. Algo no seu inventário começa a tilintar baixinho.",
+  "pt": "ATQ +1%, Vida Máx. +3%. Algo no seu inventário começa a tilintar baixinho.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8012212": {
@@ -2948,7 +2948,7 @@
  "role_feature_postnatal_tips8012213": {
   "ch": "气血提高+10%，攻击+3%",
   "en": "Vitality +10%, ATK +3%",
-  "pt": "Vitalidade +10%, ATQ +3%",
+  "pt": "Vida +10%, ATQ +3%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8012301": {
@@ -3020,13 +3020,13 @@
  "role_feature_postnatal_tips8013004": {
   "ch": "体力上限增加5%",
   "en": "Max Vitality +5%",
-  "pt": "Vitalidade Máx. +5%",
+  "pt": "Vida Máx. +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8013005": {
   "ch": "增加气血上限增加10%，攻击力增加2%，维持6个月",
   "en": "Max Vitality +10%, ATK +2%. Effective for 6 months.",
-  "pt": "Vitalidade Máx. +10%, ATQ +2%. Efetivo por 6 meses.",
+  "pt": "Vida Máx. +10%, ATQ +2%. Efetivo por 6 meses.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8013020": {
@@ -3146,7 +3146,7 @@
  "role_feature_postnatal_tips8022": {
   "ch": "体力上限+500",
   "en": "Max Vitality +500",
-  "pt": "Vitalidade Máx. +500",
+  "pt": "Vida Máx. +500",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8023": {
@@ -3182,7 +3182,7 @@
  "role_feature_postnatal_tips8028": {
   "ch": "每个月恢复体力1000",
   "en": "1000 Vitality is recovered every month",
-  "pt": "1000 de Vitalidade são recuperados a cada mês",
+  "pt": "1000 de Vida são recuperados a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8029": {
@@ -3224,7 +3224,7 @@
  "role_feature_postnatal_tips8042": {
   "ch": "体力上限+2000",
   "en": "Max Vitality +2000",
-  "pt": "Vitalidade Máx. +2000",
+  "pt": "Vida Máx. +2000",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8043": {
@@ -3260,7 +3260,7 @@
  "role_feature_postnatal_tips8048": {
   "ch": "每个月恢复体力4000",
   "en": "4000 Vitality is recovered every month",
-  "pt": "4000 de Vitalidade são recuperados a cada mês",
+  "pt": "4000 de Vida são recuperados a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8049": {
@@ -3302,7 +3302,7 @@
  "role_feature_postnatal_tips8062": {
   "ch": "体力上限+7000",
   "en": "Max Vitality +7000",
-  "pt": "Vitalidade Máx. +7000",
+  "pt": "Vida Máx. +7000",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8063": {
@@ -3338,7 +3338,7 @@
  "role_feature_postnatal_tips8068": {
   "ch": "每个月恢复体力14000",
   "en": "14000 Vitality is recovered every month",
-  "pt": "14000 de Vitalidade são recuperados a cada mês",
+  "pt": "14000 de Vida são recuperados a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8069": {
@@ -3380,7 +3380,7 @@
  "role_feature_postnatal_tips8082": {
   "ch": "体力上限+25000",
   "en": "Max Vitality +25000",
-  "pt": "Vitalidade Máx. +25000",
+  "pt": "Vida Máx. +25000",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8083": {
@@ -3416,7 +3416,7 @@
  "role_feature_postnatal_tips8088": {
   "ch": "每个月恢复体力50000",
   "en": "50000 Vitality is recovered every month",
-  "pt": "50000 de Vitalidade são recuperados a cada mês",
+  "pt": "50000 de Vida são recuperados a cada mês",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8089": {
@@ -3470,7 +3470,7 @@
  "role_feature_postnatal_tips8103": {
   "ch": "受到他人的威慑，本次战斗中，自身的体力上限减少10%。",
   "en": "Intimidated, your Max Vitality is reduced by 10% in the current battle.",
-  "pt": "Intimidado, sua Vitalidade Máx. é reduzida em 10% na batalha atual.",
+  "pt": "Intimidado, sua Vida Máx. é reduzida em 10% na batalha atual.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8104": {
@@ -3494,7 +3494,7 @@
  "role_feature_postnatal_tips8105": {
   "ch": "受到他人的威慑，本次战斗中，每5秒减少2%的当前体力。",
   "en": "Intimidated, you lose 2% of your current Vitality every 5s in the current battle.",
-  "pt": "Intimidado, você perde 2% da sua Vitalidade atual a cada 5s na batalha atual.",
+  "pt": "Intimidado, você perde 2% da sua Vida atual a cada 5s na batalha atual.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8106": {
@@ -3524,7 +3524,7 @@
  "role_feature_postnatal_tips8203": {
   "ch": "受到他人的助阵，本次战斗中，自身的体力上限增加10%。",
   "en": "Encouraged, your Max Vitality is increased by 10% in the current battle.",
-  "pt": "Encorajado, sua Vitalidade Máx. aumenta em 10% na batalha atual.",
+  "pt": "Encorajado, sua Vida Máx. aumenta em 10% na batalha atual.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8204": {
@@ -3536,7 +3536,7 @@
  "role_feature_postnatal_tips8205": {
   "ch": "受到他人的助阵，本次战斗中，每5秒恢复2%的最大体力。",
   "en": "Encouraged, you recover 2% of your Max Vitality every 5s in the current battle.",
-  "pt": "Encorajado, você recupera 2% da sua Vitalidade Máx. a cada 5s na batalha atual.",
+  "pt": "Encorajado, você recupera 2% da sua Vida Máx. a cada 5s na batalha atual.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8206": {
@@ -3554,7 +3554,7 @@
  "role_feature_postnatal_tips8301": {
   "ch": "无法修炼，且攻击、防御、体力、灵力、念力降低10%。",
   "en": "You can't perform Cultivation. Your ATK, DEF, Vitality, Energy, and Focus are reduced by 10%.",
-  "pt": "Você não pode realizar Cultivo. Seu ATQ, sua DEF, sua Vitalidade, sua Energia e seu Foco são reduzidos em 10%.",
+  "pt": "Você não pode realizar Cultivo. Seu ATQ, sua DEF, sua Vida, sua Energia e seu Foco são reduzidos em 10%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8501": {
@@ -3620,7 +3620,7 @@
  "role_feature_postnatal_tips8804311": {
   "ch": "悟性+30，体力上限-10%，脚力-100",
   "en": "Insight +30, Max Vitality -10%, Travel Speed -100",
-  "pt": "Percepção +30, Vitalidade Máx. -10%, Velocidade de Viagem -100",
+  "pt": "Percepção +30, Vida Máx. -10%, Velocidade de Viagem -100",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805211": {
@@ -3632,7 +3632,7 @@
  "role_feature_postnatal_tips8805213": {
   "ch": "小师妹突破时的特殊效果，你机缘之下从旁得到好处，结成气运，增长精神。体力、灵力、念力上限各增100点。",
   "en": "You gain benefits from your Junior's Breakthrough special effect, and form Destiny that increases your energy. Your Vitality, Energy, and Max Focus increase by 100 points.",
-  "pt": "Você ganha benefícios do efeito especial de Avanço do seu Júnior e forma um Destino que aumenta sua energia. Sua Vitalidade, Energia e Foco Máx. aumentam em 100 pontos.",
+  "pt": "Você ganha benefícios do efeito especial de Avanço do seu Júnior e forma um Destino que aumenta sua energia. Sua Vida, Energia e Foco Máx. aumentam em 100 pontos.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805214": {
@@ -3644,7 +3644,7 @@
  "role_feature_postnatal_tips8805215": {
   "ch": "不想师兄秘药竟然有强健身体之功，体内气息流转，分外顺畅。体力上限+100",
   "en": "It's unexpected, but the Senior's secret medicine can strengthen the body. The Breath circulates well in your body. Max Vitality +100.",
-  "pt": "É inesperado, mas o remédio secreto do Sênior pode fortalecer o corpo. O Sopro circula bem pelo seu corpo. Vitalidade Máx. +100.",
+  "pt": "É inesperado, mas o remédio secreto do Sênior pode fortalecer o corpo. O Sopro circula bem pelo seu corpo. Vida Máx. +100.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805216": {
@@ -3662,19 +3662,19 @@
  "role_feature_postnatal_tips8805218": {
   "ch": "增加体力5%体力上限，5%念力上限",
   "en": "Increases Max Vitality by 5%, Max Focus by 5%",
-  "pt": "Aumenta a Vitalidade Máx. em 5% e o Foco Máx. em 5%",
+  "pt": "Aumenta a Vida Máx. em 5% e o Foco Máx. em 5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805219": {
   "ch": "增加10%体力上限，10%念力上限",
   "en": "Increases Max Vitality by 10%, Max Focus by 10%",
-  "pt": "Aumenta a Vitalidade Máx. em 10% e o Foco Máx. em 10%",
+  "pt": "Aumenta a Vida Máx. em 10% e o Foco Máx. em 10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805220": {
   "ch": "增加15%体力上限，15%念力上限",
   "en": "Increases Max Vitality by 15%, Max Focus by 15%",
-  "pt": "Aumenta a Vitalidade Máx. em 15% e o Foco Máx. em 15%",
+  "pt": "Aumenta a Vida Máx. em 15% e o Foco Máx. em 15%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805221": {
@@ -3692,7 +3692,7 @@
  "role_feature_postnatal_tips8805226": {
   "ch": "体力上限-20%",
   "en": "Max Vitality -20%",
-  "pt": "Vitalidade Máx. -20%",
+  "pt": "Vida Máx. -20%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805227": {
@@ -3716,61 +3716,61 @@
  "role_feature_postnatal_tips8805300": {
   "ch": "增加10%体力上限，10%念力上限",
   "en": "Increases Max Vitality by 10%, Max Focus by 10%",
-  "pt": "Aumenta a Vitalidade Máx. em 10% e o Foco Máx. em 10%",
+  "pt": "Aumenta a Vida Máx. em 10% e o Foco Máx. em 10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805301": {
   "ch": "增加15%体力上限，15%念力上限",
   "en": "Increases Max Vitality by 15%, Max Focus by 15%",
-  "pt": "Aumenta a Vitalidade Máx. em 15% e o Foco Máx. em 15%",
+  "pt": "Aumenta a Vida Máx. em 15% e o Foco Máx. em 15%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805350": {
   "ch": "你吸入冥气，致身体受损，体力最大值-15%，灵力最大值-15%，精力及健康最大值-15",
   "en": "You have taken in Nether Air which harmed your body. Max Vitality -15%, Max Energy -15%, Max Stamina and Max Health -15.",
-  "pt": "Você absorveu Ar do Submundo, que prejudicou seu corpo. Vitalidade Máx. -15%, Energia Máx. -15%, Vigor Máx. e Saúde Máx. -15.",
+  "pt": "Você absorveu Ar do Submundo, que prejudicou seu corpo. Vida Máx. -15%, Energia Máx. -15%, Vigor Máx. e Saúde Máx. -15.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805351": {
   "ch": "你吸入冥气，致身体受损，体力最大值-10%，灵力最大值-10%，精力及健康最大值-5",
   "en": "You have taken in Nether Air which harmed your body. Max Vitality -10%, Max Energy -10%, Max Stamina and Max Health -5.",
-  "pt": "Você absorveu Ar do Submundo, que prejudicou seu corpo. Vitalidade Máx. -10%, Energia Máx. -10%, Vigor Máx. e Saúde Máx. -5.",
+  "pt": "Você absorveu Ar do Submundo, que prejudicou seu corpo. Vida Máx. -10%, Energia Máx. -10%, Vigor Máx. e Saúde Máx. -5.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805352": {
   "ch": "你吸入冥气，致身体受损，体力最大值-5%，灵力最大值-5%",
   "en": "You inhaled Nether Air, causing damage to your body. Max Vitality -5%, max Energy -5%.",
-  "pt": "Você inalou Ar do Submundo, causando danos ao seu corpo. Vitalidade Máx. -5%, Energia Máx. -5%.",
+  "pt": "Você inalou Ar do Submundo, causando danos ao seu corpo. Vida Máx. -5%, Energia Máx. -5%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805353": {
   "ch": "体力最大值+15%；灵力最大值+10%",
   "en": "Max Vitality +15%, Max Energy +10%",
-  "pt": "Vitalidade Máx. +15%, Energia Máx. +10%",
+  "pt": "Vida Máx. +15%, Energia Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805354": {
   "ch": "体力最大值+15%；念力最大值+10%",
   "en": "Max Vitality +15%, Max Focus +10%",
-  "pt": "Vitalidade Máx. +15%, Foco Máx. +10%",
+  "pt": "Vida Máx. +15%, Foco Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805355": {
   "ch": "盟主向令钧给你施加可以辟除冥气的护体灵烟。体力上限+10%",
   "en": "Alliance Master Xiang Lingjun applied a protective smoke to you that can repel the Nether Air. Max Vitality +10%.",
-  "pt": "O Mestre da Aliança Xiang Lingjun aplicou em você uma fumaça protetora capaz de repelir o Ar do Submundo. Vitalidade Máx. +10%.",
+  "pt": "O Mestre da Aliança Xiang Lingjun aplicou em você uma fumaça protetora capaz de repelir o Ar do Submundo. Vida Máx. +10%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805356": {
   "ch": "体力上限+5%",
   "en": "Max Vitality +5%",
-  "pt": "Vitalidade Máx. +5%",
+  "pt": "Vida Máx. +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805357": {
   "ch": "体力上限+6%，灵力上限+5%",
   "en": "Max Vitality +6%, Max Energy +5%",
-  "pt": "Vitalidade Máx. +6%, Energia Máx. +5%",
+  "pt": "Vida Máx. +6%, Energia Máx. +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805358": {
@@ -3782,25 +3782,25 @@
  "role_feature_postnatal_tips8805359": {
   "ch": "体力上限降低25%，灵力上限降低35%",
   "en": "Max Vitality -25%, Max Energy -35%",
-  "pt": "Vitalidade Máx. -25%, Energia Máx. -35%",
+  "pt": "Vida Máx. -25%, Energia Máx. -35%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805360": {
   "ch": "体力上限增加5%，灵力上限增加10%",
   "en": "Max Vitality +5%, Max Energy +10%",
-  "pt": "Vitalidade Máx. +5%, Energia Máx. +10%",
+  "pt": "Vida Máx. +5%, Energia Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805361": {
   "ch": "体力上限增加5%，灵力上限增加3%",
   "en": "Max Vitality +5%, Max Energy +3%",
-  "pt": "Vitalidade Máx. +5%, Energia Máx. +3%",
+  "pt": "Vida Máx. +5%, Energia Máx. +3%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805362": {
   "ch": "体力上限增加3%，灵力上限增加2%",
   "en": "Max Vitality +3%, Max Energy +2%",
-  "pt": "Vitalidade Máx. +3%, Energia Máx. +2%",
+  "pt": "Vida Máx. +3%, Energia Máx. +2%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805363": {
@@ -3812,37 +3812,37 @@
  "role_feature_postnatal_tips8805500": {
   "ch": "体力上限+2%；怀有该气运时进行突破能获得炼丹师特殊逆天改命。",
   "en": "Max Vitality +2%. If you make Breakthrough while owning this Destiny, you will unlock special Rewrite Destiny options for an alchemist.",
-  "pt": "Vitalidade Máx. +2%. Se você fizer um Avanço possuindo este Destino, desbloqueará opções especiais de Reescrever o Destino para um alquimista.",
+  "pt": "Vida Máx. +2%. Se você fizer um Avanço possuindo este Destino, desbloqueará opções especiais de Reescrever o Destino para um alquimista.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805501": {
   "ch": "体力上限-2%",
   "en": "Max Vitality -2%",
-  "pt": "Vitalidade Máx. -2%",
+  "pt": "Vida Máx. -2%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805505": {
   "ch": "体力上限+3%",
   "en": "Max Vitality +3%",
-  "pt": "Vitalidade Máx. +3%",
+  "pt": "Vida Máx. +3%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805506": {
   "ch": "体力上限+5%，灵力上限+3%",
   "en": "Max Vitality +5%, Max Energy +3%",
-  "pt": "Vitalidade Máx. +5%, Energia Máx. +3%",
+  "pt": "Vida Máx. +5%, Energia Máx. +3%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805510": {
   "ch": "体力上限+5%",
   "en": "Max Vitality +5%",
-  "pt": "Vitalidade Máx. +5%",
+  "pt": "Vida Máx. +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805511": {
   "ch": "体力上限增加15%，灵力上限增加10%，持续12个月；",
   "en": "Max Vitality +15%, Max Energy +10%. Effective for 12 months.",
-  "pt": "Vitalidade Máx. +15%, Energia Máx. +10%. Efeito por 12 meses.",
+  "pt": "Vida Máx. +15%, Energia Máx. +10%. Efeito por 12 meses.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805550": {
@@ -3854,13 +3854,13 @@
  "role_feature_postnatal_tips8805553": {
   "ch": "你于大冶台中遭受阳炎冷电交相侵袭，体内因此激发了某种潜能。你全身暖流迸涌，舒适不已。\n体力上限增加5%",
   "en": "You endured the trial of elements in the Supreme Forge, and your potential was activated. A lively warm flow is circulating in your body.\nMax Vitality increased by 5%",
-  "pt": "Você suportou a provação dos elementos na Forja Suprema e seu potencial foi ativado. Um fluxo caloroso e vivo circula pelo seu corpo.\nVitalidade Máx. aumentada em 5%",
+  "pt": "Você suportou a provação dos elementos na Forja Suprema e seu potencial foi ativado. Um fluxo caloroso e vivo circula pelo seu corpo.\nVida Máx. aumentada em 5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8805554": {
   "ch": "你与身怀阳炎之人切磋，其体内异气亦随交手之际度入尔体。你因此感觉浑身通泰。\n体力上限增加5%",
   "en": "You had a spar with someone and felt the exotic, hearty flame in your opponent's body, which warmed you from head to toe.\nMax Vitality increased by 5%",
-  "pt": "Você duelou com alguém e sentiu a chama exótica e vigorosa no corpo do oponente, que o aqueceu da cabeça aos pés.\nVitalidade Máx. aumentada em 5%",
+  "pt": "Você duelou com alguém e sentiu a chama exótica e vigorosa no corpo do oponente, que o aqueceu da cabeça aos pés.\nVida Máx. aumentada em 5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8812021": {
@@ -3944,13 +3944,13 @@
  "role_feature_postnatal_tips8813111": {
   "ch": "体力上限+15%，灵力上限-15%",
   "en": "Max Vitality +15%, Max Energy -15%",
-  "pt": "Vitalidade Máx. +15%, Energia Máx. -15%",
+  "pt": "Vida Máx. +15%, Energia Máx. -15%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8813121": {
   "ch": "体力上限-15%，灵力上限+15%",
   "en": "Max Vitality -15%, Max Energy +15%",
-  "pt": "Vitalidade Máx. -15%, Energia Máx. +15%",
+  "pt": "Vida Máx. -15%, Energia Máx. +15%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips8813131": {
@@ -4304,37 +4304,37 @@
  "role_feature_postnatal_tips9021": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复400点体力的灵果",
   "en": "Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 400 Vitality.",
-  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 400 de Vitalidade.",
+  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 400 de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9022": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复800点体力的灵果",
   "en": "Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 800 Vitality.",
-  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 800 de Vitalidade.",
+  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 800 de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9023": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复1200点体力的灵果",
   "en": "Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 1200 Vitality.",
-  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 1200 de Vitalidade.",
+  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 1200 de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9024": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复1600点体力的灵果",
   "en": "Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 1600 Vitality.",
-  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 1600 de Vitalidade.",
+  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 1600 de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9025": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复2000点体力的灵果",
   "en": "Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 2000 Vitality.",
-  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 2000 de Vitalidade.",
+  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 2000 de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9026": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复2400点体力的灵果",
   "en": "Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 2400 Vitality.",
-  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 2400 de Vitalidade.",
+  "pt": "Cada monstro morto tem 2% de chance de largar um Fruto Espiritual que recupera 2400 de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9031": {
@@ -4412,37 +4412,37 @@
  "role_feature_postnatal_tips9051": {
   "ch": "每次获得新的恩赐时，将回复250点的体力、灵力、念力",
   "en": "Every time you receive a new blessing, you'll recover 250 Vitality, Energy, and Focus.",
-  "pt": "Toda vez que você receber uma nova bênção, recuperará 250 de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você receber uma nova bênção, recuperará 250 de Vida, Energia e Foco.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9052": {
   "ch": "每次获得新的恩赐时，将回复500点的体力、灵力、念力",
   "en": "Every time you receive a new blessing, you'll recover 500 Vitality, Energy, and Focus.",
-  "pt": "Toda vez que você receber uma nova bênção, recuperará 500 de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você receber uma nova bênção, recuperará 500 de Vida, Energia e Foco.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9053": {
   "ch": "每次获得新的恩赐时，将回复750点的体力、灵力、念力",
   "en": "Every time you receive a new blessing, you'll recover 750 Vitality, Energy, and Focus.",
-  "pt": "Toda vez que você receber uma nova bênção, recuperará 750 de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você receber uma nova bênção, recuperará 750 de Vida, Energia e Foco.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9054": {
   "ch": "每次获得新的恩赐时，将回复1000点的体力、灵力、念力",
   "en": "Every time you receive a new blessing, you'll recover 1000 Vitality, Energy, and Focus.",
-  "pt": "Toda vez que você receber uma nova bênção, recuperará 1000 de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você receber uma nova bênção, recuperará 1000 de Vida, Energia e Foco.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9055": {
   "ch": "每次获得新的恩赐时，将回复1250点的体力、灵力、念力",
   "en": "Every time you receive a new blessing, you'll recover 1250 Vitality, Energy, and Focus.",
-  "pt": "Toda vez que você receber uma nova bênção, recuperará 1250 de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você receber uma nova bênção, recuperará 1250 de Vida, Energia e Foco.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9056": {
   "ch": "每次获得新的恩赐时，将回复1500点的体力、灵力、念力",
   "en": "Every time you receive a new blessing, you'll recover 1500 Vitality, Energy, and Focus.",
-  "pt": "Toda vez que você receber uma nova bênção, recuperará 1500 de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você receber uma nova bênção, recuperará 1500 de Vida, Energia e Foco.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9061": {
@@ -4520,37 +4520,37 @@
  "role_feature_postnatal_tips9081": {
   "ch": "每次使用身法时，可获得200点护盾，持续5秒",
   "en": "Every time you use a Motion Skill, you'll receive a shield with 200 Vitality. The shield lasts 5s.",
-  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 200 de Vitalidade. O escudo dura 5s.",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 200 de Vida. O escudo dura 5s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9082": {
   "ch": "每次使用身法时，可获得400点护盾，持续5秒",
   "en": "Every time you use a Motion Skill, you'll receive a shield with 400 Vitality. The shield lasts 5s.",
-  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 400 de Vitalidade. O escudo dura 5s.",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 400 de Vida. O escudo dura 5s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9083": {
   "ch": "每次使用身法时，可获得600点护盾，持续5秒",
   "en": "Every time you use a Motion Skill, you'll receive a shield with 600 Vitality. The shield lasts 5s.",
-  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 600 de Vitalidade. O escudo dura 5s.",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 600 de Vida. O escudo dura 5s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9084": {
   "ch": "每次使用身法时，可获得800点护盾，持续5秒",
   "en": "Every time you use a Motion Skill, you'll receive a shield with 800 Vitality. The shield lasts 5s.",
-  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 800 de Vitalidade. O escudo dura 5s.",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 800 de Vida. O escudo dura 5s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9085": {
   "ch": "每次使用身法时，可获得1000点护盾，持续5秒",
   "en": "Every time you use a Motion Skill, you'll receive a shield with 1000 Vitality. The shield lasts 5s.",
-  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 1000 de Vitalidade. O escudo dura 5s.",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 1000 de Vida. O escudo dura 5s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9086": {
   "ch": "每次使用身法时，可获得1200点护盾，持续5秒",
   "en": "Every time you use a Motion Skill, you'll receive a shield with 1200 Vitality. The shield lasts 5s.",
-  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 1200 de Vitalidade. O escudo dura 5s.",
+  "pt": "Toda vez que você usar uma Técnica de Movimento, receberá um escudo com 1200 de Vida. O escudo dura 5s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9091": {
@@ -4766,7 +4766,7 @@
  "role_feature_postnatal_tips9114": {
   "ch": "每月减少10%现有体力",
   "en": "10% of your current Vitality is reduced every month.",
-  "pt": "10% da sua Vitalidade atual é reduzida a cada mês.",
+  "pt": "10% da sua Vida atual é reduzida a cada mês.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9115": {
@@ -4778,13 +4778,13 @@
  "role_feature_postnatal_tips9116": {
   "ch": "减少15%体力上限",
   "en": "Max Vitality -15%",
-  "pt": "Vitalidade Máx. -15%",
+  "pt": "Vida Máx. -15%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9117": {
   "ch": "增加10点幸运，且每月恢复10%体力和健康。",
   "en": "Luck +10. 10% of Vitality and Health are recovered every month.",
-  "pt": "Sorte +10. 10% de Vitalidade e Saúde são recuperados a cada mês.",
+  "pt": "Sorte +10. 10% de Vida e Saúde são recuperados a cada mês.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9118": {
@@ -4904,7 +4904,7 @@
  "role_feature_postnatal_tips9148": {
   "ch": "减少10%体力上限和灵力上限",
   "en": "Max Vitality and Max Energy -10%",
-  "pt": "Vitalidade Máx. e Energia Máx. -10%",
+  "pt": "Vida Máx. e Energia Máx. -10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9150": {
@@ -4934,7 +4934,7 @@
  "role_feature_postnatal_tips9154": {
   "ch": "增加5%体力和10%会心",
   "en": "Vitality +5%, Crit +10%",
-  "pt": "Vitalidade +5%, Chance Crítica +10%",
+  "pt": "Vida +5%, Chance Crítica +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9155": {
@@ -4964,13 +4964,13 @@
  "role_feature_postnatal_tips9159": {
   "ch": "增加体力上限5%",
   "en": "Max Vitality +5%",
-  "pt": "Vitalidade Máx. +5%",
+  "pt": "Vida Máx. +5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9160": {
   "ch": "降低5%体力上限",
   "en": "Max Vitality -5%",
-  "pt": "Vitalidade Máx. -5%",
+  "pt": "Vida Máx. -5%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9162": {
@@ -5126,7 +5126,7 @@
  "role_feature_postnatal_tips9200004": {
   "ch": "每月体力、灵力、念力下降50%，",
   "en": "Monthly Vitality, Energy, and Focus decreased by 50%",
-  "pt": "Vitalidade, Energia e Foco mensais reduzidos em 50%",
+  "pt": "Vida, Energia e Foco mensais reduzidos em 50%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9200006": {
@@ -5222,7 +5222,7 @@
  "role_feature_postnatal_tips9200112": {
   "ch": "来自仙人的恩赐，最大体力上限增加10%",
   "en": "A blessing from an immortal. Max Vitality +10%",
-  "pt": "Uma bênção de um imortal. Vitalidade Máx. +10%",
+  "pt": "Uma bênção de um imortal. Vida Máx. +10%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9200113": {
@@ -5426,7 +5426,7 @@
  "role_feature_postnatal_tips9202081": {
   "ch": "人面鸮凝结之息,体力回复提升10%。",
   "en": "Condensed Harpy's Breath. Vitality Recovery +10%.",
-  "pt": "Sopro Condensado de Harpia. Recuperação de Vitalidade +10%.",
+  "pt": "Sopro Condensado de Harpia. Recuperação de Vida +10%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9202082": {
@@ -5462,7 +5462,7 @@
  "role_feature_postnatal_tips9202111": {
   "ch": "长右凝结之息,体力回复提升10%。",
   "en": "Condensed Fel Vermin's Breath. Vitality Recovery +10%.",
-  "pt": "Sopro Condensado de Verme Fel. Recuperação de Vitalidade +10%.",
+  "pt": "Sopro Condensado de Verme Fel. Recuperação de Vida +10%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9202112": {
@@ -5516,7 +5516,7 @@
  "role_feature_postnatal_tips9202152": {
   "ch": "梼杌凝结之息,最大体力上限提升10%。",
   "en": "Condensed Taowu's Breath. Max Vitality +10%.",
-  "pt": "Sopro Condensado de Taowu. Vitalidade Máx. +10%.",
+  "pt": "Sopro Condensado de Taowu. Vida Máx. +10%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "role_feature_postnatal_tips9202162": {

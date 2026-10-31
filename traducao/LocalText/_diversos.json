@@ -156,7 +156,7 @@
  "BattleEffectDesc71211": {
   "ch": "每&7121_hfjg&秒回复&7121_hftl&%的体力",
   "en": "Recover &7121_hftl&% Vitality every &7121_hfjg&s",
-  "pt": "Recupera &7121_hftl&% de Vitalidade a cada &7121_hfjg& segundos",
+  "pt": "Recupera &7121_hftl&% de Vida a cada &7121_hfjg& segundos",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "BattleEffectDesc712201": {
@@ -282,7 +282,7 @@
  "BattleEffectDesc736403": {
   "ch": "每&736401_hljg&秒回复&736401_hlbl&%的体力",
   "en": "Recover &736401_hlbl&% Vitality every &736401_hljg&s",
-  "pt": "Recupera &736401_hlbl&% de Vitalidade a cada &736401_hljg& segundos",
+  "pt": "Recupera &736401_hlbl&% de Vida a cada &736401_hljg& segundos",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "BattleEffectDesc73711": {
@@ -360,7 +360,7 @@
  "BattleEffectDesc766204": {
   "ch": "每&766201_hljg&秒回复&766201_hlbl&%的体力",
   "en": "Recover &766201_hlbl&% Vitality every &766201_hljg&s",
-  "pt": "Recupera &766201_hlbl&% de Vitalidade a cada &766201_hljg& segundos",
+  "pt": "Recupera &766201_hlbl&% de Vida a cada &766201_hljg& segundos",
   "auto": "cohere/command-a-vision-07-2025"
  },
  "BattleEffectDesc766211": {
@@ -1114,7 +1114,7 @@
  "GodEyeSkills_51521": {
   "ch": "食用了蘑菇的召唤物会进入气沉丹田状态，&51522_jhjg&秒后会在自身位置生成一个天然精粹。修仙者在拾取了天然精粹后，可回复&51522_hftl&%的最大体力与&51522_hfll&%的最大灵力。",
   "en": "The summoned creature that consumes the mushroom will enter a Qi Sinking Dantian state and generate a Natural Essence after &51522_jhjg&s. After the Cultivator picks up the Natural Essence, &51522_hftl&% of max Vitality and &51522_hfll&% of max Energy are recovered.",
-  "pt": "A criatura invocada que consumir o cogumelo entrará no estado de Qi Afundando no Dantian e gerará uma Essência Natural após &51522_jhjg&s. Após o Cultivador pegar a Essência Natural, &51522_hftl&% da Vitalidade máx. e &51522_hfll&% da Energia máx. são recuperados.",
+  "pt": "A criatura invocada que consumir o cogumelo entrará no estado de Qi Afundando no Dantian e gerará uma Essência Natural após &51522_jhjg&s. Após o Cultivador pegar a Essência Natural, &51522_hftl&% da Vida máx. e &51522_hfll&% da Energia máx. são recuperados.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7051": {
@@ -1150,7 +1150,7 @@
  "GodEyeSkills_7121": {
   "ch": "此技能每命中一个敌人，自身获得每&7121_hfjg&秒回复&7121_hftl&%的体力的效果，持续&7121_hfsj&秒。此技能每额外命中一个敌人，都会延长该效果的持续时间。",
   "en": "For every enemy hit by this Skill, you recover &7121_hftl&% Vitality every &7121_hfjg&s for &7121_hfsj&s. Each additional enemy hit by this Skill extends the duration of this effect.",
-  "pt": "Para cada inimigo atingido por esta habilidade, você recupera &7121_hftl&% de Vitalidade a cada &7121_hfjg&s por &7121_hfsj&s. Cada inimigo adicional atingido por esta habilidade estende a duração deste efeito.",
+  "pt": "Para cada inimigo atingido por esta habilidade, você recupera &7121_hftl&% de Vida a cada &7121_hfjg&s por &7121_hfsj&s. Cada inimigo adicional atingido por esta habilidade estende a duração deste efeito.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7122": {
@@ -1186,7 +1186,7 @@
  "GodEyeSkills_71541": {
   "ch": "此技能击杀了至少一个敌人时，获得一个护盾，护盾的值为自身最大体力的&71541_hdhd&%。",
   "en": "When this Skill kills at least one enemy, you gain a shield that is &71541_hdhd&% of your max Vitality.",
-  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &71541_hdhd&% da sua Vitalidade máx..",
+  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &71541_hdhd&% da sua Vida máx..",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7162": {
@@ -1210,7 +1210,7 @@
  "GodEyeSkills_7203": {
   "ch": "此技能击杀了至少一个敌人时，获得一个护盾，护盾的值为自身最大体力的&7203_hdhd&%。",
   "en": "When this skill kills at least one enemy, you gain a shield that is &7203_hdhd&% of your max Vitality.",
-  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &7203_hdhd&% da sua Vitalidade Máx.",
+  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &7203_hdhd&% da sua Vida Máx.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7204": {
@@ -1234,7 +1234,7 @@
  "GodEyeSkills_72131": {
   "ch": "此技能击杀了至少一个敌人时，获得一个护盾，护盾的值为自身最大体力的&72131_hdhd&%。",
   "en": "When this Skill kills at least one enemy, you gain a shield that is &72131_hdhd&% of your max Vitality.",
-  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &72131_hdhd&% da sua Vitalidade Máx.",
+  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &72131_hdhd&% da sua Vida Máx.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_72141": {
@@ -1276,7 +1276,7 @@
  "GodEyeSkills_7313": {
   "ch": "被此技能击杀的怪物有概率会掉落烤肉，拾取烤肉时可回复&731301_krtl&%的最大体力。",
   "en": "Monsters killed by this Skill have a chance of dropping grilled meat. You can recover &731301_krtl&% of your max Vitality when you pick up the grilled meat.",
-  "pt": "Monstros mortos por esta Habilidade têm uma chance de soltar carne assada. Você pode recuperar &731301_krtl&% da sua Vitalidade máx. quando pegar a carne assada.",
+  "pt": "Monstros mortos por esta Habilidade têm uma chance de soltar carne assada. Você pode recuperar &731301_krtl&% da sua Vida máx. quando pegar a carne assada.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7321": {
@@ -1354,7 +1354,7 @@
  "GodEyeSkills_7364": {
   "ch": "此技能每命中一个敌人，自身获得每&736401_hljg&秒回复&736401_hlbl&%的体力的效果，持续&736401_hlsj&秒。此技能每额外命中一个敌人，都会延长该效果的持续时间。",
   "en": "For every enemy hit by this Skill, you recover &736401_hlbl&% Vitality every &736401_hljg&s for &736401_hljg&s. Each additional enemy hit by this Skill extends the duration of this effect.",
-  "pt": "Para cada inimigo atingido por esta habilidade, você recupera &736401_hlbl&% de Vitalidade a cada &736401_hljg& segundos por &736401_hljg& segundos. Cada inimigo adicional atingido por esta habilidade estende a duração deste efeito.",
+  "pt": "Para cada inimigo atingido por esta habilidade, você recupera &736401_hlbl&% de Vida a cada &736401_hljg& segundos por &736401_hljg& segundos. Cada inimigo adicional atingido por esta habilidade estende a duração deste efeito.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7373": {
@@ -1366,7 +1366,7 @@
  "GodEyeSkills_7374": {
   "ch": "此技能击杀了至少一个敌人时，获得一个护盾，护盾的值为自身最大体力的&7374_hdhd&%。",
   "en": "When this Skill kills at least one enemy, you gain a shield that is &7374_hdhd&% of your max Vitality.",
-  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &7374_hdhd&% da sua Vitalidade máx..",
+  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &7374_hdhd&% da sua Vida máx..",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7381": {
@@ -1408,7 +1408,7 @@
  "GodEyeSkills_7551": {
   "ch": "此技能击杀了至少一个敌人时，获得一个护盾，护盾的值为自身最大体力的&755101_hdtl&%。",
   "en": "When this Skill kills at least one enemy, you gain a shield that is &755101_hdtl&% of your max Vitality.",
-  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &755101_hdtl&% da sua Vitalidade máx..",
+  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &755101_hdtl&% da sua Vida máx..",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7552": {
@@ -1450,7 +1450,7 @@
  "GodEyeSkills_7574": {
   "ch": "此技能击杀了至少一个敌人时，获得一个护盾，护盾的值为自身最大体力的&757401_hdtl&%。",
   "en": "When this skill kills at least one enemy, you gain a shield that is &757401_hdtl&% of your max Vitality.",
-  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &757401_hdtl&% da sua Vitalidade máx..",
+  "pt": "Quando esta habilidade mata pelo menos um inimigo, você ganha um escudo que é &757401_hdtl&% da sua Vida máx..",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7582": {
@@ -1474,7 +1474,7 @@
  "GodEyeSkills_7662": {
   "ch": "此技能命中敌人时，自身获得每&766201_hljg&秒回复&766201_hlbl&%的体力的效果，持续&766201_hlsj&秒。在回复效果的持续时间内，此技能每命中敌人&766201_shcs&次，都会额外延长回复效果的持续时间&766201_ycsj&秒。",
   "en": "When this skill hits the enemy, every &766201_hljg&s, you recover &766201_hlbl&% Vitality and for &766201_hlsj&s. During the duration of the recovery, when this skill hits an enemy &766201_shcs& times, it extends the duration of the recovery effect by an additional &766201_ycsj&s.",
-  "pt": "Quando esta habilidade atinge o inimigo, a cada &766201_hljg& segundos, você recupera &766201_hlbl&% de Vitalidade por &766201_hlsj& segundos. Durante a duração da recuperação, quando esta habilidade atinge um inimigo &766201_shcs& vezes, ela estende a duração do efeito de recuperação por mais &766201_ycsj& segundos.",
+  "pt": "Quando esta habilidade atinge o inimigo, a cada &766201_hljg& segundos, você recupera &766201_hlbl&% de Vida por &766201_hlsj& segundos. Durante a duração da recuperação, quando esta habilidade atinge um inimigo &766201_shcs& vezes, ela estende a duração do efeito de recuperação por mais &766201_ycsj& segundos.",
   "auto": "nuvem/revisao-prioridade"
  },
  "GodEyeSkills_7671": {
@@ -1684,7 +1684,7 @@
  "ImmortalMethod_desc3000": {
   "ch": "召唤一个从天而降的蘑菇砸击全场，对敌人造成威力&710003_zmgwl&的伤害，然后喷射&710003_jcbzsl&个孢子，孢子降落后会长成所有友方单位均可食用的可食用蘑菇，回复食用者&710003_cmghfbl&%的体力。同时会在全屏生成一个持续&710003_cmsj&秒的<o>菌膜</o>。",
   "en": "Summon a huge mushroom falling from the sky, dealing &710003_zmgwl& damage to enemies, and spread &710003_jcbzsl& spores around. The spores will fall to the ground and grow into mushrooms edible to all allied units, and eating the mushroom will recover &710003_cmghfbl&% Vitality. Meanwhile, the Art will also generate a full-screen <o>Fungus Film</o>, lasting for &710003_cmsj&s.",
-  "pt": "Invocar um enorme cogumelo caindo do céu, causando dano &710003_zmgwl& aos inimigos e espalhando &710003_jcbzsl& esporos ao redor. Os esporos cairão no chão e crescerão em cogumelos comestíveis para todas as unidades aliadas, e comer o cogumelo recuperará &710003_cmghfbl&% de Vitalidade. Enquanto isso, a Arte também gerará um <o>Filme de Fungos</o> em toda a tela, durando por &710003_cmsj&s.",
+  "pt": "Invocar um enorme cogumelo caindo do céu, causando dano &710003_zmgwl& aos inimigos e espalhando &710003_jcbzsl& esporos ao redor. Os esporos cairão no chão e crescerão em cogumelos comestíveis para todas as unidades aliadas, e comer o cogumelo recuperará &710003_cmghfbl&% de Vida. Enquanto isso, a Arte também gerará um <o>Filme de Fungos</o> em toda a tela, durando por &710003_cmsj&s.",
   "auto": "nuvem/revisao-prioridade"
  },
  "ImmortalMethod_desc4000": {
@@ -1762,7 +1762,7 @@
  "ImmortalMethod_specialEffectDesc1000": {
   "ch": "<o>斩魂</o>\n剑斩会斩开敌人的灵魂，持续&710001_lhsj&秒。\n灵魂继承本体&710001_lhtlbl&%的最大体力和全部技能，灵魂消失时对本体造成损失体力的伤害。\n仙法对仙人的伤害&810018_dxsh|-10000|f0&%\n仙法对冥妖的伤害&810019_dysh|-10000|f0&%",
   "en": "<o>Soulslash</o>\nThe slash of the sword will also cut a part of the enemy's soul away for &710001_lhsj&s. \nThe soul will have a Vitality equal to &710001_lhtlbl&% Max Vitality of its owner and can use all skills of them. Upon vanishing, the soul will deal damage equal to its lost Vitality to its owner.\nThe Heavenly Art deals &810018_dxsh|-10000|f0&% damage to Immortals\nThe Heavenly Art deals &810019_dysh|-10000|f0&% damage to Nether Demons",
-  "pt": "<o>Corte da Alma</o>\nO golpe da espada também cortará uma parte da alma do inimigo por &710001_lhsj&s.\nA alma terá uma Vitalidade igual a &710001_lhtlbl&% da Vitalidade Máx. de seu proprietário e poderá usar todas as habilidades dele. Ao desaparecer, a alma causará dano igual à sua Vitalidade perdida ao seu proprietário.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
+  "pt": "<o>Corte da Alma</o>\nO golpe da espada também cortará uma parte da alma do inimigo por &710001_lhsj&s.\nA alma terá uma Vida igual a &710001_lhtlbl&% da Vida Máx. de seu proprietário e poderá usar todas as habilidades dele. Ao desaparecer, a alma causará dano igual à sua Vida perdida ao seu proprietário.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
   "auto": "nuvem/revisao-prioridade"
  },
  "ImmortalMethod_specialEffectDesc10000": {
@@ -1792,7 +1792,7 @@
  "ImmortalMethod_specialEffectDesc5000": {
   "ch": "<o>乐仙仙力</o>\n释放神通时，会召唤乐仙的分身对血量最高的目标进行一次飞踢攻击造成伤害，冷却时间&710005_ftCD&秒。\n飞踢击中敌人后会在原地每秒产生&710005_ybsl&个音波，持续&710005_sfybsj&秒，影响&710005_ybbzfw&范围内的单位。\n音波对波及的敌方单位造成威力&710005_ybwl&的伤害，并使其处于敌我不分的状态，持续&710005_hlsj&秒。\n音波使波及的友方单位，移动速度提升&710005_tsysbl&%，武技冷却&710005_lqjdbl&%，最大可叠加&710005_ybcs&层，持续&710005_ybcxsj&秒。\n仙法对仙人的伤害&810018_dxsh|-10000|f0&%\n仙法对冥妖的伤害&810019_dysh|-10000|f0&%",
   "en": "<o>Music Immortal's Power</o>\nWhen casting Ultimate Skill, a clone of the Music Immortal will be summoned onto the battlefield to issue a kick on the target with the highest HP, dealing damage to it. Cooldown for the kick: &710005_ftCD&s.\nAfter hitting the enemy, the kick will generate &710005_ybsl& sound waves every second on its location. The sound waves last for &710005_sfybsj&s, and will affect units within &710005_ybbzfw& range.\nThe sound waves will deal &710005_ybwl& damage to enemies hit, and Confuse them for &710005_hlsj&s.\nThe sound waves will increase the Agility of the affected allied units by &710005_tsysbl&%, and decrease their cooldown of Martial Skills by &710005_lqjdbl&%. Allied effects are stackable for max &710005_ybcs& layers, lasting for &710005_ybcxsj&s.\nThe Heavenly Art deals &810018_dxsh|-10000|f0&% damage to Immortals\nThe Heavenly Art deals &810019_dysh|-10000|f0&% damage to Nether Demons",
-  "pt": "<o>Poder do Imortal da Música</o>\nAo lançar a Técnica Suprema, um clone do Imortal da Música será convocado ao campo de batalha para emitir um chute no alvo com a maior Vitalidade, causando dano a ele. Tempo de recarga para o chute: &710005_ftCD& segundos.\nDepois de acertar o inimigo, o chute gerará &710005_ybsl& ondas sonoras a cada segundo em sua localização. As ondas sonoras duram por &710005_sfybsj& segundos e afetarão unidades dentro de um alcance de &710005_ybbzfw&.\nAs ondas sonoras causarão &710005_ybwl& de dano aos inimigos atingidos e os deixarão Confusos por &710005_hlsj& segundos.\nAs ondas sonoras aumentarão a Agilidade das unidades aliadas afetadas em &710005_tsysbl&% e diminuirão o tempo de recarga das suas Técnicas Marciais em &710005_lqjdbl&%. Os efeitos aliados são acumuláveis até um máximo de &710005_ybcs& camadas, durando por &710005_ybcxsj& segundos.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
+  "pt": "<o>Poder do Imortal da Música</o>\nAo lançar a Técnica Suprema, um clone do Imortal da Música será convocado ao campo de batalha para emitir um chute no alvo com a maior Vida, causando dano a ele. Tempo de recarga para o chute: &710005_ftCD& segundos.\nDepois de acertar o inimigo, o chute gerará &710005_ybsl& ondas sonoras a cada segundo em sua localização. As ondas sonoras duram por &710005_sfybsj& segundos e afetarão unidades dentro de um alcance de &710005_ybbzfw&.\nAs ondas sonoras causarão &710005_ybwl& de dano aos inimigos atingidos e os deixarão Confusos por &710005_hlsj& segundos.\nAs ondas sonoras aumentarão a Agilidade das unidades aliadas afetadas em &710005_tsysbl&% e diminuirão o tempo de recarga das suas Técnicas Marciais em &710005_lqjdbl&%. Os efeitos aliados são acumuláveis até um máximo de &710005_ybcs& camadas, durando por &710005_ybcxsj& segundos.\nA Arte Imortal causa &810018_dxsh|-10000|f0&% de dano aos Imortais\nA Arte Imortal causa &810019_dysh|-10000|f0&% de dano aos Demônios do Submundo",
   "auto": "nuvem/revisao-prioridade"
  },
  "ImmortalMethod_specialEffectDesc6000": {
@@ -3951,7 +3951,7 @@
  "ability_desc_effect2001": {
   "ch": "装备后可获得以下属性\n    体力上限：&2001_tili&",
   "en": "Equip to get the stat below\n    Max Vitality: &2001_tili&",
-  "pt": "Equipar para obter o seguinte atributo\n    Vitalidade Máx.: &2001_tili&",
+  "pt": "Equipar para obter o seguinte atributo\n    Vida Máx.: &2001_tili&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "ability_desc_effect3001": {
@@ -5647,7 +5647,7 @@
  "battleEnd_text13": {
   "ch": "在战斗中每受到10%的体力伤害，则会降低1点健康。",
   "en": "For every 10% of Vitality lost in battle, 1 Health will be reduced.",
-  "pt": "Para cada 10% de Vitalidade perdida em batalha, 1 Saúde será reduzida.",
+  "pt": "Para cada 10% de Vida perdida em batalha, 1 Saúde será reduzida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleEnd_text14": {
@@ -8970,7 +8970,7 @@
  "danyaojiemiantilitishi": {
   "ch": "点击丹药回复体力",
   "en": "Click an Elixir to recover Vitality",
-  "pt": "Clique em um Elixir para recuperar a Vitalidade.",
+  "pt": "Clique em um Elixir para recuperar a Vida.",
   "auto": "local/hy-mt2"
  },
  "daohao_beitiaozhantishi": {
@@ -9373,31 +9373,31 @@
  "diffDescribe1": {
   "ch": "怪物体力伤害一般",
   "en": "Normal enemy Vitality and Damage.",
-  "pt": "Vitalidade e Dano normais dos inimigos.",
+  "pt": "Vida e Dano normais dos inimigos.",
   "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffDescribe2": {
   "ch": "怪物体力伤害有所提升\n<r>开始出现特殊的精英怪！</r>",
   "en": "Increased enemy Vitality and Damage.\n<r>Elite enemies will spawn.</r>",
-  "pt": "Vitalidade e Dano dos inimigos aumentados.\n<r>Surgem inimigos de elite.</r>",
+  "pt": "Vida e Dano dos inimigos aumentados.\n<r>Surgem inimigos de elite.</r>",
   "auto": "cohere/command-a-vision-07-2025+teste-jogo"
  },
  "diffDescribe3": {
   "ch": "怪物体力伤害进一步提升\n更多强力的精英怪",
   "en": "Further increased enemy Vitality and Damage.\nMore elite enemies will spawn.",
-  "pt": "Vitalidade e Dano dos inimigos ainda mais aumentados.\nSurgem mais inimigos de elite.",
+  "pt": "Vida e Dano dos inimigos ainda mais aumentados.\nSurgem mais inimigos de elite.",
   "auto": "nuvem/revisao-prioridade"
  },
  "diffDescribe4": {
   "ch": "怪物体力伤害较高\n精英怪的种类更加丰富了！\n<r>更多的强力大妖兽将登场</r>",
   "en": "Considerably increased enemy Vitality and Damage.\nMore types of elite enemies.\n<r>More types of Mythical Beasts.</r>",
-  "pt": "Vitalidade e Dano dos inimigos consideravelmente aumentados.\nMais tipos de inimigos de elite.\n<r>Mais tipos de Feras Míticas.</r>",
+  "pt": "Vida e Dano dos inimigos consideravelmente aumentados.\nMais tipos de inimigos de elite.\n<r>Mais tipos de Feras Míticas.</r>",
   "auto": "nuvem/revisao-prioridade"
  },
  "diffDescribe5": {
   "ch": "怪物凶猛异常，体力伤害极高\n<r>部分关卡会同时出现两只精英怪</r>\n<r>大妖兽将组队来袭！</r>",
   "en": "Drastically increased enemy Vitality and Damage.\n<r>May spawn 2 elite enemies in some levels.</r>\n<r>May spawn multiple Mythical Beasts.</r>",
-  "pt": "Vitalidade e Dano dos inimigos drasticamente aumentados.\n<r>Podem surgir 2 inimigos de elite em alguns níveis.</r>\n<r>Podem surgir várias Feras Míticas.</r>",
+  "pt": "Vida e Dano dos inimigos drasticamente aumentados.\n<r>Podem surgir 2 inimigos de elite em alguns níveis.</r>\n<r>Podem surgir várias Feras Míticas.</r>",
   "auto": "nuvem/revisao-prioridade"
  },
  "diffEnterTips5": {
@@ -9791,7 +9791,7 @@
  "diffUnitHpTips": {
   "ch": "影响八荒世界内所有怪物的体力。",
   "en": "Vitality of all monsters.",
-  "pt": "Vitalidade de todos os monstros.",
+  "pt": "Vida de todos os monstros.",
   "auto": "local/hy-mt2"
  },
  "diffUnitHpTitle": {
@@ -10077,7 +10077,7 @@
  "dlc_skill_attack_desc41102": {
   "ch": "展开一片绿色领域，持续&41102_flowerField&秒，冷却时间&41102_cd&秒。所有单位每秒回复&41102_hpRecover&%最大体力。在领域内召唤出食人花，食人花能吃掉附近的妖兽并吐出道具。",
   "en": "Unfold a verdant canopy for &41102_flowerField&s, cooldown: &41102_cd&s. Restore &41102_hpRecover&% of Max Vitality per second for all units (including enemies) in it, and spawn devouring flowers inside the canopy to eat monsters and spit out their drops.",
-  "pt": "Abre um dossel verdejante por &41102_flowerField&s, recarga: &41102_cd&s. Restaura &41102_hpRecover&% da Vitalidade Máx. por segundo de todas as unidades dentro dele (inclusive inimigos) e faz surgir flores devoradoras no dossel, que comem monstros e cospem seus itens.",
+  "pt": "Abre um dossel verdejante por &41102_flowerField&s, recarga: &41102_cd&s. Restaura &41102_hpRecover&% da Vida Máx. por segundo de todas as unidades dentro dele (inclusive inimigos) e faz surgir flores devoradoras no dossel, que comem monstros e cospem seus itens.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc41111": {
@@ -10089,7 +10089,7 @@
  "dlc_skill_attack_desc42101": {
   "ch": "随机复制一个友方召唤物并且与他们相连接，持续&42101_time&秒，连接后，召唤物将额外获得武罗的全部攻击速度加成，并且召唤物造成伤害时可为武罗吸血7%，冷却时间&42101_cd&秒。",
   "en": "Duplicate a random allied summoned unit and connect it for &42101_time&s. The summoned unit will gain a bonus Attack Speed equaling to Jagu's, and Jagu will gain a Vitality restoration equaling to 7% of the summoned unit's damage every time it attacks enemies. Cooldown: &42101_cd&s.",
-  "pt": "Duplica uma unidade invocada aliada aleatória e a conecta a você por &42101_time&s. A unidade invocada ganha um bônus de Velocidade de Ataque igual ao de Jagu, e Jagu recupera Vitalidade equivalente a 7% do dano da unidade invocada sempre que ela ataca inimigos. Recarga: &42101_cd&s.",
+  "pt": "Duplica uma unidade invocada aliada aleatória e a conecta a você por &42101_time&s. A unidade invocada ganha um bônus de Velocidade de Ataque igual ao de Jagu, e Jagu recupera Vida equivalente a 7% do dano da unidade invocada sempre que ela ataca inimigos. Recarga: &42101_cd&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "dlc_skill_attack_desc42102": {
@@ -10606,7 +10606,7 @@
  "drama_kuafu1": {
   "ch": "阿夸每个月移动都需要消耗<r>300</r>点体力。当阿夸的体力为<r>0</r>时，阿夸则会死亡。",
   "en": "Agar uses <r>300</r> vitality to move every month. Agar will die at <r>0</r> vitality.",
-  "pt": "Agar usa <r>300</r> de vitalidade para se mover todo mês. Agar morrerá ao atingir <r>0</r> de vitalidade.",
+  "pt": "Agar usa <r>300</r> de vida para se mover todo mês. Agar morrerá ao atingir <r>0</r> de vida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "drama_kuafu10": {
@@ -10654,43 +10654,43 @@
  "drama_kuafu2": {
   "ch": "可以通过给予阿夸灵果来帮助阿夸回复体力。",
   "en": "You can give Agar spiritual fruits to help him replenish vitality.",
-  "pt": "Você pode dar frutos espirituais a Agar para ajudá-lo a repor vitalidade.",
+  "pt": "Você pode dar frutos espirituais a Agar para ajudá-lo a repor vida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "drama_kuafu3": {
   "ch": "阿夸每个月移动都需要消耗<r>100</r>点精力，精力会影响阿夸每个月所移动的距离。",
   "en": "Agar uses <r>100</r> vitality to move every month. Agar's vitality will affect his monthly move distance.",
-  "pt": "Agar usa <r>100</r> de vitalidade para se mover todo mês. Sua vitalidade afeta a distância mensal de movimento.",
+  "pt": "Agar usa <r>100</r> de vigor para se mover todo mês. Seu vigor afeta a distância mensal de movimento.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "drama_kuafu4": {
   "ch": "阿夸的精力小于<r>20</r>%时，每个月阿夸的移动距离<r>-1</r>。",
   "en": "When Agar's vitality is lower than <r>20</r>%, Agar's monthly move distance will decrease by 1.",
-  "pt": "Quando a vitalidade de Agar estiver abaixo de <r>20</r>%, a distância de movimento mensal de Agar diminuirá em 1.",
+  "pt": "Quando o vigor de Agar estiver abaixo de <r>20</r>%, a distância de movimento mensal de Agar diminuirá em 1.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "drama_kuafu5": {
   "ch": "阿夸的精力大于<g>20</g>%时，每个月阿夸的移动距离<g>+1</g>。",
   "en": "When Agar's vitality is larger than <g>20</g>%, Agar's monthly move distance will increase by 1.",
-  "pt": "Quando a vitalidade de Agar estiver acima de <g>20</g>%, a distância de movimento mensal de Agar aumentará em 1.",
+  "pt": "Quando o vigor de Agar estiver acima de <g>20</g>%, a distância de movimento mensal de Agar aumentará em 1.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "drama_kuafu6": {
   "ch": "阿夸的精力大于<g>40</g>%时，每个月阿夸的移动距离<g>+2</g>。",
   "en": "When Agar's vitality is larger than <g>40</g>%, Agar's monthly move distance will increase by 2.",
-  "pt": "Quando a vitalidade de Agar estiver acima de <g>40</g>%, a distância de movimento mensal de Agar aumentará em 2.",
+  "pt": "Quando o vigor de Agar estiver acima de <g>40</g>%, a distância de movimento mensal de Agar aumentará em 2.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "drama_kuafu7": {
   "ch": "阿夸的精力大于<g>60</g>%时，每个月阿夸的移动距离<g>+3</g>。",
   "en": "When Agar's vitality is larger than <g>60</g>%, Agar's monthly move distance will increase by 3.",
-  "pt": "Quando a vitalidade de Agar for maior que <g>60</g>%, a distância de movimento mensal de Agar aumentará em 3.",
+  "pt": "Quando o vigor de Agar for maior que <g>60</g>%, a distância de movimento mensal de Agar aumentará em 3.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "drama_kuafu8": {
   "ch": "阿夸的精力大于<g>80</g>%时，每个月阿夸的移动距离<g>+4</g>。",
   "en": "When Agar's vitality is larger than <g>80</g>%, Agar's monthly move distance will increase by 4.",
-  "pt": "Quando a vitalidade de Agar for maior que <g>80</g>%, a distância de movimento mensal de Agar aumentará em 4.",
+  "pt": "Quando o vigor de Agar for maior que <g>80</g>%, a distância de movimento mensal de Agar aumentará em 4.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "drama_kuafu9": {
@@ -11658,7 +11658,7 @@
  "effect_desct78741": {
   "ch": "每一层减少自身百分之10的体力、灵力回复速度。",
   "en": "Every stack will reduce 10 percent of the recovery speed of your Vitality and Energy.",
-  "pt": "Cada pilha reduzirá em 10% a velocidade de recuperação da sua Vitalidade e Energia.",
+  "pt": "Cada pilha reduzirá em 10% a velocidade de recuperação da sua Vida e Energia.",
   "auto": "local/hy-mt2"
  },
  "effect_desct9901101": {
@@ -11688,7 +11688,7 @@
  "effect_desct9901111": {
   "ch": "当场上存在敌人时，跟屁虫会为召唤者回复&9901111_hftl&%的体力值，每&9901111_zljg&秒最多触发一次。",
   "en": "When there are enemies on the battlefield, the Following Bug will restore &9901111_hftl&% Vitality to the summoner. This triggers once per &9901111_zljg& seconds at most.",
-  "pt": "Quando há inimigos no campo de batalha, o Grudento restaura &9901111_hftl&% de Vitalidade ao invocador. Esse efeito é ativado no máximo uma vez a cada &9901111_zljg& segundos.",
+  "pt": "Quando há inimigos no campo de batalha, o Grudento restaura &9901111_hftl&% de Vida ao invocador. Esse efeito é ativado no máximo uma vez a cada &9901111_zljg& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desct9901112": {
@@ -11700,7 +11700,7 @@
  "effect_desct9901113": {
   "ch": "当自身的体力低于&9901113_tldy&%时，跟屁虫会释放出护罩抵挡绝大部分伤害&9901113_cxsj&秒。每&9901113_hdlq&秒最多触发一次。",
   "en": "When your Vitality drops below &9901113_tldy&%, the Following Bug will release a shield to ward off an overwhelming majority of damage for &9901113_cxsj& seconds. This triggers once per &9901113_hdlq& seconds at most.",
-  "pt": "Quando sua Vitalidade cair abaixo de &9901113_tldy&%, o Grudento lançará um escudo para bloquear a maior parte do dano por &9901113_cxsj& segundos. Esse efeito pode ser acionado no máximo uma vez a cada &9901113_hdlq& segundos.",
+  "pt": "Quando sua Vida cair abaixo de &9901113_tldy&%, o Grudento lançará um escudo para bloquear a maior parte do dano por &9901113_cxsj& segundos. Esse efeito pode ser acionado no máximo uma vez a cada &9901113_hdlq& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desct99011131": {
@@ -11712,7 +11712,7 @@
  "effect_desct9901114": {
   "ch": "跟屁虫造成伤害后，会为召唤者恢复体力值，恢复效果为造成伤害的&9901114_xxbl&%",
   "en": "When the Following Bug deals damage, it will restore Vitality to the summoner. The amount restored is &9901114_xxbl&% of the damage dealt.",
-  "pt": "Quando o Grudento causa dano, ele restaura Vitalidade para o invocador. A quantidade restaurada é &9901114_xxbl&% do dano causado.",
+  "pt": "Quando o Grudento causa dano, ele restaura Vida para o invocador. A quantidade restaurada é &9901114_xxbl&% do dano causado.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "effect_desct9901121": {
@@ -11736,7 +11736,7 @@
  "effect_desct9901124": {
   "ch": "跟屁虫会为当前体力最低的召唤物恢复&9901118_hftl&点体力，并对该召唤物范围&9901118_shfw&的敌人造成威力&9901118_shwl&的伤害，每&9901118_lqsj&秒最多触发一次。",
   "en": "The Following Bug will restore &9901118_hftl& Vitality to the summoner whose Vitality is lowest and deal &9901118_shwl& damage to enemies within a range of &9901118_shfw& away from that summoner. This triggers once every &9901118_lqsj& seconds.",
-  "pt": "O Grudento restaurará &9901118_hftl& pontos de Vitalidade ao invocador com a menor Vitalidade e causará &9901118_shwl& de dano a inimigos num alcance de &9901118_shfw& unidades desse invocador. Este efeito é ativado a cada &9901118_lqsj& segundos.",
+  "pt": "O Grudento restaurará &9901118_hftl& pontos de Vida ao invocador com a menor Vida e causará &9901118_shwl& de dano a inimigos num alcance de &9901118_shfw& unidades desse invocador. Este efeito é ativado a cada &9901118_lqsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desct9901125": {
@@ -11748,13 +11748,13 @@
  "effect_desct9901126": {
   "ch": "进入真龙形态时，立即获得&9901120_hdsz&护盾值。",
   "en": "Immediately gain &9901120_hdsz& Shield Vitality upon entering Dragon Form.",
-  "pt": "Ao entrar na Forma de Dragão, você ganha imediatamente &9901120_hdsz& de Vitalidade do Escudo.",
+  "pt": "Ao entrar na Forma de Dragão, você ganha imediatamente &9901120_hdsz& de Vida do Escudo.",
   "auto": "local/hy-mt2"
  },
  "effect_desct9901127": {
   "ch": "自身血量低于&9901121_cfbl&%时获得效果，受到伤害&9901121_jsbl&%，持续&9901121_cxsj&秒，冷却&9901121_lqsj&秒。",
   "en": "Gain protection when HP is below &9901121_cfbl&%. Damage inflicted will &9901121_jsbl&% for &9901121_cxsj&s. Cooldown: &9901121_lqsj&s.",
-  "pt": "Ganha proteção quando a Vitalidade estiver abaixo de &9901121_cfbl&%. O dano causado será reduzido em &9901121_jsbl&% por &9901121_cxsj& segundos. Tempo de recarga: &9901121_lqsj& segundos.",
+  "pt": "Ganha proteção quando a Vida estiver abaixo de &9901121_cfbl&%. O dano causado será reduzido em &9901121_jsbl&% por &9901121_cxsj& segundos. Tempo de recarga: &9901121_lqsj& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desct9901131": {
@@ -11772,7 +11772,7 @@
  "effect_desct9901133": {
   "ch": "合体为黄龙形态，在合体状态时，自身造成的伤害提升&9901137_tssh&%，且每造成&9901137_shcs&次伤害，可获得&9901137_sjhd&点$s_hudun$并回复&9901137_hftl&点体力且会获得&9901137_jsbl&%的伤害降低最大叠加&9901137_jscs&次，持续&9901137_jscx&秒。每&9901137_lqsj&秒最多触发一次。合体持续&9901137_htsj&秒，首次蓄力需要&9901137_xlsj&秒，再次蓄力需要&9901137_zcxl&秒。",
   "en": "In the combined state of Yellow Dragon Form, damage you deal is increased by &9901137_tssh&%, and every &9901137_shcs& times you deal damage, you earn &9901137_sjhd& points of $s_hudun$ and recover &9901137_hftl& Vitality and gain &9901137_jsbl&% damage reduction, max stacking &9901137_jscs& times for &9901137_jscx&s. This triggers once every &9901137_lqsj& seconds at most. The combination lasts for &9901137_htsj& seconds. Charging the first time requires &9901137_xlsj& seconds, and charging again requires &9901137_zcxl& seconds.",
-  "pt": "No estado combinado da Forma de Dragão Amarelo, o dano causado por você aumenta em &9901137_tssh&%. A cada &9901137_shcs& ataques que infligir dano, você ganha &9901137_sjhd& pontos de $s_hudun$, recupera &9901137_hftl& Vitalidade e obtém uma redução de dano de &9901137_jsbl&%, podendo acumular esse efeito até &9901137_jscs& vezes durante um período de &9901137_jscx& segundos. Esse efeito pode ser ativado no máximo uma vez a cada &9901137_lqsj& segundos. O estado combinado permanece ativo por &9901137_htsj& segundos. Para carregar o efeito pela primeira vez, são necessários &9901137_xlsj& segundos; para carregá-lo novamente, são necessários &9901137_zcxl& segundos.",
+  "pt": "No estado combinado da Forma de Dragão Amarelo, o dano causado por você aumenta em &9901137_tssh&%. A cada &9901137_shcs& ataques que infligir dano, você ganha &9901137_sjhd& pontos de $s_hudun$, recupera &9901137_hftl& Vida e obtém uma redução de dano de &9901137_jsbl&%, podendo acumular esse efeito até &9901137_jscs& vezes durante um período de &9901137_jscx& segundos. Esse efeito pode ser ativado no máximo uma vez a cada &9901137_lqsj& segundos. O estado combinado permanece ativo por &9901137_htsj& segundos. Para carregar o efeito pela primeira vez, são necessários &9901137_xlsj& segundos; para carregá-lo novamente, são necessários &9901137_zcxl& segundos.",
   "auto": "local/hy-mt2"
  },
  "effect_desct99011379": {
@@ -11784,31 +11784,31 @@
  "effect_desct9902101": {
   "ch": "体力上限增加&9901101_tili&",
   "en": "Vitality increased &9901101_tili&",
-  "pt": "Vitalidade aumentada &9901101_tili&",
+  "pt": "Vida aumentada &9901101_tili&",
   "auto": "local/hy-mt2"
  },
  "effect_desct9902102": {
   "ch": "体力上限增加&9901101_tili&",
   "en": "Vitality increased &9901101_tili&",
-  "pt": "Vitalidade aumentada &9901101_tili&",
+  "pt": "Vida aumentada &9901101_tili&",
   "auto": "local/hy-mt2"
  },
  "effect_desct9902103": {
   "ch": "每点功法资质体力上限增加X",
   "en": "Every point of Martial Arts Max Vitality increased X",
-  "pt": "Cada ponto de Vitalidade Máx. de Artes Marciais aumenta em X.",
+  "pt": "Cada ponto de Vida Máx. de Artes Marciais aumenta em X.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desct9902104": {
   "ch": "体力上限增加万分比",
   "en": "Max Vitality Increase Percentage",
-  "pt": "Percentual de aumento da Vitalidade Máx.",
+  "pt": "Percentual de aumento da Vida Máx.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desct9902105": {
   "ch": "每拥有X体力增加X%的伤害减免",
   "en": "Damage is reduced every time X Vitality is increased by X%",
-  "pt": "O dano é reduzido toda vez que a Vitalidade aumenta X%.",
+  "pt": "O dano é reduzido toda vez que a Vida aumenta X%.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_desct9902106": {
@@ -12234,7 +12234,7 @@
  "elderSkillDesc3": {
   "ch": "在战斗中，每累计受到&27300_ljsh&%最大体力的伤害时，可激发一次玄龟之甲，在&27300_cxsj&秒内减免大量受到的伤害。此效果每&27300_nzcd&秒最多触发一次。",
   "en": "In battle, after every (&27300_ljsh&% of your Max Vitality) damage you receive, you'll trigger Xuangui Shell, reducing incoming damage by a large amount for &27300_cxsj&s. This effect cannot occur more than once every &27300_nzcd&s.",
-  "pt": "Em batalha, a cada (&27300_ljsh&% da sua Vitalidade Máx.) de dano recebido, você ativará a Carapaça de Xuangui, reduzindo bastante o dano recebido por &27300_cxsj&s. Esse efeito não pode ocorrer mais de uma vez a cada &27300_nzcd&s.",
+  "pt": "Em batalha, a cada (&27300_ljsh&% da sua Vida Máx.) de dano recebido, você ativará a Carapaça de Xuangui, reduzindo bastante o dano recebido por &27300_cxsj&s. Esse efeito não pode ocorrer mais de uma vez a cada &27300_nzcd&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc31": {
@@ -12252,7 +12252,7 @@
  "elderSkillDesc33": {
   "ch": "在战斗中，每次受到大于&27303_sdsh&%的最大体力的伤害时，可激发玄龟之吼，对周围的敌人造成威力&27303_shwl&的特长资质伤害，并使其晕眩&27303_yxsj&秒。",
   "en": "In battle, every time you receive damage more than &27303_sdsh&% of your Max Vitality, you'll trigger Xuangui's Roar, dealing &27303_shwl& damage to surrounding enemies and stunning them for &27303_yxsj&s. This damage's type matches your highest stat.",
-  "pt": "Em batalha, toda vez que você receber dano superior a &27303_sdsh&% da sua Vitalidade Máx., ativará o Rugido de Xuangui, causando &27303_shwl& de dano aos inimigos ao redor e atordoando-os por &27303_yxsj&s. O tipo desse dano corresponde ao seu atributo mais alto.",
+  "pt": "Em batalha, toda vez que você receber dano superior a &27303_sdsh&% da sua Vida Máx., ativará o Rugido de Xuangui, causando &27303_shwl& de dano aos inimigos ao redor e atordoando-os por &27303_yxsj&s. O tipo desse dano corresponde ao seu atributo mais alto.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc34": {
@@ -12276,7 +12276,7 @@
  "elderSkillDesc37": {
   "ch": "体力上限提升&27307_tstl&点。",
   "en": "Max Vitality +&27307_tstl&",
-  "pt": "Vitalidade Máx. +&27307_tstl&",
+  "pt": "Vida Máx. +&27307_tstl&",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc38": {
@@ -12348,25 +12348,25 @@
  "elderSkillDesc49": {
   "ch": "体力上限提升&27409_tstl&点。",
   "en": "Max Vitality +&27409_tstl&",
-  "pt": "Vitalidade Máx. +&27409_tstl&",
+  "pt": "Vida Máx. +&27409_tstl&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "elderSkillDesc5": {
   "ch": "当进入一个新的房间时，若体力低于&27500_tllj&%，则可回复&27500_hftl&%的体力。",
   "en": "Every time you enter a new room with less than &27500_tllj&% Vitality, you'll instantly restore &27500_hftl&% Vitality.",
-  "pt": "Toda vez que você entrar em uma nova sala com menos de &27500_tllj&% de Vitalidade, restaurará instantaneamente &27500_hftl&% de Vitalidade.",
+  "pt": "Toda vez que você entrar em uma nova sala com menos de &27500_tllj&% de Vida, restaurará instantaneamente &27500_hftl&% de Vida.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc51": {
   "ch": "体力上限提升&27501_tstl&点。",
   "en": "Max Vitality +&27501_tstl&",
-  "pt": "Vitalidade Máx. +&27501_tstl&",
+  "pt": "Vida Máx. +&27501_tstl&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "elderSkillDesc52": {
   "ch": "体力上限提升&27502_tstl&点。",
   "en": "Max Vitality +&27502_tstl&",
-  "pt": "Vitalidade Máx. +&27502_tstl&",
+  "pt": "Vida Máx. +&27502_tstl&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "elderSkillDesc53": {
@@ -12378,19 +12378,19 @@
  "elderSkillDesc54": {
   "ch": "体力上限提升&27504_tstl&点。",
   "en": "Max Vitality +&27504_tstl&",
-  "pt": "Vitalidade Máx. +&27504_tstl&",
+  "pt": "Vida Máx. +&27504_tstl&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "elderSkillDesc55": {
   "ch": "重明冲击还可命中友方单位，命中友方单位时，可使友方单位回复&27505_hftl&点体力。",
   "en": "Chongming Charge also takes effect on allies. Every time it hits an ally, it'll restore the ally's Vitality by &27505_hftl&.",
-  "pt": "A Investida de Chongming também afeta aliados. Toda vez que atinge um aliado, restaura &27505_hftl& de Vitalidade dele.",
+  "pt": "A Investida de Chongming também afeta aliados. Toda vez que atinge um aliado, restaura &27505_hftl& de Vida dele.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "elderSkillDesc56": {
   "ch": "体力上限提升&27506_tstl&点。",
   "en": "Max Vitality +&27506_tstl&",
-  "pt": "Vitalidade Máx. +&27506_tstl&",
+  "pt": "Vida Máx. +&27506_tstl&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "elderSkillDesc57": {
@@ -12402,7 +12402,7 @@
  "elderSkillDesc58": {
   "ch": "体力上限提升&27508_tstl&点。",
   "en": "Max Vitality +&27508_tstl&",
-  "pt": "Vitalidade Máx. +&27508_tstl&",
+  "pt": "Vida Máx. +&27508_tstl&",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "elderSkillDesc59": {
@@ -12870,19 +12870,19 @@
  "fieldSkillDesc112": {
   "ch": "领域内的友方单位（包括自身）每受到一次伤害时，可获得一层浴火效果（每一层可提升自身的伤害&331002_tssh&%，且每秒回复&331002_hftl&点体力，持续&331002_cxsj&秒）。",
   "en": "Every time an ally (including yourself) inside the Field receives damage, they'll receive a stack of Trial by Fire: Every stack of Trial by Fire increases damage by &331002_tssh&% and restores &331002_hftl& Vitality every second for &331002_cxsj&s.",
-  "pt": "Toda vez que um aliado (incluindo você) dentro do Campo receber dano, ele ganhará um acúmulo de Provação do Fogo: cada acúmulo de Provação do Fogo aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vitalidade por segundo durante &331002_cxsj&s.",
+  "pt": "Toda vez que um aliado (incluindo você) dentro do Campo receber dano, ele ganhará um acúmulo de Provação do Fogo: cada acúmulo de Provação do Fogo aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vida por segundo durante &331002_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc113": {
   "ch": "领域内的友方单位（包括自身）每受到一次伤害时，可获得一层浴火效果（每一层可提升自身的伤害&331003_tssh&%，且每秒回复&331003_hftl&点体力，持续&331003_cxsj&秒）。",
   "en": "Every time an ally (including yourself) inside the Field receives damage, they'll receive a stack of Trial by Fire: Every stack of Trial by Fire increases damage by &331003_tssh&% and restores &331003_hftl& Vitality every second for &331003_cxsj&s.",
-  "pt": "Toda vez que um aliado (incluindo você) dentro do Campo receber dano, ele ganhará um acúmulo de Provação do Fogo: cada acúmulo de Provação do Fogo aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vitalidade por segundo durante &331003_cxsj&s.",
+  "pt": "Toda vez que um aliado (incluindo você) dentro do Campo receber dano, ele ganhará um acúmulo de Provação do Fogo: cada acúmulo de Provação do Fogo aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vida por segundo durante &331003_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc12": {
   "ch": "自身获得&321002_xxbl&%的吸血，并使领域内的所有单位（无论敌我），造成的伤害提升&321003_tssh&%。",
   "en": "You convert &321002_xxbl&% of damage done into your Vitality and increase the damage of all units (both allies and enemies) inside the Field by &321003_tssh&%.",
-  "pt": "Você converte &321002_xxbl&% do dano causado em Vitalidade e aumenta em &321003_tssh&% o dano de todas as unidades (aliadas e inimigas) dentro do Campo.",
+  "pt": "Você converte &321002_xxbl&% do dano causado em Vida e aumenta em &321003_tssh&% o dano de todas as unidades (aliadas e inimigas) dentro do Campo.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "fieldSkillDesc121": {
@@ -12906,7 +12906,7 @@
  "fieldSkillDesc13": {
   "ch": "自身获得&321004_xxbl&%的吸血，并使领域内的所有单位（无论敌我），造成的伤害提升&321005_tssh&%。",
   "en": "You convert &321004_xxbl&% of damage done into your Vitality and increase the damage of all units (both allies and enemies) inside the Field by &321005_tssh&%.",
-  "pt": "Você converte &321004_xxbl&% do dano causado em Vitalidade e aumenta o dano de todas as unidades (aliados e inimigos) dentro do Domínio em &321005_tssh&%.",
+  "pt": "Você converte &321004_xxbl&% do dano causado em Vida e aumenta o dano de todas as unidades (aliados e inimigos) dentro do Domínio em &321005_tssh&%.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fieldSkillDesc131": {
@@ -15796,7 +15796,7 @@
  "hftl": {
   "ch": "回复体力：{0}",
   "en": "Vitality recovered: {0}",
-  "pt": "Vitalidade recuperada: {0}",
+  "pt": "Vida recuperada: {0}",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "honorBearSkillDesc1001": {
@@ -16126,7 +16126,7 @@
  "honorLegendSkillDesc13": {
   "ch": "每个怪物在死亡时，有2%的概率随机掉落一个可回复2400点体力的灵果",
   "en": "每个怪物在死亡时，有2%的概率随机掉落一个可回复2400点体力的灵果",
-  "pt": "2% de chance de soltar um Fruto Espiritual que restaura 2400 de Vitalidade",
+  "pt": "2% de chance de soltar um Fruto Espiritual que restaura 2400 de Vida",
   "auto": "nuvem/revisao-prioridade"
  },
  "honorLegendSkillDesc14": {
@@ -16144,7 +16144,7 @@
  "honorLegendSkillDesc16": {
   "ch": "每次获得新的恩赐时，将回复1500点的体力、灵力、念力",
   "en": "每次获得新的恩赐时，将回复1500点的体力、灵力、念力",
-  "pt": "Restaura 1500 de Vitalidade, Energia e Foco ao obter um novo Dom",
+  "pt": "Restaura 1500 de Vida, Energia e Foco ao obter um novo Dom",
   "auto": "nuvem/revisao-prioridade"
  },
  "honorLegendSkillDesc17": {
@@ -16468,7 +16468,7 @@
  "honor_text30": {
   "ch": "体力：",
   "en": "体力：",
-  "pt": "Vitalidade:",
+  "pt": "Vida:",
   "auto": "nuvem/revisao-prioridade"
  },
  "honor_text31": {
@@ -16517,7 +16517,7 @@
  "honor_text38": {
   "ch": "喂食药材或丹药可以恢复体力和提升亲密度。",
   "en": "喂食药材或丹药可以恢复体力和提升亲密度。",
-  "pt": "Alimentar com ervas medicinais ou pílulas pode restaurar a Vitalidade e aumentar a intimidade.",
+  "pt": "Alimentar com ervas medicinais ou pílulas pode restaurar a Vida e aumentar a intimidade.",
   "auto": "nuvem/revisao-prioridade"
  },
  "honor_text39": {
@@ -16844,7 +16844,7 @@
  "inheriteffect_desc1": {
   "ch": "最大体力提升&6120101_tstl&%，神通伤害提高&6120101_shts&%。",
   "en": "Max Vitality increased by &6120101_tstl&%, Ultimate Skill damage increased by &6120101_shts&%.",
-  "pt": "Vitalidade Máx. aumentada em &6120101_tstl&%, Dano da Técnica Suprema aumentado em &6120101_shts&%.",
+  "pt": "Vida Máx. aumentada em &6120101_tstl&%, Dano da Técnica Suprema aumentado em &6120101_shts&%.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "inheriteffect_desc10": {
@@ -16862,7 +16862,7 @@
  "inheriteffect_desc12": {
   "ch": "最大体力提升&6120112_tstl&%，召唤单位伤害提高&6120112_shts&%。",
   "en": "Max Vitality increased by &6120112_tstl&%, Ultimate Skill damage increased by &6120112_shts&%.",
-  "pt": "Vitalidade Máx. aumentada em &6120112_tstl&%, dano da Técnica Suprema aumentado em &6120112_shts&%.",
+  "pt": "Vida Máx. aumentada em &6120112_tstl&%, dano da Técnica Suprema aumentado em &6120112_shts&%.",
   "auto": "cohere/command-a-reasoning-08-2025+revisao-nuvem"
  },
  "inheriteffect_desc2": {
@@ -16898,7 +16898,7 @@
  "inheriteffect_desc7": {
   "ch": "每秒对场上所有敌人造成其&6120107_zdtl&%的最大体力值的伤害。",
   "en": "Deals &6120107_zdtl&% of max Vitality in damage to all enemies every second.",
-  "pt": "Causa dano de &6120107_zdtl&% da Vitalidade Máx. a todos os inimigos a cada segundo.",
+  "pt": "Causa dano de &6120107_zdtl&% da Vida Máx. a todos os inimigos a cada segundo.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "inheriteffect_desc8": {
@@ -18627,7 +18627,7 @@
  "loading_text15": {
   "ch": "在城镇中的客栈内休息可以回复体力、灵力和念力。",
   "en": "Rest at Inns in towns to recover your Vitality, Energy, and Focus.",
-  "pt": "Descanse em estalagens nas vilas para recuperar sua Vitalidade, Energia e Foco.",
+  "pt": "Descanse em estalagens nas vilas para recuperar sua Vida, Energia e Foco.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "loading_text16": {
@@ -18657,7 +18657,7 @@
  "loading_text2": {
   "ch": "在外游历时，切记要带足回复体力和灵力的丹药。",
   "en": "During your adventures, make sure that you bring enough Elixirs that recover your Vitality and Energy.",
-  "pt": "Durante suas aventuras, certifique-se de trazer Elixires suficientes para recuperar sua Vitalidade e Energia.",
+  "pt": "Durante suas aventuras, certifique-se de trazer Elixires suficientes para recuperar sua Vida e Energia.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "loading_text20": {
@@ -18723,7 +18723,7 @@
  "loading_text3": {
   "ch": "在战斗外使用回复体力或灵力等丹药，不需要消耗念力。",
   "en": "While out of combat, using Elixirs to recover Vitality or Energy doesn't consume Focus.",
-  "pt": "Ao usar Elixires fora de combate para recuperar Vitalidade ou Energia, não há consumo de Foco.",
+  "pt": "Ao usar Elixires fora de combate para recuperar Vida ou Energia, não há consumo de Foco.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "loading_text30": {
@@ -19419,13 +19419,13 @@
  "lotusSwordEffect1": {
   "ch": "使用剑系身法期间，光莲能持续回复体力，且每隔一段时间可获得1层闪避，持续一定时间，闪避可叠加数层。（筑基境解锁）",
   "en": "The Radiant Lotus grants constant Vitality restoration in the duration of Sword Motion Skills. (Unlocks at Foundation)",
-  "pt": "O Lótus Radiante proporciona Recuperação de Vitalidade contínua durante a execução das Técnicas de Movimento que envolvem o uso da Espada. (Desbloqueia-se na Fundação)",
+  "pt": "O Lótus Radiante proporciona Recuperação de Vida contínua durante a execução das Técnicas de Movimento que envolvem o uso da Espada. (Desbloqueia-se na Fundação)",
   "auto": "local/hy-mt2"
  },
  "lotusSwordEffect11": {
   "ch": "使用剑系身法期间，光莲能持续回复体力，且每隔一段时间可获得1层闪避，持续一定时间，闪避可叠加数层。",
   "en": "The Radiant Lotus grants constant Vitality restoration in the duration of Sword Motion Skills.",
-  "pt": "O Lótus Radiante proporciona Recuperação de Vitalidade contínua durante a execução de Técnicas de Movimento com a Espada.",
+  "pt": "O Lótus Radiante proporciona Recuperação de Vida contínua durante a execução de Técnicas de Movimento com a Espada.",
   "auto": "local/hy-mt2"
  },
  "lotusSwordEffect2": {
@@ -21559,7 +21559,7 @@
  "modEnum10017EnumDesc0": {
   "ch": "有最大数值的属性才能使用，如体力、精力等等。",
   "en": "Stats with the max values can be used, like Stamina, Vitality, etc.",
-  "pt": "Podem ser utilizados Atributos com valores máximos, como Vigor, Vitalidade, etc.",
+  "pt": "Podem ser utilizados Atributos com valores máximos, como Vigor, Vida, etc.",
   "auto": "local/hy-mt2"
  },
  "modEnum10026EnumName-1": {
@@ -21583,7 +21583,7 @@
  "modEnum10034EnumDesc1": {
   "ch": "因为体、灵、念属性价值不一样，实际比较值需要除以一定的缩放。",
   "en": "Vitality, energy, and focus have different values, so the actual comparison values need scaling.",
-  "pt": "A Vitalidade, a Energia e o Foco possuem valores diferentes; portanto, os valores de comparação reais precisam ser ajustados.",
+  "pt": "A Vida, a Energia e o Foco possuem valores diferentes; portanto, os valores de comparação reais precisam ser ajustados.",
   "auto": "local/hy-mt2"
  },
  "modEnum10035Desc": {
@@ -21607,7 +21607,7 @@
  "modEnum10069EnumNamehp": {
   "ch": "hp-体力",
   "en": "hp- Vitality",
-  "pt": "hp - Vitalidade",
+  "pt": "hp - Vida",
   "auto": "local/hy-mt2"
  },
  "modEnum10069EnumNamemp": {
@@ -21973,7 +21973,7 @@
  "modEnum10126EnumName_hp": {
   "ch": "最大体力",
   "en": "Max Vitality",
-  "pt": "Vitalidade Máx.",
+  "pt": "Vida Máx.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10126EnumName_mfr": {
@@ -22009,7 +22009,7 @@
  "modEnum10128EnumDesc0": {
   "ch": "夸父最大体力5000",
   "en": "Kuafu Max Vitality 5,000",
-  "pt": "Vitalidade Máx. do Kuafu: 5.000",
+  "pt": "Vida Máx. do Kuafu: 5.000",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEnum10128EnumDesc1": {
@@ -23608,7 +23608,7 @@
  "playertilishangxian": {
   "ch": "体力上限：{0}",
   "en": "Max Vitality: {0}",
-  "pt": "Vitalidade Máx.: {0}",
+  "pt": "Vida Máx.: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "potmonName10001": {
@@ -25774,7 +25774,7 @@
  "ruleDesc1101": {
   "ch": "所有单位在体力低于&31101_dqtl&%时，造成的伤害提升&31101_shts&%。",
   "en": "All units deal &31101_shts&% more damage when their Vitality is below &31101_dqtl&%.",
-  "pt": "Todas as unidades causam &31101_shts&% mais dano quando sua Vitalidade está abaixo de &31101_dqtl&%.",
+  "pt": "Todas as unidades causam &31101_shts&% mais dano quando sua Vida está abaixo de &31101_dqtl&%.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc1102": {
@@ -25858,13 +25858,13 @@
  "ruleDesc1301": {
   "ch": "所有单位在受到伤害时，将在&31301_cxsj&秒内，每秒回复&31301_hftl&点体力，此效果不可叠加。",
   "en": "Every time a unit receives damage, for the next &31301_cxsj&s, this unit will recover &31301_hftl& Vitality every second. This effect is unstackable.",
-  "pt": "Toda vez que uma unidade sofre dano, nos próximos &31301_cxsj& segundos, ela recuperará &31301_hftl& de Vitalidade a cada segundo. Este efeito não é acumulável.",
+  "pt": "Toda vez que uma unidade sofre dano, nos próximos &31301_cxsj& segundos, ela recuperará &31301_hftl& de Vida a cada segundo. Este efeito não é acumulável.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc1302": {
   "ch": "所有单位在体力低于&31302_xxbl&%时，立即无敌&31302_wdsj&秒，（每个单位只能触发一次）。",
   "en": "Every time a unit's Vitality drops below &31302_xxbl&%, this unit will become invincible for &31302_wdsj&s (only takes effect one time on each unit).",
-  "pt": "Toda vez que a Vitalidade de uma unidade cair abaixo de &31302_xxbl&%, essa unidade se tornará invencível por &31302_wdsj&s (isso só tem efeito uma vez por unidade).",
+  "pt": "Toda vez que a Vida de uma unidade cair abaixo de &31302_xxbl&%, essa unidade se tornará invencível por &31302_wdsj&s (isso só tem efeito uma vez por unidade).",
   "auto": "local/hy-mt2"
  },
  "ruleDesc1303": {
@@ -25972,13 +25972,13 @@
  "ruleDesc151": {
   "ch": "所有单位在使用技能消耗灵力时，也会消耗掉&30151_xhbs|/100|f0&倍的体力。",
   "en": "Every time a unit consumes Energy to cast a skill, &30151_xhbs|/100|f0&x Vitality will also be consumed.",
-  "pt": "Toda vez que uma unidade consome Energia para usar uma habilidade, a Vitalidade também é consumida, na proporção de &30151_xhbs|/100|f0&x.",
+  "pt": "Toda vez que uma unidade consome Energia para usar uma habilidade, a Vida também é consumida, na proporção de &30151_xhbs|/100|f0&x.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc152": {
   "ch": "所有单位在体力低于&30152_xhbs&%时，将在&30152_cxsj&秒内提升&30152_tssh&%造成的伤害（每个单位只能触发一次）。",
   "en": "Every time a unit's Vitality drops below &30152_xhbs&%, for the next &30152_cxsj&s, this unit's damage will increase by &30152_tssh&% (only takes effect one time on each unit).",
-  "pt": "Sempre que a Vitalidade de uma unidade cair abaixo de &30152_xhbs&%, nos próximos &30152_cxsj&s, o dano causado por essa unidade aumentará em &30152_tssh&% (isso só tem efeito uma vez por unidade).",
+  "pt": "Sempre que a Vida de uma unidade cair abaixo de &30152_xhbs&%, nos próximos &30152_cxsj&s, o dano causado por essa unidade aumentará em &30152_tssh&% (isso só tem efeito uma vez por unidade).",
   "auto": "local/hy-mt2"
  },
  "ruleDesc1551": {
@@ -25996,7 +25996,7 @@
  "ruleDesc1601": {
   "ch": "所有单位在死亡时，可为周围的友军回复&31601_tlbl&%自身的体力。",
   "en": "Every time a unit dies, this unit restores &31601_tlbl&% Vitality to nearby allies.",
-  "pt": "Toda vez que uma unidade morre, ela restaura &31601_tlbl&% de Vitalidade para os aliados próximos.",
+  "pt": "Toda vez que uma unidade morre, ela restaura &31601_tlbl&% de Vida para os aliados próximos.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "ruleDesc1602": {
@@ -26008,7 +26008,7 @@
  "ruleDesc1603": {
   "ch": "所有单位每秒回复&31604_hftl&点体力。",
   "en": "All units restore &31604_hftl& Vitality every second.",
-  "pt": "Todas as unidades restauram &31604_hftl& pontos de Vitalidade a cada segundo.",
+  "pt": "Todas as unidades restauram &31604_hftl& pontos de Vida a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc1604": {
@@ -26074,7 +26074,7 @@
  "ruleDesc302": {
   "ch": "所有单位在体力大于&30302_dqtl&%时，造成的伤害提升&30302_tssh&%。",
   "en": "All units deal &30302_tssh&% more damage when their Vitality is above &30302_dqtl&%.",
-  "pt": "Todas as unidades causam &30302_tssh&% a mais de dano quando sua Vitalidade está acima de &30302_dqtl&%.",
+  "pt": "Todas as unidades causam &30302_tssh&% a mais de dano quando sua Vida está acima de &30302_dqtl&%.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc303": {
@@ -26110,7 +26110,7 @@
  "ruleDesc402": {
   "ch": "所有单位对当前体力值低于自己的敌人造成伤害时，伤害提升&30402_shts&%。",
   "en": "All units deal &30402_shts&% more damage to enemies with lower Vitality.",
-  "pt": "Todas as unidades causam &30402_shts&% a mais de dano a inimigos com Vitalidade mais baixa.",
+  "pt": "Todas as unidades causam &30402_shts&% a mais de dano a inimigos com Vida mais baixa.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc403": {
@@ -26128,7 +26128,7 @@
  "ruleDesc451": {
   "ch": "所有单位在出现时拥有&30451_cshd&点护盾。",
   "en": "All units receive a shield with &30451_cshd& Vitality when they spawn.",
-  "pt": "Todas as unidades recebem um escudo com &30451_cshd& pontos de Vitalidade ao serem criadas.",
+  "pt": "Todas as unidades recebem um escudo com &30451_cshd& pontos de Vida ao serem criadas.",
   "auto": "local/hy-mt2"
  },
  "ruleDesc452": {
@@ -26140,7 +26140,7 @@
  "ruleDesc501": {
   "ch": "所有单位的体力上限提升&30501_tlsx&%。",
   "en": "All units' Max Vitality +&30501_tlsx&%",
-  "pt": "A Vitalidade Máx. de todas as unidades +&30501_tlsx&%",
+  "pt": "A Vida Máx. de todas as unidades +&30501_tlsx&%",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "ruleDesc502": {
@@ -30931,7 +30931,7 @@
  "skillCondition32111": {
   "ch": "需求体力低于(%)：",
   "en": "Vitality must be lower than (%):",
-  "pt": "A Vitalidade deve ser menor que (%):",
+  "pt": "A Vida deve ser menor que (%):",
   "auto": "local/hy-mt2"
  },
  "skillCondition32112": {
@@ -31069,19 +31069,19 @@
  "skillDescS102": {
   "ch": "在原地挥出一圈刀光，对范围内的敌人造成伤害，此技能有一定概率吸血，且在击中大妖兽或精英怪时有概率额外斩出一道刀光。\n技能威力：&102_dmg&\n吸血概率：&102_leechProb&%\n吸血比例：&102_leechRate&%\n额外刀光概率：&102_sub2Prob&%",
   "en": "Unleash a circle of blade aura and deal damage to enemies hit. This skill has a chance to steal Vitality from enemies (leeching) and an additional chance to release a second blade aura upon hitting Mythical Beasts or elite enemies.\nSkill Damage: &102_dmg&\nLeech Chance: &102_leechProb&%\nLeech Rate: &102_leechRate&%\nSecond Blade Aura Chance: &102_sub2Prob&%",
-  "pt": "Libera um círculo de aura de lâminas, causando dano aos inimigos atingidos. Essa habilidade tem chance de roubar Vitalidade dos inimigos (Chance de Roubo de Vida) e também possui uma chance adicional de liberar uma segunda aura de lâminas ao acertar Feras Míticas ou inimigos de elite.\nDano da Habilidade: &102_dmg&\nChance de Roubo de Vida: &102_leechProb&%\nTaxa de Roubo de Vida: &102_leechRate&%\nChance de Segunda Aura de Lâmina: &102_sub2Prob&%",
+  "pt": "Libera um círculo de aura de lâminas, causando dano aos inimigos atingidos. Essa habilidade tem chance de roubar Vida dos inimigos (Chance de Roubo de Vida) e também possui uma chance adicional de liberar uma segunda aura de lâminas ao acertar Feras Míticas ou inimigos de elite.\nDano da Habilidade: &102_dmg&\nChance de Roubo de Vida: &102_leechProb&%\nTaxa de Roubo de Vida: &102_leechRate&%\nChance de Segunda Aura de Lâmina: &102_sub2Prob&%",
   "auto": "local/hy-mt2"
  },
  "skillDescS103": {
   "ch": "向敌人方向斩下一道刀影，对一条线上的敌人造成伤害，此技能造成伤害时，可直接斩杀体力较低的敌人，此技能在击中大妖兽或精英怪时有概率额外斩出一道刀光，并有小概率额外斩出第二道刀光。（对大妖兽无效）\n技能威力：&103_dmg&\n斩杀线&103_killHp&%\n第一道额外刀光概率：&103_sub2Prob&%\n第二道额外刀光概率：&103_sub3Prob&%",
   "en": "Slash forward a blade aura and deal damage to enemies on its course, executing enemies with low Vitality. Mythical Beasts are immune to execution. This skill has a chance to release an additional blade aura or two consecutive auras upon hitting Mythical Beasts or elite enemies.\nSkill Damage: &103_dmg&\nExecution Threshold: &103_killHp&%\nFirst Blade Aura Chance: &103_sub2Prob&%\nSecond Blade Aura Chance: &103_sub3Prob&%",
-  "pt": "Lança uma aura de lâmina para a frente, causando dano aos inimigos em seu caminho; inimigos com baixa Vitalidade são executados. Feras Míticas são imunes à execução. Essa habilidade tem chance de liberar uma aura de lâmina adicional ou até duas auras consecutivas ao atingir Feras Míticas ou inimigos de elite.\nDano da Habilidade: &103_dmg&\nLimiar para Execução: &103_killHp&%\nChance da Primeira Aura de Lâmina: &103_sub2Prob&%\nChance da Segunda Aura de Lâmina: &103_sub3Prob&%",
+  "pt": "Lança uma aura de lâmina para a frente, causando dano aos inimigos em seu caminho; inimigos com baixa Vida são executados. Feras Míticas são imunes à execução. Essa habilidade tem chance de liberar uma aura de lâmina adicional ou até duas auras consecutivas ao atingir Feras Míticas ou inimigos de elite.\nDano da Habilidade: &103_dmg&\nLimiar para Execução: &103_killHp&%\nChance da Primeira Aura de Lâmina: &103_sub2Prob&%\nChance da Segunda Aura de Lâmina: &103_sub3Prob&%",
   "auto": "local/hy-mt2"
  },
  "skillDescS104": {
   "ch": "向敌人方向快速发射刀刃，对命中的敌人造成伤害，此技能有一定概率吸血。\n技能威力：&104_dmg&\n刀刃数量：&104_bullet&\n吸血概率：&104_leechProb&%\n吸血比例：&104_leechRate&%",
   "en": "Launch blades toward enemies and deal damage to enemies hit. This skill has a chance to steal Vitality from enemies (leeching).\nSkill Damage: &104_dmg&\nBlade Amount: &104_bullet&\nLeech Chance: &104_leechProb&%\nLeech Rate: &104_leechRate&%",
-  "pt": "Lance lâminas contra os inimigos, causando dano àqueles atingidos. Esta habilidade tem chance de roubar Vitalidade dos inimigos (chance de roubo de vida).\nDano da Habilidade: &104_dmg&\nQuantidade de Lâminas: &104_bullet&\nChance de Roubo de Vida: &104_leechProb&%\nTaxa de Roubo de Vida: &104_leechRate&%",
+  "pt": "Lance lâminas contra os inimigos, causando dano àqueles atingidos. Esta habilidade tem chance de roubar Vida dos inimigos (chance de roubo de vida).\nDano da Habilidade: &104_dmg&\nQuantidade de Lâminas: &104_bullet&\nChance de Roubo de Vida: &104_leechProb&%\nTaxa de Roubo de Vida: &104_leechRate&%",
   "auto": "local/hy-mt2"
  },
  "skillDescS1101": {
@@ -31117,7 +31117,7 @@
  "skillDescS1203": {
   "ch": "<o>站立不动蓄力</o>，蓄力后施放，吸取一次周围敌人的体力，并对其造成伤害（蓄力时间越长，范围越大）。\n技能威力：&1203_dmg&\n蓄力时间：&1203_onTime&秒\n最大范围：&1203_haloRange&\n每个敌人被吸收的体力：&1203_hpSum&",
   "en": "<o>Stand still to charge</o>, dealing damage to enemies around while drawing their Vitality to heal yourself. The skill's area of effect will expand with the charging time.\nSkill Damage: &1203_dmg&\nCharging Time: &1203_onTime&s\nMax Radius: &1203_haloRange&\nVitality Drawn from Each Enemy: &1203_hpSum&",
-  "pt": "<o>Fique parado para carregar</o>, causando dano aos inimigos ao redor enquanto absorve sua Vitalidade para se curar. A área de efeito da habilidade aumenta conforme o tempo de carga.\nDano da Habilidade: &1203_dmg&\nTempo de Carga: &1203_onTime&s\nRaio Máximo: &1203_haloRange&\nVitalidade Absorvida por Inimigo: &1203_hpSum&",
+  "pt": "<o>Fique parado para carregar</o>, causando dano aos inimigos ao redor enquanto absorve sua Vida para se curar. A área de efeito da habilidade aumenta conforme o tempo de carga.\nDano da Habilidade: &1203_dmg&\nTempo de Carga: &1203_onTime&s\nRaio Máximo: &1203_haloRange&\nVida Absorvida por Inimigo: &1203_hpSum&",
   "auto": "local/hy-mt2"
  },
  "skillDescS1301": {
@@ -31225,7 +31225,7 @@
  "skillDescS21012": {
   "ch": "芦花王释放金身，期间无敌并无法移动和使用技能，自身获得等同于最大体力的护盾，护盾持续&21012_hudunTime&秒，将场上所有敌人向自身快速牵引，并从空中落下一拳造成伤害（抗性越高，伤害越高）和眩晕。",
   "en": "King Luhua poises himself into Stasis and becomes invincible but unable to cast skills or move. The skill will generate a Shield equal to your Max Vitality for &21012_hudunTime&s and draw all enemies toward you, then summon a punch from above to deal damage (increases with your Resistance) and Stun your enemies.",
-  "pt": "O Rei Luhua entra em Estase, tornando-se invulnerável, porém incapaz de usar habilidades ou se mover. Essa habilidade gera um Escudo equivalente à sua Vitalidade Máx. por &21012_hudunTime& segundos e atrai todos os inimigos para perto de você; em seguida, invoca um soco vindo de cima que causa dano (cujo valor aumenta conforme sua Resistência) e atordoa os inimigos.",
+  "pt": "O Rei Luhua entra em Estase, tornando-se invulnerável, porém incapaz de usar habilidades ou se mover. Essa habilidade gera um Escudo equivalente à sua Vida Máx. por &21012_hudunTime& segundos e atrai todos os inimigos para perto de você; em seguida, invoca um soco vindo de cima que causa dano (cujo valor aumenta conforme sua Resistência) e atordoa os inimigos.",
   "auto": "local/hy-mt2"
  },
  "skillDescS210122": {
@@ -31243,19 +31243,19 @@
  "skillDescS21014": {
   "ch": "阿夸身躯变大&21014_time&秒，体力上限临时增加&21014_hpUp&倍，抗性&21014_pfr&。",
   "en": "Expand Agar's character size for &21014_time&s, gaining additional &21014_hpUp&x Max Vitality in its duration and &21014_pfr& Resistance.",
-  "pt": "Aumente o tamanho do personagem de Agar por &21014_time&s, ganhando &21014_hpUp&x Vitalidade Máx. durante esse período, além de &21014_pfr& Resistência.",
+  "pt": "Aumente o tamanho do personagem de Agar por &21014_time&s, ganhando &21014_hpUp&x Vida Máx. durante esse período, além de &21014_pfr& Resistência.",
   "auto": "local/hy-mt2"
  },
  "skillDescS21015": {
   "ch": "立即降下&21015_moSum&个蘑菇（不算作召唤物），并&21015_msp&移动速度，持续&21015_time&秒。每拾取一个灵石，可投掷&215002_sumOne&个蘑菇炸弹，每拾取一个蘑菇或道具，可投掷&215002_sumTwo&个蘑菇炸弹，爆炸对小范围的敌人造成伤害并额外造成敌人最大生命值0.1%的真实伤害。捡取蘑菇数量达到50、100、150时，蘑菇炸弹的威力会获得提升。",
   "en": "Spawn &21015_moSum& mushrooms into the battlefield and &21015_msp& Agility for &21015_time&s. Mushrooms are not counted as summoned units. You will throw &215002_sumOne& mushroom bombs when you pick up a Spirit Stone, and &215002_sumTwo& bombs when you pick up a mushroom or an item. The bomb deals damage to enemies within its area of effect and may deal additional True Damage equaling to 0.1% of the hit enemy's Max Vitality. The damage of the bombs will increase as you pick a total of 50, 100, and 150 mushrooms.",
-  "pt": "Invoca &21015_moSum& cogumelos no campo de batalha e concede &21015_msp& de Agilidade por &21015_time& segundos. Os cogumelos não são contabilizados como unidades invocadas. Ao pegar uma Pedra Espiritual, você lançará &215002_sumOne& bombas de cogumelo; ao pegar um cogumelo ou outro item, serão lançadas &215002_sumTwo& bombas. Cada bomba causa dano aos inimigos na sua área de efeito e também pode infligir Dano Verdadeiro adicional equivalente a 0,1% da Vitalidade Máx. do inimigo atingido. O dano das bombas aumenta à medida que você coleta 50, 100 e 150 cogumelos no total.",
+  "pt": "Invoca &21015_moSum& cogumelos no campo de batalha e concede &21015_msp& de Agilidade por &21015_time& segundos. Os cogumelos não são contabilizados como unidades invocadas. Ao pegar uma Pedra Espiritual, você lançará &215002_sumOne& bombas de cogumelo; ao pegar um cogumelo ou outro item, serão lançadas &215002_sumTwo& bombas. Cada bomba causa dano aos inimigos na sua área de efeito e também pode infligir Dano Verdadeiro adicional equivalente a 0,1% da Vida Máx. do inimigo atingido. O dano das bombas aumenta à medida que você coleta 50, 100 e 150 cogumelos no total.",
   "auto": "local/hy-mt2"
  },
  "skillDescS21016": {
   "ch": "释放体内魔气，每秒消耗&21016_hpCost&%最大体力，暴击概率&21016_critUp&%，提升最大体力*&21016_critV&的暴击倍率，并且在此技能持续时间内每击杀250范围内的一个敌人可回复&21016_hpBack&点体力。该技能在持续&21016_time&秒后或体力低于&21016_hpNow&%时结束。",
   "en": "Release Nether Air in your body, gaining &21016_critUp&% Crit Chance and Crit Rate equaling to &21016_critV& * your Max Vitality at the cost of &21016_hpCost&% of your Max Vitality per second. During it, every enemy died within 250 range will restore you &21016_hpBack& Vitality. The skill's effect will expire after &21016_time&s or at the time when your Vitality is below &21016_hpNow&%.",
-  "pt": "Libere o Ar do Submundo em seu corpo, ganhando &21016_critUp&% de Chance Crítica e Multiplicador Crítico igual a &21016_critV& * sua Vitalidade Máx., ao custo de &21016_hpCost&% da sua Vitalidade Máx. por segundo. Durante o efeito, cada inimigo morto dentro de 250 de alcance restaura &21016_hpBack& de Vitalidade para você. O efeito da habilidade termina após &21016_time&s ou quando sua Vitalidade estiver abaixo de &21016_hpNow&%.",
+  "pt": "Libere o Ar do Submundo em seu corpo, ganhando &21016_critUp&% de Chance Crítica e Multiplicador Crítico igual a &21016_critV& * sua Vida Máx., ao custo de &21016_hpCost&% da sua Vida Máx. por segundo. Durante o efeito, cada inimigo morto dentro de 250 de alcance restaura &21016_hpBack& de Vida para você. O efeito da habilidade termina após &21016_time&s ou quando sua Vida estiver abaixo de &21016_hpNow&%.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skillDescS210171": {
@@ -36001,13 +36001,13 @@
  "uiBrokenAltar_nandumiaoshu2": {
   "ch": "精英伤害提高&8002201_gwzs&%\n精英体力提高&8002301_gwtl&%\n仙人及大妖兽伤害提高&8002201_bbzs&%\n仙人及大妖兽体力提高&8002301_bbtl&%",
   "en": "Damage dealt by Elite Monsters increase by &8002201_gwzs&%\nVitality of Elite Monsters increase by &8002301_gwtl&%\nDamage dealt by Immortals and Mythical Beasts increase by &8002201_bbzs&%\nVitality of Immortals and Mythical Beasts increase by &8002301_bbtl&%",
-  "pt": "O dano causado por Monstros de Elite aumenta em &8002201_gwzs&%\nA Vitalidade dos Monstros de Elite aumenta em &8002301_gwtl&%\nO dano causado por Imortais e Feras Míticas aumenta em &8002201_bbzs&%\nA Vitalidade dos Imortais e Feras Míticas aumenta em &8002301_bbtl&%",
+  "pt": "O dano causado por Monstros de Elite aumenta em &8002201_gwzs&%\nA Vida dos Monstros de Elite aumenta em &8002301_gwtl&%\nO dano causado por Imortais e Feras Míticas aumenta em &8002201_bbzs&%\nA Vida dos Imortais e Feras Míticas aumenta em &8002301_bbtl&%",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "uiBrokenAltar_nandumiaoshu3": {
   "ch": "精英伤害提高&8002202_gwzs&%\n精英体力提高&8002302_gwtl&%\n仙人及大妖兽伤害提高&8002202_bbzs&%\n仙人及大妖兽体力提高&8002302_bbtl&%",
   "en": "Damage dealt by Elite Monsters increase by &8002202_gwzs&%\nVitality of Elite Monsters increase by &8002302_gwtl&%\nDamage dealt by Immortals and Mythical Beasts increase by &8002202_bbzs&%\nVitality of Immortals and Mythical Beasts increase by &8002302_bbtl&%",
-  "pt": "O Dano causado por Monstros de Elite aumenta em &8002202_gwzs&%\nA Vitalidade dos Monstros de Elite aumenta em &8002302_gwtl&%\nO Dano causado por Imortais e Feras Míticas aumenta em &8002202_bbzs&%\nA Vitalidade dos Imortais e Feras Míticas aumenta em &8002302_bbtl&%",
+  "pt": "O Dano causado por Monstros de Elite aumenta em &8002202_gwzs&%\nA Vida dos Monstros de Elite aumenta em &8002302_gwtl&%\nO Dano causado por Imortais e Feras Míticas aumenta em &8002202_bbzs&%\nA Vida dos Imortais e Feras Míticas aumenta em &8002302_bbtl&%",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "uiBrokenAltar_nanduweijiesuo": {
@@ -36353,7 +36353,7 @@
  "uiChickenReady_sortTypeNameHp": {
   "ch": "体力",
   "en": "Vitality",
-  "pt": "Vitalidade",
+  "pt": "Vida",
   "auto": "local/hy-mt2"
  },
  "uiChickenReady_sortTypeNameLevel": {
@@ -37979,7 +37979,7 @@
  "uibattleimmortal_wanfashuoming1": {
   "ch": "1. 你将受到法阵护盾的保护，一旦<r>失去护盾</r>将暴露在天劫的威能之中，<r>极其危险！</r>\n2.  当法阵存在时，可以使用更多的回复丹药，且使用丹药的念力消耗降低，间隔<r>大幅缩短</r>，但<r>不可使用</r>提升攻防的丹药。\n    渡过第一阶段后将融合部分法阵的力量，暂时使用仙力技能，此时法阵的效果将会解除。\n3. 可以借助法阵沟通天地<r>使用法则之力</r>。长按左Shift键完成蓄力后，松开按键即可使用。\n    劫兽被你击杀时，法阵将储存飘逸出的法则之力。\n4. 你需要激发体内的仙力来对抗天劫，此时将<r>无法移动，使用绝技、身法、神通及领域技能</r>。\n5. 天劫随时间推移将愈发猛烈，劫雷威能巨大失去护盾的保护时可能导致<r>瞬间死亡</r>，<r>时刻</r>保证你的<r>体力全满</r>并坚持一段时间。",
   "en": "1. You will be protected by the shield of the array, but once <r>the shield is expired</r>, you will be exposed to the power of the Heavenly Trial, it is <r>very dangerous!</r>\n2. In the duration of the array, you could use more recovery Elixirs, and the cost of Focus in using them will be decreased. The cooldown in using Elixirs will also be <r>reduced significantly</r>. However, the Elixirs for ATK and DEF bonuses are <r>not available</r>.\n    After the First Stage ends, some power from the array will be merged, and you could temporarily use Heavenly Power skills. The effect from the array will be removed at the same time.\n3. You could communicate the Heaven and the Earth using the array, and <r>employ the Power of Law</r>. Hold Left Shift to charge, and release the key to cast.\n    Whenever you slay Trial Monsters, the array will store the Power of Law emerged.\n4. You should make full use of the Heavenly Power inside you to endure the trial. During that, you <r>cannot Move, or cast Special, Motion, and Ultimate Skills, or Field Skills</r>.\n5. The intensity of the Heavenly Trial will increase over time, as well as the damage of the thunderbolts. If your shield expires, you may be <r>killed immediately</r>. Ensure your <r>Vitality is full</r> <r>at any moment</r>, and endure for some time.",
-  "pt": "1. Você será protegido pelo escudo da formação, mas assim que <r>o escudo expirar</r>, ficará exposto ao poder do Teste Celestial; isso é <r>muito perigoso!</r>\n2. Durante a vigência da formação, você poderá usar mais Elixires de recuperação, e o custo de Foco necessário para usá-los será reduzido. O tempo de recarga para o uso de Elixires também será <r>consideravelmente diminuído</r>. Contudo, os Elixires que proporcionam bônus de ATQ e DEF <r>não estarão disponíveis</r>.\n    Após o término da Primeira Fase, parte do poder da formação será incorporado, permitindo que você use temporariamente habilidades do Poder Celestial. Nesse momento, o efeito da formação será removido.\n3. Você poderá comunicar o Céu e a Terra por meio da formação, <r>aplicando o Poder da Lei</r>. Mantenha pressionado o Shift Esquerdo para carregar o poder; solte a tecla para lançá-lo.\n    Sempre que derrotar Monstros do Teste, a formação armazenará o Poder da Lei liberado.\n4. Você deve aproveitar ao máximo o Poder Celestial que possui para resistir ao teste. Durante esse período, <r>você não poderá se mover, nem usar Técnicas Especiais, Técnicas de Movimento, Técnicas Supremas ou Habilidades de Domínio</r>.\n5. A intensidade do Teste Celestial aumentará com o tempo, assim como o dano causado pelos raios. Quando seu escudo expirar, você poderá ser <r>imediatamente morto</r>. Certifique-se de que sua <r>Vitalidade esteja sempre cheia</r>, <r>em todo momento</r>, para aguentar por algum tempo.",
+  "pt": "1. Você será protegido pelo escudo da formação, mas assim que <r>o escudo expirar</r>, ficará exposto ao poder do Teste Celestial; isso é <r>muito perigoso!</r>\n2. Durante a vigência da formação, você poderá usar mais Elixires de recuperação, e o custo de Foco necessário para usá-los será reduzido. O tempo de recarga para o uso de Elixires também será <r>consideravelmente diminuído</r>. Contudo, os Elixires que proporcionam bônus de ATQ e DEF <r>não estarão disponíveis</r>.\n    Após o término da Primeira Fase, parte do poder da formação será incorporado, permitindo que você use temporariamente habilidades do Poder Celestial. Nesse momento, o efeito da formação será removido.\n3. Você poderá comunicar o Céu e a Terra por meio da formação, <r>aplicando o Poder da Lei</r>. Mantenha pressionado o Shift Esquerdo para carregar o poder; solte a tecla para lançá-lo.\n    Sempre que derrotar Monstros do Teste, a formação armazenará o Poder da Lei liberado.\n4. Você deve aproveitar ao máximo o Poder Celestial que possui para resistir ao teste. Durante esse período, <r>você não poderá se mover, nem usar Técnicas Especiais, Técnicas de Movimento, Técnicas Supremas ou Habilidades de Domínio</r>.\n5. A intensidade do Teste Celestial aumentará com o tempo, assim como o dano causado pelos raios. Quando seu escudo expirar, você poderá ser <r>imediatamente morto</r>. Certifique-se de que sua <r>Vida esteja sempre cheia</r>, <r>em todo momento</r>, para aguentar por algum tempo.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "uibattleimmortal_wanfashuoming2": {
@@ -38429,7 +38429,7 @@
  "ultimate_base_desc93001": {
   "ch": "牺牲自身一半血量，召唤赤焰鬼王",
   "en": "牺牲自身一半血量，召唤赤焰鬼王",
-  "pt": "Sacrifica metade da própria Vitalidade para invocar o Rei Fantasma de Chamas Vermelhas.",
+  "pt": "Sacrifica metade da própria Vida para invocar o Rei Fantasma de Chamas Vermelhas.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "ultimate_base_desc94001": {
@@ -38669,7 +38669,7 @@
  "ultimate_effect_desc1001": {
   "ch": "使用绝技后，在一段时间内增加最大生命值。",
   "en": "使用绝技后，在一段时间内增加最大生命值。",
-  "pt": "Após usar uma Técnica Suprema, a Vitalidade máxima aumenta por um período de tempo.",
+  "pt": "Após usar uma Técnica Suprema, a Vida máxima aumenta por um período de tempo.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "ultimate_effect_desc1002": {
@@ -39329,7 +39329,7 @@
  "unlockDesc30170": {
   "ch": "解锁条件：结算时体力大于500。",
   "en": "Unlock: Vitality is above 500 at the end of the campaign.",
-  "pt": "Desbloqueio: A Vitalidade deve estar acima de 500 no final da campanha.",
+  "pt": "Desbloqueio: A Vida deve estar acima de 500 no final da campanha.",
   "auto": "local/hy-mt2"
  },
  "unlockDesc302007": {
@@ -39365,7 +39365,7 @@
  "unlockDesc400052": {
   "ch": "解锁条件：结算时总计回复2000血。",
   "en": "Unlock: Restore 2000 Vitality at the end of the campaign.",
-  "pt": "Desbloqueio: Recuperou 2000 pontos de Vitalidade no final da campanha.",
+  "pt": "Desbloqueio: Recuperou 2000 pontos de Vida no final da campanha.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "unlockDesc400057": {
@@ -39983,7 +39983,7 @@
  "wingmanBaseDesc1004": {
   "ch": "　　对范围&33000011_zdfw&码内的敌人造成了&33000011_tjcs&次伤害后，凤凰即可使用飘渺之力。召唤烈焰缠绕自身，烈焰每&33000151_shjg&秒会燃烧你&33000152_kjtl&%的当前体力值并对周围敌人造成伤害，伤害威力为你燃烧的当前体力值，冷却&30000024_cd&秒。",
   "en": "　　Phoenix can use Ethereal Power after dealing damage &33000011_tjcs& times to enemies within &33000011_zdfw&. It summons Fiery Flame around itself, burning &33000152_kjtl&% of your Current Vitality every &33000151_shjg&s, dealing damage equal to your burned Current Vitality to enemies nearby. Cooldown: &30000024_cd&s.",
-  "pt": "　　A Fênix pode usar o Poder Etéreo depois de causar dano &33000011_tjcs& vezes a inimigos dentro de &33000011_zdfw&. Ela invoca Chama Ardente ao seu redor, queimando &33000152_kjtl&% da sua Vitalidade Atual a cada &33000151_shjg&s e causando aos inimigos próximos dano igual à Vitalidade Atual queimada. Recarga: &30000024_cd&s.",
+  "pt": "　　A Fênix pode usar o Poder Etéreo depois de causar dano &33000011_tjcs& vezes a inimigos dentro de &33000011_zdfw&. Ela invoca Chama Ardente ao seu redor, queimando &33000152_kjtl&% da sua Vida Atual a cada &33000151_shjg&s e causando aos inimigos próximos dano igual à Vida Atual queimada. Recarga: &30000024_cd&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "wingmanBaseDesc1005": {
@@ -40427,13 +40427,13 @@
  "wingmanFixValue100402": {
   "ch": "烈焰燃烧体力值的间隔&33000151_shjg+1&秒",
   "en": "Fiery Flame Vitality burning interval &33000151_shjg+1&s.",
-  "pt": "Intervalo de queima de Vitalidade da Chama Ardente: &33000151_shjg+1&s.",
+  "pt": "Intervalo de queima de Vida da Chama Ardente: &33000151_shjg+1&s.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wingmanFixValue100403": {
   "ch": "烈焰会额外燃烧召唤主&33000152_kjtl+1&%的最大体力值",
   "en": "Fiery Flame burns extra &33000152_kjtl+1&% Max Vitality of its summoner.",
-  "pt": "A Chama Ardente queima &33000152_kjtl+1&% a mais da Vitalidade Máx. de quem a invocou.",
+  "pt": "A Chama Ardente queima &33000152_kjtl+1&% a mais da Vida Máx. de quem a invocou.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "wingmanFixValue100404": {
@@ -40451,7 +40451,7 @@
  "wingmanFixValue100406": {
   "ch": "凤凰施放的烈焰熄灭后，回复你已损失体力值的&33000152_hfbl&%",
   "en": "After Phoenix's Fiery Flame is over, you recover &33000152_hfbl&% of your lost Vitality.",
-  "pt": "Após o término da Chama Ardente da Fênix, você recupera &33000152_hfbl&% da Vitalidade perdida.",
+  "pt": "Após o término da Chama Ardente da Fênix, você recupera &33000152_hfbl&% da Vida perdida.",
   "auto": "local/hy-mt2"
  },
  "wingmanFixValue100501": {
@@ -40499,7 +40499,7 @@
  "wingmanFixValue100508": {
   "ch": "飘渺之力期间你受到利刃的保护，使自身受到伤害不会超过自身最大体力的&34000801_jsbl&%",
   "en": "You are protected by the blades while Ethereal Power is active, and each damage you take won't exceed &34000801_jsbl&% of your Max Vitality.",
-  "pt": "Você fica protegido pelas lâminas enquanto o Poder Etéreo estiver ativo, e todo dano recebido não excederá &34000801_jsbl&% da sua Vitalidade Máx.",
+  "pt": "Você fica protegido pelas lâminas enquanto o Poder Etéreo estiver ativo, e todo dano recebido não excederá &34000801_jsbl&% da sua Vida Máx.",
   "auto": "local/hy-mt2"
  },
  "wingmanFixValue100601": {
@@ -40565,7 +40565,7 @@
  "wingmanFixValue100703": {
   "ch": "青鸾冲击命中已方单位时，可为已方单位回复&80005_hftl&%已损失的体力值",
   "en": "When Blue Bird Blast hits an allied unit, it restores &80005_hftl&% of lost Vitality for the allied unit.",
-  "pt": "Quando a Explosão do Pássaro Azul atinge uma unidade aliada, ela restaura &80005_hftl&% da Vitalidade perdida dessa unidade.",
+  "pt": "Quando a Explosão do Pássaro Azul atinge uma unidade aliada, ela restaura &80005_hftl&% da Vida perdida dessa unidade.",
   "auto": "local/hy-mt2"
  },
  "wingmanFixValue100704": {

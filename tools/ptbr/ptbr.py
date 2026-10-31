@@ -289,7 +289,7 @@ def obligatory_terms():
             forms = {fold(f) for f in (pt, number_variant(pt, plural=True), number_variant(pt, plural=False))}
             forms |= {feminine_variant(f) for f in forms}
             forms |= {abbreviate(f) for f in forms}
-            # Ponto final de abreviação opcional: "Vitalidade Máx." aceita "Vitalidade Máx".
+            # Ponto final de abreviação opcional: "Vida Máx." aceita "Vida Máx".
             word_rx = lambda w: re.escape(w[:-1]) + r'\.?' if w.endswith('.') else re.escape(w)
             pt_rx = [re.compile(r'(?<![a-z0-9])' + r'\w*\s+'.join(map(word_rx, f.split()))) for f in forms]
             terms.append((term, pt_rx, rx, is_ch, term in obrig, pt))

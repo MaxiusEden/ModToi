@@ -86,7 +86,7 @@
  "GodEyeSkills_desc_110076": {
   "ch": "在场上随机位置召唤出&110076_ddsl&个落叶光球，对碰触的敌人造成&110076_shwl&威力的伤害，最多持续&110076_ddzq&秒。光球每次命中敌人，为自身回复自身最大体力&110076_hxbl&%的生命值。",
   "en": "Summons &110076_ddsl& light orbs of falling leaves at random places on the battlefield, dealing &110076_shwl& damage to the enemy touched, lasting for up to &110076_ddzq&s. Each time a light orb hits an enemy, you recover &110076_hxbl&% of Max Vitality.",
-  "pt": "Invoca &110076_ddsl& orbes de luz feitos de folhas caídas em locais aleatórios no campo de batalha, causando &110076_shwl& dano ao inimigo atingido; esses orbes permanecem por até &110076_ddzq& segundos. Sempre que um orbe de luz atinge um inimigo, você recupera &110076_hxbl&% da Vitalidade Máx.",
+  "pt": "Invoca &110076_ddsl& orbes de luz feitos de folhas caídas em locais aleatórios no campo de batalha, causando &110076_shwl& dano ao inimigo atingido; esses orbes permanecem por até &110076_ddzq& segundos. Sempre que um orbe de luz atinge um inimigo, você recupera &110076_hxbl&% da Vida Máx.",
   "auto": "local/hy-mt2"
  },
  "GodEyeSkills_desc_5151": {
@@ -152,7 +152,7 @@
  "GodEyeSkills_desc_7128": {
   "ch": "选取距离自身最近的敌人，对其随机施加“痴怒苦乐”效果的一种。痴，将同时禁锢自身与敌人，持续&7122_kmsc&秒；怒，使自身与对方的攻击力提升&7122_kmsn&%，持续&7122_gjsj&秒；苦，令目标在&7122_shsj&秒内，持续受到&7122_kmsk|x1|f0&/秒的伤害，同时也会使自身受到少量伤害；乐，使自身与对方恢复&7122_tlhf&点体力。",
   "en": "Select the closest enemy and randomly apply one of these four effects: Fool, Rage, Suffer, Joy. If hit by Fool, the enemy will be confined, and you too, for &7122_kmsc&s. Rage increases you and your enemy ATK by &7122_kmsn&% for &7122_gjsj&s. Suffer will make the target suffer &7122_kmsk|x1|f0&/s damage within &7122_shsj&s. Joy recovers &7122_tlhf& Vitality for you and your enemy.",
-  "pt": "Selecione o inimigo mais próximo e aplique aleatoriamente um desses quatro efeitos: Tolice, Fúria, Sofrimento ou Alegria. Se o inimigo for atingido por Tolice, ele ficará confinado, assim como você, por &7122_kmsc&s. Fúria aumenta a ATQ tanto sua quanto do inimigo em &7122_kmsn&% durante &7122_gjsj&s. Sofrimento faz com que o alvo receba &7122_kmsk|x1|f0&/s de dano ao longo de &7122_shsj&s. Já a Alegria recupera &7122_tlhf& de Vitalidade para você e para o inimigo.",
+  "pt": "Selecione o inimigo mais próximo e aplique aleatoriamente um desses quatro efeitos: Tolice, Fúria, Sofrimento ou Alegria. Se o inimigo for atingido por Tolice, ele ficará confinado, assim como você, por &7122_kmsc&s. Fúria aumenta a ATQ tanto sua quanto do inimigo em &7122_kmsn&% durante &7122_gjsj&s. Sofrimento faz com que o alvo receba &7122_kmsk|x1|f0&/s de dano ao longo de &7122_shsj&s. Já a Alegria recupera &7122_tlhf& de Vida para você e para o inimigo.",
   "auto": "local/hy-mt2"
  },
  "GodEyeSkills_desc_7151": {
@@ -170,7 +170,7 @@
  "GodEyeSkills_desc_7153": {
   "ch": "回复最大体力的&7153_hxbl&%并获得一层防护罩，使自身受到的伤害&7153_shjm&%，持续&7153_jssj&秒。",
   "en": "Recover &7153_hxbl&% of Max Vitality and obtain one shield stack, so damage taken is &7153_shjm&% for &7153_jssj&s.",
-  "pt": "Recupere &7153_hxbl&% da Vitalidade Máx. e ganhe um acúmulo de escudo, fazendo com que o dano recebido seja &7153_shjm&% durante &7153_jssj&s.",
+  "pt": "Recupere &7153_hxbl&% da Vida Máx. e ganhe um acúmulo de escudo, fazendo com que o dano recebido seja &7153_shjm&% durante &7153_jssj&s.",
   "auto": "local/hy-mt2"
  },
  "GodEyeSkills_desc_71541": {
@@ -542,7 +542,7 @@
  "GodEyeSkills_desc_788188": {
   "ch": "获得天罡之怒效果，当自身体力低于最大值的&788188_tlbl&%时，攻击力提升&788188_gjjc&%，持续&788188_cxsj&秒。",
   "en": "Gain Wrath of Tiangang effect: when Vitality is below &788188_tlbl&% of max value, gain &788188_gjjc&% ATK Up for &788188_cxsj&s.",
-  "pt": "Ativa o efeito da Ira de Tiangang: quando a Vitalidade estiver abaixo de &788188_tlbl&% do valor máximo, ganha-se &788188_gjjc&% de aumento de ATQ por &788188_cxsj& segundos.",
+  "pt": "Ativa o efeito da Ira de Tiangang: quando a Vida estiver abaixo de &788188_tlbl&% do valor máximo, ganha-se &788188_gjjc&% de aumento de ATQ por &788188_cxsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "GodEyeSkills_desc_7892": {

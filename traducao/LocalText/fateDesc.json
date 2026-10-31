@@ -92,13 +92,13 @@
  "fateDesc100017": {
   "ch": "当你在战斗中体力低于&700117_ljtl&%时，有概率会得到神秘人的出手相助。",
   "en": "When your Vitality drops below &700117_ljtl&% in battle, you have a chance to receive help from a Mystery Man.",
-  "pt": "Quando sua Vitalidade cair abaixo de &700117_ljtl&% em batalha, você tem uma chance de receber ajuda de um Homem Misterioso.",
+  "pt": "Quando sua Vida cair abaixo de &700117_ljtl&% em batalha, você tem uma chance de receber ajuda de um Homem Misterioso.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100018": {
   "ch": "当你在战斗中体力低于&700118_ljtl&%时，有概率会得到鸡王的出手相助。",
   "en": "When your Vitality drops below &700118_ljtl&% in battle, you have a chance to receive help from a Chicken King.",
-  "pt": "Quando sua Vitalidade cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei dos Frangos.",
+  "pt": "Quando sua Vida cair abaixo de &700118_ljtl&% em batalha, você tem uma chance de receber ajuda do Rei dos Frangos.",
   "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc100019": {
@@ -158,7 +158,7 @@
  "fateDesc100032": {
   "ch": "受到伤害时，有&100032_fireChickProb&%的几率出现一只燃烧的小鸡攻击敌人，每次触发时可获得等同于最大体力&100032_shieldRate&%的护盾并释放一次崩山拳",
   "en": "&100032_fireChickProb&% chance to summon a fiery chicken to attack enemies every time you take damage. Every triggering of the skill will grant you a Shield equal to your &100032_shieldRate&% Max Vitality and an instant cast of Hillbreaker Fist.",
-  "pt": "Ao receber dano, há &100032_fireChickProb&% de chance de invocar uma galinha de fogo para atacar inimigos. Cada ativação concede um Escudo igual a &100032_shieldRate&% da sua Vitalidade Máx. e uma invocação instantânea de Punho Quebra-Colinas.",
+  "pt": "Ao receber dano, há &100032_fireChickProb&% de chance de invocar uma galinha de fogo para atacar inimigos. Cada ativação concede um Escudo igual a &100032_shieldRate&% da sua Vida Máx. e uma invocação instantânea de Punho Quebra-Colinas.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100033": {
@@ -218,7 +218,7 @@
  "fateDesc100046": {
   "ch": "入浑反朴对伤害来源造成的伤害，提升为最大体力的<g>20</g>%。",
   "en": "Increase the reflective damage dealt by Mirrored Move to <g>20</g>% of your Max Vitality.",
-  "pt": "Aumente o dano refletivo causado por Movimento Espelhado para <g>20</g>% da sua Vitalidade Máx.",
+  "pt": "Aumente o dano refletivo causado por Movimento Espelhado para <g>20</g>% da sua Vida Máx.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc100047": {
@@ -278,7 +278,7 @@
  "fateDesc11204": {
   "ch": "水灵根&11204_frozeBasUp&，每&11204_water&点水灵根可使体力回复&11204_hpBack&",
   "en": "Water Root &11204_frozeBasUp&. Every &11204_water& Water root will &11204_hpBack& your Vitality Restoration.",
-  "pt": "Raiz de Água &11204_frozeBasUp&. Cada &11204_water& ponto em Raiz de Água aumentará em &11204_hpBack& a Recuperação de Vitalidade.",
+  "pt": "Raiz de Água &11204_frozeBasUp&. Cada &11204_water& ponto em Raiz de Água aumentará em &11204_hpBack& a Recuperação de Vida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc11304": {
@@ -302,7 +302,7 @@
  "fateDesc11604": {
   "ch": "木灵根&11604_woodBasUp&，每点木灵根可使最大体力&11604_hpMax&。",
   "en": "Wood Root &11604_woodBasUp&. Every Wood root will &11604_hpMax& your Max Vitality.",
-  "pt": "Raiz de Madeira &11604_woodBasUp&. Cada ponto em Raiz de Madeira aumentará em &11604_hpMax& a Vitalidade Máx.",
+  "pt": "Raiz de Madeira &11604_woodBasUp&. Cada ponto em Raiz de Madeira aumentará em &11604_hpMax& a Vida Máx.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc201001": {
@@ -314,7 +314,7 @@
  "fateDesc201002": {
   "ch": "幸运可发挥&41202_luckFix&%效果。体力回复仅发挥&41202_hpRestoreFix&%效果。",
   "en": "Luck is &41202_luckFix&% more effective. Vitality Restoration is &41202_hpRestoreFix&% less effective.",
-  "pt": "A Sorte tem &41202_luckFix&% mais eficácia. A Recuperação de Vitalidade é &41202_hpRestoreFix&% menos eficaz.",
+  "pt": "A Sorte tem &41202_luckFix&% mais eficácia. A Recuperação de Vida é &41202_hpRestoreFix&% menos eficaz.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20101": {
@@ -326,13 +326,13 @@
  "fateDesc20102": {
   "ch": "体力回复&20102_hpRestoreDown&。进入战斗后，最大体力&20102_hpMaxUp&（当前体力不变），体型大小改为&20102_modelSizeUp&%",
   "en": "Vitality Restoration &20102_hpRestoreDown&. Max Vitality &20102_hpMaxUp& after entering battle (will not affect Current Vitality), character size &20102_modelSizeUp&%",
-  "pt": "Recuperação de Vitalidade &20102_hpRestoreDown&. Ao entrar em batalha, a Vitalidade Máx. aumenta em &20102_hpMaxUp& (a Vitalidade Atual permanece inalterada), o tamanho do personagem é alterado para &20102_modelSizeUp&%.",
+  "pt": "Recuperação de Vida &20102_hpRestoreDown&. Ao entrar em batalha, a Vida Máx. aumenta em &20102_hpMaxUp& (a Vida Atual permanece inalterada), o tamanho do personagem é alterado para &20102_modelSizeUp&%.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20103": {
   "ch": "斩杀敌人的最低生命值&103_killHp%88&%，每斩杀一个敌人后，自身攻击速度&700313_gsts&%，持续&700313_cxsj&秒，最多可叠加&700313_djcs&层（仅对具备斩杀效果的技能生效）。",
   "en": "Enemy's Vitality threshold to trigger Execution &103_killHp%88&%. After every execution, your Attack Speed &700313_gsts&% for &700313_cxsj&s, up to &700313_djcs& stacks. Applicable only to skills with Execution effect.",
-  "pt": "O limite de Vitalidade do inimigo para ativar Execução é de &103_killHp%88&%. Após cada execução, sua Velocidade de Ataque aumenta em &700313_gsts&% por &700313_cxsj&s, até &700313_djcs& camadas. Aplicável apenas a habilidades com efeito de Execução.",
+  "pt": "O limite de Vida do inimigo para ativar Execução é de &103_killHp%88&%. Após cada execução, sua Velocidade de Ataque aumenta em &700313_gsts&% por &700313_cxsj&s, até &700313_djcs& camadas. Aplicável apenas a habilidades com efeito de Execução.",
   "auto": "nuvem/revisao-prioridade"
  },
  "fateDesc2020003": {
@@ -344,7 +344,7 @@
  "fateDesc2020004": {
   "ch": "生命回复&42102_hpRestoreUp&，幸运&42102_luckDown&。",
   "en": "Vitality Restoration &42102_hpRestoreUp&, Luck &42102_luckDown&.",
-  "pt": "Recuperação de Vitalidade &42102_hpRestoreUp&, Sorte &42102_luckDown&.",
+  "pt": "Recuperação de Vida &42102_hpRestoreUp&, Sorte &42102_luckDown&.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc202001": {
@@ -398,7 +398,7 @@
  "fateDesc20303": {
   "ch": "每施加&7003321_lxcs&次流血效果后，可使自身恢复&7003321_hpRecover&点体力。",
   "en": "Every &7003321_lxcs& times of inflicting Bleed will restore &7003321_hpRecover& Vitality for you.",
-  "pt": "A cada &7003321_lxcs& aplicações de Sangramento, recupere &7003321_hpRecover& de Vitalidade.",
+  "pt": "A cada &7003321_lxcs& aplicações de Sangramento, recupere &7003321_hpRecover& de Vida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc2040001": {
@@ -422,7 +422,7 @@
  "fateDesc20402": {
   "ch": "在进入战斗时，你的体力只保留&20402_hpLeft&点，其它的全部转化成护盾。",
   "en": "After entering battle, you'll only keep &20402_hpLeft& Vitality. The remaining Vitality will be converted into a shield.",
-  "pt": "Ao entrar em batalha, você manterá apenas &20402_hpLeft& de Vitalidade. A Vitalidade restante será convertida em um Escudo.",
+  "pt": "Ao entrar em batalha, você manterá apenas &20402_hpLeft& de Vida. A Vida restante será convertida em um Escudo.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20403": {
@@ -470,7 +470,7 @@
  "fateDesc2060002": {
   "ch": "保持静止时，抗性&46101_pfrUp&，生命回复&46101_hpRestoreUp&。",
   "en": "Gain &46101_pfrUp& Resistance and &46101_hpRestoreUp& Vitality Restoration when you're standing still.",
-  "pt": "Ao ficar parado, ganhe &46101_pfrUp& de Resistência e &46101_hpRestoreUp& de Recuperação de Vitalidade.",
+  "pt": "Ao ficar parado, ganhe &46101_pfrUp& de Resistência e &46101_hpRestoreUp& de Recuperação de Vida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc20601": {
@@ -524,7 +524,7 @@
  "fateDesc21102": {
   "ch": "体力消耗的次数达到&21102_hpCostSum&次时（受到伤害不算），可召唤凤凰进入战场，朝地面喷火，产生烈焰",
   "en": "Summon a phoenix to scorch your enemies with Fiery Flames after every &21102_hpCostSum& time of actively consuming Vitality.",
-  "pt": "Invoca uma fênix para queimar seus inimigos com Chamas Ardentes após cada &21102_hpCostSum& vezes de consumo ativo de Vitalidade.",
+  "pt": "Invoca uma fênix para queimar seus inimigos com Chamas Ardentes após cada &21102_hpCostSum& vezes de consumo ativo de Vida.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc212001": {
@@ -548,7 +548,7 @@
  "fateDesc21202": {
   "ch": "当受到超过&21202_hurtHpMax&%最大体力的伤害时，改为&21202_hurtMax&%的最大体力伤害，并引发一次全场霜冻，对所有敌人施加霜冻效果，每&21202_cd&秒最多触发一次",
   "en": "Cap your damage taken at &21202_hurtMax&% of your Max Vitality and inflict Frost on all enemies when the imminent damage is over &21202_hurtHpMax&% of your Max Vitality. Cooldown: &21202_cd&s",
-  "pt": "Limita o dano recebido a &21202_hurtMax&% da sua Vitalidade Máx. e inflige Gelo a todos os inimigos quando o dano iminente exceder &21202_hurtHpMax&% da sua Vitalidade Máx. Recarga: &21202_cd&s",
+  "pt": "Limita o dano recebido a &21202_hurtMax&% da sua Vida Máx. e inflige Gelo a todos os inimigos quando o dano iminente exceder &21202_hurtHpMax&% da sua Vida Máx. Recarga: &21202_cd&s",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21203": {
@@ -584,13 +584,13 @@
  "fateDesc214001": {
   "ch": "每次受到伤害时，会对伤害来源造成最大体力的&210141_dmgLost&%的伤害。",
   "en": "Every time you take damage, you deal damage equaling to &210141_dmgLost&% of your Max Vitality to the enemy that hit you.",
-  "pt": "Toda vez que você recebe dano, causa dano igual a &210141_dmgLost&% da sua Vitalidade Máx. ao inimigo que o atingiu.",
+  "pt": "Toda vez que você recebe dano, causa dano igual a &210141_dmgLost&% da sua Vida Máx. ao inimigo que o atingiu.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc214002": {
   "ch": "最大体力&210142_hpMax&，所有资质仅能发挥&210142_efficiency&%效果。",
   "en": "Max Vitality &210142_hpMax&, all stats are &210142_efficiency&% less effective.",
-  "pt": "Vitalidade Máx. &210142_hpMax&, todos os atributos são &210142_efficiency&% menos eficazes.",
+  "pt": "Vida Máx. &210142_hpMax&, todos os atributos são &210142_efficiency&% menos eficazes.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21401": {
@@ -614,7 +614,7 @@
  "fateDesc215002": {
   "ch": "每&215002_intervalTine&秒在场上生成一个蘑菇，拾取后可回复&215002_hpBack&点体力。",
   "en": "Generate a mushroom every &215002_intervalTine&s in the battlefield, restoring &215002_hpBack& Vitality after picking it up.",
-  "pt": "Gerar um cogumelo a cada &215002_intervalTine&s no campo de batalha, restaurando &215002_hpBack& de Vitalidade ao coletá-lo.",
+  "pt": "Gerar um cogumelo a cada &215002_intervalTine&s no campo de batalha, restaurando &215002_hpBack& de Vida ao coletá-lo.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "fateDesc21501": {

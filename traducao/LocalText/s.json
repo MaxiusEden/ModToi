@@ -122,7 +122,7 @@
  "s_12112_zsts": {
   "ch": "$s_jueqing$的斩杀上限&12112_zsts&点。",
   "en": "$s_jueqing$'s Vitality Threshold boost &12112_zsts&",
-  "pt": "O aumento do Limiar de Vitalidade de $s_jueqing$ &12112_zsts&",
+  "pt": "O aumento do Limiar de Vida de $s_jueqing$ &12112_zsts&",
   "auto": "local/hy-mt2"
  },
  "s_12113_ljgl": {
@@ -506,7 +506,7 @@
  "s_15112_hdsx": {
   "ch": "护盾值上限&15112_hdsx&点。",
   "en": "Max Shield Vitality &15112_hdsx&",
-  "pt": "Vitalidade Máx. do Escudo &15112_hdsx&",
+  "pt": "Vida Máx. do Escudo &15112_hdsx&",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_15112_hdsx%1": {
@@ -518,7 +518,7 @@
  "s_15112_hdts": {
   "ch": "$s_tongpi$叠加的护盾值增加&15112_hdts&点。",
   "en": "$s_tongpi$'s Shield Vitality +&15112_hdts&",
-  "pt": "Vitalidade do Escudo de $s_tongpi$ +&15112_hdts&",
+  "pt": "Vida do Escudo de $s_tongpi$ +&15112_hdts&",
   "auto": "local/hy-mt2"
  },
  "s_15113_jlsh": {
@@ -836,7 +836,7 @@
  "s_2001_tili": {
   "ch": "体力上限&2001_tili&。",
   "en": "Max Vitality &2001_tili&",
-  "pt": "Vitalidade Máx. &2001_tili&",
+  "pt": "Vida Máx. &2001_tili&",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_22111_jscd": {
@@ -860,7 +860,7 @@
  "s_22111_xzxx": {
   "ch": "血斩造成的伤害，可吸血&22111_xzxx&%。",
   "en": "&22111_xzxx&% of blood slash's damage will be converted into your Vitality.",
-  "pt": "&22111_xzxx&% do dano do corte de sangue será convertido em sua Vitalidade.",
+  "pt": "&22111_xzxx&% do dano do corte de sangue será convertido em sua Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_22111_zjcd": {
@@ -908,7 +908,7 @@
  "s_22112_xxbl": {
   "ch": "若使用此技能时，自身拥有至少&22112_xqcs&层$s_jueqing$，则获得吸血&22112_xxbl&%，持续&22112_xxsj&秒。",
   "en": "If you have at least &22112_xqcs& stacks of $s_jueqing$ when casting this skill, you'll convert &22112_xxbl&% of damage done into your Vitality for &22112_xxsj&s.",
-  "pt": "Se você tiver pelo menos &22112_xqcs& pilhas de $s_jueqing$ ao usar esta habilidade, converterá &22112_xxbl&% do dano causado em Vitalidade por &22112_xxsj& segundos.",
+  "pt": "Se você tiver pelo menos &22112_xqcs& pilhas de $s_jueqing$ ao usar esta habilidade, converterá &22112_xxbl&% do dano causado em Vida por &22112_xxsj& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_22113_jscd": {
@@ -932,7 +932,7 @@
  "s_22113_xzxx": {
   "ch": "血斩造成的伤害，可吸血&22113_xzxx&%。",
   "en": "&22113_xzxx&% of blood slash's damage will be converted into your Vitality.",
-  "pt": "&22113_xzxx&% do dano do corte de sangue será convertido em sua Vitalidade.",
+  "pt": "&22113_xzxx&% do dano do corte de sangue será convertido em sua Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_22113_zjcd": {
@@ -980,7 +980,7 @@
  "s_22114_xxbl": {
   "ch": "若使用此技能时，自身拥有至少&22114_xqcs&层$s_jueqing$，则获得吸血&22114_xxbl&%，持续&22114_xxsj&秒。",
   "en": "If you have at least &22114_xqcs& stacks of $s_jueqing$ when casting this skill, you'll convert &22114_xxbl&% of damage done into your Vitality for &22114_xxsj&s.",
-  "pt": "Se você tiver pelo menos &22114_xqcs& acúmulos de $s_jueqing$ ao usar essa habilidade, irá converter &22114_xxbl&% do dano causado em sua Vitalidade, por &22114_xxsj& segundos.",
+  "pt": "Se você tiver pelo menos &22114_xqcs& acúmulos de $s_jueqing$ ao usar essa habilidade, irá converter &22114_xxbl&% do dano causado em sua Vida, por &22114_xxsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "s_22115_ddsl": {
@@ -1010,7 +1010,7 @@
  "s_22115_xzxx": {
   "ch": "血斩造成的伤害，可吸血&22115_xzxx&%。",
   "en": "&22115_xzxx&% of blood slash's damage will be converted into your Vitality.",
-  "pt": "&22115_xzxx&% do dano do corte de sangue será convertido em sua Vitalidade.",
+  "pt": "&22115_xzxx&% do dano do corte de sangue será convertido em sua Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_22115_zjgl": {
@@ -1052,7 +1052,7 @@
  "s_22116_xxbl": {
   "ch": "若使用此技能时，自身拥有至少&22116_xqcs&层$s_jueqing$，则获得吸血&22116_xxbl&%，持续&22116_xxsj&秒。",
   "en": "If you have at least &22116_xqcs& stacks of $s_jueqing$ when casting this skill, you'll convert &22116_xxbl&% of damage done into your Vitality for &22116_xxsj&s.",
-  "pt": "Se você tiver pelo menos &22116_xqcs& pilhas de $s_jueqing$ ao usar essa habilidade, converterá &22116_xxbl&% do dano causado em Vitalidade, por um período de &22116_xxsj& segundos.",
+  "pt": "Se você tiver pelo menos &22116_xqcs& pilhas de $s_jueqing$ ao usar essa habilidade, converterá &22116_xxbl&% do dano causado em Vida, por um período de &22116_xxsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "s_23111_ddsl": {
@@ -2462,7 +2462,7 @@
  "s_35112_tlhf": {
   "ch": "施展神通时，每秒恢复的体力&35112_tlhf&点。",
   "en": "While you're casting an Ultimate Skill, you'll restore &35112_tlhf& Vitality every second.",
-  "pt": "Enquanto estiver usando uma Técnica Suprema, você recuperará &35112_tlhf& de Vitalidade a cada segundo.",
+  "pt": "Enquanto estiver usando uma Técnica Suprema, você recuperará &35112_tlhf& de Vida a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_35112_tssd": {
@@ -4034,7 +4034,7 @@
  "s_510151_tkht": {
   "ch": "遁入地下时，每秒可为场上的$s_tukuilei$恢复体力&510151_tkht&%。",
   "en": "When you're underground, you'll restore $s_tukuilei$s' Vitality by &510151_tkht&% every second.",
-  "pt": "Quando estiver debaixo da terra, você restaurará &510151_tkht&% da Vitalidade de $s_tukuilei$s a cada segundo.",
+  "pt": "Quando estiver debaixo da terra, você restaurará &510151_tkht&% da Vida de $s_tukuilei$s a cada segundo.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_510151_tkjs": {
@@ -4070,7 +4070,7 @@
  "s_510161_hftl": {
   "ch": "蝶舞可为路径上的友方单位恢复体力&510161_hftl&点。",
   "en": "Butterfly restores &510161_hftl& Vitality to allies in its path.",
-  "pt": "A Borboleta restaura &510161_hftl& de Vitalidade aos aliados em seu caminho.",
+  "pt": "A Borboleta restaura &510161_hftl& de Vida aos aliados em seu caminho.",
   "auto": "local/hy-mt2"
  },
  "s_510161_hlcs": {
@@ -5168,7 +5168,7 @@
  "s_55116_hfkl": {
   "ch": "使用技能时可消耗自身所有$s_shifu$，每消耗一层$s_shifu$可为场上随机一个$s_tukuilei$恢复体力&55116_hfkl&%，并且增加&55116_zjkl&秒$s_tukuilei$的持续时间。",
   "en": "You can consume all stacks of $s_shifu$ when you cast this skill. For every stack of $s_shifu$ consumed, you'll restore a random $s_tukuilei$'s Vitality by &55116_hfkl&% and extend the duration of this $s_tukuilei$ by &55116_zjkl&s.",
-  "pt": "Você pode consumir todas as pilhas de $s_shifu$ ao usar essa habilidade. Para cada pilha de $s_shifu$ consumida, a Vitalidade de um $s_tukuilei$ aleatório será restaurada em &55116_hfkl&% e a duração da existência desse $s_tukuilei$ será aumentada em &55116_zjkl& segundos.",
+  "pt": "Você pode consumir todas as pilhas de $s_shifu$ ao usar essa habilidade. Para cada pilha de $s_shifu$ consumida, a Vida de um $s_tukuilei$ aleatório será restaurada em &55116_hfkl&% e a duração da existência desse $s_tukuilei$ será aumentada em &55116_zjkl& segundos.",
   "auto": "local/hy-mt2"
  },
  "s_55116_kltl": {
@@ -5252,7 +5252,7 @@
  "s_56112_tstl": {
   "ch": "活元强化提升的最大体力&56112_tstl&。",
   "en": "Primal Energy increases &56112_tstl& extra Max Vitality",
-  "pt": "A Energia Primordial aumenta em &56112_tstl& a Vitalidade Máx. extra.",
+  "pt": "A Energia Primordial aumenta em &56112_tstl& a Vida Máx. extra.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_56112_yqfw": {
@@ -5264,7 +5264,7 @@
  "s_56112_zjht": {
   "ch": "使用技能时可消耗自身所有$s_hualing$，每消耗一层$s_hualing$，此技能召唤出的$s_xiaohuayao$的体力上限提升&56112_zjht&%。",
   "en": "You can consume all stacks of $s_hualing$ when you cast this skill. For every stack of $s_hualing$ consumed, the $s_xiaohuayao$ summoned by this skill will have its Max Vitality increased by &56112_zjht&%.",
-  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar essa habilidade. Para cada pilha de $s_hualing$ consumida, a Vitalidade Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56112_zjht&%.",
+  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar essa habilidade. Para cada pilha de $s_hualing$ consumida, a Vida Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56112_zjht&%.",
   "auto": "local/hy-mt2"
  },
  "s_56113_dbsh": {
@@ -5330,13 +5330,13 @@
  "s_56114_tstl": {
   "ch": "活灵强化提升的最大体力&56114_tstl&。",
   "en": "Floral Spirit increases &56114_tstl& extra Max Vitality",
-  "pt": "O Espírito Floral aumenta em &56114_tstl& a Vitalidade Máx. extra.",
+  "pt": "O Espírito Floral aumenta em &56114_tstl& a Vida Máx. extra.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_56114_zjht": {
   "ch": "使用技能时可消耗自身所有$s_hualing$，每消耗一层$s_hualing$，此技能召唤出的$s_xiaohuayao$的体力上限提升&56114_zjht&%。",
   "en": "You can consume all stacks of $s_hualing$ when you cast this skill. For every stack of $s_hualing$ consumed, the $s_xiaohuayao$ summoned by this skill will have its Max Vitality increased by &56114_zjht&%.",
-  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar esta habilidade. Para cada pilha de $s_hualing$ consumida, a Vitalidade Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56114_zjht&%.",
+  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar esta habilidade. Para cada pilha de $s_hualing$ consumida, a Vida Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56114_zjht&%.",
   "auto": "local/hy-mt2"
  },
  "s_56115_dbsh": {
@@ -5354,7 +5354,7 @@
  "s_56115_dztl": {
   "ch": "毒株继承的体力&56115_dztl&%。",
   "en": "Poisonous Plant inherits &56115_dztl&% Vitality",
-  "pt": "Planta Venenosa herda &56115_dztl&% de Vitalidade",
+  "pt": "Planta Venenosa herda &56115_dztl&% de Vida",
   "auto": "local/hy-mt2"
  },
  "s_56115_flsj": {
@@ -5402,13 +5402,13 @@
  "s_56116_tstl": {
   "ch": "活力强化提升的最大体力&56116_tstl&%。",
   "en": "Thorny Spirit increases &56116_tstl&% extra Max Vitality",
-  "pt": "O Espírito Espinhoso aumenta em &56116_tstl&% a Vitalidade Máx. extra.",
+  "pt": "O Espírito Espinhoso aumenta em &56116_tstl&% a Vida Máx. extra.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_56116_zjht": {
   "ch": "使用技能时可消耗自身所有$s_hualing$，每消耗一层$s_hualing$，此技能召唤出的$s_xiaohuayao$的体力上限提升&56116_zjht&%。",
   "en": "You can consume all stacks of $s_hualing$ when you cast this skill. For every stack of $s_hualing$ consumed, the $s_xiaohuayao$ summoned by this skill will have its Max Vitality increased by &56116_zjht&%.",
-  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar essa habilidade. Para cada pilha de $s_hualing$ consumida, a Vitalidade Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56116_zjht&%.",
+  "pt": "Você pode consumir todas as pilhas de $s_hualing$ ao usar essa habilidade. Para cada pilha de $s_hualing$ consumida, a Vida Máx. do $s_xiaohuayao$ invocado por essa habilidade aumentará em &56116_zjht&%.",
   "auto": "local/hy-mt2"
  },
  "s_5_0_1": {
@@ -5756,7 +5756,7 @@
  "s_65111_klhf": {
   "ch": "山崩范围内每死亡一个敌人，可使场上所有$s_tukuilei$的体力恢复&65111_klhf&%。",
   "en": "For every enemy dies within Earthfall's area, all $s_tukuilei$s' Vitality will be restored by &65111_klhf&%.",
-  "pt": "Para cada inimigo que morrer dentro da área da Queda da Terra, a Vitalidade de todos os $s_tukuilei$s será restaurada em &65111_klhf&%.",
+  "pt": "Para cada inimigo que morrer dentro da área da Queda da Terra, a Vida de todos os $s_tukuilei$s será restaurada em &65111_klhf&%.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_65111_sbfw": {
@@ -5786,7 +5786,7 @@
  "s_65112_jlht": {
   "ch": "每当一个友方$s_tukuilei$死亡时，可使$s_julingkuilei$的体力恢复&65112_jlht&%。",
   "en": "Every time an ally $s_tukuilei$ dies, the $s_julingkuilei$'s Vitality will be restored by &65112_jlht&%.",
-  "pt": "Toda vez que um aliado $s_tukuilei$ morre, a Vitalidade do $s_julingkuilei$ é restaurada em &65112_jlht&%.",
+  "pt": "Toda vez que um aliado $s_tukuilei$ morre, a Vida do $s_julingkuilei$ é restaurada em &65112_jlht&%.",
   "auto": "local/hy-mt2"
  },
  "s_65112_jlsj": {
@@ -5846,7 +5846,7 @@
  "s_66111_tshx": {
   "ch": "$s_dulonghua$每吞噬一个敌人，可使场上所有友方召唤物的体力恢复&66111_tshx&%。",
   "en": "Every time the $s_dulonghua$ devours an enemy, the Vitality of all units summoned by allies is restored by &66111_tshx&%.",
-  "pt": "Toda vez que o $s_dulonghua$ devora um inimigo, a Vitalidade de todas as unidades invocadas por aliados é restaurada em &66111_tshx&%.",
+  "pt": "Toda vez que o $s_dulonghua$ devora um inimigo, a Vida de todas as unidades invocadas por aliados é restaurada em &66111_tshx&%.",
   "auto": "local/hy-mt2"
  },
  "s_66112_crgl": {
@@ -5864,7 +5864,7 @@
  "s_66112_hyhf": {
   "ch": "场上每死亡一个敌人时，$s_huayaohou$的体力恢复&66112_hyhf&%。",
   "en": "Every time an enemy dies, the $s_huayaohou$'s Vitality is restored by &66112_hyhf&%.",
-  "pt": "Toda vez que um inimigo morre, a Vitalidade do $s_huayaohou$ é restaurada em &66112_hyhf&%.",
+  "pt": "Toda vez que um inimigo morre, a Vida do $s_huayaohou$ é restaurada em &66112_hyhf&%.",
   "auto": "local/hy-mt2"
  },
  "s_66112_xhsh": {
@@ -6032,7 +6032,7 @@
  "s_8100123_xqtl": {
   "ch": "每有&8100123_xqtl&点体力上限可使攻击提升&8100123_tsgj&点。",
   "en": "For every &8100123_xqtl& Max Vitality points, your ATK will increase by &8100123_tsgj&.",
-  "pt": "A cada &8100123_xqtl& pontos de Vitalidade Máx., seu ATQ aumentará em &8100123_tsgj&.",
+  "pt": "A cada &8100123_xqtl& pontos de Vida Máx., seu ATQ aumentará em &8100123_tsgj&.",
   "auto": "local/hy-mt2"
  },
  "s_8100124_tsgj": {
@@ -6092,13 +6092,13 @@
  "s_81011_tlsj": {
   "ch": "己方野猪的最大体力提升&81011_tstl&点。",
   "en": "Ally Wild Boars' Max Vitality +&81011_tstl&",
-  "pt": "Vitalidade Máx. dos Javalis Selvagens Aliados +&81011_tstl&",
+  "pt": "Vida Máx. dos Javalis Selvagens Aliados +&81011_tstl&",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_81011_tsys": {
   "ch": "此法宝强化时使所有友方召唤物回复的体力额外提升&81011_hftl+1&点，移动速度额外提升&81011_tsys+1&%。",
   "en": "This artifact's Vitality boost +&81011_hftl+1& and Agility boost +&81011_tsys+1&%",
-  "pt": "O aumento de Vitalidade deste artefato é +&81011_hftl+1& e o aumento de Agilidade é +&81011_tsys+1&%.",
+  "pt": "O aumento de Vida deste artefato é +&81011_hftl+1& e o aumento de Agilidade é +&81011_tsys+1&%.",
   "auto": "local/hy-mt2"
  },
  "s_81011_yzsl": {
@@ -6308,7 +6308,7 @@
  "s_81051_hdkg": {
   "ch": "此法宝每次吸收自身的灵力时，可为自身叠加&81051_tjhd&点的护盾",
   "en": "Every time this artifact absorbs your Energy, you'll receive a shield with &81051_tjhd& Vitality.",
-  "pt": "Toda vez que esse artefato absorver sua Energia, você receberá um escudo com &81051_tjhd& Vitalidade.",
+  "pt": "Toda vez que esse artefato absorver sua Energia, você receberá um escudo com &81051_tjhd& Vida.",
   "auto": "local/hy-mt2"
  },
  "s_81051_hqkg": {
@@ -6404,7 +6404,7 @@
  "s_81061lsqz": {
   "ch": "在此法宝的持续时间内，体力低于50%时，有概率生成绿色的宝珠，效果为回复最大体力的&81061_lsti&%。",
   "en": "For the duration of this artifact, when your Vitality is below 50%, this artifact has a chance to generate green orbs. Green orb's effect: Recover &81061_lsti&% of Max Vitality.",
-  "pt": "Durante o período de ativação deste artefato, quando sua Vitalidade estiver abaixo de 50%, ele tem chance de gerar orbes verdes. Efeito do orbe verde: recuperar &81061_lsti&% da Vitalidade Máx.",
+  "pt": "Durante o período de ativação deste artefato, quando sua Vida estiver abaixo de 50%, ele tem chance de gerar orbes verdes. Efeito do orbe verde: recuperar &81061_lsti&% da Vida Máx.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_81061lzqz": {
@@ -6440,7 +6440,7 @@
  "s_81071_fbtl": {
   "ch": "守护风暴回复的体力提升&81071_fbtl+1&点。",
   "en": "Stormward recovers &81071_fbtl+1& more Vitality.",
-  "pt": "O Guarda-Tempestade recupera +&81071_fbtl+1& de Vitalidade.",
+  "pt": "O Guarda-Tempestade recupera +&81071_fbtl+1& de Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_81071_fysj": {
@@ -6518,13 +6518,13 @@
  "s_81081_sstl": {
   "ch": "被灵剑命中的敌人在损失体力时，每&81081_ssjg&秒额外损失&81081_sstl+1&体力。",
   "en": "Enemies hit by a spirit sword will lose &81081_sstl+1& more Vitality every &81081_ssjg&s.",
-  "pt": "Inimigos atingidos por uma espada espiritual perderão mais &81081_sstl+1& de Vitalidade a cada &81081_ssjg& segundos.",
+  "pt": "Inimigos atingidos por uma espada espiritual perderão mais &81081_sstl+1& de Vida a cada &81081_ssjg& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_81081_tlkg": {
   "ch": "被灵剑命中的敌人，每&81081_ssjg&秒损失&81081_sstl&点体力。",
   "en": "Enemies hit by a spirit sword will lose &81081_sstl& Vitality every &81081_ssjg&s.",
-  "pt": "Inimigos atingidos por uma espada espiritual perderão &81081_sstl& de Vitalidade a cada &81081_ssjg& segundos.",
+  "pt": "Inimigos atingidos por uma espada espiritual perderão &81081_sstl& de Vida a cada &81081_ssjg& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_81091111_xbjg": {
@@ -6620,7 +6620,7 @@
  "s_8109221_xbsh": {
   "ch": "单个敌人在累计受到了&81092_ddsl&次血爆的伤害后，在接下来的&8109221_xbsh+1&内每秒对该敌人造成&81093_scxb&的伤害，每造成一次伤害会使召唤主回复&81093_hftl&。",
   "en": "After an enemy takes blood explosion damage &81092_ddsl& times, deals &81093_scxb& damage per sec to that enemy within the next &8109221_xbsh+1&, and each damage done restores &81093_hftl& for the summoner.",
-  "pt": "Depois que um inimigo sofrer dano por explosão de sangue &81092_ddsl& vezes, ele receberá &81093_scxb& de dano por segundo durante os próximos &8109221_xbsh+1&s, e cada dano causado restaura &81093_hftl& de Vitalidade para o invocador.",
+  "pt": "Depois que um inimigo sofrer dano por explosão de sangue &81092_ddsl& vezes, ele receberá &81093_scxb& de dano por segundo durante os próximos &8109221_xbsh+1&s, e cada dano causado restaura &81093_hftl& de Vida para o invocador.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_81092311_jssj": {
@@ -6698,145 +6698,145 @@
  "s_8200101_hftl": {
   "ch": "当武技/灵技为自身叠加的效果达到&8200101_xqcs&层时，每秒可恢复自身体力&8200101_hftl&点。",
   "en": "If you've received &8200101_xqcs& stacks of effects from your Martial/Spiritual Skills, you'll restore &8200101_hftl& Vitality every second.",
-  "pt": "Se você tiver recebido &8200101_xqcs& acúmulos de efeitos provenientes de suas Técnicas Marciais ou Espirituais, recuperará &8200101_hftl& de Vitalidade a cada segundo.",
+  "pt": "Se você tiver recebido &8200101_xqcs& acúmulos de efeitos provenientes de suas Técnicas Marciais ou Espirituais, recuperará &8200101_hftl& de Vida a cada segundo.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8200102_hftl": {
   "ch": "战斗中每击杀一个<p>精英单位</p>时，可恢复自身体力&8200102_hftl&点。",
   "en": "Every time you kill an <p>elite monster</p>, you'll restore &8200102_hftl& Vitality.",
-  "pt": "Toda vez que você mata um <p>monstro de elite</p>, recupera &8200102_hftl& de Vitalidade.",
+  "pt": "Toda vez que você mata um <p>monstro de elite</p>, recupera &8200102_hftl& de Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8200103_tstl": {
   "ch": "与修仙者战斗时，提升体力上限&8200103_tstl&点。",
   "en": "Your Max Vitality will increase by &8200103_tstl& when you fight other Cultivators.",
-  "pt": "Sua Vitalidade Máx. aumentará em &8200103_tstl& ao lutar contra outros Cultivadores.",
+  "pt": "Sua Vida Máx. aumentará em &8200103_tstl& ao lutar contra outros Cultivadores.",
   "auto": "local/hy-mt2"
  },
  "s_8200104_hftl": {
   "ch": "战斗中自身的体力低于&8200104_xqtl&%时，每秒可恢复自身体力&8200104_hftl&点。",
   "en": "When your Vitality is below &8200104_xqtl&%, you'll restore &8200104_hftl& Vitality every second.",
-  "pt": "Quando sua Vitalidade estiver abaixo de &8200104_xqtl&%, você recuperará &8200104_hftl& de Vitalidade a cada segundo.",
+  "pt": "Quando sua Vida estiver abaixo de &8200104_xqtl&%, você recuperará &8200104_hftl& de Vida a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8200105_hftl": {
   "ch": "在使用身法的持续时间内，每秒可恢复自身体力&8200105_hftl&点。",
   "en": "For the duration of your Motion Skill, your Vitality is restored by &8200105_hftl& every second.",
-  "pt": "Durante o período em que sua Técnica de Movimento estiver ativa, sua Vitalidade é restaurada em &8200105_hftl& a cada segundo.",
+  "pt": "Durante o período em que sua Técnica de Movimento estiver ativa, sua Vida é restaurada em &8200105_hftl& a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8200106_hftl": {
   "ch": "当自身拥有$s_hudun$时，每秒可恢复自身体力&8200106_hftl&点。",
   "en": "When you have $s_hudun$, you'll restore &8200106_hftl& Vitality every second.",
-  "pt": "Quando você tiver $s_hudun$, restaurará &8200106_hftl& Vitalidade a cada segundo.",
+  "pt": "Quando você tiver $s_hudun$, restaurará &8200106_hftl& Vida a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8200107_hftl": {
   "ch": "每当自身打出的$s_zhangfeng$击杀一个敌人时，可恢复自身体力&8200107_hftl&点。",
   "en": "Every time your $s_zhangfeng$ kills an enemy, your Vitality will be restored by &8200107_hftl&.",
-  "pt": "Toda vez que o seu $s_zhangfeng$ matar um inimigo, sua Vitalidade será restaurada em &8200107_hftl&.",
+  "pt": "Toda vez que o seu $s_zhangfeng$ matar um inimigo, sua Vida será restaurada em &8200107_hftl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200108_hftl": {
   "ch": "自身每使敌人损失灵力&8200108_xqll&点时，可恢复自身体力&8200108_hftl&点。",
   "en": "Every time you cause an enemy to lose &8200108_xqll& Energy, your Vitality will be restored by &8200108_hftl&.",
-  "pt": "Toda vez que você fizer com que um inimigo perca &8200108_xqll& Energia, sua Vitalidade será restaurada em &8200108_hftl&.",
+  "pt": "Toda vez que você fizer com que um inimigo perca &8200108_xqll& Energia, sua Vida será restaurada em &8200108_hftl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200109_hftl": {
   "ch": "当自身在$s_lieyan$中时，每秒可恢复自身体力&8200109_hftl&点。",
   "en": "When you're inside the area of a $s_lieyan$, you'll restore &8200109_hftl& Vitality every second.",
-  "pt": "Ao estar dentro da área de um $s_lieyan$, você recuperará &8200109_hftl& pontos de Vitalidade a cada segundo.",
+  "pt": "Ao estar dentro da área de um $s_lieyan$, você recuperará &8200109_hftl& pontos de Vida a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8200110_hftl": {
   "ch": "每击杀一个被$s_dongjie$的敌人时，可恢复自身体力&8200110_hftl&点。",
   "en": "Every time you kill an enemy inflicted with $s_dongjie$, you'll restore &8200110_hftl& Vitality.",
-  "pt": "Toda vez que você matar um inimigo afetado por $s_dongjie$, recuperará &8200110_hftl& pontos de Vitalidade.",
+  "pt": "Toda vez que você matar um inimigo afetado por $s_dongjie$, recuperará &8200110_hftl& pontos de Vida.",
   "auto": "local/hy-mt2"
  },
  "s_8200111_hftl": {
   "ch": "每当自身引发出的$s_leiji$击杀一个敌人时，可恢复自身体力&8200111_hftl&点。",
   "en": "Every time a $s_leiji$ triggered by you kills an enemy, your Vitality will be restored by &8200111_hftl&.",
-  "pt": "Toda vez que um $s_leiji$ acionado por você matar um inimigo, sua Vitalidade será restaurada em &8200111_hftl&.",
+  "pt": "Toda vez que um $s_leiji$ acionado por você matar um inimigo, sua Vida será restaurada em &8200111_hftl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200112_hftl": {
   "ch": "每当自身生成一道$s_xuanfeng$时，可恢复自身体力&8200112_hftl&点。",
   "en": "Every time you generate a $s_xuanfeng$, you'll restore &8200112_hftl& Vitality.",
-  "pt": "Toda vez que você gerar um $s_xuanfeng$, recuperará &8200112_hftl& pontos de Vitalidade.",
+  "pt": "Toda vez que você gerar um $s_xuanfeng$, recuperará &8200112_hftl& pontos de Vida.",
   "auto": "local/hy-mt2"
  },
  "s_8200113_hftl": {
   "ch": "每当一个己方单位死亡时，可恢复自身体力&8200113_hftl&点。",
   "en": "Every time an ally dies, your Vitality will be restored by &8200113_hftl&.",
-  "pt": "Toda vez que um aliado morre, sua Vitalidade é restaurada em &8200113_hftl&.",
+  "pt": "Toda vez que um aliado morre, sua Vida é restaurada em &8200113_hftl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200114_hftl": {
   "ch": "场上每有一个己方单位（自身除外），每秒可恢复自身体力&8200114_hftl&点。",
   "en": "For every ally (excluding yourself) on the battlefield, your Vitality will be restored by &8200114_hftl& every second.",
-  "pt": "Para cada aliado (exceto você mesmo) no campo de batalha, sua Vitalidade será restaurada em &8200114_hftl& a cada segundo.",
+  "pt": "Para cada aliado (exceto você mesmo) no campo de batalha, sua Vida será restaurada em &8200114_hftl& a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8200115_hftl": {
   "ch": "场上每有一个敌方<p>精英单位</p>，每秒可恢复自身体力&8200115_hftl&点。",
   "en": "For every <p>elite monster</p> on the battlefield, your Vitality will be restored by &8200115_hftl& every second.",
-  "pt": "Para cada <p>monstro de elite</p> no campo de batalha, sua Vitalidade será restaurada em &8200115_hftl& a cada segundo.",
+  "pt": "Para cada <p>monstro de elite</p> no campo de batalha, sua Vida será restaurada em &8200115_hftl& a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8200116_tstl": {
   "ch": "每有&8200116_xqzz&点功法资质可使体力上限提升&8200116_tstl&点。",
   "en": "For every &8200116_xqzz& Martial Arts points, your Max Vitality will increase by &8200116_tstl&.",
-  "pt": "A cada &8200116_xqzz& pontos em Artes Marciais, sua Vitalidade Máx. aumentará em &8200116_tstl&.",
+  "pt": "A cada &8200116_xqzz& pontos em Artes Marciais, sua Vida Máx. aumentará em &8200116_tstl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200117_tstl": {
   "ch": "每一岁年龄可提升体力上限&8200117_tstl&点。",
   "en": "Your Max Vitality increases by &8200117_tstl& every year.",
-  "pt": "Sua Vitalidade Máx. aumenta em &8200117_tstl& a cada ano.",
+  "pt": "Sua Vida Máx. aumenta em &8200117_tstl& a cada ano.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8200118_tstl": {
   "ch": "当自身处于当前境界的后期时，可提升体力上限&8200118_tstl&点。",
   "en": "When you're in the Late stage of your Realm, your Max Vitality will increase by &8200118_tstl&.",
-  "pt": "Quando você estiver na fase Final do seu Reino, sua Vitalidade Máx. aumentará em &8200118_tstl&.",
+  "pt": "Quando você estiver na fase Final do seu Reino, sua Vida Máx. aumentará em &8200118_tstl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200119_tstl": {
   "ch": "与境界（包含期数）高于自身的修仙者战斗时，可提升体力上限&8200119_tstl&点。",
   "en": "When you fight a Cultivator of a higher Realm (including stage), your Max Vitality will increase by &8200119_tstl&.",
-  "pt": "Ao lutar contra um Cultivador de um Reino superior (incluindo a fase), sua Vitalidade Máx. aumentará em &8200119_tstl&.",
+  "pt": "Ao lutar contra um Cultivador de um Reino superior (incluindo a fase), sua Vida Máx. aumentará em &8200119_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8200120_tstl": {
   "ch": "每有&8200120_xqzz&点药材资质可使体力上限提升&8200120_tstl&点。",
   "en": "For every &8200120_xqzz& Herb points, your Max Vitality will increase by &8200120_tstl&.",
-  "pt": "A cada &8200120_xqzz& pontos de Erva, sua Vitalidade Máx. aumentará em &8200120_tstl&.",
+  "pt": "A cada &8200120_xqzz& pontos de Erva, sua Vida Máx. aumentará em &8200120_tstl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200121_tstl": {
   "ch": "当背包中拥有至少&8200121_xqls&灵石时，可提升体力上限&8200121_tstl&点。",
   "en": "When you have at least &8200121_xqls& Spirit Stones in your Inventory, your Max Vitality will increase by &8200121_tstl&.",
-  "pt": "Quando você tiver pelo menos &8200121_xqls& Pedras Espirituais no seu Inventário, a sua Vitalidade Máx. aumentará em &8200121_tstl&.",
+  "pt": "Quando você tiver pelo menos &8200121_xqls& Pedras Espirituais no seu Inventário, a sua Vida Máx. aumentará em &8200121_tstl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200122_tstl": {
   "ch": "每杀死一个修仙者，可提升体力上限&8200122_tstl&点。（当前进度：{KillNpcEffect8200122}/&8200122_djcs&）",
   "en": "Every time you kill a Cultivator, you'll increase your Max Vitality by &8200122_tstl&. (Current: {KillNpcEffect8200122}/&8200122_djcs&)",
-  "pt": "Toda vez que você mata um Cultivador, sua Vitalidade Máx. aumenta em &8200122_tstl&. (Atualmente: {KillNpcEffect8200122}/&8200122_djcs&)",
+  "pt": "Toda vez que você mata um Cultivador, sua Vida Máx. aumenta em &8200122_tstl&. (Atualmente: {KillNpcEffect8200122}/&8200122_djcs&)",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8200123_tstl": {
   "ch": "当自身的声望达到&8200123_xqsw&时，可提升体力上限&8200123_tstl&点。",
   "en": "When your Reputation reaches &8200123_xqsw&, your Max Vitality will increase by &8200123_tstl&.",
-  "pt": "Quando sua Reputação atingir &8200123_xqsw&, sua Vitalidade Máx. aumentará em &8200123_tstl&.",
+  "pt": "Quando sua Reputação atingir &8200123_xqsw&, sua Vida Máx. aumentará em &8200123_tstl&.",
   "auto": "local/hy-mt2"
  },
  "s_8200124_tstl": {
   "ch": "自身每装备了一个心法，可提升体力上限&8200124_tstl&点。",
   "en": "For every Mind Skill you equip, your Max Vitality will increase by &8200124_tstl&.",
-  "pt": "Para cada Técnica Mental que você equipar, sua Vitalidade Máx. aumentará em &8200124_tstl&.",
+  "pt": "Para cada Técnica Mental que você equipar, sua Vida Máx. aumentará em &8200124_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8300101_jdsh": {
@@ -6932,7 +6932,7 @@
  "s_8300116_jdsh": {
   "ch": "当自身的体力低于&8300116_xqtl&%时，受到的伤害&8300116_jdsh&%。",
   "en": "When your Vitality is below &8300116_xqtl&%, your damage taken &8300116_jdsh&%.",
-  "pt": "Quando a sua Vitalidade estiver abaixo de &8300116_xqtl&%, o dano que você recebe &8300116_jdsh&%.",
+  "pt": "Quando a sua Vida estiver abaixo de &8300116_xqtl&%, o dano que você recebe &8300116_jdsh&%.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8300117_tsfy": {
@@ -6968,7 +6968,7 @@
  "s_8300122_tsfy": {
   "ch": "当自身的体力上限达到&8300122_xqtl&时，可提升防御&8300122_tsfy&点。",
   "en": "When your Max Vitality reaches &8300122_xqtl&, your DEF will increase by &8300122_tsfy&.",
-  "pt": "Quando sua Vitalidade Máx. atingir &8300122_xqtl&, sua DEF aumentará em &8300122_tsfy&.",
+  "pt": "Quando sua Vida Máx. atingir &8300122_xqtl&, sua DEF aumentará em &8300122_tsfy&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8400101_hfll": {
@@ -7094,7 +7094,7 @@
  "s_8500103_hftl": {
   "ch": "使用恢复体力的丹药时，可额外恢复&8500103_hftl&%。",
   "en": "Vitality Elixirs restore &8500103_hftl&% more Vitality.",
-  "pt": "Os Elixires de Vitalidade restauram &8500103_hftl&% a mais de Vitalidade.",
+  "pt": "Os Elixires de Vida restauram &8500103_hftl&% a mais de Vida.",
   "auto": "local/hy-mt2"
  },
  "s_8500104_hfll": {
@@ -7178,7 +7178,7 @@
  "s_8600104_xxbl": {
   "ch": "当自身拥有至少&8600104_xqcs&层$s_jueqing$时，武技可吸血&8600104_xxbl&%。",
   "en": "When you have at least &8600104_xqcs& stacks of $s_jueqing$, your Martial Skills will convert &8600104_xxbl&% of damage done into your Vitality.",
-  "pt": "Quando você tiver pelo menos &8600104_xqcs& acúmulos de $s_jueqing$, suas Técnicas Marciais converterão &8600104_xxbl&% do dano causado em sua Vitalidade.",
+  "pt": "Quando você tiver pelo menos &8600104_xqcs& acúmulos de $s_jueqing$, suas Técnicas Marciais converterão &8600104_xxbl&% do dano causado em sua Vida.",
   "auto": "local/hy-mt2"
  },
  "s_8600105_cfgl": {
@@ -7352,7 +7352,7 @@
  "s_8600502_hftl": {
   "ch": "当场上的$s_neishang$达到&8600502_xqcs&层时，每秒可使自身的体力恢复&8600502_hftl&点。",
   "en": "When there are &8600502_xqcs& stacks of $s_neishang$, your Vitality will be restored by &8600502_hftl& every second.",
-  "pt": "Quando houver &8600502_xqcs& pilhas de $s_neishang$, sua Vitalidade será restaurada em &8600502_hftl& a cada segundo.",
+  "pt": "Quando houver &8600502_xqcs& pilhas de $s_neishang$, sua Vida será restaurada em &8600502_hftl& a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8600504_xqcs": {
@@ -7394,7 +7394,7 @@
  "s_8600602_hftl": {
   "ch": "当场上的$s_neixu$达到&8600602_xqcs&层时，每秒可使自身的体力恢复&8600602_hftl&点。",
   "en": "When there are &8600602_xqcs& stacks of $s_neixu$, your Vitality will be restored by &8600602_hftl& every second.",
-  "pt": "Quando houver &8600602_xqcs& pilhas de $s_neixu$, sua Vitalidade será restaurada em &8600602_hftl& a cada segundo.",
+  "pt": "Quando houver &8600602_xqcs& pilhas de $s_neixu$, sua Vida será restaurada em &8600602_hftl& a cada segundo.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8600603_tshx": {
@@ -7640,7 +7640,7 @@
  "s_8601104_hftl": {
   "ch": "当自身拥有至少&8601104_xqcs&层$s_shifu$时，场上所有己方$s_tukuilei$每秒可回复体力&8601104_hftl&%。",
   "en": "When you have at least &8601104_xqcs& stacks of $s_shifu$, all $s_tukuilei$s' Vitality will be restored by &8601104_hftl&% every second.",
-  "pt": "Quando você tiver pelo menos &8601104_xqcs& pilhas de $s_shifu$, a Vitalidade de todos os $s_tukuilei$s será restaurada em &8601104_hftl&% a cada segundo.",
+  "pt": "Quando você tiver pelo menos &8601104_xqcs& pilhas de $s_shifu$, a Vida de todos os $s_tukuilei$s será restaurada em &8601104_hftl&% a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8601105_cfgl": {
@@ -7682,13 +7682,13 @@
  "s_8601203_hftl": {
   "ch": "己方每召唤一个$s_xiaohuayao$时，可使自身的体力恢复&8601203_hftl&点。",
   "en": "Every time an ally $s_xiaohuayao$ is summoned, your Vitality will be restored by &8601203_hftl&.",
-  "pt": "Toda vez que um aliado $s_xiaohuayao$ for invocado, sua Vitalidade será restaurada em &8601203_hftl&.",
+  "pt": "Toda vez que um aliado $s_xiaohuayao$ for invocado, sua Vida será restaurada em &8601203_hftl&.",
   "auto": "local/hy-mt2"
  },
  "s_8601204_hftl": {
   "ch": "当场上的己方$s_xiaohuayao$数量达到&8601204_hysl&个时，则每秒可使场上所有己方单位的体力恢复&8601204_hftl&点。",
   "en": "When there are &8601204_hysl& ally $s_xiaohuayao$s, all allies' Vitality will be restored by &8601204_hftl& every second.",
-  "pt": "Quando houver &8601204_hysl& aliados $s_xiaohuayao$s, a Vitalidade de todos os aliados será restaurada em &8601204_hftl& a cada segundo.",
+  "pt": "Quando houver &8601204_hysl& aliados $s_xiaohuayao$s, a Vida de todos os aliados será restaurada em &8601204_hftl& a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8601205_cfgl": {
@@ -7730,7 +7730,7 @@
  "s_8700103_tshb": {
   "ch": "当自身的体力低于&8700103_xqtl&%时，暴击倍率提升&8700103_tshb&%。",
   "en": "When your Vitality is below &8700103_xqtl&%, your Crit DMG will increase by &8700103_tshb&%.",
-  "pt": "Quando a sua Vitalidade estiver abaixo de &8700103_xqtl&%, o seu Multiplicador Crítico aumentará em &8700103_tshb&%.",
+  "pt": "Quando a sua Vida estiver abaixo de &8700103_xqtl&%, o seu Multiplicador Crítico aumentará em &8700103_tshb&%.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700104_tshb": {
@@ -7742,7 +7742,7 @@
  "s_8700105_tstl": {
   "ch": "若$s_daofazizhi$达到&8700105_xqzz&点，则可提升体力上限&8700105_tstl&点。",
   "en": "When $s_daofazizhi$ stat reaches &8700105_xqzz&, Max Vitality will increase by &8700105_tstl&.",
-  "pt": "Quando o valor da estatística $s_daofazizhi$ atingir &8700105_xqzz&, a Vitalidade Máx. aumentará em &8700105_tstl&.",
+  "pt": "Quando o valor da estatística $s_daofazizhi$ atingir &8700105_xqzz&, a Vida Máx. aumentará em &8700105_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700106_tsgj": {
@@ -7790,7 +7790,7 @@
  "s_8700205_tstl": {
   "ch": "若$s_qiangfazizhi$达到&8700205_xqzz&点，则可提升体力上限&8700205_tstl&点。",
   "en": "When $s_qiangfazizhi$ stat reaches &8700205_xqzz&, Max Vitality will increase by &8700205_tstl&.",
-  "pt": "Quando o valor da estatística $s_qiangfazizhi$ atingir &8700205_xqzz&, a Vitalidade Máx. aumentará em &8700205_tstl&.",
+  "pt": "Quando o valor da estatística $s_qiangfazizhi$ atingir &8700205_xqzz&, a Vida Máx. aumentará em &8700205_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700206_tsgj": {
@@ -7838,7 +7838,7 @@
  "s_8700305_tstl": {
   "ch": "若$s_jianfazizhi$达到&8700305_xqzz&点，则可提升体力上限&8700305_tstl&点。",
   "en": "When $s_jianfazizhi$ stat reaches &8700305_xqzz&, Max Vitality will increase by &8700305_tstl&.",
-  "pt": "Quando o valor da estatística $s_jianfazizhi$ atingir &8700305_xqzz&, a Vitalidade Máx. aumentará em &8700305_tstl&.",
+  "pt": "Quando o valor da estatística $s_jianfazizhi$ atingir &8700305_xqzz&, a Vida Máx. aumentará em &8700305_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700306_tsgj": {
@@ -7886,7 +7886,7 @@
  "s_8700405_tstl": {
   "ch": "若$s_quanfazizhi$达到&8700405_xqzz&点，则可提升体力上限&8700405_tstl&点。",
   "en": "When $s_quanfazizhi$ stat reaches &8700405_xqzz&, Max Vitality will increase by &8700405_tstl&.",
-  "pt": "Quando o valor da estatística $s_quanfazizhi$ atingir &8700405_xqzz&, a Vitalidade Máx. aumentará em &8700405_tstl&.",
+  "pt": "Quando o valor da estatística $s_quanfazizhi$ atingir &8700405_xqzz&, a Vida Máx. aumentará em &8700405_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700406_tsgj": {
@@ -7934,7 +7934,7 @@
  "s_8700505_tstl": {
   "ch": "若$s_zhangfazizhi$达到&8700505_xqzz&点，则可提升体力上限&8700505_tstl&点。",
   "en": "When $s_zhangfazizhi$ stat reaches &8700505_xqzz&, Max Vitality will increase by &8700505_tstl&.",
-  "pt": "Quando o valor do atributo $s_zhangfazizhi$ atingir &8700505_xqzz&, a Vitalidade Máx. aumentará em &8700505_tstl&.",
+  "pt": "Quando o valor do atributo $s_zhangfazizhi$ atingir &8700505_xqzz&, a Vida Máx. aumentará em &8700505_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700506_tsgj": {
@@ -7982,7 +7982,7 @@
  "s_8700605_tstl": {
   "ch": "若$s_zhifazizhi$达到&8700605_xqzz&点，则可提升体力上限&8700605_tstl&点。",
   "en": "When $s_zhifazizhi$ stat reaches &8700605_xqzz&, Max Vitality will increase by &8700605_tstl&.",
-  "pt": "Quando o status $s_zhifazizhi$ atingir &8700605_xqzz&, a Vitalidade Máx. aumentará em &8700605_tstl&.",
+  "pt": "Quando o status $s_zhifazizhi$ atingir &8700605_xqzz&, a Vida Máx. aumentará em &8700605_tstl&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8700606_tsgj": {
@@ -8234,13 +8234,13 @@
  "s_8701201_hftl": {
   "ch": "当场上敌人的数量达到&8701201_drsl&个时，每秒可使自身的体力恢复&8701201_hftl&点。",
   "en": "When there are &8701201_drsl& enemies , your Vitality will be restored by &8701201_hftl& every second.",
-  "pt": "Quando houver &8701201_drsl& inimigos, sua Vitalidade será restaurada em &8701201_hftl& a cada segundo.",
+  "pt": "Quando houver &8701201_drsl& inimigos, sua Vida será restaurada em &8701201_hftl& a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8701202_tstl": {
   "ch": "每有&8701202_xqzz&点$s_mulinggen$可使己方召唤物的体力上限提升&8701202_tstl&点。",
   "en": "For every &8701202_xqzz& $s_mulinggen$ points, the Max Vitality of units summoned by your allies will increase by &8701202_tstl&.",
-  "pt": "A cada &8701202_xqzz& $s_mulinggen$ pontos, a Vitalidade Máx. das unidades invocadas por seus aliados aumentará em &8701202_tstl&.",
+  "pt": "A cada &8701202_xqzz& $s_mulinggen$ pontos, a Vida Máx. das unidades invocadas por seus aliados aumentará em &8701202_tstl&.",
   "auto": "local/hy-mt2"
  },
  "s_8701204_cxsj": {
@@ -8282,13 +8282,13 @@
  "s_8800102_hftl": {
   "ch": "战斗中每有一个距离&8800102_xqjl&以内的敌人死亡时，可使自身的体力恢复&8800102_hftl&点。",
   "en": "Every time an enemy within &8800102_xqjl& dies, your Vitality will be restored by &8800102_hftl&.",
-  "pt": "Toda vez que um inimigo dentro de &8800102_xqjl& morre, sua Vitalidade é restaurada em &8800102_hftl&.",
+  "pt": "Toda vez que um inimigo dentro de &8800102_xqjl& morre, sua Vida é restaurada em &8800102_hftl&.",
   "auto": "local/hy-mt2"
  },
  "s_8800103_tsgj": {
   "ch": "若体力上限达到&8800103_xqtl&点，则可提升攻击&8800103_tsgj&点。",
   "en": "When Max Vitality reaches &8800103_xqtl&, ATK will increase by &8800103_tsgj&.",
-  "pt": "Quando a Vitalidade Máx. atingir &8800103_xqtl&, o ATQ aumentará em &8800103_tsgj&.",
+  "pt": "Quando a Vida Máx. atingir &8800103_xqtl&, o ATQ aumentará em &8800103_tsgj&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8800104_tsgj": {
@@ -8306,7 +8306,7 @@
  "s_8800106_tsfy": {
   "ch": "若体力上限达到&8800106_xqtl&点，则可提升防御&8800106_tsfy&点。",
   "en": "When Max Vitality reaches &8800106_xqtl&, DEF will increase by &8800106_tsfy&.",
-  "pt": "Quando a Vitalidade Máx. atingir &8800106_xqtl&, a DEF aumentará em &8800106_tsfy&.",
+  "pt": "Quando a Vida Máx. atingir &8800106_xqtl&, a DEF aumentará em &8800106_tsfy&.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_8800107_tsfy": {
@@ -8402,13 +8402,13 @@
  "s_8800401_xqtl": {
   "ch": "每有&8800401_xqtl&点体力上限可使自身的$s_hudun$上限提升&8800401_tshd&点。",
   "en": "For every &8800401_xqtl& Max Vitality points, your max $s_hudun$ points will increase by &8800401_tshd&.",
-  "pt": "A cada &8800401_xqtl& pontos de Vitalidade Máx., seus pontos máximos de $s_hudun$ aumentarão em &8800401_tshd&.",
+  "pt": "A cada &8800401_xqtl& pontos de Vida Máx., seus pontos máximos de $s_hudun$ aumentarão em &8800401_tshd&.",
   "auto": "local/hy-mt2"
  },
  "s_8800402_dihd": {
   "ch": "当体力低于&8800402_xqtl&%时，每秒可为自身叠加$s_hudun$ &8800402_dihd&点。",
   "en": "When your Vitality is below &8800402_xqtl&%, you'll receive &8800402_dihd& $s_hudun$ points every second.",
-  "pt": "Quando sua Vitalidade estiver abaixo de &8800402_xqtl&%, você receberá &8800402_dihd& $s_hudun$ pontos a cada segundo.",
+  "pt": "Quando sua Vida estiver abaixo de &8800402_xqtl&%, você receberá &8800402_dihd& $s_hudun$ pontos a cada segundo.",
   "auto": "local/hy-mt2"
  },
  "s_8800501_zffw": {
@@ -8624,7 +8624,7 @@
  "s_dulonghua_desc": {
   "ch": "大型单位，无法移动，拥有巨大的嘴，攻击普通或精英单位时可将其吞噬，吞噬后需要消耗一些时间对目标进行消化（持续对目标造成威力&66111_xhwl|x66111_dmg|/10000|f0&/秒的$s_mu$伤害，直到将目标的体力全部消化完）。攻击其他单位时，可对目标施加$s_fushi$。\n继承召唤者的体力&66111_dhtl&%，攻击&66111_dhgj&%，防御&66111_dhfy&%。\n持续&66111_dhsj&秒。",
   "en": "Large unit that can't move. Its giant mouth devours normal and elite monsters. Every time it devours an enemy, it'll take some time to digest it. During which time, the devoured enemy will receive &66111_xhwl|x66111_dmg|/10000|f0&/s $s_mu$ damage until its Vitality drops to zero. When attacking other enemies, it inflicts $s_fushi$.\nInherited stats from the summoner: &66111_dhtl&% Vitality, &66111_dhgj&% ATK, &66111_dhfy&% DEF.\nIt exists for &66111_dhsj&s.",
-  "pt": "Unidade grande que não consegue se mover. Sua boca gigante devora monstros comuns e de elite. Sempre que devora um inimigo, leva algum tempo para digeri-lo. Durante esse período, o inimigo devorado sofre &66111_xhwl|x66111_dmg|/10000|f0&/s $s_mu$ de dano até que sua Vitalidade chegue a zero. Ao atacar outros inimigos, causa $s_fushi$.\nAtributos herdados do invocador: &66111_dhtl&% de Vitalidade, &66111_dhgj&% de ATQ e &66111_dhfy&% de DEF.\nEle existe por &66111_dhsj& segundos.",
+  "pt": "Unidade grande que não consegue se mover. Sua boca gigante devora monstros comuns e de elite. Sempre que devora um inimigo, leva algum tempo para digeri-lo. Durante esse período, o inimigo devorado sofre &66111_xhwl|x66111_dmg|/10000|f0&/s $s_mu$ de dano até que sua Vida chegue a zero. Ao atacar outros inimigos, causa $s_fushi$.\nAtributos herdados do invocador: &66111_dhtl&% de Vida, &66111_dhgj&% de ATQ e &66111_dhfy&% de DEF.\nEle existe por &66111_dhsj& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_dunying": {
@@ -8666,7 +8666,7 @@
  "s_duwa_desc": {
   "ch": "小型单位，朝敌人喷射毒液，对敌人造成威力&56113_jnwl&的$s_mu$伤害。\n继承召唤者的体力&56113_dwtl&%，攻击&56113_dwgj&%，防御&56113_dwfy&%。\n持续&56113_dwsj&秒。",
   "en": "Small unit that deals &56113_jnwl& $s_mu$ damage by spitting venom.\nInherited stats from the summoner: &56113_dwtl&% Vitality, &56113_dwgj&% ATK, &56113_dwfy&% DEF.\nIt exists for &56113_dwsj&s.",
-  "pt": "Unidade pequena que causa &56113_jnwl& de dano de $s_mu$ ao cuspir veneno.\nAtributos herdados do invocador: &56113_dwtl&% de Vitalidade, &56113_dwgj&% de ATQ, &56113_dwfy&% de DEF.\nExiste por &56113_dwsj&s.",
+  "pt": "Unidade pequena que causa &56113_jnwl& de dano de $s_mu$ ao cuspir veneno.\nAtributos herdados do invocador: &56113_dwtl&% de Vida, &56113_dwgj&% de ATQ, &56113_dwfy&% de DEF.\nExiste por &56113_dwsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "s_duzhu": {
@@ -8678,7 +8678,7 @@
  "s_duzhu_desc": {
   "ch": "小型单位，朝周围的敌人喷撒毒雾，对范围&56115_gjfw&内的敌人造成威力&56115_gjwl&的$s_mu$伤害。\n继承召唤者的体力&56115_dztl&%，攻击&56115_dzgj&%，防御&56115_dzfy&%。\n持续&56115_dzsj&秒。",
   "en": "Small unit that emits poisonous smoke to attack nearby enemies within &56115_gjfw&, dealing &56115_gjwl& $s_mu$ damage.\nInherited stats from the summoner: &56115_dztl&% Vitality, &56115_dzgj&% ATK, &56115_dzfy&% DEF.\nIt exists for &56115_dzsj&s.",
-  "pt": "Unidade pequena que emite fumaça venenosa para atacar inimigos próximos dentro de &56115_gjfw&, causando &56115_gjwl& $s_mu$ de dano.\nAtributos herdados do invocador: &56115_dztl&% de Vitalidade, &56115_dzgj&% de ATQ e &56115_dzfy&% de DEF.\nEla existe por &56115_dzsj& segundos.",
+  "pt": "Unidade pequena que emite fumaça venenosa para atacar inimigos próximos dentro de &56115_gjfw&, causando &56115_gjwl& $s_mu$ de dano.\nAtributos herdados do invocador: &56115_dztl&% de Vida, &56115_dzgj&% de ATQ e &56115_dzfy&% de DEF.\nEla existe por &56115_dzsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "s_feixue": {
@@ -8768,7 +8768,7 @@
  "s_huangjilishi_desc": {
   "ch": "大型单位，使用重锤冲击对敌人造成威力&700025_gjwl&的$s_tu$伤害。\n继承召唤者的体力&700025_jctl&%，攻击&700025_jcsx&%，防御&700025_jcsx&%。",
   "en": "Large unit that uses a heavy hammer to deal &700025_gjwl& $s_tu$ damage.\nInherited stats from the summoner: &700025_jctl&% Vitality, &700025_jcsx&% ATK, &700025_jcsx&% DEF.",
-  "pt": "Unidade de grande porte que usa um martelo pesado para causar &700025_gjwl& $s_tu$ de dano.\nAtributos herdados do invocador: &700025_jctl&% Vitalidade, &700025_jcsx&% ATQ, &700025_jcsx&% DEF.",
+  "pt": "Unidade de grande porte que usa um martelo pesado para causar &700025_gjwl& $s_tu$ de dano.\nAtributos herdados do invocador: &700025_jctl&% Vida, &700025_jcsx&% ATQ, &700025_jcsx&% DEF.",
   "auto": "local/hy-mt2"
  },
  "s_huanying": {
@@ -8792,7 +8792,7 @@
  "s_huayao_desc": {
   "ch": "中型单位，不可移动，通过喷出花蕊对敌人造成威力&46112_jnwl&的$s_mu$伤害。\n继承召唤者的体力&700027_jctl&%，攻击&700027_jcsx&%，防御&700027_jcsx&%。",
   "en": "Medium unit that can't move. It deals &46112_jnwl& $s_mu$ damage by shooting Flower Buds.\nInherited stats from the summoner: &700027_jctl&% Vitality, &700027_jcsx&% ATK, &700027_jcsx&% DEF.",
-  "pt": "Unidade de tamanho médio que não pode se mover. Ela causa &46112_jnwl& $s_mu$ de dano ao disparar Botões de Flor.\nHerda os seguintes atributos do invocador: &700027_jctl&% de Vitalidade, &700027_jcsx&% de ATQ e &700027_jcsx&% de DEF.",
+  "pt": "Unidade de tamanho médio que não pode se mover. Ela causa &46112_jnwl& $s_mu$ de dano ao disparar Botões de Flor.\nHerda os seguintes atributos do invocador: &700027_jctl&% de Vida, &700027_jcsx&% de ATQ e &700027_jcsx&% de DEF.",
   "auto": "local/hy-mt2"
  },
  "s_huayaohou": {
@@ -8804,7 +8804,7 @@
  "s_huayaohou_desc": {
   "ch": "大型单位，可向前方扇形区域发射花瓣，每道花瓣对敌人造成威力&66112_jnwl&的$s_mu$伤害。\n继承召唤者的体力&66112_yhtl&%，攻击&66112_yhgj&%，防御&66112_yhfy&%。\n持续&66112_yhsj&秒。",
   "en": "Small unit that shoots Flower Petals forward. Each Flower Petal deals &66112_jnwl& $s_mu$ damage.\nInherited stats from the summoner: &66112_yhtl&% Vitality, &66112_yhgj&% ATK, &66112_yhfy&% DEF.\nIt exists for &66112_yhsj&s.",
-  "pt": "Unidade pequena que dispara pétalas de flor para a frente. Cada pétala causa &66112_jnwl& $s_mu$ de dano.\nHerda os seguintes atributos do invocador: &66112_yhtl&% de Vitalidade, &66112_yhgj&% de ATQ e &66112_yhfy&% de DEF.\nEla existe por &66112_yhsj& segundos.",
+  "pt": "Unidade pequena que dispara pétalas de flor para a frente. Cada pétala causa &66112_jnwl& $s_mu$ de dano.\nHerda os seguintes atributos do invocador: &66112_yhtl&% de Vida, &66112_yhgj&% de ATQ e &66112_yhfy&% de DEF.\nEla existe por &66112_yhsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "s_huazhong": {
@@ -8840,7 +8840,7 @@
  "s_huoli_desc": {
   "ch": "受到活力强化的单位，最大体力提升&56116_tstl&点，且攻击弹道在碰撞到敌人时会爆开，可伤害范围&56116_zjbk&内的所有敌人，每次强化可增加爆开范围，每个单位最多可被强化&56112_qhcs&次。",
   "en": "Units with this effect have +&56116_tstl& Max Vitality, and their projectiles will explode upon hitting an enemy. The explosion deals damage to all enemies within &56116_zjbk& (the size of the explosion area increases as this effect is stacked). Each unit can stack this effect up to &56112_qhcs& times.",
-  "pt": "Unidades com este efeito ganham +&56116_tstl& Vitalidade Máx., e seus projéteis explodem ao atingir um inimigo. A explosão causa dano a todos os inimigos dentro de &56116_zjbk& (o tamanho da área de explosão aumenta conforme esse efeito é acumulado). Cada unidade pode acumular este efeito até &56112_qhcs& vezes.",
+  "pt": "Unidades com este efeito ganham +&56116_tstl& Vida Máx., e seus projéteis explodem ao atingir um inimigo. A explosão causa dano a todos os inimigos dentro de &56116_zjbk& (o tamanho da área de explosão aumenta conforme esse efeito é acumulado). Cada unidade pode acumular este efeito até &56112_qhcs& vezes.",
   "auto": "local/hy-mt2"
  },
  "s_huoling": {
@@ -8852,7 +8852,7 @@
  "s_huoling_desc": {
   "ch": "受到活灵强化的单位，最大体力提升&56114_tstl&点，且攻击弹道增加&56114_zjdd&，每个单位最多可被强化&56112_qhcs&次。",
   "en": "Units with this effect have +&56114_tstl& Max Vitality, and their projectiles +&56114_zjdd&. Each unit can stack this effect up to &56112_qhcs& times.",
-  "pt": "Unidades com este efeito ganham +&56114_tstl& de Vitalidade Máx., e seus projéteis recebem +&56114_zjdd&. Cada unidade pode acumular este efeito até &56112_qhcs& vezes.",
+  "pt": "Unidades com este efeito ganham +&56114_tstl& de Vida Máx., e seus projéteis recebem +&56114_zjdd&. Cada unidade pode acumular este efeito até &56112_qhcs& vezes.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_huolinggen": {
@@ -8876,7 +8876,7 @@
  "s_huoyuan_desc": {
   "ch": "受到活元强化的单位，最大体力提升&56112_tstl&点，且攻击间隔&56112_tsgs&%，每个单位最多可被强化&56112_qhcs&次。",
   "en": "Units with this effect have +&56112_tstl& Max Vitality, and their attack interval &56112_tsgs&%. Each unit can stack this effect up to &56112_qhcs& times.",
-  "pt": "Unidades com este efeito ganham +&56112_tstl& de Vitalidade Máx., e seu intervalo de ataque aumenta em &56112_tsgs&%. Cada unidade pode acumular este efeito até &56112_qhcs& vezes.",
+  "pt": "Unidades com este efeito ganham +&56112_tstl& de Vida Máx., e seu intervalo de ataque aumenta em &56112_tsgs&%. Cada unidade pode acumular este efeito até &56112_qhcs& vezes.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_huozhong": {
@@ -8918,7 +8918,7 @@
  "s_jianzhan_desc": {
   "ch": "每层可使自身对体力低于&14112_tllj&%的敌人造成的伤害提升&14112_ewsh&%，持续&14112_duration&秒，最多可叠加&14112_layCount&层。",
   "en": "Increase your damage against enemies within less than &14112_tllj&% Vitality by &14112_ewsh&% for &14112_duration&s. Max stacks: &14112_layCount&.",
-  "pt": "Aumente seu dano contra inimigos com menos de &14112_tllj&% de Vitalidade em &14112_ewsh&% por &14112_duration& segundos. Máximo de acúmulos: &14112_layCount&.",
+  "pt": "Aumente seu dano contra inimigos com menos de &14112_tllj&% de Vida em &14112_ewsh&% por &14112_duration& segundos. Máximo de acúmulos: &14112_layCount&.",
   "auto": "local/hy-mt2"
  },
  "s_jifengren": {
@@ -8948,7 +8948,7 @@
  "s_jueqing_desc": {
   "ch": "每层可使自身的斩杀上限提升&12112_zsts&点（对敌人造成$s_dao$伤害后，若其体力低于斩杀上限则可立即将其斩杀），持续&12112_duration&秒，最多可叠加&12112_layCount&层。",
   "en": "Increase your Execute's Vitality Threshold by &12112_zsts&. When dealing $s_dao$ damage to an enemy with Vitality lower than the Vitality Threshold, you'll instantly kill this enemy. This effect lasts &12112_duration&s and stacks up to &12112_layCount& times.",
-  "pt": "Aumente o Limite de Vitalidade da sua Execução em &12112_zsts&. Ao causar $s_dao$ de dano a um inimigo cuja Vitalidade seja inferior a esse limite, você o matará instantaneamente. Esse efeito dura &12112_duration& segundos e pode acumular até &12112_layCount& vezes.",
+  "pt": "Aumente o Limite de Vida da sua Execução em &12112_zsts&. Ao causar $s_dao$ de dano a um inimigo cuja Vida seja inferior a esse limite, você o matará instantaneamente. Esse efeito dura &12112_duration& segundos e pode acumular até &12112_layCount& vezes.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_julingkuilei": {
@@ -8960,7 +8960,7 @@
  "s_julingkuilei_desc": {
   "ch": "大型单位，使用巨大的石锤向前方猛击，对前方一条线上的敌人造成威力&65112_jnwl&的$s_tu$伤害。\n继承召唤者的体力&65112_jltl&%，攻击&65112_jlgj&%，防御&65112_jlfy&%。\n持续&65112_jlsj&秒。",
   "en": "Large unit that slams a stone hammer forward to attack enemies in a line, dealing &65112_jnwl& $s_tu$ damage.\nInherited stats from the summoner: &65112_jltl&% Vitality, &65112_jlgj&% ATK, &65112_jlfy&% DEF.\nIt exists for &65112_jlsj&s.",
-  "pt": "Unidade grande que desfere uma martelada de pedra à frente para atacar inimigos em linha, causando &65112_jnwl& de dano de $s_tu$.\nAtributos herdados do invocador: &65112_jltl&% de Vitalidade, &65112_jlgj&% de ATQ, &65112_jlfy&% de DEF.\nExiste por &65112_jlsj&s.",
+  "pt": "Unidade grande que desfere uma martelada de pedra à frente para atacar inimigos em linha, causando &65112_jnwl& de dano de $s_tu$.\nAtributos herdados do invocador: &65112_jltl&% de Vida, &65112_jlgj&% de ATQ, &65112_jlfy&% de DEF.\nExiste por &65112_jlsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "s_kaimai": {
@@ -9266,7 +9266,7 @@
  "s_poshi_desc": {
   "ch": "每层可使自身对体力高于&13112_tllj&%的敌人造成的伤害提升&13112_ewsh&%，持续&13112_duration&秒，最多可叠加&13112_layCount&层。",
   "en": "Increase your damage against enemies within more than &13112_tllj&% Vitality by &13112_ewsh&% for &13112_duration&s. Max stacks: &13112_layCount&.",
-  "pt": "Aumente seu dano contra inimigos com mais de &13112_tllj&% de Vitalidade em &13112_ewsh&% durante &13112_duration& segundos. Número máximo de acúmulos: &13112_layCount&.",
+  "pt": "Aumente seu dano contra inimigos com mais de &13112_tllj&% de Vida em &13112_ewsh&% durante &13112_duration& segundos. Número máximo de acúmulos: &13112_layCount&.",
   "auto": "local/hy-mt2"
  },
  "s_qiang": {
@@ -9386,7 +9386,7 @@
  "s_tongpi_desc": {
   "ch": "获得此效果时，可为自身叠加&15112_hdts&点护盾值，护盾持续&15112_hdsj&秒，护盾值上限为&15112_hdsx&点。",
   "en": "Receive a shield with &15112_hdts& Vitality (stackable). The shield lasts &15112_hdsj&s and has a Vitality limit of &15112_hdsx&.",
-  "pt": "Receba um escudo com &15112_hdts& Vitalidade (acumulável). O escudo dura &15112_hdsj& segundos e possui um limite de Vitalidade de &15112_hdsx&.",
+  "pt": "Receba um escudo com &15112_hdts& Vida (acumulável). O escudo dura &15112_hdsj& segundos e possui um limite de Vida de &15112_hdsx&.",
   "auto": "local/hy-mt2"
  },
  "s_touzhi": {
@@ -9416,7 +9416,7 @@
  "s_tukuilei_desc": {
   "ch": "中型单位，使用双手锤击地面，对敌人造成威力&55112_jnwl&的$s_tu$伤害。\n继承召唤者的体力&55112_kltl&%，攻击&55112_klgj&%，防御&55112_klfy&%。\n持续&55112_klsj&秒。",
   "en": "Medium unit that slams the ground to deal &55112_jnwl& $s_tu$ damage.\nInherited stats from the summoner: &55112_kltl&% Vitality, &55112_klgj&% ATK, &55112_klfy&% DEF.\nIt exists for &55112_klsj&s.",
-  "pt": "Unidade de tamanho médio que bate no chão para causar &55112_jnwl& $s_tu$ de dano.\nAtributos herdados do invocador: &55112_kltl&% de Vitalidade, &55112_klgj&% de ATQ, &55112_klfy&% de DEF.\nEla existe por &55112_klsj& segundos.",
+  "pt": "Unidade de tamanho médio que bate no chão para causar &55112_jnwl& $s_tu$ de dano.\nAtributos herdados do invocador: &55112_kltl&% de Vida, &55112_klgj&% de ATQ, &55112_klfy&% de DEF.\nEla existe por &55112_klsj& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_tulinggen": {
@@ -9434,7 +9434,7 @@
  "s_wangling1_desc": {
   "ch": "中型单位，使用带锈的刀对敌人进行攻击，对敌人造成威力&700022_gjwl&的$s_dao$伤害。\n继承召唤者的体力&700022_jctl&%，攻击&700022_jcsx&%，防御&700022_jcsx&%。",
   "en": "Medium unit that uses a rusty blade to attack enemies, dealing &700022_gjwl& $s_dao$ damage.\nInherited stats from the summoner: &700022_jctl&% Vitality, &700022_jcsx&% ATK, &700022_jcsx&% DEF.",
-  "pt": "Unidade de tamanho médio que utiliza uma lâmina enferrujada para atacar inimigos, causando &700022_gjwl& $s_dao$ de dano.\nHerda os seguintes atributos do invocador: &700022_jctl&% de Vitalidade, &700022_jcsx&% de ATQ e &700022_jcsx&% de DEF.",
+  "pt": "Unidade de tamanho médio que utiliza uma lâmina enferrujada para atacar inimigos, causando &700022_gjwl& $s_dao$ de dano.\nHerda os seguintes atributos do invocador: &700022_jctl&% de Vida, &700022_jcsx&% de ATQ e &700022_jcsx&% de DEF.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_wangling2": {
@@ -9446,7 +9446,7 @@
  "s_wangling2_desc": {
   "ch": "中型单位，使用残破的弓箭射击敌人，对敌人造成威力&700023_gjwl&的$s_jian$伤害。\n继承召唤者的体力&700023_jctl&%，攻击&700023_jcsx&%，防御&700023_jcsx&%。",
   "en": "Medium unit that uses a worn bow to attack enemies, dealing &700023_gjwl& $s_jian$ damage.\nInherited stats from the summoner: &700023_jctl&% Vitality, &700023_jcsx&% ATK, &700023_jcsx&% DEF.",
-  "pt": "Unidade de tamanho médio que utiliza um arco desgastado para atacar inimigos, causando &700023_gjwl& $s_jian$ de dano.\nAtributos herdados do invocador: &700023_jctl&% Vitalidade, &700023_jcsx&% ATQ, &700023_jcsx&% DEF.",
+  "pt": "Unidade de tamanho médio que utiliza um arco desgastado para atacar inimigos, causando &700023_gjwl& $s_jian$ de dano.\nAtributos herdados do invocador: &700023_jctl&% Vida, &700023_jcsx&% ATQ, &700023_jcsx&% DEF.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "s_wangling3": {
@@ -9458,7 +9458,7 @@
  "s_wangling3_desc": {
   "ch": "中型单位，使用阴冥爆对敌人造成威力&700024_gjwl&的$s_lei$。\n继承召唤者的体力&700024_jctl&%，攻击&700024_jcsx&%，防御&700024_jcsx&%。",
   "en": "Medium unit that unleashes Nether Blast to deal &700024_gjwl& $s_lei$ damage.\nInherited stats from the summoner: &700024_jctl&% Vitality, &700024_jcsx&% ATK, &700024_jcsx&% DEF.",
-  "pt": "Unidade de tamanho médio que libera Explosão do Submundo para causar &700024_gjwl& $s_lei$ de dano.\nHerda os seguintes atributos do invocador: &700024_jctl&% de Vitalidade, &700024_jcsx&% de ATQ e &700024_jcsx&% de DEF.",
+  "pt": "Unidade de tamanho médio que libera Explosão do Submundo para causar &700024_gjwl& $s_lei$ de dano.\nHerda os seguintes atributos do invocador: &700024_jctl&% de Vida, &700024_jcsx&% de ATQ e &700024_jcsx&% de DEF.",
   "auto": "local/hy-mt2"
  },
  "s_wanmeixuli": {
@@ -9494,7 +9494,7 @@
  "s_xiaohuayao_desc": {
   "ch": "小型单位，不可移动，通过喷出花蕊对敌人造成威力&46112_jnwl&的$s_mu$伤害。\n继承召唤者的体力&46112_hytl&%，攻击&46112_hygj&%，防御&46112_hyfy&%。\n持续&46112_hysj&秒。",
   "en": "Small unit that can't move. It deals &46112_jnwl& $s_mu$ damage by shooting Flower Buds.\nInherited stats from the summoner: &46112_hytl&% Vitality, &46112_hygj&% ATK, &46112_hyfy&% DEF.\nIt exists for &46112_hysj&s.",
-  "pt": "Unidade pequena que não pode se mover. Causa &46112_jnwl& de dano de $s_mu$ ao disparar Botões de Flor.\nAtributos herdados do invocador: &46112_hytl&% de Vitalidade, &46112_hygj&% de ATQ, &46112_hyfy&% de DEF.\nExiste por &46112_hysj&s.",
+  "pt": "Unidade pequena que não pode se mover. Causa &46112_jnwl& de dano de $s_mu$ ao disparar Botões de Flor.\nAtributos herdados do invocador: &46112_hytl&% de Vida, &46112_hygj&% de ATQ, &46112_hyfy&% de DEF.\nExiste por &46112_hysj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "s_xuanfeng": {

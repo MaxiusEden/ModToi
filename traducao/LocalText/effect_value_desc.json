@@ -8,7 +8,7 @@
  "effect_value_desc100061": {
   "ch": "持续损失体力值。",
   "en": "持续损失体力值。",
-  "pt": "Perda contínua de Vitalidade.",
+  "pt": "Perda contínua de Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc100071": {
@@ -20,7 +20,7 @@
  "effect_value_desc101": {
   "ch": "回复体力：{0}",
   "en": "回复体力：{0}",
-  "pt": "Restaura Vitalidade: {0}",
+  "pt": "Restaura Vida: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc102": {
@@ -32,7 +32,7 @@
  "effect_value_desc103": {
   "ch": "消耗当前体力：{0}",
   "en": "消耗当前体力：{0}",
-  "pt": "Consome Vitalidade atual: {0}",
+  "pt": "Consome Vida atual: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc104": {
@@ -44,7 +44,7 @@
  "effect_value_desc105": {
   "ch": "消耗最大体力：{0}",
   "en": "消耗最大体力：{0}",
-  "pt": "Consome Vitalidade Máx.: {0}",
+  "pt": "Consome Vida Máx.: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc10591": {
@@ -68,7 +68,7 @@
  "effect_value_desc10611": {
   "ch": "每次暴击时，回复体力值",
   "en": "每次暴击时，回复体力值",
-  "pt": "A cada golpe crítico, restaura Vitalidade.",
+  "pt": "A cada golpe crítico, restaura Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc10621": {
@@ -134,7 +134,7 @@
  "effect_value_desc110016": {
   "ch": "持续损失体力值。",
   "en": "持续损失体力值。",
-  "pt": "Perda contínua de Vitalidade.",
+  "pt": "Perda contínua de Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc111": {
@@ -554,7 +554,7 @@
  "effect_value_desc207": {
   "ch": "斩杀体力上限：{0}",
   "en": "斩杀体力上限：{0}",
-  "pt": "Limite de Vitalidade para Execução: {0}",
+  "pt": "Limite de Vida para Execução: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc208": {
@@ -668,13 +668,13 @@
  "effect_value_desc224": {
   "ch": "消耗当前体力：{0}%",
   "en": "消耗当前体力：{0}%",
-  "pt": "Consome Vitalidade atual: {0}%",
+  "pt": "Consome Vida atual: {0}%",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc225": {
   "ch": "每秒回复体力：{0}%",
   "en": "每秒回复体力：{0}%",
-  "pt": "Recuperação de Vitalidade por segundo: {0}%",
+  "pt": "Recuperação de Vida por segundo: {0}%",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc226": {
@@ -1004,7 +1004,7 @@
  "effect_value_desc276": {
   "ch": "每层增加体力：{0}%",
   "en": "每层增加体力：{0}%",
-  "pt": "Aumento de Vitalidade por camada: {0}%",
+  "pt": "Aumento de Vida por camada: {0}%",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc277": {
@@ -1082,7 +1082,7 @@
  "effect_value_desc289": {
   "ch": "每点攻击每秒消化的体力：{0}",
   "en": "每点攻击每秒消化的体力：{0}",
-  "pt": "Vitalidade digerida por segundo por ponto de ATQ: {0}",
+  "pt": "Vida digerida por segundo por ponto de ATQ: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc290": {
@@ -1118,7 +1118,7 @@
  "effect_value_desc295": {
   "ch": "被动提升小花妖体力：{0}",
   "en": "被动提升小花妖体力：{0}",
-  "pt": "Aumento passivo de Vitalidade da Pequena Fada das Flores: {0}",
+  "pt": "Aumento passivo de Vida da Pequena Fada das Flores: {0}",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc296": {
@@ -1220,7 +1220,7 @@
  "effect_value_desc47011": {
   "ch": "持续损失体力值。",
   "en": "持续损失体力值。",
-  "pt": "Perda contínua de Vitalidade.",
+  "pt": "Perda contínua de Vida.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc47021": {
@@ -1232,7 +1232,7 @@
  "effect_value_desc47061": {
   "ch": "持续损失体力值，并降低移动速度。",
   "en": "持续损失体力值，并降低移动速度。",
-  "pt": "Perda contínua de Vitalidade e redução da velocidade de movimento.",
+  "pt": "Perda contínua de Vida e redução da velocidade de movimento.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "effect_value_desc51": {

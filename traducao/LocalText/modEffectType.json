@@ -356,19 +356,19 @@
  "modEffectType1Name_hp": {
   "ch": "体力",
   "en": "Vitality",
-  "pt": "Vitalidade",
+  "pt": "Vida",
   "auto": "local/hy-mt2"
  },
  "modEffectType1Name_hpMax": {
   "ch": "最大体力",
   "en": "Max Vitality",
-  "pt": "Vitalidade Máx.",
+  "pt": "Vida Máx.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_hpRes": {
   "ch": "体力回复",
   "en": "Vitality Recovery",
-  "pt": "Recuperação de Vitalidade",
+  "pt": "Recuperação de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType1Name_life": {
@@ -715,7 +715,7 @@
  "modEffectType3Title_changeAttrCost": {
   "ch": "在消耗体力、灵力、念力时，消耗的属性增加",
   "en": "When using up Vitality. Energy, and Focus, the Stats Cost is increased",
-  "pt": "Ao gastar Vitalidade, Energia e Foco, o Custo dos Atributos aumenta.",
+  "pt": "Ao gastar Vida, Energia e Foco, o Custo dos Atributos aumenta.",
   "auto": "local/hy-mt2"
  },
  "modEffectType3Title_clearFeature": {
@@ -1146,7 +1146,7 @@
  "modEffectType3Title_trainRestore": {
   "ch": "每次在大地图修炼时，每获得一点经验，可回复指定值的体力、灵力、念力",
   "en": "Every time you Cultivate on the map and every time you gain a point of EXP, you can recover specified values of Vitality, Energy, and Focus",
-  "pt": "Toda vez que você Cultiva no mapa e toda vez que ganha um ponto de EXP, pode recuperar valores específicos de Vitalidade, Energia e Foco.",
+  "pt": "Toda vez que você Cultiva no mapa e toda vez que ganha um ponto de EXP, pode recuperar valores específicos de Vida, Energia e Foco.",
   "auto": "local/hy-mt2"
  },
  "modEffectType3Title_trainsExp": {
@@ -2010,7 +2010,7 @@
  "modEffectType3_trainRestore_value1Name": {
   "ch": "每点经验回复的体力",
   "en": "Vitality recovered for every point of EXP",
-  "pt": "Vitalidade recuperada por cada ponto de EXP",
+  "pt": "Vida recuperada por cada ponto de EXP",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "modEffectType3_trainRestore_value2Name": {

@@ -182,13 +182,13 @@
  "battleAbility_suitDesc1_10001": {
   "ch": "若装备的心法数量小于8，则体力上限+20%。",
   "en": "If less than 8 Mind Skills are equipped, Max Vitality +20%.",
-  "pt": "Se menos de 8 Técnicas Mentais estiverem equipadas, Vitalidade Máx. +20%.",
+  "pt": "Se menos de 8 Técnicas Mentais estiverem equipadas, Vida Máx. +20%.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10002": {
   "ch": "若没有装备其它红色心法，则获得3%的体力和灵力偷取。",
   "en": "If no other Mythic Mind Skill is equipped, gain 3% Vitality Steal and Energy Steal.",
-  "pt": "Se nenhuma outra Técnica Mental Mítica estiver equipada, ganhe 3% de Roubo de Vitalidade e Roubo de Energia.",
+  "pt": "Se nenhuma outra Técnica Mental Mítica estiver equipada, ganhe 3% de Roubo de Vida e Roubo de Energia.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10003": {
@@ -206,7 +206,7 @@
  "battleAbility_suitDesc1_10005": {
   "ch": "月结后最大体力和最大灵力恢复40%。",
   "en": "Max Vitality and Max Energy recover by 40% after monthly summary.",
-  "pt": "Vitalidade Máx. e Energia Máx. se recuperam em 40% após o resumo mensal.",
+  "pt": "Vida Máx. e Energia Máx. se recuperam em 40% após o resumo mensal.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10006": {
@@ -344,13 +344,13 @@
  "battleAbility_suitDesc1_10028": {
   "ch": "业火术透支时每秒会消耗自身5%的最大体力，并提升其伤害和射程。透支时间不再限制。",
   "en": "During the extension of Sinful Flame, it consumes 5% Max Vitality per sec to gain increased damage and range. There is no longer a time limit to the extension.",
-  "pt": "Durante a extensão da Chama do Pecado, consome 5% da Vitalidade Máx. por segundo para aumentar o dano e o alcance. Não há mais limite de tempo para a extensão.",
+  "pt": "Durante a extensão da Chama do Pecado, consome 5% da Vida Máx. por segundo para aumentar o dano e o alcance. Não há mais limite de tempo para a extensão.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10029": {
   "ch": "当你体力大于70%时，飞沙术的持续施法时间翻倍。",
   "en": "At 70% or higher Vitality, Sandstorm duration is doubled.",
-  "pt": "Com 70% ou mais de Vitalidade, a duração da Tempestade de Areia dobra.",
+  "pt": "Com 70% ou mais de Vida, a duração da Tempestade de Areia dobra.",
   "auto": "cohere/command-a-reasoning-08-2025"
  },
  "battleAbility_suitDesc1_10030": {
@@ -428,7 +428,7 @@
  "battleAbility_suitDesc2_10018": {
   "ch": "轰天拳不再消耗护盾打出额外攻击次数，转而每次造成伤害时会获得50点护盾。且每100点最大体力提高20点护盾上限。",
   "en": "Skyblast Fist no longer costs Shield for additional attacks but grants 50 Shield whenever it deals damage. Every 100 Max Vitality increases Max Shield by 20.",
-  "pt": "O Punho Explosivo Celestial não requer mais o uso de um Escudo para realizar ataques adicionais; porém, concede 50 pontos de Escudo sempre que causa dano. A cada 100 pontos de Vitalidade Máx., o limite máximo de Escudo aumenta em 20.",
+  "pt": "O Punho Explosivo Celestial não requer mais o uso de um Escudo para realizar ataques adicionais; porém, concede 50 pontos de Escudo sempre que causa dano. A cada 100 pontos de Vida Máx., o limite máximo de Escudo aumenta em 20.",
   "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10019": {
@@ -488,7 +488,7 @@
  "battleAbility_suitDesc2_10028": {
   "ch": "结束业火术时，透支消耗的体力会逐渐恢复。",
   "en": "After Sinful Flame finishes, the Vitality consumed by the extension is restored over time.",
-  "pt": "Após o término da Chama do Pecado, a Vitalidade consumida pela extensão é restaurada ao longo do tempo.",
+  "pt": "Após o término da Chama do Pecado, a Vida consumida pela extensão é restaurada ao longo do tempo.",
   "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10029": {
@@ -506,7 +506,7 @@
  "battleAbility_suitDesc2_10031": {
   "ch": "聚石阵在结束后，会引爆其生成的土傀儡，造成大量伤害（伤害与土傀儡的体力相关）。",
   "en": "After Rock Formation finishes, it detonates the Earth Golem it has summoned to deal huge damage (in proportion to Earth Golem Vitality).",
-  "pt": "Após a conclusão da Formação de Rochas, ela faz com que o Golem de Terra invocado detone, causando um grande dano (proporcional à Vitalidade do Golem de Terra).",
+  "pt": "Após a conclusão da Formação de Rochas, ela faz com que o Golem de Terra invocado detone, causando um grande dano (proporcional à Vida do Golem de Terra).",
   "auto": "local/hy-mt2"
  },
  "battleAbility_suitDesc2_10032": {

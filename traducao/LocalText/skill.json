@@ -872,31 +872,31 @@
  "skill_content_hp21": {
   "ch": "回复体力",
   "en": "回复体力",
-  "pt": "Recuperar Vitalidade",
+  "pt": "Recuperar Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hp22": {
   "ch": "失去体力",
   "en": "失去体力",
-  "pt": "Perda de Vitalidade",
+  "pt": "Perda de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hp31": {
   "ch": "体力",
   "en": "Vitality",
-  "pt": "Vitalidade",
+  "pt": "Vida",
   "auto": "local/hy-mt2"
  },
  "skill_content_hpCos21": {
   "ch": "体力消耗降低",
   "en": "体力消耗降低",
-  "pt": "Redução do consumo de Vitalidade",
+  "pt": "Redução do consumo de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hpCos22": {
   "ch": "体力消耗增加",
   "en": "体力消耗增加",
-  "pt": "Aumento do consumo de Vitalidade",
+  "pt": "Aumento do consumo de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hpDmg21": {
@@ -908,31 +908,31 @@
  "skill_content_hpMax21": {
   "ch": "体力上限增加",
   "en": "体力上限增加",
-  "pt": "Vitalidade máxima aumentada",
+  "pt": "Vida máxima aumentada",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hpMax22": {
   "ch": "体力上限减少",
   "en": "体力上限减少",
-  "pt": "Vitalidade máxima reduzida",
+  "pt": "Vida máxima reduzida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hpRes21": {
   "ch": "体力恢复速度增加",
   "en": "体力恢复速度增加",
-  "pt": "Velocidade de recuperação de Vitalidade aumentada",
+  "pt": "Velocidade de recuperação de Vida aumentada",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hpRes22": {
   "ch": "体力恢复速度减少",
   "en": "体力恢复速度减少",
-  "pt": "Velocidade de recuperação de Vitalidade reduzida",
+  "pt": "Velocidade de recuperação de Vida reduzida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_hpRes31": {
   "ch": "体力回复",
   "en": "体力回复",
-  "pt": "Recuperação de Vitalidade",
+  "pt": "Recuperação de Vida",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_content_icd21": {
@@ -1262,7 +1262,7 @@
  "skill_desc81011": {
   "ch": "每&81011_zhjg&秒在目标区域召唤&81011_yzsl&只野猪，协助你进行战斗。持续吹响荒炎号角，每&81011_qhjg&秒进行一次强化，使范围&81011_qhfw&的所有友方召唤物回复体力&81011_hftl&点，移动速度提升&81011_tsys&%。野猪：小型单位，继承法宝体力的&81011_yztl&%，对敌人造成威力&81011_yzwl&的$s_huo$伤害，持续&81011_cxsj&秒。",
   "en": "Summons &81011_yzsl& Wild Boar in the target area every &81011_zhjg&s to help you fight. If you continue blowing the Horn of Desolation, every &81011_qhjg&s all units summoned by your allies within &81011_qhfw& recover &81011_hftl& Vitality and their Agility increases by &81011_tsys&%. Wild Boar: Small unit, inherits &81011_yztl&% of Artifact Vitality, dealing &81011_yzwl& $s_huo$ DMG to enemies, lasts for &81011_cxsj&s.",
-  "pt": "A cada &81011_zhjg&s, invoca &81011_yzsl& Javali Selvagem na área alvo para ajudá-lo a lutar. Se você continuar tocando a Corneta da Desolação, a cada &81011_qhjg&s todas as unidades invocadas por seus aliados dentro de &81011_qhfw& recuperam &81011_hftl& de Vitalidade e sua Agilidade aumenta em &81011_tsys&%. Javali Selvagem: unidade pequena, herda &81011_yztl&% da Vitalidade do Artefato, causa &81011_yzwl& de dano de $s_huo$ aos inimigos e dura &81011_cxsj&s.",
+  "pt": "A cada &81011_zhjg&s, invoca &81011_yzsl& Javali Selvagem na área alvo para ajudá-lo a lutar. Se você continuar tocando a Corneta da Desolação, a cada &81011_qhjg&s todas as unidades invocadas por seus aliados dentro de &81011_qhfw& recuperam &81011_hftl& de Vida e sua Agilidade aumenta em &81011_tsys&%. Javali Selvagem: unidade pequena, herda &81011_yztl&% da Vida do Artefato, causa &81011_yzwl& de dano de $s_huo$ aos inimigos e dura &81011_cxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_desc810211": {
@@ -1298,7 +1298,7 @@
  "skill_desc81071": {
   "ch": "使用噬影斗篷，每&81071_fbjg&秒向范围&81071_fbfw&内的所有友方单位施加守护风暴，回复体力&81071_fbtl&点并提升防御&81071_fbfy&点，持续&81071_fysj+2&秒。",
   "en": "When Shadowgorged Cloak is used, casts Stormward on all allied units within &81071_fbfw& range every &81071_fbjg&s, restoring &81071_fbtl& Vitality and increasing DEF by &81071_fbfy&. Effect lasts for &81071_fysj+2&s.",
-  "pt": "Ao usar o Manto Devorador de Sombras, o feitiço Tempestade Protetora é lançado em todas as unidades aliadas dentro do alcance de &81071_fbfw& a cada &81071_fbjg& segundos, restaurando &81071_fbtl& de Vitalidade e aumentando a DEF em &81071_fbfy&. O efeito dura &81071_fysj+2& segundos.",
+  "pt": "Ao usar o Manto Devorador de Sombras, o feitiço Tempestade Protetora é lançado em todas as unidades aliadas dentro do alcance de &81071_fbfw& a cada &81071_fbjg& segundos, restaurando &81071_fbtl& de Vida e aumentando a DEF em &81071_fbfy&. O efeito dura &81071_fysj+2& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_desc81081": {
@@ -1358,7 +1358,7 @@
  "skill_desc91015": {
   "ch": "在本场战斗中，灵狐累计附身达到&91011_mjcs&次可施展，将战场幻化成一场梦境，持续&91011_mjsj&秒，所有敌人将沉浸在梦境之中无法行动，在梦境中的敌人受到的伤害提升&91011_mjsh&%，梦境中的敌人累计受到&91011_sqtl&%的总体力伤害时将会被惊醒（可行动），额外受到总体力&91011_qxsh&%的直接伤害。",
   "en": "Available once &91011_mjcs& Spiritual Foxes have attached themselves to enemies in the current battle. Mengyi turns the battlefield into a dream that lasts &91011_mjsj&s. No enemies can take any action while in the dream and receive &91011_mjsh&% more damage. An enemy will wake up from the dream after receiving more than (&91011_sqtl&% of Max Vitality) damage. Upon waking up, the enemy will instantly receive (&91011_qxsh&% of Max Vitality) damage.",
-  "pt": "Disponível após &91011_mjcs& Raposas Espirituais se ligarem a inimigos na batalha atual. Mengyi transforma o campo de batalha em um sonho que dura &91011_mjsj& segundos. Nenhum inimigo consegue realizar ações durante o sonho e, além disso, recebe &91011_mjsh&% a mais de dano. Um inimigo acorda do sonho após receber dano superior a (&91011_sqtl&% da Vitalidade Máx.). Ao acordar, ele sofre instantaneamente (&91011_qxsh&% da Vitalidade Máx.) de dano.",
+  "pt": "Disponível após &91011_mjcs& Raposas Espirituais se ligarem a inimigos na batalha atual. Mengyi transforma o campo de batalha em um sonho que dura &91011_mjsj& segundos. Nenhum inimigo consegue realizar ações durante o sonho e, além disso, recebe &91011_mjsh&% a mais de dano. Um inimigo acorda do sonho após receber dano superior a (&91011_sqtl&% da Vida Máx.). Ao acordar, ele sofre instantaneamente (&91011_qxsh&% da Vida Máx.) de dano.",
   "auto": "local/hy-mt2"
  },
  "skill_desc91021": {
@@ -1394,13 +1394,13 @@
  "skill_desc91032": {
   "ch": "当法宝所有者的体力低于50%时可施展，吹奏音符，为&91031_hffw&范围内的所有友方单位回复体力&91031_hftl&/秒，持续&91031_hfsj&秒。",
   "en": "Available once your Vitality drops below 50%. Muqing plays a song, restoring &91031_hftl&/s Vitality to all allies within &91031_hffw& for &91031_hfsj&s.",
-  "pt": "Disponível quando sua Vitalidade cair abaixo de 50%. Muqing toca uma canção, restaurando &91031_hftl&/s de Vitalidade para todos os aliados dentro de &91031_hffw& durante &91031_hfsj& segundos.",
+  "pt": "Disponível quando sua Vida cair abaixo de 50%. Muqing toca uma canção, restaurando &91031_hftl&/s de Vida para todos os aliados dentro de &91031_hffw& durante &91031_hfsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "skill_desc91033": {
   "ch": "在本场战斗中，累计受到的伤害达到&91031_tlzz&%总体力且当前体力低于&91031_zstl&%（或法宝所有者体力低于&91031_zhtl&%）时可施展。器灵变身为红色状态，回复自身与法宝所有者的全部状态，并提升造成的伤害&91031_bmzs&%，当任何一方受到伤害时，会为双方回复&91031_shtl&%的体力（每&91031_bmjg&秒最多触发1次）。",
   "en": "Available after receiving a total of (&91031_tlzz&% of Max Vitality) damage in the current battle and Muqing's Vitality drops below &91031_zstl&% (or your HP drops below &91031_zhtl&%). Muqing turns red, recovering your status and her own status and dealing &91031_bmzs&% more damage. Every time she or you receive damage, both will recover &91031_shtl&% Vitality (Cannot occur more than 1 time every &91031_bmjg&s).",
-  "pt": "Disponível após receber um total de dano equivalente a (&91031_tlzz&% da Vitalidade Máx.) na batalha atual e quando a Vitalidade de Muqing cair abaixo de &91031_zstl&% (ou quando a sua Vitalidade cair abaixo de &91031_zhtl&%). Muqing fica vermelha, recuperando seu estado e o dela e causando &91031_bmzs&% a mais de dano. Sempre que ela ou você sofrerem dano, ambos recuperam &91031_shtl&% de Vitalidade (isso não pode ocorrer mais de uma vez a cada &91031_bmjg& segundos).",
+  "pt": "Disponível após receber um total de dano equivalente a (&91031_tlzz&% da Vida Máx.) na batalha atual e quando a Vida de Muqing cair abaixo de &91031_zstl&% (ou quando a sua Vida cair abaixo de &91031_zhtl&%). Muqing fica vermelha, recuperando seu estado e o dela e causando &91031_bmzs&% a mais de dano. Sempre que ela ou você sofrerem dano, ambos recuperam &91031_shtl&% de Vida (isso não pode ocorrer mais de uma vez a cada &91031_bmjg& segundos).",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_desc91041": {
@@ -1436,13 +1436,13 @@
  "skill_desc91053": {
   "ch": "在本场战斗中，仙法冲击累计造成了&91051_bmcs&次伤害可施展，随机对场上的敌人进行打击&91051_hzsl&次，每次打击都基于法宝所有者与目标的资质差对其造成伤害，并且打击的伤害将会按&91051_hztl&%的比例转化为所有者的体力上限，效果持续&91051_tlsj&秒。",
   "en": "Available once Immortal Blasts have dealt damage &91051_bmcs& times in the current battle. Lingge attacks random enemies &91051_hzsl& times. The damage she deals to a target is determined by the stat gap between the target and you. &91051_hztl&% of her damage done will be converted into your Max Vitality. This effect lasts &91051_tlsj&s.",
-  "pt": "Disponível após as Explosões Imortais terem causado dano &91051_bmcs& vezes na batalha atual. Lingge ataca inimigos aleatórios &91051_hzsl& vezes. O dano que ela inflige a um alvo depende da diferença de atributos entre esse alvo e você. &91051_hztl&% do dano causado por ela será convertido em sua Vitalidade Máx. Este efeito dura &91051_tlsj& segundos.",
+  "pt": "Disponível após as Explosões Imortais terem causado dano &91051_bmcs& vezes na batalha atual. Lingge ataca inimigos aleatórios &91051_hzsl& vezes. O dano que ela inflige a um alvo depende da diferença de atributos entre esse alvo e você. &91051_hztl&% do dano causado por ela será convertido em sua Vida Máx. Este efeito dura &91051_tlsj& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_desc91061": {
   "ch": "每次攻击可将所造成伤害值的&91061_shbl&%转化为护盾给予法宝所有者。",
   "en": "Each attack converts &91061_shbl&% of damage done into the Vitality of your shield.",
-  "pt": "Cada ataque converte &91061_shbl&% do dano causado em Vitalidade para o seu escudo.",
+  "pt": "Cada ataque converte &91061_shbl&% do dano causado em Vida para o seu escudo.",
   "auto": "local/hy-mt2"
  },
  "skill_desc91062": {
@@ -1454,7 +1454,7 @@
  "skill_desc91063": {
   "ch": "在本场战斗中，累计施加护盾值达到自身体力的&91061_hdbl&%时可施展，创造出一个保护区域，将保护区域内的敌人全部弹出，并对敌人造成伤害。保护区域会持续变大，碰撞到的敌人全部被弹出并受到威力&91061_hzwl&的伤害，持续&91061_hzsj&秒，在保护区域内的友方单位，受到的伤害将反弹&91061_ftbl&%给伤害来源。",
   "en": "Available once the accumulated Shield Vitality has reached &91061_hdbl&% of Cangya's Vitality. Cangya creates a protection zone, bouncing out all enemies and dealing damage to them. The protection zone will keep expanding, bouncing away all enemies upon contact and dealing &91061_hzwl& damage. Duration: &91061_hzsj&s. Allies inside the protection zone will reflect &91061_ftbl&% of incoming damage back to the attacker.",
-  "pt": "Disponível quando a Vitalidade do Escudo acumulado atingir &91061_hdbl&% da Vitalidade de Cangya. Cangya cria uma zona de proteção que repele todos os inimigos, causando dano a eles. A zona de proteção continuará a se expandir, afastando todos os inimigos ao entrar em contato e causando &91061_hzwl& de dano. Duração: &91061_hzsj& segundos. Os aliados dentro da zona de proteção refletirão &91061_ftbl&% do dano recebido de volta ao atacante.",
+  "pt": "Disponível quando a Vida do Escudo acumulado atingir &91061_hdbl&% da Vida de Cangya. Cangya cria uma zona de proteção que repele todos os inimigos, causando dano a eles. A zona de proteção continuará a se expandir, afastando todos os inimigos ao entrar em contato e causando &91061_hzwl& de dano. Duração: &91061_hzsj& segundos. Os aliados dentro da zona de proteção refletirão &91061_ftbl&% do dano recebido de volta ao atacante.",
   "auto": "local/hy-mt2"
  },
  "skill_desc91071": {
@@ -1478,13 +1478,13 @@
  "skill_desc91081": {
   "ch": "每次攻击命中敌人时有&91081_dqgl&%的概率夺取对方的血液，自身立刻回复&91081_hftl&点体力，并使目标中毒，使其每秒损失&91081_dqtl&点体力，持续&91081_dqcj&秒，最大叠加&91081_dqcs&层",
   "en": "Each attack has a &91081_dqgl&% chance to steal enemy blood on hit, restoring &91081_hftl& Vitality for yourself at once, and poisoning the enemy, which will lose &91081_dqtl& Vitality per sec for &91081_dqcj&s, up to &91081_dqcs& stacks.",
-  "pt": "Cada ataque tem uma chance de &91081_dqgl&% de roubar o sangue do inimigo ao acertá-lo, restaurando imediatamente &91081_hftl& de Vitalidade para você, além de envenenar o inimigo, que perderá &91081_dqtl& de Vitalidade por segundo durante &91081_dqcj&s, podendo acumular até &91081_dqcs& vezes esse efeito.",
+  "pt": "Cada ataque tem uma chance de &91081_dqgl&% de roubar o sangue do inimigo ao acertá-lo, restaurando imediatamente &91081_hftl& de Vida para você, além de envenenar o inimigo, que perderá &91081_dqtl& de Vida por segundo durante &91081_dqcj&s, podendo acumular até &91081_dqcs& vezes esse efeito.",
   "auto": "local/hy-mt2"
  },
  "skill_desc91082": {
   "ch": "成功夺取敌人的血液&91082_xjcs&次后可使用。献祭自身&91082_xjtl|x-1|f0&%当前的体力，并持续链接&91082_ljfw&范围内的一名敌人，使目标移速&91082_ljjs&%且无法使用身法，并使其造成的伤害&91082_ljjdsh&%，持续&91082_jlcj&秒。",
   "en": "Available after stealing enemy blood &91082_xjcs& times. Sacrifice &91082_xjtl|x-1|f0&% of your current Vitality and keep binding an enemy within &91082_ljfw& range, &91082_ljjs&% its Agility, disabling its Motion Skills, and &91082_ljjdsh&% its damage done for &91082_jlcj&s.",
-  "pt": "Disponível após roubar sangue inimigo &91082_xjcs& vezes. Sacrifique &91082_xjtl|x-1|f0&% da sua Vitalidade atual e mantenha um inimigo preso num raio de &91082_ljfw&, reduzindo sua Agilidade em &91082_ljjs&%, desativando sua Técnica de Movimento e diminuindo o dano causado por ele em &91082_ljjdsh&% durante &91082_jlcj& segundos.",
+  "pt": "Disponível após roubar sangue inimigo &91082_xjcs& vezes. Sacrifique &91082_xjtl|x-1|f0&% da sua Vida atual e mantenha um inimigo preso num raio de &91082_ljfw&, reduzindo sua Agilidade em &91082_ljjs&%, desativando sua Técnica de Movimento e diminuindo o dano causado por ele em &91082_ljjdsh&% durante &91082_jlcj& segundos.",
   "auto": "local/hy-mt2"
  },
  "skill_desc91083": {
@@ -1592,13 +1592,13 @@
  "skill_desc92081": {
   "ch": "每次攻击可使自身获得&92081_pghd&点护盾。",
   "en": "Each attack accumulates &92081_pghd& Shield Vitality.",
-  "pt": "Cada ataque acumula &92081_pghd& Vitalidade no Escudo.",
+  "pt": "Cada ataque acumula &92081_pghd& Vida no Escudo.",
   "auto": "local/hy-mt2"
  },
  "skill_desc92082": {
   "ch": "当自身护盾达到&92081_sxhd&点时可施展，引爆自身所有护盾，发出一道持续&92081_sxsj&秒的冲击，对碰撞到的敌人造成伤害。",
   "en": "Available once &92081_sxhd& Shield Vitality has been accumulated. All the Shield Vitality is detonated to release a blast that lasts &92081_sxsj&s, dealing damage to every enemy it hits.",
-  "pt": "Disponível após acumular &92081_sxhd& pontos de Vitalidade do Escudo. Toda a Vitalidade do Escudo é detonada, liberando uma explosão que dura &92081_sxsj& segundos e causa dano a todos os inimigos atingidos.",
+  "pt": "Disponível após acumular &92081_sxhd& pontos de Vida do Escudo. Toda a Vida do Escudo é detonada, liberando uma explosão que dura &92081_sxsj& segundos e causa dano a todos os inimigos atingidos.",
   "auto": "local/hy-mt2"
  },
  "skill_desc92091": {
@@ -1610,7 +1610,7 @@
  "skill_desc92092": {
   "ch": "当法宝所有者失去护盾时，将自身当前&92091_hdtl&点的体力转化为护盾施加给法宝所有者，此效果&92091_hdcd&秒内最多触发1次。",
   "en": "When you lose your shield, Jiuzhu will convert &92091_hdtl& Vitality into the Vitality of your shield. This effect cannot occur more than 1 time every &92091_hdcd&s.",
-  "pt": "Quando você perder seu Escudo, Jiuzhu converterá &92091_hdtl& de Vitalidade em Vitalidade para o seu escudo. Esse efeito não pode ocorrer mais de 1 vez a cada &92091_hdcd&s.",
+  "pt": "Quando você perder seu Escudo, Jiuzhu converterá &92091_hdtl& de Vida em Vida para o seu escudo. Esse efeito não pode ocorrer mais de 1 vez a cada &92091_hdcd&s.",
   "auto": "local/hy-mt2"
  },
  "skill_desc92101": {
@@ -1652,7 +1652,7 @@
  "skill_desc92112": {
   "ch": "使用奔势&92111_pgcs&次后可施展，为场上所有友方单位提升&92111_tlsx&点体力上限，持续&92111_tlsj&秒。",
   "en": "Available once Momentum has been cast &92111_pgcs& times. All allies' Max Vitality will increase by &92111_tlsx& for &92111_tlsj&s.",
-  "pt": "Disponível após o feitiço Momentum ser usado &92111_pgcs& vezes. A Vitalidade Máx de todos os aliados aumentará em &92111_tlsx& por &92111_tlsj& segundos.",
+  "pt": "Disponível após o feitiço Momentum ser usado &92111_pgcs& vezes. A Vida Máx de todos os aliados aumentará em &92111_tlsx& por &92111_tlsj& segundos.",
   "auto": "local/hy-mt2"
  },
  "skill_desc92121": {
@@ -1700,13 +1700,13 @@
  "skill_desc92151": {
   "ch": "发射一只灵鸟，对敌人造成伤害后，会随机返回一个友方单位身上，为友方单位回复&92151_rntl&体力。",
   "en": "Youling releases a Spiritual Bird. This bird deals damage to an enemy, then flies to a random ally, recovering the ally's Vitality by &92151_rntl&.",
-  "pt": "Youling libera um Pássaro Espiritual. Este pássaro causa dano a um inimigo e, em seguida, voa até um aliado aleatório, recuperando a Vitalidade desse aliado em &92151_rntl&.",
+  "pt": "Youling libera um Pássaro Espiritual. Este pássaro causa dano a um inimigo e, em seguida, voa até um aliado aleatório, recuperando a Vida desse aliado em &92151_rntl&.",
   "auto": "local/hy-mt2"
  },
  "skill_desc92152": {
   "ch": "当法宝所有者的体力低于50%时可施展，施放一只灵鸟围绕着召唤者，每秒可为其回复&92151_zntl&体力，持续&92151_znsj&秒。",
   "en": "Available once your Vitality drops below 50%. Youling releases a Spiritual Bird to surround you, recovering your Vitality by &92151_zntl& every second for &92151_znsj&s.",
-  "pt": "Disponível quando sua Vitalidade cair abaixo de 50%. Youling libera um Pássaro Espiritual que o cerca, recuperando sua Vitalidade em &92151_zntl& a cada segundo por &92151_znsj& segundos.",
+  "pt": "Disponível quando sua Vida cair abaixo de 50%. Youling libera um Pássaro Espiritual que o cerca, recuperando sua Vida em &92151_zntl& a cada segundo por &92151_znsj& segundos.",
   "auto": "local/hy-mt2+revisao-nuvem"
  },
  "skill_desc92161": {
@@ -1778,7 +1778,7 @@
  "skill_desc92331": {
   "ch": "施加&92321_dwcs&次减速后，对&92321_xqfw&范围内的最多&92321_xqsl&个敌人造成每秒体力&92321_jstl&点的效果，持续&92321_yxsj&秒。",
   "en": "After slowing &92321_dwcs& times, &92321_jstl& Vitality for max &92321_xqsl& enemies in &92321_xqfw& range per sec for &92321_yxsj&s.",
-  "pt": "Depois de reduzir a velocidade &92321_dwcs& vezes, &92321_jstl& de Vitalidade por segundo para até &92321_xqsl& inimigos em um alcance de &92321_xqfw& por &92321_yxsj&s.",
+  "pt": "Depois de reduzir a velocidade &92321_dwcs& vezes, &92321_jstl& de Vida por segundo para até &92321_xqsl& inimigos em um alcance de &92321_xqfw& por &92321_yxsj&s.",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_desc92341": {
@@ -1790,7 +1790,7 @@
  "skill_desc92351": {
   "ch": "魅惑&92341_hdcs&后，为玩家施加自身最大体力10%护盾，&92341_hdms&%所受伤害。",
   "en": "After charming &92341_hdcs& times, apply a shield of 10% self Max Vitality to the player that &92341_hdms&% damage.",
-  "pt": "Após encantar &92341_hdcs& vezes, aplica-se um escudo equivalente a 10% da Vitalidade Máx do próprio jogador, que absorve &92341_hdms&% do dano.",
+  "pt": "Após encantar &92341_hdcs& vezes, aplica-se um escudo equivalente a 10% da Vida Máx do próprio jogador, que absorve &92341_hdms&% do dano.",
   "auto": "local/hy-mt2"
  },
  "skill_desc92361": {
@@ -1958,7 +1958,7 @@
  "skill_field_hpCost11": {
   "ch": "体力消耗",
   "en": "体力消耗",
-  "pt": "Custo de Vitalidade",
+  "pt": "Custo de Vida",
   "auto": "nuvem/claude-sonnet-5-5"
  },
  "skill_field_magicDmg21": {
