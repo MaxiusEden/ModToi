@@ -19,6 +19,8 @@ namespace MOD_6b2SYs
         private static readonly System.Text.RegularExpressions.Regex Hanzi =
             new System.Text.RegularExpressions.Regex(@"[一-鿿]");
         private static readonly HashSet<string> LongHanzi = new HashSet<string>();
+        // Códigos que o mod de reparo diz não existirem, e dois vizinhos que ele não citou.
+        private static readonly int[] MonthLogSamples = { 710015, 710023, 710089, 7007905, 10306804, 710001, 710012 };
 
         public static void Tick()
         {
@@ -70,7 +72,50 @@ namespace MOD_6b2SYs
             }
             string path = Path.Combine(g.mod.GetModPathRoot(ModSoleID), "ptbr_layout.txt");
             File.AppendAllText(path, sb.ToString(), new UTF8Encoding(false));
+            DumpMonthLog();
             MelonLogger.Msg(string.Format("[PtBr] Layout: F9 #{0}, {1} textos gravados em {2}", count, n, path));
+        }
+
+        /// <summary>
+        /// Diagnóstico dos registros mensais que o mod de reparo apaga: se a tabela do jogo acha os códigos e quantos
+        /// registros restam no save carregado.
+        /// </summary>
+        private static void DumpMonthLog()
+        {
+            if (g.data == null || g.data.world == null || g.data.world.monthLog == null)
+            {
+                return;
+            }
+            var conf = g.conf.roleLogLocal;
+            var sb = new StringBuilder();
+            sb.Append("=== ").Append(DateTime.Now.ToString("HH:mm:ss")).Append(" tabela: ").Append(conf.allConfList.Count).Append('\n');
+            var inList = new HashSet<int>();
+            for (int i = 0; i < conf.allConfList.Count; i++)
+            {
+                inList.Add(conf.allConfList[i].id);
+            }
+            foreach (int id in MonthLogSamples)
+            {
+                sb.Append(id).Append(": GetItem ").Append(conf.GetItem(id) != null ? "acha" : "null")
+                    .Append(", lista ").Append(inList.Contains(id) ? "tem" : "nao tem").Append('\n');
+            }
+            var months = g.data.world.monthLog;
+            int total = 0, missing = 0;
+            for (int m = 0; m < months.Count; m++)
+            {
+                var logs = months[m].logs;
+                total += logs.Count;
+                for (int i = 0; i < logs.Count; i++)
+                {
+                    if (conf.GetItem(logs[i].id[0]) == null)
+                    {
+                        missing++;
+                    }
+                }
+            }
+            sb.Append("meses ").Append(months.Count).Append(", registros ").Append(total).Append(", sem texto ").Append(missing).Append('\n');
+            File.AppendAllText(Path.Combine(g.mod.GetModPathRoot(ModSoleID), "ptbr_registros_mensais.txt"), sb.ToString(),
+                new UTF8Encoding(false));
         }
 
         private static void Line(StringBuilder sb, string kind, Component c, string text, float fontSize, string wrap,

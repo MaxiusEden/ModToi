@@ -51,6 +51,7 @@ namespace MOD_6b2SYs
             new KeyValuePair<Regex, string>(new Regex(@"^Pontos de Jade Bagua:(?=\d)"), "Pontos de Jade Bagua: "),
             // Mod de reparo do save: resumo depois de carregar.
             new KeyValuePair<Regex, string>(new Regex(@"^删除(\d+)个无效月结日志$"), "Excluídos $1 registros mensais inválidos"),
+            new KeyValuePair<Regex, string>(new Regex(@"(?<=\d)删除不存在的月结日志 "), ". Registro mensal excluído, código "),
             // Espírito do Artefato: preço de venda escrito em chinês no código do jogo.
             new KeyValuePair<Regex, string>(new Regex(@"^出售价格：(\d+)灵石$"), "Preço de venda: $1 Pedras Espirituais"),
             // Leilão: "Formação da Alma、Iluminação", reinos que o jogo junta com a vírgula chinesa.
