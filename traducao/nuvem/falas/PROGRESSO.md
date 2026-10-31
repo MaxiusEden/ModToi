@@ -6,3 +6,4 @@ f05: 106 traduzidas; dúvida: pontos de acupuntura 'Spirit Platform/Lumbar Yang/
 f06: 180 traduzidas; dúvida: {gender1|B}/{gender|B} (pronomes) usados como no inglês, podem ficar estranhos em PT; 'Treinar luta' para Spar
 f07: 82 traduzidas; dúvida: 'Fearless in Peril' (status) traduzido como 'Destemido no Perigo'
 f08: 127 traduzidas; dúvida: 'Myriad Forms' = 'Miríade de Formas' (há também 'Inúmeras Formas' no LocalText)
+f09: 158 traduzidas; dúvida: falas de combate dos companheiros com gênero/tratamento supostos (falantes femininas, jogador tratado no masculino)
