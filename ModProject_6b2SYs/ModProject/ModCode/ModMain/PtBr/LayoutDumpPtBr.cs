@@ -70,6 +70,8 @@ namespace MOD_6b2SYs
             }
             string path = Path.Combine(g.mod.GetModPathRoot(ModSoleID), "ptbr_layout.txt");
             File.AppendAllText(path, sb.ToString(), new UTF8Encoding(false));
+            LocalTextPtBr.WriteMissing();
+            RoleLogLocalPtBr.WriteMissing();
             MelonLogger.Msg(string.Format("[PtBr] Layout: F9 #{0}, {1} textos gravados em {2}", count, n, path));
         }
 
